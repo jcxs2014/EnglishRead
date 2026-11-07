@@ -33,11 +33,11 @@ modified: "2026-11-06"
 **中文理解**：她体内有个安静的角落——最像 Thana 的那一部分——正沉迷于这种掌控：让脉搏停下的能力。只凭意志，就能取走一条命。
 **关键词**：Thana / pulse
 **为什么这样写**：神器的诱惑写进血统——「the one most like Thana」把她与死亡之神的亲缘正式入档；「nothing but her will」最冷：杀神的武器原来一直长在她身体里。
-**读者视角提示**：对照第三章「本源在魂不在体」——Risha 自己就是半个证据。Jas 的「Look」救下的不只是那两位 imperator。
+**读者视角提示**：对照第八章「本源在魂不在体」的结论——Risha 自己就是半个证据。Jas 的「Look」救下的不只是那两位 imperator。
 
 > **原句 4:** "Tethers bloomed out of their bodies, out of everyone's, going from heartbeat to heartbeat. Warm red and shimmering gold and darkest blue. A cat's cradle of connection."
 
-**中文理解**：线从他们体内、从每个人的体内绽出，心跳连着心跳。暖的红、闪耀的金、最深的蓝。一张猫摇篮绳网般的连接。七个词的绳结里，坐着整支队伍。
+**中文理解**：线从他们体内、从每个人的体内绽出，心跳连着心跳。暖的红、闪耀的金、最深的蓝。一张猫摇篮绳网般的连接。八个词的绳结里，坐着整支队伍。
 **关键词**：tethers / cradle
 **为什么这样写**：群像用绳艺收束——cat's cradle（翻花绳）的意象让死亡技术呈现为一种「接住彼此」的游戏；三种颜色悄然对应三组人（爱情/神裔/暗影），她的眼正在学会读人。
 **读者视角提示**：这是全书第一次「看见联系」的通感——Risha 的 necromancy 由此多了一层社会学：她读的不只是死者，是活人怎么互扣手指。

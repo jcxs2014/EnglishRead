@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch25",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch25_v.txt",
+ "facts": [
+  {
+   "fact": "副歌开题：意识分装 GHOST/BODY 两声部——「Tell me why I’m not dead」；healer 查无伤可配衣损——Jas 短暂失联后归来：「You healed yourself...Just as you healed Rian from the brink of death」。",
+   "anchor": "THE GHOST: I should be dead.",
+   "start": 15,
+   "end": 43
+  },
+  {
+   "fact": "洗浴：水转粉转黑（她的血、父亲的血）——她死抱血水盆不放——「Don't let me be separated from any part of him」。",
+   "anchor": "This is all I have left.",
+   "start": 2968,
+   "end": 2992
+  },
+  {
+   "fact": "parlor 集合：书墙+astrolabe（金环构出 Cosmic Scale 形状）；imperators 摘面具；Dante 仍镣铐但口枷已除；报名仪式（Dante 迟疑后才认 heir）。",
+   "anchor": "Vitaeans.",
+   "start": 5221,
+   "end": 5230
+  },
+  {
+   "fact": "tether 视界：暖红/烁金/最深的蓝自众人身体开花——猫摇篮式的连接——「She was not alone」——指尖的霜化了。",
+   "anchor": "Look.",
+   "start": 6891,
+   "end": 6896
+  },
+  {
+   "fact": "识破：Nikolas 摇头否认知情——她穿透恍惚看清：「This wasn't a ploy to seek forgiveness from his god. This was a scheme to get them close enough to kill Phos.」；Julian/Dante 请随、Angelica 自请留守会见 Kaspan 家属。",
+   "anchor": "This was a scheme to get them close enough to kill Phos.",
+   "start": 11728,
+   "end": 11784
+  },
+  {
+   "fact": "Edwin 入队：自荐 wasteland trekker——Nikolas 立刻应下（真实动机：把矛的秘密带出城）——「But no soldiers. They would only be targets for Tae… for the Sunslayer.」",
+   "anchor": "And take the secret of the Sunbringer Spear out of the city with them.",
+   "start": 13074,
+   "end": 13144
+  },
+  {
+   "fact": "通灵交易：Varrick 问 Vakara 死术——她答「Necromancy. Yes.」——条件：见被收缴的 Samhara（要问 Val fulcrum 是物体还是灵魂）——「Very well. But it will not be returned to you.」",
+   "anchor": "“Necromancy.”",
+   "start": 14061,
+   "end": 14074
+  },
+  {
+   "fact": "自证实验：她沉入生死之谷种下一粒棘种——咳血满地化花瓣——「To prove that it's real」——GHOST 末句「To prove that I cannot die」。",
+   "anchor": "To prove that I cannot die.",
+   "start": 18169,
+   "end": 18196
+  }
+ ]
+}
