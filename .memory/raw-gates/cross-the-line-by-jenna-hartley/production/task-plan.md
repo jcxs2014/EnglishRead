@@ -3,7 +3,7 @@
 - 语料：text/ 30 件零偏移（ch01-ch29 = 书内 Chapter 1-29；ch30 = Hot as Puck Podcast 目录内 bonus 访谈）；verify_corpus PASS（expect 30, --shared Logan,Carson,Levi, 2026-11-06）
 - 装置页处置：Note from the Author / What to read next ×2 → xx_ 剔除；Podcast 在目录页在列且含故事信息 → 收录 ch30
 - 批次节奏：长篇 1 章/次，每章 chapter.sh rc=0 立刻 pathspec commit；每批前 gate.sh
-- 状态：ch01-ch16 完工（16/30）；推进 ch17-ch30
+- 状态：ch01-ch30 全部完工（30/30）+ 整书 gate EXIT=0；待总览三篇 + T1 自检
 - ch01 备注：chapter.sh EXIT=0（⚠️ 块数 14 对建议 7–13，提示型已记不改）；素读 11/11 命中
 
 | 章 | 书内标题 | 状态 | commit |
@@ -24,19 +24,19 @@
 | ch14 | 14. Chapter Fourteen | 完工 | eae09471c |
 | ch15 | 15. Chapter Fifteen | 完工 | 51aab6485 |
 | ch16 | 16. Chapter Sixteen | 完工 | c58edb2e9 |
-| ch17 | 17. Chapter Seventeen | 待写 | |
-| ch18 | 18. Chapter Eighteen | 待写 | |
-| ch19 | 19. Chapter Nineteen | 待写 | |
-| ch20 | 20. Chapter Twenty | 待写 | |
-| ch21 | 21. Chapter Twenty-One | 待写 | |
-| ch22 | 22. Chapter Twenty-Two | 待写 | |
-| ch23 | 23. Chapter Twenty-Three | 待写 | |
-| ch24 | 24. Chapter Twenty-Four | 待写 | |
-| ch25 | 25. Chapter Twenty-Five | 待写 | |
-| ch26 | 26. Chapter Twenty-Six | 待写 | |
-| ch27 | 27. Chapter Twenty-Seven | 待写 | |
-| ch28 | 28. Chapter Twenty-Eight | 待写 | |
-| ch29 | 29. Chapter Twenty-Nine | 待写 | |
-| ch30 | Hot as Puck Podcast | 待写 | |
+| ch17 | 17. Chapter Seventeen | 完工 | ee292cf68 |
+| ch18 | 18. Chapter Eighteen | 完工 | 4dc968f53 |
+| ch19 | 19. Chapter Nineteen | 完工 | 556d1ad8e |
+| ch20 | 20. Chapter Twenty | 完工 | b790370c7 |
+| ch21 | 21. Chapter Twenty-One | 完工 | d55236af1 |
+| ch22 | 22. Chapter Twenty-Two | 完工 | 5c68d7ea2 |
+| ch23 | 23. Chapter Twenty-Three | 完工 | 79100729c |
+| ch24 | 24. Chapter Twenty-Four | 完工 | e7d71a810 |
+| ch25 | 25. Chapter Twenty-Five | 完工 | cb52fc4f7 |
+| ch26 | 26. Chapter Twenty-Six | 完工 | 05f57341b |
+| ch27 | 27. Chapter Twenty-Seven | 完工 | 5c58a5e41 |
+| ch28 | 28. Chapter Twenty-Eight | 完工 | d9b03309e |
+| ch29 | 29. Chapter Twenty-Nine | 完工 | e2d0b3784 |
+| ch30 | Hot as Puck Podcast | 完工 | 6c7d7e11b |
 | 总览 | 00_概述 / 00_金句精选 / 00_情感节点 | 待写 | |
 | T1 | 自检三件产物 | 待跑 | |
