@@ -107,7 +107,7 @@ modified: "2026-11-07"
 | virtually | 几乎 | It’s a rare thing, virtually unheard of, really. |
 | eternally | 永恒地 | A person whose soul is eternally intertwined and fused to another’s. |
 | exited | 离开 | What felt like the entire contents of her stomach exited her body in a rather projectile manner, splashing against the wall Kastral was leaning against. |
-| horrified | 惊恐的 | She screamed, horrified, as she registered that the vampire in the centermost glass enclosure... |
+| peeling | 剥下 | Alliera imagined peeling his skin off layer by layer as panic enveloped her mind. |
 | projectile | 抛射物 | What felt like the entire contents of her stomach exited her body in a rather projectile manner, splashing against the wall Kastral was leaning against. |
 
 ### ⭐⭐ 进阶
