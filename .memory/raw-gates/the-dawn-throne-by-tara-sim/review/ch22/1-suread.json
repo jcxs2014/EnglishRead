@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch22",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch22_ii.txt",
+ "facts": [
+  {
+   "fact": "押至办公室：Rian 不安瞄兵背的金属 barrel——矛已被收缴；忧惧：Solarians 几时认出 Sunbringer Spear、Phos 几时索要。",
+   "anchor": "Nikolas and Rian were brought to the imperator’s office",
+   "start": 17,
+   "end": 72
+  },
+  {
+   "fact": "军团羽制揭秘：Phos 脱落之羽烧成灰 etched into 最强战士皮肤——「They are made… holy」（说出时如念旧情人的名字）；Rian 反驳「Then by your logic, we're as condemnable as Taesia」。",
+   "anchor": "They are made… holy.",
+   "start": 5128,
+   "end": 5148
+  },
+  {
+   "fact": "情报互换：Nikolas 透露 Nexus 有 couple thousand Solarian refugees、Phos 知情仍置其于险——Ulshära 低声「No」；Taesia 之名首次入 Solara 卷宗。",
+   "anchor": "The Divine City has been vacant for many years.",
+   "start": 7972,
+   "end": 8019
+  },
+  {
+   "fact": "Dawn Throne 机制：Severance 后 Phos 求建王座——attunes His power to the realm——只要不离座领域就稳；但绿洲干涸、病 faster——「I do not want a war. I want stability. If that requires unseating Him, then that is what must be done.」",
+   "anchor": "After the Severance,",
+   "start": 8302,
+   "end": 8322
+  },
+  {
+   "fact": "疤为证：Rian 拉开衣领——胸口疤（nightstone+剑伤两度）正位 Nyx 当年刺 Phos 处——Ulshära 面如死灰：「You have come here to kill Him」——屏障内密谈。",
+   "anchor": "You have come here to kill Him,",
+   "start": 11421,
+   "end": 11452
+  },
+  {
+   "fact": "Varrick 到场：绿眼尖耳矮壮（非 Waren 但 carriage same——为君而战者的站姿）；Nikolas 自报谱名 Nikshä/Rilan ost Waren（Sealing 后家规：继承人以三太阳 Walkmar/Risäl/Nikai 为前缀，父从母愿缀于 Vitaean 名）。",
+   "anchor": "Nikshä ost Waren, known in Vitae as Nikolas Cyr",
+   "start": 16823,
+   "end": 16870
+  },
+  {
+   "fact": "死刑提议：Varrick 无波「We will execute them before Lord Phos」——Ulshära 力保（our kin）——「Shadowspawn and Children of the Renounced have no use to me」。",
+   "anchor": "We will execute them before Lord Phos.",
+   "start": 19156,
+   "end": 19194
+  },
+  {
+   "fact": "Nikolas 的交易： years of pretty lies 学来的狡黠——「she's hiding in the Shadow Sea...no full-blooded Solarian can survive long enough to drag her out」——「If you free us, we will track her down and deliver her to face justice. If it's an execution you want, let it not be ours, but hers.」",
+   "anchor": "let it not be ours, but hers.",
+   "start": 21370,
+   "end": 21399
+  }
+ ]
+}

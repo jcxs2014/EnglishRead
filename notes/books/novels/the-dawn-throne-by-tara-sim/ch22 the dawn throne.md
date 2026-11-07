@@ -37,7 +37,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "After the Severance, Solara waned rapidly, and so He requested the construction of the Dawn Throne. It attunes His power to that of the realm. So long as He sits upon the throne, so long as He never physically leaves it, the realm remains stable."
 
-**中文理解**：「Sealing 之后 Solara 急剧衰弱，于是祂要求建造 Dawn Throne——把祂的力量调谐于领域。只要祂坐在王座上，只要祂从不真正离开，领域就保持稳定。」书名此刻第一次走进正文。
+**中文理解**：「Severance（断绝）之后 Solara 急剧衰弱，于是祂要求建造 Dawn Throne——把祂的力量调谐于领域。只要祂坐在王座上，只要祂从不真正离开，领域就保持稳定。」书名此刻第一次走进正文。
 **关键词**：Severance / attunes
 **为什么这样写**：世界的电源插头被画出来——神的肉身是电池、王座是适配器、领域是电器；「requested」的被动语态泄露真相：神也在求生，祂的暴政始于脆弱。
 **读者视角提示**：这是全书战略谜底：弑神之前先让祂离座。所有「为什么祂不亲征」的疑问在此一次结清。
