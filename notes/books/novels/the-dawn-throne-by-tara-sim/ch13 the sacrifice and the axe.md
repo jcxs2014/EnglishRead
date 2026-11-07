@@ -26,7 +26,7 @@ modified: "2026-11-06"
 **中文理解**：「对不起，」她低声说。她没有按本分剪断那些线、放灵魂去往虚空，而是把灵引回尚有余温的身体。「但我们有需要。」
 **关键词**：severing / still-warm
 **为什么这样写**：禁术的仪式感全靠那声「对不起」——道歉与征用在同一口气里；「still-warm」是全段的道德刻度：她复活的是刚被杀的人，尸体越新鲜，伦理越烫手。
-**读者视角提示**：她曾对 Valentin 说过「亡者应受尊重」——本章她亲自修改了自己底线的适用范围。记住这口气，Mortri 线会回来收它。
+**读者视角提示**：「the dead deserved respect」本是 House Vakara 的祖训——本章她亲自修改了自己底线的适用范围。记住这口气，Mortri 线会回来收它。
 
 > **原句 3:** "“Stop this!” Rath’s breathing was ragged, his voice strangled. “This isn’t what I taught you!”"
 
