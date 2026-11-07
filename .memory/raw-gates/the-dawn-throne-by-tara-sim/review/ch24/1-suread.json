@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch24",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch24_iv.txt",
+ "facts": [
+  {
+   "fact": "牢中群像：Angelica 断魔之痛（lightsbane 痛至脊椎）；Cosima 邻室开赌（Curly=Fin 会吐）；Fin 颓然；Yvri 缺席、Deia 笑声的余悸——小提琴被留下（A last resort）。",
+   "anchor": "“Bet you five soles he’ll hurl.”",
+   "start": 528,
+   "end": 560
+  },
+  {
+   "fact": "报丧：Risha 无起伏两报丧讯——「My father...My father is dead」——Angelica 全身 working parts 停摆（sternum 下扭进的匕首）；她的丧父记忆（哀容之母、medic 说是心脏弱）——Lord August of House Mardova。",
+   "anchor": "“My father is dead.”",
+   "start": 4043,
+   "end": 4063
+  },
+  {
+   "fact": "隔栏之哀：Risha 当年曾向丧父的 Angelica 致哀（死亡终局的行家）——如今角色互换；「Two words that didn't mean anything against the colossus of this grief」——她闭眼如释重负。",
+   "anchor": "I’m sorry,",
+   "start": 5565,
+   "end": 5575
+  },
+  {
+   "fact": "未知邻室：哼声+音阶=她的开门咒——古雅花体的 Vaegan 口音道歉——多语言者（Nysari/Outer Solari/Parithvian 弹舌）——「a vessel of curiosity without a spigot」。",
+   "anchor": "“My apologies!” came a light voice in accented Vaegan.",
+   "start": 7506,
+   "end": 7560
+  },
+  {
+   "fact": "吟游诗人登场：Edwin Sommer——Sunslayer Saga 已有多首；被 Zenith Tower 卫兵驱落数周（想在 imperator 面前献演求 patron）。",
+   "anchor": "I am Edwin Sommer, famed lyricist and balladeer of the Three Sisters.",
+   "start": 9287,
+   "end": 9356
+  },
+  {
+   "fact": "入狱缘由：唱 Taesia 歌被 Ulshära 关押警告（dissuade future endeavors）——「I think they have forgotten I'm here」；听到 Aurora Tower 被抹——「I will have to add a stanza」。",
+   "anchor": "I think they have forgotten I’m here.",
+   "start": 12518,
+   "end": 12555
+  },
+  {
+   "fact": "泄密惊觉：Nysari 在 Solara 被禁（他却会）——Fin 点破「Makes it a lot easier to eavesdrop」——他全程偷听：包括 Nikolas 说的 Sunbringer Spear 情报！Risha 的眼骤然锐利。",
+   "anchor": "He could easily bring that information to Ulshära.",
+   "start": 13807,
+   "end": 13857
+  },
+  {
+   "fact": "交易官宣：Ulshära 巡牢——「apprehend the Sunslayer」换 provisional 释放；Angelica 应下并加一个条件——「The bard comes with us.」",
+   "anchor": "“The bard comes with us.”",
+   "start": 15018,
+   "end": 15043
+  }
+ ]
+}
