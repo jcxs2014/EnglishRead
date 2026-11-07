@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch31",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch31_chapter_31.txt",
+ "facts": [
+  {
+   "fact": "章首：苏醒——耳鸣嘈杂浑身剧痛被暗影绑着竖直吊在墙上",
+   "anchor": "Sound buzzed through Andra’s mind as she slowly drifted back to consciousness, an undercurrent of jumbled noises",
+   "start": 36,
+   "end": 148
+  },
+  {
+   "fact": "记忆核对：雪地那幕真实——可眼前的 Gerrick 活着",
+   "anchor": "No, this memory was hers, she was sure of it. Gerrick lying in the snow, crimson blood pooling on his chest",
+   "start": 2301,
+   "end": 2408
+  },
+  {
+   "fact": "衣衫染血但皮肤无伤——他已被治愈（治愈者=Vasara）",
+   "anchor": "They were bloodied and torn, exposing the skin of his chest underneath. Skin that bore no sign of injury.",
+   "start": 2614,
+   "end": 2719
+  },
+  {
+   "fact": "Vasara 点破：没料到她来得这么\"自愿\"——Gerrick 的\"劝说\"之功；\"该我履约了\"",
+   "anchor": "“I must admit, Gerrick, I did not plan on her coming so willingly, even with your persuasion.”",
+   "start": 3544,
+   "end": 3638
+  },
+  {
+   "fact": "Gerrick 放弃报酬只求放母亲+放 Andra——\"其余都不要\"",
+   "anchor": "“Free my mother, and keep the rest.” Gerrick never took his eyes off Andra. “I don’t want it. Let Andra go.”",
+   "start": 3852,
+   "end": 3960
+  },
+  {
+   "fact": "Vasara 摊牌：从未抓过他母亲——谎称只为骗他来",
+   "anchor": "“I never had your mother, darling.” She waved a careless hand. “I merely told you I had her to get you here.",
+   "start": 4615,
+   "end": 4723
+  },
+  {
+   "fact": "三十年前：仆人送来\"最不寻常的东西\"——一个男婴",
+   "anchor": "Three decades ago, a servant brought me the most unusual thing. Do you know what that was, hunter?",
+   "start": 7701,
+   "end": 7799
+  },
+  {
+   "fact": "杀婴令：让仆人一刀刺穿那婴儿的心脏",
+   "anchor": "I told the servant to run a blade through that baby’s heart.",
+   "start": 8649,
+   "end": 8709
+  },
+  {
+   "fact": "纹身释义：每杀一只同类怪物纹身就长——标记背叛引同类追杀",
+   "anchor": "When you slay one of your own, a tattoo appears, correct? This physical manifestation marks your betrayal",
+   "start": 10858,
+   "end": 10963
+  },
+  {
+   "fact": "身份判决：生于深渊最黑暗处的私生子——怪物大厅四周涌出围守待命",
+   "anchor": "Like it or not, hunter, you are one of them. Born a bastard in the darkest part of the pit itself.”",
+   "start": 10739,
+   "end": 10838
+  },
+  {
+   "fact": "章末悬念：已得到所需没理由留他活命——怪物们各向前一步",
+   "anchor": "Yet somehow, here you are, and now that I have what I need from you there is no reason to keep you alive.",
+   "start": 11882,
+   "end": 11987
+  },
+  {
+   "fact": "最后一屏：她决意不再压抑情绪任其全部释放——绑缚微微松脱",
+   "anchor": "Emotions boiled under the surface of her skin, and she was no longer interested in locking them up tight",
+   "start": 12416,
+   "end": 12520
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

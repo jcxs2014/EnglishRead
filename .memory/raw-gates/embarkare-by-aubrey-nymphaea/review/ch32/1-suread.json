@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch32",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "章首：逐根点燃手指——火焰治愈断骨暗影束缚逃离摔落",
+   "anchor": "Heart pounding in her ears, Andra ignited her fingertips one by one. With each crackle of flames",
+   "start": 36,
+   "end": 132
+  },
+  {
+   "fact": "连发两团火球直击 Vasara——银发发梢冒烟",
+   "anchor": "Forming two balls of flames, she released them one after the other, straight at Vasara.",
+   "start": 1505,
+   "end": 1592
+  },
+  {
+   "fact": "沸腾之雨：聚拢水汽凝穹顶烧开——红眼乌鸦烫死落地",
+   "anchor": "before they could leave the ground, boiling rain poured down in sheets, their bodies left twitching where they lay.",
+   "start": 6943,
+   "end": 7058
+  },
+  {
+   "fact": "人质反转：Vasara 押 Gerrick 用骨刃抵喉割出血线——喝令撤火圈",
+   "anchor": "He was kneeling once more, and his head was bent back with the bone blade pressed firmly to his throat.",
+   "start": 7409,
+   "end": 7512
+  },
+  {
+   "fact": "黑根爆发：粗过大腿的藤根破地缠死 Vasara——魔法与她合而为一以她的血为燃料",
+   "anchor": "Andra’s magic exploded as black roots thicker than her thighs erupted through the floor.",
+   "start": 8395,
+   "end": 8483
+  },
+  {
+   "fact": "处刑：拾骨刃\"Edgeron？替我问好\"——刺入 Vasara 心脏杀死她",
+   "anchor": "Andra screamed and plunged the blade into the dark magic wielder's heart.",
+   "start": 9688,
+   "end": 9761
+  },
+  {
+   "fact": "骨刃刺穿翡翠——力量将她击飞仰面倒地宝石开裂",
+   "anchor": "Inhaling deeply, Andra shoved the blade through the emerald.",
+   "start": 10816,
+   "end": 10876
+  },
+  {
+   "fact": "意识空间：苍白黑发男子歪嘴一笑眨眼——\"终于见到你了\"（Edgeron 亲自打招呼）",
+   "anchor": "A lopsided smile formed on his lips as slithering black lines poked from under his collar, and he winked.",
+   "start": 11374,
+   "end": 11479
+  },
+  {
+   "fact": "男声警告：翡翠若死 Gerrick 也会像怪物们一样死——Gerrick 捂胸倒下",
+   "anchor": "He will die like the others if the emerald dies.",
+   "start": 12763,
+   "end": 12811
+  },
+  {
+   "fact": "指点：宝石破损需一个宿主——\"把宝石带到血那里去否则他会死\"",
+   "anchor": "With such damage, it needs a host, little one.",
+   "start": 13406,
+   "end": 13452
+  },
+  {
+   "fact": "Nelveen 赶到按胸止血转述 Quentin 警讯：各处通道打开怪物遍地必须撤",
+   "anchor": "“Quentin says all sorts of gates are opening. There are monsters everywhere.” Nelveen was terrified. “We have to run.”",
+   "start": 14517,
+   "end": 14635
+  },
+  {
+   "fact": "章末：剖胸骨长口把翡翠塞进胸腔作宿主——血涌满喉咙；Gerrick 复活抱住她\"直到我最后一口气\"后黑暗吞没",
+   "anchor": "In one swift movement, Andra cut a long line down the length of her sternum and shoved the emerald inside.",
+   "start": 14865,
+   "end": 14971
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

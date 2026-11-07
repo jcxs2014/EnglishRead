@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch33",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "换 Gerrick 视角：端水与炖汤走下黑暗监狱走廊送饭",
+   "anchor": "Gerrick’s footfalls were heavy as he made his way down the dark hallway.",
+   "start": 48,
+   "end": 120
+  },
+  {
+   "fact": "战后：怪物随 Vasara 之死全部逃逸去向不明——铁门被扯落\"留到以后再想\"",
+   "anchor": "The monsters had escaped after Vasara was killed. All of them, gone",
+   "start": 563,
+   "end": 630
+  },
+  {
+   "fact": "Rayner 值守脸部重伤只睁一只眼——拒替班\"我在这里为她\"",
+   "anchor": "Rayner perked in the wooden chair. His face had been beaten so badly that Gerrick could only see one eye",
+   "start": 818,
+   "end": 922
+  },
+  {
+   "fact": "Andra 被锁脏牢房：拒绝一切补给连毯子弃置——紫黑瘀伤不看他",
+   "anchor": "Andra sat against the far wall of the dingy cell they had locked her in the night before",
+   "start": 1751,
+   "end": 1839
+  },
+  {
+   "fact": "前夜 Gerrick 与 Nelveen 为昏迷的她清洗接骨包扎——每声骨响令他羞愤",
+   "anchor": "he and Nelveen had cleaned her while she remained unconscious, setting her broken bones and bandaging her lacerations.",
+   "start": 2371,
+   "end": 2489
+  },
+  {
+   "fact": "她终于转头看他——眼中生趣尽失只剩空洞：\"你真以为我会信你？\"",
+   "anchor": "Where once was life and passion in those dark eyes he was so obsessed with, now lay nothing but emptiness.",
+   "start": 2817,
+   "end": 2923
+  },
+  {
+   "fact": "镣铐来历：Quentin 刑讯室找到——Nelveen 认出稀有魔法抑制器；锁住 Andra",
+   "anchor": "Quentin found the manacles in the torture chamber the night before and Nelveen identified them",
+   "start": 3477,
+   "end": 3571
+  },
+  {
+   "fact": "翡翠征兆：胸骨间绿光脉动黑纹蠕动——\"你还没见识过我的能力的十分之一\"",
+   "anchor": "the emerald embedded in her skin between her breasts, dark veins squirming beneath her reddened skin",
+   "start": 4008,
+   "end": 4108
+  },
+  {
+   "fact": "初见真相官宣：第一天就是奉命去收货——\"但从林中初遇起我就是你的\"",
+   "anchor": "I was there that day for you. I had already been given the assignment from Vasara, and I was there to collect",
+   "start": 4453,
+   "end": 4562
+  },
+  {
+   "fact": "承诺转折：客栈看她打得稀烂——\"那时我知道我彻底下不了船了\"",
+   "anchor": "Then I saw how shitty you are at fighting at the Traveler’s Inn, and I knew I was entirely committed.",
+   "start": 4917,
+   "end": 5018
+  },
+  {
+   "fact": "誓言升级：取出翡翠前不走——必要时跟你走一百万次天涯海角",
+   "anchor": "I will not leave you until we figure out a way to get that gods damned emerald out of your beautiful body",
+   "start": 5325,
+   "end": 5430
+  },
+  {
+   "fact": "全书末句：她说\"你造出了无法想象的怪物\"\"你不是怪物\"——\"也许我不是。但你是。\"",
+   "anchor": "“You have no idea the monster you’ve created, Gerrick,” she whispered in the small space between them.",
+   "start": 5728,
+   "end": 5830
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
