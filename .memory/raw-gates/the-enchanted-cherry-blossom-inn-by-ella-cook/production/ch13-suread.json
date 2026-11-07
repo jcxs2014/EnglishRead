@@ -4,70 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch13_chapter_13.txt",
  "facts": [
   {
-   "fact": "Beltane 这天 Jamie 看到樱花开败、落了一地，觉得就像他和 Amrita 的关系。",
-   "anchor": "as dead as his relationship with Amrita",
-   "start": 427,
-   "end": 466
+   "fact": "Beltane 早晨 Jamie 心情低落，仍帮搬穿婚礼装的花园侏儒并与朋友寒暄。",
+   "anchor": "then carefully helped to move them, while trying to chat and smile with friends",
+   "start": 197,
+   "end": 276
   },
   {
-   "fact": "Lily-Ann 站在果园边，树向她伸过来，她用魔法把整片樱花重新开了一遍。",
-   "anchor": "they stretched towards her",
-   "start": 3857,
+   "fact": "Lily-Ann 接过他搞不定的滑布，三两下系成花球状装饰。",
+   "anchor": "Deft fingers with mud under the nails took over",
+   "start": 1040,
+   "end": 1087
+  },
+  {
+   "fact": "Lily-Ann 走到果园边施法，整片樱花树向她伸展并重新盛放。",
+   "anchor": "Lily-Ann walked slowly to the trees and they stretched towards her",
+   "start": 3817,
    "end": 3883
   },
   {
-   "fact": "施法后 Lily-Ann 又累又饿，要 Jamie 弄杯茶和培根三明治。",
-   "anchor": "I’m bloody famished now",
-   "start": 5421,
-   "end": 5444
+   "fact": "Katie 与 Ophelia 上门宣布 Mia 与 Aiden 今天结婚。",
+   "anchor": "‘And you’re getting married today!’ Katie squealed.",
+   "start": 8798,
+   "end": 8849
   },
   {
-   "fact": "Katie 在门口宣布 Mia 今天就要结婚。",
-   "anchor": "you’re getting married today",
-   "start": 8803,
-   "end": 8831
+   "fact": "Mist 自己溜进屋，劝两人接受这场被安排好的婚礼。",
+   "anchor": "Mist jumped down and sauntered her way into the house",
+   "start": 9805,
+   "end": 9858
   },
   {
-   "fact": "Katie 说明没领证，所以这是 handfasting（手绑礼）。",
-   "anchor": "this is a handfasting",
-   "start": 10581,
-   "end": 10602
+   "fact": "Amrita 到谷仓放托盘时被保鲜魔法圈惊得跳开，托盘滑落。",
+   "anchor": "only to yelp and jump back, one of the trays skittering across the floor",
+   "start": 16773,
+   "end": 16845
   },
   {
-   "fact": "Mia 说她要的日子就是「以你妻子身份结束的那一天」。",
-   "anchor": "the day I want is the one I end as your wife",
-   "start": 12256,
-   "end": 12300
+   "fact": "Beth 手一按让蓝雪纺泛出更浅色阶，并把刺绣重排。",
+   "anchor": "lighter shades rippled out from her fingers",
+   "start": 23835,
+   "end": 23878
   },
   {
-   "fact": "Amrita 到 inn 看见樱花还盛开着，随即想起是魔法。",
-   "anchor": "Then she remembered: magic.",
-   "start": 13107,
-   "end": 13134
-  },
-  {
-   "fact": "Amrita 对 Jamie 说她现在明白魔法根本不会让他说出口，不是他的错。",
-   "anchor": "the magic… was never going to let you",
-   "start": 18529,
-   "end": 18566
-  },
-  {
-   "fact": "她把手伸过保护圈时只觉凉意，不再害怕，觉得也许能走下去。",
-   "anchor": "she wasn’t afraid any more",
-   "start": 19666,
-   "end": 19692
-  },
-  {
-   "fact": "Katie 解释未觉醒的人只看得见布料、看不见花纹的移动。",
-   "anchor": "People who aren’t awake to magic, they’ll just see the fabric",
-   "start": 24449,
-   "end": 24510
-  },
-  {
-   "fact": "Aiden 请 Jamie 当他的 best man（手绑礼的伴郎），Jamie 答应。",
-   "anchor": "I’d be honoured.",
-   "start": 30373,
-   "end": 30389
+   "fact": "Aiden 私下请 Jamie 在手绑礼上站他身边当伴郎。",
+   "anchor": "‘Would you stand with me? When we handfast?’",
+   "start": 29941,
+   "end": 29985
   }
  ]
 }

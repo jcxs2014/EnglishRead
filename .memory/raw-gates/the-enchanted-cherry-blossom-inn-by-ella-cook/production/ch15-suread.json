@@ -4,52 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch15_epilogue.txt",
  "facts": [
   {
-   "fact": "尾声：Amrita 与 Jamie 手牵手溜回谷仓，婚礼已近尾声。",
-   "anchor": "hands tightly clasped",
-   "start": 67,
+   "fact": "两人牵手溜回谷仓，婚宴已近散场，只剩几名客人围坐。",
+   "anchor": "Amrita and Jamie snuck back into the barn, hands tightly clasped",
+   "start": 24,
    "end": 88
   },
   {
-   "fact": "大家等的是 Mia 送给 Aiden 的结婚礼物。",
-   "anchor": "Mia’s wedding present for Aiden",
-   "start": 820,
-   "end": 851
+   "fact": "Mia 笑骂他们迟到，说再不来就派 Mist 去抓人。",
+   "anchor": "If you kept us waiting much longer, I was going to send Mist out after you",
+   "start": 489,
+   "end": 563
   },
   {
-   "fact": "图纸是给 Sylvie 建在 Mia 与 Aiden 花园里的新家。",
-   "anchor": "My new home.",
-   "start": 4465,
-   "end": 4477
+   "fact": "Jamie 把藏好的长圆筒礼盒从角落搬上桌。",
+   "anchor": "He smiled at Amrita before retrieving the long, round case",
+   "start": 1406,
+   "end": 1464
   },
   {
-   "fact": "Sylvie 说在这里她能更久地保住独立与尊严。",
-   "anchor": "keep independence – and dignity",
-   "start": 4970,
-   "end": 5001
+   "fact": "Mia 拧开筒盖抽出纸卷递给 Aiden，说 Happy wedding day, hubby。",
+   "anchor": "Mia took the heavy tube from Jamie. She unscrewed the end",
+   "start": 1779,
+   "end": 1836
   },
   {
-   "fact": "Sylvie 说 Amrita 与 Jamie 一起确保了这一点。",
-   "anchor": "Amrita’s been working with Jamie to make sure of that",
-   "start": 5077,
-   "end": 5130
+   "fact": "Aiden 把图纸铺满桌子，连看几张后皱眉说看不懂。",
+   "anchor": "Aiden chuckled as he unrolled the papers across the table",
+   "start": 3350,
+   "end": 3407
   },
   {
-   "fact": "Sylvie 得意地说自己也撮合了他们。",
-   "anchor": "I helped them get together",
-   "start": 5238,
-   "end": 5264
+   "fact": "Amrita 抽出水彩概念图放到最上层帮他理解。",
+   "anchor": "She pulled it out and placed it on the top.",
+   "start": 3950,
+   "end": 3993
   },
   {
-   "fact": "Jamie 说接下来几个月他会常来 Hudsbury。",
-   "anchor": "spending a lot more time in Hudsbury in the coming months",
-   "start": 6347,
-   "end": 6404
+   "fact": "Sylvie 唱歌似地宣布这是她的新家，能更久保住独立与尊严。",
+   "anchor": "Sylvie almost sang the words as Aiden gawped",
+   "start": 4479,
+   "end": 4523
   },
   {
-   "fact": "全书收尾自注：还不是结束，只是暂时够用。",
-   "anchor": "(still not) The End",
-   "start": 6688,
-   "end": 6707
+   "fact": "Jamie 拨开她颊边头发（小心不碰掉那朵粉花），说今后会常来 Hudsbury。",
+   "anchor": "He turned to her and gently pushed her hair back from her cheek",
+   "start": 6142,
+   "end": 6205
   }
  ]
 }
