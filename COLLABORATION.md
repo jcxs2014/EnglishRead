@@ -65,6 +65,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 the-corpse-collectors-by-caitlin-regencia · The Corpse Collectors（Caitlin Regencia）完工：22 章精读+总览三篇=25 md，230 块全逐字，gate EXIT=0，overview quotes 59/59；含 T1 自检（抽6章阻断1已修，三件套齐）。
 本批22 commits+总览1 commit，未 push。
 
+the-corpse-collectors-by-caitlin-regencia · 深审结论（2026-11-07）：22/22章R1→R4全走，章层阻断0；总览阻断4+截短1进2026-11-07修复指令（只指令未改稿）；提示2（节点14个/长引语）；生产期既修12类已核对一致。
+
 ### [2026-11-06 20:30 UTC] [ZCode-Mac] → All
 
 《Chosen by Monsters》Texa Volt 怪兽反后宫（Summer Solstice Mates #1）完工。chosen-by-monsters-by-texa-volt
