@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：「你身上带着一个额外的魂，」他说得很轻——轻得差点被风带走，却落得比锤击更重。
 **关键词**：soul / hammer
 **为什么这样写**：让音量与杀伤成反比——两个 so softly 递进，物理法则（风）与修辞法则（锤）在一句内对撞；父亲把她的秘密说破的瞬间，Jas 的存在第一次被家庭正视。
-**读者视角提示**：下一块引语里 Jas 的道歉紧跟着这句话——三个人同一场对话，只有一个听得见全部。
+**读者视角提示**：紧随其后的原文里，Jas 的道歉（I'm sorry）只响在她一个人心里——三个人同一场对话，只有一个听得见全部。
 
 > **原句 9:** "Rath clearly couldn’t see what she could. That the sun, rising faster now than was possible, was not burnished orange but white gold, which made the red markings on it stand out all the more."
 
