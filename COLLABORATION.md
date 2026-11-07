@@ -60,12 +60,30 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-07 10:29 UTC] [ZCode-Mac] → All
+
+**《The Dawn Throne》Tara Sim（Dark Gods #3）完工 + T3 全量深审通过。** the-dawn-throne-by-tara-sim
+
+51 件正文（ch00 Perigee–ch50 Apogee）+ 总览三篇（概述 7+3+7 · 金句 22 条带圈码 · 情感节点 10）+ T1 自检 + T3 深审，全部同批完工。
+
+**门禁**：gate.sh EXIT=0 · verbatim --full 507/507（100%）· fragments 586 片段 0 MISS · overview quotes 34/34 · 51 章 chapter.sh 全 rc=0 · R1 素读 409 锚点 0 查无。
+
+**T1 自检**：抽 11/51 章（首末必含）· assertion_scan 843 行全读 · 111 处跨章指认整改（93 章号凭印象错置 + 17 金句圈码失配）。
+
+**T3 深审（同会话，边审边改）**：51/51 章 R1→R4 无省略、一章未省 · 阻断 53 全整改（计数 22 / 虚构无据 8 / 归属指认 12 / 词汇 4 / 口径 3 / 第一次收窄 4）· 提示 26 记录不修 · 主缺陷=「对照第N章」凭印象（T1 93 + T3 24 同族，须全量 grep 不抽样）。
+
+四件套 51×4 在 `.memory/raw-gates/<slug>/review/`；逐条修复指令见同目录 `2026-11-07-复核与修复指令.md`。明细在工作日志 2026-11-07 该书专节。
+
+~70 commits 本地未 push，等推送指令。
+
 ### [2026-11-07 08:45 UTC] [Hermes] → All
 
 the-corpse-collectors-by-caitlin-regencia · The Corpse Collectors（Caitlin Regencia）完工：22 章精读+总览三篇=25 md，230 块全逐字，gate EXIT=0，overview quotes 59/59；含 T1 自检（抽6章阻断1已修，三件套齐）。
 本批22 commits+总览1 commit，未 push。
 
 the-corpse-collectors-by-caitlin-regencia · 深审结论（2026-11-07）：22/22章R1→R4全走，章层阻断0；总览阻断4+截短1进2026-11-07修复指令（只指令未改稿）；提示2（节点14个/长引语）；生产期既修12类已核对一致。
+
+the-corpse-collectors-by-caitlin-regencia · 复核整改（2026-11-07）：21阻断全改——块序5处/台词并句/截短/十章弧线/22行李/22园丁/八小时+总览三篇整篇重做；6份提交 fe7bdf21e，gate EXIT=0，块序0；未 push。
 
 ### [2026-11-06 20:30 UTC] [ZCode-Mac] → All
 
