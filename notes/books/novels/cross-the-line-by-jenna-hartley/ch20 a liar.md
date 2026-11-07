@@ -82,7 +82,7 @@ modified: "2026-11-07"
 **中文理解**：很多球员会把奖杯带回故乡——他显然不会。这又是一次提醒：家人，以及所有无法与他们分享的东西。但他努力不去想——毕竟他生命里还有 Logan、Georgia 和这些朋友。
 **关键词**：Cup to their hometowns、wouldn't be doing、tried not to dwell
 **为什么这样写**：把一个仪式写成缺失清单——别人带奖杯回家，他的"家"没有地址；"tried" 三个字母全是咬牙。
-**读者视角提示**：Cup Day 这条线在下一章会变成他主动设计的"新仪式"——伤口的解法他从来不靠遗忘。
+**读者视角提示**：Cup Day 这条线在这里悬而未决——他还不知道要拿它做什么，只知道想让她陪着。伤口的解法他从来不靠遗忘。
 
 > **原句 11:** "I was still waiting to hear back from my agent, but I couldn't say anything about that to Bryn or anyone. My agent seemed confident that Anaheim and Minnesota were drawing up contracts for me. But until it was a done deal, I was keeping it to myself."
 

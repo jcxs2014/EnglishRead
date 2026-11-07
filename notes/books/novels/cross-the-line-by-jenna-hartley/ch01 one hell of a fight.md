@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "Since Levi was based in Dallas and I lived in Minnesota, we rarely got to record in the same place or even the same time zone. But I loved that my baby brother and I got paid to bond over hockey as players in the NHL and the PWHL. It was a dream come true."
 
-**中文理解**：Logan 和弟弟 Levi 一个住明尼苏达、一个驻达拉斯，很少能同时区录每周播客；但兄妹俩一个打 NHL、一个打 PWHL，还能靠冰球赚钱，她觉得像梦想成真。
+**中文理解**：Logan 和弟弟 Levi 一个住明尼苏达、一个驻达拉斯，很少能同一时区录制每周播客；但兄妹俩一个打 NHL、一个打 PWHL，还能靠冰球赚钱，她觉得像梦想成真。
 **关键词**：time zone、NHL、PWHL、bond、dream come true
 **为什么这样写**：开场三个句子把双城录制结构、兄妹职业身份与两个联盟的对照全部立住，后文所有同酬争论都踩在这条设定线上，不需要再补任何说明。
 **读者视角提示**：第一人称直接入场，"dream come true" 先给一层甜味铺垫，为后面兄妹当场翻脸的落差蓄力。

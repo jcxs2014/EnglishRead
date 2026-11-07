@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "And then, at the end of the second period, Bryn had informed us she wasn't going to make it to the hospital. I still couldn't believe how quickly it had all happened. Fortunately, Georgia had sprung into action. She'd contacted the on-site medical team, and we'd helped Bryn down to the med bay, where Dr. Astrid Thorne, Emerson's twin, had taken over."
 
-**中文理解**：第二节结束前，Bryn 宣布她撑不到医院了。快得让人不敢信。好在 Georgia 立刻行动：联系现场医疗组，一行人把 Bryn 护送到医务室——Emerson 的双胞胎姐姐、Astrid Thorne 医生接手。
+**中文理解**：第二节结束前，Bryn 宣布她撑不到医院了。快得让人不敢信。好在 Georgia 立刻行动：联系现场医疗组，一行人把 Bryn 护送到医务室——Emerson 的双胞胎 Astrid Thorne 医生接手。
 **关键词**：make it to the hospital、sprung into action、med bay、Dr. Astrid Thorne
 **为什么这样写**：用赛程表写产程——第二节末发动、第二节末接管，分娩与决赛共用同一个节拍器；离谱的事件被冷静的调度托住。
 **读者视角提示**：记住 Astrid——ch03 的 "coach's daughter" 梗在此兑现，这本书的每个配角都提前报过到。
