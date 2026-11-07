@@ -75,14 +75,14 @@ modified: "2026-11-06"
 **中文理解**：那场大屠杀，Nanbu Daiji 宣称是 Angelica 所为。一场她不公平地活下来的屠杀。两个短句，一份自判。
 **关键词**：massacre / survived
 **为什么这样写**：两个平行句把「他被指控的罪」与「她认领的罪」焊在一起——外部污名与幸存者内疚互为镜像；unfairly 一词双关：活下来不公平，被诬也不公平，她分不清哪件更重。
-**读者视角提示**：本章她「无权上前同祭」的迟疑，答案就在这八个词里——她还在等一个能赎这半条命的地方。
+**读者视角提示**：本章她「无权上前同祭」的迟疑，答案就在这两个平行短句里——她还在等一个能赎这半条命的地方。
 
 > **原句 10:** "Adela laid her fingertips on top of the case. “I try not to regret my decisions, Angel. In our positions, there is little use in regretting.”"
 
 **中文理解**：Adela 指尖搭在琴盒上：「我尽量不后悔自己的决定，Angel。在我们的位置上，后悔没有用处。」政治家的忏悔，先给自己铺台阶。
 **关键词**：regret / positions
 **为什么这样写**：让道歉从「后悔无用论」开始——权力者的情感也按政治语法学；「our positions」一词把母女关系放进权力坐标系，承认伤害之前先承认共谋。
-**读者视角提示**：这句话的下半段（她真正后悔的事）在下一块兑现——作者的忏悔是分两口气说完的。
+**读者视角提示**：这句话的下半段（她真正后悔的事）紧随其后在原文兑现——作者的忏悔是分两口气说完的。
 
 > **原句 11:** "Angelica cautiously touched the taut strings, the scrollwork-like F holes, the buttery soft curve of the chin rest. She could already hear its sweeping, mournful notes, the promise of music and of fire."
 

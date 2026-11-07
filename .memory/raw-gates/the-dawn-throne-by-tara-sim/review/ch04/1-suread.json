@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch04_iv.txt",
+ "facts": [
+  {
+   "fact": "开章：Angelica 骑 Yvri（锁在 Deia 熔炉火山里的始祖双足飞龙）越过 Dorso Ridge 练三音空中开门——three-note bar = two lower tones + an A-sharp。",
+   "anchor": "Angelica Mardova savored the stinging wind as the wyvern beneath her flapped his wings to soar higher.",
+   "start": 17,
+   "end": 119
+  },
+  {
+   "fact": "成功：跳门→quintessence 虚空里复唱三音→第二扇门开在 Vaega 灰天上空→坠回撞上 Yvri 背——「I did it!」；若 Dante 的 Conjuration 不成，这算是抵达 Solara 的备援路线。",
+   "anchor": "The portal closed behind her.",
+   "start": 3064,
+   "end": 3093
+  },
+  {
+   "fact": "Yvri 体内藏 Deia 的 crux/fulcrum——Azuna 之行本为挖出它，结果发现「proximity worked just fine」；她额上的第三眼是从神身上剜下来的。",
+   "anchor": "Her plan in going to Azuna had been to find Deia’s fulcrum",
+   "start": 5066,
+   "end": 5124
+  },
+  {
+   "fact": "水门练习失控线：门开一寸再一寸——「I need more. / More.」——漩涡甩出高浪扑向海岸镇；Yvri 一声鸣叫把浪劈向礁石无人区；Deia 手印疤刺痛、Azuna 以来神未再开口。",
+   "anchor": "I need more.",
+   "start": 9350,
+   "end": 9362
+  },
+  {
+   "fact": "归家：Cosima 持练习剑偷袭——Angelica 拢衣中水汽凝成冰匕首贴上她颈侧；Cosima 练剑为防身（despotic warlords or estranged brothers），已搬进 Angelica 房。",
+   "anchor": "Not my fault someone’s one with the elements",
+   "start": 14419,
+   "end": 14463
+  },
+  {
+   "fact": "纪念碑：Ueda 家族名列被 Nanbu Daiji 雇刺客灭门的帝系之首——继母 Miko 带双胞胎 Eiko/Kikou 祭扫；Angelica「She did. She didn't. She had no right to.」；Bushan Takenaka 保护 child empresses 的消息未至。",
+   "anchor": "A gleaming plaque named the branches of the Azunese imperial family",
+   "start": 17697,
+   "end": 17764
+  },
+  {
+   "fact": "Adela 赠新小提琴并两度道歉——「trying to take what was yours. What your father gave you」；旧琴是父亲所赠、曾为抗 Deia 而毁。",
+   "anchor": "But I do regret trying to take what was yours.",
+   "start": 25781,
+   "end": 25827
+  },
+  {
+   "fact": "演奏收束：火之门 rattled but stayed shut——为 Eiko/Cosima/Kikou、为亡父、为两位母亲而奏；Angelica 立誓唯一还要毁灭的只有神本身。",
+   "anchor": "the only thing she had left to destroy was the god herself.",
+   "start": 28424,
+   "end": 28483
+  }
+ ]
+}
