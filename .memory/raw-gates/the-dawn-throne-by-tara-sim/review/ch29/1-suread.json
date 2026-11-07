@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch29",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch29_ix.txt",
+ "facts": [
+  {
+   "fact": "手枪真相：Lumin pistol——Lumin 投射力十倍、「designed to hurt. To maim. To kill.」——「The ost Krülins are touted as being geniuses. In truth, they are murderers. What a legacy to live up to.」",
+   "anchor": "The ost Krülins are touted as being geniuses.",
+   "start": 1449,
+   "end": 1494
+  },
+  {
+   "fact": "Rian 请枪：「Let me prove that light can be more than a force of destruction...used for good」——「I also need redemption...I can deliver it for us both.」",
+   "anchor": "Let me prove that light can be more than a force of destruction,",
+   "start": 2181,
+   "end": 2245
+  },
+  {
+   "fact": "断臂与宣告：Taesia 影分身围杀 Varrick（「When it was Phos who began this war」「You're just too indoctrinated」）——「I am not the puppet of a god.」「I am a god.」——Starfell 挥入其颈（双臂之力才斩断）。",
+   "anchor": "I am a god.",
+   "start": 9364,
+   "end": 9375
+  },
+  {
+   "fact": "Orsus 复苏：骨镯脉冲——pale whispery voice（Bone Palace 旧声）——「…go…him…」「Not… interfere」——镯吸走断臂之羽（hexagram glyph 显现、如吸髓）——「There is one less, now」——神骨手镯更强。",
+   "anchor": "There is one less, now,",
+   "start": 12967,
+   "end": 12990
+  },
+  {
+   "fact": "Nikolas 的误读：接住落下的 Risha（「It's Taesia」）；看见 Rian 面容=花园之问那日——「The weapon wasn't to stop Taesia, but to stop Varrick」——夺枪升空（Rian 喊「Nik, Varrick is—!」没听完）。",
+   "anchor": "He grabbed the Lumin pistol out of Rian’s hand",
+   "start": 15175,
+   "end": 15221
+  },
+  {
+   "fact": "一枪：Nikolas 以 Lumin pistol 装填光球开火——Varrick 之首落桥（Taesia 先已双手劈剑斩颈）；其子（teenager、握过大之矛）目睹痛哭——Nyx 令「Finish you started」、她腿不由自主——Nikolas 枪响救场。",
+   "anchor": "Varrick ost Phos’s head fell to the bridge.",
+   "start": 15877,
+   "end": 15920
+  },
+  {
+   "fact": "中弹与告白：她 side/chest/arm 中弹——「I would’ve preferred a ‘thank you.’」「The summer solstice. Varrick may be down, but the plans he put into motion aren't.」——「No matter where you run, we're going to find you. We're going to end this.」",
+   "anchor": "I would’ve preferred a ‘thank you.’",
+   "start": 19622,
+   "end": 19657
+  },
+  {
+   "fact": "收幕：她以同一句挑战回应（Julian 梦境那句）——影幕开门、如黑色缝线合拢消失。",
+   "anchor": "“Come find me, then.”",
+   "start": 20309,
+   "end": 20330
+  }
+ ]
+}
