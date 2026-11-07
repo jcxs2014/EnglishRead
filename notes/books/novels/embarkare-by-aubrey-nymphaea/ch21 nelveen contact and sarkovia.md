@@ -21,7 +21,7 @@ modified: "2026-11-07"
 
 > **原句 2:** "Raising to her fullest height she said, “I am not too good for harlots. What I don’t approve of is men viewing them as an object to be used and nothing more.”"
 **中文理解**：她挺直到最高高度宣布：我不觉得自己比妓女高贵——我反对的是男人把她们当成用完即弃的物件、此外无他。她的原则第一次撞上风月行业，撞出来的不是羞耻而是阶层批判。
-**关键词**：harlots / objects
+**关键词**：harlots / object
 **为什么这样写**：作者让她先把"高贵感"自我摘除（not too good for）再立论——批判的落点从行业转到"观看方式"，与 ch09 的"身体自主权"宣言一脉相承；"an object to be used and nothing more"的 nothing more 是全句的刀刃：物化即否认人格。这句也与她此刻的嫉妒形成暗讽——她马上要为一个"用过她们"的男人吃醋。
 **读者视角提示**：对照 ch09 的"混蛋名声不是许可证"——她的身体政治从自保扩展到为他者代言；注意本章结尾 Gerrick 的暴力正是这个论点的暴力版执行。
 
