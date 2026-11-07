@@ -1,0 +1,37 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch46",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch46_46_the_metal_ladder.txt",
+ "facts": [
+  {
+   "fact": "阿拉在 Osimidite 室发现科斯默还有微弱的脉搏和呼吸，用魔法意念催促他清醒，并拖着他离开储罐附近的浓雾区。",
+   "anchor": "pulse in his wrist",
+   "start": 596,
+   "end": 614
+  },
+  {
+   "fact": "阿拉用魔法联结德雷克的意识，意外看到他童年在收容所的记忆——那里关押着其他被囚禁的拉夫纳人，德雷克被赶了出来。",
+   "anchor": "I’m being pushed back",
+   "start": 5907,
+   "end": 5928
+  },
+  {
+   "fact": "科斯默在阿拉的魔法影响下逐渐清醒，两人一起沿着梯子往上爬离开密室。",
+   "anchor": "sobering",
+   "start": 12588,
+   "end": 12596
+  },
+  {
+   "fact": "在梯子上科斯默爆发，指责阿拉害死瑞斯、毁了村庄和船队、让他再次想要 Osimidite。",
+   "anchor": "all of it is your fault",
+   "start": 13445,
+   "end": 13468
+  },
+  {
+   "fact": "科斯默最痛苦的是阿拉在睡梦中喊了德雷克的名字，阿拉意识到这才是他无法原谅的。",
+   "anchor": "name you say in your sleep",
+   "start": 14004,
+   "end": 14030
+  }
+ ]
+}
