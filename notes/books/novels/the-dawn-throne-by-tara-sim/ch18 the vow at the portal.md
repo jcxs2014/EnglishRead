@@ -25,7 +25,7 @@ modified: "2026-11-06"
 
 **中文理解**：不到一秒，Lastrider 家的继承人就被摁翻在地。他无视 Dante 脸上那阵惊痛的扭曲，调转 Sunbringer Spear，把灼热的矛尖对准他裸露的胸口。
 **关键词**：pinned / burning
-**为什么这样写**：动作链快到不给礼貌留缝隙——「less than a second」是愤怒的物理单位；「bare chest」呼应上一章 Dante 血祭时的狼狈，两人的羞耻在同一场戏里对齐。
+**为什么这样写**：动作链快到不给礼貌留缝隙——「less than a second」是愤怒的物理单位；「bare chest」呼应第十四章 Dante 血祭时的狼狈，两人的羞耻在同一场戏里对齐。
 **读者视角提示**：先记住「他没给任何解释的机会」——下一块你会看到，他其实等这一天很久了。
 
 > **原句 3:** "Nikolas tightened his grip on Dante's throat. Dante didn't struggle, glaring at him with what could have been mistaken for defiance if Nikolas hadn't known him for so long, if he hadn't known to look for the subtle, doubtful wince that Taesia had inadvertently copied."
@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：想关上她的火之门，就像在飓风里关窗板。Angelica 想相信是 Deia 在撑着它——但她心里清楚得很。
 **关键词**：hurricane / shutter
 **为什么这样写**：成瘾的机制用一条天气比喻讲完——门不是被外力顶住，是风（她的渴望）本身太大；「she knew better」四字完成自我诚实，比任何忏悔都锋利。
-**读者视角提示**：把「她知道」和第四章「十万扇门」连读——她一直知道锁是谁想开的。
+**读者视角提示**：把「她知道」和第十章「十万扇门」连读——她一直知道锁是谁想开的。
 
 > **原句 8:** "She fumbled for her obsidian dagger. Just as she had at Mount Netsai, she slashed it across the outside of her thigh. The rush of pain cleared her head enough to recall the flames, and Deia’s eye began to flutter shut."
 
