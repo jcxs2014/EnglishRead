@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：那光环更大、且不知怎么——古老。仿佛他自己已经成神。Taesia 望着 Nikolas 与 Phos 的缠斗残影，第一次用「神」字形容弟弟。上一次她形容他，用的是「活着的」。
 **关键词**：ancient / god
 **为什么这样写**：以「古老」写神化的气质——ancient 与「年轻的弟弟」对撞；「somehow」保留了她视角的不可解：神化在旁人眼里没有过程，只有结果。
-**读者视角提示**：对照第二十章「divine beast」的自封——她的成神是自我选择，他的成神是被夺舍的副产品。同一扇门，两种进法。
+**读者视角提示**：对照第二十八章「divine beast」的判词——她的成神是自我选择，他的成神是被夺舍的副产品。同一扇门，两种进法。
 
 > **原句 8:** "He sensed Orsus’s approval through the bone cuff. He didn’t let it deter him. If Nikolas and Taesia could bear the weight of their gods, so could he."
 
