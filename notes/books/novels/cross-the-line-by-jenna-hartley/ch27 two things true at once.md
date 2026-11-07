@@ -100,8 +100,8 @@ modified: "2026-11-07"
 
 > **原句 13:** ""For my favorite person." He set it on the coffee table along with some plates and forks.
 
-**中文理解**："我最爱的派。"——"给我最爱的人。"
-**关键词**：favorite pie、favorite person
+**中文理解**："给我最爱的人。"他把派放上茶几，顺手摆好盘子与叉子——ch04 那只匿名快递的派，这一次由他当面端上。
+**关键词**：favorite person、coffee table
 **为什么这样写**：两句对仗完成 ch04 的镜像重演——那次是匿名快递，这次是当面；同只派，从悬念变成了日常。
 **读者视角提示**：对照 ch04 他藏在保温袋里的心跳，此刻他连叉子都摆好了——爱的形式从证明变成了习惯。
 

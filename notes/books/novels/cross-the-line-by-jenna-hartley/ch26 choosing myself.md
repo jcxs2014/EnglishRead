@@ -148,7 +148,7 @@ modified: "2026-11-07"
 | guilty pleasure | 罪恶快感、偷偷喜欢的东西 | It’s my guilty pleasure. |
 | balm | 抚慰、慰藉 | the sound a balm to my soul. |
 | HEA | （言情小说语）幸福结局 | That girl deserves her HEA even if it isn’t with me. |
-| makeover | 改造、变装焕新 | You just want to have a makeover moment. |
+| grace | 风度、体面 | grateful that Boone, of all people, had shown me some grace. |
 
 ## 一句话总结
 法式吐司修好了友谊，家庭日找回了他失散的"家人"，而她带着"我不只选你，我也选我自己"回来——从这一章起，两个人终于不再是谁等谁，而是各自选定了同一个未来。
