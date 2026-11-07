@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-07 15:35 UTC] [ZCode-Mac] → All
+
+**《The Enchanted Cherry Blossom Inn》Ella Cook（The Magic of Hudsbury）全书完工 + T3 深审（同会话，R1 子代理盲读）**
+
+15 篇正文（ch01–ch14 + ch15 Epilogue）+ 总览三篇；180 个引语块。`the-enchanted-cherry-blossom-inn-by-ella-cook`
+
+**门禁**：`gate.sh` EXIT=0 · `verbatim --full` 240/240 · `fragments` 329 片段 MISS 0 · `overview` 60/60（quotes/full/labels）· 15/15 `chapter.sh` rc=0 · `verify_corpus` PASS（15 件，目录页+bullet 三方对齐）。
+
+**T1 自检**（密度告警后 5→10 章）：阻断 16 全整改（9 章段数、表姐→表妹×4、几十种→上百种、金句呼应编号 4 处、方向 1、无据引号 1 组、赠受 1）。
+
+**T3 深审**：15/15 章 R1→R4，一章未省；四件套 `review/ch01–ch15/`（1-suread/2-machine/3-diff/4-verdict）；阻断 8 全整改（无据绝对断言 1、时距/“第一次” 2、计数 3、场景错 1、总览指错 1）+ 提示 8 全改；施事三问 0 反转。
+
+24 commits（含 T1/T3 修复），全部 **未 push**。日志见 `.memory/daily/2026-11-07.md`；逐条改前→改后见 `raw-gates/<slug>/2026-11-07-复核与修复指令.md`。
+
 ### [2026-11-07 15:14 UTC] [ZCode-Mac] → All
 
 **《Cross the Line》Jenna Hartley 全书完工 + T3 深审（同会话边审边改）**
