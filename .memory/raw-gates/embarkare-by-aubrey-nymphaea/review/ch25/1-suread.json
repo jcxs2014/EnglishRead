@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch25",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "章首：光球夜被尖叫打断——Gerrick 整好她的裙摆护她于树干之间扫视围墙",
+   "anchor": "Gerrick placed her on the ground and ran his hands over her, quickly fixing her dress.",
+   "start": 184,
+   "end": 270
+  },
+  {
+   "fact": "街上：血浸雪地怪物分食尸体——长角巨兽拖妓女出妓院扒衣",
+   "anchor": "Blood soaked the snow covered ground while creatures, more beast than man, feasted upon the bodies of the fallen.",
+   "start": 1651,
+   "end": 1764
+  },
+  {
+   "fact": "Gerrick 拒先找其他人——\"怪物们要找的只有一个人，就是你\"",
+   "anchor": "“There is only one person they are looking for, and that person is you.”",
+   "start": 2994,
+   "end": 3066
+  },
+  {
+   "fact": "Nelveen/Quentin 敲墙呼救入门——急告 Rayner 和 Lucas 被抓走；空屋",
+   "anchor": "“Andra, they took Rayner and Lucas,” Nelveen frantically murmured.",
+   "start": 5339,
+   "end": 5405
+  },
+  {
+   "fact": "Nelveen 读心战果：逐个挖黑施法者——每人的坑位置全不一样",
+   "anchor": "“They each had a different location for the pit. Every single one of them was different.”",
+   "start": 7073,
+   "end": 7162
+  },
+  {
+   "fact": "假记忆结论：Vasara 植入假情报藏真位置——\"不可能及时找到了\"（踢椅子）",
+   "anchor": "“To keep the real location of the pit hidden,” Gerrick finished across the room. “We’ll never find it in time.”",
+   "start": 7539,
+   "end": 7650
+  },
+  {
+   "fact": "数字：距冬至屠杀只剩六天——坑位置归零计划崩塌她跪倒在地",
+   "anchor": "They had only six days until Vasara would begin killing the innocents of the Southern Woods",
+   "start": 7949,
+   "end": 8040
+  },
+  {
+   "fact": "她拍板直奔东北海岸——Gerrick 拒绝\"送你去被宰\"；她嘶喊\"她抓了他们俩\"",
+   "anchor": "“To Vasara. To the Northeastern Shores.”",
+   "start": 8283,
+   "end": 8323
+  },
+  {
+   "fact": "关系确认：对他的怨憎不知何时变质——他每次都选择留下",
+   "anchor": "Somewhere along the way, the bitter loathing she felt for this man had morphed into something else entirely",
+   "start": 3688,
+   "end": 3795
+  },
+  {
+   "fact": "越墙：深吻即推——推过 Nelveen 幻术墙自己留下断后；如坠冰河",
+   "anchor": "Gerrick grabbed Andra’s face and kissed her deep and quick before shoving her through the wall.",
+   "start": 10550,
+   "end": 10645
+  },
+  {
+   "fact": "Nelveen 力竭：面如死灰双眼霜灰——能量渗入幻术；\"说好一起活着\"",
+   "anchor": "Her skin was ashen, eyes turning a frosty gray as her remaining energy seeped from her body and into the enchantment",
+   "start": 13409,
+   "end": 13525
+  },
+  {
+   "fact": "章末：一只吃尸体的怪物+另一只的喉音就在她正后方",
+   "anchor": "And it was right behind Andra.",
+   "start": 15529,
+   "end": 15559
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
