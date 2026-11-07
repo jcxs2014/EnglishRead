@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch23",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch23_iii.txt",
+ "facts": [
+  {
+   "fact": "开章二连：她跪在 Shadow Sea 沙上直到腿麻——「And it had been for nothing...His blood had flowed scarlet and useless」——一记不该有人活下来的伤。",
+   "anchor": "Rian was alive.",
+   "start": 19,
+   "end": 34
+  },
+  {
+   "fact": "地理：Shadow Sea 成于蚀世纪——Nyx 灼开 gash 切断领域东端；穿越者 vitality 迅速枯竭。",
+   "anchor": "The Shadow Sea had been made during the Century of Eclipse",
+   "start": 1052,
+   "end": 1110
+  },
+  {
+   "fact": "Nyx 的连环献策：除掉其他 heirs（impediment）——「Enlist him to aid us」（Dante 在 Zenith Tower）——她咬牙「Never」（想起 Brailee 在 Godsnight 被神夺身的样子）。",
+   "anchor": "Never.",
+   "start": 2540,
+   "end": 2546
+  },
+  {
+   "fact": "铁木林与鬼村：第三周发现旧聚落——风化尸骸间捡到帐/水/存粮——两具相拥的孩童骸骨：「This is what your greatness brings. Are you proud?」——神答「To protect my realm, I would do anything」。",
+   "anchor": "“This is what your greatness brings,”",
+   "start": 4630,
+   "end": 4667
+  },
+  {
+   "fact": "astralam 幽兽：Cultris 星座纹、乳白眼——正是她剑中封着脊骨的那头（Nyx 以 fulcrum 注入的兽）——引她入 Somnorium。",
+   "anchor": "The very one, she guessed, whose spine rested along the length of hers.",
+   "start": 5903,
+   "end": 5974
+  },
+  {
+   "fact": "Somnorium 潜行：Brailee 的深蓝线唤她（Elena ash face/血红天空）——她逃；Lilia 线——Bone Palace 正被搭架拆解——「Don’t destroy it all. The palace holds the remains of a god. We may yet need it.」",
+   "anchor": "Don’t destroy it all.",
+   "start": 10067,
+   "end": 10088
+  },
+  {
+   "fact": "Varrick 记忆翻阅：军营侧房——ost Vonlin 三兄弟（Faün 最年轻最野心）——「At least a dozen new troops by the summer solstice」→「Double it.」——「She will be dealt with soon」「She’s too soft for our needs」（说 Ulshära）。",
+   "anchor": "“Double it.”",
+   "start": 13241,
+   "end": 13253
+  },
+  {
+   "fact": "Julian 梦境：Lune River 支流野花坡（Paris 同猎）——她按额注入记忆（金泪/军团/第二波）——「He will pay...But it won't be you delivering that justice. You shouldn't have come.」——他：「We can help you...We already have a piece of it in the Sunbringer Spear」「Nik is. And Rian. Taesia, Rian is—」（被她打断）——「I will find you」/「Come find me, then」；醒来 Nyx 复述「Once every potential vessel is gone」——「two more we must take care of. Nikolas and Rian...And soon to be its last.」",
+   "anchor": "“Come find me, then.”",
+   "start": 19774,
+   "end": 19795
+  }
+ ]
+}

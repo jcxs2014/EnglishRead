@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：「这就是你的伟大带来的东西，」她对着 Nyx 低语，凝视两具相拥多年、早已化成小小骸骨的形状。「你骄傲吗？」
 **关键词**：greatness / proud
 **为什么这样写**：让废墟出庭作证——两个「small skeletal forms」不指名 age，读者自己懂；「Are you proud?」是全书神学辩论的极简版：伟大与骄傲，一个词的间距。
-**读者视角提示**：对照 Perigee 里 Phos 的「I would rather reduce my world to cinders」——神从不回答这个问题。他们的伟大从不结账。
+**读者视角提示**：对照第十五章 Deia 的「I would rather reduce my world to cinders」——神从不回答这个问题。他们的伟大从不结账。
 
 > **原句 4:** "Taesia held the unwavering gaze of the celestial creature known as an astralam. The very one, she guessed, whose spine rested along the length of hers. She felt the connection between sword and ghost the way she had been drawn to its fangs in Noctus—an arrow on a compass, pointing surely."
 
@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：「我必须做的——我已经做过的——你们其余的人都会退缩。」她把凶器摊开一半，收回一半。
 **关键词**：recoil / already
 **为什么这样写**：坦白以省略号收刀——「what I've already done」不举例、不辩护，让听者自己脑补成最坏的版本；她的温柔方式：替他保住「不必懂」的权利。
-**读者视角提示**：对照第十三章她教 Saya「Don't look」——她的爱始终是隔离式的。这个句式会在全书反复响起。
+**读者视角提示**：对照第十七章她对 Saya 的「Don't look」——她的爱始终是隔离式的。这个句式会在全书反复响起。
 
 > **原句 9:** "“Once every potential vessel is gone, he won't have anywhere to run.” He slowly repeated what she’d told Julian, as if to relish it. Perhaps their arrival in Solara can be to our benefit after all."
 
