@@ -61,14 +61,14 @@ modified: "2026-11-06"
 **中文理解**：「他们是为了我才不得不放逐 Taesia，」她压低声音说，不让士兵听见。罪疚第一次从旁白爬进对白。
 **关键词**：exile / whispered
 **为什么这样写**：音量控制（pitched low）是本句的全部戏剧——对士兵她是不可能错的 Vakara 大人，只有对自己她才敢认错；whisper 一词让忏悔对象悬置：这句话究竟是给谁听的？
-**读者视角提示**：记住这个音量。下一块引语里那个安慰她的声音，音量比她更低。
+**读者视角提示**：记住这个音量。安慰她的那个声音（无引号斜体、只在思想层响起），音量比她更低。
 
 > **原句 8:** "When Leshya Vakara had made Samhara, the purpose of the weapon was to absorb the spiritual energy around her and unleash it in offensive moves against her foes. A perfect weapon for Mortri, where such energy was abundant. But Risha had shunned the thought of using spirits this way without their consent."
 
 **中文理解**：Leshya Vakara 当年造 Samhara，本意就是吸收周遭灵能、化为攻势——在灵能过剩的 Mortri 是完美兵器；但 Risha 一向拒绝未经亡灵同意就这样使用它们。
 **关键词**：spiritual energy / consent
 **为什么这样写**：先给设计图，再给道德线——祖辈的实用主义与孙辈的伦理观隔代对撞；consent（同意）这个现代感极强的词被安在死灵法术上，是本章最锋利的一处价值观表达。
-**读者视角提示**：注意她绕过自己底线的方式：用的不是「别人」的灵，而是 Valentin 这个自愿被吸收的亡王——自我说服的逻辑链条值得警惕地读。
+**读者视角提示**：注意她绕过自己底线的方式：用的不是「别人」的灵，而是已困在镰中的亡王 Valentin——自我说服的逻辑链条值得警惕地读。
 
 > **原句 9:** "Noon tomorrow. Thakar’s Tearoom. Staggered arrival times to throw off attention. Bring any and all relevant information. —AM"
 

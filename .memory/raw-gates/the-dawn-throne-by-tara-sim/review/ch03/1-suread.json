@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch03_iii.txt",
+ "facts": [
+  {
+   "fact": "开篇：Risha 双持骨镰 Samhara 稳步走向 amalgam（多尸融合体：数十只眼、十二条手臂、砸塌陵墓）；墓地亡者爬出已数百年常态——Mortri 之门关闭。",
+   "anchor": "Risha Vakara, wielding the bones of undead kings in either hand, walked steadily toward a nightmare come to life.",
+   "start": 19,
+   "end": 132
+  },
+  {
+   "fact": "Samhara 构造：Tenamar 肱骨+Rescentia 肋骨+Moraditis 跟骨+Valentin（Cruciamen 之王、永罚之城）指骨——Leshya Vakara 手造；四王受 Thana 之力均分四份。",
+   "anchor": "The humeri from Tenamar, the ribs from Rescentia, the calcaneus bones from Moraditis",
+   "start": 1985,
+   "end": 2069
+  },
+  {
+   "fact": "困在镰中的 Mortrian 王 Valentin 出声（红光、银饰声、猩红眼）：「We both know you're not yet done with Mortri, little Vakara.」——Risha 回他「you won't be returning to Cruciamen」。",
+   "anchor": "This is a rare specimen,",
+   "start": 4000,
+   "end": 4024
+  },
+  {
+   "fact": "amalgam 里认出 Don Samuel Soler 的脸：颈与手臂被 Taesia 的暗影斩断、死后重接（缝合线蜿蜒）；Risha 力场当场一滞、灵魂出窍般失重。",
+   "anchor": "Neck and arms that had been severed by Taesia’s shadows.",
+   "start": 5501,
+   "end": 5557
+  },
+  {
+   "fact": "Jas 的声音花开般救场（It's not your fault）；Risha 压低声音自供——他们是为了我才不得不放逐 Taesia；Jas 纠正：Because of her actions. Not yours.",
+   "anchor": "“They were forced to exile Taesia because of me,”",
+   "start": 6235,
+   "end": 6284
+  },
+  {
+   "fact": "收魂：一令拽散十二条魂（含认领旧躯的 Don Soler 本魂）归于 void；战后不顾「重要政要合葬传统」下令 Burn them、挫骨扬灰。",
+   "anchor": "“Return,” she commanded.",
+   "start": 6958,
+   "end": 6982
+  },
+  {
+   "fact": "晚餐戏：父亲 Rath 否决烧尸与雇 Revenants（Vaega 传统+Thana 圣殿旧账）；Risha 心藏三句不能说的话—— unfinished business / 逐掌权者 / I wish to kill Thana with my own hands——中途离席。",
+   "anchor": "“You wish to return to Mortri,” he deduced.",
+   "start": 24478,
+   "end": 24521
+  },
+  {
+   "fact": "镜前异变：辫子里编进藤蔓、开出黑紫五瓣 petunias——花名非她自己的记忆；她找剪子剪断辫子，petunias 饥饿凋萎；「But not for long」——分不清低笑来自自己、Jas 还是柜中魂。",
+   "anchor": "The name didn’t come from her own knowledge or memory.",
+   "start": 25986,
+   "end": 26040
+  }
+ ]
+}
