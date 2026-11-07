@@ -1,0 +1,37 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch45",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch45_45_the_osimidite_chamber.txt",
+ "facts": [
+  {
+   "fact": "阿拉冲下甲板，发现 Osimidite 室的舱口已打开，顺着梯子下到闷热的密室，里面弥漫着逸出的迷雾。",
+   "anchor": "Osimidite Chamber",
+   "start": 29,
+   "end": 46
+  },
+  {
+   "fact": "阿拉意识到密室里的薄雾是逸出的 Osimidite，为了避免上瘾把衬衫拉到鼻子上。",
+   "anchor": "escaped osimidite",
+   "start": 1142,
+   "end": 1159
+  },
+  {
+   "fact": "阿拉找不到科斯默，恐惧地想到他可能已经死了，甚至想到如果他死了自己也会去气闸。",
+   "anchor": "What if he’s dead",
+   "start": 1823,
+   "end": 1840
+  },
+  {
+   "fact": "阿拉绕过巨大的黄铜储罐，在后面发现科斯默光着脚瘫坐在地上，面色苍白、眼睛紧闭，像是睡着了又像是死了。",
+   "anchor": "He’s slumped against the back of it",
+   "start": 3092,
+   "end": 3127
+  },
+  {
+   "fact": "阿拉慢慢走向科斯默，害怕确认他是否还活着，希望一点点流失。",
+   "anchor": "But it’s bleeding out of me",
+   "start": 3812,
+   "end": 3839
+  }
+ ]
+}
