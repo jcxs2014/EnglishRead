@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch05_v.txt",
+ "facts": [
+  {
+   "fact": "开场梦：Julian 循兽形光点入石室——赤膊纹身者伏椅、身后有人持嗡鸣之物、金肤上墨与血绘线；第三位修身皱眉者被「terrible, sublime light」照亮；暗影生双星瞳（the beast that called to him）——修身者转身逼视，黑暗吞了 Julian。",
+   "anchor": "Julian Luca knew he was dreaming, because it was only in his dreams that he could see her.",
+   "start": 15,
+   "end": 105
+  },
+  {
+   "fact": "梦二段：阶井室——修身者与金甲壮者争执（How many? / —more. You know this / Is what He says true?）→阶井如火山口喷火；壮者斥「It is not your place to question Him」（语气唯一一次收拢：contempt）。",
+   "anchor": "the stepwell opened like the mouth of a volcano, spitting spark and ash.",
+   "start": 2060,
+   "end": 2132
+  },
+  {
+   "fact": "赴会路上：诸神殿有记忆以来首次对公众关闭；橱窗贴 PERMANENTLY CLOSED、乞丐消失；王宫广场=骨宫弹坑、烛香悼念者稀。Julian 的经济线：Marjorie 患 languor、药只够几个月；自请离职却被告知数周前已正式除役（mail 慢）。",
+   "anchor": "the basilicas, for the first time anyone could remember, were closed to the public.",
+   "start": 4118,
+   "end": 4201
+  },
+  {
+   "fact": "茶会（Thakar's Tearoom 兰花厅）：侍者称他 Lord Luca（他来不及纠正）；在座 Angelica 主位/Risha 剪短发着黑色军装/Lastrider 兄妹/Cyr 兄弟；Rian 已能出门；Brailee 与 Rian 相顾尴尬；Lucent 与她的影 familiar 如微型日月同游。",
+   "anchor": "“The rest of your party is waiting for you in the Orchid Room, Lord Luca.”",
+   "start": 7565,
+   "end": 7639
+  },
+  {
+   "fact": "会务：Angelica 给 Risha 派任务「figure out how to kill a god」；Risha 抛核心情报——「when the gods are without their fulcrums, they're significantly weaker」；并猜 Thana 的 fulcrum 分予四王（Samhara），Phos 可能同样可分。",
+   "anchor": "“We need you to figure out how to kill a god.”",
+   "start": 15810,
+   "end": 15856
+  },
+  {
+   "fact": "Brailee 正试图梦行找 Taesia 的 dreamscape（被 Nyx 挡住）；Nikolas 冷脸「What use is she to us?」、Dante 召阴影回应「Careful, Cyr」——她被找到的另一层用意是告诉她 Rian 还活着。",
+   "anchor": "“We think she may have found a way to Solara.",
+   "start": 18480,
+   "end": 18525
+  },
+  {
+   "fact": "Nikolas 起身献血并问 Risha 能否事后治愈；Rian 追问「if it requires not just blood, but a life?」——Nikolas：「Then we'll find another way」（stepwell/Deia 与 Thana 的 fulcrums/quintessence 三张牌）。",
+   "anchor": "“I’ll give you the blood you need,”",
+   "start": 25527,
+   "end": 25562
+  },
+  {
+   "fact": "章末地震：茶会中震——Angelica 第三眼当场裂开、一跺脚止震（scorch marks 留在指尖）；Risha 膝上落红茶糕与红色花瓣（桌上本无花）；Rian 面如赴刑定位震中——「It's Phos's basilica」。",
+   "anchor": "“It’s Phos’s basilica.”",
+   "start": 30896,
+   "end": 30919
+  }
+ ]
+}

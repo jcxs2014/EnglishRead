@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：一波褶皱、一声石裂，阶井便如火山口般张开，喷吐火花与灰。梦在这一刻露出它的预言本质。
 **关键词**：stepwell / spark
 **为什么这样写**：两个名短语（wrinkle、crack）当动词用，灾难的启动快得没有过程；火山口比喻把「取水的井」倒转成「喷火的地狱之门」——阶井的双重身份一句定音。
-**读者视角提示**：记住这个画面：茶会末尾他们会真站在它的门口。梦里喷火的地方，就是他们要开门的地方。
+**读者视角提示**：记住这个画面：下一章他们就会真的站在它面前。梦里喷火的地方，就是他们要开门的地方。
 
 > **原句 4:** "Julian only had a moment to sense the animal-quick pulse coming from the darkness before it swallowed him whole."
 
@@ -126,4 +126,4 @@ modified: "2026-11-06"
 | noticeable | 显眼的、易察觉的 | Julian ran a hand over the shaved underside of his hair and hoped the sweat forming on his nape wasn’t noticeable. |
 
 ## 一句话总结
-六位 heir 在兰室拼出杀神的工程学（断其 fulcrum、以血开门），却被一场源自 Phos 圣殿的地震当场校准靶心——Julian 的梦、Julian 的穷、以及桌上没人敢碰的那句「如果是一条命呢」，同时落了地。
+六位 heir 加一个自认多余的穷 Hunter 在兰室拼出杀神的工程学（断其 fulcrum、以血开门），却被一场源自 Phos 圣殿的地震当场校准靶心——Julian 的梦、Julian 的穷、以及桌上没人敢碰的那句「如果是一条命呢」，同时落了地。
