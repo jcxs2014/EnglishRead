@@ -4,64 +4,70 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch19_chapter_19.txt",
  "facts": [
   {
-   "fact": "战后清理：他先撕衫包自己烂臂却坚持\"先看你\"；冰布擦额、跪姿专注如战斗",
-   "anchor": "Gently, he wiped the icy cloth across her cut forehead.",
-   "start": 878,
-   "end": 933
+   "fact": "章首：夜袭后他护着肋伤的 Andra 跌撞回房——撕衬衫包自己被撕烂的右臂",
+   "anchor": "Gerrick’s good arm wrapped under Andra’s waist as they stumbled into her room above the tavern.",
+   "start": 68,
+   "end": 163
   },
   {
-   "fact": "查肋骨需脱衣——他先问\"可以吗\"才动手；corset 之下两人呼吸发紧",
-   "anchor": "“I’ll be able to assess your ribs better if you lie down,”",
-   "start": 2640,
-   "end": 2698
+   "fact": "数字：触诊判定三根肋骨骨折",
+   "anchor": "“You have three broken ribs. What can I do to help you be more comfortable?” he asked softly.",
+   "start": 5020,
+   "end": 5113
   },
   {
-   "fact": "腹部缝疤被发现：Avernon、\"他不是好人\"——她哭到说不下去；他追问\"谁\"要付出代价",
-   "anchor": "“How did you get this cut?”",
-   "start": 4223,
-   "end": 4250
+   "fact": "查肋时发现腹部粗糙缝合的新疤——追问来历",
+   "anchor": "Andra glanced down to see him studying the long, poorly stitched scar on her stomach.",
+   "start": 3742,
+   "end": 3827
   },
   {
-   "fact": "她的自白：最折磨她的是没能亲手救自己（就像今晚）——\"他死了”，Gerrick 僵住",
-   "anchor": "“I wasn’t the one to kill him.",
+   "fact": "她坦白疤来自 Avernon“一个坏男人”——情绪崩溃落泪",
+   "anchor": "“It happened in Avernon. He… wasn’t a good man.”",
+   "start": 4422,
+   "end": 4470
+  },
+  {
+   "fact": "“He's dead”出口 Gerrick 僵住——她最恨没能亲手救自己（就像今晚）",
+   "anchor": "“I wasn’t the one to kill him. I couldn’t save myself. And I hate myself for that.",
    "start": 4752,
-   "end": 4782
+   "end": 4834
   },
   {
-   "fact": "咒典科普：女巫家系代代相传——屋里药水全是母亲手笔；她边住店边重建库存",
-   "anchor": "Every witch line has grimoires passed down through the generations.",
-   "start": 6166,
-   "end": 6233
-  },
-  {
-   "fact": "他的手臂撕裂见骨——她压下肋痛先救他：银泡清洗、命令\"坐好递瓶子”",
+   "fact": "他嘴说不严重——上臂撕脱白骨外露；她坚持先救他",
    "anchor": "“Not that bad? Gerrick, I can see your bone.”",
    "start": 6769,
    "end": 6814
   },
   {
-   "fact": "浴桶交易：她烧水给他洗澡——\"是我的荣幸让你照顾我”；脱靴的居家感让她胡思乱想",
-   "anchor": "“It would be my honor to have you care for me.”",
-   "start": 9073,
-   "end": 9120
+   "fact": "施疗：先洗澡洗头再青蓝药水逐滴愈臂（深层先行）；自服骨骼再生药水还需几天",
+   "anchor": "She administered the tonic by tiny droplets onto the wound, careful to heal the deeper areas first before moving upward.",
+   "start": 11914,
+   "end": 12034
   },
   {
-   "fact": "洗发：他喉咙滚出带她名字的呻吟\"继续\"——止痛药水下眉头舒展，她喜欢他这个样子",
-   "anchor": "“Andra.” Her name was a moan on his lips.",
-   "start": 11295,
-   "end": 11336
+   "fact": "黎明兄弟闯入——Rayner 挑逗“Did you bag the hunter?”；Gerrick 澄清“是她治好了我”",
+   "anchor": "“She healed me.” Gerrick’s low timbre sounded from behind her.",
+   "start": 14659,
+   "end": 14721
   },
   {
-   "fact": "蓝瓶愈合：肌肉重织、筋膜缝合——他不看伤口看她，她一度忘了呼吸",
-   "anchor": "his eyes boring into hers with an intensity that she had never experienced.",
-   "start": 12381,
-   "end": 12456
+   "fact": "Gyor 急报：补给员被“人”洗劫毒打（非怪物）——外面的人在绝望",
+   "anchor": "“No, men. They ransacked his supplies and beat him pretty badly. Said people are getting desperate out there.”",
+   "start": 15607,
+   "end": 15717
   },
   {
-   "fact": "清晨急报：补给商被人（非怪物）打劫——外面的人在绝望；暗怪十倍增长、不再只找 Andra——一小时内出发",
-   "anchor": "“Dark monsters are increasing tenfold.",
+   "fact": "数字：暗怪增至十倍、不再只找 Andra——没有人是安全的",
+   "anchor": "“Dark monsters are increasing tenfold. They’re no longer just searching for Andra. No one is safe.”",
    "start": 15773,
-   "end": 15811
+   "end": 15872
+  },
+  {
+   "fact": "章末：一小时内出发到马匹处集合",
+   "anchor": "“We need to leave within the hour. Gather all you can and meet me at the horses.”",
+   "start": 16759,
+   "end": 16840
   }
  ]
 }
