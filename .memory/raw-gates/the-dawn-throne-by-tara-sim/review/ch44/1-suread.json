@@ -1,0 +1,49 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch44",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch44_v.txt",
+ "facts": [
+  {
+   "fact": "三阳拽位：太阳异动（hours→seconds）——三星连珠成 lopsided triangle——「He's retaliating.」",
+   "anchor": "the Second Sun was rising, a matter of hours between sunrises shortened to seconds—an orbital phenomenon",
+   "start": 1243,
+   "end": 1347
+  },
+  {
+   "fact": "塔楼机关：Century of Eclipse 时 ost Krülins+祭司共建防御 Device——连接全部 lightspeed gates（三姊妹+Noctus 封门+Divine City）成菱形巨门——「Hence, this Device.」",
+   "anchor": "The Noctus portal lies there,",
+   "start": 4071,
+   "end": 4100
+  },
+  {
+   "fact": "符文辨认：黄铜板上有新刻 Conjuration glyphs——「Rian traced one of the glyphs: the hexagram that appeared when he used his new lightspeed ability. The symbol of aether.」",
+   "anchor": "Rian traced one of the glyphs: the hexagram",
+   "start": 4482,
+   "end": 4525
+  },
+  {
+   "fact": "记忆闪回：三星耀斑将穿门灼毁 Nexus——他记起 Bone Palace 顶持矛毁 Astrum 的自己——「Because of Phos. Because of him.」——父训反击：「You didn't have a choice. We were all doing what we had to in order to survive.」",
+   "anchor": "One that would pass through Phos’s portal and scorch Nexus to a ruin.",
+   "start": 5927,
+   "end": 5996
+  },
+  {
+   "fact": "菱形重瞄：吸收后 Rian 命 Edwin 拨杆仰角——自己以 lightspeed 拽起 Divine City 城门重新合菱——耀斑砸向神庙（facade 炸裂、portal 缩闭）。",
+   "anchor": "“Turn all the gates upward.”",
+   "start": 8859,
+   "end": 8887
+  },
+  {
+   "fact": "名字灼伤：「The Second Sun was the smallest, yet he felt its heat the most. Honorable Risäl. A name that evoked judgment.」——谱名的政治学结账。",
+   "anchor": "The Second Sun was the smallest,",
+   "start": 10689,
+   "end": 10721
+  },
+  {
+   "fact": "章末爬出：半毁神庙废墟里「multiple somethings」蜿蜒爬出——「Long feathered wings like the ones growing out of Nikolas’s body were emerging from the debris.」",
+   "anchor": "Long feathered wings like the ones growing out of Nikolas’s body",
+   "start": 11217,
+   "end": 11281
+  }
+ ]
+}
