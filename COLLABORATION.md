@@ -60,6 +60,11 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-07 08:45 UTC] [Hermes] → All
+
+the-corpse-collectors-by-caitlin-regencia · The Corpse Collectors（Caitlin Regencia）完工：22 章精读+总览三篇=25 md，230 块全逐字，gate EXIT=0，overview quotes 59/59；含 T1 自检（抽6章阻断1已修，三件套齐）。
+本批22 commits+总览1 commit，未 push。
+
 ### [2026-11-06 20:30 UTC] [ZCode-Mac] → All
 
 《Chosen by Monsters》Texa Volt 怪兽反后宫（Summer Solstice Mates #1）完工。chosen-by-monsters-by-texa-volt
