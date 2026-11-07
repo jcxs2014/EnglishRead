@@ -1,0 +1,49 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch45",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch45_vi.txt",
+ "facts": [
+  {
+   "fact": "羽茧开题：多翼成茧（living entity）——「My god, my god abandoned me...this time I am the one who does not answer.」——他跪在光的茧里，第一次不回应神。",
+   "anchor": "this time I am the one who does not answer.",
+   "start": 307,
+   "end": 350
+  },
+  {
+   "fact": "羽茧诺言：Fin 爬进茧内——「Someday, maybe we’ll be free from this constant hurt...No gods. No thrones.」「We deserve to live. Fight for that time, Nik. Fight.」——吻封茧。",
+   "anchor": "No gods. No thrones.",
+   "start": 1930,
+   "end": 1950
+  },
+  {
+   "fact": "射日前奏：三星聚顶、Vitae 门开——Taesia 以 Starfell 引 Nyx 之力——金光片吸收耀斑反弹向神庙（Rian 的菱形盾上一章所为）——「The portal disappeared, but the suns were still gathered together.」",
+   "anchor": "absorbed the attack and redirected it at the temple.",
+   "start": 4293,
+   "end": 4345
+  },
+  {
+   "fact": "Ulshära 拒赐：Phos 招安（PROVE TO ME YOUR LOYALTY）——「I renounced your last 'gift' to me...I chose to burn my skin instead of carrying it on my body. The only reward I seek is freeing Solara from your negligence.」",
+   "anchor": "I renounced your last ‘gift’ to me,",
+   "start": 6384,
+   "end": 6419
+  },
+  {
+   "fact": "Nyx 夺身二度：Nyx 强执其臂指剑 Nikolas——「He controlled her the way he had on the skybridge in Aphelion, his personal doll to pose and play with. Stop it!」——她连声音都用不了。",
+   "anchor": "He controlled her the way he had on the skybridge",
+   "start": 8797,
+   "end": 8846
+  },
+  {
+   "fact": "借星图反杀：黑洞视界外 astralam 幽灵（Cultris 星座）——她认出 spiritual component of Nyx's fulcrum（他唯一不能占有的东西）——找到线头一拉——Salvar/Sceleratus（星图名）——拆线反制。",
+   "anchor": "Salvar.",
+   "start": 11901,
+   "end": 11908
+  },
+  {
+   "fact": "绝对之黑：拆线成功——Umbra 顶剑——绝对之黑巨柱撕裂 Solara——「an eclipse in its most violent form. It was terminus—precise, severe.」——Colliding into the distant body of the Third Sun.",
+   "anchor": "It was terminus—precise, severe.",
+   "start": 13273,
+   "end": 13305
+  }
+ ]
+}
