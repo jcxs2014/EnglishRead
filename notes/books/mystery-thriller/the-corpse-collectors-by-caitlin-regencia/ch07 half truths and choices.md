@@ -80,8 +80,8 @@ modified: "2026-11-07"
 | bowl | 碗 | He then placed his hands over the bowl, bowing his head. |
 | darkness | 黑暗 | He had begun chanting along with the others; his voice nearly unrecognizable in its darkness. |
 | language | 语言 | Low and guttural, in a language Alliera did not understand. |
-| head | 头 | Alliera shook her head. |
-| footsteps | 脚步声 | Instead, she froze, listening as nearly silent footsteps trod up the path behind them. |
+| altar | 祭坛 | The resounding thud of the body hitting the altar, then the floor, was sickening. |
+| coven | 会 | A fearsome, dark energy filled the cavern, and Alliera gasped as the vampire’s blood began to glow the same color as the coven’s cloaks. |
 
 ## 一句话总结
 Vix在仪式里改变声调融入人群，她从颤抖变孤立，Vix的步子走得先到那可疑的同伴中间，Alliera走土阶去追他，入门才开始。
