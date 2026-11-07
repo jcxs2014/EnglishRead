@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Amrita 让病人 Sylvie 再做一组抬腿；Sylvie 抱怨「上次也这么说」，仍继续做。",
+   "anchor": "Amrita encouraged her patient with a smile",
+   "start": 36,
+   "end": 78
+  },
+  {
+   "fact": "Sylvie 做完五次后停下，狠狠瞪墙角的助行器，说要重新站起来。",
+   "anchor": "She gave the walker in the corner a glare so venomous",
+   "start": 858,
+   "end": 911
+  },
+  {
+   "fact": "两人成交：Sylvie 做她戏称「青蛙跳」的 plié squats，Amrita 以 samosas 作为交换。",
+   "anchor": "Samosas for demented forgotten-how-to-leave-the-floor frog jumps?",
+   "start": 3790,
+   "end": 3855
+  },
+  {
+   "fact": "几天后 Jamie 在 Sylvie 家厨房摊开设计图——他本是受老友 Mia 之托来给建议。",
+   "anchor": "Jamie looked at the designs spread across Sylvie’s kitchen table",
+   "start": 4044,
+   "end": 4108
+  },
+  {
+   "fact": "Sylvie 不问报价当场把建屋工程交给 Jamie。",
+   "anchor": "You want the job, I want you to do it. So, you’re hired.",
+   "start": 8768,
+   "end": 8824
+  },
+  {
+   "fact": "Amrita 送腕托到场，两人握手时 Jamie 的魔法剧烈翻涌，他说话打结。",
+   "anchor": "the world dimmed around him and his magic flared deep inside",
+   "start": 10964,
+   "end": 11024
+  },
+  {
+   "fact": "Amrita 翻图后当面指出设计未做长期适老化考虑，随后提前离场。",
+   "anchor": "I don’t think they’re very well future-proofed",
+   "start": 19284,
+   "end": 19330
+  },
+  {
+   "fact": "一周后 Jamie 让 Mist 推着他要来号码，致电 Amrita 道歉，约定一晚过设计（她拒绝他请吃饭）。",
+   "anchor": "I reacted badly to what could have been good professional advice",
+   "start": 33190,
+   "end": 33254
+  }
+ ]
+}

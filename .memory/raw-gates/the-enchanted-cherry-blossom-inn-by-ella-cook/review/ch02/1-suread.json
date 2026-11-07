@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Aiden 故意把钥匙留在门内，让 Mia 打不开门，因为惊喜还没布置完。",
+   "anchor": "I didn’t want you seeing anything until I’d finished.",
+   "start": 667,
+   "end": 720
+  },
+  {
+   "fact": "Aiden 让 Mia 闭眼，牵她走过走廊，在客厅门口停下并遮住她的眼睛。",
+   "anchor": "He led her the few steps down her hallway and paused",
+   "start": 1126,
+   "end": 1178
+  },
+  {
+   "fact": "Aiden 把客厅改造成两人第一次正式约会的室内版：树枝、光点、魔法罐、烤箱里的香肠。",
+   "anchor": "The sofa had been pushed back, making way for huge pots that held tree branches",
+   "start": 2476,
+   "end": 2555
+  },
+  {
+   "fact": "Aiden 单膝跪地求婚，取出与 Mia 送他的戒指配套的祖母绿与钻石戒指。",
+   "anchor": "So, Princess, will you wear my ring?",
+   "start": 8087,
+   "end": 8123
+  },
+  {
+   "fact": "两天后早晨两人到店，向 Katie 与 Ophelia 公布婚讯。",
+   "anchor": "Two mornings later Aiden hesitated at the door to Glimmers and Sparkles.",
+   "start": 14082,
+   "end": 14154
+  },
+  {
+   "fact": "Katie 误以为 Mia 因怀孕才答应，Mia 否认并说自己先求婚；Katie 又质疑只交往三个月，实际是八个月。",
+   "anchor": "Kitikat, I’m not pregnant. I asked him because I love him.",
+   "start": 21098,
+   "end": 21156
+  },
+  {
+   "fact": "撞窗巨响后 Aiden 出门，发现 Mist 正拨弄一团不动的白羽鸟。",
+   "anchor": "He headed outside and winced when he found Mist gently batting a mangled heap",
+   "start": 26029,
+   "end": 26106
+  },
+  {
+   "fact": "被救下的鸟开口说话，自报名字 Lunar 并道谢。",
+   "anchor": "Lunar. Thank you for helping me.",
+   "start": 35442,
+   "end": 35474
+  }
+ ]
+}

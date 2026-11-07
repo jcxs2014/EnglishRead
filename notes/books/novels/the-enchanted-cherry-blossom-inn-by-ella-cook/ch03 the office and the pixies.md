@@ -91,7 +91,7 @@ modified: "2026-11-07"
 
 **为什么这样写**：这是全书的论点句，作者借她口把「无障碍」从慈善改成常识：不是为少数人加装，而是所有人本来就需要。三个并列动词（live, work, play and recover）把建筑的使用场景铺满一生，最后一句把受益者从病人扩到「everyone」，堵住「这是特殊需求」的退路。
 
-**读者视角提示**：这句会被 Jamie 抄在图纸角落（「Unapologetic access makes life better all round」）——一个男人把对方的话记在自己的作品上，就是这本书的告白方式。
+**读者视角提示**：这层意思被 Jamie 抄在图纸角落（「Unapologetic access makes life better all round」）——一个男人把对方的话记在自己的作品上，就是这本书的告白方式。
 
 > **原句 9:** "‘No.’ Amrita laughed. ‘Their disabilities. Although, sadly, a lot of patients do feel overlooked because of poor accommodation or bad, thoughtless designs. I’m talking about conditions that aren’t easily seen. Things like arthritis, MS, fibromyalgia, chronic pain and joint disorders. Huntington’s.’"
 
@@ -111,7 +111,7 @@ modified: "2026-11-07"
 
 **为什么这样写**：恐怖与喜剧只隔一个音量：读者听见桌下有东西说话，而当事人只能假装没听见。「horseshoes」这个细节把民俗防妖术当成家常用品写出来，世界立刻有了厚度——他不是第一次遇到，他只是习惯了。
 
-**读者视角提示**：它们偏偏今天出现，而不是别的日子——这是作者给的暗示：不是日子特殊，是屋里多了一个人。
+**读者视角提示**：它们偏偏今天出现，而不是别的日子——这是作者给的暗示：不是日子特殊，是屋里多了一个人。同一场里他连自己那杯被动过手脚的咖啡都没尝出来。
 
 > **原句 11:** "‘In my experience, most curry houses usually serve very… commercially orientated dishes. They tend to cook with heavy sauces and often use the same base sauce for lots of dishes instead of layering flavours from scratch. And they use preservatives that home cooks wouldn’t. It’s different from what you grow up with and learn to make yourself. I don’t think you can compare the two.’"
 

@@ -111,7 +111,7 @@ modified: "2026-11-07"
 
 **为什么这样写**：她把最后的狠话留给一个比喻而不是形容词——「paper umbrella in a monsoon」比「不合适」具体一百倍：纸伞不是难看，是一淋就烂。用她自己的专业口吻（复诊、资源、评估）包住这句挖苦，人物的分寸感就出来了。
 
-**读者视角提示**：印度季风是她随身带着的尺度——后文凡是涉及她家庭与成长的段落，都和雨有关；这个比喻不是随手取的。
+**读者视角提示**：季风是她随身带着的尺度——这个比喻只在她的成长背景里成立：她评判「够不够用」的单位，从来不是英式的毛毛雨。
 
 > **原句 11:** "Irritated, he stomped off to make himself a drink and hoped that would clear his thoughts. When he got back to his desk, he was greeted by a grey cat sitting in the middle of his designs, calmly washing her paws."
 

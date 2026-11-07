@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "Amrita 靠导航开进 Hudsbury，晴天里突遇大雾、导航失灵，只能沿原路继续开。",
+   "anchor": "she’d followed her satnav app until she’d hit fog",
+   "start": 71,
+   "end": 120
+  },
+  {
+   "fact": "Rayenne 肩停 Lunar，敲窗替她指路去 Jamie 的办公室。",
+   "anchor": "turn right here, drive past the church, and turn left after the library",
+   "start": 2167,
+   "end": 2238
+  },
+  {
+   "fact": "Jamie 在楼门口承认上次失礼，提出重新开始；Amrita 也承认自己太急着护 Sylvie。",
+   "anchor": "So, do you think we can start over?",
+   "start": 5684,
+   "end": 5719
+  },
+  {
+   "fact": "Amrita 看新图后指出入口坡道太陡，几年后 Sylvie 会越走越难。",
+   "anchor": "I think the gradient is far too steep",
+   "start": 7471,
+   "end": 7508
+  },
+  {
+   "fact": "Jamie 把装第一套绘图工具的 Superman 笔盒推给她，让她亲手改坡道曲线。",
+   "anchor": "She hesitated, then reached for the Superman tin. He pushed it towards her.",
+   "start": 8131,
+   "end": 8206
+  },
+  {
+   "fact": "她的手指划过图纸时激活了他的魔法：纸张无风自动，旧草图线条自行重排。",
+   "anchor": "Papers around them rustled in a non-existent breeze",
+   "start": 13537,
+   "end": 13588
+  },
+  {
+   "fact": "她离开的间隙，Jamie 关上门斥责不请自来的小精灵，并藏起被改成精细稿的图纸。",
+   "anchor": "You were not invited or welcomed. What the hell are you playing at?",
+   "start": 17567,
+   "end": 17634
+  },
+  {
+   "fact": "两人用座机点中餐、边吃边谈绿色设计，Amrita 主动提出改天给他做饭。",
+   "anchor": "If you really want to learn something, I should cook for you sometime.",
+   "start": 23509,
+   "end": 23579
+  }
+ ]
+}
