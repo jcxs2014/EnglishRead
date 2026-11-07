@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch31_i.txt",
+ "facts": [
+  {
+   "fact": "出发点兵：Rian 手枪获准（仅限沙漠）；Ulshära 亲把 Sunbringer Spear 交还 Nikolas——「I hope it leads you through the dark」——nimbus 罩体，「handed his own murder weapon」之感。",
+   "anchor": "I hope it leads you through the dark.",
+   "start": 2763,
+   "end": 2800
+  },
+  {
+   "fact": "密谈：Julian 供出骨镯吸羽——「Orsus wants to get stronger. It might be why they insist on me using their power.」——Dante 劝「Then don't use it」；「The more I use the demon's power, the more I…」——Baron Alma 前车之鉴。",
+   "anchor": "Orsus wants to get stronger,",
+   "start": 3954,
+   "end": 3982
+  },
+  {
+   "fact": "Brailee 入梦：Nexus 站着但 barely——Adela 带元素师击退战士——「Rath Vakara is dead. S-so many people. Dead.」母亲活着但伤重（生死未定）；Camilla 借 Brailee 新能力入梦（non-Shades 首例）。",
+   "anchor": "Rath Vakara is dead.",
+   "start": 6741,
+   "end": 6761
+  },
+  {
+   "fact": "Camilla 的账：fulcrum 研究——grimoire（在 Brailee 手里）+逼问 Shanizeh+图书馆禁阅 old archive——「Bee and I can infiltrate」；「Phos can only be killed permanently once his fulcrum is destroyed」。",
+   "anchor": "His fulcrum, Dante.",
+   "start": 11950,
+   "end": 11969
+  },
+  {
+   "fact": "会议摊牌：两位 imperators 死、无成年继任（Varrick 之子年幼、Kaspan 之子未生）——民间已传「Sunslayer 该先杀我」；ost Vonlins 奔赴 Divine City；「easy solution」= 交出 Sunslayer 之兄——她自己否决（not the correct one）。",
+   "anchor": "the Sunslayer should have picked me off first.",
+   "start": 15415,
+   "end": 15461
+  },
+  {
+   "fact": "假处决自献：Dante 问刑——「public execution」——「I believe we’ve found a mutually beneficial solution.」（恶魔窃喜）——一次抵两命的表演就此定案。",
+   "anchor": "“I believe we’ve found a mutually beneficial solution.”",
+   "start": 19020,
+   "end": 19075
+  },
+  {
+   "fact": "行刑现场：Phos 像下跪台、光矛充能照顶——他吸满人群痛感发声：「You are witnessing the death of Dante Lastrider.」——大规模强制压场、镣铐崩落——Ulshära familiar 把他拖离光柱、他在光里假装成灰。",
+   "anchor": "“You are witnessing the death of Dante Lastrider.”",
+   "start": 22374,
+   "end": 22424
+  },
+  {
+   "fact": "双角破颅：痛极生极乐——「his skin split as two dark, curved horns burst from his skull」——阴影反护主、舔血——「How much longer will our pact go on? Until you become more monster than man?」——「Anything, he’d said, and he’d meant it.」",
+   "anchor": "Anything, he’d said, and he’d meant it.",
+   "start": 25057,
+   "end": 25096
+  }
+ ]
+}
