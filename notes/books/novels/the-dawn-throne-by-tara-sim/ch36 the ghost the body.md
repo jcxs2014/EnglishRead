@@ -100,7 +100,7 @@ modified: "2026-11-06"
 
 > **原句 13:** "“It’ll be my absolute pleasure.”"
 
-**中文理解**：「这将是我绝对的荣幸。」Dante 领命潜入军头庄园时的微笑台词。六个词，一半是任务，一半是 descent 的进度提示音。
+**中文理解**：「这将是我绝对的荣幸。」Dante 领命潜入军头庄园时的微笑台词。五个词，一半是任务，一半是 descent 的进度提示音。
 **关键词**：pleasure
 **为什么这样写**：以「荣幸」收束一章的道德下滑线——从「I'd happily become a monster」到「absolute pleasure」，他的语言越来越轻，代价越来越重；省略主语（潜入？杀戮？）让笑意自己渗血。
 **读者视角提示**：他与恶魔的 tether 正相缠成辫——soul-binding 的第三组实验品上线。对照 Risha 撒谎时的 Jas 沉默：两条缝合线，一明一暗。
