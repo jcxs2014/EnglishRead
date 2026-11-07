@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch21",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch21_i.txt",
+ "facts": [
+  {
+   "fact": "光牢：Aurora Tower 被抹后 Ulshära 掷黏土球（恶臭烟）放倒俘虏——Dante 醒于 imperator 塔顶：无窗石墙、灼肤光膜门、lightsbane+皮革口枷、Lumin crystals 连续光波——「The others do not have such restraints」（Shade 血统专属克制）。",
+   "anchor": "Dante had once gone mad with darkness.",
+   "start": 15,
+   "end": 53
+  },
+  {
+   "fact": "精神自稳：他把晶体光想象成 Vaegan 海岸阳光、把 Nikolas 踱步听成潮汐；Camilla「Vanished. Not crushed under sandstone but freed」——她走了，他还在。",
+   "anchor": "She got to walk free and he—",
+   "start": 3569,
+   "end": 3597
+  },
+  {
+   "fact": "囚友点名：Angelica 以三种语言试探卫兵（Solari 回骂）；Fin「Not this again」；Rian 的 cuff 摘不下但 lightsbane 妨碍连接；Risha 哑声报「They have Thana’s fulcrum」「Part of it」。",
+   "anchor": "“Are you overgrown fireflies fluent in Vaegan?”",
+   "start": 4665,
+   "end": 4712
+  },
+  {
+   "fact": "情报摊牌：Nikolas 吞吞吐吐供出「I—We think it might have some of… his fulcrum in it」；Julian 补 Starfell 定位 Nyx 碎片的先例——「The spear might be able to do the same」。",
+   "anchor": "“The Sunbringer Spear.”",
+   "start": 5891,
+   "end": 5914
+  },
+  {
+   "fact": "塔上审讯：Ulshära 亲至（肩羽为 graft 非纹身）；解枷后 Dante 强制失败（无魔音只在嗓）——「Perhaps you are used to giving the orders where you are from. But here, we do not bow to the children of lesser gods.」",
+   "anchor": "we do not bow to the children of lesser gods.",
+   "start": 9915,
+   "end": 9960
+  },
+  {
+   "fact": "政治交锋：Nyx 的 Solarian 称呼=Starscourge；Dante 反问 Astrum 近袭（Ulshära 露出困惑）——「The Child of the Starscourge...killed my god-brother and destroyed his tower. We know she is your kin」——Taesia 顶罪；他自嘲公平（幼时兄长代妹受罚，如今反向）。",
+   "anchor": "The Child of the Starscourge.",
+   "start": 11115,
+   "end": 11144
+  },
+  {
+   "fact": "烙刑：水晶烙小臂与肋（white hot 的「细 punctuation」）——「What are her plans?」——「She came here on her own. She’s working independently from us. I don't know what she's planning.」（半谎半真：目标大抵相同）。",
+   "anchor": "She’s working independently from us.",
+   "start": 12561,
+   "end": 12597
+  },
+  {
+   "fact": "解围与带走：Nikolas 以蹩脚 Solari 喊话——Ulshära 惊讶回话收起水晶——「your presence here is unwelcome」（言外：but you can be helpful）——「You two are a different matter. You will come with me.」（Nikolas+Rian 被单独带走）。",
+   "anchor": "“You two,” she said, “are a different matter.",
+   "start": 14232,
+   "end": 14277
+  }
+ ]
+}

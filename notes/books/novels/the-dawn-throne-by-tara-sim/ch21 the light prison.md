@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：她穿无袖束衣，肩上露出一角烙上去的羽毛——那不是战士们的刺青，更像一次移植。她的眼睛是金环裹着的赭色，与那根珠白羽毛的轮廓几乎同色。
 **关键词**：graft / branded
 **为什么这样写**：Perigee 的伏笔在此结账——序章里被烙进肉里的羽毛，成了 imperator 的身份徽章；「graft（移植）」这个词把神恩的暴力本质钉死：不是装饰，是器官。
-**读者视角提示**：序章读得仔细的读者此刻应该起鸡皮疙瘩——乌尔沙拉就是活下来的那一位。她的每一次「神圣」，都是别人皮肉上的疤。
+**读者视角提示**：序章读得仔细的读者此刻应该起鸡皮疙瘩——Ulshära 就是撑过第一部的那一位。她的每一次「神圣」，都是别人皮肉上的疤。
 
 > **原句 5:** "“Perhaps you are used to giving the orders where you are from,” the imperator went on, her voice accented and unhurried. “But here, we do not bow to the children of lesser gods.”"
 
@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：Ulshära 还要把晶石再次按上他的皮肤——Nikolas 在她身后用 Solari 喊了出来。那门语言在他嘴里有些笨拙，像一件大了一号的衣服。
 **关键词**：Solari / clumsy
 **为什么这样写**：救场用外语完成——「大一号的衣服」这个比喻既写生涩又写尊严：衣服不合身，但穿了；喊话内容一句不泄，悬念全押在 imperator 的反应上。
-**读者视角提示**：Nikolas 什么时候学的 Solari？（父训——第一章提过「父亲坚持让他们学」）。旧教育第一次救人，这大概是全书对他父亲最复杂的一刻。
+**读者视角提示**：Nikolas 什么时候学的 Solari？（父训——第十一章提过「父亲坚持让他们学」）。旧教育第一次救人，这大概是全书对他父亲最复杂的一刻。
 
 > **原句 9:** "“You two,” she said, “are a different matter. You will come with me.”"
 
