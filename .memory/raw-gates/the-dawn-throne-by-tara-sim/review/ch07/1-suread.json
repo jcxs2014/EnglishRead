@@ -1,0 +1,67 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch07_vii.txt",
+ "facts": [
+  {
+   "fact": "书房：Brailee 再报 Taesia 梦境无果——「This is deliberate」（Nyx 加固屏蔽，连让她听见都做不到）；Somnus/Nox 两只影 familiar 在桌上模仿物件解闷。",
+   "anchor": "“Still nothing.”",
+   "start": 859,
+   "end": 875
+  },
+  {
+   "fact": "契约恐慌：春分后天而至；不履约（reopen portals）他就会变成 baron of Seniza 那样的融合怪物；Azideh 贴耳宣告所有权；又怂恿他强制 Brailee 继续找——Dante 摔椅拒绝。",
+   "anchor": "Whether you fulfill our pact or not, you will belong to me.",
+   "start": 3430,
+   "end": 3489
+  },
+  {
+   "fact": "Nikolas 与 Fin 到访：Elena/Cormin 初见流亡侄子（父亲想笑没笑成、母亲冷脸）；Dante 读 aura——Fin 橙（apprehension）、Nikolas 淡紫、见 Dante 双双转黄；慈善晚宴记忆浮现（Taesia 把 Nikolas 拉进暗影溜去花园）。",
+   "anchor": "“—so much like her,”",
+   "start": 5696,
+   "end": 5716
+  },
+  {
+   "fact": "地窖法阵：菱形双圆「几百年前圣殿用来与诸神沟通」——非四象限域门、非五芒星召魔；烟草+砂岩石粉铺阵；Orsus 符文试过（神死了）；「haven't tried it with Mr. Luca」。",
+   "anchor": "this configuration was specifically used in the basilicas to better commune with the gods centuries ago.",
+   "start": 9607,
+   "end": 9711
+  },
+  {
+   "fact": "恶念双闪：割开 Nikolas 喉咙献祭、顺手割了 Fin（除掉 Vaega 与圣王室的最后一根线）；Azideh 怂恿「the easy answer sits before you」——他想起高原坠崖的女孩，收手跪下。",
+   "anchor": "It would be nothing to slit his throat here and now,",
+   "start": 11283,
+   "end": 11335
+  },
+  {
+   "fact": "隔窗认亲：两滴 Fin 的血开窗（仅窥视非传送）；Camilla 与 Fin 同款灼蓝眼；「I barely got to hold you in my arms before they took you from me」——无声对泣；二十余年压成 yes/no。",
+   "anchor": "Ferdinand wouldn’t allow me to see you.",
+   "start": 14946,
+   "end": 14985
+  },
+  {
+   "fact": "地点答案：Lezzaro 原话——Nexus 位于断路之上、与诸圣殿等距——须用 palace square（骨宫弹坑，曾做过全城法阵中心，毫不隐蔽）。",
+   "anchor": "The Bone Palace,",
+   "start": 16989,
+   "end": 17005
+  },
+  {
+   "fact": "fulcrum 警告：Camilla——若矛里真有 Phos 的 fulcrum，「you cannot let him claim it. It would be best to destroy it now」；神肉身被杀仍可经 fulcrum 归来（fail-safe）；怎么毁——她也不知道。",
+   "anchor": "Even if Phos’s body is killed, he can eventually return through his fulcrum.",
+   "start": 18189,
+   "end": 18265
+  },
+  {
+   "fact": "越界代价：Dante 解开 Camilla 的 lightsbane 镣铐（Shanizeh 现形、真名仍在他手）；恶念再起——想强制 Shanizeh（Vecto）吐出 Azideh 真名——Azideh 旋即勒颈惩罚：「I will not let anyone make me their slave. Especially not you.」",
+   "anchor": "I will not let anyone make me their slave,",
+   "start": 20506,
+   "end": 20548
+  },
+  {
+   "fact": "收尾：Dante 吐血起身，令春分封锁 palace square——「Where hopefully, unlike Godsnight, there would be no lives lost」。",
+   "anchor": "We’ll need the palace square blocked off on the equinox.",
+   "start": 21170,
+   "end": 21226
+  }
+ ]
+}
