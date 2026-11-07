@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch41",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch41_ii.txt",
+ "facts": [
+  {
+   "fact": "Ulshära 开门分兵：wards 认血——「If I fall, do not hesitate. Do what you must.」——西门 Angelica/Cosima、东门 Ulshära+Dante、北门 Risha 已拦。",
+   "anchor": "“If I fall, do not hesitate.",
+   "start": 1566,
+   "end": 1594
+  },
+  {
+   "fact": "西门火墙：Angelica 奏 Common Conquest 咏叹调放火墙——Rorik 弹指开光盾拱门让军团通行——「Huh! Very nice! Powerful! I like it!」——Cosima 报「your best friend is here. And—shit, is that Feathers?」",
+   "anchor": "“Very nice! Powerful! I like it!”",
+   "start": 6209,
+   "end": 6242
+  },
+  {
+   "fact": "东门攻心：Dante 影线意图网+Nox 偷换 lightsbane Device——Ulshära 攻心「You think he will reward you...you are nothing but a sacrifice! He is sending you to Vitae to die!」——「And you should have been dead long before now.」——「somehow I think I understand the Sunslayer's intentions now.」",
+   "anchor": "He is sending you to Vitae to die!",
+   "start": 10848,
+   "end": 10882
+  },
+  {
+   "fact": "强制反噬：Dante 的「Die」因犹豫未成——「Because of his hesitance, the compulsion didn’t take. It backfired.」——鼻血跪地——「The rat got caught in its own trap.」",
+   "anchor": "It backfired.",
+   "start": 12782,
+   "end": 12795
+  },
+  {
+   "fact": "Taesia 现身：血符 earth 暗柱破场——「Seems I didn't get an invitation to this little get-together.」——对 Ulshära「You, on the other hand, have my undivided attention.」",
+   "anchor": "Seems I didn’t get an invitation",
+   "start": 14597,
+   "end": 14629
+  },
+  {
+   "fact": "兄妹重逢：「Not even a hello first? Nice horns.」「You little shit.」——「The ost Vonlins first...Don't subject Bee to that. Not again.」「You may as well earn that title.」",
+   "anchor": "“Not even a hello first?”",
+   "start": 16184,
+   "end": 16209
+  },
+  {
+   "fact": "西门破与失控报：「a crash resounded across the plaza...as the western gates were breached」——Rian 后来传信「We couldn’t stop him, it was like… as the western gates were breached.」——Dante 闻西面破防",
+   "anchor": "as the western gates were breached.",
+   "start": 16585,
+   "end": 16620
+  },
+  {
+   "fact": "章末判词：「This was what it looked like to not be afraid of power or its costs.」——Taesia 的影分身战 Faün——Angelica 的嫉妒式敬语。",
+   "anchor": "to not be afraid of power or its costs.",
+   "start": 18176,
+   "end": 18215
+  }
+ ]
+}
