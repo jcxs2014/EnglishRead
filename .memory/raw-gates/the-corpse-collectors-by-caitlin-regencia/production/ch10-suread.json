@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch10_just_act_natural.txt",
+ "facts": [
+  {
+   "fact": "是女巫杀吸血鬼",
+   "anchor": "We have discovered what is happening to the vampires. It was us all along.",
+   "start": 42,
+   "end": 116
+  },
+  {
+   "fact": "运回的是Dallin母亲",
+   "anchor": "it was Dallin’s mother that we brought back from Mindanforth.",
+   "start": 436,
+   "end": 497
+  },
+  {
+   "fact": "Dallin把信交国王",
+   "anchor": "Dallin turned your letter over to the King this evening.",
+   "start": 1446,
+   "end": 1502
+  },
+  {
+   "fact": "Vix被叫走",
+   "anchor": "They came for us. Told them you needed to rest.",
+   "start": 9541,
+   "end": 9588
+  },
+  {
+   "fact": "他们混进组织",
+   "anchor": "They’d done it. They were in.",
+   "start": 15915,
+   "end": 15944
+  },
+  {
+   "fact": "Lomarda递血让她饮",
+   "anchor": "handing her a shot glass full of Vanyazara’s blood and kissing her cheek.",
+   "start": 16484,
+   "end": 16557
+  },
+  {
+   "fact": "血中毒倒地",
+   "anchor": "Pain surged through Alliera’s veins, and she cried out, clutching her stomach as she crumpled to the floor.",
+   "start": 20584,
+   "end": 20691
+  },
+  {
+   "fact": "最后拒绝送医回家",
+   "anchor": "Okay. I hear you, my darling, no hospital. Just home",
+   "start": 24239,
+   "end": 24291
+  }
+ ]
+}
