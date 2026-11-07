@@ -54,14 +54,14 @@ modified: "2026-11-06"
 **中文理解**：Kaspan 单膝砸地，胸口烧灼剧痛到眼眶溢水却不敢去抓；Ulshära 同样倒下，左肩迸出灼光柱，硬生生把尖叫压成一缕细鸣从喉咙里爬出来。
 **关键词**：scalding / whine
 **为什么这样写**：赐福写成炮击——burning、erupting、scalding 全是烧伤词汇；「把尖叫压成细鸣」是本段的痛感峰值，禁声比喊叫更疼，也悄悄呼应神域「不得失仪」的规训。
-**读者视角提示**：三人的反应各给一笔（Kaspan 跪、Ulshära 倒、Varrick 站立咬牙）——对同一场「恩典」的三种身体答卷，值得对照读。
+**读者视角提示**：三人的反应各给一笔（Kaspan 跪、Ulshära 倒、Varrick 站立硬扛）——对同一场「恩典」的三种身体答卷，值得对照读。
 
 > **原句 7:** "When the tears and sweat cleared from his eyes, Kaspan finally looked down. His cloak had slithered onto the floor around him, a fallen banner of white. Where its clasp once sat—the brooch containing his god’s prized feather—was the iron-hot outline of a brand."
 
 **中文理解**：泪汗退去，Kaspan 才敢低头：白斗篷像倒下的旗滑落一地；原来别着神赐羽毛胸针的位置，只剩一圈烙铁烫出的印痕。
 **关键词**：brooch / brand
 **为什么这样写**：fallen banner 一个比喻完成政变叙事——白旗倒下，神权直接写上皮肤；brooch→brand 一词之差（饰物→烙印），恩宠与烙刑只隔一道金属的温度。
-**读者视角提示**：这就是本系列书名里「Dawn/Feather」意象的暗面：神赐的羽毛从来不是饰品，是契据。正文里每根羽毛出现时都该想起这一幕。
+**读者视角提示**：这就是本书「神赐羽毛」意象的暗面：神赐的羽毛从来不是饰品，是契据。正文里每根羽毛出现时都该想起这一幕。
 
 > **原句 8:** "The woman the shadows birthed could have been monster or madness. She carried the darkness like an extension of herself, and in her eyes Kaspan beheld a reflection of the cosmos he’d just glimpsed, sclera black as pitch and studded with constellations he had no name for."
 

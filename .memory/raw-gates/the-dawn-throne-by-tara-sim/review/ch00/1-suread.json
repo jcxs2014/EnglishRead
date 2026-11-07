@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch00",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch00_perigee.txt",
+ "facts": [
+  {
+   "fact": "开篇神召：第三太阳越过地平线，Imperator Kaspan 被召至 Divine City——距他上次闻神音「At least a thousand sunfalls」（至少一千次日落）。",
+   "anchor": "When the Third Sun crossed the horizon, Imperator Kaspan was summoned to the Divine City.",
+   "start": 26,
+   "end": 115
+  },
+  {
+   "fact": "三位 Imperator 齐聚圣城：Kaspan、Ulshära（白发编骨羽、佩空鞘——神前不得携武器）、Varrick（宽肩方手、羽饰右臂护腕）；Varrick 以 Brother/Sister 相称。",
+   "anchor": "So He has summoned us all.",
+   "start": 5057,
+   "end": 5083
+  },
+  {
+   "fact": "神的形态：从不移目移身——领域一日有侵蚀之兆他就被锁在王座上独自供能 Solara；肤色灰败、胸口有黑色溃烂伤口、金黑 ichor 滴落裙裾。",
+   "anchor": "I HAVE NEGLECTED YOU,",
+   "start": 9855,
+   "end": 9876
+  },
+  {
+   "fact": "神的扩张宣言：诸界会因恐惧扩张而报复、试图毁祂；祂称自己的作为是 kindness、自认最配统治。",
+   "anchor": "THE REALMS WILL RETALIATE,",
+   "start": 11108,
+   "end": 11134
+  },
+  {
+   "fact": "烙印仪式：火各自起自胸口（Kaspan）、左肩（Ulshära 崩出灼光柱）、右臂（Varrick 站立硬扛）——三枚神羽烙进血肉充盾（MY WARRIORS—AND MY PROTECTORS），Kaspan 摸烙印处有灼热魔法流窜。",
+   "anchor": "His cloak had slithered onto the floor around him, a fallen banner of white.",
+   "start": 12965,
+   "end": 13041
+  },
+  {
+   "fact": "刺客登场：暗影从墙角裂开如颚——星瞳女子踏出（眼白漆黑镶无名星座、佩缀星尘的邪剑、影子如衣），宣告要在一切开始前送他解脱。",
+   "anchor": "I’LL PUT YOU OUT OF YOUR MISERY BEFORE IT EVEN BEGINS.",
+   "start": 17154,
+   "end": 17208
+  },
+  {
+   "fact": "一剑穿胸：剑身正中刚烙上的羽毛将其剖成两半；他的血（白与猩红夹一线金）汇进打翻的 agave 酒。",
+   "anchor": "When the sword pierced him through, bisecting the newly branded feather, Kaspan wondered if it was a mercy.",
+   "start": 17212,
+   "end": 17319
+  },
+  {
+   "fact": "收束句：Imperator Kaspan ost Phos 一生第一次目睹夜幕——神域从未给过他的东西。",
+   "anchor": "For the first time in his life, Imperator Kaspan ost Phos witnessed nightfall.",
+   "start": 17404,
+   "end": 17482
+  }
+ ]
+}
