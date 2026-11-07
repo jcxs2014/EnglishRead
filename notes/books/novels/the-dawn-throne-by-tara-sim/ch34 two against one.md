@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：「它眼睛再多也几乎看不见——射别的东西！」bard 的弩箭远远落在兽身之外。「瞄准它股骨与头的连接处！」战术指导由唱错歌的人完成，喜感与军师感同框。
 **关键词**：femur / eyes
 **为什么这样写**：弱点情报交给喜剧角色——「well shy of」的自我打脸先立真实感；解剖学词汇（femur）从吟游诗人嘴里出来，说明他的「聚落童年」绝非虚言。
-**读者视角提示**：Edwin 的知识体系一直在超预期供货——他的秘密（会 Nysari、通六语、懂沙漠）值得重新盘一遍库存。
+**读者视角提示**：Edwin 的知识体系一直在超预期供货——他的秘密（会 Nysari、通多语、懂沙漠）值得重新盘一遍库存。
 
 > **原句 5:** "He had used that power, but as Phos. It had not been a relic but a tool of destruction, and now it carried even more of the god than it did before. There was no desire in him for its familiar heft and its familial importance."
 
@@ -54,7 +54,7 @@ modified: "2026-11-06"
 **中文理解**：热度从胸口漫下手臂。他伸出的手之外，悬着一枚发亮的符文——六芒星中一点。体内一声爆响与光焰，一根绳绷紧了。矛凭空落进他的掌心。新能力的出生证明，只有三行。
 **关键词**：hexagram / taut
 **为什么这样写**：觉醒写成「接线」——glyph 是插座图案、taut 的 cord 是电线；不给名字、不给解释，让读者与 Rian 同时面对「我会了」的茫然。
-**读者视角提示**：hexagram 在本书已是老熟人（第三章 demon summoning、第五章 Orsus 试探）——这个符文属于谁，是下一个大谜。
+**读者视角提示**：hexagram 在本书此后将成为关键符号（第二十九章的骨镯纹、本章的取物符）——这个符文属于谁，是下一个大谜。
 
 > **原句 7:** "Whenever his father had handed him the weapon, he'd been comforted by its weight and its warmth. But now the only warmth it held was from his own hands. Even the blade and the feathers looked duller."
 
@@ -72,7 +72,7 @@ modified: "2026-11-06"
 
 > **原句 9:** "He could use lightspeed not only on an object, but another person."
 
-**中文理解**：他可以使用光速——不只对物件，还能对另一个人。九个词，一种新物理，一条新伦理。
+**中文理解**：他可以使用光速——不只对物件，还能对另一个人。十二个词，一种新物理，一条新伦理。
 **关键词**：object / person
 **为什么这样写**：能力说明书写成伦理分水岭——object 与 person 的对举暗埋危险（能传送人，也就能对人做别的）；「another person」的「another」把亲情写进了技术参数。
 **读者视角提示**：下一句才是本章的题眼：「He could spare his brother needless pain.」——父亲教他疼痛的语法，他自学了删除键。

@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch34",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch34_iv.txt",
+ "facts": [
+  {
+   "fact": "训练闪回：Waren 兄弟对练——换武器失手被斥「You cannot let yourself get distracted...It will more likely than not get you killed for your trouble.」——Rian 的 maneuver 获赞、Nikolas 被斥 keep your right arm up。",
+   "anchor": "You cannot let yourself get distracted,",
+   "start": 1914,
+   "end": 1953
+  },
+  {
+   "fact": "椰枣酒记忆：事后兄弟偷酒减压（tipsy enough that their bruises hardly bothered them at all）。",
+   "anchor": "He’d reveal the bottle of palm wine",
+   "start": 2993,
+   "end": 3028
+  },
+  {
+   "fact": "兽战开局：talpascor 非领地内来袭——「Phos sent it.」——Edwin 撤令+亮出班卓十字弩；Julian 射甲、Rian 手枪打小眼。",
+   "anchor": "“Phos sent it.”",
+   "start": 3753,
+   "end": 3768
+  },
+  {
+   "fact": "团战：Fin 掷真炸弹断 talpascor 右腿——Nikolas 以 Lux 盾挡 stinger 光束坠沙、矛落数十步外。",
+   "anchor": "He yanked the safety pin out and threw the bomb",
+   "start": 6523,
+   "end": 6570
+  },
+  {
+   "fact": "觉醒一：Rian 下意识伸手——hexagram+circle+dot glyph 显现——矛 materialize 入手；「now the only warmth it held was from his own hands. Even the blade and the feathers looked duller.」",
+   "anchor": "Beyond his reaching hand hung a shining glyph",
+   "start": 7923,
+   "end": 7968
+  },
+  {
+   "fact": "觉醒二：掷矛+念张力线——矛消失（glyph 复现）→ Nikolas 手中闪光 materialize——「How did you—?」",
+   "anchor": "a hexagram and a circle and a dot.",
+   "start": 9303,
+   "end": 9337
+  },
+  {
+   "fact": "觉醒三：Nikolas 背对巨螯——父训两句回响——Rian 拽兄入 lightspeed——「He could use lightspeed not only on an object, but another person.」「He could spare his brother needless pain.」",
+   "anchor": "It will more likely than not get you killed for your trouble.",
+   "start": 1998,
+   "end": 2059
+  },
+  {
+   "fact": "兄弟连携：换位战术复刻童年（changed places with a resonating crack）——「The weapon in his hands was different, but it was a relief—it didn't conjure harmful memories, only potential.」",
+   "anchor": "Two against one, just like old times.",
+   "start": 5484,
+   "end": 5521
+  }
+ ]
+}
