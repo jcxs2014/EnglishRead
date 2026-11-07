@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch06_cloak_and_dagger.txt",
+ "facts": [
+  {
+   "fact": "Vix在小路上把Alliera拖进灌木",
+   "anchor": "She whirled but found herself dragged into the brush next to the path",
+   "start": 602,
+   "end": 671
+  },
+  {
+   "fact": "三个斗篷人从藏身处旁走过",
+   "anchor": "Three figures wearing voluminous cloaks that concealed their identities completely were passing their hiding spot.",
+   "start": 1586,
+   "end": 1700
+  },
+  {
+   "fact": "女巫们钻进山洞洞口藤蔓封合",
+   "anchor": "watched the group of witches duck into the cave",
+   "start": 4505,
+   "end": 4552
+  },
+  {
+   "fact": "Alliera把Veyl的奖牌戴在Vix脖子上",
+   "anchor": "clenching her fingers around what she could feel now was some sort of medallion or locket on a long chain",
+   "start": 5049,
+   "end": 5154
+  },
+  {
+   "fact": "匕首抵住Alliera喉咙",
+   "anchor": "with the cold bite of a dagger’s blade pressed to her throat",
+   "start": 5464,
+   "end": 5524
+  },
+  {
+   "fact": "奖牌来自Veyl",
+   "anchor": "I got it from Veyl!",
+   "start": 7112,
+   "end": 7131
+  },
+  {
+   "fact": "神秘人要求证明自己才给答案",
+   "anchor": "You wanted answers, Miss Halynar. They will be given in time, once you have proven yourselves.",
+   "start": 8681,
+   "end": 8775
+  },
+  {
+   "fact": "他们为Elora继续深入",
+   "anchor": "For Elora.",
+   "start": 9146,
+   "end": 9156
+  }
+ ]
+}
