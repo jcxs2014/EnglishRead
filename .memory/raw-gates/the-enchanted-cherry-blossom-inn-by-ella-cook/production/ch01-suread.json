@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Amrita 是神经物理治疗师，在给病人 Sylvie 做抬腿训练，用「再来一组」哄她继续。",
+   "anchor": "‘One more set,’ Amrita encouraged her patient with a smile.",
+   "start": 20,
+   "end": 79
+  },
+  {
+   "fact": "Sylvie 患有进行性疾病（后文点明 Huntington 亨廷顿舞蹈症），她清楚以后还会有更多更糟的辅具。",
+   "anchor": "That’s what degenerative means.",
+   "start": 1130,
+   "end": 1161
+  },
+  {
+   "fact": "Sylvie 把 plié squats 说成「傻青蛙跳」，用 samosas 当奖励跟 Amrita 交换加练。",
+   "anchor": "Samosas for demented forgotten-how-to-leave-the-floor frog jumps?",
+   "start": 3790,
+   "end": 3855
+  },
+  {
+   "fact": "Jamie 初次见到走进 Sylvie 家送腕托的 Amrita 时，被她的外貌震住。",
+   "anchor": "She was beautiful. Spectacular. Literally stunning.",
+   "start": 9568,
+   "end": 9619
+  },
+  {
+   "fact": "Jamie 与 Amrita 握手时魔法被触发，他把她的形象当成建筑草图一样在脑中看见。",
+   "anchor": "As soon as her hand touched his, the world dimmed around him and his magic flared deep inside",
+   "start": 10931,
+   "end": 11024
+  },
+  {
+   "fact": "Amrita 认为这套设计没有为 Sylvie 的未来需求做打算，临走给出断言：像雨季的纸伞一样没用。",
+   "anchor": "They’re about as useful as a paper umbrella in a monsoon.",
+   "start": 24036,
+   "end": 24093
+  },
+  {
+   "fact": "一周后 Jamie 在办公室看设计图，Ophelia 的灰猫 Mist 跳上图纸、按手机屏幕示意他找 Amrita。",
+   "anchor": "a grey cat sitting in the middle of his designs, calmly washing her paws",
+   "start": 26500,
+   "end": 26572
+  },
+  {
+   "fact": "Amrita 接受 Jamie 的道歉和他一起过设计的邀约，但拒绝了他提出请她吃晚饭。",
+   "anchor": "It’s an OK, we can meet up and go through your designs. But dinner’s not necessary",
+   "start": 35402,
+   "end": 35484
+  }
+ ]
+}
