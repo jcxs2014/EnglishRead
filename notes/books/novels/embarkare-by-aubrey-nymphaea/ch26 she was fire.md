@@ -27,7 +27,7 @@ modified: "2026-11-07"
 
 > **原句 3:** "A hand found her mouth from behind and pulled her body into a sturdy chest, and Andra bucked and jabbed, silently attempting to escape the strong grip that held her firmly in place. Her elbow connected with the stomach behind her, and a garbled grunt escaped the lips of her attacker. … Spinning in place, Andra thrust her forearm under the person's chin and shoved hard, pinning them against the wall by the throat. … Quentin’s hazel eyes met hers in the dark."
 **中文理解**：巷子里一只手从背后捂住她的嘴、把她拽进坚实的胸膛——她又顶又肘、反手锁喉把人钉在墙上——榛色的眼睛在黑暗里与她相对：是 Quentin。重逢的拥抱是"先打后认"的产物；他眼里的温柔换成了石头般的怒。
-**关键词**：bucked / pinned
+**关键词**：bucked / hazel
 **为什么这样写**：作者让训练成果以"误伤友军"的喜剧形式验收——她的第一反应是完整的擒拿链（肘、锁、钉），说明身体已学会战斗；"stone-cold rage"的表情切换（下一块）宣告温和的 Quentin 也在战争中换挡——本书没有未受污染的温柔。被捂嘴的三连反应与 ch25 Gerrick 捂她的动作同款：她已经把"被袭击"练成了肌肉记忆。
 **读者视角提示**：对照 ch11 她误袭 Jasper 的不同——同样的动作对 Jasper 是逃生、对 Quentin 是认亲；动作不变，对象决定道德。
 

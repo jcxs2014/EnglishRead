@@ -27,7 +27,7 @@ modified: "2026-11-07"
 
 > **原句 3:** "“Gerrick,” she whispered in the small space between them. “I won’t leave them.” … “I know,” he said through clenched teeth. … “We do this together. You will not fall; nor will I.”"
 **中文理解**：她驳回预嘱：我不会丢下他们；他咬牙认账；她把盟约升级成对等条款——我们一起，你不会倒下，我也不会。她用意志力给命运下订单。
-**关键词**：tenacity / nor
+**关键词**：clenched / whisper
 **为什么这样写**：作者让"合议"替代"命令"——他给的是单方遗命，她还的是双边条约（nor will I 的对称句式）；"willing them into existence"（把话说成存在）呼应 ch12 的魔法观（语言即现实）：她的十acity 不是自信，是立法。这条对等条款正是下一章双双倒下的伏笔——愿望说得太满，命运照单全收。
 **读者视角提示**：对照 ch07 的"start small"与本章的"你不会倒我也不倒"——她的诺言越来越重，本章命运开始逐条催收。
 
@@ -69,7 +69,7 @@ modified: "2026-11-07"
 
 > **原句 10:** "“You can.” Admiration filled his gaze as he reached for her, still too far to touch. A corner of his mouth lifted. “Feel my heartbeat, Andra. Match yours with mine.” … Tears fell freely down Andra’s face as her hair whipped her skin, and she tunneled her focus inward. Directly next to the beat of her own sporadic heart, she felt it. An echo of another, a calming force that served to strengthen her own. As Gerrick had always been."
 **中文理解**：他在风暴边缘够不着她，只喊出那套口诀：你可以的——感觉我的心跳，跟它同步；她的泪被风吹横、发鞭抽脸，向内收束注意力——在自己乱跳的心跳旁边，她摸到了另一道回声：一股让她更强而不是更弱的镇定力。如他一直以来的样子。她砸下双手，天地安静。
-**关键词**：echo / strengthened
+**关键词**：tunneled / echo
 **为什么这样写**：作者让"救她的技术"第三次出场并完成形而上学升级——ch17 的物理镇定、ch19 的照护节拍，本章升级为"心跳回声"的感知实存；"As Gerrick had always been"把技术写成关系本体：他的心跳从来不只是节拍器，是她的外部支架。口诀的复现（Match yours with mine）在下一章将成为遗言的道具——本书最温柔的技术最终没有救得了他。
 **读者视角提示**：对照 ch24 的光球夜——他的心跳是两人关系的原声带；记住"echo"这个设定，下一章他的"最后一次呼吸"将由她来数。
 
@@ -92,7 +92,7 @@ modified: "2026-11-07"
 | catalyst | 触媒、催化剂 | Magic tore from her body, her skin the catalyst for the winds surrounding the entirety of the camp. |
 | protruding | 突出、外露 | A spear fell through the sky and stabbed through Gerrick’s back, the point protruding from his chest. |
 | cacophony | 刺耳的嘈杂 | “I can’t.” Her voice was lost in the cacophony of screams. |
-| untethered | 未拴束的、无节制的 | her magic sizzled along her skin, flowed through her very being, singing in pure ecstasy at the untethered release. |
+| untethered | 未拴束的、无节制的 | it sizzled along her skin, flowed through her very being, singing in pure ecstasy at the untethered release as she fought to regain control. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

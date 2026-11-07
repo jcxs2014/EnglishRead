@@ -45,13 +45,13 @@ modified: "2026-11-07"
 
 > **原句 6:** "“They left me in the snow.” His voice was a low rumble. “Only once the sun had set behind the horizon did the huntsman appear. He said I made my choice, and I would die with nothing more than that choice.” … “Choice? I don’t understand what you did wrong.” … “Neither did I. But the huntsman believed in the words he spoke. They beat me. Whipped me. They left me in that valley for the night to take me.”"
 **中文理解**：他们把他丢在雪里，日落才现身宣判：你做了选择，就死在你的选择里——她听不懂他做错了什么，他说我也不懂，但猎人信他说的每个字：毒打、鞭笞，把他在谷里留给那个夜晚。冤罪的核心是"说不通的罪名"。
-**关键词**：chained / whipped
+**关键词**：snow / whipped
 **为什么这样写**：作者用她的问题（I don't understand）做读者的嘴替——罪名的不可理解性正是创伤的核心（受害者永远在找自己做错了什么）；"the night to take me"的留白（让"夜"来带走他）比直接写死更冷，也暗示猎人知道谷里有什么——他不是疏忽，是行刑。"Neither did I."三个词是全章的道德锚点：他连罪名的逻辑都没收到。
 **读者视角提示**：对照 ch27 开头她问"能帮他们做什么"得到的"Not tonight"——本书的成年人总在教孩子"有些事今晚做不了"；猎人那句"你做了选择"与 Vasara 的"为母赎罪"同构：都是给受害者预装罪名。
 
 > **原句 7:** "“A monster came in the night. It must have smelled my blood.” He shrugged. “I killed it.” … “Believe it or not I am actually good at what I do.” He laughed humorlessly. … “When the monster was dead, the tattoo extended up my side. I didn’t lose consciousness that time, but I believed the pain would kill me.” He inhaled through his nose. “The huntsman was hidden, watching the events from a distance. Once that section of the tattoo finished, he severed the chain that bound me and told me to never come to the village again.”"
 **中文理解**：夜里循血而来的怪物成了他的试炼——锁着链子他杀了它；纹身顺身侧蔓延、疼得他以为要死；而猎人全程藏在远处看完全场，等墨长完才斩链放逐：永远别回村。他的第一份"猎人执照"是一场公审。
-**关键词**：severed / exiled
+**关键词**：humorlessly / severed
 **为什么这样写**：作者让"救命"与"行刑"共用同一只手——怪物给他活下去的伤口，猎人给他活下去的许可，两个"恩人"都在利用他；"the tattoo extended"把杀怪写成墨的生长（每次杀怪+一段），纹身的计数器属性正式揭晓——那些黑纹是他生存战绩的年轮。"never come to the village again"与 ch24 的母亲过去式连上：他的家在那一夜被没收。
 **读者视角提示**：对照 ch26 的监工怪军法——Vasara 组织的"考核制"与猎户村的"处决制"互为镜像：两个世界都用怪物的血计算人的价值。
 
@@ -88,7 +88,7 @@ modified: "2026-11-07"
 |---|---|---|
 | seedling | 幼苗 | Deep within Andra’s chest, she felt it. Like a seedling sprouting its first leaves through the soil. |
 | cocoon | 茧、包裹物 | Their bodies molded together in a cocoon of warmth and security, of passion and reckless hope for a future they may not get to see. |
-| banished | 放逐（banish 的过去分词） | She wanted to solve his problems, cure any ailment, and banish whatever force was afflicting him now. |
+| infiltrate | 渗入、潜入 | “We’re hoping arriving one day early will give us an advantage, though we know it’s unlikely. And that’s all we’ve got.” |
 | susceptible | 易受伤害的、易感的 | A time when the skin now beneath her palms was more susceptible to injury, to pain. |
 | nuzzled | （用鼻/脸）偎贴 | Gerrick nuzzled his face into Andra’s hair. |
 
@@ -98,7 +98,7 @@ modified: "2026-11-07"
 | cot | 简易床、行军床 | The hard edge of Gerrick’s cot dug into the back of her neck as she sat on the ground next to him. |
 | clasps | （衣）搭扣（复数） | “I need you to undo the clasps at the back.” |
 | calluses | 老茧（复数） | Andra rubbed her lips against the rough calluses of Gerrick’s palm. |
-| hearth | 壁炉 | Placing his hands on the hearth above his head, he opened his usually silent mouth and roared in pain. |
+| bunched | 揪拢、收拢 | He nodded and bunched the bottom of her tunic in his hands, pulling it over her head and clutching her bare chest to his in one swift movement. |
 | tunic | 束腰上衣 | With the dress now undone, Andra stood and clutched the front of the bodice to her chest, searching the bag for a tunic. |
 
 ## 一句话总结
