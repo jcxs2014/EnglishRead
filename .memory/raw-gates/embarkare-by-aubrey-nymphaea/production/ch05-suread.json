@@ -1,0 +1,55 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch05",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "夜里打点行装：干酪肉干、药瓶与母亲的咒典；Bernice 在炉边沉睡呼吸渐稳，她压下翻胃般的恐惧",
+   "anchor": "Nausea roiled her gut",
+   "start": 389,
+   "end": 410
+  },
+  {
+   "fact": "Gaya 从架上推下一本她从未见过的小咒典：母亲的笔迹、匆促的笔记、圆阵排布的黑暗符文——妈妈不是练这种魔法的吧？",
+   "anchor": "knocking a black leather-bound book at her feet",
+   "start": 1072,
+   "end": 1119
+  },
+  {
+   "fact": "给 Fergal 留下 Bernice 护理说明后吻别她的手：也许爱也能让人做最好的事；然后独自走进夜色",
+   "anchor": "“Maybe love can also make people do the best things.”",
+   "start": 3143,
+   "end": 3196
+  },
+  {
+   "fact": "林中黑暗里跳出的是 Lucas：他知道她不会留下让别人为她战、为她死，质问她计划是什么",
+   "anchor": "“You won’t stay in the Southern Woods and let people fight for you. Die for you.",
+   "start": 4264,
+   "end": 4344
+  },
+  {
+   "fact": "她哭着问\"要是我不够格呢\"，Lucas 说不赞成也不让她一个人去",
+   "anchor": "“I may not agree with you, but I will not let you do this alone.”",
+   "start": 4974,
+   "end": 5039
+  },
+  {
+   "fact": "Lucas 演讲：Cecilia 之女、纪念日本来就是纪念你母亲、同样的魔法在你血管里流淌",
+   "anchor": "You are the daughter of Cecilia the Light Witch, the one who conquered darkness a century ago.",
+   "start": 5312,
+   "end": 5406
+  },
+  {
+   "fact": "和解后他吹哨唤来三匹马：Daegal 与 Tolan 同行——童年冒险之约终于启程",
+   "anchor": "“We can finally go on that adventure we always dreamt about,”",
+   "start": 5883,
+   "end": 5944
+  },
+  {
+   "fact": "她坐在 Lucas 身后翻身上马，回头望林子最后一眼，希望自己还能再见到它们",
+   "anchor": "hoping she would see them again",
+   "start": 6728,
+   "end": 6759
+  }
+ ]
+}
