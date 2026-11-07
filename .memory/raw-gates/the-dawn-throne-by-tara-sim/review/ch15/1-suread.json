@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch15_xv.txt",
+ "facts": [
+  {
+   "fact": "屋顶清点：他拔光了战士的翼——战士颈伤口=Godsnight 父亲同款 lesion（火烧边）；skeletal wings 只剩骨架、长羽散落满屋顶。",
+   "anchor": "Nikolas was lost.",
+   "start": 17,
+   "end": 34
+  },
+  {
+   "fact": "自残后景：他自己的前臂被拔得稀烂——pinfeathers 顽固填洞；「Stop. St-stop. Please.」神不应答；想起母亲腕上的疤逼自己停手。",
+   "anchor": "Mangled, oozing, pockmarked",
+   "start": 1601,
+   "end": 1628
+  },
+  {
+   "fact": "Fin 手链的银树坠饰丢了（绳早已磨损、战斗中挣断）；在檐沟寻回 Sunbringer Spear。",
+   "anchor": "the small silver tree charm that hung from Fin’s bracelet",
+   "start": 2621,
+   "end": 2678
+  },
+  {
+   "fact": "父训还魂：「Get up」——如猎刀割开他；他依令展翼化光弧升空（训练场的身体记忆）。",
+   "anchor": "The voice of Waren Cyr cut through him like a hunting knife.",
+   "start": 3178,
+   "end": 3238
+  },
+  {
+   "fact": "空战协作一：Nikolas 光速绕后刺穿女战士躯干；Angelica 凝冰矛贯其侧；他踢落敌尸无 remorse——「every kill was only another strike against Phos」；互报家人平安。",
+   "anchor": "every kill was only another strike against Phos.",
+   "start": 4012,
+   "end": 4060
+  },
+  {
+   "fact": "空战协作二：三战士来袭分工（Take the left!）——Nikolas 佯攻引开、Angelica 开风门推进——「Not bad」；金盾泡被 quintessence glissando 吃穿、火塔灌入；Yvri 断 aether 困敌自焚。",
+   "anchor": "“Just like we practiced,”",
+   "start": 6056,
+   "end": 6081
+  },
+  {
+   "fact": "Deia 侵心：「Let the city burn」；手印疤灼痛如初造时；「Fuel the flames...I would rather reduce my world to cinders than let him have it」——火门大开水坝崩塌：「This is what you are good for, my blood. Not protection, but destruction. Is it not beautiful? Is it not a relief?」",
+   "anchor": "I would rather reduce my world to cinders than let him have it.",
+   "start": 8773,
+   "end": 8836
+  },
+  {
+   "fact": "诱升神格：「You think too small...Why settle for being a mortal sovereign when you have the means to become a god?」——火成风暴、Yvri 坠向城市（魔法会像炸弹炸开）——Deia 的笑声是最后听到的声音，两者撞上 Gravespire。",
+   "anchor": "Why settle for being a mortal sovereign",
+   "start": 9694,
+   "end": 9733
+  }
+ ]
+}

@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：血全部来自那名男子颈部的绽裂伤口——边缘像被火烧过。与诸神夜后他父亲尸体上的那道致命伤，一模一样。武士的心脏早已停跳，眼中的神性之光熄灭，露出软玉般黯淡的虹膜。
 **关键词**：lesion / nephrite
 **为什么这样写**：他用一句话完成「弑父复刻」的自我指认——作者不写心理分析，只摆出「同款伤口」这个物证；nephrite（软玉）给死者的眼睛一种矿石般的冷，杀戮的余温全靠对比反衬。
-**读者视角提示**：第一章他忏悔「疯了的爱」，本章他复刻了那把刀。问题是：这次算疯，还是算醒？
+**读者视角提示**：第一章他忏悔「疯了的爱」，本章他复刻了那道伤口。问题是：这次算疯，还是算醒？
 
 > **原句 2:** "So instead he thought of his mother. Madeia, with her wounded gaze and grief-thinned body, lighting up brighter than the morning room when she saw him. The tender scars on her wrists like the ones he now carved into his own skin."
 
@@ -46,7 +46,7 @@ modified: "2026-11-06"
 
 **中文理解**：Angelica 唱了起来——不是渡送肉身的三音短句，而是一线轻巧的上行滑音，向她与 Yvri 周遭的 quintessence 伸去；那股力量蚀开武士们的护罩金泡，像影子吞掉光。
 **关键词**：glissando / bubbles
-**为什么这样写**：把上一章 Julian 的「影吃光」公式借给歌声——音乐在这里成了数学；「三音开门」与「滑音破盾」的功能分工，让她的声乐系统有了军种区别。
+**为什么这样写**：把第十二章 Dante 的「影吃光」公式借给歌声——音乐在这里成了数学；「三音开门」与「滑音破盾」的功能分工，让她的声乐系统有了军种区别。
 **读者视角提示**：魔法系统的规则正在被主角们当战术手册互相抄——这是团队真正开始协作的标志。
 
 > **原句 6:** "Not protection, but destruction. Is it not beautiful? Is it not a relief?"
@@ -54,14 +54,14 @@ modified: "2026-11-06"
 **中文理解**：「不是保护，是毁灭。难道不美吗？难道不解脱吗？」神只用了两问，就把她的武器库改写成她的身份。
 **关键词**：destruction / relief
 **为什么这样写**：诱惑不否认她的善，只重新定义她的「用处」——把杀人改叫解脱，是最古老的招安话术；两个「Is it not」的修辞问句，答案早被写进问法里。
-**读者视角提示**：对照第四章的「十万扇门」——Deia 递来的钥匙，开的是同一条锁。她说不出口的话，神替她说了。
+**读者视角提示**：对照第十章的「十万扇门」——Deia 递来的钥匙，开的是同一条锁。她说不出口的话，神替她说了。
 
 > **原句 7:** "You think too small, Deia whispered. Yvri’s sides heaved for breath. Why settle for being a mortal sovereign when you have the means to become a god?"
 
 **中文理解**：「你把自己想小了，」Deia 低语。Yvri 的侧腹剧烈起伏。「何必屈就做凡间的君主——你明明有成为神的手段。」
 **关键词**：sovereign / god
 **为什么这样写**：收网最后一拽：从「用途」升格到「阶层跃迁」——给野心换算成王座的形状；插在中间的 Yvri 喘息是唯一的反方声音，被两句话夹在凡人与神之间。
-**读者视角提示**：「mortal sovereign」四个字同时是 Angelica 的现状与她的天花板——神开的价码精准得像读了她 第四章的琴。
+**读者视角提示**：「mortal sovereign」四个字同时是 Angelica 的现状与她的天花板——神开的价码精准得像读了她第四章的琴。
 
 > **原句 8:** "Deia’s laughter was the last thing she heard before she and Yvri crashed into the Gravespire."
 
