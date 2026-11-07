@@ -1,0 +1,136 @@
+
+=== ①相对章号：9 行 ===
+ch01 news.md:92 **读者视角提示**：失踪与谋杀这个说法是全书的引擎，记住它最初出现的位置（第一章结尾）以及它的来处是Shella的报告，不是Elora的传闻。
+ch02 wishes in the fire.md:11 - **线索结构**：Lomarda一句话点出村民对吸血鬼的高度紧张；节日仪式兑现第一章的承诺；结尾尖叫声开启下一章的危机
+ch02 wishes in the fire.md:38 **读者视角提示**：Haversham的这句话是第一章Elora说的那段历史（高祖辈被赶）的人的嘴版本，同一段历史，两种情绪，记住这裂缝。
+ch02 wishes in the fire.md:67 **为什么这样写**：作者在最热闹的时候停下来，用一个四字节的短语当章末结句，让高潮降落在刀锋上。没有解释、没有反应，只说尖叫声把天都打碎了，悬念就这么钩住了下一章。
+ch02 wishes in the fire.md:68 **读者视角提示**：尖叫声在全章结尾出现，记住它是无人预料的，下一章一开始的描述里就会有对应。
+ch04 hearts are complicated things.md:98 **读者视角提示**：这不是本章结束，是下一章要解的结扣，Vix这句话里藏着他不能说的底。
+ch05 rumors and accusations.md:74 **读者视角提示**：这一件小东西的下文在下一章归她保管着，问号收不起来。
+ch06 cloak and dagger.md:62 **读者视角提示**：为Elora这一句是全书的情感锚，下一章的坑要从这里接。
+ch09 blood in the garden.md:74 **读者视角提示**：这具尸体绑着Dallin的命，真相的下一章已经在民族根上。
+
+=== ②绝对断言：11 行 ===
+00_金句精选.md:222 **为什么重要**：喊出的一句是唯一的要求。
+ch01 news.md:23 **中文理解**：Alliera躺在唯一正晒太阳的平岩石上，水晶手链搭在脑后，手臂枕着一头黑卷发下的岩石，眼睛闭着一脸满足。她把这种偷来的闲事当作滋养心灵的时刻，肩膀晒得发烫也不挪地方。
+ch02 wishes in the fire.md:37 **为什么这样写**：作者用全章里唯一一句指控性的台词把流放的旧伤掀开一道口。Haversham的指责写得又直又臭，把他本人对吸血鬼的恐惧和屈辱都翻了出来，比任何旁白都更让人看清他为什么会如此恶毒。
+ch04 hearts are complicated things.md:12 - **人物弧线**：Alliera从心碎到慢慢松动；Vix对吸血鬼的敌意为第一次被Elora的信动摇；Elora在那边证明自己的选择没错，同时被恐惧感染；Dallin的来信把(Alliera, Dallin)这条情感线拉到明面
+ch05 rumors and accusations.md:50 **读者视角提示**：他公开说的“不会有威胁”恰恰在私人场合另拉着Vix搭话，两面的皮质第一次缝上。
+ch05 rumors and accusations.md:68 **读者视角提示**：这件东西是唯一没有名字的证物，田里戴上会有什么反应，后面写在Vix身上时就知道。
+ch06 cloak and dagger.md:49 **为什么这样写**：作者用蛇和缠的词把藤蔓压的动作写活，奖牌的光比刀锋的光更能照住人，让对峙的中心第一次不在刀上。
+ch07 half truths and choices.md:12 - **人物弧线**：Vix的投入点亮读者对他的怀疑；Kastral的两次示好前后呼应；Alliera是唯一的清醒见证
+ch07 half truths and choices.md:37 **为什么这样写**：作者把血光写的颜色和袍子贴合，让仪式里的保密和杀戮质料第一次连上了物理色。
+ch12 both blessed and cursed.md:44 **读者视角提示**：酒精陈词烂的蜜语，遮嶙峋最先塌下来的是Vix的面巾。
+ch19 what cavalry.md:20 **读者视角提示**：这恨是她唯一的武器。
+
+=== ③年龄数字：69 行 ===
+00_情感节点.md:20 **叙事概括：** 全书从Alliera与Dallin相遇的瞬间开始，李源眼眸薰衣草色的时间暂停变成了两人羁绊的第一页。几个月后，她回家发现Vix把屋子翻了个底朝天，藤蔓绑了屋里的东西。
+00_概述.md:18 **三、Vix翻屋子的一把火（ch04）。** Alliera在医院家访照顾了五夜，回家发现门敞开，原来Vix把屋子翻了个底朝天，还用藤蔓捆扎了屋里的东西。随后到达的两封信：一封是Elora在Tannenfell的来信，信中说她须有三年才能
+00_概述.md:30 **六、水下与宫里（ch08–ch09）。** 隧道直通河流，在山崖边换黑斗篷、乘风泡车水下七小时到Tannenfell附近山洞中，领路人揭开兜帽是渔夫。他让Alliera挪用治愈力给他加油，说明天去宫里把尸体留给皇家卫兵。住处桌上摆着Ta
+00_概述.md:74 从凶屋、忘了她、戒断三天草木皆兵，到河边争吵错失人生。他用媚笑堵住她的质疑，说“我忘了”说成“灵魂夜泳”。他的爱乱又易燃。他从头到尾都在赌，赌赢了爱里，却赌输了命，唯有最后那一下留住了她的名字。
+00_金句精选.md:256 **中文**：Kastral灌她血时说：灵有时候会把人绑一半，两个灵魂缠成死结。
+ch01 news.md:11 - **线索结构**：Travelers异动（Elora决定）→ 回村路上披露喂食规则 → 会议上武装护卫与Tannenfell失踪谋杀两条新线索同时落下
+ch01 news.md:29 **中文理解**：Vixamar趴在Alliera身边像只蜥蜴，哼着小调往十英尺下面的池塘里丢小石子，把鱼群都惊散了。两个人各占一块平坦的岩石，各忙各的，看着像漠不关心，其实是多年相处养出的松弛。
+ch01 news.md:43 **为什么这样写**：作者先把Alliera的反复心理摆出来，再用一句干脆的规矩收束，情绪与现实各给一句。没有长篇大论地哭诉，就把两位少女之间不能同行的命运钉死，读者一眼就懂她失落的来源。
+ch01 news.md:49 **为什么这样写**：作者借Elora的嘴把Travelers的诱惑一连说出三条，语气是清单式的，像是打定主意的人在向反对者陈列理由。排比的好处堆起来，立刻让Vix的反对显得力不从心。
+ch01 news.md:59 **中文理解**：Elora仰起头与Alliera对视，说这件事自己非得亲自去看看。Alliera只是苦笑。两个人其实都明白这一句无法反驳，苦笑里各藏着一份说不出的舍不得。
+ch01 news.md:65 **中文理解**：铃声响遍林子，三个人都吃了一惊。Mindanforth的树上都挂了银色松果大小的铃铛，只有被风系女巫用魔法拨动时才会响，召唤所有人去精灵圈集合。
+ch01 news.md:77 **中文理解**：Shella宣布这一轮满月节要加一场特别的保护仪式，Travelers今晚出发时会有仪式护送。宣布紧接着带来今后的安排，这是以往的满月节从没有过的待遇，说明两位领袖都意识到了危险。
+ch01 news.md:130 Elora决定离开Mindanforth去当Travelers，女巫的身份让Alliera只能留在原地看着她走远；当晚的精灵圈会议又带来两条线：Travelers从今往后配武装护卫，Tannenfell那边的人口失踪和谋杀重现流放前的旧事。
+ch02 wishes in the fire.md:17 **中文理解**：治疗中心建在一棵巨树里，离精灵圈约十分钟的路程。像Vix这样的大地系女巫把它扩大，把树皮染成灰白色，让它在森林里一眼就能认出来。这是一处被改造成救死扶伤场所的活树。
+ch02 wishes in the fire.md:59 **中文理解**：Shella说今晚我们把最好的祝福送给Travelers，送他们背着爱与光去冒险，做重要的工作：愿他们的脚走得肯定、心走得有同理心、脑子走得有分辨力。说完三个火系女巫上前拉住每个人的手，一起把稻草树点着。
+ch03 change of plans.md:9 - **一句话概括**：吸血鬼提前一天抵达，启程只剩一小时；Mibortir给Elora指派了护卫Dallin，Alliera和Vix在赶往码头的路上对这个陌生男人改观，最终目送Elora登上Swift Night
+ch03 change of plans.md:11 - **线索结构**：启程提前一小时（变数）→ Elora与Dallin配对 → Dallin试探与承诺 → Vix展示魔法 → Dallin承诺带Elora平安归来 → 登船分离 → 目送远行
+ch03 change of plans.md:23 **中文理解**：Mibortir说启航只剩一小时，在座的惊呼声让他停顿了一下，好让那些喊声散掉。原本说好天亮才启程，提前了几乎一天的时间，变故直接打在所有人的心上。
+ch03 change of plans.md:26 **读者视角提示**：提前一小时是本章的全部转机，记住这个时间点，后面在船上遇到什么事都可能因为走得匆忙而加深。
+ch03 change of plans.md:29 **中文理解**：Alliera只觉得一道雷砸中了心口，伸手就想把Elora拉过来。Vix退后一步，把两个人都揽进怀里，像抱在怀里就能把时间抱住一样。说好的等到天亮，怎么只剩一小时了。
+ch03 change of plans.md:31 **为什么这样写**：作者把变故的重量先落在身体上：心口被砸、伸手拉人、紧紧抱住，用三个动作一层层把三个人的慌乱写足了。最后一句叮问收束，像心里的一声质问，比任何议论都管用。
+ch03 change of plans.md:37 **为什么这样写**：作者用点名和鞠躬把配对仪式写完，没有多余的介绍。鞠躬和按胸口这两个动作，比任何说辞都更能表现这个吸血鬼的礼数，后面他的承诺就是从这里开始的。
+ch03 change of plans.md:67 **为什么这样写**：作者用世界的三分之一来形容这三个人，把Elora走这样的大缺少量化到了情感的比例上。句末地平线和夜色收束得不露痕，既是空间，也是三年人关系的终点。
+ch03 change of plans.md:102 吸血鬼提前一天抵达，启程只剩一小时；Mibortir指派Dallin做Elora的护卫，Alliera对他从戒心到心动；Vix展示魔法的荒唐意外里，Dallin扶住Alliera并立下看护承诺；Elora登船那一刻，三人世界的三分之一没入漆
+ch04 hearts are complicated things.md:17 **中文理解**：Alliera两天都不起床，谁说话都不能安慰，用烂掉的状态把自己泡在床上。第三天她自己振作起来了，理由是Elora要是在场，看到她这副样子一定会骂死她：你以为自己死了吗。
+ch04 hearts are complicated things.md:43 **为什么这样写**：作者先让Elora用梦中的地方形容Tannenfell，把远方写成是她们一起向往过的梦。后面她说市场的描述点到为止，重点全压在“dark and haunting”这四个词上，留出后几封信的细节空间。
+ch04 hearts are complicated things.md:71 **中文理解**：作者先点出女巫的常识：魔法和梦互相牵着，梦不只翻旧账，还能预警。Alliera从那之后夜夜梦到血，轮着梦到她自己、Dallin、Elora和Vix四个人，一个接一个，醒来都记不清细节，整周人都泡在疲惫的焦虑里。
+ch04 hearts are complicated things.md:73 **为什么这样写**：作者把魔法规则直接说在事前，让后面的梦就不只是受惊，而是带着预警的征兆。四个名字一排压尾，把焦虑从一个人拉到了四个人身上。
+ch04 hearts are complicated things.md:79 **为什么这样写**：作者不写验尸报告式的长段，只给吊的位置、缺的器官和提干的血三个画面，恐怖感落在画面上，想的读者自己就会发凉。
+ch04 hearts are complicated things.md:91 **为什么这样写**：作者用三个不知道把她的感情全挤到无据的地盘上，嘲讽的问句顶着她的真心话，争吵一下从温情滑进针锋相对。
+ch04 hearts are complicated things.md:97 **为什么这样写**：作者用连珠的短句把三件坏消息垒起来，再用他脸色一白把读者往下一级拽，悬念全压在最后一句的问号空缺里。
+ch05 rumors and accusations.md:41 **中文理解**：令里把Travelers也算上，既然人在我地盘，就得留在宫里等下文。国王的兵也先查了，三个人的嫌疑已经洗清。
+ch05 rumors and accusations.md:49 **为什么这样写**：作者用应付世事的客套把令并拢的手段说圆，台上和台下两个反应并排，读者先被语言的油腻刺一下。
+ch05 rumors and accusations.md:62 **读者视角提示**：他骂得越碎，前后两次说的“answers”就越显反常，这反差是读者的手电筒。
+ch05 rumors and accusations.md:65 **中文理解**：Veyl说让Alliera把一件东西下次带给她那个农夫兄弟，让他田里戴着。要是知道去哪看，他说有答案。嘱咐她闭嘴，这件事要托付他们两个。
+ch06 cloak and dagger.md:9 - **一句话概括**：Alliera夜归路上被Vix拖进灌木，跟踪三个斗篷人到山洞，看见移岩与藤蔓封口；雾气中她把Veyl的奖牌戴上Vix脖子，结果两人被藤蔓绑住、匕首抵喉，神秘人认出奖牌来自Veyl才放行，拱门外留下一句“证明自己才给答
+ch06 cloak and dagger.md:19 **为什么这样写**：作者改写了“被害”这个动作，完全按听觉触发再把惊吓落实，先脆后硬，两个动作靠一根枯枝黏住。
+ch06 cloak and dagger.md:23 **中文理解**：三个斗篷人从他们藏身旁走过，斗篷把脸和身段全遮了，身上又不带火光，Alliera根本猜不出是谁。她先以为是神秘人，再想或许是猎人偷跑出来的，不多谈身份，只画遮掩的形体。
+ch06 cloak and dagger.md:31 **为什么这样写**：作者让山自己动，用两只手推开只有一人的缝，岩口渗水般的细音把魔法和物理粘在一起。
+ch07 half truths and choices.md:17 **中文理解**：紫袍的人分列在通往大洞神殿的台阶两侧，岩壁凹槽里上百根黑蜡烛烧着蓝火，蜡油顺墙往下淌，光只够偶尔把阴影拨开一瞬，看不清全场。
+ch08 new worlds.md:9 - **一句话概括**：隧道直通河流，在山崖边换黑斗篷、乘风泡车水下七小时到Tannenfell附近山洞中；领路人揭开兜帽是渔夫Solimin Cresta，Alliera用治愈能量给他加力，Sol说明天去宫里把尸体留给皇家卫兵；住处桌上摆
+ch08 new worlds.md:59 **中文理解**：领路人低声报时：到城约八小时，能歇就歇，往后没机会了。一只手扶着自己胸口，另一只手托着他们这团空气泡的侧面。
+ch08 new worlds.md:61 **为什么这样写**：作者用时间报点把“赶路”写清楚，八小时是这一段的长度，休息的指令一发布，疲劳也跟着压下来。
+ch08 new worlds.md:62 **读者视角提示**：八小时是后面他们会在宫殿下迎接黎明的引子。
+ch08 new worlds.md:73 **为什么这样写**：作者让宫殿在两个地理方向之间成了一个信标，语气是工具式的，但目标是绑架。
+ch08 new worlds.md:111 水泡车八小时到Tannenfell外，Sol揭帽是渔夫，他让Alliera挪用治愈力给他加油，说明天去宫里给卫兵留尸体，今晚的地下屋子里地图已经摊在桌上了。
+ch10 just act natural.md:92 **读者视角提示**：接吻的人是Dallin，抱她的是Dallin，护她的是Dallin，这三件合一。
+ch11 smoke and mirrors.md:9 - **一句话概括**：Alliera三天后在家里醒来，Elora和Dallin在床边守着她；国王派他们回来装常态，实为让组织放松以便他们自己暴露；Vix消失三天后闯门，承认血的仪式让他忘记了她、夜夜寻欢；Dallin在壁炉边跪地痛哭，Al
+ch11 smoke and mirrors.md:11 - **线索结构**：国王派两人回来 → 像往常的归家日常 → Vix失踪三天 → 血的仪式与失忘 → Dallin的质问 → 分开谈话 → 跪地痛哭 → 相互取暖
+ch11 smoke and mirrors.md:47 **中文理解**：Elora说Vix从她倒下那天就不见了，有三天。
+ch11 smoke and mirrors.md:50 **读者视角提示**：三天不是短的，Alliera的心会先碎一半。
+ch11 smoke and mirrors.md:74 **读者视角提示**：药效越亮，陷得越深，这两天失守的因在这。
+ch11 smoke and mirrors.md:123 国王派Elora和Dallin回来装常态，Vix承认三天失守忘了她，血的药效让人上瘾，Dallin在壁炉边跪地痛哭，Alliera抱住他把“母亲”两个字说给他听。
+ch12 both blessed and cursed.md:9 - **一句话概括**：Samhain节之夜，Dallin在Alliera家床上醒来，全员忙着洗漱装扮；Dallin想咬Alliera，Alliera制住他，Elora拿出三只血罐交给他；集会上Vix醉话刺偏，Vix随Kastral去开会；
+ch12 both blessed and cursed.md:53 **中文理解**：她说把一年的烦和痛都写在布上，写着写着就让它们沉进颜料里。
+ch13 desperation cometh before the fall.md:29 **中文理解**：Vix已经两周没喝血了，戒断两天就上来，脸色发黄、心神烦躁，一点事就发作。
+ch13 desperation cometh before the fall.md:31 **为什么这样写**：作者用两周和两天俩数字把戒断写深，黄色和雾把人交代在脸上。
+ch13 desperation cometh before the fall.md:85 **为什么这样写**：作者用刀切掌作章的符号，霸道地把两个人的将来钉住。
+ch13 desperation cometh before the fall.md:92 **读者视角提示**：他不喝二口。
+ch14 bones and blood.md:23 **中文理解**：第一步：出陵墓门，确认没人，往东北走两个街区，到Haunt’s Meadow正门。
+ch14 bones and blood.md:61 **为什么这样写**：作者用“体重”写拼力，读者看到两个人的扭结已经到了极限。
+ch16 bars and darkness.md:23 **中文理解**：Keiling哄笑，把Vix的两条腿扛得更稳，尸体在肩上晃动。
+ch17 love transcendent.md:23 **中文理解**：她揉着太阳穴往火炬的暗处看，看见Dallin的妹妹站在两个火之间的淡影里。
+ch19 what cavalry.md:29 **中文理解**：Kastral灌她血时说：灵有时候会把人绑一半，两个灵魂缠成死结。
+ch19 what cavalry.md:35 **中文理解**：吸血鬼和女巫的羁绊，历史上只有三次。
+ch19 what cavalry.md:37 **为什么这样写**：作者用“三次”把两人的关系贴到宿命上。
+ch19 what cavalry.md:38 **读者视角提示**：第三次是他俩。
+ch20 fing finally.md:23 **中文理解**：六个卫兵对组织的人，以一敌二，刚打平。
+ch20 fing finally.md:32 **读者视角提示**：贴近是两人指挥系统，这个动作几分钟就写完了。
+
+=== ⑥场景方位：2 行 ===
+ch02 wishes in the fire.md:29 **中文理解**：Alliera在储藏室认真挑当天的药材时，总觉得自己像个小孩站在面包房的糖果柜台前，挑着各种颜色的硬糖要带回家分给朋友配给治病。工作在她这里带着一点孩子气的甜头。
+ch08 new worlds.md:13 - **叙事手法**：第三人称限知跟随Alliera；水下感官写美，中段插风呼呼、车里风
+
+=== ⑤方向施受：6 行 ===
+ch03 change of plans.md:43 **为什么这样写**：作者用连环的短句推进心动的速度：被吸住眼睛、时间静止、心跳停了，一句比一句急。没有描写Dallin的外貌，而是直接写Alliera自己的身体反应，把心动写成了近乎失控的失衡。
+ch03 change of plans.md:55 **为什么这样写**：作者把魔法治愈的代价写成身体的反馈：蓝光、刺痛、旋转，全部落在Alliera自己身上。Dallin这时从后面稳住她，动作和时机正好，让一个陌生人对她的守护先于言语成立。
+ch05 rumors and accusations.md:61 **为什么这样写**：作者先把他写成咬字最碎、最显年代感的老人，骂人用词越土越让秘密显得信得过。
+ch09 blood in the garden.md:44 **读者视角提示**：逻辑链的代价写在下一段，全是人性亏欠。
+ch12 both blessed and cursed.md:55 **为什么这样写**：作者把“写”写成“转运”，把烦恼落实为动作。
+ch22 goodbye.md:49 **为什么这样写**：作者用“也许有一天”写希望，不把救命之恩写成肯定。
+
+=== ④亲属身份：25 行 ===
+00_概述.md:46 **十、战后新面（ch21–ch22）。** Alliera建议建立两国医者轮换制，推Elora名字成立巡回医疗队，Shella欣然付Alliera全权，Vix父亲Oric伤愈却心碎辞世，父子合葬火葬。她向父亲回白，国王在会上让一行人留宿T
+00_金句精选.md:184 **呼应关系**：与 ch22 母亲画像的关门一脉相承。
+ch02 wishes in the fire.md:41 **中文理解**：Elora说她一直觉得吸血鬼是性感忧郁的恶魔，自己做过梦，梦里在图书馆里赤裸躺着，被吸血鬼们宠爱个够，还要在那位吸血鬼丈夫眼皮底下撒娇。她把羞辱他的话用露骨的想象反将一军。
+ch04 hearts are complicated things.md:9 - **一句话概括**：Elora离开后第三周，Alliera和Vix在翻了个乱七八糟的家时收到两封信：Elora在Tannenfell的来信和Dallin的暗信；Elora说那边很好，但同样透出吸血鬼群体笼罩在恐惧里、失踪者Taznel不
+ch04 hearts are complicated things.md:11 - **线索结构**：Elora的信（市场、善良的吸血鬼、恐惧之云、Taznel失踪）→ Alliera的回信（好奇喂食流程、怀疑我们是否真无辜）→ 第二封Elora信（他国不可能是八角形；人类若参与必靠内鬼；Taznel尸体被发现）→ 边
+ch04 hearts are complicated things.md:83 **中文理解**：Dallin说起母亲和妹妹，先冒出来的是蕾丝、珍珠和大量零食。他说她们温暖亲人，把他养成了现在这样。他又顺带交代了一句，父亲没能熬过那场变革，那段事改在当面讲。
+ch04 hearts are complicated things.md:85 **为什么这样写**：作者用吃食把家庭写暖，用一件没讲完的事把父亲那段吊着，暖和和遗憾摆在同一封信里，人物一下就有了来处。
+ch04 hearts are complicated things.md:86 **读者视角提示**：这句父亲的事是给后面埋的暗线，母亲和妹妹的味道已经写圆了，父亲那一块别听过去。
+ch04 hearts are complicated things.md:95 **中文理解**：Alliera在邮局翻到Elora的信，信里说边界封了，她们回不来了，Dallin的母亲也失踪了。Vix一听脸色刷白，压低声音丢下一句，他好像知道凶手是谁，这句话把她彻底击穿。
+ch04 hearts are complicated things.md:135 Elora在Tannenfell的信里既写了美好的日子也写了失踪的Taznel和恐惧，Alliera与Vix的日常被封边和Dallin母亲的失踪打断，Vix一句“我好像知道凶手是谁”把整条悬疑线拽到了他手里。
+ch09 blood in the garden.md:9 - **一句话概括**：Alliera在梦中与Dallin亲近时被Vix吵醒，出发到宫花园布尸体，Alliera望风时找到Elora窗户，隔着柳树看见Elora与Tryphena弹琴、Dallin站着听歌；Dallin把她按在树上刀剑相抵，
+ch09 blood in the garden.md:10 - **情感弧线位置**：前半梦中亲昵跌入现实的残冷，布尸体的恐慌压在心头，见面热吻后又被一声呼唤切断，结尾一句“母亲”把心撕开
+ch09 blood in the garden.md:11 - **线索结构**：梦醒 → 藤梯出宫院 → 花园布置尸体 → 找到窗户 → 柳树重逢与刀剑 → 告白跟组织的真相 → 分别与撤离 → 母亲的尸体揭晓
+ch09 blood in the garden.md:71 **中文理解**：Dallin的嚎叫让Alliera的心意识到花里那具是谁：失踪的是Dallin母亲，如今死在花丛里的也是她。
+ch09 blood in the garden.md:73 **为什么这样写**：作者让嚎声和认脸同时炸开，揭示的压力压在“母亲”两个字上，这落点刀刀见血。
+ch09 blood in the garden.md:111 花园布尸体时Alliera隔着柳树找到Elora的窗子，Dallin把她按在树上刀剑交颈，听她说出了跟组织混进去的缘由，他们亲热片刻后分离，撤退时Dallin的嚎叫让Alliera明白：花里的是他母亲。
+ch10 just act natural.md:9 - **一句话概括**：Alliera写信向Elora交代真相：杀吸血鬼的是女巫的组织，运回Mindanforth活埋的是Dallin母亲；Dallin把信交给国王、国王让他们编码写信；Alliera在Samhain节前的日子里浑噩度日、听
+ch11 smoke and mirrors.md:85 **为什么这样写**：作者让“母亲”二字在哭的人耳边说出来，先立孝道再说别的话。
+ch12 both blessed and cursed.md:11 - **线索结构**：Samhain晨醒 → 女巫血的危险 → 血罐兜底 → 集会与醉话 → Kastral单独招Vix → Samhain解说 → 写与烧 → 跳水换白巾 → 母亲画像
+ch12 both blessed and cursed.md:83 **中文理解**：他把防水袋里的旧画像递给她，不敢看她的眼睛，她一认就知道是Dallin的母亲，心跳到喉间。
+ch12 both blessed and cursed.md:123 节日气氛轻扬但醉态频频，黑围巾字烧交白巾还，Dallin把母亲的像递给Alliera，季节把灰烬拾走，暗信的压力又贴上啦。
+ch17 love transcendent.md:29 **中文理解**：Tryphena说她把Kee撬开来说，自己说服力十足，看未来的妹妹不会被当罪犯关着。
+ch17 love transcendent.md:31 **为什么这样写**：作者让她把“未来妹妹”先说出来，信里早就报过了。
+ch17 love transcendent.md:32 **读者视角提示**：“未来妹妹”四字是Dallin的口供。
+ch21 aftermath.md:9 - **一句话概括**：战后会审判，Kastral被判死刑并全员围观执行，一众家属发现子弟入邪，心碎；Alliera任医者联络官定居Tannenfell，Vix父亲Oric伤愈却心碎辞世，父子葬火下，她跟Dallin决意离开森林
+
+合计 122 行候选 / 23 个文件
