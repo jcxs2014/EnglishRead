@@ -33,30 +33,30 @@ modified: "2026-11-06"
 **读者视角提示**：读者会为她的成熟和自知心疼。她想被爱着，而不是被用来逃避。
 
 > **原句 4:** "“I don’t want to grieve with you, Ara!” He’s practically growling. Like he’s a different person entirely. His words fill every corner of this tiny room.
-
-
-Silence.
-
-
-Until I say, “You already are.”
-
-
-“I’m not,” he insists.
-
-
-I hug him around his middle. “It’s okay,” I say, from his chest. He smells like the cold wind outside and starch and leather and metal and home.
-
-
-He doesn’t react for a second.
-
-
-Then he squeezes me tightly, tucking my head under his chin.
-
-
-“Cosmos. I’m fucked. I’m⁠—”
-
-
-“It’s okay,” I repeat."
+>
+>
+> Silence.
+>
+>
+> Until I say, “You already are.”
+>
+>
+> “I’m not,” he insists.
+>
+>
+> I hug him around his middle. “It’s okay,” I say, from his chest. He smells like the cold wind outside and starch and leather and metal and home.
+>
+>
+> He doesn’t react for a second.
+>
+>
+> Then he squeezes me tightly, tucking my head under his chin.
+>
+>
+> “Cosmos. I’m fucked. I’m⁠—”
+>
+>
+> “It’s okay,” I repeat."
 **中文理解**：“我不想和你一起哀悼，阿拉！”他几乎在咆哮，像换了个人。他的话充满这间小舱房。沉默。直到我说：“你已经在哀悼了。”“我没有，”他坚持。我抱住他的腰说：“没关系。”他身上有冷风、浆洗布、皮革、金属和家的味道。他愣了一秒，才紧紧抱住我，把我的头埋在下颌下。“天哪。我完蛋了，我——”“没关系。”我说。
 **关键词**：grieve / already / squeezes
 **为什么这样写**：科斯默终于崩溃，承认他在哀悼。拥抱比争吵更能让他敞开心扉。

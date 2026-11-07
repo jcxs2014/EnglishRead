@@ -27,30 +27,30 @@ modified: "2026-11-06"
 **读者视角提示**：读者会看到阿拉内心的挣扎。她和德雷克之间不是简单的爱恨，而是被羁绊和命运纠缠的复杂关系。
 
 > **原句 3:** "“Drake?” I ask, my voice shaking.
-
-
-The scene freezes.
-
-
-One at a time, the doctors and inmates disappear like they’re being plucked out from the image. The cells themselves are warping, spiralling, like a wheel is turning and the world has been caught in its prongs.
-
-
-“Drake,” I say again. “It’s okay⁠—”
-
-
-I’m interrupted by the sound of clinking against metal – tapping – and a girl crying. She sounds so young. Drake, she says. Is that you? Are you still there?
-
-
-And I’m being pushed back.
-
-
-I’ve seen something he didn’t want me to see.
-
-
-The compound.
-
-
-He wasn’t the only captive, because these people – other Rhavnans – were being bled, too."
+>
+>
+> The scene freezes.
+>
+>
+> One at a time, the doctors and inmates disappear like they’re being plucked out from the image. The cells themselves are warping, spiralling, like a wheel is turning and the world has been caught in its prongs.
+>
+>
+> “Drake,” I say again. “It’s okay⁠—”
+>
+>
+> I’m interrupted by the sound of clinking against metal – tapping – and a girl crying. She sounds so young. Drake, she says. Is that you? Are you still there?
+>
+>
+> And I’m being pushed back.
+>
+>
+> I’ve seen something he didn’t want me to see.
+>
+>
+> The compound.
+>
+>
+> He wasn’t the only captive, because these people – other Rhavnans – were being bled, too."
 **中文理解**：“德雷克？”我声音发颤地问。画面冻结，医生和囚犯一个个消失，牢房扭曲旋转，像被卷入转动的轮子。“德雷克，”我又说，“没事的——”我被金属敲击声和一个女孩的哭声打断。她听起来很年轻，说：“德雷克，是你吗？你还在吗？”然后我被推了出去。我看到了他不想让我看到的东西。收容所。他不是唯一的囚犯，其他拉夫纳人也在被抽血。
 **关键词**：freezes / disappear / pushed
 **为什么这样写**：阿拉窥见德雷克最深的创伤。他童年的痛苦和同情让德雷克的形象更加立体，也解释了他为何如此冷酷。
@@ -62,30 +62,30 @@ He wasn’t the only captive, because these people – other Rhavnans – were b
 **读者视角提示**：读者会心疼两人。科斯默在崩溃边缘，阿拉被最爱的人指责，却无力辩解。
 
 > **原句 5:** "“From where I’m standing, Ara, it sort of looks like it is. I’m completely ruined while you get to go home – your real home – and be the queen of the man whose name you say in your sleep.”
-
-
-My foot jerks off the rung like a reflex. The movement almost makes me slip.
-
-
-I’m close to sobs, even with the traces of osimidite calming me, blocking me from feeling the sting of his words fully. “I don’t say⁠—”
-
-
-“You did, Ara,” he says, in a lifeless way that will haunt me forever. “You did.”
-
-
-So that’s what it all boils down to, under the flame.
-
-
-He’s angry about everything else. He blames me for so much.
-
-
-But it’s something I had no control over at all that’s unforgivable to him.
-
-
-I’ve made many mistakes in my life.
-
-
-I never thought falling asleep in the arms of someone I loved would be one of them."
+>
+>
+> My foot jerks off the rung like a reflex. The movement almost makes me slip.
+>
+>
+> I’m close to sobs, even with the traces of osimidite calming me, blocking me from feeling the sting of his words fully. “I don’t say⁠—”
+>
+>
+> “You did, Ara,” he says, in a lifeless way that will haunt me forever. “You did.”
+>
+>
+> So that’s what it all boils down to, under the flame.
+>
+>
+> He’s angry about everything else. He blames me for so much.
+>
+>
+> But it’s something I had no control over at all that’s unforgivable to him.
+>
+>
+> I’ve made many mistakes in my life.
+>
+>
+> I never thought falling asleep in the arms of someone I loved would be one of them."
 **中文理解**：“在我看来，阿拉，事情就是这样。我彻底毁了，而你可以回家——你真正的家——去做那个你在睡梦中喊着名字的男人的王后。”我的脚猛地离开梯级，差点滑倒。即使 Osimidite 的余效让我麻木，我也快哭出来了。“我没有说——”“你说了，阿拉，”他用一种毫无生气的语气说，那声音会永远萦绕在我心头，“你说了。”原来在所有愤怒之下，最让他无法原谅的，是我在爱的人怀里睡着时喊了别人的名字。我犯过很多错，但从没想过在爱人怀里睡着会是其中之一。
 **关键词**：sleep / did / unforgivable
 **为什么这样写**：科斯默的嫉妒和痛苦集中在这一点上。阿拉无意识的梦话成了压垮他的最后一根稻草。

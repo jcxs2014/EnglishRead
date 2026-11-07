@@ -21,33 +21,33 @@ modified: "2026-11-06"
 **读者视角提示**：读者会和阿拉一样紧张。这个房间象征着成瘾和毁灭，科斯默独自进入这里，后果不堪设想。
 
 > **原句 2:** "I suddenly get a thought I hadn’t even contemplated until now. An awful, impossibly possible thought, as unbearable to bear as the temperature here.
-
-
-What if he’s dead?
-
-
-“Cosmer?” I yell, high-pitched.
-
-
-No reply.
-
-
-My heart rate accelerates. I’m breathing twice the speed I was, which is not a good thing. I look around for a mask to protect myself from the gas but find none.
-
-
-I yell his name again – and again hear nothing in response.
-
-
-Sisters, I pray. Please don’t let me find him dead.
-
-
-I’m not sure what I would do with myself if I did.
-
-
-But then I do know.
-
-
-The airlock. I’d go straight to the airlock."
+>
+>
+> What if he’s dead?
+>
+>
+> “Cosmer?” I yell, high-pitched.
+>
+>
+> No reply.
+>
+>
+> My heart rate accelerates. I’m breathing twice the speed I was, which is not a good thing. I look around for a mask to protect myself from the gas but find none.
+>
+>
+> I yell his name again – and again hear nothing in response.
+>
+>
+> Sisters, I pray. Please don’t let me find him dead.
+>
+>
+> I’m not sure what I would do with myself if I did.
+>
+>
+> But then I do know.
+>
+>
+> The airlock. I’d go straight to the airlock."
 **中文理解**：我突然冒出一个此前从未想过的念头，一个可怕却可能成真的念头，和这里的高温一样难以承受。如果他死了怎么办？“科斯默？”我尖声喊道。没有回应。我的心跳加速，呼吸变得急促。我祈祷姐妹们别让我发现他死了。如果真是那样，我不知道自己会怎么办。但我知道。气闸。我会直接去气闸。
 **关键词**：dead / reply / airlock
 **为什么这样写**：阿拉想到如果科斯默死了，她也会随他而去。这呼应了她之前在气闸外差点牺牲的场景，也显示了她对科斯默的爱有多深。
