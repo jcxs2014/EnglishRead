@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch05_rumors_and_accusations.txt",
+ "facts": [
+  {
+   "fact": "Vix指认凶手在绑架杀害吸血鬼",
+   "anchor": "I think I know who did it—is doing it. Abducting and killing the vampires.",
+   "start": 282,
+   "end": 356
+  },
+  {
+   "fact": "Vix在田里偷听到有人庆祝",
+   "anchor": "I overheard them talking out in the fields.",
+   "start": 558,
+   "end": 601
+  },
+  {
+   "fact": "凶手是长老Kastral",
+   "anchor": "Kastral.",
+   "start": 1075,
+   "end": 1083
+  },
+  {
+   "fact": "Kastral和Nij共谋",
+   "anchor": "Yeah. He and Nij.",
+   "start": 1521,
+   "end": 1538
+  },
+  {
+   "fact": "边界已关闭",
+   "anchor": "They closed the borders.",
+   "start": 3075,
+   "end": 3099
+  },
+  {
+   "fact": "国王下令封边但信件继续",
+   "anchor": "our borders will be closed without exception. All correspondence and shipments will continue for the sake of both our peoples, but all will be heavily monitored.",
+   "start": 4192,
+   "end": 4353
+  },
+  {
+   "fact": "村民抗议孩子被扣押",
+   "anchor": "They can’t keep our children from us! That’s a hostage situation!",
+   "start": 6224,
+   "end": 6289
+  },
+  {
+   "fact": "Veyl给Alliera一件金属物转交Vix",
+   "anchor": "You just give this to your farmer next time you see him. Tell him to wear it in the fields.",
+   "start": 15175,
+   "end": 15266
+  }
+ ]
+}

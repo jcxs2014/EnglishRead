@@ -4,52 +4,34 @@
  "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch03_change_of_plans.txt",
  "facts": [
   {
-   "fact": "陌生人走进空地，现场一度混乱",
-   "anchor": "Strangers were striding into the clearing.",
-   "start": 34,
-   "end": 76
+   "fact": "启程提前一小时",
+   "anchor": "We are to set sail in an hour’s time.",
+   "start": 1859,
+   "end": 1896
   },
   {
-   "fact": "Mibortir说一小时后启航",
-   "anchor": "“We are to set sail in an hour’s time.”",
-   "start": 1858,
-   "end": 1897
+   "fact": "Dallin配Elora护卫",
+   "anchor": "Elora Ulinoor, I assume? Meet your Guard, Dallin Rasmus.",
+   "start": 3439,
+   "end": 3495
   },
   {
-   "fact": "Elora的护卫是Dallin Rasmus",
-   "anchor": "“Elora Ulinoor, I assume? Meet your Guard, Dallin Rasmus.”",
-   "start": 3438,
-   "end": 3496
+   "fact": "Alliera坠入薰衣草色眼睛",
+   "anchor": "Her world fell away, and she was trapped in the vampire’s lavender-tinged eyes.",
+   "start": 4453,
+   "end": 4532
   },
   {
-   "fact": "Shella无奈接受提前启航",
-   "anchor": "Shella nodded forlornly.",
-   "start": 2359,
-   "end": 2383
+   "fact": "Mibortir点名",
+   "anchor": "Commander Jortare Mibortir, I presume?",
+   "start": 1751,
+   "end": 1789
   },
   {
-   "fact": "Dallin和Alliera对视走神",
-   "anchor": "The Guard pivoted to face her head-on.",
-   "start": 4412,
-   "end": 4450
-  },
-  {
-   "fact": "Vix划破手掌向Dallin展示女巫魔法",
-   "anchor": "Vix grabbed a knife from the block on the counter.",
-   "start": 14455,
-   "end": 14505
-  },
-  {
-   "fact": "Dallin催促出发",
-   "anchor": "“Time to move, Traveler.”",
-   "start": 16891,
-   "end": 16916
-  },
-  {
-   "fact": "船上最后机会，Elora登船离别",
-   "anchor": "The captain was calling for last boarding and giving directions for cast-off",
-   "start": 23213,
-   "end": 23289
+   "fact": "Mytolen被点名",
+   "anchor": "Mytolen Vira?",
+   "start": 3217,
+   "end": 3230
   }
  ]
 }

@@ -4,52 +4,34 @@
  "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch01_news.txt",
  "facts": [
   {
-   "fact": "Alliera在瀑布岩石晒太阳休息",
-   "anchor": "Alliera stretched across the only flat rock directly in the sun’s rays",
-   "start": 276,
-   "end": 346
-  },
-  {
-   "fact": "Vixamar和Alliera在岩石上打闹",
-   "anchor": "“You looked hot.”",
-   "start": 1024,
-   "end": 1041
-  },
-  {
    "fact": "Elora宣布加入Travelers",
-   "anchor": "“I’ve decided to join the Travelers.”",
-   "start": 2369,
-   "end": 2406
+   "anchor": "I’ve decided to join the Travelers.",
+   "start": 2370,
+   "end": 2405
   },
   {
-   "fact": "女巫不能当Traveler，Alliera无法同行",
-   "anchor": "Only humans were allowed to be Travelers. As a witch, that took her out of the running.",
+   "fact": "女巫不能当Travelers",
+   "anchor": "Only humans were allowed to be Travelers.",
    "start": 2657,
-   "end": 2744
+   "end": 2698
   },
   {
-   "fact": "Elora想亲自去验证吸血鬼传闻",
-   "anchor": "“I have to see for myself.”",
-   "start": 4593,
-   "end": 4620
+   "fact": "祖辈共生被放逐",
+   "anchor": "We lived in harmony, once.",
+   "start": 4379,
+   "end": 4405
   },
   {
-   "fact": "银色松果铃响起召集令",
-   "anchor": "The trees all throughout Mindanforth had been fitted with silver pinecone-sized bells",
-   "start": 5215,
-   "end": 5300
+   "fact": "Elora要亲眼验证",
+   "anchor": "I have to see for myself.",
+   "start": 4594,
+   "end": 4619
   },
   {
-   "fact": "Travelers在图书馆被吸血鬼喂食到无法继续阅读",
-   "anchor": "The feedings happen in large libraries.",
-   "start": 7737,
-   "end": 7776
-  },
-  {
-   "fact": "会议宣布Travelers今后有武装护卫同行",
-   "anchor": "Travelers will now have armed escorts with them at all times.",
-   "start": 11634,
-   "end": 11695
+   "fact": "Alliera猛回头",
+   "anchor": "Alliera twisted to face her so quickly she was shocked her spine didn’t snap.",
+   "start": 2409,
+   "end": 2486
   }
  ]
 }

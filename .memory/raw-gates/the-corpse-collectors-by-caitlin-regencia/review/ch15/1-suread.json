@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch15",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch15_damned.txt",
+ "facts": [
+  {
+   "fact": "身体随滴水疼痛",
+   "anchor": "Her body throbbed in time with the drips.",
+   "start": 117,
+   "end": 158
+  },
+  {
+   "fact": "脑中苍蝇嗡鸣",
+   "anchor": "Flies buzzed in abstract patterns through the cobwebs in her mind",
+   "start": 765,
+   "end": 830
+  },
+  {
+   "fact": "Vix浮在石血浴",
+   "anchor": "Her friend, his skin a sickly dusty color and dark curls floating around him in a halo, bobbed in the stone bath full of even more thick crimson.",
+   "start": 619,
+   "end": 764
+  },
+  {
+   "fact": "云看成兔子",
+   "anchor": "Whimsy! I see Whimsy!",
+   "start": 3762,
+   "end": 3783
+  },
+  {
+   "fact": "爱与记忆不死",
+   "anchor": "She’ll never be gone because love and memories never die.",
+   "start": 4165,
+   "end": 4222
+  },
+  {
+   "fact": "目标回家",
+   "anchor": "She needed to get herself and Vix home.",
+   "start": 6028,
+   "end": 6067
+  },
+  {
+   "fact": "卫兵喝令",
+   "anchor": "Hey, there. You look like you’ve got one serious story to tell, witch.",
+   "start": 9993,
+   "end": 10063
+  },
+  {
+   "fact": "一个巫囚一个尸伴",
+   "anchor": "One witch prisoner and her corpse companion.",
+   "start": 11843,
+   "end": 11887
+  }
+ ]
+}

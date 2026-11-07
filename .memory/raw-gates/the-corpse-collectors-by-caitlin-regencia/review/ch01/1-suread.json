@@ -1,0 +1,37 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch01_news.txt",
+ "facts": [
+  {
+   "fact": "Elora宣布加入Travelers",
+   "anchor": "I’ve decided to join the Travelers.",
+   "start": 2370,
+   "end": 2405
+  },
+  {
+   "fact": "女巫不能当Travelers",
+   "anchor": "Only humans were allowed to be Travelers.",
+   "start": 2657,
+   "end": 2698
+  },
+  {
+   "fact": "祖辈共生被放逐",
+   "anchor": "We lived in harmony, once.",
+   "start": 4379,
+   "end": 4405
+  },
+  {
+   "fact": "Elora要亲眼验证",
+   "anchor": "I have to see for myself.",
+   "start": 4594,
+   "end": 4619
+  },
+  {
+   "fact": "Alliera猛回头",
+   "anchor": "Alliera twisted to face her so quickly she was shocked her spine didn’t snap.",
+   "start": 2409,
+   "end": 2486
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch21",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch21_aftermath.txt",
+ "facts": [
+  {
+   "fact": "组织被判死",
+   "anchor": "sentencing them to death for their many heinous crimes.",
+   "start": 321,
+   "end": 376
+  },
+  {
+   "fact": "逃亡者刻树追杀",
+   "anchor": "Their names and likenesses etched into one of the massive trees",
+   "start": 458,
+   "end": 521
+  },
+  {
+   "fact": "Shella打断Kastral",
+   "anchor": "Shella had eventually held up a hand and told him calmly that she’d heard enough of his drivel",
+   "start": 1612,
+   "end": 1706
+  },
+  {
+   "fact": "押送三船",
+   "anchor": "It would take three packed ships to complete the task.",
+   "start": 3174,
+   "end": 3228
+  },
+  {
+   "fact": "她任联络官不回森林",
+   "anchor": "Healer Liaison for Tannenfell",
+   "start": 4066,
+   "end": 4095
+  },
+  {
+   "fact": "Vix父亲心碎而亡",
+   "anchor": "he took his last breaths, his heart unwilling to keep on in this world when his reason for living was gone",
+   "start": 6100,
+   "end": 6206
+  }
+ ]
+}

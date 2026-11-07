@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch09_blood_in_the_garden.txt",
+ "facts": [
+  {
+   "fact": "梦里被Vix吵醒",
+   "anchor": "Alliera! Time to go",
+   "start": 1649,
+   "end": 1668
+  },
+  {
+   "fact": "出发了",
+   "anchor": "Time to go. Sol already left.",
+   "start": 3413,
+   "end": 3442
+  },
+  {
+   "fact": "没证据推翻组织",
+   "anchor": "We can’t bring them down if we don’t have the proof.",
+   "start": 3928,
+   "end": 3980
+  },
+  {
+   "fact": "藤梯与闪光门上宫花园",
+   "anchor": "holding his hand against the rock, and another shimmering doorway appeared.",
+   "start": 4838,
+   "end": 4913
+  },
+  {
+   "fact": "花园布置尸体",
+   "anchor": "Alliera, keep a lookout while Vix and I set this monster up",
+   "start": 5840,
+   "end": 5899
+  },
+  {
+   "fact": "找到Elora窗户",
+   "anchor": "That was Elora’s voice. This was Elora’s window. She had found her.",
+   "start": 8382,
+   "end": 8449
+  },
+  {
+   "fact": "Elora与Tryphena弹钢琴",
+   "anchor": "Elora and Tryphena sat together in front of some sort of instrument.",
+   "start": 8915,
+   "end": 8983
+  },
+  {
+   "fact": "花中尸体是Dallin母亲",
+   "anchor": "It was Dallin’s mother lying dead amongst the flowers.",
+   "start": 15136,
+   "end": 15190
+  }
+ ]
+}

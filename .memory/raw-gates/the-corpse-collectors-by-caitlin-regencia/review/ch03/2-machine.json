@@ -1,0 +1,322 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/ch03 change of plans.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch03_change_of_plans.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Strangers were striding into the clearing. Presumably arriving from the docks to the northwest, they’d stalked silently ",
+          "ok": true,
+          "pos": 30
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“We are to set sail in an hour’s time.” Commander Mibortir paused long enough to allow the shocked outcries a moment to ",
+          "ok": true,
+          "pos": 1833
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Lightning struck Alliera’s heart, and she reached across Vix’s stomach to pull Elora toward her. He stepped back, drawin",
+          "ok": true,
+          "pos": 1961
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Elora Ulinoor, I assume? Meet your Guard, Dallin Rasmus.” Elora’s Guard, Dallin, stepped forward and stopped before the",
+          "ok": true,
+          "pos": 3378
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Her world fell away, and she was trapped in the vampire’s lavender-tinged eyes. Planets aligned and time stood still. He",
+          "ok": true,
+          "pos": 4381
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Smiling wickedly, Vix grabbed a knife from the block on the counter. Alliera reached forward to try and stop him, but it",
+          "ok": true,
+          "pos": 14234
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Blue light emanated from their joined hands, and Alliera sucked in a breath as pain lanced across her palm. She swayed a",
+          "ok": true,
+          "pos": 14877
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I cannot stop or reverse the passage of time, but what I can do is promise to keep your friend safe. I can promise to b",
+          "ok": true,
+          "pos": 19765
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The captain was calling for last boarding and giving directions for cast-off when Vix and Alliera trudged to the end of ",
+          "ok": true,
+          "pos": 22877
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. Chapter Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4088,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 21 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

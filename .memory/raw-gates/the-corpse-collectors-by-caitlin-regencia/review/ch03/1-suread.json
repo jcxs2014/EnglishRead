@@ -1,0 +1,37 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch03",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch03_change_of_plans.txt",
+ "facts": [
+  {
+   "fact": "启程提前一小时",
+   "anchor": "We are to set sail in an hour’s time.",
+   "start": 1859,
+   "end": 1896
+  },
+  {
+   "fact": "Dallin配Elora护卫",
+   "anchor": "Elora Ulinoor, I assume? Meet your Guard, Dallin Rasmus.",
+   "start": 3439,
+   "end": 3495
+  },
+  {
+   "fact": "Alliera坠入薰衣草色眼睛",
+   "anchor": "Her world fell away, and she was trapped in the vampire’s lavender-tinged eyes.",
+   "start": 4453,
+   "end": 4532
+  },
+  {
+   "fact": "Mibortir点名",
+   "anchor": "Commander Jortare Mibortir, I presume?",
+   "start": 1751,
+   "end": 1789
+  },
+  {
+   "fact": "Mytolen被点名",
+   "anchor": "Mytolen Vira?",
+   "start": 3217,
+   "end": 3230
+  }
+ ]
+}

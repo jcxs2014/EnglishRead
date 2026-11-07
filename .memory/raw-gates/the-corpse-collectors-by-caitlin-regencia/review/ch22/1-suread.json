@@ -1,0 +1,43 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch22_goodbye.txt",
+ "facts": [
+  {
+   "fact": "站在家门前",
+   "anchor": "Alliera and Dallin stood silently on the threshold of her and Elora’s home.",
+   "start": 31,
+   "end": 106
+  },
+  {
+   "fact": "满月夜旧家",
+   "anchor": "The house was dark, shadows dancing across the painted flowers in the full moon’s glow.",
+   "start": 107,
+   "end": 194
+  },
+  {
+   "fact": "Vix死后草蔓生",
+   "anchor": "She guessed that was what happened when your gardener up and died.",
+   "start": 936,
+   "end": 1002
+  },
+  {
+   "fact": "地毯包旧约",
+   "anchor": "The one she and Elora bought for when they finally got to go to Tannenfell. Together.",
+   "start": 1913,
+   "end": 1998
+  },
+  {
+   "fact": "哭干了泪胸还痛",
+   "anchor": "She had no more tears to cry, but that didn’t stop her chest from physically aching",
+   "start": 2243,
+   "end": 2326
+  },
+  {
+   "fact": "关门向码头",
+   "anchor": "She closed the door to her old life, walking toward the docks that would carry her away from the past and into the future.",
+   "start": 4769,
+   "end": 4891
+  }
+ ]
+}

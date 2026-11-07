@@ -1,0 +1,37 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch02_wishes_in_the_fire.txt",
+ "facts": [
+  {
+   "fact": "Lomarda派家访任务",
+   "anchor": "Mrs. Palmfrey’s brats have indigestion again.",
+   "start": 1397,
+   "end": 1442
+  },
+  {
+   "fact": "Haversham辱骂Elora",
+   "anchor": "They forced us out, you know? Like common criminals and murderers, we were treated!",
+   "start": 5856,
+   "end": 5939
+  },
+  {
+   "fact": "治疗中心建在巨树里",
+   "anchor": "The Healing Center was built into an enormous tree",
+   "start": 35,
+   "end": 85
+  },
+  {
+   "fact": "备药篮",
+   "anchor": "We’ll stock our baskets then before we go.",
+   "start": 1238,
+   "end": 1280
+  },
+  {
+   "fact": "Haversham开正门",
+   "anchor": "Mr. Haversham moved back just enough to let the women through",
+   "start": 4628,
+   "end": 4689
+  }
+ ]
+}
