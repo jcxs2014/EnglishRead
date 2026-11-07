@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch37",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch37_vii.txt",
+ "facts": [
+  {
+   "fact": "梦中碎片通话：与 Brailee 断续联络——「Mother is—of blood, but she should pull through」（失血但能挺过）；grimoire footnote/forge 线索；Nexus 正备战第二波。",
+   "anchor": "but she should pull through",
+   "start": 2489,
+   "end": 2516
+  },
+  {
+   "fact": "恶魔的道歉：融合后的床笫戏——「It will take some time to get used to this merging」「Consider this an addendum. An apology, if you will.」——契约的物理化。",
+   "anchor": "“Consider this an addendum.”",
+   "start": 5580,
+   "end": 5608
+  },
+  {
+   "fact": "强制入门：白日影潜 ost Vonlin 庄园——对卫兵仆从连环强制（橙转蓝）——「Less inclined to hesitate」/「I can't afford to hesitate」的拉锯。",
+   "anchor": "You will let me inside and forget you ever saw me,",
+   "start": 9571,
+   "end": 9621
+  },
+  {
+   "fact": "恶魔授读：Dante 忽然能读 Solari 文字——「Have you been able to do this all this time?」「You didn’t ask.」——「他不喜欢恶魔白给东西」。",
+   "anchor": "You didn’t ask.",
+   "start": 11531,
+   "end": 11546
+  },
+  {
+   "fact": "密室机关：Phos 神龛 stela（玻璃眼）+光 glyph（Azideh 之手重叠、记忆闪回被压）+滴血激活——snick 开门——羽灰箱（曾存提纯羽灰）+文档堆（Varrick 方案/legionnaire 草案/Ulshära 提纯公式）。",
+   "anchor": "The light illuminated the glass eyes of Phos",
+   "start": 16709,
+   "end": 16753
+  },
+  {
+   "fact": "决定性便条：「Varrick to lead troops to Vitae on cycle one hundred thirty while we deploy to Noctus on the solstice.」「New directive from Lord Phos: Lead the second wave on cycle one hundred thirty. Noctus invasion to follow with remaining legionnaires on the solstice.」——第二波两日后！夏至那天是 Noctus。",
+   "anchor": "Lead the second wave on cycle one hundred thirty.",
+   "start": 18507,
+   "end": 18556
+  },
+  {
+   "fact": "倒计时崩塌：众人本以为夏至是第二波——「But that was the day they planned to launch an invasion on Noctus. The second phase on Vitae was coming sooner—much sooner. It would happen in two days’ time.」",
+   "anchor": "It would happen in two days’ time.",
+   "start": 19526,
+   "end": 19560
+  },
+  {
+   "fact": "被擒：Faün 抓现形（烙臂钳柜）——「I was told there was a Noctan rat scurrying about. Good thing I caught it before it made a nest.」——审讯开局（章末）。",
+   "anchor": "“I was told there was a Noctan rat scurrying about,”",
+   "start": 20027,
+   "end": 20079
+  }
+ ]
+}

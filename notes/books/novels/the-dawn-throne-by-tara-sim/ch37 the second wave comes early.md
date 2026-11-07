@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：Solara 的世界里没有「夜」这种东西——但 Dante 可以为自己造一个。天上只剩母阳、第一子阳刚落地平线，他把自己裹进翻涌的暗影，在 ost Vonlin 的庄园地面上闲庭信步。能力上的独立宣言，以气象学写成。
 **关键词**：roiling / stroll
 **为什么这样写**：潜入的从容用「造夜」修辞——从「借黑暗」到「造黑暗」，他与恶魔的合作已能自产环境；stroll（散步）与庄园的杀气对冲，气场即 stealth。
-**读者视角提示**：回想他初入 Gravespire 时的紧张——本段的「effortlessly」是四十章换来的进度条。
+**读者视角提示**：回想他初入 Gravespire 时的紧张——本段的「effortlessly」是三十余章换来的进度条。
 
 > **原句 5:** "Have you been able to do this all this time? Dante demanded. Why didn’t you tell me sooner?"
 
