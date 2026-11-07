@@ -52,7 +52,7 @@ The compound.
 
 He wasn’t the only captive, because these people – other Rhavnans – were being bled, too."
 **中文理解**：“德雷克？”我声音发颤地问。画面冻结，医生和囚犯一个个消失，牢房扭曲旋转，像被卷入转动的轮子。“德雷克，”我又说，“没事的——”我被金属敲击声和一个女孩的哭声打断。她听起来很年轻，说：“德雷克，是你吗？你还在吗？”然后我被推了出去。我看到了他不想让我看到的东西。收容所。他不是唯一的囚犯，其他拉夫纳人也在被抽血。
-**关键词**：The scene freezes / I’m being pushed back / doctors and inmates disappear
+**关键词**：The scene freezes / doctors and inmates disappear / I’m being pushed back
 **为什么这样写**：阿拉窥见德雷克最深的创伤。他童年的痛苦和同情让德雷克的形象更加立体，也解释了他为何如此冷酷。
 **读者视角提示**：读者会对德雷克产生新的理解。他不是天生的暴君，而是在残酷环境中长大的受害者。
 > **原句 4:** "“Because this is all fucked. Do you not see that? I’m going to a country where I don’t even speak the language. My mother is dead. Riss is dead. Our village is ash. My ship is gone – all the ships are gone. All I can think about is osimidite again. And all of it is your fault!” Time stretches out. It’s infinite, and it’s cruel. Cosmer wavers in and out in front of me. He’s standing under a light now, particles of osimidite lilting around his head like fireflies. “None of that is my fault,” I say, cracked. He looks up at me with those dull eyes with nothing but blame. Like it was me that drained the nutrients in them. Sucked them dry."

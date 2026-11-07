@@ -58,7 +58,7 @@ Then he squeezes me tightly, tucking my head under his chin.
 
 “It’s okay,” I repeat."
 **中文理解**：“我不想和你一起哀悼，阿拉！”他几乎在咆哮，像换了个人。他的话充满这间小舱房。沉默。直到我说：“你已经在哀悼了。”“我没有，”他坚持。我抱住他的腰说：“没关系。”他身上有冷风、浆洗布、皮革、金属和家的味道。他愣了一秒，才紧紧抱住我，把我的头埋在下颌下。“天哪。我完蛋了，我——”“没关系。”我说。
-**关键词**：I don’t want to grieve with you, Ara! / You already are / It’s okay
+**关键词**：don’t want to grieve with you / You already are / It’s okay
 **为什么这样写**：科斯默终于崩溃，承认他在哀悼。拥抱比争吵更能让他敞开心扉。
 **读者视角提示**：读者会为这对恋人心疼。他们都在用错误的方式爱着对方，却最终还是找到了相互理解的方式。
 > **原句 5:** "He shows me what he’s just pulled out from inside the mattress. A small tin can. “These are tinned peaches. Have you ever had them?” I shake my head. “I haven’t even had a normal peach.” “They’re the best,” he insists. With a tiny screwdriver he’d also produced, which he tells me he stole off an engineer once, he skilfully prises the can open by getting under the rim of it. We find my spoons and sit back on the bed. He feeds me, and I feed him. The sharp sweetness fills my mouth. It really is the best thing I’ve ever tasted."
