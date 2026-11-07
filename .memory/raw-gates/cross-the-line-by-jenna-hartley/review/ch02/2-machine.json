@@ -1,0 +1,484 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/cross-the-line-by-jenna-hartley/ch02 kryptonite.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/cross-the-line-by-jenna-hartley/text/ch02_chapter_2.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Laughter and music echoed off the water, and Cece’s Nashville mansion was lit up for her birthday celebration. The party",
+          "ok": true,
+          "pos": 42
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The truth? Carson was hot. And I was curious about him, especially when it came to whatever the deal was between him and",
+          "ok": true,
+          "pos": 3836
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Not cocky.” He took a long draft from his beer. “One—” He ticked off a finger. “I used to play with your brother in the",
+          "ok": true,
+          "pos": 4445
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Now that my eyes had adjusted to the lower lighting, I realized he was shirtless. I couldn’t help but scan every muscle ",
+          "ok": true,
+          "pos": 4961
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He let out a long exhale, assessing me as if to determine whether this was a good idea or not. And then he said, “Maybe ",
+          "ok": true,
+          "pos": 13078
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Yeah. I’m sure that’s not the answer you wanted to hear, but sometimes it takes time to form that bond with your team a",
+          "ok": true,
+          "pos": 14476
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Yes, I mourned his loss, but it was nothing compared to what Bryn had endured. Derek and Bryn had been college sweethear",
+          "ok": true,
+          "pos": 12614
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "If he was interested in a hookup, he wouldn’t be asking for my number. He’d be edging closer, suggesting we find a room.",
+          "ok": true,
+          "pos": 16213
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I don’t want to give you the wrong impression, but I’m not interested in dating. And if I were, I definitely wouldn’t b",
+          "ok": true,
+          "pos": 16454
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I stood, ready to return to the party before I could get myself into even more trouble. Because that’s what Carson was—t",
+          "ok": true,
+          "pos": 20173
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I wasn’t naïve enough to think that he wanted my number solely to seek my advice about his new teammates. Regardless of ",
+          "ok": true,
+          "pos": 20823
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I returned my attention to the screen, typing out a message then deleting it. I typed another before debating whether to",
+          "ok": true,
+          "pos": 22048
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Three bubbles danced on the screen to indicate she was typing. Disappeared, then reappeared. While I waited for her to r",
+          "ok": true,
+          "pos": 24031
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "I gnashed my teeth, hit by a sudden, overwhelming surge of protectiveness. I was positive Logan could handle herself, bu",
+          "ok": true,
+          "pos": 26151
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "My dick was half hard from the image, my reaction so strong, so visceral, it had provoked a physical response. I tried t",
+          "ok": true,
+          "pos": 27787
+        }
+      ],
+      "words": 47
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.42
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      10,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5321,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

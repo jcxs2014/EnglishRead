@@ -1,0 +1,67 @@
+{
+ "book": "cross-the-line-by-jenna-hartley",
+ "chapter": "ch02",
+ "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "倒叙：四个月前七月Cece生日派对（纳什维尔）",
+   "anchor": "Four Months Earlier: July",
+   "start": 27,
+   "end": 52
+  },
+  {
+   "fact": "Logan与Cece中学起是朋友（Cecily Goldblum→Cece Golden）",
+   "anchor": "Cece and I had been friends since middle school",
+   "start": 551,
+   "end": 598
+  },
+  {
+   "fact": "Carson赛季截止前被交易到Hawks（原队Racoons）",
+   "anchor": "Last season, Carson had been traded to the Hawks in a shocking move right before the trade deadline",
+   "start": 3105,
+   "end": 3204
+  },
+  {
+   "fact": "三指理由之三：Levi的飞镖盘",
+   "anchor": "I figured you’d seen my face on your brother’s dart board.",
+   "start": 4835,
+   "end": 4893
+  },
+  {
+   "fact": "Logan与Frasier/Derek/Bryn是Dartmouth同学",
+   "anchor": "And Frasier, Derek, Bryn, and I went to Dartmouth together.",
+   "start": 12782,
+   "end": 12841
+  },
+  {
+   "fact": "Carson求融入Hawks更衣室之道",
+   "anchor": "I’d love any insight on how to ingratiate myself with this team.",
+   "start": 13833,
+   "end": 13897
+  },
+  {
+   "fact": "Logan的攻略：Frasier问狗、Boone吃货",
+   "anchor": "Frasier comes off as a grumpy bear, but if you ask him about his dogs, he’s a total softy.",
+   "start": 15284,
+   "end": 15374
+  },
+  {
+   "fact": "KT由来：Carson说她是他的kryptonite",
+   "anchor": "You’re like my own personal kryptonite.",
+   "start": 16302,
+   "end": 16341
+  },
+  {
+   "fact": "次日短信：他把备注改成KT",
+   "anchor": "While I waited for her to respond, I changed her name in my phone to “KT.”",
+   "start": 25131,
+   "end": 25205
+  },
+  {
+   "fact": "得知她收露骨私信，Carson保护欲爆发",
+   "anchor": "I gnashed my teeth, hit by a sudden, overwhelming surge of protectiveness.",
+   "start": 27301,
+   "end": 27375
+  }
+ ]
+}
