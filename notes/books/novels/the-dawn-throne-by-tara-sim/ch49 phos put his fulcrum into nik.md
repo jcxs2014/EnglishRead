@@ -99,7 +99,7 @@ modified: "2026-11-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | spear | 矛 | Nikolas yanked the Sunbringer Spear out of Phos’s head and phased away, hovering in the air. |
-| hoarse | 嘶哑的 | “Why was it only me and Ulshära?” he had to clear his ragged throat; he had screamed himself hoarse during the aftershocks of Phos’s death. |
+| hoarse | 嘶哑的 | “Why—” Rian had to clear his ragged throat; he had screamed himself hoarse during the aftershocks of Phos’s death. |
 | smoke | 烟 | The blade dripped black blood that smoked and hissed when it hit the floor. |
 
 ## 一句话总结
