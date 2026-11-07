@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch20",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch20_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "出发晨：Gyor 狂塞鞍袋——给 Andra 穿毛皮大衣系好备毯",
+   "anchor": "Gyor stood at a small table, fervently shoving food and other supplies into any available pockets of the saddlebags.",
+   "start": 248,
+   "end": 364
+  },
+  {
+   "fact": "数字：弄到两匹备鞍马——客人喜欢她才肯让",
+   "anchor": "“You were able to get two?” she asked, relief flooding her.",
+   "start": 858,
+   "end": 917
+  },
+  {
+   "fact": "Torgil 告别托付：保护 Gyor 与旅店、照顾 Svaige——最重要的是活着替两人活",
+   "anchor": "“Protect Gyor and the inn. Take care of Svaige. But most importantly, live, Torgil.",
+   "start": 3116,
+   "end": 3199
+  },
+  {
+   "fact": "章中转折：有人唤“Andra”——Lucas 竟然现身",
+   "anchor": "Andra froze where she stood. She knew that voice.",
+   "start": 3310,
+   "end": 3359
+  },
+  {
+   "fact": "介绍：Lucas=表亲、Gerrick=帮助我们的人；Gerrick 不握手只问“他也跟我们走？”",
+   "anchor": "“Gerrick, this is Lucas, my cousin. Lucas, this is Gerrick. He’s helping us.”",
+   "start": 5132,
+   "end": 5209
+  },
+  {
+   "fact": "Lucas 讲 Avernon：爆炸后全镇疯狂、Jasper 残骸被认出——邻里互疑",
+   "anchor": "they found the remains of that vermin, Jasper, and everyone started panicking.",
+   "start": 3947,
+   "end": 4025
+  },
+  {
+   "fact": "数字：他在破旅店躲至少一星期才毫发无损逃出",
+   "anchor": "I stayed in that shitty inn for at least a week until I figured out a way to escape the town unscathed.",
+   "start": 4096,
+   "end": 4199
+  },
+  {
+   "fact": "追兵突至：奉 Vasara 命搜“光女巫继承人”——Gyor 以旧誓拒绝，Bind him",
+   "anchor": "“We’ve come in search of the light witch’s heir, by order of Vasara.”",
+   "start": 6326,
+   "end": 6395
+  },
+  {
+   "fact": "隔门听 Gyor 被绑与鞭击声——Gerrick 捂嘴拖她上灰斑马强带离",
+   "anchor": "Gerrick grabbed her around the waist and heaved her on top of his gray dapple",
+   "start": 8381,
+   "end": 8458
+  },
+  {
+   "fact": "提前扎营理由：夜宿山口会暴露给山中之民；Lucas 去打猎",
+   "anchor": "If we continue until nightfall and camp near the mountain pass, we leave ourselves vulnerable to those who dwell within.",
+   "start": 8918,
+   "end": 9038
+  },
+  {
+   "fact": "争吵：她两度挥拳被格挡——“手腕早折了”；她喊 Fight back 他拒绝还手",
+   "anchor": "“Shit, witch. Have I taught you nothing these past weeks? Your wrist would have snapped if you made contact.”",
+   "start": 13303,
+   "end": 13412
+  },
+  {
+   "fact": "章末：摔压在地后她留话“go fuck yourself”——一膝撞裆（全章最后一行）",
+   "anchor": "Swiftly, Andra kneed him in the groin.",
+   "start": 15605,
+   "end": 15643
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch21",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch21_chapter_21.txt",
+ "facts": [
+  {
+   "fact": "章首：马背上睡醒——整夜被搂在胸前同乘 Bayard；抵残破村庄",
+   "anchor": "Gerrick sat behind her atop Bayard. One hand held the reins, while the other lay tucked against Andra’s ribcage",
+   "start": 480,
+   "end": 591
+  },
+  {
+   "fact": "下令穿村直奔北端：不停不接触；沿途断壁/醉汉/脏脸孩童/婴儿啼哭",
+   "anchor": "“We’ll need to keep going until we reach the northern end of the village. Don’t stop, don’t interact.”",
+   "start": 974,
+   "end": 1076
+  },
+  {
+   "fact": "她问“能帮他们吗”——Gerrick 摇头“Not tonight”",
+   "anchor": "“Is there anything we can do to help them?” she whispered.",
+   "start": 1770,
+   "end": 1828
+  },
+  {
+   "fact": "妓院街区：门口女子熟络招呼 Gerrick“好久没来”——他是常客；她冷言“物件论”",
+   "anchor": "“It’s been so long since you’ve come to see us, Gerrick. We’ve missed you.” The other woman pouted.",
+   "start": 4053,
+   "end": 4152
+  },
+  {
+   "fact": "暗廊撞雪肤鸦发女子——她点头同意被吻：“那一刻什么都不重要”",
+   "anchor": "Soft lips closed over Andra’s, and in that moment nothing else mattered.",
+   "start": 7292,
+   "end": 7364
+  },
+  {
+   "fact": "Gerrick 打断：Nelveen=北方林子联络人；她称他“Gerrick of Sarkovia”",
+   "anchor": "“Andra, I see you’ve met my contact in the Northern Woods.”",
+   "start": 7738,
+   "end": 7797
+  },
+  {
+   "fact": "来意：要情报——Nelveen 仍是他最好的来源",
+   "anchor": "“We need information, Nelveen. You’re still my best source,” Gerrick answered.",
+   "start": 9326,
+   "end": 9404
+  },
+  {
+   "fact": "Nelveen 私语教订“私人团体房”指名找她——随即高声告辞打掩护",
+   "anchor": "You need to book a ‘private group room’. Ask for me, and only me.",
+   "start": 9716,
+   "end": 9781
+  },
+  {
+   "fact": "独处对峙：Gerrick 点破“我让你第一次感到活着”——她手中酒杯泛橙光险些捏碎",
+   "anchor": "The cup in Andra’s hand glowed orange, and quickly she set it down on the table before she broke it.",
+   "start": 12661,
+   "end": 12761
+  },
+  {
+   "fact": "隔壁 alcove：男人盘问妓女见没见过“Andra 或 Gerrick”——“Official business. For Vasara”",
+   "anchor": "“You sure, baby?” the man asked roughly. “No one by the name of Andra? Or Gerrick?”",
+   "start": 14406,
+   "end": 14489
+  },
+  {
+   "fact": "醉汉扯她斗篷——Gerrick 扼喉+砸头桌沿昏死血泊；“Anyone else?”",
+   "anchor": "The man slumped to the floor, unconscious, blood pooling on the floor around his head.",
+   "start": 17146,
+   "end": 17232
+  },
+  {
+   "fact": "章末：两段楼梯三扇破旧门走向最后一扇——Gerrick 抬手敲门",
+   "anchor": "Gerrick reached behind him and rapped on the wooden door.",
+   "start": 18839,
+   "end": 18896
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
