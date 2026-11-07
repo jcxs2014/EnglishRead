@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch02_ii.txt",
+ "facts": [
+  {
+   "fact": "开篇三件行李：Dante 立在曾囚禁他的 Gravespire 前——臂下魔典、背后恶魔云；Azideh 贴耳问「Are you frightened?」，腕上 lightsbane 镣铐疤痕发痒。",
+   "anchor": "Dante Lastrider stood before the building that had been his prison with a grimoire under his arm and a demon at his back.",
+   "start": 17,
+   "end": 138
+  },
+  {
+   "fact": "他以恶魔之力控制门口卫兵（eyes glazed over、下令开门、creaking welcome）——一句话扫进 Gravespire，径直命人带他上顶层。",
+   "anchor": "Let me in,",
+   "start": 929,
+   "end": 939
+  },
+  {
+   "fact": "顶层铁牢找到姨妈 Camilla：镣铐加身、红雾缠肩——Dante 用 Azideh 给的 Shanizeh 真名锁住她的恶魔（她本人不知真名，故翻不了盘）。",
+   "anchor": "Camilla Lorenzo graced him with a wry smile.",
+   "start": 3965,
+   "end": 4009
+  },
+  {
+   "fact": "审判回放：五天庭审，Cyr/Vakara/Mardova 三家证 Camilla 有罪；Angelica 作证保 Dante——「I'm not doing this out of goodwill...You're best suited to decipher the grimoire.」",
+   "anchor": "Angelica was willing to sit in and give her word that he had done no wrong.",
+   "start": 4557,
+   "end": 4632
+  },
+  {
+   "fact": "Camilla 认罪但以悲剧英雄自况：承认杀 Prelate Lezzaro 与诸神夜用 Conjuration，未提国王与儿子。",
+   "anchor": "she had admitted to Prelate Lezzaro’s murder and her use of Conjuration at Godsnight,",
+   "start": 5403,
+   "end": 5488
+  },
+  {
+   "fact": "判决日：magistrate 宣布 Dante 无罪但 Lastrider 家须为 Soler/Damari 两案负责——目击者指认 Taesia、Risha 复活 Soler 后写下怀疑报告并当庭低声承认；Elena 起身当场除名 Taesia，Brailee 惊呼被 Saya 拦下，Dante 麻木——「he was free, free, and Taesia was not」。",
+   "anchor": "As Taesia is hereby banished from House Lastrider.",
+   "start": 8613,
+   "end": 8663
+  },
+  {
+   "fact": "Camilla 供出 Lezzaro 遗言：开域门的祭品须是血与魔法、且须来自门所通往的领域——Dante 脑中闪过 Vaega 高原上奉令坠崖的年轻女子。",
+   "anchor": "Blood and magic that originates from the realm the circle leads to.",
+   "start": 17655,
+   "end": 17722
+  },
+  {
+   "fact": "章末：一刻钟到、卫兵开门，Dante 逃离 Gravespire，在最近的巷子里拉拢暗影呕吐——本章以第二次呕吐收束身体反应线。",
+   "anchor": "pull the shadows in around him, and throw up everything in his system.",
+   "start": 18745,
+   "end": 18815
+  }
+ ]
+}
