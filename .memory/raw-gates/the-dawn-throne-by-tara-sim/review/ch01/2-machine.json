@@ -1,0 +1,376 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-dawn-throne-by-tara-sim/ch01 the refused spear.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-dawn-throne-by-tara-sim/text/ch01_i.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Nikolas Cyr stared at his reflection, and a stranger stared back",
+          "ok": true,
+          "pos": 4
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It shouldn’t have come as a surprise. It was the same face he had seen for months, either in half-hearted glimpses or nu",
+          "ok": true,
+          "pos": 70
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He touched the lower eyelid with its short blond lashes. Traced the arc of bone at his brow. The medic had told him this",
+          "ok": true,
+          "pos": 339
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“It helps not only in terms of healing, but mental recovery,” she had explained as she held it in her palm. Nikolas had ",
+          "ok": true,
+          "pos": 671
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Isobel, one of the latter, ducked her head in greeting. “Sorry to disturb you, my lord, but we have more correspondence ",
+          "ok": true,
+          "pos": 3488
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She and Fin were sitting on one of the white couches. Madeia Cyr was a slip of a woman, dark hair falling loose down her",
+          "ok": true,
+          "pos": 4598
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Once Rian had been declared stable by the medics, Nikolas had knelt at his bedside and spoken his confession. His hand h",
+          "ok": true,
+          "pos": 11502
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“It must be the summer solstice,” Dante had theorized weeks ago. “It’s when Solarian magic is at its strongest, and the ",
+          "ok": true,
+          "pos": 13194
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "In one fluid movement Rian knocked Nikolas back and grabbed the Sunbringer Spear. He flung it across the courtyard and i",
+          "ok": true,
+          "pos": 16442
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He blinked hard to clear his vision. Even then he had trouble comprehending what he held. It was thin yet curved, about ",
+          "ok": true,
+          "pos": 17856
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "A feather, white as alabaster, with the faintest hint of gold",
+          "ok": true,
+          "pos": 18045
+        }
+      ],
+      "words": 11
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. I（Part I: Feather and Flower）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3264,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 10、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

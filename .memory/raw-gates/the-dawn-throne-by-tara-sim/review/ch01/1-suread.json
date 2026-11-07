@@ -1,0 +1,61 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch01_i.txt",
+ "facts": [
+  {
+   "fact": "开篇：Nikolas 对镜如逢陌生人——空眼窝的红肉、金短睫；医师建议玻璃义眼（lifeless blue iris），「most patients fare better with one」，他选了眼罩。",
+   "anchor": "Nikolas Cyr stared at his reflection, and a stranger stared back.",
+   "start": 15,
+   "end": 80
+  },
+  {
+   "fact": "失目已数月：只敢半心半意地瞥、麻木打量；义眼躺在梳妆台上瞪着天花板，旁边是盐水碗与眼罩。",
+   "anchor": "It was the same face he had seen for months, either in half-hearted glimpses or numb observance.",
+   "start": 121,
+   "end": 217
+  },
+  {
+   "fact": "数周前 Angelica 就说过「我们时间不够了」——与他诸神夜前父亲拽他起床看垂死太阳时的念头同句；众人怪天冷反常，他知道是太阳在减光。",
+   "anchor": "We’re running out of time, Angelica had said weeks ago.",
+   "start": 2810,
+   "end": 2865
+  },
+  {
+   "fact": "仆人 Isobel 报信：代理高级专员与 first comandante 又来函谈兵力重划——公文在「Lord——in your office」（称呼滑舌，父位已空）。",
+   "anchor": "Sorry to disturb you, my lord,",
+   "start": 3608,
+   "end": 3638
+  },
+  {
+   "fact": "阳光房：母亲 Madeia 与 Vaega 流亡王子 Fin 织毛衣——Fin 宫殿没了、父亲死了、封号受损、无人知其存在；Madeia 多日来第一次笑。",
+   "anchor": "Fin said. “Done with work?”",
+   "start": 5782,
+   "end": 5809
+  },
+  {
+   "fact": "Rian 两天未眠、药已失效（nauseous 但 not working anymore），主动提出想恢复操练；Nikolas 提议一起练——「they had no one left to teach them」。",
+   "anchor": "I haven’t slept in two days.",
+   "start": 10181,
+   "end": 10209
+  },
+  {
+   "fact": "忏悔回放：Rian 病情稳定后 Nikolas 跪在床边自白——父亲眼中悲伤的疯狂、诸神夜的天台、求生的孤注一掷；Rian 手指轻碰他的手：「Don't say any more.」",
+   "anchor": "and a rooftop on Godsnight, and the desperate urge to survive.",
+   "start": 12018,
+   "end": 12080
+  },
+  {
+   "fact": "递矛被拒：Nikolas 以「temporary keeper」双手奉矛、称父亲训练的是 Rian；Rian 暴起掷矛砸碎红陶花瓶（碎片如血溅鹅卵石）——「I don't want the fucking spear!」",
+   "anchor": "Father trained you to be heir. Not me.",
+   "start": 14980,
+   "end": 15018
+  },
+  {
+   "fact": "章末：Nikolas 呕出一根白羽——雪白泛最淡的金，羽枝湿竖——神从未离开他的身体。",
+   "anchor": "A feather, white as alabaster, with the faintest hint of gold.",
+   "start": 18522,
+   "end": 18584
+  }
+ ]
+}

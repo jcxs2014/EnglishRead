@@ -54,7 +54,7 @@ modified: "2026-11-06"
 **中文理解**：母亲 Madeia 与 Fin 坐在白沙发上；她身形单薄，深发散在背后，眉眼与 Nikolas 同一副轮廓。他记得她曾有响亮的笑声和有力的手，眼神锋利而非阴沉。现在她坐在阳光房里织毛衣。
 **关键词**：sullen / boasted
 **为什么这样写**：用「同一副轮廓」把母子捆进同一张脸，再用 remembered 一词劈开今昔——boasted（扬起）与 sullen（阴郁）放在同一句对位，一个女人的垮塌只用两个形容词就完成了。
-**读者视角提示**：Fin 的出现没有任何解释（王子、亡父、失国），作者赌读者要么读过前作、要么忍住不问——这种不解释本身就是本系列的叙事礼仪。
+**读者视角提示**：Fin 出场瞬间没有任何解释——他的来历要等 Nikolas 的内心补叙（王子、亡父、失国）才交底，这种「先让人物在场、再给履历」的顺序本身就是本系列的叙事礼仪。
 
 > **原句 7:** "Once Rian had been declared stable by the medics, Nikolas had knelt at his bedside and spoken his confession. His hand had laid open on the counterpane, and remained empty as the words took shape and effect. Explaining the madness of grief in their father’s eyes, and a rooftop on Godsnight, and the desperate urge to survive."
 
