@@ -22,7 +22,7 @@ modified: "2026-11-07"
 > **原句 2:** "After all, it is love that often makes people do the worst things. … Andra held tightly to Bernice’s hands, kissing her knuckles as she whispered, “Maybe love can also make people do the best things.” … With nothing more than a satchel of supplies and limited knowledge of life outside her woods, Andra set off into the night."
 **中文理解**：回味着 Egeria 的判词——是爱常常让人做最恶的事——Andra 紧握 Bernice 的手，吻着她的指节轻声说：也许爱也能让人做最好的事；然后只背一袋补给、带着对林外世界的一知半解，走进夜色。她给全书的爱主题补了下半句。
 **关键词**：knuckles / satchel
-**为什么这样写**："also"一词是本章的诗眼——她不否认爱能作恶，只把另一半真话补上，这句话同时说给 Bernice 听、说给自己听；"limited knowledge"的自嘲让启程没有豪言壮语，人物 stays 真实。
+**为什么这样写**："also"一词是本章的诗眼——她不否认爱能作恶，只把另一半真话补上，这句话同时说给 Bernice 听、说给自己听；"limited knowledge"的自嘲让启程没有豪言壮语，人物始终真实。
 **读者视角提示**：这是 Vasara 线与 Andra 线的主题性对齐——两个被爱驱动的人即将走上对撞的轨道。
 
 > **原句 3:** "“Because you’re my best friend, and I know you.” Lucas approached her. “You won’t stay in the Southern Woods and let people fight for you. Die for you.” … “I may not agree with you, but I will not let you do this alone.”"
