@@ -59,7 +59,7 @@ modified: "2026-11-07"
 **中文理解**：她差点从阳台栏杆栽下去，隔壁传来低沉嗓音——小心，亲爱的，可不想让这么漂亮的人儿闻着树香就摔死了；黑暗里一声笑：你不用怕我。重逢的第一句台词是命令式调侃，第二句是反恐吓。
 **关键词**：Careful / dark laugh
 **为什么这样写**：作者把"救了她一命"包装成一句揶揄——救援与调情共用同一句话，这是猎人的一贯语法（ch02 的"run"同款）；"You don't need to fear me"的悖论在于：最该让她害怕的人宣布自己安全——信任的建立从此变成他的责任清单。
-**读者视角提示**：对照 ch11 Jasper 的"pay her dues"——同样从背后出现，语言暴力与语言调情的分野就在这几个词的选材上。
+**读者视角提示**：对照 ch09 Jasper 的"pay her dues"与 ch11 的捂嘴拖拽——同样从背后出现，语言暴力与语言调情的分野就在这几个词的选材上。
 
 > **原句 9:** "“The monster you were supposed to be hunting in the Southern Woods? It attacked my village. People died, and many more are at risk.” She put as much venom into her words as she could muster. … “Tell me,” he began, “how do you know that monster was the monster I was hunting?”"
 **中文理解**：她把毒液灌进每个字：你该在南方林子猎的那只怪物？它袭击了我的村庄——死了人，还有更多人处在危险里；他喝了口酒凑近栏杆，反问：告诉我，你怎么知道那只怪物，就是我猎的那只？她质问的是失职，他拆掉的是前提。
