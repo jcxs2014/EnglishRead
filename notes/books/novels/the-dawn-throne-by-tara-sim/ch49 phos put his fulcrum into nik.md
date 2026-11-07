@@ -26,7 +26,7 @@ modified: "2026-11-06"
 **中文理解**：「我没事。」三个词的兄弟手语，由一根被拽动的右耳翻译。Nikolas 矛穿神颅后落回空中，Rian 隔着灼目的光认出了那个眼神——于是耳语变成了唇语。兄弟间的旧暗号在本章成为唯一可靠的通讯。
 **关键词**：all right
 **为什么这样写**：以「耳语」替代对话——光的战场语言不通，只有童年的暗号可用；「all right」的敷衍恰是它最大的谎言，双方都心知肚明。
-**读者视角提示**：这根被拽的耳朵是全书第一次出现的兄弟暗号——正因为从未用过，它才可靠。从「我没事」的敷衍到「我没事」的确认，隔着一整本书的伤。
+**读者视角提示**：这根被拽的耳朵的暗号语法在第二十二章就立过（他拽右耳、无声报平安），本章它第一次在战场的光暴里完成同款通讯——旧暗号成了唯一可靠的频道。从「我没事」的敷衍到「我没事」的确认，隔着一整本书的伤。
 
 > **原句 3:** "Weaken the throne, then weaken the body."
 
@@ -85,7 +85,7 @@ modified: "2026-11-06"
 | acrid | 辛辣刺激的 | Cloying honey and acrid salt. |
 | cloying | 甜腻得发闷的 | Cloying honey and acrid salt. |
 | repercussions | 后果、反响 | it’s only right we deal with the repercussions. |
-| extinction | 灭绝 | A thousand extinction events in a single drop of ichor. |
+| fissure | 裂口、裂缝 | The force of it made a fissure of Phos’s chest, a spreading trench that opened to the madness of a god’s internal substance. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -99,8 +99,8 @@ modified: "2026-11-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | spear | 矛 | Nikolas yanked the Sunbringer Spear out of Phos’s head and phased away, hovering in the air. |
-| akimbo | 双手叉腰 | lying akimbo in the wreckage. |
-| smoke | 烟 | Black blood that smoked and hissed when it hit the floor. |
+| hoarse | 嘶哑的 | “Why was it only me and Ulshära?” he had to clear his ragged throat; he had screamed himself hoarse during the aftershocks of Phos’s death. |
+| smoke | 烟 | The blade dripped black blood that smoked and hissed when it hit the floor. |
 
 ## 一句话总结
 兄弟合击终结了神的肉身——Rian 的枪、Nikolas 的矛、Risha 的镰各还了一笔债；而胜利的帐本翻到最后一页时，Taesia 用六个词改写了全书的地理：Phos 的 fulcrum 不在王座、不在矛里——在 Nikolas 的身体里。
