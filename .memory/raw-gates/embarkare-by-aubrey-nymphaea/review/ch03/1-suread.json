@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch03",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "章首正要告诉 Lucas 遇上兜帽人——惨叫划破夜空（转折）；Lucas 拉她躲避命她回家，她口头答应却抗命",
+   "anchor": "but he was already wrapping his arm around her and pulling her next to a darkened cottage and out of sight.",
+   "start": 1371,
+   "end": 1478
+  },
+  {
+   "fact": "Bernice 家门板脱铰链；黑色利爪扒门框，外露利齿、通体黑眼、非人非兽的巨兽现身",
+   "anchor": "Heavy footfalls trudged through the home a moment before a black, clawed hand clung to the doorframe.",
+   "start": 3071,
+   "end": 3172
+  },
+  {
+   "fact": "怪兽把 Bernice 砸在 Andra 面前——额头淌血探不到生命迹象；她的风攻击旋即熄灭",
+   "anchor": "The monster ripped something from over its shoulder and slammed it onto the ground between them with a sickening crunch.",
+   "start": 4213,
+   "end": 4333
+  },
+  {
+   "fact": "Lucas 三箭同时钉进怪兽肩部；数十名防御队员赶到巷战",
+   "anchor": "Three arrows planted themselves simultaneously into the firm muscles of the monster",
+   "start": 4877,
+   "end": 4960
+  },
+  {
+   "fact": "怪兽吐黑雾灌进 Bernice 喉中——被附身重新站起，双眼变黑",
+   "anchor": "The black vapor slid down Bernice’s throat.",
+   "start": 6714,
+   "end": 6757
+  },
+  {
+   "fact": "附身 Bernice 掐喉提空，称她 Cecilia 光女巫之女、要偿母罪——母亲之名 Cecilia 首次揭晓",
+   "anchor": "“Daughter of Cecilia the Light Witch,” she began again, “it is time you pay for your mother’s sins.”",
+   "start": 7784,
+   "end": 7884
+  },
+  {
+   "fact": "恶灵命她去\"一切开始与结束之地\"——背叛王座上 Vasara 等她（Vasara 之名首现）",
+   "anchor": "You must journey to the place where it all began, and where it ended. Upon a throne of betrayal, Vasara awaits your arrival.",
+   "start": 8910,
+   "end": 9034
+  },
+  {
+   "fact": "限冬至月出前到场受审，否则每天屠村中一人",
+   "anchor": "You have until moonrise on winter solstice to appear for your judgement.",
+   "start": 10474,
+   "end": 10546
+  },
+  {
+   "fact": "Bernice 夺回身体告白后亲手把刀刺进自己腹部；黑雾逃出另寻宿主，巨兽遁入黑夜",
+   "anchor": "With trembling hands, Bernice plunged the blade into her abdomen.",
+   "start": 11406,
+   "end": 11471
+  },
+  {
+   "fact": "转场 Bernice 幸存（淤伤+缝合刺伤）；Fergal 证实母亲死时超过一百岁",
+   "anchor": "Did you say before the great war? That means she would have been over one hundred years old when she died.",
+   "start": 13412,
+   "end": 13518
+  },
+  {
+   "fact": "核心真相：母亲就是传说中决战对抗 Edgeron 的光女巫；Edgeron 就读东北海岸学院=开始与结束之地；Fergal 年岁成谜",
+   "anchor": "Your mother was the light witch that stood against Edgeron in the final battle.",
+   "start": 14782,
+   "end": 14861
+  },
+  {
+   "fact": "章末：不顾反对宣布独行赴约；Lucas 怒斥她不会用全部元素不练格斗\"一天就会被猎杀\"——决裂摔门",
+   "anchor": "Andra stormed past the man she called her best friend and out the door.",
+   "start": 17993,
+   "end": 18064
+  }
+ ],
+ "note": "T3 深审 R1：素读由独立子代理只读 text/ 产出（先素读后开 md），suread 全锚点命中"
+}

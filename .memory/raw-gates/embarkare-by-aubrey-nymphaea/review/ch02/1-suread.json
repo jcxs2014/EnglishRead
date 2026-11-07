@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch02",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "篝火会 Lydia 跳进怀里喊 my friend，称靠她的魔法才熬住不睡",
+   "anchor": "“My friend!” An excited squeal caught Andra’s attention just before a small child jumped into her lap.",
+   "start": 980,
+   "end": 1082
+  },
+  {
+   "fact": "Lydia 问 Lucas 是谁，Andra 介绍表亲关系；Lucas 吻 Lydia 手背",
+   "anchor": "“This is Lucas. He’s my cousin.”",
+   "start": 1752,
+   "end": 1784
+  },
+  {
+   "fact": "Lucas 父亲自报家门 Fergal——父子/叔侄关系首次确立",
+   "anchor": "“I’m Fergal”—her uncle placed a hand on his chest—“and I have the privilege of sharing an important story with you tonight.",
+   "start": 4605,
+   "end": 4728
+  },
+  {
+   "fact": "纪念日由来：一百年前击败黑暗的光女巫（a century）",
+   "anchor": "The story of the light witch that defeated the darkness a century ago.",
+   "start": 4859,
+   "end": 4929
+  },
+  {
+   "fact": "故事主角 Edgeron：本就强大能操纵阴影黑暗却贪求更多；光暗大战后一位光女巫独自站出",
+   "anchor": "His name was Edgeron. He was incredibly powerful to begin with, containing the ability to control shadows and darkness.",
+   "start": 6667,
+   "end": 6786
+  },
+  {
+   "fact": "讲古时她脑中浮现不属于她的异象（世代相传画面）——能力首次展现；村猫 Gaya 跳上膝头",
+   "anchor": "Andra gasped as unfamiliar images floated through her mind. They were not her memories",
+   "start": 6410,
+   "end": 6496
+  },
+  {
+   "fact": "黑袍人压低兜帽露胡茬下颌与狞笑后没入树中；她追进树林",
+   "anchor": "He lowered his hood just enough to reveal a strong jaw dusted with stubble and a wicked grin, and swiftly he disappeared into the trees.",
+   "start": 10566,
+   "end": 10702
+  },
+  {
+   "fact": "\"Careful, love\"+要她跑+狞笑低语 Run；倒数 Five-Four-Three-Two-One 追捕",
+   "anchor": "His grin was feral as he whispered, “Run.”",
+   "start": 13009,
+   "end": 13051
+  },
+  {
+   "fact": "倒数结束从头顶树枝落下扣腰拉回胸前——\"That was far too easy\"",
+   "anchor": "The man dropped from the branches above and onto the ground behind her, placing his large hands around her waist",
+   "start": 14025,
+   "end": 14137
+  },
+  {
+   "fact": "自述大陆最好猎人，受命来此区处理某物：\"村里有个东西，我要它\"",
+   "anchor": "I’m the best hunter on this continent, and I’ve been requested to deal with something within this region.",
+   "start": 15944,
+   "end": 16049
+  },
+  {
+   "fact": "她反驳领地内近二十年（two decades）没怪物、防御队有保障",
+   "anchor": "A monster hasn’t been sighted in our territory for nearly two decades. Our defensive teams have ensured that.",
+   "start": 15676,
+   "end": 15785
+  },
+  {
+   "fact": "章末：吻手背道别 Stay safe 后消失；余烬与皮革气味是唯一凭证",
+   "anchor": "Her strangers’ lingering smell of embers and leather the only proof that he had been there at all.",
+   "start": 17403,
+   "end": 17501
+  }
+ ],
+ "note": "T3 深审 R1：素读由独立子代理只读 text/ 产出（先素读后开 md），suread 全锚点命中"
+}
