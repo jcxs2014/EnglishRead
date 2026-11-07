@@ -1,0 +1,68 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch30",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch30_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "章首：Vasara 打发 Bron 独留 Andra——她提谈判\"用自己换 Lucas 和 Rayner\"",
+   "anchor": "Andra watched through swollen eyes as Vasara relieved her henchman of his duties",
+   "start": 166,
+   "end": 246
+  },
+  {
+   "fact": "毁灭性问句：村庄几个月前就已被毁？——真假无法验证；她只补\"南方树林真能打\"",
+   "anchor": "Truly believe you could protect a village that was destroyed months ago?",
+   "start": 1247,
+   "end": 1319
+  },
+  {
+   "fact": "\"该归还了\"：弹指让 Lucas 尸体悬浮扭断——四肢逐一折断下颌脱臼如提线木偶",
+   "anchor": "Another snap of Vasara’s fingers had Lucas’s unconscious form rising upward through the frozen tunnel of stone",
+   "start": 2501,
+   "end": 2611
+  },
+  {
+   "fact": "黑雾从 Lucas 口中退出冲上塔顶——躯体砸落：眼无神皮腐恶臭；Lucas 早就死了",
+   "anchor": "a black vapor exited through his mouth and gathered in the cold space in front of him",
+   "start": 3966,
+   "end": 4051
+  },
+  {
+   "fact": "爬到 Lucas 身边——呕吐不止；\"Lucas was dead.\"躯体早已开始腐坏",
+   "anchor": "The stench surrounding him now made sense; his body was decomposing.",
+   "start": 10491,
+   "end": 10559
+  },
+  {
+   "fact": "强制回放记忆：袭村夜过去 Andra 风法无效——黑雾钻入 Bernice 体内（Bernice 掐喉说通牒）",
+   "anchor": "she was unsuccessful as the black vapor raced into Bernice’s body.",
+   "start": 6277,
+   "end": 6343
+  },
+  {
+   "fact": "记忆续：Lucas 箭无致命——爪穿腹+咬穿肩被甩上砖墙",
+   "anchor": "stabbing elongated claws through the center of Lucas’s abdomen, pulling Lucas close to him as he snarled in his face.",
+   "start": 7272,
+   "end": 7389
+  },
+  {
+   "fact": "真 Lucas 遗言：独自咳血喊 Andra 她没听见——\"对不起\"\"我爱你，cousin\"咽气",
+   "anchor": "“I love you, cousin,” Lucas whispered to the night.",
+   "start": 8673,
+   "end": 8724
+  },
+  {
+   "fact": "交接仪式：黑雾从 Bernice 尸体钻进 Lucas——骨复位走进黑暗；\"It hadn't been Lucas all along.\"",
+   "anchor": "the black vapor that had inhabited Bernice’s body rush into Lucas’s. His eyes opened, black and glaring",
+   "start": 8917,
+   "end": 9020
+  },
+  {
+   "fact": "章末：Gerrick 活着满脸悔意现身——\"I'm so sorry, witch\"",
+   "anchor": "He lowered his hood, and with regret etched into every crevice of his features, he looked at her.",
+   "start": 16031,
+   "end": 16128
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
