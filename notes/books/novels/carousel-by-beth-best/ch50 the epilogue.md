@@ -22,29 +22,26 @@ modified: "2026-11-06"
 
 > **原句 2:** "“She is happy,” Drake states. “Her brother is alive, and has been here, in Rhavna, all week.”
 >
->
 > “Eric’s alive?” Cosmer grins crookedly. “That’s amazing.” He tilts his head, smile fading. “There’s a ‘but’ coming, isn’t there?”
->
 >
 > Drake looks at him, hard. “She is wearing a ribbon in her hair,” he starts, in a remorseful tone. “A ribbon she only began wearing when⁠—”
 >
->
 > Cosmer’s face drains of any remaining colour. His mouth parts.
->
 >
 > But, slowly, he shakes his head.
 >
->
 > “Could just be coincidence.”
->
 >
 > Drake flinches. “She is picking you flowers as we speak.”
 >
->
 > Cosmer blinks, twice. “Picking me flowers?”
 >
->
 > “She knows you are here. She knows you are unwell. She is picking you flowers.”"
+**中文理解**：“她很幸福，”德雷克说，“她的弟弟还活着，这周一直在拉夫纳。”“埃里克活着？”科斯默歪着嘴笑，“太好了。”他歪头，笑容消失：“接下来该说‘但是’了吧？”德雷克严肃地看着他：“她头发上系着丝带。那条丝带是她从——”科斯默脸色瞬间煞白，嘴巴微张，但慢慢摇头：“也许只是巧合。”德雷克一怔：“她现在正在给你采花。”科斯默眨了眨眼：“给我采花？”“她知道你在这里，知道你不舒服。她在给你采花。”
+**关键词**：She is happy / ribbon in her hair / picking you flowers
+**为什么这样写**：丝带和采花是记忆被抹去后残留的痕迹。阿拉不记得爱，却还保留着温柔的本能。
+**读者视角提示**：读者会感受到 bittersweet。阿拉的记忆被改写，但某些情感似乎仍以模糊的方式存在。
+
 
 > **原句 3:** "“You knew exactly how she would react when you broke things off.”
 >
@@ -86,6 +83,11 @@ modified: "2026-11-06"
 >
 >
 > “I would be,” Cosmer retorts. “If I was that angry at her. She had to believe it.”"
+**中文理解**：“你很清楚分手时她会怎么反应。”“当然。”“你也猜到她可能会让我做什么，”德雷克指了指床，“以及她可能会对你做什么。”“当然，”科斯默声音更轻，“我了解她。我爱她。”他眯起眼忍住泪水，不能一直为失去哭泣。“你甚至知道她会拒绝求婚——”“显然。”德雷克抬起下巴：“你对她没必要那么刻薄。”指责虽未明说，却清晰可见：你为什么要伤害她？“如果我真那么生她的气，我就会那样，”科斯默反驳，“她必须相信。”
+**关键词**：I know her. I love her / She had to believe it
+**为什么这样写**：真相揭开：科斯默的伤人言语是计划的一部分。他用最残忍的方式让阿拉选择抹去痛苦，从而获得“幸福”的未来。
+**读者视角提示**：读者会重新理解 ch46-ch47 的冲突。科斯默不是崩溃失控，而是在做出最痛苦的牺牲。
+
 
 > **原句 4:** "Drake strides over to the bed, pulling at the key on the cord that had been tucked under his shirt. He takes it off his neck and hands it over. “Pod 57. When the time is right.” “Rike’s ship?” “The only one left. He won’t be needing it now.” “Thank you.” Cosmer places the key around his own neck. Fidgets with it distractedly. “Where will you go?” Drake asks, voice level. “To bury my mother. And then to Belemy, to return Riss’ belongings to her family, and tell them of her death. After that, I don’t know. I’d like to see Lartos – the Home of Tech, after all. But the world just goes on, and on, doesn’t it?” Cosmer shrugs again. “Maybe I’ll go everywhere. Leave me plenty of osimidite.”"
 **中文理解**：德雷克走到床边，从衬衫下拉出绳上的钥匙，摘下来递给科斯默。“57号舱。时机到了就走。”“瑞克的船？”“唯一剩下的一艘。他现在用不上了。”“谢谢。”科斯默把钥匙挂到自己脖子上，心不在焉地拨弄着。“你要去哪儿？”德雷克平静地问。“去埋葬我母亲。然后去贝莱米，把瑞斯的遗物还给她家人，告诉他们她的死讯。之后我不知道。我想看看拉托斯——毕竟是科技之乡。但世界一直延续下去，不是吗？”科斯默又耸肩，“也许我会到处走走。给我留够 Osimidite 就行。”
