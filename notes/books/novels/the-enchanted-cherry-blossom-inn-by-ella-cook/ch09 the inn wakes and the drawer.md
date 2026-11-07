@@ -67,7 +67,7 @@ modified: "2026-11-07"
 
 **中文理解**：这个词把 Jamie 的注意力从云端拽了回来。他真希望能告诉她——最好是在两个人都没被施咒的情况下。可他知道那只会带来麻烦，于是换了话题。
 
-**关键词**：snapped his attention、wished he could tell her、bespelled、changed the subject
+**关键词**：snapped Jamie’s attention、wished he could tell her、bespelled、changed the subject
 
 **为什么这样写**：「It's magical」这句她随口说的话，是全章最锋利的一下：她说对了，而他说不出口。作者用「bespelled」这个被动语态，暗示「说真话」在这本书里是一种需要批准的许可，不是勇气问题。
 

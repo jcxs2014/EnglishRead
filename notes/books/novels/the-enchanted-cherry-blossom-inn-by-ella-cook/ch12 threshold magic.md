@@ -77,7 +77,7 @@ modified: "2026-11-07"
 
 **中文理解**：「我不想说得太狠」——Rayenne 的语气仍然温和——「但你怎么看待它，其实不太重要。它就像你的眼睛颜色一样，是你的一部分。你的魔法一直是指引，悄悄把你引向一份让你充实的职业。而它确实让你充实，对吧？」
 
-**关键词**：too harsh、fairly irrelevant、eye colour、vocational
+**关键词**：too harsh、fairly irrelevant、eye colour、vocation
 
 **为什么这样写**：全书最不留情面的一句安慰：她不给 Amrita「你可以选择不接受」的台阶，而是把魔法降级成生理事实——眼睛颜色。紧接着用一个问句把主动权交回去（「And it has, right?」），让她自己承认这份职业是真的让她快乐。
 
