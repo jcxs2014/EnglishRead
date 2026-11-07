@@ -1,0 +1,61 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "Amrita 开车前往 Hudsbury，晴天里突然涌出大雾，导航也失灵了。",
+   "anchor": "hit fog that seemed to have rolled out of a perfectly blue sky",
+   "start": 113,
+   "end": 175
+  },
+  {
+   "fact": "Rayenne 肩上停着白喜鹊 Lunar，在路口替 Amrita 指路去 Jamie 的办公室。",
+   "anchor": "You want to turn right here, drive past the church, and turn left after the library.",
+   "start": 2155,
+   "end": 2239
+  },
+  {
+   "fact": "Rayenne 临走说：时候到了你自然会找到你要找的东西，这里大多数人都是这样。",
+   "anchor": "You would have found what you were looking for when the time was right.",
+   "start": 2536,
+   "end": 2607
+  },
+  {
+   "fact": "Amrita 看图纸后指出入口坡道太陡，Sylvie 体力衰退后会越来越难进门。",
+   "anchor": "I think the gradient is far too steep",
+   "start": 7471,
+   "end": 7508
+  },
+  {
+   "fact": "她的手指划过图纸时 Jamie 的魔法被激活，他感觉自己的天赋像早就在等她。",
+   "anchor": "as if he’d been waiting to meet her",
+   "start": 9233,
+   "end": 9268
+  },
+  {
+   "fact": "Amrita 主张无障碍设计不该显得像道歉，应该融入病人的生活与建筑。",
+   "anchor": "accessibility shouldn’t feel apologetic",
+   "start": 9589,
+   "end": 9628
+  },
+  {
+   "fact": "Jamie 办公室里的小精灵不断捣乱，他一边改图一边试图瞒过 Amrita。",
+   "anchor": "the increased mutterings coming from under his desk",
+   "start": 16299,
+   "end": 16350
+  },
+  {
+   "fact": "晚餐时 Jamie 说出关于 Hudsbury 的那句老话：不是大多数人会找的地方，却是需要时总会找到的地方。",
+   "anchor": "It’s not a place most people seek out. But it’s always somewhere you find when you need to be here.",
+   "start": 24032,
+   "end": 24131
+  },
+  {
+   "fact": "送她上车前两人有过一次几乎接吻的瞬间，Jamie 回办公室后一直想着它。",
+   "anchor": "the non-kiss that kept playing in his mind",
+   "start": 32452,
+   "end": 32494
+  }
+ ]
+}
