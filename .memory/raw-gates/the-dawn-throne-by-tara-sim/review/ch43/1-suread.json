@@ -1,0 +1,49 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch43",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch43_iv.txt",
+ "facts": [
+  {
+   "fact": "骨林重逢：Risha 携 amalgam 拦 Taesia——「I’m not here to condemn you, Taesia. I'm here to help you.」——「Because I get it now...Everything you did to try to change a corrupt system.」",
+   "anchor": "I’m not here to condemn you, Taesia.",
+   "start": 4031,
+   "end": 4067
+  },
+  {
+   "fact": "fulcrum 情报互递：「They're split between a physical component and a spiritual one. The physical component is in the throne. The spiritual one… It might be in the Sunbringer Spear. It might not.」——Taesia 悟 Starfell 为何不可被附体。",
+   "anchor": "It’s likely both.",
+   "start": 4526,
+   "end": 4543
+  },
+  {
+   "fact": "二十年同框：三段童年排比（巷中复活鼠/图书馆禁书/宴影偷酒）——「They were a god's general and a vengeful wraith.」「What happened to you?」",
+   "anchor": "eight feet and twenty years apart.",
+   "start": 5981,
+   "end": 6015
+  },
+  {
+   "fact": "西门诀别：Cosima 抗命随行——「You know your fire doesn't hurt me anymore. I’m not lettin’ you do this alone.」——Angelica 封梯独下。",
+   "anchor": "You know your fire doesn’t hurt me anymore.",
+   "start": 7537,
+   "end": 7580
+  },
+  {
+   "fact": "误伤转折：Ulma 划开 Cosima 肋——「It was not Deia’s command that opened the third eye, but hers.」——风卷二人与敌群分离——「reduced him to ash」（Rorik 灰化）。",
+   "anchor": "It was not Deia’s command that opened the third eye, but hers.",
+   "start": 12635,
+   "end": 12697
+  },
+  {
+   "fact": "神之锻炉：「The forge was inside her. She used it to make herself a weapon」——「If her protection always meant destruction, then at least she could aim that devastation at those who most deserved it.」",
+   "anchor": "The forge was inside her.",
+   "start": 14264,
+   "end": 14289
+  },
+  {
+   "fact": "收束三连：「It felt like it wasn't enough. / It felt like she should have mourned. / It felt even better than her violin.」——掌印止痛——「Maybe Angelica could become a mortal god.」",
+   "anchor": "Maybe Angelica could become a mortal god.",
+   "start": 16433,
+   "end": 16474
+  }
+ ]
+}
