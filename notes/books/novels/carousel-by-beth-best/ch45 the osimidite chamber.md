@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "The sight of it makes me flinch. Because it’s evidence that what I was praying so desperately wouldn’t be true, is. Wasting no time, I start clambering down the rusting metal ladder inside it. A musty scent fills my nostrils as I descend into the darkness, a faint humming in my ears. I’d thought the brig and baths were hot on the deck above. But the temperature is excruciating down here. Like heading into a furnace, or like this really is hell. And the closer I get to the bottom of the ladder, the more I’m aware of a thin mist surrounding me. I realise, probably too late, that it must be escaped osimidite. Remembering Cosmer said inhaling these traces was how he got addicted, I pull my blouse over my nose."
 **中文理解**：那景象让我一缩，因为它证明了我拼命祈祷不会成真的事已经成真。我立刻顺着生锈的金属梯子爬下去。霉味扑鼻，耳中嗡嗡作响。我以为上层的禁闭室和浴室已经够热了，但这里简直像进了熔炉，或者真的是地狱。越往下爬，周围的薄雾越浓。我意识到这可能是逸出的 Osimidite，想起科斯默说过他就是这样上瘾的，赶紧把衬衫拉到鼻子上。
-**关键词**：a gateway to hell / excruciating / escaped osimidite
+**关键词**：this really is hell / excruciating / escaped osimidite
 **为什么这样写**：Osimidite 室被写成地狱般的空间，暗示科斯默可能在这里遭遇了最坏的结果。
 **读者视角提示**：读者会和阿拉一样紧张。这个房间象征着成瘾和毁灭，科斯默独自进入这里，后果不堪设想。
 
@@ -49,7 +49,7 @@ But then I do know.
 
 The airlock. I’d go straight to the airlock."
 **中文理解**：我突然冒出一个此前从未想过的念头，一个可怕却可能成真的念头，和这里的高温一样难以承受。如果他死了怎么办？“科斯默？”我尖声喊道。没有回应。我的心跳加速，呼吸变得急促。我祈祷姐妹们别让我发现他死了。如果真是那样，我不知道自己会怎么办。但我知道。气闸。我会直接去气闸。
-**关键词**：What if he’s dead / I’d go straight to the airlock
+**关键词**：What if he’s dead / straight to the airlock
 **为什么这样写**：阿拉想到如果科斯默死了，她也会随他而去。这呼应了她之前在气闸外差点牺牲的场景，也显示了她对科斯默的爱有多深。
 **读者视角提示**：读者会感受到阿拉的绝望。她已经失去太多，不能再失去科斯默。
 > **原句 3:** "And that’s when I finally find him. He’s slumped against the back of it. No mask. Eyes shut and mouth slightly parted. He’s kicked his boots off, and now he’s barefoot. At first glance, I could convince myself he’s just fallen asleep. But there are too many things I don’t like about the scene. The way he looks paler than ever. The way his legs are awkwardly splayed. He almost blends in with the pipes with his lean, pale silhouette and copper hair. Just another part of the tank. All of me wants to run to him. I know I should run to him. But instead, I slow down. Take one step at a time. Because, what if. What if? At least, in these seconds until I reach him, he could still be alive. At least, in these seconds, I still have hope. But it’s bleeding out of me like a valve in my own heart has been turned."

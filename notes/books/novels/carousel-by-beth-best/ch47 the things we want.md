@@ -40,7 +40,7 @@ But I can still help him.
 
 I sound heartless as I say, “You’re going to go to the infirmary now. You will tell the medic you are an osimidite addict⁠—”"
 **中文理解**：“既然我们不在一起了，”我慢慢说，“那我再‘利用’你一次也不会内疚了。”——这个词让我恶心。他皱眉：“什么？”我握紧拳头，余光里魔法的火花在气体微粒间跳动。我不能直接终结他的成瘾，但我还能帮他。我冷酷地说：“你现在去医务室。告诉医务官你是 Osimidite 成瘾者——”
-**关键词**：playing you / one more time / I can still help him
+**关键词**：playing you / one more time / make you love sobriety
 **为什么这样写**：阿拉用“利用”这个词来掩饰自己的痛苦。她知道这是最后一次能为科斯默做的事。
 **读者视角提示**：读者会理解她的矛盾。她用魔法控制他，是为了救他，却也侵犯了他的意志。
 > **原句 3:** "Softer, a single tear sliding down my cheek, I say, “I can’t make you hate osimidite. But I can make you love sobriety. And that’s what I want you to do. You will chase it. You will look at it like you do the sky. You will think of it the way you once thought of me.” I take another breath. Close my eyes. And wait. The familiar click sounds out in the back of my mind."
