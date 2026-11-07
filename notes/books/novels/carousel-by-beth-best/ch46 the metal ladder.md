@@ -26,24 +26,70 @@ modified: "2026-11-06"
 **为什么这样写**：阿拉对德雷克的感情复杂而矛盾。她厌恶他带来的痛苦，却也承认他让自己变得强大，并对他怀有同情。
 **读者视角提示**：读者会看到阿拉内心的挣扎。她和德雷克之间不是简单的爱恨，而是被羁绊和命运纠缠的复杂关系。
 
-> **原句 3:** "“Drake?” I ask, my voice shaking. The scene freezes. One at a time, the doctors and inmates disappear like they’re being plucked out from the image. The cells themselves are warping, spiralling, like a wheel is turning and the world has been caught in its prongs. “Drake,” I say again. “It’s okay—” I’m interrupted by the sound of clinking against metal – tapping – and a girl crying. She sounds so young. Drake, she says. Is that you? Are you still there? And I’m being pushed back. I’ve seen something he didn’t want me to see. The compound. He wasn’t the only captive, because these people – other Rhavnans – were being bled, too."
+> **原句 3:** "“Drake?” I ask, my voice shaking.
+
+
+The scene freezes.
+
+
+One at a time, the doctors and inmates disappear like they’re being plucked out from the image. The cells themselves are warping, spiralling, like a wheel is turning and the world has been caught in its prongs.
+
+
+“Drake,” I say again. “It’s okay⁠—”
+
+
+I’m interrupted by the sound of clinking against metal – tapping – and a girl crying. She sounds so young. Drake, she says. Is that you? Are you still there?
+
+
+And I’m being pushed back.
+
+
+I’ve seen something he didn’t want me to see.
+
+
+The compound.
+
+
+He wasn’t the only captive, because these people – other Rhavnans – were being bled, too."
 **中文理解**：“德雷克？”我声音发颤地问。画面冻结，医生和囚犯一个个消失，牢房扭曲旋转，像被卷入转动的轮子。“德雷克，”我又说，“没事的——”我被金属敲击声和一个女孩的哭声打断。她听起来很年轻，说：“德雷克，是你吗？你还在吗？”然后我被推了出去。我看到了他不想让我看到的东西。收容所。他不是唯一的囚犯，其他拉夫纳人也在被抽血。
 **关键词**：The scene freezes / I’m being pushed back / He wasn’t the only captive
 **为什么这样写**：阿拉窥见德雷克最深的创伤。他童年的痛苦和同情让德雷克的形象更加立体，也解释了他为何如此冷酷。
 **读者视角提示**：读者会对德雷克产生新的理解。他不是天生的暴君，而是在残酷环境中长大的受害者。
-
 > **原句 4:** "“Because this is all fucked. Do you not see that? I’m going to a country where I don’t even speak the language. My mother is dead. Riss is dead. Our village is ash. My ship is gone – all the ships are gone. All I can think about is osimidite again. And all of it is your fault!” Time stretches out. It’s infinite, and it’s cruel. Cosmer wavers in and out in front of me. He’s standing under a light now, particles of osimidite lilting around his head like fireflies. “None of that is my fault,” I say, cracked. He looks up at me with those dull eyes with nothing but blame. Like it was me that drained the nutrients in them. Sucked them dry."
 **中文理解**：“因为这一切都他妈完了。你看不出来吗？我要去一个我连语言都不会说的国家。我母亲死了，瑞斯死了，我们的村子成了灰烬，船没了——所有船都没了。我满脑子又都是 Osimidite。而这一切都是你的错！”时间被拉长，无限而残酷。科斯默在我面前晃动，站在光下，Osimidite 的微粒像萤火虫一样在他头顶飘舞。“这些都不是我的错，”我声音嘶哑地说。他用那双黯淡的眼睛看着我，眼里只有责备，仿佛是我吸干了他眼里的光。
 **关键词**：all of it is your fault / nothing but blame / Sucked them dry
 **为什么这样写**：科斯默在痛苦和药物影响下把所有愤怒都倾泻在阿拉身上。他不是理智的，但他的痛苦是真实的。
 **读者视角提示**：读者会心疼两人。科斯默在崩溃边缘，阿拉被最爱的人指责，却无力辩解。
 
-> **原句 5:** "“From where I’m standing, Ara, it sort of looks like it is. I’m completely ruined while you get to go home – your real home – and be the queen of the man whose name you say in your sleep.” My foot jerks off the rung like a reflex. The movement almost makes me slip. I’m close to sobs, even with the traces of osimidite calming me, blocking me from feeling the sting of his words fully. “I don’t say—” “You did, Ara,” he says, in a lifeless way that will haunt me forever. “You did.” So that’s what it all boils down to, under the flame. He’s angry about everything else. He blames me for so much. But it’s something I had no control over at all that’s unforgivable to him. I’ve made many mistakes in my life. I never thought falling asleep in the arms of someone I loved would be one of them."
+> **原句 5:** "“From where I’m standing, Ara, it sort of looks like it is. I’m completely ruined while you get to go home – your real home – and be the queen of the man whose name you say in your sleep.”
+
+
+My foot jerks off the rung like a reflex. The movement almost makes me slip.
+
+
+I’m close to sobs, even with the traces of osimidite calming me, blocking me from feeling the sting of his words fully. “I don’t say⁠—”
+
+
+“You did, Ara,” he says, in a lifeless way that will haunt me forever. “You did.”
+
+
+So that’s what it all boils down to, under the flame.
+
+
+He’s angry about everything else. He blames me for so much.
+
+
+But it’s something I had no control over at all that’s unforgivable to him.
+
+
+I’ve made many mistakes in my life.
+
+
+I never thought falling asleep in the arms of someone I loved would be one of them."
 **中文理解**：“在我看来，阿拉，事情就是这样。我彻底毁了，而你可以回家——你真正的家——去做那个你在睡梦中喊着名字的男人的王后。”我的脚猛地离开梯级，差点滑倒。即使 Osimidite 的余效让我麻木，我也快哭出来了。“我没有说——”“你说了，阿拉，”他用一种毫无生气的语气说，那声音会永远萦绕在我心头，“你说了。”原来在所有愤怒之下，最让他无法原谅的，是我在爱的人怀里睡着时喊了别人的名字。我犯过很多错，但从没想过在爱人怀里睡着会是其中之一。
 **关键词**：the man whose name you say in your sleep / You did, Ara / unforgivable
 **为什么这样写**：科斯默的嫉妒和痛苦集中在这一点上。阿拉无意识的梦话成了压垮他的最后一根稻草。
 **读者视角提示**：读者会为这对恋人的裂痕心碎。他们彼此相爱，却被命运、羁绊和创伤撕扯得遍体鳞伤。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -53,7 +99,7 @@ modified: "2026-11-06"
 | clammy | 湿冷的，黏糊糊的 | Because there is warmth under his clammy skin. |
 | comatose | 昏迷的，不省人事的 | Who will come to get us – would even find us – if we both became comatose? |
 | stagnant | 停滞的，不流动的 | The magic stays stagnant. It wants more from me. |
-| stilted | 生硬的，不自然的 | He stares at the ground. Speaks stilted. |
+| stiltedly | 生硬地，不自然地 | He stares at the ground. Speaks stiltedly. “I was not the only captive in the compound I grew up in. There were others – I believe, taken against their will – also being treated.” |
 
 ### ⭐⭐ 进阶
 
@@ -62,14 +108,14 @@ modified: "2026-11-06"
 | unresponsive | 无反应的 | Cosmer continues to lie there, pale and unresponsive. |
 | jar | 震动，使不快 | All of the muscles in my back and shoulders are straining, jarring. |
 | insinuate | 暗示，含沙射影地说 | You know I disagree. He’d been insinuating something when he said those words. |
-| unravel | 解开，瓦解 | I can feel myself unravelling. |
+| waver | 摇晃，动摇 | Cosmer wavers in and out in front of me. |
 
 ### ⭐ 常用
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | pulse | 脉搏，跳动 | A faint pulse in his wrist. |
-| ladder | 梯子 | I start clambering down the rusting metal ladder inside it. |
+| ladder | 梯子 | Wasting no time, I start clambering down the rusting metal ladder inside it. |
 | rung | 梯级，横档 | My foot jerks off the rung like a reflex. |
 | sober | 清醒的，未醉的 | Please sober up, I will him. |
 
