@@ -58,7 +58,7 @@ modified: "2026-11-06"
 |---|---|---|
 | spurning | 抛弃，拒绝 | Maybe this wind is the sound of their rage. Their spurning of me. |
 | constricting | 收紧，压缩 | My ribs are constricting. |
-| relinquish | 放弃，交出 | I push harder. Ignore the physical pain doing that brings on in me. |
+| loosen | 松开，放松 | Then I give into instinct. Inhale the nothingness through my nose. My fingers loosen from around his wrist. |
 | claw | 抓，撕扯 | I grasp an internal safety handle with my other hand, and keep to the glass so I don’t take the full force of the wind, which is still clawing at him. Trying to take him from me. |
 
 ### ⭐⭐ 进阶

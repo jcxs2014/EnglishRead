@@ -72,7 +72,7 @@ modified: "2026-11-06"
 | dazed | 茫然的，恍惚的 | I thought I was done with crying. But tears are not done with me. They leak out of me as I stagger backwards, sort of dazed. |
 | elated | 兴高采烈的，得意洋洋的 | And I’m furious. Because it’s clicked. Dezeeves is happy about all of this. Elated. |
 | rectify | 改正，弥补 | “I lost my patience. In the baths. I know I made a mistake. I have been trying to rectify it.” |
-| incessant | 不停的，连续不断的 | The palpitations in my chest are physically hurting me. |
+| persistent | 坚持不懈的，持续的 | “No one can say he isn’t persistent,” Meg states, flatly. “Who’s going to get him, then?” |
 
 ### ⭐⭐ 进阶
 

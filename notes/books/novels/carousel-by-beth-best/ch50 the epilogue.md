@@ -112,8 +112,8 @@ The accusation isn’t overt, but it’s there. Why did you hurt her?
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | exasperating | 令人恼怒的 | She’s overly helpful. Exasperating with her helpfulness. |
-| garrotte | 用绞索勒死 | Before, Cosmer would have been strongly considering garrotting him with that ridiculous silk scarf knotted at his neck. |
-| remorseful | 懊悔的，悔恨的 | “A ribbon she only began wearing when—” Drake starts, in a remorseful tone. |
+| garrotting | 勒杀，绞杀 | Before, Cosmer would have been strongly considering garrotting him with that ridiculous silk scarf knotted at his neck. |
+| remorseful | 懊悔的，悔恨的 | Drake looks at him, hard. “She is wearing a ribbon in her hair,” he starts, in a remorseful tone. “A ribbon she only began wearing when⁠—” |
 | sobriety | 清醒，节制 | He will chase sobriety the way some people chase dreams. |
 
 ### ⭐⭐ 进阶

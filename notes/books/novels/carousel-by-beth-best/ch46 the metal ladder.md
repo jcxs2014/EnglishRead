@@ -99,7 +99,7 @@ I never thought falling asleep in the arms of someone I loved would be one of th
 | clammy | 湿冷的，黏糊糊的 | Because there is warmth under his clammy skin. |
 | comatose | 昏迷的，不省人事的 | Who will come to get us – would even find us – if we both became comatose? |
 | stagnant | 停滞的，不流动的 | The magic stays stagnant. It wants more from me. |
-| stiltedly | 生硬地，不自然地 | He stares at the ground. Speaks stiltedly. “I was not the only captive in the compound I grew up in. There were others – I believe, taken against their will – also being treated.” |
+| choked | 哽咽的，窒息的 | “I’ve never been more sure of anything,” he says, with a grating, choked sort of laugh. “You’ve been playing me⁠—” |
 
 ### ⭐⭐ 进阶
 
@@ -107,7 +107,7 @@ I never thought falling asleep in the arms of someone I loved would be one of th
 |---|---|---|
 | unresponsive | 无反应的 | Cosmer continues to lie there, pale and unresponsive. |
 | jar | 震动，使不快 | All of the muscles in my back and shoulders are straining, jarring. |
-| insinuate | 暗示，含沙射影地说 | You know I disagree. He’d been insinuating something when he said those words. |
+| grating | 刺耳的，令人不快的 | “I’ve never been more sure of anything,” he says, with a grating, choked sort of laugh. “You’ve been playing me⁠—” |
 | waver | 摇晃，动摇 | Cosmer wavers in and out in front of me. |
 
 ### ⭐ 常用
@@ -115,7 +115,7 @@ I never thought falling asleep in the arms of someone I loved would be one of th
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | pulse | 脉搏，跳动 | A faint pulse in his wrist. |
-| ladder | 梯子 | Wasting no time, I start clambering down the rusting metal ladder inside it. |
+| ladder | 梯子 | I haul him up to a standing position and walk us jaggedly over to the ladder. He can take steps, but barely. I’m supporting almost his full weight. |
 | rung | 梯级，横档 | My foot jerks off the rung like a reflex. |
 | sober | 清醒的，未醉的 | Please sober up, I will him. |
 

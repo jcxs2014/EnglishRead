@@ -40,7 +40,7 @@ modified: "2026-11-06"
 | musky | 麝香味的，霉味的 | Someone with strong arms, a warm, musky scent, has taken hold of me. |
 | thrashing | 剧烈挣扎，扑打 | but I’m thrashing against him. |
 | shuddering | 战栗，颤抖 | I’d been shuddering, as if being rocked from within. |
-| respite | 暂停，喘息 | I wonder if, just maybe, I’m dead. |
+| rest | 休息，安息 | I’m laid to rest on the wooden platform. |
 
 ### ⭐⭐ 进阶
 
@@ -58,7 +58,7 @@ modified: "2026-11-06"
 | oxygen mask | 氧气面罩 | It was an oxygen mask. |
 | gasp | 喘气，倒吸气 | I try not to breathe in the gas that will hook me. |
 | faint | 昏晕，模糊的 | The world fades in and out as it goes round and round. |
-| dizziness | 头晕，眩晕 | I’m dizzy, like I’m on a carousel. I can’t get off it. |
+| dizzy | 头晕的，眩晕的 | Cosmer is slipping away from me. I’m dizzy, like I’m on a carousel. I can’t get off it. |
 
 ## 一句话总结
 

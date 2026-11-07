@@ -81,8 +81,8 @@ Then he squeezes me tightly, tucking my head under his chin.
 |---|---|---|
 | oblivion | 遗忘，湮没 | “You want oblivion. And sex means more to me than that.” |
 | grief | 悲伤，悲痛 | I’m not ready to have that conversation. |
-| despair | 绝望，失望 | I’m fucked. I’m⁠— |
-| solace | 安慰，慰藉 | It’s enough. |
+| grieve | 哀悼，悲伤 | I’m frowning. “I thought you’d want to talk about her. About everyone. We can think of a way to remember – honour them. We can grieve⁠—” |
+| comfort | 安慰，安慰感 | I’m disappointed. I so wanted to comfort him. |
 
 ### ⭐⭐ 进阶
 

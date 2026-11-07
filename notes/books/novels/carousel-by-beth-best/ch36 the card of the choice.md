@@ -68,10 +68,10 @@ modified: "2026-11-06"
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| obdurate | 顽固的，执拗的 | I’m cold. Unyielding. A sheet. |
+| unyielding | 不屈的，坚硬的 | In fact, as I walk away from the door, all of me feels metallic. I’m cold. Unyielding. A sheet. |
 | rattle | 格格作响，震动 | The door is shuddering, jangling. |
 | anguish | 极度痛苦，苦恼 | “Ara!” he howls in what I can only describe as pure anguish. |
-| irrevocable | 不可撤回的 | And I am not even finished yet. |
+| metallic | 金属般的，冰冷坚硬的 | In fact, as I walk away from the door, all of me feels metallic. I’m cold. Unyielding. A sheet. |
 
 ### ⭐⭐ 进阶
 

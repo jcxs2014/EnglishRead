@@ -98,7 +98,7 @@ modified: "2026-11-06"
 | signatories | 签署者，署名者 | I will ask you to please discuss the semantics of signatories with me at another time. |
 | chowder | 浓汤杂烩 | “The bone broth is better than the fish chowder. If you needed help choosing,” Meg says. |
 | contraption | 奇特装置，器械 | He’s near the far wall, bent over a contraption that another pilot is lying beneath while pushing against a bar loaded with weights. |
-| unnerve | 使不安，使紧张 | He is completely, unnervingly, unfazed. |
+| unnervingly | 令人不安地 | He is completely, unnervingly, unfazed. |
 
 ### ⭐ 常用
 

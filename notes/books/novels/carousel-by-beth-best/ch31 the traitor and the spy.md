@@ -92,7 +92,7 @@ modified: "2026-11-06"
 | adamant | 坚决的，坚定不移的 | Correct me if I am wrong, but you and Drake had seemed – to me, at least – adamant to begin with that you didn’t want to Integrate at all. |
 | converted | 被转化的，被改变立场的 | You’ve converted me. |
 | rummages | 翻找，搜寻 | Dezeeves rummages in his drawer. |
-| revelation | 揭示，启示 | Choose it and save yourself. Live. |
+| soulless | 没有灵魂的，冷酷的 | When he speaks again, his voice is as soulless as I believe he is. “Let’s take this conversation to my quarters.” |
 
 ### ⭐ 常用
 

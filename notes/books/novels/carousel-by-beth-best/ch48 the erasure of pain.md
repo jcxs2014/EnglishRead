@@ -45,7 +45,7 @@ modified: "2026-11-06"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | writhe | 扭动，翻滚 | In the air, our magic continues to twist and writhe. |
-| initiate | 开始，发起 | by initiating The Soulmates fortune. |
+| initiating | 开始，发起 | If we do all of that, then nothing changed, by initiating The Soulmates fortune. |
 | immense | 巨大的，极大的 | “It would still require an immense quantity of magic.” |
 | erasure | 擦除，抹去 | The Erasure of Pain |
 
