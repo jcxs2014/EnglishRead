@@ -4,64 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch12_chapter_12.txt",
  "facts": [
   {
-   "fact": "Lunar 叼来一朵粉花，Amrita 一碰到就被回忆击中（樱花、跳舞、他的手）。",
+   "fact": "Lunar 落在厨房台面上鸣叫点击，还学微波炉「哔」了一声。",
+   "anchor": "whistled and clicked happily, then beeped like the microwave",
+   "start": 1252,
+   "end": 1312
+  },
+  {
+   "fact": "Lunar 献上一朵粉花，落掌即把与 Jamie 的记忆一次性砸回来。",
    "anchor": "As soon as the pink flower hit her palm, she was slammed by memories",
    "start": 2678,
    "end": 2746
   },
   {
-   "fact": "Amrita 说即使能理解 Jamie 为何不告诉她，这件事对她仍太危险。",
-   "anchor": "It’s too dangerous. You saw how badly the magic hurt me.",
-   "start": 4513,
-   "end": 4569
+   "fact": "哭到力竭后她摸鸟头，对 Lunar 承认自己很想他。",
+   "anchor": "she reached out and rubbed the velvety-soft feathers on the bird’s head",
+   "start": 3510,
+   "end": 3581
   },
   {
-   "fact": "Jamie 对 Mia 说 Amrita 没回电话，认为她态度已很清楚。",
-   "anchor": "She hasn’t returned my call",
+   "fact": "Jamie 对 Mia 说 Amrita 没回电话、没做任何联系。",
+   "anchor": "She hasn’t returned my call, or made any effort to contact me",
    "start": 6770,
-   "end": 6797
+   "end": 6831
   },
   {
-   "fact": "Rayenne 道歉并说当时没有别的选择，否则她会受更重的伤。",
-   "anchor": "there wasn’t another choice that would have protected you from worse",
-   "start": 10926,
-   "end": 10994
+   "fact": "Rayenne 说是门房 Claude 给她开的门，她已在走廊等她。",
+   "anchor": "A very nice gentleman called Claude opened the door for me",
+   "start": 10132,
+   "end": 10190
   },
   {
-   "fact": "Amrita 回想 Hudsbury 之前的生活虽然烦但简单，她以为可以回去。",
-   "anchor": "her life had been simple",
-   "start": 11808,
-   "end": 11832
-  },
-  {
-   "fact": "Rayenne 说她的魔法一直引导她走向这份职业。",
-   "anchor": "Your magic has been your guide",
-   "start": 17356,
-   "end": 17386
-  },
-  {
-   "fact": "Rayenne 说她的魔法是「阈限型」，像导乐一样陪人度过人生转折。",
+   "fact": "Rayenne 说她的天赋是阈限魔法，像导乐陪人穿过人生转折。",
    "anchor": "threshold magic – a little like a doula",
    "start": 18189,
    "end": 18228
   },
   {
-   "fact": "Rayenne 说她可以选择从此不进 Hudsbury，一辈子不受魔法打扰。",
-   "anchor": "You could ignore it and never enter Hudsbury again",
-   "start": 19183,
-   "end": 19233
+   "fact": "隔天她打给 Katie，宣布回来帮忙，下一通电话给 Sylvie。",
+   "anchor": "I am. And I want to help. My next call will be to Sylvie.",
+   "start": 21857,
+   "end": 21914
   },
   {
-   "fact": "Amrita 决定帮忙，因为不帮的难受远大于害怕。",
-   "anchor": "Being scared was far less bad than how bad she would feel if she didn’t help.",
-   "start": 21431,
-   "end": 21508
-  },
-  {
-   "fact": "Lunar 说她们有让 Mia 与 Aiden 不必取消婚礼的计划，但需要 Amrita 帮忙。",
-   "anchor": "we need help",
-   "start": 20804,
-   "end": 20816
+   "fact": "Rayenne 靠在走廊窗边等她，而不是按门铃。",
+   "anchor": "leaning calmly against the window",
+   "start": 9819,
+   "end": 9852
   }
  ]
 }

@@ -4,64 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch10_chapter_10.txt",
  "facts": [
   {
-   "fact": "一个年轻女骑手的脚卡在马镫里，被甩出去撞在鹅卵石路面上。",
-   "anchor": "her foot caught in the stirrup",
-   "start": 766,
+   "fact": "周日两人牵手走向广场，每个路口门口他都停下来吻她。",
+   "anchor": "Amrita sighed happily as she and Jamie walked towards Hudsbury’s main square",
+   "start": 22,
+   "end": 98
+  },
+  {
+   "fact": "失控的马载着女骑手冲过，她脚卡在马镫，被甩飞砸在石板路上。",
+   "anchor": "The horse raced past, young rider flailing, her foot caught in the stirrup",
+   "start": 722,
    "end": 796
   },
   {
-   "fact": "Amrita 跪在伤者 Susan 身边，自报姓名并说明自己受过急救训练。",
-   "anchor": "My name’s Amrita. I’m trained in first aid.",
-   "start": 1069,
-   "end": 1112
+   "fact": "她不假思索跪下急救，自报受过训练，问出姓名 Susan。",
+   "anchor": "Amrita skidded to her knees by the girl before she stopped to think",
+   "start": 901,
+   "end": 968
   },
   {
-   "fact": "救治时一团白金色羽毛落上她的肩（Lunar）。",
-   "anchor": "a warm weight hit her shoulder",
-   "start": 2703,
-   "end": 2733
+   "fact": "她脱下外套盖住 Susan，只做呼吸监测与头部固定，不动伤者。",
+   "anchor": "shrugged off her coat and draped it over the girl",
+   "start": 2367,
+   "end": 2416
   },
   {
-   "fact": "她掌下涌出的暖流让 Susan 的呼吸稳定下来，并与她同步。",
-   "anchor": "Susan’s breathing stabilised, matching Amrita’s own",
-   "start": 4545,
-   "end": 4596
+   "fact": "一股热流从她掌下涌入 Susan，几次呼吸间她的呼吸稳定并与 Amrita 同步。",
+   "anchor": "heat flooded through her, a gentle, stable stream",
+   "start": 3584,
+   "end": 3633
   },
   {
-   "fact": "赶到的医生 Rissa 问她能否在搬动伤者时维持「咒语」，Rayenne 摇头示意别说。",
-   "anchor": "Can you hold on to your spell while we move her?",
-   "start": 5444,
-   "end": 5492
+   "fact": "医生 Rissa 到场，按脊柱保护流程接手，要她维持住「咒」。",
+   "anchor": "I’m Rissa. One of the doctors. Can you hold on to your spell",
+   "start": 5413,
+   "end": 5473
   },
   {
-   "fact": "Rayenne 望进她的眼睛，用多种语言命令她「放手」，Amrita 随即昏倒。",
-   "anchor": "Let go.",
-   "start": 7836,
-   "end": 7843
+   "fact": "Rayenne 用旁遮普语、英语和上百种语言命令她「放手」。",
+   "anchor": "in Punjabi, English, and a hundred other languages",
+   "start": 7741,
+   "end": 7791
   },
   {
-   "fact": "Rayenne 说她是从灰暗的世界里醒来，将能清楚看见、听见。",
-   "anchor": "You’re waking up from the grey world you’ve been living in",
-   "start": 11385,
-   "end": 11443
-  },
-  {
-   "fact": "Lunar 补充说重点不是从什么中醒来，而是醒向魔法。",
-   "anchor": "You are waking up to magic, Lunar explained.",
-   "start": 11567,
-   "end": 11611
-  },
-  {
-   "fact": "她意识到 Jamie 一直知道并瞒着她，开始怀疑两人的一切是否是精心设计的骗局。",
-   "anchor": "Had it all been fake?",
-   "start": 13128,
-   "end": 13149
-  },
-  {
-   "fact": "Rayenne 拦住想追出去的 Jamie，让她先独处。",
-   "anchor": "Let her have the space she needs.",
-   "start": 13835,
-   "end": 13868
+   "fact": "她得知 Jamie 一直瞒着她，甩开他冲出到街上。",
+   "anchor": "she yanked away and stumbled, eyes streaming, out to the street",
+   "start": 13542,
+   "end": 13605
   }
  ]
 }
