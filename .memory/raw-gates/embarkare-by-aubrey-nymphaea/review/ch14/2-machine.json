@@ -1,0 +1,404 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/ch14 gerrick and the tavern deal.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch14_chapter_14.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "But something about her stranger on the balcony from the night before crawled its way under her skin, planting a seed of",
+          "ok": true,
+          "pos": 431
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“You look like hell, girl.”",
+          "ok": true,
+          "pos": 5360
+        },
+        {
+          "text": "She choked out a laugh. “I was thinking the same thing about you, but I wasn’t about to go saying it.”",
+          "ok": true,
+          "pos": 5386
+        },
+        {
+          "text": "Gyor tipped his head back and barked out a laugh. The sound soothed her heart, like rocks falling into a lake, and she g",
+          "ok": true,
+          "pos": 5486
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“My two barmaids recently left. Sisters. Said they had to care for their dying father. You help me down here in the tave",
+          "ok": true,
+          "pos": 7311
+        },
+        {
+          "text": "Andra didn’t hesitate. “Done.”",
+          "ok": true,
+          "pos": 7526
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“This tavern is a place of refuge for all kinds of creatures and men.” He ran his hand through his short beard. “You won",
+          "ok": true,
+          "pos": 7554
+        },
+        {
+          "text": "“Yes. All forms of creatures, light and dark, travel the lonely roads of this continent. My inn provides a refuge for th",
+          "ok": true,
+          "pos": 7773
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Squinting, she tried to make out the black swirling tattoos that spanned his chest and ran down the right side of his ri",
+          "ok": true,
+          "pos": 12216
+        },
+        {
+          "text": "They covered his right arm entirely, and a chill ran down Andra’s spine as she surveyed the tattoo covered fingertips th",
+          "ok": true,
+          "pos": 12437
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I would be a really shitty hunter if I didn’t know the difference between monster and creature. And kitzek”—he gave Tor",
+          "ok": true,
+          "pos": 14263
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“You know they’re predators, right? They hunt game. They need the nutrients of a fresh kill to stay strong.”",
+          "ok": true,
+          "pos": 15137
+        },
+        {
+          "text": "Oh. Right",
+          "ok": true,
+          "pos": 15243
+        },
+        {
+          "text": "“Can a predator not have a treat every once in a while?”",
+          "ok": true,
+          "pos": 15254
+        },
+        {
+          "text": "He spoke of the kitzek, but Andra could feel his stare boring into her as she offered the bread to Torgil",
+          "ok": true,
+          "pos": 15309
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Hmm.” His eyes pinched around the corners as his low rumble filled the confined space between them. “Information comes ",
+          "ok": true,
+          "pos": 17168
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Okay.”",
+          "ok": true,
+          "pos": 17785
+        },
+        {
+          "text": "“Gerrick,” he answered, and the faintest of shadows crossed his face",
+          "ok": true,
+          "pos": 17791
+        },
+        {
+          "text": "Gerrick",
+          "ok": true,
+          "pos": 17791
+        },
+        {
+          "text": "Her mind spun with a million questions, and she grasped on to whatever she could",
+          "ok": true,
+          "pos": 17868
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Andra turned as the men approached the kitzek, discussing eating patterns and animal liberation as if they had known eac",
+          "ok": true,
+          "pos": 18985
+        }
+      ],
+      "words": 32
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Fourteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 21,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3611,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

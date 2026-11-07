@@ -1,0 +1,74 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch05",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "章首：深夜收拾行装——试吃硬奶酪、塞肉干坚果与母亲魔法书、尽量多塞药瓶",
+   "anchor": "Andra sniffed the hardened cheese, sneaking a small bite for approval before wrapping it tight in the scrap of linen.",
+   "start": 29,
+   "end": 146
+  },
+  {
+   "fact": "Bernice 炉边沉睡呼吸渐稳仍费力；叔叔表亲不信她——她不许动摇",
+   "anchor": "Not while Bernice lay sleeping by her hearth, her breaths strengthening, but still labored.",
+   "start": 480,
+   "end": 571
+  },
+  {
+   "fact": "Gaya 推下黑色小书——从未见过的另一本魔法书",
+   "anchor": "Above her, Gaya slunk across the top of the shelving, knocking a black leather-bound book at her feet.",
+   "start": 1018,
+   "end": 1120
+  },
+  {
+   "fact": "小书内页：匆促咒语+环形暗符号——母亲练过她不知道的魔法",
+   "anchor": "Incantations. Spells. But Mother didn’t practice this kind of magic, did she?",
+   "start": 1871,
+   "end": 1948
+  },
+  {
+   "fact": "留护理字条后吻别 Bernice 指节：“也许爱也能让人做最好的事”",
+   "anchor": "kissing her knuckles as she whispered, “Maybe love can also make people do the best things.”",
+   "start": 3104,
+   "end": 3196
+  },
+  {
+   "fact": "只带一袋补给、一知半解，独自连夜出发",
+   "anchor": "With nothing more than a satchel of supplies and limited knowledge of life outside her woods, Andra set off into the night.",
+   "start": 3199,
+   "end": 3322
+  },
+  {
+   "fact": "夜林异动——指尖火花照向暗处，来者是 Lucas",
+   "anchor": "she spun toward the noise as sparks blossomed from her fingertips. She held the flames high above her",
+   "start": 3528,
+   "end": 3629
+  },
+  {
+   "fact": "Lucas 摊牌：你不会留下让别人为你战为你死；质问计划是什么",
+   "anchor": "“Because you’re my best friend, and I know you.” Lucas approached her.",
+   "start": 4193,
+   "end": 4263
+  },
+  {
+   "fact": "捧脸立誓：不赞成也不让你独行；她哭着问“要是我不够格呢”",
+   "anchor": "“I may not agree with you, but I will not let you do this alone.”",
+   "start": 4974,
+   "end": 5039
+  },
+  {
+   "fact": "Lucas 演讲：Cecilia 之女、纪念日实为纪念你母亲、同样魔法在你血管",
+   "anchor": "You are the daughter of Cecilia the Light Witch, the one who conquered darkness a century ago.",
+   "start": 5312,
+   "end": 5406
+  },
+  {
+   "fact": "吹哨唤三马：Daegal 与 Tolan 同行；翻身上马回望林子盼再见",
+   "anchor": "Hooves trotted against the earth, and a lantern bobbed into view as three horses approached them.",
+   "start": 6193,
+   "end": 6290
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

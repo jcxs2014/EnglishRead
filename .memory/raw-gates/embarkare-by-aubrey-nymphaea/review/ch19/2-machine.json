@@ -1,0 +1,439 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/ch19 the honor of care.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch19_chapter_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Gently, he wiped the icy cloth across her cut forehead. She sucked in a breath at the sting but allowed him to clean the",
+          "ok": true,
+          "pos": 841
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“What is this?” he asked",
+          "ok": true,
+          "pos": 3604
+        },
+        {
+          "text": "Andra glanced down to see him studying the long, poorly stitched scar on her stomach. It was still in the healing phase,",
+          "ok": true,
+          "pos": 3628
+        },
+        {
+          "text": "“It’s a cut.”",
+          "ok": true,
+          "pos": 3917
+        },
+        {
+          "text": "“It looks fairly new.”",
+          "ok": true,
+          "pos": 3928
+        },
+        {
+          "text": "“It is.”",
+          "ok": true,
+          "pos": 3949
+        },
+        {
+          "text": "The bed creaked as Gerrick came to rest above her. One hand lay delicately on her abdomen while his determined stare fil",
+          "ok": true,
+          "pos": 3956
+        },
+        {
+          "text": "“How did you get this cut?” His voice was low, barely more than a growl",
+          "ok": true,
+          "pos": 4092
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“And do you want to know what haunts me the most?” She closed her eyes. “I wasn’t the one to kill him. I couldn’t save m",
+          "ok": true,
+          "pos": 4514
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Every witch line has grimoires passed down through the generations. It’s how we learn, how we evolve. I never knew any ",
+          "ok": true,
+          "pos": 5946
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Are you asking if you can bathe me, witch?”",
+          "ok": true,
+          "pos": 8454
+        },
+        {
+          "text": "“Yes.”",
+          "ok": true,
+          "pos": 2662
+        },
+        {
+          "text": "“It would be my honor to have you care for me.”",
+          "ok": true,
+          "pos": 8778
+        },
+        {
+          "text": "Andra started the fire beneath the tub then went back to help remove his boots. It was oddly domestic, helping him out o",
+          "ok": true,
+          "pos": 8824
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Andra.” Her name was a moan on his lips. “Please keep going.”",
+          "ok": true,
+          "pos": 10921
+        },
+        {
+          "text": "She continued to wash his hair, ensuring every bit of evidence from the evening was washed away. He was more relaxed tha",
+          "ok": true,
+          "pos": 10980
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "With only the skin left to heal, she glanced at him. She had expected him to be sleeping or watching the wound heal in a",
+          "ok": true,
+          "pos": 11768
+        },
+        {
+          "text": "For a moment, in that dark cozy room, she forgot to breathe",
+          "ok": true,
+          "pos": 12064
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Did you bag the hunter?”",
+          "ok": true,
+          "pos": 14039
+        },
+        {
+          "text": "Quentin shook with silent laughter",
+          "ok": true,
+          "pos": 14063
+        },
+        {
+          "text": "“What?” Heat crept up Andra’s cheeks as she spluttered over her words. “No. No, of course, not. It’s not what it looks l",
+          "ok": true,
+          "pos": 14099
+        },
+        {
+          "text": "“She healed me.” Gerrick’s low timbre sounded from behind her",
+          "ok": true,
+          "pos": 14219
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“No, men. They ransacked his supplies and beat him pretty badly. Said people are getting desperate out there.”",
+          "ok": true,
+          "pos": 15120
+        },
+        {
+          "text": "“Desperate?” Rayner piped in",
+          "ok": true,
+          "pos": 15229
+        },
+        {
+          "text": "“Dark monsters are increasing tenfold. They’re no longer just searching for Andra. No one is safe.”",
+          "ok": true,
+          "pos": 15278
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "They were coming for her, and they were close",
+          "ok": true,
+          "pos": 15963
+        },
+        {
+          "text": "“I will start gathering food for you to take, but you need to act swiftly. There are more clothes for you in your own ro",
+          "ok": true,
+          "pos": 16026
+        },
+        {
+          "text": "“We need to leave within the hour. Gather all you can and meet me at the horses.”",
+          "ok": true,
+          "pos": 16237
+        }
+      ],
+      "words": 63
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.63
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 28,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3025,
+    "block_target": [
+      6,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

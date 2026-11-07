@@ -1,0 +1,414 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/ch25 the pit lie and nelveens fall.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch25_chapter_25.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Blood soaked the snow covered ground while creatures, more beast than man, feasted upon the bodies of the fallen. More o",
+          "ok": true,
+          "pos": 1609
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Tears welled in Andra’s eyes as she looked into his face and saw the truth in his statement. He would not leave her, nor",
+          "ok": true,
+          "pos": 3434
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Andra.” Nelveen’s voice trembled. “They took them.”",
+          "ok": true,
+          "pos": 4770
+        },
+        {
+          "text": "Andra pulled away, glancing at the men while trying to understand Quentin",
+          "ok": true,
+          "pos": 4818
+        },
+        {
+          "text": "Quentin finished signing to Gerrick, then stumbled to the fireplace. Placing his hands on the hearth above his head, he ",
+          "ok": true,
+          "pos": 4893
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“We identified as many dark wielders as possible tonight, and I looked into all of their minds.” She glanced at Quentin.",
+          "ok": true,
+          "pos": 6775
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“What does this mean?” Andra’s words were unnaturally calm, though a weight settled in her stomach, deep and unforgiving",
+          "ok": true,
+          "pos": 7124
+        },
+        {
+          "text": "“The memories I saw are fake. Vasara must have planted false information in their minds”",
+          "ok": true,
+          "pos": 7243
+        },
+        {
+          "text": "“To keep the real location of the pit hidden,” Gerrick finished across the room. “We’ll never find it in time.”",
+          "ok": true,
+          "pos": 7335
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Surely this pain, this burden, was not meant to be borne by one person alone, and her knees cracked as they hit the hard",
+          "ok": true,
+          "pos": 7609
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“We have to go to her,” she choked",
+          "ok": true,
+          "pos": 7975
+        },
+        {
+          "text": "“What?” Gerrick swiveled to look at her, eyes aflame",
+          "ok": true,
+          "pos": 8009
+        },
+        {
+          "text": "“To Vasara. To the Northeastern Shores.”",
+          "ok": true,
+          "pos": 8061
+        },
+        {
+          "text": "“If you think I’m going to walk you straight to Vasara’s estate to be slaughtered”—he dropped to the floor in front of h",
+          "ok": true,
+          "pos": 8100
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Gerrick grabbed Andra’s face and kissed her deep and quick before shoving her through the wall",
+          "ok": true,
+          "pos": 10256
+        },
+        {
+          "text": "She felt as though she had been plunged into a river. Icy daggers caught in her chest, and she had to force air into her",
+          "ok": true,
+          "pos": 10351
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Lucas was gone",
+          "ok": true,
+          "pos": 11439
+        },
+        {
+          "text": "Rayner was gone",
+          "ok": true,
+          "pos": 11455
+        },
+        {
+          "text": "Gerrick was gone",
+          "ok": true,
+          "pos": 11472
+        },
+        {
+          "text": "“I’m here.” Nelveen held her close for only a moment, then pulled back. “Can you trust him?”",
+          "ok": true,
+          "pos": 11490
+        },
+        {
+          "text": "Andra nodded, tears welling in her eyes once more. “Yes,” she whispered",
+          "ok": true,
+          "pos": 11578
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Damn it,” Andra raced to Nelveen, squatting next to her and holding her head so it would not falter",
+          "ok": true,
+          "pos": 12874
+        },
+        {
+          "text": "The enchantress sat barely conscious. Her skin was ashen, eyes turning a frosty gray as her remaining energy seeped from",
+          "ok": true,
+          "pos": 12974
+        }
+      ],
+      "words": 49
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter Twenty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 23,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2714,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

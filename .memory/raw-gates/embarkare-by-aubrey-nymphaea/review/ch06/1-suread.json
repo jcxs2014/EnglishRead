@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch06",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "上路三夜不习惯野外；三个男人防御队出身各有分工",
+   "anchor": "They’d been traveling for three nights, and she was still not used to living on the road.",
+   "start": 332,
+   "end": 421
+  },
+  {
+   "fact": "Tolan 约十七八岁最年轻；清晨猎兔烤做早饭",
+   "anchor": "Tolan was one of the younger members of the defense, maybe seventeen or eighteen.",
+   "start": 1572,
+   "end": 1653
+  },
+  {
+   "fact": "Tolan 坦白恋爱想求婚；Andra 催他回家就去问",
+   "anchor": "Actually, I know I love her. I’ve been thinking about asking her to marry me.",
+   "start": 2536,
+   "end": 2613
+  },
+  {
+   "fact": "Daegal 五十多岁银发黑须带疤；例行询问她能否扛住",
+   "anchor": "He was somewhere in his fifties, with dark, close cut hair and a matching beard both streaked with silver.",
+   "start": 3931,
+   "end": 4037
+  },
+  {
+   "fact": "断水；前方约二十英里有 Nivek 村可歇脚",
+   "anchor": "Daegal said there is a village called Nivek about twenty miles ahead.",
+   "start": 5141,
+   "end": 5210
+  },
+  {
+   "fact": "Nivek 死村：窗碎门裂、血迹腐臭、空无一人；Daegal 念叨不对劲",
+   "anchor": "Every window lay shattered upon the earth; doors were cracked and splintered",
+   "start": 6630,
+   "end": 6706
+  },
+  {
+   "fact": "低语+狂风非她魔法所致——魔法沉睡，“是别的东西”",
+   "anchor": "Whispers filled the air around her, agonized voices muttering gruesome memories in her ears",
+   "start": 8560,
+   "end": 8651
+  },
+  {
+   "fact": "屋内新鲜尸体脚太小=孩子；林中尖叫“它根本没走”",
+   "anchor": "glimpsed the fresh corpses just inside the home, the dirty feet sticking out much too small to be that of an adult.",
+   "start": 9732,
+   "end": 9847
+  },
+  {
+   "fact": "Daegal 被非人力量卷上半空消失；坐骑腹部被撕开倒地",
+   "anchor": "An unearthly screech permeated the air, and his body was snatched around his midsection and yanked upward.",
+   "start": 10977,
+   "end": 11083
+  },
+  {
+   "fact": "逃亡摔落：后脑撞地眼前炸白光；怪物扑下马人立甩落两人",
+   "anchor": "Andra’s vision burst with flashes of light as her head slammed into the earth, the breath whooshing from her lungs.",
+   "start": 15502,
+   "end": 15617
+  },
+  {
+   "fact": "Tolan 吹哨引开仍被扑中——当众撕碎吞食；Lucas 捂她的嘴警告",
+   "anchor": "The monster devoured Tolan, ripping his limbs from his body and feasting upon his flesh and blood",
+   "start": 16701,
+   "end": 16798
+  },
+  {
+   "fact": "Lucas 一箭正中 Tolan 头骨终结痛苦——她追着表哥冲进黑夜",
+   "anchor": "Lucas nocked an arrow and fired true, straight into Tolan’s skull. The screaming immediately ceased",
+   "start": 17298,
+   "end": 17397
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

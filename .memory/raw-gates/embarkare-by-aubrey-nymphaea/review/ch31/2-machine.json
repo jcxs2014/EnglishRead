@@ -1,0 +1,315 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/ch31 the bargain and the pit born.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch31_chapter_31.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was extraordinarily detailed. Blood-red glass formed into a hill, where a woman sat upon a throne. Her mouth was set ",
+          "ok": true,
+          "pos": 983
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Andra blinked, searching her memories for what was true and what Vasara had tampered with. No, this memory was hers, she",
+          "ok": true,
+          "pos": 2164
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She searched his clothes from her place on the wall as he approached. They were bloodied and torn, exposing the skin of ",
+          "ok": true,
+          "pos": 2492
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I must admit, Gerrick, I did not plan on her coming so willingly, even with your persuasion.” Vasara motioned to Andra ",
+          "ok": true,
+          "pos": 3454
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Free my mother, and keep the rest.” Gerrick never took his eyes off Andra. “I don’t want it. Let Andra go.”",
+          "ok": true,
+          "pos": 3754
+        },
+        {
+          "text": "The eyes Andra had learned to trust over these last months bore into hers. The eyes that taught her so much, taught her ",
+          "ok": true,
+          "pos": 3858
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I never had your mother, darling.” She waved a careless hand. “I merely told you I had her to get you here.”",
+          "ok": true,
+          "pos": 4502
+        },
+        {
+          "text": "“As I was saying.” Vasara continued pacing. “You set your price. I must admit, requesting elusive information as payment",
+          "ok": true,
+          "pos": 6276
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Like it or not, hunter, you are one of them. Born a bastard in the darkest part of the pit itself.” She straightened. “",
+          "ok": true,
+          "pos": 10472
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“The smallest baby I ever beheld. A boy. He had the softest skin, with dark eyes that looked straight into my soul. The ",
+          "ok": true,
+          "pos": 7848
+        },
+        {
+          "text": "” Vasara looked to her hands as if she could see him there and her tender voice trailed off, lost in memory",
+          "ok": true,
+          "pos": 8011
+        },
+        {
+          "text": "“Do you know what I told the servant?” Her fingers curled in the air between them as her eyes turned stone cold. “I told",
+          "ok": true,
+          "pos": 8315
+        }
+      ],
+      "words": 87
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Thirty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 10,
+    "block_range": [
+      4,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2196,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

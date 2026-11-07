@@ -1,0 +1,389 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/ch12 quentin rayner and the hole.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch12_chapter_12.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Absolutely. Creatures, like these two, are natural. They’re born like the rest of us, with the ability to learn and choo",
+          "ok": true,
+          "pos": 936
+        },
+        {
+          "text": "monsters are made. They’re created from malevolence, from spite, you know",
+          "ok": true,
+          "pos": 1114
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Roots and tangled vegetation pulled at her ankles in a welcoming caress, and she smiled as warmth tickled its way up her",
+          "ok": true,
+          "pos": 2394
+        },
+        {
+          "text": "Andra’s soul sang as the rain sluiced through the leaves, splattering in the earth. She no longer felt cold. The encount",
+          "ok": true,
+          "pos": 2682
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But this wasn’t an ordinary wound. This wound stripped her entirely of something vital within her and awoke another. She",
+          "ok": true,
+          "pos": 3867
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "With each movement, his brother interpreted: “‘Q. U. E. N. T. I. N.’”",
+          "ok": true,
+          "pos": 5033
+        },
+        {
+          "text": "Andra sat frozen, itching to relieve the tension as both men stared at her",
+          "ok": true,
+          "pos": 5099
+        },
+        {
+          "text": "“Quentin?”",
+          "ok": true,
+          "pos": 5175
+        },
+        {
+          "text": "The hazel eyed man smiled wide, his bronze skin crinkling around his eyes as he pointed a finger at his chest",
+          "ok": true,
+          "pos": 5184
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I didn’t know what to do. Everyone, and I mean everyone, in our village was killed.” He paused as he stared into the cr",
+          "ok": true,
+          "pos": 8619
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It was too bright, and I never saw her entirely, but I know it was a woman watching over us. She stopped the bleeding an",
+          "ok": true,
+          "pos": 9865
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "You can imagine how pissed we were when brutal ‘monster fights’ became the continent’s favorite form of entertainment.” ",
+          "ok": true,
+          "pos": 10641
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Loyal, that’s what Rayner said these creatures were. When this one circled her inside the arena it was out of love for t",
+          "ok": true,
+          "pos": 12945
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The monster was sent to issue an ultimatum from a dark witch named Vasara. She wants retribution—she wants me to pay for",
+          "ok": true,
+          "pos": 17801
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "If I can eliminate the amount of monsters coming for me, then maybe I would actually stand a chance",
+          "ok": true,
+          "pos": 18204
+        },
+        {
+          "text": "“Yes.”",
+          "ok": true,
+          "pos": 8873
+        },
+        {
+          "text": "“What?”",
+          "ok": true,
+          "pos": 11437
+        },
+        {
+          "text": "“Yes,” Rayner repeated. “We’ll find the hole and we’ll close it. Together.”",
+          "ok": true,
+          "pos": 18317
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.29
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3296,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

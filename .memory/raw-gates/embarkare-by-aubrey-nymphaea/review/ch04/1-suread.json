@@ -1,0 +1,74 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch04",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "章首：她顶刺骨夜寒独走橡树林——小屋里真相揭开令她窒息，执意出走",
+   "anchor": "The biting cold of the night stung Andra’s face as she trudged through the oak trees, but she didn’t care.",
+   "start": 29,
+   "end": 135
+  },
+  {
+   "fact": "关系：Lucas 是表亲+挚友；孩提筑堡垒梦想横跨大陆",
+   "anchor": "Lucas was not only her cousin, but her best friend. She had known this for as long as she could remember.",
+   "start": 290,
+   "end": 395
+  },
+  {
+   "fact": "母亲被杀后 Fergal 收养她；Lucas 让床、抱她熬过痛哭、硬灌肉汤——她欠他一条命",
+   "anchor": "When her mother was killed, Uncle Fergal took her in until she was old enough to live on her own.",
+   "start": 619,
+   "end": 716
+  },
+  {
+   "fact": "转折：蓝光球现身引路到黑湖后射入湖心（她只来过一次——为铁匠怪病循母亲页边注）",
+   "anchor": "A small blue light appeared a short distance away, floating at eye level.",
+   "start": 2709,
+   "end": 2782
+  },
+  {
+   "fact": "Egeria 登场自报：布拉申黑湖水仙守护者，活过多代；魔法从未这样主动寻过谁",
+   "anchor": "I am Egeria, a naiad and protector of the Black Lake of Brashen. I have lived many generations in these waters",
+   "start": 7746,
+   "end": 7856
+  },
+  {
+   "fact": "预言：大陆将有巨变，她处在中心，好坏未知",
+   "anchor": "There is a great change on the horizon for the continent of Brashen, and I sense you have a role in that change.",
+   "start": 8228,
+   "end": 8340
+  },
+  {
+   "fact": "入水幻象：Edgeron 喝令 Cecilia 投降许诺饶命（母亲=光女巫确认）",
+   "anchor": "“You cannot defeat me, Cecilia! Surrender now and I will let you live. Let go of this false hope of a better world",
+   "start": 12429,
+   "end": 12543
+  },
+  {
+   "fact": "Cecilia 倾尽余魔法照亮 Edgeron 内部——他生命力流尽而死，她也倒下",
+   "anchor": "Cecilia shoved her remaining magic toward Edgeron. Shadows scattered and light flooded his body from the inside out",
+   "start": 13673,
+   "end": 13788
+  },
+  {
+   "fact": "银发女子哭吻冷唇立誓复仇，以翡翠收走他体内暗影",
+   "anchor": "She began to chant a chorus of guttural spells as shadows seeped from his body and into the dark green gem.",
+   "start": 15252,
+   "end": 15359
+  },
+  {
+   "fact": "Egeria 揭名：银发女人=Vasara，几乎与他一样恶毒；“爱让人做最坏的事”",
+   "anchor": "“Vasara,” Egeria nodded. “Nearly as vile as he was. She has executed many evil deeds over the years.",
+   "start": 16146,
+   "end": 16246
+  },
+  {
+   "fact": "章末：母亲就是击败 Edgeron 的光女巫、Andra 是继承人；黑暗再临，必须准备必须走",
+   "anchor": "She was the light witch who defeated Edgeron, and you are her heir. A powerful witch just as she was.",
+   "start": 16424,
+   "end": 16525
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

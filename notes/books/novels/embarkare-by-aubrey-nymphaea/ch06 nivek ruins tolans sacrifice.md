@@ -46,7 +46,7 @@ modified: "2026-11-07"
 > **原句 6:** "His voice cut off when he glimpsed the fresh corpses just inside the home, the dirty feet sticking out much too small to be that of an adult. … “We need to leave before whatever attacked this village comes back,” Daegal’s voice was deeper than usual."
 **中文理解**：Daegal 的声音戛然而止——屋里横着新鲜尸体，露出的脏脚太小，绝不是成年人；他压低嗓音下令：赶在袭击这个村的东西回来之前离开。孩子的脚是本章最短最狠的恐怖。
 **关键词**：corpses / deeper
-**为什么这样写**：作者只给"脚"不给全尸——局部叙事让读者的想象自己完成最坏的版本；voice deeper 的变化把老练战士的恐惧写成声调，比任何表情描写都快。前文 Lyida 的五岁年龄在此被无声激活：村里这样的孩子已经死了。
+**为什么这样写**：作者只给"脚"不给全尸——局部叙事让读者的想象自己完成最坏的版本；voice deeper 的变化把老练战士的恐惧写成声调，比任何表情描写都快。前文 Lydia 的五岁年龄在此被无声激活：村里这样的孩子已经死了。
 **读者视角提示**：回想 ch01 Lydia 与她的花——Nivek 的孩子在替所有"没能被女巫救到的孩子"出场。
 
 > **原句 7:** "An unearthly screech permeated the air, and his body was snatched around his midsection and yanked upward. He writhed and bellowed on the long way up toward the canopy, disappearing into the leaves above. … Then, there was silence."
