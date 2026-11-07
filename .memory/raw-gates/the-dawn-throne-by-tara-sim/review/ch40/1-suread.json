@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch40",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch40_i.txt",
+ "facts": [
+  {
+   "fact": "请缨独战：龙蜓警报（ost Vonlins 三路进军 Divine City）——Risha 出列：「We stop them before they reach the Divine City...I’ll intercept the legionnaires marching from Zenith.」——当众自割现愈示不死。",
+   "anchor": "I’ll intercept the legionnaires marching from Zenith.",
+   "start": 3519,
+   "end": 3572
+  },
+  {
+   "fact": "舞之邀约：Zenith 街口独候二十军团兵（Lorz 领队）——tandshri 起手式——「An invitation to dance.」——链镰飞斩首兵（肠断血流）。",
+   "anchor": "An invitation to dance.",
+   "start": 5712,
+   "end": 5735
+  },
+  {
+   "fact": "舞步杀阵：中矛贯肩不退——torus 冰旋——「flawlessly executing the steps of the tandshri as taught to her by her father, and his mother before him」——GHOST：I will always remember your lessons, even if you did not heed mine.",
+   "anchor": "flawlessly executing the steps of the tandshri",
+   "start": 7439,
+   "end": 7485
+  },
+  {
+   "fact": "父训反转：引灵归体（斩首卫兵起立食同侪）——GHOST：「\"This isn’t what I taught you.\" That may be true. But your lessons fail under violence while theirs thrive.」——BODY：Isn't this a kind of miracle?",
+   "anchor": "This isn’t what I taught you.",
+   "start": 8737,
+   "end": 8766
+  },
+  {
+   "fact": "自授之课：GHOST+BODY 合声——「This is the lesson I taught myself: To stop a heart, you first stop your own.」",
+   "anchor": "To stop a heart, you first stop your own.",
+   "start": 9423,
+   "end": 9464
+  },
+  {
+   "fact": "斩颈复活：Lorz 矛贯颈断脊——「Monster...Let the Child of the Bone Wraith rot like her father before her.」——她立起、断颈缝合如控时——血泪化黑花——「Because you cannot kill me in a way that matters.」",
+   "anchor": "“Because you cannot kill me in a way that matters.”",
+   "start": 11388,
+   "end": 11439
+  },
+  {
+   "fact": "造神：双镰交叉下拽——Lorz 被剖四段——魂线互缚（含 Lorz）——「The feather was devoured in the joining」——amalgam 成形——「My father will not rot. But you will.」",
+   "anchor": "Risha bound their tethers together.",
+   "start": 12108,
+   "end": 12143
+  },
+  {
+   "fact": "收尾：Valentin 咀嚼——「When I return to Cruciamen, I’ll feast on his screams.」——Risha rather liked the sound of that.",
+   "anchor": "When I return to Cruciamen, I’ll feast on his screams.",
+   "start": 13301,
+   "end": 13355
+  }
+ ]
+}
