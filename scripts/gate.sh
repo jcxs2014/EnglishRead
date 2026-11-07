@@ -356,8 +356,22 @@ else echo "（无总览三篇，本项不适用）"; fi
 
 echo; echo "=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）==="
 if [ "$OV" -gt 0 ]; then
-  [ -n "$EPUB" ] && python3 scripts/overview.py full "$B" "$EPUB" 2>&1 | tail -1 \
-                || echo "❓ 需 epub，本项不判定"
+  if [ -n "$EPUB" ]; then
+    python3 scripts/overview.py full "$B" "$EPUB" 2>&1 | tail -1
+    # 2026-11-07 修：原式把退出码吃掉了（`… | tail -1` 取的是 tail 的 rc）⇒
+    # `full` 早已把「整串查无」计入 n_err 并 return 1，但门禁从来不看。
+    # 实证 the-corpse-collectors：「00_概述.md:12」后半句是编的，
+    # ⑭ 只比头 40–52 字（verbatim.py:373）判 ✅、⑮ 报「查无 1」却不算阻断，
+    # 三处绿灯全过。本项只认「查无」（A 段 ❌），拼接/标签仍只报不判红。
+    # 只在对账集**完整**时判红：有 epub 说明全书在库里；
+    # 无 epub 的书 `text/` 可能只覆盖部分章节，此时「查无」可能只是语料缺口
+    # （实测 the-night-circus 无 epub，金句里的名句在 text/ 搜不到）。
+    FRC=${PIPESTATUS[0]:-0}
+    if [ "$FRC" -eq 1 ]; then
+      if [ -n "$EPUB" ]; then _blk ⑮
+      else echo "  ⚠️ 整串查无（无 epub，视为提示型：可能是语料缺口）"; fi
+    fi
+  else echo "❓ 需 epub，本项不判定"; fi
 else echo "（无总览三篇，本项不适用）"; fi
 
 # ⑯ 2026-10-02 新增（Beach Read 第四轮终验）：分析层**跨章指认**核对。
