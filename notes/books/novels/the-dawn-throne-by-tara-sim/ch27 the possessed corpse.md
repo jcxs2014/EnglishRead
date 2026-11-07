@@ -65,7 +65,7 @@ modified: "2026-11-06"
 
 > **原句 8:** "“He will use us,” Kaspan moaned through Risha’s mouth."
 
-**中文理解**：「他会利用我们，」Kaspan 借着 Risha 的嘴呻吟。九个字，一句被两个人的喉咙接力说出的遗言。
+**中文理解**：「他会利用我们，」Kaspan 借着 Risha 的嘴呻吟。四个词，一句被两个人的喉咙接力说出的遗言。
 **关键词**：use / mouth
 **为什么这样写**：附体写作减到最简——「through Risha's mouth」的介词结构让嘴成为公共设施；「use us」与全书的「vessel（容器）」议题一拍即合：连神的 imperator 都自认耗材。
 **读者视角提示**：对照第二十三章「 vessel 清零」的 Nyx 计划——神的仆从们早已知道自己在清单上。恐惧比忠诚更早统一了神域。
