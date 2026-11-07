@@ -1,0 +1,445 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/ch08 the wedding and the fall.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch08_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He looked around, feeling uncomfortably far out of his element, wondering what he was supposed to do. Amrita hadn’t had ",
+          "ok": true,
+          "pos": 440
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The gravel crunched under a riot of sound and colour, and heavy beats from the drums the dancers carried were so loud th",
+          "ok": true,
+          "pos": 1684
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A few minutes later the music changed, the drums softening and string instruments taking over as a literal red carpet wa",
+          "ok": true,
+          "pos": 4172
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Jamie watched, transfixed, as rice was sprinkled and a ceremonial flame lit, which the new couple circled four times. He",
+          "ok": true,
+          "pos": 4829
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Something deep within her twisted and squeezed as she watched him, caught up in their laughter and teasing, his arms not",
+          "ok": true,
+          "pos": 8758
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Jamie waved back, smiling, then started to slowly roll up his sleeves. Amrita swallowed hard, her eyes tracking his fing",
+          "ok": true,
+          "pos": 12521
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She barely even got her hand onto his shoulder before he grinned and spun her again, this time faster. He did it again a",
+          "ok": true,
+          "pos": 15370
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘If it had, I might not be here with you.’ He squeezed her shoulder, then went back to her hair. Not speaking, just conc",
+          "ok": true,
+          "pos": 18575
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘Amrita, I do. I really do. But you’ve been drinking, and I promised I wouldn’t push you. I really was serious about tha",
+          "ok": true,
+          "pos": 22943
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He hadn’t planned on any of this, but Hudsbury’s magic seemed to have extended its usual reach and lined things up – not",
+          "ok": true,
+          "pos": 29303
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘I know it’s early – that we’re still getting to know each other in so many ways – but I need you to know that this",
+          "ok": true,
+          "pos": 30084
+        },
+        {
+          "text": "us",
+          "ok": true,
+          "pos": 16
+        },
+        {
+          "text": "it’s serious for me, Amrita. I think I could fall in love with you. In fact, I think I’m already falling.’",
+          "ok": true,
+          "pos": 30202
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘Oh, shukar hai Rabb da.’ Jamie didn’t understand the words, but he felt them deep in his heart, just below where her ha",
+          "ok": true,
+          "pos": 30306
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "‘Mera sajjna is like beloved, or sweetheart. This is going to sound silly, but",
+          "ok": true,
+          "pos": 30756
+        },
+        {
+          "text": "sometimes being with you is so comfortable and familiar that I feel like we’ve known each other forever, so I assume you",
+          "ok": true,
+          "pos": 30835
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter 8",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 13,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5685,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 14 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

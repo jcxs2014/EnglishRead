@@ -4,64 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch09_chapter_9.txt",
  "facts": [
   {
-   "fact": "新来的 Elara 告诉 Aiden，她刚签下买下 inn 的最终合同，打算重开。",
-   "anchor": "I just signed the final contracts to buy the inn",
+   "fact": "Elara 告诉 Aiden 她刚签完买下 inn 的合同，准备重开。",
+   "anchor": "I just signed the final contracts to buy the inn.",
    "start": 2644,
-   "end": 2692
+   "end": 2693
   },
   {
-   "fact": "Elara 说长期计划是把 inn 改造成提供瑜伽与辅助疗法的养生度假地。",
-   "anchor": "my plan is to turn it into a wellness retreat",
-   "start": 3059,
-   "end": 3104
+   "fact": "Elara 想在本周末办樱花赏花会做软重启，向 Aiden 讨主意。",
+   "anchor": "I was thinking some sort of cherry blossom appreciation party – music, drinks",
+   "start": 5925,
+   "end": 6002
   },
   {
-   "fact": "Elara 把重开派对定在这个周末，因为那时樱花最好。",
-   "anchor": "that’s when the cherry blossoms will be at their best",
-   "start": 5504,
-   "end": 5557
+   "fact": "散步回来，他们的桌子被 Mia、Aiden、Sylvie 与 Lily-Ann 占下。",
+   "anchor": "Their table had been taken over by Mia, Aiden and Sylvie",
+   "start": 17095,
+   "end": 17151
   },
   {
-   "fact": "Jamie 说 inn 空置多年像蒙着裹尸布沉睡，现在正在醒来。",
-   "anchor": "it was like it was asleep under a shroud – but now it’s waking up again",
+   "fact": "Katie 揭短：六岁的 Jamie 为向月亮道歉翻进教堂、爬上塔顶睡着。",
+   "anchor": "He broke into the church – because he didn’t think the vicar would mind",
+   "start": 21695,
+   "end": 21766
+  },
+  {
+   "fact": "Aiden 尝出 samosa 用芫荽茎、carom seed 与 amchoor，Sylvie 承认。",
+   "anchor": "The coriander was the stems, not the leaves. And you used carom seed.",
+   "start": 27672,
+   "end": 27741
+  },
+  {
+   "fact": "Jamie 让她把东西留在他家，并给她清出衣柜与抽屉。",
+   "anchor": "I think, next time, you should leave the overnight bag at yours",
+   "start": 44077,
+   "end": 44140
+  },
+  {
+   "fact": "Aiden 说已问过在 inn 办婚礼，被 Elara 以翻修工程量太大回绝。",
+   "anchor": "There’s too much work needed to bring the place back up to code.",
+   "start": 30121,
+   "end": 30185
+  },
+  {
+   "fact": "Jamie 说 inn 空置时像蒙着裹尸布沉睡，现在正醒来。",
+   "anchor": "it was like it was asleep under a shroud",
    "start": 14690,
-   "end": 14761
-  },
-  {
-   "fact": "Katie 讲 Jamie 小时候放学迷路、打电话说街道在他周围重排的故事，话被 Jamie 打断。",
-   "anchor": "the streets were reordering themselves around him",
-   "start": 24056,
-   "end": 24105
-  },
-  {
-   "fact": "饭桌上大家突然沉默，Amrita 察觉自己错过了某件事却不知道是什么。",
-   "anchor": "It was clear to Amrita that she’d missed something",
-   "start": 24831,
-   "end": 24881
-  },
-  {
-   "fact": "Amrita 说 Lily-Ann 做的花束维持了三周还很好看。",
-   "anchor": "they looked amazing for at least three weeks",
-   "start": 19064,
-   "end": 19108
-  },
-  {
-   "fact": "Jamie 看着 Amrita 与 Mia、Katie 说笑，认定她也已经是家人。",
-   "anchor": "she was family too",
-   "start": 30976,
-   "end": 30994
-  },
-  {
-   "fact": "Jamie 想必须找到办法让魔法允许他把真相告诉 Amrita。",
-   "anchor": "He’d have to find a way to make the magic let him tell her",
-   "start": 31261,
-   "end": 31319
-  },
-  {
-   "fact": "Amrita 发现 Jamie 在衣柜与抽屉里给她腾出空间，问他是不是在「给她一个抽屉」。",
-   "anchor": "are you giving me a drawer",
-   "start": 44362,
-   "end": 44388
+   "end": 14730
   }
  ]
 }

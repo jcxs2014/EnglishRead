@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Elara 告诉 Aiden 她刚签完买下 inn 的合同，准备重开。",
+   "anchor": "I just signed the final contracts to buy the inn.",
+   "start": 2644,
+   "end": 2693
+  },
+  {
+   "fact": "Elara 想在本周末办樱花赏花会做软重启，向 Aiden 讨主意。",
+   "anchor": "I was thinking some sort of cherry blossom appreciation party – music, drinks",
+   "start": 5925,
+   "end": 6002
+  },
+  {
+   "fact": "散步回来，他们的桌子被 Mia、Aiden、Sylvie 与 Lily-Ann 占下。",
+   "anchor": "Their table had been taken over by Mia, Aiden and Sylvie",
+   "start": 17095,
+   "end": 17151
+  },
+  {
+   "fact": "Katie 揭短：六岁的 Jamie 为向月亮道歉翻进教堂、爬上塔顶睡着。",
+   "anchor": "He broke into the church – because he didn’t think the vicar would mind",
+   "start": 21695,
+   "end": 21766
+  },
+  {
+   "fact": "Aiden 尝出 samosa 用芫荽茎、carom seed 与 amchoor，Sylvie 承认。",
+   "anchor": "The coriander was the stems, not the leaves. And you used carom seed.",
+   "start": 27672,
+   "end": 27741
+  },
+  {
+   "fact": "Jamie 让她把东西留在他家，并给她清出衣柜与抽屉。",
+   "anchor": "I think, next time, you should leave the overnight bag at yours",
+   "start": 44077,
+   "end": 44140
+  },
+  {
+   "fact": "Aiden 说已问过在 inn 办婚礼，被 Elara 以翻修工程量太大回绝。",
+   "anchor": "There’s too much work needed to bring the place back up to code.",
+   "start": 30121,
+   "end": 30185
+  },
+  {
+   "fact": "Jamie 说 inn 空置时像蒙着裹尸布沉睡，现在正醒来。",
+   "anchor": "it was like it was asleep under a shroud",
+   "start": 14690,
+   "end": 14730
+  }
+ ]
+}

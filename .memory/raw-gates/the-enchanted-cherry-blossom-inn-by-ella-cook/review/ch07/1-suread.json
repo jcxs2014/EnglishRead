@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Jamie 赶不上 sangeet，但西装、行李与礼金都在车上，挂断就上路。",
+   "anchor": "I’m leaving as soon as I hang up. My suit and bag are in my car,",
+   "start": 513,
+   "end": 577
+  },
+  {
+   "fact": "Amrita 想溜回 sangeet，被外婆的姐妹看见并强势叫过去盘问。",
+   "anchor": "Her nani’s sister spotted her and called her over, beckoning imperiously",
+   "start": 1509,
+   "end": 1581
+  },
+  {
+   "fact": "Amrita 向长辈解释 Jamie 是建筑师，正在做重要历史建筑修复。",
+   "anchor": "He’s an architect. He’s working on a big historic restoration",
+   "start": 2365,
+   "end": 2426
+  },
+  {
+   "fact": "她向 Kiran 承认是在工作中认识、真心喜欢他。",
+   "anchor": "he’s someone I met through work, and I really like him",
+   "start": 4666,
+   "end": 4720
+  },
+  {
+   "fact": "酒店前台告诉他房间订成了下个周末，本周末已满。",
+   "anchor": "Your room is actually booked for next weekend.",
+   "start": 7930,
+   "end": 7976
+  },
+  {
+   "fact": "她下楼把一张房卡给他，另一张塞进衣服里，让他住自己房间。",
+   "anchor": "handing him a room card while she tucked the other inside her top",
+   "start": 13162,
+   "end": 13227
+  },
+  {
+   "fact": "Jamie 用椅垫在床中间垒起屏障，自己睡在被子上。",
+   "anchor": "making a barrier between them",
+   "start": 20223,
+   "end": 20252
+  },
+  {
+   "fact": "清晨 Kiran 砸门催她起床尽伴娘职责。",
+   "anchor": "They both jumped at the thumping on the door.",
+   "start": 22727,
+   "end": 22772
+  }
+ ]
+}
