@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch30",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch30_x.txt",
+ "facts": [
+  {
+   "fact": "桥下对质：Nikolas 臂麻（后座）、颈羽缩回；少年跪尸旁——「You shot her」——「She was about to kill Varrick’s son. What else was I supposed to do?」——「she's picking off Phos’s descendants...she'll be coming after us, too」。",
+   "anchor": "You shot her.",
+   "start": 1376,
+   "end": 1389
+  },
+  {
+   "fact": "Rian 反驳：「I don't believe that. She could have easily retaliated on the bridge, and didn't.」「Because I don’t love her. Because I can look at her and see her for who she is and not who I wish she was.」——Nikolas:「I don't love her. Maybe I never did.」——枪塞给 Rian。",
+   "anchor": "Because I don’t love her.",
+   "start": 2456,
+   "end": 2481
+  },
+  {
+   "fact": "Ulshära 的账：亲摸袖下羽（她也是容器候选）——「We have roughly sixty sun cycles left until the summer solstice. In that time, I will investigate the ost Vonlins」——「You must leave for the Sand Sea at once.」",
+   "anchor": "We have roughly sixty sun cycles left",
+   "start": 4820,
+   "end": 4857
+  },
+  {
+   "fact": "祈祷童年：Dante 教的屏息许愿（Nyx 像前四十秒）——「I wish the portals would open」——「What she'd had then was hope, and without a means to act on it. Now that she had the means, she was slowly losing that hope.」",
+   "anchor": "I wish the portals would open.",
+   "start": 5810,
+   "end": 5840
+  },
+  {
+   "fact": "Nyx 逼杀：传送失败落荒镇——「You had your chance...I acted when you could not」「The imperator's offspring will inevitably end up like his father...make sure the seed does not take root」——「That's not something blood alone determines. I’m not killing children.」",
+   "anchor": "I’m not killing children.",
+   "start": 7254,
+   "end": 7279
+  },
+  {
+   "fact": "孩童绑票：三个 Solarian 孩童拿绳捆她讨赏——她配合伸出双手（忆幼时发号施令的自己）——Umbra 断绳——「The Sunslayer doesn't bother with kids. Not enough meat on them.」（Dante 的谎言喂大）。",
+   "anchor": "You’ll be named heroes of the realm, no doubt.",
+   "start": 9815,
+   "end": 9861
+  },
+  {
+   "fact": "回沙海：门合、跪黑沙喘息——「Imperator Varrick was dead. Only Ulshära remained. Once she was gone, Taesia could finally turn her shadows on Phos.」",
+   "anchor": "Only Ulshära remained.",
+   "start": 11052,
+   "end": 11074
+  },
+  {
+   "fact": "章末：Nyx 提醒清单变长——她抓沙——「她已不屑许愿，仍有一个愿在暗处找到她：但愿 Nikolas 别接下她的挑战。」",
+   "anchor": "You forget your list has grown.",
+   "start": 11143,
+   "end": 11174
+  }
+ ]
+}
