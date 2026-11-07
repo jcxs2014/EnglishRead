@@ -198,7 +198,7 @@ I’m in a dark room, on a virtually deserted ship, somewhere in the sky…
 
 Alone in the world."
 **中文理解**：他单膝跪下，手中打开的盒子里是一枚镶着红宝石和钻石的华美戒指。“也许时机和地点都不对，”他低声说，“但时间不多了，我们很快就要到拉夫纳了——”我猛地回过神，跳起来：“你到底在做什么？”“请你做我的王后，”他简单地回答，轻轻摇头，“不是我的顾问，不是我的朋友。是我的王后。”
-**关键词**：drops down onto one knee / Asking you to be my queen / Not my advisor. Not my friend. My queen.
+**关键词**：drops down onto one knee / rubies and diamonds / be my queen
 **为什么这样写**：德雷克的求婚在纪念碑前显得突兀而荒谬。他终于说出了自己的渴望，却完全无视阿拉的立场和此刻的庄重。
 **读者视角提示**：读者会为阿拉感到愤怒。德雷克在哀悼逝者的时刻求婚，既自私又不合时宜。
 > **原句 3:** "He cuts through, edged. “I can feel you, when you are with him.” He adds, as an explanation, “Your rapture. Through the bond.” I gawk at him. “You can feel me?” I physically recoil. He nods. “I could not before. But now I can. And that is one of the reasons your plan won’t work. There are many. But that is one.”"
