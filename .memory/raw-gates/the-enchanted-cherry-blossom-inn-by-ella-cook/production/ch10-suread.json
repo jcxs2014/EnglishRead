@@ -1,0 +1,67 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "一个年轻女骑手的脚卡在马镫里，被甩出去撞在鹅卵石路面上。",
+   "anchor": "her foot caught in the stirrup",
+   "start": 766,
+   "end": 796
+  },
+  {
+   "fact": "Amrita 跪在伤者 Susan 身边，自报姓名并说明自己受过急救训练。",
+   "anchor": "My name’s Amrita. I’m trained in first aid.",
+   "start": 1069,
+   "end": 1112
+  },
+  {
+   "fact": "救治时一团白金色羽毛落上她的肩（Lunar）。",
+   "anchor": "a warm weight hit her shoulder",
+   "start": 2703,
+   "end": 2733
+  },
+  {
+   "fact": "她掌下涌出的暖流让 Susan 的呼吸稳定下来，并与她同步。",
+   "anchor": "Susan’s breathing stabilised, matching Amrita’s own",
+   "start": 4545,
+   "end": 4596
+  },
+  {
+   "fact": "赶到的医生 Rissa 问她能否在搬动伤者时维持「咒语」，Rayenne 摇头示意别说。",
+   "anchor": "Can you hold on to your spell while we move her?",
+   "start": 5444,
+   "end": 5492
+  },
+  {
+   "fact": "Rayenne 望进她的眼睛，用多种语言命令她「放手」，Amrita 随即昏倒。",
+   "anchor": "Let go.",
+   "start": 7836,
+   "end": 7843
+  },
+  {
+   "fact": "Rayenne 说她是从灰暗的世界里醒来，将能清楚看见、听见。",
+   "anchor": "You’re waking up from the grey world you’ve been living in",
+   "start": 11385,
+   "end": 11443
+  },
+  {
+   "fact": "Lunar 补充说重点不是从什么中醒来，而是醒向魔法。",
+   "anchor": "You are waking up to magic, Lunar explained.",
+   "start": 11567,
+   "end": 11611
+  },
+  {
+   "fact": "她意识到 Jamie 一直知道并瞒着她，开始怀疑两人的一切是否是精心设计的骗局。",
+   "anchor": "Had it all been fake?",
+   "start": 13128,
+   "end": 13149
+  },
+  {
+   "fact": "Rayenne 拦住想追出去的 Jamie，让她先独处。",
+   "anchor": "Let her have the space she needs.",
+   "start": 13835,
+   "end": 13868
+  }
+ ]
+}
