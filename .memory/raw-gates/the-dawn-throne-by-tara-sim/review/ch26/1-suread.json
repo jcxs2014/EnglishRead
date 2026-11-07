@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch26_vi.txt",
+ "facts": [
+  {
+   "fact": "跪祷：第二太阳升起全街跪拜——Nikolas/Rian 肌肉记忆跟随（双手圈日+Solari 祷词 Light is life...Honorable Risäl）；Rian 只动唇不出声；眨眼时太阳残像绕弟成环。",
+   "anchor": "Light is life, light is longevity",
+   "start": 3823,
+   "end": 3856
+  },
+  {
+   "fact": "交还武器：Edwin 班卓琴藏弩箭被没收、Angelica 琴验明放行；Sunbringer Spear 由 Varrick 摘下——「not one feather...but two...as a brother...I will allow you to bear it in Lord Phos’s name」——Nikolas 接矛（空眼窝刺痛、矛暖掌心）；「And so the Sunbringer shall seek out the Sunslayer. What poetic times we live in.」",
+   "anchor": "“You carry not one feather from the Daystar, but two,”",
+   "start": 7423,
+   "end": 7477
+  },
+  {
+   "fact": "Clockwork Bazaar：Devisers 发明区（传送杯垫/黑沙漏/汽笛玩具）；墙上通缉令「Beware the Sunslayer」——Taesia 被画成獠牙笑的阴影人形持棘剑——Attack on sight。",
+   "anchor": "Beware the Sunslayer,",
+   "start": 10987,
+   "end": 11008
+  },
+  {
+   "fact": "Fin 的追问：手链已断（「Shit, your charm. I lost it in Nexus」）——「meant something to each other,」——「Once」——「I like her」（指 Ulshära：honorable/compassionate）。",
+   "anchor": "meant something to each other,",
+   "start": 12188,
+   "end": 12218
+  },
+  {
+   "fact": "巷口遇敌：Faün（ost Vonlin 将军、造军团者）挡门——「The ost Vonlins are more than prepared to supply him with whatever he needs. Make him see reason. Unless you’d rather collaborate with us instead, Your Eminence.」——Ulshära 背后握拳。",
+   "anchor": "Unless you’d rather collaborate with us instead,",
+   "start": 16273,
+   "end": 16321
+  },
+  {
+   "fact": "Oskar：Ulshära 二表哥、最强 Deviser（轮椅 mobility aid+多层单片镜）；赠玻璃义眼——「It won’t restore your sight, but it balances your depth perception. It also detects when others are using magic.」——Rian 抢先收进口袋（「doesn't hurt to have the option」）。",
+   "anchor": "It won’t restore your sight,",
+   "start": 19916,
+   "end": 19944
+  },
+  {
+   "fact": "大揭秘：ost Krülins 建了 Dawn Throne——图纸只可能在 Aphelion Tower（Varrick 家最先赞助、其祖父委托 Oskar 之父造 arquebuses）——「the key to unseating Phos lies in the very thing that seats him」。",
+   "anchor": "They were the ones who built the Dawn Throne.",
+   "start": 25010,
+   "end": 25055
+  },
+  {
+   "fact": "工作台惊雷：Rian 揭出金版手持 arquebuses（Oskar 之父发明、ost Vonlins 想量产）——Oskar 血色尽失：「Step away.」",
+   "anchor": "“Step away.”",
+   "start": 28873,
+   "end": 28885
+  }
+ ]
+}

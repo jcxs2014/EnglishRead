@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：「然而，作为兄弟……」他把矛递了过来，全副肢体语言都在尖叫着不要。「我允许你们在猎捕 Sunslayer 期间，以 Phos 大人之名持有它。之后如何处置，再作商量。」
 **关键词**：brother / Sunslayer
 **为什么这样写**：让敌人的手完成「传矛仪式」——与第一章 Waren 递矛的同款 reluctance 对位；「as a brother」的称呼在神域语法里既是恩典也是缰绳。
-**读者视角提示**：第一版他递给弟弟被拒、这一版他被敌人塞回——三章之内，矛换了三种意义：遗产、凶器、租借品。
+**读者视角提示**：第一版他递给弟弟被拒、这一版他被敌人塞回——三次出场，矛换了三种意义：遗产、凶器、租借品。
 
 > **原句 4:** "Beware the Sunslayer, Nikolas translated above a drawing of what was supposed to be Taesia. The artist had rendered her as a humanoid figure of shadow with large, haunted eyes and a fanged grin, holding her spinous sword. Attack on sight."
 
@@ -86,7 +86,7 @@ modified: "2026-11-06"
 
 > **原句 11:** "The blood drained from Oskar's face. “Step away.”"
 
-**中文理解**：Oskar 脸上的血色瞬间退尽。「退后。」六个字给全章上了一把锁。那截金弧件是什么，他比谁都清楚。
+**中文理解**：Oskar 脸上的血色瞬间退尽。「退后。」两个字给全章上了一把锁。那截金弧件是什么，他比谁都清楚。
 **关键词**：drained / Step
 **为什么这样写**：章末的恐惧只用脸色交付——发明家不怕神、不怕将军，却怕自己的作品被看清；「Step away」的祈使句把武器说明书写成了危险品标签。
 **读者视角提示**：arquebuses（火枪）=本系列第一次「枪械量产化」的线头。记住 Oskar 的脸——他父亲留给这个世界的，不止义肢。
