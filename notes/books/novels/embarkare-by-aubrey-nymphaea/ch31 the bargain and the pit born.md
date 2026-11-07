@@ -66,7 +66,7 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | entwining | 缠绕、攀缠（现在分词） | but with every pull more shadows sprang from the floor, entwining with his limbs and yanking him back to the floor. |
-| astute | 精明的、敏锐的 | “I must admit, requesting elusive information as payment was clever. Most beings would not be so astute. |
+| astute | 精明的、敏锐的 | I must admit, requesting elusive information as payment was clever. Most beings would not be so astute. |
 | beheld | 看见、注视（behold 的过去分词） | “The smallest baby I ever beheld. A boy. He had the softest skin, with dark eyes that looked straight into my soul. |
 | fetter | 镣铐、束缚物 | Pulled her in like a wraith to its fetter. |
 
@@ -75,8 +75,8 @@ modified: "2026-11-07"
 |---|---|---|
 | fissures | 裂缝（复数） | The fissures in her heart threatened to collapse, cracks tunneling deeper into the muscle that struggled to continue beating. |
 | maneuvers | 招式、调动（复数） | Gerrick lunged forward, swiping his sword through the air in a series of maneuvers as he quickly approached Vasara. |
-| entwining | 缠绕、交织 | his veins bulged... entwining with his limbs and yanking him back to the floor. |
-| undiluted | 未稀释的、纯粹的 | She didn’t feel much of anything other than pure, undiluted waves of fury cresting through her soul. |
+| entwining | 缠绕、交织 | with every pull more shadows sprang from the floor, entwining with his limbs and yanking him back to the floor. |
+| undiluted | 未稀释的、纯粹的 | She didn’t feel much of anything other than pure, undiluted waves of fury cresting through her soul |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

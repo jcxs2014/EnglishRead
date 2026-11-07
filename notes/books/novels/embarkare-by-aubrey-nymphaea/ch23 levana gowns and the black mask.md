@@ -80,12 +80,12 @@ modified: "2026-11-07"
 | exquisite | 精美的、极致的 | Running her fingers down the long sleeves, she imagined herself in something this exquisite. |
 | bodice | 紧身胸衣的上身 | She stopped in front of a black dress with a lace bodice and layered skirt. |
 | careening | 猛冲、失控疾驰 | Andra stepped in a puddle of water, sending her careening toward the floor. |
-| tulle | 薄纱（织物） | Fluffy tulle poked out from between swaths of silk and satin, tight corsets led into flowing skirts. |
+| tulle | 薄纱（织物） | Fluffy tulle poked out from between swaths of silk and satin, tight corsets led into flowing skirts |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| meandered | 漫步、蜿蜒而行 | Andra walked along the soggy cobblestone path, arm-in-arm with Nelveen as they meandered through the busy streets. |
+| meandered | 漫步、蜿蜒而行 | Andra walked along the soggy cobblestone path, arm-in-arm with Nelveen as they meandered through the busy streets |
 | deranged | 疯狂的、错乱的 | She wanted to slap him, or kiss him, or some deranged combination of the two. |
 | coerce | 强制、胁迫 | To harness her power given by birthright, not to control or coerce, but rather to defend and protect. |
 | trilled | 嗓音轻快地发颤 | “All right, I think we’re all set back here,” Nelveen trilled from the doorway, pulling Andra from her thoughts. |

@@ -87,8 +87,8 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | decrepit | 破败的、朽坏的 | Andra tucked herself next to a decrepit wall just before a single horse cart raced past her. |
-| bartering | 讨价还价、以物易物 | Clanking rose above the mumbled bargaining of the booths. |
-| awning | 雨篷、遮阳篷 | A blacksmith’s fire blazed beneath an awning, sparks flying with every slam of hammer against anvil. |
+| bartering | 讨价还价、以物易物 | Clanking rose above the mumbled bargaining of the booths |
+| awning | 雨篷、遮阳篷 | A blacksmith’s fire blazed beneath an awning, sparks flying with every slam of hammer against anvil |
 | craned | 伸长（脖子） | Andra craned her neck slightly to look into its eyes, one golden, the other a near-glowing green. |
 | barbs | 倒钩、倒刺 | From his belt, Hachar pulled a whip, and Andra squinted to see the sharp barbs attached to the entirety of the thick braided lash. |
 
@@ -96,7 +96,7 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | snips | 剪刀（剪切工具） | Carefully, she pulled them from the bag and hid them amongst her dress’s many layers, careful not to let the sharp edges touch her skin. |
-| shackles | 镣铐、脚镣 | Their wrists were raw and blistered from the metal shackles; their faces vacant of expression. |
+| shackles | 镣铐、脚镣 | Their wrists were raw and blistered from the metal shackles; their faces vacant of expression |
 | sconces | 壁灯、烛台 | Looking around her empty hallway, she noted the dark, cracking wood surrounding her in all directions, and the sparse flame sconces that curved out of sight. |
 | tapestry | 挂毯、帷幔 | she pushed aside the velvet tapestry to see the fighting arena on the other side. |
 | cronies | 同伙、狐朋狗友 | A blade extended from the sidelines, no doubt one of Hachar’s cronies, and embedded itself into the thigh of the larger beast. |

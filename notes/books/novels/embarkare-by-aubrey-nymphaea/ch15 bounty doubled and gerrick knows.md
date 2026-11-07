@@ -77,7 +77,7 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| intertwined | 缠绕、交织 | Andra startled, then chuckled and reached her fingers up for the shadow to momentarily intertwine with them. |
+| intertwine | 缠绕、交织 | Andra startled, then chuckled and reached her fingers up for the shadow to momentarily intertwine with them |
 | promiscuous | 放纵的、不检点的 | The promiscuous couple was still engaged, though would most likely need to be escorted to a room soon to keep some decency. |
 | slithering | 蜿蜒滑行 | Black snakes ran the length of her nearly bare back, slithering calmly across her glittering skin. |
 | labored | 费力的、吃力的 | The heat from the tavern pressed on Andra’s chest, her breaths becoming labored as she leaned against the wall in the dim light. |
@@ -87,14 +87,14 @@ modified: "2026-11-07"
 |---|---|---|
 | furled | 卷拢、收卷 | waving toward a table next to a far window where a black mist twisted and furled on itself, patiently waiting for its supper. |
 | gurgles | 咯咯声、水声 | a combination of gurgles and slurps that caused the gills in their necks to twitch. |
-| dryad | 树精、木仙 | A pretty dryad stood close to him now, laughing and casually placing her hand on his forearm. |
+| dryad | 树精、木仙 | A pretty dryad stood close to him now, laughing and casually placing her hand on his forearm |
 | stifling | 令人窒息的、闷热的 | The stale, humid air was suddenly stifling, and sweat ran uncomfortably down her back. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | pitcher | 大水罐、壶 | “Gyor! We need another pitcher of mead and two more loaves of bread!” |
-| tavern | 酒馆 | The tavern bustled with travelers, some in search of shelter for the night. |
+| tavern | 酒馆 | The tavern bustled with travelers, some in search of shelter for the night |
 | satyrs | 萨提（半人半羊生物，复数） | Making her way back to the bar, she checked on a group of rowdy satyrs. |
 | hooves | 蹄（复数） | one abruptly stood to clop his hooves with the beat of the tune. |
 

@@ -78,16 +78,16 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | feasted | 大吃、饱餐（此处指吞食） | Blood soaked the snow covered ground while creatures, more beast than man, feasted upon the bodies of the fallen. |
-| morphed | 变形、渐变为 | Somewhere along the way, the bitter loathing she felt for this man had morphed into something else entirely. |
+| morphed | 变形、渐变为 | Somewhere along the way, the bitter loathing she felt for this man had morphed into something else entirely |
 | corral | 圈拢、聚拢 | she exhaled harshly, pressing a palm to her chest as though she could corral her strength into the cavities of her heart. |
-| ashen | 灰败的、死灰色的 | The enchantress sat barely conscious. Her skin was ashen, eyes turning a frosty gray as her remaining energy seeped from her body. |
+| ashen | 灰败的、死灰色的 | The enchantress sat barely conscious. Her skin was ashen, eyes turning a frosty gray as her remaining energy seeped from her body |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| loathing | 憎恶、反感 | Somewhere along the way, the bitter loathing she felt for this man had morphed into something else entirely. |
+| loathing | 憎恶、反感 | Somewhere along the way, the bitter loathing she felt for this man had morphed into something else entirely |
 | slats | （栅、板条）缝隙 | Gerrick turned and silently slid the tip of his sword between the slats of the wood, steadying his weight behind the weapon as he readied to attack. |
-| mussed | 弄乱、凌乱 | The sheets were mussed where Lucas had slept the night before, and it was so unlike him to leave his space untidy. |
+| mussed | 弄乱、凌乱 | The sheets were mussed where Lucas had slept the night before, and it was so unlike him to leave his space untidy |
 | swooshing | 嗖嗖作响地摆动 | together they made their way to the staircase, taking the steps as quickly as they could with their long gowns swooshing around their legs. |
 | gargling | 咕噜声、漱喉声 | A deep, gargling breath sounded much too close for it to be the monster devouring the body. |
 
@@ -96,7 +96,7 @@ modified: "2026-11-07"
 |---|---|---|
 | saddlebag | 马鞍袋 | He was already shoving Andra’s things into a saddlebag on the bed. |
 | bolted | 闩上（门） | Andra ran to the window and shoved the curtains closed as Gerrick bolted the locks. |
-| grimoires | 咒典（复数） | he continued grabbing her grimoires and tonic vials that clunk together from within as he bound the knot at the top. |
+| grimoires | 咒典（复数） | but continued grabbing her grimoires and tonic vials that clunk together from within as he bound the knot at the top |
 | alcoves | 壁凹（复数） | Nelveen stopped frequently, tucking them into alcoves or corners to allow battling species to pass them by without detection. |
 
 ## 一句话总结

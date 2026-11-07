@@ -88,7 +88,7 @@ modified: "2026-11-07"
 |---|---|---|
 | strummed | 弹拨（弦乐器） | One strummed his banjo while the other enthusiastically blew into his pan flute. |
 | ensued | 随之发生、接踵而至 | A great war between light and dark magic wielders ensued, killing many magical beings. |
-| sowed | 播下（多指种子、仇恨等抽象物） | There is always a chance that the hatred he sowed took root in the hearts of some. |
+| sowed | 播下（多指种子、仇恨等抽象物） | There is always a chance that the hatred he sowed took root in the hearts of some |
 | drawled | 拖长调子地说 | He drawled from behind, “Five. Four.” |
 | cackled | 尖声笑、咯咯笑 | “Eyes on the ground, crazy,” Lucas cackled as he controlled not only his movements but Andra’s as well. |
 

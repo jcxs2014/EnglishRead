@@ -87,9 +87,9 @@ modified: "2026-11-07"
 |---|---|---|
 | mildew | 霉、霉味 | The damp passageway smelled of mildew and some sort of animal excrement, and cobwebs hung overhead. |
 | excrement | 排泄物 | The damp passageway smelled of mildew and some sort of animal excrement, and cobwebs hung overhead. |
-| cleavage | 胸沟、乳沟 | “If you hide those incredible tits, you will be doing the world a great disservice.” |
-| disservice | 损害、不公 | “If you hide those incredible tits, you will be doing the world a great disservice.” |
-| fidgety | 坐立不安的 | It was oddly satisfying seeing him like this. Fidgety and at a loss for words, like her presence momentarily stunned him. |
+| cleavage | 胸沟、乳沟 | If you hide those incredible tits, you will be doing the world a great disservice. |
+| disservice | 损害、不公 | If you hide those incredible tits, you will be doing the world a great disservice. |
+| fidgety | 坐立不安的 | It was oddly satisfying seeing him like this. Fidgety and at a loss for words, like her presence momentarily stunned him |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
@@ -97,7 +97,7 @@ modified: "2026-11-07"
 | courtyard | 庭院、天井 | A large, square courtyard expanded in front of her, with towering walls on all four sides. |
 | willow | 柳树 | Grass grew haphazardly through the stones on the uneven ground, while forgotten willow trees extended overgrown branches onto the walkways. |
 | orbs | 球体、光球（复数） | Bending down, she repeated the process until a dozen floating orbs of flickering light shone around them. |
-| fountain | 喷泉 | Lifting her skirts, she made her way through the overgrown foliage and over to a fountain no longer in operation. |
+| fountain | 喷泉 | Lifting her skirts, she made her way through the overgrown foliage and over to a fountain no longer in operation |
 | slippers | 拖鞋、软底鞋（复数） | Layers of black tulle hung from her waist, creating full skirts that fell to the floor, covering black silk slippers. |
 
 ## 一句话总结

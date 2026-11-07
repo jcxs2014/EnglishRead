@@ -86,18 +86,18 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | marred | 玷污、损毁 | Sharp black talons marred her insides, leaving her raw and bleeding from the emotional wounds. |
-| flailed | 乱摆、胡乱挥动 | The world spun, and she flailed her arms, throwing herself backward to prevent falling forward to the earth below. |
+| flailed | 乱摆、胡乱挥动 | The world spun, and she flailed her arms, throwing herself backward to prevent falling forward to the earth below |
 | brooding | 幽暗压抑的、沉思的 | the tall pine trees surrounding the inn were dark and brooding, and her raw heart longed for companionship. |
 | beckoned | 招手示意 | He smiled and beckoned for her to follow. |
-| rickety | 摇摇晃晃的、不结实的 | It was old and rickety and stretched upward for what felt like an eternity. |
+| rickety | 摇摇晃晃的、不结实的 | It was old and rickety and stretched upward for what felt like an eternity |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | balconies | 阳台（复数） | Worn ivory planks lined the exterior walls, with dark wooden beams supporting the frame and individual balconies hanging erect outside of each room. |
 | hearth | 壁炉 | Andra threw a ball of fire into the tiny hearth then closed her eyes and laid back. |
-| tunic | 束腰上衣 | She looked down at the thin tunic she wore and realized she was completely out of trousers. |
-| railing | 栏杆 | The cold night air soothed her aching head, and for a brief moment, the peace of home seeped into her soul, and she perched on the edge of the railing. |
+| tunic | 束腰上衣 | She looked down at the thin tunic she wore and realized she was completely out of trousers |
+| beckoning | 招引、召唤 | They were beautiful and alluring in the moonlight, a silent song beckoning to her, and she perched on the edge of the railing. |
 
 ## 一句话总结
 客栈的一夜完成三次修复与一次揭底：Torgil 心灵传名确立兽的盟友身份、Quentin 的碎而立论重构她的价值感、崩溃与眼泪排空了 Jasper 的毒——而阳台上的猎人用一个反问把她的世界再翻一面：他猎的从来不是袭击她村庄的那只。

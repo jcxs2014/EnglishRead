@@ -77,7 +77,7 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| putrid | 腐烂发臭的 | She would not soon forget the putrid odor that resembled rotting meat and feces. |
+| putrid | 腐烂发臭的 | She would not soon forget the putrid odor that resembled rotting meat and feces |
 | unearthly | 非人间的、怪异的 | An unearthly screech permeated the air, and his body was snatched around his midsection and yanked upward. |
 | permeated | 渗透、弥漫 | An unearthly screech permeated the air, and his body was snatched around his midsection and yanked upward. |
 | strewn | 散落、撒满 | doors were cracked and splintered, while furniture and belongings lay strewn into the streets. |

@@ -87,15 +87,15 @@ modified: "2026-11-07"
 |---|---|---|
 | mangled | 残缺破损的 | He twisted and landed on his chest, reaching for anything to grab hold of as the creature dragged him into the grass, where more mangled hands took hold of his calves. |
 | welts | （皮肤上的）红肿块 | Quickly, she pushed his pant legs up to view the angry red welts covering his calves. |
-| quiver | 箭袋 | She huffed as she searched for the quiver. Lucas had it strapped to his back. |
+| quiver | 箭袋 | She huffed as she searched for the quiver. Lucas had it strapped to his back |
 | mead | 蜂蜜酒 | A second man emerged, a bottle of mead in one hand, a dagger in the other. |
 | drawled | 拖长调子地说 | “I can think of a way for the female to pay her dues,” a lazy voice drawled from the trees behind the camp. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| wagon | 四轮马车、篷车 | There were two worn tents and a covered wagon creating a semi-circle around a blazing fire. |
-| cot | 简易床、行军床 | The inside of the wagon was arranged into a neat living space, with a small cot nestled near the front. |
+| wagon | 四轮马车、篷车 | There were two worn tents and a covered wagon creating a semi-circle around a blazing fire |
+| cot | 简易床、行军床 | The inside of the wagon was arranged into a neat living space, with a small cot nestled near the front |
 | trinkets | 小饰物、小玩意儿 | makeshift shelves held trinkets in boxes, extravagant makeup and costume jewelry, furs and linens of all textures and colors. |
 | boisterous | 喧闹爽朗的 | Lucas was right behind them with one foot on the ladder when the woman stopped mid-sentence to let out a boisterous laugh. |
 

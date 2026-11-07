@@ -43,20 +43,20 @@ modified: "2026-11-07"
 |---|---|---|
 | roiled | 翻腾、搅动 | Nausea roiled her gut, and she swallowed hard. |
 | slunk | 潜行、溜（slink 的过去式） | Above her, Gaya slunk across the top of the shelving, knocking a black leather-bound book at her feet. |
-| sporadic | 零星的、断续的 | The sporadic crackles of the fire in the hearth grew few and far between. |
+| sporadic | 零星的、断续的 | The sporadic crackles of the fire in the hearth grew few and far between |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | meager | 微薄的、少量的 | A chill crept up her ankles as she stuffed the remaining meager assortment of meats and nuts next to her mother’s grimoire in her bag. |
 | labored | 费力的、吃力的 | Not while Bernice lay sleeping by her hearth, her breaths strengthening, but still labored. |
-| mustered | 鼓起、聚集 | Andra put every bit of confidence she could muster into her trembling voice. |
+| mustered | 鼓起、聚集 | Andra put every bit of confidence she could muster into her trembling voice |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vials | 小药瓶 | Hastily, she shoved as many tonic vials as she could fit next to her supplies. |
-| hearth | 壁炉地面、炉边 | The sporadic crackles of the fire in the hearth grew few and far between. |
+| vials | 小药瓶 | Hastily, she shoved as many tonic vials as she could fit next to her supplies |
+| hearth | 壁炉地面、炉边 | The sporadic crackles of the fire in the hearth grew few and far between |
 | whistle | 哨声、吹哨 | He let out a high pitched whistle, and Andra startled. |
 | hooves | 马蹄（ hoof 的复数） | Hooves trotted against the earth, and a lantern bobbed into view as three horses approached them. |
 | saddle | 马鞍 | Lucas swung into the saddle, extending a hand to Andra to help her up. |

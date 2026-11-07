@@ -85,18 +85,18 @@ modified: "2026-11-07"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| pestle / mortar | 研杵／研钵 | Her cousin drove the heavy pestle harder into the mortar, sweat beading down his temples. |
+| pestle / mortar | 研杵／研钵 | Her cousin drove the heavy pestle harder into the mortar, sweat beading down his temples |
 | mugwort | 艾草（蒿属植物） | Pulling in a rallying breath, she joined Lucas on the ground in the center, careful not to disturb the mugwort hanging from the fort entrance. |
-| torrents | 激流、涌流 | It continued to flow in torrents from her fist until red filled the circle. |
+| torrents | 激流、涌流 | It continued to flow in torrents from her fist until red filled the circle |
 | hilt | （刀剑的）柄 | She grabbed the cool hilt of the blade. |
-| clammy | 湿冷的、黏湿的 | Her skin was clammy and cold against the hard earth. |
+| clammy | 湿冷的、黏湿的 | Her skin was clammy and cold against the hard earth |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | dagger | 匕首 | Her stranger whipped his attention in the direction of the noise, and he unsheathed a dagger before following the distraction out of sight. |
 | sage | 鼠尾草（熏香用） | Lucas set the mortar and pestle next to the burning bundle of sage, and she began sprinkling the powder throughout the circle. |
-| fort | 临时堡垒、据点 | Surrounding their makeshift fort laid a circle of sticks and branches. |
+| fort | 临时堡垒、据点 | Surrounding their makeshift fort laid a circle of sticks and branches |
 | boots | 靴子（复数） | Rough voices flitted through the night a moment before the branches swayed, and boots appeared at the edge of the trees. |
 
 ## 一句话总结

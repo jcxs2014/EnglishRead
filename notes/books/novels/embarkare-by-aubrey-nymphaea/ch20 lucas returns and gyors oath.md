@@ -96,7 +96,7 @@ modified: "2026-11-07"
 | saddlebags | 马鞍袋（复数） | Gyor stood at a small table, fervently shoving food and other supplies into any available pockets of the saddlebags. |
 | stables | 马厩（复数） | Within the newly erected stables, Andra breathed in the scent of hay and fresh lumber and willed her beating heart to slow. |
 | bolt | 门闩 | She tried to yank the doors back open, but a heavy bolt slid into place from the inside. |
-| shins | 胫、小腿（复数） | She attempted to kick at his shins, but he grabbed both wrists and spun her, so her back was pressed hard to his chest. |
+| shins | 胫、小腿（复数） | She attempted to kick at his shins, but he grabbed both wrists and spun her, so her back was pressed hard to his chest |
 
 ## 一句话总结
 启程日把三种告别（Gyor 的誓、Torgil 的托付、Lucas 的抗议）压进同一天，又用一支围 Inn 的猎杀小队教会她最疼的一课：她那套"别人撑不住"的逻辑，在 Gerrick 眼里是双标——而她回敬他的方式是膝击、脏话和绝不认输的"这个姿势"。

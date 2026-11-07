@@ -63,7 +63,7 @@ modified: "2026-11-07"
 |---|---|---|
 | manacles | 手铐、镣铐（复数） | “Trust goes both ways. And this”—she held up the manacles around her wrists—“isn’t what trust looks like.” |
 | inhibitor | 抑制剂、抑制器 | Quentin found the manacles in the torture chamber the night before and Nelveen identified them as a rare magic inhibitor. |
-| dingy | 昏暗肮脏的 | Andra sat against the far wall of the dingy cell they had locked her in the night before. |
+| dingy | 昏暗肮脏的 | Andra sat against the far wall of the dingy cell they had locked her in the night before |
 | recoiled | 退缩、畏缩 | With every click of her bones resetting, the innermost parts of him recoiled in shame and rage. |
 
 ### ⭐⭐ 进阶
@@ -72,7 +72,7 @@ modified: "2026-11-07"
 | mottled | 杂色的、斑驳的 | His face had been beaten so badly that Gerrick could only see one eye, and the mottled bruising was only starting to show in the dim flamelight. |
 | lacerations | 划伤、裂口（复数） | setting her broken bones and bandaging her lacerations. |
 | hobble | 跛行、蹒跚 | Gerrick gave Rayner a single nod before he hobbled back down the hallway. |
-| drafty | 透风的、有贼风的 | The air was drafty down here, and somehow it felt even colder than the snow blown grounds above. |
+| drafty | 透风的、有贼风的 | The air was drafty down here, and somehow it felt even colder than the snow blown grounds above |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

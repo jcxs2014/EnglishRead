@@ -77,7 +77,7 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| entwined | 缠绕、交织 | Swirls of silver smoke entwined around each other, a constant rotation of light and particles. |
+| entwined | 缠绕、交织 | Swirls of silver smoke entwined around each other, a constant rotation of light and particles |
 | slithering | 蜿蜒滑行、蠕动 | his skin deathly pale with slithering dark lines along his neck extending from the collar of his shirt. |
 | guttural | 喉音的、粗嘎的 | She began to chant a chorus of guttural spells as shadows seeped from his body and into the dark green gem. |
 | reverently | 虔敬地 | A woman knelt next to his body, holding his head reverently in her lap as she wept. |
@@ -88,7 +88,7 @@ modified: "2026-11-07"
 |---|---|---|
 | wracked | 使受创、撕裂（ tremors wracked her body） | Tremors wracked her body, and she realized it wasn’t from the cold. |
 | loomed | 隐现、逼近 | Swirls of silver smoke entwined around each other, a constant rotation of light and particles as it slowly loomed closer in the darkness. |
-| scalded | 烫伤、灼烤 | The heat from blazing fires scalded her skin as she passed. |
+| scalded | 烫伤、灼烤 | The heat from blazing fires scalded her skin as she passed |
 | pervaded | 弥漫、渗透 | Black smoke curled in furious fingers toward the sky, and the smell of death pervaded her senses. |
 | seeped | 渗出、渗入 | She began to chant a chorus of guttural spells as shadows seeped from his body and into the dark green gem. |
 

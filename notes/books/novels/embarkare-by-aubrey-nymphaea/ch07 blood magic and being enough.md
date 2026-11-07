@@ -77,7 +77,7 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| confidant | 知己、密友 | Cousin of a badass defensive team member. Niece. Friend. Confidant. Mediocre elemental wielder— |
+| confidant | 知己、密友 | Cousin of a badass defensive team member. Niece. Friend. Confidant. Mediocre elemental wielder |
 | insatiable | 无法满足的 | His death drawn out by a monster with no other motives than to quench the insatiable hunger driving its actions. |
 | retribution | 报应、惩罚 | Imagine the power a witch would have if they could cast blood spells but never have to face retribution. |
 | fickle | 易变的、靠不住的 | We both know that greed is a fickle companion. |

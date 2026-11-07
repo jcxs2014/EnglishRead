@@ -80,7 +80,7 @@ modified: "2026-11-07"
 | exhilarating | 令人振奋刺激的 | Had she really been so reckless as to follow an unknown man into the woods? Yes, she had. And it was exhilarating. |
 | ravenous | 贪婪如饥的、饿极的 | It was ravenous with hunger, a snarl that worked its way under Andra’s skin and festered there. |
 | buoyed | 使振作、托举（情绪） | She buoyed the apprehensive and carried the weak. |
-| behemoth | 庞然大物 | Skin as black as coal wrinkled and stretched over a behemoth of a monster that was neither man nor beast alone. |
+| behemoth | 庞然大物 | Skin as black as coal wrinkled and stretched over a behemoth of a monster that was neither man nor beast alone |
 | sadistic | 施虐狂的、以虐为乐的 | long black fingernails growing rapidly from her frail fingers as she turned a sadistic grin toward Andra. |
 
 ### ⭐⭐ 进阶
@@ -88,7 +88,7 @@ modified: "2026-11-07"
 |---|---|---|
 | rent | 撕裂（rent 为 rend 的过去式） | Another scream rent the air, and rather than going home, Andra followed the sound. |
 | trudged | 沉重拖沓地走 | Heavy footfalls trudged through the home a moment before a black, clawed hand clung to the doorframe. |
-| protruding | 外凸、突出的 | The face of a beast emerged from the darkness, its sharpened teeth protruding from a lipless mouth. |
+| protruding | 外凸、突出的 | The face of a beast emerged from the darkness, its sharpened teeth protruding from a lipless mouth |
 | convulsed | 抽搐、痉挛 | Blood dribbled from her mouth as her body rapidly convulsed, eyes shifting from natural to black and back again. |
 | hulking | 笨重庞大的 | but she kept her eye on the hulking monster emerging from Bernice’s home. |
 
@@ -96,8 +96,8 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gust | 一阵狂风 | A gust of wind shot toward the beast, swirling its stringy hair around its head before dying out. |
-| shattered | 砸碎、打碎 | Glass shattered inside the small home, and Andra took a tentative step toward the doorway. |
-| arrows | 箭（复数） | Three arrows planted themselves simultaneously into the firm muscles of the monster's shoulder. |
+| shattered | 砸碎、打碎 | Glass shattered inside the small home, and Andra took a tentative step toward the doorway |
+| arrows | 箭（复数） | Three arrows planted themselves simultaneously into the firm muscles of the monster's shoulder |
 | spectacles | 眼镜 | Fergal slowly removed his spectacles and laid them next to the journal he had been reading. |
 | blankets | 毯子、被子 | Andra tucked the blankets firmly around Bernice and sent a ball of flame into the nearby fireplace. |
 

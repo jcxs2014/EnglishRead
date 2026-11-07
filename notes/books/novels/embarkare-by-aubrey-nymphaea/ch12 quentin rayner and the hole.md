@@ -80,13 +80,13 @@ modified: "2026-11-07"
 | malevolence | 恶意、歹毒 | They’re created from malevolence, from spite, you know? |
 | retribution | 报应、惩罚 | She wants retribution—she wants me to pay for my mother’s sins. |
 | ultimatum | 最后通牒 | The monster was sent to issue an ultimatum from a dark witch named Vasara. |
-| perusal | 细看、审视 | Andra did a slow perusal of its body and her breath caught in her throat as she made eye contact with those brightly shining eyes. |
+| perusal | 细看、审视 | Andra did a slow perusal of its body and her breath caught in her throat as she made eye contact with those brightly shining eyes |
 | pillaged | 劫掠、洗劫 | They arrived with a wagon and pillaged the entire village. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| constricted | 收缩、紧束 | Beneath her, the beast’s muscles flexed and constricted with ease as they moved through the darkness. |
+| constricted | 收缩、紧束 | Beneath her, the beast’s muscles flexed and constricted with ease as they moved through the darkness |
 | sluiced | 奔流、倾泻 | Andra’s soul sang as the rain sluiced through the leaves, splattering in the earth. |
 | hollowed | 挖空的、中空的 | warmth washed over her as she leaned against the smooth interior of the hollowed out tree. |
 | lacerations | 裂口、划伤（复数） | The one that she had tried to break out of its cage was a dark beige with brown spots and was covered in lacerations all in different phases of healing. |

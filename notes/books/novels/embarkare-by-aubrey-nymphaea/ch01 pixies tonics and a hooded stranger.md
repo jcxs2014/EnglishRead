@@ -93,7 +93,7 @@ modified: "2026-11-07"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| tonic | 药水、补剂（本书核心词） | Don’t worry. I only use the best ingredients and incantations to craft my tonics. It won’t hurt a bit," Andra said with a soft smile. |
+| tonic | 药水、补剂（本书核心词） | Don’t worry. I only use the best ingredients and incantations to craft my tonics. It won’t hurt a bit,” Andra said with a soft smile. |
 | hollow | 树洞、凹陷处 | Careful not to disrupt the luminous tree growths, Andra reached her hand into the small opening of the oak tree hollow. |
 | pastry | 糕点、酥皮点心 | She glanced over her shoulder and opened one of the glass doors to help herself to a pastry. |
 | yelped | 短促尖叫（受惊） | Andra yelped and whirled toward the voice. |

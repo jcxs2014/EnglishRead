@@ -77,10 +77,10 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| deranged | 疯狂的、精神错乱的 | “I’ve heard rumors,” he said, cutting her off, “of a dark witch in the Northeastern Shores, and her deranged determination to avenge her lover’s death. |
-| ferocity | 凶猛、狂暴 | An inferno, unfamiliar in its ferocity, engulfed her hands, but she didn’t pause for a second to think on it. |
+| deranged | 疯狂的、精神错乱的 | “I’ve heard rumors,” he said, cutting her off, “of a dark witch in the Northeastern Shores, and her deranged determination to avenge her lover's death. |
+| ferocity | 凶猛、狂暴 | An inferno, unfamiliar in its ferocity, engulfed her hands, but she didn’t pause for a second to think on it |
 | roiled | 翻腾、搅动 | Hatred roiled through her chest, but she did what he said. |
-| inferno | 火海、地狱之火 | An inferno, unfamiliar in its ferocity, engulfed her hands, but she didn’t pause for a second to think on it. |
+| inferno | 火海、地狱之火 | An inferno, unfamiliar in its ferocity, engulfed her hands, but she didn’t pause for a second to think on it |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

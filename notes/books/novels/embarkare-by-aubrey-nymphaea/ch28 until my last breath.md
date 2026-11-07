@@ -89,7 +89,7 @@ modified: "2026-11-07"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| catalyst | 触媒、催化剂 | Magic tore from her body, her skin the catalyst for the winds surrounding the entirety of the camp. |
+| catalyst | 触媒、催化剂 | Magic tore from her body, her skin the catalyst for the winds surrounding the entirety of the camp |
 | protruding | 突出、外露 | A spear fell through the sky and stabbed through Gerrick’s back, the point protruding from his chest. |
 | cacophony | 刺耳的嘈杂 | “I can’t.” Her voice was lost in the cacophony of screams. |
 | untethered | 未拴束的、无节制的 | it sizzled along her skin, flowed through her very being, singing in pure ecstasy at the untethered release as she fought to regain control. |
@@ -98,7 +98,7 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sporadic | 零星的、时断时续的 | Directly next to the beat of her own sporadic heart, she felt it. An echo of another, a calming force that served to strengthen her own. |
-| sinewy | 坚韧多筋的 | The monster now trying to snap its teeth at her from above extended long sinewy limbs desperately toward her feet. |
+| sinewy | 坚韧多筋的 | The monster now trying to snap its teeth at her from above extended long sinewy limbs desperately toward her feet |
 | encroached | 侵迫、逼近 | She struggled to pull in air as she remembered the previous night, when similar feelings encroached upon her. |
 | protruded | 突出、凸起（过去式） | Her hands and feet were chained to a nearby stone, and angular bones protruded through bruised skin. |
 

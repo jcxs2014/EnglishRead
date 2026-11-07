@@ -79,7 +79,7 @@ modified: "2026-11-07"
 |---|---|---|
 | cavernous | 巨穴般的 | One of the walls consisted entirely of a fireplace that had to be taller than her, and a blazing fire warmed the cavernous room. |
 | chivalrous | 骑士风度的、有礼的 | Out of all the people on the continent, how had she ended up with two of the most chivalrous men? |
-| sculpted | 雕塑般的、轮廓分明的 | His body was sculpted by the devils themselves, all sharp angles and firm lines. |
+| sculpted | 雕塑般的、轮廓分明的 | His body was sculpted by the devils themselves, all sharp angles and firm lines |
 | unparalleled | 无双的、无与伦比的 | “The market in the Southern Woods offers an unparalleled experience. The sweet wine alone is worth a special trip.” |
 
 ### ⭐⭐ 进阶

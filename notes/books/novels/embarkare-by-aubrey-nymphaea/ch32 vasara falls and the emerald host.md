@@ -93,7 +93,7 @@ modified: "2026-11-07"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| crows | 乌鸦（复数） | Dozens of crows emerged, a flock of demons zooming in and out of sight through the smoke. |
+| crows | 乌鸦（复数） | Dozens of crows emerged, a flock of demons zooming in and out of sight through the smoke |
 | talons | 猛禽利爪（复数） | The crows attacked relentlessly, sharp beaks and talons ripping at her clothes, tearing through hair and skin. |
 | droplets | 水滴（复数） | Droplets raced to the center of the ceiling, collecting under the dark fire. |
 | gown | 长袍、礼服 | With a sickening squelch she pulled the blade from the dark wielder’s chest and wiped it on the woman’s gown. |

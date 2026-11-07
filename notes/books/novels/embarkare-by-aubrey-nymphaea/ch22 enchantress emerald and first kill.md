@@ -87,10 +87,10 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | armoire | 衣柜、立橱 | Andra’s legs were numb as she sat cramped in the corner of the small armoire. |
-| straddled | 跨骑、分腿骑坐 | Hiking up her silky skirt, she straddled his body and rocked her hips roughly against his pelvis. |
+| straddled | 跨骑、分腿骑坐 | Hiking up her silky skirt, she straddled his body and rocked her hips roughly against his pelvis |
 | gaunt | 憔悴的、瘦削的 | His eyes were gaunt and bloodshot, and she hadn’t seen him eat much since his return. |
 | seethed | 怒火中烧 | Lucas seethed as he stared up at Gerrick. |
-| four-poster | 四柱床 | The entirety of the room was built for luxury, with many deep seated loungers and the lush, four-poster bed draped with silk sheets. |
+| four-poster | 四柱床 | The entirety of the room was built for luxury, with many deep seated loungers and the lush, four-poster bed draped with silk sheets |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

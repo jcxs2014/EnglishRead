@@ -86,7 +86,7 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | festering | 化脓、恶化 | It was in these darkest of places, where fear grew and darkness festered, that could either break a person indefinitely or give them the strength to rise up and burn. |
-| strewn | 散落、遍布 | Tall and armored, one of the beasts strode through the tangle of bodies strewn on the snow covered ground. |
+| strewn | 散落、遍布 | Tall and armored, one of the beasts strode through the tangle of bodies strewn on the snow covered ground |
 | taut | 绷紧的 | Their fangs and blades dripped with crimson blood as their skin pulled taut over menacing grins. |
 | skittering | 疾窜、蹦跳 | Still, the monsters came, now skittering out of windows and rushing from surrounding avenues to secure their prize. |
 | silhouette | 剪影、轮廓 | her vision cleared enough to see his silhouette jump from the rooftop and into the air. |
@@ -95,8 +95,8 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hooves | 马蹄（复数） | With the pounding of hooves came the thunderous response of predators. |
-| reins | 缰绳（复数形式同形） | Quentin clutched the reins with one hand, the other wrapped around Nelveen’s unconscious body. |
-| gallop | （马）飞驰 | her legs twitched and it must have been enough guidance because Bayard broke into a gallop within the wall of orange. |
+| reins | 缰绳（复数形式同形） | Quentin clutched the reins with one hand, the other wrapped around Nelveen’s unconscious body |
+| gallop | （马）飞驰 | Her legs twitched and it must have been enough guidance because Bayard broke into a gallop within the wall of orange. |
 | horde | 大群、群集 | Gerrick swiveled and shoved his long sword through the chest of the second beast, then placed his boot on its shoulder and kicked it off the rooftop and onto the approaching horde of monsters. |
 
 ## 一句话总结

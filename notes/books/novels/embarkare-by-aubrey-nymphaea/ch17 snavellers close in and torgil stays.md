@@ -85,11 +85,11 @@ modified: "2026-11-07"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| tankard | 大酒杯、单柄酒杯 | He hung the tankard by the handle, swinging it lazily in front of her face. |
+| tankard | 大酒杯、单柄酒杯 | He hung the tankard by the handle, swinging it lazily in front of her face |
 | tootling | 吹奏（笛子）的鸣响 | In a matter of moments, the tootling of a flute resonated through the tavern. |
 | timbre | 音色、音质 | For the first time, that gravelly timbre actually brought her some fraction of comfort. |
 | saccharine | 甜腻的、矫情的 | Andra pasted a saccharine smile across her face as she squared her shoulders. |
-| audacity | 放肆、厚颜无耻 | The men had the audacity to look offended, and Andra pasted a saccharine smile across her face. |
+| audacity | 放肆、厚颜无耻 | The men had the audacity to look offended, and Andra pasted a saccharine smile across her face |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
@@ -97,7 +97,7 @@ modified: "2026-11-07"
 | crate | 木箱、板条箱 | Andra lifted the crate from the floor with a grunt, her muscles screaming in protest as she set it on the counter with a loud thump. |
 | ember | 余烬、火星 | Turning her attention to the men’s back’s, she ignited a single burning ember in her palm and tossed it under the rude one’s chair before swiveling toward the exit. |
 | collar bone | 锁骨 | “Breathe,” Gerrick soothed, his thumb brushing light strokes across her collar bone. |
-| daisies | 雏菊（复数） | Within moments, a small patch of daisies rose in a circle surrounding Andra, their white petals with yellow centers swaying gently. |
+| daisies | 雏菊（复数） | Within moments, a small patch of daisies rose in a circle surrounding Andra, their white petals with yellow centers swaying gently |
 
 ## 一句话总结
 追兵坐进了她打工的酒馆，而她的庇护者用一堵墙、一副心跳和一句"Breathe"把恐慌拆成了双人节奏——章末她对 Torgil 交出的那句"我不知道自己能不能配得上"，是全书心理线最赤裸的一次报价。

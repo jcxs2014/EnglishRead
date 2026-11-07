@@ -84,17 +84,17 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | viridian | 青绿色的、浓绿的 | slowly dissipating as it was replaced with a rich viridian hue. |
-| eradicated | 连根消灭（本句用 eradicate） | “For over seventy years we were free from your evil.” |
-| fathom | 理解、测度（常用于否定） | Beings so brutally broken she couldn’t fathom how they found the will to carry on. |
-| transgression | 冒犯、过错 | “For every transgression your mother committed, you will receive punishment.” |
+| eradicate | 连根消灭 | “She didn’t just attempt to eradicate the darkness. She did it. |
+| fathom | 理解、测度（常用于否定） | Beings so brutally broken she couldn’t fathom how they found the will to carry on |
+| transgression | 冒犯、过错 | For every transgression your mother committed, you will receive punishment.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | beckoning | 招引、召唤 | she felt the undeniable presence of a life force within these walls, beckoning to her like a siren’s song. |
 | unreciprocated | 无回报的、单方面的 | it turns out the unreciprocated feelings he harbored for your mother weren’t enough to keep his mouth shut forever. |
-| behemoth | 庞然大物 | The only entrance to the room was blocked by a behemoth of a monster. |
-| cloaked | 掩饰、遮蔽 | “We looked for Cecilia for decades. The bitch cloaked herself well.” |
+| behemoth | 庞然大物 | The only entrance to the room was blocked by a behemoth of a monster |
+| cloaked | 掩饰、遮蔽 | We looked for Cecilia for decades. The bitch cloaked herself well. |
 | trilled | 莺啼般轻快地说 | “You’ve come all this way,” Vasara trilled. “By all means, go get them.” |
 
 ### ⭐ 常用
@@ -103,7 +103,7 @@ modified: "2026-11-07"
 | turret | 塔楼（此处指圆塔密室） | She must be in one of the fortress’s turrets. |
 | pedestal | 基座、支柱 | The thrumming pulled her onward until she was standing directly in front of a stone pedestal at the center of the room. |
 | restraints | 束缚物（复数） | Vasara procured in the center of the space where the pedestal had stood moments ago. |
-| procured | 取得、弄来 | she grunted as her ankles were bound and yanked tight... into a chair Vasara procured in the center of the space. |
+| procured | 取得、弄来 | they dragged her across the room and into a chair Vasara procured in the center of the space |
 
 ## 一句话总结
 这一章把三十年的传说拆成废墟：母亲没有赢、凶手在爱她、翡翠是钥匙而 Andra 是备用钥匙——她被钉在影缚椅上替母亲逐条还债，把眼泪锁进 Nelveen 给她的木盒，等 Lucas 和 Rayner 睁眼的那一刻再拆封。

@@ -93,7 +93,7 @@ modified: "2026-11-07"
 |---|---|---|
 | writhed | 扭动、翻滚 | Andra’s body twisted and writhed, strangled screams escaping her throat as her neck craned unnaturally to view the men in the shadows. |
 | silhouetted | 以剪影显现 | her face was just inches from Andra’s, silhouetted by the muted light above them. |
-| skidded | 打滑、擦滑 | The hilt of the blade screeched as it skidded across the floor, and Bron loomed from the shadows. |
+| skidded | 打滑、擦滑 | The hilt of the blade screeched as it skidded across the floor, and Bron loomed from the shadows |
 | condescending | 居高临下的 | Vasara offered a condescending scowl. “Patience, child. He’s not yet ready.” |
 | scowl | 怒容、绷着的脸 | Vasara offered a condescending scowl. “Patience, child. He’s not yet ready.” |
 

@@ -78,7 +78,7 @@ modified: "2026-11-07"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ostracized | 被排斥、被逐出群体 | “Humiliated me.” He slammed her head against the wall. “Ostracized me. Turned them against me.” |
-| dislocated | 脱臼的、移位的 | “Let me see. Shit.” He looked into her eyes. “It’s dislocated. I’m going to need to set this before anything.” |
+| dislocated | 脱臼的、移位的 | “Let me see. Shit.” He looked into her eyes. “It’s dislocated. I’m going to need to set this before anything. |
 | propelled | 推进、驱使 | Andra watched wide eyed as two men propelled quickly down the ropes, landing gracefully in the dirt as if they hadn’t just fallen forty feet. |
 | tethered | 系住、拴牢 | But the physical pain, the injuries, these things tethered her in this moment when the emotional pain of what just occurred craved to see her lost. |
 
