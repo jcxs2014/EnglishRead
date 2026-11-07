@@ -105,12 +105,12 @@ modified: "2026-11-06"
 **为什么这样写**：怀孕官宣被包在一句邀约里——先给承诺再给信息量，喜悦说得像家常话。
 **读者视角提示**：Derek 走了两年，这个孩子的预产期在六月、恰逢斯坦利杯决赛——命运的补偿奖在这一章轻轻落下。
 
-> **原句 14:** "We ended the call, and I puttered around my apartment, trying to sift through my complicated mix of emotions. Happiness—of course—for Bryn and Frasier. Though I couldn't help but think of Derek too, and all that he was missing."
+> **原句 14:** ""Perpetuates colonialism and ignores the atrocities committed against Native Americans," she finished for me in a solemn tone. "Yes, I'm well aware. But I also understand that two things can be true at once. It is a painful day, and reparations should be made. And it's also one of the few times we can spend time together as a family.""
 
-**中文理解**：挂了电话，她在公寓里转来转去，想把这团乱麻一样的情绪筛清楚。当然为 Bryn 和 Frasier 高兴——可她忍不住也想起 Derek，想起他错过的这一切。
-**关键词**：puttered、sift through、Happiness、missing
-**为什么这样写**：把喜悦写成需要"筛"的混合物——幸福与缺席共用一个房间，这本书的哀悼从不退场，只换座位。
-**读者视角提示**：新生命的到来同时是亡者的显影——她替死者清点他错过的一切，这是她的悼念方式。
+**中文理解**：Logan 刚说了半句"感恩节是洗白节的——"，妈妈就接过话头，一字不差地补完，然后给出全书的定理：两件事可以同时为真。这一天既痛、赔偿必须兑现，同时也全家难得一聚。
+**关键词**：solemn tone、two things can be true at once、reparations、as a family
+**为什么这样写**：妈妈先替女儿把最尖锐的话说完，再立下定理——不反驳、不回避，直接示范"共存"的思维；这句在 ch25 被母亲本人重申、ch27 由 Bryn 落地，是全书价值观的第一颗种子。
+**读者视角提示**：记住这句——母亲在这张餐桌上教的东西，女儿要用一整本书才能学会：悲伤与快乐、忠诚与爱情，从来不必二选一。
 
 > **原句 15:** "I reread his message as if it would provide some insight into his thoughts. Did he really mean that? Or had he, like everyone else at Bryn's, been drinking and he was feeling sentimental? Either way, I was too afraid to ask. Because deep down, some small part of me hoped that he meant it. And that scared me."
 
