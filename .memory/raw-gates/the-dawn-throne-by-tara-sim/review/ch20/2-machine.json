@@ -1,0 +1,295 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-dawn-throne-by-tara-sim/ch20 the butcher of solara.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-dawn-throne-by-tara-sim/text/ch20_xx.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Let me have my resentment, she’d decided. Let me turn their dream of divinity into a nightmare",
+          "ok": true,
+          "pos": 483
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It would have been easy to end her then and there. Easier than it had been to infiltrate the Aurora Tower to kill Impera",
+          "ok": true,
+          "pos": 1507
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She was the one who had decided to become the butcher of Solara. It was she, not Nyx, who had made the choice to run her",
+          "ok": true,
+          "pos": 3538
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Tousled black hair and furious midnight eyes. Bloodied skin and shackled wrists, the dark stone of lightsbane",
+          "ok": true,
+          "pos": 5350
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Alive. Alive. Alive",
+          "ok": true,
+          "pos": 5785
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Starfell pulsed, as if remembering the taste of his blood. The void quivered with the need to claim it",
+          "ok": true,
+          "pos": 5806
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The spherical mass didn’t just slice through the tower; it erased it from existence. Only the base was left behind, risi",
+          "ok": true,
+          "pos": 6202
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A better dream",
+          "ok": true,
+          "pos": 6974
+        }
+      ],
+      "words": 3
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. XX（Part I: Feather and Flower）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 10,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1254,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 10、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
