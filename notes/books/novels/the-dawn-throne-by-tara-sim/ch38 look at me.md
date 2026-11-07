@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：「我的祖上曾是 Divine City 的祭司。王座建成、神殿照 Phos 的口味改造之后，他们全被驱逐——理由是不再被需要。」Edwin 的家族史，就是那座城的政变史。
 **关键词**：priests / driven
 **为什么这样写**：以「裁员通知」讲神学政变——「no longer needed」把神圣叙事翻译成 HR 语汇；被逐者建立崇拜驱逐者的聚落，讽刺绕了一整圈。
-**读者视角提示**：这段话让第二十二章 Ulshära 的「祭司已走、城已空」有了下文——空城不是没人住过，是被换过血。
+**读者视角提示**：这段话让第二十二章 Nikolas 的「I thought only priests lived there」有了下文——空城不是没人住过，是被换过血。
 
 > **原句 9:** "We’re all running from something. But it doesn't matter how far you go, because it’ll always catch up with you.”
 
@@ -81,7 +81,7 @@ modified: "2026-11-06"
 
 **中文理解**：「只是……被抓住，」他轻声说，「更容易。」七个词的倒戈。愤怒的人第一次承认：追与逃，他选了逃，因为追的人是他自己。
 **关键词**：caught
-**为什么这样写**：全章的语气转折以七个词完成——「easier」不解释给谁听，让「认输」第一次听起来像自由；与上一块的「catch up」同词根：追他的东西里，最大的一件是他自己。
+**为什么这样写**：全章的语气转折以六个词完成——「easier」不解释给谁听，让「认输」第一次听起来像自由；与上一块的「catch up」同词根：追他的东西里，最大的一件是他自己。
 **读者视角提示**：Fin 的手在他背后「长羽毛的位置之间」落下——安慰落在伤口的正上方，这是本章最准的一个动作。
 
 > **原句 11:** "But the priests were taught how to deactivate the Device sometime before they left the Divine City. You must offer a bit of blood and draw a symbol with it: A circle with eight lines all meeting in the middle.”
