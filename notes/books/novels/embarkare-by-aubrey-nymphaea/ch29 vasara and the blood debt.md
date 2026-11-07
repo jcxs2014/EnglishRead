@@ -55,7 +55,7 @@ modified: "2026-11-07"
 **为什么这样写**：作者让反派动机以"清点资产"的方式陈述——Power/Wealth/Love 的排比与 Cecilia 的"光"构成资产负债表的两栏；"ready to collect"的收账口吻与 ch15 的"pay her dues"、ch20 的"signed up for"同属本书的交易语系——在这本小说里，连仇恨都说得像发票。paced（踱步）的主场感：她在自己的地盘上遛她的债务人。
 **读者视角提示**：对照 ch04 Vasara 的复仇誓言（"dark magic has conquered all"）——"Love"出现在她的损失清单里，是本章给她的第一丝人味；记住这三个词，终局的动机对账要用。
 
-> **原句 8:** "“She didn’t just attempt to eradicate the darkness. She did it. For over seventy years we were free from your evil.” … “Hmm?” Vasara looked up for the first time since starting. … "She didn’t just attempt to eradicate the darkness. She did it. For over seventy years we were free from your evil.""
+> **原句 8:** "“She didn’t attempt,” Andra croaked. … “Hmm?” Vasara looked up for the first time since starting. … “She didn’t just attempt to eradicate the darkness. She did it. For over seventy years we were free from your evil.”"
 **中文理解**：她在受刑的间隙抬起头完成抗辩：我母亲不只是"试图"消灭黑暗——她做到了；七十多年，大陆上没有你的恶。这是全书她第一次为母亲"战果"辩护，也是她第一次给传说加上年限。
 **关键词**：eradicate / seventy
 **为什么这样写**：作者让"attempt vs did"的一词之争成为本章的认知战场——Vasara 的剧本用"attempt"抹掉胜利，她用"did"夺回；"seventy years"是新数据（此前只知"百年前的大战"），它把母亲战后的和平量化，也悄悄修正时间线：若和平持续七十年，母亲的死距今不足三十年（与 ch16 的"三十年的屠杀"对表）。Vasara 的"first time looking up"说明这句话扎到了她。
