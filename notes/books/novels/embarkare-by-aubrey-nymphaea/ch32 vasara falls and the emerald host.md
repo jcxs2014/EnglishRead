@@ -10,7 +10,7 @@ modified: "2026-11-07"
 - **情感弧线位置**：力量与牺牲的双子星顶点——她刚手刃全书大反派，立刻把自己的胸口变成新反派的巢穴；对 Gerrick 的"不原谅"与"以命换命"在同一章完成，爱与恨的账目全部打平又全部翻新。
 - **Tropes 兑现/反转**：兑现「终极决战+以身为器」双 trope；反转有三：Vasara 死得毫无仪式感（一章之内）；翡翠的诱惑用"old friend"的口吻出现（Edgeron 等的不是胜利，是会面）；最后的牺牲者是"治愈者"本人——她用兽人的逻辑（血、宿主、献祭）救了猎人的命。
 - **人物弧线**：Andra 完成四系全开（火愈/风涡/雨沸/根缚）与"魔法=本体"的合一；她的拒斥让 Gerrick 的复活显得像一次被驳回的申请；Edgeron 以"宿主"身份进入叙事——书的真正大反派在最后一刻换人。
-- **叙事手法**：决斗的图层设计（火圈→黑根→沸腾雨→意识空间）逐层加码；"bone blade kills its owner's beloved"的道具轮回（它杀过 huntsman's daughter，如今杀了 Vasara）；章末的"Until my last breath"与 ch28 构成镜像对倒——同一句话，说的人换了，方向也换了。
+- **叙事手法**：决斗的图层设计（火圈→黑根→沸腾雨→意识空间）逐层加码；"骨刃杀死至爱之人"的道具轮回（它杀过猎户之女，如今杀了 Vasara）；章末的"Until my last breath"与 ch28 构成镜像对倒——同一句话，说的人换了，方向也换了。
 
 ## 精读
 > **原句 1:** "Heart pounding in her ears, Andra ignited her fingertips one by one. With each crackle of flames the bones snapped and mended, and she flexed her fingers as the fire spread up her arms."
