@@ -25,7 +25,7 @@ modified: "2026-11-07"
 **为什么这样写**：作者让"活着"先以悬念出场再以伤疤消失坐实——血衣与无伤的对比是本章的第一记反转（衣服记得死亡，皮肤否认它）；"darling"的称谓是 Vasara 把雇佣关系表演成亲密关系的惯技（对照 ch28 "Gerrick, darling"——亲昵即占有宣告）；她的记忆自检（this memory was hers）是她在假 Lucas 事件后养成的核查反射。
 **读者视角提示**：对照 ch30 的" healed you and start again"（Vasara 的刑罚宣言）——她真的会"治愈"，且已经用在他身上；记住治愈的施与者=控制权的发放者。
 
-> **原句 4:** "She searched his clothes from her place on the wall as he approached. They were bloodied and torn, exposing the skin of his chest underneath. Skin that bore no sign of injury."
+> **原句 3:** "She searched his clothes from her place on the wall as he approached. They were bloodied and torn, exposing the skin of his chest underneath. Skin that bore no sign of injury."
 **中文理解**：他被引到墙边——她逐寸检查他的衣服：血污、撕裂、露出底下的胸膛；而皮肤上没有任何受伤的痕迹。死亡的全部证据都在衣服上，皮肤把它全部否认。
 **关键词**：bloodied / injury
 **为什么这样写**：作者让"衣服与皮肤"各自作证——血衣证死、皮肤证活，物证系统在她眼前分裂；这句冷静的验伤报告是本块最狠的一笔：治愈的发生被压缩成"no sign of injury"五个词。Vasara 的治愈（对照 ch30 的刑罚宣言）此刻成了最贵的贿赂。
