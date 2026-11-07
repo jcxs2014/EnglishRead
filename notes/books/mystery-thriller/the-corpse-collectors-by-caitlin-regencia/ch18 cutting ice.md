@@ -56,7 +56,7 @@ modified: "2026-11-07"
 **读者视角提示**：“错”恰在那一下。
 
 > **原句 8:** "Kastral is holding Dallin in a tunnel under the sanctuary."
-**中文理解**：她说Kastral扣着Dallin在圣所下的隧道里。
+**中文理解**：她说组织头目扣着男子下属的密道，地点在圣所下面的一口隧道里。
 **关键词**：holding Dallin, tunnel under the sanctuary
 **为什么这样写**：作者用位置把目的地一下点住。
 **读者视角提示**：圣所是她的下一目标。
