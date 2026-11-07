@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch12_xii.txt",
+ "facts": [
+  {
+   "fact": "开章：断头武士压顶—— recurve knife 本刺其头、只撕开枕头（羽毛飞散）；Nox 化匕首扑倒她；强制失败（神力护体），Azideh:「Not even my kind can best a god」——「Good thing I have the power of both」。",
+   "anchor": "Arterial blood sprayed Dante as a Solarian warrior’s headless body slumped on top of him.",
+   "start": 19,
+   "end": 108
+  },
+  {
+   "fact": "影杀：影比光快（shadow 是 absence）——吞掉光刃、饿影断颈；尸身右臂有熟悉符号（他认不出）；「This one stinks of Solara. Of its god.」+「Oh, yes」——还有更多。",
+   "anchor": "It ate the luminous ray and everything beyond it.",
+   "start": 2093,
+   "end": 2142
+  },
+  {
+   "fact": "恶魔的情报+惩罚式亲昵：拽链强吻、Dante 咬其手——讨价还价「You will get your offering...But not until I fulfill my end」——Phos 的门是临时的，快就赶得上。",
+   "anchor": "“A portal has been opened.”",
+   "start": 3187,
+   "end": 3214
+  },
+  {
+   "fact": "门厅：Elena 战三叉戟武士、Brailee 影盾挡多尾鞭、Dante 空降一匕刺心；复活武士自爆成 solar flare——Elena 以 supernova 级 moondark 应战；武士以 Vaegan 口音反咬「Our own honored bloodline lies dead by your hand!」——Taesia（Phos 的报復）。",
+   "anchor": "“You dare come into my house and assault my family,”",
+   "start": 8819,
+   "end": 8871
+  },
+  {
+   "fact": "代价：Elena 碾杀武士后右臂近肩断离（Somnus 与 familiar 做止血带）；「The refugees. They need you.」——她「I'll be fine」。",
+   "anchor": "Their mother’s right arm was severed near the shoulder.",
+   "start": 10291,
+   "end": 10346
+  },
+  {
+   "fact": "拦路：Brailee 哭求别走——「I’ll find her, Bee. I promise. I'll bring her back」（Taesia=被撕出夜空的星座）；恶魔劝强制，Dante：「I will never do that to her. Ever.」。",
+   "anchor": "I’ll find her, Bee. I promise.",
+   "start": 7687,
+   "end": 7717
+  },
+  {
+   "fact": "抉择： heir 理想=舍少数救多数——「he would have to turn his back on the few to spare the many」——他跑出前门（巨眼一路追踪），把「那个恐惧的男孩」甩在影子里奔向宫殿广场。",
+   "anchor": "That in order to be the savior he’d dreamed of being,",
+   "start": 11463,
+   "end": 11516
+  },
+  {
+   "fact": "自责：本指望 Phos 撑到夏至——「the barriers around Vitae were thinned during the equinox; he should have planned for this」；「Where did they come from?」——「They're from the realm itself. Sent by Phos.」",
+   "anchor": "They’re from the realm itself,",
+   "start": 6579,
+   "end": 6609
+  }
+ ]
+}
