@@ -71,7 +71,7 @@ modified: "2026-11-07"
 **中文理解**：他在风暴边缘够不着她，只喊出那套口诀：你可以的——感觉我的心跳，跟它同步；她的泪被风吹横、发鞭抽脸，向内收束注意力——在自己乱跳的心跳旁边，她摸到了另一道回声：一股让她更强而不是更弱的镇定力。如他一直以来的样子。她砸下双手，天地安静。
 **关键词**：tunneled / echo
 **为什么这样写**：作者让"救她的技术"第三次出场并完成形而上学升级——ch17 的物理镇定、ch19 的照护节拍，本章升级为"心跳回声"的感知实存；"As Gerrick had always been"把技术写成关系本体：他的心跳从来不只是节拍器，是她的外部支架。口诀的复现（Match yours with mine）在下一章将成为遗言的道具——本书最温柔的技术最终没有救得了他。
-**读者视角提示**：对照 ch24 的光球夜——他的心跳是两人关系的原声带；记住"echo"这个设定，下一章他的"最后一次呼吸"将由她来数。
+**读者视角提示**：对照 ch24 的光球夜——他的心跳是两人关系的原声带；记住"echo"这个设定——后来她在心跳旁真的数过他的呼吸，只是没能数到最后一次。
 
 > **原句 11:** "Andra’s gaze connected with Gerrick’s. He beamed as he took a step toward her, then another. Relief flooded her system at the sight of him. … There she is … A spear fell through the sky and stabbed through Gerrick’s back, the point protruding from his chest."
 **中文理解**：风暴停歇，两人的目光锁上——他笑着朝她迈步、又一步，她看见他时如释重负——她来了——话音未落，一支长矛从天而降、贯穿他的后背，矛尖从他胸前透出。全书最快的一次得而复失。

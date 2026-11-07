@@ -28,7 +28,7 @@ modified: "2026-11-07"
 > **原句 3:** "“Because you’re my best friend, and I know you.” Lucas approached her. “You won’t stay in the Southern Woods and let people fight for you. Die for you.” … “I may not agree with you, but I will not let you do this alone.”"
 **中文理解**：黑暗里出来的是 Lucas——"因为我是你最好的朋友，我了解你"；你不会留在南方林子让别人为你战斗、为你去死；顿了顿他补上真正的来意：我可以不赞成你，但我不会让你独自去做这件事。前半句是控诉的语气，后半句是投诚的内容。
 **关键词**：best friend / alone
-**为什么这样写**：作者让和解分两步——先承认"我读懂了你"（know you），再交出"我改变立场"（not agree, but…）；上一章的争吵在这里被翻译：他骂的是"你太鲁莽"，守的是"你太要命"。让步的语法（may not agree, but）保留了他的自尊，也保留了这场友谊的对等性。
+**为什么这样写**：作者让和解分两步——先承认"我读懂了你"（know you），再交出"我改变立场"（not agree, but…）；第三章末摔门的那场争吵在这里被翻译：他骂的是"你太鲁莽"，守的是"你太要命"。让步的语法（may not agree, but）保留了他的自尊，也保留了这场友谊的对等性。
 **读者视角提示**："不让一个人去"是同伴 trope 的标准句式，但注意 Lucas 为此带了两个帮手——他的爱带着组织能力。
 
 > **原句 4:** "“Listen to me. You are the daughter of Cecilia the Light Witch, the one who conquered darkness a century ago. All those Commemoration Days we’ve celebrated together? They were about your mother.” … “We can finally go on that adventure we always dreamt about,” he whispered. … Butterflies erupted in her stomach as she accepted the offer, her chest flat against his warm back as she glanced at her woods one last time, hoping she would see them again."
