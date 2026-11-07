@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch20",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch20_fing_finally.txt",
+ "facts": [
+  {
+   "fact": "紫水晶打Kastral",
+   "anchor": "Achunk of amethyst flew through the air and struck Kastral in the temple.",
+   "start": 33,
+   "end": 106
+  },
+  {
+   "fact": "六卫兵迎战",
+   "anchor": "Six of them in total. Not as many as the Order, but with double the physical strength",
+   "start": 327,
+   "end": 412
+  },
+  {
+   "fact": "洞塌Dallin罩她",
+   "anchor": "Dallin twisted his larger frame to cover hers",
+   "start": 6709,
+   "end": 6754
+  },
+  {
+   "fact": "表白",
+   "anchor": "I love you. I need you to know that.",
+   "start": 7082,
+   "end": 7118
+  },
+  {
+   "fact": "战胜",
+   "anchor": "The fight, it appeared, was over, and they had won.",
+   "start": 8223,
+   "end": 8274
+  },
+  {
+   "fact": "Elora重伤",
+   "anchor": "Blood pooled from deep lacerations she’d received regardless of her attempt to protect herself",
+   "start": 9984,
+   "end": 10078
+  },
+  {
+   "fact": "不能复生",
+   "anchor": "You cannot raise the dead, my dear.",
+   "start": 11568,
+   "end": 11603
+  },
+  {
+   "fact": "战胜后迷惘",
+   "anchor": "They won the war, saved the vampires and her people",
+   "start": 14187,
+   "end": 14238
+  }
+ ]
+}
