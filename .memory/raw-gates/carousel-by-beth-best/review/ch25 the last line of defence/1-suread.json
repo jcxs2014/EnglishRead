@@ -1,0 +1,54 @@
+{
+  "chapter": "ch25",
+  "source": "text/ch25_25_the_last_line_of_defence.txt",
+  "facts": [
+    {
+      "who": "Meg and Ara",
+      "did": "go to Bridge during Rhavnan ambush (hour 19); fire on plating outside Deck 6 rising; ships in formation; Dezeeves commands",
+      "relation": "",
+      "number_date": "hour of nineteen; Deck 6",
+      "evidence": {
+        "span": "The standing clock tells me it’s the hour of nineteen.",
+        "loc": "chars 633-687"
+      }
+    },
+    {
+      "who": "Dezeeves",
+      "did": "assigns Ara to Intelligence radios (blue wave) to translate; Riss sent to fly; Rike shoots down a Rhavnan ship",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "She is in Intelligence, is she not? Let’s allow her to start being intelligent.",
+        "loc": "chars 3974-4053"
+      }
+    },
+    {
+      "who": "Rhavnan ships / Termite 5 pilot",
+      "did": "feint to expose lower decks near Osimidite Chamber; Termite 5 rams an approaching ship to protect the gap (Rhavnan sacrifice tactic)",
+      "relation": "",
+      "number_date": "Termite 5; Termite Twenty (Riss) targeted context",
+      "evidence": {
+        "span": "slams straight into the other, and they collide in the air.",
+        "loc": "chars 10847-10906"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "hears 'Darling?' on radio, recognizes mother's voice; Meg notices; Ara answers 'Mother?'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“I’m here, Darling.”",
+        "loc": "chars 13032-13052"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara aids Hevallan defense by translating; Rhavnan sacrifice tactic shocks her.",
+    "Mother contacts Ara via radio during battle."
+  ],
+  "numbers_dates": [
+    "hour of nineteen",
+    "Termite Twenty/5"
+  ]
+}

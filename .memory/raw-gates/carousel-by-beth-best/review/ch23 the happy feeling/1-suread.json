@@ -1,0 +1,44 @@
+{
+  "chapter": "ch23",
+  "source": "text/ch23_23_the_happy_feeling.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "under osimidite answers Dezeeves euphorically; views sketches (Rike's Palace/dome vs Rhavna village) as corrective instruction claims Queen/court live in splendour while country withers",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“Rike was one of our first prisoners. You can imagine we were surprised, when we learned that this,” he gestures to Rike’s scroll, “Is what the Rhavna inside the dome looks like.”",
+        "loc": "chars 5528-5707"
+      }
+    },
+    {
+      "who": "Meg",
+      "did": "becomes Ara's keeper (switches books with Riss; Dezeeves made her one); threatens Ara at gunpoint not to use blood magic on her; takes Ara to her cabin",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "You ever try to use blood magic on me again, and I’ll kill you. Do you understand me?",
+        "loc": "chars 11163-11248"
+      }
+    },
+    {
+      "who": "Meg",
+      "did": "reveals she lived in Palace ~2 years, sold to Queen at 15 for blood magic, worked under Master of Spies (sexual slavery), immune to Queen's memory magic; says Queen can make anyone forget; offers to help recover Ara's memories",
+      "relation": "",
+      "number_date": "about two years; fifteen",
+      "evidence": {
+        "span": "The Queen’s talent is that she can make anyone forget anything.",
+        "loc": "chars 15208-15271"
+      }
+    }
+  ],
+  "relationships": [
+    "Meg shifts from threat to uneasy ally with knowledge of Palace/Queen.",
+    "Ara learns Queen erased memories and Meg can resist that magic."
+  ],
+  "numbers_dates": [
+    "about two years",
+    "fifteen"
+  ]
+}

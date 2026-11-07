@@ -1,0 +1,54 @@
+{
+  "chapter": "ch07",
+  "source": "text/ch07_7_the_floating_carousel.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "gives Drake and Cosmer Rhavnan sleeping draught after the hawker crisis and pilots them to the hive ship",
+      "relation": "captor/caretaker",
+      "number_date": "",
+      "evidence": {
+        "span": "I just gave them a shot of Rhavnan sleeping draught.",
+        "loc": "chars 560-612"
+      }
+    },
+    {
+      "who": "Ara and Cosmer",
+      "did": "argue about his 'Rhavnan scum' comment, his absence, and his claim he volunteered to come; Cosmer apologizes",
+      "relation": "strained friends",
+      "number_date": "five years (Ara in Hevalla); three years (Cosmer's claim of war/no visit context)",
+      "evidence": {
+        "span": "I volunteered to pilot as soon as I heard your name on my ship’s radio today.",
+        "loc": "chars 8314-8391"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "sees the enormous golden hive ship/carousel in the air with portholes, cannons, and lights; they dock",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "a golden ship – it really does look like a carousel – is suspended in the air.",
+        "loc": "chars 2998-3076"
+      }
+    },
+    {
+      "who": "Dezeeves",
+      "did": "has Ara wave rock salts under Drake's nose to wake him in the docking pod",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Wave these under his nose.",
+        "loc": "chars 10843-10869"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara/Cosmer conflict and partial reconciliation.",
+    "Hive ship arrival; Drake revived."
+  ],
+  "numbers_dates": [
+    "five years in Hevalla (Ara)",
+    "three years (Cosmer context)"
+  ]
+}

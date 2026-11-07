@@ -1,0 +1,31 @@
+{
+  "chapter": "ch29",
+  "source": "text/ch29_29_the_implosion_of_magic.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "tries to use blood magic to make Cosmer fight/never be hooked by osimidite again, drawing on Drake's power; magic implodes and Ara collapses unconscious/locked in her mind",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "The magic implodes. I am thrashing, living pain.",
+        "loc": "chars 6137-6185"
+      }
+    },
+    {
+      "who": "Meg and Drake (overheard by Ara in mind)",
+      "did": "carry Ara back; Meg knows Drake is crown prince/future queen context; discusses Ara's power surge after meeting key/love/losing virginity, magic stabilizing, betrothal protection; Meg advises Drake he can't get into Ara's heart but could get into her head 'or somewhere else'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "You can’t get into her heart – but you could still get into her head. Or… somewhere else.",
+        "loc": "chars 15292-15381"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara's attempt to cure addiction fails violently.",
+    "Political/magical stakes of Ara-Drake bond and betrothal revealed to Ara via eavesdropping."
+  ],
+  "numbers_dates": []
+}

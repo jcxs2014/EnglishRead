@@ -1,0 +1,228 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/carousel-by-beth-best/ch46 the metal ladder.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/carousel-by-beth-best/text/ch46_46_the_metal_ladder.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "His arm is floppy as I grasp it. But my heart stirs. Because there is warmth under his clammy skin. A faint pulse in his",
+          "ok": true,
+          "pos": 464
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I do the same now for Drake. He’ll be in his cabin, or just leaving it. He wouldn’t have tried entering my dream from an",
+          "ok": true,
+          "pos": 3071
+        },
+        {
+          "text": "Powerful. He does make me feel powerful. Sometimes. The magic stays stagnant. It wants more from me. Sympathy, I think. ",
+          "ok": true,
+          "pos": 3601
+        }
+      ],
+      "words": 136
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Drake?” I ask, my voice shaking",
+          "ok": true,
+          "pos": 5290
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Because this is all fucked. Do you not see that? I’m going to a country where I don’t even speak the language. My mothe",
+          "ok": true,
+          "pos": 12663
+        }
+      ],
+      "words": 125
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "From where I’m standing, Ara, it sort of looks like it is. I’m completely ruined while you get to go home – your real ho",
+          "ok": true,
+          "pos": 13296
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 126,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 182,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 158,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 171,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.95,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. The Metal Ladder",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 9.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 2,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2742,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 49 章中位 9、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句2",
+        "words": 136
+      },
+      {
+        "block": "原句4",
+        "words": 125
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

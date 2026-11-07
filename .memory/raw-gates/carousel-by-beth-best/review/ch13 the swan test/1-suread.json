@@ -1,0 +1,52 @@
+{
+  "chapter": "ch13",
+  "source": "text/ch13_13_the_swan_test.txt",
+  "facts": [
+    {
+      "who": "Ara and Drake",
+      "did": "are presented with roasted swan (Rhavna's sacred animal) and asked to carve; Drake reaches toward knife, Ara refuses on cultural/religious grounds; Dezeeves replaces it with beef",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "We appreciate the hospitality you have shown us. We have had an… enjoyable evening. But I’m afraid we cannot eat this.",
+        "loc": "chars 3738-3856"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "discusses the test as making them look weak/pliable for conversion; questions Ara about Palace/Queen, her speech to Dezeeves, and the hand-touch sparks; notes Queen has a unique talent not known to many",
+      "relation": "Drake probing Ara",
+      "number_date": "",
+      "evidence": {
+        "span": "The Queen has a unique talent,” he states, in the same quiet, careful tone. “Not known to many.",
+        "loc": "chars 7765-7860"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "feel sparks/stinging again when their hands touch near the cloche/under table context; Drake now feels it too",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "You felt what I felt.",
+        "loc": "chars 7441-7462"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "confronts Ara/Drake about whispering; Ara snaps at his suspicion that they might have attacked/stabbed",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "We’re not that stupid,” I spit, picking up my glass. “And I thought you would have had a better opinion of me and my character, Cosmer.",
+        "loc": "chars 9244-9379"
+      }
+    }
+  ],
+  "relationships": [
+    "Swan provocation/test; Ara defuses.",
+    "Drake suspects Ara/Queen link and blood-magic reactions.",
+    "Ara/Cosmer friction."
+  ],
+  "numbers_dates": []
+}

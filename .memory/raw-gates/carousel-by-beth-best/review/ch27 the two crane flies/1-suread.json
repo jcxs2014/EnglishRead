@@ -1,0 +1,32 @@
+{
+  "chapter": "ch27",
+  "source": "text/ch27_27_the_two_crane_flies.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "enters Old Mother's dream/mind; Old Mother speaks there and says Ara's magic is strong; reveals two fortunes (original + one drawn to change fate) but says Ara not ready for full truth",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "One was the original fortune. The second was the fortune I drew to try to change the fate predicted in the first. It is a risky business, cheating the stars.",
+        "loc": "chars 4948-5105"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "enters Ara's dream/mind, can will her to wake from his cabin; asks to meet on Deck 6 stairs; says he learned Ara's loneliness/darkness by feeling it just now",
+      "relation": "",
+      "number_date": "Deck 6 stairs",
+      "evidence": {
+        "span": "I learned it when I felt it. Just now.",
+        "loc": "chars 11326-11364"
+      }
+    }
+  ],
+  "relationships": [
+    "Old Mother withholds full fate/fortunes; Drake demonstrates deep mind-link and summons Ara to meet."
+  ],
+  "numbers_dates": [
+    "Deck 6"
+  ]
+}

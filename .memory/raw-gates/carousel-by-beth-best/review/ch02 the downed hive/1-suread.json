@@ -1,0 +1,98 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_2_the_downed_hive.txt",
+  "facts": [
+    {
+      "who": "Ara and Eric",
+      "did": "go out to sea in a boat to fish; Eric asks about Vikemy's 'sacrifices' remark and Old Mother's readings; Ara hides her fortune from Eric to avoid worrying him",
+      "relation": "siblings fishing together",
+      "number_date": "",
+      "evidence": {
+        "span": "“We need more readings from Old Mother. Something’s coming, I can feel it. What was Vikemy even talking about, anyway? People haven’t made sacrifices for us, have they?”\n\n\n“He must mean Mother and Father,” I say, still rowing steadily. “When they…”",
+        "loc": "chars 585-833"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "sees a huge cylindrical gold smoking object (a hive ship) falling from the sky, spinning with flashing lights, plummeting toward the sea near them",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "A huge, cylindrical object, gold as a coin and smoking like a potion, is falling from the sky. Lights are flashing on it, and it’s spinning. It looks like a mechanical carousel. The kind that would be set up every year in the Palace grounds for the birthdays of the young princess.",
+        "loc": "chars 2456-2737"
+      }
+    },
+    {
+      "who": "Ara and Eric",
+      "did": "try to escape by rowing; Eric drops his net and shouts at Ara to row as the Temple bell rings and watchers swarm the beach",
+      "relation": "siblings",
+      "number_date": "",
+      "evidence": {
+        "span": "Eric drops his net.\n\n\n“Ara, row!” he shouts.\n\n\nI grab the oars. My arms strain as I row. Everything feels as though it’s happening at twice the speed, like we’ve all caught fire.",
+        "loc": "chars 3013-3191"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "loses Eric in the fleeing crowd, is shoved, experiences a crushing episode (lead skull, head pain, white flashes), closes her eyes and loses time, finding herself last on the beach",
+      "relation": "searching for brother Eric",
+      "number_date": "three hundred and sixty degrees (turning)",
+      "evidence": {
+        "span": "When I straighten up, I realise Eric is no longer by my side.\n\n\n“Eric?” I scream, turning three hundred and sixty degrees. “Eric?” I can see a lot of fleeing people. But not my brother.",
+        "loc": "chars 3779-3964"
+      }
+    },
+    {
+      "who": "The hive ship",
+      "did": "hits the water with a crash and sinks; the impact creates a huge wave that smothers the beach and slams into the cliff; Ara jumps onto rocks to survive the wave",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I don’t have even a second to dwell on it, as at that moment the smoking ship hits the water. I watch in horror as the machine slips beneath the sea with a crash so loud the whole beach seems to sway.\n\n\nInstantly, a huge wave leaps up from the impact and roars like an open mouth towards the shoreline.",
+        "loc": "chars 4494-4796"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "identifies the sinking ship's flag as royal blue (Rhavnan) and concludes Hevalla is winning the war",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "The flag, I realise, is royal blue.\n\n\nAnd my heart sinks faster than that ship. Because of course, of course, this is a Rhavnan ship. I’d hoped Vikemy had been exaggerating Hevalla’s successes in battle during Sermon. But this downed ship proves it. Despite its people having no blood magic, Hevalla is winning the war – or maybe has just won it.",
+        "loc": "chars 5206-5552"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "spots a body in Rhavnan blue in the water, swims out, pulls a Rhavnan soldier to shore, and performs chest compressions on him until he coughs up water and revives",
+      "relation": "rescues unknown Rhavnan soldier",
+      "number_date": "early twenties (soldier's apparent age); a thousand once mores (felt)",
+      "evidence": {
+        "span": "I throw myself into the water. Swim harder, faster than I ever have. I don’t remember reaching him, only that I do. I pull the soldier towards me, lifting his head.\n\n\nI can’t tell if he’s alive or dead.",
+        "loc": "chars 6104-6306"
+      }
+    },
+    {
+      "who": "The revived Rhavnan soldier",
+      "did": "coughs up water, rises to his feet, searches himself, opens a rubber ball on his belt, takes out a gun and points it at Ara's head",
+      "relation": "soldier Ara just saved",
+      "number_date": "",
+      "evidence": {
+        "span": "I watch as he finds a rubber ball connected with a cord to his belt, and prises it open with both hands.\n\n\nA coldness creeps into my veins.\n\n\nBecause maybe I’ve made a mistake.\n\n\nMaybe he hit his head in the fall or ingested too much water.\n\n\nMaybe he’s not Rhavnan.\n\n\nMaybe he is, but he’s a spy.\n\n\nAll I know is – and I know it now, in every fibre of my being – he’s dangerous.\n\n\nI edge myself backwards. My heart is in my throat.\n\n\nIt’s too late.\n\n\nThe ball is open. And he’s pointing a gun at my head.",
+        "loc": "chars 9915-10420"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara and Eric are siblings",
+    "Old Mother is their grandmother who gives fortune readings",
+    "Vikemy is the State Craftsman referenced in conversation",
+    "Cosmer was a soldier who died (Ara wonders if he died like this)",
+    "The downed ship is Rhavnan (royal blue flag); the survivor is a Rhavnan soldier in uniform"
+  ],
+  "numbers_dates": [
+    "early twenties (apparent age of the Rhavnan soldier Ara rescues)",
+    "three hundred and sixty degrees (Ara turns looking for Eric)",
+    "hundreds of soldiers (a hive is home to a fleet of ships and hundreds of soldiers)"
+  ]
+}

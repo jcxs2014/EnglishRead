@@ -1,0 +1,41 @@
+{
+  "chapter": "ch49",
+  "source": "text/ch49_49_the_new_world.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "after the kiss believes Drake eased her grief and accepts marrying him as logical; asks Meg for a dress and discusses loyalty/Ephraine; tells Meg Cosmer is in the infirmary and describes him only as a vague village keeper/troubled addict who returned for osimidite (memory altered)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He’s in the infirmary.”\n\n\nAnd I’m not sure why she would ask me about him.",
+        "loc": "chars 3324-3398"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "kills Dezeeves with a silver knife as they arrive at the Rhavna dome ('I told you I wouldn’t have missed'); Ara and Drake use magic to make others forget (Dezeeves left in evacuation/was never here) and plan to leave him in the brig",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "throwing a familiar silver knife over his shoulder, right at Dezeeves.",
+        "loc": "chars 9040-9110"
+      }
+    },
+    {
+      "who": "Queen Katale / Ara",
+      "did": "Queen welcomes Drake and Ara at the Palace, learns of their union and plans the wedding; Ara learns Eric is alive in Rhavna; Ara feels happy and oddly thinks of a desert island",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Eric is here.",
+        "loc": "chars 14858-14871"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara's rewritten memory removes her romantic love for Cosmer; she embraces queenship with Drake.",
+    "Dezeeves is assassinated and memory-wiped from witnesses."
+  ],
+  "numbers_dates": []
+}

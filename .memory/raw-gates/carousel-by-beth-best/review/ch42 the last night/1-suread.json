@@ -1,0 +1,31 @@
+{
+  "chapter": "ch42",
+  "source": "text/ch42_42_the_last_night.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "grieve differently (Cosmer not ready to talk about Riss/mother/Eric/Old Mother yet); Cosmer seeks intimacy as escape but Ara refuses sex in grief and asks to just lie/talk; they comfort each other and rest",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I’m grieving in my own way.”\n\n\nI’m disappointed.",
+        "loc": "chars 1057-1105"
+      }
+    },
+    {
+      "who": "Cosmer and Ara",
+      "did": "share tinned peaches Cosmer hid in mattress; ship suddenly stops — Cosmer reports Dezeeves wants everyone together for a final meal on the ship before arrival",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Dezeeves wants us all together for a final meal on the ship.”\n\n\nI’m already settling back into the bed.",
+        "loc": "chars 5793-5896"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara and Cosmer have a brief tender reprieve before Rhavna.",
+    "Final meal summons them back into Dezeeves' orbit."
+  ],
+  "numbers_dates": []
+}

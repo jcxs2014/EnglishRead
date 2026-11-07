@@ -1,0 +1,54 @@
+{
+  "chapter": "ch11",
+  "source": "text/ch11_11_the_airlock_execution.txt",
+  "facts": [
+    {
+      "who": "Cosmer and Drake",
+      "did": "fight in the Training Room; Drake forces Cosmer out of the circle and Cosmer accuses him of cheating/blood magic; Ara feels a shock of heat when Cosmer stops moving",
+      "relation": "rivals; Ara senses something",
+      "number_date": "",
+      "evidence": {
+        "span": "You did. You did it to me on my ship. And you did it to me just now.” He points at him. “This is blood magic!",
+        "loc": "chars 3850-3959"
+      }
+    },
+    {
+      "who": "Ephraine/State Craftsman/Lore Mallory",
+      "did": "conduct Chapp Fenman’s Trial on Deck for attempted murder of a crew member; witnesses Cosmer and Rissa; verdict guilty; sentence Execution by Airlock carried out",
+      "relation": "",
+      "number_date": "First Day in week twenty-one of the year of the cricket",
+      "evidence": {
+        "span": "The sentence will be – in accordance with The Accords – Execution by Airlock.",
+        "loc": "chars 10522-10599"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "asks Riss to train her to fight so she can defend herself; Riss agrees; Drake offers but is not allowed alone with Ara",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I want to learn how to fight,” I say, my voice clear. “If there’s ever another Chapp, I need to be able to defend myself.",
+        "loc": "chars 12496-12617"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "tells Ara Cosmer has not eaten properly for three years (reason not explained here in full) and lets Ara bathe using her barrel/water",
+      "relation": "",
+      "number_date": "three years",
+      "evidence": {
+        "span": "So would you be if you didn’t eat properly for three years. Leave him alone.",
+        "loc": "chars 17168-17244"
+      }
+    }
+  ],
+  "relationships": [
+    "Chapp executed; ship danger real.",
+    "Ara seeks combat training; Cosmer’s three-year starvation noted."
+  ],
+  "numbers_dates": [
+    "First Day week twenty-one year of the cricket",
+    "three years"
+  ]
+}

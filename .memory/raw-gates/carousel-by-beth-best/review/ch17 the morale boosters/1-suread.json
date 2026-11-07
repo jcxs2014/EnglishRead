@@ -1,0 +1,54 @@
+{
+  "chapter": "ch17",
+  "source": "text/ch17_17_the_morale_boosters.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "drinks to dull buzzing; watches Cosmer talk with Meg; dances with Rike then with Drake to 'The Soulmates' (Queen's favourite)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "The Soulmates. One of my favourite songs, too.",
+        "loc": "chars 4188-4234"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "dances with Ara, passes her a folded note asking her to retrieve C's (Cosmer's) radio and leave it outside his cabin/knock once, return by morning; tells her to soak note in water; adds P.P.S. stop stealing drinks",
+      "relation": "allies/conspiracy",
+      "number_date": "by morning",
+      "evidence": {
+        "span": "But I need you to retrieve C’s and leave it for me outside my cabin. Knock once. I know you’ll think of a way. I’ll return it by morning.",
+        "loc": "chars 11314-11451"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "asks if Ara's favourite colour is seafoam green and says they never met but 'whether we know each other is a different question'; claims loyalty to Rhavna",
+      "relation": "mystery connection",
+      "number_date": "",
+      "evidence": {
+        "span": "Is your favourite colour seafoam green?",
+        "loc": "chars 9766-9805"
+      }
+    },
+    {
+      "who": "Dezeeves",
+      "did": "praises Ara and Drake's dance as wonderful",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Wonderful. That was wonderful.",
+        "loc": "chars 10894-10924"
+      }
+    }
+  ],
+  "relationships": [
+    "Drake recruits Ara to steal Cosmer's radio.",
+    "Drake reveals uncanny knowledge of Ara (seafoam green).",
+    "Cosmer watches with revulsion."
+  ],
+  "numbers_dates": [
+    "by morning"
+  ]
+}

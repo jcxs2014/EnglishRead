@@ -1,0 +1,41 @@
+{
+  "chapter": "ch46",
+  "source": "text/ch46_46_the_metal_ladder.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "finds Cosmer alive (warmth, faint pulse, shallow breath), tries to sober him with a magic command (not immediate), drags him away from the tank; overheats in fumes",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "there is warmth under his clammy skin.",
+        "loc": "chars 549-587"
+      }
+    },
+    {
+      "who": "Ara and Drake (mind contact)",
+      "did": "Ara reaches for Drake to move Cosmer; sees a compound memory where Rhavnans were captive/bled before Drake pushes her out; Drake appears and refuses to help Cosmer",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He wasn’t the only captive, because these people – other Rhavnans – were being bled, too.",
+        "loc": "chars 5996-6085"
+      }
+    },
+    {
+      "who": "Cosmer (sobering) and Ara",
+      "did": "on the ladder Cosmer says the relationship is over, accuses Ara of playing/lying, says she killed Ephraine (Meg implied made against his will) and that her magic is why Riss died; claims she said Drake's name in her sleep — he finds that unforgivable",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "You did, Ara,” he says, in a lifeless way that will haunt me forever.",
+        "loc": "chars 14253-14322"
+      }
+    }
+  ],
+  "relationships": [
+    "Cosmer survives Osimidite exposure but ends the relationship, blaming Ara and fixating on her bond with Drake.",
+    "Drake's childhood captivity/bleeding is glimpsed."
+  ],
+  "numbers_dates": []
+}

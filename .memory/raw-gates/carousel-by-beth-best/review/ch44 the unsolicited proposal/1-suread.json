@@ -1,0 +1,40 @@
+{
+  "chapter": "ch44",
+  "source": "text/ch44_44_the_unsolicited_proposal.txt",
+  "facts": [
+    {
+      "who": "Ara (in dream)",
+      "did": "creates Vikemy beach in her dream-world and writes names of the dead in sand (Hevallan remembrance tradition); Drake enters and adds his father's name Caloyan Zars Abennon",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Caloyan Zars Abennon.",
+        "loc": "chars 4049-4070"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "kneels and proposes with his family ring, asking Ara to be his queen (not advisor/friend); says he can now feel her rapture with Cosmer through the bond and that her plan won't work",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I can feel you, when you are with him.” He adds, as an explanation, “Your rapture.",
+        "loc": "chars 6483-6565"
+      }
+    },
+    {
+      "who": "Drake / Ara",
+      "did": "Drake tells Ara Cosmer left her room ('to that which he loves more than you'); Ara wakes alone in cold sweat, realizing Cosmer may be gone",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "To that which he loves more than you.”\n\n\n“There isn’t anything⁠—”\n\n\nI stop myself, my eyes widening.",
+        "loc": "chars 9529-9629"
+      }
+    }
+  ],
+  "relationships": [
+    "Drake presses marriage as foretold and exposes the bond's cost; Ara fears Cosmer has relapsed."
+  ],
+  "numbers_dates": []
+}

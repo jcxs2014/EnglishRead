@@ -1,0 +1,41 @@
+{
+  "chapter": "ch32",
+  "source": "text/ch32_32_the_quiet_rebellion.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "laughs at failed shot; says magic cannot force direct self-killing; reiterates Queen could bleed Ara's magic",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Forcing someone to commit an action that would result in their direct death would certainly fall under that category.",
+        "loc": "chars 958-1075"
+      }
+    },
+    {
+      "who": "Ara and Riss",
+      "did": "tell Ephraine Dezeeves is traitor; decode Queen's radio message (guests=integrated ones, serve dinner/open cloche=dome losing heat/magic) as evidence; Ephraine says he will sort it",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Guests are welcomed ones. Integrated ones.",
+        "loc": "chars 12005-12047"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "hears Cosmer's trial is happening during training",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“The trial,” she whispers, pulling me into a hug. “Cosmer’s trial.”",
+        "loc": "chars 15118-15185"
+      }
+    }
+  ],
+  "relationships": [
+    "Riss becomes Ara's ally after learning truth; they report Dezeeves to Ephraine.",
+    "Cosmer's trial imminent."
+  ],
+  "numbers_dates": []
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "ch45",
+  "source": "text/ch45_45_the_osimidite_chamber.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "runs to Deck 2 and finds the Osimidite Chamber hatch open; descends into heat and escaped osimidite mist, calling for Cosmer and fearing he may be dead",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Sisters, I pray. Please don’t let me find him dead.\n\n\nI’m not sure what I would do with myself if I did.\n\n\nBut then I do know.\n\n\nThe airlock.",
+        "loc": "chars 2116-2257"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "finds Cosmer slumped against the brass tank, no mask, eyes shut, pale and barefoot; his condition is uncertain as she approaches slowly with fading hope",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He’s slumped against the back of it.",
+        "loc": "chars 3092-3128"
+      }
+    }
+  ],
+  "relationships": [
+    "Cosmer appears to have relapsed in the Osimidite Chamber; his survival is unresolved at chapter end."
+  ],
+  "numbers_dates": []
+}

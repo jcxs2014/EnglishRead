@@ -1,0 +1,51 @@
+{
+  "chapter": "ch26",
+  "source": "text/ch26_26_the_prophecy_and_the_fortune.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "covers 'Mother' as Riss code sign-off meaning the Queen; Drake supports; mother privately tells Ara to pass tests/do what she must/Queen will forgive/don't get killed/end in sight",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Pass the tests they have for you. Do whatever you have to do – the Queen will forgive you. Do not do anything that will get you killed. The end is in sight, Darling.",
+        "loc": "chars 1311-1476"
+      }
+    },
+    {
+      "who": "Mother/Queen (via broadcast)",
+      "did": "sends 'message from Mother... dinner getting cold'; Rhavnan fleet retreats; battle ends",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "A message from Mother. Forgive me for ringing the bell. But dinner was getting cold.",
+        "loc": "chars 2805-2889"
+      }
+    },
+    {
+      "who": "Drake and Ara",
+      "did": "discuss Queen's theatrics and possibility Dezeeves is traitor (Drake's suspicion from substandard corrective instruction; contacts couldn't confirm); show magic sparks between fingertips; Drake says he made Riss sleep in",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I can see it. The magic, like tiny pinpricks of white light, springing from each of my fingers into his. And from each of his, into mine.",
+        "loc": "chars 8915-9052"
+      }
+    },
+    {
+      "who": "Ara, Meg, Rike",
+      "did": "discuss missing memories/Queen traveling to Lartos/Soulmates; Meg deduces Drake is Queen's son raised in Lartos, firstborn who would supersede Faye — Ara promised to Crown Prince (Meg's deduction)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He’s her son!",
+        "loc": "chars 22206-22219"
+      }
+    }
+  ],
+  "relationships": [
+    "Queen's message ends battle; Dezeeves-traitor suspicion raised.",
+    "Prophecy/fortune clues lead Meg to identify Drake as Queen's hidden son/crown prince."
+  ],
+  "numbers_dates": []
+}

@@ -1,0 +1,41 @@
+{
+  "chapter": "ch38",
+  "source": "text/ch38_38_the_unwanted_truce.txt",
+  "facts": [
+    {
+      "who": "Ara and Drake",
+      "did": "after Riss's death Ara tries to magically kill Dezeeves but Drake blocks her; they maintain magic while Emperor sails toward Rhavna; Drake offers condolences, asks for truce, admits mistake in baths, says he approached Dezeeves to help at Cosmer's trial to protect Ara's life (no deal/Dezeeves didn't ask)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I approached him. And offered.”\n\n\n“No,” I spit. “No. There must have been something in it for you.”\n\n\nHis body",
+        "loc": "chars 9184-9294"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "follows The Emperor by radio, refuses to turn back, crashes his ship deliberately to reach the airlock and asks to be let in",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "let me in through the airlock.”\n\n\nHer composure cracks.",
+        "loc": "chars 10983-11038"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "grabs an oxygen mask and rushes out of the Bridge to save Cosmer",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Take an oxygen mask,” Drake says.",
+        "loc": "chars 12619-12652"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara and Drake reach an uneasy truce based on shared grief and Drake's protective choice.",
+    "Cosmer risks death to reach Ara."
+  ],
+  "numbers_dates": []
+}

@@ -1,0 +1,41 @@
+{
+  "chapter": "ch31",
+  "source": "text/ch31_31_the_traitor_and_the_spy.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "storms Bridge demanding immediate Integration; taken to Dezeeves' quarters; recognizes Cosmer's flask as identical to Dezeeves' (inscribed 'Don't lose this one. –D')",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Don’t lose this one. –D",
+        "loc": "chars 6506-6529"
+      }
+    },
+    {
+      "who": "Dezeeves",
+      "did": "reveals he is Cosmer's father (Cosmer doesn't know); presents mask/gun choice; Ara chooses gun and fires but gun is empty; Dezeeves says Queen could 'begin again' by bleeding magic from Ara (already split) and implies not in Rhavna yet",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "And I fire it.",
+        "loc": "chars 9968-9982"
+      }
+    },
+    {
+      "who": "Vikemy",
+      "did": "arrives as State Craftsman (drops Assembly-stamped book) — context: Cosmer's trial; Dezeeves marks Ara and Drake Fully Integrated",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "",
+        "loc": "chars 9968-0"
+      }
+    }
+  ],
+  "relationships": [
+    "Dezeeves revealed as Cosmer's father and as manipulator; Ara's assassination attempt fails.",
+    "Threat that Ara could be bled for her magic; movement toward Rhavna implied."
+  ],
+  "numbers_dates": []
+}

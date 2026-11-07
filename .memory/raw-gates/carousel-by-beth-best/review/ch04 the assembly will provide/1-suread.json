@@ -1,0 +1,96 @@
+{
+  "chapter": "ch04",
+  "source": "text/ch04_4_the_assembly_will_provide.txt",
+  "facts": [
+    {
+      "who": "Watchers",
+      "did": "hold Eric in the boat and slam a rifle butt into his face, swelling his eye shut",
+      "relation": "watchers detain Eric; Ara intervenes",
+      "number_date": "",
+      "evidence": {
+        "span": "The butt of a rifle slams into his face. I swear I hear a crack. He howls, clutching his eye, and I scream, as if it’s me that’s been hurt.",
+        "loc": "chars 463-602"
+      }
+    },
+    {
+      "who": "Vikemy",
+      "did": "tells Ara Eric is being taken for questioning because an intercepted radio transmission suggests an enemy soldier may be among them",
+      "relation": "State Craftsman interrogating Ara/Eric",
+      "number_date": "",
+      "evidence": {
+        "span": "A report was received of an intercepted radio transmission. An enemy soldier may be among us.",
+        "loc": "chars 1908-2001"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "claims she has the information Vikemy wants to protect Eric and is taken away by watchers",
+      "relation": "sacrifices herself for Eric",
+      "number_date": "",
+      "evidence": {
+        "span": "“Yes,” I say, matching his steeled gaze with one of my own. “I believe I do.”",
+        "loc": "chars 2802-2879"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "instructs Eric to go home, care for Old Mother, sort provisions, speak to Cosmer's mother, and if necessary send Babba as Provision or become a soldier",
+      "relation": "siblings; Old Mother/Cosmer's mother/Babba",
+      "number_date": "by morning (if not back)",
+      "evidence": {
+        "span": "Go home. Make sure Old Mother is all right. She’ll look at your eye and bandage it. And when the watchers drop off our provisions tonight, sort them properly. Make the food last.",
+        "loc": "chars 3382-3560"
+      }
+    },
+    {
+      "who": "Vikemy",
+      "did": "brings Ara to Temple, offers fruit/lemonade, and presses her to admit the enemy soldier's whereabouts; Ara refuses",
+      "relation": "interrogator/prisoner",
+      "number_date": "",
+      "evidence": {
+        "span": "Admit you know the whereabouts of the enemy soldier.",
+        "loc": "chars 6620-6672"
+      }
+    },
+    {
+      "who": "Watchers",
+      "did": "grab Ara and inject/sting her neck as she withholds information",
+      "relation": "enforce Vikemy's interrogation",
+      "number_date": "",
+      "evidence": {
+        "span": "Before I realise what’s happening, the watchers grab me. A sharp sting goes through my neck. Someone is yelling – I realise it’s me.",
+        "loc": "chars 7783-7915"
+      }
+    },
+    {
+      "who": "Radio/voice; Vikemy",
+      "did": "radio reports 'We found him'; Vikemy orders the captive brought to him and calls Dezeeves for his time of arrival",
+      "relation": "Vikemy coordinating capture",
+      "number_date": "",
+      "evidence": {
+        "span": "The radio crackles from behind us. A voice says, “We found him.”",
+        "loc": "chars 7965-8029"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "wake in a dark wine cellar; Drake says there is only one way out and holds Ara's hand; Ara feels a violent shooting sensation through her arms when they touch",
+      "relation": "imprisoned together",
+      "number_date": "",
+      "evidence": {
+        "span": "Then a shooting sensation rushes up my hands and along my arms – so violently my whole body jolts.",
+        "loc": "chars 12735-12833"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara and Eric are siblings; Ara protects Eric.",
+    "Vikemy is State Craftsman; watchers act under him.",
+    "Drake and Ara are imprisoned together after capture.",
+    "Dezeeves is summoned by Vikemy.",
+    "Cosmer's mother is someone Ara tells Eric to rely on."
+  ],
+  "numbers_dates": [
+    "by morning (Ara's instruction to Eric)"
+  ]
+}

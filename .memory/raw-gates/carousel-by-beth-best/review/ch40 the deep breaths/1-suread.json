@@ -1,0 +1,31 @@
+{
+  "chapter": "ch40",
+  "source": "text/ch40_40_the_deep_breaths.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "after giving her mask to Cosmer, loses oxygen and dissociates/panics, thinking Drake is forcing osimidite on her and striking him",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "But for Drake – his softly spoken words, as if they were being said to a lover – I do.",
+        "loc": "chars 2902-2988"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "places an oxygen mask on Ara and uses his voice/magic-like calm guidance to make her breathe deeply and slowly, pulling her back from panic/dissociation",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "It was an oxygen mask.",
+        "loc": "chars 2040-2062"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara survives the airlock sacrifice aftermath because Drake gives her oxygen and calms her.",
+    "Drake's care is tender rather than coercive."
+  ],
+  "numbers_dates": []
+}

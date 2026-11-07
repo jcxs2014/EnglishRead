@@ -1,0 +1,41 @@
+{
+  "chapter": "ch33",
+  "source": "text/ch33_33_the_sunset_trial.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "tries to bend Vikemy's will at sunset trial ('Cosmer isn’t guilty') but magic fails because Drake blocks her; Drake confronts Ara saying magic is his/stolen and should block reckless/immoral acts",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Cosmer isn’t guilty.",
+        "loc": "chars 2119-2139"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "testifies Cosmer was excellent keeper, weapon was Approved Use for Integration/shooting practice, Ara engaged to him since before ship (explains dance), no IR; Meg submitted statement; Vikemy declares 'Not guilty'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“Not guilty.”",
+        "loc": "chars 8340-8353"
+      }
+    },
+    {
+      "who": "Ara and Riss",
+      "did": "see Cosmer heavily drugged on osimidite; plan to help him through withdrawal; evacuation bells/horn sound at night and Drake tells Ara to get oxygen mask",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“Evacuation order,” Drake says. “Get your oxygen mask from under your bed. Then we need to go.”",
+        "loc": "chars 15429-15524"
+      }
+    }
+  ],
+  "relationships": [
+    "Cosmer acquitted but impaired by osimidite; Ara-Drake conflict over magic/control deepens.",
+    "Sudden evacuation order ends the night."
+  ],
+  "numbers_dates": []
+}

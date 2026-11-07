@@ -1,0 +1,41 @@
+{
+  "chapter": "ch35",
+  "source": "text/ch35_35_the_first_fortune.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "realizes she and Drake's combined stable magic are the weapon Dezeeves/Hevalla sought; Cosmer tries to take her to Vikemy on his ship but Ara collapses in spasm before boarding",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I am the weapon.",
+        "loc": "chars 61-77"
+      }
+    },
+    {
+      "who": "Old Mother (in Ara's mind)",
+      "did": "reveals fortunes: first = Tyrant (Queen's son/Drake would become cruel king ending magic); second = Soulmates/counterbalance (Drake's magic poured into another who tames him); third seen = Tyrant again (Ara becomes more monstrous). Explains Ara was engineered (mother selected, father chosen as Old Mother's great grandson for minor magic/language knack, name to compliment Drake's, raised/trained for union)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "That was the first fortune.",
+        "loc": "chars 6455-6482"
+      }
+    },
+    {
+      "who": "Old Mother / context",
+      "did": "tells Ara bombs are falling and Sky Treaty broken; dies/fades leaving Ara the Card of the Choice; Ara must choose",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "The bombs are falling now across the country.",
+        "loc": "chars 11587-11632"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara learns her life and bond with Drake were designed as counterbalance to prevent Drake becoming Tyrant.",
+    "Old Mother dies as bombs fall; Ara faces the choice between futures."
+  ],
+  "numbers_dates": []
+}

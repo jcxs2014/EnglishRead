@@ -1,0 +1,54 @@
+{
+  "chapter": "ch50",
+  "source": "text/ch50_the_epilogue.txt",
+  "facts": [
+    {
+      "who": "Cosmer (POV)",
+      "did": "locked in infirmary withdrawing from osimidite (helped by medic Meena, who reminds him of Riss); wants sobriety; ship has landed in Rhavna",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Cosmer is locked in the infirmary.",
+        "loc": "chars 41-75"
+      }
+    },
+    {
+      "who": "Drake and Cosmer",
+      "did": "Drake reports Ara is happy and Eric alive but notes Ara wears a ribbon and is picking Cosmer flowers; reveals breakup was planned with Cosmer (Cosmer knew Ara's reaction, suspected she'd ask Drake to erase pain, was deliberately unkind so she'd believe it); Cosmer says 'I know her. I love her'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "She had to believe it.”\n\n\nDrake edges back a step.",
+        "loc": "chars 3713-3763"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "gives Cosmer the key to Pod 57 (Rike's ship, the only one left) for when the time is right",
+      "relation": "",
+      "number_date": "Pod 57",
+      "evidence": {
+        "span": "Pod 57. When the time is right.”\n\n\n“Rike’s ship?”\n\n\n“The only one left. He won’t be needing it now.”\n\n\n“Tha",
+        "loc": "chars 4654-4761"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "plans to bury his mother, return Riss's belongings to her family in Belemy, then travel (wants to see Lartos) with osimidite supplied; ends recalling first seeing Ara at fourteen in Vikemy — 'Not for the sky'",
+      "relation": "",
+      "number_date": "at fourteen",
+      "evidence": {
+        "span": "Not for the sky.",
+        "loc": "chars 6343-6359"
+      }
+    }
+  ],
+  "relationships": [
+    "Epilogue reveals Cosmer and Drake cooperated to give Ara a choice toward happiness; Cosmer accepts loss and chooses sobriety/going on.",
+    "Ara retains small unconscious traces (ribbon/flowers) despite memory erasure."
+  ],
+  "numbers_dates": [
+    "Pod 57",
+    "at fourteen (first sight memory)"
+  ]
+}

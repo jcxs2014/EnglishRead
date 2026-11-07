@@ -1,0 +1,31 @@
+{
+  "chapter": "ch48",
+  "source": "text/ch48_48_the_erasure_of_pain.txt",
+  "facts": [
+    {
+      "who": "Ara and Drake",
+      "did": "Ara agrees to be Drake's queen if he erases her pain by erasing the reasons she loved Cosmer; they share the immense magic needed and kiss",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Erase my pain.",
+        "loc": "chars 979-993"
+      }
+    },
+    {
+      "who": "Ara (memory)",
+      "did": "experiences memories of Cosmer and related moments fading (tinned peaches, desert island sun, Cosmer's body/scent, Sky Deck steps, ribbon, Riss's voice, 'Brought you some bread'); becomes numb as pain lifts",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I am numb to it.",
+        "loc": "chars 3277-3293"
+      }
+    }
+  ],
+  "relationships": [
+    "The kiss releases stabilizing magic that erases Ara's painful love-memories of Cosmer.",
+    "Ara gains relief at the cost of forgetting."
+  ],
+  "numbers_dates": []
+}

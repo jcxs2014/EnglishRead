@@ -1,0 +1,370 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/carousel-by-beth-best/ch35 the first fortune.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/carousel-by-beth-best/text/ch35_35_the_first_fortune.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The weapon. I am the weapon. My magic, and Drake’s, combined and stable. Drake had said the weapon wasn’t in Hevalla’s h",
+          "ok": true,
+          "pos": 34
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Don’t listen to them, Ara. You don’t have to do anything you don’t want to do. Don’t let Dezeeves’ mess – his problems ",
+          "ok": true,
+          "pos": 390
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I’ll get us through this. I’ll take us straight to Vikemy Village. Back to our families.”",
+          "ok": true,
+          "pos": 2150
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Get in the ship.” I don’t move for a second. But then I do. Grasping the doorway, I hoist myself up",
+          "ok": true,
+          "pos": 3437
+        },
+        {
+          "text": "But fall backwards, in spasm. I’m confused, panicking, as I twitch on the hot floor, my limbs at odd angles",
+          "ok": true,
+          "pos": 3536
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I can see you have still not remembered the last of the truths. I cannot die knowing you might make mistakes, simply be",
+          "ok": true,
+          "pos": 4915
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“When I was your age, I moved into the Palace to provide guidance to the royal family, through my cards. Though my magic",
+          "ok": true,
+          "pos": 5643
+        }
+      ],
+      "words": 103
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I saw that the Prince could be tamed. His magic could be poured into another. This person – who would need to be someon",
+          "ok": true,
+          "pos": 6610
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Your mother was found in Hevalla and impressed the Queen the most. Your father had already been chosen to be your fathe",
+          "ok": true,
+          "pos": 7440
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“In that future, the tyrant was you, my dear. The darkness that was his had spilled into you, and you were more monstrou",
+          "ok": true,
+          "pos": 9980
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“The death of peace,” she repeats again. “Which you have the power in you to revive.”",
+          "ok": true,
+          "pos": 11403
+        }
+      ],
+      "words": 16
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.95,
+        "读者视角提示": 0.95
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 135,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 116,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 147,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.94
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. The First Fortune",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 9.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 1,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2363,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 49 章中位 9、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句6",
+        "words": 103
+      }
+    ],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句2",
+        "kw": "don’t have to do anything you don’t want to do",
+        "words": 10
+      },
+      {
+        "block": "原句6",
+        "kw": "who would have magic unlike anything in the known world.",
+        "words": 10
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

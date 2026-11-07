@@ -1,0 +1,101 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_1_the_card_of_the_visitor.txt",
+  "facts": [
+    {
+      "who": "Old Mother (great-great grandmother)",
+      "did": "reads Ara's fortune with cards on Provision Day and stares at one card for ten minutes before revealing it",
+      "relation": "Ara's legal guardian/great-great grandmother",
+      "number_date": "ten minutes; every Provision Day",
+      "evidence": {
+        "span": "My great-great grandmother has been squinting at the card in her withered hand for a full ten minutes now.",
+        "loc": "chars 51-157"
+      }
+    },
+    {
+      "who": "Old Mother",
+      "did": "draws and reveals the Card of the Visitor (a man in billowing robes, scarf obscuring lower face, sharp watchful eyes) and then the Card of Home, placing both in Ara's hands",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Finally, she flips the card. It shows a man in robes that billow around his feet. A scarf obscures the lower half of his face, but his eyes are visible, and they’re sharp, watchful.",
+        "loc": "chars 459-640"
+      }
+    },
+    {
+      "who": "Ara (narrator)",
+      "did": "explains backstory: mother (Ambassador to Hevalla to the Queen) sent Ara and her brother to Hevalla for safety when Hevalla declared war on Rhavna; Old Mother accompanied them as legal guardian",
+      "relation": "half-Rhavnan on father's side; mother was Ambassador; brother Eric",
+      "number_date": "five years ago",
+      "evidence": {
+        "span": "When Hevalla declared war on Rhavna five years ago, my mother, who was the Ambassador to Hevalla to the Queen, sent my brother and I here for reasons that are still hazy to me.",
+        "loc": "chars 1298-1474"
+      }
+    },
+    {
+      "who": "Eric",
+      "did": "bursts into the house and tells Ara that Vikemy (State Craftsman) is outside",
+      "relation": "Ara's brother",
+      "number_date": "",
+      "evidence": {
+        "span": "There’s a slam as our front door swings open, and I jump so abruptly my soul just about leaves my body. Eric’s gangly frame hangs slanted in the doorway, and his tanned brow is creased.\n\n\n“Ara,” he says in a breath. “Can you come outside, please? Vikemy’s here.”",
+        "loc": "chars 1979-2241"
+      }
+    },
+    {
+      "who": "Vikemy (State Craftsman)",
+      "did": "visits Ara's home with two watchers carrying rifles, warns of military action planned in nearby airspace, asks to be informed of debris or enemy soldiers, and questions Ara about 'sacrifices' and possible Rhavnan blood magic",
+      "relation": "State Craftsman; two watchers behind him",
+      "number_date": "",
+      "evidence": {
+        "span": "We have received intelligence that military action is being planned in airspace near us,” he starts. “You will let me know if you see anything off, won’t you? Debris on the beach. Enemy soldiers on foot.”",
+        "loc": "chars 3193-3397"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "helps Sal (Cosmer's mother) straighten and offers to push her cart of freshly laundered and starched soldier's uniforms on Provision Day",
+      "relation": "Sal is late friend Cosmer's mother",
+      "number_date": "Provision Day",
+      "evidence": {
+        "span": "As we near the archway that opens out onto the Temple grounds, I notice Sal, my late friend Cosmer’s mother. She’s struggling to wheel her cart of freshly laundered and starched soldier’s uniforms. It’s going to flip.\n\n\nWasting no time, I bolt over and grasp the handles to pull her cart straight again.",
+        "loc": "chars 5548-5851"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "enlisted as a soldier; Ara last saw him on a crew rustler's ship with her ribbon in his fist; he had borrowed her black silk ribbon that morning and promised to return it",
+      "relation": "Ara's late friend; Sal's son; errand boy; lived next door to Ara",
+      "number_date": "over the two years I’d known him",
+      "evidence": {
+        "span": "last time I saw him, he was in the air on the crew rustler’s ship.\n\n\nEric shouted the news to me while I was bringing in a haul to shore.\n\n\nCosmer’s enlisted. You have to come. Now.",
+        "loc": "chars 8357-8538"
+      }
+    },
+    {
+      "who": "Vikemy",
+      "did": "delivers Sermon at Temple, claims soldiers fight to liberate Rhavna's oppressed people, vows to eradicate the bloodline and its magic and break the dome; the crowd recites the Assembly's motto; Vikemy fixes his eyes on Ara and Eric",
+      "relation": "State Craftsman addressing villagers at Temple",
+      "number_date": "",
+      "evidence": {
+        "span": "We will defeat Rhavna and work to liberate its oppressed people, who for too long have been held under the thumb of one bloodline, simply because it may – or may not – contain magic.”\n\n\nWe’re happy to be a monarchy. We were never oppressed. These are lies so you can justify your pointless war against that which you don’t understand.\n\n\n“The bloodline, and its magic will be eradicated. The dome will be broken. And peace, and equality, will prosper.”",
+        "loc": "chars 13280-13731"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara is narrator; half-Rhavnan (father's side), half-Hevallan (mother's side); grew up in Rhavna",
+    "Eric is Ara's brother",
+    "Old Mother is Ara's great-great grandmother and their legal guardian; distantly related to Rhavnan Royal Family, has fortune-reading talent",
+    "Ara's mother was Ambassador to Hevalla to the Queen; sent Ara and Eric to Hevalla when war began",
+    "Vikemy is the State Craftsman of their village; has watchers with rifles",
+    "Cosmer was Ara's friend and neighbor (errand boy, lived next door); Sal is Cosmer's mother; Cosmer enlisted as a soldier and is gone"
+  ],
+  "numbers_dates": [
+    "ten minutes (Old Mother squinting at card)",
+    "every Provision Day (fortune reading tradition)",
+    "five years ago (Hevalla declared war on Rhavna)",
+    "two watchers behind Vikemy",
+    "over the two years I’d known him (Cosmer)"
+  ]
+}

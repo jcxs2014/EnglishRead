@@ -1,0 +1,51 @@
+{
+  "chapter": "ch20",
+  "source": "text/ch20_20_the_island_in_the_sea.txt",
+  "facts": [
+    {
+      "who": "Cosmer",
+      "did": "teaches Ara to pilot Bumble and they fly to Drens Island stopover",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Want to take Bumble for a flight?",
+        "loc": "chars 4283-4316"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "tells Ara Hevalla has the weapon now (found on Dragoness; Dezeeves said so; extra bread on Lower Pilot Deck); only Ephraine/Dezeeves likely know what it is",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Rhavna doesn’t have the weapon. We do – now.",
+        "loc": "chars 8393-8437"
+      }
+    },
+    {
+      "who": "Ara and Cosmer",
+      "did": "swim and talk on Drens Island; discuss SPS context, Cosmer's insecurity, why he didn't kiss/visit before; Ara feels blood magic symptoms during sex and wills Cosmer to feel what she feels — he feels 'on fire/high'",
+      "relation": "",
+      "number_date": "three years (context)",
+      "evidence": {
+        "span": "It started feeling different. I mean, amazing. But, different. Like I was high. Or on fire.",
+        "loc": "NOT_FOUND"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "tells Cosmer about a link with Drake and possibility she can bend will; Cosmer reports Meg thinks Ara has a memory repressor (seen in other FIs who lived in Palace)",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "A memory repressor. She’s seen it in other FIs who lived in the Palace – probably to protect the Queen’s secrets.",
+        "loc": "chars 21033-21146"
+      }
+    }
+  ],
+  "relationships": [
+    "Hevalla possesses Rhavna's weapon.",
+    "Ara's possible will-bending manifests with Cosmer; memory repressor theory raised."
+  ],
+  "numbers_dates": []
+}

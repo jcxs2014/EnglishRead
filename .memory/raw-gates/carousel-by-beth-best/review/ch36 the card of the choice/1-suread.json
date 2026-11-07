@@ -1,0 +1,31 @@
+{
+  "chapter": "ch36",
+  "source": "text/ch36_36_the_card_of_the_choice.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "tells Cosmer bombs fell (Vikemy/Hevalla likely gone), Old Mother was with her until bombs hit, Dezeeves is Queen's traitor; says she'll go to Bridge and become queen in Rhavna (promised to prince, memories repressed) to end war/divide",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Bombs fell, Cosmer.",
+        "loc": "chars 1212-1231"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "refuses to let Cosmer come to Rhavna as guard; asks him to bury families/help survivors and be free; returns his ribbon, kisses him, then locks him in the pod with engineer's key despite his pleas",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I push it into his long fingers.",
+        "loc": "chars 5441-5473"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara sacrifices her relationship with Cosmer to pursue the queen/counterbalance path.",
+    "Cosmer left locked in pod as Ara walks away."
+  ],
+  "numbers_dates": []
+}

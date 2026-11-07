@@ -1,0 +1,31 @@
+{
+  "chapter": "ch30",
+  "source": "text/ch30_30_the_end_of_an_alliance.txt",
+  "facts": [
+    {
+      "who": "Ara and Drake",
+      "did": "attend joint corrective instruction (thrones-like chairs); Dezeeves expedites Integration after ambush; later sent to baths together as a test without keepers",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "We will call it another test.",
+        "loc": "chars 15930-15959"
+      }
+    },
+    {
+      "who": "Drake and Ara",
+      "did": "in baths discuss Dezeeves possibly knowing fortune/being spy or traitor; Drake presses Ara to grow magic connection; he uses/amplifies her feelings and she feels desire for him, then stops; Ara ends their alliance/friendship",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Never speak to me again. This alliance is over.",
+        "loc": "chars 31094-31141"
+      }
+    }
+  ],
+  "relationships": [
+    "Alliance/friendship between Ara and Drake breaks after bath confrontation.",
+    "Dezeeves-traitor/spy suspicion and magic/prophecy pressure intensify."
+  ],
+  "numbers_dates": []
+}

@@ -1,0 +1,41 @@
+{
+  "chapter": "ch37",
+  "source": "text/ch37_37_the_final_battle.txt",
+  "facts": [
+    {
+      "who": "Ara and Drake",
+      "did": "join hands on the Bridge to extend combined magic and force ceasefire as Hevallan ships attack; Riss and Cosmer fight in the sky protecting The Emperor",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "work with Drake to extend your magic outwards and force a ceasefire.",
+        "loc": "chars 3102-3170"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "succeed in freezing ships (including Riss's and enemy ships) but cannot free Riss alone and radios are disconnected; a cannonball already fired hits Riss's stationary ship",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Riss, almost directly in front of me, is frozen in the air.",
+        "loc": "chars 11384-11443"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "is killed when the cannonball destroys her ship; Ara experiences the loss as Riss's patch of sky and her ribs becoming empty",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Her patch of sky, and my ribs, are empty.",
+        "loc": "chars 12302-12343"
+      }
+    }
+  ],
+  "relationships": [
+    "Ceasefire magic works but Riss dies as collateral of the frozen moment.",
+    "Ara's bond with Drake enables the weapon but costs Riss's life."
+  ],
+  "numbers_dates": []
+}

@@ -1,0 +1,64 @@
+{
+  "chapter": "ch06",
+  "source": "text/ch06_6_the_flight_of_the_hawker.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "denies knowing Cosmer and releases Drake's hand",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "“No. I don’t.”",
+        "loc": "chars 1197-1211"
+      }
+    },
+    {
+      "who": "Dezeeves and Vikemy",
+      "did": "argue before departure; Vikemy criticizes leaving prisoners unshackled",
+      "relation": "brothers",
+      "number_date": "",
+      "evidence": {
+        "span": "Not even going to shackle them?",
+        "loc": "chars 2021-2052"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "pilots the hawker; Dezeeves says he gets vertigo and has over a hundred pilots",
+      "relation": "pilot/captain",
+      "number_date": "over a hundred pilots",
+      "evidence": {
+        "span": "I have over a hundred pilots in my crew.",
+        "loc": "chars 6343-6383"
+      }
+    },
+    {
+      "who": "Drake and Cosmer",
+      "did": "fight after Cosmer calls Drake a deserter from the Dragoness who ran while others fought",
+      "relation": "hostile",
+      "number_date": "",
+      "evidence": {
+        "span": "You were the one running with those other soldiers, while the rest of your crew were fighting for their lives. For their country! You…",
+        "loc": "chars 13989-14039"
+      }
+    },
+    {
+      "who": "Hawker",
+      "did": "falls out of control during the fight as Cosmer abandons the wheel; Ara curls on floor expecting death",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "the sensation that we’re falling, falling, falling.",
+        "loc": "NOT_FOUND"
+      }
+    }
+  ],
+  "relationships": [
+    "Cosmer pilot for Dezeeves.",
+    "Drake accused as Dragoness deserter.",
+    "Ara between Cosmer and Drake."
+  ],
+  "numbers_dates": [
+    "over a hundred pilots (Dezeeves)"
+  ]
+}

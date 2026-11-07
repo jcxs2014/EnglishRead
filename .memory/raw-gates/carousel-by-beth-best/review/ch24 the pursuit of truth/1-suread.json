@@ -1,0 +1,41 @@
+{
+  "chapter": "ch24",
+  "source": "text/ch24_24_the_pursuit_of_truth.txt",
+  "facts": [
+    {
+      "who": "Meg and Ara",
+      "did": "enter Ara's memories through palace-maze path; Ara relives childhood injections (blood to make her queen, mother enforced with hunger), king's funeral, tutoring with Princess Faye to marry 'one person', failed to hurt prisoner with magic",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "The blood that will make me a queen goes into my skin.",
+        "loc": "chars 3929-3983"
+      }
+    },
+    {
+      "who": "Old Mother (memory/dream)",
+      "did": "shows Soulmates card; in later dream warns love dangerous, confirms Queen took Ara's memories to protect wishes of Queen/mother, shows Choice card",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "–To protect you. And the wishes of the Queen – and your mother.",
+        "loc": "chars 13792-13855"
+      }
+    },
+    {
+      "who": "Meg",
+      "did": "wakes Ara as ship is ambushed and burning",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "We’ve been ambushed, and the ship is burning.",
+        "loc": "chars 14270-14315"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara recovers evidence of engineered queenship/marriage training and memory erasure.",
+    "Ship attacked as chapter ends."
+  ],
+  "numbers_dates": []
+}

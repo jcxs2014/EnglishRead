@@ -1,0 +1,53 @@
+{
+  "chapter": "ch10",
+  "source": "text/ch10_10_the_accords_for_soldiers.txt",
+  "facts": [
+    {
+      "who": "Dezeeves/Riss/Cosmer/Ara/Drake",
+      "did": "receive Integration plan books and an invitation to a Captain’s Dinner tonight; Riss and Cosmer see it as an Integration test",
+      "relation": "",
+      "number_date": "tonight",
+      "evidence": {
+        "span": "An invitation to a Captain’s Dinner. Tonight.",
+        "loc": "chars 814-859"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "works in Intelligence on a red vine frequency, tries to crack a coded message on chalkboard, and reads The Accords for Soldiers",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "It’s The Assembly’s Accords for Soldiers. We all need to know them inside out.",
+        "loc": "chars 9519-9597"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "takes Ara’s letter to Old Mother/Eric, saying she’ll keep it safe until Ara can post it when FI’d; says FIs aren’t permitted to talk to prisoners of war",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I’ll keep it safe, and I’ll give it back to you when you can actually post it.",
+        "loc": "chars 13484-13562"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "explains Cosmer’s not being served ship food is not punishment for breaking an Accord; says he keeps food from land missions and she feeds him",
+      "relation": "Riss about Cosmer",
+      "number_date": "",
+      "evidence": {
+        "span": "Oh, no,” she says, crumbs flying from her mouth. “I mean, you can have food privileges removed if you’ve broken an Accord. But that’s not why Cosmer can’t eat.",
+        "loc": "chars 15619-15778"
+      }
+    }
+  ],
+  "relationships": [
+    "Integration plans and Captain’s Dinner test pressure.",
+    "Ara learns Accords/Integration rules; Cosmer’s food restriction explained as not Accord punishment."
+  ],
+  "numbers_dates": [
+    "tonight"
+  ]
+}

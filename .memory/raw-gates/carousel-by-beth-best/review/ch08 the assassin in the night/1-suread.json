@@ -1,0 +1,54 @@
+{
+  "chapter": "ch08",
+  "source": "text/ch08_8_the_assassin_in_the_night.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "assigns Riss as Ara's keeper (Intelligence/Integration) and Cosmer as Drake's keeper; expects Integration by next Seventh Day",
+      "relation": "captain assigning keepers",
+      "number_date": "next Seventh Day (less than a week)",
+      "evidence": {
+        "span": "Prisoners must wear the black uniform they have been issued with.",
+        "loc": "chars 9129-9194"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "explains prisoner rules, Integration, and that some prisoners FI'd while others weren't seen again; keepers at risk of Trial on Deck",
+      "relation": "",
+      "number_date": "fourteen or fifteen (FI'd estimate)",
+      "evidence": {
+        "span": "Some weren’t seen again. Most are still here.",
+        "loc": "chars 10879-10924"
+      }
+    },
+    {
+      "who": "Ara and Drake / Cosmer and Riss",
+      "did": "agree to sleeping arrangements: Ara with Cosmer, Drake with Riss",
+      "relation": "keepers/prisoners",
+      "number_date": "",
+      "evidence": {
+        "span": "Ara and I, and Cosmer and Drake.",
+        "loc": "chars 13651-13683"
+      }
+    },
+    {
+      "who": "Chapp",
+      "did": "attempts to shoot/attack prisoners at night; Drake disarms him and Riss/Cosmer respond; Chapp is taken for attempted murder/execution planning",
+      "relation": "assailant; Drake protects",
+      "number_date": "",
+      "evidence": {
+        "span": "It’s a lie!” he shouts. “There are no ‘Integrated Rhavnans.’ Only Rhavnans!",
+        "loc": "chars 19978-20053"
+      }
+    }
+  ],
+  "relationships": [
+    "Keeper assignments and Integration stakes.",
+    "Assassination attempt shows prisoner danger."
+  ],
+  "numbers_dates": [
+    "next Seventh Day",
+    "fourteen or fifteen FI'd"
+  ]
+}

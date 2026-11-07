@@ -1,0 +1,41 @@
+{
+  "chapter": "ch47",
+  "source": "text/ch47_47_the_things_we_want.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "after Cosmer insists the breakup is certain and returns to osimidite, uses magic to compel him to go to the infirmary, tell the medic he is an addict, accept help, and 'love sobriety' (chase it as he once thought of her); the click holds",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I can make you love sobriety.",
+        "loc": "chars 2693-2722"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "reflects she used the last of her love for that magic; recalls Old Mother's two options and states 'I will be the tyrant' as her choice, then goes to Drake asking him to erase her pain",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "And that’s what I will be.",
+        "loc": "chars 3842-3868"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "shows Ara visions (wedding, intimacy with shared magic lights, ruling/helping people and opening dome, heir, shattering the dome together) and says he wants it to give it to her",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "so I can give it to you.”",
+        "loc": "chars 10125-10150"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara sacrifices her last love to save Cosmer via compulsion, then seeks pain erasure from Drake.",
+    "Drake reveals a future where they rule together and end the dome/magic status quo."
+  ],
+  "numbers_dates": []
+}

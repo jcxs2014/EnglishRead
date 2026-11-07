@@ -1,0 +1,41 @@
+{
+  "chapter": "ch39",
+  "source": "text/ch39_39_the_oxygen_mask.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "Ara opens the airlock and grabs Cosmer as wind nearly pulls him away; they struggle to keep him connected to the ship",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I leap through the airlock and grab Cosmer’s wrist – just as his fingers slip from the edge of it.",
+        "loc": "chars 2927-3025"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "loses his oxygen cannister when the strap snaps; Ara uses blood magic to compel him to take her oxygen mask despite his resistance",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Take my mask from me and use it for yourself.",
+        "loc": "chars 6112-6157"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "gives Cosmer her mask, smiles at him as her last view, inhales nothingness and loosens her grip — chapter ends with 'This is how it ends.'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "This is how it ends.",
+        "loc": "chars 7301-7321"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara sacrifices her own oxygen/mask to save Cosmer in the airlock.",
+    "Chapter ends on Ara's apparent death from oxygen loss."
+  ],
+  "numbers_dates": []
+}

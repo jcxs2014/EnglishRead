@@ -1,0 +1,63 @@
+{
+  "chapter": "ch09",
+  "source": "text/ch09_9_the_making_of_a_bed.txt",
+  "facts": [
+    {
+      "who": "Cosmer",
+      "did": "wakes Ara, teaches her to make the bed to military standard before Inspection, and coaches her through it",
+      "relation": "keeper/prisoner",
+      "number_date": "thirty minutes to get ready",
+      "evidence": {
+        "span": "I’ll show you how we do that here.",
+        "loc": "chars 3955-3989"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "meets Rike in the breakfast queue; learns he enlisted and is now Integrated/loyal to Hevalla; worries about conversion",
+      "relation": "Ara knew Rike at Palace/library",
+      "number_date": "",
+      "evidence": {
+        "span": "It is you!",
+        "loc": "chars 10718-10728"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "cannot be served ship food; eats Ara's gruel when she offers; refuses to explain fully",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "once the war is over, I’ll be going back to them alive.",
+        "loc": "chars 13540-13595"
+      }
+    },
+    {
+      "who": "Cosmer and Riss",
+      "did": "discuss Integration progress/arrangements; Riss asks if sleeping arrangements worked",
+      "relation": "officers/friends",
+      "number_date": "",
+      "evidence": {
+        "span": "The sleeping arrangements. Did they work for you?",
+        "loc": "chars 17164-17213"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "sit together at breakfast; Ara resolves to avoid conversion and stay loyal while surviving",
+      "relation": "allies",
+      "number_date": "",
+      "evidence": {
+        "span": "At least, once the war is over, I’ll be going back to them alive.",
+        "loc": "chars 13530-13595"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara adapts to ship discipline.",
+    "Rike shows Integration is real; Cosmer's food restriction hinted."
+  ],
+  "numbers_dates": [
+    "thirty minutes"
+  ]
+}

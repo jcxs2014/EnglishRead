@@ -1,0 +1,43 @@
+{
+  "chapter": "ch41",
+  "source": "text/ch41_41_the_counterbalance.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "tells Ara Cosmer is in the infirmary and reveals Dragoness downing was planned (spies ensured Drake's escape) to solidify Dezeeves' loyalty and accelerate Ara-Drake bond",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Her downing was planned.",
+        "loc": "chars 4019-4043"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "tells Dezeeves she accepts union but not romantically, will be counterbalance/advisor/friend to Drake (not marry/be queen) and will not be stopped from being with Cosmer",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I have accepted the union – but not romantically.",
+        "loc": "chars 5209-5258"
+      }
+    },
+    {
+      "who": "Drake and Ara",
+      "did": "Drake says if he ever kissed Ara it wouldn't be under duress and implies released power could be immeasurable; asks if she truly feels nothing romantic; Dezeeves warns ground has shackles and gives estimated arrival to dome as eight past the hour tomorrow morning",
+      "relation": "",
+      "number_date": "eight past the hour tomorrow morning",
+      "evidence": {
+        "span": "Our estimated arrival to the dome is eight past the hour tomorrow morning.",
+        "loc": "chars 6710-6784"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara redefines her bond with Drake as non-romantic counterbalance while keeping Cosmer.",
+    "Dezeeves warns Rhavna/dome may also constrain her."
+  ],
+  "numbers_dates": [
+    "eight past the hour tomorrow morning"
+  ]
+}

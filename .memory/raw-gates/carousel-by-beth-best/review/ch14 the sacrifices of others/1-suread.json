@@ -1,0 +1,50 @@
+{
+  "chapter": "ch14",
+  "source": "text/ch14_14_the_sacrifices_of_others.txt",
+  "facts": [
+    {
+      "who": "Cosmer",
+      "did": "praises Ara's handling of the swan dinner and apologizes for her experiencing it",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "You sent away his food like you were embarrassed for him or something – and trying to spare him his dignity.",
+        "loc": "chars 1090-1198"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "quotes Accords about not denying oneself sustenance; Cosmer refuses to explain his food situation",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "And,” I continue, watching carefully for his reaction, “Not denying oneself sustenance.",
+        "loc": "chars 5906-5993"
+      }
+    },
+    {
+      "who": "Riss",
+      "did": "explains SPS (Sky Provision Sacrifice): Cosmer donates his Sky Provision to another household on the ground; says the girl doesn't know",
+      "relation": "Riss reveals to Ara",
+      "number_date": "three years context earlier; SPS ongoing",
+      "evidence": {
+        "span": "You can donate this Provision – your Sky Provision,” the foil rustles, “to another household on the ground.",
+        "loc": "chars 15201-15308"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "realizes Cosmer's sacrifices benefited her family (provision, Babba donkey) and feels 'croona' (ache put there by others)",
+      "relation": "Cosmer to Ara/family",
+      "number_date": "",
+      "evidence": {
+        "span": "A specific Rhavnan word comes to my mind. Croona. An ache in the heart put there by others.",
+        "loc": "chars 17275-17366"
+      }
+    }
+  ],
+  "relationships": [
+    "SPS truth revealed: Cosmer feeds Ara's household by starving himself."
+  ],
+  "numbers_dates": []
+}

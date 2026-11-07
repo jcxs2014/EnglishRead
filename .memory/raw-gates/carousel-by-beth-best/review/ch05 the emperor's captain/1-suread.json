@@ -1,0 +1,74 @@
+{
+  "chapter": "ch05",
+  "source": "text/ch05_5_the_emperor_s_captain.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "tests Ara across Seperan, Lartosi, Lorallahan, Crallian dialect, Veer and reveals she answered in them; says Queen and Ara's mother praised her language skills during exchange talks",
+      "relation": "Dezeeves to Ara",
+      "number_date": "",
+      "evidence": {
+        "span": "I asked you about your breakfast in Seperan. About bells in Lartosi.",
+        "loc": "NOT_FOUND"
+      }
+    },
+    {
+      "who": "Dezeeves",
+      "did": "announces taking Ara and Drake aboard The Emperor as prisoners handled more like crew",
+      "relation": "captor",
+      "number_date": "",
+      "evidence": {
+        "span": "we can commence our boarding of The Emperor.",
+        "loc": "chars 1516-1560"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "warns Dezeeves converts soldiers to Hevalla's side; proposes friendship/alliance where they trust only each other",
+      "relation": "Drake and Ara",
+      "number_date": "",
+      "evidence": {
+        "span": "We trust each other. No one else.",
+        "loc": "chars 5670-5703"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "hold hands; Ara feels pleasant shooting sensation again and decides not to run",
+      "relation": "bond",
+      "number_date": "",
+      "evidence": {
+        "span": "The shooting that begins within the skin of my palm and rises up my forearms is set off.",
+        "loc": "chars 7706-7794"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "cries about leaving Eric and Old Mother; Drake says they may be home in weeks or days",
+      "relation": "",
+      "number_date": "weeks/days",
+      "evidence": {
+        "span": "We may be home in a matter of weeks. It could even be days.",
+        "loc": "chars 6177-6236"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "arrives, greets Ara as neighbour, sees her hand in Drake's and his smile disappears",
+      "relation": "Cosmer/Ara/Drake",
+      "number_date": "",
+      "evidence": {
+        "span": "“Hello, neighbour,” my friend Cosmer says, flipping a small radio in his right hand and catching it. “It’s been forever.”",
+        "loc": "chars 9352-9393"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara's language talent noted by Queen/Ara's mother.",
+    "Drake-Ara trust pact.",
+    "Cosmer returns alive; tension."
+  ],
+  "numbers_dates": [
+    "weeks/days (Drake)"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch16",
+  "source": "text/ch16_16_the_consequences_of_actions.txt",
+  "facts": [
+    {
+      "who": "Ara/Riss/Cosmer/Meg",
+      "did": "rush to the Bridge and find Drake in corrective instruction: seated in deep barrel, head wet; Ephraine has metal plate on fist; Ara interrupts and is pulled away",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He’s seated in a deep barrel, slumped forward, his head hanging low and dripping wet. Ephraine is standing dangerously close to him, a metal plate on his square fist.",
+        "loc": "chars 1559-1725"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "tells Ara in Rhavnan he has a talent to stop some blows and prevent being kept under water too long and asks her to leave; Meg translates truthfully protecting his talent",
+      "relation": "Meg protects Drake's secret",
+      "number_date": "",
+      "evidence": {
+        "span": "I can stop Ephraine from making some of the blows he wishes to make and prevent him from keeping me under the water for too long.",
+        "loc": "chars 3230-3359"
+      }
+    },
+    {
+      "who": "Cosmer and Ara",
+      "did": "argue in cabin: Cosmer says corrective instruction is torture many survived and Ara broke the law; Ara confronts him about starving three years for her; Cosmer leaves saying he has no idea why",
+      "relation": "conflict",
+      "number_date": "three years",
+      "evidence": {
+        "span": "He would have starved himself for three years, if it meant a girl who came to his country with no Provider skills – and nothing but her child brother and ancient grandmother – could eat.",
+        "loc": "chars 8034-8220"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "asks Dezeeves to reinstate Cosmer's Sky Provision since she will FI and her family get compensation; Dezeeves refuses (Cosmer's decision/not yet FI) but says he would not let Cosmer starve; Ara drinks extra cups at morale booster",
+      "relation": "",
+      "number_date": "within the week (FI)",
+      "evidence": {
+        "span": "My request, Dezeeves,” I begin again, feeling winded, “In light of me being now on board the ship, and receiving Provision here – is that Cosmer’s Sky Provision be reinstated.",
+        "loc": "chars 15337-15512"
+      }
+    }
+  ],
+  "relationships": [
+    "Corrective instruction shown as torture (water/barrel/beating).",
+    "Ara/Cosmer relationship fractures over risk and SPS.",
+    "Ara tries legal/tactical appeal for Cosmer's Provision."
+  ],
+  "numbers_dates": [
+    "three years",
+    "within the week"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch34",
+  "source": "text/ch34_34_the_ultimate_betrayal.txt",
+  "facts": [
+    {
+      "who": "Rike",
+      "did": "says Dezeeves sent him to bring Ara and all FIs to the Bridge; Ara realizes 'Dinner is getting cold' means Queen ready to take them",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Dezeeves sent me to get you and bring you to The Bridge.",
+        "loc": "chars 2078-2134"
+      }
+    },
+    {
+      "who": "Ephraine (via radio)",
+      "did": "is on the Mantis (another hive); Ara concludes he betrayed everyone and called Hevallan ships to burn The Emperor; he taunts that traitors are vermin and captain goes down with ship",
+      "relation": "",
+      "number_date": "within the hour (fleets context)",
+      "evidence": {
+        "span": "You betrayed us all.",
+        "loc": "chars 6004-6024"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "uses blood magic to compel Ephraine to go to his ship's osimidite chamber, defeat engineers there, sit and soak in fumes for a long time (indirect, not direct self-kill); hides it from Cosmer; Drake perceives what she did",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I want you to go down to your ship’s osimidite chamber.",
+        "loc": "chars 7491-7546"
+      }
+    },
+    {
+      "who": "Dezeeves (via radio)",
+      "did": "insists Ara and Drake are needed on the Bridge as the weapon: 'Ara and Drake are the weapon. They have always been it.'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Ara and Drake are the weapon.",
+        "loc": "chars 10720-10749"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara commits a lethal magical act against Ephraine and keeps it secret from Cosmer.",
+    "Dezeeves confirms Ara and Drake were engineered/needed as the weapon."
+  ],
+  "numbers_dates": [
+    "within the hour"
+  ]
+}

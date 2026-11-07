@@ -1,0 +1,41 @@
+{
+  "chapter": "ch18",
+  "source": "text/ch18_18_the_unstolen_radio.txt",
+  "facts": [
+    {
+      "who": "Cosmer",
+      "did": "returns to cabin drunk/high (giddy, 'trip down to Deck 1' implied by Drake); Riss hides his radio belt under pillow with black silk strip",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I think high is the correct term.” He asks him, rather smugly, “Take a trip down to Deck 1, did we?",
+        "loc": "chars 1150-1249"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "attempts to steal Cosmer's radio at night but takes her own silk ribbon from under his pillow instead; is caught by Cosmer",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I grab the piece of fabric, not the belt – at the same time that he grabs my arms.",
+        "loc": "chars 4169-4251"
+      }
+    },
+    {
+      "who": "Ara and Cosmer",
+      "did": "confront the SPS/ribbon and his feelings; Cosmer admits jealousy/IR concern; they kiss",
+      "relation": "romantic turn",
+      "number_date": "",
+      "evidence": {
+        "span": "And then – wordlessly, wonderfully, like a wish came true – his lips crash into mine.",
+        "loc": "chars 9083-9168"
+      }
+    }
+  ],
+  "relationships": [
+    "Radio not stolen; ribbon reveals Cosmer kept Ara's ribbon.",
+    "Ara and Cosmer kiss; relationship shifts."
+  ],
+  "numbers_dates": []
+}

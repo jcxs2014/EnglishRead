@@ -1,0 +1,51 @@
+{
+  "chapter": "ch12",
+  "source": "text/ch12_12_the_captain_s_dinner.txt",
+  "facts": [
+    {
+      "who": "Dezeeves",
+      "did": "sends Ara a Rhavnan-style gown to borrow for the Captain’s Dinner and note 'I know you’ll make the right choices'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "A gown to borrow for your first proper night on board The Emperor, as our special guest at dinner.",
+        "loc": "chars 363-461"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "attend the Captain’s Dinner dressed in distinctly Rhavnan clothes; pass tests (toasting, drinking, eating soup from bowl); Ara grabs Drake’s fist and feels powerful sparks/stinging he also reacts to",
+      "relation": "allies; physical reaction when touching",
+      "number_date": "",
+      "evidence": {
+        "span": "It was as if when they touched, our hands connected somehow.",
+        "loc": "chars 16707-16767"
+      }
+    },
+    {
+      "who": "Ephraine",
+      "did": "presses Drake about escaping The Dragoness and calls Rhavnans 'bullshitters'; Drake says he was helped by strangers who pushed him into a larvae craft",
+      "relation": "interrogation/tension",
+      "number_date": "",
+      "evidence": {
+        "span": "I was helped,” he says simply.",
+        "loc": "chars 15806-15836"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "are asked to open the cloche together and reveal the main course is roasted swan with white feathers — Rhavna’s sacred national animal",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Swan. They’re serving us swan.",
+        "loc": "chars 19691-19721"
+      }
+    }
+  ],
+  "relationships": [
+    "Captain’s Dinner as Integration test.",
+    "Drake’s Dragoness escape questioned; Ara-Drake touch reaction intensifies; swan reveals provocation."
+  ],
+  "numbers_dates": []
+}

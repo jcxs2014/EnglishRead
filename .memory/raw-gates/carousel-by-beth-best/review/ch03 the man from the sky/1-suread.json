@@ -1,0 +1,101 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_3_the_man_from_the_sky.txt",
+  "facts": [
+    {
+      "who": "Ara and the Rhavnan soldier (Drake)",
+      "did": "Ara tells him in Rhavnan that she saved him and means no harm; he eventually lowers his gun after questioning her identity and how a Rhavnan can be free in Hevalla",
+      "relation": "rescuer and rescued, in standoff",
+      "number_date": "",
+      "evidence": {
+        "span": "“I saved you,” I say, carefully. “I mean you no harm. I’m speaking Rhavnan to you.”\n\n\nHe doesn’t answer me. Just continues watching me, his finger on the trigger of his gun.",
+        "loc": "chars 251-424"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "explains she was a hostage exchanged; her mother thought a Hevallan village safer than Rhavna for her and her brother; she withholds that they lived at the Palace",
+      "relation": "daughter of Rhavnan father and Hevallan mother",
+      "number_date": "traded at start of war / five years context; was fourteen, brother was ten",
+      "evidence": {
+        "span": "I offer him what I can.\n\n\n“I was a hostage. But an exchange was made. My mother thought a Hevallan village would be safer for me and my brother than the—” I cut myself off. Don’t tell him everything. “—Than Rhavna.”",
+        "loc": "chars 1402-1617"
+      }
+    },
+    {
+      "who": "Drake (the soldier)",
+      "did": "hears voices above the cliff, quickly hides his blazer in sand, secures his gear, and heads west along the cliff shadow to avoid being seen",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He moves impossibly fast. In what must only be a few seconds, his gun is holstered. His blue blazer is buried in the sand. The ball is secured at his belt again. There’s a compass in his hand and a scrap of paper. And he’s heading west, keeping to the shadow of the cliff face.",
+        "loc": "chars 2355-2632"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "chases Drake, warns him going west is dangerous, and leaps onto his back; they fall and he pins her down until cliff-top voices pass",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "And then – because I’ve clearly decided to dedicate my day to bad ideas – I leap onto his back.\n\n\nI’m not exactly sure what my plan was. I think I just wanted to get him to listen to me. Look at me, properly. Like a friend, rather than a foe.\n\n\nInstead, we go down hard, tangled.",
+        "loc": "chars 3043-3322"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "uses a radio from his belt-ball to send a coded message: 'Your gift is ready to collect at eleven past the hour, in the flightless damselfly'",
+      "relation": "",
+      "number_date": "eleven past the hour",
+      "evidence": {
+        "span": "He adjusts a dial on the radio before bringing it to his mouth. He says, over the sound of static, “Your gift is ready to collect at eleven past the hour, in the flightless damselfly,” before returning the radio to the ball.",
+        "loc": "chars 6741-6965"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "leads Drake to a wrecked ship about a mile away (washed up about a year ago) as a hiding place and waits with him inside it",
+      "relation": "",
+      "number_date": "about a mile; about a year ago",
+      "evidence": {
+        "span": "It’s about a mile’s walk to the ship. It washed up about a year ago and still hasn’t been removed. Only parts of its rounded hull and nose and exposed jagged, rusting frame are remaining, giving it the look of a broken lobster trap. It’s wedged firmly in the sludgy wet sand.",
+        "loc": "chars 5176-5451"
+      }
+    },
+    {
+      "who": "Drake",
+      "did": "tells Ara the downed hive (The Dragoness) carried a powerful weapon, Hevalla used most of their fleets to try to take it but failed, spies likely broke the Sky Treaty; he advises Ara and her brother to become soldiers and shows a map with the east coast of Hevalla blotted out in ink",
+      "relation": "gives advice/warning to Ara",
+      "number_date": "on that ship for five years (Drake served)",
+      "evidence": {
+        "span": "“The ship that fell today was a hive. Hives have their own fleet. They are fiercely protected. To go after one...” He pauses. “Hevalla must have known The Dragoness had something powerful in her possession.” He drops his voice, even though we’re still alone. “A weapon. And Hevalla used what must have been the majority of their fleets, across hive ships, to try to take it.”",
+        "loc": "chars 11134-11509"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "exchange names (Ara, Drake), note their names mean water and fire in Old Rhavnan (complementary/fateful pairing); Drake says 'Dierai, Ara' and Ara returns it before they part",
+      "relation": "new acquaintances",
+      "number_date": "",
+      "evidence": {
+        "span": "“Ara,” I reply.\n\n\n“Ara,” he repeats, flat.\n\n\n“Yes.” I look at him funny, because he’s gone rigid. “What’s wrong with my name?”\n\n\n“It’s an Old Rhavnan word for water.”\n\n\n“I know.”\n\n\nAra actually, at its core, means a specific kind of water – warm, salty, nourishing seawater. The kind of water old Rhavnan ladies like to bathe in, believing it will cure all their ailments.\n\n\nHis mouth creases, like something has bothered him.\n\n\nAnd then I get the ridiculous idea that actually, he might be blushing.\n\n\n“It is…” he trails off.\n\n\n“What?”\n\n\n“My name is Drake.”\n\n\n“Oh.”\n\n\nHis name means fire.\n\n\nIt’s very rare, and considered very good luck in Rhavnan tradition, to meet someone with a complimentary name to yours.\n\n\n“Fate or chance?” he asks, with something like humour.\n\n\nAs Rhavnan people are highly superstitious, the answer to that often-asked question is almost always fate.\n\n\n“Chance, probably. Although you can never meet my grandmother. She’d be planning a wedding.”\n\n\nHe says, half-smiling, “My mother would be, too.”\n\n\nJust then, the sun seems to change. Becomes harsh. It’s catching his face in a different way, highlighting his deep-set eyes, his strong jaw.\n\n\nI sit up swiftly. “You didn’t work at the Palace, did you? You look familiar.”\n\n\nHis smile fades fast.\n\n\n“No. No, I’m from the west.”\n\n\nI frown. “You don’t have a Banko accent.”\n\n\nFor some reason, that makes him laugh. Just once. It’s a strange sound, coming from him. I’d started to think he wasn’t capable of it.\n\n\nFunny how the only time he’s laughed at something I’ve said is when it wasn’t a joke.\n\n\nI wait, but he offers me nothing more, so I let it go. I suppose it wasn’t really my business anyway.\n\n\nI suddenly find myself thinking about Eric. He must have made it home by now. But what if he’s hurt, or afraid?\n\n\n“I need to go,” I state, fast. “I need to find my brother.”\n\n\n“May I offer you some advice before you do? My way of paying my debt.”\n\n\n“Yes?” I say, half expecting his advice to be something ridiculous.\n\n\nIt is.\n\n\n“You should become a soldier. Your brother, too.”\n\n\n“Are you being serious?”\n\n\n“Unfortunately, I am.” He leans forwards. “The ship that fell today was a hive. Hives have their own fleet. They are fiercely protected. To go after one...” He pauses. “Hevalla must have known The Dragoness had something powerful in her possession.” He drops his voice, even though we’re still alone. “A weapon. And Hevalla used what must have been the majority of their fleets, across hive ships, to try to take it.”\n\n\n“Did they manage to? Take it?”\n\n\n“No. But for Hevalla to have had that knowledge…”\n\n\nI understand. “Spies?”\n\n\nHe inspects the map in his hand.\n\n\n“There was already talk of the Sky Treaty being broken. After today, I believe, for the first time in this war, the skies will be safer than the ground.”\n\n\n“But—”\n\n\n“Just think about it.”\n\n\nHe props his map on the table. I now have a clear view of it.\n\n\nMy village – in fact, most of the east coast of Hevalla – has been blotted out with ink.\n\n\nObliterated.\n\n\nI’ve seen enough.  I jump out of the ship, my pulse frenzied.\n\n\n“Wait,” he calls.\n\n\nI turn.\n\n\n“Dierai, Ara.”\n\n\nI freeze like he’s just wrapped a hand around my heart.\n\n\n“Dierai,” I choke out, in return.",
+        "loc": "chars 9005-12219"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara is half-Rhavnan (father) / half-Hevallan (mother); has a brother; was traded at start of war at age fourteen (brother ten)",
+    "Drake is a Rhavnan soldier from the downed hive The Dragoness; served on that ship for five years; says he is from the west (no Banko accent, per Ara)",
+    "Ara saved Drake from drowning; they part with 'Dierai' (safe passage/stay alive)",
+    "Eric is Ara's brother; Ara hears his panicked shrieks at the end as watchers have got him",
+    "Vikemy commands watchers searching debris on the beach"
+  ],
+  "numbers_dates": [
+    "five years (Drake served on the hive ship; also Ara has been in Hevalla five years / traded at start of war)",
+    "fourteen (Ara's age when traded)",
+    "ten (Eric's age when traded)",
+    "eleven past the hour (radio pickup time)",
+    "about a mile (walk to wrecked ship)",
+    "about a year ago (wrecked ship washed up)"
+  ]
+}

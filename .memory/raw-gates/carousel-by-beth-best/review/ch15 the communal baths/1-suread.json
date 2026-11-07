@@ -1,0 +1,53 @@
+{
+  "chapter": "ch15",
+  "source": "text/ch15_15_the_communal_baths.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "meet on Sky Deck during morale boosters, watch ships, discuss Provision/Lartos; Riss calls Ara to baths",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Like fixing the Provision system. That’s the real problem, isn’t it?",
+        "loc": "chars 5276-5344"
+      }
+    },
+    {
+      "who": "Riss and Ara",
+      "did": "compare identical round scars by elbows; Riss says they are old track marks from needles/injections as a child, not pox",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "They’re scars, yes, but they’re not from pox. They’re old track marks, from needles.",
+        "loc": "chars 9124-9208"
+      }
+    },
+    {
+      "who": "Meg",
+      "did": "detects blood magic all over Ara and Drake (different users) and on Cosmer (milder, used twice, recently)",
+      "relation": "",
+      "number_date": "twice, recently",
+      "evidence": {
+        "span": "Cosmer has blood magic on him, too. A different user than the user on Ara.” She adds, licking her top lip. “Milder magic. Used twice. Recently.",
+        "loc": "chars 14486-14629"
+      }
+    },
+    {
+      "who": "Ara",
+      "did": "deduces Drake bends will rather than freezes people (Chapp/Cosmer) and warns he is in the Bridge with those who control the ship; Ara, Riss, Cosmer, Meg run",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Drake doesn’t freeze people. He bends their will. And he’s currently in a room full of the very people who have complete control of this ship.",
+        "loc": "chars 16639-16781"
+      }
+    }
+  ],
+  "relationships": [
+    "Track marks link Ara/Riss.",
+    "Meg identifies blood magic sources; Ara realizes Drake's will-bending danger; group runs to Bridge."
+  ],
+  "numbers_dates": [
+    "twice recently (on Cosmer)"
+  ]
+}

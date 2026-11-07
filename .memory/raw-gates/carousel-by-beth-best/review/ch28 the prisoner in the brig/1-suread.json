@@ -1,0 +1,31 @@
+{
+  "chapter": "ch28",
+  "source": "text/ch28_28_the_prisoner_in_the_brig.txt",
+  "facts": [
+    {
+      "who": "Ara",
+      "did": "sneaks out of Meg's cabin at night (takes Meg's key) to meet Drake on condition he helps her reach Cosmer in the brig",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I’ve come on one condition only.",
+        "loc": "chars 3093-3125"
+      }
+    },
+    {
+      "who": "Ara and Drake",
+      "did": "use combined blood magic to pass soldiers/guards (make them forget/comply) and enter the brig; Cosmer is imprisoned there, pupils dilated from osimidite given 'for the nerves'",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "His pupils are fat as plums. The whites of his eyes are threaded with blood.",
+        "loc": "chars 14420-14496"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara chooses to see Cosmer over avoiding Drake; their magic works together.",
+    "Cosmer has been given osimidite in the brig."
+  ],
+  "numbers_dates": []
+}

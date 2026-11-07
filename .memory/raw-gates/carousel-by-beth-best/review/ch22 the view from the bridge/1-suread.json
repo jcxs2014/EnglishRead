@@ -1,0 +1,41 @@
+{
+  "chapter": "ch22",
+  "source": "text/ch22_22_the_view_from_the_bridge.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "attend Ara's first corrective instruction on the Bridge; Ara covers tardiness; Cosmer remains present as switched keeper; Dezeeves probes sand/unapproved mission/IR",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Is there something unprofessional at hand here? Between the two of you?",
+        "loc": "chars 4373-4444"
+      }
+    },
+    {
+      "who": "Ephraine and crew",
+      "did": "bring out white balloon and osimidite mask; Cosmer draws revolver (charges noted: Unapproved Use, Threat, IR), Ephraine disarms and detains him; Ara reaches for dropped gun",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "He pulls out a white balloon, attached by tubing to a mask of metal and rubber.",
+        "loc": "chars 5829-5908"
+      }
+    },
+    {
+      "who": "Meg",
+      "did": "pins Ara; Ara attempts blood magic to make Meg release her; Meg's immunity causes Ara's magic to rebound in extreme pain; Meg forces osimidite mask onto Ara",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "She reaches for the mask on the table and slams it down over my head.",
+        "loc": "chars 9102-9171"
+      }
+    }
+  ],
+  "relationships": [
+    "Ara risks brig/trial/execution to protect Cosmer but corrective instruction proceeds.",
+    "Cosmer detained after drawing weapon; Ara subjected to osimidite."
+  ],
+  "numbers_dates": []
+}

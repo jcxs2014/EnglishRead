@@ -1,0 +1,43 @@
+{
+  "chapter": "ch19",
+  "source": "text/ch19_19_the_keeper_switch.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "continue intimacy; Cosmer pleasures Ara with fingers; Ara says she hasn't had sex before; he stops short of intercourse citing Accords/FI timing and gives her ribbon back",
+      "relation": "romantic/sexual",
+      "number_date": "",
+      "evidence": {
+        "span": "Let me pleasure you tonight. If you still want me tomorrow, we’ll go from there.",
+        "loc": "chars 2502-2582"
+      }
+    },
+    {
+      "who": "Dezeeves (via radio)",
+      "did": "requires Ara in the Bridge at thirteen past the hour for her first corrective instruction",
+      "relation": "",
+      "number_date": "thirteen past the hour",
+      "evidence": {
+        "span": "Ara is required in The Bridge at thirteen past the hour for her first corrective instruction.",
+        "loc": "chars 5107-5200"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "proposes a keeper switch (take Ara, Riss take Drake) and takes Ara to his ship Bumble in the docking pod",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "I’m proposing a keeper switch.",
+        "loc": "chars 7775-7805"
+      }
+    }
+  ],
+  "relationships": [
+    "Intimacy deepens but constrained by Accords/Integration risk.",
+    "Corrective instruction summons Ara; Cosmer switches keepers to stay with her."
+  ],
+  "numbers_dates": [
+    "thirteen past the hour"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chapter": "ch21",
+  "source": "text/ch21_21_the_people_we_become.txt",
+  "facts": [
+    {
+      "who": "Ara and Cosmer",
+      "did": "talk on island/return; Ara says she thinks she's in love with Cosmer; Cosmer says girlfriend when not sneaking",
+      "relation": "",
+      "number_date": "",
+      "evidence": {
+        "span": "Well, I think I’m in love with you.",
+        "loc": "chars 9328-9363"
+      }
+    },
+    {
+      "who": "Cosmer",
+      "did": "confesses at 16 he traded hooch/osimidite for food, inhaled osimidite in Chamber and became addicted; sober six months with Riss's help; relapsed at morale booster",
+      "relation": "",
+      "number_date": "sixteen; six months sober",
+      "evidence": {
+        "span": "Back then, I thought my only option to eat was, well. To trade.",
+        "loc": "chars 13909-13972"
+      }
+    },
+    {
+      "who": "Cosmer and Ara",
+      "did": "meet Kira at Armoury/Gundeck (huffer who offers to trade again); Cosmer gets revolver signed out; Dezeeves radios they have 20 minutes to corrective instruction",
+      "relation": "",
+      "number_date": "twenty minutes",
+      "evidence": {
+        "span": "Because I will remind you Ara’s corrective instruction begins in twenty minutes.",
+        "loc": "chars 16719-16799"
+      }
+    }
+  ],
+  "relationships": [
+    "Cosmer reveals addiction history and relapse; Kira mirrors his possible fate.",
+    "Return to Emperor for Ara's corrective instruction."
+  ],
+  "numbers_dates": [
+    "sixteen",
+    "six months",
+    "twenty minutes"
+  ]
+}
