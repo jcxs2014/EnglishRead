@@ -97,7 +97,7 @@ modified: "2026-11-07"
 | dagger | 匕首 | Her stranger whipped his attention in the direction of the noise, and he unsheathed a dagger before following the distraction out of sight. |
 | sage | 鼠尾草（熏香用） | Lucas set the mortar and pestle next to the burning bundle of sage, and she began sprinkling the powder throughout the circle. |
 | fort | 临时堡垒、据点 | Surrounding their makeshift fort laid a circle of sticks and branches. |
-| pile | 堆、一堆 | Lucas gathered fallen branches and leaves and threw them into a sloppy pile. |
+| boots | 靴子（复数） | Rough voices flitted through the night a moment before the branches swayed, and boots appeared at the edge of the trees. |
 
 ## 一句话总结
 第一次血魔法交付了三样东西：一道让匪徒失明的隐匿结界、一身留在肩背的金斑收据、一个循着血味进圈又循声离开的猎人——她终于知道禁术能给她什么，也第一次尝到它要收多少。

@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：断水第二天，草中灰手把 Lucas 拖进草丛、她用仅剩的箭刺退（黑血、红肿压痕、只剩两支箭）；翻过山丘遇到巡回表演团——Hachar 持刀接洽、Jasper 提出让"女的"用身体抵账、Marie 冲出救场；大篷车里她了解怪物斗殴的营生，Jasper 飞刀示威被她正面拒绝——"混蛋的名声不是碰别人身体的许可证"。
 - **情感弧线位置**：危机分层升级——自然危机（脱水、伏击）与人祸（男性暴力的明码标价）同章压来；她对 Jasper 的回击是全书她第一次正面使用"主体性"的语言，比任何魔法都锋利。
 - **Tropes 兑现/反转**：兑现「荒野惊魂+投宿陌生人」；反转是救命者不是骑士而是大大篷车的老妈妈 Marie（表演团=信息源+通行证）；而"怪物斗殴"的营生设定让江湖的残酷从森林延伸到人类的生意。
-- **人物弧线**：Lucas 的实战成长（被拖、获救、下纪律）；Marie 以"Used to dance including the more private ones"的坦荡自嘲立起复杂女性长辈；Jasper 的油腔与飞刀完成反派小喽啰建档（记住他——本书不会白白养一个坏人）。
+- **人物弧线**：Lucas 的实战成长（被拖、获救、下纪律）；Marie 以"年轻时什么舞都跳过、包括更私密的那种"的坦荡自嘲立起复杂女性长辈；Jasper 的油腔与飞刀完成反派小喽啰建档（记住他——本书不会白白养一个坏人）。
 - **叙事手法**：水的问答（魔法规则）与草手袭击（物理恐怖）共用"资源耗尽"的母题；对峙戏的恐怖全部来自目光（hungry eyes roved），Marie 的布巾则是把暴力场景拽回喜剧节奏的道具。
 
 ## 精读
@@ -80,7 +80,7 @@ modified: "2026-11-07"
 | shriveled | 干瘪的、皱缩的 | A shriveled gray hand shot from the grass and took hold of Lucas’s ankle, yanking him to the ground. |
 | neanderthals | 原始人（骂人用语） | “Filthy neanderthals don’t know how to act properly when a lady enters the camp. Been on the road too long.” |
 | roved | （目光）扫来扫去 | Not as his hungry eyes roved over her body, snagging on the torn spots in her tunic where her skin showed through. |
-| despicably | 卑劣地 | The other laughed despicably, and Andra closed her eyes. |
+| sinister | 阴险的、邪恶的 | He gave her a sinister smile then flicked his wrist, the dagger whizzing close enough to her ear to move her hair as it flew by, sticking in a tree behind her. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
