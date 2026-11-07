@@ -4,73 +4,79 @@
  "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch05_chapter_5.txt",
  "facts": [
   {
-   "fact": "Culture Initiative观赛倡议：Logan首倡、Carson接龙促成",
+   "fact": "观赛倡议：Logan首倡、Carson接龙",
    "anchor": "Carson had piggybacked on the idea, suggesting that some of the NHL players attend a PWHL game to show support and raise awareness.",
    "start": 1225,
    "end": 1356
   },
   {
-   "fact": "观众规模堪比奥运——她职业生涯最大场面",
+   "fact": "老板Atlas Rawlins与Coach Cross批准；票秒罄",
+   "anchor": "Once the NHL had secured approval from Atlas Rawlins, the owner of the Hawks, as well as Coach Cross",
+   "start": 1814,
+   "end": 1914
+  },
+  {
+   "fact": "观众规模堪比奥运",
    "anchor": "I hadn’t seen a crowd this large since I’d played at the Olympics.",
    "start": 3093,
    "end": 3159
   },
   {
-   "fact": "热身时中圈对视：secret smile+液体热流",
+   "fact": "中圈对视：secret smile+液体热流",
    "anchor": "When our eyes met, the corner of his mouth lifted in a secret smile, and I felt a surge of liquid heat coursing through my veins.",
    "start": 3863,
    "end": 3992
   },
   {
-   "fact": "她打得生猛的原因：知道他在看",
+   "fact": "她的爆发力来自他在看",
    "anchor": "I felt powerful because, out of all the people in the packed arena, I knew Carson was watching me.",
    "start": 4801,
    "end": 4899
   },
   {
-   "fact": "七月以来第一次同处一室（不算白天拍照环节）",
+   "fact": "七月以来第一次同处一室",
    "anchor": "It was the first time we’d been in the same room together since last July",
    "start": 10321,
    "end": 10394
   },
   {
-   "fact": "婴儿名字赌局：她推销Logan，Boone推销Boone",
+   "fact": "婴儿名赌局：她推销Logan",
    "anchor": "“Logan is perfect for a boy or a girl, just saying.”",
    "start": 9142,
    "end": 9194
   },
   {
-   "fact": "Boone认真争当Hottie of the Week",
-   "anchor": "What do I have to do to be named as your Hottie of the Week?",
-   "start": 12412,
-   "end": 12472
-  },
-  {
-   "fact": "Carson的报酬请求：一件签名的她球衣",
+   "fact": "报酬请求：一件签名的她球衣",
    "anchor": "I’ll take one of your jerseys. And I’d like it signed, please.",
    "start": 18025,
    "end": 18087
   },
   {
-   "fact": "圣诞前礼物：Emerson Thorne-Crawford亲笔便签+电话号码",
+   "fact": "圣诞前礼物：Emerson亲笔便签+电话号码",
    "anchor": "I’m a big fan. Give me a call sometime. I’d love to chat.",
    "start": 20000,
    "end": 20057
   },
   {
-   "fact": "来历：Hawks节日活动上他提起了Logan，Emerson自称粉丝",
+   "fact": "来历：Hawks节日活动他提起她",
    "anchor": "She attended a holiday event for the Hawks, and I mentioned you.",
    "start": 20589,
    "end": 20653
   },
   {
-   "fact": "雪夜街灯下的拥抱：他让她觉得安全——而他是她哥哥最恨的人",
+   "fact": "雪夜拥抱：安全——哥哥恨的男人",
    "anchor": "How safe he made me feel, his arms wrapped securely around me—Carson. The man my brother loathed.",
    "start": 21887,
    "end": 21984
   },
   {
-   "fact": "结尾：她拉他手臂带路，卖关子“You’ll see.”",
+   "fact": "航班前时间不够——遗憾",
+   "anchor": "“Not enough.”",
+   "start": 22857,
+   "end": 22870
+  },
+  {
+   "fact": "结尾：她拉他带路卖关子",
    "anchor": "“You’ll see.” I grinned.",
    "start": 23139,
    "end": 23163

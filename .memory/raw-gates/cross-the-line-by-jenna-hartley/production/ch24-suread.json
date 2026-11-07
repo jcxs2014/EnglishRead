@@ -4,91 +4,79 @@
  "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch24_chapter_24.txt",
  "facts": [
   {
-   "fact": "Carson当面向Levi认错：年轻时的蠢错，每天都后悔",
-   "anchor": "“I was young, and I made a stupid mistake that I have regretted every day since. But I wish you could see that I’ve changed.”",
-   "start": 848,
-   "end": 973
+   "fact": "Carson当面向Levi认错",
+   "anchor": "“I’m sorry, Levi. Truly,” I said, speaking for the first time since Levi had joined us.",
+   "start": 36,
+   "end": 123
   },
   {
-   "fact": "Levi的指控：他只讲对自己有利的部分",
-   "anchor": "“He only told you the parts of the story that made him look good, while leaving out some of the most important facts.”",
-   "start": 2616,
-   "end": 2734
+   "fact": "Levi：当年毁我人生还不够吗；妹妹=被掐住的词",
+   "anchor": "“You didn’t already ruin my life enough back then?” Levi looked truly pained now. “She’s my sister.” The word “sister” came out strangled.",
+   "start": 328,
+   "end": 466
   },
   {
-   "fact": "核心真相：Carson当年向队友泄露了Levi的出柜秘密",
+   "fact": "核心真相：Carson泄露Levi出柜",
    "anchor": "“He outed me,” Levi said, and Logan gasped.",
    "start": 2930,
    "end": 2973
   },
   {
-   "fact": "他承认：脱口说漏，立刻后悔，但伤害已造成",
-   "anchor": "“I blurted it out to a few of our teammates, and I instantly regretted it. But the damage was already done.”",
+   "fact": "说漏即悔",
+   "anchor": "“I blurted it out to a few of our teammates, and I instantly regretted it.",
    "start": 3504,
-   "end": 3612
+   "end": 3578
   },
   {
-   "fact": "灭口手段：威胁队友曝光他们的把柄，压住消息",
+   "fact": "用把柄封口",
    "anchor": "“I threatened to tell Jumbo’s dad that he was stealing from his liquor cabinet. And Nico was selling his mom’s pain pills.”",
    "start": 4154,
    "end": 4277
   },
   {
-   "fact": "父亲当场赶Levi出门：家里不能有“这种人”",
-   "anchor": "“I can’t have someone like that in our home. Around my children.”",
-   "start": 5706,
-   "end": 5771
+   "fact": "父亲当场赶Levi出门",
+   "anchor": "“You are no longer welcome here,” Dad said in a stern voice",
+   "start": 5392,
+   "end": 5451
   },
   {
-   "fact": "更狠：父亲威胁若联系Carson就起诉他“与未成年有不正当关系”",
-   "anchor": "he would press charges, claiming I’d had an inappropriate relationship with his underage son.",
+   "fact": "威胁起诉：与未成年不正当关系",
+   "anchor": "he would press charges, claiming I’d had an inappropriate relationship with his underage son.”",
    "start": 7302,
-   "end": 7395
+   "end": 7396
   },
   {
-   "fact": "他不到一周就搬走，从此与家人断联",
-   "anchor": "I moved out less than a week later, and I haven’t talked to them since.",
+   "fact": "不到一周搬离，断联至今",
+   "anchor": "I moved out less than a week later, and I haven’t talked to them since.”",
    "start": 8240,
-   "end": 8311
+   "end": 8312
   },
   {
-   "fact": "她对Levi的立场：你是我兄弟，我永远爱你",
+   "fact": "她对Levi：永远爱你",
    "anchor": "“You are my brother, and I will always love you.”",
    "start": 16295,
    "end": 16344
   },
   {
-   "fact": "Levy的反击：你的行动不像爱我的样子",
+   "fact": "Levi反击：行动不像爱",
    "anchor": "“You say that, but your actions don’t feel like the actions of someone who loves me.”",
    "start": 16397,
    "end": 16482
   },
   {
-   "fact": "她为Carson辩护：不只说对的话，还在做",
-   "anchor": "“Carson isn’t just saying all the right things, he’s doing them.",
-   "start": 17285,
-   "end": 17349
-  },
-  {
-   "fact": "Levi的羞辱：你居然为了一个男人做职业选择",
-   "anchor": "“I can’t believe you made a career choice based on a man.”",
-   "start": 18387,
-   "end": 18445
-  },
-  {
-   "fact": "她的反驳：这是为我自己做的决定",
+   "fact": "为我自己做的决定",
    "anchor": "“I made it for myself.” I jabbed my chest with my pointer finger",
    "start": 18615,
    "end": 18679
   },
   {
-   "fact": "她第一次当面宣告：我的未来包含Carson",
-   "anchor": "—includes Carson.",
+   "fact": "未来里有Carson",
+   "anchor": "—includes Carson.”",
    "start": 18894,
-   "end": 18911
+   "end": 18912
   },
   {
-   "fact": "章末：我愿你幸福、找到爱，但别是他——任何人都行，就是他不行",
+   "fact": "章末判词",
    "anchor": "“I love you, and I want you to be happy and find love. But not with him.” He swallowed hard, a tear sliding down his cheek. “Anyone but him.”",
    "start": 19372,
    "end": 19513

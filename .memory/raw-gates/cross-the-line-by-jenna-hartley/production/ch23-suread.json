@@ -4,103 +4,91 @@
  "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch23_chapter_23.txt",
  "facts": [
   {
-   "fact": "她签约了：三年合同，赛季中一路权衡",
+   "fact": "签约三年",
    "anchor": "After weeks of deliberating, talking to Carson, to my teammates on the Wolves, I’d finally decided which team would be my home for the next three years.",
    "start": 2798,
    "end": 2950
   },
   {
-   "fact": "揭晓：Anaheim Bobcats，搬去LA",
+   "fact": "揭晓：Anaheim Bobcats",
    "anchor": "“And you’re looking at the newest member of the Anaheim Bobcats. I’m moving to LA!”",
    "start": 3700,
    "end": 3783
   },
   {
-   "fact": "他的回应：我希望你为自己做最好的选择",
+   "fact": "他：你要为自己做最好决定",
    "anchor": "He cupped my chin, his gaze intense. “I wanted you to do what was best for you.”",
    "start": 4699,
    "end": 4779
   },
   {
    "fact": "他先说I love you, Logan",
-   "anchor": "“But yes. Of course I wanted you to move to LA.” He chuckled, his gray eyes soft and full of emotion. “I love you, Logan.”",
-   "start": 4846,
+   "anchor": "But yes. Of course I wanted you to move to LA.” He chuckled, his gray eyes soft and full of emotion. “I love you, Logan.”",
+   "start": 4847,
    "end": 4968
   },
   {
-   "fact": "她第一次对家人以外的人说我爱你",
+   "fact": "她第一次对家人外的人说爱",
    "anchor": "“I love you too.”",
    "start": 5124,
    "end": 5141
   },
   {
-   "fact": "视频里她谎称和Hawks某人在一起",
+   "fact": "视频谎称和Hawks某人在一起",
    "anchor": "I’m just hanging out with one of the guys from the Hawks.",
    "start": 6107,
    "end": 6164
   },
   {
-   "fact": "她说“他不在”——技术性不撒谎，但也不是真话",
-   "anchor": "“He’s not here right now.” Technically not a lie. But also not the truth either.",
+   "fact": "技术性不撒谎",
+   "anchor": "“He’s not here right now.” Technically not a lie.",
    "start": 6470,
-   "end": 6550
+   "end": 6519
   },
   {
-   "fact": "本该坦白Carson，最后只说“我要搬去LA”",
-   "anchor": "“I’m moving to LA.”",
-   "start": 8096,
-   "end": 8115
+   "fact": "本该坦白只说搬家",
+   "anchor": "I’m moving to LA.",
+   "start": 8097,
+   "end": 8114
   },
   {
-   "fact": "Levi当面说她“通常能看穿男人的鬼话，而他满嘴都是”",
+   "fact": "Levi当面贬Carson",
    "anchor": "“Because you usually see through guys’ bullshit. And he is full of it.”",
    "start": 7464,
    "end": 7535
   },
   {
-   "fact": "Levi纠结要不要公开出柜",
+   "fact": "Levi纠结要不要公开",
    "anchor": "“I hate the fact that I even feel like I need to announce my sexuality,”",
    "start": 10975,
    "end": 11047
   },
   {
-   "fact": "他受Coach Cross出柜鼓舞，想做别人的榜样",
-   "anchor": "“But I also know how much I appreciated when Coach Cross came out.",
-   "start": 11062,
-   "end": 11128
-  },
-  {
-   "fact": "被Boone抓包后她认领全部责任",
+   "fact": "被Boone抓包后她认领责任",
    "anchor": "“It’s my fault. I’m the one who wanted to keep this a secret.”",
    "start": 21499,
    "end": 21561
   },
   {
-   "fact": "Boone的指控：你让我一次次出丑",
+   "fact": "Boone指控：让我一次次出丑",
    "anchor": "“You lied to me. You let me make a fool of myself, time and time again.”",
    "start": 21371,
    "end": 21443
   },
   {
-   "fact": "Levi冷语：Kovi 对人总这样",
+   "fact": "Levi冷语",
    "anchor": "“Kovi tends to have that effect on people.”",
    "start": 22098,
    "end": 22141
   },
   {
-   "fact": "Levi的否认：你不谈恋爱的",
-   "anchor": "Good one. You don’t do relationships.",
-   "start": 23757,
-   "end": 23794
-  },
-  {
-   "fact": "她的最终立场：不后悔，只为隐瞒的告知方式道歉",
+   "fact": "她最终立场",
    "anchor": "“I’m not sorry that this happened. I’m sorry that this is how you found out that Carson and I are in a relationship.”",
    "start": 23584,
    "end": 23701
   },
   {
-   "fact": "Levi的杀手锏：你知道我们为什么断交吗？他告诉过你吗？",
+   "fact": "Levi杀手锏",
    "anchor": "“Do you even know why we’re no longer friends?” Levi glared at Carson now, a threat in his eyes. “Did he tell you?”",
    "start": 24256,
    "end": 24371

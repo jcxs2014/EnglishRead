@@ -4,73 +4,67 @@
  "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch06_chapter_6.txt",
  "facts": [
   {
-   "fact": "她把他带回自己公寓——正是感恩节寄派那间 unit 1094",
+   "fact": "她把他带回寄过派的unit 1094",
    "anchor": "The same unit where I’d sent her a pie for Thanksgiving.",
    "start": 1892,
    "end": 1948
   },
   {
-   "fact": "照片墙考古：Dartmouth 冰上照与Frasier、Derek并肩；童年兄妹户外冰场合影",
+   "fact": "照片墙：Dartmouth照与Derek/Frasier同框",
    "anchor": "There was a picture of Logan on the ice in a Dartmouth uniform, flanked by Frasier and Derek.",
    "start": 2639,
    "end": 2732
   },
   {
-   "fact": "她把印自己名字的球衣送他，谢Emerson的号码",
+   "fact": "她谢Emerson号码，送他签名球衣",
    "anchor": "She held out a folded jersey with her name on the back.",
    "start": 3395,
    "end": 3450
   },
   {
-   "fact": "航班取消（O’Hare ground stop）+寄存包拿不到=没电脑没眼镜",
+   "fact": "航班取消+寄存包拿不到=没电脑没眼镜",
    "anchor": "With my carry-on bag unavailable, I had no laptop, no glasses.",
    "start": 6263,
    "end": 6325
   },
   {
-   "fact": "她拍沙发留客：再待一会儿陪我",
+   "fact": "她拍沙发留客",
    "anchor": "“Stay a little while. Hang out with me.”",
    "start": 7176,
    "end": 7216
   },
   {
-   "fact": "他自知动了真心：从不恋爱的人想要关系",
-   "anchor": "I didn’t do relationships. And yet, I wanted to be in a relationship with her. I wanted her.",
-   "start": 7886,
-   "end": 7978
-  },
-  {
-   "fact": "他离家时妹妹们5/7/11岁，如今10/12/16岁，错过一切",
+   "fact": "妹妹们5/7/11→10/12/16",
    "anchor": "When I’d left home, my younger sisters had been five, seven, and eleven. They were now ten, twelve, and sixteen.",
    "start": 10230,
    "end": 10342
   },
   {
-   "fact": "重磅：五年没和家人说过话",
+   "fact": "五年没与家人说话",
    "anchor": "I hadn’t spoken to my family since I’d moved out five years ago.",
    "start": 11526,
    "end": 11590
   },
   {
-   "fact": "她说Levi是最爱的人之一，他顿时觉得自己不属于这里",
+   "fact": "她提Levi，他顿觉不属于这里",
    "anchor": "her words a reminder that I didn’t belong. Not in her apartment, nor in her life.",
    "start": 12979,
    "end": 13060
   },
   {
-   "fact": "他澄清不恨Levi，心里补刀：Because you’re important to me too",
+   "fact": "他澄清不恨Levi",
    "anchor": "“I don’t despise him,” I finally said.",
    "start": 14407,
    "end": 14445
   },
   {
-   "fact": "她提供客房，原句召回他去年船上那句living in a hotel",
-   "anchor": "“You could stay here tonight. I have a guest bedroom. It would give you a break from feeling like you’re living in a hotel.”",
+   "fact": "她提供客房（原句召回living in a hotel）",
+   "anchor": "“You could stay here tonight. I have a guest bedroom.",
    "start": 15316,
-   "end": 15440
+   "end": 15369
   },
   {
-   "fact": "结尾：他问“你哥呢”，她答“我哥我来操心”",
+   "fact": "章末：我哥我来操心",
    "anchor": "“Let me worry about my brother.”",
    "start": 15858,
    "end": 15890

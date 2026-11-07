@@ -4,73 +4,61 @@
  "text": "notes/books/novels/cross-the-line-by-jenna-hartley/text/ch04_chapter_4.txt",
  "facts": [
   {
-   "fact": "感恩节：离异父母仍好友，全家在明尼苏达团聚",
+   "fact": "离异父母仍好友，全家火鸡塔可过感恩节",
    "anchor": "Even though our parents had divorced a few years ago, they remained good friends.",
    "start": 332,
    "end": 413
   },
   {
-   "fact": "家训 Hockey first：父母清晨送训、打额外工付装备",
-   "anchor": "Hockey first had been our family motto for as long as I could remember.",
-   "start": 1900,
-   "end": 1971
-  },
-  {
-   "fact": "父母为兄妹俩维持婚姻，双双打上职业后才离婚",
+   "fact": "父母为兄妹维持婚姻，双双打上职业后才离（Logan事后才知）",
    "anchor": "My parents had stayed together for my brother and me, only divorcing after we’d both gone pro.",
    "start": 3089,
    "end": 3183
   },
   {
-   "fact": "Brightside 谈崩放弃；Levi 愿意牺牲薪水挺她，她更愧疚",
+   "fact": "Brightside谈崩放弃；Levi愿牺牲薪水同进退",
    "anchor": "In the end, we’d passed on the deal with Brightside Sunglasses.",
    "start": 3777,
    "end": 3840
   },
   {
-   "fact": "她强行断联 Carson 一周就破功",
-   "anchor": "I’d made it a week before I’d caved.",
-   "start": 4267,
-   "end": 4303
-  },
-  {
-   "fact": "大新闻：联盟成立顾问委员会，Logan 受邀加入",
-   "anchor": "They want to consult people who have typically been underrepresented in the sport—minorities, those in the LGBTQIA+ community, and women. And they asked me to be part of it.",
+   "fact": "大新闻：联盟顾问委员会邀请Logan",
+   "anchor": "They want to consult people who have typically been underrepresented in the sport—minorities, those in the LGBTQIA+ community, and women.",
    "start": 6871,
-   "end": 7044
+   "end": 7008
   },
   {
-   "fact": "功劳归 Carson 但不能说，谎称听众转达",
+   "fact": "功劳谎称听众转发（真功臣Carson不能提）",
    "anchor": "“Actually, one of our listeners forwarded the episode to the league.”",
    "start": 6592,
    "end": 6661
   },
   {
-   "fact": "妈妈：外公Joe打过Bruins；她大学打球却因性别无缘职业",
+   "fact": "妈妈：外公Joe打过Bruins，她因性别无缘职业",
    "anchor": "But because she was a woman, she’d been denied the opportunity to play professionally.",
    "start": 7370,
    "end": 7456
   },
   {
-   "fact": "campaign 门面：Fizzy 和 Kovi；Levi 低吼质问“你什么时候叫他Kovi”",
+   "fact": "女子冰球1998年才冬奥首秀",
+   "anchor": "women’s hockey hadn’t made its Olympic debut until 1998",
+   "start": 7498,
+   "end": 7553
+  },
+  {
+   "fact": "campaign门面：Fizzy与Kovi；Levi低吼“你什么时候叫他Kovi”",
    "anchor": "“Fizzy and Kovi.”",
    "start": 9298,
    "end": 9315
   },
   {
-   "fact": "Carson匿名快递她最爱的LA苹果派+KT卡片",
+   "fact": "Carson匿名快递29th Street Bakery苹果派+KT卡片",
    "anchor": "Hope this makes you feel like coming home. Happy Thanksgiving, KT.",
    "start": 13408,
    "end": 13474
   },
   {
-   "fact": "火鸡塔可内容爆红：Carson的方法奏效",
-   "anchor": "“Girl, your turkey tacos are going viral.”",
-   "start": 16629,
-   "end": 16671
-  },
-  {
-   "fact": "Bryn 私下告诉她：怀孕了，六月生（正逢Stanley Cup决赛期）",
+   "fact": "Bryn私下告诉她怀孕（六月预产期，正逢Stanley Cup决赛期）",
    "anchor": "“I’m pregnant!”",
    "start": 19649,
    "end": 19664
