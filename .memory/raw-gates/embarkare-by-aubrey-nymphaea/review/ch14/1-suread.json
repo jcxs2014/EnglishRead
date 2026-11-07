@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch14",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "章首：连日骨汤维生身体酸痛虚软——炉边裹毯",
+   "anchor": "Bone broth had done little to sustain her over the last few days, and her body was sore and weak.",
+   "start": 346,
+   "end": 443
+  },
+  {
+   "fact": "阳台那人种下决心：苦练身体与魔法，再有人占便宜烧成灰",
+   "anchor": "if anyone tried to take advantage of her again, she would burn them to the fucking ground.",
+   "start": 735,
+   "end": 825
+  },
+  {
+   "fact": "Rayner 送 Gyor 的女装皮具——花光余钱；兄弟修马厩抵房费",
+   "anchor": "I just got clothing for you from Gyor. I think it should fit.",
+   "start": 944,
+   "end": 1005
+  },
+  {
+   "fact": "Gyor 酒保交易：两名女招待回家照顾垂死父亲——她每晚帮工抵补给；Done",
+   "anchor": "“My two barmaids recently left. Sisters. Said they had to care for their dying father.",
+   "start": 7575,
+   "end": 7661
+  },
+  {
+   "fact": "庇护所原则：光暗生物同席——不求成友但求互解",
+   "anchor": "“This tavern is a place of refuge for all kinds of creatures and men.”",
+   "start": 7827,
+   "end": 7897
+  },
+  {
+   "fact": "Quentin 手语：不强迫 kitzek 随行——它们可自行决定；Gyor 乐见其留吓退怪物",
+   "anchor": "“’That’s not our decision to make,’” Rayner translated for Quentin.",
+   "start": 6305,
+   "end": 6372
+  },
+  {
+   "fact": "袭击后首次复练：掌心小火+烙圆入土——魔法重新苏醒",
+   "anchor": "Andra hadn’t tried to use her magic since the assault, but the morning cold was biting into her fingers",
+   "start": 11329,
+   "end": 11432
+  },
+  {
+   "fact": "Gerrick 晨跑：黑漩涡纹身沿右肋到右臂全覆盖——与幻象里 Edgeron 黑纹同构、脊背发凉",
+   "anchor": "the black swirling tattoos that spanned his chest and ran down the right side of his ribcage",
+   "start": 12663,
+   "end": 12755
+  },
+  {
+   "fact": "兽群嗅他即亲翻肚讨摸——他自辩“分不清怪物和生物就是烂猎人”、kitzek 是心头好",
+   "anchor": "I would be a really shitty hunter if I didn’t know the difference between monster and creature.",
+   "start": 14720,
+   "end": 14815
+  },
+  {
+   "fact": "情报交易：名字换名字——报出 Gerrick 时脸上掠过最淡阴影",
+   "anchor": "“Gerrick,” he answered, and the faintest of shadows crossed his face.",
+   "start": 18397,
+   "end": 18466
+  },
+  {
+   "fact": "南林之行的解释（买甜酒）被她判定鬼话；后文“他没看过她的全部”",
+   "anchor": "“The market in the Southern Woods offers an unparalleled experience. The sweet wine alone is worth a special trip.”",
+   "start": 17135,
+   "end": 17250
+  },
+  {
+   "fact": "三男前臂相握秒熟——聊食谱与动物解放如多年老友；Gerrick 问起救兽者",
+   "anchor": "“Pleasure to meet you, Gerrick. I’m Rayner, and this is Quentin, my brother.”",
+   "start": 19343,
+   "end": 19420
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

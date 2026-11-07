@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch15",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "酒保首夜：客流如暴民；水族要水/暗影点餐/蛇发夫妇/羊男小费",
+   "anchor": "“Gyor! We need another pitcher of mead and two more loaves of bread!” Andra yelled to the kitchens",
+   "start": 33,
+   "end": 131
+  },
+  {
+   "fact": "Gyor 吩咐：每小时给鳃客人送两大桶淡水其余勿扰",
+   "anchor": "deliver two large barrels of fresh water to this group every hour and to not disturb them otherwise.",
+   "start": 1635,
+   "end": 1735
+  },
+  {
+   "fact": "蛇发女子越兴奋蛇越活跃——缠住男伴手臂拉更近",
+   "anchor": "Black snakes ran the length of her nearly bare back, slithering calmly across her glittering skin.",
+   "start": 3993,
+   "end": 4091
+  },
+  {
+   "fact": "萨提尔首领大方打赏——她愿卖笑讨小费；水囊见底",
+   "anchor": "She needed tips for their supplies, and she was willing to flirt a little to get them.",
+   "start": 5155,
+   "end": 5241
+  },
+  {
+   "fact": "农夫情报：庄稼全毁怪物赶不走——押北方“在找什么东西”",
+   "anchor": "I’d put all my coin on the north. Something’s going on up there. Looking for something I suppose.”",
+   "start": 6381,
+   "end": 6479
+  },
+  {
+   "fact": "Gerrick 独坐窗台盯着她不笑不挥手；dryad 搭讪他不理会",
+   "anchor": "Sitting alone on the window ledge along a far wall was Gerrick.",
+   "start": 8029,
+   "end": 8092
+  },
+  {
+   "fact": "酒吧情报：成打怪物搜“年轻女巫”——Cecilia 之女、要活捉",
+   "anchor": "“...heard she’s sendin’ ‘em out by the dozens in search of a young witch,” the first one said in a thick accent.",
+   "start": 9813,
+   "end": 9925
+  },
+  {
+   "fact": "关键情报补全：超级强大、Vasara 要活的、赏金翻倍、派最好的猎手",
+   "anchor": "Rumors are Cecilia, the light witch who killed Edgeron a shit ton o’ years ago, had a daughter.",
+   "start": 10080,
+   "end": 10175
+  },
+  {
+   "fact": "后巷恐慌发作——Quentin 手语“必须马上找洞”她供出北方",
+   "anchor": "“‘By the dozens’?” Andra’s vision edged with darkness. “I can’t fight dozens of monsters. Hell, I can’t even fight one.”",
+   "start": 10898,
+   "end": 11018
+  },
+  {
+   "fact": "回房惊魂：阳台门竟开着——黑影把她钉门捂嘴",
+   "anchor": "She was sure she had locked the balcony doors before her shift.",
+   "start": 13332,
+   "end": 13395
+  },
+  {
+   "fact": "Gerrick 摊牌：他知道她是元素女巫（目睹控火）；喉间手劲、眼睛金光一闪",
+   "anchor": "“Elemental witch, then?” Gerrick’s voice rumbled in the darkness.",
+   "start": 14081,
+   "end": 14146
+  },
+  {
+   "fact": "尾声耳语：本可卖她换大钱“这是我的营生”却宣布秘密安全——报偿要她“自愿给”",
+   "anchor": "where’s the fun if I can’t chase you a little longer? Your secret, witch, is safe with me.”",
+   "start": 16271,
+   "end": 16362
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
