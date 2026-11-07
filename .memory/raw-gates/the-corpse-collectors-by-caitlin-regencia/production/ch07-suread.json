@@ -1,0 +1,49 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch07_half_truths_and_choices.txt",
+ "facts": [
+  {
+   "fact": "紫袍人分列台阶两侧",
+   "anchor": "Purple-cloaked demons stood in lines on either side of the steps",
+   "start": 42,
+   "end": 106
+  },
+  {
+   "fact": "吸血鬼女人倒吊在藤蔓上",
+   "anchor": "There was a woman hanging upside down from thick vines knotted around what looked like a butcher’s hook",
+   "start": 1015,
+   "end": 1118
+  },
+  {
+   "fact": "主持仪式的是Kastral",
+   "anchor": "Kastral. Recognition slammed through Alliera’s consciousness.",
+   "start": 2462,
+   "end": 2523
+  },
+  {
+   "fact": "组织名Order of Exsanguination只收证明自己的人",
+   "anchor": "The Order of Exsanguination can only accept those who prove themselves worthy and devoted",
+   "start": 3330,
+   "end": 3419
+  },
+  {
+   "fact": "Vix改变声调跟着人群念咒",
+   "anchor": "He had begun chanting along with the others; his voice nearly unrecognizable in its darkness.",
+   "start": 4389,
+   "end": 4482
+  },
+  {
+   "fact": "入门仪式开始",
+   "anchor": "Your initiation, if you choose it, begins now. Come.",
+   "start": 6219,
+   "end": 6271
+  },
+  {
+   "fact": "Alliera咒骂Vix跟了上去",
+   "anchor": "she stomped down the earthen staircase behind them into the gloom",
+   "start": 6811,
+   "end": 6876
+  }
+ ]
+}
