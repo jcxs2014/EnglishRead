@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch18",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "训练加码：一小时内第十几次被压倒——他逼她自己想办法",
+   "anchor": "The air whooshed from Andra’s lungs as she found herself on her back for the dozenth time in the past hour.",
+   "start": 34,
+   "end": 141
+  },
+  {
+   "fact": "教学转向：推翻旧课——\"你就是情绪做的，战斗里就用它\"（今晚别用火）",
+   "anchor": "“You happened. Who am I to tell someone that is made entirely of emotion and passion to not utilize that during a battle?",
+   "start": 1459,
+   "end": 1580
+  },
+  {
+   "fact": "土系首胜：以 Torgil/Svaige 被囚记忆点燃怒意——双根破土缠死他双臂\"There she is\"",
+   "anchor": "On her left, a root exploded through soil, and she burst her eyes open in time with the winding of the root",
+   "start": 2541,
+   "end": 2648
+  },
+  {
+   "fact": "俯卧撑喜剧：罚 30 个——借口酒馆当班被截\"Nice try\"",
+   "anchor": "“Do you really think you’re doing any more barmaid shifts while snavellers are here? Nice try.”",
+   "start": 3625,
+   "end": 3720
+  },
+  {
+   "fact": "突袭前兆：地面节律性震动——他噤声拔剑令她退后\"It's too late\"",
+   "anchor": "The earth was vibrating beneath her. Not a constant buzz, but more of a rhythmic pounding",
+   "start": 5158,
+   "end": 5247
+  },
+  {
+   "fact": "恶狼亮相：车轮大黑爪+金属摩擦声——小屋大、铁链、玩弄猎物",
+   "anchor": "a black paw the size of a wagon wheel stepped from the tree line, then another",
+   "start": 6613,
+   "end": 6691
+  },
+  {
+   "fact": "狼要的是她——Gerrick 暴起缠斗命她跑；火焰噼啪失效改轰倒大树",
+   "anchor": "“It wants you, witch! Run!”",
+   "start": 7955,
+   "end": 7982
+  },
+  {
+   "fact": "Quentin 的话回响救场：绕树双焰直射狼眼——狼滚地扑火她逃",
+   "anchor": "She spun around the tree just as the wolf approached and shot both flames straight into its eyes.",
+   "start": 10623,
+   "end": 10720
+  },
+  {
+   "fact": "被巨掌拍飞撞巨石——肋骨闷响碎裂重伤倒地；法力几近枯竭",
+   "anchor": "A sickening crunch sounded in her ribs, and she slumped to the forest floor.",
+   "start": 11045,
+   "end": 11121
+  },
+  {
+   "fact": "关键时刻：Torgil/Svaige 从两端现身助战——Gerrick 手臂血流如注又被狼尾拍倒",
+   "anchor": "Torgil and Svaige stalked from opposite ends of the tree line, heads bent low to the earth",
+   "start": 13069,
+   "end": 13159
+  },
+  {
+   "fact": "趁 Torgil 抓狼脸——Gerrick 翻滚一剑自下而上捅进狼胸；巨狼轰然倒地",
+   "anchor": "tucking and rolling as he shoved it upward and into the wolf’s chest.",
+   "start": 15914,
+   "end": 15983
+  },
+  {
+   "fact": "安魂：按胸低语\"愿你的灵魂在自由中安息\"——她无法解释的同情一闪；狼来历未解",
+   "anchor": "“May your soul rest in freedom,” he said reverently.",
+   "start": 16518,
+   "end": 16570
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

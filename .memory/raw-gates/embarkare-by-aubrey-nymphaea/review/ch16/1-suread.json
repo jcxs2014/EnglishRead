@@ -1,0 +1,74 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch16",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "章首：酒馆围地图——她嘲笑 Rayner 的计划蠢到家",
+   "anchor": "“That might be the stupidest thing I have ever heard you say,” Andra chided.",
+   "start": 33,
+   "end": 109
+  },
+  {
+   "fact": "Quentin 手语建议东走 Sarkovian 山脉——Gerrick 重砸大剑警告死亡陷阱；Gyor 埋怨武器上台面",
+   "anchor": "“The Sarkovian Mountains are a death trap.” Gerrick set a large sword on the counter with a heavy thump.",
+   "start": 1321,
+   "end": 1425
+  },
+  {
+   "fact": "Dread Forest 专诱旅人入内、林中生物以心智为食多数无回——东行被否",
+   "anchor": "The creatures that linger there feast on the minds of those unfortunate enough to find themselves lost in these woods.",
+   "start": 3130,
+   "end": 3248
+  },
+  {
+   "fact": "转折：她松口交底——找怪物涌出的洞并封上",
+   "anchor": "“We’re trying to find a hole that monsters are coming out of—yes, a hole—and ultimately figure out a way to close it.”",
+   "start": 4301,
+   "end": 4419
+  },
+  {
+   "fact": "Gerrick 一听 pit 声调转冷反问——证明他早知坑的存在；逼问动机",
+   "anchor": "“The pit?” Gerrick’s voice turned stony. “Why would the three of you try to close the pit?”",
+   "start": 4485,
+   "end": 4576
+  },
+  {
+   "fact": "给出路线：北方林间隘口到小镇找联络人；宣布\"我们\"同行",
+   "anchor": "There’s a less-traveled pass in the mountain that will lead us to a town just about here. I have a contact there",
+   "start": 5314,
+   "end": 5426
+  },
+  {
+   "fact": "亮知情牌：东北海岸暗女巫为爱人复仇——\"Vasara 在找 Cecilia 之女，不难猜出你是谁\"",
+   "anchor": "“of a dark witch in the Northeastern Shores, and her deranged determination to avenge her lover's death.”",
+   "start": 6261,
+   "end": 6366
+  },
+  {
+   "fact": "合同条款：教防身+沿途杀怪领赏\"双赢\"；不设防\"一天之内被撕碎\"",
+   "anchor": "Finally: “I hunt monsters for pay.”",
+   "start": 8307,
+   "end": 8342
+  },
+  {
+   "fact": "训练：突袭触发 Jasper 闪回——情绪失控催生新火焰（\"The fire is new\"）双手水泡",
+   "anchor": "Along her fingers and palms, angry red blisters formed, some already popping as clear liquid oozed from them.",
+   "start": 13305,
+   "end": 13414
+  },
+  {
+   "fact": "最后一刀：三十年躲在完美村庄私藏光魔法坐视无辜者被奴役屠杀",
+   "anchor": "keeping light magic to yourself while innocents have been used and slaughtered for the last three decades.",
+   "start": 16688,
+   "end": 16794
+  },
+  {
+   "fact": "雨夜四情绪清算：内疚/羞耻/希望/怕永远不够——决意承担使命",
+   "anchor": "she sat on the floor, listening to the rain pour outside as her tears fell in a similar manner, and felt it all.",
+   "start": 19020,
+   "end": 19132
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
