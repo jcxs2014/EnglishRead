@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch22",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "章首：妓院顶层 Nelveen 卧室——Lucas/Rayner 壁炉边、Quentin 窗边",
+   "anchor": "The door at the top level of the brothel creaked as it opened just inches.",
+   "start": 36,
+   "end": 110
+  },
+  {
+   "fact": "Gerrick 报告：楼下操控者知道两人名字+Andra 外貌——Vasara 派出真操控者逼近",
+   "anchor": "He knew Andra’s name and mine. They know her physical description.",
+   "start": 1143,
+   "end": 1209
+  },
+  {
+   "fact": "核心请求：查明 pit 位置与进入方法——Nelveen 讨价还价答应",
+   "anchor": "We need to find out exactly where the pit is, and how to get in.",
+   "start": 1629,
+   "end": 1693
+  },
+  {
+   "fact": "衣柜藏身：他回答\"没和这里任何女人上过床\"——几乎相吻",
+   "anchor": "None. I haven’t slept with any of the women here.",
+   "start": 3575,
+   "end": 3624
+  },
+  {
+   "fact": "魅惑师揭秘：Nelveen 从不真做——心智操控\"人生最佳\"实际挖记忆收集情报",
+   "anchor": "I bring them to this room and convince their minds they are having the best sex of their lives.",
+   "start": 7529,
+   "end": 7624
+  },
+  {
+   "fact": "危机：挖记忆遇\"墙\"反噬——灯爆壁裂 Gerrick 被光爆冲飞撞墙、Lucas/Quentin 触她即昏",
+   "anchor": "He grabbed her bicep in an attempt to pull her away but was sent soaring backward into the wall by a blast of light.",
+   "start": 9168,
+   "end": 9284
+  },
+  {
+   "fact": "Andra 毫不犹豫刺入操控者胸口止血——平生第一次杀人；Nelveen 塌下停止呼吸一巴掌打醒",
+   "anchor": "Without a second thought, she ran forward and plunged the blade into the man’s chest.",
+   "start": 10026,
+   "end": 10111
+  },
+  {
+   "fact": "情报一：此人是高阶、受命对囚犯（人类/生物/家庭）施刑逼供——操控者\"很多或许上百\"",
+   "anchor": "Her brow furrowed, and she swallowed visibly. “Many. Hundreds, perhaps.”",
+   "start": 13317,
+   "end": 13389
+  },
+  {
+   "fact": "情报二：灰色山道+转角后烟雾火焰巨坑——Gerrick 判定西北山脉",
+   "anchor": "Smoke and flames surrounded a crater so large I couldn’t see the other side of it.",
+   "start": 14622,
+   "end": 14704
+  },
+  {
+   "fact": "情报三：记忆里始终有一颗掌心大搏动古老魔法的祖母绿——Vasara 手中至关重要",
+   "anchor": "It was large, the size of your palm, and it throbbed with an ancient magic.",
+   "start": 15809,
+   "end": 15884
+  },
+  {
+   "fact": "倒计时：距冬至只剩七天——冬至起每天死一人；Lucas 主张直取宝石被 Quentin 驳",
+   "anchor": "we only have seven days until the winter solstice. Once that day comes, one person from our village will die every day.",
+   "start": 16479,
+   "end": 16598
+  },
+  {
+   "fact": "Gerrick 提醒\"决定权在 Andra\"——她拍板再留一晚挖更多脑子；Lucas 怒摔门而去",
+   "anchor": "“Fine.” He stormed out of the room, slamming the wooden door behind him.",
+   "start": 18414,
+   "end": 18486
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

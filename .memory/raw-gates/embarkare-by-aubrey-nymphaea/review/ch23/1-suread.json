@@ -1,0 +1,74 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch23",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "章首：清晨 Nelveen 绿眼睛近在咫尺——\"你睡着时很美\"她骂怪胎",
+   "anchor": "Her eyes fluttered open, only to find Nelveen’s green ones just inches from her face.",
+   "start": 284,
+   "end": 369
+  },
+  {
+   "fact": "关系确立：她主动\"我愿意做你的朋友\"——两人正式成为朋友",
+   "anchor": "“No.” Nelveen’s tone was somber. “I don’t do that to friends. Well, if I had friends, I wouldn’t do that.”",
+   "start": 793,
+   "end": 899
+  },
+  {
+   "fact": "走廊滑倒被他接住——浴巾 Gerrick+走光睡袍；不欢而散",
+   "anchor": "Gerrick stood in front of her, naked save for the low hanging towel around his hips.",
+   "start": 2735,
+   "end": 2819
+  },
+  {
+   "fact": "Levana 衣店：绿血管老妇拥抱 Nelveen\"以为你被害了\"",
+   "anchor": "It’s been too long since you stopped in. I was starting to think you had been killed.",
+   "start": 6574,
+   "end": 6659
+  },
+  {
+   "fact": "Levana 直问\"你也是妓女？\"——她差点噎住答\"只是路过\"",
+   "anchor": "Nearly choking on her words, Andra said, “No ma’am. I’m just passing through.”",
+   "start": 6948,
+   "end": 7026
+  },
+  {
+   "fact": "黑裙初见：蕾丝上身+层叠裙——\"另一个人生里才配得上\"",
+   "anchor": "She stopped in front of a black dress with a lace bodice and layered skirt.",
+   "start": 8688,
+   "end": 8763
+  },
+  {
+   "fact": "Levana 哲学：美裙是利器——真正的力量在这里（按胸口）；她内心确认守护而非掌控",
+   "anchor": "A beautiful dress can be a powerful tool,” Levana mused, placing her palm against her chest.",
+   "start": 9222,
+   "end": 9314
+  },
+  {
+   "fact": "Nelveen 身世：从孩童起在此做工——Levana 是唯一把她当人而非物件的人",
+   "anchor": "I’ve been working here a long time. Since I was a child, unfortunately.",
+   "start": 10499,
+   "end": 10570
+  },
+  {
+   "fact": "黑裙礼物：Nelveen 买下她恋上的那条——\"女人穿美裙不需要理由……今晚可能有个理由\"",
+   "anchor": "“The dress you fell in love with at Levana’s shop?” Nelveen laid the dress on the bed. “Yes, it is.”",
+   "start": 11582,
+   "end": 11682
+  },
+  {
+   "fact": "Rayner 送包裹+额外一个——Nelveen 身姿一僵意外道谢",
+   "anchor": "“Relax, Nelveen. It’s right here. Oh, and I picked this one up for you.”",
+   "start": 13163,
+   "end": 13235
+  },
+  {
+   "fact": "章末悬念：黑色蕾丝面具（翼尖上翘）——\"他会解释的\"；Nelveen 收起自己的红面具",
+   "anchor": "In her lap sat a black mask, wide enough to cover her eyes, with upward slanting wing tips on the sides.",
+   "start": 13583,
+   "end": 13687
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

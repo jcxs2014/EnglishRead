@@ -1,0 +1,68 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch24",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "章首：穿上黑蕾丝礼服——深 V+蕾丝袖绕中指+薄纱层裙；从未穿过如此精致",
+   "anchor": "A lacy bodice plunged into a deep v, exposing Andra’s long neck and ample cleavage.",
+   "start": 37,
+   "end": 120
+  },
+  {
+   "fact": "Nelveen 暗道中途告辞：\"不能剧透——走到尽头，他在等你\"；亲吻脸颊离开",
+   "anchor": "I was asked not to spoil anything. Stay quiet and walk to the end of this passage.",
+   "start": 1521,
+   "end": 1603
+  },
+  {
+   "fact": "星夜庭院：Gerrick 从阴影现身——黑夹克皮靴束发眉间戾气尽消含笑看她",
+   "anchor": "Gerrick stepped from the shadows, and Andra felt the air whoosh from her lungs.",
+   "start": 3803,
+   "end": 3882
+  },
+  {
+   "fact": "脱夹克裹她防冻——\"我妈教养得好\"；她追问母亲他绕开",
+   "anchor": "“Why don’t you have a cloak?” he asked, immediately removing his jacket.",
+   "start": 5202,
+   "end": 5274
+  },
+  {
+   "fact": "母亲的时态泄露：她庆幸\"你有她\"——他答\"曾经有过\"（I was, too）",
+   "anchor": "My mother, however, is the one bright spot in an otherwise dark past.",
+   "start": 6341,
+   "end": 6410
+  },
+  {
+   "fact": "道歉只道歉后半：接住你永远不悔——悔的是之后的凶",
+   "anchor": "“I will always catch you, Andra, and I will never apologize for it. I apologize for being harsh with you after.”",
+   "start": 7103,
+   "end": 7215
+  },
+  {
+   "fact": "初见市场日真相：四个 angry——\"我得不到你\"是最深的",
+   "anchor": "I was angry that you’re so perfectly you. I was angry that I couldn’t have you.",
+   "start": 9383,
+   "end": 9462
+  },
+  {
+   "fact": "双元素首成：气泡包火苗不灭——悬浮光球×12 绕庭如星",
+   "anchor": "As the bubble engulfed the flame, it flickered and danced, though it never extinguished.",
+   "start": 12148,
+   "end": 12236
+  },
+  {
+   "fact": "初吻：他吻上她的唇她热烈回应——\"为什么我们否认了这么久\"",
+   "anchor": "Gerrick’s lips crashed into hers, and she returned his kiss with feverish delight.",
+   "start": 13781,
+   "end": 13863
+  },
+  {
+   "fact": "章末 cliffhanger：正要更进一步——远处传来尖叫声；亲密戛然而止",
+   "anchor": "Before he had the chance, screams sounded in the distance.",
+   "start": 17677,
+   "end": 17735
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
