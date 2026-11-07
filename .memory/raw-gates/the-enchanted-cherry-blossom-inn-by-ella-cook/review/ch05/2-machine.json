@@ -1,0 +1,507 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/ch05 the wish and the kiss.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch05_chapter_5.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The town hall wasn’t available, the farm with the converted barn was already booked, and neither of them had liked the p",
+          "ok": true,
+          "pos": 1869
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Jamie opened the door to the florist’s, and was a bit taken aback by the explosion of red roses, ribbons, fluffy baby’s ",
+          "ok": true,
+          "pos": 4252
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘She’s",
+          "ok": true,
+          "pos": 2611
+        },
+        {
+          "text": "amazing. She cares fiercely about others and is passionate about fighting for those who need it, and she’s really intell",
+          "ok": true,
+          "pos": 7980
+        },
+        {
+          "text": "because her suggestions made them better.’",
+          "ok": true,
+          "pos": 8199
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘I think I like the sound of her already,’ Lily-Ann quipped. ‘And so do they.’ The flowers had finished their transforma",
+          "ok": true,
+          "pos": 8437
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Lily-Ann’s words hit him again. Maybe she was right, and he did have feelings for Amrita. She was beautiful, fiery, pass",
+          "ok": true,
+          "pos": 10440
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘No. I don’t. Not any more.’ That had been ruined for her long ago. She gave herself a mental shake and changed the subj",
+          "ok": true,
+          "pos": 13085
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The theatre – because that was the only word for it – could have come right out of a Bollywood film. It was small, with ",
+          "ok": true,
+          "pos": 14874
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She glanced at the screen and grimaced again. ‘I can’t help thinking of the damage, and the rehab that will be needed. L",
+          "ok": true,
+          "pos": 18147
+        },
+        {
+          "text": "That’s probably a traumatic dislocation and damaged nerves. Months of recovery and physio. Probably surgery too.’",
+          "ok": true,
+          "pos": 18280
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘Umm",
+          "ok": true,
+          "pos": 6662
+        },
+        {
+          "text": "maybe?’ Jamie swallowed, surprised that Amrita had noticed anything. That wasn’t how these things were supposed to work.",
+          "ok": true,
+          "pos": 19337
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘That’s what I mean. Not about me, about the store and animals and",
+          "ok": true,
+          "pos": 24439
+        },
+        {
+          "text": "’ The thought fogged over in his brain as the magic fought him. He clenched his fists, using the bite of his nails into ",
+          "ok": true,
+          "pos": 24505
+        },
+        {
+          "text": "quite",
+          "ok": true,
+          "pos": 6077
+        },
+        {
+          "text": "special",
+          "ok": true,
+          "pos": 2047
+        },
+        {
+          "text": "Magical.’ He forced the word out",
+          "ok": true,
+          "pos": 24730
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Then she blinked again and her gaze softened, the focus fading as she smiled brightly. ‘It must be nice to live somewher",
+          "ok": true,
+          "pos": 25019
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘Yeah.’ He nodded. ‘I can wait. You’ll tell me when you’re ready. I’m never going to do anything to make you uncomfortab",
+          "ok": true,
+          "pos": 29073
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "‘No, it’s not. It wasn’t me personally, but I’ve seen it with friends and a cousin, and it usually goes badly. The diffe",
+          "ok": true,
+          "pos": 30453
+        },
+        {
+          "text": "It can be really big at times. Too big. And even when there’s cultural understanding and you think you’re on the same pa",
+          "ok": true,
+          "pos": 30610
+        },
+        {
+          "text": "’ Amrita smiled sadly. ‘We’ve all got pasts that we have to try to learn from and not bring into our presents or futures",
+          "ok": true,
+          "pos": 30732
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "There weren’t fireworks or explosions or anything so clichéd; this heat was deeper and steadier – a sweet reassurance th",
+          "ok": true,
+          "pos": 35918
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter 5",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 13,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 24,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6763,
+    "block_target": [
+      12,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 14 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -4,52 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch04_chapter_4.txt",
  "facts": [
   {
-   "fact": "Mia 与 Aiden 把婚期定在 Beltane（五月初），理由是希望 Sylvie 在还能行动时参加。",
-   "anchor": "we want Sylvie to be as fit as possible to celebrate with us",
+   "fact": "一周后 Katie 带着婚礼活页夹到 Mia 家，自封首席伴娘并接手筹划。",
+   "anchor": "Katie plonked herself down on Mia’s sofa a week later.",
+   "start": 29,
+   "end": 83
+  },
+  {
+   "fact": "Mia 把婚期定在今年 Beltane（五月一日）。",
+   "anchor": "Aiden and I have been talking, and we were thinking Beltane. This year.",
+   "start": 1242,
+   "end": 1313
+  },
+  {
+   "fact": "Katie 问 Mia 是不是因为怀孕才急着结婚。",
+   "anchor": "Are you sure you’re not pregnant?",
+   "start": 1665,
+   "end": 1698
+  },
+  {
+   "fact": "Mia 说出赶婚期的真正理由：希望 Sylvie 身体尽量好、能参加。",
+   "anchor": "we want Sylvie to be as fit as possible to celebrate with us.",
    "start": 1994,
-   "end": 2054
+   "end": 2055
   },
   {
-   "fact": "Amrita 对 Jamie 承认自己的工作同样被繁文缛节消耗，但病人肯努力时一切都值得。",
-   "anchor": "a lot of the red-tape frustration in my job too",
-   "start": 13067,
-   "end": 13114
+   "fact": "Amrita 发现误拿了 Jamie 的 Superman 铅笔盒，打电话道歉并提出顺路送还。",
+   "anchor": "Your Superman pencil tin. I’ve been driving around with it in my car",
+   "start": 6361,
+   "end": 6429
   },
   {
-   "fact": "Jamie 说出 Ophelia 是女巫时，魔法自动抹掉 Amrita 的记忆，他亲眼看见「魔法保护自己」的城规生效。",
-   "anchor": "Of course, he knew Hudsbury’s lore – that magic was a secret that protected itself from outsiders",
-   "start": 18422,
-   "end": 18519
+   "fact": "公寓楼因附近施工挖爆总水管停水数小时，Jamie 于是邀她留下吃晚饭。",
+   "anchor": "the water to our apartment block is out.",
+   "start": 15256,
+   "end": 15296
   },
   {
-   "fact": "Jamie 带 Amrita 进 Glimmers and Sparkles 的储藏厨房，店里已提前布置成情人节的样子。",
-   "anchor": "into a world where Valentine’s Day had arrived – and exploded – early",
-   "start": 19718,
-   "end": 19787
+   "fact": "Rayenne 放他们进 Glimmers 的隐藏厨房取香料，告诫别碰标黑或紫的罐子。",
+   "anchor": "or touch any of the jars marked with black or purple",
+   "start": 22641,
+   "end": 22693
   },
   {
-   "fact": "Amrita 讲旁遮普家里做饭的规矩：在场的人都要帮手，一起做饭是把家人揉合在一起的方式。",
-   "anchor": "Cooking with the people you care about is part of being a family.",
-   "start": 28340,
-   "end": 28405
-  },
-  {
-   "fact": "她做 dhungar 时往锡纸杯里放烧红的木炭，浇上黄油，烟雾旋成一个心形。",
-   "anchor": "forming the shape of a heart",
-   "start": 27412,
-   "end": 27440
-  },
-  {
-   "fact": "厨房里两人靠近时，Amrita 用「新朋友」给这段关系定性。",
-   "anchor": "How about a new friend?",
-   "start": 29808,
-   "end": 29831
-  },
-  {
-   "fact": "送她上车前，Amrita 在他脸颊上快速吻了一下，气味让她觉得熟悉而安全。",
-   "anchor": "She leaned close and placed a quick kiss on his cheek",
-   "start": 34171,
-   "end": 34224
+   "fact": "两人在 Jamie 厨房做黄油鸡、烤饼与 kachumber 沙拉，Amrita 用炭火做 dhungar 烟熏。",
+   "anchor": "How about butter chicken, roti and kachumber salad?",
+   "start": 25854,
+   "end": 25905
   }
  ]
 }

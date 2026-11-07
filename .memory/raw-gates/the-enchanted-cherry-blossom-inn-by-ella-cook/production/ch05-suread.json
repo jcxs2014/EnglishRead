@@ -4,64 +4,52 @@
  "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch05_chapter_5.txt",
  "facts": [
   {
-   "fact": "找婚宴场地处处碰壁，镇上那家漂亮的 inn 还挂着出售牌，一周比一周冷清。",
-   "anchor": "the pretty inn at the edge of town still had for-sale signs hanging beneath the cherry trees",
-   "start": 2221,
-   "end": 2313
+   "fact": "Aiden 挂电话得知婚礼酒店在五月一日已被订走。",
+   "anchor": "Hotel’s already booked for May first.",
+   "start": 105,
+   "end": 142
   },
   {
-   "fact": "Lily-Ann 对花施展 changeling 咒，请花为主顾改变颜色。",
-   "anchor": "The flowers, obviously. You are beautiful exactly as you are, but I’m hoping you would consider changing?",
+   "fact": "情人节当天 Jamie 走进花店，被满店红玫瑰与泰迪熊淹没。",
+   "anchor": "He knew it was Valentine’s Day",
+   "start": 4620,
+   "end": 4650
+  },
+  {
+   "fact": "Lily-Ann 对花施 changeling 咒，逐句「劝」玫瑰为 Jamie 改变。",
+   "anchor": "The flowers, obviously. You are beautiful exactly as you are",
    "start": 7467,
-   "end": 7572
+   "end": 7527
   },
   {
-   "fact": "Jamie 在花店描述 Amrita 时说她激烈地关心别人、为需要的人而战。",
-   "anchor": "She cares fiercely about others and is passionate about fighting for those who need it",
-   "start": 8394,
-   "end": 8480
+   "fact": "Jamie 讲出 Amrita 的样子后，玫瑰从花心渗出金色、变成日落色。",
+   "anchor": "Jamie looked down and realised the roses were slowly changing colour",
+   "start": 8217,
+   "end": 8285
   },
   {
-   "fact": "被问到是否相信魔法时，Amrita 说不信、早就不信了，暗示过去被这件事伤过。",
-   "anchor": "‘No. I don’t. Not any more.’ That had been ruined for her long ago.",
-   "start": 13708,
-   "end": 13775
+   "fact": "Amrita 追问花的含义，Jamie 慌乱中只说「就是想给你买花」。",
+   "anchor": "He panicked. ‘Can they just mean that I wanted to buy you flowers?’",
+   "start": 11368,
+   "end": 11435
   },
   {
-   "fact": "看恐怖片时她想到的是片中动作造成的损伤与康复训练。",
-   "anchor": "I can’t help thinking of the damage, and the rehab that will be needed.",
-   "start": 19016,
-   "end": 19087
+   "fact": "影院只剩两人，Jamie 把手放在扶手，她迟疑后搭上手指。",
+   "anchor": "he turned his hand over and lay it on the armrest between them",
+   "start": 19351,
+   "end": 19413
   },
   {
-   "fact": "Amrita 闻到魔法烧焦爆米花的味道，Jamie 惊讶于外来者竟能察觉。",
-   "anchor": "That wasn’t how these things were supposed to work. She wasn’t from Hudsbury",
-   "start": 20248,
-   "end": 20324
+   "fact": "回程他想坦白 Hudsbury 的魔法，几次被魔法压住嘴，只能放弃。",
+   "anchor": "Jamie forced back a sigh of disappointment: he’d tried, but it hadn’t worked.",
+   "start": 26324,
+   "end": 26401
   },
   {
-   "fact": "Jamie 试图告诉 Amrita Hudsbury 是「魔法」的，话在脑中起雾，魔法阻止他说出口。",
-   "anchor": "The thought fogged over in his brain as the magic fought him.",
-   "start": 25517,
-   "end": 25578
-  },
-  {
-   "fact": "Jamie 承诺不逼她说出许愿内容，一切按她的节奏。",
-   "anchor": "it’s at your pace",
-   "start": 30444,
-   "end": 30461
-  },
-  {
-   "fact": "Amrita 承认这是她第一次和文化背景不同的人约会，担心对方更强势。",
-   "anchor": "I’ve never dated anyone outside my culture before",
-   "start": 31402,
-   "end": 31451
-  },
-  {
-   "fact": "车里第一次接吻，不写烟花爆炸，写更稳更深的暖意。",
-   "anchor": "There weren’t fireworks or explosions or anything so clichéd",
-   "start": 37398,
-   "end": 37458
+   "fact": "车里他缓慢前倾、留出退路，她主动补上最后距离先吻他。",
+   "anchor": "He leaned forward slowly, giving her plenty of time and space to move back",
+   "start": 36540,
+   "end": 36614
   }
  ]
 }

@@ -69,7 +69,7 @@ modified: "2026-11-07"
 
 **关键词**：Not any more、ruined、long ago、changed the subject
 
-**为什么这样写**：四个词「Not any more」就把她的过去凿开一个洞——读者知道有故事，但作者一个字都不多给。「ruined for her long ago」是叙述者唯一一次替她说话，紧接着她又「changed the subject」，把门关上：她的伤口不给人看。
+**为什么这样写**：三个词「Not any more」就把她的过去凿开一个洞——读者知道有故事，但作者一个字都不多给。「ruined for her long ago」是叙述者唯一一次替她说话，紧接着她又「changed the subject」，把门关上：她的伤口不给人看。
 
 **读者视角提示**：这是全书关于 Amrita 过去的第一枚钉子；后面每一次她遇到无法解释的事，都要回到这句「早就不信了」。
 
@@ -129,7 +129,7 @@ modified: "2026-11-07"
 
 **关键词**：I can wait、when you’re ready、uncomfortable、at your pace
 
-**为什么这样写**：他在最想推进的时刻选择后退，而且退得具体：不是「我尊重你」这种空话，是「我不会做任何让你不舒服的事」这条可执行的界线。三个短句像三条承诺条款，读者信他，因为她刚才说过怕「pushy」。
+**为什么这样写**：他在最想推进的时刻选择后退，而且退得具体：不是「我尊重你」这种空话，是「我不会做任何让你不舒服的事」这条可执行的界线。四个短句像四条承诺条款，读者信他，因为她刚才说过怕「pushy」。
 
 **读者视角提示**：「at your pace」后面会被她自己引用（她后来说「I think I like the very, very right way」）；这句话之所以有效，是因为它没有要求任何回报。
 

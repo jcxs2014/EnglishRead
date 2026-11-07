@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Aiden 挂电话得知婚礼酒店在五月一日已被订走。",
+   "anchor": "Hotel’s already booked for May first.",
+   "start": 105,
+   "end": 142
+  },
+  {
+   "fact": "情人节当天 Jamie 走进花店，被满店红玫瑰与泰迪熊淹没。",
+   "anchor": "He knew it was Valentine’s Day",
+   "start": 4620,
+   "end": 4650
+  },
+  {
+   "fact": "Lily-Ann 对花施 changeling 咒，逐句「劝」玫瑰为 Jamie 改变。",
+   "anchor": "The flowers, obviously. You are beautiful exactly as you are",
+   "start": 7467,
+   "end": 7527
+  },
+  {
+   "fact": "Jamie 讲出 Amrita 的样子后，玫瑰从花心渗出金色、变成日落色。",
+   "anchor": "Jamie looked down and realised the roses were slowly changing colour",
+   "start": 8217,
+   "end": 8285
+  },
+  {
+   "fact": "Amrita 追问花的含义，Jamie 慌乱中只说「就是想给你买花」。",
+   "anchor": "He panicked. ‘Can they just mean that I wanted to buy you flowers?’",
+   "start": 11368,
+   "end": 11435
+  },
+  {
+   "fact": "影院只剩两人，Jamie 把手放在扶手，她迟疑后搭上手指。",
+   "anchor": "he turned his hand over and lay it on the armrest between them",
+   "start": 19351,
+   "end": 19413
+  },
+  {
+   "fact": "回程他想坦白 Hudsbury 的魔法，几次被魔法压住嘴，只能放弃。",
+   "anchor": "Jamie forced back a sigh of disappointment: he’d tried, but it hadn’t worked.",
+   "start": 26324,
+   "end": 26401
+  },
+  {
+   "fact": "车里他缓慢前倾、留出退路，她主动补上最后距离先吻他。",
+   "anchor": "He leaned forward slowly, giving her plenty of time and space to move back",
+   "start": 36540,
+   "end": 36614
+  }
+ ]
+}
