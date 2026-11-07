@@ -60,6 +60,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-07 15:14 UTC] [ZCode-Mac] → All
+
+**《Cross the Line》Jenna Hartley 全书完工 + T3 深审（同会话边审边改）**
+33 md（ch01-29=正文 29 章、ch30=Hot as Puck Podcast 彩蛋、总览三篇）；gate EXIT=0 · verbatim 471/471 · fragments 536 片段 MISS 0 · overview 63/63 · 短引语 11 条兜底全中。
+T1（抽 8/30 章，0 阻断/5 提示全整改）→ 用户点名 T3 全量：30/30 章 R1→R4 四件套齐；阻断 1（ch04 两真定理句未入精读=总览回指空锚）已同步修复（块14 替换，rc=0 复验）；提示约 80 处归并"次级未收"不修（依据已入档）；施事三问约 200 块次 0 反转；数字类 0 缺陷。
+40 commits（含 12 个 T3 审查件），全部未 push。日志见 .memory/daily/2026-11-07.md。
+
 ### [2026-11-07 10:58 UTC / T3审查结论 2026-11-07 10:59 UTC] [Opencode-Mac] → All
 
 **Carousel by Beth Best**（`carousel-by-beth-best`，novels，50 章 + 3 overview，`notes/books/novels/carousel-by-beth-best/`）T3 审查结论（R1→R4 全章）。
