@@ -1,0 +1,55 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch15_epilogue.txt",
+ "facts": [
+  {
+   "fact": "尾声：Amrita 与 Jamie 手牵手溜回谷仓，婚礼已近尾声。",
+   "anchor": "hands tightly clasped",
+   "start": 67,
+   "end": 88
+  },
+  {
+   "fact": "大家等的是 Mia 送给 Aiden 的结婚礼物。",
+   "anchor": "Mia’s wedding present for Aiden",
+   "start": 820,
+   "end": 851
+  },
+  {
+   "fact": "图纸是给 Sylvie 建在 Mia 与 Aiden 花园里的新家。",
+   "anchor": "My new home.",
+   "start": 4465,
+   "end": 4477
+  },
+  {
+   "fact": "Sylvie 说在这里她能更久地保住独立与尊严。",
+   "anchor": "keep independence – and dignity",
+   "start": 4970,
+   "end": 5001
+  },
+  {
+   "fact": "Sylvie 说 Amrita 与 Jamie 一起确保了这一点。",
+   "anchor": "Amrita’s been working with Jamie to make sure of that",
+   "start": 5077,
+   "end": 5130
+  },
+  {
+   "fact": "Sylvie 得意地说自己也撮合了他们。",
+   "anchor": "I helped them get together",
+   "start": 5238,
+   "end": 5264
+  },
+  {
+   "fact": "Jamie 说接下来几个月他会常来 Hudsbury。",
+   "anchor": "spending a lot more time in Hudsbury in the coming months",
+   "start": 6347,
+   "end": 6404
+  },
+  {
+   "fact": "全书收尾自注：还不是结束，只是暂时够用。",
+   "anchor": "(still not) The End",
+   "start": 6688,
+   "end": 6707
+  }
+ ]
+}
