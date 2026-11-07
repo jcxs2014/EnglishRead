@@ -10,7 +10,7 @@ modified: "2026-11-07"
 - **情感弧线位置**：全书起点。两条线同时点火：Sylvie 的「造一间能住到老的家」是全书工程线，Amrita 与 Jamie 的互相误读是感情线的第一道裂缝。
 - **Tropes 兑现/反转**：兑现「一见钟情 + 冤家开局」的言情双件套；反转在视角——读者先看见他被魔法击中的狼狈，再听见她把他判成「傲慢无礼」，同一场握手被读成两件完全不同的事。
 - **人物弧线**：Jamie 从「只接大项目的获奖建筑师」滑向「想给一个老太太造房子」；Amrita 从职业性的温和切换到为病人发火的锋利，露出她「不被系统挡住」的底色。
-- **叙事手法**：四段星号分隔的视角切片（Sylvie 家 → Amrita 反驳 → 一周后办公室 → 电话和解），靠 magic 的生理反应做视角切换的开关；章末用「这绝对是公事」的自我催眠收束。
+- **叙事手法**：六段星号切片（Sylvie 家训练 → 看图纸与初见 → Amrita 视角的反驳 → Jamie 视角的还击 → 她离场 → 一周后办公室与电话），靠 magic 的生理反应做视角切换的开关；章末用「这绝对是公事」的自我催眠收束。
 
 ## 精读
 > **原句 1:** "Just as she’d hoped, Sylvie laughed but carried on with her leg lifts. After five she paused, holding her breath, and Amrita wondered if she might be pushing a bit too hard. Sylvie was one of her best patients: incredibly focussed on results and the improvements she was fighting for, and good-humoured – exactly the attitude that worked best."
@@ -29,7 +29,7 @@ modified: "2026-11-07"
 
 **关键词**：glowered、eventually、degenerative
 
-**为什么这样写**：让病人自己给疾病下定义，比任何旁白都硬。「That’s what degenerative means.」六个词，把「暂时的」这层安慰直接掀掉；glowered 一个动词接住前文那个毒辣的眼神，Sylvie 的脾气不是可爱，是她对抗失控的方式。
+**为什么这样写**：让病人自己给疾病下定义，比任何旁白都硬。「That’s what degenerative means.」四个词，把「暂时的」这层安慰直接掀掉；glowered 一个动词接住前文那个毒辣的眼神，Sylvie 的脾气不是可爱，是她对抗失控的方式。
 
 **读者视角提示**：这一句是全书题眼之一——她要的不是「还能凑合几年」的将就，而是一栋能陪她一起变坏的身体的房子。
 

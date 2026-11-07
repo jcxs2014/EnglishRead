@@ -7,10 +7,10 @@ modified: "2026-11-07"
 
 ## 本章导航
 - **一句话概括**：Aiden 在自家客厅复刻两人初次约会的树林晚餐并补上求婚，两天后小两口在 Glimmers and Sparkles 向 Katie 与 Ophelia 公布婚讯；当天下午一只撞窗的白色喜鹊「死而复生」，成了店里新来的访客，并在章末开口自称 Lunar。
-- **情感弧线位置**：副线甜蜜高点。Mia 与 Aiden 的关系从「三个月」正式摊到朋友面前，同时为后文腾出舞台——新来的鸟把叙事推向 Hudsbury 的主线。
+- **情感弧线位置**：副线甜蜜高点。Mia 与 Aiden 把「交往三个月」的公开说法摊到朋友面前（实际八个月），同时为后文腾出舞台——新来的鸟把叙事推向 Hudsbury 的主线。
 - **Tropes 兑现/反转**：兑现「女方先求婚、男方再补一次正式求婚」的双向告白；反转在 Katie 的反应——所有人以为她要恭喜，她先怀疑 Mia 是被搞大了肚子。
 - **人物弧线**：Mia 从「享受魔法的便利」走向想弄清 resonant 到底意味着什么；Aiden 从被求婚的人变成主动许诺的人；Katie 的护短第一次以喜剧方式亮相。
-- **叙事手法**：三段时间（当晚 / 两天后清晨 / 四小时后）用星号切分，前半全在室内与食物，后半让一声撞窗把 cozy 调子折断；章末以鸟开口的第一人称短句收束。
+- **叙事手法**：四段星号切片（求婚夜 / 两天后清晨公布 / 四小时后撞窗 / 鸟复活并开口），前半全在室内与食物，后半让一声撞窗把 cozy 调子折断；章末以鸟的第一人称短句收束。
 
 ## 精读
 > **原句 1:** "He stepped closer to her, pressing warmly against her back and sending a rush of his magic through her. She wasn’t gifted in her own right but loved that she could reflect and resonate his magic."

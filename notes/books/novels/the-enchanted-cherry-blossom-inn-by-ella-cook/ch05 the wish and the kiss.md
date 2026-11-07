@@ -6,11 +6,11 @@ modified: "2026-11-07"
 # 05. Chapter 5
 
 ## 本章导航
-- **一句话概括**：婚礼场地一间间被划掉，只剩镇上那家挂出售牌的老 inn 还在等人；情人节这天 Jamie 去花店买花，Lily-Ann 让玫瑰为他变成日落色；两人在只有他们两个人的老剧院看恐怖片、在喷泉边许愿，Jamie 两次试着说出「魔法」都被魔法抹掉，最后在她家楼下接了一个「按你的节奏」的吻。
+- **一句话概括**：婚礼场地一间间被划掉，只剩镇上那家挂出售牌的老 inn 还在等人；情人节这天 Jamie 去花店买花，Lily-Ann 让玫瑰为他变成日落色；两人在只有他们两个人的老剧院看恐怖片、在喷泉边许愿，Jamie 试着说出「魔法」却被魔法抹掉，最后在她家楼下的车里接了吻——按她的节奏。
 - **情感弧线位置**：确立关系。场地危机（事业/家庭线）与第一次接吻（感情线）同章推进，两条线在「inn」上汇合——读者已经知道那栋房子将来会是什么。
 - **Tropes 兑现/反转**：兑现「第一次约会 + 第一次接吻」；反转在「她不信魔法」——他越想说真话，她越听不见，而她其实能闻到魔法烧焦的爆米花。
 - **人物弧线**：Jamie 从「只是新朋友」到承认「她不一样」，并第一次把「不施压」当成承诺；Amrita 从「不跨文化约会」的戒心走到主动补上那一寸距离。
-- **叙事手法**：五段切片（厨房 / 花店 / 门口 / 剧院 / 车里），魔法在每一段都差点露馅又被按回去；全章用「等待与节奏」作主旋律，连吻也是她先动。
+- **叙事手法**：六段切片（厨房找场地 / 花店 / 她家门口 / 剧院 / 喷泉与散步 / 车里），魔法在每一段都差点露馅又被按回去；全章用「等待与节奏」作主旋律，连吻也是她先动。
 
 ## 精读
 > **原句 1:** "The town hall wasn’t available, the farm with the converted barn was already booked, and neither of them had liked the pub as a wedding venue. The standing stones monument needed special permissions that were unlikely to be granted at such short notice, and the pretty inn at the edge of town still had for-sale signs hanging beneath the cherry trees and was looking sadder and emptier by the week."

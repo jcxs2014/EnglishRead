@@ -6,11 +6,11 @@ modified: "2026-11-07"
 # 07. Chapter 7
 
 ## 本章导航
-- **一句话概括**：婚礼前一晚的 sangeet，Amrita 独自跳舞、被姨妈盘问「imaginary boyfriend」；Jamie 驱车几百英里赶到，却发现魔法把他的房间订成了下个周末，酒店满房——她把他领进自己房间，他用椅垫在床中间垒了一道屏障；第二天清晨，两人在同一张床上醒来，而她在他的杂物里看见一件眼熟的白丝绸。
+- **一句话概括**：婚礼前一晚的 sangeet，Amrita 独自跳舞、被外婆的姐妹盘问「imaginary boyfriend」；Jamie 驱车几百英里赶到，却发现魔法把他的房间订成了下个周末，酒店满房——她把他领进自己房间，他用椅垫在床中间垒了一道屏障；第二天清晨，两人在同一张床上醒来，而他在她的行李里看见一件眼熟的白丝绸。
 - **情感弧线位置**：第一次「同处一室」。关系从公开约会推进到私人空间，但推进的方式是「照顾」而不是「诱惑」。
 - **Tropes 兑现/反转**：兑现「only one bed」这一经典桥段；反转在解法——不是欲火，是他用椅垫筑墙、她直接说「我是成年人」。经典套路被写成一场关于边界与信任的谈判。
 - **人物弧线**：Amrita 第一次在家人面前承认「I really do」喜欢他，也第一次对男人说出「我总会在不舒服时告诉你」；Jamie 从「等她准备好」走到在她面前露出疲惫与不完美。
-- **叙事手法**：三段切片（sangeet / 酒店大堂与房间 / 清晨），把家族的热闹与两个人的安静并置；「白色丝绸」与「眼睛变色」两个细节在章末留下钩子。
+- **叙事手法**：四段切片（sangeet / 酒店大堂 / 房间里的屏障 / 清晨），把家族的热闹与两个人的安静并置；「白色丝绸」与「眼睛变色」两个细节在章末留下钩子。
 
 ## 精读
 > **原句 1:** "‘It’s a shame you couldn’t make it to the sangeet, but you’ll be here tomorrow. That’s the important day. And we did know tonight was going to need a lot of luck. It just wasn’t in.’"
@@ -31,7 +31,7 @@ modified: "2026-11-07"
 
 **为什么这样写**：Kiran 一句话踩中三颗雷：过去的事、跨种族的顾虑、以及「这个人重要到值得带回家」。她用破折号把话截断，正是家人才有的那种口无遮拦——关心和冒犯在同一句里，读者分不清该笑还是该皱眉。
 
-**读者视角提示**：这是全书第一次正面提到 Amrita 的上一段感情（名字 Suraj 刚被说出来就被她掐断）；「after what happened」这五个字，比任何回忆都重。
+**读者视角提示**：这是全书第一次正面提到 Amrita 的上一段感情（名字 Suraj 刚被说出来就被她掐断）；「after what happened」这三个词，比任何回忆都重。
 
 > **原句 3:** "‘He does. Eventually. But he’s nice about it. Even apologised at first. And he makes me laugh, Kiran. Really laugh. And he has these amazing eyes. They’re sort of grey and blue at the same time and seem to change colour with his mood.’"
 

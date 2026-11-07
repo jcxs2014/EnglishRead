@@ -6,11 +6,11 @@ modified: "2026-11-07"
 # 10. Chapter 10
 
 ## 本章导航
-- **一句话概括**：一个晴朗的周日上午，一名年轻骑手从马上摔在鹅卵石路上，Amrita 跪下去做急救——她不知道自己正在用魔法把生命力送进女孩体内；Rayenne 赶到了，医生 Rissa 问她「能不能维持住你的咒」，随后 Rayenne 望进她眼睛、用几十种语言命令她「放手」，Amrita 昏了过去。醒来时她能听见猫和鸟说话，也终于明白 Jamie 一直在瞒她。
+- **一句话概括**：一个晴朗的周日上午，一名年轻骑手从马上摔在鹅卵石路上，Amrita 跪下去做急救——她不知道自己正在用魔法把生命力送进女孩体内；Rayenne 赶到了，医生 Rissa 问她「能不能维持住你的咒」，随后 Rayenne 望进她眼睛、用上百种语言命令她「放手」，Amrita 昏了过去。醒来时她能听见猫和鸟说话，也终于明白 Jamie 一直在瞒她。
 - **情感弧线位置**：全书转折点。前九章积累的所有「差一点说出口」，在这一章被一次急救强制引爆：她不是被告知，是被「唤醒」。
 - **Tropes 兑现/反转**：兑现「女主角其实是隐藏的强者」；反转在代价——觉醒不是升级，是把她推进一个「所有人都在骗我」的处境。
 - **人物弧线**：Amrita 从「我只是个物理治疗师」变成「我能把力量送进别人身体里」，紧接着从「被爱的人」变成「被排除在外的人」；Jamie 从「想告诉她」变成「已经来不及解释」。
-- **叙事手法**：急救段用短句与命令句制造成生理节奏（Still. Steady. Protect.），觉醒段用第二人称式的命令（Let go.）制造被动感；章末三段极短，把「她走了」写成一次物理性的碎裂。
+- **叙事手法**：三段切片（急救 / 醒来 / 门外），急救段用短句与命令句制造生理节奏（Still. Steady. Protect.），觉醒段用第二人称式的命令（Let go.）制造被动感；章末极短，把「她走了」写成一次物理性的碎裂。
 
 ## 精读
 > **原句 1:** "It was complete and utter clichéd bliss. The sun seemed warmer – and laced with golden light – birds seemed to sing more happily, and the blossom seemed to smell sweeter, lacing the air with delicate fragrance."

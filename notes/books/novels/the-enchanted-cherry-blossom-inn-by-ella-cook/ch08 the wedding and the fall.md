@@ -6,11 +6,11 @@ modified: "2026-11-07"
 # 08. Chapter 8
 
 ## 本章导航
-- **一句话概括**：旁遮普婚礼当天，Jamie 一个人闯进 baraat 的喧闹、被姨妈塞满盘子、被逼着付「新娘价」，看完整场仪式哭得说不出话；夜里她跳舞跳得满场惊叹，回房后他替她拆发针，两人第一次真正在一起，然后互相承认「我好像已经在爱了」。
+- **一句话概括**：旁遮普婚礼当天，Jamie 一个人闯进 baraat 的喧闹、被一位长辈塞满盘子、被逼着付「新娘价」，看完整场仪式哭得说不出话；夜里她跳舞跳得满场惊叹，回房后他替她拆发针，两人第一次真正在一起，然后互相承认「我好像已经在爱了」。
 - **情感弧线位置**：感情线的高点。此前所有「被魔法拖着走」的暧昧，在这一章由他们自己拍板；而他那句「free will still trumped magic」把全书的规则讲清楚。
 - **Tropes 兑现/反转**：兑现「婚礼当天的舞蹈征服全场」「只有一张床的第二夜」；反转在告白时机——不是在婚礼上，是在最私密、最狼狈（拆发针）的时刻。
 - **人物弧线**：Jamie 从「外人」变成被家族接纳的人；Amrita 从「我可能再也不敢脆弱」走到主动说「我想要这个，你」。
-- **叙事手法**：六段切片按婚礼流程推进（baraat / 仪式 / 舞池 / 双人舞 / 拆发 / 告白），喧闹与安静交替；魔法在这一章几乎隐身，只剩下「巧合替他们让路」。
+- **叙事手法**：七段切片按婚礼流程推进（baraat / 仪式 / 婚宴舞池 / 伴娘群舞 / 双人舞 / 拆发 / 告白），喧闹与安静交替；魔法在这一章几乎隐身，只剩下「巧合替他们让路」。
 
 ## 精读
 > **原句 1:** "He looked around, feeling uncomfortably far out of his element, wondering what he was supposed to do. Amrita hadn’t had time to message him much more than an itinerary with a time, location and the mysterious word Baraat. He’d been tempted to look it up but resisted the urge, not wanting to come in with any preconceived ideas."

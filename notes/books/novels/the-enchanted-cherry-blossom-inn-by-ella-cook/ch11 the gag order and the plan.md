@@ -71,7 +71,7 @@ modified: "2026-11-07"
 
 **为什么这样写**：在一个「魔法即身份」的世界里，这句话等于交出自己的天赋。作者让 Aiden 说得毫不悲壮——「Every time」像在报一个日常价格——反而更重：他不是牺牲，他是排序。
 
-**读者视角提示**：这句会被 Jamie 在下一章以另一种方式实践（他愿意放弃天赋）；两位男主角对「魔法 vs 爱人」给出同一个答案，是本书对男性角色最统一的价值设定。
+**读者视角提示**：这句会被 Jamie 在 ch14 以另一种方式实践（他愿意放弃天赋）；两位男主角对「魔法 vs 爱人」给出同一个答案，是本书对男性角色最统一的价值设定。
 
 > **原句 7:** "‘But later, when our friends aren’t in so much pain. When they’ve had time to heal. When your mum is doing better. Maybe next year. And hopefully, by then, we’ll have been able to find our wedding rings and sort everything else.’"
 

@@ -10,7 +10,7 @@ modified: "2026-11-07"
 - **情感弧线位置**：从「工作上合得来」滑到「私下想见面」。两条线并行：婚礼倒计时开始压 Sylvie 的病情，Amrita 与 Jamie 则第一次以朋友的名义吃了顿饭。
 - **Tropes 兑现/反转**：兑现「友情以上、恋人未满」的暧昧料理戏；反转在魔法的自保——他越想说真话，她越听不见，秘密成了他单方面的负担。
 - **人物弧线**：Amrita 第一次主动跨出界线（送还铅笔盒、提出下次再见、在脸颊上落一个吻）；Jamie 第一次意识到「她的意见对我有多重要」。
-- **叙事手法**：五个星号切片（婚礼筹备 / 送还 / 办公室 / 店里 / 厨房与送别），用「时间在这里会滑走」制造暧昧的失重感；魔法在章内两次出手，一次帮她（水公司通知），一次挡她（记忆被抹）。
+- **叙事手法**：六段星号切片（婚礼筹备 / 送还铅笔盒 / 办公室改图 / 店里的隐藏厨房 / 做饭 / 送别），用「时间在这里会滑走」制造暧昧的失重感；魔法在章内两次出手，一次帮她（水公司通知），一次挡她（记忆被抹）。
 
 ## 精读
 > **原句 1:** "‘We’ve been talking about your happy ever after for years. And I’m never doing the big white wedding thing, so you’re going to have to do it for me and let me live vicariously through you. I’m just glad your mum was happy letting me take the lead and isn’t going to be trying to convince you to serve prawn cocktails and vol-au-vents.’"
@@ -39,7 +39,7 @@ modified: "2026-11-07"
 
 **关键词**：Couple of rings、a blessing、dance and celebrate、chief bridesmaid
 
-**为什么这样写**：她把整场婚礼压缩成四个名词短语——戒指、祝福、跳舞的地方——像在清单上划掉多余项。句子越短，价值观越清楚：这场婚礼不需要布景，只需要人。最后「chief bridesmaid and best woman」把 Katie 的双重身份一次说清，是本书对「伴娘」这个位置的重新定义。
+**为什么这样写**：她把整场婚礼压缩成三个名词短语——戒指、祝福、跳舞的地方——像在清单上划掉多余项。句子越短，价值观越清楚：这场婚礼不需要布景，只需要人。最后「chief bridesmaid and best woman」把 Katie 的双重身份一次说清，是本书对「伴娘」这个位置的重新定义。
 
 **读者视角提示**：注意她说「All Aiden and I want」，而不是「我想要的」——这场婚礼从一开始就是两个人的共同决定，这也是后文冲突不会走「谁牺牲」路线的底子。
 

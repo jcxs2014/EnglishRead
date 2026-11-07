@@ -10,7 +10,7 @@ modified: "2026-11-07"
 - **情感弧线位置**：全书的情感落点。副线婚礼完成，主线在同一个花园里完成「和解 + 重新开始」。
 - **Tropes 兑现/反转**：兑现「婚礼上的誓词」「伴郎站台」；反转在告白方式——不是戒指，是一朵樱花和一笔「互相原谅」的交易。
 - **人物弧线**：Jamie 愿意为她放弃天赋，被她拒绝；Amrita 从「我不原谅」走到「我要向你道歉」，并第一次说「我想留在这里，和你」。
-- **叙事手法**：两段切片（仪式 / 树后），前半群像、后半只有两个人；魔法在仪式里是可见的光与绳，在树后是「把音乐送过来」的体贴；章末交回给 Mist 与 Lunar 收尾。
+- **叙事手法**：两段主体加一段尾声（仪式 / 树后 / 动物收尾），前半群像、后半只有两个人；魔法在仪式里是可见的光与绳，在树后是「把音乐送过来」的体贴；章末交回给 Mist 与 Lunar。
 
 ## 精读
 > **原句 1:** "As much as Amrita would have liked to have Jamie sat beside her, there were benefits to him becoming the last-minute best man – like the fact that she was supposed to be looking towards the front, where he now stood next to an increasingly nervous-looking groom."

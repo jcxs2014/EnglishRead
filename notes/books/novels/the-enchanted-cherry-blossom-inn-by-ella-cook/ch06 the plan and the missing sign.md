@@ -10,7 +10,7 @@ modified: "2026-11-07"
 - **情感弧线位置**：全书最「卡」的一章。感情线每次将进就被魔法拨回去，事业/婚礼线则一路崩塌，两条线同时往「只能靠运气」的方向推。
 - **Tropes 兑现/反转**：兑现「命运阻挠恋人」的经典桥段；反转在阻挠者的身份——不是反派，是自以为在帮忙的魔法本身，而且它已经开始动她本人。
 - **人物弧线**：Jamie 第一次对魔法发火、主张「我该有自己的时间线」；Amrita 在 Cousin Kiran 的追问下承认「有个人」，并决定把他带进家族婚礼；Mia 在一切尽失时说出「只要最后是 Mrs Mia Griffiths 就够了」。
-- **叙事手法**：九段切片极短，用短信、电台、时钟、导航这些「现代生活的小故障」当魔法的面具；章末切到 Mist 与 Lunar 的动物对话，第一次让读者听见「计划」这个词。
+- **叙事手法**：十七段极短切片，用短信、电台、时钟、导航这些「现代生活的小故障」当魔法的面具；章末切到 Mist 与 Lunar 的动物对话，第一次让读者听见「计划」这个词。
 
 ## 精读
 > **原句 1:** "Amrita stopped tapping her fingers on the table and checked her phone again: still no message from Jamie and he was fifteen minutes late now. They’d been struggling to get their diaries to line up for nearly two weeks – and now they finally had got the time, he was late."
