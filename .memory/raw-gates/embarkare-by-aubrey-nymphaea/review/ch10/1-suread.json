@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch10",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "章首：钉海报——前夜抵达破败小镇 Avernon",
+   "anchor": "Andra slammed the nail into the wooden post with a flat rock. The afternoon sun was finally on its descent",
+   "start": 29,
+   "end": 135
+  },
+  {
+   "fact": "拍卖场前立誓：阻止暗魔法蔓延后，下一个就来烧掉这黑暗",
+   "anchor": "spreading through her village and across the continent, she would come for this darkness next.",
+   "start": 2012,
+   "end": 2106
+  },
+  {
+   "fact": "铁匠铺四金币卖刀——她听出猎人嗓音，认出他也在镇上",
+   "anchor": "Four gold coins. Final offer.” His voice was smoky and gruff from years working at the fire.",
+   "start": 3726,
+   "end": 3818
+  },
+  {
+   "fact": "Marie 称怪物寄养在镇上友人牧场，Hachar 正备今晚表演",
+   "anchor": "Hachar is with them now, getting them ready for tonight.",
+   "start": 5344,
+   "end": 5400
+  },
+  {
+   "fact": "问 Lucas——Marie 说他还和 Jasper 采购物资；不安加重",
+   "anchor": "Still with Jasper, collecting some last minute supplies.",
+   "start": 5452,
+   "end": 5508
+  },
+  {
+   "fact": "Marie 面具摘下：只是表演还挺赚钱，今晚演完明早走",
+   "anchor": "It’s just an act, dear. A show that brings in a fair amount of coin, I might add.",
+   "start": 5793,
+   "end": 5874
+  },
+  {
+   "fact": "剪子藏进裙层防身，独自溜向斗兽场",
+   "anchor": "Carefully, she pulled them from the bag and hid them amongst her dress’s many layers",
+   "start": 6994,
+   "end": 7078
+  },
+  {
+   "fact": "暗处目睹 Hachar 抽倒钩鞭逼双笼怪物“醒来表演”",
+   "anchor": "Hachar pulled a whip, and Andra squinted to see the sharp barbs attached to the entirety of the thick braided lash.",
+   "start": 10519,
+   "end": 10634
+  },
+  {
+   "fact": "笼中兽金眼盯着她、口鼻沾药粉——她猜出缬草根，兽缓缓眨眼",
+   "anchor": "Andra noted the tan powder around the beast's muzzle before exhaustion forced its head to rest once more.",
+   "start": 13863,
+   "end": 13968
+  },
+  {
+   "fact": "第二只兽推开“该锁着”的笼门无声跃地——它自己救了自己",
+   "anchor": "the cage that was supposed to be locked opened, a giant paw stepping out before the beast silently leaped to the ground.",
+   "start": 15025,
+   "end": 15145
+  },
+  {
+   "fact": "毒电杆围刺跃出之兽直至瘫倒——She had never witnessed anything like it",
+   "anchor": "half a dozen men circled the monster. They held poles of some sort and shouted profanities",
+   "start": 15946,
+   "end": 16036
+  },
+  {
+   "fact": "决赛幕：暗刀扎大兽腿——它“带着悔意扑了上去”",
+   "anchor": "and embedded itself into the thigh of the larger beast. It roared, and with regret etched onto its features, it pounced.",
+   "start": 19704,
+   "end": 19824
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

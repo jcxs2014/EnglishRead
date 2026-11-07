@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch12",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "逃离 Avernon：兄弟说服她骑上“怪物”夜行数小时",
+   "anchor": "They had fled the town immediately after retrieving her things, and somehow the brothers convinced her",
+   "start": 181,
+   "end": 283
+  },
+  {
+   "fact": "生物/怪物之分：生物天生可选择非天生恶；怪物由恶意造",
+   "anchor": "They’re born like the rest of us, with the ability to learn and choose a life they want. They’re not inherently evil.",
+   "start": 1029,
+   "end": 1146
+  },
+  {
+   "fact": "兽种 kitzek：极亲人，忠诚仅次于对彼此",
+   "anchor": "The kitzek are exceptionally affectionate,” he continued, rubbing a hand down the dark fur",
+   "start": 1439,
+   "end": 1529
+  },
+  {
+   "fact": "手语拼名：Q-U-E-N-T-I-N=哑巴哥哥；蓝眼弟弟 Rayner",
+   "anchor": "We’re pleased to meet you, Andra. I’m Rayner.",
+   "start": 5951,
+   "end": 5996
+  },
+  {
+   "fact": "自缝腹伤喝最后一瓶金色镇痛药水——库存见底",
+   "anchor": "Assessing her stock, she realized that was the last of the glorious pain-relieving tonic she had brought with her",
+   "start": 3382,
+   "end": 3495
+  },
+  {
+   "fact": "身世：十岁父母病亡买不起药；数月后村庄遭袭 Quentin 被割舌",
+   "anchor": "Mom and dad both got sick when we were ten, and we didn’t have money for healing tonics.",
+   "start": 7781,
+   "end": 7869
+  },
+  {
+   "fact": "Rayner 抱着流血的双胞胎弟弟——全村无一人幸免",
+   "anchor": "I held my twin brother in my arms outside our cottage as he bled out. It was agony for both of us.",
+   "start": 9014,
+   "end": 9112
+  },
+  {
+   "fact": "神秘光系女人：止血+恢复体力后消失——来历不明",
+   "anchor": "She stopped the bleeding and restored his strength. And then she was gone.",
+   "start": 10270,
+   "end": 10344
+  },
+  {
+   "fact": "南林十六年没见过境内怪物——数周前她的村庄遭袭",
+   "anchor": "The Southern Woods hasn’t seen a monster inside its territory in sixteen years.",
+   "start": 13776,
+   "end": 13855
+  },
+  {
+   "fact": "怪物之“洞”传闻——兄弟打算北上查证",
+   "anchor": "This is going to sound batshit crazy, but there’s been talk of some sort of hole that the monsters are coming from.",
+   "start": 16741,
+   "end": 16856
+  },
+  {
+   "fact": "她交底全部：继承人身份+Vasara 索债+冬至月升期限",
+   "anchor": "If I don’t show up in the Northeastern Shores by moonrise on winter solstice, Vasara will kill someone from my village",
+   "start": 18515,
+   "end": 18633
+  },
+  {
+   "fact": "章末定音：“是的——我们一起找到它并封上”",
+   "anchor": "Yes,” Rayner repeated. “We’ll find the hole and we’ll close it. Together.”",
+   "start": 18912,
+   "end": 18986
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}

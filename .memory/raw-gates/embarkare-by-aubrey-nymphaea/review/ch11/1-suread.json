@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch11",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "决赛中两兽互撕但眼里全是悲哀——它们不想打",
+   "anchor": "Andra couldn’t help but notice the sorrow in their eyes with every collision. They didn’t want this.",
+   "start": 209,
+   "end": 309
+  },
+  {
+   "fact": "上层连环爆炸掀她撞柱；绳索垂降两名蒙面人",
+   "anchor": "explosion after explosion ignited around the upper level of the structure, and Andra was knocked headfirst into a pillar.",
+   "start": 905,
+   "end": 1026
+  },
+  {
+   "fact": "蒙面人四十尺落地稳如排练；抬手近兽示非攻击",
+   "anchor": "two men propelled quickly down the ropes, landing gracefully in the dirt as if they hadn’t just fallen forty feet.",
+   "start": 1406,
+   "end": 1520
+  },
+  {
+   "fact": "她被裙摆绊倒——地裂魔法被蓝眼蒙面人看在眼里",
+   "anchor": "One of the men turned just as Andra tripped over her skirts at least twenty feet away.",
+   "start": 2109,
+   "end": 2195
+  },
+  {
+   "fact": "Jasper 捂嘴把她拖回帷幔后——掼进暗巷拧脱肩关节捆手",
+   "anchor": "Andra tried to scream but Jasper wrapped a hand around her mouth and hauled her back behind the tapestry.",
+   "start": 3997,
+   "end": 4102
+  },
+  {
+   "fact": "恨意账单：被羞辱/孤立/转而敌视——“女人该知道自己的位置”",
+   "anchor": "Humiliated me.” He slammed her head against the wall. “Ostracized me. Turned them against me.",
+   "start": 5033,
+   "end": 5126
+  },
+  {
+   "fact": "供出：与 Hachar 计划蜂蜜酒下药明早拍卖她——“我自己了结你”",
+   "anchor": "Hachar and I had plans to slip something into your mead and auction you off in the morning.",
+   "start": 6007,
+   "end": 6098
+  },
+  {
+   "fact": "刀割腹部渗血+手伸向大腿——她被布堵嘴无力反抗",
+   "anchor": "The blade dug into Andra’s skin just enough for a drop of blood to trail down her abdomen, and Jasper laughed",
+   "start": 7490,
+   "end": 7599
+  },
+  {
+   "fact": "两兽扑咬 Jasper 至无法辨认——她不敢看又渴望看",
+   "anchor": "She watched until Jasper’s body was nothing more than an unidentifiable bloody mess in a deserted alleyway.",
+   "start": 9902,
+   "end": 10009
+  },
+  {
+   "fact": "哑巴哥哥手语交流——蓝眼弟弟口译；“有人得救它们”",
+   "anchor": "His mouth remained closed, but his hands rapidly formed various shapes and movements in the space between them",
+   "start": 12102,
+   "end": 12212
+  },
+  {
+   "fact": "人群中 Lucas 救伤——她望着他决定撒谎“没看到他”",
+   "anchor": "Lucas rushed between the fallen, offering aid or advice when he could, before moving on to the next.",
+   "start": 13743,
+   "end": 13843
+  },
+  {
+   "fact": "蓝眼男说去北边客栈=Traveler's Inn——她抢在勇气漏光前问“能跟你们走吗”",
+   "anchor": "Her thoughts raced, and she acted before she lost the courage. “Can I come with you?",
+   "start": 14673,
+   "end": 14757
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
