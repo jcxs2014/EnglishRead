@@ -1,0 +1,67 @@
+{
+ "book": "the-enchanted-cherry-blossom-inn-by-ella-cook",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-enchanted-cherry-blossom-inn-by-ella-cook/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "新来的 Elara 告诉 Aiden，她刚签下买下 inn 的最终合同，打算重开。",
+   "anchor": "I just signed the final contracts to buy the inn",
+   "start": 2644,
+   "end": 2692
+  },
+  {
+   "fact": "Elara 说长期计划是把 inn 改造成提供瑜伽与辅助疗法的养生度假地。",
+   "anchor": "my plan is to turn it into a wellness retreat",
+   "start": 3059,
+   "end": 3104
+  },
+  {
+   "fact": "Elara 把重开派对定在这个周末，因为那时樱花最好。",
+   "anchor": "that’s when the cherry blossoms will be at their best",
+   "start": 5504,
+   "end": 5557
+  },
+  {
+   "fact": "Jamie 说 inn 空置多年像蒙着裹尸布沉睡，现在正在醒来。",
+   "anchor": "it was like it was asleep under a shroud – but now it’s waking up again",
+   "start": 14690,
+   "end": 14761
+  },
+  {
+   "fact": "Katie 讲 Jamie 小时候放学迷路、打电话说街道在他周围重排的故事，话被 Jamie 打断。",
+   "anchor": "the streets were reordering themselves around him",
+   "start": 24056,
+   "end": 24105
+  },
+  {
+   "fact": "饭桌上大家突然沉默，Amrita 察觉自己错过了某件事却不知道是什么。",
+   "anchor": "It was clear to Amrita that she’d missed something",
+   "start": 24831,
+   "end": 24881
+  },
+  {
+   "fact": "Amrita 说 Lily-Ann 做的花束维持了三周还很好看。",
+   "anchor": "they looked amazing for at least three weeks",
+   "start": 19064,
+   "end": 19108
+  },
+  {
+   "fact": "Jamie 看着 Amrita 与 Mia、Katie 说笑，认定她也已经是家人。",
+   "anchor": "she was family too",
+   "start": 30976,
+   "end": 30994
+  },
+  {
+   "fact": "Jamie 想必须找到办法让魔法允许他把真相告诉 Amrita。",
+   "anchor": "He’d have to find a way to make the magic let him tell her",
+   "start": 31261,
+   "end": 31319
+  },
+  {
+   "fact": "Amrita 发现 Jamie 在衣柜与抽屉里给她腾出空间，问他是不是在「给她一个抽屉」。",
+   "anchor": "are you giving me a drawer",
+   "start": 44362,
+   "end": 44388
+  }
+ ]
+}
