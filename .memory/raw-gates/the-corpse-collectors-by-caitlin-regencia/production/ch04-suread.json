@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch04_hearts_are_complicated_things.txt",
+ "facts": [
+  {
+   "fact": "房子被Vix用藤蔓翻得整齐",
+   "anchor": "Every single thing in her and Elora’s home had been carefully turned upside down.",
+   "start": 3183,
+   "end": 3264
+  },
+  {
+   "fact": "Elora在Tannenfell乐不思蜀",
+   "anchor": "Tannenfell is everything we’d ever hoped it would be.",
+   "start": 5842,
+   "end": 5895
+  },
+  {
+   "fact": "Tannenfell笼罩在一层恐惧里",
+   "anchor": "Even though things are wonderful, there is definitely a cloud of fear that hangs over the vampires.",
+   "start": 8615,
+   "end": 8714
+  },
+  {
+   "fact": "Taznel失踪了",
+   "anchor": "It’s true what Shella said. Every so often, someone does disappear. One just in the time I’ve been here. A woman named Taznel.",
+   "start": 8978,
+   "end": 9104
+  },
+  {
+   "fact": "Taznel的尸体找到了",
+   "anchor": "Speaking of bringing them down, they found that woman’s body yesterday. Taznel.",
+   "start": 19346,
+   "end": 19425
+  },
+  {
+   "fact": "边界已关闭，Elora回不来了",
+   "anchor": "They—they closed the borders. They can’t come home.",
+   "start": 27311,
+   "end": 27362
+  },
+  {
+   "fact": "Dallin的母亲也失踪了",
+   "anchor": "Dallin’s mother has gone missing.",
+   "start": 27394,
+   "end": 27427
+  },
+  {
+   "fact": "Vix说知道凶手是谁",
+   "anchor": "“I think I know who did it.”",
+   "start": 27518,
+   "end": 27546
+  }
+ ]
+}
