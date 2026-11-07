@@ -101,7 +101,7 @@ modified: "2026-11-07"
 | forgotten | 被遗忘的 | The walls, the shallow cubbies meant for coffins, chandeliers, and sconces long forgotten, all created from bones. |
 | mothballs | 樟脑 | The stale air carried the musk of mothballs and decay. |
 | screamed | 尖叫 | Alliera screamed, sprinting toward the pair as the vampire propelled Vix into one of the pools of blood, holding him under by the throat while taking in a mouthful and swallowing greedily. |
-| suppress | 压抑 | Alliera covered her mouth with her hands, stifling a gasp. |
+| stifling | 压住 | Alliera covered her mouth with her hands, stifling a gasp. |
 | rend | 撕裂 | and used her magic to rend it apart. |
 
 ### ⭐⭐ 进阶
