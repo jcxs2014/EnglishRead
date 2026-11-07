@@ -46,7 +46,7 @@ modified: "2026-11-06"
 
 **中文理解**：他的手叠加在记忆里祭司深色手指的轨迹上——一颗意图的彗星划过空气。三线成三角，指尖轻弹补上增效符文。做梦的人在梦里上过课，醒来交出作业。
 **关键词**：superimposed / radicals
-**为什么这样写**：学习写成「叠印」——superimposed 让千年前的课堂与眼前战场共用一层胶片；「comet of intention」把法术的原料命名为意图，与第三章的「意图咒」暗合。
+**为什么这样写**：学习写成「叠印」——superimposed 让千年前的课堂与眼前战场共用一层胶片；「comet of intention」把法术的原料命名为意图，与第十四章的「意图咒」暗合。
 **读者视角提示**：他梦见的祭司是谁、在造什么门——本章施法的成功让那个梦从背景变成地图。
 
 > **原句 6:** "There was an echo coming off Rian that made the bone cuff hum—the quintessence that Phos had transferred to him. Julian sketched the sigil again, the lines glowing crimson, and then grabbed Rian’s hand with his black-veined one."
