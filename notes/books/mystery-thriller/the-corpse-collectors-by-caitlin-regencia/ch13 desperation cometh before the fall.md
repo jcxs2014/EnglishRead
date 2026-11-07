@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：组织成员戒断反应逼近，Kastral宣布明天猎捕，Vix在河边争论中被说服同意明天跟Alliera去Tannenfell；Dallin在地图上标出Haunt’s Meadow墓园是刑场，让他们替换死者尸体；Dallin当场割掌喂血，让Vix在出发前止瘾
 - **情感弧线位置**：前半戒断时的机会主义与争夺感，河边小争吵之后收敛到冷静，血喂下去后恢复安静，结尾是“不再需要”的警告
 - **线索结构**：戒断 → Vix提议绑Dallin → 自荐猎捕 → 河边吵架 → Haunt’s Meadow → 血喂 → 出发前夜
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从戒断焦虑到谋划替换；Vix矛盾但开口请战；Dallin从被怀疑到递血止瘾
 - **叙事手法**：第三人称限知跟随Alliera；台词密度高（河边辩论）
 
 ## 精读
@@ -67,17 +67,17 @@ modified: "2026-11-07"
 **为什么这样写**：作者让他把决定权还给她，责任和恐惧一并归她。
 **读者视角提示**：这话里并没有独霸，是他承认错后接上的信句。
 
-> **原句 10:** "Not only the dead reside at Haunt’s Meadow. It is a graveyard, yes, but it is also a torture field."
-**中文理解**：Dallin画圈说这不只是墓园，更是刑场，里面住的不是好人。
-**关键词**：dead reside, graveyard, torture field
-**为什么这样写**：作者用“也”把刑场立住，狩猎目标的合法性这一笔钉住。
-**读者视角提示**：这片地就是偷尸分赃的交换点。
-
-> **原句 11:** "It is not the easiest to get to, but the Guard will be few and far between once you’re inside the gates."
+> **原句 10:** "It is not the easiest to get to, but the Guard will be few and far between once you’re inside the gates."
 **中文理解**：他又说这地不好走，但进门后卫兵两周一轮，守不住人。
 **关键词**：not the easiest, few and far between
 **为什么这样写**：作者把地理和守卫节奏并排，狩猎的便利在数字上收拢。
 **读者视角提示**：这一句是全环地图的口令。
+
+> **原句 11:** "Not only the dead reside at Haunt’s Meadow. It is a graveyard, yes, but it is also a torture field."
+**中文理解**：Dallin画圈说这不只是墓园，更是刑场，里面住的不是好人。
+**关键词**：dead reside, graveyard, torture field
+**为什么这样写**：作者用“也”把刑场立住，狩猎目标的合法性这一笔钉住。
+**读者视角提示**：这片地就是偷尸分赃的交换点。
 
 > **原句 12:** "Sliced a deep line across his palm."
 **中文理解**：Dallin蹲下在手掌切了一刀。

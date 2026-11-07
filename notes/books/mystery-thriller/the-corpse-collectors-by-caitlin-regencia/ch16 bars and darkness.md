@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：Alliera与Vix的尸体被三卫兵押进地牢，将军Zordar开价十二时辰要组织成员，否则杀Alliera抛河并焚林；Alliera亮明间谍身份求自证，卫兵不信，Neylina与Keiling听她诉说与Dallin的关系后默然离去
 - **情感弧线位置**：前半是押解的耻辱与恐惧，中间是审问与开价，结尾是私下表白与出乎意料的离去
 - **线索结构**：押解进牢 → 将军开价 → Alliera亮身份未果 → 卫兵私谈 → 默然离去
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从押解耻辱到表白Dallin；Vix只剩一具被扛走的尸体
 - **叙事手法**：第三人称限知跟随Alliera；台词密度高（Neylina/Keiling摩擦）
 
 ## 精读
@@ -49,17 +49,17 @@ modified: "2026-11-07"
 **为什么这样写**：作者让她的喊声只有这一句，理由干净。
 **读者视角提示**：可卫兵确有权力做。
 
-> **原句 7:** "If they do not, we will kill you and dump your body in the river for the beasts."
-**中文理解**：将军说十二时辰不见交人，就杀了你抛河喂兽。
-**关键词**：kill you, dump your body in the river for the beasts
-**为什么这样写**：作者用开价把局势直线推到死，读者一下喘不过气。
-**读者视角提示**：开价是将军的话，他说的话信守无疑。
-
-> **原句 8:** "We are sending his body back to Mindanforth."
+> **原句 7:** "We are sending his body back to Mindanforth."
 **中文理解**：将军说Vix的尸体送回了。
 **关键词**：sending his body back to Mindanforth
 **为什么这样写**：作者用“送回”二字把Alliera留在地牢的消息稳稳压住。
 **读者视角提示**：尸体送回的同时Dallin知道了一半。
+
+> **原句 8:** "If they do not, we will kill you and dump your body in the river for the beasts."
+**中文理解**：将军说十二时辰不见交人，就杀了你抛河喂兽。
+**关键词**：kill you, dump your body in the river for the beasts
+**为什么这样写**：作者用开价把局势直线推到死，读者一下喘不过气。
+**读者视角提示**：开价是将军的话，他说的话信守无疑。
 
 > **原句 9:** "I can tell you who they are and where to find them. I can help you. I have been helping you. We’re spies in the Order."
 **中文理解**：她求证：组织的人我给你们指认，地点我帮你们写下来，我们是卧底。

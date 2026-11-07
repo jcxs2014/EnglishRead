@@ -6,10 +6,10 @@ modified: "2026-11-07"
 # 22. Chapter Twenty-Two
 
 ## 本章导航
-- **一句话概括**：Alliera和Dallin在月夜的旧家门前久站，进去收拾行李，把Elora的发簪、长发、围巾都装进那只旧地毯包；她在Elora床边痛哭，Dallin在旁边安静装箱，最后两人关门向码头，登船离别
+- **一句话概括**：Alliera和Dallin在月夜的旧家门前久站，进去收拾行李，把Elora的深红长裙、月长石发簪、节日纱巾都装进那只旧地毯包；她在Elora床边痛哭，Dallin在旁边安静装箱，最后两人关门向码头，登船离别
 - **情感弧线位置**：前半是面对旧家的迟滞，中段是哭泣与装箱，结尾关门决绝
 - **线索结构**：门前久站 → 开门 → 壳+毯 → Elora的遗物 → 关门上船
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从迟滞到关门登船；Dallin从沉默装箱到贴肩相守
 - **叙事手法**：第三人称限知跟随Alliera；月光与门声落墨
 
 ## 精读
@@ -22,7 +22,7 @@ modified: "2026-11-07"
 > **原句 2:** "She guessed that was what happened when your gardener up and died."
 **中文理解**：她数着草说大概是园丁死了，才长成这样。
 **关键词**：guessed, gardener up and died
-**为什么这样写**：作者用一句轻轻带过，园丁是不可说破的Vix。
+**为什么这样写**：作者用一句轻轻带过，园丁是谁原文未说，房子已无人打理。
 **读者视角提示**：这一句把“草生”接到了生死上。
 
 > **原句 3:** "Dallin strayed ahead of her, pulling her pretty carpet bag out from under the bed. The one she and Elora bought for when they finally got to go to Tannenfell. Together."

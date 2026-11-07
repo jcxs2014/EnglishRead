@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：Elora紫水晶破窗打Kastral，六卫兵迎战组织，决战打响后洞顶塌陷、Dallin罩住Alliera，战后Elora被砸中重伤不治，Alliera灌力图救，把最后一份血罐塞给国王喂Dallin
 - **情感弧线位置**：前半决战，塌顶转抒情，后半重伤与无力，结尾质问战争代价
 - **线索结构**：破窗打Kastral → 六卫兵迎战 → 塌顶与罩护 → 战胜 → Elora重伤 → 无法复生 → 血罐给Dallin → 担架夜怅
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从决战互护到重伤无效、Elora身故；Dallin从罩护到被喂血续命
 - **叙事手法**：第三人称限知跟随Alliera；决战场面快剪
 
 ## 精读
@@ -49,35 +49,35 @@ modified: "2026-11-07"
 **为什么这样写**：作者用短句把胜负说清楚，热闹一下收束干脆。
 **读者视角提示**：“赢了”两个字下文立刻被重伤置换。
 
-> **原句 7:** "Blood pooled from deep lacerations she’d received regardless of her attempt to protect herself, matting her golden hair that draped across her beautiful, ashen face."
+> **原句 7:** "His dark spiderweb of veins had materialized as the King spoke and were growing darker with each passing moment."
+**中文理解**：国王说着话，他眼角的蜘蛛网纹路黑了起来，黑得越来越深。
+**关键词**：spiderweb of veins, darker with each passing moment
+**为什么这样写**：作者用“赢了”与“鲨鱼”并排，读者心会慢半拍。
+**读者视角提示**：这里说必不可少也要留意。
+
+> **原句 8:** "Blood pooled from deep lacerations she’d received regardless of her attempt to protect herself, matting her golden hair that draped across her beautiful, ashen face."
 **中文理解**：Elora的深伤口往下淌血，金发被血染成暗红。
 **关键词**：Blood pooled, deep lacerations, matting her golden hair
 **为什么这样写**：作者用金发与血把重伤写实，伤口的形状在读者眼前显形。
 **读者视角提示**：之后Alliera会把全身力气都押在她身上。
 
-> **原句 8:** "You cannot raise the dead, my dear. You know that."
+> **原句 9:** "You cannot raise the dead, my dear. You know that."
 **中文理解**：Shella把她拽回来：不能把死人救活，你知道。
 **关键词**：cannot raise the dead
 **为什么这样写**：作者用一句律令收住她灌力，读者心里也急盼有米下锅。
 **读者视角提示**：她的不认命把她烧送回了担架。
 
-> **原句 9:** "Trust me when I tell you I understand your pain. And trust me when I tell you there will be time to fall apart and mourn this loss."
+> **原句 10:** "Trust me when I tell you I understand your pain. And trust me when I tell you there will be time to fall apart and mourn this loss."
 **中文理解**：国王说：听我的，痛我懂，还有时间崩溃，你要强。
 **关键词**：Trust me, understand your pain, fall apart
 **为什么这样写**：作者让国王把“时间”这个词先给她，痛有路。
 **读者视角提示**：这话是他把她喊回生前说的。
 
-> **原句 10:** "She sniffled, watching as the King walked over and tipped the canteen of Elora’s blood against Dallin’s lips, encouraging him to drink and stay awake."
+> **原句 11:** "She sniffled, watching as the King walked over and tipped the canteen of Elora’s blood against Dallin’s lips, encouraging him to drink and stay awake."
 **中文理解**：她把Elora的血罐递给国王，国王慢慢把血倒进Dallin的嘴。
 **关键词**：tipped the canteen, against Dallin’s lips, drink and stay awake
 **为什么这样写**：作者用“摆垫子”写安静的动作感，虚像里是为亲人把血接力。
 **读者视角提示**：最后一捧血给了Dallin。
-
-> **原句 11:** "His dark spiderweb of veins had materialized as the King spoke and were growing darker with each passing moment."
-**中文理解**：国王说着话，他眼角的蜘蛛网纹路黑了起来，黑得越来越深。
-**关键词**：spiderweb of veins, darker with each passing moment
-**为什么这样写**：作者用“赢了”与“鲨鱼”并排，读者心会慢半拍。
-**读者视角提示**：这里说必不可少也要留意。
 
 > **原句 12:** "They won the war, saved the vampires and her people."
 **中文理解**：他们赢了战争，救了吸血鬼和她的同类。

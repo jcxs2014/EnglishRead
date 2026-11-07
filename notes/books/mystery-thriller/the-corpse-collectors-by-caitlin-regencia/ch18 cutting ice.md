@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：议会争焚林，Natari遣散主战派；Alliera在战厅画好隧道与名单后潜入花园隧道，撞见满身是血的Elora，Elora说已杀Sol、Kastral扣Dallin在圣所下，自己去尖叫引兵；Shella带Alliera回Mindanforth找路，回到圣所她循线入 chamber 看见Dallin悬在冰笼里被割肉，似乎已在吃晚餐
 - **情感弧线位置**：前半议会逼宫的公开战，中段隧道重逢的暖，后半的最后一页血淋淋地压下来
 - **线索结构**：议会焚林 → Dallin的身份 → 潜行隧道 → Elora满身血 → Kastral扣人 → 尖叫引兵 → Shella回返 → 地下 chamber
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从战厅潜行到圣所下冰笼救人；Elora从满身是血到尖叫引兵
 - **叙事手法**：第三人称限知跟随Alliera；台词密度高（Natari呵斥）
 
 ## 精读

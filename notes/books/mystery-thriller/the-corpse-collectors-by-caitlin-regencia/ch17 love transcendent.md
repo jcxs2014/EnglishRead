@@ -9,7 +9,7 @@ modified: "2026-11-07"
 - **一句话概括**：Alliera在地牢里枯燥数砖，Tryphena深夜来访，说Keiling问她私事、她要救人；国王Natari归来开牢，未见Dallin与Elora，官方说Elora绝望逃山、Dallin追她，Alliera坚持是组织抓人，答应国王提供情报后承诺救人
 - **情感弧线位置**：前半地牢里的等待与暗访，后半得释与新困局，结尾承诺把希望落在她手里
 - **线索结构**：枯燥与数砖 → Tryphena深夜访 → 国王归来开牢 → Dallin与Elora失踪 → 坚持绑架 → 承诺救人
-- **人物弧线**：Alliera从心碎到做脏事再到重逢；Vix分工干净
+人物弧线：Alliera从地牢等待得释、听闻Dallin与Elora失踪；Vix已死，本章没有重逢
 - **叙事手法**：第三人称限知跟随Alliera；暗访台词
 
 ## 精读
