@@ -46,7 +46,7 @@ modified: "2026-11-06"
 
 **中文理解**：她张大嘴，第三只眼眯开一条缝；火自横膈膜腾起，灼热而酸烈，把武士裹进一道烈焰旋风。
 **关键词**：acidic / cyclone
-**为什么这样写**：吐火写成消化道总动员——diaphragm、acidic 全是体内词，神力从内脏出发；第三只眼「眯开一条缝」的克制，与上一章「差点开满」形成剂量对比：她在学用量。
+**为什么这样写**：吐火写成消化道总动员——diaphragm、acidic 全是体内词，神力从内脏出发；第三只眼「眯开一条缝」的克制，与第四章「半开即收」形成剂量对比：她在学用量。
 **读者视角提示**：对照第四章她差点淹掉小镇——同样是开眼，这次火只烧该烧的人。成长不写在旁白里，写在阀门上。
 
 > **原句 6:** "Cosima swallowed. Then she wrapped her other hand around Angelica’s neck and kissed her hard, more teeth than lip, more pain than pleasure, more prayer than curse."

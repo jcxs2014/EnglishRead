@@ -1,0 +1,67 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch10_x.txt",
+ "facts": [
+  {
+   "fact": "春分黎明：Angelica 把玩黑曜石匕首（ desperation 魔法+Mount Netsai/前 Deia 锻炉所造）；Cosima 睡在身旁。",
+   "anchor": "Angelica turned her obsidian dagger over in her hands",
+   "start": 15,
+   "end": 68
+  },
+  {
+   "fact": "剧痛袭来——Yvri 远程示警「Something is wrong」；她断定「It's another attack. Bigger」；小提琴留在房里（不肯退回 conduit）。",
+   "anchor": "Something is wrong.",
+   "start": 850,
+   "end": 869
+  },
+  {
+   "fact": "全宅望天：一只巨大不眨之眼悬空（白眼球+淡晶环虹膜）；Cosima 爆粗「Thana’s piss-stained grave」。",
+   "anchor": "A large, unblinking eye hung above them",
+   "start": 2181,
+   "end": 2220
+  },
+  {
+   "fact": "Julian 被卫兵放进（背长弓、eyeshine 泛绿——Nikolas 曾说「They used to be darker」）：「It didn't start out as an eye. There was a Conjuration circle burned into the sun.」",
+   "anchor": "There was a Conjuration circle burned into the sun.",
+   "start": 3219,
+   "end": 3270
+  },
+  {
+   "fact": "金泪坠落：眼睑沿涌出液光凝成 aureate tear——半空裂成数十小泪、如血点猩红洒向全城；一滴砸中 Mardova 草坪。",
+   "anchor": "It split apart midair, forming dozens of smaller tears",
+   "start": 3691,
+   "end": 3745
+  },
+  {
+   "fact": "翼战士登场：金 ichor 池中站出白发尖耳的 Solarian（胸口烙金灰符号、生真翼非 Lumin 光翼）——「On behalf of Almighty Lord Phos...we come to beget light to these dark lands」+双头斧。",
+   "anchor": "we come to beget light to these dark lands.",
+   "start": 4952,
+   "end": 4995
+  },
+  {
+   "fact": "空战：战士抓起 Angelica 升空越过 Gravespire 顶——「Almighty Phos has entrusted me to deliver your fate」；Julian 一箭中其左肩（蚊叮级）；她第三眼 squint open 喷酸火挣脱、坠落中唱三音开门落上 Yvri 背。",
+   "anchor": "“Child of the Earth-Witch,”",
+   "start": 5779,
+   "end": 5806
+  },
+  {
+   "fact": "终结：Yvri 蛇形拧身一口把战士咬成两半（尸块落街）；Yvri 吐一句「Sending minions with only a fraction of his strength. Pathetic.」——全城至少还有十二个翼战士，部分 Solarians 降到 Deia 圣殿。",
+   "anchor": "Sending minions with only a fraction of his strength.",
+   "start": 7289,
+   "end": 7342
+  },
+  {
+   "fact": "Adela 亲征：元素环绕身（火水土风腰带交叉）——吻额「Be safe, Angel. All of you.」；Angelica 透露「Some are at the basilica. They may be trying to destroy the portal」。",
+   "anchor": "“I’ll see to them.”",
+   "start": 9621,
+   "end": 9640
+  },
+  {
+   "fact": "离别：Cosima/Eiko 请战被拒（护家）；Cosima 按颈硬吻——「more teeth than lip, more pain than pleasure, more prayer than curse」；Eiko 拥抱「Don’t die. You can't」——呼应 Azuna 乡野那句「I don't want to lose anyone else」。",
+   "anchor": "more prayer than curse.",
+   "start": 10618,
+   "end": 10641
+  }
+ ]
+}
