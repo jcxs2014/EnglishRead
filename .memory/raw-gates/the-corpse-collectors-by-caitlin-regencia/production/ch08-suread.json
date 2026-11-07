@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch08_new_worlds.txt",
+ "facts": [
+  {
+   "fact": "直通隧道不会迷路",
+   "anchor": "It’s a tunnel. Even you, my dearest Era, are not talented enough to get lost going in a straight line.",
+   "start": 659,
+   "end": 761
+  },
+  {
+   "fact": "领路人可转身行凶",
+   "anchor": "The man leading them could drop his bag, turn, and murder them both before she had time to react.",
+   "start": 1239,
+   "end": 1336
+  },
+  {
+   "fact": "组织会掩盖罪行",
+   "anchor": "There’d be a cover-up, certainly.",
+   "start": 1472,
+   "end": 1505
+  },
+  {
+   "fact": "水下世界美丽",
+   "anchor": "What a beautiful little world.",
+   "start": 5644,
+   "end": 5674
+  },
+  {
+   "fact": "水泡车八小时到城",
+   "anchor": "Should take about eight hours now to reach the city. Rest while you can.",
+   "start": 6768,
+   "end": 6840
+  },
+  {
+   "fact": "领路人是渔夫Sol",
+   "anchor": "Solimin Cresta. A fisherman.",
+   "start": 10042,
+   "end": 10070
+  },
+  {
+   "fact": "明天去宫殿留尸体给皇家卫兵",
+   "anchor": "We’re going to the palace tomorrow. We’ll leave the Royal Guards something special to find when they wake.",
+   "start": 13209,
+   "end": 13315
+  },
+  {
+   "fact": "地下住处桌上有Tannenfell地图",
+   "anchor": "maps of Tannenfell laid in the middle.",
+   "start": 15051,
+   "end": 15089
+  }
+ ]
+}
