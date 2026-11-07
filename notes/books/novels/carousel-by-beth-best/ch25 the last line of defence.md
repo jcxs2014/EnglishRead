@@ -58,7 +58,7 @@ modified: "2026-11-06"
 
 > **原句 8:** "The word flies out of my mouth before I can think properly about the million reasons that saying it would be a bad idea."
 **中文理解**：那个词从我嘴里飞出去，我来不及想清楚，说出它会带来一百万个糟糕的理由。
-**关键词**：flies out of my mouth / before I can think / a million reasons / a bad idea
+**关键词**：flies out of my mouth / before I can think / The word flies out / a bad idea
 **为什么这样写**：章节停在脱口而出的瞬间，把理智与血缘的冲撞压到最紧；她知道危险，却还是先认出了那个人。
 **读者视角提示**：读者会屏住呼吸：无线电另一端的“母亲”，究竟是来救她，还是来把她带回更深的牢笼？
 

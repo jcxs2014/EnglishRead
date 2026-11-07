@@ -28,7 +28,7 @@ modified: "2026-11-06"
 
 > **原句 3:** "“I’ll get us through this. I’ll take us straight to Vikemy Village. Back to our families.”"
 **中文理解**：“我会带我们渡过这场危机。我会直接带我们去维克米村。回到我们的家人身边。”
-**关键词**：get us through / take us straight / back to our families
+**关键词**：get us through / take us straight / Back to our families.”
 **为什么这样写**：科斯默用“回家”这个最朴素的愿望安抚阿拉，恰恰在船即将成为坟墓的时候显得格外脆弱。
 **读者视角提示**：读者会知道这场逃离注定失败，却仍然能感受到科斯默此刻发自内心的希望。
 
@@ -47,7 +47,7 @@ modified: "2026-11-06"
 
 > **原句 6:** "“When I was your age, I moved into the Palace to provide guidance to the royal family, through my cards. Though my magic usually only allows me to see the near future, I had a premonition of the more distant future while the Queen herself was young. She would birth a powerful ruler. A son, who would have magic unlike anything in the known world. But he would become a cruel king and would bring upon destruction to his country and bloodline – and thus, his reign would mean the end of magic. That was the first fortune. The Card of The Tyrant.”"
 **中文理解**：“我和你一般大的时候，就搬进王宫，用卡牌为王室提供指引。虽然我的魔法通常只能预见不远的未来，但在王后还年轻的时候，我曾预见到更遥远的未来。她将生下一个强大的统治者。一个儿子，他的魔力将前所未有。但他会成为残暴的国王，给自己的国家和血脉带来毁灭——他的统治将意味着魔法的终结。那就是第一则预言。暴君之牌。”
-**关键词**：the first fortune / the Card of The Tyrant / end of magic
+**关键词**：the first fortune / A son, who would have magic unlike anything in the known world. / end of magic
 **为什么这样写**：用历史叙述的语气讲述最残酷的设计，制造出一种冰冷的距离感。旧母亲像在复述课本一样讲述自己参与的阴谋。
 **读者视角提示**：读者会为王室为避免“宿命”而采取的手段感到毛骨悚然：他们不是去教化未来的国王，而是去“驯服”他，甚至去塑造一个“制衡者”。
 
@@ -65,7 +65,7 @@ modified: "2026-11-06"
 
 > **原句 9:** "“In that future, the tyrant was you, my dear. The darkness that was his had spilled into you, and you were more monstrous, even, than he. The result for Rhavna was rather the same as in the first future.”"
 **中文理解**：“在那个未来里，暴君是你，我的孩子。属于他的黑暗已经蔓延到你身上，你比他还要可怕。拉夫纳的结局也和第一则预言差不多。”
-**关键词**：the tyrant was you / the darkness that was his had spilled into you / more monstrous
+**关键词**：the tyrant was you / “In that future, the tyrant was you, my dear. / more monstrous
 **为什么这样写**：最关键的揭露用最平静的语气说出。阿拉一直害怕德雷克的黑暗，没想到预言中最大的危险是她自己会被黑暗吞噬。
 **读者视角提示**：读者会和阿拉一样感到窒息：要避免成为暴君的唯一方式，似乎是去实现“灵魂伴侣”的预言——但她刚刚才发现那预言本身就是陷阱。
 

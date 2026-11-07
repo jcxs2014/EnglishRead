@@ -22,12 +22,12 @@ modified: "2026-11-06"
 
 > **原句 2:** "It was an oxygen mask."
 **中文理解**：是氧气面罩。他给了我空气，只是空气。然后我听见另一个声音，命令般的话语混入风中。“呼吸，阿拉，”德雷克平静地说，“呼吸。深而慢，吸气，呼气。我需要你冷静下来。呼吸。”他的声音比平时柔和，温柔。
-**关键词**：an oxygen mask / Breathe, Ara / It’s softer than his usual voice. Tender.
+**关键词**：an oxygen mask / It was an oxygen
 **为什么这样写**：德雷克用最温柔的语气唤回阿拉。这个平时刻薄傲慢的人，此刻用情人般的语气安慰她。
 **读者视角提示**：读者会注意到他的变化，他对阿拉的关心已经超出了“武器”的范畴。
 > **原句 3:** "The wind is still wild, but it’s no longer raging against me. More like with me. And now that it’s not so loud, I can hear my breaths clearer. Bring them into more of a rhythm. Get them deeper, steadier, just like he wants me to. In and out. Deep and slow. Oxygen fills my cold, aching lungs. I didn’t want to breathe. I was scared to. But for Drake – his softly spoken words, as if they were being said to a lover – I do."
 **中文理解**：风依然狂野，但不再向我袭来，像是和我站在一起。风声小了些，我能清晰地听见自己的呼吸，渐渐找回节律，变得深长而平稳，正如他希望的那样。吸气，呼气，深而慢。氧气充满我冰冷而疼痛的肺部。我本不想呼吸，也害怕呼吸。但为了德雷克——为了他用情人般的声音对我说话——我还是呼吸了。
-**关键词**：the wind is no longer raging against me / as if they were being said to a lover / I do
+**关键词**：The wind is still wild, but it’s no longer raging against me. / as if they were being said to a lover / I do
 **为什么这样写**：呼吸成为全章的隐喻。从绝望中想放弃，到为了德雷克选择活下去，阿拉重新找回求生的意志。
 **读者视角提示**：读者会意识到德雷克对阿拉的感情已经发展到不愿失去她的地步，阿拉也开始对他产生不同的感觉。
 

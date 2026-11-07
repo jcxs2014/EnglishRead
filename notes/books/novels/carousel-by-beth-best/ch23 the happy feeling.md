@@ -28,7 +28,7 @@ modified: "2026-11-06"
 
 > **原句 3:** "“I loved the library. My friends. The insects in the gardens. Even the spiders and the crane flies. They were as big as fists.” I add, because I can’t seem to stop talking, “I saw a crane fly burn itself alive once – it flew straight into a flame. Singed its wings.”"
 **中文理解**：“我喜欢图书馆。我的朋友。花园里的昆虫。连蜘蛛和大蚊都喜欢。它们有拳头那么大。”我补充道——因为我似乎停不下来——“我见过一只大蚊把自己烧死，它直直飞进火焰里，烧焦了翅膀。”
-**关键词**：the insects in the gardens / as big as fists / burn itself alive / Singed its wings
+**关键词**：“I loved the library. / as big as fists / burn itself alive / Singed its wings
 **为什么这样写**：一段无害的童年回忆，被她自己讲成了一个自焚的寓言；"can’t seem to stop talking"是药效，也是说出真相的方式。
 **读者视角提示**：读者会想：她是不是在说自己？
 

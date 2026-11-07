@@ -22,7 +22,7 @@ modified: "2026-11-06"
 
 > **原句 2:** "“Ara. I’m sorry. I haven’t been entirely honest with you. I probably could have visited you all on a couple of missions I’ve been on. But there was a reason I couldn’t.”"
 **中文理解**：“阿拉。对不起。我对你并不完全诚实。我有几次任务其实可以去看看你们。但有个原因让我不能去。”
-**关键词**：not entirely honest / could have visited / a reason I couldn’t
+**关键词**：I haven’t been entirely honest with you. / could have visited / a reason I couldn’t
 **为什么这样写**：他先认错，再把答案往后推，制造一种“必须等回到船上”的悬念；这个拖延本身就是内容。
 **读者视角提示**：读者会跟她一起猜：什么原因能让一个人三年不回家？
 

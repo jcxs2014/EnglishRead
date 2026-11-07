@@ -52,7 +52,7 @@ modified: "2026-11-06"
 
 > **原句 7:** "“These track marks remind me of that. What I went through. But I did get through it, with help from my parents. I got stronger than ever. So, my point is, I know what’s it’s like. To feel like your future is out of your hands. But where there’s a way in, there’s a way out. And sooner or later, you’ll either find it. Or you’ll make one.”"
 **中文理解**：“这些针孔让我想起那段日子。我经历过的事。但我挺过来了，靠我父母帮忙。我比以前更强。所以我的意思是，我知道那是什么感觉——觉得自己的未来不在自己手里。但有进去的路，就有出去的路。迟早，你要么找到它，要么造一条出来。”
-**关键词**：track marks remind me / got through it / out of your hands / find it / make one
+**关键词**：track marks remind me / I got stronger than ever. / out of your hands / find it / make one
 **为什么这样写**：她把伤疤从“病历”改写成“资历”；最后一句是全书的行动纲领，也预告了阿拉后来的选择。
 **读者视角提示**：读者会重新看待 Riss：她不是看守，她是先一步熬过来的人。
 

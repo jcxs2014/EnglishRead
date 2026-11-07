@@ -40,19 +40,19 @@ modified: "2026-11-06"
 
 > **原句 5:** "It is devoted to one person, and one person only. The person I am to marry."
 **中文理解**：它只献给一个人，且只献给那一个人。我要嫁的那个人。
-**关键词**：devoted to one person / and one person only / the person I am to marry
+**关键词**：devoted to one person / and one person only / The person I am to marry.
 **为什么这样写**：重复与限定把“婚姻”写成课程目标，剥去所有私人选择；阿拉的未来在童年就被写进了教材。
 **读者视角提示**：读者会把这段与“灵魂伴侣”的牌对照起来——命运在这里更像安排。
 
 > **原句 6:** "What does he believe will make a good ruler?"
 **中文理解**：“他认为什么能造就一位好统治者？”
-**关键词**：What does he believe / make a good ruler / Power / wield it
+**关键词**：What does he believe / make a good ruler
 **为什么这样写**：问答体把政治价值观灌输得像背诵答案；她答出的“权力，以及运用权力的能力”，不是她的信念，是她被训练去迎合的信念。
 **读者视角提示**：读者会意识到，阿拉被培养的不是成为伴侣，而是成为某种统治工具的匹配件。
 
 > **原句 7:** "The card Old Mother is showing the younger me is the Card of The Soulmates. I’d seen it many times in my life. The image of the man and woman in their finery, their hands entwined, haunted my dreams."
 **中文理解**：老母亲给年轻的我看的，是“灵魂伴侣”牌。我一生见过它许多次。牌上那对盛装男女牵着手的图像，一直萦绕在我的梦里。
-**关键词**：The Card of The Soulmates / many times in my life / their hands entwined / haunted my dreams
+**关键词**：The card Old Mother is showing the younger me is the Card of The Soulmates. / many times in my life / their hands entwined / haunted my dreams
 **为什么这样写**：同一张牌反复出现，把“预言”写成长期植入的意象；它既是安慰，也是枷锁。
 **读者视角提示**：读者会开始怀疑：这张牌究竟是在预告未来，还是在塑造她对未来的期待？
 

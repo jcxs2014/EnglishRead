@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "“Listen to me. Pass the tests they have for you. Do whatever you have to do – the Queen will forgive you. Do not do anything that will get you killed. The end is in sight, Darling.”"
 **中文理解**：“听我说。通过他们给你的考验。做你必须做的事——女王会原谅你。无论如何不要做会让你送命的事。结局就在眼前，亲爱的。”
-**关键词**：Pass the tests / Do whatever you have to do / the Queen will forgive you / do not get you killed
+**关键词**：Pass the tests / Do whatever you have to do / the Queen will forgive you / Do not do anything that will get you killed.
 **为什么这样写**：母亲的爱与命令缠在一起：她要阿拉活下来，却也把“女王的原谅”当作前提；温柔的称呼压不住那份居高临下的安排感。
 **读者视角提示**：读者会听出矛盾：母亲究竟是在救女儿，还是在把女儿送回既定的位置？
 
@@ -64,7 +64,7 @@ modified: "2026-11-06"
 
 > **原句 9:** "Meg holds my gaze. “West.”"
 **中文理解**：梅格盯着我的眼睛。“西边。”
-**关键词**：West / holds my gaze / not of Rhavna / Of the world
+**关键词**：West / holds my gaze / Meg holds my gaze
 **为什么这样写**：一个单词被单独拎出来，像钥匙转动的声音；此前所有零散线索在这一刻对齐。
 **读者视角提示**：读者会和阿拉同时倒吸一口气：方向错的不是地图，是整个身份。
 

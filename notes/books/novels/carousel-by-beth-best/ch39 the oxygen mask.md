@@ -22,7 +22,7 @@ modified: "2026-11-06"
 
 > **原句 2:** "I don’t think. Just swing open the outer door. The roar of the wind is monstrous. I leap through the airlock and grab Cosmer’s wrist – just as his fingers slip from the edge of it. I grasp an internal safety handle with my other hand, and keep to the glass so I don’t take the full force of the wind, which is still clawing at him. Trying to take him from me."
 **中文理解**：我来不及思考，直接拉开外门。狂风咆哮着扑来。我跳出气闸，抓住科斯默的手腕——就在他的手指即将从气闸边缘滑落的那一瞬间。我用另一只手死死抓住舱内的安全把手，紧贴着玻璃，以免正面承受全力的狂风。风还在拼命扯他，想把他从我手中夺走。
-**关键词**：just as his fingers slip from the edge of it / clawing at him / trying to take him from me
+**关键词**：just as his fingers slip from the edge of it / clawing at him / Trying to take him from me.
 **为什么这样写**：“来不及思考”揭示阿拉此刻的本能——她不会再像第36章那样把他锁在舱内。她会用尽一切把他拉回来。
 **读者视角提示**：读者会感受到这场救援的绝望和紧迫，风本身也成为了要夺走科斯默的敌人。
 

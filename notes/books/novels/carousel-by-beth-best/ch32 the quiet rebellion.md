@@ -58,7 +58,7 @@ modified: "2026-11-06"
 
 > **原句 8:** "I fling the chalk down."
 **中文理解**：我把粉笔扔下，直视埃弗雷恩。“现在你相信我们了吗？”
-**关键词**：fling the chalk down / Look straight at Ephraine / Do you believe us now?
+**关键词**：fling the chalk down / I fling the chalk
 **为什么这样写**：破译完成后，阿拉不再解释，而是把证据的重量直接压向唯一能调动武力的人；短短一句逼迫埃弗雷恩在叛国事实前表态。
 **读者视角提示**：读者会感到紧张转向期待：阴谋已经被说破，但拥有武力的人会不会真的行动，仍是未知数。
 

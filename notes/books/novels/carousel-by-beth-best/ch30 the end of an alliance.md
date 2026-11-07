@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "She offers me a weak smile. “Try not to dwell on it,” she says, in a tone that isn’t kind, but could be, if I convinced myself it was. It’s a confusing thought about her, but it’s true. “Just take it as a lesson. You can’t ask your magic for things that aren’t in your scope to influence. Something as personal as what you tried to do, wouldn’t be.”"
 **中文理解**：她对我露出一个淡淡的微笑。“别总想着这件事，”她说，语气并不温柔，但如果我说服自己，它也可以算温柔。对她产生这种困惑的想法，听起来奇怪，却是真的。“就当是个教训吧。你不能要求魔法去做那些不在你影响范围内的事。你昨晚试图做的那种事，太私人了，不属于它的范围。”
-**关键词**：Try not to dwell on it / take it as a lesson / in your scope to influence / too personal
+**关键词**：Try not to dwell on it / take it as a lesson / in your scope to influence / Something as personal as what you tried to do, wouldn’t be.”
 **为什么这样写**：梅格给出的是技术性安慰，不是共情；她把阿拉的失败重新定义为“越界”，也顺带划定了魔法的冷酷边界。
 **读者视角提示**：读者会感到梅格的复杂：她没有嘲笑阿拉，却也在教她接受一件残忍的事——爱不能被魔法修复。
 

@@ -40,7 +40,7 @@ modified: "2026-11-06"
 
 > **原句 5:** "I can’t make him directly kill himself, I remember. But, maybe… In my mind’s eye, I can even see him. He’s smirking, standing by a telescope in The Bridge of a hive which is travelling towards us. Its ships are already out in the sky, leading the way. They will have descended on us – destroyed us – within the hour. I speak softly into the radio, like I’m speaking to him from a dream."
 **中文理解**：我不能让他直接杀死自己，我记得。可是，也许……在我的脑海里，我甚至能看见他。他正得意地笑着，站在一艘正朝我们驶来的蜂巢舰的桥楼望远镜旁。它的飞船已经出现在天空中，领头飞来。它们将在一小时内降临到我们头顶——毁掉我们。我对着无线电轻声说话，像从梦里对他说话一样。
-**关键词**：directly kill himself / in my mind’s eye / destroyed us – within the hour / speaking to him from a dream
+**关键词**：directly kill himself / But, maybe… In my mind’s eye, I can even see him. / destroyed us – within the hour / speaking to him from a dream
 **为什么这样写**：阿拉在规则边缘寻找漏洞；梦一样的语气与即将发生的屠杀并置，让她的命令显得安静、冷酷而可怕。
 **读者视角提示**：读者会意识到，阿拉的魔法正在从防御转向惩罚，而她已经知道这一步意味着什么。
 

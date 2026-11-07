@@ -22,7 +22,7 @@ I write in the sand the names of all of those who have been lost. There may be s
 
 Writing the names of the dead in sand is tradition in Hevalla on days The Assembly designates for remembrance. Hevalla has no religion – and having any religion is discouraged – but the tradition dates from hundreds of years ago, when the country was still a kingdom. The idea is that as the tide rises, swallowing the names, these people will be committed to the memory of the sea, which – unlike humankind – never forgets. The salt water from the sea, meanwhile, will flow through and strengthen those mourning them."
 **中文理解**：我没有用魔法，只用了一块简单的浮木。在沙滩上写下所有逝去之人的名字。我知道维克米可能还有幸存者，但即使有，他们也会在亡灵的阴影中重建生活。这同样值得哀悼。在赫瓦拉，议会指定的悼念日有在沙滩上写下死者名字的传统。潮水上涨吞没名字时，这些人将被交托给永不遗忘的大海记忆。
-**关键词**：I use no magic for it / simple piece of driftwood / Hevallan tradition
+**关键词**：I use no magic for it / simple piece of driftwood / Just a simple piece of driftwood
 **为什么这样写**：阿拉用最朴素的方式哀悼逝者，不用魔法，用传统，用人类共有的方式表达悲伤。
 **读者视角提示**：读者会感受到阿拉对家园和亲人的深情。她用梦境重建家园，用沙滩纪念碑铭记逝者。
 > **原句 2:** "He drops down onto one knee.

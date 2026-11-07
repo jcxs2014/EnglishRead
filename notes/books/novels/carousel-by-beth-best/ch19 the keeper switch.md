@@ -64,7 +64,7 @@ modified: "2026-11-06"
 
 > **原句 9:** "“I didn’t really take you here to admire my ship. I just wanted to take you somewhere we could be alone.” He strokes his thumb over my wrist. “I don’t know how long we’ll be able to be together. There’s nothing about switching keepers in The Accords. But if Riss complains to Dezeeves…”"
 **中文理解**：“我带你来其实不是看飞船。我只是想带你去一个我们能独处的地方。”他用拇指摩挲我的手腕。“我不知道我们还能在一起多久。协议里没有关于换看守人的条款。但如果 Riss 去跟德泽维斯告状……”
-**关键词**：not to admire my ship / somewhere we could be alone / how long / nothing about switching keepers
+**关键词**：There’s nothing about switching keepers in The Accords. / somewhere we could be alone / how long / nothing about switching keepers
 **为什么这样写**：他把浪漫的邀约拆穿成“我只是想和你单独待着”，诚实得近乎可怜；"没有条款"意味着他们的关系在制度里根本不存在。
 **读者视角提示**：读者会意识到：他们要的不是特权，是一段制度无法承认的时间。
 

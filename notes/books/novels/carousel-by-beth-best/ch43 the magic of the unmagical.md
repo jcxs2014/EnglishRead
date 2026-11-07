@@ -28,7 +28,7 @@ modified: "2026-11-06"
 
 > **原句 3:** "It’s funny. It occurs to me, as I’m falling asleep in his arms, that – unlike the sex we had on the beach – this time, I felt absolutely no light surrounding me, or power pouring out of me, at all. Yet it was magical all the same."
 **中文理解**：很有意思，当我躺在他怀里快要睡着时才意识到——与在沙滩上那次不同，这次我周围没有光芒，也没有力量涌出。但这次却同样是魔法般的。
-**关键词**：absolutely no light surrounding me / no power pouring out of me / Yet it was magical all the same
+**关键词**：absolutely no light surrounding me / It’s funny. It occurs / Yet it was magical all the same
 **为什么这样写**：全书核心主题的体现。真正的魔法不在于元素之力，而在于爱、信任和选择。两人之间的联系不是被设计的羁绊，而是真实的感情。
 **读者视角提示**：读者会理解阿拉终于明白了：她和德雷克的“命中注定”是被操纵的，而她和科斯默之间的爱才是真正的、属于她自己的选择。
 

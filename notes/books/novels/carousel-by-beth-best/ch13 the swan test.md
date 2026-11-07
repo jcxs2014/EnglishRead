@@ -52,7 +52,7 @@ modified: "2026-11-06"
 
 > **原句 7:** "He speaks stiltedly, eyes fully on me again. “I believe the line you just said was one of her particular favourites.” He pauses. “And I’ve been listening to you. The way you were speaking to Dezeeves. The way you sent away the swan. It made me believe…”"
 **中文理解**：他生硬地开口，眼睛又完全落在我身上。“我相信你刚才说的那句话是她的口头禅之一。”他停顿。“我一直在听你说话。你对德泽维斯说话的方式。你把天鹅送走的方式。这让我觉得……”
-**关键词**：stiltedly / one of her particular favourites / the way you sent away the swan / made me believe
+**关键词**：stiltedly / one of her particular favourites / The way you were speaking to Dezeeves. / made me believe
 **为什么这样写**：德雷克用“她的口头禅”把阿拉与女王连起来，怀疑从猜测变成证据；话说一半戛然而止，把悬念留给下一章的宫廷秘密。
 **读者视角提示**：读者会和阿拉一样背脊发凉：她以为自己在模仿得体，其实在无意中重复母亲的语言。
 

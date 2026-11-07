@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "The bond I would give anything not to have been given. He stands straighter, practically gaping. I’ve never seen him look at me like that. Like he can’t believe I exist. “That surprised to see me?” I bite out. “I thought you left,” he states, that unsettling look I’m trying to ignore still on his face. “How could I? When I’m one half of the weapon?”"
 **中文理解**：要是能放弃这份羁绊，我愿付出任何代价。他挺直身体，几乎目瞪口呆。我从没见他用那种眼神看我，像是不敢相信我真的存在。“见到我很意外？”我厉声问。“我以为你走了，”他说，那种让我不安的眼神仍没消失。“我怎么能走？我就是武器的一半。”
-**关键词**：the bond I would give anything not to have been given / one half of the weapon
+**关键词**：The bond I would give anything not to have been given. / one half of the weapon
 **为什么这样写**：阿拉一边厌恶这份强加的联结，一边明白她无法逃离它。她登上桥楼不是出于忠诚，而是出于责任。
 **读者视角提示**：读者会感受到她此刻的孤立：她既不属于德泽维斯的阵营，也不属于已经撤离的船员，只剩下这份被迫的联结。
 
@@ -40,7 +40,7 @@ modified: "2026-11-06"
 
 > **原句 5:** "All that matters is now. The emotion that letting go gives me… Is pure joy. I close my eyes. Exhale. I open them. Riss, almost directly in front of me, is frozen in the air. So’s an enemy ship behind her. So are the other ships around us. Even Cosmer’s. The only thing moving in the sky at all is a cannonball. Which is heading straight for Riss."
 **中文理解**：此刻，唯有此刻才最重要。放手的那一瞬间，我感受到的是纯粹的喜悦。我闭上眼，呼气，再睁眼。瑞斯几乎就在我正前方，静止在空中。她身后的敌舰也停住了。周围所有的船只都停住了，连科斯默的飞船也停住了。天空中唯一还在移动的，只有一颗正朝瑞斯飞去的炮弹。
-**关键词**：letting go / pure joy / frozen in the air / the only thing moving is a cannonball
+**关键词**：letting go / pure joy / frozen in the air / The emotion that letting go gives me… Is pure joy.
 **为什么这样写**：喜悦与灾难在同一瞬间并置，达到全章最残酷的张力。阿拉终于学会了德雷克所说的“放手”，却为此付出了最沉重的代价。
 **读者视角提示**：读者会屏住呼吸，明知已经太晚，却仍然希望有奇迹发生。
 

@@ -34,7 +34,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "There’s no separation. Men and women are using any of the large, soapy copper tubs they want to. Just as Cosmer had warned me, there doesn’t seem to be any shame here. Some are soaking themselves, or standing waist-deep and talking, or even just walking around through the steam, their full bodies on display. It’s a lot of skin."
 **中文理解**：没有分隔。男女随意使用那些冒着肥皂泡的大铜浴盆。正如科斯默警告过我的，这里似乎没有任何羞耻。有人泡着，有人站在齐腰深的水里聊天，甚至有人在蒸汽里走来走去，全身一览无余。好多皮肤。
-**关键词**：no separation / any of the large, soapy copper tubs / no shame / It’s a lot of skin
+**关键词**：no separation / any of the large / soapy copper tubs / Just as Cosmer had warned me, there doesn’t seem to be any shame here. / It’s a lot of skin
 **为什么这样写**：最后那句大白话是全书最可爱的收束——不评价、不道德化，只报告事实；越是这样，越显出阿拉的教养与这里的坦荡之间的落差。
 **读者视角提示**：读者会跟着她一起不自在，也会注意到：正是这种“没有遮掩”，才让疤与魔法都被看见。
 
@@ -58,7 +58,7 @@ modified: "2026-11-06"
 
 > **原句 8:** "“Cosmer has blood magic on him, too. A different user than the user on Ara.” She adds, licking her top lip. “Milder magic. Used twice. Recently.”"
 **中文理解**：“科斯默身上也有血魔法。施术者和用在阿拉身上的不是同一个人。”她舔了舔上唇，补充道：“魔法更温和。用过两次。就在最近。”
-**关键词**：a different user / Milder magic / Used twice / Recently
+**关键词**：A different user than the user on Ara.” She adds, licking her top lip. / Milder magic / Used twice / Recently
 **为什么这样写**：她把“谁做的”变成可以计数的事实——两次、最近——冷得像验伤报告；这份精确让科斯默的指控无法被当作输不起。
 **读者视角提示**：读者会立刻把“两次”对上决斗那晚：一次让他动不了，一次让他输。
 

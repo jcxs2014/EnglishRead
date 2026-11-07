@@ -34,7 +34,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "“We have received intelligence that military action is being planned in airspace near us,” he starts. “You will let me know if you see anything off, won’t you? Debris on the beach. Enemy soldiers on foot.”"
 **中文理解**：“我们收到情报，附近空域正在策划军事行动，”他开口说。“你要是看到什么不对劲的，会告诉我的，对吧？海滩上的残骸。步行的敌军士兵。”
-**关键词**：intelligence / military action / airspace / debris
+**关键词**：intelligence / military action / airspace / Debris on the beach.
 **为什么这样写**：正式的“情报”措辞与末尾碎片化的列举并置，既像警告也像布控；反问句“won’t you?”把要求包装成礼貌，实际是在要求监视与汇报。
 **读者视角提示**：联系前文的塔罗预兆，这句把“访客/异常”从神秘征象推进到具体的军事风险，悬念开始落地。
 

@@ -46,7 +46,7 @@ modified: "2026-11-06"
 
 > **原句 6:** "His ribbon, now. It always was. I push it into his long fingers."
 **中文理解**：现在是他的丝带。一直都是。我把它塞进他修长的手指里。
-**关键词**：the ribbon from my hair / His ribbon, now. It always was / slam down the hatch door / shouting for me
+**关键词**：His ribbon, now. / His ribbon / now. It always was / His ribbon, now. It
 **为什么这样写**：丝带是全书中最具象征意义的物件，从最初的“归还”到现在的“最终赠予”，完成了它的循环。砸门的动作是全章最具冲击力的场景，既是保护也是背叛。
 **读者视角提示**：读者会和阿拉一样明白，她这辈子都不会再有勇气转身回去。
 

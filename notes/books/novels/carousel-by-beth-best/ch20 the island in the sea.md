@@ -34,7 +34,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "“We thought it wasn’t. But then after the mission Dezeeves said we did. They gave everyone an extra slice of bread on Lower Pilot Deck.”"
 **中文理解**：“我们以为没找到。但任务之后德泽维斯说找到了。他们给下层飞行员每人多分了一片面包。”
-**关键词**：we thought it wasn’t / after the mission / an extra slice of bread
+**关键词**：“We thought it wasn’t. / after the mission / an extra slice of bread
 **为什么这样写**：一场改变国运的胜利，被压缩成“多一片面包”的奖赏；越是这样轻描淡写，越显得这个政权的冷漠。
 **读者视角提示**：读者会和阿拉一起胃里一沉：一片面包，换来一整片大陆的命运。
 

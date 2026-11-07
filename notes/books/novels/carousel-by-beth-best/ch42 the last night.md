@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "“I’m not going to do that,” he says. “Yet.” “Are you sure?” “I’m grieving in my own way.” “I’m disappointed. I so wanted to comfort him. So wanted him to comfort me.”"
 **中文理解**：“我现在不打算谈，”他说，“等以后吧。”“你确定？”“我用自己的方式哀悼。”“我很失望。我特别想安慰他，也特别想他安慰我。”
-**关键词**：I’m not going to do that. Yet. / grieving in my own way
+**关键词**：“I’m not going to do that,” he says. / grieving in my own way
 **为什么这样写**：阿拉渴望共同哀悼，科斯默需要独处处理悲伤。两人都爱着对方，却不知道该如何安慰彼此。
 **读者视角提示**：读者会理解两人的不同应对方式，悲伤不是所有人都用同样的方式表达的。
 

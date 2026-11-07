@@ -22,13 +22,13 @@ modified: "2026-11-06"
 
 > **原句 2:** "Your life wasn’t destroyed by that fortune. It was made by it. You would not be here today without it."
 **中文理解**：你的生活不是被那次占卜毁掉的。它是被那次占卜造就的。没有它，你今天不会在这里。
-**关键词**：not destroyed / made by it / You would not be here today without it
+**关键词**：You would not be here today without it. / made by it / You would not be here today without it
 **为什么这样写**：老母亲把阿拉视为灾难的源头重新命名为“成就”，这不是安慰，而是一种更冷硬的命运观——苦难也被算进了必要之路。
 **读者视角提示**：读者会和阿拉一样愤怒：如果连被夺走的人生都叫“成就”，那谁来为那些痛负责？
 
 > **原句 3:** "I can tell you this, at least. One was the original fortune. The second was the fortune I drew to try to change the fate predicted in the first. It is a risky business, cheating the stars."
 **中文理解**：至少这件事我可以告诉你。一次是原本的占卜。第二次，是我为了试图改变第一次所预示的命运而抽的牌。欺骗星辰，是件冒险的事。
-**关键词**：Two fortunes / original fortune / change the fate / cheating the stars
+**关键词**：I can tell you / original fortune / change the fate / cheating the stars
 **为什么这样写**：老母亲给出一个关键事实，却不给出内容本身；“两次占卜”把命运从单线预言变成被干预的棋局，谜团因此更深。
 **读者视角提示**：读者会立刻追问：第一张牌是什么？第二张牌又改写了什么？——而这正是阿拉得不到的答案。
 

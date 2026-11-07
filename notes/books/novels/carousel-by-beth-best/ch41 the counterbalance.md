@@ -22,12 +22,12 @@ modified: "2026-11-06"
 
 > **原句 2:** "“I do not believe, after this morning, I need to marry Drake. I have accepted the union – but not romantically. I will still live at court, but not as a queen. I will still be the…”"
 **中文理解**：我不认为在今天早上之后我还需要嫁给德雷克。我接受了联合，但不是浪漫的那种。我仍会住在宫廷，但不会成为王后。我仍会是德雷克的制衡者——顾问和朋友。
-**关键词**：I do not believe, after this morning, I need to marry Drake / Counterbalance / advisor
+**关键词**：I do not believe / after this morning / I need to marry Drake / “I do not believe
 **为什么这样写**：阿拉重新定义了这段关系。她不拒绝德雷克，而是拒绝被强迫的浪漫婚姻，选择平等的合作关系。
 **读者视角提示**：读者会感受到她的坚决。她既不想背弃科斯默，也不想继续被当成德泽维斯计划中的“新娘”工具。
 > **原句 3:** "As a final parting shot, knowing he will understand me, I conclude, “And, after abandoning him as a baby, drugging him in the brig, and who knows what else – it’s time you did the right thing by him. Allowed him a chance at happiness.” He sucks his teeth. His eyes, which were already an unusually colourless colour, like weak tea, water themselves down even more."
 **中文理解**：临走前我还要补上一枪，知道他一定听得懂：“还有，在你抛弃他当婴儿、在地牢里给他下药、以及天知道还做了什么之后——是时候对他尽点责任了。让他有机会获得幸福。”他咂着牙，眼睛本就像淡茶一样无色，此刻更是湿润起来。
-**关键词**：allowed him a chance at happiness / abandoning him as a baby / drugging him in the brig
+**关键词**：Allowed him a chance at happiness.” He sucks his teeth. / abandoning him as a baby / drugging him in the brig
 **为什么这样写**：阿拉直指德雷克最痛的伤疤，迫使德泽维斯正视他对亲生儿子的冷酷。德泽维斯眼中湿润的细节既暴露他的愧疚，又暗示他不会真的反抗皇室的决定。
 **读者视角提示**：读者会为德雷克心疼，也会意识到德泽维斯从来都不是一个会为了儿子违抗女王的人。
 

@@ -22,7 +22,7 @@ modified: "2026-11-06"
 
 > **原句 2:** "Because I know in my bones, my mind, my soul, that it didn’t work. I felt no drops of heat as my magic left me. No prickling over my skin. No sound in my head. No inaudible click, like something slotted into place in Vikemy’s mind."
 **中文理解**：因为我用骨头、用头脑、用灵魂都知道，它没有奏效。我的魔法离开时，我没有感到一滴滴热意。皮肤上没有刺感。脑子里没有声音。也没有那种无声的咔嗒，像有什么东西在维克米的脑海里嵌入了位置。
-**关键词**：in my bones, my mind, my soul / it didn’t work / no inaudible click / slotted into place
+**关键词**：in my bones / my mind / my soul / it didn’t work / No inaudible click, like something slotted into place in Vikemy’s mind. / slotted into place
 **为什么这样写**：阿拉用一连串缺席的感官信号证明失败；“无声的咔嗒”这种矛盾说法，恰恰写出魔法成功时那种微妙却确定的感觉。
 **读者视角提示**：读者会和她一起意识到：问题不在于她不够想救科斯默，而在于有人把她的力量卡住了。
 
@@ -58,7 +58,7 @@ modified: "2026-11-06"
 
 > **原句 8:** "“And osimidite withdrawal is particularly nasty. They start shaking. Wheezing, like they can’t breathe. And he’ll be completely miserable. He’ll be begging us for it. You’ll have to be strong. Stronger than you’ve ever been.”"
 **中文理解**：“而且奥西米戴特的戒断反应尤其难受。他们会开始发抖。喘息，像喘不过气来。他会非常痛苦。会求我们把药给他。你必须坚强。比你以往任何时候都更坚强。”
-**关键词**：withdrawal is particularly nasty / shaking. Wheezing / begging us for it / stronger than you’ve ever been
+**关键词**：withdrawal is particularly nasty / shaking. Wheezing / begging us for it / Stronger than you’ve ever been.”
 **为什么这样写**：莉丝用具体症状拆穿“无罪释放”之后的幻觉：科斯默活下来，不等于痛苦结束。真正的救援才刚开始，而且需要耐心与意志。
 **读者视角提示**：读者会明白，接下来考验阿拉的不是魔法爆发，而是能否在漫长、难堪、痛苦的日常里守住一个人。
 

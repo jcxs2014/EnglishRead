@@ -70,7 +70,7 @@ modified: "2026-11-06"
 
 > **原句 10:** "“Crazy? Oh, we tell him that all the time. It gets worse, too – I mean, firstly, she sounds like kind of a bitch, from the very little he’s said about her. Too pretty and perfect, you know?”"
 **中文理解**：“疯？哦，我们一直这么说他。还有更糟的——我是说，首先，从他说的那一点点来看，那女孩听起来有点像个贱人。太漂亮、太完美了，你懂吧？”
-**关键词**：we tell him that all the time / It gets worse / too pretty and perfect
+**关键词**：we tell him that all the time / It gets worse / Too pretty and perfect, you know?”
 **为什么这样写**：Riss 当着“那个女孩”的面骂她，读者因此获得了阿拉自己不知道的信息差；这句粗话也是全书少见的喜剧时刻，让痛感稍作缓冲。
 **读者视角提示**：读者会尴尬又心软：她被骂“太完美”，而这正是她最不愿被看见的样子。
 

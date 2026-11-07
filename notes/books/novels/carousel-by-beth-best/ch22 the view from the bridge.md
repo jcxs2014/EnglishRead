@@ -34,7 +34,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "“Please,” I find myself saying, calmly. “Take Cosmer and I down to the brig, if you believe we have broken The Accords in the way you’re implying.” I bow my head a little. “That is the procedure, isn’t it? A trial for Cosmer, and, if he’s found guilty, execution for us both.”"
 **中文理解**：“拜托，”我听见自己平静地说。“如果你认为我们以你暗示的方式违反了协议，那就把我和科斯默送进禁闭室。”我微微低头。“程序就是这样，对吧？对科斯默审判，如果他罪名成立，我们两人一起处死。”
-**关键词**：down to the brig / the procedure / a trial / execution for us both
+**关键词**：down to the brig / the procedure / A trial for Cosmer, and, if he’s found guilty, execution for us both.” / execution for us both
 **为什么这样写**：她主动把最坏的结果说出口，用“程序”反过来绑住他；这是全书里她第一次真正用头脑打仗。
 **读者视角提示**：读者会替她捏一把汗，也会看出她在赌：他舍不得让她死，因为他还要她“被纠正”。
 

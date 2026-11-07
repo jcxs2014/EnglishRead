@@ -16,7 +16,7 @@ modified: "2026-11-06"
 
 > **原句 1:** "There’s a silence in The Bridge I don’t think will ever break. Should ever be broken. Because breaking it would mean what happened – what we all just witnessed – was real. And not some awful, terrible nightmare I need to wake up from."
 **中文理解**：桥楼里有一种沉默，我想这沉默永远不会被打破，也不该被打破。因为一旦打破，就意味着刚才发生的事——我们所有人亲眼目睹的事——是真实的，而不是一场可怕噩梦，需要我从中醒来。我以为自己已经哭够了，可眼泪并不这么想。它们不停地涌出，我茫然地向后踉跄。魔法不能解决一切。
-**关键词**：a silence I don’t think will ever break / Magic can’t fix everything
+**关键词**：There’s a silence in The Bridge I don’t think will ever break. / There’s a silence in
 **为什么这样写**：全章用死寂开场，直接传达阿拉的心境。她终于明白，自己的力量有极限，这种无力感比愤怒更折磨人。
 **读者视角提示**：读者会感受到瑞斯之死的分量：这不是可以被复仇逆转的事件，而是永久的创伤。
 
@@ -52,13 +52,13 @@ modified: "2026-11-06"
 
 > **原句 7:** "“I made no deal.”"
 **中文理解**：“我没有交易。”“不，”我厉声说，“一定有好处给你。”他的身体放松下来，简单地说：“你。因为叛国指控让你的性命岌岌可危。”他转开目光，“这就是我全部的理由。”我摇摇晃晃，惊呆了。“你同意吗？我们之间和平？”
-**关键词**：Your life, which the IR charge put at risk / That’s all that was in it for me / Peace between us
+**关键词**：“I made no deal.”
 **为什么这样写**：德雷克的回答完全出乎阿拉预料。他为了她冒险得罪德泽维斯，唯一的理由就是不想让她死。这比任何表白都更能打动她。
 **读者视角提示**：读者会明白德雷克对阿拉的感情远比他愿意承认的更深，阿拉也终于开始正视这一点。
 
 > **原句 8:** "“Cosmer,” she snaps. “I mean this with respect. But you are really becoming a thorn in our side⁠—”"
 **中文理解**：“科斯默，”梅格厉声说，“恕我直言，你真的开始成了我们的眼中钉。”“终于！”他打断她，“我还以为在追一艘幽灵船呢。”“你在追我们？”“是的！”我能听出他嘴角的笑，“我很惊讶你们没发现。希望你们没人打算去做侦察这行。”“那你们就得有人让我从气闸进来。”
-**关键词**：a thorn in our side / following us / let me in through the airlock
+**关键词**：a thorn in our side / “Cosmer,” she snaps. “I
 **为什么这样写**：科斯默的机智和倔强在绝望中格外动人。他明知危险仍然追来，只为了见阿拉一面。
 **读者视角提示**：读者会在紧张中松一口气：科斯默还活着，还在想尽办法找到阿拉。章末阿拉冲出去的举动也变得顺理成章。
 

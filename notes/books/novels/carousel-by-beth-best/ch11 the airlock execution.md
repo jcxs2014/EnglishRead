@@ -46,7 +46,7 @@ modified: "2026-11-06"
 
 > **原句 6:** "Chapp beats his fists against the glass with such horror in his eyes, such violence, it makes me wince. He’s clearly shouting, screaming, for his life, but all we can hear is silence."
 **中文理解**：Chapp 用拳头捶打玻璃，眼里的恐惧和动作的狂暴让我不忍直视。他显然在为自己的命呼喊、尖叫，但我们能听见的只有寂静。
-**关键词**：beats his fists / horror in his eyes / screaming / only silence
+**关键词**：beats his fists / horror in his eyes / screaming / He’s clearly shouting, screaming, for his life, but all we can hear is silence.
 **为什么这样写**：视觉的暴烈与听觉的空白被强行并置，读者被迫“看见”却“听不见”，这正是气闸处决的设计——让人死得安静、干净、可观看。
 **读者视角提示**：读者会和阿拉一样屏住呼吸：最恐怖的不是他喊了什么，而是没人能听见。
 
