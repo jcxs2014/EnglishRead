@@ -102,7 +102,7 @@ modified: "2026-11-07"
 | reveling | 沉浸 | She should be reveling in the golden and fiery hue of the trees. |
 | forlornly | 孤单地 | She glanced forlornly around the house, her dark eyes snagging on the portrait decorating the mantle amid the other knick-knacks. |
 | portrait | 肖像 | She glanced forlornly around the house, her dark eyes snagging on the portrait decorating the mantle amid the other knick-knacks. |
-| whispers | 耳语 | he whispered into her ear, kissing the side of her head. |
+| whispered | 耳语 | he whispered the vow as his thumbs traced small lines across her back and shoulders. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

@@ -101,7 +101,7 @@ modified: "2026-11-07"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| path | 小路 | dragged into the brush next to the path |
+| path | 小路 | There were no lights along the path. |
 | bag | 包 | The man leading them could drop his bag, turn, and murder them both before she had time to react. |
 | world | 世界 | What a beautiful little world. |
 | cloak | 斗篷 | He removed his purple cloak without facing them and replaced it quickly with the black one. |
