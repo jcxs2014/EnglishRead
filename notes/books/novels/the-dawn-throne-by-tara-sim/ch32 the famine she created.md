@@ -44,7 +44,7 @@ modified: "2026-11-06"
 
 > **原句 5:** "If we negotiate with the Daystar to cease hostilities on Vitae, He will be more likely to agree if we instead turn our sights upon Noctus."
 
-**中文理解**：「若我们与 Daystar 谈成停火 Vitae——祂会更愿意答应，前提是我们转而把矛头对准 Noctus。」一场战争的结束，以另一场战争为找零。
+**中文理解**：「若我们与 Daystar 谈成对 Vitae 的停火——祂会更愿意答应，前提是我们转而把矛头对准 Noctus。」一场战争的结束，以另一场战争为找零。
 **关键词**：cease / hostilities
 **为什么这样写**：和平的算术题由刽子手出——「instead」一词把牺牲写进方案默认栏；Angelica 立刻算出代价：他们来止战，却差点签下续战。
 **读者视角提示**：外交桌上没有平局，只有转移。记住这个提案——它是本书「结构性不义」最直白的一次报价。
@@ -86,7 +86,7 @@ modified: "2026-11-06"
 
 > **原句 11:** "That bore a handprint almost exactly like the one Deia had left on Angelica."
 
-**中文理解**：那上面留着一枚掌印——与 Deia 在 Angelica 臂上留下的那枚，几乎一模一样。十三个字，把两个人锁进同一枚火印。
+**中文理解**：那上面留着一枚掌印——与 Deia 在 Angelica 臂上留下的那枚，几乎一模一样。十四个词，把两个人锁进同一枚火印。
 **关键词**：handprint / Deia
 **为什么这样写**：伤疤的复写即身份的复写——Ulshära 从「被神烙印的执法者」变成「被 Angelica 烙印的盟友」；「almost exactly」留出的那点差异，就是权力的移交凭证。
 **读者视角提示**：神印第一次被人类复刻。第四部两位「掌印者」同框时，你会想起这里。
