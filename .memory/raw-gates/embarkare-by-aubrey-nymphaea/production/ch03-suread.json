@@ -1,0 +1,67 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch03",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "归途 Lucas 为蓝眼女神丢魂被 Andra 打趣；她想着兜帽猎人正要开口说\"我也遇到一个人\"",
+   "anchor": "“And you didn’t think to ask her name?” Andra laughed.",
+   "start": 259,
+   "end": 313
+  },
+  {
+   "fact": "尖叫撕裂夜空：Lucas 瞬间切换保护者模式让她回家锁门，她口头答应却循声而去",
+   "anchor": "Screams ripped through the night air.",
+   "start": 1293,
+   "end": 1330
+  },
+  {
+   "fact": "Bernice 家门口出现半人半兽怪物：无唇利齿、纯黑双眼，书里才见过的形态",
+   "anchor": "Heavy footfalls trudged through the home a moment before a black, clawed hand clung to the doorframe.",
+   "start": 3071,
+   "end": 3172
+  },
+  {
+   "fact": "怪物把肩上的东西砸在地上——不是东西，是 Bernice",
+   "anchor": "The monster ripped something from over its shoulder and slammed it onto the ground between them with a sickening crunch.",
+   "start": 4213,
+   "end": 4333
+  },
+  {
+   "fact": "黑雾滑入 Bernice 喉中，死去的老人带着不属于她的黑眼重新站起",
+   "anchor": "The black vapor slid down Bernice’s throat.",
+   "start": 6714,
+   "end": 6757
+  },
+  {
+   "fact": "恶魔首次喊出母亲之名：光女巫 Cecilia 之女，要为母亲的罪付出代价",
+   "anchor": "“Daughter of Cecilia the Light Witch,” she began again, “it is time you pay for your mother’s sins.”",
+   "start": 7784,
+   "end": 7884
+  },
+  {
+   "fact": "恶魔通牒：冬至月升前到\"一切开始与结束之地\"受审，否则每天杀一村民；背叛王座上的 Vasara 在等她",
+   "anchor": "“You have until moonrise on winter solstice to appear for your judgement.”",
+   "start": 10473,
+   "end": 10547
+  },
+  {
+   "fact": "Bernice 夺回身体最后一刻告白\"爱你如己出\"，自捅腹部驱魔；章末她在床上沉睡，伤重但活着",
+   "anchor": "With trembling hands, Bernice plunged the blade into her abdomen.",
+   "start": 11406,
+   "end": 11471
+  },
+  {
+   "fact": "Fergal 揭底：母亲就是传说中对抗 Edgeron 的光女巫，死时百余岁；兄妹的年龄与力量常年保密",
+   "anchor": "Your mother was the light witch that stood against Edgeron in the final battle.",
+   "start": 14782,
+   "end": 14861
+  },
+  {
+   "fact": "目的地揭晓：东北海岸学院——母亲与 Edgeron 相遇之地；Andra 拍板独自赴约，与 Lucas 大吵摔门",
+   "anchor": "“Edgeron attended academy on the Northeastern Shores.”",
+   "start": 17708,
+   "end": 17762
+  }
+ ]
+}
