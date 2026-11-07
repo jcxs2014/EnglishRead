@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：Rian 扑上前、哀求 Lucent 化作盾——但已经太迟。一颗灼热的虹彩弹丸从圆筒开口喷出，瞬间洞穿一名卫兵的身体，快得连尖叫都没来得及。
 **关键词**：iridescence / cylinder
 **为什么这样写**：火器用「虹彩」包装——杀人的光被写得像艺术品，仪式化的暴力比粗糙的砍杀更冷；「too late」三个字先判死刑再补画面，叙事顺序即无力感。
-**读者视角提示**：这是本系列第一次出现枪。科技代差=神域对凡间的降维，Sword-and-sorcery 的规则书被撕了一页。
+**读者视角提示**：这是本书第一次出现枪。科技代差=神域对凡间的降维，Sword-and-sorcery 的规则书被撕了一页。
 
 > **原句 5:** "“Child of the Daystar,” the man called up to him. His voice was low and booming against the gilded walls that were a pale substitute for the celestial light ringing his throat. “Forfeit yourself to Lord Phos and there will be no need for conflict.”"
 
