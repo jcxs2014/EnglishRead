@@ -1,0 +1,80 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch08",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "章首：她指挥 Lucas 磨姜粉备料——仪式开场",
+   "anchor": "“Finer,” Andra ordered over Lucas’s shoulder. “The ginger needs to be a powder, not a crumble.”",
+   "start": 30,
+   "end": 125
+  },
+  {
+   "fact": "多年只用元素做小事怕召暗兽（毒牙男袭击夜）；火焰柱失控首演",
+   "anchor": "summoning more power would call a dark creature to their village, like the night the fanged man attacked.",
+   "start": 791,
+   "end": 896
+  },
+  {
+   "fact": "控火失控：火柱竖起 Lucas 惊滚——元素不可预测",
+   "anchor": "a surge of power shot down her arms and into the fire, creating a tall pillar of flames between her and Lucas.",
+   "start": 1065,
+   "end": 1175
+  },
+  {
+   "fact": "仪式材料：鼠尾草+两人头发+泥上符文；Lucas 抱怨拔头发\"才三根\"",
+   "anchor": "“Was it really necessary to rip my hair out?",
+   "start": 2726,
+   "end": 2770
+  },
+  {
+   "fact": "Lucas 问\"你确定吗\"后举匕首宣誓\"我跟你一起，Cousin\"——如旱后夏雨",
+   "anchor": "Lucas closed his eyes for a moment and inhaled. Slowly, he raised the dagger by the blade in an offering.",
+   "start": 4582,
+   "end": 4687
+  },
+  {
+   "fact": "割掌：血浸鼠尾草/两人头发/符文；咒文 Enface delamor elpevu sermon 反复念",
+   "anchor": "Andra aligned the blade with her palm and cut straight across, deep enough for blood to pool there.",
+   "start": 5096,
+   "end": 5195
+  },
+  {
+   "fact": "符文金光震颤——咒语贪得无厌吸血至眼前发黑，Lucas 喝止后爆炸掀翻两人",
+   "anchor": "fueling the thirsty spell that insisted on taking more than Andra could give",
+   "start": 6042,
+   "end": 6118
+  },
+  {
+   "fact": "爆炸把两人掀翻；他撕衣摆为她包扎掌心",
+   "anchor": "Magic shot down her arms in an explosion of color, sending both herself and Lucas backward onto the earth.",
+   "start": 7225,
+   "end": 7331
+  },
+  {
+   "fact": "代价：肩背浮现细小金斑——光滑如雀斑不刻不凸，疼痛全消",
+   "anchor": "Starting on her shoulder and trickling onto her upper back were a smattering of tiny, golden spots etched into her skin.",
+   "start": 8812,
+   "end": 8932
+  },
+  {
+   "fact": "匪徒押昏迷俘虏到场却看不见火——结界隐匿生效；俘虏喊 Snavellers 被踩晕",
+   "anchor": "Two men emerged, their clothes worn and dirty with rusty weapons strapped to their bodies.",
+   "start": 10007,
+   "end": 10097
+  },
+  {
+   "fact": "猎人循血味进圈：摘兜帽、嗅空气、黑瞳闪金光——她竟想前倾触碰",
+   "anchor": "It was him. Her stranger from the Southern Woods.",
+   "start": 13262,
+   "end": 13311
+  },
+  {
+   "fact": "尾声拍板：我们去客栈（隐匿经验决定行止）",
+   "anchor": "“We’ll go to the inn,” she whispered.",
+   "start": 14554,
+   "end": 14591
+  }
+ ],
+ "note": "T3 深审 R1：独立子代理只读 text/ 素读（先素读后开 md）；suread 全锚点命中"
+}
