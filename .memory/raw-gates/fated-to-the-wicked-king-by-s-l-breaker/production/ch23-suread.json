@@ -1,0 +1,55 @@
+{
+ "book": "fated-to-the-wicked-king-by-s-l-breaker",
+ "chapter": "ch23",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch23_twenty_three_nuance.txt",
+ "facts": [
+  {
+   "fact": "晨间露台上 Chez 与国王对弈，他自称正在赢棋",
+   "anchor": "“You’re just mad I’m winning,” Chez mewled.",
+   "start": 575,
+   "end": 618
+  },
+  {
+   "fact": "国王当着 Chez 的面直白宣布两人接吻了、现在气氛变得很怪",
+   "anchor": "“We kissed. And now it’s weird.”",
+   "start": 3050,
+   "end": 3082
+  },
+  {
+   "fact": "Chez 汇报情报：村民服从的那个权威人物目标不明、真名不详，从头到尾只被称作 general",
+   "anchor": "He has only ever been referred to as the ‘general’.",
+   "start": 4430,
+   "end": 4481
+  },
+  {
+   "fact": "她回答在此从未见过那样的人，且仍不记得自己来到 Wünder 之前的任何生活",
+   "anchor": "I’ve never met anyone like that here. And I still don’t remember anything about my life before I arrived in Wünder.",
+   "start": 4684,
+   "end": 4799
+  },
+  {
+   "fact": "谈到通往钟楼的退路时，她在心里把那座钟楼认作「我们的」而非「我的」",
+   "anchor": "Technically, it was our clock tower.",
+   "start": 7685,
+   "end": 7721
+  },
+  {
+   "fact": "国王声称 Cindervale 的那些人并不无辜——是该王国背叛了他的家族",
+   "anchor": "Those people were not innocent. Cindervale betrayed my family.",
+   "start": 12375,
+   "end": 12437
+  },
+  {
+   "fact": "国王透露曾有一次投票：对方逼迫他妥协、谈判，他对「妥协」一词满心憎恶",
+   "anchor": "“There was a vote. They demanded that I compromise, that I negotiate.” His lips curled with hatred for the word.",
+   "start": 16247,
+   "end": 16359
+  },
+  {
+   "fact": "Hatter 后门外的机器与泪河、Emberstead 见过的 maelstrom machine 同类，但大约大五倍",
+   "anchor": "It was a maelstrom machine just like the ones we’d seen at the River of Tears and at Emberstead. Except this one was about five times the size.",
+   "start": 18668,
+   "end": 18811
+  }
+ ]
+}
