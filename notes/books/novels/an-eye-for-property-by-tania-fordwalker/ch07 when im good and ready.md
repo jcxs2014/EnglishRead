@@ -14,10 +14,10 @@ modified: "2026-11-08"
 
 ## 精读
 > **原句 1:** "“I’m sorry you had to come here today, Ben. This is for your troubles.” … I’ll be covering what you owe her. Your debt is settled."
-**中文理解**：「抱歉今天让你跑这一趟，Ben。这是给你跑腿的辛苦费。」……「她欠你的账由我来清。你的债一笔勾销。」
+**中文理解**：「抱歉今天让你跑这一趟，Ben。这是给你跑腿的辛苦费。」……「你欠她的账由我来清。你的债一笔勾销。」
 **关键词**：sorry you had to come / for your troubles / covering what you owe her / debt is settled
 **为什么这样写**：Rose 用一袋现金买断 Mabel 的人际关系，语气却是保险公司结案式的客套（for your troubles / debt is settled）——把逼走一个人写成处理售后纠纷；三万块的债由她亲手清账，也顺手买走了 Mabel 的最后一个证人。
-**读者视角提示**：上一章还举着玻璃拼死呼救的债主，在这一章被成为「她」的人用钱打发——Mabel 的问题被别人以 Mabel 的名义解决了。
+**读者视角提示**：上一章还举着玻璃拼死呼救的前男友，在这一章被成为「她」的人用钱打发——Mabel 的问题被别人以 Mabel 的名义解决了。
 
 > **原句 2:** "Taking a steadying breath, I reach for my own control and hold on for dear life. … After a moment, I relax into an insipid smile and speak in your cadence. “I’m good, thanks. Yeah. Rose is cool. She made me an offer I couldn’t refuse.”"
 **中文理解**：稳住呼吸，Rose 抓住自己的控制权死死不放……片刻之后，她挂上一脸淡而无味的笑，用你的语调说话：「我挺好的，谢谢。嗯，Rose 挺好的。她给了我一个没法拒绝的条件。」

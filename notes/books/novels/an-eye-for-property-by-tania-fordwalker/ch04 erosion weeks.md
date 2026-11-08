@@ -72,4 +72,4 @@ modified: "2026-11-08"
 | attitude | 态度 | You ought to work on your attitude, given how much you need this job. |
 
 ## 一句话总结
-评分栏成了这几个月唯一的战场：Mabel 两星两星地抗议，Rose 一天一天地收购；调解会上制度帮凶、心理师明码标价，最后 Mabel 用多卖的一天，换来了更多「不画画」的时间。
+评分栏成了这几个月的主战场：Mabel 两星两星地抗议，Rose 一天一天地收购；调解会上制度帮凶、心理师明码标价，最后 Mabel 用多卖的一天，换来了更多「不画画」的时间。

@@ -16,7 +16,7 @@ modified: "2026-11-08"
 > **原句 1:** "This is the only room in the house where I have bothered to hang a painting: an Archibald Prize finalist in 2027. The painter was a talented young man who had the economic good sense to suck up to a potential patron, and he was duly rewarded—financially, if not critically."
 **中文理解**：全宅只有化妆室挂了一幅画：2027 年阿切博德奖入围的肖像，画中是还没垮掉的她自己；画家是个有经济头脑的年轻人，懂得巴结潜在金主，也如期得到了回报——钱上的，不是口碑上的。
 **关键词**：bothered to hang / Archibald Prize finalist / suck up to a potential patron / duly rewarded
-**为什么这样写**：这幅肖像是 Rose 的自我陈列：全宅唯一一幅，还挂在只有她自己用的化妆室——财产式的自尊；对画家的评语（suck up to a potential patron）用生意眼光给艺术圈定了价，艺术在她这里只是另一种可以收购的资产。
+**为什么这样写**：这幅肖像是 Rose 的自我陈列：挂在全宅唯一挂画之处的化妆室——财产式的自尊；对画家的评语（suck up to a potential patron）用生意眼光给艺术圈定了价，艺术在她这里只是另一种可以收购的资产。
 **读者视角提示**：记住这幅画像与这面三联镜——它们还会在后续章节最关键的几场戏里出现。
 
 > **原句 2:** "Ben, I know you wanted us to go no-contact, but I need you to pay back the $30k I loaned you. You said you’d have something after tax time but it’s been months and I’m just wondering what’s happening."

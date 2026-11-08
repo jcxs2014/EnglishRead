@@ -17,7 +17,7 @@ modified: "2026-11-08"
 **中文理解**：你个贱人。自私、懒惰、不负责任的小蠢货——睡在我家里，肚里装着我的酒食，脑子里没有一丝感激。你的睡眠是人生头一次睡进真正舒服的床的人才有的深度睡眠；你的睡眠是心安理得的人的睡眠；你的睡眠是傻子的睡眠。
 **关键词**：You bitch / irresponsible little cunt / belly full of my food / shred of gratitude / the sleep of a moron
 **为什么这样写**：章节用一句裸骂开场，接三个 Your sleep is the sleep of... 的排比——每一步都把「睡得香」重新定罪：舒适、心安、愚蠢，Mabel 越安稳，Rose 的账越不平；belly full of my food 把寄宿关系一口气降回主仆账本。
-**读者视角提示**：骂得越难听，越暴露恐惧——这是 Rose 第一次失去身体，措辞的失态本身就是剧情。
+**读者视角提示**：骂得越难听，越暴露恐惧——她头一回握着身体却怕握不住，措辞的失态本身就是剧情。
 
 > **原句 2:** "In sleep, as always, you relinquish your grip on the nerve endings in your body—a natural process, evolved to prevent you thrashing around when you dream. … Tonight, I focus on the sensations of your limp body, limbs lying there abandoned for the taking. … I focus all my attention on the nerve endings in your pinkie finger."
 **中文理解**：睡着时你总会松开对神经末梢的掌控——这是防止你做梦时乱挥的自然机制；今夜 Rose 不放过这个空档：她专注在瘫软身体的知觉上，四肢躺在那里像被遗弃了任人取用；她把全部注意力压到你小指的神经末梢上。
@@ -47,7 +47,7 @@ modified: "2026-11-08"
 **中文理解**：你很强，现在这么强，这么拼命想抓住自己的生活——直到此刻，你才真正在为它而战。哦，Mabel，我真为你骄傲。
 **关键词**：strong / so desperate / cling to your life / truly fighting for it / I’m so proud of you
 **为什么这样写**：占有的尽头是欣赏：so strong / so desperate 的复沓像教练在给学员数节拍，I’m so proud of you 把绑架写成了师徒——Rose 对 Mabel 的肯定在此刻是真的，这也正是最恐怖的地方：她连共情都能据为己有。
-**读者视角提示**：这句骄傲将直接延续到下一章——被夸奖的 Mabel 还是被按了下去，力气赢得的只是更彻底的接管。
+**读者视角提示**：这句骄傲收在接管完成的前一刻——被夸奖的 Mabel 还是被按了下去，力气赢得的只是更彻底的接管。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
