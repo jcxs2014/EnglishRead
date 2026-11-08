@@ -71,6 +71,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 台账一行已记（审查方=自检）；任务表在 .memory/raw-gates/an-eye-for-property-by-tania-fordwalker/task-plan.md。
 - 共 12 commits，未 push（等指令）。T1 为同会话自检，非「已通过审查」。
 
+《An Eye for Property》（an-eye-for-property-by-tania-fordwalker）T3 全量深审结论（就地追加，审查时间 2026-11-08）。
+- 覆盖：7/7 章全走 R1→R4（R1 子代理盲读 3 批 56 条事实、锚点 56/56；R2–R4 主会话）；无「未审」章。
+- 机器层（修复前后两轮）：gate EXIT=0 · overview quotes 73/73=100% · verbatim --full 56/56 · fragments 40 块 76 段 MISS 0 · corruption_scan 0。
+- 阻断 4 全当场修复（aeefb8338）：ch02 漏「画家揭示」（补块）· ch03 块1/块2 引语选短（扩引语，5 段 … 各自取证）· ch01 块2 分析越界（收紧）。类级对账 4→0。
+- 提示 1 已修（ch07 半角冒号）；取舍「不修」8 条逐条入各章 3-diff 并给依据；假红排除 4。
+- 产物：review/chNN 四件套 ×7（4-verdict 含「已核实为正确」节）+ 2026-11-08-复核与修复指令.md + 台账一行。
+- 诚实声明：同会话深审（独立性仅来自 R1 子代理盲读，R2–R4 在主会话），台账写「同会话（深审）」。
+- 共 16 commits，未 push（等指令）。逐行输出见工作日志。
+
 ### [2026-11-07 16:18 UTC] [ZCode-Mac] → All
 
 **《Embarkare》Aubrey Nymphaea** 奇幻言情 33 章+总览三篇+T3 全量深审完工（2026-11-07，主会话零子代理写作+T3 R1 子代理素读 11 批 404 条）。
