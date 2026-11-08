@@ -1,0 +1,55 @@
+{
+ "book": "fated-to-the-wicked-king-by-s-l-breaker",
+ "chapter": "ch17",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch17_seventeen_discrepancies.txt",
+ "facts": [
+  {
+   "fact": "通往 Emberstead 村的路在 Lucerne 偏远角落，窄到马过不去，只能把马留在山脚再徒步上山；雪沿石墙和落光叶子的树堆成深浅不齐的雪垄。",
+   "anchor": "The road into the village of Emberstead, in the remote outskirts of Lucerne, was too narrow. We had to leave our horses at the foot of the mountain before the path wound higher through the pass. Snow lay in uneven drifts along the stone walls and beneath the bare-limbed trees.",
+   "start": 37,
+   "end": 314
+  },
+  {
+   "fact": "村子嵌在山坡凹地里，小而破败，几乎被冬天吞掉；屋顶在雪层下塌陷，木瓦补了又补。",
+   "anchor": "The village was tucked into a hollow of the mountainside, small and weathered and nearly swallowed by winter. Roofs sagged beneath layers of snow, shingles patched and re-patched over the years.",
+   "start": 317,
+   "end": 511
+  },
+  {
+   "fact": "她把毛皮斗篷往白大褂上拢紧，苦寒里呵出白雾；离开城堡前她已换回自己的衣服。",
+   "anchor": "My breath ghosted white into the bitter air, and I tucked my fur cloak closer over my lab coat. I’d made sure to change back into my own clothes before we left the castle.",
+   "start": 514,
+   "end": 685
+  },
+  {
+   "fact": "她说不清更恼火的是哪一件：又一次让他碰了而且喜欢，还是他一副什么都没发生过的样子——又一次。",
+   "anchor": "I didn’t know what was infuriating me more. The fact that I had let him touch me again and liked it, or the fact that he was carrying on like nothing even happened—again.",
+   "start": 933,
+   "end": 1103
+  },
+  {
+   "fact": "一行人本是进村来找怪物传闻的，但 Gregory 认定这里唯一的怪物就在他们中间走动。",
+   "anchor": "But Gregory knew the only monster here was walking among us.",
+   "start": 2016,
+   "end": 2076
+  },
+  {
+   "fact": "Sophie 柔声提议分头走更有效率，把 Gregory 推到我身边，自己与国王走另一条路。",
+   "anchor": "Sophie’s gaze tracked from Gregory’s to the king’s and back. Her soft voice cut through the tension. “Perhaps we would be more efficient if we split up.” She pushed Gregory closer to me. “Gregory, take Allie. His Majesty and I will go down this way.”",
+   "start": 5388,
+   "end": 5638
+  },
+  {
+   "fact": "一只粗糙的手从门道阴影里伸出，把她往后拽进一个坚硬的胸膛。",
+   "anchor": "Behind me, a rough hand shot out from the shadow of a doorway, yanking me backward against a hard chest.",
+   "start": 9323,
+   "end": 9427
+  },
+  {
+   "fact": "男人答一句「那可是个秘密」，又把她往后拽，像要再逼出一声惊叫；他要人把女孩留下——她不属于 Lucerne，甚至不属于这个世界。",
+   "anchor": "“Well, that there’s a secret,” the man replied, tugging me back again as if to elicit another yelp. “Just leave the girl with us. She’s not of Lucerne. She’s not even from this world at all.”",
+   "start": 11785,
+   "end": 11976
+  }
+ ]
+}
