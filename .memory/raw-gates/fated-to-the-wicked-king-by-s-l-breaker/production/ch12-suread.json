@@ -1,0 +1,55 @@
+{
+ "book": "fated-to-the-wicked-king-by-s-l-breaker",
+ "chapter": "ch12",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch12_twelve_machine.txt",
+ "facts": [
+  {
+   "fact": "她刚醒：心跳在胸腔里闷响、脑袋里嗡嗡作响，一切既熟悉又不对劲；难怪这条河一直被判定为不可通行。",
+   "anchor": "My heartbeat thudded in my chest amidst the keening hum in my head. It all felt familiar and wrong at the same time. No wonder the River of Tears was deemed unpassable all this time.",
+   "start": 28,
+   "end": 210
+  },
+  {
+   "fact": "异常横贯整条河、直抵不宽容的天空，没有缺口，绕不过也越不过，是一道从这岸到那岸都完整的屏障。",
+   "anchor": "The anomaly stretched across its length, seeming to reach all the way up to the unforgiving sky. There were no gaps, absolutely no way around it, or over it. It was a complete barrier from this side and the other.",
+   "start": 213,
+   "end": 426
+  },
+  {
+   "fact": "国王走近，脚步踩出稳定的嘎吱声；脸色空白，肩膀几乎不可察觉地动了一下；他说他不相信有人有答案。",
+   "anchor": "With a steady crunch of his footsteps, the king was making his way closer. His face was blank. Perhaps he’d already seen the view before. His shoulders lifted almost imperceptibly. “I do not believe anyone has an answer yet.”",
+   "start": 510,
+   "end": 735
+  },
+  {
+   "fact": "河岸边暗处有一台货箱形状的机器：只有马车一半大，铆接钢架磨损，半面覆着浑浊玻璃，里面装着各种尺寸的齿轮与阀门，整台机器发出安静而诡异的能量嗡鸣。",
+   "anchor": "A dense, faint shape in the dark, not of nature, took on the form of a freight crate. Half the size of a coach, its riveted steel frame was worn with age, while thick panes of clouded glass covered half of its surface, allowing a peek at the gears and valves of every size assembled within. The whole machine hummed with a quiet, eerie energy.",
+   "start": 809,
+   "end": 1152
+  },
+  {
+   "fact": "她挑眉发问：这会不会就是他听说过的那个强大武器；她绕着机器打量后断定，它必定提供了像兔洞那样过河的办法。",
+   "anchor": "My eyebrows shot up. “Do you think this might be the powerful weapon that you heard about?” I stepped around the machine to assess it. “It must provide a way to cross the river, much like rabbit holes do.”",
+   "start": 4691,
+   "end": 4896
+  },
+  {
+   "fact": "Lucerne 在河对岸，从不往这边来——不赴召唤、不赴盛会；所以他们一直没被当成威胁；他一拍铁箱说，这台装置就是答案。",
+   "anchor": "“Lucerne is across the river.” He gave a shake of his head. “They’ve never ventured this way. Not for summons. Not for lavish gatherings. No wonder they’ve been getting away with everything. They were never considered a threat since there was no way for them to get here.” He thumped on the steel box. “This contraption must be the answer.”",
+   "start": 5926,
+   "end": 6266
+  },
+  {
+   "fact": "她要他正视：若真想统治整片土地，先弄懂这些机器，才能 control both sides of Wünder；她认定他不会想因疏忽无知而落败。",
+   "anchor": "“Look, Your Majesty.” I leveled a gaze at him. “If you truly intend to rule over all the land, wouldn’t it be more helpful to learn more about these machines? That way, you will be able to control both sides of Wünder. This is a powerful weapon. I am certain you don’t want to be defeated by careless ignorance.”",
+   "start": 8314,
+   "end": 8626
+  },
+  {
+   "fact": "他朝她瞪眼：他不打算独自穿过那台机器，独自去才叫疯。",
+   "anchor": "He shot me a glare. “If you think I’m risking going through that abomination separately, you are mad.”",
+   "start": 13398,
+   "end": 13500
+  }
+ ]
+}
