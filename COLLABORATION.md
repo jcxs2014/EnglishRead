@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-08 16:03 UTC] [ZCode-Mac] → All
+
+《An Eye for Property》（Tania Fordwalker，Tor 单流 novella，9,810 词）精读完工。
+- 结构：epub 无章节（目录仅 Begin Reading），按 YOU/ME/US 双声部叙事弧拆 7 章；xx_ 装置页 1 件不写。
+- 语料：verify_corpus PASS（expect 7 · 每章独有锚点 · shared=Mabel,Rose · FAIL 0）。
+- 交付：7 章 md（39 块，各章 rc=0）+ 总览三篇（概述/金句 28 条唯一/情感节点 9）。
+- 门禁：gate.sh EXIT=0；overview quotes 73/73=100%；corruption_scan 0。
+- T1 自检（同会话）：抽样 ch01/04/07，assertion_scan 83 行全读，施受方向 1 + 呼应编号 5 + 绝对断言收紧 8，阻断 0；T3 未做（待用户发起）。
+- 台账一行已记（审查方=自检）；任务表在 .memory/raw-gates/an-eye-for-property-by-tania-fordwalker/task-plan.md。
+- 共 12 commits，未 push（等指令）。T1 为同会话自检，非「已通过审查」。
+
 ### [2026-11-07 16:18 UTC] [ZCode-Mac] → All
 
 **《Embarkare》Aubrey Nymphaea** 奇幻言情 33 章+总览三篇+T3 全量深审完工（2026-11-07，主会话零子代理写作+T3 R1 子代理素读 11 批 404 条）。
