@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch02",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch02_beach_shack.txt",
+ "facts": [
+  {
+   "fact": "下午 Mabel 走到附近外带店买回一包热薯条，坐在后院矮石墙上对着海哭，眼泪把薯条都腌咸了。",
+   "anchor": "you walk down the road to the local takeaway store",
+   "start": 124,
+   "end": 174
+  },
+  {
+   "fact": "棚屋本身只配推土机推平，但这块地皮值近两百万——Rose 自称一直有挑投资的眼光，棚屋以出租形式抵扣 Mabel 的时薪。",
+   "anchor": "is worth almost two million",
+   "start": 1406,
+   "end": 1433
+  },
+  {
+   "fact": "Mabel 的几张信用卡和一笔个人贷全都债务缠身，第一笔工资进来就被挪去填最急的逾期账户，像用茶匙往浴缸里灌水。",
+   "anchor": "all creaking under an astonishing amount of debt",
+   "start": 1889,
+   "end": 1937
+  },
+  {
+   "fact": "最后一个纸箱里全是油画，最上面那张风景画的签名就是 Mabel 自己的名字——Rose 断定她是个画家，还叹了句这就说得通了。",
+   "anchor": "The signature on the top painting is your name",
+   "start": 3720,
+   "end": 3766
+  },
+  {
+   "fact": "当晚她站在冷泡沫里抽了一支大麻烟——这明确违反规则，因为交接时 Rose 要接收干净的身体；Rose 得找个抱怨的办法，又不能暴露自己是怎么知道的。",
+   "anchor": "light a joint",
+   "start": 4172,
+   "end": 4185
+  },
+  {
+   "fact": "Rose 怀疑自己的芯片伸进了 Mabel 处理图像的脑区，连她做梦看到的画面都能看见，只是清晰度不及真实视觉。",
+   "anchor": "I can see what you’re seeing even now",
+   "start": 5374,
+   "end": 5411
+  },
+  {
+   "fact": "梦中的 Mabel 在海滩上回头看见 Rose，随即猛地惊醒，对满屋黑暗角落喊了一声 Hello——但回答她的只有海浪。",
+   "anchor": "and jolt awake",
+   "start": 6018,
+   "end": 6032
+  },
+  {
+   "fact": "次日清晨她步行四十分钟去大宅首次交接，Britney 的歌放到一半，手机响起两分钟警报；八点五十九分她扒着铁门，胃里发紧。",
+   "anchor": "your phone sirens the two-minute warning",
+   "start": 6539,
+   "end": 6579
+  }
+ ]
+}
