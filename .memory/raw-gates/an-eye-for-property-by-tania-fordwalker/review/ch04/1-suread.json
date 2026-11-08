@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch04",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch04_erosion_weeks.txt",
+ "facts": [
+  {
+   "fact": "Mabel 在应用评价框写下「Passenger came to my house. I thought privacy was guaranteed???」给乘客留两星差评。",
+   "anchor": "In the review box, you swipe: Passenger came to my house",
+   "start": 314,
+   "end": 370
+  },
+  {
+   "fact": "Mabel 发现 DICKHEAD 晨间短信全被标已读，关掉面部识别、设置密码；Rose 暗自把密码记下。",
+   "anchor": "switch off facial recognition and set a password",
+   "start": 1315,
+   "end": 1363
+  },
+  {
+   "fact": "眉毛被逐渐拔除，第三周 Mabel 才在放大镜里发现毛孔起皱；同一则差评写了三版越来越客气的措辞才提交。",
+   "anchor": "the gradual removal of your brows until the third week",
+   "start": 2057,
+   "end": 2111
+  },
+  {
+   "fact": "Jacquelyn 的丈夫在早午餐叫她 Temu Rose、开了不下三个下流玩笑，被 Rose 一句没收小蓝药打断；Jackie 嫌身体不合适；Rose 考虑换 Driver 但不肯冒失去免费搭乘的风险——换熟人更便宜。",
+   "anchor": "three lewd jokes about our appearance over brunch",
+   "start": 3753,
+   "end": 3802
+  },
+  {
+   "fact": "Mabel 在杂货店撞见 DICKHEAD 搂着肚脐镶水钻的瘦削黑发年轻女子（对方没注意她）；当晚翻看合照哭着入睡。",
+   "anchor": "DICKHEAD with his arm around a skinny young brunette",
+   "start": 4208,
+   "end": 4260
+  },
+  {
+   "fact": "哭夜后次日交接，Mabel 双眼红肿到冷霜黄瓜片都救不了；Rose 拒以这副样子出门、取消行程，给她一星。",
+   "anchor": "beyond the help of cold cream and cucumber slices",
+   "start": 5152,
+   "end": 5201
+  },
+  {
+   "fact": "四个月后评分跌破批准门槛，两人被叫去 Splice of Life，借有冲浪晒痕的 Tec 完成第一次真正对话；Mabel 说有时觉得被监视，Tec 称潜意识焦虑正常、心理师免费但须告知 Passenger（法定全披露权）且影响时薪，Mabel 改口说想多了。",
+   "anchor": "your ratings have dropped below the approved threshold",
+   "start": 5344,
+   "end": 5398
+  },
+  {
+   "fact": "Rose 借 Tec 劝 Mabel 辞掉麦当劳、把时间卖给自己：开口要每周完整五天四十小时（法定上限），Mabel 勉强只同意多给一天。",
+   "anchor": "the full five days—forty hours—per week",
+   "start": 6917,
+   "end": 6956
+  }
+ ]
+}

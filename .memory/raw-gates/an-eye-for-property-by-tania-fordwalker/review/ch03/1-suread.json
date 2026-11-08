@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch03",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch03_marble_silence.txt",
+ "facts": [
+  {
+   "fact": "Rose 用 Mabel 的脚输入门禁码走上自家车道：清洁工来过，大理石台面、吊灯、壁炉都收拾妥当。",
+   "anchor": "I tap in the gate code and walk up my driveway",
+   "start": 17,
+   "end": 63
+  },
+  {
+   "fact": "更衣室唯一挂画是 2027 年 Archibald 奖入围肖像；画家当年巴结她这个潜在赞助人，得钱没得名。",
+   "anchor": "an Archibald Prize finalist in 2027",
+   "start": 873,
+   "end": 908
+  },
+  {
+   "fact": "Rose 捡起 Mabel 掉落的手机（面部识别解锁），搜索乘客不在控制时仍醒着的问题；Splice of Life FAQ 坚称不可能。",
+   "anchor": "Splice of life passenger awake all the time",
+   "start": 2391,
+   "end": 2434
+  },
+  {
+   "fact": "短信线程（DICKHEAD=Ben）：Mabel 从 OCT 1 起追讨借出的 $30k，NOV 24 发「I signed up to Splice.」，JAN 3 发「Signed a contract. Getting the chip in tmw.」",
+   "anchor": "the $30k I loaned you",
+   "start": 2862,
+   "end": 2883
+  },
+  {
+   "fact": "Ben 今日 9:22 回「bullshit.」并补发：你不许他拍照，自己却卖身体。",
+   "anchor": "So much for not selling ur body.",
+   "start": 4306,
+   "end": 4338
+  },
+  {
+   "fact": "Rose 看明债源是这个男人——不，是个男孩——不是 Gucci、毒品或旅行，是 Ben 欠的钱。",
+   "anchor": "Here is the source of your debt",
+   "start": 4342,
+   "end": 4373
+  },
+  {
+   "fact": "Rose 镜前检视身体，带去美容院（拔眉）与美发店，计划数周零敲碎打改造让 Mabel 察觉不到；逛完精品店餐厅晚八点到家。",
+   "anchor": "for a gradual transformation you won’t notice",
+   "start": 6541,
+   "end": 6586
+  },
+  {
+   "fact": "Rose 给首次评分：四星、为大麻扣一星但评论不提毒品——还没想好怎么解释知情——随后走回小屋省她通勤。",
+   "anchor": "I give you four stars",
+   "start": 7051,
+   "end": 7072
+  }
+ ]
+}

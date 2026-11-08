@@ -1,0 +1,239 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/an-eye-for-property-by-tania-fordwalker/ch03 marble silence.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch03_marble_silence.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Up the back I keep a trio of angled full-length mirrors, and above those, a portrait of myself. This is the only room in",
+          "ok": true,
+          "pos": 689
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Ben, I know you wanted us to go no-contact, but I need you to pay back the $30k I loaned you. You said you’d have someth",
+          "ok": true,
+          "pos": 2752
+        },
+        {
+          "text": "I’m going to try calling your mum",
+          "ok": true,
+          "pos": 3138
+        },
+        {
+          "text": "I signed up to Splice",
+          "ok": true,
+          "pos": 3948
+        },
+        {
+          "text": "Signed a contract. Getting the chip in tmw",
+          "ok": true,
+          "pos": 3977
+        },
+        {
+          "text": "U wouldn’t let me take photos of u, but u do this",
+          "ok": true,
+          "pos": 4111
+        },
+        {
+          "text": "So much for not selling ur body",
+          "ok": true,
+          "pos": 4161
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Let me tell you, child, when you’re lying in a hospital bed befouling yourself as your body falls apart around you, you ",
+          "ok": true,
+          "pos": 5428
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I have the beautician pluck a few stray hairs from the edges of your eyebrows—only subtly, for now. Arguably what I’m do",
+          "ok": true,
+          "pos": 6066
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I dress you in your own clothes and pull the Splice of Life app up on my phone. For your first rating, I give you four s",
+          "ok": true,
+          "pos": 6771
+        }
+      ],
+      "words": 56
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 116,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. Chapter Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 5,
+    "block_range": [
+      5,
+      8
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1344,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 6 章中位 6、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

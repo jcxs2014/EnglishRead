@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch02",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch02_beach_shack.txt",
+ "facts": [
+  {
+   "fact": "当天下午 Mabel 在 Rose 租给她的海滩棚屋拆包，傍晚买薯条坐在后院矮墙边就眼泪吃。",
+   "anchor": "unpack at the beach shack I leased to you",
+   "start": 26,
+   "end": 67
+  },
+  {
+   "fact": "棚屋是 Rose 最早的投资之一，七十年代建、从未翻新，地皮价值接近两百万。",
+   "anchor": "worth almost two million",
+   "start": 1409,
+   "end": 1433
+  },
+  {
+   "fact": "Mabel 首笔工资到账就转去填最急的欠款；Rose 盘算你越管不好钱越需要她。",
+   "anchor": "It will make you need me more",
+   "start": 2621,
+   "end": 2650
+  },
+  {
+   "fact": "Mabel 拆出与瘦印度女孩在布鲁克林大桥的合影，满屋无挂钩，照片靠在床边墙上。",
+   "anchor": "prop the photograph against the wall",
+   "start": 3079,
+   "end": 3115
+  },
+  {
+   "fact": "最后一箱是无框油画，画架支进第二个睡房（Rose 侄子小时候度假住的），顶层画签名是 Mabel 自己。",
+   "anchor": "The signature on the top painting is your name.",
+   "start": 3720,
+   "end": 3767
+  },
+  {
+   "fact": "夜里 Mabel 在冷泡沫里抽大麻，明文违规：早上九点首次交接，Rose 本应收到干净的身体。",
+   "anchor": "Your first handover is at nine AM",
+   "start": 4224,
+   "end": 4257
+  },
+  {
+   "fact": "Mabel 入睡后 Rose 借芯片看她的梦；梦中她转身直视 Rose 随即惊醒，扫视黑暗角落喊 Hello。",
+   "anchor": "You look at me—",
+   "start": 5999,
+   "end": 6014
+  },
+  {
+   "fact": "次日早上 Mabel 步行四十分钟到宅邸首次交接，两分钟警告响起，八点五十九扒着锻铁门向内看。",
+   "anchor": "Eight fifty-nine AM.",
+   "start": 6864,
+   "end": 6884
+  }
+ ]
+}

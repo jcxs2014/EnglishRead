@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch07",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch07_when_im_good_and_ready.txt",
+ "facts": [
+  {
+   "fact": "叙述者以 Mabel 的身份喝令男孩 Ben 把手拿开，Ben 受惊松手唤她 Mabel?",
+   "anchor": "Get your hands off me, boy",
+   "start": 6,
+   "end": 32
+  },
+  {
+   "fact": "她滴血穿过房间打开暗藏保险柜，把留作应急的一万现金舀进纸袋，说是给 Ben 的麻烦补偿。",
+   "anchor": "scoop the ten thousand in cash I keep for emergencies",
+   "start": 367,
+   "end": 420
+  },
+  {
+   "fact": "她命令 Ben 拉黑 Mabel 号码永不联系、替他清偿欠 Mabel 的债，又谎称认识危险人物（自承是谎：房东不是黑手党）；Ben 抢钱匆匆离开。",
+   "anchor": "I’m a landlord, not a mafioso",
+   "start": 1233,
+   "end": 1262
+  },
+  {
+   "fact": "她自估还有三天「你」就到期接管（能撑几分钟、练熟或可数天、一周撑不住），随即打电话给会计和房产经纪人，决定退居意大利。",
+   "anchor": "I have three days before you’re due to take over again",
+   "start": 1410,
+   "end": 1464
+  },
+  {
+   "fact": "Splice of Life 就今晨掉话来电回访，她答已重新协商、马上过来；随后签下改工时与地点的新约；Tec 要激活 Mabel 签字时 blink 撑住、用「你」的腔调替答：Rose 给了无法拒绝的提议。",
+   "anchor": "Rose is cool. She made me an offer I couldn’t refuse.",
+   "start": 2990,
+   "end": 3043
+  },
+  {
+   "fact": "她搬进那不勒斯以南一栋整洁小别墅；新约名义上周末归「你」但她不交权，代双方写评论；又卖掉无用房产，海滩破屋卖价几乎与庄园相当。",
+   "anchor": "I move to a neat little villa south of Naples.",
+   "start": 3052,
+   "end": 3098
+  },
+  {
+   "fact": "只有 Prisha 不信移居意大利失联的说辞、借短信追问旧事（Lenah Valley 住一个月就走的室友），她便制造争吵甩掉 Prisha；三周后佛罗伦萨分店借「例行检查」强制换控，她被迫苦撑。",
+   "anchor": "I manufacture a fight to get rid of her",
+   "start": 4054,
+   "end": 4093
+  },
+  {
+   "fact": "周六她发现刀握在自己举起的手中、刀刃朝内、刀尖抵着太阳穴，此后周末闭门、世界缩到单床；周四在人行道咖啡馆惊觉打翻黑咖啡；结尾她安抚「你」：你的时间会来——等我准备好了再说（随后连出三个空的 ME 小节）。",
+   "anchor": "When I’m good and ready.",
+   "start": 5850,
+   "end": 5874
+  }
+ ]
+}

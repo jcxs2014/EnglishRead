@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch01",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch01_surgery_and_first_handover.txt",
+ "facts": [
+  {
+   "fact": "你（Mabel Yang）全程清醒地做完脑部手术，向 Tec 报出姓名、地点 Splice of Life、年份 2039，芯片正接入神经通路。",
+   "anchor": "It’s 2039.",
+   "start": 1010,
+   "end": 1020
+  },
+  {
+   "fact": "Tec 复述合同：初始一年、双方满意续签永久；Driver 禁怀孕与身体改造，Passenger 禁性行为与乳糖。",
+   "anchor": "Initial contract is for a year",
+   "start": 2353,
+   "end": 2383
+  },
+  {
+   "fact": "工时每周五、六两天早九晚九，三个月试用期后可重议，通勤自理、须提前五分钟到门口。",
+   "anchor": "Fridays and Saturdays, nine AM to nine PM",
+   "start": 3133,
+   "end": 3174
+  },
+  {
+   "fact": "试用期内退出须偿还一半签约奖金覆盖芯片抹除费并交回住宿。",
+   "anchor": "repay half the hiring bonus",
+   "start": 3850,
+   "end": 3877
+  },
+  {
+   "fact": "Rose 在交接测试中醒来（bug），谎称最后记忆是一月三日的扫描，向 Tec 隐瞒。",
+   "anchor": "I remember my last scan; January third",
+   "start": 6146,
+   "end": 6184
+  },
+  {
+   "fact": "唯一关心过她的侄子在她决定换新身体带走遗产后不再理会她。",
+   "anchor": "taking his inheritance with me",
+   "start": 6901,
+   "end": 6931
+  },
+  {
+   "fact": "Rose 拒换更贵 Driver：她有六十多处房产的组合，认定 Mabel 划算——要的是时间不是奢华。",
+   "anchor": "I built a portfolio of over sixty properties",
+   "start": 8954,
+   "end": 8998
+  },
+  {
+   "fact": "Tec 一键切回、Mabel 重新接管身体，但 Rose 仍然醒着。",
+   "anchor": "But I’m still here.",
+   "start": 10118,
+   "end": 10137
+  }
+ ]
+}
