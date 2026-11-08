@@ -18,7 +18,7 @@ modified: "2026-11-08"
 
 **中文理解**：钟楼里齿轮咬合的声响原本是永远不会停的背景音，如今这个「一直在」的东西没了——作者把「失去」写成一个从句末尾的否定式，让读者读到 was no longer 才发觉丢掉的不是声音而是节律。
 
-**关键词**：perpetual / rhythmic / constant / was no longer
+**关键词**：rhythmic / clock face / constant / was no longer
 
 **为什么这样写**：句首用 Although 让步、句中用 which used to be a constant 回望、句尾用 was no longer 收刀，三段递进把「停摆」写成有前史的失落；紧接着的 Silence 与 That was more wearisome 两句独立成段，把这份安静实体化，读者先感到不对，再去找原因。
 
@@ -38,7 +38,7 @@ modified: "2026-11-08"
 
 **中文理解**：消息一天比一天坏：被夷平的城市、被屠的国度。一说国王只是被复仇烧空了脑子，一心要清算那些背叛并谋杀他家人的家伙；另一说simply是王冠本身把他逼成了疯子。
 
-**关键词**：vanquished / vengeance / betrayed / crown
+**关键词**：vanquished / vengeance / betray / crown
 
 **为什么这样写**：作者不站队，让两种说法各占一句——Some said 与 Others said 形成对称的传闻结构；两种解释指向同一件事（清算与家人被害），差别只在归因，于是「他到底是什么」被留成悬案交给读者判断。
 
@@ -68,7 +68,7 @@ modified: "2026-11-08"
 
 **中文理解**：这台机器结构复杂，她独自造了将近八个月，没有团队帮忙，如今只差最后一个零件；近得几乎能尝到。
 
-**关键词**：eight months / no team / final component / could taste it
+**关键词**：eight months / entire team / final component / could taste it
 
 **为什么这样写**：用 I could taste it 把抽象的「接近完成」转成味觉，进度靠身体感知而不是数字；only lacking one final component 里的 only 把缺口压到最小，与八个月的漫长形成对冲，读者感到的正是这种焦躁的落差。
 
@@ -125,4 +125,5 @@ modified: "2026-11-08"
 | clock tower | 钟楼 | The continuous banging of my wrench echoed like a bell against the brass pipework wound throughout the innards of the entire structure of the clock tower around me. |
 | throne | 王位 | His reputation as a most feared assassin already preceded him, having slaughtered dozens of kingdoms before taking the throne. |
 
-## 一句话总结**：一座停摆的钟楼里，那个造得出奇迹的机械师仍不肯承认——八个月前她救下的那个男人，如今正要挑新娘。
+## 一句话总结
+一座停摆的钟楼里，那个造得出奇迹的机械师仍不肯承认——八个月前她救下的那个男人，如今正要挑新娘。
