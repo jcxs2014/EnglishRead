@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch03",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch03_marble_silence.txt",
+ "facts": [
+  {
+   "fact": "Rose 交接后第一次控体：输入门牌密码，用 Mabel 的脚走上自家车道；房子一尘不染，正等着她继续享受。",
+   "anchor": "I tap in the gate code and walk up my driveway on your feet",
+   "start": 17,
+   "end": 76
+  },
+  {
+   "fact": "化妆室挂着全宅唯一一幅画：2027 年阿切博德奖入围作，画家靠巴结潜在金主换来了经济上的回报。",
+   "anchor": "an Archibald Prize finalist in 2027",
+   "start": 873,
+   "end": 908
+  },
+  {
+   "fact": "Mabel 的手机弹出前男友 Ben 的消息；短信史显示她借出去三万块，追讨数月无果，最后发出的消息是我注册了 Splice、明天植入芯片。",
+   "anchor": "pay back the $30k I loaned you",
+   "start": 2853,
+   "end": 2883
+  },
+  {
+   "fact": "Rose 翻完短信找到债务的根源：不是名包不是毒品，是一个男人——不，是个男孩。",
+   "anchor": "It’s a man. Hah, no.",
+   "start": 4480,
+   "end": 4500
+  },
+  {
+   "fact": "Rose 的身体哲学：人在病床上身体崩塌时才明白，你首先是颅骨里的一团脑；现在她是 Mabel 身体里的脑，打算把这具身体打造成配得上自己的容器。",
+   "anchor": "You are a brain in a body",
+   "start": 5734,
+   "end": 5759
+  },
+  {
+   "fact": "Rose 让美容师先从眉缘拔掉几根杂毛——暂时只来细微的，并计划花几周零敲碎打地改造，让 Mabel 察觉不到。",
+   "anchor": "pluck a few stray hairs from the edges of your eyebrows",
+   "start": 6256,
+   "end": 6311
+  },
+  {
+   "fact": "给首次评分时她打出四星、为大麻扣掉一星，但评论里只字不提——毕竟她们现在连脚都是共享的。",
+   "anchor": "we share feet now, after all",
+   "start": 7152,
+   "end": 7180
+  },
+  {
+   "fact": "当晚她步行把 Mabel 送回棚屋——省了通勤，也当给她松弛的大腿锻炼。",
+   "anchor": "because your flabby thighs need the workout",
+   "start": 7368,
+   "end": 7411
+  }
+ ]
+}
