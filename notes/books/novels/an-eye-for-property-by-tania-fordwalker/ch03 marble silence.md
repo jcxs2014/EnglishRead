@@ -13,16 +13,16 @@ modified: "2026-11-08"
 - **叙事手法**：短信原文以日期＋署名的排版直接嵌入，让前男友以文本形态入场；全章动词都是管理动词——调查、清点、塑形、评分。
 
 ## 精读
-> **原句 1:** "This is the only room in the house where I have bothered to hang a painting: an Archibald Prize finalist in 2027. The painter was a talented young man who had the economic good sense to suck up to a potential patron, and he was duly rewarded—financially, if not critically."
+> **原句 1:** "Up the back I keep a trio of angled full-length mirrors, and above those, a portrait of myself. This is the only room in the house where I have bothered to hang a painting: an Archibald Prize finalist in 2027. The painter was a talented young man who had the economic good sense to suck up to a potential patron, and he was duly rewarded—financially, if not critically."
 **中文理解**：全宅只有化妆室挂了一幅画：2027 年阿切博德奖入围的肖像，画中是还没垮掉的她自己；画家是个有经济头脑的年轻人，懂得巴结潜在金主，也如期得到了回报——钱上的，不是口碑上的。
 **关键词**：bothered to hang / Archibald Prize finalist / suck up to a potential patron / duly rewarded
 **为什么这样写**：这幅肖像是 Rose 的自我陈列：挂在全宅唯一挂画之处的化妆室——财产式的自尊；对画家的评语（suck up to a potential patron）用生意眼光给艺术圈定了价，艺术在她这里只是另一种可以收购的资产。
 **读者视角提示**：记住这幅画像与这面三联镜——它们还会在后续章节最关键的几场戏里出现。
 
-> **原句 2:** "Ben, I know you wanted us to go no-contact, but I need you to pay back the $30k I loaned you. You said you’d have something after tax time but it’s been months and I’m just wondering what’s happening."
-**中文理解**：Mabel 发给前男友 Ben 的短信被 Rose 一条条读到：她借出去三万块，从十月追到十一月，从好商量到要打电话给他妈妈，最后两条只有——我注册了 Splice、明天植入芯片。
-**关键词**：no-contact / pay back / $30k / tax time / wondering what’s happening
-**为什么这样写**：短信史是现成的取证材料：不需要一句叙述，日期与措辞的升级（客套—催促—威胁—孤注一掷）自己讲完了一段感情史加财务史；结尾两条签下身体合同的消息，把「卖身还债」写得不动声色。
+> **原句 2:** "Ben, I know you wanted us to go no-contact, but I need you to pay back the $30k I loaned you. You said you’d have something after tax time but it’s been months and I’m just wondering what’s happening. … I’m going to try calling your mum. … I signed up to Splice. … Signed a contract. Getting the chip in tmw. … U wouldn’t let me take photos of u, but u do this? … So much for not selling ur body."
+**中文理解**：Mabel 发给前男友 Ben 的短信被 Rose 一条条读完：十月一日的开场还讲道理——借出去的三万、说好的报税季、拖了几个月，她只是想知道怎么了；接着是威胁——今天再没音信就打电话给他妈妈；然后是十一月宣布「我注册了 Splice」、一月三日「签了合同，明天植入芯片」；Ben 的回骂最诛心——不许拍你照片的人，转头去卖身体。
+**关键词**：no-contact / pay back / $30k / calling your mum / selling ur body
+**为什么这样写**：短信史是现成的取证材料：不需要一句叙述，日期与措辞的升级（客套—催促—威胁—孤注一掷）自己讲完了一段感情史加财务史；Ben 那句 So much for not selling ur body 把羞辱钉在最痛处——她卖身还的债里，恰恰有他欠着的那笔。
 **读者视角提示**：这笔三万的账是 Mabel 签约的直接原因——债务在这个故事里从来不只是钱。
 
 > **原句 3:** "Let me tell you, child, when you’re lying in a hospital bed befouling yourself as your body falls apart around you, you realise what matters. You are a brain in a body long before any other concern enters the picture, and you are a brain in a body after all else falls away. Currently, I am a brain in your body, and I mean to craft that body into a worthy vessel."

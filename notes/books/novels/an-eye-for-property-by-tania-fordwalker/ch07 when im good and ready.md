@@ -27,7 +27,7 @@ modified: "2026-11-08"
 
 > **原句 3:** "I move to a neat little villa south of Naples. … Weekends are a time of vigilance now. On paper, that’s when our new contract allows you control. I, of course, do not. To keep up appearances, I leave Splice reviews from the both of us. The inconvenience is minor. In fact, I begin to enjoy writing from your perspective. By all accounts, you are having a wonderful time."
 **中文理解**：我搬进那不勒斯以南一栋整洁的小别墅。……如今周末是警戒时间：纸面上，新合同允许你在周末接管；我呢，当然不让。为了做戏，我用你们两人的账号各留一条评价——这点麻烦不算什么，何况我渐渐写出了乐趣。在所有记录里，你玩得开心极了。
-**关键词**: villa south of Naples / time of vigilance / allows you control / keep up appearances / having a wonderful time
+**关键词**：villa south of Naples / time of vigilance / allows you control / keep up appearances / having a wonderful time
 **为什么这样写**：全章最冷的一段发明：连「逃跑的可能」都被合同条款预先没收（allows you control / I, of course, do not）——公文的虚拟语气与独裁者的 of course 并排；替 Mabel 写好评是把受害者做成持续更新的好评证据，By all accounts 一词点破：所有账面都对，只有人不在了。
 **读者视角提示**：监控闭环在此完成——评分系统曾经是 Mabel 唯一的武器，现在连这个声音都属于 Rose。
 

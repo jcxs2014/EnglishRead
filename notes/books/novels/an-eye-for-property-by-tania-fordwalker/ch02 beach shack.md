@@ -6,7 +6,7 @@ modified: "2026-11-08"
 # 02. Chapter Two
 
 ## 本章导航
-- **一句话概括**：Mabel 搬进 Rose 抵作部分工资的海滩棚屋——还债、拆箱、把画靠墙立着；她夜里抽大麻违规、梦里隐约「看见」了什么，清晨走向大宅的首次交接。
+- **一句话概括**：Mabel 搬进 Rose 抵作部分工资的海滩棚屋——还债、拆箱、一幅签着她自己名字的油画道破画家身份；她夜里抽大麻违规、梦里隐约「看见」了什么，清晨走向大宅的首次交接。
 - **情感弧线位置**：落差章——Mabel 在窘迫里安家，Rose 在俯视里盘账；一条情绪线往下坠，另一条稳稳地记账。
 - **Tropes 兑现/反转**：「穷女孩签下可疑合同」的兑现章；反转在棚屋本身——破房子底下是地皮近两百万的资产，穷住处里藏着富产权。
 - **人物弧线**：Mabel 用物品清点自己（垃圾袋里的衣服、画箱、与友人的合照）；Rose 则逐项登记她的身体——胖、纹身、抽大麻——监控全面上线。
@@ -25,19 +25,25 @@ modified: "2026-11-08"
 **为什么这样写**：债务用 creaking（吱嘎作响）来写，把账目压成一件不堪重负的旧家具；垃圾袋与杂牌货的清单式罗列不给一句解释，人物的经济状况由物品自己报数。
 **读者视角提示**：Mabel 的穷不是背景板——它正是她签下这份合同的原因，也是 Rose 眼里「投资价值」的一部分。
 
-> **原句 3:** "You stand with your feet in the cold hissing foam and light a joint. This is expressly against the rules. Your first handover is at nine AM and I’m supposed to receive your body clean of substances. I’ll have to find some way to complain—without revealing how I found out."
+> **原句 3:** "No. More art. This time, a stack of unframed canvases ridged with whorls of thick oil paint. The top painting is a landscape, mountains embracing a bay in bright slashes of colour. … Oh dear. You are an artist. That explains so much."
+**中文理解**：她预想最后一箱是「实用品」——也许是好衣服；打开却又是画：无框油画摞成一叠，厚油彩起了棱，最上面那张风景画用亮色的大笔触画着山环抱海湾。Rose 在心里叹道：哦天，你是个画家——这就说得通了。
+**关键词**：More art / unframed canvases / thick oil paint / an artist / explains so much
+**为什么这样写**：抖包袱只给五个词（No. More art.）——「实用衣物」的预期落空成画箱；You are an artist 与 That explains so much 之间什么都没解释，Rose 的偏见自动补完了全部推理（穷、怪、不体面，原来都归「艺术家」管），阶级判断借一声叹气完成。
+**读者视角提示**：记住这摞靠墙立着的画——「不画画」这件贯穿全书的刑具，从这口箱子起就立在这具身体的新家里。
+
+> **原句 4:** "You stand with your feet in the cold hissing foam and light a joint. This is expressly against the rules. Your first handover is at nine AM and I’m supposed to receive your body clean of substances. I’ll have to find some way to complain—without revealing how I found out."
 **中文理解**：深夜她赤脚站在嘶嘶作响的冷泡沫里抽了一支大麻烟——明确违反规则，因为明早九点交接时，Rose 按约要接收一具「干净」的身体；Rose 一边记下这笔账，一边发愁：怎么抱怨出去，又不暴露自己根本不该知道这件事。
 **关键词**：light a joint / against the rules / clean of substances / complain / how I found out
 **为什么这样写**：这一段是全书戏剧反讽的模板：规则先亮出来（expressly against the rules），违规立刻发生，而最刺的是监督者的第一反应不是「要不要告状」而是「怎么告才不穿帮」——without revealing how I found out 把监视者自己的秘密第一次摆上台面。
 **读者视角提示**：注意 Rose 的措辞是 receive your body——身体在合同语言里是可交付的货物，连一支大麻都算「货损」。
 
-> **原句 4:** "My chip must have tendrils in the image processing part of your mind, because I can see what you’re seeing even now, though it lacks the clarity of real sight. The speed is all wrong, like an old film from a hand-cranked camera. I glimpse faces, snatches of arguments, shifting landscapes."
+> **原句 5:** "My chip must have tendrils in the image processing part of your mind, because I can see what you’re seeing even now, though it lacks the clarity of real sight. The speed is all wrong, like an old film from a hand-cranked camera. I glimpse faces, snatches of arguments, shifting landscapes."
 **中文理解**：Rose 猜自己的芯片伸进了 Mabel 处理图像的脑区，于是连她梦里看见的画面她都能看见——只是清晰度不及真实视觉，速度也不对，像手摇摄影机拍的老片子；她瞥见几张脸、几句争吵的碎片、不断变换的风景。
 **关键词**：tendrils / image processing / hand-cranked / glimpse / shifting landscapes
 **为什么这样写**：监视被写成偷窥梦境：tendrils（触须）让芯片带上植物的侵略性，hand-cranked camera 的旧片质感把「实时监控」拉慢成默片；看得到画面、读不懂意义的错位，给 Rose 的全知划出第一道裂缝。
 **读者视角提示**：这段监控的措辞没有一点恶意，全是好奇与评估——监控者的日常化比恶意更冷。
 
-> **原句 5:** "Your gut curdles. Envy? Anxiety? Both? I cannot say. I feel the physical effects of your thoughts, but the thoughts themselves are the only part of you unavailable to—"
+> **原句 6:** "Your gut curdles. Envy? Anxiety? Both? I cannot say. I feel the physical effects of your thoughts, but the thoughts themselves are the only part of you unavailable to—"
 **中文理解**：站到大宅铁门外，八点五十九分，Mabel 的胃发紧——是嫉妒？焦虑？都有？Rose 分不清；她能感受到 Mabel 思绪带来的身体反应，但思绪本身，是她唯一接收不到的部分——
 **关键词**：gut curdles / Envy / Anxiety / physical effects / unavailable
 **为什么这样写**：三个短问（Envy? Anxiety? Both?）模仿监控者翻检情绪却查无读数的挫败；破折号是本章的悬崖，作者在「全知」与「全不知」之间钉下精确的边界——感受漏得进来，想法进不来。

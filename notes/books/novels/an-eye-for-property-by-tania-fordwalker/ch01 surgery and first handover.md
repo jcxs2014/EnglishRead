@@ -20,9 +20,9 @@ modified: "2026-11-08"
 **读者视角提示**：注意叙述者把 Mabel 称作 you——本书的记述者始终用第二人称注视 Mabel 的生活，这个「你」不是读者本人。
 
 > **原句 2:** "Modified boilerplate Driver contract with accommodation clause. Initial contract is for a year, to be renewed to permanent employment if both Driver and Passenger are satisfied. For the duration of the initial contract: Driver agrees to preclude pregnancy and refrain from further body modifications (see Appendix A); Passenger agrees to refrain from sexual intercourse and any additional body modifications, and refrain from consuming lactose."
-**中文理解**：技术员像念租房合同一样复述条款：初始一年、双方满意才转永久；合同期内司机不得怀孕、不得再做身体改造，乘客不得性交、不得再改造、不得摄入乳糖；差旅、危险活动、特殊日程调整等按附件逐案另谈。
+**中文理解**：技术员像念租房合同一样复述条款：初始一年、双方满意才转永久；合同期内司机不得怀孕、不得再做身体改造，乘客不得性交、不得再改造、不得摄入乳糖。
 **关键词**：boilerplate / preclude pregnancy / body modifications / sexual intercourse / lactose
-**为什么这样写**：作者让未来技术以一份念得出声的合同登场（modified boilerplate 点明它只是标准条款的改装版），怀孕、性交、乳糖三件毫不相干的事并列在同一条款里，荒诞感全部来自公事公办的语气而非任何解释；几个 see Appendix 让世界观自带文件编号，像真有那么一沓附件存在。
+**为什么这样写**：作者让未来技术以一份念得出声的合同登场（modified boilerplate 点明它只是标准条款的改装版），怀孕、性交、乳糖三件毫不相干的事并列在同一条款里，荒诞感全部来自公事公办的语气而非任何解释；一个 see Appendix 让世界观自带文件编号，像真有那么一沓附件存在。
 **读者视角提示**：这份条款先于任何人物性格出现——本书的世界观靠合同语言建立，留意 Driver／Passenger 这对词如何从一开始就把人写成租赁合同的甲乙双方。
 
 > **原句 3:** "My lawyer and my accountant walked me through every line of that contract, so I know this for certain: I’m not supposed to be awake at the same time as you. The extra time I had—if only as a silent watcher—was an error. A bug. Unintentional, but very much to my benefit, especially if it continues."
