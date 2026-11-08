@@ -10,12 +10,12 @@
 
 | 章 | 文件名 | 词数 | 内容 | 状态 | commit |
 |---|---|---|---|---|---|
-| ch01 | ch01 surgery and first handover.md | 1770 | 手术/合同评审/首次交接与首个周末 | 待写 | |
-| ch02 | ch02 beach shack.md | 1219 | 海滩棚屋安家/负债/画作/初访大宅 | 待写 | |
-| ch03 | ch03 marble silence.md | 1344 | ME 首周末：试衣/搜索/Ben 债务短信/美容院/四星评价 | 待写 | |
-| ch04 | ch04 erosion weeks.md | 1276 | 数周蒙太奇：眉毛/麦当劳/失眠/作画障碍/Temu Rose/调解会 | 待写 | |
-| ch05 | ch05 friday handover.md | 1513 | Prisha 视频通话/镜子失手/Rose 十年提案信/温暖周/退信 | 待写 | |
-| ch06 | ch06 you bitch.md | 1513→实际 1613 | 夜里夺体/US 早晨互搏/砍芯片未遂/Ben 撞破 | 待写 | |
-| ch07 | ch07 when im good and ready.md | 1073 | 收买 Ben/伪造新约/那不勒斯/幽灵化结局 | 待写 | |
-| 总览 | 00_概述 / 00_金句精选 / 00_情感节点 | — | 最后一章后写 | 待写 | |
-| T1 | t1-verdict.md / t1-candidates.txt / 台账一行 | — | gate 全绿后 | 待做 | |
+| ch01 | ch01 surgery and first handover.md | 1770 | 手术/合同评审/首次交接与首个周末 | 完工 | 83ef3e11e |
+| ch02 | ch02 beach shack.md | 1219 | 海滩棚屋安家/负债/画作/初访大宅 | 完工 | 3e61ac5f6 |
+| ch03 | ch03 marble silence.md | 1344 | ME 首周末：试衣/搜索/Ben 债务短信/美容院/四星评价 | 完工 | f264f3762 |
+| ch04 | ch04 erosion weeks.md | 1276 | 数周蒙太奇：眉毛/麦当劳/失眠/作画障碍/Temu Rose/调解会 | 完工 | f7fe3ec2c |
+| ch05 | ch05 friday handover.md | 1513 | Prisha 视频通话/攥拳/砸镜/Rose 十年提案信/温暖周/退信 | 完工 | ad8e512b8 |
+| ch06 | ch06 you bitch.md | 1613 | 夜里夺体/US 早晨互搏/砍芯片未遂/Ben 撞破 | 完工 | 1c72ed463 |
+| ch07 | ch07 when im good and ready.md | 1073 | 收买 Ben/伪造新约/那不勒斯/幽灵化结局 | 完工 | 15d80fcd1 |
+| 总览 | 00_概述 / 00_金句精选 / 00_情感节点 | — | 完工（73/73·金句28唯一） | 8cc5d0177 |
+| T1 | t1-verdict.md / t1-candidates.txt / 台账一行 | — | 完工（自检·候选83行·整改14处·阻断0） | 3ef2f4289 |
