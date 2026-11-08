@@ -1,0 +1,55 @@
+{
+ "book": "an-eye-for-property-by-tania-fordwalker",
+ "chapter": "ch07",
+ "text": "notes/books/novels/an-eye-for-property-by-tania-fordwalker/text/ch07_when_im_good_and_ready.txt",
+ "facts": [
+  {
+   "fact": "男孩松手喊 Mabel 的名字，得到的回答是：把手从「我」身上拿开，男孩——Rose 醒在身体里，请他跟上进度。",
+   "anchor": "Get your hands off me, boy.",
+   "start": 6,
+   "end": 33
+  },
+  {
+   "fact": "Rose 走到暗格保险箱前取出一万美元现金装进纸袋：Ben 的债由她来还，条件是拉黑号码、永不联系，还有几句关于「危险朋友」的恐吓。",
+   "anchor": "scoop the ten thousand in cash",
+   "start": 367,
+   "end": 397
+  },
+  {
+   "fact": "处理完 Ben，她打电话给会计师和房产经纪：一直想退休去意大利，现在正合适——你只活两次。",
+   "anchor": "I always thought about retiring to Italy.",
+   "start": 1691,
+   "end": 1732
+  },
+  {
+   "fact": "在 Splice of Life，Rose 一人分饰两角签下新约：双方通信达成一致、改了工时与地点、甚至「堪称朋友」；Mabel 被激活签字时，撑住场面的其实是 Rose。",
+   "anchor": "“We’ve agreed on a new contract—changes to the hours and location.”",
+   "start": 2516,
+   "end": 2583
+  },
+  {
+   "fact": "之后她搬进那不勒斯以南一栋整洁小别墅；周末名义上归 Mabel，实际上仍由她掌控，两个账号的评价也都是她写的。",
+   "anchor": "I move to a neat little villa south of Naples.",
+   "start": 3052,
+   "end": 3098
+  },
+  {
+   "fact": "她卖掉不再需要的房产：海滩破棚几乎卖出庄园的价钱——当然，买家只看中地皮，棚子等着推土机。",
+   "anchor": "The derelict shack on the beach fetches almost as much as the manor",
+   "start": 3477,
+   "end": 3544
+  },
+  {
+   "fact": "只有 Prisha 不肯吞下「移居意大利、断了联系」的说法，把问题像盐粒一样撒进消息里；Rose 便制造一场争吵把她打发掉。",
+   "anchor": "She slips questions into her messages",
+   "start": 3878,
+   "end": 3915
+  },
+  {
+   "fact": "尾声：Rose 的世界缩成一张床、一杯泼翻的咖啡——被抹成风景画；她对脑中的声音说：冷静，你的时候会来的。什么时候？等我准备好了再说。",
+   "anchor": "When I’m good and ready.",
+   "start": 5850,
+   "end": 5874
+  }
+ ]
+}
