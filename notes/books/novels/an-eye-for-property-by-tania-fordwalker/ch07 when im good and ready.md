@@ -22,7 +22,7 @@ modified: "2026-11-08"
 > **原句 2:** "Taking a steadying breath, I reach for my own control and hold on for dear life. … After a moment, I relax into an insipid smile and speak in your cadence. “I’m good, thanks. Yeah. Rose is cool. She made me an offer I couldn’t refuse.”"
 **中文理解**：稳住呼吸，Rose 抓住自己的控制权死死不放……片刻之后，她挂上一脸淡而无味的笑，用你的语调说话：「我挺好的，谢谢。嗯，Rose 挺好的。她给了我一个没法拒绝的条件。」
 **关键词**：steadying breath / hold on for dear life / insipid smile / speak in your cadence / an offer I couldn’t refuse
-**为什么这样写**：签字台前的一人分饰两角：hold on for dear life（拼命抓住）与 insipid smile（寡淡的笑）之间是一次完整的绑架；offer I couldn't refuse 借《教父》名句自嘲——「没法拒绝的条件」本来就是黑帮用语，她用 Mabel 的嘴把它说了出来。
+**为什么这样写**：签字台前的一人分饰两角：hold on for dear life（拼命抓住）与 insipid smile（寡淡的笑）之间是一次完整的绑架；offer I couldn’t refuse 借《教父》名句自嘲——「没法拒绝的条件」本来就是黑帮用语，她用 Mabel 的嘴把它说了出来。
 **读者视角提示**：注意这场表演的观众是谁——技术员、系统、评分；Mabel 的「同意」从此不再需要 Mabel 在场。
 
 > **原句 3:** "I move to a neat little villa south of Naples. … Weekends are a time of vigilance now. On paper, that’s when our new contract allows you control. I, of course, do not. To keep up appearances, I leave Splice reviews from the both of us. The inconvenience is minor. In fact, I begin to enjoy writing from your perspective. By all accounts, you are having a wonderful time."

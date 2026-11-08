@@ -40,7 +40,7 @@ modified: "2026-11-08"
 > **原句 5:** "“No. I chose this one for a reason. She’s value for money, and I didn’t make it as far as I did in life without the ability to recognise a good investment. Besides, I’m not interested in luxury; I’m interested in time. When you get to my age, you’ll understand.”"
 **中文理解**：被问是否满意这位司机，Rose 拒绝了更换更高端身体的提议：她选中这一个有理由——物有所值；她这辈子能走到今天，靠的就是认得出好投资的眼力；况且她要的不是奢侈，是时间，等你活到她这个岁数就懂了。
 **关键词**：chose this one / value for money / good investment / luxury / interested in time
-**为什么这样写**：书名 An Eye for Property 在这里落成口头禅式的生意经——She's value for money 把人直接写成一件标过价的货，recognise a good investment 的宾语其实是一个女孩；luxury 与 time 的对立句用分号钉成天平两端，是 Rose 的价值观宣言。
+**为什么这样写**：书名 An Eye for Property 在这里落成口头禅式的生意经——She’s value for money 把人直接写成一件标过价的货，recognise a good investment 的宾语其实是一个女孩；luxury 与 time 的对立句用分号钉成天平两端，是 Rose 的价值观宣言。
 **读者视角提示**：注意她连 premium Drivers 都不要——她要的从来不是更好的身体，而是更便宜的时间；这个动机此后再没变过。
 
 > **原句 6:** "“There’s no need to lecture me,” I say. Your voice comes out at a higher pitch than I’m accustomed to. I adjust, dipping your trachea, reaching deep into your chest to muster gravitas. “I built a portfolio of over sixty properties. I can manage one girl.”"
@@ -58,7 +58,7 @@ modified: "2026-11-08"
 > **原句 8:** "He taps the screen. In a blink, you are in control again. … But I’m still here."
 **中文理解**：手指落下，一眨眼的工夫身体就回到 Mabel 手里——可是，Rose 还在。
 **关键词**：taps the screen / in a blink / in control again / still here
-**为什么这样写**：收尾的节奏在模仿眨眼本身：三个短句一口气读完全部交割流程，然后 But I'm still here 冷冷收束——营销话术的喜庆与前一句的冷静揭示之间只隔着一次点击，恐怖感全靠这个落差成立。
+**为什么这样写**：收尾的节奏在模仿眨眼本身：三个短句一口气读完全部交割流程，然后 But I’m still here 冷冷收束——营销话术的喜庆与前一句的冷静揭示之间只隔着一次点击，恐怖感全靠这个落差成立。
 **读者视角提示**：末句是全书第一次把 Rose 的存在摆上台面：切换没有把她关掉。从下一章起，两个声部将轮流接管叙事。
 
 ## 本章词汇

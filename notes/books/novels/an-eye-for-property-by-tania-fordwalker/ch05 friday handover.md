@@ -34,7 +34,7 @@ modified: "2026-11-08"
 > **原句 4:** "Who knows what they’ll have invented by then—android bodies, or clones—or, simpler still, as politicians begin to age out and stare down the barrel of their own mortality, they’ll reverse the blanket ban on transfer of whole-life ownership. Ten years, and I’ll be able to buy a body; I’d bet my life on it. No more handovers, no ticking clock. No more negotiations with silly little girls. Just a body of my own: my property."
 **中文理解**：Rose 算的是十年账：十年后技术不知会到哪一步——人造身体、克隆体；更简单的是，等政客们自己也到了岁数、直视自己的死亡倒计时，整身所有权转让的全面禁令就会被推翻；十年，她就能买下一具身体——她拿命打赌。不用交接、不用倒计时、不用再跟傻丫头们谈判。一具自己的身体：我的财产。
 **关键词**：android bodies / clones / blanket ban / bet my life / my property
-**为什么这样写**：提案的政治经济学全压在这句里——连禁令的解除都被她算进人口学（politicians age out）；stare down the barrel of their own mortality 与 I'd bet my life on it 两个「命」互为镜像，最后收在冒号后的 my property，把书名从「眼光」升级成「产权」。
+**为什么这样写**：提案的政治经济学全压在这句里——连禁令的解除都被她算进人口学（politicians age out）；stare down the barrel of their own mortality 与 I’d bet my life on it 两个「命」互为镜像，最后收在冒号后的 my property，把书名从「眼光」升级成「产权」。
 **读者视角提示**：注意提案的真正标的物不是 Mabel 的周末，而是立法的时间表——她要买的从来是未来。
 
 > **原句 5:** "Thank you for your kind offer. It helped me figure out what I want, and I’m so sorry to tell you this, but we need to make an appointment for cancellation on Monday—being a Driver isn’t working out for me. I’ll happily serve out my one-month notice, and I’m grateful for the amazing opportunity. Thanks again for everything."

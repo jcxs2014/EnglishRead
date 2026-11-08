@@ -28,7 +28,7 @@ modified: "2026-11-08"
 > **原句 3:** "I’m shocked to discover you take shifts in the local McDonald’s. McDonald’s! The constant screaming alarms of the crowded, greasy, stinking McKitchen give me a McHeadache. Well, it’s your headache. I’m just stuck feeling it."
 **中文理解**：Rose 震惊地发现 Mabel 在本地麦当劳打工——麦当劳！拥挤油腻、臭烘烘的麦厨房里不断尖叫的警报器让她得了「麦头痛」；嘛，痛的是你的头，我只是被困在里面陪着疼。
 **关键词**：take shifts / McKitchen / McHeadache / your headache / stuck feeling it
-**为什么这样写**：连用三个 Mc 前缀造词（McDonald's→McKitchen→McHeadache），用快餐的品牌前缀嘲弄廉价劳动，口语的嫌弃里全是阶层口音；I'm just stuck feeling it 一句把共感写成了刑罚——共享身体的日常代价第一次具体到太阳穴。
+**为什么这样写**：连用三个 Mc 前缀造词（McDonald’s→McKitchen→McHeadache），用快餐的品牌前缀嘲弄廉价劳动，口语的嫌弃里全是阶层口音；I’m just stuck feeling it 一句把共感写成了刑罚——共享身体的日常代价第一次具体到太阳穴。
 **读者视角提示**：注意她的结论不是「你好辛苦」而是「你该把时间卖给我」——同一份疲惫，在 Rose 那里只折算成低效。
 
 > **原句 4:** "My friend Jacquelyn’s ridiculous husband calls me Temu Rose, whatever the hell that means, and makes no less than three lewd jokes about our appearance over brunch, until I cut him off by telling Jackie she ought to confiscate his little blue pills. She sniffs, waves for the cheque, and tells me she thought I might have chosen a more appropriate body."

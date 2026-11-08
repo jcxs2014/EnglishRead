@@ -28,7 +28,7 @@ modified: "2026-11-08"
 > **原句 3:** "“If you’re … if you’re listening—” Your voice cracks. “I don’t want your fucking house. I don’t want your fucking money. I want you out of my head, and I’m going to get you out.”"
 **中文理解**：「如果你……如果你在听——」Mabel 的声音劈了：「我不要你那破房子，不要你那破钱。我要你滚出我的脑子——我会把你弄出去的。」
 **关键词**：listening / voice cracks / your fucking house / your fucking money / out of my head
-**为什么这样写**：Mabel 的宣言用两个「不要」垫出一个「要」：钱与房子被点名抛弃，好让唯一的要求（out of my head）显得不可收买；破折号上那句结巴的 if you're listening 是全书最瘆人的语法——她只能对着可能不存在的听众说话。
+**为什么这样写**：Mabel 的宣言用两个「不要」垫出一个「要」：钱与房子被点名抛弃，好让唯一的要求（out of my head）显得不可收买；破折号上那句结巴的 if you’re listening 是全书最瘆人的语法——她只能对着可能不存在的听众说话。
 **读者视角提示**：这句喊话 Rose 全程听见了，却装作没有——单方面透明、单方面沉默，这场对话从头到尾只有一个人在场。
 
 > **原句 4:** "You lunge for it, snatch it, raise it to your temple, and, whimpering, slowly sink it into the tiny scar there. The point drives a searing white flare of pain into your head, and in your clenched fist, the glass sears open a flap of skin across your palm."
@@ -40,13 +40,13 @@ modified: "2026-11-08"
 > **原句 5:** "“Get her out!” you scream, waving the shard at him. “She’s in my head, she’s awake! The chip, the chip, cut it out of me!” … “There’s no time! She takes over at nine! She won’t give me back! PLEASE!”"
 **中文理解**：「把她弄出去！」Mabel 挥着镜片尖叫，「她在我脑子里，她醒着！芯片，把这芯片从我脑子里挖出去！」……「没时间了！九点她就接管了！她不会把我还回来的！求你！」
 **关键词**：Get her out / she’s awake / cut it out of me / takes over at nine / won’t give me back
-**为什么这样写**：真相终于出口，句句是实（she's awake / takes over at nine），却以最像疯话的形态说出——满脸是血、手举玻璃；She won't give me back 里的 me 一词把产权语言反了过来：在 Mabel 这边，被租出去的是「我」本身。
+**为什么这样写**：真相终于出口，句句是实（she’s awake / takes over at nine），却以最像疯话的形态说出——满脸是血、手举玻璃；She won’t give me back 里的 me 一词把产权语言反了过来：在 Mabel 这边，被租出去的是「我」本身。
 **读者视角提示**：注意 Ben 的回应是还钱（我会把那笔钱还上的）——他听到的版本仍是「Mabel 在拼命」；真相在这里没有证人。
 
 > **原句 6:** "You are strong, so strong now, so desperate to cling to your life that now, at last, you are truly fighting for it. Oh, Mabel. I’m so proud of you."
 **中文理解**：你很强，现在这么强，这么拼命想抓住自己的生活——直到此刻，你才真正在为它而战。哦，Mabel，我真为你骄傲。
 **关键词**：strong / so desperate / cling to your life / truly fighting for it / I’m so proud of you
-**为什么这样写**：占有的尽头是欣赏：so strong / so desperate 的复沓像教练在给学员数节拍，I'm so proud of you 把绑架写成了师徒——Rose 对 Mabel 的肯定在此刻是真的，这也正是最恐怖的地方：她连共情都能据为己有。
+**为什么这样写**：占有的尽头是欣赏：so strong / so desperate 的复沓像教练在给学员数节拍，I’m so proud of you 把绑架写成了师徒——Rose 对 Mabel 的肯定在此刻是真的，这也正是最恐怖的地方：她连共情都能据为己有。
 **读者视角提示**：这句骄傲将直接延续到下一章——被夸奖的 Mabel 还是被按了下去，力气赢得的只是更彻底的接管。
 
 ## 本章词汇
