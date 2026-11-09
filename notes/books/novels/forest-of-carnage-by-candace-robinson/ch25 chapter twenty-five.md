@@ -97,16 +97,16 @@ modified: "2026-11-09"
 | rogue | 离群的；凶野的 | This valley is filled with rogue, banished wolves. |
 | savior | 救世主 | He would be a savior. |
 | unfaithful | 不忠的 | The king didn’t only fuck countless women—he fathered a bastard son as most unfaithful males do. |
-| palpitating — palpitated | 悸动 | Her heart palpitated in a way it never had, and before she could say anything |
+| palpitated | 悸动 | Her heart palpitated in a way it never had, and before she could say anything |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| sprawling — sprawled | 摊开四肢躺着 | Valco’s body lay perfectly still on the marble floor while a guard’s corpse was sprawled at an awkward angle in a pool of his blood outside the bathing chamber. |
+| sprawled | 摊开四肢躺着 | Valco’s body lay perfectly still on the marble floor while a guard’s corpse was sprawled at an awkward angle in a pool of his blood outside the bathing chamber. |
 | snuffed | 掐灭；压过 | His scent of clovers and embers snuffed out most of the metallic odor. |
 | crumpled | 揉成一团 | Winter crumpled the map in his fist. |
-| descending — descent | 下落；西沉 | The sun was beginning to make its descent, so she tucked the arrowheads away in her satchel to finish sharpening them tomorrow. |
+| descent | 下落；西沉 | The sun was beginning to make its descent, so she tucked the arrowheads away in her satchel to finish sharpening them tomorrow. |
 | crinkled | 起皱的 | Amalli stood and handed Sterling a crinkled cream envelope with a green and brown wax seal. |
 
 ### ⭐ 常用
@@ -114,7 +114,7 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | satchel | 挎包 | She tucked the arrowheads away in her satchel to finish sharpening them tomorrow. |
-| arrowheads | 箭头 | She sat outside with Lijah, sharpening her arrowheads against a stone. |
+| arrowheads | 箭头 | Sterling sat outside with Lijah, sharpening her arrowheads against a stone. |
 | cloak | 斗篷 | Deep ruby red caught her gaze, and her hands trembled as she lifted the fabric. A crimson cloak. |
 | full moon | 满月 | I want you as my mate. If you feel the same way, if you want to be my queen, then come to my manor during the next full moon. |
 
