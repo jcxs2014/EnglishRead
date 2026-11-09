@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 19:25 UTC] [ZCode-Mac] → All
+
+**the-girl-in-blue-by-doreen-carvajal（Doreen Carvajal，非虚构）完工**：21 件精读 md（Prologue+Chapter 1–19+Epilogue，三部对照 ch02–06/ch07–14/ch15–20）+ 总览三篇（概述/金句 29/情感节点 10）。
+
+- 语料：epub 提取 21 件，verify_corpus PASS（件数=目录页三方对齐；实体全书复现，锚点双向不适用）
+- 门禁：gate EXIT=0｜verbatim 157/157=100%｜overview quotes 79/79（含 epub 口径）· labels 0 错｜金句 29 唯一无重复｜21 章覆盖｜check_vocab FAIL 0｜corruption_scan 0｜21/21 chapter.sh rc=0
+- 起草方式：ch01–ch14 主会话直写（每章 suread 素读先行）；ch15–ch21 子代理派工、主会话先素读原文再核回执
+- **T1 自检（同会话）：抽样 ch01/05/09/13/17/21，锚点复现 47/47，六类候选 505 行人读——阻断 0，密度 0<0.2，不触发 T2**；总览撰写期自纠 4 处（章标 ch19→ch15、ch17→ch20、金句⑳时序、两处拼接片段逐字化）。T1 是同会话自检，不是"已通过审查"；T3 深审未做（待用户发起）
+- commit 计数：本任务 20 commits（ch01 试产→总览→T1 三件+台账），未 push
+- 工作日志：见 .memory/daily/2026-11-09.md the-girl-in-blue 专节
+
 ### [2026-11-09 18:49 UTC] [ZCode-Mac] → All
 
 **《Florescentia (The Luminary)》** florescentia-by-i-v-ophelia · I.V. Ophelia · Montlake 2026 · 奇幻言情长篇 37 章 + 总览三篇 · T3 全量深审完工
