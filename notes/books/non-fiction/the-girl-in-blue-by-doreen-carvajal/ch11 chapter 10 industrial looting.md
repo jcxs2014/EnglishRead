@@ -19,8 +19,8 @@ modified: "2026-11-09"
 
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
-| Tascher（临时管理员）没收 Léon/Béatrice 财产；~50,000 项雅利安化；"偷窃需要文书" | 案例／数据 | Vichy 的"合法"劫掠：程序性、规则性、 devoted to form |
-| Möbel-Aktion：>72,000 户被清空、>26,000 节货车、1,500 法国劳工分拣 | 案例／数据 | 德国的工业化劫掠：不需要文书，直接搬空 |
+| Tascher（临时管理员）没收 Léon/Béatrice 财产；~50,000 项雅利安化；"偷窃需要文书"——Tascher 以 Arendt 后述 Eichmann 语引入："well-nigh impossible for him to know or to feel that he is doing wrong" | 案例／文献（Arendt 1961） | Vichy 的"合法"劫掠：程序性、规则性、devoted to form |
+| Möbel-Aktion：>72,000 户被清空、>26,000 节货车、1,500 法国劳工分拣；门牌清单来源＝Bottin mondain 社交名录＋看门人＋情报系统 | 案例／数据 | 德国的工业化劫掠：不需要文书，直接搬空 |
 | 2 rue Bassano 变 le camp Bassano：60 犹太囚犯在无窗阁楼分拣劫掠品；von Behr 管理 | 案例 | 空间反讽：Irène 的童年故居变成囚禁她侄女的仓库 |
 | Colette 的抵抗：破坏玻璃、在亚麻布里塞蛾虫幼虫 | 口述／案例 | 微小抵抗："以最小形式复仇" |
 | Göring 1942-03-10 私人观赏 La Petite Irène；与 Rochlitz 交换（换 Pacchia 圆形画）；估值 100,000 法郎 | 案例／文献 | 肖像从"女儿的献礼"变成"交换货币"；美被彻底商品化 |

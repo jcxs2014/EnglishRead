@@ -20,6 +20,7 @@ modified: "2026-11-09"
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
 | 1942-12-05 Béatrice/Fanny 被捕（没戴金星）；台账只写"Juive"；Irène Anspach 在场却未被捕 | 案例／文献 | 身份被缩减为一个词；逮捕的随机性（"太随机而非仁慈"） |
+| 被捕前该楼已被锁定：1940 年 Léon 与另八名犹太业主被逐出楼宇管委会、指派 administrateur provisoire；到 1942 年几乎全部逃离，只剩 Béatrice 与 Fanny | 案例 | "留下"作为悲剧性坚持——"as if it might postpone what was already coming" |
 | Neuilly 市长 Bloud 因"对犹太人太宽容"被撤；继任者 Max Roger "不犹豫" | 案例 | 地方行政的合作：犹豫＝ defiance，执行＝正常 |
 | Mérode（"王子"）：Gestapo de Neuilly、劫掠、酷刑、30% 佣金、>500 人驱逐；财产近 10 亿法郎 | 案例／数据 | 法国合作者是主动掠夺者而非被动执行者 |
 | Mérode 逃往西班牙、从未被追诉、约 1970 年后死亡 | 案例 | 战后正义的缺失：掠夺者安享晚年 |

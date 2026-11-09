@@ -20,13 +20,14 @@ modified: "2026-11-09"
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
 | Léon 逃往自由区（Pau）；自由区从 4 万膨胀到 20 万；1942 年 11 月 Operation Attila 占领自由区 | 案例／数据 | "自由区"是暂时的幻觉；每一步安全都被下一步摧毁 |
+| Allatini 夫妇（Éric 与 Hélène）在十六区别墅运地下印刷机，为 Léon 等做出过境 Ausweis；"dozens of people avoided deportation"；夫妇后被驱逐，别墅改成法奸团伙的刑讯室——带利边台阶的浴缸 | 案例 | 救助者的代价：网络能救人，救不了自己；"discreet generosity"的具体形态 |
 | Vel d'Hiv（1942-07-16）：>13,000 犹太人被法国警察逮捕（含 4,000 儿童） | 案例／数据 | 法国主动执行围捕；不是德国人而是法国警察 |
 | Béatrice 改宗（1942-07）＋离婚（1942-12）；"同一个国家在别处解除她的存在" | 案例 | 制度的荒诞共存：家庭法照常运作而种族法在消灭人 |
 | Walter Benjamin 在 Portbou 自杀（1940-09）；次日同组人被放行 | 案例 | 边境的任意性：一天之差决定生死 |
 | 比利牛斯山：~33,000 尝试、~5,000 被捕、>2,200 死；Ariège 仅 782 通过；Grumbach 被向导枪杀后无罪释放 | 案例／数据 | 逃亡的死亡率；"适者生存"的法律化 |
 | Léon 最后明信片："Il faut essayer tout: être les premiers et les derniers" | 文献 | 最后痕迹：从拘留中写出的紧迫与坚持 |
 
-**论证脉络**：引入（Léon 逃离 Neuilly）→ 自由区的幻觉（Pau、Allatini 网络）→ Vel d'Hiv（法国警察执行）→ Béatrice 线（改宗、离婚、"同一个国家"）→ 边境（Benjamin、比利牛斯山）→ 落点（Léon 的最后明信片）。
+**论证脉络**：引入（Léon 逃离 Neuilly）→ 自由区的幻觉（Pau；Allatini 网络：伪造证件者被驱逐）→ Vel d'Hiv（法国警察执行）→ Béatrice 线（改宗、离婚、"同一个国家"）→ 边境（Benjamin、比利牛斯山）→ 落点（Léon 的最后明信片）。
 
 **可质疑处**：
 1. 章节把 Léon 的逃亡写成"延迟策略"（"not for safety, exactly, but for the idea of it"），但这是作者的心理推断；Léon 可能确实认为自由区是安全的（当时许多人这样认为），用后见之明定性为"幻觉"可能不公平。

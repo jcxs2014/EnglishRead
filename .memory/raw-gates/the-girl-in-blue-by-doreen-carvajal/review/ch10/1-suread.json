@@ -1,0 +1,402 @@
+{
+  "chapter": "ch10",
+  "source": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch10_chapter_9_flight.txt",
+  "facts": [
+    {
+      "fact": "1941 年秋，巴黎对 Léon Reinach 已不再可信；到 1941 年 12 月，他在白厅公寓（Neuilly-sur-Seine）最后看了一眼戈贝兰挂毯与仍在走动的路易十六座钟后，决定彻底放弃巴黎出逃，流向西班牙边境一带。",
+      "start": 4296,
+      "end": 4464,
+      "quote": "And then Léon fled. Not for safety, exactly, but for the idea of it—exile somewhere near the Spanish frontier, where the geography was loose and the rules looser still.",
+      "occurrences": 1
+    },
+    {
+      "fact": "跨越绿线需要盖指纹、贴照片的 Ausweis/laissez-passer，而对犹太人这类证件只存在于地下：Léon 的通行证极可能来自 Allatini 夫妇——他们在十六区的现代别墅里 operating 一台地下印刷机伪造证件并收留难民。",
+      "start": 6300,
+      "end": 6585,
+      "quote": "Léon most likely obtained his passes from Éric and Hélène Allatini, trusted relatives on both sides of the Camondo and Reinach families, who operated a clandestine printing press from their modernist villa in the 16th arrondissement, where they hosted refugees bound for the free zone.",
+      "occurrences": 1
+    },
+    {
+      "fact": "1942 年的某个时候，Léon 成功穿过分界线来到南区，落脚 Pau 城 Boulevard des Pyrénées 畔的 Villa Challe——一栋曾为他旧日生活规格建造的奢华公寓，在此等待下一步（想象多于计划的出逃：越过比利牛斯、经西班牙去里斯本）。",
+      "start": 7578,
+      "end": 7792,
+      "quote": "Sometime in 1942, Léon crossed the line. There, in the south, he installed himself in a flat at Villa Challe, a pale white Art Deco fantasy perched along the Boulevard des Pyrénées—the best address on the promenade",
+      "occurrences": 1
+    },
+    {
+      "fact": "Béatrice 留在巴黎不是倔强而是 necessity：为守住可能被以「被弃财产」名义没收的财产。当年夏天她在 Vanves 的本笃会修道院（一个不记公开教籍、专收犹太成人转教的网络）由 Jesuit 神父施洗——1942 年 7 月 1 日洗礼、次日初领圣体、7 月 5 日坚信礼。",
+      "start": 8803,
+      "end": 9029,
+      "quote": "That summer, in Vanves, southwest of Paris, Béatrice was baptized by a Jesuit priest at Saint-Remy de Vanves. The ceremony, on July 1, 1942, was followed by her First Communion the following day and her Confirmation on July 5.",
+      "occurrences": 1
+    },
+    {
+      "fact": "1942 年 10 月，Béatrice 向巴黎法庭诉请与 Léon 离婚；Léon 否认通奸指控，但 Béatrice 出示两封暧昧信件（其一落款 1941 年 1 月 14 日），法庭据此认定其构成法国法下的通奸——判决于 1942 年 12 月 12 日下达。",
+      "start": 20614,
+      "end": 21011,
+      "quote": "In October 1942, Béatrice petitioned the Paris tribunal for a divorce from Léon. He denied her accusations of adultery, but she produced two incriminating letters, one beginning, “Tuesday, my great darling,” and another, dated January 14, 1941: “Léon, my darling.” In the court’s opinion, the letters proved that Léon had conducted an affair, and his actions constituted adultery under French law.",
+      "occurrences": 1
+    },
+    {
+      "fact": "离婚判决前几周，德军于 1942 年 11 月跨过分界线占领南区（代号 Operation Attila）——「已经没有法国可逃了」，这条决定使 Léon 此前一切在自由区的等待失去意义，只剩翻越比利牛斯一条路。",
+      "start": 21376,
+      "end": 21592,
+      "quote": "Only a few weeks earlier, the Germans had crossed the demarcation line, occupying the free zone in the south in November 1942. Operation Attila, they called it, a nod to the Huns. There was no France left to flee to.",
+      "occurrences": 1
+    },
+    {
+      "fact": "德军进驻 Pau（指挥部距 Léon 公寓仅三分钟步行）后，拖延不再可能：1942 年 12 月，Léon 与刚满十九岁的 Bertrand 开始备逃，最终不走常规路线、选定巡逻更少但 terrain 更酷烈的 Ariège 山口（经 Mazou 兄弟网络、卡车 125 英里到 Sentein）。",
+      "start": 26276,
+      "end": 26496,
+      "quote": "By December 1942, the air had turned hard. German units crowded the roads east of Pau. The southern zone was no longer a buffer and Léon looked toward the mountains. He fixed on the Ariège—fewer patrols, harsher terrain.",
+      "occurrences": 1
+    },
+    {
+      "fact": "在 Sentein 之后一切进入半明半暗：Bertrand 的证件被埋进沟渠；Léon 从羁押地给侄子 Fabrice Reinach 寄出一张明信片——「必须尝试一切：做最先的，也是最后的」——那是沉默合拢之前他笔迹的最后痕迹。",
+      "start": 29644,
+      "end": 29845,
+      "quote": "And then a postcard surfaced. A few words from Léon to his nephew, Fabrice Reinach—the last trace of handwriting before the silence closed in. “Il faut essayer tout: être les premiers et les derniers.”",
+      "occurrences": 1
+    }
+  ],
+  "relationships": [
+    "Léon Reinach × Béatrice de Camondo：夫妻，在「去还是留」的争吵与等待中婚姻悄然破裂；Béatrice 1942 年 10 月提起离婚诉讼（以两封情书证其通奸），12 月 12 日获准，Léon 被判承担费用。",
+    "Léon × Fanny（21 岁，优秀骑手，曾传与 Rothschild 家议亲）× Bertrand（18 岁→刚满 19 岁）：两子先后离开巴黎南下与父亲会合——Bertrand 1942 年 9 月长驻 Pau，Fanny 也偷过分区线；Béatrice 在 9 月 5 日信中自陈几乎不思念女儿。",
+    "Béatrice 的母亲是 Irène（即全书主角「蓝衣女孩」）：Béatrice 追随母亲当年的路改信天主教；Irène 于 1942 年彻底隐匿，独自住在 rue de la Tour 的带家具公寓里，无一张流放期照片存世。",
+    "Théodore Reinach（“T.R.”）＝Léon 之父；Moïse de Camondo＝Béatrice 之父、十八世纪古董藏家，Bertrand 以他为榜样做家具；Nissim de Camondo 之名刻在前银行总部 rue Danielle Casanova 的战争死难者大理石碑上。",
+    "Julien Reinach＝Léon 的兄弟，由 Allatini 夫妇取得伪造证件，后来在信中感念其「不动声色的慷慨」。",
+    "Éric et Hélène Allatini＝横跨 Camondo 与 Reinach 两家的亲戚，伪造网络核心，家里「永远为任何被遗弃者留一张床和一份口粮」；夫妇最终被驱逐，别墅被冒充法国警察的 Gestapo 同伙改成刑讯室，战后其女回来发现带利齿台阶的溺刑浴缸。",
+    "Charles Cahen d'Anvers＝Irène 之弟（Béatrice 的舅舅），已避入西南部近西班牙边境的乡间庄园；其妻 Suzanne 化名躲在 Neuilly 小旅馆。",
+    "Renée Cahen d'Anvers＝Irène 的侄女，获悉被 Gestapo 标记逮捕后躲进住满犹太难民的基督新教牧师家，睡在餐厅床垫上。",
+    "Fabrice Reinach＝Léon 的侄子，收到 Léon 从羁押地寄出的最后一张亲笔明信片。",
+    "Léonce Tedeschi＝Moïse 生前的亲信与财务管家；其遗孀 Madame Tedeschi 年领 3 万法郎年金，被 Béatrice 用笔标注「非雅利安人」「冻结账户」。",
+    "Philippe de Rothschild：家族与 Cahen d'Anvers 家有商业与婚姻纽带，1942 年 11 月同月出逃，留下「半张钞票兑 5 万法郎交给 le roi des passeurs」的过关回忆。",
+    "过路线上的人物网络：Mazou 兄弟（Jean、François，西班牙第二共和国老兵）经营逃亡路线网（Jean 后获 Legion d'honneur）；Morchon 网络带 Grumbach 一行六人进山；向导 Lazare Cabrero（“El Mago”）枪杀掉队的 Jacques Grumbach 并取走其手表，1953 年被判无罪。"
+  ],
+  "numbers": [
+    {
+      "verbatim": "November 1941 to December 1942",
+      "start": 47,
+      "end": 77,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Four thousand of them, pressed against the walls",
+      "start": 564,
+      "end": 612,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Bertrand, eighteen",
+      "start": 3113,
+      "end": 3131,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Fanny, twenty-one",
+      "start": 3254,
+      "end": 3271,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "a fifteen-minute walk to l’Étrier",
+      "start": 3341,
+      "end": 3374,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "performed on national radio in 1926",
+      "start": 3943,
+      "end": 3978,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "On December 15, 1941, the city crossed a line.",
+      "start": 1451,
+      "end": 1497,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "nearly a hundred civilian hostages",
+      "start": 1515,
+      "end": 1549,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Seventy-five of those hostages were murdered at Mont Valérien",
+      "start": 1604,
+      "end": 1665,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "In December 1941, Léon trailed the same wave, settling in the border town of Salies-de-Bearn, about sixty miles west of the green line",
+      "start": 5211,
+      "end": 5345,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "From 40,000, the town swelled to more than 200,000 in the space of a year",
+      "start": 5553,
+      "end": 5626,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "between 5,000 and 8,000 francs—up to $4,400 in today’s dollars",
+      "start": 5687,
+      "end": 5749,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Sometime in 1942, Léon crossed the line",
+      "start": 7578,
+      "end": 7617,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "the 16th arrondissement",
+      "start": 6509,
+      "end": 6532,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "on July 1, 1942",
+      "start": 8927,
+      "end": 8942,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "her Confirmation on July 5",
+      "start": 9002,
+      "end": 9028,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "1936. Bertrand standing under the vaulted ceiling",
+      "start": 10643,
+      "end": 10692,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "taken in August 1942, before she went to Pau",
+      "start": 11722,
+      "end": 11766,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "from June 1939, she is silent, with three years unremarked",
+      "start": 12534,
+      "end": 12592,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "When she resumes her album in April 1941",
+      "start": 12594,
+      "end": 12634,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Fanny competed one last time in August 1942",
+      "start": 12718,
+      "end": 12761,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "On July 12, 1942, she rode Guerinelle.",
+      "start": 12822,
+      "end": 12860,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "More than thirteen thousand Jews—including four thousand children—were arrested by French police",
+      "start": 12912,
+      "end": 13008,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "the pensions of seventeen former servants",
+      "start": 14888,
+      "end": 14929,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "between 1,200 and 12,000 francs per year",
+      "start": 15138,
+      "end": 15178,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "30,000 francs, or about $24,000 in today’s dollars",
+      "start": 15292,
+      "end": 15342,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Between 1940 and 1944, thousands attempted the crossing",
+      "start": 17347,
+      "end": 17402,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Nearly 5,000 who tried were captured and deported.",
+      "start": 17581,
+      "end": 17631,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "More than 2,200 vanished or died along the passes",
+      "start": 17632,
+      "end": 17681,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "The mountains ran three hundred miles along the border",
+      "start": 16661,
+      "end": 16715,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "In September 1940, the philosopher Walter Benjamin joined a small group",
+      "start": 17802,
+      "end": 17873,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "In September 1942, Bertrand joined his father in Pau.",
+      "start": 18982,
+      "end": 19035,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "she confessed on September 5, 1942",
+      "start": 19616,
+      "end": 19650,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "In October 1942, Béatrice petitioned the Paris tribunal",
+      "start": 20614,
+      "end": 20669,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "dated January 14, 1941",
+      "start": 20835,
+      "end": 20857,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "The divorce was granted on December 12, 1942.",
+      "start": 21014,
+      "end": 21059,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "occupying the free zone in the south in November 1942",
+      "start": 21448,
+      "end": 21501,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Bertrand, who had just turned nineteen",
+      "start": 22425,
+      "end": 22463,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "They’d manage twenty or so miles a day",
+      "start": 23456,
+      "end": 23494,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "There were two days of ascent through ice and snowfields",
+      "start": 23512,
+      "end": 23568,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "He had vanished in late November 1942",
+      "start": 24310,
+      "end": 24347,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "six men in all",
+      "start": 24569,
+      "end": 24583,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "Eight winters passed before the mountain gave him back.",
+      "start": 25048,
+      "end": 25103,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "In 1953, the case came to trial.",
+      "start": 25395,
+      "end": 25427,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "The judges took about an hour to weigh the arguments",
+      "start": 26192,
+      "end": 26244,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "The peaks rose above six thousand feet",
+      "start": 26497,
+      "end": 26535,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "fled that same November",
+      "start": 27156,
+      "end": 27179,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "50,000 francs, or what would now be considered a small fortune, $20,000 in modern dollars",
+      "start": 27470,
+      "end": 27559,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "east 125 miles to Sentein",
+      "start": 27817,
+      "end": 27842,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "an old track carved in the 1850s",
+      "start": 28091,
+      "end": 28123,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "more than 33,000 people crossed the Pyrenees during the Occupation",
+      "start": 28313,
+      "end": 28379,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "only 782 made it through",
+      "start": 28404,
+      "end": 28428,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "who had fled the Inquisition in 1492",
+      "start": 28694,
+      "end": 28730,
+      "occurrences": 1
+    },
+    {
+      "verbatim": "just a three-minute walk from Léon’s apartment",
+      "start": 22047,
+      "end": 22093,
+      "occurrences": 1
+    }
+  ]
+}
