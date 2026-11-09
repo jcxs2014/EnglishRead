@@ -1,0 +1,61 @@
+{
+ "book": "forged-flight-by-c-l-blossom",
+ "chapter": "ch20",
+ "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch20_20_epilogue_lucan.txt",
+ "facts": [
+  {
+   "fact": "毒蘑菇清除后草场重新开花。",
+   "anchor": "Flowers have taken over where the mushrooms used to be.",
+   "start": 400,
+   "end": 455
+  },
+  {
+   "fact": "国王倒台后全镇上山清蘑菇。",
+   "anchor": "Everyone pitched in to remove every last mushroom from the mountain.",
+   "start": 534,
+   "end": 602
+  },
+  {
+   "fact": "许多畸形幼龙戴上定做义翅。",
+   "anchor": "Most of them wear prosthetics—each one custom built to fit them.",
+   "start": 864,
+   "end": 928
+  },
+  {
+   "fact": "Maple 翻山而来，飞得更高更稳。",
+   "anchor": "Maple comes soaring over the trees",
+   "start": 1631,
+   "end": 1665
+  },
+  {
+   "fact": "数月前放归 Maple 是艰难但正确的决定。",
+   "anchor": "It was difficult to release her months ago, but we both knew it was the right thing to do.",
+   "start": 2731,
+   "end": 2821
+  },
+  {
+   "fact": "两人承诺守望 Maple 的生活。",
+   "anchor": "But Micah and I will always be here.",
+   "start": 2960,
+   "end": 2996
+  },
+  {
+   "fact": "Lucan 搬进 Micah 的小屋，把楼上公寓出租。",
+   "anchor": "Now that I’ve moved into Micah’s cottage",
+   "start": 5766,
+   "end": 5806
+  },
+  {
+   "fact": "Lucan 买来生金准备打戒指。",
+   "anchor": "a large piece of raw gold. It wasn’t cheap",
+   "start": 6014,
+   "end": 6056
+  },
+  {
+   "fact": "尾声以求婚戒指收束，The End。",
+   "anchor": "I begin crafting the most important piece of metal I’ve ever forged…",
+   "start": 6914,
+   "end": 6982
+  }
+ ]
+}
