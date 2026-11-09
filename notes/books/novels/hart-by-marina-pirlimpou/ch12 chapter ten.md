@@ -51,7 +51,7 @@ modified: "2026-11-09"
 
 **关键词**：do anything for him（什么都愿意为他做）、keep him safe（保护他安全）、mine, mine, mine（我的、我的、我的）
 
-**为什么这样写**：三句都是短句，前两句是承诺（do anything、keep him safe），第三句用 Because 给出理由。mine 重复三次，没有逗号间隔的停顿感，像心跳或咒语；I want to keep him 把「我的」从占有变成「想留住」——前者是权利，后者是恐惧。作者让这句出现在最激烈的时刻，说明 Devon 的欲望和恐惧是同一个东西。
+**为什么这样写**：三句都是短句，前两句是承诺（do anything、keep him safe），第三句用 Because 给出理由。mine 用逗号隔开重复三次，像心跳或咒语，像心跳或咒语；I want to keep him 把「我的」从占有变成「想留住」——前者是权利，后者是恐惧。作者让这句出现在最激烈的时刻，说明 Devon 的欲望和恐惧是同一个东西。
 
 **读者视角提示**：读者会把这句和他之前的「I can’t fail him」连起来：他怕的不是失去 Sam，是「失败」。mine 的重复越像宣誓，越暴露这份宣誓背后的不安。
 
