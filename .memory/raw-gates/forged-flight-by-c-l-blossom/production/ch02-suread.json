@@ -4,58 +4,64 @@
  "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch02_2_chapter_two_lucan.txt",
  "facts": [
   {
-   "fact": "Lucan 已注意到 Micah 的隔街注视，起初觉得古怪。",
-   "anchor": "The veterinarian across the street won’t stop staring at me.",
-   "start": 30,
-   "end": 90
+   "fact": "Lucan 早已察觉 Micah 隔窗偷看，觉得他不自然。",
+   "anchor": "He’s about as subtle as a unicorn in a barn of horses.",
+   "start": 244,
+   "end": 298
   },
   {
-   "fact": "Micah 主动来到铁匠铺，二人首次交谈。",
+   "fact": "Micah 首次登门，自我介绍并请 Lucan 看一样东西。",
    "anchor": "I pull it open to find the veterinarian standing on my doorstep.",
    "start": 1810,
    "end": 1874
   },
   {
-   "fact": "Micah 想为幼龙制作义翅。",
+   "fact": "诊所狗舍里有一只红鳞幼龙，翼膜发育不全。",
+   "anchor": "Curled in a nest of wool blankets is a baby dragon.",
+   "start": 4813,
+   "end": 4864
+  },
+  {
+   "fact": "Micah 说明是先天基因缺陷，野外捡到、独离巢难活。",
+   "anchor": "“She was born like this,” he says quietly. “It’s a genetic disorder.”",
+   "start": 5441,
+   "end": 5510
+  },
+  {
+   "fact": "Micah 提出做义翅的计划。",
    "anchor": "“I want to try prosthetic wings.”",
    "start": 6159,
    "end": 6192
   },
   {
-   "fact": "Lucan 具体考虑重量、耐久与柔软度。",
+   "fact": "Lucan 列出轻、耐用、不磨鳞三项要求后应承挑战。",
    "anchor": "“The prosthetics will have to be lightweight enough for her to carry, durable enough to survive daily use, and flexible enough not to rub her scales raw.”",
    "start": 7078,
    "end": 7232
   },
   {
-   "fact": "幼龙取名 Maple。",
+   "fact": "幼龙得名 Maple，Lucan 现场测量各关节尺寸。",
    "anchor": "Micah’s face brightens. “Maple.”",
    "start": 9354,
    "end": 9386
   },
   {
-   "fact": "Lucan 答应制作可测试的首个样件。",
-   "anchor": "“I’ll bring you the first prototype once I have something worth testing.”",
-   "start": 11612,
-   "end": 11685
-  },
-  {
-   "fact": "次日 Lucan 已完成初步草图。",
+   "fact": "当夜 Lucan 画出钢架加皮革的草图。",
    "anchor": "The wing design is a tangle of harsh lines",
    "start": 12332,
    "end": 12374
   },
   {
-   "fact": "Lucan 带咖啡去诊所，并向 Micah 展示图纸。",
-   "anchor": "I awkwardly slide one of the cups across the desk.",
-   "start": 17568,
-   "end": 17618
+   "fact": "次日 Lucan 在 Bruna 的咖啡馆多买一杯咖啡带给 Micah。",
+   "anchor": "“Actually…” I say, clearing my throat. “Can I get another?”",
+   "start": 15183,
+   "end": 15242
   },
   {
-   "fact": "Micah 对图纸的意义作出回应。",
-   "anchor": "“You’re giving Maple a chance to fly.”",
-   "start": 21520,
-   "end": 21558
+   "fact": "诊所里展示图纸；Lucan 离开时被注视，这次不介意了。",
+   "anchor": "“It isn’t nothing.” He smiles, looking back down at the drawing.",
+   "start": 21455,
+   "end": 21519
   }
  ]
 }

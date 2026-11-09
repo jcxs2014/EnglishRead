@@ -4,58 +4,58 @@
  "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch07_7_chapter_seven_micah.txt",
  "facts": [
   {
-   "fact": "一只被野兽袭击的火貂被送进诊所。",
+   "fact": "一位 fae 抱着重伤火貂冲进诊所。",
    "anchor": "When a fae stumbled into my clinic with blood covering her clothes, cradling a fire ferret",
    "start": 415,
    "end": 505
   },
   {
-   "fact": "Micah 与 Elowen 抢救失败，火貂死亡。",
-   "anchor": "But it wasn’t enough.",
-   "start": 1001,
-   "end": 1022
+   "fact": "火貂抢救无效死亡。",
+   "anchor": "Its body went still.",
+   "start": 1025,
+   "end": 1045
   },
   {
-   "fact": "Lucan 在酒馆陪伴失意的 Micah。",
+   "fact": "Micah 在酒馆借蜂蜜酒消愁；酒保 Clarette 续杯。",
+   "anchor": "“You want another, Doc?” asks the bartender, Clarette.",
+   "start": 1292,
+   "end": 1346
+  },
+  {
+   "fact": "Lucan 主动陪坐。",
    "anchor": "“Was walking through town and saw you sitting here alone. Looked like you needed some company.”",
    "start": 2876,
    "end": 2971
   },
   {
-   "fact": "借酒消愁的 Micah 自责不是好兽医。",
-   "anchor": "“I lost a patient.” The words come out thick and slurred.",
+   "fact": "醉后 Micah 自责要辞职。",
+   "anchor": "“I lost a patient.”",
    "start": 3388,
-   "end": 3445
+   "end": 3407
   },
   {
-   "fact": "Lucan 安慰 Micah，让他想想救活的病人。",
+   "fact": "Lucan 劝其想想救活的病人。",
    "anchor": "“You’re too hard on yourself,” Lucan insists, squeezing my shoulder.",
    "start": 3923,
    "end": 3991
   },
   {
-   "fact": "Lucan 拿走酒杯，说人类酒量不如巨人。",
-   "anchor": "Humans can’t handle their booze like us giants.",
-   "start": 4458,
-   "end": 4505
+   "fact": "Lucan 拿走酒杯（巨人酒量论）。",
+   "anchor": "He plucks the mug from my hand and pushes it across the bar",
+   "start": 4569,
+   "end": 4628
   },
   {
-   "fact": "Micah 摔倒后 Lucan 决定送他回铁匠铺住所过夜。",
+   "fact": "Micah 摔倒后，Lucan 以路远为由带他回铁匠铺楼上住所。",
    "anchor": "“You just fell on your face.”",
    "start": 7036,
    "end": 7065
   },
   {
-   "fact": "Lucan 把 Micah 抱上楼梯。",
+   "fact": "楼梯眩晕，Lucan 抱人上楼；让床睡沙发、递水递干净 tunic。",
    "anchor": "He scoops me up easily into his arms.",
    "start": 8035,
    "end": 8072
-  },
-  {
-   "fact": "Lucan 让出自己的床，自己睡沙发。",
-   "anchor": "“You can take my bed,” he says as we reach the landing.",
-   "start": 8637,
-   "end": 8692
   },
   {
    "fact": "Micah 穿着 Lucan 的旧上衣入睡。",

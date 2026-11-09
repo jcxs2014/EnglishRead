@@ -4,76 +4,64 @@
  "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch19_19_chapter_nineteen_micah.txt",
  "facts": [
   {
-   "fact": "Micah 当众展开图纸揭露度假村计划。",
+   "fact": "当众展开图纸：山顶豪华滑雪度假村。",
    "anchor": "A luxury ski resort built on top of Mount Embercrest.",
    "start": 351,
    "end": 404
   },
   {
-   "fact": "证据出自国王书房这一点被公开点破。",
+   "fact": "点破证据出自国王书房；卫兵拒捕 Micah。",
    "anchor": "It was found in your own office.",
    "start": 800,
    "end": 832
   },
   {
-   "fact": "Micah 讲出畸形翼龙群正饿死的处境。",
+   "fact": "讲述畸翅龙群无法捕猎迁徙、正饿死。",
    "anchor": "They’re slowly starving to death.",
    "start": 1745,
    "end": 1778
   },
   {
-   "fact": "Micah 指控国王下毒导致变异。",
+   "fact": "指控下毒致突变以腾山建度假村。",
    "anchor": "He poisoned them.",
    "start": 1816,
    "end": 1833
   },
   {
-   "fact": "国王情急自曝“蘑菇”，当场露馅。",
+   "fact": "国王脱口「蘑菇」自曝；Micah 微笑点破。",
    "anchor": "“I never said anything about mushrooms, Your Highness.”",
    "start": 2230,
    "end": 2285
   },
   {
-   "fact": "孢子小瓶被当众出示。",
+   "fact": "举瓶示众；人群倒戈，卫兵转向国王。",
    "anchor": "Icecap mushroom spores—which are known to be poisonous to dragons.",
    "start": 2626,
    "end": 2692
   },
   {
-   "fact": "卫兵引用古约宣布王不法律之上。",
+   "fact": "卫兵援引古约：龙山圣域、龙为保护物种。",
    "anchor": "“Not above the law, Your Highness.”",
    "start": 3374,
    "end": 3409
   },
   {
-   "fact": "违约害龙构成废黜罪。",
+   "fact": "宣布构成废黜罪；上镣逮捕。",
    "anchor": "Violating the treaty and deliberately harming a protected species is grounds for dethronement.",
    "start": 3628,
    "end": 3722
   },
   {
-   "fact": "卫兵当场逮捕国王。",
-   "anchor": "King Castor, you are under arrest.",
-   "start": 3875,
-   "end": 3909
-  },
-  {
-   "fact": "人群向押走的国王投掷南瓜。",
+   "fact": "群众掷南瓜送别押走的国王。",
    "anchor": "A pumpkin sails through the air.",
    "start": 4341,
    "end": 4373
   },
   {
-   "fact": "Micah 首次说出我爱你，Lucan 回应。",
+   "fact": "林间互道爱意（首次对人说）。",
    "anchor": "I love you.",
    "start": 5526,
    "end": 5537
-  },
-  {
-   "fact": "两人决定继续为龙群做义翅。",
-   "anchor": "“Let’s get to work.”",
-   "start": 7329,
-   "end": 7349
   }
  ]
 }

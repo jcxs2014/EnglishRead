@@ -4,58 +4,52 @@
  "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch03_3_chapter_three_micah.txt",
  "facts": [
   {
-   "fact": "Elowen 在手术中继续打趣 Micah 对 Lucan 的心思。",
+   "fact": "手术中 Elowen 调侃 Micah 与 Lucan 的关系。",
    "anchor": "“You’re hopeless, Doc,” Elowen says, passing me a pair of sterile forceps.",
    "start": 32,
    "end": 106
   },
   {
-   "fact": "Micah 为老 hellhound 完成手术缝合。",
-   "anchor": "The curved needle passes cleanly through the skin.",
-   "start": 1256,
-   "end": 1306
+   "fact": "完成 hellhound 绝育缝合。",
+   "anchor": "I tie off the final knot, trim the excess suture, and carefully inspect the incision.",
+   "start": 1307,
+   "end": 1392
   },
   {
-   "fact": "Micah 下班到铁匠铺带来 Maple 翅膀的 X 光片。",
+   "fact": "手术后在后巷远眺秋山放松。",
+   "anchor": "The highest peaks catch the light, burning crimson against a cloudless blue sky.",
+   "start": 2889,
+   "end": 2969
+  },
+  {
+   "fact": "下班带 Maple 左翼 X 光片到铁匠铺。",
    "anchor": "I slide the X-ray from the folder and carry it over to the window.",
    "start": 4223,
    "end": 4289
   },
   {
-   "fact": "Lucan 提议以残存骨骼与关节为义翅框架的锚点。",
+   "fact": "Lucan 提出以残存骨骼与关节为框架锚点。",
    "anchor": "“What if we anchor the frame here?”",
    "start": 5038,
    "end": 5073
   },
   {
-   "fact": "Lucan 指导 Micah 在熔炉旁锻造，两人的身体接近。",
-   "anchor": "Lucan moves behind me. His broad chest settles warmly against my back",
-   "start": 6765,
-   "end": 6834
+   "fact": "Lucan 给 Micah 戴 oversized 锻造手套，手把手教抡锤。",
+   "anchor": "Before I can protest, he takes one of my hands.",
+   "start": 6017,
+   "end": 6064
   },
   {
-   "fact": "Maple 一周内长重五磅，诊所笼舍将不够用。",
+   "fact": "Maple 一周增重五磅，将搬去后院围栏。",
    "anchor": "It’s only been a week since I found her, and she’s already put on five pounds.",
    "start": 9360,
    "end": 9438
   },
   {
-   "fact": "Micah 与四处旅行的父亲通话。",
-   "anchor": "My father is a traveling merchant",
-   "start": 11430,
-   "end": 11463
-  },
-  {
-   "fact": "Micah 表示没有舞会伴侣，拒绝父亲的撮合。",
+   "fact": "父亲（旅行商人，正在 Langford）催问舞会伴侣，被拒绝。",
    "anchor": "“No, Dad. I don’t have a date.”",
    "start": 12065,
    "end": 12096
-  },
-  {
-   "fact": "Micah 独自归家时以南瓜造伴侣的传说自嘲约会之难。",
-   "anchor": "Carving a lover out of a pumpkin sounds a hell of a lot easier.",
-   "start": 14200,
-   "end": 14263
   }
  ]
 }

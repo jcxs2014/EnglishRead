@@ -1,0 +1,55 @@
+{
+ "book": "forged-flight-by-c-l-blossom",
+ "chapter": "ch03",
+ "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch03_3_chapter_three_micah.txt",
+ "facts": [
+  {
+   "fact": "手术中 Elowen 调侃 Micah 与 Lucan 的关系。",
+   "anchor": "“You’re hopeless, Doc,” Elowen says, passing me a pair of sterile forceps.",
+   "start": 32,
+   "end": 106
+  },
+  {
+   "fact": "完成 hellhound 绝育缝合。",
+   "anchor": "I tie off the final knot, trim the excess suture, and carefully inspect the incision.",
+   "start": 1307,
+   "end": 1392
+  },
+  {
+   "fact": "手术后在后巷远眺秋山放松。",
+   "anchor": "The highest peaks catch the light, burning crimson against a cloudless blue sky.",
+   "start": 2889,
+   "end": 2969
+  },
+  {
+   "fact": "下班带 Maple 左翼 X 光片到铁匠铺。",
+   "anchor": "I slide the X-ray from the folder and carry it over to the window.",
+   "start": 4223,
+   "end": 4289
+  },
+  {
+   "fact": "Lucan 提出以残存骨骼与关节为框架锚点。",
+   "anchor": "“What if we anchor the frame here?”",
+   "start": 5038,
+   "end": 5073
+  },
+  {
+   "fact": "Lucan 给 Micah 戴 oversized 锻造手套，手把手教抡锤。",
+   "anchor": "Before I can protest, he takes one of my hands.",
+   "start": 6017,
+   "end": 6064
+  },
+  {
+   "fact": "Maple 一周增重五磅，将搬去后院围栏。",
+   "anchor": "It’s only been a week since I found her, and she’s already put on five pounds.",
+   "start": 9360,
+   "end": 9438
+  },
+  {
+   "fact": "父亲（旅行商人，正在 Langford）催问舞会伴侣，被拒绝。",
+   "anchor": "“No, Dad. I don’t have a date.”",
+   "start": 12065,
+   "end": 12096
+  }
+ ]
+}
