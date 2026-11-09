@@ -80,9 +80,9 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | purred | （如猫）低声柔语 | “You cared what your mother thought about you,” the king purred. |
-| fated — fate | 命定的 | Fate thought you would make a good queen of Bloodstorm one day, but even destiny makes mistakes. |
-| pinned | 用目光钉住 | he said, pinning her with a stare. |
-| rejected | 被拒绝的（被拒的 mate） | “I’d rather mate a human than you.” |
+| fate | 命运（Fate） | Fate thought you would make a good queen of Bloodstorm one day, but even destiny makes mistakes. |
+| pinning | 用目光钉住 | he said, pinning her with a stare. |
+| rejects | 弃儿；被拒者 | There are plenty of widowers and rejects that you could settle for, but I’m never taking you back. |
 | wise | 明智的 | Winter chuckled. “Wise for your age, aren’t you?” |
 
 ### ⭐ 常用
