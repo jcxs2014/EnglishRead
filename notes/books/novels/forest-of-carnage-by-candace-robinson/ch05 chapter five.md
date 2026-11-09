@@ -61,12 +61,12 @@ modified: "2026-11-09"
 **中文理解**：坐下房间里椅子吱呀一响——她猛地抽手、转身，未及成形的快感戛然而止；对上的正是王子那双亮蓝眼睛。Winter 的表情和绞刑场上一样百无聊赖——也和当年外婆被撕碎垂死时一样。
 **关键词**：creaked / bored
 **为什么这样写**：转折用听觉埋伏：椅子声先于眼睛出现——家里最日常的声音变成入侵警报；两个"一样无聊"并置，把绞刑、外婆之死与眼前这三幕串成同一种表情——残忍在他那里是常态化的、无需表情的。
-**读者视角提示**：这是全书最危险的一次入户：他带着红斗篷坐在她家客厅等她——耐心是他的武器；下一块的对峙从此刻的沉默里长出来。
+**读者视角提示**：这次入户把威胁拉满：他带着红斗篷坐在她家客厅等她——耐心是他的武器；下一块的对峙从此刻的沉默里长出来。
 
 > **原句 9:** "Did you think I didn’t recognize you? That I forgot about the girl who I allowed to run off with her brother and newly marred face? You should’ve left things alone. Disappeared like I told you to. But you just couldn’t help yourself, could you, Red Riding Hood?”"
 **中文理解**：Winter 撕下伪装：你以为我没认出你？以为我忘了那个带着弟弟和新添疤痕被放走的女孩？你本该收手，该像我说的那样消失——可你就是管不住自己，对吧，Red Riding Hood？
 **关键词**：recognize / disappeared
-**为什么这样写**："could you, Red Riding Hood?"是全书头一次有人把外号当面喊进她耳朵——伪装在称呼里被捏碎；三个反问倒叙重演 ch01 的放逐令（disappear），把八年前那笔账翻到本章结算。
+**为什么这样写**："could you, Red Riding Hood?"他当面把外号喊进她耳朵——伪装在称呼里被捏碎；三个反问倒叙重演 ch01 的放逐令（disappear），把八年前那笔账翻到本章结算。
 **读者视角提示**：注意他的语气：不是抓到猎物的兴奋，而是"你本该听话"的失望——他把自己放在规则制定者的位置上，这比威胁更像一种所有权宣言。
 
 > **原句 10:** "Winter brought his other hand out from behind his back, presenting her red cloak clutched in his fist. Slowly, he let the material slip to the floor, pooling between them in a heap."
@@ -79,7 +79,7 @@ modified: "2026-11-09"
 **中文理解**：他咧嘴一笑：我和你一样热爱一场好的狩猎——所以给你十五秒的先跑时间；见她呆立不动，他补了句：换作是我，我会跑。
 **关键词**：head start / grinned
 **为什么这样写**：结尾把追猎做成游戏规则：十五秒不是仁慈而是延长乐趣——他把自己的杀戮浪漫成与她的同类竞技；"换作是我，我会跑"以想象句收尾，把逃亡写成了他替她做的决定。
-**读者视角提示**：从这里起两人关系正式进入"猎场"阶段：他给她先跑权，她得了第一次真正意义上的逃命——双向追猎的规则由他定，但破规则的人会是她。
+**读者视角提示**：从这里起两人关系正式进入"猎场"阶段：他给她先跑权，把逃命的起跑线画在她脚下——双向追猎的规则由他定，但破规则的人会是她。
 
 ## 本章词汇
 
@@ -113,4 +113,4 @@ modified: "2026-11-09"
 | concussion | 脑震荡 | It would’ve been a concussion at the least, death at the worst. |
 
 ## 一句话总结
-一个纸人捅穿八年秘密，一条红斗篷终结所有伪装——当 Winter 笑着数出十五秒，Sterling 第一次成了逃命的那个。
+一个纸人捅穿八年秘密，一条红斗篷终结所有伪装——当 Winter 笑着数出十五秒，猎手 Sterling 被摆上了逃命的位置。
