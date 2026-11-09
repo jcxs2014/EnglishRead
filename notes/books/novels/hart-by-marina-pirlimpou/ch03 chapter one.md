@@ -23,7 +23,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子先把公司的业务摊开——bodyguard services, private guards, surveillance——再落回「我」的处境：has made me tread into morally and legally ambiguous territory。It’s not the first time 与 it probably won’t be the last 首尾扣住，把一次越界写成常态；「模糊」不是说法律不清，而是说他知道界线在哪、仍然走过去了。
 
-**读者视角提示**：读者由此知道 Devon 不是普通公司老板：他的权力带有灰色成分，而且他对此有自觉。后面他威胁骚扰者、想「烧掉那家公司」时，读者不会意外——这一句提前把手段的合法性交代清楚。
+**读者视角提示**：读者由此知道 Devon 不是普通公司老板：他的权力带有灰色成分，而且他对此有自觉。后面他的手下威胁骚扰者、他想「烧掉那家公司」时，读者不会意外——这一句提前把手段的合法性交代清楚。
 
 > **原句 2:** "It’s the scent that hits me before anything else. That roots me in place, and tells me who it is before I’ve heard his voice or looked at his face. That makes every muscle in my body tighten with awareness, with familiarity."
 
