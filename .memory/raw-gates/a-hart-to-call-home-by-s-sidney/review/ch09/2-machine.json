@@ -1,0 +1,403 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch09 eight.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch09_8_ashton.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Emmy Jean might be Harriet's kid; Brooks's niece and Silas and Josie's granddaughter, but on this ranch, one cowboy's ba",
+          "ok": true,
+          "pos": 417
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Of his 1990s spiky boyband hair and his adorable, wire-rimmed glasses. Of his shy smiles and careful touches",
+          "ok": true,
+          "pos": 2337
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He was so different from everything I thought I could ever want—a software engineer in New York City, a man who rarely h",
+          "ok": true,
+          "pos": 3066
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I'd taken my bite of the apple, and I finally got to savor its sweetness. Until the apple poisoned me",
+          "ok": true,
+          "pos": 3635
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Horses have always been there for me, even when people weren't. I take three long, deep breaths and feel my heart rate s",
+          "ok": true,
+          "pos": 3823
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Guess it's just you and me then, devil.\" Brooks looks at me, holding out Bunny between us. I take one yellow paw, and B",
+          "ok": true,
+          "pos": 6021
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There's something about an enormous man turning into a pile of mush for a little kid that sends my ovaries into overdriv",
+          "ok": true,
+          "pos": 9251
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He's a man. Grown and imposing, but with the biggest heart and the kindest soul. And perhaps worst of all, the most dang",
+          "ok": true,
+          "pos": 12439
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "You know you can talk to me, right? Any time. Anything you need. It's just me, Ash",
+          "ok": true,
+          "pos": 14666
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Somehow, the fact that I've known him my whole life, the fact that we grew up together, right here on the ranch, means n",
+          "ok": true,
+          "pos": 15241
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "We roll to a stop beside the creek, right outside my front door. Despite this truck being absolutely gargantuan, the cab",
+          "ok": true,
+          "pos": 16013
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The name that falls from my lips is the one that belongs to an enormous cowboy with a shit-eating grin. A cowboy with a ",
+          "ok": true,
+          "pos": 18922
+        }
+      ],
+      "words": 47
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.7
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3620,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

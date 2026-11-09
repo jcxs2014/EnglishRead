@@ -1,0 +1,81 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch09",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch09_8_ashton.txt",
+ "facts": [
+  {
+   "fact": "牧场共识：一个牛仔的孩子是所有人的孩子。",
+   "anchor": "Emmy Jean might be Harriet’s kid; Brooks’s niece and Silas and Josie’s granddaughter, but on this ranch, one cowboy’s baby is everyone’s baby.",
+   "start": 438,
+   "end": 580
+  },
+  {
+   "fact": "她小时候有自己的布偶 Macy（cowgirl ragdoll），遗落在 Miss Celia 餐馆桌上，Mr. Hart 一小时内送回还带了盒装派。",
+   "anchor": "Mr. Hart showed up less than an hour later, with Macy in one hand and a thick slice of pie boxed up in the other.",
+   "start": 974,
+   "end": 1087
+  },
+  {
+   "fact": "她回忆 Declan：九十年代刺猬头男团发型与可爱的细金属框眼镜。",
+   "anchor": "Of his 1990s spiky boyband hair and his adorable, wire-rimmed glasses.",
+   "start": 2394,
+   "end": 2464
+  },
+  {
+   "fact": "两人相识于咖啡店：她把咖啡泼上他的衬衫，他大笑并买新咖啡给她。",
+   "anchor": "We met in a coffee house, where he quite literally bumped into me and I spilled my coffee on him.",
+   "start": 2712,
+   "end": 2809
+  },
+  {
+   "fact": "Declan 是纽约软件工程师，住 Hudson Yards，意大利皮鞋、法餐术语说得毫不违和。",
+   "anchor": "a software engineer in New York City, a man who rarely had to leave his Hudson Yards loft",
+   "start": 3195,
+   "end": 3284
+  },
+  {
+   "fact": "她咬下纽约苹果尝到甜味——直到苹果把她毒倒。",
+   "anchor": "Until the apple poisoned me.",
+   "start": 3781,
+   "end": 3809
+  },
+  {
+   "fact": "她在 Autumn Sage 与 Whiteleaf Mountain mint 之间的灌木丛里找到 Bunny。",
+   "anchor": "right between a patch of Autumn Sage and Whiteleaf Mountain mint",
+   "start": 4378,
+   "end": 4442
+  },
+  {
+   "fact": "Bunny 找到后群聊庆祝：Jody 宣布解散搜索队、Brooks 约在 Harriet 家碰头。",
+   "anchor": "STAND DOWN MEN bunny been found",
+   "start": 5006,
+   "end": 5037
+  },
+  {
+   "fact": "看着大块头为孩子融化成软泥让她身体反应强烈——到 Brooks 更是另一回事。",
+   "anchor": "There’s something about an enormous man turning into a pile of mush for a little kid that sends my ovaries into overdrive.",
+   "start": 9564,
+   "end": 9686
+  },
+  {
+   "fact": "深夜独处释放到顶点时喊出的名字是 Brooks——他可能已俘虏她的心将近二十年。",
+   "anchor": "The name that falls from my lips is the one that belongs to an enormous cowboy with a shit-eating grin.",
+   "start": 19456,
+   "end": 19559
+  }
+ ],
+ "relations": [
+  "Silas 与 Josie 是 Brooks 的父母（Emmy 的祖父母）",
+  "Macy 是她童年的布偶、Mr. Hart 是归还者",
+  "Declan 是咖啡店相遇的软件工程师，后成为三人关系一方",
+  "Garlic 是驮她找 Bunny 的年轻马"
+ ],
+ "numbers": [
+  "三人关系的八个月 whirlwind",
+  "被俘的心将近二十年（nearly twenty years）",
+  "从小屋到 Brooks 家步行八分钟",
+  "Emmy 的 slider cheeseburger 配薯条"
+ ],
+ "verified": "10/10 anchors hit（sun/moon 句误置已移往 ch12）",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

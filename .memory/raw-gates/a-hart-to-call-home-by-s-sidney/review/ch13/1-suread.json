@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch13",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch13_11_brooks.txt",
+ "facts": [
+  {
+   "fact": "整整一周 Brooks 每天花数小时和她一起驯 Jagger。",
+   "anchor": "And I spend several hours each day working on breaking Jagger, with Ashton at my side.",
+   "start": 539,
+   "end": 625
+  },
+  {
+   "fact": "得知她曾单独驯 Jagger 后，他自行安排她总有人陪同，多数是他本人。",
+   "anchor": "Since learning that she’s been working with him alone, I’ve taken it upon myself to make sure she’s always accompanied.",
+   "start": 628,
+   "end": 747
+  },
+  {
+   "fact": "她在围场发作：不需要你当保姆，要么出力要么别挡路。",
+   "anchor": "“No, you ain’t,” she spits venomously. “I don’t need you babyin’ me, Brooks, I need you pullin’ your weight or gettin’ out of my damn face so I can do my job.”",
+   "start": 2907,
+   "end": 3066
+  },
+  {
+   "fact": "Gordy（Kitchener）是少数有两个名字的帮手。",
+   "anchor": "Most people on the ranch just have one name that everybody uses, but Gordy is one of the few who has two: he goes either by Gordy, or Kitch, for his last name, Kitchener.",
+   "start": 3825,
+   "end": 3995
+  },
+  {
+   "fact": "上周被 Jagger 甩下时浑身裹泥、皮下淤青。",
+   "anchor": "Especially after hearing how he bucked her last week, and seeing not only the amount of mud she had coating her skin, but the bruises that bloomed beneath it, too.",
+   "start": 5564,
+   "end": 5727
+  },
+  {
+   "fact": "安顿好 Jagger 后她故意肩撞他，气冲冲回小屋。",
+   "anchor": "Then, she pushes past me, deliberately knocking into me with her shoulder, and storms off in the direction of her cabin.",
+   "start": 6501,
+   "end": 6621
+  },
+  {
+   "fact": "每周三是牧场开放日，Harriet 和 Mama Tanner 供早午餐。",
+   "anchor": "Wednesdays on the ranch are free-for-all days. Most of the week, Harriet and Mama Tanner provide breakfast and lunch for whoever is working, on an open-kitchen basis.",
+   "start": 8423,
+   "end": 8589
+  },
+  {
+   "fact": "次日 Everett 拉他做牛群转场，从日出前干到下午。",
+   "anchor": "The following day, Everett pulls me onto cattle rotation duty, and we ride alongside several herds of cows and bulls as we move them around from one pasture to the next.",
+   "start": 9200,
+   "end": 9369
+  }
+ ],
+ "relations": [
+  "两人友情近二十五年、与他哥哥的友情快三十年",
+  "他不敢告诉 Ev：吵架是因为迷上她",
+  "Ashton 深得牧场人心",
+  "Ruth 想家不适，Ev 陪她在家"
+ ],
+ "numbers": [
+  "友情 two and a half decades",
+  "Ev 五英尺十、比他矮七英寸",
+  "吃三明治也要短信十分钟",
+  "一起看了两部电影",
+  "周三聚餐夜"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch14",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch14_12_ashton.txt",
+ "facts": [
+  {
+   "fact": "Brooks 走进屋子把她堵在冰箱前，一只手撑在头顶柜门。",
+   "anchor": "Brooks stalks through the house, finding me at the fridge and caging me in, one hand on the door above my head.",
+   "start": 74,
+   "end": 185
+  },
+  {
+   "fact": "他道歉：不是想吵架，只是无法原谅本可阻止她受伤的自己。",
+   "anchor": "I just don’t want to see you get hurt, you know? I couldn’t forgive myself if you got hurt and I could’ve stopped it.",
+   "start": 1624,
+   "end": 1741
+  },
+  {
+   "fact": "临走前他绕屋道晚安、向她敬礼眨眼才开车离去。",
+   "anchor": "Before he leaves, he circles the house, saying goodnight to everyone, then offers me a salute and one final wink before he climbs into his truck and roars away.",
+   "start": 2924,
+   "end": 3084
+  },
+  {
+   "fact": "爸爸催她回家睡觉：明天 Mick 借她驯马，自己要进城。",
+   "anchor": "Go on, kiddo. Go home. Get some sleep. Mick says he’s borrowin’ you for some horse trainin’ tomorrow.",
+   "start": 4457,
+   "end": 4558
+  },
+  {
+   "fact": "回到小屋发现门口台阶上有个无地址标签的棕色小盒。",
+   "anchor": "When I reach my cabin, there’s a small box on my doorstep. Brown and unassuming.",
+   "start": 5489,
+   "end": 5569
+  },
+  {
+   "fact": "手写便条说她唇膏快用完，署名 B x。",
+   "anchor": "Looked like you were getting low on that goopy cupcake stuff. B x",
+   "start": 6688,
+   "end": 6753
+  },
+  {
+   "fact": "回忆：Ms. Josie 派四人去 Heath 郊外 Aunt Roberta 自摘农场采草莓。",
+   "anchor": "Teenage and wild, Ms. Josie entrusted the four of us—me, Brooks, Ev, and Jody—to fill a couple buckets with berries at Aunt Roberta’s U-Pick farm right outside of Heath.",
+   "start": 8321,
+   "end": 8490
+  },
+  {
+   "fact": "次日晨跑的 Brooks 要她用新模具给他烤点东西。",
+   "anchor": "No problem. Bake me somethin’ with those cutters, okay?” He jogs backward as he speaks, before saluting and turning to face his direction of travel.",
+   "start": 10019,
+   "end": 10167
+  }
+ ],
+ "relations": [
+  "Brooks 是她一辈子的挚友而她正生出不该有的感觉",
+  "爸爸的「爱你到月亮」是从小听到大的对白",
+  "他连唇膏牌子口味库存都注意到",
+  "Aunt Roberta 终身未婚却是大家的姑姑"
+ ],
+ "numbers": [
+  "九点后厨房只剩她和爸爸",
+  "盒里有五支纸杯蛋糕味唇膏",
+  "三支原味唇膏",
+  "爸爸胡茬一两天没刮、灰发变多",
+  "couple buckets 草莓"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

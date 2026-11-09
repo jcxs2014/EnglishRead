@@ -1,0 +1,76 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch12",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch12_10_ashton.txt",
+ "facts": [
+  {
+   "fact": "她答应二十分钟内过去，边洗澡边后悔。",
+   "anchor": "I promised Brooks I’d be over in twenty minutes, and I’m rethinking that now as the hot water pelts down on my skin.",
+   "start": 349,
+   "end": 465
+  },
+  {
+   "fact": "白天驯家里最新的马被摔好几次，头发里全是泥。",
+   "anchor": "My muscles ache from a day of breaking one of our newest horses—and being bucked off him several times—and the mud in my hair is proving especially difficult.",
+   "start": 466,
+   "end": 624
+  },
+  {
+   "fact": "十九岁搬进小屋——外公从小就留给她和 Everett 的两座之一。",
+   "anchor": "I moved out here into the cabin when I was nineteen. It’s one of the two cabins Grandaddy Smith earmarked for me and Everett when we were little.",
+   "start": 951,
+   "end": 1096
+  },
+  {
+   "fact": "Tansy 画是 Ev 画的，印了几份，她妈妈办公室也有一幅。",
+   "anchor": "Ev painted it. Got a couple prints done, pretty sure your mom has a matching one in her office.",
+   "start": 5200,
+   "end": 5295
+  },
+  {
+   "fact": "Ms. Angie 救下三匹被拴路边的马，叫丈夫 Mick 开两马位拖车来接。",
+   "anchor": "She was one of three horses left tied up at the roadside. Ms. Angie called her husband, Mick, who immediately drove out with a two-horse trailer.",
+   "start": 6631,
+   "end": 6776
+  },
+  {
+   "fact": "Goody/Clipper 仍在 Fisher 家，Perry 被驯后由外公买下。",
+   "anchor": "The two boys, Goody and Clipper, still live with the Fishers, but Grandaddy Smith bought Periwinkle from them after we broke her.",
+   "start": 7340,
+   "end": 7469
+  },
+  {
+   "fact": "Brooks 要她保证不单独驯 Jagger——它才勉强脱野。",
+   "anchor": "“Shouldn’t be working with him alone. Promise me you won’t, Ash,” he says lowly. “He’s barely greenbroke. You coulda got hurt.”",
+   "start": 9429,
+   "end": 9556
+  },
+  {
+   "fact": "她伸手拿鸡翅时被他抓住手腕。",
+   "anchor": "My fingers are just about to close around a particularly saucy one when his large hand closes around my wrist instead.",
+   "start": 9641,
+   "end": 9759
+  },
+  {
+   "fact": "他像太阳月亮一样恒定——她去世界任何角落都知道他会在。",
+   "anchor": "Brooks has seen me in every stage of life, and like the sun and the moon, he’s constant.",
+   "start": 12289,
+   "end": 12377
+  }
+ ],
+ "relations": [
+  "两人从小一起长大",
+  "她十二岁起发誓戒男人却一直暗恋 Brooks",
+  "Ev 爱画画折纸、画技深不可测",
+  "外公早说小屋是留给兄妹的"
+ ],
+ "numbers": [
+  "答应二十分钟",
+  "换衣十七分钟、步行八分钟",
+  "十九岁搬入",
+  "三匹被救的马",
+  "十二岁发誓"
+ ],
+ "verified": "9/9 anchors hit",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}
