@@ -1,0 +1,381 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/ch04 chapter two.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/text/ch04_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I reach up, and rub a spot in the middle of my chest, a spot that hasn’t stopped buzzing since the moment I stepped into",
+          "ok": true,
+          "pos": 304
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I can still smell him. His cedarwood and bergamot scent wrapped softly around me the moment I walked into the vast offic",
+          "ok": true,
+          "pos": 548
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Damn it, I hate this. I hate being emotional all the fucking time. I hate the concern that chases away their earlier smi",
+          "ok": true,
+          "pos": 2920
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Before Eli, I had no idea that someone could be perfectly content and happy while feeling like crying all the time for n",
+          "ok": true,
+          "pos": 5581
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I saw your dad today, Eli",
+          "ok": true,
+          "pos": 6802
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The idea makes something wither inside me. But even as I think that, it doesn’t feel right. It didn’t feel like he was s",
+          "ok": true,
+          "pos": 7212
+        },
+        {
+          "text": "wanted me there",
+          "ok": true,
+          "pos": 7369
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I won’t get into too many details, but it was bad. Really bad. Mr. Kingston offered to transfer him to a different depa",
+          "ok": true,
+          "pos": 9756
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You have to understand, Sam, it’s crucial that relationships within the company, especially between superiors and subor",
+          "ok": true,
+          "pos": 10181
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Plus, the fact that you already have a family certainly works in favor of not having similar potential outcomes in the ",
+          "ok": true,
+          "pos": 10722
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Not Mr. Kingston.” His tone brooks no argument, his voice dropping lower, some of the earlier softness in his eyes morp",
+          "ok": true,
+          "pos": 16523
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The door opens and closes behind me, the morning already busy. Busy enough that, as I sit at my desk outside Devon’s off",
+          "ok": true,
+          "pos": 19732
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 20,
+        "为什么这样写": 83,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.19,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 21,
+        "为什么这样写": 65,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.2,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 20,
+        "为什么这样写": 84,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.19,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 18,
+        "为什么这样写": 96,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.19,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 9,
+        "关键词": 5,
+        "为什么这样写": 76,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.16,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 16,
+        "为什么这样写": 69,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.23,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 20,
+        "为什么这样写": 56,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.29,
+        "为什么这样写": 0.26,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 17,
+        "为什么这样写": 84,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.2,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 15,
+        "为什么这样写": 81,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.19,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 13,
+        "为什么这样写": 85,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.18,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 19,
+        "为什么这样写": 69,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.22,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3731,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch08",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch08_six.txt",
+ "facts": [
+  {
+   "fact": "吻开始后 Sam 的身体放松下来；他想着 Devon 吻掉了他的眼泪，看见他把衬衫弄湿时的难受，并把一切都处理好，安抚他像最自然的事。",
+   "anchor": "He kissed my tears.",
+   "start": 312,
+   "end": 331
+  },
+  {
+   "fact": "Sam 想相信 Devon 正在把他据为己有，哪怕事实并非如此；此刻他只想感觉自己属于 Devon、Devon 也属于他，哪怕只有一小会儿。",
+   "anchor": "I want to believe he’s claiming",
+   "start": 890,
+   "end": 921
+  },
+  {
+   "fact": "解扣子时 Sam 僵住，承认「我不想让你看见我裸着」；他说自己的身体不一样了、变了、被耗损了，声音细而脆。",
+   "anchor": "I don’t want you to see me naked.",
+   "start": 4538,
+   "end": 4571
+  },
+  {
+   "fact": "Devon 单膝跪下替 Sam 脱鞋，再慢慢替他脱衣；Sam 想这是我的老板、掌管整家公司的强大 alpha，却在确保我舒服。",
+   "anchor": "He’s undressing me.",
+   "start": 5706,
+   "end": 5725
+  },
+  {
+   "fact": "Devon 没有掀或脱掉 Sam 的衬衫，只吻他能看见的地方；Sam 由此确认和他在一起没有什么好怕的，随后主动请他帮自己脱下衬衫。",
+   "anchor": "He only kisses the parts he can see",
+   "start": 11415,
+   "end": 11450
+  },
+  {
+   "fact": "衬衫敞开时 Sam 屏住呼吸，因为 Devon 会看见那道粉色剖腹产疤痕——快四个月了仍凸起；Devon 吻过疤痕、妊娠纹与腹部每一处。",
+   "anchor": "C-section scar",
+   "start": 12814,
+   "end": 12828
+  },
+  {
+   "fact": "亲密结束后 Devon 把 Sam 抱在怀里，手掌贴脸、手指梳进他乱掉的头发，像序章那一夜一样；Sam 在他心跳声中睡去。",
+   "anchor": "just like he did that night",
+   "start": 19389,
+   "end": 19416
+  }
+ ],
+ "relations": [
+  "Devon—Sam：老板/助理（办公室亲密）",
+  "Sam—Eli：父子（Eli 约四个月大）",
+  "Sam 有剖腹产疤痕"
+ ],
+ "numbers": [
+  "快四个月（剖腹产疤痕）"
+ ]
+}

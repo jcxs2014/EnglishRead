@@ -1,0 +1,63 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch16",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch16_fourteen.txt",
+ "facts": [
+  {
+   "fact": "安保主管查明警报来源：一个升级过的动作传感器把维修无人机的反射误判为未授权移动；只是一次传感器故障，虚惊一场。",
+   "anchor": "A sensor malfunction.",
+   "start": 153,
+   "end": 174
+  },
+  {
+   "fact": "Devon 从没告诉任何人自己怎样辜负了弟弟，也没让人看见十年来的罪疚与羞耻，还常常希望受伤的本来是自己。",
+   "anchor": "I’ve never told anyone about how hard I failed my little brother.",
+   "start": 1071,
+   "end": 1136
+  },
+  {
+   "fact": "Devon 说十年来的羞耻与罪疚，每当他靠近 Sam、每当 Sam 看他像他配得上他时，就缩进心里的一个角落。",
+   "anchor": "All the shame, all the crushing guilt",
+   "start": 4138,
+   "end": 4175
+  },
+  {
+   "fact": "Sam 犹豫地问 Devon 想不想见 Eli；Devon 想：我怎么会不想要他的一部分、我的 mate 的一部分。",
+   "anchor": "How could I not want something that is part of him, part of my mate?",
+   "start": 8107,
+   "end": 8175
+  },
+  {
+   "fact": "Devon 第一次见到 Eli：浅色大眼睛、鼓鼓的红脸颊、小拳头一握一松；看着这个小小的纯真之物，他疼得前所未有，以最好也最坏的方式。",
+   "anchor": "Eli looks at me with his big, light eyes",
+   "start": 8557,
+   "end": 8597
+  },
+  {
+   "fact": "Devon 握住父子俩的手，说 Sam 说得对，「他很完美，就像你一样」；Sam 的眼神闪着他读不懂的东西，随后吻了他。",
+   "anchor": "Just like you.",
+   "start": 9836,
+   "end": 9850
+  },
+  {
+   "fact": "Devon 在 Sam 家里看见满屋生活痕迹：婴儿 play corner、拼布被子、熨好的衬衫、木制小动物、墙上的家庭照片；这里的安静温柔、轻如羽毛，与他的公寓不同。",
+   "anchor": "Their life is everywhere around me",
+   "start": 11051,
+   "end": 11085
+  },
+  {
+   "fact": "Devon 在 Sam 家里承认自己第一次觉得可以垮、可以被接住，然后低声说「I love you」；Sam 回答「I love you too」。",
+   "anchor": "I love you too.",
+   "start": 15922,
+   "end": 15937
+  }
+ ],
+ "relations": [
+  "Devon—Sam：老板/助理→伴侣（周末）",
+  "Devon—Eli：初见（实为父子，Devon 不知）",
+  "Sam—Gabriel/Zach：父子（照片/家庭）"
+ ],
+ "numbers": [
+  "六个月前的一夜"
+ ]
+}

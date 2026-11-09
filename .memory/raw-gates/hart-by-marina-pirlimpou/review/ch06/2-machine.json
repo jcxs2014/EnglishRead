@@ -1,0 +1,300 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/ch06 chapter four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/text/ch06_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I didn’t. I made them for him, to indulge his out-of-control sweet tooth. To make sure he had something sweet to start h",
+          "ok": true,
+          "pos": 1100
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The name feels like a gentle breeze that ruffles the short hair on my nape, a soft caress that whispers over my skin and",
+          "ok": true,
+          "pos": 2438
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But",
+          "ok": true,
+          "pos": 842
+        },
+        {
+          "text": "why? He’s my boss. He’s allowed to show it if he doesn’t agree with something I say or do. He doesn’t need to worry abou",
+          "ok": true,
+          "pos": 8106
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You know how alphas are, Sam,” he murmurs, eyes fixed on our point of contact. “If there’s one thing we despise is look",
+          "ok": true,
+          "pos": 9351
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I had your baby. And I’m terrified of telling you",
+          "ok": true,
+          "pos": 11700
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I want that. I want to take him to my favorite place where they always have the best sweet snacks. I want to take a walk",
+          "ok": true,
+          "pos": 13914
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Spend time outside of work? I don’t know if—” If I can handle that. If I can manage to maintain any sort of distance fr",
+          "ok": true,
+          "pos": 14134
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And somehow, hearing that name now hurts. It hurts long after I’m back at my own desk, working on autopilot",
+          "ok": true,
+          "pos": 15134
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 21,
+        "为什么这样写": 108,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.23,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 21,
+        "为什么这样写": 98,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.25,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 19,
+        "为什么这样写": 94,
+        "读者视角提示": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.22,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 16,
+        "为什么这样写": 101,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.22,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 14,
+        "为什么这样写": 108,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.26,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 17,
+        "为什么这样写": 77,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.27,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 14,
+        "为什么这样写": 95,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.18,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 19,
+        "为什么这样写": 84,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.25,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2951,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

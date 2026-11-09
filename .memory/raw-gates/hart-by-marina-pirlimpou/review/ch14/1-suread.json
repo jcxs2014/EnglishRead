@@ -1,0 +1,63 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch14",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch14_twelve.txt",
+ "facts": [
+  {
+   "fact": "Sam 被送回公司取车回家后，Devon 的公寓仍满是他的气味；Devon 坐在沙发上，想起 Sam 那句「Where did you go?」，知道自己走神被看见了。",
+   "anchor": "Sam’s scent lingers long after he’s gone.",
+   "start": 25,
+   "end": 66
+  },
+  {
+   "fact": "Devon 脑中有声音尖叫着要他放 Sam 走，说没有他 Sam 会过得更好、离他远远的，去一个不会因他受伤的地方。",
+   "anchor": "voices screaming at me to let him go",
+   "start": 873,
+   "end": 909
+  },
+  {
+   "fact": "弟弟 Angel 来电，聊艺术课的 acrylics 与 clay modeling，说自己没事；随后承认有个同学找他麻烦，他用拐杖「意外」抽了对方小腿，还得意于那个声音。",
+   "anchor": "I accidentally whipped him with my cane.",
+   "start": 2993,
+   "end": 3033
+  },
+  {
+   "fact": "Angel 惊讶 Devon 居然休假；Devon 承认自己想被 Sam 照顾，只想要 Sam 的照顾，想停止思考、把脑子关掉一会儿。",
+   "anchor": "I wanted to let him take care of me.",
+   "start": 5432,
+   "end": 5468
+  },
+  {
+   "fact": "Devon 告诉 Angel 自己遇到一个人（Sam）；Angel 说「You deserve this, Devon」，Devon 心里回答「不，我不配」，但还是想要。",
+   "anchor": "I don’t deserve any of this",
+   "start": 8504,
+   "end": 8531
+  },
+  {
+   "fact": "第二天早晨 Devon 在办公室问 Sam 愿不愿意和他约会；Sam 说「I’d really like that」，Devon 一整天带着这个笑开会。",
+   "anchor": "Would you like to go on a date with me?",
+   "start": 11133,
+   "end": 11172
+  },
+  {
+   "fact": "开会时公司入侵警报响起，屏幕显示「Intruder detected. Lockdown procedures in effect.」；Devon 立刻冲出会议室，命令保安让路。",
+   "anchor": "Intruder detected. Lockdown procedures in effect.",
+   "start": 12779,
+   "end": 12828
+  },
+  {
+   "fact": "Devon 跑到办公室，发现 Sam 安全坐在沙发上；他跪在 Sam 腿间抱住他，把脸靠在他膝上，最后「I feel nothing.」",
+   "anchor": "And I let myself crumble",
+   "start": 16533,
+   "end": 16557
+  }
+ ],
+ "relations": [
+  "Devon—Angel：兄弟（电话，Angel 22 岁、失明、用拐杖）",
+  "Devon—Sam：老板/助理；Devon 正式邀约",
+  "Marcus Cross：客户（前后章）"
+ ],
+ "numbers": [
+  "十年罪疚"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch04",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch04_two.txt",
+ "facts": [
+  {
+   "fact": "Sam 面试完从 King Security（Devon 的公司）开了一小时车回家，进门时呼吸仍发抖、心跳没平复，胸口正中从进办公室对视那刻起一直发麻。",
+   "anchor": "From King Security.",
+   "start": 280,
+   "end": 299
+  },
+  {
+   "fact": "Sam 与两位父亲同住：Dad 用「入侵者挑错家庭」开玩笑，Pops 端着婴儿监视器从走廊出来，两人照例拌嘴。",
+   "anchor": "If you’re an intruder, you chose the wrong family",
+   "start": 1196,
+   "end": 1245
+  },
+  {
+   "fact": "Sam 告诉父亲们面试「很好，我拿到工作了」；父母露出纯粹的喜悦，他忍住眼泪，谎称自己只是想念 Eli。",
+   "anchor": "Good. It was good, I got the job.",
+   "start": 2848,
+   "end": 2881
+  },
+  {
+   "fact": "Sam 抱起婴儿 Eli（本名 Elliot）喂奶；Eli 有灰色眼睛，气味像露水玫瑰带一点柑橘落在暖木上；Sam 提到涨奶与泵奶的身体压力。",
+   "anchor": "Like dewy roses with a hint of citrus resting on warm wood.",
+   "start": 4913,
+   "end": 4972
+  },
+  {
+   "fact": "Sam 抱着 Eli 时在心里说「我今天见到你爸爸了，Eli」——这句话只对婴儿说，暗示 Devon 是 Eli 的父亲。",
+   "anchor": "I saw your dad today, Eli.",
+   "start": 7028,
+   "end": 7054
+  },
+  {
+   "fact": "周一 Colin 交代职责，警告 Devon 重视忠诚、被背叛时很无情；前任 PA Daniel 因「单方面感情」被提出调岗后泄露公司数据，几乎酿成大祸。",
+   "anchor": "The unreciprocated affection kind.",
+   "start": 9931,
+   "end": 9965
+  },
+  {
+   "fact": "Colin 说公司内上下级关系必须严格专业，并称 Sam 已有家庭「有利于避免类似结局」；Sam 听出自己不是因同情被录用，把刚冒头的希望捏碎。",
+   "anchor": "Plus, the fact that you already have a family",
+   "start": 11077,
+   "end": 11122
+  },
+  {
+   "fact": "Devon 在办公室要求 Sam 两人独处时叫他 Devon，不是 sir 也不是 Mr. Kingston；Sam 第一次在白天叫出「Good morning, Devon」。",
+   "anchor": "when it’s you and me, you call me Devon",
+   "start": 17252,
+   "end": 17291
+  }
+ ],
+ "relations": [
+  "Sam—Gabriel（Pops，红发壮汉）/Zach（Dad，深色长辫）：父子",
+  "Sam—Eli（Elliot）：父子，Sam 哺乳",
+  "Devon—Sam：老板/助理（周一报到）",
+  "Daniel：前任 PA；Colin：行政助理"
+ ],
+ "numbers": [
+  "一周内",
+  "周一报到",
+  "Eli 刚出生"
+ ]
+}

@@ -1,0 +1,268 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/ch17 chapter fifteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/text/ch17_fifteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Trying to cook and not burn even something as simple as pasta while the person you’ve been longing for has just said he ",
+          "ok": true,
+          "pos": 17
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I like those with love stories that feel inevitable. People who are brought together by chance, but it doesn’t feel lik",
+          "ok": true,
+          "pos": 3958
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Mhm. It’s not always there, but when you smile a bit harder, or when you’re happy, it’s there.” I snuggle deeper into h",
+          "ok": true,
+          "pos": 7122
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "And I fall asleep just like that—in Devon’s arms, surrounded by cedarwood and bergamot, our baby sleeping peacefully in ",
+          "ok": true,
+          "pos": 8132
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Come, little one,” I whisper, taking him to the living room. “Let’s see if we can manage not to wake your daddy.”",
+          "ok": true,
+          "pos": 9469
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He smells like roses and wood on a warm day of spring. Like the first rays of sunshine after a long time of cloudy skies",
+          "ok": true,
+          "pos": 10626
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "We stay like this until the sky is fully pink",
+          "ok": true,
+          "pos": 11385
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 24,
+        "为什么这样写": 75,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.22,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 22,
+        "为什么这样写": 79,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.25,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 22,
+        "为什么这样写": 75,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.26,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 14,
+        "为什么这样写": 83,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.21,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 14,
+        "为什么这样写": 82,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.22,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 18,
+        "为什么这样写": 74,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.24,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 13,
+        "为什么这样写": 83,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.28,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2206,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

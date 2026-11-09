@@ -1,0 +1,322 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/ch14 chapter twelve.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/hart-by-marina-pirlimpou/text/ch14_twelve.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He feels it when my mind takes me away from him, when it drags me to places, I don’t want to go, when it fills with voic",
+          "ok": true,
+          "pos": 730
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I wanted to let him take care of me. Him. Only him",
+          "ok": true,
+          "pos": 5193
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“He’s kind, and smart, and beautiful.” My pulse thunders just remembering what having him in my arms is like. “And he’s ",
+          "ok": true,
+          "pos": 6643
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I’ve never wanted to be able to run around without falling to my death in the first five seconds like I do in this mome",
+          "ok": true,
+          "pos": 6829
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Because no, I don’t. I don’t deserve any of this, but I want it anyway",
+          "ok": true,
+          "pos": 8132
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Would you like to go on a date with me?”",
+          "ok": true,
+          "pos": 10697
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "What if I’m too late again",
+          "ok": true,
+          "pos": 14408
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And I let myself crumble, kneeling on the floor between his legs, my arms wrapping around him as my head rests on his la",
+          "ok": true,
+          "pos": 15942
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I feel nothing",
+          "ok": true,
+          "pos": 16148
+        }
+      ],
+      "words": 3
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 20,
+        "为什么这样写": 74,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.25,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 9,
+        "为什么这样写": 85,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.2,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 16,
+        "为什么这样写": 110,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.22,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 18,
+        "为什么这样写": 80,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.22,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 15,
+        "为什么这样写": 62,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.26,
+        "为什么这样写": 0.37,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 9,
+        "为什么这样写": 90,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.2,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 7,
+        "为什么这样写": 84,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.21,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 17,
+        "为什么这样写": 86,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.22,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 7,
+        "为什么这样写": 110,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.35,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3178,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

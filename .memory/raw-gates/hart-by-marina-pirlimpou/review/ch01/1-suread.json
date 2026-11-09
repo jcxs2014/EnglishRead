@@ -1,0 +1,63 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch01",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch01_author_s_note.txt",
+ "facts": [
+  {
+   "fact": "作者说这本虽是 Body Heat 系列第二本，但可以当作完全独立的故事来读。",
+   "anchor": "it can be read as a complete standalone",
+   "start": 166,
+   "end": 205
+  },
+  {
+   "fact": "作者点名本书的两位主角是 Sam 与 Devon，并希望读者喜欢他们的故事。",
+   "anchor": "Sam and Devon",
+   "start": 92,
+   "end": 105
+  },
+  {
+   "fact": "作者预告本书的配方：高辣度（high spice），以及大量温柔与照护（softness and caretaking）。",
+   "anchor": "high spice, and so much softness and caretaking",
+   "start": 216,
+   "end": 263
+  },
+  {
+   "fact": "世界设定是当代、不形变的 omegaverse romance：故事发生在现代世界，唯一的超自然设定是 alpha 与 omega 不形变却保留动物特征。",
+   "anchor": "contemporary, non-shifter omegaverse romance",
+   "start": 460,
+   "end": 504
+  },
+  {
+   "fact": "作者列出的动物性机能包括 omega 分泌 slick、heats、ruts、scenting、marking、knotting 与 mating bites。",
+   "anchor": "heats, ruts, scenting, marking, knotting, and mating bites",
+   "start": 774,
+   "end": 832
+  },
+  {
+   "fact": "这是一个全男性的世界，男性怀孕（mpreg）存在，不过本书里怀孕发生在幕后（off-page）。",
+   "anchor": "mpreg (male pregnancy) exists",
+   "start": 868,
+   "end": 897
+  },
+  {
+   "fact": "作者说明这个世界没有性传播疾病，避孕只需在 omega 的 heat 期间不让精液进入子宫。",
+   "anchor": "penetrating the womb during the omega’s heat",
+   "start": 1124,
+   "end": 1168
+  },
+  {
+   "fact": "这篇作者按由 Marina Pirlimpou 署名。",
+   "anchor": "Marina Pirlimpou",
+   "start": 1284,
+   "end": 1300
+  }
+ ],
+ "relations": [
+  "作者→读者（直接说明）",
+  "Sam 与 Devon 为本书两位主角",
+  "本书为 Body Heat 系列第 2 本，可独立阅读"
+ ],
+ "numbers": [
+  "Body Heat 系列第 2 本"
+ ]
+}

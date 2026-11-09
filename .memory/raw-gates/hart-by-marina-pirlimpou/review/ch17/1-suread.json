@@ -1,0 +1,63 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch17",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch17_fifteen.txt",
+ "facts": [
+  {
+   "fact": "Sam 一边煮意面一边被刚说爱他的 Devon 不停触碰，觉得连不烧糊意面都成了挑战；他乐意接受这种分心。",
+   "anchor": "Trying to cook and not burn",
+   "start": 24,
+   "end": 51
+  },
+  {
+   "fact": "两人在沙发上吃意面；Devon 否认自己 distracting，说出他在厨房看着 Sam 时真正想做的事，又用亲吻收尾。",
+   "anchor": "I wasn’t distracting",
+   "start": 2189,
+   "end": 2209
+  },
+  {
+   "fact": "Sam 聊电影偏好：喜欢「必然感」的爱情故事，两个人被偶然带到一起却像命运注定；不要 too sad，要 happy ending，且绝对不要狗死。",
+   "anchor": "feel inevitable",
+   "start": 4127,
+   "end": 4142
+  },
+  {
+   "fact": "Sam 说 Devon 笑起来有酒窝，不是一直在，但笑得用力或开心时就有；他看到酒窝就知道 Devon 开心。Devon 说他和 Sam 在一起时常有。",
+   "anchor": "You have a dimple when you smile",
+   "start": 7176,
+   "end": 7208
+  },
+  {
+   "fact": "Sam 在 Devon 怀里睡着，被雪松与佛手柑的气味包围，心里想着「our baby sleeping peacefully in his crib」。",
+   "anchor": "our baby sleeping peacefully",
+   "start": 8555,
+   "end": 8583
+  },
+  {
+   "fact": "后半夜 Devon 被 Eli 的哼声叫醒，轻轻下床把他抱到客厅，低声说「Come, little one」并希望能不吵醒「你爸爸」（Sam）。",
+   "anchor": "Let’s see if we can manage not to wake your daddy.",
+   "start": 9902,
+   "end": 9952
+  },
+  {
+   "fact": "Devon 抱着 Eli 哄睡，发现 Eli 的气味像春日暖阳里的玫瑰与木头、像久阴后的第一缕阳光、像一段被遗忘却乞求被记起的记忆；像 Sam，像家。",
+   "anchor": "He smells like roses and wood",
+   "start": 11032,
+   "end": 11061
+  },
+  {
+   "fact": "Devon 抱着 Eli 在沙发上保持这个姿势，直到天空彻底变成粉色。",
+   "anchor": "We stay like this until the sky is fully pink.",
+   "start": 11818,
+   "end": 11864
+  }
+ ],
+ "relations": [
+  "Sam—Devon：伴侣（周末第一夜）",
+  "Devon—Eli：夜间独自抱起哄睡（实为父子，Devon 不知）",
+  "Sam—Eli：父子"
+ ],
+ "numbers": [
+  "第二天清晨"
+ ]
+}
