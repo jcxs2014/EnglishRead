@@ -13,7 +13,7 @@ modified: "2026-11-09"
 - **叙事手法**：以「送曲奇」串起三户人家（Ev 家—Big John—Brooks 家），甜点一路递进成引信；亲密戏用绰号对句压轴
 
 ## 精读
-> **原句 1:** ""No one calls me Roo here," she says. A slow smile spreads across her face and she grins at me, glassy-eyed. "No one calls me Roo here.""
+> **原句 1:** ""You made a cookie with my roo on it," she says. A slow smile spreads across her face and she grins at me, glassy-eyed. "No one calls me Roo here.""
 
 **中文理解**：Ruth 发现曲奇上画着她专属的袋鼠 emoji，眼神发亮地笑着说——在这里，没人叫我 Roo。
 **关键词**：made a cookie with my roo / A slow smile / glassy-eyed / No one calls me Roo here
@@ -83,10 +83,10 @@ modified: "2026-11-09"
 **为什么这样写**：坠落写成加速度——「harder and faster」的副词比较级暗示她有过对照组（Declan 们的下坠都没这么重）；男孩到男人的换挡在身体经验里完成，不靠宣言。
 **读者视角提示**：freefall 是她的新词库——与 homecoming（安全）并列：他让她同时感到坠落与到家，这正是她认定「危险」的原因。
 
-> **原句 11:** "Gray meets gray as our eyes lock. Years of unspoken sentiments pass between us until I'm the first to look away. I've made a mess of you, devil."
+> **原句 11:** "Gray meets gray as our eyes lock. Years of unspoken sentiments pass between us until I'm the first to look away."
 
 **中文理解**：灰眼睛对上灰眼睛——多年没说出口的话在目光里对账，直到她先移开视线。「我把你弄得一团糟了，devil。」
-**关键词**：Gray meets gray / Years of unspoken sentiments / the first to look away / I've made a mess of you, devil
+**关键词**：Gray meets gray / Years of unspoken sentiments / the first to look away
 **为什么这样写**：对视写成清账仪式——「unspoken sentiments」是本书二十年的存货；他的第一句话用 mess 开场（弄脏了她），把身体事件接回两人惯用的绰号频道。
 **读者视角提示**：她的回答（You always have, demon）是全章最重的一句双关——「弄乱我」这件事他做了二十年；mess 从此是他们的告白同义词。
 
