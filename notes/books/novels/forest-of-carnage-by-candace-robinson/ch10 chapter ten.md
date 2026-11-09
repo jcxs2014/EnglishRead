@@ -101,7 +101,7 @@ modified: "2026-11-09"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dagger | 匕首 | Not missing a breath, the prince gripped the weapon with his free hand and slammed the blade into her neck. |
+| dagger | 匕首 | “Each of the prisoners will receive one dagger to start.” |
 | elm | 榆树 | “Not enjoying the show?” Caston asked from the shadows of a large elm. |
 | foliage | 叶簇；枝叶 | He cursed the foliage, then himself for not having someone thin it before the game began. |
 | ladders | 梯子 | They had climbed iron ladders fastened to the sides of the enclosure and stood on top of the round wall to watch the humans kill each other. |
