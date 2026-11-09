@@ -96,11 +96,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **the-girl-in-blue-by-doreen-carvajal（Doreen Carvajal，非虚构）完工**：21 件精读 md（Prologue+Chapter 1–19+Epilogue，三部对照 ch02–06/ch07–14/ch15–20）+ 总览三篇（概述/金句 29/情感节点 10）。
 
 - 语料：epub 提取 21 件，verify_corpus PASS（件数=目录页三方对齐；实体全书复现，锚点双向不适用）
-- 门禁：gate EXIT=0｜verbatim 157/157=100%｜overview quotes 79/79（含 epub 口径）· labels 0 错｜金句 29 唯一无重复｜21 章覆盖｜check_vocab FAIL 0｜corruption_scan 0｜21/21 chapter.sh rc=0
+- 门禁（完工时点）：gate EXIT=0｜verbatim 157/157=100%｜overview quotes 79/79（含 epub 口径）· labels 0 错｜金句 29 唯一无重复｜21 章覆盖｜check_vocab FAIL 0｜corruption_scan 0｜21/21 chapter.sh rc=0
 - 起草方式：ch01–ch14 主会话直写（每章 suread 素读先行）；ch15–ch21 子代理派工、主会话先素读原文再核回执
-- **T1 自检（同会话）：抽样 ch01/05/09/13/17/21，锚点复现 47/47，六类候选 505 行人读——阻断 0，密度 0<0.2，不触发 T2**；总览撰写期自纠 4 处（章标 ch19→ch15、ch17→ch20、金句⑳时序、两处拼接片段逐字化）。T1 是同会话自检，不是"已通过审查"；T3 深审未做（待用户发起）
-- commit 计数：本任务 20 commits（ch01 试产→总览→T1 三件+台账），未 push
-- 工作日志：见 .memory/daily/2026-11-09.md the-girl-in-blue 专节
+- **T1 自检（同会话）：抽样 ch01/05/09/13/17/21，锚点复现 47/47，六类候选 505 行人读——阻断 0，密度 0<0.2，不触发 T2**；总览撰写期自纠 4 处（章标 ch19→ch15、ch17→ch20、金句⑳时序、两处拼接片段逐字化）。T1 是同会话自检，不是"已通过审查"；T3 深审已于同日完成（见下段）
+- commit 计数：本任务累计 33 commits（ch01 试产→正文→总览→T1 三件+台账→T3 各批+指令文件+板/日志），未 push
 
 **the-girl-in-blue-by-doreen-carvajal T3 全量深审完成（2026-11-09，用户点名·边审边改）**
 - 覆盖：21/21 章各走 R1→R4、四件套齐（1-suread/2-machine/3-diff/4-verdict）；R1：16 章子代理盲读 + 5 章（ch16/18/19/20/21）子代理超时转主会话人工素读，判定文件已声明；未审章：0。
@@ -108,7 +107,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 人判：阻断 21 全整改——全部为 S1「漏」类（关键事件段未进论证结构层），分布 ch02/03/04/05/06/08/10/11×2/12/13×4/15×2/19×3/21×2；编 0、错 0；提示约 10 条记判定文件不修。阻断密度 1.0 条/章：机器层全绿对漏类完全不可见，与对照表 S1 预判一致。
 - 指令：C0a–C18（18 条、21 事实）见 raw-gates/…/2026-11-09-复核与修复指令.md。
 - 台账已加一行：档位 深、审查方 同会话（深审）（非异会话，如实声明）。未 push。
-- 工作日志：.memory/daily/2026-11-09.md the-girl-in-blue 专节就地追加。
+- 工作日志：.memory/daily/2026-11-09.md the-girl-in-blue 专节（完工在前、T3 在后，连续一节）。
 
 ### [2026-11-09 18:49 UTC] [ZCode-Mac] → All
 
