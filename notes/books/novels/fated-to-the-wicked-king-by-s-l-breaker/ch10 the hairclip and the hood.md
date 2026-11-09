@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：从清晨靠 Hope whispered 撑起来的一点侥幸，走到那间荒屋里听见 Please—please, Your Majesty. I beg of you. Mercy. 与 Hasn’t the entire kingdom learned yet that I possess no such thing? 之后的清醒，再落到 the cold indifference that had replaced the man I knew 这句里的绝望；她中途还在替 Rabb 找理由（Was something or someone simply compelling him to act like a monster?），走廊上那幅旧金框画像也早把 joy dimmed by an unseen grief creeping backward through time 摆在她眼前——两处细节都把不祥提前交代了。
 - **Tropes 兑现/反转**：兑现“魔王与旧识”的旧情线——昨夜她以为 Rabb did remember；反转在同章内完成：他说昨夜只算 I only thought you needed a bit of release，而 I’m an assassin、I know nothing else、I am the king 三句把那份旧情降成了别的用途。
 - **人物弧线**：她从 I had let myself be completely fooled 的自我否认，转到 I’m leaving. Right now. 的硬气，再用 You don’t own me 顶回去；可结尾的罩布、闷声与扛走让这份决心暂时悬空。
+- **补充（逃亡路）**：冲出城堡后她闯进树篱迷宫，正犹豫该走哪条岔路，灌木边忽然一亮——“A sparkly fabric ribbon had been tied to a branch”，是 Chez 早先替她系好的路标：她不是独自逃出来的。
 - **叙事手法**：第一人称；短句成段（Quiet. Still.、And I was an idiot.）；对话与内心独白交替推进；两处比喻最狠（like swift whispering blades、A puppet with its strings cut.）；转折常靠声音先到（the scrape of something heavy against stone）。
 
 ## 精读

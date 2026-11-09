@@ -8,6 +8,7 @@ modified: "2026-11-08"
 ## 本章导航
 - **一句话概括**：被蒙眼反绑在树下的她数出至少八个嗓音，听见有人把罪名按成一个 witch；一场她完全看不见的毁灭过后，Oleg 和 Sal 都死了（I knew they were dead—Oleg and Sal.），坐在她左边的却是国王（I thought I would even the score again.）；最后河面上浮出一艘赌场河船，船上的人正被卷进一场自己看不见的异常。
 - **情感弧线位置**：从蒙眼醒来时唯一还抓得住的东西（at least I could breathe），到听见自己被判作太危险（too dangerous）时的孤立无援；中段是一场她看不见的屠杀，暴烈过后只剩 The eerie silence that followed；转折点在脚踝一凉的那一下——But strangely, it brought me instant comfort；最后落到河上那场无声的吞噬，把恐惧从人身上挪到了景物上。
+- **情感弧线位置补充**：国王到场后丢给她一小瓶粉末——“That’s…mine.”，那是她从自己实验室带进城堡的东西；他说死者一直在监视她、想杀她，全王国都听说他找到了能识破叛徒的女巫、那伙 rogue 的人正派最好的杀手来除她，末了咕哝一句 “It’s my fault,” 与 “I should have locked you up better,”——保护与囚禁在他嘴里始终是同一句话。
 - **Tropes 兑现/反转**：兑现「公主被绑架」的经典桥段——蒙眼、反绑、树下看守，一个不落的开局；反转在绑架者的自我辩护上：他们不要赎金也不要解释，只要杀一个 witch（We don’t care what explanations you have.）；另一处反转是来救她的人比绑架她的人更危险（significantly more dangerous than the rebellious rogues who had kidnapped me.）。
 - **人物弧线**：她一路在谈判：先求（There’s been a huge misunderstanding here.），再讲道理（You know it makes little logical sense to kill me.），最后谈交易（Wouldn’t it be worth more if I were to help you?）；可她始终没有被听见——The rogues didn’t acknowledge my questions；直到有人把话头整个抢过去（I thought I would even the score again.），她才从「求对方听我讲」变成「被对方盯着看」。
 - **叙事手法**：第一人称受限视角：布条蒙住眼睛，看不见就只能写声音与温度；每一次转折都先给声音再给结果（A violent gust tore around us without warning、Retching groans punched the air）；一句命令把人分成两拨（you two stay here／The rest of us will head back first），节奏像在赶时间；末尾把镜头整个交给景物，用 All caught at the edge of syrup-thick time 收束。
