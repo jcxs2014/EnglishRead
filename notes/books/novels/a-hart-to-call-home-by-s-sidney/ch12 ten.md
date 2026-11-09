@@ -76,7 +76,7 @@ modified: "2026-11-09"
 **为什么这样写**：「terrifying and strangely arousing」的矛盾修辞把恐惧与欲望焊在一起——她第一次尝到他「凶」的吸引力；秘密誓言标记出两人之间的第一块信息差，后文必有回收。
 **读者视角提示**：记住「她独自驯过 Perry」这个秘密——它同时是本事证与雷；「vow」级别的谎以后会疼。
 
-> **原句 10:** "It strikes me as he presses play on the movie that although I'm an adult—we both are—he doesn't necessarily see me as an adult. As an equal. He still sees the little girl with a messy braid, He still sees the little girl with a messy braid, the one who used to run after her brother and his friends. Or run rings around them, more"
+> **原句 10:** "It strikes me as he presses play on the movie that although I'm an adult—we both are—he doesn't necessarily see me as an adult. As an equal. He still sees the little girl with a messy braid, the one who used to run after her brother and his friends. Or run rings around them, more accurately."
 
 **中文理解**：他按下电影播放键的瞬间她突然意识到：尽管她是大人——他们都是——他未必把她当大人、当平等的人看；他眼里的她还是那个追着哥哥们跑的乱辫小丫头。
 **关键词**：I'm an adult—we both are / as an equal / the little girl with a messy braid / run after her brother
