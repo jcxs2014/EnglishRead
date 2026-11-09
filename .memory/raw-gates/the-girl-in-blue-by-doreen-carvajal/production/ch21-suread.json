@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch21",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch21_epilogue.txt",
+ "facts": [
+  {
+   "fact": "2015 年，塞文山区的一通电话打断了在山中隐居写作的 Catherine Irène Bonnet",
+   "anchor": "IN 2015, IN THE Cévennes mountains, the telephone rang.",
+   "start": 43,
+   "end": 98
+  },
+  {
+   "fact": "来电者是 Christian de Monbrison（Élisabeth 的侄孙、兄长 Robert 之孙），自称 Catherine 的叔伯长辈，1942 年 9 月曾在 Le Chambon-sur-Lignon 的 Les Ombrages 藏身",
+   "anchor": "I am Christian de Monbrison. I am your great-uncle.",
+   "start": 1945,
+   "end": 1996
+  },
+  {
+   "fact": "Christian 请 Catherine 参与对国家的法律索赔，追讨 1942 年 Élisabeth 位于 Neuilly-sur-Seine 的住宅被强制出售的款项",
+   "anchor": "He asked Catherine to take part in a legal claim to the state to recover the proceeds from the 1942 forced sale of Élisabeth’s house in Neuilly-sur-Seine.",
+   "start": 2239,
+   "end": 2393
+  },
+  {
+   "fact": "1944 年 3 月 Élisabeth 从 Drancy 送出最后一则口信，五天后 69 岁的她被押上 Convoy 70，再未回来",
+   "anchor": "Five days later she was forced onto Convoy 70 at age sixty-nine and never returned.",
+   "start": 7050,
+   "end": 7133
+  },
+  {
+   "fact": "1951 年 10 月 19 日法国法院驳回 Philippe de Forceville 的诉讼：文件不合，Élisabeth 在法律上不被认定为犹太人",
+   "anchor": "But in the hearing on October 19, 1951, the court said no—because the paperwork wasn’t right.",
+   "start": 8498,
+   "end": 8591
+  },
+  {
+   "fact": "2016 年 18 名后人（含 Christian 与 Irène 的三个曾孙女）向 CIVS 递交正式索赔，材料为 267 份脆旧文件",
+   "anchor": "In 2016, eighteen descendants, including Christian and Irène’s three great-granddaughters, filed a formal claim.",
+   "start": 12728,
+   "end": 12840
+  },
+  {
+   "fact": "2019 年索赔胜诉，最终赔偿 572,600 欧元（约 726,000 美元），Élisabeth 之孙 Jean-Claude de Forceville 得其中一半",
+   "anchor": "Not until 2019, seventy-five years after Élisabeth scribbled a will in Drancy, did they finally triumph. The final compensation: 572,600 euros.",
+   "start": 13894,
+   "end": 14037
+  },
+  {
+   "fact": "章末：时间没有赦免一切，但让 Christian、Catherine、Marion 以见证人而非受害者的身份，为 Irène、Élisabeth 与家族中名字被抹去的人寻求清算",
+   "anchor": "It allowed Christian and Catherine and Marion to seek a reckoning—not as victims, but as witnesses for Irène and Élisabeth, and all the others in their family with half-remembered names. They are no longer erased.",
+   "start": 16688,
+   "end": 16901
+  }
+ ]
+}
