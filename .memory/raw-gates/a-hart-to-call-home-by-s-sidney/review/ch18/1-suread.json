@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch18",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch18_16_ashton.txt",
+ "facts": [
+  {
+   "fact": "她把 Emmy 放下，Emmy 背着装 Bunny 的小背包跑在前头。",
+   "anchor": "I lower Emmy to the ground and she runs off ahead of us, Bunny bouncing in his little backpack on her back.",
+   "start": 77,
+   "end": 184
+  },
+  {
+   "fact": "回家让她意识到想要的一切都在牧场。",
+   "anchor": "But being home has made me realize that everything I ever wanted is right here on the ranch.",
+   "start": 471,
+   "end": 563
+  },
+  {
+   "fact": "她和 Everett 十三岁生日各收到一顶牛仔帽，至今仍戴。",
+   "anchor": "Both Everett and I received hats for our thirteenth birthdays, and we both still wear them today.",
+   "start": 979,
+   "end": 1076
+  },
+  {
+   "fact": "Brooks 把 Emmy 抱起来放进后排安全座椅。",
+   "anchor": "Brooks scoops his niece into his arms and flings open one of the back doors, leaning in to tuck Emmy into her car seat.",
+   "start": 1585,
+   "end": 1704
+  },
+  {
+   "fact": "他手动换挡满脸高兴，她觉得坐副驾也值。",
+   "anchor": "the absolute glee on Brooks’s face as he manually shifts up through the gears is worth riding shotgun",
+   "start": 3028,
+   "end": 3129
+  },
+  {
+   "fact": "他逐一报出四人从小的固定点单（培根烧烤酱/多一片番茄/蓝纹/胡椒杰克炸洋葱）。",
+   "anchor": "“Cheeseburger with bacon and barbecue, right? Ev has a cheeseburger with an extra tomato slice. You have bacon and barbecue sauce. Jody’s is blue cheese, because he’s insane, and mine is pepper jack cheese and crispy fried onion.",
+   "start": 5873,
+   "end": 6102
+  },
+  {
+   "fact": "他付午饭钱时抽出几张现金交给 Emmy 转交 Miss Celia。",
+   "anchor": "Brooks pulls a couple crisp bills from his wallet and gives them to Emmy, who hands them over proudly.",
+   "start": 9978,
+   "end": 10080
+  },
+  {
+   "fact": "她用糖霜画出带星星的牛仔靴曲奇（灵感来自 Ruth 上周的红靴）。",
+   "anchor": "Iced on the surface of the cookie is a tiny pair of boots, complete with stars stitched on them. They were inspired by the red ones I saw Ruth wearing last week.",
+   "start": 14922,
+   "end": 15083
+  }
+ ],
+ "relations": [
+  "他对 Emmy 出奇温柔",
+  "Emmy 醒着时是 Harriet 与 Dean 的结合",
+  "双方父母把朋友当家人",
+  "Miss Celia 惊呼 Emmy 长大了"
+ ],
+ "numbers": [
+  "菜单二十年半未变",
+  "四人六岁起点单不变",
+  "两杯草莓奶昔+一小杯香草",
+  "城里两年 vs 这一个上午",
+  "追逐游戏一英里半以上"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

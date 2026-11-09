@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch15",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch15_13_ashton.txt",
+ "facts": [
+  {
+   "fact": "包裹出现两周后，她开车带 Ruth 和 Talia 去 Houston 看 Taylor Swift。",
+   "anchor": "Two weeks after Brooks’s box of lip balm and other goodies appeared on my porch, I drive Ruth and Talia to Houston.",
+   "start": 66,
+   "end": 181
+  },
+  {
+   "fact": "几天前 Ruth 拉她做手工之夜：粘宝石+自制奶酪酱+连看两部《律政俏佳人》。",
+   "anchor": "We glued plastic gems to the sunglasses while we shared an enormous bag of chips and a bowl of her homemade queso, and watched both Legally Blonde movies, back-to-back.",
+   "start": 671,
+   "end": 839
+  },
+  {
+   "fact": "演出前酒吧里 Talia 打趣 Brooks Hart 如今很帅。",
+   "anchor": "What about you, Ash? I hear Brooks Hart is lookin’ mighty fine these days.",
+   "start": 3513,
+   "end": 3587
+  },
+  {
+   "fact": "Ruth 点破她早知道 Brooks 的好感、还以为两情相悦，逼她交代。",
+   "anchor": "I knew he had a crush on you, but I had no idea it was reciprocated! You kissed him?! Ashton, you’d better start talking.",
+   "start": 4610,
+   "end": 4731
+  },
+  {
+   "fact": "她承认多年前派对喝多了吻过 Brooks——那是她的初吻。",
+   "anchor": "It’s not like that. I kissed him once. At a party. Years ago. Drank too much. He was my first kiss.",
+   "start": 4777,
+   "end": 4876
+  },
+  {
+   "fact": "Talia 自称是她的第二个吻。",
+   "anchor": "And I was your second, right, Ash?” Talia’s eyes sparkle with mischief as she swallows down her last mouthful of beer",
+   "start": 4881,
+   "end": 4998
+  },
+  {
+   "fact": "她当面说「现在你们有我们了」，坦言很喜欢 Ruth。",
+   "anchor": "“Well, you have us now,” I say kindly. And I mean it. I like Ruth a lot. She’s good for my brother.",
+   "start": 7202,
+   "end": 7301
+  },
+  {
+   "fact": "散场驱车回家路上她确信老家正在治愈城市的伤。",
+   "anchor": "Being home is healing what the city broke in me.",
+   "start": 12337,
+   "end": 12385
+  }
+ ],
+ "relations": [
+  "Ruth–Everett 速恋绯闻连续三周上播客头条",
+  "多年前篝火边她与 Talia 接吻（苹果派月亮酒）",
+  "她越了解 Ruth 越把她当姐妹",
+  "她怕哥哥听到她和 Brooks 的绯闻"
+ ],
+ "numbers": [
+  "Two weeks（包裹后两周）",
+  "three weeks in a row 头条",
+  "Hallie 十五岁搬回与 Henry 同住",
+  "Tony Patterson 七十大寿被搅局",
+  "八万之众的散场人群"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

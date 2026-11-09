@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch16",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch16_14_brooks.txt",
+ "facts": [
+  {
+   "fact": "他在储藏室撞见怀孕的姐姐站在摇晃的梯子上，立刻抓住梯身稳住。",
+   "anchor": "I immediately cross the threshold and grab the ladder, steadying it as Harriet stretches to the back of the shelf.",
+   "start": 1217,
+   "end": 1331
+  },
+  {
+   "fact": "六英尺五的他轻松取下高层豆子罐头，让不满五英尺三的姐姐下来休息。",
+   "anchor": "My sister never grew much past five feet and three inches, but luckily for her, I’m six-five, and the top shelf is a breeze for me.",
+   "start": 1524,
+   "end": 1655
+  },
+  {
+   "fact": "Harriet 哭说女儿和胎儿闹得她整夜没睡。",
+   "anchor": "Emmy had me up half the night. And if it wasn’t her, it was this guy turning somersaults.",
+   "start": 2114,
+   "end": 2203
+  },
+  {
+   "fact": "Ashton 提出带 Emmy 玩一天（烘焙/骑马/进城）。",
+   "anchor": "“Let me take Emmy for a day, huh?” she whispers. “We can bake. Ride. Go into town and get up to no good. Whatever. Let me have her, and you can do whatever you need.”",
+   "start": 4787,
+   "end": 4953
+  },
+  {
+   "fact": "Harriet 立规矩：午餐前无巧克力、无纹身穿刺、远蜜蜂、带 EpiPen、骑马戴头盔护膝。",
+   "anchor": "No chocolate before lunch. No tattoos or piercings. Keep her away from bees, and don’t forget her EpiPen. And if she’s on a horse, she’s wearing a riding helmet and knee pads.",
+   "start": 5936,
+   "end": 6111
+  },
+  {
+   "fact": "闪回：约十四岁的虾 taco 事件——摊主认错、Jody 发火、Ev 抱着她用 EpiPen。",
+   "anchor": "Jody blew up at the truck owner, who apologized profusely and admitted he must have handed over the wrong taco, and Everett held Ashton on the sidewalk as she used her EpiPen and her symptoms began to subside.",
+   "start": 6773,
+   "end": 6982
+  },
+  {
+   "fact": "晚宴上她说明数月前的金枪鱼三明治事故：当场用 EpiPen、医生确认无碍。",
+   "anchor": "I knew what was happening and I used my EpiPen, and then I saw a doctor who said I was fine.",
+   "start": 15689,
+   "end": 15781
+  },
+  {
+   "fact": "她答应约 Doctor Joe 并加做常规鱼类过敏测试。",
+   "anchor": "I’ll call Doctor Joe. And if it makes you happy, Mom, I’ll ask about getting an allergy test for regular fish, too.",
+   "start": 17229,
+   "end": 17344
+  }
+ ],
+ "relations": [
+  "Harriet 是他的亲姐姐兼 Tanner 家厨师管家",
+  "Dean 是她丈夫，育 Emmy、现怀二胎",
+  "Emmy 管他叫 Unky Book",
+  "my mom=Mama Tanner 放不下 Ashton 的安全"
+ ],
+ "numbers": [
+  "五英尺三/六英尺五",
+  "虾 taco 时她约十四岁",
+  "Harriet 约她九点后去",
+  "Solly 到周五才到法定饮酒年龄",
+  "Kitchener 家六岁儿子"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

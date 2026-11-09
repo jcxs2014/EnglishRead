@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch17",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch17_15_brooks.txt",
+ "facts": [
+  {
+   "fact": "周四早晨他补觉，再睁眼手机显示 9:01。",
+   "anchor": "I drag my pillow over my head and close my eyes again, surprised to fall back to sleep and see 9:01 on my phone when I wake again.",
+   "start": 246,
+   "end": 376
+  },
+  {
+   "fact": "Skillett Creek 是 Mama Tanner 与 Ms. Angie 的点子：把 Skillett 变成目的地。",
+   "anchor": "She and Ms. Angie, Jody’s mom, came up with the idea of using a piece of land on the property boundary between the two ranches and turning Skillett into a destination.",
+   "start": 665,
+   "end": 832
+  },
+  {
+   "fact": "他的 F-350 定制电蓝涂装，想低调都难。",
+   "anchor": "My F-350 is big and noisy, custom-painted electric blue, and I couldn’t be inconspicuous in it if I tried.",
+   "start": 2551,
+   "end": 2657
+  },
+  {
+   "fact": "他偷看 Ashton 教 Emmy 骑马，心想那可能是她将来的女儿。",
+   "anchor": "Ashton teaching a little girl to ride, wide smiles on both of their faces. That could be her daughter someday.",
+   "start": 3747,
+   "end": 3857
+  },
+  {
+   "fact": "Bunny 背包是网上买的，Harriet 见了哭了。",
+   "anchor": "“Internet,” Ashton says nonchalantly. “Knew Bunny would be coming out with us today, didn’t wanna risk losing him. Harriet cried when I showed her.”",
+   "start": 5426,
+   "end": 5574
+  },
+  {
+   "fact": "因 Emmy 他决心收拾自己、尽早安定。",
+   "anchor": "She makes me all the more determined to clean up my act and settle down sooner rather than later.",
+   "start": 7570,
+   "end": 7667
+  },
+  {
+   "fact": "约好十二点半回马厩碰头带她们吃午饭。",
+   "anchor": "That idea seems to satisfy Ashton, and she nods. “Meet us back here at twelve-thirty?”",
+   "start": 8101,
+   "end": 8187
+  },
+  {
+   "fact": "Emmy 在引导下把苹果片喂给 Perry。",
+   "anchor": "Perry nudges Emmy’s fingers gently before taking the offered apple slice and crunching it between her teeth.",
+   "start": 10989,
+   "end": 11097
+  }
+ ],
+ "relations": [
+  "他深爱外甥女 Emmy——这份爱让他想成为更好的人",
+  "两人对视火花四溅",
+  "当天 Everett 带 Ruth 去 Austin",
+  "Skillett Creek 由两位妈妈发起"
+ ],
+ "numbers": [
+  "醒来时 9:01",
+  "一小时钓鱼视频坑",
+  "Emmy 两岁半 hardly an experienced rider",
+  "十二点半碰头",
+  "F-350 电蓝涂装"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}
