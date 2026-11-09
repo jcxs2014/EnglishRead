@@ -120,7 +120,7 @@ modified: "2026-11-09"
 |---|---|---|
 | clerestory | 高侧窗（天窗） | Late morning light fell through a row of clerestory windows. |
 | inconvenient | 令人不便的、麻烦的 | His absence had taken up residence in my chest, a dull, inconvenient ache that I didn’t want and couldn’t evict. |
-| independent | 独立的、自主的 | Skates meant speed and independence on the compound. |
+| independence | 独立、自主 | Skates meant speed and independence on the compound. |
 | erodes | 侵蚀、磨损 | Time is a motherfucker. It erodes everything. |
 
 ### ⭐⭐ 进阶
