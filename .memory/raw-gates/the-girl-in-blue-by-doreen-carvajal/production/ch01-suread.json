@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "1941年7月7日，ERR（罗森贝格全国领袖行动参谋部）在香堡城堡查抄犹太收藏家的藏画，开门迎来的不是王室而是劫掠者。",
+   "anchor": "On July 7, 1941, the castle’s great oak doors groaned open—not to royalty, but to raiders.",
+   "start": 1020,
+   "end": 1110
+  },
+  {
+   "fact": "雷诺阿1880年画下8岁的Irène Cahen d'Anvers，蓝丝裙、赤褐发配蓝宝石发带，即La Petite Irène。",
+   "anchor": "Painted in 1880, it fixed Irène Cahen d’Anvers at eight years old, forever the girl in a blue silk dress.",
+   "start": 1545,
+   "end": 1650
+  },
+  {
+   "fact": "ERR巴黎由Kurt von Behr男爵指挥；香堡现场听命于名字已佚的Dr. Solne。",
+   "anchor": "In Paris the ERR was directed by Baron Kurt von Behr",
+   "start": 2283,
+   "end": 2335
+  },
+  {
+   "fact": "Solne对城堡馆长宣称这些收藏一律视为弃置财物，且 orders 来自柏林罗森贝格办公室。",
+   "anchor": "All these collections,” Solne lectured the castle’s curators, “are considered abandoned goods.",
+   "start": 6330,
+   "end": 6424
+  },
+  {
+   "fact": "希特勒1937年在慕尼黑德意志艺术之家演讲，贬斥立体主义、达达主义、未来主义、印象派与德国人民无关。",
+   "anchor": "Cubism, Dadaism, Futurism, Impressionism, and so on, have nothing to do with our German people",
+   "start": 3574,
+   "end": 3668
+  },
+  {
+   "fact": "戈林后来要La Petite Irène不是为了美（他厌恶印象派风格）而是为了在混浊的艺术市场做交换筹码。",
+   "anchor": "but for leverage, for swaps in the murky art market.",
+   "start": 5841,
+   "end": 5893
+  },
+  {
+   "fact": "占领初期Irène六十九岁拒绝离开法国；嫂子Sonia六十四岁也留下；Irène在rue de la Tour藏身四年多。",
+   "anchor": "Irène, turning sixty-nine years old, refused to leave France.",
+   "start": 10788,
+   "end": 10849
+  },
+  {
+   "fact": "1945年Monuments Men（MFAA）在巴伐利亚乡间人称Gottesgarten的农舍阁楼找到卷起来藏着的肖像，同车还有二十多幅毕加索、马蒂斯、莫奈。",
+   "anchor": "one trail in Germany led to a farmhouse in the Bavarian countryside, a place locals called Gottesgarten, God’s Garden.",
+   "start": 13154,
+   "end": 13272
+  }
+ ]
+}
