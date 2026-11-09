@@ -1,0 +1,55 @@
+{
+ "book": "forest-of-carnage-by-candace-robinson",
+ "chapter": "ch01",
+ "text": "notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "婴儿出生即害死母亲：Sterling 之母分娩弟弟后死亡",
+   "anchor": "the baby boy came into the world wailing, only to kill their mother",
+   "start": 353,
+   "end": 420
+  },
+  {
+   "fact": "Sterling 时年十四岁，无正式父亲",
+   "anchor": "Sterling wasn’t helpless, but she was only fourteen years old",
+   "start": 1850,
+   "end": 1911
+  },
+  {
+   "fact": "母亲临终遗言指路外婆家",
+   "anchor": "Cross through the forest beyond the mountain and past the two rivers. You’ll find her cottage just after the willow trees",
+   "start": 2383,
+   "end": 2504
+  },
+  {
+   "fact": "带婴儿弟弟与山羊，行程三倍长；两天穿越森林",
+   "anchor": "the journey would take three times as long",
+   "start": 4256,
+   "end": 4298
+  },
+  {
+   "fact": "归还箭的少年背有王徽刺青，即 Prince Winter",
+   "anchor": "the royal crest tattooed between his shoulder blades—the tip of a black spear, banded in red ink, piercing upward through a circle. This wasn’t any wolf shifter—this was the Prince of Carnage. Prince Winter",
+   "start": 9898,
+   "end": 10104
+  },
+  {
+   "fact": "狼群袭外婆家，外婆被撕碎",
+   "anchor": "Her grandmother’s arm and leg were torn clean off, her eyes rolling back into her head",
+   "start": 17124,
+   "end": 17210
+  },
+  {
+   "fact": "Winter 称不杀新生儿，放走条件是带孩子消失",
+   "anchor": "If I let you go, you’ll take the child and disappear",
+   "start": 18371,
+   "end": 18423
+  },
+  {
+   "fact": "结尾立誓杀尽每头参与谋杀的狼，包括王子",
+   "anchor": "she would kill every single wolf that took part in her grandmother’s murder. Including the prince",
+   "start": 19858,
+   "end": 19955
+  }
+ ]
+}
