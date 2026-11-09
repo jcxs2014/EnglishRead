@@ -1,0 +1,43 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch08",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch08_chapter_7_the_letter.txt",
+ "facts": [
+  {
+   "fact": "1941年8月5日博物馆通知Léon画被抢（\"J'ai l'honneur\"开头）；8月10日Léon打字抗议信给Jaujard，列家族捐赠（Villa Kérylos、Manet的The Fifer、Musée Camondo）；\"写抗议信而不逃、 filing appeals 而不躲\"是\"小而致命的决定\"。",
+   "anchor": "Every group that was ever marked, ever herded by military forces or men in masks into lines or trucks or trains or camps, believed the same story: not here, not us, not by our glorious state.",
+   "start": 1180,
+   "end": 1371
+  },
+  {
+   "fact": "Léon请求\"归还姿态\"：一幅家庭肖像\"在家庭中的位置有特殊意义，完全独立于其艺术或市场价值\"；Carcopino（Vichy教育部长）8月27日把请求转给Vallat。",
+   "anchor": "After all that, Léon asked for a “gesture of restitution.” The return of Irène’s portrait.",
+   "start": 4016,
+   "end": 4106
+  },
+  {
+   "fact": "Xavier Vallat（犹太事务总署署长，49岁，木腿、独眼）：犹太人是\"不可同化的外国人\"、想\"在国家内建立超级国家\"；1918年犹太医生救了他的命；Debré评他\"既无心也无脑\"。",
+   "anchor": "The Jew is not only an unassimilable foreigner, whose implantation tends to form a state within the state",
+   "start": 5772,
+   "end": 5877
+  },
+  {
+   "fact": "Guy de Rothschild解释为何不逃：\"荣誉和尊严受伤，不接受被当作贱民\"；Irène和Béatrice留下，认为\"真正的风险在于试图逃跑\"；Suzanne扮女仆骗过盖世太保后逃出。",
+   "anchor": "Why didn’t I decide to leave the country at once? In fact, this was practically impossible. Wounded in my honor, my dignity, I did not accept this role of a pariah.",
+   "start": 9479,
+   "end": 9643
+  },
+  {
+   "fact": "André Tulard建立四色\"fichier des juifs\"（名字/地址/职业/国籍）：Seine省85,664条法国犹太人+64,070条外国犹太人；纳粹印象深刻，成为其他占领国标准；用于围捕。",
+   "anchor": "The color-coded French fichier so impressed the Nazis that it became the standard in other occupied nations.",
+   "start": 11223,
+   "end": 11331
+  },
+  {
+   "fact": "Vallat在Carcopino转来的请求边缘只写了一个字：\"Non\"；\"那不仅是对一幅画的判决，而是消失的官僚速记\"；整个家族对国家的忠诚史被缩减为一个拒绝。",
+   "anchor": "That was the verdict on more than a painting. It was bureaucratic shorthand for disappearance.",
+   "start": 14418,
+   "end": 14512
+  }
+ ]
+}
