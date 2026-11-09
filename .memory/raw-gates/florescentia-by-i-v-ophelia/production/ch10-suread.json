@@ -1,0 +1,85 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch10",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch10_chapter_ten_the_nova.txt",
+ "facts": [
+  {
+   "fact": "Lucia 在 Maxim 桌上找丢失的实验记录与专利申请。",
+   "anchor": "I couldn’t find my lab book and patent proposal",
+   "start": 113,
+   "end": 160
+  },
+  {
+   "fact": "Maxim 反讽她才是那个「借」东西的人。",
+   "anchor": "you tend to be the thief here",
+   "start": 622,
+   "end": 651
+  },
+  {
+   "fact": "Maxim 说两家都需要一个了结。",
+   "anchor": "Both of our families need closure",
+   "start": 2218,
+   "end": 2251
+  },
+  {
+   "fact": "Dorian 生前是世俗派，希望海葬或林葬，认为葬礼是浪费。",
+   "anchor": "He wanted to be tossed into the ocean",
+   "start": 2084,
+   "end": 2121
+  },
+  {
+   "fact": "Maxim 说你不必一个人扛最重的担子。",
+   "anchor": "you don’t have to be the one with the heaviest shoulders",
+   "start": 1656,
+   "end": 1712
+  },
+  {
+   "fact": "她决定不带香水与沐浴，只以自己为筹码再引那兽。",
+   "anchor": "I had nothing to offer but purely myself",
+   "start": 5065,
+   "end": 5105
+  },
+  {
+   "fact": "她心想若今夜被吞，至少能再见到 Dorian。",
+   "anchor": "at least I may look forward to seeing you again",
+   "start": 6691,
+   "end": 6738
+  },
+  {
+   "fact": "黑暗中先出现三点光，巨兽带着 Dorian 的脸出现。",
+   "anchor": "three specks of light",
+   "start": 9949,
+   "end": 9970
+  },
+  {
+   "fact": "她用香水瓶砸它的脸，伤口却自行愈合。",
+   "anchor": "I whipped my arm around to bludgeon him",
+   "start": 19156,
+   "end": 19195
+  },
+  {
+   "fact": "它自称让星辰保持一臂之距。",
+   "anchor": "I am what holds the stars at arm’s length",
+   "start": 15779,
+   "end": 15820
+  },
+  {
+   "fact": "它警告她继续这样会在世界上打开门，放进更坏的东西。",
+   "anchor": "leaving your convenient doorways wide open",
+   "start": 22074,
+   "end": 22116
+  },
+  {
+   "fact": "它提出可以从它身上收割，但不必身体接触。",
+   "anchor": "you can harvest from me",
+   "start": 23398,
+   "end": 23421
+  },
+  {
+   "fact": "它消失前说：你知道怎么找到我。",
+   "anchor": "You know how to find me",
+   "start": 23771,
+   "end": 23794
+  }
+ ]
+}
