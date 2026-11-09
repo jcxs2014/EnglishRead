@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch07",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch07_6_ashton.txt",
+ "facts": [
+  {
+   "fact": "清晨醒来只觉悲伤麻木，自觉纽约情伤未愈。",
+   "anchor": "I wake in the morning feeling the kind of desperate sadness and hollow loneliness I thought I’d left behind",
+   "start": 62,
+   "end": 169
+  },
+  {
+   "fact": "两人突然不接电话不应门，三人关系就此了结。",
+   "anchor": "And then, without warning, they stopped taking my calls. They didn’t answer the door when I knocked. And just like that, we were done.",
+   "start": 6776,
+   "end": 6910
+  },
+  {
+   "fact": "她到男友 Declan 公寓赴约，开门的却是自称 Jessa 的陌生美人。",
+   "anchor": "“I’m Jessa.” The woman who answers the door is gorgeous.",
+   "start": 1038,
+   "end": 1094
+  },
+  {
+   "fact": "Jessa 告知开放关系，还说一直等着见她。",
+   "anchor": "Declan and I have an open relationship. I’ve actually been waiting to meet you.",
+   "start": 2583,
+   "end": 2662
+  },
+  {
+   "fact": "她考虑了整整三秒便点头同意加入。",
+   "anchor": "I think it over for a whole three seconds. I like him, and I like kissing Jessa, and this is New York.",
+   "start": 4251,
+   "end": 4353
+  },
+  {
+   "fact": "此后八个月她大多与两人同床，脚边伴着两只德牧。",
+   "anchor": "The next eight months of my life were a whirlwind. I spent most of it in Jessa and Declan’s bed with their two German shepherds at our feet.",
+   "start": 6172,
+   "end": 6312
+  },
+  {
+   "fact": "两周前她收拾残存的一切飞回德州。",
+   "anchor": "And two weeks ago, I packed up all that was left—tiny little shreds of the woman I used to be—and I flew home",
+   "start": 8763,
+   "end": 8872
+  },
+  {
+   "fact": "Mayo 一岁时未达展示标准被送拍，那天他们共买回三匹马。",
+   "anchor": "He was sent to auction, and Grandaddy Smith, Mom, and I were there to look at another horse. We brought three home that day, Mayo included.",
+   "start": 10182,
+   "end": 10321
+  }
+ ],
+ "relations": [
+  "三人同居共恋却从未谈定规则与边界",
+  "哥哥的古龙水留在小屋家具上",
+  "Brooks 的眨眼总让她的心微笑",
+  "Ev 常说 Ruth 总能给情绪找到名字"
+ ],
+ "numbers": [
+  "上次见两人是十个月前",
+  "初次三人同体在十八个月前、初识 Declan 在二十个月前",
+  "事发时与 Declan 才交往两个月",
+  "Jessa 称每月检测",
+  "一周前回德州疗心"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

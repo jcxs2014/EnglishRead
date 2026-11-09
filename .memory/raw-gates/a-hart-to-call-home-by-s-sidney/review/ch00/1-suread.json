@@ -1,0 +1,65 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch00",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch00_author_s_note.txt",
+ "facts": [
+  {
+   "fact": "作者于 2025 年出版《The Sun Will Rise》，首次写到得州小镇 Skillett, TX。",
+   "anchor": "We first visited Skillett, TX in The Sun Will Rise, published in 2025.",
+   "start": 38,
+   "end": 108
+  },
+  {
+   "fact": "本书故事源于作者 2024 年的一句随口台词，最早场景早于她之前所有书的出版。",
+   "anchor": "It’s a story that grew from a throwaway line I wrote back in 2024, and indeed the first scenes written for this book predate the publication of any of my previous books.",
+   "start": 290,
+   "end": 459
+  },
+  {
+   "fact": "内容警告：露骨语言与性细节、页内饮酒、提及未成年饮酒。",
+   "anchor": "This book contains explicit language and sexual details, on-page alcohol consumption, and references to underage drinking.",
+   "start": 702,
+   "end": 824
+  },
+  {
+   "fact": "内容警告：慢性偏头痛发作与过敏性过敏的详细描写。",
+   "anchor": "There are detailed descriptions of chronic migraine attacks and anaphylactic allergies.",
+   "start": 825,
+   "end": 912
+  },
+  {
+   "fact": "书中有一段多角恋关系（作者认为本不必列进内容警告）。",
+   "anchor": "There is also a polyamorous relationship, which in and of itself, shouldn’t need to be listed among content warnings.",
+   "start": 913,
+   "end": 1030
+  },
+  {
+   "fact": "作者声明 Declan 和 Jessa 不是好人，这段关系既非正面描绘也非健康相爱。",
+   "anchor": "Declan and Jessa are not good people, and the relationship depicted in this book is neither a positive portrayal of polyamory nor a portrayal of a healthy, loving relationship.",
+   "start": 1059,
+   "end": 1235
+  },
+  {
+   "fact": "Declan 和 Jessa 利用 Ashton 的天真与孤独并深深伤害了她。",
+   "anchor": "They preyed on Ashton’s naiveté and loneliness, and hurt her deeply in the process.",
+   "start": 1415,
+   "end": 1498
+  },
+  {
+   "fact": "作者推荐 Emily Rath、Kayla Grosse、Emily Antoinette 等作者作为正面多角恋描绘。",
+   "anchor": "For some wonderful, positive portrayals of polyamory, I recommend checking out books by Emily Rath, Kayla Grosse, Emily Antoinette, and many more.",
+   "start": 1587,
+   "end": 1733
+  }
+ ],
+ "relations": [
+  "Declan 与 Jessa 是共同行动的伴侣，合伙利用 Ashton 的天真与孤独",
+  "Ashton 与两人有过被作者明言「不健康、非正面」的多角恋关系"
+ ],
+ "numbers": [
+  "《The Sun Will Rise》出版于 2025 年",
+  "故事种子是 2024 年的一句随口台词"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

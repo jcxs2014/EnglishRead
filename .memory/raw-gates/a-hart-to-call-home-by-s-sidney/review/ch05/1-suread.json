@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch05",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch05_4_ashton.txt",
+ "facts": [
+  {
+   "fact": "Everett/Jody/Brooks 把 Ashton 夹在中间护送进 Tell's Tavern，吓退所有打量她的人。",
+   "anchor": "My brother stands directly behind me, flanked on either side by Jody and Brooks.",
+   "start": 677,
+   "end": 757
+  },
+  {
+   "fact": "Jody 冲 Henry Duquette Jr. 皱眉瞪视，对方挥手僵在半空垂下。",
+   "anchor": "Jody continues to frown at Henry Duquette Jr. a few tables away. Henry’s friendly finger wave stalls mid-air and his hand slowly drops into his lap.",
+   "start": 931,
+   "end": 1079
+  },
+  {
+   "fact": "Jody 花二十分钟带回四瓶酒；Brooks 抽中下签当指定司机，拿汽水。",
+   "anchor": "It takes Jody a full twenty minutes to return, hands full with four bottles.",
+   "start": 3882,
+   "end": 3958
+  },
+  {
+   "fact": "Cooper 给独坐的 Ross Scully 递水，他点头道谢。",
+   "anchor": "Cooper slides a glass of water over to him and he accepts it with a single nod of thanks, tucking it beside the whiskey",
+   "start": 3734,
+   "end": 3853
+  },
+  {
+   "fact": "闪回：Everett 来电支使她去查看六号围场，说 Big John 通报有门开着。",
+   "anchor": "“Hey kiddo, can you head out and check the sixth paddock? I think there’s a gate open, Big John just called. He’s way past it now.”",
+   "start": 7779,
+   "end": 7910
+  },
+  {
+   "fact": "恶作剧：Brooks/Jody 在她 ATV 座垫下藏发声器，Everett 举手机拍摄。",
+   "anchor": "Everett is filming on his cell phone as Brooks and Jody laugh so hard they’re doubled over, tears streaming down all three of their faces.",
+   "start": 10259,
+   "end": 10397
+  },
+  {
+   "fact": "她骂 Brooks 是恶魔，踩死油门扬尘而去。",
+   "anchor": "I yell, pressing my foot as hard as I can on the gas pedal and spinning the wheels, kicking up plenty of dirt as I tear away in the direction of home",
+   "start": 10989,
+   "end": 11138
+  },
+  {
+   "fact": "她的「反男人」立场只撑七天，就在 Farrow 电影院爱上爆米花摊男孩。",
+   "anchor": "My anti-men stance lasted all of seven days, because after that, I went to the movie theater in Farrow with some girls from my math class",
+   "start": 11508,
+   "end": 11645
+  }
+ ],
+ "relations": [
+  "Everett/Brooks/Jody–Ashton：三人护送、过度保护；闪回时 Everett 十六岁",
+  "Clay Murphy–四人：Jody 的微积分老同学、四人共同的纹身师",
+  "Ross Scully–牧场：三镇唯一蹄铁匠，与 Ev 相处融洽，四十多岁独来独往",
+  "Brooks–Ashton：devil 绰号同源（恶作剧那天）；Henry 与 Talia 是好友"
+ ],
+ "numbers": [
+  "a full twenty minutes（Jody 吧台往返）",
+  "four bottles（酒瓶数）",
+  "in his forties（Ross 年纪）",
+  "three times? Four times?（Brooks 未归次数记不清）",
+  "all of seven days（反男人立场）"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

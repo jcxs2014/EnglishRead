@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch04",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch04_3_ashton.txt",
+ "facts": [
+  {
+   "fact": "纽约飞奥斯汀四个半小时，Everett 想办法弄到头等舱座位。",
+   "anchor": "It takes four and a half hours to fly from New York to Austin. Four and a half long, restless hours.",
+   "start": 93,
+   "end": 193
+  },
+  {
+   "fact": "Everett 早上发短信说自己忙、可能要派别人接机。",
+   "anchor": "Everett texted me this morning to say he’s busy and might have to send someone else to pick me up.",
+   "start": 2900,
+   "end": 2998
+  },
+  {
+   "fact": "她昨天压力性烤出的饼干和布朗尼塞爆背包，只好托运行李箱。",
+   "anchor": "But it turns out that all of the cookies and brownies I stress-baked yesterday take up more space in my backpack than I anticipated",
+   "start": 2102,
+   "end": 2233
+  },
+  {
+   "fact": "Everett 亲自到机场接机，兄妹拥抱。",
+   "anchor": "My brother’s arms close around me and I’m home, at last. I breathe in his familiar scent—leather and dirt, and something unique—and relax in his embrace.",
+   "start": 5151,
+   "end": 5304
+  },
+  {
+   "fact": "进家门后妈妈先含泪拥抱，爸爸把她抱起转圈。",
+   "anchor": "Dad is next, lifting me clean off my feet and spinning me in a circle.",
+   "start": 7550,
+   "end": 7620
+  },
+  {
+   "fact": "Harriet 的孕肚一周里明显变大。",
+   "anchor": "The last text I got from her showed a still mostly-flat stomach, but in the last week, that baby has grown.",
+   "start": 8682,
+   "end": 8789
+  },
+  {
+   "fact": "Emmy Jean 现在两岁半，圣诞节后出生，年底满三岁。",
+   "anchor": "She must be two and a half now. She was born right after Christmas, and she’ll turn three at the end of this year.",
+   "start": 8285,
+   "end": 8399
+  },
+  {
+   "fact": "Brooks 贴到她背后翻找饼干，嗓音比记忆中低沉温暖。",
+   "anchor": "Brooks is right behind me, chest almost pressed against my back, and his voice is even deeper and warmer than I remember.",
+   "start": 14234,
+   "end": 14355
+  }
+ ],
+ "relations": [
+  "Everett–Ashton：亲哥哥，亲自接机",
+  "Harriet–Brooks：亲姐姐；对 Ashton 是血亲之外的姐姐，怀孕中，带女儿 Emmy Jean",
+  "Ruth–Everett：妻子，首次见 Ashton",
+  "Brooks/Jody–Ashton：挚友；爸爸名叫 Derrick"
+ ],
+ "numbers": [
+  "four and a half hours（飞行时长）",
+  "five-foot-seven（她的身高）",
+  "three or four inches（Harriet 比她矮）",
+  "two and a half（Emmy Jean 年龄）",
+  "an hour and a half（本想与哥哥减压的时长）"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

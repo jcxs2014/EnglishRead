@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch06",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch06_5_ashton.txt",
+ "facts": [
+  {
+   "fact": "Brooks 上午十一点来电大呼小叫，想确认她是否也宿醉。",
+   "anchor": "Brooks called me around eleven, hooting and hollering, and probably hoping I was also in the hangover trenches.",
+   "start": 167,
+   "end": 278
+  },
+  {
+   "fact": "Ruth 没抢到伦敦票，买到三张休斯敦转售票。",
+   "anchor": "But I managed to get three on resale for the Houston show in a few weeks.",
+   "start": 947,
+   "end": 1020
+  },
+  {
+   "fact": "Ashton 答应打扮好开车载 Ruth 去休斯敦当她的女孩之夜同伴。",
+   "anchor": "you want me to get gussied up in glitter and clean boots and drive you to Houston? Be your girls for the night?",
+   "start": 1222,
+   "end": 1333
+  },
+  {
+   "fact": "Ruth 想把第三张票给婚纱店的 Talia，先问 Ashton 认不认识她。",
+   "anchor": "I was thinking of asking—wait, do you know Talia? From the dress shop?",
+   "start": 1417,
+   "end": 1487
+  },
+  {
+   "fact": "Everett 拜托 Ashton 多拍照片，说 Ruth 非常想念闺蜜们。",
+   "anchor": "Take some pictures of you guys? I know she misses her girlfriends like crazy.",
+   "start": 3803,
+   "end": 3880
+  },
+  {
+   "fact": "孕中 Harriet 还剩四个半月考虑宝宝名字。",
+   "anchor": "Still got four and a half months to think about it.” She rubs the small bump and leans back in her seat.",
+   "start": 5297,
+   "end": 5401
+  },
+  {
+   "fact": "Brooks 提出和 Emmy 比赛吃胡萝卜哄她吃菜，Emmy 抢先嚼完获胜。",
+   "anchor": "Hey, Em. Bet I can eat my carrot faster’n you. Wanna race me?",
+   "start": 7141,
+   "end": 7202
+  },
+  {
+   "fact": "Ashton 谎称头痛提前退席回小屋倒头就睡。",
+   "anchor": "when I lie and claim a headache, and duck out early back to my cabin",
+   "start": 9885,
+   "end": 9953
+  }
+ ],
+ "relations": [
+  "Everett 愿为妻子买裙子",
+  "Harriet 是 Brooks 的姐姐，带丈夫 Dean、女儿 Emmy 与两条金毛赴宴",
+  "Mr. Hart 待 Ashton 如亲生父亲但她只叫 Mr. Hart",
+  "Ashton 与 Talia 有旧日纠葛却从无恶感"
+ ],
+ "numbers": [
+  "伦敦场不到三十秒售罄",
+  "休斯敦场几周后开演三张票",
+  "距生产还有四个半月",
+  "她二十三岁仍怕 Mom Voice",
+  "明年此时 Harriet 家多一个婴儿上桌"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

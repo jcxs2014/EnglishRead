@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch02",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch02_1_ashton.txt",
+ "facts": [
+  {
+   "fact": "Ashton 刷卡通闸时被纹身壮汉吸引分神，膝盖撞上闸机差点摔倒。",
+   "anchor": "I lift my tote bag over the barrier as I stumble through, whacking my knee on the solid metal and almost losing my balance.",
+   "start": 560,
+   "end": 683
+  },
+  {
+   "fact": "Everett 凌晨两点一时兴起娶了几乎不认识的女人且没请任何人，Ashton 通话中途挂断他电话。",
+   "anchor": "that asshole married a woman he barely knows on a whim at two in the morning without inviting anyone to the wedding",
+   "start": 1597,
+   "end": 1712
+  },
+  {
+   "fact": "Everett 短信道歉但坚称不为娶 Ruth 道歉。",
+   "anchor": "I know I upset you and I’m sorry for that but I’m not apologizing for marrying Ruth",
+   "start": 2783,
+   "end": 2866
+  },
+  {
+   "fact": "她在纽约遇见 Declan 和 Jessa，一度想留下建生活。",
+   "anchor": "But then I met Declan, and I met Jessa, and for the briefest flash of time, I thought maybe I’d build a life and stay here.",
+   "start": 6034,
+   "end": 6157
+  },
+  {
+   "fact": "她从未把 Declan/Jessa 的事告诉妈妈。",
+   "anchor": "Maybe that’s why I never told her about Declan or Jessa.",
+   "start": 6766,
+   "end": 6822
+  },
+  {
+   "fact": "刷爆信用卡买演唱会票、买不起回 Austin 机票，求 Everett 帮忙并承诺还钱。",
+   "anchor": "I accidentally maxed out my credit card buying Rowan Thorne concert tickets so now I can’t afford to fly back to Austin next month and if you help me out I promise, promise, promise I’ll pay you back.",
+   "start": 9456,
+   "end": 9656
+  },
+  {
+   "fact": "Ruth 电话里向 Ashton 自我介绍，说很想尝她烤的曲奇。",
+   "anchor": "“Hi Ashton,” Ruth says. Her voice is close; I’m not on speakerphone anymore. “It’s Ruth. I’d love it if you brought cookies.",
+   "start": 12168,
+   "end": 12292
+  },
+  {
+   "fact": "挂电话后她打算装几块布朗尼隔夜快递到 Austin。",
+   "anchor": "Later, I’ll box up a few of these blondies and overnight them to Austin.",
+   "start": 14865,
+   "end": 14937
+  }
+ ],
+ "relations": [
+  "Everett 是 Ashton 的哥哥",
+  "Ruth 是 Everett 的妻子",
+  "Declan/Jessa 是她在纽约遇见的人",
+  "Grandaddy Smith 的格言传给了妈妈"
+ ],
+ "numbers": [
+  "婚礼在凌晨两点且无人受邀",
+  "六部电梯只两部能用、楼高三十六层",
+  "十分钟步行+五十七分钟地铁换不到四分钟会面",
+  "two years ago 离开得州",
+  "数千粉丝+烹饪奖学金"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

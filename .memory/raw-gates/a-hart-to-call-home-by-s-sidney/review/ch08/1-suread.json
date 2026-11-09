@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch08",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch08_7_brooks.txt",
+ "facts": [
+  {
+   "fact": "Brooks 和 Everett 难得休班，日出骑马后信步走到 Hart 家。",
+   "anchor": "We both have a rare day off, and after taking Periwinkle and Della out for a long ride at sunrise, we’ve walked aimlessly around the ranch and found ourselves at the Hart property.",
+   "start": 186,
+   "end": 366
+  },
+  {
+   "fact": "祖父赠给 Brooks 父母约三英亩的地建房安家。",
+   "anchor": "Grandaddy Smith gifted them a parcel of land. It’s not huge, not compared to the vast amount of land the family owns, but it’s a good three and a bit acres, and they built themselves a home.",
+   "start": 1657,
+   "end": 1847
+  },
+  {
+   "fact": "Dean 为自创的 Tri-town Pups 训练明年三月的 Texas 10K。",
+   "anchor": "He’s running the Texas 10K in March in aid of the Tri-town Pups, a dog rescue he set up a few years ago.",
+   "start": 5566,
+   "end": 5670
+  },
+  {
+   "fact": "去年夏天蜜蜂蜇了 Emmy 脚踝，众人才知她蜂毒过敏。",
+   "anchor": "We found out the hard way about Emmy’s bee sting allergy last summer, when a bee got into the Tanners’ kitchen and stung her ankle.",
+   "start": 8509,
+   "end": 8640
+  },
+  {
+   "fact": "Harriet 来电说 Bunny 丢了，Brooks 发群消息召集搜索队。",
+   "anchor": "SOS. Bunny down. EJ having meltdown. Meet @ moms asap for search party",
+   "start": 12491,
+   "end": 12561
+  },
+  {
+   "fact": "Bunny 是 Harriet 宣布怀孕次日他在 Farrow 买的。",
+   "anchor": "I bought Bunny for Emmy the day after Harriet and Dean broke the news that she was pregnant.",
+   "start": 15137,
+   "end": 15229
+  },
+  {
+   "fact": "Ashton 分派搜索任务：Solly 搜 Harriet 家一带，她与 Big John 分搜灌木丛与草甸。",
+   "anchor": "Okay. Solly, take the patch around Harriet and Dean’s house up to the thicket. Big John, you and I will split the thicket and the meadow.",
+   "start": 17818,
+   "end": 17955
+  },
+  {
+   "fact": "Ruth 因合同审查视频会议未能参加找 Bunny。",
+   "anchor": "Working. Got a video meeting about some contract review or advice or something, I don’t know.",
+   "start": 18663,
+   "end": 18756
+  }
+ ],
+ "relations": [
+  "Dean 是犬科专科兽医，两只金毛是他救活的病弱幼犬",
+  "两家父辈都曾为 Grandaddy Smith 做工",
+  "Brooks 头一回觉得真正看清 Ashton 而心神不宁",
+  "Josie 掌管牧场财务，与挚友 Edie Tanner 作伴"
+ ],
+ "numbers": [
+  "Dean 日出前跑完 5K 又吸尘全屋",
+  "还有八个月训练 10K",
+  "旧照里 Emmy 不到两岁、圣诞节后满三岁",
+  "祖父母两家公寓相距一英里半",
+  "七分钟骑车赶到"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

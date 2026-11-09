@@ -1,0 +1,49 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch01",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch01_julianne_tell_s_all.txt",
+ "facts": [
+  {
+   "fact": "Julianne Tell 主持《Julianne Tells All》，播报 Farrow 县三镇热门八卦。",
+   "anchor": "Hello, and welcome to another episode of Julianne Tells All! I’m Julianne Tell, and this is your one-stop shop for all the hottest gossip from the Farrow County Tri-towns.",
+   "start": 39,
+   "end": 210
+  },
+  {
+   "fact": "本周 Heath 筹备三镇丰收节，Miss Daisy 再次招志愿者，南瓜田报名。",
+   "anchor": "This week, planning is underway in Heath for the Tri-towns Harvest festival, and Miss Daisy is once again looking for volunteers. Drop into the pumpkin patch to sign up.",
+   "start": 211,
+   "end": 380
+  },
+  {
+   "fact": "Farrow 高二生 George Cunningham 六十二码射门破校纪录，击败 Burns Bulldogs。",
+   "anchor": "sophomore George Cunningham set a brand new school record for the longest field goal when he kicked and scored from sixty-two yards to beat the Burns Bulldogs.",
+   "start": 394,
+   "end": 553
+  },
+  {
+   "fact": "Skillett 的 Ellison 蓝莓司康之外推出新口味橙子巧克力豆。",
+   "anchor": "Ellison’s famous blueberry scones have been joined with a brand new flavor: orange chocolate chip.",
+   "start": 595,
+   "end": 693
+  },
+  {
+   "fact": "Julianne 呼吁三镇听众把八卦短信给她。",
+   "anchor": "If you’ve got any hot gossip from Farrow, Heath, or Skillett, I wanna be in the know. You can text me on…",
+   "start": 791,
+   "end": 896
+  }
+ ],
+ "relations": [
+  "Julianne Tell 是节目主持人",
+  "Miss Daisy 负责丰收节志愿者招募",
+  "George Cunningham 是 Farrow 学校高二踢球手",
+  "Ellison 是 Skillett 司康店主理人"
+ ],
+ "numbers": [
+  "sixty-two yards（六十二码破纪录）",
+  "节目覆盖 Farrow County 三镇"
+ ],
+ "verified": "5/5 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

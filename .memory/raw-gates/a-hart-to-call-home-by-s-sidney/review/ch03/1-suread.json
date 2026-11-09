@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch03",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch03_2_brooks.txt",
+ "facts": [
+  {
+   "fact": "周二傍晚，Jody 一边灌啤酒一边玩玉米洞，扔出的豆袋砸在板面上。",
+   "anchor": "He tosses the bag and it slaps into the board with a dull thud.",
+   "start": 593,
+   "end": 656
+  },
+  {
+   "fact": "Everett 牵着意外成婚的妻子 Ruth 爬上露台赴聚。",
+   "anchor": "turning to see Everett making his way across the grass, sidestepping the errant beanbag, and climbing the steps of the deck, hand-in-hand with his surprise wife",
+   "start": 1733,
+   "end": 1893
+  },
+  {
+   "fact": "Everett 宣布 Ashton 两周后回家，并招呼 Ruth 坐到自己身边。",
+   "anchor": "“Ashton’s coming home in a couple weeks,” Everett announces. He takes a seat on the sofa on one side of the low table",
+   "start": 2909,
+   "end": 3026
+  },
+  {
+   "fact": "Brooks 接过话头，以 Jagger 为例向 Ruth 解释什么叫 greenbroke（初步驯化未完成）。",
+   "anchor": "Take Jagger, for example. He knows a saddle, and he knows how to stop and go when you tell him, but he ain’t a domesticated horse yet.",
+   "start": 3852,
+   "end": 3986
+  },
+  {
+   "fact": "Periwinkle 约六年前由 Jody 母亲救回，Brooks、Everett、Jody 和 Ashton 一起把她驯成了役马。",
+   "anchor": "Jody’s mom rescued her about six years ago, and between the three of us and Ashton, we broke her in.",
+   "start": 4458,
+   "end": 4558
+  },
+  {
+   "fact": "Brooks 自述：Ashton 十八岁生日那天他差点吻她，因 Jody 出现而作罢，两年后她搬去了另一头。",
+   "anchor": "And about how, the day she turned eighteen, I almost did it. I almost turned around and kissed her, friendships be damned, but then Jody showed up, and I lost my nerve.",
+   "start": 9206,
+   "end": 9374
+  },
+  {
+   "fact": "Ashton 初到纽约的头半年天天在群聊里索要她马匹的照片和近况，之后联系渐疏。",
+   "anchor": "She made me and Everett swear to take care of her horse, and for the first six months or so, she’d text our group chat and demand daily photographs and updates.",
+   "start": 9538,
+   "end": 9698
+  },
+  {
+   "fact": "Everett 几个月前在机场酒吧遇见 Ruth 并求婚。",
+   "anchor": "But he’s been whipped since the moment he met Ruth in an airport bar, and a few months ago, he proposed.",
+   "start": 2119,
+   "end": 2223
+  }
+ ],
+ "relations": [
+  "Brooks–Jody Fisher：best friend 发小死党",
+  "Brooks–Everett：another best friend，三家像兄弟一起长大；Brooks 家世代在 Tanner 牧场做工，Fisher 家拥有邻地",
+  "Ruth–Everett：妻子（机场相识数月后闪婚）",
+  "Ashton 是 Everett 的亲妹妹，Brooks 和 Jody 把她当亲妹妹；Harriet 是 Brooks 的亲姐姐（大八岁）"
+ ],
+ "numbers": [
+  "a four-month span（三人出生相差不过四个月）",
+  "more than three hundred days out of the year and rarely gets above seventy-five（伦敦雨/温）",
+  "about six years ago（救回 Periwinkle）",
+  "eighteen（她十八岁生日那天险些被吻）",
+  "Two years later（他仍未鼓起勇气，她搬走）"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}
