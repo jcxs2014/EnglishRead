@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch05",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch05_chapter_4_transactions.txt",
+ "facts": [
+  {
+   "fact": "1891年10月8日婚约签署：Irène嫁妆超100万法郎（今约$700万）加Worth衣橱15万法郎；Article 4 réserve de droit de retour 保证Irène先死则父母收回全部嫁妆。",
+   "anchor": "This wasn’t a romance. This was arithmetic.",
+   "start": 935,
+   "end": 978
+  },
+  {
+   "fact": "1891年10月15日婚礼在Synagogue de la Victoire；不是父亲Louis而是叔叔Albert挽Irène走红毯——Louis拒绝或放弃了这个\"祝福\"姿态；后来他送了更小的女儿。",
+   "anchor": "In their upper-class world, a father walking his daughter was not just custom. It was the benediction, the last quiet act of allegiance before the transfer. And Louis had refused it.",
+   "start": 6521,
+   "end": 6703
+  },
+  {
+   "fact": "犹太家族把文化同化当公民义务：送儿子进综合理工学院、服兵役、捐博物馆、收藏法国艺术；但Dreyfus事件暴露接纳的脆弱。",
+   "anchor": "They sent their sons to the École polytechnique, served in the army, donated to French museums, and collected art—French art.",
+   "start": 13100,
+   "end": 13225
+  },
+  {
+   "fact": "世纪末辩论反映身份丧失恐惧；旧贵族怕被民主浪潮席卷；Gramont公爵夫人：\"反犹主义成了一种时尚，非常适合某些嫉妒。\"",
+   "anchor": "The old aristocracy worried about being swept away by the democratic wave, which explained its rigid views of titles and rank.",
+   "start": 18675,
+   "end": 18801
+  },
+  {
+   "fact": "Erlanger（Moïse侄孙）1982年私人访谈：Irène对Moïse极 bored，他极自私极\"东方\"；Camondo家对妻子的态度与更巴黎化的Cahen d'Anvers不同；Irène爱玩。",
+   "anchor": "She was very bored with him. He was very selfish and very Oriental.",
+   "start": 20968,
+   "end": 21035
+  },
+  {
+   "fact": "La Libre Parole 1898年7月标题称Louis为\"犹太蝙蝠\"：白天与天主教主教和贵族混，晚上其实是犹太人；Viau间谍式监视家族城堡，写\"以色列的城堡\"系列。",
+   "anchor": "A July 1898 headline called Louis Cahen d’Anvers a chauve-souris juive, a bat Jew, flitting between two worlds",
+   "start": 39701,
+   "end": 39811
+  },
+  {
+   "fact": "Moïse 1898年买Boilly画《窗边女孩》十六周后换成五斗柜——\"不会离开他的东西\"；由此开始十八世纪家具收藏 obsession。",
+   "anchor": "So he traded the girl for a commode—oak, gilt bronze, lacquer—something that would not leave him ever.",
+   "start": 36938,
+   "end": 37040
+  },
+  {
+   "fact": "1902年1月Irène提出离婚（1884年才合法化）；法院判\"绝对性情不合\"；月赡养费4000法郎（今约$35,000）；Irène的\"严重指控\"不公开、被驳回；她自己的婚外情不被提及。",
+   "anchor": "Irène filed for divorce, still an uncommon step. Most women from upper-class families suffered in silence",
+   "start": 47179,
+   "end": 47284
+  }
+ ]
+}
