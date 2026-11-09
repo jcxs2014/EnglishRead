@@ -9,6 +9,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：从坠落的失控（Iron screamed around us）到被留下的自弃（Sophie was Gregory’s highest priority），再到水里国王的绝望（I swear to god—I forbid it），最后收在昏迷前听见的那一句（Well, hell’s bells, Allie. There you are）——四段情绪一路向下，只在最后一秒被外力截断。
 - **Tropes 兑现/反转**：兑现「绝境里呼唤援手」的母题；反转有两层——援手被当场划出边界（the help was specifically not for him），而唯一在场的人偏偏魔力见底（My powers are sapped），于是喊救的一方成了最救不了人的那一方。
 - **人物弧线**：她从被机器摔下来的人变成不肯撒手的搭档（No chance in hell），把王座上的人拖进自己最擅长的机械活里；他则从发号施令者变成开口求救的人（Tell me what I have to do）。
+- **补充（她开始消失）**：推压力轮时她的手忽然闪了一下——“Then my hands flickered.” / “For one sickening second, I saw the water through my fingers.”：那股让村民变作幽灵的力量开始作用于她本人，这才是他求她撑住的真正原因。
 - **叙事手法**：第一人称贴身穿插；坠落与溺水都用身体感觉写（shoulder-first、pain bursting through my side、The cold seeped deeper），不用抽象情绪词；空间按上下分层（crossed overhead、spiraled upward into darkness、beneath us）造出上不去也下不来的夹层；结尾把最后一帧交给听觉：was all I heard。
 
 ## 精读

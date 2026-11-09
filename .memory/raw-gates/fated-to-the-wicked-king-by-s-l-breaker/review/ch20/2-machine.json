@@ -1,0 +1,445 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/ch20 the duel that did not come.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch20_twenty_lion_vs_unicorn.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My nose twitched. Warmth spread through my body like a slow, glowing ember catching beneath my skin. Sunlight seeped thr",
+          "ok": true,
+          "pos": 24
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“So let me get this straight.” Her tone terse, she waved the fan vigorously in front of her face. “You lot have been on ",
+          "ok": true,
+          "pos": 890
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Sipping my water, I put two and two together. The Duchess must have been the one who’d saved Rabb and me from our ice wa",
+          "ok": true,
+          "pos": 1615
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The king’s face was molten fury. He shoved Gregory’s chest—hard. “You left us to die!”",
+          "ok": true,
+          "pos": 2651
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“And accusing us is more convenient still,” Gregory shot back, standing his ground. “From the moment you arrived, you ha",
+          "ok": true,
+          "pos": 3943
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "There was another one by the River of Tears. The maelstrom it produces is a doorway. It’s how Allie and I crossed the ri",
+          "ok": true,
+          "pos": 4392
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Bastard!” With a furious growl, Gregory pushed past Sophie to draw his sword. He drove forward, his weapon cutting clea",
+          "ok": true,
+          "pos": 9847
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Gregory dropped his somber gaze. “If you have any honor at all, you will kill only me. You will leave my people alone.”",
+          "ok": true,
+          "pos": 11750
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The king’s eyes glinted in indignation. “I possess her heart. It has always been mine. It will forever be mine. You will",
+          "ok": true,
+          "pos": 14154
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I supposed I should have been flattered. The King of Wünder and the Prince of Lucerne appeared, by all accounts, to be f",
+          "ok": true,
+          "pos": 14633
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Gregory blinked. He looked quite winded, uncertain, as if he had already steeled himself for a painful death that did no",
+          "ok": true,
+          "pos": 16145
+        },
+        {
+          "text": "His eyes flickered as if he almost wanted to take up his sword once again, but then his expression cleared",
+          "ok": true,
+          "pos": 16307
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I gave them both a warm, rueful smile. I would be lying if I said I wasn’t seriously considering it, but",
+          "ok": true,
+          "pos": 19327
+        },
+        {
+          "text": "“Thank you, Sophie, Gregory.” Dropping my gaze, I bit my lip. “But I’m",
+          "ok": true,
+          "pos": 19432
+        },
+        {
+          "text": "staying with the king.”",
+          "ok": true,
+          "pos": 19499
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "But Sophie was looking at me. “My lady, from another world.”",
+          "ok": true,
+          "pos": 23635
+        }
+      ],
+      "words": 11
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.37,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Twenty: LION VS. UNICORN",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 8,
+    "block_range": [
+      5,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4192,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": "块数 13 偏离本书常见区间 4–12（本书 26 章中位 8、最高 14（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

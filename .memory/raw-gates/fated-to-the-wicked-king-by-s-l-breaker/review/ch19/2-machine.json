@@ -1,0 +1,251 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/ch19 the flood in the machine cavern.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch19_nineteen_weakness.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Iron screamed around us as a fractured platform gave way beneath our feet, bolts shearing loose and chains snapping over",
+          "ok": true,
+          "pos": 51
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We had fallen into a vast chamber deep within the mountain, cylindrical and cavernous, its walls lined with enormous gea",
+          "ok": true,
+          "pos": 547
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“There isn’t time. I must get you to safety.” Gregory’s gaze was pinned on his sister",
+          "ok": true,
+          "pos": 2881
+        },
+        {
+          "text": "“I promise, Allie. I’ll be back with help for you.” His gaze slid toward the king for a moment, as though to emphasize t",
+          "ok": true,
+          "pos": 3155
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Allie. My powers are sapped. I used too much of it. And whatever that godforsaken machine was, it doesn’t affect me wel",
+          "ok": true,
+          "pos": 4277
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Hold on, Allie.” The king’s grip tightened around me hard enough to hurt, though even he was shaking, his jaw clenched ",
+          "ok": true,
+          "pos": 7702
+        },
+        {
+          "text": "Not especially when I’m right here, and I still can’t save you. Not when I can’t do anything.”",
+          "ok": true,
+          "pos": 7952
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Right as I was about to inhale the furious frozen water, the cavern emptied, torrents of water spiraling violently downw",
+          "ok": true,
+          "pos": 9145
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Nineteen: WEAKNESS",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      5,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1685,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

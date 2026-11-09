@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：大落之后的一次回暖，回暖又被撬开——从 "old friend" 的低头致意与茶桌上的笑声，到 "Or undone" 的弦外之音，再到 "lied to me" 的清算；本章以判决收束：He was a coward。
 - **Tropes 兑现/反转**：兑现「重逢茶会」的暖场套路——old friends slipping back into familiar rhythms，旧事讲到笑喷；反转在茶会的功能：暖场只是外壳，真正的戏是夫人当众揭开记忆咒这笔旧账。
 - **人物弧线**：Allie 从「想回又怕回」的自问（no home to go back to）走到当面追问（Are you telling me it is actually possible）——归乡线与换心线在本章拧成一股；国王则从 averted his gaze coolly 的旧情人，变成骗了她七个月的人，判词只有一句：He was a coward。
+- **补充（她的理论）**：她提出两类门径之别——“My theory is that the magical doorways which the Hatter once controlled were likely naturally occurring.”，而机器造出的那些 “are unnatural—and therefore unstable”，这正是村民被抽成幽灵的原因（heart 还在、人却空了）。
 - **叙事手法**：全章用一场茶会当容器：喜剧（扇击、喷茶、旧事互抖）与审问（as easy as a spell / Or undone / memory spell）交替上桌；信息全靠对话一层层松口，最后由叙述者借用同一句赞叹（That crafty, gorgeous specimen of a man）再亲手落刀（He was a coward）。
 
 ## 精读

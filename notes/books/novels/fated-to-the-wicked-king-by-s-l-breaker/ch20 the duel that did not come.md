@@ -10,7 +10,8 @@ modified: "2026-11-08"
 - **情感弧线位置**：从劫后余生的 serenity and calm（It only lasted a moment）起步，经 molten fury 的推搡与剑光相接，落到胜负分明的一记收手与她的当众选边——「留下」由处境变成她说出口的决定。
 - **Tropes 兑现/反转**：章题 LION VS. UNICORN 兑现成一场以她为筹码的决斗——She’s exactly the type of woman I’ve been looking for 把三角恋摆上谈判桌；反转在结局：The king was letting him live，胜者不取性命，而她一句 battle about pride 的旁观把浪漫对决拆成两个男人的骄傲之争。
 - **人物弧线**：Gregory 从被推搡的被告变成押上性命的谈判者（kill only me / leave my people alone）；国王从 molten fury 走到放人活命，再收下条件——Fine. I shall continue with my investigation.；Allie 则把回家的路亮在明处：I must go home—to my real world。
-- **叙事手法**：决斗用短句与独句成段控速（The Wicked King moved. / But he stopped.），旁观者随时插进来泄压——Duchess 举着 champagne 喝彩、Chez 做出 retching 的表情；章末收在一个不给注脚的称呼上：My lady, from another world。
+- **补充（他第一次让步）**：Sophie 劝他先救人再决定杀不杀，他先是顶回去 “In a week, I will have taken care of this issue myself.”，被众人看着，最后咬牙松口：“Fine. I shall continue with my investigation. However, I shall endeavor to kill only hostile ghosts. Not innocent citizens.”——全书他第一次在处置权上后退。
+- **叙事手法**- **叙事手法**：决斗用短句与独句成段控速（The Wicked King moved. / But he stopped.），旁观者随时插进来泄压——Duchess 举着 champagne 喝彩、Chez 做出 retching 的表情；章末收在一个不给注脚的称呼上：My lady, from another world。
 
 ## 精读
 
