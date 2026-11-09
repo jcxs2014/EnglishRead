@@ -9,7 +9,7 @@ modified: "2026-11-09"
 
 - **一句话概括**：八年后，Winter 以逛妓院打发无 mate 的日子，被国王顾问 Caston 召回庄园——猎人夜里袭伤了国王 Valco，Winter 内心盼父死去，却接下"代行统治、自证能力"的摄政令，并盘算若父亲不死就让他后悔。
 - **情感弧线位置**：加害者视角的第一章：交代 Winter 的 mate 空缺与对八年前女孩的 unresolved 心结，再以父亲遇袭把权力线推上桌面——欲与权两条线在本章并行点火。
-- **Tropes 兑现/反转**：暗黑王子 trope 兑现（妓院、盼父死、毒药盘算）；反转在 Red Riding Hood——本册猎人袭击的幕后不是她，全书悬置的头号猎手首次被点名却未出场。
+- **Tropes 兑现/反转**：暗黑王子 trope 兑现（妓院、盼父死、毒药盘算）；反转在 Red Riding Hood——本册猎人袭击的幕后不是她，头号猎手被点名却未出场。
 - **人物弧线**：Winter 从"独身无嗣"的决绝转向摄政掌权；Micah 作为原班狼群幸存者登场，是他在 pack 内仅存的忠诚支点；Caston 的谄媚树起一个立得住的宫廷对照组。
 - **叙事手法**：双 POV 镜像——ch01 结尾 Sterling 立誓杀 Winter，本章 Winter 却梦见她；时间标记 EIGHT YEARS LATER 与 ch01 的 EIGHT YEARS AGO 对扣，八年前那场相遇被两个视角各认领一次。
 
@@ -25,7 +25,7 @@ modified: "2026-11-09"
 **中文理解**：Winter 自拒绝命定伴侣 Talia 后一直流连妓院；Bloodstorm 狼群大多与 mate 厮守，寻欢只是找到彼此前的消遣——所以他面临选择：原谅 Talia，或永结 mate。
 **关键词**：rejected / mates
 **为什么这样写**：把狼群的配对制度写成硬规则，再用 fucking bitch 一句爆粗显出他对 Talia 的恨意没有半分冷却——制度、仇恨、欲望三股线在一个段落里同时绷紧。
-**读者视角提示**："Fucking bitch"是全书第一处 Winter 的内心原话：恨意浓到不需要对象在场；记住 Talia 这个名字，后文必然回头处理这条线。
+**读者视角提示**："Fucking bitch"是 Winter 视角章的第一句内心爆粗：恨意浓到不需要对象在场；记住 Talia 这个名字，后文必然回头处理这条线。
 
 > **原句 3:** "Winter’s skin crawled at the idea of binding himself to one of the village women. A human he’d briefly encountered eight years ago came to mind, the only one he’d ever found himself drawn to until he discovered the traitorous blood running through her veins."
 **中文理解**：一想到要与村中女人绑定，Winter 就浑身发麻；八年前匆匆相遇的那个人类女孩浮上心头——他唯一动心过的人，直到发现她血管里流着叛徒的血。她的脸至今仍会闯进他的梦，他醒来会好奇她去了哪里。
