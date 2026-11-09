@@ -54,8 +54,8 @@ modified: "2026-11-09"
 > **原句 7:** "“Make me believe you want me,” Winter growled. “Tempt me. Kiss me.” Sterling didn’t hesitate, capturing his lips with hers, tasting the sweetest of flavors."
 **中文理解**：“让我相信你想要我。诱惑我。吻我。”她没有迟疑——唇齿相接，尝到最甜的味道。
 **关键词**：growled / hesitate
-**为什么这样写**：命令之吻的命令词是“相信”：他要的不是吻是证据——欲望在他这里始终需要被验证；她“没有迟疑”的服从快过思考，两人在这一秒都越过了谈判阶段。
-**读者视角提示**：对照 ch05 “ suck my cock in apology”的交易式提议：本章的吻没有交易条款——两人第一次在身体接触里不是买卖关系；这条分界线是感情线的实质起点。
+**为什么这样写**：命令之吻的命令词是“相信”：他要的不是吻是证据——欲望在他这里始终需要被验证；她“没有迟疑”的服从快过思考，两人在这一秒都越过了谈判的阶段。
+**读者视角提示**：对照 ch05 “suck my cock in apology”的交易式提议：本章的吻没有交易条款——身体接触不再是被买卖关系裹挟；这条分界线是感情线的实质起点。
 
 > **原句 8:** "Winter’s fingers entwined in her hair and he tugged her head back, his lids slitted. “After I taste your cunt.”"
 **中文理解**：他拽她头后仰、眼缝半眯：先尝你。她的警铃立刻响——这位王子宁愿先服侍囚徒？必有后招……他一定又在筹划什么恶毒的游戏。
@@ -73,7 +73,7 @@ modified: "2026-11-09"
 **中文理解**：他停顿一下宣布：我去趟妓院——比赛开始前回来。前脚刚吻过她，后脚就往妓院走。
 **关键词**：brothel / paused
 **为什么这样写**：宣布本身是挑衅也是自保：吻过她之后立刻去妓院——用别人的身体扑灭刚被点燃的火；pause 的迟疑暴露这决定不像他说的那么随性。
-**读者视角提示**：对照 ch11 “村里八卦你的房事多过你的残忍”：她此时心里翻腾却嘴上不在乎（原文后段）——两人的嫉妒都在装死；妓院之行是感情线的第一次冷却测试。
+**读者视角提示**：对照 ch11 “村里八卦你的房事多过你的残忍”：她此时心里翻腾却嘴上不在乎（原文后段）——两人的嫉妒都在装死；妓院之行是感情线的一次冷却测试。
 
 > **原句 11:** "“Does the prince treat all his prisoners like this?” “Not even close. Seems you’re a rarity.” Amalli shrugged and shut the door."
 **中文理解**：Amalli 送饭后被问王子对所有囚犯都这样吗——差远了，你是个特例。她耸耸肩关门。
@@ -98,8 +98,8 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | digits | 手指（文学用） | Winter drew a folded sheet of paper from his trousers and pressed it into her palm, his long digits dragging across her skin, sending shivers down her spine, but not from fright, as he pulled away. |
-| creased | 折出折痕 | Cyan creased a page with his fingertips. |
-| cower | 畏缩躲闪 | She unfastened her trousers, then let them drop to the floor before kicking them aside with her bare foot. Winter didn’t spare her a glance as she peeled her tunic over her head, nor did his expression alter. |
+| creases | 折痕 | The multiple creases, the folds, and refolds as if the crafter was becoming anxious that it wasn’t perfect. |
+| cower | 畏缩躲闪 | He so easily removed his clothing in front of her, and she wouldn’t cower in the bathing chamber like the lowly human he believed her to be. |
 | canines | 犬齿 | She could feel his wolfish canines slip out further as his tongue tasted her salty skin, could feel his cock harden beneath her. |
 | slitted | 眯成细缝的 | Winter’s fingers entwined in her hair and he tugged her head back, his lids slitted. |
 
