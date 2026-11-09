@@ -64,7 +64,7 @@ modified: "2026-11-09"
 **读者视角提示**：读者已经知道答案（ch03 三箭毙狼）：本章的张力全在"他知道得多快"——潜入戏的每一秒都在逼近床底下的真相。
 
 > **原句 9:** "Something tucked into the rails of the bed frame above a bow and quiver full of arrows. Something red. Winter pinched the small triangle of material that hung down and tugged it free. After a moment, it hit the floor with a dull thud. His smile grew as he slid the fabric out from beneath the bed and realized what he’d discovered. A red cloak… He’d found Red Riding Hood."
-**中文理解**：床架上、一整袋箭的弓上方，塞着什么。红色的东西。他捏住垂下的三角布料扯出来——布料砸在地板上。他的笑容扩大：他从床底拖出的，他明白了那是什么。一条红斗篷……他找到了 Red Riding Hood。
+**中文理解**：床架横杆上、弓与满袋箭的上方，塞着什么。红色的东西。他捏住垂下的三角布料扯出来——布料砸在地板上。他的笑容扩大：他从床底拖出的，他明白了那是什么。一条红斗篷……他找到了 Red Riding Hood。
 **关键词**：quiver / cloak
 **为什么这样写**：结尾两拍：先物后名——"A red cloak…"停在省略号，下一句才给结论；"他找到了 Red Riding Hood"一语双关（找到斗篷=找到人=找到外号的主人），全章的潜入在最后一个词收束。
 **读者视角提示**：红斗篷在 ch03 开头刚被她塞进包里换装——它在本章成了她最大的失策：伪装敌不过他搜家的耐心；下一章的对决从这里倒计时。
