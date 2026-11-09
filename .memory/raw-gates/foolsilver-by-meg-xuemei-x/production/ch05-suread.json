@@ -1,0 +1,55 @@
+{
+ "book": "foolsilver-by-meg-xuemei-x",
+ "chapter": "ch05",
+ "text": "notes/books/novels/foolsilver-by-meg-xuemei-x/text/ch05_chap05.txt",
+ "facts": [
+  {
+   "fact": "破晓 Aelindor 让她再睡；她睡了数周来最沉的一觉，被三位继承人的联合气场所护。",
+   "anchor": "“You can sleep longer,” Aelindor said, glancing at me as he pulled on his uniform coat.",
+   "start": 658,
+   "end": 745
+  },
+  {
+   "fact": "Max 自认若昨夜无人拦阻，她已凭肾上腺素与悲痛一路南下——继承人救她免于无计划莽行。",
+   "anchor": "If they’d left me alone last night, I’d have been halfway to the Haven by now",
+   "start": 964,
+   "end": 1041
+  },
+  {
+   "fact": "Frost 传令：奉 Aelindor 之命，Max 要参加 Greyhold 的继承人与高层晨会。",
+   "anchor": "“Change of plans. You are to join the heirs and senior staff for the morning briefing at Greyhold.”",
+   "start": 2334,
+   "end": 2433
+  },
+  {
+   "fact": "Holt 用三条「不可能」拷问昨夜：继承人从不安慰噩梦学员、Aelindor 从不抱人、史上无人与继承人同帐。",
+   "anchor": "The heirs don’t comfort cadets over nightmares, Cadet Max. Prince Aelindor doesn’t carry people.",
+   "start": 3756,
+   "end": 3852
+  },
+  {
+   "fact": "DarkVeil 方向传来 Coldiron 的合唱——有知觉的金属在那堵影墙里面呼唤她，认知令她胃部发冷。",
+   "anchor": "We’re here! We’re here!",
+   "start": 6208,
+   "end": 6231
+  },
+  {
+   "fact": "Caspian 当众递甜甜圈＝兽族认领礼；当众拒绝等于掴狼亲王的脸、可能震裂同盟。",
+   "anchor": "Shifters didn’t offer food casually. Offering food meant claiming someone. Pack. Inner circle. Yours.",
+   "start": 10673,
+   "end": 10774
+  },
+  {
+   "fact": "Drakken 亲自点名拉她上指挥桌——当年审讯她、试她龙火、骂她 warlock 的人做了这个决定。",
+   "anchor": "“Grab a chair. You’re sitting with us. Today’s topics concern you.”",
+   "start": 12222,
+   "end": 12289
+  },
+  {
+   "fact": "晨会宣布：昨夜情报将 Xander the Collector 列为一级威胁，与 White Witch 同级——这正是她幻象引发的变化。",
+   "anchor": "Intelligence received last night classifies Xander the Collector as a level-one threat to the Zodiac Covenant, equal priority with the White Witch.",
+   "start": 15308,
+   "end": 15455
+  }
+ ]
+}
