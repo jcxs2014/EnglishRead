@@ -19,5 +19,6 @@
 
 - 漏：0（R1 7 条事实均在 md 导航/总结/块分析中有对应，无关键转折缺失）
 - 编：0（未发现 md 有、原文无的情节/关系/数字）
+- 错（补）：关键词/分析「don’t deserve to look at you」漏 fucking；改为原文 `don’t fucking deserve to look at you`（text/ch15_thirteen.txt:230）
 - 错：1 处，已整改：
   - ch15 chapter thirteen.md 导航：改前「「全书最大的背景揭示……关系最大的跨越」」→ 改后「「全书重要的背景揭示……关系的重要跨越」」；证据 编辑性绝对断言，无原文可支持「最大」

@@ -2,8 +2,8 @@
 
 | 断言 | 证据（章:区间） | 结论 | 档位 |
 |---|---|---|---|
-| ch19 chapter seventeen.md #2：「is mine 三个词」 | text/ch19_seventeen.txt:35（is mine；2 词） | 与原文不符，已改为「「is mine 两个词」」 | 阻断 |
-| ch19 chapter seventeen.md #7：「作者让全书最后落在『现在』上」 | text/ch19_seventeen.txt:320（And now he is；其后还有 ch20 尾声） | 与原文不符，已改为「「作者让这一章最后落在『现在』上」」 | 阻断 |
+| ch19 chapter seventeen.md #2：「is mine 三个词」 | text/ch19_seventeen.txt:35（is mine；2 词） | 与原文不符，已改为「is mine 两个词」 | 阻断 |
+| ch19 chapter seventeen.md #7：「作者让全书最后落在『现在』上」 | text/ch19_seventeen.txt:320（And now he is；其后还有 ch20 尾声） | 与原文不符，已改为「作者让这一章最后落在『现在』上」 | 阻断 |
 | 提示：#7 分析引上一段 He’d felt like home | 见 3-diff.md | 邻段内容，核心由本块引语支撑；不修。 | 提示（不修） |
 
 ## 已核实为正确

@@ -19,7 +19,7 @@
 ## 对账
 
 - 漏：0（R1 8 条事实均在 md 导航/总结/块分析中有对应，无关键转折缺失）
-- 编：0（未发现 md 有、原文无的情节/关系/数字）
+- 编：1（写作期自述英文行：`Hmm, I wrote "读者提示" ... I'll edit after.`；原文无、非分析内容；已删）
 - 错：3 处，已整改：
   - ch16 chapter fourteen.md 导航：改前「「他抱着这对父子时」」→ 改后「「他看着这对父子时」」；证据 text/ch16_fourteen.txt:269（I envelop both their hands in mine；只握手未抱）
   - ch16 chapter fourteen.md 导航：改前「「全书的情感高点」」→ 改后「「全书的情感高点之一」」；证据 编辑性绝对断言

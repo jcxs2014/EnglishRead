@@ -2,7 +2,7 @@
 
 | 断言 | 证据（章:区间） | 结论 | 档位 |
 |---|---|---|---|
-| ch12 chapter ten.md #4：「mine 重复三次，没有逗号间隔的停顿感」 | text/ch12_ten.txt:194（mine, mine, mine；有逗号） | 与原文不符，已改为「「mine 用逗号隔开重复三次，像心跳或咒语」」 | 阻断 |
+| ch12 chapter ten.md #4：「mine 重复三次，没有逗号间隔的停顿感」 | text/ch12_ten.txt:194（mine, mine, mine；有逗号） | 与原文不符，已改为「mine 用逗号隔开重复三次，像心跳或咒语」 | 阻断 |
 
 ## 已核实为正确
 

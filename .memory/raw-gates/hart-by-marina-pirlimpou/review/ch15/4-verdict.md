@@ -2,7 +2,9 @@
 
 | 断言 | 证据（章:区间） | 结论 | 档位 |
 |---|---|---|---|
-| ch15 chapter thirteen.md 导航：「全书最大的背景揭示……关系最大的跨越」 | 编辑性绝对断言，无原文可支持「最大」 | 与原文不符，已改为「「全书重要的背景揭示……关系的重要跨越」」 | 阻断 |
+| ch15 chapter thirteen.md 导航：「全书最大的背景揭示……关系最大的跨越」 | 编辑性绝对断言，无原文可支持「最大」 | 与原文不符，已改为「全书重要的背景揭示……关系的重要跨越」 | 阻断 |
+
+| ch15 chapter thirteen.md 关键词/分析：「don’t deserve to look at you」 | text/ch15_thirteen.txt:230（原文 don’t fucking deserve…） | 已补 fucking | 阻断 |
 
 ## 已核实为正确
 

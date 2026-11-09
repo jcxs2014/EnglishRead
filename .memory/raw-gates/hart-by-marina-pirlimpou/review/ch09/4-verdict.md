@@ -2,7 +2,7 @@
 
 | 断言 | 证据（章:区间） | 结论 | 档位 |
 |---|---|---|---|
-| ch09 chapter seven.md #1：「两个 until 从句」 | text/ch09_seven.txt:29（until…, until…, Until he fucking believes it；3 个） | 与原文不符，已改为「「三个 until 从句」」 | 阻断 |
+| ch09 chapter seven.md #1：「两个 until 从句」 | text/ch09_seven.txt:29（until…, until…, Until he fucking believes it；3 个） | 与原文不符，已改为「三个 until 从句」 | 阻断 |
 
 ## 已核实为正确
 

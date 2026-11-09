@@ -2,7 +2,7 @@
 
 | 断言 | 证据（章:区间） | 结论 | 档位 |
 |---|---|---|---|
-| ch03 chapter one.md #1 读者：「后面他威胁骚扰者」 | text/ch03_one.txt:59（Callum：All we had to do was be very clear…；Devon 不在场） | 与原文不符，已改为「「后面他的手下威胁骚扰者」」 | 阻断 |
+| ch03 chapter one.md #1 读者：「后面他威胁骚扰者」 | text/ch03_one.txt:59（Callum：All we had to do was be very clear…；Devon 不在场） | 与原文不符，已改为「后面他的手下威胁骚扰者」 | 阻断 |
 
 ## 已核实为正确
 

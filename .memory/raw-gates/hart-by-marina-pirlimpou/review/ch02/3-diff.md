@@ -20,6 +20,7 @@
 
 - 漏：0（R1 8 条事实均在 md 导航/总结/块分析中有对应，无关键转折缺失）
 - 编：0（未发现 md 有、原文无的情节/关系/数字）
+- 错（补）：导航人物弧线「I want you to do everything…」漏 really；改为原文 `I really want you to do everything you said downstairs`（text/ch02_prologue.txt:317）
 - 错：1 处，已整改：
   - ch02 prologue.md #5：改前「「三句一个比一个短」」→ 改后「前两句极短，第三句拉长后断在破折号上」；证据 text/ch02_prologue.txt:230（This is crazy. / This is absolute madness. / We’ve only known… but—；3/4/12 词，非递短）
 - 提示（不修）：#5 分析末句引用「下一段只有一个 But.」——读者提示引邻段，核心由本块引语支撑；不修。
