@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 **句子结构**：第一句 "wasn't action but dread" 否定→肯定，破折号后三个动名词（waiting / listening / footsteps paused）展开恐惧的内容；第二句聚焦到具体声音（the knock on the door）。
 
-**关键词**：not action but dread / waiting / listening / footsteps paused / knock on the door
+**关键词**：dread / waiting / listening / footsteps paused / knock on the door
 
 **表达方式**：三个动名词构成"恐惧的现象学"——不是抽象的"害怕"而是具体的感官（听、等、脚步声）；"the knock on the door" 是全书最简洁的恐怖意象。
 
