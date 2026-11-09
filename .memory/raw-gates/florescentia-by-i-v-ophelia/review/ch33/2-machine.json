@@ -1,0 +1,406 @@
+{
+  "chapter": 33,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch33 the spider and the cliff.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch33_chapter_thirty_three_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I awoke to the sound of a raucous grinding ailing my ears",
+          "ok": true,
+          "pos": 35
+        },
+        {
+          "text": "The night sky was still there, though I wasn’t sure if there would be a day in this realm",
+          "ok": true,
+          "pos": 142
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Then, a black circle on the ground, out across the pond. It only drew my eye because it was still. Most things were movi",
+          "ok": true,
+          "pos": 1253
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Peculiars who meant no harm took on delightful forms, nonthreatening and beautiful",
+          "ok": true,
+          "pos": 2382
+        },
+        {
+          "text": "Which only meant that the opposite could also be true",
+          "ok": true,
+          "pos": 2746
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Within the weepy branches of the tree, the long, hairy legs of a black arachnid hovered, the twin claws at the end of a ",
+          "ok": true,
+          "pos": 3150
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The thorax opened, cracking and crunching as the exoskeleton parted down the middle and revealed one set of teeth, then ",
+          "ok": true,
+          "pos": 3516
+        },
+        {
+          "text": "I ran",
+          "ok": true,
+          "pos": 3645
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "An entire sky of a world rarely seen. A star for every year Earth had existed and more. Never had I seen clusters so cle",
+          "ok": true,
+          "pos": 7790
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I hope you find what you’re searching for, Lucia,” he said",
+          "ok": true,
+          "pos": 8699
+        },
+        {
+          "text": "“I just hope whatever it is, it brings you peace,” he said simply, “because you won’t be able to go back.”",
+          "ok": true,
+          "pos": 8834
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“It did, didn’t it?” He gestured around him. “You spoke to the dead, you traveled through—but no one said it would get y",
+          "ok": true,
+          "pos": 9211
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“He is dead,” he said bluntly. “You should be concerned about yourself now. When one passes beyond the Otherside, they c",
+          "ok": true,
+          "pos": 11155
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He was the smoke, the mirror, the stage—and I was his fool",
+          "ok": true,
+          "pos": 11878
+        },
+        {
+          "text": "Another means to an end",
+          "ok": true,
+          "pos": 11938
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Above all, he was a threat",
+          "ok": true,
+          "pos": 12411
+        },
+        {
+          "text": "And I would never know what was holding him back",
+          "ok": true,
+          "pos": 12439
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "33. Chapter Thirty-Three: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 17,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2376,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

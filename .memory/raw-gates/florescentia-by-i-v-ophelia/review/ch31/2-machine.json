@@ -1,0 +1,273 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch31 the other shore.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch31_chapter_thirty_one_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Before my next breath, I was surrounded by water",
+          "ok": true,
+          "pos": 139
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It seemed to resemble the giant rock in the sky, with divots and craters. It was the finer details that gave it away, as",
+          "ok": true,
+          "pos": 1224
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A willow tree of feathers waved in a nonexistent wind",
+          "ok": true,
+          "pos": 1650
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“No . . .” I dropped to my knees, shuffling through the items for my father’s journal. “Please no!” I ripped it open, th",
+          "ok": true,
+          "pos": 2667
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The other items were wet but not ruined, especially the grimoire. The sentient object looked as if it hadn’t been touche",
+          "ok": true,
+          "pos": 2914
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Through the lens, I saw full color. Auras of pink and yellow, reds and oranges, purples and rich blues burst through the",
+          "ok": true,
+          "pos": 3572
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Peculiars waiting idly by, not flowers at all",
+          "ok": true,
+          "pos": 3845
+        },
+        {
+          "text": "Finally, I was on the Otherside. But where to go from here was still a mystery",
+          "ok": true,
+          "pos": 4358
+        }
+      ],
+      "words": 25
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.52
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Thirty-One: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 824,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
