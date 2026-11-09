@@ -1,0 +1,601 @@
+{
+  "chapter": "ch06",
+  "source": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch06_chapter_5_begin_again.txt",
+  "chapter_title_verbatim": {
+    "start": 0,
+    "end": 22,
+    "quote": "CHAPTER 5: Begin Again"
+  },
+  "span_verbatim": {
+    "start": 57,
+    "end": 69,
+    "quote": "1903 to 1936"
+  },
+  "file_chars": 42876,
+  "method": "offsets computed with /usr/bin/python3 str.find on the utf-8 decoded file; start inclusive, end exclusive",
+  "facts": [
+    {
+      "fact": "Irène Cahen d'Anvers's second marriage (2 March 1903, Catholic chapel of Saint-Honoré d'Eylau, Abbé de Gibergues officiating, 'dans la plus stricte intimité' — no flowers, corbeille or reception) was carried out as social reinvention after her 1899 Catholic baptism: the notice listed only two witnesses, her brother-in-law Colonel Charles Townshend and an unrelated aristocratic Catholic 'cousin', and named no parents — her family neither attended nor approved.",
+      "start": 4076,
+      "end": 4553,
+      "quote": "In society wedding announcements of the Belle Époque, parents were always named if they attended. In Irène Cahen d’Anvers’s 1903 marriage notice, only two witnesses are listed—her brother-in-law, the British colonel Charles Townshend, and an aristocratic Catholic “cousin” who actually was not related to her. There was no mention of her parents. Their omission signals not an oversight, but absence: a discreet way of showing that her family did not attend or did not approve."
+    },
+    {
+      "fact": "On 4 March 1903 Irène wrote and sealed a note to Nini (eleven) and Béatrice (nine) announcing 'I married Monsieur Sampieri the other day', telling them Monsieur Sampieri demands only to be a good friend and asking them to be kind to their father 'who loves you so much and even too much'; she signed it 'votre maman' — and Moïse kept and archived the letter for the rest of his life beside his royal collectibles.",
+      "start": 1973,
+      "end": 2226,
+      "quote": "She signed it votre maman, folded it crisply, and sealed it shut. Moïse, the man she had left, kept the letter the rest of his life, archived it, as though it were another object in his collection of treasures once touched by eighteenth-century royalty."
+    },
+    {
+      "fact": "Her beloved uncle Albert Cahen d'Anvers — the man who had led her down the aisle at her wedding to Moïse — died suddenly on 27 February 1903 aged fifty-seven in Cap d'Ail after a surgery, days before the second marriage; a day after the wedding Irène and the family gathered at his home, the Petit Hôtel de Villars (118 rue de Grenelle), for his funeral, hosted by her father Louis with the chief rabbi of France presiding, the coffin crossing the Seine to Montmartre cemetery: mourning and marriage overlapped.",
+      "start": 3279,
+      "end": 3509,
+      "quote": "According to Le Monde Artiste, he had died suddenly, days before the marriage, on February 27, 1903, at the age of fifty-seven, in Cap d’Ail in the south, “following a surgery whose seriousness at first gave no cause for concern.”"
+    },
+    {
+      "fact": "Back from three weeks in Genoa, Irène demanded custody of Béatrice (summer 1903) — an 'audacious declaration of war' Moïse could not forgive; by July 1903 the case was narrowed by Henri Barboux to her abandonment of Judaism against Henri Du Buit's apology that she was a mother who would not change her daughter's faith, and the judges heard Barboux: her plea was dismissed, the children staying primarily with Moïse with four months of each year, and daily contact, with Irène.",
+      "start": 6562,
+      "end": 6736,
+      "quote": "By July 1903, the legal arguments in the custody battle over Béatrice narrowed to a single point. Not abandonment. Not scandal. Just the fact that Irène was no longer Jewish."
+    },
+    {
+      "fact": "Nissim Camondo was killed on the morning of 5 September 1917, aged twenty-five, piloting a two-seater Dorand AR.2 at 3,000 feet when a German Fokker opened fire; he and his observer were likely dead before the wreckage landed, and he was buried behind enemy lines in a German cemetery at Avricourt, more than 185 miles from Paris, under a white cross not meant for a Jewish soldier — the grave Moïse later had a team of undertakers dig up in secrecy to bring his son home.",
+      "start": 18822,
+      "end": 19024,
+      "quote": "Nissim was gone, buried and inaccessible, behind enemy lines in a German cemetery in Avricourt, more than 185 miles from Paris in northeastern France, under a white cross not meant for a Jewish soldier."
+    },
+    {
+      "fact": "Moïse staged the memorial on 5 October 1917 at the synagogue on rue de la Victoire, the place where he had married Irène twenty-six years earlier, presided over by the chief rabbi of Paris with a choir of Jewish orphans, noting the attendance of bankers, aristocrats and diplomats in his archives and donating to the orphans, the Consistory and the rabbis (over $220,000 in today's dollars) — and the public record shows the divorce settlement's gender line held: the mother was not there.",
+      "start": 19676,
+      "end": 19825,
+      "quote": "Irène was notably absent, but according to newspapers, her parents, Louis and Louise Cahen d’Anvers, were present, and so was her daughter, Béatrice."
+    },
+    {
+      "fact": "Irène separated from Charles Sampieri two months after her son's death, in January 1918, with no statement and no scandal, disappearing from the society pages; the final decree came six years later, in 1924 — her pattern of 'delay, denial, a pause to take stock' matched a national wave of French women who outlived the war and then left incompatible husbands (divorces rising from 15,450 after 1913 to 29,156 in 1920 and 32,557 in 1921).",
+      "start": 21795,
+      "end": 21949,
+      "quote": "The war had taken her son. Then two months later, in January 1918, she separated from Charles. There was no statement this time. No public scandal ensued."
+    },
+    {
+      "fact": "Charles Cahen d'Anvers decided suddenly in 1933, after liquidating the family bank, to give the family château of Champs-sur-Marne away; in 1934 he negotiated the gift with special conditions (the state preserving the staff's jobs as civil servants and paying more than 2 million francs, about $1.8 million today, for the art and furnishings), and in July 1935 he handed over the keys — a deal struck without consulting the people who had lived inside its walls, including his son Gilbert, born there, who was summoned to collect his linen, suits and riding boots.",
+      "start": 33556,
+      "end": 33659,
+      "quote": "So he gave away the castle in a deal without consulting the people who had long lived inside its walls."
+    },
+    {
+      "fact": "A year after Moïse de Camondo died in ill health at seventy-four, an official donation followed in December 1936: to the state, through Les Arts Décoratifs, he left his rue de Monceau house, its furniture and his grief for Nissim, imposing conditions for a museum in his son's name — the mansion not to be changed, its antiques fixed exactly where he arranged them, no loans to other museums, sun blinds used properly, the courtyard laurels crated against frost — a bequest valued at more than 100 million francs ($85 million today); at the opening Jean Zay praised her father, and none of the reports mentioned the donor's Jewish origins.",
+      "start": 38687,
+      "end": 39010,
+      "quote": "Then another observance and official donation followed in December 1936. Moïse de Camondo had died in ill health a year earlier at the age of seventy-four. To the state, through Les Arts Décoratifs, he left his house and his furniture and his grief for his son, Nissim. He imposed conditions for a museum in his son’s name."
+    }
+  ],
+  "relationships": [
+    "Irène Cahen d'Anvers × Moïse de Camondo: married ~1878/1891 generation (memorial 1917 was 'twenty-six years earlier' than their wedding at rue de la Victoire), divorced 1899-1903 amid scandal; he kept her letter, won custody, used her conversion as the legal ground against her, and after Nissim's death still arranged her access to the grave (28 November 1918 letter to his lawyer), while Proust's condolence acknowledged 'the mother' more intimately than he did.",
+    "Irène × Charles Sampieri: married 2 March 1903 (she, thirty; the ceremony in the strictest intimacy); honeymoon and pregnancy in Genoa; daughter Claude 'Pussy' born of it; separated January 1918, divorced by decree 1924.",
+    "Irène × her children: Nissim ('Nini', eleven in 1903) and Béatrice (nine) stayed primarily with Moïse, four months of each year with their mother, daily contact, her weekly letter-instruction to invite cousin Audrey to tea; Claude 'Pussy' (with Sampieri) she raised 'like a princess' and spoilt; grandchildren France and Lorraine Dubonnet called her 'Granny' and adored her.",
+    "Moïse × Nissim: groomed methodically for the Camondo bank instead of law; Nissim kept his love for Renée d'Orville secret from him, and asked by note that his 100,000-franc inheritance from his paternal grandmother go to her; Nissim's death (5 September 1917) drove Moïse to dissolve I. Camondo & Cie on 7 November 1917, retrieve the remains in secret, and name his house-museum after his son.",
+    "Moïse × Béatrice: he approved Léon Reinach as 'a musician and foreign to business' and signed a marriage contract on 2 March 1919 paying a dowry of 1 million francs (about $1.6 million) within fifteen days plus 100,000 francs (about $255,000) within twenty-five years, keeping her property separate as Irène's contract had twenty-eight years earlier; Béatrice later took her Boldini portrait at age six from the mansion.",
+    "Irène × her family of origin: uncle Albert Cahen d'Anvers had led her down the aisle and died days before her second marriage; parents Louis and Louise were omitted from the 1903 notice (did not attend or approve) but later appeared with the couple at society events, hosted Albert's funeral, ran the château stables as a hospital, and attended Nissim's memorial; during the war her brothers Robert and Charles were mobilized and her sisters Élisabeth (Red Cross in Tunisia) and Alice (in a London/Paris double life, married to British Colonel Charles Townshend) also served; cousin Hugo Cahen d'Anvers sold his collection at Drouot in 1934.",
+    "Next generation: Nissim's secret fiancée/love Renée d'Orville (Red Cross volunteer, twenty-four, Catholic, groomed at sixteen as a courtesan); Pussy × André Dubonnet (married 1922, she left seven years later, lost partial custody of France and Lorraine, remarried 1932 and 1937); Charles × Suzanne Levy (married after Louis caught him sneaking down the rue Bassano stairs in 1907); their children Gilbert (who married a Catholic Argentinean girl, Cécile de Rothschild planned for instead) and Colette.",
+    "Households and retainers: Mademoiselle Berthe Villemessant governed the Camondo children's instruction with a rabbi from rue Buffault giving Friday lessons; Moïse's collecting (Garnier commode sought for thirty-eight years, foo dogs, Russian silver, Gobelin tapestries, La Douleur, the 1911 Petit Trianon replica on his mother's 63 rue de Monceau site, the Geraldine sold to the king of Portugal) filled the silence; at Champs-sur-Marne seventy servants, chauffeur Émile Gougeaud (sixty-three years, 'a second father' to Gilbert) and gardener M. Harmel kept delivering roses after the château left family hands.",
+    "Public/official figures: Abbé Pierre-Marie de Gibergues (wedding), Henri Barboux (for Moïse) against Henri Du Buit (for Irène), Marcel Proust (condolence letter), Camille Blaisot (accepted the château keys in July 1935), Jean Zay (praised Moïse at the Musée Nissim de Camondo opening, later kidnapped and shot by the Vichy militia), Albert Lebrun (toured the museum January 1937), king of Spain (regular château visitor), Hermann Göring and Benito Mussolini (in the same news cycle as the museum opening).",
+    "Framing relationship: Renoir's portrait of Irène in blue moved back into public view at the Orangerie retrospective (June 1933, insured 200,000 francs, loaned by Léon from Béatrice's Neuilly home) and once more at Bernheim-Jeune in 1938, where an antisemitic critic praised 'Mlle. Irène Cahen d'Anvers' — while Irène and Charles would one day be barred from the château their family had given away in good faith."
+  ],
+  "numbers": [
+    {
+      "start": 57,
+      "end": 69,
+      "quote": "1903 to 1936"
+    },
+    {
+      "start": 72,
+      "end": 88,
+      "quote": "ON MARCH 4, 1903"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "quote": "age eleven"
+    },
+    {
+      "start": 305,
+      "end": 319,
+      "quote": "Béatrice, nine"
+    },
+    {
+      "start": 536,
+      "end": 577,
+      "quote": "I married Monsieur Sampieri the other day"
+    },
+    {
+      "start": 2485,
+      "end": 2516,
+      "quote": "on March 2, 1903, at age thirty"
+    },
+    {
+      "start": 2785,
+      "end": 2814,
+      "quote": "dans la plus stricte intimité"
+    },
+    {
+      "start": 3361,
+      "end": 3405,
+      "quote": "February 27, 1903, at the age of fifty-seven"
+    },
+    {
+      "start": 4556,
+      "end": 4598,
+      "quote": "A day later, Irène and her family gathered"
+    },
+    {
+      "start": 4653,
+      "end": 4672,
+      "quote": "118 rue de Grenelle"
+    },
+    {
+      "start": 4719,
+      "end": 4737,
+      "quote": "7th arrondissement"
+    },
+    {
+      "start": 4906,
+      "end": 4940,
+      "quote": "the chief rabbi of France presided"
+    },
+    {
+      "start": 5223,
+      "end": 5247,
+      "quote": "four months of each year"
+    },
+    {
+      "start": 5783,
+      "end": 5803,
+      "quote": "Three weeks in Genoa"
+    },
+    {
+      "start": 6042,
+      "end": 6060,
+      "quote": "the summer of 1903"
+    },
+    {
+      "start": 6326,
+      "end": 6364,
+      "quote": "1899, when she was baptized a Catholic"
+    },
+    {
+      "start": 6418,
+      "end": 6445,
+      "quote": "a private interview in 1982"
+    },
+    {
+      "start": 6562,
+      "end": 6574,
+      "quote": "By July 1903"
+    },
+    {
+      "start": 6876,
+      "end": 6901,
+      "quote": "a child of nine years old"
+    },
+    {
+      "start": 8131,
+      "end": 8141,
+      "quote": "since 1869"
+    },
+    {
+      "start": 8203,
+      "end": 8218,
+      "quote": "fifty relatives"
+    },
+    {
+      "start": 8419,
+      "end": 8436,
+      "quote": "63 rue de Monceau"
+    },
+    {
+      "start": 8456,
+      "end": 8480,
+      "quote": "forty years of wandering"
+    },
+    {
+      "start": 8778,
+      "end": 8785,
+      "quote": "by 1910"
+    },
+    {
+      "start": 8898,
+      "end": 8905,
+      "quote": "By 1930"
+    },
+    {
+      "start": 9911,
+      "end": 9950,
+      "quote": "in 1900, two years after his separation"
+    },
+    {
+      "start": 10100,
+      "end": 10125,
+      "quote": "a Garnier commode in 1898"
+    },
+    {
+      "start": 10156,
+      "end": 10174,
+      "quote": "thirty-eight years"
+    },
+    {
+      "start": 10668,
+      "end": 10708,
+      "quote": "In 1911, he leveled his mother’s mansion"
+    },
+    {
+      "start": 12973,
+      "end": 12987,
+      "quote": "In August 1914"
+    },
+    {
+      "start": 13522,
+      "end": 13547,
+      "quote": "At age twenty-two, Nissim"
+    },
+    {
+      "start": 13883,
+      "end": 13901,
+      "quote": "the summer of 1916"
+    },
+    {
+      "start": 14963,
+      "end": 15006,
+      "quote": "Louise, seventy and suffering from pleurisy"
+    },
+    {
+      "start": 16109,
+      "end": 16139,
+      "quote": "about eighty thousand soldiers"
+    },
+    {
+      "start": 17188,
+      "end": 17213,
+      "quote": "twenty-four, and Catholic"
+    },
+    {
+      "start": 17369,
+      "end": 17387,
+      "quote": "groomed at sixteen"
+    },
+    {
+      "start": 17831,
+      "end": 17906,
+      "quote": "a sum of 100,000 francs, the equivalent of about $400,000 in modern dollars"
+    },
+    {
+      "start": 18048,
+      "end": 18065,
+      "quote": "September 5, 1917"
+    },
+    {
+      "start": 18108,
+      "end": 18127,
+      "quote": "Nissim, twenty-five"
+    },
+    {
+      "start": 18148,
+      "end": 18159,
+      "quote": "Dorand AR.2"
+    },
+    {
+      "start": 18231,
+      "end": 18244,
+      "quote": "At 3,000 feet"
+    },
+    {
+      "start": 18918,
+      "end": 18948,
+      "quote": "more than 185 miles from Paris"
+    },
+    {
+      "start": 19027,
+      "end": 19045,
+      "quote": "On October 5, 1917"
+    },
+    {
+      "start": 19135,
+      "end": 19159,
+      "quote": "twenty-six years earlier"
+    },
+    {
+      "start": 19635,
+      "end": 19672,
+      "quote": "more than $220,000 in today’s dollars"
+    },
+    {
+      "start": 20051,
+      "end": 20071,
+      "quote": "on November 28, 1918"
+    },
+    {
+      "start": 21352,
+      "end": 21371,
+      "quote": "On November 7, 1917"
+    },
+    {
+      "start": 21473,
+      "end": 21511,
+      "quote": "Five months later he wrote to a friend"
+    },
+    {
+      "start": 21845,
+      "end": 21888,
+      "quote": "in January 1918, she separated from Charles"
+    },
+    {
+      "start": 22123,
+      "end": 22168,
+      "quote": "six years later, in 1924, with a final decree"
+    },
+    {
+      "start": 22365,
+      "end": 22454,
+      "quote": "After 1913, divorces rose in France: from 15,450 to 29,156 in 1920, and to 32,557 in 1921"
+    },
+    {
+      "start": 22996,
+      "end": 23040,
+      "quote": "An engagement was announced on March 2, 1919"
+    },
+    {
+      "start": 23042,
+      "end": 23095,
+      "quote": "At the age of twenty-four, Béatrice signed a contract"
+    },
+    {
+      "start": 24264,
+      "end": 24377,
+      "quote": "a dowry of 1 million francs in installments, or about $1.6 million in modern dollars, payable within fifteen days"
+    },
+    {
+      "start": 24439,
+      "end": 24494,
+      "quote": "an additional 100,000 francs—worth about $255,000 today"
+    },
+    {
+      "start": 24575,
+      "end": 24607,
+      "quote": "payable within twenty-five years"
+    },
+    {
+      "start": 24635,
+      "end": 24661,
+      "quote": "twenty-eight years earlier"
+    },
+    {
+      "start": 25011,
+      "end": 25034,
+      "quote": "When Pussy was nineteen"
+    },
+    {
+      "start": 25069,
+      "end": 25096,
+      "quote": "André Dubonnet, twenty-five"
+    },
+    {
+      "start": 25468,
+      "end": 25527,
+      "quote": "a Catholic ceremony in 1922, and seven years later she left"
+    },
+    {
+      "start": 25663,
+      "end": 25700,
+      "quote": "about one year old and five years old"
+    },
+    {
+      "start": 25712,
+      "end": 25729,
+      "quote": "remarried in 1932"
+    },
+    {
+      "start": 25731,
+      "end": 25749,
+      "quote": "Then again in 1937"
+    },
+    {
+      "start": 26069,
+      "end": 26107,
+      "quote": "a softly lit 1934 Christmas photograph"
+    },
+    {
+      "start": 26128,
+      "end": 26148,
+      "quote": "Lorraine, about five"
+    },
+    {
+      "start": 26567,
+      "end": 26694,
+      "quote": "in June 1933 at a Renoir retrospective at the Musée de l’Orangerie, insured for a value of 200,000 francs, about $184,000 today"
+    },
+    {
+      "start": 26769,
+      "end": 26796,
+      "quote": "64 Boulevard Maurice-Barrès"
+    },
+    {
+      "start": 26906,
+      "end": 26950,
+      "quote": "two maids, a valet, a cook, and an assistant"
+    },
+    {
+      "start": 27488,
+      "end": 27596,
+      "quote": "The top 10 percent of the wealth holders in France owned more than 80 percent of the national wealth in 1900"
+    },
+    {
+      "start": 27669,
+      "end": 27685,
+      "quote": "By 1935, Piketty"
+    },
+    {
+      "start": 27963,
+      "end": 27989,
+      "quote": "the 8th, the 16th, the 7th"
+    },
+    {
+      "start": 28149,
+      "end": 28197,
+      "quote": "By 1936, the teams of servants were largely gone"
+    },
+    {
+      "start": 28675,
+      "end": 28716,
+      "quote": "sold his lacquered past at Drouot in 1934"
+    },
+    {
+      "start": 28850,
+      "end": 28891,
+      "quote": "more than $1.8 million in today’s dollars"
+    },
+    {
+      "start": 28990,
+      "end": 29026,
+      "quote": "In 1936, ten years after Louise died"
+    },
+    {
+      "start": 29819,
+      "end": 29854,
+      "quote": "In the 1930s, members of the family"
+    },
+    {
+      "start": 29998,
+      "end": 30036,
+      "quote": "to the Académie des Beaux-Arts in 1934"
+    },
+    {
+      "start": 30471,
+      "end": 30487,
+      "quote": "Seventy servants"
+    },
+    {
+      "start": 30534,
+      "end": 30574,
+      "quote": "The Depression arrived in France in 1931"
+    },
+    {
+      "start": 30797,
+      "end": 30808,
+      "quote": "It was 1933"
+    },
+    {
+      "start": 31512,
+      "end": 31548,
+      "quote": "mayor of Champs-sur-Marne since 1925"
+    },
+    {
+      "start": 31572,
+      "end": 31595,
+      "quote": "who was elected in 1904"
+    },
+    {
+      "start": 31887,
+      "end": 31910,
+      "quote": "had come to him in 1922"
+    },
+    {
+      "start": 32511,
+      "end": 32552,
+      "quote": "thirty of the Townshend portraits in 1904"
+    },
+    {
+      "start": 32436,
+      "end": 32451,
+      "quote": "three centuries"
+    },
+    {
+      "start": 32827,
+      "end": 32871,
+      "quote": "In 1934, Charles quietly negotiated the gift"
+    },
+    {
+      "start": 32992,
+      "end": 33048,
+      "quote": "pay more than 2 million francs, about $1.8 million today"
+    },
+    {
+      "start": 35019,
+      "end": 35049,
+      "quote": "The tipping point came in 1907"
+    },
+    {
+      "start": 35945,
+      "end": 35993,
+      "quote": "at least 1 million francs a year, about $920,000"
+    },
+    {
+      "start": 36323,
+      "end": 36365,
+      "quote": "In July 1935, Charles handed over the keys"
+    },
+    {
+      "start": 36778,
+      "end": 36808,
+      "quote": "the dressing gong at 7:30 p.m."
+    },
+    {
+      "start": 36829,
+      "end": 36861,
+      "quote": "a six-course dinner at 8:00 p.m."
+    },
+    {
+      "start": 37031,
+      "end": 37069,
+      "quote": "drove the family for sixty-three years"
+    },
+    {
+      "start": 37858,
+      "end": 37882,
+      "quote": "about one hundred guests"
+    },
+    {
+      "start": 38272,
+      "end": 38324,
+      "quote": "It was in 1895 that your parents acquired the castle"
+    },
+    {
+      "start": 38715,
+      "end": 38758,
+      "quote": "official donation followed in December 1936"
+    },
+    {
+      "start": 38800,
+      "end": 38841,
+      "quote": "a year earlier at the age of seventy-four"
+    },
+    {
+      "start": 39189,
+      "end": 39205,
+      "quote": "ninety paintings"
+    },
+    {
+      "start": 39343,
+      "end": 39374,
+      "quote": "on full display for fifty years"
+    },
+    {
+      "start": 40160,
+      "end": 40223,
+      "quote": "more than 100 million francs, or $85 million in today’s dollars"
+    },
+    {
+      "start": 40953,
+      "end": 40983,
+      "quote": "in January 1937, Albert Lebrun"
+    },
+    {
+      "start": 41422,
+      "end": 41456,
+      "quote": "in 1938, Irène’s portrait surfaced"
+    },
+    {
+      "start": 41620,
+      "end": 41668,
+      "quote": "purchased from the Cahen d’Anvers family in 1909"
+    }
+  ]
+}

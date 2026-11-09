@@ -1,0 +1,792 @@
+{
+  "chapter": "ch05",
+  "chapter_source": "CHAPTER 4: Transactions — 1891 to 1902",
+  "source_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch05_chapter_4_transactions.txt",
+  "source_char_len": 49008,
+  "method": "素读：仅打开本 txt 一份文件（无 .md/规则/脚本/检索）。所有 start/end 均由 /usr/bin/python3 对原始 UTF-8 文本 content[str.find(quote)] 实算，end = start + len(quote)；occurrences_in_source 为 str.count 复核（>1 表示该串在文中出现多次，取首个位置）。relationships 的 Lnn 指该 txt 的行号。",
+  "facts": [
+    {
+      "fact": "1891年10月8日公证人到场签署婚约：Irène Cahen d'Anvers 与 Möise（原文如此，即 Moïse）de Camondo 的签约是两个银行王朝的合并——作者定性为“这不是爱情，这是算术”；契约二十多页，写明她的嫁妆超过100万法郎（约合今700万美元），再加上 House of Worth 的设计衣橱另计15万法郎。",
+      "start": 979,
+      "end": 1290,
+      "quote": "The formal signing of a marriage contract between Möise de Camondo and Irène Cahen d’Anvers marked the merger of two banking dynasties. Irène studied her future, spelled out in graceful, impersonal script more than twenty pages long. Her dowry? More than 1 million francs, or about $7 million in modern dollars.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "契约第4条（Article 4）设定 réserve de droit de retour（回收权）：若 Irène 先于 Camondo 去世，其父母可索回全部嫁妆；对 Irène 本人而言这道条款是“防火墙”，使嫁妆独立于丈夫的财产由她掌控——这正是1902年她离婚后收回嫁妆的制度基础。",
+      "start": 1875,
+      "end": 2279,
+      "quote": "Article 4 guaranteed a réserve de droit de retour, or right of reversion—a highly significant clause in nineteenth-century dynastic marriages involving large dowries and intergenerational wealth. It guaranteed that if Irène died before Camondo, her parents could reclaim the entire dowry. And for Irène, the clause was a firewall that gave her control over her dowry, separate from her husband’s fortune.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1891年2月“Camondo 事件”：Moïse 在 Café Anglais 午餐时惊闻南美股票暴跌三点——有人冒用他拼错的名字（Cammondo）向伦敦两家券商拍电报要求抛售十万股，而他一股未卖；他在恐慌中起身宣称自己是大规模欺诈的受害者，并赶去公共检察官处报案（据 The New York Herald）；一个月后查出是名无照德国经纪人，其家人最终赔付两家伦敦经纪行3万法郎。",
+      "start": 4652,
+      "end": 4817,
+      "quote": "In the panic, Moïse rose to declare he was the victim of wholesale fraud and rushed to file a complaint with the public prosecutor, according to The New York Herald.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1891年10月15日婚礼在巴黎 Synagogue de la Victoire 举行，关键转折出现在挽行环节：不是父亲、而是曾被 Renoir 画过的“局外”叔叔 Albert 挽着 Irène 的手臂走红毯，走向中殿的红色天鹅绒 chuppah——这一无声姿态 unmistakable；Louis 拒绝（或放弃）了这一“祝福”动作，暗示父女关系紧张，而他日后仍为 Élisabeth 与 Alice 挽行。",
+      "start": 6229,
+      "end": 6518,
+      "quote": "And then came the moment that altered the frame. Instead of her father, it was uncle Albert, the outsider uncle that Renoir had once painted, who took her arm. Together they walked down the aisle toward a red velvet chuppah set in the central nave, a gesture unmistakable, even in silence.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1896年 Moïse 决定添一件新的奢侈品——赛马马厩，雇来 Charles Sampieri 作新驯马师兼顾问（自1895年起曾为 Boni de Castellane 经管马厩，Castellane 的推荐对 Moïse 有分量）；Sampieri 成了 Irène 的骑术教练，Irène 动了情，下人比家里人更早看穿，给他取绰号 le palefrenier（马夫）——此说法由后代传给整理 Camondo 档案四十余年的档案学者 Sophie Le Tarnec；后代另称是一名女仆向 Moïse 告发了这段外遇（也有报纸与反犹书籍给出别的版本）。",
+      "start": 29060,
+      "end": 29379,
+      "quote": "He was her riding instructor. The staff saw her infatuation before the family did and nicknamed Charles le palefrenier, the groom, a wink that didn’t need explanation, a story passed on from descendants to Sophie Le Tarnec, an archivist and historian who organized and preserved Camondo’s archives for over forty years.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1897年5月4日 Bazar de la Charité 大火（ruJean-Goujon 临时木棚内的慈善义卖，起于手摇放映机的乙醚灯）烧死125人以上、多为女性，包括为救助修女们而遇难的 Duchess d'Alençon；Irène 的母亲与妹妹 Alice 恰在门边，在空气变黑、人潮挤向封死的通道之前从门里滑出——她们是幸运者（最高存活率在入口处）。",
+      "start": 31863,
+      "end": 32103,
+      "quote": "Somehow, Irène’s mother and her sister Alice were near a door. They slipped through before the air turned black, before the crowd crushed itself against the blocked passageways, many of them getting trampled in the process. They were lucky.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1897年8月“Le Scandale de Téléphones”（四名欠薪接线女工偷听一位伯爵与一位已婚沙龙夫人的通话、被主管听见后开除；Raphaël Viau 的《Les femmes d’Israël》随后点名）登上头版之际，Irène 离开巴黎，先赴 Baden-Baden、再去一处无名温泉，躲避城中107度的酷暑——“或者她在逃避别的东西”；她9月28日离开，Moïse 等她归来，两人争吵、做戏：孩子随父、每天探望她，她独立住在 3 Avenue Bugeaud 的公寓。",
+      "start": 36002,
+      "end": 36322,
+      "quote": "Moïse waited for Irène to return after she left on September 28, 1897. They argued. They pretended. The children stayed with him and visited her every day. She lived independently in her own apartment at 3 Avenue Bugeaud, about a fifteen-minute walk to Moïse’s rented mansion on Avenue d’Iéna in the 16th arrondissement.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "婚姻在1902年1月终结：1901年7月画展结束，“到1902年1月，婚姻也结束了”——Irène 提出离婚（仍是罕见之举），法院以“性情绝对不合”结案；六个月后她正式收回嫁妆（写入法律文件），卷边批注“4000 par mois”（约合今3.5万美元/月）；她提出的“serious accusations”未披露、只被承认随后判为无据，而她自己的外遇与出走只字未提。",
+      "start": 47393,
+      "end": 47565,
+      "quote": "Six months later she reclaimed her dowry—a gesture made official in legal records. Their relationship was an “absolute incompatibility of temperament,” the court concluded.",
+      "occurrences_in_source": 1
+    }
+  ],
+  "relationships": [
+    {
+      "relationship": "Irène Cahen d'Anvers ↔ Moïse de Camondo（夫妻→分居→前夫妻）：1891年10月8日签婚约、10月15日结婚的政治—金融联姻（他年长大十二岁、照片里严肃）；1897年9月她出走后二人分居却仍同框社交；1902年1月她提出离婚，六个月后收回嫁妆，每月4000法郎赡养费。",
+      "source_lines": "L22,L25,L52,L61,L241,L314,L317,L320"
+    },
+    {
+      "relationship": "Louis Cahen d'Anvers ↔ Irène（父女，关系紧张）：Louis 拒绝（或放弃）挽女儿走红毯的“祝福”动作；他数年后为 Élisabeth 与 Alice 挽行。Louis 与 Louise 支持 Dreyfus，因而被 Paul Bourget 等旧友翻脸（Alice 证实“Bourget turned his back on my parents”）。",
+      "source_lines": "L55,L58,L106"
+    },
+    {
+      "relationship": "uncle Albert ↔ Irène（叔侄/替代父亲的角色）：曾被 Renoir 画过的“局外叔叔”在婚礼上挽她走红毯；为她婚礼作原创曲子；赠银色餐具（约15万法郎、今逾70万美元）。",
+      "source_lines": "L55,L61,L76"
+    },
+    {
+      "relationship": "Louise Cahen d'Anvers（母亲）↔ 家族财产：两年前用过同款回收条款，与姐妹带走自己的嫁妆、把钱送往 Trieste 救被儿子辜负的父亲；Bazar 大火中与 Alice 侥幸逃生；据艺术史家与 Goncourt 日记，她曾有过安静的外遇。",
+      "source_lines": "L34,L219,L238"
+    },
+    {
+      "relationship": "Élisabeth ↔ Irène（姐妹，两条平行轨迹）：Élisabeth 选共同财产制嫁 Forceville、婚后两年内欲废婚、1895年6月9日第一个与犹太教决裂；Irène 于1899年7月悄悄随她入天主教。Élisabeth 1894年11月被惊马压伤康复的数月里，“Irène 内心开始起毛边”。",
+      "source_lines": "L34,L37,L174,L177,L180,L287"
+    },
+    {
+      "relationship": "Alice ↔ 两家婚姻：婚礼傧相；1898年11月22岁的 Alice 在 Champs-sur-Marne 嫁37岁的英骑兵团中校 Charles Townshend（有爵位血统、家计困难）；Raoul Montefiore 儿时曾与她玩过“假婚礼”。",
+      "source_lines": "L22,L106,L247,L250,L253"
+    },
+    {
+      "relationship": "Nissim de Camondo（子，1892年生，以亡祖父命名，被寄望接管 Camondo 银行）与 Béatrice（女，正文作1894年生、Erlanger 作1893年）：父母分居后孩子随父、每日探母；离婚时 Béatrice 三岁、Nissim 五岁；Béatrice 六岁受 Boldini 画像。",
+      "source_lines": "L85,L152,L244,L299"
+    },
+    {
+      "relationship": "Charles Sampieri ↔ Irène / Moïse（雇员→情敌）：Moïse 1896年雇来的驯马师兼顾问、Irène 的骑术教练，33岁；下人先看出她的着迷，绰号 le palefrenier；此说法经后代传至档案学者 Sophie Le Tarnec；后代称是一名女仆向 Moïse 告发外遇。",
+      "source_lines": "L189,L195,L201,L204"
+    },
+    {
+      "relationship": "Raoul Montefiore ↔ Irène（表亲、同龄19岁、自称她最亲近的朋友）：对新婚夫妇评价“这桩严肃男人与年轻女孩的结合并不幸福”“有传闻”；他八年后在同一圣堂（rue de la Victoire）结婚；1898年作为旁观者出席 Alice 婚礼。",
+      "source_lines": "L67,L70,L253"
+    },
+    {
+      "relationship": "Isaac de Camondo（Moïse 的表亲兼生意伙伴、印象派藏家）：婚约见证人之一；1897年与 Prince Roland Bonaparte、Greffulhe 伯爵、Edmond de Rothschild 创立 Société des amis du Louvre；终身未婚，但与比利时歌剧演员 Lucy Berthet 育有二子（家族中的外遇先例）。",
+      "source_lines": "L22,L124,L238"
+    },
+    {
+      "relationship": "Nissim de Camondo（Moïse 之父）↔ Louis Cahen d'Anvers：多年在 Café Anglais 靠里右首同一张桌边吃牡蛎边交换八卦与股票建议；那张桌子连同父亲的银行一并由 Moïse 继承，“Camondo 事件”正是在那张桌上开始。",
+      "source_lines": "L40,L43,L46"
+    },
+    {
+      "relationship": "外部攻击者与沙龙舆论：Édouard Drumont 与 La Libre Parole、攻击犬 Raphaël Viau（十二次决斗，获赠两把雕花剑）、Comtesse de Martel“Gyp”（自称职业反犹者）、Constance de Castelbajac、Élisabeth de Gramont（“反犹成了一种时尚”）、Marguerite de Saint-Marceaux（称他们为 vulgar intruders、用“youpin”蔑称）。",
+      "source_lines": "L109,L118,L121,L136,L139,L142,L259,L262,L265,L268,L271,L274,L280"
+    },
+    {
+      "relationship": "记录者与后代口述：descendants（Élisabeth 废婚传闻、告密女仆）、Sophie Le Tarnec（整理并保存 Camondo 档案四十余年）、Philippe Erlanger（Moïse 侄孙，1982年私人未刊访谈）、France Dubonnet（孙辈：“她是个了不起的女人”）、Sonia Cahen d'Anvers（妯娌，回忆 Dreyfus 分裂餐桌与家庭）。",
+      "source_lines": "L37,L106,L152,L201,L238"
+    },
+    {
+      "relationship": "画家链：Renoir（画过 uncle Albert、Irène 肖像与姐妹双人像，1900年在 Galeries Bernheim-Jeune 68幅回顾展上重获赞誉；他有追踪自家画作下落、提醒画商的习惯，包括 rue Bassano 宅）→ Moïse 反制请 Boldini（“Master of Swish”，索价至5万法郎）→ 另有 Whistler、Degas、John Singer Sargent（火灾死者 Vicomtesse de Saint-Périer 即其画中人物）、Jean Béraud（画过 Irène 母亲与法院 veil 女子）。",
+      "source_lines": "L55,L219,L287,L290,L293,L296,L317"
+    }
+  ],
+  "numbers_and_dates_verbatim": [
+    {
+      "value_verbatim": "1891 to 1902",
+      "start": 59,
+      "end": 71,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "on October 8, 1891, the notaries would arrive for the signing",
+      "start": 490,
+      "end": 551,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "more than twenty pages long",
+      "start": 1184,
+      "end": 1211,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "More than 1 million francs, or about $7 million in modern dollars",
+      "start": 1224,
+      "end": 1289,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "150,000 francs more",
+      "start": 1350,
+      "end": 1369,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Article 4",
+      "start": 1875,
+      "end": 1884,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Two years earlier",
+      "start": 2317,
+      "end": 2334,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "within two years of the wedding",
+      "start": 3248,
+      "end": 3279,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Moïse was savoring his lunch in February 1891",
+      "start": 3979,
+      "end": 4024,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a free fall by three points",
+      "start": 4310,
+      "end": 4337,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the sale of one hundred thousand shares in a South American fund",
+      "start": 4479,
+      "end": 4543,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "A month later, the source of the audacious swindle emerged",
+      "start": 4818,
+      "end": 4876,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "30,000 francs, or about $190,000 in today’s dollars",
+      "start": 5241,
+      "end": 5292,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "fresh headlines on October 15, 1891",
+      "start": 5401,
+      "end": 5436,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the twelve tribes of Israel",
+      "start": 6025,
+      "end": 6052,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a business associate, twelve years older",
+      "start": 7183,
+      "end": 7223,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a cluster of ten bridesmaids",
+      "start": 6883,
+      "end": 6911,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the two younger sisters as bridesmaids, the two brothers as groomsmen",
+      "start": 7004,
+      "end": 7073,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Sheva Brachot, the Seven Benedictions",
+      "start": 7575,
+      "end": 7612,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "an antique Coupé Dorsay carriage from 1857",
+      "start": 7987,
+      "end": 8029,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "though he was the same age as Irène, nineteen",
+      "start": 8755,
+      "end": 8800,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "He would not marry himself until eight years later",
+      "start": 8802,
+      "end": 8852,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "said to be worth over five thousand francs",
+      "start": 9099,
+      "end": 9141,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Five percent of the dowry, give or take",
+      "start": 9616,
+      "end": 9655,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "estimating it was worth some 150,000 francs, or more than $700,000 today",
+      "start": 9823,
+      "end": 9895,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "they had rented a furnished mansion on 21 rue de Constantine in the fashionable 7th arrondissement of Paris",
+      "start": 10408,
+      "end": 10515,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "started scouting deals in November 1891",
+      "start": 10677,
+      "end": 10716,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "By February 1892 the reports had shifted",
+      "start": 10941,
+      "end": 10981,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "In 1892, Irène and Moïse’s first son was born",
+      "start": 11166,
+      "end": 11211,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Béatrice, followed two years later in 1894",
+      "start": 11368,
+      "end": 11410,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "his twelve years of hell",
+      "start": 12059,
+      "end": 12083,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Jews had been granted equal rights in 1791",
+      "start": 12469,
+      "end": 12511,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "almost doubled from 1872 to 1891, rising from about twenty-five thousand to more than forty-four thousand",
+      "start": 12763,
+      "end": 12868,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "By the time of the Dreyfus affair in 1894, the numbers had grown to more than seventy-seven thousand out of the thirty-eight million French inhabitants",
+      "start": 12870,
+      "end": 13021,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "he wrote in his 1886 bestseller, La France juive",
+      "start": 16431,
+      "end": 16479,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Drumont’s 1,200-page book, with 150 printings",
+      "start": 16672,
+      "end": 16717,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Isaac joined in 1897 with Prince Roland Bonaparte",
+      "start": 17422,
+      "end": 17471,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "wine costing thirty francs a bottle",
+      "start": 19722,
+      "end": 19757,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Three masts, fifteen men, two cooks, a cabin boy, a butler",
+      "start": 20374,
+      "end": 20432,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a private unpublished interview in 1982",
+      "start": 20926,
+      "end": 20965,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "since Béatrice was born in 1893",
+      "start": 21110,
+      "end": 21141,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the guest of honor in April 1895 for a ball at rue Bassano",
+      "start": 21684,
+      "end": 21742,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "who hosted the king two days later for a dinner",
+      "start": 22056,
+      "end": 22103,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "THAT YEAR, IN JUNE 1895, Irène’s sister Élisabeth became the first in her immediate Cahen d’Anvers family to break with Judaism",
+      "start": 22159,
+      "end": 22286,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "On September 25, 1890, La Cocarde remarked",
+      "start": 22445,
+      "end": 22487,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "his sudden death at the age of fifty-five in 1900 in a speeding motorcar crash",
+      "start": 23057,
+      "end": 23135,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "at his hôtel particulier at 144 Avenue des Champs-Élysées",
+      "start": 23152,
+      "end": 23209,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "she was crushed and breathless under a fallen horse in November 1894",
+      "start": 23580,
+      "end": 23648,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "On June 9, 1895, Élisabeth was baptized at the fashionable church of Saint-Pierre de Chaillot in the 16th arrondissement",
+      "start": 24221,
+      "end": 24341,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "when in October 1896 they celebrated the contract signing",
+      "start": 24430,
+      "end": 24487,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "After the birth in 1894 of her second child, Béatrice",
+      "start": 24910,
+      "end": 24963,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "eleven miles east of Paris",
+      "start": 25467,
+      "end": 25493,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "The estate—175 acres—was restored",
+      "start": 25528,
+      "end": 25561,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "furnished with Louis XV and Louis XVI chairs",
+      "start": 26062,
+      "end": 26106,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "At age twenty-four, she was a woman who understood the uses of performance",
+      "start": 26601,
+      "end": 26675,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "In 1896, somewhere between the opera boxes and the cotillions",
+      "start": 26679,
+      "end": 26740,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "had trusted Charles to build and manage his stables since 1895",
+      "start": 27820,
+      "end": 27882,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Charles, then thirty-three",
+      "start": 28586,
+      "end": 28612,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "He stood just shy of six feet",
+      "start": 28724,
+      "end": 28753,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "archives for over forty years",
+      "start": 29349,
+      "end": 29378,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "On May 4, 1897, a devastating fire engulfed a high-society Catholic charity benefit",
+      "start": 30151,
+      "end": 30234,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the 8th arrondissement",
+      "start": 30303,
+      "end": 30325,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "including a watch that would be stopped forever at 4:30",
+      "start": 30532,
+      "end": 30587,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "More than 125 people perished in the fire",
+      "start": 31392,
+      "end": 31433,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "23 rue Jean-Goujon",
+      "start": 32337,
+      "end": 32355,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "In August 1897, Paris was listening",
+      "start": 33834,
+      "end": 33869,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Four women, underpaid telephone operators",
+      "start": 33871,
+      "end": 33912,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "the fierce temperatures of 107 degrees in the city",
+      "start": 35315,
+      "end": 35365,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "For six years she had been Moïse de Camondo’s wife",
+      "start": 35453,
+      "end": 35503,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "after she left on September 28, 1897",
+      "start": 36035,
+      "end": 36071,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "her own apartment at 3 Avenue Bugeaud, about a fifteen-minute walk to Moïse’s rented mansion on Avenue d’Iéna in the 16th arrondissement",
+      "start": 36185,
+      "end": 36321,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Béatrice was three. Nissim, five.",
+      "start": 36325,
+      "end": 36358,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "In February 1898, he squandered 8,000 francs—about $50,000 in modern dollars",
+      "start": 36444,
+      "end": 36520,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Moïse owned the painting for only sixteen weeks",
+      "start": 36847,
+      "end": 36894,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "By November 1898",
+      "start": 37132,
+      "end": 37148,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Alice, now twenty-two, to Charles Townshend, thirty-seven",
+      "start": 37352,
+      "end": 37409,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "More than 120 guests arrived in a private train from Paris and then transferred into thirty carriages",
+      "start": 37526,
+      "end": 37627,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "A July 1898 headline",
+      "start": 39701,
+      "end": 39721,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "in honor of his twelfth duel",
+      "start": 40402,
+      "end": 40430,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "in March 1897, Viau had strolled from the Chelles train station, paying five centimes",
+      "start": 41362,
+      "end": 41447,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "BY 1899, IRÈNE HAD followed her sister Élisabeth in converting to Catholicism",
+      "start": 43162,
+      "end": 43239,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "without public notice in July 1899, a fact documented only later in Vichy records",
+      "start": 43269,
+      "end": 43350,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "By 1900, the troubled marriage of Irène and Moïse was sputtering toward its end",
+      "start": 43352,
+      "end": 43431,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a retrospective exhibition of sixty-eight of Renoir’s paintings",
+      "start": 43570,
+      "end": 43633,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "8 rue Lafitte",
+      "start": 43675,
+      "end": 43688,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "a four-minute walk from Moïse’s offices at 31 rue La Fayette",
+      "start": 43804,
+      "end": 43864,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Every eight or ten years",
+      "start": 44038,
+      "end": 44062,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "He charged up to 50,000 francs—which was a small fortune, something like $450,000 in modern dollars",
+      "start": 45226,
+      "end": 45325,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "his daughter, Béatrice, six years old",
+      "start": 45389,
+      "end": 45426,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "In April 1901, Moïse lobbied to get the portrait shown at the Petit Palais",
+      "start": 45885,
+      "end": 45959,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "I posed two or three times in his studio",
+      "start": 46599,
+      "end": 46639,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "reproduced in full color in the June issue of Le Figaro Illustré",
+      "start": 46821,
+      "end": 46885,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "By July 1901 the exhibition was over. By January 1902, the marriage was too",
+      "start": 47102,
+      "end": 47177,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "Six months later she reclaimed her dowry",
+      "start": 47393,
+      "end": 47433,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "With divorce newly legalized in 1884",
+      "start": 47677,
+      "end": 47713,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "He completed the work in 1887",
+      "start": 48197,
+      "end": 48226,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "to adultery, excessive cruelty, and grave insults",
+      "start": 48328,
+      "end": 48377,
+      "occurrences_in_source": 1
+    },
+    {
+      "value_verbatim": "“4000 par mois,” monthly alimony payments equivalent to about $35,000 in modern dollars",
+      "start": 48575,
+      "end": 48662,
+      "occurrences_in_source": 1
+    }
+  ],
+  "notes_additional_facts": [
+    {
+      "fact": "Élisabeth 的另一项决定性选择：嫁给 Jean de Forceville 时选了共同财产制（assets、liabilities、consequences 全部合并），剥去了自己的财务独立；因此在传闻丈夫好色、她于婚后两年内 sought to annul her marriage 时变得毫无防护。",
+      "start": 43162,
+      "end": 43351,
+      "quote": "BY 1899, IRÈNE HAD followed her sister Élisabeth in converting to Catholicism. She was discreetly baptized without public notice in July 1899, a fact documented only later in Vichy records.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "外遇如何败露（说法并列）：仆人们在私下议论；后代中有人说是女仆向 Moïse 告密（据 Le Tarnec），但后来报纸与一本“臭名昭著的反犹书籍”还给出了别的版本。",
+      "quote": "Some descendants later said it was a maid who tipped off Moïse about an affair, according to Le Tarnec.",
+      "start": 29750,
+      "end": 29853,
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "Sampieri 的形象与魅力（Irène 着迷的原文依据）：33岁、苍白发亮的皮肤、卓别林式小胡子、身高接近六英尺、深色骑装如铠甲、圆顶帽与擦亮的长靴、眼神平静，在 Deauville 马球赛与 Bois de Boulogne 骑马队伍中无法被忽视；Moïse 则戴标志性黑色单片眼镜遮住盲眼，也参加过同样的鸽赛。",
+      "quote": "Charles, then thirty-three, was irresistibly handsome, with pale, luminous skin and a toothbrush mustache reminiscent of Charlie Chaplin.",
+      "start": 28586,
+      "end": 28723,
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "业务联姻紧随婚礼：1891年11月起 Moïse 与岳父 Louis 一起物色交易、“以资本联结血脉”；财经版先猜两人组成辛迪加稳定西班牙银行，到1892年2月报道转为两人正在包销私人法国银行 Banque Nationale。",
+      "start": 10638,
+      "end": 10750,
+      "quote": "Moïse de Camondo and his father-in-law started scouting deals in November 1891, sealing bloodlines with capital.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1894年（Béatrice 出生之年）的黑暗事件：秋天 Dreyfus 案因一名法国女仆（实为陆军情报人员）从德国驻巴黎使馆纸篓里捡出被撕碎的手写 bordereau 而爆发；Alfred Dreyfus 被以通敌与间谍罪朗读指控信，开启“十二年的地狱”，激辩反犹、共和国价值与犹太人的忠诚。",
+      "start": 11562,
+      "end": 11717,
+      "quote": "In the autumn the Dreyfus affair started with a French maid’s discovery of a shredded handwritten note, forever referred to as the bordereau, or inventory.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "反犹报刊的实地攻击：La Libre Parole（Drumont 的报纸，被史家称为法国反犹最有效的扩音器）连数月调查 Cahen d'Anvers 家的宗教忠诚；1898年7月一条标题把 Louis 称为 chauve-souris juive（“蝙蝠犹”）；Raphaël Viau 像“晚近的宗教裁判官”一样在城堡与邻村侦察。",
+      "start": 39701,
+      "end": 39893,
+      "quote": "A July 1898 headline called Louis Cahen d’Anvers a chauve-souris juive, a bat Jew, flitting between two worlds, mingling with Catholic bishops and aristocrats by day, but truly a Jew at night.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "Viau 的渗透细节：1897年3月他从 Chelles 火车站步行，花5生丁过 Marne 河桥进入 Champs-sur-Marne 园区，躲开家里的挪威猎鹿犬，说服一名工人让他进入正在翻修、有数十名工匠的宅子；后来以“Les châteaux d’Israël”为题发表，写道“想到一个希伯来人及其肮脏同类将独享在此漫步的权利，实在令人哀叹”。",
+      "start": 41326,
+      "end": 41546,
+      "quote": "On one of his spying trips earlier, in March 1897, Viau had strolled from the Chelles train station, paying five centimes to cross a bridge over the river Marne that led to the grounds of the Château de Champs-sur-Marne.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "婚姻不满的证人证词：Moïse 的侄孙 Philippe Erlanger 在1982年一次私人、未刊访谈中说“她跟他非常无聊，他很自私、很东方”，并称 Camondo 家对妻子的态度与更巴黎化的 Cahen d'Anvers 家完全不同、Moïse 成年后与亲生子女也难相处；一些历史学家形容这位银行家隐秘克制——Irène 是“嫁进了沉默”。",
+      "start": 20820,
+      "end": 20966,
+      "quote": "Philippe Erlanger, Moïse’s grandnephew, knew the family stories on the Camondo side and recounted them in a private unpublished interview in 1982.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1900年 Moïse 请 Boldini 为 Béatrice 画像作为对 Renoir 肖像的“反制像”，他在给 Boldini 的信中称完成品为“our opera”，并要博物馆的墙面为其加冕：1901年4月 Petit Palais 儿童肖像展上画作被柱子遮挡、被花瓶投进阴影，Moïse 怒而游说 Boldini 与藏家 Duchesse de Gramont 出面移位，最终该画在《Le Figaro Illustré》6月号全彩刊出。",
+      "start": 45639,
+      "end": 45882,
+      "quote": "In his letters to Boldini, Moïse called the finished portrait “our opera.” He congratulated the artist’s patience with Béatrice. The result in pastel and tempera moved him. But he also wanted its consecration. He demanded the wall of a museum.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "1898年2月 Moïse 的转向：他花8000法郎（约今5万美元）买 Boilly 的《A Girl at a Window》——画中少女倚窗、眼神戒备、手持望远镜，旁边鱼缸里两条金鱼“提醒美既脆弱又被困”；他只拥有十六周，认出“自己留不住它”，便用这个女孩换了一具橡木镀金铜漆面五斗橱——从此开始收集18世纪家具的新执念。",
+      "start": 36444,
+      "end": 36582,
+      "quote": "In February 1898, he squandered 8,000 francs—about $50,000 in modern dollars—on a nineteenth-century oil painting by Louis-Léopold Boilly.",
+      "occurrences_in_source": 1
+    },
+    {
+      "fact": "原文内部矛盾/讹误（素读原样记录，不改）：①正文称 Nissim 生于1892、Béatrice“两年后1894年”，而 Erlanger 称“Béatrice was born in 1893”；②签署段把 Moïse 拼成“Möise”，婚礼段又作“Mode de Style”（疑为刊名讹字）、“what Mode de Style called”；③住处门牌前后不一：蜜月后租住 21 rue de Constantine（7区），分居时段写 Moïse 的租宅在 Avenue d’Iéna（16区）；④“107 degrees”未标华氏/摄氏；⑤Bazar 段把街道写作“rue Jean-Goujon”，与后文 memorial chapel 的“23 rue Jean-Goujon”一致。",
+      "start": 11166,
+      "end": 11411,
+      "quote": "In 1892, Irène and Moïse’s first son was born, named Nissim for his late grandfather, a Hebrew word for “miracle,” a new generation destined, they expected, to run the Camondo bank. Their second child, Béatrice, followed two years later in 1894.",
+      "occurrences_in_source": 1
+    }
+  ]
+}

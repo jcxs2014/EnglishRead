@@ -9,7 +9,7 @@ modified: "2026-11-09"
 
 - **出处**：Doreen Carvajal, *The Girl in Blue*（Grand Central Publishing, 2026），第 5 章 "Begin Again"，属 Part One "Le Beau Monde"（末章）
 - **作者**：Doreen Carvajal，记者、作家，二十余年欧洲文化报道
-- **章节定位**：Part One 收束章，1903–1936；Irène 再婚与抚养权战、Moïse 的收藏补偿、一战与 Nissim 之死、战间期衰落、城堡捐赠与博物馆遗赠——"美好世界"的终结
+- **章节定位**：Part One 收束章，1903–1936；Irène 再婚与抚养权战、Moïse 的收藏补偿、一战与 Nissim 之死、战间期衰落、城堡捐赠与博物馆遗赠——"美好世界"的终结；并记婚礼前夕 Albert 骤逝、婚丧数日重叠
 - **字符数**：35,540（text/ 提取件）
 - **一句话主旨**：Part One 以"重新开始"为题却以背叛终——Irène 再婚、离婚、做护士、失去儿子；Moïse 用收藏和博物馆遗赠控制身后；家族把城堡捐给国家以示忠诚，而那个国家即将禁止他们踏入
 
@@ -171,6 +171,7 @@ modified: "2026-11-09"
 |---|---|---|
 | custody | n. 抚养权、监护 | Moïse and Irène traded custody of Nissim and Béatrice. |
 | commode | n. 五斗柜 | He bought a Garnier commode in 1898 and searched for its mate for thirty-eight years. |
+| 1903-02-27 叔叔 Albert 在小手术后骤逝于 Cap d'Ail（57 岁），婚礼前几天；婚后一天家人在 118 rue de Grenelle 为他举丧，法国首席拉比主持、Louis 主待 | 案例 | 婚与丧数日重叠——当年在 Moïse 婚礼上挽她走红毯的人，没等到她再婚；"旧故事结束与新故事不安开始"同帧 |
 | heiress | n. 女继承人 | the matchmaking had resumed for her daughter, Béatrice, whom the French weekly Aux Écoutes described as the “richest heiress in France.” |
 
 ## 一句话总结
