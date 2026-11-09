@@ -1,0 +1,49 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch07",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch07_chapter_seven_the_nova.txt",
+ "facts": [
+  {
+   "fact": "凌晨两点三十五分，她在停尸房辨认 Dorian。",
+   "anchor": "Two thirty-five in the morning",
+   "start": 37,
+   "end": 67
+  },
+  {
+   "fact": "她拒认尸体，因为一说「是」他们就会把他带走。",
+   "anchor": "If I say yes, you’ll take him from me",
+   "start": 636,
+   "end": 673
+  },
+  {
+   "fact": "警方说事故起因是一个女人跑进马路，仍在找嫌疑人。",
+   "anchor": "A woman ran into the road",
+   "start": 1097,
+   "end": 1122
+  },
+  {
+   "fact": "Dorian 脸上有深伤，一只眼被撞没了。",
+   "anchor": "The carnage had taken one eye",
+   "start": 1949,
+   "end": 1978
+  },
+  {
+   "fact": "Maxim 赶来，斥责警方让她独自面对。",
+   "anchor": "Why would you show her alone?",
+   "start": 2038,
+   "end": 2067
+  },
+  {
+   "fact": "Maxim 确认身份，并要求不要做防腐处理。",
+   "anchor": "Do not embalm him",
+   "start": 2794,
+   "end": 2811
+  },
+  {
+   "fact": "结尾：Dorian 活在她体内，作为愧疚。",
+   "anchor": "as guilt",
+   "start": 3336,
+   "end": 3344
+  }
+ ]
+}
