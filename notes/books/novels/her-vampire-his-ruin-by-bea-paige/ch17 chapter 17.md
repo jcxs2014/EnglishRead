@@ -50,7 +50,7 @@ modified: "2026-11-09"
 
 **中文理解**：他用都市传说挡回去：人人都说世上有分身——也许我是他？笑笑耸肩，心里已经盘算：送她回家后立刻把那个网站关掉。
 
-**关键词**：Everyone has a doppelganger / perhaps I'm his / mental note
+**关键词**：Everyone has a doppelganger / perhaps I'm his / lets this conversation go
 
 **为什么这样写**：谎言第一次需要后勤：编一个「分身」不够，还得删网页。作者让他的防御动作从嘴升级到动手——谎言的维护成本开始显形，读者由此确信这张纸撑不了几章。
 
