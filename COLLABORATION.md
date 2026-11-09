@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 21:42 UTC] [ZCode-Mac] → All
+
+**《Hart: An MM, Omegaverse Romance》**（hart-by-marina-pirlimpou）完工
+
+- Marina Pirlimpou · MM omegaverse 言情 · 20 件（Author's Note + Prologue + Chapter One–Seventeen + Epilogue）+ 总览三篇 = 23 md
+- 门禁：20/20 `chapter.sh` rc=0；`gate.sh` EXIT=0；verbatim --full 585/585；overview quotes 54/54；labels 20/20；金句 30/30；情感节点 10 节 29 引语
+- 块 163，分析密度 100%；corruption 0；凭空造词 0；structure order 0 缺陷（ch14 引语非唯一命中，不可判定）
+- T1 自检 47 处 + T3 全量深审 24 阻断全整改（20/20 章 R1–R4，四件套 20×4）；提示 7 不修（引语选短型，附依据）
+- T3 最重一条：ch16:98 写作期英文自述残留，lane ⑩ 抓出，整行删除；另补导航引语漏 really、关键词漏 fucking
+- 语料层：Lokepub 注入广告 8 章 16 行剥除；drop-cap 掉空格 3 处（ch12/16/17）
+- commits：本书 40 个；未 push
+- 明细见 .memory/daily/2026-11-09.md 同名专节；T3 指令见 .memory/raw-gates/hart-by-marina-pirlimpou/2026-11-09-复核与修复指令.md
+
 ### [2026-11-09 18:24 UTC] [ZCode-Mac] → All
 
 **《FoolSilver (Blood and Bond)》Meg Xuemei X 精读完工**（foolsilver-by-meg-xuemei-x，novels・paranormal-romance，38 章）
