@@ -1,0 +1,37 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch10",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch10_julianne_tell_s_all.txt",
+ "facts": [
+  {
+   "fact": "头条：Skillett 的 Favorite 女儿回来了——Ashton Tanner 全镇目击中。",
+   "anchor": "Skillett’s favorite daughter is back!",
+   "start": 39,
+   "end": 76
+  },
+  {
+   "fact": "八卦核心：她与 Farrow County 两大黄金单身汉 Jody Fisher 和 Brooks Hart 共进午餐——全镇都看见了两人的份。",
+   "anchor": "Miss Ashton Tanner has been spotted out and about in town, enjoying lunch with Farrow County’s two most eligible bachelors, Jody Fisher and Brooks Hart.",
+   "start": 77,
+   "end": 229
+  },
+  {
+   "fact": "Julianne 的调侃式欢迎：给其他女人留点男人吧，Ashton——欢迎回家！",
+   "anchor": "Save some man for the rest of us, Ashton—and welcome home!",
+   "start": 230,
+   "end": 288
+  },
+  {
+   "fact": "第二条：Talia 的服装店清仓——季末大促本周开始，月底结束。",
+   "anchor": "Also in Skillett, Talia is clearing out!",
+   "start": 291,
+   "end": 331
+  },
+  {
+   "fact": "看中哪条美裙就赶紧去 Skillett——手慢无（为 Taylor Swift 演唱会购裙铺货）。",
+   "anchor": "if you’ve had your eye on one of those gorgeous dresses, get yourself over to Skillett before they’re gone!",
+   "start": 420,
+   "end": 527
+  }
+ ]
+}
