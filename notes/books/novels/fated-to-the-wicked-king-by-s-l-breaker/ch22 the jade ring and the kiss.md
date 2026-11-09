@@ -10,7 +10,8 @@ modified: "2026-11-08"
 - **情感弧线位置**：一章走完「质问→拆穿→决堤→按回」：开场她还攥着满腔怨气（maniacal tyrant），中段认出他藏的不是冷酷而是怕失去她，摘戒后积压数月的感情双向决堤，章末又随戒指扣回一起被按回原位——大起大落，收在悬置。
 - **Tropes 兑现/反转**：兑现「面冷心热的 tyrant」——冷傲皮囊下压着自白与 "You’re still mine."；兑现禁忌之恋的拉扯——理智明说 "We couldn’t really be together."、"taste of the forbidden only to have it taken away later"，吻还是发生了；反转「拒绝换心」的读法——他不肯换回，不是怯懦自保，而是 "A stolen heart removed twice will likely kill its vessel."。
 - **人物弧线**：国王在一章内两落两起：expression remained neutral → 低声自白 → Unshielded, almost reverent → cool arrogance，甲胄卸了又穿；Allie 从骂自己 gullible，到承认 "I never ever once stopped being his."，再到捂住嘴不敢看他——嘴硬节节败退。
-- **叙事手法**：戒指被写成一道可开关的阀门——离指则暖流灌顶，扣回则应声切断，情节节奏跟着这个物理动作走；决堤全用洪象（floodgates / devastating flood / breached dam），与对话里自陈的 maelstrom、flood 同一水系；单句成段（He still loves me. / It was one kiss.）当钉子用，一句钉一个结论。
+- **补充（配对的另一半）**：他抬手先碰到的是她发间那枚祖母绿发簪——“I wasn’t certain you would keep wearing this. It suits you well.”；随后才说出 a matching pair：玉戒与发簪是一对，一个挡住他的感受，一个挡住她的。
+- **叙事手法**- **叙事手法**：戒指被写成一道可开关的阀门——离指则暖流灌顶，扣回则应声切断，情节节奏跟着这个物理动作走；决堤全用洪象（floodgates / devastating flood / breached dam），与对话里自陈的 maelstrom、flood 同一水系；单句成段（He still loves me. / It was one kiss.）当钉子用，一句钉一个结论。
 
 ## 精读
 

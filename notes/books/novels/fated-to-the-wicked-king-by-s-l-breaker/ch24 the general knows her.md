@@ -10,7 +10,8 @@ modified: "2026-11-08"
 - **情感弧线位置**：本章把她的身世谜面推到台前：她一直怕「过去的自己天生邪恶」（inherently wicked），这份恐惧被人当众叫出了名字；国王从自称最强的 sorcerer assassin 到变成白兔只隔一掌；章末她以 No chance in hell 回绝他「快逃、丢下我」的命令——恐惧与不肯丢下他同时到顶。
 - **Tropes 兑现/反转**：兑现「失忆者遇故人」——General 熟稔得反常（I would never forget a face / there hasn’t been a single day these past months），还替她点破失忆（Have you lost your memories or something?）；反转在 Hatter：她盘算他一回来就能毁掉机器、唤醒村民的意识，将军一句「招待客人」却把这场归来翻成陷阱收口。
 - **人物弧线**：她的过去在这一章有了名词——Dr. Carter、scientist、曾为 General 效力——她却宁愿当它是认错了人；国王的线是行动压倒疑问：不在乎这人是谁、这一切意味着什么，只认定「malady 元凶＋对她的威胁」这一句判断就出手。
-- **叙事手法**：单句成段被用作重音——Doctor who? / We? / My machine. / Mine. 一个信息占一段，模拟人被逐词击中时的停顿；General 登场只给外貌特写（thickset、swollen vein、acne scars），来历与关系一概悬置；反转靠一个小词埋雷——curled up instead 的 instead 宣告她预期的反应落空。
+- **补充（他的出场）**：Hatter 撑着一把过大的黑伞从古树洞里走出来，收伞时一句 “It’s raining in the underworld.”——这句话既是他身份的招牌，也是预告：他早已和 General 站在一边。
+- **叙事手法**- **叙事手法**：单句成段被用作重音——Doctor who? / We? / My machine. / Mine. 一个信息占一段，模拟人被逐词击中时的停顿；General 登场只给外貌特写（thickset、swollen vein、acne scars），来历与关系一概悬置；反转靠一个小词埋雷——curled up instead 的 instead 宣告她预期的反应落空。
 
 ## 精读
 
