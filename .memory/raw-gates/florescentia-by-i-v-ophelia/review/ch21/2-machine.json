@@ -1,0 +1,465 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch21 the demonstration.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch21_chapter_twenty_one_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was like a water leak at first, then it turned pitch black. It spread across the painted fresco, becoming a starry ex",
+          "ok": true,
+          "pos": 653
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Another shadow crawled along the top of the bookshelf, a vague human form above Calum, claws drawn. It stilled, but it w",
+          "ok": true,
+          "pos": 1636
+        },
+        {
+          "text": "Was it bluffing",
+          "ok": true,
+          "pos": 1790
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Actually,” I said quickly, hurrying to the nearest book within reach, “never mind. I will just take this.”",
+          "ok": true,
+          "pos": 1834
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It was no coincidence that the only color left was from the indigo blooms with white spots along the petals",
+          "ok": true,
+          "pos": 2791
+        },
+        {
+          "text": "I felt like some painting from the Middle Ages, a princess in the tower, luring the dragon of my own making",
+          "ok": true,
+          "pos": 3910
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It was larger and less practical than my smaller pinhole cameras, but it was my only camera that used pneuma-types",
+          "ok": true,
+          "pos": 4450
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Have I piqued your curiosity",
+          "ok": true,
+          "pos": 6321
+        },
+        {
+          "text": "He was here. He just wasn’t ready to be known",
+          "ok": true,
+          "pos": 7223
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The stool flew over my head and hit the shutters of the window, landing on top of my workbench",
+          "ok": true,
+          "pos": 9099
+        },
+        {
+          "text": "A temper, I could work with. An ego, I could bend",
+          "ok": true,
+          "pos": 9344
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Then with one yank, it was on the floor",
+          "ok": true,
+          "pos": 10477
+        },
+        {
+          "text": "“You’re not subtle,” a deep voice said in my ear",
+          "ok": true,
+          "pos": 10889
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“The faintest caress from the likes of me could grant you immense luck, riches, your heart’s desires.”",
+          "ok": true,
+          "pos": 12631
+        },
+        {
+          "text": "“But no matter how lucky you are—you would never be able to stop me from consuming you entirely.”",
+          "ok": true,
+          "pos": 13401
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Feelings of emptiness filled the cavern of my body, a weight like lead encapsulating every organ—and the sickening flash",
+          "ok": true,
+          "pos": 13650
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Receptive,” he repeated sourly, “but can you be disciplined?”",
+          "ok": true,
+          "pos": 14821
+        },
+        {
+          "text": "“One elevated heartbeat, and I may eat you right here.”",
+          "ok": true,
+          "pos": 15778
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“And yet it is significant enough to irritate oysters into making pearls,” I said, swallowing, “or annoy much larger cre",
+          "ok": true,
+          "pos": 16856
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "The last thing I saw were those glowing eyes in a sea of stars, then a gentle caress of darkness",
+          "ok": true,
+          "pos": 19083
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "关键词": 0,
+        "中文理解": 16,
+        "为什么这样写": 35,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "关键词": 0.0,
+        "中文理解": 0.76,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter Twenty-One: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3530,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

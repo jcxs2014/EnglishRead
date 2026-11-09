@@ -1,0 +1,53 @@
+{
+  "chapter": "ch20",
+  "facts": [
+    {
+      "fact": "婆婆（Dorian 之母）一行向身为 Dorian 遗嘱执行人的叙述者开口要钱，要付 Clara 的 finishing school 学费与葬礼开销。",
+      "start": 1174,
+      "end": 1259,
+      "quote": "as the executor of his will, if you would send us some support in these trying times?"
+    },
+    {
+      "fact": "叙述者顶了回去：葬礼钱她已付过，并反问婆婆从其继承的 tenement 收的房租去了哪里。",
+      "start": 1325,
+      "end": 1350,
+      "quote": "“I paid for the funeral.”"
+    },
+    {
+      "fact": "墓碑刻着 Dorian Christopher Fairfax，生卒年 1845–1875。",
+      "start": 3486,
+      "end": 3524,
+      "quote": "Dorian Christopher Fairfax\n\n\n1845–1875"
+    },
+    {
+      "fact": "紧挨其名的同一双层墓位（double-depth plot）另一侧刻着叙述者本人的名字 Lucia Nina Collesano-Fairfax，卒年空缺（1845–）——她是 Dorian 的遗孀。",
+      "start": 3527,
+      "end": 3607,
+      "quote": "Beside his name on the double-depth plot:\n\n\nLucia Nina Collesano-Fairfax\n\n\n1845–"
+    },
+    {
+      "fact": "叙述者知道这座坟是空的（Dorian 的遗体并不在墓中），为此笑了一下。",
+      "start": 3104,
+      "end": 3169,
+      "quote": "Knowing the grave was empty made me smile, but only for a minute."
+    },
+    {
+      "fact": "额上有星形印记、长着苍白眼眸的男子 Altair 在墓前现身；叙述者认出他不是自己的兄弟，长相却酷似 Dorian。",
+      "start": 3848,
+      "end": 3909,
+      "quote": "Then there he was, a star-shaped mark and striking pale eyes."
+    },
+    {
+      "fact": "为避开「与非亲男子独处」的流言，叙述者向婆婆 Mrs. Fairfax 介绍 Altair 是自己的表亲（cousin），并拖着他快步脱身。",
+      "start": 4603,
+      "end": 4637,
+      "quote": "“Mrs. Fairfax, this is my cousin.”"
+    },
+    {
+      "fact": "叙述者抽出弹簧刀抵住 Altair 的大腿，点明那是股动脉、威胁让他当场流血至死。",
+      "start": 12209,
+      "end": 12283,
+      "quote": "I held it against his thigh. “That is your femoral artery,” I interrupted."
+    }
+  ]
+}
