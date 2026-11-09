@@ -1,0 +1,414 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch22 nineteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch22_19_ashton.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I was convinced at twelve, but now I've had a taste, I know it. Brooks Hart might not be the settling down type, but he'",
+          "ok": true,
+          "pos": 746
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I wake up to a sharp pain reverberating through my skull. Just the effort of opening my eyes hurts like hell, and I squi",
+          "ok": true,
+          "pos": 1176
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She never locks her fucking door.” Brooks’s familiar grumble travels through the cabin, followed by a thud",
+          "ok": true,
+          "pos": 2319
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I have a momentary panic—one that sends my pounding head spinning and has me swallowing hard against threatening bile—th",
+          "ok": true,
+          "pos": 4586
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"C'mon, little devil.\" I'm in Brooks's arms. The place I'm pretty sure I spent a good portion of yesterday evening. The ",
+          "ok": true,
+          "pos": 3607
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I've lived with migraines since my teens. They usually show up without fail right after my period starts, and then at ra",
+          "ok": true,
+          "pos": 5506
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"Brooks called her when we left earlier. Think he bribed her with something for it. He was really shook up seeing you si",
+          "ok": true,
+          "pos": 11822
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He could've let Everett take care of me. Ev would've gone into town, or Ruth would've made something, but Brooks took ch",
+          "ok": true,
+          "pos": 12172
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "We got over our little spat and went back to being Ashton and Brooks. Devil and demon. He went back to being my best fri",
+          "ok": true,
+          "pos": 12757
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Not right away, but",
+          "ok": true,
+          "pos": 14156
+        },
+        {
+          "text": "yeah, I think so. We talked about me flyin’ out after Christmas, before her birthday. Stay in London a few months. Come ",
+          "ok": true,
+          "pos": 14177
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Never thought I’d love anything enough to leave the ranch behind",
+          "ok": true,
+          "pos": 14371
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I’m proud of you, you know?” I drop my spoon in the bowl and reach over to nudge Everett’s arm with a loose fist. “Happy",
+          "ok": true,
+          "pos": 14436
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.66
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2821,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句1",
+        "kw": "the only one I want to settle down with",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

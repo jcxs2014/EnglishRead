@@ -1,0 +1,56 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch20",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch20_18_brooks.txt",
+ "facts": [
+  {
+   "fact": "四岁的 Everett 郑重要求 Brooks 和 Jody 帮他保护刚出生的妹妹。",
+   "anchor": "“You gotta look after her,” he said to us with all the solemnness a four-year-old could muster. “You gotta help me keep her safe.”",
+   "start": 915,
+   "end": 1045
+  },
+  {
+   "fact": "Tanner 太太把出生两天的 Ashton 放上 Everett 的腿。",
+   "anchor": "Mama Tanner laid two-day-old Ashton across Everett’s lap, and his eyes grew dinnerplate-wide as he looked at both of us.",
+   "start": 792,
+   "end": 912
+  },
+  {
+   "fact": "他回忆酒后初吻有苹果派与篝火烟味，并为此自责。",
+   "anchor": "I remember she tasted like apple pie and bonfire smoke, and that I hated myself afterward for letting that alcohol-fuelled sloppy mess be our first kiss",
+   "start": 1207,
+   "end": 1359
+  },
+  {
+   "fact": "他意识到 Ashton 是他一生唯一真正想要的女人。",
+   "anchor": "When it’s the one woman you’ve wanted for your whole entire life, it’s something else. Everything is heightened.",
+   "start": 2063,
+   "end": 2175
+  },
+  {
+   "fact": "她起身收拾衣物，约好别尴尬、明天见。",
+   "anchor": "“Let’s not let this be weird, okay? You and me? See you tomorrow?”",
+   "start": 6032,
+   "end": 6098
+  },
+  {
+   "fact": "他明知该放手却不舍，最终目送她走并道别。",
+   "anchor": "I know she’s about to walk away, and I know I have to let her. But my god, I don’t want to.",
+   "start": 6397,
+   "end": 6488
+  }
+ ],
+ "relations": [
+  "她是挚友 Everett 的妹妹，他四岁起发誓绝不伤她",
+  "Jody 与他分坐 Everett 两旁",
+  "他一直暗暗钦佩她的速度与胆识"
+ ],
+ "numbers": [
+  "two-day-old",
+  "four-year-old",
+  "五岁第一次让他刮目相看",
+  "twenty-seven years 第一次想留人"
+ ],
+ "verified": "6/6 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

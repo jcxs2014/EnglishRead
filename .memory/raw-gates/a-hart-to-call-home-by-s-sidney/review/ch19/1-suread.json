@@ -1,0 +1,85 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch19",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch19_17_ashton.txt",
+ "facts": [
+  {
+   "fact": "Ruth 发现曲奇上画着她专属的袋鼠 emoji，含泪说在这里没人叫她 Roo。",
+   "anchor": "You made a cookie with my roo on it,” she says.",
+   "start": 2698,
+   "end": 2745
+  },
+  {
+   "fact": "Ev 夸她的曲奇又脆又融又软同时成立——像魔法。",
+   "anchor": "I don’t know how you make them crunchy and melty and soft all at the same time. It’s like magic.",
+   "start": 3110,
+   "end": 3206
+  },
+  {
+   "fact": "他开门快得像一直站在门后等她——她忍不住希望他真的在等。",
+   "anchor": "He opens it almost immediately, like he was standing right on the other side, waiting for me.",
+   "start": 5540,
+   "end": 5633
+  },
+  {
+   "fact": "他接过曲奇全程不撤视线，说出三个词：进来。",
+   "anchor": "Get in here.",
+   "start": 6031,
+   "end": 6043
+  },
+  {
+   "fact": "他的唇碰上她的那一刻像归乡。",
+   "anchor": "The moment his lips touch mine is like a homecoming.",
+   "start": 6164,
+   "end": 6216
+  },
+  {
+   "fact": "他哑着嗓子让她叫停：别让我走太远。",
+   "anchor": "“Don’t let me take this too far, Ash,” he mumbles, voice strained.",
+   "start": 7041,
+   "end": 7107
+  },
+  {
+   "fact": "一起长大的男孩已经变成让她坠得更急更深的男人。",
+   "anchor": "But the boy I grew up with has become a man.",
+   "start": 10234,
+   "end": 10278
+  },
+  {
+   "fact": "他说把你弄乱了 devil；她答你一直都这样 demon。",
+   "anchor": "“I’ve made a mess of you, devil.”",
+   "start": 12638,
+   "end": 12671
+  },
+  {
+   "fact": "收尾警句：场面有伤风化但她想要更多——那是危险的位置。",
+   "anchor": "I want, and that’s a dangerous place to be.",
+   "start": 14072,
+   "end": 14115
+  },
+  {
+   "fact": "挂电话后她打算装几块布朗尼隔夜快递、这次锁门。",
+   "anchor": "hanging the key back on its hook and closing the door behind me",
+   "start": 4832,
+   "end": 4895
+  },
+  {
+   "fact": "他先说不介意，一声迟疑的叹息后改口「我介意」。",
+   "anchor": "“I don’t care if you don’t.”",
+   "start": 8821,
+   "end": 8849
+  }
+ ],
+ "relations": [
+  "Roo 是伦敦闺蜜对 Ruth 的旧昵称",
+  "两人互称 devil/demon",
+  "她的初吻是多年前派对上喝多的 Brooks"
+ ],
+ "numbers": [
+  "最带电的三个词（Get in here）",
+  "mess 双关二十年",
+  "一夜情预算被 I care 击穿"
+ ],
+ "verified": "11/11 anchors hit",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch22",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch22_19_ashton.txt",
+ "facts": [
+  {
+   "fact": "她回小屋放薰衣草香草浴片冲澡。",
+   "anchor": "I head straight for my bathroom, toss a lavender-vanilla shower steamer into the shower pan, and turn on the water.",
+   "start": 937,
+   "end": 1052
+  },
+  {
+   "fact": "偏头痛发作恶心，赶在最后一刻冲进浴室吐完。",
+   "anchor": "I make it just in time to empty the contents of my stomach, before sitting back against the shower door.",
+   "start": 1846,
+   "end": 1950
+  },
+  {
+   "fact": "Everett 发现她的靴子还在屋里、她从不错过牧场活计，担心进屋。",
+   "anchor": "“Well, her boots are still here. She’s never late for ranch work,” Everett states. He sounds concerned.",
+   "start": 2488,
+   "end": 2591
+  },
+  {
+   "fact": "Brooks 把被单拉到她胸口，Everett 把冷毛巾敷上她疼痛的眼睛。",
+   "anchor": "Brooks pulls the sheet to my chest and Everett places the cold washcloth on my head, unrolling it just enough to cover my aching eyes.",
+   "start": 4524,
+   "end": 4658
+  },
+  {
+   "fact": "Everett 把两粒药片按进她颤抖的手心，她就水吞下。",
+   "anchor": "My brother presses two round pills into my other trembling hand and I toss them both into my mouth with a gulp of water",
+   "start": 7089,
+   "end": 7208
+  },
+  {
+   "fact": "再醒来已是傍晚五点以后，睡了一整天。",
+   "anchor": "It’s after five in the evening already. I’ve slept the entire day away.",
+   "start": 8409,
+   "end": 8480
+  },
+  {
+   "fact": "Everett 转述：Brooks 一离开就打电话给 Harriet 许好处请她做汤，见她病倒大受震动。",
+   "anchor": "“Brooks called her when we left earlier. Think he bribed her with something for it. He was really shook up seeing you sick, Ashey. You guys are okay now, right?”",
+   "start": 12084,
+   "end": 12245
+  },
+  {
+   "fact": "Everett 带来 Harriet 的鸡肉面汤，在厨房折纸照看她。",
+   "anchor": "“Told you I’d check in on you. Brought some of Harriet’s chicken noodle soup. You owe my wife an apology, by the way.”",
+   "start": 11305,
+   "end": 11423
+  }
+ ],
+ "relations": [
+  "Brooks 是她自觉「不可想要」的禁忌对象",
+  "Ruth 是她的嫂子",
+  "Harriet 和她妈妈少女时代常给偏头痛的她做这款汤",
+  "Ev 夫妇计划两地分居"
+ ],
+ "numbers": [
+  "傍晚五点后醒来、吞两片 Advil",
+  "Ruth 十月飞伦敦（Ev 生日次日）",
+  "Ruth 教女一周后生日",
+  "最近四五个月偏头痛很少犯（十四岁以来首次整月不痛）",
+  "病中穿至少十年前的丰收节旧 T 恤"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

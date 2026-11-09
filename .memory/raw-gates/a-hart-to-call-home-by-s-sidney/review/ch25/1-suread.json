@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch25",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch25_22_brooks.txt",
+ "facts": [
+  {
+   "fact": "距那一夜已过十天，他视之为人生最棒的一夜。",
+   "anchor": "Ten since the night that might very well go down in history as the best of my life. The best night. The best sex. The single greatest moment.",
+   "start": 113,
+   "end": 254
+  },
+  {
+   "fact": "Ruth 请 Ash/Talia/Ellison 来家晚餐，三个男孩到 Jody 家喝啤酒烧烤。",
+   "anchor": "this week, Ruth has invited Ash, Talia, and Ellison over for a little dinner party, and Ev decided it was in his best interest to leave them to it, so he, Jody, and I are all at Jody’s place.",
+   "start": 1610,
+   "end": 1801
+  },
+  {
+   "fact": "Ev 问起「你和我妹在城里吃午饭」的传闻。",
+   "anchor": "“What’s this I hear about you and my sister and lunch in town?”",
+   "start": 2655,
+   "end": 2718
+  },
+  {
+   "fact": "他解释：她带 EJ 骑马，他马厩碰上后带她们去 Miss Celia 吃午饭。",
+   "anchor": "She took EJ riding. I met ‘em at the stables after, thought I’d take ‘em out for lunch. Went to Miss Celia’s.",
+   "start": 4044,
+   "end": 4153
+  },
+  {
+   "fact": "到家刷两遍牙、漱两口漱口水，抓起爆米花赶去她小屋。",
+   "anchor": "I brush my teeth twice when I get home just in case—I don’t even want to breathe shellfish near her—and rinse twice more with mouthwash, before grabbing a package of microwave popcorn.",
+   "start": 8155,
+   "end": 8339
+  },
+  {
+   "fact": "开演半小时后他完全没在看电影，只顾听她说话。",
+   "anchor": "Half an hour later, I have no idea what we’re watching. There’s a detective and some animals, but I’m far too busy hanging on to every word Ashton says",
+   "start": 10126,
+   "end": 10277
+  },
+  {
+   "fact": "她感叹失去外公的不止一家，牧场上下都爱他到最后。",
+   "anchor": "“Me too,” she sighs. “Sometimes I forget it ain’t just us who lost him. It’s all of us. Everyone on this ranch knew him, everyone worked for him. Loved him. Right up til the end.”",
+   "start": 11262,
+   "end": 11441
+  },
+  {
+   "fact": "他吻她额头说她是他名单第一名，与她在一起是此生最骄傲的事。",
+   "anchor": "“You’ll be number one on my list.” I kiss her forehead and she grins. “Proudest thing I ever did was get my head out of my ass and be with you.”",
+   "start": 12452,
+   "end": 12596
+  }
+ ],
+ "relations": [
+  "他四岁时她出生，两人一起长大",
+  "周五晚专属兄弟局",
+  "Jody 的小屋在 Fisher 马厩与父母宅之间的雪松榆树丛",
+  "右臂恶魔女人纹身被他视为对小恶魔 Ashton 的专属指涉"
+ ],
+ "numbers": [
+  "距那一夜 Ten 天",
+  "Miss Celia 七十八岁",
+  "副主厨搞砸菜品近半年才险些没被抓",
+  "贝壳类蛋白唾液残留最多 16 小时",
+  "下周五进城 Tell's Tavern"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

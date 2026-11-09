@@ -1,0 +1,111 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch24",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch24_21_brooks.txt",
+ "facts": [
+  {
+   "fact": "湖另一侧有个隐蔽的石滩空地——两英里半坑洼土路的尽头，是他的坟墓级秘密。",
+   "anchor": "this place is a secret I could take to my grave.",
+   "start": 637,
+   "end": 685
+  },
+  {
+   "fact": "几个月前他帮 Everett 在湖边给 Ruth 布置过惊喜野餐；今天他是独行侠攒了寒酸版。",
+   "anchor": "A few months ago, I helped Everett set up a surprise picnic for Ruth on the banks of this lake.",
+   "start": 688,
+   "end": 783
+  },
+  {
+   "fact": "接头暗号：香槟生蚝在此夫人——她假嗲拒绝：我过敏。",
+   "anchor": "I got your champagne and oysters right here, m’lady.",
+   "start": 3371,
+   "end": 3423
+  },
+  {
+   "fact": "他根本不爱吃生蚝——就算爱也不会让它靠近她。",
+   "anchor": "I don’t even like oysters. And even if I did, I wouldn’t have ‘em brought anywhere near you.",
+   "start": 4196,
+   "end": 4288
+  },
+  {
+   "fact": "她的黑色玩笑：爸爸不是你最该怕的——Ev 会先撕了你喂你吃回去。",
+   "anchor": "“Daddy ain’t the least of your worries. Ev would tear your balls off and feed ‘em to you first.”",
+   "start": 4665,
+   "end": 4761
+  },
+  {
+   "fact": "十年级时同学全家死于酒驾迎头相撞——他今晚带两瓶香槟却一口不喝。",
+   "anchor": "Ev, Jody, and I lost a classmate and his entire family to a drunk-driving accident when we were in tenth grade.",
+   "start": 5396,
+   "end": 5507
+  },
+  {
+   "fact": "零食盒 charcuterie 上桌，她直奔金鱼饼干——如他所料。",
+   "anchor": "She goes straight for the Goldfish crackers, exactly as I knew she would.",
+   "start": 6431,
+   "end": 6504
+  },
+  {
+   "fact": "关系谈判：她要他直视眼睛说「我们只是炮友」——「该你来问我，而我可能答应」。",
+   "anchor": "“No, you’re gonna ask me. And I might say yes.”",
+   "start": 7131,
+   "end": 7178
+  },
+  {
+   "fact": "挠痒痒逼供出的 Yes 尖叫。",
+   "anchor": "“Yes!” She squeals. “Oh my god, please stop. I’m gonna pee.”",
+   "start": 7466,
+   "end": 7526
+  },
+  {
+   "fact": "他整手包住她的手腕举过头顶、吻住她脸上的笑——她唇上的香槟味完美。",
+   "anchor": "There’s something so damn perfect about the taste of champagne on her lips.",
+   "start": 7955,
+   "end": 8030
+  },
+  {
+   "fact": "他从不是抱抱型——过去所有投入都通向性；与她在一起他能做自己。",
+   "anchor": "I’ve never been a cuddler.",
+   "start": 11627,
+   "end": 11653
+  },
+  {
+   "fact": "他想抚平灵魂里破烂的、不认识爱的角落。",
+   "anchor": "soothe the parts of my soul that are ragged, that don’t recognize love",
+   "start": 11932,
+   "end": 12002
+  },
+  {
+   "fact": "天文课：北斗是大熊的屁股、永远指向北极星——跟着北极星就到家，或者说，到你的心。",
+   "anchor": "Follow the North Star to take you home. Or your heart.",
+   "start": 13125,
+   "end": 13179
+  },
+  {
+   "fact": "她说从没在日落时来过这里——很美。",
+   "anchor": "“I don’t think I’ve ever been here at sunset.",
+   "start": 8154,
+   "end": 8199
+  },
+  {
+   "fact": "她的 North Star 名单翻译成 Family；他吻她发顶。",
+   "anchor": "“My heart,” she agrees. I kiss the top of her head. My heart might just be with her.",
+   "start": 13355,
+   "end": 13439
+  }
+ ],
+ "relations": [
+  "秘密据点连 Ev 野餐都借用过",
+  "酒驾事故是三人组的少年暗史",
+  "她对他的旧判词在谈判中当庭撤销",
+  "北极星=本书 home 母题的天文版"
+ ],
+ "numbers": [
+  "two and a half miles 坑洼路",
+  "tenth grade 丧同学",
+  "两瓶香槟一口不喝",
+  "她的名单：Mom/Dad/Ev/You/Jody/Ruth"
+ ],
+ "verified": "15/15 anchors hit",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

@@ -1,0 +1,69 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch26",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch26_23_ashton.txt",
+ "facts": [
+  {
+   "fact": "周一查马活计落在家中的她头上。",
+   "anchor": "Monday means horse checks, and since I’m home, the task has fallen to me.",
+   "start": 81,
+   "end": 154
+  },
+  {
+   "fact": "她把 Mayo 牵出马厩到围场，一路踢旧足球逗它。",
+   "anchor": "I unlock the door to his stall and lead him out into the paddock, kicking an old, slightly worse-for-wear soccer ball as I go.",
+   "start": 1053,
+   "end": 1179
+  },
+  {
+   "fact": "正记笔记时被 Brooks 从背后环抱住。",
+   "anchor": "I’m just finishing my notes when a pair of arms wrap around me, along with the heady scent of leather, spice, and dirt.",
+   "start": 1889,
+   "end": 2008
+  },
+  {
+   "fact": "马厩私会后他开车送她回家换洗，她随后进城。",
+   "anchor": "Brooks drives me home in his truck after our secret tryst in the stables. Neither of us had planned to go home in the middle of the day, but after our activities, we both needed to change",
+   "start": 7568,
+   "end": 7755
+  },
+  {
+   "fact": "Ellison 让她试吃新酸面包三明治，要完整测评。",
+   "anchor": "“Yeah, yeah,” Ellison says with a laugh. “I tried a new sourdough recipe. Eat. Give me your full report.”",
+   "start": 9355,
+   "end": 9460
+  },
+  {
+   "fact": "她尝出芳提娜/波罗伏洛，Ellison 揭晓关键是英式成熟切达。",
+   "anchor": "“Yes to the fontina and provolone. And you won’t even believe it. It’s just sharp cheddar. English cheddar, not the American kind. They call it mature, it’s real strong and tangy.”",
+   "start": 10286,
+   "end": 10466
+  },
+  {
+   "fact": "Ellison 点破全镇早知道两人从小的互相暗恋。",
+   "anchor": "This whole dang town knows the two of you had a crush since you were babies. Only question is how long it’ll take ‘fore you get it together.",
+   "start": 11862,
+   "end": 12002
+  },
+  {
+   "fact": "Talia 展示粉色短背心，胸前绣 stay wild. ride free.。",
+   "anchor": "In a bold shade of pink, four words are embroidered across the chest: stay wild. ride free.",
+   "start": 13789,
+   "end": 13880
+  }
+ ],
+ "relations": [
+  "牧场分工：他是 engine guy 她是 horse girl",
+  "Ellison 24 岁时曾与 18 岁的 Jody 约会过一次",
+  "Ruth 邀她/Talia/Harriet/Ellison 周五女孩之夜",
+  "Talia 精品店紧挨 Ellison 面包房"
+ ],
+ "numbers": [
+  "Juice 周四换新掌",
+  "18/24 那次约会",
+  "周六电影夜",
+  "Ellison 装了两份三明治"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

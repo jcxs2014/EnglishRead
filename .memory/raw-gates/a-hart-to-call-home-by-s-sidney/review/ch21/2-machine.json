@@ -1,0 +1,133 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch21 julianne tells all 3.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch21_julianne_tell_s_all.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Spotted on the mean streets of Heath: Heath's very own veterinarian, Doc Forbes, looking sweaty and utterly delicious, t",
+          "ok": true,
+          "pos": 32
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We'll all be there cheering on Doc Forbes! Harriet, you're a lucky, lucky woman. If you've got some hot Tri-towns gossip",
+          "ok": true,
+          "pos": 402
+        }
+      ],
+      "words": 26
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.69
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Julianne Tell(s) All",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 2,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 2,
+    "quote_long": 0,
+    "segments": 2,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 97,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": "块数 2 偏离本书常见区间 6–18（本书 37 章中位 12、最高 15（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

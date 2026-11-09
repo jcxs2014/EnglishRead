@@ -1,0 +1,47 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch21",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch21_julianne_tell_s_all.txt",
+ "facts": [
+  {
+   "fact": "专栏目击 Heath 本地兽医 Doc Forbes 街头训练，满身是汗。",
+   "anchor": "Spotted on the mean streets of Heath: Heath’s very own veterinarian, Doc Forbes, looking sweaty and utterly delicious, training for the Texas 10K.",
+   "start": 40,
+   "end": 186
+  },
+  {
+   "fact": "他将于三月在 Austin 跑 10K 并募捐。",
+   "anchor": "Doc Forbes will be running the 10K in Austin in March, and he’s collecting your donations!",
+   "start": 187,
+   "end": 277
+  },
+  {
+   "fact": "专栏号召去兽医诊所找前台 Sandra 捐款，善款归 Tri-town Pups。",
+   "anchor": "Pop in to the veterinary clinic and see Sandra on the front desk. Every cent you can spare will benefit the Tri-town Pups dog rescue.",
+   "start": 278,
+   "end": 411
+  },
+  {
+   "fact": "专栏呼吁到现场加油，并当面称 Harriet 幸运。",
+   "anchor": "We’ll all be there cheering on Doc Forbes! Harriet, you’re a lucky, lucky woman.",
+   "start": 412,
+   "end": 492
+  },
+  {
+   "fact": "征集八卦，邀请私信爆料。",
+   "anchor": "If you’ve got some hot Tri-towns gossip, slide on into my DMs…",
+   "start": 495,
+   "end": 557
+  }
+ ],
+ "relations": [
+  "Harriet 被专栏点名幸运",
+  "Sandra 是诊所前台"
+ ],
+ "numbers": [
+  "Texas 10K",
+  "三月 Austin"
+ ],
+ "verified": "5/5 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}
