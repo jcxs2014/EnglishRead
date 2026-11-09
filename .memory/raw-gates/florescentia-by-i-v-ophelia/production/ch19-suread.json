@@ -1,0 +1,49 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch19",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch19_chapter_nineteen_the_eclipse.txt",
+ "facts": [
+  {
+   "fact": "它在海底暗中观察，猜测她会不会跳崖。",
+   "anchor": "Would she jump from the cliff",
+   "start": 44,
+   "end": 73
+  },
+  {
+   "fact": "它认为所有人都感到「牵引」，她尤其强。",
+   "anchor": "all people felt the pull",
+   "start": 242,
+   "end": 266
+  },
+  {
+   "fact": "它认为她的牵引来自不属于这个世界的那一半。",
+   "anchor": "her other half",
+   "start": 363,
+   "end": 377
+  },
+  {
+   "fact": "棺木从悬崖落下，穿过水面沉入海底。",
+   "anchor": "nose-diving straight for me",
+   "start": 1098,
+   "end": 1125
+  },
+  {
+   "fact": "它看见崖顶的 Lucia，心想「你会跟他去吗」。",
+   "anchor": "Will you join him?",
+   "start": 1741,
+   "end": 1759
+  },
+  {
+   "fact": "它判断她真的在考虑跳下去。",
+   "anchor": "She is considering it",
+   "start": 1832,
+   "end": 1853
+  },
+  {
+   "fact": "它判断她求生意志太强，不会跳。",
+   "anchor": "Her will to live was too strong",
+   "start": 1956,
+   "end": 1987
+  }
+ ]
+}
