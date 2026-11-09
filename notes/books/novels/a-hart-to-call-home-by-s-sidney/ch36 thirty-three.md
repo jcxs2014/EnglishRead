@@ -16,7 +16,7 @@ modified: "2026-11-09"
 > **原句 1:** "atop the Empire State building, inside Lady Liberty's crown, on the Brooklyn Bridge at sunrise—but since Central Park is also on that list"
 
 **中文理解**：帝国大厦顶、自由女神冠内、日出时的布鲁克林大桥——但中央公园也在清单上。
-**关键词**：a whole list / atop the Empire State building / Central Park is also on that list
+**关键词**：Empire State building / Lady Liberty's crown / Brooklyn Bridge at sunrise
 **为什么这样写**：他的接吻清单伪装成景点清单——她以「想开阔地」为由选中公园，两人心照不宣；纽约第一次旅行被写成移动的吻址图。
 **读者视角提示**：清单梗的完成度（帝国/自由女神/大桥）留作系列彩蛋——本书在公园收官；他们的地图点从德州扩展到曼哈顿又终将归位。
 
@@ -79,7 +79,7 @@ modified: "2026-11-09"
 > **原句 10:** ""You're my teenage dream come true," I admit with a tiny chuckle… "You've always had all of me, Brooks. All twenty-three and a half years of my life.""
 
 **中文理解**：「你是我的少女梦成真。」她轻笑承认——12 岁的她早就笃定我们终究是我们。「你一直拥有全部的我，Brooks。我这二十三岁半人生的全部。」
-**关键词**：my teenage dream come true / Twelve-year-old me knew it / all of me / twenty-three and a half years
+**关键词**：my teenage dream come true / tiny chuckle / all of me / twenty-three and a half years
 **为什么这样写**：她用时间线驳回 rebound 论——产权证精确到岁数；「mind, body, heart, soul」的四连所有格是本书最完整的归属声明。
 **读者视角提示**：23 岁半的数字与 Miss Celia 菜单的 23.5 年（ch18）押同一个韵——两份「从出生起」的账单互相印证；他的犹豫在数字面前破产。
 
@@ -110,7 +110,7 @@ modified: "2026-11-09"
 |---|---|---|
 | struts | 昂首阔步 | a dalmatian struts by, tennis ball in its mouth |
 | sashays | 缓步扭摆地走 | A man with thick glasses and pale pink chinos sashays after the dog |
-| parasols→awning | 遮阳篷（ awning） | people huddle closer together beneath umbrellas and awnings |
+| sashays | 缓步扭摆地走 | A man with thick glasses and pale pink chinos sashays after the dog |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -123,7 +123,7 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | grab-ass | 动手动脚的打闹 | One woman has her hand in her partner's back pocket, clearly enjoying a little grab-ass. |
-| topple | 使倾倒 | almost toppling me as he leaps onto his hind legs |
+| toppling | 使倾倒（进行形） | almost toppling me as he leaps onto his hind legs |
 | stricken | （神情）震惊沉重的 | Breathless, and just about as stricken as I feel. |
 
 ## 一句话总结

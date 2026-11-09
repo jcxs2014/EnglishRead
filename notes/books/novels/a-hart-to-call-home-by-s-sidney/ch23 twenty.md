@@ -123,7 +123,7 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | deliberately | 故意地、蓄意地 | He reaches around me to hang the last set of keys on the hook inside the key safe, pressing his chest against my shoulder deliberately. |
-| frenzied→delirious | 精神错乱般的、恍惚的 | It's a little unhinged. A little delirious. |
+| delirious | 精神恍惚的、近乎癫狂的 | It's a little unhinged. A little delirious. |
 | unfathomable | 深不可测的、难以理解的 | His voice is nothing but a deep rumble against my clit, electrifying my whole body and creating almost unfathomable tension in my lower belly. |
 
 ### ⭐⭐ 进阶

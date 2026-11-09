@@ -75,7 +75,7 @@ modified: "2026-11-09"
 |---|---|---|
 | vise-like grip | 虎钳般的紧攥 | took hold of every organ in a vise-like grip |
 | intrusion | 侵入、闯入 | It feels like an intrusion, like I'm somewhere I shouldn't be. |
-| nostalgia→nostalgic | 怀旧的 | Not to get nostalgic about lip balm. |
+| nostalgic | 怀旧的 | Not to get nostalgic about lip balm. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

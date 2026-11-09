@@ -51,7 +51,7 @@ modified: "2026-11-09"
 > **原句 6:** ""I ain't gonna be another walk of shame for you, Brooks" … "How do you know you won't get sick of me next week, next month?""
 
 **中文理解**：「我不会成为你又一次的 walk of shame，Brooks」……「你怎么知道你下周、下个月不会腻？」
-**关键词**：another walk of shame / used and tossed aside / get sick of me next week, next month
+**关键词**：another walk of shame / get sick of me / next week, next month
 **为什么这样写**：她的恐惧三连（用完即扔→时限→自我怀疑）正是 ch04 判词的口播版——发尖的声音（shrill）暴露她已从冷处理滑向崩溃边缘；他在雨里吼出的回答是她的病历急需的那页。
 **读者视角提示**：她的「walk of shame」指控与 ch05 的酒吧爆料首尾相连——19 岁判决书在本章被当面废除；「None of them were you」的两度重复是宣判书的盖印。
 
@@ -117,7 +117,7 @@ modified: "2026-11-09"
 |---|---|---|
 | shrill | 尖锐的（声音） | Her voice rises as she speaks, becoming shrill. |
 | downpour | 倾盆大雨 | a trickle of rain is fast becoming a downpour |
-| devour→devoured | （此处）狼吞虎咽般看完 | we devour our steak and potatoes |
+| rivulets | 细流、小水道 | rivulets of filthy city rain roll down her face |
 
 ## 一句话总结
 雨把两人淋成同一个形状：他改口「谎言」、她废约「肮脏秘密」、十二岁的时间线交出——「None of them were you」两度落锤之后，1700 英里的裂谷在同一场雨里合拢。

@@ -86,7 +86,7 @@ modified: "2026-11-09"
 > **原句 11:** "But for reasons I can't explain, hearing that same sentiment from Brooks stings. It bites at my skin, leaving an uncomfortable itch, and a dull ache in the pit of my stomach. I don't want him to see me as a little girl."
 
 **中文理解**：可说不清为什么，同样的话从 Brooks 口中说出就带刺——咬在皮肤上，留下难受的痒和胃底一阵钝痛；她不想被他当成小女孩。
-**关键词**：the same sentiment / stings / bites at my skin / I don't want him to see me as a little girl
+**关键词**：sentiment from Brooks / stings / bites at my skin / I don't want him to see me as a little girl
 **为什么这样写**：关心从别人嘴里出来是暖、从他嘴里出来是痛——这个「不可解释」其实一目了然：她要的不是被照顾，是被他看见成年的身体与心智；痒与痛的描写把拒绝写成了过敏反应。
 **读者视角提示**：与她的贝壳过敏呼应——她对 Brooks 的话也「过敏」；本书的生理隐喻体系（痒、痛、嗡鸣）一直在替暗恋记账。
 

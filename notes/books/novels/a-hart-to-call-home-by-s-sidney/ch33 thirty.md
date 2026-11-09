@@ -23,7 +23,7 @@ modified: "2026-11-09"
 > **原句 2:** "The first time this scenario played out in my mind, I was twenty-two. I told my best friend I wanted to date his sister and he punched me so hard he broke my jaw. I never voiced the thought out loud."
 
 **中文理解**：第一次在脑内排演这个场面时他二十二岁——告诉挚友想和他妹妹约会，被一拳打裂下颌；这个念头他从没说出过口。
-**关键词**：when I was twenty-two / punched me so hard he broke my jaw / never voiced the thought
+**关键词**：I was twenty-two / punched me so hard / broke my jaw / never voiced the thought
 **为什么这样写**：幻想中的灾难成为真实的路演脚本——二十年积压的恐惧有具体年龄；「broken jaw」的想象暴力为他容忍真实的推搡垫底。
 **读者视角提示**：二十二岁的排演与真实的摊牌对照——现实中 Ev 没打他的下颌，只把他钉在墙上；恐惧的成本总是比现实贵。
 

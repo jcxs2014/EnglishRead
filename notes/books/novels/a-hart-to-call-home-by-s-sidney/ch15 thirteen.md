@@ -103,7 +103,7 @@ modified: "2026-11-09"
 |---|---|---|
 | resurgence | 复发、回潮 | Is the resurgence of my teenage crush really that obvious—to someone I've only seen once or twice since coming home, no less? |
 | reciprocated | 得到回应的、互惠的 | I knew he had a crush on you, but I had no idea it was reciprocated! |
-| entrusted | 委托、托付 | Teenage and wild, Ms. Josie entrusted the four of us—me, Brooks, Ev, and Jody—to fill a couple buckets with berries at Aunt Roberta's U-Pick farm right outside of Heath. |
+| resurgence | 复发、回潮 | Is the resurgence of my teenage crush really that obvious—to someone I've only seen once or twice since coming home, no less? |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

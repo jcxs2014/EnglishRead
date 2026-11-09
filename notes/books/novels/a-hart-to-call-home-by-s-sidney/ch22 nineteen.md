@@ -33,7 +33,7 @@ modified: "2026-11-09"
 “"
 
 **中文理解**：「Ashton Faith Tanner，给我从床上起来！」随后是 Brooks 熟悉的抱怨透过小屋传来——「她他妈从来不锁门」——接着一声闷响。
-**关键词**：Ashton Faith Tanner / get your ass outta bed / She never locks her fucking door / followed by a thud
+**关键词**：She never locks her fucking door / familiar grumble / travels through the cabin / followed by a thud
 **为什么这样写**：全名敲门是 Ev 的紧急制式（与 Brooks 的本名语法同源）；「她从不锁门」的抱怨自带时间戳——他吼过的门禁被她再次无视，此刻变成担心的证据。
 **读者视角提示**：两人同时进屋=两人都慌了；注意 Brooks 抱怨锁门时人已经进来了——他的锁门令从来不是为了防他。
 
@@ -82,7 +82,7 @@ modified: "2026-11-09"
 > **原句 10:** "Not right away, but… yeah, I think so. We talked about me flyin’ out after Christmas, before her birthday. Stay in London a few months. Come back here. Split time, you know?"
 
 **中文理解**：「她十月飞回去——我生日第二天。」他不马上走，但……嗯，他想会去：圣诞后飞过去、她生日前，在伦敦住几个月，再回来——两地分着过。
-**关键词**：flying back in October / Day after my birthday / after Christmas / Split time
+**关键词**：Not right away / flyin' out after Christmas / Stay in London a few months / Split time
 **为什么这样写**：Ev 的时间表精确到生日坐标——把离家写成有往返班次的长期项目而非背井离乡；「Split time」是本书对婚姻地理学的解题方案。
 **读者视角提示**：Ev 夫妇的伦敦-德州轮换为全书的空间格局定型——这决定 Brooks/Ashton 以后的家庭聚会在哪张桌上吃；十月期限是本阶段的日历压力。
 
@@ -92,7 +92,7 @@ modified: "2026-11-09"
 “"
 
 **中文理解**：「从没想过会看到你离开牧场。」——「从没想过自己会爱一样东西爱到把牧场留在身后。」
-**关键词**：Never thought I'd see you leave the ranch / love anything enough to leave the ranch behind
+**关键词**：Never thought I'd love anything enough / leave the ranch behind
 **为什么这样写**：一对镜像句完成 Ev 的人生等级排序——爱高于土地，而他正是全书「home=牧场」命题的创立者；他的改宗让「为爱离开」获得了本镇最高权威的背书。
 **读者视角提示**：这组对句与她的「回德州长住」念头（ch15）摆在一起读——一个为爱走、一个为爱回；本书把两种方向都算成回家的方式。
 
@@ -108,7 +108,7 @@ His face lights up. His eyes are still sad—I assume at the thought of being aw
 “"
 
 **中文理解**：「我为你骄傲，你知道吗？」她放下勺子、松拳轻碰 Everett 的手臂。「谢了，Ash，」他低声说，「我也为你骄傲。不管你做什么。」
-**关键词**：I'm proud of you / a loose fist / I'm proud of you too / Whatever you do
+**关键词**：I'm proud of you, you know / a loose fist / nudge Everett's arm / with a loose fist
 **为什么这样写**：兄妹互颁勋章——「Whatever you do」的空白支票与他的「Stuck with me」（赖上我了）连成兄妹情的两个收口；她的骄傲颁发的正是他不敢对任何人说的那份勇敢。
 **读者视角提示**：本章以兄妹对话收尾而非男主——她在 Brooks 问题上得到的最大支持来自「Whatever you do」这四个字；这份无条件背书会为她的下一次坦白铺路。
 
@@ -118,7 +118,7 @@ His face lights up. His eyes are still sad—I assume at the thought of being aw
 |---|---|---|
 | reverberating | 回荡、震荡 | I wake up to a sharp pain reverberating through my skull. |
 | dehydrated | 脱水的 | I must've been thirsty, but I've never felt more dehydrated. |
-| relentlessly→Mercifully | 所幸、幸好（ merciful 派生） | Mercifully, if either of the two men see anything they shouldn't, neither says a thing. |
+| Mercifully | 所幸、幸好 | Mercifully, if either of the two men see anything they shouldn't, neither says a thing. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

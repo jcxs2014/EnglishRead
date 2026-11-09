@@ -65,14 +65,14 @@ modified: "2026-11-09"
 > **原句 8:** "This is Ashton. Ashton Faith Tanner—the girl who used to outsmart me at hide and seek. The girl who impressed me for the very first time when she was five years old. The only woman I've ever truly wanted."
 
 **中文理解**：这是 Ashton。Ashton Faith Tanner——捉迷藏总能骗过他的女孩；五岁时第一次让他惊叹的女孩；他真心想要的唯一的女人。
-**关键词**：Ashton Faith Tanner / outsmart me at hide and seek / impressed me…at five years old / the only woman I've ever truly wanted
+**关键词**：Ashton Faith Tanner / outsmart me at hide and seek / impressed me for the very first time / the only woman I've ever truly wanted
 **为什么这样写**：全名带中间名在高潮后揭晓——Faith（信念）嵌在名字里，与她此刻交给他的信任互文；三层定语从童年游戏排到唯一性，身份完成从女孩到女人的全程认证。
 **读者视角提示**：Ashton Faith Tanner 全名存档——「Faith」这个名字以后若被引用（她的信念、他的信仰）请回查此处；她的五岁=他记忆的起点之一。
 
 > **原句 9:** ""Let's not let this be weird, okay? You and me? See you tomorrow?" There's a storm brewing in Ashton's eyes as she speaks, wrapping the shoulder straps of her bra around her wrist to carry it home."
 
 **中文理解**：「别让这事变得尴尬，好吗？你和我？明天见？」她说话时眼里酝酿着一场风暴，内衣肩带绕上手腕准备带回家。
-**关键词**：Let's not let this be weird / You and me? / a storm brewing in her eyes / wrapping the shoulder straps
+**关键词**：Let's not let this be weird / You and me? / There's a storm brewing in Ashton's eyes / wrapping the shoulder straps
 **为什么这样写**：她的台阶台词与他没说出口的挽留互为镜像——她定义「明天见」的频率，他却在心里喊「永远」；肩带绕腕的细节是欲望的行囊，此刻他只能看着她把自己打包带走。
 **读者视角提示**：storm in her eyes 与她的「a dangerous place to be」（ch19 结尾）同频——两人都在超支，只是她的超支写在脸上。
 

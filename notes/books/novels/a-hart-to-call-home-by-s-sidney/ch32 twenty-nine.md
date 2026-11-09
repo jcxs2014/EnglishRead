@@ -86,7 +86,7 @@ modified: "2026-11-09"
 > **原句 11:** "I shouldn't let myself think of him. I should do anything to protect my mind and my heart, but I can't help it—he's living in my brain and paying no rent, and I can't help but wonder where he is."
 
 **中文理解**：她不该让自己想他、该做任何事保护自己的头脑与心——可她做不到：他住在她脑子里还不交房租，她忍不住想知道他在哪、在做什么、是不是也在想她。
-**关键词**：protect my mind and my heart / living in my brain and paying no rent / seventeen hundred miles away
+**关键词**：protect my mind and my heart / paying no rent / wonder where he is
 **为什么这样写**：房客比喻给思念定价——「paying no rent」的荒诞与「wondering where he is」的徒劳互为镜像；雨滴赛跑的天窗观察是本章唯一的风景，连天气都比她冷漠。
 **读者视角提示**：1700 英里的裂谷（最后一句）——距离的物理计量成为她的心理计量单位；本书的地理线在数字上完成合拢。
 
@@ -108,7 +108,7 @@ modified: "2026-11-09"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| comprehend→intolerant | 不耐受的 | sick to my stomach and completely intolerant of light and sound |
+| intolerant | 不耐受的 | sick to my stomach and completely intolerant of light and sound |
 | shatter | 摔碎 | like glass, it shattered |
 | gloomy | 阴郁的、昏暗的 | It's gray and gloomy |
 

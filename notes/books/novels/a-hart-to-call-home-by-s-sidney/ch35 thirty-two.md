@@ -37,7 +37,7 @@ modified: "2026-11-09"
 > **原句 4:** "I've never really had body image issues, but I don't think I've ever truly felt beautiful. Not until now, under Brooks's heated gaze"
 
 **中文理解**：她从没有过身材焦虑，但也从没真正觉得自己美——直到此刻，在他滚烫的目光下。
-**关键词**：never truly felt beautiful / under Brooks's heated gaze / I feel like a goddess
+**关键词**：never truly felt beautiful / heated gaze / under Brooks's heated gaze
 **为什么这样写**：被看见=变美——他的 gaze 是她自我认知的显影液；「goddess」的册封与她此前的「hungry animal」类荤话不同，这是纯粹的承认。
 **读者视角提示**：与「被看见」主题连读（B 便条章的 seen）——他的爱不只是注视是打光；她在他眼里的倒影成为她的新自我。
 

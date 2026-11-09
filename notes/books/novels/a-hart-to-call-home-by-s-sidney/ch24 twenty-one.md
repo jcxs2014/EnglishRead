@@ -86,7 +86,7 @@ modified: "2026-11-09"
 > **原句 11:** “Right,” she says, settling back against my chest. “Follow the North Star to take you home. Or your heart. The heart is where the North Star leads you, or something.”
 
 **中文理解**：「对，」她靠回他胸口说，「跟着北极星就能带你回家。或者说，到你的心。心是北极星领你去的地方，大概吧。」
-**关键词**：the big bear's butt / always points to the North Star / Follow the North Star to take you home / The heart is where the North Star leads you
+**关键词**：settling back against my chest / Follow the North Star to take you home / Or your heart / or something
 **为什么这样写**：教科书条目被她念成情话——「回家」在半途拐进「heart」的岔路，天文导航学瞬间改写成爱的导航学；「or something」的含混尾巴让这句主题句保持体温而非教条。
 **读者视角提示**：北极星=本书 home 母题的天文学版本——她的公式（star→home→heart）会在后文被引用；记住「heart 是星星引你去的地方」。
 
@@ -115,7 +115,7 @@ modified: "2026-11-09"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| sillhouette→silhouettes | 轮廓、剪影 | we can see vague silhouettes of trees around us |
+| silhouettes | 轮廓、剪影 | we can see vague silhouettes of trees around us |
 | cuddler | 爱搂抱的人、抱抱型 | I've never been a cuddler. |
 | navigate→navigated | 导航、凭星辨认方向 | I ain't never navigated by starlight, devil. |
 

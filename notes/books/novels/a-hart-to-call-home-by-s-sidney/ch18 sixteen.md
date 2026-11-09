@@ -23,7 +23,7 @@ modified: "2026-11-09"
 > **原句 2:** "All four of us have eaten exactly the same here since we were six years old, Ashton. Of course I remember."
 
 **中文理解**：「我们四个从六岁起在这里吃的就从来没变过，Ashton——我当然记得。」他一口气背出：她的培根烧烤酱堡、Ev 的多加一片番茄、Jody 的蓝纹芝士（疯了）、他自己的 pepper jack 加炸洋葱。
-**关键词**：eaten exactly the same / since we were six years old / Of course I remember / blue cheese, because he's insane
+**关键词**：eaten exactly the same / since we were six years old / Of course I remember / eaten exactly the same
 **为什么这样写**：订单背诵是记忆的炫技——四个人、四种偏好、二十年不变；「Of course」的理所当然让深情装成常识：他从不觉得记得她是本事。
 **读者视角提示**：这一段是她脑内警铃的来源——他的记性好到不像朋友；作者用最日常的点单完成一次心跳取证。
 

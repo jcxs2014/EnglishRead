@@ -23,7 +23,7 @@ modified: "2026-11-09"
 > **原句 2:** "my final kitchen internship is complete. I actually finished back in March, but I'd agreed to stay and work for one of my mentors until graduation. I graduated ten days ago"
 
 **中文理解**：最后的厨房实习完成——其实三月就结束了，她应导师之邀留任到毕业；十天前刚参加完毕业礼。
-**关键词**：final kitchen internship / stayed and work for one of my mentors / I graduated ten days ago
+**关键词**：final kitchen internship is complete / agreed to stay and work / I graduated ten days ago
 **为什么这样写**：时间账目交代异地九个月的构成——多出的四周与偏头痛解释了「best and worst」的最坏部分；毕业礼有 Brooks 与父母观礼（家庭全员出席她的成就）。
 **读者视角提示**：她的学位线在此闭合——烘焙从逃离计划（ch02）变成职业起点；「Brooks 与父母飞去观礼」=她的两个世界终于在同一排座位上。
 
@@ -87,7 +87,7 @@ modified: "2026-11-09"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| rollout→rolling delays | 连环延误 | a series of rolling delays turned my early-morning flight into a lunchtime one |
+| rolling delays | 连环延误 | a series of rolling delays turned my early-morning flight into a lunchtime one |
 | interjects | 插话、抢答 | "We'll always have great sex," he interjects. |
 | essentials | 必需品 | leaving me with just a week of essentials |
 
