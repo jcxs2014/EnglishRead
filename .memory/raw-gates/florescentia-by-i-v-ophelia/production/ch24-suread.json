@@ -1,0 +1,67 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch24",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch24_chapter_twenty_four_the_eclipse.txt",
+ "facts": [
+  {
+   "fact": "Altair 走进父亲房间，感觉到 cipher 的存在，其他影子不敢靠近。",
+   "anchor": "the telltale ring of a cipher",
+   "start": 237,
+   "end": 266
+  },
+  {
+   "fact": "父亲把他认成 Dorian，要咖啡不加糖。",
+   "anchor": "no sugar",
+   "start": 964,
+   "end": 972
+  },
+  {
+   "fact": "Altair 说父亲能安然老去是「我们交易」的结果。",
+   "anchor": "all thanks to our bargain",
+   "start": 1819,
+   "end": 1844
+  },
+  {
+   "fact": "父亲问它是不是来收债，它说「还不是」。",
+   "anchor": "Are you here to collect?",
+   "start": 2916,
+   "end": 2940
+  },
+  {
+   "fact": "父亲求它别伤害 Lucia。",
+   "anchor": "Don’t hurt her",
+   "start": 3536,
+   "end": 3550
+  },
+  {
+   "fact": "它说「她长得很美，你喜欢我的贡献吗」。",
+   "anchor": "Do you like my contribution?",
+   "start": 4092,
+   "end": 4120
+  },
+  {
+   "fact": "父亲把杯子摔向它，喊他 Dorian。",
+   "anchor": "Calling me by his name",
+   "start": 5397,
+   "end": 5419
+  },
+  {
+   "fact": "Nina 用眼神命令 Altair 上楼处理。",
+   "anchor": "Handle it",
+   "start": 6204,
+   "end": 6213
+  },
+  {
+   "fact": "在 Lucia 的童年房间，她说别碰不属于它的东西。",
+   "anchor": "they do not belong to you",
+   "start": 8358,
+   "end": 8383
+  },
+  {
+   "fact": "她打了他一巴掌后离开。",
+   "anchor": "A sharp sting against the side of my face",
+   "start": 9912,
+   "end": 9953
+  }
+ ]
+}
