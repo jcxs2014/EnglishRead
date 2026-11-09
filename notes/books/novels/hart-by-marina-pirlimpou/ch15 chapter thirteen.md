@@ -7,7 +7,7 @@ modified: "2026-11-09"
 
 ## 本章导航
 
-- **一句话概括**：警报解除后，Sam 在办公室里抱住跪着的 Devon，反复告诉他「你赶上了，我们都安全」；Devon 终于说出埋了多年的旧事——创业初期拒绝了一桩生意，对方绑架并伤害了他的弟弟 Angel，导致 Angel 失明，他赶到时只看见救护车。Sam 说「那不是你的错」，Devon 却说自己该放 Sam 走；Sam 问「你想吗」，Devon 答「No」。随后 Sam 邀他周末回家、见 Eli，Devon 说 I’d love that, Sammy。
+- **一句话概括**：警报解除后，Sam 在办公室里抱住跪着的 Devon，反复告诉他「你赶上了，我们都安全」；Devon 终于说出埋了多年的旧事——创业初期拒绝了一桩生意，对方报复性地伤害了他的弟弟 Angel，导致 Angel 失明，他赶到时只看见救护车。Sam 说「那不是你的错」，Devon 却说自己该放 Sam 走；Sam 问「你想吗」，Devon 答「No」。随后 Sam 邀他周末回家、见 Eli，Devon 说 I’d love that, Sammy。
 - **情感弧线位置**：第十四拍：全书最大的背景揭示（Angel 事件）与关系最大的跨越（邀请回家见 Eli）在同一章完成；恐惧与信任互换位置。
 - **Tropes 兑现/反转**：兑现保镖老板的黑暗过去与「英雄救美」；反转「保护者永远坚强」——Devon 跪着说「我该放你走」，Sam 才是抱住他的人；也反转「alpha 的罪疚」——Sam 说「不是你的错」，Devon 却不肯接受。
 - **人物弧线**：Devon 从 Did I make it in time? 的恐慌，到讲出 Angel 的事，到 You’d be better off away from me 的自我判决，最后接受 Sam 的邀请——他的「不配」第一次被人当面反驳。Sam 从被保护者变成保护者，从「你赶上了」到 Come home with me，把 Devon 拉进自己的家庭。

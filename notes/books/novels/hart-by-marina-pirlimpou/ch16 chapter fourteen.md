@@ -51,7 +51,7 @@ modified: "2026-11-09"
 
 **关键词**：He’s perfect（他很完美）、Just like you（就像你一样）、my Sammy（我的 Sammy）
 
-**为什么这样写**：Devon 先对 Sam 说 You were right——回应 Sam 之前说过的「他很完美」；然后目光从 Eli 转到 Sam，and stays 三个词把视线钉住。He’s perfect 是对孩子的评价，Just like you 立刻把评价转给 Sam：孩子的好，被写成父亲（他以为不是父亲）眼里 Sam 的好。my Sammy 在句中出现，占有欲与温柔同时在场。
+**为什么这样写**：Devon 先对 Sam 说 You were right——回应 Sam 之前说过的「他很完美」；然后目光从 Eli 转到 Sam，and stays 两个词把视线钉住。He’s perfect 是对孩子的评价，Just like you 立刻把评价转给 Sam：孩子的好，被写成父亲（他以为不是父亲）眼里 Sam 的好。my Sammy 在句中出现，占有欲与温柔同时在场。
 
 **读者视角提示**：读者知道这句「Just like you」在未来会被重新读一遍：当 Devon 知道 Eli 是他的孩子，这句话就不再只是情话，而是血缘的直觉。作者让他在不知情时说出最准的话。
 
@@ -63,7 +63,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：上一段说他的公寓是「压过来的安静堡垒」，这里用 Here 对照：gentle、feather-light 两个形容词把安静写成可以碰触的轻。broken easily 后面接三个 by 短语：树叶、婴儿、Sam 的低声——全是生活的声音，不是威胁。最后 the man I fucking breathe for 把 Sam 放进这份安静的中心。
 
-**读者视角提示**：读者会注意到「安静」在这本书里一直是 Devon 孤独的指标（公寓、办公室），这里第一次变成「有人的生活」。这也是他第一次在别人的家里感到安全。
+**读者视角提示**：读者会注意到「安静」在这本书里一直是 Devon 孤独的指标（公寓、办公室），这里变成「有人的生活」。这也是他第一次在别人的家里感到安全。
 
 > **原句 6:** "And as we stand on his hardwood floor, in the quiet of his home, I feel worlds away from everything that has haunted me. The burden feels lighter, like I’m not the only one carrying it anymore. Like he’s helping me carry it by simply being close to me."
 
@@ -105,7 +105,7 @@ Hmm, I wrote "读者提示" instead of "读者视角提示" — must fix before 
 
 **为什么这样写**：上一段说他的心也许从来不是为这种幸福造的，这一段用 anyway 顶回去：不配、不适合，都不能取消想要。All of it. All of him. 两个短句把范围从「这份幸福」收到「他这个人」；句号把每个词切开，像一件件认领。作者让全章停在「想要」而不是「得到」，因为 Devon 的幸福里始终有「可能失去」。
 
-**读者视角提示**：读者会把这句和第一章的 It'll pass、第五章的「我不配」并读：他的自我否定没有消失，只是被「想要」压住。这个结尾让甜密的周末保留了一丝不安，也为后文的冲突留门。
+**读者视角提示**：读者会把这句和ch03 的 It'll pass、ch15 的「我不配」并读：他的自我否定没有消失，只是被「想要」压住。这个结尾让甜密的周末保留了一丝不安，也为后文的冲突留门。
 
 ## 本章词汇
 
@@ -138,4 +138,4 @@ Hmm, I wrote "读者提示" instead of "读者视角提示" — must fix before 
 
 ## 一句话总结
 
-Devon 走进 Sam 的小房子，第一次抱起 Eli，在满屋生活痕迹里放下「必须坚强」，然后在厨房的樱桃番茄旁说出「我爱你」——Sam 用一句「我也爱你」接住他，而读者知道这句甜蜜里还藏着一个没说出口的父亲身份。
+Devon 走进 Sam 的小房子，第一次见到 Eli，在满屋生活痕迹里放下「必须坚强」，然后在厨房的樱桃番茄旁说出「我爱你」——Sam 用一句「我也爱你」接住他，而读者知道这句甜蜜里还藏着一个没说出口的父亲身份。

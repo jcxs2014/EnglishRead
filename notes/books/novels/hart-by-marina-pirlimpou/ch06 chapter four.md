@@ -21,7 +21,7 @@ modified: "2026-11-09"
 
 **关键词**：made them for him（特意为他做的）、out-of-control sweet tooth（失控的甜食癖）、Something I hoped he’d like（希望他会喜欢的东西）
 
-**为什么这样写**：I didn’t 只有两个词，先把上一段对 Devon 说的谎一刀切开。接着三个 To 开头的短语把动机层层剥开：先是对他的甜食癖，再是「让他一天开始时有甜的」，最后落到「是我做的」——每一层都更私人。最后两句 Something I’d made. Something I hoped he’d like. 用完全相同的句式收尾，把「做」与「希望」并置；句号把每个短句切开，像在心里一件件承认。
+**为什么这样写**：I didn’t 只有两个词，先把上一段对 Devon 说的谎一刀切开。接着两个 To 开头的短语把动机层层剥开：先是对他的甜食癖，再是「让他一天开始时有甜的」，最后落到「是我做的」——每一层都更私人。最后两句 Something I’d made. Something I hoped he’d like. 用完全相同的句式收尾，把「做」与「希望」并置；句号把每个短句切开，像在心里一件件承认。
 
 **读者视角提示**：读者刚看见 Sam 对 Devon 说「我只是碰巧做了几个」，这里立刻听见他的内心版本；谎言与真话的落差让读者站到 Sam 这一边，也提前知道这份「顺手」其实是精心。
 
@@ -71,7 +71,7 @@ modified: "2026-11-09"
 
 **关键词**：I want that（我想要那个）、my favorite place（我最喜欢的地方）、I want it so much（我太想要了）
 
-**为什么这样写**：三个 I want 排比，中间夹着具体到店与零食的想象：favorite place、best sweet snacks、a walk、late evening breeze。越具体，越像已经在心里排练过；最后一句 I want it so much 用 so much 收尾，把前面所有细节压成一句渴望。作者让 Sam 在最想要的时候用最具体的日常词，而不是抽象的「幸福」。
+**为什么这样写**：四个 I want 排比，中间夹着具体到店与零食的想象：favorite place、best sweet snacks、a walk、late evening breeze。越具体，越像已经在心里排练过；最后一句 I want it so much 用 so much 收尾，把前面所有细节压成一句渴望。作者让 Sam 在最想要的时候用最具体的日常词，而不是抽象的「幸福」。
 
 **读者视角提示**：读者刚看完他说「我生了你的孩子」，紧接着就看见他想象和 Devon 逛超市、散步——这两个愿望其实是一件事：让 Devon 进入他和 Eli 的日常。越甜的想象，越让下一段的拒绝显得疼。
 

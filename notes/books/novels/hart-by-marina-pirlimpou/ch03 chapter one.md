@@ -31,7 +31,7 @@ modified: "2026-11-09"
 
 **关键词**：before I’ve heard his voice（在听见他的声音之前）、every muscle in my body tighten（全身肌肉绷紧）、with familiarity（带着熟悉）
 
-**为什么这样写**：三句都用 That 起头，像三次追加：第一句说顺序（scent before anything else），第二句说功能（tells me who it is），第三句说身体反应（every muscle tighten）。before I’ve heard his voice or looked at his face 把嗅觉放在听觉与视觉之前，等于把「认人」从感官次序的末端挪到最前；with familiarity 重复 with awareness，让警觉与熟悉并置。
+**为什么这样写**：后两句都用 That 起头，像两次追加：第一句说顺序（scent before anything else），第二句说功能（tells me who it is），第三句说身体反应（every muscle tighten）。before I’ve heard his voice or looked at his face 把嗅觉放在听觉与视觉之前，等于把「认人」从感官次序的末端挪到最前；with familiarity 重复 with awareness，让警觉与熟悉并置。
 
 **读者视角提示**：读者还不知道来者是谁，先被放进 Devon 的嗅觉里；「熟悉」二字意味着这不是陌生人。气味作为识别方式，正好接住序章里 Devon 说 I can smell you 的那套设定。
 

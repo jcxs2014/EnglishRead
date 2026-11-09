@@ -51,7 +51,7 @@ modified: "2026-11-09"
 
 **关键词**：there are rules（有规矩）、shouldn’t have happened（本不该发生）、can’t happen again（不能再发生）
 
-**为什么这样写**：Sam 用两个 I know 开头，把「规矩」与「不该」都替 Devon 说了出来；句子里全是情态动词——shouldn’t have、can’t、can’t——一层层把可能性关掉。because we work together 给出理由，mistakes or distractions 则直接引用 Colin 在第四章说过的词，说明 Sam 把公司规则听进去了，而且记得很牢。
+**为什么这样写**：Sam 用两个 I know 开头，把「规矩」与「不该」都替 Devon 说了出来；句子里全是情态动词——shouldn’t have、can’t、can’t——一层层把可能性关掉。because we work together 给出理由，mistakes or distractions 则直接引用 Colin 在 ch04 说过的词，说明 Sam 把公司规则听进去了，而且记得很牢。
 
 **读者视角提示**：读者会听出这段话不是拒绝，是铺垫：Sam 先替两人把规矩背一遍，才能在下一句说「但」。他越把规则说得完整，下一句的转折就越有分量。
 
@@ -83,7 +83,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：Keep it 两个词，先把衬衫送出去；后面的内心独白才给出理由：不是不想要，是不能穿——穿上就会想起昨晚。最后一句 What I’m fucking letting go because I can’t keep it safe 把「衬衫」与「Sam」叠在一起：keep it 既是留着衬衫，也是留住人；can’t keep it safe 是 Devon 对自己放手的解释。
 
-**读者视角提示**：读者会明白这件衬衫不只是一件衣服：它是昨晚的物证，也是 Devon 唯一能合法送出的东西。Sam 把它折好抱在怀里，等于接过了这份不能明说的意思。
+**读者视角提示**：读者会明白这件衬衫不只是一件衣服：它是昨晚的物证，也是 Devon 能送出的、不暴露关系的东西。Sam 把它折好抱在怀里，等于接过了这份不能明说的意思。
 
 > **原句 8:** "I do such a good job, I almost convince even myself."
 

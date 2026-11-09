@@ -33,7 +33,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：三句都用 like 引出 Sam 的解读，语气一句比一句确定：letting（允许）→ wanted（希望）→ needed（需要）。melting into my lead 里 lead 是「引导」，说明在那场亲密里是 Sam 在带节奏，Devon 跟着他；一个 alpha 融进 omega 的引导，这个画面本身就是反转。最后 Like he needed it 只有四个词，把「照顾」从选项变成必需。
 
-**读者视角提示**：读者会把这句和第六章 Devon 说「alpha 最恨显得软弱」并读：同一个人，在 Sam 面前允许自己软弱，而且被 Sam 读成「需要」。这份需要是两人关系真正开始对等的地方。
+**读者视角提示**：读者会把这句和ch06 Devon 说「alpha 最恨显得软弱」并读：同一个人，在 Sam 面前允许自己软弱，而且被 Sam 读成「需要」。这份需要是两人关系真正开始对等的地方。
 
 > **原句 3:** "“Hey.” An imperceptible tremble bleeds into my voice before I can stop it. “Where did you go?”"
 
@@ -83,7 +83,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：这句话是 Devon 对 Sam 那句「我留下了很多痕迹」的回应。他没有说「你不必在意」，而是用反问 Like every part of you isn’t beautiful 把 Sam 的前提推翻；exactly the way it is 是关键限定——不是「你会恢复」，不是「你以前更美」，是「现在的样子」。作者把审美标准从「恢复」改成「当下」。
 
-**读者视角提示**：读者知道 Sam 的痕迹来自怀孕与剖腹产，也知道他曾经不敢让 Devon 看见；这句话是上一章「吻疤痕」的语言版本。它之所以有分量，是因为它没有要求 Sam 改变任何东西。
+**读者视角提示**：读者知道 Sam 的痕迹来自怀孕与剖腹产，也知道他曾经不敢让 Devon 看见；这句话是ch08「吻疤痕」的语言版本。它之所以有分量，是因为它没有要求 Sam 改变任何东西。
 
 > **原句 8:** "“I remember everything.”"
 
@@ -103,7 +103,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子用 Like 开头，说明这是 Sam 的解读，不是 Devon 的宣告；afraid 把「抱得太紧」翻译成恐惧，never get to hold me again 把时间推到「以后」。上一句说雨声让他睡着，这一句说他没注意到心跳与抱法——作者用「没注意到」把读者的注意力引到 Sam 错过的东西上：Devon 的恐惧就在他怀里，他却睡着了。
 
-**读者视角提示**：读者会把这句和第一章 Devon 的「It’ll pass」、第五章的「rules I can never break」连起来：他一直在为「不能长久」做准备。结尾的甜蜜因此带着阴影——Sam 感到安全，Devon 感到倒计时。
+**读者视角提示**：读者会把这句和ch03 的「It’ll pass」与「rules I can never break」连起来：他一直在为「不能长久」做准备。结尾的甜蜜因此带着阴影——Sam 感到安全，Devon 感到倒计时。
 
 ## 本章词汇
 

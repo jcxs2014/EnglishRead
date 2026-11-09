@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 **关键词**：Impeccable suit（无可挑剔的西装）、broad shoulders（宽阔的肩膀）、eyes twinkling with obvious amusement（明显带着笑意的眼睛）、Trained on me（锁定在我身上）
 
-**为什么这样写**：这一段没有主语和动词，三个名词短语像镜头推近：先是整体姿态（leaning against the counter），再是衣着与身形（impeccable suit, broad shoulders, dark hair），最后是眼睛（eyes twinkling with obvious amusement）。Trained on me 单独成句，把「他在看我」从描述变成落点；前面都是任何人都能看见的外形，只有这一句是专门对 Sam 发生的。
+**为什么这样写**：这一段没有主语和动词，三个片段像镜头推近：先是整体姿态（leaning against the counter），再是衣着与身形（impeccable suit, broad shoulders, dark hair），最后是眼睛（eyes twinkling with obvious amusement）。Trained on me 单独成句，把「他在看我」从描述变成落点；前面都是任何人都能看见的外形，只有这一句是专门对 Sam 发生的。
 
 **读者视角提示**：读者和 Sam 一样，先看见的是一个剪影而不是一个人；名字要到后面才出现。obvious amusement 说明他已经在笑，Trained on me 说明笑的对象是 Sam——两句之间没有解释，读者自己完成「他在看我」的判断。
 

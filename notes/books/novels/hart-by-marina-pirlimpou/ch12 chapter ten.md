@@ -63,7 +63,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子用 And 承接前面的亲密场景，把焦点从身体转到照顾：hard to breathe 是生理反应，caring for me 是行为，without even knowing 是关键——Sam 的照顾不是刻意讨好，是本能。作者让 Devon 在这种「被照顾而不自知」里失控，说明他真正缺的不是欲望，是被人放在心上。
 
-**读者视角提示**：读者会想起第六章 Devon 说「alpha 最恨显得软弱」，而这里他允许 Sam 在亲密中安慰他（Hey / Okay?）。这一句是他第一次承认：被照顾比掌控更让他受不了。
+**读者视角提示**：读者会想起ch06 Devon 说「alpha 最恨显得软弱」，而这里他允许 Sam 在亲密中安慰他（Hey / Okay?）。这一句是他第一次承认：被照顾比掌控更让他受不了。
 
 > **原句 6:** "“Another alpha called you lovely, Sam. I barely kept it together long enough for Cross to leave, and for us to be alone.”"
 

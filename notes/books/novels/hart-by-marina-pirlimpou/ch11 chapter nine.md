@@ -51,9 +51,9 @@ modified: "2026-11-09"
 
 **关键词**：hanging by a thread（只剩一根线挂着）、my control is slipping（控制正在滑走）、swallow me whole（把我整个吞掉）
 
-**为什么这样写**：句子先写一个「假装」的动作（pretending I don’t want to be disturbed），再用 because I know 把假面撕开。两个 I know 并列，第二句用 hanging by a thread 给出程度；my control is slipping 是进行时，说明失控正在发生。最后 It will swallow me whole. And him. 用两个短句把后果扩大到两个人——他怕的不只是自己失控，是把她也拖进去。
+**为什么这样写**：句子先写一个「假装」的动作（pretending I don’t want to be disturbed），再用 because I know 把假面撕开。两个 I know 并列，第二句用 hanging by a thread 给出程度；my control is slipping 是进行时，说明失控正在发生。最后 It will swallow me whole. And him. 用两个短句把后果扩大到两个人——他怕的不只是自己失控，是把他拖进去。
 
-**读者视角提示**：读者会把这句和第一章他给自己立的规矩（rules I can never break）对照：同一个人，一个月前还在列清单，现在承认线快断了。And him. 三个词是全章最重的部分——他的恐惧里有 Sam。
+**读者视角提示**：读者会把这句和ch03 他给自己立的规矩（rules I can never break）对照：同一个人，一个月前还在列清单，现在承认线快断了。And him. 三个词是全章最重的部分——他的恐惧里有 Sam。
 
 > **原句 5:** "“Being around you and not touching you is torture. I need my hands on you every time you so much as smile at me.”"
 
@@ -63,7 +63,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：第一句用 Being around you and not touching you 两个动名词并列，把「在」与「不能碰」写成同时存在的状态；is torture 是判断句，没有缓冲。第二句用 every time 与 so much as 把触发条件压到最低——不需要什么大事，一个笑就够。作者让 Devon 把「需要」说得像生理反应，而不是请求。
 
-**读者视角提示**：读者记得第一章他说 Sam 的 sass「makes something purr」，第五章他还能用「只叫 Sam」来克制；到这里，克制的话术换成了坦白。这句话也是他对 Sam 那句「你是不是在躲我」的回答。
+**读者视角提示**：读者记得ch05 他说 Sam 的 sass「makes something purr」，ch07 他还能用「只叫 Sam」来克制；到这里，克制的话术换成了坦白。这句话也是他对 Sam 那句「你是不是在躲我」的回答。
 
 > **原句 6:** "I want all of you. I want to know you, and keep you, and call you mine. Because you are."
 
@@ -71,7 +71,7 @@ modified: "2026-11-09"
 
 **关键词**：all of you（全部的你）、know you, and keep you（了解你、留住你）、call you mine（叫你「我的」）
 
-**为什么这样写**：三个 I want 的结构在这里变成一句话里的三个动词：know、keep、call——从认识到留住到命名，一步一步把「想要」变成「拥有」。最后 Because you are. 只有三个词，却把前面所有愿望从「我想」改成「事实」。作者让这句话留在 Devon 的心里，没有说出口，所以它既是告白，也是独白。
+**为什么这样写**：两个 I want 的句子在这里变成一句话里的三个动词：know、keep、call——从认识到留住到命名，一步一步把「想要」变成「拥有」。最后 Because you are. 只有三个词，却把前面所有愿望从「我想」改成「事实」。作者让这句话留在 Devon 的心里，没有说出口，所以它既是告白，也是独白。
 
 **读者视角提示**：读者知道 Devon 还没对 Sam 说过「你是我的」，这句话只存在于他的内心；越肯定，越显得他不敢说。它也解释了他为什么在事后只叫出 my mate，而不是 my omega。
 
@@ -101,7 +101,7 @@ modified: "2026-11-09"
 
 **关键词**：I don’t（我不想）、I won’t（我不会）、I will do anything（我什么都愿意做）
 
-**为什么这样写**：说出口的只有 I don’t 两个词，回答的是 Sam 的「你不想停」；后面三句全在心里：I don’t want to stop. I won’t. I will do anything. 三句一句比一句短，最后一句从「停不停」跳到「什么都愿意」。作者让 Devon 只说出最小的一句，把最大的承诺留在心里——这是他的习惯，也是他的极限。
+**为什么这样写**：说出口的只有 I don’t 两个词，回答的是 Sam 的「你不想停」；后面三句全在心里：I don’t want to stop. I won’t. I will do anything. 三句都很短，最后一句从「停不停」跳到「什么都愿意」。作者让 Devon 只说出最小的一句，把最大的承诺留在心里——这是他的习惯，也是他的极限。
 
 **读者视角提示**：读者会注意到这个回答没有主语宾语，只有否定词；它不是承诺，是否认「不想停」这件事被否认。心里那句 I will do anything 则是全章最接近告白的话，可惜 Sam 听不见。
 

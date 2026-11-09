@@ -10,7 +10,7 @@ modified: "2026-11-09"
 - **一句话概括**：六个月后，Devon 在厨房里雕一只「站着的熊」，实际雕成了兔子；Sam 说 Eli 会喜欢，因为「是他爸爸做的」。两人在早餐前被 Sam 的 heat 打断，做完后 Devon 送他一件 mating gift——一块刻着小雏菊的木片，说 Sam 给了他「一个家、一个家庭、一个可以休息的安全地方」。
 - **情感弧线位置**：全书收束（尾声）：所有承诺都已落地——同居、mating mark、全家人的日常；这一章不再制造冲突，只展示「幸福如何运转」。
 - **Tropes 兑现/反转**：兑现 marking、heat、mating gift 与家庭日常；反转「alpha 送珠宝」——Devon 送的是自己刻的木雏菊；也反转「omega 只被照顾」——Sam 也在照顾 Devon 的笨拙与不安（夸他的兔子、替他挡家人的吐槽）。
-- **人物弧线**：Devon 从「我不会做木工」到亲手刻礼物，从「我不配」到说「我有幸叫你我的」；他的幸福第一次不需要理由。Sam 从「我的老板」到「我的 mate」，从接受照顾到能给出「没有你和 Eli 就没有生活」的确认。
+- **人物弧线**：Devon 从「我不会做木工」到亲手刻礼物，从「我不配」到说「我有幸叫你我的」；他的幸福不需要理由。Sam 从「我的老板」到「我的 mate」，从接受照顾到能给出「没有你和 Eli 就没有生活」的确认。
 - **叙事手法**：第一人称 Sam、现在时；场景从厨房到卧室再到床上，用「兔子/熊」的误认开场制造轻喜剧；中段用时间跳跃压缩同居过程；结尾用木雏菊与「心是一样的」收束，回到序章的气味与「one night」的回声。
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子用三个不定式解释同一个吻：reassure、soothe、claim。前两个是照顾，第三个是占有；but also 把两者并列，说明在 Devon 这里安抚与占有不是反义词。soft 与 claim 形成质感上的反差：动作很轻，意图很重。作者用这一句概括他公开吻 Sam 的双重目的。
 
-**读者视角提示**：读者会想起第一章 Colin 的「严格专业」与「前任 PA 因感情泄密」；这个在所有人面前落下的吻，等于 Devon 亲手废掉那条规矩。它既是安抚 Sam 的不安，也是向公司宣告「这是我的」。
+**读者视角提示**：读者会想起ch04 Colin 的「严格专业」与「前任 PA 因感情泄密」；这个在所有人面前落下的吻，等于 Devon 亲手废掉那条规矩。它既是安抚 Sam 的不安，也是向公司宣告「这是我的」。
 
 > **原句 3:** "He stayed over the next weekend. And the next. Until it was no longer weekends. Until he brought his life here, threaded it with mine, and made it ours."
 
@@ -41,9 +41,9 @@ modified: "2026-11-09"
 
 **关键词**：stayed over（留下过夜）、no longer weekends（不再只是周末）、made it ours（变成我们的）
 
-**为什么这样写**：句子用两个 And the next 把时间拉长，再用两个 Until 把「周末」这个单位取消：从「每个周末」到「不再是周末」，同居不是一次宣布，而是逐渐填满。threaded it with mine 用编织比喻把两个人的生活写成线；made it ours 三个词收尾，把「我的房子」改成「我们的」。
+**为什么这样写**：句子用两个 next 把时间拉长，再用两个 Until 把「周末」这个单位取消：从「每个周末」到「不再是周末」，同居不是一次宣布，而是逐渐填满。threaded it with mine 用编织比喻把两个人的生活写成线；made it ours 三个词收尾，把「我的房子」改成「我们的」。
 
-**读者视角提示**：读者会把这句和第一章 Sam 说「这是我的工作」对照：那时他努力把关系关在办公室外，现在 Devon 的生活直接搬进他家。作者用时间副词写关系的变化，不用任何「他们同居了」的宣告。
+**读者视角提示**：读者会把这句和ch04 Sam 说「这是我的工作」对照：那时他努力把关系关在办公室外，现在 Devon 的生活直接搬进他家。作者用时间副词写关系的变化，不用任何「他们同居了」的宣告。
 
 > **原句 4:** "He changed all the rules for me. He made the way his company operates safer for me, for Eli. And when he told me about everything he’d been working on behind the scenes to make sure there would be no threats for us in our future—the grueling checks on every client and activity, the phasing-out of anything remotely dangerous—I burrowed deep into his embrace and didn’t leave for a long time."
 
@@ -51,9 +51,9 @@ modified: "2026-11-09"
 
 **关键词**：changed all the rules（改掉所有规矩）、safer for me, for Eli（对我和 Eli 更安全）、no threats for us in our future（我们的未来没有威胁）
 
-**为什么这样写**：第一句用 all the rules 把改变写成彻底：不是为她破例，是为她重写规则。第二句把受益人从 me 扩展到 Eli；第三句用 behind the scenes 与 grueling checks、phasing-out 说明这些改变不是姿态，是工作。最后 Sam 的反应不是道谢，是 burrowed deep——身体先回答了安全感。
+**为什么这样写**：第一句用 all the rules 把改变写成彻底：不是为他破例，是为他重写规则。第二句把受益人从 me 扩展到 Eli；第三句用 behind the scenes 与 grueling checks、phasing-out 说明这些改变不是姿态，是工作。最后 Sam 的反应不是道谢，是 burrowed deep——身体先回答了安全感。
 
-**读者视角提示**：读者记得 Devon 的公司曾因「危险客户」害了 Angel；这里的「淘汰危险业务」是他把旧伤转成制度。Sam 的「钻进去」说明她听见的不只是保护，还有他为此付出的代价。
+**读者视角提示**：读者记得 Devon 的公司曾因「危险客户」害了 Angel；这里的「淘汰危险业务」是他把旧伤转成制度。Sam 的「钻进去」说明他听见的不只是保护，还有他为此付出的代价。
 
 > **原句 5:** "I’d never felt more connected to him than in that moment, and every single one ever since then. Mates. My mate."
 
@@ -73,7 +73,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子先用 No matter what 把工作的一切压成背景，再用破折号补上 pressure、responsibilities 两个具体项；his eyes always shine 用一个生理细节反驳「工作会消耗人」的常识。when we’re home 是条件，也是答案：家不是逃避工作的地方，是让他恢复光的地方。
 
-**读者视角提示**：读者记得第一章 Devon 的眼睛是「pale、steely」，第五章是「silver」；这里「shine」是同一个人的眼睛第一次被写成温暖的。这个变化不需要解释，读者从第一章读到这里自然知道。
+**读者视角提示**：读者记得 ch02 的 Devon 眼睛是「pale、steely」，ch06 是「silver gaze」；这里「shine」把同一双眼睛写成温暖的。这个变化不需要解释，读者从头读到这里自然知道。
 
 > **原句 7:** "It’s nothing compared to what you give me every day. The kind of happiness I never knew was possible. The privilege to call you mine.” He rubs his thumb across my freckles, his eyes suspiciously shiny, and my throat burns. “A home. A family. A safe place to rest.”"
 
@@ -83,7 +83,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：Devon 先把自己的礼物贬低（nothing compared to），再把 Sam 给他的东西列成三句：happiness、privilege、home/family/rest。privilege 是关键词——他把「拥有 Sam」说成一种被授予的权利，而不是战利品。最后三个名词短语一个比一个具体，从抽象的幸福落到「可以休息」这种身体层面的安全。
 
-**读者视角提示**：读者会把这句和第一章「rules I can never break」、第七章「我不配」连起来：同一个人，最后把「配得上」换成「有幸」。这句 gift speech 也是全书对「家」的定义：不是房子，是可以休息的地方。
+**读者视角提示**：读者会把这句和ch03「rules I can never break」、ch15「我不配」连起来：同一个人，最后把「配得上」换成「有幸」。这句 gift speech 也是全书对「家」的定义：不是房子，是可以休息的地方。
 
 > **原句 8:** "After all, his heart and mine are one and the same."
 
