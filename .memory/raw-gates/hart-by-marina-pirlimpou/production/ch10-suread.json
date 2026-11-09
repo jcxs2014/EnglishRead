@@ -1,0 +1,55 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch10",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch10_eight.txt",
+ "facts": [
+  {
+   "fact": "Sam 回到家，把 Devon 的浅蓝衬衫单独搭在椅背上，站在淋浴前迟疑——身上还留着昨夜的味道与触感，他不想把它们洗掉。",
+   "anchor": "I don’t want to wash any of it off.",
+   "start": 1373,
+   "end": 1408
+  },
+  {
+   "fact": "Sam 做早餐时反复对自己说「昨晚是好事」「我们之间拖着没解决的东西现在解决了」，用省略号停顿暴露他自己也不完全相信。",
+   "anchor": "now it’s… resolved.",
+   "start": 3264,
+   "end": 3283
+  },
+  {
+   "fact": "Sam 想到 Eli，明确决定不能告诉 Devon：对方从没要求过这种事，那会让他的生活变复杂，他不想让 Devon 觉得自己必须选择「我们」。",
+   "anchor": "I can’t tell Devon about him",
+   "start": 3982,
+   "end": 4010
+  },
+  {
+   "fact": "Devon 先拿「你欠公司一盏新台灯」开玩笑，随后承认自己根本不在乎台灯，只想确认 Sam 平安到家。",
+   "anchor": "I just wanted to make sure you got home alright.",
+   "start": 5486,
+   "end": 5534
+  },
+  {
+   "fact": "Sam 拍下自家前院晨光里的高草与小白花发给 Devon，自己也不懂为什么；他承认只是想把自己的生活分享给他。",
+   "anchor": "I just want to share it with him.",
+   "start": 6226,
+   "end": 6259
+  },
+  {
+   "fact": "Sam 问 Devon 是不是自己煮了咖啡；Devon 说咖啡「你做的时候更好喝」，Sam 回「I’ll make it for you tomorrow」，两人把「明天」说定。",
+   "anchor": "It just tastes better when you make it.",
+   "start": 6935,
+   "end": 6974
+  },
+  {
+   "fact": "Sam 接 Eli 时一直笑，Dad 一眼看穿：「You like him.」这不是问句；Sam 用「他人很好」搪塞，心里知道「like」这个词太弱。",
+   "anchor": "You like him.",
+   "start": 9935,
+   "end": 9948
+  },
+  {
+   "fact": "结尾 Sam 在门廊上抱着 Eli 读浪漫悬疑小说，同一段读了一遍又一遍，因为思绪飘到远处的办公室；他说这是自己要守住的秘密。",
+   "anchor": "that’s my secret to keep",
+   "start": 12483,
+   "end": 12507
+  }
+ ]
+}
