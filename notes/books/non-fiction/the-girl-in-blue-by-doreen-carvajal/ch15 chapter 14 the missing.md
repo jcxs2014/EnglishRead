@@ -24,7 +24,7 @@ modified: "2026-11-09"
 | Convoy 69（3-07）与 convoy, number 70（3-27）的日期序列；sixty arrests 与 roughly thirty 两个数字 | 数据／案例 | 延迟只是制度许可的上限；"拯救"从未进入选项 |
 | 三封信：Lehmann（Léon 死于 Exhaustion, they said）、Tenoudji（Fanny 死于 12-31 夜 botulism，a can of spoiled conserves；Bertrand 死于 Pneumonia.）、Hahn（Béatrice，fix the date 为 1945-01-04） | 案例／信件 | 证词给出记录没有的现场与人名，但版本互斥，"定死"全是推断 |
 | Lutetia 统计：约 16,000 幸存者经大堂；160,000 驱逐者约 48,000 归返；每日 400 to 500 a day 归来 | 数据 | 失踪与归返的人口学语法；归返者身体本身即证据（bland odor of death） |
-| France Dubonnet 口述（"A single bullet in the back as he ran for Spain through the Pyrenees"）vs intake forms／convoy lists；"MORT POUR LA FRANCE" 戳记；von Behr 与 Bunjes 自尽 | 案例／口述史 | 记忆的柔化、国家的成义、施害者的逃逸——三种对真相的回避 |
+| France Dubonnet 口述（"A single bullet in the back as he ran for Spain through the Pyrenees"）vs intake forms／convoy lists；"MORT POUR LA FRANCE" 戳记；von Behr 与 Bunjes 自尽 | 案例／口述史 | 记忆的柔化、国家的成义、施害者的逃逸——三种对真相的回避。搜寻主体另有其人：表亲 Irène Anspach 在 83 Avenue Foch 志愿访谈数百归返者（"All the information that was given to me corresponded"），Messelet 馆长 little he would or could do；Colette 的大巴反抗（"Seventeen escaped, but forty others stayed behind"） |
 
 **论证脉络**：起（1945 年报纸启事——失踪者作为小字）→ 回叙（1944-02-07 Irène 闯警察总部：恳求、撒谎、备忘录、铅笔告发）→ 驱逐日期（Convoy 69/70 与城堡窗玻璃）→ 光复与归来（营门打开、Gare d'Orsay、Lutetia 统计与气味）→ 证词碎片（三封信定四桩死；"A fiction of precision"）→ 空白与家族版（Irène 的记录空白；France 的柔和 Bertrand）→ 成义与逃逸（MORT POUR LA FRANCE；Colette 逃脱、von Behr 与 Bunjes 自尽）→ 落点（画重新沉入黑暗）。
 

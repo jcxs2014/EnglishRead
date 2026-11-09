@@ -21,10 +21,10 @@ modified: "2026-11-09"
 |---|---|---|
 | Drancy：>70,000 人经过（1941–1944）；距两个火车站十分钟，铁路直通 Auschwitz | 案例／数据 | 中转营的工业效率： sorting → holding → transport |
 | Béatrice 改宗无效；登记卡预打代码"不得释放"；Göring："谁是犹太人由我决定" | 文献／引语 | 身份由种族定义而非信仰；改宗策略彻底失效 |
-| Marya Freund："我什么都不是"；Béatrice 削土豆、扫地板；营内讲座（诗歌、音乐、医学） | 口述／案例 | 身份被剥除但文化抵抗存续；"不可能的高雅社会" |
+| Marya Freund："我什么都不是"；Béatrice 削土豆、扫地板、在保育室看护被抢来的婴儿——无名男婴被登记为 Bébé Terroriste；Fanny 循一战前辈之例任护士；营内讲座（诗歌、音乐、医学） | 口述／案例 | 身份被剥除但文化抵抗存续；"不可能的高雅社会"；婴儿被比附"从水中救起的摩西" |
 | Brunner（1943-06-18 到任）：两堆纸判刑；Nice 突袭（街上脱裤检查割礼）；2,500/25,000 | 案例 | 驱逐的加速与任意性；"割礼即判决" |
-| 全家 Category III（1943-07-13）；Prade/Brinon 的营救；柏林拒绝（"让事情搁置"） | 案例／文献 | 人脉可以延迟但不能拯救；"某物就是一切" |
-| 地道计划（Staircase 21）；"希望成为他们的抵抗" | 案例 | 对"已写好的抹除"的主动拒绝 |
+| 全家 Category III（1943-07-13）；Prade/Brinon 的营救（Prade 提出 20+ 次释放请求）；柏林 IVJ 拒绝（"让事情搁置"）；而 Camondo 博物馆馆长 Messelet 对 Béatrice 递解"seemed utterly indifferent"、meticulous diaries 一字未记；Knochen 常坐丽兹"Table of Treason"，Dubonnet 80% 营收来自德国合同 | 案例／文献 | 人脉可以延迟但不能拯救；"某物就是一切"；救援网络与冷漠机构、通敌沙龙同代共存 |
+| 地道计划（Staircase 21）；"希望成为他们的抵抗" | 案例 | 对"已写好的抹除"的主动拒绝；同月 Brunner 的"两堆纸"名单押走 Jeanne Montefiore（"barbed wire grandma"，1943-07 死于 Auschwitz），伪造证件的 Allatini 夫妇 1943 年初死于 Auschwitz——救助者与叙述者同被点名 |
 
 **论证脉络**：引入（Béatrice/Fanny 到达 Drancy）→ 身份缩减（谱系图、改宗无效）→ 营内生活（Radio Chiottes、讲座、职务换延迟）→ Léon/Bertrand 到达 → Brunner 接管（判刑仪式、加速驱逐）→ 营救与延迟（Category III）→ 落点（地道计划、"希望成为抵抗"）。
 

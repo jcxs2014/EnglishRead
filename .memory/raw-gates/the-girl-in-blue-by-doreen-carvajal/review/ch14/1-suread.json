@@ -1,0 +1,120 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "fact": "1943年9月13日盖世太保逮捕罗伯特·马努埃尔；被关进德兰西（Drancy）后，这位康波尼·法兰西兹演员与莱昂被悄悄拉入越狱阴谋——地道由营内犹太律师、France-Tireur 抵抗网络成员安德烈·于尔莫提议，计划从犹太指挥官办公室下的地下室向若雷斯大道（Avenue Jean Jaurès）一处防空掩体挖约 118 英尺。",
+      "start": 250,
+      "end": 310,
+      "quote": "It was September 13, 1943, when the Gestapo arrested Manuel."
+    },
+    {
+      "fact": "招募志愿者最迟于1943年9月10日已秘密展开；9月15日开工，先挖在犹太营指挥官罗伯特·布卢姆的行政办公室下——布卢姆知情、只抱怨铲桶的叮当声；工程三班倒、每班20人、全天24小时，营内药剂师以 oxylyth 加水制氧供地道呼吸。",
+      "start": 2431,
+      "end": 2633,
+      "quote": "By September 15, they had begun, digging first under the administrative office of the Jewish camp commander Robert Blum, who knew of the plot and complained about the clatter of their shovels and pails."
+    },
+    {
+      "fact": "285名掌管营内犹太事务局的囚犯中有70人知晓越狱计划，全体冒着酷刑、家人遭报复、驱逐与死亡的风险；身为楼梯长（chef d’escalier）的莱昂可自由走动并从车库取得建材，吉内特·阿佩尔的社工办公室供蓝色工装以掩盖泥土。",
+      "start": 5643,
+      "end": 5752,
+      "quote": "Of the 285 prisoners who managed the camp’s Jewish service administration, 70 were aware of the escape plans."
+    },
+    {
+      "fact": "11月11日——原定出逃前两天、一战停战纪念日——警示灯连闪三下，恐慌蔓延、挖工夺路而逃，地道终止于离地表仅十英尺处，“大幻影”破灭。",
+      "start": 6818,
+      "end": 6888,
+      "quote": "And then the lights flashed. Three short bursts. Their warning system."
+    },
+    {
+      "fact": "获告密的布鲁纳从尼斯急返；他折磨挖工亨利·施瓦尔茨——后者仓皇逃离时落下标有姓名的工作服——却只榨出十四个名字，认定同谋更多；他把十四人押到地下室墙前递烟、枪口抵头，嘴上赞“没想到犹太人能建地道”，因还要更多名字而未开枪。",
+      "start": 7332,
+      "end": 7452,
+      "quote": "He had tortured one of the diggers, Henri Schwartz, who had left his work clothes behind in the rush to flee the tunnel."
+    },
+    {
+      "fact": "1943年11月20日，65名营管理层囚犯——楼梯长、医生、护士与安保主管兼主任罗伯特·布卢姆——被押上下一趟 convoy，囚犯称之为“地道驱逐”（Tunnel Deportation）；同车有莱昂与子女贝特朗、法妮，贝阿特丽丝被留下。",
+      "start": 7969,
+      "end": 8197,
+      "quote": "Sixty-five Jewish prisoners who were part of the prison’s envied camp administration—staircase chiefs, doctors, nurses, the camp’s security chief and director, Robert Blum—were forced aboard the next convoy on November 20, 1943."
+    },
+    {
+      "fact": "在博比尼车站，一名营内犹太警察把浸水桶的锯片塞进6号棚车；水浸锯啃不动外包木板的横栏后，前橄榄球员格施尔兄弟徒手扳断铁栏；19人自6号车逐个跳车逃生，首跳的罗杰为搀扶曾被布鲁纳酷刑、腿上中枪的兄弟；马努埃尔因事发前数日被转走未在该车上，后在奥斯特里茨车站邮件分拣段终于脱身。",
+      "start": 12446,
+      "end": 12497,
+      "quote": "One by one, nineteen of them in wagon No. 6 jumped."
+    },
+    {
+      "fact": "1943年11月23日抵达奥斯维辛；选别（Selektion）当天不是惯例主持的党卫队医生——门格勒，另一医生左右分流；241名男子与45名女子被挑去做苦役，其余近900人（含150名儿童）被 Zyklon B 毒气杀害；莱昂、贝特朗、法妮因更健壮、德语流利或出身显名而幸存，被剃洗消毒刺青——贝特朗编号 164608。",
+      "start": 15983,
+      "end": 16174,
+      "quote": "Among the group in the convoy, 241 men and 45 women were picked for forced labor. The remaining almost 900 people, including 150 children, were murdered in the camp gas chamber with Zyklon B."
+    }
+  ],
+  "relationships": [
+    "罗伯特·马努埃尔：康波尼·法兰西兹（Comédie Française）演员，犹太血统、天主教受洗、法国为心；地道挖工之一；事发前数日被转走，先劳役营后奥斯特里茨车站分拣邮件，最终逃脱。",
+    "莱昂：楼梯长（chef d’escalier）、作曲家，阴谋核心；贝特朗与法妮之父；随11月20日报复驱逐被押，奥斯维辛幸存并刺青。",
+    "贝阿特丽丝：吉内特·阿佩尔的室友；本章未直陈她与莱昂的亲缘，家人被押时她“仍以某种方式受保护”被留下。",
+    "伊蕾娜：贝特朗唯一之祖母（文本仅以此身份出现）。",
+    "贝特朗：伊蕾娜独孙、莱昂之子；破晓登车时死抓管道栏杆拒走、遭德军毒打；奥斯维辛刺青号 164608。",
+    "法妮：莱昂之女，与父兄同押、同幸存。",
+    "阿洛伊斯·布鲁纳：德兰西德军指挥官，改造营地、重组日夜警卫；事发后自尼斯回营施刑、发动“地道驱逐”；战后流亡叙利亚并向他人传授酷刑——1961年信箱炸弹夺左眼、1980年9月两枚包裹炸弹断其左手四指炸死两名邮差；约2001年死于大马士革地下室，1985年仍对新纳粹撰稿人称不悔。",
+    "安德烈·于尔莫：犹太律师、France-Tireur 抵抗网络成员、营行政官僚——地道计划提议者。",
+    "罗伯特·布卢姆：营的犹太指挥官兼主任、安保主管；知情地道而抱怨噪音；随65人报复驱逐被押。",
+    "吉内特·阿佩尔：贝阿特丽丝室友；其社工办公室供蓝工装；战后称莱昂卷入阴谋。",
+    "亨利·施瓦尔茨：挖工，逃离时遗落工作服，遭布鲁纳酷刑，供出名单止于十四人。",
+    "罗杰·尚达卢瓦：楼梯长、阴谋成员，跳车计划策划者；巴斯克贝雷帽塞报纸护头。",
+    "罗杰·格施尔／乔治·格施尔：兄弟、前橄榄球运动员；徒手破栏，罗杰首跳搀扶腿部中枪的兄弟。",
+    "扬克尔·齐夫曼：34岁波兰裁缝，入德兰西仅九天；其窗内抛出之信唯一送达。",
+    "西吉斯蒙德·希尔施：巴黎医生、抵抗者、卡昂·唐维尔（Cahen d’Anvers）家的朋友；旧助手来刺青前仅剩几分钟示警。",
+    "贝尔特·希尔施：希尔施之妻，37岁，选别被指向左列（死）。",
+    "约瑟夫·门格勒：奥斯维辛首席医生、惯例选别执行者；11月23日当天由另一党卫队医生代行。",
+    "西蒙·维斯尔（Wiesenthal）：追踪战犯，称布鲁纳为1980年代在世者中“无疑最恶劣”。",
+    "马德莱娜·莱维：抵抗者、阿尔弗雷德·德雷福斯上尉最宠爱的孙女；死于该 convoy。",
+    "雅克·埃尔布伦纳与妻让：显赫律师夫妇、莫伊兹·卡蒙多“百人俱乐部”年度晚宴常客；死于该 convoy。",
+    "昂丽·比里：23岁、法国抵抗者，回忆62号 convoy 抵达如“但丁式”景象。",
+    "让·雷诺阿：其1937年电影《大幻影》为马努埃尔与挖工的精神源头（口头禅“You have to do something”）。"
+  ],
+  "numbers": [
+    "Autumn 1943",
+    "September 13, 1943",
+    "nearly twenty-seven",
+    "About 118 feet",
+    "September 10, 1943",
+    "September 15",
+    "Three shifts. Twenty men each. Twenty-four hours a day.",
+    "published in 1975",
+    "classic 1937 French film",
+    "285 prisoners",
+    "70 were aware",
+    "fifty-six days",
+    "November 11",
+    "ten feet from the surface",
+    "only fourteen men",
+    "Sixty-five Jewish prisoners",
+    "November 20, 1943",
+    "More than 1,200",
+    "Convoy 62",
+    "wagon, No. 6",
+    "thirty-four",
+    "nine days",
+    "nineteen of them",
+    "three days",
+    "November 23, 1943",
+    "about 2 am",
+    "1,200 people",
+    "twenty-three",
+    "241 men and 45 women",
+    "almost 900 people",
+    "150 children",
+    "Zyklon B",
+    "the 1890s",
+    "Club One Hundred",
+    "In 1961",
+    "In September 1980",
+    "by the 1980s",
+    "likely in 2001",
+    "in 1985",
+    "Number 164608",
+    "thirty-seven"
+  ]
+}

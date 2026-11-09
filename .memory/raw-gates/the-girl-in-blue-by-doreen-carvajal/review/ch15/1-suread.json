@@ -1,0 +1,635 @@
+{
+  "chapter": "ch15",
+  "facts": [
+    {
+      "fact": "May 31, 1945: the family's search goes public in the back pages of Paris-Presse and France-Soir — an 'Appeal to returnees of Auschwitz' asking for news good or bad of Béatrice Reinach, deported from Drancy, and, directly above it, an appeal placed by Irène Cahen d'Anvers under the name Countess Sampieri (75 rue de la Tour, phone TRO. 07-81) for information about her missing younger sister Élisabeth, aged sixty-nine.",
+      "start": 518,
+      "end": 802,
+      "quote": "Directly above it, another ad. This one gave an address for Countess Sampieri on 75 rue de la Tour and a phone number: TRO. 07-81. The number belonged to Irène Cahen d’Anvers. The message asked for information about her younger sister Élisabeth—“Elisa Betty”—aged sixty-nine, missing."
+    },
+    {
+      "fact": "On the morning of January 27, 1944 a black Citroën Traction Avant slid to a stop beside the house at Clôteau de Maupertuis and the Germans took Élisabeth — targeted, somehow, on information from the village's aristocratic mayor, a close friend and ally of Xavier Vallat, the former antisemitic leader of the Commissariat-General for Jewish Affairs; no one had warned Élisabeth, although a relative had sent Sonia a coded warning about arrests.",
+      "start": 5037,
+      "end": 5429,
+      "quote": "But no one warned Élisabeth. On the morning of January 27, 1944, a black Citroën Traction Avant—a low-slung car built for speed and menace, the kind favored by gangsters and the Gestapo—slid to a stop beside the house at Clôteau de Maupertuis. Somehow the Germans had targeted Élisabeth, with information from the village’s aristocratic mayor, who was a close friend and ally of Xavier Vallat"
+    },
+    {
+      "fact": "February 7, 1944: Irène, seventy-one, deliberately leaves her hiding place on rue de la Tour and goes to the préfecture de police (36 quai des Orfèvres) to try to save her sister — she pleads, lies, insists Élisabeth is not Jewish, gives her old home address, invents a different lineage, claims the Morpurgos were Catholic, gambling on the trick that had got her declared 'non-Jewish' in 1941.",
+      "start": 8704,
+      "end": 9117,
+      "quote": "On February 7, 1944, Irène made her way to the prefecture. She pleaded. She lied. Her heart beat violently. She insisted her sister was not Jewish and gave her old home address. Invented a different lineage. Claimed the Morpurgos, her mother’s line, were Catholic. It had worked once before—in 1941, she had been declared “non-Jewish” with a certificate from the very institution built to monitor and destroy her."
+    },
+    {
+      "fact": "The prefect, Amédée Bussière, holds her gaze long enough to answer on paper — observing that Élisabeth had taken no steps to be recognized as non-Jewish although baptized June 8, 1895 with two Aryan grandparents and therefore 'entitled to have her situation reviewed' — and issues a memo that is absorbed into the bureaucracy carrying a penciled instruction, 'Alert the German police.' The appeal bought delay only: Élisabeth was the sole one of roughly thirty Sarthe prisoners not deported right away, while Marguerite Aron left within days on Convoy 68.",
+      "start": 9567,
+      "end": 9794,
+      "quote": "He issued a memo that was absorbed into the bureaucracy, where a plea for a sister became a file. Across the memo, frayed and yellow now with brown blotches, is a penciled note in sloping handwriting: “Alert the German police.”"
+    },
+    {
+      "fact": "Nothing followed the paperwork — Élisabeth 'should have been saved', she had the baptismal certificate and the technicalities: Béatrice was put on the train first, March 7, 1944, Convoy 69, and Élisabeth twenty days later, on March 27.",
+      "start": 10087,
+      "end": 10340,
+      "quote": "Élisabeth should have been saved. She had the paperwork. She had the baptismal certificate from 1895, the technicalities. But nothing followed. Béatrice was put on the train first—March 7, 1944, Convoy 69. Then Élisabeth, twenty days later, on March 27."
+    },
+    {
+      "fact": "Élisabeth's end survives only as an archival number: the record of convoy 70 with a thousand passengers from Drancy, arrival at Auschwitz March 30, and an official death date of April 15 that the author refuses as 'a fiction of precision' — it cannot be known whether she died then, earlier on the train, or suffered longer.",
+      "start": 19872,
+      "end": 20119,
+      "quote": "And about Élisabeth—Irène’s sister—there was only the record of a convoy, number 70, with a thousand passengers from Drancy. They arrived at Auschwitz March 30. The official record offers Élisabeth’s death date on April 15. A fiction of precision."
+    },
+    {
+      "fact": "Irène Anspach, Béatrice's cousin, keeps searching after the Liberation: she writes to officials on January 27, 1945, once the gates of Auschwitz opened under Russian hands, offering to pay to maximize the search; on June 9, 1945 she gets more than an hour with Camondo museum director Jean Messelet, who would or could do little and never wrote a word in his leather agendas about Béatrice's imprisonment and deportation, while the classifieds under Recherche swell with names and tattoo numbers; from May to September 1945 Anspach volunteers at the new Ministère des prisonniers et déportés (83 Avenue Foch), interviewing hundreds of survivors and collecting testimonies on Béatrice, Fanny and Bertrand that 'all corresponded.'",
+      "start": 11749,
+      "end": 12016,
+      "quote": "Irène Anspach never relented. On the 27th of January 1945—after the gates of Auschwitz opened under Russian hands—she wrote to officials. She became practical: “If it is necessary to give money to maximize the search, tell me the amount necessary and I will send it.”"
+    },
+    {
+      "fact": "On June 3, 1946 Germaine Hahn writes down what she had carried in silence for more than a year — that she had worked beside Béatrice every day in a V-1 bomb factory and that Béatrice had confided that both her children were already gone — and fixes the death: '800 deportees, including Madame Béatrice de Camondo, passed to the crematorium ovens... January 4, 1945,' twenty-three days before someone unlocked the gates of Auschwitz.",
+      "start": 19529,
+      "end": 19869,
+      "quote": "“With the approach of the Russians,” Germaine Hahn wrote, “800 deportees, including Madame Béatrice de Camondo, passed to the crematorium ovens. I think I can fix the date of her death as January 4, 1945.” She was murdered just before the Liberation of Auschwitz. Twenty-three days before someone unlocked the gates and found what was left."
+    }
+  ],
+  "relationships": [
+    {
+      "rel": "Irène Cahen d'Anvers (hiding as Countess Sampieri) → Élisabeth: elder sister searching for her younger, 'the innocent blonde in Renoir's double portrait', the one in the blue sash.",
+      "start": 649,
+      "end": 762,
+      "quote": "The number belonged to Irène Cahen d’Anvers. The message asked for information about her younger sister Élisabeth"
+    },
+    {
+      "rel": "Irène → Béatrice: her daughter, still at Drancy fearing the train; and to Léon her son-in-law and Fanny and Bertrand her grandchildren, already deported.",
+      "start": 7158,
+      "end": 7227,
+      "quote": "Her daughter Béatrice was still at Drancy, fearing the train to come."
+    },
+    {
+      "rel": "Irène → Irène Anspach: a younger relative, Béatrice's cousin, her ally in monitoring radio reports, posted lists and newspaper notices.",
+      "start": 1158,
+      "end": 1248,
+      "quote": "Irène and a younger relative, Irène Anspach, Béatrice’s cousin, listened for other sounds."
+    },
+    {
+      "rel": "Élisabeth → Étienne Foucault and Marguerite: her chauffeur (his wife her cook and housekeeper), who sheltered her for years in the cottage at Juigné-sur-Sarthe.",
+      "start": 2892,
+      "end": 2988,
+      "quote": "sheltered by Étienne Foucault, her chauffeur, and his wife Marguerite, her cook and housekeeper."
+    },
+    {
+      "rel": "Élisabeth → Philippe de Forceville: her only son, a Resistance officer fluent in three languages, soon aide-de-camp to General George S. Patton, who in five months would command the Third United States Army in France.",
+      "start": 8460,
+      "end": 8624,
+      "quote": "Surely they knew her son was Philippe de Forceville, a Resistance officer, fluent in three languages, soon to be at General George S. Patton’s side as aide-de-camp."
+    },
+    {
+      "rel": "Élisabeth → Raymond Dubois: prominent sculptor and next-door neighbor who watched the car speed away and regretted it for the rest of his life; → Marguerite Aron, seventy, her close friend, arrested in the same raid.",
+      "start": 5900,
+      "end": 6017,
+      "quote": "Dubois—a prominent sculptor and Élisabeth’s next-door neighbor—regretted that he had not been able to sound an alarm."
+    },
+    {
+      "rel": "Élisabeth → Sonia Cahen d'Anvers: sister-in-law (Robert's widow), also in her sixties, lodged nearby at Sablé-sur-Sarthe posing as an English teacher, 'Madame Robert'.",
+      "start": 3809,
+      "end": 3897,
+      "quote": "her sister-in-law, Sonia Cahen d’Anvers—Robert’s widow—also in her sixties, lived nearby"
+    },
+    {
+      "rel": "Irène → Amédée Bussière: the powerful functionary inside the French police prefecture who helped carry out the 1942 roundup of more than 13,000 Jews, and whom she nevertheless dared to appeal to.",
+      "start": 7851,
+      "end": 7950,
+      "quote": "There Irène turned to a powerful functionary inside the French police prefecture—to Amédée Bussière"
+    },
+    {
+      "rel": "Béatrice → Fanny and Bertrand Reinach: her children, whose deaths she had already confided to Germaine Hahn while they worked side by side in Birkenau.",
+      "start": 18927,
+      "end": 19030,
+      "quote": "Béatrice had confided to her that both her children were already gone. Fanny. Bertrand. Months earlier."
+    },
+    {
+      "rel": "Irène → France Dubonnet: granddaughter, 'the one who outlived them all', who passed the softened family version down to the Italian writer Filippo Tuena before dying in 2018.",
+      "start": 20630,
+      "end": 20744,
+      "quote": "France Dubonnet—Irène’s granddaughter, the one who outlived them all—offered the softened version of what happened"
+    },
+    {
+      "rel": "Irène → Colette Cahen d'Anvers (niece), one of those not supposed to survive, and her husband Count Armand de Dampierre, arrested for resistance work and dead in a cattle car for Lublin.",
+      "start": 22403,
+      "end": 22611,
+      "quote": "Her husband, Count Armand de Dampierre, a Protestant aristocrat who had been arrested for his resistance work, died in January 1944, somewhere in a sealed cattle car bound for Lublin, in the arms of a friend."
+    },
+    {
+      "rel": "Baron Kurt von Behr → the Cahen d'Anvers family: the Nazi bureaucrat who persecuted them relentlessly, presided over the murky swap of La Petite Irène, and ran the Rosenberg plunder whose files he tried to trade at Schloss Banz.",
+      "start": 22224,
+      "end": 22400,
+      "quote": "on the last orders of Baron Kurt von Behr, the Nazi bureaucrat who had persecuted the Cahen d’Anvers family so relentlessly and presided over the murky swap of La Petite Irène."
+    },
+    {
+      "rel": "Philippe de Rothschild → another Élisabeth: linked by family to the Cahen d'Anvers, he went to the Hôtel Lutetia looking for his former wife, held at Ravensbrück after refusing to sit beside the German ambassador's wife.",
+      "start": 15683,
+      "end": 15821,
+      "quote": "Philippe de Rothschild, whose family was linked to the Cahen d’Anvers family, went to the Hôtel Lutetia to find his former wife, Élisabeth"
+    },
+    {
+      "rel": "Jean Messelet, Camondo museum director, held the keys to Béatrice's past, was arrested September 1944 on suspicion of collaboration, and left no agenda entry about her deportation.",
+      "start": 12436,
+      "end": 12554,
+      "quote": "He held the keys to Béatrice’s past, to a house that had once echoed with voices, light, the laughter of her children."
+    }
+  ],
+  "numbers": [
+    {
+      "n": "chapter dateline / notice date",
+      "start": 84,
+      "end": 115,
+      "quote": "May 31, 1945, a notice appeared"
+    },
+    {
+      "n": "crossword clue the notice sits past",
+      "start": 210,
+      "end": 239,
+      "quote": "five across: threatening ruin"
+    },
+    {
+      "n": "Élisabeth's age in the ad",
+      "start": 777,
+      "end": 801,
+      "quote": "aged sixty-nine, missing"
+    },
+    {
+      "n": "Liberation of Paris (first mention)",
+      "start": 1056,
+      "end": 1120,
+      "quote": "Liberation of Paris, August 25, 1944, the city filled with noise"
+    },
+    {
+      "n": "Liberation of Paris (second mention)",
+      "start": 10764,
+      "end": 10802,
+      "quote": "Paris was liberated on August 25, 1944"
+    },
+    {
+      "n": "Irène leaves hiding (first mention)",
+      "start": 2003,
+      "end": 2071,
+      "quote": "that day, February 7, 1944, when Irène finally left her hiding place"
+    },
+    {
+      "n": "Irène at the prefecture (second mention)",
+      "start": 8704,
+      "end": 8761,
+      "quote": "On February 7, 1944, Irène made her way to the prefecture"
+    },
+    {
+      "n": "Élisabeth vanishes into the Sarthe",
+      "start": 2787,
+      "end": 2833,
+      "quote": "In 1939, Élisabeth disappeared into the Sarthe"
+    },
+    {
+      "n": "arrest date",
+      "start": 5066,
+      "end": 5117,
+      "quote": "On the morning of January 27, 1944, a black Citroën"
+    },
+    {
+      "n": "roundup total",
+      "start": 5838,
+      "end": 5872,
+      "quote": "sixty arrests on January 26 and 27"
+    },
+    {
+      "n": "Aron's age",
+      "start": 6094,
+      "end": 6140,
+      "quote": "seventy, part of an intellectual Jewish family"
+    },
+    {
+      "n": "German reply on age",
+      "start": 6376,
+      "end": 6402,
+      "quote": "We take up to 80 years old"
+    },
+    {
+      "n": "Sonia's conversion",
+      "start": 4057,
+      "end": 4092,
+      "quote": "joining the Anglican Church in 1920"
+    },
+    {
+      "n": "Foucault as steward since",
+      "start": 6446,
+      "end": 6474,
+      "quote": "her loyal steward since 1924"
+    },
+    {
+      "n": "arrival at Drancy / staircase",
+      "start": 7260,
+      "end": 7333,
+      "quote": "She arrived at Drancy on January 30, 1944, and was placed in Staircase 8."
+    },
+    {
+      "n": "Irène's age at the threshold",
+      "start": 7503,
+      "end": 7527,
+      "quote": "She was now seventy-one."
+    },
+    {
+      "n": "prefecture address",
+      "start": 7734,
+      "end": 7754,
+      "quote": "36 quai des Orfèvres"
+    },
+    {
+      "n": "1942 roundup size",
+      "start": 8004,
+      "end": 8025,
+      "quote": "more than 13,000 Jews"
+    },
+    {
+      "n": "Élisabeth's file category",
+      "start": 8370,
+      "end": 8435,
+      "quote": "the same spidery ink that marked her as C4: nondeportable for now"
+    },
+    {
+      "n": "Patton's army, in five months",
+      "start": 8625,
+      "end": 8701,
+      "quote": "In five months, Patton would command the Third United States Army in France."
+    },
+    {
+      "n": "baptism date",
+      "start": 9419,
+      "end": 9443,
+      "quote": "baptized on June 8, 1895"
+    },
+    {
+      "n": "grandparents claimed",
+      "start": 9460,
+      "end": 9482,
+      "quote": "two Aryan grandparents"
+    },
+    {
+      "n": "Sarthe roundup cohort size",
+      "start": 9872,
+      "end": 9931,
+      "quote": "out of roughly thirty people swept up in the Sarthe roundup"
+    },
+    {
+      "n": "Aron's convoy",
+      "start": 10054,
+      "end": 10083,
+      "quote": "gone within days on Convoy 68"
+    },
+    {
+      "n": "Béatrice's convoy",
+      "start": 10231,
+      "end": 10292,
+      "quote": "Béatrice was put on the train first—March 7, 1944, Convoy 69."
+    },
+    {
+      "n": "Élisabeth's delay",
+      "start": 10293,
+      "end": 10340,
+      "quote": "Then Élisabeth, twenty days later, on March 27."
+    },
+    {
+      "n": "castle windows shattered",
+      "start": 10341,
+      "end": 10414,
+      "quote": "Two days later the windows of the family’s old castle in Champs-sur-Marne"
+    },
+    {
+      "n": "Papillon executed, same month",
+      "start": 10902,
+      "end": 10948,
+      "quote": "In that same month, a man nicknamed “Papillon”"
+    },
+    {
+      "n": "Wolfin tattoo number",
+      "start": 13776,
+      "end": 13814,
+      "quote": "Bernard Paul Wolfin, A12.066, left arm"
+    },
+    {
+      "n": "seen at Lutetia window",
+      "start": 13850,
+      "end": 13877,
+      "quote": "between June 10 and July 10"
+    },
+    {
+      "n": "Auschwitz opened, January 1945",
+      "start": 13890,
+      "end": 13936,
+      "quote": "the camps had opened—Auschwitz in January 1945"
+    },
+    {
+      "n": "Anspach's letter",
+      "start": 11779,
+      "end": 11835,
+      "quote": "On the 27th of January 1945—after the gates of Auschwitz"
+    },
+    {
+      "n": "Camondo meeting",
+      "start": 12268,
+      "end": 12321,
+      "quote": "on the morning of June 9, 1945, for more than an hour"
+    },
+    {
+      "n": "requisition attempts",
+      "start": 12555,
+      "end": 12610,
+      "quote": "The Germans tried five times to requisition the mansion"
+    },
+    {
+      "n": "Messelet arrested",
+      "start": 12705,
+      "end": 12761,
+      "quote": "arrested in September 1944 on suspicion of collaboration"
+    },
+    {
+      "n": "Messelet released",
+      "start": 12937,
+      "end": 12973,
+      "quote": "released after three weeks in prison"
+    },
+    {
+      "n": "agenda embossed year",
+      "start": 12832,
+      "end": 12881,
+      "quote": "little brown leather agenda embossed with “1944.”"
+    },
+    {
+      "n": "Lutetia throughput",
+      "start": 14738,
+      "end": 14822,
+      "quote": "From April through September 1945, about 16,000 survivors passed through that lobby."
+    },
+    {
+      "n": "deportees from France / repatriated / Lutetia share",
+      "start": 14897,
+      "end": 14973,
+      "quote": "roughly 160,000, of whom about 48,000 were repatriated, and nearly one-third"
+    },
+    {
+      "n": "returnees seen daily at Raspail",
+      "start": 16621,
+      "end": 16637,
+      "quote": "400 to 500 a day"
+    },
+    {
+      "n": "Anspach ministry period and address",
+      "start": 16751,
+      "end": 16883,
+      "quote": "From May to September 1945, Irène Anspach worked as a volunteer for the new Ministère des prisonniers et déportés at 83 Avenue Foch."
+    },
+    {
+      "n": "Fanny deported",
+      "start": 17309,
+      "end": 17366,
+      "quote": "Fanny, they said, had been deported on November 20, 1943."
+    },
+    {
+      "n": "Fanny died",
+      "start": 17367,
+      "end": 17431,
+      "quote": "She died a few weeks later, at the end of December at Auschwitz."
+    },
+    {
+      "n": "Bertrand died",
+      "start": 17467,
+      "end": 17491,
+      "quote": "March, maybe April 1944."
+    },
+    {
+      "n": "Léon died",
+      "start": 17515,
+      "end": 17587,
+      "quote": "By early May, Léon had also died of exhaustion in a hospital in Birkenau"
+    },
+    {
+      "n": "Tenoudji note date",
+      "start": 17857,
+      "end": 17883,
+      "quote": "a note dated June 21, 1945"
+    },
+    {
+      "n": "Tenoudji saw Fanny",
+      "start": 17931,
+      "end": 17965,
+      "quote": "twice in Birkenau in December 1943"
+    },
+    {
+      "n": "Fanny's death night / cause",
+      "start": 18040,
+      "end": 18091,
+      "quote": "She died on the night of December 31, from botulism"
+    },
+    {
+      "n": "Hahn's letter date",
+      "start": 18430,
+      "end": 18497,
+      "quote": "On June 3, 1946, Germaine sat down to write to Irène Cahen d’Anvers"
+    },
+    {
+      "n": "Hahn deported",
+      "start": 18565,
+      "end": 18607,
+      "quote": "deported from Chaumont on January 20, 1944"
+    },
+    {
+      "n": "interned at Birkenau",
+      "start": 18613,
+      "end": 18661,
+      "quote": "interned at Birkenau beginning in early February"
+    },
+    {
+      "n": "Sonderkommando mutiny",
+      "start": 19500,
+      "end": 19525,
+      "quote": "that had mutinied in 1944"
+    },
+    {
+      "n": "Béatrice's death figure and date",
+      "start": 19588,
+      "end": 19733,
+      "quote": "800 deportees, including Madame Béatrice de Camondo, passed to the crematorium ovens. I think I can fix the date of her death as January 4, 1945."
+    },
+    {
+      "n": "gap to Auschwitz liberation",
+      "start": 19793,
+      "end": 19844,
+      "quote": "Twenty-three days before someone unlocked the gates"
+    },
+    {
+      "n": "Élisabeth's convoy, arrival, official death",
+      "start": 19946,
+      "end": 20095,
+      "quote": "number 70, with a thousand passengers from Drancy. They arrived at Auschwitz March 30. The official record offers Élisabeth’s death date on April 15."
+    },
+    {
+      "n": "France Dubonnet's death",
+      "start": 20868,
+      "end": 20894,
+      "quote": "Before France died in 2018"
+    },
+    {
+      "n": "Dampierre's death",
+      "start": 22514,
+      "end": 22585,
+      "quote": "died in January 1944, somewhere in a sealed cattle car bound for Lublin"
+    },
+    {
+      "n": "last German withdrawal / 2 a.m.",
+      "start": 22774,
+      "end": 22859,
+      "quote": "withdrawal from Paris on August 7, 1944. Five days later, she was roused at 2:00 a.m."
+    },
+    {
+      "n": "bus load and speed",
+      "start": 23046,
+      "end": 23194,
+      "quote": "Sixty prisoners were packed into each, then they were driven through the dark Paris neighborhood along Boulevard Saint-Martin at fifty miles an hour"
+    },
+    {
+      "n": "escape arithmetic",
+      "start": 23999,
+      "end": 24116,
+      "quote": "Seventeen escaped, but forty others stayed behind, bound for Drancy, and then for the final convoy of August 17, 1944"
+    },
+    {
+      "n": "expired tickets",
+      "start": 24418,
+      "end": 24487,
+      "quote": "three expired transport tickets dated 1941, the year she was arrested"
+    },
+    {
+      "n": "von Behr's fleeing convoy",
+      "start": 24875,
+      "end": 24918,
+      "quote": "caravan of eleven cars and four moving vans"
+    },
+    {
+      "n": "looted-art train order",
+      "start": 24956,
+      "end": 25053,
+      "quote": "last train loaded with looted art on August 27, 1944—two days after General Dietrich von Choltitz"
+    },
+    {
+      "n": "Rosenberg files depth",
+      "start": 25836,
+      "end": 25885,
+      "quote": "Five stories below the castle, walled in concrete"
+    },
+    {
+      "n": "von Behr's farewell night and vintage",
+      "start": 26935,
+      "end": 27061,
+      "quote": "On the night of April 19, 1945, in a castle bedroom, the baron donned his Red Cross uniform. He poured champagne, vintage 1918"
+    },
+    {
+      "n": "Bunjes interval and research topic",
+      "start": 27202,
+      "end": 27284,
+      "quote": "A month later, von Behr’s associate Hermann Bunjes followed him into the same dark"
+    }
+  ],
+  "secondary": [
+    {
+      "note": "Dubois sees only a car leaving; he had no idea a special German team from the SS was prowling the region conducting a roundup of Jews.",
+      "start": 5570,
+      "end": 5699,
+      "quote": "From his window, Raymond Dubois watched the car speed away from Élisabeth’s home toward the Solesmes bridge and the river Sarthe."
+    },
+    {
+      "note": "Marguerite Aron, seventy, Élisabeth's close friend and a longtime Catholic convert, is arrested leaving morning Mass at the Abbaye Saint-Pierre de Solesmes, protesting she is too old.",
+      "start": 6052,
+      "end": 6251,
+      "quote": "Élisabeth’s close friend Marguerite Aron, seventy, part of an intellectual Jewish family and a longtime Catholic convert, was arrested as she left morning Mass at the Abbaye Saint-Pierre de Solesmes."
+    },
+    {
+      "note": "Étienne Foucault, the chauffeur, is the one who turns to the French police, stating that she never left the house, lived modestly and quietly, and was well liked by the neighbors.",
+      "start": 6407,
+      "end": 6536,
+      "quote": "It was Étienne Foucault—the chauffeur, her loyal steward since 1924—who turned to the French police after Élisabeth was arrested."
+    },
+    {
+      "note": "The national gendarmerie registers both women as 'French nationals... Born of Israelite parents', with the motive for their arrests: 'unknown.'",
+      "start": 6741,
+      "end": 6951,
+      "quote": "The national gendarmerie recorded two names in their register, Marguerite Aron and Élisabeth Cahen d’Anvers. “French nationals,” they noted. “Born of Israelite parents.” The motive for their arrests: “unknown.”"
+    },
+    {
+      "note": "Sonia's own escape: after the 1943 coded warning about arrests she leaves the next day, by bus to Tours and train to Bordeaux, hiding with the caretakers who minded the dead in a Protestant cemetery.",
+      "start": 4746,
+      "end": 4949,
+      "quote": "Then, in 1943, a relative sent a coded message to Sonia reporting that there would be arrests. She left the next day, carrying a small bag, and boarded a bus bound for Tours, and then a train to Bordeaux"
+    },
+    {
+      "note": "'Papillon' — suspected black marketer and surveillance informant in the 1943 Gestapo roundups of the Butler network and of Élisabeth — is killed with bullets in the garden of the local police station on the day the town was liberated.",
+      "start": 11155,
+      "end": 11259,
+      "quote": "On the day the town was liberated, he was killed with bullets in the garden of the local police station."
+    },
+    {
+      "note": "The Hôtel Lutetia becomes the real center where stories began and ended, survivors arriving via the Gare d'Orsay, the Gaumont Palace or the Molitor pool.",
+      "start": 14184,
+      "end": 14268,
+      "quote": "But the real center, the place where stories began and ended, was the Hôtel Lutetia."
+    },
+    {
+      "note": "On Boulevard Raspail boards carry the names and photographs of the missing; Irène Anspach studies the posters, reads names, compares dates amid 400 to 500 returnees a day.",
+      "start": 16496,
+      "end": 16638,
+      "quote": "Irène Anspach studied the posters. Read names. Compared dates. Listened for fragments from some of the people who came back, 400 to 500 a day."
+    },
+    {
+      "note": "Sylvain Tenoudji's note enclosing his letter to Irène records seeing Fanny Reinach twice in Birkenau in December 1943, thin and tired but très courageuse.",
+      "start": 17885,
+      "end": 18037,
+      "quote": "He had seen her granddaughter, Fanny Reinach, twice in Birkenau in December 1943. She was thin and tired, he wrote, but très courageuse—very courageous."
+    },
+    {
+      "note": "Bertrand's death came more slowly — exhaustion, spring 1944, per the testimonies Anspach gathered; Fanny died within weeks of her November 20, 1943 deportation.",
+      "start": 18136,
+      "end": 18220,
+      "quote": "And Bertrand, her brother, died later, in the springtime, Tenoudji wrote. Pneumonia."
+    },
+    {
+      "note": "The record of Irène's grief is empty — no letters, no diary, no telegram — and the chapter reads that emptiness as loss settling 'in like ash.'",
+      "start": 20352,
+      "end": 20449,
+      "quote": "There are no letters. There is no diary. No telegram was sent in the sleepless hours before dawn."
+    },
+    {
+      "note": "France Dubonnet is rattled by the documents — Drancy intake forms, Bertrand's name on convoy lists — which contradict the family story that he was killed escaping to Spain.",
+      "start": 21397,
+      "end": 21566,
+      "quote": "France was rattled to learn that there were documents—intake forms from Drancy, Bertrand’s name on the convoy lists. It didn’t square with what she had always been told."
+    },
+    {
+      "note": "All the French paperwork documenting the murders of Irène's daughter and grandchildren is stamped 'MORT POUR LA FRANCE', as though those deaths were noble and France had not first looked away.",
+      "start": 22028,
+      "end": 22136,
+      "quote": "a declaration written as though those deaths were somehow noble. As though France had not first looked away."
+    },
+    {
+      "note": "Colette de Dampierre joins the bus revolt after someone rings the bell as a joke: weak from hunger but powered by la force de désespoir she hurls a suitcase at the Austrian guard's head and bolts.",
+      "start": 23713,
+      "end": 23837,
+      "quote": "Colette, weak from hunger, but powered, she later wrote, by la force de désespoir, hurled a suitcase at the Austrian’s head."
+    },
+    {
+      "note": "Von Behr tries to buy room at the castle from US Captain Samuel Haber, a Jewish economist, offering the hiding place of Rosenberg's ministry literature in exchange — 'Still, it would not save him.'",
+      "start": 26615,
+      "end": 26754,
+      "quote": "He told me that if I would give him permission for this he would show me the hiding place of the entire literature for Rosenberg’s ministry"
+    },
+    {
+      "note": "Hermann Bunjes negotiates with American investigators — dangling missing masterpieces, employment, safe conduct, twelfth-century sculpture — then, arrested by French authorities, dies by suicide in jail.",
+      "start": 28002,
+      "end": 28101,
+      "quote": "After another interrogation, Bunjes was arrested by French authorities and died by suicide in jail."
+    }
+  ]
+}
