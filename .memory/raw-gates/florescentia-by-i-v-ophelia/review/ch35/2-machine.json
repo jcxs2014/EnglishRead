@@ -1,0 +1,443 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch35 the feast and the will.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch35_chapter_thirty_five_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I couldn’t accept my fate before I’d exhausted every possible escape",
+          "ok": true,
+          "pos": 34
+        },
+        {
+          "text": "The herbage conversed, or rather, mimicked the sound of talking. With mouths dusted with pollen, they shared secrets amo",
+          "ok": true,
+          "pos": 158
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "My hand was blemish-free. I couldn’t even remember the sting of the cuts. They were simply gone—or did they not exist in",
+          "ok": true,
+          "pos": 5318
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "One wish, two lives traded, and the proof of their contract a permanent seal on my skin",
+          "ok": true,
+          "pos": 3177
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "At first the glow was bright, then a long table came into view, not unlike those in old English mansions. Impossibly int",
+          "ok": true,
+          "pos": 6523
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“There is a hunger in you—no, a longing.”",
+          "ok": true,
+          "pos": 8149
+        },
+        {
+          "text": "“Of knowledge, of curiosities unquenched, of things you’ve yet to experience.”",
+          "ok": true,
+          "pos": 8219
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Memories are sweeter than fruit.” He pulled my hand forward, pressing his hips between my legs. “You can taste it too.”",
+          "ok": true,
+          "pos": 9010
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“No.” I pushed his hand away. “When you aren’t with me, out here, in the great unknown—do you stop to think of me?”",
+          "ok": true,
+          "pos": 12760
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I have seen the birth and death of stars, of cosmoses unseen.”",
+          "ok": true,
+          "pos": 12961
+        },
+        {
+          "text": "“there is no need to see any more marvels after I’ve seen you.”",
+          "ok": true,
+          "pos": 13267
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Tell me . . .” Altair whispered in my ear",
+          "ok": true,
+          "pos": 16061
+        },
+        {
+          "text": "“does it scare you, giving your body to something like me?”",
+          "ok": true,
+          "pos": 16143
+        },
+        {
+          "text": "“No,” I said firmly",
+          "ok": true,
+          "pos": 16201
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Obscuria!” I screamed, my entire body freezing",
+          "ok": true,
+          "pos": 19284
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I sat up, the tendrils gone, as were the table and fruit",
+          "ok": true,
+          "pos": 19873
+        },
+        {
+          "text": "Was this a temptation or a distraction",
+          "ok": true,
+          "pos": 20171
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "This must have been why he was so desperately trying to convince me to join him. He was also in a hurry—and knowing I ha",
+          "ok": true,
+          "pos": 20733
+        },
+        {
+          "text": "He was scared",
+          "ok": true,
+          "pos": 20920
+        },
+        {
+          "text": "Which meant, there was a way out of this",
+          "ok": true,
+          "pos": 20935
+        }
+      ],
+      "words": 51
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.43,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter Thirty-Five: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3952,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

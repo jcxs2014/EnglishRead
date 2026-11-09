@@ -1,0 +1,480 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch34 the fathers debt.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch34_chapter_thirty_four_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I felt around the tall grass with my foot, my toes curling in the dirt as the blades licked at my skin. A corner poked m",
+          "ok": true,
+          "pos": 34
+        },
+        {
+          "text": "“There you are.”",
+          "ok": true,
+          "pos": 161
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Even when I imagined my love, the image still was able to be corrupted. Now, when I imagined the image of Dorian, Altair",
+          "ok": true,
+          "pos": 1046
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A man knelt before a water trough attached to a dilapidated chapel, high on a hill, with rolling patches of farmland spa",
+          "ok": true,
+          "pos": 2531
+        },
+        {
+          "text": "Before him was a leather-bound journal",
+          "ok": true,
+          "pos": 2919
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I can’t live on without her,” the man said. “I want to be with her. A life with her.”",
+          "ok": true,
+          "pos": 3044
+        },
+        {
+          "text": "“And what is it you would trade for such a request?”",
+          "ok": true,
+          "pos": 3171
+        },
+        {
+          "text": "“Anything.”",
+          "ok": true,
+          "pos": 3222
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Since your union will be bound by your world, as well as mine,” the shadow said, “your firstborn will bear your debt.”",
+          "ok": true,
+          "pos": 3599
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Collesano",
+          "ok": true,
+          "pos": 4013
+        },
+        {
+          "text": "“Papà?” I leaned closer to the water, hoping my eyes were betraying me",
+          "ok": true,
+          "pos": 4024
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“This was your plan!” I screamed. “You tricked him. You tricked me.”",
+          "ok": true,
+          "pos": 4587
+        },
+        {
+          "text": "“I only did as he asked.”",
+          "ok": true,
+          "pos": 4652
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You were never going to let me live, were you?” I breathed",
+          "ok": true,
+          "pos": 5006
+        },
+        {
+          "text": "“I was honest with you.”",
+          "ok": true,
+          "pos": 5127
+        },
+        {
+          "text": "“You were just hungry.”",
+          "ok": true,
+          "pos": 5150
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Why would you want to return, anyway?” he whispered in my ear. “Your husband has passed on. Your father traded you. The",
+          "ok": true,
+          "pos": 6025
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“There is no satisfaction in a life without choice.”",
+          "ok": true,
+          "pos": 6259
+        },
+        {
+          "text": "“You let him trade me for my mother’s love, just like you are forcing me into the illusion of choice.”",
+          "ok": true,
+          "pos": 6336
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I will find my way back,” I said steadily, “and I will make sure you are trapped in this place forever.”",
+          "ok": true,
+          "pos": 6612
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“I can’t . . .” I said, softly at first. “I can’t!” I shouted, pushing from the window and facing him",
+          "ok": true,
+          "pos": 12779
+        },
+        {
+          "text": "Just the force of my demand made the illusion shatter around us",
+          "ok": true,
+          "pos": 12876
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Consider my offer before you sever any ties.” An unearthly hiss. “And don’t take long. There are things much less kind ",
+          "ok": true,
+          "pos": 13554
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter Thirty-Four: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 23,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2648,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
