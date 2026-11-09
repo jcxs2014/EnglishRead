@@ -36,7 +36,7 @@ modified: "2026-11-09"
 > **原句 4:** "But the red line trailing between two of those smaller settlements was new. It hadn’t been there when his father detailed the journey to him. He lifted the map and studied the marking closer. The area was one of the more hazardous parts of the road in the center of two mountains, full of jagged rocks and caves where outcast wolves lived."
 **中文理解**：父亲桌上的地图：前半段是既定行程，但“两处小镇之间的红线”是新的——山脉中央最险的路段，全是尖石与流浪狼的洞穴。
 **关键词**：hazardous / jagged
-**为什么这样写**：红线是全书最后一处悬念设置：父亲的密令（杀 RRH、嫁祸儿子）已经在图上画好；“which was why he'd planned to use surprise”的布局对读起来，这条线才是真正的处刑场。
+**为什么这样写**：红线是父亲剧本里的处刑点：父亲的密令（杀 RRH、嫁祸儿子）已经在图上画好；“which was why he'd planned to use surprise”的布局对读起来，这条线才是真正的处刑场。
 **读者视角提示**：对照 ch23 “我们不去北方”：他以为取消行程就避开了陷阱——红线表明陷阱是为“杀她并嫁祸”专门铺的，与他放不放她无关。
 
 > **原句 5:** "“Good.” The scratch of a quill on parchment filled the short silence. “Once Red Riding Hood dies in the valley, my son’s time will come. I should’ve killed him when he was still inside his mother’s womb.” Rage slammed into Winter at the confession, but he held his wolf back."
