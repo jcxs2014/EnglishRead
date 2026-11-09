@@ -1,0 +1,53 @@
+{
+  "chapter": "ch30",
+  "facts": [
+    {
+      "fact": "Lucia 冲进书房召唤她的 shadow『Tonic』（它从枯盆蕨后现身）：她说不是要召唤什么、只求开一个小口好跟 Dorian 说话；Tonic 从书堆里翻出 grimoire 扔给她。",
+      "start": 464,
+      "end": 524,
+      "quote": "A shadow slipped from behind a withered, potted fern. Tonic."
+    },
+    {
+      "fact": "她收齐仪式物品：父亲的 journal、Dorian 的破表与猫碗、他的雪茄嘴（only three remaining，只剩三支），以及从颈间摘下的传家宝石项链。",
+      "start": 1553,
+      "end": 1602,
+      "quote": "His cigar holder. There were only three remaining"
+    },
+    {
+      "fact": "在已彻底枯败的后院，Lucia 挪开桌椅、摆好物品跪下，Tonic 在枯草上展开一个映出她倒影的 void；Altair 皱眉问她是否确定。她念前两个名字 John Lahue、Rachel Witham 均无反应——Altair 解释他们已 crossed beyond，能量像万物一样被循环回收。",
+      "start": 3321,
+      "end": 3380,
+      "quote": "“It seems Mr. Lahue has crossed.” Altair broke the silence."
+    },
+    {
+      "fact": "第三个名字 Allison Thomas 一出口，grimoire 就发出烧木般的噼啪声，纸面烧灼出一位黑发年轻女子的肖像，并传来她细弱的呼救。",
+      "start": 4087,
+      "end": 4154,
+      "quote": "“Allison Thomas,” I said—then a crackling sound, like burning wood."
+    },
+    {
+      "fact": "Altair 温声引导 Allison 找到那扇她一直不敢开的门（有人在彼端等她——她的母亲）；Allison 穿门而过、肖像淡去。Lucia 质问他为何说谎，他解释能量只是换一种形式与她重聚。",
+      "start": 6906,
+      "end": 6964,
+      "quote": "“A child’s patience for their mother is endless,” he said."
+    },
+    {
+      "fact": "Lucia 哭肿双眼后强撑点名 Dorian Fairfax，grimoire 依旧空白；Altair 按住她的肩说 Dorian 可能还在，但她若不亲自进去，就可能来不及找到他。",
+      "start": 9714,
+      "end": 9778,
+      "quote": "“He could still be there.” Altair placed his hand on my shoulder"
+    },
+    {
+      "fact": "void 方向忽然传来一声『Lucia!』，Lucia 手臂探至肩深、甚至把头潜进黑色液体里搜寻 Dorian，却空无一物；随后 Tonic 剧烈抽搐、可怕尖啸再起，一只长着三张利齿巨口与众多眼睛的巨型 Peculiar 从 void 破出并锁定她。",
+      "start": 15719,
+      "end": 15772,
+      "quote": "It screeched, three giant mouths full of sharp teeth."
+    },
+    {
+      "fact": "Lucia 逃进图书馆闩门、喊『Obscuria!』求护无回应；Altair 以人形坐在阅读椅上拒绝施救，训她把 Peculiars 当工具用、频繁开启彼界招来不速之客与食欲——她由此得到答案，扑向他道谢道别，趁野兽张口瞬间纵身跳入，被整个吞进黑暗。",
+      "start": 16175,
+      "end": 16264,
+      "quote": "the mouth closed completely around me, and I was surrounded by darkness. Swallowed whole."
+    }
+  ]
+}
