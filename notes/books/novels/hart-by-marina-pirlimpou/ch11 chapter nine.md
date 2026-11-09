@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：句子先写一个「假装」的动作（pretending I don’t want to be disturbed），再用 because I know 把假面撕开。两个 I know 并列，第二句用 hanging by a thread 给出程度；my control is slipping 是进行时，说明失控正在发生。最后 It will swallow me whole. And him. 用两个短句把后果扩大到两个人——他怕的不只是自己失控，是把他拖进去。
 
-**读者视角提示**：读者会把这句和ch03 他给自己立的规矩（rules I can never break）对照：同一个人，一个月前还在列清单，现在承认线快断了。And him. 三个词是全章最重的部分——他的恐惧里有 Sam。
+**读者视角提示**：读者会把这句和ch03 他给自己立的规矩（rules I can never break）对照：同一个人，一个月前还在列清单，现在承认线快断了。And him. 两个词是全章最重的部分——他的恐惧里有 Sam。
 
 > **原句 5:** "“Being around you and not touching you is torture. I need my hands on you every time you so much as smile at me.”"
 
