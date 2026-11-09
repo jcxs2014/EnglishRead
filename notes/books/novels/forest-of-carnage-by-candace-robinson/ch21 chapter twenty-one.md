@@ -35,7 +35,7 @@ modified: "2026-11-09"
 
 > **原句 4:** "He withdrew his arms from around her and inched back, his voice a whisper, “What’s your plan? I know you have one.”"
 **中文理解**：“我理解你恨我，”她哽咽，“因为我不肯放下复仇。你比复仇更值得，Cyan，我早该明白。”——他抽身退开，低声问：你的计划呢？我知道你有。
-**关键词**：revenge / inched
+**关键词**：inched / plan
 **为什么这样写**：道歉里承认了她全部的错误账（复仇优先于他）；而弟弟的回应不是原谅而是追问计划——他把她当同盟而不是受害者，这份“不合年纪的务实”比哭更有分量。
 **读者视角提示**：对照 ch03 他问“每个人都该有第二次机会吗”：弟弟的伦理线从提问长成了要方案——他在这本书里长大得最快。
 
@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 > **原句 7:** "“That all depends.” She shrugged. “I’m married to the prince.” Cyan’s eyes widened, his lips parting. “I did it to unite the court,” Sterling continued. “As you would’ve wanted.” He tilted his head and crossed his arms over his chest. “But that’s not the whole reason you married him.”"
 **中文理解**：她告知婚事，弟弟立刻回：“但那不是你嫁给他的全部理由。”她又说为了救你，他补刀：“你喜欢王子，不然你承认婚事的表情会很难看。”
-**关键词**：disgusted / married
+**关键词**：married / reason
 **为什么这样写**：弟弟的两次拆穿构成全章最轻巧的喜剧：她用两个“正当理由”（统一宫廷、救弟弟）遮掩，他用一个表情就击穿——情感真相总由最不设防的人说出来。
 **读者视角提示**：对照 ch17 她自己承认“不全反感”：本章她把喜欢藏进理由里，被弟弟当众（私下）点破——她无法再对自己撒谎。
 

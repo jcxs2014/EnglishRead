@@ -59,7 +59,7 @@ modified: "2026-11-09"
 
 > **原句 8:** "A smile that hit his chest like an arrow. “It was only a matter of time,” Winter said in a low voice. “Now go, and we’ll discuss other matters later.” He sauntered down the hallway away from her to let Sterling and her brother have a private reunion. Even if they tried to run, they’d be caught. Or … perhaps he wanted them to run. To find a better life somewhere away from his father’s fuckery."
 **中文理解**：她回头冲他笑，明亮如月光——“那笑像一支箭射中他的胸口”。他让她去，独自走开；心想跑也跑不掉，可“也许他其实希望他们跑”，去父亲之外的地方生活。
-**关键词**：moonlight / arrow
+**关键词**：smile / arrow
 **为什么这样写**：比喻的方向反了：猎手被笑射中——箭是她的符号（Red Riding Hood 的箭），此刻第一次由他中弹；“perhaps he wanted them to run”的转念是他第一次把她的自由放在自己的占有之前。
 **读者视角提示**：对照 ch01 结尾她立誓“杀尽每头狼”：八年后她对他说了句谢谢似的笑，而他被这一箭击中——武器与情感的符号在两人之间完成了交换。
 

@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 > **原句 7:** "Make it look like the prince killed her. Bring him back to me alive and in shackles. That bastard planned to make it look as if Winter murdered his mate."
 **中文理解**：他捡起父亲写好的密信：“做成王子杀了她的样子。把他活着绑回来给我。”——父亲打算让他背负杀妻的罪名。
-**关键词**：shackles / clench
+**关键词**：shackles / murdered
 **为什么这样写**：密信的功能是让 Winter 的最后一点犹豫消失：父亲不仅要杀她的命，还要毁他的名；“balled the paper”的动作是决心落地的物理形式。
 **读者视角提示**：对照 ch04 “Let them hang until the maggots turn to flies”：父亲与儿子用的是同一套“示众式惩罚”——本章 Winter 成了被示众的对象。
 

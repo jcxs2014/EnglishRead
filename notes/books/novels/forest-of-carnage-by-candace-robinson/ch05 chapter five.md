@@ -29,7 +29,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "Sterling’s chest tightened while her fingers skated over the paper he’d made into Red Riding Hood. The cloak, the bow, the shape, and even though it wasn’t colored, it resembled her perfectly."
 **中文理解**：Sterling 捏着那张纸——弟弟折的 Red Riding Hood：斗篷、弓、身形，虽没上色，却像她像得完美。
-**关键词**：resembled / folded
+**关键词**：resembled / cloak
 **为什么这样写**：秘密被折成一只纸玩偶交到她手里——孩子用游戏的方式说出致命真相；"没有上色却完美相似"暗示：他不需要看到红色也知道那是谁，认识一个人从来靠形状不靠颜色。
 **读者视角提示**：ch04 末 Winter 在她家捏碎的就是纸花——同一个孩子的手艺两头出现：一边被仇人毁掉，一边捅穿姐姐的秘密；纸在这里是信任的计量单位。
 
@@ -47,7 +47,7 @@ modified: "2026-11-09"
 
 > **原句 6:** "However, you can’t tell anyone about this. No one. Especially not if they question you.” If they found out who she was and that he knew all along, the prince wouldn’t only kill her, he would do the same to her brother."
 **中文理解**：Sterling 下了死命令：这事不能告诉任何人——谁都不行，尤其是有人盘问你的时候；若身份暴露、而他一直知情，王子不会只杀她，她弟弟也会同样下场。
-**关键词**：question / secret
+**关键词**：question / anyone
 **为什么这样写**：命令的措辞写出了恐惧的形状："尤其是有人盘问你时"——她担心的不是他嘴松，是他在压力下被撬；"同样下场"四个字把保护反转成连坐，秘密从此成为弟弟脖子上的绳。
 **读者视角提示**：这是本章真正的转折：秘密从"她的"变成"他们的"——下一章起 Cyan 每一次天真提问都带着风险。
 
@@ -109,7 +109,7 @@ modified: "2026-11-09"
 |---|---|---|
 | consent | 同意；准许 | I can’t believe you went to the hanging without my consent. |
 | noose | 绞索；绞刑 | fighting to give them a second chance would’ve done no good. I would’ve ended up with a noose around my neck for being a sympathizer |
-| wealthy — riches | 财富 | They’ve hurt countless families and revel in riches while we grovel in the dirt. |
+| revel | 沉溺享乐 | They’ve hurt countless families and revel in riches while we grovel in the dirt. |
 | concussion | 脑震荡 | It would’ve been a concussion at the least, death at the worst. |
 
 ## 一句话总结

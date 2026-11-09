@@ -35,7 +35,7 @@ modified: "2026-11-09"
 
 > **原句 4:** "He stepped forward, planning to storm toward her, but then warned himself. He was the king now—a new king who hadn’t earned the respect of the entire pack yet."
 **中文理解**：他本来要冲过去，又警告自己：他现在是国王，一个还没赢得全 pack 敬意的新王。于是他改为缓步走下小径——手插在口袋，捏着要给她的礼物。
-**关键词**：sauntered / respect
+**关键词**：king / respect
 **为什么这样写**：这一幕把全书最核心的变化写成一个动作：他学会“慢下来”——从冲过去的占有变成走过去的分寸；口袋里的礼物把克制变成了期待。
 **读者视角提示**：对照 ch05 他给她“十五秒先跑”：同样是游戏语法，那次是猎手，这次是新郎。
 

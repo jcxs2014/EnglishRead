@@ -29,7 +29,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "But if she’d gone with them, she never would’ve forgiven herself because the Prince of Carnage mattered to her too. She cocked her head and murmured, “I suppose so. A wife doesn’t abandon her husband now, does she?” “Mate.” He smirked. “That must mean you like me, at least a little.”"
 **中文理解**：她承认：若跟着弟弟走了，她一辈子都不会原谅自己，因为 Carnage 王子对她也很重要。“妻子不该抛弃丈夫吧？”——“mate，”他笑，“那说明你至少有点喜欢我。”
-**关键词**：abandon / perhaps
+**关键词**：abandon / suppose
 **为什么这样写**：告白的语法是绕道：她先说“不会原谅自己”，再用妻子身份做理由——而他只用一个称呼（mate）就把“喜欢”从她嘴里挖出来。
 **读者视角提示**：对照 ch16 “mating, not marrying”：同一个词，那时是他纠正她的物种，此刻是他索要她的心意——用词的政治与情感两用。
 
@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 > **原句 5:** "“The king didn’t only fuck countless women—he fathered a bastard son as most unfaithful males do.”"
 **中文理解**：她问：那他不就没有继承人了？Winter 攥碎地图：国王不只有无数女人——他还有一个私生子。
-**关键词**：bastard / heir
+**关键词**：bastard / unfaithful
 **为什么这样写**：私生子的存在解释了父亲全部的算计：儿子只是可替换的零件，血统与亲情都是耗材——这一句把宫廷政治的最冷真相说完。
 **读者视角提示**：对照 ch16 “unite the court”：统一宫廷的口号背后是继承权赌局——父亲的所有“大义”都在本章被拆成私利。
 

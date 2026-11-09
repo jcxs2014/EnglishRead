@@ -17,7 +17,7 @@ modified: "2026-11-09"
 
 > **原句 1:** "That was something Cyan had always wanted. Something her mother would’ve wanted. Her grandmother, on the other hand, she believed would’ve hated her for it."
 **中文理解**：她的账算得清楚：结 mate 就是筹码，能亲手救出弟弟——这是 Cyan 想要的、母亲想要的；可若外婆活着，会恨死她这个决定。
-**关键词**：leverage / hated
+**关键词**：wanted / hated
 **为什么这样写**：三代人的政治立场在一段内心账里同框：弟弟求安、母亲求存、外婆求战——她选择站在前两者一边；外婆会恨她的伏笔，让婚姻的决定自带弑祖的重量。
 **读者视角提示**：对照 ch15 她怀疑他假局：本章她的动机已经从"信他"彻底转为"自救"——婚姻不是爱情决定而是狱中求生策略。
 
@@ -29,7 +29,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "Sterling scoffed. “And fall to my death? Or have you push me? No.” He smirked. “You’re not dying tonight. Now sit. I won’t let you fall.”"
 **中文理解**：阳台上他让她坐在石沿——她怀疑是让她坠死或推她。他笑：今晚你不会死。坐下，我不会让你摔。
-**关键词**：ledge / fall
+**关键词**：scoffed / fall
 **为什么这样写**："不会死"的保证从 Winter 嘴里说出来本身就反常——他第一次向她保证她的安全；石沿的选择（危险处谈心）是他的谈话方式：把信任测试做成姿势。
 **读者视角提示**：对照 ch01 他警告她离开森林的少年口吻：八年后的他仍在用"命令+护持"的方式靠近她——语气换了内容没换。
 
@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 > **原句 5:** "“I’m not one of your harlots. What are you going to do tomorrow night? Fuck me and then act as if it’s just any other day?”"
 **中文理解**：她抄起木块砸穿半个房间：我不是你的妓女！明天晚上你打算怎样——上完我，然后当什么都没发生过？
-**关键词**：hurled / harlots
+**关键词**：harlots / any other day
 **为什么这样写**：愤怒的落点精准：不是亲密本身而是亲密的命名权——他要把它归档为寻常消遣；木块飞出去的弧线是她第一次用暴力回应他的情感回避。
 **读者视角提示**：对照 ch09 她的谈判术（please 策略）：本章她改用直接对抗——两次被"bored"羞辱之后，讲理的通道已经关了。
 

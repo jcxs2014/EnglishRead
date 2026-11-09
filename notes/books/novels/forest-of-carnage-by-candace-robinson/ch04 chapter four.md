@@ -17,7 +17,7 @@ modified: "2026-11-09"
 
 > **原句 1:** "“Welcome,” he shouted, and the crowd fell silent. Sauntering up to one of the nooses, he trailed a finger along the knot, smirking. “I’m not one for long speeches. We’re all here for the same reason. To watch the wolves that told hunters how to get to the king. Your king. My king. An attack on him is an attack on all of Bloodstorm.” If only they’d succeeded in murdering the bastard."
 **中文理解**：绞刑宣言：欢迎词落、人群噤声；他抚着绳结说出目的——来看那些向猎人告密王宫位置的狼；攻击国王就是攻击整个 Bloodstorm。内心补刀：可惜他们没能杀成。
-**关键词**：nooses / treason
+**关键词**：nooses / speeches
 **为什么这样写**：把处刑写成教育仪式：受刑者的罪名不是杀人而是"告知"——Winter 当众定义忠诚的边界；If only they'd succeeded 的内心独白紧跟庄严宣言，一秒戳破他刚刚扮演的忠臣角色。
 **读者视角提示**：宣言与心声的落差是本章的底色：他全程演给两批观众看——怕他的人类与需要敬畏他的狼群；你从第二句起就知道这场"司法"是假的。
 
@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 > **原句 7:** "“Not yet, but we’ve asked around to find where she lives.” He gave a sideways nod and led Winter down a curving street where another wolf, Lijah, waited. “There. She lives with her younger brother. Her name is Sterling, and her kin is Cyan. She owns the meat shop in the market. The boy is there all day, even when she’s gone.”"
 **中文理解**：狼群回报：还没找到她，但已四处打听住处——她与弟弟同住，名叫 Sterling，亲属 Cyan，在集市经营肉店；男孩整天都在店里，即使她不在。
-**关键词**：kin / manor
+**关键词**：kin / shop
 **为什么这样写**：情报一次交付三件：名字、亲属、店铺——"搜捕"在他嘴里像查户口；kin is Cyan 顺口带出弟弟的信息，为后文"必要时用 Cyan"的威胁先行铺路。
 **读者视角提示**：注意这批狼是"问出来的"而非跟踪——她镇上生活八年没搬家没改名，匿名性只靠那道疤的遮掩；身份网的脆弱从这里开始崩。
 

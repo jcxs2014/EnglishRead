@@ -65,7 +65,7 @@ modified: "2026-11-09"
 
 > **原句 9:** "“Will you give her something I made?” He held up a folded dove. “She’ll know I’m safe with this.” Instead of the no he would’ve given anyone else, his tone remained even as he answered, “We’ll see.”"
 **中文理解**：“把我折的东西给她好吗？”他举起一只纸鸽：她看到就知道我平安。Winter 本会对任何人都说 no——语气却平稳地答了句：再说吧。
-**关键词**：dove / evenly
+**关键词**：dove / even
 **为什么这样写**：结尾一拍“没有说不”：一个 no 字的缺席比任何善待都重——Winter 对这个孩子的规则出现了例外；“We'll see”的悬置保留了他的权力姿态，但门缝开了。
 **读者视角提示**：纸鸽与 ch05 捅穿秘密的纸人、ch08 被捏碎的纸花同源：Cyan 的纸第三次改变两人的距离——这次它飞向 Sterling，成为下一章的希望信物。
 

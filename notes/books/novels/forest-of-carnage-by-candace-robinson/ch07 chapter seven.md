@@ -17,7 +17,7 @@ modified: "2026-11-09"
 
 > **原句 1:** "She was left with only two decent choices. One being to travel straight to the market and collect her brother before abandoning the town. The second was to distance herself. It would take her longer to get to Cyan this way but wouldn’t lead the prince straight to him. It also gave her the possibility that she wouldn’t be found."
 **中文理解**：Sterling 只有两条像样的路：直接回市场带弟弟弃城而逃；或者先拉开距离——多花时间，但不会把王子直接引到 Cyan 身上，还可能甩掉追踪。
-**关键词**：distance / conceal
+**关键词**：distance / choices
 **为什么这样写**：抉择写成正反两栏的成本表："快而危险"对"慢而可能脱身"——她选慢路，把弟弟的安全排在团聚之前；猎人本能让位给姐姐本能。
 **读者视角提示**：记住这个排序：她这一章做的每个决定都是"先绕开、再回头"——与 ch01 她抱着婴儿直奔外婆家形成对照：如今她先藏再打。
 

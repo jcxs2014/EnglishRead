@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 > **原句 5:** "Winter glared down at Sterling as though she were nothing but spoiled food. “You will pour every pack member’s drink before the main course is served.” Sterling narrowed her eyes at Winter, then clasped the bottle from the man."
 **中文理解**：他脚踩上她的餐具位、眼神像看馊掉的食物：主菜之前，给每位 pack 成员斟酒。她眯眼接过酒瓶。
-**关键词**：spoiled / poured
+**关键词**：spoiled / pour
 **为什么这样写**：差事的羞辱度设计：从宠物到侍酒——把她放在 pack 的最低服务位；“spoil food”的目光描写是他演技的顶点——演给她看是警告，演给全桌看是政治。
 **读者视角提示**：对照 ch15 Amalli 的话（你是特例）：本章他亲手把“特例”推翻——保护她就必须先在众人面前摧毁她的身份，这就是王室的婚姻成本。
 

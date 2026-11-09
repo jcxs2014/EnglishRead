@@ -35,7 +35,7 @@ modified: "2026-11-09"
 
 > **原句 4:** "Sterling couldn’t physically hold back any longer and stumbled forward before collapsing to the floor. A crease formed between Winter’s brows. “Get up, human.” Sterling pushed to all fours, her legs and arms wobbling. “I can’t,” she croaked. Winter’s lips parted as he studied her. “You’re bleeding on my floor.”"
 **中文理解**：体力见底：她栽倒在地板上。Winter 皱眉命令起来——她撑起四肢又瘫软：起不来。他看清地板上那几滴红才意识到：你在我的地板上流血。
-**关键词**：collapsing / crimson
+**关键词**：collapsing / bleeding
 **为什么这样写**：关心迟到三拍：先命令、再审视、最后才看见血——他的注意力顺序暴露优先级（秩序>她的伤）；“my floor”的所有格把担忧说成财产损失——Winter 式关心永远裹着领地语法。
 **读者视角提示**：她两度尝试起身失败才被抱起：这个设计让她“不求饶”的底线保住了——被抱是她挣来的，不是乞来的；人物尊严的账面靠这种细节维持。
 

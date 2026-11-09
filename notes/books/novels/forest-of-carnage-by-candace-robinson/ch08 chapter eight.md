@@ -53,7 +53,7 @@ modified: "2026-11-09"
 
 > **原句 7:** "“Thank you, I promise I’ll behave,” Cyan whispered, then said hurriedly, “Will you bring a few sheets of paper? I would like to make you something.”"
 **中文理解**：“谢谢，我保证听话，”Cyan 低声说，随即急急补上一句：“能带几张纸吗？我想给你折点东西。”
-**关键词**：behaved / paper
+**关键词**：behave / paper
 **为什么这样写**：绝境里的孩子向刽子手讨纸——把折纸的本领递到仇人面前当投名状；“我会听话”换“几张纸”的交易里，他仍在用唯一会的东西为自己挣一点体面。
 **读者视角提示**：纸在本书第三次出现（ch04 被捏碎的纸花、ch05 捅穿秘密的 RRH 纸人）：这次折给谁、折成什么，下一章见——Cyan 把纸当成与人沟通的货币。
 

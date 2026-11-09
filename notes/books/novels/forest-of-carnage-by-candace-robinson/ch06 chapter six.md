@@ -17,7 +17,7 @@ modified: "2026-11-09"
 
 > **原句 1:** "Red Riding Hood. The infamous huntress, killer of wolves—though Winter should thank her for a few of them. A couple of the bastards were pains in his ass, but she would still answer for her actions. The only one allowed to murder his fellow wolves was him—and his father, though with any luck, the king would soon die of infection."
 **中文理解**：红斗篷在他手里，Red Riding Hood 的名号在他心里过堂：恶名昭著的猎手、杀狼者——他本该感谢她清了几个人渣；但账还是要算。唯一有权杀他同族的是他——和他父亲，若运气好，国王很快会死于伤口感染。
-**关键词**：infamous / vendetta
+**关键词**：infamous / huntress
 **为什么这样写**：开章先给她的"战绩"一个反派认证：他承认她杀的几头狼是"刺头"——敌人的效率反而成了她的资历；句末顺手埋下父亲的死期预期，把两条杀意（对她、对父）拧进同一段。
 **读者视角提示**：注意他在心里已经给她定性为"奖赏"（his prize）而非罪犯——私怨从第一章起就被包装成司法；"唯一有权杀狼的是我"的领地主逻辑是全书权力观的浓缩。
 
@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 > **原句 5:** "“Stay,” Winter ordered. “If you move in the slightest, I’ll kill you both.” That wasn’t entirely true, of course. He needed the child to make Sterling suffer before she came to him."
 **中文理解**："待着别动，"Winter 下令，"敢动一下，我杀你们俩。"——当然这并不完全属实：他要这个孩子活着，好让 Sterling 痛苦地来找他。
-**关键词**：ordered / leverage
+**关键词**：ordered / kill
 **为什么这样写**：威胁与算计背靠背：嘴上是"杀你们俩"，心里是"他必须活"——谎言的结构暴露他真正在意的是杠杆的成色；"before she came to him"预设了她的服从，这份笃定比威胁更傲慢。
 **读者视角提示**：他对 Cyan 的处置从这一刻起是双重押注：既是筹码，也是他评估 Sterling 的试剂——她肯不肯拿自己换弟弟，下一章就见分晓。
 
