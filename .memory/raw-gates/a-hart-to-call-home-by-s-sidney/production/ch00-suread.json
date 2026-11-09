@@ -1,0 +1,55 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch00",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch00_author_s_note.txt",
+ "facts": [
+  {
+   "fact": "作者说明 Skillett 小镇首次出现在 2025 年出版的《The Sun Will Rise》，本篇是回到同一小镇的第二本书。",
+   "anchor": "We first visited Skillett, TX in The Sun Will Rise, published in 2025.",
+   "start": 38,
+   "end": 108
+  },
+  {
+   "fact": "本书故事源自作者 2024 年写的一句顺手话，最初场景早于她此前任何作品的出版。",
+   "anchor": "It’s a story that grew from a throwaway line I wrote back in 2024, and indeed the first scenes written for this book predate the publication of any of my previous books.",
+   "start": 290,
+   "end": 459
+  },
+  {
+   "fact": "作者点题：这是一个关于家的故事，主题是成长、展翅、知道有安全的地方可以坠落。",
+   "anchor": "This is a story about home.",
+   "start": 462,
+   "end": 489
+  },
+  {
+   "fact": "内容警告一：露骨语言与性细节、页内饮酒、提及未成年人饮酒。",
+   "anchor": "This book contains explicit language and sexual details, on-page alcohol consumption, and references to underage drinking.",
+   "start": 702,
+   "end": 824
+  },
+  {
+   "fact": "内容警告二：慢性偏头痛发作与过敏性休克有详细描写。",
+   "anchor": "There are detailed descriptions of chronic migraine attacks and anaphylactic allergies.",
+   "start": 825,
+   "end": 912
+  },
+  {
+   "fact": "作者郑重声明：Declan 与 Jessa 不是好人，书中的多角恋关系不是健康积极的描绘。",
+   "anchor": "But let me be very clear: Declan and Jessa are not good people",
+   "start": 1033,
+   "end": 1095
+  },
+  {
+   "fact": "两人利用 Ashton 的天真与孤独，并在此过程中深深伤害了她——这是全书人物关系的定调。",
+   "anchor": "They preyed on Ashton’s naiveté and loneliness, and hurt her deeply in the process.",
+   "start": 1415,
+   "end": 1498
+  },
+  {
+   "fact": "作者推荐多位以积极方式描绘多角恋的作者（Emily Rath、Kayla Grosse、Emily Antoinette 等），书末附完整书单。",
+   "anchor": "I recommend checking out books by Emily Rath, Kayla Grosse, Emily Antoinette, and many more.",
+   "start": 1641,
+   "end": 1733
+  }
+ ]
+}
