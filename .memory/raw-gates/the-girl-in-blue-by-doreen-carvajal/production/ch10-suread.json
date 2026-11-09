@@ -1,0 +1,49 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch10",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch10_chapter_9_flight.txt",
+ "facts": [
+  {
+   "fact": "1941年12月Léon离开Neuilly逃往自由区（Salies-de-Béarn→Pau）；\"不是为了安全本身，而是为了安全的概念\"；自由区从4万人膨胀到20万；Allatini夫妇提供假证件（后被驱逐，别墅变刑讯室）。",
+   "anchor": "And then Léon fled. Not for safety, exactly, but for the idea of it—exile somewhere near the Spanish frontier, where the geography was loose and the rules looser still.",
+   "start": 4296,
+   "end": 4464
+  },
+  {
+   "fact": "1942年7月16日Vel d'Hiv围捕：>13,000犹太人被法国警察逮捕（含4000儿童），关进冬季自行车赛车场，七月酷暑中无食无水；Fanny最后一次骑马比赛是8月。",
+   "anchor": "More than thirteen thousand Jews—including four thousand children—were arrested by French police, herded into a stadium meant for winter cycling, left without food or water in July heat.",
+   "start": 12912,
+   "end": 13098
+  },
+  {
+   "fact": "Béatrice 1942年7月1日在Vanves受洗（耶稣会神父），次日领圣体、7月5日坚振；Léon不安；Béatrice写\"我确信自己被奇迹般保护\"；Bertrand也开始考虑改宗。",
+   "anchor": "Often, I am sure that I am protected miraculously,” she wrote in September. “But it is just this year that I understood where these blessings came from.”",
+   "start": 9791,
+   "end": 9944
+  },
+  {
+   "fact": "1942年12月12日Béatrice与Léon离婚（通奸证据：两封信）；同月德国占领自由区（Operation Attila）；\"犹太女性可以站在法官面前解除婚姻，而她的存在正被同一个国家在别处解除\"。",
+   "anchor": "And still, in this narrow corner of family law, the republic moved on as if intact. A Jewish woman could stand before a judge and dissolve her marriage even as her existence was being dissolved elsewhere by the same state.",
+   "start": 21725,
+   "end": 21947
+  },
+  {
+   "fact": "Walter Benjamin 1940年9月在Portbou被拒入境后服吗啡自杀；次日西班牙当局反转决定允许同组人通过；Arendt：\"对难民来说，地球上已没有容身之处。\"",
+   "anchor": "Weeks earlier he had written that “the real danger would be not to leave.” His friend Hannah Arendt later observed that he understood the situation to be “literally hopeless.”",
+   "start": 18166,
+   "end": 18341
+  },
+  {
+   "fact": "比利牛斯山穿越：~33,000人尝试，~5,000被捕驱逐，>2,200死亡；从Ariège只有782人成功；Grumbach被向导Cabrero枪杀（8年后才发现遗体），向导被判无罪（\"适者生存\"）。",
+   "anchor": "Most of the passeurs spoke no French. The exiles, for their part, spoke no Spanish. And yet they followed one another through the dark.",
+   "start": 28473,
+   "end": 28608
+  },
+  {
+   "fact": "Léon最后一张明信片给侄子Fabrice：\"Il faut essayer tout: être les premiers et les derniers\"（必须尝试一切：做第一个，也做最后一个）；\"从拘留中写出，一个仍试图在火焰中幸存的人\"；Bertrand的身份证件被埋在沟里。",
+   "anchor": "The line carries urgency and endurance at once. To act first, to outlast. It was written from detention by a man still trying to survive the flames.",
+   "start": 29903,
+   "end": 30051
+  }
+ ]
+}
