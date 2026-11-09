@@ -1,0 +1,67 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch01",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch01_chapter_one_the_nova.txt",
+ "facts": [
+  {
+   "fact": "开篇点题：收获运气最好的时间是魔时刻，丈夫睡在身边时她起身离开。",
+   "anchor": "witching hour",
+   "start": 89,
+   "end": 102
+  },
+  {
+   "fact": "叙述者与丈夫多里安住在一栋三层的定制宅子里，画像挂在家中，室内设计主要由她本人完成。",
+   "anchor": "the portraits of Dorian and me",
+   "start": 1586,
+   "end": 1616
+  },
+  {
+   "fact": "没人像她一样理解「异象」：多数人看不见它们，世人以为是隐喻传说，她知道它们真实存在且无害。",
+   "anchor": "Not literal creatures",
+   "start": 3672,
+   "end": 3693
+  },
+  {
+   "fact": "她养了两只异象作宠物，取名 Absinthe 和 Tonic，名字来自母亲玻璃醒酒器，童年时就和它们在一起。",
+   "anchor": "Hello, Absinthe",
+   "start": 2750,
+   "end": 2765
+  },
+  {
+   "fact": "三层中间是她的书房，是她躲开世界的圣所；多里安从不反对她的要求，说「你想要的都是你的」。",
+   "anchor": "it was a sanctuary",
+   "start": 4356,
+   "end": 4374
+  },
+  {
+   "fact": "召唤异象的仪式用语：说 Florescentia 迎来虚空，事毕用 Obscuria 送回，这些词比宗教更古老。",
+   "anchor": "Florescentia",
+   "start": 6914,
+   "end": 6926
+  },
+  {
+   "fact": "她身上有星形的对称白斑（白斑病），第一颗出现在胸口，父母认为是神圣印记。",
+   "anchor": "The vitiligo under and between my breasts",
+   "start": 6035,
+   "end": 6076
+  },
+  {
+   "fact": "仪式中她把手臂伸进阴影池，一股墨色触手缠上手腕，这个异象很强。",
+   "anchor": "around my wrist a thick tendril of ink",
+   "start": 7418,
+   "end": 7456
+  },
+  {
+   "fact": "触手带有情色意味：缠腿缠腰、探入敏感处，快感催化仪式。",
+   "anchor": "The tapered tip lingered between my thighs",
+   "start": 7883,
+   "end": 7925
+  },
+  {
+   "fact": "章尾点题：以欲换运——历史上最容易的交易。",
+   "anchor": "Lust for luck",
+   "start": 8563,
+   "end": 8576
+  }
+ ]
+}
