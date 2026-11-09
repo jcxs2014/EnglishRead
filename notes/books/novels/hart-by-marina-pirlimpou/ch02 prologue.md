@@ -61,7 +61,7 @@ modified: "2026-11-09"
 
 **关键词**：This is crazy（这太疯了）、absolute madness（绝对的疯狂）、a mere half hour（不过半小时）
 
-**为什么这样写**：三句一个比一个短，第三句用 but— 断在破折号上。前两句是判断（crazy / madness），第三句给出判断的理由（only known each other for a mere half hour），随即用 but 把结论推翻在半空中。a mere half hour 把时间压到最小，反而让「可是」后面的东西显得更大；破折号替读者留住了那句没说出口的话。
+**为什么这样写**：前两句极短，第三句拉长后断在破折号上。前两句是判断（crazy / madness），第三句给出判断的理由（only known each other for a mere half hour），随即用 but 把结论推翻在半空中。a mere half hour 把时间压到最小，反而让「可是」后面的东西显得更大；破折号替读者留住了那句没说出口的话。
 
 **读者视角提示**：这是 Sam 的自我劝阻，也是全章一次用理性给欲望踩刹车。读者读到 but— 就知道刹车没踩住；下一段只有一个 But.，等于把这脚刹车彻底松开。
 
