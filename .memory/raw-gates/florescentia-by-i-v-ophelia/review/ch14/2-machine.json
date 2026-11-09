@@ -1,0 +1,384 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch14 the naming of altair.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch14_chapter_fourteen_the_nova.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I think it may help to find out why I am the way that I am,” I told him",
+          "ok": true,
+          "pos": 1040
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Stubborn?” he suggested",
+          "ok": true,
+          "pos": 1204
+        },
+        {
+          "text": "“Ambitious?” he prodded",
+          "ok": true,
+          "pos": 1411
+        },
+        {
+          "text": "“Greedy?” His voice came from above\"",
+          "ok": true,
+          "pos": 1469
+        },
+        {
+          "text": "\"“Divine.” A tinge of sarcasm",
+          "ok": true,
+          "pos": 1627
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“People have tried the rituals before, but they never succeed. I believe it is because they can’t see the Peculiars. The",
+          "ok": true,
+          "pos": 1819
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“What, pray tell, is the goal once you have these answers?”",
+          "ok": true,
+          "pos": 3653
+        },
+        {
+          "text": "“To revive my husband.”",
+          "ok": true,
+          "pos": 3711
+        },
+        {
+          "text": "I could feel the energy spike beside my face, like an electric current. He was bothered",
+          "ok": true,
+          "pos": 3733
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Reception said you called for it. I’ve been keeping an eye out,” he assured me. “I know how it is to lose important thi",
+          "ok": true,
+          "pos": 5093
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Mistakes happen,” he said cheerfully, almost thrilled someone noticed him. His eyes flicked to me, that eerie opalite s",
+          "ok": true,
+          "pos": 6751
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I want this one,” he said. “Altair,” he repeated, like he was testing the name on his tongue",
+          "ok": true,
+          "pos": 10100
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Those born in the Ruina months are said to be great leaders, symbolized by the crown, but to a point where, if not care",
+          "ok": true,
+          "pos": 11002
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He shivered, a couple of black shadows springing from his back, like mixed assortments of appendages. A mantis wing, it ",
+          "ok": true,
+          "pos": 12000
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The next pull was Cathal, the scavenger",
+          "ok": true,
+          "pos": 12662
+        },
+        {
+          "text": "Deception",
+          "ok": true,
+          "pos": 12703
+        },
+        {
+          "text": "Something was coming to test me . . . but I feared it might be the man in front of me",
+          "ok": true,
+          "pos": 12829
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Fourteen: The Nova",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 17,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2369,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

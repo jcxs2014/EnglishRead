@@ -1,0 +1,53 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "fact": "叙述者触碰走廊尽头相框里的照片，触发过去的对话记忆：当年啼哭的爱莉丝（Iris）声音已变得柔如花瓣，正哄人微笑拍照。",
+      "start": 1079,
+      "end": 1146,
+      "quote": "“No, you must smile.” The wailing Iris’s voice, now soft as petals."
+    },
+    {
+      "fact": "听见露西亚（Lucia）从书房发出的旋律般的呼唤后，叙述者带上醒酒瓶，专为她现出人形皮肤与葬礼上见过的衣着，循声走向书房。",
+      "start": 2610,
+      "end": 2695,
+      "quote": "With the bottle in hand, I formed my human skin, my more tangible form, just for her."
+    },
+    {
+      "fact": "叙述者推开书房门，看见露西亚懒在座位上等候，身穿缀满玻璃珠的银色华袍——珠饰绘出四个（four）在他们文化里反复出现的神兽。",
+      "start": 4415,
+      "end": 4477,
+      "quote": "little glass beads, depicting four fantastical-looking animals"
+    },
+    {
+      "fact": "露西亚表明她要的是一场『收获（a harvest）』；当她起身想回房歇息时，叙述者从地板抽出一条影子把她推回椅子（她的心跳漏了一拍）。",
+      "start": 8050,
+      "end": 8116,
+      "quote": "I pulled a shadow from the floor to shove her back into the chair."
+    },
+    {
+      "fact": "露西亚指出：她只是打开了门，是叙述者多次强行闯入，还吓得以她起的名称相称的宠物『奇特者（Peculiars）』自行关上了门；问到他为何而来，他答『孤独』，并说『欠』字太重、但他心存感激。",
+      "start": 11533,
+      "end": 11585,
+      "quote": "I only opened the door. You forced your way through."
+    },
+    {
+      "fact": "露西亚把水晶瓶递给叙述者；他喝下瓶中灵液后下颌脱位又复位，额头上的第三只眼（third eye）张开又迅速闭合。",
+      "start": 10078,
+      "end": 10142,
+      "quote": "my third eye opened on my forehead before quickly snapping shut."
+    },
+    {
+      "fact": "露西亚讲述仪式来历：她因孤独而自言自语，直到发现她称作 Peculiars（奇特者）的存在愿意倾听；她把眼泪和压力喂给它们，明白这一行当靠的是亲密与情绪。",
+      "start": 10722,
+      "end": 10787,
+      "quote": "I fed them my tears, my stress. They probably ate very well . . ."
+    },
+    {
+      "fact": "露西亚主动说起丈夫多里安（Dorian）：两人自幼同街相识，为便利而结婚——他参军时盼借此免于征兵；她的第一个奇迹是求他们让失去联络的他回家，『那一次，成功了』。",
+      "start": 14101,
+      "end": 14149,
+      "quote": "“I asked them to bring him home,” she whispered."
+    }
+  ]
+}
