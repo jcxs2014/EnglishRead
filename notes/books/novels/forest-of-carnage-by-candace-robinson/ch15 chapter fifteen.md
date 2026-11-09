@@ -19,13 +19,13 @@ modified: "2026-11-09"
 **中文理解**：决胜时刻：白影闪过，她一箭离弦正中扑来的巨狼双金眼之间；第二箭搭弦之际，队友的牙齿已经咬碎另一头狼的喉骨。
 **关键词**：whirred / clamped
 **为什么这样写**：决胜双杀一人一狼各拿一半：她的箭打头、他的牙断喉——配合的默契在两个动作里成型；金眼之间的落点是射手的美学签名，也是她八年苦练的验收。
-**读者视角提示**：对照 ch03 她三箭才放倒一只狼：此刻一箭封喉——她的枪法曲线在这场游戏里被拉到顶；这也是全书唯一一次由旁白确认"We won"的时刻。
+**读者视角提示**：对照 ch03 她三箭才放倒一只狼：此刻一箭封喉——她的枪法曲线在这场游戏里被拉到顶；
 
 > **原句 2:** "Micah had been one of the first bodies found, and a guard had gone to the manor to inform the prince and King Valco that an arrow wound had been in his back, his neck broken."
 **中文理解**：Micah 的尸体是最早被找到的之一：背上的箭伤、拧断的脖子——卫兵进府报告了王子与国王。
 **关键词**：wound / broken
 **为什么这样写**：死讯以验尸报告的语气送达：箭伤归她、断颈归他——两人合谋的杀人在官方通报里自动分成两笔账；"inform the prince"的送达对象里写着 Winter：他知道她看见了一切。
-**读者视角提示**：这条尸体信息同时是政治引信：一个 pack 内最有力的战士死于王子之手——micah 死后的权力真空（Amalli 补位、pack 反应）从本章开始发酵。
+**读者视角提示**：这条尸体信息同时是政治引信：一个 pack 内的悍将死于王子之手——micah 死后的权力真空（Amalli 补位、pack 反应）从本章开始发酵。
 
 > **原句 3:** "Perhaps the prince had done it on purpose during both games as a reason to never let her brother go and force her to continue being his spectacle. It was all a charade to believe she would eventually win on her own."
 **中文理解**：她的怀疑转向最坏的方向：也许两场比赛他的"帮忙"都是故意犯规——好让弟弟永远不自由、让她永远当他的观赏品。一切都是让她相信自己终将独赢的假局。
@@ -37,7 +37,7 @@ modified: "2026-11-09"
 **中文理解**：Pathal 的罪名他自己招了：偷了皇家卫兵的钱——赌输了想翻本，好凑够和妓女快活一夜的钱。对她而言够悲剧了。
 **关键词**：gambling / harlot
 **为什么这样写**：罪名日常到荒诞：杀人场里的"死囚"只是个赌鬼——游戏的荒谬性由 Pathal 的坦白完成曝光；她的 snicker 让杀场建立起了一分钟的人间味。
-**读者视角提示**：Pathal 是全书唯一"活着出去"的囚犯样本：他的存在证明这套游戏体系确有出口——这也让 Winter 的"极难获胜"论调更可疑。
+**读者视角提示**：Pathal 的存在证明这套游戏体系确有出口——这也让 Winter 的"极难获胜"论调更可疑。
 
 > **原句 5:** "“The king is leaving tonight for his castle, and I’m going with him,” he said, the vein in his jaw ticking. “Amalli will bring you to me tomorrow for a few days. Keep quiet and do exactly as I say when there, or you’ll regret it.”"
 **中文理解**：他回来时下颚青筋直跳：国王今晚回城堡，我随行。明天 Amalli 带你来几天——到那边少说话、我怎么说你怎么做，否则你后悔。
