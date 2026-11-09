@@ -1,0 +1,75 @@
+{
+  "chapter": "ch19",
+  "facts": [
+    {
+      "fact": "Fae 女子紧贴着阿尔丁诺尔站着、低声细语，用古 Fae 语说着两人之间才懂的私密话。",
+      "quote": "The Fae woman stood close to Aelindor, closer than necessary, her head tilted toward him, her voice dropping to a low murmur",
+      "start": 36,
+      "end": 160
+    },
+    {
+      "fact": "恶魔提出要替 Max 翻译古 Fae 语，Max 咬紧牙关坚持不接话、保持不参与。",
+      "quote": "I said nothing, holding to my rule of non-engagement",
+      "start": 562,
+      "end": 614
+    },
+    {
+      "fact": "恶魔告诉 Max：那名 Fae 女子正在抖出一个关于 Max 的秘密，一个她一直背负却毫不知情的秘密。",
+      "quote": "The Fae female is revealing a secret about you, it continued. Something you’ve been carrying without knowing you carried it.",
+      "start": 1872,
+      "end": 1996
+    },
+    {
+      "fact": "Max 把手指甲掐进土里让自己定住，拒绝上恶魔的钩子，宣称一旦放它进门就再也关不上。",
+      "quote": "I refused to take the demon’s bait. Once I let it through that door, there was no closing it again.",
+      "start": 2500,
+      "end": 2599
+    },
+    {
+      "fact": "阿尔丁诺尔说有情况发生、今天的训练必须到此结束，并说明后续训练改由 Frost 安排，且这件事没完。",
+      "quote": "“Frost will arrange your continued training,” Aelindor said. “He’ll explain the details.” A pause—brief, weighted.",
+      "start": 4380,
+      "end": 4494
+    },
+    {
+      "fact": "阿尔丁诺尔与那名 Fae 女子一同离开空地，Max 没有看他们走，而是盯着湖面。",
+      "quote": "Aelindor left with the Fae woman. I didn’t watch them go.",
+      "start": 4754,
+      "end": 4811
+    },
+    {
+      "fact": "Frost 告知 Max 从此不再参加常规课程，阿尔丁诺尔下令为她安排针对她本人的强化训练。",
+      "quote": "“Prince Aelindor’s orders. Extensive training, structured around you specifically.”",
+      "start": 6549,
+      "end": 6632
+    },
+    {
+      "fact": "Max 认定自己此行只为把妹妹 Missy 从 Haven 里救出来，其余一切排在后面。",
+      "quote": "I wasn’t here for romance. I was here because I needed a safe home for my little sister",
+      "start": 8941,
+      "end": 9028
+    }
+  ],
+  "relations": [
+    "Fae 女子与阿尔丁诺尔关系亲近（私下密谈），Max 因此产生嫉妒",
+    "恶魔寄生在 Max 体内，主动怂恿她接受翻译与真相，并宣称四位继承人属于它",
+    "阿尔丁诺尔听完 Fae 女子的话后对 Max 态度转冷，改由 Frost 接手其训练",
+    "Frost（少校）是 Max 的上级教官，负责她的后续训练与陪同",
+    "Missy 是 Max 收养的妹妹，被关在 Haven，仍待救援",
+    "四位继承人各统一支军队并以彼此忠诚维系联盟：阿尔丁诺尔（Fae 与法师，西北）、吸血鬼（东北）、变形者（东南）、Drakken 的混种（南门）",
+    "Max 与四位继承人之间存在情感张力，但她明确不以恋爱为目标"
+  ],
+  "numbers": [
+    "Chapter 19",
+    "two people who shared a language",
+    "the past two minutes",
+    "a second skeleton",
+    "Four separate armies sharing one fortress",
+    "Four separate command structures",
+    "the four heirs",
+    "could seat twenty",
+    "all four territories",
+    "round table for four",
+    "Two cucumber sandwiches"
+  ]
+}

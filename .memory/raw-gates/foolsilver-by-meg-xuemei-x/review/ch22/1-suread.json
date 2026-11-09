@@ -1,0 +1,71 @@
+{
+  "chapter": "ch22",
+  "facts": [
+    {
+      "fact": "Max 主动请缨，第一个去 Haven 端掉 Collector 的据点，作为一次试验性行动；她的真实意图是让白女巫可以等、妹妹不能等。",
+      "quote": "“I volunteer to go to the Haven first,” I said. “Topple the Collector’s operation as a test run.”",
+      "start": 36,
+      "end": 133
+    },
+    {
+      "fact": "Aelindor 叫停了关于 sentient metal 的讨论，Caspian 随即接棒指出 Xander the Collector 是比白女巫更紧迫的威胁。",
+      "quote": "“Xander the Collector presents a more immediate threat than the White Witch,” Caspian said",
+      "start": 690,
+      "end": 780
+    },
+    {
+      "fact": "General Daven Ashcroft 发问 Collector 对 Cadet Max 的兴趣是否与 Coldiron 有关，并说情报显示 Collector 一直在搜寻他们的炼金术师。",
+      "quote": "“Is the Collector’s interest in Cadet Max connected to Coldiron?” General Daven Ashcroft asked.",
+      "start": 952,
+      "end": 1047
+    },
+    {
+      "fact": "Commander Lee 在众人面前点明 Max 进入过 DarkVeil 并活着走出来，而此前无人做到；当时陪她进去的是三位继承人。",
+      "quote": "“She entered the DarkVeil and came out. No one has done that before.”",
+      "start": 1752,
+      "end": 1821
+    },
+    {
+      "fact": "Aelindor 裁定：Max 只听命于四位继承人，任何伤害她的人都会死，她对四人而言是私人的重要存在，而不只是资产。",
+      "quote": "She answers to no one but us. Anyone who harms her dies.",
+      "start": 3886,
+      "end": 3942
+    },
+    {
+      "fact": "Nikolai 宣布契约团历史上首次召开 Tri-Crown Accord，正式邀请 New Columbia 与 Haven 到首都。",
+      "quote": "“You’ve been summoned because we’re calling the first Tri-Crown Accord in the history of the Zodiac Covenant.”",
+      "start": 4558,
+      "end": 4668
+    },
+    {
+      "fact": "Max 意识到：只要 Collector 亲自来首都，Aelindor 就能以「交出 Missy」为受邀前提，让他把妹妹送进自家城门。",
+      "quote": "Aelindor could compel him to bring Missy as a precondition of the invitation—demand her return as the price of a seat at the table.",
+      "start": 4949,
+      "end": 5080
+    },
+    {
+      "fact": "章末 Aelindor 断言 Xander 一定会来、来夺走不属于他的东西，Max 明白 Xander 是冲着她来的。",
+      "quote": "“Xander will come,” Aelindor said. “He’ll cross into our territory to take what isn’t his.”",
+      "start": 9693,
+      "end": 9784
+    }
+  ],
+  "relations": [
+    "Missy 是 Max 的妹妹，被 Xander the Collector 扣在 Haven。",
+    "Max 是 Cadet Max Morning，被四任继承人 Caspian、Nikolai、Aelindor、Drakken 共同保护并置于其专属权威之下。",
+    "Nikolai 与 Caspian 因 DarkVeil 一行分开：Nikolai 依「轮流留守」协议留在基地，暗网没有等他。",
+    "Lady Vaelith 是精灵，与 Aelindor 贴耳私语；Max 对她心怀敌意，曾差点扑上去掐她的脖子。",
+    "General Daven Ashcroft 是 Caspian 的资深指挥官（狮人变体，制服上是 Aries 星座纹章）。",
+    "Commander Lee 属于 Forged；Commander Marco 亦为在座的指挥官。",
+    "Frost 是 Max 的随从与护卫，负责向她提供情报。",
+    "Xander the Collector 是 Haven 的统治者，信徒称他「the Saint」，秘密与白女巫合作并借南边境放其兵力入境。",
+    "New Columbia 数十年保持中立且机构性排斥魔法，与契约团只是同向而非盟友。"
+  ],
+  "numbers": [
+    "Eighty-one years, and no one had found a framework for it",
+    "The three heirs accompanied her, of course.",
+    "the first Tri-Crown Accord in the history of the Zodiac Covenant",
+    "all four kingdoms",
+    "a rumor circulating the continent for months"
+  ]
+}

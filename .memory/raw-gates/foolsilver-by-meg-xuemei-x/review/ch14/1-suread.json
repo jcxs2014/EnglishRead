@@ -1,0 +1,73 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "fact": "Nikolai 独自留守基地，其余三位继承人带 Max 前往 Greyhold",
+      "quote": "I’d held the base while the other three heirs rode to Greyhold with Max.",
+      "start": 97,
+      "end": 169
+    },
+    {
+      "fact": "急报称列车遭恶魔袭击、由拱魔领衔；Max 违背命令爬上车顶，替 Aelindor 挡下两支冷铁箭",
+      "quote": "And Max had climbed to the roof against orders and put herself between Aelindor and two Coldiron-tipped arrows.",
+      "start": 447,
+      "end": 558
+    },
+    {
+      "fact": "Nikolai 得知消息后打翻桌上的棋盘，棋子散落大理石地面没有收拾",
+      "quote": "I knocked the chess board off the table. The pieces scattered across the marble, and I hadn’t picked them up.",
+      "start": 562,
+      "end": 671
+    },
+    {
+      "fact": "Max 在站台上握住了 Nikolai 伸出的手",
+      "quote": "She took my hand. Her face flushed, her palm warm against my cool skin.",
+      "start": 2302,
+      "end": 2373
+    },
+    {
+      "fact": "Max 指出 Nikolai 一直在喝瓶装血，并拒绝其他所有人",
+      "quote": "“You’ve been drinking from bottles,” she said. Not a question. “Bare minimum.”",
+      "start": 5853,
+      "end": 5931
+    },
+    {
+      "fact": "Max 请 Nikolai 训练她，以便在去救 Missy 前做好准备",
+      "quote": "“Train me, Nikolai. I need to be ready before I go after Missy.”",
+      "start": 13612,
+      "end": 13676
+    },
+    {
+      "fact": "Nikolai 安排四位继承人分工训练 Max，并承诺教她伪装与隐匿",
+      "quote": "“We’ll all train you,” I said. “Aelindor for magic. Caspian for hand-to-hand combat. Drakken for swords and battle strategy.”",
+      "start": 13829,
+      "end": 13954
+    },
+    {
+      "fact": "Nikolai 把 Max 抱到餐厅，桌上摆着热面包和浓炖菜",
+      "quote": "I carried her to the dining room, where warm bread and thick stew waited.",
+      "start": 14526,
+      "end": 14599
+    }
+  ],
+  "relations": [
+    "Nikolai 与 Max 有每周只从她一人取血的约定",
+    "Nikolai 为 Max 破例到站台迎接，当众无视军阶礼仪",
+    "Caspian 当众把手臂搭在 Max 肩上，屡次破坏 Nikolai 的安排",
+    "四位继承人共同承担 Max 的训练：Aelindor 教魔法、Caspian 教拳脚、Drakken 教剑术与战策、Nikolai 教伪装与欺骗",
+    "Nikolai 承诺在救回 Missy 时陪在 Max 身边",
+    "Max 是 Nikolai 唯一的供血来源，他已多日没从别人那里取血",
+    "Nikolai 把 Max 称作“我的姑娘”，Max 称呼他“prince”"
+  ],
+  "numbers": [
+    "three heirs",
+    "one heir",
+    "two Coldiron-tipped arrows",
+    "one mouthful per week",
+    "another week",
+    "a decade",
+    "seven",
+    "Twenty-six years",
+    "half"
+  ]
+}

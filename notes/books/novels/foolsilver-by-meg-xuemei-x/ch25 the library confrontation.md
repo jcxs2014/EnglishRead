@@ -62,7 +62,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：他先在心里声明「只是吓她」（for the scare of it, nothing more），读者立刻被这句辩解暴露了他的自欺；她骂「疯子」，而「没人敢」的补白说明这句话的分量——她用最不敬的词，反而成为唯一敢对他说真话的人。
 
-**读者视角提示**：这是全书两人关系的转折：他第一次被当成可以挨骂的人，而不是亲王。读者可把「疯子」这个称呼记成他们之间的暗号。
+**读者视角提示**：这是两人关系的转折点：他第一次把她的骂声当成可以接住的东西，而不是回敬刻薄。读者可把「疯子」这个称呼记成他们之间的暗号。
 
 > **原句 6:** "Her Coldiron armguard poured off her wrist and reshaped at a speed the eye couldn’t track. Two daggers shot up and caught my blade between them, locking it dead. Still crouched, she swept a leg and cracked her heel into my chin."
 

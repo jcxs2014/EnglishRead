@@ -1,0 +1,74 @@
+{
+  "chapter": "ch26",
+  "facts": [
+    {
+      "fact": "晚上七点马克斯在 Elenmoor 与四位继承人共进晚餐，这件事让她一整天心里发沉。",
+      "quote": "Seven o’clock. Dinner with the heirs at Elenmoor—the weight of it had sat in my chest like a swallowed stone all day.",
+      "start": 36,
+      "end": 153
+    },
+    {
+      "fact": "卡斯平在吉普车还没停稳时就冲出门来，从弗罗斯特少校手里接过了马克斯。",
+      "quote": "Caspian shot out the front door before the jeep had fully stopped, all that restless wolf energy rolling off him.",
+      "start": 3036,
+      "end": 3149
+    },
+    {
+      "fact": "艾尔因多尔宣布计划奏效：新哥伦比亚与避难所都接受了邀请，桑德几天内就会到达。",
+      "quote": "“Our plan is working,” Aelindor said. “Both New Columbia and the Haven have accepted our invitations. Xander will be here in a few days.”",
+      "start": 12725,
+      "end": 12862
+    },
+    {
+      "fact": "艾尔因多尔宣布行动代号为“夜莺行动”（Operation Nightingale），马克斯将带一支七人小队行动，并可自行否决名单上的任何人。",
+      "quote": "“Along with a team of seven. You’ll review the list, and you can veto anyone on it.”",
+      "start": 15078,
+      "end": 15162
+    },
+    {
+      "fact": "马可与弗罗斯特自荐随行，马克斯提前为两人各做了一只寒铁护臂并完成绑定。",
+      "quote": "I’d made two extra Coldiron armguards, one for each of them.",
+      "start": 15670,
+      "end": 15730
+    },
+    {
+      "fact": "马克斯在三位继承人各自陈述之后，选择卡斯平和尼古拉伊与自己同行，回绝了德拉肯。",
+      "quote": "I gave the heirs a small nod. “I’ll take Caspian and Nikolai, gentlemen.”",
+      "start": 22671,
+      "end": 22744
+    },
+    {
+      "fact": "马克斯要求把学员布琳加入行动队，把队伍扩为八人。",
+      "quote": "“I want to add Cadet Bryn and make it a team of eight,” I said.",
+      "start": 27188,
+      "end": 27251
+    },
+    {
+      "fact": "马克斯说先知（Oracle）会帮她找到妹妹；她抬起手腕时寒铁在护臂中嗡鸣，室温下降了几度。",
+      "quote": "I lifted my wrist. Coldiron hummed inside the armguard, and the temperature in the room dropped a few degrees.",
+      "start": 28571,
+      "end": 28681
+    }
+  ],
+  "relations": [
+    "马克斯是四位继承人的下属学员，同时被他们共同追求",
+    "卡斯平（狼族王子、追踪者）与马克斯最亲近，当众称她“我的姑娘”",
+    "艾尔因多尔（费伊王子）信任马克斯，把行动主导权与选人权交给她",
+    "尼古拉伊（吸血鬼王子、情报主官）与马克斯关系亲密，赠衣并主张亲自参与营救",
+    "德拉肯（龙族将军）与马克斯敌对，曾以剑相胁，被她当众回绝后怀恨",
+    "弗罗斯特是马克斯的费伊朋友，坚持开车护送她去 Elenmoor",
+    "马可与弗罗斯特自愿加入行动队，马克斯为他们各制作一只寒铁护臂",
+    "艾尔因多尔与德拉肯将留在峰会周旋桑德，行动队当晚前往休斯顿救出 Missy",
+    "布琳是马克斯在学院里唯一的朋友，主动请求协助营救 Missy"
+  ],
+  "numbers": [
+    "Seven o’clock.",
+    "A long table of pale wood ran down the center, set for five.",
+    "a team of seven",
+    "Two of my agents are already in position inside the Haven",
+    "We’ve added two more Spartans",
+    "make it a team of eight",
+    "six-and-a-half-year-old sister",
+    "the first Summit in the history of the Zodiac Covenant"
+  ]
+}

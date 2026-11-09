@@ -1,0 +1,71 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "fact": "Max 从噩梦中尖叫惊醒：在 Oracle 的黑眼睛里，她看见妹妹 Missy 独自一人被掳走",
+      "quote": "Missy, my little viper. Alone and taken!",
+      "start": 5337,
+      "end": 5377
+    },
+    {
+      "fact": "Aelindor 在哭声出口之前就感到她的崩溃，把她搂进怀里、用一个吻驱散噩梦",
+      "quote": "He’d felt the fracture in me before it became a sound and pulled me into his arms while driving away the nightmare with a kiss.",
+      "start": 1326,
+      "end": 1453
+    },
+    {
+      "fact": "Aelindor 命其他继承人退出快要撑塌的帐篷，宣布 Max 今晚睡他们的帐篷；Drakken 退出，Caspian 在帐外撩住帐帘",
+      "quote": "“Get out before this tent collapses,” Aelindor advised in his steady voice. “I’ll bring Max to our tent. She’ll sleep there tonight.”",
+      "start": 3303,
+      "end": 3436
+    },
+    {
+      "fact": "Max 被抱进继承人帐篷后恐慌发作、喘不上气，Caspian 惊呼她的脸变蓝了",
+      "quote": "“Her face—Aelindor, she’s turning blue!” Caspian said from somewhere beside me, as if he was having a panic attack himself.",
+      "start": 6263,
+      "end": 6386
+    },
+    {
+      "fact": "Aelindor 吻住 Max，口对口把气渡进她不听使唤的肺里",
+      "quote": "pressed his mouth to mine and breathed into me, slow and measured with care, filling my lungs with his air when mine refused to work.",
+      "start": 6709,
+      "end": 6842
+    },
+    {
+      "fact": "Caspian 十指相扣握住 Max 的手，低声安慰她说大家都在、她是安全的",
+      "quote": "“I’m here, Max,” he whispered. “Breathe easy. We’re all here. You’re safe.”",
+      "start": 7075,
+      "end": 7150
+    },
+    {
+      "fact": "Max 体内的恶魔乘客冷声警告：这种软弱不能再发生；她认同——Missy 在 Collector 手里、只有她能去救",
+      "quote": "This weakness cannot happen again. You can’t let fear freeze you if you want to survive.",
+      "start": 7393,
+      "end": 7481
+    },
+    {
+      "fact": "章末：Max 决定今晚暂不挣脱继承人们的安抚——Oracle 的话令她血液发冷、妹妹的尖叫仍在颅中回响",
+      "quote": "Not with the Oracle’s words chilling my blood and my sister’s scream still ringing in my skull.",
+      "start": 11251,
+      "end": 11346
+    }
+  ],
+  "relations": [
+    "Aelindor（Fae）、Caspian（狼）、Drakken（龙）是三位统治王国的 alpha 继承人，此刻都围着 Max",
+    "Aelindor 与 Max 亲密：把她抱在怀里过夜、用吻安抚（先驱噩梦之吻，后渡气之吻）",
+    "Caspian 对 Max 温柔守护，称她「my girl」；Nikolai 与 Max 也有过亲密接触（她记得他 crimson eyes 与他的吻）",
+    "Drakken 对 Max 的敌意松动：第一次不带敌意地看她，露出不知所措的神情",
+    "Missy（绰号 little viper）是 Max 的妹妹，此刻在 Collector 手里",
+    "Max 体内寄宿一个恶魔乘客（demon passenger），冷酷如捕食者，趁她恐慌时开口命令她振作",
+    "Max 的父母已双亡（自那以后她习惯把情绪隔在一臂之外）",
+    "Caspian 与 Nikolai 曾在病房为谁为 Max 端杯争执；Caspian 曾在 Broken Drum 当众宣示对 Max 的主权，Drakken 在阳台如敌王怒视",
+    "Aelindor 在场时，继承人们围绕 Max 的竞争会转为克制：Caspian 不挑战他，Drakken 也不干涉"
+  ],
+  "numbers": [
+    "three alphas who ruled a kingdom",
+    "Four of us crammed into a tent meant for one person",
+    "two of the most powerful men on the continent",
+    "The three most powerful alpha males arranged around me like the points of a compass",
+    "three blocks from the DarkVeil"
+  ]
+}

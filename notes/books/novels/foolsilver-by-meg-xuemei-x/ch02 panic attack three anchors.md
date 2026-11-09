@@ -16,7 +16,7 @@ modified: "2026-11-09"
 
 > **原句 1:** "The tent flap ripped open, and the cold night rushed in with it. Caspian came through the entrance, broad shoulders filling the gap, wine-red hair flattened on one side from sleep. He wore a crumpled T-shirt and a pair of trunks. He must’ve rolled off his bedroll and charged in here. Drakken slid in behind him."
 
-**中文理解**：帐帘被撕开，冷夜灌进来——Caspian 肩膀把门口塞满，酒红色头发睡塌了一边；Drakken 持剑跟进。一场哭喊换来两位继承人的「破门」。
+**中文理解**：帐帘被撕开，冷夜灌进来——Caspian 肩膀把门口塞满，酒红色头发睡塌了一边；Drakken 紧随其后滑进帐内。一场哭喊换来两位继承人的「破门」。
 
 **关键词**：ripped / entrance / flattened
 

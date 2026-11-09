@@ -1,0 +1,72 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "fact": "兵器教官 Jack Xiao 集合点名，宣布只能用钝刃练习，谁弄伤手腕就要左手跑障碍跑到伤好为止",
+      "quote": "“Dull blades.” He selected a practice sword from the rack.",
+      "start": 583,
+      "end": 641
+    },
+    {
+      "fact": "Delia 走出人群迎向 Max，早已选定用木剑而不是钝钢剑",
+      "quote": "She’d been waiting for this and had already chosen her weapon: a wooden blade. Not dull steel.",
+      "start": 1586,
+      "end": 1680
+    },
+    {
+      "fact": "Max 怀疑有人已把她与金属亲和的事从哨站传回基地，因为 Drakken 有传讯链路并曾命她当面演示",
+      "quote": "Someone from the outpost had sent word back ahead of me.",
+      "start": 1771,
+      "end": 1827
+    },
+    {
+      "fact": "Delia 压制 Max：剑面击中她的肋部，Max 架开两下、漏掉第三下，大腿中剑后腿软半步",
+      "quote": "She pressed. I parried two, missed the third, took the tip in my thigh.",
+      "start": 2539,
+      "end": 2610
+    },
+    {
+      "fact": "Bryn 喊话 Xiao 抗议这场比赛不公平，Xiao 宣布只有一方喊出认输比赛才停",
+      "quote": "“Cadet Max or Cadet Delia says yield, the match stops.” Jack Xiao didn’t look up. “That’s the rule.”",
+      "start": 3158,
+      "end": 3258
+    },
+    {
+      "fact": "Max 卸下前臂上的 Coldiron 护臂，护臂按她的意念重组成三节 sanjiegun 握在手中",
+      "quote": "The joints reformed, the brace lengthened, and a sanjiegun balanced in my grip.",
+      "start": 4842,
+      "end": 4921
+    },
+    {
+      "fact": "Max 用 sanjiegun 击落 Delia 的木剑、勾住她的脚踝把她摔倒并用靴子按住，随后喊出认输，Xiao 判定 Delia 失败",
+      "quote": "She hit the ground back-first, the impact driving the air from her lungs in a sharp, ugly bark.",
+      "start": 5961,
+      "end": 6056
+    },
+    {
+      "fact": "Frost 奉 Prince Aelindor 之命来找 Max；Delia 当面辱骂 Max 被 Xiao 斥责，Frost 随即抓臂掐喉把她提离地面警告不得再对他的王子无礼，随后将她甩开，Max 最后与 Frost 并肩走出",
+      "quote": "Frost’s other hand closing around her throat with two fingers and a thumb, Delia’s heels lifting off the floor by a foot.",
+      "start": 8438,
+      "end": 8559
+    }
+  ],
+  "relations": [
+    "Jack Xiao 是 Vossmark 训练中心的兵器教官，负责剑术课",
+    "Max 的剑术基础来自 Greyhold 的 Frost 与 Marco",
+    "Delia 是 Max 的宿敌，在剑术课上点名挑战并当众压制她",
+    "Delia 自称王子女友，扬言要把事情告诉 Drakken",
+    "Frost 是 Prince Aelindor 的副官（major），以主子的名义压制冒犯者",
+    "Max 的 Coldiron 护臂可重组成三节 sanjiegun，其中有寄居的恶魔意识为她提示招式",
+    "Drakken 有到基地的传讯链路，并曾命令 Max 在众人面前展示金属亲和力"
+  ],
+  "numbers": [
+    "Two stories",
+    "mid-thirties",
+    "An hour of foundation forms",
+    "four times",
+    "Twelve of them, every one of them with my name on it",
+    "the first ten seconds",
+    "three linked segments",
+    "by a foot"
+  ]
+}

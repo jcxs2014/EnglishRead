@@ -1,0 +1,72 @@
+{
+  "chapter": "ch23",
+  "facts": [
+    {
+      "fact": "简报结束后 Max 训练得比任何时候都狠，继承人们把她从常规操课与课堂中抽走单独灌输，她几乎见不到 Bryn。",
+      "quote": "After the briefing, I trained harder than I ever had.",
+      "start": 36,
+      "end": 89
+    },
+    {
+      "fact": "General Solenne 以保护「资产」为由，推动把 Max 搬出宿舍、全天候看守。",
+      "quote": "General Solenne from House of Leo pushed to have me moved out of the barracks entirely and kept under guard around the clock.",
+      "start": 290,
+      "end": 415
+    },
+    {
+      "fact": "Max 免掉 Frost 大部分看护她的差事，并把两滴 Coldiron 从臂甲里取出喂进溜冰鞋轮子，靠它独自在堡垒里高速移动。",
+      "quote": "I’d worked two drops of Coldiron loose from my armguard and fed them into the wheels.",
+      "start": 1325,
+      "end": 1410
+    },
+    {
+      "fact": "Max 滑向城南的熔炉 Emberhold，Drakken 的小队守着外围，门口的 Spartan 看到她臂甲便让路放行。",
+      "quote": "I’d expected to explain myself, but the Spartan looked at me, looked at my armguard, and stepped aside.",
+      "start": 2142,
+      "end": 2245
+    },
+    {
+      "fact": "Max 向掌管熔炉的 Hessa 索要废料堆，说明自己想再打造六副臂甲，其中四副给继承人。",
+      "quote": "“I want to make six more like it. Four for the heirs.”",
+      "start": 4814,
+      "end": 4868
+    },
+    {
+      "fact": "Hessa 说 Lady Vaelith 前一天才向她简报过 Foolsilver，Max 因此决定对外沿用「Foolsilver」这个称呼。",
+      "quote": "“Lady Vaelith briefed me on the Foolsilver just yesterday.”",
+      "start": 5387,
+      "end": 5446
+    },
+    {
+      "fact": "Max 把一块废铁重塑成 Coldiron 臂甲，Hessa 当场命令全炉工人不得外传所见。",
+      "quote": "Hessa looked at the floor and then at her people. “What you saw here doesn’t leave this room. Understood?”",
+      "start": 7183,
+      "end": 7289
+    },
+    {
+      "fact": "Max 一滴一滴做完六副臂甲并排在台面上；章末熔炉南门打开，Aelindor 走了进来。",
+      "quote": "The door at the south end of the forge opened and Aelindor stepped through.",
+      "start": 8455,
+      "end": 8530
+    }
+  ],
+  "relations": [
+    "Bryn 是 Max 的同寝伙伴，因继承人们把她单独抽出训练而几乎见不到她。",
+    "General Solenne 隶属 House of Leo（与 Drakken 家族相关），主张把 Max 当作需要武装守卫的资产。",
+    "Marco 与 Frost 在继承人被调走期间代替他们训练 Max。",
+    "Caspian 送给 Max 一双 skate shoes，她用 Coldiron 改造轮子滑行。",
+    "Hessa 是 Emberhold 熔炉的负责人，前臂留有灼伤疤痕，手下有六名工人。",
+    "Drakken 的小队负责守卫熔炉 Emberhold 的外围，入口由一名 Spartan 把守。",
+    "Lady Vaelith 曾在前一天就向 Hessa 简报 Foolsilver 的存在。",
+    "Coldiron 有自我意识，住在 Max 脑中的「乘客」与它对话并自称不属于 fool。",
+    "Aelindor 在章末亲临熔炉。"
+  ],
+  "numbers": [
+    "two drops of Coldiron loose from my armguard",
+    "By the second week",
+    "Seven people worked the floor—four women, three men",
+    "A burn scar puckered one forearm from wrist to elbow",
+    "six more like it. Four for the heirs",
+    "six armguards lay in a row across the bench"
+  ]
+}

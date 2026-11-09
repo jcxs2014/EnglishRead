@@ -1,0 +1,70 @@
+{
+  "chapter": "ch37",
+  "facts": [
+    {
+      "fact": "Drakken 赶到 Max 身边，对 Xander 点头说这支舞他要下了，等于当众把 Max 抢过来",
+      "quote": "He gave Xander a short nod. “King Xander, excuse us. I’ll be claiming this dance with my lady.”",
+      "start": 539,
+      "end": 634
+    },
+    {
+      "fact": "Xander 用意志压向 Max 的意识，她的恶魔乘客顶住他的影响，让他的力量像油水一样滑落",
+      "quote": "It rose just far enough to set its shoulder against his influence, and his power slid off me like water off oiled steel",
+      "start": 5106,
+      "end": 5225
+    },
+    {
+      "fact": "Max 从 Xander 口中套出关键情报：Missy 就在他位于旧城 Houston 的宫殿里",
+      "quote": "he’d let slip the one thing I needed: Missy was in his palace, in the old city they called Houston.",
+      "start": 6546,
+      "end": 6645
+    },
+    {
+      "fact": "Caspian 打断舞步，声称他的舞伴欠他第一支舞，要从 Xander 手里把 Max 抢回来",
+      "quote": "“I’ll take it from here, Xander.” Caspian’s drawl had an edge under it like a blade still in its sheath.",
+      "start": 6824,
+      "end": 6928
+    },
+    {
+      "fact": "Xander 当着全场宾客宣布 Max 是他的未婚妻，不许任何人碰他的未来女王",
+      "quote": "“I’m not dancing with some girl. I’m dancing with my betrothed. And I won’t allow a single soul to lay hands on my future queen.”",
+      "start": 7968,
+      "end": 8097
+    },
+    {
+      "fact": "Xander 摊开受保护的羊皮血契，上面写着 Max 是 House Scorpio 与 House Capricorn 的女儿、落难继承人 Princess Trivia Morningstar，出生前即与他订约",
+      "quote": "the girl-child born of House Scorpio and House Capricorn, Princess Trivia Morningstar.",
+      "start": 11359,
+      "end": 11445
+    },
+    {
+      "fact": "Max 在血契右下角看到第二个签名 Hecate、House Scorpio 族长，认出她就是 White Witch，也就是自己的母亲",
+      "quote": "Hecate. Head of House Scorpio.",
+      "start": 12505,
+      "end": 12535
+    },
+    {
+      "fact": "Xander 用爪划开自己左前臂，Max 的左臂同一位置裂开同样伤口，性命被血契锁在一起，他随后以结盟或开战向 Zodiac Covenant 施压",
+      "quote": "There—on my left forearm, in the exact place he’d cut himself—a gash had opened in my skin",
+      "start": 14761,
+      "end": 14851
+    }
+  ],
+  "relations": [
+    "Drakken 当众抢下与 Max 的这支舞，把她从 Xander 身边拉开",
+    "Caspian 也向 Max 讨要第一支舞，与 Xander 当场对峙",
+    "Xander 宣布 Max 是他的未婚妻与未来女王，并当众宣布她是 House Scorpio 与 House Capricorn 的失落继承人",
+    "Max 是 Princess Trivia Morningstar，出生前就被许配给 Xander，血契上用的是她婴儿时采下的血",
+    "Hecate（White Witch、House Scorpio 族长）是 Max 的母亲，她的签名出卖了女儿",
+    "四位 heir（Drakken、Caspian、Nikolai、Aelindor）宣称 Max 属于自己，并在她周围结成人墙护卫",
+    "New Columbia 总统与使节在场作证，三个王国在舞池形成以 Max 为中心的对峙三角",
+    "Xander 与 Max 的性命被血契绑定：杀掉他就等于杀掉她"
+  ],
+  "numbers": [
+    "not ten minutes ago",
+    "a few weeks old",
+    "lost for twenty years",
+    "the three kingdoms",
+    "a thousand more"
+  ]
+}

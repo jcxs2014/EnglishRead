@@ -1,0 +1,68 @@
+{
+  "chapter": "ch04",
+  "facts": [
+    {
+      "fact": "Max 向 Aelindor 提出要真正的战斗训练而非课堂操练，为进入 Haven 做准备，并问他先前的邀请是否仍然有效。",
+      "quote": "“I need training,” I said. “Real combat preparation, not classroom drills. If I’m going into the Haven, I need to be more than I am.",
+      "start": 34,
+      "end": 166
+    },
+    {
+      "fact": "Drakken 在帐篷口出声截话，主动宣布由他来训练 Max（语气低沉笃定，臂下夹着她的铺盖）。",
+      "quote": "“I’ll train you.”",
+      "start": 242,
+      "end": 259
+    },
+    {
+      "fact": "Max 压下受辱与抗拒接受了宿敌的训练提议，只答了一个 Fine——没有感激也没有敌意，像停战而非投降；因为 Drakken 能教她像一无所有的人那样战斗，正是进 Haven 所需。",
+      "quote": "“Fine,” I said.",
+      "start": 1396,
+      "end": 1411
+    },
+    {
+      "fact": "Drakken 进帐篷后一言不发把 Max 的铺盖铺到三位继承人铺盖之间的正中——帐篷里最安全的位置。",
+      "quote": "crossed without a word to the center of the floor—the space between the three heirs’ bedrolls—and laid it down.",
+      "start": 2026,
+      "end": 2137
+    },
+    {
+      "fact": "Caspian 把 Max 抱到怀里，说 Let us take care of you，把她放上铺盖、掖好毯子；她嘴上说能走，身体却接受了被照顾。",
+      "quote": "“Let us take care of you,” Caspian said, the same words Aelindor had used, but rougher, warmer,",
+      "start": 2888,
+      "end": 2983
+    },
+    {
+      "fact": "Max 想起自己在矿里自八岁起就是照顾者：每晚给 Missy 掖被、确保 Rogue、Kaid、Desta 有水——从没有人这样照顾过她，喉咙因此发紧。",
+      "quote": "I’d tucked Missy in every night in the mine, made sure Rogue, Kaid, and Desta had water.",
+      "start": 3391,
+      "end": 3479
+    },
+    {
+      "fact": "Aelindor 在自己铺盖边让 Max 睡觉，说这里很安全、明早再理一切；Max 意识到自己很久没听过 safe 这个词，感受三位继承人的力量分层护持着她。",
+      "quote": "“You’re safe here. We’ll figure everything out in the morning.”",
+      "start": 3740,
+      "end": 3803
+    },
+    {
+      "fact": "章末 Max 让自己感受了一秒钟被能夷平城市的男人们珍视、掖被、守夜的滋味，自问能否习惯这种被守护，又自问能否活着承受它。",
+      "quote": "The strange, aching sweetness of being treasured by men who could raze cities but chose to tuck me into a bedroll and stand guard.",
+      "start": 5412,
+      "end": 5542
+    }
+  ],
+  "relations": [
+    "Drakken：Covenant 军队统帅、曾多年执掌 Greycrown Academy，此前在审讯室与训练场上羞辱伤害过 Max，如今主动出任她的战斗教官",
+    "Aelindor 能教 Max 战略，Caspian 教直觉，Nikolai 教读人——四人均为 heir/王子",
+    "Caspian 是狼形兽人（心跳快于人类、体内有狼）；Drakken 体内之龙接近表面（火山般的热）；Aelindor 是 Fae、力量最古老",
+    "Aelindor 曾给 Drakken 一个体面的退出机会，Drakken 放弃离开、留下并守护 Max",
+    "Drakken 童年上过刑架、历经战争、是家族血脉最后的幸存者——他对自己和对 Max 一样严酷",
+    "Missy 是 Max 在矿里每晚亲手掖被的亲人；Rogue、Kaid、Desta 是矿中受她照顾的同伴",
+    "三位 heir 围着 Max 守夜，能量分层互补（大地、风、野火），如同一座“由男人组成的堡垒”"
+  ],
+  "numbers": [
+    "since I was eight",
+    "Three heirs surrounded me",
+    "Three should have been suffocating.",
+    "One alpha male in a confined space was already too potent."
+  ]
+}

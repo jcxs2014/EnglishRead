@@ -1,0 +1,79 @@
+{
+  "chapter": "ch20",
+  "facts": [
+    {
+      "fact": "Drakken 原本答应训练 Max，却仍在 Greyhold 镇守东部边境、暂无归期，Max 因他不在而心里发闷。",
+      "quote": "Drakken was supposed to take up my training, as he’d promised, but he was still at Greyhold, holding the eastern border",
+      "start": 556,
+      "end": 675
+    },
+    {
+      "fact": "Caspian 踩着旱冰鞋冲进继承人的私人训练室。",
+      "quote": "he came through the door on roller blades that rumbled like low thunder",
+      "start": 1365,
+      "end": 1436
+    },
+    {
+      "fact": "Max 向 Caspian 借一双旱冰鞋，Caspian 蹲下握住她的脚检查尺码。",
+      "quote": "Caspian dropped down beside me with animal ease and lifted my foot into his hand.",
+      "start": 3659,
+      "end": 3740
+    },
+    {
+      "fact": "Max 告诉 Caspian：Missy 并非她血亲，Missy 的母亲死于难产、父亲在矿井里出事故后，Missy 才来与她同住，并已为她做了一年情报员。",
+      "quote": "Missy isn’t my blood. Her mother died in childbirth, and after her father’s accident in the shafts, she came to live with me.",
+      "start": 8308,
+      "end": 8433
+    },
+    {
+      "fact": "Caspian 向 Max 保证会把 Missy 救回来，态度一改轻松，显出不会食言的分量。",
+      "quote": "“We’ll get her back,” Caspian said. The easy warmth was gone, replaced by the weight of a man who didn’t break promises.",
+      "start": 8470,
+      "end": 8590
+    },
+    {
+      "fact": "Max 发现自己正在忘记父母的脸；她知道白女巫处决了 Caspian 的父母，也杀了 Drakken 和 Nikolai 的父母。",
+      "quote": "I knew the White Witch had executed his parents. The same woman had murdered Drakken’s and Nikolai’s as well.",
+      "start": 6403,
+      "end": 6512
+    },
+    {
+      "fact": "Caspian 把 Max 摔到垫子上开训，趁他忙着替自己辩护时，Max 用他动怒露出的空隙翻身骑到他身上。",
+      "quote": "While he was busy defending his good name, fully distracted, I bridged, twisted, and drove my shoulder into the gap his temper had opened.",
+      "start": 12929,
+      "end": 13067
+    },
+    {
+      "fact": "Nikolai 出现在门口叫停这次训练，说 Haven 那边刚传来情报，伸手要 Max 跟他走；Max 立刻从 Caspian 身上跳下来。",
+      "quote": "“Session’s over.” Nikolai turned from the wall, the amusement gone, replaced by something more serious. “Intel from the Haven just came in.”",
+      "start": 15057,
+      "end": 15197
+    }
+  ],
+  "relations": [
+    "Caspian 是变形者（shifter）王子，与 Max 相处亲近轻松，是四继承人中最会逗她开心的一位",
+    "Frost 负责 Max 的训练安排，把她带进继承人的私人训练室后离开",
+    "Drakken 是第四位继承人，原答应亲自训练 Max，但仍在 Greyhold 守东线",
+    "Nikolai 是吸血鬼王子，与 Caspian 互相敌视；他曾教过 Max 潜行，并且被 Max 认为在散播对她不利的流言",
+    "Missy 是 Max 收养的妹妹（非血亲），在 Haven 当“小间谍”为 Max 收集情报，从未被抓",
+    "白女巫处决了 Caspian、Drakken、Nikolai 三人的父母",
+    "Max 当年为嘲讽 Delia 一党而称 Caspian 是“ten”，此话被阿尔丁诺尔听见，也传到了 Caspian 耳中"
+  ],
+  "numbers": [
+    "Chapter 20",
+    "Four mats",
+    "all four of them",
+    "four hooks",
+    "four directions",
+    "a ten",
+    "start at a three and work his way up",
+    "Three or more people witness something, it leaks",
+    "five miles through a wasteland",
+    "a growth spurt at nine",
+    "By eleven I was taller than everyone in the mine",
+    "for a year",
+    "a thousand times",
+    "half the base swooning",
+    "two ‘bloodsuckers’ in one conversation"
+  ]
+}

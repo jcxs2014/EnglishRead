@@ -1,0 +1,71 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "fact": "当众演示：Max 吞下甜甜圈、卷起左袖解开臂甲、激活 Coldiron——三秒内护臂液化重塑成一支黑箭，满室军官惊呼；Caspian 骄傲地称是炼金术，Major Adrian 当场反驳说没有炼金术士能凭意念重塑金属。",
+      "quote": "In three seconds, the bracer was gone. An arrow lay across my palm.",
+      "start": 630,
+      "end": 697
+    },
+    {
+      "fact": "Max 把箭递给 Aelindor，他向全军讲解 Coldiron：Rupture 之后现世，神话溯源至 Lucifer Morningstar 陨落或垂死恒星之心，关键是有感知、只应答 Cadet Max 一人。",
+      "quote": "What matters is that it’s sentient, and it answers to Cadet Max alone.",
+      "start": 1997,
+      "end": 2067
+    },
+    {
+      "fact": "箭在军官间传看，凡试摸箭头者全部被灼伤起泡——Lee 直接握住烫出水泡，Karrik、Reeves 缩手，Marco 吓得椅子刮地后仰。",
+      "quote": "Every officer who tried came away with blisters or burns, some worse than others.",
+      "start": 2656,
+      "end": 2737
+    },
+    {
+      "fact": "Aelindor 当众披露：archdemon 曾在列车顶棚用这支箭射他，Max 替他挡下——没有她的介入 Coldiron 早已要了他的命，他欠她一条命；军官们因此开始重新审视她。",
+      "quote": "Cadet Max intercepted it. Without her intervention, the Coldiron would have ended me. I owe her my life.",
+      "start": 3061,
+      "end": 3165
+    },
+    {
+      "fact": "Drakken 通报 Max 的情报：十年来 Crimson Ridge 出货的 Stormglass 约半数含分子级休眠 Coldiron（受命才激活），各王国（Pallid Court、Haven、New Columbia 及自家堡垒约三分之一）皆已收到污染品而唯有 Max 能激活；Karrik 高喊 This. Changes. Everything!，Reeves 断言可瘫痪白女巫的整个 Stormglass 基建、终结战争。",
+      "quote": "Approximately half of all Stormglass distributed from the mine contains dormant Coldiron, embedded at the molecular level.",
+      "start": 4314,
+      "end": 4436
+    },
+    {
+      "fact": "Aelindor 当众表态 Max 不只是资产：对他和继承人们意义重大得多，但她的真实角色不是也永远不会是简报话题；Max 心跳到喉头、强忍泪水。",
+      "quote": "“She means more than that to me. To the heirs.”",
+      "start": 7366,
+      "end": 7413
+    },
+    {
+      "fact": "Commander Lee 试图把箭收归 Zodiac Covenant 军械库编目，Max 几乎咆哮 It’s mine，Caspian 目泛金光低吼令 Lee 归还；Lee 松手推还，Max 将箭重塑回臂甲贴腕藏好。",
+      "quote": "“Give it back to Max,” Caspian growled.",
+      "start": 9235,
+      "end": 9274
+    },
+    {
+      "fact": "章末简报转入后勤议程（DarkVeil 巡逻轮换、补给线、增援时间表）；Max 盯上盒里最后一枚粉霜甜甜圈，但慑于 Drakken 的注视不敢伸手，自比矿区人们争霉面包的岁月后作罢。",
+      "quote": "I was grateful for the coffee and the one donut, and skipping a second donut was no tragedy.",
+      "start": 11206,
+      "end": 11298
+    }
+  ],
+  "relations": [
+    "Aelindor 当众为 Max 定性：不只是资产，对继承人们意义重大，真实角色永不入简报——Max 视之为把她当人的表态",
+    "Drakken 主导把 Max 的能力转为作战情报并列为机密，军 officers 视其为可赢得对白女巫战争的武器",
+    "Commander Lee（Drakken 麾下指挥官）想把 Coldiron 箭收归 Covenant 军械库，与 Max 发生所有权冲突",
+    "Caspian 低吼护 Max，迫使 Commander Lee 归还箭（狼王子对“已宣示之物”的掠食者脾气）",
+    "Major Adrian（情报官）当场质疑“炼金术士”解释，指出无人能凭意念三秒重塑金属",
+    "Coldiron 是有感知的金属，只应答 Max 一人，会在她脑中以孩童般的欢快语气说话",
+    "Fae 血脉对 iron-Coldiron 化合物致命（Aelindor 自述曾被 archdemon 以此箭所射、欠 Max 一命）",
+    "Max 对 heirs 怀有阴影般的疑虑：他们对她的好是否只因她有用——但回忆起被照顾早于她暴露能力"
+  ],
+  "numbers": [
+    "In three seconds, the bracer was gone.",
+    "for half a second",
+    "for the past decade",
+    "Approximately half of all Stormglass",
+    "approximately one-third of our own fortress",
+    "the weight of forty years on the front line"
+  ]
+}

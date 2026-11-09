@@ -1,0 +1,75 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "fact": "Max 与 Aelindor、Caspian、Drakken 三位继承人一同从 DarkVeil 里坠落出来，纠缠成一团摔在地面上",
+      "quote": "We fell through the DarkVeil in a tangle of limbs.",
+      "start": 34,
+      "end": 84
+    },
+    {
+      "fact": "Aelindor 跪在 Max 身侧，用手缓慢地在她肩背之间来回安抚",
+      "quote": "Aelindor knelt beside me, hand moving slowly between my shoulder blades.",
+      "start": 1603,
+      "end": 1675
+    },
+    {
+      "fact": "Max 第一次不带敌意地在心里问寄居的那个存在「你是什么」，那东西始终沉默不作答",
+      "quote": "I asked the question for the first time without hostility.",
+      "start": 2498,
+      "end": 2556
+    },
+    {
+      "fact": "Max 向三位王子报告：他们看到的闪电是 Coldiron，是一种有意识的金属网络，DarkVeil 里的储量比 Crimson Ridge 多几百倍",
+      "quote": "“The lightning you saw, sirs—that’s Coldiron. A network of it,” I said, lowering the bottle.",
+      "start": 6164,
+      "end": 6256
+    },
+    {
+      "fact": "Max 交代：她已让 Coldiron 封锁 DarkVeil 阻止任何东西出来，但缺了她驻守加固，屏障撑不了多久",
+      "quote": "They can’t hold indefinitely. Not without me stationed here to reinforce the barrier.",
+      "start": 7548,
+      "end": 7633
+    },
+    {
+      "fact": "Max 透露 Coldiron 说过一个「False Heir」，并说此人比火车上那个 archdemon 更强，而她能在 Coldiron 层面克制他",
+      "quote": "“Coldiron called that being the false heir,” I said.",
+      "start": 8575,
+      "end": 8627
+    },
+    {
+      "fact": "Max 表明先把妹妹 Missy 救回来是首要任务，等妹妹安全后她才愿意永久驻守这条边境",
+      "quote": "But I need to get my sister back first. Missy’s safety is my priority.",
+      "start": 9466,
+      "end": 9536
+    },
+    {
+      "fact": "章末地面剧烈震动，Max 先以为是地震，随即判断这不是塌方而是暴力",
+      "quote": "This wasn’t a quake.",
+      "start": 11081,
+      "end": 11101
+    }
+  ],
+  "relations": [
+    "Max 与 Aelindor、Caspian、Drakken 三位继承人一同穿越 DarkVeil 并一起返回地面",
+    "Aelindor、Caspian、Drakken 是同族兄弟继承人，Drakken 用军令口吻训斥 Max，Caspian 当面顶撞他，Aelindor 抬手喝止二人争执",
+    "Caspian 与 Max 是恋人关系（Max 视自己为他的女友）",
+    "Aelindor 用魔法照顾 Max（递水、施法托住她）",
+    "Max 与 Missy 是亲兄妹，Max 把救回 Missy 视为最高优先",
+    "Max 体内寄居着一个古老实体，它能辨认 DarkVeil 并向她发出警告",
+    "Coldiron 是有意识的金属网络，能与 Max 沟通并接受 Max 的命令",
+    "False Heir 是能以意志号令 Coldiron 的存在；火车上放冷铁箭的 archdemon 并非 False Heir，只是强行驱使金属",
+    "Max 曾击败 archdemon；archdemon 曾用冷铁箭射伤 Aelindor",
+    "Sparta 部队在 DarkVeil 外的营地列队待命，迎接三位继承人归来"
+  ],
+  "numbers": [
+    "eighty-one years",
+    "Four bodies",
+    "three feet away",
+    "a decade ago",
+    "Hundreds of times more than Crimson Ridge",
+    "a century of unanswered questions",
+    "thousands of miles away",
+    "three stubborn princes"
+  ]
+}

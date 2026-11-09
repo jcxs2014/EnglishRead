@@ -1,0 +1,303 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/foolsilver-by-meg-xuemei-x/ch32 true mate.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/foolsilver-by-meg-xuemei-x/text/ch32_chap32.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I needed Xander to come. Everything depended on it. I could not bear to watch Max’s hope shatter",
+          "ok": true,
+          "pos": 274
+        },
+        {
+          "text": "During the battle, I hadn’t been able to take to the sky. I’d had to hold the center of the fortress and watch through a",
+          "ok": true,
+          "pos": 420
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Then the scope found Max, high on the dragon’s back, and I saw the dark bloom spreading down her shoulder. Her blood spi",
+          "ok": true,
+          "pos": 863
+        },
+        {
+          "text": "She fought like a Spartan despite only a single month’s training to her name, as though war were a tongue she’d been bor",
+          "ok": true,
+          "pos": 1175
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When she chose to be a warrior and asked for her place in the academy, the four of us made one another a quiet vow: we w",
+          "ok": true,
+          "pos": 1531
+        },
+        {
+          "text": "If she fell, I would follow her into the dark",
+          "ok": true,
+          "pos": 2041
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "My night guards had melted back into the trees. They’d served me for centuries; they knew what she was to me. Not the wh",
+          "ok": true,
+          "pos": 2462
+        },
+        {
+          "text": "She had come to give herself to me, freely choosing it, and that more than anything undid me",
+          "ok": true,
+          "pos": 4902
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Then it will be my honor to have you,” I said, and began to undress her. I took my time with it, the way a man handles ",
+          "ok": true,
+          "pos": 5357
+        },
+        {
+          "text": "“You might not be my first, love,” I told her, low, “but you will be my last.”",
+          "ok": true,
+          "pos": 6025
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Nothing could stop me from wanting you,” I said. “There is nothing you could say or have done that would make me want y",
+          "ok": true,
+          "pos": 7918
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But the magic in me had known her on sight, the way a star knows its own light—before thought, before reason. She was mi",
+          "ok": true,
+          "pos": 8814
+        },
+        {
+          "text": "It’d taken me a while to come out of the shock of it—that after all these long centuries, I had a true mate at all",
+          "ok": true,
+          "pos": 8948
+        },
+        {
+          "text": "There would be a moment to tell her. Not this one. This one belonged to her",
+          "ok": true,
+          "pos": 9113
+        }
+      ],
+      "words": 69
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "32. Chapter 32",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1786,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 10、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

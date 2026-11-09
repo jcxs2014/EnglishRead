@@ -1,0 +1,77 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "fact": "Caspian 单膝跪地把掌心按在震动的地面上，凭震动判断来的是成队行进的变异兽群，自南边的 Haven 方向逼近",
+      "quote": "“Wild horses,” Caspian said, dropping to one knee and pressing his palm to the trembling earth.",
+      "start": 35,
+      "end": 130
+    },
+    {
+      "fact": "三位继承人不商量就把身体挡在 Max 前面，排成三堵墙护住她",
+      "quote": "The three heirs placed themselves in front of me.",
+      "start": 408,
+      "end": 457
+    },
+    {
+      "fact": "Max 扯下前臂的臂甲，冷铁当场苏醒，数百颗 Coldiron 粒子同时被点燃",
+      "quote": "Coldiron exploded to life. Not a whisper this time. Hundreds of Coldiron particles blazed to consciousness",
+      "start": 2498,
+      "end": 2604
+    },
+    {
+      "fact": "Drakken 化身巨龙，从口中喷出金火，在冲锋的兽群中央犁出一条燃烧的壕沟",
+      "quote": "Golden fire erupted from his jaws, carving a burning trench through the heart of the charging mass.",
+      "start": 4077,
+      "end": 4176
+    },
+    {
+      "fact": "Max 掷出环刃救下被扑倒的 Caspian，冷铁在飞行中自行修正轨迹，穿透变异兽的肋骨击中心脏",
+      "quote": "The disc accelerated, correcting its trajectory mid-flight, and hit the mutant in the chest at full velocity",
+      "start": 7576,
+      "end": 7684
+    },
+    {
+      "fact": "近一百只变异兽在混战中同时转头锁定 Max，一起朝她发起冲锋",
+      "quote": "Close to a hundred beasts, mid-combat, pivoted in unison, red-black eyes locking onto me with a coordinated focus",
+      "start": 7847,
+      "end": 7960
+    },
+    {
+      "fact": "Max 意识到刚才已经有人透过领头那只变异狼的眼睛实时看见了她",
+      "quote": "But someone had already seen me through the lead mutant’s eyes.",
+      "start": 13304,
+      "end": 13367
+    },
+    {
+      "fact": "回到营地后，臂甲里的 Coldiron 咯咯笑着喊「杀戮真有趣」，怂恿 Max 继续屠杀，Max 因此更加不安",
+      "quote": "Murder is fun! Coldiron chose that moment to chirp from the armguard, bright and cheerful.",
+      "start": 15838,
+      "end": 15928
+    }
+  ],
+  "relations": [
+    "Max 与 Aelindor、Caspian、Drakken 并肩作战，Max 是随行的第一年新兵",
+    "Aelindor 是 Fae 继承人，用风系法术开路并指挥全局",
+    "Caspian 是狼族继承人，可变形为近九尺高的巨狼战士形态",
+    "Drakken 是龙族继承人，可化为带翼巨龙，因己方混战在一起而不喷龙火，改用爪击",
+    "Aelindor 与 Caspian 曾在 Max 身前合拢成闸门般的防线掩护她",
+    "Max 能号令 Coldiron，把冷铁塑成环刃并让它自动索敌、杀人后回旋",
+    "这批变异狼是实验室制造的武器，专门仿造狼形以克制 Caspian 的种族",
+    "领头变异狼背后有人操控，并透过它的眼睛监视、衡量 Max（疑似 False Heir）",
+    "Max 体内的古老实体持续向她输送实时战术指令，Max 只听其中一部分",
+    "Major Frost、Spartan 下士 Enna、Marco（吸血鬼）、Gordon 是同袍，Enna 与 Marco 在追击中侧翼包抄",
+    "Coldiron 杀戮后变得兴奋雀跃，主动鼓动 Max 继续屠杀"
+  ],
+  "numbers": [
+    "nearly nine feet tall",
+    "Hundreds of Coldiron particles",
+    "ten inches in diameter",
+    "Two kills in ten seconds",
+    "Close to a hundred beasts",
+    "thirty feet",
+    "eighty-seven percent of the time",
+    "thirty-odd beasts",
+    "over ten feet"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "fact": "开场：Max 滑下 Aelindor 的膝盖坐到床沿，Caspian 把她散乱的白发别到耳后",
+      "quote": "Caspian tucked it behind my ear with tender fingers.",
+      "start": 533,
+      "end": 585
+    },
+    {
+      "fact": "Max 报告：妹妹已不在 Crimson Ridge，被 Collector 掳走了",
+      "quote": "“My sister isn’t in Crimson Ridge anymore. The Collector has her.”",
+      "start": 1936,
+      "end": 2002
+    },
+    {
+      "fact": "幻象：玻璃盒中被割下的女人头颅开口说「他已查明你、你妹妹在 Haven」，随后双眼转纯黑，Max 在黑中看见 Missy 嘶喊 Max! Max! 随即被黑暗吞没",
+      "quote": "‘He found out about you. He’s been searching for you for a very long time. Now he knows everything. He has your sister in the Haven.’",
+      "start": 4241,
+      "end": 4374
+    },
+    {
+      "fact": "Aelindor 认出头颅是 Oracle：Xander 割下她的头、用黑魔法养活、自任她预言的唯一听众；Max 的描述与画像吻合",
+      "quote": "Severed her head, kept it alive with dark magic, and made himself the sole audience for her visions.",
+      "start": 6393,
+      "end": 6493
+    },
+    {
+      "fact": "Drakken 推演绑匪路线：买通守卫带走小女孩，向西入 Nevada、南经 Arizona 到 New Mexico 边境、再进入 Texas 的 Xander 领地",
+      "quote": "They could go west into Nevada, south through Arizona to the New Mexico border, then into Xander’s territory in Texas.",
+      "start": 12203,
+      "end": 12321
+    },
+    {
+      "fact": "Max 宣布不回基地，天一亮就南下独自穿越进 Haven 救妹妹",
+      "quote": "I won’t go back to the base, sirs. I’m heading south at first light to cross into the Haven.",
+      "start": 15249,
+      "end": 15341
+    },
+    {
+      "fact": "Aelindor 定调：你不会独行；行动前先核实情报——确认 Missy 在 Haven、查清 Collector 关押她的确切地点",
+      "quote": "First, we confirm that Missy is in the Haven and not still at Crimson Ridge.",
+      "start": 16008,
+      "end": 16084
+    },
+    {
+      "fact": "章末：Aelindor 点出 Drakken 没把 Max 的铺盖卷带进来，请他去别处过夜；Drakken 无言掀帘走进黑夜",
+      "quote": "Then, without a word, he peeled himself off the tent pole, turned, and pushed through the flap into the dark.",
+      "start": 17651,
+      "end": 17760
+    }
+  ],
+  "relations": [
+    "Max 是三人的 cadet（学员），称呼他们 sirs；Drakken 军衔在她之上，质询她逃兵的后果",
+    "Missy 是 Max 六岁半的妹妹（绰号 little viper），被 Collector 从 Crimson Ridge 掳走",
+    "Xander（the Collector）囚禁 Oracle：杀死她、割下头颅以黑魔法养活，独占她的预言；Oracle 渴望 Max 赐她死亡解脱",
+    "Oracle 主动向 Max 传象示警，又把 Max 的存在泄露给 Xander——两边下注为自己换取自由",
+    "Aelindor 与 Caspian 站在 Max 一边：Aelindor 宣布她不会独行，Caspian 要她信任他们、不盲闯敌境",
+    "Drakken 与 Delia 是恋人（Max 讥讽他们是 drama queen/drama king 绝配，Drakken 大笑回敬「You’re jealous」）",
+    "Max 能与有意识的金属 Coldiron 沟通；Coldiron 曾是她的藏身手段，离开矿山后不再庇护她",
+    "Max 的父母自幼训练她「先想后动、靠智谋活命」，并把她深藏躲过追查",
+    "Crimson Ridge 的围栏有结界、瞭望塔有人守，边境由 White Witch 的强化军驻守"
+  ],
+  "numbers": [
+    "Six and a half",
+    "In for four. Hold for four. Out for four.",
+    "four counts, hold, four counts out",
+    "Shaped like a three-pointed star",
+    "I’d spent a decade planning my escape from Crimson Ridge",
+    "held Aelindor’s gaze for three heartbeats",
+    "My shoulders dropped half an inch"
+  ]
+}

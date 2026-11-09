@@ -1,0 +1,76 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "fact": "Max 在营地让自己有用起来：搬货箱、运木料、修爆破屏障。",
+      "quote": "Meanwhile, I made myself useful—carried crates, hauled timber, repaired blast barriers.",
+      "start": 391,
+      "end": 478
+    },
+    {
+      "fact": "Max 睡得很差，黎明前醒来就往外跑；暗幕里“我们在这里”的唱和声又响了起来。",
+      "quote": "I slept poorly and woke before dawn.\n\n\n\nWe’re here. We’re here.\n\n\n\nThe chanting started again as I ran.",
+      "start": 927,
+      "end": 1030
+    },
+    {
+      "fact": "Max 沿着暗幕外侧跑、离它半个街区，暗幕的拉扯一路拽住她的胸口，越跑越强。",
+      "quote": "I ran parallel to the Veil, half a block out. Its pull dragged at my chest, magnetic, deepening with every stride.",
+      "start": 1411,
+      "end": 1525
+    },
+    {
+      "fact": "Max 想起妹妹 Missy 只有六岁半、她逃出时被独自留在 Crimson Ridge，最后被最凶的掠食者从奴隶矿抓走，成了“顶着她妹妹脸的人质”。",
+      "quote": "Missy was six and a half. Left alone in Crimson Ridge when I escaped.",
+      "start": 3061,
+      "end": 3130
+    },
+    {
+      "fact": "Max 直直朝暗幕跑过去。",
+      "quote": "I jogged straight toward the Veil.",
+      "start": 3686,
+      "end": 3720
+    },
+    {
+      "fact": "一名 Spartan 士兵大喊质问 Cadet Max 在干什么，靴声从她身后急速逼近。",
+      "quote": "“Cadet Max! What the fuck are you doing?”",
+      "start": 5186,
+      "end": 5227
+    },
+    {
+      "fact": "Max 把手掌按在暗幕上，阴影像黑绸顺纹裂开、为她让路，她顺势滑了进去。",
+      "quote": "I pressed my palm to it.\n\n\n\nShadows drew apart for me like black silk splitting along the weave.",
+      "start": 5866,
+      "end": 5962
+    },
+    {
+      "fact": "Max 冲破了阻力（空气涌入、她踉跄着站稳），只看见远处一片并非阳光的红色辉光——她已身在暗幕之内。",
+      "quote": "Light hit—not sunlight but a reddish glow in the distance.\n\n\n\nI was inside the DarkVeil.",
+      "start": 6369,
+      "end": 6457
+    }
+  ],
+  "relations": [
+    "Max：女主、前奴隶、现役 Cadet；MISSY 的姐姐",
+    "Missy：Max 的妹妹，六岁半，被 Collector 从 Crimson Ridge 的奴隶矿抓走，作为针对 Max 的人质",
+    "Max 与 Aelindor / Caspian / Nikolai / Drakken（四位 heir）：他们把她从 Scorched Wastes 救出、承诺营救 Missy；她一度选择离开他们独睡自己的帐篷",
+    "Max 与 Oracle：靠 Coldiron 跨距离传递意图，暗幕中的 Coldiron 之河可充当两者之间的桥",
+    "Max 与 White Witch：敌对；Q-bomb 撕裂 Shimmer 并催生 DarkVeil，Max 讽刺她“干得好，白女巫”",
+    "Max 与 DarkVeil：暗幕用她的名字唱和并把她吸入；Spartan 守在它一个街区之外并被她越过",
+    "Max 与 archdemon：archdemon 被她的 Coldiron spike 刺伤后退去",
+    "Max 与 Spartans：营地共同作战的战友；一名 Spartan 追上来并喊停"
+  ],
+  "numbers": [
+    "Chapter 7",
+    "Two more days until the transports came to take us back to the fortress.",
+    "No demon activity since the first wave.",
+    "Missy was six and a half.",
+    "A month. Two at most.",
+    "millennia",
+    "the Q-bomb",
+    "half a block out",
+    "The Spartans kept a full block back.",
+    "Every thirty seconds",
+    "I stood three feet from the shifting shadows."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "chapter": "ch35",
+  "facts": [
+    {
+      "fact": "马克西姆打开信使留下的三个盒子，看到三件礼服并全都喜欢",
+      "quote": "When I opened the three boxes the messenger had left, I was lost for words.",
+      "start": 36,
+      "end": 111
+    },
+    {
+      "fact": "马克西姆选了那件看起来朴素的衣服，并把随盒而来的项链扣在喉间",
+      "quote": "I slid into the one that drew my hand—the deceptively plain one—and fastened the necklace that came with it at my throat",
+      "start": 756,
+      "end": 876
+    },
+    {
+      "fact": "弗罗斯特来接她们并把她们送到军官俱乐部，同时交代布里恩：把马克西姆送进场后她就要沿墙消失",
+      "quote": "You walk Max in. The moment she moves toward the center of the floor, you peel off and disappear along the wall.",
+      "start": 2047,
+      "end": 2159
+    },
+    {
+      "fact": "马克西姆一踏进舞池，全场的人同时转头盯住她",
+      "quote": "And then, as though I were a lodestone, every head in the room swung toward me at once and fixed there.",
+      "start": 3274,
+      "end": 3377
+    },
+    {
+      "fact": "马克西姆认出艾林多尔和尼古拉伊身边那个令她血冷的男人是桑德——收藏家",
+      "quote": "Xander. The Collector.",
+      "start": 6995,
+      "end": 7017
+    },
+    {
+      "fact": "桑德放出力量时，艾林多尔的魔法迎上去顶了回去，桑德随后收力",
+      "quote": "Then I felt Aelindor’s magic rise to meet it. Drawing a line: no outsider threw his weight around in the Fae heir’s house.",
+      "start": 7254,
+      "end": 7376
+    },
+    {
+      "fact": "马克西姆的盘算是十秒后溜出舞池与夜莺队会合、趁夜奔向庇护所，卡斯皮安和尼古拉伊随后脱身、德拉肯留下补位",
+      "quote": "Ten seconds, and I’d slip out of the ballroom to meet the rest of the Nightingale team, and we’d ride for the Haven under cover of the dark.",
+      "start": 7988,
+      "end": 8128
+    },
+    {
+      "fact": "章末倒数将尽时，马克西姆听见一个她熟识、且总与已死的鲁格一起出现在她噩梦里的人喊她的名字——德斯塔",
+      "quote": "A voice I knew in my bones. A voice that still haunted my dreams at night, hand in hand with Rogue’s—and Rogue was dead, devoured.",
+      "start": 8342,
+      "end": 8472
+    }
+  ],
+  "relations": [
+    "马克西姆与布里恩：布里恩是被指派当晚陪同她的学员",
+    "马克西姆与弗罗斯特：弗罗斯特负责接送与掩护",
+    "马克西姆与艾林多尔：刚结成新的绑定，他的魔法会回应她的力量",
+    "马克西姆与尼古拉伊：恋人，她昨夜刚与对方共度",
+    "马克西姆与卡斯皮安：她穿着他送来的靴子",
+    "马克西姆与德拉肯：他在宴会上朝她迈出一步又停住",
+    "德拉肯与德莉亚：德莉亚穿侍者服拦在德拉肯面前",
+    "马克西姆与桑德：敌人；桑德是收藏家，把她当成猎物",
+    "马克西姆与惠特莫尔：新哥伦比亚总统",
+    "马克西姆与鲁格：鲁格已死，他的影子随德斯塔的声音一起回来",
+    "马克西姆与体内的恶魔：恶魔察觉到她的力量外泄，怂恿她抓住机会"
+  ],
+  "numbers": [
+    "three boxes",
+    "first-year uniform",
+    "four blue stripes down each cheek",
+    "one of the six chosen for the honor",
+    "Ten seconds",
+    "Ten. Nine. Eight.",
+    "Three. Two"
+  ]
+}

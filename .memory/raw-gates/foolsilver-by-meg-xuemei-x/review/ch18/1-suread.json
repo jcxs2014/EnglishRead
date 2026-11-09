@@ -1,0 +1,77 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "fact": "Frost 驾车带 Max 横穿营地，经过作为军队日常指挥总部的 Covenant Hall 与墙根留有龙火灼痕的 Greycrown Library，一路开到被森林遮掩的 Elenmoor（阿尔丁诺尔的住处）。",
+      "quote": "Frost drove west through the compound, past the Covenant Hall, a broad-fronted building that served as headquarters",
+      "start": 36,
+      "end": 151
+    },
+    {
+      "fact": "阿尔丁诺尔走出 Elenmoor 向 Frost 点头示意，随后走到 Max 面前说“Walk with me”，并把她带到背靠湖面的训练场。",
+      "quote": "The Fae heir led me around the building to a training ring that backed onto the lake.",
+      "start": 1782,
+      "end": 1867
+    },
+    {
+      "fact": "阿尔丁诺尔两秒内看出 Max 左侧因 Delia 的刀伤而跛脚。",
+      "quote": "I was favoring it; the limp from Delia’s blade work was still there, and he clocked it in two seconds.",
+      "start": 2067,
+      "end": 2169
+    },
+    {
+      "fact": "Max 拒绝了阿尔丁诺尔把她调出常规学员轮换的提议，坚持留在其他学员中间。",
+      "quote": "“No, sir. I prefer to stay with the other cadets. Nothing I can’t handle.”",
+      "start": 3086,
+      "end": 3160
+    },
+    {
+      "fact": "阿尔丁诺尔释放出 Fae 魔力探测 Max 胸口中央的某物，那东西回应了他。",
+      "quote": "Fae magic—cool and ancient, like wind off a glacier—pressed against something in the center of my chest.",
+      "start": 5415,
+      "end": 5519
+    },
+    {
+      "fact": "阿尔丁诺尔中断探测后带着两杯水回来，告诉 Max 永远不必道歉，失态是他自己的过错。",
+      "quote": "“Max.” He raised a finger. “You never need to apologize. I lost control. The fault is mine.”",
+      "start": 8500,
+      "end": 8592
+    },
+    {
+      "fact": "阿尔丁诺尔判定 Max 的力量无法按原计划训练、只能被“fulfilled”；Max 认出这就是恶魔索取完全接纳的条件，拒绝接受。",
+      "quote": "Your magic can’t be trained the way I’d planned. It has to be fulfilled.",
+      "start": 9089,
+      "end": 9161
+    },
+    {
+      "fact": "Max 正要向阿尔丁诺尔坦白自己与 Nikolai 的血液契约时，一名穿深绿与金线长裙的 Fae 女子从林间走进空地。",
+      "quote": "A stunning Fae woman glided through the tree line, moving with the particular grace of her kind.",
+      "start": 10248,
+      "end": 10344
+    }
+  ],
+  "relations": [
+    "Max 是四王继承人（Zodiac Covenant）麾下的一年级学员，由阿尔丁诺尔单独带训",
+    "Frost（少校）是 Max 的上级教官，负责护送、训练安排与日常看守",
+    "阿尔丁诺尔是 Fae 一脉的继承人/王子，住在 Elenmoor；其他三位继承人在 Elenmoor 也各留房间",
+    "Delia 曾用刀伤到 Max 的左侧，Max 的跛脚与无法训练都由此而来",
+    "恶魔寄生在 Max 体内，能与她对话并以“完全接纳”换取力量",
+    "Missy 是 Max 收养的妹妹（非血亲），现被关在 Haven，需要被救出",
+    "Nikolai 与 Max 存在血液契约（blood arrangement），Max 打算向阿尔丁诺尔坦白此事",
+    "Max 自身血脉里带有与生俱来的炼金术（Alchemy/Coldiron）",
+    "刚到空地的 Fae 女子与阿尔丁诺尔关系亲近，两人有只属于彼此的语言与私密交谈"
+  ],
+  "numbers": [
+    "Chapter 18",
+    "four heirs",
+    "two seconds",
+    "three fronts",
+    "two-day timeline for Crimson Ridge",
+    "at eight",
+    "Two distinct channels",
+    "three fast steps back",
+    "two glasses of water",
+    "halfway",
+    "one pull"
+  ]
+}

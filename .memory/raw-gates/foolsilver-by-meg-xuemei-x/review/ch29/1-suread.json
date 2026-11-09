@@ -1,0 +1,80 @@
+{
+  "chapter": "ch29",
+  "facts": [
+    {
+      "fact": "敌方一大群 wyvern 扑上来，队首飞着一头 Kharvox",
+      "quote": "a hard wave of lethal leather and claws, more wyverns than I could count in a glance, and at the head of them flew a Kharvox.",
+      "start": 52,
+      "end": 177
+    },
+    {
+      "fact": "十名红袍女巫用淡紫色光线牵线，把线头送进那些新造吸血鬼的头颅里",
+      "quote": "Ten of them in red coven robes, hands trailing threads of dark purple light that ran down into the vampires’ skulls.",
+      "start": 1606,
+      "end": 1722
+    },
+    {
+      "fact": "马克的两枚环刃同时出手，斩断带骑手 wyvern 的脖子，沾着绿血飞回掌心",
+      "quote": "The rings sheared clean through the beast’s neck and came whistling home to my palms, slick with green gore.",
+      "start": 2543,
+      "end": 2651
+    },
+    {
+      "fact": "马克的环刃穿过女巫的法术、没被挡住，直接贯穿了女巫的胸口",
+      "quote": "It sailed straight through her magic, swallowed it like it was nothing, and went through her chest with a giggle.",
+      "start": 3772,
+      "end": 3885
+    },
+    {
+      "fact": "一只吸血鬼从龙的侧翼扑上来，抓伤了马克的肩膀",
+      "quote": "It came up over the dragon’s flank too fast to track, and its claws raked my shoulder before I could pull clear.",
+      "start": 4679,
+      "end": 4791
+    },
+    {
+      "fact": "马克意识到那些爪子是要抓住她、把她拖下龙背，而不是要杀她",
+      "quote": "Every claw that had reached me had reached to grab. To drag. To haul me off the dragon’s back. Not to kill.",
+      "start": 5316,
+      "end": 5423
+    },
+    {
+      "fact": "巨龙撕开 Kharvox 的一侧，alpha mutant 随即退开",
+      "quote": "the dragon opened the Kharvox down one flank, scales sheeting away in a spray of dark green blood, and the alpha mutant broke off",
+      "start": 10419,
+      "end": 10548
+    },
+    {
+      "fact": "地面部队从城墙上向扑来的敌群齐射",
+      "quote": "Volleys ripped up from the walls into the enemy rank.",
+      "start": 10734,
+      "end": 10787
+    }
+  ],
+  "relations": [
+    "敌方苍白宫廷（Pallid Court）工坊新育出这头比德拉肯的龙更大的 Kharvox；这次近三打骑手扒在 wyvern 背上，而上次 wyvern 是无人驾驶的",
+    "十名红袍女巫在后方用淡紫色光线牵线操纵那些新造吸血鬼，马克判定它们只是傀儡",
+    "卡斯皮安（Caspian）在马克背后用长剑与死亡牌护卫，马克受伤时他暴怒出手劈开那只吸血鬼",
+    "德拉肯（Drakken）化龙驮着马克与卡斯皮安作战；敌方术士用魔族语下令，马克听得懂却对所有人隐瞒",
+    "敌方目标不是摧毁要塞而是活捉马克：术士下令不惜代价抓住她，验明之后再决定杀不杀",
+    "尼古拉（Nikolai）的射手在城墙上齐射支援，瞄准极准，但一次偏射就会把巨龙、卡斯皮安和马克一起炸上天",
+    "马克、卡斯皮安与德拉肯在 Greyhold 已配合过一次，这次三人仍如一体"
+  ],
+  "numbers": [
+    "half a heartbeat",
+    "two weeks",
+    "a dozen times",
+    "nearly three dozen",
+    "Twenty newly made vampires.",
+    "Ten witches leashing them.",
+    "Ten of them in red coven robes",
+    "three of us",
+    "five wyverns at its flanks",
+    "one weightless second",
+    "two mutant vampires",
+    "one of the old dragon-killers",
+    "three against far too many",
+    "one bad shot",
+    "second chakram",
+    "one arm clamped around me"
+  ]
+}

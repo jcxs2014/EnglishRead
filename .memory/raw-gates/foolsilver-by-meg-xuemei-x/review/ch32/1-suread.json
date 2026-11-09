@@ -1,0 +1,68 @@
+{
+  "chapter": "ch32",
+  "facts": [
+    {
+      "fact": "苍白宫廷（Pallid Court）在代表团预定到达前两天又向堡垒投来一波 mutants，Aelindor 认定这是一个毫不掩饰的警告。",
+      "quote": "The Pallid Court had thrown another wave of mutants at us two days before the delegations were due.",
+      "start": 160,
+      "end": 259
+    },
+    {
+      "fact": "Aelindor 认定自己必须让 Xander 到来，一切取决于此，他不忍看 Max 的希望破灭。",
+      "quote": "I needed Xander to come. Everything depended on it. I could not bear to watch Max’s hope shatter.",
+      "start": 296,
+      "end": 393
+    },
+    {
+      "fact": "战斗中 Aelindor 无法升空，只能守住堡垒中心，用 Stormglass 望远镜把战局拖近到眼前，看着堡垒边缘燃烧。",
+      "quote": "During the battle, I hadn’t been able to take to the sky. I’d had to hold the center of the fortress and watch through a Stormglass scope",
+      "start": 452,
+      "end": 589
+    },
+    {
+      "fact": "Aelindor 在望远镜里看见 Max 肩上血晕扩散、自己的血她够不到，同时为她只训练一个月就打得像斯巴达人而骄傲。",
+      "quote": "She fought like a Spartan despite only a single month’s training to her name, as though war were a tongue she’d been born already speaking.",
+      "start": 1216,
+      "end": 1355
+    },
+    {
+      "fact": "Aelindor 想起四人曾互相立誓：尊重 Max 自己选择做战士、绝不折断她的翅膀。",
+      "quote": "the four of us made one another a quiet vow: we would honor it. We would never clip her wings.",
+      "start": 1648,
+      "end": 1742
+    },
+    {
+      "fact": "Aelindor 害怕因为拒绝圈禁她而失去她；他对自己说，如果她倒下，他会跟着她走进黑暗。",
+      "quote": "I would not walk that road tonight. If she fell, I would follow her into the dark.",
+      "start": 2059,
+      "end": 2141
+    },
+    {
+      "fact": "Max 出现在月光下的前庭并抬头望向他的窗口，Aelindor 已经移动到门口等着她上楼。",
+      "quote": "She started for the house. I was already moving, so that by the time her foot touched the first stair she found me waiting in the open door.",
+      "start": 2818,
+      "end": 2958
+    },
+    {
+      "fact": "章末 Aelindor 终于接受这个事实：历经漫长世纪之后，他有了一个真正的伴侣（true mate）。",
+      "quote": "It’d taken me a while to come out of the shock of it—that after all these long centuries, I had a true mate at all.",
+      "start": 9154,
+      "end": 9269
+    }
+  ],
+  "relations": [
+    "Aelindor 与 Max：真命伴侣（true mate），他体内的魔法在初见时便认出了她，她夜里滑冰前来寻他",
+    "Aelindor 与他的兄弟们（Nikolai、Caspian 等四位继承人）：共同立誓尊重 Max 作为战士的选择、绝不折她的翅膀",
+    "Max 与 Caspian：战友，战斗中 Caspian 站在她背后替她挡下 Aelindor 不在的位置",
+    "Max 与 Nikolai：师徒与战友，Nikolai 的暗色滑行训练已成为她的本能",
+    "Aelindor 与夜卫：夜卫跟了他几个世纪，知道 Max 对他的意义，主动退入树林放她进来",
+    "苍白宫廷（Pallid Court）与 Aelindor／四人：敌对，两日前再投 mutants 施压",
+    "Max 与 Xander the Collector：Aelindor 需要 Xander 到来，因为关系到 Max 的希望"
+  ],
+  "numbers": [
+    "two days before the delegations were due",
+    "a single month’s training to her name",
+    "the four of us made one another a quiet vow",
+    "the first stair"
+  ]
+}

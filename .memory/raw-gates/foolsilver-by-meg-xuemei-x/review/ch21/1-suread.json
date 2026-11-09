@@ -1,0 +1,75 @@
+{
+  "chapter": "ch21",
+  "facts": [
+    {
+      "fact": "Nikolai 与 Caspian 在赶路全程互相拌嘴（Nikolai 反对派人送信，Caspian 回敬说信使会打断训练）。",
+      "quote": "Nikolai and Caspian bickered the entire way.",
+      "start": 36,
+      "end": 80
+    },
+    {
+      "fact": "Aelindor 在作战室当众下令：Cadet Max Morning 的身份、能力与对契约的价值不得传出这间屋子。",
+      "quote": "Cadet Max Morning’s presence here—her identity, her abilities, her value to the Covenant—doesn’t leave these walls.",
+      "start": 2919,
+      "end": 3034
+    },
+    {
+      "fact": "Max 在战术地图旁把臂甲熔成两枚十英寸宽的暗铁色回旋刃（chakram）。",
+      "quote": "Two chakrams formed in my palm, each ten inches across, dark iron-black, humming with contained energy.",
+      "start": 4011,
+      "end": 4114
+    },
+    {
+      "fact": "一名穿牛血色与海军蓝制服的上校（Nikolai 家族）仍用手按了桌上的 chakram，手当场在众人眼前枯萎，Nikolai 立刻下令送去医疗部。",
+      "quote": "Her hand that had touched the chakram withered before our eyes.",
+      "start": 5102,
+      "end": 5165
+    },
+    {
+      "fact": "Caspian 简报：Max 过去十年在 Crimson Ridge 矿场秘密经营，Crimson Ridge 运出的 Stormglass 有一半被掺入休眠状态的 Coldiron。",
+      "quote": "What nobody knew, what we didn’t know, is that Max has been running a covert operation out of that mine for the past decade.",
+      "start": 6732,
+      "end": 6856
+    },
+    {
+      "fact": "Aelindor 指出只要 Max 一声令下，Pallid Court 的运输、通信与奥术武器等一切依赖 Stormglass 的设施都会同时瘫痪。",
+      "quote": "One command from Max and we cripple the Pallid Court’s entire infrastructure—transport, communications, arcane weapons",
+      "start": 7573,
+      "end": 7691
+    },
+    {
+      "fact": "Lady Vaelith 打断全场的亢奋：白女巫的顶尖法师已开始分析这种金属，她冒险飞回报信；女巫团把它称作 Foolsilver。",
+      "quote": "“The Witch’s coven calls it Foolsilver,” Lady Vaelith continued. “The trickster metal.",
+      "start": 8894,
+      "end": 8980
+    },
+    {
+      "fact": "章末 General Theron Cassel 点名要 Max 的判断，Max 答「我的作品遍布整块大陆」，全室被逗笑。",
+      "quote": "“Well. I’m proud to report that my work is all over this continent.”",
+      "start": 11485,
+      "end": 11553
+    }
+  ],
+  "relations": [
+    "Max（Cadet Max Morning）是 Zodiac Covenant 的学员兼炼金术师，能力绑定有意识的金属 Coldiron，被三位继承人带入 Greymantle 地下作战室。",
+    "Aelindor、Caspian、Nikolai、Drakken 是 Zodiac Covenant 的四任继承人（heirs），共同向高级军官团为她背书。",
+    "Lady Vaelith 是半精灵，与 Aelindor 挨坐低语（Max 怀疑是旧情人），同时替联盟潜入白女巫一方做间谍。",
+    "General Rhaek Solenne 隶属 Drakken 家族（House of Leo），主张立刻激活 Max 这个「资产」打垮 Pallid Court。",
+    "Commander Lee 属于 Forged（被 Rupture 魔力改写血统者），主张对 Max 做能力评估。",
+    "General Theron Cassel 是纯血 Fae 将领，坐在长桌另一端。",
+    "触碰到 chakram 的上校属 Nikolai 家族（牛血色与海军蓝制服）。",
+    "白女巫（White Witch）是 Pallid Court 的统治者，其女巫团（coven）把 Coldiron 命名为 Foolsilver 并正在破解其魔法。",
+    "Pallid Court 控制着 Crimson Ridge（犹他州）的大陆最大 Stormglass 矿藏，占四国总产量约八成。"
+  ],
+  "numbers": [
+    "four generals, one per army, each reporting to their heir",
+    "Two chakrams formed in my palm, each ten inches across",
+    "Roughly eighty percent of total production across all four kingdoms.",
+    "We’ve raided it seven times and never breached it.",
+    "for the past decade",
+    "Half the Stormglass shipment out of Crimson Ridge has been seeded with dormant Coldiron",
+    "including a third of this fortress, is compromised",
+    "The Pallid Court’s output tripled ten years ago.",
+    "I’ve met two in my career."
+  ]
+}

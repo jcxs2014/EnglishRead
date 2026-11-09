@@ -1,0 +1,73 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "fact": "Marco 按 Aelindor 的命令开始对 Max 进行私人近战训练",
+      "quote": "“Your private combat instruction starts now.”",
+      "start": 36,
+      "end": 81
+    },
+    {
+      "fact": "Marco 教 Max 步法：转身、横向移动、斜向后退以避开变异体的冲锋路线",
+      "quote": "Footwork first. Pivots, lateral shifts, the angled retreats that kept you out of a mutant’s charge lane.",
+      "start": 720,
+      "end": 824
+    },
+    {
+      "fact": "Marco 反复纠正 Max 的防御姿势，共纠正了三十六次",
+      "quote": "He corrected my guard three dozen times.",
+      "start": 1313,
+      "end": 1353
+    },
+    {
+      "fact": "Max 一直练到天色变成琥珀色，双臂脱力垂在身侧",
+      "quote": "I trained until the light turned amber and my arms hung dead at my sides.",
+      "start": 1472,
+      "end": 1545
+    },
+    {
+      "fact": "黄昏时分 Frost 开一辆吉普车停在训练场旁，坐在驾驶座上等 Max",
+      "quote": "Near dusk, a jeep halted by the training ring. Frost sat behind the wheel, impeccable as always.",
+      "start": 1662,
+      "end": 1758
+    },
+    {
+      "fact": "晚餐开始时 Caspian 拉开空椅请 Max 入座，并当面称赞她",
+      "quote": "“You look stunning, Max.” Caspian pulled out the empty chair and stood beside it, one hand on the back",
+      "start": 7905,
+      "end": 8007
+    },
+    {
+      "fact": "Drakken 推开椅子起身，以“有职责要处理”为由中途离席",
+      "quote": "“Excuse me.” He shoved his chair back, the scrape making everyone flinch, and stood. “I have a duty to see to.”",
+      "start": 10180,
+      "end": 10291
+    },
+    {
+      "fact": "晚餐继续，Max 吃了汉堡、对 Aelindor 微笑，并被 Caspian 的笑话逗笑",
+      "quote": "I ate my burger, smiled at Aelindor, and laughed at Caspian’s jokes.",
+      "start": 11045,
+      "end": 11113
+    }
+  ],
+  "relations": [
+    "Marco 受 Aelindor 之命担任 Max 的私人近战教练",
+    "Frost（少校）负责在训练结束后用车把 Max 送回 Greyhold 军官宿舍",
+    "Max 在 Greyhold 使用 Aelindor 的房间洗澡更衣",
+    "Aelindor 或 Caspian 为 Max 弄来了女装与女性内衣",
+    "Max 当晚与 Aelindor、Drakken、Caspian 三位王子共进晚餐",
+    "Caspian 当众向 Max 示好并为她拉椅子",
+    "Drakken 因无法与 Max 同处一室而中途离席，Aelindor 让 Caspian 放他走"
+  ],
+  "numbers": [
+    "three dozen times",
+    "six hours",
+    "an hour",
+    "a dozen times",
+    "by half",
+    "three heirs",
+    "four chairs",
+    "Three men",
+    "three princes"
+  ]
+}

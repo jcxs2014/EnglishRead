@@ -1,0 +1,67 @@
+{
+  "chapter": "ch36",
+  "facts": [
+    {
+      "fact": "Max 转头看见 Desta 活着朝自己冲来，Marco 抢先切入她的路线，把她扑倒并按在地板上",
+      "quote": "Marco moved in the same instant, faster than sight—the vampire who’d ride with me to the Haven tonight cut into her path",
+      "start": 216,
+      "end": 336
+    },
+    {
+      "fact": "Max 喝令 Marco 放开 Desta，Marco 迟疑半秒后把她拽了起来",
+      "quote": "Marco’s eyes found mine and held them half a second, one hard question in them. Then he hauled Desta to her feet.",
+      "start": 556,
+      "end": 669
+    },
+    {
+      "fact": "Desta 告诉 Max：是 Saint Xander 在 Scorched Wastes 找到半死的她并把她带回了家",
+      "quote": "Saint Xander found me out in the Scorched Wastes, half-dead, and he carried me home.",
+      "start": 3850,
+      "end": 3934
+    },
+    {
+      "fact": "Desta 告诉 Max，Missy 现在在 Haven 里，和 Saint 在一起，被当作公主般对待",
+      "quote": "She nodded. “And with the Saint. He treats her like a princess.”",
+      "start": 5592,
+      "end": 5656
+    },
+    {
+      "fact": "Desta 说有精锐卫兵日夜看守 Missy，Max 由此断定 Missy 实际上被囚禁",
+      "quote": "“Elite guards. Day and night. They watch over her like she’s a jewel.”",
+      "start": 6294,
+      "end": 6364
+    },
+    {
+      "fact": "Max 决定扮演信任的旧友，让 Collector 毫无察觉，如同舞池另一侧的 Aelindor 与 Nikolai 那样稳住局面",
+      "quote": "I had a part to play. Keep the Collector blind and unruffled, the same as Aelindor and Nikolai were doing across the room.",
+      "start": 8037,
+      "end": 8159
+    },
+    {
+      "fact": "Xander 用魔法眨眼间横穿整个舞池来到 Max 身边，截断她抽身的打算",
+      "quote": "He’d crossed the whole floor in the space of a blink—one of his magics, I realized a beat too late.",
+      "start": 9808,
+      "end": 9907
+    },
+    {
+      "fact": "Xander 邀 Max 跳舞并拿 Missy 说事，Max 拒绝就范，坚持要求与他谈 Missy",
+      "quote": "“I’d like to talk to you about Missy.” His tiger-amber eyes pinned me.",
+      "start": 13479,
+      "end": 13549
+    }
+  ],
+  "relations": [
+    "Max 与 Desta 是旧识：两人曾在 Crimson Ridge 矿上一起挖矿，Desta 如今成了 Saint Xander 的人",
+    "Desta 把 Xander（Saint、Collector、Haven 的王）当作神一般敬畏，从未这样看过 Kaid 或旧同伴",
+    "Marco 是与 Max 同行的吸血鬼，负责今晚护送她去 Haven，并替她制服突然冲来的 Desta",
+    "Missy 是 Max 的妹妹，被 Xander 收作 ward 留在 Haven，由精锐卫兵日夜看守",
+    "Kaid 与 Rogue 已死，Desta 说他们在 Scorched Wastes 救援不及",
+    "Aelindor 与 Nikolai 在舞池另一侧牵制敌方，Caspian 穿过人群向 Max 靠近，Drakken 与 Delia 也在场"
+  ],
+  "numbers": [
+    "half a second",
+    "all three kingdoms",
+    "three kingdoms’ command",
+    "the million-dollar costume"
+  ]
+}

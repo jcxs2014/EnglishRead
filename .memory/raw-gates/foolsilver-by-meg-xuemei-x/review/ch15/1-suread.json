@@ -1,0 +1,71 @@
+{
+  "chapter": "ch15",
+  "facts": [
+    {
+      "fact": "Max 夜里溜回学员营房，身上还带着 Nikolai 的气味",
+      "quote": "I slipped into the barracks, Nikolai’s scent still on my skin.",
+      "start": 36,
+      "end": 98
+    },
+    {
+      "fact": "Bryn 从自己的上铺跳下，落地不绊、几步冲过房间，像小货车一样撞进 Max 怀里抱住她",
+      "quote": "She hit me like a small freight vehicle, arms around my ribs, squeezing hard.",
+      "start": 1081,
+      "end": 1158
+    },
+    {
+      "fact": "Max 拒绝把营外发生的事全告诉 Bryn，称那是机密",
+      "quote": "“Classified, Bryn.” I held her gaze. “I’m serious. Some of what happened out there? I can’t talk about it.”",
+      "start": 1928,
+      "end": 2035
+    },
+    {
+      "fact": "Max 只向 Bryn 透露列车袭击是恶魔所为、恶魔来自 DarkVeil",
+      "quote": "“True.” I chose my words carefully. “It was a demon attack. They came out of the DarkVeil. That’s all I can say.”",
+      "start": 2117,
+      "end": 2230
+    },
+    {
+      "fact": "Delia 带着一个褐发女孩、一个粉发女孩和另外两人走向 Max 的铺位发难",
+      "quote": "Delia led her circle toward my bunk, a brunette, a pink-haired girl, and two others, probably from the magical class.",
+      "start": 2497,
+      "end": 2614
+    },
+    {
+      "fact": "Max 反击 Delia，叫她不如去问自己的男朋友",
+      "quote": "“Why don’t you go ask your boyfriend?” I said sweetly.",
+      "start": 3398,
+      "end": 3452
+    },
+    {
+      "fact": "学员中士 Thane 在门外喝令熄灯，并威胁再出声就半夜跑圈",
+      "quote": "“Lights out! One more sound and you’re running laps at midnight.”",
+      "start": 5976,
+      "end": 6041
+    },
+    {
+      "fact": "Max 躺下后想起 Missy 此刻正被 Collector 关着，照旧哼出那两声上下的信号等她回应，并在心里宣告要去救她",
+      "quote": "She’d be making the sound now, wherever the Collector kept her. Two notes, up and down. Waiting for me to give it back.",
+      "start": 7198,
+      "end": 7317
+    }
+  ],
+  "relations": [
+    "Max 与 Bryn 是同铺室友兼挚友，Bryn 曾以为 Max 死在营外",
+    "Max 与 Nikolai（吸血鬼王子）有血之契约，行踪与气味仍留在她身上",
+    "Max 随四位继承人 Nikolai、Aelindor、Caspian、Drakken 出任务",
+    "Delia 是 Caspian 的女友，Max 以“去问你男朋友”回击她",
+    "Delia 的圈子由褐发女孩 Petra、粉发女学员等数人组成",
+    "学员中士 Thane 管辖整个一阶学员营房（含女生层）",
+    "Missy 是 Max 的妹妹，被 Collector 关押，Max 承诺一个月内回来救她",
+    "Drakken 与 Max 相处别扭，却替她拿来了睡铺并留下"
+  ],
+  "numbers": [
+    "a decade in the underground mine",
+    "Over a hundred women",
+    "crossed the room in four strides",
+    "less than a month or two",
+    "A month, I’d promised, the day I went over the fence. Two at most, and I’ll come back for you.",
+    "half the base"
+  ]
+}

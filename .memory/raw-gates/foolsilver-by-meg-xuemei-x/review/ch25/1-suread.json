@@ -1,0 +1,72 @@
+{
+  "chapter": "ch25",
+  "facts": [
+    {
+      "fact": "灰堡守军开进城时，德拉肯立刻登上首班返回首都的火车。",
+      "quote": "I was on the first train back to the capital the moment the garrisons rolled into Greyhold.",
+      "start": 40,
+      "end": 131
+    },
+    {
+      "fact": "德拉肯告诉他的龙要盯住马克斯·莫宁，因为他仍不信任她的血统。",
+      "quote": "I need to keep an eye on Max Morning, I told my dragon. I still don’t trust her bloodline.",
+      "start": 135,
+      "end": 225
+    },
+    {
+      "fact": "德拉肯下火车后直接进了作战室，与另外三位继承人开完一场快速战务会。",
+      "quote": "I went straight to the war room off the train, sat through a fast war council with the other three, and was about to head for my quarters.",
+      "start": 1364,
+      "end": 1502
+    },
+    {
+      "fact": "德拉肯先派朱莉跟踪马克斯并汇报动向；朱莉跑来报告说学员躲在图书馆里。",
+      "quote": "Julie, whom I’d set to shadow Max and report her movements, came jogging up with word that the cadet was holed up in the library.",
+      "start": 1670,
+      "end": 1799
+    },
+    {
+      "fact": "德拉肯拔出背上的玄铁阔剑冲向马克斯；马克斯的寒铁护臂当场化作双匕首，夹住他的剑刃使其卡死。",
+      "quote": "Two daggers shot up and caught my blade between them, locking it dead.",
+      "start": 7946,
+      "end": 8016
+    },
+    {
+      "fact": "马克斯从地面起身，怒火中烧地把匕首平压在德拉肯的喉咙上，两人僵持对视。",
+      "quote": "Rage blazing in her eyes, she came up off the floor and pressed a dagger flat to my throat.",
+      "start": 8277,
+      "end": 8368
+    },
+    {
+      "fact": "德拉肯抢先夺过马克斯扔下的书，斥责她逃掉训练躲在这里看脏书。",
+      "quote": "“Look what I caught. You skipped your training to hide up here and read filth.”",
+      "start": 14517,
+      "end": 14596
+    },
+    {
+      "fact": "德拉肯训斥她不许偷懒、不要看脏书、要时刻保持警觉，随后转身把她一个人留在书架间独自生气。",
+      "quote": "I turned on my heel and left her there, seething behind me between the shelves.",
+      "start": 17787,
+      "end": 17866
+    }
+  ],
+  "relations": [
+    "德拉肯（凯珀尼斯龙族继承人、将军）是马克斯的直属上级兼教官、审讯者",
+    "德拉肯的共生之龙与德拉肯离心，反而亲近、迷恋马克斯",
+    "朱莉是德拉肯派去跟踪马克斯并汇报其行踪的眼线",
+    "马克斯为四位继承人各做了一只寒铁护臂，但没有亲手给德拉肯，是艾尔因多尔转交并为他绑定",
+    "马克斯的寒铁护臂会变形为双匕首并拥有独立意识，会向马克斯“咨询”并自陈立场",
+    "德拉肯视自己为最优秀的策略家与实战者，与尼古拉伊、卡斯平互为竞争者",
+    "艾尔因多尔是德拉肯的义兄弟/兄长，冷铁护臂由他亲手为德拉肯戴上"
+  ],
+  "numbers": [
+    "She’d already turned three battle-hardened killers into lovesick boys.",
+    "double doors twenty feet tall",
+    "two Coldiron arrows toward Aelindor",
+    "three days in my interrogation cell",
+    "Exactly one man in this fortress was better than me with a blade, and Aelindor had a century of practice on me.",
+    "a thousand of my fellow cadets",
+    "All four of us wore an armguard now",
+    "Max stood only an inch or two under me."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "fact": "使者在车站站台等候 Max 所在列车的进站",
+      "quote": "Envoys were waiting at the station platform when our train pulled in.",
+      "start": 36,
+      "end": 105
+    },
+    {
+      "fact": "Max 担心假继承人出现后能压制她对冷铁的控制，让更多恶魔越过帷幕",
+      "quote": "The Coldiron within would obey my command and prevent more demons from crossing over, unless the false heir showed up and countered me.",
+      "start": 261,
+      "end": 396
+    },
+    {
+      "fact": "Drakken 留守 Greyhold 守住东部边境，等待其他要塞的增援",
+      "quote": "The dragon prince had stayed behind at Greyhold to hold the eastern border until reinforcements arrived from the other forts.",
+      "start": 2820,
+      "end": 2945
+    },
+    {
+      "fact": "Nikolai 顶着正午日光亲自到站台迎接，因为吸血鬼在正午最脆弱",
+      "quote": "At noon, even the most powerful among them were at their most vulnerable. Yet their prince had come to meet us in person.",
+      "start": 1470,
+      "end": 1591
+    },
+    {
+      "fact": "列车停稳后 Nikolai 走下楼梯，只向 Max 伸出手",
+      "quote": "Then Nikolai was there at the bottom of the stairs, hand extended.",
+      "start": 3801,
+      "end": 3867
+    },
+    {
+      "fact": "Max 握住 Nikolai 的手，全场目光都落在她身上，她把下巴抬平",
+      "quote": "Heads turned. Every set of eyes landed on me, and I held my chin level.",
+      "start": 4479,
+      "end": 4550
+    },
+    {
+      "fact": "Caspian 把手臂搭上 Max 的肩膀宣示占有，说车已经在等",
+      "quote": "The shifter prince dropped his arm around my shoulders with easy possessiveness.",
+      "start": 6871,
+      "end": 6951
+    },
+    {
+      "fact": "Max 坐在 Nikolai 的车里、夹在两位王子中间，看着丹佛出现在挡风玻璃外",
+      "quote": "I sat between two princes on a bench seat built for three and watched Denver come into view through the windshield.",
+      "start": 8009,
+      "end": 8124
+    }
+  ],
+  "relations": [
+    "Nikolai 与 Caspian 长期敌对（吸血鬼与狼），在站台当众针锋相对",
+    "Caspian 当众把 Max 揽在臂弯宣示占有",
+    "Nikolai 当众向 Max 伸手，放弃军阶礼节",
+    "Aelindor 从不干预 Caspian 对 Max 的公开宣示，也默许 Nikolai 与 Max 的关系",
+    "Drakken 留守 Greyhold 守住东部边境，等候其他要塞的增援",
+    "Frost 下车时一直跟在 Max 身后一步",
+    "Max 是冷铁（Coldiron）的操控者，假继承人可以压制她的命令"
+  ],
+  "numbers": [
+    "the first wave",
+    "High noon",
+    "second to last",
+    "first-year cadet",
+    "a couple of days",
+    "two commanders and a general",
+    "Fifty-odd military transports",
+    "a bench seat built for three",
+    "two princes"
+  ]
+}

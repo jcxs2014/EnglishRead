@@ -1,0 +1,72 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "fact": "晨跑时 Max 到第三圈就把 Bryn 甩开，因为她从哨站回来后变得更快更强",
+      "quote": "By the third, the gap between us opened, not because she slowed, but because I was getting faster. Stronger.",
+      "start": 538,
+      "end": 646
+    },
+    {
+      "fact": "Max 在第五圈追上 Bryn，放慢速度配合她，并转入人少的外道",
+      "quote": "I caught up with Bryn on the fifth lap and slowed to match her pace. We swung into the less crowded outer lane.",
+      "start": 909,
+      "end": 1020
+    },
+    {
+      "fact": "Bryn 说两人像在渐行渐远，Max 保证军阶不会让他们分开、她仍是自己最好的朋友",
+      "quote": "“Rank won’t define us, and it won’t separate us,” I said. “You’re my friend. We aren’t drifting anywhere. You got me?”",
+      "start": 1827,
+      "end": 1945
+    },
+    {
+      "fact": "Max 走进食堂时全场停下动作转头看她，交谈和餐具声都卡住",
+      "quote": "Every head turned when I walked in.",
+      "start": 2422,
+      "end": 2457
+    },
+    {
+      "fact": "打饭的铁灰发女服务员不问就给 Max 多盛了一勺土豆，回头质问的男学员被她顶了回去",
+      "quote": "Then she reached back and added another scoop of potatoes.",
+      "start": 3212,
+      "end": 3270
+    },
+    {
+      "fact": "Bryn 提醒 Max Delia 一伙会靠流言和名声从远处毁掉她，Max 只说自己有更要紧的事要想",
+      "quote": "They’ll work the rumors. The whispers. Chip at your credibility from a distance where no one can prove anything, until they ruin you.",
+      "start": 4270,
+      "end": 4403
+    },
+    {
+      "fact": "Max 站起来当众要求全食堂停止流言与相互评分，强调一起作战、共同流血，引来零散掌声",
+      "quote": "We fight together or we fight divided. That’s the simple truth",
+      "start": 7902,
+      "end": 7964
+    },
+    {
+      "fact": "Bryn 让 Max 下次干脆站到桌子上发表讲话，Max 拒绝；她知道食堂的平静不会持续",
+      "quote": "“Stand on the table next time,” Bryn said.",
+      "start": 9064,
+      "end": 9106
+    }
+  ],
+  "relations": [
+    "Max 与 Bryn 同为跑步搭档，Bryn 担心两人因军阶不同而疏远",
+    "Bryn 是少数知悉 Coldiron 与秘密、仍被 Max 信任的人",
+    "Slade 与 Kevin 已离开、组织性敌意无人维持，男性学员对 Max 的态度转为敬畏",
+    "Delia 及其圈子以流言和传闻攻击 Max 的可信度",
+    "打饭的铁灰发女服务员偏爱 Max，多给他盛土豆",
+    "食堂多数女学员选择观望而非与 Max 为敌",
+    "Max 的目标是完成训练并把妹妹 Missy 救回来"
+  ],
+  "numbers": [
+    "the first two laps",
+    "By the third",
+    "the fifth lap",
+    "thousands of cadets",
+    "two egg-and-cheese sandwiches",
+    "another scoop of potatoes",
+    "two full seconds",
+    "a decade underground"
+  ]
+}

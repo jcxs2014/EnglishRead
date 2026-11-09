@@ -1,0 +1,74 @@
+{
+  "chapter": "ch28",
+  "facts": [
+    {
+      "fact": "警报响起后教室大乱，一半以上一年级学员同时跳起来、椅子刮地、想逃",
+      "quote": "Over half of the first-years jumped to their feet at once, chairs scraping, breath going short and shallow.",
+      "start": 318,
+      "end": 425
+    },
+    {
+      "fact": "薇斯珀下令全体学员撤入地下避难所，学员列队鱼贯撤出",
+      "quote": "She ordered them to the underground shelters—every major building had one, for cadets and civilians.",
+      "start": 798,
+      "end": 898
+    },
+    {
+      "fact": "马克逆着撤离方向滑走、远离避难所，薇斯珀追了上来",
+      "quote": "I skated the other way, hard and fast, away from the shelters. Lieutenant Vesper came after me.",
+      "start": 1198,
+      "end": 1293
+    },
+    {
+      "fact": "马克抬起手臂时，腕上的冷铁护臂自行脱落并飞散成两枚环刃",
+      "quote": "I lifted my arm. The Coldiron armguard peeled off my wrist and flew apart into two chakrams, their edges glinting.",
+      "start": 1314,
+      "end": 1428
+    },
+    {
+      "fact": "布琳拒绝去避难所，要跟马克同去，理由是自己已在操练名单上",
+      "quote": "“Not a chance,” she said. “I go where you go. I’m on the drill roster now, remember?”",
+      "start": 1670,
+      "end": 1755
+    },
+    {
+      "fact": "德拉肯在战场中央当场变形：躯体向外折叠、骨与影拉长、金鳞如泼洒的硬币",
+      "quote": "his body folding outward, bone and shadow stretching long, gold scales pouring over him like spilled coins.",
+      "start": 4003,
+      "end": 4110
+    },
+    {
+      "fact": "马克助跑起跳，越跳越高并稳稳落在龙背上",
+      "quote": "Then I ran, leaping higher than I had any right to, startling myself, and came down cleanly on the dragon’s back.",
+      "start": 4964,
+      "end": 5077
+    },
+    {
+      "fact": "巨龙高飞硬冲，直插 mutant 大军、准备打乱其阵型",
+      "quote": "The dragon flew high and hard, set to drive straight into the horde of mutants and break their rank.",
+      "start": 9747,
+      "end": 9847
+    }
+  ],
+  "relations": [
+    "薇斯珀中尉喝令“纪律”并把一年级学员编入地下避难所，默许马克逆行去参战",
+    "布琳拒绝撤离，坚持随马克上战场；马克把滑板鞋塞给她并让她留在斯巴达人队中、不许上前线",
+    "德拉肯（Drakken）先在校场中央指挥地面防御，随后变形为黑金巨龙；马克骑上他的背，他也能在马克脑中说话",
+    "尼古拉（Nikolai）率吸血鬼部队顶着正午烈日守在城墙上，弓箭手齐射备战",
+    "卡斯皮安（Caspian，狼形）在半空中变回人形落到龙背正中，与马克背靠背作战；术士们用血魔法为卡斯皮安和马克各做了一套护甲",
+    "马克、卡斯皮安与德拉肯的巨龙沿用 Greyhold 时的三人配合；马克明确拒绝只听卡斯皮安指挥，要求互相掩护盲区"
+  ],
+  "numbers": [
+    "Over half",
+    "two rows",
+    "two chakrams",
+    "one short nod",
+    "One day on the roster",
+    "a ten",
+    "thrice over",
+    "All three heirs",
+    "two feet",
+    "between one breath and the next",
+    "high noon"
+  ]
+}

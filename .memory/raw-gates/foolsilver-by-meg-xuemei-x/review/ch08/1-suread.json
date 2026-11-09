@@ -1,0 +1,78 @@
+{
+  "chapter": "ch08",
+  "facts": [
+    {
+      "fact": "Caspian 被抵在胸口的冰矛惊醒，翻身缩成低伏姿势、喉咙里吼出声音，狼性当即上涌。",
+      "quote": "An icy spear pressed into my chest. I snapped awake, rolled into a crouch, a growl tearing from my throat before my brain caught up.",
+      "start": 38,
+      "end": 170
+    },
+    {
+      "fact": "Enna 报告说 Marco 和 Major Frost 试着跟进 Max，封死的暗幕把他们挡在外面，谁也没进去。",
+      "quote": "Marco tried to follow, and Major Frost, and four others. The Veil’s sealed.” Her voice cracked. “None of them got through.",
+      "start": 1394,
+      "end": 1516
+    },
+    {
+      "fact": "Aelindor 喝令 Spartan 们不要跟进、改为守卫暗幕，随后他与 Drakken、Caspian 三人一起撞进暗幕。",
+      "quote": "“Do not follow!” Aelindor barked at our men. “Guard the Veil. That is an order.”\n\n\n\nThe three of us hit the DarkVeil together.",
+      "start": 2656,
+      "end": 2782
+    },
+    {
+      "fact": "穿过暗幕后，Caspian 看见 Max 站在二十英尺外、还活着，头发向上飘仿佛重力倒转。",
+      "quote": "Max stood twenty feet ahead, back to us, her midnight-blue hair drifting upward as if gravity had reversed. She was alive.",
+      "start": 3361,
+      "end": 3483
+    },
+    {
+      "fact": "暗幕里液态金属的银色闪电整体转向三人；暗幕的规则禁死了 Drakken 的变身，Aelindor 的魔法也彻底失效。",
+      "quote": "Drakken couldn’t shift. Aelindor’s magic was dead.",
+      "start": 6095,
+      "end": 6145
+    },
+    {
+      "fact": "Max 举起双手、徒手挡下成千上万束液态银火，吼出“THEY. ARE. MINE”，闪电像被头狼压制般退缩并服从。",
+      "quote": "“THEY. ARE. MINE,” she roared. “Do not harm what’s mine!”\n\n\n\nThe lightning recoiled. The entire canopy pulled back",
+      "start": 6910,
+      "end": 7024
+    },
+    {
+      "fact": "Max 告诉三人自己是目标、催他们先走，Aelindor 却吼出誓言：绝不没有她。",
+      "quote": "“I’m not their target. You are,” she snarled.\n\n\n\n“Even so, never without you, love.",
+      "start": 8300,
+      "end": 8383
+    },
+    {
+      "fact": "Max 叫三位 prince 抓住她以免被 Coldiron 击中，又卷起袖子把 Coldiron 灌进 armguard；随后一行四人转身穿过暗幕回到外面。",
+      "quote": "Together, we turned toward the wall of shadow and pushed through the DarkVeil.",
+      "start": 12282,
+      "end": 12360
+    }
+  ],
+  "relations": [
+    "Caspian：狼形 prince，本章叙述者，与 Max 同行同族",
+    "Aelindor（Fae heir）与 Drakken（龙 prince）与 Caspian 组成三人组，一同冲入 DarkVeil 救 Max",
+    "Aelindor 与 Max：Aelindor 当众立誓“never without you, love”，并说“我们一起走”",
+    "Max 与 Coldiron：Max 能徒手压制并吸收 Coldiron；DarkVeil 的规则正是在她体内运作",
+    "Enna（Spartan Corporal）：向三位 prince 报告 Max 闯入 DarkVeil",
+    "Marco（Commander）与 Frost（Major）加另外四人：试图跟进被暗幕封死，Marco 与 Frost 被灼伤",
+    "Max 与三位 prince：Max 宣告“THEY. ARE. MINE”，把三人划为自己人",
+    "Nikolai：三人组之一，Caspian 回忆他曾秒杀 warlords",
+    "Max 与三人组：他们找了她数十年（“the One”），并曾把她从 Scorched Wastes 拉回来"
+  ],
+  "numbers": [
+    "Chapter 8",
+    "two nights ago",
+    "A dozen Spartans",
+    "four others",
+    "flung ten feet backward",
+    "Max stood twenty feet ahead",
+    "hundreds of feet wide",
+    "less than three seconds from hitting Max",
+    "A thousand strands of liquid silver fire froze a dozen feet away",
+    "decades of searching for the One",
+    "three princes of the Zodiac Covenant",
+    "thousands of strands of liquid fire"
+  ]
+}

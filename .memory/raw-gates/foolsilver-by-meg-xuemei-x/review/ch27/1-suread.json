@@ -1,0 +1,71 @@
+{
+  "chapter": "ch27",
+  "facts": [
+    {
+      "fact": "马克滑到战斗复盘课外的走廊时，走廊已挤满了来旁听的一年级学员",
+      "quote": "The corridor outside the combat review class was packed by the time I skated up to it.",
+      "start": 36,
+      "end": 122
+    },
+    {
+      "fact": "布琳在第一排朝马克挥手叫他过去，并说自己提前一小时就来占这些座位",
+      "quote": "“Over here! Hurry up. I knew you’d come. I got here an hour early for these seats!”",
+      "start": 1230,
+      "end": 1313
+    },
+    {
+      "fact": "薇斯珀中尉走到台后喝了口水，让马克上前参加她的示范演示",
+      "quote": "“Since you’re here,” she said, stepping behind the podium and taking a swig from her flask, “you can join my demo. Up front.”",
+      "start": 2080,
+      "end": 2205
+    },
+    {
+      "fact": "马克告诉全班：结界没守住是第一个坏兆头，恶魔像军队一样沿车体涌上来，而且拒绝投降",
+      "quote": "“The wards didn’t hold,” I said. “That was the first bad sign. They came up the hull like a military force. And they don’t surrender.",
+      "start": 4465,
+      "end": 4598
+    },
+    {
+      "fact": "马克说他们把一只恶魔逼进死角时，那只自己割开了喉咙，恶魔不允许被俘",
+      "quote": "We cornered one, and it opened its own throat. They wouldn’t allow themselves to be taken prisoner.",
+      "start": 4599,
+      "end": 4698
+    },
+    {
+      "fact": "马克说自己杀了两个恶魔：一个确定，另一个是他全速把对方从列车顶踹下去的",
+      "quote": "“Two, I think.” I shrugged. “One for certain. The other I kicked off the roof of the train at full speed.”",
+      "start": 4800,
+      "end": 4906
+    },
+    {
+      "fact": "德莉亚嘲讽马克是学院养的稻草人、不折一兵就回来，马克回击叫她申请下一次部署、等被批准就让她去守黑幕防线",
+      "quote": "You should apply for the next deployment, Delia. If you’re accepted, the DarkVeil’s right where we left it.",
+      "start": 5630,
+      "end": 5737
+    },
+    {
+      "fact": "警报响彻整座要塞、所有 Stormglass 号角同时尖叫；又是一次袭击，已经打到门口",
+      "quote": "It tore through the fortress, every Stormglass klaxon screaming at once, a sound I’d already learned to hate.",
+      "start": 5936,
+      "end": 6045
+    }
+  ],
+  "relations": [
+    "马克被三名继承人（the heirs）保护并认可，已被从常规课程与训练中调出；德莉亚一伙公开敌视他",
+    "阿林多尔王子（Prince Aelindor）授权开设战斗复盘课，并兑现了给一年级生的座位承诺",
+    "布琳（Bryn）是马克同届的同学兼好友，在复盘课第一排替他占座并挥手叫他",
+    "薇斯珀中尉（Lieutenant Vesper）是战斗复盘课教官，穿着尼古拉家族（Sagittarius）的 oxblood 制服，把马克拉上台做示范，并向全班说明马克随斯巴达人东线部署、是唯一见过实战的学员",
+    "尼古拉（Nikolai）是 Sagittarius 家族之主，曾对马克说终有一天他会与自己完全平等",
+    "白巫（White Witch）的核心圈子是已知唯一能召唤恶魔者；DarkVeil（黑幕）则是阻挡恶魔的屏障"
+  ],
+  "numbers": [
+    "an hour early",
+    "three o’clock",
+    "three deep",
+    "Eighty-one years",
+    "thirteen",
+    "Two, I think.",
+    "One for certain.",
+    "three princes"
+  ]
+}

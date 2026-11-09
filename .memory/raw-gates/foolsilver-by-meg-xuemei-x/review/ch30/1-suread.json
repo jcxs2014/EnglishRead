@@ -1,0 +1,73 @@
+{
+  "chapter": "ch30",
+  "facts": [
+    {
+      "fact": "Nikolai 下令齐射，三百张战弓同时鸣响，箭幕带着火光升空射入蜻蜓群。",
+      "quote": "Three hundred bowstrings sang at once. My archers drew warbows no human arm could bend, and the volley went up in a single dark sheet",
+      "start": 107,
+      "end": 240
+    },
+    {
+      "fact": "Nikolai 让弩炮队用链弹横扫蜻蜓，链索缠住翅膀把它们折落墙下岩地。",
+      "quote": "Lengths of spinning chain whipped out and wrapped wyvern wings, folding them, and the beasts dropped like stones",
+      "start": 493,
+      "end": 605
+    },
+    {
+      "fact": "Nikolai 看见龙背上的 Max 肩膀中箭、血顺着袖子洇开，心里燃起一股冷怒。",
+      "quote": "She was bleeding. Her shoulder, a dark wet bloom spreading down her sleeve, and the sight of it lit a cold fury in me.",
+      "start": 1036,
+      "end": 1154
+    },
+    {
+      "fact": "十余只蜻蜓冲过箭雨后收翼直坠城内，Nikolai 转身调人守住庭院并向前压上。",
+      "quote": "More than a dozen wyverns had ridden out the arrow-storm, folded their wings, and dropped straight down into the fortress.",
+      "start": 2019,
+      "end": 2141
+    },
+    {
+      "fact": "外墙上的一段向内塌陷，声响如世界开裂，把站在上面的弩炮作业组一起埋进废墟。",
+      "quote": "folded in on itself with a sound like the world cracking and took the scorpion crew standing on it down into the rubble.",
+      "start": 2625,
+      "end": 2745
+    },
+    {
+      "fact": "战后清点，己方有二百余名士兵与军官阵亡。",
+      "quote": "Over two hundred of our soldiers and officers had fallen.",
+      "start": 4187,
+      "end": 4244
+    },
+    {
+      "fact": "Nikolai 发誓在白女巫夺走众人之前，先把她拖进黑暗，保住自己的兄弟与族人。",
+      "quote": "I would drag her into the dark with me before I let her have us. I would keep what was mine breathing—my brothers, my people.",
+      "start": 4956,
+      "end": 5081
+    },
+    {
+      "fact": "Nikolai 从高墙纵身跳下，落在血污的地面上，朝她走过去。",
+      "quote": "I stepped off the high wall, dropped the long fall to the bloodied ground, and went to her.",
+      "start": 5723,
+      "end": 5814
+    }
+  ],
+  "relations": [
+    "Nikolai 与 Max：恋人兼战友，她骑龙在阵中杀敌；他因她肩伤而分心生怒",
+    "Max 与 Caspian：并肩作战的战友，Caspian 挡在她背后守住她的侧翼",
+    "Max 与龙：她骑在龙背上与围攻的巫妖群作战，龙负责把她带上天空",
+    "Caspian 与龙：与 Max 同乘龙背，一起对抗敌方巫师与法师",
+    "Aelindor 与 Nikolai／龙：同阵营指挥，Aelindor 自前塔吹响长号令龙返航",
+    "Nikolai 与自己的部队（弓箭手、弩炮队、战争法师、各地指挥官与百名斯巴达老兵）：守方统帅",
+    "白女巫（White Witch）与 Nikolai／众人：死敌，她以巫妖群试探城墙，Nikolai 发誓要拖她同归于尽",
+    "Kharvox 与龙：敌对，Kharvox 劈开了龙的双肩",
+    "敌方造物吸血鬼（made vampires）与 mutants：攻城的敌人，冲进庭院引爆 magefire"
+  ],
+  "numbers": [
+    "Three hundred bowstrings sang at once",
+    "Three folded in the air and dropped",
+    "More than a dozen wyverns",
+    "A handful of the made vampires",
+    "the hundred Spartans still garrisoned here",
+    "the third we hadn’t sent to shore up the borders",
+    "Over two hundred of our soldiers and officers had fallen"
+  ]
+}

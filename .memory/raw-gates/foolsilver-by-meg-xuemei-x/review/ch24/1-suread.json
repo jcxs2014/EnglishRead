@@ -1,0 +1,72 @@
+{
+  "chapter": "ch24",
+  "facts": [
+    {
+      "fact": "艾尔因多尔身穿处女座银饰走进埃伯霍德锻造厅，铁匠们集体鞠躬，马克斯立正敬礼。",
+      "quote": "Every blacksmith bowed. I came to attention and saluted. My heart pounded behind my ribs.",
+      "start": 717,
+      "end": 806
+    },
+    {
+      "fact": "马克斯向艾尔因多尔报告她已拿到六只寒铁护臂。",
+      "quote": "Six armguards, stockpiled in my backpack.",
+      "start": 1762,
+      "end": 1803
+    },
+    {
+      "fact": "马克斯换下溜冰鞋穿上常鞋，把溜冰鞋收回背包，随后随艾尔因多尔走出锻造厅；他领她沿树线向南走。",
+      "quote": "He led me south along the treeline.",
+      "start": 3854,
+      "end": 3889
+    },
+    {
+      "fact": "艾尔因多尔说他主动找马克斯是因为想她、想随时与她相处。",
+      "quote": "“I sought you out because I miss you. I want to spend time with you whenever I can. That’s all.”",
+      "start": 4747,
+      "end": 4843
+    },
+    {
+      "fact": "艾尔因多尔说明瓦莱丝夫人是他的间谍长，直接向他汇报，曾潜伏在苍白宫廷、白女巫内圈。",
+      "quote": "“Lady Vaelith is my spymaster. She reports directly to me.",
+      "start": 6604,
+      "end": 6662
+    },
+    {
+      "fact": "艾尔因多尔透露更大的情报是：凡有情报网的国家都在寻找刚刚现身的失落继承人，此事与旧预言相关。",
+      "quote": "every kingdom with a functioning spy network is now looking for the lost heir, who’s recently surfaced.",
+      "start": 9491,
+      "end": 9594
+    },
+    {
+      "fact": "艾尔因多尔说世上没有别人，只有马克斯——他已等了她很久，随后吻了她。",
+      "quote": "“You never need to feel jealous,” he said. “There’s no one else, Max. Only you.”",
+      "start": 11168,
+      "end": 11248
+    },
+    {
+      "fact": "马克斯割开自己的手指取血滴在寒铁护臂上并为艾尔因多尔戴上，金属承认了他们的联结，冷铁宣告“他的痛苦归我”。",
+      "quote": "His pain, mine! Coldiron announced and then settled against his arm with a bright, satisfied hum.",
+      "start": 14135,
+      "end": 14232
+    }
+  ],
+  "relations": [
+    "艾尔因多尔（凯珀尼斯处女座继承人、费伊王子）是马克斯的直属上级与追求者",
+    "马克斯是埃伯霍德锻造厅的铠匠学徒，为继承人制作寒铁护臂",
+    "弗罗斯特是马克斯关心的费伊；艾尔因多尔以“私人原因”给他放了一天假，六只护臂中有一只留给弗罗斯特",
+    "瓦莱丝夫人是艾尔因多尔的间谍长，直接向他汇报，潜伏苍白宫廷接近白女巫内圈",
+    "瓦莱丝是半费伊的鹰族变形者，是仅存三名鹰族变形者之一",
+    "瓦莱丝与艾尔因多尔在洛德米恩（Rupture）之前的旧日恋人关系已被艾尔因多尔了断",
+    "尼古拉伊掌管情报网，与瓦莱丝平行情报线并行运作",
+    "德拉肯与艾尔因多尔同为凯珀尼斯四位继承人之一，互为竞争者",
+    "马克斯自认出身矿鼠奴隶，不属于继承人联盟，视自己为可被利用的资产"
+  ],
+  "numbers": [
+    "Six armguards, stockpiled in my backpack.",
+    "One of the six armguards was reserved for him.",
+    "an inch or two shorter than Aelindor",
+    "Frost had told me there’d been five eagle shifters originally. Two killed by the White Witch’s mages. Three remaining.",
+    "Seven raids over the years, Drakken’s seven, none of them successful.",
+    "half the continent’s infrastructure"
+  ]
+}

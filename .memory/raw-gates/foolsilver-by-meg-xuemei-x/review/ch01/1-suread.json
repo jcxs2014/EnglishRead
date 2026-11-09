@@ -1,0 +1,74 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "fact": "深夜营帐里，Caspian 向 Drakken 转述：Max 在魔法课上对全班说 Caspian 王子是个「十分」",
+      "quote": "Max told everyone in her magic class that I was a ten.",
+      "start": 3996,
+      "end": 4050
+    },
+    {
+      "fact": "Drakken 回忆 Sorting 典礼：他的龙火缠上 Max、剥掉她的制服并烧掉胸口的束缚物",
+      "quote": "My dragon’s fire had wrapped around her, caressing her, before peeling her uniform away and burning the binding from her chest.",
+      "start": 2216,
+      "end": 2343
+    },
+    {
+      "fact": "Drakken 怒指 Aelindor、Nikolai、Caspian 三人从废土救出 Max 那一刻就知道她是女人，却对他隐瞒",
+      "quote": "All three of them—Aelindor, Nikolai, Caspian—had known Max was a woman from the moment they pulled her out of the wasteland.",
+      "start": 6922,
+      "end": 7046
+    },
+    {
+      "fact": "Caspian 辩解：三人判定若 Drakken 先知道她的身份，一小时内就会割开她的喉咙",
+      "quote": "we decided that if you found out what she was before you understood, you’d have her throat cut within the hour.",
+      "start": 8600,
+      "end": 8711
+    },
+    {
+      "fact": "Aelindor 补充：他们救出的女奴身上带着他追猎近一个世纪的魔法气息",
+      "quote": "“She carried a magical scent I’d been hunting for nearly a century.”",
+      "start": 9989,
+      "end": 10057
+    },
+    {
+      "fact": "Drakken 断言 Max 是催化剂——恶魔从 DarkVeil 出来是为了找 the One",
+      "quote": "“Those demons came out of the DarkVeil to find the One,” I said, letting my own brand of disgust drip from my voice.",
+      "start": 11663,
+      "end": 11779
+    },
+    {
+      "fact": "回想起 Max 亲吻 Aelindor 的场景，Drakken 承认当时因嫉妒猛踩油门，吉普前冲撞开了两人的吻",
+      "quote": "Instead, I’d slammed my foot on the gas pedal and jerked the jeep forward so hard that their mouths had come apart.",
+      "start": 14857,
+      "end": 14972
+    },
+    {
+      "fact": "章末：Max 的帐篷传出一声凄厉哭喊，Drakken 抓起床下的阔剑冲入，看见 Aelindor 跪坐在床上把痛哭的 Max 紧搂在怀里",
+      "quote": "Aelindor knelt on the bedroll with Max in his lap, his arms locked around her.",
+      "start": 16101,
+      "end": 16179
+    }
+  ],
+  "relations": [
+    "Drakken 是龙族继承人、Zodiac Covenant 的将军（General of the Zodiac Covenant）",
+    "Caspian 是狼族继承人（wolf prince），自 Max 获救当刻起停止了与其他女人的往来",
+    "Aelindor 是 Fae 继承人，年纪比 Drakken、Caspian、Nikolai 三人加起来还大；Drakken 幼年时被他从刑台上救下（救命恩人兼兄长，唤他 little brother）",
+    "Nikolai 是第四位继承人，以吸血为生",
+    "Aelindor、Caspian、Nikolai 三人早已知道 Max 是女人，并对 Drakken 集体隐瞒",
+    "Max 是伪装成男学员的女孩：从 Pallid Court 奴隶矿逃出的女奴，带着 White Witch 血统的气息，随身匕首是把 Coldiron 刃",
+    "Max 与 Aelindor 已经接吻；Aelindor 视她为不可赌上的珍宝",
+    "Delia 曾是 Drakken 的床伴，Drakken 已停止找她",
+    "恶魔与 Covenant 敌对：恶魔从 DarkVeil 出来找 the One，Carroway 的语言学家确认这一点后被恶魔杀死"
+  ],
+  "numbers": [
+    "twenty-one dead",
+    "three blocks from the DarkVeil",
+    "three patches of flame",
+    "interrogate her for three days",
+    "hunting for nearly a century",
+    "you’d have her throat cut within the hour",
+    "three strides from ours",
+    "lost half his men doing it"
+  ]
+}

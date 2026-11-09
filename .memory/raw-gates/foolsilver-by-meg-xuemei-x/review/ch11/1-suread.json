@@ -1,0 +1,73 @@
+{
+  "chapter": "ch11",
+  "facts": [
+    {
+      "fact": "十二辆装甲运输车与一个步兵排的增援冲到北岭，车轮在血浸的泥地里打滑，战场已经打完了",
+      "quote": "A dozen armored transports and a platoon of infantry crested the northern ridge at full speed and found nothing left to fight.",
+      "start": 36,
+      "end": 162
+    },
+    {
+      "fact": "尸体中除变异兽外，还包括四名 Spartans 和八名士兵",
+      "quote": "Mutants’ corpses littered the ground, among them four Spartans and eight soldiers.",
+      "start": 212,
+      "end": 294
+    },
+    {
+      "fact": "随增援抵达的 Colonel Karrik 下令保留一具变异兽尸体供研究，另两具标记后运回丹佛的基地",
+      "quote": "Colonel Karrik, who had arrived with the reinforcements, ordered one mutant corpse preserved for study.",
+      "start": 2026,
+      "end": 2129
+    },
+    {
+      "fact": "Drakken 没有变身，走到尸堆前伸出单手释放龙火，把所有变异兽尸体烧成灰烬后一言不发地转身离开",
+      "quote": "He didn’t shift to do it. He walked to the pile in borrowed trousers and held out one hand.",
+      "start": 2339,
+      "end": 2430
+    },
+    {
+      "fact": "Sparta 用自己的斗篷裹住阵亡者，把擦净的武器放在他们胸前",
+      "quote": "The warriors’ bodies, wrapped in their own cloaks, lay at the base. Weapons cleaned and placed across their chests.",
+      "start": 3125,
+      "end": 3240
+    },
+    {
+      "fact": "Drakken 亲自接过 Spartan 递来的火把，用打火石自己点火，没有动用龙火",
+      "quote": "A Spartan held out an unadorned torch. Drakken took it and struck the flint himself. He didn’t use his dragon fire.",
+      "start": 4051,
+      "end": 4166
+    },
+    {
+      "fact": "Aelindor 在柴堆前起唱 Spartans 的挽歌，Sparta 随后集体应和",
+      "quote": "And then Aelindor began to sing.",
+      "start": 4302,
+      "end": 4334
+    },
+    {
+      "fact": "Caspian 仰头发出长嚎，Sparta 与 Max 都以嚎叫回应",
+      "quote": "Caspian threw his head back and howled.",
+      "start": 5685,
+      "end": 5724
+    }
+  ],
+  "relations": [
+    "阵亡的四名 Spartans 与八名士兵是 Max 和三位继承人的同袍",
+    "Max 因变异兽群是冲自己而来而愧疚自责，Spartan 不让她插手收殓",
+    "Colonel Karrik 是 Greyhold 的指挥官，随增援抵达战场并决定变异兽尸体的处置",
+    "Greyhold 的医疗队负责收治伤员与收殓遗体",
+    "Drakken 是龙族继承人，徒手释放龙火焚烧变异兽尸体",
+    "Sparta 自行在营地东侧搭起柴堆安葬同袍，阵亡者的徽章别针将送回要塞的纪念墙",
+    "Aelindor 是 Fae 继承人，为死去的 Spartans 领唱挽歌",
+    "Caspian 是狼族继承人，以长嚎领哀，Max 与全体一起嚎叫致哀",
+    "Max 是 Sparta 的新兵（第一年学员），与死者的同袍身份产生落差"
+  ],
+  "numbers": [
+    "A dozen armored transports",
+    "a platoon of infantry",
+    "four Spartans and eight soldiers",
+    "ninety percent of candidates",
+    "Two more were tagged for transport",
+    "over a hundred carcasses",
+    "a quarter mile"
+  ]
+}

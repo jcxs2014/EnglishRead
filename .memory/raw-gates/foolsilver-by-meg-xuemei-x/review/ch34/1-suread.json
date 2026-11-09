@@ -1,0 +1,76 @@
+{
+  "chapter": "ch34",
+  "facts": [
+    {
+      "fact": "文中交代这场舞会是为庇护所和新哥伦比亚举办的体面应酬",
+      "quote": "A ball had been arranged in honor of the Haven and New Columbia",
+      "start": 40,
+      "end": 103
+    },
+    {
+      "fact": "桑德与十二人使团比新哥伦比亚人早到一小时，艾林多尔、卡斯皮安和尼古拉伊到城门迎接他们",
+      "quote": "Xander and his envoy of twelve had arrived an hour ahead of the New Columbians. Aelindor, Caspian, and Nikolai met them at the gate",
+      "start": 190,
+      "end": 321
+    },
+    {
+      "fact": "马克西姆在简报会上提出只穿军装当第七个侍者端盘子，被尼古拉伊当场拒绝、并说他们会给她找一件礼服",
+      "quote": "Nikolai had said. “To stand out. You will not be carrying trays. We’ll find you a gown.”",
+      "start": 5806,
+      "end": 5894
+    },
+    {
+      "fact": "谈判若能拖上三天，正好给夜莺行动留出潜入与撤出的时间",
+      "quote": "Three days was what Operation Nightingale needed—long enough to slip in and slip out.",
+      "start": 2671,
+      "end": 2756
+    },
+    {
+      "fact": "马克西姆当晚就要出发去庇护所，并且把德拉肯从行动队里除名，德拉肯认为这是出于旧怨的幼稚决定",
+      "quote": "She’d made a mistake cutting me from the team, letting an old grudge skew her judgment.",
+      "start": 2849,
+      "end": 2936
+    },
+    {
+      "fact": "德拉肯私下为马克西姆做了一件像蓝色龙火般流动的礼服，却一直扣着没有送去，还因此被体内的龙抱怨",
+      "quote": "I’d had it finished, and I’d kept it. Never sent it. My dragon had raged at me over the missing messenger.",
+      "start": 8069,
+      "end": 8175
+    },
+    {
+      "fact": "看到桑德盯着马克西姆，德拉肯在心里立誓绝不让他把她折进藏品里",
+      "quote": "He would not fold her into that collection of his, one more rare, breathing thing behind warded glass.",
+      "start": 11120,
+      "end": 11222
+    },
+    {
+      "fact": "章末卡斯皮安低声咆哮说要去“处理点事”，德拉肯回了一句“你去吧，狼”，并跟在他身后",
+      "quote": "“I need to go take care of something,” the wolf said, his green eyes lit with fire.",
+      "start": 12038,
+      "end": 12121
+    }
+  ],
+  "relations": [
+    "德拉肯与马克西姆：旧怨；马克西姆把他从行动队除名，德拉肯却仍一心护她",
+    "德拉肯与体内的龙：一路争吵，龙偏袒马克西姆并指责德拉肯搅坏它与她之间的进展",
+    "德拉肯与卡斯皮安：并肩的狼族搭档，卡斯皮安在宴会上向他炫耀马克西姆",
+    "德拉肯、艾林多尔、尼古拉伊、卡斯皮安：同阵营的四位继承人",
+    "桑德与马克西姆：敌对；桑德是收藏家，觊觎把她收进藏品",
+    "德拉肯与桑德：德拉肯视其为对马克西姆的威胁",
+    "惠特莫尔（新哥伦比亚总统）与德拉肯：外交对手方",
+    "德拉肯与格雷曼特尔：同在军官俱乐部内的同僚",
+    "德拉肯与德莉亚：德莉亚是被选中充当侍者的六人之一"
+  ],
+  "numbers": [
+    "an hour ahead",
+    "envoy of twelve",
+    "in his forties",
+    "three days",
+    "Three days",
+    "given a week to do it",
+    "six cadets",
+    "four houses",
+    "five colors",
+    "a fifth"
+  ]
+}

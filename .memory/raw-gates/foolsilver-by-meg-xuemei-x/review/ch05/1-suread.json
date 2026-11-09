@@ -1,0 +1,71 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "fact": "黎明前天光未亮 Max 已醒；三位继承人次第起身——Aelindor 最先一气呵成，Caspian 伸懒腰抓弄酒红头发，Drakken 像被点名集合般警醒坐起。",
+      "quote": "The heirs stirred within seconds of each other—Aelindor first, rising in one fluid motion, then Caspian,",
+      "start": 135,
+      "end": 239
+    },
+    {
+      "fact": "Max 反思继承人昨晚留她是救命之恩：若无人拦她，她已在肾上腺素与悲痛的驱动下独奔 Haven——无计划无情报，只攥着 Coldiron 箭、耳边回响 Missy 的尖叫。",
+      "quote": "If they’d left me alone last night, I’d have been halfway to the Haven by now, running south on a raw tide of adrenaline and grief.",
+      "start": 964,
+      "end": 1095
+    },
+    {
+      "fact": "Frost 奉 Aelindor 之命通知 Max 改变行程：随继承人与高级幕僚一同赴 Greyhold 参加晨间简报，并开车送她前往前哨。",
+      "quote": "“Change of plans. You are to join the heirs and senior staff for the morning briefing at Greyhold.”",
+      "start": 2334,
+      "end": 2433
+    },
+    {
+      "fact": "赴前哨途中，鹰形兽人间谍 Holt 在车上试探 Max——昨夜营中尖叫、Aelindor 抱人入帐等传闻——被 Frost 喝止，Holt 放话要查清 Max 的底细。",
+      "quote": "“Some screaming sent even the Spartans scrambling. And Prince Aelindor carrying a certain cadet in his arms.”",
+      "start": 3556,
+      "end": 3665
+    },
+    {
+      "fact": "Max 抵达距 DarkVeil 约两英里的前哨，感到 Veil 的拉力随暴露时间越来越强（体内魔族乘客与 Veil 同类相认），她咬紧牙关用身体对抗这股吸引力。",
+      "quote": "the longer I was exposed to the Veil’s presence, the stronger it became.",
+      "start": 5737,
+      "end": 5809
+    },
+    {
+      "fact": "Max 听出 DarkVeil 里合唱般呼唤她的正是 Coldiron——那块有感知金属就在影子之墙内呼唤她；这一认知令她胃里发冷，她先按下不表、一次只应付一个危机。",
+      "quote": "The sentient metal was in there. Inside that wall of eternal shadows, calling to me.",
+      "start": 6653,
+      "end": 6737
+    },
+    {
+      "fact": "简报室里咖啡最后才轮到 Max；Caspian 无视军衔礼仪当众选出粉霜甜甜圈递给她——shifter 递食即宣示收编、公开拒绝等于打脸——她像接活手雷般接过并敬礼道谢。",
+      "quote": "Caspian selected a pink-frosted ring, turned in his seat, and held it out.",
+      "start": 10425,
+      "end": 10499
+    },
+    {
+      "fact": "Drakken 命 Max 拉椅子坐上指挥桌（今日议题与她有关），随后向全军宣布她曾伪装男孩、是天赋炼金术士，凡涉她的信息一律列为机密，最后命她当场展示能力。",
+      "quote": "Any information pertaining to Cadet Max Morning is classified.",
+      "start": 17435,
+      "end": 17497
+    }
+  ],
+  "relations": [
+    "Frost 是 Fae 少校，向 Max 传达 Aelindor 的命令并在车上替她挡下 Holt 的逼问",
+    "Captain Jessa Holt 是鹰形兽人、间谍做派（曾在火车上送魔族情报），认定 Max 身上有秘密、穷追不舍",
+    "Commander Lee 是 Drakken 的指挥官；Commander Marco 是吸血鬼，曾随 Team Wraith 进入 Scorched Wastes",
+    "Colonel Karrik 为 Greyhold 指挥官，Lieutenant Colonel Reeves 是其执行官，Major Adrian 是情报官",
+    "Nikolai 身在千里之外，曾用 nectar、midnight sun 形容 Max 的血——喝咖啡时 Max 想起了他",
+    "Caspian 当众向 Max 递食＝shifter 宣示收编（pack/inner circle），军营已把她传成他的新玩物，Max 决定私下叫他收敛",
+    "Drakken 昔日审讯过 Max、测试过龙火、骂过她 warlock/liar/threat，如今亲自把她拉上指挥桌并称她为 asset"
+  ],
+  "numbers": [
+    "just over two miles from the DarkVeil",
+    "Deployment orders went out to five forts.",
+    "within seventy-two hours.",
+    "run twenty barefoot laps",
+    "Two-thirds of our Spartans",
+    "level-one threat",
+    "Nikolai was a thousand miles away"
+  ]
+}

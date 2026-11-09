@@ -1,0 +1,68 @@
+{
+  "chapter": "ch38",
+  "facts": [
+    {
+      "fact": "Max 感到血契的力量像钩子一样扎进她的灵魂，只有 Oracle 或许能帮忙，因此她必须尽快前往 Haven",
+      "quote": "Only the Oracle might be able to help me—another reason to reach the Haven, another reason to hurry.",
+      "start": 910,
+      "end": 1010
+    },
+    {
+      "fact": "Max 告诉 Xander 她今晚不跟他走，要求独处祈祷三天来权衡这一切",
+      "quote": "“I’m not leaving tonight. I need time to weigh all of this. Three days. Alone, in prayer.”",
+      "start": 1683,
+      "end": 1773
+    },
+    {
+      "fact": "Aelindor 抢在 Xander 开口前挡在两人之间，强行要求他准许这三天",
+      "quote": "“The lady has asked for three days.” His voice was velvet drawn over a blade, courteous all the way to the edge of insult.",
+      "start": 2015,
+      "end": 2137
+    },
+    {
+      "fact": "Xander 答应给三天，临走前用 Missy 睡得安稳、姐姐就要回家的说法敲打 Max",
+      "quote": "Missy sleeps so much easier these nights, knowing her sister will be coming home to her.",
+      "start": 3186,
+      "end": 3274
+    },
+    {
+      "fact": "在接头点，Max 摘下脖子上的项链、脱掉礼服换上战斗装备，Nikolai 与 Caspian 也同时换装，Max 伸手压下两人的怒火",
+      "quote": "At the rendezvous I pulled the necklace from my throat, stripped out of the gown, and buckled into my battle gear.",
+      "start": 3425,
+      "end": 3539
+    },
+    {
+      "fact": "Max 定下优先顺序：先救出妹妹，血契的事以后再算",
+      "quote": "“We get my sister out first,” I said, cinching the last strap tight. “We deal with the contract after.”",
+      "start": 3737,
+      "end": 3840
+    },
+    {
+      "fact": "Caspian 说没有打不开的锁，他们要为血契找到或造出一把钥匙",
+      "quote": "“No lock was ever forged that someone, somewhere, couldn’t cut a key for. We find the key—or we make one.”",
+      "start": 4193,
+      "end": 4299
+    },
+    {
+      "fact": "Caspian 与 Nikolai 第一次握手达成一致，随后 Nightingale 小队在黑暗中悄然出发，插入敌人腹地",
+      "quote": "While the monster worked the ballroom below us, gloating over a victory he thought was certain, the Nightingale team slipped into the dark.",
+      "start": 4624,
+      "end": 4763
+    }
+  ],
+  "relations": [
+    "Max 向 Xander 争取三天独处时间，Aelindor 以强硬姿态逼 Xander 答应",
+    "Xander 以 Missy 为筹码胁迫 Max",
+    "Nikolai 与 Caspian 因 Max 首次达成一致（握手言和）",
+    "Max、Nikolai、Caspian 组成 Nightingale 队伍，准备潜入敌境先救出 Missy",
+    "Oracle 是唯一可能被指望解除血契的对象"
+  ],
+  "numbers": [
+    "one whole breath",
+    "Three days",
+    "the four heirs",
+    "a single silent blade",
+    "Releases in Oct, 2026",
+    "Blood and Bond 3: Witchkeel"
+  ]
+}

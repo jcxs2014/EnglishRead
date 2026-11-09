@@ -1,0 +1,69 @@
+{
+  "chapter": "ch31",
+  "facts": [
+    {
+      "fact": "大战次日，战斗的余波仍像电流一样在基地里流动，Max 自己被它震得静不下来。",
+      "quote": "The buzz of the battle still moved through the base like a current the next day, a low hum no one could shake off.",
+      "start": 36,
+      "end": 150
+    },
+    {
+      "fact": "Max 认定这一战大半靠自己：体内的恶魔乘客给出战术，冷铁替她稳住手不发抖。",
+      "quote": "My demon passenger had fed me strategy beat by beat, and Coldiron had made my aim true when my hands might have shaken.",
+      "start": 333,
+      "end": 452
+    },
+    {
+      "fact": "Max 判断若没有继承人与其 Spartan 精兵在下面顶住，损失将是屠杀，因而认定Covenant 需要远多于现有的 Spartan。",
+      "quote": "No wonder the heirs had stretched their elite thin across the whole Covenant. We needed more Spartans. Far more than we had.",
+      "start": 780,
+      "end": 904
+    },
+    {
+      "fact": "Max 打算趁外国代表在场之前把妹妹救出来、两人一起回家，赶回去参加死者的葬礼。",
+      "quote": "if I got my sister out and got us both home, we might make it back in time to stand with the rest",
+      "start": 1028,
+      "end": 1125
+    },
+    {
+      "fact": "Max 想在离开前见齐四位继承人，但今晚只够选一个人去见。",
+      "quote": "I wanted to see all four heirs before I left, but there wasn’t a version of tonight where I could go to all four.",
+      "start": 1410,
+      "end": 1523
+    },
+    {
+      "fact": "Max 决定先去找 Aelindor，因为她不愿让一个谎言继续横在两人之间。",
+      "quote": "I wouldn’t let a lie continue to sit between us.",
+      "start": 1757,
+      "end": 1805
+    },
+    {
+      "fact": "Max 套上滑冰鞋溜进夜色，向西疾驰奔向 Elenmoor。",
+      "quote": "I laced the skate shoes on and slipped out into the dark, speeding west toward Elenmoor.",
+      "start": 1809,
+      "end": 1897
+    },
+    {
+      "fact": "Max 从守卫眼前掠过，守卫认出了她却没有出声阻拦，不再把她当成从前那个女巫或异类。",
+      "quote": "A few sentries marked me as I blurred past, a streak of motion in the dark, midnight hair flying loose. None of them called out.",
+      "start": 2111,
+      "end": 2239
+    }
+  ],
+  "relations": [
+    "Max 与 Aelindor：恋人且有未说破的谎言，她连夜滑行去见他",
+    "Max 与 Caspian：战友，曾在漫天敌影中背靠背作战",
+    "Max 与 Coldiron 与体内的恶魔乘客：她的两翼助力她打赢空中一战",
+    "Max 与她的妹妹：她要把妹妹从险境中救出并带回家",
+    "Max 与四位继承人（heirs）：同阵营的同伴，她离开前只能见一位",
+    "Max 与 Xander the Collector：次日即抵达的关键人物，她离开前必须见到他",
+    "Max 与夜莺队（Nightingale team）：当夜她将随队离开",
+    "Max 与堡垒守军与哨兵：守军已把她从“女巫／奇观”改看作自己人，放她通行"
+  ],
+  "numbers": [
+    "Twelve years underground",
+    "the first- and second-years",
+    "all four heirs",
+    "Night patrols doubled, sentries paired at every wall and gate"
+  ]
+}
