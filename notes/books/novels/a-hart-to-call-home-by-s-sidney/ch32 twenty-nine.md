@@ -13,7 +13,7 @@ modified: "2026-11-09"
 - **叙事手法**：前半章道具戏（鸡蛋/面包/唇膏），后半章病理论文体——哀悼的对象从人扩展到「本该成为的自己」
 
 ## 精读
-> **原句 1:** ""I'm an apparition," I mutter. "M'not really here.""
+> **原句 1:** ""I'm an apparition," I mutter. I make a beeline for the still-steaming jug of coffee on the counter. "M'not really here.""
 
 **中文理解**：「我是幽灵，」她嘟囔着，「我并不真的在这里。」
 **关键词**：I'm an apparition / M'not really here
