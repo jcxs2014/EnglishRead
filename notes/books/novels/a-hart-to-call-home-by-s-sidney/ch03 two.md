@@ -53,7 +53,7 @@ modified: "2026-11-09"
 **中文理解**：Jody 一句话拆台：Brooks 觉得所有女人都爱他，只因他只在酒吧里见到喝得微醺的女人；随即追问正经事——Ashton 回家是长住，还是探望？
 **关键词**：tipsy at a bar / all women love him / for good, or for a visit
 **为什么这样写**：损友先拆自恋再问要害，用玩笑话把本章真正的悬念摆上桌——她的归期是「回来」还是「回来取行李」。
-**读者视角提示**：答案（Just a visit… for now）与 ch02 的「还有几个月学业」对上——「for now」这个尾巴是作者留给读者的糖。
+**读者视角提示**：答案（Just a visit… for now）与 ch27 的「还有几个月实习才签字毕业」对上——「for now」这个尾巴是作者留给读者的糖。
 
 > **原句 7:** "Ever since she was a little girl, running faster than all of us despite her legs being much shorter, she's had me awestruck. I ain't ashamed to say I've imagined things with her once or twice."
 
