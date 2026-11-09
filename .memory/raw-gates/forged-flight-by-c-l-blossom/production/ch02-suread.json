@@ -1,0 +1,61 @@
+{
+ "book": "forged-flight-by-c-l-blossom",
+ "chapter": "ch02",
+ "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch02_2_chapter_two_lucan.txt",
+ "facts": [
+  {
+   "fact": "Lucan 已注意到 Micah 的隔街注视，起初觉得古怪。",
+   "anchor": "The veterinarian across the street won’t stop staring at me.",
+   "start": 30,
+   "end": 90
+  },
+  {
+   "fact": "Micah 主动来到铁匠铺，二人首次交谈。",
+   "anchor": "I pull it open to find the veterinarian standing on my doorstep.",
+   "start": 1810,
+   "end": 1874
+  },
+  {
+   "fact": "Micah 想为幼龙制作义翅。",
+   "anchor": "“I want to try prosthetic wings.”",
+   "start": 6159,
+   "end": 6192
+  },
+  {
+   "fact": "Lucan 具体考虑重量、耐久与柔软度。",
+   "anchor": "“The prosthetics will have to be lightweight enough for her to carry, durable enough to survive daily use, and flexible enough not to rub her scales raw.”",
+   "start": 7078,
+   "end": 7232
+  },
+  {
+   "fact": "幼龙取名 Maple。",
+   "anchor": "Micah’s face brightens. “Maple.”",
+   "start": 9354,
+   "end": 9386
+  },
+  {
+   "fact": "Lucan 答应制作可测试的首个样件。",
+   "anchor": "“I’ll bring you the first prototype once I have something worth testing.”",
+   "start": 11612,
+   "end": 11685
+  },
+  {
+   "fact": "次日 Lucan 已完成初步草图。",
+   "anchor": "The wing design is a tangle of harsh lines",
+   "start": 12332,
+   "end": 12374
+  },
+  {
+   "fact": "Lucan 带咖啡去诊所，并向 Micah 展示图纸。",
+   "anchor": "I awkwardly slide one of the cups across the desk.",
+   "start": 17568,
+   "end": 17618
+  },
+  {
+   "fact": "Micah 对图纸的意义作出回应。",
+   "anchor": "“You’re giving Maple a chance to fly.”",
+   "start": 21520,
+   "end": 21558
+  }
+ ]
+}
