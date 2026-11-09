@@ -50,7 +50,7 @@ modified: "2026-11-09"
 
 **中文理解**：他用都市传说挡回去：人人都说世上有分身——也许我是他？笑笑耸肩，心里已经盘算：送她回家后立刻把那个网站关掉。
 
-**关键词**：Everyone has a doppelganger / perhaps I'm his / get it shut down
+**关键词**：Everyone has a doppelganger / perhaps I'm his / mental note
 
 **为什么这样写**：谎言第一次需要后勤：编一个「分身」不够，还得删网页。作者让他的防御动作从嘴升级到动手——谎言的维护成本开始显形，读者由此确信这张纸撑不了几章。
 
@@ -187,7 +187,7 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gnawing | 啃噬 | the thorns drive deeper, gnawing through muscle and tendon, tearing apart my flesh. |
-| crumbles | 崩塌 | Fuck. Fuck. Fuck. My knees buckle. |
+| buckle | 膝盖一软 | Fuck. Fuck. Fuck. My knees buckle. |
 | recede | 退回，缩回 | I will my teeth to recede into my gums |
 | unreservedly | 毫无保留地 | the human part of me, hidden for so long, finally feel again. Entirely. Unreservedly. |
 
