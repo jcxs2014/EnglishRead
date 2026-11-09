@@ -21,6 +21,7 @@ modified: "2026-11-09"
 |---|---|---|
 | Irène 1903 年再婚 Sampieri（天主教婚礼、父母缺席）；抚养权战以"改宗"为由败诉 | 案例／法律 | 再婚是生存策略（"避免独处"）；改宗不被承认为真正的归属转换 |
 | Moïse 1898 年起收藏五斗柜（找配对 38 年）；1911 年建 Petit Trianon 复制品；遗嘱规定家具不得移动 | 案例 | 收藏是补偿性控制——"家具可以重聚，其他东西不能" |
+| 1903-02-27 叔叔 Albert 在小手术后骤逝于 Cap d'Ail（57 岁），婚礼前几天；婚后一天家人在 118 rue de Grenelle 为他举丧，法国首席拉比主持、Louis 主待 | 案例 | 婚与丧数日重叠——当年在 Moïse 婚礼上挽她走红毯的人，没等到她再婚；"旧故事结束与新故事不安开始"同帧 |
 | Nissim 1917-09-05 阵亡（25 岁，侦察机被击落）；Moïse 办追思会 Irène 缺席；Proust 吊唁信承认"母亲" | 案例／引语 | 战争摧毁了"下一代继承"的叙事；Moïse 用仪式控制悲伤 |
 | 一战后离婚潮（1913→1921 从 15,450 升至 32,557）；Irène 1918 年分居、1924 年离婚 | 数据／案例 | 战争改变了性别角色；Irène 的离开是时代浪潮的一部分 |
 | Charles 1933–1935 年捐城堡给国家（"明天的不确定性"）；Moïse 遗赠博物馆（>$85M） | 案例 | 捐赠是忠诚表演也是策略性退出；"不确定性"是对纳粹崛起的轻描淡写 |
@@ -171,7 +172,6 @@ modified: "2026-11-09"
 |---|---|---|
 | custody | n. 抚养权、监护 | Moïse and Irène traded custody of Nissim and Béatrice. |
 | commode | n. 五斗柜 | He bought a Garnier commode in 1898 and searched for its mate for thirty-eight years. |
-| 1903-02-27 叔叔 Albert 在小手术后骤逝于 Cap d'Ail（57 岁），婚礼前几天；婚后一天家人在 118 rue de Grenelle 为他举丧，法国首席拉比主持、Louis 主待 | 案例 | 婚与丧数日重叠——当年在 Moïse 婚礼上挽她走红毯的人，没等到她再婚；"旧故事结束与新故事不安开始"同帧 |
 | heiress | n. 女继承人 | the matchmaking had resumed for her daughter, Béatrice, whom the French weekly Aux Écoutes described as the “richest heiress in France.” |
 
 ## 一句话总结
