@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：吻后的第一个白昼，全章走「悬着的甜 → 冻结」：她从 "I was rendered tongue-tied" 的失语，到 "Stretching back" 镜头里的走神，再到钟楼归属那句 "Technically, it was our clock tower." 的偷着认领；而 Cindervale 的旧账一翻开，早晨的温度被 "dread" 与章末那句 "Oh, dear god." 的惊骇接管。
 - **Tropes 兑现/反转**：兑现「斗嘴调情的恋人喜剧」——猫爪掩笑、wryest 的当众宣布、"It was only okay." 的压价回嘴；反转「不可一世的暴君」——"I’m not any good at this." 把他的自信敲出裂缝；「门后的意外」兑现成机械奇观——本该通向 graveyard 的 back door 后面立着机器。
 - **人物弧线**：国王一条线走三张脸——"He was absolutely enjoying my embarrassment." 的看客、"Those people were not innocent." 的判官、"I don’t know anymore." 的迷路人；Allie 相应三段：被看得失语的她、喊出 "that doesn’t mean you can just go and kill whoever you want." 的她、以及看着 "Conflicted. Fallible. Human." 心口发软的她。
+- **补充（不止 Cindervale）**：他交代自己以「叛徒不值得宽恕」为由扫过的地方不止一处——“I discovered the other odd villages afflicted with the mysterious malady. Brasshaven, Aurelforge.”，他怕疫病蔓延，于是「swiftly」处置：这句话让他对 Cindervale 的辩解多了一层可核的范围。
 - **叙事手法**：章题 NUANCE 藏在代词里——my clock tower 与 our clock tower 的一字之争；政权暴力全交给台词自己站队（"Why not? I’m the king."）；章末机器只用一个不断堆叠名词的长句呈现（scaffolding / staircases / ladders / glass and mirrors / ethereal green lights），不给来历、不给解释。
 
 ## 精读

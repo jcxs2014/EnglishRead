@@ -1,0 +1,54 @@
+{
+ "chapter": "ch23",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch23_twenty_three_nuance.txt",
+ "facts": [
+  {
+   "fact": "清晨 Allie 下楼到露台，Chez 与 Rabb 下棋时作弊，最后宣布将死（checkmate），Rabb 气得推开椅子；Duchess 在屋里喊早餐快好了。",
+   "anchor": "I am a cat. Not a gentleman.” He moved his paw. “Oh, also, checkmate.”",
+   "start": 1048,
+   "end": 1118
+  },
+  {
+   "fact": "Rabb 与 Allie 的关系因昨夜一吻而改变：Rabb 当着 Chez 的面直说“我们接了吻，现在很怪”，Allie 满脸通红，嘴硬回“只是还行”。",
+   "anchor": "He turned to Chez and responded in possibly the wryest manner ever. “We kissed. And now it’s weird.”",
+   "start": 2982,
+   "end": 3082
+  },
+  {
+   "fact": "Chez 汇报“将军”是村民听命的权威、目标与真名不明，并问 Allie 是否认识；Allie 说自己从未见过这样的人，也不记得来到 Wünder 之前的生活，仍坚持要当面问清真相、称离开 Wünder 本是她的计划。",
+   "anchor": "I’ve never met anyone like that here. And I still don’t remember anything about my life before I arrived in Wünder.",
+   "start": 4684,
+   "end": 4799
+  },
+  {
+   "fact": "两人到 Hatter 的灰屋寻找回对岸的兔子洞：屋内积尘、家具蒙布，显然久无人住；国王察觉一股与河上相同的淡淡异常能量，Allie 则翻找能让自己的发明运转的 F-capacitor。",
+   "anchor": "“It’s faint.” The king tilted his head, as if straining to hear a silent melody. “It’s not quite here.”",
+   "start": 11569,
+   "end": 11672
+  },
+  {
+   "fact": "国王承认自己以“叛徒/疫病威胁”为由灭掉了 Cindervale，并提到 Brasshaven、Aurelforge 等同样被处理的村庄；他说在 Lucerne 才明白这些与 Allie 的身世有关。",
+   "anchor": "Those people were not innocent. Cindervale betrayed my family.",
+   "start": 12375,
+   "end": 12437
+  },
+  {
+   "fact": "国王还说，他故意让外界以为自己是“为家族复仇”，这既强化名声，也能让 Allie 更恨他——这是他精心设计、想逼 Allie 与他分手的计划的一部分。",
+   "anchor": "Besides, I knew it would make a better story. That I was out for revenge for my family",
+   "start": 14627,
+   "end": 14713
+  },
+  {
+   "fact": "国王说他已把王室顾问全部解雇，因为他们要求他若结婚、王后必须来自 Wünder，还说否则违反传统，并用投票逼他妥协；事后他自问他们是否是对的，承认自己不如父亲。",
+   "anchor": "They said that if I were to marry, she needed to be someone from Wünder.",
+   "start": 16092,
+   "end": 16164
+  },
+  {
+   "fact": "后门外出现一台 maelstrom machine，与 River of Tears、Emberstead 见过的同类相似，但体积约为它们的五倍，Allie 惊得倒抽一口气。",
+   "anchor": "Except this one was about five times the size.",
+   "start": 18765,
+   "end": 18811
+  }
+ ]
+}

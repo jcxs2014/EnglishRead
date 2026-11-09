@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：谷底与转机同章上演——开场只剩心跳与恶心（heart pounding / the queasiness in my stomach would not let up），指控把「guilty conscience」第一次摆到她面前，让她抓到 "Hope bubbled in my heart for the first time" 的一线可能；随后机器脱轨、大地崩裂，惊恐被行动取代。
 - **Tropes 兑现/反转**：兑现「真相当众揭开」——General 用 "Shall I tell you the tale of Dr. Eleanor Carter?" 把她的旧身份唱出来；反转是章题 Humpty Dumpty 的童谣梗：满场 ghost villager 变成蛋，摔碎的又 "transformed back into human forms"，惨剧与闹剧一线之隔。
 - **人物弧线**：她从被捆、被审、只答 "It’s not true."，到想清楚「拿掉 Hatter，General 就近乎无力」（Without the Hatter, the General would be virtually powerless.）——审讯席上的猎物自己拆了猎人的引擎，最后一步是抱着「陛下」跳进未知。
+- **补充（84% 这个数字）**：Hatter 嘟囔机器每次预热到 “eighty-four percent” 就整个停摆——正是这个数字让她断定 General 不懂科学、真正要拿下的是 Hatter；而 General 的价码是 “sole command of all the worlds in existence”。
 - **叙事手法**：单句成段当重音用——"Rabb…" 是被恐惧打断的呼唤，"It was an F-capacitor." 是零件的郑重点名；机器术语的错乱（她想说 primary harmonic regulator，出口却成了 Grand Harmony Widget）拿「语言被土地改写」的荒诞给审讯戏松绑。
 
 ## 精读
