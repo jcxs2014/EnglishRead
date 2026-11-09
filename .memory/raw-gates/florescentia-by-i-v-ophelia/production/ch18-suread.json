@@ -1,0 +1,49 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch18",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch18_chapter_eighteen_the_nova.txt",
+ "facts": [
+  {
+   "fact": "Maxim 在魔时刻打电话叫她二十分钟内准备好。",
+   "anchor": "The call came at the witching hour",
+   "start": 41,
+   "end": 75
+  },
+  {
+   "fact": "他驾马车带她去东边海边。",
+   "anchor": "east was quiet",
+   "start": 1860,
+   "end": 1874
+  },
+  {
+   "fact": "他们埋的是空棺，真正遗体在车上。",
+   "anchor": "We buried a casket",
+   "start": 2689,
+   "end": 2707
+  },
+  {
+   "fact": "她说他破了规矩，他答心正就不必害怕。",
+   "anchor": "when your heart is true",
+   "start": 3137,
+   "end": 3160
+  },
+  {
+   "fact": "她致辞说 Dorian 不惧未知。",
+   "anchor": "He ran headfirst into any enigma",
+   "start": 5224,
+   "end": 5256
+  },
+  {
+   "fact": "他们把棺木推下悬崖落海。",
+   "anchor": "rolled the funeral cart off the ledge",
+   "start": 6074,
+   "end": 6111
+  },
+  {
+   "fact": "她听见一个声音叫她同去，她答「今天不行」。",
+   "anchor": "Not today",
+   "start": 6589,
+   "end": 6598
+  }
+ ]
+}
