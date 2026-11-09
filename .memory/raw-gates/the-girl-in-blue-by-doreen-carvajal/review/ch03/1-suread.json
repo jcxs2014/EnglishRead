@@ -1,0 +1,439 @@
+{
+  "chapter": "ch03",
+  "title": "CHAPTER 2: Une Soirée",
+  "source": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch03_chapter_2_une_soir_e.txt",
+  "method": "blind close reading; offsets computed with /usr/bin/python3 str.find on the utf-8 decoded source text (character indices, end-exclusive)",
+  "source_chars": 28045,
+  "facts": [
+    {
+      "fact": "马塞尔·普鲁斯特（Marcel Proust）作为伯爵夫人周日沙龙的常客，固定坐在 2 rue Bassano 宅邸那张无扶手的 chaise chauffeuse 长椅上观察宾客；据 Alice 1962 年对 Le Figaro 记者的回忆，他每周日坐下、环顾四周却一言不发。",
+      "start": 207,
+      "end": 361,
+      "quote": "Marcel Proust occupied his habitual post in a low, armless chaise chauffeuse, his eyes fixed on the guests at the Cahen d’Anvers mansion at 2 rue Bassano."
+    },
+    {
+      "fact": "Louise Cahen d’Anvers 把「打开 rue Bassano 的橡木大门、用音乐家/作家/女演员与出色谈话者待客」当作一个犹太女性向上进入 le Monde 的最有效策略，并以此主持她的每周沙龙。",
+      "start": 15653,
+      "end": 15861,
+      "quote": "the most effective strategy for a Jewish woman like Louise Cahen d’Anvers was to open her massive oaken doors on rue Bassano to entertain through musicians, writers, actresses, or brilliant conversationalists"
+    },
+    {
+      "fact": "Louise 从 Irène 约 12 岁起就开始把她塑造成自己的翻版：训练从上紧绳、鲸骨（baleen）与刺绣束腹开始，要求她只能滑行、不能奔跑、不能多吃、不能大笑。",
+      "start": 10119,
+      "end": 10201,
+      "quote": "The shaping of Irène to be like her mother began by the time she was about twelve."
+    },
+    {
+      "fact": "Irène 的外祖父 Meyer Cahen d’Anvers 于 1881 年被安葬在 Montmartre 一座奢华的石灰岩陵墓中；历史学家据葬礼与墓地花费判定，只有最上层 27% 的中上产家庭买得起体面坟墓。",
+      "start": 12180,
+      "end": 12294,
+      "quote": "the opulent limestone mausoleum in Montmartre where Irène’s grandfather, Meyer Cahen d’Anvers, was buried in 1881."
+    },
+    {
+      "fact": "Jean Béraud 在 1878 年画出 Une Soirée（本章题名所本），把 Louise 画进煤气灯下的真实舞会：冰蓝礼服、钻石领口、挽着一位俄国大使；该画在巴黎沙龙展出后，L’Illustration 的评论者认定它是对上流社会的讽刺。",
+      "start": 23116,
+      "end": 23312,
+      "quote": "In 1878, the financial aristocracy from the Right Bank was forever immortalized in Une Soirée, a Jean Béraud painting of a gaslit Parisian ball of real people that slyly captured the social codes."
+    },
+    {
+      "fact": "Charles Ephrussi 1905 年 56 岁时死于糖尿病，遗嘱只留给 Louise 三颗白色天然海珍珠（估价 800 法郎，今值约 $5,700），没有任何解释。",
+      "start": 20728,
+      "end": 20874,
+      "quote": "When Ephrussi died in 1905 at the age of fifty-six, of diabetes, in his will he left Louise just three exceptional white natural saltwater pearls."
+    },
+    {
+      "fact": "Louise 的第五个也是最小的孩子 Charles 于 1879 年出生，其法国出生证明明确把他登记为 Louis Cahen d’Anvers 的婚生子；但家族几十年后仍在议论他与 Ephrussi 的「影子父亲」传闻。",
+      "start": 21469,
+      "end": 21601,
+      "quote": "This despite the fact that Charles’s 1879 French birth certificate clearly listed him as the legitimate son of Louis Cahen d’Anvers."
+    },
+    {
+      "fact": "本章收尾：Goncourt 偷听到 Louise 对一桩包办婚姻的判断——素未谋面的新娘要在丈夫脱掉衬衫那一刻才「解开道德之谜」，即婚姻是为财产与门第而安排，女性被训练接受这一点。",
+      "start": 27826,
+      "end": 28044,
+      "quote": "according to Goncourt, Louise said it: “The young girl marrying a man she doesn’t know at all will suddenly—completely and all at once—figure out the moral enigma the moment he is in his shirt, leading her to his bed.”"
+    }
+  ],
+  "relationships": [
+    {
+      "person": "Irène / Élisabeth / Alice",
+      "relation": "Cahen d’Anvers 家三姐妹，Louise 的女儿；本章主角是 Irène",
+      "start": 650,
+      "end": 704,
+      "quote": "the Cahen d’Anvers sisters—Irène, Élisabeth, and Alice"
+    },
+    {
+      "person": "Alice",
+      "relation": "Irène 的妹妹，多年后向 Le Figaro 记者回忆母亲沙龙",
+      "start": 1091,
+      "end": 1150,
+      "quote": "Irène’s sister Alice recalled her mother’s salon gatherings"
+    },
+    {
+      "person": "Louise Cahen d’Anvers",
+      "relation": "Irène 的母亲；法国最富有男人之一的妻子；伯爵夫人、沙龙女主人",
+      "start": 2849,
+      "end": 2935,
+      "quote": "For Irène’s mother, Louise Cahen d’Anvers—the wife of one of the richest men in France"
+    },
+    {
+      "person": "Louis Cahen d’Anvers",
+      "relation": "Louise 的丈夫（M. Louis Cahen d’Anvers），rue de Bassano 府邸与周日迎宾的共同主人",
+      "start": 16496,
+      "end": 16570,
+      "quote": "M. and Mme. Louis Cahen d’Anvers have resumed residence in their townhouse"
+    },
+    {
+      "person": "Meyer Cahen d’Anvers",
+      "relation": "Irène 的外祖父，1881 年葬于 Montmartre",
+      "start": 12180,
+      "end": 12294,
+      "quote": "the opulent limestone mausoleum in Montmartre where Irène’s grandfather, Meyer Cahen d’Anvers, was buried in 1881."
+    },
+    {
+      "person": "Raoul Montefiore",
+      "relation": "Irène 的表兄弟，儿时旁听沙龙并终生记得 Basterot 子爵的劝告",
+      "start": 13663,
+      "end": 13695,
+      "quote": "Raoul Montefiore, Irène’s cousin"
+    },
+    {
+      "person": "Florimond de Basterot 子爵",
+      "relation": "Cahen d’Anvers 家的密友，给 Raoul 沙龙之道建议的人",
+      "start": 14021,
+      "end": 14100,
+      "quote": "The viscount Florimond de Basterot, a close friend of the Cahen d’Anvers family"
+    },
+    {
+      "person": "Gilbert Cahen d’Anvers",
+      "relation": "Irène 的外甥；Josefina 的丈夫；因其父传闻与形似西班牙国王而被议论",
+      "start": 22324,
+      "end": 22374,
+      "quote": "Her husband, Gilbert Cahen d’Anvers—Irène’s nephew"
+    },
+    {
+      "person": "Josefina Cahen d’Anvers",
+      "relation": "Gilbert 的妻子，转述家族关于「影子父亲」与婚外情的说法",
+      "start": 22324,
+      "end": 22374,
+      "quote": "Her husband, Gilbert Cahen d’Anvers—Irène’s nephew"
+    },
+    {
+      "person": "Charles（小儿子）",
+      "relation": "Louise 的第五个也是最小的孩子，1879 年生，婚书父亲为 Louis",
+      "start": 19450,
+      "end": 19499,
+      "quote": "Louise named her fifth and youngest child Charles"
+    },
+    {
+      "person": "Charles Ephrussi",
+      "relation": "艺术史家、收藏家、Cahen d’Anvers 家的密友；与 Louise 关系密切的传闻对象；Ignace 的兄弟",
+      "start": 19114,
+      "end": 19237,
+      "quote": "Charles Ephrussi—the art historian, collector, and dear friend of the Cahen d’Anvers—and his close relationship with Louise"
+    },
+    {
+      "person": "Gustave Schlumberger",
+      "relation": "Cahen d’Anvers 家的朋友与沙龙常客，回忆录记录 Belle Époque 社交风俗",
+      "start": 17273,
+      "end": 17425,
+      "quote": "Gustave Schlumberger, who chronicled the social customs of the Belle Époque in his memoir, was a friend of the Cahen d’Anvers family and a regular guest"
+    },
+    {
+      "person": "Edmond de Goncourt",
+      "relation": "日记作家、巴黎上流社会的常驻人物，在日记里议论 Louise 与 Ephrussi",
+      "start": 15320,
+      "end": 15391,
+      "quote": "Diarist Edmond de Goncourt, a permanent figure in Parisian high society"
+    },
+    {
+      "person": "Betty de Rothschild",
+      "relation": "著名的沙龙女主人，其话被用来概括沙龙女主人的角色",
+      "start": 15980,
+      "end": 16024,
+      "quote": "Betty de Rothschild, a celebrated salonnière"
+    },
+    {
+      "person": "Lydie Aubernon",
+      "relation": "以自家文化沙龙闻名的另一位女沙龙主人（摇铃决定话题）",
+      "start": 1728,
+      "end": 1781,
+      "quote": "Lydie Aubernon was fabled for her own cultural salons"
+    },
+    {
+      "person": "Count（Louis）Cahen d’Anvers",
+      "relation": "Louise 的丈夫，每晚五到七点常客于 Madame Laurentine Lelong 的公寓",
+      "start": 18201,
+      "end": 18275,
+      "quote": "Count Cahen d’Anvers, for instance, was a regular between the golden hours"
+    },
+    {
+      "person": "Rose d’Alvaray",
+      "relation": "Une Soirée 画中唯一那位穿象牙色 Worth 礼服的女士，公爵夫人，欠下设计师与珠宝商议价超过今值 $1.5 million 的债务",
+      "start": 23998,
+      "end": 24059,
+      "quote": "Rose d’Alvaray, a duchess later pursued in court by designers"
+    },
+    {
+      "person": "Marcel Proust",
+      "relation": "Louise 沙龙的座上客，以观察「le beau monde」为业的作家",
+      "start": 207,
+      "end": 247,
+      "quote": "Marcel Proust occupied his habitual post"
+    }
+  ],
+  "numbers": [
+    {
+      "kind": "时间跨度",
+      "value": "1883 to 1888（本章副标题年份区间）",
+      "start": 55,
+      "end": 67,
+      "quote": "1883 to 1888"
+    },
+    {
+      "kind": "地址",
+      "value": "2 rue Bassano（伯爵夫人府邸门牌号）",
+      "start": 336,
+      "end": 360,
+      "quote": "mansion at 2 rue Bassano"
+    },
+    {
+      "kind": "年份",
+      "value": "1962（Alice 对 Le Figaro 记者回忆沙龙的年份）",
+      "start": 1357,
+      "end": 1396,
+      "quote": "she told a Le Figaro journalist in 1962"
+    },
+    {
+      "kind": "频率",
+      "value": "Every Sunday（母亲在 rue Bassano 待客的日子）",
+      "start": 1453,
+      "end": 1497,
+      "quote": "Every Sunday, my mother’s day at rue Bassano"
+    },
+    {
+      "kind": "财富",
+      "value": "fortune estimated at more than 200 million French francs by the turn of the century, or about $1.2 billion in today’s US dollars",
+      "start": 3049,
+      "end": 3179,
+      "quote": "a fortune estimated at more than 200 million French francs by the turn of the century, or about $1.2 billion in today’s US dollars"
+    },
+    {
+      "kind": "年份/人数",
+      "value": "1885 年 Le Figaro：One hundred or so leading salons（约一百家领衔沙龙）",
+      "start": 3967,
+      "end": 4069,
+      "quote": "According to Le Figaro in 1885, “One hundred or so leading salons march at the head of public opinion."
+    },
+    {
+      "kind": "年份",
+      "value": "titles predated the Revolution of 1789；lost power after 1789, and also after 1830",
+      "start": 4449,
+      "end": 4556,
+      "quote": "whose titles predated the Revolution of 1789. Many had lost political power after 1789, and also after 1830"
+    },
+    {
+      "kind": "年份",
+      "value": "the French Revolution in 1799（原文如此，作 1799）",
+      "start": 7405,
+      "end": 7460,
+      "quote": "the egalitarian values of the French Revolution in 1799"
+    },
+    {
+      "kind": "年份",
+      "value": "By 1884（The New York Sun 驻巴黎记者记下服饰开支）",
+      "start": 8527,
+      "end": 8596,
+      "quote": "By 1884, the Paris correspondent for The New York Sun had taken note."
+    },
+    {
+      "kind": "金额",
+      "value": "spent upward of $20,000 a year on her wardrobe—equivalent to $660,000 in modern dollars",
+      "start": 8630,
+      "end": 8717,
+      "quote": "spent upward of $20,000 a year on her wardrobe—equivalent to $660,000 in modern dollars"
+    },
+    {
+      "kind": "金额",
+      "value": "a single ball gown might cost $300, maybe $400, or about $10,000 in today’s dollars",
+      "start": 8832,
+      "end": 8896,
+      "quote": "might cost $300, maybe $400, or about $10,000 in today’s dollars"
+    },
+    {
+      "kind": "对比",
+      "value": "A Worth gown could cost more than a year of someone else’s work",
+      "start": 8268,
+      "end": 8331,
+      "quote": "A Worth gown could cost more than a year of someone else’s work"
+    },
+    {
+      "kind": "年龄",
+      "value": "advised mothers to start gently corseting girls around age ten or eleven（Dr. Émile Vallin 的建议）",
+      "start": 11119,
+      "end": 11191,
+      "quote": "advised mothers to start gently corseting girls around age ten or eleven"
+    },
+    {
+      "kind": "年代",
+      "value": "a similar movement in France in the 1880s and 1890s（理性着装运动）",
+      "start": 11394,
+      "end": 11445,
+      "quote": "a similar movement in France in the 1880s and 1890s"
+    },
+    {
+      "kind": "百分比",
+      "value": "only the top 27 percent of upper- and middle-class families could afford proper graves",
+      "start": 12037,
+      "end": 12123,
+      "quote": "only the top 27 percent of upper- and middle-class families could afford proper graves"
+    },
+    {
+      "kind": "年份",
+      "value": "Meyer Cahen d’Anvers was buried in 1881",
+      "start": 12275,
+      "end": 12293,
+      "quote": "was buried in 1881"
+    },
+    {
+      "kind": "百分比",
+      "value": "10 percent of the population owned nearly 80 percent of everything",
+      "start": 12726,
+      "end": 12792,
+      "quote": "10 percent of the population owned nearly 80 percent of everything"
+    },
+    {
+      "kind": "年数",
+      "value": "residents of wealthy western neighborhoods lived roughly eight to twelve years longer",
+      "start": 12979,
+      "end": 13021,
+      "quote": "lived roughly eight to twelve years longer"
+    },
+    {
+      "kind": "钟点",
+      "value": "between the golden hours of five and seven in the evenings（Count 在 Lelong 公寓的时间）",
+      "start": 18251,
+      "end": 18293,
+      "quote": "between the golden hours of five and seven"
+    },
+    {
+      "kind": "数量",
+      "value": "only a necklace of 67 pearls（Goncourt 记 5 月某个周日的入场）",
+      "start": 15567,
+      "end": 15620,
+      "quote": "the Jewess wore that day only a necklace of 67 pearls"
+    },
+    {
+      "kind": "年份",
+      "value": "reported The New York Herald in 1888（预告伯爵夫人待客）",
+      "start": 16287,
+      "end": 16323,
+      "quote": "reported The New York Herald in 1888"
+    },
+    {
+      "kind": "日期",
+      "value": "will entertain on the 9th（原文的月度日期）",
+      "start": 16259,
+      "end": 16284,
+      "quote": "will entertain on the 9th"
+    },
+    {
+      "kind": "月份",
+      "value": "In November of that year（1888 年 11 月，L’Événement 宣布社交季重启）",
+      "start": 16407,
+      "end": 16493,
+      "quote": "In November of that year, L’Événement announced the start of the family’s social whirl"
+    },
+    {
+      "kind": "月份",
+      "value": "foraged from the wild between March and May（凤头麦鸡蛋的采集期）",
+      "start": 17801,
+      "end": 17844,
+      "quote": "foraged from the wild between March and May"
+    },
+    {
+      "kind": "年份",
+      "value": "wrote a letter to his mother in 1899（Georges Feydeau 的警告信）",
+      "start": 18905,
+      "end": 18941,
+      "quote": "wrote a letter to his mother in 1899"
+    },
+    {
+      "kind": "年份/地址",
+      "value": "moved in 1896 to a townhouse with his brother, Ignace, at 11 Avenue d’Iéna",
+      "start": 19260,
+      "end": 19334,
+      "quote": "moved in 1896 to a townhouse with his brother, Ignace, at 11 Avenue d’Iéna"
+    },
+    {
+      "kind": "距离",
+      "value": "a five-minute walk from the Cahen d’Anvers mansion on rue Bassano",
+      "start": 19336,
+      "end": 19386,
+      "quote": "a five-minute walk from the Cahen d’Anvers mansion"
+    },
+    {
+      "kind": "排行/年份",
+      "value": "Louise named her fifth and youngest child Charles when he was born in 1879",
+      "start": 19457,
+      "end": 19524,
+      "quote": "named her fifth and youngest child Charles when he was born in 1879"
+    },
+    {
+      "kind": "日期",
+      "value": "written about Louise with a sneer in October 1878, the year before her son Charles was born",
+      "start": 20250,
+      "end": 20348,
+      "quote": "He had written about Louise with a sneer in October 1878, the year before her son Charles was born"
+    },
+    {
+      "kind": "季节",
+      "value": "he wrote in the winter of 1880（Goncourt 关于犹太女性的原话）",
+      "start": 19922,
+      "end": 19952,
+      "quote": "he wrote in the winter of 1880"
+    },
+    {
+      "kind": "遗赠",
+      "value": "three white pearls, mounted on a string. Appraised value: eight hundred francs",
+      "start": 20905,
+      "end": 21019,
+      "quote": "“To Madame Louise Cahen d’Anvers, three white pearls, mounted on a string. Appraised value: eight hundred francs.”"
+    },
+    {
+      "kind": "今值",
+      "value": "worth $5,700 in modern dollars",
+      "start": 21071,
+      "end": 21101,
+      "quote": "worth $5,700 in modern dollars"
+    },
+    {
+      "kind": "年份",
+      "value": "Charles’s 1879 French birth certificate",
+      "start": 21496,
+      "end": 21535,
+      "quote": "Charles’s 1879 French birth certificate"
+    },
+    {
+      "kind": "年龄/年份",
+      "value": "died in 1905 at the age of fifty-six, of diabetes",
+      "start": 20728,
+      "end": 20791,
+      "quote": "When Ephrussi died in 1905 at the age of fifty-six, of diabetes"
+    },
+    {
+      "kind": "金额",
+      "value": "fashion debts totaling more than $1.5 million in today’s dollars（Rose d’Alvaray）",
+      "start": 24122,
+      "end": 24186,
+      "quote": "fashion debts totaling more than $1.5 million in today’s dollars"
+    },
+    {
+      "kind": "年龄",
+      "value": "began by the time she was about twelve（Irène 开始受训的年龄）",
+      "start": 10119,
+      "end": 10201,
+      "quote": "The shaping of Irène to be like her mother began by the time she was about twelve."
+    }
+  ]
+}

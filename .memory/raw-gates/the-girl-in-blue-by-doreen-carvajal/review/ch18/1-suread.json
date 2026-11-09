@@ -1,0 +1,54 @@
+{
+ "chapter": "ch18",
+ "method": "主会话人工素读（R1 子代理超时转人工；关键段落本轮实读+锚点 python 实算）",
+ "facts": [
+  {
+   "fact": "1947 年初前后 Wildenstein 开价五万法郎，Irène 说不；1946 年归国展将尽时卢浮宫'据称'提出 1200 万法郎，出自竞争掮客通信（可能被夸大）",
+   "start": 707,
+   "end": 755,
+   "quote": "the Louvre supposedly proposed 12 million francs"
+  },
+  {
+   "fact": "拒卖卢浮宫的政治理由：法国追捕过她家族、Drancy 由法国看守押人、卢浮宫内部信件用 youtres/wood lice 骂犹太人",
+   "start": 1727,
+   "end": 1780,
+   "quote": "And at the Louvre, where they now pretended reverence"
+  },
+  {
+   "fact": "她等到 1949：出面的是风景画家 Werner Feuz，实为中间人；真正买主人人皆知——军火王 Emil Bührle（向第三帝国卖防空与反潜装备）",
+   "start": 2183,
+   "end": 2240,
+   "quote": "He was Zurich’s arms king, the man who had sold the Reich"
+  },
+  {
+   "fact": "Bührle 书面自辩\"Because I am a man of honor\"；被诉返还后又系统买回；Cooper 统计：瑞士起获 77 幅重要画中他买了 13 幅",
+   "start": 3090,
+   "end": 3135,
+   "quote": "And then, methodically, he bought it all back"
+  },
+  {
+   "fact": "1949 年 5 月雨后午后，圣日耳曼昂莱纪念 Reinach 三兄弟与儿孙（含死于 Auschwitz 的作曲家 Léon，去世五年）；发言只提\"hard path\"，不提他写过的信与试图保住的画",
+   "start": 4382,
+   "end": 4428,
+   "quote": "There was no mention of the other hard choices"
+  },
+  {
+   "fact": "1949-06-08 Feuz 电话 Bührle 苏黎世办公室：有 Renoir 可售、一周独家期权、彩色印刷品'proof of life'、售价 upon request；加一句'always remained in the same private collection'——'a lie made to sound like provenance'；又谎称 1945 年卢浮宫展过（实为 1946-03 才回法国）",
+   "start": 5525,
+   "end": 5560,
+   "quote": "a lie made to sound like provenance"
+  },
+  {
+   "fact": "国家无力竞争：Jaujard 称 national emergency；Salles 建议 Block the export，但全国博物馆年度收购预算 3000 万法郎对 Bührle 一幅 1800 万法郎；Derain 换画提议被卢浮宫拒；8 月教育部仍不给出口许可",
+   "start": 9315,
+   "end": 9372,
+   "quote": "the state’s total acquisition budget of 30 million francs"
+  },
+  {
+   "fact": "10 月 Irène 加码要 26 万瑞士法郎现款（她是银行家的女儿、懂汇率）；10-21 Hentsch & Cie 开 24 万法郎支票付 Feuz、无给 Irène 的收据；出口许可查无——Bührle 烧掉 1939-1945 记录；国家档案馆 1949 档案盒里画与三方姓名均不出现",
+   "start": 16930,
+   "end": 16968,
+   "quote": "No trace in the registry. Only absence"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "chapter": "ch19",
+ "method": "主会话人工素读（子代理超时转人工；分段实读+锚点 python 实算）",
+ "facts": [
+  {
+   "fact": "Bührle 战后收藏膨胀至六百件；瑞士是\"容纳财富而不质疑它\"的国家",
+   "start": 102,
+   "end": 132,
+   "quote": "the richest man in Switzerland"
+  },
+  {
+   "fact": "Berggruen 卖他三幅 Klee 水彩，亲自送货，成年子女问\"父亲怎么会买这种东西\"",
+   "start": 829,
+   "end": 864,
+   "quote": "How can our father buy such things?"
+  },
+  {
+   "fact": "1951 Kokoschka 为其画表现主义肖像；1954-06 讲座称\"A real collector...is a frustrated artist\"；热情始于 1913 弗莱堡学生时代柏林国家画廊\"the pebble fell into the water\"",
+   "start": 2664,
+   "end": 2686,
+   "quote": "is a frustrated artist"
+  },
+  {
+   "fact": "1954 未刊 Life 照片：他身后挂的 Degas《钢琴前的 Camus 夫人》1941 年被纳粹从 Alphonse Kann 处偷走；他爱它不肯还、被诉、交出、再买回",
+   "start": 4207,
+   "end": 4253,
+   "quote": "stolen in 1941 from Alphonse Kann by the Nazis"
+  },
+  {
+   "fact": "1956-11-28 心脏病猝死 66 岁；无遗嘱无指令；基金会成立、收藏机构化，Reuters 讣告\"a mixture of arms manufacturer, peaceful industrialist, and patron of the arts\"",
+   "start": 4781,
+   "end": 4820,
+   "quote": "died of a heart attack at age sixty-six"
+  },
+  {
+   "fact": "法国继承法：Béatrice 遗产四分之一（111 million francs，约今 1500 万美元）归唯一在世母亲 Irène，四分之三归同母异父妹 Pussy；Villa Béatrice 后卖给国营铁路 SNCF",
+   "start": 6664,
+   "end": 6694,
+   "quote": "one-quarter—111 million francs"
+  },
+  {
+   "fact": "Pussy 挥霍成传奇；\"Monte-Carlo 赌光\"传闻 repeated often, sourced nowhere，曾孙女 Catherine 反驳\"For me it was Pussy\"；1960 Godard《Breathless》把肖像复制品挂进卧室",
+   "start": 9150,
+   "end": 9181,
+   "quote": "repeated often, sourced nowhere"
+  },
+  {
+   "fact": "1963-11-25 Irène 亡于 1 Place d'Iéna 女儿公寓；遗产清单明确\"There was no art\"；France-Soir 标题\"The Little Girl in Blue by Renoir is dead at 91\"；Boston Globe 说她卖过两次买回一次",
+   "start": 10017,
+   "end": 10034,
+   "quote": "There was no art."
+  },
+  {
+   "fact": "2018 讷伊市在其墓贴\"classified abandoned\"；曾孙女信求无效后由 Catherine、Marion 与比利时捐赠人出钱修复；章末：Molina 家石碑（Convoy 61）；\"There are no graves for them here\"——Fanny/Bertrand/Léon/Béatrice 名字刻蒙马特 Camondo 墓室大理石牌",
+   "start": 12756,
+   "end": 12790,
+   "quote": "There are no graves for them here."
+  }
+ ]
+}

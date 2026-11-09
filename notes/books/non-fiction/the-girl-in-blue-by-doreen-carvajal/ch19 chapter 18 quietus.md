@@ -19,13 +19,14 @@ modified: "2026-11-09"
 
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
-| Bührle 收藏 “swelled, exploded really” 至 “Six hundred works”；1954 年未刊 Life 照片里他身后一幅 Degas “stolen in 1941 from Alphonse Kann by the Nazis”，他爱它不肯还、被诉、交出又买回 | 案例／影像与诉讼 | 收藏家的 “monument” 建立在纳粹赃物上：占有即权利，来历无人清点 |
-| 1956-11-28 心脏病猝死、“No will. No instructions.”；随后 “The collection was institutionalized”、路透社讣告 “a mixture of arms manufacturer, peaceful industrialist, and patron of the arts” | 数据／讣告与机构 | 死后的体面化：暴力积累被基金会与讣告改写成文化贡献 |
+| Bührle 收藏 “swelled, exploded really” 至 “Six hundred works”；1954 年未刊 Life 照片里他身后一幅 Degas “stolen in 1941 from Alphonse Kann by the Nazis”，他爱它不肯还、被诉、交出又买回 | 案例／影像与诉讼 | 收藏家的 “monument” 建立在纳粹赃物上：占有即权利，来历无人清点；Berggruen 卖他三幅 Klee 水彩、亲自送货，成年子女当面问 “How can our father buy such things?”——“bitterness...shared by quite a few collectors” |
+| 1956-11-28 心脏病猝死、“No will. No instructions.”；随后 “The collection was institutionalized”、路透社讣告 “a mixture of arms manufacturer, peaceful industrialist, and patron of the arts” | 数据／讣告与机构 | 死后的体面化：暴力积累被基金会与讣告改写成文化贡献；1954-06 他亲自讲座自述收藏史——“A real collector...is a frustrated artist”，热情上溯 1913 柏林国家画廊 “the pebble fell into the water”——改写的底稿是他自己先写好的 |
 | 法国继承法：未婚无子无遗嘱者遗产四分之一归在世父母；Irène “received one-quarter—111 million francs”，其余 “The remaining three-quarters went to Pussy, Béatrice’s half-sister” | 数据／法条与税档 | “no room for sentiment”：灭门被换算成法郎比例，档案在驱逐之后才“算清楚” |
 | France-Soir 标题 “the Little Girl in Blue by Renoir is dead at 91”，声称 Bührle 于 1920 年代从她手中购画；波士顿环球报说她卖过两次、买回一次，“the facts had vanished” | 案例／媒体报道 | 媒体把劫掠改写成佳话；“the version of her that survived” 是失真版本 |
 | 2018 年讷伊市在她墓上贴 “classified abandoned”，她 “was about to be evicted from memory”；章末受害者 “no graves”，名字 “appear in dark letters on a marble plaque”，门后 “the flames of a menorah” | 案例／市政程序与墓志 | quietus 的终极形态：不是死亡而是被逐出记忆，幸存者只剩牌上的字母 |
+| 谣言与流行改写：Monte-Carlo 赌光家产之说 “repeated often, sourced nowhere”，曾孙女 Catherine 断言 “For me it was Pussy”；1960 年 Godard《Breathless》把肖像复制品挂上卧室墙，Jean Seberg 问 “Do you think she’s prettier than me?” | 案例／口述与电影 | 记忆场域的争夺从讣告延伸到赌坊传闻与流行电影——幸存的是"版本"，不是事实 |
 
-**论证脉络**：起（Bührle 从不停止购买——瑞士容纳财富不质疑）→ 造像（夜里独游私人圣殿，画镶金框）→ 机制（“looted works” 经中间人流入；他死后无遗嘱）→ 改写之一（基金会、制度化、路透社讣告 = 收藏家的 “soft rewriting”）→ 枢纽（“THE SAME TRANSFORMATION” 平移到 Irène：1949 归来）→ 证据链（法国继承法把 Béatrice 之死算成四分之一 vs 四分之三）→ 改写之二（France-Soir、波士顿环球报伪造版本）→ 记忆的静默（Pussy 拒忆、2018 墓被“废弃”）→ 落点（无坟者只剩蒙马特墓室牌上的字母与烛台火焰）。
+**论证脉络**：起（Bührle 从不停止购买——瑞士容纳财富不质疑）→ 造像（夜里独游私人圣殿，画镶金框）→ 机制（“looted works” 经中间人流入；他死后无遗嘱）→ 改写之一（基金会、制度化、路透社讣告 = 收藏家的 “soft rewriting”）→ 枢纽（“THE SAME TRANSFORMATION” 平移到 Irène：1949 归来）→ 证据链（法国继承法把 Béatrice 之死算成四分之一 vs 四分之三）→ 改写之二（France-Soir、波士顿环球报伪造版本）→ 记忆的静默与流行改写（Pussy 拒忆、Monte-Carlo 谣言、1960《Breathless》卧室墙、2018 墓被“废弃”）→ 落点（无坟者只剩蒙马特墓室牌上的字母与烛台火焰）。
 
 **可质疑处**：
 1. 现价换算的基年与口径缺失：“roughly $15 million in today’s dollars” 与 “about $150,000 in modern dollars” 未注明以何年、何种汇率折算；本章以“纸”为凭，作者自己的“today”却没有纸。

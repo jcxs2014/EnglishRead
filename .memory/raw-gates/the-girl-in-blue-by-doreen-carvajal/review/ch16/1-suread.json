@@ -1,0 +1,54 @@
+{
+ "chapter": "ch16",
+ "method": "主会话人工素读（R1 子代理超时转人工；判定前未开 md）",
+ "facts": [
+  {
+   "fact": "绰号 Venus Fixers 于 1945 年夏天出现；Howe 觉得丢人，但因带希望而留下",
+   "start": 578,
+   "end": 605,
+   "quote": "A tag that embarrassed him."
+  },
+  {
+   "fact": "MFAA 1944 年 11 月创建，13 国 345 名军官；任务追踪被纳粹装上火车的藏品，清单末端落到 La Petite Irène",
+   "start": 1040,
+   "end": 1123,
+   "quote": "Three hundred and forty-five officers from thirteen countries in an Allied program."
+  },
+  {
+   "fact": "Howe 在贝希特斯加登（近鹰巢）办公；数月前一同事为抢祭坛画被机枪打死",
+   "start": 2959,
+   "end": 3026,
+   "quote": "shot dead by machine-gun fire while trying to salvage an altarpiece"
+  },
+  {
+   "fact": "新天鹅堡充当帝国赃物集散站；密封侧楼里最重要的是文件——ERR 档案：两万张编目卡、八千张底片",
+   "start": 5017,
+   "end": 5071,
+   "quote": "The archives of the Einsatzstab Reichsleiter Rosenberg"
+  },
+  {
+   "fact": "Howe 最后一天下山到 Gipsmühle：56 岁艺术商 Rochlitz，1944-08-20 逃出巴黎、比 de Gaulle 演讲早五天",
+   "start": 6635,
+   "end": 6685,
+   "quote": "five days before Charles de Gaulle’s famous speech"
+  },
+  {
+   "fact": "1945-07-11 被捕后咬定反纳粹；账户 80,000→5,685,000 法郎（\"not resistance but profit\"）；军事报告：从未知晓 82 幅画来自犹太收藏",
+   "start": 8999,
+   "end": 9024,
+   "quote": "not resistance but profit"
+  },
+  {
+   "fact": "1945-08 农舍二楼：妻子取长筒、22 幅现代画缠筒展开；La Petite Irène 重现；9 月 4 日押往慕尼黑；两百箱涉嫌走私瑞士未追回",
+   "start": 12983,
+   "end": 13031,
+   "quote": "The portrait was no longer art. It was evidence."
+  },
+  {
+   "fact": "战后致信 Rose Valland \"I saved the moderns\"；章末判词",
+   "start": 15251,
+   "end": 15302,
+   "quote": "In his version, nothing was stolen, only exchanged."
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/ch02 chapter 1 family portraits.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch02_chapter_1_family_portraits.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "THE MOST REVEALING PART of Irène’s portrait isn’t her cupped hands or pensive eyes, but the distracted gaze angled to th",
+          "ok": true,
+          "pos": 68
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "They say the name Cahen comes from the desert. In Hebrew it was Kohen, priest, a lineage traced to Aaron, the brother of",
+          "ok": true,
+          "pos": 1513
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was a line Raoul wrote while living in hiding from the Gestapo years after their games together had ended, when he re",
+          "ok": true,
+          "pos": 2890
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Wealth was not simply possessed. It was rehearsed, displayed, maintained with trunks arriving from the fashion House of ",
+          "ok": true,
+          "pos": 5785
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I like beautiful materials, rich brocades, diamonds flashing in the light, but I would have a horror of wearing such th",
+          "ok": true,
+          "pos": 19826
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Renoir understood that children don’t pose; they drift, they settle, they forget you’re there. And it was in those momen",
+          "ok": true,
+          "pos": 21263
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "That one day strangers would study the way Renoir painted the tiny dot of white and pale blue in the iris of her eyes an",
+          "ok": true,
+          "pos": 25611
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“As for the 1,500 francs from the Cahens, I must tell you I find it hard to swallow. The family is so tight-fisted; I’m ",
+          "ok": true,
+          "pos": 36577
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The family’s members preferred to call themselves Israelites. A Juif was something else—something Eastern, something lou",
+          "ok": true,
+          "pos": 37516
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "They were preparing her, quite methodically, for a marriage she had not chosen. To become an emblem of belonging in a wo",
+          "ok": true,
+          "pos": 42347
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 110
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.57,
+        "关键词": 0.0,
+        "表达方式": 0.48,
+        "为什么这样写": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "句子结构": 59,
+        "关键词": 0,
+        "表达方式": 60,
+        "为什么这样写": 91
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "句子结构": 0.51,
+        "关键词": 0.0,
+        "表达方式": 0.53,
+        "为什么这样写": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "句子结构": 59,
+        "关键词": 0,
+        "表达方式": 52,
+        "为什么这样写": 111
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "句子结构": 0.32,
+        "关键词": 0.0,
+        "表达方式": 0.33,
+        "为什么这样写": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 50,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 105
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.3,
+        "关键词": 0.0,
+        "表达方式": 0.61,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 65,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 109
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "句子结构": 0.64,
+        "关键词": 0.0,
+        "表达方式": 0.59,
+        "为什么这样写": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "句子结构": 44,
+        "关键词": 0,
+        "表达方式": 50,
+        "为什么这样写": 103
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "句子结构": 0.36,
+        "关键词": 0.0,
+        "表达方式": 0.42,
+        "为什么这样写": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 68,
+        "句子结构": 44,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 114
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.3,
+        "关键词": 0.0,
+        "表达方式": 0.42,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 37,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 111
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "句子结构": 0.5,
+        "关键词": 0.0,
+        "表达方式": 0.6,
+        "为什么这样写": 0.83
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "句子结构": 52,
+        "关键词": 0,
+        "表达方式": 86,
+        "为什么这样写": 98
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "句子结构": 0.44,
+        "关键词": 0.0,
+        "表达方式": 0.65,
+        "为什么这样写": 0.55
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 47,
+        "句子结构": 67,
+        "关键词": 0,
+        "表达方式": 67,
+        "为什么这样写": 90
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.49,
+        "关键词": 0.0,
+        "表达方式": 0.63,
+        "为什么这样写": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Chapter 1: Family Portraits",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 10,
+    "block_median": 7,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7080,
+    "block_target": [
+      13,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 20 章中位 7、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

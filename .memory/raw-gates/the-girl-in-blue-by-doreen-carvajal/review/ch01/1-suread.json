@@ -1,0 +1,203 @@
+{
+  "chapter": "ch01",
+  "title": "Prologue: The Vanishing",
+  "source_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch01_prologue.txt",
+  "file_chars": 14729,
+  "method": "python str.find offsets over the txt (unicode code points, len=14729); every anchor re-verified unique and slice-identical after writing",
+  "facts": [
+    {
+      "fact": "1941 年 7 月 7 日，纳党 loot 机构 ERR（Einsatzstab Reichsleiter Rosenberg）在香博尔城堡集合，夺取犹太收藏家藏匿的作品；现场团队听命于一名名字已失考的「Solne 博士」，其指令直接来自柏林 Alfred Rosenberg 的办公室；Solne 无视博物馆高层抗议，对馆员宣布这些收藏「视为无主之物」，随后 ERR 押送车队驶向巴黎，雷诺阿那幅画在其中一辆卡车上。",
+      "start": 5986,
+      "end": 6328,
+      "quote": "It was then that the ERR seized the crates of art marked with coded initials. They had the Jewish names, the inventories, the provenance trails. They knew what they were taking. Dr. Solne ignored top-level museum protests. What mattered was that he had orders direct from Berlin to the office led by the chief Nazi ideologue Alfred Rosenberg."
+    },
+    {
+      "fact": "被标为待运的箱子里有一只装着雷诺阿 1880 年所作肖像画，画的是八岁的犹太女孩 Irène Cahen d'Anvers，即「蓝裙少女」（La Petite Irène）。",
+      "start": 1444,
+      "end": 1650,
+      "quote": "Among the crates marked for removal was one containing a Renoir: a portrait of a young Jewish child. Painted in 1880, it fixed Irène Cahen d’Anvers at eight years old, forever the girl in a blue silk dress."
+    },
+    {
+      "fact": "1939 年夏天卢浮宫开始疏散藏品，国家博物馆用十一座城堡组成的网络存放，香博尔是中枢；1940 年 5、6 月德军入侵后翻检法国档案，找到了疏散计划的副本；到 1941 年 4 月，六名德军士兵已在城堡外「保护性」站岗。",
+      "start": 4365,
+      "end": 4600,
+      "quote": "The Louvre’s art exodus began in the summer of 1939 amid growing fears in Paris about bombings. The Musées nationaux had already prepared, executing plans to store artworks in a network of eleven other castles. The Chambord was the hub"
+    },
+    {
+      "fact": "法国国家博物馆馆长 Jacques Jaujard 在 1941 年 7 月 5 日的信中请求德军「只搬走下列箱子」；德方清单锁定八名犹太私人收藏者，其中包括藏有《小伊蕾娜》的一家；希特勒早在 1937 年就厌恶印象派，而 Göring 日后要这幅画不是为了美，是为了在灰色艺术品市场上做交换筹码。",
+      "start": 3121,
+      "end": 3216,
+      "quote": "wrote Jacques Jaujard, the head of the French national museums, in a letter dated July 5, 1941."
+    },
+    {
+      "fact": "1941 年 8 月，卡昂-达内韦斯家人要求德方归还被 ERR 抢走的画作，此举激怒了已在最高层锁定他们的维希与纳粹当局。",
+      "start": 10370,
+      "end": 10549,
+      "quote": "But their demand in August 1941 for the return of the painting seized by the German ERR outraged the French Vichy and Nazi authorities who had targeted them at the highest levels."
+    },
+    {
+      "fact": "家人面临去留抉择（英格兰、智利、非洲、西班牙）：即将满六十九岁的 Irène 拒绝离开法国，六十四岁的寡嫂 Sonia Cahen d'Anvers 也因办不到签证而留下。",
+      "start": 10788,
+      "end": 10978,
+      "quote": "Irène, turning sixty-nine years old, refused to leave France. Her sister-in-law, Sonia Cahen d’Anvers, then a widow and sixty-four, also stayed, aware that it was impossible to obtain visas."
+    },
+    {
+      "fact": "Irène 选择「藏于明处」：在 16 区 rue de la Tour 一处带封死金属百叶的秘密公寓里躲了四年多，距德军与纳粹情报的行政中枢步行仅二十分钟；1945 年七十二岁的她从占领期走出来，面对一个同谋者既被惩罚又被庇护的清算。",
+      "start": 11534,
+      "end": 11791,
+      "quote": "But she chose to hide in plain sight for more than four years, behind sealed metal shutters in a hideaway apartment on rue de la Tour in the 16th arrondissement within a twenty-minute walk to the administrative hub for German military and Nazi intelligence."
+    },
+    {
+      "fact": "1945 年同一时间，Irène 推动搜寻失踪的雷诺阿；Monuments Men（MFAA，由哈佛出身的艺术史家与馆长转任的美军调查员）循线到巴伐利亚乡间一座 Gottesgarten（「神之园」）农舍，从阁楼里取回卷起来像地毯藏着的画，装了二十多幅毕加索、马蒂斯、莫奈与 Irène 的画像一车 jeep 开走。",
+      "start": 12874,
+      "end": 13272,
+      "quote": "That same year, in 1945, Irène pressed for a search for the missing Renoir portrait. The Monuments Men—Harvard-educated art historians and museum curators turned American military investigators for the Monuments, Fine Arts, and Archives (MFAA) program—had been tracing leads, and one trail in Germany led to a farmhouse in the Bavarian countryside, a place locals called Gottesgarten, God’s Garden."
+    },
+    {
+      "fact": "1946 年雷诺阿回到法国，在巴黎 l'Orangerie 的「从德国追回私藏杰作」展上公开亮相；同年 11 月，画在没有仪式的情况下归还 Irène。",
+      "start": 13480,
+      "end": 13650,
+      "quote": "In 1946 the Renoir was returned to France for a showy welcome at l’Orangerie in Paris for a public appearance at Masterpieces of Private Collections Recovered in Germany."
+    },
+    {
+      "fact": "到 1949 年，博物馆人士开始上门劝捐，视之为法国国宝；Irène 只用斜体小楷写下它是「我童年迷人的回忆」；随后一名艺术品掮客替一位靠向纳粹德国供应速射高射炮发家的实业家来找她。",
+      "start": 13884,
+      "end": 13983,
+      "quote": "By 1949, offers began to arrive. Museum men, tactful and insistent, saw a French national treasure."
+    }
+  ],
+  "people": [
+    {
+      "name": "Irène Cahen d'Anvers",
+      "role": "雷诺阿画中八岁的女孩，1941 年近六十九岁；拒绝离开法国，藏于明处四年多，1945 年七十二岁走出占领期，1946 年 11 月收回原作",
+      "start": 10788,
+      "end": 10849,
+      "quote": "Irène, turning sixty-nine years old, refused to leave France."
+    },
+    {
+      "name": "Louis Cahen d'Anvers (Count)",
+      "role": "Irène 的父亲，1880—1890 年代欧洲最富者之一，资本大亨",
+      "start": 9150,
+      "end": 9326,
+      "quote": "Irène’s father, Count Louis Cahen d’Anvers, was a leonine figure in the 1880s and 1890s with a snowy mutton-chop beard, one of the richest men in Europe, a mogul of capitalism."
+    },
+    {
+      "name": "Louise Cahen d'Anvers",
+      "role": "Irène 的母亲，著名女沙龙主人，沙龙网络汇聚金融家、音乐家与文学巨匠（含 Marcel Proust）",
+      "start": 9327,
+      "end": 9396,
+      "quote": "In her own right, Irène’s mother, Louise, was a celebrated salonnière"
+    },
+    {
+      "name": "Sonia Cahen d'Anvers",
+      "role": "Irène 的寡嫂，1941 年六十四岁，因办不到签证同样留下",
+      "start": 10850,
+      "end": 10978,
+      "quote": "Her sister-in-law, Sonia Cahen d’Anvers, then a widow and sixty-four, also stayed, aware that it was impossible to obtain visas."
+    },
+    {
+      "name": "Cahen d'Anvers 家族",
+      "role": "犹太金融贵族（haute banque），BNP Paribas 的创建者；肖像画守护三代人六十一年",
+      "start": 10332,
+      "end": 10368,
+      "quote": "who were the founders of BNP Paribas"
+    },
+    {
+      "name": "Jacques Jaujard",
+      "role": "法国国家博物馆馆长，1941 年 7 月 5 日致信限定德军只搬指定箱子",
+      "start": 3121,
+      "end": 3216,
+      "quote": "wrote Jacques Jaujard, the head of the French national museums, in a letter dated July 5, 1941."
+    },
+    {
+      "name": "Baron Kurt von Behr",
+      "role": "ERR 驻巴黎主管，戴玻璃眼的德国贵族兼纳粹党官员，在查封的宅邸里 overseeing 犹太收藏充公",
+      "start": 2283,
+      "end": 2397,
+      "quote": "In Paris the ERR was directed by Baron Kurt von Behr, a German aristocrat and Nazi Party official with a glass eye"
+    },
+    {
+      "name": "Dr. Solne",
+      "role": "香博尔现场负责人，名字已在存世信件中失考；无视博物馆高层抗议，宣布收藏为「无主之物」",
+      "start": 2567,
+      "end": 2631,
+      "quote": "obscure “Dr. Solne,” a functionary whose first name has vanished"
+    },
+    {
+      "name": "Alfred Rosenberg",
+      "role": "纳粹首席意识形态官，其办公室向 Solne 下达直接指令；ERR 以其名命名",
+      "start": 6286,
+      "end": 6327,
+      "quote": "the chief Nazi ideologue Alfred Rosenberg"
+    },
+    {
+      "name": "Hermann Göring",
+      "role": "希特勒的第二号人物，绰号「胖赫尔曼」，欲以此画作灰市交换筹码",
+      "start": 5479,
+      "end": 5533,
+      "quote": "as Hermann Göring, Hitler’s powerful second-in-command"
+    },
+    {
+      "name": "Adolf Hitler",
+      "role": "1937 年在慕尼黑德国艺术之家誓言净化艺术，厌恶印象派等「主义」",
+      "start": 3466,
+      "end": 3572,
+      "quote": "As early as 1937, in a solemn speech at the House of German Art in Munich, Hitler had vowed to purify art."
+    },
+    {
+      "name": "King Francis I",
+      "role": "1516 年始建香博尔，以蝾螈为徽，格言「Nutrisco et Extinguo」（我滋养善，我熄灭恶）",
+      "start": 352,
+      "end": 449,
+      "quote": "In 1516, King Francis I began building Chambord, a Renaissance fantasy of towers and white stone."
+    },
+    {
+      "name": "Pierre-Auguste Renoir",
+      "role": "《小伊蕾娜》（La Petite Irène）的作者，1880 年以印象派笔触绘制",
+      "start": 1545,
+      "end": 1610,
+      "quote": "Painted in 1880, it fixed Irène Cahen d’Anvers at eight years old"
+    },
+    {
+      "name": "Monuments Men / MFAA",
+      "role": "哈佛出身的艺术史家与馆长转任的美军文物调查员，循线到巴伐利亚 Gottesgarten 农舍寻回画作",
+      "start": 12959,
+      "end": 13272,
+      "quote": "The Monuments Men—Harvard-educated art historians and museum curators turned American military investigators for the Monuments, Fine Arts, and Archives (MFAA) program—had been tracing leads, and one trail in Germany led to a farmhouse in the Bavarian countryside, a place locals called Gottesgarten, God’s Garden."
+    }
+  ],
+  "numbers_and_dates": [
+    "1516",
+    "1941",
+    "July 7, 1941",
+    "1880",
+    "eight years old",
+    "1937",
+    "1940",
+    "thousands of works",
+    "the summer of 1939",
+    "eleven other castles",
+    "May and June 1940",
+    "April 1941",
+    "six German soldiers",
+    "sixty-one years",
+    "three generations",
+    "2 rue Bassano",
+    "16th arrondissement",
+    "August 1941",
+    "sixty-nine years old",
+    "sixty-four",
+    "millions in francs",
+    "more than four years",
+    "twenty-minute walk",
+    "1945",
+    "seventy-two",
+    "more than twenty other paintings",
+    "1946",
+    "November of that year",
+    "1949",
+    "the 1880s and 1890s",
+    "eight Jewish private owners",
+    "July 5, 1941"
+  ]
+}

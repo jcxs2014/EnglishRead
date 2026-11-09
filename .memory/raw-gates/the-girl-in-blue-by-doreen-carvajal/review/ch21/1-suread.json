@@ -1,0 +1,54 @@
+{
+ "chapter": "ch21",
+ "method": "主会话人工素读（派工核校期已先全文读 text；本轮补锚点 python 实算）",
+ "facts": [
+  {
+   "fact": "2015 年塞文山区电话：Christian de Monbrison（Élisabeth 一支、Robert 之孙）自报辈分要求与 Catherine 谈——为 1942 年 Élisabeth Neuilly 房产强制出售款的对国索赔",
+   "start": 1945,
+   "end": 1996,
+   "quote": "I am Christian de Monbrison. I am your great-uncle."
+  },
+  {
+   "fact": "1944-03 Élisabeth 从 Drancy 送出最后一则口信（遗嘱），五天后 69 岁被押 Convoy 70 再未回来",
+   "start": 7050,
+   "end": 7133,
+   "quote": "Five days later she was forced onto Convoy 70 at age sixty-nine and never returned."
+  },
+  {
+   "fact": "1951-10-19 法国法院驳回 Philippe de Forceville 诉讼：文件不合——死亡证明由退役部而非司法判决签发，Élisabeth 在法律上不被认定为犹太人",
+   "start": 8538,
+   "end": 8590,
+   "quote": "the court said no—because the paperwork wasn’t right"
+  },
+  {
+   "fact": "Christian 2002 年起独自追索、向 Klarsfeld 提供材料；卢瓦尔/布鲁塞尔/日内瓦/意大利/迪拜/美国的散落族人互不相识",
+   "start": 3305,
+   "end": 3333,
+   "quote": "he started his quest in 2002"
+  },
+  {
+   "fact": "1942-09 Élisabeth 房产以 420,000 法郎被低价售出（她 1929 年付 600,000 购得）；CGQJ 还扣 39,064 法郎\"行政服务\"费并加搬运被劫家具费用",
+   "start": 13235,
+   "end": 13290,
+   "quote": "In September 1942, the property sold for 420,000 francs"
+  },
+  {
+   "fact": "2016 年 18 名后人（含三位曾孙女）正式递交 CIVS 索赔，267 份脆旧文件；2019 年胜诉，判赔 572,600 欧元（约 $726,000），一半归孙子 Jean-Claude de Forceville",
+   "start": 12926,
+   "end": 12957,
+   "quote": "267 documents, brittle with age"
+  },
+  {
+   "fact": "同一时间 La Petite Irène 于 Musée Maillol 的 Bührle 巡回展上重现巴黎——1946 年以来首次公开展出；无说明牌交代 Göring 转手与 ERR 劫掠；两孙女都是第一次见原作",
+   "start": 14774,
+   "end": 14822,
+   "quote": "publicly displayed for the first time since 1946"
+  },
+  {
+   "fact": "Marion 的拼贴《The Lips》以剪词列遗产清单（Child/Zest for Life/False Happiness...）；末行粗体 Le Temps：时间未赦免一切，但让 Christian、Catherine、Marion 以见证人身份寻求清算——\"They are no longer erased.\"",
+   "start": 16875,
+   "end": 16901,
+   "quote": "They are no longer erased."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "chapter": "20",
+ "method": "主会话人工素读（派工核校期已先全文读 text、后开 md；本轮补锚点 python 实算）",
+ "facts": [
+  {
+   "fact": "2024 年冬，霓虹蓝海报在 Heimplatz 上方为 Bührle 收藏展做广告，标语 \"A Future for the Past\"，底下涂鸦 Art. Conflict. Context. War.",
+   "start": 255,
+   "end": 276,
+   "quote": "A Future for the Past"
+  },
+  {
+   "fact": "画在新馆入口独立壁龛，旁桌摆家族照片；墙签四行——masterpiece/young girl/looted by the Nazis/family killed in camps；馆长称 perspective",
+   "start": 821,
+   "end": 864,
+   "quote": "A FAMILY KILLED IN NAZI CONCENTRATION CAMPS"
+  },
+  {
+   "fact": "2012 年 Bührle 基金会与苏黎世市签借展协议至 2034；动因是 2008 年持械抢劫（一幅后来在塞尔维亚假车顶板下被发现）",
+   "start": 1353,
+   "end": 1398,
+   "quote": "Foundation E. G. Bührle struck a deal in 2012"
+  },
+  {
+   "fact": "2024 独立委员会 167 页报告：205 件借展品 90 件需重查来源、62 件曾属犹太家庭；但 La Petite Irène 不在点名之列，官方口径 1949 售出、出口许可无着；2019 巴黎巡回墙签 \"Purchased in good faith\"",
+   "start": 2052,
+   "end": 2144,
+   "quote": "Of the 205 works on loan from the Bührle Collection, 90 required renewed provenance scrutiny"
+  },
+  {
+   "fact": "1949-07 瑞士联邦法院判词：Bührle 所购之画曾搭乘 Göring 私人专列，他\"对一切警告毫不顾惜\"；科学顾问委员会成员因疲倦（而非抗议）辞职，批评展览仍以 Bührle 为中心",
+   "start": 2879,
+   "end": 2980,
+   "quote": "In July 1949, judges noted that paintings acquired by Bührle had traveled in Göring’s private railcar"
+  },
+  {
+   "fact": "Raphaël Denis 的箱塔装置（呼应 1941 香堡被搬空的箱子）：\"The way we treated art is the same way persecuted people were treated—tattooed and sent off to Auschwitz.\"；投票屏 56% 选 \"Insufficient\"",
+   "start": 4121,
+   "end": 4164,
+   "quote": "the same way persecuted people were treated"
+  },
+  {
+   "fact": "隔壁厅 Kokoschka 1951 年为 Bührle 画的表现主义肖像：1951 圣诞前两人争执、被迫重画争议部分；画家信里写六小时作画后镜中脸\"像面具\"",
+   "start": 4788,
+   "end": 4863,
+   "quote": "Bührle and Kokoschka clashed over the portrait before the Christmas of 1951"
+  },
+  {
+   "fact": "章末：站在 Bührle 像前的人不多，Irène 前人流驻足；雷诺阿语 \"If we could explain a painting, it would no longer be art\" 被翻转——画成了证人；末句 \"And still, people stand before her.\"",
+   "start": 6381,
+   "end": 6416,
+   "quote": "And still, people stand before her."
+  }
+ ]
+}

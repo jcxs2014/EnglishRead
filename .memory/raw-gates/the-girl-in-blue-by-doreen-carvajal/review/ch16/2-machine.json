@@ -1,0 +1,311 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/ch16 chapter 15 venus fixers.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch16_chapter_15_venus_fixers.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The name stuck because there was something hopeful about it. Fixers. If only you could really fix the arms back on the V",
+          "ok": true,
+          "pos": 586
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Their mission was to trace the objects looted by the Nazis that had been packed into train cars and carted away in convo",
+          "ok": true,
+          "pos": 1295
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In one sealed wing, behind a door locked tight, they found the thing that mattered most—not the art, not the porcelain, ",
+          "ok": true,
+          "pos": 4783
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The catalog cards were alphabetized and filed with precision, twenty thousand in all. Eight thousand negatives. Slips of",
+          "ok": true,
+          "pos": 5076
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "And this was what Howe understood: the plan behind the theft, the architecture of plunder. The war was ending, but the f",
+          "ok": true,
+          "pos": 5416
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "On Howe’s last day at Neuschwanstein castle, he rumbled down the mountain to a blink of a village called Gipsmühle. It w",
+          "ok": true,
+          "pos": 6074
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "And then there she was. La Petite Irène. A kind of apparition, the shimmer of a blue ribbon, that impossible copper hair",
+          "ok": true,
+          "pos": 12623
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "In his version, nothing was stolen, only exchanged. The paintings moved, as commodities do, from one set of hands to ano",
+          "ok": true,
+          "pos": 15070
+        }
+      ],
+      "words": 39
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 78,
+        "句子结构": 53,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 153
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "句子结构": 0.29,
+        "关键词": 0.0,
+        "表达方式": 0.54,
+        "为什么这样写": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 73,
+        "句子结构": 52,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "句子结构": 0.25,
+        "关键词": 0.0,
+        "表达方式": 0.41,
+        "为什么这样写": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 69,
+        "句子结构": 50,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 160
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "句子结构": 0.33,
+        "关键词": 0.0,
+        "表达方式": 0.47,
+        "为什么这样写": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 49,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 137
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "句子结构": 0.41,
+        "关键词": 0.0,
+        "表达方式": 0.83,
+        "为什么这样写": 0.54
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "句子结构": 62,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 129
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "句子结构": 0.31,
+        "关键词": 0.0,
+        "表达方式": 0.47,
+        "为什么这样写": 0.57
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 71,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 182
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "句子结构": 0.4,
+        "关键词": 0.0,
+        "表达方式": 0.43,
+        "为什么这样写": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "句子结构": 50,
+        "关键词": 0,
+        "表达方式": 70,
+        "为什么这样写": 158
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "句子结构": 0.34,
+        "关键词": 0.0,
+        "表达方式": 0.53,
+        "为什么这样写": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "句子结构": 56,
+        "关键词": 0,
+        "表达方式": 62,
+        "为什么这样写": 181
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.34,
+        "关键词": 0.0,
+        "表达方式": 0.55,
+        "为什么这样写": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter 15: Venus Fixers",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2590,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 20 章中位 7、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

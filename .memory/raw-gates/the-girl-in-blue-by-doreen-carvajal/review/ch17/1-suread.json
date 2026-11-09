@@ -1,0 +1,466 @@
+{
+  "chapter": "ch17",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch17_chapter_16_swiss_secrets.txt",
+  "source_chars": 16231,
+  "facts": [
+    {
+      "fact": "F1 The Renoir portrait La Petite Irène surfaced in public again in France in June 1946 at l'Orangerie, the exhibition that returned Nazi-plundered masterpieces without telling how they got to Germany or what happened to their owners.",
+      "start": 75,
+      "end": 151,
+      "quote": "THE RENOIR PORTRAIT SURFACED in public in June 1946, after years of absence."
+    },
+    {
+      "fact": "F2 While Henraux was still working the Swiss leads, the painting surfaced without his knowledge in September 1945 at the Central Collecting Point in Munich, booked under a Rothschild's name.",
+      "start": 8603,
+      "end": 8768,
+      "quote": "Not in Zurich, not in Geneva, but in Munich in September 1945. La Petite Irène appeared at the Central Collecting Point under the mistaken ownership of a Rothschild."
+    },
+    {
+      "fact": "F3 Still in hiding at 75 rue de la Tour by November 1945, Irène sent Henraux the four photographs of the Renoir he had asked for, plus a letter asking him to bring the painting back and asserting she, too, had survived.",
+      "start": 5006,
+      "end": 5223,
+      "quote": "By November 1945, letters show Irène was still living in her hiding place, the small apartment on 75 rue de la Tour. Well before the exhibition, she then sent Henraux four requested photographs of the Renoir painting."
+    },
+    {
+      "fact": "F4 Suspecting a Swiss connection, Henraux set the CRA in motion and on 28 November 1945 wrote the French ambassador in Bern with a photograph of the portrait, stating it could only be found in Switzerland.",
+      "start": 5904,
+      "end": 6040,
+      "quote": "He sent a letter on November 28, 1945, to the French ambassador in Bern with a black-and-white photograph of the portrait and a message:"
+    },
+    {
+      "fact": "F5 In October 1946 Irène stopped waiting and telephoned Henraux to demand fresh news, telling him bluntly that her September calls had gone nowhere and asking where her painting was.",
+      "start": 12336,
+      "end": 12410,
+      "quote": "BY OCTOBER 1946, IRÈNE was on the phone to demand fresh news from Henraux."
+    },
+    {
+      "fact": "F6 By autumn the restitution came down to Henraux's letter to Irène's lawyer asking where the portrait should be delivered; the lawyer had already argued the painting was Irène's even though she had loaned it to Béatrice.",
+      "start": 14106,
+      "end": 14231,
+      "quote": "Her lawyer had already made the case—that the painting belonged to Irène, even if she had loaned it to her daughter Béatrice."
+    },
+    {
+      "fact": "F7 On 4 November 1946, the day after the Orangerie show closed, the French government returned the painting to Irène Cahen d'Anvers; she chose delivery to her daughter's apartment at 1 Place d'Iéna, near where Göring had admired it.",
+      "start": 15380,
+      "end": 15621,
+      "quote": "And so, on November 4, 1946—the day after the Orangerie’s four-month exhibition closed its doors—the French government returned the painting to Irène Cahen d’Anvers. She asked that it be delivered to her daughter’s apartment, 1 Place d’Iéna."
+    },
+    {
+      "fact": "F9 The parallel loss: Béatrice's childhood portrait by Boldini surfaced in Switzerland-backed trade and was sold at a Finarte auction in Milan in December 1976 by Swiss dealer Peter Zervudachi for about $133,000 in today's money, then vanished—though no record shows Béatrice ever sold it.",
+      "start": 9567,
+      "end": 9843,
+      "quote": "Then it was sold at a Finarte auction in Milan in December 1976. The artist: Giovanni Boldini, the Italian master of swishing brushstrokes. The seller: Peter Zervudachi, a Swiss art dealer who catered to Greek shipping tycoons and whose mother, Despina, had posed for Boldini."
+    }
+  ],
+  "relationships": [
+    {
+      "relationship": "R1 Albert Henraux: chairman of the Commission for the Recuperation of Art (CRA), the official who decided the fate of Irène's childhood portrait.",
+      "start": 3537,
+      "end": 3673,
+      "quote": "Now he ran the Commission for the Recuperation of Art (CRA), and he presided over the fate of Irène Cahen d’Anvers’s childhood portrait."
+    },
+    {
+      "relationship": "R2 Henraux and the Cahen d'Anvers family: prewar social ties (Friends of the Louvre, champagne, garden parties at their Champs-sur-Marne castle) made him the link between their past and present.",
+      "start": 2952,
+      "end": 3035,
+      "quote": "Henraux was the link between the past and the present of the Cahen d’Anvers family."
+    },
+    {
+      "relationship": "R3 Henraux worked with Rose Valland, the Louvre's former spy at the Jeu de Paume, who knew Rochlitz well from her handwritten notebooks.",
+      "start": 8244,
+      "end": 8357,
+      "quote": "Henreaux was also working with Rose Valland, the Louvre’s former spy in the Jeu de Paume, who knew Rochlitz well."
+    },
+    {
+      "relationship": "R4 Gustav Rochlitz, the German dealer who bartered with Göring for Irène's portrait, had Swiss ties and had shipped crates from his rue Vineuse apartment to Switzerland by July 1944.",
+      "start": 7837,
+      "end": 7957,
+      "quote": "He knew that Gustav Rochlitz—the German dealer who had bartered with Göring for Irène’s portrait—had ties in Switzerland"
+    },
+    {
+      "relationship": "R5 Göring used Switzerland as a back door and shared that privilege with Emil Bührle, the German-Swiss industrialist and Nazi arms dealer; Werner Feuz of Clarens was suggested as Bührle's intermediary buyer of the Renoir.",
+      "start": 7329,
+      "end": 7457,
+      "quote": "He had shared this privilege with other collectors, among them Emil Bührle, the German Swiss industrialist and Nazi arms dealer."
+    },
+    {
+      "relationship": "R6 Louise (Irène's mother) is said to have given the portrait to Béatrice, which the record finds hard to believe.",
+      "start": 14380,
+      "end": 14505,
+      "quote": "Some said that Irène’s mother, Louise, had given the portrait to Béatrice in 1910, but that version was difficult to believe."
+    },
+    {
+      "relationship": "R7 Béatrice was the daughter of Irène and of Moïse de Camondo, Irène's embittered former husband, and was still under his roof as a girl.",
+      "start": 14506,
+      "end": 14627,
+      "quote": "Béatrice was about fifteen then, still under the roof of her father, Moïse de Camondo, Irène’s embittered former husband."
+    },
+    {
+      "relationship": "R8 Léon Reinach, Irène's son-in-law, wrote in 1941 asking the French to intervene with the Germans for the painting's return, and had sent pictures to Chambord with La Petite Irène.",
+      "start": 14630,
+      "end": 14792,
+      "quote": "And then there was the letter that Léon Reinach, Irène’s son-in-law, wrote in 1941 asking French authorities to intervene with the Germans to return the painting."
+    },
+    {
+      "relationship": "R9 Irène outlived her daughter and grandchildren; the portrait became hers because she was the survivor.",
+      "start": 14983,
+      "end": 15116,
+      "quote": "Her daughter was dead. Her grandchildren gone, her family erased. The portrait had become hers because she was the one left standing."
+    },
+    {
+      "relationship": "R10 Lorraine Dubonnet, Irène's granddaughter, recorded Irène's move to Villa Araucaria in Cannes after the rue de la Tour years.",
+      "start": 12903,
+      "end": 12976,
+      "quote": "Her granddaughter, Lorraine Dubonnet, wrote about the effect of the move."
+    },
+    {
+      "relationship": "R11 Swiss art dealer Peter Zervudachi sold Béatrice's Boldini portrait in 1976; his mother Despina had posed for Boldini.",
+      "start": 9798,
+      "end": 9842,
+      "quote": "whose mother, Despina, had posed for Boldini"
+    },
+    {
+      "relationship": "R12 Camondo archivist Sophie Le Tarnec (over forty years with those documents) thinks the portrait may have been quietly looted; Louvre provenance investigator Emmanuelle Polack calls this laundering of memory by dealers.",
+      "start": 10991,
+      "end": 11173,
+      "quote": "Sophie Le Tarnec—the archivist who pored through the documents at the Camondo museum and organized them for more than forty years—believes the portrait may have been looted. Quietly."
+    },
+    {
+      "relationship": "R13 French writer/biographer Pierre Assouline raised Werner Feuz as Bührle's intermediary buyer, but no document proved it.",
+      "start": 7473,
+      "end": 7677,
+      "quote": "the French writer and biographer Pierre Assouline would suggest that Werner Feuz, an artist and broker from Clarens, acting as an intermediary for Bührle, had bought La Petite Irène during the Occupation."
+    },
+    {
+      "relationship": "R14 Baron Kurt von Behr was the looter on the ground: he stole the Versailles Treaty from a Jewish collector for Göring's 1942 birthday and emptied the rue Bassano mansion.",
+      "start": 1241,
+      "end": 1389,
+      "quote": "signed in 1919, gifted in 1942 as a birthday present to Hermann Göring by Baron Kurt von Behr. He had, of course, stolen it from a Jewish collector."
+    },
+    {
+      "relationship": "R15 Irène's own claim as a survivor addressed to Henraux as 'dear friend'.",
+      "start": 5355,
+      "end": 5499,
+      "quote": "“Dear friend,” she wrote, “I hope that you succeed in returning this charming memory of my youth and I thank you in advance for all you can do.”"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "chapter title",
+      "start": 0,
+      "end": 25,
+      "quote": "CHAPTER 16: Swiss Secrets"
+    },
+    {
+      "value": "June 1946 (section dateline)",
+      "start": 34,
+      "end": 60,
+      "quote": "CHAPTER 16\n\n\nSwiss Secrets"
+    },
+    {
+      "value": "surfacing date in body",
+      "start": 75,
+      "end": 151,
+      "quote": "THE RENOIR PORTRAIT SURFACED in public in June 1946, after years of absence."
+    },
+    {
+      "value": "distance from Jeu de Paume",
+      "start": 365,
+      "end": 404,
+      "quote": "a two-minute walk from the Jeu de Paume"
+    },
+    {
+      "value": "admission price",
+      "start": 733,
+      "end": 796,
+      "quote": "Twenty francs bought admission, but it didn’t buy explanations."
+    },
+    {
+      "value": "Versailles Treaty dates",
+      "start": 1241,
+      "end": 1335,
+      "quote": "signed in 1919, gifted in 1942 as a birthday present to Hermann Göring by Baron Kurt von Behr."
+    },
+    {
+      "value": "looting date",
+      "start": 1475,
+      "end": 1547,
+      "quote": "the looting in the summer of 1941, or the green deportation notice cards"
+    },
+    {
+      "value": "return to France",
+      "start": 1782,
+      "end": 1819,
+      "quote": "returned to France on March 27, 1946."
+    },
+    {
+      "value": "Henraux's age description",
+      "start": 3878,
+      "end": 3932,
+      "quote": "“a young man of 65 who comes out of a page of Proust.”"
+    },
+    {
+      "value": "Friends of the Louvre garden parties",
+      "start": 3143,
+      "end": 3242,
+      "quote": "staged the annual Friends of the Louvre garden party in the 1930s at their Champs-sur-Marne castle."
+    },
+    {
+      "value": "Camondo museum opening",
+      "start": 3243,
+      "end": 3320,
+      "quote": "In 1936, he attended the opening of the Camondo museum in Béatrice’s presence"
+    },
+    {
+      "value": "Renoir exhibition committee",
+      "start": 3326,
+      "end": 3429,
+      "quote": "he was part of the committee involved with the Renoir exhibition in 1938 that included La Petite Irène."
+    },
+    {
+      "value": "exodus of Jewish collections",
+      "start": 3430,
+      "end": 3534,
+      "quote": "In 1939, he helped organize the exodus of private Jewish collections with the Louvre’s own exiled works."
+    },
+    {
+      "value": "first wreck-search",
+      "start": 4224,
+      "end": 4330,
+      "quote": "As early as January 1945, he had started exploring the wreckage of the Cahen d’Anvers family’s belongings."
+    },
+    {
+      "value": "winter severity",
+      "start": 4494,
+      "end": 4540,
+      "quote": "It was one of the coldest winters in a decade."
+    },
+    {
+      "value": "Camus notebook line",
+      "start": 4583,
+      "end": 4628,
+      "quote": "“Paris frozen, dark, without coal, but free.”"
+    },
+    {
+      "value": "what was left at rue Bassano",
+      "start": 4912,
+      "end": 5003,
+      "quote": "Five frames. Easels. Pedestals for statues that no longer stood. Display cases. And stones."
+    },
+    {
+      "value": "hiding address, November 1945",
+      "start": 5006,
+      "end": 5122,
+      "quote": "By November 1945, letters show Irène was still living in her hiding place, the small apartment on 75 rue de la Tour."
+    },
+    {
+      "value": "photographs requested",
+      "start": 5151,
+      "end": 5223,
+      "quote": "she then sent Henraux four requested photographs of the Renoir painting."
+    },
+    {
+      "value": "ambassador letter date",
+      "start": 5904,
+      "end": 5975,
+      "quote": "He sent a letter on November 28, 1945, to the French ambassador in Bern"
+    },
+    {
+      "value": "Swiss good-faith limit",
+      "start": 6986,
+      "end": 7070,
+      "quote": "could secure legal title if the original owner did not recover it within five years."
+    },
+    {
+      "value": "Rochlitz residence in Switzerland",
+      "start": 7959,
+      "end": 8011,
+      "quote": "that he had lived there once, between 1931 and 1933."
+    },
+    {
+      "value": "Rochlitz shipments",
+      "start": 8012,
+      "end": 8184,
+      "quote": "And by July 1944, when Paris was beginning to unravel, Rochlitz was already packing, crating paintings and dispatching the shipments from his Paris apartment on rue Vineuse"
+    },
+    {
+      "value": "Munich / Central Collecting Point date",
+      "start": 8603,
+      "end": 8665,
+      "quote": "Not in Zurich, not in Geneva, but in Munich in September 1945."
+    },
+    {
+      "value": "final photo in Germany",
+      "start": 8771,
+      "end": 8846,
+      "quote": "Before it left Germany in March 1946, someone had taken a final photograph."
+    },
+    {
+      "value": "Boldini exhibition date",
+      "start": 9328,
+      "end": 9403,
+      "quote": "emerged in March 1963 at a Boldini exhibition at the Musée Jacquemart-André"
+    },
+    {
+      "value": "Finarte auction date",
+      "start": 9567,
+      "end": 9631,
+      "quote": "Then it was sold at a Finarte auction in Milan in December 1976."
+    },
+    {
+      "value": "portrait size",
+      "start": 9864,
+      "end": 9936,
+      "quote": "pastel and tempera, 117 by 90 centimeters, signed, dated, still familiar"
+    },
+    {
+      "value": "sale price",
+      "start": 9937,
+      "end": 9994,
+      "quote": "was sold for the equivalent of $133,000 in today’s money."
+    },
+    {
+      "value": "elapsed since disappearance",
+      "start": 10022,
+      "end": 10134,
+      "quote": "Forty-eight years and still counting, though, there is no record of Béatrice ever selling it in the first place."
+    },
+    {
+      "value": "Béatrice takes possession",
+      "start": 10165,
+      "end": 10352,
+      "quote": "In February 1936, records show that Béatrice took possession of the painting from her father’s mansion on rue de Monceau. Ten months later, the Musée Nissim de Camondo opened as a museum."
+    },
+    {
+      "value": "archivist tenure",
+      "start": 11080,
+      "end": 11120,
+      "quote": "organized them for more than forty years"
+    },
+    {
+      "value": "Swiss Dealers Association records",
+      "start": 11705,
+      "end": 11808,
+      "quote": "All the records before 1980 of the Swiss Dealers Association vanished and no one knows where they went."
+    },
+    {
+      "value": "customs seizure",
+      "start": 11904,
+      "end": 12018,
+      "quote": "In 1990, French customs seized the work just before it was to be auctioned at Sotheby’s New York for $2.5 million."
+    },
+    {
+      "value": "years out of public view",
+      "start": 12083,
+      "end": 12175,
+      "quote": "the painting had slipped out of public view for seventeen years and ended up in Switzerland."
+    },
+    {
+      "value": "Irène's September calls",
+      "start": 12482,
+      "end": 12534,
+      "quote": "I called you several times in September to no avail."
+    },
+    {
+      "value": "Irène's age",
+      "start": 12634,
+      "end": 12742,
+      "quote": "At seventy-four years of age, she had emerged from hiding and resumed life as if the war had never happened."
+    },
+    {
+      "value": "Cannes house",
+      "start": 12977,
+      "end": 13125,
+      "quote": "“Granny had bought a house in Cannes, Villa Araucaria, where she was living permanently after all the distressing years locked up in rue de la Tour."
+    },
+    {
+      "value": "villa built",
+      "start": 13237,
+      "end": 13336,
+      "quote": "built in 1925 by the son of a maharaja on what had once been the grounds of the Château de Thorenc."
+    },
+    {
+      "value": "villa renamed",
+      "start": 13468,
+      "end": 13563,
+      "quote": "After Irène bought the villa, she changed its name—it had been called La Carmencita before that"
+    },
+    {
+      "value": "tree lifespan",
+      "start": 13840,
+      "end": 13902,
+      "quote": "It possessed the ability to live for up to one thousand years."
+    },
+    {
+      "value": "tree name in French",
+      "start": 13685,
+      "end": 13763,
+      "quote": "This odd tree, in French, was known as désespoir des singes, monkey’s despair."
+    },
+    {
+      "value": "delivery question",
+      "start": 14003,
+      "end": 14105,
+      "quote": "sent from Albert Henraux to Irène’s lawyer, delicately worded: Where should the portrait be delivered?"
+    },
+    {
+      "value": "claimed gift year",
+      "start": 14380,
+      "end": 14505,
+      "quote": "Some said that Irène’s mother, Louise, had given the portrait to Béatrice in 1910, but that version was difficult to believe."
+    },
+    {
+      "value": "Béatrice's age then",
+      "start": 14506,
+      "end": 14537,
+      "quote": "Béatrice was about fifteen then"
+    },
+    {
+      "value": "Reinach letter year",
+      "start": 14699,
+      "end": 14792,
+      "quote": "wrote in 1941 asking French authorities to intervene with the Germans to return the painting."
+    },
+    {
+      "value": "facts shifted",
+      "start": 14863,
+      "end": 14898,
+      "quote": "But by 1946, the facts had shifted."
+    },
+    {
+      "value": "Henraux asks for paperwork",
+      "start": 15260,
+      "end": 15377,
+      "quote": "“If, as I suppose, it is indeed her to whom I must restore this, kindly send me all the paperwork for a restitution.”"
+    },
+    {
+      "value": "restitution date and address",
+      "start": 15380,
+      "end": 15621,
+      "quote": "And so, on November 4, 1946—the day after the Orangerie’s four-month exhibition closed its doors—the French government returned the painting to Irène Cahen d’Anvers. She asked that it be delivered to her daughter’s apartment, 1 Place d’Iéna."
+    },
+    {
+      "value": "how long she kept it",
+      "start": 15773,
+      "end": 15825,
+      "quote": "Irène kept the painting for almost three more years."
+    },
+    {
+      "value": "catalog quote",
+      "start": 1967,
+      "end": 2091,
+      "quote": "“Behold our masterpieces, returned to the Place de la Concorde—theater of the capital’s final battle and of its deliverance."
+    },
+    {
+      "value": "French writer's question",
+      "start": 2569,
+      "end": 2739,
+      "quote": "“Stop, it’s me who is on my knees! What this does to me—her blue dress, white sash and long chestnut hair! What interests me are two words: Who was Mlle. Cahen d’Anvers?”"
+    }
+  ],
+  "verification": {
+    "anchors_checked": 75,
+    "anchors_found": 75,
+    "method": "/usr/bin/python3 str.find on the raw file text; each [start,end) re-sliced and compared to quote"
+  }
+}
