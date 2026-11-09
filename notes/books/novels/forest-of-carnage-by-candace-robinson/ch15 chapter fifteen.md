@@ -61,7 +61,7 @@ modified: "2026-11-09"
 **中文理解**：选衣：她一件件翻过，手指停在那条棕色皮裙——裙摆缀灰毛、刻着荆棘藤纹，上身的胸衣同款同纹。
 **关键词**：thorned / bodice
 **为什么这样写**：裙子是隐喻装备：荆棘藤+灰毛边——她被要求穿上"荆棘"赴狼的仪式；那身衣服是驯化仪式的一部分：猎手被打扮成宾客。
-**读者视角提示**：对照她的scar照镜段（原文后文）：盛装与疤痕同框——她带着狼给的伤、穿着狼买的衣服赴狼的宴席；征服的仪式感全在这里。
+**读者视角提示**：对照她照镜看疤的那一段（原文后文）：盛装与疤痕同框——她带着狼给的伤、穿着狼买的衣服赴狼的宴席；征服的仪式感全在这里。
 
 > **原句 9:** "But all the paintings, she realized, were of him. Not a single one of Winter or the queen. “Were there ever any other paintings here?” Sterling asked as she settled on one of Valco, bare-chested, and relaxed in a bronze throne, a smirk on his face as if he was staring back at her. A cockiness exhumed him from that picture alone. “Of anyone besides King Valco?” Amalli shook her head. “Not since he ascended the throne.”"
 **中文理解**：城堡真相：满墙画像全是 Valco——没有一幅 Winter、没有一幅女王。他登基以来从未挂过别人。

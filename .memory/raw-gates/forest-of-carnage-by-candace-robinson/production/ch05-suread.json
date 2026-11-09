@@ -1,0 +1,67 @@
+{
+ "book": "forest-of-carnage-by-candace-robinson",
+ "chapter": "ch05",
+ "text": "notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch05_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "Cyan 擅自去绞刑场，Sterling 训斥",
+   "anchor": "I can’t believe you went to the hanging without my consent. Alone. And after I’d already told you no",
+   "start": 250,
+   "end": 350
+  },
+  {
+   "fact": "Cyan 早已知道她身份：折过纸 RRH 手办",
+   "anchor": "he’d made into Red Riding Hood. The cloak, the bow, the shape",
+   "start": 4541,
+   "end": 4602
+  },
+  {
+   "fact": "Cyan 进她房间的动机：想独自看母亲的遗物盒",
+   "anchor": "It was for Mama’s trinket box",
+   "start": 5001,
+   "end": 5030
+  },
+  {
+   "fact": "Sterling 揭示疤的真相：王子的狼所伤",
+   "anchor": "This didn’t come from a bear while I was hunting—it came from one of the prince’s wolves",
+   "start": 6824,
+   "end": 6912
+  },
+  {
+   "fact": "外婆死于母亲去世仅数日后、当着她的面被撕碎",
+   "anchor": "slaughtered her right in front of me only days after our mother died",
+   "start": 6950,
+   "end": 7018
+  },
+  {
+   "fact": "Cyan 讲战争史：人类先猎狼，狼才反击",
+   "anchor": "the humans tried to take over and hunt the wolves, so they had to fight back",
+   "start": 6521,
+   "end": 6597
+  },
+  {
+   "fact": "自慰被椅子声打断——Winter 潜伏家中",
+   "anchor": "A chair creaked from inside the sitting room",
+   "start": 11367,
+   "end": 11411
+  },
+  {
+   "fact": "Winter 揭穿：他早就认出她",
+   "anchor": "Did you think I didn’t recognize you?",
+   "start": 14725,
+   "end": 14762
+  },
+  {
+   "fact": "Winter 亮出她的红斗篷",
+   "anchor": "presenting her red cloak clutched in his fist",
+   "start": 15194,
+   "end": 15239
+  },
+  {
+   "fact": "结尾：十五秒逃亡游戏开始",
+   "anchor": "So I’ll give you a fifteen-second head start",
+   "start": 15464,
+   "end": 15508
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "book": "forest-of-carnage-by-candace-robinson",
+ "chapter": "ch03",
+ "text": "notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "脸上的疤是外婆家袭击留下的最显著特征",
+   "anchor": "The reminder of what happened during the attack at her grandmother’s house was her most identifying feature",
+   "start": 243,
+   "end": 350
+  },
+  {
+   "fact": "森林杀狼：首箭精准贯穿变形狼颈部，共三箭毙命",
+   "anchor": "It whirred with the wind, then struck perfectly through the shifter’s neck",
+   "start": 1185,
+   "end": 1259
+  },
+  {
+   "fact": "被杀之狼崇拜 Winter 如神",
+   "anchor": "Winter was his god and that alone made him dangerous",
+   "start": 835,
+   "end": 887
+  },
+  {
+   "fact": "Bloodstorm 称她 Red Riding Hood，王子重金悬赏活捉",
+   "anchor": "The Bloodstorm Court called her Red Riding Hood, and for the hefty reward the prince was offering",
+   "start": 2838,
+   "end": 2935
+  },
+  {
+   "fact": "失去母亲外婆后的八年，她每天练弓",
+   "anchor": "Over the past eight years since losing her mother and grandmother, she’d spent each day perfecting her skills with her bow",
+   "start": 2201,
+   "end": 2323
+  },
+  {
+   "fact": "帮工 Marla 因 Cyan 问题太多而辞职",
+   "anchor": "She said she doesn’t get paid enough to work and watch over me, so she left",
+   "start": 5390,
+   "end": 5465
+  },
+  {
+   "fact": "八年前 Nareth 偷运羊奶救 Cyan、教她用弓",
+   "anchor": "he’d helped sneak goat’s milk to Cyan while teaching her how to properly use her bow",
+   "start": 8473,
+   "end": 8557
+  },
+  {
+   "fact": "Winter 摄政已近三周，国王健康恢复中",
+   "anchor": "Winter has been the acting king for nearly three weeks while his father’s health improves",
+   "start": 10094,
+   "end": 10183
+  },
+  {
+   "fact": "Sterling 推测 Winter 正慢慢毒杀父亲夺位",
+   "anchor": "Winter was slowly poisoning his own father to gain the crown instead of outright slaughtering him",
+   "start": 10297,
+   "end": 10394
+  }
+ ]
+}

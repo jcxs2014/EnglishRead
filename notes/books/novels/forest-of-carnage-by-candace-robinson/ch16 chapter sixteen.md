@@ -30,7 +30,7 @@ modified: "2026-11-09"
 > **原句 3:** "“Prince Winter will mate the victor of his games. He and Red Riding Hood will unite the court.” The king’s words sounded joyous, but the guests quieted. They still clapped and nodded, keeping Valco happy, though Winter noticed their lips parting in surprise and the strained glances they gave one another."
 **中文理解**：当众宣布：Winter 王子将与游戏的胜者结 mate——他和 Red Riding Hood 将统一宫廷。话音欢庆，宾客却静了半拍：掌声仍在、点头仍在，唇却张开成惊讶，眼神互相拉扯。
 **关键词**：joyous / strained
-**为什么这样写**：群像反应两笔速写：手在鼓掌、脸在惊愕——顺从与怀疑同体，宫廷的忠诚质量一目了然；国王的欢庆腔与宾客的strained glances 对位，宣告这场婚姻的社会基础是空的。
+**为什么这样写**：群像反应两笔速写：手在鼓掌、脸在惊愕——顺从与怀疑同体，宫廷的忠诚质量一目了然；国王的欢庆腔与宾客勉强的互瞥对位，宣告这场婚姻的社会基础是空的。
 **读者视角提示**：注意宣示的措辞顺序：mate 的对象是“游戏的胜者”而非名字——国王在语言里就把她保持为猎物身份；“Red Riding Hood”的公开化则把她的通缉犯身份一笔勾销。
 
 > **原句 4:** "He smirked. “Well, now you get to be a princess instead.” “By marrying you...” “Mating, not marrying. I’m not human.” He closed the distance between them and lifted her chin between his fingers."
@@ -54,7 +54,7 @@ modified: "2026-11-09"
 > **原句 7:** "You could’ve left his room and come to me. You didn’t need to prove yourself worthy to anyone but your mate,” he said, pinning her with a stare. “Fate thought you would make a good queen of Bloodstorm one day, but even destiny makes mistakes."
 **中文理解**：Winter 把她的辩解拆掉：你可以离开他的房间来找我。你只需向你的 mate 证明自己——命运本觉得你能当好 Bloodstorm 的王后，可命运也会出错。
 **关键词**：worthy / destiny
-**为什么这样写**：他的道德律令只有一条：mate 的排他性——不是贞洁观是忠诚观；“destiny makes mistakes”一句同时完成两件事：否定 Talia 的queen资格、否定命运安排本身。
+**为什么这样写**：他的道德律令只有一条：mate 的排他性——不是贞洁观是忠诚观；“destiny makes mistakes”一句同时完成两件事：否定 Talia 当王后的资格、否定命运安排本身。
 **读者视角提示**：对照他自己的处境（被命运塞了一个 mate 又被父亲毁掉）：他懂 mate 制度的神圣性正是他恨父亲的原因——本章他把这份神圣感原样搬来审判 Talia。
 
 > **原句 8:** "“I’d rather mate a human than you.” His lips curled up at the edges as he angled his head to the side “Move on, Talia. There are plenty of widowers and rejects that you could settle for, but I’m never taking you back.”"
