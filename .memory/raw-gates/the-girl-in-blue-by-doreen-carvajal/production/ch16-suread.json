@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch16",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch16_chapter_15_venus_fixers.txt",
+ "facts": [
+  {
+   "fact": "绰号 Venus Fixers 出现在 1945 年夏天，无人记得是谁首创；这个代号让 Lieutenant Thomas Carr Howe Jr. 难堪（A tag that embarrassed him），名字之所以留下是因为它带着希望：这支部队 1944 年 11 月创建，正式名称是 Monuments, Fine Arts, and Archives (MFAA) section，来自 13 国的 345 名军官",
+   "anchor": "NO ONE REMEMBERED EXACTLY who coined the whimsical nickname",
+   "start": 73,
+   "end": 132
+  },
+  {
+   "fact": "MFAA 的任务是追踪被纳粹装上火车运走的藏品（Gold、Gobelin tapestries、Boulle cabinets），清单末端落到 Renoir 画的 La Petite Irène；Howe 从贝希特斯加登办公，一位同事为救祭坛画被机枪打死",
+   "anchor": "Their mission was to trace the objects looted by the Nazis that had been packed into train cars and carted away in convoys that moved faster than retreating armies",
+   "start": 1319,
+   "end": 1482
+  },
+  {
+   "fact": "新天鹅堡（两百个房间、紧邻 Füssen 火车站、充当帝国赃物集散站）密封侧楼锁门之后找到的最重要的东西不是画而是文件：Einsatzstab Reichsleiter Rosenberg 的档案——正是劫掠 La Petite Irène 的那个官僚单位；编目卡按字母精确归档共两万张、底片八千张，另有写着\"noch nicht fotografiert\"的纸条",
+   "anchor": "In one sealed wing, behind a door locked tight, they found the thing that mattered most",
+   "start": 4838,
+   "end": 4925
+  },
+  {
+   "fact": "Howe 在新天鹅堡的最后一天下山到山脚小村 Gipsmühle：56 岁的奥地利裔艺术商 Gustav Rochlitz（Göring 最喜欢的中间人、von Behr 信任的掮客）住在其中一间农舍；他 1944 年 8 月 20 日逃离巴黎，比 de Gaulle 在 Hôtel de Ville 的演说早五天",
+   "anchor": "On Howe’s last day at Neuschwanstein castle, he rumbled down the mountain to a blink of a village called Gipsmühle",
+   "start": 6140,
+   "end": 6254
+  },
+  {
+   "fact": "Rochlitz 1945 年 7 月 11 日被捕后一口咬定自己一贯反纳粹、参加过抵抗；调查者追踪其银行账户：1940 年 8 万法郎，四年后 568.5 万法郎（按今日币值超过 203 万美元）；军事报告称他从未否认从 ERR 收到的 82 幅画出自法国犹太收藏",
+   "anchor": "From the day of his arrest—July 11, 1945—Rochlitz held his line",
+   "start": 8765,
+   "end": 8828
+  },
+  {
+   "fact": "1945 年 8 月某晨 Howe 与同事驾吉普到农舍，把 Rochlitz 带上二楼起居室；其妻拿着一只长筒出来，筒外裹着 22 幅现代派画（Monet、Gaugin、Matisse、Degas、Toulouse-Lautrec、Picasso），其中出现 La Petite Irène——\"The portrait was no longer art. It was evidence.\"",
+   "anchor": "Wrapped around the tube were twenty-two modern paintings",
+   "start": 11844,
+   "end": 11900
+  },
+  {
+   "fact": "1945 年 9 月 4 日雷诺阿押往慕尼黑时，其余的故事仍在阁楼里：Rochlitz 涉嫌把 200 箱劫掠艺术品走私到瑞士、从未追回；他 1945 至 1948 年被关在法国 Fresnes 三年，1972 年去世",
+   "anchor": "as they drove away with the Renoir bound for Munich on September 4, 1945",
+   "start": 13523,
+   "end": 13595
+  },
+  {
+   "fact": "章末：Rochlitz 战后给 Rose Valland（Louvre 的前间谍、后来的 Venus fixer）打字写信，声称自己把现代派画从被纳粹焚烧的命运中救下（\"I believe, thanks to me, I saved the moderns\"），并说受害者尽可以买回自己的画——在他的版本里，没有偷，只有交换",
+   "anchor": "In his version, nothing was stolen, only exchanged",
+   "start": 15251,
+   "end": 15301
+  }
+ ]
+}
