@@ -30,7 +30,7 @@ modified: "2026-11-09"
 **中文理解**：Micah 断定瓶中是冰盖菇的孢子，并小心封回。
 **关键词**：spores / resealing the vial
 **为什么这样写**：把国王购买孢子的闲谈证据升级为实物证据，同时显出兽医保存证物的谨慎。
-**读者视角提示**：孢子与山上毒蘑菇同源，但毒理说明出自上一章 Amanita。
+**读者视角提示**：孢子与山上毒蘑菇同源，但毒理说明出自 ch12 的农场主 Amanita。
 
 > **原句 4:** "This is a plan for building a resort on top of the mountain."
 **中文理解**：卷轴展开后是完整的山顶度假村修建图纸。
