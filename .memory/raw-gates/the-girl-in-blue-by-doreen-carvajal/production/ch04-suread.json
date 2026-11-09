@@ -1,0 +1,49 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch04_chapter_3_debut.txt",
+ "facts": [
+  {
+   "fact": "1888–1891年Irène的debut：Vianelli兄弟从威尼斯被召来拍照，把年轻女性拍成高级金融公主；这是\"女儿、嫁妆、包办婚姻、待嫁妻子\"货币的转化起点。",
+   "anchor": "The Vianelli brothers were summoned from Venice, professional photographers to European monarchs and the elite.",
+   "start": 159,
+   "end": 270
+  },
+  {
+   "fact": "Proust精确描述：\"在社会里，婚姻更多是社会操作而非感情事务\"；Louise 1888年4月在沙龙排演独幕剧《待嫁小姐》。",
+   "anchor": "Proust would describe the system with the precision of someone who had watched too closely for too long",
+   "start": 2842,
+   "end": 2945
+  },
+  {
+   "fact": "法国年轻女性被期待在进入社交界那年结婚；debut不是介绍而是截止日期；第三季无人问津就被认为有问题。",
+   "anchor": "In France, a young woman was expected to marry in the year she entered society. The debut was not an introduction so much as a deadline.",
+   "start": 24637,
+   "end": 24773
+  },
+  {
+   "fact": "1890年12月Bois de Boulogne溜冰场上编排的\"偶遇\"后八个月，Irène与Moïse正式订婚；她18岁，他30岁；没人说\"爱\"这个字。",
+   "anchor": "EIGHT MONTHS AFTER CHOREOGRAPHED casual encounters on the frozen lake between Irène and Moïse, they were officially engaged.",
+   "start": 21416,
+   "end": 21540
+  },
+  {
+   "fact": "L'Illustration 1889年12月文章：上流社会婚姻不是 mutual affection 的结果，而是\"使一些人致富、另一些人贵族化、巩固地位、创造亲属关系和团结\"的制度。",
+   "anchor": "Marriages in high society are not, for the most part, the simple result of mutual affection or personal compatibility.",
+   "start": 21885,
+   "end": 22003
+  },
+  {
+   "fact": "巴黎私人高级银行网络由胡格诺新教徒和犹太家族组成，两者都是天主教法国的outsider，形成\"双重精英\"；信任靠血统、家族纽带和婚姻。",
+   "anchor": "What mattered was trust among those two groups, who were both outsiders in Catholic France and formed a kind of dual elite.",
+   "start": 18124,
+   "end": 18247
+  },
+  {
+   "fact": "章末：没人在乎Irène仍是女孩多于妻子；没人愿看到的是她对抗传统的私人战斗已经开始。",
+   "anchor": "No one cared that Irène, who had thrown peonies and flirted with precision in the cotillion dances, was still more girl than wife.",
+   "start": 27025,
+   "end": 27155
+  }
+ ]
+}
