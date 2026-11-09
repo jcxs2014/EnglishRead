@@ -1,0 +1,49 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch11",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch11_chapter_10_industrial_looting.txt",
+ "facts": [
+  {
+   "fact": "1942年Vichy\"雅利安化\"体系：Tascher（45岁，凡尔登老兵）被派为\"临时管理员\"没收Léon/Béatrice财产；~50,000项雅利安化；\"驱逐在法律之外运作；掠夺坚持要法律；偷窃需要文书\"。",
+   "anchor": "What emerges from their Aryanization files is the central paradox of the system—the dissonance between legal meticulousness and moral collapse. Deportation operated outside the law; spoliation insisted on it. Theft required paperwork.",
+   "start": 2089,
+   "end": 2323
+  },
+  {
+   "fact": "Irène童年故居2 rue Bassano变成\"camp Bassano\"——劫掠品仓库/分配中心；60名犹太囚犯关在无窗阁楼；Möbel-Aktion（家具行动）：>72,000户被清空、>26,000节货车运往德国；von Behr管理三个营地。",
+   "anchor": "The Cahen d’Anvers mansion became le camp Bassano, a storage warehouse for loot and then a distribution center staffed by prisoners.",
+   "start": 10722,
+   "end": 10854
+  },
+  {
+   "fact": "Colette（Irène侄女，32岁）因抵抗活动被关在Lévitan营地；破坏玻璃器皿（ systematically break）；最安静的报复：在叠好的亚麻布里塞入带蛾幼虫的手帕——\"以最小形式复仇\"。",
+   "anchor": "Colette’s proudest act, though, was quieter still. She bred tiny saboteurs—moths. While folding linens into neat squares, she would tuck in handkerchiefs laced with larvae.",
+   "start": 21727,
+   "end": 21899
+  },
+  {
+   "fact": "1942年3月10日von Behr在54 rue d'Iéna（距rue Bassano两分钟）为Göring安排私人观赏La Petite Irène；盆栽棕榈、东方地毯、茶和香槟；Irène在附近藏身却不知肖像已\"不可逆地进入另一种命运\"。",
+   "anchor": "And Irène, in hiding, not far from all this, was unaware that in such rooms, her own fragile likeness, of a girl painted in blue, had already passed irrevocably into another fate.",
+   "start": 23830,
+   "end": 24009
+  },
+  {
+   "fact": "Göring纽伦堡审判中对精神病医生Goldensohn辩称\"他们试图把我描绘成艺术珍宝的劫掠者\"；\"战争期间每个人都抢一点\"；调查员报告\"从未确立任何付款方式\"；他从未付钱给ERR或任何人。",
+   "anchor": "They tried to paint a picture of me as a looter of art treasures,” Göring protested later to Goldensohn during the Nuremberg trials in 1946.",
+   "start": 24679,
+   "end": 24819
+  },
+  {
+   "fact": "Göring不要La Petite Irène挂在自己庄园（已有两幅Grimpel姐妹Renoir）；把它当货币与Rochlitz交换：Irène肖像+2幅Matisse+1幅Modigliani换一幅16世纪佛罗伦萨圆形画（Pacchia的Holy Family）；估值100,000法郎（~$38,000）\"与艺术价值几乎无关\"。",
+   "anchor": "Rochlitz traded them for something Göring wanted more—a sixteenth-century Florentine tondo of the Holy Family by Girolamo del Pacchia. It was round and heavy, painted on wood, a circular vision of harmony and eternity with no beginning or end.",
+   "start": 28070,
+   "end": 28313
+  },
+  {
+   "fact": "Rose Valland记录了所有秘密移动；战后获得Göring的收藏目录（1,375幅画）；目录里1942年3月的交易标为\"exchange\"（交换）；von Behr用合同把偷窃变成正式手续——\"纸面上，什么都没被偷\"。",
+   "anchor": "Von Behr’s signature turned the theft into a formality, erasure by bureaucracy. The figures were entered in a ledger. The crates prepared. On paper, nothing had been stolen.",
+   "start": 29308,
+   "end": 29481
+  }
+ ]
+}
