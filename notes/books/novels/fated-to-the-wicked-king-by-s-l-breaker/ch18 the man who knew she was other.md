@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：起点是被人抢答后的失语（How could this man have possibly known that?），随即被生理性的恐惧取代（the blade scratching the skin of my neck），中段在众人面前失去实体（Nobody else was losing their hold on existence），再一路坠进自责（Did this have something to do with me?）；终点压到最低——雪崩追上了他们，人逃不掉，只能跟山赛跑。
 - **Tropes 兑现/反转**：兑现「异类被围猎」的母题：OTHERNESS 在她身上是身体状态（phasing in and out of existence），在村民嘴里是罪名（this is all her doing）；反转落在追兵身上——国王一句 They are like ghosts 把全村暴动翻成一群心被 Red Queen 偷走的游魂，追上来的不是主谋，是残骸。
 - **人物弧线**：她从「被劫的人」变成「被指认的人」：脸上带着刀口，身体在众人眼前消失，还被当众算成这一切的因；但没断的是好奇心（Despite the alarm turning my stomach, my curiosity burned），她追问 general 这个陌生权威（Who the hell was this general?），把猜疑一路推成自责（What had I done?）。
+- **补充（粉末的回报）**：混乱中她摸出大衣内袋的小玻璃瓶，两只对敲、把冒火花的粉末掷出去（“Powder hissed and sparked in my palm.” / “I threw it.”）——她随身带的实验用药粉，第一次被她自己当武器用。同一段逃亡里，一支箭射穿国王的上臂，他拔出箭杆仍未松开她的手。
 - **叙事手法**：第一人称；开篇用三段独立成段的短句制造心悸，随后是持续加速的混战——动词密集、段落短促；中途插进一段说明（Souls whose hearts had been stolen by the Red Queen）把速度压下来，让读者认出追兵的来路，随即又被雪崩的轰鸣推回高速，章末用 We leapt the last drop off the trail just as the mountain overtook us. 收束。
 
 ## 精读

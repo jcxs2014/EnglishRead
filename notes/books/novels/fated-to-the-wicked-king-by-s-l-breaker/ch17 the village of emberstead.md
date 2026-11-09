@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：起点是压着火气的同行（infuriating），中段被拆成两人一组，冲突从两个人之间挪到了队伍本身；真正的转折发生在末尾那句 Who exactly do you answer to now? 之后——Gregory 没等到答案，答案却指着她：Just leave the girl with us. She’s not of Lucerne. She’s not even from this world at all；问题的落点从「他们听谁的」换成了「她是谁」。
 - **Tropes 兑现/反转**：兑现「分头行动」的母题——Sophie 用一句 Perhaps we would be more efficient if we split up 把四人拆成两拨，国王与王子的对峙被隔进两条路；反转在来意与遭遇的错位：一行人进村是来找怪物传闻的（Gregory 却认定 the only monster here was walking among us），最后被要求留下的，是那个 She’s not even from this world at all 的女孩。
 - **人物弧线**：她从替国王找台阶（Pursing my lips, I couldn’t help but rationalize / Before he was crowned king, he had lived his life as an assassin—predominantly alone），滑到被当成可以留下的「女孩」（Just leave the girl with us）；这一章她没能主导局面——她只拦下了那场争吵（Gregory exhaled slowly, tension still evident, but he did not argue），护不住自己。
+- **补充（这不是临时起意）**：仓库里的 trapdoors 与 false walls 一起打开、涌出比屋里能装下更多的人——伏击是预先布置的；Sophie 说过怪事已持续 “Six to eight, maybe more.”（月），这条时间线正对着别处的「八个月」。
 - **叙事手法**：全章是一条不断收窄的结构：进村的路窄得马只能留在山脚，村子几乎被冬天吞掉，小路一分为二、队伍拆成两两一组，最后她被拖进一间铺着干草的仓库、门在身后滑开；她的感官也在同步收窄——先是不肯回头（I tried to keep my gaze ahead），等 a knife flashed cold against my throat，注意力被压到喉咙那一点冷上。
 
 ## 精读

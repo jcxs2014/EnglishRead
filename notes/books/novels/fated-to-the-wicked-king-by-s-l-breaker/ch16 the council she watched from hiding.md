@@ -9,6 +9,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：起点是旁观者的克制（不想 press my luck），中段被追问逼到只能把话说死（I am not interested in Prince Gregory），终点却是身体先于意志交出答案——标题里的 STILL MINE 指的是他那句 You are mine，而她自己的拒绝被写成了 Neither am I looking for any potential alliance with anyone at the moment。
 - **Tropes 兑现/反转**：兑现「情敌同处一室」的母题——她本是来评估威胁的，却先被卷进国王与王子之间的角力；反转在谁在看谁——她自认站在暗处，可 caging me with his body 与 he caught my hands 两处一连，读者才发现被看的人其实一直是她。
 - **人物弧线**：她在会议里是唯一读得出恶意的人（I was the only one who would be able to tell），出了会议却被一句句逼退；等她终于顶回去，给出的仍是一句判断而不是心动（That’s irrelevant）。
+- **补充（互刺那一轮）**：他讥她偷窥 Gregory，她反手把话顶回去——“perhaps you should take Princess Sophie to bed”；他回 “The scandal of a royal marriage is always the best bait, but you obviously don’t know anything.”：两人拿婚姻当武器互掷，谁也不肯先认输。
 - **叙事手法**：全章一口气走完，不切场景；先把王子写成一段听不见内容的节奏，再让国王入画把观察变成对话；楼梯一段用越来越窄的空间替代心理描写（narrow, winding staircase、windowsill、too narrow for anyone to go around us），最后用一句公事把情欲高峰轻轻按下去。
 
 ## 精读

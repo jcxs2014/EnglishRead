@@ -1,0 +1,268 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/ch17 the village of emberstead.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch17_seventeen_discrepancies.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The road into the village of Emberstead, in the remote outskirts of Lucerne, was too narrow. We had to leave our horses ",
+          "ok": true,
+          "pos": 24
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "My breath ghosted white into the bitter air, and I tucked my fur cloak closer over my lab coat. I’d made sure to change ",
+          "ok": true,
+          "pos": 497
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I didn’t know what was infuriating me more. The fact that I had let him touch me again and liked it, or the fact that he",
+          "ok": true,
+          "pos": 910
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Sophie’s gaze tracked from Gregory’s to the king’s and back. Her soft voice cut through the tension. “Perhaps we would b",
+          "ok": true,
+          "pos": 5228
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Your Highness,” the villager greeted, low and hoarse. He smelled of sweat, damp wool, and malice. His grip cinched tigh",
+          "ok": true,
+          "pos": 9378
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The machine released a hiss of steam and settled into a constant hum. The metal gears inside clicked once, then again. I",
+          "ok": true,
+          "pos": 11268
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Well, that there’s a secret,” the man replied, tugging me back again as if to elicit another yelp. “Just leave the girl",
+          "ok": true,
+          "pos": 11463
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Seventeen: DISCREPANCIES",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      5,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2064,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
