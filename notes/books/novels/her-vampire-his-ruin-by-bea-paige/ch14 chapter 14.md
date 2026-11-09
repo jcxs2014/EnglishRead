@@ -83,7 +83,7 @@ modified: "2026-11-09"
 
 **中文理解**：她在黑暗里移步，身体烧得像一团火焰——他只求她烧得足够烈，烈成那个他已经几百年没见过的太阳。
 
-**关键词**：the sun / a vampire attempting to glamour me
+**关键词**：her body blazing like a flame / the sun
 
 **为什么这样写**：把她的体温写成光源，是吸血鬼的诗学：阳光是他失去的、她是此刻替代的——欲望与乡愁共用一个意象。作者在此暗示他的空洞有多大：他想要的不是她的身体，是她替他还回来的白昼。
 
@@ -116,7 +116,7 @@ modified: "2026-11-09"
 
 **中文理解**：她说完那句「不许进我的心」，一股陌生的暖流正漫过他的胸腔——他不认识它，也不明白为什么皮肤发紧、刺痛在皮下迸裂。那他妈是什么？
 
-**关键词**：a strange feeling of warmth / my skin feels so tight / What the fuck is that?
+**关键词**：this strange feeling of warmth / my skin feels so tight / What the fuck is that?
 
 **为什么这样写**：咒语的躯体信号第一次亮灯：暖流、紧绷、刺痛——三项体征全部对应序章条款「若他坠入爱河，心碎而死」。作者让他用「What the fuck is that」完成最懵懂的确诊请求：猎手第一次被自己的身体背刺。
 
