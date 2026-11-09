@@ -94,17 +94,27 @@ modified: "2026-11-09"
 
 **读者视角提示**：把这段与前一章「the weapon」并读：同一间屋子、同一个人，先被称出重量，再被认出人形。读者手里的天平从此有了两个砝码，全书感情线的核心张力就此定型。
 
-> **原句 9:** "“I’ll need the arrow back, ma’am,” I said. Commander Lee’s fingers tightened on the shaft. “This arrow should be catalogued as property of the Zodiac Covenant. An artifact of this significance belongs in the armory under proper security protocols.” “It’s mine!” I nearly snarled. Every officer’s head snapped toward me. I might be an asset after this briefing, but I was still the lowest-ranked cadet. “Give it back to Max,” Caspian growled. Gold bled into his green eyes, just for a second, but enough to remind the room the easygoing wolf prince had a predator’s temper when it came to what he’d claimed."
+> **原句 9:** "“I’ll need the arrow back, ma’am,” I said. Commander Lee’s fingers tightened on the shaft. “This arrow should be catalogued as property of the Zodiac Covenant. An artifact of this significance belongs in the armory under proper security protocols.”"
 
-**中文理解**：Max 客气讨箭，Lee 十指扣紧箭杆，搬出制度：此箭应编为 Zodiac Covenant 财产，这种等级的神器该入库、按安保规程保管。Max 压着嗓子近乎咆哮：它是我的！满屋军官齐刷刷回头——刚升值的她仍是最低阶学员。Caspian 低吼「把箭还给 Max」，金光在绿眸里一闪，提醒满室：随和的狼亲王碰上「他认领的东西」，有掠食者的脾气。
+**中文理解**：Max 客气讨箭，Lee 十指扣紧箭杆、搬出制度：此箭应编为 Zodiac Covenant 的财产，这种等级的神器该入军械库、按安保规程保管。
 
 **关键词**：catalogued / armory / protocols
 
-**为什么这样写**：一段三方言：制度的（Lee）、本能的（It's mine!）、领地的（Caspian）——同一支箭照出三种所有权的碰撞；gold bled into his green eyes 用体色变化当警报器，把「温顺狼」的底牌亮了一角，制度压力最终让位于兽族的领地法。
+**为什么这样写**：制度的语言被完整搬上台面——「编目」「入库」「规程」三个词一个比一个 impersonal，仿佛箭已经不是箭而是库存单上的一行；Lee 的十指先于她的嘴收紧，说明她也知道这套话术靠不住，得用手护住。
 
-**读者视角提示**：Lee 不是反派：她按规程行事，动机无可指摘——这恰恰是 Max 此后要长期周旋的敌人类型（好心的制度）。而「箭上有她没说的符文」这条暗线在本段悄然续期。
+**读者视角提示**：Lee 不是反派：她按规程行事，动机无可指摘——这恰恰是 Max 此后要长期周旋的敌人类型：好心的制度。而「箭上有她没说的符文」这条暗线在此悄然续期。
 
-> **原句 10:** "One pink-frosted donut remained in the corner of the second box. I wanted it with an embarrassing longing, given I’d just been the centerpiece of a classified briefing. But Drakken’s gaze kept finding me. If I reached for that donut, the consequences unfolded with perfect clarity: he would wait until my fingers touched the frosting, then— “Cadet Private Max, do you believe your rank entitles you to a second serving before senior officers have had their fill?”"
+> **原句 10:** "“It’s mine!” I nearly snarled. Every officer’s head snapped toward me. I might be an asset after this briefing, but I was still the lowest-ranked cadet. “Give it back to Max,” Caspian growled. Gold bled into his green eyes, just for a second, but enough to remind the room the easygoing wolf prince had a predator’s temper when it came to what he’d claimed."
+
+**中文理解**：「它是我的！」她几乎低吼出声；满屋军官齐刷刷回头——刚升值为「资产」的她，仍是最低阶的学员。Caspian 低吼「把箭还给 Max」，金光在绿眸里一闪，足够提醒全室：随和的狼亲王碰上「他认领的东西」，有掠食者的脾气。
+
+**关键词**：snarled / asset / claimed
+
+**为什么这样写**：三句三层：她的本能（它是我的）、制度的反压（最低阶学员）、领地的接管（Caspian 出声）——同一支箭照出三种所有权；gold bled into his green eyes 用体色变化当警报器，把「温顺狼」的底牌亮出一角，制度压力最终让位于兽族的领地法。
+
+**读者视角提示**：她喊出「我的」那一刻，是她第一次在军校的层级里用所有格说话：这比任何一次顶撞都更像一个士兵在要求权利。读者可把它记成她身份转变的实质一步。
+
+> **原句 11:** "One pink-frosted donut remained in the corner of the second box. I wanted it with an embarrassing longing, given I’d just been the centerpiece of a classified briefing. But Drakken’s gaze kept finding me. If I reached for that donut, the consequences unfolded with perfect clarity: he would wait until my fingers touched the frosting, then— “Cadet Private Max, do you believe your rank entitles you to a second serving before senior officers have had their fill?”"
 
 **中文理解**：第二盒角落里剩最后一个粉霜甜甜圈，Max 渴望得难为情——她可是刚当了机密简报的主角；但 Drakken 的目光一直找上门：若她伸手，后果清晰可演——他会等她指尖碰到糖霜，再当众问：二等兵 Max，你觉得你的军衔配在长官们用完之前再来一份吗？
 
