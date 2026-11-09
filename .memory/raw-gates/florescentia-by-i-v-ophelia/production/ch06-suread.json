@@ -1,0 +1,61 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch06",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch06_chapter_six_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她和母亲聊到天黑才走，母亲那条街换了新的生物灯。",
+   "anchor": "Her street had new biolamps",
+   "start": 135,
+   "end": 162
+  },
+  {
+   "fact": "夜里有酸雨，街上一个行人也没有。",
+   "anchor": "The cobblestones were washed in acid rain",
+   "start": 363,
+   "end": 404
+  },
+  {
+   "fact": "她发现异象对她生出新的好奇，被注视的感觉令她不安。",
+   "anchor": "a newfound curiosity garnering their attention",
+   "start": 683,
+   "end": 729
+  },
+  {
+   "fact": "她因为看见街上空无一人而过街，随即马车连环相撞。",
+   "anchor": "I didn’t see anything; that’s why I crossed",
+   "start": 1820,
+   "end": 1863
+  },
+  {
+   "fact": "事后街道挤满人，她意识到刚才的空街根本不可能存在。",
+   "anchor": "The streets had been empty",
+   "start": 3058,
+   "end": 3084
+  },
+  {
+   "fact": "她翻开无题魔法书，书页全是空白。",
+   "anchor": "Blank. Blank. Blank.",
+   "start": 6232,
+   "end": 6252
+  },
+  {
+   "fact": "书封上裂开一只玻璃般的眼睛，对她眨了一下。",
+   "anchor": "Then, it blinked.",
+   "start": 6959,
+   "end": 6976
+  },
+  {
+   "fact": "她想给 Dorian 打电话，却发现他一直没报信。",
+   "anchor": "Then why hasn’t he called with news?",
+   "start": 8984,
+   "end": 9020
+  },
+  {
+   "fact": "两名警察上门，要她去警局辨认尸体。",
+   "anchor": "We need your assistance identifying a body",
+   "start": 11248,
+   "end": 11290
+  }
+ ]
+}
