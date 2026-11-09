@@ -1,0 +1,61 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch16",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch16_chapter_sixteen_the_nova.txt",
+ "facts": [
+  {
+   "fact": "Maxim 一早把丢失的专利申请送回。",
+   "anchor": "My proposal",
+   "start": 1477,
+   "end": 1488
+  },
+  {
+   "fact": "她答应去看父亲。",
+   "anchor": "I’ll stop by",
+   "start": 2541,
+   "end": 2553
+  },
+  {
+   "fact": "她问父亲是否也看得见影子，他用意大利语说 Ombre。",
+   "anchor": "Ombre",
+   "start": 4635,
+   "end": 4640
+  },
+  {
+   "fact": "父亲惊恐喊「火！我停不下来」，并说「他来了，邪眼」。",
+   "anchor": "He is coming. Malocchio",
+   "start": 5512,
+   "end": 5535
+  },
+  {
+   "fact": "父亲的书页写满 Florescentia，字迹逐渐崩坏。",
+   "anchor": "Florescentia",
+   "start": 6080,
+   "end": 6092
+  },
+  {
+   "fact": "父亲叫她「My star」并说「forgive me」。",
+   "anchor": "forgive me",
+   "start": 6743,
+   "end": 6753
+  },
+  {
+   "fact": "父亲椅子底下刻着眼与朝内的箭头，他想困住什么。",
+   "anchor": "head pointed inward",
+   "start": 7625,
+   "end": 7644
+  },
+  {
+   "fact": "母亲认为旧书是警告不是说明书。",
+   "anchor": "warnings, not instructions",
+   "start": 9094,
+   "end": 9120
+  },
+  {
+   "fact": "母亲说父亲最喜爱 Altair，并说她像父亲。",
+   "anchor": "I see a lot of him in you",
+   "start": 10295,
+   "end": 10320
+  }
+ ]
+}
