@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch07_chapter_6_dark_art.txt",
+ "facts": [
+  {
+   "fact": "1939年6月Lucerne拍卖\"堕落艺术\"（125件从32个德国博物馆没收的7000件中选出）；Emil Bührle（纳粹军火商）竞拍Van Gogh自画像失败，输给纽约犹太银行家Maurice Wertheim的代理人（175,000法郎）。",
+   "anchor": "What they were selling was not just a portrait. What they were selling was a purge",
+   "start": 708,
+   "end": 790
+  },
+  {
+   "fact": "印象派处于灰色地带：理论上被鄙视（\"文化衰败\"），实践中被纳粹领导人当商品交易；Goebbels日记称其为\"wertloser Plunder\"（ worthless junk）但能赚钱。",
+   "anchor": "Impressionism occupied a gray zone. It was scorned in theory, especially in official propaganda about “cultural decay.”",
+   "start": 1760,
+   "end": 1879
+  },
+  {
+   "fact": "1939年10月16日Léon把Irène肖像送国家博物馆；收据免责声明：\"without any responsibility on the part of the Administration\"（行政方不承担任何责任）；Bernheim-Jeune把Pink and Blue送旧金山de Young Museum。",
+   "anchor": "It issued a receipt a day later with a disclaimer typed out in dry language. There were no guarantees.",
+   "start": 7763,
+   "end": 7865
+  },
+  {
+   "fact": "Louvre馆长Germain Bazin用反犹蔑称\"youtres\"称犹太人，写信给上司René Huyghe说\"像潮虫一样涌来\"；Huyghe曾与Moïse共进晚餐讨论捐赠。",
+   "anchor": "Germain Bazin, a curator writing in his tiny, slanted script on onionskin stationery, called them youtres",
+   "start": 9733,
+   "end": 9838
+  },
+  {
+   "fact": "1941年报纸否认劫掠（\"法国的艺术珍宝是安全的\"）；潜台词：消失的不属于法国；从Rothschild家抢的不值得提；2月Renoir百年展60年来首次没有La Petite Irène。",
+   "anchor": "The implication was simple. What was gone did not belong to France.",
+   "start": 16529,
+   "end": 16596
+  },
+  {
+   "fact": "1941年7月7日ERR到Chambord，大声读出清单（犹太人的名字用代码）；Dr. Solne无视博物馆抗议， seized 16箱；\"Categorical orders\"（绝对命令）；Jaujard称之为\"modern piracy\"。",
+   "anchor": "The lists were read out loud of the privately owned works, the Jewish ones with names in code.",
+   "start": 19183,
+   "end": 19277
+  },
+  {
+   "fact": "Rose Valland（铁匠之女）在Jeu de Paume做技术管理员，暗中记录4000箱/20000件作品的进出；她发现Irène肖像\"destined for someone\"；称该处为\"Gallery of Martyrs\"（殉难者画廊）。",
+   "anchor": "She managed to recede into the background—all five-foot-nine inches of her—as the Jeu de Paume’s technical manager.",
+   "start": 22811,
+   "end": 22926
+  },
+  {
+   "fact": "1941年8月Léon写了2页抗议信（Times Roman字体、无签名）；\"这似乎小事——一封信、一次抗议——但标志着他们被抹除的开始，一个仍试图存在的人在一个已在忘记他的系统里的最后痕迹。\"",
+   "anchor": "It seemed like a small thing—a letter, a protest—but it marked the beginning of their erasure",
+   "start": 24174,
+   "end": 24267
+  }
+ ]
+}
