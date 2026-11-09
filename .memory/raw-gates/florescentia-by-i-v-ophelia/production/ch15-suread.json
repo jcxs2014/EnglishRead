@@ -1,0 +1,61 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch15",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch15_chapter_fifteen_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她查遍群书，关于她的能力只有远古传说与二手记载。",
+   "anchor": "treated as some archaic folktale",
+   "start": 355,
+   "end": 387
+  },
+  {
+   "fact": "父亲的「日记」其实是指导书，开头警告「你不能两次逃过死亡」。",
+   "anchor": "you will never outrun death twice",
+   "start": 2179,
+   "end": 2212
+  },
+  {
+   "fact": "书中写「那欺骗者独居，被诅咒知晓一切却一无所有」。",
+   "anchor": "The deceiver lies alone",
+   "start": 2443,
+   "end": 2466
+  },
+  {
+   "fact": "书里画了眼与箭的符号：箭头朝外驱赶，朝内困住。",
+   "anchor": "Arrowhead outward for banishing",
+   "start": 2858,
+   "end": 2889
+  },
+  {
+   "fact": "书里写「水是一扇门」。",
+   "anchor": "Water is a door",
+   "start": 3225,
+   "end": 3240
+  },
+  {
+   "fact": "她在洗手池灌水念 Florescentia，让 Altair 伸手，手从池中伸上来。",
+   "anchor": "His hand was now coming up from within the sink",
+   "start": 5670,
+   "end": 5717
+  },
+  {
+   "fact": "它说它靠皮肤吸收能量，书上残留一段她童年的记忆。",
+   "anchor": "It had remnants of a memory on it",
+   "start": 7131,
+   "end": 7164
+  },
+  {
+   "fact": "它扑来抢书，她刻下朝外的眼箭符号把它逼退。",
+   "anchor": "scratching an eye",
+   "start": 8595,
+   "end": 8612
+  },
+  {
+   "fact": "它警告：不是一切都值得知道。",
+   "anchor": "Not everything is worth knowing",
+   "start": 10102,
+   "end": 10133
+  }
+ ]
+}
