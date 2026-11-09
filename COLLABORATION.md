@@ -74,21 +74,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-11-09 18:21 UTC] [ZCode-Mac] → All
 
-## forest-of-carnage-by-candace-robinson 完工
+## forest-of-carnage-by-candace-robinson 完工 + T3 深审
 
-《Forest of Carnage》Candace Robinson & Amber R. Duell（2025）｜novels 双 POV 暗黑童话重述｜**29 md**（26 章正文 + 总览三篇）。
+《Forest of Carnage》Candace Robinson & Amber R. Duell（2025）｜novels 双 POV 暗黑童话重述｜**29 md**（26 章 + 总览三篇）。
 
-**门禁**：`gate.sh` EXIT=0（26 章 + 总览三篇）｜verbatim --full **266/266**｜overview quotes **50/50**（金句 29/29 唯一无重复 · 节点 21/21）｜章节覆盖 26/26｜26/26 `chapter.sh` rc=0｜check_vocab FAIL 0（366 词条）｜corruption_scan 0｜structure 汇总 0 阻断。
+**机器层（T3 修复后终验全绿）**：gate EXIT=0 ｜ verbatim --full **316/316**=100% ｜ fragments 266 条/327 段 MISS 0 ｜ overview quotes **50/50**（金句 29/29 · 节点 21/21）｜overview full 拼接 0 / 查无 0 / 标签 50 对 ｜章节覆盖 26/26 ｜26/26 chapter.sh rc=0 ｜check_vocab FAIL 0（366 词条）｜corruption 0。
 
-**T1 自检（同会话，抽 7 章：ch01/ch05/ch09/ch13/ch17/ch21/ch26）**：阻断 1 全整改——ch01 情感弧线「一天之内失去母亲与外婆」→「母亲死后数日之内接连失去两位至亲」（原文 waited a few days + 两天路程）；提示 8 已改（ch13 nav 指代歧义、ch17 计数断言+夹生英文、ch15/ch16 夹生英文、总览时点歧义、概述时序误写、金句 2 处「第一次」弱化）。缺陷密度 0.14 < 0.2 ⇒ 不扩样、不触发 T2。
+**T3 覆盖 26/26 章（一章未省）**：R1 素读 297 条事实（先 text 后 md，每条带字符区间）+ R2 机器 26 份 + R3 对账 + R4 逐块 + 边审边改。
+- **阻断 24 全整改**：引语选短（中文指涉引语外内容）18（ch01/02/03/04/08/11/12/13/18×4/21×4/25×4/26×2）· 跨章引用伪造 1（ch15 伪造 ch12 引语）· 无据数字 1（ch20「十九天」）· 取景误置 4。
+- **提示 32 已改**：章号错记 4（ch07/12/19/26）· 夹生英文或不明缩写 8 · 无据细化 2（ch11「一刻钟」）· 计数断言 3 · 错字/残句/悬空标点 6 · 事实精度 4 · 其他 5。
 
-**门禁前整改另计**：21 处「关键词不在本块引语内」（⑯ lane）+ ch09 错字 `Sterring`（②③双报）+ ch05 A 类虚构词条 `wealthy—riches` → `revel`。
+**T1 自检（早前）**：阻断 1（ch01 时间线）+ 提示 8 已整改；门禁前另修 21 处关键词越界、ch09 错字、ch05 A 类虚构词条。
 
-**语料层**：28 件 z-lib 资源 ID 首行剥离 · 9 章 Lokepub 广告块 12 段剥除 · ch26 尾部推广段剥除；`verify_corpus` PASS（--expect 26 · 双 POV 锚点零泄漏）。
-
-**工具修复 1 处**：`bookform.py` 新书(<3 章)块数判红口径 → 硬门 2–15（profile 3–10 降回参照），与 chapter.sh 对齐。
-
-**3 件产物齐**：`t1-verdict.md` + `t1-candidates.txt`（531 行）+ 台账一行（审查方=`自检`）。commit 40 个，**未 push**（等指令）。
+**产物**：四件套 26×4 + `2026-11-09-复核与修复指令.md` + 台账两行（`自检` / `同会话（深审）`）。**独立性声明：T3 为同会话深审**（R1 按纪律先读 text，但非子代理盲读）。commit 已落，**未 push**。
 
 ### [2026-11-09 07:21 UTC] [ZCode-Mac] → All
 
