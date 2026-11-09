@@ -1,0 +1,411 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/ch27 the endlings.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/florescentia-by-i-v-ophelia/text/ch27_chapter_twenty_seven_the_eclipse.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The more time I spent in my human skin, the more human I became. Every step, every interaction became easier as I practi",
+          "ok": true,
+          "pos": 38
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "To become human",
+          "ok": true,
+          "pos": 555
+        },
+        {
+          "text": "To be mortal",
+          "ok": true,
+          "pos": 572
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Of all the newly gained senses, taste was my favorite. Not because it fed me—it didn’t. But the pleasure of physical fla",
+          "ok": true,
+          "pos": 1975
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "No one in my lifetime had commanded me in such a way, yet I found I couldn’t resist her",
+          "ok": true,
+          "pos": 2459
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Their extravagance and complicated details didn’t disguise the fact that these were cages; they glorified it",
+          "ok": true,
+          "pos": 6239
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Yet she is alone, and she can’t bring back her species. She will never know another like her, and she will never know t",
+          "ok": true,
+          "pos": 9216
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Because we’ve ruined their home, and we must accept that this one, we couldn’t save.”",
+          "ok": true,
+          "pos": 9445
+        },
+        {
+          "text": "“All of them. We’ve let them all down.”",
+          "ok": true,
+          "pos": 9583
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Do you want to be remembered?”",
+          "ok": true,
+          "pos": 10359
+        },
+        {
+          "text": "“No,” she said",
+          "ok": true,
+          "pos": 10465
+        },
+        {
+          "text": "“I think some damage can never be undone, so there is no point.”",
+          "ok": true,
+          "pos": 10532
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I looked down at my arm, then bent my elbow in her direction",
+          "ok": true,
+          "pos": 5378
+        },
+        {
+          "text": "Fingers wrapped around my arm",
+          "ok": true,
+          "pos": 5576
+        },
+        {
+          "text": "While it was one interaction, it felt like I’d done something right",
+          "ok": true,
+          "pos": 5660
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "It wasn’t death I looked forward to anymore. A new momentum was growing inside me, an urge to discover",
+          "ok": true,
+          "pos": 11724
+        },
+        {
+          "text": "But not for me, for her",
+          "ok": true,
+          "pos": 11827
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "But she couldn’t be in this world much longer. The longer this was prolonged, the worse the balance would be thrown off",
+          "ok": true,
+          "pos": 12231
+        }
+      ],
+      "words": 22
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. Chapter Twenty-Seven: The Eclipse",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2267,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

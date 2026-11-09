@@ -1,0 +1,53 @@
+{
+  "chapter": "ch25",
+  "facts": [
+    {
+      "fact": "叙述者 Lucia 带上相机和仅容一卷备用胶卷的小手提包，独自离家过属于自己的休息日。",
+      "start": 190,
+      "end": 244,
+      "quote": "I took my camera and left the house with a small purse"
+    },
+    {
+      "fact": "她东行逛街时下起雨来，却摘了手套、掌心朝天也接不到一滴——脚边近乎正圆的两英尺范围内滴雨不落（暗影跟踪者在替她挡雨，她随即出声警告「不许插手」）。",
+      "start": 3586,
+      "end": 3664,
+      "quote": "almost in a perfect circle, no water dropping within a two-foot circumference."
+    },
+    {
+      "fact": "她裙兜里被塞进半块被啃过的巧克力（蜡纸向内折了好几折）——正是此前替她「扶正」围巾的那个暗影跟踪者所为。",
+      "start": 3959,
+      "end": 4035,
+      "quote": "a half-eaten chocolate bar, the wax paper folded several times in on itself."
+    },
+    {
+      "fact": "她过马路时车流不息，忽然全路蒸汽车的机器一齐熄火停驶，让她安全穿到对街；脚跟刚落地，车辆便全部恢复运转——跟踪者再次无视她「不许插手」的警告。",
+      "start": 4756,
+      "end": 4838,
+      "quote": "the sputtering of stalling machinery erupted along the road, and they all stopped."
+    },
+    {
+      "fact": "她拦下一辆商用蒸汽车（司机以为出了急事），把那半块巧克力扔到前后座之间，吩咐司机开去 Wildwood。",
+      "start": 5355,
+      "end": 5432,
+      "quote": "“Wildwood,” I said, slapping the half-eaten candy bar between the front seats"
+    },
+    {
+      "fact": "回忆：在海滨，她的已故爱人 Dorian 突然向 Lucia 求婚，说结了婚「他们不太可能征召我」，可以一起远走高飞。",
+      "start": 7561,
+      "end": 7621,
+      "quote": "“Marry me,” he said suddenly. “Lucia, we should be married.”"
+    },
+    {
+      "fact": "悲恸中的她走下木梯蹚进暴风雨里的大海想「找到他、抱住他」，水位没到脖颈，最后一波巨浪把她卷入海中（投海）。",
+      "start": 9687,
+      "end": 9743,
+      "quote": "Then the final wave put me under, pulling me out to sea."
+    },
+    {
+      "fact": "水下，披着 Dorian 形象的 Altair 双腿深陷沙脊替她挡住离岸流；她吐出最后一口气时被他接住——他以吻渡气救了她，两人都没有松开。",
+      "start": 11035,
+      "end": 11105,
+      "quote": "Just as I opened my mouth, I released my last breath—and he caught it."
+    }
+  ]
+}
