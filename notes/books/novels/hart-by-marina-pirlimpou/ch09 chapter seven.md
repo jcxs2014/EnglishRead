@@ -21,7 +21,7 @@ modified: "2026-11-09"
 
 **关键词**：a damn masterpiece（一件杰作）、beautiful lines and marks（漂亮的线条与痕迹）、Until he fucking believes it（直到他自己也相信）
 
-**为什么这样写**：第一句用 As if 的虚拟语气先把「不美」这个前提打掉，接着把 work of art 升级成 masterpiece——不是重复夸，是换一个更高的等级。a body so supple, so soft, so full 三个 so 并列，把身体写成触感；两个 until 从句把「埋进去」的目的从欲望转到「让痕迹发亮」「让雀斑起伏」，最后落在 Until he fucking believes it——他要的不是自己看，是 Sam 自己相信。
+**为什么这样写**：第一句用 As if 的虚拟语气先把「不美」这个前提打掉，接着把 work of art 升级成 masterpiece——不是重复夸，是换一个更高的等级。a body so supple, so soft, so full 三个 so 并列，把身体写成触感；三个 until 从句把「埋进去」的目的从欲望转到「让痕迹发亮」「让雀斑起伏」，最后落在 Until he fucking believes it——他要的不是自己看，是 Sam 自己相信。
 
 **读者视角提示**：读者记得上一章 Sam 说「我不想让你看见我裸着」，这一句正是 Devon 对那份羞耻的回应：他没有说「你不必羞耻」，而是把疤痕、妊娠纹、雀斑都算进「杰作」的定义里，并把目标设成「直到你自己相信」。
 
