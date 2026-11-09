@@ -49,9 +49,9 @@ modified: "2026-11-09"
 
 **中文理解**：「我应该放你走。我应该把我这双他妈的手从你身上剥开，离你远远的。」他把我抱得那么紧，我觉得他在我皮肤上烙印记。「天知道，我连看你都不配，更别说碰你。」
 
-**关键词**：should be letting you go（应该放你走）、peeling my fucking hands off you（把手从你身上剥开）、don’t deserve to look at you（连看你都不配）
+**关键词**：should be letting you go（应该放你走）、peeling my fucking hands off you（把手从你身上剥开）、don’t fucking deserve to look at you（连看你都不配）
 
-**为什么这样写**：两句 should be 说的是「应该」，手上的动作却是 clutch、brand——嘴上说放手，身体在烙印记，说与做正好相反。peeling my fucking hands off you 把「放手」写成撕扯，说明对他而言放手是自残。最后 don’t deserve to look at you, let alone touch you 把罪疚推到极端：连看都不配。作者让 Devon 用最狠的词骂自己。
+**为什么这样写**：两句 should be 说的是「应该」，手上的动作却是 clutch、brand——嘴上说放手，身体在烙印记，说与做正好相反。peeling my fucking hands off you 把「放手」写成撕扯，说明对他而言放手是自残。最后 don’t fucking deserve to look at you, let alone touch you 把罪疚推到极端：连看都不配。作者让 Devon 用最狠的词骂自己。
 
 **读者视角提示**：读者会把这句和上一章「他会因我受伤」的声音连起来：Devon 的自我判决不是一时情绪，是多年信念。Sam 接下来的反问 Do you want that? 正是把「应该」与「想要」分开。
 
