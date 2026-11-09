@@ -26,11 +26,11 @@ modified: "2026-11-09"
 
 > **原句 2:** "There’s something overwhelmingly alluring about Dorian, and whilst I’m very attracted to him, I’m also wary of him, too. The trouble is, when I’m in his orbit, that little voice inside my head telling me I should stay the hell away from him disappears, and in its place, this wanton woman appears."
 
-**中文理解**：他的触碰像低频热脉冲，身体像被和他私接的电线直接接通。Dorian 有种压倒性的吸引力；她明明警惕他，可一进他的轨道，脑子里那个「离他远点」的小声音就消失，原地出现一个放纵的女人。
+**中文理解**：Dorian 有种压倒性的吸引力；她明明警惕他，可一进他的轨道，脑子里那个「离他远点」的小声音就消失，原地出现一个放纵的女人。
 
-**关键词**：hot-wired to his / when I'm in his orbit / this wanton woman appears
+**关键词**：overwhelmingly alluring / when I'm in his orbit / this wanton woman appears
 
-**为什么这样写**：hot-wired（私接电线）把吸引力写成违章电路——明知危险、偏偏通电。「轨道」是本块真正的词：进轨即失重，判断力是引力的牺牲品。警铃消失与女人出现写成同一瞬间的换人，把「明知故犯」拆成两个自我的交接仪式。
+**为什么这样写**：先摆矛盾再演矛盾——attracted 与 wary 并置开头，承认欲望的同时申报风险；「轨道」是本块真正的词：进轨即失重，判断力是引力的牺牲品。警铃消失与女人出现写成同一瞬间的换人，把「明知故犯」拆成两个自我的交接仪式。
 
 **读者视角提示**：「小声音消失」是她的 Aegis 体质第一次反着用：她挡得住他的魅惑，挡不住自己的心——免疫的是法术，不免疫的是人。
 

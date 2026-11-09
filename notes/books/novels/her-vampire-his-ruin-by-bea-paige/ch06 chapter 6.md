@@ -75,15 +75,25 @@ modified: "2026-11-09"
 
 > **原句 7:** "“Hettie posted a photo of you on her Instagram account about an hour ago,” he replies, his heated gaze roving over me. “She wrote in the comments the girls are out to play, and she tagged the location.”"
 
+**中文理解**：他一小时前刷到了 Henrietta 发的合照——配文「姑娘们出来玩了」，还带了定位。他就是这样找来的。
+
+**关键词**：posted a photo of you on her Instagram / the girls are out to play / tagged the location
+
+**为什么这样写**：找到她的方式不靠超自然而靠社交媒体——作者把「跟踪」翻译成点赞时代的基本操作；定位、配文、时间线三件套齐全，惊悚感恰恰来自技术之平常。配文由闺蜜亲手写下，猎场的邀请函是她代发的。
+
+**读者视角提示**：记住这条信息链：发帖、刷到、赶来。本书的隐私观就此立起——你随时可能被定位，而定位你的人正拿着你的照片看。
+
+> **原句 8:** "“Hettie has a bruised arm from that prick, and you hadn’t even noticed that arsehole dropping a drug into your drink. So no, you can’t look after yourselves,” Dorian argues."
+
 **中文理解**：Dorian 摊牌：Henrietta 的手臂被那个混蛋抓出了淤伤，而她根本没注意到有人正往她酒里投药——所以不，你们照顾不了自己。
 
 **关键词**：a bruised arm / dropping a drug into your drink / can't look after yourselves
 
 **为什么这样写**：他用两件物证推翻她的自立宣言：看得见的淤伤、看不见的药——后者最可怕，因为它证明她的「我能行」建立在侥幸上。下一秒她自己心里也只来得及骂一声，这场辩论其实已经结束。
 
-**读者视角提示**：下药这个细节是本章真正的惊悚点：危险不是陌生人靠近，是她毫无察觉。记住这份「看不见的失守」，它和她的 Aegis 体质构成反讽——身体挡得住魅惑，挡不住药瓶。
+**读者视角提示**：下药这个细节是本章真正的惊悚点：危险不是陌生人靠近，是她毫无察觉。记住这份「看不见的失守」——身体挡得住魅惑，挡不住药瓶。
 
-> **原句 8:** "“Hettie has a bruised arm from that prick, and you hadn’t even noticed that arsehole dropping a drug into your drink. So no, you can’t look after yourselves,” Dorian argues."
+> **原句 9:** "Initially, the restaurant was expecting the two of us, but when I found out you were here with Henrietta, I decided we’d all eat together given you apparently don’t feel safe enough to be alone with me.”"
 
 **中文理解**：他解释四人晚餐的由来：订位时本来是两个人；发现她和 Henrietta 在一起，就决定大家一起吃——既然她显然不敢和他单独相处。
 
@@ -93,11 +103,11 @@ modified: "2026-11-09"
 
 **读者视角提示**：注意他改订位的动作先于一切抱怨——尊重边界的部分用行动、不服气的部分用嘴，这是 Dorian 式让步的标准结构。
 
-> **原句 9:** "Initially, the restaurant was expecting the two of us, but when I found out you were here with Henrietta, I decided we’d all eat together given you apparently don’t feel safe enough to be alone with me.”"
+> **原句 10:** "“If you want me to get into the car with you, Dorian Crow, say please.” A muscle in his jaw flickers. “Please, Edie. Would you get in the car?”"
 
 **中文理解**：车窗降下，他命令她上车。她回敬：想让我上车，Dorian Crow，请说「请」。他下颌的肌肉闪了一下——请，Edie，愿意上车吗？她拉门坐进去：这也没那么难嘛。
 
-**关键词**：say please / A muscle in his jaw flickers / That wasn't so hard
+**关键词**：say please / A muscle in his jaw flickers / Would you get in the car?
 
 **为什么这样写**：章末把全书的权力游戏压进一个词：please。她不吼不闹，只要求一个礼貌句式——把「服从」的条件从地位改成教养，他没法拒绝而不失身份。jaw flickers 是命令系统的最后一格电：他照办了，追逐权第二次正式易手。
 

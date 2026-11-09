@@ -48,11 +48,11 @@ modified: "2026-11-09"
 
 > **原句 4:** "“I need to get back to the club.” I explain, mentally berating myself for being such a fucking gentleman. What I actually want to do is some pretty unspeakable things to Edie, and that’s exactly why I’m removing myself from the situation, unlike my second, Logan."
 
-**中文理解**：她问是不是该请他进去喝咖啡了。他答要回俱乐部，心里把自己骂成个该死的绅士：真正想做的不便说出口，而那正是他抽身离场的原因——不像他那位副手。
+**中文理解**：他说得先回俱乐部，起身告辞；心里把自己骂成个该死的绅士——真正想做的不便说出口，而那正是他抽身离场的原因，不像他那位副手。
 
-**关键词**：I don't drink coffee / a fucking gentleman / removing myself from the situation
+**关键词**：I need to get back to the club / a fucking gentleman / removing myself from the situation
 
-**为什么这样写**：咖啡对话是经典的进屋暗语，他用「我不喝咖啡」四两拨千斤——不接暗语，先亮约束。自嘲「绅士」一针见血：他的体面不是天性，是自律的代价；他退场不是不想留，是知道留下会越界。
+**为什么这样写**：离场理由说得越公事公办，心里的自我审判越响——「绅士」的自嘲一针见血：他的体面不是天性，是自律的代价。与第五章被拦在门外的「剧痛」不同，这次门是敞开的，拦他的是他自己心里的那道门槛。
 
 **读者视角提示**：对照第五章他被拦在门外的「剧痛」——今晚他进得来（受邀）却自己退场：门槛换成了他自己心里的那道。
 
