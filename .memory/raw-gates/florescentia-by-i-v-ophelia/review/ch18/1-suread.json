@@ -1,0 +1,53 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "fact": "凌晨（witching hour）哥哥 Maxim 来电，气喘吁吁地要 Lucia 二十五分钟内收拾得体、到门外等他。",
+      "start": 138,
+      "end": 204,
+      "quote": "“Be decent and ready outside in twenty-five minutes,” Maxim panted"
+    },
+    {
+      "fact": "Maxim 驾带篷马车来接她，并承认此行只是「部分合法，但正当」；Lucia 了解他一贯守法良善，选择接受。",
+      "start": 1362,
+      "end": 1405,
+      "quote": "“Partially,” he admitted, “but it is just.”"
+    },
+    {
+      "fact": "马车上是 Dorian 的棺材——Maxim 透露他们当初下葬的其实是一口空棺（除非有人掘开，否则无人会察觉他不在）。",
+      "start": 2688,
+      "end": 2739,
+      "quote": "“We buried a casket. Never said he would be in it,”"
+    },
+    {
+      "fact": "Maxim 双手捧着 Lucia 的脸说：只盼将来也有人这样成全他们——这是 Dorian 想要的。",
+      "start": 2931,
+      "end": 2975,
+      "quote": "I can only hope someone will do this for us."
+    },
+    {
+      "fact": "开棺后，尸体在月光下像睡着了；Lucia 分不清哪些部位是重建修复的、哪些是原本的。",
+      "start": 4231,
+      "end": 4293,
+      "quote": "I couldn’t even tell the reconstructed parts from the natural."
+    },
+    {
+      "fact": "Lucia 抚着 Dorian 冰冷的手致悼词，盼自己日后也能与他团聚，随后合上并扣紧棺盖。",
+      "start": 5033,
+      "end": 5083,
+      "quote": "They were just as cold as when I’d last held them."
+    },
+    {
+      "fact": "兄妹二人合力把灵车推下悬崖，几秒后落水声与涨潮声相融——Dorian 被潮水带走。",
+      "start": 6037,
+      "end": 6112,
+      "quote": "With a heavy, heel-digging heave, we rolled the funeral cart off the ledge."
+    },
+    {
+      "fact": "低语声召唤她随 Dorian 而去：她用三十秒下定决心、三秒付诸行动拒绝——「Not today」，想着很快就会再见到他。",
+      "start": 6510,
+      "end": 6586,
+      "quote": "It took only thirty seconds to make a secession, three seconds to act on it."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "fact": "Lucia 晨间醒来：墙上小钟指向整八点（exactly eight o’clock），她夜里读父亲日记读到趴在沙发上睡着了。",
+      "start": 692,
+      "end": 746,
+      "quote": "The small clock on my wall said exactly eight o’clock."
+    },
+    {
+      "fact": "哥哥 Maxim 上门把 Lucia 的提案文件夹还给她——他在前台（front desk）混在其他归还物中找到了它。",
+      "start": 1649,
+      "end": 1722,
+      "quote": "At the front desk! Though, it was mixed among some other returns as well."
+    },
+    {
+      "fact": "Maxim 请 Lucia 当天去看他们的父亲 Papà：母亲要外出办事，他自己工作上临时有事，还因帮忙料理葬礼而一直缺勤。",
+      "start": 2279,
+      "end": 2308,
+      "quote": "Will you check on Papà today?"
+    },
+    {
+      "fact": "Lucia 问父亲是否也看得见影子后，父亲当场发病：把杯子摔在地上、用书砸她的头，喊「The fire! I can’t stop it!」，又用双手紧攥她的手警告 Malocchio 要来了。",
+      "start": 5511,
+      "end": 5537,
+      "quote": "“He is coming. Malocchio.”"
+    },
+    {
+      "fact": "父亲日记的后几页只反复写着 Florescentia（越写越走形）——Lucia 判断他曾在头脑清醒时试图召唤 Otherside。",
+      "start": 6333,
+      "end": 6399,
+      "quote": "He’d been trying to invoke the Otherside while his mind was clear."
+    },
+    {
+      "fact": "Lucia 发现父亲椅子底下刻着一只被箭穿过的眼睛、箭头朝内——他试过以此「捕捉」什么。",
+      "start": 7545,
+      "end": 7595,
+      "quote": "Carved into the underside of his chair was an eye."
+    },
+    {
+      "fact": "母亲告诉 Lucia：父亲近来很难熬，发病越来越频繁。",
+      "start": 8415,
+      "end": 8489,
+      "quote": "He has been having a hard time lately. His fits have become more frequent."
+    },
+    {
+      "fact": "母亲说出父亲最喜爱的是 Altair——「明亮、强大，即使在一年最黑暗的时节也是一丝希望」。",
+      "start": 10056,
+      "end": 10138,
+      "quote": "Bright, powerful, and even during the darkest time of the year, a glimmer of hope."
+    }
+  ]
+}
