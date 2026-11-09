@@ -1,0 +1,49 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch36",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch36_chapter_thirty_six_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她回到树下，彼界没有真正的睡眠。",
+   "anchor": "always sleepless",
+   "start": 942,
+   "end": 958
+  },
+  {
+   "fact": "她听见父亲的声音，潜入水中进入父亲的记忆。",
+   "anchor": "the sound of my father’s voice",
+   "start": 1153,
+   "end": 1183
+  },
+  {
+   "fact": "记忆里是战火中的小镇。",
+   "anchor": "a town alight with gunfire",
+   "start": 2126,
+   "end": 2152
+  },
+  {
+   "fact": "母亲靠在墙角，一条手臂被炸烂。",
+   "anchor": "her arm shredded",
+   "start": 3179,
+   "end": 3195
+  },
+  {
+   "fact": "两人手上都戴着婚戒，她早已是他的妻子。",
+   "anchor": "A gold band on his finger",
+   "start": 3440,
+   "end": 3465
+  },
+  {
+   "fact": "父亲用斧子切断母亲的残臂。",
+   "anchor": "he severed the remaining threads",
+   "start": 5268,
+   "end": 5300
+  },
+  {
+   "fact": "她明白父亲是用她换取两人的生存。",
+   "anchor": "their survival",
+   "start": 6134,
+   "end": 6148
+  }
+ ]
+}
