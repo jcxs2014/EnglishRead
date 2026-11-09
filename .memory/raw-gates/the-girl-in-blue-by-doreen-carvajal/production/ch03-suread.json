@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch03",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch03_chapter_2_une_soir_e.txt",
+ "facts": [
+  {
+   "fact": "1883–1888年Louise的周日沙龙：Proust固定坐在低矮无扶手chauffeuse椅上观察 dissect le beau monde；Alice 1962年回忆\"我们不知道他们是大作家\"。",
+   "anchor": "Marcel Proust occupied his habitual post in a low, armless chaise chauffeuse, his eyes fixed on the guests at the Cahen d’Anvers mansion at 2 rue Bassano.",
+   "start": 207,
+   "end": 361
+  },
+  {
+   "fact": "家族处于社会边缘：太有教养不致被视为外省人、太富不能被忽视、太犹太而不能被完全接纳；学会在种姓间移动如换房间。",
+   "anchor": "They lived at their edge, too cultivated to be provincial, too rich to be ignored, too Jewish to be fully admitted.",
+   "start": 7037,
+   "end": 7152
+  },
+  {
+   "fact": "Irène约12岁开始束身训练：鲸骨corset从衣物变成生存状态；不能跑、不能吃太多、不能大笑、只能滑行；医生Vallin提倡\"卫生束身\"，Rational Dress Society反弹。",
+   "anchor": "Irène didn’t breathe as much as wait—for that moment when a corset stops being a garment and becomes a condition.",
+   "start": 10499,
+   "end": 10612
+  },
+  {
+   "fact": "旧贵族通过联姻、联盟、\"天鹅绒同化\"悄悄让新钱进入；但归属不能直接购买，必须被吸收、被容忍、被训练代码。",
+   "anchor": "The old families, the ones with titles and boar hunts, let it in quietly, strategically—through marriages, alliances, a sort of velvet assimilation",
+   "start": 6492,
+   "end": 6639
+  },
+  {
+   "fact": "Goncourt 1880年冬日记写Louise：\"犹太女人从东方起源保留了特殊的懒散\"；把她红金卷发比作\"蛇窝\"；1878年还写她在古董店与Ephrussi幽会。",
+   "anchor": "Jewish women retain from their Oriental origin a particular indolence,” he wrote in the winter of 1880.",
+   "start": 19850,
+   "end": 19953
+  },
+  {
+   "fact": "婚姻不为激情而为财产：嫁妆、谱系、结构必须维持；Josefina回忆\"男人容忍女人有情夫，女人也容忍丈夫有情妇\"；法国民法典自动认定婚内子女为丈夫之子。",
+   "anchor": "You did not marry for love. You married because it was time. Because your parents decided.",
+   "start": 22916,
+   "end": 23006
+  },
+  {
+   "fact": "Veblen称Belle Époque为\"炫耀性消费\"时代：地位以收藏、赛马、游艇、城堡衡量；女性时装与珠宝被用来展示家族财富；婚姻是另一种货币。",
+   "anchor": "To gain and to hold the esteem of men, it is not sufficient merely to possess wealth or power. The wealth or power must be put in evidence.",
+   "start": 26456,
+   "end": 26595
+  },
+  {
+   "fact": "章末Goncourt记录Louise谈包办婚姻的原话：嫁给完全不认识的男人，会在他穿着衬衫领她上床的那一刻突然彻底明白道德谜题。",
+   "anchor": "The young girl marrying a man she doesn’t know at all will suddenly—completely and all at once—figure out the moral enigma the moment he is in his shirt, leading her to his bed.",
+   "start": 27866,
+   "end": 28043
+  }
+ ]
+}
