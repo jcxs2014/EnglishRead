@@ -792,8 +792,12 @@ def check_all(book: Path, as_json: bool = False) -> int:
             dev.append(f"H1「{f['h1']}」与本书众数不同")
         if not f["nav_count_ok"]:
             dev.append(f"导航 {f['nav_count']} 项（本书常见 {f['nav_counts']}）")
-        if not (f["block_range"][0] <= f["blocks"] <= f["block_range"][1]):
-            dev.append(f"块数 {f['blocks']} 越出本书范围 {f['block_range'][0]}–{f['block_range'][1]}")
+        # 新书（<3 章）没有可信众数：硬判据是 2–15（20-gate 33 条，2026-10-21 拍板），
+        # profile 的 3–10 只是前 3 章参照——按它判红会把新书合法章打成越界（2026-11-09 forest-of-carnage 实测）
+        lo, hi = (f["block_range"] if f["baseline"] == "book" else (2, 15))
+        if not (lo <= f["blocks"] <= hi):
+            tag = "本书范围" if f["baseline"] == "book" else "新书硬门"
+            dev.append(f"块数 {f['blocks']} 越出{tag} {lo}–{hi}")
         if dev:
             form_ch.append((no, dev))
 
