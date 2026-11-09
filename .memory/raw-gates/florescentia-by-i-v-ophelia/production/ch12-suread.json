@@ -1,0 +1,61 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch12",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch12_chapter_twelve_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她在城北海滨做「处方散步」，海与空气都被污染。",
+   "anchor": "a prescribed ocean walk",
+   "start": 748,
+   "end": 771
+  },
+  {
+   "fact": "巨兽以她的影子形状出现，问她人类是否以自虐为乐。",
+   "anchor": "Is the human condition limited to torturing yourselves for fun?",
+   "start": 2313,
+   "end": 2376
+  },
+  {
+   "fact": "它说自己只是有时间，想先观察人类。",
+   "anchor": "I have nothing but time",
+   "start": 3795,
+   "end": 3818
+  },
+  {
+   "fact": "她提出交易：它当导师带她去彼界。",
+   "anchor": "be my mentor",
+   "start": 4816,
+   "end": 4828
+  },
+  {
+   "fact": "她愿教它混入人群。",
+   "anchor": "I could show you how to blend in",
+   "start": 4678,
+   "end": 4710
+  },
+  {
+   "fact": "她举瓶说「为好奇心干杯」，把酒倒进影子。",
+   "anchor": "To feeding curiosity",
+   "start": 5254,
+   "end": 5274
+  },
+  {
+   "fact": "它说不喜欢这个味道，她说那就为享乐而吃。",
+   "anchor": "Eat for pleasure, then",
+   "start": 5747,
+   "end": 5769
+  },
+  {
+   "fact": "档案馆把无人认领的东西每周清两次，她的申请文件没了。",
+   "anchor": "we throw abandoned items away twice per week",
+   "start": 8071,
+   "end": 8115
+  },
+  {
+   "fact": "她决定引诱它的胃口，唤它出来。",
+   "anchor": "To entice his appetites",
+   "start": 9294,
+   "end": 9317
+  }
+ ]
+}
