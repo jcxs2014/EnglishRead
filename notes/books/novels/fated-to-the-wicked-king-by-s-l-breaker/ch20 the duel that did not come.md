@@ -80,7 +80,7 @@ modified: "2026-11-08"
 
 **关键词**：Bastard / draw his sword / well-practiced strike / defensive
 
-**为什么这样写**：拔剑只用 draw his sword 两个词，笔墨全花在剑路上：cutting cleanly、precise、well-practiced 一步步把 Gregory 抬成训练有素的剑客；句尾 the kind that should have… 先立起「必逼对手入守势」的预设，而 should have 本身就是一句没兑现的许诺。
+**为什么这样写**：拔剑只用 draw his sword 三个词，笔墨全花在剑路上：cutting cleanly、precise、well-practiced 一步步把 Gregory 抬成训练有素的剑客；句尾 the kind that should have… 先立起「必逼对手入守势」的预设，而 should have 本身就是一句没兑现的许诺。
 
 **读者视角提示**：这一剑越是标准，读者越会预期一场旗鼓相当的决斗——作者拿这份预期当赌注押在后面。
 

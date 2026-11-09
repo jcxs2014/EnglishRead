@@ -56,7 +56,7 @@ modified: "2026-11-08"
 
 > **原句 5:** "“Your Highness,” the villager greeted, low and hoarse. He smelled of sweat, damp wool, and malice. His grip cinched tighter around my waist, binding my arms to my sides, as he dragged me another step back, the blade pressing down just enough to sting."
 
-**中文理解**：一声低哑的「殿下」之后，是汗味、湿羊毛味和恶意；她的手臂被反绑在身侧，人被拖着往后退了半步，刀锋停在刚好刺痛的程度。
+**中文理解**：一声低哑的「殿下」之后，是汗味、湿羊毛味和恶意；她的手臂被箍在体侧，人被拖着往后退了半步，刀锋停在刚好刺痛的程度。
 
 **关键词**：low and hoarse / malice / cinched tighter around my waist / blade pressing down just enough to sting
 

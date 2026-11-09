@@ -66,7 +66,7 @@ modified: "2026-11-08"
 
 > **原句 6:** "I shot the General a bewildered glare. “Are you crazy? Why would you activate a delicate machine like this on your own? It’s not fully operational."
 
-**中文理解**：她难以置信地瞪着 General，脱口质问：你疯了吗？为什么要独自启动一台这么娇气的机器？它还没完全建成——言下之意，后果不堪设想。
+**中文理解**：她难以置信地瞪着 General，脱口质问：你疯了吗？为什么要独自启动一台这么娇气的机器？它还没能完全运转——言下之意，后果不堪设想。
 
 **关键词**：bewildered / activate / delicate / not fully operational
 

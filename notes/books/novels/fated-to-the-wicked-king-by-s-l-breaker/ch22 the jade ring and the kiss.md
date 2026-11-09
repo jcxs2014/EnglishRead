@@ -30,7 +30,7 @@ modified: "2026-11-08"
 
 **关键词**：hearts were linked / experiencing your feelings / helplessness / despair / heartbreak / finally let me go
 
-**为什么这样写**：两个 I knew 顶着说，把「做不到」说成早已宣判的判决；helplessness、despair、heartbreak 三连像连招，一记比一记疼；finally 前那个顿（…）把最难启齿的部分拖了出来——他怕的不是痛，是「终于」两个字。
+**为什么这样写**：三个 I knew 顶着说，把「做不到」说成早已宣判的判决；helplessness、despair、heartbreak 三连像连招，一记比一记疼；finally 前那个顿（…）把最难启齿的部分拖了出来——他怕的不是痛，是「终于」两个字。
 
 **读者视角提示**：整段自白不出现爱字，但每一项都是爱的代价账单——数目让读者自己算。
 
@@ -60,7 +60,7 @@ modified: "2026-11-08"
 
 **关键词**：flash of pain / cutoff / flow of magic / side effect / everyone else
 
-**为什么这样写**：推理被写成一道物理题：gears 在转，旧痛被 recalled 调档，cutoff 与 nowhere else to go 一进一出，最后落成一句近乎实验结论的 It’s a side effect——心碎被她整理成了因果链，冷静得近乎自嘲。
+**为什么这样写**：推理被写成一道物理题：gears 在转，旧痛被 recalled 调档，cutoff 与 nowhere else for all that magic to go 一进一出，最后落成一句近乎实验结论的 It’s a side effect——心碎被她整理成了因果链，冷静得近乎自嘲。
 
 **读者视角提示**：「副作用」之说把「她能感到他人情绪」从一桩怪事变成可解释的系统——读者从此可以自己推演这套规则还能往哪儿用。
 
@@ -90,13 +90,13 @@ modified: "2026-11-08"
 
 **关键词**：recoil / terrifying intensity / desperately to ignore / surge of joy / never stopped carrying
 
-**为什么这样写**：while 把「她」劈成两半对坐；破折号里塞进的一串自述（deeper, quieter, desperately to ignore）才是全句重心——被压抑越久的那半越真；结尾 so fierce it hurt 让狂喜与疼痛共用同一把刻度，强度写到顶了。
+**为什么这样写**：while 把「她」劈成两半对坐；破折号里塞进的那句自述（a deeper, quieter part I had been trying desperately to ignore）才是全句重心——被压抑越久的那半越真；结尾 so fierce it hurt 让狂喜与疼痛共用同一把刻度，强度写到顶了。
 
 **读者视角提示**：「从未停止携带」是这份回应的地基——躲开与迎合的原是同一个人，这场拉锯从头到尾发生在她自己体内。
 
 > **原句 9:** "Fire surged inside me as every single nerve in my body sparked in an instant. My eyes fluttered closed as searing hot lightning crackled through my veins at the feel of him, an exhilarating, overwhelming pleasure I’d been so badly starved for."
 
-**中文理解**：火焰轰然涌起，全身每一根神经同一瞬间擦出火花；她眼帘合拢，灼热的闪电顺着血管噼啪炸开——那是一种令人眩晕的狂喜，一份她被亏欠了太久的快乐。
+**中文理解**：火焰轰然涌起，全身每一根神经同一瞬间擦出火花；她眼帘合拢，灼热的闪电顺着血管噼啪炸开——那是一种令人眩晕的狂喜，一份她渴望得太久的快乐。
 
 **关键词**：Fire surged / sparked / searing hot lightning / veins / starved for
 

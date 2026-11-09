@@ -80,7 +80,7 @@ modified: "2026-11-08"
 
 **关键词**：startled by his brusqueness / blinked again to focus / support the center / build slowly, not strike too soon
 
-**为什么这样写**：My strategy was to build slowly, not strike too soon 用否定式给出一条自我约束，两个分句说的都是节奏，像她在给自己下令；前半句的 blinked again to focus 则暴露她其实被情绪牵着走。
+**为什么这样写**：My strategy was to build slowly, not strike too soon 用否定式给出一条自我约束，前后两半说的都是节奏，像她在给自己下令；前半句的 blinked again to focus 则暴露她其实被情绪牵着走。
 
 **读者视角提示**：读者会把 build slowly 与棋盘上的慢棋摆在一起看，这句话因此也像她对国王本人的态度——不急着赢，也不急着表态。
 
@@ -110,7 +110,7 @@ modified: "2026-11-08"
 
 **关键词**：finding the doorknob / turned it / ducking out of his bodily cage / slipped away into the darkened halls / before my heart could explode
 
-**为什么这样写**：Finally finding the doorknob 里的 Finally 把此前的挣扎全收进一个字；turned it, quickly ducking out of … 与 slipped away into … 两个动作串成不回头的中介结构，快得没有停顿；before my heart could explode 用一个尚未发生的将来时，把心跳留在她身后。
+**为什么这样写**：Finally finding the doorknob 里的 Finally 把此前的挣扎全收进一个词；turned it, quickly ducking out of … 与 slipped away into … 两个动作串成不回头的中介结构，快得没有停顿；before my heart could explode 用一个尚未发生的将来时，把心跳留在她身后。
 
 **读者视角提示**：slipped away 让这次离开更像溜走而不是挣脱——门把手一转，人就消失在黑暗里。
 

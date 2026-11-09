@@ -52,7 +52,7 @@ modified: "2026-11-08"
 
 **为什么这样写**：警告的力量不来自措辞而来自行为反常——先写「不常这样」再落台词；末句直呼 Allie，把读者从旁观者位置拽成被警告的人，一句台词把猫从喜剧配角变成信息提供者。
 
-**读者视角提示**：这是本章唯一的外部声音，也是唯一不站在叙述者一边的声音；读者若不信 Allie，至少该信这只猫。
+**读者视角提示**：这是本章唯一开口说话的另一个角色，也是唯一不站在叙述者一边的声音；读者若不信 Allie，至少该信这只猫。
 
 > **原句 5:** "When we’d first met, he was still a mere assassin, harvesting human hearts for the Red Queen. But when he was ordered to extract my heart and kill me, he’d found a way to resist her control."
 
@@ -60,7 +60,7 @@ modified: "2026-11-08"
 
 **关键词**：mere assassin / harvesting hearts / extract / resist her control
 
-**为什么这样写**：前半句用 still a mere assassin 把身份钉死，后半句用一个 But 把同一个人的另一个身份翻出来，反转不靠评论、只靠一个转折连词；最重的一句只有六个词（He saved my heart）却单独成段，把「他救过我」钉进读者记忆。
+**为什么这样写**：前半句用 still a mere assassin 把身份钉死，后半句用一个 But 把同一个人的另一个身份翻出来，反转不靠评论、只靠一个转折连词；最重的一句只有四个词（He saved my heart）却单独成段，把「他救过我」钉进读者记忆。
 
 **读者视角提示**：这里的「他」全书不具名，读者只能从行为反推身份——本章刻意延迟揭晓，为后段的指名埋线。
 

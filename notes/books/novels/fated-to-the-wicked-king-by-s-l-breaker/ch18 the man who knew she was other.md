@@ -69,7 +69,7 @@ modified: "2026-11-08"
 
 **关键词**：It is her / the one the general was talking about / this is all her doing / barely even felt anything
 
-**为什么这样写**：全句的力气几乎全在那个指代上——It is her 两个词，判决就完成了；随后村民把信息转述成二手货：the general 说的、他说、他们说，三层转述把一个陌生的权威搬到现场，读者和她同时听说了 general 这个名号；最能扎人的是 barely even felt anything——本该被旋涡撕碎的人却几乎毫无感觉，这既解释了她为什么被盯上，也让她成了嫌疑人。
+**为什么这样写**：全句的力气几乎全在那个指代上——It is her 三个词，判决就完成了；随后村民把信息转述成二手货：the general 说的、他说、他们说，三层转述把一个陌生的权威搬到现场，读者和她同时听说了 general 这个名号；最能扎人的是 barely even felt anything——本该被旋涡撕碎的人却几乎毫无感觉，这既解释了她为什么被盯上，也让她成了嫌疑人。
 
 **读者视角提示**：读者到这里会和她同步发怵：他们不但知道她是谁，还知道她穿过旋涡时「几乎没感觉」——这不是普通的指认，而是把她的经历变成证据的第一步。
 

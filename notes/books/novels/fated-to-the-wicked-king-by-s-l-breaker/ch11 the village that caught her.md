@@ -10,7 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：从蒙眼醒来时唯一还抓得住的东西（at least I could breathe），到听见自己被判作太危险（too dangerous）时的孤立无援；中段是一场她看不见的屠杀，暴烈过后只剩 The eerie silence that followed；转折点在脚踝一凉的那一下——But strangely, it brought me instant comfort；最后落到河上那场无声的吞噬，把恐惧从人身上挪到了景物上。
 - **Tropes 兑现/反转**：兑现「公主被绑架」的经典桥段——蒙眼、反绑、树下看守，一个不落的开局；反转在绑架者的自我辩护上：他们不要赎金也不要解释，只要杀一个 witch（We don’t care what explanations you have.）；另一处反转是来救她的人比绑架她的人更危险（significantly more dangerous than the rebellious rogues who had kidnapped me.）。
 - **人物弧线**：她一路在谈判：先求（There’s been a huge misunderstanding here.），再讲道理（You know it makes little logical sense to kill me.），最后谈交易（Wouldn’t it be worth more if I were to help you?）；可她始终没有被听见——The rogues didn’t acknowledge my questions；直到有人把话头整个抢过去（I thought I would even the score again.），她才从「求对方听我讲」变成「被对方盯着看」。
-- **叙事手法**：第一人称受限视角：布条蒙住眼睛，看不见就只能写声音与温度；每一次转折都先给声音再给结果（A violent gust tore around us without warning、Retching groans punched the air）；命令用两个分句切开人群（you two stay here／The rest of us will head back first），节奏像在赶时间；末尾把镜头整个交给景物，用 All caught at the edge of syrup-thick time 收束。
+- **叙事手法**：第一人称受限视角：布条蒙住眼睛，看不见就只能写声音与温度；每一次转折都先给声音再给结果（A violent gust tore around us without warning、Retching groans punched the air）；一句命令把人分成两拨（you two stay here／The rest of us will head back first），节奏像在赶时间；末尾把镜头整个交给景物，用 All caught at the edge of syrup-thick time 收束。
 
 ## 精读
 

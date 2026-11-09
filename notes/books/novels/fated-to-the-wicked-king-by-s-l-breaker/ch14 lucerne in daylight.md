@@ -55,7 +55,7 @@ modified: "2026-11-08"
 
 > **原句 5:** "“You’re bleeding.” Sophie lifted a delicate hand and laid it on her brother’s temple. There was a brief, bright glow, and the wound on Gregory’s forehead stitched up, his injury all but erased."
 
-**中文理解**：「你在流血。」Sophie 抬起一只细巧的手，按在他哥哥的太阳穴上；接着出现一道短暂而明亮的闪光，Gregory 额头上的伤口就缝合了，那处伤几乎被抹去。
+**中文理解**：「你在流血。」Sophie 抬起一只细巧的手，按在自己哥哥的太阳穴上；接着出现一道短暂而明亮的闪光，Gregory 额头上的伤口就缝合了，那处伤几乎被抹去。
 
 **关键词**：You’re bleeding / a delicate hand / laid it on her brother’s temple / a brief, bright glow / the wound on Gregory’s forehead stitched up
 

@@ -52,7 +52,7 @@ modified: "2026-11-08"
 
 **为什么这样写**：开口之前先写身体：livid eyes sharpened 让垂死的眼睛忽然亮起来，a hacking cough 把话切碎；随后称呼从 me 换成 We，用 weeds 这个比喻宣告这一类人杀不完；tear us out, burn us, salt the earth 三个动作排成一列，再接一个 and still we will return，把“根除”的可能一条条掐掉。
 
-**读者视角提示**：读者在这里听见这个 We；weeds 与 you and your witch 两个词，把威胁从一个人扩成一张网。
+**读者视角提示**：读者在这里听见这个 We；weeds 与 you and your witch 两处措辞，把威胁从一个人扩成一张网。
 
 > **原句 5:** "The man barely had time to suck in a breath before the entire room flooded with darkness for the blink of an eye. The Wicked King’s shadows, like swift whispering blades, ripped through the man, followed by dull thumps as hunks of flesh fell to the floor."
 

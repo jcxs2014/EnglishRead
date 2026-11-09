@@ -50,7 +50,7 @@ modified: "2026-11-08"
 
 **关键词**：raised platform / fully conscious / pickaxes and bows / wan smile / Dr. Carter
 
-**为什么这样写**：招呼只给两个字，熟稔得没有来由；护卫偏偏是 fully conscious、拿着 pickaxes and bows 的村民，与主人的从容凑成「一切尽在掌握」的画面——悬念不在他是谁，在他凭什么认得她。
+**为什么这样写**：招呼里直接喊出她的旧名，熟稔得没有来由；护卫偏偏是 fully conscious、拿着 pickaxes and bows 的村民，与主人的从容凑成「一切尽在掌握」的画面——悬念不在他是谁，在他凭什么认得她。
 
 **读者视角提示**：名字砸下来的瞬间，她的反应不是「我不是」，而是「为什么毫无印象」——读者与她拿到的信息一样多，别提前替她认领这个身份。
 
