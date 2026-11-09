@@ -59,7 +59,7 @@ modified: "2026-11-09"
 
 **中文理解**：「我知道有规矩。但我还不想让这一夜结束。」
 
-**关键词**：I know there are rules（我知道有规矩）、But（但）、not over yet（还没结束）
+**关键词**：I know there are rules（我知道有规矩）、But（但）、don’t want the night to be over yet（不想让这一夜结束）
 
 **为什么这样写**：第一句几乎是上一段的压缩重复，只保留 I know there are rules；第二句用 But 一转，把「知道」与「想要」分开。don’t want the night to be over yet 里的 yet 是关键——他不是要取消规矩，只是要求延长时间；这个 yet 让请求变得可退，也让 Devon 可以接受而不必立刻承诺什么。
 
