@@ -1,0 +1,85 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch03",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch03_chapter_three_the_nova.txt",
+ "facts": [
+  {
+   "fact": "Dorian 打电话让她去找丢失的白脸玳瑁猫 Monty。",
+   "anchor": "Did you see Monty?",
+   "start": 252,
+   "end": 270
+  },
+  {
+   "fact": "她说猫是流浪猫，会自己回来。",
+   "anchor": "she will show. Strays wander",
+   "start": 906,
+   "end": 934
+  },
+  {
+   "fact": "Dorian 说自己只是出于本能或迷信在焦虑。",
+   "anchor": "Instinct or superstition",
+   "start": 1007,
+   "end": 1031
+  },
+  {
+   "fact": "Dorian 要她抽张牌安抚他。",
+   "anchor": "Will you pull a card for me?",
+   "start": 1058,
+   "end": 1086
+  },
+  {
+   "fact": "Dorian 曾被征召入伍，此后两人鲜少分离。",
+   "anchor": "not since he’d been drafted",
+   "start": 3101,
+   "end": 3128
+  },
+  {
+   "fact": "她把后院做成适合流浪猫的样子，门口有一排铜碗。",
+   "anchor": "A row of brass bowls by the back door",
+   "start": 1760,
+   "end": 1797
+  },
+  {
+   "fact": "她测试能拍能量的 pneuma 型胶片，本次出现黑斑失败。",
+   "anchor": "Pneuma-types were special",
+   "start": 4325,
+   "end": 4350
+  },
+  {
+   "fact": "她第一项发明是相机预装湿版。",
+   "anchor": "My first invention had been a prepacked wet plate",
+   "start": 5759,
+   "end": 5808
+  },
+  {
+   "fact": "因女性身份，她差点拿不到专利。",
+   "anchor": "since they weren’t keen on accepting submissions from women",
+   "start": 6008,
+   "end": 6067
+  },
+  {
+   "fact": "一次仪式之后专利就批下来了。",
+   "anchor": "One ritual was all it took",
+   "start": 6071,
+   "end": 6097
+  },
+  {
+   "fact": "收获运气最简的方式是与 Peculiar 亲密。",
+   "anchor": "The easiest was to be intimate with the Peculiar",
+   "start": 7342,
+   "end": 7390
+  },
+  {
+   "fact": "更大的 Peculiar 因孤立与无法跨越而极度饥渴。",
+   "anchor": "larger Peculiars suffered from a rather intense gulosity from their isolation",
+   "start": 8031,
+   "end": 8108
+  },
+  {
+   "fact": "她说只要在可控的严格环境里，过程万无一失。",
+   "anchor": "the process was foolproof",
+   "start": 8337,
+   "end": 8362
+  }
+ ]
+}
