@@ -89,7 +89,7 @@ modified: "2026-11-09"
 | wheeze | 喘息 | The king released another wheeze, which turned into a cough. |
 | ghastly | 恐怖憔悴的 | “You look ghastly,” Winter said with a small smirk. |
 | salve | 药膏 | She’d been healing perfectly over the last week from the salve he’d given her, her skin less pale, though she’d been sleeping most of the time and silently staring at the wall when she was awake. |
-| mishap — mussed | 凌乱（头发） | Winter froze, his focus snapping to his captive. Her hair was mussed. and she hugged the blanket around her shoulders as if there were a chill in the room. |
+| mussed | 凌乱（头发） | Winter froze, his focus snapping to his captive. Her hair was mussed. and she hugged the blanket around her shoulders as if there were a chill in the room. |
 
 ### ⭐ 常用
 
