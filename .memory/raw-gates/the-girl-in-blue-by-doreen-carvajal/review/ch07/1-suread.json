@@ -1,0 +1,130 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "fact": "1939 年 6 月，卢塞恩大酒店举行拍卖，出售 1937 年夏被纳粹宣传部门从德国博物馆突然扒下的现代派作品；瑞士德裔工业家、纳粹军火商 Emil Bührle 盯上梵高自画像，事先与拍卖师 Theodor Fischer 密谋以最高 15 万瑞士法郎合伙购入。",
+      "start": 2431,
+      "end": 2692,
+      "quote": "He had already secretly hatched a deal with the auctioneer, Theodor Fischer, to buy it in partnership for a maximum of 150,000 Swiss francs—about $750,000 in today’s dollars—something the industrialist later outlined in angry correspondence with the auctioneer."
+    },
+    {
+      "fact": "竞价一路抬升，Bührle 在 170,000 法郎举手；另一买家以无声手势报出当日最高价 175,000 法郎截走此画。事后证实中标者是纽约犹太银行家 Maurice Wertheim 的代理人，Bührle 暴怒，让秘书打出措辞激烈的信函。",
+      "start": 3590,
+      "end": 3809,
+      "quote": "Later, it would emerge that the winning bid was made by a proxy for Maurice Wertheim, a Jewish banker from New York. That was how it went. Bührle seethed, and his secretary typed furious letters about his lost purchase."
+    },
+    {
+      "fact": "拍卖次日法国评论界痛批这场清售，仅拍出 570,094 瑞士法郎；消息加剧了 Irène 亲友圈的焦虑——66 岁的 Irène 住巴黎伽利略街 10 号，女婿、46 岁的作曲家 Léon Reinach 最为警觉，接手保护挂在纳伊（Neuilly）客厅里的雷诺阿〈伊蕾娜像〉，随后把顶楼藏品全部装进一只木箱，共 11 件。",
+      "start": 5436,
+      "end": 5545,
+      "quote": "He took charge of protecting Renoir’s portrait of Irène, which by then was hanging in their salon in Neuilly."
+    },
+    {
+      "fact": "1939 年 10 月 16 日，Léon 用专车把伊蕾娜的肖像送交国家博物馆；博物馆次日开出收据，附冷冰冰的免责声明，唯一用蓝线划出的条款是「行政当局概不负责」。",
+      "start": 7672,
+      "end": 7839,
+      "quote": "October 16, 1939, Léon sent Irène’s portrait by special transport to the national museums. It issued a receipt a day later with a disclaimer typed out in dry language."
+    },
+    {
+      "fact": "1941 年 7 月 4 日，法国国家博物馆负责人 Jacques Jaujard 发备忘录指示 Chambord 员工：若拦截不了扣押，就把搬离限制在罗森贝格委员会点名的箱子上；德国人列出的 8 位犹太私人藏家名单中，正有装着小伊蕾娜雷诺阿肖像的那只箱子。",
+      "start": 18533,
+      "end": 18880,
+      "quote": "In a July 4, 1941, memo, Jacques Jaujard, head of the French national museums, instructed Chambord staff that if the seizures could not be stopped, the removals were to be limited to specific crates claimed by the Rosenberg Commission. On the German list of eight Jewish private owners was the crate containing the Renoir portrait of little Irène."
+    },
+    {
+      "fact": "1941 年 7 月 7 日，纳粹掠夺机构 ERR 的卡车开到 Chambord 庭院，当众念出以代号标注犹太藏家的清单；由 Dr. Solne 带队，无视馆方高层抗议，以「绝对命令」为由提走 16 只箱子，带走了〈小伊蕾娜〉。",
+      "start": 19341,
+      "end": 19546,
+      "quote": "The ERR team was led that day by a Dr. Solne, who ignored top-level museum protests and seized sixteen crates. “Categorical orders,” he replied. And then he and the other raiders left with La Petite Irène."
+    },
+    {
+      "fact": "被掠的 243 只箱子从 Chambord 运抵巴黎北站，肖像先转往卢浮宫、最终落入近旁被改作掠夺枢纽的 Jeu de Paume；技术主管 Rose Valland 以速记秘密追踪进出，在失窃六个月后就认出失踪的雷诺阿〈伊蕾娜像〉，在密件中记下它将「归于某位私人收藏」，并称那些搁浅作为「殉道者画廊」。",
+      "start": 22661,
+      "end": 22810,
+      "quote": "She had already spotted the missing Renoir portrait of Irène six months after it was stolen. Her name was Rose Valland, the daughter of a blacksmith."
+    },
+    {
+      "fact": "1941 年 8 月，肖像被盗数日后，Léon 拿起知识分子家族惯用的武器——文字：把自己锁在纳伊的客厅里，在三架钢琴旁写下两页抗议信，Times Roman 字体、没有签名；这件小事成了他们被抹除的起点，也是一个男人在已开始遗忘他的体制中仍试图存在的最后痕迹。",
+      "start": 23872,
+      "end": 24171,
+      "quote": "In August 1941, he turned to the weapon dear to his family of intellectuals, the written word. He locked himself in his salon in Neuilly, under the carved lions outside his window, beside his three pianos, and wrote. Two pages. The lines steady, clipped, precise. Times Roman. The signature missing."
+    }
+  ],
+  "relationships": [
+    "Irène Cahen d’Anvers（1939 年 66 岁）：雷诺阿〈伊蕾娜像〉（La Petite Irène）的主人，住巴黎伽利略街 10 号；长女 Béatrice de Camondo 居纳伊。",
+    "Béatrice de Camondo — Irène 的长女，Léon Reinach 之妻。",
+    "Léon Reinach（46 岁，学者型音乐作曲家）— Béatrice 的丈夫；保护〈伊蕾娜像〉的执行人：装箱 11 件、1939-10-16 专送国家博物馆、1941-08 写两页抗议信。",
+    "Moïse de Camondo — 文中与 Camondo 姓氏相关：其捐赠被拆解装箱，1939 年秋与〈小伊蕾娜〉首次同存于设防城堡；1935 年去世前与 Huyghe 共进晚餐谈捐赠；1919 年由 Carle Dreyfus 助其秘密迁回其子遗骸。",
+    "Philippe Erlanger — Moïse de Camondo 的甥孙， Palais Royal 艺术交流主管；把三箱珍本书与萨克森瓷像托付 Musées nationaux。",
+    "Carle Dreyfus — 卢浮宫策展人，Moïse 与 Cahen d’Anvers 家旧友；1939 年 4 月起经手藏家寄存安排。",
+    "Emil Bührle — 瑞士德裔工业家、纳粹军火商；与拍卖师 Theodor Fischer 密约合购梵高自画像，败拍后致函抱怨；Fischer 当初向纳粹提出这场拍卖的构想。",
+    "Maurice Wertheim — 纽约犹太银行家；其代理人以 175,000 法郎拍得该自画像。",
+    "Josse 与 Gaston Bernheim-Jeune — 波埃提街犹太画商兄弟，把〈粉与蓝〉（雷诺阿画 Irène 的姐妹 Alice 与 Élisabeth）送往旧金山；其 1944 年藏于城堡的最佳画作仍被 SS 劫走。",
+    "Alice 与 Élisabeth — Irène 的姐妹，〈粉与蓝〉画中人物。",
+    "Germain Bazin — 卢浮宫策展人，参与文物疏散；信件用反犹蔑称 youtres，上司为绘画部策展人 René Huyghe；未记录对被劫反应。",
+    "Jacques Jaujard — 法国国家博物馆负责人；1941-07-04 备忘录指示 Chambord 员工；斥扣押为「现代海盗」；其下属为 Chambord 驻地负责人 Pierre Schommer（1973 年死前焚日记）。",
+    "Dr. Solne — 1941-07-07 当天 ERR 行动领队，以「绝对命令」提走 16 箱。",
+    "Rose Valland — Jeu de Paume 技术主管、铁匠之女；假装不懂德语，速记追踪进出、抄借底片、翻废纸篓，记下肖像「将归某人收藏」。",
+    "Hermann Göring — 1940-07-05 指令 ERR 开始查抄「被弃」犹太艺术收藏。",
+    "Édouard de Rothschild — 首批大规模查抄对象（圣弗洛朗坦街 2 号宅邸）；罗斯柴尔德家与 Cahen d’Anvers 家有姻亲。",
+    "Philippe Pétain — 贡比涅停战后在维希建威权政府，废共和国、通德、颁反犹法。",
+    "Lucie Mazauric — 卢浮宫档案管理员，1939 年入驻 Chambord，称疏散工作为「我们的鸦片」。",
+    "Joseph Goebbels — 希特勒宣传部长，日记称这些作品是「wertloser Plunder」（ worthless junk）但可获利。",
+    "Vincent van Gogh — 其自画像即 1939 年 6 月卢塞恩拍卖的争夺对象；雷诺阿 — 〈伊蕾娜像〉〈粉与蓝〉的作者，1941 年 2 月百年诞辰回顾展在利摩日与巴黎开幕。"
+  ],
+  "numbers": [
+    "June 1939 to August 1941",
+    "sale of 125 paintings and sculptures stripped suddenly in the summer of 1937",
+    "culled from 7,000 works confiscated from 32 German museums across the Rhine",
+    "his cold gray 20 mm cannons",
+    "a maximum of 150,000 Swiss francs—about $750,000 in today’s dollars",
+    "Bührle listened to the bids rise: 145,000. 150,000. 165,000. He raised his hand at 170,000.",
+    "the highest price of the day at 175,000 francs, or about $875,000 in today’s dollars",
+    "the auction raised only 570,094 Swiss francs—about $3 million in today’s dollars",
+    "By then Irène was sixty-six.",
+    "10 rue Galilée in the 16th arrondissement",
+    "Léon Reinach, forty-six",
+    "In the end it all fit into a wooden crate. Eleven works.",
+    "In January 1939, he had started investing in forest plantations in the Ivory Coast",
+    "By April 1939, the Louvre had a plan.",
+    "in a clandestine operation of gravediggers and undertakers in 1919",
+    "October 16, 1939, Léon sent Irène’s portrait by special transport to the national museums.",
+    "eighty-six paintings would remain in the United States, including Pink and Blue",
+    "the Bernheims’ artworks were eventually looted in 1944",
+    "loaded five trucks with the plunder",
+    "In 1938, the museum packed fifty-five trucks up with art",
+    "evacuation in February 1939 of the Prado museum’s artworks to Geneva, Switzerland",
+    "By August 1939, they were packing up more items",
+    "The Mona Lisa was moved in secrecy six times.",
+    "more than three hundred mythical sculpted salamanders",
+    "eleven castles in the Loire Valley and western France",
+    "In June 1940, the armistice was signed between France and Germany in the forest of Compiègne",
+    "Germany had once surrendered to France in 1918",
+    "By 1940, there were roughly three hundred thousand Jews in France, a country of forty-three million.",
+    "Some ninety thousand traced their presence back through generations",
+    "Another sixty thousand had been made French more recently",
+    "On July 22, 1940, the state ordered a review of every naturalization granted since 1927.",
+    "it revoked the citizenship of roughly six thousand Jews and left them stateless",
+    "On July 5, 1940, Hermann Göring directed a task force",
+    "2 rue Saint-Florentin",
+    "by March 1941, newspapers were denying the looting",
+    "By February 1941, the silence had a pattern.",
+    "For sixty years, that portrait—the child with copper hair and a distant gaze—had appeared in every major Renoir retrospective.",
+    "In May 1941, emboldened bureaucrats from Berlin demanded objects",
+    "carried off more than six hundred objects",
+    "more than two hundred cartoons from the Western Front",
+    "In a July 4, 1941, memo, Jacques Jaujard, head of the French national museums",
+    "On the German list of eight Jewish private owners",
+    "Then came July 7, 1941.",
+    "seized sixteen crates",
+    "the ERR delivered 243 crates of stolen artworks from the Chambord castle to the train station at Gare du Nord in Paris",
+    "six months after it was stolen",
+    "all five-foot-nine inches of her",
+    "Four thousand crates. Twenty thousand works.",
+    "In August 1941, he turned to the weapon dear to his family of intellectuals",
+    "beside his three pianos, and wrote. Two pages.",
+    "a few months before he died in 1935",
+    "moved into the Chambord castle in 1939",
+    "he burned his most telling diaries before he died in 1973"
+  ]
+}

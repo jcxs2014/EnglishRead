@@ -1,0 +1,357 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "fact": "Irène, aged sixty-nine and alone, lived hidden and discreetly in a small flat at 75 rue de la Tour, in the same chic 16th arrondissement she had always known.",
+      "start": 1929,
+      "end": 2046,
+      "quote": "Irène was living discreetly in the same arrondissement—in a small flat at 75 rue de la Tour. Alone at age sixty-nine."
+    },
+    {
+      "fact": "Per her granddaughter Lorraine, Irène survived by hiding under her late second husband's Italian surname Sampieri, so no one in her building suspected she was a Jew.",
+      "start": 3411,
+      "end": 3513,
+      "quote": "She believed that Irène saved her life by using her late second husband’s Italian last name, Sampieri."
+    },
+    {
+      "fact": "For help she did not turn to high-level ministers the way her son-in-law did; she used a dodgy political fixer, Georges Prade (nicknamed 'Yo Yo'), who knew which doors to knock on.",
+      "start": 6777,
+      "end": 6998,
+      "quote": "She did not turn for formal help to high-level ministers, the way her son-in-law did, with his connections and his stiff, formal letters. She had a dodgy political fixer named Georges Prade who knew the doors to knock on."
+    },
+    {
+      "fact": "In September 1941 Prade wrote to Xavier Vallat asking that the annual pension be allowed to flow from daughter Béatrice to Irène; within about a week Vallat's financial section found a loophole and approved it, labelling the payment a repayment of an old debt.",
+      "start": 10246,
+      "end": 10411,
+      "quote": "To circumvent that system, in September 1941 Prade intervened, writing a letter to Xavier Vallat asking him to allow the pension to flow from Béatrice to her mother."
+    },
+    {
+      "fact": "Irène was granted an 'Aryan' certificate declaring her 'Ne doit pas être regardé comme juif' — a fiction everyone knew, since all four of her grandparents were Jewish and her mother Louise had never converted.",
+      "start": 13092,
+      "end": 13276,
+      "quote": "The certificate said it plainly: “Ne doit pas être regardé comme juif”—“Must not be considered a Jew.” It was a fiction, and everyone knew it. All four of her grandparents were Jewish."
+    },
+    {
+      "fact": "In the early hours of October 3 seven synagogues were bombed with dynamite (six damaged), including rue de la Victoire where Irène had married and mourned her son; the shift from legal exclusion to open terror, executed by French agents under Gestapo chief Helmut Knochen.",
+      "start": 15241,
+      "end": 15424,
+      "quote": "In the hours between one and five in the morning on October 3, seven synagogues were targeted with bombs. Dynamite was planted at the doorways, and six of the synagogues were damaged."
+    },
+    {
+      "fact": "Irène's younger brother Charles was conned by the pseudo-attaché forger André Barrié, who sold him a fake 'honorary Aryan' certificate — they settled the price at 3 million francs — and Charles learned at Vichy's Service des informations that the signature was fake.",
+      "start": 17609,
+      "end": 17725,
+      "quote": "They dickered over the price of 10 million francs and settled on 3 million francs, worth roughly $1.3 million today."
+    },
+    {
+      "fact": "After the con Charles fled to the free zone with his son-in-law Armand de Dampierre, buying a modest château in the Gers in June 1941 and turning it into a Resistance safehouse with a British B2 radio transmitter.",
+      "start": 18657,
+      "end": 18812,
+      "quote": "Charles didn’t pause. He managed to flee to the free zone with his son-in-law, Count Armand de Dampierre, and bought a modest château in Gers in June 1941."
+    }
+  ],
+  "relationships": [
+    {
+      "relationship": "Irène — Charles: younger brother, also chasing an Aryan certificate",
+      "start": 16977,
+      "end": 17033,
+      "quote": "Her younger brother Charles was also chasing a document."
+    },
+    {
+      "relationship": "Irène — Béatrice: daughter, source of Irène's annual pension",
+      "start": 9587,
+      "end": 9633,
+      "quote": "annual contribution from her daughter Béatrice"
+    },
+    {
+      "relationship": "Irène — Nissim: son, 'her aviator hero who gave his life for France'; memorial held at rue de la Victoire synagogue",
+      "start": 16113,
+      "end": 16190,
+      "quote": "a memorial for Nissim, her son, her aviator hero who gave his life for France"
+    },
+    {
+      "relationship": "Irène — Lorraine Dubonnet: granddaughter, author of the unpublished memoir",
+      "start": 3294,
+      "end": 3410,
+      "quote": "Lorraine Dubonnet, her granddaughter, recalled her retreat vividly in her own unpublished memoir written in English."
+    },
+    {
+      "relationship": "Irène — André Dubonnet: wealthy former son-in-law, the liquor heir",
+      "start": 7411,
+      "end": 7476,
+      "quote": "Irène’s wealthy former son-in-law André Dubonnet, the liquor heir"
+    },
+    {
+      "relationship": "Irène — Sampieri: late second husband, whose Italian surname she hid under",
+      "start": 16831,
+      "end": 16873,
+      "quote": "Irène Cahen d’Anvers’s late second husband"
+    },
+    {
+      "relationship": "Irène — Louise: mother, who never converted",
+      "start": 13277,
+      "end": 13317,
+      "quote": "Her mother, Louise, had never converted."
+    },
+    {
+      "relationship": "Irène — Xavier Vallat: head of the Commissariat-General for Jewish Affairs, whose favour she sought",
+      "start": 9266,
+      "end": 9352,
+      "quote": "the intervention of Xavier Vallat, head of the Commissariat-General for Jewish Affairs"
+    },
+    {
+      "relationship": "Prade — Hans Jürgen Soehring: his vital Wehrmacht-officer social-broker connection",
+      "start": 7478,
+      "end": 7600,
+      "quote": "Prade’s vital connection was Hans Jürgen Soehring, a Wehrmacht officer who functioned as a social broker in occupied Paris"
+    },
+    {
+      "relationship": "Charles — Armand de Dampierre: son-in-law, the Catholic front for the château",
+      "start": 18679,
+      "end": 18761,
+      "quote": "He managed to flee to the free zone with his son-in-law, Count Armand de Dampierre"
+    },
+    {
+      "relationship": "Charles — Colette: daughter, who sold jewels to fund the château and joined the Resistance",
+      "start": 19098,
+      "end": 19213,
+      "quote": "The money came from Charles’s daughter Colette, who sold her jewels in 1940 for 1 million francs to fund the manor."
+    },
+    {
+      "relationship": "Charles — Gilbert Cahen d'Anvers: son, later memoirist",
+      "start": 19769,
+      "end": 19820,
+      "quote": "Charles’s son, Gilbert Cahen d’Anvers, wrote later,"
+    },
+    {
+      "relationship": "André Barrié — Charles: forger/pseudo-attaché who conned him",
+      "start": 17328,
+      "end": 17442,
+      "quote": "a man named André Barrié, the kind who appeared precisely when things fell apart and posed as a government attaché"
+    },
+    {
+      "relationship": "Helmut Knochen: young Gestapo chief of Paris who ordered the synagogue bombings",
+      "start": 16419,
+      "end": 16515,
+      "quote": "the work of French agents acting on orders from Helmut Knochen, the young Gestapo chief of Paris"
+    }
+  ],
+  "numbers": [
+    {
+      "item": "Chapter span 1941–1942",
+      "start": 63,
+      "end": 75,
+      "quote": "1941 to 1942"
+    },
+    {
+      "item": "Irène's age in hiding",
+      "start": 2022,
+      "end": 2046,
+      "quote": "Alone at age sixty-nine."
+    },
+    {
+      "item": "Years hidden on rue de la Tour",
+      "start": 3543,
+      "end": 3560,
+      "quote": "from 1941 to 1944"
+    },
+    {
+      "item": "Distance from Nazi core: walk to Arc de Triomphe/Avenue Foch",
+      "start": 1359,
+      "end": 1428,
+      "quote": "no more than a ten-minute walk to the Arc de Triomphe and Avenue Foch"
+    },
+    {
+      "item": "Official home owned until",
+      "start": 2961,
+      "end": 2990,
+      "quote": "property she owned until 1963"
+    },
+    {
+      "item": "Year Irène converted to Catholicism / years elapsed",
+      "start": 13001,
+      "end": 13058,
+      "quote": "converted to Catholicism in 1899, forty-two years earlier"
+    },
+    {
+      "item": "Year mother Louise died",
+      "start": 13322,
+      "end": 13346,
+      "quote": "when Louise died in 1926"
+    },
+    {
+      "item": "Prade's wedding year / perfume heiress",
+      "start": 8110,
+      "end": 8150,
+      "quote": "In 1932, he wed a Rigaud perfume heiress"
+    },
+    {
+      "item": "Chambrun diary entry date",
+      "start": 7753,
+      "end": 7795,
+      "quote": "Josée de Chambrun noted on March 29, 1941."
+    },
+    {
+      "item": "Annual pension from Béatrice + today's value",
+      "start": 9584,
+      "end": 9687,
+      "quote": "an annual contribution from her daughter Béatrice of 40,000 francs, or about $17,000 in today’s dollars"
+    },
+    {
+      "item": "Ordinance freezing Jewish accounts",
+      "start": 9751,
+      "end": 9816,
+      "quote": "Jewish accounts were frozen through an August 24, 1941, ordinance"
+    },
+    {
+      "item": "Prade's letter month/year",
+      "start": 10273,
+      "end": 10307,
+      "quote": "in September 1941 Prade intervened"
+    },
+    {
+      "item": "Certificates of Non-Belonging issued",
+      "start": 11160,
+      "end": 11237,
+      "quote": "more than eleven thousand “Certificates of Non-Belonging to the Jewish Race.”"
+    },
+    {
+      "item": "Racial-law threshold",
+      "start": 11751,
+      "end": 11796,
+      "quote": "Three Jewish grandparents and you were a Jew."
+    },
+    {
+      "item": "Vallat's weighing quote month",
+      "start": 11316,
+      "end": 11383,
+      "quote": "It was February 1942 when Vallat explained how he weighed decisions"
+    },
+    {
+      "item": "Irène's certificate date",
+      "start": 13886,
+      "end": 13926,
+      "quote": "Her certificate was dated July 27, 1941."
+    },
+    {
+      "item": "Propaganda exhibition opening",
+      "start": 14222,
+      "end": 14262,
+      "quote": "On September 5, 1941, the Palais Berlitz"
+    },
+    {
+      "item": "Exhibition attendance / run",
+      "start": 14537,
+      "end": 14591,
+      "quote": "Two hundred thousand people showed up over four months"
+    },
+    {
+      "item": "Synagogues targeted / damaged",
+      "start": 15304,
+      "end": 15424,
+      "quote": "seven synagogues were targeted with bombs. Dynamite was planted at the doorways, and six of the synagogues were damaged."
+    },
+    {
+      "item": "Irène's flat distance to rue Copernic synagogue",
+      "start": 15670,
+      "end": 15735,
+      "quote": "Her flat was less than a mile from the synagogue on rue Copernic."
+    },
+    {
+      "item": "Distance to Montespan synagogue",
+      "start": 15736,
+      "end": 15790,
+      "quote": "Eleven minutes west of another synagogue on Montespan."
+    },
+    {
+      "item": "Prix Charles-Sampieri still running",
+      "start": 16718,
+      "end": 16809,
+      "quote": "In December 1941, the Prix Charles-Sampieri was being run on the tracks of the Côte d’Azur."
+    },
+    {
+      "item": "Charles's age / restless",
+      "start": 17163,
+      "end": 17232,
+      "quote": "By the spring of 1941 he was sixty-two, restless, looking for an exit"
+    },
+    {
+      "item": "Barrié deal: initial ask vs settled price",
+      "start": 17609,
+      "end": 17725,
+      "quote": "They dickered over the price of 10 million francs and settled on 3 million francs, worth roughly $1.3 million today."
+    },
+    {
+      "item": "Cash handed over",
+      "start": 17953,
+      "end": 18010,
+      "quote": "Charles handed him 5,000-franc notes folded into a napkin"
+    },
+    {
+      "item": "Driver's suitcase / getaway catch",
+      "start": 18560,
+      "end": 18605,
+      "quote": "a suitcase already packed with 600,000 francs"
+    },
+    {
+      "item": "Charles bought Gers château",
+      "start": 18767,
+      "end": 18812,
+      "quote": "bought a modest château in Gers in June 1941."
+    },
+    {
+      "item": "Château deed price + today's value",
+      "start": 19000,
+      "end": 19096,
+      "quote": "the Catholic front or straw man for 770,000 francs in cash, or about $330,000 in today’s dollars"
+    },
+    {
+      "item": "Colette's jewels sale",
+      "start": 19150,
+      "end": 19212,
+      "quote": "sold her jewels in 1940 for 1 million francs to fund the manor"
+    },
+    {
+      "item": "Castle distance from Spanish border",
+      "start": 19587,
+      "end": 19650,
+      "quote": "about sixty-five miles from the Pyrenees and the Spanish border"
+    },
+    {
+      "item": "Colette & husband arrested by Gestapo",
+      "start": 19331,
+      "end": 19435,
+      "quote": "the Gestapo arrested both Colette and her husband in December 1941 for engaging in Resistance activities"
+    },
+    {
+      "item": "Radio use until end",
+      "start": 19894,
+      "end": 19930,
+      "quote": "used the radio until the end of 1944"
+    },
+    {
+      "item": "Cryptic guest-registry entry",
+      "start": 20662,
+      "end": 20703,
+      "quote": "One entry, dated July 15, 1942, read only"
+    },
+    {
+      "item": "Barrié found dead, date/location",
+      "start": 21616,
+      "end": 21686,
+      "quote": "found in a hotel room in Agay on July 17, 1942, in the south of France"
+    },
+    {
+      "item": "Barrié's money box / today's value",
+      "start": 21709,
+      "end": 21787,
+      "quote": "a box of money by his side—950,000 francs, or about $400,000 in modern dollars"
+    },
+    {
+      "item": "Vallat's trial for collaboration",
+      "start": 12296,
+      "end": 12352,
+      "quote": "when Vallat was tried for collaboration in December 1947"
+    }
+  ]
+}

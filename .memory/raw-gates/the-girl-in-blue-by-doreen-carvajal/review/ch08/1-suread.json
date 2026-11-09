@@ -1,0 +1,315 @@
+{
+  "chapter": "ch08",
+  "source": "text/ch08_chapter_7_the_letter.txt",
+  "total_chars": 14691,
+  "facts": [
+    {
+      "fact": "1941 年 8 月 5 日，博物馆官员用一句十八世纪式的官僚开场白通知莱昂·雷纳克：伊蕾娜的那幅肖像画已被德国人劫走，并写明他们「取走了属于你的那只木箱」；信未署名，只有一套冒充同情的官腔。",
+      "start": 200,
+      "end": 417,
+      "quote": "It was also how museum officials informed him on August 5, 1941, that the portrait of Irène had been stolen: J’ai l’honneur. They proceeded to inform Léon that they “took possession of the crate that belonged to you.”"
+    },
+    {
+      "fact": "1941 年 8 月 10 日，莱昂把抗议信打字成文、寄给夹在合作与抵抗之间的雅克·若雅尔；那年其他犹太收藏家也同样写信，仍相信法兰西国家会保护他们——文中把这些「写信而不逃、上诉而不藏」称为小而致命的决定。",
+      "start": 1520,
+      "end": 1692,
+      "quote": "On August 10, 1941, Léon typed his response, a protest addressed to Jacques Jaujard, the man caught between collaboration and resistance, between silence and recordkeeping."
+    },
+    {
+      "fact": "莱昂动用一生经营的巴黎人脉，请国家博物馆负责人、维希教育部长热罗姆·卡尔科皮诺出面；亲友们一波接一波寄信，他列出家族献给法国国家的捐赠清单（父亲泰奥多尔的凯里洛斯别墅、马奈《笛手》、蒙梭街宅邸），只求一个「归还的姿态」。",
+      "start": 2551,
+      "end": 2885,
+      "quote": "Léon enlisted the aid of the head of France’s national museums, Jérôme Carcopino, the Vichy minister of education, a man still fluent in the codes of the old world. They sent letters in waves, echoing Léon’s original plea: His relatives and broader family had given generously to the French state. Return the single vanished portrait."
+    },
+    {
+      "fact": "对莱昂请求最终拍板的是犹太人问题总专员格扎维埃·瓦拉：49 岁、四个月前才由维希任命、迅速显露为狂热反犹者，也是迫害机器的有条理的组织者；1941 年加斯东·诺拉与罗伯特·德布雷为他说理安排的私人会面毫无结果（德布雷：「既无心，也无脑」），战后他在解放后的高等法院受审时仍不悔改。",
+      "start": 4246,
+      "end": 4614,
+      "quote": "The man who ultimately made the decision about Léon’s plea for the Renoir portrait was Xavier Vallat, head of the Commissariat-General for Jewish Affairs. At age forty-nine, he had been appointed by the Vichy government just four months earlier and quickly emerged as an antisemitic fanatic. He also proved to be a methodical organizer of the machinery of persecution."
+    },
+    {
+      "fact": "尚博尔城堡艺术品被劫之后，瓦拉与其他维希官员批评德国人，但动机不是同情物主：他要的是由法国人自己动手、为法国国家利益的剥夺，抗议 ERR 查封只因那抢走了维希自称的主权与占有这些作品的机会。",
+      "start": 6406,
+      "end": 6716,
+      "quote": "In 1941, Vallat supported the dispossession of Jews but wanted it carried out by French hands for the French state’s benefit. He protested the ERR’s seizures of Jewish-owned art not out of solidarity with the owners, but because it robbed Vichy of its claimed sovereignty and the chance to possess those works."
+    },
+    {
+      "fact": "家人各自作出选择：伊丽莎白（时年 66 岁）躲进长期司机夫妇的乡下小屋，夏尔寻找通往西南未占领区的路线，1940 年外甥吉尔贝以缝纫机商人身份赴智利侦察德国侨民；苏珊娜（56 岁）在两名德国军官上门时从猫眼认出盖世太保、套上女仆围裙谎称伯爵夫人刚走，随后不等对方回访便转入地下、躲到塞纳河畔讷伊一家无名旅馆，那年夏天德国人占了她的公寓，只有她的律师知道她的去向；而贝阿特丽斯与伊蕾娜留下。",
+      "start": 6969,
+      "end": 7432,
+      "quote": "SOME MEMBERS OF THE Cahen d’Anvers family had already fled, such as Irène’s sister Élisabeth, then sixty-six, who sought refuge in the country cottage of her longtime chauffeur and his wife. Irène’s brother Charles started searching for an escape route to unoccupied France in the southwest. In 1940, Gilbert Cahen d’Anvers, Irène’s nephew, left for Chile to pose as a sewing machine merchant to spy on German expatriates, who had settled in large colonies there."
+    },
+    {
+      "fact": "法国官僚安德烈·图拉尔做得比纳粹要求的更远，建立了标示姓名、住址、职业、国籍的四色「犹太人档案」，塞纳省共 85,664 条法国犹太人、64,070 条外国犹太人条目；这套档案被其他占领区奉为范本，成为抓捕行动中高效的人员来源，伊蕾娜的妹妹伊丽莎白到当地警察署报到，名单随后坐实职业禁令、监视与驱逐。",
+      "start": 10957,
+      "end": 11389,
+      "quote": "the French bureaucrat André Tulard pushed much further and established a four-color “fichier des juifs” denoting names, addresses, professions, and nationalities. It amassed 85,664 entries for French Jews and 64,070 for foreign Jews for the department of the Seine. The color-coded French fichier so impressed the Nazis that it became the standard in other occupied nations. It was an efficient source for rounding up Jews in raids."
+    },
+    {
+      "fact": "1941 年 8 月 27 日，卡尔科皮诺以一份一页纸条把莱昂的请求压给瓦拉，并点明家族（含泰奥多尔捐出的凯里洛斯别墅）对法国的慷慨；瓦拉几乎没有斟酌，只在页边写下唯一的一个字——Non，这一笔成了对一只画框之外整个家族忠诚史的判决与抹除。",
+      "start": 14342,
+      "end": 14415,
+      "quote": "Vallat did not deliberate long. He wrote only one word in the margin—Non."
+    }
+  ],
+  "relationships": [
+    {
+      "relationship": "Léon Reinach ↔ Irène Cahen d’Anvers",
+      "note": "夫妻：莱昂信中称「我妻子」，且提到她父亲（伊蕾娜之父）的遗产；他为一幅曾挂在自己家中的雷诺阿肖像奔走——Portrait of Irène 即伊蕾娜。"
+    },
+    {
+      "relationship": "Léon Reinach ↔ Théodore Reinach",
+      "note": "父子：泰奥多尔是古希腊学者、凯里洛斯别墅的建造者，别墅捐给国家。"
+    },
+    {
+      "relationship": "Irène ↔ Béatrice",
+      "note": "母女：贝阿特丽斯与伊蕾娜一同留在法国；贝阿特丽斯 1940 年 7 月从夏居帕塔拉斯别墅写信给朋友描述德国兵。"
+    },
+    {
+      "relationship": "Irène ↔ Élisabeth / Charles",
+      "note": "兄妹/姐妹：伊丽莎白是伊蕾娜的妹妹（66 岁，躲进司机小屋，后到警察署报到）；夏尔是伊蕾娜的兄弟（寻路去未占领区）。"
+    },
+    {
+      "relationship": "Irène ↔ Gilbert Cahen d’Anvers",
+      "note": "姨甥：吉尔贝是伊蕾娜的外甥，1940 年伪装成缝纫机商人去智利从事情报。"
+    },
+    {
+      "relationship": "Suzanne Cahen d’Anvers ↔ Irène / Gilbert",
+      "note": "姑嫂与母子：苏珊娜（56 岁）是伊蕾娜的嫂子，Gilbert 的母亲；其子 Gilbert 讲述她在猫眼里看到盖世太保。"
+    },
+    {
+      "relationship": "Léon ↔ Jacques Jaujard",
+      "note": "申诉对象：莱昂 8 月 10 日的抗议信写给若雅尔，文中称他夹在合作与抵抗、沉默与记录之间。"
+    },
+    {
+      "relationship": "Léon ↔ Jérôme Carcopino",
+      "note": "施压渠道：卡尔科皮诺是法国国家博物馆负责人、维希教育部长、古罗马史家，认识莱昂之父泰奥多尔（同为铭文与美文科学院成员），8 月 27 日代为递呈。"
+    },
+    {
+      "relationship": "Carcopino ↔ Théodore Reinach",
+      "note": "同代法国古典学者，同属铭文与美文科学院。"
+    },
+    {
+      "relationship": "Xavier Vallat ↔ 犹太医生 / Gaston Nora / Robert Debré",
+      "note": "恩人与请托者：1918 年一位犹太医生救过瓦拉的命；1941 年那位外科医生诺拉与德布雷当面劝他，毫无结果。"
+    },
+    {
+      "relationship": "Vallat ↔ Léon 的请求",
+      "note": "裁决者：整个雷诺阿画像归还案的最终决定权在瓦拉手上，他以页边一字「Non」否决。"
+    },
+    {
+      "relationship": "Moïse de Camondo / Isaac de Camondo ↔ 家族",
+      "note": "堂亲与捐赠先例：伊萨克·德·卡蒙多旧居的藏品（含马奈《笛手》）今在卢浮宫；莫伊泽·德·卡蒙多把蒙梭街宅邸捐给国家。"
+    },
+    {
+      "relationship": "Philippe Erlanger ↔ 卡蒙多家",
+      "note": "远房堂亲，回忆报到登记的屈辱（随身带毒瓶）。"
+    },
+    {
+      "relationship": "Guy de Rothschild ↔ 伊蕾娜的圈层",
+      "note": "同为特权阶层，战后解释他们为何不立刻出走。"
+    },
+    {
+      "relationship": "André Tulard ↔ 迫害机器",
+      "note": "法国官僚，建立四色犹太人档案，成为搜捕的高效名单来源。"
+    },
+    {
+      "relationship": "伊蕾娜 ↔ 留在巴黎的犹太老人",
+      "note": "1941 年 69 岁的她属于巴黎约 10% 的高龄少数；她的父母曾为避普法战争逃往伦敦、一战时避往诺福克。"
+    }
+  ],
+  "numbers": [
+    {
+      "number": "Summer of 1941",
+      "start": 55,
+      "end": 69,
+      "context": "章节起始的时间标签"
+    },
+    {
+      "number": "a stilted eighteenth-century French phrase",
+      "start": 107,
+      "end": 149,
+      "context": "官僚式开场白（J’ai l’honneur）所属世纪"
+    },
+    {
+      "number": "August 5, 1941",
+      "start": 249,
+      "end": 263,
+      "context": "博物馆官员通知画像被劫的日期"
+    },
+    {
+      "number": "August 10, 1941",
+      "start": 1523,
+      "end": 1538,
+      "context": "莱昂打字提出抗议的日期"
+    },
+    {
+      "number": "August 27, 1941",
+      "start": 13627,
+      "end": 13642,
+      "context": "卡尔科皮诺一页纸条递交瓦拉的日期"
+    },
+    {
+      "number": "At age forty-nine",
+      "start": 4401,
+      "end": 4418,
+      "context": "瓦拉被任命时的年龄"
+    },
+    {
+      "number": "just four months earlier",
+      "start": 4466,
+      "end": 4490,
+      "context": "瓦拉上任距通知的时间"
+    },
+    {
+      "number": "saved his life in 1918",
+      "start": 4912,
+      "end": 4934,
+      "context": "救瓦拉命的犹太医生事件年份"
+    },
+    {
+      "number": "After 1918, Allied intelligence remained suspicious",
+      "start": 7569,
+      "end": 7620,
+      "context": "一战后盟军情报对德国侨民社区的持续怀疑"
+    },
+    {
+      "number": "In the First World War, German naval raiders",
+      "start": 7433,
+      "end": 7477,
+      "context": "南美补给与同情者的历史背景"
+    },
+    {
+      "number": "then sixty-six",
+      "start": 7063,
+      "end": 7077,
+      "context": "伊丽莎白出逃时的年龄"
+    },
+    {
+      "number": "In 1940, Gilbert Cahen d’Anvers",
+      "start": 7261,
+      "end": 7292,
+      "context": "吉尔贝前往智利的年份"
+    },
+    {
+      "number": "before she was born to escape the Franco-Prussian War",
+      "start": 7819,
+      "end": 7872,
+      "context": "伊蕾娜父母逃往伦敦"
+    },
+    {
+      "number": "for several months during World War I",
+      "start": 7914,
+      "end": 7951,
+      "context": "父母曾避居英格兰诺福克数月"
+    },
+    {
+      "number": "In 1941, at the age of sixty-nine",
+      "start": 8171,
+      "end": 8204,
+      "context": "伊蕾娜的年龄与时点"
+    },
+    {
+      "number": "about 10 percent of the population",
+      "start": 8254,
+      "end": 8288,
+      "context": "巴黎高龄少数占比"
+    },
+    {
+      "number": "Many people did not live past age sixty",
+      "start": 8290,
+      "end": 8329,
+      "context": "按 1936 年普查的寿命"
+    },
+    {
+      "number": "according to the 1936 census, the last before the war",
+      "start": 8331,
+      "end": 8384,
+      "context": "战前最后一次人口普查"
+    },
+    {
+      "number": "Suzanne Cahen d’Anvers, fifty-six",
+      "start": 8411,
+      "end": 8444,
+      "context": "苏珊娜的年龄"
+    },
+    {
+      "number": "even after 1940 when two German officers knocked",
+      "start": 8458,
+      "end": 8506,
+      "context": "两名德国军官上门的年份"
+    },
+    {
+      "number": "her fifth-floor apartment",
+      "start": 8522,
+      "end": 8547,
+      "context": "公寓楼层"
+    },
+    {
+      "number": "17 Place des États-Unis",
+      "start": 8551,
+      "end": 8574,
+      "context": "苏珊娜的地址"
+    },
+    {
+      "number": "in the 16th arrondissement",
+      "start": 8575,
+      "end": 8601,
+      "context": "行政区"
+    },
+    {
+      "number": "a maid’s apron",
+      "start": 8791,
+      "end": 8805,
+      "context": "伪装：女仆围裙"
+    },
+    {
+      "number": "she wrote to a friend in July 1940",
+      "start": 10404,
+      "end": 10438,
+      "context": "贝阿特丽斯描述德国兵的书信日期"
+    },
+    {
+      "number": "a four-color",
+      "start": 11028,
+      "end": 11040,
+      "context": "图拉尔档案的颜色分类数"
+    },
+    {
+      "number": "85,664 entries for French Jews",
+      "start": 11131,
+      "end": 11161,
+      "context": "塞纳省法国犹太人条目数"
+    },
+    {
+      "number": "64,070 for foreign Jews",
+      "start": 11166,
+      "end": 11189,
+      "context": "塞纳省外国犹太人条目数"
+    },
+    {
+      "number": "with a one-page note",
+      "start": 13768,
+      "end": 13788,
+      "context": "卡尔科皮诺递呈的篇幅"
+    },
+    {
+      "number": "He wrote only one word in the margin",
+      "start": 14374,
+      "end": 14410,
+      "context": "瓦拉批注的字数：Non"
+    },
+    {
+      "number": "charged their Jewish victims for the moving costs",
+      "start": 12375,
+      "end": 12424,
+      "context": "维希向物主收取搬迁费用"
+    },
+    {
+      "number": "almost eighty years",
+      "start": 13422,
+      "end": 13441,
+      "context": "卡昂多维尔后裔取到「托管」款项所需时间"
+    }
+  ]
+}
