@@ -1,0 +1,67 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch20",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch20_chapter_twenty_the_nova.txt",
+ "facts": [
+  {
+   "fact": "墓地里她穿着丧服，天气酷热，她讥讽这种衣服是给闲坐的寡妇穿的。",
+   "anchor": "built for wallowing widows",
+   "start": 958,
+   "end": 984
+  },
+  {
+   "fact": "婆婆在葬礼后向她索要经济支持，她拒绝。",
+   "anchor": "I paid for the funeral",
+   "start": 1326,
+   "end": 1348
+  },
+  {
+   "fact": "墓碑上已经刻了她的名字与生年，是双人墓。",
+   "anchor": "Lucia Nina Collesano-Fairfax",
+   "start": 3571,
+   "end": 3599
+  },
+  {
+   "fact": "Altair 出现在墓地，她谎称他是旧国的表亲。",
+   "anchor": "you are my cousin",
+   "start": 5374,
+   "end": 5391
+  },
+  {
+   "fact": "它说反讽是通用的。",
+   "anchor": "Irony is universal",
+   "start": 5777,
+   "end": 5795
+  },
+  {
+   "fact": "它说若不是它，她早被吞掉。",
+   "anchor": "swallowed whole",
+   "start": 6691,
+   "end": 6706
+  },
+  {
+   "fact": "它说自己非善非恶。",
+   "anchor": "neither good nor evil",
+   "start": 10333,
+   "end": 10354
+  },
+  {
+   "fact": "她用弹簧刀抵住它大腿，说那是股动脉。",
+   "anchor": "femoral artery",
+   "start": 12252,
+   "end": 12266
+  },
+  {
+   "fact": "它说宇宙法则没有时钟。",
+   "anchor": "have no clock",
+   "start": 12983,
+   "end": 12996
+  },
+  {
+   "fact": "它问她是否想当它的猎物，她溜走。",
+   "anchor": "To be my prey?",
+   "start": 13676,
+   "end": 13690
+  }
+ ]
+}
