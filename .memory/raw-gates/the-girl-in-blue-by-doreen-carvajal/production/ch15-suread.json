@@ -1,0 +1,55 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch15",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch15_chapter_14_the_missing.txt",
+ "facts": [
+  {
+   "fact": "1945 年 5 月 31 日清晨，寻人启事出现在 Paris-Presse 与 France-Soir 两报后页，呼吁 Auschwitz 归返者提供 Béatrice Reinach 的任何消息",
+   "anchor": "ON THE MORNING OF May 31, 1945, a notice appeared in Paris-Presse and France-Soir",
+   "start": 66,
+   "end": 147
+  },
+  {
+   "fact": "署名下启事地址与电话（Countess Sampieri）属于 Irène Cahen d’Anvers，她在寻找 69 岁、下落不明的妹妹 Élisabeth",
+   "anchor": "The number belonged to Irène Cahen d’Anvers. The message asked for information about her younger sister Élisabeth—“Elisa Betty”—aged sixty-nine, missing",
+   "start": 649,
+   "end": 801
+  },
+  {
+   "fact": "1944 年 2 月 7 日，71 岁的 Irène 亲赴警察总部为妹妹求情，既恳求也撒谎：坚称妹妹不是犹太人、给旧住址、编造莫普尔戈家族的天主教谱系",
+   "anchor": "On February 7, 1944, Irène made her way to the prefecture. She pleaded. She lied.",
+   "start": 8704,
+   "end": 8785
+  },
+  {
+   "fact": "Irène 的呈请变成一份存档备忘录，上面有铅笔字条：“通知德国警察”",
+   "anchor": "Across the memo, frayed and yellow now with brown blotches, is a penciled note in sloping handwriting: “Alert the German police.”",
+   "start": 9665,
+   "end": 9794
+  },
+  {
+   "fact": "Béatrice 1944 年 3 月 7 日乘 Convoy 69 先被驱逐；Élisabeth 二十天后（3 月 27 日）跟上，Convoy 70 于 3 月 30 日到 Auschwitz",
+   "anchor": "Béatrice was put on the train first—March 7, 1944, Convoy 69. Then Élisabeth, twenty days later, on March 27.",
+   "start": 10231,
+   "end": 10340
+  },
+  {
+   "fact": "1945 年 4 至 9 月约 16,000 名幸存者经过 Lutetia 大堂；法国被驱逐者总数约 160,000，其中约 48,000 人归返",
+   "anchor": "From April through September 1945, about 16,000 survivors passed through that lobby. Contemporary estimates place the total number of deportees from France at roughly 160,000, of whom about 48,000 were repatriated",
+   "start": 14738,
+   "end": 14951
+  },
+  {
+   "fact": "Germaine Hahn 1946 年 6 月 3 日来信，把 Béatrice 的死亡日期定在 1945 年 1 月 4 日——Auschwitz 开门前 23 天",
+   "anchor": "I think I can fix the date of her death as January 4, 1945",
+   "start": 19674,
+   "end": 19732
+  },
+  {
+   "fact": "1945 年 4 月 19 日夜，劫掠巴黎艺术品主谋 von Behr 在班茨城堡穿红十字会制服、与妻子 Joy 喝掺氰化物的 1918 年份香槟自尽",
+   "anchor": "the baron donned his Red Cross uniform. He poured champagne, vintage 1918—a cruel year of German surrender.",
+   "start": 26988,
+   "end": 27095
+  }
+ ]
+}
