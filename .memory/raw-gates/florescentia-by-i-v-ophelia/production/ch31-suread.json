@@ -1,0 +1,49 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch31",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch31_chapter_thirty_one_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她从巨兽嘴里进入彼界，落进水里。",
+   "anchor": "surrounded by water",
+   "start": 182,
+   "end": 201
+  },
+  {
+   "fact": "天空的月亮像凭记忆做的。",
+   "anchor": "made from memory rather than from reference",
+   "start": 1375,
+   "end": 1418
+  },
+  {
+   "fact": "岸边有羽毛柳树，空气里没有风。",
+   "anchor": "A willow tree of feathers",
+   "start": 1681,
+   "end": 1706
+  },
+  {
+   "fact": "父亲日记被水泡烂，魔法书却干燥。",
+   "anchor": "dry as a bone",
+   "start": 3095,
+   "end": 3108
+  },
+  {
+   "fact": "相机取景器里显出彩色光晕。",
+   "anchor": "Through the lens, I saw full color",
+   "start": 3633,
+   "end": 3667
+  },
+  {
+   "fact": "周围的「花」其实是 Peculiars。",
+   "anchor": "not flowers at all",
+   "start": 3937,
+   "end": 3955
+  },
+  {
+   "fact": "她确认自己到了彼界，但不知往哪走。",
+   "anchor": "Finally, I was on the Otherside",
+   "start": 4431,
+   "end": 4462
+  }
+ ]
+}
