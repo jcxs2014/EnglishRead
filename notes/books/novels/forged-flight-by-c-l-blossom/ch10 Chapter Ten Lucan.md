@@ -57,18 +57,24 @@ modified: "2026-11-09"
 **读者视角提示**：这一段是 Lucan 的单方面想象，Micah 本人毫无察觉。
 
 > **原句 8:** "“I’m a giant. We run hot.”"
-**中文理解**：Micah 推辞围巾时，Lucan 用巨人怕热不怕冷的玩笑打消他的顾虑。
+**中文理解**：Micah 推辞围巾时，铁匠用巨人怕热不怕冷的玩笑打消他的顾虑。
 **关键词**：giant / run hot
-**为什么这样写**：他自述这句并不全真，是为了照顾对方自尊而找的台阶，善意藏在借口里。
+**为什么这样写**：面对推辞先给出一个不容反驳的身份理由，把善意包在一句大话里。
+**读者视角提示**：这句借口半真半假，下一块的自白随即揭底。
+
+> **原句 9:** "It’s not exactly true, but I know he’s too prideful to accept it otherwise."
+**中文理解**：叙述者随即自白：这理由并不全真，只是知道对方自尊强、不这么说就不会接受。
+**关键词**：not exactly true / too prideful / accept it otherwise
+**为什么这样写**：紧贴玩笑补一句内心真相，让体贴与谎言同框，比直白的关心更见两人的相处方式。
 **读者视角提示**：紧接着他就亲手把围巾围上去，不给人拒绝的余地。
 
-> **原句 9:** "Before he can protest again, I step closer and drape the scarf around his shoulders."
+> **原句 10:** "Before he can protest again, I step closer and drape the scarf around his shoulders."
 **中文理解**：Micah 还想推辞，Lucan 上前一步直接把围巾披上他的肩。
 **关键词**：step closer / drape the scarf / shoulders
 **为什么这样写**：动作快过言语，把“照顾你不需要你同意”写成一个身体先行的小型亲密。
 **读者视角提示**：围上之后两人才意识到站得极近，气氛因此一滞。
 
-> **原句 10:** "Together, we continue up the mountain, following Maple through the falling snow."
+> **原句 11:** "Together, we continue up the mountain, following Maple through the falling snow."
 **中文理解**：两人跟在 Maple 身后，冒雪继续向山顶走。
 **关键词**：continue up the mountain / falling snow
 **为什么这样写**：收束在三人同行的画面上，把即将到来的告别暂时搁置在风雪之后。

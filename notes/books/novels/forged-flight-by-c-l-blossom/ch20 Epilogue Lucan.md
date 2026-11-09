@@ -24,7 +24,7 @@ modified: "2026-11-09"
 **中文理解**：国王倒台后，全镇人一起上山，把蘑菇清得一根不剩。
 **关键词**：Everyone pitched in / remove every last mushroom
 **为什么这样写**：救赎被写成集体劳动，与此前全镇受宣传蒙蔽形成对照。
-**读者视角提示**：清理花了数周，不是一朝一夕。
+**读者视角提示**：主语是全镇人而非两位主角——清理在这本书里是集体行动。
 
 > **原句 3:** "Most of them wear prosthetics—each one custom built to fit them."
 **中文理解**：草场上的幼龙大多装上了各自定做的义翅。
@@ -36,7 +36,7 @@ modified: "2026-11-09"
 **中文理解**：哨声之后，Maple 越过树梢飞来，红鳞在阳光下发亮。
 **关键词**：soaring over the trees / ruby-red scales
 **为什么这样写**：以飞行姿态呼应首次试飞的那声哨与培根，重逢的喜悦扑面而来。
-**读者视角提示**：她扑倒两人是亲昵，并非失控坠落。
+**读者视角提示**：这一句只到「飞来」为止，落地的亲昵在随后的段落才发生。
 
 > **原句 5:** "It was difficult to release her months ago, but we both knew it was the right thing to do."
 **中文理解**：Lucan 回望数月前的放归：艰难，却是两人共同认定正确的选择。

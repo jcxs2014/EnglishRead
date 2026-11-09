@@ -39,7 +39,7 @@ modified: "2026-11-09"
 **读者视角提示**：图纸标注在安伯克雷斯特山顶，与 ch04 的滑雪场传言呼应。
 
 > **原句 5:** "“He bought the spores from Amanita. He planted on the mountain. He knew the dragons would eat them because they’re irresistible to them. And when the dragons started getting sick…” His voice catches. “He let it happen.”"
-**中文理解**：两人拼出全链：买孢子、上山种植、坐视龙群中毒——国王知情且放任。
+**中文理解**：Micah 把全链摆上桌：买孢子、上山种植、坐视龙群中毒——国王知情且放任。
 **关键词**：bought the spores / planted on the mountain / let it happen
 **为什么这样写**：以 Micah 的复述把零散证据钉成“蓄意灭龙”的完整指控。
 **读者视角提示**：这是二人基于证据的推断，尚未公开出示。

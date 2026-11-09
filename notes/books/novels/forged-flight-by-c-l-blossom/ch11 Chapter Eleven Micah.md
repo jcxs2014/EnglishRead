@@ -33,7 +33,7 @@ modified: "2026-11-09"
 **读者视角提示**：解开挽具的动作在此时被打断，Maple 并未真的留在这里。
 
 > **原句 4:** "Lucan grabs me around the waist and pulls me behind a nearby bush."
-**中文理解**：尖啸声中，Lucan 拦腰把 Mican 拉进灌木后躲避飞掠的黑龙。
+**中文理解**：尖啸声中，Lucan 拦腰把 Micah 拉进灌木后躲避飞掠的黑龙。
 **关键词**：grabs me around the waist / pulls me behind / bush
 **为什么这样写**：危险以最快的动作呈现，巨人的力量第一次直接用于保护而非展示。
 **读者视角提示**：黑龙只是在树下与同伴聚集进食，并未攻击两人。
