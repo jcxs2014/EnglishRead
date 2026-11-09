@@ -47,7 +47,7 @@ modified: "2026-11-09"
 
 **中文理解**：她说「拜帖」这词老派得过分；他说自己就是个老派男人，抿了口酒——酒色把嘴唇染成深桑葚色，他又舔干净。
 
-**关键词**：calling card / old-fashioned / darkened his lips
+**关键词**：calling card / old-fashioned / darken his lips
 
 **为什么这样写**：calling card 是旧时代的社交仪式物：报身份、求接见、等垂询——他把二十一世纪的视频通话倒装回三百年前的礼数里。「老派」在此是年龄的暗示：一个用旧礼制操作新科技的男人，时间在他身上的走向与常人相反。
 
