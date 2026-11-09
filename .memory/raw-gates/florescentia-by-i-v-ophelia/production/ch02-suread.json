@@ -1,0 +1,85 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch02",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch02_chapter_two_the_nova.txt",
+ "facts": [
+  {
+   "fact": "叙述者名 Lucia。",
+   "anchor": "Yes, my dearest Lucia",
+   "start": 5645,
+   "end": 5666
+  },
+  {
+   "fact": "丈夫 Dorian 为升职要去外地三日。",
+   "anchor": "It’s only three days",
+   "start": 5297,
+   "end": 5317
+  },
+  {
+   "fact": "Dorian 每日比她早起读报，早餐是石榴籽配压榨咖啡。",
+   "anchor": "a plate of pomegranate seeds beside a pressed coffee every morning",
+   "start": 2053,
+   "end": 2119
+  },
+  {
+   "fact": "婚后拮据时 Dorian 用仅有的钱买了浅蓝丝巾，她至今最珍爱。",
+   "anchor": "the light blue silk he’d bought for me on our wedding day",
+   "start": 4799,
+   "end": 4856
+  },
+  {
+   "fact": "她昨夜已用 Otherside 之力让那个天文工程师职位归他。",
+   "anchor": "that position had been his the minute my hand dipped through to the Otherside last night",
+   "start": 7383,
+   "end": 7471
+  },
+  {
+   "fact": "城市 Astraea 之名源自 astēr（星），市民按星辰而活。",
+   "anchor": "The name Astraea was derived from the word astēr",
+   "start": 7564,
+   "end": 7612
+  },
+  {
+   "fact": "Lax Festival 在她所住的 Aisl Park 区举办。",
+   "anchor": "This weekend it was being hosted in my home borough, Aisl Park",
+   "start": 10246,
+   "end": 10308
+  },
+  {
+   "fact": "野外的 Peculiars 以人的情绪能量为食，多数人看不见。",
+   "anchor": "Bigger entities did exist",
+   "start": 12950,
+   "end": 12975
+  },
+  {
+   "fact": "她在 Samuele 的店买 biolight 肥料，自陈专长是成像不是照明。",
+   "anchor": "My expertise is imaging, not lighting",
+   "start": 16351,
+   "end": 16388
+  },
+  {
+   "fact": "Treasury 里没有黄金。",
+   "anchor": "There was no gold in the Treasury",
+   "start": 17608,
+   "end": 17641
+  },
+  {
+   "fact": "弟弟 Maxim 是 Treasury 的 First Keeper，她要他推动专利申请。",
+   "anchor": "First Keeper of the Treasury",
+   "start": 23712,
+   "end": 23740
+  },
+  {
+   "fact": "Maxim 警告：把信徒眼中的神圣说成寻常会招致抵触。",
+   "anchor": "something they consider divine is ordinary",
+   "start": 26685,
+   "end": 26727
+  },
+  {
+   "fact": "父亲病了，Maxim 说她父亲又点名要见她。",
+   "anchor": "Papà asked for you again",
+   "start": 27301,
+   "end": 27325
+  }
+ ]
+}
