@@ -10,7 +10,8 @@ modified: "2026-11-08"
 - **情感弧线位置**：全书终点：她从开场的不敢确信（He loved me.）走到正面说出 I love you, Rabb；Rabb 从 You are my only future 的哀求走到纵身一跃的追随——两个人都在成全对方里完成了自己的弧线，而「Not cold, calculating Eleanor.」这道身份的阴影，被她亲手走完的偿债之路照亮。
 - **Tropes 兑现/反转**：兑现「反派自食其果」——General 抢启不属于他的机器被尾流整个吞没，他要活下来得先赌赢 forty-two-thousand-to-one 的赔率；兑现「失忆者身份揭晓」——Dr. Eleanor Carter 的原罪全数归位；反转在收尾：童话套话被作者亲手掐断在 happily ever—you know，叙事权交给一只猫。
 - **人物弧线**：Eleanor 的罪与名全盘揭开（head of the most prestigious scientific laboratory on Earth），她用 I can’t be selfish again 完成与旧我的切割，把自己放进被牺牲的位置；国王这边复仇已了、境内再无敌手（Protecting Allie had been the only thing that gave his life meaning），失去唯一支点后选择跟着她跳。
-- **叙事手法**：视角交接棒：Allie 的第一人称一路用到跳入光球为止，忏悔用说书人开场（Shall I tell you the tale of Dr. Eleanor Carter?）；她在 stepped through the swirling sphere of light 处戛然交棒，爆炸之后切成第三人称的国王与 Chez，结局由旁观者用半句童话套话收口。
+- **补充（他放她走的那两句）**：他从背后抱住她，说 “No cage will hold you. Not this entire world. Not even the prison of my heart.”；告别时他捧着她的脸，用的却是虚拟语气——“My love… you would have made a fine queen.”（**would have made**：她本可以，而不是她将会）。
+- **叙事手法**- **叙事手法**：视角交接棒：Allie 的第一人称一路用到跳入光球为止，忏悔用说书人开场（Shall I tell you the tale of Dr. Eleanor Carter?）；她在 stepped through the swirling sphere of light 处戛然交棒，爆炸之后切成第三人称的国王与 Chez，结局由旁观者用半句童话套话收口。
 
 ## 精读
 
@@ -132,7 +133,7 @@ modified: "2026-11-08"
 
 **为什么这样写**：全句只有一个动作，犹豫的位置却写得清楚——tightened 发生在 dove 之前，攥紧护身符是他给自己下的决心；fading wake（正在消退的尾流）给他加了最后期限，这一跃既是追随，也是抢时间。
 
-**读者视角提示**：此前 Chez 刚提醒过他，再穿一次那种漩涡「you’ll probably lose all your powers」——读者会替这一跳捏一把汗；他一个字都没听进去，这正是此刻这个角色唯一的写法。
+**读者视角提示**：此前 Chez 刚提醒过他，再穿一次那种漩涡很可能把魔力全赔进去——读者会替这一跳捏一把汗；他一个字都没听进去，这正是此刻这个角色唯一的写法。
 
 > **原句 13:** "Chez peered up at the rare, wayward rays of sunlight managing to streak past the thick clouds. “I think Allie and Rabb would agree. Wherever they are. I’m sure they are going to live happily ever—you know.”"
 
