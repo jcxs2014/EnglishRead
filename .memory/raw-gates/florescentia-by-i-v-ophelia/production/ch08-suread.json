@@ -1,0 +1,91 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch08",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch08_chapter_eight_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她向魔法书嘶喊要答案。",
+   "anchor": "Tell me what to do!",
+   "start": 877,
+   "end": 896
+  },
+  {
+   "fact": "书页全部变成黑色。",
+   "anchor": "all pages were filled with black",
+   "start": 1877,
+   "end": 1909
+  },
+  {
+   "fact": "她撕下书页，书却不见变薄。",
+   "anchor": "yet the book never got thinner",
+   "start": 2041,
+   "end": 2071
+  },
+  {
+   "fact": "她抽到「The Gambler in Nova」，意为冒险一试。",
+   "anchor": "The Gambler in Nova",
+   "start": 5375,
+   "end": 5394
+  },
+  {
+   "fact": "电话里传来 Dorian 的声音，重复她的话，她挂断。",
+   "anchor": "It was Dorian’s.",
+   "start": 6260,
+   "end": 6276
+  },
+  {
+   "fact": "随后殡仪馆来电，安排遗体瞻仰。",
+   "anchor": "this is the coroner’s office",
+   "start": 7108,
+   "end": 7136
+  },
+  {
+   "fact": "她倒光整瓶鸢尾精油作召唤信标。",
+   "anchor": "I emptied the entire bottle",
+   "start": 8787,
+   "end": 8814
+  },
+  {
+   "fact": "书页浮现两个黑点，她认出是两只 Peculiar 阻断了仪式。",
+   "anchor": "two black dots bled through",
+   "start": 11357,
+   "end": 11384
+  },
+  {
+   "fact": "再次失败引发爆炸，把她掀到墙上。",
+   "anchor": "It threw me, and I hit the back of my head",
+   "start": 14261,
+   "end": 14303
+  },
+  {
+   "fact": "巨兽自深处升起，以人形傀儡般立于她面前。",
+   "anchor": "like a puppet held up by the beast",
+   "start": 18676,
+   "end": 18710
+  },
+  {
+   "fact": "它从她发间取走鸢尾，令其枯萎。",
+   "anchor": "It plucked the iris from my hair",
+   "start": 19385,
+   "end": 19417
+  },
+  {
+   "fact": "它用她自己的声音模仿「Beast」。",
+   "anchor": "with my own voice",
+   "start": 20645,
+   "end": 20662
+  },
+  {
+   "fact": "它胸口裂开露出牙齿，要吃掉她。",
+   "anchor": "And it was going to eat me",
+   "start": 22109,
+   "end": 22135
+  },
+  {
+   "fact": "她尖叫后一切消失，天亮。",
+   "anchor": "the beast, my Peculiars, and the iris were missing",
+   "start": 22822,
+   "end": 22872
+  }
+ ]
+}
