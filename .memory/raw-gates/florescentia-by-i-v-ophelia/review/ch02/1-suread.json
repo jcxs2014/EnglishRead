@@ -1,0 +1,53 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "fact": "六月中旬（mid-June）闷热，我一如既往早起，但丈夫总比我起得更早",
+      "start": 206,
+      "end": 288,
+      "quote": "The mid-June heat radiated from my skin, the sheets sticking as I peeled them off."
+    },
+    {
+      "fact": "丈夫 Dorian 在晨间读报等我，祝我即将到来的专利申请（patent appointment）顺利——我是发明家",
+      "start": 2669,
+      "end": 2753,
+      "quote": "I would say I wanted you to save all your energy for the upcoming patent appointment"
+    },
+    {
+      "fact": "Dorian 把 wedding day 那天为我买的浅蓝丝绸围巾打成蝴蝶结系上我的脖子；当时两人没什么钱，那是他勉强买得起的礼物",
+      "start": 4799,
+      "end": 4856,
+      "quote": "the light blue silk he’d bought for me on our wedding day"
+    },
+    {
+      "fact": "Dorian 此行共三天，带着银质钢笔和幸运银表去赶火车；他临走唤我 Lucia，并提醒我父亲想见我",
+      "start": 5644,
+      "end": 5679,
+      "quote": "“Yes, my dearest Lucia,” he laughed"
+    },
+    {
+      "fact": "Dorian 要面试天文工程职位；其实职位早就是他的——昨晚我的手伸进 Otherside（仪式）那一刻就已注定",
+      "start": 7383,
+      "end": 7472,
+      "quote": "that position had been his the minute my hand dipped through to the Otherside last night."
+    },
+    {
+      "fact": "城市 Astraea 是美洲海岸最伟大的城市，名字源自意为“星”的 astēr，居民宗教文化上都崇拜星辰",
+      "start": 7947,
+      "end": 8013,
+      "quote": "Before Astraea was the greatest city on the coast of the Americas."
+    },
+    {
+      "fact": "本周 Lax Festival 轮到我家所在的 Aisl Park 举办，四个行政区每周末轮换一个月，其余为 Alton Heights、Dieton、Castor",
+      "start": 10246,
+      "end": 10309,
+      "quote": "This weekend it was being hosted in my home borough, Aisl Park."
+    },
+    {
+      "fact": "我把花园里编好的猫薄荷草绳贿赂店主 Samuele 换肥料，他喊话说下次要带 Dorian 一起来，好确认我没把可怜的 Dorian 拿去做实验",
+      "start": 14816,
+      "end": 14869,
+      "quote": "“Throw me out, Samuele—then she will miss my bribes!”"
+    }
+  ]
+}

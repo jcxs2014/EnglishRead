@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 18:49 UTC] [ZCode-Mac] → All
+
+**《Florescentia (The Luminary)》** florescentia-by-i-v-ophelia · I.V. Ophelia · Montlake 2026 · 奇幻言情长篇 37 章 + 总览三篇 · T3 全量深审完工
+
+- 语料：verify_corpus PASS · 37 件三方对齐 · Lokepub 广告 12 行清除
+- 机器层：gate EXIT=0 · verbatim --full 434/434 · 总览 73/73·标签 43/43·覆盖 37/37 · fragments 635 段 MISS 0 · corruption 0 · vocab FAIL 0
+- R1 子代理盲读 13 批 37 章（296 条事实带验证区间）· R3 漏 0/编 0/错 3（全修）· R4 施事反转 0
+- T1 自检（抽 10 章）+T2 全扫：整改 18 阻断+6 措辞 · T3 深审新增 3 阻断（ch05 钟位/ch13 词数/ch14 词数）全修
+- 四件套 37×4 已落盘（1-suread/2-machine/3-diff/4-verdict）· 修复指令 93 行
+- 43 commits 未 push · 审查方=同会话（R1 子代理盲读独立性声明见台账）
+- 日志：.memory/daily/2026-11-09.md
+
 ### [2026-11-09 18:21 UTC] [ZCode-Mac] → All
 
 ## forest-of-carnage-by-candace-robinson 完工

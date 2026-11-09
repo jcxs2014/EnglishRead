@@ -1,0 +1,53 @@
+{
+  "chapter": "ch04",
+  "facts": [
+    {
+      "fact": "她从木盒牌堆顶抽出一张 Everie 卡，牌名逐字为「Altair in Eclipse」；牌面为倒置的鹰像（喙朝下），意为负面预兆（negative premonition），她啧舌把牌弹开。鹰像具 six wings, three eyes，喉部被王冠紧箍。",
+      "start": 1419,
+      "end": 1486,
+      "quote": "Reversed image, with the beak pointed down: a negative premonition."
+    },
+    {
+      "fact": "她破例在短时间内再行一次仪式、只求多一个「确定」：缘由包括父亲的状况（father's condition）、专利准备（patent preparation）的压力，以及 Dorian 在其机构争夺最重要的职位。",
+      "start": 538,
+      "end": 624,
+      "quote": "With the circumstance of my father’s condition, the strain from the patent preparation"
+    },
+    {
+      "fact": "这副 Everie 牌是母亲传给她的——此前属于她母亲、再往前属于外祖母，世代相承；牌组按四季对应四大星座（four seasons, four major constellations in the Everie）。",
+      "start": 3000,
+      "end": 3067,
+      "quote": "The cards were my mother’s, and her mother’s before her, and so on."
+    },
+    {
+      "fact": "她的两只影子 Peculiar「Absinthe 与 Tonic」迟疑片刻后滑进房间、彼此绕圈，最后按她训练的那样在房中央的圆毯上合体摊平。",
+      "start": 7027,
+      "end": 7094,
+      "quote": "combining in the middle of the rug, just as I’d trained them to do."
+    },
+    {
+      "fact": "她把水灯放在脚边、褪下长袍跪伏在「开口」边缘，将手没入虚空，在能量顶点用尽力气念出咒语「Florescentia」——词声如千声耳语回荡。",
+      "start": 9001,
+      "end": 9058,
+      "quote": "the incantation at the peak of my energy: “Florescentia.”"
+    },
+    {
+      "fact": "仪式失灵：开口明明已在、手已没入，却毫无动静；她另一只手撑地，把整条手臂没到肩部去摸索抓寻。",
+      "start": 9288,
+      "end": 9355,
+      "quote": "The portal was there. My hand was submerged. Nothing was happening."
+    },
+    {
+      "fact": "她头旁的水灯玻璃突然爆燃（不止是碎裂），碎片击中她的脸侧；她在尖啸中拉膝掩面捂耳，风波止息后发现 Absinthe 与 Tonic 消失无踪、地毯撕裂、物件被掀翻。",
+      "start": 9768,
+      "end": 9826,
+      "quote": "The glass shattered—no, more than shattered. It combusted."
+    },
+    {
+      "fact": "关键转折：她掀开地毯，见 verawood 地板上被刻出深深的裂口——一个不含糊的凶兆、唯一的「要求」，逐字为「Obscuria」；她心想 Dorian 会杀了她、不知该如何解释。",
+      "start": 11451,
+      "end": 11460,
+      "quote": "Obscuria."
+    }
+  ]
+}

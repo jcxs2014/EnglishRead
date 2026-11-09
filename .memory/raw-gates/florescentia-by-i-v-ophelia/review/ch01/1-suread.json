@@ -1,0 +1,53 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "fact": "丈夫熟睡时，我在巫刻（witching hour）赤脚溜下楼去收获运气",
+      "start": 35,
+      "end": 103,
+      "quote": "The best time to harvest luck was none other than the witching hour."
+    },
+    {
+      "fact": "我们的房子有三层楼，内部由我亲自设计、最好的工匠定制建造",
+      "start": 701,
+      "end": 770,
+      "quote": "The interior was custom built by the best craftsmen, all three floors"
+    },
+    {
+      "fact": "两个 Peculiars（影子生物）从楼梯扶手上溜到我脚边，我叫出它们的名字 Absinthe 和 Tonic",
+      "start": 2749,
+      "end": 2837,
+      "quote": "“Hello, Absinthe,” I whispered. A pinch at my other ankle. “I didn’t forget you, Tonic.”"
+    },
+    {
+      "fact": "Absinthe 和 Tonic 的名字来自母亲的铅玻璃酒瓶——我童年时曾把它们囚在卧室里，如今也不知它们如何找到我",
+      "start": 2917,
+      "end": 2983,
+      "quote": "my mother’s leaded glass decanters that I’d imprisoned them inside"
+    },
+    {
+      "fact": "活着的人里没人像我一样懂 Peculiars：多数人根本看不见它们，能看见的就算异类",
+      "start": 3301,
+      "end": 3390,
+      "quote": "Most people couldn’t even see them. As I understood it, you were an anomaly if you could."
+    },
+    {
+      "fact": "我在书房让 Absinthe 和 Tonic 融合成黑油般的液池，念唤词 Florescentia 把手臂伸进去召唤彼界",
+      "start": 6913,
+      "end": 6974,
+      "quote": "“Florescentia.” The welcoming of the void with a single word."
+    },
+    {
+      "fact": "我往后拉手臂时，一股墨质触须缠紧我的手腕，皮肤被勒得发红，随后其他形体从池中爬上我的双腿",
+      "start": 7418,
+      "end": 7501,
+      "quote": "around my wrist a thick tendril of ink tightened, reddening the skin as it gripped."
+    },
+    {
+      "fact": "这只强壮的 Peculiar 以触须进入并抚遍我的敏感处，用性爱式的仪式交换幸运（Lust for luck），我最终达到高潮完成仪式",
+      "start": 8580,
+      "end": 8611,
+      "quote": "The easiest bargain in history."
+    }
+  ]
+}

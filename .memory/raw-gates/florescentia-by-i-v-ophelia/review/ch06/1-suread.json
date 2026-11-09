@@ -1,0 +1,53 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "fact": "雨夜她步行回家：离家仅五个街区（five blocks），她并不害怕、也并不孤单——Peculiars 无处不在、带着新生的好奇注意着她，这种彼此觉察的新变化令她不安。",
+      "start": 514,
+      "end": 570,
+      "quote": "My home was only five blocks away, and I was not afraid."
+    },
+    {
+      "fact": "她边走边解开父亲给的破旧皮革日记的皮绳、指尖伸向封面正要翻开，耳畔一声 wisp 唤她「Lucia!」，随即她的手臂与头发被掐；父亲把日记给她时态度非常坚持（He was just so insistent）。",
+      "start": 1601,
+      "end": 1633,
+      "quote": "Then a pinch at my arm, my hair."
+    },
+    {
+      "fact": "她在自以为空无一人的街口迈步，即有马车嘶冲而至：黑马受惊立起、她跌向一旁，一声巨响中脱落的金属片击中她头侧；随后第二、第三辆马车撞作一堆（pile-up），两名陌生人拽住她手臂。转眼街头满是人群——而她方才亲眼所见街道确实空无一人（The streets had been empty. I'd seen it with my own eyes!）。",
+      "start": 2240,
+      "end": 2322,
+      "quote": "There was a deafening bang, and a detached piece of metal hit the side of my head."
+    },
+    {
+      "fact": "她冲回家、连鞋和日装都没脱，把 grimoire 与父亲的日记摊上桌；掌心按上 grimoire 封面纹章后，她的印记发出黯白光、寒意顺臂爬升，手随即被像两块同极磁铁般猛弹开、几乎肩关节脱臼。这本 grimoire 的靛蓝布面艳如新染，实为 several hundred years old。",
+      "start": 5309,
+      "end": 5374,
+      "quote": "My hand was suddenly flung away from it like two positive magnets"
+    },
+    {
+      "fact": "书随后自行弹开、页页空白（blank），唯有一页 completely filled black；封面裂开一道会动的竖线、绽成眼眶状（marquis shape）露出白色玻璃质并「眨」了一下——她尖叫着把书拍下桌、跌坐到破毯上、木刺扎进掌心；再看时书已恢复原样。",
+      "start": 6979,
+      "end": 7066,
+      "quote": "I screamed, slapping it off the table and stumbling back, landing on the ruined carpet."
+    },
+    {
+      "fact": "她泼水洗脸、揉去头侧伤口的结痂、换上丝绸睡裙，两指入唇一声长哨把 Peculiars 唤回：Absinthe 绕着她的腿打转、Tonic 钻进她的裙下。",
+      "start": 8113,
+      "end": 8187,
+      "quote": "Absinthe jittered around my leg, while Tonic tucked itself under my skirt."
+    },
+    {
+      "fact": "她想打电话给 Dorian——哭诉、要他说她的运气会好转、听他低声念叨排查办法——但他并不知道她的收割（harvesting）天赋，建议无一可行；她又不解他为何还没来电报信（Then why hasn't he called with news?）。",
+      "start": 8441,
+      "end": 8520,
+      "quote": "I wanted to call Dorian. To cry, to have him tell me my luck would turn around."
+    },
+    {
+      "fact": "门铃响：两名警察深夜按铃叩门、唤她「Mrs. Fairfax」，称 North Boulevard 发生 pile-up、要她随行到警局；她一度想翻后园墙逃走，又怕显得有罪（财产都绑在账户里、不能那样对 Dorian），遂整理仪容、谎称 I've been here all night——对方摘帽致意，说明需她协助辨认一具尸体。",
+      "start": 11247,
+      "end": 11317,
+      "quote": "“We need your assistance identifying a body,” the second officer said."
+    }
+  ]
+}

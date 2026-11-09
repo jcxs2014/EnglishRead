@@ -1,0 +1,53 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "fact": "Lucia 遵弟弟的医生朋友开出的处方，到城北一小时外的海边散步治疗，却认为毫无疗效。",
+      "start": 693,
+      "end": 771,
+      "quote": "Even when I’d come an hour north of the city shore for a prescribed ocean walk"
+    },
+    {
+      "fact": "Lucia 拧开药剂的瓶盖弹进沙里，将药一口灌下，好让自己麻木。",
+      "start": 1843,
+      "end": 1908,
+      "quote": "I twisted the cap of the tincture, flicking the cap into the sand"
+    },
+    {
+      "fact": "野兽化作与 Lucia 一模一样的影子在她身后现身，三个白色光点回望她。",
+      "start": 2474,
+      "end": 2543,
+      "quote": "a mimicry of my own shadow, then three white dots peering back at me."
+    },
+    {
+      "fact": "关键转折：Lucia 提议野兽当她的导师、帮她开往 Otherside 的门（她的 Peculiars 不许她再开门），以教他融入人类社会作交换；野兽答应成交。",
+      "start": 5071,
+      "end": 5108,
+      "quote": "“I suppose you have a bargain, then.”"
+    },
+    {
+      "fact": "Lucia 举瓶致意后把 flask 里剩下的酒全部倒进影子体内，野兽抱怨不喜欢这味道并请她别再如此。",
+      "start": 5429,
+      "end": 5490,
+      "quote": "“I don’t like that much. Please never repeat,” it complained."
+    },
+    {
+      "fact": "Lucia 回家重整图书馆：用新地毯盖住受损地板，旧纸分类处理，书先随意上架。",
+      "start": 6707,
+      "end": 6773,
+      "quote": "A new rug covered the damaged floor, sparing my feet of splinters."
+    },
+    {
+      "fact": "Lucia 致电 Archive 追问遗失的文件夹与工作簿，接线员答废弃物品每周随垃圾清运丢弃两次，她的数月实验记录恐已不保。",
+      "start": 8071,
+      "end": 8150,
+      "quote": "we throw abandoned items away twice per week when waste management comes around"
+    },
+    {
+      "fact": "结尾转折：Lucia 决定趁野兽仍愿意帮忙，投其胃口所好把它引诱出来以兑现承诺。",
+      "start": 9218,
+      "end": 9291,
+      "quote": "As long as the beast was still willing, all I had to do was lure him out."
+    }
+  ]
+}

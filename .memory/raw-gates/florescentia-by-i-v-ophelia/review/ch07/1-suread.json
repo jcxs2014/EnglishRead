@@ -1,0 +1,53 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "fact": "凌晨两点半（Two thirty-five in the morning），叙述者Lucia守在停尸间丈夫Dorian的遗体旁——他一贯苍白，这一次却浑身冰凉。",
+      "start": 37,
+      "end": 68,
+      "quote": "Two thirty-five in the morning."
+    },
+    {
+      "fact": "工作人员询问遗体是否她丈夫，Lucia拒绝确认，说一旦说「是」他们就会把他带走。",
+      "start": 620,
+      "end": 675,
+      "quote": "“I’m not ready. If I say yes, you’ll take him from me.”"
+    },
+    {
+      "fact": "工作人员告知：车祸是一名女人冲上马路所致，嫌疑人仍在追查中。",
+      "start": 1097,
+      "end": 1166,
+      "quote": "A woman ran into the road. We are still trying to locate the suspect."
+    },
+    {
+      "fact": "Lucia用手帕擦拭Dorian的脸却擦不掉印记；他伤深及骨，一只眼睛已被毁掉。",
+      "start": 1949,
+      "end": 2010,
+      "quote": "The carnage had taken one eye. The other was badly misshapen."
+    },
+    {
+      "fact": "她的哥哥Maxim推门而入，斥责工作人员不该让她独自看遗体，用外套挡住停尸台并紧紧抱住她。",
+      "start": 2037,
+      "end": 2088,
+      "quote": "“Why would you show her alone?” my brother scolded."
+    },
+    {
+      "fact": "Lucia尖叫「他本该回家」、坚称认错人，气得咬进Maxim的衬衫，他始终抱紧不放手。",
+      "start": 2551,
+      "end": 2610,
+      "quote": "I was so angry, I bit into his shirt, but he didn’t let go;"
+    },
+    {
+      "fact": "Maxim确认遗体就是Dorian，吩咐不得防腐（以家族意愿为由），随后带Lucia回家。",
+      "start": 2742,
+      "end": 2792,
+      "quote": "“Do it. It’s him, I can confirm that,” Maxim said."
+    },
+    {
+      "fact": "Dorian的遗体存进县停尸房；Lucia觉得Dorian以内疚的形式活在她身上。",
+      "start": 3240,
+      "end": 3307,
+      "quote": "What remained of my husband was stored in the morgue of the county."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "fact": "Dorian 从旅馆打有线电话回家，请妻子 Lucia 出门寻找失踪的白脸花猫 Monty",
+      "start": 251,
+      "end": 334,
+      "quote": "“Did you see Monty?” Even through the static of the receiver piece cupped on my ear"
+    },
+    {
+      "fact": "Dorian 求我抽一张牌安抚他（他提到 Everie），我说牌只会告诉你你早已知道的事",
+      "start": 1057,
+      "end": 1117,
+      "quote": "“Will you pull a card for me? To ease a worried man’s mind?”"
+    },
+    {
+      "fact": "Lucia 说“我挂电话了”，Dorian 说“带着我全部的爱，很快见”并提到他明天要参加面试",
+      "start": 2844,
+      "end": 2882,
+      "quote": "“With all my love, I’ll see you soon.”"
+    },
+    {
+      "fact": "如今不常见面是自他被征召（drafted）以来少有的事；他虽是丈夫，但首先是我最亲密的朋友",
+      "start": 3136,
+      "end": 3195,
+      "quote": "he was my husband, but above all, he was my closest friend."
+    },
+    {
+      "fact": "我拍 pneuma-types（灵气摄影）自拍照：人像清晰但灵气只在一瞬间是蓝色，随即褪成黑色——和上次一样，每张都失败于黑色斑块",
+      "start": 5297,
+      "end": 5320,
+      "quote": "Then it faded to black."
+    },
+    {
+      "fact": "我的第一项发明是相机预涂湿版，差点拿不到专利，因为（专利方）不愿接受女性提交的申请",
+      "start": 5985,
+      "end": 6067,
+      "quote": "didn’t get the patent, since they weren’t keen on accepting submissions from women"
+    },
+    {
+      "fact": "一次仪式（收割幸运）让专利成了我的；我并不为此内疚",
+      "start": 6071,
+      "end": 6147,
+      "quote": "One ritual was all it took; they listened and heard me. The patent was mine."
+    },
+    {
+      "fact": "Absinthe 爬上我的膝头贴住胸口；与 Peculiar 越亲密（倾诉、哭泣、泄愤）收获的运气越多，要出 miracle 则必须做仪式",
+      "start": 7507,
+      "end": 7587,
+      "quote": "Most days, I talked to them. I vented, cried, and raged. They listened, they fed"
+    }
+  ]
+}

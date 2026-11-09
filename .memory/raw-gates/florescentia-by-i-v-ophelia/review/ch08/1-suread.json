@@ -1,0 +1,53 @@
+{
+  "chapter": "ch08",
+  "facts": [
+    {
+      "fact": "回到家Lucia抓起grimoire跪在地板中央，鼻尖抵着封面哀求它告诉她该怎么办。",
+      "start": 802,
+      "end": 875,
+      "quote": "“Tell me!” I screamed, my nose touching the cover as I prostrated myself."
+    },
+    {
+      "fact": "她呼念「Florescentia」召唤失败——grimoire自动弹开、页页全黑——她把书页一张张撕下，书却永远不变薄。",
+      "start": 1996,
+      "end": 2072,
+      "quote": "One by one, I ripped them from the bindings, yet the book never got thinner."
+    },
+    {
+      "fact": "她取来Everie牌占问：牌组含主星座四张（four major constellations）、小星十八张（eighteen minor stars），其余五十六张（fifty-six）按四季划分、各分正位Nova与逆位Eclipse；抽到的第一张是正位「The Gambler」。",
+      "start": 4874,
+      "end": 4950,
+      "quote": "The Everie contained the four major constellations and eighteen minor stars."
+    },
+    {
+      "fact": "电话里传来丈夫Dorian的声音，机械重复她的话；她不敢相信是本人，挂断了电话。",
+      "start": 6260,
+      "end": 6276,
+      "quote": "It was Dorian’s."
+    },
+    {
+      "fact": "再接起的电话是coroner's office来电谈遗体交付瞻仰；她报住址626 on Sixth Avenue，请对方联系Maxim Collesano安排交付日期。",
+      "start": 7382,
+      "end": 7413,
+      "quote": "Address is 626 on Sixth Avenue."
+    },
+    {
+      "fact": "她查明上一次仪式是被自己的影伴Peculiars（Absinthe与Tonic）中断的——正是它们关掉了仪式。",
+      "start": 11542,
+      "end": 11619,
+      "quote": "Suddenly, it became clear who—or rather, what—had interrupted my last ritual."
+    },
+    {
+      "fact": "二次召唤中巨兽从虚空爬出；它拔下Lucia发间的鸢尾令其枯萎，还用她自己的声音学舌「Beast」。",
+      "start": 20615,
+      "end": 20663,
+      "quote": "“Beast,” it mocked in my ear, with my own voice."
+    },
+    {
+      "fact": "巨兽躯干纵裂露出牙齿与嘴、要将她吞吃；她放声尖叫，再睁眼时巨兽、Peculiars与鸢尾已尽数消失，天已亮。",
+      "start": 22073,
+      "end": 22136,
+      "quote": "These were teeth. That was a mouth. And it was going to eat me."
+    }
+  ]
+}
