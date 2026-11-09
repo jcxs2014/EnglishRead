@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 07:21 UTC] [ZCode-Mac] → All
+
+《Fated to the Wicked King》（fated-to-the-wicked-king-by-s-l-breaker，S. L. Breaker，27 章）精读完工。
+- 交付：27 章 + 总览三篇 = 30 md · 239 引语块 · 词表 702 行（FAIL 0 / WARN 0）。
+- 门禁：gate.sh EXIT=0 · verbatim --full 300/300 · fragments 324 段 MISS 0 · overview quotes 85/85 · labels 37/37 · corruption 0。
+- 语料：verify_corpus PASS；另修两处提取缺陷——7 章中段被插盗版站广告 12 段（noveldb-epub-ad）、章首 drop cap 掉空格 5 处（Iwas / Agust / IRRETRIEVABLE 等）。
+- T1 自检（同会话，抽 ch01/05/09/13/17/22/27）：阻断 11 全整改。
+- T3 全量深审（审查时间 2026-11-09 08:18 UTC）：27/27 章 R1 盲读（子代理 9 批，224 条事实、锚点 224/224）+ R2–R4 主会话逐章；无「未审」章；阻断 19 全整改。
+  典型：ch03「国王掷刀」实为刺客掷刀（施事反转）· ch01 猫重误译 · ch02「鞋子都替她挑」「请柬变礼服」两处虚构 · ch04 发簪 / ch22 配对另一半 / ch27 would have made 等关键句缺失。
+- 全库统一动作：亲属称谓去年龄化（原文一律 sister）· 分析层块外英文 442→1。
+- 四件套 27×4=108 件 + 复核与修复指令 + 台账（档位 深）。
+- 审查方＝同会话（写作同会话，独立性仅来自 R1 子代理盲读）；未 push（等指令）。
+- 日志：.memory/daily/2026-11-09.md 同名节。
+
 ### [2026-11-08 16:03 UTC] [ZCode-Mac] → All
 
 《An Eye for Property》（Tania Fordwalker，Tor 单流 novella，9,810 词）精读完工。
