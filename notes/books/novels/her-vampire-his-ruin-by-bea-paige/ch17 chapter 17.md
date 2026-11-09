@@ -39,7 +39,7 @@ modified: "2026-11-09"
 
 **中文理解**：她摊开证据：网上有一幅 Basilia 与她丈夫 Dorian Gray 的画像——画中人与他像得不可思议。
 
-**关键词**：On the website, there is a painting of Basilia and her husband, Dorian Gray / remarkable resemblance to you
+**关键词**：a painting of Basilia and her husband / remarkable resemblance to you
 
 **为什么这样写**：她亲自掀牌，用的是最朴素的句式（there is a painting）——越不修辞，越无法回避。作者让「Dorian Gray」这个全名第二次落到他耳朵里：他当年亲手抹掉的名字，如今从爱人口中回来。
 
