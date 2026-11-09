@@ -1,0 +1,37 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch12",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch12_chapter_11_juive.txt",
+ "facts": [
+  {
+   "fact": "1942年12月5日Béatrice和Fanny在Neuilly被捕（没戴金星）；名字记入16区警察局Consignes Provisoires台账；台账里她们名字旁只有一个词：\"Juive\"（犹太女人）。",
+   "anchor": "On the afternoon of December 5, Béatrice and Fanny were stopped. There was no struggle, just uniforms, and the demand for identity papers. They gave them, but it didn’t matter.",
+   "start": 1255,
+   "end": 1431
+  },
+  {
+   "fact": "台账里只有一个词\"Juive\"；Irène Anspach（表亲）在场却未被捕——\"太随机而非仁慈\"；Béatrice递给她金手链（gourmette）；archivist Le Tarnec至今不解\"为何她没被捕\"。",
+   "anchor": "In the ledger, there was just one word in the columns by their names: Juive.",
+   "start": 1742,
+   "end": 1818
+  },
+  {
+   "fact": "Rudi de Mérode（原名Frédéric Martin）自称\"王子\"，领导Gestapo de Neuilly（法国准军事团伙）；在Béatrice家附近70号别墅运作；劫掠、酷刑、30%佣金；涉及>500人驱逐。",
+   "anchor": "He was a thief with aristocratic pretensions, a man who called himself “the prince” and led the Gestapo de Neuilly, a French paramilitary gang that worked hand in hand with the Germans, doing the things the Germans preferred not to be seen doing.",
+   "start": 5579,
+   "end": 5825
+  },
+  {
+   "fact": "战后内政部统计Mérode财产：近10亿法郎（今约$9400万）；现金、珠宝、黄金塞在柜子里、埋在花园里；他逃往西班牙马德里，自称\"Prince de Mérode\"，约1970年后死于西班牙，从未被追诉。",
+   "anchor": "After the war, the Interior Ministry tallied up Mérode’s fortune: nearly 1 billion francs, about $94 million today. Cash, jewels, gold—bundled in cupboards, buried in gardens.",
+   "start": 6629,
+   "end": 6804
+  },
+  {
+   "fact": "Béatrice公寓被清空：三架Pleyel钢琴、Louis XVI钟、Théodore肖像；14,933股房产股份被冻结；\"一切消失得如此之快：Léon的音乐、Kérylos档案、图纸、信件。还有书，四千本，皮面装订。\"",
+   "anchor": "It had all vanished so quickly: Léon’s music, the archive of the Kérylos villa, the drawings and architectural plans, the letters. And the books, four thousand of them, leather-bound.",
+   "start": 8637,
+   "end": 8820
+  }
+ ]
+}
