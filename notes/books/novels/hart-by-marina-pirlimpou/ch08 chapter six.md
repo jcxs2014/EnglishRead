@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 **关键词**：don’t want you to see me naked（不想让你看见我裸着）、in a voice so thin and fragile（声音又细又脆）、Worn out（被耗损了）
 
-**为什么这样写**：句子先给对白，再用 The admission slips out 把它标成「承认」而不是「请求」；I instantly hate it 是 Sam 对自己声音的二次审判。破折号后的三个词 Different. Changed. Worn out. 一个比一个重，每个都单独成句，像他自己在心里给身体下的判决。作者让 Sam 说不下去，又让叙述替他说完。
+**为什么这样写**：句子先给对白，再用 The admission slips out 把它标成「承认」而不是「请求」；I instantly hate it 是 Sam 对自己声音的二次审判。破折号后的四个词 Different. Changed. Worn out. 一个比一个重，每个都单独成句，像他自己在心里给身体下的判决。作者让 Sam 说不下去，又让叙述替他说完。
 
 **读者视角提示**：读者在这里第一次听见 Sam 对自己的身体下这么重的判断；结合他四个月前刚生产（后文提到 C-section scar），这份羞耻有具体来源。Devon 的反应不是反驳，而是先问 Do you trust me?——他知道争论「你很好看」没有用。
 
@@ -61,7 +61,7 @@ modified: "2026-11-09"
 
 **关键词**：doesn’t touch the shirt（不碰衬衫）、only kisses the parts he can see（只吻能看见的地方）、nothing more（仅此而已）
 
-**为什么这样写**：三个否定动作（doesn’t touch、doesn’t lift、or strip）先把「越界」一条条排除，再用 only kisses 给出他真正做的事。the parts he can see 是对 Sam 那句「不想让你看见」的直接回应——不是说服，是遵守。nothing more 三个词把边界钉死，也把这份克制写成一种告白。
+**为什么这样写**：三个否定动作（doesn’t touch、doesn’t lift、or strip）先把「越界」一条条排除，再用 only kisses 给出他真正做的事。the parts he can see 是对 Sam 那句「不想让你看见」的直接回应——不是说服，是遵守。nothing more 两个词把边界钉死，也把这份克制写成一种告白。
 
 **读者视角提示**：读者会明白 Devon 听见了 Sam 的拒绝，并且把它当成指令执行；这比任何「你很好看」都更能让 Sam 放松。下一段 Sam 主动请他帮忙脱衬衫，正是这份克制换来的。
 
