@@ -15,7 +15,7 @@ modified: "2026-11-09"
 ## 精读
 > **原句 1:** ""You waiting for someone, devil?""
 
-**中文理解**：「在等人吗，devil？」
+**中文理解**：「在等人吗，devil？」——一句绰号问候从背后叫住她；她把行李箱一扔跳进他怀里，双腿环上他的腰——九个月的异地在这一秒清账。
 **关键词**：You waiting for someone, devil?
 **为什么这样写**：接机台词只用一句绰号问候——她把行李箱一扔跳进他怀里；「他总是接得住她」（He always catches me）的补叙把九个月的异地一次性清账。
 **读者视角提示**：与 ch04 的 pocket rocket 接机牌成对——机场是本书的月台；她的跳跃（legs around his waist）是全书身体语言的终极版。
@@ -44,7 +44,7 @@ modified: "2026-11-09"
 > **原句 5:** "Brooks was calling me from my bed at night, rather than his own. I don't think he left my cabin much after I did."
 
 **中文理解**：圣诞后 Brooks 夜里开始在她床上给她打电话——而不是他自己床上。她走后，他基本没离开过她的小屋。
-**关键词**：calling me from my bed / rather than his own / didn't leave my cabin
+**关键词**：calling me from my bed / rather than his own / he left my cabin
 **为什么这样写**：搬入的过程写成电话的位置学——从他的床到她的床到她走后的留守；「Waking up with him gives me butterflies」的期待感给同居盖上甜章。
 **读者视角提示**：他的搬迁无仪式无宣布——行李以「没带走自己」的方式完成；小屋的房间记忆在 ch35 重写之后正式并入他名下。
 
