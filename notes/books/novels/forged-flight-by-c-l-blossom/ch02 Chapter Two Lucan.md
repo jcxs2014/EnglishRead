@@ -50,25 +50,7 @@ modified: "2026-11-09"
 **为什么这样写**：把制造承诺和 Lucan 对 Micah 表情的感受并置，工程合作开始带有私人情感。
 **读者视角提示**：这里承诺的是将来的样件；本章后段出现的仍是草图。
 
-> **原句 7:** "It isn’t my finest work, but it might be the most meaningful thing I’ve ever designed. Forging swords and weapons meant for violence doesn’t compare to giving a helpless little creature the chance to fly."
-**中文理解**：Lucan 觉得草图不够精美，却可能比以往锻造武器更有意义，因为它为幼龙争取飞行机会。
-**关键词**：most meaningful / weapons meant for violence / chance to fly
-**为什么这样写**：将过去的武器工作与眼前帮助 Maple 的设计对照，揭示改变的不只是产品，还有铁匠对自身技艺的评价。
-**读者视角提示**：他的感受是真实的，但义翅能否让 Maple 飞起来仍待试验。
-
-> **原句 8:** "“Actually…” I say, clearing my throat. “Can I get another?”"
-**中文理解**：Lucan 在买惯常的一杯咖啡时犹豫，最终多买一杯准备带给 Micah。
-**关键词**：Actually / another
-**为什么这样写**：不直接宣布他喜欢谁，而用习惯被小小改变的动作表现主动靠近。
-**读者视角提示**：这杯咖啡既是礼貌也是他主动来诊所的契机，店主的猜测并非关系已经确定。
-
-> **原句 9:** "“It isn’t nothing.” He smiles, looking back down at the drawing. “You’re giving Maple a chance to fly.”"
-**中文理解**：Micah 不接受 Lucan 将设计轻描淡写为小事，强调图纸给 Maple 带来的可能性。
-**关键词**：isn’t nothing / drawing / chance to fly
-**为什么这样写**：以 Micah 的回应承认铁匠劳动的价值，也呼应 Lucan 夜里对自己技艺意义的重新认识。
-**读者视角提示**：这里说的是“机会”，不是 Maple 已经能飞；实现仍需制造与测试。
-
-> **原句 10:** "As I turn and cross the street toward my blacksmith shop, I can feel him watching me again. But this time, I don’t mind."
+> **原句 7:** "As I turn and cross the street toward my blacksmith shop, I can feel him watching me again. But this time, I don’t mind."
 **中文理解**：Lucan 再次感觉到 Micah 的目光，态度已从开头的不适转为不介意。
 **关键词**：watching me again / this time / don’t mind
 **为什么这样写**：用同一个隔街注视收尾，前后仅改变 Lucan 的反应，就标出两人关系的位移。
@@ -97,3 +79,21 @@ modified: "2026-11-09"
 
 ## 一句话总结
 从隔街被注视的困惑，到为 Maple 画义翅、给 Micah 送咖啡和图纸，Lucan 在帮助幼龙的行动中逐渐愿意靠近这位兽医。
+> **原句 8:** "It isn’t my finest work, but it might be the most meaningful thing I’ve ever designed. Forging swords and weapons meant for violence doesn’t compare to giving a helpless little creature the chance to fly."
+**中文理解**：Lucan 觉得草图不够精美，却可能比以往锻造武器更有意义，因为它为幼龙争取飞行机会。
+**关键词**：most meaningful / weapons meant for violence / chance to fly
+**为什么这样写**：将过去的武器工作与眼前帮助 Maple 的设计对照，揭示改变的不只是产品，还有铁匠对自身技艺的评价。
+**读者视角提示**：他的感受是真实的，但义翅能否让 Maple 飞起来仍待试验。
+
+> **原句 9:** "“Actually…” I say, clearing my throat. “Can I get another?”"
+**中文理解**：Lucan 在买惯常的一杯咖啡时犹豫，最终多买一杯准备带给 Micah。
+**关键词**：Actually / another
+**为什么这样写**：不直接宣布他喜欢谁，而用习惯被小小改变的动作表现主动靠近。
+**读者视角提示**：这杯咖啡既是礼貌也是他主动来诊所的契机，店主的猜测并非关系已经确定。
+
+> **原句 10:** "“It isn’t nothing.” He smiles, looking back down at the drawing. “You’re giving Maple a chance to fly.”"
+**中文理解**：Micah 不接受 Lucan 将设计轻描淡写为小事，强调图纸给 Maple 带来的可能性。
+**关键词**：isn’t nothing / drawing / chance to fly
+**为什么这样写**：以 Micah 的回应承认铁匠劳动的价值，也呼应 Lucan 夜里对自己技艺意义的重新认识。
+**读者视角提示**：这里说的是“机会”，不是 Maple 已经能飞；实现仍需制造与测试。
+
