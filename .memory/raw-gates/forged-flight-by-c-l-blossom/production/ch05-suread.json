@@ -1,0 +1,61 @@
+{
+ "book": "forged-flight-by-c-l-blossom",
+ "chapter": "ch05",
+ "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch05_5_chapter_five_micah.txt",
+ "facts": [
+  {
+   "fact": "Micah 记录 Maple 第十天体重与食欲。",
+   "anchor": "Day 10. Weight: 58.5 pounds. Appetite excellent.",
+   "start": 1444,
+   "end": 1492
+  },
+  {
+   "fact": "Maple 试图飞起失败，但继续玩耍。",
+   "anchor": "Repeated failed attempts at flight observed.",
+   "start": 2730,
+   "end": 2774
+  },
+  {
+   "fact": "Micah 回想兽医学校所学的 Alder Ridge 狮鹫污染案例。",
+   "anchor": "Nearly every chick hatched over a three-year span had malformed wings.",
+   "start": 3261,
+   "end": 3331
+  },
+  {
+   "fact": "Micah 尚不能确定 Maple 的翼病成因。",
+   "anchor": "But Maple doesn’t fit that pattern. She seems to be the only dragon with the condition.",
+   "start": 3689,
+   "end": 3776
+  },
+  {
+   "fact": "Lucan 带来义翅样件。",
+   "anchor": "When he lifts out the prototype, my breath catches.",
+   "start": 5868,
+   "end": 5919
+  },
+  {
+   "fact": "Maple 首次借义翅短暂离地。",
+   "anchor": "For one glorious heartbeat, all four of her feet leave the ground.",
+   "start": 9203,
+   "end": 9269
+  },
+  {
+   "fact": "Maple 不适应义翅并挣脱。",
+   "anchor": "She throws herself onto the grass, rolling from side to side in an obvious attempt to take the wings off.",
+   "start": 9829,
+   "end": 9934
+  },
+  {
+   "fact": "Maple 喷火烧坏样件皮膜。",
+   "anchor": "A stream of bright orange fire engulfs the leather.",
+   "start": 10681,
+   "end": 10732
+  },
+  {
+   "fact": "Lucan 承认概念可行，准备改进。",
+   "anchor": "“Now I just need to make it better.”",
+   "start": 12064,
+   "end": 12100
+  }
+ ]
+}
