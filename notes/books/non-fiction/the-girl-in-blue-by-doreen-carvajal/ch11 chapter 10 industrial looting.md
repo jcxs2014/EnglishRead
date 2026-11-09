@@ -138,7 +138,7 @@ modified: "2026-11-09"
 | confiscate | v. 没收、查抄 | the authority to confiscate what was never his. |
 | pillage | n./v. 劫掠 | The Germans coordinated the systematic pillage of vacant apartments owned by French or foreign Jews |
 | commandeer | v. 征用、强占 | When it was commandeered in 1942 by the Dienststelle Westen, the ERR’s Western Office |
-| implacable | adj. 不可安抚的、冷酷的 | Rose Valland described von Behr as icy with an “implacable personality.” |
+| implacable | adj. 不可安抚的、冷酷的 | Rose Valland, the Louvre’s spy who observed him at the Jeu de Paume, described von Behr as icy with an “implacable personality.” |
 | larvae | n. 幼虫（复数） | she would tuck in handkerchiefs laced with larvae. |
 
 ### ⭐ 常用
