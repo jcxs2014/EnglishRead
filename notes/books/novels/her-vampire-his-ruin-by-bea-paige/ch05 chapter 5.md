@@ -73,17 +73,7 @@ modified: "2026-11-09"
 
 **读者视角提示**：这是吸血鬼规则书里最老的一条：不请自入即受罚。记住它——在这本书里「邀请」从来不是客套，是命门。
 
-> **原句 7:** "It would also break my second rule: never feed from an Aegis. Yet here I stand, knowing if I can’t control my bloodlust, I could bite her and reveal what I am, with no way to glamour her memories."
-
-**中文理解**：咬她还会破他自立的第二条族规：绝不取食 Aegis。他站在原地清点后果：一旦失控咬下去，真身暴露，而她的记忆无法被消除。
-
-**关键词**：never feed from an Aegis / reveal what I am / no way to glamour her memories
-
-**为什么这样写**：两条族规层层收窄退路：第一条管地点，第二条管对象——她两条全撞。最后一句把风险说到根上：对她，连「事后消除记忆」这个族内万能后门都失效。他不咬她不是出于道德，是发现了一个咬不起的人——这比道德更动人。
-
-**读者视角提示**：对照第二章的 Aegis 设定：她免疫魅惑等于他无法善后——每一个亲密动作都是裸奔。这本书的危险感全建立在「没有撤销键」上。
-
-> **原句 8:** "Grabbing her hand, I bring it up to my mouth and press an open-mouthed kiss against her wrist. She falls silent, her eyes widening and her breath hitching. “You were saying?” I mumble against her flesh, my teeth gently scraping over her wrist as her pulse beats erratically beneath my lips."
+> **原句 7:** "Grabbing her hand, I bring it up to my mouth and press an open-mouthed kiss against her wrist. She falls silent, her eyes widening and her breath hitching. “You were saying?” I mumble against her flesh, my teeth gently scraping over her wrist as her pulse beats erratically beneath my lips."
 
 **中文理解**：他握起她的手，把一个张着嘴的吻按在她腕上；她瞬间安静，睁大眼睛，呼吸一滞。他对着那截手腕低声反问「你刚说什么来着」，牙尖轻刮，脉搏在他唇下狂跳。
 
@@ -92,6 +82,16 @@ modified: "2026-11-09"
 **为什么这样写**：吻腕是全书动作设计里最锋利的一笔：对人类是调情，对他是「进食入口」的预演——同一动作两种读法同时成立。牙尖轻刮而不破皮，是欲望与族规贴身肉搏的现场；她脉搏的失序替她招了供。
 
 **读者视角提示**：注意他此刻的每一次克制都有明码标价（族规、暴露风险）——这一段的浪漫感，全部来自「他本可以」的阴影。
+
+> **原句 8:** "It would also break my second rule: never feed from an Aegis. Yet here I stand, knowing if I can’t control my bloodlust, I could bite her and reveal what I am, with no way to glamour her memories."
+
+**中文理解**：咬她还会破他自立的第二条族规：绝不取食 Aegis。他站在原地清点后果：一旦失控咬下去，真身暴露，而她的记忆无法被消除。
+
+**关键词**：never feed from an Aegis / reveal what I am / no way to glamour her memories
+
+**为什么这样写**：两条族规层层收窄退路：第一条管地点，第二条管对象——她两条全撞。最后一句把风险说到根上：对她，连「事后消除记忆」这个族内万能后门都失效。他不咬她不是出于道德，是发现了一个咬不起的人——这比道德更动人。
+
+**读者视角提示**：对照第二章的 Aegis 设定：她免疫魅惑等于他无法善后——每一个亲密动作都是裸奔。这本书的危险感全建立在「没有撤销键」上。
 
 > **原句 9:** "There’s hesitation in her eyes, but also a hell of a lot of lust. I can see her warring with herself. She’s afraid. Not of me, the man, but I suspect the damage I could do to her heart. She has every reason to be."
 

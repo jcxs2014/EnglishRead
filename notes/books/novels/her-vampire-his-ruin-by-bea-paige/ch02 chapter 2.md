@@ -53,7 +53,17 @@ modified: "2026-11-09"
 
 **读者视角提示**：记住「怪小鸭」的三段变化：爱称、刺、她的自我怀疑。往后任何人对她说「不同寻常」，她都会先想起这把刀。
 
-> **原句 5:** "So, I was the strange little duck he once, at the very least, liked, but slowly came to detest. During our fifteen-year marriage, I lost the girl I was, and turned into this person I didn’t recognise just to please him, and it still wasn’t enough."
+> **原句 5:** "I’m not usually so sympathetic, but there’s something about the vulnerability hidden within Edie’s strength that has me wanting to hunt down her husband and rip his throat out for hurting her. I earmark that thought for another day."
+
+**中文理解**：他不常同情谁，但 Edie 力量里藏着的脆弱，让他想猎杀她的丈夫、撕开他的喉咙。他把这个念头记下，留到日后再办。
+
+**关键词**：vulnerability hidden within Edie's strength / rip his throat out / earmark
+
+**为什么这样写**：「力量里的脆弱」是对她人设的定妆照——作者不让男主怜悯她的遭遇，而让他被她的强撑击中。杀意被「earmark（记账留待）」这个商务词包起来，恐怖与克制同框，掠食者的耐心成了一种浪漫化的暴力。
+
+**读者视角提示**：「记到日后」是作者埋的定时炸弹，这句话迟早兑现在她前夫身上。往后任何他提到她前夫的段落，都回来对一下这笔账。
+
+> **原句 6:** "So, I was the strange little duck he once, at the very least, liked, but slowly came to detest. During our fifteen-year marriage, I lost the girl I was, and turned into this person I didn’t recognise just to please him, and it still wasn’t enough."
 
 **中文理解**：她说，自己曾是那只怪小鸭——至少他还喜欢过、后来慢慢厌恶了。十五年婚姻里，她弄丢了当初那个女孩，把自己改造成一个都不认识的人去讨他欢心，可即便这样，仍然不够。
 
@@ -63,7 +73,7 @@ modified: "2026-11-09"
 
 **读者视角提示**：这一节解释了她此刻「连自己都不认识」的暴脾气——她的锋利不是性格，是寻回。往后她每次口出狂言，都是那个女孩回来一点。
 
-> **原句 6:** "He knew exactly what he was doing when he called her his strange little duck. It was never a term of endearment; he was insulting her right from the start, hiding it behind false affection. I know men like him."
+> **原句 7:** "He knew exactly what he was doing when he called her his strange little duck. It was never a term of endearment; he was insulting her right from the start, hiding it behind false affection. I know men like him."
 
 **中文理解**：他一眼看穿：前夫叫她怪小鸭，从来不是爱称——从第一天起就在羞辱她，把侮辱藏在虚假的温情后面。他熟悉这种男人。
 
@@ -72,16 +82,6 @@ modified: "2026-11-09"
 **为什么这样写**：让一个掠食者识破另一个掠食者——两代「情感捕食」的作案手法当场比对成功。他不安慰、不评判，只做心理画像；这份冷静反而成了本章最凶的护短，嘴上却只字不提。
 
 **读者视角提示**：注意 Dorian 对她前夫的判断是内部信息——读者知道他看穿了什么，Edie 不知道。这份信息差是后面所有「他替她出气」场面的引信。
-
-> **原句 7:** "I’m not usually so sympathetic, but there’s something about the vulnerability hidden within Edie’s strength that has me wanting to hunt down her husband and rip his throat out for hurting her. I earmark that thought for another day."
-
-**中文理解**：他不常同情谁，但 Edie 力量里藏着的脆弱，让他想猎杀她的丈夫、撕开他的喉咙。他把这个念头记下，留到日后再办。
-
-**关键词**：vulnerability hidden within Edie's strength / rip his throat out / earmark
-
-**为什么这样写**：「力量里的脆弱」是对她人设的定妆照——作者不让男主怜悯她的遭遇，而让他被她的强撑击中。杀意被「earmark（记账留待）」这个商务词包起来，恐怖与克制同框，掠食者的耐心成了一种浪漫化的暴力。
-
-**读者视角提示**：「记到日后」是作者埋的定时炸弹，这句话迟早兑现在她前夫身上。往后任何他提到她前夫的段落，都回来对一下这笔账。
 
 > **原句 8:** "“But just so we’re clear, I’m doing this out of curiosity more than anything. Call it an experiment, and definitely do not take this as an invitation into my bed, no matter how talented at kissing you think you are. One kiss, then I’m gone. Understand?”"
 
