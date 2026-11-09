@@ -20,7 +20,7 @@ modified: "2026-11-08"
 
 **关键词**：rhythmic / clock face / constant / was no longer
 
-**为什么这样写**：句首用 Although 让步、句中用 which used to be a constant 回望、句尾用 was no longer 收刀，三段递进把「停摆」写成有前史的失落；紧接着的 Silence 与 That was more wearisome 两句独立成段，把这份安静实体化，读者先感到不对，再去找原因。
+**为什么这样写**：句首用 Although 让步、句中用 which used to be a constant 回望、句尾用 was no longer 收刀，三段递进把「停摆」写成有前史的失落：先让步、再回望、最后收刀，读者跟着从句一路下沉，直到句末才意识到失去的是节律本身。
 
 **读者视角提示**：本章只交代钟停了，不解释为什么——这个缺口就是全书第一处真正的谜，读者会以为它和炉子、和邀请令有关。
 
@@ -36,7 +36,7 @@ modified: "2026-11-08"
 
 > **原句 3:** "With each day came news of more towns leveled, more kingdoms slain, more enemies vanquished. Some said the king was merely consumed by vengeance, obsessed with enacting revenge upon those who had wronged him—those who had helped the Red Queen betray and murder his family. Others said the power of the crown had simply made him mad."
 
-**中文理解**：消息一天比一天坏：被夷平的城市、被屠的国度。一说国王只是被复仇烧空了脑子，一心要清算那些背叛并谋杀他家人的家伙；另一说simply是王冠本身把他逼成了疯子。
+**中文理解**：消息一天比一天坏：被夷平的城市、被屠的国度。一说国王只是被复仇烧空了脑子，一心要清算那些背叛并谋杀他家人的家伙；另一说则是王冠本身把他逼成了疯子。
 
 **关键词**：vanquished / vengeance / betray / crown
 
@@ -46,7 +46,7 @@ modified: "2026-11-08"
 
 > **原句 4:** "There were several soft thumps and Chez’s fur brushed up against my arm. He was heavier than a regular cat, and rarely leaned on me this way, but I appreciated the gesture. His expression was somber. “He’s not the same man, Allie.”"
 
-**中文理解**：猫用身体蹭过来——这可不常见：他有普通猫的分量，平常也极少靠人示好，但 Allie 领了这份情；猫神情凝重，抛下一句「他已经不是从前那个人了，Allie」。
+**中文理解**：猫用身体蹭过来——这可不常见：他比普通猫要沉，平常也极少靠人示好，但 Allie 领了这份情；猫神情凝重，抛下一句「他已经不是从前那个人了，Allie」。
 
 **关键词**：rarely leaned / appreciated / somber / not the same man
 
@@ -60,7 +60,7 @@ modified: "2026-11-08"
 
 **关键词**：mere assassin / harvesting hearts / extract / resist her control
 
-**为什么这样写**：前半句用 still a mere assassin 把身份钉死，后半句用一个 But 把同一个人的另一个身份翻出来，反转不靠评论、只靠一个转折连词；最重的一句只有四个词（He saved my heart）却单独成段，把「他救过我」钉进读者记忆。
+**为什么这样写**：前半句用 still a mere assassin 把身份钉死，后半句用一个 But 把同一个人的另一个身份翻出来，反转不靠评论、只靠一个转折连词；was ordered 这个被动把「刺客」与「救人」并置在同一句里：命令来自女王、选择来自他，责任归属一目了然。
 
 **读者视角提示**：这里的「他」全书不具名，读者只能从行为反推身份——本章刻意延迟揭晓，为后段的指名埋线。
 
@@ -126,4 +126,4 @@ modified: "2026-11-08"
 | throne | 王位 | His reputation as a most feared assassin already preceded him, having slaughtered dozens of kingdoms before taking the throne. |
 
 ## 一句话总结
-一座停摆的钟楼里，那个造得出奇迹的机械师仍不肯承认——八个月前她救下的那个男人，如今正要挑新娘。
+一座停摆的钟楼里，那个造得出奇迹的机械师仍不肯承认——那个她曾救过、如今已坐上王座的男人，正要挑新娘。

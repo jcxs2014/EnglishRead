@@ -1,0 +1,70 @@
+{
+ "chapter": "ch05",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch05_five_stranger.txt",
+ "facts": [
+  {
+   "fact": "她被锁上手腕、腰与脚踝三处镣铐，独自走过城堡大厅去见国王。",
+   "anchor": "Cold metal clanked around my wrists, my waist, and between my ankles.",
+   "start": 664,
+   "end": 733
+  },
+  {
+   "fact": "国王恢复王号后换了发色：原是一头银白细发，如今成了垂过下颌的深栗色卷发，令她怀疑换了人。",
+   "anchor": "his hair, which was once a fine silver-white, had turned a wavy dark chestnut brown",
+   "start": 2542,
+   "end": 2625
+  },
+  {
+   "fact": "她开口讨回昨夜落下的另一只靴子，取过来隔着长袜重新穿上。",
+   "anchor": "I reached over to take the shoe and slipped it on over my stockings.",
+   "start": 5362,
+   "end": 5430
+  },
+  {
+   "fact": "国王低声断言她「借来的心」里的魔法尚未消散——这正是她昨夜能感知到刺客的原因。",
+   "anchor": "The magic in your borrowed heart has not yet dissipated.",
+   "start": 6292,
+   "end": 6348
+  },
+  {
+   "fact": "国王承认整场舞会是引刺客现身的陷阱，并命令她指认企图行刺他的囚犯。",
+   "anchor": "“It was a trap,” he repeated in confirmation, his tone bored.",
+   "start": 8160,
+   "end": 8221
+  },
+  {
+   "fact": "五名囚犯被傀儡守卫用铁链拖进王座厅，在御座前被按成一排。",
+   "anchor": "as five prisoners were dragged into the hall",
+   "start": 8690,
+   "end": 8734
+  },
+  {
+   "fact": "她指认出昨夜行刺的那名女子后，国王点头下令把她押上绞架。",
+   "anchor": "“It’s her.” The king tilted his head in a slight nod. “Take her to the gallows.”",
+   "start": 11458,
+   "end": 11538
+  },
+  {
+   "fact": "她抗议国王食言，国王却抬手一挥，下令把囚犯全部杀掉。",
+   "anchor": "He lifted his hand, then gave a slight wave. “Kill them all.”",
+   "start": 11657,
+   "end": 11718
+  }
+ ],
+ "relations": [
+  {
+   "fact": "叙述者与国王曾「心相连」，彼此能感知对方的感受（本章以过去时陈述这段联结），她自认像飞蛾般被他吸引。",
+   "anchor": "When our hearts were linked, I could feel what he felt. He could feel what I felt.",
+   "start": 3307,
+   "end": 3389
+  }
+ ],
+ "numbers": [
+  {
+   "fact": "「几周前」（A few weeks ago）国王的手下偷听到针对他的阴谋——这一时长说法出自国王之口，指王廷追查叛徒期间。",
+   "anchor": "A few weeks ago, my men overheard a scheme against me.",
+   "start": 7461,
+   "end": 7515
+  }
+ ]
+}

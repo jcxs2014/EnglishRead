@@ -1,0 +1,66 @@
+{
+ "chapter": "ch01",
+ "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch01_one_alice.txt",
+ "facts": [
+  {
+   "fact": "爱丽丝（Alice）在钟塔里用扳手反复敲打坏掉的铸铁炉，明知发脾气砸工具并不能让它修得更快。",
+   "anchor": "banging a metal tool in frustration against a broken furnace",
+   "start": 65,
+   "end": 125
+  },
+  {
+   "fact": "紫毛猫 Chez 乘电梯升到塔内，隔着铁栅门问外面是什么吵闹声。",
+   "anchor": "“What in the fresh tide’s name is all that racket?”",
+   "start": 1603,
+   "end": 1654
+  },
+  {
+   "fact": "爱丽丝用扳手指着堆满备件的木桌上摊开的羊皮纸，让 Chez 看那份东西。",
+   "anchor": "I pointed my wrench accusingly at the unrolled parchment",
+   "start": 2712,
+   "end": 2768
+  },
+  {
+   "fact": "爱丽丝回想：国王当年还是刺客、奉命取她心脏并杀她时，找到了抵抗红心王后控制的办法，救了她的心，两人因此交换了心。",
+   "anchor": "when he was ordered to extract my heart and kill me, he’d found a way to resist her control",
+   "start": 5978,
+   "end": 6069
+  },
+  {
+   "fact": "爱丽丝气得把扳手塞回工具腰带，宣布炉子的事得等着，随后转向 Chez 问他是否终于带来了公爵夫人的消息。",
+   "anchor": "Wholly infuriated, I stuffed my wrench back into my tool belt.",
+   "start": 6868,
+   "end": 6930
+  },
+  {
+   "fact": "Chez 转述公爵夫人的话：泪河几乎无法通行，她要到这一侧来很困难，正在另找办法，镜子仍可用于与她联络。",
+   "anchor": "with the River of Tears virtually impassable, it’s quite a challenge for her to journey",
+   "start": 8678,
+   "end": 8765
+  },
+  {
+   "fact": "爱丽丝问 Chez 有没有找到她在找的稀有 F-capacitor，并说她仅有的一个已在多次校准实验中被磨损。",
+   "anchor": "I wore out the only one I had from all the calibration experiments so far.",
+   "start": 12554,
+   "end": 12628
+  },
+  {
+   "fact": "章末爱丽丝承认，尽管懂科学与这个神秘世界，她却完全想不起自己来自哪里、也记不得自己究竟是谁。",
+   "anchor": "I could not for the life of me remember anything about where I had come from",
+   "start": 15236,
+   "end": 15312
+  },
+  {
+   "fact": "【人物关系】Chez（柴郡猫，Cheshire Cat）是爱丽丝最亲密的朋友，公爵夫人也是她仅有的友人；Chez 为公爵夫人传话，两人都认识爱丽丝。",
+   "anchor": "Chez was my closest friend. He and the Duchess were all I had.",
+   "start": 10021,
+   "end": 10083
+  },
+  {
+   "fact": "【数字/时长】eight months：红心王后与国王决斗落败、国王夺回王位至今的时长，也是爱丽丝造那台机器耗费的时长；另有 sixty-some stories（钟塔楼层数）、dozens of kingdoms（国王称王前屠灭的王国数）。",
+   "anchor": "It had been eight months since the Red Queen of Hearts battled the king",
+   "start": 3997,
+   "end": 4068
+  }
+ ]
+}
