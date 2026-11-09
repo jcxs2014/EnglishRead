@@ -1,0 +1,49 @@
+{
+ "book": "hart-by-marina-pirlimpou",
+ "chapter": "ch15",
+ "text": "notes/books/novels/hart-by-marina-pirlimpou/text/ch15_thirteen.txt",
+ "facts": [
+  {
+   "fact": "警报解除后 Sam 在 Devon 办公室等他；Devon 跪在他腿间抱住他，身体仍在发抖，Sam 本能地俯身护住他。",
+   "anchor": "His arms tighten around me",
+   "start": 528,
+   "end": 554
+  },
+  {
+   "fact": "Devon 低声问「Did I make it in time?」「Did I make it in time to keep you safe?」；Sam 说「You did. I’m okay, Devon. We’re both okay.」",
+   "anchor": "Did I make it in time to keep you safe?",
+   "start": 1427,
+   "end": 1466
+  },
+  {
+   "fact": "Devon 说「我弟弟需要我，而我从来没有及时赶到。」他把这作为自己多年罪疚的核心。",
+   "anchor": "My little brother needed me",
+   "start": 3933,
+   "end": 3960
+  },
+  {
+   "fact": "旧事：创业第一年他拒绝为「wrong people」提供保护；几天后接到无声电话，背景有孩子的声音、Angel 的声音；他开车赶去学校，到那里只看见救护车。",
+   "anchor": "saw the ambulance",
+   "start": 5737,
+   "end": 5754
+  },
+  {
+   "fact": "Devon 说那些人把 Angel 伤得再也看不见了，只因为要「send a message」；Sam 问他有没有找到那些人，Devon 答「I did.」",
+   "anchor": "he can’t see anymore",
+   "start": 6072,
+   "end": 6092
+  },
+  {
+   "fact": "Devon 说自己应该放 Sam 走、连看他都不配；Sam 问「Do you want that? Do you want to let me go?」Devon 答「No.」",
+   "anchor": "Do you want that?",
+   "start": 9088,
+   "end": 9105
+  },
+  {
+   "fact": "Sam 邀 Devon 周末来家里住，「With Eli and me」；Devon 说「I’d love that, Sammy」，声音沙哑，笑已经浮上来。",
+   "anchor": "I’d love that, Sammy",
+   "start": 11697,
+   "end": 11717
+  }
+ ]
+}
