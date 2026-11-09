@@ -1,0 +1,67 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch23",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch23_chapter_twenty_three_the_nova.txt",
+ "facts": [
+  {
+   "fact": "她醒来身体酸痛但精神轻快。",
+   "anchor": "I woke with a sore body",
+   "start": 45,
+   "end": 68
+  },
+  {
+   "fact": "父亲打电话来，反复要她读那本日记。",
+   "anchor": "Did you read the journal",
+   "start": 3362,
+   "end": 3386
+  },
+  {
+   "fact": "父亲坚持要她读，说「please, Lucy」。",
+   "anchor": "I need you to read it",
+   "start": 3485,
+   "end": 3506
+  },
+  {
+   "fact": "她听见父亲声音后崩溃，觉得身体排斥回娘家。",
+   "anchor": "physically repelled by my childhood home",
+   "start": 5240,
+   "end": 5280
+  },
+  {
+   "fact": "Altair 出现，她先打他，后来他抱住她。",
+   "anchor": "A hug",
+   "start": 7047,
+   "end": 7052
+  },
+  {
+   "fact": "他要求「给我看更多吃的」作为安慰。",
+   "anchor": "show me more food",
+   "start": 7737,
+   "end": 7754
+  },
+  {
+   "fact": "去父母家前，她嘱咐他说自己是 Dorian 的表亲。",
+   "anchor": "Dorian’s cousin",
+   "start": 9443,
+   "end": 9458
+  },
+  {
+   "fact": "母亲追问他的身份，说 Fairfax 家没有侄子。",
+   "anchor": "don’t have any nephews",
+   "start": 11784,
+   "end": 11806
+  },
+  {
+   "fact": "她谎称他是「精神导师」。",
+   "anchor": "spiritually",
+   "start": 12827,
+   "end": 12838
+  },
+  {
+   "fact": "母亲提到他像 Dorian，两人一起为 Dorian 难过。",
+   "anchor": "I miss him too",
+   "start": 13394,
+   "end": 13408
+  }
+ ]
+}
