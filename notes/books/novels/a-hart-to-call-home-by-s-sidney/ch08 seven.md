@@ -23,7 +23,7 @@ modified: "2026-11-09"
 > **原句 2:** "I want what my parents have. What my sister has. What I see Everett building with Ruth. I've been blasé about it up to now, content to have fun and live in the moment, but I'm noticing other peoples' happiness more and more, and the angel and devil on my shoulders seem to be in cahoots."
 
 **中文理解**：他想要父母拥有的、妹妹拥有的、Ev 和 Ruth 正在建造的那种生活。此前他一直无所谓，享受当下就好——可他越来越注意到别人的幸福，连肩上的天使和魔鬼都串通好了：该振作，该安定下来了。
-**关键词**：want what my parents have / blasé / in cahoots / settle down
+**关键词**：want what my parents have / blasé / in cahoots / live in the moment
 **为什么这样写**：天使与魔鬼本该打架，这里却「结盟」——连内心的反对票都投完了，安定的心愿就此写成决议；与 ch03「This month can't go by fast enough」一脉相承，等待被赋予新含义。
 **读者视角提示**：这是男主 arcs 的关键转折——他不再只是暗恋者，而是主动准备者；下一个他打算安定的对象是谁，本章已经有名字。
 

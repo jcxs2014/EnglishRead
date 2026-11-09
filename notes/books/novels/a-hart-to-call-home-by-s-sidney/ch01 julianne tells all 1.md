@@ -20,12 +20,19 @@ modified: "2026-11-09"
 **为什么这样写**：人名即节目名（Julianne Tell/Tells All）的双关先把「说闲话」这个人设钉死；「once again」三个字母顺手交代丰收节是年年旧例，小镇的时间感由此立起来。
 **读者视角提示**：把三镇的名字（Heath、Farrow、Skillett）记住——主角生活的 Skillett 只排第三，本书的八卦视野比小镇更大；专栏每期是三章一次的固定插节。
 
-> **原句 2:** "In Farrow, sophomore George Cunningham set a brand new school record for the longest field goal when he kicked and scored from sixty-two yards to beat the Burns Bulldogs. Go Foxes! Meanwhile, over in Skillett, Ellison's famous blueberry scones have been joined with a brand new flavor: orange chocolate chip."
+> **原句 2:** "In Farrow, sophomore George Cunningham set a brand new school record for the longest field goal when he kicked and scored from sixty-two yards to beat the Burns Bulldogs. Go Foxes!"
 
-**中文理解**：Farrow 那边，高二生 George Cunningham 一脚 62 码射门拿下全场最远任意球、破了校纪录，击败 Burns Bulldogs——专栏替 Foxes 队喊了声加油；镜头转到 Skillett，Ellison 家有名的蓝莓司康添了新口味：橙香巧克力豆。
-**关键词**：sophomore / school record / sixty-two yards / blueberry scones
-**为什么这样写**：新闻体三连（人名+数字+队名）把一条高中球讯写出了本地报纸的正经劲儿，转头就用「famous blueberry scones」掉进甜品闲话——正经与闲话的落差正是这个专栏的趣味配方。
-**读者视角提示**：本插节纯做舞台铺垫，无主线剧情；但 Skillett 的店名与人名（Ellison）很可能在正文章里再现——这类插节是这个系列攒人情的记账本。
+**中文理解**：Farrow 那边，高二生 George Cunningham 一脚 62 码射门拿下全场最远任意球、破了校纪录，击败 Burns Bulldogs——专栏末尾还替 Foxes 队喊了声加油。
+**关键词**：sophomore / school record / sixty-two yards / Go Foxes
+**为什么这样写**：新闻体三连（人名+数字+队名）把一条高中球讯写出了本地报纸的正经劲儿，末尾一句口号立刻掉回啦啦队口吻——正经与热闹的落差正是这个专栏的趣味配方。
+**读者视角提示**：62 码破纪录的少年是本镇新一代的群像注脚——本书的舞台不只围着主角转，连高中球讯都记档。
+
+> **原句 3:** "Meanwhile, over in Skillett, Ellison's famous blueberry scones have been joined with a brand new flavor: orange chocolate chip. Now, I haven't been able to taste-test them myself yet, but my sources tell me they are a hit."
+
+**中文理解**：镜头转到 Skillett：Ellison 家有名的蓝莓司康添了新口味——橙香巧克力豆；Julianne 还没亲自试吃，但线人告诉她这新味是个爆款。
+**关键词**：Ellison's famous blueberry scones / orange chocolate chip / taste-test / a hit
+**为什么这样写**：连吃个司康都要走「本人未证实、线人称爆款」的查证流程，把八卦的专业精神用在甜品上——一本正经地闲聊，正是小镇专栏的幽默内核。
+**读者视角提示**：Ellison 的店名记下——它已在 ch09 的社区名单里出现过（获奖司康），插节与正文的店铺正在互相引用。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
