@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 **关键词**：never mentions his mate（从不提伴侣）、another alpha（另一个 alpha）、acid churn in my gut（胃里翻酸水）
 
-**为什么这样写**： Thankfully 先给一个松口气的姿态，接着 The mere idea 把「松口气」立刻变成折磨：他不用听，只要想就够。破折号中间那串动词 gets to touch him, and kiss him, and have him 用 gets to 重复三次，把「另一个 alpha 的权利」一项项列出来；every evening when he goes home 把时间钉在每天下班，最日常的时刻反而最刺人。acid churn in my gut 把嫉妒写成消化系统的反应。
+**为什么这样写**： Thankfully 先给一个松口气的姿态，接着 The mere idea 把「松口气」立刻变成折磨：他不用听，只要想就够。破折号中间那串动词 gets to touch him, and kiss him, and have him 用 gets to 领三个动词（touch、kiss、have），把「另一个 alpha 的权利」一项项列出来；every evening when he goes home 把时间钉在每天下班，最日常的时刻反而最刺人。acid churn in my gut 把嫉妒写成消化系统的反应。
 
 **读者视角提示**：读者已经知道 Sam 没有伴侣，所以这一段是纯粹建立在 Devon 误判上的痛苦；越具体，越显得可笑又可怜。作者也让「mate」这个词反复出现，为后文真相揭开时的反转蓄力。
 
