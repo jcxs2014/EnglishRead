@@ -1,0 +1,55 @@
+{
+ "book": "forged-flight-by-c-l-blossom",
+ "chapter": "ch01",
+ "text": "notes/books/novels/forged-flight-by-c-l-blossom/text/ch01_1_chapter_one_micah.txt",
+ "facts": [
+  {
+   "fact": "Micah 在诊所处理躁动的幼狮鹫。",
+   "anchor": "If this griffin fledgling bites me one more time",
+   "start": 30,
+   "end": 78
+  },
+  {
+   "fact": "伤因是爪垫里的 fyreberry 刺。",
+   "anchor": "Just as I suspected, the culprit is a fyreberry thorn buried deep in the soft pad beneath its talon.",
+   "start": 359,
+   "end": 459
+  },
+  {
+   "fact": "Micah 暗恋街对面的铁匠 Lucan，二人尚未交谈。",
+   "anchor": "We’ve never actually spoken, but I’ve admired him from afar",
+   "start": 4306,
+   "end": 4365
+  },
+  {
+   "fact": "学徒 Elowen 回诊所并打趣 Micah 偷看铁匠。",
+   "anchor": "Elowen strolls in from their lunch break",
+   "start": 4972,
+   "end": 5012
+  },
+  {
+   "fact": "Micah 下班后走向山脚的住处。",
+   "anchor": "My cottage sits at the foot of Mount Embercrest",
+   "start": 7362,
+   "end": 7409
+  },
+  {
+   "fact": "Micah 在林路发现红色蛋壳。",
+   "anchor": "Frowning, I glance down to see a shard of crimson eggshell beneath my boot.",
+   "start": 7970,
+   "end": 8045
+  },
+  {
+   "fact": "被发现的幼龙翼膜发育不全。",
+   "anchor": "The membranes never fully formed, leaving behind two undersized, misshapen limbs",
+   "start": 9393,
+   "end": 9473
+  },
+  {
+   "fact": "Micah 用斗篷裹住幼龙，把它带往住处。",
+   "anchor": "I unfasten my cloak and carefully wrap the hatchling inside the thick wool.",
+   "start": 10093,
+   "end": 10168
+  }
+ ]
+}
