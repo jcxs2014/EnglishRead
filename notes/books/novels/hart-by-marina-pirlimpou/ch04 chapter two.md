@@ -69,7 +69,7 @@ modified: "2026-11-09"
 
 **中文理解**：这个念头让我心里有什么东西枯萎下去。但即便这么想，我又觉得不对。他不像是在可怜我。那感觉更像是……他希望我在那里。
 
-**关键词**：something wither inside me（心里有什么枯萎）、felt sorry for me（可怜我）、wanted me there（希望我在那里）
+**关键词**：something wither inside me（心里有什么枯萎）、sorry for me（可怜我）、wanted me there（希望我在那里）
 
 **为什么这样写**：先给一个自我打击（wither），紧接着用 But 推翻它：it doesn’t feel right。最后一句用 may have… wanted me there 的省略号停顿，把「他希望我在」这句话说得既轻又不确定。wanted 是欲望词，不是职业词，Sam 自己也知道这一点，所以才用省略号缓冲。
 
@@ -79,7 +79,7 @@ modified: "2026-11-09"
 
 **中文理解**：「我不细说了，但事情很糟。非常糟。Kingston 先生提出把他调到别的部门，Daniel 的回应是泄露公司数据，铁一般的保密协议也不要了。纯粹出于报复。我们行动快，几乎立刻控制住了泄露，但那本来可能变成一场规模史诗级的灾难。」
 
-**关键词**：unreciprocated affection（单方面的感情）、leak company data（泄露公司数据）、iron-clad NDAs（铁一般的保密协议）
+**关键词**：leak company data（泄露公司数据）、iron-clad NDAs（铁一般的保密协议）、out of pure spite（纯粹出于报复）
 
 **为什么这样写**：Colin 的叙述用短句推进：it was bad. Really bad. 然后才给事件链——offer to transfer、response was to leak、out of pure spite、contained almost immediately、could have been a shitstorm。作者让 Colin 用「几乎立刻控制住」来收尾，既显示公司能力，也让「后果」停在假设里；iron-clad NDAs be damned 是整段唯一带情绪的短语。
 
