@@ -1,0 +1,43 @@
+{
+ "book": "the-girl-in-blue-by-doreen-carvajal",
+ "chapter": "ch20",
+ "text": "notes/books/non-fiction/the-girl-in-blue-by-doreen-carvajal/text/ch20_chapter_19_kunsthaus.txt",
+ "facts": [
+  {
+   "fact": "2024 年冬，苏黎世 Heimplatz 上方的霓虹蓝海报为 Kunsthaus 博物馆的 Bührle 收藏展做广告，画里 Irène 的脸俯瞰市中心",
+   "anchor": "posters in neon blue announcing a Bührle Collection exhibition at the Kunsthaus museum",
+   "start": 166,
+   "end": 252
+  },
+  {
+   "fact": "展期内这幅画是新馆扩建部分的招牌肖像，独自陈列在浅色壁龛里，位于展览入口处",
+   "anchor": "La Petite Irène was the marquee portrait. She was displayed alone in a pale alcove",
+   "start": 454,
+   "end": 536
+  },
+  {
+   "fact": "Bührle 基金会 2012 年与苏黎世市达成借展协议，把藏品放入 Chipperfield 设计的新馆直到 2034；协议受 2008 年持械抢劫案冲击",
+   "anchor": "Foundation E. G. Bührle struck a deal in 2012 with the city of Zurich",
+   "start": 1353,
+   "end": 1422
+  },
+  {
+   "fact": "2024 年独立委员会 167 页报告：205 件借展作品中 90 件需重查来源，62 件曾属犹太家庭；但 La Petite Irène 不在被点名之列，官方说法是 1949 年售出而出口许可无着",
+   "anchor": "Of the 205 works on loan from the Bührle Collection, 90 required renewed provenance scrutiny",
+   "start": 2052,
+   "end": 2144
+  },
+  {
+   "fact": "瑞士联邦法院 1949 年 7 月判词：Bührle 购画曾搭乘 Göring 私人专列，他交易时「对一切警告毫不顾惜」",
+   "anchor": "In July 1949, judges noted that paintings acquired by Bührle had traveled in Göring’s private railcar",
+   "start": 2879,
+   "end": 2980
+  },
+  {
+   "fact": "1951 年圣诞前 Bührle 与 Kokoschka 为肖像画争执、被迫重画争议部分；展厅里 Bührle 像前无人，Irène 前却人流驻足",
+   "anchor": "Bührle and Kokoschka clashed over the portrait before the Christmas of 1951",
+   "start": 4788,
+   "end": 4863
+  }
+ ]
+}
