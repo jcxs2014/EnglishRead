@@ -10,6 +10,7 @@ modified: "2026-11-08"
 - **情感弧线位置**：起点是白昼的惊叹（A thick carpet of snow、an almost ethereal glow），中段坠入失控的恐惧与敬畏（Caught between terror and awe），在王子一句「your manner of hell」的指控上绷到最紧，最后在「I don’t know」与「Welcome to Lucerne」两处松开。
 - **Tropes 兑现/反转**：兑现「异国王室的殷勤款待」——丝绸、缎带与紫罗兰丁香的幽香，配上一句「Courtesy of the princess」；反转落在王子身上：刚刚还在指控「your manner of hell」的 Gregory，掸掉衣上的灰后只答得出「I don’t know」，一腔怒火换成了无知。
 - **人物弧线**：她从被安排、被梳妆的客人，变成扑身把王子从坠石下推开的人（Without thinking, I hurled myself forward），又被公主的一声「Welcome to Lucerne」重新放回客人的位置；国王在这一章几乎只剩动作——抓紧手、用魔力挡下碎石、喊出一声「ALLIE!」。
+- **补充（她的第一次动手）**：崖石塌向 Gregory 时她不假思索扑上去撞开他——“Without thinking, I hurled myself forward, slamming into Gregory’s chest to drive him aside.”，落石在头顶被国王的魔法击成一团粉雾（“a fine mist of pulverized stone”）：她救了那个恨她的人，而救她的是国王。
 - **叙事手法**：第一人称回顾；白昼的城市用长句与名词串写成一台会运转的机器（chamber windows、rooftops、slow-turning arms、lattice iron）；灾变段改用单句成段逐级加重（「What…?」「No.」「This wasn’t an attack.」「This was something worse.」）；结尾退回礼仪的慢速长句。
 
 ## 精读

@@ -76,7 +76,7 @@ modified: "2026-11-08"
 
 > **原句 7:** "The king’s response was flat. “I killed his sister. You remember. You were there.”"
 
-**中文理解**：国王的回答很平：「我杀了他的妹妹。你记得。你当时就在场。」
+**中文理解**：国王的回答很平：「我杀了他的一个姐妹。你记得。你当时就在场。」
 
 **关键词**：The king’s response was flat / I killed his sister / You remember / You were there
 

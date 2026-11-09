@@ -6,10 +6,11 @@ modified: "2026-11-08"
 # 15. Fifteen: NEGOTIATION
 
 ## 本章导航
-- **一句话概括**：公主 Sophie 一开口就让人卸下防备，叙述者自己都说感知不到她任何恶意（I couldn’t sense any ill will in her whatsoever.）；Gregory 当场把妹妹护到身后，国王却只朝她一指，说出 This is my witch, Allie.，她立刻顶回去：I’m actually a scientist.；再用一个 Who’s negotiating? You or me? 把谈判的主导权从国王手里抢了过来。
+- **一句话概括**：公主 Sophie 一开口就让人卸下防备，叙述者自己都说感知不到她任何恶意（I couldn’t sense any ill will in her whatsoever.）；Gregory 当场把 Sophie 护到身后，国王却只朝她一指，说出 This is my witch, Allie.，她立刻顶回去：I’m actually a scientist.；再用一个 Who’s negotiating? You or me? 把谈判的主导权从国王手里抢了过来。
 - **情感弧线位置**：起点是松弛（I found myself smiling without effort.），中段被 Gregory 的敌意拉紧（Don’t get any closer to him.），再被国王那句标签与她的反驳顶到针锋相对；后半章在伤员帐篷里缓下来，末尾只剩一句轻轻的 I hope so too.——整章是一次从「互相防备」到「同席而谈」的下降。
 - **Tropes 兑现/反转**：兑现「敌国来客与暴君同桌而谈」的母题——两个国家的人真的对上了面；反转在称呼与分工：国王用 This is my witch, Allie. 替她定性，她用 I’m actually a scientist. 抢回定性权，而最后坐上谈判位的不是国王，是那个说出 Who’s negotiating? You or me? 的人。
 - **人物弧线**：她从被介绍的一方（This is my witch, Allie.）变成主持谈判的一方（Who’s negotiating? You or me?）；到了伤员中间，她不再急着辩解身份，改用一段关于 mystical heart 的来历替自己争取分量。
+- **补充（她的观察力）**：心的事其实不是她讲出来的——Sophie 先自己说破 “You wear a mystical heart.”，理由是 “It wasn’t hard to guess. I’ve only observed your interactions this morning”：叙述者随即用一套红心女王藏心的来历把话题接过去，故事是包装，不是 Sophie 的信息来源。
 - **叙事手法**：第一人称；开场先让叙述者的感知给出否定答案（I couldn’t sense any ill will in her whatsoever.），把「谁在说真话」悬在半空交给读者；转折全靠对话里的短句落地——Who’s negotiating? You or me? 与 To wear it. To preserve it. 都是几句话定乾坤，前面各铺一段叙述；结尾只留一句 I hope so too.，把判断权原样交还读者。
 
 ## 精读
@@ -26,11 +27,11 @@ modified: "2026-11-08"
 
 > **原句 2:** "Huffing urgently, he tugged her behind him, as if to shield her. “Don’t get any closer to him.” His tense gaze slid toward us, but didn’t land on the king, almost as if he couldn’t stomach the sight of his face. “This is my sister, Princess Sophie.”"
 
-**中文理解**：Gregory 喘着粗气把妹妹拽到身后挡着，喝令别再靠近那个人；他的目光滑过来，却落不到国王脸上，像是不忍看那张脸，最后才补一句「这是我妹妹，Sophie 公主」。
+**中文理解**：Gregory 喘着粗气把 Sophie 拽到身后挡着，喝令别再靠近那个人；他的目光滑过来，却落不到国王脸上，像是不忍看那张脸，最后才补一句「这是我姐妹，Sophie 公主」。
 
 **关键词**：urgently / tugged her behind him / shield her / Don’t get any closer to him / couldn’t stomach the sight of his face
 
-**为什么这样写**：动作与台词分层——Huffing urgently 与 tugged her behind him 先写身体的慌张，Don’t get any closer to him. 才补上理由；His tense gaze slid toward us, but didn’t land on the king 把敌意写成「不敢看」而不是「怒目而视」，最后才用 This is my sister, Princess Sophie. 递出妹妹的名号——先立敌意，再把自我介绍写成护送的一部分。
+**为什么这样写**：动作与台词分层——Huffing urgently 与 tugged her behind him 先写身体的慌张，Don’t get any closer to him. 才补上理由；His tense gaze slid toward us, but didn’t land on the king 把敌意写成「不敢看」而不是「怒目而视」，最后才用 This is my sister, Princess Sophie. 递出姐妹的名号——先立敌意，再把自我介绍写成护送的一部分。
 
 **读者视角提示**：作者先让读者看见他护人的动作，再给一句冷硬的警告；国王长什么样、有多大威胁，作者一个字没写，读者只能从他「不敢看」这一点自己补全。
 

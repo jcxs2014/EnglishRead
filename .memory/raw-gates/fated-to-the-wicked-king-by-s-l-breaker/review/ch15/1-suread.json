@@ -1,0 +1,54 @@
+{
+  "chapter": "ch15",
+  "text": "notes/books/novels/fated-to-the-wicked-king-by-s-l-breaker/text/ch15_fifteen_negotiation.txt",
+  "facts": [
+    {
+      "fact": "Allie 觉得 Sophie 的友善态度真诚而不设防，自己也不由自主地笑了。",
+      "anchor": "The princess’s friendly manner was immediate and disarming in its sincerity, and I found myself smiling without effort.",
+      "start": 33,
+      "end": 152
+    },
+    {
+      "fact": "Gregory 向国王一方介绍自己的妹妹 Sophie 公主。",
+      "anchor": "“This is my sister, Princess Sophie.”",
+      "start": 654,
+      "end": 691
+    },
+    {
+      "fact": "Allie 瞪了国王一眼，厉声质问到底谁在谈判——她还是国王。",
+      "anchor": "I shot him a pointed look and snapped, “Who’s negotiating? You or me?”",
+      "start": 2812,
+      "end": 2882
+    },
+    {
+      "fact": "Allie 不愿深究国王过去八个月是否对其他国家犯下暴行。",
+      "anchor": "whether or not he was truly responsible for any atrocities committed against other kingdoms in the past eight months",
+      "start": 3618,
+      "end": 3734
+    },
+    {
+      "fact": "Sophie 跪在伤者旁，双手发出微光，替他们缝合伤口、包扎较深的伤口。",
+      "anchor": "her hands glowing faintly as she knelt beside each patient, knitting wounds, wrapping bandages for deeper cuts",
+      "start": 8745,
+      "end": 8855
+    },
+    {
+      "fact": "Sophie 说这并不难猜，她仅凭今早的观察就推断出 Allie 戴着国王的神秘之心。",
+      "anchor": "It wasn’t hard to guess. I’ve only observed your interactions this morning",
+      "start": 10984,
+      "end": 11058
+    },
+    {
+      "fact": "Sophie 说姐姐被杀，哥哥 Gregory 是最好的人却一直自责。",
+      "anchor": "when our sister was…killed. My brother is a good man. He is the best man I know. But he blames himself.",
+      "start": 16112,
+      "end": 16215
+    },
+    {
+      "fact": "Sophie 说红皇后迫使所有人服从她的命令，统治整片大地数百年。",
+      "anchor": "Everyone was compelled to do her bidding, and she ruled over the entire land for centuries.",
+      "start": 18548,
+      "end": 18639
+    }
+  ]
+}

@@ -34,7 +34,7 @@ modified: "2026-11-08"
 
 > **原句 3:** "“There isn’t time. I must get you to safety.” Gregory’s gaze was pinned on his sister. … “I promise, Allie. I’ll be back with help for you.” His gaze slid toward the king for a moment, as though to emphasize that the help was specifically not for him."
 
-**中文理解**：Gregory 说没有时间了，他必须先把妹妹送到安全的地方；他的目光钉在妹妹身上，接着认真地看着她说：我保证，Allie，我会带着援手回来找你；可他的视线朝国王那边滑了一瞬，仿佛特意强调——那份援手不是给国王的。
+**中文理解**：Gregory 说没有时间了，他必须先把 Sophie 送到安全的地方；他的目光钉在 Sophie 身上，接着认真地看着她说：我保证，Allie，我会带着援手回来找你；可他的视线朝国王那边滑了一瞬，仿佛特意强调——那份援手不是给国王的。
 
 **关键词**：I must get you to safety / gaze was pinned on his sister / I promise, Allie / I’ll be back with help for you / specifically not for him
 
