@@ -95,7 +95,6 @@ modified: "2026-11-09"
 
 **读者视角提示**：读者知道 Sam 一直藏着 Eli 的身世，这句「我也爱你」因此带着未说出口的重量：他爱 Devon，却没有把最重要的真相给他。甜与隐患在同一句里。
 
-Hmm, I wrote "读者提示" instead of "读者视角提示" — must fix before gate. Let me correct when writing? The file is already written. I'll edit after.
 
 > **原句 9:** "I want it anyway. All of it. All of him."
 
