@@ -10,7 +10,7 @@ modified: "2026-11-09"
 - **一句话概括**：四天商务会议的最后一夜，快进入 heat 的 Sam 在酒店酒吧被一个 alpha 搭讪；两人从「你在跟我调情吗」问到名字，从酒吧走到楼上的房间，第二天清晨 Sam 在飞回家之前独自离开，只带走一身雪松与佛手柑的气味。
 - **情感弧线位置**：全书起点（序章）：从疲惫与自我压抑开始，经过被看见、被允许、被照顾，到一夜之后主动离开；弧线在最高点收束为「不告而别」的克制，为全书留下一个未完成的接口。
 - **Tropes 兑现/反转**：兑现 omegaverse 的 alpha／omega 一见即燃、scenting、knot 等类型承诺；反转「一夜情后纠缠」的惯例——Sam 在天亮前主动离开，把这段关系定格为「one great night」；也反转「alpha 命令式求偶」——Devon 在每一道门槛上都先问 Are you okay with that?，并且主动说 we don’t have to do anything。
-- **人物弧线**：Sam 从怕被人看见打哈欠的自我缩小，到主动问出 Flirting with me?、说出 I want you to do everything you said downstairs 与 Take care of me, Alpha，再到清晨按住自己不去叫醒对方——欲望被承认，但被放进「只此一夜」的框里。Devon 从酒吧里的玩笑，到报出名字、给出退路、在床上反复确认，最后在 Sam 睡着后仍轻抚他的头发。
+- **人物弧线**：Sam 从怕被人看见打哈欠的自我缩小，到主动问出 Flirting with me?、说出 I really want you to do everything you said downstairs 与 Take care of me, Alpha，再到清晨按住自己不去叫醒对方——欲望被承认，但被放进「只此一夜」的框里。Devon 从酒吧里的玩笑，到报出名字、给出退路、在床上反复确认，最后在 Sam 睡着后仍轻抚他的头发。
 - **叙事手法**：第一人称现在时（Sam 视角）配短段落节奏；对话承担大部分情节推进，叙述只给身体反应（脸红、心跳、气味）；场景用 *** 分成「酒吧—房间—清晨」三拍，结尾不写告别，只写气味留在肺里。
 
 ## 精读
