@@ -1,0 +1,61 @@
+{
+ "book": "florescentia-by-i-v-ophelia",
+ "chapter": "ch11",
+ "text": "notes/books/novels/florescentia-by-i-v-ophelia/text/ch11_chapter_eleven_the_nova.txt",
+ "facts": [
+  {
+   "fact": "葬礼日家里是紫杉的气味，门上系月桂与黑纱。",
+   "anchor": "the resinous scent of yew",
+   "start": 61,
+   "end": 86
+  },
+  {
+   "fact": "棺木上刻着 Dorian 的 Nova 与 Eclipse 生星符号。",
+   "anchor": "his Nova and Eclipse birth signs",
+   "start": 1551,
+   "end": 1583
+  },
+  {
+   "fact": "来宾把 Everie 牌放进门厅的盒子。",
+   "anchor": "Everie cards",
+   "start": 1985,
+   "end": 1997
+  },
+  {
+   "fact": "她的悼词说自己是做梦的人，他是把梦做出来的手。",
+   "anchor": "I was the dreamer",
+   "start": 6278,
+   "end": 6295
+  },
+  {
+   "fact": "她看棺中尸体的脸裂开、眼睛发白，尖叫。",
+   "anchor": "his eyes wide open and white",
+   "start": 7561,
+   "end": 7589
+  },
+  {
+   "fact": "Maxim 再看时脸已覆铜制死亡面具。",
+   "anchor": "a death mask of copper",
+   "start": 8675,
+   "end": 8697
+  },
+  {
+   "fact": "她在宾客中认出额上有星记的巨兽。",
+   "anchor": "the star marking on his head",
+   "start": 9458,
+   "end": 9486
+  },
+  {
+   "fact": "Maxim 认为她需要看医生，塞给她名片。",
+   "anchor": "a doctor",
+   "start": 10307,
+   "end": 10315
+  },
+  {
+   "fact": "她意识到自己还有更多可失去的，恐惧连锁后果。",
+   "anchor": "how far the dominoes would fall",
+   "start": 12521,
+   "end": 12552
+  }
+ ]
+}
