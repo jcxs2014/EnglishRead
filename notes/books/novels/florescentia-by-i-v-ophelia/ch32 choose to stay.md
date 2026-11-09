@@ -27,7 +27,7 @@ modified: "2026-11-09"
 
 **中文理解**：彼界并不是一个物理地点：它在「之间」，是一个纯能量的维度——如果你愿意，也可以叫它一个过渡。
 
-**关键词**：not a physical location / in between / a transition
+**关键词**：wasn’t a physical location / in between / a transition
 
 **为什么这样写**：全书对彼界最明确的一次定义：它不是「另一个国家」，而是通道本身；「a transition」也暗示留在这里的人会一直处在「还没到」的状态。
 
@@ -37,7 +37,7 @@ modified: "2026-11-09"
 
 **中文理解**：这并不保证成功：它回到了自己的世界，可她仍可能选择不留下——而这是他们能共同存在的唯一方式。
 
-**关键词**：not guaranteed / not choose to stay / the only way
+**关键词**：wasn’t guaranteed / not choose to stay / the only way
 
 **为什么这样写**：三个短句把「留下」写成一道她有权拒绝的选择题；「唯一方式」则暴露它的方案本身也很勉强。
 

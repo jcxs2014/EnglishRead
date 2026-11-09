@@ -35,7 +35,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "I was taken by surprise when a large object’s shadow thrust off the ledge above, nose-diving straight for me."
 
-**关键词**：nose-diving / ledge / casket
+**关键词**：nose-diving / ledge / large object
 
 **中文理解**：一件大物的影子从上方崖边猛然跃出，笔直朝它扎下来，让它吃了一惊。
 

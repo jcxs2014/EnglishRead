@@ -107,7 +107,7 @@ modified: "2026-11-09"
 
 **中文理解**：它不再期待死亡了；体内生出一种新的动力，一种想去发现的冲动——但不是为它自己，是为她。
 
-**关键词**：not death / urge to discover / for her
+**关键词**：wasn’t death / urge to discover / for her
 
 **为什么这样写**：一句话把它整条动机线翻面：从「来死」到「为她活」；「for her」三个词是全书感情的最高点，也是最危险的承诺。
 

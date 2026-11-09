@@ -97,7 +97,7 @@ modified: "2026-11-09"
 
 **中文理解**：有人叫「Lucia！」——她低声问「Dorian？」，又提高声音，趴在虚空边查看：「那是他吗？」
 
-**关键词**：Lucia! / Was that him / no one here
+**关键词**：Lucia! / Was that him / whispered
 
 **为什么这样写**：一声呼唤足以让她整个人扑进虚空；「那是他吗」的自问说明她连自己的耳朵都不敢信。
 

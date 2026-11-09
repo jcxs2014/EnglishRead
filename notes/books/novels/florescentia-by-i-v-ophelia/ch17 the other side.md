@@ -113,13 +113,13 @@ modified: "2026-11-09"
 
 **读者视角提示**：这段与第一章「以欲换运」形成闭环：她一直把身体当能源去交换，如今差点成为被交换的那一方。
 
-> **原句 11:** "“Take me back,” I repeated, a stronger demand. … “Your incantations only work in the world that made you. You are in unfamiliar territory.”"
+> **原句 11:** "“Not me,” he pointed out. “Your incantations only work in the world that made you. You are in unfamiliar territory.”"
 
-**中文理解**：她再次要求：带我回去——语气更硬。它答：你的咒语只在造就你的那个世界有效；你现在身处陌生的领地。
+**中文理解**：它把责任推回规则：不是它不放人，是她的咒语只在造就她的那个世界有效；她在这里只是一个访客。
 
-**关键词**：Take me back / only work in the world that made you / unfamiliar territory
+**关键词**：Not me / only work in the world that made you / unfamiliar territory
 
-**为什么这样写**：它的回答等于宣告力量的地图：她的魔法有国籍、有边界；这句话把她从「女巫」降为一个在别人地盘上的访客。
+**为什么这样写**：它的回答等于宣告力量的地图：她的魔法有国籍、有边界；「Not me」先把责任推开，再用规则把她降为一个在别人地盘上的访客。
 
 **读者视角提示**：此后她每次跨界的筹码都变了：不是「我会关门」，而是「我需要被送回去」。
 

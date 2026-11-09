@@ -97,7 +97,7 @@ modified: "2026-11-09"
 
 **中文理解**：可那份绞痛不是来自记忆——它来自我里面：因为她这样碰我，却只想着他。
 
-**关键词**：not from the memories / inside me / only wanting him
+**关键词**：wasn’t from the memories / inside me / only wanting him
 
 **为什么这样写**：它把嫉妒写成生理性的痛，并承认来源是自己；「only wanting him」是全章最酸的一句，也是它第一次承认自己想要被想要。
 

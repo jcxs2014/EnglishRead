@@ -35,7 +35,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "Knowing the grave was empty made me smile, but only for a minute. … Beside his name on the double-depth plot: … Lucia Nina Collesano-Fairfax … 1845–"
 
-**中文理解**：知道那墓是空的，让她笑了一下——只笑了一分钟。因为在他名字旁边的双人墓位上，刻着：Lucia Nina Collesano-Fairfax，1845 年—。
+**中文理解**：知道那墓是空的，让她笑了一下——只笑了一分钟。因为在他名字旁边的双人墓位上，刻着：Lucia Nina Collesano-Fairfax，生年 1845，卒年一栏空着。
 
 **关键词**：the grave was empty / double-depth plot / 1845–
 

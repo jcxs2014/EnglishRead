@@ -17,7 +17,7 @@ modified: "2026-11-09"
 
 **中文理解**：它在看，她知道它在看，但它识趣地不现身。今天是她自己的：不做研究，不做家务，不跑差事。
 
-**关键词**：watching / not to show himself / Today was for me
+**关键词**：watching / to show himself / Today was for me
 
 **为什么这样写**：开篇就把「被监视」与「被允许独处」并列：她默许它跟着，说明这段关系已经进入默契期；「Today was for me」则像给自己下的命令。
 
