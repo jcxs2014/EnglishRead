@@ -1,0 +1,66 @@
+{
+ "chapter": "ch01",
+ "text": "notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "婴儿出生时啼哭，却害死了母亲（母亲分娩而死）",
+   "anchor": "the baby boy came into the world wailing, only to kill their mother",
+   "start": 341,
+   "end": 408
+  },
+  {
+   "fact": "Sterling 时年十四岁",
+   "anchor": "Sterling wasn’t helpless, but she was only fourteen years old",
+   "start": 1826,
+   "end": 1887
+  },
+  {
+   "fact": "母亲以收钱陪床为生，两名孩子的生父都不明",
+   "anchor": "Men paid coin for her mother to visit their beds, so anyone in the Bloodstorm Court of Grimm could’ve been their sires",
+   "start": 2035,
+   "end": 2153
+  },
+  {
+   "fact": "埋葬母亲、喂羊奶后，她等了几天才收拾出发",
+   "anchor": "she waited a few days before packing to find her grandmother",
+   "start": 4019,
+   "end": 4079
+  },
+  {
+   "fact": "独自一天可达，带婴儿与山羊需三倍时间",
+   "anchor": "the journey would take three times as long",
+   "start": 4215,
+   "end": 4257
+  },
+  {
+   "fact": "她带着弟弟走了两天森林",
+   "anchor": "trekking through the forest for two days",
+   "start": 5015,
+   "end": 5055
+  },
+  {
+   "fact": "王子五年前丧母（箭穿心脏）",
+   "anchor": "he’d lost his mother five years ago from an arrow to the heart",
+   "start": 10549,
+   "end": 10611
+  },
+  {
+   "fact": "外婆决定等一周再动身",
+   "anchor": "We’ll wait a week before leaving",
+   "start": 13898,
+   "end": 13930
+  },
+  {
+   "fact": "外婆被狼群撕碎（手臂与腿被扯断）",
+   "anchor": "Her grandmother’s arm and leg were torn clean off",
+   "start": 16940,
+   "end": 16989
+  },
+  {
+   "fact": "结尾立誓杀尽参与谋杀的狼，包括王子",
+   "anchor": "she would kill every single wolf that took part in her grandmother’s murder. Including the prince",
+   "start": 19646,
+   "end": 19743
+  }
+ ]
+}

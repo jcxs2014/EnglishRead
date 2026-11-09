@@ -43,7 +43,7 @@ modified: "2026-11-09"
 **中文理解**：她还想再撑一次，Winter 的手臂已经把她捞起来贴上胸口：放我下来，狼。——你想自己爬楼梯吗？
 **关键词**：lifted / crawl
 **为什么这样写**：公主抱与嘲讽同框：他用一个选择题把她的抗议变成无选项；“wolf”的称呼从这里开始互换了——她叫他狼，他没否认，敌意称呼成了两人之间的通用货币。
-**读者视角提示**：clovers and embers 的气味在这段从叙事里冒头（她的头贴着他的胸口）：感官层的靠近先于心理层的承认——身体比脑子先投降。
+**读者视角提示**：紧接着的叙事里（她贴着他的胸口上楼时）clovers and embers 的气味冒头：感官层的靠近先于心理层的承认——身体比脑子先投降。
 
 > **原句 6:** "Winter’s lazy gaze slid up to hers, continuing his meticulous motions. “My mother wasn’t born royalty. She taught me how to take care of my own wounds.”"
 **中文理解**：他抬头看她一眼、手上缝合不停：我母亲不是贵族出身。她教我处理自己的伤口。——亲手缝针的王子，技艺来自平民母亲的家教。
@@ -58,7 +58,7 @@ modified: "2026-11-09"
 **读者视角提示**：注意这个假设同时改写她自己的复仇叙事：外婆杀了“最好的女王”——她的仇恨对象出现了一道裂缝，本章的情感重心全在这道缝上。
 
 > **原句 8:** "Win the next game and I’ll allow you a moment with your brother before freeing him. Perhaps, if you behave, I’ll even give him the paper he asked for.”"
-**中文理解**：承诺开价：赢下一场，就给你一刻钟见弟弟再放了他；表现好，说不定连他要的纸也一并给。
+**中文理解**：承诺开价：赢下一场，就让你见弟弟一面、之后再放了他；表现好，说不定连他要的纸也一并给。
 **关键词**：behave / paper
 **为什么这样写**：赏格分层：弟弟是大奖、纸是零钱——他把她的动力拆成大小两个档位管理；“if you behave”把她的服从明码标价，驯化的定价体系正式运转。
 **读者视角提示**：纸的允诺回收了 ch08 Cyan 的讨要：Winter 记得一个孩子的请求——这个细节是他身上“可能有人性”的又一件证物，Sterling 注意到了。
@@ -76,7 +76,7 @@ modified: "2026-11-09"
 **读者视角提示**：这句回敬同时完成人物定位：她不怕他的性、不怕他的残忍、只蔑视他的无聊——Sterling 对 Winter 的态度从“恐惧”过渡到“嫌弃中带好奇”。
 
 > **原句 11:** "Winter peered in her direction, his movements from shaving scraps from the block of wood stalling. His gaze darkened and hungrily swept down her body as her heart thundered. And why wasn’t she wholly loathing it?"
-**中文理解**：她裹着毛巾走出浴室，他削木刀的手停了：目光暗下来，饥渴地把她从头扫到脚。她的心跳如鼓——以及，她为什么没有全然厌恶这个？
+**中文理解**：他削木刀的手停了：目光暗下来，饥渴地把她从头扫到脚。她的心跳如鼓——以及，她为什么没有全然厌恶这个？
 **关键词**：hungrily / loathing
 **为什么这样写**：视角在这一句交班：前半是 Winter 的凝视，后半是 Sterling 的自我审问——身体反应快于立场表态；“wholly”这个词的精确性暴露她已在“部分喜欢”里待了一会儿。
 **读者视角提示**：这是全章的情感收束点：缝合（他照顾她）、纸（他记得弟弟）、凝视（两人互相看见）——三件事之后，敌意的语法里有了省略号。

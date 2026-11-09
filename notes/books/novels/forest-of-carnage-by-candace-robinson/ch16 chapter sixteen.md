@@ -58,7 +58,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照他自己的处境（被命运塞了一个 mate 又被父亲毁掉）：他懂 mate 制度的神圣性正是他恨父亲的原因——本章他把这份神圣感原样搬来审判 Talia。
 
 > **原句 8:** "“I’d rather mate a human than you.” His lips curled up at the edges as he angled his head to the side “Move on, Talia. There are plenty of widowers and rejects that you could settle for, but I’m never taking you back.”"
-**中文理解**：最后通牒挂着笑：我宁愿与人类结 mate 也不要你。_move on_——去将就那些鳏夫和弃儿吧，我永远不会回收你。
+**中文理解**：最后通牒挂着笑：我宁愿与人类结 mate 也不要你。往前走吧——去将就那些鳏夫和弃儿吧，我永远不会回收你。
 **关键词**：widowers / settle
 **为什么这样写**：三个词完成永久除名：rather、never、move on——每一处比较级都在抬高“人类”而贬低她；他笑着说最狠的话，快感来源于选择的确定性。
 **读者视角提示**：对照 ch02 “Forgive Talia or never take a mate”的二选一：本章出现了第三选项（mate a human）——命运与父权都以为无解的局，被一个人类女孩改写。

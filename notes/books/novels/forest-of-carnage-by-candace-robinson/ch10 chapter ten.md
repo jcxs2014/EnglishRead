@@ -61,13 +61,13 @@ modified: "2026-11-09"
 **中文理解**：红斗篷在空中翻卷——她从高处坠落，背部着地发出痛叫；下一瞬一头巨狼已经扑在她身上：Talia 的浅灰毛皮在黑暗里发亮，黄眼睛灼灼。
 **关键词**：soar / glowing
 **为什么这样写**：从树上摔落与狼扑在同一个呼吸里完成——坠落的脆弱与扑杀的凶暴剪辑成连续镜头；浅灰毛皮+黄眼的强光描写让 Talia 的登场自带舞台打光：这是 Winter 最不愿看到的画面。
-**读者视角提示**：对照 ch01 Winter 的第一形态也是扑击（扑向 Sterling 被外婆救）：两场狼扑相隔八年、攻守易位——这本书的暴力场景一直在互相改写。
+**读者视角提示**：对照 ch01 外婆家那一夜的扑杀（Sterling 被大狼按在地上）：两场狼扑相隔八年、攻守易位——这本书的暴力场景一直在互相改写。
 
 > **原句 9:** "He didn’t need to see what fate had dangled in front of him—only for it all to be ripped away when his perfect mate had been fucking someone else. The night before their mating ceremony."
 **中文理解**：他不需要看清命运在他眼前晃了什么——完美 mate 的幻象被撕个干净：她上了别人的床。就在交配仪式的前夜。
 **关键词**：ripped / ceremony
 **为什么这样写**：拒 mate 的原委在此落地：不是性格不合是身体背叛，且踩在仪式前夜的节点——背叛的时间点本身就是加倍的羞辱；"fate had dangled"的措辞把这段婚姻写成命运递到他手里又被夺走的东西。
-**读者视角提示**：这条前史让 Talia 线从" annoying ex"升级为创伤源：ch02 的 "Fucking bitch" 有了具体案由；Winter 对 Sterling 的执念由此多一层解读——她是他第二个"差点得到"的女人。
+**读者视角提示**：这条前史让 Talia 线从"烦人的前任"升级为创伤源：ch02 的 "Fucking bitch" 有了具体案由；Winter 对 Sterling 的执念由此多一层解读——她是他第二个"差点得到"的女人。
 
 > **原句 10:** "Winter’s wolf released a low snarl and tilted his head, just as confused as he was over their conflicting feelings about that fact. It was imperative he got over his fascination with her. And to do that, she still needed to die."
 **中文理解**：他的狼低吼歪头——和它的主人一样，对这事实的情绪同样拧巴。他必须戒掉对她的迷恋。而要做到这一点，她仍然得死。

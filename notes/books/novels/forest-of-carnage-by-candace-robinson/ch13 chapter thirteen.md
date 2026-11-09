@@ -19,7 +19,7 @@ modified: "2026-11-09"
 **中文理解**：无言之递：他从裤袋取出折叠的纸压进她掌心——指尖划过皮肤带来的战栗不是出于恐惧。她一眼认出弟弟的手艺：一只纸鸽——母亲最爱的鸟。他还好，她低声说。
 **关键词**：dove / shivers
 **为什么这样写**：递纸的动作写出两人的新语言：一句话都不说，信息、安慰、肌肤之触全在掌心完成；“not from fright”的自我标注是身体先于情感的又一次证词——她的神经已经把 Winter 归入“安全”类。
-**读者视角提示**：纸鸽对应 ch12 的“We'll see”：他兑现了一个孩子的心愿——兑现的方式（从自己裤袋里掏出）说明他随身带着这份“承诺物”， CFO 式的冷酷记性里给纸鸽留了一格。
+**读者视角提示**：纸鸽对应 ch12 的“We'll see”：他兑现了一个孩子的心愿——兑现的方式（从自己裤袋里掏出）说明他随身带着这份“承诺物”， 账房式的冷酷记性里给纸鸽留了一格。
 
 > **原句 2:** "She examined what looked to be some sort of mutilated fish. The multiple creases, the folds, and refolds as if the crafter was becoming anxious that it wasn’t perfect. The atrocity most certainly didn’t belong to her brother."
 **中文理解**：她掏出他口袋里另一张纸：一条残缺的鱼——层层叠叠的折痕、折了又折，仿佛折的人焦虑它不够完美。这惨案绝不是她弟弟的作品。
@@ -31,7 +31,7 @@ modified: "2026-11-09"
 **中文理解**：她质问他想对弟弟做什么——答案颠覆认知：谁说他还在地牢？三楼的私人房间。契约你我都记得——我不毁约。今晚你赢，明早他自由。
 **关键词**：bargain / cellar
 **为什么这样写**：升级囚室不是仁慈是履约——他用“我不毁约”给自己立信用：这是 Winter 管理术的一部分（筹码保值、信用可抵押）；信息差再次被他当玩具——弟弟就在楼上，他不说她就不知道。
-**读者视角提示**：对照 ch02 他对 Caston 的“我不在乎她说什么”：Winter 对敌人说话从不解释，对她却开始提供理由——“I don't break those”是说给她的信用声明。
+**读者视角提示**：对照 ch01 他在绞刑场上那句 I don’t particularly care：Winter 对敌人说话从不解释，对她却开始提供理由——“I don't break those”是说给她的信用声明。
 
 > **原句 4:** "She unfastened her trousers, then let them drop to the floor before kicking them aside with her bare foot. Winter didn’t spare her a glance as she peeled her tunic over her head, nor did his expression alter. However, his shoulders grew more rigid, his movements along the wood slowing, digging deeper."
 **中文理解**：她故意在他面前脱个精光——他眼皮不抬、表情不变，肩膀却更僵、刻刀更深、越刻越慢。
@@ -57,7 +57,7 @@ modified: "2026-11-09"
 **为什么这样写**：命令之吻的命令词是“相信”：他要的不是吻是证据——欲望在他这里始终需要被验证；她“没有迟疑”的服从快过思考，两人在这一秒都越过了谈判的阶段。
 **读者视角提示**：对照 ch05 “suck my cock in apology”的交易式提议：本章的吻没有交易条款——身体接触不再是被买卖关系裹挟；这条分界线是感情线的实质起点。
 
-> **原句 8:** "Winter’s fingers entwined in her hair and he tugged her head back, his lids slitted. “After I taste your cunt.”"
+> **原句 8:** "Winter’s fingers entwined in her hair and he tugged her head back, his lids slitted. “After I taste your cunt.” The prince would rather pleasure his prisoner than make Sterling lick up his shaft? Something was afoot… He had to be coming up with another vindictive game of his own."
 **中文理解**：他拽她头后仰、眼缝半眯：先尝你。她的警铃立刻响——这位王子宁愿先服侍囚徒？必有后招……他一定又在筹划什么恶毒的游戏。
 **关键词**：slitted / afoot
 **为什么这样写**：情欲话里带着权力结构：他要先付出（taste）再索取——表面是顺从她、实际是重设规则；她的警觉（something was afoot）证明信任并未建立：身体合作，脑子还在算。

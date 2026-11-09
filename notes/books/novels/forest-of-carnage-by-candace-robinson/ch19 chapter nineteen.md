@@ -54,7 +54,7 @@ modified: "2026-11-09"
 > **原句 7:** "“No. Nothing.” He heaved a sigh. “It’s all for show, Sterling. Don’t you understand?”"
 **中文理解**："不。什么都没有。"他长叹，"全是做戏，Sterling。你不明白吗？"
 **关键词**：show / sigh
-**为什么这样写**：妓院神话当场破产：All for show 三个词自拆第十二章以来的整套人设；sigh 的疲惫说明这个谎言他演得太久，久到连自己都累。
+**为什么这样写**：妓院神话当场破产：All for show 三个词自拆第二章以来的整套人设；sigh 的疲惫说明这个谎言他演得太久，久到连自己都累。
 **读者视角提示**：对照 ch05 她提议用身体换弟弟时他的冷感：那时读作轻蔑，此刻重读为——他根本没有那套经验可炫耀。
 
 > **原句 8:** "You were the first girl I was ever fascinated by,” Winter started. “A human. Even after I discovered you shared blood with that bitch of a huntress, I still couldn’t get you out of my head for years."

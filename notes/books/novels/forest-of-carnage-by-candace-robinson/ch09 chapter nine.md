@@ -46,7 +46,7 @@ modified: "2026-11-09"
 **读者视角提示**：这条信息对 Winter 是新拼图：他终于明白为什么 Cyan 与她不像——也明白她从哪继承了"为生存什么都肯做"的骨头；同情与轻蔑在这一刻同一块骨头里生长。
 
 > **原句 6:** "“Too many wolves have died by your hand. The cage is your primary quarters until the day you die.” “And when will that be? Assuming I win this game.” “However long you live.” Winter held her gaze for a long moment, and whatever he felt was hidden in the depths of his eyes."
-**中文理解**："太多狼死于你手。笼子是你死掉那天之前的居所。""那会是什么时候？假设我赢了这场游戏。""你活多久，就多久。"他盯着她看了很久，眼底的 whatever 深藏不露。
+**中文理解**："太多狼死于你手。笼子是你死掉那天之前的居所。""那会是什么时候？假设我赢了这场游戏。""你活多久，就多久。"他盯着她看了很久，眼底的情绪深藏不露。
 **关键词**：quarters / depths
 **为什么这样写**：判决+反问+判决的三板斧：她用"假设我赢"撬门，他用"你活多久"把门焊死——但最后一句"whatever he felt was hidden"泄露他也没想清楚要拿她怎么办；狠话与深藏的眼神是同一个人。
 **读者视角提示**：对照 ch08 "However long you live" 之前的死亡游戏许诺：她赢不了自由、只能赢寿命——他给的所有出口都通向他的房间；感情的死结在这里成形。
@@ -55,7 +55,7 @@ modified: "2026-11-09"
 **中文理解**："你不许碰她，"王子吼道，獠牙毕露。"囚犯是我的，这还不够清楚吗？认清你的位置，不然下次你这条命也保不住。滚。"
 **关键词**：growled / forfeit
 **为什么这样写**：两个短句立起边界："囚犯是我的"的所有权宣言+"你的命也保不住"的等价威胁——他保护她的方式是威胁别人，不是保护她；Micah 得到的不是道德课是产权课。
-**读者视角提示**：本章他两次为她和 Micah 翻脸（昨日撞墙、今日獠牙）——占有欲已经不装了；这份"是我的"的重复宣告，是感情线压过仇恨线的显影剂。
+**读者视角提示**：本章他两次为她和 Micah 翻脸（前一次一个“不”字、这一次直接摔墙）——占有欲已经不装了；这份"是我的"的重复宣告，是感情线压过仇恨线的显影剂。
 
 > **原句 8:** "“Your father put me in charge of the human prisoners months ago. You know this, Your Highness. I’m here to make sure none of them try to run off.”"
 **中文理解**：Talia 挡话：你父亲几个月前就让我管这些人类囚犯——你知道的，殿下。我在这确保没人跑掉。

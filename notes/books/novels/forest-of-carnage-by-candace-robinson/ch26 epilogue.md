@@ -34,7 +34,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch02 “I would die alone with no heir”：当年他把孤独当成王权的代价，如今他把孤独当成爱的证明。
 
 > **原句 4:** "He stepped forward, planning to storm toward her, but then warned himself. He was the king now—a new king who hadn’t earned the respect of the entire pack yet."
-**中文理解**：他本来要冲过去，又警告自己：他现在是国王，一个还没赢得全 pack 敬意的新王。于是他改为缓步走下小径——手插在口袋，捏着要给她的礼物。
+**中文理解**：他本来要冲过去，又警告自己：他现在是国王，一个还没赢得全 pack 敬意的新王。
 **关键词**：king / respect
 **为什么这样写**：这一幕把全书最核心的变化写成一个动作：他学会“慢下来”——从冲过去的占有变成走过去的分寸；口袋里的礼物把克制变成了期待。
 **读者视角提示**：对照 ch05 他给她“十五秒先跑”：同样是游戏语法，那次是猎手，这次是新郎。
@@ -49,10 +49,10 @@ modified: "2026-11-09"
 **中文理解**：“我他妈才不管。”他吻她：“你是 Red Riding Hood，也是他们的王后。他们要么接受我们彼此原谅，要么死在我的爪下。”
 **关键词**：forgiven / claws
 **为什么这样写**：公开宣告的措辞两头都硬：给她身份（王后）、给狼群通牒（接受或死）——他用恐吓为和解开路，这是 Winter 式仁慈的固定配方。
-**读者视角提示**：对照 ch09 他在绞刑台上“仁慈”的反讽：如今他把这个词用在自己身上，方向反了。
+**读者视角提示**：对照 ch04 他在绞刑台上“仁慈”的反讽：如今他把这个词用在自己身上，方向反了。
 
 > **原句 7:** "Since we mated in the tradition of wolves, I thought it was only fair we marry in a human wedding.” “What?” Sterling gasped, her eyes widening. “This is our wedding.”"
-**中文理解**：他把她拉进储藏室：“我们按狼的仪式结的契，那也该按人类的婚礼成婚。”——“什么？”她瞪大眼，“这是我们的婚礼。”
+**中文理解**：“我们按狼的仪式结的契，那也该按人类的婚礼成婚。”——“什么？”她瞪大眼，“这是我们的婚礼。”
 **关键词**：tradition / wedding
 **为什么这样写**：惊喜的落点是“对等”：他承认她的传统、用她的仪式补完他们的结合——这不是浪漫桥段，是权力关系的补正。
 **读者视角提示**：对照 ch16 “mating, not marrying. I'm not human”：他曾用物种差异拒绝“结婚”这个词，本章他主动把婚礼办给她。

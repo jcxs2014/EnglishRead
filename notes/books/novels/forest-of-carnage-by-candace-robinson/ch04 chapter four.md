@@ -25,9 +25,9 @@ modified: "2026-11-09"
 **中文理解**：他僵住了：疤痕女人的眼睛遇上他的——他见过最绿的绿。熟悉的眼睛。他认得这个人类——她萦绕他的记忆。是她。那个他放走、随后狼群杀死她外婆的女孩。他唯一真正怜悯过的人类。
 **关键词**：stilled / familiar / pity
 **为什么这样写**：识别过程用三连短句（Familiar eyes. He knew... It was her.）拍出电光石火的确认；pity 一词是他从没给过任何人的账——施舍过的放生被他自己追认为情感，这是 Winter 认知失调的第一处裂缝。
-**读者视角提示**：绿眼与 ch01 "like theirs, like their mother's" 的家族绿眼对上——他记住的颜色从不撒谎；"装作不识"的决定从这一刻开始主导全章。
+**读者视角提示**：绿眼与 ch01 "like hers, like their mother’s" 的家族绿眼对上——他记住的颜色从不撒谎；"装作不识"的决定从这一刻开始主导全章。
 
-> **原句 3:** "“Please,” he begged. “I’m sorry. I didn’t—” Winter kicked the block out from beneath him before he could finish speaking—the sound of his neck snapping echoed across the quiet, entranced crowd. There were no excuses allowed in Bloodstorm."
+> **原句 3:** "The wolf nearest him—the youngest, perhaps not even twenty years—whimpered like a newborn babe. Pathetic. “Please,” he begged. “I’m sorry. I didn’t—” Winter kicked the block out from beneath him before he could finish speaking—the sound of his neck snapping echoed across the quiet, entranced crowd. There were no excuses allowed in Bloodstorm."
 **中文理解**：最年轻的受刑者——不到二十岁——像新生儿一样呜咽求饶："对不起，我没有——"Winter 没等他说完就踹翻了踏板；颈骨断裂的声音在安静入迷的人群上空回响。在 Bloodstorm 没有借口可讲。
 **关键词**：kicked / snapping
 **为什么这样写**：处决动作插进求饶的破折号里——借口的最后一个音节被踩碎；"入迷的人群"（entranced）写出暴力的观赏性：这是新官上任的统治课，教学效果他用声音验收。
@@ -48,7 +48,7 @@ modified: "2026-11-09"
 > **原句 6:** "“Let them hang until the maggots turn to flies.” By then, the entire town would reek of rot and decay. It would be difficult to forget the lesson he’d just imparted to the crowd when the scent clung to everything they owned."
 **中文理解**：命令：把尸体挂着，挂到蛆变成苍蝇。到那时全镇都会弥漫腐臭——当气味沾上他们的一切，他就刚上的这一课很难被忘掉。
 **关键词**：maggots / decay
-**为什么这样写**：惩罚从死亡延伸到嗅觉：尸体变成持续 releasing 的教育装置；"气味沾上他们的一切"把恐吓写进日用品——这是 Winter 式统治的具象：暴力不留现场，只留记忆。
+**为什么这样写**：惩罚从死亡延伸到嗅觉：尸体变成持续投放的教育装置；"气味沾上他们的一切"把恐吓写进日用品——这是 Winter 式统治的具象：暴力不留现场，只留记忆。
 **读者视角提示**：对照 ch01 狼群撕碎外婆后他没有一句处置——如今他用同一套暴力的"仪式感"统治；血债与权力在同一根绳子上打结。
 
 > **原句 7:** "“Not yet, but we’ve asked around to find where she lives.” He gave a sideways nod and led Winter down a curving street where another wolf, Lijah, waited. “There. She lives with her younger brother. Her name is Sterling, and her kin is Cyan. She owns the meat shop in the market. The boy is there all day, even when she’s gone.”"

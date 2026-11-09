@@ -1,0 +1,376 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/forest-of-carnage-by-candace-robinson/ch05 chapter five.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch05_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I know the rules, but I wanted to ask the prince to give the men a second chance. They could’ve spent time in a cell in",
+          "ok": true,
+          "pos": 1840
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Would you have said the same if they’d been human and not shifters?” No, she wouldn’t have. “Yes.” As her brother contin",
+          "ok": true,
+          "pos": 2235
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Sterling’s chest tightened while her fingers skated over the paper he’d made into Red Riding Hood. The cloak, the bow, t",
+          "ok": true,
+          "pos": 4368
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You knew?” Sterling murmured, her shoulders dropping. “For how long?” Cyan bit his lip and tears gathered in his lashes",
+          "ok": true,
+          "pos": 4558
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“It wasn’t to be sneaky. I promise. It was for Mama’s trinket box. We haven’t gone through her things together in a whil",
+          "ok": true,
+          "pos": 4834
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "However, you can’t tell anyone about this. No one. Especially not if they question you.” If they found out who she was a",
+          "ok": true,
+          "pos": 5718
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "This didn’t come from a bear while I was hunting—it came from one of the prince’s wolves. They came to Grandmother’s hom",
+          "ok": true,
+          "pos": 6644
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A chair creaked from inside the sitting room, and she yanked her hand out of her trousers and whirled around, the potent",
+          "ok": true,
+          "pos": 11090
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Did you think I didn’t recognize you? That I forgot about the girl who I allowed to run off with her brother and newly m",
+          "ok": true,
+          "pos": 14352
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Winter brought his other hand out from behind his back, presenting her red cloak clutched in his fist. Slowly, he let th",
+          "ok": true,
+          "pos": 14755
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I love a good hunt just as much as you do.” He grinned. “So I’ll give you a fifteen-second head start.” When she simply",
+          "ok": true,
+          "pos": 15018
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.46,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10.5,
+    "block_range": [
+      7,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2846,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 25 章中位 10、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

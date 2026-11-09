@@ -1,0 +1,349 @@
+{
+  "chapter": 24,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/forest-of-carnage-by-candace-robinson/ch24 chapter twenty-four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/forest-of-carnage-by-candace-robinson/text/ch24_chapter_twenty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Winter’s chest tightened as he watched the carriage leave with Sterling and Cyan. They were in good hands, but he still ",
+          "ok": true,
+          "pos": 27
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The prince sauntered the castle halls, relaxing his facial expression into the mask he wore so well to keep anyone from ",
+          "ok": true,
+          "pos": 1179
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Yes, he was wicked. Yes, he would become the king as soon as his father was gone. But, if he wanted the pack to follow h",
+          "ok": true,
+          "pos": 2367
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "But the red line trailing between two of those smaller settlements was new. It hadn’t been there when his father detaile",
+          "ok": true,
+          "pos": 4322
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Good.” The scratch of a quill on parchment filled the short silence. “Once Red Riding Hood dies in the valley, my son’s",
+          "ok": true,
+          "pos": 5323
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Berriston will be of age soon, and he’s still an heir, bastard son or not. Once Winter’s death is confirmed, he’ll be br",
+          "ok": true,
+          "pos": 5706
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Make it look like the prince killed her. Bring him back to me alive and in shackles. That bastard planned to make it loo",
+          "ok": true,
+          "pos": 8564
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Treason is now whatever I say it is,” Winter promised",
+          "ok": true,
+          "pos": 9387
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Winter hauled the body up and leaned the king’s torso over the edge of the tub. He shoved his head into the water and he",
+          "ok": true,
+          "pos": 10327
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He looked over his shoulder at Sterling, meeting her wide eyes, and he arched a brow. “I solved our problem. But enlight",
+          "ok": true,
+          "pos": 11281
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "24. Chapter Twenty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.5,
+    "block_range": [
+      7,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2085,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 25 章中位 11、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -43,7 +43,7 @@ modified: "2026-11-09"
 **中文理解**：灰狼扑向 Nareth 的瞬间她两箭出手：一箭穿眼、一箭穿颈；狼倒地变回人形，血从脸上颈上淌下——是替王室做事的 Bael。好。
 **关键词**：piercing / elongated
 **为什么这样写**：两箭完成本章唯一的动手戏：穿眼是射手的炫技，也是对狼的"视而不见"的回敬；"One who worked for the royals—Bael. Good."的冷判定显示她杀人后的情绪调度越来越熟练。
-**读者视角提示**：Bael 是 ch04 拖拽受刑者、ch06 执行绑票的那只狼——她杀的不是无名之辈；这份"击杀名单"日后会在两人对峙时成为筹码与罪名。
+**读者视角提示**：Bael 是 ch04 拖拽受刑者、ch06 在肉店外盯梢定位的那只狼——她杀的不是无名之辈；这份"击杀名单"日后会在两人对峙时成为筹码与罪名。
 
 > **原句 6:** "“I remember you. You screamed so prettily when I gave you those scars,” Micah purred, tugging the chains between his hands and rattling them. “Aww, does the little bitch not want to speak now?” He grabbed her by the throat and slammed her against the ground."
 **中文理解**：Micah 认出了她："我记得你。当年我给你那些疤的时候，你叫得可真甜。"他拽得铁链哗哗响，揪住她的喉咙把她砸在地上。
@@ -67,13 +67,13 @@ modified: "2026-11-09"
 **中文理解**：Winter 把外婆之死推给 Micah：动手的是他，你怪不到我只是目击；我那天警告过你消失——后来你开始杀我的狼群，所以这是你自找的。
 **关键词**：witnessing / packmates
 **为什么这样写**：推责的三段论滴水不漏：凶手是 Micah→我只是目击→你报复在先；每一步都有事实背书，合起来却是免责的诡辩——他用真实事件拼出虚假的责任链。
-**读者视角提示**："你自找的"是全书权力话术的极点：受害者被判为起因；对照 ch01 他亲口说"I let you go"——他始终认为放生是恩典，她活着就是欠他的。
+**读者视角提示**："你自找的"是全书权力话术的极点：受害者被判为起因；对照 ch01 他亲口说"If I let you go"——他始终认为放生是恩典，她活着就是欠他的。
 
 > **原句 10:** "Then his tone changed, and true hatred slipped from between his lips as he growled, “Your treacherous grandmother was once the leader of the hunters, and she killed my mother, the queen.”"
 **中文理解**：他的语气陡变，真正的恨意从齿缝里漏出来："你那叛逆的外婆曾是猎人的首领——她杀了我的母亲，女王。"
 **关键词**：treacherous / queen
 **为什么这样写**：全书第一块主根石落地：外婆与王后是猎杀关系，两代人的血债互为镜像；"语气陡变"的舞台指示表明这句不是话术是真心——Winter 唯一不装的时刻给了亡母。
-**读者视角提示**：这一句同时翻转两本书：她的外婆从无辜受害者变成猎人首领；他的母亲从背景板变成她复仇对象的手下亡魂——下一块的鹿角箭是物证。
+**读者视角提示**：这一句同时翻转两代人的账：她的外婆从无辜受害者变成猎人首领；他的母亲从背景板变成她复仇对象的手下亡魂——下一块的鹿角箭是物证。
 
 > **原句 11:** "The shape of that arrow, how it was made from antler, and a red line painted at its center… It was one that her grandmother had shown her how to make, but it didn’t belong to Sterling."
 **中文理解**：箭的形状、鹿角磨成的箭身、中间一道红线——那是外婆亲手教她做过这种箭；但它不属于 Sterling。

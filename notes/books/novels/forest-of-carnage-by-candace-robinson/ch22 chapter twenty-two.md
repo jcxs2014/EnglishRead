@@ -70,10 +70,10 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch16 “mating, not marrying. I'm not human”：他曾用物种划界，此刻用“我的”跨过界——同一张嘴，两种边界。
 
 > **原句 10:** "This time when he thought about his father’s death, he would follow through with it, and he meant it down to his marrow. Valco had taken everything from him. He’d unintentionally given Winter back his smile through Sterling, and he’d be damned if it was stolen from him again."
-**中文理解**：结尾：这次想到父亲的死，他会做到——他’d meant it down to his marrow。Valco 夺走了他的一切，却无意中通过 Sterling 把他的笑容还了回来。
+**中文理解**：结尾：这次想到父亲的死，他会做到——他把这句话刻进了骨髓。Valco 夺走了他的一切，却无意中通过 Sterling 把他的笑容还了回来。
 **关键词**：marrow / stolen
 **为什么这样写**：“down to his marrow”是本作对决心最重的写法（骨髓级）；末句把弑父动机从复仇升级为守护——他要杀父亲，不再是为母亲，而是为了笑容。
-**读者视角提示**：对照 ch01 结尾 Sterling 的誓言：两本书的开头与中段各有一句“我会杀你”的起誓，此刻 Winter 的誓言对象是自己的父亲——两条复仇线终于分道。
+**读者视角提示**：对照 ch01 结尾 Sterling 的誓言：本书的开头与中段各有一句“我会杀你”的起誓，此刻 Winter 的誓言对象是自己的父亲——两条复仇线终于分道。
 
 ## 本章词汇
 

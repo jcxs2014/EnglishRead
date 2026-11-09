@@ -30,7 +30,7 @@ modified: "2026-11-09"
 > **原句 3:** "“Ah yes.” Winter examined his nails. “But you seemed to forget that when you fucked my mate.” He bared his teeth. “I am your king.” Winter gave him a wide, forced smile. “A king who slithered between countless women’s legs even while Mother was alive.”"
 **中文理解**：“是啊。”Winter 细看指甲：可是您好像忘了——您睡了我的 mate。父王龇牙：我是你的王。Winter 扯出大大的假笑：一位在母亲活着时就爬上无数女人床榻的王。
 **关键词**：slithered / nails
-**为什么这样写**：对峙三层递进：他检视指甲的漫不经心→国王用王位压人→他掀出国王的性史反杀——每一层都拿更重的事实砸回去；“while Mother was alive”是压轴的那块碑：乱伦式的宫廷腐坏从死去的王后算起。
+**为什么这样写**：对峙三层递进：他检视指甲的漫不经心→国王用王位压人→他掀出国王的性史反杀——每一层都拿更重的事实砸回去；“while Mother was alive”是压轴的那块碑：宫廷的腐坏从死去的王后算起。
 **读者视角提示**：这是 Winter 弑父动机的完整拼图最后一块：ch02 的 crown 欲望+ch10 的游戏公然+本章的血亲之耻——他恨父亲不全为权，更为母亲；这条暗线他从未说出口。
 
 > **原句 4:** "The king lifted his chin. “I hear she will be participating in a second game. If she wins, I have something in store for her myself.” Winter could see his father’s intentions gleaming behind his eyes."
@@ -54,11 +54,11 @@ modified: "2026-11-09"
 > **原句 7:** "“Talia knows I wouldn’t fuck you.” Inside, his wolf tilted his head as if to say liar."
 **中文理解**：“Talia 知道我不会睡你。”心里，他的狼歪了歪头，仿佛在说：骗子。
 **关键词**：liar / tilted
-**为什么这样写**：嘴上的否认与本能的拆台同帧发生：狼歪头 say liar——Winter 用自己的兽性当第二良知；一句台词配一个内心旁白，自欺的机制被写成喜剧。
+**为什么这样写**：嘴上的否认与本能的拆台同帧发生：狼歪头说“骗子”——Winter 用自己的兽性当第二良知；一句台词配一个内心旁白，自欺的机制被写成喜剧。
 **读者视角提示**：他撒谎的对象是她（保护？试探？）也是自己——读者从这一刻起学会双读他的对白：说出来的与狼听到的。
 
 > **原句 8:** "Winter looked from his wide, innocent eyes, to the paper yet to be folded into something. “Have you ever worked with anything else?” “No. I like paper.” Cyan creased a page with his fingertips. “Do you like to make anything?” Winter rested an arm against the bars and peered at the inquisitive child. “Chaos.”"
-**中文理解**：地牢里 Cyan 盘腿坐在一堆纸作品中间：花、茶杯、房子、狼、Sterling。Winter 问做过别的材质吗——“没有。我喜欢纸。”“你喜欢做什么？”他倚着栏杆打量这好奇的孩子：“混沌。”
+**中文理解**：Winter 问 Cyan 做过别的材质吗——“没有。我喜欢纸。”“你喜欢做什么？”他倚着栏杆打量这好奇的孩子：“混沌。”
 **关键词**：inquisitive / chaos
 **为什么这样写**：问答的落差是本块全部张力：孩子的“纸”与王子的“混沌”对撞——一个收集世界，一个拆解世界；“chaos”既是杀戮的自白也是他唯一肯展示的才华。
 **读者视角提示**：注意 Cyan 折的名单里有“Sterling”和“狼”：纸艺清单等于人物关系图——他把仇人（狼）也折了，这不是天真，是认知的完整性。
@@ -67,7 +67,7 @@ modified: "2026-11-09"
 **中文理解**：“把我折的东西给她好吗？”他举起一只纸鸽：她看到就知道我平安。Winter 本会对任何人都说 no——语气却平稳地答了句：再说吧。
 **关键词**：dove / even
 **为什么这样写**：结尾一拍“没有说不”：一个 no 字的缺席比任何善待都重——Winter 对这个孩子的规则出现了例外；“We'll see”的悬置保留了他的权力姿态，但门缝开了。
-**读者视角提示**：纸鸽与 ch05 捅穿秘密的纸人、ch08 被捏碎的纸花同源：Cyan 的纸第三次改变两人的距离——这次它飞向 Sterling，成为下一章的希望信物。
+**读者视角提示**：纸鸽与 ch04 被捏碎的纸花、ch05 捅穿秘密的纸人同源：Cyan 的纸又一次改变两人的距离——这次它飞向 Sterling，成为下一章的希望信物。
 
 ## 本章词汇
 

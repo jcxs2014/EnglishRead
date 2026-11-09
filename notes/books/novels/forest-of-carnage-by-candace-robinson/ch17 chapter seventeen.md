@@ -23,8 +23,8 @@ modified: "2026-11-09"
 
 > **原句 2:** "“There will only be people watching the prince and me tomorrow night for the ceremony portion, correct? Not the … mating?” “All of it.” the servant said with a smile. “You attended a mating ceremony last night, so you should know what to expect.”"
 **中文理解**：她向仆人求证：观众只看仪式部分对吧？不是……交配？——全部。仆人笑着说：你昨晚看过一场，该知道流程。
-**关键词**：carnival / expect
-**为什么这样写**："All of it"三个字把她的羞耻阈值撞碎：仪式与交配全公开、观众有座位——carnival performance 的内心比喻点破这场婚姻的杂耍本质；仆人的微笑写尽狼与人的羞耻温差。
+**关键词**：expect / servant
+**为什么这样写**："All of it"三个字把她的羞耻阈值撞碎：仪式与交配全公开、观众有座位——上文那句 carnival performance 的内心比喻点破这场婚姻的杂耍本质；仆人的微笑写尽狼与人的羞耻温差。
 **读者视角提示**：对照 ch16 她当众答应 I accept：她答应时以为只是仪式——信息差在本块补齐后，婚姻的价码才真正亮出来。
 
 > **原句 3:** "Sterling scoffed. “And fall to my death? Or have you push me? No.” He smirked. “You’re not dying tonight. Now sit. I won’t let you fall.”"
@@ -48,7 +48,7 @@ modified: "2026-11-09"
 > **原句 6:** "You’ll ride me, and then, yes, I’ll pretend none of it happened. Even though that’s all I will fucking think about. You. As I have been. If you had just died in the first game, things wouldn’t have been so complicated. This is your fault.”"
 **中文理解**：他把她下巴抬起来答：你会骑在我身上，然后是，我会装作无事——尽管那会是我满脑子唯一的事。你。一直都是。你若第一场就死了，事情不会这么复杂。这是你的错。
 **关键词**：pretend / complicated
-**为什么这样写**：承认写得分裂：嘴上的 pretend 与内心的 all I will fucking think about 同时在场—— Winter 的情感系统第一次在语言层露出地 下面；末句甩锅（This is your fault）是情感失控后的本能防御。
+**为什么这样写**：承认写得分裂：嘴上的 pretend 与内心的 all I will fucking think about 同时在场—— Winter 的情感系统第一次在语言层露出地表；末句甩锅（This is your fault）是情感失控后的本能防御。
 **读者视角提示**：对照 ch10 "she still needed to die"：他现在的错怪（怪她没死）与当时的杀意是同一枚硬币——他的恨与爱从来共用一个语法错误。
 
 > **原句 7:** "“Because you saved me, you fool!” she seethed, shoving his chest. “Twice, I might add.” Winter narrowed his eyes. “Why do you, a pitiful human, make it impossible to think of anything else? Why have you been on my mind ever since we first met, ever since I let you go at your bitch grandmother’s? Why couldn’t you have just been a fucking wolf?”"

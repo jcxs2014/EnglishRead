@@ -19,7 +19,7 @@ modified: "2026-11-09"
 **中文理解**：决胜时刻：白影闪过，她一箭离弦正中扑来的巨狼双金眼之间；第二箭搭弦之际，队友的牙齿已经咬碎另一头狼的喉骨。
 **关键词**：whirred / clamped
 **为什么这样写**：决胜双杀一人一狼各拿一半：她的箭打头、他的牙断喉——配合的默契在两个动作里成型；金眼之间的落点是射手的美学签名，也是她八年苦练的验收。
-**读者视角提示**：对照 ch03 她三箭才放倒一只狼：此刻一箭封喉——她的枪法曲线在这场游戏里被拉到顶；
+**读者视角提示**：对照 ch03 她三箭才放倒一只狼：此刻一箭封喉——她的枪法曲线在这场游戏里被拉到顶。
 
 > **原句 2:** "Micah had been one of the first bodies found, and a guard had gone to the manor to inform the prince and King Valco that an arrow wound had been in his back, his neck broken."
 **中文理解**：Micah 的尸体是最早被找到的之一：背上的箭伤、拧断的脖子——卫兵进府报告了王子与国王。
@@ -79,13 +79,13 @@ modified: "2026-11-09"
 **中文理解**：她的反击是自曝：我不只裸睡在你床上——我还对着你的枕头自慰出声。他的回答是禁言令：沉默。我让你说话时你才能说话。
 **关键词**：purred / growled
 **为什么这样写**：她用最挑的话刺他的克制，他用最短的禁令接招——两人在城堡阴影下的对话全是刀；禁言令的形式（你说什么、何时说）是他统治术的家庭版。
-**读者视角提示**：注意他说 growled 而非 drawled：her words hit something——他失控的前兆被动词出卖；这一块与块 6 的撩拨-否认构成同一支舞的两段。
+**读者视角提示**：注意他说 growled 而非 drawled：她那句话扎到了他——失控的前兆被动词出卖；这一块与块 6 的撩拨-否认构成同一支舞的两段。
 
 > **原句 12:** "Sterling’s eyes widened at King Valco, whose face was even more attractive in person than in his portraits. He didn’t appear the least bit ill, his body muscular and lithe like his son’s. His obsidian hair, holding streaks of gray, hung in thick waves down his back, and his eyes glowed with their own cruelty."
 **中文理解**：国王真容：本人比画像更有魅力——肌肉精瘦如他儿子、乌发灰纹披背，眼里透着纯粹的残忍。他看起来毫无病容。
 **关键词**：lithe / cruelty
 **为什么这样写**：国王的登场用"比画像更好看"反杀城堡的自我崇拜：病是装的还是真好了？（对照 Micah 传话）——残忍在眼里发光的写法把危险等级拉满。
-**读者视角提示**：对照 ch12 "his eyes glowed with their own cruelty" 的 Winter 版本：父子的眼睛同源——她此刻看见的是 Winter 的未来模板，这也是她必须防他的原因。
+**读者视角提示**：这双眼睛与 Winter 的那双同源：她此刻看见的是他未来的模板——这也是她必须防他的原因。
 
 > **原句 13:** "“Are you planning to ask the king if you can fuck him for your freedom too?” he cooed, sounding as if he didn’t give a damn."
 **中文理解**：Winter 的冷嘲飘过来：打算也求国王让你用身体换自由吗？语气像是不在乎。

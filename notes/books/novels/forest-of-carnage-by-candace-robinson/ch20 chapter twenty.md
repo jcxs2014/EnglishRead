@@ -37,7 +37,7 @@ modified: "2026-11-09"
 **中文理解**：“看着我高潮，”他捏住她的下巴下令，嗓音被欲望磨粗。
 **关键词**：rough / ordered
 **为什么这样写**：命令句在情欲场景里复现权力语法，但内容从“服从”变成“看着我”——他要的是被看见而不是被屈从；rough 一词把克制与失控焊在一起。
-**读者视角提示**：对照 ch08 “look at the floor, not at me”：从“别看我的脸”到“高潮时看着我”——同一张嘴，两套指令，中间隔着十九天和一具交出去的身体。
+**读者视角提示**：对照 ch08 “look at the floor, not at me”：从“别看我的脸”到“高潮时看着我”——同一张嘴，两套指令，中间隔着一整段从笼子到婚床的距离。
 
 > **原句 5:** "“Wait.” He snatched her wrist, keeping her from finishing. “Why?” she asked, blinking, her voice breathy. “Tit for tat,” was all he said before shifting down the bed, tugging the blanket from her, and releasing her wrist so he could grab her thighs instead."
 **中文理解**：“等等。”他抓住她的手腕不许她继续。“为什么？”“礼尚往来，”他只说了这四个字，就掀开毯子、抬起她的大腿。

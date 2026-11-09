@@ -16,7 +16,7 @@ modified: "2026-11-09"
 ## 精读
 
 > **原句 1:** "She’d never truly thought about what it would’ve meant for her if she’d succeeded in ending Winter’s life with her arrows, the repercussions that would’ve followed. It would’ve been much worse than participating in a spectacle of games held by the Prince of Carnage."
-**中文理解**：她从没真正想过：当年若她真的一箭杀了 Winter，后果会是什么——那会比参加 Carnage 王子的死亡游戏惨得多，他的狼群不会像他那样宽容。
+**中文理解**：她从没真正想过：当年若她真的一箭杀了 Winter，后果会是什么——那会比参加 Carnage 王子的死亡游戏惨得多。
 **关键词**：repercussions / spectacle
 **为什么这样写**：追悔的写法是“换位思考”：她把当年自己的复仇重新放进对方的位置上看了一遍，得出的结论是“他对我比我的想象更宽容”——这是她对整段过去的重新估值。
 **读者视角提示**：对照 ch01 结尾的誓言（杀尽每头狼）：那句誓言在她心里第一次被标上了“代价”——恨的账本开始有利息了。
@@ -40,13 +40,13 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch22 密信“Make it look like the prince killed her”：物证与口述在此对齐——读者终于看到整张网。
 
 > **原句 5:** "“The king didn’t only fuck countless women—he fathered a bastard son as most unfaithful males do.”"
-**中文理解**：她问：那他不就没有继承人了？Winter 攥碎地图：国王不只有无数女人——他还有一个私生子。
+**中文理解**：Winter 攥碎地图：国王不只有无数女人——他还有一个私生子。
 **关键词**：bastard / unfaithful
 **为什么这样写**：私生子的存在解释了父亲全部的算计：儿子只是可替换的零件，血统与亲情都是耗材——这一句把宫廷政治的最冷真相说完。
 **读者视角提示**：对照 ch16 “unite the court”：统一宫廷的口号背后是继承权赌局——父亲的所有“大义”都在本章被拆成私利。
 
 > **原句 6:** "“I’m your king now. Your only choice is to bow down to me and accept me as your king, or you’ll suffer the same fate as my father.” Rawling’s nostrils flared, and he slipped into the bathing chamber, seeming to need to confirm for himself that the king was indeed dead."
-**中文理解**：General Rawling 撞门而入，闻到血腥——Winter 直认：“我杀了他。”然后抛出剧本：父亲在浴室滑倒、撞头、溺亡，我的狼只是反应，守卫挡了路。再补一句：“我现在是你们的王。要么跪下，要么和我父亲一样的下场。”
+**中文理解**：他对 Rawling 宣布：“我现在是你们的王。要么跪下接受我，要么和我父亲一样的下场。”
 **关键词**：confirm / fate
 **为什么这样写**：认罪与编故事在同一段里并列：先直接承认（对 Rawling 这种近臣），再给出可对外传播的官方版本——Winter 的统治术第一步是“控制两套真相”。
 **读者视角提示**：对照 ch04 “Let them hang”的示众美学：他终于学会用对方的工具（叙事控制）来统治——学徒超过了师父。
@@ -69,8 +69,8 @@ modified: "2026-11-09"
 **为什么这样写**：告别威胁写得像调情：她不许他死的方式是威胁要追到阴间——这句比“我会想你”有效得多，也更像她。
 **读者视角提示**：对照 ch07 她连一个女巫都找不到（想改变容貌都没门路）：此刻她把“找女巫”当成一句威胁说出口——她的世界已经从无力变成有力。
 
-> **原句 10:** "We were both forced to mate each other. I know you never would’ve chosen me otherwise, but now I’m choosing you. I want you as my mate. If you feel the same way, if you want to be my queen, then come to my manor during the next full moon. If you decide this life isn’t what you want, then I’ll let you go."
-**中文理解**：两周后 Shaderain 的信：我们都被迫结为 mate，我知道你本来不会选我——但现在我选你。愿意，就在下一个满月来我的庄园；不愿意，我就放你自由。若你来，戴上这个。署名 Winter。
+> **原句 10:** "We were both forced to mate each other. I know you never would’ve chosen me otherwise, but now I’m choosing you. I want you as my mate. If you feel the same way, if you want to be my queen, then come to my manor during the next full moon. If you decide this life isn’t what you want, then I’ll let you go. You can be free of me to do whatever you wish. But, if you do come, wear this."
+**中文理解**：信里写着：我们都被迫结为 mate，我知道你本来不会选我——但现在我选你。愿意，就在下一个满月来我的庄园；不愿意，我就放你自由。若你来，戴上这个。署名 Winter。
 **关键词**：choosing / full moon
 **为什么这样写**：求婚信写得像通牒又像投降：全篇没有一句“爱”，只有“我选你”与“我会放你走”——他把选择权完整交出，这是他第一次不用权力说话。
 **读者视角提示**：对照 ch16 国王逼婚：同一件事（结 mate），一次是胁迫一次是邀请——两封信放在一起就是整本书对“婚姻”的两种定义。

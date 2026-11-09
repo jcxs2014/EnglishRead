@@ -15,16 +15,16 @@ modified: "2026-11-09"
 
 ## 精读
 
-> **原句 1:** "“He hasn’t forgotten you,” Amalli said with a small smile, her shoulders squared as she stood near the wall beside the doorframe. “You’re all Cyan ever talks about. What a wonderful sister you are."
+> **原句 1:** "“He hasn’t forgotten you,” Amalli said with a small smile, her shoulders squared as she stood near the wall beside the doorframe. “You’re all Cyan ever talks about. What a wonderful sister you are. His words are true, but I believe he was speaking them in hopes that we would set you free. He knows you haven’t forgotten him either—I can promise you that.”"
 **中文理解**：Amalli 站在门口安抚：他从没忘记你——Cyan 开口闭口都是你，说你是多好的姐姐；他的话说得没错，但我也听得出他盼着我们放了你。
 **关键词**：forgotten / squared
 **为什么这样写**：仆人的话承担三重功能：转述弟弟的思念、转述他的策略（用夸姐姐换自由）、替他作保（他知道你没忘）——这一段的温度全在“转述”这个人情上。
 **读者视角提示**：对照 ch12 Amalli 说“你是特例”：她从观察者变成传话人——这个狼族女性在两人之间当起了桥。
 
 > **原句 2:** "“Look what I made this time, Amalli.” A smile radiated in Cyan’s voice. “It’s Sterling and me walking without fear through the wolves’ forest.”"
-**中文理解**：她推门而见：弟弟背对她坐在毛毯上折纸，纸做的森林垂挂满屋；他举起一串纸雕——树、花，中间站着两个人：她和弟弟。“看这次我做的，Amalli——是我和 Sterling，无惧地走过狼的森林。”
+**中文理解**：“看这次我做的，Amalli——是我和 Sterling，无惧地走过狼的森林。”他举起一串纸雕：树、花，中间站着两个人——她和弟弟。
 **关键词**：radiated / fear
-**为什么这样写**：纸艺第五次出场，这次折的是“无惧”：孩子用作品替姐姐画出了她八年没敢想的状态；“Sterling and me”的顺序（她在前）说明他把自己放在被保护位。
+**为什么这样写**：纸艺又一次出场，这次折的是“无惧”：孩子用作品替姐姐画出了她八年没敢想的状态；“Sterling and me”的顺序（她在前）说明他把自己放在被保护位。
 **读者视角提示**：对照 ch05 那张捅穿秘密的 RRH 纸人：同一种手艺，从揭发走向祝福——纸始终是这个家唯一能公开表达真话的媒介。
 
 > **原句 3:** "“I love you, Cyan.” They were words she’d never uttered to anyone since her mother’s death, but she should’ve told him long ago. He was her brother, the one person she’d spent her life protecting."
@@ -34,7 +34,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch01 她对婴儿说的“I don’t know how I feel about you”：从不知道怎么看到说我爱你——姐弟线走了全书才走完这一格。
 
 > **原句 4:** "He withdrew his arms from around her and inched back, his voice a whisper, “What’s your plan? I know you have one.”"
-**中文理解**：“我理解你恨我，”她哽咽，“因为我不肯放下复仇。你比复仇更值得，Cyan，我早该明白。”——他抽身退开，低声问：你的计划呢？我知道你有。
+**中文理解**：他抽身退开，低声问：你的计划呢？我知道你有。
 **关键词**：inched / plan
 **为什么这样写**：道歉里承认了她全部的错误账（复仇优先于他）；而弟弟的回应不是原谅而是追问计划——他把她当同盟而不是受害者，这份“不合年纪的务实”比哭更有分量。
 **读者视角提示**：对照 ch03 他问“每个人都该有第二次机会吗”：弟弟的伦理线从提问长成了要方案——他在这本书里长大得最快。
@@ -52,7 +52,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch11 她说“也许他心底有一点在乎”：她当年的推断被弟弟用观察证实——这条人性线索由孩子完成闭环。
 
 > **原句 7:** "“That all depends.” She shrugged. “I’m married to the prince.” Cyan’s eyes widened, his lips parting. “I did it to unite the court,” Sterling continued. “As you would’ve wanted.” He tilted his head and crossed his arms over his chest. “But that’s not the whole reason you married him.”"
-**中文理解**：她告知婚事，弟弟立刻回：“但那不是你嫁给他的全部理由。”她又说为了救你，他补刀：“你喜欢王子，不然你承认婚事的表情会很难看。”
+**中文理解**：她告知婚事——“我嫁给了王子”；弟弟立刻回：“但那不是你嫁给他的全部理由。”
 **关键词**：married / reason
 **为什么这样写**：弟弟的两次拆穿构成全章最轻巧的喜剧：她用两个“正当理由”（统一宫廷、救弟弟）遮掩，他用一个表情就击穿——情感真相总由最不设防的人说出来。
 **读者视角提示**：对照 ch17 她自己承认“不全反感”：本章她把喜欢藏进理由里，被弟弟当众（私下）点破——她无法再对自己撒谎。

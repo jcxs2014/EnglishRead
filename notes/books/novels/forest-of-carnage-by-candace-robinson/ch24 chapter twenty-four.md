@@ -36,7 +36,7 @@ modified: "2026-11-09"
 > **原句 4:** "But the red line trailing between two of those smaller settlements was new. It hadn’t been there when his father detailed the journey to him. He lifted the map and studied the marking closer. The area was one of the more hazardous parts of the road in the center of two mountains, full of jagged rocks and caves where outcast wolves lived."
 **中文理解**：父亲桌上的地图：前半段是既定行程，但“两处小镇之间的红线”是新的——山脉中央最险的路段，全是尖石与流浪狼的洞穴。
 **关键词**：hazardous / jagged
-**为什么这样写**：红线是父亲剧本里的处刑点：父亲的密令（杀 RRH、嫁祸儿子）已经在图上画好；“which was why he'd planned to use surprise”的布局对读起来，这条线才是真正的处刑场。
+**为什么这样写**：红线是父亲剧本里的处刑点：父亲的密令（杀 RRH、嫁祸儿子）已经在图上画好；“he’d planned to use the element of surprise”的布局对读起来，这条线才是真正的处刑场。
 **读者视角提示**：对照 ch23 “我们不去北方”：他以为取消行程就避开了陷阱——红线表明陷阱是为“杀她并嫁祸”专门铺的，与他放不放她无关。
 
 > **原句 5:** "“Good.” The scratch of a quill on parchment filled the short silence. “Once Red Riding Hood dies in the valley, my son’s time will come. I should’ve killed him when he was still inside his mother’s womb.” Rage slammed into Winter at the confession, but he held his wolf back."
@@ -72,7 +72,7 @@ modified: "2026-11-09"
 > **原句 10:** "He looked over his shoulder at Sterling, meeting her wide eyes, and he arched a brow. “I solved our problem. But enlighten me—why are you here and not in Shaderain?”"
 **中文理解**：Sterling 出现在门口，他挑眉：“问题解决了。不过请告诉我——你怎么在这儿，而不是在 Shaderain？”
 **关键词**：solved / enlighten
-**为什么这样写**：结尾用一句轻佻的“问题解决了”收束全书最大的暴力：他刚杀完父亲，语气却是他惯常的拖着调子——这个反差正是本书对这个人物的最终判断（他永远是那个样子，只是方向变了）。
+**为什么这样写**：结尾用一句轻佻的“问题解决了”收束全书最大的暴力：他刚杀完父亲，语气却轻描淡写——这个反差正是本书对这个人物的最终判断（他永远是那个样子，只是方向变了）。
 **读者视角提示**：对照 ch05 “十五秒先跑”：同为拖腔，那时是猎手的玩笑，此刻是国王的陈述——同一副嗓子，权力位置换了。
 
 ## 本章词汇

@@ -34,9 +34,9 @@ modified: "2026-11-09"
 **读者视角提示**：这个女孩就是 Sterling：在 Winter 的记忆里她不是"那个女孩"而是"叛徒血统"——他记得的是指控，不是人；ch01 结尾她立誓杀他，本章他却在梦里找她，同一件事在双 POV 里方向相反。
 
 > **原句 4:** "“I suppose he’ll order the vines to be cut now.” Winter tsked. “Was it Red Riding Hood?” Micah shook his head. “No, it wasn’t that fucking bitch. However, the king is severely wounded. He managed to kill two of the attackers, but not before they broke his arm, leg, and nearly disemboweled him.”"
-**中文理解**：Micah 报告：猎人在天黑时袭来，杀了花园守卫、顺着常春藤爬进国王房间；不是 Red Riding Hood 干的，但国王重伤——杀了两个袭击者，却在断臂断腿、几乎被开膛之后。
+**中文理解**：Micah 报告：不是 Red Riding Hood 干的，但国王重伤——他杀了两个袭击者，却在断臂断腿、几乎被开膛之后。
 **关键词**：vines / disemboweled
-**为什么这样写**：情报以对话密度交付：袭击手法（爬藤）一句带过，真正的重点是那两问——Was it Red Riding Hood? 的追问与 No 的否认，把全书悬着的猎人首脑再次挂起。
+**为什么这样写**：情报以对话密度交付，真正的重点是那两问——Was it Red Riding Hood? 的追问与 No 的否认，把全书悬着的猎人首脑再次挂起；国王伤情的清单（断臂、断腿、几乎开膛）则用最省的字数交代了权力真空的深度。
 **读者视角提示**：Red Riding Hood 杀过 Winter 大半原班狼群（Micah 的幸存者身份即是证据）；她没出手这次，读者会本能追问：那她在哪？她在等人？
 
 > **原句 5:** "If his father died, that meant Winter would finally gain the crown. “Wonderful,” Winter drawled before rounding the top of the stairs to the third floor and shoving through the doors to his father’s room—the fanciest suite with the largest four-poster bed."

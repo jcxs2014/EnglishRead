@@ -33,7 +33,7 @@ modified: "2026-11-09"
 **为什么这样写**："变回人形"是本章最狠的一拍：箭射的是狼，拔箭面对的是人——作者不让读者躲在"打猎"的安全距离外；might as well have been 一句把她的私刑逻辑摊开：动机由复仇定义，不由个体罪责。
 **读者视角提示**：记住这个"他不是他们但一样"的判断——它是 Sterling 道德弧线的起点，也是 Cyan "每个人都值得第二次机会吗"之争的种子。
 
-> **原句 4:** "She wasn’t the only wolf hunter around, but she was the most well-known. The Bloodstorm Court called her Red Riding Hood, and for the hefty reward the prince was offering, she would easily be handed over to the wicked royal. But alive—since that was what he wanted."
+> **原句 4:** "She wasn’t the only wolf hunter around, but she was the most well-known. The Bloodstorm Court called her Red Riding Hood, and for the hefty reward the prince was offering, she would easily be handed over to the wicked royal. But alive—since that was what he wanted. How long she would stay that way once he received her was a good question. One she hoped to never answer."
 **中文理解**：她不是唯一的猎狼人，却最有名：Bloodstorm 宫廷叫她 Red Riding Hood，王子重金悬赏她——要活的，因为那是他要的；到手后还能活多久是个她希望永远别回答的问题。
 **关键词**：reward / wicked
 **为什么这样写**：外号直接从童话标题里拿（Red Riding Hood），读者此刻才知道书名里的"猎物"是被悬赏的她；alive—since that was what he wanted 用破折号断出两次寒意：悬赏要活的，而"活着"之后是空白。

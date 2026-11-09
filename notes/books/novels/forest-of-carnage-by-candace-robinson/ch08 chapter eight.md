@@ -22,7 +22,7 @@ modified: "2026-11-09"
 **读者视角提示**：记住“游戏”这个词：ch05 他给过十五秒，本章升格为一场“传统”——他把杀她包装成系列活动，仪式感是他的欲望放大器。
 
 > **原句 2:** "For years, his father had attempted to catch Red Riding Hood. Spent countless resources and sacrificed dozens of wolves, all because he underestimated the threat. Because he had the pack looking for a human with a lifetime of hunting experience. A hunter, born and bred."
-**中文理解**：多年来他父亲一直在追捕 Red Riding Hood：砸下无数资源、折损数十匹狼，只因他低估了威胁——让狼群去找一个“有生之年猎杀经验”的猎人，天生的猎手。而她都符合，只是人生比预期短。
+**中文理解**：多年来他父亲一直在追捕 Red Riding Hood：砸下无数资源、折损数十匹狼，只因他低估了威胁——让狼群去找一个“有生之年猎杀经验”的猎人，天生的猎手。
 **关键词**：underestimated / bred
 **为什么这样写**：“A hunter, born and bred”三个词收束了 RRH 之谜的全部答案——她不是受过训练，是血统加八年苦练；父亲的失败被归因于找错了画像，Winter 的成功则来自猜对了身份。
 **读者视角提示**：这一段是 Winter 的自我加冕：他一口气把父亲的失能与自己的洞察对表——别忘了 ch04 他也在人海里靠一双绿眼认人，运气与本事在他这里从不分开记账。
@@ -70,7 +70,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照 ch05 他拒绝她的献身（“我去妓院解决”）：他推开她的身体却推开不了 Micah 的手——双重标准里全是领地逻辑；这份独占欲是感情线的暗桩。
 
 > **原句 10:** "You against two dozen humans. The sole survivor earns their freedom. In the extremely unlikely chance you win, your brother goes free. For obvious reasons, I can’t let you go, but I’m sure you understand that.”"
-**中文理解**：规则公布：你，对两打人类；唯一活下来的获得自由。就算你赢了——概率极低——弟弟也自由。但出于显而易见的原因，你我不可能放，你懂的。
+**中文理解**：规则公布：你，对两打人类；唯一活下来的获得自由。就算你赢了——概率极低——弟弟也自由。但出于显而易见的原因，我不可能放你走，你懂的。
 **关键词**：survivor / unlikely
 **为什么这样写**：规则三层设计：给囚犯生的希望、给她赢的幻象、给自己留死扣——三层都写着他做局的精密度；“你懂的”用共谋语气说通牒，把残忍包装成默契。
 **读者视角提示**：注意他赌的是“极不可能”——他没想过她会赢：这个轻敌将在下一章付出代价；而“留她当装饰品”的内心盘算比游戏本身更露骨地暴露占有欲。

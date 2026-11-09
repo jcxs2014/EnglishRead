@@ -48,7 +48,7 @@ modified: "2026-11-09"
 > **原句 6:** "Winter tripped over the slumbering wolf’s legs and, with his grip still around Sterling’s wrists, took her down with him. Her chest landed on his, their faces only an inch apart, and every curve of their bodies molded together."
 **中文理解**：他被沉睡的狼腿绊倒——握着她手腕的力道没松，两人一起摔在地上：她的胸口贴上他的，脸距一寸，每一寸曲线都严丝合缝地贴在一起。
 **关键词**：molded / inch
-**为什么这样写**：坠落写成物理级的贴身：inch 与 mold 两个词把距离清零——摔跤是两人身体完全无预设地接触；之前的靠近都有笼子、椅 lap、谈判做框架，这次什么都没有。
+**为什么这样写**：坠落写成物理级的贴身：inch 与 mold 两个词把距离清零——摔跤是两人身体完全无预设地接触；之前的靠近都有笼子、大腿、谈判做框架，这次什么都没有。
 **读者视角提示**：她那句 Thank you 低语发生在两人贴身时：感谢说在脸距一寸的地方——温柔与危险共享同一寸空气，这是本章题眼。
 
 > **原句 7:** "He took Micah’s head between his hands and snapped his neck, the crack pleasure to Winter’s ears as it always was with a traitor. Despite having known him since childhood, Winter felt no remorse when the body crumpled to the ground. As his gaze met Sterling’s, his inner voice whispered, Hypocrite."

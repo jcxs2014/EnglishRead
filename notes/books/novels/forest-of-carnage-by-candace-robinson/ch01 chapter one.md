@@ -27,7 +27,7 @@ modified: "2026-11-09"
 **为什么这样写**：先一句 wasn't helpless 立起她的倔强，再用 was meant to be 的"本应"句式写出被命运夺走的落差，最后落到无父的现实，解释她为什么只能靠自己。
 **读者视角提示**：无父与母亲的职业在此点破，弟弟生父不明（sires 的复数暗示）是留给后文的身世悬案；别把这段当成单纯交代背景。
 
-> **原句 3:** "Go to your grandmother’s. Cross through the forest beyond the mountain and past the two rivers. You’ll find her cottage just after the willow trees."
+> **原句 3:** "Go to your grandmother’s. Cross through the forest beyond the mountain and past the two rivers. You’ll find her cottage just after the willow trees. She loves you as much as I do, but—"
 **中文理解**：母亲弥留之际留下路线：去外婆家——穿过山后的森林、渡过两条河，柳树后就是外婆的小屋；她还爱着你，可话没说完就断了。
 **关键词**：willow / cottage
 **为什么这样写**：遗言用一连串祈使句排出清晰路标，像一张童话地图；句末的 but— 戛然而止，把"没说完的话"变成 Sterling 此后一直想知道的悬案。

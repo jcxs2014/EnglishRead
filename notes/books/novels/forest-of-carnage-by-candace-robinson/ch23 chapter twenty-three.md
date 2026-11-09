@@ -72,7 +72,7 @@ modified: "2026-11-09"
 > **原句 10:** "“Wicked princes don’t get happy endings—even if they fall in love.” Winter shut the carriage door."
 **中文理解**：“邪恶的王子不会有圆满结局——即使他们坠入爱河。”他关上车门。
 **关键词**：wicked / endings
-**为什么这样写**：全书最像“预告”的一句：他把自己写进悲剧类型里，像在提前认领结局；drawl 与关门的动作让告白与告别同时完成。
+**为什么这样写**：全书最像“预告”的一句：他把自己写进悲剧类型里，像在提前认领结局；关门的动作让告白与告别同时完成。
 **读者视角提示**：对照 ch01 开场的“Once upon a time”：童话句法在结尾处被他自己反写——这是本作对“童话重述”的正式表态。
 
 > **原句 11:** "“This is bigger than us. You want the humans and wolves of the court united, don’t you? The only way for that to happen is if I make sure the prince doesn’t die.”"
