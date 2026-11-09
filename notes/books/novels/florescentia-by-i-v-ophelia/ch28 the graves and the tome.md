@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：Calum 的玩笑无意中说中全书主题：想象与体验不等价；他递出的纸袋也让「接受别人的好意」变得具体。
 
-**读者视角提示**：注意他的善意总是以食物形式出现，这让他与 Altair 形成对照——一个给面包，一个要情绪。
+**读者视角提示**：注意他的善意常以食物形式出现，这让他与 Altair 形成对照——一个给面包，一个要情绪。
 
 > **原句 4:** "What if I didn’t want to bring him back anymore? … I loved him, I did, but I had not cried in a while. Would he feel betrayed if I didn’t try?"
 
@@ -111,7 +111,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：它的警告带着明显的私心，却也可能是真的；作者故意让「嫉妒」与「忠告」共用一套措辞，读者无法立刻分辨。
 
-**读者视角提示**：记住这句：如果后文 Calum 真的有问题，这里是它唯一一次说对的话。
+**读者视角提示**：记住这句：如果后文 Calum 真的有问题，这句话就是它少有的一次说对。
 
 > **原句 11:** "“If you are insinuating I am jealous, then you forget that I don’t entirely suffer from the same ailments as you people,” he hissed."
 

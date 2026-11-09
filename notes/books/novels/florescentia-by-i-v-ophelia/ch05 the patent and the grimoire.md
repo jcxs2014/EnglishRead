@@ -10,7 +10,7 @@ modified: "2026-11-09"
 - **情感弧线位置**：下坠章——职业、信仰与家庭三处同时受挫，末尾落在「悲伤是最大的骗子」。
 - **Tropes 兑现/反转**：兑现「天才被制度轻慢」；反转「女巫无所不能」——她在专利局、书库、牌桌、娘家处处要仰仗别人放行。
 - **人物弧线**：Lucia 从掩饰失败到承认「运气会耗尽」，第一次对母亲说出「运气可以制造」。
-- **叙事手法**：四场景（专利局—书库—Everium—娘家）平行剪辑，每处都以「被人看白斑」的视线收束；结尾用格言句落章。
+- **叙事手法**：四场景（专利局—书库—Everium—娘家）平行剪辑，多处都以「被人看白斑」的视线收束；结尾用格言句落章。
 
 ## 精读
 > **原句 1:** "My failure was omnipresent, like a phantom ice upon my chest, my limbs, in my nose. My shortcoming carved directly into my floor."

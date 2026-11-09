@@ -31,7 +31,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：她把占卜说成心理安慰而非预言，既维持职业神秘感，也悄悄划清界线——真正能改变结果的是她的仪式，不是牌。
 
-**读者视角提示**：「Everie」是占卜师的名字，此处第一次出现；注意 Lucia 用的是「won’t help you here」，不是「不灵」。
+**读者视角提示**：「Everie」在此第一次出现，指她用的那套牌占（后文的 Everie 牌与 Everium）；注意她说的是「won’t help you here」，不是「不灵」。
 
 > **原句 3:** "It wasn’t often we were apart, not since he’d been drafted. Sure, he was my husband, but above all, he was my closest friend. No one tells you what it’s like to take closeness for granted."
 
@@ -61,7 +61,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：「差点拿不到」写制度，「一次仪式就够了」写捷径，两句话之间没有过渡——作者故意让因果关系显得轻巧，读者才会不安。
 
-**读者视角提示**：这是她第一次向读者承认用魔法处理世俗事务；「他们听了」的双关（听见她／听从魔法）值得留意。
+**读者视角提示**：这是她第一次具体交代仪式换来的世俗成果（专利）；「他们听了」的双关（听见她／听从魔法）值得留意。
 
 > **原句 6:** "There were many ways to farm luck from the Otherside. The easiest was to be intimate with the Peculiar. … Sex worked especially well since larger Peculiars suffered from a rather intense gulosity from their isolation and inability to cross over to our world. … As long as I conducted a controlled release in a strict environment, the process was foolproof."
 

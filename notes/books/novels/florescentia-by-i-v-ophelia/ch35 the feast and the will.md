@@ -41,7 +41,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：一句话把父亲的交易、她与母亲的两条命、以及白斑的来历压在一起；「seal」与她胸口的星形印记对上，身世线在此闭合。
 
-**读者视角提示**：注意「two lives」：她认为这笔交易里被换掉的是两条命——父亲的和她自己的。
+**读者视角提示**：注意「two lives」：她说不清那两条命具体是谁，只知道自己身上留着凭证。
 
 > **原句 4:** "At first the glow was bright, then a long table came into view, not unlike those in old English mansions. Impossibly intricate and out of place in the middle of nature. Atop its carved surface was a feast of fruits."
 

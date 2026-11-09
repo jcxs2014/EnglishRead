@@ -31,7 +31,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：一句文字游戏把「欺骗」变成「守法」：仪式照做，内容调包；Maxim 用官僚式的精确完成了浪漫的违法。
 
-**读者视角提示**：这场调包需要三个人配合（他、殡仪馆、她），后文若有人追查遗体，这里是伏笔。
+**读者视角提示**：这场调包需要有人配合（他，可能还有殡仪馆），后文若有人追查遗体，这里是伏笔。
 
 > **原句 3:** "“There is no need to be afraid when your heart is true,” he laughed, “but I think I’ve expelled a few times on the way over, from motion sickness and adrenaline.”"
 
