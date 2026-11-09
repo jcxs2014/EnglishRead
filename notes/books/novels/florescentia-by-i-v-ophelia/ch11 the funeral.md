@@ -128,7 +128,7 @@ modified: "2026-11-09"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | veil | 面纱 | I tried to joke, my face wet under the black veil. |
-| lily | 百合 | Fresh lilies and garlands of white roses. |
+| lilies | 百合 | Fresh lilies and garlands of white roses. |
 | coffin | 棺材 | The coffin was traditional, old-fashioned. |
 | brooch | 胸针 | Star-shaped brooches, thin veils, and gloved hands clutching Everie cards. |
 | dominoes | 多米诺骨牌 | There was no telling how far the dominoes would fall. |

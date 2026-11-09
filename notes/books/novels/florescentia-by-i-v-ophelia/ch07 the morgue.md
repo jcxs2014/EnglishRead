@@ -91,7 +91,7 @@ modified: "2026-11-09"
 | handkerchief | 手帕 | I removed my hand from my mouth to wipe his forehead with the handkerchief. |
 | slab | 停尸台；石板 | He pulled the edge of his coat up to block the slab from view. |
 | guilt | 愧疚 | But Dorian lived on, in me, as guilt. |
-| tremble | 颤抖 | My lip wasn’t just trembling; it was fighting the cry that nipped at the back of my throat. |
+| trembling | 颤抖 | My lip wasn’t just trembling; it was fighting the cry that nipped at the back of my throat. |
 
 ## 一句话总结
 凌晨的停尸房里，她拒绝说出那个「是」，却从警方口中听见自己就是撞死丈夫的女人；Maxim 替她确认了身份，也替她把一桩事故变成了一笔要用余生偿还的愧疚。

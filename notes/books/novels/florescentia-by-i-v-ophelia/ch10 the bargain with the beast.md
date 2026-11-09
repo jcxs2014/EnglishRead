@@ -152,7 +152,7 @@ modified: "2026-11-09"
 | trepidation | 惶恐；不安 | My Peculiars must have felt it. The trepidation. |
 | catacomb | 地下墓穴 | I opened the window, the breeze fluttering between book pages and tattered curtains and making specters of the dust that had collected in my personal catacomb. |
 | tinnitus | 耳鸣 | There was a predatory type of silence, the kind that could trigger tinnitus in your ears. |
-| uncanniness | 诡异感；非人的违和 | An uncanniness in his eyes, the face too symmetrical, features too rare. |
+| uncanniness | 诡异感；非人的违和 | An uncanniness in its eyes, the face too symmetrical, features too rare. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
