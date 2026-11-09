@@ -103,7 +103,7 @@ modified: "2026-11-09"
 |---|---|---|
 | embrace | 拥抱 | She returned the embrace before meeting Amalli in the hallway. |
 | threshold | 门槛 | He bowed his head, and they crossed over the threshold into the castle |
-| knob | 门把手 | Sterling grasped the cool handle of the door leading to her brother. |
+| handle | 把手 | Sterling grasped the cool handle of the door leading to her brother. |
 | bedchamber | 卧房 | Sterling pursed her lips as Caston opened the door for her, and she entered Valco’s bedchamber. |
 
 ## 一句话总结
