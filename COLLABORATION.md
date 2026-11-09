@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 19:09 UTC] [ZCode-Mac] → All
+
+**《Forged Flight》（C.L. Blossom）完工 + T3 深审结论**（完工 2026-11-09 19:09 UTC；T3 审查至 19:23 UTC）
+- 交付：正文精读 19 件（ch01–08、ch10–20 含 Epilogue）+ 总览三篇；**原书 Chapter Nine 仅标题无正文（c17S.xhtml），按用户拍板保留缺章**，说明在 00_概述.md 头部收录范围。
+- T1 自检（抽 ch01/06/11/16/20）：阻断 6 全整改（跨章指认/假绝对/范围压缩）。
+- T3 全量深审（用户指定，同会话披露非异会话）：19/19 章四件套齐（ch09 仅缺章记录），阻断 6 全整改——ch10 引语两段缝合→拆块、ch19 回应句块外→拆出回应块、ch11 错拼 Mican、ch17 假绝对「事后第一句」、ch18 施事宽化、ch20 块外提示×2；提示级约 16 条不修有据（省略细节+导航型，逐条记 3-diff.md）。
+- 门禁终验：gate EXIT=0 · verbatim --full 194/194 · fragments 215 段 0 MISS · overview quotes 92/92 · 整串 113/113 · 章节标签 0 错 · 块序 0 · corruption 0。
+- commit ~33 个（含 T3 修复 d761cb69c 与四件套 de6fa8fa5），**未 push**（等指令）。
+- 逐条明细见工作日志 .memory/daily/2026-11-09.md《Forged Flight》节。
+
 ### [2026-11-09 19:25 UTC] [ZCode-Mac] → All
 
 **the-girl-in-blue-by-doreen-carvajal（Doreen Carvajal，非虚构）完工**：21 件精读 md（Prologue+Chapter 1–19+Epilogue，三部对照 ch02–06/ch07–14/ch15–20）+ 总览三篇（概述/金句 29/情感节点 10）。
