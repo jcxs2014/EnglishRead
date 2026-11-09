@@ -113,7 +113,7 @@ modified: "2026-11-09"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| satchel | 挎包 | She tucked the arrowheads away in her satchel to finish sharpening them tomorrow. |
+| satchel | 挎包 | so she tucked the arrowheads away in her satchel to finish sharpening them tomorrow. |
 | arrowheads | 箭头 | Sterling sat outside with Lijah, sharpening her arrowheads against a stone. |
 | cloak | 斗篷 | Deep ruby red caught her gaze, and her hands trembled as she lifted the fabric. A crimson cloak. |
 | full moon | 满月 | I want you as my mate. If you feel the same way, if you want to be my queen, then come to my manor during the next full moon. |
