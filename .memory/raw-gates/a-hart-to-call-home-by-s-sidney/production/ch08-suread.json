@@ -1,0 +1,97 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch08",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch08_7_brooks.txt",
+ "facts": [
+  {
+   "fact": "Hart 家画风：内陆德州的家却有海盐浮木味——像海边木屋；他开始练习「少把一切当作理所当然」。",
+   "anchor": "It even smells kind of like sea salt and driftwood.",
+   "start": 499,
+   "end": 550
+  },
+  {
+   "fact": "家史：两家祖辈都为 Grandaddy Smith 工作过；他的祖父母退休后搬去佛州海边公寓，社交生活比他想象的还精彩。",
+   "anchor": "My grandparents—family friends since before God himself was born, I’m pretty sure—all moved to Florida when they retired from ranch life",
+   "start": 1182,
+   "end": 1318
+  },
+  {
+   "fact": "家地图：Grandaddy Smith 赠父母一块三英亩多地；Harriet 和 Dean 在地另一头建小屋，与 Emmy、狗和 Dean 带他一起建的鸡舍同住。",
+   "anchor": "When Mom and Dad got married, Grandaddy Smith gifted them a parcel of land.",
+   "start": 1627,
+   "end": 1702
+  },
+  {
+   "fact": "Dean 身份：犬科专科兽医；Flo/Dougie 是病弱新生幼犬被他每天数小时管饲救活——他本没打算养，最后舍不下；这也正是 Harriet 爱上他的部分原因。",
+   "anchor": "He’s a canine specialist vet, and these two were brought to him as sickly newborn puppies, right around the time he and Harriet met.",
+   "start": 4912,
+   "end": 5044
+  },
+  {
+   "fact": "Dean 的事业：三月跑 Texas 10K 为自己几年前创办的狗救援组织 Tri-town Pups 募捐；三镇商户大多捐了款。",
+   "anchor": "He’s running the Texas 10K in March in aid of the Tri-town Pups, a dog rescue he set up a few years ago.",
+   "start": 5566,
+   "end": 5670
+  },
+  {
+   "fact": "Brooks 的三十岁心态转变：想要父母有的、妹妹有的、Ev 和 Ruth 正在建的——肩上天使与恶魔结成同盟，劝他「是时候安定下来了」。",
+   "anchor": "I want what my parents have. What my sister has. What I see Everett building with Ruth.",
+   "start": 7958,
+   "end": 8045
+  },
+  {
+   "fact": "Emmy 蜜蜂过敏：去年夏天被蛰脚踝才发现；幸运的是 Mama Tanner 抽屉里有 Ashton 上次回家留下的备用 EpiPen，医生说及时用上救了她的命。",
+   "anchor": "We found out the hard way about Emmy’s bee sting allergy last summer, when a bee got into the Tanners’ kitchen and stung her ankle.",
+   "start": 8509,
+   "end": 8640
+  },
+  {
+   "fact": "Dean 的应对训练：教 Emmy 蜜蜂在身边时保持安静站立——不怕它也不挑衅它；他掏着 EpiPen 随时待命。",
+   "anchor": "We’ve been teaching her to stay nice and still when bees are around",
+   "start": 9057,
+   "end": 9124
+  },
+  {
+   "fact": "Brooks 的决断：蜜蜂碰到 Emmy 背带裤时，他三步跨过门廊把她捞进怀里放上腿——「I got you, EJ」。",
+   "anchor": "I cross the porch in three steps and scoop her into my arms, returning to the sofa just as quickly and settling her in my lap. The bee continues to buzz",
+   "start": 9951,
+   "end": 10103
+  },
+  {
+   "fact": "怀抱气味：桃子酸奶+妹妹薰衣草香水——他在熟悉的味道里放松下来，Emmy 在他怀里睡着。",
+   "anchor": "She smells like peach yogurt and my sister’s lavender perfume, and I let myself relax into the familiar scent.",
+   "start": 10242,
+   "end": 10352
+  },
+  {
+   "fact": "Bunny 危机：Hattie 哭腔来电——Emmy 丢了 Bunny 哭嚎；Brooks 挂断后发群聊 SOS（孕激素害的，他受不了妹妹哭）。",
+   "anchor": "SOS. Bunny down. EJ having meltdown. Meet @ moms asap for search party",
+   "start": 12491,
+   "end": 12561
+  },
+  {
+   "fact": "群聊反应：Ev 派活、Jody 意识流（先马后自行车）；Ashton 接连发来侦探式四连问——长相？最后出现位置？已知同伙？已知藏匿点？",
+   "anchor": "what does this ‘bunny’ look like?",
+   "start": 13205,
+   "end": 13238
+  },
+  {
+   "fact": "Bunny 来历：Harriet 宣布怀孕次日他在 Farrow 买的——逛完整个店、装满购物车还是忘不掉那张对称可爱的小脸，折回去拿的；Emmy 出生后就离不开它。",
+   "anchor": "I bought Bunny for Emmy the day after Harriet and Dean broke the news that she was pregnant.",
+   "start": 15137,
+   "end": 15229
+  },
+  {
+   "fact": "Brooks 的动摇：双辫+棒球帽的她骑马到场——明明只当妹妹看了二十年，这一眼却像第一次真正看见她，比 Bunny 失踪更让他心神不宁。",
+   "anchor": "But this feels like the first time I’m really seeing her, and something about that unsettles me even more than Bunny being missing.",
+   "start": 17101,
+   "end": 17232
+  },
+  {
+   "fact": "气质句：她能把麻袋穿成红毯礼服——天生如此；看她轻松发号施令，他胃里的不安更重了，连他自己都不知道该作何感想。",
+   "anchor": "She could make a goddamn sack look like some red carpet ballgown. She just has that way about her.",
+   "start": 18262,
+   "end": 18360
+  }
+ ]
+}
