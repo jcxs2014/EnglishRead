@@ -82,7 +82,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：Hessa 的反应是本章的道德高光：她没有惊叹太久，第一件事是封口；「看了看地面」这个细节说明她在权衡——一个匠头知道这门手艺一旦传出去会有多值钱，也知道该把它按住。
 
-**读者视角提示**：Hessa 由此成为她在要塞里的第一个「非继承人」盟友：一个靠手艺说话的人。读者可留意她后文是否再出场——匠人线的伏笔已埋。
+**读者视角提示**：Hessa 由此成为她在要塞里第一个靠手艺结成的盟友：一个靠手艺说话的人。读者可留意她后文是否再出场——匠人线的伏笔已埋。
 
 > **原句 8:** "I didn’t tell them why none of the alchemists could do it. The truth was that I wasn’t exactly one of them. No one could command Coldiron but me. No—not no one. There was another. Coldiron called the being the False Heir."
 

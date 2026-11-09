@@ -72,7 +72,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：先给命令短句再给心跳，最后用两段递进揭底——权力反转藏在 And it wasn't Aelindor 这一转折里；私事（private knowledge）与公事（operational intelligence）一词之差，就是她人生边界的重新测绘，而执笔者恰恰是最恨过她的人。
 
-**读者视角提示**：上一章末他还被请出帐篷，本章他把门推开把人拉上桌——Drakken 的转变不解释、只呈现。读者该开始给他的动机记账：保护？战略？还是昨晚那场哭改写了什么？
+**读者视角提示**：两章前他被请出帐篷（ch03），上一章他抱着她的铺盖留下（ch04），本章他把门推开把人拉上桌——Drakken 的转变不解释、只呈现。读者该开始给他的动机记账：保护？战略？还是昨晚那场哭改写了什么？
 
 > **原句 7:** "“Many of you have wondered why we brought a first-year cadet on this deployment.” Drakken gestured at me. “Cadet Private Max hasn’t been with us long, but she’s proved herself an asset.”"
 

@@ -22,7 +22,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：把指挥写成演奏：城墙是乐器、弓弦是「唱歌」，战争在这里第一次有了美学——而这种美学恰恰是 Nikolai 的性格：他不是野兽，是操纵者；「没有人类手臂能拉动的战弓」一句交代了吸血鬼部队的体质优势。
 
-**读者视角提示**：这是全书唯一以「指挥者」为主的战斗章：读者可把它与 ch10 的地面厮杀、ch29 的空中混战并读，三种视角拼出同一场战争的全貌。
+**读者视角提示**：这是少有的以指挥者视角为主的战斗章：读者可把它与 ch10 的地面厮杀、ch29 的空中混战并读，三种视角拼出同一场战争的全貌。
 
 > **原句 2:** "I should have kept my eyes on my own field. I did not. High above, the dragon wheeled black and gold through a churn of wings, and on his back rode Max. Even at this distance my sight found her, the way it always found her—the thread between us drew taut, pulling my gaze up. She was bleeding."
 
@@ -68,7 +68,7 @@ modified: "2026-11-09"
 
 **中文理解**：它从来不觉得轻，从来没有。名单上接下来每一个名字，都会是某人的爱人、父母、儿子、女儿、朋友。而这只是开始——他感觉得到，像感觉天气转向。白女巫往他们城墙上投了一支探针，学到她想学的东西，她不会停——直到 Covenant 化为灰烬。
 
-**关键词**：names / probe / ash
+**关键词**：name / probe / ash
 
 **为什么这样写**：把「伤亡名单」翻译成五种亲属关系，是本章最重的一句：数字变成人只需要五个名词；「像感觉天气转向」把战略预判写成身体本能，符合他吸血鬼的敏锐；「探针」一词最关键——它把这场惨胜降级为对方的一次测试。
 

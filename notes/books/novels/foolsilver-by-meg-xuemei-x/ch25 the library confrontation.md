@@ -84,13 +84,13 @@ modified: "2026-11-09"
 
 **读者视角提示**：这条「军阶线」是她后期一切政治操作的底子：她永远先算代价。读者可把它与她在营房里对 Delia 的直接对抗作对比——越往高处，她越懂得收手。
 
-> **原句 8:** "“It’s not filth. It’s…romance,” she protested in her low, husky voice … “Romance?” I retorted. “Then it’s a dirty romance.” … “It’s not what you think,” she muttered. I tilted my head, savoring it. “And what do I think?”"
+> **原句 8:** "“Romance?” I retorted. “Then it’s a dirty romance.” Closing the book, I held it up between us, driving it home. “Should we make an example of you in front of the whole academy, cadet? Showing them this book as well?”"
 
-**中文理解**：「那不是脏东西。那是……罗曼史。」她用那把低哑的嗓子抗议……「罗曼史？」他回敬，「那就是脏罗曼史。」……「不是你想的那样，」她咕哝。他偏过头，享受这一刻：「那我想的是哪样？」
+**中文理解**：「罗曼史？」他回敬，「那就是脏罗曼史。」他合上书，举在两人之间，把话钉死：「是不是该当着全院的面拿你立个例，学员？把这本书也一起展示给他们看？」
 
-**关键词**：romance / dirty / savoring
+**关键词**：Romance / dirty / academy
 
-**为什么这样写**：一场关于体裁命名的争论，实际是权力的较量：他抢定义权，她抢体面；「享受这一刻」把他写成猎手，但下一句让他自己承认「我不知道拿她怎么办」——猎手也在陷阱里。
+**为什么这样写**：一场关于体裁命名的争论，实际是权力的较量：他抢定义权，把「罗曼史」改成「脏罗曼史」，再把书举起来当证物——「举高」这个动作让私事具备了公开性，威胁不需要一句脏话。
 
 **读者视角提示**：这段戏的基调是本书最接近喜剧的一处：它同时完成了两件事——把两人的关系推进到能互损的程度，也把「她读书」这件私事变成他手里的把柄。
 

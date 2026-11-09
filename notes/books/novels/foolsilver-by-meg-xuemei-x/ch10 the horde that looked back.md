@@ -72,7 +72,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：Aelindor 从「指挥」切换到「呼救」只用了这一句——之前他布置的是战术，现在他喊的是撤离，音量即失序的证据；「一换二」的换算让防线以可计算的速度崩塌，紧张感由算术提供而不靠渲染。
 
-**读者视角提示**：让 Marco 出现在这个位置不是随便安排：两章前他撞 Veil 撞到满臂灼伤，本章他又第一个杀过来——这个配角的存在感是为后文的忠诚与代价铺路。
+**读者视角提示**：让 Marco 出现在这个位置不是随便安排：两章前他撞 Veil 撞到满臂灼伤，本章他又从侧翼杀向她——这个配角的存在感是为后文的忠诚与代价铺路。
 
 > **原句 7:** "“Afraid you can’t keep up with a first-year cadet on your back? Too heavy and clever for the mighty dragon?” Smoke poured from his nostrils. And then his talons loosened."
 

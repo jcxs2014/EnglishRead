@@ -22,7 +22,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：把「想念」写成一份不请自来的租客：住进胸口、赶不走、还得付租（钝痛）；「不想要」与「赶不走」并列，是本书对她矛盾心理最精确的配方——她的意志与身体永远各投一票。
 
-**读者视角提示**：这是本章唯一一次提到 Drakken，却是全章最重的一段之一：缺席的人在别人的章节里也能占最大篇幅。读者可把他这条线的每一次「不在」当成存在感的另一种计量。
+**读者视角提示**：这是本章第一次提到 Drakken，却是全章最重的一段之一：缺席的人在别人的章节里也能占最大篇幅。读者可把他这条线的每一次「不在」当成存在感的另一种计量。
 
 > **原句 2:** "And it wasn’t only Drakken. I wanted all four of them, as if they had imprinted on me. A fish with four hooks set in its mouth, being hauled in four directions at once. That’s a disturbing image, the demon said."
 
