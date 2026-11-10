@@ -1,0 +1,173 @@
+{
+  "chapter": "ch19",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch19_nineteen.txt",
+  "source_len_chars": 12824,
+  "source_note": "纯素读，仅读 text/ch19_nineteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（Setoguchi Yuko）；Fujii（前导）、会计部长（身后）、人事部长与 Ushio（接待室沙发）",
+      "did": "我走过陈列集装箱船、矿石船、LNG 船三种模型的走廊进入接待室；穿工作服的 Ushio 与人事部长同坐沙发、见我进来起身，Ushio 低头不与我对视；我被指定坐另一张沙发（Fujii 在旁、会计部长对面），会计部长把现金账簿与银行存取记录打印件摊上玻璃茶几；我恍惚想到正坐在那天 Fujii 与 Miu 做爱的皮沙发上，眼前纸片模糊分不清文字还是数字。",
+      "range": [
+        29,
+        1436
+      ],
+      "quote_head": "Container carrier, ore carrier, liquefied natural gas carrier.",
+      "quote_anchor": "I gave each model ship a lingering glance as I walked down the hallway where they were displayed"
+    },
+    {
+      "n": 2,
+      "who": "Fujii（主问、录音）、会计部长（插话追问）→我",
+      "did": "Fujii 说“Yuko，我录个音以防万一”，不等我点头就打开录音机放到玻璃桌上，就文件里每一项、每个数字盘问我；会计部长不时插话追问细节；两人语气温和不带指责——审讯像驯马师驯马，多数是点头摇头即可的问题。",
+      "range": [
+        1440,
+        2031
+      ],
+      "quote_head": "Yuko, I’m going to record this just in",
+      "quote_anchor": "The interrogation continued in a mild tone, like a horse trainer trying to tame a horse."
+    },
+    {
+      "n": 3,
+      "who": "人事部长（对 Ushio 耳语）；Fujii 与会计部长（对我）；人事部长（咆哮）",
+      "did": "身后人事部长耳语，Ushio 答“我没注意到”，一阵汗与旧机油似的臭味飘来；对账发现我从保险柜临时挪用的金额超过 1 亿日元（exceeded 100 million yen）；Fujii 低声说“Yuko，这令人失望”并质问“我们如此信任你，为何做这种事”；人事部长失去耐心咆哮：“你到底知不知道自己偷了多少？！”",
+      "range": [
+        2034,
+        2933
+      ],
+      "quote_head": "Behind me, the head of HR whispered something.",
+      "quote_anchor": "When we went over the numbers, the amount that I had temporarily borrowed from the safe turned out to have exceeded 100 million yen."
+    },
+    {
+      "n": 4,
+      "who": "审讯男人们（连珠炮提问）→我；Fujii（追问确认）；男人们（嘲笑）",
+      "did": "男人们连珠炮发问：为什么拿钱、何时开始、钱花在哪、是为了男人吗、是赌博吗；我挤出“……是为了马（It was for a horse）”；Fujii 追问“你是说……你在赌马？”；我再答“不……我的马（my horse）”；男人们的嘲笑充满接待室，我想知道 Ushio 看着我时是什么表情。",
+      "range": [
+        3708,
+        4259
+      ],
+      "quote_head": "Why did you take the money? When did",
+      "quote_anchor": "Do you mean . . . that you were betting on horse races?” he asked, and I once again forced my voice out of my dry throat."
+    },
+    {
+      "n": 5,
+      "who": "我→审讯男人们",
+      "did": "我哑声低语作证：他总在我想到往哪走之前就微微转向；我病倒时他也不吃东西；我情绪低落时他守在身边；他甚至来梦里看我；他凝视我时有久别的亲切——我一向讨厌唱歌，但和他在一起时话多、爱笑、也唱歌。",
+      "range": [
+        4855,
+        5412
+      ],
+      "quote_head": "He turns slightly before I think of which",
+      "quote_anchor": "When I got sick, he stopped eating, too. When I was feeling down, he stayed by my side."
+    },
+    {
+      "n": 6,
+      "who": "我；人事部长（嫌恶怒斥）；Fujii（语气转苦涩）",
+      "did": "我明知与这些男人永远无法互相理解仍强行拼凑语言；越付诸言语，越觉得与 Strada 之间构筑的一切正在瓦解（disintegrating），泪水涌上眼角；人事部长嫌恶骂“该哭的是我们”；Fujii 语气转苦涩：“没人会相信你把那么多钱花在一匹马上。”",
+      "range": [
+        5553,
+        6216
+      ],
+      "quote_head": "I forced myself to weave words together for",
+      "quote_anchor": "But the more I put into words, the more I felt that whatever I had built with Strada was disintegrating."
+    },
+    {
+      "n": 7,
+      "who": "Fujii（威胁报警）→我；审讯男人们（惊叫后退）",
+      "did": "Fujii 宣布“再说不清就只能报警”；“police”一入耳我浑身瘫软、膝盖发抖、喘不上气，眼前闪过 Strada 虚弱侧卧的画面，嘶声说“他受伤了……他在等我”；话一出口胃部痉挛、口中泛酸，我捂嘴，男人们惊叫后退围成一圈；我冲出接待室跑进对面卫生间，抓住变色马桶圈跪在脏瓷砖上呕吐——从昨天起没进食，只吐出乳色唾液。",
+      "range": [
+        6552,
+        7770
+      ],
+      "quote_head": "This clearly isn’t going anywhere If that’s really",
+      "quote_anchor": "I grabbed the discolored toilet seat as I kneeled on the dirty tiles of the bathroom floor and vomited."
+    },
+    {
+      "n": 8,
+      "who": "我",
+      "did": "卫生间窗缝吹进海风，风声像那首歌；我自顾自哼唱“Doo dah da, doo dah da”，干草与奶的气味钻进鼻子，蹄声乘海风飘来；随后我起身离开卫生间。",
+      "range": [
+        7947,
+        8164
+      ],
+      "quote_head": "The wind sounded like that song. Doo dah",
+      "quote_anchor": "I sang to myself. The smell of hay and milk reached my nose."
+    },
+    {
+      "n": 9,
+      "who": "我（外走）；Fujii（喊拦）；Ushio（摔倒挡路）；审讯众（被船模碎片挡住）",
+      "did": "我脚步踉跄走过陈列集装箱船、矿石船、LNG 船模型的长廊；Fujii 推门喊“Yuko!”试图拦我，众人脚步追来；防护靴乱响后一声巨响——Ushio 摔倒在地板上翻滚，船模坠落碎裂挡住男人们的去路；分不清他是故意放我逃还是偶然绊倒，他混在船模碎片里翻滚的样子滑稽得让我忍不住笑出声。",
+      "range": [
+        8167,
+        8937
+      ],
+      "quote_head": "With a wobbly gait, I started walking the",
+      "quote_anchor": "I looked back to find Ushio rolling on the floor. The model ships had fallen, shattering into fragments that blocked the men’s way."
+    },
+    {
+      "n": 10,
+      "who": "我；船厂声响（汽笛/铁板锯切/防护靴/海风）",
+      "did": "我背对 Fujii 沿走廊狂奔，从正前方的紧急出口冲出大楼跑过船厂；港口巨吊在蓝天下优雅摆颈；汽笛如号角催我奔向我的摩托车——我的逃亡；铁板锯切声成了轻快的小提琴声部、防护靴跺地成了稳定的鼓点、掠过船厂的海风奏出旋律。",
+      "range": [
+        9220,
+        9909
+      ],
+      "quote_head": "With the corners of my mouth raised, I",
+      "quote_anchor": "The sound of an iron plate being sawed formed a jaunty violin part, and the stomping of protective boots created a rhythm, a steady drumbeat."
+    },
+    {
+      "n": 11,
+      "who": "Strada（在停车场等我、低头看我）→我（奔向它、上马）",
+      "did": "我跑进锈顶停车场，Strada 站在自行车与摩托车后面、隔着铁架与我锁视——“你是来接我的吗？”我奔向它，它低头看我的脸，黑眼睛说“一起逃吧”；我一抓住柔软皮鞍跃上马背它便破步狂奔，我险些被甩飞、赶紧攥缰入它的节奏；转眼从快步（trot）变成跑步（canter）。",
+      "range": [
+        9912,
+        10503
+      ],
+      "quote_head": "When I ran into the parking lot with",
+      "quote_anchor": "Strada was standing behind the bicycles and mopeds, locking eyes with me over the iron racks."
+    },
+    {
+      "n": 12,
+      "who": "Strada 与我",
+      "did": "沿海弯道身后响起警笛，Strada 为拉开与警笛的距离加速沿公路直奔；我抬臀前送缰绳，它肌肉鼓起从跑步（canter）变袭步（gallop）；飞掠冷清的家居卖场、超市和并排两家连锁餐厅（一家日餐、一家西餐），熟悉街景最后一次掠过——我在袭步的 Strada 背上向一切告别。",
+      "range": [
+        10762,
+        11572
+      ],
+      "quote_head": "As we sped down the curved seaside road,",
+      "quote_anchor": "The familiar landscape along the highway swept by me for the last time. From atop a galloping Strada, I said goodbye to everything."
+    },
+    {
+      "n": 13,
+      "who": "Mugikura（驾运马车并行、喊 Good luck）→我（挥手回应）",
+      "did": "一声沙哑的“嘿，你！”——Mugikura 骑术俱乐部的运马车与我们并驾而行，Mugikura 坐在驾驶座露出金牙笑容喊“Good luck!”；我在 Strada 背上向他挥手，在消费贷款自助机与浅蓝招牌便利店夹着的路口右转，冲进稻田间的窄路，仍是袭步。",
+      "range": [
+        11576,
+        12082
+      ],
+      "quote_head": "Hey, you!” a raspy voice called out, and",
+      "quote_anchor": "Mugikura was in the driver’s seat, flashing us a gold-toothed smile. “Good luck!”"
+    },
+    {
+      "n": 14,
+      "who": "我与 Strada；御白様 Oshirasama（天空奔驰的意象）",
+      "did": "蓄满平静水的稻田如镜映出蓝天——仿佛御白様（Oshirasama）在天空奔驰；我与 Strada 呼吸同调、爱意满溢；我想把这感受写成歌，用曾憎恶的语言有一天唱出如御白様传说般的真实故事——唱遇见你的那天、那个神秘的梦、我在你之中、你在我之中。",
+      "range": [
+        12085,
+        12656
+      ],
+      "quote_head": "The paddies, brimming with calm water, reflected the",
+      "quote_anchor": "It was as if Oshirasama were running through the sky."
+    },
+    {
+      "n": 15,
+      "who": "我（唱歌）；Strada（嘶鸣回应）",
+      "did": "我在马背上继续唱歌；Strada 像回应般嘶鸣——像在呐喊：在一起，我们哪儿都能去。",
+      "range": [
+        12719,
+        12823
+      ],
+      "quote_head": "I sang on his back. He whinnied as",
+      "quote_anchor": "He whinnied as if in response—as if to scream that together, we could go anywhere."
+    }
+  ]
+}

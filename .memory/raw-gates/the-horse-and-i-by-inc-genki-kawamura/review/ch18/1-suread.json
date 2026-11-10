@@ -1,0 +1,118 @@
+{
+  "chapter": "ch18",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch18_eighteen.txt",
+  "source_len_chars": 7352,
+  "source_note": "纯素读，仅读 text/ch18_eighteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者）与 Strada",
+      "did": "雪夜「我」骑红色摩托载着鼓胀皮包赶到 Mugikura 骑术俱乐部，跑进马厩对 Strada 说「我来看你了」并伸手向它的口鼻；Strada 认出「我」，把嘴凑过来舔「我」冻僵的手指、口鼻颤抖；「我」流下热泪，Strada 把脖颈贴向「我」传来「我会永远相信你」的心声，又悲伤地低鸣——它知道即将分别。",
+      "range": [
+        29,
+        1430
+      ],
+      "quote_head": "With the bulging leather bag on my",
+      "quote_anchor": "Strada moved his mouth toward my hand and licked my freezing fingers."
+    },
+    {
+      "n": 2,
+      "who": "Strada（对「我」）",
+      "did": "Strada 像要把「我」裹住似的卧倒在马厩地上，体温与「我」的渐渐合一；「我」在他的暖意里渐渐失去意识、坠入黑暗。",
+      "range": [
+        1433,
+        1737
+      ],
+      "quote_head": "As if to wrap himself around me,",
+      "quote_anchor": "Enveloped in his warmth, I gradually lost consciousness, and darkness came."
+    },
+    {
+      "n": 3,
+      "who": "Mugikura（对「我」）",
+      "did": "Mugikura 拄杖出现在马房门口叫醒「我」（「那是马睡觉的地方」），把「我」安置到俱乐部内炉边的沙发上、往炉里添柴，笑说「睡在那种地方你差点死掉」，并继续解将棋残局、驱桂马斜进逼近王将；「我」回想骑 Strada 时是把性命托付给它，濒死之感如同爱人。",
+      "range": [
+        1740,
+        2608
+      ],
+      "quote_head": "“That’s a place for horses to sleep.”",
+      "quote_anchor": "But I guess if you’re around horses, you come close to death all the time."
+    },
+    {
+      "n": 4,
+      "who": "Mugikura（对「我」）",
+      "did": "Mugikura 说穆罕默德先知、亚历山大大帝、成吉思汗三位人物都各有爱马——人类史就是马史，人人都曾与马一同看世界、也一同被杀；「我」瞥见他身后年轻时的 Mugikura 骑大栗色马跃障碍的照片，酷似「我」见过的拿破仑画像。",
+      "range": [
+        2611,
+        3022
+      ],
+      "quote_head": "“Muhammad the Prophet, Alexander the Great, and",
+      "quote_anchor": "Muhammad the Prophet, Alexander the Great, and Genghis Khan all had their favorite horses,"
+    },
+    {
+      "n": 5,
+      "who": "Mugikura（对「我」）",
+      "did": "Mugikura 敲着小腿自白假腿来历：他曾从马上摔下——那匹马温顺、极少闹脾气，但那次他「真的听见了马的声音」在求他别骑，他仍强行骑了上去（太想赢），如今装着假腿；他说这是御白様在教训他。",
+      "range": [
+        3025,
+        3490
+      ],
+      "quote_head": "“I fell off a horse, and look",
+      "quote_anchor": "But that one time, I heard his voice, asking me not to ride him."
+    },
+    {
+      "n": 6,
+      "who": "Mugikura（对「我」）；「我」",
+      "did": "Mugikura 说他将离开骑术俱乐部北上前往御白様传说的发源地——一处因伤退役的马自由吃草度过余年的「马的天堂」；多数马一生赢不了、不能比赛就被杀，而那里是运气最好的马的归宿，他打算去那里与马相伴终老；「我」脑中浮现 Strada 在茫茫雪原奔跑，决意到时候与它一同去那里生活。",
+      "range": [
+        3493,
+        4236
+      ],
+      "quote_head": "Mugikura went on to tell me that",
+      "quote_anchor": "Apparently, it was where horses who have retired due to injuries lived out their final days, grazing freely."
+    },
+    {
+      "n": 7,
+      "who": "Mugikura（对「我」）",
+      "did": "针对 Shintani 讲的「聪明汉斯」故事，Mugikura 反驳：不是马笨——动物本就能不用语言交流；人类本也该能如此，只是早已失去洞察与共情的能力。",
+      "range": [
+        4239,
+        4633
+      ],
+      "quote_head": "“That Clever Hans story that Shintani told",
+      "quote_anchor": "It just means that animals have a way of communicating even without words."
+    },
+    {
+      "n": 8,
+      "who": "Mugikura（对「我」）",
+      "did": "Mugikura 用弯曲的手指拿起桂马翻面、露出「金」字，问「我」想让马赢回什么——说言语、昂贵马鞍和冠军对马毫无意义，并说无论「你与它有真正联结」是自认为还是马让你这么想都无所谓；又说马使人做梦、你我是被那些梦附身的人、人总会从梦里醒来，随后推「金」入盘终局将死，双手扶杖起身，许「我」今天想待多久都行，然后走出俱乐部。",
+      "range": [
+        4636,
+        5645
+      ],
+      "quote_head": "Mugikura picked up the knight piece with",
+      "quote_anchor": "But people always wake up from dreams at some point."
+    },
+    {
+      "n": 9,
+      "who": "我（叙述者）",
+      "did": "「我」独自往炉里添柴、凝望火苗出了神，回过神来手里已攥着一沓钞票并把它扔进火里，接着一叠又一叠——钞票在热气中卷曲着烧起来，面额「10,000」一次次被火焰吞没、转眼烧黑；听到爆裂声猛睁眼，窗外天色泛蓝、皮包里的钱原封未动——原来是在做梦；「我」感到释然与绝望交叠，终究什么也没能挣脱。",
+      "range": [
+        5648,
+        6860
+      ],
+      "quote_head": "Left by myself, I put more wood",
+      "quote_anchor": "The number 10,000 was enveloped in flames, over and over again, turning black in the blink of an eye."
+    },
+    {
+      "n": 10,
+      "who": "Mugikura 与 Strada（被「我」看见）",
+      "did": "厩外响起高亢马嘶，「我」起身循声走出俱乐部；拄杖、无法行走的 Mugikura 骑在黑马上现身——Strada 的缰绳握在 Mugikura 手中，驮着他缓步走过白雾笼罩的调教场；这是「我」第一次见他骑马，他却骑得仿佛生来就该如此。",
+      "range": [
+        6863,
+        7351
+      ],
+      "quote_head": "There was a high-pitched neigh outside and",
+      "quote_anchor": "Strada, with his reins in Mugikura’s hands, was slowly walking the riding arena, which was covered in thick white fog."
+    }
+  ]
+}
