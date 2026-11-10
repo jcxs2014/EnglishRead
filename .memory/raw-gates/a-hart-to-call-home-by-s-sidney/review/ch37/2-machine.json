@@ -1,0 +1,300 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch37 epilogue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch37_epilogue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"You waiting for someone, devil?\"",
+          "ok": true,
+          "pos": 513
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "my final kitchen internship is complete. I actually finished back in March, but I'd agreed to stay and work for one of m",
+          "ok": true,
+          "pos": 1186
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The last nine months have been the best and worst of my life",
+          "ok": true,
+          "pos": 1735
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I flew in on Christmas Eve to meet two-week-old Zachary Silas Forbes, the newest member of the family",
+          "ok": true,
+          "pos": 2380
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Brooks was calling me from my bed at night, rather than his own. I don't think he left my cabin much after I did",
+          "ok": true,
+          "pos": 2719
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Forever's a con. Nothing lasts forever.\"",
+          "ok": true,
+          "pos": 3915
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It'll still be you. Maybe it is a myth, but we're gonna give forever a damn good try, okay? You and me, devil. We're des",
+          "ok": true,
+          "pos": 4613
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "But it turns out I never needed a map. I just needed my heart",
+          "ok": true,
+          "pos": 5261
+        },
+        {
+          "text": "Right here on the ranch, with a Hart of my very own",
+          "ok": true,
+          "pos": 5460
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.95,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.46,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.47
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. epilogue",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1063,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch34",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch34_31_brooks.txt",
+ "facts": [
+  {
+   "fact": "Jody 的 18 条短信订好机票与进城路线——Ev 的报复是经济舱中座正对洗手间。",
+   "anchor": "Everett has booked me a middle seat in economy, right in front of the lavatory.",
+   "start": 774,
+   "end": 853
+  },
+  {
+   "fact": "左邻死攥扶手、右邻电子书一页十五词让他陪读了半本推理。",
+   "anchor": "whose e-reader font size allows her to read only fifteen words per page",
+   "start": 962,
+   "end": 1033
+  },
+  {
+   "fact": "飞机火车公交地铁——「幸好不用坐船」；差点坐过站靠服务犬踩醒。",
+   "anchor": "I guess I should just be thankful I don’t need to take a damn boat.",
+   "start": 1603,
+   "end": 1670
+  },
+  {
+   "fact": "Ev 威胁令：让她哭就把你的蛋喂牛并让你围观——Jody 回 kinky。",
+   "anchor": "If you make her cry I swear to god I will feed your balls to the bulls and make you watch",
+   "start": 2145,
+   "end": 2234
+  },
+  {
+   "fact": "定位情报：她在同一家店逛了近一小时——她最爱的化妆品店。",
+   "anchor": "she’s been browsing in the same place for the better part of an hour.",
+   "start": 2606,
+   "end": 2675
+  },
+  {
+   "fact": "他目睹她缩肩蜷身——这不是他的 Ashton；她从不为任何人缩小自己。",
+   "anchor": "My Ashton doesn’t fold inward like that; she doesn’t minimize herself for anyone.",
+   "start": 3648,
+   "end": 3729
+  },
+  {
+   "fact": "当面改口：赌注论是混蛋话、不值得冒险是谎话——为她愿赌上一切。",
+   "anchor": "When I said the stakes were too high, I was an ass.",
+   "start": 4178,
+   "end": 4229
+  },
+  {
+   "fact": "她的底线宣言：不做你的肮脏秘密——这辈子没骗过哥，自从有了我们全在骗。",
+   "anchor": "I’m not gonna be your dirty secret.",
+   "start": 4507,
+   "end": 4542
+  },
+  {
+   "fact": "她的恐惧：怎么知道我不会像其他女孩一样被用完就扔。",
+   "anchor": "I ain’t gonna be another walk of shame for you, Brooks",
+   "start": 4946,
+   "end": 5000
+  },
+  {
+   "fact": "他在暴雨里吼答：她们没留下是因为不是他要找的——都不是你 Ash。",
+   "anchor": "None of them ever stuck around because they weren’t what I wanted.",
+   "start": 6312,
+   "end": 6378
+  },
+  {
+   "fact": "雨吻与她交出时间线：从十二岁起就爱你。",
+   "anchor": "“Since I was twelve years old,” she says with a laugh",
+   "start": 7062,
+   "end": 7115
+  },
+  {
+   "fact": "他想起九岁的自己大概那时就有点爱上她。",
+   "anchor": "I think my nine-year-old self probably fell a little bit in love with her then.",
+   "start": 7355,
+   "end": 7434
+  },
+  {
+   "fact": "时态对句吻：那时爱你、现在爱你——她尝起来像雨。",
+   "anchor": "“Loved you then. Love you now.”",
+   "start": 7646,
+   "end": 7677
+  },
+  {
+   "fact": "地铁奔进布朗克斯、雨里牵手跑——他要她的身体、头脑与心。",
+   "anchor": "I love her in a way that makes me feel like I could torch the world, either for her or because of her, or maybe both.",
+   "start": 8899,
+   "end": 9016
+  },
+  {
+   "fact": "进到她公寓——他忽然且压倒性地感到完整。",
+   "anchor": "I feel suddenly and overwhelmingly whole.",
+   "start": 9194,
+   "end": 9235
+  }
+ ],
+ "relations": [
+  "Ev 以盯梢兄长身份全程通报位置",
+  "她比他矮十英寸（五英尺七对六英尺五）",
+  "她的旧判词被他自己当年的一回合主义推翻"
+ ],
+ "numbers": [
+  "eighteen texts",
+  "fifteen words per page",
+  "since I was twelve",
+  "nine-year-old self",
+  "ten inches shorter"
+ ],
+ "verified": "15/15 anchors found in text（offsets 由 find() 现算）",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

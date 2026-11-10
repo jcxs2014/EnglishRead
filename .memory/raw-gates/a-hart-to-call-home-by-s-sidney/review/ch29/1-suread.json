@@ -1,0 +1,110 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch29",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch29_26_brooks.txt",
+ "facts": [
+  {
+   "fact": "大坝一破，十年以上的吸引与欲望把两人淹没。",
+   "anchor": "Once that dam broke, a decade or more of attraction and desire flooded both of us and we were helpless.",
+   "start": 305,
+   "end": 408
+  },
+  {
+   "fact": "她的心一直在他手里——现在只需让她相信。",
+   "anchor": "She’s always had my heart. Now I just have to convince her of it.",
+   "start": 1309,
+   "end": 1374
+  },
+  {
+   "fact": "群聊嘲弄：老 Brooks 看不完整部电影了——钱包在她家@他。",
+   "anchor": "old man brooks cant even stay awake for a full movie anymore?",
+   "start": 1700,
+   "end": 1761
+  },
+  {
+   "fact": "她的短信回击：若 Jody 知道实情，0.0002 秒内我哥就会知道——他有一张大嘴。",
+   "anchor": "if he knew the reason your wallet was at my house is because you fucked me almost into a coma, my brother would find out in approx 0.0002 seconds because Jody Fisher has a big fucking mouth.",
+   "start": 2468,
+   "end": 2658
+  },
+  {
+   "fact": "短信停战：他坦白不爱骗他们——她答我也不爱，但得编个故事。",
+   "anchor": "I don’t like lying to them",
+   "start": 2746,
+   "end": 2772
+  },
+  {
+   "fact": "誓言复活：他向 Everett 发过誓帮他保护小妹，他是说话算话的人。",
+   "anchor": "Because I made a promise. I swore to Everett that I’d help him protect his baby sister, and I’m a man of my word.",
+   "start": 3530,
+   "end": 3643
+  },
+  {
+   "fact": "恐惧对仗：更怕毁掉与挚友的关系，还是真的与她在一起。",
+   "anchor": "I don’t know what I’m more afraid of. Destroying my relationship with my best friends, including Ashton and her brother, or actually being with Ashton.",
+   "start": 5553,
+   "end": 5704
+  },
+  {
+   "fact": "冰箱啤酒不够劲——改威士忌，仍不够。",
+   "anchor": "There ain’t enough whiskey in the goddamn fucking world for this.",
+   "start": 3858,
+   "end": 3923
+  },
+  {
+   "fact": "太热也套上连帽衫出门——不能光着上身谈这场话。",
+   "anchor": "It’s too fucking hot to wear it, but I can’t very well have this conversation shirtless.",
+   "start": 3983,
+   "end": 4071
+  },
+  {
+   "fact": "他认出她十七岁的唇环烙印（当年被禁足三个月，十个月后摘掉）。",
+   "anchor": "the mark from the lip piercing she got at seventeen and was immediately grounded for three months for.",
+   "start": 5318,
+   "end": 5420
+  },
+  {
+   "fact": "门廊宣判：赌注太高，我们不行。",
+   "anchor": "“We can’t do this, Ash,” I whisper.",
+   "start": 6323,
+   "end": 6358
+  },
+  {
+   "fact": "她的第一句反击：在马厩里的时候你可没在乎赌注。",
+   "anchor": "“You didn’t seem to care about stakes when you fucked me in the stables.”",
+   "start": 6907,
+   "end": 6980
+  },
+  {
+   "fact": "她的降温与刀句：去找下一个照旧——你永远不会变；门轻轻咔哒关上。",
+   "anchor": "“You’re right,” she says coolly.",
+   "start": 7096,
+   "end": 7128
+  },
+  {
+   "fact": "铅气球坠地——那些话留下他不知如何修复的弹坑。",
+   "anchor": "Like a lead balloon, the words leave a crater in their wake",
+   "start": 7688,
+   "end": 7747
+  },
+  {
+   "fact": "他们不只是挚友——是家人。",
+   "anchor": "They’re more than just my best friends—they’re my family.",
+   "start": 3004,
+   "end": 3061
+  }
+ ],
+ "relations": [
+  "四岁誓言的原文在 ch20 被完整引证",
+  "Jody/钱包是泄密的导火索",
+  "唇环是十七岁的旧物",
+  "Ev/Ruth/Jody 全在群聊里蒙在鼓里"
+ ],
+ "numbers": [
+  "lip ring 十七岁+禁足三个月+十个月后摘掉",
+  "0.0002 秒传播速度",
+  "last two weeks 的 sneaking around（原文 he'd spent most evenings at her cabin）"
+ ],
+ "verified": "15/15 anchors hit",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

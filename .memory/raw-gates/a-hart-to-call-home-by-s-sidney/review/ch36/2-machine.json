@@ -1,0 +1,445 @@
+{
+  "chapter": 36,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch36 thirty-three.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch36_33_ashton.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "atop the Empire State building, inside Lady Liberty's crown, on the Brooklyn Bridge at sunrise—but since Central Park is",
+          "ok": true,
+          "pos": 357
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "there's something so final, so peaceful and freeing about knowing that his is the last hand I'll hold",
+          "ok": true,
+          "pos": 742
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Her sharp eyeliner wings are enviable, bold against the porcelain of her skin",
+          "ok": true,
+          "pos": 1648
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "home really is where the heart is, and I might have left part of mine there. And the rest of it followed me across the c",
+          "ok": true,
+          "pos": 3138
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Rio!\" a voice calls. \"Lemon!\"",
+          "ok": true,
+          "pos": 6607
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Ashton.\" Declan's voice isn't as rich and warm as I remember",
+          "ok": true,
+          "pos": 7289
+        },
+        {
+          "text": "Jessa is half a step behind him, two leashes wrapped around the handlebar of a stroller",
+          "ok": true,
+          "pos": 7530
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Like an asshole. Faced with him now, he's not as boyishly handsome as I used to think he was",
+          "ok": true,
+          "pos": 7832
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"We were perfect. Until one day they just stopped picking up the phone.\"",
+          "ok": true,
+          "pos": 9925
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "\"She was pregnant,\" Brooks says. An observation, not a question. \"When you came home, when we",
+          "ok": true,
+          "pos": 10140
+        },
+        {
+          "text": "you just wanted to get over them?\"",
+          "ok": true,
+          "pos": 10232
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "\"You're my teenage dream come true,\" I admit with a tiny chuckle",
+          "ok": true,
+          "pos": 10548
+        },
+        {
+          "text": "\"You've always had all of me, Brooks. All twenty-three and a half years of my life.\"",
+          "ok": true,
+          "pos": 11296
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The day he first called me \"devil.\" The day he held my clammy hands in his warm ones as he taught me to skateboard",
+          "ok": true,
+          "pos": 11717
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "But for me? Love feels like Brooks Hart",
+          "ok": true,
+          "pos": 13200
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "In every lifetime, I think Brooks Hart would be my heart's home",
+          "ok": true,
+          "pos": 13435
+        }
+      ],
+      "words": 12
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.28
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.31,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.36,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.47
+      }
+    }
+  ],
+  "form": {
+    "h1": "36. thirty-three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2575,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

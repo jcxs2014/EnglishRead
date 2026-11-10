@@ -1,0 +1,111 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch36",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch36_33_ashton.txt",
+ "facts": [
+  {
+   "fact": "他的接吻清单：帝国大厦顶、自由女神冠内、日出布鲁克林大桥——先去了中央公园 103 街入口。",
+   "anchor": "atop the Empire State building, inside Lady Liberty’s crown, on the Brooklyn Bridge at sunrise—but since Central Park is also on that list",
+   "start": 372,
+   "end": 510
+  },
+  {
+   "fact": "知道这是她此生要牵的最后一双手——终局、安宁、自由。",
+   "anchor": "there’s something so final, so peaceful and freeing about knowing that his is the last hand I’ll hold.",
+   "start": 761,
+   "end": 863
+  },
+  {
+   "fact": "餐车姑娘绿辫发+龙翼耳环——两杯热饮：摩加加奶油+热可可加棉花糖。",
+   "anchor": "Her long, braided hair is lime green, and dragon wings dangle from her ears.",
+   "start": 1607,
+   "end": 1683
+  },
+  {
+   "fact": "家是心之所在——她把一部分心留在了德州，剩下的跟她飞越全国。",
+   "anchor": "home really is where the heart is, and I might have left part of mine there.",
+   "start": 3188,
+   "end": 3264
+  },
+  {
+   "fact": "Rio 与 Lemon 的狗名像惊雷砸进胸口——她的身体僵住。",
+   "anchor": "“Rio!” a voice calls. “Lemon!”",
+   "start": 6713,
+   "end": 6743
+  },
+  {
+   "fact": "Declan 的声音不再丰厚温暖——Jessa 半步之后推着婴儿车。",
+   "anchor": "Jessa is half a step behind him, two leashes wrapped around the handlebar of a stroller.",
+   "start": 7659,
+   "end": 7747
+  },
+  {
+   "fact": "祛魅：他不像记忆中少年英俊——下颌太棱角、胡茬太稀疏。",
+   "anchor": "Like an asshole. Faced with him now, he’s not as boyishly handsome as I used to think he was.",
+   "start": 7966,
+   "end": 8059
+  },
+  {
+   "fact": "他的推理：她当时怀孕了——你回家、我们……只是想忘掉他们？",
+   "anchor": "“She was pregnant,” Brooks says.",
+   "start": 10331,
+   "end": 10363
+  },
+  {
+   "fact": "她反驳 rebound 论：你是我的少女梦成真——12 岁的我早就笃定我们终究是我们。",
+   "anchor": "“You’re my teenage dream come true,” I admit with a tiny chuckle.",
+   "start": 10755,
+   "end": 10820
+  },
+  {
+   "fact": "产权证：他拥有她二十三岁半人生的全部——mind, body, heart, soul。",
+   "anchor": "You’ve always had all of me, Brooks. All twenty-three and a half years of my life.",
+   "start": 11517,
+   "end": 11599
+  },
+  {
+   "fact": "记忆清单：第一次叫 devil、教滑板握汗手、偷师吉他、答应照顾她的马。",
+   "anchor": "The day he first called me “devil.” The day he held my clammy hands in his warm ones as he taught me to skateboard.",
+   "start": 11944,
+   "end": 12059
+  },
+  {
+   "fact": "碎掉的部分慢慢修复——他找到她了：我的 devil 女孩。",
+   "anchor": "Slowly, and then all at once, the pieces of us I started to break begin to repair.",
+   "start": 12309,
+   "end": 12391
+  },
+  {
+   "fact": "爱的定义：爱没有统一尺寸——对她来说爱摸起来像 Brooks Hart。",
+   "anchor": "But for me? Love feels like Brooks Hart.",
+   "start": 13502,
+   "end": 13542
+  },
+  {
+   "fact": "中央公园之吻里有个小孩鼓掌大笑——每一辈子他都会是她的心之家。",
+   "anchor": "In every lifetime, I think Brooks Hart would be my heart’s home.",
+   "start": 13739,
+   "end": 13803
+  },
+  {
+   "fact": "她全盘交代：我们很完美——直到某天他们不再接电话。",
+   "anchor": "“We were perfect. Until one day they just stopped picking up the phone.",
+   "start": 10110,
+   "end": 10181
+  }
+ ],
+ "relations": [
+  "Rio/Lemon 是 Declan/Jessa 的两只德牧",
+  "婴儿车回答了切割之谜",
+  "Ev 曾把他抵在墙上威胁（她此刻才听说）",
+  "Peaches 是斑点狗的名字"
+ ],
+ "numbers": [
+  "twenty-three and a half years",
+  "103rd Street 入园",
+  "twelve-year-old me",
+  "两人身高差十英寸（前章）"
+ ],
+ "verified": "15/15 anchors hit",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

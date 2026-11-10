@@ -1,0 +1,99 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch37",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch37_epilogue.txt",
+ "facts": [
+  {
+   "fact": "六月南德州热得要命——接机大厅、连环延误把早班机变成午班。",
+   "anchor": "June in south Texas is unbearably fucking hot.",
+   "start": 88,
+   "end": 134
+  },
+  {
+   "fact": "「在等人吗，devil？」——她扔下行李箱跳进他怀里；他总是接得住她。",
+   "anchor": "“You waiting for someone, devil?”",
+   "start": 528,
+   "end": 561
+  },
+  {
+   "fact": "毕业捷报：三月完成实习、留任到毕业、十天前毕业礼——Brooks 与父母飞去观礼。",
+   "anchor": "I graduated ten days ago, and Brooks and my parents flew out to watch me cross the stage.",
+   "start": 1368,
+   "end": 1457
+  },
+  {
+   "fact": "过去九个月是人生最好也最坏的九个月。",
+   "anchor": "The last nine months have been the best and worst of my life.",
+   "start": 1776,
+   "end": 1837
+  },
+  {
+   "fact": "平安夜回家见两周大的 Zachary Silas Forbes；Emmy 牛主题三岁生日（12/27）；Ev 12/29 赴伦敦。",
+   "anchor": "I flew in on Christmas Eve to meet two-week-old Zachary Silas Forbes, the newest member of the family.",
+   "start": 2446,
+   "end": 2548
+  },
+  {
+   "fact": "圣诞后 Brooks 夜夜在她床上打电话——她走后他没怎么离开过她的小屋。",
+   "anchor": "Brooks was calling me from my bed at night, rather than his own.",
+   "start": 2786,
+   "end": 2850
+  },
+  {
+   "fact": "Ev 夫妇结婚一周年——也是她回家疗心即将一周年。",
+   "anchor": "celebrate a year of marriage. It’s crazy to think it’s only been a year",
+   "start": 3078,
+   "end": 3149
+  },
+  {
+   "fact": "抬杠：永远是骗局——马、卡车、连很棒的性都不会永远；他抢答好性爱会永远。",
+   "anchor": "“We’ll always have great sex,” he interjects.",
+   "start": 4104,
+   "end": 4149
+  },
+  {
+   "fact": "他的誓言：八十岁也还是你——就算神话也要给 forever 拼一次：你和我 devil，我们是 destiny。",
+   "anchor": "It’ll still be you.",
+   "start": 4738,
+   "end": 4757
+  },
+  {
+   "fact": "她的回应含泪微笑：Me and you, demon——他总是看见她。",
+   "anchor": "“Me and you, demon,” I whisper.",
+   "start": 4867,
+   "end": 4898
+  },
+  {
+   "fact": "她坦白最近去过一些黑暗的地方——妈妈会怕、哥哥会捶墙的地方。",
+   "anchor": "Places that would have had my mom scared, had she known about them.",
+   "start": 5161,
+   "end": 5228
+  },
+  {
+   "fact": "地图答案：从不需要地图——只需要心；心总带她去该去的地方。",
+   "anchor": "But it turns out I never needed a map. I just needed my heart.",
+   "start": 5403,
+   "end": 5465
+  },
+  {
+   "fact": "终句：就在牧场上——带着一个属于她自己的 Hart。",
+   "anchor": "Right here on the ranch, with a Hart of my very own.",
+   "start": 5604,
+   "end": 5656
+  }
+ ],
+ "relations": [
+  "Zachary Silas 的中名兑现 ch06 Mr. Hart 的提议",
+  "Ev 夫妇的 split time 计划运转（他赴伦敦）",
+  "他搬入她的小屋（无仪式）"
+ ],
+ "numbers": [
+  "nine months 最好也最坏",
+  "graduated ten days ago",
+  "two-week-old Zachary",
+  "December 27/29 的日程",
+  "a year of marriage/homecoming"
+ ],
+ "verified": "13/13 anchors found in text（offsets 由 find() 现算）",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}

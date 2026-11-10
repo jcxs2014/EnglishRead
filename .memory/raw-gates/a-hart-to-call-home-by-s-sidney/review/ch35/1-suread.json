@@ -1,0 +1,72 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch35",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch35_32_ashton.txt",
+ "facts": [
+  {
+   "fact": "雨下了一夜大半日——他们把 loft 的旧记忆逐间改写。",
+   "anchor": "Instead of exploring, we spend the time indoors, rewriting the memories I have of this loft before I leave it for good.",
+   "start": 314,
+   "end": 433
+  },
+  {
+   "fact": "厨房台面=穿着内衣烤曲奇；沙发=毯子拉到下巴；淋浴=既敬神又亵渎。",
+   "anchor": "The kitchen counter becomes the place where we bake cookies in our underwear, his hands on my bare skin at all times.",
+   "start": 434,
+   "end": 551
+  },
+  {
+   "fact": "时代广场之后 hardly an hour 没有人说那三个字。",
+   "anchor": "Since he told me he loved me in the rain at Times Square, hardly an hour has gone by without one of us saying the words again.",
+   "start": 795,
+   "end": 921
+  },
+  {
+   "fact": "爱 Brooks——允许自己爱、被他爱——很容易、很舒适、像回家。",
+   "anchor": "Loving Brooks—letting myself love him, being loved by him—is easy. Comfortable. Like coming home.",
+   "start": 1499,
+   "end": 1596
+  },
+  {
+   "fact": "mantra 第三现：可以、应该、想要。",
+   "anchor": "It feels like I can, and I should, and my god, do I want, want, want.",
+   "start": 1599,
+   "end": 1668
+  },
+  {
+   "fact": "他滚烫的目光下她第一次真正觉得自己美——像女神。",
+   "anchor": "Here in this bed, naked and loved, I feel like a goddess.",
+   "start": 2398,
+   "end": 2455
+  },
+  {
+   "fact": "他从没这样爱过——被完整地爱、无恐惧地爱。",
+   "anchor": "like being loved completely, and being free to love without fear.",
+   "start": 3163,
+   "end": 3228
+  },
+  {
+   "fact": "她一生的等待=流水线金发妞的旋转门停下、他选她。",
+   "anchor": "Hoping that at some point, the revolving door of cookie-cutter blondes would stop spinning and he’d choose me instead.",
+   "start": 3314,
+   "end": 3432
+  },
+  {
+   "fact": "高潮后他把她拉进怀抱——安全、温暖、被爱、到家。",
+   "anchor": "Safe. Warm. Loved. Home.",
+   "start": 3569,
+   "end": 3593
+  }
+ ],
+ "relations": [
+  "loft 的每个房间都被赋予新记忆（对照 Declan 旧记忆的雷区）",
+  "两人互说 I love you 成为常态"
+ ],
+ "numbers": [
+  "hardly an hour 一次告白",
+  "whole life wanting him",
+  "雨天持续一夜大半日"
+ ],
+ "verified": "9/9 anchors found in text（offsets 由 find() 现算）",
+ "source": "主会话 R1（露骨章子代理被内容安全拦截，锚点选非露骨句）"
+}
