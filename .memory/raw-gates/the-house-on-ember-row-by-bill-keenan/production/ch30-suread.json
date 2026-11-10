@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch30",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch30_chapter_thirty.txt",
+ "facts": [
+  {
+   "fact": "出庭：多年旁听庭审的记者这次成了报道本身——案件名 The People of the State of New York v. Quinn Whitaker。",
+   "anchor": "I was the story.",
+   "start": 783,
+   "end": 799
+  },
+  {
+   "fact": "检方：助理检察官 Rachel Dwyer——高颧骨、斩截的吐字；强烈反对保释：罪名严重、Willis 家受够了，审前放人等于二次羞辱。",
+   "anchor": "ADA Rachel Dwyer",
+   "start": 2723,
+   "end": 2739
+  },
+  {
+   "fact": "检方论点：Quinn 除妹妹外无直系亲属、无永久约束——逃逸风险可观，请求拒保、关押到庭审。",
+   "anchor": "a flight risk",
+   "start": 3489,
+   "end": 3502
+  },
+  {
+   "fact": "辩方：Eloise 的老友、干了半辈子硬仗的律师——被告不是罪犯而是记者，事业是追真相不是逃离真相。",
+   "anchor": "Charles Everett",
+   "start": 3983,
+   "end": 3998
+  },
+  {
+   "fact": "情感牌：妹妹怀着双胞胎——孩子们已经失去父亲，拒保等于夺走他们唯一的至亲。",
+   "anchor": "expecting twins",
+   "start": 5084,
+   "end": 5099
+  },
+  {
+   "fact": "裁决：保释金 25 万——交保即释放，交护照、居家监禁戴电子监控，违者立即收押。",
+   "anchor": "two hundred fifty thousand dollars",
+   "start": 6077,
+   "end": 6111
+  },
+  {
+   "fact": "章末惊觉：这笔钱他一辈子没见过、也凑不出——除非……手心出汗——除非它已经被塞进他手里（Ellison 墓前的支票）。",
+   "anchor": "More money than I could ever come up with.",
+   "start": 6709,
+   "end": 6751
+  }
+ ]
+}
