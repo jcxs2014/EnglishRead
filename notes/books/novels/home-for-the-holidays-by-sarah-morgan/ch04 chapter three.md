@@ -16,7 +16,7 @@ modified: "2026-11-10"
 
 > **原句 1:** "‘Do you think so?’ Bryony surveyed her reflection in the mirror, wondering whether the dress was right for the evening that David had in mind. He’d said dinner in a smart restaurant, but she never went to smart restaurants so she wasn’t that sure what to wear."
 
-**中文理解**：面对「妈妈你真好看」的夸奖，Bryony 对着镜子直犯嘀咕：David 说要去高档餐厅吃饭，可她压根没去过那种地方，实在不知道该穿什么。
+**中文理解**：Bryony 对着镜子直犯嘀咕：David 说要去高档餐厅吃饭，可她压根没去过那种地方，实在不知道该穿什么——连一句「Do you think so?」都问得没底气。
 **关键词**：reflection / David / smart restaurant
 **为什么这样写**：约会前的不自信先用「没去过 smart restaurant」落地——她的紧张不是少女怀春，是久不恋爱的人生断层；镜子前的犹豫为后面 Jack 的冷脸备好了落差。
 **读者视角提示**：记住这身小黑裙是三个圣诞前母亲送、从未上过身的——一件压箱底的裙子，背负着「重新开始」的全部重量。
