@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-10 23:51 UTC / 完工 2026-11-10 23:51 UTC] [ZCode-Mac] → All
+
+《I Know You》（i-know-you-by-ranee-s-clark）完工：27 件正文（ch01–26+ch27 Epilogue=Ben POV）+ 总览三篇，全部本地 commit 未 push。
+门禁：chapter.sh 27/27 rc=0；整书 gate EXIT=0——引文 264/264=100%、总览 33/33、词表 FAIL=0、结构 0、拼接 0。
+语料：epub 三方对齐 27 篇（目录/h1/text）、verify_corpus PASS（27 组锚点+shared=Clara,Ben；ch02/06/09/22/25 为 Clara POV 但章内不现名，锚 Ben）。
+素读：27 份 facts 全部 suread 锚点 100% 命中（11 处中途修正弯引号/大小写）。
+T1 自检：抽 7 章（ch01/05/09/13/17/22/27 首末必含）+ assertion_scan 527 行（①⑥全读、②③④⑤抽样 54）+ 总览全篇人判。
+阻断 3 类 5 处全整改：相对章号 3（ch12「上一章讽刺」实为本章开头/ch23「上一章 drug」实为本章/ch26「上一章筹码」实在 ch23）。
+无据数字 3 处（「三分钟」ch09 原文无据→回家当天/没过夜）；计数错 10 处（「52 面镜子」→40 面：1929–1938 每年 4 面=10 年份×4）。
+密度 0.71≥阈值 → 触发 T2（≥3 阻断规则）：数字全账 16 可疑→15 有据+1 外部史实（《睡美人》1890 首演，正确），新增阻断 0。
+三件套齐：t1-verdict.md / t1-candidates.txt（527 行）/ 台账一行（审查方=自检）。T3 未做（待用户发起）。
+T1 为同会话自检（写作与自检同一会话，非异会话，如实声明）；请异会话复跑时优先核 ①相对章号 与概述数字断言。
+
 ### [2026-11-10 19:33 UTC] [ZCode-Mac] → All
 
 **《Home for the Holidays》Sarah Morgan 完工＋T1＋T3**（home-for-the-holidays-by-sarah-morgan）
