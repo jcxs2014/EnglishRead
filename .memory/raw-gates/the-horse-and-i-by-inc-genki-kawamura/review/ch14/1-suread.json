@@ -1,0 +1,118 @@
+{
+  "chapter": "ch14",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch14_fourteen.txt",
+  "source_len_chars": 11110,
+  "source_note": "纯素读，仅读 text/ch14_fourteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "昨夜同宿的男人（本章原文未具名，仅作 he）→ 叙述者 Yuko",
+      "did": "清晨 Yuko 被公寓门关上的声音惊醒；薄墙外护靴（protective boots）下楼的哐当声远去后，厨房水龙头的滴水声像来接替——听来如马蹄声；她和着声音哼唱、想起 Strada，旋律却像烛火摇曳熄灭般想不起来；她从被褥伸手摸出手机解锁，屏幕上是几名男子对痴汉市民制伏并吼叫、YouTuber 被迫为不甚明了的罪生硬道歉、AI 播报员用几乎乱真人声诈骗观众的视频；在词海里刷屏时收到他的短信：「Thanks for tonight.」「I’ll see you again soon.」——语气像情人、熟稔过头，向她示意昨夜之事并非梦；随后手机又 ping 来一句他主动说的话：「I want to help you, Yuko.」；黑暗里读着短信，昨夜记忆回涌：他呼吸里的烟味、指尖的粗粝皮肤、他冲撞她仿佛永无止境之后的痛、他高潮时脸上可怜的表情",
+      "range": [
+        29,
+        1557
+      ],
+      "quote_head": "I woke up to the sound of my",
+      "quote_anchor": "“Thanks for tonight.” It sounded like something a lover would say."
+    },
+    {
+      "n": 2,
+      "who": "Yuko",
+      "did": "为把那些话甩掉，Yuko 打开搜索引擎输入「embezzlement」（挪用公款），结果之多令她吃惊：一名市政厅职员挪用公共救助金（public assistance funds）、一名市议员窃取邻里社区协会会费（neighborhood community association dues）、一名人寿保险女业务员伪造合同、一名教师侵吞向学生收来的修学旅行费——手法五花八门；但这些人对赃款的用法大同小异：赌博、酒、女人；她找不到一个把挪用的钱花在动物身上的人",
+      "range": [
+        1560,
+        2253
+      ],
+      "quote_head": "As if to shake them off, I went",
+      "quote_anchor": "There was a man working at a municipal office who’d misappropriated public assistance funds"
+    },
+    {
+      "n": 3,
+      "who": "Yuko",
+      "did": "Yuko 想到：如果被抓、媒体报道她「为了一匹马从工作单位偷钱」，她大概一辈子都会是笑柄（laughingstock）；她继续点着手机屏幕，找到一个挪用金额与自己相近的人——被判五年有期徒刑（five years in prison）；她自问：Strada 会等她那么久吗？",
+      "range": [
+        2254,
+        2614
+      ],
+      "quote_head": "If I were to be caught and the",
+      "quote_anchor": "They’d been sentenced to five years in prison. Would Strada wait for me for that long?"
+    },
+    {
+      "n": 4,
+      "who": "Yuko",
+      "did": "Yuko 仍裸着身子下榻，打开壁橱滑门，从最里面取出藏着的橙色盒（orange box）；轻轻掀盖，拿出与 Strada 马鞍同皮料做的黑色提包放在榻榻米上——每当焦虑她就拿出来摸，皮革的气味与触感总让她觉得和 Strada 在一起；但今天越摸越孤独；她心里说「I’m sorry.」「I want to see you.」，瞥一眼凌乱被褥涌起压倒性的悔意，抓起地上内衣丢进洗衣机、取出换洗衣物",
+      "range": [
+        2617,
+        3351
+      ],
+      "quote_head": "Still naked, I got out of my futon",
+      "quote_anchor": "I took out the orange box that I’d hidden in the back."
+    },
+    {
+      "n": 5,
+      "who": "Yuko",
+      "did": "Yuko 赶到 Mugikura 骑术俱乐部时已下毛毛雨；正值深夜、俱乐部户外灯已关，只能看清五米（five meters）之内，她开着摩托前灯步行，单束光里烟雨如飞虫群；她侧目扫过被雨淋黑的会馆，朝屋顶歪斜、仿佛在召唤她的马厩走去；旧厩旁新马厩正在兴建——地基与墙几乎完工、只差屋顶，建成后 Strada 的生活条件将大为改善（要赢，就必须让他在非赛时过得舒适）；旧厩里没有别人、动物气味比平时更重，马几乎不睡，四周满是吃草、呼吸、踏蹄声；她摸黑走到后头 Strada 该在的隔栏——空栏；她血色尽失拔腿奔跑，黑暗中被绊倒摔跤、尿粪味刺鼻；她爬出干草遍地的马厩朝练马场黑暗深处张望寻找 Strada：乌云遮月、摩托前灯照不到她、鞋陷雨后泥泞、几米（a few meters）外都看不见，吓得不敢回头",
+      "range": [
+        3357,
+        5247
+      ],
+      "quote_head": "By the time I reached Mugikura Riding Club,",
+      "quote_anchor": "I felt the blood drain from my face and started running."
+    },
+    {
+      "n": 6,
+      "who": "Strada → Yuko（马在黑暗中来接迷路的主人）",
+      "did": "黑暗远处传来一声低鸣（low neigh）——那是她熟记于心的贵气声音；Strada 咴咴（whinny）像在回应她；她凝目辨认，红黑色的马之剪影从全黑中渐渐显出——她迷了路，是他来接她；剪影走近令她怀旧，像多年前看过的缓慢皮影戏；她抱住他，黑暗仿佛在他们周围融化；他咴鸣似说「I’m so happy you came to see me」，颈中的血流温暖她冰冷的身体，奶香般的甜味包裹着她，她渐觉安宁；他突然哼鼻迈步，她握缰让他引自己走入黑暗；数米（several meters）缰绳连着他们——一松手就再也无法在一起",
+      "range": [
+        5250,
+        6274
+      ],
+      "quote_head": "I heard a low neigh from the darkness",
+      "quote_anchor": "I had become lost, and he had come to get me."
+    },
+    {
+      "n": 7,
+      "who": "Strada 引路；Mugikura → Yuko（黑暗颜色课）",
+      "did": "Strada 再次哼鼻、用口鼻指向黑暗彼方；她顺他目光望去，漆黑大地上渐渐辨出如墨画（ink brush painting）般的种种灰调——远处吃草的红黑马影、其后静静摇曳的绿黑树影；有 Strada 在身旁，原本可怕的黑暗化作宁静美丽的世界；黑暗里响起沙哑嗓音：「这是马看到的世界。」「黑暗中也有颜色。」Mugikura 拄杖现身，讲：人与马因体内血流而显红，森林是另一种绿暗；黑暗不是虚无，身处黑暗能听见闻到光亮时从未留意的所有声音与气味；她低头为深夜突访致歉——两人近在咫尺也看不清彼此的脸；他说「我想他知道你要来」，Strada 咴咴像在答「正是」；她眼睛看不见，却听得出 Mugikura 正抚摸马身",
+      "range": [
+        6277,
+        7587
+      ],
+      "quote_head": "Strada grunted once again and pointed beyond the",
+      "quote_anchor": "“This is the world that horses see,” said a raspy voice from the darkness as the red-black silhouette of a person approached me."
+    },
+    {
+      "n": 8,
+      "who": "Mugikura → Strada（深夜放它出栏）；Strada ↔ Yuko（相偎看天色）",
+      "did": "Mugikura 说：他半夜躁动（acting up）、一反常态，所以放他出来四处走走；Yuko 心想「So Strada does understand my feelings.」——原来 Strada 懂她的心情，她感觉再次被原谅，靠上他温热的身体；雨停了，两人身体相偎，看天色由深藏青转紫",
+      "range": [
+        7590,
+        7918
+      ],
+      "quote_head": "“He was acting up in the middle of",
+      "quote_anchor": "“He was acting up in the middle of the night, which was unlike him, so I let him out to walk around,” he said."
+    },
+    {
+      "n": 9,
+      "who": "Mugikura → Yuko（讲御白様/Oshirasama 传说）",
+      "did": "Mugikura 咯咯笑说「你就像御白様（Oshirasama）」，凭记忆背诵一则寓言：很久以前有个穷农夫，妻子亡故，有个美貌女儿，还有一匹女儿爱胜过一切的马；夜里女儿到马厩与马同眠，最终两人结为夫妻；农夫得知女儿嫁了马，把马吊死在桑树（mulberry tree）上；女儿闻讯悲恸欲绝，走到桑树下抱住死马的脖颈；Mugikura 中途停下打量她的反应、察觉她想听才继续讲；农夫看到女儿抱着死马，勃然发狂，斩下马头（horse’s head）；马头向上漂浮，女儿仍不肯松手，随马头一同升入天空，两者化为神「御白様」（Oshirasama）；她明知是老故事仍心碎，为确认他还在而把 Strada 拉向自己，他用口鼻抵住她的头，咴鸣似说「Let’s stay together forever.」——她通过这匹马确认自己的情绪，他总是告诉她她的感受；与人类相处时她从未如此确定：若 Strada 死了，她还能信什么？Mugikura 讲完说不知这结局算喜算悲，边说边抚摸 Strada 的额头",
+      "range": [
+        7921,
+        9594
+      ],
+      "quote_head": "“You’re like Oshirasama.” Mugikura cackled. When I looked",
+      "quote_anchor": "When the farmer found out that his daughter had married the horse, he killed the animal by hanging it from a mulberry tree."
+    },
+    {
+      "n": 10,
+      "who": "Strada（黎明之舞）；Mugikura → Yuko（「有些事无法言语化」）",
+      "did": "Mugikura 说：只是人类才用幸福与悲伤思考，对动物来说人类情感过于戏剧化——尤其从马的角度：狗猫被夺走食物会不高兴，马不会；地平线上带状云裂开、阳光洒下，Strada 碎步跑起来朝放射强光的太阳越跑越快，跑到金褐色田野中央时抬起前腿大声咴鸣；Mugikura 笑说「那家伙现在看起来可开心了」，Strada 一圈圈打转仿佛跳舞，被雨打湿的草与它亮泽的身体在金色光里闪烁；Yuko 屏息——满溢而出的情感该如何表达？Mugikura 像读心似的说「你不必说什么——有些事就是无法言语化（Some things just can’t be verbalized.）」；她望着 Strada 在田野上疾驰，黑色被毛映着渐渐转白的金色阳光",
+      "range": [
+        9597,
+        11109
+      ],
+      "quote_head": "“I don’t know if you’d call that ending",
+      "quote_anchor": "“You don’t have to say anything,” said Mugikura, as if he’d read my mind, while the two of us stood there watching Strada."
+    }
+  ]
+}

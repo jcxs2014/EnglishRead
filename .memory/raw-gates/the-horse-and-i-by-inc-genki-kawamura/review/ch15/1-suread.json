@@ -1,0 +1,118 @@
+{
+  "chapter": "ch15",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch15_fifteen.txt",
+  "source_len_chars": 10291,
+  "source_note": "纯素读，仅读 text/ch15_fifteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Mugikura、Shintani（对马主 Yuko）",
+      "did": "冬云深处闪出闪电，Shintani 问「那是闪电吧」；Mugikura 以 Strada 一直摇头为由提议今天弃权（另一匹报名马刚在热身场失控退赛）；Shintani 高声反驳「现在退就全白费」、向马主 Yuko 拉票，周围骑手冷眼旁观。",
+      "range": [
+        410,
+        1484
+      ],
+      "quote_head": "Shintani, who had been getting Strada ready in",
+      "quote_anchor": "We should throw in the towel for today . . . He’s been shaking his head this whole time"
+    },
+    {
+      "n": 2,
+      "who": "Yuko（对 Shintani／Strada）",
+      "did": "为让 Strada 赢下全国大赛，Yuko 建了障碍赛场、翻新了 Mugikura Riding Club 的马厩，把 Shintani 的工资涨到原来的两倍，并把 Strada 的训练加到每周五天；Strada 身心趋稳、跳跃日日进步。",
+      "range": [
+        1487,
+        2049
+      ],
+      "quote_head": "I’d spent quite a bit of money so",
+      "quote_anchor": "I’d started paying Shintani twice what I used to pay him, and increased Strada’s training to five days a week."
+    },
+    {
+      "n": 3,
+      "who": "Mugikura、Shintani、Strada、Yuko",
+      "did": "Mugikura 警告「他真的很烦躁」「决心与恐惧一线之隔，这时不该冒险」，并把最终决定权交给 Yuko；马背上的 Shintani 应和「我会让它不负此行」；Yuko 手贴 Strada 鼻梁、从指尖感到热血搏动，读到马的意愿（I want to win／Believe in me），决定让它出赛。",
+      "range": [
+        2052,
+        3069
+      ],
+      "quote_head": "“He’s really agitated.” Apparently detecting what I was",
+      "quote_anchor": "I want to win. I could feel Strada’s strong will through my fingertips."
+    },
+    {
+      "n": 4,
+      "who": "Miu、Yuko；Ushio→Yuko",
+      "did": "（回忆昨天）Miu 突然出现在工会办公室，从书架抽出旧档案、翻遍 Yuko 十年整理的全部文件，问「这都是你做的吗，Yuko？」；Yuko 点头并自白：可能算作证据的东西早已全部处理掉；随后 Miu 迷上巨大保险箱、乱转密码盘要开柜，Ushio 凑近 Yuko 低声说「真该换掉密码」，并若无其事地把右手搭上她的腰。",
+      "range": [
+        4097,
+        5879
+      ],
+      "quote_head": "I recalled Miu’s high-pitched voice from yesterday. Out",
+      "quote_anchor": "I’ve already disposed of anything that could possibly be considered evidence."
+    },
+    {
+      "n": 5,
+      "who": "Strada（Shintani 骑乘）",
+      "did": "大雨如泼墨；Strada 蹄陷泥仍慢跑绕过四个弯角、跳过第一道障碍，落地溅起泥水；Yuko 在精品店花 160,000 日元买的 Shintani 白骑裤立刻染成棕色；随后惊雷如鞭炮炸响，Strada 受惊拒转下一弯停在原地，Shintani 立刻抽其侧腹，马的悲鸣与雷声共振响彻全场。",
+      "range": [
+        5991,
+        6865
+      ],
+      "quote_head": "At the same moment, Strada, with Shintani hovering",
+      "quote_anchor": "Shintani’s white riding pants, which I had paid 160,000 yen for at the luxury boutique, were immediately dyed brown."
+    },
+    {
+      "n": 6,
+      "who": "Ushio→Yuko（耳边低语）",
+      "did": "（前夜，Miu 走后）Ushio 走近 Yuko、倾身对耳低语三句：①本来反对，但高层要把她换给 Unosawa，不过已安排她留任工会会计一阵子、Unosawa 很快会放弃被撤；②公司要他启动调查，但他已担保「没什么可查」、让她别担心；③「今晚我也许过来一趟聊聊」。期间他把沾油污的手搭上她的肩，笑起来像捕食者盯着猎物。",
+      "range": [
+        7094,
+        8102
+      ],
+      "quote_head": "“I was against it, but the higher-ups said",
+      "quote_anchor": "The company told me to launch an investigation, but I assured them there was nothing to investigate, so don’t worry about a thing."
+    },
+    {
+      "n": 7,
+      "who": "Strada→Shintani（甩下马背）",
+      "did": "炫目闪电后一声震耳惊雷炸响；Strada 发出尖叫般的嘶鸣，扬起前腿把 Shintani 甩下马背、头朝下摔向地面；马身翻腾甩出水珠，Shintani 仰面躺在泥里一动不动。",
+      "range": [
+        8105,
+        8606
+      ],
+      "quote_head": "Just at that moment, there was a blindingly",
+      "quote_anchor": "Strada raised his forelegs and shook Shintani off his back, sending him flying headfirst toward the ground."
+    },
+    {
+      "n": 8,
+      "who": "Strada；Yuko（呼喊）",
+      "did": "背上没人的 Strada 猛冲进障碍；500 公斤（five-hundred-kilogram）马身撞落三根硬管（three hard tubes），Strada 的腿被硬管缠住、摔进沼泽般的赛场；一道闪电照亮泥中腿部抽搐的 Strada；Yuko 喊「Strada！」但声音被雷声吞没。",
+      "range": [
+        8607,
+        9066
+      ],
+      "quote_head": "Now, without the weight of a human on",
+      "quote_anchor": "As a result of a five-hundred-kilogram horse crashing into it, three hard tubes from the hurdle tumbled down."
+    },
+    {
+      "n": 9,
+      "who": "Yuko（挣脱 Mugikura）",
+      "did": "Yuko 挣脱想拦她的 Mugikura，抬脚翻栅栏时脚滑、下巴先着地摔进场地；吐掉泥爬起想跑向 Strada，新骑靴陷泥踝深无法前进，索性连鞋带袜一起脱掉、赤脚奔向马。",
+      "range": [
+        9069,
+        9540
+      ],
+      "quote_head": "I shook myself free of Mugikura, who was",
+      "quote_anchor": "I took off my shoes, and my socks with them, and ran to him barefoot."
+    },
+    {
+      "n": 10,
+      "who": "Strada、Yuko",
+      "did": "Strada 在泥中虚弱嘶鸣、想翻身站起却动弹不得；Yuko 小心触碰抽颤的马颈，却听不到往日如出自己身体的声音——生命正从深黑眼睛里迅速流失，雨湿的身体越来越冷、腿越来越软；尖叫、弱嘶与赶来的脚步声都像在水下般模糊，Yuko 只能抱着马身不停呼喊它的名字。",
+      "range": [
+        9543,
+        10291
+      ],
+      "quote_head": "Strada, who was writhing in the mud, whinnied",
+      "quote_anchor": "The life was quickly draining from his deep black eyes."
+    }
+  ]
+}
