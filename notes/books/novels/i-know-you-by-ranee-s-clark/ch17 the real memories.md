@@ -27,7 +27,7 @@ modified: "2026-11-10"
 
 **中文理解**：厨房里 Mrs. Mitchell 揭穿儿子的「研究之旅」，Ben 顺水推舟：「对，我研究的是 Clara。」一句调情把恋情向全家公开，Clara 臊得把脸埋进他肩膀。家庭群像里的爱情首演，掌声由全家出演。
 
-**关键词**：researching Clara / heat rushes to my face
+**关键词**：researching Clara / It was. I was researching
 
 **为什么这样写**：作者让恋情「官宣」走笑话通道——没有正式介绍，一句双关就把两人的关系嵌进家庭的日常语法。Ben 用玩笑公开感情（他的安全区），Mrs. Mitchell 用起哄接纳她（她的热情区）。
 
@@ -69,7 +69,7 @@ modified: "2026-11-10"
 
 **中文理解**：法国旅行书的房间照片让 Clara 恍惚闪过一帧画面：在这张床上，在丈夫身边醒来——「Quint」。名字只存在了一瞬就被她按灭。那个「丈夫」是谁，她的第一反应已经说明了一切。
 
-**关键词**：next to my husband / Quint / gone before it can fully form
+**关键词**：next to my husband / Quint / snap the book shut
 
 **为什么这样写**：作者用一个未完成的幻象做全章最刺的一针——「丈夫」这个词先出现，名字后到，记忆的顺序比她的意志诚实。闪念被掐灭的动作（snap the book shut）是她「主动遗忘」政策的现场执行。
 
@@ -79,7 +79,7 @@ modified: "2026-11-10"
 
 **中文理解**：盯着手机壁纸上与 Ben 的合影三十秒——照片里的她笑得像恋爱中的人——Clara 对自己念出定案词：那是我真实的生活，那些才是我真实的记忆。两声「real」是宣言，也是祷告。
 
-**关键词**：real life / real memories / resolutely
+**关键词**：real life / real memories / going back to checking in books
 
 **为什么这样写**：作者让「真实」需要靠 repetition 来确认——真正的真不需要重复两遍；她要说服的对象是那帧没来得及成形的幻象。手机壁纸的功能与 1901 的镜子镜像：都是她用来定位「此刻属于哪边」的界面。
 

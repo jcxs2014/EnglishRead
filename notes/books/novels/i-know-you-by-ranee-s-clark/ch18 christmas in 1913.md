@@ -44,10 +44,12 @@ modified: "2026-11-10"
 **读者视角提示**：注意她列举的连锁清单里「There would be no Quentin Allen」她没说出口——Quint 的存在也悬在她的沉默上；这份对暗恋对象的「成全式牺牲」是全书感情线最深的一笔。
 
 > **原句 4:** "Mrs. Granville!"
+>
+> "We must go," Ben says under his breath to me.
 
 **中文理解**：谈话正酣，一声「Mrs. Granville!」穿透人海——Isabelle Allen 认出了那顶帽子，拖着儿子挤过来。Ben 急令母亲「别介绍我们」：Allen 一家知道 Mitchell 和 Granville 这两个姓，在 1913 认出他们等于给时间线埋雷。
 
-**关键词**：Mrs. Granville! / pure chance / Do not introduce us
+**关键词**：Mrs. Granville! / We must go / under his breath
 
 **为什么这样写**：作者让最怕的相遇以「帽子」触发——识别装置第三次发动，这次救不了他们反而暴露他们。一声呼喊同时终结了重聚（母亲的谈话）与安全（两人的匿名），短句独立成段就是警报本身。
 
@@ -67,17 +69,19 @@ modified: "2026-11-10"
 
 **中文理解**：回到现代，Clara 锁在客房里哭——原以为有至少一小时，可她不知道多待能不能减轻那种痛：见到母亲，然后再次被夺走。「snatched away again」里的 again 是全章的痛感计数器：失去发生了两次，第二次更重。
 
-**关键词**：expected at least an hour / lessened the ache / snatched away again
+**关键词**：expected at least an hour / lessen the ache / snatched away again
 
 **为什么这样写**：作者用「时间预算落空」写哀伤——两小时承诺被 Isabelle 截断成十几分钟，而痛感不与时长成正比（她自己也承认一年也不够）。reunion 的设计本身就是残忍的：给你尝一口，再没收。
 
 **读者视角提示**：这一拍回收 ch15 的失眠预告——「再也无法安心入睡」的预言在此兑现；Ben 的 handkerchief 与「Once a gentleman」的玩笑是他在她自己语言里给她的安抚。
 
-> **原句 7:** "What has happened…?" she whispers. I can imagine the questions racing through her mind.
+> **原句 7:** “I will when you’re twenty-one. I haven’t yet?” She squints at me, as though she can determine my age by studying me.
+>
+> “What has happened…?” she whispers. I can imagine the questions racing through her mind.
 
 **中文理解**：Clara 说出「我出生在过去」时，母亲的低语泄露了裂缝：她的记忆里女儿应该知道一切——计划明明是 21 岁告知。可 Clara 的时间线上这件事从未发生。母女俩各自握着一套「应该发生」的历史，而它们对不上。
 
-**关键词**：What has happened…? / racing through her mind / I will when you're twenty-one
+**关键词**：I will when you’re twenty-one / determine my age / What has happened
 
 **为什么这样写**：作者让「时间线分叉」第一次以人话显形——不是仪器报警，是母亲的困惑。她记忆中的告知（21 岁）与 Clara 的无知形成矛盾，暗示未来还有一场「没有被记住的谈话」或一次记忆干预。
 

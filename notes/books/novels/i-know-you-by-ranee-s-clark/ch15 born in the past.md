@@ -17,7 +17,7 @@ modified: "2026-11-10"
 
 **中文理解**：Clara 的最后记忆闪回：Ben 与 Quint 一人一边扶着她的手按上镜面，Quint 的嘴唇埋在她发间低声安慰——门开了，他把她抱起来，单脚跨入镜中把她递到 Ben 怀里。她最后的请求是「Don't go」，而他最后的话是「Come back to me, love」。
 
-**关键词**：holding my hands to the surface / lips in my hair / handed me through to Ben
+**关键词**：holding my hands to the surface / lips in my hair / hefted me into his arms
 
 **为什么这样写**：作者把逃生写成三人协作的接力——两个男人的手共同托住她的生死，而 Quint 负责「最后一刻的温度」。这段闪回同时是 ch14 枪声的答案（谁救了她、怎么救的），信息回收与抒情在同一句里完成。
 

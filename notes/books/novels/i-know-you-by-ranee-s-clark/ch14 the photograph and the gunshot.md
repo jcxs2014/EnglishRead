@@ -97,7 +97,7 @@ modified: "2026-11-10"
 
 **中文理解**：被排除在行动外的 Clara 自己开工：Quint 敲铃叫管家，把本地报纸全数买来——两人铺满一桌逐篇翻找 Gibbons 可能下手的「世界大事」。这是她第一次用自己的方法参与任务，而且产出了 Ben 晚上带回的「something」。
 
-**关键词**：rings the bell / all the local newspapers / find it
+**关键词**：rings the bell / all the local newspapers / requests copies
 
 **为什么这样写**：作者让「被禁足的人」发明自己的战场——报纸排查不需要进任何酒店，只需要想象力：Gibbons 要做「小而难察觉的改动」，新闻就是他的脚印清单。Clara 的历史直觉第一次转化为侦查产出。
 

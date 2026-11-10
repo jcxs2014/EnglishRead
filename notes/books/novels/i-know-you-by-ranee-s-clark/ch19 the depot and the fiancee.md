@@ -37,7 +37,7 @@ modified: "2026-11-10"
 
 **中文理解**：Burke 的低音报出年份：1938——二战前夜。所有人心里同时响起警报：Gibbons 选这个时间点，要干的绝不是小事。三个知情人对视的沉默里，历史书页哗哗翻动。
 
-**关键词**：1938 / rings in all of our heads / right before World War II
+**关键词**：1938 / rings in all of our heads / reverberating
 
 **为什么这样写**：作者用「共知的历史」制造悬念——1938 不需要解释，读者自带知识储备（次年战争爆发），惊悚感直接借调自真实历史。「rings in all of our heads」把四个当代人串成一台报警器。
 
@@ -67,7 +67,7 @@ modified: "2026-11-10"
 
 **中文理解**：楼梯上的十年版 Quint：高了几英寸、肩宽了一圈、下颌方正、留着刚冒头的胡茬，黑 dinner jacket 配领结——十年把他从「几乎还是男孩」锻造成了男人。可眼睛还是蜜棕色，头发还是金色，记忆里他的怀抱新鲜得像刚松开。
 
-**关键词**：a few inches / dusting of a beard / crisp white shirt
+**关键词**：a few inches / much broader / crisp white shirt
 
 **为什么这样写**：作者用「外貌清单」量化十年——每一项变化都是时间的刻度，而清单的最后一行（眼睛/头发/怀抱的记忆）原封不动；变与不变的对仗就是这一拍的全部张力：他长成了她不在场的十年。
 
@@ -77,7 +77,7 @@ modified: "2026-11-10"
 
 **中文理解**：Quint 介绍最后一位客人——「我的……」——Clara 与他同时说出「未婚妻」。她读过那份打印页（Catherine Pratt, 1939），但「读过的日期」与「在场的真人」是两种疼痛。满屋的目光转向她的脸红。
 
-**关键词**：Fiancée / the same time / my blush heightens
+**关键词**：Fiancée / whisper the same time / finishes his sentence
 
 **为什么这样写**：作者让「同时说出」成为本拍的核心机关——她脱口而出的不是礼貌而是资料（她背过那个日期），这暴露了她对他的持续关注；Quint 的同时说出则暗示他心里那句话根本不是介绍词，是刺。
 
@@ -97,7 +97,7 @@ modified: "2026-11-10"
 
 **中文理解**：Mrs. Barrow 的一句闲谈勾出 Quint 在 1928 说过的话——「我一直知道你有主见」。这句话连同他当时的脸（熟悉、爱慕）一起砸回 Clara 心里。她低头看床单来藏住情绪。
 
-**关键词**：always known / your own mind / hide my emotions
+**关键词**：always known / your own mind / I look down at the bed
 
 **为什么这样写**：作者让记忆以「引句回放」的方式闪现——同一句话在两个时空（1928 亲耳听、1938 被人转述）中重放，熟悉感不需要任何超自然解释就完成了递归。这是「记忆会淡」理论的反证：有些话越放越清晰。
 
