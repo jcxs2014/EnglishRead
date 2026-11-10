@@ -59,7 +59,7 @@ modified: "2026-11-09"
 
 > **原句 5:** "“The genes must be strong in his family. Dorian looks like his relative, that’s all.” “Don’t you think it’s a little bit weird?” Elizabeth asks. I lift a brow, handing her back her phone. “Next, you’ll be telling me he’s immortal or something.”"
 
-**中文理解**：她大笑化解：他家基因真强大——Dorian 不过长得像哪位先人罢了。Elizabeth 刚想再劝，她先开了玩笑：接下来你是不是要说他永生不死了？
+**中文理解**：她摇头笑说：他家基因真强大——Dorian 不过长得像哪位先人罢了。Elizabeth 刚想再劝，她先开了玩笑：接下来你是不是要说他永生不死了？
 
 **关键词**：The genes must be strong / Dorian looks like his relative / he's immortal or something
 

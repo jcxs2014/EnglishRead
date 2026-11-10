@@ -26,7 +26,7 @@ modified: "2026-11-09"
 
 > **原句 2:** "Compared to Logan and me, Viktor is practically unflappable. So much so that he keeps his cravings under the same tight control and, unlike us, he never drinks blood straight from the source. Instead, he relies on the chilled reserves stored in the cellar of Avant Garde, and before that, he only drank blood from animals."
 
-**中文理解**：比起 Logan 和我，Viktor 几乎不为所动——渴望同样被 tightly 控制，却从不从活体直接进食：他只喝 Avant Garde 地窖的冷藏库存，更早以前只喝动物血。
+**中文理解**：比起 Logan 和我，Viktor 几乎不为所动——渴望同样被严格控制，却从不从活体直接进食：他只喝 Avant Garde 地窖的冷藏库存，更早以前只喝动物血。
 
 **关键词**：practically unflappable / never drinks blood straight from the source / blood from animals
 
@@ -87,7 +87,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：一句抗议连打两人，把「命令」这个权力动作钉在被告席上：从 Dorian 的 Stay 到 Sybil 的 Sit down，本书的命令史在这一刻被集中受审。Elizabeth 用最市井的语法完成最有效的抵抗——她不辩论，只拒绝。
 
-**读者视角提示**：记住 Elizabeth 的抗命句式——她是全书唯一对每个命令者都说「不」的人：Aegis 体质配上了对等的心气。
+**读者视角提示**：记住 Elizabeth 的抗命句式——她是少数敢对每个命令者都说「不」的人：Aegis 体质配上了对等的心气。
 
 
 > **原句 8:** "“Christ, Henrietta. How much did you have to drink? Did you not see how she was looking at us? It was weird,” Elizabeth replies. “It was,” Edie agrees. “Let’s just go.”"
@@ -98,7 +98,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：中招者与免疫者对同一场景给出两份证词：Henrietta 只看见「迷人」，姐妹看见「掠食」——作者用证词分裂演示魅惑的工作原理：它先改写你的审美，再没收你的警觉。Let's just go 是 Edie 条款精神的延续：随时可撤。
 
-**读者视角提示**：记住 Henrietta 的「目眩」状态——她不是软弱，是被打了个措手不及；这场失守让下一章 Logan 的自责有了着落。
+**读者视角提示**：记住 Henrietta 的「目眩」状态——她不是软弱，是被打了个措手不及；这场失守为 Logan 后来的保护欲埋下理由。
 
 
 > **原句 9:** "Ordinarily, I admire powerful women who protect the people they care about, but Sybil feels different. More viper than mama bear."

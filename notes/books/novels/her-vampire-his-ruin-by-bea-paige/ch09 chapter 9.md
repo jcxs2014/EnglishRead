@@ -37,7 +37,7 @@ modified: "2026-11-09"
 
 > **原句 3:** "“Answer the damn question, Edie. Did you seriously have some man over whilst looking after my daughter?” Elizabeth hiss-shouts at me. “I did not invite anyone over,” I protest, rubbing my temple. I’ve got a pounding headache."
 
-**中文理解**：Elizabeth 拍桌质问：你是不是背着我的女儿带男人过夜？她申辩自己没有邀请任何人——太阳穴突突地疼。
+**中文理解**：Elizabeth 咬牙质问：你是不是背着我的女儿带男人过夜？她申辩自己没有邀请任何人——太阳穴突突地疼。
 
 **关键词**：Answer the damn question / some man over whilst looking after my daughter / a pounding headache
 

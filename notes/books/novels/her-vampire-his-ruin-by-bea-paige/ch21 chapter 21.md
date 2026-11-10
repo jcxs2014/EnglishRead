@@ -13,7 +13,7 @@ modified: "2026-11-09"
 - **叙事手法**：门内门外的对话戏；刀与血作信任的度量衡；「请」字的跨章回环。
 
 ## 精读
-> **原句 1:** "“It’s no excuse, but I had urgent matters to deal with⁠—” “Discarding bodies, you mean?”"
+> **原句 1:** "“Talk? Isn’t this you just doing damage control? Were you ever going to tell me what you did?” “It’s no excuse, but I had urgent matters to deal with⁠—” “Discarding bodies, you mean?”"
 
 **中文理解**：雨夜敲门，她隔着门问他来干什么：「谈？这不就是危机公关？」又问那些尸体的事。他说不是——是被 Sybil 的事缠住了。
 
@@ -26,13 +26,13 @@ modified: "2026-11-09"
 
 > **原句 2:** "“Actually, no. I was caught up with Sybil.” “Of course you were.” “Not like that. Sybil was out of line that night at the club, so I made absolutely certain she understood I won’t tolerate that kind of behaviour.” “And that took weeks, did it?”"
 
-**中文理解**：他解释了数周的去向：那晚 Sybil 越界，他让她彻底明白那种行为不可容忍；她最后让步不是情愿，是别无选择。
+**中文理解**：他解释了数周的去向：那晚 Sybil 越界，他让她彻底明白那种行为不可容忍。
 
 **关键词**：caught up with Sybil / that took weeks
 
 **为什么这样写**：作者把「为什么消失三周」这个渣男标准问题答成了权力汇报：不是另有女人，是去管教另一个女人。这既是自我辩解，也是自曝——他的时间花在驯服她身边的人上。
 
-**读者视角提示**：记住 Sybil「别无选择」四个字——本段把她的屈从写成事实，也为她之后的爆发积蓄理由。
+**读者视角提示**：记住被「管教」的对象是 Sybil——他的时间花在驯服她身边的人上，这也为她之后的爆发积蓄理由。
 
 
 > **原句 3:** "“There’s always your bedroom window.” “You wouldn’t dare.” “Try me.”"
@@ -131,7 +131,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：收章把整章的「追与逃」压成一个动词：run。作者让他用掠夺者的口气说情话——刚建立的对等谈判被本能一口吞掉，读者同时感到刺激与危险。
 
-**读者视角提示**：记住这个「跑」——第十八章他喊过「趁我还没追上去」，本章他把那句话兑现成了一个游戏的开场。
+**读者视角提示**：记住这个「跑」——第十五章他喊过「趁我还没追上去」，本章他把那句话兑现成了一个游戏的开场。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

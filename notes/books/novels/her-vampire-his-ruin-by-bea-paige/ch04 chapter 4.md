@@ -81,7 +81,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：辩解的措辞比能力本身更可怕：persuade 这个词把强制力说成话术，把中招者说成易感人群——他连坦白都在做语言包装。一句话把责任从施术者挪到「体质」，这是掠夺者最擅长的语法。
 
-**读者视角提示**：记住他对这项能力的三种称呼：compulsion、glamour、persuasion——词越说越轻，事越来越重，这是他的语言伪装术。
+**读者视角提示**：记住这项能力的三种叫法（本章他只说 persuasion，后文才出现 compulsion、glamour）——词越说越轻，事越来越重，这是他的语言伪装术。
 
 > **原句 8:** "“I thought you didn’t drink alcohol,” I say. “This isn’t alcohol,” he replies, twirling the stem of his glass so the liquid coats the inside, before slowly tracking back down to rest at the bottom."
 

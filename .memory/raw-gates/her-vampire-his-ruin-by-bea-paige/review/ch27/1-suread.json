@@ -1,0 +1,55 @@
+{
+ "book": "her-vampire-his-ruin-by-bea-paige",
+ "chapter": "ch27",
+ "text": "notes/books/novels/her-vampire-his-ruin-by-bea-paige/text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "Edie 忍着被吸血的剧痛抱紧 Dorian：他能忍，她也能——他断掉的骨头在她怀里复位、伤口愈合。",
+   "anchor": "If he can endure this suffering, then so can I.",
+   "start": 142,
+   "end": 189
+  },
+  {
+   "fact": "她昏过去后醒来：Viktor 在给她输血——Dorian 几乎把她吸干，是 Viktor 及时阻止。",
+   "anchor": "Dorian almost drained you.",
+   "start": 9647,
+   "end": 9673
+  },
+  {
+   "fact": "Dorian 已离开；他让 Viktor 转告：恢复后送她回家，并要她撤回对他的邀请。",
+   "anchor": "He asked me to tell you to rescind his invitation to your home.",
+   "start": 10773,
+   "end": 10836
+  },
+  {
+   "fact": "她听到「放她走」：本该松一口气，却有一丝失望缠住心口。",
+   "anchor": "He’s letting me go?",
+   "start": 10841,
+   "end": 10860
+  },
+  {
+   "fact": "Viktor 的设定补充：能杀死吸血鬼的只有阳光——以及斩首。",
+   "anchor": "Sunlight is the only thing that can kill us,",
+   "start": 12483,
+   "end": 12527
+  },
+  {
+   "fact": "Viktor 的推论：Dorian 能因共情转化他，说明他有人的情感；所以他对 Edie 的感情才是问题。",
+   "anchor": "his feelings for you are the issue",
+   "start": 13212,
+   "end": 13246
+  },
+  {
+   "fact": "她解释为何递血：她看不下去他受苦；对 Viktor 谎称不知道自己是什么感觉，其实她清楚自己太在乎。",
+   "anchor": "I couldn’t see him suffer.",
+   "start": 13897,
+   "end": 13923
+  },
+  {
+   "fact": "收章：她请 Viktor 转告 Dorian——她原谅他。",
+   "anchor": "That I forgive him.",
+   "start": 15003,
+   "end": 15022
+  }
+ ]
+}

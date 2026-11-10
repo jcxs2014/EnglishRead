@@ -15,7 +15,7 @@ modified: "2026-11-09"
 ## 精读
 > **原句 1:** "I’ve heard stories about this bar where a small number of guests wander through rooms that grow darker and darker until finally they’re swallowed by total darkness in a blackout room and must trust every sense but sight to find their way out."
 
-**中文理解**：他听说过这家酒吧：客人穿过一间比一间黑的房间，最终被彻底的黑暗吞进 blackout 房——只能靠视觉以外的一切感官摸出去。
+**中文理解**：他听说过这家酒吧：客人穿过一间比一间黑的房间，最终被彻底的黑暗吞进全黑房——只能靠视觉以外的一切感官摸出去。
 
 **关键词**：I've heard stories about this bar / total darkness / every sense but sight
 
@@ -101,7 +101,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照第二章「她定价、他执行」——本章升级为「她下令、他认领」。记住这个玩笑：它承认了她在权力游戏里已然持械。
 
 
-> **原句 9:** "I can’t let you do that, Dorian. I won’t let another man hurt me again. This thing between us can only ever be about sex and pleasure."
+> **原句 9:** "“That you might find your way into my heart. I can’t let you do that, Dorian. I won’t let another man hurt me again. This thing between us can only ever be about sex and pleasure. Please say you understand.”"
 
 **中文理解**：她的墙最后砌好：你不许进我的心，Dorian。我不会再让任何男人伤我第二次——我们之间只许有性与欢愉。请你说你懂。
 

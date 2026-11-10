@@ -26,7 +26,7 @@ modified: "2026-11-10"
 
 > **原句 2:** "“Not fully, no,” he replies. “Then take more. I trust you.” “You shouldn’t.”"
 
-**中文理解**：她说他还没完全好；他答「那就再喝一点。我信你。」他回：「你不该信。」
+**中文理解**：她问他是否完全好了；他答「还没有完全好」；她说「那就再喝一点。我信你」，他回：「你不该信。」
 
 **关键词**：take more / I trust you / You shouldn’t
 
@@ -87,7 +87,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：这句把「爱」定义成疼痛的来源：不是他不在乎，是在乎会触发诅咒。「I was the one that caused it」是她的罪感，也是她的证据——她终于相信自己对他有影响力。作者让最恐怖的一幕由她复述，信息因此带着目击者的重量。
 
-**读者视角提示**：记住「it hurts him」——下一章这个机制会有名字。
+**读者视角提示**：记住「it hurts him」——第二十九章这个机制会有名字（真诅咒）。
 
 
 > **原句 8:** "“And yet his empathy for my plight was what caused him to turn me. That was a human emotion,” he muses, settling his kind eyes on me once again. “So, Edie, it would appear his feelings for you are the issue. That’s unsettling, don’t you think?”"

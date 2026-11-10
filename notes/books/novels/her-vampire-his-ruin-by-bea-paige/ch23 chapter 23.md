@@ -87,7 +87,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：作者诚实地写出这两个人的知识来源：不是传承、不是典籍，是电影。「Says who?」是理性主义的问题，得到的答案却是「所有电影」——这段喜剧同时暴露了他们的全部准备有多不可靠。圣水的埋怨还顺手把「教会/信仰」放进这个世界的规则清单里，待以后验证。
 
-**读者视角提示**：记住这套从电影里抄来的规则——这本书之后会告诉你哪几条是真的。
+**读者视角提示**：记住这套从电影里抄来的规则——后文会证明它们大多不管用（木桩杀不死他；真正致命的是阳光与斩首）。
 
 
 > **原句 8:** "“But he didn’t, Henrietta. He held back that night in the car. He warned me at the club he’s dangerous, and he stopped last night before he could kill me. That has to mean something.”"
@@ -109,7 +109,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：全书重要的一次情节推进，被写成辩论里的一个急转弯：Henrietta 的脑子从「威胁」跳到「分类」，用「说得通」把此前的零碎——Logan 不肯进她家、讨厌她起的昵称——重新解释成物种规则。作者故意让这个推论出自 Henrietta 而不是证据，读者因此既要记住它，也要对它保持警惕。
 
-**读者视角提示**：这是推论，不是证据；但「不肯进屋」这条，恰好和本章的邀请规则对得上。
+**读者视角提示**：这是推论，不是证据；但「不肯进屋」这条，恰好和第十二章的邀请规则对得上。
 
 
 > **原句 10:** "“He’s not here.” “What?” She turns to face me, her expression softening. “Edie, he’s not here. Are you certain..?” Shoving past her, I step into the wardrobe, my heart sinking, not just because Henrietta clearly thinks I’ve made this all up, but because Dorian’s left and, unbelievably, I’m worried about him."

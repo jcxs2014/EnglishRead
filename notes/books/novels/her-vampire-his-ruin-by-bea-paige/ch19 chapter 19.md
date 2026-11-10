@@ -35,7 +35,7 @@ modified: "2026-11-09"
 **读者视角提示**：对照第十七章纹身的荆棘——暖意在体内生根，痛就同步结算。这个账本从本章起不再清零。
 
 
-> **原句 3:** "she’s completely unaware of her own allure that has nothing to do with how she looks and everything to do with who she is; a woman capable of bringing a man like me to heel."
+> **原句 3:** "she’s completely unaware of her own allure that has nothing to do with how she looks and everything to do with who she is; a woman capable of bringing a man like me to heel. A task no one has ever achieved before."
 
 **中文理解**：她完全不知道自己身上那种与外貌无关的魅力——那是一种能让「我这种人」俯首称臣的力量，而此前从没有人做到过。
 
@@ -109,7 +109,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：全书最冷的一次错位：他用「无能」当免罪符，对方却把这句当成判决书。作者让「幸运」二字同时完成两件事——讽刺（感受不到就不会痛）与预言（他明明已经开始痛了）。
 
-**读者视角提示**：记住这句「幸运」——它是 Yorick 式的反讽：说这话的人知道他不幸，听这话的人以为自己在炫耀。
+**读者视角提示**：记住这句「幸运」——这是十足的反讽：说这话的人知道他不幸，听这话的人以为自己在炫耀。
 
 
 > **原句 10:** "Her blood is pure starlight, and I will master her. I will keep her close and drink from her for as long as she lives.”"
@@ -123,7 +123,7 @@ modified: "2026-11-09"
 **读者视角提示**：记住她要面对的两种未来：被爱或被囚。这句话就是岔路口，而他自己还不知道走哪条。
 
 
-> **原句 11:** "“And she will hate you for it.” “Yes, and when I finally tire of her blood, I alone will decide her fate. Not you. Understood?”"
+> **原句 11:** "“If you feed off her, she will know what you are.” “She will.” “You will have to keep her prisoner.” “I know that too.” “And she will hate you for it.” “Yes, and when I finally tire of her blood, I alone will decide her fate. Not you. Understood?”"
 
 **中文理解**：Sybil 三连问：她会知道你的真身、你得囚禁她、她会因此恨你。他答：等我厌倦她的血，她的命运由我一人决定——不是你。
 

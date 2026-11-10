@@ -35,7 +35,7 @@ modified: "2026-11-09"
 **读者视角提示**：「小声音消失」是她的 Aegis 体质第一次反着用：她挡得住他的魅惑，挡不住自己的心——免疫的是法术，不免疫的是人。
 
 
-> **原句 3:** "“You don’t get to end things between us.” “Actually, I can do whatever the hell I want. As a matter of fact…”"
+> **原句 3:** "“No,” he snaps. “No?” “You don’t get to end things between us.” “Actually, I can do whatever the hell I want. As a matter of fact…”"
 
 **中文理解**：她宣布两人之间的事到此为止；他一个 No 截住：你没资格结束我们之间的事。她回嘴：其实我想干什么就干什么。
 
@@ -68,7 +68,7 @@ modified: "2026-11-09"
 **读者视角提示**：记住 echo——她的身体反应永远连着婚姻旧账，这是她与 Dorian 周旋时真正的暗礁。
 
 
-> **原句 6:** "“Do you have a circulation problem or something? Your hands are so cold.” I let out a sigh, avoiding his question all together. Of course, he doesn’t let it go. “I run a little cooler than most people."
+> **原句 6:** "“Do you have a circulation problem or something? Your hands are so cold.” I let out a sigh, avoiding his question all together. Of course, he doesn’t let it go. “I run a little cooler than most people. Stop avoiding my question.”"
 
 **中文理解**：她问他是不是循环有问题，手那么凉。他答：我体温比大多数人低一点——然后催她回到原来的问题。
 

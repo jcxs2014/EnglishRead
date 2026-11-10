@@ -87,7 +87,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：她把亲密定义为复原仪式而非沉沦——作者让她主导这场疗愈的定义权：身体的使用说明书由她自己写。「找回之前的自己」与「正在成为的女人」的张力，全压在这一句里。
 
-**读者视角提示**：对照第十四章「被看见的女孩」——她的目标清单第一项始终没变：把那个女孩领回家。
+**读者视角提示**：对照第十五章「被看见的女孩」——她的目标清单第一项始终没变：把那个女孩领回家。
 
 
 > **原句 8:** "“What do you want? Tell me.” I insist, pressing my compulsion against hers, trying once again to see if I can find a crack to sneak through, just like I’ve attempted every time we’ve met. Of course, I don’t, and strangely, it’s a relief."
@@ -153,7 +153,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：清单以省略号自爆：前两项是掠食者的库存，第三项（听她倾诉）是恋人才会要的东西——欲望的性质在三行内完成变异。I want too much 是他给全书主题的自供：不是她要得太多，是他第一次发现自己会贪。
 
-**读者视角提示**：对照第五章「她的怪小鸭版本」——他此刻的贪，正是她等了一辈子的「被需要」。可惜他自己还没读懂这份清单的含义。
+**读者视角提示**：对照第二章「她的怪小鸭版本」——他此刻的贪，正是她等了一辈子的「被需要」。可惜他自己还没读懂这份清单的含义。
 
 
 > **原句 14:** "Replacing my hand with my head, I press my ear against her chest and shut my eyes, listening to her heart beat a soothing rhythm, allowing it to settle within me."

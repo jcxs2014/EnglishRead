@@ -81,4 +81,4 @@ modified: "2026-11-09"
 | easel | 画架 | Grabbing a blank canvas, I place it on my easel, taking a seat before it. |
 
 ## 一句话总结
-女画家 Basilia 以血为颜料画下丈夫 Dorian 的真容、布下「恋爱即死」的血咒，随后割腕赴死——序章把毁灭写成了胜利，而全书故事都活在这条诅咒的引线上。
+女画家 Basilia 前一晚已把血掺进丈夫 Dorian 的红酒，此刻以血为颜料画下他的真容、布下「恋爱即死」的血咒，随后割腕赴死——序章把毁灭写成了胜利，而全书故事都活在这条诅咒的引线上。

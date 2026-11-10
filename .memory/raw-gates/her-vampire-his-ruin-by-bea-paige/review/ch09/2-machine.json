@@ -1,0 +1,430 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/her-vampire-his-ruin-by-bea-paige/ch09 chapter 9.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/her-vampire-his-ruin-by-bea-paige/text/ch09_chapter_9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He hasn’t even attempted to contact me to explain himself, and that’s only angered me further. In the last couple of day",
+          "ok": true,
+          "pos": 515
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I wasn’t granted such exquisite looks, taking after my father, his Italian heritage giving me black hair, and a more oli",
+          "ok": true,
+          "pos": 973
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Answer the damn question, Edie. Did you seriously have some man over whilst looking after my daughter?” Elizabeth hiss-",
+          "ok": true,
+          "pos": 3898
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Oh, I’m sorry. So, because I’m now a middle-aged divorcee, I’m supposed to just shrivel up and die, whilst my ex-husban",
+          "ok": true,
+          "pos": 5808
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "But for future reference, I would never do anything to put Nina at risk. I love her like she’s my own. You know that.”",
+          "ok": true,
+          "pos": 6986
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Oh, I bet I know who they’re from. They scream Dorian. He’s definitely a red rose kind of man. Suave, sophisticated, pa",
+          "ok": true,
+          "pos": 8779
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "To my beautiful Edie, I’m sorry. You have every right to be disappointed with my behaviour. I would like the opportunity",
+          "ok": true,
+          "pos": 9244
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I open it up and pull out a small portable fan, the ones you can hold in your hand. It’s not one of those cheap plastic ",
+          "ok": true,
+          "pos": 12352
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I pull out a bottle of vitamins, specifically made for women at my time of life. A little note is tied around it with a ",
+          "ok": true,
+          "pos": 13900
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“It was so humiliating,” I mumble. Henrietta reaches over the kitchen island and pats my hand. “Don’t you dare feel bad ",
+          "ok": true,
+          "pos": 16382
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "After you and Dorian left, Logan stood outside my house the whole night. Or at least I think he stood there the whole ni",
+          "ok": true,
+          "pos": 17878
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Problems sorted. Next time choose a better boyfriend,” Elizabeth reads. “What the hell is that supposed to mean?”",
+          "ok": true,
+          "pos": 21329
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Well, if you think either of you are going without me, you can think again, because you’re clearly both incapable of ma",
+          "ok": true,
+          "pos": 21881
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.52
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter 9",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4098,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

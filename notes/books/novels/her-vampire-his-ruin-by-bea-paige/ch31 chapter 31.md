@@ -74,7 +74,7 @@ modified: "2026-11-10"
 
 **关键词**：we don’t fuck / We make love / that humanity lives in us still
 
-**为什么这样写**：收章用动词区分收束全书：fuck 是欲望与占有的语法，make love 是选择与承诺的语法；「without pain, without restraint」把前二十章的伤口一笔勾销。最后两句把「人性」写成可以携带的遗产——不是血统，是选择留下的东西。
+**为什么这样写**：收章用动词区分收束全书：fuck 是欲望与占有的语法，make love 是选择与承诺的语法；「without pain, without restraint」把此前所有的伤口一笔勾销。最后两句把「人性」写成可以携带的遗产——不是血统，是选择留下的东西。
 
 **读者视角提示**：记住「that humanity lives in us still」——这是全书对「怪物能不能爱人」的最终回答。
 

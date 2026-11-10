@@ -1,0 +1,408 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/her-vampire-his-ruin-by-bea-paige/ch07 chapter 7.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/her-vampire-his-ruin-by-bea-paige/text/ch07_chapter_7.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Is that why you’re such good friends?” Dorian asks. “Because you both like pushing people’s buttons just to see what wo",
+          "ok": true,
+          "pos": 2167
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There’s something overwhelmingly alluring about Dorian, and whilst I’m very attracted to him, I’m also wary of him, too.",
+          "ok": true,
+          "pos": 2786
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You don’t get to end things between us.” “Actually, I can do whatever the hell I want. As a matter of fact",
+          "ok": true,
+          "pos": 4234
+        },
+        {
+          "text": "”",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I warned you, Edie. Punishment can come in many forms. This is one of them.”",
+          "ok": true,
+          "pos": 7598
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "All I’m left with is a dull ache inside my core that echoes the one inside my chest, and I almost sob with frustration, ",
+          "ok": true,
+          "pos": 7802
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Do you have a circulation problem or something? Your hands are so cold.” I let out a sigh, avoiding his question all to",
+          "ok": true,
+          "pos": 16188
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "What you did in there, it took me back to those moments lying awake after he’d fallen asleep, staring at the ceiling, fe",
+          "ok": true,
+          "pos": 17788
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I deserve better than that. I have needs too. For the first time in my life, I refuse to ignore them",
+          "ok": true,
+          "pos": 18407
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I wanted to see how much you truly wanted me,” I say, finally admitting to myself why I did what I did. “It was a test?",
+          "ok": true,
+          "pos": 19024
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I’ve never experienced anything like that before. I guess I wanted to be the one with all the power for once. I wanted s",
+          "ok": true,
+          "pos": 19346
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I’m willing to explore a new dynamic. I can’t promise I won’t slip up and revert to what I’m used to, but I’m going to ",
+          "ok": true,
+          "pos": 20099
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“I am,” he replies, dropping a brief kiss against my lips, and for the first time in my life I finally feel as though I’",
+          "ok": true,
+          "pos": 20297
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter 7",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3878,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 32 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
