@@ -58,7 +58,7 @@ modified: "2026-11-10"
 
 > **原句 7:** "And I suddenly realised that home for me is nothing to do with beautiful houses and land. It’s to do with people. Home for me is where you are, Bryony, and it always has been."
 
-**中文理解**：失踪那晚他独坐空屋，忽然想通：家与漂亮的房子和土地无关，与人有关——我的家就是你在的地方，Bryony，一直都是。
+**中文理解**：接着他自述的「I went home and I sat in that house」——他忽然想通：家与漂亮的房子和土地无关，与人有关；我的家就是你在的地方，Bryony，一直都是。
 **关键词**：nothing to do with / to do with people / where you are
 **为什么这样写**：「失踪」被重写为「闭关」——他用孤独完成结论，把回避变成论证过程；「always has been」把一瞬的领悟追溯成二十二年的事实。
 **读者视角提示**：这段话是他童年阴影的最终清算——父母给了他「房子不是家」的教训，而她家给了相反的证据。
@@ -70,7 +70,14 @@ modified: "2026-11-10"
 **为什么这样写**：迟到的对等告白配上一句病理报告——他终于给自己的恐惧「溯源」；「risk」一词说明在他心里，她和 Lizzie 重到输不起。
 **读者视角提示**：「爱而不敢」的逻辑至此全部摊开——读者此刻应当原谅他的每一次逃跑，动机链完整闭合。
 
-> **原句 9:** "‘For Christmas next year, I really really want a baby sister. And I know that Santa is going to bring me one.’"
+> **原句 9:** "She gave a shaky smile, watching as he slid the beautiful ring onto her finger. ‘It’s huge. I’ve just put on half a stone and I haven’t eaten any turkey yet.’"
+
+**中文理解**：他当着她的面把戒指推上她的手指，她抖着笑接住这个时刻，还不忘抖包袱：太大了——我还没吃上火鸡就重了半英石。
+**关键词**：slid / ring / half a stone / turkey
+**为什么这样写**：全书最郑重的一刻被她用体重玩笑接住——这是她消化巨大幸福的方式；「还没吃火鸡」把订婚钉死在圣诞清晨的时钟上，戒指的尺寸成了幸福的量具。
+**读者视角提示**：对照他前文的宣告「No more dating. No more looking for a man to take your mind off me.」——从今往后她的名单上只有一个人，而她用一句玩笑签了收。
+
+> **原句 10:** "‘For Christmas next year, I really really want a baby sister. And I know that Santa is going to bring me one.’"
 
 **中文理解**：Lizzie 宣布她已写好明年的信：明年圣诞节，我真的、真的很想要一个妹妹——我知道圣诞老人会带来的。
 **关键词**：next year / baby sister / Santa is going to bring me one
