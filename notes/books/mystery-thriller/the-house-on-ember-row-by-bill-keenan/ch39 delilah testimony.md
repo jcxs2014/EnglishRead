@@ -25,7 +25,7 @@ modified: "2026-11-11"
 **为什么这样写**：父母的职业画像直接对比 Ember Row 的血统世界（ch05 的 bloodlines）——另一个「查无记录的局外人」，与 Ellison 的出身谜共用同一条「自造」路径；relentless 与 Mercer 的证词（ch13）逐字呼应。
 **读者视角提示**：两个 self-made 男人的镜像在此完成——Jensen 靠 handshake 造楼，Ellison 靠 alchemy 造帝国；书的悲剧在于他们进了同一场游戏。
 
-> **原句 3:** ""And Cade trusted him," she corrected. Her voice had a raw edge now. "And it hit him like a freight train. He realized this wasn't just business. It was about much more than money. If he pushed forward, if he ignored the warning, people could die. He couldn't have that on his conscience. Not with the way he was. He was a good man.""
+> **原句 3:** ""And Cade trusted him," she corrected. Her voice had a raw edge now. "And it hit him like a freight train. He realized this wasn't just business. It was about much more than money. If he pushed forward, if he ignored the warning, people could die. He couldn't have that on his conscience. Not with the way he was. He wasn't like the others. He was a good man.""
 **中文理解**：她纠正：Cade 是信任 DeWitt——那个消息像货运火车撞上他；他意识到这不只是生意，往后推、无视警告就会死人，他不能把那个放上良心；他是个好人。
 **关键词**：trusted him / people could die / conscience
 **为什么这样写**：correct（纠正）在此与 Wren 的 correct（ch36）形成文体对位——两个纠正者各执一套事实；people could die 把地基警告升格为道德抉择，conscience 是本案缺失的度量衡：这个退出理由让「自杀论」更难成立——一个因为不肯害死人而放弃全部的人，会自杀吗？
