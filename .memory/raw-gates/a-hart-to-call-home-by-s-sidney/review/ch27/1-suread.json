@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch27",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch27_24_ashton.txt",
+ "facts": [
+  {
+   "fact": "Reston 与 Jody 相差七岁、长相几乎一模一样（五点钟阴影 vs Jody 的小胡子）。",
+   "anchor": "Even though they’re seven years apart in age, there’s absolutely no mistaking Jody and Reston Fisher for brothers.",
+   "start": 777,
+   "end": 891
+  },
+  {
+   "fact": "Reston 请她代收 Jody 生日礼物——Jody 爱乱翻、寄到母亲或 Ev/Brooks 处都会被搜出。",
+   "anchor": "I need to send you Jody’s birthday present. I can’t send it to Mom, ‘cause even though Jody has his own house, he basically still lives there.",
+   "start": 1186,
+   "end": 1328
+  },
+  {
+   "fact": "礼物是首版 Jenner Dunn 唱片——签名装裱限量编号、首印仅八十张。",
+   "anchor": "It’s a first-press Jenner Dunn record. Signed. Framed. Limited run. Numbered, too. Only eighty of ‘em printed at first.",
+   "start": 3198,
+   "end": 3317
+  },
+  {
+   "fact": "Reston 靠 Ruth 的建议与合同帮助签了出版合约。",
+   "anchor": "He signed a publishing deal with a record company recently, thanks to some advice and contract help from Ruth.",
+   "start": 4662,
+   "end": 4772
+  },
+  {
+   "fact": "她还剩几个月厨房实习才能签字毕业，暂不确定是否回德州。",
+   "anchor": "Still a couple months of kitchen internships left before I get signed off and graduate.",
+   "start": 5416,
+   "end": 5503
+  },
+  {
+   "fact": "她的恐惧核心：当 Ev 必然发现她和 Brooks，一切就完了。",
+   "anchor": "Because when Everett inevitably finds out about me and Brooks, it’s all over.",
+   "start": 7916,
+   "end": 7993
+  },
+  {
+   "fact": "骑 Mayo 去山脊约四十五分钟，那里有拴马桩和小井。",
+   "anchor": "Mayo and I ride out to the ridge. It takes us about forty-five minutes, and there’s a fastening post and a small well out there",
+   "start": 7074,
+   "end": 7201
+  },
+  {
+   "fact": "Jody 短信约明天去他家驯新马、叫她 Pocket Rocket。",
+   "anchor": "hey pocket rocket my place 2moro to break new horse",
+   "start": 9105,
+   "end": 9156
+  }
+ ],
+ "relations": [
+  "Reston–Jody 亲兄弟差七岁",
+  "Reston 与她是 extended ranch family 的 babies 双人组",
+  "Brooks 仍是挚友/哥哥的挚友/摇动她世界的人",
+  "Ev 娶 Ruth 因 feel like home"
+ ],
+ "numbers": [
+  "首印八十张",
+  "兄弟差七岁",
+  "约 11 点到 Jody 家+草莓柠檬水",
+  "Reston 十八岁离家",
+  "骑马到山脊四十五分钟"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

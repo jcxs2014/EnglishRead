@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch28",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch28_25_ashton.txt",
+ "facts": [
+  {
+   "fact": "清早在主宅吃早饭——已将近七点、太阳刚起。",
+   "anchor": "Even though it’s nearly seven already, the sun is just starting to rise over the outbuilding roofs.",
+   "start": 414,
+   "end": 513
+  },
+  {
+   "fact": "Harriet 说 Brooks 听说她病倒慌了神、用各种报酬求汤。",
+   "anchor": "When Brooks called, I thought something terrible had happened. He was so panicked—bribed me with all sorts to have me make the soup.",
+   "start": 1470,
+   "end": 1602
+  },
+  {
+   "fact": "求汤开价：一年每周带 Emmy、付大学学费、六个月尿布。",
+   "anchor": "Offered to take Emmy once a week for the next year. Pay for her college. Buy six months of diapers for this little guy. The works.",
+   "start": 1632,
+   "end": 1762
+  },
+  {
+   "fact": "成交价：两个月每周 babysit+一周尿布；他今早带 Emmy 去 Farrow 买菜。",
+   "anchor": "we settled on two months of weekly babysitting duty and a week’s worth of diapers. He’s takin’ Em to Farrow this morning to go grocery shopping.",
+   "start": 1879,
+   "end": 2023
+  },
+  {
+   "fact": "她约了 11 点左右去 Jody 家，并替妈妈带文件给 Ms. Angie。",
+   "anchor": "Sure. I told Jody about eleven, so I’ll be in the stables until then.",
+   "start": 5790,
+   "end": 5859
+  },
+  {
+   "fact": "骑马度假项目需要更多马+全新马厩区才不扰牧场。",
+   "anchor": "We’re gonna need a lot more horses and a brand-new stable block if we don’t wanna disrupt the ranch",
+   "start": 9220,
+   "end": 9319
+  },
+  {
+   "fact": "和 Jody 驯新收的一岁马进展顺利，收工时两人灰头土脸。",
+   "anchor": "We make great progress with a newly-acquired yearling, and by the time we call it a day, we’re both a little dusty and bedraggled",
+   "start": 11543,
+   "end": 11672
+  },
+  {
+   "fact": "Jody 翻抽屉发现烙 BH 的 Brooks 钱包并当面发问——她谎称看电影睡着落下的。",
+   "anchor": "He’s holding a familiar piece of folded, worn tan leather with the letters BH burned into the lower right-hand corner. “Why’s Brooks’s wallet here?”",
+   "start": 14680,
+   "end": 14828
+  }
+ ],
+ "relations": [
+  "Harriet 是 Tanner 家管家/做饭人",
+  "Jody 是出了名的爱乱翻（Reston 语）",
+  "两家长辈合伙把农场做成救助马场",
+  "她对 Brooks 的在意已远超朋友本分"
+ ],
+ "numbers": [
+  "求汤开价六个月尿布",
+  "成交两个月每周",
+  "约 11 点",
+  "Harriet 翻四盘早餐",
+  "将近七点太阳才升"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

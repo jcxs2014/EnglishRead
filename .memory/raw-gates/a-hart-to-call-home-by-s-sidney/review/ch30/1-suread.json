@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch30",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch30_27_ashton.txt",
+ "facts": [
+  {
+   "fact": "他当面说了结束——至少没玩消失；谎言的内疚啃着她。",
+   "anchor": "At least he had the nerve to say it to my face, rather than ghosting me. The guilt of my lies gnaws at me",
+   "start": 809,
+   "end": 914
+  },
+  {
+   "fact": "她向 Reston 坦白：爱上已婚男和他的妻子。",
+   "anchor": "I fell for a guy. Turned out he was married… and I fell for his wife, too.",
+   "start": 7526,
+   "end": 7600
+  },
+  {
+   "fact": "三人关系八个月——某天对方不再接电话。",
+   "anchor": "We spent eight months together. Three of us. And one day they stopped answering the phone.",
+   "start": 8020,
+   "end": 8110
+  },
+  {
+   "fact": "Reston 惊呼欠 Harriet 五十块赌注。",
+   "anchor": "“God damnit. I owe Harriet fifty bucks.”",
+   "start": 5610,
+   "end": 5650
+  },
+  {
+   "fact": "「人人都知道」：她爸和 Miss Celia 两年前就押注他会追去纽约。",
+   "anchor": "Of course I know, Ashey. Everyone knows. Your dad and Miss Celia both had bets on him chasin’ you to the city two years ago.",
+   "start": 5993,
+   "end": 6117
+  },
+  {
+   "fact": "Ev/Jody 不是没察觉——只是自欺不愿看见他多迷你。",
+   "anchor": "They ain’t dumb, Ash. They know you. They know Brooks. They tellin’ themselves a fat old lie if they ain’t noticed how gone for you he is.",
+   "start": 6603,
+   "end": 6741
+  },
+  {
+   "fact": "明晚航班回纽约——all out of time。",
+   "anchor": "I ain’t got time, Reston. I got a flight back to New York tomorrow night. I’m all out of time.",
+   "start": 9640,
+   "end": 9734
+  },
+  {
+   "fact": "偏头痛救援：Ev 把卡车开进小径、Jody 把她安置到后座、Ruth 握手安抚。",
+   "anchor": "Somehow, Everett has managed to navigate his truck down this narrow, barely-worn track, and Jody tucks my arms and legs against my body as he carefully lays me on the back seat.",
+   "start": 13842,
+   "end": 14019
+  }
+ ],
+ "relations": [
+  "Reston 视她为大姐、要搭下一班航班回来护她",
+  "Ev 是 Brooks 挚友、她妈妈雇着 Brooks 全家、几乎亲手带大他",
+  "Harriet 是最接近姐姐的人（她犹豫要不要打）",
+  "Ruth 在后座握住她的手说你们都安全"
+ ],
+ "numbers": [
+  "fifty bucks 赌债",
+  "八个月三人关系",
+  "十五岁的抱行救援",
+  "电话打了近四十分钟",
+  "Ellison 大她近十岁"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

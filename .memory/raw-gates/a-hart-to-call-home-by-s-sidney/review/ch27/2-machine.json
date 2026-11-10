@@ -1,0 +1,419 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/ch27 twenty-four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch27_24_ashton.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He respects you enough at least that he won't go snooping in your underwear drawer",
+          "ok": true,
+          "pos": 1775
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"Stop making this weird please. I don't want to be thinking about your panties.\"",
+          "ok": true,
+          "pos": 2564
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It's a first-press Jenner Dunn record. Signed. Framed. Limited run. Numbered, too. Only eighty of 'em printed at first",
+          "ok": true,
+          "pos": 3050
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I know I'm kinda the black sheep. Never hung out much with y'all. Left home at eighteen and never looked back. But y'all",
+          "ok": true,
+          "pos": 3312
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"You didn't turn your back on anything. You're family, Res.\"",
+          "ok": true,
+          "pos": 3663
+        },
+        {
+          "text": "\"Family takes care of each other.\"",
+          "ok": true,
+          "pos": 4169
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"You don't gotta decide anything right now, Ash.\" I glance up at Reston's image on the screen. \"You don't gotta make any",
+          "ok": true,
+          "pos": 5582
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There really is nothing like having an enormous man between your thighs",
+          "ok": true,
+          "pos": 6724
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Because when Everett inevitably finds out about me and Brooks, it's all over",
+          "ok": true,
+          "pos": 7626
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He's still my best friend, Brooks. He's still my brother's best friend. But he's also the man who rocks my world. The ma",
+          "ok": true,
+          "pos": 8089
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The man who brought bottled water and washcloths so I could clean myself up afterward, and who drove home with my hand i",
+          "ok": true,
+          "pos": 8353
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The fire is already burning. It's simply a case of whether we let it light us up or burn us down to the ground",
+          "ok": true,
+          "pos": 8570
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "she felt like home. Being with her felt easy, he said",
+          "ok": true,
+          "pos": 9522
+        },
+        {
+          "text": "Back to the ranch. To my family, my horse. My people. Brooks. It's a decision I've been putting off making, but it turns",
+          "ok": true,
+          "pos": 10034
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.95,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. twenty-four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 12.0,
+    "block_range": [
+      2,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1975,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 37 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句2",
+        "kw": "I don't want to be thinking about your panties",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}
