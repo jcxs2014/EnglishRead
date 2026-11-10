@@ -1,0 +1,96 @@
+{
+  "chapter": "ch09",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch09_nine.txt",
+  "source_len_chars": 7200,
+  "source_note": "纯素读，仅读 text/ch09_nine.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者）与白手套店员",
+      "did": "玻璃砖墙外的天桥上蓝色与绿色列车相向交会，我被火车声拉回现实；白手套店员像魔术师般从橙色盒子里取出刚完工的马鞍放上桌，说品牌创始于十九世纪（nineteenth century）、原为马具工坊，此物只提供给最特别的顾客；我沿缝线抚摸马鞍，心想这亮黑色正适合 Strada、会让他高兴——Mikoshiba 的枣红马 Alec 和菊花青马 Rose 用的正是这牌马鞍，我因 Strada 的马具比 Mikoshiba 的寒酸而开始一件件购入高质量马具，如今终于凑齐马鞍，想立刻冲去给 Strada 装上",
+      "range": [
+        24,
+        1173
+      ],
+      "quote_head": "I snapped back to reality at the sound",
+      "quote_anchor": "We were originally founded in the nineteenth century as an equestrian workshop, and only offer this item to our most special customers."
+    },
+    {
+      "n": 2,
+      "who": "女店员与我",
+      "did": "店员突然问要不要也给我配一个包（How about a bag for you, too?），在旁待命的女店员接着展示与马鞍同皮的黑手袋——金色锁与钥匙、比陈列柜里的大一号、原为装马鞍而做的招牌设计；她说这包如今已成稀品、因我已购买全套马具（full set of horse tack）才特意给此优惠；我脉搏加速、漏出叹息，心动不已却同时感到难以言说的羞耻——哪种女人会得意洋洋地拎与自家马鞍同皮的包、岂不会被当成笑话，也犹豫为自己花钱；我笑着按住大衣领子，遮住里面穿的廉价衬衫",
+      "range": [
+        1176,
+        2592
+      ],
+      "quote_head": "How about a bag for you, too?",
+      "quote_anchor": "I was exhilarated, but at the same time felt an indescribable sense of shame."
+    },
+    {
+      "n": 3,
+      "who": "Ushio 与我",
+      "did": "我听到 Ushio 的声音转过身，他说『有点不对劲』（Something’s not right）；回头发现他已打开我身后的保险柜往里看，他低声说不知为何柜里的现金比以前少了很多；我以既认同又发窘的微笑回应，叹气并点头；他吩咐我不必着急、从工会账户（union account）取款把保险柜补足，因为有大量报销款要结清，说完『那周一见』便收拾东西、拎起磨旧的皮包离开，安装不良的玻璃门推拉了好几下才关上",
+      "range": [
+        2630,
+        3761
+      ],
+      "quote_head": "Hearing Ushio’s voice, I turned around",
+      "quote_anchor": "“I don’t know why,” Ushio’s low voice echoed inside the safe, “but there’s a lot less cash in here than there used to be.”"
+    },
+    {
+      "n": 4,
+      "who": "我",
+      "did": "我起身蹲到保险柜前开锁、像念咒语般默念锁的密码组合；柜里只剩三叠钞票（原先约有二十叠）——为把 Strada 弄到手、加上疫苗、轻量运动、按摩、兽医费、钉蹄（shoeing）与豪华马具，还要每月付寄养费（monthly boarding fee），不知不觉已花掉柜里大半的钱；我告诉自己『这是最后一次』（This was going to be the last of it），伸手抓出两叠钞票，此时听到一声『Ms. Setoguchi?』",
+      "range": [
+        3947,
+        4700
+      ],
+      "quote_head": "I stood up, crouched by the safe",
+      "quote_anchor": "Inside, there were only three stacks of bills left of the twenty or so that had been there before."
+    },
+    {
+      "n": 5,
+      "who": "Ushio 与我",
+      "did": "我屏住呼吸回头，Ushio 从半开的门里问『要不要一起吃晚饭？』（Would you like to have dinner?）『还是你有安排？』；我两手仍握着保险柜里的成叠钞票，点头两次；他又说『是不是该尽快换锁的密码组合了』（We should change the combination to the lock soon），目光被大开的保险柜内部像黑洞般吸住，道过晚安便没关门就走了",
+      "range": [
+        4703,
+        5261
+      ],
+      "quote_head": "I held my breath and turned my head",
+      "quote_anchor": "We should change the combination to the lock soon, shouldn’t we?"
+    },
+    {
+      "n": 6,
+      "who": "我",
+      "did": "铁的气味像血一样钻进鼻子，我瘫坐到地上；想着必须尽快把钱还回去、让一切恢复原状，便把抓出的成叠钞票放回保险柜内的原位并关上柜门；铁门感觉比平时更沉",
+      "range": [
+        5320,
+        5616
+      ],
+      "quote_head": "When the smell of iron, like blood",
+      "quote_anchor": "I placed the stacks of money I had grabbed back where they had been inside the safe, and closed it."
+    },
+    {
+      "n": 7,
+      "who": "我（回忆的动画里是幽灵 specter 与高中生们）",
+      "did": "沿公路景观——连锁回转寿司店、拉面店、私立补习班、殡仪馆——在暮色中模糊掠过；我在绿招牌便利店与轻型汽车经销商之间的路口遇红灯停下摩托车，蓝色路牌显示已进入隔壁市；离开公寓已骑了约四十分钟（about forty minutes），沿途景观却一成不变、仿佛在绕圈；想起小时候看的动画：一群高中生为次日文化祭在学校彻夜准备，却怎么等也等不到开幕，最终发觉自己活在幽灵（specter）展示的梦里——幽灵解释梦里可以重来、只要一直活在梦里不醒来就等同于活在现实、不如干脆享受它",
+      "range": [
+        5622,
+        6938
+      ],
+      "quote_head": "A chain sushi-go-round restaurant, a ramen shop",
+      "quote_anchor": "They eventually came to realize that they were living in a loop, apparently inside a dream they were being shown by a specter."
+    },
+    {
+      "n": 8,
+      "who": "我（回想 Mikoshiba 的话）",
+      "did": "突然想起 Mikoshiba 出神般的嗓音『马让我们做梦』（Horses make us dream），公路中央立着一匹黑马的景象闪过眼前；我自问：我现在过的这种生活，究竟是现实，还是 Strada 展示给我的一场梦？",
+      "range": [
+        6941,
+        7199
+      ],
+      "quote_head": "Horses make us dream. I suddenly recalled",
+      "quote_anchor": "The life I was living right now—was it reality or just a dream that Strada was showing me?"
+    }
+  ]
+}

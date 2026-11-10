@@ -1,0 +1,118 @@
+{
+  "chapter": "ch10",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch10_ten.txt",
+  "source_len_chars": 9084,
+  "source_note": "纯素读，仅读 text/ch10_ten.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（Yuko）",
+      "did": "骑轻便摩托到护理院：休息室有马厩般的动物气味，约二十位（about twenty seniors）坐轮椅的老人像羊群一样围着一台电视；Yuko 认出一个特别小的背影喊了一声 Mom，母亲没有回头",
+      "range": [
+        472,
+        807
+      ],
+      "quote_head": "In the center of the room",
+      "quote_anchor": "about twenty seniors in wheelchairs were gathered together like sheep"
+    },
+    {
+      "n": 2,
+      "who": "母亲；护理院女工作人员",
+      "did": "母亲一见 Yuko 就问 Is my food ready yet?；工作人员微笑着称她 Ms. Setoguchi、告诉她刚吃过，母亲皱眉不信说自己还饿，工作人员便去拿点心",
+      "range": [
+        995,
+        1228
+      ],
+      "quote_head": "“Is my food ready yet?”",
+      "quote_anchor": "“Ms. Setoguchi, you just ate,” the staff member replied with a smile"
+    },
+    {
+      "n": 3,
+      "who": "母亲；Yuko",
+      "did": "母亲盯着 Yuko 在奢侈品店买的手套（自住进这家设施后很少与她对视），说 Mrs. Hashizume 偷了她的钱包、问 What should I do?，试图把轮椅从长椅旁推开；Yuko 按住轮椅安抚说银行里有钱，母亲提高嗓门问 Why would anyone steal?",
+      "range": [
+        1358,
+        1984
+      ],
+      "quote_head": "“You’ve got yourself some awfully nice gloves,”",
+      "quote_anchor": "“Mrs. Hashizume stole my wallet,” she said. “What should I do?”"
+    },
+    {
+      "n": 4,
+      "who": "母亲；Yuko",
+      "did": "母亲认出 Yuko 却以为她刚放学回家（瞳孔与眼白边界不清，盯着她确认是谁），问 Yuko 何时结婚、说 I really want grandchildren；Yuko 忍住不反驳，悄声向母亲借钱（Just a little bit），知道她银行里还有离婚和解金（divorce settlement）剩款",
+      "range": [
+        2158,
+        2528
+      ],
+      "quote_head": "“Yuko?” Her eyes—the borders",
+      "quote_anchor": "“Mom, I need to borrow some money from you,” I whispered. “Just a little bit.”"
+    },
+    {
+      "n": 5,
+      "who": "母亲",
+      "did": "母亲陷入死寂后近乎耳语坦白 That flyer was a lie：指控父亲出轨的传单全是 Miyoko 编造的、她一直都知道（I always knew）；还说事情来得恰逢其时——她和父亲本来已无话可说（We didn’t have anything to talk about anymore）；Yuko 在母亲玻璃般的眼睛里仿佛看到了黑马",
+      "range": [
+        3016,
+        3627
+      ],
+      "quote_head": "My mother looked at me in surprise.",
+      "quote_anchor": "I knew. The flyers accusing your father of cheating on me? Miyoko made all that up. I always knew."
+    },
+    {
+      "n": 6,
+      "who": "母亲",
+      "did": "母亲道歉说 Yuko, I’m sorry I never told you，泪水从灰色的眼睛涌出、顺着眼角的皱纹滑落；坦白 Yuko 完全不再跟她说话、自己一直很孤独（I was so lonely）",
+      "range": [
+        3708,
+        3953
+      ],
+      "quote_head": "“Yuko, I’m sorry I never told you.”",
+      "quote_anchor": "Yuko, I’m sorry I never told you.” Once she’d confessed her secret, tears overflowed from her gray eyes"
+    },
+    {
+      "n": 7,
+      "who": "母亲；Yuko",
+      "did": "母亲说 All I want is for you to be properly happy；Yuko 不知 properly happy 何意，望向窗外太阳能板田野，觉得处处熟悉、仿佛直视着自己的未来",
+      "range": [
+        4249,
+        4500
+      ],
+      "quote_head": "“All I want is for you to be properly",
+      "quote_anchor": "What did being “properly happy” mean? I didn’t know. I glanced outside at the field of solar panels."
+    },
+    {
+      "n": 8,
+      "who": "Mugikura；Atsushi Shintani",
+      "did": "Yuko 观察竞技场里的骑手：皮肤异常苍白、鼻梁高窄，看起来三十出头（in his early thirties），穿白色尼龙夹克，明显技艺高超；Mugikura 把他介绍给 Yuko——Atsushi Shintani，赛马骑师出身的障碍赛骑手（jockey turned show jumper），曾训练过参加过奥运会的马；Mugikura 决定让他在自己骑术俱乐部负责轻量运动与训练",
+      "range": [
+        5252,
+        6585
+      ],
+      "quote_head": "For a horseback rider, he had",
+      "quote_anchor": "He was a jockey turned show jumper, and in the past had trained horses that had competed in the Olympics."
+    },
+    {
+      "n": 9,
+      "who": "Shintani 与 Strada；Yuko",
+      "did": "Shintani 问能否再多骑 Strada 一会儿，Yuko 点头后他喊 Ya! 让 Strada 跃入奔跑、冲向竞技场中央的障碍，在障碍前抬臀前倾；Strada 肌肉鼓起、精雕的腿收拢跃过栏架；Yuko 冻结的五感融化落泪，嫉妒 Shintani（Strada 正向他展示从未向自己展示的一面），嫉妒中又涌出神秘的渴望；Shintani 与 Strada 又完成 two, three more elegant jumps 后回到她身边",
+      "range": [
+        6755,
+        8206
+      ],
+      "quote_head": "“Yuko, would it be all right if I rode",
+      "quote_anchor": "Strada’s muscles swelled, his chiseled legs folded, and he sailed over the hurdle."
+    },
+    {
+      "n": 10,
+      "who": "Shintani；Mugikura；Yuko",
+      "did": "Shintani 在夕阳下宣言 I’ll ride him；Mugikura 解释说他要与 Strada 参赛、帮它赢得比赛，Shintani 在 Strada 背上补说 He has what it takes；Yuko 心动：受挫的赛马 Strada 可能在障碍赛中重获聚光灯、他们可以一起重新开始生活（start our lives over again）；Mugikura 笑说 There’s only one answer",
+      "range": [
+        8209,
+        9083
+      ],
+      "quote_head": "“I’ll ride him.” He smiled, the sunset",
+      "quote_anchor": "“I’ll ride him.” He smiled, the sunset at his back, his breath undisturbed by physical exertion."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "chapter": "ch08",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch08_eight.txt",
+  "source_len_chars": 9420,
+  "source_note": "纯素读，仅读 text/ch08_eight.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者，后文被 Mikoshiba 称作 Yuko、被 Mugikura 称作 Ms. Setoguchi）",
+      "did": "她踩着不习惯的高跟鞋、穿过陈列着每只轻松超过 1 million yen 的软羊皮包的精品店，被销售员引到楼上沙发；她仍穿着三个月前（three months prior）在这家店买的驼色大衣，担心被人发现大衣底下是量贩店（mass retailer）的衬衫与窄管裤。",
+      "range": [
+        25,
+        1169
+      ],
+      "quote_head": "Silk scarves in vibrant shades of",
+      "quote_anchor": "Still wearing the camel coat that I’d bought at this boutique three months prior, I felt uneasy, worried that others would find out"
+    },
+    {
+      "n": 2,
+      "who": "我（叙述者）",
+      "did": "购置史：她起初来店时无人多看一眼，后来先买了 300,000 日元以上的马靴，又各花至少 100,000 日元买了马鞭（crop）、笼头（bridle）和马衣（horse blanket），店员因此把她记成马主，且自上个月起给她配了专属销售员。",
+      "range": [
+        1172,
+        1489
+      ],
+      "quote_head": "When I first came here, the",
+      "quote_anchor": "But as I went on to buy riding boots that cost more than 300,000 yen, followed by a crop"
+    },
+    {
+      "n": 3,
+      "who": "我（叙述者）",
+      "did": "距她背着沉重背包（heavy backpack）去看那匹黑马的那天已经整整过了三个月（Three months had passed）；早上九点（nine AM）Mugikura 马术俱乐部鸦雀无声，俱乐部里没有人、场地里也没有马，她像私下会情人一样走进马厩，黑马朝她低声嘶鸣，她确认自己没有来错。",
+      "range": [
+        2035,
+        2790
+      ],
+      "quote_head": "Three months had passed since the",
+      "quote_anchor": "At nine AM, Mugikura Riding Club was completely silent. There were no people inside the clubhouse"
+    },
+    {
+      "n": 4,
+      "who": "我（叙述者）、黑马、Mugikura",
+      "did": "她包里成沓钞票的边缘顶着她后背，手指发抖，负罪感里掺着一点勇气；她伸出手，黑马低下头把口鼻放上她颤抖的手指，她觉得一切都被原谅了，对马说“我是为你来的”（“I came for you”）；Mugikura 把刷子丢进桶里先行离开马厩，她重新背好背包快步跟上。",
+      "range": [
+        2793,
+        3478
+      ],
+      "quote_head": "The edge of one of the",
+      "quote_anchor": "I stretched out my hand, and he lowered his neck, placing his muzzle on my shaking fingers"
+    },
+    {
+      "n": 5,
+      "who": "我（叙述者）、Mugikura",
+      "did": "两人在会所沙发上相对而坐，她把带来的 4.5 million yen（450 万日元）交给 Mugikura；他拆掉钞票纸带、舔了食指，在墙上自己职业马术时代照片前逐张翻点 10,000-yen bills（一、二、三、四），她听着窗外隐约的马鸣、看着 10,000 的数字反复出现；他数完问“你想怎么办？”（“What do you wanna do?”）。",
+      "range": [
+        3481,
+        4095
+      ],
+      "quote_head": "When the old man and I",
+      "quote_anchor": "I handed him the money I’d brought with me: 4.5 million yen"
+    },
+    {
+      "n": 6,
+      "who": "Mugikura、我（叙述者）",
+      "did": "Mugikura 答一句“他的名字”，拄拐从签到处旁的架子上取来褪色活页夹，递给她血统证书与名字登记表——表上写明这匹马名叫 Grande Strada；他说“马主有权给马命名”（“The owner gets to name the horse”，命名决定权在马主），见她盯着表格出神便说“照这个速度你要想一辈子”，随即拿起圆珠笔在登记表上划掉“Grande”，读出 Strada（意大利语“道路”），又点破“你们俩是在公路上相遇的，对吧？”——她想起黑马站在二手车行与前弹珠房之间马路中央的样子，觉得自己又一次被命运领到这里。",
+      "range": [
+        4155,
+        5274
+      ],
+      "quote_head": "“His name,” he replied gruffly. Leaning",
+      "quote_anchor": "He picked up a ballpoint pen and crossed out “Grande” on the name registration form"
+    },
+    {
+      "n": 7,
+      "who": "Mikoshiba、Mugikura、我（叙述者）",
+      "did": "两人再进马厩时，Mikoshiba 正站在黑马厩前过于亲昵地抚着马颈，见到他们只以半笑打招呼，对 Mugikura 宣称“我已做出决定”，话头“This cutie right here . . . I want to—”被 Mugikura 沙哑的嗓音截断：“这匹已经买下了，是 Setoguchi 小姐。”（“This one’s been bought by Ms. Setoguchi.”）；Mikoshiba 挂着假笑转向她，问“So, Yuko, he got you, too?”，她只以浅笑作答；Mikoshiba 边抚马颈边说“马会让我们做梦”（“Horses make us dream”），随后说“走吧，Alec”，拉开厩门把自己的栗色马牵出了马厩。",
+      "range": [
+        5459,
+        7321
+      ],
+      "quote_head": "“Hey, you, have you been waiting",
+      "quote_anchor": "Mugikura’s raspy voice cut her off. “This one’s been bought by Ms. Setoguchi.”"
+    },
+    {
+      "n": 8,
+      "who": "Mugikura、我（叙述者）、Strada",
+      "did": "Mugikura 露出金犬齿笑着说“恭喜，从今天起这是你的马”（“From today onward, this is your horse.”）；他把新名牌装上马厩入口，Strada 把头转向她，似在说一直在等她；她第一次唤出这个名字“Strada”，黑马以嘶鸣回应，似表示喜欢新名字。",
+      "range": [
+        7324,
+        7777
+      ],
+      "quote_head": "“Congratulations,” Mugikura said, showing his gold",
+      "quote_anchor": "When Mugikura attached the new nameplate to the entrance of the stall, Strada moved his head toward me"
+    },
+    {
+      "n": 9,
+      "who": "马厩中的全部马匹（与晨光）",
+      "did": "就在那一刻，马厩里所有的马一齐嘶鸣，声音像铜管乐器的合唱响彻马厩；早晨强烈的阳光射入黑暗，仿佛是马的嘶鸣把光叫了进来，亮得她不由眯眼，一道亮白光束照在 Strada 和她身上。",
+      "range": [
+        7780,
+        8115
+      ],
+      "quote_head": "That very moment, all the horses",
+      "quote_anchor": "That very moment, all the horses in the stable whinnied. The sound rang throughout the stable like a chorus of brass instruments"
+    },
+    {
+      "n": 10,
+      "who": "我（叙述者）、Strada（Mikoshiba 一行旁观）",
+      "did": "她把马牵出厩外翻身上鞍，用脚一夹马腹，马高高抬头起步；松缰后由慢步转快步（walk to a trot），她在大腿内侧感到马体内循环的热血，Strada 背部肌肉隆起、蹄声轻快；马的呼吸与她同步，旋律从她身体里流出，Mikoshiba 骑着栗色马与随从骑着破旧马匹投来羡慕的目光；两颗心的歌声相通——“仿佛从一开始就注定，我们合为一体”（we became one），她终于找到可以相信、不会背叛自己的东西；最后 Strada 从快步转成跑步（trot to a canter），一人一马齐声歌唱。",
+      "range": [
+        8118,
+        9419
+      ],
+      "quote_head": "I took him out of his",
+      "quote_anchor": "As though it had been preordained from the start, we became one"
+    }
+  ]
+}

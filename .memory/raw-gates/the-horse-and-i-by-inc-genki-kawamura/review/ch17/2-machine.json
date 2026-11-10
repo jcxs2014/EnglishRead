@@ -1,0 +1,398 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/ch17 seventeen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch17_seventeen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When the sun shone on Strada’s body, I drew in a quick breath. His powerful neck had wasted away, and the glossiness of ",
+          "ok": true,
+          "pos": 381
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“The ligaments in his right foreleg are in really bad shape. Jumping is out of the question. Surgery might help . . . bu",
+          "ok": true,
+          "pos": 1640
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Have you forgotten about me? I persistently stuck out my trembling fingers toward the tip of his muzzle, but the black h",
+          "ok": true,
+          "pos": 2624
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Hans could answer correctly when the asker knew the answer to the question, but not when the asker didn’t know the answe",
+          "ok": true,
+          "pos": 4484
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You’re just looking at the parts of the horse that fit your fantasy. Horses aren’t pets. They’re economic animals.”",
+          "ok": true,
+          "pos": 5353
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I screamed and jumped on Shintani, digging my nails into his pallid face. He let out a wail and took a few steps back, t",
+          "ok": true,
+          "pos": 5911
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Mugikura rushed to restrain me. At that moment, Strada neighed in a high-pitched tone, and stood in front of me as if to",
+          "ok": true,
+          "pos": 6113
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I clung to the safe and turned the dial: 0 to the right, 9 to the left, 2 to the right, and 3 to the left. I opened the ",
+          "ok": true,
+          "pos": 7750
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The darkness deep inside the safe was the same jet black as Strada’s eyes. Staring into that blackness, I felt I had bee",
+          "ok": true,
+          "pos": 8150
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Inside the moving screen, something flesh-colored writhed. Screams like that of an animal reverberated across the quiet ",
+          "ok": true,
+          "pos": 10310
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I tore Miu’s hand off the handle of my bag and took off",
+          "ok": true,
+          "pos": 10557
+        }
+      ],
+      "words": 13
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "句子结构": 53,
+        "表达方式": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "句子结构": 0.51,
+        "表达方式": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "句子结构": 50,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "句子结构": 0.54,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "句子结构": 54,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "句子结构": 0.52,
+        "表达方式": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "句子结构": 52,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "句子结构": 0.48,
+        "表达方式": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "句子结构": 49,
+        "表达方式": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "句子结构": 0.6,
+        "表达方式": 0.29
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "句子结构": 63,
+        "表达方式": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "句子结构": 0.63,
+        "表达方式": 0.37
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "句子结构": 58,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "句子结构": 0.55,
+        "表达方式": 0.59
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "句子结构": 46,
+        "表达方式": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "句子结构": 0.59,
+        "表达方式": 0.42
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "句子结构": 62,
+        "表达方式": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "句子结构": 0.57,
+        "表达方式": 0.65
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "句子结构": 62,
+        "表达方式": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "句子结构": 0.56,
+        "表达方式": 0.44
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "句子结构": 45,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "句子结构": 0.61,
+        "表达方式": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 11,
+    "block_median": 9.0,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1976,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 9、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

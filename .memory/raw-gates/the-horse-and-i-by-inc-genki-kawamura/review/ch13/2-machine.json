@@ -1,0 +1,311 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/ch13 thirteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch13_thirteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "213,600 yen for “Training trips,” 89,670 yen for “Social gatherings,” 62,000 yen for “Office repairs.” One by one, the n",
+          "ok": true,
+          "pos": 102
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When I tweaked the numbers in the electronic cashbooks little by little, it was possible to balance the budget. After wo",
+          "ok": true,
+          "pos": 637
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“We need to get this door fixed.” Ushio grinned wryly as he forced his large body through the gap he’d made. “You’re wor",
+          "ok": true,
+          "pos": 1906
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Ushio stared at the number as the shredder swallowed it. “Ms. Setoguchi, do you have any time after this?”",
+          "ok": true,
+          "pos": 3176
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I heard the company might launch an investigation,” he said",
+          "ok": true,
+          "pos": 9270
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“It’ll be all right. Just return the money before they notice,” Ushio continued, as if he were talking to himself. He ke",
+          "ok": true,
+          "pos": 9704
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The black horse was inside Ushio’s eye. It was standing on the highway at night, looking straight at me",
+          "ok": true,
+          "pos": 10367
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Caught off guard, he took two, three steps back. I could hear his heart beating powerfully. He staggered, and his heel r",
+          "ok": true,
+          "pos": 10519
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 57,
+        "表达方式": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "句子结构": 0.8,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "句子结构": 63,
+        "表达方式": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "句子结构": 0.59,
+        "表达方式": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "句子结构": 61,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "句子结构": 0.69,
+        "表达方式": 0.48
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "句子结构": 48,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.53,
+        "表达方式": 0.54
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "句子结构": 58,
+        "表达方式": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "句子结构": 0.75,
+        "表达方式": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "句子结构": 65,
+        "表达方式": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "句子结构": 0.58,
+        "表达方式": 0.43
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "句子结构": 46,
+        "表达方式": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.61,
+        "表达方式": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "句子结构": 44,
+        "表达方式": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "句子结构": 0.46,
+        "表达方式": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter Thirteen",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 8,
+    "block_median": 9.0,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2019,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 9、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

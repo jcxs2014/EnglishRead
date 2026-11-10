@@ -1,0 +1,118 @@
+{
+  "chapter": "ch12",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch12_twelve.txt",
+  "source_len_chars": 12636,
+  "source_note": "纯素读，仅读 text/ch12_twelve.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "叙述者（Yuko）",
+      "did": "走进可望见雪顶富士山、停满高档车的停车场，约三分之一的车带有马标，走在其间仿佛置身马厩；热身场里几十匹毛色各异的马反复跳障碍；骑手清一色黑色头盔紧身夹克白衬衫骑裤令她胆怯，看台上各俱乐部头目神情严峻、像 Mugikura 的气场；她想起小学运动会因个子矮跑得慢垫底的难堪，勉强扬起嘴角打气，确信自己与 Strada 的马具全出自那家奢侈品牌、能融入这群显赫骑手。",
+      "range": [
+        27,
+        2128
+      ],
+      "quote_head": "The parking lot had a splendid view of",
+      "quote_anchor": "About one-third of those cars had some kind of horse logo on them."
+    },
+    {
+      "n": 2,
+      "who": "Shintani（对叙述者）",
+      "did": "黑色骑装的长肢男子高喊 “Yuko!” 走近——是 Shintani，女人们的目光齐刷刷转向他（叙述者曾给他买过一整套奢侈品牌骑装）；他领叙述者逆时针绕障碍赛场、牵手上坡，耳语说迎面下坡那匹鬃毛编得极精致的黑马是上届冠军，又评价它 “Seems too restless” 跑不好、令叙述者一惊，随后笑称大家看到 Strada 今天的状态会惊掉下巴。",
+      "range": [
+        2131,
+        3321
+      ],
+      "quote_head": "Yuko A man with long limbs sheathed in",
+      "quote_anchor": "“I’ve been waiting for you. So has Strada,” he said, leading me counterclockwise around the show jumping arena."
+    },
+    {
+      "n": 3,
+      "who": "Mikoshiba 与坐骑 Alec；Shintani（向叙述者耳语）",
+      "did": "五座马厩前，满身泥的 Mikoshiba 边刷栗色马 Alec 边用戴脏手套的手擦眼角——Shintani 耳语告知她跳跃时坠马、“Alec suddenly went a little wild”；Alec 剧烈甩头猛跺水泥地，Mikoshiba 道歉想贴近马颈，Alec 双耳向后贴倒、拒绝亲近；随从们轮流安慰她。",
+      "range": [
+        3324,
+        4169
+      ],
+      "quote_head": "There were five stables and several horses that",
+      "quote_anchor": "“Mrs. Mikoshiba fell off her horse while she was jumping. Alec suddenly went a little wild.”"
+    },
+    {
+      "n": 4,
+      "who": "Mikoshiba（对叙述者与 Shintani）",
+      "did": "Mikoshiba 瞬间收泪变脸质问叙述者 “What are you looking at?”“Is this funny to you?”；Shintani 替叙述者答 “No . . .”；她带着泥的脸对 Shintani 挤出假笑——“Good for you, Shintani. You finally found yourself a sponsor.”——并追问 “how much are you getting paid?”；眼看 Shintani、话刺叙述者，随从们冷眼打量叙述者。",
+      "range": [
+        4450,
+        4972
+      ],
+      "quote_head": "What are you looking at As if her",
+      "quote_anchor": "“Good for you, Shintani. You finally found yourself a sponsor.”"
+    },
+    {
+      "n": 5,
+      "who": "叙述者（回叙）",
+      "did": "Mikoshiba 的冷言把过去三个月拉回眼前：Mugikura 骑术俱乐部后场闲置场地被改建为障碍赛场（换新围栏、装各色障碍），叙述者照开价付清全部改建费；Shintani 每周三天在她捐建的场地里练 Strada，叙述者周末骑。",
+      "range": [
+        4975,
+        5543
+      ],
+      "quote_head": "Mikoshiba’s cold words brought the past three months",
+      "quote_anchor": "Shintani trained Strada three days a week in the arena built with my donations, and I rode him on the weekends."
+    },
+    {
+      "n": 6,
+      "who": "Mikoshiba 的随从们（议论叙述者与 Shintani）；Mikoshiba 打圆场；Shintani 拉走叙述者",
+      "did": "叙述者路过俱乐部，从半开的窗听见 Mikoshiba 的随从议论——“It’s like he’s a host from a host club, and she’s a patron.”，还笑她挑马挑男人都看脸；Mikoshiba 隔窗拦了句对 Yuko 不敬，却也自嘲该学学找个专业骑手；两女大笑，叙述者竖起内心反击——贬低他人不会让她们更幸福；Shintani 抓住叙述者手臂拉进马厩，Mikoshiba 在身后追喊道歉称 sponsor 只是玩笑、请别当真。",
+      "range": [
+        5546,
+        6831
+      ],
+      "quote_head": "One day as I walked past the clubhouse",
+      "quote_anchor": "“It’s like he’s a host from a host club, and she’s a patron.”"
+    },
+    {
+      "n": 7,
+      "who": "Mugikura／Shintani／叙述者（对 Strada）",
+      "did": "马厩深处 Strada 凭脚步声先于见面低鸣相认（“I’m here.”）；Mugikura 单手拄杖、另一只手给 Strada 套笼头，夸 Shintani 备马到位，并拍着马腹预祝 “Maybe he’ll even get a blue ribbon.”；Shintani 谦让说该夸的是 Strada——速度全受控、跳跃优雅、有天赋——又归功 “It’s all thanks to Yuko, who believed in us”；叙述者取出背包 Tupperware 盒里的苹果片喂马，Strada 舔苹果与指尖、用牙衔住咀嚼，两人的旋律回归耳中。",
+      "range": [
+        7138,
+        9055
+      ],
+      "quote_head": "I heard a low whinny from the darkness",
+      "quote_anchor": "“Maybe he’ll even get a blue ribbon.” Mugikura laughed in his raspy voice, and patted Strada’s belly."
+    },
+    {
+      "n": 8,
+      "who": "Strada（驮 Shintani）",
+      "did": "热身场 Strada 收缩身体轻松腾跃、镇住其余热身马匹；驮 Shintani 入场，MC 宣布开始后连续越过绿色、红白条纹、黄色、彩虹色障碍，如跑过百万次般毫无迟疑；越完全部障碍后全场回荡 “Clear round!”（零罚分完赛）宣告与掌声；Shintani 兴奋说 “He’s an amazing horse.”，叙述者搂着马颈已盘算全国冠军头衔。",
+      "range": [
+        9061,
+        11891
+      ],
+      "quote_head": "Strada who had entered the warm-up arena contracted",
+      "quote_anchor": "The words “Clear round!” echoed throughout the competition venue. There was applause, and then his turn was over."
+    },
+    {
+      "n": 9,
+      "who": "Shintani（对叙述者泼冷水）",
+      "did": "Shintani 泼冷水：“It’ll be difficult for Strada to win in national competitions.”——他一周连一半都骑不上、Mugikura 骑术俱乐部设施不全、Strada 受过伤，建议别逼太狠、继续只报这种小型赛；叙述者内心反驳 Strada can do better，Strada 像是附和般大声哼鼻、呼出两三团白汽，叙述者凝视马眼暗誓 I’ll help you win。",
+      "range": [
+        11894,
+        12527
+      ],
+      "quote_head": "I couldn’t understand what Shintani was saying and",
+      "quote_anchor": "“It’ll be difficult for Strada to win in national competitions."
+    },
+    {
+      "n": 10,
+      "who": "Mugikura（对叙述者）",
+      "did": "身后 Mugikura 摇头轻笑，丢下预言——“This horse is going to suck you dry . . .”（这匹马要把你吸干）。",
+      "range": [
+        12530,
+        12635
+      ],
+      "quote_head": "Behind us Mugikura let out a soft laugh",
+      "quote_anchor": "Behind us, Mugikura let out a soft laugh, shaking his head.\n\n\n“This horse is going to suck you dry . . .”"
+    }
+  ]
+}
