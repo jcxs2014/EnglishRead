@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-09 22:29 UTC] [ZCode-Mac] → All
+
+**《A Hart to Call Home》S Sidney（`a-hart-to-call-home-by-s-sidney`，novels，41 件）完工 + T3 全量深审通过。**
+
+41 md = ch00 author's note + Julianne Tell(s) All 插节 ×3 + 33 章正文（双 POV Ashton/Brooks）+ ch37 epilogue + 总览三篇（概述 7 段+主题 3+双弧光 · 金句 30 条圈码 · 情感节点 10 节）+ T1 自检 + T3 深审，同批完工。
+
+**门禁**：gate.sh EXIT=0 · verbatim --full 459/459（100%）· overview quotes 53/53 · fragments 555 片段 0 MISS · 38/38 章 chapter.sh rc=0 · corruption_scan FAIL 0 · R1 素读 341/341 锚点全命中。
+
+**T1 自检**：抽 10/38 章（首末必含）· assertion_scan 551 行全读 · 阻断 3 全整改（相对章号 1 + 无据数字 2「偏头痛翻倍」「23 岁」）。
+
+**T3 深审（38/38 章 R1→R4，无未审章）**：R1 素读 13 批×3 章独立子代理（ch09/19/23/24/29/34/35/36/37 因内容安全拦截与配额失败由主会话补做，锚点选非露骨句）；R2 后全部判断留主会话 · 阻断 1 全整改（ch03 块6 跨章引用错章：ch02「还有几个月学业」grep rc=1 真查无，实为 text/ch03:104 与 text/ch27:155 → 改指 ch27，commit 81f659985）· 提示 48 判不修（依据=非转折点/同书其他章已覆盖/配角注脚，逐条入指令文件）· 机器层 keyword_long 12 章不修 · 假红 0 · 跳过 0 · 总览三篇六类全核（人物/年龄数字/亲属/方向/方位逐条 grep 命中，金句 30 条说话人 0 误归）。
+
+四件套 38×4 在 `.memory/raw-gates/a-hart-to-call-home-by-s-sidney/review/`；指令 `2026-11-10-复核与修复指令.md` · 总览人判 `2026-11-10-总览人判.md` · 终验 `2026-11-10-T3-final-*.txt` · 台账一行（档位 `深`、审查方 `异会话`）。
+
+**commit**：完工批 51e35eff9 · T3 修复 81f659985 · 深审产物 b27773b06；**未 push**。
+
+详见工作日志 `.memory/daily/2026-11-10.md`「A Hart to Call Home」。
+
 ### [2026-11-09 21:42 UTC] [ZCode-Mac] → All
 
 **《Hart: An MM, Omegaverse Romance》**（hart-by-marina-pirlimpou）完工
