@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch17",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch17_chapter_seventeen.txt",
+ "facts": [
+  {
+   "fact": "孕讯兑现：Gordon 的书房被搬空改婴儿房——Eloise 一拿到结果就开始清理，那一刻她终于敢相信了。",
+   "anchor": "Eloise started on the clean-out the second we got the news",
+   "start": 2301,
+   "end": 2359
+  },
+  {
+   "fact": "身份揭示：Gordon 说 Quinn 要当舅舅了——Quinn 自嘲「我同母异父妹妹的孩子算几成舅舅」；Eloise 是他妹妹。",
+   "anchor": "the kid of my half sister",
+   "start": 4592,
+   "end": 4617
+  },
+  {
+   "fact": "Gordon 不容分说：血亲就是血亲，管你喜欢不喜欢—— Uncle Quinny 这个称呼像他盼了多年的请柬。",
+   "anchor": "Uncle Quinny",
+   "start": 4737,
+   "end": 4749
+  },
+  {
+   "fact": "创伤总陈述：Quinn 坦白——他长大的家里爱是待偿还的债，用瓶子、被撞破的门与事后空洞的道歉来计量。",
+   "anchor": "love was a debt to be repaid",
+   "start": 5695,
+   "end": 5723
+  },
+  {
+   "fact": "妹妹的出生：几年后母亲遇到真心实意的好男人、怀孕、生下 Eloise——新的人生开始了。",
+   "anchor": "And Eloise is born.",
+   "start": 6681,
+   "end": 6700
+  },
+  {
+   "fact": "不平：母亲像直接翻开了新的一页——养大他的那个版本不复存在，Eloise 成了干净石板的受益人；而他还在抱着残骸假装无事。",
+   "anchor": "beneficiary of that clean slate",
+   "start": 7312,
+   "end": 7343
+  },
+  {
+   "fact": "Gordon 的反驳：你没资格说母亲重启人生——她背负着全部，只是没让那些事定义她的后半生。",
+   "anchor": "your mother was surviving too",
+   "start": 7967,
+   "end": 7996
+  },
+  {
+   "fact": "章末祝酒：香槟泡沫涌过 Gordon 的手没人去擦——敬未来，敬我们全家；Quinn 第一次让自己相信也许真的有一个未来。",
+   "anchor": "“A bright, beautiful future for our family.",
+   "start": 10012,
+   "end": 10055
+  }
+ ]
+}
