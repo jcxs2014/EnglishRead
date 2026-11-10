@@ -19,7 +19,7 @@ modified: "2026-11-11"
 **为什么这样写**：笑容与眼睛的分裂是本章的显微镜——嘴还能表演，眼先泄了密；Not this time 独句成段宣告旧规则失效：他一生的「控场术」第一次失效，作者用省略号般的短句完成权力的换手。
 **读者视角提示**：对照 ch16 「淡去」哲学——此刻他的淡去是被迫的：被一个他从没放在「收藏清单」里的人逼到墙角。
 
-> **原句 2:** "No. Because no one has ever told you no, have they? Not once in your entire life. You couldn't conceive of a world where he chose his wife over you."
+> **原句 2:** "Because no one has ever told you no, have they? Not once in your entire life. You couldn't conceive of a world where he chose his wife over you."
 **中文理解**：不——是因为从没有人对你说过「不」，对吗？你这辈子一次都没有；你无法想象一个他选择妻儿而放弃你的世界。
 **关键词**：told you no / Not once / chose his wife
 **为什么这样写**：三连「不」把动机链钉死——帝国的软肋是「未被拒绝过」；chose his wife over you 与 ch39 Delilah 的证词（我们要重新开始）严丝合缝，指控由此获得人格学的支撑：不是钱、不是仇，是被「不」刺穿的自恋。
