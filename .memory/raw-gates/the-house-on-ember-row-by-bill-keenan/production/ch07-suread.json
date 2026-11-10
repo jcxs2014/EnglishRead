@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch07_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "Quinn 的公寓：小而功能性、从未真正住成家； bourbon 放台面、案卷放餐桌、记忆放在一个不开的抽屉里——三年没记过邻居的名字。",
+   "anchor": "It wasn’t a home.",
+   "start": 682,
+   "end": 699
+  },
+  {
+   "fact": "自画像：窗玻璃里是错餐太多、拿威士忌补的男人——鼻梁断过两次，一次被警察、一次被不欢迎他提问的丈夫；那是「真相不总想被找到」的永久纪念。",
+   "anchor": "My nose had been broken twice",
+   "start": 1564,
+   "end": 1593
+  },
+  {
+   "fact": "父亲肖像：能在酒吧迷倒陌生人、赊来免费酒水、许诺从不兑现——赌徒、漂泊者、一夜一个角色的演员。",
+   "anchor": "A gambler, a drifter",
+   "start": 3388,
+   "end": 3408
+  },
+  {
+   "fact": "十岁那年：Quinn 放学回家看见父亲收拾行囊，得到的解释是「找了份工作，大钱」——然后人就没了；一走两年。",
+   "anchor": "“Got a job lined up, kid. Big money.”",
+   "start": 3898,
+   "end": 3935
+  },
+  {
+   "fact": "迟来的真相：父亲不辞而别不是因为钱——是因为输比试着赢更容易。",
+   "anchor": "He left because losing was easier than trying to win.",
+   "start": 4071,
+   "end": 4124
+  },
+  {
+   "fact": "幽灵时刻：煎牛排的夜里 Quinn 感觉父亲在身旁——不是儿子记念父亲，而是一个男人认出自己发誓永不成为的那个人的鬼魂。",
+   "anchor": "the ghost of someone he swore he would never become",
+   "start": 4473,
+   "end": 4524
+  },
+  {
+   "fact": "章末一转：独自切肉进食——但「渐渐地，我意识到，并非独自一人」；案子与父亲都上了桌。",
+   "anchor": "I sat there and ate alone.",
+   "start": 4607,
+   "end": 4633
+  }
+ ]
+}
