@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch34",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch34_chapter_thirty_four.txt",
+ "facts": [
+  {
+   "fact": "线索到手：Cardenas 拒给病历但确认随访信寄往某地址——大概过时，但是个起点；Eloise 把 Delilah 的姓名地址电话写在纸上推过来。",
+   "anchor": "“Dr. Cardenas came through,”",
+   "start": 385,
+   "end": 413
+  },
+  {
+   "fact": "负债清单：Gordon 死了，因为是我；Eloise 即将成为没有丈夫的双胞胎母亲，这也是我；每一口呼吸都是借来的。",
+   "anchor": "Gordon was gone. I was the reason.",
+   "start": 1124,
+   "end": 1158
+  },
+  {
+   "fact": "死期论：他说自己日子有数——要么定罪入狱十年，要么在 Ellison 的世界里被「消失」；走运的自己走，倒霉的被移除。",
+   "anchor": "One way or another, they always vanish.",
+   "start": 2399,
+   "end": 2438
+  },
+  {
+   "fact": "人寿保险：他要把 Eloise 设为受益人——房子、医疗账单、独自养两个孩子都需要大钱。",
+   "anchor": "If I can set up a policy now",
+   "start": 3113,
+   "end": 3141
+  },
+  {
+   "fact": "Eloise 的反击：拍拳于掌——你不准放弃，不准坐在这儿决定自己已经是幽灵、唯一的作用是往一个你都不想参与的未来里砸钱。",
+   "anchor": "You don’t get to give up",
+   "start": 3545,
+   "end": 3569
+  },
+  {
+   "fact": "保险否决：人寿保险不买——至少现在不买，「只要还有机会」；她盯着木纹像盯答案。",
+   "anchor": "Not while there’s still a chance.",
+   "start": 4260,
+   "end": 4293
+  },
+  {
+   "fact": "收束：指尖抚过 Delilah 的号码——那就去查她知道什么；信与失踪案是这盘散局里最后一条还说得通的线。",
+   "anchor": "Then let’s find out what she knows.",
+   "start": 4725,
+   "end": 4760
+  }
+ ]
+}
