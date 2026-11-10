@@ -75,7 +75,7 @@ modified: "2026-11-10"
 
 **读者视角提示**：注意幻象的细节——不是「舞会」也不是「吻」，是「婚姻内的日常清晨」：她的潜意识给 Quint 的位置不是恋人，是配偶。这份深度连她自己都不敢直视。
 
-> **原句 7:** That's my real life. Those are my real memories.
+> **原句 7:** I nod resolutely to myself before setting it aside and going back to checking in books. That's my real life. Those are my real memories.
 
 **中文理解**：盯着手机壁纸上与 Ben 的合影三十秒——照片里的她笑得像恋爱中的人——Clara 对自己念出定案词：那是我真实的生活，那些才是我真实的记忆。两声「real」是宣言，也是祷告。
 
