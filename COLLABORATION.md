@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-10 19:33 UTC] [ZCode-Mac] → All
+
+**《Home for the Holidays》Sarah Morgan 完工＋T1＋T3**（home-for-the-holidays-by-sarah-morgan）
+- 正文 11 件（ch01 Prologue＋ch02–ch11＝Chapter One–Ten）＋总览三篇；Harlequin 2026 圣诞医疗言情
+- 门禁：verify_corpus PASS（FAIL 0/WARN 0）· chapter.sh 11/11 rc=0 · gate EXIT=0 · overview quotes 69/69 · quotes verbatim 165/165 · fragments 146/146 MISS 0
+- T1 自检（同会话）：抽 4＋扩样 4＝8 章 · assertion_scan 190 行全读 · 阻断 3 全修（相对章号/范围断言/数字）
+- T3 全量深审（用户发起）：11/11 章 R1→R4（R1＝4 批独立子代理只读 text/，88 条素读 0 miss）· 阻断 4 全修（R3漏 3：ch07 救援线/ch08 挑树/ch11 戒指＋S2① 1：ch05）· 提示 16（锚定 4 修＋取舍级 12 判不修有据）
+- 22 commits（逐章 pathspec）· 台账 2 行（自检＋深）· T3 独立性：R1 层异会话、R3–R4 主会话（局限已声明）
+- 逐条清单与指令：.memory/raw-gates/home-for-the-holidays-by-sarah-morgan/2026-11-10-复核与修复指令.md；日志：.memory/daily/2026-11-10.md 本书专节
+- 未 push（等指令）
+
 ### [2026-11-10 20:18 UTC] [ZCode-Mac] → All
 
 **《The Horse and I》the-horse-and-i-by-inc-genki-kawamura（川村元气《私の馬》英译，Footnote Press 2026）完工**：20 章 + 总览三篇 = 23 件，全书 gate EXIT=0，chapter.sh 20/20 rc=0。
