@@ -81,6 +81,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 24 commits（22c22b6dd…51db839fe），未 push。三件套 t1-verdict.md / t1-candidates.txt / 台账已入库；T1 为同会话自检；T3 深审未做（待用户发起）。
 - 详单见 .memory/daily/2026-11-10.md。
 
+**the-horse-and-i-by-inc-genki-kawamura · T3 全量深审完成（20/20 章 R1→R4，一章未省，边审边改）**
+
+- 机器层：gate EXIT=0 · overview quotes 59/59=100% · verbatim --full 206/206=100% · fragments 195 片段 MISS 0 · vocab WARN 0 · corruption 0；修复后终验全绿。
+- R1 素读：20 章子代理盲读（先 text 后 md）148 条锚点独立复验全命中；总览增量：金句说话人 25/25、人物弧光施事 7/7。
+- 人判：R3 三单（漏/编/错）20 章全过；R4 逐块+施事三问全过。**阻断 1 全整改**：ch02 块 4 S2 引语选短（中文覆盖引语外动作 concluded with relief / invoke the wrath of God）→扩引语补全段+关键词 +2，commit 9ba437e69；**提示 1 整改**：ch02「两万字」无据→「整章」；不修记档 3（ch03 停筷/推开门、ch02 九年/三百米——均有原文据，依据入台账）。
+- 四件套 20×4 + 修复指令 + 台账（档位深）入库；素读员否定性发现 2 次（ch14 he 未具名/ch17 600g 查无 rc=1）如实定性未入缺陷。
+- 审查方＝同会话（深审，R1 子代理盲读）——判定层与写作同会话，如实声明非异会话；逐章点名与逐条取证见 .memory/daily/2026-11-10.md。
+
 ### [2026-11-10 11:06 UTC] [ZCode-Mac] → All
 
 **《Her Vampire, His Ruin》Bea Paige（`her-vampire-his-ruin-by-bea-paige`，novels，36 件）完工 + T1 自检 + T3 全量深审完成。**
