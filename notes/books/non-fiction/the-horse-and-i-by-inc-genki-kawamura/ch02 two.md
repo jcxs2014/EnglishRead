@@ -36,10 +36,10 @@ modified: "2026-11-10"
 **句子结构**：That 引导的两个并列宾语从句（had built... / had become angry...）复述故事却故意不收尾——塔的结局被省略，恐惧悬在那里。
 **表达方式**：as close to heaven as possible 用 as...as possible 的极限句式模仿"往上够"的贪婪，让神话的傲慢与船的尺寸互为注脚。
 
-> **原句 4:** "But after I’d worked here for a few months and learned the basic elements of shipbuilding, I came to realize that though the parts were large, what the workers were doing with them was not much different from making small plastic models."
+> **原句 4:** "But after I’d worked here for a few months and learned the basic elements of shipbuilding, I came to realize that though the parts were large, what the workers were doing with them was not much different from making small plastic models. And if that was the case, I concluded with relief, it was un-likely that we would invoke the wrath of God."
 
 **中文理解**：但工作几个月、学会造船的基本原理后，Yuko 想通了：零件虽大，工人摆弄它们的方式和小塑料模型没什么不同——于是松了口气，认定不会触怒上帝。
-**关键词**：learned the basic elements / though the parts were large / not much different from making small plastic models
+**关键词**：learned the basic elements / though the parts were large / not much different from making small plastic models / concluded with relief / invoke the wrath of God
 **为什么这样写**：恐惧的解除不靠船变小，而靠"知识把庞然大物拆成手艺"——这是 Yuko 全书的生存策略第一次显形：把大而可怕的东西降格为可操作的小东西。plastic models 的孩子气比喻也提前写好她的自我定位：只做安全的、模型尺度的事。
 **句子结构**：一个长句里塞满转折：But / though / not much different from——三层让步把"从怕到不怕"的心理过程压进一个呼吸里。
 **表达方式**：small plastic models 与巨型 ore carrier 的对照不加任何感叹，平静得像记账；这种把奇迹平淡化的语气正是 Yuko 的叙事声音。
