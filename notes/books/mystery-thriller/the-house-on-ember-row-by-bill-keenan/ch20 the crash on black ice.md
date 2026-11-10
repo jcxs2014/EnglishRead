@@ -27,7 +27,7 @@ modified: "2026-11-11"
 
 > **原句 3:** ""I know this isn't simple. I know it's not just some easy, clean thing. But—" he exhaled forcefully, like he was gathering the words before letting them go, "I really want you to try to work things out with Eloise.""
 **中文理解**：Gordon 坦承这不简单、不是一句干净话能解决的事——但他仍用力吐出一口气，像把词聚齐再放飞：他真心想让 Quinn 试着与 Eloise 和好。
-**关键词**：not simple / exhaled / work things out
+**关键词**：isn't simple / exhaled / work things out
 **为什么这样写**：先用两个让步（知道难、知道不干净）卸掉说教的锋利，再交付请求——gathering the words before letting them go 把「开口劝人」写成放生；这是 Gordon 全书最不具攻击性的一次施压，作者让诚意先于立场抵达。
 **读者视角提示**：注意「clean」一词与案件线的 clean bow 遥相呼应——他劝的和解与查的案子，都在跟「被人为抹平的东西」较劲。
 
