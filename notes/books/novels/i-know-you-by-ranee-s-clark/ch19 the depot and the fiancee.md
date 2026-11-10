@@ -94,10 +94,12 @@ modified: "2026-11-10"
 **读者视角提示**：记住 Mrs. Barrow 的三个情报：Quint「一直在说你」、Catherine 不许她随去英国、Catherine 看不起美国的一切——三条信息共同拼出这桩婚事的底色。
 
 > **原句 9:** I have always known you had your own mind.
+>
+> The words strike me, as does remembering Quint’s face when he said them, the familiarity and the adoration. I look down at the bed to hide my emotions.
 
 **中文理解**：Mrs. Barrow 的一句闲谈勾出 Quint 在 1928 说过的话——「我一直知道你有主见」。这句话连同他当时的脸（熟悉、爱慕）一起砸回 Clara 心里。她低头看床单来藏住情绪。
 
-**关键词**：always known / your own mind / I look down at the bed
+**关键词**：always known / your own mind / the familiarity and the adoration
 
 **为什么这样写**：作者让记忆以「引句回放」的方式闪现——同一句话在两个时空（1928 亲耳听、1938 被人转述）中重放，熟悉感不需要任何超自然解释就完成了递归。这是「记忆会淡」理论的反证：有些话越放越清晰。
 
@@ -126,7 +128,7 @@ modified: "2026-11-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | art deco | 装饰艺术风格（1920s–30s） | the main diamond is small, probably half a carat, and European cut, but it's flanked on all sides by dozens of smaller ones in an oval-shaped, art deco pattern. |
-| victory rolls | 胜利卷（1940s 军工发型） | Her small, pink lips are thin with disapproval.（jet-black hair styled in sleek victory rolls） |
+| victory rolls | 胜利卷（1940s 前卫发型） | He moves to a striking woman with jet-black hair styled in sleek victory rolls and smooth barrel curls. |
 | prudish | 古板拘谨的 | Kitty laughs. "Oh, stop being so prudish. It's Quint's house, not yours." |
 | wistfulness | 怅惘、眷恋 | letting wistfulness seep into my tone |
 

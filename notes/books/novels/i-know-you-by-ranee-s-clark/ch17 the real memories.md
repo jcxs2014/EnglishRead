@@ -79,7 +79,7 @@ modified: "2026-11-10"
 
 **中文理解**：盯着手机壁纸上与 Ben 的合影三十秒——照片里的她笑得像恋爱中的人——Clara 对自己念出定案词：那是我真实的生活，那些才是我真实的记忆。两声「real」是宣言，也是祷告。
 
-**关键词**：real life / real memories / going back to checking in books
+**关键词**：real life / real memories / I nod resolutely to myself
 
 **为什么这样写**：作者让「真实」需要靠 repetition 来确认——真正的真不需要重复两遍；她要说服的对象是那帧没来得及成形的幻象。手机壁纸的功能与 1901 的镜子镜像：都是她用来定位「此刻属于哪边」的界面。
 
