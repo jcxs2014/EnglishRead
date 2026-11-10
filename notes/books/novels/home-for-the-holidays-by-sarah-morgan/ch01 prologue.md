@@ -14,12 +14,12 @@ modified: "2026-11-10"
 
 ## 精读
 
-> **原句 1:** "‘MUMMY, I’ve written my letter to Santa.’ Bryony tucked the duvet round her daughter and clicked on the pink bedside light. A warm glow spread across the room, illuminating a small mountain of soft toys and dressing-up clothes."
+> **原句 1:** "Bryony tucked the duvet round her daughter and clicked on the pink bedside light. A warm glow spread across the room, illuminating a small mountain of soft toys and dressing-up clothes."
 
-**中文理解**：睡前时刻，Lizzie 向妈妈报告自己已经写好了给圣诞老人的信。Bryony 替女儿掖好羽绒被，拧亮粉色床头灯，暖光洒满房间，照亮一小山似的软玩具和扮家家的衣裳。
-**关键词**：MUMMY / duvet / bedside light / soft toys / dressing-up clothes
-**为什么这样写**：开篇先用孩子的呼喊立住母女关系，再用床头灯的暖光与满地玩具铺出一个有温度的育儿场景；「MUMMY」全大写是孩子的音量，也是全书童趣基调的第一声。
-**读者视角提示**：粉色床头灯这类细节是这对母女日常质感的锚点，后文还会反复出现；此时不必急着猜礼物内容，作者刻意只给「已写好信」这一个信息。
+**中文理解**：Bryony 替女儿掖好羽绒被，拧亮粉色床头灯；暖光漫过房间，照亮一小山似的软玩具和扮家家的衣裳。
+**关键词**：duvet / bedside light / soft toys / dressing-up clothes
+**为什么这样写**：开篇先给光再给事件：床头灯的暖光与满地玩具把睡前收拾写成有温度的日常仪式——收拾的是孩子丢下的衣服，带娃的疲惫与温情都落在这一串动作里。
+**读者视角提示**：粉色床头灯这类物件细节是这对母女日常质感的锚点，后文还会反复出现；此时不必急着猜礼物内容，作者刻意只给「已写好信」一个来自前一句的信息。
 
 > **原句 2:** "‘But I know what I want, so I thought I might as well write to him now.’ Lizzie reached for the stuffed mermaid that she always slept with. ‘And anyway, this present is special so he might need some time to find exactly the right one.’"
 
@@ -35,12 +35,12 @@ modified: "2026-11-10"
 **为什么这样写**：一句应付孩子的托词接一段财务自白，把童年神话瞬间拉回成人世界的账本；「outlandish」提前为结尾的惊人愿望做铺垫——她的担心方向没错，只是低估了量级。
 **读者视角提示**：这是女主的底牌交代：医生、单亲、会算钱。结合上一块的「special」，读者此刻应该已经在心里替她列清单了；注意她担心的是「贵」，而非「不可能」。
 
-> **原句 4:** "Lizzie lay back on the pillow, a contented smile spreading across her face. ‘A daddy,’ she breathed happily. ‘For Christmas this year, I really, really want a daddy.’"
+> **原句 4:** "‘A daddy,’ she breathed happily. ‘For Christmas this year, I really, really want a daddy. And I know that Santa is going to bring me one.’"
 
-**中文理解**：Lizzie 满足地躺回枕头，笑容漾开，轻声说出愿望：今年圣诞节，她真的、真的很想要一个爸爸。
-**关键词**：contented smile / A daddy / really, really
-**为什么这样写**：铺垫了整整一章的「special」原来不是物件而是人——愿望的量级在此翻倍；「contented smile」与「breathed happily」说明孩子毫无心机，正因这份无辜，愿望的分量才更重。
-**读者视角提示**：标题与主线在此扣合，圣诞言情的核心承诺（愿望成真）正式立起；「really, really」的重复是孩子式强调，也提醒读者这是孩子的逻辑——在她的世界里，愿望只需要说出来就会实现。
+**中文理解**：Lizzie 轻声说出愿望：今年圣诞节，她真的、真的很想要一个爸爸——而且她笃定圣诞老人会带来一个。
+**关键词**：A daddy / really, really / Santa
+**为什么这样写**：铺垫了整整一章的「special」原来不是物件而是人——愿望的量级在此翻倍；「breathed happily」说明孩子毫无心机，正因这份无辜，愿望的分量才更重。
+**读者视角提示**：标题与主线在此扣合，圣诞言情的核心承诺（愿望成真）正式立起；「really, really」的重复是孩子式强调——在她的世界里，愿望只需要说出来就会实现。
 
 ## 本章词汇
 
