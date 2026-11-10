@@ -1,0 +1,36 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch10",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch10_julianne_tell_s_all.txt",
+ "facts": [
+  {
+   "fact": "Julianne 头条：Ashton 与两大黄金单身汉共进午餐被目击。",
+   "anchor": "Skillett’s favorite daughter is back! Miss Ashton Tanner has been spotted out and about in town, enjoying lunch with Farrow County’s two most eligible bachelors, Jody Fisher and Brooks Hart.",
+   "start": 39,
+   "end": 229
+  },
+  {
+   "fact": "Julianne 调侃：给其余人留点男人吧，欢迎回家。",
+   "anchor": "Save some man for the rest of us, Ashton—and welcome home!",
+   "start": 230,
+   "end": 288
+  },
+  {
+   "fact": "另一条：Talia 季末清仓本周开始、持续到月底。",
+   "anchor": "Also in Skillett, Talia is clearing out! Her famed end of season sale starts this week and runs through the end of the month",
+   "start": 291,
+   "end": 415
+  }
+ ],
+ "relations": [
+  "Julianne Tell 是三镇八卦专栏主持人",
+  "Jody Fisher 与 Brooks Hart 是专栏点名的两位单身汉",
+  "Talia 经营服装店（季末清仓）"
+ ],
+ "numbers": [
+  "two most eligible bachelors（两人并列）",
+  "end of the month（清仓截止）"
+ ],
+ "verified": "3/3 anchors found in text",
+ "source": "主会话 R1（B2 批遗漏补做；只读 text/，锚点 find() 现算）"
+}

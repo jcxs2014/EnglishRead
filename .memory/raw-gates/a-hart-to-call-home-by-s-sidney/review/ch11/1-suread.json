@@ -1,0 +1,76 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch11",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch11_9_brooks.txt",
+ "facts": [
+  {
+   "fact": "Ashton 满身泥冲进厨房讨烈酒，Brooks 替她解释 cowgirl glitter。",
+   "anchor": "“S’not dirt,” she argues with a pout. I know she’s grumpy, but it’s kind of adorable",
+   "start": 1670,
+   "end": 1754
+  },
+  {
+   "fact": "回忆：她学 Jody 跳草垛脱手砸在木地板上。",
+   "anchor": "She makes the same jump Jody did, reaching out and grazing her hands along the rope, before losing grip and dropping to the floor",
+   "start": 2858,
+   "end": 2987
+  },
+  {
+   "fact": "Jody 发明 cowgirl glitter 并从她头发里拣出稻草。",
+   "anchor": "“It’s not dirt,” Jody says kindly, picking a piece of straw from her hair and tossing it on the ground. “It’s cowgirl glitter.”",
+   "start": 3814,
+   "end": 3941
+  },
+  {
+   "fact": "小 Brooks 从没听过 cowgirl glitter，但只要 Jody 说了他就信——她笑了，他的胃结就松开。",
+   "anchor": "I’ve never heard of cowgirl glitter before, but if Jody said it, it’s probably true.",
+   "start": 4163,
+   "end": 4247
+  },
+  {
+   "fact": "Ev 说 Ruth 是他老婆、我的就是她的。",
+   "anchor": "New York. Last loose ends to tie up from her old job. She’ll be back tomorrow. Anyway, she’s my wife",
+   "start": 5926,
+   "end": 6026
+  },
+  {
+   "fact": "她听说 Loggins 披萨时整张脸亮起来。",
+   "anchor": "“You got Loggins?” Ashton’s face lights up and I can’t help but grin back.",
+   "start": 7691,
+   "end": 7765
+  },
+  {
+   "fact": "他喊她锁门，她比了个单指礼。",
+   "anchor": "“Lock your doors, Tanner!” I yell. She raises a hand in a one-fingered salute without turning around",
+   "start": 9076,
+   "end": 9176
+  },
+  {
+   "fact": "他知道她要来，整个身体因期待而嗡鸣、冒出想留最好印象的怪念头。",
+   "anchor": "But something about knowing Ashton is on her way over has my whole body buzzing with anticipation, and a strange desire to make the best impression.",
+   "start": 10309,
+   "end": 10457
+  },
+  {
+   "fact": "她走后他进她的厨房——Everett/Jody 帮她搬过家具、Ashton 用「测试烤箱」烤了他最爱的白巧 macadamia 曲奇。",
+   "anchor": "The day I moved in, Ev and Jody helped me move the furniture around, and Ashton “tested” the oven in my kitchen by baking my favorite kind of cookies: white chocolate macadamia.",
+   "start": 9507,
+   "end": 9684
+  }
+ ],
+ "relations": [
+  "Ashton 与 Brooks 自幼互称 devil/demon",
+  "Jody 是 cowgirl glitter 的发明者",
+  "Ruth 是 Ev 的妻子（即将从纽约回来）",
+  "Everett/Jody 是 Brooks 搬家帮手"
+ ],
+ "numbers": [
+  "灯下钻戒（此处无关数字）——本章数字：cowgirl glitter 童年闪回与 designated driver 的攻守易位；年龄轴：sixteen 岁的恶作剧年份（闪回内）"
+ ],
+ "verified": "9/9 anchors hit（short straw 条误置已移往 ch05）",
+ "source": "主会话 R1（B2 批遗漏补做；只读 text/，锚点 find() 现算）",
+ "not_found": [
+  "Brooks drew the short straw as tonight’s designate",
+  "The day I moved in, Ev and Jody helped me move the"
+ ]
+}

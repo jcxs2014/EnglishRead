@@ -50,6 +50,12 @@
    "anchor": "My anti-men stance lasted all of seven days, because after that, I went to the movie theater in Farrow with some girls from my math class",
    "start": 11508,
    "end": 11645
+  },
+  {
+   "fact": "Brooks 抽中下签当指定司机，她调侃攻守易位。",
+   "anchor": "Brooks drew the short straw as tonight’s designated driver.",
+   "start": 4097,
+   "end": 4156
   }
  ],
  "relations": [
@@ -65,6 +71,6 @@
   "three times? Four times?（Brooks 未归次数记不清）",
   "all of seven days（反男人立场）"
  ],
- "verified": "8/8 anchors hit at reported offsets",
+ "verified": "9/9 anchors hit（自检补入 short straw 条）",
  "source": "R1 素读子代理（只读 text/，未见 md）"
 }
