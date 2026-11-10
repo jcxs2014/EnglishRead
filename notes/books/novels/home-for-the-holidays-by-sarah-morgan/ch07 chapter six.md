@@ -110,7 +110,7 @@ modified: "2026-11-10"
 **中文理解**：她轻描淡写说了句「随时效劳」，可危险一过她抖得厉害——Jack 看在眼里，把她拉进怀里，用体温和力气一点点把她焐稳。
 **关键词**：shaking badly / pulled her into his arms / warmth
 **为什么这样写**：「lightly」与「shaking badly」同句对撞——嘴上的逞强交给身体的诚实来揭穿；他「不说只抱」的处理方式，是本章情感的最高音。
-**读者视角提示**：这是本章第二次拥抱——上一次在厨房（他先撤），这一次在雪坡上（她先软）。位置对调，值得玩味。
+**读者视角提示**：这是全书第二次拥抱——上一次在厨房（他先撤），这一次在雪坡上（她先软）。位置对调，值得玩味。
 
 > **原句 15:** "‘Probably not.’ He pulled up outside her house and switched the engine off. ‘So are you going to invite me to supper tomorrow night?’"
 

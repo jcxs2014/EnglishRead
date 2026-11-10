@@ -66,4 +66,4 @@ modified: "2026-11-10"
 | twinkled | （眼睛）发亮、闪耀 | ‘Bigger than a horse?’ Bryony’s eyes twinkled. ‘You’re scaring me, Lizzie. What if Santa can’t find this special present?’ |
 
 ## 一句话总结
-七岁的 Lizzie 提前近两个月把给圣诞老人的信寄去了拉普兰，愿望只有一个：一个爸爸——孩子的无心之言，把单亲妈妈 Bryony 的情感缺口推上了圣诞愿望清单。
+七岁的 Lizzie 提前一个多月把给圣诞老人的信寄去了拉普兰，愿望只有一个：一个爸爸——孩子的无心之言，把单亲妈妈 Bryony 的情感缺口推上了圣诞愿望清单。

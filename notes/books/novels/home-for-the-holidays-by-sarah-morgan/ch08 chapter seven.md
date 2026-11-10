@@ -81,7 +81,7 @@ modified: "2026-11-10"
 
 **中文理解**：他抬手托起她的下巴：「对，取消。」我来做晚饭，裙子你就穿着——你不需要 babysit 了。
 **关键词**：put a hand under her chin / cook dinner / wear the dress
-**为什么这样写**：托下巴的动作把「提案」变成「命令」——三句话全是给予的姿态，却没一句问她想不想；「穿这条裙子」与上一章的「遮住她」正面相撞。
+**为什么这样写**：托下巴的动作把「提案」变成「命令」——三句话全是给予的姿态，却没一句问她想不想；「穿这条裙子」与他先前嫌这裙子的两次发作（Chapter Three 的外套遮身、Chapter Five 的「虚伪」骂战）正面相撞。
 **读者视角提示**：还记得他嫌黑裙「信号错误」吗？——同一条裙子，今晚他亲手把她留给自己的目光里。
 
 > **原句 11:** "‘You blush easily, Blondie, do you know that?’ His voice was a soft, teasing drawl and Lizzie clapped her hands."
