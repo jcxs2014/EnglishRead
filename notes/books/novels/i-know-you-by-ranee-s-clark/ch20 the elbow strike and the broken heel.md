@@ -27,7 +27,7 @@ modified: "2026-11-10"
 
 **中文理解**：Quint 说自己还有几周假期就要回伦敦报到——他加入了英国皇家空军。两个字母落进客厅，战争从报纸背景变成他的军装：1938 年的每段人生都在往战场移动。
 
-**关键词**：RAF / a few weeks of leave / report back to London
+**关键词**：RAF / report back to London / engulf Europe
 
 **为什么这样写**：作者用最短的答案给出最重的信息——RAF 两个字母自带历史重量（不列颠空战的预感）。Clara 的反应（half fearful, half admiring）写出了所有 21 世纪人对二战投身者的复杂心情：知道结局的人看壮士出征。
 
