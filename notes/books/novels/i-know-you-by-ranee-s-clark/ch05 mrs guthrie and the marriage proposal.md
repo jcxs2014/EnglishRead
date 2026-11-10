@@ -37,7 +37,7 @@ modified: "2026-11-10"
 
 **中文理解**：火车每一次震颤，Ben 都伸手护住装镜子的木箱——Clara 光是看就被焦虑淹没：她才困了两天就快心脏受不了，何况被困两年的他。她咬着舌头不敢把「镜子会不会碎」说出口。唯一回家的路，被护送在同一节车厢里。
 
-**关键词**：anxiety / protective hand / the mirror could have been broken
+**关键词**：anxiety / bite my tongue / the mirror could have been broken
 
 **为什么这样写**：作者让「护镜」成为本章的动作主旋律——Ben 每一次伸手都是一次无声的告白（镜子的优先级高于一切体面）。Clara 咬住舌头的克制写出了她对这面镜子的态度转变：从衣帽间的猎奇物，变成两个人的命脉。
 

@@ -148,7 +148,7 @@ modified: "2026-11-10"
 | muslin | 细纱、平纹细布（旧时女装面料） | There's a lovely white muslin day dress with a lace overlay. |
 | charade | 假面戏、装出来的场面 | This charade is far more fun than my leisurely days at The Villa. |
 | constrict | 收紧、压迫 | My throat constricts even though I was just thinking of this. |
-| eccentricity | 怪癖、古怪之处 | "One of the many eccentricities the staff are used to here," he says in a low voice. |
+| eccentricities | 怪癖、古怪之处（复数） | "One of the many eccentricities the staff are used to here," he says in a low voice. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
