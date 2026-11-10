@@ -1,0 +1,55 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch01",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "开场：睡前 Lizzie 宣布她已经写好了给圣诞老人的信——Bryony 在给女儿掖被角。",
+   "anchor": "MUMMY, I’ve written my letter to Santa.",
+   "start": 37,
+   "end": 76
+  },
+  {
+   "fact": "Bryony 打趣：才刚十一月，写信太早——但女儿说装饰品已经满店都是。",
+   "anchor": "Sweetheart, it’s only just November. Don’t you think it’s a little early to be writing to Santa?",
+   "start": 267,
+   "end": 363
+  },
+  {
+   "fact": "悬念抛出：Lizzie 咬定这份礼物「很特别」，圣诞老人得花时间才能找到对的那个。",
+   "anchor": "this present is special so he might need some time to find exactly the right one.",
+   "start": 846,
+   "end": 927
+  },
+  {
+   "fact": "人物底牌：Bryony 医生薪水不薄，但是单亲妈妈，花钱得精打细算——怕礼物太贵。",
+   "anchor": "Her doctor’s salary was generous, but she was a single mother and she had to watch her expenditures.",
+   "start": 2231,
+   "end": 2331
+  },
+  {
+   "fact": "追悔莫及：Lizzie 已经跟外婆去邮局把信寄走，邮局说会一路寄到拉普兰的圣诞老人手里。",
+   "anchor": "I went into the post office with Grandma and they said that if I posted it there it would go all the way to Santa in Lapland.",
+   "start": 2487,
+   "end": 2612
+  },
+  {
+   "fact": "Bryony 心里盘算：多半得跑一趟伦敦，除非网络能帮上忙。",
+   "anchor": "Bryony sensed a trip to London coming on. Unless the internet could oblige.",
+   "start": 2891,
+   "end": 2966
+  },
+  {
+   "fact": "猜错方向：Bryony 屏息祈祷别是宠物——全职工作加单亲带娃已是极限，养动物就是压垮她的最后一根稻草。",
+   "anchor": "Bryony held her breath, hoping desperately that it wasn’t a pet.",
+   "start": 3928,
+   "end": 3992
+  },
+  {
+   "fact": "落点：Lizzie 满足地躺回枕头说出愿望——今年圣诞节她真的、真的很想要一个爸爸，而且相信圣诞老人会带来。",
+   "anchor": "A daddy,",
+   "start": 4915,
+   "end": 4923
+  }
+ ]
+}
