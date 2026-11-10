@@ -1,0 +1,43 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch33",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch33_chapter_thirty_three.txt",
+ "facts": [
+  {
+   "fact": "Everett 路线图（一）：大陪审团闭门采证——没有辩方、没有交叉质证，只有陪审团听州方陈述决定是否正式起诉；transcript 若不公布你连说了什么都不知道。",
+   "anchor": "It’s a one-sided show.",
+   "start": 1615,
+   "end": 1637
+  },
+  {
+   "fact": "路线图（二）：审前动议是法律象棋——申请排除证据（呼气检测被污染？事故重建有缺陷？）；全扔上墙看哪个粘住。",
+   "anchor": "We throw everything at the wall",
+   "start": 2902,
+   "end": 2933
+  },
+  {
+   "fact": "认罪协商价：按三项罪名，检方大概出 5–7 年换认罪、不上庭、服刑后假释；「也许砍得更低，如果谈得狠」。",
+   "anchor": "five to seven years",
+   "start": 3365,
+   "end": 3384
+  },
+  {
+   "fact": "陪审团心理学：陪审员不喜欢对悲伤的家人说「这只是事故」——他们要一个能怪罪的人。",
+   "anchor": "They want someone to blame.",
+   "start": 4618,
+   "end": 4645
+  },
+  {
+   "fact": "审判的代价：一旦上庭，过去的一切都会被挖出——每个错误、每笔烂账、每杯酒；他们会把陪审团眼里的你钉成「杀了人的家伙」，而不是「犯了错的人」。",
+   "anchor": "every drink you’ve ever had",
+   "start": 5005,
+   "end": 5032
+  },
+  {
+   "fact": "两帧画像：全章以这两个 label 的对立收束——法律叙事的残酷在于选哪一帧展示你。",
+   "anchor": "the guy who made a mistake",
+   "start": 5192,
+   "end": 5218
+  }
+ ]
+}
