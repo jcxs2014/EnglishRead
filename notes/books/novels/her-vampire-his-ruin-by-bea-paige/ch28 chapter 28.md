@@ -57,13 +57,13 @@ modified: "2026-11-10"
 **读者视角提示**：注意她拒绝的是信任，不是帮助——她后面还是跟 Sybil 走了。
 
 
-> **原句 5:** "Whatever you did, whatever you brought out of him, it broke through my shields. I was incapacitated by it. He cares for you deeply, far more than he has ever cared for anyone."
+> **原句 5:** "Whatever you did, whatever you brought out of him, it broke through my shields. I was incapacitated by it. He cares for you deeply, far more than he has ever cared for anyone. Now all I feel is his pain. He means to end his life. I know it.”"
 
-**中文理解**：Sybil 说她们之间有超越 maker 的联系：他感受什么，她就感受什么；昨夜他的感情冲破她的防线；他非常在乎 Edie，超过任何人；现在她只感觉到他的痛苦——他要自杀。
+**中文理解**：Sybil 说：昨夜 Edie 逼出来的那些感情冲破了她的防线，让她无法自持；他非常在乎 Edie，超过他以往在乎过的任何人；现在她只感觉到他的痛苦——他要自杀。
 
 **关键词**：He cares for you deeply / all I feel is his pain / He means to end his life
 
-**为什么这样写**：这段把「maker 联系」的规则变成情节引擎：Sybil 不是来传话的，她是活体监测器。作者用「I feel it all」和「all I feel is his pain」的对照，让她的证词既有分量又可疑——她可能是唯一知道真相的人，也可能是最想撒谎的人。
+**为什么这样写**：这段把「maker 联系」变成情节引擎：Sybil 不是来传话的，她是活体监测器。作者用「broke through my shields」「incapacitated」证明她是被动承受，再借情敌之口给出最高级别的证词——「far more than he has ever cared for anyone」。她可能是唯一知道真相的人，也可能是最想撒谎的人。
 
 **读者视角提示**：记住「he cares for you deeply」——这句话从情敌嘴里说出来，比 Dorian 自己承认更可信。
 
