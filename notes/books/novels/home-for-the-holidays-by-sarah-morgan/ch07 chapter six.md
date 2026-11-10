@@ -77,12 +77,12 @@ modified: "2026-11-10"
 **为什么这样写**：「instantaneous」是关键词——防御反应快过思考，说明判断已经长进本能；当着全队抢人，嫉妒第一次公开作业。
 **读者视角提示**：他的理由永远找不到台面（怕她摔？怕 Toby？）——因为真理由见不得人。
 
-> **原句 10:** "She stopped dead. He thought her legs were sexy? He’d never said anything like that to her before."
+> **原句 10:** "‘It’s an artery, Jack,’ she muttered and he was by her side in an instant, the bulk of his shoulders providing a barrier between her and the elements."
 
-**中文理解**：她当场钉在原地——他居然觉得她的腿性感？他从没对她说过这种话。
-**关键词**：stopped dead / legs were sexy / never
-**为什么这样写**：用她的「死机」给他的失言称重——二十多年的发小语言体系里从无此类词条；她的惊讶与窃喜同时上账。
-**读者视角提示**：雪地里这句「腿性感」是「外套事件」的反面——同一双腿，他终于承认自己看得见。
+**中文理解**：按压一松、血喷了出来——「是动脉，Jack」；话音未落他已到她身边，宽厚的肩膀替她挡住风雪。
+**关键词**：artery / in an instant / barrier
+**为什么这样写**：「in an instant」与「barrier」一记组合拳——他既是她的后援又是她的墙，专业协作与身体庇护在同一句里完成；风雪里的肩膀把「依靠」写成了实物。
+**读者视角提示**：Chapter Four 那次她冻结了三秒，这一次她的判断又快又准——急救搭档的默契，是两人关系里最稳的那条跑道。
 
 > **原句 11:** "She jerked to a halt and hung there for a moment, suspended, her heart hammering against her chest, her hands tightly locked on her ice axe, which was the only thing holding her on the slope."
 
