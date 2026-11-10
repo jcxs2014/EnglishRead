@@ -1,0 +1,67 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch31",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch31_28_brooks.txt",
+ "facts": [
+  {
+   "fact": "Jody 打电话改计划：Ashton 偏头痛需要帮忙，Ev 与 Ruth 已先走，轮到 Brooks。",
+   "anchor": "Ashton is out on the ranch somewhere with a migraine and needs help. He and Ev leapt into Ev’s truck, with Ruth in the back, and now it’s my turn.",
+   "start": 381,
+   "end": 527
+  },
+  {
+   "fact": "他开灯看见床上摊开的半装箱子——轮子刻意朝外悬在床沿。",
+   "anchor": "I flick on her bedroom light to find a half-packed suitcase lying open on her bed, wheels carefully positioned to hang off the side.",
+   "start": 1362,
+   "end": 1494
+  },
+  {
+   "fact": "他不想她走，却还是拉上箱链、推到角落，然后去浴室。",
+   "anchor": "I zip the suitcase, careful not to disturb anything inside it, and wheel it to the corner of the room. Then I head for the bathroom.",
+   "start": 1950,
+   "end": 2082
+  },
+  {
+   "fact": "浴室柜里找到药，还看到镜后并排的纸杯蛋糕味唇膏。",
+   "anchor": "Everett found her medicine in the cabinet, so I stop there next, smiling when I see several lined-up tubes of that cupcake lip balm behind the mirrored door.",
+   "start": 2538,
+   "end": 2695
+  },
+  {
+   "fact": "他抱来新床单换上，又拿干净杯子装满水。",
+   "anchor": "I grab a fresh set of bed sheets from the cupboard in the hallway and change them, then grab a clean glass from the kitchen and fill it with water.",
+   "start": 3012,
+   "end": 3159
+  },
+  {
+   "fact": "从 Ev 口中得知：偏头痛时陪她说话的是 Jody 的哥哥 Reston。",
+   "anchor": "And yet, Reston was the one who was talking to her when a migraine hit and she needed help.",
+   "start": 3929,
+   "end": 4020
+  },
+  {
+   "fact": "他向 Ev 汇报：换了新床单、药放床头柜、浴室铺毛巾。",
+   "anchor": "I put fresh sheets on her bed, left her meds on her night stand. I laid some towels down in case she gotta get friendly with the bathroom floor.",
+   "start": 4653,
+   "end": 4797
+  },
+  {
+   "fact": "他去马厩看 Mayo——她的 soul horse，Jody 跟它没那么熟。",
+   "anchor": "Mayo is a special one—he’s Ashton’s soul horse—and he doesn’t know Jody nearly as well as he knows me and Ev.",
+   "start": 5155,
+   "end": 5264
+  }
+ ],
+ "relations": [
+  "Ashton 是他最好的朋友（As much my best friend as her brother is）",
+  "Ashton 是 Ev 的亲妹妹，Ev 是 Brooks 的最好朋友",
+  "她与 Reston 一直保持密切电话往来——Brooks 原不知道"
+ ],
+ "numbers": [
+  "fifteen seconds 换装",
+  "茶巾十五年",
+  "航班 tomorrow night"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch33",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch33_30_brooks.txt",
+ "facts": [
+  {
+   "fact": "她已走四个小时；Ev 送机回来，Jody 与他在后廊等。",
+   "anchor": "She’s been gone four fucking hours. Everett got back from dropping her at the airport and Jody and I were on his back porch, waiting for him.",
+   "start": 72,
+   "end": 213
+  },
+  {
+   "fact": "二十二岁时他向好友说要追其妹妹，被一拳打断下巴。",
+   "anchor": "The first time this scenario played out in my mind, I was twenty-two. I told my best friend I wanted to date his sister and he punched me so hard he broke my jaw.",
+   "start": 466,
+   "end": 628
+  },
+  {
+   "fact": "他没意识到自己说出了声，直到 Ev 冲到他面前。",
+   "anchor": "I don’t even realize I’ve spoken out loud until Everett is in my face. He might be seven inches shorter than me but he might as well be a whole foot taller right now",
+   "start": 2665,
+   "end": 2830
+  },
+  {
+   "fact": "Ev 一掌推向他的胸口，他不反抗，被推到后墙困住。",
+   "anchor": "instead, I stumble as I take a backward step, letting him shove me against the back wall of his cabin and cage me in.",
+   "start": 3531,
+   "end": 3648
+  },
+  {
+   "fact": "他向 Ev 承认：她回来后两人处了几周到一月、约定谁都不说，然后他搞砸了。",
+   "anchor": "We had a little thing when she came back. Few weeks, maybe a month. We both swore not to say a word. And then I fucked up, and she went back to New York.",
+   "start": 6556,
+   "end": 6709
+  },
+  {
+   "fact": "他对 Ev 喊「我爱她」，承认一直爱她。",
+   "anchor": "I love her!” I spit. “I fucked up. But I fucking love her, man. Always have. Didn’t know it then, but now it’s clear as fucking day.",
+   "start": 6886,
+   "end": 7018
+  },
+  {
+   "fact": "Ev 给祝福并让他滚出去把人追回来。",
+   "anchor": "The fuck are you waiting for, Hart?” Everett says after a moment of silence. “If you want my blessing, you got it. Get the fuck out of here.",
+   "start": 10110,
+   "end": 10250
+  },
+  {
+   "fact": "得到祝福后他胡乱塞背包，再赴机场——这次把自己的女孩接回家。",
+   "anchor": "And now that Ev has given me his blessing to love Ashton out loud the way I’ve always loved her in secret, I’m about to head to the airport again. This time, to bring my own girl home.",
+   "start": 11669,
+   "end": 11853
+  }
+ ],
+ "relations": [
+  "Brooks 与 Ashton 是秘密恋人（几周至一月后破裂）",
+  "Brooks 与 Ev 是挚友兼准大舅子——Ev 最终给祝福",
+  "Jody 是降温者并坦承曾起疑",
+  "Ev 与 Ashton 自出生起极亲近"
+ ],
+ "numbers": [
+  "four fucking hours",
+  "twenty-two 岁",
+  "seven inches 身高差",
+  "Ruth 恐慌电话 eight months ago",
+  "a hundred times / A thousand 预演遍数"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}

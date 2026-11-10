@@ -1,0 +1,70 @@
+{
+ "book": "a-hart-to-call-home-by-s-sidney",
+ "chapter": "ch32",
+ "text": "notes/books/novels/a-hart-to-call-home-by-s-sidney/text/ch32_29_ashton.txt",
+ "facts": [
+  {
+   "fact": "醒来时快八点——手机插着电，旁边是 Advil 与半杯水。",
+   "anchor": "A quick glance at my phone—plugged in on my nightstand, next to a strip of Advil and a half-full glass of water—says it’s almost eight.",
+   "start": 183,
+   "end": 318
+  },
+  {
+   "fact": "她对 Ruth 说没东西吃、航班今晚起飞、冰箱昨天清空。",
+   "anchor": "I don’t think I have any food. My flight leaves tonight. I emptied out my fridge yesterday.",
+   "start": 1435,
+   "end": 1526
+  },
+  {
+   "fact": "Ruth 带来早餐材料并说「我带了早餐」。",
+   "anchor": "I brought breakfast with us. Everett says you’re an eggs for breakfast girl?",
+   "start": 2089,
+   "end": 2165
+  },
+  {
+   "fact": "与父母待一小时后去机场，空客起飞时她无声地哭。",
+   "anchor": "We spend an hour with Mom and Dad before hitting the road for the airport, and I cry silently as the Airbus takes off into the Texas sunset.",
+   "start": 5005,
+   "end": 5145
+  },
+  {
+   "fact": "落地拉瓜迪亚后公交系统混乱——三趟公交两趟地铁才到家。",
+   "anchor": "I landed into LaGuardia airport as the heavens opened, and thanks to some kind of public transit meltdown, it took three buses and two different subway trains to get home.",
+   "start": 5563,
+   "end": 5734
+  },
+  {
+   "fact": "第一支药含贝类衍生物，医生没看出来——立刻过敏。",
+   "anchor": "because the first medicine I tried contained shellfish derivatives that my doctor didn’t notice, and—naturally—I had an immediate allergic reaction.",
+   "start": 6986,
+   "end": 7134
+  },
+  {
+   "fact": "两个月前她飞回德州、毫无预警倒进 Brooks 怀里。",
+   "anchor": "Two months ago, I flew home to Texas and without even trying—without any warning at all from my beat-up, just-barely-healing heart—fell into the arms of the one man who knows me better than anyone else.",
+   "start": 8675,
+   "end": 8877
+  },
+  {
+   "fact": "两人相爱两个月后亲手打破这段关系。",
+   "anchor": "We had two perfect months of falling all the way in, of building something beautiful. And then between us, we broke it.",
+   "start": 9608,
+   "end": 9727
+  }
+ ],
+ "relations": [
+  "Everett 是她亲哥哥",
+  "Ruth 是她嫂子（sister-in-law）",
+  "Harriet 惯做奶酪 sriracha 炒蛋",
+  "Brooks 是她一生最懂她的人"
+ ],
+ "numbers": [
+  "almost eight 起床时刻",
+  "At thirteen years old 首次偏头痛",
+  "three years later 确诊 episodic migraine disorder",
+  "Two months ago",
+  "seventeen hundred miles 裂谷"
+ ],
+ "verified": "8/8 anchors hit at reported offsets",
+ "source": "R1 素读子代理（只读 text/，未见 md）"
+}
