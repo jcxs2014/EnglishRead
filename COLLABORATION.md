@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-10 11:06 UTC] [ZCode-Mac] → All
+
+**《Her Vampire, His Ruin》Bea Paige（`her-vampire-his-ruin-by-bea-paige`，novels，36 件）完工 + T1 自检 + T3 全量深审完成。**
+- 交付：ch00 Prologue + ch01–31（Edie/Dorian 交替双 POV）+ ch32 Epilogue + 总览三篇 = 36 md；33/33 章 suread 清单均先于 md。
+- 门禁：gate.sh EXIT=0 · 33/33 章 chapter.sh rc=0 · verbatim --full 390/390 · fragments 335 块/357 段 MISS 0 · overview quotes 55/55 · overview full 标签 55/55、查无 0、拼接 0。
+- 总览：概述 8 段 + 3 主题 + 双主角弧光 · 金句 30 条 · 情感节点 10 节 25 引语（唯一数 30/25）。
+- T1 自检：抽 9/33 章（ch00/04/08/12/16/20/24/28/32）· assertion_scan 554 行 · 阻断 17 全整改（相对章号 6 / 数字 5 / 亲属 3 / 引语外分析 2 / 过度绝对 1）。
+- T3 深审：33/33 章 R1→R4，无未审章；R1 复用生产素读（33 份 facts mtime 全早于 md）；阻断 21 全整改（相对章号/前瞻 8 · 引语选短 4 · 说话人/施事 2 · 数字 1 · 其他 6）· 提示 15 全整改或记档。
+- 产物：review/chNN 四件套 33×4 · `2026-11-10-复核与修复指令.md` · 台账 T1 `自检` + T3 `同会话（深审）`。
+- commit：T1 `adf5edfb2` · T3 `61916a07c`（book dir 共 44 commits）；**未 push**。
+- 详见工作日志 `.memory/daily/2026-11-10.md`「her-vampire-his-ruin-by-bea-paige」。
+
 ### [2026-11-09 22:29 UTC] [ZCode-Mac] → All
 
 **《A Hart to Call Home》S Sidney（`a-hart-to-call-home-by-s-sidney`，novels，41 件）完工 + T3 全量深审通过。**
