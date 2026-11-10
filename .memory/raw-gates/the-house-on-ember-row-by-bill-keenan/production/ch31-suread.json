@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch31",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch31_chapter_thirty_one.txt",
+ "facts": [
+  {
+   "fact": "家中对质：Eloise 无法接受 25 万无附带条件的馈赠——人不会白送四分之一百万； envelope 摆在两人之间像未爆的雷。",
+   "anchor": "People don’t do that.",
+   "start": 975,
+   "end": 996
+  },
+  {
+   "fact": "Quinn 的定义：Ellison 是收藏家——收藏人、影响力、用常规买不到但都有价码的东西；「他活在影子里，要什么就有什么，不用请求许可」。",
+   "anchor": "Ellison was a collector.",
+   "start": 1553,
+   "end": 1577
+  },
+  {
+   "fact": "保释后的计划：等庭审、等媒体把他的生活拆成细节、等全世界在他走进法庭前先给他定性。",
+   "anchor": "“Now, I wait.”",
+   "start": 2646,
+   "end": 2660
+  },
+  {
+   "fact": "无名信：门铃响、门外无人——门垫上一封厚信，Quinn 名字黑墨手写，匆忙但潦草不乱。",
+   "anchor": "an empty threshold",
+   "start": 3238,
+   "end": 3256
+  },
+  {
+   "fact": "信件核心（一）：写信人自称 Jensen 的朋友——「他聪明到看懂了游戏，却蠢到以为能赢」；太靠近 Ellison 然后就没了。",
+   "anchor": "Cade Jensen was my friend.",
+   "start": 5000,
+   "end": 5026
+  },
+  {
+   "fact": "信件核心（二）：冰让车失控只是官方叙事——刹车被动过手脚？Ellison 宅外的路被动过？你才是目标？他自认偏执但坚称那个世界本就设计成危险的。",
+   "anchor": "Could you have been the target?",
+   "start": 5552,
+   "end": 5583
+  },
+  {
+   "fact": "署名：The Departed（遁走者）——已抢先消失以免自己也被消失；「不会有第二封信」。",
+   "anchor": "—The Departed",
+   "start": 6206,
+   "end": 6219
+  },
+  {
+   "fact": "章末信念动摇：车祸当晚或许不只是悲剧——而是早在他在轮上之前，某件事就已经开始运转。",
+   "anchor": "not just that tragedy had struck that night",
+   "start": 6763,
+   "end": 6806
+  }
+ ]
+}
