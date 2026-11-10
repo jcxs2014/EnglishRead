@@ -1,0 +1,61 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch11",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch11_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "报社凋敝：荧光灯下的长桌曾坐三十个记者现在只剩十二个——Metro 夏天被砍、Sports 传闻下一个，编辑部正在死去。",
+   "anchor": "once held thirty reporters and now held twelve",
+   "start": 699,
+   "end": 745
+  },
+  {
+   "fact": "直接导火索：Gordon 叫 Quinn 进办公室宣布——Features 整个部门今天早上被砍，无人生还。",
+   "anchor": "They shut down Features this morning.",
+   "start": 1567,
+   "end": 1604
+  },
+  {
+   "fact": "Gordon 的私账：Eloise 在用 Clomid、医生还推荐人工授金——不便宜；他怕丢工作的不是工资而是「拿什么养一个家」。",
+   "anchor": "Doctor prescribed her Clomid",
+   "start": 2278,
+   "end": 2306
+  },
+  {
+   "fact": "求生策略：Gordon 的答案是让自己重要到没人敢裁——他要一个埋不掉的大故事，Jensen 也许就是。",
+   "anchor": "We make ourselves too valuable to fire.",
+   "start": 2938,
+   "end": 2977
+  },
+  {
+   "fact": "汇报物证：Quinn 把码头漂白斑讲给 Gordon——漂白不是给自然的，是用于覆盖和抹除的。",
+   "anchor": "there’s a spot that’s too clean",
+   "start": 5035,
+   "end": 5066
+  },
+  {
+   "fact": "定性升级：Quinn 抛出结论——他们找的不是自杀现场，是一桩罪案；血，才是要被漂白水盖掉的东西。",
+   "anchor": "We’re looking for a crime.",
+   "start": 5402,
+   "end": 5428
+  },
+  {
+   "fact": "旧笔记新线索：Gordon 翻出当年的记录——Jensen 死前在推进市中心巨型综合开发（高层+零售+商业），有海外投资人、来路无法追踪的钱。",
+   "anchor": "Massive. Mixed-use development.",
+   "start": 6675,
+   "end": 6706
+  },
+  {
+   "fact": "项目暴毙：Jensen 蒸发后项目无公告无发布会即被封——许可被吊销、投资人四散，「像从未存在过」。",
+   "anchor": "The permits were revoked.",
+   "start": 7348,
+   "end": 7373
+  },
+  {
+   "fact": "章末等式：Gordon 说——如果我们查出是谁杀了那个项目，也许就能查出是谁杀了他。",
+   "anchor": "if we find out who killed the project",
+   "start": 7898,
+   "end": 7935
+  }
+ ]
+}
