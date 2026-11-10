@@ -1,0 +1,96 @@
+{
+  "chapter": "ch11",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch11_eleven.txt",
+  "source_len_chars": 4658,
+  "source_note": "纯素读，仅读 text/ch11_eleven.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者）与 Miu",
+      "did": "清点补给室：我捡起印有 “Safety First” 十字的安全帽、把安全帽逐顶上架清点数量；Miu 捏着焊接服皱眉，抱怨「为什么得替成年男工收拾」",
+      "range": [
+        27,
+        730
+      ],
+      "quote_head": "The narrow supply room was overflowing with",
+      "quote_anchor": "The smell of oxidized male sweat and iron was stifling."
+    },
+    {
+      "n": 2,
+      "who": "Miu",
+      "did": "抱怨 Fujii 从不做这种活、根本不知道这里的状态，扬言要告公司性别歧视，边说边把破旧工作服扔进垃圾袋",
+      "range": [
+        733,
+        949
+      ],
+      "quote_head": "Fujii doesn’t ever do this kind of",
+      "quote_anchor": "Fujii doesn’t ever do this kind of stuff. The state of this place, he has no idea!"
+    },
+    {
+      "n": 3,
+      "who": "Miu",
+      "did": "宣布换岗炸弹：先说「他们快要把那活推给我了」，见我没听懂才补明——「他们要让我做工会账目」",
+      "range": [
+        1108,
+        1361
+      ],
+      "quote_head": "Oh, yeah, I forgot to tell you.",
+      "quote_anchor": "She expanded further, sensing that I had no idea what she was talking about. “They’re trying to make me do union accounting.”"
+    },
+    {
+      "n": 4,
+      "who": "我（叙述者）与 Miu",
+      "did": "我脱口「什么？」、失手把安全帽摔到地上（空洞声响彻房间）、慌忙捡起轻放回架上，反问「可那活你一直干到现在，不是吗？」；Miu 再次撅嘴说「他们大概嫌我太闲、真没礼貌」，又软声问这活累不累，把塞满脏用品的垃圾袋拖到门口放下、叹气说真不想接这活也自知干不好",
+      "range": [
+        1364,
+        2117
+      ],
+      "quote_head": "What?” I reacted without meaning to. I",
+      "quote_anchor": "I dropped a helmet on the floor, and a pathetic, empty sound echoed throughout the room."
+    },
+    {
+      "n": 5,
+      "who": "我（叙述者）",
+      "did": "回想九年里从未有人叫我交出工会会计职位；反正无人接班、这活明摆着是被强派的，并怀疑是 Ushio 在散布谣言",
+      "range": [
+        2120,
+        2394
+      ],
+      "quote_head": "For nine years, I had never been",
+      "quote_anchor": "For nine years, I had never been told to give up my position as the union accountant."
+    },
+    {
+      "n": 6,
+      "who": "Miu 与我（叙述者）",
+      "did": "Miu 提议两人用工会的钱去旅行、问这算不算福利；我暗自推演危机：自己曾多次从工会账户取钱、一半带回家一半放保险柜（保险柜金额已补回原样），现金簿与存折只有我一人经手，若 Miu 来工会做账、细看存折或账本就会看出不对劲",
+      "range": [
+        2397,
+        2993
+      ],
+      "quote_head": "But it would be fun if you",
+      "quote_anchor": "I had withdrawn money from the union account on several occasions, taking half of it home and putting half of it in the safe."
+    },
+    {
+      "n": 7,
+      "who": "我（叙述者）",
+      "did": "踩到软物，捡起一只被油渍浸黑、散发铁锈味的皮革手套，恶心感像从前流鼻血时那样袭来，捂住口鼻把血腥味般的手套扔进垃圾袋；去挂安全带时发现绳子缠结，硬拽反而把结越拉越紧",
+      "range": [
+        2996,
+        3756
+      ],
+      "quote_head": "I stepped on something soft, and looked",
+      "quote_anchor": "I began to feel nauseated, the way I used to when I got nosebleeds, and quickly covered my nose and mouth with my hand."
+    },
+    {
+      "n": 8,
+      "who": "Miu（对我）",
+      "did": "说要偷偷买一只玩具贵宾犬当接新职位的补偿，见我表情僵硬苦笑「那是『不行』了」，走到我身边轻轻握住我的手，宣告她信任狗——狗不像男人会背叛她、话没说出口狗就懂她；从我手里接过缠结的绳子，用涂粉色指甲油的指甲解开我拉紧的结，还说寂寞时狗总会来找她",
+      "range": [
+        3759,
+        4658
+      ],
+      "quote_head": "Maybe I’ll secretly buy myself a puppy.",
+      "quote_anchor": "They don’t betray me like men do, and they understand me before I’ve even said a word."
+    }
+  ]
+}
