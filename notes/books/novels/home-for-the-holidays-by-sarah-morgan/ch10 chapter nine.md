@@ -16,7 +16,7 @@ modified: "2026-11-10"
 
 > **原句 1:** "And she sensed his immediate withdrawal. Physically he didn’t move, but she saw something flicker in his eyes and felt his lack of response with every fibre of her being. Her insides lurched."
 
-**中文理解**：她说完「我爱你」，立刻感觉到他缩了回去——身体没动，可她看见他眼里有什么熄了一下，那种「没有回应」从每根纤维传过来。她的五脏六腑猛地一沉。
+**中文理解**：告白刚出口，她就感觉到他缩了回去——身体没动，可她看见他眼里有什么熄了一下，那种「没有回应」从每根纤维传过来。她的五脏六腑猛地一沉。
 **关键词**：immediate withdrawal / flicker / insides lurched
 **为什么这样写**：不写他做了什么，写「没做什么」——缺席式反应比推开更疼；「lurched」把心理坠落交给内脏，身体再度抢在语言前面。
 **读者视角提示**：全章的战场就压在这几秒里——他要逃，她偏要在这个清晨把话说完。
