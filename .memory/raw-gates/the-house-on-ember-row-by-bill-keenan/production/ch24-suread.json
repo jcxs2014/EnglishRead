@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch24_chapter_twenty_four.txt",
+ "facts": [
+  {
+   "fact": "指控宣读：鲁迫危害、超速于路况（过快）、车辆袭击三项罪名——像几记打得准的拳。",
+   "anchor": "“Quinn Whitaker, you are being charged",
+   "start": 1057,
+   "end": 1095
+  },
+  {
+   "fact": "悬剑：Burns 把后半句留在空气里——如果 Gordon 挺不过去；Quinn 不需要他说完。",
+   "anchor": "if he doesn’t make it—",
+   "start": 1538,
+   "end": 1560
+  },
+  {
+   "fact": "升级条款：Gordon 仍在 ICU 病危——若不治，几乎必然升级为车辆过失致死案；只差罪名怎么定。",
+   "anchor": "If he doesn’t survive, Mr. Whitaker, this will almost certainly become a vehicular manslaughter case.",
+   "start": 2473,
+   "end": 2574
+  },
+  {
+   "fact": "三个待证：是否超速于路况、是否饮酒、判断是否受损——毒理终报未出，「追加指控仍在桌上」。",
+   "anchor": "whether you had been drinking",
+   "start": 2080,
+   "end": 2109
+  },
+  {
+   "fact": "记忆闪回：撞击后 Gordon 瘫在副驾——残骸中一动不动，血从太阳穴淌下。",
+   "anchor": "the way Gordon’s body had slumped",
+   "start": 2853,
+   "end": 2886
+  },
+  {
+   "fact": "供词复现：是我把 Gordon 放进那辆车、开上那条路、失控置他于险境——现在他可能再也不会醒来。",
+   "anchor": "I had done this.",
+   "start": 3467,
+   "end": 3483
+  },
+  {
+   "fact": "冷刀收尾：Burns 合上本子出门前回头补上一句圣诞快乐——程序正义的装饰音，读起来像嘲讽。",
+   "anchor": "“Merry Christmas.”",
+   "start": 4373,
+   "end": 4391
+  }
+ ]
+}
