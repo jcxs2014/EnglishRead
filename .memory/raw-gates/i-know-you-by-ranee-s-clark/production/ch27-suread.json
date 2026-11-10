@@ -1,0 +1,61 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch27",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch27_epilogue.txt",
+ "facts": [
+  {
+   "fact": "Epilogue（Ben POV）：回现代后在纽约家中冲澡躺下才发现外套口袋里的信——白天全程忙于交人/汇报/说服自己。",
+   "anchor": "I don’t find her note until I’m lying across my bed in my New York home after a long, hot shower.",
+   "start": 29,
+   "end": 126
+  },
+  {
+   "fact": "Ben 对任务组的汇报：交代 Gibbons、Clara 记忆中的与 Quint 的生活、她父母在 The Villa 的时光——并说服自己无法再接她回来。",
+   "anchor": "Being debriefed and explaining about leaving Clara behind.",
+   "start": 381,
+   "end": 439
+  },
+  {
+   "fact": "Ben 的内心清算：写文件时就告诉自己「真到那步我能放手」——真到那步却 beg 了，「不够，也太迟」。",
+   "anchor": "I convinced myself I could let her go if it came to it.",
+   "start": 918,
+   "end": 973
+  },
+  {
+   "fact": "信的托付结构：还有一封给 Morgan 的信——Ben 必须向她讲真相（Clara 认定他会用「去外国了」这个理由被识破）。",
+   "anchor": "There’s another note with this one. It’s for Morgan.",
+   "start": 1223,
+   "end": 1275
+  },
+  {
+   "fact": "Clara 的幽默遗嘱预测：Morgan 会以为他杀了她抛尸哈德逊河——用玩笑托付最重的告别。",
+   "anchor": "She’ll think you killed me and sent my body down the Hudson.",
+   "start": 1456,
+   "end": 1516
+  },
+  {
+   "fact": "信的核心感谢：从 1901 你把我从地板上抱起来安慰那天起，你一直在救我——「你的无私对我来说意味着全世界」。",
+   "anchor": "From the day you scooped me up off the floor of your room to comfort me, you’ve been coming to my rescue.",
+   "start": 1591,
+   "end": 1696
+  },
+  {
+   "fact": "她的祝福：去找一个真正配得上你的女孩——她会比我更配你。",
+   "anchor": "Please go find a girl truly worthy of it.",
+   "start": 1829,
+   "end": 1870
+  },
+  {
+   "fact": "信的收束：我不后悔穿过那面镜子、不后悔遇见你、不后悔我们一起走过的艰难路——你永远在我心里。Love, Clara。",
+   "anchor": "I don’t regret falling through that mirror or meeting you",
+   "start": 1945,
+   "end": 2002
+  },
+  {
+   "fact": "书尾推广：番外场景链接（Clara 回未来向 Ben 求大忙）——留白「他们还有未来交集」。",
+   "anchor": "Would you like to read a bonus scene where Clara has to return to the future and ask a big favor of Ben?",
+   "start": 2153,
+   "end": 2257
+  }
+ ]
+}

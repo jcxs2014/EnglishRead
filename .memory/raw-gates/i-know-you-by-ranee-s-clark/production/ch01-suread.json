@@ -1,0 +1,61 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch01",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "闺蜜 Morgan 堵在 condo 门口，第一句话就是反对搬家，戏称 The Villa 是 dust bowl。",
+   "anchor": "Tell me you’re joking, Clara. Are you seriously moving into this dust bowl?",
+   "start": 27,
+   "end": 102
+  },
+  {
+   "fact": "The Villa 背景：世纪之交的旅馆，1940 年代改建豪华 condo，湖景房至今抢手——time slip 的场景锚。",
+   "anchor": "It used to be a hotel that was popular around the turn of the century, and in the 1940s it was remodeled into luxury condos that are still in high demand since it’s a lakefront property and it has an amazing reputation.",
+   "start": 792,
+   "end": 1011
+  },
+  {
+   "fact": "Clara 的产权来历：姑婆 Vi 六个月前去世，把家族传了世代的 condo 留给她。",
+   "anchor": "I only own this condo because my great-aunt Vi left it to me when she died six months ago, and it’s been in the family for ages.",
+   "start": 1012,
+   "end": 1140
+  },
+  {
+   "fact": "搬家动机一句：Clara 要在这里治愈丧亲之痛。",
+   "anchor": "It’s where I feel like I can heal.",
+   "start": 1890,
+   "end": 1924
+  },
+  {
+   "fact": "神秘男人登场：Clara 在自家门口撞见的中年高个肌肉男，说不清在哪见过——全书第一个悬念。",
+   "anchor": "He looks vaguely familiar. Middle-aged, I think. Tall, over six feet, with muscled arms and broad shoulders.",
+   "start": 4074,
+   "end": 4182
+  },
+  {
+   "fact": "前租客 Ben Mitchell 两年前失踪、下落不明，是 condo 的公开往事。",
+   "anchor": "no one knows where Ben Mitchell disappeared from",
+   "start": 6028,
+   "end": 6076
+  },
+  {
+   "fact": "Clara 回忆曾和 Aunt Vi 一起让警察进门搜查，现场干净无挣扎痕迹，排除 foul play。",
+   "anchor": "The condo was clean and orderly when we let the policemen in. No signs of a struggle anywhere.",
+   "start": 6831,
+   "end": 6925
+  },
+  {
+   "fact": "搬家首夜 Clara 失眠，孤独感阵阵袭来，连她自己都觉得说不通。",
+   "anchor": "Waves of loneliness roll over me, which doesn’t make sense.",
+   "start": 8782,
+   "end": 8841
+  },
+  {
+   "fact": "章末安抚：脑中响起 Aunt Vi 生前常说的话，Clara 靠这句重新入睡。",
+   "anchor": "Aunt Vi’s voice penetrates my mind, a line she repeated often in the days after my parents died. You are not alone, sweetie. You’ve got me.",
+   "start": 9919,
+   "end": 10058
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch06",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "不到六点 Ben 领着裁缝闯入——他花钱求裁缝当天赶出 corset，端点心赔罪。",
+   "anchor": "“I know. I’m sorry. I forgot to warn you last night,” he says as he comes forward with a pleading expression.",
+   "start": 242,
+   "end": 351
+  },
+  {
+   "fact": "Clara 独自探索大宅，想过偷听 Ben 与 Guthrie 的谈话但放弃了——她不要那样的关系。",
+   "anchor": "I’m tempted to go eavesdrop, since I suspect he confides in her more than anyone.",
+   "start": 1975,
+   "end": 2056
+  },
+  {
+   "fact": "白日梦里的自己是 1920s 装束：银紫丝绸流苏裙、无袖、低腰——不是镀金时代。",
+   "anchor": "Definitely Roaring Twenties, not Edwardian or Gilded Age.",
+   "start": 3015,
+   "end": 3072
+  },
+  {
+   "fact": "白日梦里 sophisticated husband 靠近亲她，画面「不止年代错了——我们的年龄？」二十年后她已是中年主妇。",
+   "anchor": "but the image is wrong in more ways than the time period. Our age?",
+   "start": 3249,
+   "end": 3315
+  },
+  {
+   "fact": "小提琴声：Mr. Allen 拉 Tchaikovsky《睡美人》圆舞曲，Clara 认出后泪流满面。",
+   "anchor": "the waltz from the first act of The Sleeping Beauty, by Tchaikovsky",
+   "start": 4073,
+   "end": 4140
+  },
+  {
+   "fact": "书名出处：Clara 对着圆舞曲 whisper「I know you」（Disney 版歌词）。",
+   "anchor": "“I know you,” I whisper, my tone trembling.",
+   "start": 4268,
+   "end": 4311
+  },
+  {
+   "fact": "父亲是小提琴手，坚持用 Tchaikovsky 教育她，常在她转圈时拉这支圆舞曲。",
+   "anchor": "my father, a violinist himself, insisted on educating me in Tchaikovsky’s ballet",
+   "start": 4357,
+   "end": 4437
+  },
+  {
+   "fact": "Clara 差点说漏 Disney 动画（约五十年后才拍），紧急改口成「因为这故事浪漫」。",
+   "anchor": "I can’t tell him about a motion picture that won’t be made for another fifty years or so.",
+   "start": 5678,
+   "end": 5767
+  }
+ ]
+}

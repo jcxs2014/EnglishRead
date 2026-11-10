@@ -1,0 +1,67 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch11",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "FBI 上门：Dr. Cooper 与 Agent Burke 属 FBI 领导的任务组，监控并「管理」镜子穿越。",
+   "anchor": "We’re from an FBI-led task force that monitors and…” He pauses, squinting as he searches for words. “…regulates time travel through the mirrors.",
+   "start": 4336,
+   "end": 4480
+  },
+  {
+   "fact": "他们派了特工 Gibbons 去找 Ben 和 Clara，但出了事——两人回来了，Gibbons 没回来。",
+   "anchor": "We sent an operative after the two of you, but something went wrong. You’re here and he’s not,” Burke says.",
+   "start": 5041,
+   "end": 5148
+  },
+  {
+   "fact": "FBI 小镜测试：Clara 一分钟内手就沉进去（能量惊人）；Ben 的能量量级很低。",
+   "anchor": "Within a minute, my hand sinks through the surface.",
+   "start": 6981,
+   "end": 7032
+  },
+  {
+   "fact": "Cooper 理论：镜子会残留「潜伏能量」，Ben 当年的掉入可能是镜子自发排能。",
+   "anchor": "I theorize that the mirror spontaneously opened for Mr. Mitchell as a way of expelling its unused energy.",
+   "start": 8835,
+   "end": 8940
+  },
+  {
+   "fact": "穿越规则：镜子提供 A 到 B 通道——制造年代附近 ↔ 现代（或被毁年代）。",
+   "anchor": "the mirrors provide an A-to-B type passageway from near the time of their making in the past to either the present or near the time they were destroyed",
+   "start": 25028,
+   "end": 25179
+  },
+  {
+   "fact": "Gibbons 1928 年出现在纽约（面部追踪软件扫历史照片）；他们要 Clara 带队去接他。",
+   "anchor": "Gibbons showed up on our facial tracking software in 1928,",
+   "start": 23740,
+   "end": 23798
+  },
+  {
+   "fact": "威胁：拒绝协助则资金冻结甚至没收——Ben 的财富是「未经授权穿越的收益」。",
+   "anchor": "Your funds are likely to be tied up for a while and possibly confiscated since they were the benefit of unauthorized travel.",
+   "start": 22667,
+   "end": 22791
+  },
+  {
+   "fact": "Clara 表态：她一辈子都能感到镜子的能量（一直以为是静电）——「我们可能是拯救世界的人」。",
+   "anchor": "I can feel it—the energy when I touch mirrors. I’ve felt it all my life, but I thought it was weird static electricity or something.",
+   "start": 30174,
+   "end": 30306
+  },
+  {
+   "fact": "Cooper 力挺 Ben：两年没触发任何警报，比 Burke 这种「按手册训练」的更胜任。",
+   "anchor": "He spent two years in the past and never set off any of our protocols. He’s far more trained than you are for this.",
+   "start": 14198,
+   "end": 14313
+  },
+  {
+   "fact": "章末：两人被送上大飞机——1928 纽约任务开始。",
+   "anchor": "Okay, time to stop treating us like prisoners and more like members of the team.",
+   "start": 31530,
+   "end": 31610
+  }
+ ]
+}

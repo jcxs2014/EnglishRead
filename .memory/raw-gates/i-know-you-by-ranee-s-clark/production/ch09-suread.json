@@ -1,0 +1,49 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch09",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Clara 在 2024 自己的 condo 硬地板上醒来——穿镜回家成功但晕过去了；déjà vu 让记忆归位：1901 的三天。",
+   "anchor": "Three days in 1901 with Ben. Trying to come home.",
+   "start": 237,
+   "end": 286
+  },
+  {
+   "fact": "说话的 Ben 用词现代（freaky）——2024 版 Ben；1901 版绝不会这么说。",
+   "anchor": "It sounds like Ben’s voice speaking, but the rhythm and the words are off. He’d never say “freaky.”",
+   "start": 486,
+   "end": 585
+  },
+  {
+   "fact": "镜子按便条要求被送回 1F——Ben 的私奔便条伏笔回收。",
+   "anchor": "“I asked Mrs. Guthrie and William in my note to make sure it was returned, to this unit specifically.”",
+   "start": 1635,
+   "end": 1737
+  },
+  {
+   "fact": "手机里有冒名对话：有人用她的口吻回复 Morgan「忙工作、外地做几天研究项目」。",
+   "anchor": "I—or more correctly someone writing as me—replied later that day. Busy with work. Out of town for a few days on a research project.",
+   "start": 3292,
+   "end": 3423
+  },
+  {
+   "fact": "假对话与她和 Morgan 的真实相处模式惊人相似（两人常因工作错身而过）。",
+   "anchor": "The conversation is so eerily similar to ones Morgan and I have had before that I shudder.",
+   "start": 3980,
+   "end": 4070
+  },
+  {
+   "fact": "Ben 编失踪故事：跟朋友去 L.A.、忘带手机、摔跤失忆；朋友嗑药不记得，再花钱请人作证。",
+   "anchor": "I went to … L.A. with a friend, forgot my phone, and lost my memory.",
+   "start": 4840,
+   "end": 4908
+  },
+  {
+   "fact": "章末 Ben 扶住她的肩承诺：一切都会没事。",
+   "anchor": "He takes me by the shoulders. “Everything is going to be fine. I promise.”",
+   "start": 6569,
+   "end": 6643
+  }
+ ]
+}

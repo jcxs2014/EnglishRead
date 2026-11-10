@@ -1,0 +1,67 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch05",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Mr. Allen 同行去旧金山；Clara 对他的感觉是「familiarity」而非火花，像认识了很多年。",
+   "anchor": "It feels like—familiarity. As though I’ve known him a long time.",
+   "start": 472,
+   "end": 536
+  },
+  {
+   "fact": "Mrs. Guthrie 是 Ben 刚穿越时的收留人，他对她的感情与对 Halloway 完全不同。",
+   "anchor": "“She had a boarding house in San Francisco,” Ben replies. “She let me stay there and help her until I got on my feet after I arrived.”",
+   "start": 2024,
+   "end": 2158
+  },
+  {
+   "fact": "火车与 Peugeot 汽车都颠簸危险；每次车厢震动 Ben 都伸手护住装镜子的木箱。",
+   "anchor": "every time the train shudders, he reaches out a protective hand to steady it",
+   "start": 3210,
+   "end": 3286
+  },
+  {
+   "fact": "Mrs. Guthrie 见面就质疑 ward 是不是 mistress（喜剧场面），Ben 以人格担保她只是受助的女孩。",
+   "anchor": "She had better not be some mistress you’re trying to bring here.",
+   "start": 5652,
+   "end": 5716
+  },
+  {
+   "fact": "Mrs. Guthrie 提到「wicked Miss Swanson」被 Ben 一个硬眼神止住——第一个未解之谜。",
+   "anchor": "Of course, you don’t give them a chance since that wicked Miss Swanson⁠—",
+   "start": 6564,
+   "end": 6636
+  },
+  {
+   "fact": "Mr. Allen 身世：英国旧世家没钱被派美娶富妻；Ben 帮他投资后不再需要。",
+   "anchor": "“Exactly. Will’s smart, though. I helped him make some investments, and he no longer has need of a rich wife.”",
+   "start": 9547,
+   "end": 9657
+  },
+  {
+   "fact": "Ben 的金钱观：钱在 1901 用不完也带不回家，托 Will 打理。",
+   "anchor": "I can’t be certain it will follow me home when that day comes.",
+   "start": 9951,
+   "end": 10013
+  },
+  {
+   "fact": "Ben 承认与 Miss Swanson「陷得比应该的深，是个大错误」——他对深入过去关系的恐惧来源。",
+   "anchor": "“I became more involved than I should have, and it was a big mistake.”",
+   "start": 15076,
+   "end": 15146
+  },
+  {
+   "fact": "Ben 提议：如果回不去，考虑「更永久的关系」作时代掩护；Clara 听成婚姻。",
+   "anchor": "“We should consider a more permanent relationship … while we’re here.”",
+   "start": 15583,
+   "end": 15653
+  },
+  {
+   "fact": "章末 Clara 独自面对「永远回不了家」的恐惧，只能自我打气。",
+   "anchor": "trying not to let fear about never going home spread through me",
+   "start": 16589,
+   "end": 16652
+  }
+ ]
+}

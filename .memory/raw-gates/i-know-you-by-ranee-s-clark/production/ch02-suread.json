@@ -1,0 +1,55 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch02",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "周一 Clara 下班路过 Target 买白色床品，想配 condo 的 Victorian chic 风格。",
+   "anchor": "On Monday afternoon I stop by Target on my way home from my part-time job at the library and choose some simple white sheets, a white down comforter, and a couple more pillows",
+   "start": 26,
+   "end": 201
+  },
+  {
+   "fact": "衣帽间那面精致镜子的镜框木工与 The Villa 大堂的一致，大堂多数由原主人所雕。",
+   "anchor": "The woodwork on the frame resembles the ones in the lobby of The Villa—most of them carved by the original owner.",
+   "start": 1523,
+   "end": 1636
+  },
+  {
+   "fact": "Clara 猜镜子是 Ben Mitchell 家清空 condo 时落下的，打算打电话问管理处要不要还。",
+   "anchor": "I’ll have to call down to the office later and see if it’s Ben Mitchell’s and it accidentally got left behind when his family cleared out the condo.",
+   "start": 1322,
+   "end": 1470
+  },
+  {
+   "fact": "镜面灰尘上有一双掌心朝下按在正中的手印，位置怪异。",
+   "anchor": "Like someone put both hands, palm down, right in the middle of the mirror.",
+   "start": 1969,
+   "end": 2043
+  },
+  {
+   "fact": "手印比 Morgan 的手大得多——Clara 联想到门口那个神秘男人。",
+   "anchor": "The hands are also way too big to be Morgan’s.",
+   "start": 2061,
+   "end": 2107
+  },
+  {
+   "fact": "Clara 的特质设定：每次靠近镜子都会积静电，平时靠不碰镜子躲开。",
+   "anchor": "Every time I’m close to mirrors, it’s like I gather extra static electricity.",
+   "start": 2450,
+   "end": 2527
+  },
+  {
+   "fact": "她模仿手印把手掌按上镜面，强电流比上次猛得多，顺着胳膊击上来。",
+   "anchor": "The same shock as before, but a lot stronger this time, shoots up my arm.",
+   "start": 3273,
+   "end": 3346
+  },
+  {
+   "fact": "章末：Clara 失衡前扑，直接穿镜而过——穿越发生。",
+   "anchor": "Then I tumble right through it.",
+   "start": 3564,
+   "end": 3595
+  }
+ ]
+}

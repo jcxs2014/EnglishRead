@@ -1,0 +1,61 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch07",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "晚上参加内战老兵招待会听 McKinley 演讲；因夫人病了总统延长了行程。",
+   "anchor": "He was supposed to have continued on his tour of the country by now—a celebration of his second inauguration—but Mrs. McKinley fell ill.",
+   "start": 478,
+   "end": 614
+  },
+  {
+   "fact": "马车里 Allen 问音乐教育；Clara 说漏母亲不会乐器（社会地位破绽），当场编谎圆场。",
+   "anchor": "“My mother learned to play the piano, of course, and sing.” That’s an absolute lie.",
+   "start": 3297,
+   "end": 3380
+  },
+  {
+   "fact": "Clara 父母死后就不再听音乐——每首歌都带回忆；昨天是父亲死后第一次听睡美人圆舞曲。",
+   "anchor": "I stopped listening to music after my parents died since every song brought on some kind of memory",
+   "start": 2641,
+   "end": 2739
+  },
+  {
+   "fact": "Ben 耳语夸她融入自然——五千本言情剧不是白读的。",
+   "anchor": "“You’re no character, Clara Granville. You’re a natural.”",
+   "start": 5484,
+   "end": 5541
+  },
+  {
+   "fact": "Clara 注意到总统身边一个怪男人：现代侧分发+在看手腕表（1901 不流行，一战后才量产）。",
+   "anchor": "he is checking the time on a wristwatch",
+   "start": 7638,
+   "end": 7677
+  },
+  {
+   "fact": "Ben 借 opera glasses 确认：表太现代，押上全部财产赌他来自未来。",
+   "anchor": "“The watch is too modern,” he whispers to me. “And from studying him, I’d bet my fortune he’s from the future.”",
+   "start": 8789,
+   "end": 8900
+  },
+  {
+   "fact": "追到后台：Clara 认出他就是穿越前一天在公寓走廊见到的男人；他认出她，向总统耳语后消失。",
+   "anchor": "“He was at my apartment. The day before I fell through.",
+   "start": 10445,
+   "end": 10500
+  },
+  {
+   "fact": "Ben 分析：McKinley 九月遇刺、Teddy Roosevelt 继任；怀疑那个未来人想接近总统。",
+   "anchor": "“McKinley will be assassinated in September—that’s the only reason I can think that someone else from the future would try to gain access to him.",
+   "start": 11696,
+   "end": 11841
+  },
+  {
+   "fact": "回府后 Ben 帮她解裙扣，两人初吻——「我们真的刚认识，对吧？」",
+   "anchor": "The kiss is soft and gentle at first, but then he parts my lips with his",
+   "start": 14913,
+   "end": 14985
+  }
+ ]
+}

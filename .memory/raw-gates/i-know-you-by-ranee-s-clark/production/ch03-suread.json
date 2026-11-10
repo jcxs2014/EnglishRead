@@ -1,0 +1,67 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch03",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "Clara 醒来看到的蓝眼睛男人不是昨晚门口那人——1901 版 Ben 是青年，门口男人是中年版。",
+   "anchor": "The man—who is not the guy I saw outside my apartment last night—holds out a hand toward me",
+   "start": 316,
+   "end": 407
+  },
+  {
+   "fact": "男人衣着是 1900 年前后样式：双排扣马甲、高硬领、old-fashioned tie（Clara 认出是 cravat）。",
+   "anchor": "His clothes are weird—a double-breasted vest, a white shirt with a high, stiff collar, and a wide … scarf? No, it’s an old-fashioned tie",
+   "start": 818,
+   "end": 954
+  },
+  {
+   "fact": "Ben 自报家门：这里是 Ben Mitchell，且他们已不在 Clara 的 condo。",
+   "anchor": "I’m Ben Mitchell, and we’re not in your condo.",
+   "start": 1418,
+   "end": 1464
+  },
+  {
+   "fact": "Ben 交代真相：Clara 和他一样从镜子掉进过去，现在是 1901 年，重复触发动作就能回 2024。",
+   "anchor": "You fell through the mirror into the past, the same way I did. It’s 1901",
+   "start": 2363,
+   "end": 2435
+  },
+  {
+   "fact": "Ben 已被困许久（两年）；他自嘲租约大概早已到期。",
+   "anchor": "I guess my lease was probably up a long time ago. I’ve been missing for a while.",
+   "start": 5700,
+   "end": 5780
+  },
+  {
+   "fact": "房间是 The Villa 1901 原貌，与 Aunt Vi 装修前的 condo 镜像对称。",
+   "anchor": "This room looks like the condo did when Aunt Vi lived there before the remodel, only everything’s on the opposite side as mine.",
+   "start": 3531,
+   "end": 3658
+  },
+  {
+   "fact": "Ben 一年半前才把镜子拿回手里，之后几乎每天尝试回家。",
+   "anchor": "At least every day, and almost constantly when I got the mirror back into my possession a year and a half ago.",
+   "start": 27534,
+   "end": 27644
+  },
+  {
+   "fact": "Ben 写过镀金时代女装的硕士论文，并靠对历史事件的预知炒股发财。",
+   "anchor": "I wrote my master’s thesis on how Gilded Age fashions represented the physical and emotional restrictions of women of the time",
+   "start": 15737,
+   "end": 15863
+  },
+  {
+   "fact": "Mr. Allen 金眼睛、英国口音登场，Clara 对他有种安放不了的熟悉感和记忆碎片。",
+   "anchor": "His voice, familiar in a way I can’t place, threatens another fog of memory to overtake me.",
+   "start": 31848,
+   "end": 31939
+  },
+  {
+   "fact": "章末 Rebecca Halloway 主动拉近关系，Clara 开始接受「这可能是真的」。",
+   "anchor": "Please, call me Rebecca. You’re wearing my evening dress, dear. I have a feeling we’re going to be good friends.",
+   "start": 41690,
+   "end": 41802
+  }
+ ]
+}

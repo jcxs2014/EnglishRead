@@ -1,0 +1,55 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch08",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "Ben 打听：那男人昨天差点被赶走，说服管家见到总统私人秘书后被引见，从此一直跟随总统。",
+   "anchor": "They spoke for a few minutes, and the secretary took him right in to see President McKinley, and he’s been at his side ever since.",
+   "start": 1202,
+   "end": 1332
+  },
+  {
+   "fact": "Clara 推断 ch02 镜面的手印是他的——那个未来人也试过开门。",
+   "anchor": "“They were probably his. What other explanation is there?”",
+   "start": 1841,
+   "end": 1899
+  },
+  {
+   "fact": "Ben 拋出核心问题：他来是为了行善还是作恶？",
+   "anchor": "“Then the question is: Is he here to do good or to do bad?”",
+   "start": 1902,
+   "end": 1961
+  },
+  {
+   "fact": "Ben 重提名义婚姻：哪怕只有名分，也能像现代人一样约会而不毁名誉。",
+   "anchor": "if we were married—even in name only—we could date and get to know each other the way we’re used to.",
+   "start": 4049,
+   "end": 4149
+  },
+  {
+   "fact": "Clara 回想 Ben 的穿越：1899 年掉进 The Villa 大堂（两年前），刚穿越时险些被赶走。",
+   "anchor": "he tumbled into the lobby of The Villa in 1899—and was kicked out as swiftly as I would have been if he hadn’t been around to save me.",
+   "start": 6949,
+   "end": 7083
+  },
+  {
+   "fact": "Clara 独自试镜：镜像与手之间裂开半英寸空隙，能量 rip 击中她。",
+   "anchor": "the reflection shifts so I can distinguish at least half an inch of space between my hands and the image in the mirror.",
+   "start": 7236,
+   "end": 7355
+  },
+  {
+   "fact": "她死死按住感受能量生长——「I can do this」——手沉进去了：门开了。",
+   "anchor": "A moment later, I cry out in joy as my hands sink through.",
+   "start": 7986,
+   "end": 8044
+  },
+  {
+   "fact": "章末：Ben 写「私奔」便条，两人手牵手 step into the mirror。",
+   "anchor": "“Home.” I squeeze his fingers and step into the mirror.",
+   "start": 10394,
+   "end": 10449
+  }
+ ]
+}

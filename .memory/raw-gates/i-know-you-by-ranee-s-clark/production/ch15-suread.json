@@ -1,0 +1,61 @@
+{
+ "book": "i-know-you-by-ranee-s-clark",
+ "chapter": "ch15",
+ "text": "notes/books/novels/i-know-you-by-ranee-s-clark/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "Clara 在 Ben 的纽约私宅醒来——Ben 抱她穿镜回现代、雇私人医生取子弹（枪伤进医院问题太多）。",
+   "anchor": "We left William’s house because I wasn’t going to let some doctor in the past butcher you trying to remove a bullet from your shoulder.",
+   "start": 962,
+   "end": 1097
+  },
+  {
+   "fact": "逃生回忆：Ben 与 Quint 扶她的手到镜面，Quint 在发间低声安慰，把抱着的她递给 Ben——最后记忆是 Quint 的 Come back to me, love。",
+   "anchor": "Both of them holding my hands to the surface, Quint’s lips in my hair as he whispered words of comfort.",
+   "start": 1289,
+   "end": 1392
+  },
+  {
+   "fact": "Gibbons 穿镜回到现代后失联（训练有素无法追踪）；任务组在找。",
+   "anchor": "“He came back to the present and went off the grid.",
+   "start": 4631,
+   "end": 4682
+  },
+  {
+   "fact": "McCann 镜子仍在 Allen 庄园——Quint 的遗嘱里特意写明镜子留宅（为回家留路）。",
+   "anchor": "there was something in Quint’s will about making sure it stayed in the house.",
+   "start": 4883,
+   "end": 4960
+  },
+  {
+   "fact": "实证：Clara 出生在过去的 1911 前后——父母生在未来、她的出生证是伪造的（联邦索引卡 S.F. Co.）。",
+   "anchor": "Your parents weren’t, but you were. Your birth certificate is the only thing forged",
+   "start": 8290,
+   "end": 8373
+  },
+  {
+   "fact": "Ben 反对 Clara 去问父母（那意味着穿越回去）——「我们掺和得还不够多吗？」",
+   "anchor": "He sits back, pressing his hands together. “Haven’t we meddled enough?”",
+   "start": 8756,
+   "end": 8827
+  },
+  {
+   "fact": "Quint 1939 年 34 岁才结婚（娶 Catherine Pratt）——他等了她二十多年。",
+   "anchor": "After you left, he didn’t marry until 1939—he was thirty-four years old.",
+   "start": 9227,
+   "end": 9299
+  },
+  {
+   "fact": "Clara 心里的 Quint 之歌「全是错音符与生疏的节拍」——与 Ben 的1928争吵在此刻显出重量。",
+   "anchor": "The song that Quint had written inside of me feels full of wrong notes now and an unpracticed tempo.",
+   "start": 9671,
+   "end": 9771
+  },
+  {
+   "fact": "章末：Clara 长久无法入睡——「可能再也无法安心入睡」。",
+   "anchor": "It’s a long time before I actually fall asleep, and it might be a much longer time before I rest with any peace of mind again.",
+   "start": 10377,
+   "end": 10503
+  }
+ ]
+}
