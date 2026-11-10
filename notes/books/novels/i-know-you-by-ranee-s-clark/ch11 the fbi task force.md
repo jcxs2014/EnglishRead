@@ -87,7 +87,7 @@ modified: "2026-11-10"
 
 **中文理解**：停机坪上，Clara 向 Ben 交底：触碰镜子时的能量她从小就感觉得到——一直以为是怪静电。现在她决定接下任务，理由不只是应付 FBI：「我们可能是在拯救世界。」她人生里第一次把这个「缺陷」念成了「天命」。
 
-**关键词**：all my life / weird static electricity / We could be saving the world
+**关键词**：all my life / weird static electricity / I can do this
 
 **为什么这样写**：作者把招募谈判的最后一步交给 Clara 的自我认领——从 ch02「躲着镜子」到此刻「我可以做到」，她的能力叙事完成了反转；「saving the world」的夸张宣言给冒险注入使命感，也悄悄预告这本书的格局将从言情扩向任务剧。
 

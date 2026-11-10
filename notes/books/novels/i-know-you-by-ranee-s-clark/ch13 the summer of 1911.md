@@ -105,7 +105,7 @@ modified: "2026-11-10"
 
 **读者视角提示**：记住这个愿望——它是 Clara 的私底底线，也是任务组「禁止改变历史」红线最直接的冲突源；后面每一次「能否破例」的拉扯都源于这一拍。
 
-> **原句 10:** "People hired her to research things for them, for all sorts of reasons—writing books, creating advertisements, even research for property developments. She knew so much."
+> **原句 10:** "Beyond music, she was amazing as well. She was a historical research consultant." I laugh when Quint raises an eyebrow in confusion. "People hired her to research things for them, for all sorts of reasons—writing books, creating advertisements, even research for property developments. She knew so much."
 
 **中文理解**：池塘边聊起母亲，Clara 补全她的职业拼图：母亲是历史研究顾问——替写书的、做广告的、搞地产开发的查资料，什么都懂。一个靠「知道过去」吃饭的女人，生出了一个能「走进过去」的女儿。
 
@@ -116,6 +116,8 @@ modified: "2026-11-10"
 **读者视角提示**：把母亲的职业与 Clara 的历史博客、Ben 的博士并列——这个故事的三个「知识型人物」形成完整的学术谱系；母亲知道的「那么多」里，可能就包括镜子。
 
 > **原句 11:** "You are my mother's best friend," he says into the silence, his voice soft with discovery. He scratches his jaw and stares into the water, though I know that isn't what he sees.
+>
+> I nod in agreement. I feel it in my soul as he says it.
 
 **中文理解**：Quint 在池塘边的沉默里得出结论，声音软得像发现新大陆：「你是我母亲最好的朋友。」Clara 点头认了——灵魂深处也是这么感觉的。1911 年那个和 Granville 夫人聊天看孩子的位置，她坐过。
 

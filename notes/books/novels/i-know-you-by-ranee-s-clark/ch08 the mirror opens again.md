@@ -23,7 +23,7 @@ modified: "2026-11-10"
 
 **读者视角提示**：注意「从 yesterday 起」——他见到总统只花了一天；这种效率暗示他不是初次行动，他的计划已运转多时（也许从 Clara 公寓那晚就开始了）。
 
-> **原句 2:** "He must have. There were handprints in the mirror. That's what I was looking at when I came through," I say.
+> **原句 2:** "He must have. There were handprints in the mirror. That's what I was looking at when I came through," I say. "They were probably his. What other explanation is there?"
 
 **中文理解**：Clara 接上关键推理：那个未来人一定是故意回来的——衣帽间镜子上的手印就是证据，她穿镜前盯着的正是它。「那大概就是他的手印，还能有什么别的解释？」ch02 的伏笔在此完成归属。
 

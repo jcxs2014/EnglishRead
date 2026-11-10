@@ -47,7 +47,7 @@ modified: "2026-11-10"
 
 **中文理解**：穿越刚落地就被女仆撞个正着，Ben 零秒切换成 1928 模式：谎称被引见等了半小时、在等 McCann 先生。他甚至为「Johnson」这个假姓演出不耐烦。上一次穿越他花了两年学会这个，这次他三秒就用上了。
 
-**关键词**：shown in over half an hour ago / waiting for Mr. McCann / Johnson
+**关键词**：shown in over half an hour ago / waiting for Mr. McCann / waiting
 
 **为什么这样写**：作者用「谎言的流畅度」衡量角色的成长——ch03 的 Ben 连自己的身份都要解释半天，如今的即兴应答已经炉火纯青。女仆的信以为真也确认了年代（她认得 McCann 这个名字）。
 
@@ -113,7 +113,7 @@ modified: "2026-11-10"
 
 **读者视角提示**：Quint 的「How strange」是全书最安静的悬崖：两人都有前世的触觉记忆，而 Ben 对此一无所知；本章之后的感情线全部悬在这三个词上。
 
-> **原句 11:** "Perhaps the traveling drains something," I say lightly. "I'm exhausted." He nods, slipping his fingers furtively between us to give mine a squeeze.
+> **原句 11:** "Perhaps the traveling drains something," I say lightly. "I'm exhausted." He nods, slipping his fingers furtively between us to give mine a squeeze. So often in 1901 his touch grounded me, but it has little effect now, which scares me more.
 
 **中文理解**：Ben 问她怎么了，Clara 用「穿越可能消耗了什么」轻描淡写地带过，握住他偷偷伸来的手指。可她心里清楚：1901 他的触碰总能把她按回地面，现在却几乎无效——真正让她害怕的正是这个。
 
