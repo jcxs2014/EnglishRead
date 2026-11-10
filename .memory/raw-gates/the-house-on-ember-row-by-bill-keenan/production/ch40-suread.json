@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch40",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch40_chapter_forty.txt",
+ "facts": [
+  {
+   "fact": "门口道别：Delilah 抱着瞌睡的 Robert——他眯眼思考的样子、不顺心时眉心的折痕都像 Cade；「不多，但给了我一些 semblance of peace」。",
+   "anchor": "I already see Cade in him",
+   "start": 960,
+   "end": 985
+  },
+  {
+   "fact": "路上拼图：DeWitt 弄死项目→有人被激怒→Cade 消失——理论太整齐：如果 Cade 知道地基会死人，他不会只退出，他会喊出来、揭发、修好它；可他消失了。",
+   "anchor": "Gus DeWitt kills the project.",
+   "start": 1839,
+   "end": 1868
+  },
+  {
+   "fact": "拼图缺口：他握着大部分碎片，但缺「那一块真正要紧的」。",
+   "anchor": "I had most of the pieces,",
+   "start": 2241,
+   "end": 2266
+  },
+  {
+   "fact": "改道：不去 Eloise 家（她进门先读他的脸），开回自己的空屋——数周无人的房子、邮件堆成山、植物没人管；他需要一间没有期待眼神的房间。",
+   "anchor": "no questions I couldn’t answer",
+   "start": 3519,
+   "end": 3549
+  },
+  {
+   "fact": "请柬：奶油金、压花边、午夜黑蜡封——蜡印没看名字就认出：Ellison。",
+   "anchor": "wax seal",
+   "start": 4768,
+   "end": 4776
+  },
+  {
+   "fact": "内容：春季开幕年度派对，Ember Row 宅，Laurence Ellison 主持，black tie。",
+   "anchor": "You Are Cordially Invited",
+   "start": 5027,
+   "end": 5052
+  },
+  {
+   "fact": "判词：Ellison 对客人是「召见」多于「邀请」；他把拇指抚过压纹——答案在肚子里已经就位：那个派对上等着我。",
+   "anchor": "Ellison summoned guests",
+   "start": 5227,
+   "end": 5250
+  }
+ ]
+}
