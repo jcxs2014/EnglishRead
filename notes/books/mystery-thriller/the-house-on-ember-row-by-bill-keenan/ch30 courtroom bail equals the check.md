@@ -25,7 +25,7 @@ modified: "2026-11-11"
 **为什么这样写**：把「孤身」写成风险证据——一个人少的社会关系在制度眼里是逃跑的资本；no permanent ties 与本书的情感线（兄妹、Gordon、圈子）惨烈对表：制度看不见他真正被什么拴住。
 **读者视角提示**：检方的「无牵绊」论是错的，但错得符合程序——读者知道他会留下（为了双胞胎），法庭不知道；知识差即张力。
 
-> **原句 4:** ""He is a journalist, a man with strong ties to this city, someone who has built his career investigating truth, not running from it.""
+> **原句 3:** ""He is a journalist, a man with strong ties to this city, someone who has built his career investigating truth, not running from it.""
 **中文理解**：Everett 辩道：他是个记者——与这座城市有深厚牵绊，整个职业生涯都在追查真相而不是逃离真相。
 **关键词**：journalist / strong ties / investigating truth
 **为什么这样写**：辩方把职业转换为品格证词——「查真相的人不跑」；这与 ch04 起他的职业身份完成闭环，也预告本案未来的走向：他终会用记者的方法自证。
