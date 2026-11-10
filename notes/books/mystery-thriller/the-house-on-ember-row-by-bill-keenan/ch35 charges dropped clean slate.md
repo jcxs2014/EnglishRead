@@ -15,7 +15,7 @@ modified: "2026-11-11"
 ## 精读
 > **原句 2:** ""Then why the hell does it sound like it was cut off from existence?""
 **中文理解**：Quinn 对着占线的听筒发火：那为什么这号码听着像被从存在里剪掉了？
-**关键词**：cut off / existence / busy
+**关键词**：cut off / existence
 **为什么这样写**：占线这件小事被写成存在的断裂——Delilah 的消失从「搬家」升级成「抹除」，与他自己的指控撤销（下文）构成对照：有人在电话线上「消失」，有人在罪名里「消失」，两条线都太干净。
 **读者视角提示**：把「太干净」当本书的通用报警器——bleach、clean bow、cut off：凡是收尾利落的事都要问谁在收拾。
 
@@ -33,7 +33,7 @@ modified: "2026-11-11"
 
 > **原句 5:** ""In twenty years as a trial attorney, I've never seen anything like this. Cases don't just go away. Not like this." … "It's like someone went in and wiped the slate clean for you, Quinn.""
 **中文理解**：Everett 自己也困惑：出庭律师干了二十年从没见过这种事——案子不会这样消失；「就像有人进去替你把石板擦干净了，Quinn」。
-**关键词**：twenty years / fall apart overnight / wiped the slate clean
+**关键词**：twenty years / wiped the slate clean
 **为什么这样写**：让律师充当异常的官方证人——他的经验证词比任何旁白都可信；wiped the slate clean 与 ch15/17 的 clean slate 母题轰然合流：有人又一次替 Quinn 「重写」——这次是司法记录。
 **读者视角提示**：记住「石板被擦」的三次出现——母亲的新生活、他指控的撤销、（未来）还有什么会被擦？这个母题是全书的暗骨架。
 
