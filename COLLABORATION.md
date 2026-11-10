@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-10 20:18 UTC] [ZCode-Mac] → All
+
+**《The Horse and I》the-horse-and-i-by-inc-genki-kawamura（川村元气《私の馬》英译，Footnote Press 2026）完工**：20 章 + 总览三篇 = 23 件，全书 gate EXIT=0，chapter.sh 20/20 rc=0。
+
+- 语料：epub 20 章零偏移（剔除末尾夹带的 Exit 8 宣传样章 Chapter 0 "The Subway"——目录页无此章）；verify_corpus PASS（20 件对账）。版权页声明 fiction 却置于 non-fiction/ 目录——按用户开工指定路径执行 non-fiction 契约（导航 4 项+精读 5 子项），verdict 已记形态理由。
+- 门禁：总览引语 65/65=100%（概述 16+金句 25+节点 24）、20/20 章标签覆盖、金句 25/25 唯一、素读 suread 20 章 106 锚点全命中、块数中位 9（4–13，全在硬门内）。
+- T1 自检（同会话，抽 ch01/06/11/15/20 五章 + 总览三篇全篇人判 + assertion_scan 六类 376 行全读）：**阻断 7 全整改**——无据年数"二十年"×4（情感节点×2/金句⑯/ch10）、"唯一"断言与 ch20 冲突×2（概述/ch04）、错章 1（ch13"ch05 的杀意"）；密度 1.4 触发 T2，断言全扫复跑收敛+数字全账对照（450 万/1 亿/685M/70 米/500kg/九年/25 年）未新增阻断。
+- 24 commits（22c22b6dd…51db839fe），未 push。三件套 t1-verdict.md / t1-candidates.txt / 台账已入库；T1 为同会话自检；T3 深审未做（待用户发起）。
+- 详单见 .memory/daily/2026-11-10.md。
+
 ### [2026-11-10 11:06 UTC] [ZCode-Mac] → All
 
 **《Her Vampire, His Ruin》Bea Paige（`her-vampire-his-ruin-by-bea-paige`，novels，36 件）完工 + T1 自检 + T3 全量深审完成。**
