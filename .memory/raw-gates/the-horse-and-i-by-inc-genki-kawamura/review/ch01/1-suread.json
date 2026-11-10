@@ -1,0 +1,118 @@
+{
+  "chapter": "ch01",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch01_one.txt",
+  "source_len_chars": 2767,
+  "source_note": "纯素读，仅读 text/ch01_one.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙事者，骑一辆红色轻便摩托车 red moped）",
+      "did": "猛捏生锈刹车（slammed on the rusty brakes）把 red moped 停下；轮胎在滚烫、近乎熔化的沥青上打滑，烧焦橡胶的气味刺鼻。",
+      "range": [
+        55,
+        223
+      ],
+      "quote_head": "I slammed on the rusty brakes",
+      "quote_anchor": "I slammed on the rusty brakes, bringing my red moped to a stop."
+    },
+    {
+      "n": 2,
+      "who": "一匹油亮的黑马（glistening black horse）",
+      "did": "站在马路正中央——一侧是旗子在风中褪色的二手车行（used car dealership），另一侧是招牌已拆的前弹珠房（former pachinko parlor）。",
+      "range": [
+        226,
+        408
+      ],
+      "quote_head": "In the middle of the road",
+      "quote_anchor": "a used car dealership with a fading flag fluttering in the wind and a former pachinko parlor with its signs taken down"
+    },
+    {
+      "n": 3,
+      "who": "那匹黑马",
+      "did": "在小汽车、大卡车、公共汽车与摩托车的一片鸣笛声中安然立于路中央、缓缓转头；身量高约叙事者两倍（about twice my height）。",
+      "range": [
+        411,
+        637
+      ],
+      "quote_head": "Small cars, large trucks, buses, and",
+      "quote_anchor": "Towering about twice my height, it stood in the center of the commotion, calmly moving its head around."
+    },
+    {
+      "n": 4,
+      "who": "我与那匹黑马",
+      "did": "我推上滑落的头盔檐后与马四目相对；马一双悲伤而莫名熟悉的黑眼睛（the horse’s eyes）紧盯着我。为确认自己没疯，我咧了咧嘴角。",
+      "range": [
+        640,
+        1051
+      ],
+      "quote_head": "The brim of my helmet had slipped",
+      "quote_anchor": "A sorrowful and somehow familiar black, the horse’s eyes were fixed on me."
+    },
+    {
+      "n": 5,
+      "who": "那匹黑马",
+      "did": "朝我走了两三步（took two, three steps toward me）；我脉搏加速、心跳如擂，马蹄敲击沥青的声音与我的心跳同频。",
+      "range": [
+        1081,
+        1275
+      ],
+      "quote_head": "The horse took two, three steps",
+      "quote_anchor": "The sound of the horse’s hard hooves hitting the asphalt synced with the beating of my heart."
+    },
+    {
+      "n": 6,
+      "who": "四名穿同款尼龙夹克的男人（four men，马的控制者）",
+      "did": "凭空出现、围住那匹马；马鼻孔重重喷气、高高扬起前腿左右腾踏如舞，缰绳被拴牢（reins were secured）后立即安静下来。",
+      "range": [
+        1469,
+        1831
+      ],
+      "quote_head": "Four men wearing matching nylon jackets",
+      "quote_anchor": "Four men wearing matching nylon jackets appeared out of nowhere and surrounded the horse."
+    },
+    {
+      "n": 7,
+      "who": "那四名尼龙夹克男人",
+      "did": "朝重新开动的周围车辆歉意鞠躬，把马牵往交通灯旁停着的拖车；马毫无抵抗地上坡、穿双门进栏厩（与先前判若两马），拖车以迟缓速度驶离。",
+      "range": [
+        1834,
+        2219
+      ],
+      "quote_head": "The men in the nylon jackets bowed",
+      "quote_anchor": "The horse walked up the ramp and into the stall through a set of double doors without any resistance"
+    },
+    {
+      "n": 8,
+      "who": "我（叙事者）与远去的拖车",
+      "did": "拖车在与自动消费贷款申请机（automated consumer loan-application machine）和浅蓝招牌便利店相临的路口左转；我在远去的车身上读到 “Mugikura Riding Club” 字样——马匹/拖车属于 Mugikura Riding Club（骑马俱乐部）。",
+      "range": [
+        2220,
+        2458
+      ],
+      "quote_head": "It turned left at the intersection",
+      "quote_anchor": "On the body of the trailer vanishing into the distance, I caught the words “Mugikura Riding Club.”"
+    },
+    {
+      "n": 9,
+      "who": "那匹黑马",
+      "did": "从拖车篷布与栏厩之间的缝隙探出头来（poked its head out），那双仿佛能把我吸进去的黑眼睛再次转向我。",
+      "range": [
+        2459,
+        2664
+      ],
+      "quote_head": "My eyes were glued to the faded",
+      "quote_anchor": "My eyes were glued to the faded writing when the horse poked its head out from a gap between the trailer’s tarp and stall."
+    },
+    {
+      "n": 10,
+      "who": "我与那匹黑马",
+      "did": "我心中冒出 “Found you.”（找到你了）的念头；就在这念头出现前的一瞬，我感到马也正对我说着同一句话。",
+      "range": [
+        2667,
+        2766
+      ],
+      "quote_head": "Found you. A split second before I had",
+      "quote_anchor": "A split second before I had the thought, I felt the horse saying the same thing to me."
+    }
+  ]
+}

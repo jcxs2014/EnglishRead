@@ -1,0 +1,118 @@
+{
+  "chapter": "ch07",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch07_seven.txt",
+  "source_len_chars": 14165,
+  "source_note": "纯素读，仅读 text/ch07_seven.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者）",
+      "did": "天刚亮骑 moped 哼歌驶过近乎空置的建材卖场、超市、日式/西式两家连锁餐厅、二手车行与歇业的弹子房，在浅蓝招牌便利店路口利落左转，穿过稻田窄路抵达 Mugikura 马术俱乐部；朝围栏内张望找到黑马，发现马背上有人——是 Mikoshiba（围栏边两名同款金扣夹克妇人一叹“She’s amazing”、一举手机拍摄，并夸“不愧是 Mikoshiba 夫人”“她和那小可爱真是绝配”）；Mikoshiba 一抬臀，黑马打个响鼻转为慢跑；我递去意味深长的眼神，马没理会，径直从我身边跑过。",
+      "range": [
+        25,
+        1696
+      ],
+      "quote_head": "The sun, rising from beyond the highway, shone",
+      "quote_anchor": "On the other end of their gaze, riding the black horse, was Mikoshiba."
+    },
+    {
+      "n": 2,
+      "who": "Mugikura→我",
+      "did": "拄拐杖、肩搭尼龙夹克走近道歉并拒载：“他今天不能再载骑手了”；解释“Mikoshiba 夫人每天都骑他，不让他休息他还会再受伤”；黑马喘着粗气奔跑、如尖叫般的嘶鸣回荡全场；Mugikura 苦笑“那女人心里积压太多，所以骑过了头”；Mikoshiba 注意到站在围栏外的我，微笑挥手。",
+      "range": [
+        1699,
+        2551
+      ],
+      "quote_head": "“Apologies,” said Mugikura as he walked up",
+      "quote_anchor": "Mrs. Mikoshiba’s been riding him every day. Unless we let him rest, he’s gonna get hurt again"
+    },
+    {
+      "n": 3,
+      "who": "Mikoshiba→我／黑马／Mugikura",
+      "did": "骑完整节课才下马，说“Thank you, Grande.”；抚马颈良久后把缰绳还给 Mugikura、离开马场；与我目光相遇却像没看见似的扭头走向俱乐部会馆，随从们尾随盛赞“你和那匹黑马真是绝配”。",
+      "range": [
+        2786,
+        3283
+      ],
+      "quote_head": "Only after a full session of riding did",
+      "quote_anchor": "After stroking his neck for what seemed like an eternity, she handed the reins back to Mugikura and left the riding arena."
+    },
+    {
+      "n": 4,
+      "who": "我与黑马（Mugikura 递苹果）",
+      "did": "Mugikura 从马厩喊我进去，从侧边堆叠的箱子里取出苹果说“喂给他”；黑马似被果实的红色迷住、朝我伸颈，张嘴用牙咬碎苹果（明亮果香充满隔栏，厩里其他马纷纷哼鼻）；突然我指尖一痛继而发麻——中指被咬出牙印、发红肿胀；随他咀嚼的节奏我脉搏加速，涌起想和他吃同样东西的冲动。",
+      "range": [
+        3286,
+        4438
+      ],
+      "quote_head": "“Hey, you,” Mugikura called out to me",
+      "quote_anchor": "He’d left a tooth mark on my middle finger, which turned red and swelled up."
+    },
+    {
+      "n": 5,
+      "who": "Mugikura→我（涉及 Mikoshiba 与黑马）",
+      "did": "用拐杖指向后侧栏位：“那两匹也都是她的马”——一匹栗毛马、一匹青灰斑纹马，都打理得油光水滑；“她既有时间又有钱，开 Porsche、比赛服全是 Hermès，马相关的东西来者不拒”；酸味再次涌上口中，Mugikura 浑浊的眼转向我，威胁“她要是把他买下，你就再也不能骑他了”；黑马把湿润的鼻端贴上我的身体、微微发抖；Mugikura 又像自言自语般报出：他 4.5 million yen（450 万日元），每月寄养费 200,000-yen（20 万日元），“我们不会把他卖给随便什么人”；我脉搏进一步加速。",
+      "range": [
+        4441,
+        5620
+      ],
+      "quote_head": "“That woman’s always wanting the next new",
+      "quote_anchor": "He’s 4.5 million yen, and there’d be a 200,000-yen monthly boarding fee,” Mugikura said, as if he were talking to himself."
+    },
+    {
+      "n": 6,
+      "who": "我",
+      "did": "紧抱褪色背包似要藏起，自惭形秽——我是穿领口松垮的衬衫和脏球鞋、骑随时会散架的 moped 来俱乐部的女人，而他光鲜雄骏；把吃剩的苹果塞进马嘴，匆匆逃离马厩；Mugikura 之妻在会馆喊“Setoguchi 小姐？”被我不理会，发动 moped 沿稻田窄路全速狂奔，在自动贷款申请机路口左转，驶上运土砂大卡车尘屑纷飞的高速公路，闻到海水味、望见海。",
+      "range": [
+        5623,
+        6482
+      ],
+      "quote_head": "I hugged my faded backpack as if",
+      "quote_anchor": "I shoved the leftover piece of apple into the horse’s mouth and quickly made my getaway from the stable."
+    },
+    {
+      "n": 7,
+      "who": "我",
+      "did": "抵达船厂，把 moped 停进生锈停车棚（平日停满自行车和 moped 的车场今天空无一车），冲向主楼；船厂除远处锯钢板声外空寂无声，新引进的 AI 控制设备周末照样运转——“像我这样的人迟早要被淘汰”；抬头看港口一排起重机，休息日老吊车纹丝不动，像死了一样。",
+      "range": [
+        6485,
+        7091
+      ],
+      "quote_head": "When I got to the shipyard, I parked",
+      "quote_anchor": "AI-controlled equipment, which had been adopted recently by the shipyard, continued to work even on the weekends."
+    },
+    {
+      "n": 8,
+      "who": "我→Fujii 与 Miu",
+      "did": "脑中重放 Mugikura 的话“她要是买下他…”，眼前闪过 Mikoshiba 执缰骑马、黑马黑眼求助的画面；喘着气打开总务处墙上的锁柜取出自行车钥匙，正要去工会预制板办公室时，听到金属切割声中夹杂的动物般叫声；循声开门进入走廊——陈列着集装箱船、矿砂船、LNG 船等几乎 1 米（one meter）长的精确船模；周六主楼空调关闭、闷热潮湿，后背汗湿；叫声断续来自走廊尽头的接待室；我蹑足接近，握住门把缓缓拧开，从门缝看见肉色的东西在蠕动——半裸的男人和女人；透过窗帘缝隙的阳光照在纠缠一起的 Fujii 和 Miu 身上：Miu 四肢着地趴在黑色皮沙发上张嘴呻吟，Fujii 在她身后有节奏地用胯拍打她的臀部。",
+      "range": [
+        7094,
+        8950
+      ],
+      "quote_head": "If she buys him, you won’t be",
+      "quote_anchor": "Through a gap in the curtains, sunlight shone on Fujii and Miu, entangled together."
+    },
+    {
+      "n": 9,
+      "who": "我→Fujii 与 Miu",
+      "did": "不知不觉跟着两人的节奏哼起歌；手抖着从口袋摸出手机、打开相机对准门缝，按下红色按钮开始录像（提示音“滴”被 Miu 的叫声淹没）；盯着屏幕里纠缠的“两只动物”（Fujii 背上冒汗继续撞胯、Miu 苍白大腿起伏）；随后猛推门而入——两人吓得魂飞魄散、在地板上爬着躲我，Miu 尖叫“Stop it!”、Fujii 声音发抖说“It’s not what you think”；我用镜头追着两具裸体爆笑不止（锯钢声加剧，脑中响起马的嘶鸣）；直到 Fujii 一记深撞、Miu 弓背达到高潮；我用发抖的手指按停录像、不出声地关门离开，冲出主楼跳上公司配发的自行车拼命蹬，全速穿过空荡厂区。",
+      "range": [
+        8979,
+        11038
+      ],
+      "quote_head": "Before I knew it, I was singing",
+      "quote_anchor": "When I pressed the red button, a digital ping went off to indicate that my phone had started recording."
+    },
+    {
+      "n": 10,
+      "who": "我",
+      "did": "到工会预制板办公室心跳仍狂；翻看月末报销单据（水电、电话、复印、交通）后打开电脑查账——通常不会注意的数字跳出来：工会账户期初余额 685,002,174 日元；耳边回响“4.5 million / 200,000-yen 月费”与马息马蹄，心想“只借一阵马上还、稍微做点账没人会发现——这没人愿干的活我干了整整 9 年（nine straight years）”；在键盘上增加社交聚会次数、改动经费数额（Ushio 之前的事务局长爱逛 hostess bars，当年“社交聚会”经费高得离谱，多几百万也没人会注意），确认期初余额看着差不多后起身；蹲到身后保险柜前把密码盘转到 0–9–2–3，厚重的柜门咔哒打开；伸手去够柜后一摞摞码放的纸币时手指发抖——“这是犯罪”（母亲自小教育我要“乖”，我从没 shoplift、连闯红灯都没有）；瘫坐地上动弹不得时，背后响起一声呼气——混着干草和奶味的马息拂过齐肩长发，马蹄声哒哒逼近、又一次呼吸像轻推我的背；手指的颤抖不知何时停了，我从冰冷的铁柜深处飞快抽出六摞（six stacks）纸币塞进尼龙背包（背包被多出的 600 克 six hundred grams 坠得变形），匆匆逃离预制板棚；忽觉被注视，回头望见深紫天空下高耸静立的巨型起重机如睡怪，我放轻动作悄悄蹬车离去。",
+      "range": [
+        11193,
+        14164
+      ],
+      "quote_head": "Even after I arrived at the prefab shed,",
+      "quote_anchor": "The opening balance in the union account was 685,002,174 yen."
+    }
+  ]
+}

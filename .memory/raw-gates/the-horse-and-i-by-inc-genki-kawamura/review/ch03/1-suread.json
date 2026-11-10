@@ -1,0 +1,137 @@
+{
+  "chapter": "ch03",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch03_three.txt",
+  "source_len_chars": 4748,
+  "source_note": "纯素读，仅读 text/ch03_three.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "「我」与 Ushio",
+      "did": "「我」走出预制板小屋——太阳已沉入地平线、天空转成淡紫（集装箱船似已修好、正驶出外海）；「我」与 Ushio 一起回到船厂主楼；Ushio 说“Dinnertime, isn’t it?”（可能只是自言自语），「我」报以暧昧微笑后发动轻便摩托车引擎。",
+      "range": [
+        25,
+        576
+      ],
+      "quote_head": "When I exited the prefab shed, the sun",
+      "quote_anchor": "When I exited the prefab shed, the sun had sunk into the horizon and the sky had turned light purple."
+    },
+    {
+      "n": 2,
+      "who": "「我」",
+      "did": "「我」沿公路骑车 about twenty minutes（约二十分钟）回到被花生田与成排太阳能板包围的公寓（此时天已全黑）；从生锈信箱抓出一叠传单上楼；在 second-floor hallway（二楼走廊）捡起侧翻的小三轮车，悄悄立到隔壁邻居门口。",
+      "range": [
+        579,
+        1022
+      ],
+      "quote_head": "I drove down the highway for about",
+      "quote_anchor": "I drove down the highway for about twenty minutes and returned to my apartment"
+    },
+    {
+      "n": 3,
+      "who": "「我」",
+      "did": "「我」把尼龙背包扔进（只有一卧室+餐厨区的）公寓角落、打开空调；从冷冻室取出米饭和汉堡排用微波炉加热，冲冻干味噌汤，摆出生菜与樱桃番茄淋芝麻酱；电视 two years ago（两年前）坏掉后家中一直没有电视，「我」在小餐桌边盯着手机吃饭。",
+      "range": [
+        1025,
+        1662
+      ],
+      "quote_head": "As soon as I tossed my nylon backpack",
+      "quote_anchor": "When my television stopped working two years ago, I simply got rid of it, and hadn’t had a TV since."
+    },
+    {
+      "n": 4,
+      "who": "「我」",
+      "did": "手机上是街头怪叫、电车揪发对骂、整容审视、回转寿司舔酱油瓶男孩被曝光、外遇短信截图等视频，每条帖子下立刻有人匿名评论（无名无脸无声但确实在场）；「我」左手手机、右手筷子把变硬的肉送进嘴里；听到隔壁小孩放声大笑（父亲母亲轮流说话）时右手停住；「我」关掉屏幕细听薄墙传来的声响，寂静时喝下碗底的 lukewarm miso soup（温吞味噌汤）。",
+      "range": [
+        1665,
+        2860
+      ],
+      "quote_head": "There was a video of a middle-aged man",
+      "quote_anchor": "I heard the faint sound of a child laughing in the apartment next door, and my right hand stopped."
+    },
+    {
+      "n": 5,
+      "who": "「我」",
+      "did": "「我」洗澡、往脸上拍化妆水、before midnight（午夜前）钻进被窝、把被盖拉到肩；盯着褪色天花板木纹，回想在公路上与马四目相对的时刻——意识到是 just this morning（就在今天早上）；慢慢闭眼，黑暗中黑色眼睛的轮廓开始融化；随后听见一声呼气（exhale），睁眼辨声——不是邻居，声音来自厨房。",
+      "range": [
+        2863,
+        3503
+      ],
+      "quote_head": "After taking a shower, I slapped some toner",
+      "quote_anchor": "I thought about it for a bit and realized that it had been just this morning."
+    },
+    {
+      "n": 6,
+      "who": "「我」",
+      "did": "厨房方向 Again（再次）传来像叹息的声音；「我」确信有「谁」在场，从被褥坐起，隔着磨砂玻璃拉门听到肺吐气的声音；小心站起，悄悄拉开卧室拉门。",
+      "range": [
+        3506,
+        3753
+      ],
+      "quote_head": "Again, I heard what sounded like a sigh",
+      "quote_anchor": "The sound of lungs expelling air reached my ears through the frosted glass of the sliding door."
+    },
+    {
+      "n": 7,
+      "who": "「我」与马",
+      "did": "拉开门后见昏暗厨房里站着一匹马（后文证实为梦）：它立在厨房餐桌前，双眼映着窗外荧光灯闪着光，空气里有干草混奶的气味（与之前一样）；马叹气，其余声音全部消失、只剩它的呼吸；马缓缓摆头、以乌黑眼睛逼视「我」，发出低沉嘶鸣——「我」感到它在呼唤自己；「我」无声靠近（One, two steps……Five, six, seven steps），未触到已感到它的体温，颤抖的指尖碰到马有力颈子的那一瞬间——醒了。",
+      "range": [
+        3756,
+        4560
+      ],
+      "quote_head": "A horse stood in the dim kitchen",
+      "quote_anchor": "The moment my shaking fingers made contact with the horse’s powerful neck, I woke up."
+    },
+    {
+      "n": 8,
+      "who": "「我」",
+      "did": "「我」在被褥中慢慢坐起、上扬嘴角以确认「这是现实」；亮白的太阳照在晒黑的皮肤上；不知为何，「我」发现自己裸睡。",
+      "range": [
+        4563,
+        4747
+      ],
+      "quote_head": "I slowly sat up in my futon",
+      "quote_anchor": "I slowly sat up in my futon and raised the corners of my mouth to confirm that this was reality."
+    }
+  ],
+  "relationships": [
+    {
+      "pair": [
+        "「我」",
+        "Ushio"
+      ],
+      "relation": "船厂同行的熟人：两人一起回到船厂主楼；Ushio 以“Dinnertime, isn’t it?”搭话，「我」不确定是邀约还是自言自语，只以暧昧微笑回应、未明确答应，随即发动轻摩离开。",
+      "range": [
+        342,
+        576
+      ],
+      "quote_head": "Ushio and I returned to the shipyard’s",
+      "quote_anchor": "Ushio and I returned to the shipyard’s main building together."
+    },
+    {
+      "pair": [
+        "「我」",
+        "隔壁邻居（父・母・小孩的三口之家）"
+      ],
+      "relation": "近邻：「我」住在二楼，把走廊里侧翻的小孩三轮车悄悄立到他们门口；晚饭时听到隔壁父母轮流说话、逗得小孩放声大笑，声音透过薄墙传来（该段详见 E4 区间）。",
+      "range": [
+        942,
+        1022
+      ],
+      "quote_head": "I picked it up and quietly set",
+      "quote_anchor": "I picked it up and quietly set it upright by the door of my next-door neighbors."
+    },
+    {
+      "pair": [
+        "「我」",
+        "马"
+      ],
+      "relation": "梦中之遇：马在厨房低鸣，「我」感到它在呼唤自己；「我」一步步无声靠近、伸手向它乌黑发亮的身体，指尖触到其颈子的瞬间醒来。",
+      "range": [
+        4270,
+        4392
+      ],
+      "quote_head": "One, two steps. I moved closer",
+      "quote_anchor": "One, two steps. I moved closer to the horse without making a sound and stretched my hand out toward its glossy black body."
+    }
+  ]
+}

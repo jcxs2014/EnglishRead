@@ -1,0 +1,118 @@
+{
+  "chapter": "ch04",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch04_four.txt",
+  "source_len_chars": 18423,
+  "source_note": "纯素读，仅读 text/ch04_four.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "「我」（骑红色摩托的叙述者）",
+      "did": "又一次骑红色摩托驶过惯常的公路景物（家居卖场、超市、两家连锁餐厅、二手车行、倒闭的弹珠房）；红灯路口左转拐进稻田间的窄路，循风送来的动物气味找到白色木建筑和（此前见过的那辆）侧面写着 “Mugikura Riding Club” 的运马车，停下车。",
+      "range": [
+        24,
+        1520
+      ],
+      "quote_head": "The almost empty home-improvement retailer and the super-market,",
+      "quote_anchor": "Once I saw the words “Mugikura Riding Club” on the side of the horse trailer, I stopped my moped."
+    },
+    {
+      "n": 2,
+      "who": "「我」与那匹黑马",
+      "did": "停在摩托上望进骑乘场：栗色与菊花青两匹骏马旁立着那匹黑马（jet-black）；黑马的目光捕捉到我，如再次说「Found you」，令我屏息。",
+      "range": [
+        1612,
+        1919
+      ],
+      "quote_head": "Several horses were grazing. Still on my moped,",
+      "quote_anchor": "Found you, it felt like the horse said again, knocking the breath out of me."
+    },
+    {
+      "n": 3,
+      "who": "拄杖灰发老人 Mugikura（骑术俱乐部负责人）与「我」",
+      "did": "我下车走近围栏；一个灰发、声音沙哑、脸晒成暗红、拄着拐杖却精力如猛兽的老人不曾被察觉地站到身旁，问我是不是第一次来、想不想骑马；见我强笑后追问，自称 Mugikura、是这家骑术俱乐部的负责人；他说黑马刚到、不熟场地又天生野性，不推荐给初学者，见我目光不离黑马便说 “Well, why the hell not”，拖着一条腿领我去俱乐部会所（主楼白建筑）。",
+      "range": [
+        1922,
+        3077
+      ],
+      "quote_head": "I got off my moped and approached the fence,",
+      "quote_anchor": "The man with the cane introduced himself as Mugikura, the head of the riding club."
+    },
+    {
+      "n": 4,
+      "who": "娇小老妇人与「我」",
+      "did": "会所里 Mugikura 陷进旧皮沙发深深叹气（走几十米都疼），娇小老妇人接手接待；她问明我是初次骑马后报价「游客骑乘 12,000 日元（Visitors ride for 12,000 yen）」，初次免费出借头盔、马裤靴（jodhpur boots）与护腿（leg chaps），递给我登记表；我填了姓名、住址、电话、衣服尺码和鞋码。",
+      "range": [
+        3676,
+        4792
+      ],
+      "quote_head": "As soon as we entered the clubhouse, Mugikura sank",
+      "quote_anchor": "Visitors ride for 12,000 yen. Since it’s your first time, we’ll rent out a helmet, jodhpur boots, and leg chaps free of charge."
+    },
+    {
+      "n": 5,
+      "who": "老妇人＝Mugikura 之妻，兼马厩管理员；其夫＝全国冠军骑手",
+      "did": "Mugikura 身后窗边散放着十来块（a dozen or so）晒褪蒙尘的奖牌奖杯；壁炉旁挂着男骑手骑栗色大马跃障碍的照片，老妇人耳语说「那是我丈夫，是他赢得全国冠军时的照片」；她还说 Mugikura 从前是好骑手、任何躁马都会被他驯服，因比赛中重伤才成了现在这样；她自己不只管俱乐部办公室，还兼任马厩管理员（“even though I’m an old lady, I’ve got to work hard”）。",
+      "range": [
+        4795,
+        5911
+      ],
+      "quote_head": "A dozen or so award plaques and trophies",
+      "quote_anchor": "That’s my husband. It’s a photo from when he won the national championship."
+    },
+    {
+      "n": 6,
+      "who": "黑马与「我」、Mugikura",
+      "did": "我戴盔换靴踏入场地（脚跟陷进软土，栗色马与菊花青马在远处戒备观望）；Mugikura 一开口提醒（“Be careful”），黑马便发出高嘶、后腿朝我高高踢起，硬蹄险些碰到我的鼻尖，我吓得仰面摔进软泥；Mugikura 拉缰弹舌抚其翻白的马眼与后贴的耳朵，训诫「你可能已经丧命，记住马是凶猛的动物」「记住：马映照出我们自身（Horses reflect who we are）」，随后低声呢喃如施咒般安抚马、牵它回马厩；黑马驻足回头、歉意地望我。",
+      "range": [
+        5917,
+        8244
+      ],
+      "quote_head": "After putting on a helmet and changing into boots,",
+      "quote_anchor": "Its hard hooves just barely missed the tip of my nose. Scared stiff, I fell backward."
+    },
+    {
+      "n": 7,
+      "who": "「我」与 Mugikura",
+      "did": "望着那双眼睛我难舍难离，抓住 Mugikura 的手臂恳求「再给一次机会（One more chance）」；他与马「商量」后说 “Give it a try”；我戴着泥头盔从斜前方近马，按教以整只手掌抚马颈、感受马的呼吸；我因想被接纳而对马堆笑，被训「半心半意的笑在这里没有用」「笑只对人类有效（Smiles only work on humans）」「别再装乖」——我至今正是靠这样活过来的。",
+      "range": [
+        8247,
+        9691
+      ],
+      "quote_head": "Staring at those eyes, I was filled with",
+      "quote_anchor": "I realized that I’d been smiling at the horse out of a desire to be accepted. “Smiles only work on humans.”"
+    },
+    {
+      "n": 8,
+      "who": "「我」与黑马",
+      "did": "照 Mugikura 所说「与马同步呼吸，你们都是动物」，我深深吸气呼气；马的脉搏安定下来、节奏与我相合，四周声响退去只剩两颗心跳；我伸手抚马湿润的口鼻，马伸出粉舌舔我指尖，热流穿过手臂抵达心口，胸口发紧落泪——那一刻感到自己被原谅了；作为无言的道谢我抚马两眼之间，马俯下颈示意我上背。",
+      "range": [
+        9754,
+        10655
+      ],
+      "quote_head": "“Match your breath with the horse’s. You’re both",
+      "quote_anchor": "Synchronizing my breath with the horse’s, I inhaled and exhaled deeply."
+    },
+    {
+      "n": 9,
+      "who": "「我」骑乘黑马（尚未揭名）与 Mugikura",
+      "did": "我问「真的可以吗」，左脚踩镫；Mugikura 想从后扶我，我蹬地借力自己坐上马背，视野陡然升高；依教用小腿夹踢马腹，马由慢步转小跑（doo dah da 节奏），松缰后马颈前伸提速；未出声也未拉缰，马在我决意前一步先左转、再先一步右转——并非巧合，黑马知道我心里所想；其间忆起童年：住海边的祖父牵我第一次下海、松手入水的安心；我在马背随呼气哼唱 Doo dah da…，马以近小号音色的高嘶应和、与我互答成乐，飞鸟掠过多野加入合唱——「他存在于我之内，我也存在于他之内」。",
+      "range": [
+        10658,
+        15172
+      ],
+      "quote_head": "“Are you sure?” I asked, and firmly grasping",
+      "quote_anchor": "As I repeated this phrase, the horse whinnied in a high-pitched tone, as if to match my breath. He was singing along with me."
+    },
+    {
+      "n": 10,
+      "who": "Mugikura、Mrs. Mikoshiba（佩大钻戒与马蹄形耳环的女访客）与「我」；黑马＝Grande Strada",
+      "did": "Mugikura 喊「差不多了」，教我坐直拉缰，并以 “Whoa, whoa, whoa” 令疾驰的马完全停步；我下马道谢、抚其大汗淋漓却带奶香味的颈；戴马蹄形耳环与大钻戒的 Mikoshiba 夫人插到马与我之间想骑，被告知「Mrs. Mikoshiba，今天你骑不了这匹」，她以假笑应对；应她的问名，Mugikura 揭晓黑马身份：马名 Grande Strada，来自北海道一家名门牧场的纯血马（thoroughbred，有血统证书）、曾受赛马厚望，跑得快却屡次受伤、从全国赛到地方赛接连停胜，辗转多家骑术俱乐部来到此处；他聪明却难驯，昨天运抵途中挣脱逃跑（站上公路）——正是我们相遇的由来（「若非逃脱，我们永不会相遇」）。",
+      "range": [
+        15178,
+        18422
+      ],
+      "quote_head": "“That’s about enough,” Mugikura said. His voice",
+      "quote_anchor": "His name is Grande Strada.” He’d come from a famous farm in Hokkaido, Mugikura explained"
+    }
+  ]
+}

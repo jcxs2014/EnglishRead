@@ -1,0 +1,118 @@
+{
+  "chapter": "ch02",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch02_two.txt",
+  "source_len_chars": 17420,
+  "source_note": "纯素读，仅读 text/ch02_two.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "narrator（“我”）；Miu Unosawa（narrator 的年轻后辈同事）",
+      "did": "narrator 骑链子生锈的公司自行车穿过自成一镇的巨大船厂去送便当，先后经过 “Safety First”“Keep Area Organized”“Keep Area Clean” 标语牌，看到墙上写着 “To the Ocean Together” 的棒球场大小工厂，一角火花四溅；Miu 每天抱怨 “It’s so hot! My skin’s gonna burn!”，但脸、手臂和紧身裙下露出的腿都异常白；narrator 比她大二十多岁（over two decades older），两人穿着同一套公司制服",
+      "range": [
+        23,
+        1247
+      ],
+      "quote_head": "The shipyard was sprawling, like a town",
+      "quote_anchor": "A younger colleague of mine, Miu Unosawa, pedaled beside me, complaining with furrowed brows, “It’s so hot! My skin’s gonna burn!”"
+    },
+    {
+      "n": 2,
+      "who": "船厂吊车；narrator；船厂厂长",
+      "did": "每台超过一百米（over a hundred meters long）的吊车吊运将用作集装箱运输船船底的红色铁板（像 narrator 在电视上看过的巨鲸尸体）；希腊船主（Greek shipowner）订购的矿石运输船已建成约一半（halfway done），竣工后船长将超过三百米，厂长说约与东京车站（Tokyo Station）同大；narrator 从短期大学毕业、进造船公司并被分到该船厂至今二十五年，起初害怕造如此巨物会像母亲讲过的《旧约》巴别塔那样惹怒神，几个月后悟出工人做的与拼塑料模型差不多才放下心",
+      "range": [
+        1250,
+        3266
+      ],
+      "quote_head": "A shadow suddenly covered my field of",
+      "quote_anchor": "Twenty-five years had passed since I’d graduated from junior college, accepted a job at a shipbuilding company, and gotten assigned to this shipyard."
+    },
+    {
+      "n": 3,
+      "who": "narrator 与 Miu Unosawa（两年前入职的同事）",
+      "did": "两人避着乱堆的圆桶与开孔铁板骑车约八分钟（about eight minutes）后望见码头矿石船；船体被切开、暴露的横断面约二十层楼高（twenty-story building）；两人把共 42 个（forty-two）塑料便当盒扛进铁板厂，厂内超过一百华氏度（well over one hundred degrees），narrator 立刻担心便当会很快坏掉；两年前（two years ago）入职的 Miu 与厂里每个人随意搭话却从不显得失礼",
+      "range": [
+        3269,
+        4604
+      ],
+      "quote_head": "Miu and I had been riding our",
+      "quote_anchor": "The cross section of the ship, which was about the size of a twenty-story building, was exposed as if the ship had been sliced."
+    },
+    {
+      "n": 4,
+      "who": "棕发男工（上个月刚得孩子）；Miu；narrator（Yuko Setoguchi）",
+      "did": "队伍排头的棕发男工突然问 narrator 推荐哪样，narrator 习惯性地挤出敷衍微笑（半心半意的笑是她混人际的habit）；男工说 “Maybe I’ll take Miu”，据说他上个月（just last month）刚得了孩子、与孩子母亲同居前就爱说这种轻佻话，身后工人跟着起哄问 “Do you have a boy-friend?”；Miu 张开双臂护住 narrator、把话题引回午饭；narrator 想起昨天在食堂有女同事问 Miu 厌不厌这些性骚扰，Miu 答 “总比被讨厌好，当成一种沟通就没问题”",
+      "range": [
+        4702,
+        6527
+      ],
+      "quote_head": "Well then, Yuko, which would you recommend?”",
+      "quote_anchor": "He had supposedly had a baby just last month, but even before he’d shacked up with the mother, he’d been making the same inappropriate remarks."
+    },
+    {
+      "n": 5,
+      "who": "Kenjiro Ushio（原船匠、现任铁板焊接负责人）；narrator；Miu",
+      "did": "Ushio 低声说 “Thank you very much, Ms. Setoguchi.”；他起初以船匠（shipwright）身份入职、现任铁板焊接负责人，因总干到最后一分钟而每天排最后一个领便当、总是从 narrator 手里拿便当；narrator 回避式微笑着把最后一个便当（味噌煮鲭鱼）递给他；Ushio 嘀咕 “The accounting deadline is today, right”，narrator 还没想好怎么接，先一步上车的 Miu 喊 “Let’s go, Yuko!”，narrator 匆忙鞠躬转身时 Ushio 的声音落在她肩上：“I’ll see you later at the union office.”",
+      "range": [
+        6531,
+        7588
+      ],
+      "quote_head": "Thank you very much, Ms. Setoguchi.” Hearing",
+      "quote_anchor": "He’d initially joined the company as a shipwright, but was now head of iron-plate welding."
+    },
+    {
+      "n": 6,
+      "who": "Katsumi Fujii（总务部部长）；Miu；narrator",
+      "did": "两人回到总务部，部长 Fujii 拿着冰水瓶来感谢送便当，随后传达车站附近居民的投诉——员工在其楼前醉酒喧闹，要求当天结束前回复；Miu 盯着手机替 narrator 抢白说这是每年夏天的例行传统、是天热的缘故；Fujii 坚持 “please respond to the complaint before the end of the day”，narrator 没接话，只给自己写了张便条 “Take care of complaint by EOD.”；Fujii 用手指梳回花白头发、按住 narrator 肩膀低声说 “This place would not function without you.”",
+      "range": [
+        7592,
+        10015
+      ],
+      "quote_head": "When we returned to the General Affairs",
+      "quote_anchor": "“There was a complaint from a resident near the train station,” Fujii continued, paying Miu no mind."
+    },
+    {
+      "n": 7,
+      "who": "narrator",
+      "did": "narrator 精心写好致附近居民的道歉邮件后下班铃响；她再次骑上公司自行车，穿过吸烟亭（里面下班的男人挤得像罐头沙丁鱼）与厂房，看见夕阳把从码头伸向海面的吊车照成马形剪影，想起今早（this morning）高速公路上见过的黑马；避开一辆形似装甲车、堆满钢板的 36 轮（thirty-six-wheeler）卡车驶向码头，傍晚海风带来铁的气味",
+      "range": [
+        11040,
+        12150
+      ],
+      "quote_head": "After I’d meticulously crafted an apology email",
+      "quote_anchor": "It took my breath away as I recalled the black horse I’d seen on the highway this morning."
+    },
+    {
+      "n": 8,
+      "who": "narrator（童年）；母亲",
+      "did": "类似铁味勾起童年记忆：narrator 夜里常被温热液体从鼻腔流进喉咙弄醒，咽下尝到铁味，慌忙坐起开灯，枕头上留下鲜红血渍；因常流鼻血，母亲拖她跑了三家医院（three hospitals）也没查明原因；母亲让她预防性忌口巧克力与花生，narrator 虽热爱巧克力却一直戒到初中（junior high）；几年前得知流鼻血与巧克力并无关联后向母亲抱怨，母亲只说 “Did I say that?”，似乎完全不记得",
+      "range": [
+        12153,
+        12971
+      ],
+      "quote_head": "When I was a child, I would",
+      "quote_anchor": "Because I was prone to frequent nosebleeds, my mother dragged me to three hospitals, but we never found out what caused them."
+    },
+    {
+      "n": 9,
+      "who": "narrator（工会会计）；Kenjiro Ushio（两年前起任工会书记）",
+      "did": "narrator 骑车十分钟（ten minutes）到码头，绕到停靠修理的集装箱船船头再至船尾，看见港口尽头破旧预制板棚屋并停车入内；屋内约 12 叠大（twelve tatami mats）、胶合板墙多处剥落，Ushio 已先到；墙上挂着对这间小屋而言过大的红旗 “Sakamaki Shipbuilding Workers’ Union”，两人独处时 narrator 感到极其局促；Ushio 两年前（two years ago）起任工会书记（secretary-general），从组织会议、联谊到编工会会刊全包；narrator 每周三、周五傍晚 5:00-6:30（from five to six thirty）在这里做工会会计，开锁抽屉取出便笺本与计算器",
+      "range": [
+        12974,
+        14636
+      ],
+      "quote_head": "It was ten minutes to the pier",
+      "quote_anchor": "I worked on union accounting at the prefab shed every Wednesday and Friday evening from five to six thirty."
+    },
+    {
+      "n": 10,
+      "who": "narrator（管工会账）；Ushio（工会书记，钱的事全依赖 narrator）",
+      "did": "约 800 名（eight hundred）工会会员每人每月缴 2,000 日元会费，全部进工会账户；Ushio 递来上周聚会的酒馆收据 54,220 日元请 narrator 处理，narrator 在财务软件里把它记入 “Social gatherings”，同页既有条目为 36,200 日元 “Meeting bento”、13,000 日元 “Office door repair”、5,000 日元 “Condolence money for Yamamoto”、324 日元 “Envelopes and staples”；narrator 蹲到保险柜前拨盘：顺时针到 0、逆时针到 9、顺时针到 2、再逆时针到 3（密码是某 80 年代著名女歌手的生日），打开这台用了至少五十年、洗衣机大小的保险柜；柜里除旧书店礼卡与来历不明的礼券外，还有约 20 沴仍捆着货币带的现钞、每沓 100 万日元（1 million yen）；narrator 点清钞票零钱交给 Ushio，Ushio 说钱的事全靠她、她是唯一懂这里一切运转的人；九年来（nine years）人来人往，narrator 与吊车原样未变",
+      "range": [
+        14639,
+        17419
+      ],
+      "quote_head": "About eight hundred union members paid monthly",
+      "quote_anchor": "About eight hundred union members paid monthly dues of 2,000 yen each, all of which went into the labor union account."
+    }
+  ]
+}

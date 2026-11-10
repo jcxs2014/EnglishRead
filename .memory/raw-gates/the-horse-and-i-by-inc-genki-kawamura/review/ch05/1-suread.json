@@ -1,0 +1,118 @@
+{
+  "chapter": "ch05",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch05_five.txt",
+  "source_len_chars": 7999,
+  "source_note": "纯素读，仅读 text/ch05_five.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Mugikura、我",
+      "did": "「我」洗完靴子回到俱乐部时，Mugikura 坐在沙发上解将棋谜题、把 knight（马）向前推一格，问「You’ve ridden before, haven’t you?（你以前骑过马吧）」并追问「Was it when you were a kid?（是小时候骑的吗）」；「我」点头，将棋盘上哒的一声、马在敌方阵地内被翻面，Mugikura 说「Your body remembers（身体会记得）」。",
+      "range": [
+        24,
+        399
+      ],
+      "quote_head": "“You’ve ridden before, haven’t you?” Mugikura said when",
+      "quote_anchor": "“You’ve ridden before, haven’t you?” Mugikura said when I returned to the clubhouse"
+    },
+    {
+      "n": 2,
+      "who": "我、父亲、母亲",
+      "did": "小学时「我」随父亲去骑过几次马，前后历时两三年（two or three years），保留了肌肉记忆；当时父亲生意兴隆、家境优渥，父、母、「我」三人夏天骑马、冬天滑雪；「那件事」之后，家里只剩母亲和「我」两人。",
+      "range": [
+        402,
+        879
+      ],
+      "quote_head": "When I was in elementary school, I’d gone",
+      "quote_anchor": "I think it was over a period of two or three years, but I’d definitely retained some muscle memory."
+    },
+    {
+      "n": 3,
+      "who": "父亲、邻居（同学的母亲）、警方",
+      "did": "「我」初中毕业前后，手写传单贴上楼内公告栏，声称父亲与我们的邻居——「我」一个同学的母亲——有染；父亲大怒去找警察，警方没当真、只劝他「等着瞧」；随后事态逐步升级：一男一女进公寓的照片被复印上传单、贴到楼里每一户的门上，邻里开始流传那女人与父亲同去餐厅、一起出入可疑旅馆。",
+      "range": [
+        882,
+        1551
+      ],
+      "quote_head": "The handwritten flyer—which claimed that my father and",
+      "quote_anchor": "Livid, my father went to the police, but they didn’t take him seriously, advising him to simply wait and see."
+    },
+    {
+      "n": 4,
+      "who": "父亲、母亲、我",
+      "did": "父亲坚持把整件事当恶作剧置之不理，但一向在意旁人眼光的母亲无法容忍被大家看成「被丈夫背叛的女人」；传单上那个男人背影确实很像父亲；事件恰逢日本经济崩坏、父亲生意开始受损；「我」初中毕业时父母分居，「我」随后升入本地公立高中。",
+      "range": [
+        1554,
+        2107
+      ],
+      "quote_head": "My father insisted that we ignore the entire",
+      "quote_anchor": "This incident happened to overlap with the tanking of the Japanese economy, and my father’s business had begun to suffer."
+    },
+    {
+      "n": 5,
+      "who": "Miyoko、母亲、我",
+      "did": "母女搬离与父亲同住的楼、搬进更小的公寓约三个月后（Three months in），Miyoko 来访——她是「我」初中同学、即传闻中父亲情人的那个女人的女儿；母亲恰在上班，「我」让她进门、从冰箱倒了冰麦茶与她对面而坐；她低头静坐一阵后突然自白「I did it（是我干的）」，手指发抖、湿玻璃杯不断从手中滑脱；她说「你比我漂亮、你家比我有钱、你父母感情和睦」。",
+      "range": [
+        2110,
+        2938
+      ],
+      "quote_head": "My mother and I left the building where",
+      "quote_anchor": "“I did it,” Miyoko, who for a while had been sitting quietly, looking down, suddenly confessed."
+    },
+    {
+      "n": 6,
+      "who": "Miyoko、超市经理、Miyoko 的母亲、我一家三口",
+      "did": "Miyoko 讲出动机：某个周日她极想见母亲、去母亲打工的超市，看见经理——一个常来她家的秃头男人——在她母亲往货架码鸡蛋的全程摸母亲的臀部，母亲全程挂着假笑，她不敢上前、只能看着；同一刻她看见「我」与父母一起开心购物、挑不同的肉商量吃 sukiyaki／yakiniku／shabu-shabu，而她家总吃母亲从店里带回家的过期即食菜；说完她喝完了麦茶。",
+      "range": [
+        2941,
+        3845
+      ],
+      "quote_head": "Miyoko finally grabbed the glass. She brought it",
+      "quote_anchor": "I found the manager fondling my mom’s hips the entire time she was stacking eggs on a shelf."
+    },
+    {
+      "n": 7,
+      "who": "Miyoko、父母、周围大人",
+      "did": "Miyoko 说出手法：她回家复印了一张「看起来像你父亲和我母亲」的照片、写下那份传单，目的是让你父母羞得不敢出门，此后再无一言；她还自认曾以为你家过得好是因为钻了制度的空子、自己母女老实本分才处处不顺，最后近乎耳语地说「the lie hurt me（谎言伤的是我自己）」；午间「我」听着隔壁综艺声反思：母亲和周围的大人们都把这个孩子写的廉价传单当了真、没人在乎真假；Miyoko 走后，小公寓里只剩一片空虚。",
+      "range": [
+        3848,
+        5090
+      ],
+      "quote_head": "“I went home and photocopied a picture that",
+      "quote_anchor": "I went home and photocopied a picture that looked like it could’ve been your father and my mom and wrote that flyer."
+    },
+    {
+      "n": 8,
+      "who": "母亲、我、父亲",
+      "did": "日落后母亲回家、径直进厨房做晚饭，边切白菜边欢快聊工作上新交的朋友，切完菜像顺带一句似的说「I’m thinking of divorcing your father（我想和你父亲离婚）」；见「我」不答便煎姜烧猪肉，说「来得正是时候——他总不在家、已无话可说、再一起生活已没意义」，又收尾道「他现在大概早有别人，这样正好」，把煎好的肉片铺到白菜丝上；「我」没有告诉母亲传单内容是捏造的——早知道母亲想离婚却不知如何自己开口，于是保持沉默、让她的心愿成真。",
+      "range": [
+        5096,
+        6458
+      ],
+      "quote_head": "When the sun went down, my mother came",
+      "quote_anchor": "I didn’t tell my mother that the contents of the flyer had been made up."
+    },
+    {
+      "n": 9,
+      "who": "母亲、父亲、我（Yuko）",
+      "did": "离婚六个月后（Six months later），母亲在离婚财产分割中从父亲处拿到数百万日元（several million yen）资产；「Men can’t be trusted（男人靠不住）」成了母亲的口头禅（trademark phrase），她还叮嘱「Yuko, you better be careful」；「我」一进三十几岁（thirties）她就不断逼婚、反复讨孙辈；过了四十岁（forty）她突然不再提结婚；两年前（two years ago）母亲病倒，如今住在护理机构（nursing facility），「我」独居公寓，因母亲的护理费和自己的日常开销而手头拮据。",
+      "range": [
+        6461,
+        7247
+      ],
+      "quote_head": "Six months later, my mother received several million",
+      "quote_anchor": "Six months later, my mother received several million yen in assets from my father in the divorce settlement."
+    },
+    {
+      "n": 10,
+      "who": "Mugikura、我、那匹马",
+      "did": "回到当下，Mugikura 问「How did you like it?（感觉如何）」，见「我」不答便张开锈色嘴唇调侃「你比马还紧闭着嘴（tight-lipped than a horse）」，「我」窘得咧嘴一笑；他说「我觉得那匹马喜欢你——它是唯一让你摸它口鼻（muzzle）的马」，「我」把租来的仿皮靴抓得更紧；他边看将棋边补一句「我光看着就看得出来」（翻转的马正把王将逼入绝路），随后露出金牙大笑、笑声充满俱乐部，说「你随时可以来看它」；「我」感到脸放松下来，预约了下个周六（the following Saturday）后离开。",
+      "range": [
+        7253,
+        7998
+      ],
+      "quote_head": "“How did you like it?” Mugikura asked, bringing",
+      "quote_anchor": "You were the only one he let touch his muzzle."
+    }
+  ]
+}

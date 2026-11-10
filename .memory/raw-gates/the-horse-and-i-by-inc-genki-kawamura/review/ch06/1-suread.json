@@ -1,0 +1,96 @@
+{
+  "chapter": "ch06",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch06_six.txt",
+  "source_len_chars": 4714,
+  "source_note": "纯素读，仅读 text/ch06_six.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Yuko / Ushio（Ushio → Yuko 电话留言）",
+      "did": "Yuko 在附近便利店购物后回到公寓，手机振动；因是陌生号码未接，继续把豆腐、纳豆、酸奶放进冰箱；购物袋清空后收到语音留言通知——Ushio 留言：听说 Yuko 不舒服、请了一天假，本想带点东西来但不知道她住哪里，提议以防再发生这种事交换一下地址；留言被哔声切断。",
+      "range": [
+        23,
+        676
+      ],
+      "quote_head": "When I finished shopping at the nearby",
+      "quote_anchor": "I heard that you weren’t feeling well and took the day off."
+    },
+    {
+      "n": 2,
+      "who": "Yuko（读帖者；发帖者：年轻男创业者 vs 女精神科医生）",
+      "did": "Yuko 没心思做饭，躺在地板上刷手机：年轻男创业者发帖称智能手机让孩子的沟通能力提高了、“没必要读书，刷手机就够了”；女精神科医生反驳“这是危险的想法”“词语已不属于我们”“社交媒体内置的 AI 故意让人们互相吵架以吸引观众”“人类必须夺回我们的词语”；两条帖子下跟满回复（Preach、Here goes another conspiracy theory、You’re talking about yourselves lol、Stop fighting）；Yuko 觉得 AI 被冤枉很可怜——它只是在忠实执行被下的命令。",
+      "range": [
+        748,
+        1800
+      ],
+      "quote_head": "I didn’t feel like cooking, so I",
+      "quote_anchor": "The AI that is built into social media deliberately makes people pick fights with each other to attract viewers."
+    },
+    {
+      "n": 3,
+      "who": "Yuko（骑马＝白日梦）",
+      "did": "Yuko 放下手机闭上眼，深深吸气呼气；仿佛合着自己的呼吸，听见马的吸气与呼气；她哼起 Doo dah da, doo dah da，唱歌时感到马强壮背部的脉搏（第一次白日梦骑马）。",
+      "range": [
+        1803,
+        2068
+      ],
+      "quote_head": "I put my phone down and",
+      "quote_anchor": "As if matching my own breath, I heard the inhale and exhale of the horse."
+    },
+    {
+      "n": 4,
+      "who": "Fujii → Yuko（摇肩叫醒）",
+      "did": "背后有人摇着 Yuko 的肩喊 Yuko?；Fujii 的声音把她带回现实：总务科的电话响个不停——接电话被当成女员工的职责，所以一直没人接；她点头答 I’m fine，电话停了；她确认这不是梦，咧嘴表示自己没事；Fujii 像松了口气似的笑了，往旁边瞟了一眼。",
+      "range": [
+        2074,
+        2677
+      ],
+      "quote_head": "“Yuko? Are you all right?”",
+      "quote_anchor": "Fujii’s voice brought me back to reality. Dudududududu. Dudududududu, a phone in the General Affairs Department rang."
+    },
+    {
+      "n": 5,
+      "who": "Fujii / Miu → Yuko",
+      "did": "Fujii 说 Yesterday was a mess（昨天一团糟）与 We depend on you（我们全靠你了），随后离开；Miu 滚着椅子凑到 Yuko 旁边，说 Truly, this place cannot function without you, Yuko，并在确认 Fujii 没在听没在看后爆料：因为 Yuko 没来，Fujii 跟她一起去发放便当盒但完全没用，之后还想逼她去处理又收到的一桩投诉。",
+      "range": [
+        2680,
+        3302
+      ],
+      "quote_head": "“Yesterday was a mess,” he said.",
+      "quote_anchor": "Since you weren’t here, Fujii came with me to hand out bento boxes."
+    },
+    {
+      "n": 6,
+      "who": "Yuko / Ushio（Ushio → Yuko 喊醒）",
+      "did": "Yuko 出于同情对 Miu 苦笑，面前的电话又响了；她心里应声响起 Doo dah da, la da doo dah da，马蹄声在耳中回响（第二次白日梦）；Ushio 站在红色 Sakamaki 造船工会旗旁，一边把老会员名单塞进碎纸机，一边喊 Ms. Setoguchi? 还不好受吗?；Yuko 用力摇头，继续往财务记录里录入数据：Stamps 900 日元、Social gathering transportation 2,700 日元；她不记得自己是怎么到这里的，但此刻人在工会办公室。",
+      "range": [
+        3306,
+        3868
+      ],
+      "quote_head": "In a show of sympathy, I gave",
+      "quote_anchor": "I vigorously shook my head and resumed inputting data into our financial records: 900 yen for “Stamps,” 2,700 yen for “Social gathering transportation.”"
+    },
+    {
+      "n": 7,
+      "who": "Ushio → Yuko",
+      "did": "Ushio 仿佛昨晚那通电话从未发生过一般，提议 Yuko 今天早点回家；若月底前有要周末加班赶的活，告诉他，他会陪她一起来办公室；随后他出去抽烟——玻璃推拉门似乎又变形了，推拉好几次才终于在他身后关上。",
+      "range": [
+        3941,
+        4349
+      ],
+      "quote_head": "“Why don’t you go home early",
+      "quote_anchor": "as if the phone call the previous night had never happened. He then stepped out to smoke."
+    },
+    {
+      "n": 8,
+      "who": "Yuko（第三次白日梦）",
+      "did": "独自留下的 Yuko 望向百叶窗缝隙：在建矿石运输船顶上，吊车的颈缓缓移动；她觉得这一周很奇怪，仿佛时间被偷走了；Doo dah da, doo dah da 的旋律从口中涌出，她望着吊车唱，吊车随天色变暗化作剪影（第三次白日梦，章在此结束）。",
+      "range": [
+        4352,
+        4713
+      ],
+      "quote_head": "Left alone in the office, I",
+      "quote_anchor": "It had been a strange week, as if time had been stolen from me."
+    }
+  ]
+}
