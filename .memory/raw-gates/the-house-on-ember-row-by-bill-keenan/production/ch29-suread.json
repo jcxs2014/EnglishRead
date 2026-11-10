@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch29",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch29_chapter_twenty_nine.txt",
+ "facts": [
+  {
+   "fact": "车窗倒影：从车祸到现在的某个节点，他已认不出自己——霓虹在冬暮的车窗上拖影。",
+   "anchor": "Somewhere between the accident and now",
+   "start": 1087,
+   "end": 1125
+  },
+  {
+   "fact": "押送：铁丝网铁链门后的无窗建筑；入监登记——姓名、罪名（三项）由 Rhodes 代答。",
+   "anchor": "The city jail",
+   "start": 1375,
+   "end": 1388
+  },
+  {
+   "fact": "按指纹：墨印冷而黏——指纹滚进纸面，「把我归档进一个无底的系统，从此永远存在」。",
+   "anchor": "Press. Roll. Lift.",
+   "start": 2531,
+   "end": 2549
+  },
+  {
+   "fact": "签字：墨迹未干的笔签下名字——签完那一刻，「我的一切都不再属于我」。",
+   "anchor": "“Sign here.”",
+   "start": 2705,
+   "end": 2717
+  },
+  {
+   "fact": "搜身：命令由一个说了太多次、不再有兴趣的人发出；脱到赤裸——脱掉的不只是衣服，「是过去的我最后一点残余，被一件件叠好带走」。",
+   "anchor": "“Strip.”",
+   "start": 2867,
+   "end": 2875
+  },
+  {
+   "fact": "牢房尺寸：8×10 英尺——他几年前写过一篇关于这种牢房的报道，记得尺寸；铁架床垫、无盖钢厕、滴水的水槽。",
+   "anchor": "Eight feet by ten",
+   "start": 4253,
+   "end": 4270
+  },
+  {
+   "fact": "定格：这就是了——不再等待、不再假装；他到了「余生将在此被决定」的地方。",
+   "anchor": "the place where the rest of my life would be decided",
+   "start": 5208,
+   "end": 5260
+  },
+  {
+   "fact": "章末：下一程已经开始——而他完全不懂这里的规则。",
+   "anchor": "And I had no idea of the rules.",
+   "start": 5455,
+   "end": 5486
+  }
+ ]
+}
