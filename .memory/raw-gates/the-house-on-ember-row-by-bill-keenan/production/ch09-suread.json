@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "开场：Solstice 如巨刃切过海湾，光滑而无情，只留下尾迹证明它来过。",
+   "anchor": "Solstice carved through the bay like a massive blade",
+   "start": 37,
+   "end": 89
+  },
+  {
+   "fact": "Wren 特写：他不参与派对，端着没动过的酒杯保持戒备；问他今天是什么日子，答「和每一天一样」。",
+   "anchor": "watching the party with a studied vigilance",
+   "start": 1515,
+   "end": 1558
+  },
+  {
+   "fact": "命名问答：Wren 解释游艇为什么叫 Solstice——「因为那是一年里白昼最长的一天」（与 Quinn 的解读互证）。",
+   "anchor": "Because it’s the longest day of the year.",
+   "start": 2268,
+   "end": 2309
+  },
+  {
+   "fact": "关键转向：从游艇上 Quinn 认出了海岸线上的码头——一旦看见就无法装作没看见。",
+   "anchor": "I couldn’t unsee them.",
+   "start": 3180,
+   "end": 3202
+  },
+  {
+   "fact": "案件回声：站在甲板上俯瞰码头，Quinn 心里只有两句话——他们管那叫自杀；他们始终没找到尸体。",
+   "anchor": "They’d called it a suicide.",
+   "start": 3396,
+   "end": 3423
+  },
+  {
+   "fact": "试探开始：Quinn 向 Ellison 承认自己前几天去过码头，说那地方「埋着很多故事」。",
+   "anchor": "Feels like it has a lot of buried stories.",
+   "start": 3886,
+   "end": 3928
+  },
+  {
+   "fact": "正面交锋：Ellison 笑容不变地回敬「有些故事不配被记得」；两人对视——那一瞬像一场测试。",
+   "anchor": "aren’t meant to be remembered.",
+   "start": 4192,
+   "end": 4222
+  },
+  {
+   "fact": "断裂转场：Ellison 拍背换回轻松语气，说要介绍一个人给 Quinn 认识，「我想你会喜欢她」；前一刻的对峙仿佛从未发生。",
+   "anchor": "“I want to introduce you to someone.”",
+   "start": 4526,
+   "end": 4563
+  }
+ ]
+}
