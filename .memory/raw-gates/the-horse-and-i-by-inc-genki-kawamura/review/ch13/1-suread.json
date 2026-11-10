@@ -1,0 +1,118 @@
+{
+  "chapter": "ch13",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch13_thirteen.txt",
+  "source_len_chars": 11090,
+  "source_note": "纯素读，仅读 text/ch13_thirteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。补充：任务清单中的“保险柜密码”在本章原文未出现（无保险柜/密码情节），未虚构；本章实际出现的数字已全部记录：三笔碎纸金额 213,600/89,670/62,000 日元、十年、九年、三天、过晚上11点、26,250 日元收据（余数250）、下周交船、下水典礼十天后、一百多级台阶、六根汽缸、海拔七十米、矿石舱约三十米×三十米。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Setoguchi（叙述者“我”）",
+      "did": "深夜在工会办公室把一页页纸喂进碎纸机：“Training trips”213,600日元、“Social gatherings”89,670日元、“Office repairs”62,000日元被一一吸进旋转刀口之间。",
+      "range": [
+        29,
+        309
+      ],
+      "quote_head": "The shredder in front of me sliced",
+      "quote_anchor": "213,600 yen for “Training trips,” 89,670 yen for “Social gatherings,” 62,000 yen for “Office repairs.”"
+    },
+    {
+      "n": 2,
+      "who": "Setoguchi（叙述者“我”）",
+      "did": "她接手工会会计后把手写现金账与收据全部电子化并打印装进透明塑料套留底，苦干十年、成果只有她自己看过；她一点点改动电子账把预算做平，下班后把与纸面账对不上的旧收据连同旧存折一起塞进碎纸机；九年分量的纸页碎了三天还没碎完，此刻已过晚上11点，碎纸机慢得像爬行的毛毛虫，脚趾冻僵。",
+      "range": [
+        312,
+        1437
+      ],
+      "quote_head": "When I began working on union accounting",
+      "quote_anchor": "ten years passed with no one looking at the results of my painstaking efforts but me."
+    },
+    {
+      "n": 3,
+      "who": "Ushio 与 Setoguchi",
+      "did": "有人低声唤“Ms. Setoguchi . . .”——今晚并非工会办公日且是深夜；她回头发现 Ushio 在滑动玻璃门外看着她，慌乱强作微笑点头；Ushio 笑着硬推开卡住的玻璃门挤进板房（“这扇门得修了”“你工作到这么晚”），身后是红色 Sakamaki 造船工会旗；她颈部以下僵住、只用眼珠评估形势，急忙关掉碎纸机——一张26,250日元“Business trip expenses”收据的右角像舌头一样垂在机外；Ushio 走到她身旁，凑近看从碎纸机口戳出的数字250（亲眼看见她销毁收据）；她摇头答不上来；Ushio 轻声说“抱歉打扰了，你继续忙”，用沾油污的手指把碎纸机重新打开。",
+      "range": [
+        1440,
+        3185
+      ],
+      "quote_head": "Ms. Setoguchi . . . Just as I was",
+      "quote_anchor": "I quickly turned around and found Ushio watching me from outside the sliding glass door."
+    },
+    {
+      "n": 4,
+      "who": "Ushio（对 Setoguchi）；Setoguchi",
+      "did": "Ushio 盯着碎纸机把那张收据吞完，问她“Ms. Setoguchi, do you have any time after this?”（之后有空吗），说“我在外面等你”，露出烟渍牙、不等回答便转身出去，用防护靴把翘曲的玻璃门硬关上；她带着认命感唱起歌，一边唱一边把塑料套里剩余的账本一本一本喂进碎纸机。",
+      "range": [
+        3188,
+        4013
+      ],
+      "quote_head": "The machine began moving again, shredding the receipt",
+      "quote_anchor": "Ushio stared at the number as the shredder swallowed it. “Ms. Setoguchi, do you have any time after this?”"
+    },
+    {
+      "n": 5,
+      "who": "Ushio（带 Setoguchi 登船）",
+      "did": "Ushio 边走向矿石船边咕哝这艘船下周建成交给船东（船约与高层建筑同高，如马颈的吊车吊着黑色块状物）；他开始爬登船铁梯、靴声在黑暗中回响，她一心跟随；他说听说下水典礼十天后举行，问她知道船为何总以女性命名（如 Queen Elizabeth、Santa Maria）吗；不等她回答便讲出他的理论：需要频繁重涂像女人补妆、装扮船像打扮贵妇、防美人鱼弄沉等说法都是事后编的——船毫无疑义是女性（他原本是造船匠），船像母亲或恋人，总之绝对是女人。",
+      "range": [
+        4290,
+        5977
+      ],
+      "quote_head": "Apparently, this ship’s going to be completed",
+      "quote_anchor": "You know how ships are always given the names of women, like Queen Elizabeth and Santa Maria?"
+    },
+    {
+      "n": 6,
+      "who": "Ushio 与 Setoguchi",
+      "did": "两人估计已爬过一百多级台阶；顶层门内是体育馆大小的白色空间，脚下引擎如巨大心脏、连着六根汽缸与管道；走过引擎室上方猫道进入船员舱走廊（新漆刺鼻、桌床罩着塑料膜），尽头昏暗餐厅里五名棕色皮肤的菲律宾船员在喝酒（为下水典礼做准备），认出 Ushio 是船厂员工后挥手；再爬仅容一人的窄梯，两人四只脚的脚步声像马；她热汗淋漓几乎跪倒时 Ushio 停步说“到了”并推开门，海风灌入，眼前是鲜红的新甲板；Ushio 提醒“我们在海拔七十米处，小心”。",
+      "range": [
+        5980,
+        8507
+      ],
+      "quote_head": "We must have climbed over one hundred steps",
+      "quote_anchor": "A bright red deck stretched out in front of us."
+    },
+    {
+      "n": 7,
+      "who": "Ushio（对 Setoguchi）",
+      "did": "Ushio 低声说“I’m glad”（感应到她的点头回应）后，避开一卷缆绳慢慢走向甲板中央停下向下看，她跟上顺他目光看去，只看见一张着大口的黑暗；他说“听说公司可能发起调查”；鲜红甲板中央是一个黑洞——储存铁矿石的舱；她盯着漆黑开口，觉得有怪物要爬出来。",
+      "range": [
+        9168,
+        9694
+      ],
+      "quote_head": "He murmured, “I’m glad,” seeming to have sensed",
+      "quote_anchor": "“I heard the company might launch an investigation,” he said."
+    },
+    {
+      "n": 8,
+      "who": "Ushio（对 Setoguchi）",
+      "did": "她双腿发软，一股风从洞里冲出令她失去平衡、膝盖发抖；Ushio 像自言自语般继续说“没事的，趁他们注意到之前把钱还回去”，一直盯着那个约三十米×三十米的洞，说“有什么我能做的就告诉我”（向她提出帮忙）；接着出现一句“I want to help you.”（原文独立成段、未标明说话者）；她从斜后方看他的脸——他的眼在飞机警示灯的红光里闪着；她想到“他若掉进洞里会当场死亡”，又想到“那样就没人会知道我的罪”。",
+      "range": [
+        9697,
+        10452
+      ],
+      "quote_head": "My legs felt weak. Just then, I was",
+      "quote_anchor": "“It’ll be all right. Just return the money before they notice,” Ushio continued, as if he were talking to himself."
+    },
+    {
+      "n": 9,
+      "who": "Setoguchi（在 Ushio 眼中看见黑马）",
+      "did": "她屏住呼吸向他靠近；Ushio 转身看她；她回望时倒吸一口气——那匹黑马就在 Ushio 的眼睛里，站在夜晚的公路上直直地看着她。",
+      "range": [
+        10455,
+        10678
+      ],
+      "quote_head": "I held my breath and moved closer",
+      "quote_anchor": "The black horse was inside Ushio’s eye.\n\n\nIt was standing on the highway at night, looking straight at me."
+    },
+    {
+      "n": 10,
+      "who": "Setoguchi（对 Ushio）",
+      "did": "她扑进 Ushio 怀里；他猝不及防连退两三步（她听见他的心跳有力）、脚跟退到舱口边缘；她双臂环住他的脖子把他推倒在红色甲板上——身体像被马的眼睛控制着；她跨骑在 Ushio 身上，把唇贴上他的唇。",
+      "range": [
+        10707,
+        11089
+      ],
+      "quote_head": "I ran into Ushio’s arms. Caught off guard",
+      "quote_anchor": "I put my arms around his neck and pushed him down onto the red deck."
+    }
+  ]
+}
