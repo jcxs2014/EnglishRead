@@ -27,7 +27,7 @@ modified: "2026-11-10"
 
 **中文理解**：读了几封信后 Clara 发现：母亲的家书里没有一个实质答案——人名、事由、去向全都语焉不详。这不是文风，是刻意：母亲在信件里也执行着「穿越保密」的纪律，连对闺蜜写信都在防泄密。
 
-**关键词**：intentionally vague / the first letter / actual answers
+**关键词**：gives me the impression / intentionally vague / her news
 
 **为什么这样写**：作者让「保密」从行为升级为习惯——母亲连纸面都要消毒，任何落到别人手里的字都可能改变时间线。Clara 读信读出的是缺席：她要的答案越少出现，母亲的谨慎就越刺眼。
 
@@ -99,7 +99,7 @@ modified: "2026-11-10"
 
 **中文理解**：额头相抵、掌心贴颊的那一刻，Clara 得出结论：和他在一起，我是完整的——只是以前不懂。这不是心动，是归位：她的身体、记忆、灵魂在 Quint 的触碰里一次性对齐。
 
-**关键词**：complete with him / didn't understand / For the first time in months, no note of fear
+**关键词**：I’m complete with him / just didn’t understand / that before
 
 **为什么这样写**：作者用「完整」取代「爱」作定语——爱的语义已被这场三角撕碎，而「完整」指向的是前世记忆的机制：她缺的那一块一直在他那里。无恐惧（no note of fear）是全章唯一一次心理静默。
 

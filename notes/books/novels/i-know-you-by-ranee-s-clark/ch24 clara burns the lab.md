@@ -54,10 +54,12 @@ modified: "2026-11-10"
 **读者视角提示**：把这句与 ch20 断鞋时的「Curse」对读——同一副身体的两次溃败与两次站起；她此刻的独白是给读者的预告：这章的终点是爆炸不是眼泪。
 
 > **原句 5:** I need to destroy the lab downstairs.
+>
+> Which means I need to do something to tip the status quo before that happens.
 
 **中文理解**：被绑在直背木椅上（手腕被扎带磨破），Clara 的脑子却异常清醒：Gibbons 随时可能带着药丸和计划去德国——不能等救援，必须毁掉楼下的实验室。人质的身份在第三天变成战士的作战计划。
 
-**关键词**：destroy the lab / before that happens / tip the status quo
+**关键词**：tip the status quo / destroy the lab / downstairs
 
 **为什么这样写**：作者让「等待」与「行动」的分岔用一句话完成——她算的是全局（药丸+德国+时间差），不是自身安危；「tip the status quo」的措辞带着任务组语言的味道：她已经在用战士的思维说话。
 
@@ -74,40 +76,44 @@ modified: "2026-11-10"
 **读者视角提示**：对比 Gibbons 试衣间的「轻易制住」与这次的「断鼻」——同一对敌手，胜负换手的全部变量是她不再等待；记住这个「借剧本反杀」的战术，它在 Bailemore 身上复用。
 
 > **原句 7:** Looking up, I meet the cold glare of Lord Bailemore.
+>
+> “What’s this?” he asks, bemused. He grips my upper arm and looks past me. “Has your female company gotten the better of you?”
 
 **中文理解**：逃下楼梯的最后一步撞进一个结实的胸膛——抬头，是 Lord Bailemore 冰冷的目光。从 video 里走出来的买家本人：英国勋爵、比国王富有、刚刚谈成灭国生意。她的逃亡从「甩掉一个 CIA」升级成「面对两个人」。
 
-**关键词**：cold glare / well-built, well-dressed / Has your female company gotten the better of you
+**关键词**：cold glare / Lord Bailemore / gotten the better of you
 
 **为什么这样写**：作者让反派二的登场零铺垫——墙一样的人体+video 里的声音，恐惧的维度直接加倍；Bailemore 的第一句话（你的女伴占了上风？）用玩笑嘲讽 Gibbons，两个反派的塑料同盟当场显形。
 
 **读者视角提示**：Bailemore 与 Gibbons 的互相拆台（「She's the girlfriend of that meddler」/「You're welcome to her」）是反杀的伏笔——他们不团结，各自把她当战利品；这个裂缝后面会被 Clara 用到底。
 
-> **原句 8:** Gibbons begins throwing punches, no longer treating me as an unworthy opponent.
+> **原句 8:** Gibbons begins throwing punches, no longer treating me as an unworthy opponent. Not surprising, given he’s from the modern era and he’s learned quickly. I may be dressed like a dame from the thirties, but I’ve been trained.
 
 **中文理解**：走廊追击战进入真打：Gibbons 开始出拳——不再把她当「不配的对手」。Clara 用前臂格挡、踢膝、抱摔放倒他，一套 Burke 教的组合拳在实战里逐帧展开。1930s 的 dame 外表、现代的训练内核，这场对打就是她的身份宣言。
 
-**关键词**：no longer treating me / unworthy opponent / I've been trained
+**关键词**：no longer treating me / unworthy opponent / I’ve been trained
 
 **为什么这样写**：作者让「被认真对待」成为勋章——Gibbons 的出拳是对她战斗力的认证；动作设计的节奏（block/kick/wrap/slam）与 ch17 的训练描写逐项对应，读者能数出每一招的出处，爽感来自「学到的东西都用上了」。
 
 **读者视角提示**：这是全书动作戏的高潮首段——注意 Gibbons「学得快」（from the modern era）的对等性：两个 21 世纪人在 1938 的走廊互搏；Clara 赢的不是力气，是决断与地形（厨房的化学架）。
 
 > **原句 9:** Lord Bailemore stumbles back, clutching his forehead and loosening his grip on my arm.
+>
+> I swing my head forward, slamming it into Lord Bailemore’s with a satisfying crack—and a rip of pain. Funny how they misjudge my ability to hurt them because I’m a woman.
 
 **中文理解**：Bailemore 把她拉进怀里袭臀，Clara 用头槌回敬——一声清脆的撞击，他捂着额头踉跄松手。她一边疼一边快评：Funny how they misjudge my ability to hurt them because I'm a woman。两个人、两颗被她打伤的头。
 
-**关键词**：stumbles back / clutching his forehead / because I'm a woman
+**关键词**：misjudge my ability / I’m a woman / clutching his forehead
 
 **为什么这样写**：作者让「性别低估」的代价完成双杀实证——Gibbons 断鼻、Bailemore 撞额，两个反派都为同一个偏见付账；satisfying crack 的爽感与 rip of pain 的代价并列，真实的搏斗从没有免费的痛击。
 
 **读者视角提示**：这是全章的主题句——「他们因为我 是女人而误判我能伤他们」；从 ch20 的肘击、ch24 的膝裆到这记头槌，三次反杀构成一条完整的「反低估」弧线。
 
-> **原句 10:** Grinning at him, I fling the nearest dial to high.
+> **原句 10:** Grinning at him, I fling the nearest dial to high. To my chagrin, nothing happens.
 
 **中文理解**：冲进实验室的厨房，Clara 笑着对 Gibbons 把煤气灶的旋钮拧到最大——毒剂货架在她身后被逐一掀翻，玻璃与化学品碎裂满地；可拧完旋钮她愣住：没有自动点火。火种在对面墙上：一盏煤气壁灯。她抓起毛巾盖上去。
 
-**关键词**：Grinning at him / fling the nearest dial to high / toss the towel on top of the light
+**关键词**：Grinning at him / fling the nearest dial to high / To my chagrin
 
 **为什么这样写**：作者让「教科书爆炸」先失败一次（无自动点火）再成功——真实的破坏需要物理细节（gas stove、wall sconce、towel）；Grinning 是她的宣战表情，从「求救的人质」到「放火的纵队」，这一笑是全章的身份切换点。
 

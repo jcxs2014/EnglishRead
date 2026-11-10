@@ -63,11 +63,11 @@ modified: "2026-11-10"
 
 **读者视角提示**：15 分钟是本章后半的节拍器——布防、争论、上楼、写作、入睡全部发生在这个窗口内；读者应该在「冷手捂嘴」那一拍回头算时间：他到底等了多久？
 
-> **原句 6:** "Suppose I don't send you back."
+> **原句 6:** “Do you like 1938, Ben? Suppose I don’t send you back.”
 
 **中文理解**：Ben 命令她回房，Clara 打出最后的牌：你猜如果我不送你回去？开门能力的第一次武器化——她不只是司机，她是唯一的门。Ben 大笑着戳穿虚张声势（Don't try to bluff me），但这句话已经改变了他们关系的力学。
 
-**关键词**：Suppose I don't send you back / bluff / like a good girl
+**关键词**：Suppose I don’t send you back / Do you like 1938, Ben / Ben
 
 **为什么这样写**：作者让平权斗争走到「核威慑」的阶段——威胁的不是伤害而是「扣留」；Ben 的「like a good girl」是挑衅式的软化（他不敢真赌），而 Clara 的「No」是她第一次在力量层而不在道理层与他抗衡。
 

@@ -24,10 +24,12 @@ modified: "2026-11-10"
 **读者视角提示**：注意 Ben 的「Don't blame yourself. I asked you.」——他坚持「求婚是我先开口」，是在替她分担道德重量；这份体面让 ch24 的强吻有了被原谅的通道。
 
 > **原句 2:** "I told Ida Swanson everything about who I was,"
+>
+> He hurries on, ignoring my interruption. "I asked her to marry me. I thought I was stuck, and I made a stab to be happy."
 
 **中文理解**：Ben 摊出最后一张底牌：他对 Ida Swanson 全盘托出自己的身份，还求了婚——他以为再也回不去，想赌一次幸福。结果她逢人就说疯了。他用「上一个听过真相的人」的结局，替 Clara 预演了最坏的可能。
 
-**关键词**：Ida Swanson / everything about who I was / mental break
+**关键词**：Ida Swanson / everything about who I was / I asked her to marry me
 
 **为什么这样写**：作者让 Miss Swanson 线在分手戏里完成最终揭秘——她的「疯狂指控」不是恶意，是一个 1901 女性面对不可能之事唯一能给出的解释；Ben 说出全名（Ida），等于把他最后一块隐私交还给这段关系。
 
@@ -74,30 +76,36 @@ modified: "2026-11-10"
 **读者视角提示**：把「He knew all along」与 ch12 的 William 坦白对读——Ben 早就确认她属于过去（能量、记忆、出生证），却一直等她自己选；这份等待与 Quint 的五十二面镜子同价。
 
 > **原句 7:** "So did I. From the moment you kissed me on the edge of the lake at The Villa."
+>
+> “I did not!” I gasp.
 
 **中文理解**：Quint 交出对等的坦白：他也早就知道——从 The Villa 湖边那个吻开始。Clara 抗议「我没有吻你」，他笑着改口「也许是我吻了你」。两个人的「早就知道」对上暗号：这段感情从第一天起就没有旁观者。
 
-**关键词**：So did I / the edge of the lake / Perhaps it was me who kissed you
+**关键词**：So did I / the edge of the lake / I did not
 
 **为什么这样写**：作者让「知道」的时点成为感情的对账——她以为自己在逃，他觉得他在等；湖边吻的归属之争（谁吻谁）用玩笑收尾，实际确认的是：无论谁先动，两人都在场。1913 的九岁男孩与 1928 的青年在此刻合体。
 
 **读者视角提示**：记住「湖边」这个地点——The Villa 的湖是全书记忆系谱的起点（楼梯、池塘、湖边吻）；Epilogue 的最后一帧也在水边完成首尾呼应。
 
 > **原句 8:** "I'm your partner, never your subordinate."
+>
+> “I’m serious,” I insist. “You better understand right now before it’s not too late to send me back.
 
 **中文理解**：拿到两百万的 Clara 立刻立规：我是你的伙伴，绝不是你的下属——你不许把我送回去。钱给她底气，1928 的性别战争给她语法；Quint 的回答只有一个词的让步（Quite），加一句「我永远不会送你回去」。
 
-**关键词**：partner / never your subordinate / I would never, ever send you back
+**关键词**：I’m your partner / never your subordinate / before it’s not too late to send me back
 
 **为什么这样写**：作者让婚姻的前奏是一份「平等条款」——Clara 的独立宣言直接回应 Ben 教她的坏例子（ch13/14 的「专长划分」）；「send you back」的威胁在上一章是她对 Ben 的筹码，此刻变成她对 Quint 的红线：能力即主权。
 
 **读者视角提示**：这段对话是全书性别弧线的终点——从 1901 扮演淑女、1928 的「fact of life」、1938 的「Suppose I don't send you back」，到此刻的伙伴条款；她的每一步都是用同一把钥匙（穿越能力）开出的。
 
 > **原句 9:** "Because we're at the beginning now."
+>
+> He strokes my cheek, then tangles his fingers in my hair. “Stay with me, love?”
 
 **中文理解**：记忆彻底散尽（两个女儿的脸都糊了），Clara 惶惑地问为什么——Quint 亲着她的发线回答：因为我们现在站在起点。过去清零不是失去，是启程：他们的故事从「回忆」切换到「创造」。
 
-**关键词**：at the beginning / the memories of our future / right where I belong
+**关键词**：at the beginning / strokes my cheek / Stay with me, love
 
 **为什么这样写**：作者用一句话完成 time slip 主题的终极收束——记忆是「还没发生的过去」，而「现在」才是唯一真实的时间层；「beginning」与书名的「I know you」互为镜像：认识你（过去）与开始（未来）在最后一句里握手。
 

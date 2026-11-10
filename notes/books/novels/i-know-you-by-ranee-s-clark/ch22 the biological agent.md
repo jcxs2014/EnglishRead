@@ -84,10 +84,12 @@ modified: "2026-11-10"
 **读者视角提示**：记住这位无名妇人——她是全书唯一「死在画面里」的人；Ben 的「didn't realize what he was doing until it was too late」是他对她的悼词，也是他的愧疚账。
 
 > **原句 8:** "Twenty thousand dollars per pill," Gibbons announces.
+>
+> “A pity. I suppose I’ll make this offer to the Germans instead. And after the world has seen this display of power, total control will be swift.”
 
 **中文理解**：Gibbons 的报价：解药每粒两万美元——1938 的美元。投毒与解药是一体生意：先卖毒、再卖命，用同伙当众试药做信誉背书。Bailemore 嫌贵，Gibbons 转身就拿「卖给德国人」压价。勒索的艺术满分。
 
-**关键词**：Twenty thousand dollars per pill / the antidote / make this offer to the Germans instead
+**关键词**：Twenty thousand dollars per pill / make this offer to the Germans / total control will be swift
 
 **为什么这样写**：作者让反派的商业模型完整曝光——毒剂是工具，解药是商品，「德国替代买家」是谈判筹码；整个场景像一场军火交易，唯一的不同是货架上是伦敦的人命。「German option」也把 Gibbons 的立场推到最黑：他不效忠任何时代，只效忠利润。
 

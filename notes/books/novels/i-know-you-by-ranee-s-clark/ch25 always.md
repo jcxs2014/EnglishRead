@@ -67,7 +67,7 @@ modified: "2026-11-10"
 
 **中文理解**：半昏迷里，Clara 捧着 Quint 的脸说出全书最重的三个字：我爱你。永远。没有修饰、没有条件、没有「但是」。这是她第一次对他说出口——用「可能再也醒不来」换来的勇气。
 
-**关键词**：I love you / Always / find the strength
+**关键词**：I love you / Always / I say
 
 **为什么这样写**：作者让告白由「意识模糊」授权——清醒时的她永远有一万个不说出口的理由（Kitty、Ben、未来），濒死的她只剩真话；「Always」呼应 ch13 的睡美人歌词（You'll love me at once）与 1911 的夏天：这个词她攒了一辈子。
 

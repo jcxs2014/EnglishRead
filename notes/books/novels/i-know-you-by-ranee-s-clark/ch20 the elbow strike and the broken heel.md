@@ -24,20 +24,22 @@ modified: "2026-11-10"
 **读者视角提示**：注意 Ben 的回避不是冷淡而是吃醋的克制——他不看她的眼，因为怕看见她眼里还有 Quint；这层解读要到后面章节才验证，此处先记账。
 
 > **原句 2:** "RAF."
+>
+> "How dashing." I force myself to make the statement teasing and not sound half fearful, half admiring.
 
 **中文理解**：Quint 说自己还有几周假期就要回伦敦报到——他加入了英国皇家空军。两个字母落进客厅，战争从报纸背景变成他的军装：1938 年的每段人生都在往战场移动。
 
-**关键词**：RAF / report back to London / engulf Europe
+**关键词**：RAF / How dashing / half fearful, half admiring
 
 **为什么这样写**：作者用最短的答案给出最重的信息——RAF 两个字母自带历史重量（不列颠空战的预感）。Clara 的反应（half fearful, half admiring）写出了所有 21 世纪人对二战投身者的复杂心情：知道结局的人看壮士出征。
 
 **读者视角提示**：Quint 参战是时间悲剧的又一层——他若死在 1940，连 1939 的婚礼都不会有；读者知道而 Clara 不能说，这种「未来知识之刑」在每个人身上轮流上刑。
 
-> **原句 3:** "You're better off to wait until morning. I know you don't want to get behind him, but it will raise a lot of suspicion if you head off, asking around at motels and such so late."
+> **原句 3:** "You're better off to wait until morning. I know you don't want to get behind him, but it will raise a lot of suspicion if you head off, asking around at motels and such so late." It’s bound to tip Gibbons off that you’re on to him."
 
 **中文理解**：Ben 要连夜查访，Quint 劝停：深夜挨家问 motel 只会引人怀疑、给 Gibbons 报信——等天亮。这是本地常识对侦探冲动的纠正，也是两个男人第一次在「专业」领域分工明确：他懂这个时代，Ben 懂 Gibbons。
 
-**关键词**：wait until morning / raise a lot of suspicion / tip Gibbons off
+**关键词**：wait until morning / raise a lot of suspicion / tip Gibbons off that you’re on to him
 
 **为什么这样写**：作者让 Quint 的价值在「否决」中显形——他不认识 Gibbons，但他认识 1938 的街道、旅馆与人情。Ben 接受得爽快（I'd rather get answers than scare him off），是他对 Clara 这位旧爱之弟的信任投票。
 
@@ -47,7 +49,7 @@ modified: "2026-11-10"
 
 **中文理解**：Palm Court 的拼图缺角由 Quint 补上：Gibbons 用的正是「他上周进城时习惯性买下的那面镜子」。一句自嘲（habit now）道破十年积累——他的每一次采买都在给穿越者修路，连他自己都不知道。
 
-**关键词**：came into town last week / something of a habit / that mirror
+**关键词**：came into town last week / something of a habit / last week
 
 **为什么这样写**：作者让「镜子仓库」的悲剧喜剧化——Quint 的深情习惯成了敌人的基础设施，这个反讽他毫不知情；Clara 的 whispered「Not anymore」（不会再买了）与他对视的那一眼，是全章最安静的告解。
 
@@ -87,17 +89,19 @@ modified: "2026-11-10"
 
 **中文理解**：街头追逃，Clara 一路咒骂自己心爱的玛丽珍鞋——脱不掉、来不及脱、鞋跟还断了，她摔在地上擦破膝盖。Ben 说对了：高跟鞋追不了人。时尚与生存的账单当场结算。
 
-**关键词**：affinity for Mary Janes / the dumb buckle / my heel breaks
+**关键词**：affinity for Mary Janes / the dumb buckle / kick them off
 
 **为什么这样写**：作者用「断鞋」给追逐戏一个反高潮的句点——全章最帅气的反杀之后紧接最狼狈的摔倒，英雄主义的幻灭感真实可爱。玛丽珍鞋的「affinity」把她的现代审美变成了 1938 的物理劣势。
 
 **读者视角提示**：把「断鞋」与 ch19 的「复古鞋想要带回家」对读——同一年代的可爱与危险；Quint 的「手按后腰」扶起她的动作与他 1928 挣扶她的肌肉记忆一脉相承。
 
 > **原句 9:** "Ben would want me here with you."
+>
+> Quint places his hand on the small of my back, and the fear flees.
 
 **中文理解**：Quint 扶起 Clara 时手停在她的后腰，一句话让她安心：「Ben 会希望我陪着你。」她差点笑出来——这正是 Ben 最怕、最不愿看见的画面。两个人都在用「为了对方」包装「我想陪着你」。
 
-**关键词**：Ben would want me here / the small of my back / It almost makes me laugh
+**关键词**：Ben would want me here / the small of my back / the fear flees
 
 **为什么这样写**：作者让善意与私心共用一句台词——Quint 的抚慰（fear flees 的体感描写）是真实的，他的借口是体面的；Clara 的「It almost makes me laugh」是她全章唯一一次承认这个三角的荒诞：三个人都在为彼此退让，却把彼此推得更近。
 
@@ -125,7 +129,7 @@ modified: "2026-11-10"
 |---|---|---|
 | drat | （口）该死、见鬼 | Drat, if he doesn't look just as handsome. |
 | pout | 撅嘴闹脾气 | "I'm fine. Bruised knee. Dumb shoes," I pout |
-| drawl | 慢吞吞拖长调 | "Of course not," Edward drawls. |
+| drat | （口）该死、见鬼 | Drat, if he doesn't look just as handsome. |
 
 ## 一句话总结
 从「等天亮」的常识、煎饼与出租车司机的市井情报，到试衣间一记肘击和街头的断鞋——Clara 在 1938 的第一次独立行动以受伤告终却赢回尊重；账户名单上的十年与那句「Ben 会希望我陪着你」，把任务日的每个间隙都填满了没有说出口的爱。

@@ -37,7 +37,7 @@ modified: "2026-11-10"
 
 **中文理解**：信的第一个任务是托付：还有一封给 Morgan 的信，Ben 必须向她讲出真相——Clara 断定他编不出「她跟我分手去了外国还不开国际漫游」这种鬼话，Morgan 只会信一个版本：他杀了她抛尸哈德逊河。
 
-**关键词**：for Morgan / tell her the truth / down the Hudson
+**关键词**：another note / It's for Morgan / tell her the truth
 
 **为什么这样写**：作者让最重的托付裹上最黑的幽默——死亡玩笑（抛尸哈德逊）是 Clara 一贯的苦中作乐配方，也是她对 Ben 的最后信任投票：她知道他会照做，因为他从不辜负她的托付（镜子、文件、如今是谎言的管理权）。
 
@@ -47,7 +47,7 @@ modified: "2026-11-10"
 
 **中文理解**：信的核心致谢：从 1901 你把我从房间地板上抱起来安慰的那天起，你一直在救我。她承认自己做的选择、说过的狠话可能看不出这一点，但他的无私对她意味着全世界——被分手的人收到了「英雄证书」。
 
-**关键词**：scooped me up off the floor / coming to my rescue / selflessness
+**关键词**：scooped me up off the floor / coming to my rescue / comfort me
 
 **为什么这样写**：作者让感谢回到最初的场景（1901 的地板）——全书 27 章的冒险，被她压缩成一个动作：你把我抱了起来。「rescue」的重数（她数过：被赶出大堂、中枪、Gibbons……）让这句话成为 Ben 全书的终审判决：无罪，有功。
 
@@ -77,7 +77,7 @@ modified: "2026-11-10"
 |---|---|---|
 | peeks out | 探出、露出边 | It peeks out of the pocket of my jacket |
 | gaping hole | 豁开的大洞、内心的空洞 | Or wondering if my mistakes made her choose Quint.（the gaping hole inside me because of it） |
-| rambling | 语无伦次的 | He asked her to marry me.（对照 ch26：She told everyone I'd had a mental break or something and was rambling nonsense） |
+| peeks out | 探出、露出边 | It peeks out of the pocket of my jacket |
 | scooped up | 一把捞起、捧起 | From the day you scooped me up off the floor of your room to comfort me |
 
 ### ⭐ 常用
