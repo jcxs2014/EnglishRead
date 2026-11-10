@@ -17,13 +17,13 @@ modified: "2026-11-11"
 **中文理解**：Frank 压低声音交底：颜色不是重点——重要的是你在那间房里花的时间：深夜、讲的故事、他们哭时抱他们的方式；哪怕刷成亮粉色，只要孩子觉得安全、觉得被爱，他们记住的就只有爱。
 **关键词**：between you and me / hot pink / feel loved
 **为什么这样写**：店员用「秘密分享」的语气（between you and me）传递最普通的真理——普通话越郑重，越见分量；hot pink 的夸张选项让「爱赢过形式」的论证毫无退路；这段与 Quinn 的父亲史（ch07/ch15）构成全书最温柔的对照。
-**读者视角提示**：Frank 是全书唯一「无偿给出智慧」的人——记住这个对照物，凡 Ellison/Wren 给的东西都带价签。
+**读者视角提示**：Frank 是全书难得「无偿给出智慧」的人——记住这个对照物，凡 Ellison/Wren 给的东西都带价签。
 
 > **原句 2:** "For a moment, I couldn't speak. A paint store employee had just handed me something my own father never had, a stranger's tender wisdom landing in the recesses of my heart."
 **中文理解**：他一时说不出话——一个漆店职员刚刚递给他亲爹从未给过的东西：陌生人的温柔智慧，落进心底最深处。
 **关键词**：couldn't speak / my own father never had / tender wisdom
 **为什么这样写**：把感动写成失语——陌生人一句话完成了父亲缺席一生的工作；the recesses of my heart 与 ch26 的 recesses of my mind 呼应，本书的深层空间一再被外来者点亮。
-**读者视角提示**：注意「免费得到」在这个故事里的稀缺——这一段是全书唯一不附条件的给予，是他对「无条件」的第一次体验。
+**读者视角提示**：注意「免费得到」在这个故事里的稀缺——这一段是全书少有的不附条件的给予，是他对「无条件」的第一次体验。
 
 > **原句 3:** ""We're aware that Eloise reached out to the fertility clinic she used to frequent," he said, still calm, still conversational. "We're also aware that she was inquiring about Delilah Jensen.""
 **中文理解**：Wren 语气依旧平缓：我们知道 Eloise 联系过她常去的那家生育诊所——也知道她在打听 Delilah Jensen。

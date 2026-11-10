@@ -34,7 +34,7 @@ modified: "2026-11-10"
 > **原句 4:** "Enjoyment isn't the point." … "Loyalty," he said simply, as though nothing in the world were more obvious. … "It's everything."
 **中文理解**：Quinn 问 Wren 为 Ellison 工作图什么，Wren 答：享受不是重点；重点是忠诚——说得理所当然；「忠诚就是一切。」
 **关键词**：Enjoyment / Loyalty / everything
-**为什么这样写**：三个极短句切成三级台阶（享受不是重点→忠诚→忠诚就是一切），Wren 的全部人格被压缩进 12 个英文词；as though nothing in the world were more obvious 写出他不需要辩护的姿态——承重者的自我认知里没有怀疑的位置。
+**为什么这样写**：三个极短句切成三级台阶（享受不是重点→忠诚→忠诚就是一切），Wren 的全部人格被压缩进这一问一答；as though nothing in the world were more obvious 写出他不需要辩护的姿态——承重者的自我认知里没有怀疑的位置。
 **读者视角提示**：把这段与 ch01 的「脚手架与地基」比喻对照读：ch01 是 Quinn 给 Wren 定位，本章是 Wren 自己认领定位，两条证据互相咬合。
 
 > **原句 5:** "This wasn't their first such conversation. It was a ritual. A system. Ellison dictated. Wren executed." … "And when it was done, Wren gave a single nod—just one. No elaboration or questions. Just understanding. Then Wren turned and left, slipping into the hallways of the club like a man who had never been there at all."
@@ -70,4 +70,4 @@ modified: "2026-11-10"
 | glass door | 玻璃门 | I opened my mouth to answer, but before I could, the glass door to the court swung open, and James Wren appeared. |
 
 ## 一句话总结
-一场 Oak Club 壁球局里，Ellison 用球场演示了他的纪律—生存哲学（一切皆游戏，赢家知进退），那通神秘电话走完了「口述—点头—消失」的权力仪式，而 Wren 用 12 个词交出信条：忠诚就是一切；球报着六比零，游戏继续。
+一场 Oak Club 壁球局里，Ellison 用球场演示了他的纪律—生存哲学（一切皆游戏，赢家知进退），那通神秘电话走完了「口述—点头—消失」的权力仪式，而 Wren 只交出一句信条：忠诚就是一切；球报着六比零，游戏继续。
