@@ -54,7 +54,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：谎言第一次需要后勤：编一个「分身」不够，还得删网页。作者让他的防御动作从嘴升级到动手——谎言的维护成本开始显形，读者由此确信这张纸撑不了几章。
 
-**读者视角提示**：记住「关网站」这个念头——它说明他怕的不是她，是她的搜索能力。十三年来第一个让他想删帖的人。
+**读者视角提示**：记住「关网站」这个念头——它说明他怕的不是她，是她的搜索能力。她是第一个让他想立刻删帖的人。
 
 
 > **原句 5:** "Basilia and Dorian married young. She was eighteen, he was twenty-two. In the early years of their marriage, he was infatuated with her. She was beautiful, sweet, and everything he wanted. But Dorian loved beautiful things and soon found his attention wandering⁠—” “I can guess where this is going,” Edie says. I nod, masking my truth behind the story of a supposed ancestor. “He chased other women, leaving her alone for days. Sometimes he even brought them back to their home."

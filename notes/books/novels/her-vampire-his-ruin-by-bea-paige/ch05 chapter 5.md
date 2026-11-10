@@ -31,7 +31,7 @@ modified: "2026-11-09"
 
 **为什么这样写**：复仇者的第一现场不在她家门口，而在自己的监控屏前——他先清点仇人的现状：订婚、怀孕、照旧纵欲。会员资格一句把「正义」写成准入问题：Robert 的罪不是道德问题，是没被他这种掠食者管教过。
 
-**读者视角提示**：记住 13 号包厢与这场监控——上一章记账的杀意，本章账本摊开在桌面上，杀与不杀就在他一念之间。
+**读者视角提示**：记住 13 号包厢与这场监控——本章账本摊开在桌面上，杀与不杀就在他一念之间。
 
 > **原句 3:** "She is the jewel in the crown of Avant Garde, my business partner, and my good friend of many years now. She’s also my first progeny, changed the day I was."
 

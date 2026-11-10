@@ -25,7 +25,7 @@ modified: "2026-11-09"
 
 > **原句 2:** "According to the article, both men had a history of sexual violence,” Henrietta continues, her voice trembling. “Mark was sent to prison for five years in 2021 after raping and beating his ex-wife, and John was on the sex offenders register for owning indecent images of children. He was a known paedophile with a long list of offences against both women and children, and was already in Lothborough prison when Mark was sent there. They were both released a couple of weeks before we met them.”"
 
-**中文理解**：报道铺开两人的前科：Mark 五年前因强奸并殴打前妻入狱；John 在性罪犯名册上，是拥有儿童不雅影像的惯犯娈童者，两人都在遇见她们前两周刚出狱。
+**中文理解**：报道铺开两人的前科：Mark 因强奸并殴打前妻被判五年监禁（2021 年入狱）；John 在性罪犯名册上，是拥有儿童不雅影像的惯犯娈童者，两人都在遇见她们前两周刚出狱。
 
 **关键词**：both men had a history of sexual violence / released a couple of weeks before
 
@@ -169,4 +169,4 @@ modified: "2026-11-09"
 | murky | 模糊不清的 | everything else is a little… murky. |
 
 ## 一句话总结
-一张报纸把两个惯犯的死写成前科清单，也让紧接而来的入室真相更刺人：他杀的是恶人，却闯进了她的卧室——「你不仅是杀人犯，还是个变态」；而她挂断电话后对闺蜜说的那句「我也是」，是她第一次站到法律的对岸。
+一张报纸把两个惯犯的死写成前科清单，也让紧接而来的入室真相更刺人：他杀的是恶人，却闯进了她的卧室——「你不仅是杀人犯，还是个变态」；而她在电话里对闺蜜说的那句「我也是」，是她第一次站到法律的对岸。

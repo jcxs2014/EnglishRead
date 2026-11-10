@@ -43,7 +43,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：失血后的感官被写得像宿醉：光、脉、倾斜、重量，四个细节全是身体，没有一句心理。作者用「the world tilts」把她的虚弱客观化——读者不需要被告知她虚弱，只需要跟她一起站不稳。
 
-**读者视角提示**：记住这张床——上一章她在这里被「标记」，这一章她在这里被输血。
+**读者视角提示**：记住这张床——第二十五章她在这里被「标记」，这一章她在这里被输血。
 
 
 > **原句 4:** "“Dorian almost drained you.” Pity flickers in his eyes, and I hate it. “He was in the throes of bloodlust. I stopped him before he could.”"

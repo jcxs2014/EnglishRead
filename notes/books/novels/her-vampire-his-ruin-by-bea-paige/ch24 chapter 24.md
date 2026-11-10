@@ -59,7 +59,7 @@ modified: "2026-11-10"
 
 > **原句 5:** "Striding towards Henrietta’s home, I brace myself for what’s to come. Edie will put up a fight, but I have no choice but to do what I must. I’m not here to drain Edie, and I’m not here to change her either, despite what Logan thinks."
 
-**中文理解**：走向 Henrietta 家时，他给自己做心理准备：Edie 一定会反抗，但他没有选择，只能做该做的事。他不是来吸干她，也不是来转化她——不管 Logan 怎么想。
+**中文理解**：走向 Henrietta 家时，他给自己做心理准备：Edie 一定会反抗，但他没有选择，只能做该做的事。他提醒自己：不是来吸干她，也不是来转化她——不管 Logan 怎么想。
 
 **关键词**：brace myself / no choice but to do what I must / not here to drain Edie
 
@@ -76,7 +76,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：邀请规则本来是吸血鬼的护城河，作者却让它被一句礼貌用语攻破：「Please, come in」是社交辞令，也是破门的钥匙。黄油的比喻写的是速度与不可逆——不是打碎防线，是「滑过去」；「太迟了」放在段首，让读者和 Edie 一起慢半拍。
 
-**读者视角提示**：注意这个「please」——上一章是 Edie 逼他说请，这一章他用「请」进了别人的家。
+**读者视角提示**：注意这个「please」——第二十一章是 Edie 逼他说请，这一章他用「请」进了别人的家。
 
 
 > **原句 7:** "“Bullshit. You drank my blood, Dorian. You lied to me about who you are, about what you are. You’ve been deceitful. You… You… I am so angry with you.”"

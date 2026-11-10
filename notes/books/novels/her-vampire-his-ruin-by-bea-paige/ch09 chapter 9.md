@@ -6,7 +6,7 @@ modified: "2026-11-09"
 # 09. Chapter 9
 
 ## 本章导航
-- **一句话概括**：四十八小时冷战里，妹妹 Elizabeth 因 Nina 的一幅「亲吻画」上门问罪，姐妹吵完又和解；Henrietta 送来五十朵深红丝绒玫瑰与 Dorian 的道歉卡（周六八点酒店公寓晚宴）；刻字小风扇、助眠眼罩与附「不规矩便条」的维生素把道歉写成一份更年期关怀清单；Henrietta 交代 Logan 连续两夜在门前站岗后留下「问题已解决，下次换个更好的男朋友」的怪字条——Elizabeth 自任押阵，周六真相局。
+- **一句话概括**：四十八小时冷战里，妹妹 Elizabeth 因 Nina 的一幅「亲吻画」上门问罪，姐妹吵完又和解；Henrietta 送来至少五十朵深红丝绒玫瑰与 Dorian 的道歉卡（周六八点酒店公寓晚宴）；刻字小风扇、助眠眼罩与附「不规矩便条」的维生素把道歉写成一份更年期关怀清单；Henrietta 交代 Logan 连续两夜在门前站岗后留下「问题已解决，下次换个更好的男朋友」的怪字条——Elizabeth 自任押阵，周六真相局。
 - **情感弧线位置**：冷战与和解章：姐妹线补全（父亲三十年的缺席、离婚双标的辩护），Dorian 用一车礼物完成「不解释的道歉」——羞辱感与被珍视感同框。
 - **Tropes 兑现/反转**：兑现「鲜花攻势」与「道歉礼包」；反转「贵重即诚意」——最贵重的礼物是那台为潮热定制的小风扇。
 - **人物弧线**：Edie 在妹妹面前完成离婚尊严辩护；Henrietta 的强势外壳第一次露怯（门前两夜、自嘲投怀送抱）；Elizabeth 从反对者转为同行者。
@@ -30,9 +30,9 @@ modified: "2026-11-09"
 
 **关键词**：taking after my father / walking away almost thirty years ago / mum is dead
 
-**为什么这样写**：外貌自评是引线，牵出的是父亲的缺席档案：三十年、另一个女人、生死不知——三个词把一桩遗弃写成悬案。「不知道他知不知道」是全段最重的一句：她连恨的收件人地址都没有。
+**为什么这样写**：外貌自评是引线，牵出的是父亲的缺席档案：将近三十年、另一个女人、生死不知——三个词把一桩遗弃写成悬案。「不知道他知不知道」是全段最重的一句：她连恨的收件人地址都没有。
 
-**读者视角提示**：记下 Edie 的家庭结构：母亲已故、父亲失踪、姐姐 Elizabeth 撑家——她对「被留下」的敏感全有出处。
+**读者视角提示**：记下 Edie 的家庭结构：母亲已故、父亲失踪、妹妹 Elizabeth 撑家——她对「被留下」的敏感全有出处。
 
 
 > **原句 3:** "“Answer the damn question, Edie. Did you seriously have some man over whilst looking after my daughter?” Elizabeth hiss-shouts at me. “I did not invite anyone over,” I protest, rubbing my temple. I’ve got a pounding headache."

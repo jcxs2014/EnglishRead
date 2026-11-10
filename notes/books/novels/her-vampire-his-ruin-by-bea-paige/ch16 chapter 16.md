@@ -125,11 +125,11 @@ modified: "2026-11-09"
 
 > **原句 11:** "I became a shadow of who I once was, and I hate that I did that to myself, that I wasn’t strong enough to leave him before he left me. I wasted so many years on a man who didn’t deserve my loyalty, least of all my love.”"
 
-**中文理解**：她的自白继续：我把自己拧成一个都不认识的人，只为他高兴——因为我打心底觉得，真实的我不配被爱。后来我成了从前的影子；我恨自己没能在被抛弃前先离开，恨自己把那么多岁月浪费在一个不配我忠诚的人身上。
+**中文理解**：她的自白继续：我成了从前的影子；我恨自己没能在被抛弃前先离开，恨自己把那么多岁月浪费在一个不配我忠诚的人身上。
 
 **关键词**：a shadow of who I once was / wasted so many years / least of all my love
 
-**为什么这样写**：她的自责两级递进：从「配不上被爱」到「浪费忠诚」——婚姻誓言的账本被倒着清算。作者让她在事后最松弛的时刻交出最深的伤：身体先信任，语言才跟得上。
+**为什么这样写**：她的自责落在「影子」与「浪费」之间——婚姻誓言的账本被倒着清算。作者让她在事后最松弛的时刻交出最深的伤：身体先信任，语言才跟得上。
 
 **读者视角提示**：对照第二章怪小鸭、第七章失眠快照——这是旧伤三联画的第三幅：不配感、被用感、浪费感。三幅凑齐，她才算把婚史讲完。
 

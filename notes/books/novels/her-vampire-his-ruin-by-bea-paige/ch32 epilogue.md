@@ -74,7 +74,7 @@ modified: "2026-11-10"
 
 **关键词**：I did this / I chose this / You chose to be a vampire
 
-**为什么这样写**：这句把「转化」的责任从 Dorian 手里拿回 Edie 手里：她拒绝让姐姐把她当成受害者，也拒绝让 Dorian 当唯一的加害者。作者用三个短句（I did this. I chose this.）完成一次主体性宣告。
+**为什么这样写**：这句把「转化」的责任从 Dorian 手里拿回 Edie 手里：她拒绝让妹妹把她当成受害者，也拒绝让 Dorian 当唯一的加害者。作者用三个短句（I did this. I chose this.）完成一次主体性宣告。
 
 **读者视角提示**：记住「I chose this」——这是全书 Edie 最重要的一句自辩。
 
