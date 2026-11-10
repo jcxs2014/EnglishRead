@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch19",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch19_chapter_nineteen.txt",
+ "facts": [
+  {
+   "fact": "Margaux 的差事：Ellison 想要一幅马蒂斯——她正在替他与现任藏家撮合交易；远墙处已有一块留白的灯位等着它。",
+   "anchor": "“There’s a Matisse he wants,”",
+   "start": 3351,
+   "end": 3380
+  },
+  {
+   "fact": "造物者论：Margaux 评价 Ellison——「他总在事物存在之前先看见它们，然后让它们显现」；留白的墙就是显影室。",
+   "anchor": "And then he manifests them.",
+   "start": 3982,
+   "end": 4009
+  },
+  {
+   "fact": "重力问答：Quinn 问她是否钦佩这种能力，她反问「你钦佩重力吗」——重力不管你喜不喜欢都存在；她自己也是被引力驱使的从业者。",
+   "anchor": "Do you admire gravity?",
+   "start": 4206,
+   "end": 4228
+  },
+  {
+   "fact": "临别谶语：Margaux 祝他享受派对——「今晚结束前，你永远不知道会有什么出现」。",
+   "anchor": "“You never know what might appear by the end of the night.",
+   "start": 4475,
+   "end": 4533
+  },
+  {
+   "fact": "Quinn 给 Gordon 补课：她不是小偷——是「交易撮合人」，撮合的是那些常常没有收据的交易；真相只在对自己有利时才说。",
+   "anchor": "of transactions that don’t always have receipts",
+   "start": 5098,
+   "end": 5145
+  },
+  {
+   "fact": "艺术观：她不认为自己在犯法——艺术本该流动，她只负责让它「找到对的手」（ch10 已闻此语）。",
+   "anchor": "She just makes sure it finds the right hands.",
+   "start": 6020,
+   "end": 6065
+  },
+  {
+   "fact": "Wren 的刀论：怀疑是有用的刀——磨利头脑、让人站稳；但刀用多了会钝，不再是武器，而会成为 liability（负资产）。",
+   "anchor": "But like any blade, Whitaker, it dulls with overuse.",
+   "start": 9424,
+   "end": 9476
+  },
+  {
+   "fact": "谈话余震：Wren 消失在人流里，留下他们像被扒手摸过却说不清丢了什么的人；Gordon 只能说一句「真让人不安」。",
+   "anchor": "like men who had just been pickpocketed",
+   "start": 10240,
+   "end": 10279
+  }
+ ]
+}
