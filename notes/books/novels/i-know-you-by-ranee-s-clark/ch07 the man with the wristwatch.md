@@ -139,7 +139,7 @@ modified: "2026-11-10"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cascade | （卷发）瀑布般垂落 | Ben gently lifts the cascading curls to the side and his fingers brush over my neck. |
+| cascading | （卷发）瀑布般垂落的 | Ben gently lifts the cascading curls to the side and his fingers brush over my neck. |
 | tug | 轻拉、拽 | He tugs my hand toward him, lacing our fingers together for a moment |
 | whirl | 猛地转身 | Ben whirls toward me. |
 
