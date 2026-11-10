@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch10_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "Margaux Fontaine 登场：吧台边跷腿而坐，慵懒而优雅——美貌不索求关注却天然辖住全场（她一口道出 Quinn 全名：Quinn Whitaker）。",
+   "anchor": "Margaux Fontaine sat at the bar",
+   "start": 500,
+   "end": 531
+  },
+  {
+   "fact": "Ellison 的撮合语：你们会合得来——Margaux 懂得「失物」的门道。",
+   "anchor": "Margaux knows a thing or two about lost things.",
+   "start": 1808,
+   "end": 1855
+  },
+  {
+   "fact": "她的职业定义：做艺术为主——「被放错位置的东西」「需要找到对的手的东西」。",
+   "anchor": "Things that need to find their way to the right hands.",
+   "start": 2182,
+   "end": 2236
+  },
+  {
+   "fact": "旧案回认：几年前 Quinn 写过一幅失踪伦勃朗——午夜劫案、私密收藏、几个月的艺术圈沸腾，最后画作无逮捕无解释地「回来了」。",
+   "anchor": "A missing Rembrandt, a private collection, a midnight heist",
+   "start": 5285,
+   "end": 5344
+  },
+  {
+   "fact": "惊人自白：Margaux 纠正说不是策划劫案那么简单——是她把对的人放进对的位置、确保门没锁、算准监控失灵的时长。",
+   "anchor": "“I arranged it,” she corrected.",
+   "start": 6318,
+   "end": 6349
+  },
+  {
+   "fact": "商业逻辑：她把画偷走再卖回原主——「他想拥有它两次」「这就是财富运作的方式」。",
+   "anchor": "He wanted to own it twice.",
+   "start": 6854,
+   "end": 6880
+  },
+  {
+   "fact": "词汇哲学：Steal 太难听，她偏好 collect——在场人人都是收藏家（钱、影响力、秘密、短语）；画只是副产品，真正的东西是 leverage。",
+   "anchor": "I prefer the word collect.",
+   "start": 7499,
+   "end": 7525
+  },
+  {
+   "fact": "Ellison 回场：夸 Quinn 有找到「人们宁可继续埋着的东西」的天赋，随即补刀——「我好奇多久之后，什么东西会找到他」。",
+   "anchor": "I wonder how long before something finds him.",
+   "start": 9345,
+   "end": 9390
+  }
+ ]
+}
