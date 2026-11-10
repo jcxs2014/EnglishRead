@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch14",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch14_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "走出市政厅的 Quinn 脑中只有不合逻辑的碎片：Jensen 赢下了一切却在隔夜求撤销——为什么？他看见了什么？",
+   "anchor": "he’d begged for it all to disappear",
+   "start": 476,
+   "end": 511
+  },
+  {
+   "fact": "电话线另一头：今天是 Eloise 取结果的日子——她凌晨四点就躺着盯天花板，一会儿说婴儿名，一会儿不许自己说出 pregnant 这个词。",
+   "anchor": "She’s been up since four",
+   "start": 1803,
+   "end": 1827
+  },
+  {
+   "fact": "Gordon 的无力感：他一直是修东西的人，这次修不了——只能整夜抱着她盼「抱着就够了」。",
+   "anchor": "“I can’t fix it.",
+   "start": 2482,
+   "end": 2498
+  },
+  {
+   "fact": "偶遇登场：市政厅台阶下，James Wren 像从水泥里长出来的——金边墨镜、开放式站姿，一个能站几小时的人。",
+   "anchor": "standing like he’d materialized right up through the concrete",
+   "start": 4766,
+   "end": 4827
+  },
+  {
+   "fact": "Quinn 的直觉：这不是巧合——Wren 知道他来过 Mercer 办公室。",
+   "anchor": "The coincidence didn’t feel like one.",
+   "start": 5406,
+   "end": 5443
+  },
+  {
+   "fact": "关键信息：Ellison 自己也有项目在推进——需要市政府签字放行的可观项目（与 Jensen 的项目同构）。",
+   "anchor": "A sizable venture that requires the city’s sign-off.",
+   "start": 6176,
+   "end": 6228
+  },
+  {
+   "fact": "名片：Wren 现场手写姓名地址——「这个人认识 Jensen，也许愿意谈」；名字陌生。",
+   "anchor": "“Someone who knew Jensen,”",
+   "start": 8111,
+   "end": 8137
+  },
+  {
+   "fact": "动机拒答：Quinn 追问他为什么给这张卡，Wren 只笑答「因为我是个乐于帮忙的人」+「进展如何告诉我一声」。",
+   "anchor": "“Because I’m a helpful man, Quinn.”",
+   "start": 8415,
+   "end": 8450
+  }
+ ]
+}
