@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "场景开卷：Quinn 走进两人老据点 Pavoni's（一家意大利小馆）时，Gordon 已经灌下两杯咖啡等着。",
+   "anchor": "Gordon was already two cups of coffee deep",
+   "start": 37,
+   "end": 79
+  },
+  {
+   "fact": "报馆危机：The Gazette 换了新报头新领导层，要抓眼球的标题不要深度调查，Gordon 说再找不到大新闻他们就要完蛋。",
+   "anchor": "If we don’t find one, we’re finished.",
+   "start": 2247,
+   "end": 2284
+  },
+  {
+   "fact": "疑案核心：码头死亡案消失得太快——没有后续、没有嫌疑人、连尸体都没找到，很快从报纸上淡出。",
+   "anchor": "The body was never even found",
+   "start": 3010,
+   "end": 3039
+  },
+  {
+   "fact": "Gordon 的不信任：人不会半夜从码头跳下去却不留下任何为什么；他说这不是偏执，只是确定。",
+   "anchor": "people don’t just throw themselves off docks",
+   "start": 3516,
+   "end": 3560
+  },
+  {
+   "fact": "行业信条：Quinn 说每个故事无非三件事——权力、金钱、复仇；Gordon 补刀：消失得太快的案子三样全占。",
+   "anchor": "Power, money, or revenge",
+   "start": 6205,
+   "end": 6229
+  },
+  {
+   "fact": "章眼定调：Gordon 不信自杀结论，「我认为是有人确保没有人去追查」——这句话粘在 Quinn 心里挥之不去。",
+   "anchor": "someone made sure no one pursued it",
+   "start": 6404,
+   "end": 6439
+  },
+  {
+   "fact": "Gordon 私事：提到妻子 Eloise 时拇指绷紧、摆弄餐巾——「我们又在尝试了」；Quinn 知道现在不是多问的时候。",
+   "anchor": "We’re trying again.",
+   "start": 5239,
+   "end": 5258
+  },
+  {
+   "fact": "章末：Quinn 走出 Pavoni's 想放下这案子，但那句「有人确保没人追查」粘住了他——他也许真想知道为什么。",
+   "anchor": "And maybe, just maybe, I wanted to know why.",
+   "start": 7119,
+   "end": 7163
+  }
+ ]
+}
