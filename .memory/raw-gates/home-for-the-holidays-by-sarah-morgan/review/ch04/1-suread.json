@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch04",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch04_chapter_three.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "Bryony 为赴 David 的晚餐约会，穿上母亲三个圣诞前送她、她从未穿过的黑色小礼服。",
+   "anchor": "In the end she’d settled for the little black dress that her mother had given her three Christmases ago",
+   "start": 337,
+   "end": 440
+  },
+  {
+   "fact": "Jack 说 Bryony 的礼服前面太低，从花瓶拔出一支花拦腰折断，要塞进她领口遮挡。",
+   "anchor": "he said hoarsely, reaching across the kitchen table, yanking a flower out of a vase and snapping it halfway up the stem.",
+   "start": 3359,
+   "end": 3479
+  },
+  {
+   "fact": "Bryony 打趣犯难的 Jack：女儿 Lizzie 才七岁，陪她玩「Weddings（婚礼）」游戏就当为将来真结婚做练习。",
+   "anchor": "She’s seven years old. I think you can cope. Great practice for when you do the real thing.",
+   "start": 5442,
+   "end": 5533
+  },
+  {
+   "fact": "David 上门接人时，Jack 当着 David 的面放话：Bryony 必须在十一点前回家。",
+   "anchor": "She needs to be home at eleven",
+   "start": 8125,
+   "end": 8155
+  },
+  {
+   "fact": "学生时代 Bryony 进校 netball 队打球时，Jack 和她的兄弟们会去赛场为她加油；Jack 此刻意识到这位挚友的腿很动人。",
+   "anchor": "he and her brothers had gone to matches to cheer her on, but he now realised that his best friend had sensational legs.",
+   "start": 9915,
+   "end": 10034
+  },
+  {
+   "fact": "Jack 一再打电话搅局后，David 提出干脆送 Bryony 回家，让她当面回应 Jack 的追问。",
+   "anchor": "I think I’ll take you home,’ he said dryly. ‘Then you can answer Jack’s questions in person",
+   "start": 14070,
+   "end": 14161
+  },
+  {
+   "fact": "次日在员工室排 Bonfire Night 班表时，顾问医生 Sean Nicholson 说这回轮到自己值班，让 Jack 休上一年。",
+   "anchor": "Sean Nicholson, one of the other consultants, looked at Jack with a resigned expression on his face. ‘You deserve a year off from Bonfire Night. You’ve had a bad few years.",
+   "start": 20688,
+   "end": 20860
+  },
+  {
+   "fact": "为 Lizzie 的篝火派对，Jack 定于五点十五分来接 Bryony 母女，并要求 Lizzie 戴手套、不徒手碰仙女棒。",
+   "anchor": "Right. I’ll pick you both up at five-fifteen. And I want Lizzie in gloves.",
+   "start": 23068,
+   "end": 23142
+  }
+ ],
+ "miss": 0
+}

@@ -1,0 +1,484 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/home-for-the-holidays-by-sarah-morgan/ch06 chapter five.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch06_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘The burns are almost all round her skirt area,’ Jack told Bryony one day as they snatched a quick cup of coffee during ",
+          "ok": true,
+          "pos": 98
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘She’s a great girl.’ Jack drained his coffee and sat back in his chair with a yawn, long legs stretched out in front of",
+          "ok": true,
+          "pos": 849
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She was going to invite him in for coffee and she was going to kiss him",
+          "ok": true,
+          "pos": 2364
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He gave her a lazy smile but his eyes glittered with admiration. ‘She has a right-sided haemothorax caused by a traumati",
+          "ok": true,
+          "pos": 5513
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Because they all start out like grapes,’ Bryony said cheerfully, ‘and it’s a woman’s job to tread all over them and kee",
+          "ok": true,
+          "pos": 8388
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Is it?’ David’s eyes glittered ominously and he sat back in his chair as the waiter poured more wine into his glass. ‘A",
+          "ok": true,
+          "pos": 11853
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "His eyes held hers and everything and everyone else in the room gradually faded into the background. For Bryony there wa",
+          "ok": true,
+          "pos": 13720
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘If you’ve finished, I’ll take her home.’ Jack’s deep voice came from right beside her, his eyes fixed on her face. ‘It’",
+          "ok": true,
+          "pos": 15200
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘You’ve had your date,’ he drawled softly, ‘and now I’m taking her home.’",
+          "ok": true,
+          "pos": 15440
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘You are so hypocritical, do you know that? You have the nerve to criticise my black dress and then you go out with a gi",
+          "ok": true,
+          "pos": 17427
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘I really couldn’t care less, Jack,’ she lied, ‘because your love life isn’t any of my business, just as my love life is",
+          "ok": true,
+          "pos": 21688
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘You want a man to kiss you?’ Jack’s voice was a deep growl and without waiting for her answer he slid a hand round her ",
+          "ok": true,
+          "pos": 21951
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "And it felt like magic. How could one person make another feel so different unless it was magic? She was trembling and s",
+          "ok": true,
+          "pos": 22752
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "His eyes dropped to her parted lips, still swollen and damp from the ruthless demands of his mouth and then dropped furt",
+          "ok": true,
+          "pos": 24773
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "‘Well, thanks for the practice,’ she said lightly, leaning forward and kissing him on the cheek, resisting the almost ov",
+          "ok": true,
+          "pos": 26885
+        }
+      ],
+      "words": 58
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4999,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 10 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

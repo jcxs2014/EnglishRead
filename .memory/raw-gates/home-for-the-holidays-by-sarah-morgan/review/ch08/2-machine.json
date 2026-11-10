@@ -1,0 +1,489 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/home-for-the-holidays-by-sarah-morgan/ch08 chapter seven.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch08_chapter_seven.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He grinned. ‘If need be.’ He squatted down next to Lizzie, his hair shining glossily black next to the little girl’s blo",
+          "ok": true,
+          "pos": 2111
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Well, now I wish I’d asked him to make you my daddy,’ Lizzie said wistfully. ‘I love you, Jack. No one plays Weddings l",
+          "ok": true,
+          "pos": 3317
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Lizzie",
+          "ok": true,
+          "pos": 67
+        },
+        {
+          "text": "’ Jack’s voice sounded strangely thick and his hard jaw was tense as he struggled to find the right words. ‘I can’t be y",
+          "ok": true,
+          "pos": 3534
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘And I love your mummy. But not in the way that mummies and daddies are supposed to love each other.’",
+          "ok": true,
+          "pos": 3843
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "There was a long silence and then he sucked in a breath, his eyes still on the road. ‘Christmas is for families, Blondie",
+          "ok": true,
+          "pos": 5691
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I think that’s one game we never mastered in our house. When everyone else was unwrapping presents around the tree, my p",
+          "ok": true,
+          "pos": 6211
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "And that was a good thing.’ He gave a grim smile. ‘If they ever met the rows were so bad I used to run and hide in the g",
+          "ok": true,
+          "pos": 6401
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He shook his head. ‘It wasn’t hard, Blondie. You always made me feel as though I was Santa himself from the moment I wal",
+          "ok": true,
+          "pos": 7062
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "But watching him and Lizzie fighting over the last mince pie, Bryony realised that the warm Christmassy feeling that she",
+          "ok": true,
+          "pos": 10159
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘He isn’t coming.’ Bryony looked at him, thinking that Jack didn’t look that surprised. He just carried on feeding Lizzi",
+          "ok": true,
+          "pos": 13427
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘Yes, cancel.’ He put a hand under her chin and lifted her face to his. ‘I’ll cook dinner and you can wear the dress. Yo",
+          "ok": true,
+          "pos": 15224
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘You blush easily, Blondie, do you know that?’ His voice was a soft, teasing drawl and Lizzie clapped her hands",
+          "ok": true,
+          "pos": 16325
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "He stooped to pick up Lizzie. ‘I just picked up a few things on my way home, in case I was hungry later.’",
+          "ok": true,
+          "pos": 17489
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Bryony plopped down on the nearest kitchen chair and wondered if Jack realised that he was displaying all the signs of a",
+          "ok": true,
+          "pos": 18352
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Or had he done it because he hadn’t been able to see her with another man",
+          "ok": true,
+          "pos": 18931
+        }
+      ],
+      "words": 16
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3560,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 10 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

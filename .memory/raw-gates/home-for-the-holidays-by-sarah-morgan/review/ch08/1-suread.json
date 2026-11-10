@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch08",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch08_chapter_seven.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "进林挑树：利齐开口就要「森林里最大的树」——因为圣诞老人得把「爸爸」这份大礼放在树下；她相中的是全场最高的一棵，杰克拍板「The lady likes this one. So the lady gets this one」，掏出钱包替她付账（My treat），还说必要时可以把树顶锯掉六英尺。",
+   "anchor": "I WANT the biggest tree in the forest.’ Lizzie clapped her hands together and beamed at Jack, her breath clouding the freezing air.",
+   "start": 47,
+   "end": 178
+  },
+  {
+   "fact": "利齐对杰克当面告白：她本向圣诞老人求一个爸爸，如今宁愿当初直接许愿「让杰克当我的爸爸」，还说「我爱你，杰克，没人玩 Weddings 玩得像你那么好」；杰克艰难回应「我当不了你的爸爸，但会一直在你身边」，又补上一句「我也爱你妈妈——但不是爸爸妈妈之间的那种爱」。",
+   "anchor": "Well, now I wish I’d asked him to make you my daddy,’ Lizzie said wistfully. ‘I love you, Jack. No one plays Weddings like you do.",
+   "start": 3525,
+   "end": 3655
+  },
+  {
+   "fact": "车上谈起圣诞安排：Sean 要陪 Ally 和孩子们，杰克已答应替他值班；他道出心结「圣诞属于家庭，Blondie，我没有家」——母亲半年前寄来一张明信片，人正和最新情人待在巴西，而他已三十四岁，早不指望母亲回家扮幸福家庭。",
+   "anchor": "Christmas is for families, Blondie. I don’t have one",
+   "start": 6086,
+   "end": 6138
+  },
+  {
+   "fact": "杰克回忆童年：父母一碰面就争吵得厉害，他只能跑进花园躲藏，有一次在外面待了一整夜都没人发觉；他猜家里房子大、地多，就是因为没人愿意与争吵不断的他们为邻——对比布莱妮幸福的童年，她听得几乎哽咽。",
+   "anchor": "If they ever met the rows were so bad I used to run and hide in the garden. Once I was out there all night and they didn’t even notice.",
+   "start": 6790,
+   "end": 6925
+  },
+  {
+   "fact": "约会告吹后的厨房里，利齐盯着两人直问「你们是不是要接吻」，还大方表示萨莉嫌爸妈接吻恶心、她倒觉得挺美好；布莱妮窘迫否认，利齐又补刀「妈妈只有杰克在的时候才会红成那个颜色」。",
+   "anchor": "Mummy only ever goes that colour when you’re here, Jack",
+   "start": 17127,
+   "end": 17182
+  },
+  {
+   "fact": "晚上七点与托比的约会告吹：托比来电说 Sean 派他去 Penrith 给救援队取装备、还没办完回不来；布莱妮纳闷他为何不向 Sean 提约会的事，回想起救援当天杰克对托比的态度，开始怀疑这场告吹是杰克从中搞的鬼。",
+   "anchor": "Because Sean sent him over to Penrith to pick up some equipment for the team and it’s taken him ages to sort it out and he’s still there.",
+   "start": 14289,
+   "end": 14426
+  },
+  {
+   "fact": "杰克让布莱妮打电话给她妈妈取消保姆安排，宣布由他下厨做晚餐，还要她保持穿着那身黑裙——食材是他「回家路上顺手」备在车里的；布莱妮暗想：上次穿这裙子去约会他还把她裹起来，如今却不许她换装，处处是雄性吃醋的迹象。",
+   "anchor": "I’ll cook dinner and you can wear the dress. You don’t need a babysitter.",
+   "start": 15935,
+   "end": 16008
+  },
+  {
+   "fact": "章末钩子：布莱妮复盘自她在酒吧宣布重新约会以来的一切，意识到「杰克把每一次约会都搅黄了」；她自问这是为了利齐（不想利齐有爸爸），还是因为他受不了看她跟别的男人在一起？",
+   "anchor": "Jack had sabotaged every date.",
+   "start": 19622,
+   "end": 19652
+  }
+ ],
+ "miss": 0
+}

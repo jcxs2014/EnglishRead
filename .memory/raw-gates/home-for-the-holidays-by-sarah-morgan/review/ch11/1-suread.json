@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch11",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch11_chapter_ten.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "Bryony屏息蹑足走到楼梯顶张望，看见Jack正躺在她家圣诞树下的地毯上，与坐在他身上咯咯笑的Lizzie轻声说话。",
+   "anchor": "Hardly able to breathe, she tiptoed to the top of the stairs and peeped down, a frown touching her brows as she saw Jack sprawled on the carpet under her Christmas tree, talking softly to Lizzie who was sitting on him, giggling with excitement.",
+   "start": 1588,
+   "end": 1832
+  },
+  {
+   "fact": "Jack解释圣诞礼物本就该放在圣诞树下——他宣布自己\"就是Lizzie的圣诞礼物\"。",
+   "anchor": "Because that’s where Christmas presents are supposed to be.’ His voice was husky and he gave her a lopsided smile. ‘And I’m Lizzie’s Christmas present",
+   "start": 2043,
+   "end": 2193
+  },
+  {
+   "fact": "Jack道明他送给Lizzie的那条裙子是伴娘礼服，并要Lizzie在他娶她妈妈时穿上它。",
+   "anchor": "It’s a bridesmaid’s dress,’ Jack said quietly, his eyes still fixed on Bryony. ‘And I want you to wear it when I marry your mummy.",
+   "start": 3841,
+   "end": 3971
+  },
+  {
+   "fact": "Jack以全名向Bryony正式求婚：\"Bryony Hunter，你愿意嫁给我吗？\"",
+   "anchor": "Bryony Hunter.’ His voice was sexy and seductive and a tiny smile played around his firm mouth. ‘Will you marry me",
+   "start": 4616,
+   "end": 4730
+  },
+  {
+   "fact": "Jack道出求婚动机：他娶Bryony是因为爱她，并感叹自己竟花了这么久才想明白这一点。",
+   "anchor": "I’m marrying you because I love you,’ he said softly. ‘And why it’s taken me so long to work that out I really don’t know.",
+   "start": 7304,
+   "end": 7426
+  },
+  {
+   "fact": "Jack交代他此前跑掉后的去向：他回到自己家，坐在屋里回想多年在那里的痛苦，突然领悟\"家\"在于人而非房子——他的家就是Bryony所在之处，一直都是。",
+   "anchor": "I went home and I sat in that house and I thought about all the years that I’d been miserable there. And I suddenly realised that home for me is nothing to do with beautiful houses and land. It’s to do with people. Home for me is where you are, Bryony, and it always has been.",
+   "start": 8295,
+   "end": 8571
+  },
+  {
+   "fact": "Jack将那枚漂亮的戒指滑上Bryony的手指；她笑着打趣戒指太大——自己刚重了半英石（half a stone）却还没吃上火鸡。",
+   "anchor": "She gave a shaky smile, watching as he slid the beautiful ring onto her finger. ‘It’s huge. I’ve just put on half a stone and I haven’t eaten any turkey yet.",
+   "start": 9346,
+   "end": 9503
+  },
+  {
+   "fact": "章末：Lizzie许下明年圣诞给圣诞老人的新愿望——她真的真的想要一个\"baby sister（小妹妹）\"，并确信圣诞老人一定会带来。",
+   "anchor": "For Christmas next year, I really really want a baby sister. And I know that Santa is going to bring me one.",
+   "start": 11042,
+   "end": 11150
+  }
+ ],
+ "miss": 0
+}

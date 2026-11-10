@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch03",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch03_chapter_two.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "Bryony 当众宣布她周四有个约会（因此去不了周四的家宴），Oliver 惊讶反问，Jack 笑容尽失、冷脸质问“你什么时候开始约会的？”；她解释是因为看了 Lizzie 的圣诞愿望单——Lizzie 向圣诞老人要一个爸爸当礼物。",
+   "anchor": "Because I have a date,’ she said finally, and Oliver lifted his eyebrows",
+   "start": 2418,
+   "end": 2490
+  },
+  {
+   "fact": "Bryony 当众读出 Lizzie 写在信里的“爸爸标准”：强壮得能在花园把她荡起来、风趣爱开玩笑、准她上学前看电视、不逼她吃抱子甘蓝、会在校门口接她并像别人的爸爸那样拥抱她；最要紧的是一个会抱抱妈妈、永远和她们在一起的爸爸。",
+   "anchor": "I want a daddy who is strong so that he can swing me in the garden",
+   "start": 4361,
+   "end": 4427
+  },
+  {
+   "fact": "争吵中 Jack 先以 Lizzie 教父身份宣称“她选谁当爸爸与我大有关系”，继而冷言讥讽 Bryony 拒绝透露生父、挑男人眼光差——令她震惊（生父话题她从不与人谈），她丢下一句“我要回家了”离场。",
+   "anchor": "You’ve always refused to tell us who Lizzie’s father was but he isn’t around now which says quite a lot about your choice of men",
+   "start": 8766,
+   "end": 8894
+  },
+  {
+   "fact": "Bryony 走后 Tom 向 Oliver 点破：她爱了 Jack 二十二年、永远不会爱上别人，还猜她心里有个放不下的人；此前 Tom 说过“隔了七年谈不上反弹”，Oliver 提醒 Jack 她已经二十七岁。",
+   "anchor": "Bryony has been in love with Jack for twenty-two years",
+   "start": 14217,
+   "end": 14271
+  },
+  {
+   "fact": "Jack 独自回想：Bryony 医学院二年级怀孕时他和她两个哥哥都不在场、没能教训那个男人，她只说整件事是个错误并拒绝说出对方是谁；Jack 发誓今后谁敢欺负她或 Lizzie 就出手放倒，还要弄清她与谁约会、好去警告对方。",
+   "anchor": "She’d become pregnant in her second year at medical school and neither he nor her brothers had been around to sort the guy out",
+   "start": 17235,
+   "end": 17361
+  },
+  {
+   "fact": "次日清晨呼叫器响起：一批爱丁堡公爵奖男孩在山上逾期未归、全员出动；队长 Sean 指派 Bryony 与 Jack 作先遣队，Jack 五分钟内开车来接，顺路把 Lizzie 送到祖母家。",
+   "anchor": "There’s a party of Duke of Edinburgh Award boys overdue",
+   "start": 22851,
+   "end": 22906
+  },
+  {
+   "fact": "涧底救援：Jack 查出男孩 Martyn 胫腓骨开放性骨折、大量出血，两人为 Martyn 建立静脉通路并用夹板固定伤腿；随后 Sean 率全队赶到，用担架把两个男孩抬下山送医。",
+   "anchor": "He’s got a compound fracture of his tib and fib and he’s bleeding a lot",
+   "start": 32426,
+   "end": 32497
+  },
+  {
+   "fact": "回程车上 Jack 主动提出周四晚七点半替她 babysit 好让她赴约会（她母亲要去 Kendal、原定看娃人手落空），并追问出约会对象是儿科医生 David Armstrong；他说完“我七点半到”便下车而去，Bryony 隐隐觉得这份“大方”背后有什么不对。",
+   "anchor": "I’ll be there at seven-thirty. Now, let’s get on",
+   "start": 36362,
+   "end": 36410
+  }
+ ],
+ "miss": 0
+}

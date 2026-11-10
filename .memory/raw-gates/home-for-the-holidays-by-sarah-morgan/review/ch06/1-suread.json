@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch06",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch06_chapter_five.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "Bryony 告诉 Jack：David 今早来电，周六要带她去 The Peacock 餐厅晚餐——两人都不当班、Lizzie 住外婆家，这次该完全没有干扰。",
+   "anchor": "he’s taking me to dinner at The Peacock on Saturday. Neither of us is on call and Lizzie is sleeping at my mother’s so this time there should be absolutely no interruptions.",
+   "start": 1941,
+   "end": 2114
+  },
+  {
+   "fact": "救护车控制中心通报的伤情：伤员为二十二岁女性，意识清醒但受惊，主诉胸痛。",
+   "anchor": "Twenty-two-year-old female, conscious but shocked and complaining of chest pains.",
+   "start": 3111,
+   "end": 3192
+  },
+  {
+   "fact": "Jack 向 Bryony 说出他对车祸伤员的判断：主动脉已经破裂。",
+   "anchor": "Because I think she’s ruptured her aorta.",
+   "start": 4859,
+   "end": 4900
+  },
+  {
+   "fact": "在 The Peacock 撞见 Jack 带金发女伴进门后，David 质疑 Bryony：难道不想想为何 Jack Rothwell 总要搅黄你们的每次约会？",
+   "anchor": "Aren’t you beginning to wonder why it is that Jack Rothwell would want to sabotage every date we have?",
+   "start": 12470,
+   "end": 12572
+  },
+  {
+   "fact": "Bryony 与 David 正要离席时，Jack 在她桌旁插话：由他送她回家——「顺路」。",
+   "anchor": "If you’ve finished, I’ll take her home.’ Jack’s deep voice came from right beside her, his eyes fixed on her face. ‘It’s on my way.",
+   "start": 15828,
+   "end": 15959
+  },
+  {
+   "fact": "Bryony 对 Jack 抱怨：Lizzie 把信寄给圣诞老人已整整一个月，而她至今连一个男人的吻都没讨到。",
+   "anchor": "A whole month has gone past since Lizzie sent her letter to Santa and so far I haven’t even managed to get a man to kiss me.",
+   "start": 22721,
+   "end": 22845
+  },
+  {
+   "fact": "Jack 低吼「你想要个男人吻你？」，不等 Bryony 回答便一手扣住她的头，重重地吻了下去。",
+   "anchor": "Jack’s voice was a deep growl and without waiting for her answer he slid a hand round her head and brought his mouth down on hers with punishing force.",
+   "start": 22879,
+   "end": 23030
+  },
+  {
+   "fact": "Bryony 提醒自己：Jack 八岁时父母离异，他从小立誓长大后绝不结婚。",
+   "anchor": "Jack, whose parents had divorced when he was eight and who had vowed never to get married himself when he grew up.",
+   "start": 26449,
+   "end": 26563
+  }
+ ],
+ "miss": 0
+}

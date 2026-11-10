@@ -1,0 +1,57 @@
+{
+ "book": "home-for-the-holidays-by-sarah-morgan",
+ "chapter": "ch09",
+ "text": "notes/books/novels/home-for-the-holidays-by-sarah-morgan/text/ch09_chapter_eight.txt",
+ "source": "R1 subagent (text-only)",
+ "facts": [
+  {
+   "fact": "圣诞前一周，Nicky 冲进休息室报信：Ellie 开车冲进了沟里，人得破拆车身才能救出——她已有近八个月身孕；Ellie 是急诊顾问 Ben MacAllister 的妻子、怀孕前也在急诊当护士，而 Ben 正外出上 immediate care 课程；杰克当即让布莱妮打电话叫她哥哥、产科医生汤姆，汤姆当时正在手术室做一台急诊剖宫。",
+   "anchor": "I just had a call from Ambulance Control,’ she said breathlessly. ‘Ellie has driven her car into a ditch.",
+   "start": 212,
+   "end": 317
+  },
+  {
+   "fact": "虚弱的 Ellie 道出事故原因：为了躲一只羊而急打方向盘；她头皮伤口较浅却持续出血，惊惶念叨自己「又要失去这个孩子了」，杰克一边安抚一边要布莱妮再催汤姆；与这对夫妇私交甚深的 Sean 自认难以客观，把现场交给杰克（「This is your show」）。",
+   "anchor": "I swerved to avoid a sheep,’ she croaked, and Sean rolled his eyes.",
+   "start": 2640,
+   "end": 2707
+  },
+  {
+   "fact": "Ellie 抓住杰克的胳膊恳求：若汤姆赶不到就由他当场剖宫；杰克承诺「需要的话我在这就能剖」，保证她不会失去孩子，并让人给 Tom Hunter 传话——两分钟内不下了手术室就罚他请全科喝一年酒；随后杰克开医嘱、做超声，确认胎心仍保持 140、胎儿无恙；汤姆赶到后检查五分钟即拍板立即剖宫，Ellie 要求「别等 Ben」并点名要 Sean 陪她进产房。",
+   "anchor": "If I have to section you here, I can and I will,’ he promised, ‘and you are not going to lose this baby, Ellie. I swear it.",
+   "start": 4389,
+   "end": 4512
+  },
+  {
+   "fact": "手术顺利：全体山地救援队在 Drunken Fox 酒吧庆祝 Ben 和 Ellie 的儿子平安出生——虽早产超过四周但状况良好，就住在病房陪妈妈；Sean 举杯敬「尚未命名的 MacAllister 宝宝」以及立功的杰克和汤姆。",
+   "anchor": "To baby MacAllister, as yet unnamed, and to Jack and Tom—’ Sean raised his glass ‘—and a job well done.",
+   "start": 8090,
+   "end": 8193
+  },
+  {
+   "fact": "翌晚的救援队圣诞派对把场地改到山谷另一侧，约定七点在救援中心集合；布莱妮和杰克七点才下班，杰克宣布开法拉利载她赴会，Sean 警告这种路况「你会把车开进沟里」，杰克回敬「我是无敌的」。",
+   "anchor": "Bryony and I don’t finish work until seven.’ Jack reached for his jacket. ‘I’ll drive her there in the Ferrari.",
+   "start": 9752,
+   "end": 9863
+  },
+  {
+   "fact": "派对散场时户外已积雪数英寸、四轮驱动车全部坐满；此前杰克主动提议让整晚只喝水的布莱妮开他的法拉利回家，结果他自己在副驾睡着了；布莱妮开进陌生路段迷了路，循着一家酒吧的灯光停车问询——酒吧证实前方道路已封、要到次日早晨才能清通，两人只得留下过夜。",
+   "anchor": "when they finally left the restaurant, several inches of snow had fallen and Bryony looked at the road doubtfully.",
+   "start": 13399,
+   "end": 13513
+  },
+  {
+   "fact": "老板娘交出最后一把钥匙：店里只剩一间房——特意装修过的蜜月套房；房里没有扶手椅，只有一张缀满皮毛与缎子的 emperor-size 大床，杰克索性提议两人同床，理由是「我们都认识二十二年了，Blondie，你还不信我？」。",
+   "anchor": "It’s the last room. You’re lucky. It’s the honeymoon suite.",
+   "start": 16031,
+   "end": 16090
+  },
+  {
+   "fact": "同床的两人从「互相取暖」演变为缠绵一夜；其间杰克第一次直呼她的名字「Bryony」——布莱妮记忆中他从未这样叫过她；事后她确信杰克爱她：她在他凝视她的眼神里看到了爱，也在他做爱的方式里感受到了爱。",
+   "anchor": "It was the first time she could ever remember him calling her by her name and she stared into his eyes, overwhelmed by emotion and sensation, every part of her body feeling every part of his.",
+   "start": 27937,
+   "end": 28128
+  }
+ ],
+ "miss": 0
+}
