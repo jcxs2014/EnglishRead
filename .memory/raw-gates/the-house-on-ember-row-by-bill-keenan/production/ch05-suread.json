@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch05_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "Quinn 应邀进入 Oak Club——一家血液都像过滤过一样的老钱社交俱乐部，生意在酒倒上之前就谈完了。",
+   "anchor": "Ellison had invited me here",
+   "start": 695,
+   "end": 722
+  },
+  {
+   "fact": "球场对话：Quinn 说他把壁球当真，Ellison 答非所问式回敬「我对待一切都很认真」。",
+   "anchor": "I take everything seriously.",
+   "start": 2591,
+   "end": 2619
+  },
+  {
+   "fact": "纪律论：Ellison 说球场上学的纪律适用于一切——生意、谈判，最后补上一个词：生存。",
+   "anchor": "“Survival,” he added.",
+   "start": 2933,
+   "end": 2954
+  },
+  {
+   "fact": "世界观摊牌：一切皆游戏，赢家是知道何时出手、何时退后的人——与 ch03 运气论同一套哲学。",
+   "anchor": "Everything’s a game, Quinn.",
+   "start": 2972,
+   "end": 2999
+  },
+  {
+   "fact": "Wren 自白：为 Ellison 工作不谈享受，谈的是忠诚——而且「忠诚就是一切」；他是自愿的承重者。",
+   "anchor": "“Enjoyment isn’t the point.”",
+   "start": 4473,
+   "end": 4501
+  },
+  {
+   "fact": "Wren 侧写：听到 Quinn 说自己快输了，Wren 只回一句「Laurence 喜欢赢」——主人的胜负就是他的立场。",
+   "anchor": "Laurence prefers winning.",
+   "start": 4074,
+   "end": 4099
+  },
+  {
+   "fact": "权力仪式：Ellison 与 Wren 的低声交谈不是第一次，而是一套仪式——Ellison 口述，Wren 执行，一个点头即完成。",
+   "anchor": "This wasn’t their first such conversation.",
+   "start": 5459,
+   "end": 5501
+  },
+  {
+   "fact": "章末：一个电话打断球局又离开，Ellison 毫无波澜地回到球场报分「六比零，我发球」——游戏继续。",
+   "anchor": "“Six–love, my serve,”",
+   "start": 5894,
+   "end": 5915
+  }
+ ]
+}
