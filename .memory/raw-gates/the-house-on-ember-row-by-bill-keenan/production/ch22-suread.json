@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-ember-row-by-bill-keenan",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch22_chapter_twenty_two.txt",
+ "facts": [
+  {
+   "fact": "病房日常：日子连成一片荧光灯，止痛剂把一切钝化到可忍受却从不真正消失——受苦没有隐私可言。",
+   "anchor": "There was no privacy in suffering.",
+   "start": 693,
+   "end": 727
+  },
+  {
+   "fact": "吗啡的仁慈：不挑剔——它拿走一切，包括那些他「活该背负」的东西（对 Gordon 的愧疚也被暂时麻醉）。",
+   "anchor": "That was the mercy of the morphine—it didn’t discriminate.",
+   "start": 1701,
+   "end": 1759
+  },
+  {
+   "fact": "生死毫厘：仪表盘撞进腿——偏右几厘米就会切断股动脉，「没等人赶到你就会流血而死」。",
+   "anchor": "A few centimeters to the right,",
+   "start": 3857,
+   "end": 3888
+  },
+  {
+   "fact": "医生判词：你是非常幸运的人——Quinn 心里不觉得：车祸把一切剥开，Gordon 的生死还是他亲手标点出的悬而未决的问题。",
+   "anchor": "you’re an incredibly lucky man",
+   "start": 4241,
+   "end": 4271
+  },
+  {
+   "fact": "警察仍在：医生只管健康、对执法话题「不能评论」——病情稳定后会让当局来提供细节；一天一天来。",
+   "anchor": "Is the police officer still there?",
+   "start": 4568,
+   "end": 4602
+  },
+  {
+   "fact": "章末访客：另一位访客——一个女人在候诊室等了几天，自称是家人；医生问要不要请进来。",
+   "anchor": "She says she’s family.",
+   "start": 6041,
+   "end": 6063
+  },
+  {
+   "fact": "答复：用几乎耳语的音量说——请她进来。",
+   "anchor": "“Send her in.”",
+   "start": 6308,
+   "end": 6322
+  }
+ ]
+}
