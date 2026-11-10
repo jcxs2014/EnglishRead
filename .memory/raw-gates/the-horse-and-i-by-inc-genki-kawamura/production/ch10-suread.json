@@ -1,0 +1,61 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch10",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch10_ten.txt",
+ "facts": [
+  {
+   "fact": "护理院休息室约二十位轮椅老人如羊群围看一台电视，她找到那个特别小的背影喊 Mom——母亲没回头",
+   "anchor": "about twenty seniors in wheelchairs were gathered together like sheep",
+   "start": 559,
+   "end": 628
+  },
+  {
+   "fact": "母亲时空错乱（问她是都放学回家了？），坚称钱包被 Hashizume 太太偷走；Yuko 悄声想借一点钱",
+   "anchor": "A bit early today, no?",
+   "start": 2346,
+   "end": 2368
+  },
+  {
+   "fact": "母亲突然清醒告白：指控父亲出轨的传单是 Miyoko 编造的——我一直都知道",
+   "anchor": "Miyoko made all that up. I always knew.",
+   "start": 3344,
+   "end": 3383
+  },
+  {
+   "fact": "母亲落泪道歉：从没告诉你对不起——\"你彻底不再和我说话了……我好孤独\"；Yuko 的沉默把母亲孤独了一辈子",
+   "anchor": "and I was so lonely",
+   "start": 3932,
+   "end": 3951
+  },
+  {
+   "fact": "迟到的如果：若那天在厨房说实话，母女至少还能继续交心——但已经太迟",
+   "anchor": "At the very least, my mother and I might have been able to continue sharing our feelings",
+   "start": 4041,
+   "end": 4129
+  },
+  {
+   "fact": "母亲说我只要你\"得体地幸福\"；properly happy 是什么意思她不知道——望着太阳能板田仿佛看见自己的未来",
+   "anchor": "All I want is for you to be properly happy",
+   "start": 4250,
+   "end": 4292
+  },
+  {
+   "fact": "新骑手 Shintani（奥运级驯马师转障碍赛）骑 Strada 越障：重力仿佛消失，黑色躯体腾空、长尾如弓、落地轻软",
+   "anchor": "As though gravity had vanished from the riding arena",
+   "start": 7614,
+   "end": 7666
+  },
+  {
+   "fact": "她嫉妒 Shintani（马向他展示从未向她展示的一面），但嫉妒里冒出一种神秘的渴望",
+   "anchor": "from inside that jealousy bubbled up a mysterious desire",
+   "start": 8063,
+   "end": 8119
+  },
+  {
+   "fact": "Shintani 宣言\"他有好材料\"——赛马失利的 Strada 可在障碍赛站上聚光灯；他和我可以重新开始我们的人生；Mugikura 大笑：只有一个答案",
+   "anchor": "Together, he and I could start our lives over again",
+   "start": 8856,
+   "end": 8907
+  }
+ ]
+}

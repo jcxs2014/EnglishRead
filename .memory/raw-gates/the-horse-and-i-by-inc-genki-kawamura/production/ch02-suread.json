@@ -1,0 +1,55 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch02",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch02_two.txt",
+ "facts": [
+  {
+   "fact": "Yuko 骑公司自行车穿过自成一镇的船厂送便当，太阳晒着头皮",
+   "anchor": "I was riding down a rambling road on a bicycle with a rusty chain, the sun burning my scalp",
+   "start": 124,
+   "end": 215
+  },
+  {
+   "fact": "后辈 Miu Unosawa 在旁抱怨太热怕皮肤晒伤，但脸与四肢异常苍白",
+   "anchor": "pedaled beside me, complaining with furrowed brows",
+   "start": 638,
+   "end": 688
+  },
+  {
+   "fact": "叙事者入职二十五年，起初怕船的尺度僭越人类分寸，想起母亲讲的巴别塔故事",
+   "anchor": "It reminded me of a story in the Old Testament that my mother had told me about",
+   "start": 2258,
+   "end": 2337
+  },
+  {
+   "fact": "几个月后叙事者明白：零件虽大，工人做的和小塑料模型没什么不同，于是松了口气",
+   "anchor": "what the workers were doing with them was not much different from making small plastic models",
+   "start": 2925,
+   "end": 3018
+  },
+  {
+   "fact": "敷衍的假笑只是叙事者与人打交道的习惯，并非觉得对方有趣",
+   "anchor": "Half-hearted smiles were just a habit",
+   "start": 4958,
+   "end": 4995
+  },
+  {
+   "fact": "Miu 在食堂对女同事说：把性骚扰当成一种沟通就完全没问题",
+   "anchor": "as a form of communication, it’s no problem at all",
+   "start": 6301,
+   "end": 6351
+  },
+  {
+   "fact": "Fujii 梳了梳花白头发、把双手搭上 Yuko 肩膀低语：这地方没有你不能运转",
+   "anchor": "then placed his hands on my shoulders and whispered",
+   "start": 9919,
+   "end": 9970
+  },
+  {
+   "fact": "工会约八百名会员每月缴 2,000 日元会费，Yuko 每周三五傍晚在预制板棚里管账",
+   "anchor": "About eight hundred union members paid monthly dues of 2,000 yen each",
+   "start": 14639,
+   "end": 14708
+  }
+ ]
+}

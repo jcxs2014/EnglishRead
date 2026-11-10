@@ -1,0 +1,55 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch04_four.txt",
+ "facts": [
+  {
+   "fact": "Yuko 在路口鬼使神差左转进稻田路，循着梦中气味的方向找到白色建筑与熟悉的那辆马拖车",
+   "anchor": "the wind carried the scent of animals to my nose",
+   "start": 1182,
+   "end": 1230
+  },
+  {
+   "fact": "马的目光再次找到她——Found you 又一次响起，把她的呼吸撞停",
+   "anchor": "it felt like the horse said again, knocking the breath out of me",
+   "start": 1854,
+   "end": 1918
+  },
+  {
+   "fact": "拄拐的灰发老人不知何时立在身旁，沙哑嗓音劝她骑马——他是社长 Mugikura",
+   "anchor": "a gray-haired man who was standing next to me without my noticing",
+   "start": 2031,
+   "end": 2096
+  },
+  {
+   "fact": "初次接近，黑马后腿高踢、硬蹄几乎擦过她的鼻尖，她吓得向后跌进软泥",
+   "anchor": "kicked its hind legs high up toward me",
+   "start": 6628,
+   "end": 6666
+  },
+  {
+   "fact": "Mugikura 低声斥责：你差点没命——记住马是猛兽",
+   "anchor": "You could’ve died. Remember that horses are ferocious animals",
+   "start": 7119,
+   "end": 7180
+  },
+  {
+   "fact": "金句：敷衍假笑在这里没用，微笑只对人类有效——直击 Yuko 的假笑人格",
+   "anchor": "There’s no use for half-hearted smiles here",
+   "start": 9453,
+   "end": 9496
+  },
+  {
+   "fact": "与马同步呼吸、心跳同频坠入纯黑深井，舔指尖之后眼泪落下——她感到自己被原谅了",
+   "anchor": "I felt that I had been forgiven",
+   "start": 10488,
+   "end": 10519
+  },
+  {
+   "fact": "马名揭晓：Grande Strada——北海道名门纯种赛马受伤降级、昨天运输途中逃逸；不是它逃走，两人永不会相遇",
+   "anchor": "Had he not escaped, we never would have met",
+   "start": 18378,
+   "end": 18421
+  }
+ ]
+}

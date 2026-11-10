@@ -1,0 +1,79 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch19",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch19_nineteen.txt",
+ "facts": [
+  {
+   "fact": "审讯室（偷情录像的接待室）：会计科长摆出账本与银行流水打印件——她目光失焦、字符数字分不清",
+   "anchor": "laid out printed-out copies of cashbooks and records of bank account withdrawals",
+   "start": 1051,
+   "end": 1131
+  },
+  {
+   "fact": "Fujii 开录音笔逐项问话温和如驯马师——临时借走的钱总额竟超过 1 亿日元",
+   "anchor": "the amount that I had temporarily borrowed from the safe turned out to have exceeded 100 million yen",
+   "start": 2327,
+   "end": 2427
+  },
+  {
+   "fact": "用途盘问：男人？赌博？——\"是为了马。\"\"你是说赌马？\"\"不……我的马\"——哄堂嘲笑",
+   "anchor": "that you were betting on horse races?",
+   "start": 3991,
+   "end": 4028
+  },
+  {
+   "fact": "她的证词：我想转弯前他已先转；我病了他也停食；我低落时他守在旁；他甚至到我梦里来",
+   "anchor": "When I got sick, he stopped eating, too",
+   "start": 4938,
+   "end": 4977
+  },
+  {
+   "fact": "越解释越瓦解——说出的每个词都在拆散她与马建立的东西，眼泪涌上眼角",
+   "anchor": "whatever I had built with Strada was disintegrating",
+   "start": 5714,
+   "end": 5765
+  },
+  {
+   "fact": "\"police\"一词让她浑身瘫软、膝抖气短——胃痉挛酸唾液涌口，冲进洗手间呕吐（空胃只吐出乳白黏液）",
+   "anchor": "my whole body went limp",
+   "start": 6755,
+   "end": 6778
+  },
+  {
+   "fact": "卫生间海风如歌：Doo dah da——干草牛奶味入鼻、蹄声随风飘来",
+   "anchor": "The sound of hooves came wafting in on the sea breeze",
+   "start": 8074,
+   "end": 8127
+  },
+  {
+   "fact": "逃跑交响曲：汽笛如号角、锯铁如欢快小提琴、防护靴踏出稳定鼓点、海风奏出旋律",
+   "anchor": "The sound of an iron plate being sawed formed a jaunty violin part",
+   "start": 9644,
+   "end": 9710
+  },
+  {
+   "fact": "马等在停车架后隔铁架对视——\"你是来接我的吗？\"\"我们一起逃吧\"；她抓起软皮马鞍跳上马背",
+   "anchor": "Strada was standing behind the bicycles and mopeds, locking eyes with me over the iron racks",
+   "start": 10010,
+   "end": 10102
+  },
+  {
+   "fact": "逃亡：穿工厂群、无视保安警告驶出船厂，警笛在后马加速——熟悉的景物最后一次掠过，她在马背上与一切告别",
+   "anchor": "The familiar landscape along the highway swept by me for the last time",
+   "start": 11441,
+   "end": 11511
+  },
+  {
+   "fact": "Mugikura 驾拖车并驾齐驱金牙大笑 Good luck；稻田水镜映蓝天——如御白様在天空奔跑",
+   "anchor": "It was as if Oshirasama were running through the sky",
+   "start": 12172,
+   "end": 12224
+  },
+  {
+   "fact": "终章预告：要把这感觉写成歌——用曾憎恶的词唱出真实的故事（相遇之日/神秘的梦/我在你内你在我内）；马应和嘶鸣——一起去任何地方",
+   "anchor": "He whinnied as if in response—as if to scream that together, we could go anywhere",
+   "start": 12741,
+   "end": 12822
+  }
+ ]
+}

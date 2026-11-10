@@ -1,0 +1,49 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch06",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch06_six.txt",
+ "facts": [
+  {
+   "fact": "病假在家收到 Ushio 语音留言：关心她是否安好，想送东西却发现自己不知道她住哪",
+   "anchor": "I thought about bringing you something but realized I didn’t know where you lived",
+   "start": 469,
+   "end": 550
+  },
+  {
+   "fact": "手机上刷到 AI 语言辩论：精神科医生说词语已不属于人类，社交媒体 AI 故意挑动互斗来吸引流量",
+   "anchor": "deliberately makes people pick fights with each other to attract viewers",
+   "start": 1300,
+   "end": 1372
+  },
+  {
+   "fact": "Yuko 同情背黑锅的 AI——它只是忠实执行被下达的命令",
+   "anchor": "It was just faithfully carrying out what it was ordered to do",
+   "start": 1738,
+   "end": 1799
+  },
+  {
+   "fact": "独处深呼吸时，仿佛有马的呼吸来配合她；她哼起 Doo dah da，指尖发烫",
+   "anchor": "As if matching my own breath, I heard the inhale and exhale of the horse",
+   "start": 1897,
+   "end": 1969
+  },
+  {
+   "fact": "被 Fujii 摇醒回到总务部：电话一直响没人接——接电话被视为女职员的分内事；Miu 说这地方没你不行",
+   "anchor": "Because it was the job of female employees to answer the phone",
+   "start": 2282,
+   "end": 2344
+  },
+  {
+   "fact": "下一个白日梦醒来人在工会办公室：不记得自己怎么来的，继续录 900 日元邮票、2,700 交通费的账",
+   "anchor": "I didn’t remember how I’d gotten here, but I was at the union office",
+   "start": 3869,
+   "end": 3937
+  },
+  {
+   "fact": "奇怪的一周，仿佛时间被偷走了；望着吊车哼出旋律，剪影融进暮色",
+   "anchor": "as if time had been stolen from me",
+   "start": 4543,
+   "end": 4577
+  }
+ ]
+}

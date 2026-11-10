@@ -1,0 +1,55 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch01_one.txt",
+ "facts": [
+  {
+   "fact": "叙事者骑红色摩托猛刹车停在公路上，轮胎在滚烫柏油上打滑，闻到烧焦橡胶味",
+   "anchor": "I slammed on the rusty brakes, bringing my red moped to a stop",
+   "start": 55,
+   "end": 117
+  },
+  {
+   "fact": "公路中央——二手车行旗与已摘招牌的前弹珠房之间——立着一匹发亮的黑马",
+   "anchor": "was a glistening black horse",
+   "start": 379,
+   "end": 407
+  },
+  {
+   "fact": "马高约为叙事者身高的两倍，在喇叭声中平静地转动头部",
+   "anchor": "Towering about twice my height",
+   "start": 534,
+   "end": 564
+  },
+  {
+   "fact": "叙事者推正头盔帽檐后与马四目相对，那双黑眼睛哀伤而似曾相识",
+   "anchor": "A sorrowful and somehow familiar black, the horse’s eyes were fixed on me",
+   "start": 719,
+   "end": 792
+  },
+  {
+   "fact": "叙事者咧嘴确认自己没疯——还能笑得出来",
+   "anchor": "To make sure that I hadn’t lost my mind, I raised the corners of my mouth",
+   "start": 977,
+   "end": 1050
+  },
+  {
+   "fact": "马朝叙事者走近两三步，硬蹄敲柏油的声与叙事者心跳同步",
+   "anchor": "The sound of the horse’s hard hooves hitting the asphalt synced with the beating of my heart",
+   "start": 1182,
+   "end": 1274
+  },
+  {
+   "fact": "四个穿同款尼龙夹克的男人凭空出现围住马，马前腿高扬如优雅舞蹈，缰绳固定后立刻平静",
+   "anchor": "Four men wearing matching nylon jackets appeared out of nowhere and surrounded the horse",
+   "start": 1469,
+   "end": 1557
+  },
+  {
+   "fact": "拖车远去时叙事者瞥见车身上的 Mugikura Riding Club（麦仓马术俱乐部）字样，马又从帆布缝隙探出头看叙事者",
+   "anchor": "I caught the words “Mugikura Riding Club.”",
+   "start": 2416,
+   "end": 2458
+  }
+ ]
+}

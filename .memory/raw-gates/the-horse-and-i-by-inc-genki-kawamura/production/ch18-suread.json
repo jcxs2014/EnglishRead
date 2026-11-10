@@ -1,0 +1,67 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch18",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch18_eighteen.txt",
+ "facts": [
+  {
+   "fact": "雪夜携鼓胀皮包赴马厩——马舔她冻僵的手指、口鼻颤抖（又认得她了）",
+   "anchor": "Strada moved his mouth toward my hand and licked my freezing fingers",
+   "start": 736,
+   "end": 804
+  },
+  {
+   "fact": "\"我会永远相信你\"——他的心意涌进她心里；她抱住冻结变硬的鞍瘫坐草堆",
+   "anchor": "I will believe in you forever",
+   "start": 1004,
+   "end": 1033
+  },
+  {
+   "fact": "马躺下裹住她；体温交融（她的略低）——她在他的温暖里渐渐失去意识",
+   "anchor": "His body temperature converged with mine, which was slightly cooler",
+   "start": 1593,
+   "end": 1660
+  },
+  {
+   "fact": "Mugikura 炉边课：睡马厩差点死掉；她自白——骑 Strada 时把命托付给他，濒死于她像爱一个人",
+   "anchor": "I was entrusting my life to him",
+   "start": 2520,
+   "end": 2551
+  },
+  {
+   "fact": "人类史=马史：先知穆罕默德、亚历山大大帝、成吉思汗都有爱马——人马同行看世界，也一同被杀",
+   "anchor": "The history of humankind is the history of horses",
+   "start": 2717,
+   "end": 2766
+  },
+  {
+   "fact": "马的天堂：多数马赢不了就死、不能赛就被杀——他要去北方御白様之地，幸运马的终点退役",
+   "anchor": "Most horses are killed once they’re unable to compete",
+   "start": 3791,
+   "end": 3844
+  },
+  {
+   "fact": "反驳聪明汉斯：不是马蠢——动物有无词交流之道；人类本也会，如今丧失了洞察与共情力",
+   "anchor": "We’ve lost the capacity for insight and empathy",
+   "start": 4584,
+   "end": 4631
+  },
+  {
+   "fact": "将棋终局：词语/昂贵马鞍/冠军对马毫无意义；\"马使人做梦，你我都是被梦附身的人——但人总会从梦里醒来\"",
+   "anchor": "Horses make people dream. You and I are humans that have been possessed by those dreams",
+   "start": 5195,
+   "end": 5282
+  },
+  {
+   "fact": "焚钱幻觉：一沓沓往炉里扔（万元钞被火吞黑）——醒后包里钱原封未动；如释重负又绝望，终究什么也没能挣脱",
+   "anchor": "The number 10,000 was enveloped in flames, over and over again",
+   "start": 6336,
+   "end": 6398
+  },
+  {
+   "fact": "结尾：不能走路的人骑上浓雾中的黑马——\"他骑得就像生来就该如此\"",
+   "anchor": "But he rode as if it was what he was meant to do, from the moment he was born",
+   "start": 7273,
+   "end": 7350
+  }
+ ]
+}

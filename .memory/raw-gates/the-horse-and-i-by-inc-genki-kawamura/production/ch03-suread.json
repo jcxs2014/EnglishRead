@@ -1,0 +1,55 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch03",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch03_three.txt",
+ "facts": [
+  {
+   "fact": "Yuko 骑摩托二十分钟回到被花生田与太阳能板包围的公寓",
+   "anchor": "returned to my apartment, which was surrounded by peanut fields",
+   "start": 633,
+   "end": 696
+  },
+  {
+   "fact": "晚餐是冷冻汉堡排加热、冻干味噌汤冲泡、冰箱里的生菜小番茄",
+   "anchor": "I took rice and a hamburg steak from the freezer",
+   "start": 1176,
+   "end": 1224
+  },
+  {
+   "fact": "隔壁传来一家三口的笑声，Yuko 熄掉手机屏隔着薄墙仔细听",
+   "anchor": "I clicked off my phone screen and listened carefully",
+   "start": 2648,
+   "end": 2700
+  },
+  {
+   "fact": "躺下后回想：与马对视只是今晨的事，却感觉很久以前，那双眼睛烙在心头",
+   "anchor": "those eyes were seared into my mind",
+   "start": 3262,
+   "end": 3297
+  },
+  {
+   "fact": "黑暗里传来叹息，呼吸声穿过磨砂玻璃滑门抵达耳边——有人在屋里",
+   "anchor": "The sound of lungs expelling air reached my ears through the frosted glass",
+   "start": 3589,
+   "end": 3663
+  },
+  {
+   "fact": "厨房暗处立着一匹马，眼睛映着窗外荧光灯，干草混牛奶的气味与白天一样",
+   "anchor": "The animal stood in front of the kitchen table",
+   "start": 3792,
+   "end": 3838
+  },
+  {
+   "fact": "马低鸣一声，Yuko 感到它是在呼唤自己",
+   "anchor": "let out a low-pitched whinny. I sensed that it was calling for me",
+   "start": 4201,
+   "end": 4266
+  },
+  {
+   "fact": "数步走近、颤抖的指尖碰到马颈的瞬间醒来——是梦；她咧嘴确认现实，发现自己裸睡",
+   "anchor": "The moment my shaking fingers made contact with the horse’s powerful neck, I woke up",
+   "start": 4475,
+   "end": 4559
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch05",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch05_five.txt",
+ "facts": [
+  {
+   "fact": "Mugikura 在沙发上摆将棋残局，问她是不是小时候骑过马——身体会记得",
+   "anchor": "He was sitting on a sofa, playing a shogi puzzle",
+   "start": 183,
+   "end": 231
+  },
+  {
+   "fact": "初中毕业时匿名手写传单贴上公寓告示板：指控父亲与邻居（同学的母亲）有私情，父亲报警不被理会，事态逐步升级",
+   "anchor": "The handwritten flyer—which claimed that my father and our neighbor, the mother of one of my classmates, were having an affair—was posted",
+   "start": 882,
+   "end": 1019
+  },
+  {
+   "fact": "Miyoko 目睹母亲在超市被店长猥亵仍全程假笑，隔着货架看见 Yuko 一家挑肉讨论火锅的幸福",
+   "anchor": "but Mom had a fake smile on her face the whole time",
+   "start": 3405,
+   "end": 3456
+  },
+  {
+   "fact": "Miyoko 坦白：她以为 Yuko 家靠作弊过得好、自己家是老实人才倒霉——最后谎言反过来折磨了她",
+   "anchor": "the lie hurt me. And it just kept getting more and more painful",
+   "start": 4548,
+   "end": 4611
+  },
+  {
+   "fact": "Yuko 早就知道母亲想离婚又不敢开口，所以没有揭穿传单是假的——她的沉默是成全",
+   "anchor": "So I said nothing, in order for her wish to come true",
+   "start": 6404,
+   "end": 6457
+  },
+  {
+   "fact": "母亲口头禅\"男人不可信\"，却在她三十岁后逼婚催孙；四十岁后不提了，两年前病倒进了护理机构",
+   "anchor": "became my mother’s trademark phrase",
+   "start": 6595,
+   "end": 6630
+  },
+  {
+   "fact": "回到当下：Mugikura 调侃 Yuko 比马还寡言",
+   "anchor": "You’re even more tight-lipped than a horse",
+   "start": 7389,
+   "end": 7431
+  },
+  {
+   "fact": "Mugikura 说那匹马喜欢她——全场上只有她被允许摸它的口鼻；金牙大笑：随时可以来看它",
+   "anchor": "You were the only one he let touch his muzzle",
+   "start": 7743,
+   "end": 7788
+  }
+ ]
+}

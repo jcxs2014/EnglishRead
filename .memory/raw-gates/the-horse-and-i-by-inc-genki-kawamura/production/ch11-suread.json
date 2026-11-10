@@ -1,0 +1,49 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch11",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch11_eleven.txt",
+ "facts": [
+  {
+   "fact": "仓库堆满破旧工作服、磨花防护靴、积尘头盔面罩——氧化汗味加铁味令人窒息",
+   "anchor": "The smell of oxidized male sweat and iron was stifling",
+   "start": 166,
+   "end": 220
+  },
+  {
+   "fact": "Miu 抱怨总务部替大老爷们收拾烂摊子：Fujii 从不做这种事，扬言要告公司性别歧视",
+   "anchor": "I’m going to sue the company for gender discrimination",
+   "start": 829,
+   "end": 883
+  },
+  {
+   "fact": "炸弹：Miu 宣布公司要让她做工会账目——Yuko 失手掉落头盔，空响回荡",
+   "anchor": "They’re trying to make me do union accounting",
+   "start": 1314,
+   "end": 1359
+  },
+  {
+   "fact": "九年来从没人叫她交出工会会计之位；她怀疑是 Ushio 放的谣言",
+   "anchor": "For nine years, I had never been told to give up my position as the union accountant",
+   "start": 2120,
+   "end": 2204
+  },
+  {
+   "fact": "危机推演：她多次取款（一半私藏一半回柜已补足），账本存折只有她经手——Miu 一对账就露馅",
+   "anchor": "If she looked closely at the passbooks or the ledger, she would realize that something was off",
+   "start": 2898,
+   "end": 2992
+  },
+  {
+   "fact": "沾油黑手套散发锈铁味——恶心如鼻血旧疾发作，她捂住口鼻只想逃离此屋",
+   "anchor": "I began to feel nauseated, the way I used to when I got nosebleeds",
+   "start": 3157,
+   "end": 3223
+  },
+  {
+   "fact": "Miu 的狗宣言：我信狗——不像男人那样背叛我，没开口就懂我；她温柔接过 Yuko 打死的绳结解开",
+   "anchor": "They don’t betray me like men do, and they understand me before I’ve even said a word",
+   "start": 4149,
+   "end": 4234
+  }
+ ]
+}

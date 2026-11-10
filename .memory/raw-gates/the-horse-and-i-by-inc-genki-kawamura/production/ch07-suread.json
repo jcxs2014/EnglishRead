@@ -1,0 +1,67 @@
+{
+ "book": "the-horse-and-i-by-inc-genki-kawamura",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch07_seven.txt",
+ "facts": [
+  {
+   "fact": "失眠后的周六清晨，Yuko 哼着 Doo dah da 骑摩托赴马场，像活在梦里却全程清醒",
+   "anchor": "I felt like I’d been living in a dream, but all the while I was wide awake",
+   "start": 160,
+   "end": 234
+  },
+  {
+   "fact": "Found him——但鞍上有人：Mikoshiba 正骑着黑马，围观女士们夸她与马绝配",
+   "anchor": "On the other end of their gaze, riding the black horse, was Mikoshiba",
+   "start": 1307,
+   "end": 1376
+  },
+  {
+   "fact": "Mugikura 拒载：Mikoshiba 每天都骑他，再不让马休息就要再受伤",
+   "anchor": "Mrs. Mikoshiba’s been riding him every day",
+   "start": 2006,
+   "end": 2048
+  },
+  {
+   "fact": "马嘶鸣如尖叫回荡场内；Yuko 胸口发紧、口中泛酸，那股怀旧味道却怎么也想不起出处",
+   "anchor": "A whinny that sounded like a scream echoed throughout the arena",
+   "start": 2210,
+   "end": 2273
+  },
+  {
+   "fact": "马厩喂苹果：马咬了她中指留下牙印红肿，咀嚼声与她的脉动同步——她想和马吃同样的东西",
+   "anchor": "He’d left a tooth mark on my middle finger",
+   "start": 4259,
+   "end": 4301
+  },
+  {
+   "fact": "Mugikura 亮底牌：Mikoshiba 开保时捷穿爱马仕、两匹马都是她的；若她买下他你就再不能骑——马价 450 万日元、月寄养费 20 万",
+   "anchor": "If she buys him, you won’t be able to ride him anymore",
+   "start": 5074,
+   "end": 5128
+  },
+  {
+   "fact": "Yuko 抱紧褪色背包自惭形秽（拉领口、脏运动鞋、快散架的摩托），塞掉余苹果逃出马厩",
+   "anchor": "I hugged my faded backpack as if to hide it",
+   "start": 5623,
+   "end": 5666
+  },
+  {
+   "fact": "船厂周末只剩 AI 设备在转——像我这样的人迟早被淘汰；走廊尽头目击 Fujii 与 Miu，边哼 Doo dah da 边举手机录像，Miu 尖叫令她回神后默默离开",
+   "anchor": "Sooner or later, people like me were going to become obsolete",
+   "start": 6899,
+   "end": 6960
+  },
+  {
+   "fact": "工会账本期初余额 685,002,174 日元；她自言\"先借用马上归还、稍微做点假账没人会注意\"——伸手时发抖：这是犯罪",
+   "anchor": "I could just borrow the money for now and return it right away",
+   "start": 12022,
+   "end": 12084
+  },
+  {
+   "fact": "干草牛奶气息拂过发梢、蹄声逼近如轻推——手指停止颤抖，抽出六摞纸币塞进背包逃离；静止的吊车如睡着的怪物",
+   "anchor": "I quickly pulled out six stacks of bills and shoved them into my nylon backpack",
+   "start": 13694,
+   "end": 13773
+  }
+ ]
+}
