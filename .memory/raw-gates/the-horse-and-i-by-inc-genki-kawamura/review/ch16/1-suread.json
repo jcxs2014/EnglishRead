@@ -1,0 +1,118 @@
+{
+  "chapter": "ch16",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch16_sixteen.txt",
+  "source_len_chars": 12326,
+  "source_note": "纯素读，仅读 text/ch16_sixteen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。（本章无『三个月』回叙类数字；现场出现的数字已尽记：机器人圆柱 four levels、静坐客人 four hours、外卖员 thirty seconds、错误加总 a hundred points、员工 three、机器人 two、邻桌兄妹 in their teens。）",
+  "events": [
+    {
+      "n": 1,
+      "who": "猫脸送餐机器人（与高椅上的学步幼儿）",
+      "did": "机器人顶着一份蛋包饭(omurice)滑行送餐，正面屏幕上有猫脸、圆眼睛四下观察；幼儿递出蘸满番茄酱的薯条喊 Kitty，机器人停在她手前、朝女孩微笑、避开脏薯条继续前进，经过“我”时从扬声器播放轻快的电子音乐",
+      "range": [
+        28,
+        583
+      ],
+      "quote_head": "A cylindrical robot with a plate of omurice",
+      "quote_anchor": "The robot stopped in front of her hand, smiled toward the girl, moved to avoid coming into contact with the messy fry"
+    },
+    {
+      "n": 2,
+      "who": "Mikoshiba 与大学生 Inui（及独食的中年男客）",
+      "did": "Mikoshiba 吃日式汉堡排、看着机器人嘀咕“不知道谁更聪明”；邻座大学生 Inui 大口咬意面夸张装噎——橡子般的小眼、微卷刘海、鼻梁高嘴唇好看但五官位置略错位、脸显得凌乱；送餐机器人圆柱分四层、蛋包饭置于 LED 托盘，中年男客取餐后它眨眼转身回厨房；Mikoshiba 问 Inui 能否像那机器人一样卖力、斥其毫无自尊，Inui 答学校布置的所有论文都用 AI app 写",
+      "range": [
+        583,
+        1955
+      ],
+      "quote_head": "“I wonder who’s smarter . . .” Mikoshiba, sitting",
+      "quote_anchor": "“I mean, I use an AI app for all the papers I’m assigned at school . . .”"
+    },
+    {
+      "n": 3,
+      "who": "叙述者“我”",
+      "did": "窗外高速公路上轿车、卡车、巴士一辆接一辆，同速、同距，像被传送带载运；“我”自那天以来每天骑 moped 上高速、像靠自动驾驶一样到岗，自忖“我”也许也被传送带载着",
+      "range": [
+        2650,
+        3310
+      ],
+      "quote_head": "Not knowing where to direct my gaze",
+      "quote_anchor": "I thought to myself that maybe I was being carried on a conveyor belt, too."
+    },
+    {
+      "n": 4,
+      "who": "Strada 与“我们”",
+      "did": "雷暴持续中 Strada 躺在泥里、最终不再动弹；万幸没断骨头、躲过最坏结局，但韧带伤得很重；与赛事兽医商议后，“我们”决定让 Strada 到附近马厩休养",
+      "range": [
+        3310,
+        3647
+      ],
+      "quote_head": "As the thunderstorm continued, Strada lay in",
+      "quote_anchor": "Luckily enough, he hadn’t broken any bones and we were spared the worst-case scenario, but he had hurt his ligaments pretty badly."
+    },
+    {
+      "n": 5,
+      "who": "“我”、Mikoshiba、Inui",
+      "did": "周末“我”去 Mugikura Riding Club 会馆送 Strada 的马具保养：全套马具糊满泥、与“我”的包同一种皮革做的鞍上有道深裂口，触到裂口时 Strada 的嘶鸣声袭来、“我”瘫坐在沙发上动弹不得，直到骑完马的 Mikoshiba 进来意外地邀“我”吃午饭；“我”骑 moped 跟着她的红色 SUV 进了连锁家庭餐厅；穿大品牌 logo 连帽衫（内搭白衬衫）的年轻男子 Inui 毫不在意形象地热情挥手、坐到 Mikoshiba 身旁，主动伸手与“我”握手，被介绍为“我的朋友 Inui”",
+      "range": [
+        3647,
+        4927
+      ],
+      "quote_head": "The following weekend, I went to the clubhouse",
+      "quote_anchor": "When I touched the gash, his cries came back to me, and I slumped down on a sofa."
+    },
+    {
+      "n": 6,
+      "who": "Inui（Mikoshiba 从旁接话）",
+      "did": "Inui 从机器人手里接过顶部带北海道软冰淇淋的草莓芭菲，问“我”为什么不说话、是不是出了什么坏事才决定从此不再开口；Mikoshiba 替“我”答“那是因为你从进门就一直讲个不停”、掐走芭菲上的草莓吃掉，机器人清空托盘后眨眼转身；Inui 自白怕沉默——host club 里资历比他老的人总吼他把沉默填满，被讥“你又不是在创作巴洛克音乐”还反问 baroque 是什么、又扮马脸逗 Mikoshiba 笑、被怎么嘲都自得其乐；他说有客人一言不发静坐整整四小时只听他讲；把“K”解释为 okay，Mikoshiba 苦笑，Inui 靠到她身上",
+      "range": [
+        4927,
+        6206
+      ],
+      "quote_head": "“Yuko, why don’t you talk?” Inui, who had",
+      "quote_anchor": "“I’m afraid of silences. The guys who’ve been working at the host club longer than me are always yelling at me to fill any silences.”"
+    },
+    {
+      "n": 7,
+      "who": "Mikoshiba（与邻桌一家三口）",
+      "did": "三名穿黑围裙的员工因顾客都用平板点单而在厨房前闲站；Mikoshiba 嘀咕“真有必要用机器人换掉人吗……像用扫地机器人运餐，倒胃口”，两台来回穿梭的机器人背上贴着“招聘兼职”贴纸，她叹“活在机器人招募人类的时代真荒唐”、又说机器人不用排班不抱怨、店里唯一友好的员工就是那两台机器人；邻桌十来岁的兄妹像牛把脸埋进饲料槽般安静进食（咖喱饭、芝士米饭焗、炖乌冬），父亲每吃一口乌冬眼神就直奔手机，她感叹人类男人无聊——丈夫一肚子自尊却说不 interesting 的话、也不听她讲，还是律师；随后她断言“马最好——很费钱，但你能真正理解马、马也能真正理解你”，向“我”求认同，“我”点头、心想 Strada 是唯一真正懂“我”的",
+      "range": [
+        7157,
+        9309
+      ],
+      "quote_head": "Three employees wearing black aprons were standing",
+      "quote_anchor": "“Horses are the best. They require a lot of money, but you can truly understand them, and they you.”"
+    },
+    {
+      "n": 8,
+      "who": "Mikoshiba（自白 Inui 的身份与供养关系）",
+      "did": "Mikoshiba 突问“我”“Inui 又丑又无趣对吧”，此时 Inui 一手 Coke 一手 rooibos 茶咧嘴走来；她拨弄马蹄铁形耳环自白：Inui 是 host club 男公关、客人不多、由她供养——他初次在 club 坐到她身边时她惊呆、话多又无聊，但渐渐被打动：无论被怎么亏待、哪怕完全被无视，他都毫不动摇地继续说下去；期间一名全黑装束、单肩挎大方形背包的外卖员经 app 叫单进店、直入厨房取走塑料袋餐食、前后约三十秒、与店员零交谈；她说马温柔而聪慧、她爱 Alec 和 Rose，但有时渴望词语——Inui 比马还蠢、连“put out”拉客都不肯，却话多，无论那些词多空洞，他都大量给她",
+      "range": [
+        9309,
+        10809
+      ],
+      "quote_head": "“Inui’s ugly and boring, isn’t he?”",
+      "quote_anchor": "“Horses are great because they’re gentle and intelligent. I love both Alec and Rose. But . . . sometimes, I crave words."
+    },
+    {
+      "n": 9,
+      "who": "Inui 与 Mikoshiba（茶与“一百分”）；随后“我”看见幻影 Strada",
+      "did": "Inui 把 rooibos 茶放到 Mikoshiba 面前，被嫌“这茶太淡”、忙说去重倒一杯，又被讥“你总是差那么一点”“把你的错误加总起来能到一百分”，Inui 欢呼 Woohoo 遭斥；随即“我”耳边再度响起旋律，感觉 Inui 身后有黑色存在、越过他的肩看去——一匹马在那里：Strada 站在两台机器人往来穿行的饮料吧前，湿润的眼睛望着“我”；幻中问答“想喝什么？”“拿铁吧”，Strada 低声嘶鸣如应允",
+      "range": [
+        10809,
+        11752
+      ],
+      "quote_head": "“Junko, here’s your drink,” Inui said as he returned",
+      "quote_anchor": "Strada was standing in front of the drink buffet, where the two robots were coming and going. He was looking at me with moist eyes."
+    },
+    {
+      "n": 10,
+      "who": "“我”与幻中的 Strada",
+      "did": "幻想 Strada 来“我”的公寓同居：在狭小的房间一起睡、半夜醒来见它立在窗边望月、“我”望着它光滑的剪影入睡、清晨在厨房小桌一起吃早餐、“我”为它削苹果、自己吃同样的东西；然后一起出门、“我”骑上它的背——“去哪？”“任何地方。”“那就去海边。”念头刚起 Strada 就迈步走了——“我们”哪儿都能去",
+      "range": [
+        11752,
+        12326
+      ],
+      "quote_head": "If Strada were to come to my apartment",
+      "quote_anchor": "Just a moment before I had the thought, Strada would start walking. We could go anywhere."
+    }
+  ]
+}
