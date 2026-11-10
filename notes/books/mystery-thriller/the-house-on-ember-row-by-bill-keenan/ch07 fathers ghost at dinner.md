@@ -15,7 +15,7 @@ modified: "2026-11-10"
 ## 精读
 > **原句 1:** "It wasn't a home. It was just where I'd ended up." … "I kept my bourbon on the counter, my files on the kitchen table, and my memories in a drawer I didn't open." … "My nose had been broken twice—once by a cop, once by a husband who didn't appreciate my questions—and it sat slightly crooked now, a lasting reminder that the truth doesn't always want to be found."
 **中文理解**：那不是家，只是他落脚的地方；bourbon 放台面、案卷放餐桌、记忆放在一个他从不开的抽屉里。窗中倒影里的鼻梁断过两次——一次被警察、一次被不欢迎他提问的某位丈夫——现在微微歪着，像在提醒他：真相并不总想被人找到。
-**关键词**：not a home / drawer / the truth
+**关键词**：wasn't a home / drawer / the truth
 **为什么这样写**：bourbon—files—memories 三件东西排成一行，职业、瘾与创伤各归各位，drawer I didn't open 把「封存」写成家具；断鼻两记（警察+丈夫）用身体列出提问的代价，the truth doesn't always want to be found 是全书方法论的自白——真相要靠打碎的东西换。
 **读者视角提示**：「不开的抽屉」是 Quinn 心理结构的地图——本案若碰到他的旧伤（母亲、父亲、旧案），钥匙都在这个抽屉里。
 
