@@ -144,4 +144,4 @@ modified: "2026-11-10"
 | familiar | 熟悉的 | The familiar landscape passed by me in the same order it always did. |
 
 ## 一句话总结
-一匹逃出拖车的降级赛马在稻田尽头等她：假笑被导师没收之后，Yuko 用呼吸换来马的信任——心跳同频、坠入深井、被原谅、被合唱吞没；Grande Strada 这个名字揭晓时她才明白，ch01 公路上那不是事故，是这匹马唯一一次为自己做的决定。
+一匹逃出拖车的降级赛马在稻田尽头等她：假笑被导师没收之后，Yuko 用呼吸换来马的信任——心跳同频、坠入深井、被原谅、被合唱吞没；Grande Strada 这个名字揭晓时她才明白，ch01 公路上那不是事故，是这匹马第一次为自己做的决定。
