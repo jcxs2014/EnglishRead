@@ -1,0 +1,96 @@
+{
+  "chapter": "ch20",
+  "source": "notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch20_twenty.txt",
+  "source_len_chars": 3724,
+  "source_note": "纯素读，仅读 text/ch20_twenty.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "我（叙述者）",
+      "did": "冲进 Mugikura Riding Club 马厩（回头看见自己的红色摩托倒在入口中央）；摸进靠墙码放的干草垛找自己藏的皮包没找到，摸到一张撕破的一万日元纸币（torn 10,000-yen bill）",
+      "range": [
+        27,
+        687
+      ],
+      "quote_head": "I rushed into the stable at Mugikura",
+      "quote_anchor": "pulling out clumps of straw with my fists as if weeding a garden, my hand closed around a torn 10,000-yen bill."
+    },
+    {
+      "n": 2,
+      "who": "Strada（马）",
+      "did": "嚼钱——她听见重鼻息与撕裂声，转向马嘴看见一摞纸币（a stack of bills）挂在嘴外；她趴地捡拾混进干草的一万日元纸币，所有纸币都被嚼得破烂",
+      "range": [
+        688,
+        1014
+      ],
+      "quote_head": "At the same time, I heard a",
+      "quote_anchor": "I turned my gaze toward Strada’s mouth to find a stack of bills hanging out of it."
+    },
+    {
+      "n": 3,
+      "who": "Strada",
+      "did": "用嘴叼起原先被蹄踩着的黑色皮包，从敞开的厩门走出去；每走一步就掉下裹着唾液的纸币摞，包中间被嚼出一个大洞（她说“那笔钱是给你的”）",
+      "range": [
+        1049,
+        1388
+      ],
+      "quote_head": "Without answering my question, my horse used",
+      "quote_anchor": "my horse used his mouth to grab the black leather bag that he had been stepping on with his hoof"
+    },
+    {
+      "n": 4,
+      "who": "我 / Strada",
+      "did": "我捡起马一路掉落的纸币走出马厩，喊“Strada!”他不肯停；我抱满湿碎纸币喘着气跟上去，嘴角上扬微笑；顿悟：他全懂——我们不需要钱，只需要在一起",
+      "range": [
+        1391,
+        1940
+      ],
+      "quote_head": "As I left the stable, picking up",
+      "quote_anchor": "As I shuffled after him, out of breath, my arms full of wet and shredded bills, the corners of my mouth began to rise."
+    },
+    {
+      "n": 5,
+      "who": "Strada / 我",
+      "did": "我从身后伸手去抓 Strada 的缰绳（“一起逃吧”）；瞬间像被汽车撞上一样被弹飞——Strada 眼珠上翻、用后腿踢了我，一捧一万日元纸币飞散空中；天旋地转，我仰面摔在泥地上",
+      "range": [
+        2055,
+        2566
+      ],
+      "quote_head": "Emboldened, I extended my hands toward Strada’s",
+      "quote_anchor": "Strada, with his eyes rolled back in his head, had kicked me with his hind legs."
+    },
+    {
+      "n": 6,
+      "who": "我",
+      "did": "小心摸自己的鼻子确认伤势：满手血黏、鼻梁断、扭向左侧",
+      "range": [
+        3207,
+        3308
+      ],
+      "quote_head": "Cautiously, I touched my nose. It was",
+      "quote_anchor": "It was slimy with blood and certainly broken, twisted toward the left."
+    },
+    {
+      "n": 7,
+      "who": "Strada / 我",
+      "did": "Strada 若无其事地看向我这边；我顾不上止鼻血回望他，他没有移开视线；我细看那双乌黑如弹珠的眼睛——里面没有我（眼中无她）",
+      "range": [
+        3311,
+        3593
+      ],
+      "quote_head": "Strada looked my way nonchalantly, as if",
+      "quote_anchor": "I looked hard to see if I appeared in them, but I didn’t."
+    },
+    {
+      "n": 8,
+      "who": "Strada 与我（警笛红光下）",
+      "did": "警笛越来越近，红光轮流照亮他的眼与我的眼；站在那里的只是一匹马，别无其他（终句）",
+      "range": [
+        3596,
+        3723
+      ],
+      "quote_head": "The sirens grew closer, and the red",
+      "quote_anchor": "The sirens grew closer, and the red lights lit up his eyes and mine in turn."
+    }
+  ]
+}
