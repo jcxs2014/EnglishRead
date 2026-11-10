@@ -30,7 +30,7 @@ modified: "2026-11-10"
 
 > **原句 3:** "‘I was trying to stop you embarrassing Lizzie,’ she hissed, smiling sweetly at one of the mothers who passed. ‘Now, eat something and relax. Try and remember that you only see the disasters in A and E."
 
-**中文理解**：Bryony 咬着牙低声说：我是在拦着你别让 Lizzie 难堪——接着换上甜笑应付路过的家长，回头再劝他：吃点东西放松点，急诊只让你见过事故，没让你见过人人尽兴的正常篝火派对。
+**中文理解**：Bryony 咬着牙低声说：我是在拦着你别让 Lizzie 难堪——接着换上甜笑应付路过的家长，回头再劝他：吃点东西放松点，记住急诊里你只见事故。
 **关键词**：embarrassing Lizzie / hissed / disasters in A and E
 **为什么这样写**：一句话里三副表情（hissed、sweet smile、劝解）——她在社交场上替他打掩护的熟练，写尽多年默契；「只见过事故」是本段论点句。
 **读者视角提示**：记住这句「你没见过正常」——火场真来时，读者会看到他从没把「正常」当侥幸的职业底色。
@@ -93,7 +93,7 @@ modified: "2026-11-10"
 
 > **原句 12:** "‘I’m not going,’ Jack said immediately, sounding rock-solid, dependable and altogether too male for Bryony’s piece of mind. ‘Tonight I’m sleeping in your spare room.’"
 
-**中文理解**：Lizzie 请求他别走，Jack 立刻应下：今晚我睡你家客房——语气稳得像块石头，可靠得让 Bryony 心神不宁。
+**中文理解**：他不假思索地应下：我不走——今晚我睡你家客房——语气稳得像块石头，可靠得让 Bryony 心神不宁。
 **关键词**：not going / rock-solid / spare room
 **为什么这样写**：「immediately」先于一切考量——他的答案永远向这个家倾斜；叙述插评「too male for Bryony’s piece of mind」把她的动摇写成生理性不适。
 **读者视角提示**：留宿是她没开口就得到的答案——对照白天他所有被她拒绝的越界，今晚的越界由孩子代言。
