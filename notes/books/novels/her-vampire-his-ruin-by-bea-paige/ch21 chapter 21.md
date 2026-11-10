@@ -28,7 +28,7 @@ modified: "2026-11-09"
 
 **中文理解**：他解释了数周的去向：那晚 Sybil 越界，他让她彻底明白那种行为不可容忍；她最后让步不是情愿，是别无选择。
 
-**关键词**：caught up with Sybil / took longer than necessary
+**关键词**：caught up with Sybil / that took weeks
 
 **为什么这样写**：作者把「为什么消失三周」这个渣男标准问题答成了权力汇报：不是另有女人，是去管教另一个女人。这既是自我辩解，也是自曝——他的时间花在驯服她身边的人上。
 
