@@ -115,7 +115,7 @@ modified: "2026-11-10"
 > **原句 15:** "It seemed harmless enough, generous even, so why did she have such a strong feeling that something wasn’t quite right?"
 
 **中文理解**：一切看起来无害、甚至慷慨——可她心里就是有个强烈的声音：有什么地方不太对劲。
-**关键词**：harmless / generous / not quite right
+**关键词**：harmless / generous / wasn’t quite right
 **为什么这样写**：章尾用一个反问收线，把悬念交给直觉而非证据——读者比她多知道 Tom 的点破和 Jack 的沉默，不安感在此完成交棒。
 **读者视角提示**：她的直觉没有错——至于「不对劲」到底是什么，作者暂时不给答案。
 

@@ -8,7 +8,7 @@ modified: "2026-11-10"
 ## 本章导航
 - **一句话概括**：圣诞清晨，Lizzie 在圣诞树下找到「礼物」Jack——伴娘裙、钻戒与「Bryony Hunter……Will you marry me?」；他说「I did it for me. And for you.」「Home for me is where you are」，愿望线闭环于 Lizzie 的下一封信：一个 baby sister。
 - **情感弧线位置**：终章兑付：恐惧的根（父母的婚姻）被亲手拔除——告白完成、双向同频，「家=你在的地方」为全书命题定案。
-- **Tropes 兑现/反转**：「圣诞愿望成真」终极兑现（他躺在树下当礼物）；「for real, not playing Weddings」；伴娘裙=婚礼预告的实物化；「下一封信」续写钩子。
+- **Tropes 兑现/反转**：「圣诞愿望成真」终极兑现（他躺在树下当礼物）；「not playing Weddings」→「for real」；伴娘裙=婚礼预告的实物化；「下一封信」续写钩子。
 - **人物弧线**：Jack 从「我不做永远」走到「For ever」——独坐空屋的那夜完成自我审判；Bryony 从祈求者变成被选择者；Lizzie 愿望清单 2.0 开启。
 - **叙事手法**：场景单向推进（卧室—楼梯—树下—客厅）；「信—礼物—信」环形结构；孩子的视角贯穿首尾，愿望由她说出、由她验收。
 
