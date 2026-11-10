@@ -21,7 +21,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：作者让「时间修复」的诱惑以 hypothetical 形式出现——她有能力（开门）、有动机（愧疚）、有入口（满墙镜子），唯独没有权利（改变历史）。「认不出哪面是哪面」的设定恰好拦住了她：连救赎都找不到门牌号。
 
-**读者视角提示**：记住这个「想救却无从下手」的瞬间——它与结尾章的真正解法形成对照；52 面镜子在这一夜从纪念碑变回岔路群，每面都通向一个「如果」。
+**读者视角提示**：记住这个「想救却无从下手」的瞬间——它与结尾章的真正解法形成对照；40 面镜子在这一夜从纪念碑变回岔路群，每面都通向一个「如果」。
 
 > **原句 2:** "Because no matter how I tried to convince myself it was a schoolboy infatuation, I couldn't. You're too hard to shake."
 
@@ -31,7 +31,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：作者让最浪漫的告白用最不浪漫的词完成——infatuation（迷恋）本该是可戒断的，shake（摆脱）本该是能做到的，两个词的失败宣告了这段感情的定性：不是幻想，是成瘾。楼梯上的坐姿（背对她）是他交底时的防御。
 
-**读者视角提示**：把「drug」的比喻对上——Clara 上一章想他时用的是「he's a drug I need」；两个人用同一种成瘾语法描述对方，这场对等的爱终于在比喻层面闭环。
+**读者视角提示**：把「drug」的比喻对上——Clara 在本章镜廊独白里想他时用的正是「he's a drug I need」；两个人用同一种成瘾语法描述对方，这场对等的爱终于在比喻层面闭环。
 
 > **原句 3:** Waking up next to him in a French chateau. Spending a night on the town with him and kissing in his car outside the house when we return. Dancing in the drawing room to the sound of his father's violin playing. Watching as he teaches those same moves to his daughters, their dainty feet standing on his.
 

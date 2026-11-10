@@ -49,7 +49,7 @@ modified: "2026-11-10"
 
 **关键词**：I offer myself to you again / never inconstant / I have loved none but you
 
-**为什么这样写**：作者用互文完成最贵的抒情——《劝导》的正题就是「错过的恋人多年后重逢」，与 Clara/Quint 的处境逐句对位（八年半 vs 十年、从未变心 vs 五十二面镜子）。她读出声「to hear them」，是想听谁的声音，不言自明。
+**为什么这样写**：作者用互文完成最贵的抒情——《劝导》的正题就是「错过的恋人多年后重逢」，与 Clara/Quint 的处境逐句对位（八年半 vs 十年、从未变心 vs 四十面镜子）。她读出声「to hear them」，是想听谁的声音，不言自明。
 
 **读者视角提示**：记住「never inconstant」——这是 Clara 对自己感情的仲裁词：她不够公平、不够坚强，但没有变心；后面她面对 Ben 与 Quint 的最终选择时，这句引文就是她的良心判例。
 

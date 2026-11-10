@@ -15,7 +15,7 @@ modified: "2026-11-10"
 ## 精读
 > **原句 1:** One of the first things we had Gibbons do was travel back a few years and make some strategic investments. The costs of the technology and other things we need to make this work are astronomical.
 
-**中文理解**：Burke 顺口交代任务组的资金来源：他们最早派 Gibbons 做的事，就是穿越回去做几笔「战略性投资」——这项事业的技术开销是天文数字。Ben 上一章讽刺过的「授权穿越牟利」，在这里被官方自己坐实。
+**中文理解**：Burke 顺口交代任务组的资金来源：他们最早派 Gibbons 做的事，就是穿越回去做几笔「战略性投资」——这项事业的技术开销是天文数字。Ben 开篇刚讽刺过的「授权穿越牟利」（An authorized trip to make someone money … that’s interesting），在这里被官方自己坐实。
 
 **关键词**：strategic investments / astronomical / Gibbons
 

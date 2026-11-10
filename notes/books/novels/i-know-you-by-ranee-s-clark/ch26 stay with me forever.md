@@ -73,7 +73,7 @@ modified: "2026-11-10"
 
 **为什么这样写**：作者让 Ben 的「好人证书」以财务形式颁发——他不抢回、不报复、不纠缠，而是把她需要的一切（身份、金钱）在她留下之前备齐；「dowry」这个词的旧时代色彩被他反用：不是父亲嫁女，是朋友护她周全。
 
-**读者视角提示**：把「He knew all along」与 ch12 的 William 坦白对读——Ben 早就确认她属于过去（能量、记忆、出生证），却一直等她自己选；这份等待与 Quint 的五十二面镜子同价。
+**读者视角提示**：把「He knew all along」与 ch12 的 William 坦白对读——Ben 早就确认她属于过去（能量、记忆、出生证），却一直等她自己选；这份等待与 Quint 的四十面镜子同价。
 
 > **原句 7:** "So did I. From the moment you kissed me on the edge of the lake at The Villa."
 >

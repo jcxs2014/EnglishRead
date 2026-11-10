@@ -49,7 +49,7 @@ modified: "2026-11-10"
 
 **关键词**：four mirrors a year / One every season / internet archive
 
-**为什么这样写**：作者把十年的等待换算成可数的物件——52 面镜子，每面都是一次重启的希望；「一季一面」的节律让等待有了日历感。Clara 的生理反应（swells and lodges in my throat）替代任何心理描写：她此刻才真正量出自己被爱的重量。
+**为什么这样写**：作者把十年的等待换算成可数的物件——40 面镜子，每面都是一次重启的希望；「一季一面」的节律让等待有了日历感。Clara 的生理反应（swells and lodges in my throat）替代任何心理描写：她此刻才真正量出自己被爱的重量。
 
 **读者视角提示**：这个事实同时是丑闻与情书——从社会角度看是囤积古董的怪癖，从爱情角度看是一座等待的纪念碑；Gibbons 正是利用这座「仓库」穿越的， Quent 的深情成了敌人的基础设施。
 
@@ -59,7 +59,7 @@ modified: "2026-11-10"
 
 **关键词**：much larger than I've led myself to believe / He believed I'd come back / cover my mouth
 
-**为什么这样写**：作者让真相以「体积」的形式出现——她管理哀伤的方式一直是把爱的尺寸往小说（tucked him into the back of my heart），52 面镜子把尺寸修正回来。「捂嘴」这个动作是身体先于语言的诚实。
+**为什么这样写**：作者让真相以「体积」的形式出现——她管理哀伤的方式一直是把爱的尺寸往小说（tucked him into the back of my heart），40 面镜子把尺寸修正回来。「捂嘴」这个动作是身体先于语言的诚实。
 
 **读者视角提示**：这是 Clara 自我认知的转折点——从这一拍起，「我对 Ben 的感情」与「我对 Quint 的感情」不再是主次关系，而是两笔都无法撤销的债；她的挣扎从此有了明确的对象。
 
@@ -140,4 +140,4 @@ modified: "2026-11-10"
 | jet-black | 漆黑的 | jet-black hair styled in sleek victory rolls |
 
 ## 一句话总结
-一枚 1920s 的戒指、一座五十二面镜子的仓库、一位楼梯上的十年版 Quint 和他名字都还没改口的未婚妻——1938 的 Allen 宅把 Clara 的三笔感情账一次性摊开；她的白天属于任务与 Ben，她的夜晚，从这一章起重新归 Quint。
+一枚 1920s 的戒指、一座四十面镜子的仓库、一位楼梯上的十年版 Quint 和他名字都还没改口的未婚妻——1938 的 Allen 宅把 Clara 的三笔感情账一次性摊开；她的白天属于任务与 Ben，她的夜晚，从这一章起重新归 Quint。
