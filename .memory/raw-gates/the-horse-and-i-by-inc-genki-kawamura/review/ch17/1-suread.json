@@ -1,0 +1,118 @@
+{
+  "chapter": "ch17",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-horse-and-i-by-inc-genki-kawamura/text/ch17_seventeen.txt",
+  "source_len_chars": 10903,
+  "source_note": "纯素读，仅读 text/ch17_seventeen.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Strada（被拖车送回）／Yuko（近看倒吸气）",
+      "did": "印着 Mugikura Riding Club 红字的拖车停在马房前；车厢门打开，Strada 下坡道。阳光照到它身上时 Yuko 倒吸一口气：它有力的颈部已消瘦，毛色失去光泽，胸部肌肉大量流失，两侧肋骨清晰可见",
+      "range": [
+        399,
+        629
+      ],
+      "quote_head": "When the sun shone on Strada’s",
+      "quote_anchor": "His powerful neck had wasted away, and the glossiness of his coat was gone."
+    },
+    {
+      "n": 2,
+      "who": "Mugikura（摸着瘦马宣布判伤）／Strada／Yuko（旁听）",
+      "did": "Mugikura 宣布：Strada 右前腿韧带（ligaments）很糟，跳跃出局；手术或许有用，但要『几百万日元（several million yen），可能更多』；还说它本就敏感，事故后留下心理创伤，腿好了也不知道还能不能跑。Strada 进了马厩就垂下脖子一动不动，尾夹在两腿之间",
+      "range": [
+        1685,
+        1857
+      ],
+      "quote_head": "“The ligaments in his right foreleg",
+      "quote_anchor": "Surgery might help . . . but we’re talking several million yen, probably more."
+    },
+    {
+      "n": 3,
+      "who": "Yuko 对 Strada／Strada 躲避 Yuko（马不认她）",
+      "did": "Yuko 进马厩蹲下，从背包拿出 Tupperware，把在家削好的苹果递到它口鼻边；Strada 叼住咀嚼但碎块从嘴角掉出；它摇头躲避，黑眼睛不转向她；Yuko 颤抖着把手指伸向它口鼻，黑马不让她碰",
+      "range": [
+        2380,
+        2848
+      ],
+      "quote_head": "He shook his head as if",
+      "quote_anchor": "I persistently stuck out my trembling fingers toward the tip of his muzzle, but the black horse didn’t let me touch him."
+    },
+    {
+      "n": 4,
+      "who": "Shintani 对 Yuko 演讲／贬低 Strada 与 Yuko 的联结",
+      "did": "Yuko 先扇了 Shintani 耳光，Shintani 深呼吸后反以 Clever Hans 演讲回击：1900 年前后德国一匹会算数、识字、懂旋律的名马，学界调查后并无戏法——马并非懂语言，而是擅长识别人类肢体语言；随后断言『Strada 跑向你是因为被训练过』『你在鞭子落下前转向是因为它熟悉训练场』，劝 Yuko 换马冲击冠军。Yuko 用 Strada 的旋律（Doo dah da）唱歌压过他的声音",
+      "range": [
+        3768,
+        5127
+      ],
+      "quote_head": "“Clever Hans was a horse who",
+      "quote_anchor": "In other words . . . the horse didn’t understand language, per se, but was skilled at detecting human body language."
+    },
+    {
+      "n": 5,
+      "who": "Yuko 对 Shintani（扇耳光）",
+      "did": "Shintani 当着 Strada 说『换下一匹马去争冠军』，Strada 虚弱地嘶鸣回应；Yuko 不由分说扇了 Shintani 一记耳光，干燥的响声回荡在安静的马房；越愤怒嘴角越上扬，Shintani 怔住后瞪大眼，随即配合她的表情微笑说『没事，马听不懂人话』",
+      "range": [
+        3097,
+        3190
+      ],
+      "quote_head": "Without warning, I slapped Shintani’s cheek.",
+      "quote_anchor": "Without warning, I slapped Shintani’s cheek. A dry sound echoed throughout the silent stable."
+    },
+    {
+      "n": 6,
+      "who": "Yuko 对 Shintani（扑抓撕脸）",
+      "did": "Shintani 骂『马是经济动物不是宠物』、讥讽她花钱买不来马的注意力后，Yuko 尖叫着扑上 Shintani，指甲掐进他苍白的脸；他惨叫着后退几步摔进干草堆，脸颊渗出一串血珠",
+      "range": [
+        6087,
+        6276
+      ],
+      "quote_head": "I screamed and jumped on Shintani,",
+      "quote_anchor": "I screamed and jumped on Shintani, digging my nails into his pallid face."
+    },
+    {
+      "n": 7,
+      "who": "Strada 护 Yuko／Mugikura 制住 Yuko／群马声援",
+      "did": "Mugikura 喊『住手』冲上来制住 Yuko；此刻 Strada 发出高音嘶鸣，挡在 Yuko 身前像是要保护她；马房里其余的马一匹接一匹跟着嘶叫、身体撞踢栏板",
+      "range": [
+        6295,
+        6544
+      ],
+      "quote_head": "Mugikura rushed to restrain me. At",
+      "quote_anchor": "Strada neighed in a high-pitched tone, and stood in front of me as if to protect me."
+    },
+    {
+      "n": 8,
+      "who": "Shintani 中伤（Strada 追母马）／Yuko 对 Shintani（连拳）",
+      "did": "被骑在身下的 Shintani 仍笑着放出毒刺：『你不在的时候……它一直在追母马（running after mares）』；Yuko 喊闭嘴，对不反抗的 Shintani 连打两三拳（twice, three times），打破他的嘴唇，血腥味混着牲口味，嘴里泛起熟悉的铁锈味；Strada 狂乱嘶鸣、狠狠刨蹄踏地",
+      "range": [
+        6655,
+        7090
+      ],
+      "quote_head": "He lifted the corners of his",
+      "quote_anchor": "I punched an unresisting Shintani twice, three times. I cut his lip, which also began to bleed."
+    },
+    {
+      "n": 9,
+      "who": "Yuko（盗空保险柜）",
+      "did": "深夜船厂，Yuko 唱着旋律走向半建成的集装箱船旁的 prefab 办公室，笃信手术能让 Strada 再跑再跳、多少钱都无所谓；她抱住保险柜拧转盘：0 向右、9 向左、2 向右、3 向左，打开重门，把手伸向堆在里面的成捆纸币，抓到什么扔什么胡乱塞进包，转眼钱全部拿空；保险柜深处的黑与 Strada 的眼睛一样漆黑，盯着那片黑她觉得自己被原谅了",
+      "range": [
+        7963,
+        8520
+      ],
+      "quote_head": "I clung to the safe and",
+      "quote_anchor": "The darkness deep inside the safe was the same jet black as Strada’s eyes."
+    },
+    {
+      "n": 10,
+      "who": "Miu 撞破并抢包／Yuko 视频反杀并夺包逃走",
+      "did": "满身酒气、衣衫不整的 Miu 半夜撞见 Yuko，盯上她鼓胀的包伸手来摸；Yuko 尖叫打掉她的手，Miu 变脸喊『你这个小偷』并用力拉扯，一、两摞纸币（One, two stacks of bills）掉出，Miu 尖声连喊 thief；两人争夺中手机滑落到柏油路面，Yuko 抱包蹲下捡起手机，颤抖着按下视频播放键把屏幕转向 Miu——屏幕里肉色物体蠕动、动物般的尖叫回荡船厂；Miu 瞪大眼『这是什么』，腿一软瘫坐在地；Yuko 掰开 Miu 抓着包带的手，夺包逃走",
+      "range": [
+        9043,
+        10902
+      ],
+      "quote_head": "“Hey, is that you, Yuko?” Suddenly",
+      "quote_anchor": "With shaking hands, I pressed play on a video, and showed the screen to Miu."
+    }
+  ]
+}
