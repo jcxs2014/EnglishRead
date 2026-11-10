@@ -21,7 +21,7 @@ modified: "2026-11-10"
 **为什么这样写**：「The lady… the lady…」的对仗把决定权完整让渡给七岁的孩子——这不是买棵树，是当众站队；蹲下来的动作让宣言落在平视的高度，父女同盟不用一个「爱」字就立住了。
 **读者视角提示**：对照本章后段「我做不成你的爸爸」——他拒的是名分，「女士说什么都行」的角色他早就演上了。
 
-> **原句 3:** "‘Well, now I wish I’d asked him to make you my daddy,’ Lizzie said wistfully. ‘I love you, Jack. No one plays Weddings like you do.’"
+> **原句 2:** "‘Well, now I wish I’d asked him to make you my daddy,’ Lizzie said wistfully. ‘I love you, Jack. No one plays Weddings like you do.’"
 
 **中文理解**：Lizzie 怅然地对 Jack 说：早知道当初许愿让圣诞老人把你变成我的爸爸——我爱你，Jack，没人玩 Weddings 玩得比你好。
 **关键词**：wistfully / make you my daddy / No one plays Weddings
