@@ -82,7 +82,7 @@ modified: "2026-11-10"
 **中文理解**：「可惜他不会。」Bryony 怅然地把咖啡放到一边——只要 Jack 真想把她弄上床，她一秒钟就到。
 **关键词**：More’s the pity / wistfully / like a flash
 **为什么这样写**：「More’s the pity」是她对「他不想」的一声轻叹，紧接「like a flash」的自我坦白狠辣直白——两层心理距离一步跨完，无路可退。
-**读者视角提示**：她嘴上刚把 Jack 驳得体无完肤，心里已经缴械——表里反差是本章人物戏的戏眼。Careful — typo risk, fix: 表里反差是本章人物戏的戏眼。
+**读者视角提示**：她嘴上刚把 Jack 驳得体无完肤，心里已经缴械——表里反差是本章人物戏的戏眼。
 
 > **原句 11:** "There was a long silence and streaks of colour touched his hard cheekbones. ‘Maybe I have,’ he said shortly, putting his half-full mug on the table and rising to his feet in a fluid movement. ‘I’d better get home.’"
 

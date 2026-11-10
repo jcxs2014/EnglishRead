@@ -42,84 +42,77 @@ modified: "2026-11-10"
 **为什么这样写**：别人的爱情史被三笔勾完——「当初她不肯放，如今他不肯放」的对仗里藏着全书的爱情公式：先松口的人最后陷得深。
 **读者视角提示**：这面镜子照着两个在场的人——一个追了二十二年，一个逃了二十二年；结局的对调早已写好。
 
-> **原句 5:** "‘Precisely.’ Jack gave her a wicked smile, his voice a lazy, masculine drawl. ‘As I said—you look great.’"
-
-**中文理解**：她说自己像刚睡醒，他坏笑着拖长调子：正是如此——我说了，你好看得很。
-**关键词**：wicked smile / drawl / you look great
-**为什么这样写**：夸人夸在对方最没防备的地方（乱发）——审美的翻转暗示他的目光已经换了焦距；「precisely」把调情说得像背书。
-**读者视角提示**：这是吻之后他头一次公开的言语进攻——试探期开始了，每次进半步，等她先动。
-
-> **原句 6:** "Something felt different about their relationship, but she wasn’t sure what. He hadn’t laid a finger on her since that one incredible kiss, but something was different. He looked at her differently."
+> **原句 5:** "Something felt different about their relationship, but she wasn’t sure what. He hadn’t laid a finger on her since that one incredible kiss, but something was different. He looked at her differently."
 
 **中文理解**：她察觉两人的关系有什么变了，又说不上来——那个惊人的吻之后他再没碰过她，可有什么就是不一样了。他看她的眼神不一样了。
 **关键词**：different / hadn’t laid a finger / looked at her differently
 **为什么这样写**：三个「different」层层递进——从关系、到行为、到眼神，谜底被推到「看」这个最诚实的器官上；克制比接触更响。
 **读者视角提示**：他「不动手」不是退回朋友，是怕一碰就收不住——读者在此应该已经读懂他的自控。
 
-> **原句 7:** "But there wasn’t an armchair. Just an enormous bed draped in fur and satin, a small dressing room and a huge, marble bathroom."
+> **原句 6:** "But there wasn’t an armchair. Just an enormous bed draped in fur and satin, a small dressing room and a huge, marble bathroom."
 
 **中文理解**：可房间里根本没有扶手椅——只有一张铺着皮毛与缎子的巨床、一间小更衣室和一间大理石浴室。
 **关键词**：armchair / enormous bed / fur and satin
 **为什么这样写**：用「缺席的椅子」制造困境——他每晚留宿的「沙发方案」在这里失效；床的尺寸与材质全是感官铺垫。
 **读者视角提示**：喜剧装置就位：全书最会划界限的男人，今晚无处可退——作者用家具完成了逼供。
 
-> **原句 8:** "Jack took one look at her face and lifted an eyebrow in question. ‘We’ve known each other for twenty-two years, for goodness’ sake. Don’t you trust me, Blondie?’"
+> **原句 7:** "Jack took one look at her face and lifted an eyebrow in question. ‘We’ve known each other for twenty-two years, for goodness’ sake. Don’t you trust me, Blondie?’"
 
 **中文理解**：他一看她的脸色就挑起眉：我们都认识二十二年了，拜托——你还不信我吗，Blondie？
 **关键词**：twenty-two years / trust / Blondie
 **为什么这样写**：用「年头」当信用抵押——他把她犹豫的原因错认成不信任，这份误读正是他的盲区；「Blondie」此刻成了安全牌。
 **读者视角提示**：她信的恰恰是他，不信的是自己——这道错位是本章所有张力的引擎。
 
-> **原句 9:** "Bryony looked at the bed and swallowed. She trusted him. It was herself she didn’t trust. But she could hardly protest without revealing what she felt for him."
+> **原句 8:** "Bryony looked at the bed and swallowed. She trusted him. It was herself she didn’t trust. But she could hardly protest without revealing what she felt for him."
 
 **中文理解**：Bryony 望着床咽了口口水。她信他——不信的是她自己。可她没法反对，一反对就等于招供自己的心思。
 **关键词**：swallowed / herself she didn’t trust / revealing
 **为什么这样写**：一句之内完成「信任的转移」——对象从人变成欲望；「protest 即表白」的困局让她只能上床，喜剧逻辑严密。
 **读者视角提示**：她的自我认知从「他不看我」升级到「我怕我看他」——被动的等待到此结束。
 
-> **原句 10:** "His mouth was warm against hers, his kiss maddeningly seductive. ‘But I like making mistakes. It’s the only thing that prevents me from being completely perfect.’"
+> **原句 9:** "His mouth was warm against hers, his kiss maddeningly seductive. ‘But I like making mistakes. It’s the only thing that prevents me from being completely perfect.’"
 
 **中文理解**：黑暗里她说「这是个错误」，他一边吻着她一边回答：可能吧——但我喜欢犯错，这是我还没完美到无可救药的原因。
 **关键词**：Probably / making mistakes / completely perfect
 **为什么这样写**：接她的「错误」论调反手一个骄傲宣言——把越界重新定义为优点；「probably」承认失控，玩笑话里全是认真的大门。
 **读者视角提示**：他所有「拒绝命名」的防御，在此被自己的一句俏皮话豁开——自嘲是他唯一的坦白方式。
 
-> **原句 11:** "‘Stop talking.’ He brought his mouth down on hers and kissed her again and suddenly she was kissing him back. And it felt like all her dreams because darkness was where she always dreamed about Jack, and when she dreamed, this was always what he was doing."
+> **原句 10:** "‘Stop talking.’ He brought his mouth down on hers and kissed her again and suddenly she was kissing him back. And it felt like all her dreams because darkness was where she always dreamed about Jack, and when she dreamed, this was always what he was doing."
 
 **中文理解**：他说「别说话」——再度吻下来，而她忽然回吻了他。这感觉像她所有梦的总和：黑暗正是她梦到 Jack 的地方，而梦里他做的，从来就是这件事。
 **关键词**：Stop talking / kissing him back / dreams
 **为什么这样写**：把现实与多年的梦境缝合——「黑暗」成了两个时空的接缝，她不是在「第一次」而是在「无数次之后终于成真」；回吻是她交出的主动权。
 **读者视角提示**：他的「别说话」拦住的是语言不是心——这一刻两人都不再需要台词。
 
-> **原句 12:** "‘I want to look at you because you’re beautiful, Blondie, do you know that?’ His voice was hoarse and he dragged the covers back, his eyes sliding down her body with male appreciation."
+> **原句 11:** "‘I want to look at you because you’re beautiful, Blondie, do you know that?’ His voice was hoarse and he dragged the covers back, his eyes sliding down her body with male appreciation."
 
 **中文理解**：他要开灯看她：我想看看你，因为你很美，Blondie，你知道吗？——他嗓音沙哑，掀开被子，目光带着毫不掩饰的欣赏缓缓下行。
 **关键词**：look at you / beautiful / dragged the covers back
 **为什么这样写**：「看」被赋予仪式感——此前多年她是他「看不见」的人；此刻开灯即表态，比任何情话都重。
 **读者视角提示**：还记得她抱怨过「他从不注意我」吗——这个开关就是给那句话的迟来回应。
 
-> **原句 13:** "‘Do you want me to stop?’ His voice was husky with unfulfilled desire and her own breathing jerked in response to this blatant evidence of masculine arousal."
+> **原句 12:** "‘Do you want me to stop?’ His voice was husky with unfulfilled desire and her own breathing jerked in response to this blatant evidence of masculine arousal."
 
 **中文理解**：他哑着嗓子问：你想让我停下吗？——那份欲求未满的沙哑本身就是答案的一半，她的呼吸应声乱了。
 **关键词**：Do you want me to stop / husky / unfulfilled desire
 **为什么这样写**：把选择权交回她手里——全书「先斩后奏」的男人在最重要的一刻问了；提问即克制，克制即尊重。
 **读者视角提示**：这是他「保护欲」的成人形态——本章前面发誓保住别人的孩子，此处亲手把「同意」还给她。
 
-> **原句 14:** "‘No.’ Her hand slid down the warm, smooth skin of his back. ‘Don’t stop.’"
+> **原句 13:** "‘No.’ Her hand slid down the warm, smooth skin of his back. ‘Don’t stop.’"
 
 **中文理解**：她的手滑过他温热光滑的背：不——别停。
 **关键词**：No / Don’t stop
 **为什么这样写**：两个词两次否定与祈使的咬合——「不」回答的是问题，「别停」给出的是指令；她的主动全在这五个词里。
 **读者视角提示**：全书的「等待方」在此刻说完最后一句话——从这五个词起，两人再无先后之分。
 
-> **原句 15:** "It was the first time she could ever remember him calling her by her name and she stared into his eyes, overwhelmed by emotion and sensation, every part of her body feeling every part of his."
+> **原句 14:** "It was the first time she could ever remember him calling her by her name and she stared into his eyes, overwhelmed by emotion and sensation, every part of her body feeling every part of his."
 
 **中文理解**：她记得清清楚楚：这是他头一回叫她的名字——Bryony。她凝望他的眼睛，情绪与知觉同时漫过头顶，身体的每一寸都贴着他的每一寸。
 **关键词**：first time / calling her by her name / stared into his eyes
 **为什么这样写**：用「名字」作定情信物——二十二年只有绰号的人，此刻用真名完成认领；「first time」由她来记，说明她连这件事都数过。
 **读者视角提示**：名字先于「爱」字出现——告白没说，认领已完成；下一章他会怎么称呼她，值得盯着看。
 
-> **原句 16:** "She’d seen it in his eyes when he’d stared down at her. And she’d felt it in the way he’d made love to her."
+> **原句 15:** "She’d seen it in his eyes when he’d stared down at her. And she’d felt it in the way he’d made love to her."
 
 **中文理解**：她笃定了：他在她的眼里看见了爱，也在他爱她的方式里感受到了爱。
 **关键词**：seen it in his eyes / felt it / made love

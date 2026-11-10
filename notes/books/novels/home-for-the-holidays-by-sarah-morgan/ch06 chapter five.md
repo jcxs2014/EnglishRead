@@ -103,7 +103,7 @@ modified: "2026-11-10"
 **中文理解**：那感觉像魔法——一个人怎能把另一个人变成另一个人，除非真是魔法？她抖着、颤着，被浓烈的兴奋吞没，不知道将去向哪里、会如何收场。
 **关键词**：magic / trembling / overwhelmed
 **为什么这样写**：设问句把感受抬到「不可解释」的高度——技巧可以模仿，魔法不能；「trembling and shivering」双写颤抖，身体先于认知投降。
-**读者视角提示**：「magic」是本章给这段感情的定义词——与「教学」「证明」形成两套话语的对撞。fix: 本 person 章 → 本章
+**读者视角提示**：「magic」是本章给这段感情的定义词——与「教学」「证明」形成两套话语的对撞。
 
 > **原句 14:** "His eyes dropped to her parted lips, still swollen and damp from the ruthless demands of his mouth and then dropped further still to the outline of her breasts which pushed boldly against her dress. He dragged his gaze away and stared into the darkness. ‘That’s what would have happened if you’d invited David Armstrong back for coffee.’"
 
