@@ -13,13 +13,13 @@ modified: "2026-11-11"
 - **叙事手法**：法庭戏用程序节奏推进（宣读—辩论—裁决）；数字呼应做悬念的闭合（25 万×2）；末句以湿手掌写惊觉。
 
 ## 精读
-> **原句 2:** "But this was different. This time, I wasn't the one writing the story." … "I was the story."
+> **原句 1:** "But this was different. This time, I wasn't the one writing the story." … "I was the story."
 **中文理解**：但这次不同——这一次，写故事的人不是他；他自己就是故事。
 **关键词**：wasn't the one / writing the story / I was the story
 **为什么这样写**：两句各占一行，把记者生涯的所有积累瞬间清零——观察者的特权（安全、距离、 pencils moving）原样反噬到他身上；story 一词在本书的语汇链（ch10 收藏「短语」、ch13 的 story 不配被记）里此刻完成最讽刺的一环。
 **读者视角提示**：记住这个身份倒置——下半场他将以「当事人＋记者」的双重视角办案，这既是劣势也是全书独有的武器。
 
-> **原句 3:** ""Furthermore, we believe Mr. Whitaker to be a flight risk. He has no immediate family outside of his sister, and no permanent ties that would prevent him from fleeing the jurisdiction.""
+> **原句 2:** ""Furthermore, we believe Mr. Whitaker to be a flight risk. He has no immediate family outside of his sister, and no permanent ties that would prevent him from fleeing the jurisdiction.""
 **中文理解**：检方进一步主张：Whitaker 有逃逸风险——除妹妹外没有直系亲属，没有任何足以让他留在辖区内的永久牵绊。
 **关键词**：flight risk / no permanent ties / jurisdiction
 **为什么这样写**：把「孤身」写成风险证据——一个人少的社会关系在制度眼里是逃跑的资本；no permanent ties 与本书的情感线（兄妹、Gordon、圈子）惨烈对表：制度看不见他真正被什么拴住。
@@ -31,7 +31,7 @@ modified: "2026-11-11"
 **为什么这样写**：辩方把职业转换为品格证词——「查真相的人不跑」；这与 ch04 起他的职业身份完成闭环，也预告本案未来的走向：他终会用记者的方法自证。
 **读者视角提示**：把这句当作下半场的旗——保释后的他会做的每件事，都是这句辩护词的行动版。
 
-> **原句 5:** ""Bail is set at two hundred fifty thousand dollars," he announced." … "More money than I had ever seen in my life. More money than I could ever come up with." … "Unless—my palms went sweaty—I had already been handed it."
+> **原句 4:** ""Bail is set at two hundred fifty thousand dollars," he announced." … "More money than I had ever seen in my life. More money than I could ever come up with." … "Unless—my palms went sweaty—I had already been handed it."
 **中文理解**：法官宣布：保释金定为二十五万美元——他这辈子没见过也凑不出这么多钱；除非——手心出汗——除非它已经被塞进了他手里。
 **关键词**：two hundred fifty thousand / could ever come up with / already been handed
 **为什么这样写**：数字复现（ch28 支票＝ch30 保释金）是全书到目前为止最精巧的一次布局显形——Ellison 的「善意」在他需要之前就备好了价签；sweaty palms 用生理反应写惊觉：他现在明白那份礼物是什么性质的钱了。
