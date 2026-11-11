@@ -73,6 +73,15 @@ T1 自检：抽 7 章（ch01/05/09/13/17/22/27 首末必含）+ assertion_scan 5
 三件套齐：t1-verdict.md / t1-candidates.txt（527 行）/ 台账一行（审查方=自检）。T3 未做（待用户发起）。
 T1 为同会话自检（写作与自检同一会话，非异会话，如实声明）；请异会话复跑时优先核 ①相对章号 与概述数字断言。
 
+《I Know You》（i-know-you-by-ranee-s-clark）T3 深审结论：
+T3 全量深审完成（用户点名，2026-11-11）：R0–R5 全走、全书 27 章无一省略。
+机器层：verbatim --full 264/264=100% · fragments 292 片段 MISS 0/拼接 0 · overview 33/33=100%（full 抓 1 阻断）· R2 27/27 verdict ok。
+人判：R1 盲读子代理 27/27（每份 8 条锚点 self-verify ALL PASS，只给 text 路径）；R4 全 235 块主会话逐块（施事三问+跨章章号+数字回原文）；R3 漏 0/编 0。
+阻断 14 全取证：跨章/呼应章号 9 · 关系错乱 1（ch20「旧爱之弟」）· 无据数字 2（ch24「第三天」grep exit=1、过程语言泄漏）· 错字 1（Quent）· 结局不符 1（ch23 稿纸伏笔原书未回收）；提示 6 记档。
+改稿权：只出指令不改稿——2026-11-11-复核与修复指令.md 给改前→改后行级替换+验收命令；执行方修完跑 gate+overview full 复验。
+R1 盲读自身误读 1 处（ch27 mass murder 施事）已入「已核实为正确」护栏防误修。
+产物：review/chNN 四件套 27×4 + 00_总览 2 份（commit 8bc794e8c）；台账档位 深、审查方=同会话（深审，如实声明非异会话）；未 push。
+
 ### [2026-11-10 19:33 UTC] [ZCode-Mac] → All
 
 **《Home for the Holidays》Sarah Morgan 完工＋T1＋T3**（home-for-the-holidays-by-sarah-morgan）
