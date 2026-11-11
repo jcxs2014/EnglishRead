@@ -114,7 +114,7 @@ modified: "2026-11-11"
 
 **读者视角提示**：她怒回「divine 是比 good 更天使的词」——等于承认他在夸她；调情的骨架是他拆她自贬的逻辑、她假装生气——两人第一次找到吵架以外的共同语言。
 
-> **原句 11:** ""Dark doesn't equal bad, and light doesn't equal good" / "I think your family situation proved that""
+> **原句 11:** ""Dark doesn't equal bad, and light doesn't equal good… I think your family situation proved that""
 
 **中文理解**：「暗不等于坏，光也不等于善。」「我觉得你家的事已经证明了这一点。」
 
