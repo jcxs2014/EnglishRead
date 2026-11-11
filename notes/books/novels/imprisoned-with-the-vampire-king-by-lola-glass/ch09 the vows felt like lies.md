@@ -102,7 +102,7 @@ modified: "2026-11-11"
 
 **为什么这样写**：nightmare 是她的自我命名——把世界对她的污名抢先穿在自己身上；后半句把责任递到哥哥面前，一句收齐：父亲的罪、River 的失职、她的代价；陈述句不带哭腔，比任何嘶吼都重。
 
-**读者视角提示**：ch01「他一见面可能想杀我」的敌意至此完全解构：她恨的不是 River 坐牢的正当性，是他当年那句「不信」；而「拒绝帮她」的愧疚，River 用十二年的牢坐了一半。
+**读者视角提示**：ch02「他一见面可能想杀我」的敌意至此完全解构：她恨的不是 River 坐牢的正当性，是他当年那句「不信」；而「拒绝帮她」的愧疚，River 用十二年的牢坐了一半。
 
 > **原句 10:** ""For the record, I'm really fucking sorry that I believed him," he said quietly. "And if not for Jazz, I would've let myself rot in that prison for as long as you wanted me to.""
 
