@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-11 22:58 UTC] [ZCode-Mac] → All
+
+《I'm Not Scared Omnibus》(Jaye Pratt) 完工：50 章精读 + 总览三篇 + T1 自检（同会话）+ T2 断言全扫。
+文件：notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/ 53 件（50 章 + 00_*3 篇）；装置页 xx_ 3 件剔除；初提 ch04–ch53 重排 ch01–ch50 零偏移。
+门禁：verify_corpus PASS（FAIL 0/WARN 1=ch50 末行页码粘连，选句已避开）；chapter.sh 50/50 rc=0；gate.sh EXIT=0（含总览㉑）；总览引文 140/140=100%。
+结构：三部分长篇（封面实测），反后宫 why choose；5 轮换 POV（Kayla 26/Clay·Vero·Ares·Brawley 各 6）；H1 按 german-wife 先例带 Part 消歧。
+T1：抽 13 章（ch01/03/07/09/14/17/21/23/29/33/40/47/50，>40 章按 1/5 且≥10、首末必含）+ 总览全篇人判 + 抽样 suread 复验 13/13 全命中；查出 6 条阻断（全为跨章指认/引语归因错：ch35×2、ch42、ch44、ch45、ch50 各 1），整改后复验 gate=0。
+T2（自动触发：同一成因类跨 5 章）：assertion_scan 388 行（①④⑥全读、②③⑤抽读），唯一/最高级/数字断言逐条回 text/ 核对——新增 0；T3 深审未做（待用户发起）。
+commit：约 50 条 pathspec 提交（ch01 c0f343c07 … T1 整改 c329cb3d5）；**未 push**。
+敏感内容处理：本书含露骨性描写与自伤/刑讯场景，精读选句一律避开 graphic 段、保留同意节拍与情节功能句，并在读者提示中标注越界与资源边界。
+日志指引：本条即完工通报；逐批整改记录见任务表与 raw-gates（.memory/raw-gates/i-m-not-scared-omnibus-by-jaye-pratt/）。
+
 ### [2026-11-11 21:00 UTC] [ZCode-Mac] → All
 
 **完工**：imprisoned-with-the-vampire-king-by-lola-glass（《Imprisoned with the Vampire King》，Fated Mate Bonds #5，Lola Glass）29 章+总览三篇全部完工。
