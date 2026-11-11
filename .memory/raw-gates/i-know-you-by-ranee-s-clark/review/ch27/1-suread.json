@@ -1,0 +1,70 @@
+{
+  "chapter": "ch27",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben 在纽约家中长时间热水淋浴后躺在床上，才发现夹克口袋里 Clara 留下的字条（一整天多次把手伸进口袋都没察觉）。",
+      "anchor": "I don’t find her note until I’m lying across my bed in my New York home after a long, hot shower.",
+      "start": 29,
+      "end": 126,
+      "relation": "Ben＝本章视角人物；Clara＝留下告别字条者（Ben 无法放手、被留在过去的女孩）",
+      "number": null
+    },
+    {
+      "fact": "Ben 从 Allen 家打电话叫 Burke 和 Dr. Cooper 来接走 Gibbons，随后接受问询、解释把 Clara 留下的经过。",
+      "anchor": "Calling Burke and Dr. Cooper from the Allen residence to pick up Gibbons.",
+      "start": 307,
+      "end": 380,
+      "relation": "Burke 与 Dr. Cooper＝应 Ben 电话前来接 Gibbons 的人；Clara＝被 Ben 留下者",
+      "number": null
+    },
+    {
+      "fact": "Ben 向他们讲述 Clara 对自己与 Quint 生活的记忆及其父母在 Villa 的时光，并让自己相信现在已无法把 Clara 带回——因为众人所知唯一另一个能穿越时间的人（Quint）曾在过去企图大规模谋杀。",
+      "anchor": "Telling them about her memories of her life with Quint and her parents’ time at the Villa, convincing myself too that there’s no way to bring her back now.",
+      "start": 440,
+      "end": 595,
+      "relation": "Clara 曾与 Quint 在未来共同生活；Quint＝除 Clara 外唯一能穿越时间者、曾在过去企图 mass murder",
+      "number": null
+    },
+    {
+      "fact": "Ben 虽预先起草了他猜 Clara 会需要的文件并说服自己能放手，但时刻到来时仍无法放手，恳求 Clara 明白他的心意；然而这并不够、也来得太迟。",
+      "anchor": "But when the moment did come, I found myself unable. I begged, desperate to make her see.",
+      "start": 974,
+      "end": 1063,
+      "relation": "Ben 与 Clara＝分别时刻的两人；Ben 曾为 Clara 预先起草文件",
+      "number": null
+    },
+    {
+      "fact": "Clara 在字条中告诉 Ben 另附一张给 Morgan 的字条，Ben 必须对 Morgan 说真话——她不会相信「Clara 提分手、搬到外国、不开国际漫游联系」的说辞。",
+      "anchor": "You’re going to have to tell her the truth.",
+      "start": 1276,
+      "end": 1319,
+      "relation": "Morgan＝须由 Ben 亲口告知真相的人（Clara 另留一张字条给 Morgan）；Clara＝留言者",
+      "number": null
+    },
+    {
+      "fact": "Clara 揶揄 Morgan 会以为是 Ben 杀了她并把尸体抛进哈德逊河；Ben 读到此处轻笑，低声说「Very true」。",
+      "anchor": "She’ll think you killed me and sent my body down the Hudson.",
+      "start": 1456,
+      "end": 1516,
+      "relation": "Morgan 与 Clara＝相识（Morgan 会质疑 Clara 失联说辞）；Morgan 与 Ben＝相识",
+      "number": null
+    },
+    {
+      "fact": "Clara 在字条里感谢 Ben 从把她从房间地板上抱起安慰那天起一直在救她，嘱他去找一个真正配得上他的女孩；并写明不后悔穿过那面镜子、遇见他、同走艰难之路，署名 Love, Clara。",
+      "anchor": "From the day you scooped me up off the floor of your room to comfort me, you’ve been coming to my rescue.",
+      "start": 1591,
+      "end": 1696,
+      "relation": "Clara 写给 Ben 的告别字条；两人同历时间旅行",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：书末邀请读者读番外场景——Clara 必须回到未来，向 Ben 求一件大人情。",
+      "anchor": "Would you like to read a bonus scene where Clara has to return to the future and ask a big favor of Ben?",
+      "start": 2153,
+      "end": 2257,
+      "relation": "Clara 与 Ben＝番外场景中 Clara 回未来向 Ben 求助",
+      "number": null
+    }
+  ]
+}

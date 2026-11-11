@@ -1,0 +1,70 @@
+{
+  "chapter": "ch25",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "叙述者（“她”）引爆了那座房子：Gibbons 怒吼“她无处不在，她是把房子炸掉的人”，随后一声重击、Gibbons 疼得倒抽气。",
+      "anchor": "She’s everywhere, you idiot! She’s the one that blew up the house.",
+      "relation": "Gibbons 与“她”（叙述者）处于对立，因爆炸而暴怒；被喊的是一个熟识的声音（下文证实是 Ben）",
+      "number": null,
+      "start": 171,
+      "end": 237
+    },
+    {
+      "fact": "叙述者虽已逃出、仍未脱险：四肢不听使唤爬不动，瘫在人行道上，回望可见刚逃出的那座房子木墙在烧、破窗冒烟、墙面有豁口。",
+      "anchor": "a glance over my shoulder shows flames dancing over the wooden walls of the house I just escaped, with smoke billowing out of the broken windows and the gaping hole in the side",
+      "relation": null,
+      "number": null,
+      "start": 563,
+      "end": 739
+    },
+    {
+      "fact": "叙述者两次呼喊 Ben，Ben 赶到低呼“谢天谢地”，把她抱起、温柔地搂在胸前，承认她很有本事、再也不会怀疑。",
+      "anchor": "He lifts me, cradling me tenderly against his chest.",
+      "relation": "Ben 对她以 darling 相称（同段），并说“I’ll never doubt that again”——此前曾怀疑她",
+      "number": null,
+      "start": 1422,
+      "end": 1474
+    },
+    {
+      "fact": "Ben 大声向前方的 Quint 报告：“我找到她了……她活着”，声音因宽慰而哽咽。",
+      "anchor": "“I’ve got her, Quint!” His voice cracks with relief. “I’ve got her. She’s alive.”",
+      "relation": "Ben 与 Quint 同在救援一方；Quint 是叙述者伸手想投奔的人",
+      "number": null,
+      "start": 1651,
+      "end": 1732
+    },
+    {
+      "fact": "Quint 从房前跑向她们，Ben 的手臂虽收紧仍把她交到 Quint 怀中；Quint 连吻她的头侧、脸颊、头发——文中点明她“没去想 Quint 仍订着婚”。",
+      "anchor": "I don’t consider that Quint is still engaged when his lips press against the side of my head, my cheeks, my hair.",
+      "relation": "Quint 已订婚（engaged，文中未写与谁），却与叙述者亲密相拥——三角关系暗示",
+      "number": null,
+      "start": 1984,
+      "end": 2097
+    },
+    {
+      "fact": "Quint 把她轻轻放进一辆汽车的后座、挨着她坐下，反复低声说“你安全了”，把头埋进她肩窝。",
+      "anchor": "He gently slips me into the back seat of a car, scooting in next to me.",
+      "relation": "Quint 亲自护送叙述者离开火场",
+      "number": null,
+      "start": 2137,
+      "end": 2208
+    },
+    {
+      "fact": "叙述者攒起力气捧住 Quint 的脸，对他说“我爱你。永远。”，随即不得不再度闭上眼。",
+      "anchor": "“I love you,” I say. “Always.”",
+      "relation": "叙述者向 Quint 直接表白爱意",
+      "number": null,
+      "start": 2686,
+      "end": 2716
+    },
+    {
+      "fact": "结尾钩子：叙述者的记忆正加速飞逝，被“夺回”的画面包括那些小女孩、以及她被 Quint 握住的布满皱纹的手；她对这意味着什么毫无头绪。",
+      "anchor": "The memories are flying away faster now, snatching back the images of those little girls and my wrinkled hands encased in Quint’s.",
+      "relation": "记忆对象涉及 Quint（皱纹之手被 Quint 握着）——身份/记忆错位的悬念",
+      "number": null,
+      "start": 2753,
+      "end": 2883
+    }
+  ]
+}

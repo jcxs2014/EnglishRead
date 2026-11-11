@@ -1,0 +1,70 @@
+{
+  "chapter": "ch26",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "吉本斯被绑在椅子上、嘴被布条紧紧堵住；昆特和本计划就这样把他连人带椅扔进镜子送回现代，克拉拉见他被制住心生快意。",
+      "anchor": "strapped to a chair—Quint and Ben planned on tossing him through the mirror like that",
+      "start": 123,
+      "end": 208,
+      "relation": "吉本斯＝被俘的反派；昆特、本＝克拉拉的同伴，共同策划把他扔回现代",
+      "number": null
+    },
+    {
+      "fact": "克拉拉从裙子口袋里掏出戒指递还给本，承认自己自私、明知在伤害他还是抓着他不放，执意与他分手。",
+      "anchor": "I reach into the pocket of my dress and withdraw the ring. I hold it out to him.",
+      "start": 1758,
+      "end": 1838,
+      "relation": "克拉拉与本（前未婚夫；本曾向她求婚）",
+      "number": null
+    },
+    {
+      "fact": "本向克拉拉坦白：他把自己身份的全部真相告诉了艾达·斯旺森并曾向她求婚，被当成精神失常遭拒后再不与他说话；他说只要能留住克拉拉什么都可以讲。",
+      "anchor": "“I told Ida Swanson everything about who I was,” he says in a rush.",
+      "start": 2678,
+      "end": 2745,
+      "relation": "本与艾达·斯旺森（1930年代结识的女士，求婚被拒）；克拉拉在听他坦白",
+      "number": null
+    },
+    {
+      "fact": "克拉拉把昆特拉进房间关门，说「如果你开口要我留下，我就留下」，并举出理由——周年纪念、生日会、她和他的一生，还有两个小女孩；昆特吻她、求她「永远和我在一起」，克拉拉答应了。",
+      "anchor": "“If you ask me to stay, I will.”",
+      "start": 6356,
+      "end": 6388,
+      "relation": "克拉拉与昆特（恋人；克拉拉曾自认不属于这个时代）",
+      "number": "Two of them, actually"
+    },
+    {
+      "fact": "昆特上前帮本把绑着吉本斯的椅子抬起扔进镜子，吉本斯恶狠狠瞪了克拉拉一眼后消失；随后本挥手步入镜子返回现代，与两人道别。",
+      "anchor": "They pick up the chair, throwing it through, and Gibbons gives me a hateful glare before he disappears.",
+      "start": 9321,
+      "end": 9424,
+      "relation": "吉本斯被驱逐回现代；本与克拉拉、昆特诀别",
+      "number": null
+    },
+    {
+      "fact": "昆特拆开本留下的信封，递给克拉拉一份文件——是她的出生证明，措辞与真件一模一样；克拉拉含泪说「他从头就知道」（昆特也承认自 The Villa 湖畔之吻起就知情）。",
+      "anchor": "“My birth certificate!” Emotion wells tightly in my chest.",
+      "start": 10085,
+      "end": 10143,
+      "relation": "出生证明是本留给昆特转交克拉拉的；本一直知道克拉拉来自未来",
+      "number": null
+    },
+    {
+      "fact": "昆特又举起另一份文件：本以嫁资名义为克拉拉存了两百万美元；克拉拉说算上通货膨胀实际价值更大，昆特笑称这远超过他自己的身价。",
+      "anchor": "“He settled two million dollars on you.”",
+      "start": 10941,
+      "end": 10981,
+      "relation": "本为克拉拉置办嫁资；昆特＝克拉拉最终选择的人",
+      "number": "two million dollars"
+    },
+    {
+      "fact": "克拉拉习惯性地想用未来记忆印证此刻，却发现再也想不起孩子们的脸（两个女儿的脸由模糊到消失）；昆特说「因为我们现在回到了起点」；结尾克拉拉想象金发小男孩俯身轻吻榛色眼睛小女孩的画面，答「永远」。",
+      "anchor": "“I can’t remember anymore,” I say softly, opening my eyes. “Why is that?”",
+      "start": 12133,
+      "end": 12206,
+      "relation": "克拉拉与昆特（伴侣，回到关系起点；未来记忆随之消失）",
+      "number": null
+    }
+  ]
+}

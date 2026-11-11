@@ -1,0 +1,70 @@
+{
+  "chapter": "ch10",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben 坚持带 narrator 去见他家人（尽管她之前已见过他妈妈），还替她拉开她那辆车的副驾车门；narrator 没有质疑不开车——Ben 在 1900 年代早期待过的两年还要一段时间才能磨掉。",
+      "anchor": "Ben insists on taking me with him to meet his family, even though I’ve already met his mom.",
+      "start": 26,
+      "end": 117,
+      "relation": "Ben＝与 narrator 一起从过去回来、被众人当作被她「救回」的男生；Ben 的妈妈＝narrator 之前已见过的人",
+      "number": "two years in the early 1900s"
+    },
+    {
+      "fact": "narrator 在进城二十分钟车程里给 Morgan 发短信，约明天午饭、说自己有「大新闻」；到 Ben 父母家时 Morgan 仍未回。",
+      "anchor": "I text Morgan on the twenty-minute drive into town.",
+      "start": 413,
+      "end": 464,
+      "relation": "Morgan＝narrator 的朋友；narrator 认为就算说出真相 Morgan 也不会信",
+      "number": "twenty-minute"
+    },
+    {
+      "fact": "两人一下车，Ben 家的木门飞开，他妈妈冲下人行道扑进 Ben 怀里；随后够不到 Ben 的家人朋友把 narrator 这个陌生人拉进怀里反复道谢——narrator 心想其实是 Ben 救了她。",
+      "anchor": "The minute we step out of the car, the wooden door to their ranch-style brick home flies open, and his mom sprints down the sidewalk toward him.",
+      "start": 867,
+      "end": 1011,
+      "relation": "Ben 的母亲；Ben 的家人与朋友（narrator 对这个家庭是陌生人）",
+      "number": null
+    },
+    {
+      "fact": "一位姨妈发现新闻采访车沿街驶来，赶在记者围拢前把所有人弄进屋里；之后他们花一整天回答问题、反复讲同一套说辞，直到 Ben 带大家躲进后院一个他们根本挤不进的玩偶屋。",
+      "anchor": "An aunt spots a news truck heading down the street and manages to get everyone inside before the reporters descend.",
+      "start": 1904,
+      "end": 2019,
+      "relation": "Ben 家的一位姨妈（aunt）；闻讯而来的记者与新闻车",
+      "number": null
+    },
+    {
+      "fact": "Ben 编出解释新财富的故事（结识一位无亲无故的隐居亿万富翁、几周后去世把钱全留给他），并强调自己「签过」NDA、父母从此守口如瓶；全世界只有 Ben 与 narrator 两人知道真相。",
+      "anchor": "You befriended a closet billionaire with no family who died a few weeks later and left all his money to you?",
+      "start": 2352,
+      "end": 2460,
+      "relation": "Ben 对父母隐瞒穿越真相；Ben 与 narrator＝仅有的两个知情者",
+      "number": "a few weeks later"
+    },
+    {
+      "fact": "玩偶屋里 narrator 问 Ben：被他们留在 1901 年的那个男人该不该告诉别人；Ben 反问「告诉谁、说什么」，并说他用别人的手机查了两秒——那年秋天 McKinley 照样被刺杀，还说「我们会想出办法」。",
+      "anchor": "But I meant about that man—the one we left in 1901. Should we tell someone?",
+      "start": 3263,
+      "end": 3338,
+      "relation": "被他们俩留在 1901 年的「那个男人」；此事只有 narrator 与 Ben 两人知情",
+      "number": "1901；two seconds"
+    },
+    {
+      "fact": "三天后第一次约会吃午饭时，Ben 说他查过 The Villa 众人的资料：那场私奔没有存世记录，William 很快娶了母亲期望的美国女继承人、生了儿子且非常疼爱；narrator 听到此处脱口说出「Quint」——她小时候去姨妈 Vi 家玩时一起玩的小男孩的名字；Ben 惊讶地问「你怎么会知道他儿子的名字」。",
+      "anchor": "“How did you know his son’s name?” Ben asks in astonishment.",
+      "start": 6558,
+      "end": 6618,
+      "relation": "Quint＝narrator 童年拜访姨妈 Vi 家时的玩伴，也是 William 之子的名字（后文作 Quinten Allen）；Aunt Vi＝narrator 的姨妈（已故）；William＝Ben 在 1901 年结识的 Allen 家少爷",
+      "number": "Three days later"
+    },
+    {
+      "fact": "Ben 问「Can we do this again?」（能不能再来一次），narrator 答应「Of course」；她甩开失望，盘算着来日方长——好让 Ben 开始信任她、向她交出他的恐惧。",
+      "anchor": "We have lots of time to get to know each other, for Ben to start to trust me with his fears.",
+      "start": 9052,
+      "end": 9144,
+      "relation": "Ben 与 narrator＝恋情推进中的两人；narrator 期待 Ben 未来向她袒露恐惧",
+      "number": null
+    }
+  ]
+}

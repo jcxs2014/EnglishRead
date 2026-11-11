@@ -1,0 +1,70 @@
+{
+  "chapter": "ch07",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "为听麦金莱总统演讲，众人提前吃晚饭，Clara 与 Ben、Mrs. Guthrie、Mr. Allen 乘马车前往 Pioneer Hall 参加南北战争老兵招待会。",
+      "anchor": "We have dinner early that night so we can attend a Civil War Veterans reception at Pioneer Hall and hear President McKinley speak.",
+      "start": 28,
+      "end": 158,
+      "relation": "Clara（叙述者）与 Ben 同乘一辆马车；Mrs. Guthrie 为东道主（当晚众人回到 Mrs. Guthrie 家）；Mr. Allen（William）同行赴会",
+      "number": null
+    },
+    {
+      "fact": "Clara 注意到麦金莱总统身旁一名男子低头看腕表，随即低声问 Ben：腕表是何时发明的。（本章转折点）",
+      "anchor": "That man next to the president is wearing a wristwatch.",
+      "start": 8480,
+      "end": 8535,
+      "relation": "Clara 对 Ben（同伴、同为穿越者）低声求证",
+      "number": null
+    },
+    {
+      "fact": "Ben 回答 Clara 的提问：腕表约出现于十九世纪中叶，但直到第一次世界大战后才流行、开始量产。",
+      "anchor": "But I don’t think they were popular until after World War I. At least, that’s when they began to be mass-produced.",
+      "start": 8350,
+      "end": 8464,
+      "relation": "Ben 与 Clara 同为被困过去的穿越者，互相核对史实",
+      "number": "mid-nineteenth century; after World War I"
+    },
+    {
+      "fact": "Ben 向 Mrs. Guthrie 借观剧望远镜观察该男子，随后向 Clara 耳语确认：那块表太现代，他敢以全部身家打赌此人来自未来。",
+      "anchor": "“The watch is too modern,” he whispers to me. “And from studying him, I’d bet my fortune he’s from the future.”",
+      "start": 8789,
+      "end": 8900,
+      "relation": "Ben 对 Clara 耳语确认；望远镜借自 Mrs. Guthrie",
+      "number": null
+    },
+    {
+      "fact": "Clara 认出该男子是穿越前一天在公寓走廊里见过的人并告知 Ben；Ben 随即推断此人知道镜子的原理、能告诉他们如何回家。",
+      "anchor": "He was at my apartment. The day before I fell through. The one I told you about seeing in the hallway when me and my friend came back from dinner.",
+      "start": 10446,
+      "end": 10592,
+      "relation": "该男子＝Clara 穿越前在公寓走廊见过之人（Clara 曾与朋友一起撞见他）；Ben 与 Clara 是同伴",
+      "number": "The day before I fell through（穿越前一天）"
+    },
+    {
+      "fact": "该男子与 Clara 对视后，朝麦金莱总统耳语一句便混入人群消失；Clara 和 Ben 追到大厅出口，门外街道太挤，那人不见了。",
+      "anchor": "A second later he whispers something in President McKinley’s ear and melts into the crowd.",
+      "start": 10908,
+      "end": 10998,
+      "relation": "该男子随行在麦金莱总统身边；他已认出 Clara（对视时瞪视、咬紧下颚）",
+      "number": null
+    },
+    {
+      "fact": "Ben 分析该未来人接近麦金莱的动机可能与九月遇刺有关（并提到西奥多·罗斯福将继任），计划明早设法进入麦金莱在旧金山下榻的宅邸打听此人身份。",
+      "anchor": "McKinley will be assassinated in September—that’s the only reason I can think that someone else from the future would try to gain access to him.",
+      "start": 11697,
+      "end": 11841,
+      "relation": "Ben 对 Clara 的推断；麦金莱为时任美国总统",
+      "number": "September; tomorrow morning"
+    },
+    {
+      "fact": "Ben 送 Clara 回房、替她解开裙后的小珍珠扣，随后吻了她；Clara 心想若被人撞见就必须嫁给 Ben——至少为了表面体面。（结尾钩子）",
+      "anchor": "If anyone catches us doing this, I will definitely have to marry Ben. At least for appearances.",
+      "start": 15351,
+      "end": 15446,
+      "relation": "Ben 与 Clara 罗曼关系升温（Ben 事后自言 We really just met）",
+      "number": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "chapter": "ch23",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "克拉彻夜担心 Gibbons 随时破门而入——他此前为让她闭嘴朝她开过一枪，还在百货商店试图灭口。",
+      "anchor": "He shot me once to keep me quiet and tried to silence me at the department store.",
+      "start": 147,
+      "end": 228,
+      "relation": "Gibbons：跟踪/恐吓克拉的反派（曾向她开枪）；克拉独自待在昆特宅中的卧室",
+      "number": null
+    },
+    {
+      "fact": "克拉午夜前后放弃入睡，走进挂满镜子的走廊，一度想找出 1928 年秋的那面镜子，替昆特省去十年的心痛。",
+      "anchor": "Part of me is tempted to find the one from the fall of 1928 and save Quint ten years of heartache.",
+      "start": 715,
+      "end": 813,
+      "relation": "昆特（Quint）：放置这些镜子的主人、克拉在过去的旧情人；Ben：克拉在未来的伴侣",
+      "number": "fall of 1928；ten years of heartache"
+    },
+    {
+      "fact": "昆特向克拉承认，当年买下镜子是因为他始终无法说服自己这只是学生式的一时迷恋——“你太难甩开”。",
+      "anchor": "Because no matter how I tried to convince myself it was a schoolboy infatuation, I couldn’t. You’re too hard to shake.",
+      "start": 2904,
+      "end": 3022,
+      "relation": "Quint 与 Clara：十年前的旧情人，此刻深夜在镜廊重逢对话",
+      "number": null
+    },
+    {
+      "fact": "克拉发现窗下有人影仰望房屋，尖叫后捂住嘴；冲进房来的是 Ben（而非昆特），他与楼下人用手势数字对暗号确认那是“自己人”——他从 Gibbons 处窃走价值数百万美元的药片后，雇人协助昆特集结的人手守卫这座宅子。",
+      "anchor": "I wasn’t about to steal pills worth millions of dollars from Gibbons and leave Quint’s house unprotected. I hired them to help the men Quint rounded up.",
+      "start": 6719,
+      "end": 6871,
+      "relation": "Ben：克拉在未来的伴侣、此次行动的策划者；Gibbons：失窃案的受害者兼反派；昆特是宅子主人",
+      "number": "pills worth millions of dollars"
+    },
+    {
+      "fact": "Ben 雇来盯宅的 Mr. Perry 报告：Gibbons 发现药片被窃后大闹一场，一刻钟前乘出租车朝这边来了；Ben 称“比预期的还多出时间”，随即下令备好人手，并让昆特安排 Mrs. Barrow 把所有女人送回各自房间待命。",
+      "anchor": "The man we have watching the house says Gibbons kicked up a fuss when he discovered the theft. He took a cab in this direction a quarter of an hour ago.",
+      "start": 8313,
+      "end": 8465,
+      "relation": "Mr. Perry：Ben 雇来监视宅子的人；Mrs. Barrow：宅中负责女眷的人；Gibbons：正朝宅子赶来的反派",
+      "number": "a quarter of an hour ago"
+    },
+    {
+      "fact": "Ben 命令克拉回自己房间，克拉拒绝并讥讽他从不真正信任她，还以“假如我不送你回 1938 年”相威胁；Ben 笑她别想唬人，末了说“随你便，亲爱的”。",
+      "anchor": "Do you like 1938, Ben? Suppose I don’t send you back.",
+      "start": 10006,
+      "end": 10059,
+      "relation": "Ben 与 Clara：未来的伴侣；克拉掌握着送 Ben 回 1938 年（未来）的能力",
+      "number": "1938"
+    },
+    {
+      "fact": "昆特恳求克拉回房避险，情急中脱口唤她“love”，并说出当年她中枪之夜他不知她死活、十年来一直试着在没有她的生活里活下去而不得；克拉心软让步，回房关门。",
+      "anchor": "I didn’t know if you were dead or alive, and I’ve been trying and failing to live a life without you for ten years.",
+      "start": 11925,
+      "end": 12040,
+      "relation": "Quint 对 Clara 旧情未断（“love”系脱口而出）；他同时提到 Ben 也同样不愿她涉险",
+      "number": "ten years"
+    },
+    {
+      "fact": "克拉睡不着，起身写满一页页与昆特共同生活的回忆（尤其那两个小女孩的每个细节）后入睡；几小时后被一只捂住她嘴的冰凉的手惊醒——本章结尾钩子，来者身份本章未揭示。",
+      "anchor": "I drift off to sleep, only to be woken a few hours later when a cold hand clamps over my mouth.",
+      "start": 14169,
+      "end": 14264,
+      "relation": "被惊醒者是 Clara；动手者身份未明（她此前最惧怕的是 Gibbons）",
+      "number": "a few hours later"
+    }
+  ]
+}

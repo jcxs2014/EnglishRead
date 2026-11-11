@@ -1,0 +1,268 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/ch01 clara moves into the villa.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/text/ch01_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I step around my best friend and former roommate, Morgan, who's currently blocking the doorway of my condo. I plop down ",
+          "ok": true,
+          "pos": 91
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It used to be a hotel that was popular around the turn of the century, and in the 1940s it was remodeled into luxury con",
+          "ok": true,
+          "pos": 761
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But my memories of Aunt Vi are strong at The Villa, and I need to tether my heart somewhere. The lease being up last mon",
+          "ok": true,
+          "pos": 1625
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He looks vaguely familiar. Middle-aged, I think. Tall, over six feet, with muscled arms and broad shoulders",
+          "ok": true,
+          "pos": 3967
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It's true he was living here when he disappeared, and his family continued paying the lease for a while, probably hoping",
+          "ok": true,
+          "pos": 5909
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But despite the exhaustion when it's past two in the morning and we've been up since six moving my stuff, I can't sleep.",
+          "ok": true,
+          "pos": 8424
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Aunt Vi's voice penetrates my mind, a line she repeated often in the days after my parents died. You are not alone, swee",
+          "ok": true,
+          "pos": 9664
+        }
+      ],
+      "words": 26
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 130,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Chapter One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 9,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1919,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

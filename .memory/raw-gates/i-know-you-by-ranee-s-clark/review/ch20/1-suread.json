@@ -1,0 +1,70 @@
+{
+  "chapter": "ch20",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Quint 解释 Kitty 和她妹妹 Florence 不愿住他的宅邸、更愿住旅馆；他为这顿晚餐几天前就已抵达，并让管家 Mrs. Barrow 临时雇了帮手——因此 Gibbons 可能趁乱混进宅邸而无人察觉。",
+      "anchor": "He could have easily slipped in amidst the chaos and no one would have been the wiser",
+      "start": 3119,
+      "end": 3204,
+      "relation": "Kitty 为 Quint 的未婚妻（本章后文提及其将成婚并定居英国）；Florence 为 Kitty 的妹妹；Mrs. Barrow 为 Quint 宅邸管家；Kitty 想见 Quint 在美国的朋友（Frank，而非 Edward）。",
+      "number": "a few days ago（Quint 抵达时间）"
+    },
+    {
+      "fact": "Ben 从上衣口袋掏出 Simon Gibbons 的照片递给 Quint 辨认——即十年前他们来此追捕的逃犯；Ben 告知 Gibbons 今早十点左右已穿过通道抵达此处。",
+      "anchor": "He traveled through the passage here this morning around ten a.m.",
+      "start": 2119,
+      "end": 2184,
+      "relation": "Simon Gibbons 为十年前 Ben 与 Clara 来此追捕的对象，曾开枪击伤 Clara（Quint 将她从地上抱起）；Quint 是当年事件的亲历者。",
+      "number": "around ten a.m.（抵达时间）；ten years ago（上次追捕）"
+    },
+    {
+      "fact": "Quint 主动请缨帮忙追查 Gibbons；他已加入英国皇家空军（RAF），尚有几周假期才须回伦敦报到；Clara 心算美国距离卷入那场即将席卷欧洲的战争还有三年。",
+      "anchor": "I’ve got another few weeks of leave before I have to report back to London.",
+      "start": 3956,
+      "end": 4031,
+      "relation": "Quint 即将与 Kitty 成婚并定居伦敦；Clara 是曾离开他的昔日恋人，听后既惧且慕。",
+      "number": "RAF；another few weeks of leave；three years away from entering the conflict"
+    },
+    {
+      "fact": "次日早餐定分工：Ben 原计划自己上街打听、让 Clara 留在家中；Quint 提议改由 Ben 陪 Clara 拿照片外出走访，自己留下盘问自家仆人，并约定午餐时电话联络通报进展。",
+      "anchor": "“You go with her,” Quint suggests.",
+      "start": 7293,
+      "end": 7327,
+      "relation": "Ben 与 Clara 为来自现代的追捕搭档（Ben 为时间旅行侦探）；Quint 为宅邸主人、Clara 的昔日恋人。",
+      "number": null
+    },
+    {
+      "fact": "线索会合：餐馆女招待说 Gibbons 早上吃了咖啡和一摞薄煎饼后乘出租车离开，司机 Eddie 给出城里的地址——他被送到 Plaza 饭店；Quint 开黑色克莱斯勒轿车赶到，说仆人们也见到过 Gibbons 但不知去向；因 Gibbons 1928 年也曾到过 Plaza，Ben 确信方向正确，随后花半小时查明他在 Palm Court 餐厅坐了几个小时后离开。",
+      "anchor": "Gibbons was dropped at the Plaza.",
+      "start": 11165,
+      "end": 11198,
+      "relation": "Eddie 为餐馆邻桌的出租车司机，与女招待同为线索提供者；Ben、Clara、Quint 三人合流追查。",
+      "number": "1928；a half hour；a few hours"
+    },
+    {
+      "fact": "Ben 追问 Quint 那面镜子是何时买的；Quint 承认是上周进城时买的、如今已成习惯；随后在 Bergdorf's 门口 Quint 告知 Clara 她早已获准记账到他母亲的账户——名字是当年（出于他对她回来的期待）加上的，他从未更改。",
+      "anchor": "When I came into town last week. It’s something of a habit now.",
+      "start": 12147,
+      "end": 12210,
+      "relation": "Quint 十年来一直保有 Clara 会回来的信念并保留其账户授权；他即将与 Kitty 成婚；Clara 心怀歉意。",
+      "number": "last week（购镜时间）；ten years（他抱持她会回来的信念）"
+    },
+    {
+      "fact": "转折点：在 Bergdorf's 百货女装部，趁 Quint 为回避内衣部而在邻区等候，Gibbons 捂住 Clara 的嘴把她拖进一间空试衣间；Clara 不坐等救援，按 Burke 所教用手肘猛击 Gibbons 腹部、跺其脚脱身，并在对方松手瞬间高喊 “Quint!”；Gibbons 击退赶来的 Quint 后夺门而逃。",
+      "anchor": "Which explains why Gibbons is able to clap a hand over my mouth and drag me to an unoccupied fitting room in the ladies’ dresses department.",
+      "start": 17734,
+      "end": 17874,
+      "relation": "Gibbons 为被 Ben 一行追捕的时间旅行逃犯（有黑色行动身手）；Burke 为教 Clara 自卫术的同僚；Quint 为出手相救者。",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：街头追逐中 Clara 的鞋跟折断摔倒，Ben 高喊 “Fine! Go!” 绝不停步、追过一个街角后 Gibbons 失踪；Quint 折返扶起 Clara 并留在她身边，说 Ben 会要他陪着她。",
+      "anchor": "Ben would want me here with you.",
+      "start": 20382,
+      "end": 20414,
+      "relation": "Ben 对 Clara 与 Quint 的旧情心存芥蒂——Clara 明知与 Quint 独处正是 Ben 最不愿见、最担心发生的事。",
+      "number": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "chapter": "ch11",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "本来电催克拉拉立刻赶到 The Villa、电话里不肯说明缘由，克拉拉开车二十分钟赶到，被引进客厅见到两名深色西装男子",
+      "anchor": "The entire twenty-minute drive up to The Villa is nerve-racking, especially since no reason for Ben’s abruptness occurs to me.",
+      "start": 2611,
+      "end": 2737,
+      "relation": "本（Ben Mitchell）＝克拉拉的恋爱对象（关系尚浅、『还不是男朋友』）；克拉拉＝叙述者；开场克拉拉正与旧室友摩根在旧公寓（摩根在律所工作、未招到新室友）",
+      "number": "twenty-minute"
+    },
+    {
+      "fact": "两名男子摊牌：Dr. Cooper 与 Agent Burke 来自 FBI 主导的特遣组，负责监控并规范『通过镜子的时间旅行』——官方早已掌握本与克拉拉的穿越（本章转折点）",
+      "anchor": "“It’s about your time-traveling,” Dr. Cooper says.",
+      "start": 4126,
+      "end": 4176,
+      "relation": "Dr. Cooper（曾在 NSA 研究能量、后入 FBI 特遣组）与 Agent Burke（FBI 探员）＝上门的特遣组两人；本与克拉拉＝被告知对象",
+      "number": "the last decade"
+    },
+    {
+      "fact": "Burke 交代特遣组曾派一名行动特工追踪两人但『出了差错、人没回来』；本怒斥自己被困两年他们才刚派人；Burke 称直到约四个月前 Gibbons 加入才有可口派之人",
+      "anchor": "“I was there for two years, and you just barely sent someone?”",
+      "start": 5232,
+      "end": 5294,
+      "relation": "Simon Gibbons＝特遣组行动特工（被派追踪本与克拉拉、未归）；本＝曾在过去被困两年；Burke/Cooper＝特遣组",
+      "number": "two years / about four months ago"
+    },
+    {
+      "fact": "Cooper 用带 LCD 屏的小方镜当场测能量：克拉拉的手在一分钟内沉入镜面，本的手则没有——克拉拉能量高、本很低",
+      "anchor": "Within a minute, my hand sinks through the surface.",
+      "start": 6981,
+      "end": 7032,
+      "relation": "克拉拉＝天生感应镜能量者（能量读数高）；本＝能量低、未能穿入镜面；Cooper＝测试并记录者",
+      "number": "Within a minute"
+    },
+    {
+      "fact": "Burke 出示照片、克拉拉指认正是搬入公寓那天跟踪她的人，Cooper 说出那是 Simon Gibbons；克拉拉提醒镜子已锁进 The Villa 储藏室、Gibbons 可能已无人知晓地溜走；Burke 当场打电话宣布『Gibbons is rogue』并下令全面调查",
+      "anchor": "“Gibbons is rogue. I need a full work-up on what he could be up to.”",
+      "start": 12736,
+      "end": 12804,
+      "relation": "Simon Gibbons＝照片中跟踪克拉拉的人、特遣组特工（当场被宣布 rogue）；克拉拉＝指认者（旧金山曾见他与麦金莱总统同行）；本＝目击者",
+      "number": null
+    },
+    {
+      "fact": "Cooper 摊牌此行不止为了要信息、更是来招募：称本的钱财与人脉对特遣组无比宝贵，本指出自己的财富『只在 1901 之后』",
+      "anchor": "“Only after 1901,” Ben points out, but I can tell Dr. Cooper’s hit on the right thing to smooth things over, especially in front of know-it-all Burke.",
+      "start": 15137,
+      "end": 15287,
+      "relation": "本＝招募目标（有钱有人脉、Gilded Age 历史博士）；克拉拉＝能随意开通道的搭档人选；Cooper＝招募发起人",
+      "number": "1901"
+    },
+    {
+      "fact": "晚饭后 Cooper 折返称『情况变了、你们没多少选择』：Burke 指本带回的财产来自未授权穿越、资金可能被冻结没收，Cooper 提出帮忙即可另作安排；克拉拉劝本『我们能帮、也许只有我们能』，本说『Fine』并点头同意随行",
+      "anchor": "“Fine,” he says, and I give a nod of agreement as well.",
+      "start": 23457,
+      "end": 23512,
+      "relation": "Burke＝施压方（唱黑脸）；Cooper＝劝诱方；本＝被以冻结/没收财产要挟后松口；克拉拉＝劝本接受",
+      "number": null
+    },
+    {
+      "fact": "SUV 上 Cooper 公布：人脸追踪软件在 1928 年纽约街头照片里扫到了 Gibbons；Burke 把两人拉到机场机库的大客机前；本与克拉拉在舷梯下商量后决定同行——本牵手上舷梯、越过两名特工径直登机，要求『别再把我们当囚犯、当团队成员』（结尾钩子）",
+      "anchor": "And without waiting for any kind of permission, he marches past the two men and onto the plane.",
+      "start": 31612,
+      "end": 31707,
+      "relation": "Gibbons＝rogue 特工（前 CIA 黑行动单位出身、曾一个多月回不到现在）；本与克拉拉＝同意随行、将赴 1928 年纽约接触并带回 Gibbons；Burke＝驾车押送",
+      "number": "1928 / circa the early 1900s / 1901"
+    }
+  ]
+}

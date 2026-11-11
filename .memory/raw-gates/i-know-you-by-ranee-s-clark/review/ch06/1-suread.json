@@ -1,0 +1,70 @@
+{
+  "chapter": "ch06",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "清晨 Mrs. Guthrie 的女仆早早叫醒「我」，Ben 带着裁缝等一群人进房道歉（忘了头晚提醒），并说已花大钱、多方求情让裁缝清空日程，要当天为「我」做出紧身胸衣，所以现在就得开始量体。",
+      "anchor": "This is the seamstress making your corset. I paid a lot of money and did a lot of begging for her to clear her schedule to have one done by the end of the day, so she insists they start now.",
+      "start": 353,
+      "end": 543,
+      "relation": "Ben＝女主人公（Miss Granville）的男伴、出资安排者；裁缝为「我」定制 corset；叫醒「我」的女仆属 Mrs. Guthrie（宅邸女主人）",
+      "number": null
+    },
+    {
+      "fact": "「我」抱怨时间还不到早上六点，Ben 便招手让身后的女仆端来托盘赔罪——两块点心、一杯热咖啡、一碗糖、一小壶奶油；「我」几秒钟就心软原谅了他。",
+      "anchor": "On it is a plate with two pastries, a cup of steaming coffee, a bowl of sugar, and a small pitcher of cream.",
+      "start": 775,
+      "end": 883,
+      "relation": "Ben 在向「我」（Miss Granville）示好求恕，两人是正在升温的恋人关系",
+      "number": "two pastries"
+    },
+    {
+      "fact": "量体持续一个多小时后裁缝离开，去 Ben 专为她在这房子里布置的房间工作，「我」获准回床补觉。",
+      "anchor": "When the seamstress leaves a little over an hour later to work in a room that Ben had specifically set up for her at the house, I’m allowed to go back to bed.",
+      "start": 1647,
+      "end": 1805,
+      "relation": "Ben（男主）为「我」安排裁缝与工作间；「我」是被量体的一方",
+      "number": "a little over an hour"
+    },
+    {
+      "fact": "二次醒来后「我」头一回独自留在宅中（Ben 正与 Mrs. Guthrie 在一起，「我」疑心他在她面前最肯交心），边逛边自问：会不会干脆嫁给 Ben——先结婚、再倒着谈恋爱。",
+      "anchor": "Would I marry him? Marry and then date in some backwards way like in a movie?",
+      "start": 2284,
+      "end": 2361,
+      "relation": "Ben＝「我」的潜在结婚对象；Mrs. Guthrie＝Ben 最信任的倾谈对象（本章转折点：女主动摇、认真考虑留在过去嫁给他）",
+      "number": null
+    },
+    {
+      "fact": "「我」循小提琴声走到琴房门外，认出是柴科夫斯基《睡美人》第一幕的圆舞曲，泪流满面，边哼边唱迪士尼版歌词——父亲（小提琴手）从前常为她拉这曲子。",
+      "anchor": "I press my fingers to my lips as I recognize the song, the waltz from the first act of The Sleeping Beauty, by Tchaikovsky.",
+      "start": 4018,
+      "end": 4141,
+      "relation": "「我」之父＝小提琴手（已故）；演奏者被「我」推断为 Mr. Allen（宅中琴师，因 Mrs. Guthrie 与 Ben 都在忙）",
+      "number": "the first act"
+    },
+    {
+      "fact": "「我」向 Mr. Allen 解释父亲常为她拉这曲子；父母骤然离世——四年后她仍会下意识拿起手机想给妈妈发短信。",
+      "anchor": "Sometimes still I forget and pick up my phone to text my mom. Even after four years.",
+      "start": 5354,
+      "end": 5438,
+      "relation": "「我」父母双亡（骤逝）；Mr. Allen＝琴师、此刻的倾听者",
+      "number": "four years"
+    },
+    {
+      "fact": "「我」向 Mr. Allen 瞒下迪士尼电影不提——那片子还要约五十年才会拍出来，只以「故事浪漫」搪塞；想到可能得带着镜子坐火车横穿全国去看芭蕾，「我」心跳一乱。",
+      "anchor": "I can’t tell him about a motion picture that won’t be made for another fifty years or so.",
+      "start": 5678,
+      "end": 5767,
+      "relation": "Mr. Allen＝不知晓未来的琴师；镜子＝「我」穿越回过去的媒介",
+      "number": "another fifty years or so"
+    },
+    {
+      "fact": "（结尾钩子）Mr. Allen 提议「应该尽快安排去看这出芭蕾」并邀「我」随时再来听圆舞曲；但「我」正要跟他进琴房时，一名女仆赶来唤「Miss Granville」上楼做 fitting，「我」只好随她离开、努力把琴声记进记忆。",
+      "anchor": "“Miss Granville?” A maid hurries down the hallway toward us, stopping my entry into the room. “You’re needed upstairs for a fitting.”",
+      "start": 6916,
+      "end": 7049,
+      "relation": "女仆传唤「我」（Miss Granville＝女主的姓氏称呼）；Mr. Allen 留下「Another time?」之约被打断",
+      "number": null
+    }
+  ]
+}

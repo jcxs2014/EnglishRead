@@ -1,0 +1,70 @@
+{
+  "chapter": "ch09",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "叙述者与Ben穿过镜子回到现代：她在公寓的硬地板上醒来，忆起曾在1901年与Ben共处三天。",
+      "anchor": "I’m lying on a hard floor and have no idea how I got here. I vaguely remember stepping through a mirror with Ben—but through? That seems ridiculous. That’s when the déjà vu hits me. Falling through the mirror. Three days in 1901 with Ben. Trying to come home.",
+      "start": 27,
+      "end": 286,
+      "relation": "叙述者与Ben：一同穿越时空的同伴（1901年同行者）",
+      "number": "Three days in 1901"
+    },
+    {
+      "fact": "Ben 握住我的手把我扶起来，问要不要去急诊看看；我说自己没事。",
+      "anchor": "“Should we go to urgent care or something?” Ben takes my hand and helps me to my feet.",
+      "start": 1113,
+      "end": 1199,
+      "relation": "Ben：刚随叙述者从1901年穿镜归来的同伴",
+      "number": null
+    },
+    {
+      "fact": "Ben 解释镜子已按他留言所托，由 Mrs. Guthrie 和 William 确保归还到我的公寓单元。",
+      "anchor": "“I asked Mrs. Guthrie and William in my note to make sure it was returned, to this unit specifically.”",
+      "start": 1635,
+      "end": 1737,
+      "relation": "Mrs. Guthrie 与 William：受 Ben 留言之托归还镜子的人；归还地点为叙述者（The Villa）的公寓单元",
+      "number": null
+    },
+    {
+      "fact": "我拿起手机，发现现实这边也过去了将近三天；Ben 在过去停留的时长与他在未来失踪的时长相等。",
+      "anchor": "I pick it up, cringing when I notice nearly three days have passed here as well.",
+      "start": 2598,
+      "end": 2678,
+      "relation": null,
+      "number": "nearly three days"
+    },
+    {
+      "fact": "Morgan 在我坠入镜子的次日发来消息，问我是否安好、那个人有没有回来杀我。",
+      "anchor": "The first message from Morgan came the day after I fell through the mirror. Haven’t heard from you in a couple days. That guy didn’t come back and kill you, did he?",
+      "start": 3125,
+      "end": 3289,
+      "relation": "Morgan：曾与叙述者同住的朋友（前室友）；『那个人』指叙述者公寓里的神秘男子",
+      "number": "the day after I fell through the mirror；a couple days"
+    },
+    {
+      "fact": "有人冒充我，用我的手机回复 Morgan：忙于工作、去外地做几天研究项目。",
+      "anchor": "I—or more correctly someone writing as me—replied later that day. Busy with work. Out of town for a few days on a research project.",
+      "start": 3292,
+      "end": 3423,
+      "relation": "冒充者：疑似那名神秘男子（Ben 称 our mystery man）；Morgan 为收信人",
+      "number": "a few days"
+    },
+    {
+      "fact": "我指出无法对外解释 Ben 的不告而别——他已经失踪两年。",
+      "anchor": "You can’t claim taking off without telling anyone. It’s been two years.",
+      "start": 4721,
+      "end": 4792,
+      "relation": "Ben：失踪两年后刚归来的对象，叙述者需替他向外界解释",
+      "number": "two years"
+    },
+    {
+      "fact": "结尾：Ben 握住我的双肩，向我承诺一切都会没事。",
+      "anchor": "He takes me by the shoulders. “Everything is going to be fine. I promise.”",
+      "start": 6569,
+      "end": 6643,
+      "relation": "Ben：与叙述者共同编造其两年失踪说辞的同伴",
+      "number": null
+    }
+  ]
+}

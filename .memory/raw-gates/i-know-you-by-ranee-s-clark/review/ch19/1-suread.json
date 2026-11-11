@@ -1,0 +1,70 @@
+{
+  "chapter": "ch19",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben 突然上门打断 Clara 赶写博客，转达 Burke 的召集：两人须当天下午赶到纽约，他已租好私人喷气机，门外有车等候；Clara 十分钟后拎包上车。",
+      "anchor": "Burke called. They want us in New York by this afternoon.",
+      "start": 1028,
+      "end": 1085,
+      "relation": "Ben 为 Clara 的男友；Burke 为与二人协作追查 Gibbons 的联络人。",
+      "number": null
+    },
+    {
+      "fact": "赴机场途中 Ben 在车里取出红色小礼盒向 Clara 正式表明求婚意愿，称这是他「具体的承诺」、她可以想多久都行；所赠为 1920 年代古董戮指（主钻约半克拉、欧式切割），Clara 收下盒子却没有说愿意。",
+      "anchor": "You don’t have to answer. It doesn’t need to mean anything yet. I just want you to know this is what I want. Concretely.",
+      "start": 3180,
+      "end": 3300,
+      "relation": "Ben 向女友 Clara 求婚；戮指刻意选择以贴合 Clara 对 1920 年代扮装经历的偏好。",
+      "number": "1920s；probably half a carat"
+    },
+    {
+      "fact": "Burke 与 Dr. Cooper 赶到 Ben 的纽约宅通报：Gibbons 已于六小时前再次穿越时间，去了 1938 年——二战爆发前夕；Ben 判断他「在筹划大事」，并担忧这次更难追。",
+      "anchor": "“1938,” Burke says in his deep, reverberating voice. So fitting, since the year rings in all of our heads.",
+      "start": 6449,
+      "end": 6555,
+      "relation": "Burke、Dr. Cooper 为协助 Clara 与 Ben 的调查方；Gibbons 为反派。",
+      "number": "Six hours ago；1938"
+    },
+    {
+      "fact": "Dr. Cooper 披露 Allen 宅已变成「穿越镜库」：Quint Allen 自 1929 至 1938 每年购买四面镜子、一季一面；Gibbons 正是从宅内一面镜子（1938 年购置的那面）离开的。",
+      "anchor": "Quint Allen bought four mirrors a year from 1929 to 1938. One every season.",
+      "start": 8000,
+      "end": 8075,
+      "relation": "Quint Allen 为 Clara 1901 年相识、内心仍牵挂的旧爱；Gibbons 为反派。",
+      "number": "four mirrors a year from 1929 to 1938. One every season"
+    },
+    {
+      "fact": "Clara 带 Ben 从现时的 Allen 宅镜厅穿越回 1938 年，但无法把时间推到 Gibbons 出发（上午十点左右）之前——镜门停在他留下的时间锚点当晚八点，二人只得就此落地。",
+      "anchor": "The vision in the doorway of the mirror shudders with my effort to move past it, but stays immovable at eight p.m., the length of hours between the pinpoint Gibbons created and when we set out.",
+      "start": 17090,
+      "end": 17283,
+      "relation": "Clara 为穿越能力载体，Ben 同行追踪 Gibbons。",
+      "number": "around ten a.m.；eight p.m."
+    },
+    {
+      "fact": "转折点：本应空置、家人都在英格兰的 Allen 宅里灯亮着——十岁年长、穿黑色晚宴服的 Quint 从三楼楼梯现身，与 Clara 重逢并认出她。",
+      "anchor": "He comes down the stairs from the third floor, and he’s stopped two stairs and a handful of steps away from me. Ten years have certainly changed him.",
+      "start": 18361,
+      "end": 18510,
+      "relation": "Quint Allen 为 Clara 十年前（1901）的旧爱，现为 Catherine (Kitty) Pratt 的未婚夫；Ben 在场。",
+      "number": "Ten years"
+    },
+    {
+      "fact": "Quint 向晚宴宾客介绍未婚妻——Florence Pratt 之妹 Kitty（Catherine），Clara 与 Quint 同时低声说出 Fiancée；此前 Clara 记起当年报纸所载 Quint 与 Catherine Pratt 的婚期为 1939 年 3 月 31 日——尚未成婚。Ben 把 Clara 介绍为「我妹妹 Miss Clara Mitchell」。",
+      "anchor": "“Fiancée,” I whisper the same time Quint finishes his sentence on the same word.",
+      "start": 23542,
+      "end": 23622,
+      "relation": "Catherine 'Kitty' Pratt 为 Quint 的未婚妻；Ben 与 Clara 对外以兄妹相称。",
+      "number": "31 March, 1939"
+    },
+    {
+      "fact": "结尾钩子：Clara 借口头痛提前离席上楼歇息，管家 Mrs. Barrow 透露 Mr. Quinten 一直倾心于她；Clara 躺下入睡，Quint 随即闯入她的梦中。",
+      "anchor": "My mind betrays me, however, because the second I fall asleep, Quint joins me in my dreams.",
+      "start": 33939,
+      "end": 34030,
+      "relation": "Mrs. Barrow 为 Allen 家管家；Quint 为 Clara 的旧爱。",
+      "number": null
+    }
+  ]
+}

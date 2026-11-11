@@ -1,0 +1,70 @@
+{
+  "chapter": "ch03",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Clara 从昏迷中醒来，见一名陌生男子俯视着她，惊叫坐起；环顾房间后确认自己不在自家 condo。",
+      "anchor": "I open my eyes to find a pair of blue eyes staring down at me.",
+      "start": 28,
+      "end": 90,
+      "relation": "该男子自称 Ben Mitchell，并非 Clara 昨晚在公寓外见到的那个人；她疑心是 Morgan 叫了 911",
+      "number": null
+    },
+    {
+      "fact": "自称 Ben Mitchell 的男子向 Clara 揭示：两人都是从镜子里跌入过去的人，现在是 1901 年；他要 Clara 重复穿越时的动作，带两人回到 2024 年。",
+      "anchor": "It’s 1901, but neither of us have to worry about that if you can repeat what you did to get here and take us back to 2024.",
+      "start": 2426,
+      "end": 2548,
+      "relation": "Ben Mitchell——Clara 认出这是新闻里报道过的失踪者；他自称“大概是错过了（missing from）未来的人”",
+      "number": "1901；2024"
+    },
+    {
+      "fact": "Clara 自报姓名 Clara Granville——正是拥有 Ben 所租 condo 的 Granville 家，昨天刚搬入——并告知 Ben：他已失踪两年、他父母付了第二年的租金。",
+      "anchor": "“Two years,” I say.",
+      "start": 5784,
+      "end": 5803,
+      "relation": "Ben Mitchell 原是这套 condo 的租客，Clara 昨天刚搬进去",
+      "number": "Two years；the second year；yesterday"
+    },
+    {
+      "fact": "Ben 对酒店中人谎称 Clara 是他新到的“ward”（被监护人）、因遭路匪抢劫而延误抵达，并托人给 Mrs. Halloway 传话借衣；十分钟后女仆送来成堆晚宴衣物。",
+      "anchor": "Ten minutes later, a maid delivers a mound of clothing",
+      "start": 13308,
+      "end": 13362,
+      "relation": "Mrs. Halloway——应 Ben 之托出借衣物并安排房间的酒店中人；Ben 以监护人身份安置 Clara",
+      "number": "Ten minutes"
+    },
+    {
+      "fact": "穿镜回程尝试失败：Ben 先带 Clara 双手按上镜面却毫无反应，独白怀疑通道并非单向；他后来承认几乎每天（尤其他一年半前拿回镜子之后）都在尝试，担心通道每两年才开启一次。",
+      "anchor": "almost constantly when I got the mirror back into my possession a year and a half ago.",
+      "start": 27558,
+      "end": 27644,
+      "relation": null,
+      "number": "a year and a half ago；every two years"
+    },
+    {
+      "fact": "赴晚宴途中，Ben 替 Clara 定下对外背景故事：她的父母五年前去世、把监护权留给他的父亲——而他父亲三个月前去世；Clara 坚持把“父母去世”改口为四年。",
+      "anchor": "Your parents died five years ago, leaving your guardianship to my father, who died three months ago.",
+      "start": 29225,
+      "end": 29325,
+      "relation": "两人对外以“监护人与被监护 ward”的关系示人",
+      "number": "five years ago；three months ago；four years"
+    },
+    {
+      "fact": "晚宴上，Mr. Allen 向 Clara 行吻手礼并以“大名鼎鼎的 Granville 小姐”相称；他熟悉的面容触发 Clara 的模糊记忆（与一个同发色男孩在楼梯上玩耍），Ben 随即把她拉近身边。",
+      "anchor": "The famous Miss Granville, I presume?",
+      "start": 31771,
+      "end": 31808,
+      "relation": "Mr. Allen——由 Ben 引见的晚宴宾客，有英国口音；Ben 对两人交谈显出占有欲",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：Clara 终于在心里承认——问题在于她认为这可能不是梦、而是真的；随后 Mrs. Halloway 请她直呼自己的名字 Rebecca，并预言两人会成为好朋友。",
+      "anchor": "The problem is, I think this might be real.",
+      "start": 41453,
+      "end": 41496,
+      "relation": "Mrs. Halloway（Rebecca）——出借晚宴衣裙的酒店女客，主动示好并要 Clara 以名相称",
+      "number": null
+    }
+  ]
+}

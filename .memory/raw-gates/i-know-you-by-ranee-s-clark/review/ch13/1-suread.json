@@ -1,0 +1,70 @@
+{
+  "chapter": "ch13",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben与William到Plaza周边商户排查Gibbons行踪，只追到一两个街区便失去线索；Ben愈发确信Gibbons是自愿留下、不想要救援。",
+      "anchor": "We were able to trace him a block or two around the neighborhood, but no more.",
+      "start": 17974,
+      "end": 18052,
+      "relation": "Ben与William为搜寻搭档（曾是best friends）；Gibbons是他们要找的失踪穿越者。",
+      "number": "a block or two"
+    },
+    {
+      "fact": "Ben将Clara排除在搜捕行动之外（让她去吃饭、由Quint送回家），Clara抗议自己受过同等训练，Ben称自己已有两年融入练习、这样更安全。",
+      "anchor": "You spent three days in the past with me at your side the entire time. I’ve had two years of practice blending in.",
+      "start": 3962,
+      "end": 4076,
+      "relation": "Ben是Clara的恋人；Quint是陪同者、Clara感觉宿命相连的对象。",
+      "number": "three days / two years"
+    },
+    {
+      "fact": "Clara向相识仅一天的Quint袒露父母四年前死于火灾——这比她告诉Ben的还多。",
+      "anchor": "My parents died in a fire four years ago.",
+      "start": 7833,
+      "end": 7874,
+      "relation": "Clara与Quint（前一天才见面，Clara却觉得认识他一生）；她的父母双亡。",
+      "number": "four years ago"
+    },
+    {
+      "fact": "转折点：Quint向Clara说出六岁那年的记忆——父母带他去The Villa度夏，在那里遇到一个姓Granville的小女孩，父母说他们数周形影不离。",
+      "anchor": "When I was six, my parents took me out west for the summer,” he says in a low voice, his gaze roving over my face with wonder. “To The Villa.",
+      "start": 12824,
+      "end": 12965,
+      "relation": "Quint对Clara说出童年记忆，怀疑她就是那个Granville家的小女孩。",
+      "number": "six（六岁）"
+    },
+    {
+      "fact": "Clara让Quint吻了她；Quint事后低声说这吻仿佛他一生中每天都重复、持续了六十年。",
+      "anchor": "It’s as if I’ve done that every day of my life for sixty years,",
+      "start": 14667,
+      "end": 14730,
+      "relation": "Quint与Clara之吻（似曾相识的初吻）。",
+      "number": "sixty years"
+    },
+    {
+      "fact": "晚餐时Allen太太回忆Granville一家：离开加州后两家通信几个月，随后对方来信中断。",
+      "anchor": "We wrote to each other for a few months after we left California. Not much, mind you, but then her letters stopped … what was her name?",
+      "start": 16417,
+      "end": 16552,
+      "relation": "Mrs. Allen与Mrs. Granville为旧识（两家同在The Villa度过一个夏天）。",
+      "number": "a few months"
+    },
+    {
+      "fact": "Quint断言Granville家的小女孩当年四岁，并说Clara与那女孩及其母亲相貌惊人地相似。",
+      "anchor": "Their little girl was four years old.",
+      "start": 20234,
+      "end": 20271,
+      "relation": "Quint比Clara大两岁；Clara疑似即Granville家女儿。",
+      "number": "Four / four years old"
+    },
+    {
+      "fact": "结尾钩子：夜里Quint带Clara到宅外池塘，Clara低声说出《睡美人》歌词“你马上就会爱上我”，Quint答“Yes”并牵她回屋。",
+      "anchor": "You’ll love me at once,” I whisper, a breath away from his lips.",
+      "start": 29153,
+      "end": 29217,
+      "relation": "Clara认定自己是Quint母亲的挚友（Quint刚说过“You are my mother’s best friend”）。",
+      "number": null
+    }
+  ]
+}

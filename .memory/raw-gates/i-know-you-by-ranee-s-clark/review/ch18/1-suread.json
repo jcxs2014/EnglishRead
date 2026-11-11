@@ -1,0 +1,70 @@
+{
+  "chapter": "ch18",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben 揭晓圣诞礼物是一面金边老镜子：他已说服 Burke 与 Cooper，换来 1913 年 3 月 13 日在华盛顿与母亲见面的两小时。",
+      "anchor": "We have two hours in Washington, D.C., on March 13th, 1913.",
+      "start": 4047,
+      "end": 4106,
+      "relation": "Ben＝Clara 的男友；Burke 与 Cooper＝掌管时间旅行许可的两位（Dr. Cooper、Burke）",
+      "number": "two hours；March 13th, 1913"
+    },
+    {
+      "fact": "Ben 交代查证过程：Clara 的母亲六年前曾写下 1913 年华盛顿女权游行的详细记述，他据此找到照片中红笔圈出的、她那顶熟悉的帽子。",
+      "anchor": "Six years ago, she wrote up a detailed account of a women’s suffrage parade in Washington, D.C., that took place in 1913.",
+      "start": 2762,
+      "end": 2883,
+      "relation": "母亲 Mrs. Granville 曾用时间旅行能力做咨询工作；Ben＝Clara 的男友",
+      "number": "Six years ago；1913"
+    },
+    {
+      "fact": "1913 年宾夕法尼亚大道人潮中，Ben 喊出「Mrs. Granville!」，Clara 扑进母亲怀里——距上次感受母亲的怀抱已五年。",
+      "anchor": "It’s been five years since I’ve felt my mother’s arms around me, since I’ve smelled the lilac-vanilla perfume she wore.",
+      "start": 7473,
+      "end": 7592,
+      "relation": "Mrs. Granville＝Clara 的母亲；Ben＝Clara 的男友，先出声招呼",
+      "number": "five years"
+    },
+    {
+      "fact": "母亲说漏关键设定：她原打算等 Clara 满二十一岁才告诉她时间旅行的事，而此刻（1913）她还没说过。",
+      "anchor": "“I will when you’re twenty-one. I haven’t yet?”",
+      "start": 8453,
+      "end": 8500,
+      "relation": "母女对话；1913 年的母亲尚未把秘密告诉过 Clara",
+      "number": "twenty-one"
+    },
+    {
+      "fact": "母亲讲述失控起点：她受聘为 The Villa 百年纪念写报告，与 Clara 的父亲回到建成之年的 1894 年作周末旅行。",
+      "anchor": "I was hired to do a report on The Villa for its one-hundredth anniversary, so your father and I decided to make it a weekend trip and go back to the year it was built—1894.",
+      "start": 10144,
+      "end": 10316,
+      "relation": "母亲与 Clara 的父亲同行；Clara 当时已在母亲腹中而不自知（同段后文提及）",
+      "number": "one-hundredth；1894"
+    },
+    {
+      "fact": "母亲继续解释：两人被踢出「路径」落在 1906 年，镜子在他们踏出的那一刻碎裂，此后靠反复实验才找到能安全回到未来的镜子。",
+      "anchor": "We were kicked off the … well, path, for lack of a better word, in 1906 instead. The mirror shattered the moment we stepped out",
+      "start": 10478,
+      "end": 10605,
+      "relation": "父母二人因此流落过去，之后靠实验寻找能安全送他们回未来的镜子",
+      "number": "1906"
+    },
+    {
+      "fact": "Isabelle Allen 认出他们、拖着儿子挤过来；Ben 挡在 Clara 身前并嘱咐 Mrs. Granville 千万别介绍，随后断然说 Clara 不能见 Quentin Allen（「即使才九岁」），带她提前离开，Clara 只碰了母亲的手作别。",
+      "anchor": "“You cannot see Quentin Allen,” Ben says in a tight voice. “Even at nine—and if William is with her?”",
+      "start": 12592,
+      "end": 12693,
+      "relation": "Isabelle Allen＝Mrs. Allen，Quentin（幼年 Quint）的母亲；William 疑为其夫；Ben 与 Clara 的身份必须隐瞒",
+      "number": "nine"
+    },
+    {
+      "fact": "回到 Ben 家后，Clara 查手机确认父母死于火灾的新闻仍在、过去未被改变，随后把自己关在客房哭泣；Ben 在一旁低声向 Burke 或 Cooper 电话汇报此行所见（含 Isabelle Allen 母子的意外出现）。",
+      "anchor": "checked my phone for news of the fire that took my parents, just to see if the past remains unchanged",
+      "start": 13325,
+      "end": 13426,
+      "relation": "Ben＝Clara 的男友；Burke 与 Cooper＝电话另一端的汇报对象（监管者）",
+      "number": null
+    }
+  ]
+}

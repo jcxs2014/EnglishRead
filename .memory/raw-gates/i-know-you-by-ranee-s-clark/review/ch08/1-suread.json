@@ -1,0 +1,70 @@
+{
+  "chapter": "ch08",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben次日独自去拉斐特公园对面总统夫妇在旧金山下榻的宅子打探，让Clara继续睡懒觉、把Clara留在后方；Clara醒来后因被排除在外而失落。",
+      "anchor": "Ben lets me sleep in the next day, but he goes alone to the house across from Lafayette Park where the president and his wife have been while in San Francisco.",
+      "start": 28,
+      "end": 187,
+      "relation": null,
+      "number": null
+    },
+    {
+      "fact": "Ben回到Mrs. Guthrie的音乐室，向Clara低声汇报：他自己没能见到总统，但那名神秘男子昨日求见麦金莱总统，险些被赶出去，直到说服管家让他与总统私人秘书交谈，随后被秘书带去见总统，此后一直随侍在总统身边。",
+      "anchor": "He came to see President McKinley yesterday and was nearly thrown out until he convinced the butler to let him speak to the president’s personal secretary.",
+      "start": 1046,
+      "end": 1201,
+      "relation": "神秘男子求见President McKinley（经butler管家、总统私人秘书引见）；Ben向Clara（叙述者）转述",
+      "number": "yesterday"
+    },
+    {
+      "fact": "Ben与Clara确认麦金莱这次并未在旧金山遇刺、遇刺要到九月才发生，并推断神秘男子是故意穿越回来的；两人倾向认为他来意是坏事，因为他认出Clara后就消失了。",
+      "anchor": "No. It doesn’t happen until September. I can’t figure out how this fits. Did our mystery man come back on purpose?",
+      "start": 1572,
+      "end": 1686,
+      "relation": "Ben与Clara（叙述者）讨论神秘男子的目的；涉及McKinley遇刺一事",
+      "number": "September"
+    },
+    {
+      "fact": "Ben以昨夜之吻为由，要Clara认真考虑答应他的求婚——哪怕只是名义上的便利婚姻，这样两人可以像在现代那样公开约会、互了解更多而不毁掉Clara的名誉。",
+      "anchor": "Why you should agree to marry me, even if it’s just for convenience.",
+      "start": 3149,
+      "end": 3217,
+      "relation": "Ben向Clara求婚（名义婚姻）；承接两人昨夜之吻",
+      "number": null
+    },
+    {
+      "fact": "Clara独自进入Ben的房间对着镜子反复试验，回想Ben自述当年坠落经过：镜面有污痕，他用布擦拭、双手按上镜面查看，随即跌进1899年The Villa的大堂并被迅速赶出。",
+      "anchor": "A moment later, he tumbled into the lobby of The Villa in 1899—and was kicked out as swiftly as I would have been if he hadn’t been around to save me.",
+      "start": 6933,
+      "end": 7083,
+      "relation": "Ben曾于1899年经镜坠入The Villa大堂，并因此救了Clara；此处Clara在Ben房中独自试镜",
+      "number": "1899"
+    },
+    {
+      "fact": "转折点：Clara双手按住镜面顶住能量冲击，双手沉入镜中——通道被成功打开；她不敢抽身，留一只手在通道里防止闭合，转身高喊呼救。",
+      "anchor": "A moment later, I cry out in joy as my hands sink through.",
+      "start": 7986,
+      "end": 8044,
+      "relation": "Clara（Miss Granville）独自在Ben房间开启镜中通道",
+      "number": null
+    },
+    {
+      "fact": "女仆应门受惊后，Clara请她尽快去请Mr. Mitchell（即Ben），强调此事比他手头任何事都重要；女仆困惑地点头退出房间去传话。",
+      "anchor": "Can you fetch Mr. Mitchell as soon as possible? Tell him it’s very important. More important than anything he’s doing right now.",
+      "start": 9007,
+      "end": 9135,
+      "relation": "女仆称呼Clara为Miss Granville；Mr. Mitchell＝Ben",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：Ben赶到后大笑'你成功了'，冲到写字台潦草写下字条（Clara嘱咐就写'我们私奔了'之类），随后与Clara十指相扣；Clara说着'Home'踏进镜子，两人一同通过镜中通道回家。",
+      "anchor": "“Home.” I squeeze his fingers and step into the mirror.",
+      "start": 10394,
+      "end": 10449,
+      "relation": "Clara与Ben（Mr. Mitchell）十指相扣，一同踏入镜中通道回家",
+      "number": null
+    }
+  ]
+}

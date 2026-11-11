@@ -1,0 +1,70 @@
+{
+  "chapter": "ch05",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Clara 下楼与 Ben 会合准备赴旧金山时，Mr. Allen 也在等候同行；此行缘由是麦金莱总统到访旧金山，Ben 极力招呼熟人同去见证（Allen 打趣他，Ben 回敬说 Allen 不过是惦记 Mrs. Guthrie 家的厨子）。",
+      "anchor": "“Ben says your President McKinley is visiting, and he seems quite eager for everyone he knows to witness the event.”",
+      "start": 539,
+      "end": 655,
+      "relation": "Mr. Allen 与 Ben 是互开玩笑的挚友；两人一同护送 Clara（Miss Granville）赴旧金山，Clara 对 Allen 有种莫名的熟悉感。",
+      "number": null
+    },
+    {
+      "fact": "Ben 向 Clara 交代 Mrs. Guthrie 的来历：她曾在旧金山开寄宿公寓，Ben 初落到这时代时受她收留、帮她做事，直到站稳脚跟。",
+      "anchor": "“She had a boarding house in San Francisco,” Ben replies. “She let me stay there and help her until I got on my feet after I arrived.”",
+      "start": 2024,
+      "end": 2158,
+      "relation": "Mrs. Guthrie 是 Ben 初到时代时的收留恩人、如今的旧金山挚友，如同 Ben 之于 Clara 的恩人角色。",
+      "number": null
+    },
+    {
+      "fact": "火车上 Ben 安排装着镜子的特制箱与他们同乘包厢，车每颠一下都伸手护稳；抵达后众人乘 Mrs. Guthrie 派来的 Peugeot 豪车到她的三层砖砌大宅，Clara 下车时腿软、一路抓住 Ben 的手臂。",
+      "anchor": "I grip Ben’s arm and eye the three-level sprawling square structure before me.",
+      "start": 3960,
+      "end": 4038,
+      "relation": "Ben 是 Clara 的护送者与倚靠（她称他为披甲骑士式的恩人）。",
+      "number": "three-level"
+    },
+    {
+      "fact": "Mrs. Guthrie 拥抱亲吻迎接 Ben，随即拿电报里『ward（被监护人）』的说法发难，质问 Clara 是不是被带来的情妇；Ben 笑着起誓保证：Clara 不是情妇，只是需要他帮助的正派姑娘。",
+      "anchor": "“Clara—Miss Granville is not my mistress. I give you my word on that. She’s a very proper girl who needs my help, and that’s all.”",
+      "start": 6141,
+      "end": 6271,
+      "relation": "Mrs. Guthrie 是 Ben 的长辈式挚友；Ben 以人格向她担保 Clara（对外称 ward）的清白。",
+      "number": null
+    },
+    {
+      "fact": "Mrs. Guthrie 话头刚说到『那个邪恶的 Miss Swanson』就被 Ben 一个硬瞪封口；当晚在客房里被 Clara 追问时，Ben 只含糊承认自己当年与 Swanson『卷入得比应有的更深，是个大错』，未再多讲。",
+      "anchor": "“I became more involved than I should have, and it was a big mistake.”",
+      "start": 15076,
+      "end": 15146,
+      "relation": "Miss Swanson 是 Ben 滞留这时代期间的旧日情感纠葛对象；Ben 因此对 Clara 有所隐瞒，Clara 觉察到不安。",
+      "number": null
+    },
+    {
+      "fact": "Ben 向 Clara 剖白 Mr. Allen 的来历：英国旧族已无分文、被家里送去美国娶富妻，他追随一位每年去 The Villa 小住的女子到加州，对方实则另有婚约；Ben 帮他做投资使他不再需要富妻，并说自己钱多到用不完、已做安排但『无法确定那些会不会跟着我回家』，届时托 Will 代为料理。",
+      "anchor": "Will’s smart, though. I helped him make some investments, and he no longer has need of a rich wife.",
+      "start": 9557,
+      "end": 9656,
+      "relation": "Ben 是 William（Mr. Allen）的挚友兼投资恩人；Allen 名义上在纽约置宅安抚母亲、佯装寻妻，实际长住加州。",
+      "number": null
+    },
+    {
+      "fact": "客房里 Ben 严肃抛出本章转折：必须想好『如果回不去二十一世纪』怎么办，并提出两人在此期间应考虑『更长久的关系』；Clara 低声问『像婚姻那样？』，认为不该仓促决定但答应考虑——理由是若再困多年，谁都不该与过去时代的人深交后再抛弃对方。",
+      "anchor": "“We should consider a more permanent relationship … while we’re here.”",
+      "start": 15583,
+      "end": 15653,
+      "relation": "Ben 向 Clara（同困在此的两位未来人）提出权宜婚约式的安排。",
+      "number": "two full days；Ben’s already been stuck for two（Ben 已被困两年）"
+    },
+    {
+      "fact": "Ben 以『Think about it』收尾、道晚安并关门离开；Clara 盯着关上的房门，强压『永远回不了家』的恐惧，自我打气镜子会成功、自己会醒来，章末以孤零零一个词 Something. 收束作钩。",
+      "anchor": "And as he shuts the door, I can only stare at it, trying not to let fear about never going home spread through me.",
+      "start": 16539,
+      "end": 16653,
+      "relation": "Ben 与 Clara（刚互许考虑婚约的同行者）道别，Clara 独处。",
+      "number": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "chapter": "ch15",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "克拉拉（半昏迷中）伸手抚着昆特的脸颊，再次恳求他“别走”；随后在本的轻声呼唤下睁眼醒来。",
+      "anchor": "This time, I ask him, “Don’t go.”",
+      "start": 128,
+      "end": 161,
+      "relation": "昆特＝克拉拉恳求别走、深爱之人；本＝守在床边唤醒她的人",
+      "number": null
+    },
+    {
+      "fact": "本向克拉拉解释为何离开威廉家：不让旧时代的医生取她肩上的子弹，他带她穿过镜子回到现在（安置在自己纽约郊外祖传宅邸，并雇私人医生以免枪伤引来盘问）。",
+      "anchor": "We left William’s house because I wasn’t going to let some doctor in the past butcher you trying to remove a bullet from your shoulder. I took you through the mirror.",
+      "start": 962,
+      "end": 1128,
+      "relation": "本＝救命恩人与守护者；威廉＝艾伦家主人（枪击案发地）",
+      "number": null
+    },
+    {
+      "fact": "本转述昆特的判断：吉本斯那一枪是打来拦阻昆特的，没有打中；昆特迅速穿过镜子逃脱。",
+      "anchor": "It missed Quint. Gibbons was in a hurry, Quint said, just trying to get through the mirror, and he thought Gibbons shot to keep him back.",
+      "start": 3695,
+      "end": 3832,
+      "relation": "吉本斯＝持枪袭击者；昆特＝与克拉拉一同穿越的人；本＝转述者",
+      "number": null
+    },
+    {
+      "fact": "昆特回到现在后即“人间蒸发”（off the grid），库珀医生与伯克正在寻找他，但他受过反追踪训练、难以定位。",
+      "anchor": "“He came back to the present and went off the grid. Dr. Cooper and Burke are looking for him, but he’s trained to be untraceable.”",
+      "start": 4631,
+      "end": 4761,
+      "relation": "库珀医生与伯克＝特遣队成员、昆特的搜寻者",
+      "number": null
+    },
+    {
+      "fact": "克拉拉问昆特1928年在做什么；本答特遣队正在核查，并说麦坎镜仍留在旧艾伦宅邸——昆特的遗嘱写明要让它留在家里。",
+      "anchor": "The McCann mirror was still at the old Allen estate—there was something in Quint’s will about making sure it stayed in the house.",
+      "start": 4831,
+      "end": 4960,
+      "relation": "昆特的遗嘱→麦坎镜（穿越镜）；旧艾伦宅邸＝镜子的所在地",
+      "number": "1928"
+    },
+    {
+      "fact": "本凭昆特送克拉拉的那张（一角沾血渍的）照片查明：克拉拉的父母确曾与艾伦一家同在The Villa，还能把他们的行踪往前追溯约四五年。",
+      "anchor": "“They were definitely at The Villa while the Allens were there, and I could even trace them to the area around it before that—maybe even as long as four or five years.",
+      "start": 6745,
+      "end": 6912,
+      "relation": "克拉拉的父母＝穿越者；艾伦一家＝The Villa别墅住户；照片＝昆特所赠（一角有血渍）",
+      "number": "four or five years"
+    },
+    {
+      "fact": "转折点：本出示一张索引卡照片（克拉拉猜测右上角缩写 S.F. Co. 指旧金山县），克拉拉念出结论——昆特说得对，她生在过去；本补充她父母并非生在过去，她的出生证明是唯一的伪造件（伯克判定为高明伪造）。",
+      "anchor": "Quint was right. “I was born in the past,” I say aloud.",
+      "start": 8221,
+      "end": 8276,
+      "relation": "伯克＝特遣队成员（判定出生证明系伪造）；昆特＝此前判断被证实者；克拉拉父母＝生在未来",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：本递上一页从家史网站打印的记录——昆滕·威廉·艾伦于1939年3月31日娶凯瑟琳·普拉特为妻（时年三十四岁才初婚）；克拉拉几乎惊讶自己读到的不是莉泽特的名字，随后久久不能安睡。",
+      "anchor": "Quinten William Allen, married Catherine Pratt, 31 March, 1939.",
+      "start": 9359,
+      "end": 9422,
+      "relation": "昆滕·威廉·艾伦＝昆特全名；凯瑟琳·普拉特＝其妻；莉泽特＝克拉拉原本以为会看到的名字",
+      "number": "31 March, 1939（另有：1939—he was thirty-four years old）"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "chapter": "ch12",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "在特遣队专机上，Clara 与 Ben 各签两厚夹合同（不得泄露机密、被杀不追责）；Burke 告知两人在登机前就已获安全许可——FBI 局长为 Gibbons 可能威胁国家安全而特批放行。",
+      "anchor": "You had to have security clearance before you even stepped foot on this plane,",
+      "relation": "Burke 是特遣队特工，向新招募的 Ben 与 Clara（穿越搭档）说明；Gibbons 是先期穿越、可能威胁国家安全的特工",
+      "number": "two thick folders of paperwork",
+      "start": 1745,
+      "end": 1823
+    },
+    {
+      "fact": "Dr. Cooper 宣布只用约六小时给两人上速成 Quantico 训练课；Robbins 为两人量体以便落地时备好衣装，Willis 在得知 Gibbons 身处 1928 后就赶制服装，最终只交出一人一套。",
+      "anchor": "We need to get both of your measurements so we can have your wardrobe ready by the time we touch down",
+      "relation": "Dr. Cooper 是特遣队负责人之一；Adele Robbins 是 FBI 特工；Willis 是队里的服装师，为 Ben 与 Clara 备装",
+      "number": "about six hours or so; 1928; in ten hours",
+      "start": 2985,
+      "end": 3086
+    },
+    {
+      "fact": "研究部门主管 Porter 简报：两人将从上东区一栋 1920 年代建、已改成三户的联排宅邸的二楼镜面穿越；Gibbons 从一份镜面传送报告得知这些房子，Porter 推断那可能就是他 1908 年到达之处；最可能帮忙的联系人是在 Hudson 河谷 Gracewoods 庄园的 William Allen；手机藏入香烟盒/手包，超一周不开即自毁。",
+      "anchor": "That’s probably where he arrived in 1908.",
+      "relation": "Gwen Porter 是特遣队研究部门主管，向 Ben、Clara 简报；William Allen 是 Ben 在 1900 年代结交的老友；Gibbons 是失踪的穿越特工",
+      "number": "the 1920s; three separate units; 1908; more than a week",
+      "start": 8227,
+      "end": 8268
+    },
+    {
+      "fact": "Dr. Cooper 率队出发，提醒 Gibbons 至少比他们早到十二小时；一小时后车抵黎明中的纽约联排屋前，Ben 给母亲打电话谎称研究旅行，Clara 给 Morgan 发短信报备（Morgan 回了心形眼表情）。",
+      "anchor": "Gibbons has at least twelve hours on you, likely more.",
+      "relation": "Dr. Cooper 是特遣队负责人，对 Ben 与 Clara 交代；Morgan 是 Clara 的好友；Gibbons 是先行穿越者",
+      "number": "at least twelve hours; An hour later",
+      "start": 10535,
+      "end": 10589
+    },
+    {
+      "fact": "Clara 手掌贴上宅内玄关镜面，镜面数秒内变水状、手沉入其中；她害怕这次回不去，Ben 说这次一起走，两人十指相扣一同穿过镜面，摔落在一间摆满座椅沙发的房间。",
+      "anchor": "We’re going together this time.",
+      "relation": "Ben 与 Clara 是一起穿越的搭档（关系介于朋友与恋人之间、尚未命名）；此前 Clara 曾被认定能控制镜面传送门",
+      "number": null,
+      "start": 14406,
+      "end": 14437
+    },
+    {
+      "fact": "两人落地后被一名女仆撞见，Ben 谎称已等候 McCann 先生半个多小时并化名 Johnson，趁女仆去通报时溜出宅邸；随后 Ben 以一美元向报童买报，从报纸确认当天日期为 1928 年 7 月 25 日。",
+      "anchor": "July 25th, 1928.",
+      "relation": "女仆是宅邸仆人、不认识两人；Ben 化名 Johnson 应对；报童是街头卖报的男孩",
+      "number": "over half an hour; a dollar; July 25th, 1928",
+      "start": 16637,
+      "end": 16653
+    },
+    {
+      "fact": "在 Gracewoods，Ben 向 William 坦白真相：1900/1901 年相识时他们来自未来，当年并未私奔、而是回到了自己的时代；William 先斥为荒唐，最终接受并答应帮助（出资金、找人），还以「老友的后代」为名向管家介绍两人（Clara 被称作 Ben 的妹妹 Miss Mitchell）。",
+      "anchor": "We didn’t elope when we disappeared from Mrs. Guthrie’s. We returned to our own time period.",
+      "relation": "William Allen 是 Ben 在 1900 年代的挚友（Ben 视其如兄弟），二十多年未见；Clara 1901 年曾住在 Mrs. Guthrie 的 The Villa；William 之妻为 Isabelle",
+      "number": "in 1900; in 1901; over twenty years",
+      "start": 24824,
+      "end": 24916
+    },
+    {
+      "fact": "William 介绍其子 Quinten——容貌与 Clara 当年在 The Villa 见过的年轻 William 一模一样，Clara 对他生出前世般的熟稔感；Quint 自报二十三岁并邀她共舞华尔兹；章末 Clara 离席回房时感到 Quint 的目光如火焚身，以致检查裙子是否被烧焦。",
+      "anchor": "I feel it as though it has sparked a fire inside me",
+      "relation": "Quinten（Quint）是 William 与 Isabelle 之子，容貌与 Clara 当年在 The Villa 认识的年轻 William 一模一样；Quint 误以为 Clara 是 Ben 的妻子，后被告知是妹妹",
+      "number": "twenty-three",
+      "start": 41588,
+      "end": 41639
+    }
+  ]
+}

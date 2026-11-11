@@ -1,0 +1,403 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/ch04 still stuck and off to san francisco.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/text/ch04_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Maybe I'm still unconscious, though I think that someone should probably find me soon. Or they have and I'm still in a c",
+          "ok": true,
+          "pos": 1448
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "And to think that Aunt Vi worried about what use my research degree and my historical blog could be. Saved me some embar",
+          "ok": true,
+          "pos": 3368
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Funny the things you don't think about when you're falling through a mirror and into the past—like how much you'll miss ",
+          "ok": true,
+          "pos": 5213
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It's such a modern way to sit and so out of character for him that I tilt my head to the side. Then I smile because at l",
+          "ok": true,
+          "pos": 6163
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "President McKinley is also going to be in San Francisco tomorrow, and the teacher in me can't pass up the opportunity to",
+          "ok": true,
+          "pos": 8658
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "'Hey, Mom. Trapped in the past. Please send help. Otherwise I'm fine.'” He chuckles and shakes his head. “Is anyone even",
+          "ok": true,
+          "pos": 10131
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There was no explanation. Your car was there, your phone was sitting on the counter, nothing in the apartment was distur",
+          "ok": true,
+          "pos": 11238
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She was getting older, yes, but there'd been nothing to predict her sudden absence. Since my parents' death, she'd been ",
+          "ok": true,
+          "pos": 13437
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I was inspecting it, trying to decide if it was real. The surface is pristine for a historical piece. Then—bam.” He shru",
+          "ok": true,
+          "pos": 17768
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Maybe that means eventually there will be enough.\" His expression is full of hope, and that sends a shiver through me",
+          "ok": true,
+          "pos": 18504
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "One of the many eccentricities the staff are used to here,\" he says in a low voice. \"I take the mirror everywhere I go",
+          "ok": true,
+          "pos": 20552
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "But I know it will be thrilling. And with Ben by my side, nothing can go too wrong, can it",
+          "ok": true,
+          "pos": 21697
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.59
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 9,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4136,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

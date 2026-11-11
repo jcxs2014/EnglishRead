@@ -1,0 +1,70 @@
+{
+  "chapter": "ch22",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "午餐时叙述者压下想告诉Quint某个『小女孩』记忆的冲动，只问Ben去向；Quint转述Ben一早外出继续侦探工作，并受托留守以防Gibbons来宅里找她。",
+      "anchor": "“He asked me to stay behind in case Gibbons got any ideas about trying to find you here.”",
+      "start": 703,
+      "end": 792,
+      "relation": "Ben＝叙述者同伙（对外以Mitchell兄妹示人，Kitty称其为她的哥哥）；Quint＝宅邸主人、Ben之友；Gibbons＝追踪叙述者的反派",
+      "number": null
+    },
+    {
+      "fact": "Kitty与Florence到访图书馆时，Quint当着Kitty宣称叙述者已订婚以撇清嫌疑；叙述者当场回敬说婚约‘复杂’、自己未必会完婚，随后又抛出‘旧情人未忘情’的编造故事刺Quint。",
+      "anchor": "“It’s actually rather complicated,” I say. I want Quint to hear my honesty. “I’m not sure I’ll go through with it.”",
+      "start": 3415,
+      "end": 3530,
+      "relation": "Kitty（Miss Pratt）＝Quint的未婚妻；Florence＝Kitty的姐妹；叙述者对外被称作Quint家的‘老朋友’",
+      "number": null
+    },
+    {
+      "fact": "叙述者从书架抽出一排Jane Austen中的《Persuasion》，轻声朗读‘八年半前’的告白段落自况旧情，随后独自带书到树林池塘边的长凳上阅读。",
+      "anchor": "I offer myself to you again with a heart even more your own, than when you almost broke it eight years and a half ago.",
+      "start": 6635,
+      "end": 6753,
+      "relation": "朗读内容暗示叙述者对Quint旧情未断（I have loved none but you）",
+      "number": "eight years and a half"
+    },
+    {
+      "fact": "Ben那晚与次日都未归，到第四天将尽时（Pratt姐妹晚餐后离开当晚）突然回到图书馆，自称此行侦察‘quite successful’，并要Quint确保无人打扰、闭门密谈。",
+      "anchor": "“I was quite successful,” he answers. He turns to Quint. “You ought to make sure no one disturbs us.”",
+      "start": 9749,
+      "end": 9850,
+      "relation": "Ben＝叙述者同伙、刚完成外线侦察归来；Quint＝配合清场的东道主",
+      "number": "the fourth day draws to a close"
+    },
+    {
+      "fact": "Ben从香烟盒夹层里取出手机向Quint展示，称之为‘portable telephone’；Quint第一次见到手机，目瞪口呆。",
+      "anchor": "He pulls out his cigarette case, laying his finger across the indentation on top so it opens, and pulls out his phone.",
+      "start": 10721,
+      "end": 10839,
+      "relation": "Ben＝来自未来、随身携带现代科技者；Quint＝1920年代人物、首次见手机",
+      "number": null
+    },
+    {
+      "fact": "三人同看手机里的照片与视频：Quint认出画面中的男人是Lord Bailemore——伦敦外交部高层、娶美国人、比国王还富；叙述者指出他1928年在纽约Plaza结婚，正是她与Quint此前交给Ben的名单事件之一。",
+      "anchor": "“Yes, of course. Lord Bailemore. He works quite high up in the Foreign Office in London—married to an American. And he’s richer than the king. What is he doing in New York?”",
+      "start": 11465,
+      "end": 11638,
+      "relation": "Lord Bailemore＝英国外交部高官、美国人之夫；Gibbons＝与Bailemore在纽约密会的反派；名单提供者＝叙述者与Quint",
+      "number": "1928"
+    },
+    {
+      "fact": "视频记录Gibbons向Bailemore推销生物毒剂：一名妇女被当众灌服毒剂致死示威；Gibbons宣称数周内可灭伦敦人口、数月内灭全英格兰，解毒白药丸开价每片两万美元，Bailemore最终说‘Done’成交。",
+      "anchor": "No. The key to power I promised you is a biological agent so powerful I can wipe out the population of London in a matter of weeks—and all of England within months.",
+      "start": 14037,
+      "end": 14201,
+      "relation": "Gibbons＝出身特务的反派（曾对叙述者开枪射杀）；Bailemore＝出钱买毒的英国贵族；受害妇女＝被Gibbons手下拖入的演示品",
+      "number": "in a matter of weeks—and all of England within months；Twenty thousand dollars per pill"
+    },
+    {
+      "fact": "结尾钩子：Ben宣布计划把Gibbons诱到Quint家、在他动手前将其送回未来，请Quint召集朋友在宅邸四周设严密警卫，并从外套里掏出一整包白色小药丸（‘Because I have these.’）。",
+      "anchor": "Ben pulls a package from his jacket and reveals a thick plastic package full of tiny white pills.",
+      "start": 19543,
+      "end": 19640,
+      "relation": "Ben＝设局者；Quint＝提供宅邸与人手；Gibbons＝被诱捕目标",
+      "number": null
+    }
+  ]
+}

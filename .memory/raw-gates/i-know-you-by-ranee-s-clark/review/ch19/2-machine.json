@@ -1,0 +1,349 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/ch19 the depot and the fiancee.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-know-you-by-ranee-s-clark/text/ch19_chapter_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He takes out a small, red gift box and holds it out. \"You don't have to answer. It doesn't need to mean anything yet. I ",
+          "ok": true,
+          "pos": 3012
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When I see the ring inside, my breath catches in my throat. It looks vintage, authentically so. The main diamond is smal",
+          "ok": true,
+          "pos": 3408
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "1938,\" Burke says in his deep, reverberating voice. So fitting, since the year rings in all of our heads",
+          "ok": true,
+          "pos": 6245
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Quint Allen bought four mirrors a year from 1929 to 1938. One every season.\" Dr. Cooper pushes a magazine article, print",
+          "ok": true,
+          "pos": 7746
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "That piece of me—much larger than I've led myself to believe—swells and lodges itself in my throat. He believed I'd come",
+          "ok": true,
+          "pos": 8391
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He's taller, at least by a few inches, and his shoulders are much broader. He looks so sharp in a black dinner jacket, b",
+          "ok": true,
+          "pos": 18114
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Fiancée,\" I whisper the same time Quint finishes his sentence on the same word",
+          "ok": true,
+          "pos": 22931
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I know I'm quite impertinent—the Allens always tell me so, but bless their hearts, they still keep me on",
+          "ok": true,
+          "pos": 28497
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I have always known you had your own mind",
+          "ok": true,
+          "pos": 30358
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "My mind betrays me, however, because the second I fall asleep, Quint joins me in my dreams",
+          "ok": true,
+          "pos": 33011
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.51
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 9,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6283,
+    "block_target": [
+      11,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

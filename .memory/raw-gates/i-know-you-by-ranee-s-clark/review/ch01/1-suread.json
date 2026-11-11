@@ -1,0 +1,70 @@
+{
+  "chapter": "ch01",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Clara（叙述者）在挚友兼前室友 Morgan 帮忙下搬进 The Villa 的公寓；Morgan 挡在门口质疑她搬进这个满是灰尘的地方。",
+      "anchor": "I step around my best friend and former roommate, Morgan, who’s currently blocking the doorway of my condo.",
+      "start": 106,
+      "end": 213,
+      "relation": "Morgan＝Clara 的挚友兼前室友（两人刚结束合租）",
+      "number": null
+    },
+    {
+      "fact": "Clara 拥有这套公寓是因为姑婆 Vi 六个月前去世时把房子留给了她；房子一直在家族手里。",
+      "anchor": "I only own this condo because my great-aunt Vi left it to me when she died six months ago, and it’s been in the family for ages.",
+      "start": 1012,
+      "end": 1140,
+      "relation": "Aunt Vi＝Clara 的 great-aunt（姑婆），已去世；公寓由她遗赠",
+      "number": "six months ago"
+    },
+    {
+      "fact": "Aunt Vi 租客的租约上个月到期、租客选择不续租，促使 Clara 决定搬进这处她觉得能疗伤的公寓。",
+      "anchor": "The lease being up last month for Aunt Vi’s tenant, and them choosing not to renew it, was the nudge I needed to move into the condo.",
+      "start": 1756,
+      "end": 1889,
+      "relation": "租客＝Aunt Vi 生前公寓的承租人（即后文的 Mitchell 家）",
+      "number": "last month"
+    },
+    {
+      "fact": "买完晚饭回到公寓走廊时，Clara 看见一个隐约眼熟、身高六英尺出头的壮硕中年男子正从她的房门口走向大堂，她出声打招呼。",
+      "anchor": "He looks vaguely familiar. Middle-aged, I think. Tall, over six feet, with muscled arms and broad shoulders.",
+      "start": 4074,
+      "end": 4182,
+      "relation": "陌生男子，身份不明（Clara 觉得隐约眼熟）",
+      "number": "over six feet"
+    },
+    {
+      "fact": "Clara 对男子说明自己今天搬进 1F 并求证他刚才是否站在她门口；男子冷冷回了句 Excuse me? 后摇头径直走出大门，没有回头。",
+      "anchor": "I thought you were just at my door. I moved into 1F today.",
+      "start": 4300,
+      "end": 4358,
+      "relation": "陌生男子对 Clara 的求证回避否认，态度生硬",
+      "number": "1F"
+    },
+    {
+      "fact": "Clara 说若男子认识前住户，就该知道那人两年前失踪——这是人尽皆知的事（Everyone knows that）。",
+      "anchor": "But if he knew him, he’d know he disappeared two years ago.",
+      "start": 5217,
+      "end": 5276,
+      "relation": "所指前住户＝Ben Mitchell，Aunt Vi 生前的租客",
+      "number": "two years ago"
+    },
+    {
+      "fact": "Clara 回忆当年与 Aunt Vi 一起开门让警察进屋搜查 Ben Mitchell 下落的线索；警方从未怀疑此处发生凶案，Mitchell 家曾继续付租一段时间。",
+      "anchor": "I remember coming out with Aunt Vi to open the apartment for the police so they could search for clues about where Ben Mitchell might have gone, but they never suspected foul play here.",
+      "start": 6267,
+      "end": 6452,
+      "relation": "Aunt Vi＝Clara 的姑婆；Ben Mitchell＝其前租客（Aunt Vi 曾很喜欢他，他的失踪令她心碎）",
+      "number": null
+    },
+    {
+      "fact": "结尾钩子：凌晨两点多（从早六点忙到现在）Clara 仍无法入睡；脑中响起 Aunt Vi 的安慰 You are not alone, sweetie. You've got me.，她向黑暗低语 Not anymore。",
+      "anchor": "Not anymore,” I whisper to the darkness.",
+      "start": 10062,
+      "end": 10102,
+      "relation": "Aunt Vi＝已故姑婆，此处是 Clara 记忆中的声音",
+      "number": "past two in the morning; since six"
+    }
+  ]
+}

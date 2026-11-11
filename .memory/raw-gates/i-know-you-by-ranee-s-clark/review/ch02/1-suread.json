@@ -1,0 +1,70 @@
+{
+  "chapter": "ch02",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "周一下午，叙述者下班回家路上在 Target 买了白床单、白色羽绒被和几个枕头，想为公寓营造维多利亚式雅致风格。",
+      "anchor": "On Monday afternoon I stop by Target on my way home from my part-time job at the library",
+      "start": 26,
+      "end": 114,
+      "relation": null,
+      "number": "Monday afternoon"
+    },
+    {
+      "fact": "叙述者在步入式衣橱找毯子箱时透露：父母双亡，遗物大多毁于火灾，储藏多年的纪念物箱子她仍不敢整理。",
+      "anchor": "So much of their stuff was destroyed in the fire.",
+      "start": 1081,
+      "end": 1130,
+      "relation": "叙述者的父母（已双亡）",
+      "number": null
+    },
+    {
+      "fact": "她发现衣橱里一面此前未注意到的精美旧镜子（斜靠在墙左侧），打算稍后打电话问楼下办公室：这是否是前住户 Ben Mitchell 家搬走时落下的。",
+      "anchor": "I’ll have to call down to the office later and see if it’s Ben Mitchell’s and it accidentally got left behind when his family cleared out the condo.",
+      "start": 1322,
+      "end": 1470,
+      "relation": "Ben Mitchell：这间公寓的前住户（其家族已搬离）",
+      "number": null
+    },
+    {
+      "fact": "她看到镜子灰尘上有位置怪异的双掌手印（掌心朝下按在镜子正中），且手掌明显太大、不可能是 Morgan 留下的。",
+      "anchor": "The hands are also way too big to be Morgan’s.",
+      "start": 2061,
+      "end": 2107,
+      "relation": "Morgan：几天前帮她把毯子从箱子里取出来的人",
+      "number": null
+    },
+    {
+      "fact": "她联想到曾出现在她门外的那个男人，怀疑对方是否进过她的公寓、又为何会站在镜子前按下手印。",
+      "anchor": "My brain flashes to the man who was outside my door.",
+      "start": 2110,
+      "end": 2162,
+      "relation": "门外男子：可疑陌生人（曾在她门外出现）",
+      "number": null
+    },
+    {
+      "fact": "她用手指掠过镜面被电了一下；据她说自己每次靠近镜子都会积聚额外静电，而这次的电击比平时强得多。",
+      "anchor": "Every time I’m close to mirrors, it’s like I gather extra static electricity.",
+      "start": 2450,
+      "end": 2527,
+      "relation": null,
+      "number": null
+    },
+    {
+      "fact": "她拿出手机想拍下镜子，并模仿手印把一只手掌贴上镜面，随即遭到比之前更强的电击——痛呼失衡、手机脱手、向前扑倒。",
+      "anchor": "The same shock as before, but a lot stronger this time, shoots up my arm.",
+      "start": 3273,
+      "end": 3346,
+      "relation": null,
+      "number": null
+    },
+    {
+      "fact": "章末钩子：她（抱着必摔的预期）径直穿进/跌进了镜子里。",
+      "anchor": "Then I tumble right through it.",
+      "start": 3564,
+      "end": 3595,
+      "relation": null,
+      "number": null
+    }
+  ]
+}

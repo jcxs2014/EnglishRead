@@ -1,0 +1,70 @@
+{
+  "chapter": "ch14",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "早晨 Ben 拒绝 Clara 随行进城，理由是 1928 年一群人行动、尤其带着女人会惹怀疑，只给她留了“开接应车”的任务，并许诺回家后会尽力查她父母是否也会走镜子通道；Clara 只好留下向 Mrs. Allen 打听父母旧事，但二十年前的通信往来记忆只围绕孩子，没有她母家（Mrs. Granville 一侧）的具体线索。",
+      "anchor": "It’s a fact of life in 1928, Clara. You have to deal with it.",
+      "start": 426,
+      "end": 487,
+      "relation": "Ben 与 Clara 是一同穿越到 1928 执行任务的搭档、感情未定（Quint 之父曾以为两人私奔）；Mrs. Allen 是 Allen 家主母、Quint 之母。",
+      "number": "1928; twenty years"
+    },
+    {
+      "fact": "下午 Quint 到图书馆把 Clara 带走，开车带她进纽约市：先在一个仅容约五十名观众的小剧场看非全本《睡美人》芭蕾，再带她去俱乐部跳舞、吃晚饭；其间 Lizette 招手邀他们同桌，Quint 把 Clara 介绍为“Clara Mitchell”、称两家父亲是至交，并入席前当众吻她以示宣告；两人直到过了午夜才回到 Gracewoods。",
+      "anchor": "He drives us into the city, taking me to a small theatre with hardly room for fifty spectators.",
+      "start": 7253,
+      "end": 7348,
+      "relation": "Quint 是 Allen 家独子、正向 Clara 示爱；Lizette 是 Allen 母子想拉进其母慈善会董事会的富家女；Clara 对外用假名 Mitchell。",
+      "number": "fifty spectators; well past midnight"
+    },
+    {
+      "fact": "深夜回府 Ben 在楼梯口等候并质问 Clara 去向；他自述当天与 William 回 Plaza 向员工和客人逐一打听，比以往更确信 Gibbons 不想被找到；两人为“以保护之名排除她”再起争执，最后 Clara 不情愿地递橄榄枝道歉，Ben 无声离开。",
+      "anchor": "We went back to the Plaza and spoke with the staff and guests to see if anyone had talked to him … I’m more sure than ever that he doesn’t want to be found.",
+      "start": 21797,
+      "end": 21953,
+      "relation": "Ben 与 William（Quint 之父）搭档侦查；Gibbons 是 black ops（黑行动）出身、正在追捕的危险目标。",
+      "number": null
+    },
+    {
+      "fact": "次日 Clara 与 Quint 在图书馆翻遍本地报纸排查 Gibbons 来 1928 纽约的动机（Quint 请管家 Mrs. Barrow 取来所有本地报纸），午前把候选事件清单（含当天 Plaza 一场英国贵族婚礼）托信使送往下 William 与 Ben 搜索的区域；当晚迟归的 Ben 称只跑完约一半活动但“终于有了计划”，并安排 Clara 次日赴午宴侦查、顺路取回 McCann 镜子。",
+      "anchor": "We only got to about half the events today, but it’s something, Clara, it’s really something.",
+      "start": 31400,
+      "end": 31493,
+      "relation": "Ben 承认 Clara 的贡献并让步；Quint 是“翻报纸”方案的提出者；Mrs. Barrow 是管家。",
+      "number": "about half the events"
+    },
+    {
+      "fact": "Clara 独自混进 St. Regis 酒店餐厅的午宴（纽约州州长夫人 Mrs. Smith 主持、受邀者五十多人便于隐身，Quint 在馆外把风），查遍全场仅有的男侍者后一无所获；随后到 McCann 宅由四名仆人把镜子抬上 Quint 车后座运回 Gracewoods，回府后叫园丁 Coles 用约十分钟拆箱，她独自留下对着镜子出神。",
+      "anchor": "The size has allowed for Mrs. Smith, the wife of the governor of New York, to invite well over fifty people, making it less likely that anyone will pick me out as not belonging.",
+      "start": 35547,
+      "end": 35724,
+      "relation": "Mrs. Smith 是纽约州州长夫人；Coles 是园丁、宅内仅有的男性员工之一；这面 McCann 镜即 Clara 与 Ben 穿越到 1928 所用的通道镜。",
+      "number": "well over fifty people; four servants; ten minutes"
+    },
+    {
+      "fact": "Quint 从 Allen 家相册（最早到 1850 年代）翻出关键照片：一张布满折痕的旧照里，金发小男孩与一个小女孩牵手而立，旁边坐着 Mrs. Allen 与另一位牵着小女孩的女士；Clara 认出布景是 The Villa、男孩是幼年 Quint、那位女士正是自己的母亲——她几乎确信照片里的女孩就是她自己，即她和母亲当年确实来过这个时代。",
+      "anchor": "It’s of the golden-haired boy with his delightful little dimples, standing next to a little girl, their hands clasped together.",
+      "start": 44046,
+      "end": 44173,
+      "relation": "照中男孩为六岁的 Quint、小女孩为四岁的 Clara；坐者一为 Mrs. Allen、一为 Clara 的母亲（Mrs. Granville）。",
+      "number": "1850s; six years old; four"
+    },
+    {
+      "fact": "Quint 求 Clara 留下：他直说“I love you”、称自己“从见你第一眼起就太迟了”，并反复说“Stay with me”；Clara 以“Heaven help me, Quint, I can't”回绝，与他吻别后逃出书房、奔向玄关。",
+      "anchor": "Heaven help me, Quint, I can’t.",
+      "start": 48034,
+      "end": 48065,
+      "relation": "Quint 向 Clara 求爱被拒——Clara 认定自己必须回到二十一世纪（且带他回去会有严重后果）。",
+      "number": null
+    },
+    {
+      "fact": "Clara 在玄关撞上一个眼熟的男人，对方直呼其真名“Clara Granville”，她当场认出是 Simon Gibbons；他厉声追问“McCann 镜子在哪里”、警告她少管闲事，随即抬臂开枪——枪响击中她左肩、她被打倒在地；Quint 闻声冲来又中枪（再一声枪响、惨叫、木头碎裂），倒在她身旁喊 Mrs. Allen 去找 Ben 和他父亲；Clara 随即陷入昏迷——本章以此收尾。",
+      "anchor": "Pain shoots through my left shoulder and something throws me to the ground.",
+      "start": 51350,
+      "end": 51425,
+      "relation": "Gibbons 是 black ops 背景、曾在 Grand Army Plaza 有存档照片、此前还从 Clara 的 condo 出来时被她撞见的反派；Quint 中枪后仍护在 Clara 身边。",
+      "number": null
+    }
+  ]
+}

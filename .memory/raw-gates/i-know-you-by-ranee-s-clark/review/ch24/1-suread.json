@@ -1,0 +1,70 @@
+{
+  "chapter": "ch24",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "吉本斯（Simon Gibbons）潜入近二十名守卫看护宅子里的克劳拉卧室，捂住她的嘴、用装了消音器的枪抵住她的头，自称受过 CIA 训练，胁迫她指挥守卫只叫 Ben Mitchell 一人带药来，否则开枪。",
+      "anchor": "How in the world did I manage to get into your bedroom with almost twenty men guarding this house",
+      "start": 95,
+      "end": 192,
+      "relation": "Gibbons 是本章反派（infamous Simon Gibbons），受 CIA 训练；守卫是 Quint Allen 布置的；克劳拉是叙述者",
+      "number": "almost twenty men"
+    },
+    {
+      "fact": "克劳拉拉开房门，指示守门的园丁 Coles 只去请 Mr. Mitchell（Ben）一个人来，说她的性命全系于此，并要求他办完事不许告诉任何人。",
+      "anchor": "I need you to bring Mr. Mitchell here—Mr. Mitchell and no other.",
+      "start": 2832,
+      "end": 2896,
+      "relation": "Coles 是守她房间的园丁、宅子里待得最久的人；Mr. Mitchell 即 Ben，是她的男友",
+      "number": null
+    },
+    {
+      "fact": "Ben 把鼓胀塑料袋装着的药丸丢在地上踢给 Gibbons；Gibbons 威胁若 Ben 带任何人回来就当场击毙他的女友，随后要求 Ben 撤掉手下、放他与女孩不受阻拦地走出宅子。",
+      "anchor": "I will kill the girl and any man who gets within twenty feet of me.",
+      "start": 5670,
+      "end": 5737,
+      "relation": "Ben Mitchell 是克劳拉的男友（Gibbons 称她 your girlfriend）；Gibbons 持枪劫持克劳拉",
+      "number": "twenty feet"
+    },
+    {
+      "fact": "Gibbons 押着克劳拉从仆人出口离开，守卫举枪但 Ben 大喊让他们退下；Quint 想追来被 Ben 抓住手臂，只能喊着她的名字看她被拖上车，在车后无助地追跑。",
+      "anchor": "watch Quint run helplessly after the car.",
+      "start": 7408,
+      "end": 7449,
+      "relation": "Quint Allen 是克劳拉的恋人（她想到 kissing Quint、无法再离开他）；Ben 拉住 Quint",
+      "number": null
+    },
+    {
+      "fact": "克劳拉双手被 zip ties 绑到身后、双脚绑在直背木椅腿上，被关在下东区一栋肮脏房子里；她决意赶在 Gibbons 把药丸和计划带去德国消失之前，摧毁楼下的实验室。",
+      "anchor": "I need to destroy the lab downstairs.",
+      "start": 8615,
+      "end": 8652,
+      "relation": "绑架并看守她的是 Gibbons；地点为下东区（Lower East Side）一栋房子，实验室在其楼下",
+      "number": null
+    },
+    {
+      "fact": "Gibbons 拿出刀割断她的绳索放她去洗手间；克劳拉趁机膝撞其裆部、用手掌根击碎他的鼻子，趁他踉跄逃出房间冲向厨房——她记得那里每面墙都摆满 Ben 视频里见过的化学品架子。",
+      "anchor": "I shove the heel of my hand up into his face, making cringe-inducing contact with his nose and feeling it break.",
+      "start": 10041,
+      "end": 10153,
+      "relation": "Gibbons 是持刀看守（自称数日内会比 Mr. Mitchell 梦想的更富有）；Ben 曾拍过该实验室房间的视频",
+      "number": null
+    },
+    {
+      "fact": "克劳拉在楼下大厅撞上 Lord Bailemore，被其搂抱猥亵后用头猛撞他的额头挣脱，再与追来的 Gibbons 徒手搏斗，用的是 Burke 训练过她的招式。",
+      "anchor": "I swing my head forward, slamming it into Lord Bailemore’s with a satisfying crack—and a rip of pain.",
+      "start": 12358,
+      "end": 12459,
+      "relation": "Lord Bailemore 是 Gibbons 的同伙（Gibbons 称他 my lord，说欢迎占有她）；Burke 是训练克劳拉格斗的教官",
+      "number": null
+    },
+    {
+      "fact": "克劳拉闯进厨房接连拉倒整架玻璃化学品，把煤气灶旋钮拧到最大，再把毛巾扔上煤气壁灯引燃气体；Gibbons 对 Bailemore 喊不许开枪（会炸飞整栋房子），她在爆炸把她抛上人行道的同时冲出大门逃到街上。",
+      "anchor": "before an explosion throws me hard to the sidewalk.",
+      "start": 16254,
+      "end": 16305,
+      "relation": "Gibbons 与 Lord Bailemore 都在厨房外追堵她；实验室化学品即存于该厨房",
+      "number": null
+    }
+  ]
+}

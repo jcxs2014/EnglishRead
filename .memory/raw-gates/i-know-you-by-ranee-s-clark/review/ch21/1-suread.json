@@ -1,0 +1,70 @@
+{
+  "chapter": "ch21",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "本（Ben）六小时前追着吉本斯（Gibbons）跑了，克莱拉在昆廷（Quint）家的书房里不停踱步等待，担心他倒在城里某条水沟。",
+      "anchor": "Six hours since Ben ran after Gibbons.",
+      "start": 1359,
+      "end": 1397,
+      "relation": "本与克莱拉是恋人/搭档，刚去追踪吉本斯；克莱拉暂住昆廷家",
+      "number": "Six hours"
+    },
+    {
+      "fact": "昆廷把一包用丝带系好的信交给克莱拉——是克莱拉的母亲写给艾伦夫人的信，由昆廷的母亲在克莱拉离开后找到。",
+      "anchor": "He hands me a packet of letters, tied with a ribbon.",
+      "start": 2928,
+      "end": 2980,
+      "relation": "写信人是克莱拉的母亲，收信人是昆廷的母亲（艾伦夫人）；昆廷与克莱拉是旧情",
+      "number": null
+    },
+    {
+      "fact": "本深夜从前门回来，说自己在下东区盯着某栋老房子、又冷又饿——两人由此得知吉本斯的落脚处。",
+      "anchor": "Watching some old house in the Lower East Side, getting cold and hungry.",
+      "start": 6452,
+      "end": 6524,
+      "relation": "本与克莱拉是恋人；吉本斯是他们追踪的对象",
+      "number": null
+    },
+    {
+      "fact": "卧室争吵中本自曝：在那孤独的两年里他曾以为自己爱上了斯旺森小姐（Miss Swanson），并为此几乎名誉扫地、以“休养”为名离开数月。",
+      "anchor": "Do you want me to say that I loved Miss Swanson? I thought I did.",
+      "start": 12633,
+      "end": 12698,
+      "relation": "斯旺森小姐是本过去（两年孤独期）的感情对象；本正对恋人克莱拉发泄不满",
+      "number": "those lonely two years; months away on supposed recovery"
+    },
+    {
+      "fact": "本抓住克莱拉的手腕把她拽到胸前强行亲吻；克莱拉哀求停下、再次用力挣脱，终于脱身逃离。",
+      "anchor": "I push again and finally break away.",
+      "start": 13850,
+      "end": 13886,
+      "relation": "本与克莱拉是恋人（克莱拉尚未答应他的求婚）",
+      "number": null
+    },
+    {
+      "fact": "克莱拉把花瓶摔碎发泄情绪；昆廷以为有人袭击，持（疑似皇家空军配发的）手枪冲进房间，把她护到走廊。",
+      "anchor": "He swings the point of his presumably RAF-issued pistol into all the corners as he backs me out into the hall.",
+      "start": 15458,
+      "end": 15568,
+      "relation": "昆廷是克莱拉的旧情兼守护者，比她大九岁",
+      "number": null
+    },
+    {
+      "fact": "昆廷看到床头柜上打开的戒指盒，问克莱拉是否已与本订婚；克莱拉承认还没答应——因为要等到“忘掉昆廷”才行。",
+      "anchor": "You’re engaged to Ben?",
+      "start": 17076,
+      "end": 17098,
+      "relation": "戒指是本的（克莱拉尚未答应）；昆廷是克莱拉的旧情",
+      "number": null
+    },
+    {
+      "fact": "昆廷说自己已重建生活、需要妻子和家庭、“对基蒂不公平”，随后仍吻了克莱拉，又道歉拿起手枪离开；克莱拉跌坐在地板上，回忆中第一次浮现一个金色眼睛的小女孩（结尾钩子）。",
+      "anchor": "For the first time, a little girl with golden eyes dances through them.",
+      "start": 19723,
+      "end": 19794,
+      "relation": "基蒂（Kitty）是昆廷打算娶的对象；昆廷与克莱拉是旧情",
+      "number": null
+    }
+  ]
+}

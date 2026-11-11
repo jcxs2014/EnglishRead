@@ -1,0 +1,70 @@
+{
+  "chapter": "ch16",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Ben 认为休息够了以后，Dr. Cooper 到 Ben 在纽约的宅邸给 Clara 做正式问询，用笔记本记录并录音；Clara 追问团队的未来并请求查明自己为何生于过去、父母为何旅行，Cooper 明确说未经授权不得再进行时间旅行、『在了解更多之前绝对不行』，但离开前留下『也许』的余地。",
+      "anchor": "We can’t allow you to travel without authorization.",
+      "start": 1405,
+      "end": 1456,
+      "relation": "Dr. Cooper 是 Clara 所在时间旅行团队（与 Burke 一队）的问询上级；Clara 正在 Ben 家养肩伤，Ben 是她的同伴",
+      "number": null
+    },
+    {
+      "fact": "Clara 用 Ben 留在床边的平板上网搜索 Quint（Quinten Allen），发现自己必须说服自己『他等到 1939 年才结婚不是因为我』，但心里仍自责：当年 Quint 本已事业有成。",
+      "anchor": "him waiting until 1939 to get married wasn’t about me",
+      "start": 2129,
+      "end": 2182,
+      "relation": "Quint 是 Clara 在 1928 年爱上并告别的对象；Ben 把她带回了现在并在纽约宅中照料她",
+      "number": "1939"
+    },
+    {
+      "fact": "同一次搜索里，Clara 查到 Quint 的头衔是『成功的 Granville House 的慈善家创始人』——该校由 Allen 家族基金会为贫困年轻女性创办、做职业与传统培训，至今仍矗立在纽约且口碑极佳；她对着房间轻声说『做得好，爱人』。",
+      "anchor": "philanthropist founder of the successful Granville House",
+      "start": 2410,
+      "end": 2466,
+      "relation": "Quint 是 Clara 的昔日恋人；Granville House 以 Allen 家族基金会名义创办",
+      "number": null
+    },
+    {
+      "fact": "在纽约养伤期间，Ben 与 Clara 继续翻查 Gibbons 在 1928 年前后的报纸等各种记录找其意图的线索，但一条条记录都两手空空；Dr. Cooper 与 Burke 的团队在定位 Gibbons 上比他们更没进展。",
+      "anchor": "poring over newspapers or any other record we can think of around the time Gibbons would have been in 1928",
+      "start": 3118,
+      "end": 3224,
+      "relation": "Ben 与 Clara 是共同查档的同伴；Gibbons 是他们在过去追查、并与 Clara 肩伤相关的目标；Burke 与 Dr. Cooper 是团队方",
+      "number": "1928"
+    },
+    {
+      "fact": "Ben 对 Clara 说出他的理论：她会回到 Quint 身边，她记住的是一段『技术上尚未发生、却也已经发生』的与 Quint 共度的生活；1928 年时那还是可能性，留在现在越久这些记忆会越淡。",
+      "anchor": "That you go back to him, and what you’re remembering is a life with him that technically hasn’t happened yet but also has.",
+      "start": 7917,
+      "end": 8039,
+      "relation": "Ben 是 Clara 的朋友、1901 年起相识且仍希望与她发展恋情的人；Quint 是 Clara 无法放下的对象",
+      "number": null
+    },
+    {
+      "fact": "Clara 独自走到围栏边，拿出 Ben 给的写着 Quint 婚期的纸条，指望新娘名字从 Catherine Pratt 变成 Clara Granville，但油墨没有变；她最终松手让风把纸吹走，并对着风说『It was so lovely, Quint』，然后回屋继续工作。",
+      "anchor": "expecting somehow for the name to change from Catherine Pratt to Clara Granville. But it doesn’t.",
+      "start": 9933,
+      "end": 10030,
+      "relation": "Quint 已与 Catherine Pratt 成婚（婚期纸条由 Ben 交给 Clara）；Clara 在决定放手",
+      "number": null
+    },
+    {
+      "fact": "晚饭后 Morgan 发短信调侃 Clara 何时跟『sugar daddy』回家、说这是富男友出钱两人一起度假，还追问 Ben 有没有兄弟；Clara 回『有，但他大概 14 岁』，Morgan 说『既然不是家里的钱就不等了』。",
+      "anchor": "Yes, but he’s like 14. If you want to wait for him…",
+      "start": 12735,
+      "end": 12786,
+      "relation": "Morgan 是 Clara 的好友（Clara 计划搬回公寓与她同住）；Morgan 把 Ben 戏称为 Clara 的富男友",
+      "number": "14"
+    },
+    {
+      "fact": "结尾钩子：Clara 提出把公寓还给 Ben、自己搬回与 Morgan 同住，Ben 拒绝——『它属于你的家人』——并暗示『也许有一天我会找到另一个办法把它拿回来』，Clara 听出他在暗示永久关系；面对『我们才认识几周』的反驳，Ben 答『我从 1901 年就认识你了，那超过一百年』；随后他说要买下 The Villa 附近的老宅修葺并请 Clara 帮忙装修，Clara 答应，第一次开始想未来而非过去。",
+      "anchor": "I’ve known you since 1901. That’s over a hundred years.",
+      "start": 16827,
+      "end": 16882,
+      "relation": "Ben 向 Clara 暗示婚姻级的承诺；两人 1901 年在 The Villa 相遇；公寓原属 Clara 的家人，Ben 让还给她",
+      "number": "1901"
+    }
+  ]
+}

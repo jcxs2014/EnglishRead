@@ -1,0 +1,70 @@
+{
+  "chapter": "ch04",
+  "method": "blind R1 (text only)",
+  "facts": [
+    {
+      "fact": "Clara 在陈设一夜之间全变的公寓里醒来（卧室与起居空间之间凭空多出一面墙），她认定自己也许真的被困在 1901 年，随后拉过被子蒙住头。",
+      "anchor": "Maybe I’m really stuck in 1901.",
+      "start": 1992,
+      "end": 2023,
+      "relation": null,
+      "number": "1901"
+    },
+    {
+      "fact": "女仆 Annabelle 进屋转告：Mitchell 先生（Ben）要见她、已经等了两个钟头；Clara 先回答“让他等”，听到现在已是十一点后才起床。",
+      "anchor": "He asked me to tell you he’s been waiting two hours.",
+      "start": 2663,
+      "end": 2715,
+      "relation": "Annabelle 是 Ben 专为 Clara 安排的旅馆女仆（借调来帮她更衣）；Mr. Mitchell 即 Ben",
+      "number": "two hours; Eleven, miss"
+    },
+    {
+      "fact": "Ben 宣布已让 Annabelle 为 Clara 打包行李，两人要去旧金山：为她置办自己的衣服和合身的胸衣；他还说麦金利总统明天也将到旧金山，要带她看“真实的历史”。",
+      "anchor": "I’ve asked Annabelle to pack some things for you. We’re going to San Francisco.",
+      "start": 8319,
+      "end": 8398,
+      "relation": "Ben（Mr. Mitchell）是 Clara 穿越后的同伴与照应人，教师出身、研究镀金时代",
+      "number": "President McKinley is also going to be in San Francisco tomorrow"
+    },
+    {
+      "fact": "Clara 向 Ben 转述他两年前失踪时的情形：没有任何解释，车还在、手机留在柜台上、屋内东西没被动过、没有强行闯入痕迹，警方倾向认定他抛弃了自己的生活，却找不到原因。",
+      "anchor": "Your car was there, your phone was sitting on the counter, nothing in the apartment was disturbed, no forced entry.",
+      "start": 11562,
+      "end": 11677,
+      "relation": "Ben 于两年前（相对 Clara 的现代时间）在所租公寓失踪；Clara 从小镇新闻与 Aunt Vi 处得知详情",
+      "number": "two years ago"
+    },
+    {
+      "fact": "Ben 追问替他安排租约的女士是不是 Clara 的家人，Clara 说出姨婆 Aunt Vi：Vi 的父母在四十年代 The Villa 改建时买下这套公寓、此后一直留在家族手里；随后面对“你和她亲近吗”，她用过去式回答 “Was”——姨婆已经去世。",
+      "anchor": "My great-aunt Vi. Her parents bought the condo as a vacation residence when The Villa was renovated in the forties for permanent residents rather than hotel guests.",
+      "start": 13231,
+      "end": 13395,
+      "relation": "Aunt Vi＝Clara 的 great-aunt（姨婆）、把公寓租给 Ben 的房东，已去世；自 Clara 父母去世后她曾是 Clara 唯一的依靠",
+      "number": "the forties"
+    },
+    {
+      "fact": "两人在 Ben 房间轮流把手放上镜面试验穿越，几分钟过去毫无反应；Ben 说他当年坠落时感到的电击感现在已经没有了。",
+      "anchor": "“I felt that shock too when I fell through.” Ben steps up beside me and puts his hands on the mirror. “But there’s nothing now.”",
+      "start": 17938,
+      "end": 18066,
+      "relation": "Ben 与 Clara 都是经由这面镜子跌入 1901 年的人；镜面此刻失效，归途成疑",
+      "number": null
+    },
+    {
+      "fact": "Ben 解释他走到哪儿都随身带着这面镜子，随后让仆人 Albert 把镜子装进特制木箱带走——镜子将随他们同去旧金山。",
+      "anchor": "“One of the many eccentricities the staff are used to here,” he says in a low voice. “I take the mirror everywhere I go.”",
+      "start": 21091,
+      "end": 21212,
+      "relation": "Albert＝The Villa 的仆人，与 Ben 一起装箱搬运；Ben 长住 The Villa、很少离开正因要带着镜子",
+      "number": null
+    },
+    {
+      "fact": "Clara 赶回房间取旅行行装、准备下楼与 Ben 会合出发前往旧金山，既兴奋又害怕，但心想有 Ben 在身边应该不会出大问题（结尾钩子）。",
+      "anchor": "And with Ben by my side, nothing can go too wrong, can it?",
+      "start": 22294,
+      "end": 22352,
+      "relation": "Ben＝Clara 在 1901 年的同行者与保护者；本章结尾两人即将同赴旧金山",
+      "number": null
+    }
+  ]
+}
