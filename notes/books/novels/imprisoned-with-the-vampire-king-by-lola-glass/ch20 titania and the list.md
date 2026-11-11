@@ -48,7 +48,7 @@ modified: "2026-11-11"
 
 **中文理解**：「对我来说，性更像一种形式。当然感觉不错，但它从来不是我常惦记的事——不像现在跟你。它通常是被排进日程的。」
 
-**关键词**：a formality / not something I thought about frequently / usually scheduled
+**关键词**：a formality / never something I thought about frequently / usually scheduled
 
 **为什么这样写**：他把自己的三百年性史一句压成公文——formality 与 scheduled 的搭配把亲密降格成董事会流程；「不像现在跟你」是全场唯一的现在时，唯一走心的对比；这份坦白为后文「你不会撩人」的吐槽供了全部弹药。
 
