@@ -19,20 +19,19 @@ modified: "2026-11-11"
 **关键词**：noise / not gone / turned down / function
 **为什么这样写**：用音量旋钮比喻精神状态，把「恢复」写成可调的、不彻底的妥协；enough for now 既是自我安慰，也是下一次失控的伏笔。
 **读者视角提示**：这是发作后 14 小时的主观自评，不是医学结论；文本随后用一次完整失控证明「调到能运作」并不等于安全。
-
 > **原句 2:** "So many people in my life say they can handle it, but they can’t. It’s why I left home. I know my family loves me, but they just don’t know what to do with me. My brother goes on and on about being medicated, but we tried that and I was a zombie. I hated feeling that way, and when I came here, everything changed."
 
 **中文理解**：Vero 解释离家：许多人嘴上说扛得住，实际扛不住；家人爱他却不知如何与他相处，哥哥反复主张用药，试过却让他像僵尸——他讨厌那种感觉，直到来到这里，一切才改变。
 **关键词**：handle it / left home / medicated / zombie
 **为什么这样写**：把「治疗」写成有代价的选择（僵尸感）而非正确答案，Vero 的抗拒因此有了具体经验依据；「everything changed」随后被本章的失控当场检验。
-**读者视角提示**：ch02 内容警示页说 Vero 的躁郁「written with care but without filters」，本段正是该声明的落地；文本没有给出「该不该用药」的答案。
+**读者视角提示**：文本没有给出「该不该用药」的答案；前置内容警示页对这类写法有专门声明（用心但不加滤镜）。
 
 > **原句 3:** "In the mirrored panel behind the bar, there is a reflection of a man. He is sitting at the bar, and his face is turned toward her, and he is watching her. Even through the reflective surface, I can see he is staring at her."
 
 **中文理解**：Kayla 发来的照片里，吧台后的镜面反射出一个男人：他坐在吧台前，脸朝向她，正盯着她看——隔着反射面，Vero 仍能看出那是凝视。
 **关键词**：mirrored panel / reflection / turned toward her / staring
 **为什么这样写**：触发点在照片的反射层，Vero 的解读因此建立在间接影像上；zoom in 的动作把一张日常照片变成威胁证据，读者与他同步获得信息、也同步失去校准。
-**读者视角提示**：男人是否真有恶意本章不裁定（Kayla 在 ch14 说过「Men like that always come into the bar—it’s part of the job」）；Vero 的判断力此刻已被噪音接管。
+**读者视角提示**：男人是否真有恶意本章不裁定——Kayla 在 ch14 已说过这类男人常来酒吧、是她工作的一部分；Vero 的判断力此刻已被噪音接管。
 
 > **原句 4:** "Jumping out of bed, I don’t make the decision; rather, my body arrives at the conclusion. We need to help her—I need to help her. To make sure she is safe."
 
@@ -54,11 +53,10 @@ modified: "2026-11-11"
 **关键词**：statistic / a person / sneak out / safe person
 **为什么这样写**：Vero 把 ch10 的「transactional」与 ch13 的「statistics」拼成一句抗议：她不是概率产物；had to sneak out 回收 ch13 她清晨溜出 Ares 房间的画面——失控者反而说出最清醒的指控。
 **读者视角提示**：这段指控内容上成立（Ares 确实用过统计学话术），但它是 Vero 发作中的判断，不能当作 Ares 罪状的终审；Part Two 需要各方各自交代。
-
 > **原句 7:** "“I’m sorry,” she says. “But get the fuck out of my life.”"
 
 **中文理解**：Kayla 看着自己腕上流下的血，先说了对不起，然后命令 Vero 滚出她的生活——逐客令前面仍带着歉意。
-**关键词**：sorry / blood / get the fuck out / my life
+**关键词**：sorry / get the fuck out / my life
 **为什么这样写**：I'm sorry 与 get out 并置，写出「受伤者仍先致歉」的复杂姿态：她不是冷酷，是边界；本章所有失控的代价最终由这一句结账。
 **读者视角提示**：她对 Brawley、Clay、Ares 说的是「All of you」——驱逐针对整个群体，不只是 Vero；别把它读成一次吵架的气话。
 
@@ -67,7 +65,7 @@ modified: "2026-11-11"
 **中文理解**：被拖出酒吧后，Vero 说：不记得有多久以来，他的脑子第一次彻底安静。
 **关键词**：first time / as long as I can remember / completely silent
 **为什么这样写**：全章的噪音叙事在末句归零——安静本是他求了一生的东西，此刻却以失去 Kayla 为代价换来；一句话把「治愈」写成新的症状。
-**读者视角提示**：与 ch07 他说的「I’m scared of the silence in my head」形成全书最重的一次反讽：他怕的安静真的来了；Part Two 开场的 Vero 将带着这份安静出现。
+**读者视角提示**：与 ch07 他自陈害怕脑内寂静形成全书最重的一次反讽：他怕的安静真的来了；Part Two 开场的 Vero 将带着这份安静出现。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -80,7 +78,7 @@ modified: "2026-11-11"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vice grip | 铁钳般钳制 | Brawley holds me in a vise grip, and between him and Clay, they have me almost at the door, though I’m still fighting them. |
+| vise grip | 铁钳般钳制 | Brawley holds me in a vise grip, and between him and Clay, they have me almost at the door, though I’m still fighting them. |
 | thrash | 挣扎扑腾 | Clay is next to grab me, and they drag me out as I thrash. |
 | spiral | （情绪）失控下坠 | My self-control is lacking, and I pick the phone back up. Zooming back in on him, I don’t like the way his eyes are focused on her. |
 

@@ -30,7 +30,7 @@ modified: "2026-11-11"
 > **原句 3:** "“Give me a good reason why I should.”"
 
 **中文理解**：油罐车里 Kayla 背抵罐壁、枪口对准 Brawley 胸口，拒绝按他的话放下武器——她要他先给出一个足够好的理由。
-**关键词**：good reason / should / gun raised
+**关键词**：good reason / should
 **为什么这样写**：一个短句把 ch09 墓底那幕的身体记忆全部带回来：她不再对任何男人无条件放下防御；「good」一词限定的是标准，不是请求。
 **读者视角提示**：这是本章 Kayla 的第一句防御台词，紧接 Brawley 的 payback 提议；她的武器直到「不以你的代价」说清后才放下。
 

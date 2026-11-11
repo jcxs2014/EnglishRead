@@ -8,7 +8,7 @@ modified: "2026-11-11"
 ## 本章导航
 - **一句话概括**：Vero 躁郁发作失踪，四人分头搜寻；Kayla 循着呜咽在马戏团道具间找到剪掉大半头发、泪流满面的他。她隔门报身份、给退路，进屋后不修复只陪伴，替他把头发修齐。夜里 Brawley 按既有方式在拳台把他打回当下，Kayla 被迫旁观；浴室里 Vero 自撞头部、坦白「爱 Brawley 爱到无法呼吸，但你真的懂我」，Kayla 答：我能预见自己爱你，但不会以 Brawley 的方式，也不竞争。
 - **情感弧线位置**：全书第一次把「疯」的代价摊开：Vero 的喜剧外壳脱落，露出拔发、自撞与失控恐惧；Kayla 与他的关系从玩伴升级为「会留下来的人」；Brawley/Vero 的应对机制首次被外人看见并被质疑。
-- **Tropes 兑现/反转**：兑现 content warning「manic episodes written with care but without filters」；反转是找到 Vero 的不是伴侣 Brawley 而是新来的 Kayla，且靠的是不施压的等待。
+- **Tropes 兑现/反转**：兑现前置内容警示页「躁郁发作写得用心但不加滤镜」的写作声明；反转是找到 Vero 的不是伴侣 Brawley 而是新来的 Kayla，且靠的是不施压的等待。
 - **人物弧线**：Kayla：确立「陪伴而非修复」的爱的语法；Vero：第一次用语言（而非笑话）描述自己的发作与矛盾；Brawley：用拳台把人带回当下，被 Kayla 当面质疑；Clay：替两人的方式作解释。
 - **叙事手法**：搜寻段用声音（whimper）与空间（locked from the inside）推进；道具间戏靠短句与沉默写陪伴；拳台段用 Kayla 被 Clay 锁住的视角强制旁观；浴室独白是全书 Vero 最长、最不带玩笑的台词。
 
@@ -32,14 +32,14 @@ modified: "2026-11-11"
 **中文理解**：Vero 解释被剪掉的头发：发作时他会拔自己的头发，痛得厉害，停不下来，所以只好剪掉——「我必须剪」。
 **关键词**：pull my hair / it hurts / cut it off / I had to
 **为什么这样写**：他先说行为再说痛，最后用重复的「had to」把羞耻压进语法里；没有解释成因，也没有求安慰——这是发作当事人的原话顺序，作者不替他整理。
-**读者视角提示**：拔发与剪发是本章最重的自伤相关细节，文本处理为「发作的症状」而非博眼球的桥段；对照 ch02 内容警示页的写作声明。
+**读者视角提示**：拔发与剪发是本章最重的自伤相关细节，文本处理为「发作的症状」而非博眼球的桥段；前置内容警示页对此类写法有专门声明。
 
-> **原句 4:** "“That makes sense,” I reply. … “It just looks like you need some help to finish it,” I tell him calmly. “We can fix it.” I hold out my hand for the scissors, and he gives them to me."
+> **原句 4:** "“It just looks like you need some help to finish it,” I tell him calmly. “We can fix it.” I hold out my hand for the scissors, and he gives them to me."
 
-**中文理解**：Kayla 先接一句「这说得通」，再对着 Vero 在意的烂发型给出实际方案：只是需要帮忙修完，我们可以修好；她伸手要剪刀，他给了。
-**关键词**：makes sense / help to finish it / scissors / calmly
-**为什么这样写**：她既没有惊呼也没有安慰，而是把「痛过之后的烂摊子」翻译成一件可协作的具体事；剪刀的交接是 Vero 交还控制权的第一个动作。
-**读者视角提示**：省略号两侧各为本章原文（That makes sense 与 It just looks like 之间隔着 It looks so bad 一行）；此处保留对话顺序，不合并 Vero 的自我厌恶。
+**中文理解**：Vero 在意的烂发型被 Kayla 平静地重新定义：只是需要帮忙修完，我们可以修好；她伸手要剪刀，他给了。此前她已先接一句「这说得通」。
+**关键词**：help to finish it / We can fix it / scissors / calmly
+**为什么这样写**：她没有惊呼也没有安慰，而是把「痛过之后的烂摊子」翻译成一件可协作的具体事；剪刀的交接是 Vero 交还控制权的第一个动作。
+**读者视角提示**：原文此处前一行是 Vero 的自我厌恶（It looks so bad），Kayla 的回应跳过评价直接进入方案；本块只收她的回应句。
 
 > **原句 5:** "“I’m not going to fix it, but I will sit here with you until you are ready to move.”"
 
