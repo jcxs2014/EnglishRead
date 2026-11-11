@@ -68,7 +68,7 @@ modified: "2026-11-11"
 |---|---|---|
 | chrysanthemums | 菊花 | I repeat the mantra over and over, clutching the yellow chrysanthemums to my chest. |
 | mantra | 反复念诵的话 | Breathe in through your nose and out through your mouth. I repeat the mantra over and over, clutching the yellow chrysanthemums to my chest. |
-| escalation | 升级 | I try to figure out if there were any signs I missed that things were going to escalate. |
+| escalate | 升级 | That night keeps running through my head, and I try to figure out if there were any signs I missed that things were going to escalate. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
