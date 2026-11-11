@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch30",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch30_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "Cave 专程离田送谜语：影子——「背对时我最靠近你，面对时我就消失」",
+   "anchor": "I wear the shape of everything but have no shape of my own",
+   "start": 2421,
+   "end": 2479
+  },
+  {
+   "fact": "Ares 说 Cave 开场后从不离田——他破例只为送这则谜语",
+   "anchor": "He normally never comes in once the chases start. He refuses to let his cornfield be empty",
+   "start": 4572,
+   "end": 4662
+  },
+  {
+   "fact": "储藏室里 Kayla 先立规：若被利用就永久离开",
+   "anchor": "if you use this to get something from me, I will walk away and won’t come back",
+   "start": 6560,
+   "end": 6638
+  },
+  {
+   "fact": "Ares 复述规则并接受，随后第一次在她面前放下墙",
+   "anchor": "No manipulation",
+   "start": 6786,
+   "end": 6801
+  },
+  {
+   "fact": "Kayla 的直觉两次报警：巷中背影与屋内被注视感",
+   "anchor": "I have learned to listen to my instincts when they scream that something isn’t right",
+   "start": 3722,
+   "end": 3806
+  },
+  {
+   "fact": "她发信息给 Clay，只求有人知道",
+   "anchor": "I know it’s late, but the feeling is back. I just wanted someone to know",
+   "start": 11146,
+   "end": 11218
+  },
+  {
+   "fact": "Clay 已坐在她 loft 桌边，自称「有办法」进门",
+   "anchor": "I have my ways",
+   "start": 12071,
+   "end": 12085
+  },
+  {
+   "fact": "章末 Kayla 以自嘲确认四人亲密已成日常，Clay 守夜无声",
+   "anchor": "since I am now getting laid on a regular basis, it calls for a lot more maintenance",
+   "start": 11485,
+   "end": 11568
+  }
+ ]
+}
