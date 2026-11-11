@@ -23,7 +23,7 @@ modified: "2026-11-11"
 > **原句 2:** "“We will always listen to you,” he says, getting up off the floor. I barely have time to shift over before he is on the bed beside me, pulling up the covers."
 
 **中文理解**：Vero 说：我们会一直在听——她提过要还卡车，Clay 和 Ares 就起了大早替她还掉；他说完起身，钻进她身边的被窝。
-**关键词**：always listen to you / returned / pulling up the covers
+**关键词**：always listen / getting up off the floor / pulling up the covers
 **为什么这样写**：listen 一词回收 ch19 她的恐惧（够不到他、没人听见）——现在她的每句话都会被执行；动作的黏（立刻上床）与语言的承诺同句出现，Vero 的爱从不分开这两层。
 **读者视角提示**：always 的范围是「四人」而非仅他——we 的集体承诺与 ch17 她「both things can be true」的驱逐形成制度性反转。
 
