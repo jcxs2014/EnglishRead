@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：Ares 线全书收束：他的爱的定义（无议程）与能力边界（说不出那句话）同时交付；Kayla 的搬家=空间与心理的双重迁出；监护人之谜是全书最后一块未展开的过去，留给 Part Three 终章。
 - **Tropes 兑现/反转**：兑现「搬家=告别过去」；反转是撕照片的仪式由她完成、而 Ares 自己的照片（虐待史）始终没掏出来；「it's a start」是对 love 宣言最 Ares 式的回应。
 - **人物弧线**：Ares：从「不感受」到「无议程地想给」+ 首次承认自己可能一直有能力爱；Kayla：撕照片、回家、睡着在他车上——信任的三级跳；Vero：满血回归（keep her safe 的玩笑）；Brawley：钥匙被 Vero 代交；Mabel：哭抱=旧生活的正式告别。
-- **叙事手法**：亲密段露骨不选入、只取「放弃控制」的叙事功能句；虐待史以内心独白一次性交付、拒绝展开；章末「We're home / it really feels like I am」的对话收束全书最重的一次命名。
+- **叙事手法**：亲密段露骨不选入、只取「放弃控制」的叙事功能句；虐待史以内心独白一次性交付、拒绝展开；章末 Ares 低声说 We're home，Kayla 答出全书最重的一次命名。
 
 ## 精读
 > **原句 1:** "“I can’t believe I thought I loved this man.” She tears the photo into a few pieces while walking it over to the trash can where we emptied her fridge."
