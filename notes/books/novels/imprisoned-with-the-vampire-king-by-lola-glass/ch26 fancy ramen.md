@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **为什么这样写**：控制权的移交是她能给出的最高信任——一个从不让人替她做主的人，把「疼多久」的开关递出去；「hard on you too」把他的感受计入决策成本；「finally」的迟疑标记说明这一步跨了全书。
 
-**读者视角提示**：对照 ch13「你不许改主意」与 ch17「该讨论的没讨论」——她反对的从来不是他做主，是不被商量；这次的主动移交让他的接管第一次合法。
+**读者视角提示**：对照 ch13「你不许改主意」与 ch18「该讨论的没讨论」——她反对的从来不是他做主，是不被商量；这次的主动移交让他的接管第一次合法。
 
 > **原句 5:** ""The prisoners are all secured, and there's no rush to get the magic taken down. We're exactly where we need to be right now.""
 
