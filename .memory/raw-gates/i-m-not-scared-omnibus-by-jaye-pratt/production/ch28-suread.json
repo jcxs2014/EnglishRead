@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch28",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch28_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "Vero 断言 Clay 在笑，标志表情本该是臭脸",
+   "anchor": "Your signature facial expression is a scowl",
+   "start": 942,
+   "end": 985
+  },
+  {
+   "fact": "Clay 请 Ares 同行排查 Kayla 公寓的窃听与摄像头",
+   "anchor": "I want to check and make sure there are no listening devices or cameras. Just to be sure",
+   "start": 2094,
+   "end": 2182
+  },
+  {
+   "fact": "Ares 对 Mabel 编出窗锁维修的来意，几分钟取得备用钥匙",
+   "anchor": "She mentioned there might be a maintenance issue with her window lock",
+   "start": 3828,
+   "end": 3897
+  },
+  {
+   "fact": "Clay 拆穿 Ares 的动机话术：他第一时间帮忙本身就是感情",
+   "anchor": "He likes to think he doesn’t have feelings, yet at the first sign of trouble with Kayla, he is offering to help. He can say it serves his purpose all he likes, but he’s full of shit",
+   "start": 3211,
+   "end": 3392
+  },
+  {
+   "fact": "全屋排查干净，Clay 判断入侵者极其小心",
+   "anchor": "Whoever was here was careful",
+   "start": 5575,
+   "end": 5603
+  },
+  {
+   "fact": "Vesper 匆匆一句指 Kayla 正在被「调教」，方向不明",
+   "anchor": "They are beating up their new little pet",
+   "start": 6094,
+   "end": 6134
+  },
+  {
+   "fact": "格斗场 Clay 收着力，Kayla 要求他别「管理」她",
+   "anchor": "I’m trying not to hurt you",
+   "start": 9847,
+   "end": 9873
+  },
+  {
+   "fact": "章末 Ares 低声说 Kayla 属于这里，Clay 点头认同",
+   "anchor": "She belongs here",
+   "start": 11929,
+   "end": 11945
+  }
+ ]
+}
