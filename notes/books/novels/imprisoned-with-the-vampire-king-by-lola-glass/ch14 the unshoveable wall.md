@@ -98,7 +98,7 @@ modified: "2026-11-11"
 
 **中文理解**：「如果你在养活我，你就得照顾好你自己。我昨天咬了你两次，你的身体需要时间恢复。」
 
-**关键词**：keeping me alive / take care of yourself / bitten twice
+**关键词**：keeping me alive / take care of yourself / bit you twice
 
 **为什么这样写**：他的管制找到了最正当的法理——「你是我活着的理由，所以你不能垮」；把没收咖啡胶带的霸道行为全部锚定在她的身体账目上（咬了两次）；这句话同时是承诺的镜像：他管她的钱，她管他的命，谁也别想撂挑子。
 
