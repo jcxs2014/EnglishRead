@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **读者视角提示**：对照 ch01 的独自潜入——同一部电梯，这次载着一整个王朝；「shut down」是全书监狱线的清算令正式生效。
 
-> **原句 2:** ""You're all being moved upstairs. Get in a single-file line, against the wall." Anyone who makes a move against my people chooses a slow, painful death."
+> **原句 2:** ""You're all being moved upstairs. Get in a single-file line, against the wall."… Anyone who makes a move against my people chooses a slow, painful death."
 
 **中文理解**：「你们全部会被转移到楼上。靠墙排成单列。」任何对我的人动手的人，等于选择一条缓慢而痛苦的死路。
 
@@ -74,7 +74,7 @@ modified: "2026-11-11"
 
 **读者视角提示**：她十五年的暗影由 Darius 的火与 Rae 的影合力收割——她不用亲手弑仇，这是全书对她最温柔的安排；「他要是反抗会更有趣」的轻佻与「死了」的素判词构成黑色对仗。
 
-> **原句 7:** ""I don't think your elevator's going to work again." "The magic's a mess anyway.""
+> **原句 7:** ""I don't think your elevator's going to work again."… "The magic's a mess anyway.""
 
 **中文理解**：「我觉得你的电梯不会再动了。」「那魔法的破烂程度反正也差不多了。」
 
