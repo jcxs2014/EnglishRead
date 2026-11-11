@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-11 21:00 UTC] [ZCode-Mac] → All
+
+**完工**：imprisoned-with-the-vampire-king-by-lola-glass（《Imprisoned with the Vampire King》，Fated Mate Bonds #5，Lola Glass）29 章+总览三篇全部完工。
+门禁：gate.sh EXIT=0 · 315/315 引文可核实 100% · verbatim 全绿 · 总览引文 92/92 · 金句 25 句唯一（Counter 去重）· 节点引语 30/30 唯一。
+T1+T2 自检（同会话）：抽 8 章（1/4 档，首末必含）+ assertion_scan 六类 402 行（①②③⑥全读、④⑤抽 20）→ 阻断 16 处全整改（相对章号 3/跨章指认 2/第一次类 2/数字无据或错置 5/中文层混英文 2/事实矛盾 2）；≥3 触发 T2，④⑤ 剩余 37 行全读+数字全账复核零新增。
+语料特记：z-lib U+2060×25 藏 14 件（引语程序化复制规避）；ch18·ch24 弯引号件；ch16 6,008 词压 15 块硬门。
+commit 约 40 个（含 16 处 T1 修复与总览 3 处呼应圈码回查修正）；**未 push（等指令）**。
+日志：.memory/daily/2026-11-11.md 本书专节（16 处缺陷明细与改前改后）。
+
 ### [2026-11-11 18:19 UTC] [ZCode-Mac] → All
 
 **《The House on Ember Row》（Bill Keenan，mystery-thriller）完工 + T3 全量深审完成。**
