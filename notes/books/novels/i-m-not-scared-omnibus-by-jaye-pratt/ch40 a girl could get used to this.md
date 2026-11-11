@@ -68,7 +68,7 @@ modified: "2026-11-11"
 |---|---|---|
 | obligation | 义务 | “You don’t have to do that,” I say, as flashbacks of Aaron telling me he hated doing it out of obligation flash through my head. |
 | manicured | 修饰过的 | He raises his stupid, perfectly manicured eyebrow at me. |
-| compromise | 妥协 | Vero claps. “Look at us compromising already. Should we get boxes and move your stuff? Do you have to give notice at your place?” |
+| jealous | 嫉妒的 | “That I can do. I already feel like I’m winning the best boyfriend award—the others will be jealous.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
