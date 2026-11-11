@@ -1,0 +1,67 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch01",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Fear Island 白天是全年龄主题公园，日落后变成仅凭邀请函入场的 21 岁以上成人猎场，是岛上最大的摇钱树",
+   "anchor": "After dark is when the real fun begins, and entry is by invitation only. It’s our biggest moneymaker, and the twilight hours become an over twenty-one paradise for adults.",
+   "start": 303,
+   "end": 474
+  },
+  {
+   "fact": "Clay 是全岛安全主管，对讲机里 Kodi 报告抓到潜入者，处置是拍照+终身禁入，绝无第二次机会",
+   "anchor": "“Found one.” Kodi’s voice comes through the earpiece.",
+   "start": 747,
+   "end": 800
+  },
+  {
+   "fact": "Clay 的亲妹妹 Jess（22 岁，Clay 却坚持当她是 12 岁小孩）日落后违规上岛找他",
+   "anchor": "“Clay Aaron Rourke, when are you going to stop?” she huffs, and I glare at her.",
+   "start": 1352,
+   "end": 1431
+  },
+  {
+   "fact": "Jess 求援：她男友的前女友在跟踪他们俩，甚至威胁把他们连人带车炸上天",
+   "anchor": "“She is stalking us, Clay—she’s everywhere we go. She even threatened to blow up his car with us inside.”",
+   "start": 3268,
+   "end": 3373
+  },
+  {
+   "fact": "Karo 的飞刀擦着 Clay 头部飞过被他闪身避开，Jess 却看得拍手大笑",
+   "anchor": "Jess laughs and claps her hands as Karo bows.",
+   "start": 3528,
+   "end": 3573
+  },
+  {
+   "fact": "Clay 把 Jess 托付给 Brooks 护送到桥对面，自己承诺处理前女友问题；Jess 抗议被当婴儿，被 Brooks 扛起扛走",
+   "anchor": "“Yo, come walk Jess to her car and make sure you watch her until she is across the bridge.”",
+   "start": 4386,
+   "end": 4477
+  },
+  {
+   "fact": "Nixie 是 Fear Island 的运营经理，发邀请函、做背景调查、处理合同；Clay 的母亲在 Jess 还是婴儿时就去世了，Nixie 成了他母亲式的人物",
+   "anchor": "Nixie is the operations manager of Fear Island. She sends out the invitations, conducts the background checks, processes the contracts, and deals with all the business shit.",
+   "start": 5361,
+   "end": 5534
+  },
+  {
+   "fact": "Clay 请 Nixie 查男友前女友的背景，Nixie 承诺当晚就给出姓名、住址和雇主",
+   "anchor": "“I need some more background information on her boyfriend’s ex. Apparently, she is causing issues, and I need to make them stop.”",
+   "start": 6300,
+   "end": 6429
+  },
+  {
+   "fact": "Vero 跳上吧台躲 Brawley：他往 Brawley 屁股上伸手指被揍，自称明天要挂彩；Brawley 外号 The Grim Reaper，以暴力为燃料",
+   "anchor": "Vero exudes crackhead energy and has no self-control.",
+   "start": 7219,
+   "end": 7272
+  },
+  {
+   "fact": "每晚 8 点全员在特技场集合听 Nixie 训话：腕带颜色定今晚目标、读档案（limits/safe words/triggers/medical history）、CONSENT IS NOT OPTIONAL、今晚有个不易被吓到的参与者",
+   "anchor": "First, wristbands. You know your colors. Find out who is wearing yours and that’s your person for the night.",
+   "start": 8611,
+   "end": 8719
+  }
+ ]
+}
