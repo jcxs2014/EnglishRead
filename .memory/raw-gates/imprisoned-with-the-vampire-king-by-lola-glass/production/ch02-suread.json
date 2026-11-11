@@ -1,0 +1,55 @@
+{
+ "book": "imprisoned-with-the-vampire-king-by-lola-glass",
+ "chapter": "ch02",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "咬人代价：监狱魔法把吸血鬼之咬算作「见血」，只放行一两口吞咽就会触发惩罚——在禁闭室关十二小时；吸血鬼的活法是习惯饥饿、大半夜晚泡禁闭室。",
+   "anchor": "The magic of this place considers a vampire's bite as drawing blood. It only gives you long enough to manage one or two swallows before it kicks in.",
+   "start": 496,
+   "end": 644
+  },
+  {
+   "fact": "监狱的建造分工：魔法层是她一人编织；物理层由内阁出钱雇的团队施工——她当年只顾着魔法，对布局只有一张图纸印象。",
+   "anchor": "Magically, I was the one who built the prison. Physically, there had been a team of other people in charge of it. The Cabinet had paid them, and given them orders.",
+   "start": 1511,
+   "end": 1674
+  },
+  {
+   "fact": "委托曝光：她吐出半截真话——有人派她来救 Dante 和 Jazz 出狱，陶器就是工具；「Yeah. It was kind of true.」——Grayson Darke（魅魔王、另三类恶魔之一）与她 Dante 情同家人，Jazz 也是要救的人。",
+   "anchor": "\"Someone sent me to get you and Jazz out of here. The pottery is supposed to help.",
+   "start": 4757,
+   "end": 4839
+  },
+  {
+   "fact": "Jazz 死结：她是 Shiv 的命定伴侣，离了他走不掉——他也是她唯一的进食对象；Jazz 是 siren 女王，siren 魔法会把人吸过来、让人渴望她。",
+   "anchor": "\"And she's his mate. She can't leave this place without him. He's the only person she can feed on.",
+   "start": 5972,
+   "end": 6070
+  },
+  {
+   "fact": "堕落告白：Dante 请她展翅验明——黑、深灰、暗紫的羽毛不是天使的银白；他轻声问「多久前堕落的」，答「造这座监狱之前」。",
+   "anchor": "How long ago did you fall?\" he asked quietly.",
+   "start": 8827,
+   "end": 8872
+  },
+  {
+   "fact": "陶器本质：存着她的一部分力量；她几乎全部魔法都锁在监狱里取不出来——所以出去之前陶器一件都不能碎。",
+   "anchor": "It's storing some of my power. Almost all of my magic lives in the prison, so I can't access it. If we want to get out of here, we need to keep the pottery from breaking until we're ready to go.",
+   "start": 9331,
+   "end": 9525
+  },
+  {
+   "fact": "她的死穴：Shiv 大概率一见面就想杀她；而她若死了，监狱魔法会彻底消失——这事 Shiv 知道、Dante 不知道，她决定瞒着。",
+   "anchor": "If I died, the prison's magic would disappear completely. Which Shiv knew, but Dante didn't.",
+   "start": 10138,
+   "end": 10230
+  },
+  {
+   "fact": "堕天使魔法规则：能像光天使一样创造与修复，但必须为某种邪恶目的——把毯子变厚就得同时让它更不保暖；「所以我尝起来是暗的」。收尾她主动提出让 Dante 再咬一口补力气（他饿了十二年），自陈打斗无用、坐不住。",
+   "anchor": "Fallen angels have dark magic. I can create things and repair them like light angels, but it has to be for some kind of nefarious purpose. So I can make a blanket thicker, but I have to also make it hold less warmth in the process.",
+   "start": 12344,
+   "end": 12575
+  }
+ ]
+}
