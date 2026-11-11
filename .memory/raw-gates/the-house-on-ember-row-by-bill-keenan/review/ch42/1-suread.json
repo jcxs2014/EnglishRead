@@ -1,0 +1,74 @@
+{
+  "chapter": "ch42",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch42_chapter_forty_two.txt",
+  "source_len_chars": 4320,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Ellison/Quinn",
+      "did": "逼近：Ellison 暖语寒暄「I'm delighted you showed up」——Quinn 直视答「I know, Ellison」；笑容没塌但眼底面具滑了；「他一生控场——这次不是」。",
+      "range": [
+        373,
+        524
+      ],
+      "quote_head": "the mask slipped",
+      "quote_anchor": "the mask slipped"
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "第一记重拳：碎片归位——私语、秘密、消失前的崩溃、永远站在画面外的 Ellison；「And so he told you it was over——他要回家陪孕妻」。",
+      "range": [
+        524,
+        1667
+      ],
+      "quote_head": "“I know about your affair with Cade.",
+      "quote_anchor": "“I know about your affair with Cade."
+    },
+    {
+      "n": 3,
+      "who": "Quinn",
+      "did": "连环施压：没人对他说过不——一次都没有；无法想象 Cade 选择妻儿放弃他；「这让你狂怒（furious）」——手指扣紧杯沿。",
+      "range": [
+        1667,
+        2413
+      ],
+      "quote_head": "You couldn’t conceive of a world",
+      "quote_anchor": "You couldn’t conceive of a world"
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "杀手锏：词不请自来——Clarence 酒店每次幽会的时间房号全在；「Gazette 稿子本周末头版见报」。",
+      "range": [
+        2413,
+        3203
+      ],
+      "quote_head": "“I have his notebooks.",
+      "quote_anchor": "“I have his notebooks."
+    },
+    {
+      "n": 5,
+      "who": "Quinn",
+      "did": "全案指控：你安排 Gus DeWitt 当棋子、给「消失」一个说得通的解释——「但实际上你冷血杀了 Cade」「并处理了尸体」；「他的沉默就是回答」。",
+      "range": [
+        3203,
+        3856
+      ],
+      "quote_head": "an explanation that made Cade’s disappearance",
+      "quote_anchor": "an explanation that made Cade’s disappearance"
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "最后通牒：两个选项——看着报道见报让一切崩塌，或消失永不回来；杯柄白到指节；眼里第一次出现 Defeat——「用秘密建帝国的人终于掉进自己织的网」。",
+      "range": [
+        3856,
+        4278
+      ],
+      "quote_head": "“Or you can disappear.",
+      "quote_anchor": "“Or you can disappear."
+    }
+  ]
+}

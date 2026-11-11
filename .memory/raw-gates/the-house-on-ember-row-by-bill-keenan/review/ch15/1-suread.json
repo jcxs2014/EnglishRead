@@ -1,0 +1,85 @@
+{
+  "chapter": "ch15",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch15_chapter_fifteen.txt",
+  "source_len_chars": 13877,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "冬日出城：Volvo 1800E 西行；路牌 Exit 42—St. Agnes 撞进胸口——记忆不是怀旧而是入侵；寄宿时代的冬天漫长黑暗（radiators hissing、拉丁变位、修道式早餐）。",
+      "range": [
+        1717,
+        5751
+      ],
+      "quote_head": "St. Agnes Preparatory School",
+      "quote_anchor": "St. Agnes Preparatory School"
+    },
+    {
+      "n": 2,
+      "who": "Hastings/Quinn",
+      "did": "盖茨比之礼：英语老师兼宿舍督导 Hastings 课后递《了不起的盖茨比》——「你对语言有天赋」「我想你会喜欢这本」；12 岁生吞：一个想要太多的人的起落。",
+      "range": [
+        5751,
+        6341
+      ],
+      "quote_head": "“You have a good mind for language,",
+      "quote_anchor": "“You have a good mind for language,"
+    },
+    {
+      "n": 3,
+      "who": "母亲/Hastings",
+      "did": "母亲的秘密：探视从偶尔到几乎每周——「总有理由」；教师休息室里她坐皮椅扶手、他俯身，笑声暖光；从不匆忙从不担心。",
+      "range": [
+        6341,
+        7067
+      ],
+      "quote_head": "the glow of laughter between them",
+      "quote_anchor": "the glow of laughter between them"
+    },
+    {
+      "n": 4,
+      "who": "母亲",
+      "did": "母亲的另一面：笑得更多、把头甩到脑后毫无防备——Quinn 当时就知道那不是因为他；「我也感激，因为她也需要出路」。",
+      "range": [
+        7067,
+        9790
+      ],
+      "quote_head": "But at St. Agnes, she was different.",
+      "quote_anchor": "But at St. Agnes, she was different."
+    },
+    {
+      "n": 5,
+      "who": "父亲/母亲",
+      "did": "家暴循环：钱输光电话就开始——吼叫如野火烧满房间；玻璃碎裂、摔向墙的有门有桌有「她，我的母亲」；最糟的是爆发后的寂静（四连 silence 排比）。",
+      "range": [
+        9790,
+        13477
+      ],
+      "quote_head": "The sound of glass breaking.",
+      "quote_anchor": "The sound of glass breaking."
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "霓虹重演：Lucky Strike Casino 绿光刺夜——「庄家永远赢」从小就知道；「可有些东西在你有机会反抗之前就写进了你」；父亲每次都说 just one more game/next time。",
+      "range": [
+        13477,
+        13815
+      ],
+      "quote_head": "The house always wins.",
+      "quote_anchor": "The house always wins."
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "下匝道：本该踩油门继续开——但没有；转向匝道；「霓虹灯把他拉了下去」。",
+      "range": [
+        13815,
+        13877
+      ],
+      "quote_head": "But I didn’t. I turned.",
+      "quote_anchor": "But I didn’t. I turned."
+    }
+  ]
+}

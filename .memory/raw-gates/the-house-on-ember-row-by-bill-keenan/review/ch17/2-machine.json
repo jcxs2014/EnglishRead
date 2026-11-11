@@ -1,0 +1,261 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/ch17 uncle quinny clean slate.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch17_chapter_seventeen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The nursery. Eloise started on the clean-out the second we got the news,\" Gordon said. \"Like the moment the doctor told ",
+          "ok": true,
+          "pos": 2220
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"Am I, though?\" I said, shifting. \"Quarter uncle, maybe. Half at best. Does the kid of my half sister really entitle me ",
+          "ok": true,
+          "pos": 4369
+        },
+        {
+          "text": "\"You're blood, Whitaker. That makes you Uncle Quinny whether you like it or not.\"",
+          "ok": true,
+          "pos": 4542
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"It's just hard, Gordon.\" And once the first few words were out, the rest came tumbling after. \"I grew up in a house whe",
+          "ok": true,
+          "pos": 5375
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"And then a few years later, she meets a man who actually means it. A good man. A stable one. And she gets pregnant. And",
+          "ok": true,
+          "pos": 6342
+        },
+        {
+          "text": "\"It's like she just started fresh. Like none of what I'd experienced ever happened. Like the version of her that raised ",
+          "ok": true,
+          "pos": 6852
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"But,\" he continued, \"have you ever once considered that maybe your mother was surviving too?\"",
+          "ok": true,
+          "pos": 7631
+        },
+        {
+          "text": "\"You talk about her like she got to start over. But Quinn—she didn't. She carried all of it. She just didn't let it defi",
+          "ok": true,
+          "pos": 7768
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"To the future,\" he said, raising the bottle as I reached for a glass. \"A bright, beautiful future for our family.\"\"",
+          "ok": true,
+          "pos": 9600
+        },
+        {
+          "text": "\"I smiled and, for the first time, let myself believe there might be one",
+          "ok": true,
+          "pos": 9712
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      4,
+      8
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1797,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 6、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": "ch31",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch31_chapter_thirty_one.txt",
+  "source_len_chars": 6891,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Eloise/Quinn",
+      "did": "家中对质：Eloise 无法接受 25 万无附带条件馈赠——「人不会白送四分之一百万」；envelope 摆在两人之间；Quinn：「Ellison 不是大多数人」；定义他——收藏家（人、影响力、常规买不到但都有价码的东西）、活在影子里。",
+      "range": [
+        975,
+        2646
+      ],
+      "quote_head": "People don’t do that.",
+      "quote_anchor": "People don’t do that."
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "保释后计划：等庭审、等媒体拆解人生、等全世界在他进法庭前先定性；门铃响——Eloise 开门，门外无人。",
+      "range": [
+        2646,
+        3238
+      ],
+      "quote_head": "“Now, I wait.”",
+      "quote_anchor": "“Now, I wait.”"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Eloise",
+      "did": "无名信：门垫上一封厚信——奶油色？无回址；「Quinn」黑墨手写匆忙但潦草不乱；两人首先想到 Ellison（another gesture）。",
+      "range": [
+        3238,
+        5000
+      ],
+      "quote_head": "an empty threshold",
+      "quote_anchor": "an empty threshold"
+    },
+    {
+      "n": 4,
+      "who": "The Departed",
+      "did": "信件核心（一）：写信人自称 Jensen 的朋友——「聪明到看懂游戏，蠢到以为能赢」；离 Ellison 太近然后人就没了；「我知道会发生什么」。",
+      "range": [
+        5000,
+        5552
+      ],
+      "quote_head": "Cade Jensen was my friend.",
+      "quote_anchor": "Cade Jensen was my friend."
+    },
+    {
+      "n": 5,
+      "who": "The Departed",
+      "did": "信件核心（二）：冰让车失控只是官方叙事——刹车被动手脚？Ellison 宅外的路被动过？你才是目标？他自认听起来偏执但坚称「那个世界本就设计成危险」；「Jensen 的消失与 Ellison 有关——所以我抢先消失」。",
+      "range": [
+        5552,
+        6206
+      ],
+      "quote_head": "Could you have been the target?",
+      "quote_anchor": "Could you have been the target?"
+    },
+    {
+      "n": 6,
+      "who": "The Departed",
+      "did": "署名：遁走者——不会有第二封信；Quinn 判断写信人「已经在逃」；「Ellison 的世界里 nothing happened by accident」。",
+      "range": [
+        6206,
+        6763
+      ],
+      "quote_head": "—The Departed",
+      "quote_anchor": "—The Departed"
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "章末信念动摇：第一次允许自己考虑——那一夜发生的不只是悲剧，而是早在握上方向盘之前「某件事就已经开始运转」。",
+      "range": [
+        6763,
+        6891
+      ],
+      "quote_head": "not just that tragedy had struck that night",
+      "quote_anchor": "not just that tragedy had struck that night"
+    }
+  ]
+}

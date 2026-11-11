@@ -1,0 +1,85 @@
+{
+  "chapter": "ch23",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch23_chapter_twenty_three.txt",
+  "source_len_chars": 12668,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Eloise/Quinn",
+      "did": "认亲进门：海玻璃色眼睛还是小时候的探寻神气——「像看一道没放弃要解开的谜题」；眼泪涌得太快；拥抱瞬间回到十五岁（她出生时他不许进产房）。",
+      "range": [
+        625,
+        2108
+      ],
+      "quote_head": "like I was a puzzle she hadn’t given up on solving",
+      "quote_anchor": "like I was a puzzle she hadn’t given up on solving"
+    },
+    {
+      "n": 2,
+      "who": "Eloise/Quinn",
+      "did": "她先道歉：为车祸颤抖着说对不起；他无话可答只闭眼抱住——「血缘，那个一直够不着的一部分」。",
+      "range": [
+        2108,
+        4514
+      ],
+      "quote_head": "I’m so sorry,",
+      "quote_anchor": "I’m so sorry,"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Eloise",
+      "did": "自嘲：问他感觉如何——像输了一场不知道自己在打的架；她一个眼神看穿（sibling look）。",
+      "range": [
+        4514,
+        5282
+      ],
+      "quote_head": "“Like I lost a fight I didn’t know I was in,”",
+      "quote_anchor": "“Like I lost a fight I didn’t know I was in,”"
+    },
+    {
+      "n": 4,
+      "who": "Quinn/Eloise",
+      "did": "道歉句：为那些年、为疏远、为她出生时的不知所措、为「连自己都没意识到的怨恨」；她回应「过去无法重写但不必住在里面——我们可以现在开始」。",
+      "range": [
+        5282,
+        5839
+      ],
+      "quote_head": "“For the years.”",
+      "quote_anchor": "“For the years.”"
+    },
+    {
+      "n": 5,
+      "who": "Quinn/母亲",
+      "did": "核心坦白：年轻、愤怒、迷路的男孩——母亲生下她像「重写一个不再有他的故事」：他像写坏的初稿，她是母亲一直想写的终稿。",
+      "range": [
+        5839,
+        10535
+      ],
+      "quote_head": "bad rough draft, and you were the final version",
+      "quote_anchor": "bad rough draft, and you were the final version"
+    },
+    {
+      "n": 6,
+      "who": "Quinn/Eloise",
+      "did": "一个词的裂缝：夸 Gordon「当时特别兴奋（He was so thrilled）」——过去式 Was 走漏；她表情闪了一瞬「瓷器上的裂纹」；像枪响后的硝烟。",
+      "range": [
+        10535,
+        11835
+      ],
+      "quote_head": "Was.",
+      "quote_anchor": "Was."
+    },
+    {
+      "n": 7,
+      "who": "Eloise/Quinn",
+      "did": "ICU 现实：脑肿胀、减压手术、hemorrhage、ICP 监护、插管——她记不住术语只记得「他们不让我见他」；他抱住她：「这次我哪儿也不去」。",
+      "range": [
+        11835,
+        12258
+      ],
+      "quote_head": "I just want to see him.",
+      "quote_anchor": "I just want to see him."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "chapter": "ch34",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch34_chapter_thirty_four.txt",
+  "source_len_chars": 4762,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Eloise/Quinn",
+      "did": "线索到手：Cardenas 拒给病历但确认随访信寄往某地址——「大概过时但是起点」；Delilah 姓名地址电话写在纸上；Quinn 拉裤腿露出脚踝监控（仍居家羁押）。",
+      "range": [
+        385,
+        1141
+      ],
+      "quote_head": "“Dr. Cardenas came through,”",
+      "quote_anchor": "“Dr. Cardenas came through,”"
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "负债清单：Gordon 死了因为是我；Eloise 将成无夫的双胞胎母亲——也因为我；「每口呼吸都是借来的，每秒都是向必然倒数」。",
+      "range": [
+        1141,
+        2399
+      ],
+      "quote_head": "I was the reason.",
+      "quote_anchor": "I was the reason."
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Ellison",
+      "did": "死期论：我的日子有数——要么定罪入狱十年，要么在 Ellison 世界里被消失；走运的自己走，倒霉的被移除「永不复见」；他要立人寿保险把 Eloise 设为受益人。",
+      "range": [
+        2399,
+        3544
+      ],
+      "quote_head": "One way or another, they always vanish.",
+      "quote_anchor": "One way or another, they always vanish."
+    },
+    {
+      "n": 4,
+      "who": "Eloise/Quinn",
+      "did": "她的反击：拍拳于掌——「你不准放弃」；「不准坐在这儿决定自己已经是幽灵、唯一作用是往一个你都不参与的未来砸钱」；「要是我没得选呢？」「我们心知这是可能的」。",
+      "range": [
+        3544,
+        4260
+      ],
+      "quote_head": "“You don’t get to give up,”",
+      "quote_anchor": "“You don’t get to give up,”"
+    },
+    {
+      "n": 5,
+      "who": "Eloise",
+      "did": "保险否决：人寿保险不买——至少现在不买，只要还有机会；「专注 Delilah——这盘散局里唯一还说得通的一块」。",
+      "range": [
+        4260,
+        4724
+      ],
+      "quote_head": "Not while there’s still a chance.",
+      "quote_anchor": "Not while there’s still a chance."
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "收束：指尖抚过 Delilah 的号码——「那就去查她知道什么」。",
+      "range": [
+        4724,
+        4762
+      ],
+      "quote_head": "“Then let’s find out what she knows.",
+      "quote_anchor": "“Then let’s find out what she knows."
+    }
+  ]
+}

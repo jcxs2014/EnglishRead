@@ -1,0 +1,85 @@
+{
+  "chapter": "ch28",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch28_chapter_twenty_eight.txt",
+  "source_len_chars": 10475,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "葬礼开场：墓园时间的拼布——碑有新旧，名字凿进石头「仿佛 legacy 可以靠凿子完成」；Gordon 父母花岗岩面孔；Eloise 眼肿纱帽下苍白但已无泪可流。",
+      "range": [
+        528,
+        3686
+      ],
+      "quote_head": "gravestones old and new",
+      "quote_anchor": "gravestones old and new"
+    },
+    {
+      "n": 2,
+      "who": "神父/Gordon",
+      "did": "悼词：Gordon Henry Willis——丈夫、儿子、朋友；爱不迟疑、给不求、把欢乐带进房间；「他没能等到孩子，但爱不会到此为止——活在两个孩子身上」。",
+      "range": [
+        3686,
+        4742
+      ],
+      "quote_head": "his love does not end here",
+      "quote_anchor": "his love does not end here"
+    },
+    {
+      "n": 3,
+      "who": "Quinn",
+      "did": "丧后日常：还起床喝咖啡过日子但一切缺一块——像碎窗钉上木板，漏进的风刚好提醒你失去什么；「我说不出话：对不起？该是我？没有你我怎么办？」。",
+      "range": [
+        4742,
+        6039
+      ],
+      "quote_head": "like a house where one window had been shattered",
+      "quote_anchor": "like a house where one window had been shattered"
+    },
+    {
+      "n": 4,
+      "who": "Ellison/Quinn",
+      "did": "Ellison 到场：黑衣扣到领口、寒冷不沾身；「我不知道 Gordon，但我知道失去重要之人意味着什么」；递出写着他名字的信封——「给你和你的家人，听说 Gordon 是个准爸爸」。",
+      "range": [
+        6039,
+        6675
+      ],
+      "quote_head": "an envelope with my name on it",
+      "quote_anchor": "an envelope with my name on it"
+    },
+    {
+      "n": 5,
+      "who": "Ellison/Quinn",
+      "did": "支票：二十五万美元——「掉进手里的救生索，大到无法理解」；Ellison 从不无因行事；「Take care of yourself, Quinn」离去。",
+      "range": [
+        6675,
+        8154
+      ],
+      "quote_head": "two hundred fifty thousand dollars",
+      "quote_anchor": "two hundred fifty thousand dollars"
+    },
+    {
+      "n": 6,
+      "who": "Rhodes/McKenna",
+      "did": "墓前逮捕：黑色轿车驶入墓园——Rhodes & McKenna；DA 批准修正起诉：一级车辆袭击＋二度车辆过失致死；手铐咬合腕上。",
+      "range": [
+        8154,
+        10394
+      ],
+      "quote_head": "The charges against you have been upgraded.",
+      "quote_anchor": "The charges against you have been upgraded."
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "章末判词：第二次失去方向盘——「这一次，真正的撞击要过一阵才来」。",
+      "range": [
+        10394,
+        10475
+      ],
+      "quote_head": "I lost control of the wheel.",
+      "quote_anchor": "I lost control of the wheel."
+    }
+  ]
+}

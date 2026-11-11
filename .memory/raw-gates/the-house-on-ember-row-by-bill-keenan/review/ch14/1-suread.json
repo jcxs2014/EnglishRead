@@ -1,0 +1,85 @@
+{
+  "chapter": "ch14",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch14_chapter_fourteen.txt",
+  "source_len_chars": 8841,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "走出市政厅：脑中只有不合逻辑的碎片——Jensen 赢下一切却隔夜求撤销；为什么？他看见了什么？",
+      "range": [
+        476,
+        1803
+      ],
+      "quote_head": "he’d begged for it all to disappear",
+      "quote_anchor": "he’d begged for it all to disappear"
+    },
+    {
+      "n": 2,
+      "who": "Gordon/Eloise",
+      "did": "电话：今天取结果的日子——Eloise 凌晨四点躺着盯天花板，一会儿说婴儿名、一会儿不许自己说出 pregnant 这个词；「我不能修好它，只能抱着她盼抱着就够了」。",
+      "range": [
+        1803,
+        5406
+      ],
+      "quote_head": "She’s been up since four",
+      "quote_anchor": "She’s been up since four"
+    },
+    {
+      "n": 3,
+      "who": "Wren/Quinn",
+      "did": "台阶偶遇：市政厅台阶下 Wren「像从水泥里长出来」；金边墨镜、开放站姿；「这不像巧合」——他知道 Mercer 会面。",
+      "range": [
+        5406,
+        6176
+      ],
+      "quote_head": "The coincidence didn’t feel like one.",
+      "quote_anchor": "The coincidence didn’t feel like one."
+    },
+    {
+      "n": 4,
+      "who": "Wren/Ellison",
+      "did": "关键信息：Ellison 有项目在推进——需要市政签字的可观项目（与 Jensen 项目同构）；「Ellison 相信亲自出面（personal touch）」。",
+      "range": [
+        6176,
+        8111
+      ],
+      "quote_head": "A sizable venture that requires the city’s sign-off.",
+      "quote_anchor": "A sizable venture that requires the city’s sign-off."
+    },
+    {
+      "n": 5,
+      "who": "Wren/Quinn",
+      "did": "名片：现场手写姓名地址——「这个人认识 Jensen，也许愿意谈」；名字陌生，「像等着一个待拆的答案」。",
+      "range": [
+        8111,
+        8415
+      ],
+      "quote_head": "“Someone who knew Jensen,”",
+      "quote_anchor": "“Someone who knew Jensen,”"
+    },
+    {
+      "n": 6,
+      "who": "Wren",
+      "did": "动机拒答：追问给卡的理由——「因为我是个乐于帮忙的人」+「进展如何告诉我一声」；拍肩而去汇入人流。",
+      "range": [
+        8415,
+        8798
+      ],
+      "quote_head": "“Because I’m a helpful man, Quinn.”",
+      "quote_anchor": "“Because I’m a helpful man, Quinn.”"
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "章末：再读卡片深色字迹——有了方向，以及更多疑问。",
+      "range": [
+        8798,
+        8841
+      ],
+      "quote_head": "Now I had direction.",
+      "quote_anchor": "Now I had direction."
+    }
+  ]
+}

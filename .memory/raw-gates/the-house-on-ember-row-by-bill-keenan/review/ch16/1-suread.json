@@ -1,0 +1,96 @@
+{
+  "chapter": "ch16",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch16_chapter_sixteen.txt",
+  "source_len_chars": 10703,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "DeWitt/Quinn",
+      "did": "名片兑现：林间小屋主人 Gus DeWitt 早知有人来（Wren 说过）；握手有力——「知道该用多大力气的人」；桌上蓝图卷边积月未动但未弃。",
+      "range": [
+        1063,
+        2355
+      ],
+      "quote_head": "Wren mentioned someone might stop by",
+      "quote_anchor": "Wren mentioned someone might stop by"
+    },
+    {
+      "n": 2,
+      "who": "DeWitt/Jensen",
+      "did": "定调：与 Cade 合作过几个项目——好开发商、更是推销员；「钱和许可全看你能把想法卖多好」；Cade 让你相信他在做的事，哪怕数字不利。",
+      "range": [
+        2355,
+        2959
+      ],
+      "quote_head": "Good developer. Better salesman.",
+      "quote_anchor": "Good developer. Better salesman."
+    },
+    {
+      "n": 3,
+      "who": "DeWitt",
+      "did": "技术爆点：最后的数字都对，问题在地——地基不稳；淤泥太多基岩太少，「撑不住他想要的」。",
+      "range": [
+        2959,
+        4510
+      ],
+      "quote_head": "The land wasn’t stable,",
+      "quote_anchor": "The land wasn’t stable,"
+    },
+    {
+      "n": 4,
+      "who": "DeWitt",
+      "did": "教堂比喻：想建管几百年的大教堂，图纸再完美没用——种在沼泽上白搭；「Cade 干的正是这个」；differential settlement 讲解（人行道一端沉得快→裂缝→四十层楼同理）。",
+      "range": [
+        4510,
+        5740
+      ],
+      "quote_head": "plant it on a swamp.",
+      "quote_anchor": "plant it on a swamp."
+    },
+    {
+      "n": 5,
+      "who": "DeWitt/Jensen",
+      "did": "关键对话：不止一次警告——Cade 只回「我们会有办法的」；「他不是工程师，他看见的是可能而非现状」。",
+      "range": [
+        5740,
+        7145
+      ],
+      "quote_head": "And he told me we’d figure it out.",
+      "quote_anchor": "And he told me we’d figure it out."
+    },
+    {
+      "n": 6,
+      "who": "DeWitt",
+      "did": "耻辱论：shame 修正为 failure——有人输得起走得开，Cade 不是；项目本该是传世之作、皇冠明珠，「结果成了他最大的错」；「也许他没法与那个共存」。",
+      "range": [
+        7145,
+        8038
+      ],
+      "quote_head": "The crown jewel of his career.",
+      "quote_anchor": "The crown jewel of his career."
+    },
+    {
+      "n": 7,
+      "who": "Quinn/DeWitt",
+      "did": "靶心反论：不只是虚荣项目——真金白银的投资人等着回报；Cade 突然叫停「那些把手和钱包押在里面的人未必乐意」；DeWitt 反驳「Cade 没有敌人……人们喜欢他」；Quinn 判：他信他自己说的，或他需要信。",
+      "range": [
+        8038,
+        10650
+      ],
+      "quote_head": "a target on his back.",
+      "quote_anchor": "a target on his back."
+    },
+    {
+      "n": 8,
+      "who": "DeWitt",
+      "did": "章末疑影：后视镜里 DeWitt 抱臂站在门廊呵白雾——像在琢磨自己是否说多了；「或者说得刚刚好」。",
+      "range": [
+        10650,
+        10703
+      ],
+      "quote_head": "wondering if he had said too much.",
+      "quote_anchor": "wondering if he had said too much."
+    }
+  ]
+}

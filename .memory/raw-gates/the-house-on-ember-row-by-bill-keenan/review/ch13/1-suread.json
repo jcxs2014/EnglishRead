@@ -1,0 +1,96 @@
+{
+  "chapter": "ch13",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch13_chapter_thirteen.txt",
+  "source_len_chars": 9330,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Mercer/Jensen",
+      "did": "画像证词：每年几百个雄心项目人过其办公室，多数一遇障碍就撤——Cade 遇墙穿墙；官司、延误、租户纠纷全扛下，「每一次都拿到了他要的」。",
+      "range": [
+        607,
+        2169
+      ],
+      "quote_head": "He was relentless",
+      "quote_anchor": "He was relentless"
+    },
+    {
+      "n": 2,
+      "who": "Mercer",
+      "did": "资金澄清：脏钱传闻不实——投资人全是业内最有声望的 legacy players，「不赢不冒险」；神秘只是 Cade 的性格（less people knew, the less they could take）。",
+      "range": [
+        2169,
+        4247
+      ],
+      "quote_head": "Not the kinds of names that would disappear overnight",
+      "quote_anchor": "Not the kinds of names that would disappear overnight"
+    },
+    {
+      "n": 3,
+      "who": "Jensen/Mercer",
+      "did": "关键时刻：官方宣布前一天 Jensen 来办公室——她以为是庆功（他惯让关键人物被感谢），但他不是来庆祝的。",
+      "range": [
+        4247,
+        4296
+      ],
+      "quote_head": "He wasn’t celebrating.",
+      "quote_anchor": "He wasn’t celebrating."
+    },
+    {
+      "n": 4,
+      "who": "Mercer/Jensen",
+      "did": "反常定调：这个词不属于 Cade——坐立不安、极度担忧，「像被拧得太紧等着崩断」；「我听过男人嗓音里的绝望，他是真的绝望」。",
+      "range": [
+        4296,
+        4711
+      ],
+      "quote_head": "“Panicking.”",
+      "quote_anchor": "“Panicking.”"
+    },
+    {
+      "n": 5,
+      "who": "Jensen/Mercer",
+      "did": "爆点：求撤销一切——收回批准、废除许可、让项目「像从未存在」；反复念叨 It has to be undone, Commissioner, all of it；不解释，「恳求一次快而干净的撤退」。",
+      "range": [
+        4711,
+        5547
+      ],
+      "quote_head": "“He asked me to revoke everything.”",
+      "quote_anchor": "“He asked me to revoke everything.”"
+    },
+    {
+      "n": 6,
+      "who": "Jensen",
+      "did": "退出条款：要全额退还投资人——每一分带利息，谁都不亏；「他只想出局」；这不是临阵怯场（That's not cold feet——Quinn）。",
+      "range": [
+        5547,
+        5836
+      ],
+      "quote_head": "He just wanted out.",
+      "quote_anchor": "He just wanted out."
+    },
+    {
+      "n": 7,
+      "who": "Mercer/Jensen",
+      "did": "时间线：周五进办公室求撤销——周六夜人消失在码头；谈话在下周早些时候被电话打断（budget review）。",
+      "range": [
+        5836,
+        9275
+      ],
+      "quote_head": "He came into my office on a Friday",
+      "quote_anchor": "He came into my office on a Friday"
+    },
+    {
+      "n": 8,
+      "who": "Quinn",
+      "did": "章末自省：带比来时更多的东西离开；「信任是这座城易碎的货币，传来传去直到消失；每笔人情终会到期」；离场条件——写稿先过目。",
+      "range": [
+        9275,
+        9330
+      ],
+      "quote_head": "every favor was a debt",
+      "quote_anchor": "every favor was a debt"
+    }
+  ]
+}

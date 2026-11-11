@@ -1,0 +1,96 @@
+{
+  "chapter": "ch10",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch10_chapter_ten.txt",
+  "source_len_chars": 10157,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Margaux/Quinn",
+      "did": "登场：吧台跷腿慵懒而优雅；美貌不索求关注却天然辖住全场（不靠堆砌靠节制）；一口道出 Quinn 全名 Quinn Whitaker。",
+      "range": [
+        500,
+        1808
+      ],
+      "quote_head": "Margaux Fontaine sat at the bar",
+      "quote_anchor": "Margaux Fontaine sat at the bar"
+    },
+    {
+      "n": 2,
+      "who": "Ellison",
+      "did": "撮合语：你们会合得来——Margaux 懂「失物」门道；她的职业定义：艺术为主——「被放错位置的东西」「需要找到对的手的东西」。",
+      "range": [
+        1808,
+        5136
+      ],
+      "quote_head": "Margaux knows a thing or two about lost things.",
+      "quote_anchor": "Margaux knows a thing or two about lost things."
+    },
+    {
+      "n": 3,
+      "who": "Margaux/Quinn",
+      "did": "旧案回认：几年前 Quinn 写过失踪伦勃朗——午夜劫案、私密收藏、艺术圈沸腾数周，画作无逮捕无解释地「回来了」；Margaux 点破「You wrote about a story that involved me」。",
+      "range": [
+        5136,
+        6318
+      ],
+      "quote_head": "The Rembrandt.",
+      "quote_anchor": "The Rembrandt."
+    },
+    {
+      "n": 4,
+      "who": "Margaux",
+      "did": "惊人自白：纠正用词——不是策划劫案那么简单：把对的人放进对的位置、确保门没锁、算准监控失灵时长；「我没亲自撬门割画，那部分远没那么有趣」；「然后我卖了——卖给已经拥有它的那个人」。",
+      "range": [
+        6318,
+        6854
+      ],
+      "quote_head": "“I arranged it,”",
+      "quote_anchor": "“I arranged it,”"
+    },
+    {
+      "n": 5,
+      "who": "Margaux/Quinn",
+      "did": "商业逻辑：他想拥有它两次；「这就是财富运作的方式」；Quinn：那不是偷窃的运作方式——她：那正是财富的运作方式；Quinn 的报道让事情太公开，迫使归还——「你让我别无选择」。",
+      "range": [
+        6854,
+        7499
+      ],
+      "quote_head": "He wanted to own it twice.",
+      "quote_anchor": "He wanted to own it twice."
+    },
+    {
+      "n": 6,
+      "who": "Margaux",
+      "did": "收藏哲学：Steal 难听，她偏好 collect——在场人人都是收藏家（钱、影响力、秘密、短语）；画只是副产品，真正的目标是 leverage。",
+      "range": [
+        7499,
+        9345
+      ],
+      "quote_head": "I prefer the word collect.",
+      "quote_anchor": "I prefer the word collect."
+    },
+    {
+      "n": 7,
+      "who": "Ellison",
+      "did": "回场警告：夸 Quinn 有找到「人们宁可继续埋着的东西」的天赋，随即补刀——「我好奇多久之后，什么东西会找到他」；转身汇入人群。",
+      "range": [
+        9345,
+        9792
+      ],
+      "quote_head": "I wonder how long before something finds him.",
+      "quote_anchor": "I wonder how long before something finds him."
+    },
+    {
+      "n": 8,
+      "who": "Margaux/Ellison",
+      "did": "旁观者证词：她点破 Ellison 极其享受这一切——看人们怀疑「被玩的是不是自己」；Quinn：那我们很快就会知道了。",
+      "range": [
+        9792,
+        10157
+      ],
+      "quote_head": "Watching people wonder if they’re the ones being played.",
+      "quote_anchor": "Watching people wonder if they’re the ones being played."
+    }
+  ]
+}

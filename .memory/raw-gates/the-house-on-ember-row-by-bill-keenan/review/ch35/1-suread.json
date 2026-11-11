@@ -1,0 +1,63 @@
+{
+  "chapter": "ch35",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch35_chapter_thirty_five.txt",
+  "source_len_chars": 6772,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn/Eloise",
+      "did": "电话断线：Delilah 号码一直占线——Eloise 坚信抄对号码；也许已停机也许换了号，「她大概不想被找到」；「听起来像被从存在里剪掉」；只剩地址一条线；Eloise 提议自己去——Quinn 拒（若开门的不只是 Delilah？）；她提醒他戴脚环。",
+      "range": [
+        116,
+        1973
+      ],
+      "quote_head": "“Still busy.”",
+      "quote_anchor": "“Still busy.”"
+    },
+    {
+      "n": 2,
+      "who": "Everett/Quinn",
+      "did": "不速之客：重扣门——律师进门像刚穿过风暴、身上带着风暴残骸；坐姿是「下一句话将改变一个人一生」的姿势；Quinn 脑中多米诺：谁死了？谁消失了？又抓我？",
+      "range": [
+        1973,
+        4006
+      ],
+      "quote_head": "Charles Everett",
+      "quote_anchor": "Charles Everett"
+    },
+    {
+      "n": 3,
+      "who": "Everett/Quinn",
+      "did": "逆转宣布：法官今早来电——检方复核证据、请法证专家——认定事故报告结论有缺陷、原始证据不足；DA 撤销全部指控；「不上庭不留案底不定罪——什么都没有」。",
+      "range": [
+        4006,
+        5557
+      ],
+      "quote_head": "“Inaccurate?”",
+      "quote_anchor": "“Inaccurate?”"
+    },
+    {
+      "n": 4,
+      "who": "Everett",
+      "did": "律师困惑：执业二十年没见过铁案一夜散架——「就像有人进去替你把石板擦干净了，Quinn」；「我希望邀功，但我什么都没做」。",
+      "range": [
+        5557,
+        5945
+      ],
+      "quote_head": "I’ve never seen anything like this.",
+      "quote_anchor": "I’ve never seen anything like this."
+    },
+    {
+      "n": 5,
+      "who": "Quinn",
+      "did": "自由的代价感：胸口结未消只换形状；身体先于头脑消化这消息；「我不信天降的清白——有人动了手脚替我」；明天去法院拆脚环。",
+      "range": [
+        5945,
+        6378
+      ],
+      "quote_head": "The knot in my chest wasn’t gone,",
+      "quote_anchor": "The knot in my chest wasn’t gone,"
+    }
+  ]
+}

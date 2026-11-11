@@ -1,0 +1,96 @@
+{
+  "chapter": "ch01",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch01_chapter_one.txt",
+  "source_len_chars": 10488,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "宅邸/ Ellison",
+      "did": "开场定调：Ember Row 宅邸被写成「献给野心的教堂」，尖顶窗洒金光、廊柱指天；房子由 Laurence Ellison 以一丝不苟的意志建造。",
+      "range": [
+        35,
+        572
+      ],
+      "quote_head": "The house on Ember Row stood like a cathedral to ambition",
+      "quote_anchor": "The house on Ember Row stood like a cathedral to ambition"
+    },
+    {
+      "n": 2,
+      "who": "叙述者 Quinn",
+      "did": "回望伏笔：站在 Ellison 造物边缘时「我」感到一种隐约牵引，事后真希望自己当初走开——灾难预告。",
+      "range": [
+        572,
+        644
+      ],
+      "quote_head": "I felt a faint pull",
+      "quote_anchor": "I felt a faint pull"
+    },
+    {
+      "n": 3,
+      "who": "宴会众生",
+      "did": "奢华铺陈：银色捷豹 XJ12 滑上车道、白手套侍者开门；Chanel No.5、金烟、主厅花艺（飞燕草/菖兰/马蹄莲/西番莲）——「最美的构成物即将枯萎」。",
+      "range": [
+        644,
+        3475
+      ],
+      "quote_head": "a silver Jaguar XJ12",
+      "quote_anchor": "a silver Jaguar XJ12"
+    },
+    {
+      "n": 4,
+      "who": "Ellison/Quinn",
+      "did": "Ellison 隔满堂宾客点名 Quinn 举杯致意——「国王认领臣民」；叙述者名为 Quinn。",
+      "range": [
+        3475,
+        5422
+      ],
+      "quote_head": "“Quinn,” he said, spotting me",
+      "quote_anchor": "“Quinn,” he said, spotting me"
+    },
+    {
+      "n": 5,
+      "who": "Ellison/寡妇",
+      "did": "寡妇花园往事：Ellison 自述童年街对面寡妇种「不该存活」的外来植物，问其动力，答「最美的东西从我们埋葬的东西里生长」；Ellison 称此为真。",
+      "range": [
+        5422,
+        6113
+      ],
+      "quote_head": "She told me the most beautiful things grow",
+      "quote_anchor": "She told me the most beautiful things grow"
+    },
+    {
+      "n": 6,
+      "who": "Ellison",
+      "did": "权力观：Ellison 以珠宝匠的耐心打造财富，把钱当作杠杆（leverage）而非货币，「不必抬高嗓门就支配世界」。",
+      "range": [
+        6113,
+        6624
+      ],
+      "quote_head": "Ellison had crafted his fortune",
+      "quote_anchor": "Ellison had crafted his fortune"
+    },
+    {
+      "n": 7,
+      "who": "Ellison/Quinn",
+      "did": "坠落论+淡去论：Quinn 猜「忍不住造东西」，Ellison 否认——「像我这样的人需要一件美的东西来坠落」；又说最顶尖的人不坠落只淡去（fade），无崩塌无丑闻，世界太迟才察觉。",
+      "range": [
+        6624,
+        9068
+      ],
+      "quote_head": "something beautiful to fall from",
+      "quote_anchor": "something beautiful to fall from"
+    },
+    {
+      "n": 8,
+      "who": "Wren",
+      "did": "Wren 定位：Ellison 的左右手、从创业之初追随；建筑师/脚手架与岩基的比喻；Ellison 称他能「点头移山」；章末 Quinn 收束——见过大教堂倒塌、知道底下埋了什么。",
+      "range": [
+        9068,
+        9487
+      ],
+      "quote_head": "James Wren, Ellison",
+      "quote_anchor": "James Wren, Ellison"
+    }
+  ]
+}

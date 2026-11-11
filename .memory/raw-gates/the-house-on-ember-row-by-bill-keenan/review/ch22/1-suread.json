@@ -1,0 +1,52 @@
+{
+  "chapter": "ch22",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch22_chapter_twenty_two.txt",
+  "source_len_chars": 6323,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "吗啡日子：荧光灯连成一片、止痛剂钝化一切却不真正消除；身体被检查按压扎针——「受苦没有隐私可言」；吗啡的仁慈：不挑剔，连「活该背负的」也一并拿走。",
+      "range": [
+        693,
+        3857
+      ],
+      "quote_head": "There was no privacy in suffering.",
+      "quote_anchor": "There was no privacy in suffering."
+    },
+    {
+      "n": 2,
+      "who": "Dr. Lewis/Quinn",
+      "did": "生死毫厘：身体响应良好（肿胀消退骨折稳定）；撞击把仪表盘撞进双腿——偏右几厘米切断股动脉，「没等人到就流血而死」；「你是非常幸运的人」。",
+      "range": [
+        3857,
+        4568
+      ],
+      "quote_head": "A few centimeters to the right,",
+      "quote_anchor": "A few centimeters to the right,"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Dr. Lewis",
+      "did": "警察仍在：医生只管健康、对执法不能评论；「病情稳定后让当局来提供细节」；一天一天一小时一小时来——「我没说不知道」。",
+      "range": [
+        4568,
+        6041
+      ],
+      "quote_head": "Is the police officer still there?",
+      "quote_anchor": "Is the police officer still there?"
+    },
+    {
+      "n": 4,
+      "who": "Dr. Lewis/Eloise",
+      "did": "章末访客：另一位访客——女人在候诊室守了几天，自称家人；医生问要不要请进来；Quinn 用近乎耳语的音量答「请她进来」。",
+      "range": [
+        6041,
+        6323
+      ],
+      "quote_head": "She says she’s family.",
+      "quote_anchor": "She says she’s family."
+    }
+  ]
+}

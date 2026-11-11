@@ -1,0 +1,63 @@
+{
+  "chapter": "ch43",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch43_chapter_forty_three.txt",
+  "source_len_chars": 5186,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Ellison/Quinn",
+      "did": "谢幕：那晚之后 Ellison 再无音讯——Delilah、所有人都没有；他以活着的方式消失；「不想被见时无人可见，不可撼动直到被撼动」；两种传闻（海外账户一夜清空/私人飞机深夜起飞不知去向 vs 从未离开仍在暗处操纵）。",
+      "range": [
+        400,
+        1412
+      ],
+      "quote_head": "untouchable until he wasn’t",
+      "quote_anchor": "untouchable until he wasn’t"
+    },
+    {
+      "n": 2,
+      "who": "Ellison",
+      "did": "无解之终：没有答案没有证据——「失踪之谜是他拥有的最后一样东西，也许是他的巅峰之作」。",
+      "range": [
+        1412,
+        1642
+      ],
+      "quote_head": "his greatest masterpiece.",
+      "quote_anchor": "his greatest masterpiece."
+    },
+    {
+      "n": 3,
+      "who": "Wren/Quinn",
+      "did": "七年后的信：素封信封工整字迹无回址；三行——Ellison 已故；遗嘱把 Ember Row 宅留给 Quinn；署名 James Wren；Quinn 读三遍然后笑了——「不是因为好笑，是因为太他妈可以预测」；Ellison 总爱把棋子留在棋盘上。",
+      "range": [
+        1642,
+        2705
+      ],
+      "quote_head": "In his will, he left you the house on Ember Row. Yours truly",
+      "quote_anchor": "In his will, he left you the house on Ember Row. Yours truly, James Wren"
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "废墟：石车道开裂杂草穿缝——自然收回被挥霍偷走的东西；廊柱内倾向时间与重力投降；锈铰链门半开「像房子自己厌倦了守密」；脏脚印——孩子、占屋者、猎奇者；墙上无价艺术品被剥走；舞厅吊灯坠地水晶碎牙；春宴的花——「现在没了」；啮齿类巢居楼梯角、藤蔓穿破窗「像无处可去的幽灵」。",
+      "range": [
+        2705,
+        5153
+      ],
+      "quote_head": "surrendered to time and gravity",
+      "quote_anchor": "surrendered to time and gravity"
+    },
+    {
+      "n": 5,
+      "who": "Quinn",
+      "did": "终句改写：曾把 Ember Row 误认大教堂——彩窗红蓝绿淌在地上视之为神圣；现在懂了：「大教堂不是为信众服务的，是造来让你跪下的」；遗赠是礼物？警告？还是只有他懂的游戏最后一手？",
+      "range": [
+        5153,
+        5186
+      ],
+      "quote_head": "They’re built to make you kneel.",
+      "quote_anchor": "They’re built to make you kneel."
+    }
+  ]
+}

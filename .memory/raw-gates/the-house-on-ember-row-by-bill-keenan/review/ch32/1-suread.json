@@ -1,0 +1,63 @@
+{
+  "chapter": "ch32",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch32_chapter_thirty_two.txt",
+  "source_len_chars": 4638,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Eloise/Quinn",
+      "did": "重读信：她攥紧信纸脸色发白——指甲划过墨迹像摸出纸下的真相；「谁写的？为什么找你？」；Quinn：「他已在逃，知道不逃的人的下场」。",
+      "range": [
+        484,
+        1140
+      ],
+      "quote_head": "“This is terrifying,”",
+      "quote_anchor": "“This is terrifying,”"
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "游戏论：钱不是、常规权力也不是——「知道比拥有更值钱」的游戏；如果他一直在看我、在我上棋盘前就移动棋子——「我到底正走进什么？」",
+      "range": [
+        1140,
+        2088
+      ],
+      "quote_head": "Ellison played a different kind of game",
+      "quote_anchor": "Ellison played a different kind of game"
+    },
+    {
+      "n": 3,
+      "who": "Eloise",
+      "did": "惊人相认：她认出 Cade Jensen——记得他的妻子 Delilah Jensen；两人曾在同一家生育诊所一起求子，「那时 Cade 还活着」；「我们都在拼命（both desperate）」。",
+      "range": [
+        2088,
+        3029
+      ],
+      "quote_head": "“Delilah,” she said.",
+      "quote_anchor": "“Delilah,” she said."
+    },
+    {
+      "n": 4,
+      "who": "Eloise",
+      "did": "时序：Delilah 确诊怀孕后最多一周搬走——Cade 消失后；诊所随访再没出现，「没解释没告别」；上周还 radiant 攥着超声照片，下一周 gone。",
+      "range": [
+        3029,
+        4185
+      ],
+      "quote_head": "Right after she found out she was pregnant",
+      "quote_anchor": "Right after she found out she was pregnant"
+    },
+    {
+      "n": 5,
+      "who": "Eloise",
+      "did": "唯一线索：诊所主任——会记住每个病人名字、让身边人保持乐观与希望；Eloise 愿意打电话；「如果有人知道 Delilah 去了哪，就是她」；“Then call her.”",
+      "range": [
+        4185,
+        4607
+      ],
+      "quote_head": "“Dr. Miriam Cardenas,”",
+      "quote_anchor": "“Dr. Miriam Cardenas,”"
+    }
+  ]
+}

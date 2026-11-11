@@ -1,0 +1,74 @@
+{
+  "chapter": "ch09",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch09_chapter_nine.txt",
+  "source_len_chars": 4858,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Solstice",
+      "did": "开场：巨刃切海湾、只留尾迹证明来过；热浴池粉彩衣高尔夫射海——奢华全景；「这一天让人忘了世界还有别的颜色——可我看见的不止挥霍，是一个运转中的王国」。",
+      "range": [
+        37,
+        1515
+      ],
+      "quote_head": "Solstice carved through the bay like a massive blade",
+      "quote_anchor": "Solstice carved through the bay like a massive blade"
+    },
+    {
+      "n": 2,
+      "who": "Wren",
+      "did": "Wren 值班特写：端着未动的酒杯保持学习过的警惕，不属派对；「今天是什么日子？」「和每一天一样」；游艇命名问答——「因为那是一年里白昼最长的一天」。",
+      "range": [
+        1515,
+        3180
+      ],
+      "quote_head": "watching the party with a studied vigilance",
+      "quote_anchor": "watching the party with a studied vigilance"
+    },
+    {
+      "n": 3,
+      "who": "Quinn",
+      "did": "目击码头：隔海认出海岸线上的码头——一旦看见就无法装作没看见；「他们管那叫自杀；他们始终没找到尸体」。",
+      "range": [
+        3180,
+        3886
+      ],
+      "quote_head": "I couldn’t unsee them.",
+      "quote_anchor": "I couldn’t unsee them."
+    },
+    {
+      "n": 4,
+      "who": "Quinn/Ellison",
+      "did": "试探：承认几天前去过码头，说那地方「埋着很多故事」；Ellison 笑答一切都有故事、有的难讲。",
+      "range": [
+        3886,
+        4192
+      ],
+      "quote_head": "Feels like it has a lot of buried stories.",
+      "quote_anchor": "Feels like it has a lot of buried stories."
+    },
+    {
+      "n": 5,
+      "who": "Ellison",
+      "did": "软刀子：笑容不变地补上「有些故事不配被记得」；两人对视不退——那一瞬像一场测试。",
+      "range": [
+        4192,
+        4526
+      ],
+      "quote_head": "aren’t meant to be remembered.",
+      "quote_anchor": "aren’t meant to be remembered."
+    },
+    {
+      "n": 6,
+      "who": "Ellison",
+      "did": "断裂转场：拍背换回轻快语气说要介绍一个人，「我想你会喜欢她」；那一刻消失，Ellison 已在别处——Quinn 甚至怀疑对话是否发生过。",
+      "range": [
+        4526,
+        4858
+      ],
+      "quote_head": "“I want to introduce you to someone.”",
+      "quote_anchor": "“I want to introduce you to someone.”"
+    }
+  ]
+}

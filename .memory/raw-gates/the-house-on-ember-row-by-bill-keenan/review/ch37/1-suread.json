@@ -1,0 +1,74 @@
+{
+  "chapter": "ch37",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch37_chapter_thirty_seven.txt",
+  "source_len_chars": 4930,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "违约出发：不给怀疑留时间——回家收行李（duffel bag 不装满「像打算回来」）、给 Eloise 留条、揣 Delilah 最后地址上路；「一停下来我就不会走了」；见过 Ellison 世界里逗留者的下场（Cade、Gordon）。",
+      "range": [
+        501,
+        1529
+      ],
+      "quote_head": "I just moved.",
+      "quote_anchor": "I just moved."
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "反转宣言：一切都被烧毁、抹除、改写成不符真相的版本；「石板被擦干净——可我没请求过」；不，够了就是够了。",
+      "range": [
+        1529,
+        1940
+      ],
+      "quote_head": "Enough was enough.",
+      "quote_anchor": "Enough was enough."
+    },
+    {
+      "n": 3,
+      "who": "Quinn",
+      "did": "三重反向逻辑：Ellison 要我停、Wren 要我停、脑中每个理性声音都要我停——「为了活下去我做了唯一能做的事：继续走」；路上自问 Delilah 会不会是陷阱的一部分。",
+      "range": [
+        1940,
+        3541
+      ],
+      "quote_head": "Ellison wanted me to stop.",
+      "quote_anchor": "Ellison wanted me to stop."
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "替代方案否决：掉头带孕妻藏起来赶在被抹掉前消失？「那不是生活，是慢一点的死」；等待只带来更多要埋的尸体（waiting had never gotten me anything but more bodies to bury）。",
+      "range": [
+        3541,
+        3751
+      ],
+      "quote_head": "That wasn’t a life.",
+      "quote_anchor": "That wasn’t a life."
+    },
+    {
+      "n": 5,
+      "who": "Quinn",
+      "did": "霓虹第二次：远处霓虹如火刺破夜——Lucky Strike 赌场；上次两手空空进去欠着什么出来；「像一扇等着被推开的门、一个等着被选的 alternate ending」；拉到酒吧让威士忌烧掉问题？还是继续？",
+      "range": [
+        3751,
+        4877
+      ],
+      "quote_head": "LUCKY STRIKE CASINO.",
+      "quote_anchor": "LUCKY STRIKE CASINO."
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "胜利：方向盘想转、手指抖——他没有看那个出口，径直驶过；「我赢了今晚」；继续开。",
+      "range": [
+        4877,
+        4930
+      ],
+      "quote_head": "I didn’t look at the exit as I passed.",
+      "quote_anchor": "I didn’t look at the exit as I passed."
+    }
+  ]
+}

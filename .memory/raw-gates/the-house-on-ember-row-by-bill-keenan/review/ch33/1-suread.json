@@ -1,0 +1,74 @@
+{
+  "chapter": "ch33",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch33_chapter_thirty_three.txt",
+  "source_len_chars": 5221,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Everett",
+      "did": "律所开场：无个性的房间——谈判与后果之地的共性；Everett 袖卷到肘、领带松一寸，「像多年替一人扛不动官司的人」；「直接谈下一步」。",
+      "range": [
+        84,
+        1615
+      ],
+      "quote_head": "scrubbed of personality",
+      "quote_anchor": "scrubbed of personality"
+    },
+    {
+      "n": 2,
+      "who": "Everett",
+      "did": "大陪审团：闭门采证——无辩方律师、无交叉质证，只有陪审员听州方陈述决定是否正式起诉；「记录不公布你连说了什么都不知道」；另一路线 preliminary hearing = mini-trial 可交叉质证、挑战薄弱点。",
+      "range": [
+        1615,
+        2703
+      ],
+      "quote_head": "It’s a one-sided show.",
+      "quote_anchor": "It’s a one-sided show."
+    },
+    {
+      "n": 3,
+      "who": "Everett",
+      "did": "审前动议：法律象棋——申请排除证据（呼气检测程序被污染？事故重建有缺陷？）；「全扔上墙看哪个粘住」；都不粘「真正的游戏才开始」=认罪协商。",
+      "range": [
+        2703,
+        3365
+      ],
+      "quote_head": "legal chess moves",
+      "quote_anchor": "legal chess moves"
+    },
+    {
+      "n": 4,
+      "who": "Everett",
+      "did": "协商标价：按三项罪名，检方大概出 5–7 年换认罪、不上庭、服刑后假释——「谈得狠也许更低」；拒绝则上庭——陪审团遴选、动议、举证、专家证词全套；「检方会推 4–6 个月内排期，也可能更久」；期间居家羁押等待。",
+      "range": [
+        3365,
+        4618
+      ],
+      "quote_head": "five to seven years",
+      "quote_anchor": "five to seven years"
+    },
+    {
+      "n": 5,
+      "who": "Everett",
+      "did": "陪审团心理学：陪审员不愿对悲伤的家人说「这只是事故」——他们要一个能怪罪的人；「这不像你以为的那么重要」。",
+      "range": [
+        4618,
+        5162
+      ],
+      "quote_head": "They want someone to blame.",
+      "quote_anchor": "They want someone to blame."
+    },
+    {
+      "n": 6,
+      "who": "Everett",
+      "did": "审判代价：过去的一切都会被挖——每个错误、每笔烂账、每杯酒；找所有对你不利的人；「他们会确保陪审团看到的是杀了人的家伙，不是犯了错的人」。",
+      "range": [
+        5162,
+        5221
+      ],
+      "quote_head": "the guy who killed a man, not the guy who made a mistake",
+      "quote_anchor": "the guy who killed a man, not the guy who made a mistake"
+    }
+  ]
+}

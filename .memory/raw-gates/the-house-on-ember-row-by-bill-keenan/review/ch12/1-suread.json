@@ -1,0 +1,96 @@
+{
+  "chapter": "ch12",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch12_chapter_twelve.txt",
+  "source_len_chars": 10920,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn/Mercer",
+      "did": "通关口令：市政厅前台报名号；走廊深处是权力动脉——「许可证被埋、人情被还」；Mercer 办公室务实不奢。",
+      "range": [
+        1046,
+        2355
+      ],
+      "quote_head": "“Quinn Whitaker for Commissioner Mercer,”",
+      "quote_anchor": "“Quinn Whitaker for Commissioner Mercer,”"
+    },
+    {
+      "n": 2,
+      "who": "Mercer",
+      "did": "画像：五英尺出头但房间为她缩小；棱角脸、铁一般的发髻；「为她位置战斗过、不打算交出的女人」；桌前等待来访者露出真实意图。",
+      "range": [
+        2355,
+        3809
+      ],
+      "quote_head": "the room shrank around her",
+      "quote_anchor": "the room shrank around her"
+    },
+    {
+      "n": 3,
+      "who": "Mercer",
+      "did": "谈判开局：摆出日程（交通/开发商催分区/预算会/连任）——「你到底想要什么」。",
+      "range": [
+        3809,
+        5508
+      ],
+      "quote_head": "I don’t have time for shadowboxing",
+      "quote_anchor": "I don’t have time for shadowboxing"
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "直球指控：她问凭什么觉得我能帮——「因为你就是当事人之一」；她轻笑，游戏进入真场；「What do you think you know?」",
+      "range": [
+        5508,
+        6829
+      ],
+      "quote_head": "“Because you were part of it.”",
+      "quote_anchor": "“Because you were part of it.”"
+    },
+    {
+      "n": 5,
+      "who": "Quinn/Mercer",
+      "did": "证据链摊开： bleach 木斑 + 项目需要市政批准——「你的批准」+ 人一消失项目就死（许可吊销资金抽走像从未存在）；她轻敲桌面、首次就 Jensen 名字作出反应（a fractional shift）。",
+      "range": [
+        6829,
+        8965
+      ],
+      "quote_head": "One that needed city approval.",
+      "quote_anchor": "One that needed city approval."
+    },
+    {
+      "n": 6,
+      "who": "Gordon/Quinn",
+      "did": "人情账：真动机——Gordon 当年的狠话「搞砸了就别回来」；信任并逼他成长；「现在轮到我还这份人情」；他在为保工作保报纸而战。",
+      "range": [
+        8965,
+        10543
+      ],
+      "quote_head": "don’t bother coming back",
+      "quote_anchor": "don’t bother coming back"
+    },
+    {
+      "n": 7,
+      "who": "Quinn/Mercer",
+      "did": "价值观交换：忠诚是唯一还算数的货币，其余临时；Mercer 眼里闪过认出同类的光（a debt that compounds in the dark）。",
+      "range": [
+        10543,
+        10901
+      ],
+      "quote_head": "Loyalty’s the only currency that still matters",
+      "quote_anchor": "Loyalty’s the only currency that still matters"
+    },
+    {
+      "n": 8,
+      "who": "Mercer",
+      "did": "谈成：「你真想知道 Jensen 怎么了？」「我必须知道」——「那我们谈吧」。",
+      "range": [
+        10901,
+        10920
+      ],
+      "quote_head": "“Then let’s talk.”",
+      "quote_anchor": "“Then let’s talk.”"
+    }
+  ]
+}

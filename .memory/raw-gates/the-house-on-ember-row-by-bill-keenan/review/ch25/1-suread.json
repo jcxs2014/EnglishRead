@@ -1,0 +1,74 @@
+{
+  "chapter": "ch25",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch25_chapter_twenty_five.txt",
+  "source_len_chars": 5192,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Eloise/Quinn",
+      "did": "出院日：寒风针对性扑面——「像天气一直在等着专门冻他」；Eloise 接他回家扶住他说「我撑着你」（正是 ch23 他对她说的话——照顾对调）；出院必经脚踝监控。",
+      "range": [
+        1245,
+        2290
+      ],
+      "quote_head": "“I’ve got you,”",
+      "quote_anchor": "“I’ve got you,”"
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "触发点：门缝里的婴儿房——木床建了一半，木料裸着未完成还在等；「为 Gordon 和一个突然不确定的未来」。",
+      "range": [
+        2290,
+        3739
+      ],
+      "quote_head": "The nursery. The crib, now half built.",
+      "quote_anchor": "The nursery. The crib, now half built."
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Eloise",
+      "did": "关键供认：那晚开车只因 Gordon 喝得太醉没法握方向盘——自认更安全选项结果不是；供词喘息成碎片。",
+      "range": [
+        3739,
+        3970
+      ],
+      "quote_head": "I only drove because Gordon was too drunk.",
+      "quote_anchor": "I only drove because Gordon was too drunk."
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "自我审判：我以为没事——我确实是没事的；但本该更小心本该更懂事（三个 should have）。",
+      "range": [
+        3970,
+        4729
+      ],
+      "quote_head": "“I thought I was fine,”",
+      "quote_anchor": "“I thought I was fine,”"
+    },
+    {
+      "n": 5,
+      "who": "Eloise/Quinn",
+      "did": "她的判决：跪在他面前握住他的手——你是我的哥哥，这不是你的本意；「但事已至此」「我知道」；事故放在两人之间共同扛。",
+      "range": [
+        4729,
+        5048
+      ],
+      "quote_head": "“You’re my brother,”",
+      "quote_anchor": "“You’re my brother,”"
+    },
+    {
+      "n": 6,
+      "who": "Quinn/Eloise",
+      "did": "崩溃落地：任她手臂环上来、任自己碎在她身上、任她撑住——像他一直想撑住她那样；像他一直想当她哥哥那样当了哥哥。",
+      "range": [
+        5048,
+        5192
+      ],
+      "quote_head": "I let myself break against her.",
+      "quote_anchor": "I let myself break against her."
+    }
+  ]
+}

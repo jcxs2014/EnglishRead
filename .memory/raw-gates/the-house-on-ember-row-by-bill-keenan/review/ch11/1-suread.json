@@ -1,0 +1,96 @@
+{
+  "chapter": "ch11",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch11_chapter_eleven.txt",
+  "source_len_chars": 7983,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "报社",
+      "did": "凋敝：长桌曾坐三十记者如今十二；Metro 夏天被砍、Sports 传闻下一个；打字机蒙塑料「像尸体」；「编辑部一直在缩编，而现在它正在死去」。",
+      "range": [
+        699,
+        1567
+      ],
+      "quote_head": "once held thirty reporters and now held twelve",
+      "quote_anchor": "once held thirty reporters and now held twelve"
+    },
+    {
+      "n": 2,
+      "who": "Gordon/Quinn",
+      "did": "导火索：Gordon 叫 Quinn 进办公室——Features 部今早被砍，整个部门被抹掉；「四处都在裁，没人安全，这不再是传闻」。",
+      "range": [
+        1567,
+        2278
+      ],
+      "quote_head": "They shut down Features this morning.",
+      "quote_anchor": "They shut down Features this morning."
+    },
+    {
+      "n": 3,
+      "who": "Gordon/Eloise",
+      "did": "私账：Eloise 在用 Clomid、医生推荐人工授金——不便宜；他怕的不是丢薪水而是丢未来；「我该为此兴奋，可我只想要回这份工作」。",
+      "range": [
+        2278,
+        2938
+      ],
+      "quote_head": "Doctor prescribed her Clomid",
+      "quote_anchor": "Doctor prescribed her Clomid"
+    },
+    {
+      "n": 4,
+      "who": "Gordon/Quinn",
+      "did": "立项宣言：让自己重要到没人敢裁；要一个埋不掉的大故事——「对，也许 Jensen 就是」。",
+      "range": [
+        2938,
+        5035
+      ],
+      "quote_head": "We make ourselves too valuable to fire.",
+      "quote_anchor": "We make ourselves too valuable to fire."
+    },
+    {
+      "n": 5,
+      "who": "Quinn/Gordon",
+      "did": "物证汇报：漂白斑——颜色浅、木纹竖起、只此一段；「潮水能带走很多，但漂白水不是给自然用的，是用于覆盖与抹除」。",
+      "range": [
+        5035,
+        5402
+      ],
+      "quote_head": "there’s a spot that’s too clean",
+      "quote_anchor": "there’s a spot that’s too clean"
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "定性升级：Blood 单词独立成句——「我们要找的不是自杀，Gordon，是一桩罪案」；「但我们不能再猜了，得开始挖」。",
+      "range": [
+        5402,
+        6675
+      ],
+      "quote_head": "We’re looking for a crime.",
+      "quote_anchor": "We’re looking for a crime."
+    },
+    {
+      "n": 7,
+      "who": "Gordon",
+      "did": "项目线索：旧笔记——Jensen 死前推进市中心巨型综合开发（高层/零售/商业）；海外投资人、来路无法追踪的钱；「会让树敌的生意」。",
+      "range": [
+        6675,
+        7898
+      ],
+      "quote_head": "Massive. Mixed-use development.",
+      "quote_anchor": "Massive. Mixed-use development."
+    },
+    {
+      "n": 8,
+      "who": "Gordon/Quinn",
+      "did": "章末等式：项目无公告被封——许可吊销、投资人四散、「像从未存在」；「查出谁杀了项目，也许就查出谁杀了他」。",
+      "range": [
+        7898,
+        7983
+      ],
+      "quote_head": "if we find out who killed the project",
+      "quote_anchor": "if we find out who killed the project"
+    }
+  ]
+}

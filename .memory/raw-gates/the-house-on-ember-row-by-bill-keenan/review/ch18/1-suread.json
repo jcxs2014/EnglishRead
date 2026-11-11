@@ -1,0 +1,85 @@
+{
+  "chapter": "ch18",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch18_chapter_eighteen.txt",
+  "source_len_chars": 8775,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "雪夜赴宴：普通农舍淡出、铁艺大门与庄园亮起——灯光如金色许诺；Gordon 初见 Ember Row 惊叹「Jesus」。",
+      "range": [
+        1729,
+        2906
+      ],
+      "quote_head": "estates that stretched out behind manicured hedges",
+      "quote_anchor": "estates that stretched out behind manicured hedges"
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "阶级注解：Ellison 的房子提醒你——不同的世界不同的规则游戏；有人造城堡有人路上看；有人生来属于里面，有人只配来访。",
+      "range": [
+        2906,
+        3981
+      ],
+      "quote_head": "some people built castles while others watched from the road",
+      "quote_anchor": "some people built castles while others watched from the road"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Gordon",
+      "did": "车内复盘（一）：DeWitt 版本——地基坏、地不稳、Jensen 接受现实退出；Quinn 评语：「太整齐，太省事」。",
+      "range": [
+        3981,
+        4480
+      ],
+      "quote_head": "DeWitt says Jensen’s project collapsed",
+      "quote_anchor": "DeWitt says Jensen’s project collapsed"
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "车内复盘（二）：这种量级这么多钱不会一夜死——投资人会反击、找变通、死磕到底；「DeWitt 想让我们信的就是那个版本」。",
+      "range": [
+        4480,
+        5227
+      ],
+      "quote_head": "The investors would have fought",
+      "quote_anchor": "The investors would have fought"
+    },
+    {
+      "n": 5,
+      "who": "Quinn/Wren",
+      "did": "真问题浮出：不关心 DeWitt 藏什么，更好奇 Wren 为什么送我去——「Wren 做任何事都不是意外」；Gordon：也许他要的就是让你往错的方向找。",
+      "range": [
+        5227,
+        6424
+      ],
+      "quote_head": "why Wren sent me to him in the first place",
+      "quote_anchor": "why Wren sent me to him in the first place"
+    },
+    {
+      "n": 6,
+      "who": "Ember Row",
+      "did": "圣诞夜：代客泊车如精密机器（长呢大衣黑手套、寒冬不沾身）；黑色车队吐出闪片裙与礼服——「门厅是一份声明：既被欢迎又被注视，却莫名觉得配不上」。",
+      "range": [
+        6424,
+        8736
+      ],
+      "quote_head": "well-oiled machine",
+      "quote_anchor": "well-oiled machine"
+    },
+    {
+      "n": 7,
+      "who": "Quinn/Gordon",
+      "did": "跨进门：寒气关在身后，派对在前方等着——像随时把人卷走的水流。",
+      "range": [
+        8736,
+        8775
+      ],
+      "quote_head": "like a current ready to sweep us away",
+      "quote_anchor": "like a current ready to sweep us away"
+    }
+  ]
+}

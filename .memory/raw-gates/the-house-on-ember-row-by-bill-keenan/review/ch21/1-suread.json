@@ -1,0 +1,74 @@
+{
+  "chapter": "ch21",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch21_chapter_twenty_one.txt",
+  "source_len_chars": 9845,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "苏醒：光—声—痛三段知觉恢复；蜂鸣既可怕又安心——可怕因为出事了，安心因为还有东西在运转；疼痛是「全部事物的交响」。",
+      "range": [
+        360,
+        3070
+      ],
+      "quote_head": "both terrifying and reassuring",
+      "quote_anchor": "both terrifying and reassuring"
+    },
+    {
+      "n": 2,
+      "who": "Dr. Lewis",
+      "did": "伤情：圣文森特医院、车祸两夜前送入、三场手术、昏迷反复；发动机塌进防火墙挤向驾驶侧——右股骨粉碎性骨折（髓内钉）、胫骨多处骨折打石膏数月、左腕桡骨骨折钢钉；肋骨挫伤、内出血、脑震荡伴轻度脑肿胀。",
+      "range": [
+        3070,
+        4826
+      ],
+      "quote_head": "the engine block collapsed into the firewall",
+      "quote_anchor": "the engine block collapsed into the firewall"
+    },
+    {
+      "n": 3,
+      "who": "Dr. Lewis/Gordon",
+      "did": "Gordon 噩耗：Mr. Willis（全名 Gordon Willis）头部受创——乘客侧承受撞击主力；脑出血，创伤 ICU，「现在说太早」；「他正面撞上那棵树」。",
+      "range": [
+        4826,
+        5997
+      ],
+      "quote_head": "He sustained a brain bleed.",
+      "quote_anchor": "He sustained a brain bleed."
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "罪责自供：三连 I had——放进车、握上方向盘、放任冰接管；「现在他为性命而战」；愧疚具象（hundred-pound）。",
+      "range": [
+        5997,
+        8067
+      ],
+      "quote_head": "I had put Gordon in that car.",
+      "quote_anchor": "I had put Gordon in that car."
+    },
+    {
+      "n": 5,
+      "who": "Dr. Lewis",
+      "did": "反常信号：门外有警察——不是探望不是录口供，而是要审问；医生自己说不知道为什么但「该给你提个醒」；「他们认为我……？」不得而知。",
+      "range": [
+        8067,
+        9530
+      ],
+      "quote_head": "There’s a police officer outside your room.",
+      "quote_anchor": "There’s a police officer outside your room."
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "身份改写：不只是病人不只是幸存者——是危险人物，当局需要防止离开的人；第一次怕「接下来」胜过怕车祸本身；「失控的不只是车，是一切」。",
+      "range": [
+        9530,
+        9845
+      ],
+      "quote_head": "I was dangerous.",
+      "quote_anchor": "I was dangerous."
+    }
+  ]
+}

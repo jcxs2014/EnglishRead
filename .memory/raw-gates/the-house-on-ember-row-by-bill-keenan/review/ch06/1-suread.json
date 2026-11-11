@@ -1,0 +1,74 @@
+{
+  "chapter": "ch06",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch06_chapter_six.txt",
+  "source_len_chars": 5745,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "码头开场：城市的骨头——盐锈浮油、无人注视处的营生；Quinn 数年前追另一个故事来过，未变。",
+      "range": [
+        35,
+        1148
+      ],
+      "quote_head": "The docks revealed the city to its bones",
+      "quote_anchor": "The docks revealed the city to its bones"
+    },
+    {
+      "n": 2,
+      "who": "Cade Jensen",
+      "did": "现场锚定：码头尽头即据称 Cade Jensen 跳海身亡、被冰冷洋流卷走之处；工人熟悉一切声响潮汐，可 Jensen 落水当晚无人看见任何东西。",
+      "range": [
+        1148,
+        2960
+      ],
+      "quote_head": "had jumped into the dark blue water",
+      "quote_anchor": "had jumped into the dark blue water"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Mr. Lawson",
+      "did": "木工课记忆：六年级木工课 Mr. Lawson 教过漂白水剥蚀木料——抬纤维、干化、留下永不融合的苍白脆斑；Quinn 摸到码头边缘一块触感异常的浅色粗斑，「年龄或潮汐都不会造成」。",
+      "range": [
+        2960,
+        4199
+      ],
+      "quote_head": "bleach stripped wood",
+      "quote_anchor": "bleach stripped wood"
+    },
+    {
+      "n": 4,
+      "who": "年轻工人",
+      "did": "规程证词（上）：二十五岁上下工人答清洁方式——每两周高压水枪清洗，其余交给自然。",
+      "range": [
+        4199,
+        4514
+      ],
+      "quote_head": "Power wash mostly.",
+      "quote_anchor": "Power wash mostly."
+    },
+    {
+      "n": 5,
+      "who": "年轻工人",
+      "did": "规程证词（下）：不能用漂白水类烈性清洁剂（伤木、过干）；只用温和可降解皂液防滑不伤板。",
+      "range": [
+        4514,
+        4890
+      ],
+      "quote_head": "can’t use anything harsh",
+      "quote_anchor": "can’t use anything harsh"
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "排除定性：高压水洗后表面均匀，此斑不同——是定点处理的（targeted）；工人反问「问这干嘛」，Quinn 以 just curious 掩护；章末：非自然侵蚀，有人试图抹掉什么——他必须查清。",
+      "range": [
+        4890,
+        5307
+      ],
+      "quote_head": "this wasn’t that.",
+      "quote_anchor": "this wasn’t that."
+    }
+  ]
+}

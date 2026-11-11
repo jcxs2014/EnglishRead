@@ -1,0 +1,256 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/ch34 life insurance argument delilah.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch34_chapter_thirty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"She wouldn't give me anything from Delilah's chart, but she did confirm that follow-up mail was going to this address. ",
+          "ok": true,
+          "pos": 423
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Gordon was gone. I was the reason.\"",
+          "ok": true,
+          "pos": 1061
+        },
+        {
+          "text": "\"Every breath felt borrowed, every second just a countdown to the inevitable",
+          "ok": true,
+          "pos": 1282
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"People don't last long in Ellison's world. One way or another, they always vanish. Either they leave on their own if th",
+          "ok": true,
+          "pos": 2235
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"You don't get to give up,\" she said, pointing at me, her voice unsteady as it rose. \"You don't get to sit here and deci",
+          "ok": true,
+          "pos": 3363
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"No life insurance policies,\" she said, her voice resolute now. \"Not yet. Not while there's still a chance.\"",
+          "ok": true,
+          "pos": 3980
+        },
+        {
+          "text": "\"Just focus on Delilah,\" she said finally. \"If there's any piece of this that still makes sense, it's that.\"",
+          "ok": true,
+          "pos": 4182
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I reached for Delilah's number sitting on the table, ran my fingers over the ink.\"",
+          "ok": true,
+          "pos": 4413
+        },
+        {
+          "text": "\"\"Then let's find out what she knows.\"",
+          "ok": true,
+          "pos": 4494
+        }
+      ],
+      "words": 23
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter Thirty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      4,
+      8
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 840,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 6、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

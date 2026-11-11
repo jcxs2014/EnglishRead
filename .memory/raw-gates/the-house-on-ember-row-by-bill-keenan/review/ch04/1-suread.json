@@ -1,0 +1,96 @@
+{
+  "chapter": "ch04",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch04_chapter_four.txt",
+  "source_len_chars": 7164,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Gordon/Quinn",
+      "did": "早餐开场：Pavoni's 老据点；Gordon 三十六岁、新闻编辑肖像（秃退发际、打字机压弯的肩、深眼圈）；Quinn 自称 The investigative reporter。",
+      "range": [
+        37,
+        2250
+      ],
+      "quote_head": "Gordon was already two cups of coffee deep",
+      "quote_anchor": "Gordon was already two cups of coffee deep"
+    },
+    {
+      "n": 2,
+      "who": "Gordon",
+      "did": "报馆危机：The Gazette 换报头换领导层、要标题不要深度调查；「没有抓人的故事我们就完了」。",
+      "range": [
+        2250,
+        3360
+      ],
+      "quote_head": "we don’t find one, we’re finished.",
+      "quote_anchor": "we don’t find one, we’re finished."
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Gordon",
+      "did": "案件档案：码头死亡案——消失太快、无后续无嫌犯、尸体从未找到；官方结论：Cade Jensen，地产开发商，自杀，结案。",
+      "range": [
+        3360,
+        3662
+      ],
+      "quote_head": "Cade Jensen, real estate developer, suicide",
+      "quote_anchor": "Cade Jensen, real estate developer, suicide"
+    },
+    {
+      "n": 4,
+      "who": "Gordon",
+      "did": "干预假设：Gordon 不信自杀——「人不会半夜跳码头不留任何为什么」；「也许是有人确保没人去查」；语气不偏执，只是确定。",
+      "range": [
+        3662,
+        4342
+      ],
+      "quote_head": "Or maybe someone wanted to make sure no one looked.",
+      "quote_anchor": "Or maybe someone wanted to make sure no one looked."
+    },
+    {
+      "n": 5,
+      "who": "官方",
+      "did": "太干净：标题 sensational——年轻开发商有钱成功不可撼动 until he wasn't；官方报告下来：自杀，无进一步调查，open-and-shut；人人都散了，「一个感觉太干净的结论」。",
+      "range": [
+        4342,
+        5245
+      ],
+      "quote_head": "A resolution that felt too clean.",
+      "quote_anchor": "A resolution that felt too clean."
+    },
+    {
+      "n": 6,
+      "who": "Gordon/Eloise",
+      "did": "Eloise 副线：提到妻子 Eloise 时拇指绷紧、摆弄餐巾；「我们又在尝试了」（求子）；Quinn 知道现在不是多问的时候。",
+      "range": [
+        5245,
+        6270
+      ],
+      "quote_head": "trying again.",
+      "quote_anchor": "trying again."
+    },
+    {
+      "n": 7,
+      "who": "Gordon/Quinn",
+      "did": "行业判词：Quinn 说每个故事无非权力/金钱/复仇三件事；Gordon 补：消失得太快的案子三样全占；「我认为有人确保没人追查」；Jensen 的名字点燃了 Gordon。",
+      "range": [
+        6270,
+        7119
+      ],
+      "quote_head": "And the ones that disappear too fast",
+      "quote_anchor": "And the ones that disappear too fast"
+    },
+    {
+      "n": 8,
+      "who": "Quinn",
+      "did": "章末：走出 Pavoni's 想放下案子（结了、不关我事），但「有人确保没人追查」粘在心里——也许他自己也想知道为什么。",
+      "range": [
+        7119,
+        7164
+      ],
+      "quote_head": "And maybe, just maybe, I wanted to know why.",
+      "quote_anchor": "And maybe, just maybe, I wanted to know why."
+    }
+  ]
+}

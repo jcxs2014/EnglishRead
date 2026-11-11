@@ -1,0 +1,85 @@
+{
+  "chapter": "ch05",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch05_chapter_five.txt",
+  "source_len_chars": 5949,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "Oak Club 开场：空气像会员血统一样被过滤、地板泛老钱柔光；这里没人谈生意——生意在酒倒上之前就谈妥；Ellison 邀请，Quinn 在完全理解含义前就接受。",
+      "range": [
+        436,
+        1837
+      ],
+      "quote_head": "The air was filtered like the bloodlines",
+      "quote_anchor": "The air was filtered like the bloodlines"
+    },
+    {
+      "n": 2,
+      "who": "Ellison",
+      "did": "球场碾压：Ellison 出拍无迟疑、无浪费力气，球未弹回已预判落点；Quinn 追着他打，只求不全军覆没。",
+      "range": [
+        1837,
+        2933
+      ],
+      "quote_head": "He moved like a man who played for more than sport",
+      "quote_anchor": "He moved like a man who played for more than sport"
+    },
+    {
+      "n": 3,
+      "who": "Ellison/Quinn",
+      "did": "纪律论：Ellison 说球场纪律适用于生意、谈判——停顿后补一词「生存」；「一切皆游戏，赢家知何时出手何时退后」。",
+      "range": [
+        2933,
+        3249
+      ],
+      "quote_head": "“Survival,” he added.",
+      "quote_anchor": "“Survival,” he added."
+    },
+    {
+      "n": 4,
+      "who": "Wren/Ellison",
+      "did": "电话打断：Wren 出现通报来电；Ellison 皱眉离场（Irritation was a luxury he rarely indulged），让 Quinn 歇着别垮。",
+      "range": [
+        3249,
+        4474
+      ],
+      "quote_head": "the glass door to the court swung open",
+      "quote_anchor": "the glass door to the court swung open"
+    },
+    {
+      "n": 5,
+      "who": "Wren/Quinn",
+      "did": "忠诚告白：Quinn 问 Wren 图什么；答「享受不是重点」「忠诚」「忠诚就是一切」（It's everything）；Wren 说 Laurence 喜欢赢。",
+      "range": [
+        4474,
+        5459
+      ],
+      "quote_head": "Enjoyment isn’t the point.",
+      "quote_anchor": "Enjoyment isn’t the point."
+    },
+    {
+      "n": 6,
+      "who": "Ellison/Wren",
+      "did": "权力仪式：那不是第一次这样的对话——是仪式、是系统：Ellison 口述、Wren 执行；结束时 Wren 只点一次头就走，「像从未在那里出现过」。",
+      "range": [
+        5459,
+        5894
+      ],
+      "quote_head": "This wasn’t their first such conversation.",
+      "quote_anchor": "This wasn’t their first such conversation."
+    },
+    {
+      "n": 7,
+      "who": "Ellison",
+      "did": "章末：电话回来后 Ellison 毫无波澜报分「六比零，我发球」——游戏继续。",
+      "range": [
+        5894,
+        5949
+      ],
+      "quote_head": "“Six–love, my serve,”",
+      "quote_anchor": "“Six–love, my serve,”"
+    }
+  ]
+}

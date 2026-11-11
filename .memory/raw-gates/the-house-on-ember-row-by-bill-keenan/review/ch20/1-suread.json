@@ -1,0 +1,85 @@
+{
+  "chapter": "ch20",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch20_chapter_twenty.txt",
+  "source_len_chars": 11841,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn/Gordon",
+      "did": "散场：派对无终点——金光玻璃音乐在人后继续搏动，不为疲惫所动对时间毫不在乎；庭院里 Gordon 醉倒灌木（ deposit his evening's finger foods）；「不是我开车——他醉了」。",
+      "range": [
+        271,
+        3351
+      ],
+      "quote_head": "Ellison’s party had no end.",
+      "quote_anchor": "Ellison’s party had no end."
+    },
+    {
+      "n": 2,
+      "who": "Gordon",
+      "did": "醉评 Ember Row：钱、放纵、碰不得的堕落层级；「像走进醒不来的梦或噩梦」；Quinn：「也许这就是目的」。",
+      "range": [
+        3351,
+        4730
+      ],
+      "quote_head": "It’s like stepping into a dream—or nightmare—you don’t wake ",
+      "quote_anchor": "It’s like stepping into a dream—or nightmare—you don’t wake up from."
+    },
+    {
+      "n": 3,
+      "who": "Gordon/Quinn",
+      "did": "醉后之请：趁孩子出生前与 Eloise 修好——一顿饭就行，「现在去做意义完全不同」；Quinn 答应明天打电话、在家做饭请客。",
+      "range": [
+        4730,
+        7004
+      ],
+      "quote_head": "I really want you to try to work things out with Eloise.",
+      "quote_anchor": "I really want you to try to work things out with Eloise."
+    },
+    {
+      "n": 4,
+      "who": "Gordon/Quinn",
+      "did": "婚礼告白：结婚那天早上系领带时一直想着 Quinn——「那天我不只娶了 Eloise，还得到了一个兄弟」；This is it. This is what it feels like. I have one now.",
+      "range": [
+        7004,
+        7716
+      ],
+      "quote_head": "“I was getting a brother too.”",
+      "quote_anchor": "“I was getting a brother too.”"
+    },
+    {
+      "n": 5,
+      "who": "Gordon/Quinn",
+      "did": "关系定名：嗓音沙哑卸掉遮掩——你对我意义重大，不只是同事、不只是 Eloise 的哥哥，而是妹夫……兄弟；Quinn 转身借查后视镜让眼睛自由，单颗眼泪滑到脸颊。",
+      "range": [
+        7716,
+        9052
+      ],
+      "quote_head": "But as my brother-in-law … my brother.",
+      "quote_anchor": "But as my brother-in-law … my brother."
+    },
+    {
+      "n": 6,
+      "who": "Gordon/Quinn",
+      "did": "案情转向：Gordon 承认「你是对的，太整齐」——故事不会自己打成干净的蝴蝶结除非有人亲手系；下一步：投资人（不走正门走侧门/地下室）＋「还有 Margaux」。",
+      "range": [
+        9052,
+        9782
+      ],
+      "quote_head": "too tidy",
+      "quote_anchor": "too tidy"
+    },
+    {
+      "n": 7,
+      "who": "Quinn/Gordon",
+      "did": "黑冰车祸：方向盘猛向右拽——黑冰；甩尾打滑旋转，树凭空撞进视野；金属砸进木头——玻璃爆碎、引擎盖如纸折起、颅骨前冲胸口撞安全带——「像被线牵着的木偶」。",
+      "range": [
+        9782,
+        10209
+      ],
+      "quote_head": "A violent tug to the right,",
+      "quote_anchor": "A violent tug to the right,"
+    }
+  ]
+}

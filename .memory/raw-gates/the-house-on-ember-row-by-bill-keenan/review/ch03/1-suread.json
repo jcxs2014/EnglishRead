@@ -1,0 +1,96 @@
+{
+  "chapter": "ch03",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch03_chapter_three.txt",
+  "source_len_chars": 5764,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "自认等输：两种赌客论——为赢的业余者 vs 为边缘快感的第二种人；Quinn 自认这晚就是后者：先大赢（snake eyes, blackjack, full house）后螺旋输光，几乎不在乎。",
+      "range": [
+        623,
+        1186
+      ],
+      "quote_head": "That was the kind of night I was having.",
+      "quote_anchor": "That was the kind of night I was having."
+    },
+    {
+      "n": 2,
+      "who": "庄家/Ellison",
+      "did": "救场：押最后一注被庄家拒（out of action，筹码与 Glenfiddich 一样被夜耗尽）；低沉嗓音如救命索「I'll cover him」——Laurence Ellison 出场。",
+      "range": [
+        1186,
+        1540
+      ],
+      "quote_head": "you’re out of action",
+      "quote_anchor": "you’re out of action"
+    },
+    {
+      "n": 3,
+      "who": "Ellison/Quinn",
+      "did": "初见锚点：原文明写这是两人第一次见面；打动 Quinn 的不是仪表而是整个赌场向他让路（room had simply yielded to him）；「Ellison 占有了赌场，也占有了我」。",
+      "range": [
+        1540,
+        3187
+      ],
+      "quote_head": "It was the first time I met him.",
+      "quote_anchor": "It was the first time I met him."
+    },
+    {
+      "n": 4,
+      "who": "Quinn",
+      "did": "反转获胜：Ellison 放下一叠钞票，下一张牌翻开，Quinn 竟然赢了；十分钟后两人坐在私人休息室。",
+      "range": [
+        3187,
+        3845
+      ],
+      "quote_head": "And against all odds, I won.",
+      "quote_anchor": "And against all odds, I won."
+    },
+    {
+      "n": 5,
+      "who": "Ellison/Quinn",
+      "did": "读人：Ellison 说 Quinn 输光不是运气而是「一直在等输」——不怕全押因为没有东西可输；「这让我极感兴趣（Immensely）」。",
+      "range": [
+        3845,
+        4325
+      ],
+      "quote_head": "You were waiting to lose.",
+      "quote_anchor": "You were waiting to lose."
+    },
+    {
+      "n": 6,
+      "who": "Ellison",
+      "did": "运气论：Quinn 答不信运气，Ellison 说「我也不信——运气只是我们不懂世界如何运转时讲给自己听的故事」。",
+      "range": [
+        4325,
+        4886
+      ],
+      "quote_head": "Luck is just a story",
+      "quote_anchor": "Luck is just a story"
+    },
+    {
+      "n": 7,
+      "who": "Quinn/Ellison",
+      "did": "诚实测试：Ellison 问「有真钱你会做什么」，Quinn 拒绝漂亮答案说出真话「我会再全部押上」；Ellison 表情第一次变化（amusement danced across his tan face）。",
+      "range": [
+        4886,
+        5248
+      ],
+      "quote_head": "bet it all again",
+      "quote_anchor": "bet it all again"
+    },
+    {
+      "n": 8,
+      "who": "Ellison/Quinn",
+      "did": "请柬+章末：一周六晚八点 Ember Row 的请柬递上；Ellison 离场「像只路过我夜晚的人」；章末——他垫的不只是赌债，他买走了什么，Quinn 还不知道。",
+      "range": [
+        5248,
+        5674
+      ],
+      "quote_head": "The address: 16 Ember Row.",
+      "quote_anchor": "The address: 16 Ember Row."
+    }
+  ]
+}

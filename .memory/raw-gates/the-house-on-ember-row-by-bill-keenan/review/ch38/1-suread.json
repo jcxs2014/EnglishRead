@@ -1,0 +1,63 @@
+{
+  "chapter": "ch38",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch38_chapter_thirty_eight.txt",
+  "source_len_chars": 5435,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "汽车旅馆夜宿：凌晨 2:07 停车场；粉红 vacancy 霓虹「想熄灭却未获许可」； nowhere 之地的歇脚——长途货车司机、疲惫旅人、无处可去又不肯承认的人；登记签名「自己的笔迹都显得陌生」；212 号房钥匙。",
+      "range": [
+        101,
+        1883
+      ],
+      "quote_head": "2:07 a.m.",
+      "quote_anchor": "2:07 a.m."
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "房间速写：病米色墙（不是选的是将就）、褪色花床罩「像事后想到才放的」；柠檬清洁剂味却哪儿都不干净；暖风机断续；计划几小时睡眠，明早去 Delilah 家。",
+      "range": [
+        1883,
+        3230
+      ],
+      "quote_head": "The walls were a sickly beige",
+      "quote_anchor": "The walls were a sickly beige"
+    },
+    {
+      "n": 3,
+      "who": "Quinn/Delilah",
+      "did": "抵达：清晨街区安静得并非诡异只是无所谓；就是这里——房子蹲着仿佛不想被注意；车道上一辆三四年的银色雪佛兰 Caprice——买来就是为了不显眼、可靠、隐身；右后保险杠浅划痕；有人开着它——也许她在家。",
+      "range": [
+        3230,
+        4326
+      ],
+      "quote_head": "The house sat there like it had no desire to be noticed",
+      "quote_anchor": "The house sat there like it had no desire to be noticed"
+    },
+    {
+      "n": 4,
+      "who": "Delilah",
+      "did": "房子的情绪：草不乱也不精——住着但没经营；没有花坛、没有个人痕迹；「一栋注定被忽略的房子」；他想知道 Cade 还在赚钱时她住哪——联排？落地窗公寓？她用那一切换了这栋「几乎没有脉搏」的房子。",
+      "range": [
+        4326,
+        5359
+      ],
+      "quote_head": "Lived-in, but not cared for.",
+      "quote_anchor": "Lived-in, but not cared for."
+    },
+    {
+      "n": 5,
+      "who": "Quinn",
+      "did": "出发：不想掀她的生活、不想拖她回她拼命逃离的一切——但走到这里了，有问题要问，她也许是最后一个能回答的人；深吸气推门下车。",
+      "range": [
+        5359,
+        5435
+      ],
+      "quote_head": "I reached for the door handle",
+      "quote_anchor": "I reached for the door handle"
+    }
+  ]
+}

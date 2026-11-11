@@ -1,0 +1,85 @@
+{
+  "chapter": "ch07",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch07_chapter_seven.txt",
+  "source_len_chars": 4684,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Quinn",
+      "did": "空公寓自画像：小而功能性、从未住成家；bourbon 放台面、案卷放餐桌、记忆放在不开的抽屉；三年不知邻居名字——「这地方对我无所求，我如数奉还」。",
+      "range": [
+        682,
+        1564
+      ],
+      "quote_head": "It wasn’t a home.",
+      "quote_anchor": "It wasn’t a home."
+    },
+    {
+      "n": 2,
+      "who": "Quinn",
+      "did": "断鼻两次：一次被警察、一次被不欢迎他提问的丈夫；鼻梁微歪——「真相不总想被找到」的永久纪念；母亲遗传的杏形眼。",
+      "range": [
+        1564,
+        3388
+      ],
+      "quote_head": "My nose had been broken twice",
+      "quote_anchor": "My nose had been broken twice"
+    },
+    {
+      "n": 3,
+      "who": "父亲",
+      "did": "父亲肖像：迷倒酒吧陌生人、赊免费酒水、许诺不兑现；赌徒漂泊者，一夜或一周的角色演员——真相终会追上他。",
+      "range": [
+        3388,
+        3664
+      ],
+      "quote_head": "A gambler, a drifter",
+      "quote_anchor": "A gambler, a drifter"
+    },
+    {
+      "n": 4,
+      "who": "父亲",
+      "did": "溃败模式：借的钱、烂赌注、不懂庄家永远赢的崩解（或懂了但不在乎）。",
+      "range": [
+        3664,
+        3728
+      ],
+      "quote_head": "the house always wins",
+      "quote_anchor": "the house always wins"
+    },
+    {
+      "n": 5,
+      "who": "父亲/Quinn",
+      "did": "十岁遗弃：回家撞见父亲收拾行囊，答「找了份工作，大钱」——boom 人就没了；两年未见；后来懂了：出走不为钱，「输比试着赢更容易」。",
+      "range": [
+        3728,
+        4473
+      ],
+      "quote_head": "When I was ten, I came home to find him packing",
+      "quote_anchor": "When I was ten, I came home to find him packing"
+    },
+    {
+      "n": 6,
+      "who": "Quinn",
+      "did": "幽灵时刻：煎 skirt steak 的夜里感到父亲在旁——不是儿子怀念父亲，而是男人认出自己发誓永不成为的那个人的鬼魂。",
+      "range": [
+        4473,
+        4607
+      ],
+      "quote_head": "the ghost of someone he swore he would never become",
+      "quote_anchor": "the ghost of someone he swore he would never become"
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "章末一转：切开多筋的肉独自吃完——但渐渐意识到「并非独自一人」。",
+      "range": [
+        4607,
+        4684
+      ],
+      "quote_head": "I sat there and ate alone.",
+      "quote_anchor": "I sat there and ate alone."
+    }
+  ]
+}

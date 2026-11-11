@@ -1,0 +1,85 @@
+{
+  "chapter": "ch02",
+  "source": "notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch02_chapter_two.txt",
+  "source_len_chars": 3074,
+  "source_note": "纯素读，仅读 text/chNN.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Ellison/老钱家族",
+      "did": "出身之谜：早期 Ellison 的名字在权贵房间被议论而人未获准进入；外来者却举止如生来属于（\"He was an outsider, and yet he moved like a man who had always belonged\"）；老钱猜测「必是继承的」，因为白手起家「太不可能接受」。",
+      "range": [
+        189,
+        665
+      ],
+      "quote_head": "discussed in grand rooms before he was ever permitted",
+      "quote_anchor": "discussed in grand rooms before he was ever permitted"
+    },
+    {
+      "n": 2,
+      "who": "Ellison",
+      "did": "查无记录：学校无记录、无可攀姓氏；非生于手缝翻领与名酒的世界——选了它、追了它、经由炼金术变成它；带着足以让对的人聆听的财富到来。",
+      "range": [
+        665,
+        1244
+      ],
+      "quote_head": "there were no records of him",
+      "quote_anchor": "there were no records of him"
+    },
+    {
+      "n": 3,
+      "who": "旧宅",
+      "did": "地皮前史：Ember Row 曾有辽阔庄园，家族化尘；大火毁之，只剩白骨（坍塌门廊、通向虚空的焦黑大楼梯残骸）；整整十年无人重建——直到 Ellison。",
+      "range": [
+        1244,
+        1690
+      ],
+      "quote_head": "a fire had destroyed it",
+      "quote_anchor": "a fire had destroyed it"
+    },
+    {
+      "n": 4,
+      "who": "房子",
+      "did": "建房异象：房子以不该有的速度崛起，仿佛地基一直在等一座配得上它的结构；有人赞「它是纪念碑」；有人警告「这地留不住任何东西」，Ellison 只是微笑。",
+      "range": [
+        1690,
+        1997
+      ],
+      "quote_head": "It rose faster than it should have",
+      "quote_anchor": "It rose faster than it should have"
+    },
+    {
+      "n": 5,
+      "who": "Quinn/Ellison",
+      "did": "首访：Quinn 第一次到访时房子未完工（生木地板、切石油漆味）；Ellison 站中间监工，说「必须完美，不只是宏大」，Quinn 问「为谁」，答「为了将要来的那些人」。",
+      "range": [
+        1997,
+        2649
+      ],
+      "quote_head": "When I visited for the first time",
+      "quote_anchor": "When I visited for the first time"
+    },
+    {
+      "n": 6,
+      "who": "Ellison/Quinn",
+      "did": "开国晚宴自述：Ellison 称从零开始，「一无所有不适合我」；Quinn 问怎么做到的。",
+      "range": [
+        2649,
+        3019
+      ],
+      "quote_head": "“I started with nothing,”",
+      "quote_anchor": "“I started with nothing,”"
+    },
+    {
+      "n": 7,
+      "who": "Quinn",
+      "did": "章末反转：Quinn 点破连那句也是谎——造出不可撼动之物的男人不从零开始，他们从一个秘密开始。",
+      "range": [
+        3019,
+        3074
+      ],
+      "quote_head": "do not start with nothing",
+      "quote_anchor": "do not start with nothing"
+    }
+  ]
+}

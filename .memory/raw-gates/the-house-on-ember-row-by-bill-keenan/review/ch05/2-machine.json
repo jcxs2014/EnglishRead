@@ -1,0 +1,234 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/ch05 oak club squash loyalty.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-ember-row-by-bill-keenan/text/ch05_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The air was filtered like the bloodlines of the men who belonged here. The floors glistened with the soft sheen of old m",
+          "ok": true,
+          "pos": 419
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He moved like a man who played for more than sport. There was no hesitation in his shots, no wasted energy. He anticipat",
+          "ok": true,
+          "pos": 1785
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Of course it does. You learn discipline here, and you apply it everywhere. Business. Negotiation.\" Then he paused and lo",
+          "ok": true,
+          "pos": 2722
+        },
+        {
+          "text": "\"Everything's a game, Quinn.\" He rolled his right wrist, then balled his hand into a fist before stretching his fingers.",
+          "ok": true,
+          "pos": 2883
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Enjoyment isn't the point.\"",
+          "ok": true,
+          "pos": 4309
+        },
+        {
+          "text": "\"Loyalty,\" he said simply, as though nothing in the world were more obvious",
+          "ok": true,
+          "pos": 4348
+        },
+        {
+          "text": "\"It's everything",
+          "ok": true,
+          "pos": 4441
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "This wasn't their first such conversation. It was a ritual. A system. Ellison dictated. Wren executed.\"",
+          "ok": true,
+          "pos": 5255
+        },
+        {
+          "text": "\"And when it was done, Wren gave a single nod—just one. No elaboration or questions. Just understanding. Then Wren turne",
+          "ok": true,
+          "pos": 5357
+        }
+      ],
+      "words": 56
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6,
+    "block_range": [
+      4,
+      8
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1011,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 6、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
