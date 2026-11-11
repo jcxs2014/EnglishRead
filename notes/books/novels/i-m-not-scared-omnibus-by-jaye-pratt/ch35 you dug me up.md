@@ -38,7 +38,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 放话：把他完好带回来，不带他回来你们也别回来；瞪着 Clay 补一句：别当混蛋。
 **关键词**：in one piece / without him / don’t be a dick
-**为什么这样写**：伤员给救援者下命令——她的能动性在失能中重建；don't be a dick 的玩笑剂量是她的减压阀，也是她对 Clay 的驯化语法（对照 ch20「replacement bacon」）。
+**为什么这样写**：伤员给救援者下命令——她的能动性在失能中重建；don't be a dick 的玩笑剂量是她的减压阀，也是她对 Clay 的驯化语法（对照 ch23 的 replacement bacon 拌嘴）。
 **读者视角提示**：Clay 回「I’m never a dick」被 Brawley 与她同时怀疑，他让步到「rarely」——全书唯一一次 Clay 自我修正，文本用喜剧包裹。
 
 > **原句 5:** "“I won’t fall apart. I know I’m safe here with you.” … “We did a pretty shit job at protecting you.” … “How could anyone have known my crazy ex would show up and try to bury me alive?”"
@@ -60,7 +60,7 @@ modified: "2026-11-11"
 **中文理解**：Banks 重申诊断结论「那就是你幸运」，起身时仍不忘推销新版修复膏帮瘀伤——Ares 一声「Banks!」喝止，他笑着承认「值得一试」，留下休息医嘱离开。
 **关键词**：lucky / recovery balm / Worth a shot / rest up
 **为什么这样写**：危机章后的泄压阀由 Banks 承担：他的推销癖（ch03 精液面霜、ch08 人皮巫偶）在创伤语境里显得荒诞而正常——岛上秩序恢复的喜剧证据。
-**读者视角提示**：「lucky or incompetent」（ch35 前文）被 Kayla 驳回（Aaron 从不无能）——她的判断为 Part Three 的追凶定调：对手仍在布局。
+**读者视角提示**：Banks 的「lucky, or he was incompetent」被 Kayla 驳回（Aaron 从不无能）——她的判断为 Part Three 的追凶定调：对手仍在布局。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

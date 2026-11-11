@@ -31,7 +31,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 自白：这些又大又坏又硬的男人对她变软了，而她想要她那些疯狂粗糙的男人们回来。
 **关键词**：gone soft / crazy / rough / back
-**为什么这样写**：soft 与 rough 的对照回收 ch43 Clay 的「softer side」与 ch14 Brawley 的「capable of fucking without it」——她要的不是粗暴而是完整；Baby steps 的自我命令说明她把「要回来」也当成一次自主练习。
+**为什么这样写**：soft 与 rough 的对照回收 ch43 Clay 的「softer side」与 ch12 Brawley 的「capable of fucking without it」——她要的不是粗暴而是完整；Baby steps 的自我命令说明她把「要回来」也当成一次自主练习。
 **读者视角提示**：与 ch42 她「不让 Aaron 拖我后退」同源：本章的追逐请求是同一主张的夜晚版；四人「walking on eggshells」的谨慎被她的生日愿望正式解除。
 
 > **原句 4:** "It’s freaky watching myself stare back at me."

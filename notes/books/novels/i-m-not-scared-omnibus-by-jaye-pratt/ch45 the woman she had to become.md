@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 说：你是我认识的最棒的人之一——你最坏的那一版也远胜 Aaron。你本来的样子就很完美，Vero；你治愈了我的一部分，从我说出口的第一秒起就是真心的。
 **关键词**：worst version / by a long shot / perfect the way / heal a part / meant it
 **为什么这样写**：worst version 的让步句把 Vero 的自我怀疑（ch34 发作、ch37 刑讯）全部纳入「仍远胜 Aaron」的坐标系——这是受害者对幸存伴侣的终极赦免；heal a part 回收 ch15 她亲口的原话，本章补上「从第一秒就当真」。
-**读者视角提示**：与 ch16 Vero 对 Brawley 说的「She gets me」构成三重奏：她治愈他、他治愈她、他们互为版本许可；Part Three 的关系结算在此定音。
+**读者视角提示**：与 ch03 Vero 对 Brawley 说的「She gets me」构成三重奏：她治愈他、他治愈她、他们互为版本许可；Part Three 的关系结算在此定音。
 
 > **原句 6:** "“I thought we could put her next to the fridge, or in the living room,” I tell him. “Absolutely not,” Clay scoffs. “I am not eating breakfast opposite that every morning, Vero. It will stare at me . . . it has her eyes.”"
 

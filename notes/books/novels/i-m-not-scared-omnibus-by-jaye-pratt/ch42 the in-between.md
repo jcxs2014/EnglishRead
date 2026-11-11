@@ -38,7 +38,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 解释恐慌发作史：Aaron 在她身边时「训练」掉了这些发作——听着像好事，其实不是；他只是让她不敢当他的面发作，于是她练出独自抑制的本领。
 **关键词**：trained me out of / afraid to have them / suppressing / until I was alone
-**为什么这样写**：全书对情感操纵最精准的一句解剖：症状消失≠痊愈，只是被迁到独处时；trained 的词根与 ch32「programmed」、ch29「behave」串成 Aaron 的训练史。
+**为什么这样写**：全书对情感操纵最精准的一句解剖：症状消失≠痊愈，只是被迁到独处时；trained 的词根与 ch19「programmed」、ch29「behave」串成 Aaron 的训练史。
 **读者视角提示**：与 ch32 的 5-4-3-2-1（Doren 在场）对照：她第一次被允许当着人发作，是在离开 Aaron 之后——本章的棚屋发作（Cipher 说出诊断）是第三次。
 
 > **原句 5:** "“I always want to touch you, but you said once that touching you without asking is taking something from you. I think about that a lot.”"

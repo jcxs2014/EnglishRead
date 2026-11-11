@@ -1,0 +1,388 @@
+
+=== ①相对章号：7 行 ===
+ch01 the island after dark.md:35 **读者视角提示**：注意本章的危险全部来自日常生活（情感纠纷），与夜里有合同兜底的"游戏"形成对照——两套危险系统在第一章就已分行。
+ch03 a contested invitation.md:28 **读者视角提示**：上一章酒吧里的凝视者与便利店里的搭话者在 Vero 的叙述中接上线：他是跟着 Clay 进城的，不要把两次相遇误并成同一人。
+ch03 a contested invitation.md:41 **为什么这样写**：这四句把上一章两个看似独立的遭遇按时间接合，却仍保留不同人的行动顺序；读者能回看酒吧与便利店，而不用靠猜测补桥。
+ch09 the line crossed.md:88 Vero 吞下钥匙、Brawley 以命立誓、Clay 在墓底掐着 Kayla 警告她别再动 Jess——自称守规则的人第一次踩破「恐惧不是死亡」的红线，而 Kayla 昏过去前看见的那道光，把这场越界留给了下一章。
+ch13 proximity and statistics.md:28 **读者视角提示**：这是 Ares 的自我解释，不是文本结论；Kayla 下一章之前不会再有他的视角，读者只能靠她的反应判断这段话的分量。
+ch14 our person.md:70 **读者视角提示**：Clay 的警告（It’s not pretty / he won’t want you to see it）是出于对 Vero 的尊重，不是对 Kayla 的不信任；下一章由她的眼睛看见发作现场。
+ch33 that now makes two.md:63 **读者视角提示**：Kayla 答「Your riddle doesn’t make sense」，Cave 收尾「For I am the Scarecrow, and that now makes two」——「两个」何指（第二个答谜
+
+=== ②绝对断言：155 行 ===
+00_情感节点.md:70 **叙事概括：** 全书第一次把躁郁发作写足体感：Vero 剪掉大半头发躲进道具间，Kayla 循着呜咽找到他——隔门报身份、给退路、坐下等待；她拒绝扮演修复者，只承诺陪到他准备好。浴室里他自撞头部，她抓住他的手腕求他开口；两份爱的冲突被他
+00_情感节点.md:82 **叙事概括：** 镜面反射里「看见」威胁的 Vero 身体先于决定进城，把保护演成砸场伤人：油弹割开 Kayla 掌心，她先致歉再逐客。双视角重述里她给出裁决——理解他的失控与驱逐他同时为真，而爱不等于让人占满你全部的空间。Brawley
+00_情感节点.md:106 **叙事概括：** 和解以条款交付：Vero 的不辩解道歉对上 Kayla 的无力感坦白，Brawley 在「罚我或放手」前第一次放下手臂；Ares 的抽离感在和解现场「退得更远了」。此后他交出运行手册（我制造被需要的时刻）、第一次承认「我
+00_情感节点.md:142 **叙事概括：** 和解以制度落地：她请求留下、要一份工作、得一间自己的房间；逃脱房里五问读她的岛史、四间房各交一种爱的方言——missing piece、you make me feel、claim、I get you。万圣节纯甜章里奖品
+00_情感节点.md:154 **叙事概括：** 法律线以真话通过：最后一次联系是他被捕那天、不知他出狱、不知他与岛的关联——Marsh 采信的是她的人格而非话术。随后她退掉阁楼（保留退路是 Aaron 在脑中作祟）、撕碎旧照（不敢相信曾以为爱他）、说出「拚了那么久要一
+00_概述.md:10 **先给一座双层岛。** Fear Island 白天是全年运转的全年龄主题公园，日落之后变成仅凭邀请函入场的成人猎场——腕带颜色标明你归属哪位猎手，合同与同意是唯一的护栏："Third, CONSENT IS NOT OPTIONAL. 
+00_金句精选.md:10 **中文**：第三，同意不是可选项——这是我们所有人没进监狱的唯一原因；对方一喊停，你必须立刻停手。
+00_金句精选.md:11 **上下文**：ch01 每晚八点特技场，Nixie 的六条训话里唯一全大写的一条。
+00_金句精选.md:42 **为什么重要**：反后宫结构第一次被说成集体名词；why choose 的答案在此埋下。
+00_金句精选.md:82 **为什么重要**：她「看得穿他」的第一次实证——此后 Ares 线的全部张力建立在这双眼睛上。
+00_金句精选.md:190 **为什么重要**：最封闭的人第一次交出清单式的爱——他的清单只列她的自主性，无一字外表。
+00_金句精选.md:210 **为什么重要**：工具理性人格第一次出现仪器偏移——他的转变被写成系统告警而非告白。
+ch01 the island after dark.md:53 **中文理解**：夜间训话的第三条被大写强调：同意不是可选项，它是所有人没进监狱的唯一原因；对方一喊停，你必须立刻停手。
+ch01 the island after dark.md:56 **读者视角提示**：六条规则里唯一全大写的一条——后续所有追猎戏的边界都画在这里，越线者"answer to me"。
+ch01 the island after dark.md:90 白天卖亲子票、夜晚卖恐惧的 Fear Island 靠邀请函与合同运转，Clay 用终身禁入替黑夜守门；妹妹的「炸弹前女友」把他拽进一桩私事，而 Nixie 训话末尾那句「有个不易被吓到的参与者」，让这座猎场第一次露出它真正在等的人。
+ch02 the paper cut princess.md:21 **读者视角提示**：前男友的存在感被压缩成「队首一眼」，后续他还会反复出现——这里是这条支线的第一次露头。
+ch02 the paper cut princess.md:42 **读者视角提示**：这是两人（读者视角的女主线）的第一次真正对视——记住「tattooed neck」，她身上的刺青是男主侧反复注意的标记。
+ch03 a contested invitation.md:10 - **情感弧线位置**：三个男主的欲望第一次指向同一个尚未登岛的 Kayla：Vero 的强烈兴趣、Brawley 对伴侣的支持与占有、Clay 的否决交错出现，原本稳定的同住关系开始承压。
+ch04 the cage and the wristbands.md:10 - **情感弧线位置**：既有伴侣关系的第一次外力测试：Brawley 的支持与占有同时存在；他看待 Clay 的旧情和对 Ares 的戒心，也使四人不可能只是并列追求者。
+ch06 rules and the first yes.md:12 - **人物弧线**：Ares 自认道德是表演，仍遵守同意和安全规则；Kayla 不退让也不需要 Vero 替她出头；Clay 的压迫手段第一次失灵。
+ch07 the three color wristband.md:10 - **情感弧线位置**：口头答「In」之后第一次兑现：Kayla 在追逐里确认自己享受恐惧，Vero 的「寂静」自白也让两人第一次交换各自的弱点；吻是她主动给出的。
+ch07 the three color wristband.md:63 **读者视角提示**：这是 Kayla 第一次在恐惧之后主动选择亲密；「Then I kiss him」的主语是她，不要把主动权归给 Vero。
+ch08 the scarecrow secret.md:10 - **情感弧线位置**：追逐从游戏滑向真实风险：Vero 在玉米地露出与平时相反的恐惧，Kayla 第一次看见猎手也会怕；Clay 的伏击把四人张力压到同一块墓碑前。
+ch08 the scarecrow secret.md:11 - **Tropes 兑现/反转**：兑现「玉米地禁令」——警告过别进的地方成了唯一退路；反转是「什么都不怕」的 Vero 最怕 Cave，且这个秘密连 Brawley 都不知道。
+ch08 the scarecrow secret.md:39 **中文理解**：Vero 承认自己上岛三年，从未成功吓到过 Cave；这件事对他的打击比他说出口的要多，连 Brawley 都被排除在知情者之外。
+ch08 the scarecrow secret.md:41 **为什么这样写**：三年与「从未一次」构成硬数据，把笑闹角色的挫败写实；including Brawley 单独收尾，点明这对伴侣之间也存在保密地带。
+ch08 the scarecrow secret.md:81 Vero 用一副手铐把 Kayla 锁进自己的追逐，却在唯一退路玉米地撞上藏了三年的恐惧 Cave，墓园尽头又被算准路线的 Clay 压住——猎手与猎物的身份，在这一夜被反复调换。
+ch09 the line crossed.md:10 - **情感弧线位置**：全书第一次「游戏」与「真实伤害」的边界被踩破：Kayla 的「不怕」撞上 Clay 的失控，Vero 的「想留下她」与 Brawley 的杀意同时被激发；章末那道光留下悬念。
+ch09 the line crossed.md:12 - **人物弧线**：Clay：护妹动机（Jess）首次与 Kayla 直接冲突，手段越界；Vero：第三次宣告喜欢并要「keep」她；Brawley：以「你碰他就死」划下底线；Kayla：语言上从未退让，身体却两次被掐到失去意识。
+ch09 the line crossed.md:62 **为什么这样写**：三句里第一次把动机说出口：护 Jess；但「她怎样动了 Jess」原文没有解释，威胁因此悬在一条未说明的因果上；taste of death 把刚才的扼颈定性为示范而非意外。
+ch10 the ledger of that night.md:12 - **人物弧线**：Ares：承认信任对他只是交易；Jess：从攻击者到道歉者；Clay：收回「mess with Jess」的指控但说不出口道歉；Brawley：第一次主动表达感谢与邀请；Kayla：用通话记录自证，不辩解不哭闹。
+ch10 the ledger of that night.md:28 **读者视角提示**：这是全书第一次由文本内部把 Clay 的行为称作 assault；它与 ch09 的「taste of death」互相印证，别在后续章节把它淡化成「玩法过火」。
+ch10 the ledger of that night.md:55 **为什么这样写**：全章最硬的一个人物第一次把感谢说完整，句子短、无修饰，与他「用点头代替语言」的表达习惯相称；genuine 一词也悄悄修正了 ch09 他「kill Clay」的杀气。
+ch11 warning shots.md:11 - **Tropes 兑现/反转**：兑现「试玩场+规则简报」；反转是猎物开局两分钟先发、且唯一目标是 Clay；「扯平」一枪表面平分胜负，Kayla 末句承认只是让他这么以为。
+ch11 warning shots.md:56 **读者视角提示**：对照 ch01 训话——那里的「不许杀人」由 Nixie 每晚重申，本章把它具体成试玩场条款；两分钟先发是 Kayla 唯一的目标。
+ch12 not at your expense.md:10 - **情感弧线位置**：Kayla 与 Vero/Brawley 伴侣关系正式并入同一张床；Brawley 对她的评估从威胁变成「Vero 的安全区」；Ares 对 Kayla 的关注第一次被同伴读成非表演。
+ch12 not at your expense.md:55 **为什么这样写**：再开始的信号由她的身体动作给出，叙述者用 we know she's ready 把判断权明确交回她手里；这是本章亲密段里唯一被完整保留的节拍句。
+ch12 not at your expense.md:62 **为什么这样写**：Brawley 的叙述在此故意停在「读不懂」上——他第一次在 Ares 与别人之间看见无法归档的瞬间；without looking back 把主动权留在 Kayla 一侧。
+ch13 proximity and statistics.md:9 - **一句话概括**：Kayla 第二次在 Ares 房间醒来，看见他卸下表演的睡颜与一道下颌疤；两人发生关系后，Ares 用「proximity and statistics」解释这一切，Kayla 回敬一句「it’s now weir
+ch13 proximity and statistics.md:10 - **情感弧线位置**：Ares 线从观察滑入肉体再滑回防御；Clay 线完成第一次「向外」的行动（替两个女人出头），Kayla 对他的敌意首次松动；两条线在同一章内反向交叉。
+ch13 proximity and statistics.md:60 **中文理解**：回程车上 Kayla 转回身看着路，忽然意识到：Clay 今晚说的这些话，第一次不是为了让她觉得自己不受欢迎；她完全不知道该如何处理这件事。
+ch13 proximity and statistics.md:88 Ares 用 proximity and statistics 把一夜解释成概率，Kayla 回一句「now weird」便离开；Clay 带着她完成对 Kyle 的对质与一拳，并在回程车上第一次说出没有恶意的话——两条男人线在她身上反向交
+ch14 our person.md:10 - **情感弧线位置**：Clay 线从「护妹」扩展到「护 Kayla」并首次自认失控（why her 无答案）；Ares 线被 Vero 逼到必须面对感情；章末把 Vero 的躁郁发作推到台前，四人关系即将接受第一次危机测试。
+ch14 our person.md:55 **为什么这样写**：Clay 的语言暴力比拳头更早到位——三句里没有一个脏字，却全是命令式；这段独白让读者第一次看见他保护人的方式与他 ch09 伤害人的方式同源。
+ch14 our person.md:69 **为什么这样写**：Kayla 的价值观第一次压过 Clay 的保护逻辑；Friendships 一词也修正了 ch12 她那句「not at your expense」——她把自己算进这个群体的责任里。
+ch15 not going to fix you.md:10 - **情感弧线位置**：全书第一次把「疯」的代价摊开：Vero 的喜剧外壳脱落，露出拔发、自撞与失控恐惧；Kayla 与他的关系从玩伴升级为「会留下来的人」；Brawley/Vero 的应对机制首次被外人看见并被质疑。
+ch15 not going to fix you.md:12 - **人物弧线**：Kayla：确立「陪伴而非修复」的爱的语法；Vero：第一次用语言（而非笑话）描述自己的发作与矛盾；Brawley：用拳台把人带回当下，被 Kayla 当面质疑；Clay：替两人的方式作解释。
+ch15 not going to fix you.md:20 **为什么这样写**：她先替 Clay 挡住指责，再立刻把情绪场合改写成搜索任务——两句完成「我为什么在这里」与「现在该干什么」；Kayla 的忠诚总是以行动形式出现。
+ch15 not going to fix you.md:48 **为什么这样写**：全书的陪伴语法被压缩成一句对仗：修（对方的问题）对坐（对方的身边）、准备好（由他定义时间）；这也是她区别于「most people」的唯一声明。
+ch16 the silence after.md:9 - **一句话概括**：发作后沉睡十四小时的 Vero 醒来，脑内噪音调低但未消失；Brawley 告知已向 Kayla 解释过机制、她没被吓跑。Vero 给 Kayla 发消息要照片，放大后在镜面反射里发现一个男人正盯着她——身体先于决定
+ch16 the silence after.md:12 - **人物弧线**：Vero：离家原因（家人无措+药物僵尸感）首次自陈，失控后失去唯一想留住的人；Kayla：受伤后仍先说 I'm sorry 再下逐客令；Brawley：自责 cage 拖拽，失控时负责物理收场；Ares：在 Vero 
+ch16 the silence after.md:18 **中文理解**：Vero 醒来先检查脑内的噪音：比发作时低，但从未完全消失；他把它调到「应该能正常运作」的水平，告诉自己这就够了。
+ch16 the silence after.md:65 **中文理解**：被拖出酒吧后，Vero 说：不记得有多久以来，他的脑子第一次彻底安静。
+ch16 the silence after.md:93 Vero 从镜面反射里「看见」威胁，身体先于决定冲进酒吧，把保护逻辑演成砸场伤人；Kayla 腕上滴血，先致歉再逐客——被赶出生活的那一刻，他脑中第一次彻底安静。
+ch17 love cant look like that.md:10 - **情感弧线位置**：ch16 的另一面：驱逐不是气话而是被教过的人能做的唯一选择；Kayla 从「陪伴语法」走向「边界语法」，Part Two 的关系重建由此重新起算。
+ch17 love cant look like that.md:39 **中文理解**：Kayla 承认 ch15 说过「无论如何不想他离开」，那时是真话；现在赶他走也是真话——两件事可以同时为真，而驱逐是她今晚唯一给得起的东西。
+ch18 both things can be true.md:10 - **情感弧线位置**：ch16—17 崩塌后的第一次修复尝试：Vero 从挑选性相信被推到「我做了那件事」的承认；屋顶坠落成为群体合谋的温柔救援，Brawley 线先于 Kayla 线回稳。
+ch18 both things can be true.md:35 **读者视角提示**：这是全书第一次出现可被读作自伤意念的句子，文本未加渲染也未回避；Vesper 随后「Grow up」的回应选择不接这个话头，是刻意的处理。
+ch18 both things can be true.md:42 **读者视角提示**：这是 Part Two 的核心命题第一次被完整说出；Vero 此刻仍不接受（「Nah, I think I’m going to stay up here」），为踹落一幕蓄力。
+ch20 a good shot.md:9 - **一句话概括**：Clay 的周界检查第一次漏掉检查点，原因是他满脑子都是 Kayla——自 ch13 那句 she's mine 之后他改为暗中盯梢。他以买门闩为由绕到她家附近跟踪，被 Kayla 用一袋土豆伏击；她数落他不懂边界，
+ch20 a good shot.md:27 **为什么这样写**：conveniently 一词让 Clay 自己戳穿自己：叙述者知道这是自欺，却仍按程序执行；「真需要零件」与「假理由」并存，跟踪被写成他唯一会的靠近方式。
+ch20 a good shot.md:49 **读者视角提示**：won't let anyone else ruin you 同时指向 Vero（ch16）与 Kyle（ch13）——Clay 的保护逻辑第一次被他自己说成需要而非规则。
+ch21 the riddle of cave.md:10 - **情感弧线位置**：决裂后的第一次正面对峙：Kayla 用扔花完成控诉，四人的回应是把她逼回游戏结构；Cave 的谜语给出全书对「陪伴」的最高定义，而结尾的身体背叛把关系重新点燃。
+ch21 the riddle of cave.md:53 **中文理解**：Kayla 不假思索答「朋友」；Cave 完全静止，她不敢移开视线——直觉告诉她移开就可能永远走不出去。他歪头眯眼说：从来没有人答对过。
+ch22 the detachment moved.md:10 - **情感弧线位置**：决裂后的正式和解章：Vero—Kayla 重建信任的条款被逐条说出；Brawley 的「非黑即白」第一次为她让步；Ares 线出现他本人都不愿承认的变化——抽离感在移走。
+ch22 the detachment moved.md:42 **读者视角提示**：这段与 ch16 Vero 视角的「completely silent」互为镜像：同一夜，两个人各自最坏的感受第一次被对方听见。
+ch22 the detachment moved.md:49 **读者视角提示**：Brawley 的「I warned you」对峙紧随其后——她承认自己说了重话但拒绝背下 Vero 行为的责任；黑白分明的 Brawley 在此第一次看见灰。
+ch22 the detachment moved.md:62 **为什么这样写**：ch10 的「transactional」人格第一次出现仪器读数般的偏移——Ares 用做实验的方式记录自己的变化；「nothing to my advantage」是他能写出的最接近情话的句子。
+ch22 the detachment moved.md:88 Vero 的不辩解道歉与 Kayla 的无力感坦白终于对上，条款（工作场所安全）取代情绪赦免；Brawley 在「罚我或放手」前第一次放下手臂，而 Ares 发现：这场和解里没有任何对他有利的东西——抽离感退远了。
+ch23 a reminder that i survived.md:9 - **一句话概括**：Kayla 在 Vero 房间醒来，他盘腿坐地板守夜、谎称她梦话提三明治；Clay 与 Ares 清晨悄悄替她还了卡车——「We will always listen to you」。Vero 逐条问她的刺青，她给出
+ch23 a reminder that i survived.md:11 - **Tropes 兑现/反转**：兑现「晨间同居」的亲密日常；反转是服务以谎言形式送达（Vero 编梦话掩盖守夜）；Ares 的道歉回收 ch13 原话，是全书第一次「用你自己的词回敬你」。
+ch23 a reminder that i survived.md:20 **为什么这样写**：守了一夜的人用一句瞎编的三明治把守夜说成巧合；Vero 的体贴总是以玩笑伪装，而这次连玩笑都是假数据——文本让读者看见谎言的用途。
+ch23 a reminder that i survived.md:55 **为什么这样写**：Ares 的道歉精确拆成三层（事件/处理/自我辩护），并给自己的话术定罪（unkind）——ch13 的统计学句式被他亲手作废；这是全书第一次 Ares 主动交出解释权。
+ch23 a reminder that i survived.md:88 守夜的谎、还掉的卡车、逐条不追问的刺青问答——四人的道歉各用各的语法送达；Kayla 在偷来的培根与 Ares 的正式道歉之间环视厨房：第一次由自己做选择，哪怕可能搞砸。
+ch24 emergency contact only you.md:9 - **一句话概括**：Kayla 回归数日，Brawley 一边等她再次离开、一边第一次追问自己的感情来源；夜里跑步他找 Banks 质问芯片，得知 Vero 的紧急联系人只填他一人，又听到 Banks 对 Kayla 的观察（记出口、自
+ch24 emergency contact only you.md:13 - **叙事手法**：Brawley 的内心问句直接呈现（全书他第一次）；跑步—博物馆—回家三段空间移动承载心理变化；亲密段以对话与手势节拍呈现，露骨内容不选入。
+ch24 emergency contact only you.md:20 **为什么这样写**：全书最不会自剖的人第一次摆出两个选项，且第二选项被「logically」抢先否决——承认与否认同句共存，正是他的灰区形状。
+ch24 emergency contact only you.md:55 **为什么这样写**：Brawley 以评估报告的口吻完成全书第一次四人关系盘点，每个男人都被他一句话定性；Ares-land 的造词泄露他的观察力——他能翻译 Ares，只是不愿翻译自己。
+ch24 emergency contact only you.md:62 **为什么这样写**：全书最孤硬的人第一次说出 confide in——他要的不是分享伴侣而是分担守望；这与 ch15「I hate feeling like a burden」互为镜像：他终于承认自己也需要被接住。
+ch25 the man who made you relearn everything.md:9 - **一句话概括**：Kayla 第一次承认自己幸福，却仍在说服自己不配；她主动去 Ares 的早班帮忙，看清他「需要被需要」的控制结构，也听到他罕见的自陈：多数人不喜欢被看透。Ares 记得她上岛第一眼找出口，归类为「有过需要出口的经历
+ch25 the man who made you relearn everything.md:12 - **人物弧线**：Ares：第一次给出动机（被重视 vs 被觉得不适）、第一次承认自己处理失当；Kayla：确认「幸福不等于不配」的拉锯仍在；Clay：护送与拌嘴延续 ch20 语法；Vero：吃醋式吐槽 Cockblocker muc
+ch25 the man who made you relearn everything.md:18 **中文理解**：Kayla 自陈：不记得多久以来第一次感到幸福，但某个原因让她一直在说服自己——她不配。
+ch25 the man who made you relearn everything.md:41 **为什么这样写**：Ares 的自陈第一次给出「能力」的代价：读人不是天赋是职业，也是被排斥的原因；needed 一词把「控制」重新定义为求生。
+ch25 the man who made you relearn everything.md:48 **为什么这样写**：Ares 的分类法像诊断书，Kayla 的回应（Some things don’t need to be confirmed. He already knows）承认他已读到底——这是全书第一次她的创伤被他人准确命名而
+ch25 the man who made you relearn everything.md:60 **中文理解**：Kayla 说没料到他骑摩托，Ares 答：多数人不会想到；但骑车是唯一让他脑子安静、一切退去的地方——他只注意眼前的东西。
+ch25 the man who made you relearn everything.md:88 Kayla 承认幸福又怀疑自己不配，Ares 在早班里第一次交出动机与安静的方式，并警告新来的读心者 Luca 把 charm 用成战术——而那句指控里，Kayla 听出了他自己的倒影。
+ch26 be my person.md:12 - **人物弧线**：Vero：好主意清单=他的自我叙事；承认「不是自己」但威胁句未收回；Kayla：隐形安静作为生存技能被重新估值；Clay：首次被看见真实笑容；Ares：被点名为唯一未承认者。
+ch26 be my person.md:13 - **叙事手法**：以 Vero 的清单独白开场；夜猎按空间蒙太奇推进（通道—墓园—精神病院）；监控室段是全书唯一「观看他人亲密」的结构，露骨内容本章精读不选入，仅收其叙事功能（微笑）。
+ch26 be my person.md:20 **为什么这样写**：把 ch08 手铐、ch18 屋顶、ch21 花卡车全部重排成「好主意清单」，Vero 用自嘲把灾难史改写成冒险史；execution needed some work 是他对 ch16 唯一的直接评论。
+ch26 be my person.md:62 **为什么这样写**：全书最封闭的人第一次被第三方捕获到无防备表情，且由最闹的人解读；She is staying 与 ch16 末的「completely silent」形成同构反义——同一句「安静」，这次是满足而非崩塌。
+ch26 be my person.md:88 Vero 用一套小丑装把 Kayla 拉进夜猎，她的天赋来自童年隐形术；他盘点四人的认领、命令双手别进螺旋，最后在监控里看见 Clay 的真实笑容——她会留下，脑子里的噪音第一次安静得正当。
+ch27 a piece of broken chalk.md:55 **为什么这样写**：Clay 先修复她的自我怀疑（never doubt yourself），再给出暴力预告——顺序是他学会的尊重方式；对照 ch19 她说的「programmed to believe I could have stop
+ch27 a piece of broken chalk.md:88 一把推得太整齐的椅子与一截断粉笔让 Kayla 的直觉被 Clay 郑重接住——查凶、转移、瞒住 Vero；床上她问出 Rourke 家的第三口人 Meeka，而他第一次命令她：相信自己。
+ch28 she belongs here.md:62 **为什么这样写**：全书最封闭的两个人用一句耳语完成结盟；Ares 的 belongs 与 ch16 的 mine 不同——他要的是归属不是占有，Clay 的点头是本章唯一无台词的结论。
+ch29 unaccounted variables.md:9 - **一句话概括**：Ares 视角：Luca 在帐篷口三连问 Kayla 身份，Ares 护得生硬、反测他两次，警告「她身边全是怪物」；腹中异动被他登记为「未计入的变量」。石墙上 Kayla 逼出他的墓园真相——他承认故意等到最后一秒，
+ch29 unaccounted variables.md:34 **为什么这样写**：Ares 用排除法处理情绪（不是嫉妒），却不肯命名它本身；「变量」语法是他唯一允许自己使用的感受语言——ch22 的「抽离感移动了」在此升级为系统告警。
+ch29 unaccounted variables.md:46 **中文理解**：Kayla 最后问：所以你对我毫无感觉？Ares 答：我不知道——而这是很久以来，他第一次有不知道关于自己的事。
+ch29 unaccounted variables.md:48 **为什么这样写**：全书 Ares 的第一次「不知道」被精确记录为系统事件；问句的锋利（at all）与答句的诚实（first time）构成他线的情感拐点——ch22 的移动终于被他亲口承认。
+ch29 unaccounted variables.md:88 Ares 向 Luca 亮出「她身边全是怪物」的警告、向 Kayla 交出「制造被需要」的本能与第一次的「我不知道」；她以完整 Aaron 史回敬——而他收下真相的那一刻，决定用它把她留在身边。
+ch30 the shadow riddle.md:9 - **一句话概括**：Kayla 替 Ares 的酒吧顶班，Cave 破例离田来到吧台，只递给她一则「影子」谜语便离开；Ares 说 Cave 开场后从不让玉米地空着。储藏室里 Kayla 先立规「若被利用就永久离开」，Ares 答「No
+ch30 the shadow riddle.md:28 **读者视角提示**：Ares 随后说「别试着理解他，他的谜语不全讲得通」——文本借他之口保留谜语的多解性；Kayla 的「影子」解不是唯一答案，但警告方向确定。
+ch30 the shadow riddle.md:42 **读者视角提示**：他随后故意慢、承认「Yeah, I am」，并在她面前第一次放下墙——无墙时刻与 ch29 末的利用宣言同章，文本让两份证词并存，由 Part Three 裁决。
+ch30 the shadow riddle.md:88 Cave 破例离田送来「影子」的警告，Kayla 向 Ares 立下「利用即永别」的规则、他第一次无墙应答；直觉再报警时她只发一句「只要有人知道」——回头，Clay 已坐在她的餐桌边。
+ch31 live with the best.md:21 **读者视角提示**：Kayla 当场反问「我是唯一不知道前任坐过狱的人？」——ch01 至今文本从未给过 Kyle 入狱信息；此「shitty ex」是否即 Kyle，本章未点名，勿合并。
+ch31 live with the best.md:88 PI 邮件确认 Kayla 的前任带着控制行为前科出狱，Brawley 在旋转木马之夜的尾段揪出暗处盯梢的新员工 Luca——一拳放倒，声明警告是给 Nixie 与 Ares 的礼遇；而他对 Ares 话术的解剖，第一次替 Ares 说清了
+ch32 five things.md:46 **中文理解**：Kayla 在心里逐条重复咒语：Aaron 不在这里；他从未来过这里；他不知道我住哪、在哪工作；他在狱中多年；他不知道我在哪。
+ch32 five things.md:62 **为什么这样写**：全书女主的阶段性结论句：原谅（ch22 条款式）+ 不让过去接管现在（ch29 自主宣言）合成一句；hands down 的口语强度说明她第一次不给自己留「不配」的后路（对照 ch30）。
+ch32 five things.md:88 一个与 Aaron 极像的陌生人引爆 Kayla 的恐慌发作，Doren 用手覆手带她跑完 5-4-3-2-1；咒语确认「他在狱中多年」，Vero 的鸡块与纸割计划书把夜拉回喜剧——章末她第一次不留后路：遇见他，是最好的事。
+ch33 that now makes two.md:13 - **叙事手法**：喜剧开场（修机器争论）与恐怖结尾同章对撞；药物失能段用短句与身体词（blur / lead / weighted）；Aaron 独白保留其话术原貌不加旁白批驳；Cave 谜语以韵文分行呈现，全书文体唯一。
+ch33 that now makes two.md:27 **为什么这样写**：全书第一次让 Kayla 把「留下」明确归因于欲望而非便利（对照 ch19 的恐惧、ch32 的咒语）；这句话被放在危机前十分钟，成为她主观能动性的存档。
+ch33 that now makes two.md:62 **为什么这样写**：全书唯一韵文，功能不是装饰而是行动宣告：Cave 的谜语首次带「已决定」的及物性——对 ch21 赐护承诺的执行时刻。
+ch34 already counting.md:39 **中文理解**：Vero 描述发作的切换：他从未感觉到现实到「脑子去的地方」之间的过渡——上一秒是自己，下一秒 simply not，抓不到中间态，也没有预警；一切同时变吵，然后他已在脑内别处向外看。
+ch35 you dug me up.md:42 **读者视角提示**：Clay 回「I’m never a dick」被 Brawley 与她同时怀疑，他让步到「rarely」——全书唯一一次 Clay 自我修正，文本用喜剧包裹。
+ch35 you dug me up.md:48 **为什么这样写**：Kayla 把 Ares 的自责（他认出了脸却没阻止）用反问卸掉；safe here with you 是她对「需要 Ares」的第二次确认（第一次在棺中）。
+ch36 when he comes down.md:12 - **人物弧线**：Clay：逼哭疗法+承诺叫醒她，保护技术首次被 Kayla 接受；Brawley：承认第一次「分享」发作后的 Vero 并评估自己；Ares：把 Cave 的「人性余量」纳入模型；Kayla：从「我没事」到「我是不是让
+ch37 not ownership.md:12 - **人物弧线**：Vero：第一次在发作中「感到」躁狂与解离并存；他的爱的定义（非占有）与 Brawley 在 ch36 的预言（正义感）同帧出现；Aaron：操纵话术的最后库存（利用论/旧爱论/性羞辱论）被逐条没收；Cipher：工具
+ch37 not ownership.md:60 **中文理解**：Vero 自陈：我有点躁狂——发作中通常感觉不到，这次能，卡在某个夹层里；这对他还是第一次。手比意识快，脑子全速，但更糟的是那种与自己解离的感觉。
+ch37 not ownership.md:62 **为什么这样写**：全书对躁狂发作最直接的自我命名：「第一次感到」比任何症状描述都更能说明这次的分量；detached from myself 回收 ch34 的 looking out——机制一致，自觉度提高了一格。
+ch37 not ownership.md:88 Cipher 棚屋里的纸割计数、螺丝刀与消毒棉：Vero 用「爱不等于所有权」处决 Aaron 的占有逻辑，被「她曾求我」的性羞辱击穿刀速；他第一次在发作中看见自己的躁狂——而 Cave 的低吼宣示：Aaron 的最终处置权不在他手里。
+ch38 roommates.md:20 **为什么这样写**：全书最会行动的人第一次承认行动失效：他的爱=可执行清单，而失踪把清单抽空；ch36 他替 Vero 做发作后推演，本章他陷入无脚本的当下。
+ch38 roommates.md:25 **中文理解**：Kayla 分析：Vero 自己切除了芯片，说明他不想被找到；现在唯一能做的是等他准备好回来——而他回来时会需要一个完整的你，所以我要你呼吸。
+ch39 take to our graves.md:55 **为什么这样写**：take to our graves 与字面意义的 grave 叠合成全书最强反讽；保护 Kayla 的方式从「救她」升级为「替她背罪」——Brawley 的非黑即白在此第一次主动染灰。
+ch40 a girl could get used to this.md:12 - **人物弧线**：Kayla：第一次当众说「我害怕」并同步要求工作（独立不丢）；Vero：误读—失控—被 Brawley 耳语安抚的完整回路；Ares：情感困惑首次自陈（operating system 比喻）；Clay：预谋被拆穿的坦
+ch40 a girl could get used to this.md:21 **读者视角提示**：她「知道」的内容文本从未明说（活埋+沉默同盟），本章只写她的消化过程；Part Three 后文她是否向四人确认细节，是悬念。
+ch40 a girl could get used to this.md:34 **为什么这样写**：「害怕回公寓」把 ch30 影子、ch33 活埋、ch38 棚屋的血腥土味全部收进一个具体地点；她先替四人卸责（不是你们的麻烦）再承认无能——这是全书她第一次以「做不到」结尾而非「我能」。
+ch40 a girl could get used to this.md:41 **为什么这样写**：Clay 的预谋被 Kayla 的主动坦白截胡——「省了我强迫你留下的麻烦」；hate sex 的预案是他对自己关系的唯一一次喜剧化剧透，perfectly manicured eyebrow 是 Kayla 视角的嫌
+ch40 a girl could get used to this.md:55 **为什么这样写**：Ares 的自我怀疑以四连问句呈现——每个问句都拆掉一层他的操作系统（感受=异常、唯一性=故障、诚实=新动机）；最后一问（为不撒谎而假装在乎）是他对自己的最狠审计。
+ch40 a girl could get used to this.md:88 Kayla 在早餐桌说出「不敢回公寓」并请求留下与工作，居住协议以「她自己的房间」确立；淋浴间 Ares 第一次审计自己的在乎是否只是话术，而她答：你骨子里是好人——boyfriend 一词，四男竞争正式开场。
+ch41 you know nothing.md:27 **为什么这样写**：全书最会读人的人第一次放弃读人工具；hover 与 click out 两个鼠标动作承载他的原则转向——ch29 他承认「不知道」，本章他拒绝用档案绕过不知道。
+ch41 you know nothing.md:35 **读者视角提示**：与 ch10 他自陈「transactional」对照：过去他替所有人适配，第一次有人替他适配——「never had someone willingly give me what I need」是本章的情感核心。
+ch41 you know nothing.md:41 **为什么这样写**：说明书的比喻由 Kayla 说出、被 Ares 认领——他的诚实（我确实没台词库）反而成为亲密证据；boyfriend 一词在 ch40 被认领后，本章他第一次主动使用它自我定位。
+ch42 the in-between.md:9 - **一句话概括**：回岛后 Kayla 绕到后门，遇见她从未见过的平静 Vero——脑静了却关不掉，Brawley 称之为 the in-between。Vero 直接问她棺中感受（Clay 只给过哭的许可，无人要她讲述），她说出黑暗、
+ch42 the in-between.md:28 **读者视角提示**：这是全书第一次也是唯一一次完整讲述活埋体感；ch33 的叙述是事件层，本章是身体层——同一事件的两次记账。
+ch42 the in-between.md:42 **读者视角提示**：与 ch32 的 5-4-3-2-1（Doren 在场）对照：她第一次被允许当着人发作，是在离开 Aaron 之后——本章的棚屋发作（Cipher 说出诊断）是第三次。
+ch43 the grave is empty.md:9 - **一句话概括**：警察线正面交锋：Clay 上周已在桥这侧布岗拦截，Becker 通报两名便衣到场——资深探员 Marsh 带着「Luca 假释每周报到、已缺席两次」的底牌登门。Clay 以「他因个人原因辞职、我们流动率高、第三方背调
+ch43 the grave is empty.md:27 **为什么这样写**：警方的牌第一次亮出实质：缺席报到意味着「失踪」正式立案，不再是 Rogue 段的打听；watching for my reaction 是审讯技术，Clay 的无反应正是答案。
+ch43 the grave is empty.md:62 **为什么这样写**：全书 Clay 防御体系（growl、deflect、drink）第一次被正面拆除：她不用争吵，只用一句陈述；tilts her chin 的动作回收 ch09 墓底她与他互瞪的语法——同一姿势，两种用途。
+ch44 the other shoe.md:10 - **情感弧线位置**：全书唯一的纯甜章：警察线与活埋创伤暂退，四人以「游戏+奖品+篝火」完成对 Kayla 的日常化接纳；「at home」首次由她亲口说出；Ares 线的幸福许可（allowed to feel）推进一格。
+ch44 the other shoe.md:41 **为什么这样写**：「物理」梗（他喊的 not my fault I understand physics）被兑现为全中——Vero 的天赋第一次以无害方式展示；ego 被人群喂饱的描写与 ch16 他「被注视」的恐惧形成对照：这次注视是
+ch44 the other shoe.md:56 **读者视角提示**：Ares 伸手扶正她的泡沫皇冠（Good）——小动作回收 ch40 boyfriend 的两人秘密；本章他全程是「安排者」（篝火、警告套圈前科），许可句是他第一次以感受而非功能说话。
+ch46 the last guest standing.md:53 **中文理解**：Ares 的镜前，Kayla 回答「为什么留下」：说实话，我跑累了——跑了太久，停下反而像危险；但这么久以来第一次，你们让我觉得可以做真实的自己，并且被爱的是我本身。
+ch46 the last guest standing.md:60 **中文理解**：Kayla 收尾：Vero 把心挂在袖子上，其余三人各以自己的方式表达在意——Clay 认领我、Ares 承认我让他有感受、我是 Brawley 缺失的那块。这就够了，因为他们以我从未想象过的方式补全了我。
+ch47 twenty percent.md:34 **为什么这样写**：开棺的三秒被拉成一小时——时间变形是创伤的标准文体；finish or change 的二选一泄露他评估风险的方式（Vero 的精神状态永远排在她生死之后一位）；省略号是他全书第一次话说一半。
+ch47 twenty percent.md:88 凌晨两点的后门廊，Brawley 说出开棺那秒像一小时的恐惧、捶树的淤青与「一人螺旋容易」的账本；Kayla 以两成八成的公式接过来，回赠他一句「I've got you」——那个从不说出口的守护者，第一次被守护。
+ch48 a chapter closed.md:9 - **一句话概括**：Kayla 退掉阁楼——保留退路是 Aaron 在脑中作祟，她不让他赢；早餐刚吃到一半，Detective Marsh 的陌生来电邀她进警局。Ares 直接关店陪她去，路上交底：Clay 已送「他离岛后再未返回」的录
+ch48 a chapter closed.md:27 **为什么这样写**：控制狂第一次为一个人关自己的店——他的「系统」让位于她的讯问；Vero 补的「After I get my nuggets」把庄重瞬间拉回喜剧，四人反应语法各归各位。
+ch48 a chapter closed.md:34 **为什么这样写**：全书她第一次把「独自」用在保护者面前——ch33 棺中无人可喊、本章门口有人可等，对照即疗愈；Ares 的 Sure, but I will be right here 给出「不越界的在场」。
+ch48 a chapter closed.md:63 **读者视角提示**：Jess 随后亲自补刀「Kayla 在挺我，这就是我的事」+「你是混蛋！」捶 Clay 手臂——被保护者自己下场；Clay 的「选择战场」与章末暧昧（one woman's body）是他唯一的退场方式。
+ch49 it really feels like i am.md:9 - **一句话概括**：Clay 刚走，Kayla 告诉 Ares 她要彻底搬离阁楼、顺带约一次「在每张台面上」的独处；两人跑去拳场找 Brawley 借钥匙，Vero 的解说已恢复满血。卡车里 Kayla 走音唱歌，阁楼打包时她翻出与 A
+ch49 it really feels like i am.md:34 **为什么这样写**：全书对 Ares 的「系统」第一次由他自己在亲密中叫停：manipulation 一词被他自己点名并弃用；「exactly what she is asking」与 ch30 她的规则（利用即永别）形成执行层互证。
+ch49 it really feels like i am.md:35 **读者视角提示**：本章亲密段含露骨描写，精读只取这一功能句；注意他的让步是自觉而非被迫——ch41 他「无法承诺不操纵」的保留，在本章出现第一次主动弃用。
+ch49 it really feels like i am.md:49 **读者视角提示**：这是 Ares 线唯一的自曝，且刻意不被任何人（包括 Kayla）听见——与 ch29 他向 Kayla 交「制造被需要」的真相形成对照：最痛的那块他谁都不给；Part Three 终章是否由他人发现，文本留白。
+ch49 it really feels like i am.md:60 **中文理解**：他把睡着的她摇醒，低声说：到家了。她睁眼微笑：生平第一次，我真的感觉「到了」。
+ch49 it really feels like i am.md:88 Kayla 撕碎 Aaron 的旧照、说出「我只想回家」；Ares 在亲密中第一次弃用操纵、以「我能力所及的一切都是你的」回应爱，又把监护人虐待史独自锁进内心——车到门口他低声说 home，她答：生平第一次，我真的到了。
+ch50 i took back control.md:53 **中文理解**：Ares 在墓上对她低语：你就是我的全部——我唯一一次救赎的机会。
+
+=== ③年龄数字：145 行 ===
+00_情感节点.md:10 **叙事概括：** 全书的命运相遇被写成一场黑色幽默：酒吧夜班后，Kayla 在 24 小时便利店与一个聊「纸袋杀人与纸割致死」的陌生男子接梗。他临走叫她 paper-cut princess，并留下一句比任何告白都重的判词——恐惧不在于害
+00_情感节点.md:46 **叙事概括：** 自称守规则的安全主管在墓底踩破自己的红线：掐颈、按头、两次致昏，最后用「再动 Jess 就杀你」把私怨接上护妹逻辑。Kayla 全程反唇相讥、还以头槌——她拒绝在受害位置上失语，但身体被掐到失去意识前，看见 Clay 身
+00_情感节点.md:130 **叙事概括：** 倒计时谜语把 Ares 引到墓园，Kayla 还有呼吸；确认安全的同一秒 Vero 第四次发作——无前兆、抓不到之间，他跑开兑现「不让她看见」，随后切除芯片、提刀进玉米地，桩上等着的是被缝嘴的 Luca。清算由 Clay
+00_概述.md:14 **四个人，四种语法。** Clay 的占有先于语言（"When I told Kayla she was mine, it caught me by surprise. I never say anything I don’t mean.
+00_概述.md:24 **结局不是被救，是自选。** 法律线以全真话结案；Kayla 撕碎旧照、退掉阁楼、在墓园门响时没有跑——活埋之地被改写为夺回之地："I won’t let him win. Breathing deeply, I compose myse
+00_金句精选.md:22 **为什么重要**：女主全部防御与自主逻辑的地基；「家」的坐标此后被反复改写（ch19 阁楼、ch48 退租、ch49 回家）。
+00_金句精选.md:50 **中文**：爱他没有让我变弱——恰恰相反，它让我更强；而我本就为暴力而活，两件事刚好互不冲突。
+00_金句精选.md:208 **中文**：我观察完这场和解，去找我用过一千次的抽离感——它退得更远了。此刻我找不到任何对我有利的东西。
+ch01 the island after dark.md:9 - **一句话概括**：Clay 视角开场：白天卖亲子票、夜晚卖恐惧的 Fear Island 生态速览——处理潜入者、接下妹妹 Jess 的「炸弹前女友」求助、把查案托给运营经理 Nixie，最后以夜间训话六条规则和「今晚有个不易被吓到的
+ch01 the island after dark.md:12 - **人物弧线**：Clay：安全主管与兄长双重保护者姿态定型（"你永远是十二岁"）；Nixie＝母职代偿；Vero 与 Brawley 以喜剧/暴力两极首度亮相。
+ch01 the island after dark.md:25 **中文理解**：对日落后混在岛上不肯走的潜入者，这里没有警告也没有第二次机会：一经发现就是终身禁入。Clay 的解释只有一句——我们承担不起。
+ch01 the island after dark.md:27 **为什么这样写**：三个短句斩钉截铁，主语悄悄从"我"换成"我们"，把个人脾气写成制度；用最少的字立起这个世界的第一条铁律。
+ch01 the island after dark.md:41 **为什么这样写**：四个并列动词短语一口气列完职权，把「她管什么」写成岗位说明书；放在 Clay 开口求助之前，随后的委托便水到渠成。
+ch01 the island after dark.md:42 **读者视角提示**：记住「邀请函＋背景调查＋合同」三件套，这是她管理的具体流程；尚不能由此断定某个参与者已经完成这些手续。
+ch02 the paper cut princess.md:10 - **情感弧线位置**：女主奠基章：独立、嘴硬、「不怕任何事」的表层人格立起，创伤只露出「firsthand experience」一个切口；她与四位男主的全部交集此刻只有一次对视和一句判词。
+ch02 the paper cut princess.md:20 **为什么这样写**：三个短 complaint 层层加码，最后落到「前任站队首」把职场吐槽切换成私人恩怨；用抱怨开场让女主的嗓音（粗口、不耐烦）先于情节立住。
+ch02 the paper cut princess.md:34 **为什么这样写**：用「没动、没碰酒」两个否定动作写凝视的压迫感，比直接写「可怕」高一层；她「说不上为什么」的不适正是直觉在报警。
+ch02 the paper cut princess.md:83 分手两个月还来队首晃的渣前任、一杯冰水泼出的护短、一个不碰酒的盯梢男——Kayla 用「我什么都不怕」扛过周六夜班，却在便利店被一个聊纸袋杀法的陌生男子轻轻叫破：paper-cut princess，恐惧不在于怕，而在于你享受了什么。
+ch03 a contested invitation.md:18 **中文理解**：Vero 预先反驳把他性格归咎于原生家庭的解释：父母结婚三十五年，祖父母也仍在一起；在他看来，家人的生活再寻常不过。
+ch03 a contested invitation.md:21 **读者视角提示**：三十五年是父母婚龄，不是 Vero 年龄，也不是他和 Brawley 相处的时长。
+ch03 a contested invitation.md:39 **中文理解**：Vero 交代昨夜行踪：他跟着 Clay 到城里，看 Clay 在酒吧盯着那女子；自己因想吃糖先离开，Clay 随后也走了，女子几分钟后才走进便利店。
+ch04 the cage and the wristbands.md:56 **读者视角提示**：腕带是 Nixie 的安排，不等于女子已到岛上或四个人已达成共识；参与者是否应邀仍待后文。
+ch05 the invitation before the chase.md:34 **为什么这样写**：他不用现成标签，而是连着三个关系层次说「好友、归属、全部」；最后补出开放关系的实际范围，防止 Kayla 误以为他单身。
+ch06 rules and the first yes.md:13 - **叙事手法**：Ares 以监控与身体语言分析 Kayla，把游览场面写成观察记录；结尾两个简短的 In 将长篇试探压成可听见的选择。
+ch06 rules and the first yes.md:20 **为什么这样写**：第一人称直接推翻别人给他的好人评价，随后用两个极短的「是规则」把同意与安全从抽象美德落实到必须执行的程序。
+ch06 rules and the first yes.md:88 Ares 以规则为自己划界，也把 Kayla 当成观察对象；她却在 Clay 面前站稳、在 Vero 面前听清既有伴侣的边界，最后反问 Ares 是否也愿进入这场关系——两个「In」仍只是口头选择，不是夜猎合同。
+ch07 the three color wristband.md:18 **中文理解**：参观后第二天早上，邀请以短信形式抵达，附着一个要填偏好与边界的表单；Kayla 逐条填写，也明确写下自己绝不接受的选项。
+ch07 the three color wristband.md:27 **为什么这样写**：三色对应三位猎手，但作者不让任何人解释，只让 Kayla 自己数出颜色差异；腕带因此成为悬念的载体，她比别的参与者「被更多人盯上」这件事先由物件说出。
+ch07 the three color wristband.md:56 **读者视角提示**：Brawley 的警告与随后同室的升级接触连在一起，文本呈现的是猎手的占有逻辑；Kayla 当时的生理反应与她是否同意这些接触是两回事，需分开读。
+ch08 the scarecrow secret.md:9 - **一句话概括**：Vero 视角续接首夜：他趁 Kayla 主动吻上的间隙把手铐铐住两人，理由是 Clay 不可控；两人靠精神病院的隐藏出口绕开砸门的 Brawley，被迫穿玉米地——Vero 藏了三年的恐惧 Cave 正是那里的常驻
+ch08 the scarecrow secret.md:32 **中文理解**：Kayla 问怎么出去才不被 Brawley 杀掉，Vero 指向房间里的隐藏出口：那是他日常进出的通道；趁 Brawley 还在砸正门，他们只有几分钟窗口。
+ch08 the scarecrow secret.md:34 **为什么这样写**：We're not 两个词先干脆否定「安全离开」，再给出替代路线，节奏像追逐本身；隐藏出口同时说明 Vero 对这片场地有私人的掌控层。
+ch08 the scarecrow secret.md:35 **读者视角提示**：这是 Vero 为精神病院角色准备的通道，不是岛上公共出口；「几分钟」是他估的，不是保证。
+ch09 the line crossed.md:13 - **叙事手法**：追逐章以对话推进，墓上墓下两个空间靠声音衔接；Kayla 的毒舌与 Clay 的沉默形成节奏对冲；两次扼颈用「叙述降温」写法（从快感剥离到「你要死了」）呈现危险升级。
+ch09 the line crossed.md:32 **中文理解**：墓上，Vero 第三次宣告喜欢 Kayla，并当场问 Brawley：我们能不能「留下她」——我要留下她。
+ch11 warning shots.md:9 - **一句话概括**：两周后 Clay 仍每晚来酒吧只点头，Vero 送来的礼盒里是合身得可疑的迷彩服——他赢下 Nixie 的赌约换来军事主题彩弹试玩场。Clay 亲自开车来接，Brawley 封她 Double P，Nixie 宣布两
+ch11 warning shots.md:12 - **人物弧线**：Kayla：主动选目标、故意失手的战术自尊；Clay：护送、还枪、把「even」说出口；Vero：赌约与尺寸两件事显示他对她的上心程度；Brawley：Double P 的命名权；Nixie：规则制定者角色再确认。
+ch11 warning shots.md:20 **为什么这样写**：用「不交流」写持续的出现——不道歉、不亲近、也不消失；nod 一词重复两次，把 Clay 的和解方式压缩成最低限度的可见性。
+ch11 warning shots.md:35 **读者视角提示**：尺寸来源未交代；这是本章第二次出现「Vero 知道得太多」的暗示（前一次是吞钥匙）。
+ch11 warning shots.md:41 **为什么这样写**：同一人被两个男人各起一个昵称，命名权成为无声的比较；Brawley 的简化（Double P）与他少话的性格一致。
+ch11 warning shots.md:53 **中文理解**：Nixie 出来做安全简报：Kayla 两分钟先发、所有人不得越出边界标记、不许出现尸体。
+ch11 warning shots.md:55 **为什么这样写**：三条规则一句说完，no dead bodies 用公文式否定收尾，与前两条的常规形成黑色幽默；规则同时给 Kayla 优势与限制。
+ch12 not at your expense.md:9 - **一句话概括**：Brawley 视角：Vero 一句「谁先抓到 paper-cut princess 谁就能上她」引爆四人追逐，Brawley 却算准 Kayla 会奔向 Vero，独自在油罐车等她。她持枪逼问，他直陈「我清除威胁」
+ch12 not at your expense.md:13 - **叙事手法**：追逐章用 Brawley 的预判开场（不追而等）；亲密场景以对话与停顿推进，两次「停下—再开始」被写成叙事节拍；章末伤口与「something pass between them」把轻松拉回悬念。
+ch12 not at your expense.md:18 **中文理解**：Brawley 反驳 Clay 把感情当软弱的信条：他每天睁眼看见 Vero 盯着自己，心跳仍会漏一拍；爱 Vero 没有让他变弱，反而更强——而他本就为暴力而活，两件事刚好互不冲突。
+ch12 not at your expense.md:27 **为什么这样写**：一句预判同时完成三件事：Brawley 的观察力、Kayla 对 Vero 的信任、以及他接下来「不射击、只借人报复 Vero」的动机铺垫；追逐戏因此提前结束在心理层。
+ch13 proximity and statistics.md:13 - **叙事手法**：章前半用睡颜特写与疤的细节做「看见未被看见」；章后半对质戏靠 Clay 的问句推进（which part of the story you want to stand behind）；Kayla 全程用复述与反问回击两
+ch13 proximity and statistics.md:39 **中文理解**：早餐店里 Clay 捧着手机高度专注；Kayla 忍了几分钟后偷看，瞥见屏幕上是 Kyle 的地址、日程，备注里还有 Nixie 的名字。
+ch13 proximity and statistics.md:48 **为什么这样写**：不吼不骂，只给两个版本和一个选择题——Clay 的审讯方式与 ch10 厨房里的笨拙道歉同一种人；「stand behind」把谎言的自相矛盾交给对方自己处理。
+ch13 proximity and statistics.md:55 **为什么这样写**：两个矛盾句被并置成一句宣言，全书的核心语法（claim 不等于关系）由 Clay 亲口说出；almost pleasant 的温和比吼叫更冷，配合随后那一拳。
+ch14 our person.md:27 **为什么这样写**：Clay 不会分析心理，但他会看脸色——他用 Kayla 的表情去拆 Ares 的术语；两个证据（身体 vs 措辞）的分量对比正是本章的辩题。
+ch14 our person.md:62 **为什么这样写**：五个动词排成一条时间线，把全书 Clay 的矛盾压缩成一句「I cannot keep up」；她先说伤害再说好意，顺序本身就是控诉。
+ch15 not going to fix you.md:60 **中文理解**：浴室里 Vero 用掌根猛撞自己的头，第二次之后 Kayla 伸手抓住他的手腕，求他别走、跟她说话。
+ch16 the silence after.md:21 **读者视角提示**：这是发作后 14 小时的主观自评，不是医学结论；文本随后用一次完整失控证明「调到能运作」并不等于安全。
+ch17 love cant look like that.md:35 **读者视角提示**：这段是 Kayla 的分类法，不是 Vero 的免罪符；本章结尾她仍执行驱逐，两件事由她自己宣布同时为真。
+ch17 love cant look like that.md:53 **中文理解**：后间里 Kayla 把手掌平贴大腿，给自己六十秒感受疼痛：伤口、混乱、Vero 脸上的痛、说过的和没说的——她允许它如其所是地糟，一分钟是今晚给它的额度。
+ch17 love cant look like that.md:55 **为什么这样写**：把情绪处理写成可计时的程序（all of it 清单 + 一分钟额度），与 ch15 她陪 Vero 的「不修复只陪伴」互为镜像——她对自己也用同一套方法。
+ch18 both things can be true.md:27 **为什么这样写**：四个来回的短对话把 Vero 的挑选性相信当场暴露——他能感觉到两句的差别，却说不出差别是什么；Ares 的 Is it? 是全章最轻也最准的一刀。
+ch18 both things can be true.md:39 **中文理解**：Vesper 说：她讲「永远不想你走」时当然是真心的，但她在酒吧说的也是真心的；两件事可以同时为真，你不能挑一句、无视另一句——生活不是这样运作的。
+ch18 both things can be true.md:62 **为什么这样写**：全书最露骨场景的核心台词是两次承认恐惧：Brawley 的惩罚语法其实是「你必须听见我害怕」；Thrust 单词成行把节奏交给身体，语言退到极限。
+ch21 the riddle of cave.md:9 - **一句话概括**：Kayla 复工当晚发现整间酒吧被 Vero 的花堆满——他赔了 Rogue 的损失，署名「我们所有人」。她借来卡车把花全部运回岛上，一根根砸向四个仍穿着戏服的人：Clay 的掐颈、Vero 的砸场、Ares 的「不
+ch21 the riddle of cave.md:21 **读者视角提示**：本章结尾她会发现自己「身体背叛」——知道不上当与真的不动心是两回事，文本把这两层分开计时。
+ch21 the riddle of cave.md:39 **中文理解**：Vero 连说三次对不起，Kayla 警告他别再说：sorry 只是一个词——真后悔，一开始就不会做那件事。
+ch22 the detachment moved.md:25 **中文理解**：Ares 回忆与 Cave 的互惠账：上次他替 Vero 挡下玉米棒羞辱，Cave 凌晨两点举着两把铁锹站在他床边，地板上放着一个人体大小的袋子；Ares 起床穿衣帮他挖了坑，没问袋子里是什么。
+ch22 the detachment moved.md:34 **为什么这样写**：对照 ch21 她作废的 sorry——这次的结构变了：没有 but、没有请求原谅，只有对错的命名；It wasn't 三个词完成 ch19「sorry 只是词」要求的「行为差」。
+ch22 the detachment moved.md:48 **为什么这样写**：原谅被写成可执行边界：点名 Vero 与 Clay 两次酒吧干预（ch16 失控、ch14 巷子威胁），把「保护」与「越权」分开计价；I need 句式与 ch20「I’m not ready」同构。
+ch22 the detachment moved.md:60 **中文理解**：Ares 观察完这场和解，去找他用过一千次的抽离感——它退得更远了；他在心里记下「它移动了」，转身开门：他在这种场合从不感受，只找利用方式，而此刻找不到任何对他有利的东西。
+ch24 emergency contact only you.md:27 **为什么这样写**：Only you 两个词重写了 ch14「package deal」的公开版本：Vero 在制度层面只认 Brawley——他的赎罪（芯片）同时是一封写给伴侣的信。
+ch24 emergency contact only you.md:32 **中文理解**：Banks 回忆 Kayla 在博物馆两小时的表现：动作谨慎、在每个房间记出口，而且她自己无意识；他下判断——Vero 会被她召唤，说明她也有自己的心魔。
+ch24 emergency contact only you.md:34 **为什么这样写**：Ares（ch06）与 Banks 两个观察者独立得出同一结论（记出口），文本由此把 Kayla 的警觉确立为可被外人识别的特征；call to her 回收 ch03「She gets me」的召唤语法。
+ch25 the man who made you relearn everything.md:49 **读者视角提示**：与 ch06「I filed her heightened awareness away」对照：同一观察，两年后被他用来说明而非利用。
+ch25 the man who made you relearn everything.md:63 **读者视角提示**：脑内安静主题第三次出现（Vero 怕寂静、ch16 的安静是损伤、Ares 的安静是治疗）——Part Three 前这三种安静应并读。
+ch26 be my person.md:11 - **Tropes 兑现/反转**：兑现「小丑服装+jump scare 教学」；反转是她的天赋来自童年隐形术；Vero 的安静（ch16 是损伤、这里是满足）第三次改写「安静」语义。
+ch27 a piece of broken chalk.md:9 - **一句话概括**：下班回 loft 的 Kayla 感到「有人来过」：椅子被推得太整齐，而离开 Aaron 快三年的日子让她仍被侵入感抓住。她先想打 Vero 又怕他螺旋，改打 Clay；Clay 排除 Vero（他的行事从不隐秘），
+ch27 a piece of broken chalk.md:10 - **情感弧线位置**：Kayla 创伤的时间性（三年忌日）首次给出日期坐标；入侵疑云（断粉笔）悬置；Clay—Kayla 线以「安全」而非「欲望」开场，完成 ch20 土豆戏之后的信任升级；Meeka 登场为 Part Three 的家
+ch27 a piece of broken chalk.md:18 **中文理解**：Kayla 坐在床边自我诊断：离开 Aaron 快满三年、几乎正日子，那人仍然能钻进她脑子里。
+ch27 a piece of broken chalk.md:21 **读者视角提示**：ch19 的四行 sorry 清单、ch23 的肩上刺青、本章的三年日期构成 Aaron 线的三块拼图；文本刻意让它们分散在不同章。
+ch28 she belongs here.md:9 - **一句话概括**：Kayla 睡在 Clay 床上，Vero 一眼断言 Clay 在笑；Clay 拉 Ares 去 Kayla 公寓排查窃听与摄像头，Ares 对 Mabel 编出窗锁维修的来意、几分钟拿到备用钥匙，全屋干净——Cla
+ch29 unaccounted variables.md:12 - **人物弧线**：Ares：从「我不感受」到「我不知道」再到「我会利用」——三段递进；Kayla：完整史首次成段交付，她选择告诉 Ares 的理由（你会懂我）成为双刃；Luca：两次微表情被记录，目标未知。
+ch29 unaccounted variables.md:28 **读者视角提示**：Luca 的反应（jaw clenches / anger flickers）被 Ares 两次记录并反问「他为何对一个没见过的女人有反应」——这条疑问句是 Part Three 的引线。
+ch29 unaccounted variables.md:55 **为什么这样写**：三个 no 的清单是孤立术的成果清单；now I get to decide 与 ch17「I need my workplace to be safe」、ch23「自己做选择」构成她的自主三部曲收束。
+ch30 the shadow riddle.md:41 **为什么这样写**：Ares 的语言习惯是精确复述（对照 ch13 的 proximity and statistics），这次复述的内容却是自我约束；两个词的句子是他能给出的最短承诺。
+ch30 the shadow riddle.md:48 **为什么这样写**：把 ch06 的记出口、ch19 的「programmed」、ch23 的隐形术统一为一条方法论——创伤训练出的雷达被她主动征用；本章两次报警（巷中背影、屋内注视）都靠这句框架被读者采信。
+ch30 the shadow riddle.md:49 **读者视角提示**：Clay 在 ch28 排查干净、Cave 的影子谜语、本章注视感——三条线索指向同一事实：入侵者仍在观察，且 Ares 的排查没覆盖「人」。
+ch31 live with the best.md:18 **中文理解**：Clay 对 Kayla 摊牌：他雇了私家侦探，一小时前的邮件确认——她那个烂前任出狱了。
+ch31 live with the best.md:32 **中文理解**：Clay 转述 PI 的全部结论：那人留有控制行为记录，坐过几年牢——目前只知道这些。
+ch31 live with the best.md:35 **读者视角提示**：Brawley 的旁白补了一句「he was arrested a few years back」——与 Kayla「三年前离开 Aaron」的日子线（ch27）咬合，文本仍未点名，读者可推而不可定。
+ch32 five things.md:39 **中文理解**：门开时她先松了半口气——是 Doren。他挪到她面前，用手盖住她的手，只说两个字加一个词：五样东西。
+ch33 that now makes two.md:9 - **一句话概括**：四人围着旋转木马争皮带还是马达（Cipher 失联），Kayla 取零食路上惊觉「这已是我想要的日常」；回程在玉米地边手脚失能——Aaron 现身：他出狱后先监视她、被 PI 逼得提前动手，药物让她喊不出跑不动。他拖
+ch33 that now makes two.md:10 - **情感弧线位置**：全书最大危机引爆点：ch27 断粉笔、ch30 影子谜语、ch31 出狱情报三条线合流；Kayla 的自主叙事（ch32「最好的事」）被瞬间剥夺；Cave 的谜语从赐护转为回应——「two」指向她（答过第一谜）还是
+ch33 that now makes two.md:12 - **人物弧线**：Aaron：控制话术完整展示（自责转嫁、离间、'love' 绑架）；Kayla：失能中仍保持思想反击与告白清单；Cave：第三次以谜语介入，语气首次带行动性；四人：缺席即危机（各自被 Aaron 点名「瞒她」）。
+ch33 that now makes two.md:28 **读者视角提示**：与 ch32 末「最好的事」构成同一心理结论的两次表述；Aaron 接下来的台词正是冲着这两句来的（「你替换了我」）。
+ch33 that now makes two.md:48 **为什么这样写**：三个排比把 ch19（记出口）、ch29（孤立史）、ch32（恐慌与着陆）压缩成对她的控诉——她无法出声，思想却完整；breathing again 直接反写他的「药让你安静」。
+ch34 already counting.md:9 - **一句话概括**：Vero 视角接 Part Two 悬崖：Kayla 取零食超时未归，他在玉米地边发现打翻的食物袋——生菜在地上、苹果滚出小路，人不见了。Clay 封岛、Khodi 回报监控全灭；Vero 的被弃恐惧被触发（「我已经
+ch34 already counting.md:11 - **Tropes 兑现/反转**：兑现「谜语=信息交付」机制（ch21/30/33 后第四次）；反转是手上带血的人不解释、只出谜；「我保证变乖」回收 ch22 Vero 的承诺语法。
+ch34 already counting.md:20 **为什么这样写**：失踪被拆成两件超市商品：生菜和苹果是 Kayla 买给众人的零食（ch33 的 domestic 段），它们的散落即她「不在了」的物证；Vero 的语法（先报菜名再报人）泄露他的思考顺序。
+ch34 already counting.md:27 **为什么这样写**：被弃恐惧的完整句式是儿童语法（乖=不被送走）；promise 一词同时回收 ch23「promise to try」与 ch22 条款——他把她们的承诺内化为自我考核。
+ch34 already counting.md:48 **为什么这样写**：三个词的句子承担一章的生死线；引语归属模糊（I don’t know who says it）是故意的——那一刻 Vero 听不出是谁，读者也只听见内容。
+ch34 already counting.md:56 **读者视角提示**：嘴被缝=谜语的反面（不许说话）；Luca 是否即真凶、Cave 为何选他，均待 Part Three 后文；ch33「凑够两个」与本章的桩上者形成数字呼应。
+ch35 you dug me up.md:9 - **一句话概括**：Kayla 在黑暗棺内醒来，装昏迷直到听见 Brawley 的声音；被拖出后她得知三件事——Vero「需要一分钟」（她立刻明白是他看见了她），PI 照片上的「Luca」被 Ares 认出正是 Aaron，芯片定位显示
+ch35 you dug me up.md:27 **为什么这样写**：全书最大身份反转由两个人各说一半：Ares 认出脸（假名 Luca），Kayla 认出人（真名 Aaron）；deceptively calm 是 Kayla 对 Ares 的读法——他的自责她隔着语气就听见了。
+ch35 you dug me up.md:49 **读者视角提示**：Ares 的下一句「Someone should have gone with you」引出全书 babysitter 之争——Kayla 拒绝被保护的方式（拒绝随行）正是她自主的底线（ch22 条款的延伸）。
+ch36 when he comes down.md:9 - **一句话概括**：Clay 与 Brawley 循砍出的小路进玉米地：桩位空了，Vero、Cave、Luca 全不在，土里有血；两小时拉网搜寻无果，Clay 判断 Vero 刻意躲藏、不会投水。回屋后四人分看监控：Vero 背染大片血
+ch36 when he comes down.md:20 **为什么这样写**：三个否定排比是 Clay 式的极简报告；「桩位空」同时意味着两件事：Cave 离开了他的田（反常），Vero 追到了他（或他带走了 Vero）——方向不明即最大威胁。
+ch37 not ownership.md:27 **为什么这样写**：计数悖论一句话完成两件事：每纸多割的熟练度（他引以为傲）与时间感丧失（发作中）；「smaller number」的冷静算术比任何形容词都更能显示他卡在哪一层。
+ch38 roommates.md:9 - **一句话概括**：Vero 失踪第三天：Kayla 在 Brawley 怀里醒来，Brawley 首次承认「不知道如何面对不知道」，她以「他切了芯片=不想被找到，我们只能等他」劝他保重。Clay 拒绝全员 mope、Ares 提议去酒
+ch38 roommates.md:10 - **情感弧线位置**：寻回章：Brawley 与 Kayla 完成互为支柱的交换（ch35 她问 Ares 好不好→本章她劝 Brawley 呼吸）；Kayla 的恐慌发作第三次出现且首次被同伴即时识别（Cipher 说出诊断）；Aar
+ch38 roommates.md:27 **为什么这样写**：芯片（ch22 赎罪装置、ch34 被切除）在此被解读为 Vero 的主动声明——Kayla 比三个男人更早读懂他的选择；so I need you to breathe 回收 ch34 Brawley 对 Vero 
+ch38 roommates.md:35 **读者视角提示**：注意 Ares 说这话时并不知道它会指向刑讯现场——文本让最聪明的人也只掌握半条线索；Kayla 才是串联者。
+ch38 roommates.md:42 **读者视角提示**：Vero 三天未归的答案（ch36 Clay 断言「他不想被找到」）至此兑现：他一直在监控看不见的地方——而 Cave 也在。
+ch38 roommates.md:46 **中文理解**：门外的众人听见 Vero 对 Aaron 演讲：我要你知道我从中毫无快感——又一个更长的狂笑——好吧，那是谎话，这极其愉悦，我想对你诚实。诚实对任何关系都重要，而我们相处三天，基本算室友了。
+ch38 roommates.md:56 **读者视角提示**：第三次恐慌（ch32 首次、ch33 失能、本章）触发物从「相似的人」升级为「血+土」的现场；她的恢复速度一次比一次快，文本在量化疗愈。
+ch38 roommates.md:88 Brawley 承认「不知道」的失效，Kayla 用芯片读懂 Vero 的不想被找到、又由一单多余的外卖推出盲区棚屋；恐慌第三次袭来时她靠 Clay 的气味着陆——而 Vero 逼 Aaron 最后看她一眼：永不再见。
+ch39 take to our graves.md:9 - **一句话概括**：Brawley 视角的清算日：Clay 与 Brawley 留下处理 Aaron——三记「为相机/为下药/为跟踪」的拳头后 Clay 让位（这一下是 Brawley 的），随后两人把 Aaron 拖回他埋 Kayla
+ch39 take to our graves.md:20 **为什么这样写**：for 句式把暴力改写成宣判——每一拳对应一条可指认的罪状，这是 Brawley 式的程序正义；三句的罪名恰好回收 ch30 影子谜语、ch33 下药、ch35 照片三条线索。
+ch39 take to our graves.md:27 **为什么这样写**：两个男人的分工以「让」字完成：Clay 的怒有额度，Brawley 的怒有所有权（Kayla 被伤=他的案）；ch14「You touch him, you die」的语法在此转向 Aaron。
+ch39 take to our graves.md:62 **为什么这样写**：okay 与 promise 的两次接受是全书关系语法的缩影：Brawley 不满足于「好」，要的是「保证」——ch23 Kayla 对 Vero 说的「别承诺做不到的，只承诺尽力」在此被伴侣系统内化。
+ch40 a girl could get used to this.md:10 - **情感弧线位置**：Kayla 主动请求「全在」被误读后正式落地：留下=恐惧的坦白而非浪漫的投降；Ares 线进入「感受是什么」的自我困惑期；四男与她的居住协议（自己的房间）确立——ch22 条款至此制度化。
+ch41 you know nothing.md:9 - **一句话概括**：Ares 清晨抹掉 Luca 在岛上工作的一切痕迹、循环监控画面；他打开 Kayla 的档案又退出——此刻读档等于作弊，Kayla 说过可以直接问她。他回想 Brawley 的警告（系统终会遇到不匹配的人），承认 K
+ch41 you know nothing.md:46 **中文理解**：Rogue 告知：昨天两名便衣警察来店里打听她——这周是否来过、有没有提过 Aaron；她回答 Kayla 请了病假、上周之后没见过，没提这座岛，别的什么都没说。
+ch41 you know nothing.md:60 **中文理解**：Ares 盘算：几小时之内，Aaron 在他们系统里的每一点痕迹都会被抹净——幸好他用的是假名，事情更容易。他懊悔没早点动手，但有一件事确定：绝不让 Kayla 为这一切担责。
+ch42 the in-between.md:25 **中文理解**：Kayla 描述棺中：黑暗、幽闭、比想象的更小——这话听着蠢，棺材当然小，但没在里面过的人不懂那到底意味着什么；木头压着两条手臂，头都转不了。
+ch43 the grave is empty.md:21 **读者视角提示**：ch41 Rogue 说的「两名便衣」与本章 Becker 的「two cops」构成同一拨人的第二次到访——警方已把调查范围从 The Pit 扩到岛。
+ch43 the grave is empty.md:25 **中文理解**：Marsh 抛出底牌：Luca 有假释条件，每周报到，已经缺席两次——说话时盯着 Clay 的反应。
+ch44 the other shoe.md:9 - **一句话概括**：万圣节儿童夜：Vero 破例换下修女服扮吸血鬼、Brawley 戴恶魔角（抗争二十分钟败给撅嘴）、Clay 拒穿戏服只接过黑色面具、Ares 把幽灵面具戴得好看——四人为 Kayla 把全岛夜游成一场约会。玉米地边 
+ch44 the other shoe.md:18 **中文理解**：Vero 指着 Brawley 的恶魔角爆料：他跟我争了二十分钟才肯戴——但他扛不住撅嘴，给你留个攻略，万一哪天你需要说服他。Brawley 斜眼看他。
+ch44 the other shoe.md:27 **为什么这样写**：两个最抗拒的人隔着厨房互认同类——Brawley 的恶魔角与 Clay 的拒绝同框，喜剧里藏着「谁为谁破例」的对照；Vero 随后用「Just for Kayla」把两人的抵抗同时拆解。
+ch44 the other shoe.md:32 **中文理解**：玉米地边 Cave 定在田缘，一个约十岁的孩子仰头盯着他；Vero 也站到孩子身边做同样的仰头姿势，然后对孩子说：挺渗人的吧？
+ch46 the last guest standing.md:9 - **一句话概括**：Kayla 磨了一周终于获准参加追逐：Nixie 宣布「最后站立者胜、被碰到即出局」的规则时看向她，她怀疑整场是为自己设的。她凭对岛与四人的熟悉躲过驱赶、在 funhouse 撞进 Vero 怀里又被放行，穿玉米地（
+ch46 the last guest standing.md:39 **中文理解**：Brawley 房间的第一个机关，Kayla 想太多连错两次；第三次她停止思考，用手去摸该做什么。
+ch46 the last guest standing.md:41 **为什么这样写**：解谜方式即关系方式：Brawley 的纸条（Stop pushing and find where it wants to move）不是答案而是方法提示——他教她别用脑、用触觉，正是他与人相处的方式；两次失败被允许。
+ch46 the last guest standing.md:46 **中文理解**：Clay 的监控房里，Kayla 花三分钟在七号画面发现异常：边框边缘一道影子——有人站在镜头之外。
+ch46 the last guest standing.md:49 **读者视角提示**：三分钟的用时被 Clay 章末评为「impressive」——他的夸奖以秒计；钥匙与纸条（knowing what you're looking for）同柜，他的安全感=可验证的准备。
+ch47 twenty percent.md:12 - **人物弧线**：Brawley：承认失眠、承认恐惧、承认需要她——三件事他此前一件都不做；Kayla：从被保护者转为保护者（「even if it's only emotionally」）；Vero：安睡被绕开，他成为两人共同守护的对
+ch47 twenty percent.md:20 **为什么这样写**：失眠被写成照护者的固定代价——weeks 的时长与 ch42「Vero 恢复更快」互证：他的损耗一直没被入账；三件事（发作/遇袭/警察）叠加的句式说明他的清醒是账本而非个性。
+ch47 twenty percent.md:32 **中文理解**：Brawley 说出藏了三天的画面：掀盖到确认呼吸之间，秒像小时；他的第一念头是如何告诉 Vero——说出来会不会毁掉他或改变他；想到一个没有她的世界……他说不下去。
+ch47 twenty percent.md:35 **读者视角提示**：与 ch34 Vero 的「if she is gone, I swear I won't ever breathe again」互文：两个男人在同一秒各自预演过没有她的世界；本章轮到 Brawley 交账。
+ch47 twenty percent.md:42 **读者视角提示**：「一年让 Vero 不再道歉」（ch34 的 promise 史）由 Brawley 亲口补完：他的照护史是一部预防史；本章 Kayla 把预防的对象换成他。
+ch48 a chapter closed.md:55 **为什么这样写**：asked/begged/filed a request form 的三件套是 Clay 对「同意」的极限收窄——同意在他这里不解除保护；flaming wheel 的口语命名（对比 Karo 的「spinner of
+ch48 a chapter closed.md:56 **读者视角提示**：与 ch01 他「Jess 不许上岛/你永远是十二岁」对照：本章 Jess 二十二岁主动上轮——兄妹线正式进入自主权对决；Kayla 的「He is really good at it, though」插话把辩论拉回现
+ch48 a chapter closed.md:62 **为什么这样写**：全书自主权议题的正面宣言：Kayla 用 ch22 条款、ch40 拒绝 babysitter 的同一条逻辑替 Jess 挡 Clay；「someone's sister」的限定词拆解把保护话语还原为所有权话语。
+ch49 it really feels like i am.md:41 **为什么这样写**：全书最诚实的爱的回应：他拒绝借一个他不确定拥有的词，却把「能力所及」整体交付；All of it 两个词补上他给不出的一切。
+ch50 i took back control.md:9 - **一句话概括**：Kayla 二十七岁生日：Vero 亲手做的黑骷髅蛋糕丑得客观、爱得主观；Aaron 案已结案（无证据、警方认定他逃了），她要求一场「不保留」的追逐夜——五分钟前出发、腕带仅作紧急追踪。包场的岛安静得陌生，她从迷宫、
+ch50 i took back control.md:21 **读者视角提示**：吹灭 27 根蜡烛、倾斜的蛋糕、几分钟内的火灾隐患——喜剧细节由 Clay 切蛋糕（没人信 Vero 拿刀）收口；生日夜与追逐夜的并置是四人给她的「正常+疯狂」双礼。
+ch50 i took back control.md:48 **为什么这样写**：不跑=全书身体叙事的终点：ch19 她学会呼吸法、ch33 她在棺内无法出声、本章她站在墓园主动等门响；won't let him win 回收 ch48 退阁楼的同一句，两次之间隔着一整个自我重建。
+
+=== ⑥场景方位：10 行 ===
+00_金句精选.md:135 **上下文**：ch12 油罐车里，Brawley 的威胁评估与 Kayla 的边界声明。
+ch07 the three color wristband.md:13 - **叙事手法**：追逐按空间推进（门口—大厅—精神病院走廊—黑房间），声音先于人出现；Nixie 的致辞把规则压缩成一段台词；结尾三拍收束——Vero 指出她在发抖、她嘴硬否认、最后由她主动吻上去（「Then I kiss him」逐字
+ch12 not at your expense.md:32 **中文理解**：油罐车里 Kayla 背抵罐壁、枪口对准 Brawley 胸口，拒绝按他的话放下武器——她要他先给出一个足够好的理由。
+ch12 not at your expense.md:88 Brawley 在油罐车里等来的不是猎物而是谈判：Kayla 持枪要理由、声明「不以你的代价」，边界说清后三人才开始；Clay 用彩弹撕毁停战，而 Ares 不由分说牵走 Kayla 的那只手，被 Brawley 记成了一桩读不懂的档案。
+ch13 proximity and statistics.md:12 - **人物弧线**：Ares：亲密后立刻重建墙壁，语言成为距离工具；Clay：护妹逻辑扩展到护 Kayla，「she’s mine」首次说出口；Kayla：拒绝接受统计学解释，也拒绝留在车里等男人办事。
+ch18 both things can be true.md:9 - **一句话概括**：Vero 坐在精神病院屋顶上，认定一切都是自己的错，却抓住 Kayla「永远不想我走」那句不放；Clay、Brawley、Ares 楼下劝不动。Vesper 上屋顶，先说破「两句都是真的、你不能只挑一句」，见他仍不下
+ch19 apology flowers.md:9 - **一句话概括**：Kayla 靠每晚上班撑住，Rogue 却强制她停班一周；回家路上被门口一束黄花打回前任 Aaron 的道歉表演史——花、赞美、逐步改写穿着。她承认 Vero 不像 Aaron 那样危险，但酒吧那夜让她重新失去控制，
+ch20 a good shot.md:28 **读者视角提示**：这与 ch14 他守在酒吧门口等 Kayla 下班构成连续行为模式；文本不美化它——下一段 Kayla 会当面命名。
+ch48 a chapter closed.md:12 - **人物弧线**：Kayla：独立叙事完成（退路= Aaron 的声音）；Clay：保护欲与自主权的正面交锋，「选择战场」+ 暧昧收兵；Ares：关店的优先级、门口等待、Public display of affection 首次；Je
+ch48 a chapter closed.md:32 **中文理解**：警局门口 Kayla 停下：你能在这儿等吗？这件事我需要自己进去做。
+
+=== ⑤方向施受：44 行 ===
+00_情感节点.md:166 **叙事概括：** 终章把活埋之地改写成夺回之地：生日追逐夜她主动跑向墓园，红雾绕踝、门响时没有跑——「我不会让他赢」。四人在场见证她拿回控制权；她宣布红旗男人们归她、谁也别想再夺走。黑暗里 Cave 沿篱笆走来、肩上搭着一具身体，抛出最后
+00_概述.md:28 **一、恐惧与享受同源。** Vero 便利店临别的判词就是全书的题眼（原文见 ch02）：本书把「恐怖猎场」与「欲望」写成同一枚硬币：Kayla 享受追逐的前提是掌控，而 Aaron 的罪在于没收了这两样东西——"“Aaron was t
+00_金句精选.md:130 逃脱房问题把它写成档案。
+ch02 the paper cut princess.md:55 **为什么这样写**：昵称＋格言的组合让一个路人瞬间有了持久重量；「享受了什么」把恐惧从被动感受改写成主动欲望，正是本书「怕与爽同源」的题眼。
+ch03 a contested invitation.md:32 **中文理解**：Brawley 给 Vero 的纸割念头划下边界：不能为了验证理论杀人，也不能把绑架和尸体当作会讨人欢心的礼物。
+ch03 a contested invitation.md:35 **读者视角提示**：这里说的是 Vero 的念头与 Brawley 的制止，不是已经发生的伤害；不可把设想写成既成事实。
+ch06 rules and the first yes.md:27 **为什么这样写**：把「愿意来」与「记出口」并置，避免把勇敢写成鲁莽；Ares 的 filed away 又把人当作需要分析的资料。
+ch07 the three color wristband.md:20 **为什么这样写**：作者把「上岛」写成一条可核对的程序：短信、表单、底线，先于任何追逐出现；shrimping 的黑色玩笑让流程不显得像法律文件。
+ch07 the three color wristband.md:55 **为什么这样写**：一句台词把 Kayla 的追逐改写成向 Brawley 的求许可，随后让门这个动作立刻收回压迫感；「赢得」一词留下悬念——赢得什么、按什么标准，都不在此处说明。
+ch09 the line crossed.md:34 **为什么这样写**：keep 一词把「喜欢」说成收养式的占有，既好笑又暴露 Vero 对这段相遇的认真程度；「I know I keep saying it」先自嘲再坚持，让重复本身成为证据。
+ch10 the ledger of that night.md:62 **为什么这样写**：章末把「观察者」复位：Ares 没有留在厨房，而是隔着屏幕继续收集信息；turn the volume up 这个动作比任何独白都更能说明他把一切当作素材。
+ch11 warning shots.md:10 - **情感弧线位置**：ch09—10 的紧张之后第一个全员同场的轻松章：敌意被改写成游戏规则，Kayla 与四人的关系从「追逐/被追逐」换成「对射」；她与 Clay 的战争正式升级为调情式对抗。
+ch11 warning shots.md:13 - **叙事手法**：彩弹战用战术视角写（perimeter、tanker 挡视线、tower 俯瞰），把游乐项目写成小型战场；对话密度高、冲突全部外化为枪。
+ch13 proximity and statistics.md:32 **中文理解**：Kayla 坐起来套上衬衫，接他的话：是不复杂——但你把与我上床说成距离和统计的产物，事情就不复杂了，可变得奇怪了。
+ch13 proximity and statistics.md:53 **中文理解**：Kyle 问 Kayla 是否带了新男友，Clay 先否认（她不是我女朋友），再把她逼到墙边、语气近乎温和地说：但她是我的人；她用不着欠你任何东西。
+ch14 our person.md:56 **读者视角提示**：Kayla 得知后先说的是「I had him handled」——她的感谢（Thank you）来得勉强；本章没有把这次威胁写成被认可的行为。
+ch15 not going to fix you.md:55 **为什么这样写**：Clay 的解释给出机制（以痛感把意识拉回当下）与代价（旁观者的无力），但文本不替他背书——Kayla 的「I don’t fucking like it」保留在同一章里；两种判断并存。
+ch16 the silence after.md:20 **为什么这样写**：用音量旋钮比喻精神状态，把「恢复」写成可调的、不彻底的妥协；enough for now 既是自我安慰，也是下一次失控的伏笔。
+ch16 the silence after.md:26 **为什么这样写**：把「治疗」写成有代价的选择（僵尸感）而非正确答案，Vero 的抗拒因此有了具体经验依据；「everything changed」随后被本章的失控当场检验。
+ch16 the silence after.md:40 **为什么这样写**：把失控写成「身体先于意志」，Vero 的叙述在病态与真诚之间同时成立——他确实想保护她，也确实失去了决策权；换装无记忆补上失忆层。
+ch16 the silence after.md:67 **为什么这样写**：全章的噪音叙事在末句归零——安静本是他求了一生的东西，此刻却以失去 Kayla 为代价换来；一句话把「治愈」写成新的症状。
+ch18 both things can be true.md:48 **为什么这样写**：用坠落的时间膨胀写噪音的骤停——Vero 需要的「停下来」由一次被设计的失重完成；she fucking pushed me 的陈述语气把惊恐写成领悟。
+ch18 both things can be true.md:88 Vero 在屋顶挑一句真话活命，Vesper 用「两句都真」和一脚踹落把他接回地面；Brawley 把「今晚修不了」说成带他回家，再在两人独有的语法里要他重复：我吓到你了。
+ch19 apology flowers.md:34 **为什么这样写**：作者把操纵写成「不知不觉」的过程，强调其定义特征不是暴力而是渐进；这句也解释 ch19 开头 she was programmed 的来源。
+ch19 apology flowers.md:41 **为什么这样写**：把「怕 Vero」精确改写成「怕失控」，一章里完成对男主线的全盘校准；for the first time in my life 说明她接受的从来不是危险，而是主导权——被酒吧一夜没收。
+ch20 a good shot.md:12 - **人物弧线**：Clay：承认 I never say anything I don't mean 并把「mine」从防御词说成需求；Kayla：命名 stalking 却不否认被说动；Jess：从 ch01 被保护者变成反向观察者。
+ch22 the detachment moved.md:12 - **人物弧线**：Ares：承认读不透 Kayla、且「想把她拆开」的病态好奇；Vero：接受问责、主动要求被找到；Kayla：把需求说成条款（安全、独立、这份工作）；Brawley：黑白色阶出现第一道灰。
+ch22 the detachment moved.md:41 **为什么这样写**：ch19 她说过怕的是失控——此处对 Vero 本人说出同一诊断；「够不到他」把发作写成双向失联，Vero 的眼泪因此不是被原谅而是被理解。
+ch23 a reminder that i survived.md:41 **为什么这样写**：作者把创伤纪念物写成生存证据——藏不住=不再躲；half-truth 一词同时保护她（未给全部）与奖励读者（给了真相），Vero 的「不追问」因此被文本记功。
+ch23 a reminder that i survived.md:48 **为什么这样写**：全书最硬的人用一句无主语的自白承认：他的非黑即白只在 Vero 身上失效；isn't going to change 把让步写成生理事实而非决定。
+ch23 a reminder that i survived.md:53 **中文理解**：Ares 走到 Kayla 面前：我欠你一个解释——我们之间发生的事，以及我事后的处理方式，对你不公平；我把它说成对情境的实际回应，那样做是刻薄的。
+ch25 the man who made you relearn everything.md:32 **中文理解**：Kayla 答应替 Ares 顶早班，Vero 叹气吐槽他扫兴，随即警告：Ares 会让你把一切重学一遍——他是控制狂，事情必须按他的方式来。
+ch25 the man who made you relearn everything.md:56 **读者视角提示**：Luca 尚未露面，全部信息经 Ares 转述；Kayla 的追问（And you didn’t warn Nixie?）确认 Ares 已尽责，文本不替他背书也不替他定罪。
+ch26 be my person.md:34 **为什么这样写**：承认（不是自己）与威胁（Cave 处理）被塞进同一句，Vero 的道歉语法（ch22）与占有语法（ch16）在此并存；ch08「连 Brawley 都不知道」的 Cave 恐惧被改写成武器。
+ch27 a piece of broken chalk.md:20 **为什么这样写**：日期精确（almost to the day）把创伤写成有周年纪念的活物；he still gets inside my head 用现在时——施害者缺席，效果仍在。
+ch28 she belongs here.md:34 **为什么这样写**：Ares 的入侵话术全程为真话拼接（窗锁、Mabel 确实照看 Kayla），只是来源颠倒——他把 Kayla 的恐惧改写成 Kayla 的委托；Mabel 交出备用钥匙的速度证明这套话术的效力。
+ch34 already counting.md:34 **为什么这样写**：谜底（棺材/墓穴）以倒计时结构呈现，恐怖不靠意象靠算术；already counting 一句把绑架写成早已结算的过程。
+ch36 when he comes down.md:11 - **Tropes 兑现/反转**：兑现「监控取证」流程；反转是 Clay 的温柔以残酷问答形式出现；「我们担心 Vero 杀人」被改写成「我们担心 Vero 活下来之后」。
+ch37 not ownership.md:55 **为什么这样写**：施虐者的最后武器是性化与自罪叙事——把受害者的历史改写成她的「deserve」；Vero 的失控（刀速加快、螺丝刀）证明这三句命中：他杀的是眼前人，疼的是不在场的人。
+ch42 the in-between.md:20 **为什么这样写**：发作后的状态被命名而非治愈：quiet 与 won't switch off 的矛盾句是解离的精确描述；too much room 把「安静」写成负面空间——回收 ch16 他怕的寂静，这次是他正在里面。
+ch43 the grave is empty.md:49 **读者视角提示**：Clay 的回答（信不信不重要，他们什么都没有）是本章最稳的一句；「grave?」「什么 grave?」的装傻紧随——他替她背下「知道」的重量。
+ch45 the woman she had to become.md:34 **为什么这样写**：build a version 把创伤应对写成「自我建造」，与 ch42 她「lost parts of myself」互为正反面；I would die before 一句把 Vero 的暴力语法（ch37 的 sc
+ch46 the last guest standing.md:27 **为什么这样写**：把追逐写成牧猎：猎人的动作是「导」不是「捕」，Kayla 的识破证明她的观察力（ch06 记出口、ch23 隐形术）已被四人纳入设计——她的能力既是玩法也是被玩的原因。
+ch48 a chapter closed.md:20 **为什么这样写**：退路被诊断为施害者的遗产——ch32「safe space」的执念在此被她主动拆掉；win 一词把退阁楼写成一场胜负，Aaron 缺席却仍在赛场。
+
+=== ④亲属身份：13 行 ===
+ch01 the island after dark.md:11 - **Tropes 兑现/反转**：兑现「危险职场+黑夜猎场」设定；小反转是妹妹闯禁地他吓不走；章尾「one who doesn't scare easily」为女主入场埋下全书之钩。
+ch01 the island after dark.md:32 **中文理解**：妹妹 Jess 向 Clay 求援：男友的前女友对他们如影随形，无处不在，甚至威胁把他们俩连同汽车一起炸上天。这是 Clay 今晚接下的一桩私事。
+ch01 the island after dark.md:34 **为什么这样写**：一句台词内威胁从"跟踪"跳到"汽车炸弹"，量级骤然拉满；由当事的妹妹亲口说出，比任何转述都急迫，也让 Clay 的介入顺理成章。
+ch01 the island after dark.md:46 **中文理解**：Clay 说眼前这个人像他一直想要的母亲；他的亲生母亲在 Jess 还是婴儿时去世。他猜自己对 Jess 和另一个妹妹的过度保护也许与此有关；父亲是好人，但长年工作养家。
+ch01 the island after dark.md:48 **为什么这样写**：先给情感结论（我想要的母亲），再补死亡时间和父亲忙于工作的事实；Clay 用 maybe 为自己过度保护妹妹的原因留出不确定性，严厉主管的柔软面因此不靠旁白硬说。
+ch01 the island after dark.md:49 **读者视角提示**：my other sister 明确说明他要保护的并非只有 Jess；这一处不需要预言后文，只需记下家里还有另一个妹妹。
+ch10 the ledger of that night.md:32 **中文理解**：Kayla 嘴上说「这就是我要的」，Ares 却在心里拆穿：那不是呼吸玩法，是谋杀未遂；若他没有介入，他不知道 Clay 会不会停。Clay 曾拿「她惹了我妹妹」解释，Ares 表示怀疑。
+ch10 the ledger of that night.md:39 **中文理解**：Jess 出现在厨房时，Kayla 眼里闪过认出对方的光——她认识 Jess；但她只丢下「Small world」就转回 Vero 那边，把 Clay 的妹妹晾在一边。
+ch16 the silence after.md:24 **中文理解**：Vero 解释离家：许多人嘴上说扛得住，实际扛不住；家人爱他却不知如何与他相处，哥哥反复主张用药，试过却让他像僵尸——他讨厌那种感觉，直到来到这里，一切才改变。
+ch20 a good shot.md:62 **为什么这样写**：全书最会惹事的妹妹说出最成熟的一句，ch01 那个闯进禁地的女孩已经学会观察别人；Clay 的无回答（Since when did my sister grow up）把成长交还给 Jess。
+ch20 a good shot.md:63 **读者视角提示**：Jess 猜中 Kayla 是通过「Vero 的事」——ch16 酒吧事件已传到岛外，为 Part Two 的舆论层埋线；她抢先挂断，不给哥哥否认的机会。
+ch27 a piece of broken chalk.md:60 **中文理解**：床上问答，Kayla 说她只知道 Jess；Clay 说出另一位妹妹的名字：Meeka。
+ch48 a chapter closed.md:11 - **Tropes 兑现/反转**：兑现「警局讯问」惊悚桥段；反转是她以真话取胜；「妹妹上火轮」把 ch01 的 Jess 闯禁地升级为成年自主。
+
+合计 374 行候选 / 53 个文件
