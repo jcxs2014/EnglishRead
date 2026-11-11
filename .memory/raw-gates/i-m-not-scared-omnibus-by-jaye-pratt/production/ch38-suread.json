@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch38",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch38_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Vero 失踪第三天，Kayla 反复回放监控无果",
+   "anchor": "Three days Vero has been missing",
+   "start": 43,
+   "end": 75
+  },
+  {
+   "fact": "Brawley 首次承认：不知道如何面对「不知道」",
+   "anchor": "I don’t know how to do this,” he confesses with a sigh. “The not knowing",
+   "start": 1109,
+   "end": 1181
+  },
+  {
+   "fact": "Kayla 用芯片被切除反推 Vero 不想被找到，劝 Brawley 保重自己等他回来",
+   "anchor": "He removed his microchip, which means he doesn’t want to be found",
+   "start": 1534,
+   "end": 1599
+  },
+  {
+   "fact": "Cipher 一人份的大量食物触发 Kayla 的联想，牵出棚屋线索",
+   "anchor": "He ordered a lot of food for one person, so I figured he must live with someone",
+   "start": 6364,
+   "end": 6443
+  },
+  {
+   "fact": "Ares 与 Clay 确认：棚屋恰在监控盲区边缘，Khodi 搜查漏掉了它",
+   "anchor": "It sits just outside the dead zone",
+   "start": 7354,
+   "end": 7388
+  },
+  {
+   "fact": "棚屋里 Vero 对 Aaron 宣告「相处三天算室友」，刑讯进入日常节奏",
+   "anchor": "since we have spent three days together now, it basically makes us roommates",
+   "start": 9274,
+   "end": 9350
+  },
+  {
+   "fact": "恐慌第三次袭来：血腥与土味触发，Kayla 在气味清单里抓住 Clay 的味道着陆",
+   "anchor": "I can smell burning metal, oil, old wood, and Clay",
+   "start": 11431,
+   "end": 11481
+  },
+  {
+   "fact": "Vero 逼 Aaron 最后看一眼 Kayla，宣告他永不再见到她",
+   "anchor": "Take one last look, because you will never see her again",
+   "start": 13038,
+   "end": 13094
+  }
+ ]
+}
