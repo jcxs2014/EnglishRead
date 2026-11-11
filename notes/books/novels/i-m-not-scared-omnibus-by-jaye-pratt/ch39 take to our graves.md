@@ -37,7 +37,7 @@ modified: "2026-11-11"
 > **原句 4:** "I open the lid of the coffin, then Clay shifts closer and drops Aaron inside. … I jump down and bring my fist to his face. It stuns him enough that he falls back, and Clay and I close the lid. This is the fate he chose for Kayla, and karma works in mysterious ways."
 
 **中文理解**：Brawley 掀开棺盖，Clay 把 Aaron 丢进去；Aaron 求生一搏爬出，Brawley 跳下棺一拳打 stun，两人合上盖子——这是他替 Kayla 选的命运，karma 以神秘的方式运转。
-**关键词**：lid / drops / scramble / close the lid / karma
+**关键词**：lid / drops / close the lid / karma
 **为什么这样写**：空间对称是本章的道德核心：ch33 她在棺内装昏迷、他在棺内挣扎——同样的动作被还给施害者；karma 一句是 Brawley 的结案陈词，也是他允许自己相信的正义形式。
 **读者视角提示**：本章含暴力细节，精读只取结构句；「没杀」与「埋」之间的法律与道德空白由 ch39 末的共同秘密承担——文本不评判。
 
@@ -75,7 +75,7 @@ modified: "2026-11-11"
 |---|---|---|
 | non-negotiable | 不容商量的 | “You’re mine—that is non-negotiable. You don’t get to remove that, cut it out, or leave me behind. Where you go, I follow.” |
 | limply | 瘫软地 | I let go of him, and he sags limply with only Clay to stop him from falling. |
-| simper 类动词（原文 smirk） | 得意地笑 | “Too late.” He smirks at me. |
+| smirk | 得意地笑 | “Too late.” He smirks at me. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
