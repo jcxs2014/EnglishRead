@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch11",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "两周来 Clay 每次 Kayla 排班都来酒吧，只点头不搭话，Kayla 不知他从哪知道她的班表",
+   "anchor": "Clay comes to the bar every time I have a shift.",
+   "start": 87,
+   "end": 135
+  },
+  {
+   "fact": "Vero 喝下墓地特调赢过与 Nixie 的赌约，换来新展区首次试用追逐",
+   "anchor": "We have a new exhibit opening tonight for a trial run. I bet Nixie I could drink a graveyard smoothie—she didn’t believe I could.",
+   "start": 1361,
+   "end": 1490
+  },
+  {
+   "fact": "迷彩服完全合身说明 Vero 记过她的尺寸，Kayla 分不清这算贴心还是不安",
+   "anchor": "Pulling on the camo pants, I find they fit me perfectly, which means Vero paid attention when he shouldn’t have, and I don’t know if that is sweet or unsettling.",
+   "start": 3150,
+   "end": 3311
+  },
+  {
+   "fact": "Clay 自己开车来接人，用威胁口吻命令 Kayla 上车，Kayla 仍一路嘴硬回敬",
+   "anchor": "Get in the car, Kayla, before I get out and make you.",
+   "start": 4335,
+   "end": 4388
+  },
+  {
+   "fact": "Brawley 把 Vero 的 paper-cut princess 简化成 Double P 作为她的代号",
+   "anchor": "Brawley chuckles. “Yeah, Vero calls you paper-cut princess, but I decided Double P sounds better.”",
+   "start": 7787,
+   "end": 7885
+  },
+  {
+   "fact": "Kayla 故意打偏一枪落在 Clay 头侧，宣称自己从不失手、那只是警告弹",
+   "anchor": "“FYI, I never miss,” I say, lowering the gun and looking Clay dead in the eye. “That was a warning shot.”",
+   "start": 8807,
+   "end": 8912
+  },
+  {
+   "fact": "Nixie 开赛前给出三条规则：Kayla 两分钟先发、不得越界、不许死人",
+   "anchor": "Nixie comes out and runs us through the safety briefing—a two-minute head start for me, stay inside the boundary markers, no dead bodies.",
+   "start": 9285,
+   "end": 9422
+  },
+  {
+   "fact": "Kayla 命中 Clay 胸口后遭三人合围；Clay 回敬一枪打肩称扯平，她默许他这么以为",
+   "anchor": "He raises his gun and shoots me directly in the shoulder. “Now we’re even,” he says.",
+   "start": 12358,
+   "end": 12442
+  }
+ ]
+}
