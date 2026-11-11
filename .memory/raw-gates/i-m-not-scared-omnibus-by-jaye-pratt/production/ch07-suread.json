@@ -1,0 +1,61 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch07",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "游岛次日早晨 Kayla 收短信邀请与表单，填写偏好与边界，之后通知八点接送",
+   "anchor": "My invitation came via text this morning—only a day after my tour—with a link to a form asking general things",
+   "start": 43,
+   "end": 152
+  },
+  {
+   "fact": "入岛后工作人员给 Kayla 一条蓝、黑、黄三色轮闪的腕带，其他参与者颜色没她多",
+   "anchor": "The melted-face man hands me a wristband. It lights up and flashes blue, then black, then yellow.",
+   "start": 1944,
+   "end": 2041
+  },
+  {
+   "fact": "Nixie 对参加者说合同保护安全，腕带可定位且颜色对应猎手，并警告别进玉米地",
+   "anchor": "The contracts you signed will keep you safe. The wristbands are trackers, in case you get lost",
+   "start": 2940,
+   "end": 3034
+  },
+  {
+   "fact": "夜猎开始后 Kayla 主动去精神病院找 Vero，虽自称不怕，现场惊吓仍使她肾上腺素上升",
+   "anchor": "I know exactly where Vero will be, so I head toward the asylum.",
+   "start": 3582,
+   "end": 3645
+  },
+  {
+   "fact": "Vero 借广播声称自己害怕脑中的寂静，并探出 Kayla 怕熊、某首歌也刺中她",
+   "anchor": "“Everyone fears something. Wanna know a secret? I’m scared of the silence in my head.”",
+   "start": 5808,
+   "end": 5894
+  },
+  {
+   "fact": "黑暗走廊里 Clay 抓住 Kayla 阻路并推撞墙，她还击后他离开；这不是 Vero 本人",
+   "anchor": "A hand closes around my arm, yanking me off my feet",
+   "start": 7856,
+   "end": 7907
+  },
+  {
+   "fact": "Brawley 守在下一间，称 Kayla 若想接近 Vero 必须赢得资格，随后的接触与威胁不能写成明示同意",
+   "anchor": "“You want what’s mine,” he says, “but you’re going to have to earn it.”",
+   "start": 9766,
+   "end": 9837
+  },
+  {
+   "fact": "Kayla 认出尾随她的黄腕带男子应是 Ares，被推进黑房间后 Vero 出现",
+   "anchor": "There is a man standing at the end of the hall in a glow mask, and for the first time, I notice he is wearing a wristband like mine, flashing yellow.",
+   "start": 12713,
+   "end": 12862
+  },
+  {
+   "fact": "最后 Vero 注意 Kayla 在发抖，她否认并主动亲吻了他",
+   "anchor": "Then I kiss him.",
+   "start": 14903,
+   "end": 14919
+  }
+ ]
+}
