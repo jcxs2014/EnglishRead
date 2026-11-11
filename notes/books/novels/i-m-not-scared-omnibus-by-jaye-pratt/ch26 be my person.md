@@ -58,7 +58,7 @@ modified: "2026-11-11"
 > **原句 7:** "Not his smug smile; an actual, real, genuine smile. I’m not sure it suits him, but I will take it because it means he wants her as much as I do."
 
 **中文理解**：Vero 在监控里看见 Clay 笑——不是得意的笑，是真实的笑；他不确定那适不适合 Clay，但他收下，因为那意味着 Clay 和他一样想要她。她会留下——他骨头里感觉得到。
-**关键词**：smug / genuine / suits him / in my bones
+**关键词**：smug / genuine / suits him / wants her
 **为什么这样写**：全书最封闭的人第一次被第三方捕获到无防备表情，且由最闹的人解读；She is staying 与 ch16 末的「completely silent」形成同构反义——同一句「安静」，这次是满足而非崩塌。
 **读者视角提示**：本章监控室含 Clay 与 Kayla 的露骨亲密，精读不选入；Vero 的观看行为（含自渎）文本未作道德处理，Part Three 前应有回收。
 

@@ -81,7 +81,7 @@ modified: "2026-11-11"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | whines | 抱怨哼唧 | “Why do you have to work?” he whines. “I would much rather be chasing you.” |
-| sneaky | 偷偷摸摸的 | “Fucking shit! Do not sneak up on a girl like that.” |
+| sneak up | 悄悄靠近 | “Fucking shit! Do not sneak up on a girl like that.” |
 | steam | 蒸汽 | Turning on the water, I let the stall fill with steam before I strip down and get in. |
 
 ## 一句话总结

@@ -9,7 +9,7 @@ modified: "2026-11-11"
 - **一句话概括**：Kayla 睡在 Clay 床上，Vero 一眼断言 Clay 在笑；Clay 拉 Ares 去 Kayla 公寓排查窃听与摄像头，Ares 对 Mabel 编出窗锁维修的来意、几分钟拿到备用钥匙，全屋干净——Clay 判断入侵者极其小心，与 Ares 约定暂瞒 Vero。格斗场里 Kayla 先被 Brawley「调教」，再逼 Clay 真打，用体型与膝弯动作把他打跪；Vero 宣布「标记这一天」。章末 Ares 低声说：她属于这里。
 - **情感弧线位置**：入侵悬案转入专业排查（干净=更危险）；Clay 的笑容被全楼目击，他的柔软面从 ch20 自白升级为公开事实；Kayla 在格斗场赢得群体承认，Ares 的「她属于这里」是他首次公开站队。
 - **Tropes 兑现/反转**：兑现「安保排查」流程戏；反转是排查结果干净、威胁升级；「格斗场教学」被 Kayla 打成真实胜负；Ares 的社交工程以善意面目完成（Mabel 毫无察觉）。
-- **人物弧线**：Clay：承认「she is mine，it is what it is」，不再解释；Ares：帮忙被 Clay 拆穿动机话术（he's full of shit），随后说出「She belongs here」；Kayla：拒绝被管理（just fight me）；Vero：从偷窥者转为记录者；Brawley：放水被点破仍认她「did it」。
+- **人物弧线**：Clay：承认 she is mine 且 it is what it is for now，不再解释；Ares：帮忙被 Clay 拆穿动机话术（he’s full of shit），随后说出「She belongs here」；Kayla：拒绝被管理（just fight me）；Vero：从偷窥者转为记录者；Brawley：放水被点破仍认她「did it」。
 - **叙事手法**：厨房笑点—排查冷场—格斗场热血三段变奏；排查段用 Mabel 对话展示 Ares 的话术；格斗段以动作链写胜负，Kayla 的技术细节（读动作、用体型、踢膝弯）对应 ch06 的记出口天赋。
 
 ## 精读
