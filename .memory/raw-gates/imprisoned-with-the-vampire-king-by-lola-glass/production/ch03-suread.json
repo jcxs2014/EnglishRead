@@ -1,0 +1,55 @@
+{
+ "book": "imprisoned-with-the-vampire-king-by-lola-glass",
+ "chapter": "ch03",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "保护交易开局：Dante 给出监狱生存法则——假 pixie 需要保护，最好的办法是找个性伴侣；狱中男人会为身边的女人杀人，不计后果。",
+   "anchor": "Because you're pretending to be a pixie, you need protection. The best way to get that is to find a fuck buddy. Men in the prison will kill to protect the woman they're with, consequences be damned.",
+   "start": 85,
+   "end": 283
+  },
+  {
+   "fact": "Dante 的怨气：他没犯任何法就被关进她的监狱——她补过：一发现就凑够魔法下来救，并追问是否还有人被关错；Dante 答 Shiv 帮里多数人不该在这里（后续扩救的伏笔）。",
+   "anchor": "\"You're here to save me from your prison. Which I was locked up in without breaking any laws.\"",
+   "start": 827,
+   "end": 921
+  },
+  {
+   "fact": "供血限制：她个子小血量有限；没有 mate bond（命定伴侣联结），身体恢复跟不上他的进食——首次点名本书核心概念 mate bond。",
+   "anchor": "Without a mate bond, your body won't recover from feeding me as fast as it needs to.",
+   "start": 2416,
+   "end": 2500
+  },
+  {
+   "fact": "供血链起源：Dante 通常咬 Shiv 的手腕——刚入狱时他和 Jazz 互相喂血；Jazz 与 Shiv 在一起后，Shiv 不许他再咬她，Jazz 便要求 Shiv 供血作交换。",
+   "anchor": "\"I bite his wrist, usually. Jazz and I were feeding from each other when we first came down here. It was awkward, but we did what we had to.",
+   "start": 7855,
+   "end": 7995
+  },
+  {
+   "fact": "全章最大雷：她脱口喊出「River」——那是她哥哥 Shiv 的真名；她惊觉失言，Dante 却不惊讶（大概是 Jazz 也叫过真名）。",
+   "anchor": "My brother's real name slipped out before I could stop it.",
+   "start": 7670,
+   "end": 7728
+  },
+  {
+   "fact": "他最想念的：安全感——政变（the coup）之前的掌控、不可侵犯；明知那是虚假的安全感，也承认回不去了；问他监狱里安不安全，他反问「你是在问一座充满致命永生者的魔法监狱安不安全？」。",
+   "anchor": "\"Feeling safe,\" he finally said.",
+   "start": 7044,
+   "end": 7076
+  },
+  {
+   "fact": "喂食互偿（露骨场景用非露骨句概括）：被咬未必快感，但她天生满足于「我的血在他体内供养这个庞大漂亮的吸血鬼，偿还他给我的快感」；事后她问「我睡着翅膀收不收」，互称 good friend，约好出去后永不再见——他答「Sounds like a fucking dream」她应「For both of us」双双嘴硬。",
+   "anchor": "While the bite wasn't necessarily pleasurable, some part of me was innately satisfied by the fact that he was feeding from me.",
+   "start": 11523,
+   "end": 11649
+  },
+  {
+   "fact": "收尾反讽：她睡得太快——毕竟自己被锁在自己造的监狱的小房间里，魔法只剩几滴；本章另交代：监狱上方的魔法城市名叫 Rumor。",
+   "anchor": "I fell asleep way too fast, considering I was locked in a tiny room in the prison I'd built with all but a few drops of my magic.",
+   "start": 13424,
+   "end": 13553
+  }
+ ]
+}
