@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch15",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "Kayla 抢在 Clay 之前表态：朋友需要帮助时她不会坐在家里",
+   "anchor": "And I won’t sit at home while my friend needs help",
+   "start": 550,
+   "end": 600
+  },
+  {
+   "fact": "Kayla 隔门告知身份与来意，给 Vero 不开门的选项，再坐下等待",
+   "anchor": "If you don’t want to let me in, I can just sit here",
+   "start": 2044,
+   "end": 2095
+  },
+  {
+   "fact": "Vero 发作时拔扯自己的头发，痛到不得不用剪刀剪掉",
+   "anchor": "I couldn’t stop pulling it, so I had to cut it off",
+   "start": 3050,
+   "end": 3100
+  },
+  {
+   "fact": "Kayla 拒绝扮演修复者，只承诺陪伴到 Vero 准备好",
+   "anchor": "I’m not going to fix it, but I will sit here with you until you are ready to move",
+   "start": 4532,
+   "end": 4613
+  },
+  {
+   "fact": "Clay 解释拳台对打是 Vero 走出脑内噪音的既有方式，Kayla 被迫旁观",
+   "anchor": "this is how Vero gets out of his head when nothing else works",
+   "start": 6672,
+   "end": 6733
+  },
+  {
+   "fact": "浴室里 Vero 以掌根撞击头部，Kayla 抓住他的手腕求他说话",
+   "anchor": "I reach out and catch his wrist before he hits himself a third time",
+   "start": 8566,
+   "end": 8633
+  },
+  {
+   "fact": "Vero 先否认爱意随即改口，坦承爱 Brawley 爱到无法思考",
+   "anchor": "I’m not in love with you",
+   "start": 8743,
+   "end": 8767
+  },
+  {
+   "fact": "Kayla 回应：她能预见自己会爱 Vero，但不会以 Brawley 的方式，也不与之竞争",
+   "anchor": "I would never love you the same way Brawley does",
+   "start": 10082,
+   "end": 10130
+  }
+ ]
+}
