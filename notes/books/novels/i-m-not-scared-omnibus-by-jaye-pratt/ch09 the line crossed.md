@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 在墓底拒绝道歉：她点明自己被推进墓穴、身后还压着对方明显的生理反应，然后断言 Clay 这辈子从没真正「对付」过女人。
 **关键词**：apologize / pushed me into / handled a woman / sincere
 **为什么这样写**：她用最冷静的措辞（I mean this very sincerely）说最挑衅的内容，把权力关系倒转——被按在墓底的人反而在审问对方的能力；pause for dramatic effect 保留她的表演感。
-**读者视角提示**：「never once successfully handled a woman」是 Kayla 的攻击性判断，不是文本结论；Clay 随后的反应（扼颈）恰是对她这句话的回应。
+**读者视角提示**：「never once in your life successfully handled a woman」是 Kayla 的攻击性判断，不是文本结论；Clay 随后的反应（扼颈）恰是对她这句话的回应。
 
 > **原句 6:** "One of his hands leaves my hip, and he snakes it around my neck and squeezes. Not a light little squeeze someone does when making sure they don’t kill you; this is done with no care."
 
@@ -74,7 +74,7 @@ modified: "2026-11-11"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | snark | 讥讽地回嘴 | The satisfying crack has Vero laughing as I snark, “Red looks good on you, Clay.” |
-| dislodge | 摆脱；使移位 | “Get off me,” she snarls, bucking around in a valiant attempt to dislodge the surly deadweight from on top of us. |
+| sass | 顶嘴；没大没小地回话 | Vero winks at me, then smiles, and I bite the inside of my cheek. “Why don’t you show me how much of a bad boy I am,” he sasses over his shoulder. |
 | cage | 围困；罩住 | He takes a few steps toward me, and his arms cage me in, palms pressing flat against the dirt behind me. |
 
 ### ⭐ 常用

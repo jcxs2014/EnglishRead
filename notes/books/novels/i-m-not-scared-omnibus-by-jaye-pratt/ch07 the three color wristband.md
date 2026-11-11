@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：口头答「In」之后第一次兑现：Kayla 在追逐里确认自己享受恐惧，Vero 的「寂静」自白也让两人第一次交换各自的弱点；吻是她主动给出的。
 - **Tropes 兑现/反转**：兑现「多人腕带+心理追逐」；反转是自称什么都不怕的她一路被吓得发抖，而猎手 Vero 先说出自己怕脑中的寂静；Clay 的拦阻与 Brawley 的警告则把追逐推向合同边缘。
 - **人物弧线**：Kayla 从「不怕」走向承认兴奋与发抖并存；Vero 用广播与假声主导节奏；Clay、Brawley 各以一次拦截宣示占有与警戒；Ares 全程只跟随不出手。
-- **叙事手法**：追逐按空间推进（门口—大厅—精神病院走廊—黑房间），声音先于人出现；Nixie 的致辞把规则压缩成一段台词；结尾用「You're shaking / I am not / Then I kiss him」三拍收束。
+- **叙事手法**：追逐按空间推进（门口—大厅—精神病院走廊—黑房间），声音先于人出现；Nixie 的致辞把规则压缩成一段台词；结尾三拍收束——Vero 指出她在发抖、她嘴硬否认、最后由她主动吻上去（「Then I kiss him」逐字在章末）。
 
 ## 精读
 > **原句 1:** "My invitation came via text this morning—only a day after my tour—with a link to a form asking general things that I suppose cover the owner’s ass should something happen. I filled in all my kinks, though there were some listed that were way out of my comfort zone—like shrimping is a huge no, and I do not advise you to google it."
