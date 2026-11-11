@@ -1,0 +1,60 @@
+{
+ "chapter": "ch12",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch12_chapter_12.txt",
+ "relations": [
+  "River 是她的哥哥（她口中的 dickhead brother），与 Jazz 结 mate。",
+  "Dante 是她的 mate；认识不到十天、结 bond 不满一天。",
+  "恶魔结契后影子黏在 mate 身上，是保护机制。",
+  "Jazz 称 Dante 与她、Grayson 是一家人。"
+ ],
+ "facts": [
+  {
+   "fact": "她花四十分钟画监狱原始魔法图，Dante 到门时未画完。",
+   "anchor": "I spent forty minutes sketching a diagram of the original magic I'd woven for the prison,",
+   "start": 28,
+   "end": 117
+  },
+  {
+   "fact": "又画两分钟才应门，Dante 按了两次门铃。",
+   "anchor": "And spent two more minutes sketching before he rang the doorbell. Twice.",
+   "start": 319,
+   "end": 391
+  },
+  {
+   "fact": "Dante 质疑她是否独自在家，她敞门请他自己查看。",
+   "anchor": "Feel free to look around and see for yourself that I'm alone.",
+   "start": 1476,
+   "end": 1537
+  },
+  {
+   "fact": "Dante 把两袋杂货塞进她空空的冰箱橱柜。",
+   "anchor": "he was currently pulling random food items from two grocery bags that he must've brought with him.",
+   "start": 2617,
+   "end": 2715
+  },
+  {
+   "fact": "她拿杯面空杯科普：过去约 quarter 一杯，如今整整一 dollar。",
+   "anchor": "They used to cost like a quarter, but inflation got to them too, so they're at an entire dollar now.",
+   "start": 3316,
+   "end": 3416
+  },
+  {
+   "fact": "Dante 说当天结束前转账，只要她的账户信息；她拒收。",
+   "anchor": "I'll have money transferred into your account by the end of the day. I just need your information,",
+   "start": 4132,
+   "end": 4230
+  },
+  {
+   "fact": "「梦魇血=杯面」比喻后，Dante 弃袋拦腰把她抱出前门带走。",
+   "anchor": "Dante abandoned the grocery bags on the countertop and grabbed me by the waist, carrying me straight out through the front door.",
+   "start": 5641,
+   "end": 5769
+  },
+  {
+   "fact": "一小时后车停在一栋大楼前（RESERVED FOR THE OWNER），他令她待在车里独自进楼。",
+   "anchor": "An hour later, Dante parked in an open spot in front of a large building.",
+   "start": 6829,
+   "end": 6902
+  }
+ ]
+}

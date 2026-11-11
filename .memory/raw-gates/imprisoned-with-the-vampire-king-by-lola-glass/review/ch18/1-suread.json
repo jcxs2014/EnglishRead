@@ -1,0 +1,60 @@
+{
+ "chapter": "ch18",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch18_chapter_18.txt",
+ "relations": [
+  "Dante 正式搬进她的房子：衣物挂进衣帽间，连内衣都提前换新。",
+  "Ophelia 有翅膀做陶器；新胸罩订购自 pixie boutique。",
+  "Dante 自述追求时从不向前任敞开自己，故每段关系以厌倦收场；监狱第一夜她说过他 agreeable。",
+  "她刻意避免做爱避免动感情，认定他的工作与家族永远优先；他明言 I like you, Ophelia。"
+ ],
+ "facts": [
+  {
+   "fact": "淋浴时 Dante 从她羽毛间拈出一小块陶土，开始替她洗翅膀。",
+   "anchor": "He gently plucked something out of my feathers. I glanced over, and found a small chunk of clay between his fingers",
+   "start": 1210,
+   "end": 1325
+  },
+  {
+   "fact": "洗净翅膀后又替她洗头，再把半睡的她抱回床上。",
+   "anchor": "Dante washed my hair after my feathers, and carried me back to bed half-asleep when I was done",
+   "start": 2413,
+   "end": 2507
+  },
+  {
+   "fact": "她递腕供食，他只吻腕拒绝在她饿时咬，宣布带她去吃早餐。",
+   "anchor": "I can hear your stomach growling, Angel. There’s no world in which I bite you while you’re starving",
+   "start": 5140,
+   "end": 5239
+  },
+  {
+   "fact": "他宣布：那晚差点害她丧命，所以他搬进来是永久的，不容讨论。",
+   "anchor": "That nearly cost us both your whole life, Ophelia. I’m moving in. Permanently. It's not up for debate",
+   "start": 6186,
+   "end": 6287
+  },
+  {
+   "fact": "她发现内衣被整套换新，还订了同款新胸罩——pixie boutique 出货慢。",
+   "anchor": "I ordered you new bras in the same style as yours, too, but the pixie boutique they’re coming from doesn’t work quickly",
+   "start": 7168,
+   "end": 7287
+  },
+  {
+   "fact": "Dante 剖白：从不向前任敞开自己，这就是每段感情厌倦收场的原因。",
+   "anchor": "I had a tendency to win women over without ever opening up to them. I've been thinking about it",
+   "start": 10991,
+   "end": 11086
+  },
+  {
+   "fact": "她摊牌：不想做爱因为会动感情，而他的工作与家族永远在前。",
+   "anchor": "You want the truth? I don't want to fuck you because it's going to make me feel things for you",
+   "start": 13219,
+   "end": 13313
+  },
+  {
+   "fact": "他说不是勉强容忍而是喜欢她；被问喜欢什么无言以对，松开她的手腕。",
+   "anchor": "barely tolerate you,\" he said in a low voice. \"I like you, Ophelia",
+   "start": 14209,
+   "end": 14275
+  }
+ ]
+}

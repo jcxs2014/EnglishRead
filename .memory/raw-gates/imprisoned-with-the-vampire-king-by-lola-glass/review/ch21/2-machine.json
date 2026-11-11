@@ -1,0 +1,322 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/ch21 the list begins.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch21_chapter_21.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He found himself some casual clothing, and insisted on buying me more things than I needed, which was becoming a pattern",
+          "ok": true,
+          "pos": 129
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Dante really was right about both kinds of angels being magnetic. And the more I thought about it, the more I liked the ",
+          "ok": true,
+          "pos": 1067
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But it was different, hearing it from a man I respected and maybe even liked. From my mate. Good different",
+          "ok": true,
+          "pos": 1347
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"It's not a crime to ask your mate to snuggle with you,\" I murmured into his mind",
+          "ok": true,
+          "pos": 2196
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"I don't want to make you uncomfortable,\" he said. \"That's the only reason I haven't asked.\"",
+          "ok": true,
+          "pos": 2479
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He hadn't bitten me in two days or so, and his body was making its displeasure known. The fact that he wasn't actively d",
+          "ok": true,
+          "pos": 4089
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"Are you really apologizing for needing to eat, Dante?\"",
+          "ok": true,
+          "pos": 4427
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"It was a joke, babe.\" The word slipped out without thinking. I tensed, waiting for him to shoot me down, but he didn't",
+          "ok": true,
+          "pos": 11518
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "\"The list of places I'm going to fuck you, to erase all of the other men from your mind. Go.\"",
+          "ok": true,
+          "pos": 12047
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.7
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter 21",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 9,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2403,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

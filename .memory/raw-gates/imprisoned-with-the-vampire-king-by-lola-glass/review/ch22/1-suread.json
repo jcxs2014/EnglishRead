@@ -1,0 +1,60 @@
+{
+ "chapter": "ch22",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch22_chapter_22.txt",
+ "relations": [
+  "Dante 是 Ophelia 的 mate，替她挡电话护着她。",
+  "River 是她哥哥；Callum Frost 领导 Cabinet，Kat 与 Callum 之间有 mate bond。",
+  "Reaper 是 fae，真名 Arthur Fremont，Callum 一家极怕他越狱。",
+  "River 从她出生前就极擅长编织魔法。"
+ ],
+ "facts": [
+  {
+   "fact": "她醒后侧颈供血，Dante 只吻了一下——昨晚刚喂过。",
+   "anchor": "I tilted my head to the side, offering him my throat.",
+   "start": 379,
+   "end": 432
+  },
+  {
+   "fact": "Dante 接听 Callum 来电：无法忽略领导 Cabinet 的家伙。",
+   "anchor": "I can't ignore a phone call from the asshole who leads the Cabinet",
+   "start": 1163,
+   "end": 1229
+  },
+  {
+   "fact": "他替她回绝并改约餐厅午餐，时长加到一个半小时；缘由是几天前放出的百名无辜囚犯。",
+   "anchor": "We can meet for lunch at a restaurant, if you need to talk to her.",
+   "start": 1935,
+   "end": 2001
+  },
+  {
+   "fact": "一个半小时后走进包间会面，Dante 坐在她与 Jazz、River 之间护着她。",
+   "anchor": "We found Kat and Callum in a small, private room that was separated from the rest of the dining area.",
+   "start": 4433,
+   "end": 4534
+  },
+  {
+   "fact": "Callum 说明：Cabinet 出资把获救者重融社会，并追问是否要准备应对其余囚犯也被放走。",
+   "anchor": "We're working on incorporating them back into society. The Cabinet is funding their reintroduction into Rumor",
+   "start": 6271,
+   "end": 6380
+  },
+  {
+   "fact": "她坦白瞒着 Dante 独自进监狱：做足盘子装推车、漏算电梯装不下所有人。",
+   "anchor": "I made enough plates to hold the magic, packed them into a wagon, and went in alone.",
+   "start": 7782,
+   "end": 7866
+  },
+  {
+   "fact": "River 出言辩护（电梯魔法耗能远超多数天使），Jazz、Dante 相继帮腔；她大受触动。",
+   "anchor": "The magic she used to create the elevator required more power than most angels have access to",
+   "start": 8144,
+   "end": 8237
+  },
+  {
+   "fact": "Dante 说出 Reaper 真名 Arthur Fremont，Callum 脸色发白；她留了魔法拖他几周。",
+   "anchor": "He's fae. His real name is Arthur Fremont,\" Dante said.",
+   "start": 9378,
+   "end": 9433
+  }
+ ]
+}

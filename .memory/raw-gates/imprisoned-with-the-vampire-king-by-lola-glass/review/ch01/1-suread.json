@@ -1,0 +1,60 @@
+{
+ "chapter": "ch01",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch01_chapter_1.txt",
+ "relations": [
+  "Dante 是吸血鬼国王，十二年前（twelve years earlier）被想夺其王位的人关进 Shadowside Penitentiary；吸血鬼是这座城市的四类恶魔之一。",
+  "Ophelia 名下有内阁（Cabinet）的一个席位，但她每次都把邀请函扔掉；实权在形同黑手党的 fae royals 手里。",
+  "监狱以帮派分治：蓝光环男子拦人时称 Shiv's gang gets this one if they want her，Shiv 是其中一位帮派头目。",
+  "Ophelia 潜入监狱的目标是救出两名 demon royals，Dante 是她要找的人之一。"
+ ],
+ "facts": [
+  {
+   "fact": "Ophelia 乘电梯下行，落到地下九层（nine floors）抵达 Shadowside Penitentiary。",
+   "anchor": "There was a sad-sounding ding as it stopped, nine floors under the sprawling magical city I lived in.",
+   "start": 371,
+   "end": 472
+  },
+  {
+   "fact": "Ophelia 走进主区，所有没在打斗的 immortal 囚犯都转头盯着她。",
+   "anchor": "Because every one of the immortals who weren't in the middle of a fight, were looking at me.",
+   "start": 4622,
+   "end": 4714
+  },
+  {
+   "fact": "Ophelia 认出彩光环男子是 Dante——十二年前被人夺位囚禁的吸血鬼国王。",
+   "anchor": "His name was Dante, and he was the vampire king who had been imprisoned by people who wanted to take his throne twelve years earlier.",
+   "start": 7783,
+   "end": 7916
+  },
+  {
+   "fact": "蓝光环男子拦下绿光环者，宣称这个女人归 Shiv's gang。",
+   "anchor": "You took the last woman. Shiv's gang gets this one if they want her.",
+   "start": 8114,
+   "end": 8182
+  },
+  {
+   "fact": "绿光环者喝令证明 pixie 身份，Ophelia 从指尖弹出火花自证。",
+   "anchor": "It was relatively effortless to make sparks appear from my fingers.",
+   "start": 9499,
+   "end": 9566
+  },
+  {
+   "fact": "她自称 pixie 后三人齐扑，Dante 最快把她扑倒咬进颈静脉。",
+   "anchor": "Dante reached me first, taking me to the ground, and a set of fangs sank into my jugular.",
+   "start": 9810,
+   "end": 9899
+  },
+  {
+   "fact": "警报响起，Ophelia 自己的黑暗魔法气息涌入空气。",
+   "anchor": "Vaguely, I heard an alarm blaring around us, and the intense feeling of my own dark magic flooded the air.",
+   "start": 9955,
+   "end": 10061
+  },
+  {
+   "fact": "Ophelia 抓住 Dante 双肩、双腿缠腰不让他逃。",
+   "anchor": "I grabbed Dante's shoulders, wrapping my legs around his waist so he couldn't get away from me.",
+   "start": 10064,
+   "end": 10159
+  }
+ ]
+}

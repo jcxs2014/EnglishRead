@@ -1,0 +1,60 @@
+{
+ "chapter": "ch25",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch25_chapter_25.txt",
+ "relations": [
+  "本章叙述者 Dante，Ophelia 是他的伴侣（他称她 Angel），两人精神联结对话；他自视为她的第五名护卫。",
+  "Liv 是 spring fae queen，Callum 持折磨魔法；Liv 的 mate 能变巨型黑豹。",
+  "River 能织护盾，Jazz 与 River 搭档指引方向；Rae 的影子魔法强得惊人（Callum 语）。",
+  "Reaper 是囚犯一伙头目，电梯井一战被 Darius 击杀；Redd 是连其他囚犯都杀不死的暴力 dragon shifter。"
+ ],
+ "facts": [
+  {
+   "fact": "Liv 宣布这层监狱正在关闭、所有人移往楼上排单列靠墙；Callum 警告动他的人=选缓慢痛苦的死亡。",
+   "anchor": "\"This floor of the penitentiary is being shut down,\" Liv, the spring fae queen, announced loudly",
+   "start": 1561,
+   "end": 1657
+  },
+  {
+   "fact": "Darius 朝前方囚犯发一股火焰，缺口迅速出现，不少人举手投降。",
+   "anchor": "Darius sent a burst of fire toward the prisoners in front of us",
+   "start": 1252,
+   "end": 1315
+  },
+  {
+   "fact": "囚犯供称：Reaper 一伙占了禁闭区走廊，监狱管不住他们，自 Inferno 和他的天使走后众人任其摆布。",
+   "anchor": "They took over the solitary confinement hallway. The prison doesn't hold them anymore.",
+   "start": 2555,
+   "end": 2641
+  },
+  {
+   "fact": "两男两狼扑向队前精灵，被 Callum 冰霜魔法、能量冲击、火焰接连打死。",
+   "anchor": "A group of two men and two wolves lunged at the fae in front of the group.",
+   "start": 3703,
+   "end": 3777
+  },
+  {
+   "fact": "Jazz 意识到 Reaper 去了电梯；River 担心他毁掉电梯魔法。",
+   "anchor": "\"Oh, fuck,\" River swore. \"If he takes down the elevator's magic...\"",
+   "start": 5925,
+   "end": 5992
+  },
+  {
+   "fact": "Liv 在 River 话音未落时冲出，她的 mate 化巨型黑豹追去。",
+   "anchor": "Liv was sprinting away from the rest of us before River finished speaking.",
+   "start": 5995,
+   "end": 6069
+  },
+  {
+   "fact": "Dante 把 Ophelia 甩上肩跟在 Callum 后跑，River 和 Jazz 同行。",
+   "anchor": "I threw Ophelia over my shoulder and ran after him.",
+   "start": 7251,
+   "end": 7302
+  },
+  {
+   "fact": "两具坠落躯体被影子接住放回电梯——Reaper 死了，Darius 咧嘴大笑。",
+   "anchor": "Thick shadows caught them both, moving faster than I could blink.",
+   "start": 9373,
+   "end": 9438
+  }
+ ]
+}

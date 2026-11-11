@@ -1,0 +1,60 @@
+{
+ "chapter": "ch13",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch13_chapter_13.txt",
+ "relations": [
+  "Ophelia 是 Dante 的 mate，刚缔结 mate bond；Dante 是吸血鬼之王。",
+  "Dante 派人把她的家当搬进庄园——她的房子太小、离 royals' mansion 不到十分钟。",
+  "Jazz 提醒过 Dante 必须每天进食才能保持状态。",
+  "Ophelia 是不卖作品的魔法陶艺师、堕落天使，坚称两人不是情侣。"
+ ],
+ "facts": [
+  {
+   "fact": "Dante 停车熄火宣布她搬进来，绕车替她开门。",
+   "anchor": "Dante put the car in park, then turned it off.",
+   "start": 650,
+   "end": 696
+  },
+  {
+   "fact": "Dante 告知已派人打包她的房子搬进庄园，陶器一件没碎。",
+   "anchor": "I had my people pack your house and move everything here. I warned them about the pottery, and nothing broke.",
+   "start": 1650,
+   "end": 1759
+  },
+  {
+   "fact": "一条无接缝玫瑰金手环扣上她的手腕。",
+   "anchor": "A thin, rose gold band was wrapped around my wrist without any visible seams",
+   "start": 3190,
+   "end": 3266
+  },
+  {
+   "fact": "手环摘不掉：矮人魔法，天使改不了，他问过了。",
+   "anchor": "\"You don't. It's dwarven magic. Angels can't change it. I asked.\"",
+   "start": 4167,
+   "end": 4232
+  },
+  {
+   "fact": "她走上阳台双翼自行展开，怒气彻底消散。",
+   "anchor": "My wings unfurled of their own volition, the straps of my denim overalls",
+   "start": 6245,
+   "end": 6317
+  },
+  {
+   "fact": "阳台喂血：他搂腰吻喉缓缓深饮，这次没让她高潮。",
+   "anchor": "One of his arms slid around my waist, and his lips brushed my throat lightly",
+   "start": 7379,
+   "end": 7455
+  },
+  {
+   "fact": "橙色手机+新规：二十分钟不回短信就走心智 bond。",
+   "anchor": "You have twenty minutes to answer one of my texts, or I'll reach out",
+   "start": 9762,
+   "end": 9830
+  },
+  {
+   "fact": "当晚外卖意面她刮盘而尽，随后与 Dante 短信斗嘴。",
+   "anchor": "I ate the food, obviously. It was a pasta dish, and so delicious",
+   "start": 11610,
+   "end": 11674
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "chapter": "ch11",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch11_chapter_11.txt",
+ "relations": [
+  "Ophelia 建造了 penitentiary；Dante 是她的吸血鬼 mate，结 bond 不到二十四小时。",
+  "Callum Frost 掌管 Cabinet，与她是友好敌人；mate Kat 是热情的金发 werewolf。",
+  "Rae 与 Darius 是 Callum 家访客，一对发光 soulmate。",
+  "Grayson 富有且知道她住址；两人只见过一面。"
+ ],
+ "facts": [
+  {
+   "fact": "出狱当晚吃掉最后一杯杯面，次日查账户只剩 $0.94。",
+   "anchor": "I ate my last cup of noodles the evening of the same day I got out of prison.",
+   "start": 28,
+   "end": 105
+  },
+  {
+   "fact": "身无分文的她收拾整齐开车去 Callum 家。",
+   "anchor": "washed my bangs in the sink, and even put on a little mascara before I drove to Callum Frost's house.",
+   "start": 272,
+   "end": 373
+  },
+  {
+   "fact": "她告诉 Callum 还有 a hundred 名无辜者要救。",
+   "anchor": "There are a hundred more people I need to break out.",
+   "start": 4830,
+   "end": 4882
+  },
+  {
+   "fact": "监狱被当武器用了 Thirty years。",
+   "anchor": "Probably? How long has it been used as a weapon?",
+   "start": 5202,
+   "end": 5250
+  },
+  {
+   "fact": "Callum 免提拨通 Dante，她抢挂失败。",
+   "anchor": "I tried to reach over and end the call, but Callum slid the phone away right as Dante picked up.",
+   "start": 7558,
+   "end": 7654
+  },
+  {
+   "fact": "Dante 电话里说「我们是 mate，我永远喂饱你」，她挂断。",
+   "anchor": "I'm trying to process the fact that you couldn't afford food and went to Callum, Ophelia.",
+   "start": 9560,
+   "end": 9649
+  },
+  {
+   "fact": "Callum 开条件：详细 write-up+计划+时长才给 Cabinet 钱。",
+   "anchor": "The Cabinet will provide money for food and your time as soon as we've seen a detailed write-up",
+   "start": 10713,
+   "end": 10808
+  },
+  {
+   "fact": "Dante 威胁闯脑、宣布带食物上门（车程约一小时），她答应回家等。",
+   "anchor": "I got your address from Grayson, and I'm heading to your house right now. With food.",
+   "start": 12154,
+   "end": 12238
+  }
+ ]
+}

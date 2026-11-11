@@ -1,0 +1,60 @@
+{
+ "chapter": "ch05",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch05_chapter_5.txt",
+ "relations": [
+  "Dante 与 Jazz 是要救的恶魔王室，相识一生；Jazz 是 siren，狱中有权力位置。",
+  "Shiv 说 Jazz 没有他出不去、会饿死；白天抵门是绕过关门魔法的唯一办法。",
+  "Shiv 与 Ophelia 是家族式关系，Dante 推测更像兄弟而非父亲。",
+  "Dante 是洗衣队成员，每名囚犯有清洁任务。"
+ ],
+ "facts": [
+  {
+   "fact": "Ophelia 换装后 Dante 牵她出洗衣房进 dayroom 做戏。",
+   "anchor": "we stepped out of the laundry room and joined the other prisoners in the dayroom",
+   "start": 157,
+   "end": 237
+  },
+  {
+   "fact": "Jazz 关门被魔法弹开，她用背抵门并紧握 Shiv 的手。",
+   "anchor": "Jazz shut the laundry room door, and the prison's enchantment popped it back open immediately.",
+   "start": 2768,
+   "end": 2862
+  },
+  {
+   "fact": "Shiv 说 Jazz 没他出不去、会饿死，要求同救。",
+   "anchor": "Jazz can't leave without me,\" Shiv finally said. \"She'd starve.\"",
+   "start": 3741,
+   "end": 3805
+  },
+  {
+   "fact": "Ophelia 直说没力量连 Shiv 一起带走——魔法几乎全缠在监狱。",
+   "anchor": "I don't have the power to get you out too,\" Ophelia said bluntly. \"Almost all of my magic is wrapped up in here.\"",
+   "start": 3809,
+   "end": 3922
+  },
+  {
+   "fact": "Shiv 取纸笔请她画进入电梯的编织指引。",
+   "anchor": "I'll get you a pen and paper. I need you to draw me a guide",
+   "start": 4860,
+   "end": 4919
+  },
+  {
+   "fact": "Dante 定七日计划：一周后清晨出独居室动身，对外宣称过去十二小时在缠绵、痴迷彼此。",
+   "anchor": "Then we'll plan on seven days,\" I said. \"We'll leave first thing in the morning a week from now",
+   "start": 6048,
+   "end": 6143
+  },
+  {
+   "fact": "对外口径：她自称 pixie；她点头说自己的魔法只会伤人但可装作有用。",
+   "anchor": "If anyone asks, she's a pixie. She can pass as one,\" I added",
+   "start": 6394,
+   "end": 6454
+  },
+  {
+   "fact": "两人互道「装作迷恋我」，镜像台词收场。",
+   "anchor": "I murmured, \"Try to act like you're obsessed with me.\"",
+   "start": 7032,
+   "end": 7086
+  }
+ ]
+}

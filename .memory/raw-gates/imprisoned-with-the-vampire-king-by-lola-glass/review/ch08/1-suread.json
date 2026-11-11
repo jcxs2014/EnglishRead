@@ -1,0 +1,60 @@
+{
+ "chapter": "ch08",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch08_chapter_8.txt",
+ "relations": [
+  "Reaper 让伪装 pixie 的 Ophelia 整日修补毯子并亲自监工；她自估只剩几天。",
+  "Jazz 因 mate 纽带离不开 River；四人须同时走，否则 Dante 会被 Reaper 杀。",
+  "River 以 Shiv 假名尝试复制她的电梯编织。",
+  "Dante 挨饿十余年；Grayson 代管生意并等他重夺王位。"
+ ],
+ "facts": [
+  {
+   "fact": "Reaper 楼梯顶咧嘴迎接，喊她 Pixie 开工。",
+   "anchor": "Reaper was waiting at the top of the stairs. He grinned when he saw me",
+   "start": 27,
+   "end": 97
+  },
+  {
+   "fact": "牢房堆着至少一百条毯子让她修补。",
+   "anchor": "He led me into a cell that was stocked with at least a hundred folded blankets",
+   "start": 861,
+   "end": 939
+  },
+  {
+   "fact": "她加厚软化毯子纤维——黑暗魔法的代价是更不保暖更易坏。",
+   "anchor": "I thickened the blanket's fibers, and softened them too. The blanket wouldn't hold heat quite as well",
+   "start": 2384,
+   "end": 2485
+  },
+  {
+   "fact": "每修一件抛给 Reaper 验收。",
+   "anchor": "Reaper held out a hand when I was done mending, and I tossed the blanket to him.",
+   "start": 3015,
+   "end": 3095
+  },
+  {
+   "fact": "晚饭时她近虚脱，Reaper 拍肩夸干得好。",
+   "anchor": "Reaper smacked me lightly on the shoulder and told me I'd done well",
+   "start": 3423,
+   "end": 3490
+  },
+  {
+   "fact": "Dante 抱她直接回牢房；River 来快速核对编织方向。",
+   "anchor": "Dante held me to his chest as he led me to our cell immediately, instead of to the food line or our normal table.",
+   "start": 3895,
+   "end": 4008
+  },
+  {
+   "fact": "当晚 Dante 饿到僵尸态，她递臂任咬。",
+   "anchor": "I offered Dante my arm, and he bit me without hesitation.",
+   "start": 6056,
+   "end": 6113
+  },
+  {
+   "fact": "最后一夜 Dante 谈打算：回去一战重夺王座，自称曾是全城最强吸血鬼。",
+   "anchor": "Grayson will expect me to retake my throne as soon as I'm back.",
+   "start": 8696,
+   "end": 8759
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "chapter": "ch19",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch19_chapter_19.txt",
+ "relations": [
+  "Dante 是 Ophelia 的 mate，本章他的视角；自称从监狱初见那刻就想要她。",
+  "Ophelia 就是 penitentiary 的建造者——当年为自保建狱的十七岁少女；River 当年向所有被不公关押者如此介绍并要他们怪他而非她。",
+  "Redd 是 dragon shifter，曾因餐点做错失控、几分钟杀上百不死人，连 Merrily 都取不了他性命。",
+  "Jazz 上周陪 Dante 出席慈善晚宴，与 River 被仰慕者围住提前离场；她自称 fallen，他称 dark angel——你不是坠落是跳下去的。"
+ ],
+ "facts": [
+  {
+   "fact": "饥饿的 Ophelia 走向冰箱，Dante 问她在干什么并坚持带她去吃早餐，她拒绝。",
+   "anchor": "\"What are you doing?\" I asked, as she reached the fridge.",
+   "start": 349,
+   "end": 406
+  },
+  {
+   "fact": "Dante 打开餐厅网页把手机塞进她手里，大步走回衣帽间。",
+   "anchor": "I pulled up the page for the restaurant and put my phone in her hand before striding back to the closet.",
+   "start": 1142,
+   "end": 1246
+  },
+  {
+   "fact": "Ophelia 翻看餐厅内景照，问华夫饼是否真如照片。",
+   "anchor": "\"Do the waffles really look like that?\" she asked, finally looking at me.",
+   "start": 1612,
+   "end": 1685
+  },
+  {
+   "fact": "她警告这招只会有效一次，却先一步走向车。",
+   "anchor": "\"This will only work once,\" she warned, already making her way to the car",
+   "start": 2519,
+   "end": 2592
+  },
+  {
+   "fact": "车行两分钟 Dante 才开口反驳指控——她曾说他在过去一个月强迫她适应他的生活方式。",
+   "anchor": "\"You said I spent the last month forcing you to adapt to my lifestyle,\" I said.",
+   "start": 3684,
+   "end": 3763
+  },
+  {
+   "fact": "Dante 澄清房子早在搬她入住前就过户到她名下，是当初一起办事的事项之一。",
+   "anchor": "You own it, Ophelia. I put it in your name before I moved you in.",
+   "start": 4637,
+   "end": 4702
+  },
+  {
+   "fact": "Redd 例证：因餐点做错失控，几分钟杀上百不死人，Merrily 都取不了他性命。",
+   "anchor": "He lost his temper and killed over a hundred immortals in a matter of minutes, because someone made his food wrong.",
+   "start": 8350,
+   "end": 8465
+  },
+  {
+   "fact": "Dante 转述 River 的狱中介绍：监狱出自十七岁少女的自保之举，众人该怪他而非她。",
+   "anchor": "the prison had been created by a seventeen-year-old girl who was trying to protect herself when no one else would",
+   "start": 8758,
+   "end": 8871
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "chapter": "ch09",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch09_chapter_9.txt",
+ "relations": [
+  "River 是 Ophelia 的哥哥，mate 是 siren Jazz；逃出后 River 抱 Jazz 飞天。",
+  "Dante 与 Ophelia 在电梯互念誓词结 bond，心智相连。",
+  "Grayson 是魅魔王、Dante 挚友，与 Merrily 结 mate；Merrily 曾替她杀父。",
+  "她父亲常年施虐，天使法庭拒查判疯；她自跳深渊成 nightmare，先建监狱囚父、后关 River。"
+ ],
+ "facts": [
+  {
+   "fact": "她砸碎第三件陶器（织了八个月魔法、只有一次机会）召唤电梯。",
+   "anchor": "I smashed the vase against the wall, so I wouldn't have to answer them.",
+   "start": 1668,
+   "end": 1739
+  },
+  {
+   "fact": "她把魔力从碎盘抽出裹住两位王室、向电梯魔法隐藏他们。",
+   "anchor": "Pulling my power out of the broken plates and wrapping it around the royals to hide them",
+   "start": 2536,
+   "end": 2624
+  },
+  {
+   "fact": "River 依图织的掩护被她的魔力排斥；井中只剩细弱丝线。",
+   "anchor": "I reached deep into the well of power in my chest, but all I had was thin, weak threads.",
+   "start": 3407,
+   "end": 3495
+  },
+  {
+   "fact": "Dante 打飞来人、Jazz 挥拳助战；River 护盾点亮挡住人群。",
+   "anchor": "River's magic finally blazed to life in the doorway, blocking the crowd on the other side.",
+   "start": 4497,
+   "end": 4587
+  },
+  {
+   "fact": "Dante 提出共念誓词结 bond 就能出去——需要两个人。",
+   "anchor": "\"If we seal a bond, we get out of here. I know the vows, but it takes two.\"",
+   "start": 5116,
+   "end": 5191
+  },
+  {
+   "fact": "互念誓词、魔力爆开心智相连；魔力之井开始加深。",
+   "anchor": "The burst of magic that followed was softer than I expected.",
+   "start": 5662,
+   "end": 5722
+  },
+  {
+   "fact": "她向 River 坦白不是坠落是自己跳下——因哥哥拒绝帮她逃离父亲。",
+   "anchor": "\"I didn't just fall, River.\" I let out a soft breath",
+   "start": 6601,
+   "end": 6653
+  },
+  {
+   "fact": "出狱后 Dante 在车里咬腕吸血，高潮随吸血袭来。",
+   "anchor": "He simply lifted my wrist to his lips, and slowly bit down.",
+   "start": 17468,
+   "end": 17527
+  }
+ ]
+}

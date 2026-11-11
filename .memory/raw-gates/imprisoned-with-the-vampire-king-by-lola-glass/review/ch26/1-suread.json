@@ -1,0 +1,60 @@
+{
+ "chapter": "ch26",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch26_chapter_26.txt",
+ "relations": [
+  "叙述者 Ophelia 唤 Dante Inferno；他隔着 bond 感得到她受苦、感不到疼痛本身。",
+  "Jazz 和 River 送饭，Liv 和 Niall 送塔可和咖啡；她是监狱魔法的建造者，正亲手拆解它。",
+  "他守「你饿或疼时不从你吸血」的规矩；做爱结束 knot 会锁住两人。",
+  "章末她确信自己爱上了他（此前只是 falling in love）。"
+ ],
+ "facts": [
+  {
+   "fact": "几小时后 Jazz 和 River 给我们和随行人员送来食物。",
+   "anchor": "Jazz and River brought us and our entourage food a few hours later.",
+   "start": 32,
+   "end": 99
+  },
+  {
+   "fact": "Dante 估拆解至少剩十二小时、更可能十五小时；就算不停也要到明天午饭时间。",
+   "anchor": "you have at least twelve hours left. Probably more like fifteen. With breaks, even if you don't stop",
+   "start": 1492,
+   "end": 1592
+  },
+  {
+   "fact": "他拍板再留两小时缩短明天时长，然后带我回家，并去通知 fae。",
+   "anchor": "Alright. We'll stay two more hours, so we're not here as long tomorrow.",
+   "start": 2512,
+   "end": 2583
+  },
+  {
+   "fact": "收工时我状态差到他又一次抱我上车。",
+   "anchor": "Dante had to carry me to the car again, by the time I was done.",
+   "start": 3032,
+   "end": 3095
+  },
+  {
+   "fact": "我挣开眼皮见 blackout 窗帘缝隙漏光，才意识到根本不是早晨。",
+   "anchor": "I wrestled my eyelids open and saw a few cracks of light leaking through the places the blackout curtains met",
+   "start": 4298,
+   "end": 4407
+  },
+  {
+   "fact": "我夺过他手机搜 ramen，城里跳出 a dozen 家餐厅，我们出门吃拉面。",
+   "anchor": "It only took a minute to search \"ramen\", and a dozen restaurants in the city popped up.",
+   "start": 6026,
+   "end": 6113
+  },
+  {
+   "fact": "车里他把尖牙咬进我喉咙，我的魔法四周盛开与他的影子交织。",
+   "anchor": "His fangs sank into my throat, flooding me with heat in the way only his bite could.",
+   "start": 9144,
+   "end": 9228
+  },
+  {
+   "fact": "一起到达顶点，knot 锁住身体；我确信自己爱上了他。",
+   "anchor": "his knot locking our bodies together. We held each other's gaze as we went over the edge.",
+   "start": 9855,
+   "end": 9944
+  }
+ ]
+}

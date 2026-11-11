@@ -1,0 +1,60 @@
+{
+ "chapter": "ch16",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch16_chapter_16.txt",
+ "relations": [
+  "Ophelia 与 Dante 是 mate，共享 bond 能脑内对话；Dante 绰号 Inferno。",
+  "Ophelia 是 fallen angel，当年建造监狱魔法；River 与 Jazz 帮她核过地图，River 帮里也有无辜者。",
+  "Reaper 是囚犯头目，从未收过无辜者，长年破坏监狱魔法，还想杀建筑师让监狱崩塌。",
+  "Willard 是她在 Reaper 楼层救出的第一名无辜囚犯，浑身淤青，自任贴身保镖。"
+ ],
+ "facts": [
+  {
+   "fact": "她耗尽魔力十六夜后动身潜回监狱救其余无辜者。",
+   "anchor": "After sixteen nights of exhausting my magic, I was ready to make my trip into the penitentiary",
+   "start": 1336,
+   "end": 1430
+  },
+  {
+   "fact": "Dante 坚决反对她独行，说立刻上车赶来，要她等他。",
+   "anchor": "Wait for me to get there. I'm getting in my car right now",
+   "start": 3438,
+   "end": 3495
+  },
+  {
+   "fact": "她检查发现编织被扭碎撕裂——有人长期攻击，无法修复只能整体解编。",
+   "anchor": "My complex weave had been gnarled. Torn. Shredded in some spots",
+   "start": 6140,
+   "end": 6203
+  },
+  {
+   "fact": "Reaper 冷触须把她拖到牢栏，双手穿栏掐住气道，她的翅膀消失。",
+   "anchor": "Reaper cut off my airway with ease. My wings vanished",
+   "start": 10835,
+   "end": 10888
+  },
+  {
+   "fact": "她把数十根黑暗死线射进 Reaper 手腕，趁松动挣脱逃跑。",
+   "anchor": "I sent dozens of the dark, deadly threads of power I had, straight into the wrists",
+   "start": 11347,
+   "end": 11429
+  },
+  {
+   "fact": "她用极微魔法解锁第一间牢门放出无辜者，警告：她死了电梯就不动。",
+   "anchor": "It only took the tiniest blip of magic to unlock the cell, and I yanked the door open",
+   "start": 12752,
+   "end": 12837
+  },
+  {
+   "fact": "Smith 报告距解锁还有一小时；Dante 命她花三十分钟补魔后建墙。",
+   "anchor": "Spend thirty minutes refueling,\" Dante instructed me. \"We're going to need you to build a wall, Angel",
+   "start": 22091,
+   "end": 22192
+  },
+  {
+   "fact": "最后一批人刚绑好掩护魔法，墙炸成百万黑丝线，电梯门赶在冷触须前关上。",
+   "anchor": "hiding them from my fucked up prison, just as my wall exploded into millions of tiny, onyx threads",
+   "start": 30253,
+   "end": 30351
+  }
+ ]
+}

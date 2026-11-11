@@ -1,0 +1,48 @@
+{
+ "chapter": "ch28",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch28_epilogue.txt",
+ "relations": [
+  "叙述者 Ophelia；Dante 是她的伴侣兼丈夫（她自嘲嫁了个有钱人），他称她 Angel，两人已是彼此最好的朋友。",
+  "River 是家庭圈一员：张罗今晚家庭晚餐并约她上飞行课；她与 River 已翻篇（moving on felt surprisingly nice）。",
+  "Dante 富有、常讲商业计划、会操纵影子；她有自己的魔法丝线，靠捐助碗卖陶器。",
+  "两人是在监狱风波的混乱中走到一起：选定 mate、坠入爱河、成为挚友。"
+ ],
+ "facts": [
+  {
+   "fact": "数月后：Dante 把她的新推车推向 farmer's market 摊位，她警告别摆生意人做派——只让人看。",
+   "anchor": "as he rolled my new, fancy wagon toward our stall at the farmer's market",
+   "start": 106,
+   "end": 178
+  },
+  {
+   "fact": "手机震动：全家都在问今晚五点的家庭晚餐去不去；她点头我们参加。",
+   "anchor": "Everyone wants to know if we're still in for family dinner tonight, at five.",
+   "start": 1501,
+   "end": 1577
+  },
+  {
+   "fact": "Dante 转达 River 的飞行课邀请，她哼一声抱怨上次之后背还酸。",
+   "anchor": "River wants to know if you're in for a flying lesson afterward",
+   "start": 1845,
+   "end": 1907
+  },
+  {
+   "fact": "她让他转告 River 明天或后天可以上课，并打趣要给看摊的 Dante 揉背。",
+   "anchor": "Tell River I can do it tomorrow or the next day.",
+   "start": 2154,
+   "end": 2202
+  },
+  {
+   "fact": "两人默契地一起摆摊——从没一起做过，如今已习惯团队协作。",
+   "anchor": "We unpacked together smoothly. We'd never done it together before, but we'd gotten pretty used to working as a team.",
+   "start": 2344,
+   "end": 2460
+  },
+  {
+   "fact": "她回顾：在监狱的混乱里选定 mate、爱上他、还成了他最好的朋友。",
+   "anchor": "I'd picked a mate, fallen in love with him, and become best friends with him, too",
+   "start": 3219,
+   "end": 3300
+  }
+ ]
+}

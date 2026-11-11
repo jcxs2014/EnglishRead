@@ -1,0 +1,60 @@
+{
+ "chapter": "ch21",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch21_chapter_21.txt",
+ "relations": [
+  "Ophelia 与 Dante 是 mate；此章记录购物日与两人关系模式的磨合。",
+  "Dante 的影子黏在她身上——网络照片只会解读成 mates 关系。",
+  "他一见有人接近就占有欲上街：搭髋、无声挪人、对搭讪者低吼、把她护到身后。",
+  "两种天使都有磁力；她开始更喜欢 dark angel 这个称呼而不是 fallen。"
+ ],
+ "facts": [
+  {
+   "fact": "购物日他买便装、坚持给她买一堆不需要的东西——她无法假装不喜欢的模式。",
+   "anchor": "He found himself some casual clothing, and insisted on buying me more things than I needed",
+   "start": 142,
+   "end": 232
+  },
+  {
+   "fact": "有人偷拍两人合照，网络一定会传——影子这样缠着她只会被读成 mates。",
+   "anchor": "Considering the way his shadows clung to me, there was no way the internet was going to think we were anything but mates.",
+   "start": 530,
+   "end": 651
+  },
+  {
+   "fact": "有男子想搭讪，Dante 胸腔低鸣示警，她被护到背后。",
+   "anchor": "His chest rumbled in warning when a man attempted to start a conversation with me.",
+   "start": 934,
+   "end": 1016
+  },
+  {
+   "fact": "她越想越喜欢 dark angel 这个说法而不是 fallen。",
+   "anchor": "And the more I thought about it, the more I liked the idea of being a dark angel, instead of fallen.",
+   "start": 1170,
+   "end": 1270
+  },
+  {
+   "fact": "沙发上她用意念提点：请 mate 依偎不是犯罪。",
+   "anchor": "\"It's not a crime to ask your mate to snuggle with you,\" I murmured into his mind.",
+   "start": 2256,
+   "end": 2338
+  },
+  {
+   "fact": "两天没喂食的 Dante 在她睡梦中不受控变形：红眼长角尾巴缠腿。",
+   "anchor": "His eyes were red.",
+   "start": 4139,
+   "end": 4157
+  },
+  {
+   "fact": "她反问：你真的在为需要吃饭道歉吗？",
+   "anchor": "\"Are you really apologizing for needing to eat, Dante?\"",
+   "start": 4603,
+   "end": 4658
+  },
+  {
+   "fact": "缠绵后他下令开始造清单——把其他男人从她脑子里全部抹掉。",
+   "anchor": "\"Start making the list, Ophelia.\"",
+   "start": 12520,
+   "end": 12553
+  }
+ ]
+}

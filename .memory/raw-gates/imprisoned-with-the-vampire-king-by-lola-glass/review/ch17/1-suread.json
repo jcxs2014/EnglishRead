@@ -1,0 +1,60 @@
+{
+ "chapter": "ch17",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch17_chapter_17.txt",
+ "relations": [
+  "Ophelia 与 Dante 是 mate；他唤她 Angel；她脖带 Reaper 掐的淤青。",
+  "Reaper 多年缓慢撕裂监狱魔法，几乎毁掉她立的全部规则。",
+  "Dante 从 River 处得知结构损伤，宣布亲自带队处理 Reaper，不许她再下监狱。",
+  "Dante 宣布搬进她的住所同床共枕，行李已候门外。"
+ ],
+ "facts": [
+  {
+   "fact": "她在 Dante 胸口醒来，他目光落在颈上淤青，怒火顺 bond 翻涌。",
+   "anchor": "His gaze dipped to the bruises around my throat, and his anger swelled, rolling through the bond",
+   "start": 470,
+   "end": 566
+  },
+  {
+   "fact": "她把 Dante 不在场时发生的一切讲给他听。",
+   "anchor": "I quietly told him about everything he hadn’t been there for",
+   "start": 1383,
+   "end": 1443
+  },
+  {
+   "fact": "她报告：Reaper 缓慢撕裂+她此番解编，剩余规则多半已毁，电梯是最后防线。",
+   "anchor": "Reaper has been tearing it away slowly. It's pretty bad. With all of the unraveling I just did",
+   "start": 1607,
+   "end": 1701
+  },
+  {
+   "fact": "Dante 禁止她在清空前再下去，宣布亲自带队处理 Reaper。",
+   "anchor": "Not until it's empty. I'll lead the group myself to deal with Reaper. You're not going back",
+   "start": 2228,
+   "end": 2319
+  },
+  {
+   "fact": "怒气量表：A solid nine；下电梯之前是 eleven。",
+   "anchor": "I was an eleven before I made it down that elevator",
+   "start": 2592,
+   "end": 2643
+  },
+  {
+   "fact": "Dante 宣布不再给空间：搬进来同住同床共享生活。",
+   "anchor": "There will be no more space,\" he stated. \"I'll be living here with you. Sharing a bed with you",
+   "start": 4168,
+   "end": 4262
+  },
+  {
+   "fact": "他抚她的淤青威胁：再敢独自冒险就锁进这栋房子。",
+   "anchor": "If you ever risk yourself without me there to protect you again, I will lock you in this house",
+   "start": 4760,
+   "end": 4854
+  },
+  {
+   "fact": "她走出视线后靠墙，消化他要搬进来、让她喜欢上 mate 关系的决定。",
+   "anchor": "I leaned heavily against the wall after I was out of his sight, separating myself from the gigantic vampire",
+   "start": 5369,
+   "end": 5476
+  }
+ ]
+}

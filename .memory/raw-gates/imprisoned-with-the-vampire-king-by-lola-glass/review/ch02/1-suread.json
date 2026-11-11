@@ -1,0 +1,60 @@
+{
+ "chapter": "ch02",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch02_chapter_2.txt",
+ "relations": [
+  "Dante 是 Shiv 的 left-hand man；Jazz 是 Shiv 的 right-hand 兼 mate——没有 Shiv 她无法离开监狱，且只能吸食 Shiv 的血。",
+  "Grayson Darke 是 incubus king，与 Dante 和 Jazz 基本是家人。",
+  "Jazz 是 siren queen；狱中叫 Jazz，外界多叫 Jasmine。",
+  "Shiv 是未堕落天使，试过数百次堕落都没挺过痛苦。"
+ ],
+ "facts": [
+  {
+   "fact": "吸血鬼咬人即算见血，罚关十二小时禁闭。",
+   "anchor": "Solitary confinement. Twelve hours there is the consequence for drawing blood.",
+   "start": 375,
+   "end": 453
+  },
+  {
+   "fact": "Dante 听出背包里的玻璃声，得知 Ophelia 把陶器带进监狱。",
+   "anchor": "You carried pottery into a prison full of deadly immortal psychopaths?",
+   "start": 3669,
+   "end": 3739
+  },
+  {
+   "fact": "Ophelia 交底：有人派她来救 Dante 和 Jazz，陶器是工具。",
+   "anchor": "Someone sent me to get you and Jazz out of here. The pottery is supposed to help.",
+   "start": 4758,
+   "end": 4839
+  },
+  {
+   "fact": "Dante 亮明：Jazz 是 Shiv 的 mate，没有他走不掉、只能吸他的血。",
+   "anchor": "And she's his mate. She can't leave this place without him. He's the only person she can feed on.",
+   "start": 5973,
+   "end": 6070
+  },
+  {
+   "fact": "得知 Shiv 是天使后 Ophelia 强压恐慌——内阁被严令不得关押天使。",
+   "anchor": "The Cabinet was under strict orders not to put angels into the prison, and they did their own thing in our city, anyway.",
+   "start": 6616,
+   "end": 6736
+  },
+  {
+   "fact": "Dante 甩出已被关十二年，逼 Ophelia 展翅验明身份。",
+   "anchor": "I've been locked in this hellhole for twelve fucking years, and we both know you're not a pixie.",
+   "start": 7704,
+   "end": 7800
+  },
+  {
+   "fact": "Ophelia 放出黑灰紫翅膀，Dante 问她何时堕落。",
+   "anchor": "My feathers weren't white and silver, like most angels'. They were black, dark gray, and deep, dusty purple.",
+   "start": 8715,
+   "end": 8823
+  },
+  {
+   "fact": "Dante 从她翅膀抠出干陶土；她承认陶器存着魔力、几乎全部魔法封在监狱里。",
+   "anchor": "I did. It's storing some of my power. Almost all of my magic lives in the prison, so I can't access it.",
+   "start": 9324,
+   "end": 9427
+  }
+ ]
+}

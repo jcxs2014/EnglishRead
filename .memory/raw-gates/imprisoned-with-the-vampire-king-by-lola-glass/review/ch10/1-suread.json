@@ -1,0 +1,60 @@
+{
+ "chapter": "ch10",
+ "text": "notes/books/novels/imprisoned-with-the-vampire-king-by-lola-glass/text/ch10_chapter_10.txt",
+ "relations": [
+  "Dante 被囚十二年后重获自由，王座曾被他人占据；Ophelia 是与他结契供血的 mate（堕落天使）。",
+  "Jazz 是 Dante 旧友（不喜欢 knotting 的女恶魔），mate 是 River。",
+  "Grayson 的 mate 是 fae 女王；Dante 被囚期间生意由 Grayson 出钱雇人维持。",
+  "Ophelia 建造了 penitentiary；Dante 和 Jazz 本不该被关，River 被她囚了一个世纪。"
+ ],
+ "facts": [
+  {
+   "fact": "Dante 与 Grayson 取回封存物品；Grayson 邀 mate 同行被 fae 女王拒绝。",
+   "anchor": "All of our stuff had been in storage, but we went with Grayson to pick it up. He'd asked his mate",
+   "start": 308,
+   "end": 405
+  },
+  {
+   "fact": "Jazz 要求把门开着，防 Ophelia 听到流言。",
+   "anchor": "Leave it open. I don't want rumors circulating. River trusts us, but the last thing we need",
+   "start": 5617,
+   "end": 5708
+  },
+  {
+   "fact": "Jazz 警告：Ophelia 可能被 knot 伤进医院——在 penitentiary 受那种伤会死。",
+   "anchor": "She could've ended up in the hospital! People who get that hurt in the penitentiary die.",
+   "start": 8855,
+   "end": 8943
+  },
+  {
+   "fact": "Dante 辩护：她的魔法像黑夜、童年受虐、独立又内向——不叫疯。",
+   "anchor": "Her magic feels like night, she was tortured as a child, and she's both independent and an introvert.",
+   "start": 9508,
+   "end": 9609
+  },
+  {
+   "fact": "Dante 说她花了近一年准备救两人的陶器。",
+   "anchor": "It took her nearly a year to get the pottery ready for the two of us.",
+   "start": 11392,
+   "end": 11461
+  },
+  {
+   "fact": "Dante 说车里咬过她，可以隔天再进食。",
+   "anchor": "I bit her in the car. I can wait until the day after tomorrow.",
+   "start": 11956,
+   "end": 12018
+  },
+  {
+   "fact": "Grayson 端两盘家常饭到门口，两人肚子立刻叫。",
+   "anchor": "Both of our heads turned as Grayson stepped into the doorway with two plates of home-cooked food.",
+   "start": 12460,
+   "end": 12557
+  },
+  {
+   "fact": "Dante 定计划：接下来两天收复最大生意并走访经营者。",
+   "anchor": "The next two days would be about retaking control of my largest businesses, and driving around",
+   "start": 14171,
+   "end": 14265
+  }
+ ]
+}
