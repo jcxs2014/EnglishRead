@@ -1,0 +1,55 @@
+{
+ "book": "i-m-not-scared-omnibus-by-jaye-pratt",
+ "chapter": "ch19",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch19_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "Rogue 强制 Kayla 停班一周，声明不可谈判",
+   "anchor": "This is non-negotiable. I could have fired you, but I didn’t",
+   "start": 555,
+   "end": 615
+  },
+  {
+   "fact": "Kayla 被黄色花送回前任 Aaron 的道歉表演史：道歉是控制手段",
+   "anchor": "Aaron used to bring me flowers to say sorry, but he was never truly sorry; it was a performance, a way to keep me quiet and sweep our issues under the rug",
+   "start": 2923,
+   "end": 3077
+  },
+  {
+   "fact": "Aaron 以赞美启动、逐步改写 Kayla 的穿着，操纵在不知不觉中生效",
+   "anchor": "Without realizing it, I dressed in clothes he wanted me to wear, but I was so blind to his manipulation",
+   "start": 3408,
+   "end": 3511
+  },
+  {
+   "fact": "Kayla 区分 Vero 与 Aaron：危险不同，但失控那夜她重新体验了无控制感",
+   "anchor": "Not because I think Vero is dangerous to me like Aaron was, but because Vero loves hard",
+   "start": 5626,
+   "end": 5713
+  },
+  {
+   "fact": "Vesper 翻窗亲口交代：Vero 爬上屋顶不下来，她把他推了下去、Karo 垫子接住",
+   "anchor": "I pushed him off. It was the highlight of my week watching him fall",
+   "start": 8543,
+   "end": 8610
+  },
+  {
+   "fact": "花是 Vero 挑的：黄色在 Brawley 的说法里象征友谊，Vesper 直言不懂谁要和 Vero 做朋友",
+   "anchor": "Yellow was Vero’s idea",
+   "start": 9183,
+   "end": 9205
+  },
+  {
+   "fact": "Vesper 声明她为 Brawley 而非 Vero 而来，并警告 Kayla 快逃",
+   "anchor": "I would run if I were you. I’m not here because I care about him—I care about Brawley",
+   "start": 8873,
+   "end": 8958
+  },
+  {
+   "fact": "Vesper 留下判断：Vero 不会很快从这次里走出来，怎么用这信息不是她的事",
+   "anchor": "He won’t come out of this one quickly",
+   "start": 9497,
+   "end": 9534
+  }
+ ]
+}
