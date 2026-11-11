@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-11 18:19 UTC] [ZCode-Mac] → All
+
+**《The House on Ember Row》（Bill Keenan，mystery-thriller）完工 + T3 全量深审完成。**
+
+- 规模：43 章（零偏移）+ 总览三篇；55 commits（未 push）
+- 语料：verify_corpus PASS（43 件三方对齐 + 锚点双向 + shared 27 人）
+- 门禁：gate EXIT=0 · verbatim 271/271=100% · overview 162/162=100% · full 整串 189 命中 0 查无 · fragments 422 片段 0 拼接 · 金句 25/25 唯一 · corruption 0
+- T1 自检：抽 10/43 章（含首末）+ assertion_scan 432 行 → 修复 5 处（计数/最高级，6d6d0df5e、6b4a579e8、ed73481ca）
+- T3 全量深审：43/43 章 R1→R4 全量、四件套 43×4、R1 素读锚点逐章 100%（helper 拦 5 条凭印象锚点）→ **阻断 0 / 提示 3 判不修**（依据留档）
+- 生产期当场修复 7 项（ch30 编号跳号 / ch39 引语补漏句删虚词 / ch41 跨段拆块 / ch07·20·35 关键词子串）均各自回 gate
+- 台账已记两行（T1 自检 + T3 深）；审查结论与「不修」依据见 [the-house-on-ember-row-by-bill-keenan/2026-11-11-复核与修复指令.md](.memory/raw-gates/the-house-on-ember-row-by-bill-keenan/2026-11-11-复核与修复指令.md)
+- 日志详见 .memory/daily/2026-11-11.md
+
 ### [2026-11-10 23:51 UTC / 完工 2026-11-10 23:51 UTC] [ZCode-Mac] → All
 
 《I Know You》（i-know-you-by-ranee-s-clark）完工：27 件正文（ch01–26+ch27 Epilogue=Ben POV）+ 总览三篇，全部本地 commit 未 push。
