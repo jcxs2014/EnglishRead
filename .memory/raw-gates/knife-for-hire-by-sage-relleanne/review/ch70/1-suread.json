@@ -1,0 +1,43 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch70",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch70_epilogue.txt",
+ "facts": [
+  {
+   "fact": "两年后。",
+   "anchor": "Two Years Later",
+   "start": 36,
+   "end": 51
+  },
+  {
+   "fact": "厨房像上了油的机器。",
+   "anchor": "well-oiled machine",
+   "start": 121,
+   "end": 139
+  },
+  {
+   "fact": "那个女孩判若两人。",
+   "anchor": "a far cry from the woman",
+   "start": 595,
+   "end": 619
+  },
+  {
+   "fact": "酱要澥了。",
+   "anchor": "The sauce is breaking!",
+   "start": 674,
+   "end": 696
+  },
+  {
+   "fact": "我从来都不倒霉。",
+   "anchor": "I never was unlucky.",
+   "start": 7932,
+   "end": 7952
+  },
+  {
+   "fact": "我是世界上最幸运的人。",
+   "anchor": "the luckiest person in the world",
+   "start": 8133,
+   "end": 8165
+  }
+ ]
+}

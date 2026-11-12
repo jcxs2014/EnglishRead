@@ -1,0 +1,43 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch63",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch63_63_the_only_dish_on_his_menu.txt",
+ "facts": [
+  {
+   "fact": "恐惧像气球胀满他。",
+   "anchor": "fills me up like a balloon",
+   "start": 70,
+   "end": 96
+  },
+  {
+   "fact": "最后一家工厂。",
+   "anchor": "the only factory left",
+   "start": 147,
+   "end": 168
+  },
+  {
+   "fact": "Reuben 给他退路。",
+   "anchor": "you don’t have to go in",
+   "start": 309,
+   "end": 332
+  },
+  {
+   "fact": "两人曾决定杀父。",
+   "anchor": "kill our dads",
+   "start": 479,
+   "end": 492
+  },
+  {
+   "fact": "Orzo 说知道是他们干的。",
+   "anchor": "I know you two killed him.",
+   "start": 635,
+   "end": 661
+  },
+  {
+   "fact": "还有五分钟。",
+   "anchor": "We’re five minutes out.",
+   "start": 1565,
+   "end": 1588
+  }
+ ]
+}

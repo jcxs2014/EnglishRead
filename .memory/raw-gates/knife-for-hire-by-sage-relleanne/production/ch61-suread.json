@@ -1,0 +1,43 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch61",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch61_61_exposing_the_rotten_core.txt",
+ "facts": [
+  {
+   "fact": "她被吊在液罐上方。",
+   "anchor": "Hanging above a vat",
+   "start": 54,
+   "end": 73
+  },
+  {
+   "fact": "绑匪是当年闯寄养家庭的人。",
+   "anchor": "The man who broke into my foster home",
+   "start": 1269,
+   "end": 1306
+  },
+  {
+   "fact": "他自报身份。",
+   "anchor": "I’m Romaine Aldente",
+   "start": 2205,
+   "end": 2224
+  },
+  {
+   "fact": "三十五年前的婚约。",
+   "anchor": "Thirty-five years ago",
+   "start": 3327,
+   "end": 3348
+  },
+  {
+   "fact": "她问他是不是 Kale 的父亲。",
+   "anchor": "Are you Kale’s dad?",
+   "start": 4161,
+   "end": 4180
+  },
+  {
+   "fact": "她是 Barley 家最后一个女儿。",
+   "anchor": "the last daughter of the Barleys",
+   "start": 4540,
+   "end": 4572
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch55",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch55_55_in_a_pickle.txt",
+ "facts": [
+  {
+   "fact": "两人在雨里迷路。",
+   "anchor": "We’re lost.",
+   "start": 38,
+   "end": 49
+  },
+  {
+   "fact": "加油站不归他们的镇。",
+   "anchor": "a gas station in a town that isn’t ours",
+   "start": 369,
+   "end": 408
+  },
+  {
+   "fact": "两人在父母死的那一夜相识。",
+   "anchor": "the night our parents died",
+   "start": 957,
+   "end": 983
+  },
+  {
+   "fact": "Orzo 拿枪要手机。",
+   "anchor": "Give me your phone",
+   "start": 1967,
+   "end": 1985
+  },
+  {
+   "fact": "Kale 说自己不再是 Aldente。",
+   "anchor": "We met the night our parents died",
+   "start": 950,
+   "end": 983
+  },
+  {
+   "fact": "他拼出两个 Jones。",
+   "anchor": "Sherry Jones",
+   "start": 5074,
+   "end": 5086
+  },
+  {
+   "fact": "迹象指向同一个 Sherry。",
+   "anchor": "all signs point to the fact that she is",
+   "start": 5193,
+   "end": 5232
+  }
+ ]
+}

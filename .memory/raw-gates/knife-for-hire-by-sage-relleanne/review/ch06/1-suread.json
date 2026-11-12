@@ -1,0 +1,73 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch06_6_there_s_meat_inside.txt",
+ "facts": [
+  {
+   "fact": "设计师对着她发的菜品照片一本正经问：加密了吗？里面藏了什么？",
+   "anchor": "Web designer: is it encrypted? What’s hidden inside?",
+   "start": 339,
+   "end": 391
+  },
+  {
+   "fact": "Cinnamon 哭笑不得：他该不会不知道什么是烤馅饼吧。",
+   "anchor": "Encrypted? Hidden inside? Does he not know what an empanada is?",
+   "start": 394,
+   "end": 457
+  },
+  {
+   "fact": "设计师说帮她免费修好了 logo。",
+   "anchor": "Web designer: I see. I fixed your logo too, free of charge.",
+   "start": 498,
+   "end": 557
+  },
+  {
+   "fact": "网站正式上线，密码是 password123，设计师祝她好运。",
+   "anchor": "Web designer: knifeforhire.carrot is now active—password-password123. Good luck",
+   "start": 941,
+   "end": 1020
+  },
+  {
+   "fact": "设计师退出聊天，Cinnamon 心里泛起一阵奇怪的失落。",
+   "anchor": "Web designer has left the chat.",
+   "start": 1157,
+   "end": 1188
+  },
+  {
+   "fact": "深夜 Durian 醉酒来电要她去夜店接人，Olive 跟新认识的男人跑了。",
+   "anchor": "“Cinnnnnamonnnnnnnnnnnnnn, I need a ride home. Olive ran off with a new mannnnnnnnnn.”",
+   "start": 1980,
+   "end": 2066
+  },
+  {
+   "fact": "Durian 用旧情要挟：他曾替撞警车的她收拾过烂摊子。",
+   "anchor": "“Don’t you love me? I came and bailed you out after you hit that cop car.”",
+   "start": 2120,
+   "end": 2194
+  },
+  {
+   "fact": "夜店所在街区出了名的危险，比她家那片还糟。",
+   "anchor": "The one in a notoriously dangerous neighborhood in our town, even worse than mine.",
+   "start": 2666,
+   "end": 2748
+  },
+  {
+   "fact": "她对鼻梁断裂的声音再熟悉不过。",
+   "anchor": "I am all too familiar with the sound of my nose breaking.",
+   "start": 3568,
+   "end": 3625
+  },
+  {
+   "fact": "陌生男子听到她的名字后，嗓音明显变了。",
+   "anchor": "“Cinnamon?” The stranger’s voice has changed.",
+   "start": 4470,
+   "end": 4515
+  },
+  {
+   "fact": "车开到半路她才发现，那件陌生人的衬衫还攥在自己手里。",
+   "anchor": "It is only once I am half-way to Durian’s that I realize the stranger’s shirt is still in my hand.",
+   "start": 4964,
+   "end": 5062
+  }
+ ]
+}

@@ -4,52 +4,58 @@
  "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch00_prologue.txt",
  "facts": [
   {
-   "fact": "七岁的 Cinnamon 深夜跟着妈妈站在一辆破拖车屋外，困倦地拉妈妈的衣角。",
-   "anchor": "We are outside a dilapidated trailer, it’s the middle of the night, and I’m sleepy.",
-   "start": 88,
-   "end": 171
-  },
-  {
-   "fact": "妈妈向开门的 Herb 抱怨他给的货没感觉，把塑料袋砸回他胸口。",
-   "anchor": "“You gave me bullshit. It didn’t feel like anything.”",
+   "fact": "母亲把一袋货砸回男人胸口抱怨没感觉。",
+   "anchor": "“You gave me bullshit. It didn’t feel like anything.” My mommy throws a plastic bag at his chest.",
    "start": 483,
-   "end": 536
+   "end": 580
   },
   {
-   "fact": "Herb 让母女俩进屋，说他有新货，屋里除了他们没有别人。",
-   "anchor": "“Fuck, fine, get inside. I got some new shit.”",
-   "start": 1136,
-   "end": 1182
+   "fact": "男人点名让孩子也进屋。",
+   "anchor": "“No, bring her.” Herb’s lips twitch as he takes me in.",
+   "start": 1289,
+   "end": 1343
   },
   {
-   "fact": "十来岁的少年 Orzo 报上名字，让 Cinnamon 睡他的床，自己出去守着。",
-   "anchor": "Orzo. Get some sleep Cinnamon, I’ll wake you up when it’s time to go.",
-   "start": 3612,
-   "end": 3681
+   "fact": "厨房里 Maple 已经在。",
+   "anchor": "Maple is in there already",
+   "start": 2083,
+   "end": 2108
   },
   {
-   "fact": "Orzo 把一只紫条纹青蛙玩偶塞给 Cinnamon，说它是别人给他保平安的，也会保她。",
+   "fact": "少年主动说看她。",
+   "anchor": "“I’ll watch her.”",
+   "start": 2363,
+   "end": 2380
+  },
+  {
+   "fact": "她说自己七岁。",
+   "anchor": "“Seven.” I hold up two hands to show him that.",
+   "start": 3116,
+   "end": 3162
+  },
+  {
+   "fact": "少年报名字 Orzo。",
+   "anchor": "“Orzo. Get some sleep Cinnamon",
+   "start": 3611,
+   "end": 3641
+  },
+  {
+   "fact": "他把紫条纹青蛙给她保平安。",
    "anchor": "It was given to me to keep me safe and it will do the same for you.",
    "start": 3805,
    "end": 3872
   },
   {
-   "fact": "Cinnamon 被喊声惊醒：门外的人喊血从他们眼睛里漏出来、是绿色的，三个人都死了。",
-   "anchor": "“Blood is leaking out their fucking eyes! It’s green!”",
-   "start": 4308,
-   "end": 4362
+   "fact": "喊声：三个人都死了。",
+   "anchor": "“All three are dead!”",
+   "start": 4365,
+   "end": 4386
   },
   {
-   "fact": "推门进来的不是 Orzo 而是一名女警，她把 Cinnamon 抱起来问她好不好。",
-   "anchor": "Except it isn’t Orzo who is in the room with me.",
-   "start": 4483,
-   "end": 4531
-  },
-  {
-   "fact": "Cinnamon 问妈妈和 Orzo 在哪，女警眼眶发湿，只说一切没事、她来照顾她。",
-   "anchor": "“Everything is okay. I’ve got you,”",
-   "start": 4740,
-   "end": 4775
+   "fact": "女警进来把她抱起来。",
+   "anchor": "“There’s a child in here!” She gathers me up in my arms.",
+   "start": 4556,
+   "end": 4612
   }
  ]
 }

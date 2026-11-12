@@ -1,0 +1,37 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch62",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch62_62_the_right_to_romaine_silent.txt",
+ "facts": [
+  {
+   "fact": "他说耻辱要圆满收场。",
+   "anchor": "coming full circle",
+   "start": 130,
+   "end": 148
+  },
+  {
+   "fact": "他拍下控制板。",
+   "anchor": "My hand slams on the panel",
+   "start": 192,
+   "end": 218
+  },
+  {
+   "fact": "他踩进铁链。",
+   "anchor": "my foot steps in the chains",
+   "start": 294,
+   "end": 321
+  },
+  {
+   "fact": "两人悬在酸液上方。",
+   "anchor": "above the acid",
+   "start": 557,
+   "end": 571
+  },
+  {
+   "fact": "他按下面板却毫无反应。",
+   "anchor": "but nothing happens",
+   "start": 220,
+   "end": 239
+  }
+ ]
+}

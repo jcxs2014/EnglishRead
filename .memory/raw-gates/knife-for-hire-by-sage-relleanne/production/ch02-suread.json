@@ -4,52 +4,58 @@
  "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch02_2_rolling_in_the_dough.txt",
  "facts": [
   {
-   "fact": "Cinnamon 深夜改简历，抱怨自己作为 The Marbled Bison 的副主厨被开除。",
-   "anchor": "“How can The Marbled Bison fire me? I was their sous chef! It’s not my fault,”",
+   "fact": "章首时间：六个月之后。",
+   "anchor": "Six Months After That",
+   "start": 48,
+   "end": 69
+  },
+  {
+   "fact": "她被 The Marbled Bison 开除。",
+   "anchor": "“How can The Marbled Bison fire me? I was their sous chef!",
    "start": 523,
-   "end": 601
+   "end": 581
   },
   {
-   "fact": "好友 Olive 在人气乐队里赚钱，而 Cinnamon 只能真的去揉面团。",
-   "anchor": "Not everyone could be in a popular band and rolling in the dough.",
-   "start": 838,
-   "end": 903
+   "fact": "Durian 在她床上打鼾。",
+   "anchor": "Our other friend Durian is sprawled out, snoring beside her.",
+   "start": 392,
+   "end": 452
   },
   {
-   "fact": "床头柜上放着那只茄子条纹、已经破损的青蛙玩偶，六个月前她刚缝补过它。",
-   "anchor": "My attention flicks to the eggplant striped and tattered frog on the nightstand next to my bed.",
-   "start": 942,
-   "end": 1037
+   "fact": "破青蛙是六个多月前缝补的。",
+   "anchor": "The one that I had sewn up just over six months ago.",
+   "start": 1038,
+   "end": 1090
   },
   {
-   "fact": "青蛙帮她逃离了可怕的原生家庭，此后辗转寄养家庭，直到十二岁被远房姑婆收养。",
-   "anchor": "I had been tossed from foster home to foster home until, at the age of twelve, a distant great aunt came out of the woodwork to take me in.",
-   "start": 1227,
-   "end": 1366
+   "fact": "十二岁被远房姑婆收养。",
+   "anchor": "at the age of twelve, a distant great aunt came out of the woodwork to take me in",
+   "start": 1284,
+   "end": 1365
   },
   {
-   "fact": "Olive 提议做私人厨师后，Cinnamon 灵光一闪决定当「受雇之刀」，要建网站接单。",
-   "anchor": "“A knife for hire! That’s what I’ll do! I just need to set up a website.",
+   "fact": "Olive 建议做私人厨师。",
+   "anchor": "“Why don’t you just go into the private chef business?",
+   "start": 1400,
+   "end": 1454
+  },
+  {
+   "fact": "她决定做「受雇之刀」。",
+   "anchor": "“A knife for hire! That’s what I’ll do!",
    "start": 2217,
-   "end": 2289
+   "end": 2256
   },
   {
-   "fact": "她与姑婆 Sherry 谈条件：Sherry 出几百美元建站，一个月还不上就连本带利替她卖新药。",
-   "anchor": "“What about this, you pay for me to get my website up and running—it should only be a couple hundred dollars—and if I can’t pay you back with interest in the month, I will sell at least one new product for you.”",
-   "start": 3427,
-   "end": 3638
+   "fact": "与 Sherry 的条件：还不上就卖一件新产品。",
+   "anchor": "if I can’t pay you back with interest in the month, I will sell at least one new product for you",
+   "start": 3540,
+   "end": 3636
   },
   {
-   "fact": "Sherry 安慰她被开除不是她的错，宇宙也许正把她引向一条她一直想逃开的路。",
-   "anchor": "“It’s not your fault, sweetheart. Sometimes the universe works in a mysterious way",
+   "fact": "Sherry 说这不是她的错。",
+   "anchor": "“It’s not your fault, sweetheart.",
    "start": 4027,
-   "end": 4109
-  },
-  {
-   "fact": "相处多年以来 Cinnamon 一直给 Sherry 惹麻烦，厄运似乎跟着她走。",
-   "anchor": "I was always causing problems for her, because bad luck seemed to follow me wherever I went.",
-   "start": 3915,
-   "end": 4007
+   "end": 4060
   }
  ]
 }

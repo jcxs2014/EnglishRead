@@ -1,0 +1,79 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch05_5_once_a_salad_always_a_salad.txt",
+ "facts": [
+  {
+   "fact": "警探坚持自己姓 Smith，无数次纠正上司喊他 Aldente。",
+   "anchor": "“It’s Smith.” I spin in my chair, pushing my glasses up my nose, and correcting him for the five-hundredth time.",
+   "start": 195,
+   "end": 307
+  },
+  {
+   "fact": "警长 Cacao 咬定他是 Aldente 家的人，抱怨数字组半年没交进度。",
+   "anchor": "“No, you’re an Aldente.” He jabs a finger at my head. “You were assigned to the digital division, but I haven’t received a single fucking update.”",
+   "start": 628,
+   "end": 774
+  },
+  {
+   "fact": "无论他是否脱离犯罪家族，警长永远把他当 Aldente 看待。",
+   "anchor": "Once an Aldente. Always an Aldente.",
+   "start": 988,
+   "end": 1023
+  },
+  {
+   "fact": "他向警长汇报自己似乎挖到了一名本地杀手。",
+   "anchor": "“Yes, I think I have uncovered a local hit man. But I’m not sure yet how it will progress.”",
+   "start": 1385,
+   "end": 1476
+  },
+  {
+   "fact": "警长曾帮他脱困，作为交换他承诺走正道当警探。",
+   "anchor": "“The captain helped me out of a tight spot,” I clip back. And he had. In exchange, I promised to walk the straight and narrow.",
+   "start": 2540,
+   "end": 2666
+  },
+  {
+   "fact": "他答应在警队干满五年，弥补前五年犯下的无数错误。",
+   "anchor": "I promised him five years on the force, doing well to offset the last five years I spent making countless mistakes…",
+   "start": 2723,
+   "end": 2838
+  },
+  {
+   "fact": "他承认自己已经越界：在暗网建站、配 VPN、建邮箱、收款。",
+   "anchor": "I had probably already done more than I should. Setting up the website on the dark web, adding a VPN and security measures. Creating an email. Taking payment.",
+   "start": 4376,
+   "end": 4534
+  },
+  {
+   "fact": "直到对方要 .carrot 域名，他才确定这是「那种」网站。",
+   "anchor": "At first I wasn’t sure if the person wanted that type of website, but then they asked for .carrot and I knew.",
+   "start": 4537,
+   "end": 4646
+  },
+  {
+   "fact": "付款走加密货币进警局专用账户，网站里还被植入木马以监控访问者。",
+   "anchor": "The money was sent via crypto to the station’s account used for situations just like this. I put my own trojan horse inside the website I set up, so I would have access to anyone who went to it.",
+   "start": 4711,
+   "end": 4905
+  },
+  {
+   "fact": "他看着网站内容纳闷：谁会公开宣传自己是「受雇之刀」？",
+   "anchor": "Who the fuck advertises being a knife for hire?",
+   "start": 5373,
+   "end": 5420
+  },
+  {
+   "fact": "他顺手改了对方的 logo 设计，搜遍硬盘却一无所获。",
+   "anchor": "I can’t help myself from making a few changes and tweaks. After that, I search the rest of the hard drive…but I don’t find anything.",
+   "start": 5444,
+   "end": 5576
+  },
+  {
+   "fact": "照片文件夹里竟然有几千张照片，他震惊地问这是什么人的把戏。",
+   "anchor": "There are thousands.",
+   "start": 6126,
+   "end": 6146
+  }
+ ]
+}
