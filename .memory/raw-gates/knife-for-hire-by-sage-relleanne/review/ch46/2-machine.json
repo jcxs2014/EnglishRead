@@ -1,0 +1,331 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/ch46 sandwiched between two footlongs.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch46_46_sandwiched_between_two_footlongs.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The liquor hits harder than I expect, combined with a freedom I reserve for clubs, I dance longer than usual. Egged on b",
+          "ok": true,
+          "pos": 50
+        },
+        {
+          "text": "All I need is Reuben, and this would be perfect. The thoughts hit me out of nowhere, and I don't allow my imagination to",
+          "ok": true,
+          "pos": 255
+        },
+        {
+          "text": "Desire is a battering ram, and the longer I am wedged between the men, the more it breaks down my inhibitions",
+          "ok": true,
+          "pos": 570
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I know there's a problem before I make it out there. The door is open to the outside and screaming comes through it. But",
+          "ok": true,
+          "pos": 1076
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Durian has his arm wrapped around the girl from earlier. The one who had been puking, who could barely stand",
+          "ok": true,
+          "pos": 1547
+        },
+        {
+          "text": "She was the hostess I scared at the restaurant where I was meant to pick up the cinnamon. But then I take her in. Her sh",
+          "ok": true,
+          "pos": 1694
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"You were never my friend,\" I clip out. Durian reaches for me, and I wince away. But then two hands stop him. John and O",
+          "ok": true,
+          "pos": 2576
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"There was a creep dragging me behind a dumpster",
+          "ok": true,
+          "pos": 3594
+        },
+        {
+          "text": "\" \"Taken care of,\" Olive advises. \"Before anything could happen.\" The girl relaxes, all the energy leaving her body. \"My",
+          "ok": true,
+          "pos": 3643
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Well that was insane.\" Olive turns to me and offers an intense gaze. \"Why are you associating with a Roux?\" \"What?\" I a",
+          "ok": true,
+          "pos": 4340
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"That's the boy who gave you this frog?!\" Olive exclaims, falling back on my bed",
+          "ok": true,
+          "pos": 4729
+        },
+        {
+          "text": "\"No,\" I admit with a shrug, squeezing the stuffed animal to me like it will magically provide some sort of comfort. Exce",
+          "ok": true,
+          "pos": 5164
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"Cin.\" She stares at me appraisingly. \"What if",
+          "ok": true,
+          "pos": 5547
+        },
+        {
+          "text": "What if Orzo isn't a good guy? From what you have told me, you know your mom wasn't associated with the best people, and",
+          "ok": true,
+          "pos": 5592
+        },
+        {
+          "text": "situation.\" She's referring to the last time I got too close to a man. To the one who lived next door before Bran",
+          "ok": true,
+          "pos": 5732
+        }
+      ],
+      "words": 58
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 105,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. Sandwiched Between Two Footlongs",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5,
+      6
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1125,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 70 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
