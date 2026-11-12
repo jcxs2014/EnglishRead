@@ -1,0 +1,61 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch06_5_capital_of_arkendrath.txt",
+ "facts": [
+  {
+   "fact": "她的部下 Areneas=Noxari（毒师血脉）：无正规训练、直觉 phenomenal；曾帮她干过不少 Guard 职务之外的私活",
+   "anchor": "While Areneas’s bloodline has helped me with more mischievous personal endeavors",
+   "start": 912,
+   "end": 992
+  },
+  {
+   "fact": "父亲一句「你偏爱血赋卫兵」点炸她：血赋者不是偏袒而是第一道防线（能扛更多、降低全队风险）；她反问：难道我像 Hayden 存血赋家族档案、像 Dranderon 到处收孩子建血赋军团？",
+   "anchor": "The blood gifted are not favored first; they are simply our first line of defense",
+   "start": 1419,
+   "end": 1500
+  },
+  {
+   "fact": "审讯开场即失控：Tenvelo 看见她的头发陷入极恐——把她误认成另一个人；Nash 敲太阳穴示意「精神失常」",
+   "anchor": "“Your hair. It’s…it’s different.”",
+   "start": 4186,
+   "end": 4219
+  },
+  {
+   "fact": "Tenvelo 以第三人称称自己（「他装不下了」）——最严重的一次 Death Benefits 记忆碎裂，她从未见过",
+   "anchor": "It must be the Death Benefits.",
+   "start": 5623,
+   "end": 5653
+  },
+  {
+   "fact": "清醒闪回：他向「王后」报告「你的儿子要走了、在拉拢人手」——Reynolds 出走、Hayden 仍四处搜罗血赋者、军队壮大",
+   "anchor": "“Reynolds.” His head shifts back like it’s odd I don’t already know.",
+   "start": 8350,
+   "end": 8418
+  },
+  {
+   "fact": "她听懂了：这是大分裂（the Sunder）形成时的旧事——「分裂不只切开旧 Waldron 王国，也切开了信仰」；Dranderon 至今信「强权即公理」",
+   "anchor": "He is warning me—Brea, actually—of the Sunder forming.",
+   "start": 8551,
+   "end": 8605
+  },
+  {
+   "fact": "Hayden 早在当年就拿 Death Benefits 当通讯实验：守卫装不下那么多记忆、已有四人自杀——时间线比她想的更早；父亲表情纹丝不动（不是新信息）",
+   "anchor": "Four have already killed themselves—the pain is terrible.",
+   "start": 9140,
+   "end": 9197
+  },
+  {
+   "fact": "「little fire」谜团：Tenvelo 未答完「我女儿的火……她——」就被父亲揪发割喉——「我试着让他死得快些」",
+   "anchor": "“Who is the little fire?”",
+   "start": 9727,
+   "end": 9752
+  },
+  {
+   "fact": "父子二人紧急追问「他死前有没有传给你」（她摸护符答「应该没有」）；Nash 警告：不代表他没来得及传给 Hayden；「他对 Eirene 的兴趣」两人齐声「无可奉告」——她被「You are dismissed, Commander Theron」扫地出门",
+   "anchor": "Did he pass anything to you?",
+   "start": 11046,
+   "end": 11074
+  }
+ ]
+}

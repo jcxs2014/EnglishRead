@@ -1,0 +1,241 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch42 the seeker revealed and lumi taken.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch42_41_arkendrath.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I love you,” we say at the same time, and we both give a small giggle",
+          "ok": true,
+          "pos": 2260
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The door permanently shuts me out, and Eirene’s wail breaks me",
+          "ok": true,
+          "pos": 5447
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I was there. I’m sure.”",
+          "ok": true,
+          "pos": 8425
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“She’s yours now.”",
+          "ok": true,
+          "pos": 11331
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Snakes have made me everything I am.”",
+          "ok": true,
+          "pos": 9506
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Everything will be well, sweet Lumi.”",
+          "ok": true,
+          "pos": 14543
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.39,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.36,
+        "读者视角提示": 0.26
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.25,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.0,
+        "为什么这样写": 0.25,
+        "读者视角提示": 0.44
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Chapter 41 Arkendrath",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2800,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

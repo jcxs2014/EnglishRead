@@ -1,0 +1,349 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch34 constantine benefit and daughter.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch34_33_capital_of_arkendrath.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The land is raining backward—every drop falling up into the sky. I’ve never seen this much water pulled in the past",
+          "ok": true,
+          "pos": 880
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "King Reynolds—the man I once called my uncle—is dead",
+          "ok": true,
+          "pos": 3699
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“We always knew this was a possibility,” he says, speaking to his son",
+          "ok": true,
+          "pos": 5366
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It’s time you come to Dranderon. I won’t let them keep my Little Fire",
+          "ok": true,
+          "pos": 7078
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She deals in Stone Sickness—it’s common in Cadmar,” Draven says",
+          "ok": true,
+          "pos": 9888
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I do. I love her more than everything in existence",
+          "ok": true,
+          "pos": 12671
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Her mother left the Death Benefit to you, didn’t she?” Father states, though it sounds like more than a question—returni",
+          "ok": true,
+          "pos": 13959
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Mere inches away, her markings—mirroring my own—were visible underneath the blood, and I knew",
+          "ok": true,
+          "pos": 15160
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Love her,” both men say at the same time",
+          "ok": true,
+          "pos": 16325
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She was saying it to me, too,” Father says, “because she didn’t know who Lavina’s father was",
+          "ok": true,
+          "pos": 16582
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.3,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.4,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.35
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter 33 Capital of Arkendrath",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3082,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch18 first kiss and lavintia.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch18_17_capital_of_arkendrath.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He places his hands on my upper arms, and although this pulls me out of my humor, I do not move away from him",
+          "ok": true,
+          "pos": 3086
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I am not cold. I am never cold. Not for as long as I can remember.”",
+          "ok": true,
+          "pos": 3197
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was so long ago, there is no way to prove it. They don’t even know if it was only noble or royal because the sea swal",
+          "ok": true,
+          "pos": 4451
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "We do have specific blood traits passed down from mother to daughter, skipping generations sometimes until fully dying o",
+          "ok": true,
+          "pos": 4677
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Draven is holding my wrist in a firm grasp. I can’t even begin to process the speed before he’s already lifting my arm s",
+          "ok": true,
+          "pos": 6741
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Don’t.” He’s furious—he looks at me the same way he did Lucan",
+          "ok": true,
+          "pos": 6892
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "For a second, I swear his left eye flashes blue before he closes them, but when he opens them again, they are the same d",
+          "ok": true,
+          "pos": 7221
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "You should never have to feel pain or create it like a trick.” He speaks with disgust—Cadmarian accent in attendance",
+          "ok": true,
+          "pos": 7917
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He lets go of me with one hand only, quickly cupping my neck as he leans down to press his mouth to mine",
+          "ok": true,
+          "pos": 11772
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I lean into him, circling my arms around his neck as he brings me closer",
+          "ok": true,
+          "pos": 11878
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I intended to reserve it for him.” My voice cracks—I’m breaking. “I wasn’t kidding when I told you I’m an old spinster ",
+          "ok": true,
+          "pos": 14501
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "It’s part of you!” He’s a bit louder now as he glowers. “You don’t get to hide behind your snakes, Lavina. I won’t be se",
+          "ok": true,
+          "pos": 15312
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Goodnight, Vina,” he says, adopting the most personal and sentimental name people have for me. My heart swells",
+          "ok": true,
+          "pos": 16683
+        }
+      ],
+      "words": 18
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.37,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter 17 Capital of Arkendrath",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3219,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch39",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch39_38_capital_of_arkendrath.txt",
+ "facts": [
+  {
+   "fact": "出庭准备：Mildred 第一次不知道该给她穿什么——她选最隆重的 parade uniform+phalerae 勋章带+Skrendith 之战的 torque（Shadow Vision 夜导 century 包抄的勋章）",
+   "anchor": "If they want to judge me for my actions in the trials",
+   "start": 647,
+   "end": 700
+  },
+  {
+   "fact": "护送之争：Lucan 剥 Draven 的代理权（Lord Theron 回来了）——Draven「I'll not have her escorted without allies」+「You just won't have my Marked alone, Lucan」——Lucan 挨了耳光似的表情（活该：瞒了她那么久）",
+   "anchor": "“You are no longer proxy now that Lord Theron has returned,”",
+   "start": 1972,
+   "end": 2032
+  },
+  {
+   "fact": "她的反击：「Am I not still a member of the King's Royal Guard and a decorated commander in Arkendrath?」——勋章替她回答；「High General Nash has ordered them to watch over me, so they shall escort me」",
+   "anchor": "Am I not still a member of the King’s Royal Guard",
+   "start": 3061,
+   "end": 3110
+  },
+  {
+   "fact": "庭上自辩：「我只为救 Commander Nash 与 Evelyn 而行动」+「我从未被告知自己的血统——一个 Reynolds 从我受孕起就怀疑的血统」——全场倒吸气；Mona 攻击「How dare you speak of the king you killed?」——她回敬「I saved your daughter…You should be thankful I had a hidden ability」；「Just tell the people I'm sorry for the devastation」",
+   "anchor": "a lineage King Reynolds suspected as a possibility since my conception.”",
+   "start": 7041,
+   "end": 7113
+  },
+  {
+   "fact": "回程清算：Lucan 的「I did it because I wanted you.」+抓臂——她一拳（他受着不躲）+「I love you, Lavina…I was only waiting out the sentence of losing you」——「I was never yours! You lost me as a friend—that is all」；「I'm not doing it for you. I'm putting the realm first—as I always do.」",
+   "anchor": "“I was never yours! You lost me as a friend—that is all, Lucan,”",
+   "start": 10719,
+   "end": 10783
+  }
+ ]
+}

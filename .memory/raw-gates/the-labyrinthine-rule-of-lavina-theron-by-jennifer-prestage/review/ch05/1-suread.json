@@ -1,0 +1,61 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch05_4_capital_of_arkendrath.txt",
+ "facts": [
+  {
+   "fact": "Dranderon 战犬 Argus（Skrendith 之战后三年）堵门讨摸；更衣：Guard 唯一女性的定制制服、腰带刀横置易拔",
+   "anchor": "Argus, my oversized shadow since the Battle of Skrendith three years ago",
+   "start": 46,
+   "end": 118
+  },
+  {
+   "fact": "Uncle Nash 下死命令：审判者当夜后到试炼结束前停止一切勤务——妹妹安全线移交，不许与 Alden 私下合谋；她被驳回、怨恨盘踞",
+   "anchor": "This is not a request. No matter what we uncover tonight, you are done until after the trials",
+   "start": 5188,
+   "end": 5281
+  },
+  {
+   "fact": "Nash 替父亲说话：他自她母亲之后就不一样了；两个女儿同样有决心，只是 Eirene 不会被放进会死的岗位",
+   "anchor": "he has not been the same since your mother",
+   "start": 7953,
+   "end": 7995
+  },
+  {
+   "fact": "她的委屈：父亲在场就挑剔、收走每份报告——「我一辈子活在玻璃下，从未被允许犯错」；问「他为什么让我当 Guard」",
+   "anchor": "It’s a lack of faith in me.",
+   "start": 8001,
+   "end": 8028
+  },
+  {
+   "fact": "Nash 拆她委屈：她童年纠缠卫兵讨教——那些人就是家人，「他们为保护我而死，教了我十二岁前的一切」",
+   "anchor": "Those men were family.",
+   "start": 8626,
+   "end": 8648
+  },
+  {
+   "fact": "试炼法条：参赛须家族签字（弃贵族继承权）；法律为平衡「治人者/执剑者」——无其他继承线则无人治国；父亲签了但不等于赞成",
+   "anchor": "Entering the Brinden Trials required my family’s approval",
+   "start": 11480,
+   "end": 11537
+  },
+  {
+   "fact": "Hellbore=她的直属 breach guard：与 Kosner 同出 Ironhide 血脉（骨密皮厚、几乎不出血、无盾墙能挡）",
+   "anchor": "shares the same Ironhide bloodlines as Kosner",
+   "start": 9532,
+   "end": 9577
+  },
+  {
+   "fact": "地牢旧线人 Vartis（Triovalice 前最后一个项目）：双面情报、Death Benefits 已停（Dranderon 当他死了）、绞架将近——「I missed you」式的病态依恋",
+   "anchor": "He was my last project before Triovalice.",
+   "start": 12635,
+   "end": 12676
+  },
+  {
+   "fact": "王的底牌：King Reynolds 与 King Hayden 是孪生兄弟——Vartis 生在暴君 Hayden 治下，「谁也不知道他会变成什么样的人」",
+   "anchor": "the other brother—the tyrant, King Hayden—so we will never know",
+   "start": 13977,
+   "end": 14040
+  }
+ ]
+}

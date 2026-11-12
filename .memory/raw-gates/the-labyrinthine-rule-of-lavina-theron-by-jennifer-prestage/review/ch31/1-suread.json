@@ -1,0 +1,43 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch31_30_route_to_wentor_and_back.txt",
+ "facts": [
+  {
+   "fact": "Wentor 情报：贸易线一周前被冲毁；两月前丢了一宗 wolframite 镖货、更早 Dranderon 盔甲被盗（已报 High General 无下文）；Ellis 提到曾警告过边境定居者撤离——「What the fuck?」她的震惊",
+   "anchor": "We lost a delivery of wolframite about two months ago",
+   "start": 1668,
+   "end": 1721
+  },
+  {
+   "fact": "归程谈心：他的背景补完（foot soldier↔Sea Guard 交替、「My family required it of me」）+领导力观察——「你的女性本质带来另一种觉察与权威」；「You put yourself in the pinch-points」；「Your empathy was the kind a mother would give」——她答「我没有母爱可对照」",
+   "anchor": "Part of your nature—being female—brings a different level of awareness.",
+   "start": 5590,
+   "end": 5661
+  },
+  {
+   "fact": "听觉的告白：全天噪音只有一件事能盖过——「自那天起你就是我的安静」；她回「And you are my calm, Draven」",
+   "anchor": "Since that day, you have been my quiet.",
+   "start": 7946,
+   "end": 7985
+  },
+  {
+   "fact": "夜营：Draven 挪到她身边睡、一只手抓住她的腰带不放——「抓不住你我无法真正放松警惕」；她「I'll allow it」+整夜看他多过看世界",
+   "anchor": "if I can’t hold onto you, I won’t be able to let my guard down",
+   "start": 9211,
+   "end": 9273
+  },
+  {
+   "fact": "卷轴内容：正面只有一行「Acting General, Commander Lavina Theron」+背面 Reynolds 签名——「That was all they wrote?」",
+   "anchor": "Acting General, Commander Lavina Theron.",
+   "start": 9606,
+   "end": 9646
+  },
+  {
+   "fact": "换岗之痛：交班唤醒 Icarus 时她突然意识到——将来他的试炼她无法这样支持他——「transition hurts no matter how much I want this」",
+   "anchor": "The pain of the transition settles with a nauseating sadness.",
+   "start": 10478,
+   "end": 10539
+  }
+ ]
+}

@@ -1,0 +1,322 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch16 icarus handover and tears banned.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch16_15_capital_of_arkendrath.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It is integral. Thank you for introducing yourself. I look forward to knowing what you become here at the capital",
+          "ok": true,
+          "pos": 1170
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It’s hard to empathize with Rokin’s nerves—or those of the other initiates. I never felt new. That’s probably because th",
+          "ok": true,
+          "pos": 1439
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was once fear in my own failure that kept me intrinsically motivated to ascend, and now it’s fear of losing any of th",
+          "ok": true,
+          "pos": 2064
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "This is the first time I have referenced them as Icarus’s men. He’s been taking on larger roles—it should rightfully be ",
+          "ok": true,
+          "pos": 3853
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I can tell you that no amount of torture would get this Draven fellow to speak.” His name feels like velvet on my tongue",
+          "ok": true,
+          "pos": 5870
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Then we will stay the course until there’s a need to inform Father.” Alden makes it sound so easy",
+          "ok": true,
+          "pos": 7667
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Yes. I told him he’s from your childhood.” He turns to me. “Vina, I’m actually a little concerned about his possessive n",
+          "ok": true,
+          "pos": 9689
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I grab my amulet and blink. I don’t allow tears to shame me on the same dirt where we were sharpened",
+          "ok": true,
+          "pos": 12616
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Wanting me doesn’t make me his by right. I’m not his property. The bother of dealing with him forces me to move faster i",
+          "ok": true,
+          "pos": 15312
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.4
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter 15 Capital of Arkendrath",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2914,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

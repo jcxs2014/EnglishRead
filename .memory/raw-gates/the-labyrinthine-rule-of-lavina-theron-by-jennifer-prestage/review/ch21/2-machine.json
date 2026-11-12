@@ -1,0 +1,403 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch21 vine crossing and brotherhood.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch21_20_north_of_ursa.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Instead, we use the ropes to travel across the river with the current.” I wave my hands in front of me to aid in my expl",
+          "ok": true,
+          "pos": 3504
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "You make a second crossing.” I’m proud to know the information. “And that second one will go down current, too. The rope",
+          "ok": true,
+          "pos": 3884
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Yes,” Fragon insists. “Commander, we would follow you to the ends of the world. And it’s not just us. You are fair, quic",
+          "ok": true,
+          "pos": 11233
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It’s not for recognition.” I’m uncomfortable with being placed on this pedestal. “It’s all of you who hold me up",
+          "ok": true,
+          "pos": 11553
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Well, they are not as comfortable with each other. They do not move the same. At least, mine does not. There is a lot mo",
+          "ok": true,
+          "pos": 9989
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I claw into Hellbore’s tunic—using him as leverage—while climbing atop the felled tree. “Commander, do not—I can’t hold ",
+          "ok": true,
+          "pos": 14665
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "For the first time in my life, I am alone on Dranderon soil",
+          "ok": true,
+          "pos": 15833
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The Vine River—the death trap of men—wraps her deadly arms around me. It’s a living warning of the border guarding our l",
+          "ok": true,
+          "pos": 16703
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "When I am back on Arkendrath’s soil, I drop to my knees. I breathe heavily in relief and exhaustion. The water has spoke",
+          "ok": true,
+          "pos": 17125
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "You are fucking insane,” Icarus says frankly. He sounds angry. “I thought for sure that little flying-through-the-sky tr",
+          "ok": true,
+          "pos": 17276
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Right. Everyone has enormous dicks,” I say, trying to refocus, but the fools snort with their laughter, including Icarus",
+          "ok": true,
+          "pos": 19403
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“No,” I correct, “we did it.”",
+          "ok": true,
+          "pos": 22744
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.36,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.31,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.44
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter 20 North of Ursa",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4319,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

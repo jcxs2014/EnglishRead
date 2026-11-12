@@ -1,0 +1,241 @@
+{
+  "chapter": 41,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/ch41 exile and the men who follow.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch41_40_capital_of_arkendrath.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Yes, daughter,” my father says now",
+          "ok": true,
+          "pos": 1495
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“You served us well, General Theron,”",
+          "ok": true,
+          "pos": 4471
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“If you fail to keep my sister safe, Arkendrath,”",
+          "ok": true,
+          "pos": 15722
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "They were worried about what trying an execution would do to them",
+          "ok": true,
+          "pos": 7962
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I’ve come to be exiled with your contubernium,”",
+          "ok": true,
+          "pos": 19715
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "it’s all of us or none of us now",
+          "ok": true,
+          "pos": 17846
+        }
+      ],
+      "words": 9
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.0,
+        "为什么这样写": 0.23,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.2,
+        "关键词": 0.0,
+        "为什么这样写": 0.36,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.36,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.37,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.36,
+        "关键词": 0.0,
+        "为什么这样写": 0.34,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.18,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.3
+      }
+    }
+  ],
+  "form": {
+    "h1": "41. Chapter 40 Capital of Arkendrath",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 10,
+    "block_range": [
+      6,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3941,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 42 章中位 10、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

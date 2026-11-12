@@ -1,0 +1,49 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch43",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch43_42_near_bristol.txt",
+ "facts": [
+  {
+   "fact": "登船日：Bristol 悬崖天然港+巨舢板；Seeker=海上宫殿（Icarus 的评价准确）；马匹顺序上船（种马先过板给 Jaco/Speckle 做示范）；Lumi 看管 Argus 远离悬崖",
+   "anchor": "The Seeker is a floating palace, and even with its sails gathered tight",
+   "start": 580,
+   "end": 651
+  },
+  {
+   "fact": "Alden 告别：cottage 相赠（原给 Lumi 现给他——「I can only lose one best friend at a time, and I'd rather keep the hound with the beard」）+「Take care of them all, General Nash.」（唯一一次称衔）+「You're right—we are both like him」",
+   "anchor": "Take care of them all, General Nash.”",
+   "start": 4156,
+   "end": 4193
+  },
+  {
+   "fact": "Alden 的权力直觉：「People move before he orders it. Nobody challenges him. I mean, the man doesn't even give direct orders…they shift out of Draven's way before he's even near them. I recognize power when I see it.」——他的 Mnesic 记忆+权力嗅探",
+   "anchor": "People move before he orders it. Nobody challenges him.",
+   "start": 5445,
+   "end": 5500
+  },
+  {
+   "fact": "藏书相赠：整箱皮革烫金书送 Alden——「It's the friend you have who suggested I give them to you.」——Alden 眼睛全白（狂喜）；「Can I be your best friend instead, Draven?」玩笑",
+   "anchor": "This is every bit of written knowledge I have aboard my ship, Alden.”",
+   "start": 5867,
+   "end": 5936
+  },
+  {
+   "fact": "最后的敬礼：两人捶胸+一秒拥抱——「I release my best friend so I can leave him forever」；century 列队敬礼送行（「more importantly, they deserve every bit of glory for shaping me」）",
+   "anchor": "With a straight back, tears blinding my vision, I hit my chest, and Alden hits his.",
+   "start": 7649,
+   "end": 7732
+  },
+  {
+   "fact": "终章核弹：Orris 一句「Where to, my prince?」——Draven=Cadmar 王储（「Crown Prince, to be exact」）——「Everything makes sense—everything is now falling into place」；Alden 的直觉被证实但已无法告诉他",
+   "anchor": "“I am,” he admits without hesitance. “Crown Prince, to be exact.”",
+   "start": 11636,
+   "end": 11701
+  },
+  {
+   "fact": "终句：她的测试「Does an exiled warrior and the princess of a wicked throne still earn your love?」——他「My love for you is not something that has to be earned…Then I would take my exiled wicked princess to Cadmar and crown her queen.」",
+   "anchor": "Then I would take my exiled wicked princess to Cadmar and crown her queen.”",
+   "start": 12756,
+   "end": 12831
+  }
+ ]
+}

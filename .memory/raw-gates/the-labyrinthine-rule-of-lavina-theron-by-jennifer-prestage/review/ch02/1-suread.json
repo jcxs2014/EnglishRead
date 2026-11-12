@@ -1,0 +1,73 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch02_1_triovalice_bivouac_arkendrath.txt",
+ "facts": [
+  {
+   "fact": "女主以「我因母亲之死来到人间」回怼派她侦察的将军——出生即丧母；她军阶 Commander Theron，胯下战马 Jaco",
+   "anchor": "I entered this world by way of my mother’s death. You will find I am no stranger to the dead",
+   "start": 56,
+   "end": 148
+  },
+  {
+   "fact": "Guard Fragon 与她已驻营三月、友情渐深；他的 Deep Lung（深肺）经她验证确为血赋而非话痨属性",
+   "anchor": "we worked on his Deep Lung enough to determine it is truly a blood gift",
+   "start": 1442,
+   "end": 1513
+  },
+  {
+   "fact": "两人爬上脊线侦察：约二十名装束一致的 Dranderon 士兵在 Triovalice 河故道扎营——敌军确在本侧立足",
+   "anchor": "There are about twenty men, unquestionably soldiers by their matching attire",
+   "start": 3869,
+   "end": 3945
+  },
+  {
+   "fact": "遭落单 Dranderon 袭击：她挣脱后与其单挑，对方从树后偷看过他们、出言挑逗「女人为何在森林里」——她以断腿、砍颈反杀，留话「该把头盔戴好」",
+   "anchor": "What’s a woman like you doing in the forest playing with the Arkendrathi?",
+   "start": 7014,
+   "end": 7087
+  },
+  {
+   "fact": "混战中她弃剑拔靴匕，跨五马身掷出、穿颅击毙欲向 Garwolin 将军投红石的敌人——将军非但不惊还点头致谢",
+   "anchor": "my sword reflexively drops straight into the snow, freeing my right hand so I can grab my boot dagger",
+   "start": 10171,
+   "end": 10272
+  },
+  {
+   "fact": "缴获的火之 Power Stone（Hayden 之力，可控爆炸）在她掌中脉动后认她为主；新晋 Guard Blight 盼着看她引爆",
+   "anchor": "pulses in my hand before settling—accepting me as its new owner",
+   "start": 11557,
+   "end": 11620
+  },
+  {
+   "fact": "回营遇 Captain Icarus：首都来令，全军召回参加 Brinden Trials（布林登试炼）——召回令比战斗更让她恼火",
+   "anchor": "A letter came from the capital. We are to return.",
+   "start": 13270,
+   "end": 13319
+  },
+  {
+   "fact": "Missive Master Aldric 擅自把她登记为明日启程，她怒抓胸前护符斥其越权；Garwolin 将军表态：Nash 将军不会准她缺席试炼",
+   "anchor": "I’ve already logged you as leaving tomorrow.",
+   "start": 15812,
+   "end": 15856
+  },
+  {
+   "fact": "Garwolin 揭底：三个月来一直在暗中评估她（因 Nash 是她叔叔不能自评），报告一周前已交",
+   "anchor": "These last three months, you have been evaluated by me",
+   "start": 18140,
+   "end": 18194
+  },
+  {
+   "fact": "她其实已通过第一场 Brinden Trial——考题就是「你一个人打不完这场战争」，她的回答「也许不能，但我会试试」正是答案",
+   "anchor": "You have completed and passed your first trial.",
+   "start": 21400,
+   "end": 21447
+  },
+  {
+   "fact": "评语：热情、创造力、忠于王国与部下、剿灭 Dranderon 不倦、带兵训练出色、战术准备充分；「你的权威是挣来的，不是继承的」；「你不是淑女」她回「我两者都是」",
+   "anchor": "Your authority is earned, not inherited.",
+   "start": 20013,
+   "end": 20053
+  }
+ ]
+}
