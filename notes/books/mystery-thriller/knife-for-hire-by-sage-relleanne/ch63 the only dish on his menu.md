@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：他攥紧拳头，一段记忆浮上来——他和 Reuben 决定杀掉各自父亲的那个时候。「你还记得你父亲死的时候吗？」他问，从后视镜里看对方；Reuben 瞥了 Orzo 一眼，眼睛震惊地睁大——「我知道是你们俩干的。」Orzo 猛打方向盘转过一个街角，完全无视红灯和身后的喇叭。
 
-**关键词**：we decided we would kill our dads / Do you remember when your father died? / I know you two killed him / ignoring the red light
+**关键词**：we would kill our dads / Do you remember when your father died? / I know you two killed him / ignoring the red light
 
 **为什么这样写**：全书的最后一个秘密在这句「我知道是你们俩干的」里落地：Orzo 一直知道，而他从未提过。作者的安排很讲究——这句话由被他们「放过」的那个人说出来，而且是在闯红灯的时候说。
 

@@ -74,17 +74,27 @@ modified: "2026-11-12"
 
 **读者视角提示**：这两句「我撞了她」「我看见了」把一个巧合讲成了命运：三个男人与她的相遇都是事故，而她自己也一直把人生叫做「事故」。
 
-> **原句 7:** ""How can I? How do I deserve to?" He grimaces, his head drops into his hand and he swipes his fingers through it. "And if my father finds out her connection..." … "She ran off." Kale's eyes flash up to my face. "And ever since, he blamed everything on the Barleys. … He was a ticking time bomb.""
+> **原句 7:** ""How can I? How do I deserve to?" He grimaces, his head drops into his hand and he swipes his fingers through it. "And if my father finds out her connection...""
 
 **中文理解**：「我怎么可以？我怎么配？」他苦着脸，头埋进手里、手指穿过头发，「而且要是我父亲发现她的关联……」……「她跑了。」Kale 的目光猛地抬到他脸上，「从那以后，他把一切都怪在 Barley 家头上……他就是一颗定时炸弹。」
 
-**关键词**：How do I deserve to? / if my father finds out / "She ran off." / a ticking time bomb
+**关键词**：How can I? / How do I deserve to? / if my father finds out her connection
 
 **为什么这样写**：How do I deserve to 是 Kale 的口头禅（第 50 章「我不配得到幸福」），而这里他把它用在爱上——他的自我否定比对死亡的恐惧更顽固。而「她跑了」三个词揭开了 Romaine 与 Barley 婚事的结局：那个跑掉的 Barley 姑娘，就是 Romaine 一生的执念。
 
 **读者视角提示**：这条信息解释了 Romaine 在第 1 章那句「失去未婚妻的羞辱」。而「她」是谁——这个跑掉的 Barley 姑娘，可能正是第 41 章那段录像里的女人。
 
-> **原句 8:** "Kale quirks his lips. "This is insane. But…it's also the first time I have been happy in years." "Me too," I admit easily, my eyes flashing to the bedroom door. … "I will start fresh with you, put our grievances aside, if you promise to not try to kill me again." He doesn't look up as he speaks, but I can hear the hurt in his words. The pain and loneliness. A mirror of my own emotions. "I promise.""
+> **原句 9:** ""She ran off." Kale's eyes flash up to my face. "And ever since, he blamed everything on the Barleys. … He was a ticking time bomb.""
+
+**中文理解**：「她跑了。」Kale 的目光猛地抬到他脸上，「从那以后，他把一切都怪在 Barley 家头上……他就是一颗定时炸弹。」
+
+**关键词**：She ran off / blamed everything on the Barleys / a ticking time bomb
+
+**为什么这样写**：三个短句揭开了 Romaine 一生的动力：一个跑掉的 Barley 姑娘，一场被拒的婚事，然后是一辈子的迁怒。作者让这句话由他的儿子说出来——受害者与加害者的关系在这里完成了一次代际传递的展示。
+
+**读者视角提示**：这条信息解释了第 1 章「失去未婚妻的羞辱」。而那个跑掉的姑娘就是 Honey（第 60 章 Sherry 说的「她选择不嫁给你父亲」）。
+
+> **原句 10:** "Kale quirks his lips. "This is insane. But…it's also the first time I have been happy in years." "Me too," I admit easily, my eyes flashing to the bedroom door. … "I will start fresh with you, put our grievances aside, if you promise to not try to kill me again." He doesn't look up as he speaks, but I can hear the hurt in his words. The pain and loneliness. A mirror of my own emotions. "I promise.""
 
 **中文理解**：Kale 抿了抿唇：「这太疯狂了。可……这也是我这几年来第一次觉得快乐。」——「我也是。」他轻轻承认，目光飘向卧室的门……「我愿意跟你从头开始、把恩怨放下，只要你保证不再试图杀我。」他说这话时没抬头，可他能听出那些字里的伤——痛苦与孤独，和他自己的一面镜子。「我保证。」
 

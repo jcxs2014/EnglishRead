@@ -24,15 +24,25 @@ modified: "2026-11-12"
 
 **读者视角提示**：他的「最后一处记忆」指的不只是 Cinnamon，还包括 Honey 的拒婚、他弟弟的觊觎、以及他这三十五年被人耻笑的全部。他要清除的其实是自己的羞耻感，而不是某个人。
 
-> **原句 2:** "Bark! I move to silence the dog, but my foot steps in the chains on the ground, and as soon as I do, the machine cranks to life. The chains tighten before I can move. Tangling in my foot, and strangling my ankle, they drag me up into the air. Until I hang upside down ten feet away from Cinnamon above the acid."
+> **原句 2:** "Bark! I move to silence the dog, but my foot steps in the chains on the ground, and as soon as I do, the machine cranks to life. The chains tighten before I can move."
 
-**中文理解**：汪！他上前想让那条狗闭嘴，可脚踩进了地上的铁链——就在那一刻，机器轰然启动；链条在他来得及动之前收紧，缠住他的脚、勒住他的脚踝，把他拖上半空——直到他倒吊在那里，与 Cinnamon 相距十英尺，悬在那池酸液上方。
+**中文理解**：汪！他上前想让那条狗闭嘴，可脚踩进了地上的铁链——就在那一刻，机器轰然启动，链条在他来得及动之前收紧。
 
-**关键词**：I move to silence the dog / my foot steps in the chains / the machine cranks to life / ten feet away from Cinnamon above the acid
+**关键词**：I move to silence the dog / my foot steps in the chains / the machine cranks to life
 
-**为什么这样写**：全章的因果链条是本书最工整的一次：他为了让她听不见狗叫而往前走了一步，那一步踩到了自己的机关。而「十英尺」这个距离把两个人变成了对称的两个吊挂物——一个要杀人的，一个要被杀的，如今并排悬着。
+**为什么这样写**：全章的因果链在这里转动：他为了一句狗叫往前走了一步，那一步踩到了自己的机关。而「机器轰然启动」这个被动的说法——机器不是他启动的，是他触发的。
 
-**读者视角提示**：这条狗救了两次命：第 60 章它跟着她被一起带走（让 Orzo 知道她是被绑不是出走），这一章它的一声叫把他送上了吊钩。作者把「最无害的角色」写成了关键的转折点。
+**读者视角提示**：Beanie 在全书里救过两次命：第 60 章它被一起带走，让 Orzo 知道她是被绑而非出走；这一章它一声叫把他送上了吊钩。
+
+> **原句 3:** "Tangling in my foot, and strangling my ankle, they drag me up into the air. Until I hang upside down ten feet away from Cinnamon above the acid."
+
+**中文理解**：链条缠住他的脚、勒住他的脚踝，把他拖上半空——直到他倒吊在那里，与 Cinnamon 相距十英尺，悬在那池酸液上方。
+
+**关键词**：Tangling in my foot / strangling my ankle / drag me up into the air / ten feet away from Cinnamon
+
+**为什么这样写**：三个动词（tangling / strangling / drag）把「被自己的刑具处理」写成一个连续的动作，而「十英尺」把两个人变成对称的两个吊挂物：一个要杀人的，一个要被杀的，如今并排悬着。
+
+**读者视角提示**：本书的反派死在自己的陷阱里，而按他设计的方式——这是作者给他的最后一句评价。
 
 ## 本章词汇
 

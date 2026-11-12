@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：Kale 站在他身后，他不用回头也知道对方抱着手；那股气息扑面而来——理所当然，十多年来这是第一次有 Aldente 跟其他家族同处一室……Benedict 的眼睛气得眯起来，可他身旁那位更难捉摸的姐姐把手放在他肩上：「让他解释。我们得把愤怒回收，拿它来让自己变得更好。」她睿智地建议。
 
-**关键词**：over a decade since an Aldente / his more elusive sister / recycle our anger / Utilizes it to better ourselves
+**关键词**：over a decade since an Aldente / his more elusive sister / recycle our anger / Utilize it to better ourselves
 
 **为什么这样写**：「回收愤怒、拿它来变好」是全书唯一一次有人提出「情绪管理」这种现代词汇——而说这话的人正是那个消失了多年的姐姐，这暗示她这些年一直在外面过另一种生活。Elusive（难捉摸）这个词在第 26 章用来形容过 Sherry 的「 elusive sister」（Cinnamon 说的「姑婆和那个神出鬼没的姐姐出门旅行」）——两条线在这里合上。
 

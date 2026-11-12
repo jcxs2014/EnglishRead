@@ -48,7 +48,7 @@ modified: "2026-11-12"
 
 **中文理解**：他毫不犹豫地听她的，一句都不问。当他说想来这里工作时，她完全没想到他指的是「在厨房里」；可教他很有意思——慢慢把我知道的一切教给他，看他眼里因骄傲而跳动的光。
 
-**关键词**：listening to me without any question / meant in the kitchen / everything I knew / eyes dance with pride
+**关键词**：listening to me without any question / mean in the kitchen / everything I knew / eyes dance with pride
 
 **为什么这样写**：「他说想来这里工作时，她没想到他指的是在厨房里」这一句把 Kale 的赎罪写得极轻：不是道歉、不是补偿，是「学一门手艺」。而「把我知道的一切教给他」是全书对「传承」最温柔的一次暗示。
 

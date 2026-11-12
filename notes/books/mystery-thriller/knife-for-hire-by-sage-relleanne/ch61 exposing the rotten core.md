@@ -112,7 +112,6 @@ modified: "2026-11-12"
 | desensitization | 脱敏；钝化 | "You knew my mother?" It is in times like this that I appreciate my desensitization. |
 | fester | 溃烂；恶化 | Their bad luck will fester. |
 | annihilate | 歼灭；彻底摧毁 | Except for the chemical below you. The poison that, in tiny doses, can bring me back control of this city. To annihilate the other families and become the sole leader. |
-| misguided | 走错路的；被误导的 | Honey was a misguided woman. |
 | scoff | 嗤笑；嘲笑 | But he scoffs, ignoring me. "That was a one-off." |
 
 ### ⭐⭐ 进阶
