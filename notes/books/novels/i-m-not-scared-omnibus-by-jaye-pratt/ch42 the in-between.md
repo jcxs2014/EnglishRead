@@ -25,7 +25,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 描述棺中：黑暗、幽闭、比想象的更小——这话听着蠢，棺材当然小，但没在里面过的人不懂那到底意味着什么；木头压着两条手臂，头都转不了。
 **关键词**：claustrophobic / smaller than you would think / wood pressing / couldn’t turn
 **为什么这样写**：先自我贬低（sounds stupid）再坚持感受的合法性——这是被 Aaron 训练过的人重新开口的方式；「没进去过不懂」把创伤的不可通约性直接交给提问的 Vero。
-**读者视角提示**：这是全书第一次也是唯一一次完整讲述活埋体感；ch33 的叙述是事件层，本章是身体层——同一事件的两次记账。
+**读者视角提示**：这是全书第一次向人完整讲述活埋体感；ch33 已有同期第一人称的身体叙述（土落在身上、张嘴发不出声），本章是事后向 Vero 的口述——同一事件的两次记账。
 
 > **原句 3:** "“I kept thinking that if no one came, the last thing I would have done was get lunch.” I laugh, edged in hysteria. “That felt so stupid. That the last thing I would have done is argue with myself about whether to pack you sugar or listen to Brawley.”"
 
