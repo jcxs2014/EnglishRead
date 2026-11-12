@@ -24,7 +24,7 @@ modified: "2026-11-12"
 
 **读者视角提示**：对照第 1 章——Romaine 抢着认领尸体、Julienne 盘算把账甩给 Roux 与 Barley：同一场战争里，每个家族都在给尸体贴别人的标签。你此刻站在标签制作方的桌前。
 
-> **原句 3:** "My irritation piques. "Then how will phase two work? The poison needs to appear to come from their side. We need the unrest, we need the problems. Boss wants to push the hardcore drugs back on the streets. The deaths are the entire reason we are walking this line. And your job is to keep us out of the headlines.""
+> **原句 2:** "My irritation piques. "Then how will phase two work? The poison needs to appear to come from their side. We need the unrest, we need the problems. Boss wants to push the hardcore drugs back on the streets. The deaths are the entire reason we are walking this line. And your job is to keep us out of the headlines.""
 
 **中文理解**：他被激怒——那第二阶段怎么推？毒必须看起来来自他们那边，乱局正是我们要的；老大要把烈性毒品重新推上街头，死人就是我们走这条线的全部理由，而你的工作是让我们别上头条。
 
@@ -33,14 +33,6 @@ modified: "2026-11-12"
 **为什么这样写**：The deaths are the entire reason we are walking this line 是本章最冷的一句——死亡在这门生意里不是成本，是燃料。the poison needs to appear to come from their side 交代了绿血案的舆论战场：毒是谁家的不重要，重要的是尸体上贴谁的标签。
 
 **读者视角提示**：警方、警探和杀手本人都不知道凶器产地——而本章读者已经站到了标签制作方的桌前。这层信息差从此刻起成为全书最大的读法引擎。
-
-**中文理解**：Julienne 对着电话咆哮：必须在 Roux 与 Barley 变得更麻烦之前解决——没有别人能把死亡跟我们挂钩，账要算到他们头上；对面建议减量（死人少、怀疑少），他被激怒——那第二阶段怎么推？毒必须看起来来自他们那边，乱局正是我们要的；老大要把烈性毒品重新推上街头，死人就是我们走这条线的全部理由，而你的工作是让我们别上头条。
-
-**关键词**：tie us to the deaths / fall back on them /  keep us out of the headlines
-
-**为什么这样写**：The deaths are the entire reason we are walking this line 是本章最冷的一句——死亡在这门生意里不是成本，是燃料。作者让「减量」的善意建议被当场否决：少了尸体，戏就演不下去。the poison needs to appear to come from their side 一句交代了绿血案的舆论战场：毒是谁家的不重要，重要的是尸体上贴谁的标签。
-
-**读者视角提示**：把这句与第 1 章对齐——Romaine 抢着认领尸体、Julienne 盘算把账甩给 Roux 与 Barley：同一场死亡战争里，每个家族都在给尸体贴别人的标签。你此刻知道了凶器的产地，而警方、警探和杀手本人全都不知道。
 
 > **原句 3:** ""I—" He heaves a sigh. "The Aldente boy is going to cause problems." "Scotch. If you can't, let his father deal with him." … "Your job is to follow orders, not to question them." … "We're going to put more in the products. More ODs. I don't care about the trail, we need to finish this. Take over this town before the Rouxes and Barleys know what's happening. I don't care who dies because of it. My brother is already distributing it across the city.""
 
@@ -117,7 +109,7 @@ modified: "2026-11-12"
 |---|---|---|
 | ODs | 过量致死（overdoses） | "We're going to put more in the products. More ODs. |
 | wobbles | 晃动；不稳 | The plate in her hand wobbles precariously, but she manages to catch it. |
-| allergies | 过敏 | He still didn't tell me what to cook either. Or if he has any allergies… |
+| allergy | 过敏 | The allergy no one knew I had. |
 | leftovers | 剩菜 | "There will be leftovers. Just in case that's not enough." |
 | spoon | 勺子 | My spoon clatters to the ground as I stumble back from the food. |
 

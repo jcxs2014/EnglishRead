@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：他咬着牙问「你为什么需要一个安全的地方？」她发出一声长长的、难过的呜咽——小时候妈妈不是最好的，常常一消失就是好几天，孤单让她到处乱跑；有一天她找到了这里；妈妈死后她成了被排斥的人，坏运气在寄养家庭里出了名，于是她来这儿——独自一人，好过承受别人的怒气与不信任。她的坦白在两人之间倾泻，落地比他预想的更重。他的回答：我的安全之地是脑子深处——只要断开感觉，就感觉不到他的拳头、烟头、皮带。
 
-**关键词**：My bad luck was infamous / better to be alone / the recesses of my mind / If I disconnected
+**关键词**：Her admission spills / the recesses of my mind / If I disconnected / His belt
 
 **为什么这样写**：两段自白结构完全对称（她找了一个地点，他找了一个心理位置），但代价方向相反：她的安全靠「离开人」，他的安全靠「离开自己」。The fists. The cigarettes. His belt. 三个名词短语不加动词，暴力被写成清单——这是全书对 Herb 最克制也最具体的一次交代。
 

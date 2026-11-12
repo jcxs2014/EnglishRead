@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：「只是来看看我？那是不是说明我在你心上？」她没料到回得这么快……「非常是。你什么时候回家？」……「希望快了，我有点想念我的破公寓」——「我也希望你回来，自从你给我做过饭，我就没吃过那么好的东西」——「哈哈你想学的话我可以教你做 whack mac」……一想到能跟 John 多相处，暖意漫上来；她知道这并不安全——他毕竟是个侦探——可他那么善良……一个同类。
 
-**关键词**：Does that mean I'm on your mind / very much so / teach you how to make the whack mac / he's a detective after all / A kindred soul
+**关键词**：Warmth floods me / he's a detective after all / won't stop smiling / A kindred soul
 
 **为什么这样写**：她的调情是直球（Does that mean I'm on your mind），他的回应也直球（very much so）——作者让这段关系以最坦率的方式升温，与她和 Orzo 那条充满保留的线形成对照。I know it isn't safe—he's a detective after all 是她的自知：她知道职业会把她推向什么结局，却把 kind 当成了豁免理由。A kindred soul 四个词是她给出的最高评价。
 
