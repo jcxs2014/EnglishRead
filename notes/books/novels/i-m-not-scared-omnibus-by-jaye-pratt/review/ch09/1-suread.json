@@ -1,0 +1,74 @@
+{
+ "chapter": "ch09",
+ "text": "text/ch09_chapter_9.txt",
+ "relations": [
+  "Clay 与 Vero：护友/占有——“You fucked with someone I care about.”；Clay 把 Vero 划进自己人范围。",
+  "Brawley 与 Vero：伴侣兼占有者，威胁 \"Then I guess I have time to fuck your ass.\"，Vero 回应 \"And I thought the romance was dead between us.\"",
+  "Brawley 与 Clay：临时同盟但互不信任；Brawley 警告 \"You touch him, you die.\"，Clay 则提出 \"I have an idea, follow my lead.\"",
+  "Clay 与 Kayla：敌对、猎捕与施暴关系；Clay 的计划是让她“学会规矩”——\"or she may decide never to come back again. Win-win really.\"",
+  "Clay 与 Jess：Clay 极度保护的人，也是他警告 Kayla 的把柄——\"If you mess with Jess again, I will fucking kill you. That was just a taste of what death feels like.\"",
+  "Vero 与 Kayla：被铐在一起的同盟；Vero 说 \"I really, really like her. Brawley, can we keep her? I want to keep her.\"，并承认 \"I stole her underwear for when I jack off later. And I filled her with my cum, so she is primed for you.\"",
+  "Vero 与 Brawley：因“锁门和睡了她”正面冲突——\"You fucked her,\" 与 \"you locked the door so I couldn’t get in.\"；Vero 则说 \"Of course, I wouldn’t have let you hear us if I wasn’t.\"",
+  "Noa 与岛上的坟墓：所有坟都由 Noa 挖——\"Noa digs all the graves, and this one is no different.\"",
+  "Vero 与 Clay：四人组内的竞逐者，Vero 说 \"I can’t tell if you have a death wish or the biggest balls out of the four of us\""
+ ],
+ "numbers": [
+  "Chapter Nine",
+  "the four of us",
+  "a woman half his size",
+  "three minutes",
+  "five minutes",
+  "all night",
+  "One of his hands leaves my hip"
+ ],
+ "facts": [
+  {
+   "fact": "Brawley 索要手环钥匙，Vero 大笑说自己把钥匙吞了，这样他们就无法被强行分开",
+   "anchor": "Vero’s manic laughter fills the air. “I swallowed it. Figured you can’t force us to separate that way.”",
+   "start": 1029,
+   "end": 1132
+  },
+  {
+   "fact": "Clay 提出“对她有好处”的计划：让她学会规矩，或者让她再也不回来",
+   "anchor": "“This could benefit both of us,” Clay says, and Brawley startles, almost as if he only just realized he is here. “I have an idea, follow my lead. The bitch might finally realize not to fuck with us, or she may decide never to come back again. Win-win really.”",
+   "start": 1497,
+   "end": 1756
+  },
+  {
+   "fact": "Brawley 警告 Clay 一旦碰 Vero 就死",
+   "anchor": "“You touch him, you die.” The way Brawley growls the words, I believe he means exactly what he is saying.",
+   "start": 1759,
+   "end": 1864
+  },
+  {
+   "fact": "Clay 用脚绊她、把她推进挖好的坟坑（这些坑都是 Noa 挖的）；她随即用肘击他的腹部反击",
+   "anchor": "I buck my head backward, and as he avoids that hit, I bring my free arm back and elbow him in the gut.",
+   "start": 3047,
+   "end": 3149
+  },
+  {
+   "fact": "Kayla 拒绝为把他推进坟坑道歉",
+   "anchor": "do you genuinely think I am going to apologize to you? In a grave that you pushed me into while you press your obvious erection into my back?",
+   "start": 5317,
+   "end": 5458
+  },
+  {
+   "fact": "Brawley 质问 Vero 上了 Kayla 并且锁门不让他进去",
+   "anchor": "“You fucked her,” Brawley growls. “And you locked the door so I couldn’t get in.”",
+   "start": 6693,
+   "end": 6774
+  },
+  {
+   "fact": "Clay 把 Kayla 按在坟坑的土墙上进入她，并掐住她的脖子不留情，她因此短暂失去意识",
+   "anchor": "One of his hands leaves my hip, and he snakes it around my neck and squeezes. Not a light little squeeze someone does when making sure they don’t kill you; this is done with no care.",
+   "start": 12477,
+   "end": 12659
+  },
+  {
+   "fact": "事后 Clay 警告 Kayla 别再把他的名字写上名单、再牵扯 Jess 就杀了她；她随即头撞他、被再次掐住脖子而昏过去",
+   "anchor": "“Next time, leave my name off the fucking list. If you mess with Jess again, I will fucking kill you. That was just a taste of what death feels like.”",
+   "start": 13440,
+   "end": 13590
+  }
+ ]
+}

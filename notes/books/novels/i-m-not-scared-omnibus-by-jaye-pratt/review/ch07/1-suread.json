@@ -1,0 +1,76 @@
+{
+ "chapter": "ch07",
+ "text": "text/ch07_chapter_7.txt",
+ "relations": [
+  "Clay 与 Vero：势不两立的对头；Clay 当面放话要在泥里操他并把他留在空坟里——\"You wanted me here, remember? No take-backs now. I can’t wait until it’s my turn with you. I plan to fuck you face down in the dirt and leave you in an empty grave.\"；他与 Vero 争夺同一名猎物 Kayla（Clay 的名字被 Kayla 写在表单上）。",
+  "Brawley 与 Vero：占有欲极强的伴侣，Vero 是他“一生中唯一的人”——\"Don’t ever think anyone else in this world could make me care. He is my only one in this lifetime, and I will follow him into the next. You’re just like everyone else to me: disposable.\"",
+  "Brawley 与 Kayla：敌对兼性威胁；他抓她后颈并宣称要把她活埋——\"You hurt him . . . emotionally, and after Clay fucks you and leaves you in an empty grave, I will bury you alive. Then I’ll sit there and listen to your screams.\"",
+  "Clay 与 Kayla：纯粹的敌对与肢体对抗；Kayla 打中他头部后他关掉手电消失在黑暗里（\"I swing back with my free hand, catching him on the side of the head\"）。",
+  "Vero 与 Kayla：从猎人与猎物转为互相试探的调情关系；Vero 称她 \"my paper-cut princess\"，她威胁 \"I will find you, and then I will end you\"，章末由她主动吻了他。",
+  "Vero 与群演/“怪物”们：发号施令的“主人”，能通过广播与隐藏扩音器调度整场追杀（\"the speakers crackle\"、\"The room is empty except for a single bulb hanging from a chain\"）；他挑选演员扮演 Jason，透露 \"I picked the biggest guy we have for Jason, and his name is Gerald, by the way. Lovely man—breeds rabbits.\"",
+  "Jason/Gerald 与 Kayla：拦截者；他挡住唯一通道，她只能退回——\"Jason takes one slow step forward, and I turn back the way I came, moving faster than I did before.\"",
+  "Ares 与 Kayla：同为戴手环的一对，被 Nixie 用颜色分配归属；Ares 戴黄色手环、她戴会闪蓝黑黄三色的手环——\"This has to be Ares; he is the only one I haven’t come up against yet.\"",
+  "Nixie 与所有参与者：主持/规则制定者，宣布手环是追踪器、颜色决定归属，并警告不得进入玉米地——\"The wristbands are trackers, in case you get lost, and the colors tell these beautiful monsters exactly who you belong to tonight.\"；\"The only warning—stay out of the cornfield.\""
+ ],
+ "numbers": [
+  "Chapter Seven",
+  "only a day after my tour",
+  "a car would pick me up at eight",
+  "the rest of the day",
+  "half his face has melted off",
+  "its three glowing colors",
+  "off all four walls",
+  "the last twenty minutes",
+  "the first hallway"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 收到短信邀请与在线表单，填入自己的 kinks（并说其中有些远超她的舒适区）",
+   "anchor": "I filled in all my kinks, though there were some listed that were way out of my comfort zone—like shrimping is a huge no, and I do not advise you to google it.",
+   "start": 215,
+   "end": 374
+  },
+  {
+   "fact": "Nixie 在台上宣布手环是追踪器、颜色决定今晚归属，并警告任何人不得进入玉米地",
+   "anchor": "The wristbands are trackers, in case you get lost, and the colors tell these beautiful monsters exactly who you belong to tonight.",
+   "start": 2985,
+   "end": 3115
+  },
+  {
+   "fact": "Kayla 被 Vero 用她的“熊”和歌的恐惧反复挑逗，终于威胁说要找到他并了结他",
+   "anchor": "“I will find you, and then I will end you,” I threaten.",
+   "start": 6500,
+   "end": 6555
+  },
+  {
+   "fact": "Clay 在黑暗中抓住她、把她甩到墙上，她撞墙后用手撑住自己",
+   "anchor": "but he catches me by the back of my jacket and shoves me sideways. His push is hard enough that I hit the wall and have to catch myself with both hands.",
+   "start": 8432,
+   "end": 8584
+  },
+  {
+   "fact": "Kayla 回击打中 Clay 的头部，他愣了一秒后关掉手电消失在黑暗里",
+   "anchor": "I swing back with my free hand, catching him on the side of the head, and he goes still for a second as something behind his eyes shifts.",
+   "start": 8945,
+   "end": 9082
+  },
+  {
+   "fact": "Brawley 抓住 Kayla 的后颈，威胁说等 Clay 操完她并把她留在空坟后，自己要把她活埋并听她尖叫",
+   "anchor": "You hurt him . . . emotionally, and after Clay fucks you and leaves you in an empty grave, I will bury you alive.",
+   "start": 10152,
+   "end": 10265
+  },
+  {
+   "fact": "Brawley 把手指伸进 Kayla 的牛仔裤，宣称 Vero 是他一生中唯一的人、她只是可弃之人",
+   "anchor": "He is my only one in this lifetime, and I will follow him into the next. You’re just like everyone else to me: disposable.",
+   "start": 11755,
+   "end": 11877
+  },
+  {
+   "fact": "Kayla 在 Vero 说完 Jason 的真名后主动吻了他",
+   "anchor": "Then I kiss him.",
+   "start": 14903,
+   "end": 14919
+  }
+ ]
+}
