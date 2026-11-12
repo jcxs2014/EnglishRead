@@ -16,13 +16,13 @@ modified: "2026-11-12"
 
 > **原句 1:** "“Don’t make me go get my friend, please. I know you don’t know who I am, but trust me, these two fat buggers will be fine together.” My words hit their mark—his shoulders settle."
 
-**中文理解**：马厩少年拒收 Jaco，她放下一枚银 kildron，再补一句「别逼我去叫我朋友」——少年的肩膀松了下来。钱和威慑各占一半。
+**中文理解**：马厩少年拒收 Jaco 同栏，她补上一句「别逼我去叫我朋友」与「这两个胖家伙会没事」的保证——少年的肩膀松了下来。
 
-**关键词**：kildron、settle、friend
+**关键词**：settle、friend、trust
 
-**为什么这样写**：谈判写成一枚硬币的两面：银币解决「凭什么」，暗示解决「怕什么」——她的交涉术不靠官阶靠分量；「his shoulders settle」用身体语言宣告成交，比任何同意台词都干脆。
+**为什么这样写**：话术一软一硬同时上桌：「trust me」给信任、「别逼我去」压威慑——她的交涉术不靠官阶靠分量；「his shoulders settle」用身体语言宣告成交，比任何同意台词都干脆。
 
-**读者视角提示**：对照 ch01 的买童谈判：她的说服公式（利益+威胁+给台阶）从黑市一路用到马厩——同一个女人在不同牌桌上的同一套手法。
+**读者视角提示**：对照 ch01 的买童谈判：她的说服公式（信任+威胁+给台阶）从黑市一路用到马厩——同一个女人在不同牌桌上的同一套手法。
 
 > **原句 2:** "“He is the last of them. We have finally bought every one of them through the exchanges. We have no gifted blood, so there was little resistance to the trades,” she says. “As we exchanged for the last of them, we had to trade more and more, each one taking longer than the last to save for.”"
 
