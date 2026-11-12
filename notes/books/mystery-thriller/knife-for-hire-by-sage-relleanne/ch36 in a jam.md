@@ -82,7 +82,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：这句话是本卷最漂亮的一次伏笔投放：作者不提「他为什么突然改口」，只让你注意「改口本身」。一个从不叫你真名的人，在你成为目标的那天叫了你的名字——这份精准足以让人后背发凉。
 
-**读者视角提示**：记住这个细节。下一章（或者再下一章）会告诉你，为什么警长突然开始叫他的名字。
+**读者视角提示**：记住这个细节。第 40 章会告诉你，为什么警长突然开始叫他的名字。
 
 > **原句 8:** "But as I read Reuben's last email, my blood freezes. I do not understand his next target. Scotch Amaretto. My eyes flick to my rearview mirror, back to the station. Why would he go after the Captain?"
 

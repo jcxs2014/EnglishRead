@@ -22,7 +22,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：开篇是两个杀手在雨里迷路的狼狈相——作者故意让他们无能：走错方向、鞋里灌水、加油站关门。而「这会儿她可能在任何地方」把他们的无能变成了恐惧：他们要救的人不需要他们救。
 
-**读者视角提示**：这一对组合（Kale + Orzo）在全书里从未并肩过，本章是唯一一次。作者用「湿鞋」这种最不英雄的细节来写他们的狼狈。
+**读者视角提示**：这一对组合（Kale + Orzo）此前只在巷子里匆匆对峙过（第 47 章），被迫同行是唯一一次。作者用「湿鞋」这种最不英雄的细节来写他们的狼狈。
 
 > **原句 2:** "He doesn't even seem to know Cinnamon is who Reuben hired. Doesn't know all the deaths were accidents. Having the knowledge over him makes me smug. Amused. … If anyone can help me find Cinnamon, it will be this asshole."
 
@@ -92,7 +92,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：全章的最后一段是纯粹的拼图：两个姓氏并列（Jones 对 Jones），三个「whose」从句把那个神秘女人的可疑之处全部列出，然后一句「只认识一个 Sherry」把结论推到读者面前。作者不解释那个 Sherry 是谁——这是留给后面几章的钩子。
 
-**读者视角提示**：Kale 认识一个 Sherry——这条信息会在下一章变成整本书最大的一个反转。而「所有迹象都指向她就是」这句确认，意味着他接下来要做的事，可能比抓 Cinnamon 更严重。
+**读者视角提示**：Kale 认识一个 Sherry——这条信息要到第 60 章才变成整本书最大的一个反转。而「所有迹象都指向她就是」这句确认，意味着他接下来要做的事，可能比抓 Cinnamon 更严重。
 
 ## 本章词汇
 

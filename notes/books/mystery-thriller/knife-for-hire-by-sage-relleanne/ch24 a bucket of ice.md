@@ -22,7 +22,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：And I accept it. I allow the comfort. 两句被动语态的连用，把「被爱」写成她需要批准的例外——authorization 来自她自己。crawling out of my bed 一句极冷：她对亲密关系的经验是「人都会走」，所以当有人不走，她的第一反应不是高兴而是「掐掉念头」。作者让她「强迫自己享受」，把幸福写成一件需要用力的事。
 
-**读者视角提示**：这是全书第一次她允许自己留在某个人身边。注意她的用词是 allow（允许）与 force（强迫）——她不觉得幸福是应得的，只当是可以暂时批准的例外。
+**读者视角提示**：这是全书第一次她允许自己在清晨留下来、而不是先走。注意她的用词是 allow（允许）与 force（强迫）——她不觉得幸福是应得的，只当是可以暂时批准的例外。
 
 > **原句 2:** ""What do you want?" he barks. I can't hear what the person says, but his entire demeanor changes. "I understand. I need a ride." He looks down at me. "Two rides." … "Shut up, just work it out. I'll send you the address of where we're at." And then he ends the call. Orzo stares down at me, his tongue lashing out to wet his lips. "This can't be our only encounter.""
 
