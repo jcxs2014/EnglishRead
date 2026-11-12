@@ -86,9 +86,9 @@ modified: "2026-11-12"
 
 > **原句 8:** "That may be, but you’re carrying part of an egg.” Draven looks forward again. “We have them in Cadmar, and if you carried that there, they would kill you.” He rides tense now, his jaw clenched."
 
-**中文理解**：盾牌解密：她的传家圆盾轻如骨、打不坏——是 roc 的蛋壳。「带去 Cadmar，raptors 会杀了你。」他说话时骑姿绷紧、咬紧下颌。
+**中文理解**：盾牌解密：她的传家圆盾轻如骨、打不坏——是 roc 的蛋壳。「带去 Cadmar 会被杀」。他说话时骑姿绷紧、咬紧下颌。
 
-**关键词**：egg、raptors、clenched
+**关键词**：egg、Cadmar、clenched
 
 **为什么这样写**：传家宝一夜之间变成跨国违禁品——「part of an egg」把神兽设定压进一句话；「rides tense / jaw clenched」的身体反应先于解释到达，暗示这话题对他并不轻松。
 
