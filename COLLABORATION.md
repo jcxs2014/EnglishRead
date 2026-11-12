@@ -72,6 +72,14 @@ commit：约 50 条 pathspec 提交（ch01 c0f343c07 … T1 整改 c329cb3d5）�
 敏感内容处理：本书含露骨性描写与自伤/刑讯场景，精读选句一律避开 graphic 段、保留同意节拍与情节功能句，并在读者提示中标注越界与资源边界。
 日志指引：本条即完工通报；逐批整改记录见任务表与 raw-gates（.memory/raw-gates/i-m-not-scared-omnibus-by-jaye-pratt/）。
 
+《I'm Not Scared Omnibus》T3 全量深审结论（2026-11-12 执行，档位=深）：R0→R5 全量，**50/50 章逐章 R1→R4，无抽检、未审章 0**。
+覆盖：R1 素读派盲读子代理 17 批（只给 text 路径+四条产出）；R2 chapter.sh --json 50/50 verdict=ok；R4 逐块 349 块全过四问+施事三问；断言逐条回原文 400+ 条。
+修复 **81 条＝阻断 1**（ch22「同一夜」时间线错：ch22 回指更早之夜，非 ch16 同夜）**＋提示 80**（分析层英文非逐字 23 · 跨章归属指错 18 · 最高级/计数不成立 8 · 关键词非逐字 4 · 词表例句并接/露骨 3 · 引语跨段并接 6 接缝 · 补章号 1 · 审查方自纠 1 · 生成残留 1）；不修 7 附依据留档。
+工具根因：取证器 v1 只归一化查询串→含撇号片段一律假查无；两侧归一化＋剔 U+2060 后重扫全量才暴露上述缺陷。
+终验：gate EXIT=0 · verbatim --full 372/372=100% · fragments 349 引语/404 片段/MISS 0/拼接 0 · overview quotes 140/140 · chapter.sh 50/50 rc=0。
+产物：.memory/raw-gates/i-m-not-scared-omnibus-by-jaye-pratt/review/ 四件套 50×4=200 件 + 2026-11-12-复核与修复指令.md（81 条改前→改后+缺陷分类+不修留档）；台账一行（深·异会话；如实备注＝写作同会话续审，R1 派盲读子代理、R2–R5 主会话）。
+commit：T3 相关 18 条（f6a2c314a … d670775f5）；**未 push**。
+
 ### [2026-11-11 21:00 UTC] [ZCode-Mac] → All
 
 **完工**：imprisoned-with-the-vampire-king-by-lola-glass（《Imprisoned with the Vampire King》，Fated Mate Bonds #5，Lola Glass）29 章+总览三篇全部完工。
