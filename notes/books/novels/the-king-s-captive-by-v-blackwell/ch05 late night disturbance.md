@@ -22,7 +22,7 @@ modified: "2026-11-12"
 > **原句 2:** "That was the fourth time. I've been unwillingly keeping count in my head. Maybe one day the numbers will blur and I'll lose track, but right now I still know. Four. And for the past three weeks he hasn't touched anyone else, only me. … He's not exactly hard to look at either… I can admit that much, even if I don't want to. … Still, choosing me every single time feels… odd."
 **中文理解**：那是第四次。他不由自主地在心里记着数，也许某天数字会模糊掉，但现在他还清楚——四。过去三周，Soren 没碰过任何别人，只找他。……他也不得不承认对方不算难看，这还是他不想承认的部分。……可每次都选他，这件事让他觉得……说不清。
 **关键词**：fourth time / count / only me / odd
-**为什么这样写**：计数是创伤叙事里最冷的刻度——unwillingly 三个音节写尽「不想记却停不下来」的矛盾；only me 这个事实被作者放进计数段而非抒情段，让排他性以数据形态落地；省略号拼出的三段递进（认数→认脸→认怪），是他向自己让步的三小步。
+**为什么这样写**：计数是创伤叙事里最冷的刻度——unwillingly 这个词写尽「不想记却停不下来」的矛盾；only me 这个事实被作者放进计数段而非抒情段，让排他性以数据形态落地；省略号拼出的三段递进（认数→认脸→认怪），是他向自己让步的三小步。
 **读者视角提示**：读者拿到了第一条关系硬数据（四次／三周／只找他）；odd 这个词是 Kit 全章承认的终点——更深的那部分（期待）要到下一段才敢露头。
 
 > **原句 3:** "Then that feeling arrives. The one that makes the back of your neck prickle. … I turn slowly, cautiously… and come face-to-chest with a solid wall of muscle. Oh dear. I tip my head back… yep, there he is. Soren is standing right there, wearing a very clear, drunk grin. He looks far too pleased with himself for having managed to sneak up on me."
@@ -58,7 +58,7 @@ modified: "2026-11-12"
 > **原句 8:** "I move back behind him, not letting him turn around. The mask goes over his eyes first. I settle it carefully so he can't see a damn thing. Perfect. No green eyes staring up at me; no risk of that unwanted intimate feeling creeping in. Fuck that."
 **中文理解**：他绕到背后，不让对方转身；先把眼罩给他戴好，仔细调到什么都看不见。完美——没有绿眼睛往上看他，就不会有那种不想要的亲密感钻进来。想都别想。
 **关键词**：mask / carefully / green eyes / creeping in
-**为什么这样写**：carefully 与 fuck that 在四行内并置——他连遮眼都做得温柔，嘴上却把亲密感当入侵处理；settle 的手势与 ch04 按创可贴的力道是同一双手的两副表情，防的不是对方，是自己。
+**为什么这样写**：carefully 与 fuck that 在四行内并置——他连遮眼都做得温柔，嘴上却把亲密感当入侵处理；settle 的手势与 ch02 按创可贴的力道是同一双手的两副表情，防的不是对方，是自己。
 **读者视角提示**：眼罩是他给自己修的堤坝，读者知道水在往哪流——「防眼睛」这个动作本身承认了眼睛的威力；堤坝在本章末被他自己亲手拆掉。
 
 > **原句 9:** ""Come on, Kit," I growl, teeth clenched. "Fucking talk to me. I know you can. Let me hear that pretty voice." … He only turns his face away, lips parted, breathing hard. The silence just makes me hungrier and more frustrated at the same time."
