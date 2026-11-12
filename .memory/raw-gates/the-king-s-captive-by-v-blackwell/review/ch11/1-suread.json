@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch11",
+ "text": "text/ch11_epilogue.txt",
+ "facts": [
+  {
+   "fact": "索伦两步并作一步下楼进书房，仍恼火阿门挑的时机总是这么糟。",
+   "anchor": "I take the stairs down to my study two at a time, still irritated. Armen’s timing is shit, as usual.",
+   "start": 33,
+   "end": 133
+  },
+  {
+   "fact": "阿门举着薄黑文件夹汇报：黑卡办妥、账户干净、没有可追查的纸面痕迹，并已存入索伦指定的确切金额。",
+   "anchor": "“Black card’s done. Properly set up, clean accounts, no paper trail that leads anywhere useful. Deposited the exact amount you told me to.",
+   "start": 816,
+   "end": 954
+  },
+  {
+   "fact": "卡上以银色凸印着‘克里斯托弗·辛克莱’——索伦把自己的姓给了基特。",
+   "anchor": "The name embossed on the card sits there in clean silver lettering. ‘Christopher Sinclair.’",
+   "start": 1215,
+   "end": 1306
+  },
+  {
+   "fact": "索伦说难道要把埃弗利印在卡上，语气对阿门的调侃毫不买账。",
+   "anchor": "I’m not putting Everly on the fucking card, am I?” I say completely unamused by his antics.",
+   "start": 1748,
+   "end": 1839
+  },
+  {
+   "fact": "索伦在书桌后的大画上按暗扣，画幅无声外旋，露出嵌在墙里的保险箱。",
+   "anchor": "It swings outward on silent hinges when I press the hidden catch; my safe sits recessed in the wall.",
+   "start": 2698,
+   "end": 2798
+  },
+  {
+   "fact": "索伦叮嘱阿门密码只在紧急时用，除非他死了或出了大问题。",
+   "anchor": "“The code is only for emergencies,” I tell him. “You don’t open this unless I’m dead",
+   "start": 3037,
+   "end": 3121
+  },
+  {
+   "fact": "索伦把不宜数字化的条目写进锁在书桌底抽屉里的厚重账簿。",
+   "anchor": "pen moving steadily across the page of one of the heavy logbooks I keep locked in the bottom drawer",
+   "start": 3601,
+   "end": 3700
+  },
+  {
+   "fact": "他感到一种无形的不安：某种遥远却已注定的事正在逼近。",
+   "anchor": "a quiet, persistent sense that something is shifting… something distant but already fated, drawing closer with every hour that passes.",
+   "start": 4495,
+   "end": 4629
+  }
+ ]
+}
