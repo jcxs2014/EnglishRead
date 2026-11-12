@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：出征前 Draven 递上自己的钢水壶——「回来安全。这是命令。」
 
-**关键词**：laguncula、temple、order
+**关键词**：water、temple、order
 
 **为什么这样写**：军令句式包装温柔（It's an order 的军阶语气说最软的话）——他把她出征的焦虑翻译成可执行条款；temple kiss 的落点在发际线：亲密而不僭越。
 

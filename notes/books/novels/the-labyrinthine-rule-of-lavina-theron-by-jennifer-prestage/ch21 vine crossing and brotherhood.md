@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：Rokin 的旁证：别的 century 不一样——命令多、自由思考的空间少，「有时候没人懂为什么就挨整」。
 
-**关键词**：command、free-thinking、worked
+**关键词**：command、free-thinking、comfortable
 
 **为什么这样写**：新兵视角的军队生态观察——他甚至不知道自己描述的是 Lucan 的迁怒（ch16 的天未亮拉练）；「figure things out ourselves」正是她带兵法的核心资产。
 
