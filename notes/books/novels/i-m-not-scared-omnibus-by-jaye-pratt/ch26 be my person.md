@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：Kayla 正式进入岛上工作层（夜猎搭档），四人的认领状态被 Vero 汇总；Clay—Kayla 线在监控里推进；Vero 的占有逻辑从 ch16 的病态转向带笑意的盘算，但 Cave 那句仍是暗线。
 - **Tropes 兑现/反转**：兑现「小丑服装+jump scare 教学」；反转是她的天赋来自童年隐形术；Vero 的安静（ch16 是损伤、这里是满足）第三次改写「安静」语义。
 - **人物弧线**：Vero：好主意清单=他的自我叙事；承认「不是自己」但威胁句未收回；Kayla：隐形安静作为生存技能被重新估值；Clay：首次被看见真实笑容；Ares：被点名为唯一未承认者。
-- **叙事手法**：以 Vero 的清单独白开场；夜猎按空间蒙太奇推进（通道—墓园—精神病院）；监控室段是全书唯一「观看他人亲密」的结构，露骨内容本章精读不选入，仅收其叙事功能（微笑）。
+- **叙事手法**：以 Vero 的清单独白开场；夜猎按空间蒙太奇推进（通道—墓园—精神病院）；监控室段是全书唯一「隔屏观看他人亲密」的结构（ch24 是同处一室的在场观看），露骨内容本章精读不选入，仅收其叙事功能（微笑）。
 
 ## 精读
 > **原句 1:** "I have had a lot of good ideas in my life. Handcuffing myself to Kayla was a good idea, and climbing onto the roof of the Asylum was a good idea in theory, even if the execution needed some work. Convincing Gerald to let me borrow one of his baby rabbits for a night to cuddle was a phenomenal idea. But I think this is going to top them all."
