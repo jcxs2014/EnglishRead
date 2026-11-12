@@ -36,7 +36,7 @@ modified: "2026-11-12"
 
 > **原句 3:** ""Benedict has demanded action. We need all six gone." "Okay," I bite through my teeth. "I can handle it. When?" … He sighs exasperatedly. "Of course you didn't. We're outsourcing this." Makes sense. All six names on that list could lead back to either of us. But I would still do it. Just to be rid of the problems."
 
-**中文理解**：Reuben 传达 Benedict 的命令：名单上六个人全部清除；Orzo 咬着牙应下「我能处理，什么时候？」——Reuben 叹气说当然不能由你们动手，这活要外包；他觉得在理，六个名字谁都牵连得起查，但他还是愿意亲手做，就为甩掉这些麻烦。
+**中文理解**：Reuben 传达 Benedict 的命令：名单上六个人全部清除；Orzo 咬着牙应下「我能处理，什么时候？」——Reuben 叹着气回他「你当然没听见」——这活要外包；他觉得在理，六个名字谁都牵连得起查，但他还是愿意亲手做，就为甩掉这些麻烦。
 
 **关键词**：Benedict has demanded action / all six gone / We're outsourcing this / Just to be rid of the problems
 

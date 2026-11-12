@@ -1,0 +1,250 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/ch07 i m nuts about you.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch07_7_i_m_nuts_about_you.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Cinnamon. The name echoes around as I tighten my grip on the steering wheel",
+          "ok": true,
+          "pos": 29
+        },
+        {
+          "text": "When I met her all those years ago, I had zero interest. No care at all for the little child, it's why I left her there.",
+          "ok": true,
+          "pos": 208
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"What?\" I snap into the phone, watching as Cinnamon gets out of the car, before circling around to let the drunk idiot o",
+          "ok": true,
+          "pos": 1659
+        },
+        {
+          "text": "It takes everything inside of me to not kill him. For touching her",
+          "ok": true,
+          "pos": 2407
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Benedict has demanded action. We need all six gone.\" \"Okay,\" I bite through my teeth. \"I can handle it. When?\"",
+          "ok": true,
+          "pos": 1864
+        },
+        {
+          "text": "He sighs exasperatedly. \"Of course you didn't. We're outsourcing this.\" Makes sense. All six names on that list could le",
+          "ok": true,
+          "pos": 2577
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "My attention lands on her. On the determination lit by the street lamp above. Fuck, she's clumsy. On the dried blood bel",
+          "ok": true,
+          "pos": 3150
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Back when I was a teenager, I was plagued with bad luck; it is the curse of the Rouxs",
+          "ok": true,
+          "pos": 4483
+        },
+        {
+          "text": "Except",
+          "ok": true,
+          "pos": 527
+        },
+        {
+          "text": "Sixteen years ago, my misfortune had dispersed, and at the time, I thought it was linked to my father's death. But the m",
+          "ok": true,
+          "pos": 4578
+        },
+        {
+          "text": "The more I question",
+          "ok": true,
+          "pos": 4716
+        },
+        {
+          "text": "What if I gave her my bad luck",
+          "ok": true,
+          "pos": 4737
+        }
+      ],
+      "words": 59
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. I'm Nuts About You",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5,
+      6
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 924,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 70 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
