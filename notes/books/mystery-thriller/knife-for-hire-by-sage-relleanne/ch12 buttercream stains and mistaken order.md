@@ -74,13 +74,6 @@ modified: "2026-11-12"
 
 **读者视角提示**：对照第 1 章——「Julienne Napolitan」曾在查案电话里出现；如今它以「客户姓名」的身份回到叙事里。而要被「取货」的肉桂正是 Cinnamon 本人：她即将作为配料，去给这个陌生人上最后一道菜。
 
-**中文理解**：Jack 说她完全出乎意料，问她有什么特殊需求；她不假思索：肉桂——给所有客户的独家配料；Jack 听得脸色发白，又问她的计划；她答：做菜、按要求上菜、走人；Jack 递来姓名地址，说 B.L.T. 会邮件告知日期时间并安排取「肉桂」，一两天内就好；她展开纸条——Julienne Napolitan。
-
-**关键词**：anything special you need / my special ingredient / serve it to the person as requested / Julienne Napolitan
-
-**为什么这样写**：special ingredient 是全章误会的高峰——她说的是厨房里的灵魂香料，对方听到的是毒药的品牌名；Jack 的脸色从 twitch 走到 paled，惊恐有了刻度。serve it to the person as requested 在两个词典里都是死刑判决，只是判决书内容完全不同；最后纸条摊开，Julienne Napolitan 六个音节把前十二章的所有线索第一次钉在一个具体的人名上。
-
-**读者视角提示**：对照第 1 章——「Julienne Napolitan」这个名字曾在查案电话里出现；如今它以「客户姓名」的身份回到叙事里。B.L.T. 要「安排取货的肉桂」正是她（Cinnamon）本人——她即将被当作配料，送去给 Julienne 上最后一道菜。
 
 ## 本章词汇
 
