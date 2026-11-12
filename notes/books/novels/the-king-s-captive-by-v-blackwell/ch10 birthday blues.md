@@ -16,7 +16,7 @@ modified: "2026-11-12"
 > **原句 1:** "I stand at the counter mechanically, measuring out flour the way Lorraine showed me, movements slow and automatic. My chest still feels heavy from the table. The earbuds are gone now; it felt wrong to keep them in."
 **中文理解**：他照着 Lorraine 教的方法量面粉，动作缓慢而机械；早餐桌留下的沉重感还压在胸口，耳机也取下了，继续戴着反而不对劲。
 **关键词**：mechanically / flour / heavy / earbuds
-**为什么这样写**：生日蛋糕的准备本该令人期待，mechanically 和 automatic 却让动作像执行指令；耳机曾是争取来的小小自由，此刻仍不能替他隔开餐桌造成的失落。
+**为什么这样写**：生日蛋糕的准备本该令人期待，mechanically 和 automatic 却让动作像执行指令；耳机是上一章才被允许的小小自由，此刻仍不能替他隔开餐桌造成的失落。
 **读者视角提示**：本章开头没有抹去上一章的伤，暖意必须从这份沉重里慢慢长出来。
 
 > **原句 2:** "My eyes go wide; for a long moment, I just blink at it. “Is that… for me?” I whisper. … I hesitate. “Am I… allowed this?”"

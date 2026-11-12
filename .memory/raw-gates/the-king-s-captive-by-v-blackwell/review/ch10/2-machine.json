@@ -1,0 +1,530 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/ch10 birthday blues.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/text/ch10_chapter_ten.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I stand at the counter mechanically, measuring out flour the way Lorraine showed me, movements slow and automatic. My ch",
+          "ok": true,
+          "pos": 39
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "My eyes go wide; for a long moment, I just blink at it. “Is that",
+          "ok": true,
+          "pos": 667
+        },
+        {
+          "text": "for me?” I whisper",
+          "ok": true,
+          "pos": 732
+        },
+        {
+          "text": "I hesitate. “Am I",
+          "ok": true,
+          "pos": 800
+        },
+        {
+          "text": "allowed this?”",
+          "ok": true,
+          "pos": 818
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Then I open it and my breath catches, because almost everyone has written in it",
+          "ok": true,
+          "pos": 1452
+        },
+        {
+          "text": "But",
+          "ok": true,
+          "pos": 887
+        },
+        {
+          "text": "Soren’s name isn’t there; he probably doesn’t even know the card exists. I don’t know why it bothers me, but it does",
+          "ok": true,
+          "pos": 1970
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I should be with my parents right now. They would have made a ridiculous fuss. There would have been too much food and t",
+          "ok": true,
+          "pos": 2266
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The sweet vanilla batter tastes like something from a different life",
+          "ok": true,
+          "pos": 3365
+        },
+        {
+          "text": "I watch her move around and hum off-key and let myself enjoy the simple fact that someone is trying",
+          "ok": true,
+          "pos": 4302
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I shrug; it’s never really about what I want to do. It’s about what I’m allowed to do. The thought drags me straight bac",
+          "ok": true,
+          "pos": 4734
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He demands my attention whenever he wants but can’t even say happy birthday to me. I don’t even know why I care",
+          "ok": true,
+          "pos": 5440
+        },
+        {
+          "text": "I turn around and",
+          "ok": true,
+          "pos": 6117
+        },
+        {
+          "text": "Soren is standing in the doorway. His eyes are wide and he’s staring straight at me",
+          "ok": true,
+          "pos": 6136
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I presume you want the usual week to yourself in March, for your husband?”",
+          "ok": true,
+          "pos": 7277
+        },
+        {
+          "text": "Lorraine’s voice softens. “If that’s not a problem? I like to have some time to myself at our favourite places",
+          "ok": true,
+          "pos": 7407
+        },
+        {
+          "text": "to keep his memory alive.”",
+          "ok": true,
+          "pos": 7516
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "His voice comes out deeper than usual, almost careful. “Happy birthday, Christopher.”",
+          "ok": true,
+          "pos": 8826
+        },
+        {
+          "text": "I meet his gaze for the briefest second, then look away and give the tiniest nod",
+          "ok": true,
+          "pos": 8910
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He grunts as he straightens up. “Giving Kit his birthday present.”",
+          "ok": true,
+          "pos": 9584
+        },
+        {
+          "text": "Something traitorous and warm tries to flicker in my chest at the implication; I crush it immediately. I’m not happy abo",
+          "ok": true,
+          "pos": 10218
+        },
+        {
+          "text": "I hate this man",
+          "ok": true,
+          "pos": 10346
+        },
+        {
+          "text": "I hate him. I repeat it to myself like a mantra as he carries me up the stairs",
+          "ok": true,
+          "pos": 10363
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I have to stay detached",
+          "ok": true,
+          "pos": 13057
+        },
+        {
+          "text": "not just for my parents’ sake and not just because this man is a known monster. But because no matter how many horrible ",
+          "ok": true,
+          "pos": 13082
+        },
+        {
+          "text": "or maybe ever could. And I’m terrified of how long it will be before that starts twisting into something I can’t take ba",
+          "ok": true,
+          "pos": 13304
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Just this once, I tell myself",
+          "ok": true,
+          "pos": 14579
+        },
+        {
+          "text": "it’s my birthday; I can let myself feel it",
+          "ok": true,
+          "pos": 14610
+        },
+        {
+          "text": "A change is coming; I can feel it too, quiet and inevitable under all the fear",
+          "ok": true,
+          "pos": 26241
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Then he just walks out. The door clicks shut behind him with a soft finality, leaving the room suddenly too quiet",
+          "ok": true,
+          "pos": 29873
+        },
+        {
+          "text": "Alright, priorities",
+          "ok": true,
+          "pos": 30511
+        },
+        {
+          "text": "shower first. Horrifying mental spiralling can wait until I’m clean and locked safely in my own room",
+          "ok": true,
+          "pos": 30532
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 12,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 33,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5712,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 10 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

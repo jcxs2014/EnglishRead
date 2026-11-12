@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch10",
+ "text": "text/ch10_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "洛琳从高柜里取出一个大礼袋，放到基特面前的台面上，基特愣住，不敢相信那是给自己的生日礼物。",
+   "anchor": "until she pulls out a large gift bag and sets it on the counter in front of me.",
+   "start": 606,
+   "end": 685
+  },
+  {
+   "fact": "洛琳让基特放心拆礼物享用，说那个“蠢男人”若有意见就当面跟她讲，她不许他再毁掉基特的生日。",
+   "anchor": "If that silly man has anything to say about it, he can say it to my face. I am not letting him ruin your birthday any further.",
+   "start": 969,
+   "end": 1095
+  },
+  {
+   "fact": "生日贺卡上没有索伦的名字，基特为此莫名难受，觉得索伦甚至不知道有这张卡。",
+   "anchor": "But… Soren’s name isn’t there; he probably doesn’t even know the card exists.",
+   "start": 2010,
+   "end": 2087
+  },
+  {
+   "fact": "基特问洛琳“索伦为什么恨我”。",
+   "anchor": "The thought drags me straight back to Soren, and before I can stop myself the question slips out. “Why does Soren hate me?”",
+   "start": 4917,
+   "end": 5040
+  },
+  {
+   "fact": "索伦问洛琳是否照例要三月的整整一周独处，用来纪念她丈夫。",
+   "anchor": "I presume you want the usual week to yourself in March, for your husband?",
+   "start": 7451,
+   "end": 7524
+  },
+  {
+   "fact": "索伦的声音比平时低沉、几乎带着小心，说“生日快乐，克里斯托弗”。",
+   "anchor": "His voice comes out deeper than usual, almost careful. “Happy birthday, Christopher.”",
+   "start": 9049,
+   "end": 9134
+  },
+  {
+   "fact": "索伦用肩膀顶住基特胸口、手臂勾住他大腿，把他整个人扛到肩上。",
+   "anchor": "he bumps his shoulder into my chest, hooks an arm around my thighs, and hauls me clean over his shoulder.",
+   "start": 9724,
+   "end": 9829
+  },
+  {
+   "fact": "基特小声嘟囔“我们刚刚才做过”，索伦听见了并纠正说那是大约十五小时之前。",
+   "anchor": "He catches it anyway. “No, that was about fifteen hours ago.”",
+   "start": 10423,
+   "end": 10484
+  }
+ ]
+}
