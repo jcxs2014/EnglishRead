@@ -1,0 +1,67 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch04_4_this_carrot_isn_t_for_cooking.txt",
+ "facts": [
+  {
+   "fact": "网站设计师一听就明白她要的是「那种网站」，加收保密费并问她有没有装 VPN。",
+   "anchor": "Web designer: So it is that type of website. It will be an extra charge for discretion. Do you have a VPN set up for this?",
+   "start": 158,
+   "end": 280
+  },
+  {
+   "fact": "Cinnamon 完全不懂为什么要防黑客、VPN 是什么东西。",
+   "anchor": "Confusion percolates through me at why my website would be hacked and why I would need a VPN.",
+   "start": 461,
+   "end": 554
+  },
+  {
+   "fact": "设计师强烈反对她放作品照片和家庭地址，让她只写城市。",
+   "anchor": "Web designer: no pictures!! No home address!! Use city.",
+   "start": 1195,
+   "end": 1250
+  },
+  {
+   "fact": "设计师要求先配 VPN 和安全邮箱，并用加密货币付款。",
+   "anchor": "Web designer: Stop, please. Let me set up your VPN first. I’ll set you up a secure email as well. Can you send my payment via crypto?",
+   "start": 1314,
+   "end": 1447
+  },
+  {
+   "fact": "Cinnamon 同意设计师远程控制她的电脑代为付款。",
+   "anchor": "A few beats later, a pop up appears on my screen and I agree to let him have control.",
+   "start": 3248,
+   "end": 3333
+  },
+  {
+   "fact": "她把完整信用卡号、有效期、安全码和邮编直接发进了聊天窗。",
+   "anchor": "Cinnamon: 4516 7444 9823 4753—exp: 09/29—333—zip is 39133",
+   "start": 3753,
+   "end": 3810
+  },
+  {
+   "fact": "设计师提醒她永远别把卡片信息发给任何人。",
+   "anchor": "Web designer: Please don’t ever send that to anyone else.",
+   "start": 3813,
+   "end": 3870
+  },
+  {
+   "fact": "她抱着紫色青蛙想起十六年前妈妈去世的那天，自己手里也攥着它。",
+   "anchor": "And sixteen years ago, the day my mom died, I was holding it too.",
+   "start": 4673,
+   "end": 4738
+  },
+  {
+   "fact": "她问过女警关于 Orzo 的下落：当时屋里只有她、Herb、另一个女人和她的妈妈。",
+   "anchor": "When I asked the police officer about him, she had said I was the only one in the house besides Herb, another woman, and my mom.",
+   "start": 4995,
+   "end": 5123
+  },
+  {
+   "fact": "多年后她试图寻找 Orzo，他却像幽灵一样查无踪迹。",
+   "anchor": "And when, years later, I tried to hunt him down, it was as if he were a ghost.",
+   "start": 5124,
+   "end": 5202
+  }
+ ]
+}
