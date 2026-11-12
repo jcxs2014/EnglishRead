@@ -32,7 +32,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：两组自问自答（Hell yeah / No. No, I do not.）用最俗白的节奏给自己的能力画像——手艺满分、商业零分，中间没有任何过渡。the small circular window 是本章最重要的一件道具：它的存在意味着「门后有人」，而她只是把它当成装修。sweaty palms under the table 的掩饰动作，写尽她的临场虚张。
 
-**读者视角提示**：这扇小圆窗在第 11 章的监视视角里出现过——她终于和买家共处一室，只隔一层玻璃。往后每当你读到这扇窗，都该想起有人在看：这场会面从来不是两个人的。
+**读者视角提示**：这扇小圆窗只在本文出现一次，但你已经在第 11 章知道了门后有人在看：她终于和买家共处一室，只隔一层玻璃。往后每当你读到这扇窗，都该想起有人在看：这场会面从来不是两个人的。
 
 > **原句 3:** ""Miss Cinnamon, rest assured this is a safe location and our conversation will not spread to any ears. We can speak openly here." Mr. Jack narrows his eyes. "What all do you need?" I think on that; I do have a small list compiled in my head. "Who—I mean, who will I be c—" Mr. Jack interrupts, his eyes widening in surprise. "At the end." My eyes widen in shock from his abrupt tone. Huh? Okay."
 

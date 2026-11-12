@@ -42,7 +42,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：两个门牌号（3D 与 3B）是本章最安静的一对信息——作者用报家门的方式把两人的物理距离写成一句话：across the hall。vanilla scent wafts into my lungs 把心动写成生理事件——她不是被谈吐打动，是被气味击中；witty response 与 tied tongue 的落差就是心动的定义。
 
-**读者视角提示**：John Smith 这个名字值得停一秒——它在本书另一位戴眼镜的警探嘴里出现过的次数，数一数会很有意思（第 5 章「It's Smith」）。还有那只叫 Beanie 的狗：本章它是 John 的狗，第 9 章它是谁的狗，两只狗一个名字，作者在请你做连线题。
+**读者视角提示**：John Smith 这个名字值得停一秒——它在本书另一位戴眼镜的警探嘴里出现过的次数，数一数会很有意思（第 5 章「It's Smith」）。还有那只叫 Beanie 的狗：本章它是 John 的狗，而第 9 章那个通宵筛邮件的警探脚边也有一条同名同种的狗——作者把一张答案的底牌提前放在了这里。
 
 > **原句 4:** ""You'll see." Bran is marching away now. "This isn't over, Cinnamon." He shouts over his shoulder as he goes. I become acutely aware that it is late. That the dress I wear is now stained with buttermilk and burger grease. That Olive will want all the details of my first meeting. That I never asked what I am supposed to be cooking."
 
