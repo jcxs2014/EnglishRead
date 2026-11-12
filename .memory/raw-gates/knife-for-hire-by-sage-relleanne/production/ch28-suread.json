@@ -1,0 +1,67 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch28",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch28_28_you_re_the_apple_of_my_eye.txt",
+ "facts": [
+  {
+   "fact": "Orzo 查不出这栋房子归谁。",
+   "anchor": "I couldn’t find anything on whose house this is.",
+   "start": 168,
+   "end": 216
+  },
+  {
+   "fact": "屋里没有照片、私物和邮件。",
+   "anchor": "There are no pictures covering the walls, no personal belongings or mail.",
+   "start": 241,
+   "end": 314
+  },
+  {
+   "fact": "他的结论：住在这里的人是个幽灵。",
+   "anchor": "Whoever lives here is a ghost.",
+   "start": 317,
+   "end": 347
+  },
+  {
+   "fact": "他定位她的手机一路追到城外。",
+   "anchor": "I tracked Cinnamon’s phone across town",
+   "start": 386,
+   "end": 424
+  },
+  {
+   "fact": "他本可以打开她的电脑翻文件。",
+   "anchor": "I should open it, go through the files.",
+   "start": 615,
+   "end": 654
+  },
+  {
+   "fact": "他决定让她自己说。",
+   "anchor": "I’ll let her tell me instead.",
+   "start": 730,
+   "end": 759
+  },
+  {
+   "fact": "他想得到她的信任。",
+   "anchor": "I want her to trust me.",
+   "start": 762,
+   "end": 785
+  },
+  {
+   "fact": "他替她的手机插上充电。",
+   "anchor": "I plug her phone in",
+   "start": 964,
+   "end": 983
+  },
+  {
+   "fact": "他锁好所有门窗再把自己锁在门外。",
+   "anchor": "I secure all the windows and doors before letting myself out the front and locking it behind me.",
+   "start": 1030,
+   "end": 1126
+  },
+  {
+   "fact": "他还要去找名单上最后一个 Aldente。",
+   "anchor": "I still need to uncover the whereabouts of the last Aldente on the list",
+   "start": 1162,
+   "end": 1233
+  }
+ ]
+}

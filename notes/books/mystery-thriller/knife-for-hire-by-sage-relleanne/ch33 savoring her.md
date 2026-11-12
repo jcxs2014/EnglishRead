@@ -93,7 +93,7 @@ modified: "2026-11-12"
 | deception | 欺骗；谎言 | "Does the name Kale ring any bells?" I watch her for any signs of deception. |
 | off kilter | 失衡；不稳 | Off kilter. Innocent. Naïve. |
 | intently | 专注地；目不转睛地 | Sitting on the barstool, I watch Cinnamon intently as she moves around the kitchen. |
-| unsteady | 不稳的；颤抖的 | "Yes," wobbles from my lips unsteadily. |
+| unsteadily | 不稳地；颤抖地 | "Yes," wobbles from my lips unsteadily. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

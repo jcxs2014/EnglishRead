@@ -78,7 +78,7 @@ modified: "2026-11-12"
 
 **中文理解**：「三个完了，还剩三个。」他确认——「你是个好人，Reuben。你为我女儿做的事是对的。等这一切结束……我们还是得让两家联姻。」这个提议悬在两人之间……「孩子，我们得变得更强才能扛住剩下的 Napolitan 与 Aldente 的怒火。他们会来讨血债的。她的事不是你的错……是他们。」
 
-**关键词**：You're a good man / join our families / not your fault / It was theirs
+**关键词**：You're a good man / join our families / pound of flesh / It was theirs
 
 **为什么这样写**：You're a good man 由那个提议「把两个家族并起来」的人说出，两种语气在同一段里——安慰与交易是一枚硬币。作者让 Benedict 用「她的事不是你的错」替 Reuben 减刑，同时用「我们得联姻」把她的死变成筹码：这家人的哀悼从来都是生意。
 
