@@ -18,7 +18,7 @@ modified: "2026-11-12"
 
 **中文理解**：Fragon 爆料后的血速一拳：Lucan 被击倒在地——鼻血横流、全院静止。
 
-**关键词**：punch、sways、gushes
+**关键词**：Draven’s、blood-gifted、punch
 
 **为什么这样写**：「before we can process the speed」的旁观者延迟视角让暴力有了弹道感——他的反应速度快到她的眼睛都成了慢镜头；将军的屁股着地是全书对 Lucan 最体面的羞辱。
 
@@ -98,7 +98,7 @@ modified: "2026-11-12"
 
 **中文理解**：石头隐喻收束：「那你就是我的新 Brinden Stone——有了你，我不需要别的了。」
 
-**关键词**：artifact、Stone、another
+**关键词**：Brinden、Stone、don’t
 
 **为什么这样写**：她把人封为石头——全书物品神学的终点（认主/验印/调节/致病/中和→人形化）；他的回敬「you are quite the artifact, too」让互封完成。
 

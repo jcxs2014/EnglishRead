@@ -78,7 +78,7 @@ modified: "2026-11-12"
 
 **中文理解**：他把她从马上甩开——像丢一件无关紧要的东西。
 
-**关键词**：tosses、significance、distance
+**关键词**：helps、literally、tosses
 
 **为什么这样写**：入戏的「粗鲁」是保护动作的伪装——他连温柔都要演成冷漠；「like I'm nothing」与她实际的「一切」构成全章最强的反讽落差。
 
@@ -108,7 +108,7 @@ modified: "2026-11-12"
 
 **中文理解**：他的功课：「并非所有柔软都是脆弱，Lavina。」
 
-**关键词**：softness、fragility、prattles
+**关键词**：softness、fragility、Lavina
 
 **为什么这样写**：他学会她的话术节奏（抢在她毒舌之前吻住）——温柔的纠正先于玩笑落地；这句也是对 Cadmar 女性「不警觉」偏见的自我修正。
 
@@ -118,7 +118,7 @@ modified: "2026-11-12"
 
 **中文理解**：他的恐惧自白：「你太习惯这个角色——让我开始疑问你以前经历过什么、不得不做过什么。看你变成另一个人，我才明白你对赴死有多熟练。」
 
-**关键词**：ease、witnessed、risking
+**关键词**：softness、fragility、Lavina
 
 **为什么这样写**：「too at ease」是全书第一次有人反向审计她的间谍人格——保护者的位置在第六次护她之后正式互换；「comfortable with risking death」的判词与她「I am no stranger to the dead」的开场白接上电路。
 

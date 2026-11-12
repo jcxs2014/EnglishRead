@@ -18,7 +18,7 @@ modified: "2026-11-12"
 
 **中文理解**：放逐令传达：父亲亲口确认——「Yes, daughter.」
 
-**关键词**：daughter、exiled、decided
+**关键词**：daughter、father
 
 **为什么这样写**：Percival 的 shame 不闪避（a true king never would）与 Nash 的「only way we can keep the kingdom unified」共同交付判决；Eirene 推动流放的真相（「She said she had the idea from you」）让母女的政策同盟完成最后一役。
 
@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：私衔授勋：Percival 在 cottage 里叫她「General Theron」。
 
-**关键词**：bestowing、General、privacy
+**关键词**：served、General、Theron
 
 **为什么这样写**：她求了全书的头衔在放逐日以私人形式兑现——「I know it must remain in the privacy of this cottage」的限定让军衔变成遗产；「Thank you, brother.」的兄妹关系越过君臣。
 
@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：临别威胁：「若你们护不住我妹妹——我会回来把你们全部烧死。」
 
-**关键词**：burn、sister、threat
+**关键词**：fail、keep、sister
 
 **为什么这样写**：演说的三段递进（拒绝 Dranderon 公主身份→ride for men not kings→burn you all alive）把告别变成条约；「I fear none of you」的宣言让她的离开带着核威慑的重量。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：部下集体跟随：Icarus（「When they exiled you for your blood, they lost my blade, too」）/Fragon（引用她的旧话）/Areneas（马厩挨打证明立场）/Blight+Peltin+Hellbore 全体；Seeker 号可载数百人（「That thing is a palace on the sea」）；Alden 不能来、Luminara 要告别
 
-**关键词**：all of us、none、Fragon
+**关键词**：it’s、none
 
 **为什么这样写**：Fragon 引用她的旧话（ch02 的誓言）回赠她——她的话变成部下的法律；「That thing is a palace on the sea」的船的规模让流亡军队有了编制（可载数百人、未满员）。
 

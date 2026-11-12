@@ -8,7 +8,7 @@ modified: "2026-11-12"
 ## 本章导航
 - **一句话概括**：初夜（敏感章·克制分析）——训练框架的互相出题、许可问句与互诉、愈合血赋的独特工程学、Areneas 调剂品误会——收在「I'm going to keep you」/「Please」。
 - **情感弧线位置**：结合章——选择（chosen a man）的最终兑付；等待者与行动者的叙事权之争由她胜出。
-- **Tropes 兑现/反转**：「初夜」兑现但以 consent 与工程学展开；反转在「I ascended for the people I love」——她的人生不被等待定义。
+- **Tropes 兑现/反转**：「初夜」兑现但以 consent 与工程学展开；反转在「I ascended to what I am for the people I love」——她的人生不被等待定义。
 - **人物弧线**：Draven：ask-first 语法+beholden 宣言+迟到愧疚被赦免；Areneas：Noxari 的最后一格守护；她：keep 的动词最终态。
 - **叙事手法**：敏感章的克制（情绪节拍全保留、身体描写全部让位）；对峙引语互还；省略号的职业创伤（taken）；keep 三段式。
 
@@ -18,7 +18,7 @@ modified: "2026-11-12"
 
 **中文理解**：对峙开场：他把她的原话奉还——被她勒令「选自己的词」。
 
-**关键词**：Funny、repeats、own
+**关键词**：Funny、same、repeats
 
 **为什么这样写**：「You don't get to use my words」的版权声明让调情有了竞技规则——两人共用一套语言的甜蜜负担；她的反击（「you said you wouldn't fuck me if our men were downstairs」）让核弹级的直白进入日常对话。
 
@@ -108,7 +108,7 @@ modified: "2026-11-12"
 
 **中文理解**：收束：「我打算把你留下，Draven Artrayu。」
 
-**关键词**：keep、Draven、Artrayu
+**关键词**：think、keep、Draven
 
 **为什么这样写**：ch29 的「I want to keep you」在此升级为全名宣告——keep 从请求变成决定；他的回答（「Please.」一个词）把求婚的音量降到最低、把心交到最高。
 
@@ -136,7 +136,7 @@ modified: "2026-11-12"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | intimidate | 威吓、胁迫 | despite the heat in my cheeks, I’ll never cower from intimidation. |
-| magnificent | 壮丽的、极好的 | “You are magnificent,” he says with wonderment. |
+| magnificent | 壮丽的、极好的 | “You are magnificent. Your curves, the toned parts of you, and your skin are all completely flawless,” he says with wonderment. |
 ## 一句话总结
 初夜（敏感章·克制分析）：训练框架的互相出题、许可问句与互诉、「What if you repeatedly heal?」的独特工程学、Areneas 调剂品的误会与清理——收在「I'm going to keep you」/「Please」。
 

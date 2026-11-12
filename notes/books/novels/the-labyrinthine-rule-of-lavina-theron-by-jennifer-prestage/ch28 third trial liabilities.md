@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：她把地图扔进火里——没有减速看它烧。
 
-**关键词**：toss、burn、passing
+**关键词**：toss、fire、without
 
 **为什么这样写**：与 Alden 的「不到一分钟」呼应的第二个信号——她的记忆也足以支持裸奔路线；「without slowing」的节奏自信是给对手（和观众）的心理战。
 
@@ -98,7 +98,7 @@ modified: "2026-11-12"
 
 **中文理解**：他的承诺：「我不会让你被妥协。」她信了。
 
-**关键词**：compromised、promise、believe
+**关键词**：won’t、compromised、It’s
 
 **为什么这样写**：他用她的军语回赠她（compromised 正是她给 Icarus 的词）——两人第一次共用同一套军事词典谈感情；「I believe him」的简短信条是全书信任感的峰值刻度。
 

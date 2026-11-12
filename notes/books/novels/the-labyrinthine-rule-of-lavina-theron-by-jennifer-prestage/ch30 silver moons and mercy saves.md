@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：客栈故事·他的版本：他抢在她开口前自首——「我亲眼见她因为一句话把成年人放倒。」
 
-**关键词**：fessed、witnessed、attitude
+**关键词**：fessed、witnessed、taking
 
 **为什么这样写**：「The wrong thing—hardly a slip of the tongue」的叙述者旁注戳破他的措辞美化——他把骚扰说成口误；她的翻白眼与全队的 captivated 让同一个夜晚有了两个版本。
 
@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：Hellbore 的军中观察：「人们总是低估她——直到认识她。」
 
-**关键词**：underestimate、knows、claim
+**关键词**：People、always、underestimate
 
 **为什么这样写**：一句总结她全部的战斗风格（伪装柔弱→反杀）——部下的证词比自述更可信；「until they know her」的转折正是本章 Opal 表演的注脚。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：放绳决策：绳不够长——「我能听见你的心跳。Jaco 的更好，它更大。」
 
-**关键词**：heart、larger、follow
+**关键词**：hear、heart、Jaco’s
 
 **为什么这样写**：把「信任他的耳朵」做成声学实验（跟大马的心跳）——放手的风险被技术细节托底；Draven 的服从（surprising obedience）让指挥链第一次反向流动。
 
@@ -108,7 +108,7 @@ modified: "2026-11-12"
 
 **中文理解**：Draven 的绳在手：「需要什么都行。谁再滑我就把他们拉上来。」
 
-**关键词**：haul、slipped、bank
+**关键词**：Anything、needed、planned
 
 **为什么这样写**：他的备战不受情绪干扰（Apex bloodline calm 的叙述旁证）——「haul them up」的对象是她的全部部下；她的确认（「Even Blight?」「Even the little one.」）让敌意正式转为收编。
 

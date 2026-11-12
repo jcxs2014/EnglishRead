@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：命定相遇对账：Seeker 四年前去过 Drighton——ch01 夜里的巨舰与船头身影就是他与它。
 
-**关键词**：skiff、snakes、years
+**关键词**：sure
 
 **为什么这样写**：「The skiff with more than two heartbeats…when there were only two people」的对账让 ch01 的伏笔在本章最后一个正中——他在船头看着她驶过而没拦；她的「I was theirs then」的拒绝（当时属于孩子们）让宿命论有了道德豁免。
 
@@ -48,7 +48,7 @@ modified: "2026-11-12"
 
 **中文理解**：Lumi 的托孤：Alphard 骑马追队——「没人比你更适合救她出这个王国。」
 
-**关键词**：Alphard、trust、mother
+**关键词**：She’s、yours
 
 **为什么这样写**：「Her mother won't…」的未完成句把死亡宣告藏在省略号里——Lumi 即将成为无母的孩子（与她同构）；Vision Stone 换药费（For her mother's care. Sell it.）让 Draven 的慷慨第一次有了价格标签。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：收束：Lumi 骑在 Jaco 上被她环抱——「一切都会好的，亲爱的 Lumi。」
 
-**关键词**：heartbeats、armor、sweet
+**关键词**：Everything、sweet、Lumi
 
 **为什么这样写**：「Her little heart beats so heavily that I can feel it through her back, against my chest, and through my armor」的三层接触（背/胸/甲）让收养有了体温的验证；Draven 的「Our ship」纠正与 Stallion 的命名权移交让新家庭的开局明细落地。
 

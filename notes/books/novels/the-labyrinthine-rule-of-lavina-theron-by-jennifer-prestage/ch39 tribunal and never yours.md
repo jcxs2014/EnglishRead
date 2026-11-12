@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：Skrendith torque 的来历：Shadow Vision 夜导 century 包抄、把敌军赶进主力——金项圈因此而来。
 
-**关键词**：torque、flanking、envelopment
+**关键词**：awarded、guided、century
 
 **为什么这样写**：勋章的战史把她的血赋写成军功——同样的夜视在 Skrendith 是奖赏、在本章是罪证；「when light came」的时间细节让战功有 cinematic 的可信度。
 
@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：护送之争：Lucan 剥夺 Draven 的代理权——「Lord Theron 回来了。」
 
-**关键词**：proxy、returned、authority
+**关键词**：longer、proxy、Lord
 
 **为什么这样写**：代理权的法理拉锯让护送变成阵营宣言——「I'll not have her escorted without allies」的坚持与「You just won't have my Marked alone, Lucan」的公开宣称同框。
 
@@ -78,7 +78,7 @@ modified: "2026-11-12"
 
 **中文理解**：终局一句：「我从来不是你的！你失去的是朋友——仅此而已，Lucan。」
 
-**关键词**：never、lost、friend
+**关键词**：yours、lost、friend
 
 **为什么这样写**：「You lost me as a friend」把他的损失精确命名（不是爱人、是朋友）——她给这段二十年的关系判了死刑但保留了罪名分级；那一拳（他受着不躲）是他唯一敢做的告白。
 
@@ -99,7 +99,7 @@ modified: "2026-11-12"
 |---|---|---|
 | unwavering | 不动摇的 | “She will be fine,” Lucan says, frustrated but unwavering. |
 | panic-stricken | 惊慌失措的 | I glance at Eirene—panic-stricken in ways I recognize. |
-| deliberation | 审议、合议 | They have discussed the possibilities at length, and the tribunal will decide. |
+| deliberation | 审议、合议 | “Commander Theron,” Percival says, “if there is nothing you would like to add, we will excuse you for our deliberation.” |
 | devastation | 毁灭、荒废 | “Just tell the people I’m sorry for the devastation.” |
 
 ### ⭐ 常用

@@ -101,8 +101,8 @@ modified: "2026-11-12"
 |---|---|---|
 | nauseating | 令人恶心的、极不舒服的 | The pain of the transition settles with a nauseating sadness. |
 | calculating | 深思熟虑的、算计的 | His voice is calculating. |
-| treacherous | 险恶的、背叛性的 | Albeit a longer route, the west would’ve been treacherous without great care. |
-| transparent | 透明的、坦率的 | “If it compromises me at all, I want you to know so you can challenge my judgment with full transparency.” |
+| treacherous | 险恶的、艰险的 | “It’s the only route I can think of that wasn’t ours or too treacherous at the pace required. Alden’s made good time, though,” I add. |
+| intermittently | 间歇地 | The horses graze, their breaths catching my attention intermittently. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

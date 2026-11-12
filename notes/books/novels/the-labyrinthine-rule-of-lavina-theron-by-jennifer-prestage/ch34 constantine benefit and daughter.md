@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：国王之死：蓝袍、熟悉的手——她曾叫他叔叔的男人死了。
 
-**关键词**：uncle、dead、recognize
+**关键词**：King、Reynolds、once
 
 **为什么这样写**：「the man I once called my uncle」的限定语把关系降档（从 uncle 到 the man）——她的自责（「And it's my fault.」独立成段）接住全部重量；国王之死同时是政治地震的开始。
 
@@ -98,7 +98,7 @@ modified: "2026-11-12"
 
 **中文理解**：母亲遗言：两个男人异口同声——「Love her。」
 
-**关键词**：both、same、command
+**关键词**：Love、same、time
 
 **为什么这样写**：同一句遗言在两个聆听者的记忆里同时复活——它既是给 Draven 的命令也是给父亲的恳求；Draven 把它当航令执行了二十余年、父亲把它当忏悔守了二十余年。
 
@@ -108,7 +108,7 @@ modified: "2026-11-12"
 
 **中文理解**：压轴半句：「她也是在对我说的——因为她不知道 Lavina 的父亲是谁。」
 
-**关键词**：father、knowing、saying
+**关键词**：saying、Father、because
 
 **为什么这样写**：半句未完的话是全书最大的悬崖——父亲的生物学身份悬置（Dream 里的「Daughter」与 Reynolds 的阴影同时待审）；她「滑回昏迷前只抓到半句」的读者酷刑让下一章成为刚需。
 

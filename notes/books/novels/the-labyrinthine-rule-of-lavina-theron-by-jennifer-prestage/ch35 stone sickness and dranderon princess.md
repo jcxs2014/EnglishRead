@@ -6,7 +6,7 @@ modified: "2026-11-12"
 # 35. Chapter 34 Capital of Arkendrath
 
 ## 本章导航
-- **一句话概括**：Stone Sickness 的病理课揭开她的伪装史（耐寒=石头调节、火=元素力、心跳异常也是石）；梦=Hayden 的 Death Benefit；「King Hayden is your father. You are a Dranderon princess.」——Nash 只能承认。
+- **一句话概括**：Stone Sickness 的病理课揭开她的伪装史（耐寒=石头调节、火=元素力、心跳异常也是石）；梦=Hayden 的 Death Benefit；「King Hayden is your father」与「You are a Dranderon princess」——Nash 只能承认。
 - **情感弧线位置**：身世定谳章——自我认知清单被逐项改写；「hate solidified」遇上「你是 Dranderon 人」。
 - **Tropes 兑现/反转**：「真身揭露」兑现；反转在白石——最朴素的石头成了最贵重的解药；Nash 的 niece/daughter 双重告白。
 - **人物弧线**：Nash：封印器的给予者+真相的守门人；Iramina：Cadmar 医者（蓝眼+白石）；Draven：absolves+captain；Brea：兄弟宿命的源头（首次出场）。
@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：石头的来历：童年遇袭后 Nash 给她——「怕你长出 Arkendrath 不欢迎的能力。」
 
-**关键词**：ambush、feared、absolves
+**关键词**：feared、develop、abilities
 
 **为什么这样写**：玻璃罩的真正用途首次曝光——护符是封印器不是护身符；「not welcome in Arkendrath」的措辞让制度性的恐惧有了名字；Draven 的「absolves them」替两个王国各留了一半责任。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：白石的用途：非魔法石能中和 Power Stone 的效应。
 
-**关键词**：neutralize、draw、unremarkable
+**关键词**：Sometimes、find、non-magical
 
 **为什么这样写**：Iramina 的白石手链是最朴素的解药——全书石头神学的世俗 antidote；「as you call it here」的括号提醒两国的命名差（Sun Stone/Vision Stone 之后再添一例）。
 
@@ -88,7 +88,7 @@ modified: "2026-11-12"
 
 **中文理解**：Brea 的育儿史：Hayden 的火与 Reynolds 的水自幼被强制对练——「一个磨另一个，指望有朝一日夺回 Cadmar。」
 
-**关键词**：tempering、grandmother、Cadmar
+**关键词**：tempering、other、hoping
 
 **为什么这样写**：祖母的执念是两兄弟宿命的源头——兄弟阋墙的战争从育儿室开始；「take back Cadmar」的失败让 Brea 的计划变成两国的分裂史。
 
@@ -108,7 +108,7 @@ modified: "2026-11-12"
 
 **中文理解**：收束的自审：「我存在的每一部分都被重塑——多年练成的控制力没了。未知正把我塑造成一个我害怕认识的陌生人。」
 
-**关键词**：reshaped、stranger、fear
+**关键词**：tempering、other、hoping
 
 **为什么这样写**：「a stranger I fear to know」把自我陌生化写成恐惧的对象——她怕的不是 Hayden 是自己；「Hold me?」的请求与 ch33 的核爆形成姐妹对（灾难后两次求助）。
 
@@ -138,5 +138,5 @@ modified: "2026-11-12"
 | chatter | （牙齿）打颤 | My teeth chatter, and he grabs me tighter at the sound. |
 | compassionate | 富有同情心的 | She looks at me compassionately. |
 ## 一句话总结
-Stone Sickness 的病理课揭开她的伪装史——耐寒是石头的调节、火是元素力、心跳异常也是石；梦=Hayden 的 Death Benefit；「King Hayden is your father. You are a Dranderon princess.」——Nash 只能承认，Draven 只能抱着。
+Stone Sickness 的病理课揭开她的伪装史——耐寒是石头的调节、火是元素力、心跳异常也是石；梦=Hayden 的 Death Benefit；「King Hayden is your father」与「You are a Dranderon princess」——Nash 只能承认，Draven 只能抱着。
 

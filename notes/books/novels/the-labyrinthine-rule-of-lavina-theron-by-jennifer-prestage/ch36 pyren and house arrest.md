@@ -18,7 +18,7 @@ modified: "2026-11-12"
 
 **中文理解**：软禁阵容揭晓：客厅里睡满两支卫队——她的 men 与 Seeker 号（Cadmar 的 Marked Match 猎人船）轮值。
 
-**关键词**：Korst、Seeker、rotation
+**关键词**：Arms、Master、Korst
 
 **为什么这样写**：「the Seeker」的船名直接解释 Draven 一生的航程（猎人船找了她二十余年）；Arms Master 的军衔介绍像名片——她的 cottage 变成两国武装的哨所。
 
@@ -98,7 +98,7 @@ modified: "2026-11-12"
 
 **中文理解**：蛇之问：「你手臂上的蛇让你有毒吗？——还是你本来就这样？」
 
-**关键词**：venomous、snakes、stoic
+**关键词**：Arms、Master、Korst
 
 **为什么这样写**：调情与身份追问共用一句——她的印记（蛇）与她的人（毒/烈）在他眼里已是一体；「I'd rather admire it」的回答让毒变成收藏品。
 

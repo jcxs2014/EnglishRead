@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：Alden 告别：cottage 相赠+「General Nash」——她唯一一次称他的衔。
 
-**关键词**：General、title、privileged
+**关键词**：care、General、Nash
 
 **为什么这样写**：「for the first and only time I will be privileged to speak it」的限定让军衔成为临别礼物；cottage 的转赠（原给 Lumi 现给他）与「I'd rather keep the hound with the beard」的损话让告别有 Alden 的味道。
 
@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：Alden 的权力直觉：「他还没下令，人就动了。没人挑战他。」
 
-**关键词**：orders、shift、power
+**关键词**：People、move、orders
 
 **为什么这样写**：「People move before he orders it」的观察把 Draven 的王储气场写成可测量的物理现象——Alden 的 Mnesic+权力嗅探在本章最后命中；「I recognize power when I see it」的点头是他留给读者的遗言。
 
@@ -48,7 +48,7 @@ modified: "2026-11-12"
 
 **中文理解**：藏书相赠：整船的书——「这是我船上全部的文字知识。」
 
-**关键词**：crate、knowledge、gilded
+**关键词**：written、knowledge、aboard
 
 **为什么这样写**：「every bit of written knowledge」的规模让 farewell 礼物有了图书馆的重量；Alden 的 kiss-shaped mouth（狂喜到嘴型变形）与「Can I be your best friend instead?」的玩笑是全书友谊的最后一次合鸣。
 
@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：最后的敬礼：直背、泪眼、捶胸——一秒拥抱然后放手。
 
-**关键词**：chest、embrace、heartbeat
+**关键词**：straight、back、tears
 
 **为什么这样写**：「I release my best friend so I can leave him forever」的现在时让离别有进行中的痛感；century 列队敬礼（「they deserve every bit of glory for shaping me」）把功劳还给了 shaping 她的人。
 
@@ -78,7 +78,7 @@ modified: "2026-11-12"
 
 **中文理解**：终句：「那我就带我这位被流放的邪恶公主回 Cadmar——立她为王后。」
 
-**关键词**：queen、crown、exiled
+**关键词**：exiled、wicked、princess
 
 **为什么这样写**：全书的最后一句把她的三个身份（exiled/wicked/princess）全部收编进加冕语——「crown her queen」的主动语态让选择权回到他手里；她的 wicked 由他念成敬语。
 

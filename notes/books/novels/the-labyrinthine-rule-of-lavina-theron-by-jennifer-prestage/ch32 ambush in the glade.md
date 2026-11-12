@@ -48,7 +48,7 @@ modified: "2026-11-12"
 
 **中文理解**：Draymor 的关键情报：倒地的是 Evelyn 的马——「Alden 带着她们俩骑 Mallet 逃。」
 
-**关键词**：Princess、Mallet、both
+**关键词**：Princess、Evelyn’s、horse
 
 **为什么这样写**：情报的三级跳（死马→不是 Mallet→公主与 Alden 同骑）让她从哀悼直切追击——「I intentionally remove the responsibility of choice from Icarus」的指挥自我设计同步展开。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：换马指令：她命令公主接管 Jaco——句号切分的最后通牒。
 
-**关键词**：Reins、keep、order
+**关键词**：Fucking、Reins、back
 
 **为什么这样写**：「You. Will. Take. The. Fucking. Reins.」的标点武器第三次出手（Don't. Touch. Her./It. Is. Done.）——这次砸向公主；「He needs you」的补刀让命令有了人质逻辑。
 
@@ -78,7 +78,7 @@ modified: "2026-11-12"
 
 **中文理解**：跳马：疾驰中跃下——「我爱你，Jaco。」落地翻滚与童年遇袭同款。
 
-**关键词**：Jaco、thrust、rolling
+**关键词**：love、Jaco、words
 
 **为什么这样写**：对马告白先于对自己的安排——她把最后一句话给了陪她七年的战友；「the same as I did all those years ago」的回环把童年遇袭与今日伏击焊成同一事件的两幕。
 
@@ -100,7 +100,7 @@ modified: "2026-11-12"
 | blockade | 封锁线、屏障 | The men create a blockade around us—still mounted—facing outward as they are trained to do. |
 | halting | 犹疑的、骤停的 | He winces in pain as the arrows protruding from his rib and his arm are bounced by the choppy maneuvering of his halting mount. |
 | tattered | 破碎的、断续的 | His breaths are tattered. |
-| spires | 塔尖 | The elevation’s gradual gain is visible from the top of the keep wall’s spires—if you are unafraid of heights. |
+| spires | 塔尖 | Continuing north to the capital, the elevation’s gradual gain is visible form the top of the keep wall’s spires—if you are unafraid of heights. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
