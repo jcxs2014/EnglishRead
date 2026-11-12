@@ -6,7 +6,7 @@ modified: "2026-11-12"
 # 04. Chapter Four
 
 ## 本章导航
-- **一句话概括**：事后 Soren 如释重负，嘴上宣称「没有感情」；替 Kit 解皮带时看见腕上勒痕又一阵说不清的难受——而本章真正的引信在书房：父母其实是为 Zero Hour 递情报、造武器的内应，Soren 选择继续当 Kit 眼中的杀亲仇人。
+- **一句话概括**：事后 Soren 如释重负，嘴上宣称「没有感情」；替 Kit 解皮带时看见腕上勒痕又一阵说不清的难受——而本章真正的引信在书房：父母其实是在替 Zero Hour 递情报、造武器，Soren 选择继续当 Kit 眼中的杀亲仇人。
 - **情感弧线位置**：男主的「否认期」全面开演——身体在靠近，语言在撇清，章末的自问（为什么这么在意）是裂缝扩大的起点。
 - **Tropes 兑现/反转**：dark romance「我以为他是仇人」的经典误会装置正面兑现并给出动机（He's safer that way）；反转点是保护以「被恨」的形式执行。
 - **人物弧线**：Soren＝照料行为与自我叙事的落差拉大（贴创可贴→解皮带→护到底）；Ray＝敢当面质疑他的副手；Armen＝喜剧泄压阀。
@@ -52,7 +52,7 @@ modified: "2026-11-12"
 > **原句 7:** "Ray nods in agreement. "He thinks after you dealt with the Everlys, the rest of the cell either scattered or went deep into hiding. Ruez and his men are leaning toward the idea that the local branch is pretty much finished. Whatever's left of Zero Hour has probably moved operations somewhere else entirely." … "Finished" is a nice word, clean. But I don't trust clean when it comes to people like that."
 **中文理解**：Ray 点头补充：处理掉 Everlys 之后，小组其余的人要么散了要么深藏，Ruez 他们倾向认为本地分支基本完蛋，残部多半整体转移了。「完蛋」是个好听又干净的词，但对这种人，他不信任何干净的东西。
 **关键词**：Everlys / cell / Finished / clean
-**为什么这样写**：情报通过 Ray 的嘴说出，Soren 的回应只有一个词组级别的冷评——指挥官的姿态：听全部、信一半；dealt with the Everlys 这七个字是组织层面第一次直白交代灭门出自他的手且属于「处理」流程，与前文的温情细节并置，残忍被日常化。
+**为什么这样写**：情报通过 Ray 的嘴说出，Soren 的回应只有一个词组级别的冷评——指挥官的姿态：听全部、信一半；dealt with the Everlys 这四个词是组织层面第一次直白交代灭门出自他的手且属于「处理」流程，与前文的温情细节并置，残忍被日常化。
 **读者视角提示**：dealt with 的轻描淡写正是要点——在这套系统里杀人是待办事项；读者由此能反推 ch01 枪管余温的场景属于常规作业，而 Kit 的幸存才是非常规。
 
 > **原句 8:** "I keep my voice flat and firm. "I don't want any of you fuckers bothering him, you got that? He doesn't need to know what his parents were into. He doesn't need to know they were wrapped up with Zero Hour, feeding them information and building them weapons. Let him keep thinking they were just his innocent mom and dad and that I'm the bad man that killed them." … Armen actually looks confused. "But… why on earth would you want him to believe that?" … I roll my eyes. "He's safer that way.""
@@ -61,13 +61,19 @@ modified: "2026-11-12"
 **为什么这样写**：本章的引信在这里点着——凶手叙事是他亲手设计并维护的：让仇恨长在自己身上，孩子才不会去追一个看不见的敌人；两个 He doesn't need to know 的排比写的是信息封锁的分级，而 the bad man 三个词的自认带着一丝只有读者听得出的重量。
 **读者视角提示**：这是全书世界观的地基级反转，前两章所有「凶手冷血」的定性都要回到这一句重新校准；He's safer that way 的轻描淡写与这个决定的重量之间的落差，就是本书给 Soren 的道德复杂度。
 
-> **原句 9:** "He hesitates, then says carefully, "I've known you a long time, Soren. You don't take people captive to just live in your home. You don't protect people like him. I'm just wondering why Christopher is getting special treatment from you, Mr. Sinclair of all people.""
+> **原句 9:** "Yeah but, he’s been trapped in here for four months. He’s gonna go insane before long."
+**中文理解**：Ray 顶了一句：可他已经被关在这里四个月了，照这样下去迟早要疯。
+**关键词**：trapped / four months / insane / before long
+**为什么这样写**：这是本章第一次有人把「关着」直接说成伤害，而且说的人是 Soren 的自己人；四个字（trapped）比任何控诉都短，却把他一直用的「安全」叙事撬开一条缝。
+**读者视角提示**：Soren 的下一段反驳（放出去没家没钱、会被人找到）是在替囚禁找理由；Ray 的这句警告会一直悬到 ch09 的「prisoner」自认。
+
+> **原句 10:** "He hesitates, then says carefully, "I've known you a long time, Soren. You don't take people captive to just live in your home. You don't protect people like him. I'm just wondering why Christopher is getting special treatment from you, Mr. Sinclair of all people.""
 **中文理解**：Ray 犹豫了一下，斟酌着开口：认识你这么多年，Soren——你从不把人关在家里白养，你也不保护任何人。我只是想问，Christopher 凭什么从你 Sinclair 先生这里得到特殊待遇？
 **关键词**：captive / protect / special treatment / Mr. Sinclair
 **为什么这样写**：carefully 这个副词说明这话是在雷区里走——他先铺年份再铺行为规律，最后用 Mr. Sinclair of all people 把反常钉死；You don't 两个排比是朋友给出的行为基线，Kit 偏离基线多远，问题就有多重。
 **读者视角提示**：Ray 的功能是替读者问出那个不能问的问题；注意 Soren 的回应不是答案而是威压（下一句 growl）——他自己也答不出，威压就是答案。
 
-> **原句 10:** "But underneath that relief sits something else… a quiet, confusing fear that refuses to leave. It sits there unbidden, stubborn, and unwanted. … Why the fuck am I this bothered about keeping Kit alive? About keeping him indoors, out of sight, and protected?"
+> **原句 11:** "But underneath that relief sits something else… a quiet, confusing fear that refuses to leave. It sits there unbidden, stubborn, and unwanted. … Why the fuck am I this bothered about keeping Kit alive? About keeping him indoors, out of sight, and protected?"
 **中文理解**：可在这层解脱底下还压着别的东西——一种安静的、说不清的恐惧，赶不走，不请自来，又倔又碍事。为什么他妈的他对让 Kit 活着这件事这么上心？对他被关在屋里、看不见、受着保护，这么上心？
 **关键词**：fear / unbidden / bothered / protected
 **为什么这样写**：把情绪写成不速之客（unbidden, stubborn, unwanted）是本章的心理语法——他处理情绪的方式是当入侵者清剿；自问句以三个并列短语收尾（alive/indoors/protected），保护欲被拆成三层清单，越清点越像供词。
@@ -102,4 +108,4 @@ modified: "2026-11-12"
 | doorframe | 门框 | Armen's already leaning against the doorframe, talking quietly with Ray. |
 
 ## 一句话总结
-身体先招供（解脱、想下一次、解皮带时的难受），嘴巴死不认账（No emotions）——本章亮出全书地基级反转：父母是 Zero Hour 的内应，Soren 的「仇人」身份是他为保护 Kit 亲手设计并维护的；Ray 一句「你从不保护任何人」问出了连他自己都答不出的问题。
+身体先招供（解脱、想下一次、解皮带时的难受），嘴巴死不认账（No emotions）——本章亮出全书地基级反转：父母在替 Zero Hour 递情报、造武器，Soren 的「仇人」身份是他为保护 Kit 亲手设计并维护的；Ray 一句「你从不保护任何人」问出了连他自己都答不出的问题。

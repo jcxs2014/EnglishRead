@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch04",
+ "text": "text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "事后索伦从基特体内缓缓退出，憋住一声低吟。",
+   "anchor": "I pull out of him slowly and have to bite back another groan at the wet, gripping heat of it.",
+   "start": 48,
+   "end": 141
+  },
+  {
+   "fact": "他走进大堂，阿门从拐角转出来，一手拿平板、拇指点着屏幕。",
+   "anchor": "Armen comes rounding the corner, like he’s been hunting for me; tablet in one hand, thumb tapping the screen.",
+   "start": 2010,
+   "end": 2119
+  },
+  {
+   "fact": "基特低声说“皮带”，索伦才发现自己的皮带仍紧紧绑着基特背后的手腕。",
+   "anchor": "He turns slightly and I see my belt is still wrapped tightly around his wrists behind his back.",
+   "start": 3758,
+   "end": 3853
+  },
+  {
+   "fact": "索伦凑到基特耳边，命他把这具身体保持干净，说他随时可能来找他。",
+   "anchor": "“Keep this tight little body clean for me, Christopher. You never know when I’ll come for you next.”",
+   "start": 5074,
+   "end": 5174
+  },
+  {
+   "fact": "索伦在书房对雷说，他上了克里斯托弗，但没有感情。",
+   "anchor": "“You’re all such nosy bastards. Yes, I fucked Christopher. Get over it.”",
+   "start": 6369,
+   "end": 6441
+  },
+  {
+   "fact": "雷兹说他们在城外约五十英里处抓了两个人。",
+   "anchor": "Ruez says they picked up a couple of guys about fifty miles outside the city.",
+   "start": 7565,
+   "end": 7642
+  },
+  {
+   "fact": "雷说基特已被困在这里四个月，快疯了。",
+   "anchor": "Yeah but, he’s been trapped in here for four months. He’s gonna go insane before long.",
+   "start": 10278,
+   "end": 10364
+  },
+  {
+   "fact": "索伦不许手下告诉基特他父母曾替“零时”供情报、造武器。",
+   "anchor": "He doesn’t need to know they were wrapped up with Zero Hour, feeding them information and building them weapons.",
+   "start": 10833,
+   "end": 10945
+  }
+ ]
+}
