@@ -1,0 +1,80 @@
+{
+ "chapter": "ch01",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch01_chapter_1.txt",
+ "relations": [
+  "Clay Aaron Rourke 与妹妹 Jess：Jess 自称 'I’m twenty-two'，Clay 仍回 'You are my baby sister, so you are still twelve'；Jess 喊他 'Clay Aaron Rourke, when are you going to stop?'",
+  "Clay 与 Nixie：Clay 说自己是老板唯一信任的两人之一（'the only one our boss trusts besides Nixie'）；Nixie 是 Fear Island 的 operations manager，发邀请、做背景调查、处理合同，并对 Clay 承担母亲角色（Clay 的亲生母亲 'Mine died when Jess was a baby'，Clay 还有 'my other sister'）",
+  "Clay 与手下 Kodi、Brooks：Kodi 隔空汇报（'Will do, boss.'）并被 Clay 把 exit reports 交给他；Brooks 奉命护送 Jess 过桥（'Brooks doesn’t like anyone or anything'）",
+  "Jess 与她男朋友的前女友：敌对——前女友跟踪两人（'She is stalking us, Clay—she’s everywhere we go'）并威胁炸掉男友的车；Clay 早已掌握男朋友的 'name, age, address, and where every person in his immediate family lives'",
+  "Clay 与 Vero、Brawley：'Vero and Brawley are two of the people I am closest to on the island'；Brawley 外号 'The Grim Reaper'、靠暴力行事，Vero 'exudes crackhead energy'；Karo 是扔刀、点火轮的角色（'I tie bad girls to it'）"
+ ],
+ "numbers": [
+  "over twenty-one",
+  "twenty-two",
+  "twelve",
+  "Found one.",
+  "8:00 p.m.",
+  "three pounds",
+  "8:30 p.m.",
+  "five staff",
+  "9:00 p.m.",
+  "three drinks",
+  "at nine",
+  "First",
+  "Second",
+  "Third",
+  "Fourth",
+  "Fifth",
+  "Sixth"
+ ],
+ "facts": [
+  {
+   "fact": "Kodi 在对讲机里报告抓到一个偷渡上岛的人，Clay 当即下令把人押出去、拍照，并终身禁止其上岛",
+   "anchor": "“Escort them out and take their picture. They are banned from the island.”",
+   "start": 803,
+   "end": 877
+  },
+  {
+   "fact": "Jess 告诉 Clay：她男朋友的前女友一直在跟踪两人，还威胁要炸掉男友的车（车里坐着他们俩）",
+   "anchor": "“She is stalking us, Clay—she’s everywhere we go. She even threatened to blow up his car with us inside.”",
+   "start": 3268,
+   "end": 3373
+  },
+  {
+   "fact": "在马戏团帐篷里一把刀擦着 Clay 的头飞过，Clay 转身把 Jess 甩到右侧躲开（刀是 Karo 扔的）",
+   "anchor": "I stop and Jess runs straight into my back, then I pivot and grab Jess around the waist, throwing us to my right as a knife blade sails past my head.",
+   "start": 3376,
+   "end": 3525
+  },
+  {
+   "fact": "Clay 告诉 Jess 他会处理她前女友的问题，但要求她马上离开",
+   "anchor": "“I will handle your little ex-girlfriend problem, but you need to leave. Now.”",
+   "start": 4021,
+   "end": 4099
+  },
+  {
+   "fact": "Jess 央求 Clay 只把那女人吓一吓、不要杀人，免得自己成了共犯",
+   "anchor": "“But don’t murder her—I don’t want to be an accessory. Just scare her a little. It shouldn’t be hard when your face always looks like that.”",
+   "start": 4188,
+   "end": 4328
+  },
+  {
+   "fact": "Clay 命 Brooks 把 Jess 送到她的车并看着她过桥，Brooks 直接把她扛上肩带走",
+   "anchor": "Her words are cut off as Brooks picks her up and tosses her over his shoulder.",
+   "start": 4579,
+   "end": 4657
+  },
+  {
+   "fact": "Clay 请 Nixie 查那前女友的背景，Nixie 答应当晚给出她的姓名、住址和雇主",
+   "anchor": "“Consider it done. I will have her name, address, and employer by the end of the night.”",
+   "start": 6432,
+   "end": 6520
+  },
+  {
+   "fact": "8:00 p.m. 全员到特技场集合，Nixie 宣布当晚规则：对腕带、读档案、CONSENT IS NOT OPTIONAL（有人喊停就必须停）、划分区域、有人受伤立刻停场",
+   "anchor": "Third, CONSENT IS NOT OPTIONAL. It’s the only reason we’re not all in prison. The moment someone taps out, you stop.",
+   "start": 9166,
+   "end": 9282
+  }
+ ]
+}

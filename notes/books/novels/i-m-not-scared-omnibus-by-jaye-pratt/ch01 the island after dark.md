@@ -15,16 +15,16 @@ modified: "2026-11-11"
 ## 精读
 > **原句 1:** "My favorite part of the day is hearing the island come to life as the sun sets over the horizon. We run the whole place as an all-age theme park year-round, and people travel from all over the world to visit. But they are only welcome here during daylight hours."
 
-**中文理解**：Clay 开篇把小岛讲成一门双层生意：白天是全年运转、吸引全世界游客的全年龄主题公园；但这些客人只被欢迎在日间逗留——天黑后的岛属于另一批客人，那是全岛最赚钱的时段。
+**中文理解**：Clay 喜欢听日落时小岛苏醒；这里全年经营、白天吸引各地游客的全年龄主题公园，但普通游客只被欢迎在日间逗留。
 **关键词**：all-age theme park / daylight hours / come to life / sun sets
 **为什么这样写**：作者让从业者用「生意介绍」的口吻亲口交代世界规则，避开说明书式铺陈；先说 favorite part 给出快感和自豪，再补 daylight hours 的限制，猎场的猎奇感就落在松弛的语调上。
-**读者视角提示**：白天/黑夜的双层结构是全书的舞台地基；记住「欢迎只在日间」，后面所有夜场规则都建立在这条分界上。
+**读者视角提示**：这段只确认普通游客的日间边界；夜场的邀请制度由本章后续叙述另行交代，不要从这三句提前补入。
 
 > **原句 2:** "We do not give second chances. We cannot afford to. You try to stay without an invitation, and you get a lifetime ban."
 
 **中文理解**：对日落后混在岛上不肯走的潜入者，这里没有警告也没有第二次机会：一经发现就是终身禁入。Clay 的解释只有一句——我们承担不起。
 **关键词**：second chances / lifetime ban / invitation
-**为什么这样写**：三个短句斩钉截铁，主语悄悄从"我"换成"我们"，把个人脾气写成制度；用最少的字立起这个世界的第一条铁律。
+**为什么这样写**：前文还是 Clay 的第一人称与 Kodi 的对话（"Will do, boss."），这三句忽然以"我们"开口，把个人规矩写成制度；用最少的字立起这个世界的第一条铁律。
 **读者视角提示**：零容忍逻辑与后文"合同具体、违约即停"一脉相承——这个世界先立规矩再放人入场，违约成本是全书悬念的一部分。
 
 > **原句 3:** "She is stalking us, Clay—she's everywhere we go. She even threatened to blow up his car with us inside."
@@ -39,14 +39,14 @@ modified: "2026-11-11"
 **中文理解**：Nixie 是 Fear Island 的运营经理：邀请函由她发出，背景调查、合同处理与一切商务杂务都归她管，她是这台夜猎机器的行政中枢。
 **关键词**：operations manager / invitations / background checks / contracts
 **为什么这样写**：四个并列动词短语一口气列完职权，把「她管什么」写成岗位说明书；放在 Clay 开口求助之前，随后的委托便水到渠成。
-**读者视角提示**：记住"邀请函＋背景调查＋合同"三件套——女主后文入场走的正是这条完整流程，此处是流程的第一次点名。
+**读者视角提示**：记住「邀请函＋背景调查＋合同」三件套，这是她管理的具体流程；尚不能由此断定某个参与者已经完成这些手续。
 
 > **原句 5:** "She is the mother I always wanted. Mine died when Jess was a baby, and maybe that is why I'm so protective of her and my other sister. Our father is a good man, but he works long hours to provide for my sisters."
 
-**中文理解**：Clay 的母亲在 Jess 还是婴儿时就去世了，这位母职长辈主动补位，成了他一直想要的母亲；他把对 Jess 和另一个妹妹的过度保护归因于这道家庭缺口——父亲是好人，但长年在外工作养家。
+**中文理解**：Clay 说眼前这个人像他一直想要的母亲；他的亲生母亲在 Jess 还是婴儿时去世。他猜自己对 Jess 和另一个妹妹的过度保护也许与此有关；父亲是好人，但长年工作养家。
 **关键词**：the mother I always wanted / died when Jess was a baby / protective / my other sister
-**为什么这样写**：先给情感结论（我想要的母亲），再补死亡时间与父亲缺位两个事实，硬汉主管的柔软面和家庭底色一次交代完，代价仅三个句子。
-**读者视角提示**：my other sister 是首次露头的家族伏笔——Rourke 家的孩子不止姐弟两人，后续章节大概率回收。
+**为什么这样写**：先给情感结论（我想要的母亲），再补死亡时间和父亲忙于工作的事实；Clay 用 maybe 为自己过度保护妹妹的原因留出不确定性，严厉主管的柔软面因此不靠旁白硬说。
+**读者视角提示**：my other sister 明确说明他要保护的并非只有 Jess；这一处不需要预言后文，只需记下家里还有另一个妹妹。
 
 > **原句 6:** "Third, CONSENT IS NOT OPTIONAL. It's the only reason we're not all in prison. The moment someone taps out, you stop."
 
@@ -60,7 +60,7 @@ modified: "2026-11-11"
 **中文理解**：训话收尾时话锋一转：你们都是老手、规矩都懂，但今晚的参与者里，有一个不容易被吓到的人。这句话是全书主线的开关。
 **关键词**：You know the rules / participants / doesn't scare easily
 **为什么这样写**：前两句是例行公事的复述，第三句突然降调抛出例外；"例行—例外"的节奏落差让一句平铺直叙变成整章最响的悬念。
-**读者视角提示**：「不易被吓到的人」就是女主的远距离出场——她此刻还没有名字，但整本书已经悄悄围绕她转向。
+**读者视角提示**：Nixie 此处未报参与者姓名；先记住「不易被吓到」这条特征，待后文人物入场再核身份。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

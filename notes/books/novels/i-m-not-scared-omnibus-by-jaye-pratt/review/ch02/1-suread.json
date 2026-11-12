@@ -1,0 +1,69 @@
+{
+ "chapter": "ch02",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch02_chapter_2.txt",
+ "relations": [
+  "Kyle 是 Kayla 的前男友：因为出轨被她甩掉（'I broke up with him because he was cheating on me'），两人 'almost two months ago' 分手，但他 'still comes in here every few days'，还带红发女来点酒",
+  "红发女是 Kyle 的现女友，敌视 Kayla，称她 'stalker bitch'，并放话 'My brother won’t like this'",
+  "Rogue 是 Kayla 的老板（'“ROGUE!” I call out for my boss'），Bianca 是同吧台同事；Rogue 用冰水杯泼红发女，被 Kayla 说成 'We cool them down'",
+  "Bruce 是酒吧保安（'our security guard Bruce'），奉 Rogue 之命把红发女赶走；Kayla 一度想让他把 Kyle 直接扔出去",
+  "Mabel 是 Kayla 的房东（住她楼上 loft apartment），半聋、'television on volume 100'，爱讲安全sex，并想把她和自己 'thirty-year-old' 的孙子撮合"
+ ],
+ "numbers": [
+  "almost two months",
+  "one fistfight",
+  "volume 100",
+  "thirty-year-old",
+  "five-minute",
+  "24/7"
+ ],
+ "facts": [
+  {
+   "fact": "前男友 Kyle 站在队伍最前面盯着 Kayla 看；她说两人 almost two months ago 就已分手，但他还是每隔几天就来一次",
+   "anchor": "“Fuck no, I wish he would leave me alone. We broke up almost two months ago, but he still comes in here every few days.”",
+   "start": 569,
+   "end": 689
+  },
+  {
+   "fact": "Kyle 带红发女来，把点酒的活儿推给红发女并让她去问 Kayla；红发女当面骂 Kayla 是 'stalker bitch'",
+   "anchor": "“You want me to order our drinks from that stalker bitch?”",
+   "start": 1961,
+   "end": 2019
+  },
+  {
+   "fact": "Kayla 拒绝给红发女点单，说自己不想要她男朋友、也不要她那平庸的阴茎，让她点单或换个客人",
+   "anchor": "“I don’t want your boyfriend or his mediocre dick. Either tell me what you want to drink, or I will serve someone else. I don’t have time for the jealous girlfriend bullshit.”",
+   "start": 2731,
+   "end": 2906
+  },
+  {
+   "fact": "Kayla 喊出老板 Rogue，Rogue 抓起她面前的冰水杯砸向红发女，理由是 'We cool them down'",
+   "anchor": "Rogue bounces over to me; she is always full of energy. She snatches up the glass of ice water in front of me and throws it at the woman. “We cool them down.”",
+   "start": 3141,
+   "end": 3299
+  },
+  {
+   "fact": "保安 Bruce 上前告诉红发女该走了；她尖叫着放话 'My brother won’t like this'",
+   "anchor": "“You have no idea what you’ve done! My brother won’t like this.”",
+   "start": 3335,
+   "end": 3399
+  },
+  {
+   "fact": "Kayla 走到吧台尽头质问那个一直盯着她的男人，他只答 'Just watching'，Kayla 回他让他停下",
+   "anchor": "“Well, stop,” I snap. “You’re making my staff uncomfortable.”",
+   "start": 6455,
+   "end": 6516
+  },
+  {
+   "fact": "那男人问她叫什么，Kayla 报出 'Kayla'，并命令他喝完酒或滚出去",
+   "anchor": "“Kayla,” I snap, because now color me curious.",
+   "start": 7209,
+   "end": 7255
+  },
+  {
+   "fact": "在 24/7 便利店，陌生男青年拿纸袋闷死人开玩笑，Kayla 回他 'Death via paper cuts'，他称她 'Paper-cut princess' 并警告她别在反应过来之前跟怪物扯上关系",
+   "anchor": "“Paper-cut princess, fear isn’t about being scared.” A small smile curves his mouth. “It’s about what you enjoy before you realize you should’ve run and not involved yourself with monsters.” He winks, grabs his bag, then turns and walks out of the store.",
+   "start": 9665,
+   "end": 9919
+  }
+ ]
+}
