@@ -22,20 +22,20 @@ modified: "2026-11-12"
 > **原句 2:** "I still tell myself this is just sex. Just an obsession with the way he feels clenched around me, the sounds I can drag out of him, the way no one else has interested me in over a year. If he won't give me his voice, then no one else gets it either. That rule still stands; it has to. … But right now… it's getting harder to keep the lies straight."
 **中文理解**：他继续对自己说这只是性——只是对那种紧致的迷恋、能从他身上榨出的声音、以及一年多来再没对任何人产生过兴趣这件事。他不给我声音，就谁也别想得到。这条规矩必须立住。……可此时此刻……谎越来越难圆了。
 **关键词**：just sex / rule / has to / lies straight
-**为什么这样写**：it has to 四个词是本章的裂缝所在——「必须」这个词只在撑不住的时候出现；keep the lies straight 用复数，承认这不是一个谎而是一整套需要日常维护的叙事系统。
+**为什么这样写**：it has to 这三个词是本章的裂缝所在——「必须」这个词只在撑不住的时候出现；keep the lies straight 用复数，承认这不是一个谎而是一整套需要日常维护的叙事系统。
 **读者视角提示**：读者已经看过这套谎言的全部组件（纯生理/规矩/安全），本章它们第一次集体报警；「难圆」不是转折而是溃败的开始。
 
 > **原句 3:** "I do it again, deeper, more deliberate, and this time the sound that leaves him is louder. "Oh… I can't… Soren!" … My name. For the first time in seventeen months, my actual name leaves his mouth … He immediately slaps a hand over his lips like he's furious with himself for letting it slip."
 **中文理解**：他又来了一次，更深、更有针对性，这次漏出的声音更响：哦……不行……Soren！他的名字。十七个月来，他的真名第一次从那张嘴里说出来——对方立刻捂住嘴唇，像在为自己泄密而恼火。
 **关键词**：Soren / My name / seventeen months / slip
-**为什么这样写**：三个词的独立成段（My name.）是全章的引爆炸药——十七个月的等待被一个失控的音节清偿；slip 的措辞把它定性为事故，而捂嘴的羞愤说明这声名字对 Kit 自己也是意外，两个人的防线在同一秒被击穿。
+**为什么这样写**：两个词的独立成段（My name.）是全章的引爆炸药——十七个月的等待被一个失控的音节清偿；slip 的措辞把它定性为事故，而捂嘴的羞愤说明这声名字对 Kit 自己也是意外，两个人的防线在同一秒被击穿。
 **读者视角提示**：记住这个名字的兑付规则——它不是给出来的，是漏出来的；此后每一次名字交换都值得记录汇率。
 
 > **原句 4:** "I look at her, jaw tight. "You get him to speak to me. Then, and only then, might I allow him to socialise. This is his doing for being so stubborn." … Lorraine actually laughs. "Oh, he's the stubborn one, is he? Really? Do you realise how jealous you sound? You've got feelings for him. I just know it.""
 **中文理解**：他咬着牙看 Lorraine：你让他开口跟我说话。到那时、也只到那时，我才可能允许他社交。这是他固执的代价。Lorraine 笑出了声：哦，固执的是他？真的吗？你知道自己听起来有多酸吗？你对他有感情，我敢肯定。
 **关键词**：only then / stubborn / jealous / feelings
 **为什么这样写**：This is his doing 把因果倒装成惩罚叙事——被剥夺社交的原因是「他自己不说话」，受害者担责的话术写得严丝合缝；Lorraine 的 jealous 三连问是全书第一次有人把「你有感情」直接说出口，而对象选的是最敢说话的她。
-**读者视角提示**：注意他的条件里藏着让步的愿望（might I allow 的 might）——他其实在等一个台阶；读者可以对照 ch08 的铃声：要人先开口的人，从没想过自己先开口。
+**读者视角提示**：注意他的条件里藏着让步的愿望（might I allow 的 might）——他其实在等一个台阶；读者可以对照 ch08 的 Give me something：要人先开口的人，从没想过自己先开口。
 
 > **原句 5:** "Ray glances between us, then clears his throat carefully. "Happy birthday, Kit." … Something unpleasant twists in my chest. This doesn't feel like a happy birthday; it feels like something else entirely… something hollow."
 **中文理解**：Ray 看看这个又看看那个，小心地清了清嗓子：生日快乐，Kit。Soren 胸口一阵发闷的拧痛——这不像一句生日快乐，倒像别的什么……空落落的什么东西。
@@ -52,7 +52,7 @@ modified: "2026-11-12"
 > **原句 7:** "I open my mouth. The sharp, cold reply should already be there; the one that reminds her of her place, the one that shuts this kind of talk down immediately. But nothing comes out; my usual mask feels like it's slipped and I can't find it. I'm frozen in a moment that doesn't feel like it belongs to me at all. Or maybe the real problem is that… I know she's right."
 **中文理解**：他张开嘴——那句又冷又利的回答本该张口就来：提醒她身份、立刻掐灭这种话。可什么都出不来；惯常的面具像滑落了，找都找不到。他僵在一个完全不属于自己的时刻里。或者说，真正的问题是……他知道她说得对。
 **关键词**：mask / slipped / frozen / I know she's right
-**为什么这样写**：应答机制的失灵被写成道具丢失（mask slipped, can't find it）——武装到牙齿的人第一次没带盔甲；省略号后的 I know she's right 是全书最省钱的认罪书，六个词结清本章全部辩论。
+**为什么这样写**：应答机制的失灵被写成道具丢失（mask slipped, can't find it）——武装到牙齿的人第一次没带盔甲；省略号后的 I know she's right 是全书最省钱的认罪书，四个词结清本章全部辩论。
 **读者视角提示**：这是 Soren 少见的完全不设防——读者该注意到他没有辩解、没有发怒、甚至没有离席；「说不出话」在这个人身上的分量，与 Kit 长期不肯对他开口形成对照。
 
 > **原句 8:** "Kit nods once, voice completely flat. "Oh. Sure." … The realisation settles uncomfortably: he's only doing it because I told him to. Not because he wants to and not because it's his birthday. Because I suggested it."
@@ -94,4 +94,4 @@ modified: "2026-11-12"
 | twenty-second | 第二十二的 | Tomorrow is his twenty-second birthday. |
 
 ## 一句话总结
-十七个月的等待被一声失控的「Soren」清偿，而生日这一天他收到的却是三连击：Ray 的精神状态警告、Lorraine 的吃醋诊断与 Shame on you 审判——面具滑落、认罪六词（I know she's right），走出门时他第一次承认「囚徒」二字，且承认自己不敢看他属于除自己以外的任何人。
+十七个月的等待被一声失控的「Soren」清偿，而生日这一天他收到的却是三连击：Ray 的精神状态警告、Lorraine 的吃醋诊断与 Shame on you 审判——面具滑落、认罪四个词（I know she's right），走出门时他第一次承认「囚徒」二字，且承认自己不敢看他属于除自己以外的任何人。

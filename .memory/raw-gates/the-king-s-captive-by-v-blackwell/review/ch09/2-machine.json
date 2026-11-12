@@ -1,0 +1,397 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/ch09 hollow birthday.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/text/ch09_chapter_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Seventeen months of this and it only gets worse. I guided him into this position myself",
+          "ok": true,
+          "pos": 232
+        },
+        {
+          "text": "hands on his hips, telling him to take it, to move, to use me however he wants. Some delusional part of me keeps thinkin",
+          "ok": true,
+          "pos": 321
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I still tell myself this is just sex. Just an obsession with the way he feels clenched around me, the sounds I can drag ",
+          "ok": true,
+          "pos": 2263
+        },
+        {
+          "text": "But right now",
+          "ok": true,
+          "pos": 2547
+        },
+        {
+          "text": "it's getting harder to keep the lies straight",
+          "ok": true,
+          "pos": 2693
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I do it again, deeper, more deliberate, and this time the sound that leaves him is louder. \"Oh",
+          "ok": true,
+          "pos": 5029
+        },
+        {
+          "text": "I can't",
+          "ok": true,
+          "pos": 2994
+        },
+        {
+          "text": "Soren!\"",
+          "ok": true,
+          "pos": 5132
+        },
+        {
+          "text": "My name. For the first time in seventeen months, my actual name leaves his mouth",
+          "ok": true,
+          "pos": 5139
+        },
+        {
+          "text": "He immediately slaps a hand over his lips like he's furious with himself for letting it slip",
+          "ok": true,
+          "pos": 5252
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I look at her, jaw tight. \"You get him to speak to me. Then, and only then, might I allow him to socialise. This is his ",
+          "ok": true,
+          "pos": 8848
+        },
+        {
+          "text": "Lorraine actually laughs. \"Oh, he's the stubborn one, is he? Really? Do you realise how jealous you sound? You've got fe",
+          "ok": true,
+          "pos": 8996
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Ray glances between us, then clears his throat carefully. \"Happy birthday, Kit.\"",
+          "ok": true,
+          "pos": 10015
+        },
+        {
+          "text": "Something unpleasant twists in my chest. This doesn't feel like a happy birthday; it feels like something else entirely",
+          "ok": true,
+          "pos": 10094
+        },
+        {
+          "text": "something hollow",
+          "ok": true,
+          "pos": 10214
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Lorraine exhales a long, sad breath. Her hand settles on his shoulder, rubbing gently. She shakes her head and whispers,",
+          "ok": true,
+          "pos": 10531
+        },
+        {
+          "text": "all for selfish reasons.\"",
+          "ok": true,
+          "pos": 10873
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I open my mouth. The sharp, cold reply should already be there; the one that reminds her of her place, the one that shut",
+          "ok": true,
+          "pos": 10898
+        },
+        {
+          "text": "I know she's right",
+          "ok": true,
+          "pos": 11240
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Kit nods once, voice completely flat. \"Oh. Sure.\"",
+          "ok": true,
+          "pos": 11688
+        },
+        {
+          "text": "The realisation settles uncomfortably: he's only doing it because I told him to. Not because he wants to and not because",
+          "ok": true,
+          "pos": 11895
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I walk out of the dining room with my jaw locked and my thoughts a mess. For the first time I'm forced to acknowledge th",
+          "ok": true,
+          "pos": 12182
+        },
+        {
+          "text": "I don't know how to stop. In my head the equation is still simple and brutal: if he leaves these walls, someone could fi",
+          "ok": true,
+          "pos": 12359
+        },
+        {
+          "text": "everyone except me",
+          "ok": true,
+          "pos": 12612
+        }
+      ],
+      "words": 87
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 12,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 24,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2379,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 10 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch09",
+ "text": "text/ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "Soren 与 Kit 已维持这种关系十七个月，且只会越来越糟。",
+   "anchor": "Seventeen months of this and it only gets worse.",
+   "start": 253,
+   "end": 301
+  },
+  {
+   "fact": "十七个月来 Kit 第一次在性事中喊出 Soren 的名字。",
+   "anchor": "My name. For the first time in seventeen months, my actual name leaves his mouth",
+   "start": 5205,
+   "end": 5285
+  },
+  {
+   "fact": "Soren 知道明天是 Kit 二十二岁生日，只因去年听过他二十一岁生日的抱怨。",
+   "anchor": "Tomorrow is his twenty-second birthday. I only know because of last year",
+   "start": 1974,
+   "end": 2046
+  },
+  {
+   "fact": "Lorraine 在早餐时问 Soren 今天是否陪 Kit。",
+   "anchor": "“So… are you going to be spending any time with Kit today?”",
+   "start": 6939,
+   "end": 6998
+  },
+  {
+   "fact": "Ray 劝 Soren 把关于 Kit 父母的真相告诉他。",
+   "anchor": "“I know I’ve said it before, but seriously… you need to tell him the truth about his parents.”",
+   "start": 8109,
+   "end": 8203
+  },
+  {
+   "fact": "Ray 在餐桌旁向 Kit 说生日快乐。",
+   "anchor": "Ray glances between us, then clears his throat carefully. “Happy birthday, Kit.”",
+   "start": 10180,
+   "end": 10260
+  },
+  {
+   "fact": "Lorraine 责备 Soren 只顾照顾全家，却因自私忽视唯一被他拉近身边的人。",
+   "anchor": "“Shame on you, Soren Sinclair. You know how to look after everyone else under this roof",
+   "start": 10863,
+   "end": 10950
+  },
+  {
+   "fact": "Soren 提议让 Lorraine 陪 Kit 烤蛋糕。",
+   "anchor": "“I think Lorraine would like to spend some time with you, maybe bake a cake with you.”",
+   "start": 11791,
+   "end": 11877
+  }
+ ]
+}
