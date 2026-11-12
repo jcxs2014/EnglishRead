@@ -52,7 +52,7 @@ modified: "2026-11-12"
 
 **为什么这样写**：only three deaths 与 dozens 的对比是本章最刺眼的数字：当年那个「只有三条」的版本，正是序章那一夜。作者让他自己把两个数字并排——三条是他的童年，几十条是他的余生。而 the police are no closer 一句把机构的无能写实：绿血如此显眼，追查却毫无进展，说明问题不在证据，在体系。
 
-**读者视角提示**：这一段把序章的三条人命正式归到「配方」名下——Herb、Cinnamon 的妈妈、Orzo 的母亲的死，全靠这一章的因果闭合。他现在知道了全部，而他选择继续。
+**读者视角提示**：这一段把序章的三条人命正式归到「配方」名下——Herb（Orzo 的父亲）、Cinnamon 的妈妈、Maple 的死，全靠这一章的因果闭合。他现在知道了全部，而他选择继续。
 
 > **原句 5:** "Cinnamon: Hey! I need your help! You seemed to know about crypto and my last job is trying to pay me with bitcoin (???). I would like to get it set up before the next one they hired me for. The cursor hesitates over the trash button. I should just ignore this, pretend it never came through. I'm already this far in, I may as well see where it takes me."
 
