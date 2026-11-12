@@ -1,0 +1,49 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch21",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch21_20_north_of_ursa.txt",
+ "facts": [
+  {
+   "fact": "渡河方案成型：不与水流对抗、顺流用绳走——她说讲解时的热情与 Draven 谈洋流如出一辙；Icarus 问回程，她答「再渡一次、也顺流——两条绳摆成 V」",
+   "anchor": "Instead, we use the ropes to travel across the river with the current.",
+   "start": 3618,
+   "end": 3688
+  },
+  {
+   "fact": "资源与地形：祖父渔舍（门楣骨架钥匙/棚屋绳索渔网重物——Hellbore 空手破锁）；绳不够 100 英尺→拆网、剪地毯窗帘（她保证 Guard 会赔）；夜里轮岗警戒（离 Dranderon 边境太近）",
+   "anchor": "It will be replaced by the Guard.",
+   "start": 7054,
+   "end": 7087
+  },
+  {
+   "fact": "营火夜话：Rokin 旁证别的 century 命令多自由少；Fragon 说破高留队率的原因=她（「fair, quick to think, slow to judge」）——她回「是你们撑住了我」；Rokin 获昵称 Sticks",
+   "anchor": "Commander, we would follow you to the ends of the world.",
+   "start": 11657,
+   "end": 11713
+  },
+  {
+   "fact": "清晨行动：伐桉树搭桥（Hellbore 挥斧、引导倒向）——树快断时岸基塌陷，她冲上倾倒的树干借 Hellbore 身子攀行、纵身跳上对岸——人生第一次独自踏上 Dranderon 国土",
+   "anchor": "We will cut down a tree so it will fall as far across the water as possible.",
+   "start": 13378,
+   "end": 13454
+  },
+  {
+   "fact": "过河体验：Vine 河如死亡陷阱用致命手臂缠她——水冷得连她也咬；回岸后跪地喘息「水已警告，我会听从」；Icarus 怒评「你他妈疯了」——她认账",
+   "anchor": "The Vine River—the death trap of men—wraps her deadly arms around me.",
+   "start": 17270,
+   "end": 17339
+  },
+  {
+   "fact": "全队渡河：渔夫铅锤抛绳过河→绳沉水面下；Blight 裸渡打头（「别看司令」→集体下半身笑话）；顺序 Blight→Icarus→Areneas→Peltin→Fragon（拖笼沉绳、Deep Lung 险象）——「Not a single rope visible. Crossable by all. Easily repeatable.」",
+   "anchor": "“Right. Everyone has enormous dicks,”",
+   "start": 20053,
+   "end": 20090
+  },
+  {
+   "fact": "收束：Icarus 说「你做到了」——她纠正「是我们做到了」；Niobe 朝首都方向飞回（全员松气）；快速返程争第一",
+   "anchor": "“No,” I correct, “we did it.”",
+   "start": 23479,
+   "end": 23508
+  }
+ ]
+}
