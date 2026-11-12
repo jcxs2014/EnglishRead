@@ -55,37 +55,43 @@ modified: "2026-11-12"
 **为什么这样写**：男主先注意到眼睛，再注意到杯子与紧张的小动作；上一段脑海里的形象在厨房变成眼前的人，观察仍然带着不平等的距离。
 **读者视角提示**：这一刻 Kit 尚不知道有人在身后，水杯与 nervous sips 提前标出脆弱；紧接着的惊吓会使平静的小物件变成事故源头。
 
-> **原句 8:** "I spot the thin cut along the side of his hand before he can escape and reach out without thinking, closing my fingers around his wrist. … "Stay." The single word is a command I know he can't ignore."
+> **原句 8:** "He turns sharply, eyes going wide the second they lock onto mine, just for a brief second, before a strangled little noise escapes his throat. The glass slips from his fingers and shatters against the floor; he panics instantly."
+**中文理解**：Kit 猛地转身，视线撞上他的只有一瞬，喉咙里挤出一声被掐住似的小音；玻璃杯脱手砸碎在地板上，人立刻慌了神。
+**关键词**：turns sharply / wide / shatters / panics
+**为什么这样写**：声音先碎（strangled noise）再物碎（glass shatters），两层破碎叠在同一秒；他不必动手，光是站在这里就成了事故原因——这正是他想看的反应。
+**读者视角提示**：玻璃这一摔把「被看见」变成物理事故，也直接引出下一段的伤口与创可贴；Kit 的第一反应是恐惧，不是求助。
+
+> **原句 9:** "I spot the thin cut along the side of his hand before he can escape and reach out without thinking, closing my fingers around his wrist. … "Stay." The single word is a command I know he can't ignore."
 **中文理解**：他抢在那孩子溜走之前发现他手侧的细小伤口，不假思索伸手扣住手腕，只说一个字：留下。他知道这个字对对方而言不是请求。
 **关键词**：thin cut / without thinking / wrist / Stay
 **为什么这样写**：without thinking 是本段的钩子——满章都在算计的人出现第一个无意识动作；Stay 一个词的祈使式，配上 he can't ignore 的旁白，把两人之间的权力默认值压进一个音节。
 **读者视角提示**：抓手腕的由头是伤口——这一次，带暴力的接触裹上了照料的借口；先扣住、再想理由的顺序说明身体又一次跑在理由前面，这是本章的重复母题。
 
-> **原句 9:** "I release his wrist and walk over to the small drawer where Lorraine keeps the first-aid supplies. Then dig out a band-aid, tear it open, and step back in front of him. Catching his small hand, I yank it up and press the band-aid over the cut with more force than necessary; he hisses quietly at the roughness."
+> **原句 10:** "I release his wrist and walk over to the small drawer where Lorraine keeps the first-aid supplies. Then dig out a band-aid, tear it open, and step back in front of him. Catching his small hand, I yank it up and press the band-aid over the cut with more force than necessary; he hisses quietly at the roughness."
 **中文理解**：他松开手腕，去翻 Lorraine 放急救用品的小抽屉，撕开创可贴，抓过那只小手猛地抬起来用力按上伤口，粗鲁得孩子轻轻抽气。
 **关键词**：band-aid / yank / press / roughness
 **为什么这样写**：动作链（dig out→tear→yank→press）全是施暴的力度，做的却是照料的事——手与意图打架就是这一段的张力来源；hisses quietly 是他对粗鲁的唯一抗议，顺从已经长进身体里。
 **读者视角提示**：贴创可贴这个动作由这双杀人的手完成，反差不需要作者点破；more force than necessary 是他在给自己找补，越用力越露馅。
 
-> **原句 10:** "I don't usually put band-aids on people, in fact… I never have. Why the fuck did I just do that? I keep hold of his hand, frowning down at it for several long seconds, before the realisation hits me… I'm standing here cradling the kid's hand like some kind of caretaker."
+> **原句 11:** "I don't usually put band-aids on people, in fact… I never have. Why the fuck did I just do that? I keep hold of his hand, frowning down at it for several long seconds, before the realisation hits me… I'm standing here cradling the kid's hand like some kind of caretaker."
 **中文理解**：他不常给人贴创可贴——实际上从来没有过。为什么要做这个？他攥着那只手盯了好几秒，才意识到：自己正像个看护一样捧着孩子的手。
 **关键词**：never have / fuck / cradling / caretaker
 **为什么这样写**：never have 与 why the fuck 的自我质问连发，冷血杀手被一张创可贴逼到自我侦察；cradling 这个词选得致命——他自己说出了「捧着」这个连他都不敢认的姿势。
 **读者视角提示**：读者在此看到的 Soren 与上一章喝令滚蛋的那个判若两人；他能完成这个动作，却给不出它的名字，命名权还在否认期手里。
 
-> **原句 11:** "I'm enjoying this far more than I should. I lean down until my mouth is near his ear, smug and deliberate. "One more time?" … He inhales shakily. When he speaks again his voice is still soft, but clearer. "Thank you.""
+> **原句 12:** "I'm enjoying this far more than I should. I lean down until my mouth is near his ear, smug and deliberate. "One more time?" … He inhales shakily. When he speaks again his voice is still soft, but clearer. "Thank you.""
 **中文理解**：他发现自己从中得到远超应得的乐趣，俯身把嘴凑到孩子耳边，得意而刻意：再说一次？对方抽了口气，声音仍轻，但更清楚地说了：谢谢。
 **关键词**：enjoying / ear / smug / One more time
 **为什么这样写**：一句谢谢被当战利品要求复述，far more than I should 是他亲口承认越界；凑到耳边这个距离与上一章枪口抵下巴同位——侵入的姿势没变，工具从枪换成了得意，权力的形状开始变质。
 **读者视角提示**：谢谢的音量成了他手里的旋钮，读者看到他主动发起而不是回应互动；「下令重复→立即服从」既是他在测顺从值，也是全书亲密关系的雏形——用命令完成靠近。
 
-> **原句 12:** "Would he obey better than the women I fuck? … The second the images form I go still; shock hits me hard and fast and heat crawls up the back of my neck."
+> **原句 13:** "Would he obey better than the women I fuck? … The second the images form I go still; shock hits me hard and fast and heat crawls up the back of my neck."
 **中文理解**：念头直接越轨：他会不会比我玩的女人更听话？画面一旦成形，他整个人僵住，震惊来得又快又猛，热度爬上后颈。
 **关键词**：obey / shock / heat / still
 **为什么这样写**：问句不带半点迟疑，直接以比较级落地——欲望用他最熟悉的度量衡（服从性）表达；shock 与 heat 一冷一热两个生理反应，写出观念追不上身体的时差。
 **读者视角提示**：这是男主体内的「系统报错」时刻，而他把它归类为 shock 而非 desire——命名即抵抗；章末那句 going insane 的自我诊断，读者可以当作作者在替角色提前打预防针。
 
-> **原句 13:** "I've never slept with a guy before. I expected the idea itself to feel more unsettling than it does, but it doesn't, at all."
+> **原句 14:** "I've never slept with a guy before. I expected the idea itself to feel more unsettling than it does, but it doesn't, at all."
 **中文理解**：他从没和男人睡过。本以为光是这一个念头就该让人不安，实际上完全没有。
 **关键词**：never / guy / unsettling / at all
 **为什么这样写**：全章最后一句留给性向的自我盘点——expected… but it doesn't 的句式让「预期的不安」与「实际的无感」当场对撞，比直接写心动高级得多；at all 两个词把这扇门彻底推开。

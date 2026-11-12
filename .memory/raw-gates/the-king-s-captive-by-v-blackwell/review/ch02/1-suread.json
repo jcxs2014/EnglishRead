@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch02",
+ "text": "text/ch02_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Lorraine 说 Kit 大约三天没好好吃饭，本以为他能吃下一个三明治。",
+   "anchor": "“He’s not eaten properly for about three days,” she says. “I thought he might manage a sandwich.”",
+   "start": 464,
+   "end": 561
+  },
+  {
+   "fact": "Soren 回答 Lorraine：留下 Kit 是为了不让他被坏人利用、折磨或操纵。",
+   "anchor": "“So he doesn’t end up being used, or tortured, or manipulated by… very bad people.”",
+   "start": 1518,
+   "end": 1601
+  },
+  {
+   "fact": "Lorraine 像在解剖另一个版本的 Soren，直呼其全名 Soren Sinclair 问他为什么在意。",
+   "anchor": "Like she’s dissecting a version of me that isn’t actually there. “And why do you, Soren Sinclair… care?”",
+   "start": 1703,
+   "end": 1807
+  },
+  {
+   "fact": "Soren 说新招募的 Aria 先由 Selina 观察几个月，Luke 做背景调查。",
+   "anchor": "“I’ve got Selina keeping an eye on her for the next few months before I decide. Luke’s doing all the background checks.",
+   "start": 3266,
+   "end": 3385
+  },
+  {
+   "fact": "叙述称 Ray 是 Soren 这辈子最接近真朋友的人，可靠。",
+   "anchor": "Ray’s the closest thing I have to a real friend in this life… solid, reliable",
+   "start": 5152,
+   "end": 5229
+  },
+  {
+   "fact": "Soren 一言不发地从女人体内抽出，系好裤子和腰带。",
+   "anchor": "I pull out of the woman without a word, already reaching down… belt fastened and trousers done up.",
+   "start": 16087,
+   "end": 16185
+  },
+  {
+   "fact": "Kit 手里的玻璃杯滑落，在地上摔碎，他当场慌了。",
+   "anchor": "The glass slips from his fingers and shatters against the floor; he panics instantly.",
+   "start": 17131,
+   "end": 17216
+  },
+  {
+   "fact": "Soren 抓住 Kit 的手，用力把创可贴按在伤口上。",
+   "anchor": "Catching his small hand, I yank it up and press the band-aid over the cut with more force than necessary",
+   "start": 18964,
+   "end": 19068
+  }
+ ]
+}
