@@ -34,11 +34,11 @@ modified: "2026-11-12"
 
 **读者视角提示**：对讲机核对的细节值得多看一眼——门卫不知道她会来，说明「取货」安排连底层执行者都没同步。这条链路上每个人只知道自己那一段，而她以为的「私厨定制」，在别人的段位里叫别的名字。
 
-> **原句 3:** "I don't expect for them to immediately rip open my car. One of the men lugs me out, while the other starts his search. "Sorry, I haven't cleaned it for awhile," I advise sheepishly as he holds up the borrowed shirt my nose bled all over with a raised brow. "Broke my nose." … He throws it to the ground. "What's this?" He brings out my black canvas bag next. "It's my knives?" I ask. "I need them for cooking." … He eyes them warily. "all of this for one meal?""
+> **原句 3:** "I don't expect for them to immediately rip open my car. One of the men lugs me out, while the other starts his search. "Sorry, I haven't cleaned it for awhile," I advise sheepishly as he holds up the borrowed shirt my nose bled all over with a raised brow. "Broke my nose." … He throws it to the ground. "What's this?" He brings out my black canvas bag next. "It's my knives?" I ask. "I need them for cooking." … He eyes them warily. "You need all of this for one meal?""
 
 **中文理解**：他们直接撕开她的车、把她拎出来搜身；她讪讪道歉说很久没洗车——保镖举起那件染满鼻血的衬衫，她解释自己断过鼻；衬衫被扔在地上，帆布包被抽出摊在引擎盖上——「做一顿饭要这么多刀？」
 
-**关键词**：rip open my car / borrowed shirt my nose bled / It's my knives? / You need all of this for one meal?
+**关键词**：rip open my car / borrowed shirt my nose bled / It's my knives? / all of this for one meal?
 
 **为什么这样写**：搜身戏逐件掏她的生活：衬衫上的血、卷袋里的刀——每件在两个词典里都是证物。作者让她对一件凶器级的物品道歉（haven't cleaned it），她对危险的钝感被写得纤毫毕现；You need all of this for one meal? 的质问与第 12 章的 one head 遥相呼应——同样的「一顿饭」，两种人命观。
 
@@ -82,7 +82,7 @@ modified: "2026-11-12"
 | acknowledge | 承认；自认 | By the time I slam into the parking lot of the restaurant, I can acknowledge I am running late. |
 | sheepishly | 讪讪地；不好意思地 | "Sorry, I haven't cleaned it for awhile," I advise sheepishly as he holds up the borrowed shirt my nose bled all over with a raised brow. |
 | without fruition | 毫无结果；徒劳 | she asks in a panic, attempting without fruition to save the destroyed vase. |
-| warily | 警惕地 | He unrolls it on the hood of my car. He eyes them warily. "all of this for one meal?" |
+| warily | 警惕地 | He unrolls it on the hood of my car. He eyes them warily. "You need all of this for one meal?" |
 | industrial | 工业级的 | And then I am shoved through the back door and trucked through a maze of hallways to an industrial kitchen. |
 
 ### ⭐⭐ 进阶
