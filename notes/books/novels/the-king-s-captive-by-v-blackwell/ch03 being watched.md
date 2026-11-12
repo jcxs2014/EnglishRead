@@ -34,7 +34,7 @@ modified: "2026-11-12"
 > **原句 4:** "Then his hand comes up and settles on my shoulder. The grip is firm, not rough, but it still sends a jolt straight down my spine. He gives a single squeeze, thumb pressing lightly against the side of my neck for half a second longer than necessary."
 **中文理解**：他抬手搭上 Kit 的肩，握得不粗鲁却让一股电流顺着脊柱窜下去；捏了一下，拇指在颈侧轻轻压着，多停了半秒。
 **关键词**：shoulder / jolt / squeeze / thumb
-**为什么这样写**：firm, not rough 是这双手的出厂设定——力道永远精确在「控制」与「伤害」的分界线上；half a second longer than necessary 是全段的眼睛：多出来的半秒不是需要，是想要，欲望第一次以时长计量。
+**为什么这样写**：firm, not rough 是这双手的出厂设定——力道永远精确在「控制」与「伤害」的分界线上；half a second longer than necessary 是全段的眼睛：多出来的半秒不是需要，是想要，欲望在这里以时长计量。
 **读者视角提示**：触觉描写在此接管了对话功能——他没说什么出格的话，身体已经说了；读者该注意这套「半秒逻辑」会反复出现，多停留的每次都是心动证据。
 
 > **原句 5:** "Then I hear the unmistakable sound of a belt buckle being undone. My eyes go wide, he's… taking his belt off? … The belt slides free with a soft hiss of leather as I prepare myself for the worst. The last thing I expect is the sudden grip of his hands around both of my wrists. He pulls them together behind my back in one firm movement and starts wrapping the warm, stiff leather around them, tight and deliberate. My breath catches hard in my throat as the belt cinches, binding my wrists securely behind me."
@@ -58,7 +58,7 @@ modified: "2026-11-12"
 > **原句 8:** "His voice comes again, quieter this time. "You didn't say no." … Then he grabs the neckline of the thin t-shirt underneath and tears it straight down the middle like it's paper. Cool air hits my bare chest. … He looked me in the eye and offered me the chance to say no, and I just stood here like an idiot who forgot how to speak. I couldn't even form the word."
 **中文理解**：他再次开口，声音更低：你没说不。随即捏住内层薄 T 恤的领口，像撕纸一样从正中扯开，冷空气扑上胸口。可他明明看着我的眼睛给过机会，我却像个忘了怎么说话的傻子杵在这里——连那个字都组织不出来。
 **关键词**：say no / tears / paper / form the word
-**为什么这样写**：quieter this time 的音量策略与上一章同款——越轻越危险；tears it like it's paper 的力度对比（薄衣/纸）写的是「他的力气在这个房间里的真实含义」；Kit 的自我控诉用了 idiot 这种骂自己的词，把「说不出 no」定罪为能力问题，回避了真正的无解处境。
+**为什么这样写**：quieter this time 把音量再压低一格——越轻，危险感反而越重；tears it like it's paper 的力度对比（薄衣/纸）写的是「他的力气在这个房间里的真实含义」；Kit 的自我控诉用了 idiot 这种骂自己的词，把「说不出 no」定罪为能力问题，回避了真正的无解处境。
 **读者视角提示**：「没说不＝同意」是本章的法律逻辑，作者让读者全程看着这个逻辑怎么被沉默灌满；纸一样撕开的衣服宣告谈判结束，剩下的只有执行。
 
 > **原句 9:** "This is absurd. … This man killed my parents. … Why didn't I say no? … Why am I just letting this happen?"

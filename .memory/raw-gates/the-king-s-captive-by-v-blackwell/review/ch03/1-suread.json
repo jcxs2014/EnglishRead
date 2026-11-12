@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch03",
+ "text": "text/ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "Kit 自述距那晚已四个月，他居然还在这里。",
+   "anchor": "It’s been four months since the night everything changed, and somehow, I’m still here.",
+   "start": 479,
+   "end": 565
+  },
+  {
+   "fact": "Soren 低沉地哼了一声，命令 Kit 不准离开庄园。",
+   "anchor": "He grunts, deep and final. “Kit doesn’t leave the estate.”",
+   "start": 4421,
+   "end": 4479
+  },
+  {
+   "fact": "Lorraine 对 Kit 说“对不起，亲爱的”，转身走向前门。",
+   "anchor": "Softly she says, “Sorry, dear,” before turning and walking away toward the front doors.",
+   "start": 4647,
+   "end": 4734
+  },
+  {
+   "fact": "Soren 指出 Kit 已经和 Lorraine 在外面待过、不必黏着她。",
+   "anchor": "“You’ve already spent time with her outside. You don’t need to be glued to her.”",
+   "start": 5025,
+   "end": 5105
+  },
+  {
+   "fact": "门在两人身后关上，锁咔哒落上。",
+   "anchor": "The door clicks shut behind us, then the lock turns.",
+   "start": 7902,
+   "end": 7954
+  },
+  {
+   "fact": "Soren 把 Kit 的双手拉到背后，用皮带紧紧缠住手腕。",
+   "anchor": "He pulls them together behind my back in one firm movement and starts wrapping the warm, stiff leather around them, tight and deliberate.",
+   "start": 9370,
+   "end": 9507
+  },
+  {
+   "fact": "Soren 对 Kit 说，给他一次说不的机会。",
+   "anchor": "“I’ll give you one chance to say no, Kit.”",
+   "start": 9769,
+   "end": 9811
+  },
+  {
+   "fact": "Soren 一巴掌打在 Kit 屁股上，质问他是不是自己允许他射的。",
+   "anchor": "Soren growls, before a sharp, stinging smack lands on my ass. “Did I say you could come?”",
+   "start": 25128,
+   "end": 25217
+  }
+ ]
+}
