@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：「你尝到肉桂了吗？」他问，等着这个女人倒下去；她又嚼了几口：「你这么一说……」她从那道主菜里又叉了一口，「是有一点肉桂味，跟这道菜很配。我觉得是烤茄子。」——这就够了；他冲向前门，决心找到来人的证据。
 
-**关键词**：waiting for the woman to keel over / There is a touch of cinnamon / pairs well with this / rushed out to find evidence
+**关键词**：waiting for the woman to keel over / There is a touch of cinnamon / pairs well with this / rush out to the front door
 
 **为什么这样写**：waiting for the woman to keel over（等着她倒下）是他一生的执法方式——让仆人先吃。而「有一点肉桂，跟这道菜很配」是全章最要命的一句：毒不在菜里，肉桂是调味；他的试毒机制完美运转，却验出了一份不存在的威胁。作者让最谨慎的人被自己的谨慎骗出门。
 

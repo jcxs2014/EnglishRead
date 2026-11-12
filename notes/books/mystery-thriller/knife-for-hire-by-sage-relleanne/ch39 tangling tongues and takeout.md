@@ -108,7 +108,6 @@ modified: "2026-11-12"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| percolates | 渗透；慢慢扩散 | Confusion percolates. |
 | suffusing | 弥漫；充满 | My eyes flick to the offending containers that the horrible smell suffusing the air comes from. |
 | appraising | 打量；评估 | A slow clap causes me to spin around. Reuben leans against the doorway of the kitchen, watching me appraisingly. |
 | reprieve | 缓解；喘息 | He covers my body, ravages me, offers no reprieve. |
