@@ -1,0 +1,79 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-king-s-captive-by-v-blackwell/text/ch11_epilogue.txt",
+ "facts": [
+  {
+   "fact": "Armen 报告黑卡办好、账户干净且无有用纸质线索。",
+   "anchor": "Black card’s done. Properly set up, clean accounts, no paper trail that leads anywhere useful.",
+   "start": 817,
+   "end": 911
+  },
+  {
+   "fact": "卡上压印 Christopher Sinclair。",
+   "anchor": "The name embossed on the card sits there in clean silver lettering. ‘Christopher Sinclair.’",
+   "start": 1215,
+   "end": 1306
+  },
+  {
+   "fact": "Armen 指出姓氏的选择耐人寻味。",
+   "anchor": "interesting choice of surname.",
+   "start": 1377,
+   "end": 1407
+  },
+  {
+   "fact": "Soren 认为 Everly 姓氏可能触发 Zero Hour 的警报。",
+   "anchor": "That surname probably has fucking alarm bells tied to Zero Hour.",
+   "start": 1841,
+   "end": 1905
+  },
+  {
+   "fact": "Armen 指出可以任选其他普通假姓。",
+   "anchor": "You could’ve gone with anything. Smith, Jones… some random nothing name.",
+   "start": 2204,
+   "end": 2276
+  },
+  {
+   "fact": "Soren 问自己为何偏用自己的姓。",
+   "anchor": "So why the fuck did I use my own?",
+   "start": 2597,
+   "end": 2630
+  },
+  {
+   "fact": "Soren 让 Armen 知道保险柜密码，仅限自己死亡或重大事故时打开。",
+   "anchor": "You don’t open this unless I’m dead or something has gone seriously wrong. Understood?",
+   "start": 3086,
+   "end": 3172
+  },
+  {
+   "fact": "纸质日志记录某些不宜存入硬盘的事项。",
+   "anchor": "there are still entries that should never exist on a hard drive.",
+   "start": 3797,
+   "end": 3861
+  },
+  {
+   "fact": "不安没有明确威胁、名字或方向。",
+   "anchor": "There’s no clear threat, no name, no direction I can point to.",
+   "start": 4427,
+   "end": 4489
+  },
+  {
+   "fact": "他预感看不见又无法阻止的坏事逼近。",
+   "anchor": "Something I can’t see yet, and somehow, I already know I won’t be able to stop it. Something bad.",
+   "start": 4630,
+   "end": 4727
+  },
+  {
+   "fact": "他感到无法定位的裂缝。",
+   "anchor": "A crack I can’t locate.",
+   "start": 5270,
+   "end": 5293
+  },
+  {
+   "fact": "最后落在无法命名的弱点。",
+   "anchor": "A weakness I can’t name yet.",
+   "start": 5295,
+   "end": 5323
+  }
+ ]
+}

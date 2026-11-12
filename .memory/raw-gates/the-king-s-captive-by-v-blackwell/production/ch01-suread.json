@@ -1,0 +1,79 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-king-s-captive-by-v-blackwell/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Kit 三个月前父母被杀后一直被留在 Soren 的宅子里，几乎不出自己的房间。",
+   "anchor": "Three months; nearly three months since that night, and I still don’t know if I’m crying because Mom and Dad are gone… or because I",
+   "start": 414,
+   "end": 545
+  },
+  {
+   "fact": "Soren 当晚跪在 Kit 父母尸体旁、手里的枪还热着，两人额头各有一个整齐弹孔，还把 Kit 当没处理的隐患。",
+   "anchor": "The man who knelt beside my parents’ bodies with a gun still warm in his hand. The man who looked at the neat bullet holes in both of their foreheads and then looked at me, like I was nothing more than a loose end he hadn’t decided what to do with yet.",
+   "start": 1295,
+   "end": 1547
+  },
+  {
+   "fact": "Lorraine 每天都来，是这个地方唯一对 Kit 温和的人，送饭、敲门但不强闯。",
+   "anchor": "Lorraine comes every day; she’s the only kindness in this place.",
+   "start": 1963,
+   "end": 2027
+  },
+  {
+   "fact": "Kit 二十岁、本是个大学生，父母遇害前的生活是课本、深夜写代码、妈妈做饭的家。",
+   "anchor": "I don’t belong here… I was just a college kid. I’m only twenty.",
+   "start": 3871,
+   "end": 3934
+  },
+  {
+   "fact": "Kit 试图逃跑过一次：半夜爬窗、光脚落地只跑了三步，看见持手电的保安就翻回去了。",
+   "anchor": "I know I can’t escape; I tried once. Climbed out of my bedroom window",
+   "start": 8990,
+   "end": 9059
+  },
+  {
+   "fact": "Lorraine 以 boss 出门办事了劝动 Kit 跟她去厨房吃东西。",
+   "anchor": "the boss is out on business.",
+   "start": 5269,
+   "end": 5297
+  },
+  {
+   "fact": "Selina 进厨房招呼 Kit，自我介绍叫 Selina，还叫他 Kitty。",
+   "anchor": "Well, hi, Kitty… oh, I’m Selina by the way.",
+   "start": 10991,
+   "end": 11034
+  },
+  {
+   "fact": "Soren 回来呵斥 Selina 不许和 Kit 沟通、领了任务就去干。",
+   "anchor": "You don’t fucking communicate with him, Selina. I gave you a task, get to it,",
+   "start": 11749,
+   "end": 11826
+  },
+  {
+   "fact": "Soren 对 Kit 说的第一句话点他终于离开了房间，用的称呼是 Christopher。",
+   "anchor": "So, you finally left your room, Christopher.",
+   "start": 12796,
+   "end": 12840
+  },
+  {
+   "fact": "Lorraine 替 Kit 补充说他更愿意被叫 Kit。",
+   "anchor": "Oh, he prefers to be called Kit.",
+   "start": 12945,
+   "end": 12977
+  },
+  {
+   "fact": "Soren 抓住 Kit 的下巴逼他抬眼对视，问他是不是怕他。",
+   "anchor": "His hand comes up and grabs my chin, forcing my face up until I have no choice but to look at him.",
+   "start": 14586,
+   "end": 14684
+  },
+  {
+   "fact": "Soren 最后喝令 Kit 出去并喊出 Christopher，Kit 快步僵直地逃出厨房。",
+   "anchor": "Now, Christopher!” The shout cracks through the room.",
+   "start": 15236,
+   "end": 15289
+  }
+ ]
+}

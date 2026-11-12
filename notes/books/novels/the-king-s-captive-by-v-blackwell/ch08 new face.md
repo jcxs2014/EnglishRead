@@ -6,8 +6,8 @@ modified: "2026-11-12"
 # 08. Chapter Eight
 
 ## 本章导航
-- **一句话概括**：五个月后，Aria 的新面孔与一个拥抱引爆积压——Kit 首次抗命出走，被扛回卧室后交出第一句完整的话（你杀了我唯一的家人）与生日真相（二十一岁无人问津）；Soren 亏欠爆发，破例抱他下楼、允许听音乐，全桌看傻。
-- **情感弧线位置**：双向第一次——Kit 第一次反抗与第一次开口谈创伤；Soren 第一次失职感与第一次公开温柔；关系的天平从压制滑向亏欠。
+- **一句话概括**：五个月后，Aria 的新面孔与一个拥抱引爆积压——Kit 第一次抗命出走，被扛回卧室后交出第一句完整的话（你杀了我唯一的家人）与生日真相（二十一岁无人问津）；Soren 亏欠爆发，破例抱他下楼、允许听音乐，全桌看傻。
+- **情感弧线位置**：双向第一次——Kit 第一次反抗与第一次开口谈创伤；Soren 第一次失职感与罕见的公开温柔；关系的天平从压制滑向亏欠。
 - **Tropes 兑现/反转**：「囚笼中的生日」情感重锤正面落下（You can have my body, but not my words）；反转点是道歉不用道歉的形式——以特权（耳机、抱下楼）支付。
 - **人物弧线**：Kit＝从「活着就行」到「我也要当人」的临界点；Soren＝发现自己在意的深度远超设计；Aria＝无意中踹开铁幕的人。
 - **叙事手法**：双 POV 各半；「清单式剥夺」（three outfits / one pair of shoes）与「清单式注视」（全桌反应轮播）对仗；生日日期给出绝对时间锚（周一）。
@@ -17,7 +17,7 @@ modified: "2026-11-12"
 **中文理解**：胸口有什么东西狠狠拧了一下。他吸气发颤、眨了好几次眼压住突然的酸楚。他想不通：一个全新的人怎么就能走进来、那样笑着，立刻获准跟所有人说话拥抱？她来了五分钟，就已经比他任何时刻都更属于这里。
 **关键词**：twists / burn / brand new / belongs
 **为什么这样写**：burn in my eyes 把嫉妒写成生理症状——他不是恨 Aria，是恨那个「立刻被允许」；five minutes 与 five months 没有同时出现却构成暗对账，作者把天平留给读者自己搬。
-**读者视角提示**：本章的引信在这一段点燃——「归属权」的不公是 Kit 十个月来第一次拥有可诉说的委屈；记住 belongs 这个词，他的爆发全部由它供能。
+**读者视角提示**：本章的引信在这一段点燃——「归属权」的不公第一次变成他能说出口的委屈；记住 belongs 这个词，他的爆发全部由它供能。
 
 > **原句 2:** "Before I can shrink any further, she leans over and pulls me into a warm, easy hug. "Hey, you must be the youngest. What's your name?" … Armen forces an awkward little laugh. "Oh, Aria, you um… you can't touch Kit.""
 **中文理解**：他还没来得及缩得更小，她俯身把他拉进一个暖和随意的拥抱：你就是最小的那个吧？叫什么名字？……Armen 挤出一个尴尬的干笑：呃，Aria，你不能……碰 Kit。
@@ -29,7 +29,7 @@ modified: "2026-11-12"
 **中文理解**：沉重的靴声切断一切，Soren 的声音跟着砸下来，又响又深、已经不耐烦：他们不跟他说话、不碰他，因为不被允许。想在这儿有你的位置，就尊重这一点，然后挪开。
 **关键词**：boots / impatient / not allowed / move
 **为什么这样写**：命令的骨架暴露了规则的全部内容——「因为不被允许」是循环论证的官方版；对一个新人他给的接纳条件是学会这套荒谬，制度对外来者最不客气的一面在此亮相。
-**读者视角提示**：这是 ch07 新规第一次当众执行，被罚的却是无辜者；读者可以数一数：规矩保护了谁、惩罚了谁。
+**读者视角提示**：这是 ch07 新规第一次对外来新人执行，被罚的却是无辜者；读者可以数一数：规矩保护了谁、惩罚了谁。
 
 > **原句 4:** "Soren leans over me, yanks the earbuds straight out of my ears, and drops them onto the table. "No music at the table, Kit." … I nod, staring into the drink. No music, no talking, no hug, no eye contact. Just existing, barely."
 **中文理解**：他俯身把耳机直接从耳朵上扯下来丢在桌上：餐桌上不许听音乐，Kit。他点点头盯着杯子：没音乐、没说话、没拥抱、没对视。只是活着，勉强算活着。
@@ -47,7 +47,7 @@ modified: "2026-11-12"
 **中文理解**：他不停步——他拒绝坐在那里看一个来了五分钟的人谈笑、被拥抱，仿佛她早就属于这里；而他被困在这栋房子里十个月，获准说话的对象恰好是一个人：Lorraine。他睡一间小盒子房，全部家当是三套衣服和一双鞋。
 **关键词**：five minutes / ten months / exactly one person / three outfits
 **为什么这样写**：数字对仗（five minutes / ten months）完成全章最锋利的一次比较，剥夺被写成资产清单（三套衣服、一双鞋、一个说话对象）——清单式写法让贫穷看起来像账目，无处喊冤。
-**读者视角提示**：这是全书第一次完整交代 Kit 的全部「财产」——读者可以拿它当标尺，衡量此后他得到的每一样东西（笔记本、耳机）的真实分量。
+**读者视角提示**：这是全书第一次把 Kit 的全部家当一次列清——读者可以拿它当标尺，衡量此后他得到的每一样东西（笔记本、耳机）的真实分量。
 
 > **原句 7:** "What's pissing me off the most is how deeply this has gotten under my skin. How affected I am; I shouldn't care this much that he walked out. I shouldn't care that he looked so goddamn miserable sitting next to me. And I definitely shouldn't still be seeing red over the memory of Aria's arms wrapped around him."
 **中文理解**：最让他冒火的是这件事钻得有多深——他被影响得离谱：不该这么在意他走了，不该这么在意他坐在旁边时那副惨样，更不该一想起 Aria 搂着他的画面就眼前发红。
@@ -71,13 +71,13 @@ modified: "2026-11-12"
 **中文理解**：那双眼睛飞快扫了他一下又落回膝盖。开口时声音又轻又缩，但那是真正的话：你杀了我唯一的家人——我要怎么跟你说话？他眨了下眼，当机了一秒——那是完整的一句话，轻、碎，但完整。这是他最不想听到的答案，可「他终于开口了」这件事，比指控本身砸得更重。
 **关键词**：actual words / murdered my only family / malfunctioning / lands heavier
 **为什么这样写**：作者用当机（malfunctioning）写价值排序的崩塌——答案的内容他早有防备，答案的「存在」他毫无防备；broken but complete 的评语是本章的情感定理：完整的一句伤人话，胜过十个月的点头摇头。
-**读者视角提示**：记住这个「开口比说什么重要」的时刻——它同时说明 Soren 的饥渴有多深；读者第一次听到 Kit 用完整句发声，贡献的却是拒绝。
+**读者视角提示**：记住这个「开口比说什么重要」的时刻——它同时说明 Soren 的饥渴有多深；读者第一次听到 Kit 说出成句的控诉，贡献的却是拒绝。
 
 > **原句 11:** "Kit keeps talking, voice thick and heartbreaking. "I was twenty-one five days ago, on Monday. My parents would have made a fuss. They would have acted like it was Christmas Day. But here… no one cared to ask about my birthday. No one was even allowed to smile at me… just one smile would have been nice. So, no… you don't deserve my words. You can have my body, but not my words.""
 **中文理解**：Kit 继续说，声音哽着、听着心碎：五天前的周一我满二十一了。我父母会大惊小怪，会过得像圣诞节。可在这里，没人在意过我的生日——甚至没人被允许对我笑一下，一笑也好啊。所以，不……你不配得到我的话。你可以要我的身体，但得不到我的话。
 **关键词**：twenty-one / Christmas Day / smile / not my words
 **为什么这样写**：生日自白把抽象的剥夺兑换成日历上的具体损失——Christmas Day 的家庭记忆与「无人生日」的现在对照，账目清晰；body 与 words 的二分是全书最锋利的一句台词：他承认了身体的沦陷，同时划出语言的国境线。
-**读者视角提示**：这句话是 Kit 十个月来唯一一次为自己谈判——条款清晰（身体给你、语言归我）；读者应意识到这同时是对 ch05 以来所有沉默的总账单。
+**读者视角提示**：这是 Kit 十个月来第一次为自己谈判——条款清晰（身体给你、语言归我）；读者应意识到这同时是对 ch05 以来所有沉默的总账单。
 
 > **原句 12:** "I stand up slowly, staring down at him. Something uncomfortable twists hard in my chest. I pride myself on the fact that every person under this roof gets their birthday. One day a year I let them be annoying little shits, do whatever they want, and blow off steam. It's a rule, an expectation. And somehow the entire house, myself included, completely missed his. … The realisation sits wrong, very wrong."
 **中文理解**：他缓缓站起、低头看他，胸口有什么不舒服的东西狠狠拧着。他一向引以为傲：屋檐下每个人的生日他都记得、纵容他们胡闹一天——这是规矩，是默认。可不知怎么，全屋的人连同他自己，把他的生日漏得干干净净。……这个认知非常不对劲。
@@ -88,7 +88,7 @@ modified: "2026-11-12"
 > **原句 13:** "I swallow, suddenly unsure of myself in a way I rarely am. "Do you… want me to carry you or something?" … He only shrugs, the smallest movement, like the answer is yes but he doesn't dare actually ask. A short, surprised laugh leaves me. I hook my hands under his thighs and lift him up. The second his weight settles against me, something deep and possessive in my chest eases."
 **中文理解**：他咽了下口水，忽然以一种少见的方式没了底气：要不要……我抱你下去？对方只是极小地耸了下肩——像是答案是 yes、但他不敢真的问出口。他短促地、惊讶地笑了，弯手托住腿弯把人抱起来。重量贴上来的那一瞬，胸腔深处那点占有欲松开了。
 **关键词**：unsure / carry you / shrugs / eases
-**为什么这样写**：命令者第一次以问句交付（or something 的尾巴藏着自我保护）；耸肩代替回答，是两个不会谈判的人发明的暗语；eases 的主语是 possessive——占有欲被喂饱时表现为平静，这是本章给「温柔」下的暴力定义。
+**为什么这样写**：命令者罕见地以问句交付（or something 的尾巴藏着自我保护）；耸肩代替回答，是两个不会谈判的人发明的暗语；eases 的主语是 possessive——占有欲被喂饱时表现为平静，这是本章给「温柔」下的暴力定义。
 **读者视角提示**：这个抱是全书关系的转折道具——从「扛走」到「抱下去」，同一副身体的两种用法；读者可以预期此后「抱」会变成两人之间新的语言。
 
 > **原句 14:** "I set him down carefully. He drops into the seat on my right without argument. I take my own chair, then reach over and tap the table once beside the small digital audio player and earbuds sat on the table. Lorraine found them on sale for him months ago and thought he might like them. Kit flicks his eyes up at me, uncertain, not sure if he's actually allowed. I just give him a quick, short nod."

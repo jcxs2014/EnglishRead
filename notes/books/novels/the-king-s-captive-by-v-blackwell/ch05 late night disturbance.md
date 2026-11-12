@@ -35,7 +35,7 @@ modified: "2026-11-12"
 **中文理解**：恐惧还在，他也不觉得它会走……但现在已经混进了别的东西——一根羞耻的期待线头，因为他心里早就知道，不管认不认：他最后会享受这件事。
 **关键词**：fear / mixed / shameful / anticipation
 **为什么这样写**：thread 这个词把情绪纺成可触摸的线——恐惧是底布，期待是混进去的那根线，面料从此改了成分；shameful 的定语由叙述者自己盖章，承认与羞耻同步到账，谁也不欠谁。
-**读者视角提示**：这是 Kit 内心账本第一次记下「我会享受」——与 ch03 的 scared and still useful 同属生存适应，但这次不靠用途换命，靠身体的先斩后奏。
+**读者视角提示**：这是 Kit 第一次在事前就承认自己会享受——与 ch03 的 scared and still useful 同属生存适应，但这次不靠用途换命，靠身体的先斩后奏。
 
 > **原句 5:** "What I don't expect is for him to suddenly bend down, slide both hands under my thighs, and scoop me clean off the floor. I yelp a little, wobbling, and have no choice but to wrap my arms around his neck and my legs around his waist as he straightens up."
 **中文理解**：他没料到对方会突然弯腰，两手插进腿弯，把他整个人从地板上捞起来；他小叫一声、晃了晃，只能双臂环颈、双腿盘腰，随着对方站直。
@@ -46,7 +46,7 @@ modified: "2026-11-12"
 > **原句 6:** "I look around and pause… this isn't another random room. This is a bedroom; a large, dark, expensive-looking bedroom. Huge bed with black sheets, heavy curtains, and sleek furniture. The faint smell of his cologne in the air. Everything about the space feels private and lived-in and completely his. … I'm standing in Soren Sinclair's actual bedroom."
 **中文理解**：他环顾四周愣住——这不是又一个随手用的房间，而是一间大、暗、看着很贵的卧室：黑床单的大床、厚重的窗帘、利落的家具，空气里有若有若无的古龙水味。整个空间私密、有生活痕迹、彻头彻尾是他的。……他正站在 Soren Sinclair 的真卧室里。
 **关键词**：bedroom / cologne / private / actual
-**为什么这样写**：物证清单（床单、窗帘、家具、气味）全是「私有」的感官凭证，actual bedroom 单独成句是全段的重音——前三次都在公器房间，第四次进的是本体；lived-in 这个词拆掉了「权力的房子没有人味」的预设。
+**为什么这样写**：物证清单（床单、窗帘、家具、气味）全是「私有」的感官凭证，actual bedroom 单独成句是全段的重音——此前都在随手可用的房间里，这一次进的是本体；lived-in 这个词拆掉了「权力的房子没有人味」的预设。
 **读者视角提示**：地点升级是关系升级的物化形式，读者应把「随手房间→办公室→卧室」当成一条进度条；他的私人领地向 Kit 开门，比任何台词都直白。
 
 > **原句 7:** "But even as I think it, I catch myself wanting something I usually avoid. I want to watch his face while I fuck him. Not his eyes, those soft green eyes are too intimate, too dangerous, but the rest of it. … I've never fucked anyone face to face before. Right now, drunk and already hard, I want to."
@@ -64,13 +64,13 @@ modified: "2026-11-12"
 > **原句 9:** ""Come on, Kit," I growl, teeth clenched. "Fucking talk to me. I know you can. Let me hear that pretty voice." … He only turns his face away, lips parted, breathing hard. The silence just makes me hungrier and more frustrated at the same time."
 **中文理解**：他咬着牙低吼：来吧 Kit，跟我说话。我知道你可以。让我听见你那把好嗓子。……对方只是把脸别开，嘴唇微张、呼吸急促。这份沉默让他又饿又恼。
 **关键词**：Kit / talk to me / voice / silence
-**为什么这样写**：这是他第一次把「声音」而非身体当目标——o b e y 之外的新战场；注意他此刻喊的是 Kit 不是 Christopher：要人开口时，他反而用回了对方的名字，权力与亲近在这一句里换了手；hungrier and more frustrated 并置写出挫折如何转化为更强的欲望。
+**为什么这样写**：他把「让我听见你」摆到比身体更高的位置——o b e y 之外的新战场；注意他此刻喊的是 Kit 不是 Christopher：要人开口时，他反而用回了对方的名字，权力与亲近在这一句里换了手；hungrier and more frustrated 并置写出挫折如何转化为更强的欲望。
 **读者视角提示**：说话＝这条线的关卡 Boss，前面所有铺垫（ch01 只敢气音、ch02 被逼着重复谢谢）都是为这一刻攒的；Kit 的沉默在此刻是自主性最后的堡垒。
 
 > **原句 10:** "I hook my hands behind his knees and fold him in half, pushing his thighs up toward his chest. The new angle lets me sink even deeper. … "Oh my god!""
 **中文理解**：他双手勾住膝弯把人折拢、推高，新的角度让他进得更深——一声真实的呼喊终于破口而出：哦我的天！
 **关键词**：fold / angle / Oh my god
-**为什么这样写**：Kit 的第一句话不是应答而是一声失控的惊呼——作者让语言从身体的裂缝里自己蹦出来，而不是被命令逼出来；三词的感叹是全章声音防线的第一个决口，也是他第一次「不由自主地开口」。
+**为什么这样写**：Kit 的第一句话不是应答而是一声失控的惊呼——作者让语言从身体的裂缝里自己蹦出来，而不是被命令逼出来；三词的感叹是全章声音防线的第一个决口，也是他不由自主地开口。
 **读者视角提示**：记住这个突破的机制——不是服从命令，而是身体快于意志；这条机制会在后文所有「第一次开口」里复用，读者可以预期他真正的语言永远是意外。
 
 > **原句 11:** "Then the most unexpected thing happens… this shy, terrified, little thing actually lifts his hips. My eyes go wide; I must have imagined that. … Just small rolls of his hips; I watch for a few seconds, head tilting with pleasure and fascination. I join him, on his next roll upward, I thrust hard, matching his momentum."

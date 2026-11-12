@@ -7,7 +7,7 @@ modified: "2026-11-12"
 
 ## 本章导航
 - **一句话概括**：一个月后，Kit 在花园里第一次感到「变轻」；想跟 Lorraine 出门购物被 Soren 当场拦下，随后被他领进小客厅、用皮带捆住双手——给了唯一一次说 no 的机会，而 Kit 一个字都说不出来。
-- **情感弧线位置**：从缓和骤坠——第四章的「正常感」只为衬这场崩塌；本章是两人关系的实质越界点（第一次性）。
+- **情感弧线位置**：从缓和骤坠——本章的「正常感」只为衬这场崩塌；本章是两人关系的实质越界点（第一次性）。
 - **Tropes 兑现/反转**：dark romance「权力不对等的初夜」正面兑现（捆绑、命令、无拒绝空间）；反转点是 Soren 主动给了说 no 的机会——施压者亲手递出逃生门，门却没人能推开。
 - **人物弧线**：Kit＝恐惧与身体反应分裂（This man killed my parents 与生理迎合并存）；Soren＝被监视者浮出水面（几周的注视感有了主人）；Lorraine＝唯一善意也被截停。
 - **叙事手法**：「被注视」母题收线（tingle at the back of neck→was that him?）；用道德闪句（This man killed my parents）打断情热；结尾以错位共情收束（他是不是没时间做这件事）。
@@ -29,7 +29,7 @@ modified: "2026-11-12"
 **中文理解**：Soren 的声音把他从失望里拽出来：你已经在屋外跟她待过了，不用时刻粘着她。他把这话在脑子里翻来覆去——这么忙的人怎么会知道我们早上在园艺？他猛地睁大眼：这几周的被注视感……是他吗？不会的，boss 哪有空盯我。是吗？
 **关键词**：glued / gardening / watched / Would he?
 **为什么这样写**：信息差在这里当钩子用——他知道得太多，读者比 Kit 先完成推理；Was that him? 之后的 No… Would he? 是自我否决又自我翻案的两连，那个问号就是本章的悬念灯，一直亮到「被注视」母题收线。
-**读者视角提示**：上一章的监视者之谜在此对上暗号：前几章每次后颈发麻，主人都是同一个人；读者可以回头数他出现的时机，全是「恰好」。
+**读者视角提示**：本章开头的被注视感在此对上暗号：前几周每次后颈发麻，主人都是同一个人；读者可以回头数他出现的时机，全是「恰好」。
 
 > **原句 4:** "Then his hand comes up and settles on my shoulder. The grip is firm, not rough, but it still sends a jolt straight down my spine. He gives a single squeeze, thumb pressing lightly against the side of my neck for half a second longer than necessary."
 **中文理解**：他抬手搭上 Kit 的肩，握得不粗鲁却让一股电流顺着脊柱窜下去；捏了一下，拇指在颈侧轻轻压着，多停了半秒。
@@ -88,8 +88,8 @@ modified: "2026-11-12"
 > **原句 13:** "Soren growls, before a sharp, stinging smack lands on my ass. "Did I say you could come?" … He doesn't wait for an answer. His hips snap forward in a series of hard, punishing thrusts that force fresh sounds out of me, each one deeper and more brutal than the last. He sounds angry, but there's pure heat underneath it; like he's pissed I finished early and turned on by it at the same time."
 **中文理解**：Soren 低吼着，一记又脆又刺的巴掌落在他的臀上：我说过你可以了吗？不等人回答，胯部猛地前顶，一串惩罚式的深插一波狠过一波；他听着发怒，底下却全是热——像在气他提前缴械，又被这件事点着了。
 **关键词**：growls / smack / punishing / heat
-**为什么这样写**：Did I say 的问句不是在要答案，是在重申所有权——连高潮都要持许可证；pissed and turned on at the same time 的双重状态是本章给 Soren 的定音锤，控制者第一次被失控的东西反过来点燃。
-**读者视角提示**：注意这里的惩罚不含真正恶意——作者把「管不住」写成了欲火；两人的权力位在床上第一次出现倒挂的瞬间：身体反应不受任何一方审批。
+**为什么这样写**：Did I say 的问句不是在要答案，是在重申所有权——连高潮都要持许可证；pissed and turned on at the same time 的双重状态是本章给 Soren 的定音锤，控制者被失控的东西反过来点燃。
+**读者视角提示**：注意这里的惩罚不含真正恶意——作者把「管不住」写成了欲火；两人的权力位在床上出现了一次倒挂：身体反应不受任何一方审批。
 
 > **原句 14:** "The way he sounds… so thoroughly satisfied, almost like he's been starved of this… makes a strange thought flicker through my exhausted mind. … Does he not usually have time for sex? Is that why he seems so affected right now?"
 **中文理解**：他结束时的声音……满足得彻底，像被这件事饿了很多年……这个反差让一个奇怪的念头闪过他耗尽的大脑：他平时是不是根本没时间做这件事？所以才反应这么大？

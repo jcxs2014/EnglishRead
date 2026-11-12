@@ -7,7 +7,7 @@ modified: "2026-11-12"
 
 ## 本章导航
 - **一句话概括**：事后余波：被扯掉眼罩的四目相接让 Kit 全套防御失灵，他反复给自己打「这没什么」的补丁；醉死的 Soren 压在身上不肯走，还留下一句「明天上桌吃早餐」的反常命令，Kit 只好自己动手完成一场无声的越狱。
-- **情感弧线位置**：权力第一次在床上倒转——「通常都是他动手动脚，今晚我得勇敢」；关系从单向转为双向拉扯的第一晚。
+- **情感弧线位置**：权力在床上出现一次倒转——「通常都是他动手动脚，今晚我得勇敢」；关系从单向转为双向拉扯的第一晚。
 - **Tropes 兑现/反转**：aftercare 缺位的黑暗设定兑现（压着睡、忘了松绑）；反转点是「上桌吃早餐」——占有行为第一次以「共同生活」的形态出现。
 - **人物弧线**：Kit＝否认机器全速运转（It means nothing）但身体记忆已经开始扎根；Soren＝醉态暴露需求（分量、靠近、命令同吃）。
 - **叙事手法**：以「被困」具象化主题（题名 Trapped 双关：身下的重量／心里的松动）；逃亡段落全程静音处理，紧张感全靠声音细节（锁舌不咔哒）。
@@ -41,12 +41,12 @@ modified: "2026-11-12"
 **中文理解**：好啊，现在又得他亲自把人挪开。通常动手动脚的都是 Soren——今晚轮到他必须勇敢。他小心托起那只沉重的手，把粗壮的手臂抬高到刚够钻过去的程度，再尽量轻地放回床垫。
 **关键词**：remove / brave / carefully / gently
 **为什么这样写**：角色功能在这里完成一次静悄悄的对调——触碰者与被碰者互换，brave 这个词从 Kit 嘴里说出来带着自嘲式的郑重；他的动作全是拆除引信的精度（lift just high enough / as gently as I can），偷技是从天天怕被抓的生活里练出来的。
-**读者视角提示**：这是全书第一次由 Kit 主动对身体接触做处置——他的能动性从逃生动作里开始生长；记住这晚的「勇敢」门槛有多低，后面每一点进步都以此为基线。
+**读者视角提示**：这是全书第一次由 Kit 主动处置 Soren 的身体——他的能动性从逃生动作里开始生长；记住这晚的「勇敢」门槛有多低，后面每一点进步都以此为基线。
 
 > **原句 6:** "The hallway is completely dark and empty; no voices, no footsteps, nothing. The silence feels heavier than noise ever could. It presses in from both ends of the long corridor, making the back of my neck prickle. I glance left, then right, heart still hammering, and then I'm turning toward the back staircase as fast as I can without actually running. I still have to figure out a way to get my wrists free, but first, I need my room."
 **中文理解**：走廊全黑全空，没有人声、没有脚步、什么都没有。寂静比任何噪音都沉，从长廊两头压过来，后颈又开始发麻。他左右各扫一眼、心跳擂鼓，随即朝后楼梯快步走去——快到极限但没有跑。手腕还捆着，解绳的办法可以慢慢想；当务之急是回房间。
 **关键词**：dark / silence / heavier / prickle
-**为什么这样写**：逃亡的顶点不给追兵、只给寂静——heavier than noise 把「安全」写成另一种压迫，从牢笼逃回牢笼的荒诞全在里头；prickle 一词三用（ch03/05/06），监视感已经内化成他的体质，没有观众也演全套。
+**为什么这样写**：逃亡的顶点不给追兵、只给寂静——heavier than noise 把「安全」写成另一种压迫，从牢笼逃回牢笼的荒诞全在里头；后颈发麻的母题从 ch03 一路复用（ch03 用 tingle，ch05 与本章用 prickle），监视感已经内化成他的体质，没有观众也演全套。
 **读者视角提示**：注意他还绑着腕结走完全程——作者的黑色幽默：连逃跑都带着纪念品；「先回房间」的优先级排序说明这个锁着的小房间仍是他的中心，出走的第一步还早。
 
 ## 本章词汇

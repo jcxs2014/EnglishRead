@@ -34,7 +34,7 @@ modified: "2026-11-12"
 > **原句 4:** "I look at her, jaw tight. "You get him to speak to me. Then, and only then, might I allow him to socialise. This is his doing for being so stubborn." … Lorraine actually laughs. "Oh, he's the stubborn one, is he? Really? Do you realise how jealous you sound? You've got feelings for him. I just know it.""
 **中文理解**：他咬着牙看 Lorraine：你让他开口跟我说话。到那时、也只到那时，我才可能允许他社交。这是他固执的代价。Lorraine 笑出了声：哦，固执的是他？真的吗？你知道自己听起来有多酸吗？你对他有感情，我敢肯定。
 **关键词**：only then / stubborn / jealous / feelings
-**为什么这样写**：This is his doing 把因果倒装成惩罚叙事——被剥夺社交的原因是「他自己不说话」，受害者担责的话术写得严丝合缝；Lorraine 的 jealous 三连问是全书第一次有人把感情说破，而对象选的是最敢说话的她。
+**为什么这样写**：This is his doing 把因果倒装成惩罚叙事——被剥夺社交的原因是「他自己不说话」，受害者担责的话术写得严丝合缝；Lorraine 的 jealous 三连问是全书第一次有人把「你有感情」直接说出口，而对象选的是最敢说话的她。
 **读者视角提示**：注意他的条件里藏着让步的愿望（might I allow 的 might）——他其实在等一个台阶；读者可以对照 ch08 的铃声：要人先开口的人，从没想过自己先开口。
 
 > **原句 5:** "Ray glances between us, then clears his throat carefully. "Happy birthday, Kit." … Something unpleasant twists in my chest. This doesn't feel like a happy birthday; it feels like something else entirely… something hollow."
@@ -47,13 +47,13 @@ modified: "2026-11-12"
 **中文理解**：Lorraine 长叹一口气，手搭上那孩子的肩轻轻揉着，摇着头压低声音说（Kit 听不见）：你可真丢人，Soren Sinclair。这屋檐下别的人你都照顾得妥妥帖帖——那是你的家人——可你偏偏冷落了你这辈子唯一真正放进过心里的人……全为了你的私心。
 **关键词**：Shame on you / whole family / neglected / selfish reasons
 **为什么这样写**：whispers 的私密性让这句话成为审判而非顶撞——审判只需要被告听见；your whole family 与 the one person you've ever actually let close 的对照把 Soren 的孤独翻开：管家视角里，这是他第一次让人靠近。
-**读者视角提示**：Lorraine 是全书唯一掌握全部信息的角色（她见过每一段）；她的话等于替作者宣读判词，读者应把它当成本章的定性句。
+**读者视角提示**：Lorraine 是长期在场、见证全程的旁观者；她的话等于替作者宣读判词，读者应把它当成本章的定性句。
 
 > **原句 7:** "I open my mouth. The sharp, cold reply should already be there; the one that reminds her of her place, the one that shuts this kind of talk down immediately. But nothing comes out; my usual mask feels like it's slipped and I can't find it. I'm frozen in a moment that doesn't feel like it belongs to me at all. Or maybe the real problem is that… I know she's right."
 **中文理解**：他张开嘴——那句又冷又利的回答本该张口就来：提醒她身份、立刻掐灭这种话。可什么都出不来；惯常的面具像滑落了，找都找不到。他僵在一个完全不属于自己的时刻里。或者说，真正的问题是……他知道她说得对。
 **关键词**：mask / slipped / frozen / I know she's right
 **为什么这样写**：应答机制的失灵被写成道具丢失（mask slipped, can't find it）——武装到牙齿的人第一次没带盔甲；省略号后的 I know she's right 是全书最省钱的认罪书，六个词结清本章全部辩论。
-**读者视角提示**：这是 Soren 的第一次不设防记录——读者该注意到他没有辩解、没有发怒、甚至没有离席；「说不出话」在这个人身上的分量，和 Kit 十个月不说话完全对称。
+**读者视角提示**：这是 Soren 少见的完全不设防——读者该注意到他没有辩解、没有发怒、甚至没有离席；「说不出话」在这个人身上的分量，与 Kit 长期不肯对他开口形成对照。
 
 > **原句 8:** "Kit nods once, voice completely flat. "Oh. Sure." … The realisation settles uncomfortably: he's only doing it because I told him to. Not because he wants to and not because it's his birthday. Because I suggested it."
 **中文理解**：Kit 点了一下头，声音平得没有一丝起伏：哦。好啊。他像机器一样起身走进厨房，谁也不看。一个令人难堪的结论落了地：他去做这件事只因为是我让他做的。不是因为想，也不是因为生日。因为是我提议的。

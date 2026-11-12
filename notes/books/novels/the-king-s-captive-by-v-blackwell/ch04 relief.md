@@ -9,7 +9,7 @@ modified: "2026-11-12"
 - **一句话概括**：事后 Soren 如释重负，嘴上宣称「没有感情」；替 Kit 解皮带时看见腕上勒痕又一阵说不清的难受——而本章真正的引信在书房：父母其实是为 Zero Hour 递情报、造武器的内应，Soren 选择继续当 Kit 眼中的杀亲仇人。
 - **情感弧线位置**：男主的「否认期」全面开演——身体在靠近，语言在撇清，章末的自问（为什么这么在意）是裂缝扩大的起点。
 - **Tropes 兑现/反转**：dark romance「我以为他是仇人」的经典误会装置正面兑现并给出动机（He's safer that way）；反转点是保护以「被恨」的形式执行。
-- **人物弧线**：Soren＝照料行为与自我叙事的落差拉大（贴创可贴→解皮带→护到底）；Ray＝唯一敢当面质疑的人；Armen＝喜剧泄压阀。
+- **人物弧线**：Soren＝照料行为与自我叙事的落差拉大（贴创可贴→解皮带→护到底）；Ray＝敢当面质疑他的副手；Armen＝喜剧泄压阀。
 - **叙事手法**：双视角交替回男主；用情报道白（Zero Hour）给暴力行为补动机链；章末复现自问句式承接 ch02 的 What the fuck was that thought。
 
 ## 精读
@@ -28,19 +28,19 @@ modified: "2026-11-12"
 > **原句 3:** "I glance down. He turns slightly and I see my belt is still wrapped tightly around his wrists behind his back. I never took it off, totally forgot in my own bliss. … I catch one of his hands and turn it over. Faint reddish marks circle both wrists where the leather sat too tightly. Something uncomfortable twists in my chest at the sight… I don't know why I care, yet again, I have to tell myself that I don't."
 **中文理解**：他低头一看——自己的皮带还把那孩子的双手捆在背后，他醉在自己的快感里，完全忘了解开。解开皮带后他抓过那只手翻过来：腕上两圈淡红的勒痕。胸口有什么东西不舒服地拧了一下……他不知道自己为什么在意，又一次，他得告诉自己并不在意。
 **关键词**：belt / forgot / marks / tell myself
-**为什么这样写**：forgot in my own bliss 是全章最诚实的一句——「忘我」这个词第一次用在杀手身上；wrist marks 的特写承接 ch01 的创可贴，勒痕是欲望在对方身体上留下的账单，而 chest twists 的生理反应又一次跑在解释前面。
+**为什么这样写**：forgot in my own bliss 是全章最诚实的一句——「忘我」这个词用在他身上格外刺眼；wrist marks 的特写承接 ch02 的创可贴，勒痕是欲望在对方身体上留下的账单，而 chest twists 的生理反应又一次跑在解释前面。
 **读者视角提示**：读者应数一数本章他「告诉自己不在乎」的次数——每多一次，否认就薄一分；腕痕也是后文 Kit 身体记忆的物证起点。
 
 > **原句 4:** "Kit nods quickly and starts to leave, but my hand lands on his bare chest before he can get far. I can't help myself. I lean down until my mouth is close to his ear. "Keep this tight little body clean for me, Christopher. You never know when I'll come for you next.""
 **中文理解**：Kit 连连点头要走，那只手却先一步按上他裸露的胸口——他控制不住自己。他俯身把嘴凑到耳边：替我把这具紧致的小身体洗干净，Christopher，你不知道我下一次什么时候来。
 **关键词**：chest / ear / clean / come for you
-**为什么这样写**：can't help myself 四个词是他本章唯一一次承认失控；这句「嘱咐」结构上是命令、内容上是预约——把下一次写进对方的日常流程，占有的期限从这一刻起变成开放式。
+**为什么这样写**：can't help myself 是他少有的失控自认；这句「嘱咐」结构上是命令、内容上是预约——把下一次写进对方的日常流程，占有的期限从这一刻起变成开放式。
 **读者视角提示**：注意称呼又切回 Christopher——占有欲最高的时候，他反而不给对方那个自我（Kit）；耳语的距离与 ch02 的 One more time 同位，亲密的形状在他这儿永远是命令的形状。
 
 > **原句 5:** "His eyes meet mine, wide and stunned, for two full seconds. The blush on his face deepens. He swallows hard and gives a single, tiny nod. … I grunt, satisfied. "Good boy.""
 **中文理解**：那双眼睛与他对上，圆睁、发怔，整整两秒；脸上的红晕更深，使劲咽了下口水，轻轻点了一下头。他满足地哼了一声：乖孩子。
 **关键词**：two full seconds / blush / tiny nod / Good boy
-**为什么这样写**：two full seconds 把对视的时长当资产清点——他数得出来，说明全程在收；Good boy 的赏赐式夸奖完成这套训练动作的闭环：命令→执行→夸奖，驯化的语法第一次齐装。
+**为什么这样写**：two full seconds 把对视的时长当资产清点——他数得出来，说明全程在收；Good boy 的赏赐式夸奖完成这套训练动作的闭环：命令→执行→夸奖，驯化的语法在此齐装。
 **读者视角提示**：这句 Good boy 是本书权力语言的招牌句，读者此后每次听见它都该核对：它夸的是行为，还是他自己的满足？
 
 > **原句 6:** "A short, bitter laugh leaves me. "Don't be stupid, Ray. He obeys, and it felt good. No emotions; I don't do that shit.""
@@ -52,7 +52,7 @@ modified: "2026-11-12"
 > **原句 7:** "Ray nods in agreement. "He thinks after you dealt with the Everlys, the rest of the cell either scattered or went deep into hiding. Ruez and his men are leaning toward the idea that the local branch is pretty much finished. Whatever's left of Zero Hour has probably moved operations somewhere else entirely." … "Finished" is a nice word, clean. But I don't trust clean when it comes to people like that."
 **中文理解**：Ray 点头补充：处理掉 Everlys 之后，小组其余的人要么散了要么深藏，Ruez 他们倾向认为本地分支基本完蛋，残部多半整体转移了。「完蛋」是个好听又干净的词，但对这种人，他不信任何干净的东西。
 **关键词**：Everlys / cell / Finished / clean
-**为什么这样写**：情报通过 Ray 的嘴说出，Soren 的回应只有一个词组级别的冷评——指挥官的姿态：听全部、信一半；dealt with the Everlys 这七个字是全书第一次直白交代灭门出自他的手且属于「处理」流程，与前文的温情细节并置，残忍被日常化。
+**为什么这样写**：情报通过 Ray 的嘴说出，Soren 的回应只有一个词组级别的冷评——指挥官的姿态：听全部、信一半；dealt with the Everlys 这七个字是组织层面第一次直白交代灭门出自他的手且属于「处理」流程，与前文的温情细节并置，残忍被日常化。
 **读者视角提示**：dealt with 的轻描淡写正是要点——在这套系统里杀人是待办事项；读者由此能反推 ch01 枪管余温的场景属于常规作业，而 Kit 的幸存才是非常规。
 
 > **原句 8:** "I keep my voice flat and firm. "I don't want any of you fuckers bothering him, you got that? He doesn't need to know what his parents were into. He doesn't need to know they were wrapped up with Zero Hour, feeding them information and building them weapons. Let him keep thinking they were just his innocent mom and dad and that I'm the bad man that killed them." … Armen actually looks confused. "But… why on earth would you want him to believe that?" … I roll my eyes. "He's safer that way.""

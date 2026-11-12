@@ -7,7 +7,7 @@ modified: "2026-11-12"
 
 ## 本章导航
 - **一句话概括**：父母被杀三个月后，二十岁的 Kit 被扣留在凶手 Soren 的宅子里；他在 Lorraine 陪同下第一次走进厨房吃饭，随后 Soren 出现，抓住他的下巴逼视、又喝令他滚出去。
-- **情感弧线位置**：起点——恐惧压倒一切，主角连自保的姿势都是僵直的；与男主的第一次对视确立了全书的权力落差。
+- **情感弧线位置**：起点——恐惧压倒一切，主角连自保的姿势都是僵直的；与男主的这场逼视确立了全书的权力落差。
 - **Tropes 兑现/反转**：dark mafia romance 的「凶手收留遗孤」设定直接兑现：杀手与人质同宅而居；反转点是善意（Lorraine 的照料、Selina 的搭话）在这个暴力空间里反复出现。
 - **人物弧线**：Kit＝创伤后的全面退缩（数出口、背对门、不敢平视）；Soren＝绝对权力的冷压（对下级咆哮、对 Kit 平声逼视）；Lorraine＝唯一的安全依附。
 - **叙事手法**：第一人称现在时＋创伤回放闪回；用「名字」（Christopher vs Kit）当权力温度计；三连形容词（loud, cold, and absolute）与比喻（like a gunshot）压节奏。
@@ -77,7 +77,7 @@ modified: "2026-11-12"
 **中文理解**：他抬手抓住 Kit 的下巴，把脸抬起来，逼到他不得不看着自己；Kit 连眼睛都不敢闭，睁得大大的，锁在他的目光里，满是惊恐。
 **关键词**：grabs my chin / forcing / no choice / panic
 **为什么这样写**：no choice but to look 与本章开头回放里枪口逼视那句同一结构——三个月前是枪口抬他的脸，现在是手掌；同一套动作语言在重复创伤，「被迫对视」就是这本书的核心权力动作。can't even close my eyes 把剥夺推到眼皮这一级。
-**读者视角提示**：抓下巴是两人的第一次身体接触，暴力与亲密在同一只手上；dark romance 的读者会认出这个标配动作——压迫的姿势同时是靠近的姿势。
+**读者视角提示**：抓下巴是本章两人的第一次身体接触，暴力与亲密在同一只手上；dark romance 的读者会认出这个标配动作——压迫的姿势同时是靠近的姿势。
 
 > **原句 12:** "A small, broken sound slips out of the back of my throat, half whine, half gasp, and I move. Not quite a jog, but a fast, stiff walk, eyes locked on the floor, not looking at anyone as I get the hell out of the kitchen."
 **中文理解**：他喉咙深处挤出一声细小的、破碎的声音，半像呜咽半像抽气，然后挪动脚步——不算跑，是一种又快又僵的走，眼睛钉着地板，谁也不敢看，逃出了厨房。

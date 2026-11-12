@@ -34,7 +34,7 @@ modified: "2026-11-12"
 > **原句 4:** "I manage a grin as the memory resurfaces again. "Glad to see you're still alive after I must have crushed you." … A tiny, surprised huff of a laugh escapes him, and it feels like a small victory. He catches himself almost immediately and tries to lean forward, away from me."
 **中文理解**：他记得那个记忆又浮上来，挤出一个笑：看来我没把你压死，你还活着。对方漏出一声小小的、惊讶的笑——对他而言像一场小胜利；那孩子几乎立刻收住，还想往前倾、躲开他。
 **关键词**：grin / crushed you / laugh / victory
-**为什么这样写**：他主动用玩笑把昨晚的狼狈变成两个人的私有笑点——残酷的人第一次递出幽默；a small victory 的定性写出了「笑」在这段关系里的汇率，一声气音就值得记账，而对方立刻收笑的动作同样是叙事：快乐是危险品。
+**为什么这样写**：他主动用玩笑把昨晚的狼狈变成两个人的私有笑点——残酷的人递出了一点幽默；a small victory 的定性写出了「笑」在这段关系里的汇率，一声气音就值得记账，而对方立刻收笑的动作同样是叙事：快乐是危险品。
 **读者视角提示**：这是两人第一个真正共享的瞬间（不是命令不是服从）；「他马上想躲」与「他笑了」同段并置，读者可以看到亲近与逃离的贴身肉搏。
 
 > **原句 5:** "Something dark and immediate snaps in my chest. "Don't touch him, Selina." The words come out hard and commanding. … "Not anymore. No one sits next to Christopher. Leave him alone." I raise my voice just enough for the whole table to hear. "That goes for the rest of you as well. Don't bother him. He doesn't need to be pressured into conversation by a bunch of people twice his size who walk around armed all day. He's fine where he is, leave him be.""

@@ -47,7 +47,7 @@ modified: "2026-11-12"
 **中文理解**：Lorraine 问他今天想做什么，他只耸肩：问题从来不是他想做什么，而是他被允许做什么。想到 Soren，他脱口问出对方为什么恨自己。
 **关键词**：want / allowed / hate me
 **为什么这样写**：want 与 allowed 只换一个动词，就揭出生日选择题根本没有选择；紧接着的「恨我吗」表明规则已经被他内化为对自己价值的判断。
-**读者视角提示**：这不是在求 Lorraine 替 Soren 辩护，而是 Kit 第一次把囚禁与情感拒绝明确连在一起。
+**读者视角提示**：这不是在求 Lorraine 替 Soren 辩护，而是 Kit 第一次把两件事放进同一句话。
 
 > **原句 7:** "He demands my attention whenever he wants but can’t even say happy birthday to me. I don’t even know why I care… … I turn around and… Soren is standing in the doorway. His eyes are wide and he’s staring straight at me."
 **中文理解**：他抱怨 Soren 随时索取他的注意，却连一句生日快乐都不给；说着说着又问自己为什么在乎。回头才发现 Soren 就站在门口，睁大眼直看着他。
