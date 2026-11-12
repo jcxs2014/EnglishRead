@@ -1,0 +1,55 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch01_1_not_all_pastas_boil_the_same.txt",
+ "facts": [
+  {
+   "fact": "Romaine 开会时目光扫过空椅子——那是 Kale 的位子。",
+   "anchor": "My eyes flash to the empty one.",
+   "start": 234,
+   "end": 265
+  },
+  {
+   "fact": "Romaine 对家族理事会谎称计划提前是自己的安排，实际没有准备好说辞。",
+   "anchor": "“I started the plan early, I did not expect this push back,” I bit out, lying through my teeth.",
+   "start": 278,
+   "end": 373
+  },
+  {
+   "fact": "刚被发现的无名尸眼睛滴血，而这具尸体不是 Romaine 做的，他需要认领下来。",
+   "anchor": "That the body that was just found. The one with blood dripping from his eyes.",
+   "start": 719,
+   "end": 796
+  },
+  {
+   "fact": "十五年半前五家约定动手，阻止 Barley 与 Roux 联姻，杀掉余下的 Barley 家女性。",
+   "anchor": "To ensure a union could not be had. We would kill the remaining Barley women.",
+   "start": 1138,
+   "end": 1215
+  },
+  {
+   "fact": "毒没有按计划扩散，只造成三条人命就已被控制住。",
+   "anchor": "To only take three casualties.",
+   "start": 1276,
+   "end": 1306
+  },
+  {
+   "fact": "Rondelle 描述无名尸被销毁特征：指纹擦掉、牙齿拔除、脸被砸烂，并问是不是 Romaine 干的。",
+   "anchor": "“His fingertips were scrubbed off, his teeth removed, his face battered in. Your work?”",
+   "start": 1496,
+   "end": 1583
+  },
+  {
+   "fact": "Romaine 命令 Scotch 继续监视自己的儿子，随即宣布散会。",
+   "anchor": "“Your job?” I narrow my eyes. “The same as before. Keep an eye on my son.”",
+   "start": 3183,
+   "end": 3257
+  },
+  {
+   "fact": "散会后 Romaine 决定查出无名尸的身份与中毒途径。",
+   "anchor": "I need to track down who this John Doe is and how exactly he was poisoned.",
+   "start": 3470,
+   "end": 3544
+  }
+ ]
+}
