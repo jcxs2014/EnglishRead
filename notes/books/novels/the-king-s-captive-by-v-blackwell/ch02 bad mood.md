@@ -49,11 +49,11 @@ modified: "2026-11-12"
 **为什么这样写**：清单式罗列（eyes→curls→fingers→frame→obedience）是欲望登记表的形状——记住的全是细节，说明看了不止一次；sharp and unwanted 给这份记忆定性：他在把它当入侵处理。性场面写到一半被这张脸打断，身体先于观念叛变。
 **读者视角提示**：dark romance 的「身体先招供」桥段——他嘴上还在用处理问题的语言，身体已经给这个人建了专属档案；green eyes 与 curls 会成为全书反复回收的身体签名。
 
-> **原句 7:** "I move closer, curious now. I want to see exactly how he'll react when there's no one else here to hide behind. I clear my throat, loud enough to cut through the quiet, and let a faint grin tug at the corner of my mouth. … "Christopher…" … He turns sharply, eyes going wide the second they lock onto mine, just for a brief second, before a strangled little noise escapes his throat. The glass slips from his fingers and shatters against the floor; he panics instantly."
-**中文理解**：他放轻脚步凑近，想看看没有别人可躲时这孩子会是什么反应；清了清嗓子，唤一声 Christopher。Kit 猛地转身，视线撞上他的只有一瞬，喉咙里挤出一声被掐住似的小音，玻璃杯脱手砸碎在地板上，人立刻慌了神。
-**关键词**：curious / Christopher / shatters / panics
-**为什么这样写**：footsteps stay light on purpose 是捕猎的步法，清嗓子只为看反应——这不是偶遇，是设局；喊的名字偏偏是 Christopher，一个称呼就当场收回上一章 Lorraine 替他争来的东西。shatters 把惊吓写成物理事故：他的存在本身就是这孩子手不稳的原因。
-**读者视角提示**：玻璃这一摔是两人关系的头一起「事故」，而它直接牵出后面的伤口与创可贴——作者用一只杯子给两条线索搭桥；读者同时会注意到：他挑的是厨房，Kit 唯一敢待的公共空间。
+> **原句 7:** "Kit’s standing at the sink, looking out of the window above it. Those green eyes are probably tracking the dark gardens outside. A glass of water sits in his hand; he keeps taking small, nervous sips."
+**中文理解**：Kit 站在水槽边，望向窗外暗下来的花园，手里拿着水杯，不时紧张地抿上一小口。
+**关键词**：sink / window / glass of water / nervous sips
+**为什么这样写**：男主先注意到眼睛，再注意到杯子与紧张的小动作；上一段脑海里的形象在厨房变成眼前的人，观察仍然带着不平等的距离。
+**读者视角提示**：这一刻 Kit 尚不知道有人在身后，水杯与 nervous sips 提前标出脆弱；紧接着的惊吓会使平静的小物件变成事故源头。
 
 > **原句 8:** "I spot the thin cut along the side of his hand before he can escape and reach out without thinking, closing my fingers around his wrist. … "Stay." The single word is a command I know he can't ignore."
 **中文理解**：他抢在那孩子溜走之前发现他手侧的细小伤口，不假思索伸手扣住手腕，只说一个字：留下。他知道这个字对对方而言不是请求。

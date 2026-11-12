@@ -63,7 +63,7 @@ modified: "2026-11-12"
 
 > **原句 9:** "He hesitates, then says carefully, "I've known you a long time, Soren. You don't take people captive to just live in your home. You don't protect people like him. I'm just wondering why Christopher is getting special treatment from you, Mr. Sinclair of all people.""
 **中文理解**：Ray 犹豫了一下，斟酌着开口：认识你这么多年，Soren——你从不把人关在家里白养，你也不保护任何人。我只是想问，Christopher 凭什么从你 Sinclair 先生这里得到特殊待遇？
-**关键词**：captives / protect / special treatment / Mr. Sinclair
+**关键词**：captive / protect / special treatment / Mr. Sinclair
 **为什么这样写**：carefully 这个副词说明这话是在雷区里走——他先铺年份再铺行为规律，最后用 Mr. Sinclair of all people 把反常钉死；You don't 两个排比是朋友给出的行为基线，Kit 偏离基线多远，问题就有多重。
 **读者视角提示**：Ray 的功能是替读者问出那个不能问的问题；注意 Soren 的回应不是答案而是威压（下一句 growl）——他自己也答不出，威压就是答案。
 

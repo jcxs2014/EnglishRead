@@ -120,7 +120,6 @@ modified: "2026-11-12"
 | stretching | 撑开、扩张 | A second thick finger presses in alongside the first, stretching me further. |
 | sharp | 尖锐的 | Then a sharp, broken gasp-moan tears from my throat as one thick finger pushes inside me. |
 
-Hmm — "sharp" example doesn't contain sharp... Fix: sharp example must contain "sharp": "Then a third finger starts to push in and my eyes fly open." no. Use "Then a sharp, broken gasp-moan tears from my throat as one thick finger pushes inside me." — contains "sharp" ✓ (line 208). Let me fix that row: | sharp | 尖锐的 | Then a sharp, broken gasp-moan tears from my throat as one thick finger pushes inside me. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
