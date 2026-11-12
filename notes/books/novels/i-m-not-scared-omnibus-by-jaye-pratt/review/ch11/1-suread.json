@@ -1,0 +1,79 @@
+{
+ "chapter": "ch11",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch11_chapter_11.txt",
+ "relations": [
+  "Kayla 与 Vero 是朋友：Kayla 说“I’m more than happy to be his friend”“I love the way his mind works, and I admire the freedom of saying what he thinks and feels without filtering himself.”",
+  "Kayla 与 Clay 处于敌对：她要求 Vero 必须叫上 Clay，“Please make sure Clay is there—his ass is mine. I plan to make sure I aim for that fucker’s neck.”",
+  "Clay 与 Vero 是同一阵营的同伴：Clay 说“It was either wait there with him or come get you”，并与 Vero 为赌注斗嘴，“Clay, you owe me twenty dollars.”/“I don’t owe you shit.”",
+  "Ares 与 Kayla 是给予装备者与被观察者的关系：Ares 递给她枪并注视她，“Ares appears from inside the gates and hands me a paintball gun.”“He is watching me the way he did previously, like he wants to deconstruct me from the inside out.”",
+  "Nixie 与 Vero 是同一展览的同事：Vero 跟她打赌“a graveyard smoothie”，她负责安全简报并给 Kayla“a two-minute head start”。"
+ ],
+ "numbers": [
+  "Chapter Eleven",
+  "The past two weeks",
+  "When the clock hits seven",
+  "twenty dollars",
+  "forty dollars",
+  "two lines under each eye",
+  "all four of them watching me",
+  "six inches to the left of his head",
+  "a two-minute head start",
+  "You’ve got two minutes",
+  "the first chase",
+  "for the first round",
+  "three angles",
+  "three guns behind me",
+  "one target",
+  "one more time"
+ ],
+ "facts": [
+  {
+   "fact": "两周以来 Clay 在 Kayla 每个班次都出现在酒吧，却只在她到店和点单时点一下头；她问过 Rogue 是不是她把班表告诉了他，Rogue 说没有。",
+   "anchor": "Clay comes to the bar every time I have a shift. I asked Rogue if she told him when I work, but she didn’t, so I don’t know how he knows.",
+   "start": 87,
+   "end": 224
+  },
+  {
+   "fact": "Rogue 警告 Vero 不要在 Kayla 上班时招惹她，Vero 于是改为跟着她、帮她收杯子送回吧台；Kayla 承认自己已经很喜欢他。",
+   "anchor": "Vero, however, has been warned by Rogue not to annoy me while I am working. He follows me around and talks, or collects glasses and brings them back to the bar.",
+   "start": 311,
+   "end": 471
+  },
+  {
+   "fact": "Vero 送来神秘箱子，Kayla 当晚七点拆开，里面是迷彩裤、深绿背心和迷彩油彩；她随后 FaceTime 给 Vero。",
+   "anchor": "I undo the huge-ass bow on the top and drag off the lid. Inside is a pair of camo pants, a dark-green tank top, and camo face paint.",
+   "start": 858,
+   "end": 990
+  },
+  {
+   "fact": "Vero 说明这是新技术展览的试运行：他靠赢下喝墓地奶昔的赌约才拿到第一场追逐战资格，武器是彩弹枪或凝胶枪，首轮主题为军事。",
+   "anchor": "We have a new exhibit opening tonight for a trial run. I bet Nixie I could drink a graveyard smoothie—she didn’t believe I could.",
+   "start": 1361,
+   "end": 1490
+  },
+  {
+   "fact": "Kayla 答应回岛，条件是有枪并且 Clay 必须在场，她要瞄准 Clay 的脖子；Vero 保证会把 Clay 拉来。",
+   "anchor": "Then fuck yes, I’m in. Please make sure Clay is there—his ass is mine. I plan to make sure I aim for that fucker’s neck.”",
+   "start": 2345,
+   "end": 2466
+  },
+  {
+   "fact": "来接她的司机是 Clay 亲自开来的黑色皮卡，他嘴上不情愿，说 Vero 太吵、他说话比 Vero 少；Mabel 穿着睡衣开门担心并要拿枪。",
+   "anchor": "Because Vero is annoying as fuck and acting like an excited little squirrel. It was either wait there with him or come get you, and while I might not like you, you talk less than him.”",
+   "start": 5131,
+   "end": 5315
+  },
+  {
+   "fact": "Ares 递枪后她朝 Clay 开了一枪故意打偏六英寸作为警告，Clay 连眼都没眨。",
+   "anchor": "The paintball cracks against a tree six inches to the left of his head.",
+   "start": 8509,
+   "end": 8580
+  },
+  {
+   "fact": "她爬上左角瞭望塔埋伏，一发彩弹正中 Clay 胸口；随即 Vero、Brawley、Ares 三人从背后用三把枪指住她并承认是设局引她入彀（Clay 因此又欠四十美元），Clay 随后一枪打中她肩膀，说“Now we’re even.”。",
+   "anchor": "He raises his gun and shoots me directly in the shoulder.",
+   "start": 12358,
+   "end": 12415
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "chapter": "ch10",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch10_chapter_10.txt",
+ "relations": [
+  "Clay 与 Jess 是亲兄妹（Rourke 兄妹）：原文“one Rourke sibling”“Clay, who pulls his sister into his arms”。",
+  "Vero 与 Brawley 是伴侣：原文“since you two are together”“Brawley and I are on day shift”“You need to ride my man’s dick at least once.”",
+  "Kayla 与 Clay 是前任且现为敌对：Kayla 称“I dumped him for cheating on me. He won’t let it go.”，Jess 称“he does not want you”。",
+  "Ares 与 Cipher 是可随时求助的同伙：原文“I called Cipher, knowing he would have a way to remove the cuffs”。",
+  "Vero 与 Jess 否认发生过性关系，因而触发 Clay 的杀意：Jess 说“I have not fucked him. No offense, but he isn’t my type.”，Clay 回“I swear to god, Vero, if you have fucked my sister, I will kill you.”"
+ ],
+ "numbers": [
+  "Chapter Ten",
+  "twice in the last hour",
+  "the second she wakes up",
+  "neither the first nor the second time",
+  "One of Clay’s fundamental flaws",
+  "A second sooner",
+  "the first person in a long time",
+  "one and done",
+  "one of those things",
+  "one Rourke sibling",
+  "Brawley and I are on day shift",
+  "one more time"
+ ],
+ "facts": [
+  {
+   "fact": "Ares 承认自己在暗处看着 Clay 掐住 Kayla 的脖子，并在她即将昏过去的最后一刻现身出手干预；Ares 认定 Clay 一旦上头就会失控，并打算利用这一点。",
+   "anchor": "Clay didn’t know I was watching when he wrapped his hand around her throat, neither the first nor the second time.",
+   "start": 315,
+   "end": 429
+  },
+  {
+   "fact": "Ares 打电话给 Cipher，Cipher 带来打磨机把 Kayla 和 Vero 身上的镣铐打开，Vero 对此很不爽。",
+   "anchor": "I called Cipher, knowing he would have a way to remove the cuffs—he is always tinkering with something.",
+   "start": 1245,
+   "end": 1348
+  },
+  {
+   "fact": "Kayla 醒来发现手腕被铐得红肿，并直接问是不是 Ares 救了自己；Ares 点头承认，只解释自己被 scarecrow（Cave）耽搁。",
+   "anchor": "It was you who saved me, wasn’t it?”",
+   "start": 3350,
+   "end": 3386
+  },
+  {
+   "fact": "Vero 用厨房里所有锅做炒蛋、把面粉弄得到处都是甚至弄上天花板，自嘲说下次保证不再把自己和她铐在一起。",
+   "anchor": "You know, next time I promise not to handcuff myself to you.",
+   "start": 5531,
+   "end": 5591
+  },
+  {
+   "fact": "Jess 冲进厨房看到 Kayla 就要她远离“Kyle”，还指责她打电话骚扰 Clay；Clay 站在妹妹身后全程不吭声，让妹妹主导。",
+   "anchor": "You need to stay away from Kyle.”",
+   "start": 7261,
+   "end": 7294
+  },
+  {
+   "fact": "Kayla 把手机递给 Jess，亮出存成“Douchenugget”的联系方式和消息/通话记录，证明打电话骚扰 Clay 的不是她，而是 Clay 因为被劈腿而怀恨在心。",
+   "anchor": "His name is saved under Douchenugget. Look at our message history—check the call logs.”",
+   "start": 8276,
+   "end": 8363
+  },
+  {
+   "fact": "Jess 相信了 Kayla 并哭着道歉，Clay 把妹妹拉进怀里，兄弟俩对 Kayla 的敌意随之瓦解。",
+   "anchor": "I feel so fucking stupid,” Jess cries into her brother’s chest.",
+   "start": 9187,
+   "end": 9250
+  },
+  {
+   "fact": "Clay 告诉 Kayla：若 Kyle 再出现在酒吧就打电话给他，因为他打算杀了 Kyle；Kayla 拒绝以杀人报复，只想泼牛奶或打电话剧透。",
+   "anchor": "Because I plan to kill him.”",
+   "start": 12240,
+   "end": 12268
+  }
+ ]
+}
