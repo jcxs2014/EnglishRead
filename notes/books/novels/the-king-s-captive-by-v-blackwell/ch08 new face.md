@@ -34,7 +34,7 @@ modified: "2026-11-12"
 > **原句 4:** "Soren leans over me, yanks the earbuds straight out of my ears, and drops them onto the table. "No music at the table, Kit." … I nod, staring into the drink. No music, no talking, no hug, no eye contact. Just existing, barely."
 **中文理解**：他俯身把耳机直接从耳朵上扯下来丢在桌上：餐桌上不许听音乐，Kit。他点点头盯着杯子：没音乐、没说话、没拥抱、没对视。只是活着，勉强算活着。
 **关键词**：yanks / No music / barely / existing
-**为什么这样写**：四连否定排比（No music, no talking, no hug, no eye contact）是剥夺清单的完形，barely 一个词把「生存」降到配额级；earbuds 从 ch07 的规矩（桌上没收）升级为本章的没收——制度不再给安静留缝隙。
+**为什么这样写**：四连否定排比（No music, no talking, no hug, no eye contact）是剥夺清单的完形，barely 一个词把「生存」降到配额级；耳机这条禁令把 ch07 的隔离规矩扩到「声音」：连安静也要经过他批准。
 **读者视角提示**：耳机线被扯断的那一下，是本章暴动的直接前摇——读者此刻应能听见倒计时；「勉强活着」与后文的「我也要当人」构成因果。
 
 > **原句 5:** "I stand up so suddenly that several heads turn. My heart is slamming against my ribs hard enough to hurt, but I ignore it. I don't head for the kitchen. I turn toward the main double doors of the dining room and start walking. … Soren's voice comes out in a warning, dark and hard to disobey. "Kit. Sit down." … I shake my head without looking back and push through the doors, letting them slam shut behind me on purpose."
@@ -49,49 +49,55 @@ modified: "2026-11-12"
 **为什么这样写**：数字对仗（five minutes / ten months）完成全章最锋利的一次比较，剥夺被写成资产清单（三套衣服、一双鞋、一个说话对象）——清单式写法让贫穷看起来像账目，无处喊冤。
 **读者视角提示**：这是全书第一次把 Kit 的全部家当一次列清——读者可以拿它当标尺，衡量此后他得到的每一样东西（笔记本、耳机）的真实分量。
 
-> **原句 7:** "What's pissing me off the most is how deeply this has gotten under my skin. How affected I am; I shouldn't care this much that he walked out. I shouldn't care that he looked so goddamn miserable sitting next to me. And I definitely shouldn't still be seeing red over the memory of Aria's arms wrapped around him."
+> **原句 7:** "A powerful arm hooks around my waist and I’m suddenly airborne, thrown over his shoulder like I weigh nothing. His chest is vibrating with barely controlled anger and he’s breathing hard, not just from the short run."
+**中文理解**：一条有力的手臂勾住他的腰，他整个人腾空、被甩上肩头，像没有重量；对方的胸膛因勉强压住的怒气而震动，呼吸急促，不全是因为那段短跑。
+**关键词**：hooks / airborne / vibrating / anger
+**为什么这样写**：同一副身体在这里是暴力搬运——airborne 与 like I weigh nothing 写力量差，vibrating with barely controlled anger 写他连发怒都要「勉强压住」；这与后面抱下楼的温柔是同一双手的两种用法。
+**读者视角提示**：记住这次「扛走」，它与原句 14 的「抱下去」构成对照：身体没变，语法变了。
+
+> **原句 8:** "What's pissing me off the most is how deeply this has gotten under my skin. How affected I am; I shouldn't care this much that he walked out. I shouldn't care that he looked so goddamn miserable sitting next to me. And I definitely shouldn't still be seeing red over the memory of Aria's arms wrapped around him."
 **中文理解**：最让他冒火的是这件事钻得有多深——他被影响得离谱：不该这么在意他走了，不该这么在意他坐在旁边时那副惨样，更不该一想起 Aria 搂着他的画面就眼前发红。
 **关键词**：under my skin / shouldn't / miserable / seeing red
 **为什么这样写**：三个 shouldn't 的排比是自我审查的清单——每一条禁令都反向登记了一条真实反应；seeing red 把占有欲的暴力底色露出来，这句的语法主语全是「我不该」，没有一个「我想要」，否认机制仍在运转。
 **读者视角提示**：与 ch04 的 No emotions 对照读——同一个人、同一套否认、更长的清单；读者可以直观看到「不承认」的工程量随感情同比例增长。
 
-> **原句 8:** ""So, talk to me." … He shakes his head immediately and the last thread of my patience snaps; voice rising into an actual shout. "Give me something! You've lived here almost a year, Christopher, and you've barely spoken a single fucking sentence to me!""
+> **原句 9:** ""So, talk to me." … He shakes his head immediately and the last thread of my patience snaps; voice rising into an actual shout. "Give me something! You've lived here almost a year, Christopher, and you've barely spoken a single fucking sentence to me!""
 **中文理解**：那就跟我说话。对方立刻摇头，他最后一线耐心绷断，吼出声：给我点什么！你在这儿住了快一年，Christopher，跟我说过的话凑不出一句完整的！
 **关键词**：talk to me / patience / Give me something / sentence
 **为什么这样写**：吼出的是要「一点什么」，暴露的却是匮乏——控制者第一次承认自己缺；almost a year 的时长清点把沉默计成债务，他连对方的沉默都用年份结算。
-**读者视角提示**：注意称呼又是 Christopher——越是要，越不肯给名字；这一吼是 ch07 那条定理（只要我不看他他就不怕）的逆向使用：他要的就是一个回看他的人。
+**读者视角提示**：注意称呼又是 Christopher——越是要，越不肯给名字；这一吼是 ch07 那条定理（只要我不回看，他就敢看我）的逆向使用：他要的就是一个回看他的人。
 
-> **原句 9:** "If he won't talk to me, if he won't give me his voice, then no one else gets it either. Not Selina, not Armen, and not some brand-new blonde who thinks she can just walk in and put her hands on what's mine. … I'm not sharing… not his words, not his attention, not a single fucking thing."
+> **原句 10:** "If he won't talk to me, if he won't give me his voice, then no one else gets it either. Not Selina, not Armen, and not some brand-new blonde who thinks she can just walk in and put her hands on what's mine. … I'm not sharing… not his words, not his attention, not a single fucking thing."
 **中文理解**：他要是不给声音，别人也别想得到——Selina 不行、Armen 不行、那个以为能随便走进来碰「他的东西」的新金发女人更不行。他不分享——他的话、他的注意力，一样都不分享。
 **关键词**：no one else / what's mine / not sharing / words
 **为什么这样写**：what's mine 与 not sharing 两句把爱情的前置逻辑说破：在分享之前先声明所有权；三连否定清单（words / attention / anything）把「声音」写成可垄断资产，作者的狠在于让读者同时听见占有与渴望。
 **读者视角提示**：「声音」在此被当成可垄断的财产，这句话是理解全书权力逻辑的钥匙；读者可以预判 Aria 之后每次靠近都会触发这条垄断令。
 
-> **原句 10:** "His eyes flick up to mine for the briefest second before dropping back to his knees. When he speaks, the words are quiet and withdrawn, but they are actual words. "How can I talk to you… when you murdered my only family?" … I blink, malfunctioning for a second… that was a full sentence; soft and broken, but complete. It's the last thing I wanted to hear, yet the fact that he spoke at all lands heavier than the accusation itself."
+> **原句 11:** "His eyes flick up to mine for the briefest second before dropping back to his knees. When he speaks, the words are quiet and withdrawn, but they are actual words. "How can I talk to you… when you murdered my only family?" … I blink, malfunctioning for a second… that was a full sentence; soft and broken, but complete. It's the last thing I wanted to hear, yet the fact that he spoke at all lands heavier than the accusation itself."
 **中文理解**：那双眼睛飞快扫了他一下又落回膝盖。开口时声音又轻又缩，但那是真正的话：你杀了我唯一的家人——我要怎么跟你说话？他眨了下眼，当机了一秒——那是完整的一句话，轻、碎，但完整。这是他最不想听到的答案，可「他终于开口了」这件事，比指控本身砸得更重。
 **关键词**：actual words / murdered my only family / malfunctioning / lands heavier
 **为什么这样写**：作者用当机（malfunctioning）写价值排序的崩塌——答案的内容他早有防备，答案的「存在」他毫无防备；broken but complete 的评语是本章的情感定理：完整的一句伤人话，胜过十个月的点头摇头。
 **读者视角提示**：记住这个「开口比说什么重要」的时刻——它同时说明 Soren 的饥渴有多深；读者第一次听到 Kit 说出成句的控诉，贡献的却是拒绝。
 
-> **原句 11:** "Kit keeps talking, voice thick and heartbreaking. "I was twenty-one five days ago, on Monday. My parents would have made a fuss. They would have acted like it was Christmas Day. But here… no one cared to ask about my birthday. No one was even allowed to smile at me… just one smile would have been nice. So, no… you don't deserve my words. You can have my body, but not my words.""
+> **原句 12:** "Kit keeps talking, voice thick and heartbreaking. "I was twenty-one five days ago, on Monday. My parents would have made a fuss. They would have acted like it was Christmas Day. But here… no one cared to ask about my birthday. No one was even allowed to smile at me… just one smile would have been nice. So, no… you don't deserve my words. You can have my body, but not my words.""
 **中文理解**：Kit 继续说，声音哽着、听着心碎：五天前的周一我满二十一了。我父母会大惊小怪，会过得像圣诞节。可在这里，没人在意过我的生日——甚至没人被允许对我笑一下，一笑也好啊。所以，不……你不配得到我的话。你可以要我的身体，但得不到我的话。
 **关键词**：twenty-one / Christmas Day / smile / not my words
 **为什么这样写**：生日自白把抽象的剥夺兑换成日历上的具体损失——Christmas Day 的家庭记忆与「无人生日」的现在对照，账目清晰；body 与 words 的二分是全书最锋利的一句台词：他承认了身体的沦陷，同时划出语言的国境线。
 **读者视角提示**：这是 Kit 十个月来第一次为自己谈判——条款清晰（身体给你、语言归我）；读者应意识到这同时是对 ch05 以来所有沉默的总账单。
 
-> **原句 12:** "I stand up slowly, staring down at him. Something uncomfortable twists hard in my chest. I pride myself on the fact that every person under this roof gets their birthday. One day a year I let them be annoying little shits, do whatever they want, and blow off steam. It's a rule, an expectation. And somehow the entire house, myself included, completely missed his. … The realisation sits wrong, very wrong."
+> **原句 13:** "I stand up slowly, staring down at him. Something uncomfortable twists hard in my chest. I pride myself on the fact that every person under this roof gets their birthday. One day a year I let them be annoying little shits, do whatever they want, and blow off steam. It's a rule, an expectation. And somehow the entire house, myself included, completely missed his. … The realisation sits wrong, very wrong."
 **中文理解**：他缓缓站起、低头看他，胸口有什么不舒服的东西狠狠拧着。他一向引以为傲：屋檐下每个人的生日他都记得、纵容他们胡闹一天——这是规矩，是默认。可不知怎么，全屋的人连同他自己，把他的生日漏得干干净净。……这个认知非常不对劲。
 **关键词**：pride / rule / missed his / very wrong
 **为什么这样写**：他的自豪制度（生日豁免日）与漏掉的事实相撞，内疚以制度失灵的形态出现——对一个只会用规则思考的人，这是唯一能穿透他的语法；sits wrong 重复两次，是他罕见的表达不出的时刻。
 **读者视角提示**：读者此刻看到亏欠如何进入这台机器——不走心、走制度；记住「他欠了」这个状态，后面所有让步（耳机、蛋糕、抱下楼）都是这笔债的偿还方式。
 
-> **原句 13:** "I swallow, suddenly unsure of myself in a way I rarely am. "Do you… want me to carry you or something?" … He only shrugs, the smallest movement, like the answer is yes but he doesn't dare actually ask. A short, surprised laugh leaves me. I hook my hands under his thighs and lift him up. The second his weight settles against me, something deep and possessive in my chest eases."
+> **原句 14:** "I swallow, suddenly unsure of myself in a way I rarely am. "Do you… want me to carry you or something?" … He only shrugs, the smallest movement, like the answer is yes but he doesn't dare actually ask. A short, surprised laugh leaves me. I hook my hands under his thighs and lift him up. The second his weight settles against me, something deep and possessive in my chest eases."
 **中文理解**：他咽了下口水，忽然以一种少见的方式没了底气：要不要……我抱你下去？对方只是极小地耸了下肩——像是答案是 yes、但他不敢真的问出口。他短促地、惊讶地笑了，弯手托住腿弯把人抱起来。重量贴上来的那一瞬，胸腔深处那点占有欲松开了。
 **关键词**：unsure / carry you / shrugs / eases
 **为什么这样写**：命令者罕见地以问句交付（or something 的尾巴藏着自我保护）；耸肩代替回答，是两个不会谈判的人发明的暗语；eases 的主语是 possessive——占有欲被喂饱时表现为平静，这是本章给「温柔」下的暴力定义。
 **读者视角提示**：这个抱是全书关系的转折道具——从「扛走」到「抱下去」，同一副身体的两种用法；读者可以预期此后「抱」会变成两人之间新的语言。
 
-> **原句 14:** "I set him down carefully. He drops into the seat on my right without argument. I take my own chair, then reach over and tap the table once beside the small digital audio player and earbuds sat on the table. Lorraine found them on sale for him months ago and thought he might like them. Kit flicks his eyes up at me, uncertain, not sure if he's actually allowed. I just give him a quick, short nod."
+> **原句 15:** "I set him down carefully. He drops into the seat on my right without argument. I take my own chair, then reach over and tap the table once beside the small digital audio player and earbuds sat on the table. Lorraine found them on sale for him months ago and thought he might like them. Kit flicks his eyes up at me, uncertain, not sure if he's actually allowed. I just give him a quick, short nod."
 **中文理解**：他轻轻把人放下，Kit 毫无异议地坐回右边。他自己落座，然后伸手在桌上的小音频播放器和耳机旁敲了一下——那是几个月前 Lorraine 打折买给他的。Kit 的眼睛飞快抬起来，不确定自己是不是真被允许；他只干脆地点了一下头。
 **关键词**：carefully / tap / uncertain / nod
 **为什么这样写**：道歉被拆成三个动作——抱下楼、敲桌面、点头，全程没有对不起三个字，符合这个人只能用特权赔罪的语言系统；uncertain not sure if he's actually allowed 一句写尽规则的阴影：连许可都需要被许可。

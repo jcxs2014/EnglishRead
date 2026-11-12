@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch08",
+ "text": "text/ch08_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "Kit 已在 Soren 右手边的固定座位吃了五个月早餐。",
+   "anchor": "I’ve been sitting in this exact chair to Soren’s right for five whole months. Every single morning.",
+   "start": 410,
+   "end": 509
+  },
+  {
+   "fact": "新来的 Aria 一进餐厅就俯身把 Kit 抱进怀里。",
+   "anchor": "Before I can shrink any further, she leans over and pulls me into a warm, easy hug.",
+   "start": 5388,
+   "end": 5471
+  },
+  {
+   "fact": "Soren 到场后命令 Aria 松手让位，说这里不许人和 Kit 说话或碰他。",
+   "anchor": "They don’t speak to him or touch him because they’re not allowed. I suggest if you want a place here you respect that and move.",
+   "start": 6405,
+   "end": 6532
+  },
+  {
+   "fact": "Kit 觉得 Aria 才来五分钟就已比他更融入这个家。",
+   "anchor": "She’s been here five minutes and already belongs more than I ever have.",
+   "start": 4458,
+   "end": 4529
+  },
+  {
+   "fact": "Kit 摇头拒绝坐下，推门离开餐厅并故意把门摔上。",
+   "anchor": "I shake my head without looking back and push through the doors, letting them slam shut behind me on purpose.",
+   "start": 9019,
+   "end": 9128
+  },
+  {
+   "fact": "Kit 心里说自己被关在这栋房子里十个月，只获准和 Lorraine 一个人说话。",
+   "anchor": "I’ve been trapped in this house for ten months with permission to speak to exactly one person: Lorraine.",
+   "start": 9352,
+   "end": 9456
+  },
+  {
+   "fact": "Soren 追上 Kit，一臂拦腰把他整个人扛到肩上。",
+   "anchor": "A powerful arm hooks around my waist and I’m suddenly airborne, thrown over his shoulder like I weigh nothing.",
+   "start": 10570,
+   "end": 10680
+  },
+  {
+   "fact": "Kit 控诉说五天前的周一自己刚满二十一岁，父母本会大张旗鼓庆祝。",
+   "anchor": "I was twenty-one five days ago, on Monday. My parents would have made a fuss.",
+   "start": 16523,
+   "end": 16600
+  }
+ ]
+}
