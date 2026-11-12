@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：印记长出：双线顺他的手臂蔓延、绕过血管与伤疤——在拇指两侧以与她一模一样的方式分叉。
 
-**关键词**：snaking、scars、identical
+**关键词**：snaking、scars、exact
 
 **为什么这样写**：「snaking over veins and scars」的生长描写把超自然写成生理事件——印记是长出来的不是画上去的；「exact same way」的镜像确认让 ch04「nearly twin marks」的度量单位（Eirene 例外）在此有了本尊。
 

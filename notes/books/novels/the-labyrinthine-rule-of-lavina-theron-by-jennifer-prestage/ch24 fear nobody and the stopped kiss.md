@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：恐惧自白：「我没怕过东西——现在怕了。我不知道如何像你应得的那样…像我想的那样——放你进来。」
 
-**关键词**：protected、deserve、freely
+**关键词**：deserve、want、tears
 
 **为什么这样写**：「like you deserve…like I want to」的双层标注把羞怯与欲望并排说出——她第一次承认「想」；眼泪自由落下与她的「I don't get scared」人设决裂。
 

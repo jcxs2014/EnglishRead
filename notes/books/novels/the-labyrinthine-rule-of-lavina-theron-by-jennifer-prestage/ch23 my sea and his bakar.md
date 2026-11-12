@@ -38,7 +38,7 @@ modified: "2026-11-12"
 
 **中文理解**：兄长 Bakar 之死：蛇毒攻心、兄弟们四散求医未归——「而我是唯一在场的人。」他说得像自己不配。
 
-**关键词**：snakebite、deserving、recipient
+**关键词**：deserving、recipient、there
 
 **为什么这样写**：「I was the one there」用在场性定义责任——他接住的不是遗产是临终托付；「not a deserving recipient」的自贬暴露 Death Benefit 制度的残酷排序（离得近者承受）。
 
@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：五岁的第一次 Death Benefit：无从知晓原因——「她大概觉得我能承受。」
 
-**关键词**：carry、child、question
+**关键词**：carry、thought、she
 
 **为什么这样写**：「she」的匿名施予者留下全书最深的一只箱子（五岁时谁给的？给的是什么？）；「still figuring it out」的自白让童年创伤保持开放状态。
 
@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：瞭望塔授海仪式：「这，Draven Artrayu，就是我的海。」
 
-**关键词**：sea、pride、amulet
+**关键词**：sea、Artrayu、Draven
 
 **为什么这样写**：全名授海像授勋——她把国土的创伤与骄傲同时交出；护符下的 pride swell 让这枚 Brinden Stone 参与了仪式。
 
@@ -146,7 +146,7 @@ modified: "2026-11-12"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gallivant | 闲逛游荡 | I fail to mention I’ve been away most of the day gallivanting with Draven. |
-| envy | 羡慕、嫉妒 | But he trusted me, and understandably, there was jealousy from the others. |
+| jealousy | 羡慕、嫉妒 | But he trusted me, and understandably, there was jealousy from the others. |
 ## 一句话总结
 瞭望塔上的「我的海」与手心相扣之间，他交出了家庭史（Bakar 之死、五岁的第一次 Death Benefit、Andilyn）与她交出了 Sunder 全史——onyx 是 Brinden Stone 他早知道；Alden 归来同贺「We might」。
 
