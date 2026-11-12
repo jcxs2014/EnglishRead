@@ -45,7 +45,7 @@ modified: "2026-11-12"
 
 **读者视角提示**：这句「上一次有个男人独占了我」值得记一笔——本书没有明说那个人是谁，但第 6、14、20 章 Durian 的酒后越界已经给出了半个答案。她的边界感是从具体经历里长出来的，不是性格设定。
 
-> **原句 4:** ""Are you with someone else?" he growls, his arms tightening around me. I shake my head before verbalizing, "No… Not yet at least. But I do want a boyfriend." I can't have one. His lips tighten, his nostrils flare, his eyebrows furrow in confusion. He opens his mouth a few times before he finally speaks. "If that's what it takes, Cinnamon. to remain by your side." There is a flash of terror at the intensity of his words, at the gruffness of his tone. For all intents and purposes, we only met tonight. … "Good.""
+> **原句 4:** ""Are you with someone else?" he growls, his arms tightening around me. I shake my head before verbalizing, "No… Not yet at least. But I do want a boyfriend." I can't have one. His lips tighten, his nostrils flare, his eyebrows furrow in confusion. He opens his mouth a few times before he finally speaks. "If that's what it takes, Cinnamon. Whatever I have to do to remain by your side." There is a flash of terror at the intensity of his words, at the gruffness of his tone. For all intents and purposes, we only met tonight. … "Good.""
 
 **中文理解**：「你有别人吗？」他低吼着把手臂收紧；她先摇头再开口：「没有……至少现在没有。但我想要一个男朋友。」——我不能有。他抿唇、鼻翼翕动、眉头拧起来，张了几次嘴才说出话：「如果这是条件，Cinnamon，那我就做到。为了留在你身边，什么都行。」——他这份强度让她闪过一阵恐惧：按所有标准算，他们今晚才认识——她说：「好。」
 
