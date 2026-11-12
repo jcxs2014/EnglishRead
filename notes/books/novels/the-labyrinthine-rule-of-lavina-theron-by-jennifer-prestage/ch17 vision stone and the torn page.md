@@ -16,13 +16,13 @@ modified: "2026-11-12"
 
 > **原句 1:** "I guess I’ll have to use my teeth."
 
-**中文理解**：马厩喜剧：双臂全满，她只好宣布用牙——咬住 pommel bag 提绳、含绳行了个屈膝礼。
+**中文理解**：马厩喜剧：双臂全满腾不出手，她只好宣布动用牙齿。
 
-**关键词**：teeth、curtsy、bag
+**关键词**：teeth、guess、use
 
-**为什么这样写**：全书最不体面的运输方式被她演成礼仪——comedy 的核心是 Commander 姿态与实际狼狈的落差；含绳屈膝礼的荒诞让 Lumi 的笑成为日常的注脚。
+**为什么这样写**：「I guess」的自嘲开场让狼狈变成节目——Commander 的体面与实际处境的落差就是笑点本身；一句话宣布放弃尊严，喜剧节奏干净利落。
 
-**读者视角提示**：对照 Draven 的开门接袋：同一批行李在两人手里一个用牙、一个用手——力量差写进运输方式。
+**读者视角提示**：对照随后 Draven 的开门接袋：同一批行李在两人手里一个用牙、一个用手——力量差写进运输方式。
 
 > **原句 2:** "I was going to, but I figured if I’m trusting you to be in my home, then you are going to need to trust me, too. Since you haven’t been unfair or made me feel like you are hiding something—aside from not telling me what you are looking for,” I add with an annoyed tone, “I shall give you the respect you deserve as well."
 
