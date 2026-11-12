@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：全书第一次把「疯」的代价摊开：Vero 的喜剧外壳脱落，露出拔发、自撞与失控恐惧；Kayla 与他的关系从玩伴升级为「会留下来的人」；Brawley/Vero 的应对机制首次被外人看见并被质疑。
 - **Tropes 兑现/反转**：兑现前置内容警示页「躁郁发作写得用心但不加滤镜」的写作声明；反转是找到 Vero 的不是伴侣 Brawley 而是新来的 Kayla，且靠的是不施压的等待。
 - **人物弧线**：Kayla：确立「陪伴而非修复」的爱的语法；Vero：第一次用语言（而非笑话）描述自己的发作与矛盾；Brawley：用拳台把人带回当下，被 Kayla 当面质疑；Clay：替两人的方式作解释。
-- **叙事手法**：搜寻段用声音（whimper）与空间（locked from the inside）推进；道具间戏靠短句与沉默写陪伴；拳台段用 Kayla 被 Clay 锁住的视角强制旁观；浴室独白是全书 Vero 最长、最不带玩笑的台词。
+- **叙事手法**：搜寻段用声音（whimper）与空间（locked from the inside）推进；道具间戏靠短句与沉默写陪伴；拳台段用 Kayla 被 Clay 锁住的视角强制旁观；浴室独白是本章 Vero 最长、最不带玩笑的台词。
 
 ## 精读
 > **原句 1:** "“He was thinking that Vero is my friend,” I say before Clay can even open his mouth. “And I won’t sit at home while my friend needs help. Even if that means helping you look for him. Now tell me where you have already searched, so we can cover more ground.”"

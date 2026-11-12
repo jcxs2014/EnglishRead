@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：Clay 线从「护妹」扩展到「护 Kayla」并首次自认失控（why her 无答案）；Ares 线被 Vero 逼到必须面对感情；章末把 Vero 的躁郁发作推到台前，四人关系即将接受第一次危机测试。
 - **Tropes 兑现/反转**：兑现「brooding 男主语言无能」；反转是这次先开口清点矛盾的是 Kayla；「巷子救人」被写成 Clay 的恐怖面而非浪漫面——Kayla 的感谢反而让他失语。
 - **人物弧线**：Clay：承认 she challenges me in a way no one else ever has；Ares：被 Brawley 点破戴腕带的真正原因；Vero：从玩世到替 Kayla 讨说法，并说出对 Ares 的爱；Kayla：友谊观（不中途离场）首次压过 Clay 的保护逻辑。
-- **叙事手法**：厨房质问靠短句轮替升级；酒吧段用 Clay 的凝视视角写 Kayla 的工作人格；巷子威胁是一整段独白（全书 Clay 台词最长）；章末电话切断吻，节奏由满到空。
+- **叙事手法**：厨房质问靠短句轮替升级；酒吧段用 Clay 的凝视视角写 Kayla 的工作人格；巷子威胁是一整段独白（203 词、不用他惯常的短句）；章末电话切断吻，节奏由满到空。
 
 ## 精读
 > **原句 1:** "“She was in my bed again.” Ares selects the right words to use in a measured tone. He always fucking does this, and we let him because we are all monsters here. The difference is we let our demons show, whereas his are on the inside—but he is a monster nonetheless."

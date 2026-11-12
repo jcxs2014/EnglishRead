@@ -1,0 +1,81 @@
+{
+ "chapter": "ch46",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch46_chapter_13.txt",
+ "relations": [
+  "Aaron ↔ Kayla：前任施暴者、她长期逃离的人——‘I won’t allow what Aaron did to me to set me back—I can’t. I spent so long running from him, and now I no longer need to.’",
+  "Vero ↔ Kayla：伴侣兼暗中引路者——‘Vero gave me a place to belong. He has no idea what that means to me’；墙上留给他的是‘Always trust yourself. You’ve got this, Double P.’；追捕结束后他把她抱起转圈并喊‘You passed!’",
+  "Brawley ↔ Kayla：伴侣／归属宣告者——那个房间里墙上只有他笔迹的一句‘You already know how to do this.’；最后他说‘We wanted you to see your worth. To remind you of who you are, not who you were. You’re the missing piece.’",
+  "Ares ↔ Kayla：伴侣——他的镜面谜题问她‘Why did you stay?’，下面补一句‘Not what kept you. Not who asked you. Why did you?’；见面时他双手捧住她的脸说‘You make me feel’并吻她。",
+  "Clay ↔ Kayla：伴侣兼占有——他的谜题是‘Find the one that is wrong.’；收尾他说‘Oh, you’re mine all right’并把她扛到肩上。",
+  "Cave ↔ Kayla：彼此尊重但她欠他人情——‘It’s possible Cave will appear, but we have a mutual respect now, even if I owe him two favors.’"
+ ],
+ "numbers": [
+  "Chapter Thirteen",
+  "all week",
+  "two favors",
+  "one sentence",
+  "2:17",
+  "One night",
+  "twelve monitors",
+  "twelve feeds",
+  "three minutes",
+  "feed seven",
+  "seven on the keypad",
+  "twice",
+  "The first mechanism",
+  "the third attempt",
+  "a second weird table",
+  "All four of them",
+  "Three minutes"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 整周缠着四人要参加一次追捕（chase）；四人担心她还没准备好，她坚持自己已经好了——因为她不能让 Aaron 对她做的事把自己拖住，她已经不再需要逃。",
+   "anchor": "I have been pestering the guys all week to let me take part in a chase. They are worried I’m not ready, but I know I am.",
+   "start": 47,
+   "end": 167
+  },
+  {
+   "fact": "Nixie 穿上马戏团领班（ringmaster）的服装宣布规则：逃跑者对猎手，最后还站着的客人获胜；猎手碰到你你就出局并回集合点，没有安全区、没有捷径，也没人保证你还是你以为的那个人；她念到最后一句时看着 Kayla，Kayla 怀疑整场游戏是专为她安排的。",
+   "anchor": "Welcome. Tonight you will run, and the hunters will hunt. Everything you think you know, you don’t. Tonight, the last guest standing will win, but if a hunter touches you, you’re out and will meet back here. There are no safe zones, no shortcuts, and no guarantee anyone is who you think they are. Good luck, and may the best miscreant win.",
+   "start": 829,
+   "end": 1169
+  },
+  {
+   "fact": "Kayla 在游乐场缝隙撞上一个戴面具的男人，凭身形认出是 Vero，直接喊话打招呼；Vero 不回话，只侧身让开、退回黑暗里。",
+   "anchor": "Hi, Vero,” I say casually.",
+   "start": 3048,
+   "end": 3074
+  },
+  {
+   "fact": "她肩膀撞开那扇自以为是疯人院后门的门冲进去，才发现自己进的是一间密室，随后发现房间里每一道门都被锁死。",
+   "anchor": "I glance frantically around and understand my mistake—this is an escape room.",
+   "start": 4471,
+   "end": 4548
+  },
+  {
+   "fact": "她把桌上五张问题卡逐一答出（第一个让你有安全感的东西、没人看时你吃什么、从旧生活带来却没打算留的东西、这里夜里的声音、Vero 给了你什么），最后一张她说 Vero 给了她归属感，而 Vero 自己根本不知道这意味着什么。",
+   "anchor": "Vero gave me a place to belong. He has no idea what that means to me, and I will be forever grateful.",
+   "start": 6043,
+   "end": 6144
+  },
+  {
+   "fact": "第二张桌子上摆着猫耳头饰、纸船、停在 2:17 的坏钟、压平的花和咬过的铅笔头；她掀起纸船下的纸条读出那句话，门随即咔哒一声打开。",
+   "anchor": "You never have to navigate anything alone again.",
+   "start": 6684,
+   "end": 6732
+  },
+  {
+   "fact": "Clay 的房间是十二个监控屏加书桌、椅子和上锁的柜子，题面是‘Find the one that is wrong.’；她坐下看了三分钟，在 feed seven 上发现画面边缘站着一个镜头外的人影，随后走到柜子前在键盘上按七，柜子里有纸条和一把钥匙。",
+   "anchor": "I take three minutes to see it on feed seven—a shadow at the edge of the frame. Someone standing just outside the shot.",
+   "start": 7922,
+   "end": 8041
+  },
+  {
+   "fact": "终局：最后一扇门打开，四个人都在等着她；Brawley 说‘It wasn’t a test. We wanted you to see your worth.’并把她从 Vero 那里抢过来抱紧，说她是‘You’re the missing piece.’；Ares 捧住她的脸说‘You make me feel’并吻她；Clay 说‘Oh, you’re mine all right’。",
+   "anchor": "a test.” Brawley crowds into our space, then steals me from Vero, and his arms squeeze me tight. “We wanted you to see your worth. To remind you of who you are, not who you were. You’re the missing piece.",
+   "start": 9776,
+   "end": 9980
+  }
+ ]
+}

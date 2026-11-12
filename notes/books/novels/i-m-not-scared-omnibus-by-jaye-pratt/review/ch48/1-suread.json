@@ -1,0 +1,85 @@
+{
+ "chapter": "ch48",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch48_chapter_15.txt",
+ "relations": [
+  "Aaron ↔ Kayla：前任施暴者，出狱后失踪（假释官提交了失踪报告）——‘that man hurt me in more ways than one, both physically and mentally’；‘There is no way I want to see him ever again’、‘I will not let that man affect my life any more than I have.’",
+  "Ares ↔ Kayla：恋人兼搭档（两人同为酒吧早班）——他骑摩托送她去警局并等在楼下，‘I will be right here’；‘Ares pulls me in for a kiss. It’s his first public display of affection’；她离开时‘A chapter of my life is closed.’",
+  "Clay ↔ Kayla：恋人兼当场对立——她公开反对他管束亲妹妹（‘You’re supposed to be on my side’），他则说‘Because I know one woman’s body I want to be allowed to touch’、‘ten minutes more and your ass would have been mine’，临走还吻了她。",
+  "Clay ↔ Jess：亲兄妹（Clay 为兄、Jess 为妹）——‘She is my baby sister’、‘She is my fucking sister’；Jess 二十二岁（‘She is twenty-two’）且被绑上火轮；她打完 Clay 后站到 Kayla 一边‘Kayla is sticking up for me. It’s my business.’；Clay 最后让步‘But I will not be paying for the plastic surgery.’",
+  "Karo ↔ Jess／Karo ↔ Clay：马戏团抛刀者与执行者——Karo 说‘She asked,’、‘So what? She just wants a turn. There is no one here to see it.’；Clay 反驳‘She is not being strapped to a flaming wheel by a man who throws knives for a living.’",
+  "Detective Marsh（与另一名警员）↔ Kayla：警方例行跟进的问话关系——假释官转述 Aaron‘spoke about you a lot, and he had the mindset that you were still his girlfriend’；她回应‘if I did, you would be the first people I told.’"
+ ],
+ "numbers": [
+  "Chapter Fifteen",
+  "both Ares and I are on the opening shift",
+  "the end of the month",
+  "last week",
+  "a few questions",
+  "a second",
+  "his first public display of affection",
+  "approximately six weeks",
+  "never once",
+  "the other officer",
+  "the first people",
+  "the third time",
+  "a block away",
+  "ten feet",
+  "one arm",
+  "She is twenty-two",
+  "every decision",
+  "both her hands",
+  "one woman’s body",
+  "you two",
+  "ten minutes"
+ ],
+ "facts": [
+  {
+   "fact": "早餐在 Ares 的酒吧（两人都在早班）；Kayla 已打电话给 Mabel 说自己要搬走——原本留着旧住处是为了随时有退路，但她认定那是 Aaron 在搅乱她的脑子，决定不留退路，并说四人不会让她一个人搬走。",
+   "anchor": "This morning we are all having breakfast at Ares’s bar since both Ares and I are on the opening shift. They think I haven’t noticed that we haven’t been working as much, and while I really have no bills here, I still have to pay for my loft until the end of the month. I called Mabel and told her I would be moving. Originally, I was going to keep it to make sure I always had an exit plan, but that’s Aaron messing with my head and I won’t let him win. I am happy and don’t give a fuck anymore. Besides, from what I know of the guys, they would move out before making me relocate, not that I would let them.",
+   "start": 46,
+   "end": 654
+  },
+  {
+   "fact": "陌生号码来电是 Detective Marsh：他上周和她的同事谈过她的前任，现在想再问她几个问题，问她何时方便去警局；她当场答应今天过去，Ares 把地址写在他收银机旁的便签本上。",
+   "anchor": "Detective Marsh. I spoke briefly with your colleague last week regarding your ex-boyfriend. I was hoping to ask you a few questions as well. Would you be available to come into the station",
+   "start": 913,
+   "end": 1101
+  },
+  {
+   "fact": "去警局的路上 Ares 说他们其实什么都拿不到也不必担心：没有影像，但 Clay 已把 Aaron 离开岛以及之后一切的录像交给警方，足以证明他再没回过岛。",
+   "anchor": "They have nothing,” he says, which is not reassuring at all. “Trust me when I say we have everything handled. There is no footage, and Clay sent them the tapes showing him leaving the island and everything afterward, proving he never returns.",
+   "start": 2454,
+   "end": 2696
+  },
+  {
+   "fact": "Marsh 说明这只是对一份失踪人口报告的例行跟进（由假释官提交），并告知 Aaron 约在六周前被释放出狱。",
+   "anchor": "routine follow-up on a missing person’s report,” he says. “It was filed by a parole officer. Aaron was released from prison approximately six weeks ago.",
+   "start": 3469,
+   "end": 3621
+  },
+  {
+   "fact": "她对侦探讲真话：Aaron 是她见过最控制欲强的人，他花了很多年让她以为他做的那些是正常的，她花了很多年修复那些伤害；她真的不知道他在哪，若知道会第一个告诉警方，不会再让他影响自己的人生——Marsh 点头相信了她。（她称最后一次联系是他被捕那天，此后他没打过任何电话或发过消息，她甚至不知道他在 Fear Island 用别名受雇、从未与他碰面；假释官说他仍以为她是他女朋友，她当场落泪说那人身心都伤害过她。）",
+   "anchor": "Aaron was the most controlling person I have ever known. He spent years making me believe that what he did to me was normal, and I have spent years fixing that damage. I genuinely do not know where he is, and if I did, you would be the first people I told. I will not let that man affect my life any more than I have.",
+   "start": 5398,
+   "end": 5715
+  },
+  {
+   "fact": "问完话她走回 Ares 的摩托，接过头盔戴上、扣好带子坐上后座，感到一种如释重负：‘A chapter of my life is closed.’",
+   "anchor": "We walk together back to his bike, and when he passes me my helmet, I pull it on and fasten the strap. As I get on behind him, I feel a sense of relief. A chapter of my life is closed.",
+   "start": 5966,
+   "end": 6150
+  },
+  {
+   "fact": "Ares 手机连震三次，他停车看到 Clay 的多个未接来电和一条写着‘Circus tent’的短信；他们赶到马戏团，火轮在转、Karo 举着手臂看着被绑在轮上的 Jess，Clay 退到十英尺外抱臂下令‘Get. Her. Down!’，Karo 答‘She asked,’，Clay 说‘She is my fucking sister.’，Karo 回‘So what? She just wants a turn. There is no one here to see it.’",
+   "anchor": "Clay is standing ten feet back with his arms crossed. “Get. Her. Down!",
+   "start": 6754,
+   "end": 6824
+  },
+  {
+   "fact": "Clay 要 Ares 出面干预，Kayla 指出这不是在帮忙：她要他看清 Jess 已经二十二岁、是完全的成年人，自己做了选择而他正要把这个选择夺走；Clay 则说‘You’re supposed to be on my side.’，她回答自己是站在女性可以决定自己身体的那一边。",
+   "anchor": "not trying to help you. I’m trying to point out that she is a fully grown woman. One who made a choice for herself, and you are trying to take that choice away from her.",
+   "start": 8287,
+   "end": 8456
+  }
+ ]
+}
