@@ -28,7 +28,7 @@ modified: "2026-11-12"
 
 **中文理解**：地址指向一座真正的豪宅；后门立着两个壮汉，她摇下车窗问能否停车——对方交换眼神甩来一句「说你的来意」；她报上「受雇的厨师？」与地址，两人嘀咕着用对讲机核实，然后放行：停这儿，先搜身，他一小时内用晚餐。
 
-**关键词**：an actual mansion / State your business. / The hired chef? / He will be ready for his dinner within the hour.
+**关键词**：an actual mansion / State your business. / The hired chef? / ready for his dinner within the hour
 
 **为什么这样写**：State your business 是军事岗哨用语，被用来接待一位拎着锅铲的厨师——语言的错位先于搜身，告诉她这是哪个世界的门。作者让放行令带着两件行李：search you first（搜身）与 within the hour（倒计时）——从这一刻起，她的一举一动都有了时限和观众。
 
