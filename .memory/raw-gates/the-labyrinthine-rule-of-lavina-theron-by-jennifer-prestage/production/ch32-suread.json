@@ -1,0 +1,49 @@
+{
+ "book": "the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage",
+ "chapter": "ch32",
+ "text": "notes/books/novels/the-labyrinthine-rule-of-lavina-theron-by-jennifer-prestage/text/ch32_31_route_to_the_capital.txt",
+ "facts": [
+  {
+   "fact": "liability 内幕：Fragon 暗示偏袒——她自曝「选累赘的是父亲 Lord Theron、给女儿挑了唯一顺手的」；Andilyn 介绍（「our Wild One…the beating heart of us and the worst of us when she's bored」）；Evelyn 骑术好但公主做派可能不够勇",
+   "anchor": "chose the only favorable one for his daughter",
+   "start": 1856,
+   "end": 1901
+  },
+  {
+   "fact": "空地遇袭：Peltin 发现死马→卫兵 Corbin（Alden 的人）尸体、红羽箭；另一匹倒地马=Evelyn 的（非 Mallet）；Draymor 肋部两箭还活着（「We were ambushed…They got Corbin and Kipp. They died right off their mounts」）——「Dranderons are here!」/「This isn't even enemy territory. What the fuck?」",
+   "anchor": "“It’s Corbin,” I say, choking back a sob.",
+   "start": 6435,
+   "end": 6476
+  },
+  {
+   "fact": "Draven 的石头：棕石掷地——土墙轰然拔起挡住北面视线——Terrabastion Stone！「Stones. Of course Draven has rare stones.」（呼应 ch07 童年马车前弹出的土墙——那次也是他？）",
+   "anchor": "It’s a fucking Terrabastion Stone.",
+   "start": 9653,
+   "end": 9687
+  },
+  {
+   "fact": "Draymor 的情报：倒的马是 Evelyn 的——「Alden's got her…got both of them on Mallet」；她剥掉 Icarus 的选择权（「他一定会破令追我」）独自追 Alden",
+   "anchor": "It was Princess Evelyn’s horse.",
+   "start": 10349,
+   "end": 10380
+  },
+  {
+   "fact": "Alden 的状态：从树上放冷箭的懦夫——他被迫弃队带公主逃；「I had to leave them」的愧疚；「Draymor is alive!」的消息让他短暂松了一秒",
+   "anchor": "“They shot them! The fucking cowards came out of the trees.”",
+   "start": 12891,
+   "end": 12951
+  },
+  {
+   "fact": "换马计划：她把 Evelyn 半空拉上 Jaco、给公主挂盾护左；Mallet 双人骑撑不住——她命令公主接管 Jaco（「You. Will. Take. The. Fucking. Reins.」）+「He won't forgive me for leaving you」/「Eventually, he will」",
+   "anchor": "You. Will. Take. The. Fucking. Reins. You will get back",
+   "start": 16584,
+   "end": 16639
+  },
+  {
+   "fact": "跳马：她在疾驰中跃下（与童年遇袭时同样的翻滚）——「I love you, Jaco」——这次肘部撞石、手臂断裂；强撑起身骗他们「我没事」；「They do not stop. Alden put up less fight than I expected.」",
+   "anchor": "I love you, Jaco.”",
+   "start": 17905,
+   "end": 17923
+  }
+ ]
+}
