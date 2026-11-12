@@ -39,7 +39,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 低声说出真正的伤害：她害怕——看着 Vero 却不知道他下一步要做什么，也够不到他；酒吧的损失是一回事，那种彻底的无力感更伤她。
 **关键词**：scared / didn’t know / couldn’t reach / helpless
 **为什么这样写**：ch19 她说过怕的是失控——此处对 Vero 本人说出同一诊断；「够不到他」把发作写成双向失联，Vero 的眼泪因此不是被原谅而是被理解。
-**读者视角提示**：这段与 ch16 Vero 视角的「completely silent」互为镜像：同一夜，两个人各自最坏的感受第一次被对方听见。
+**读者视角提示**：这段与 ch16 Vero 视角的「completely silent」互为镜像：同一件事的两种说法（Vero 当夜说，Kayla 事后说），两个人各自最坏的感受第一次被对方听见。
 
 > **原句 5:** "I need my workplace to be safe, so I can go in there and do my job. You and Clay can’t show up there and decide who can and can’t look at me."
 
