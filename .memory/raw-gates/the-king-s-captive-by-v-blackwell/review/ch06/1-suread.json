@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch06",
+ "text": "text/ch06_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "基特躺着盯天花板，胸口起伏过快，身体仍在事后颤抖。",
+   "anchor": "I lie here staring up at the ceiling, chest rising and falling too fast, body still trembling with aftershocks.",
+   "start": 46,
+   "end": 157
+  },
+  {
+   "fact": "他回想索伦射精时扯掉眼罩，黑眼睛锁住他的目光不放。",
+   "anchor": "when he ripped the mask off just as he came, those dark eyes locked onto mine and refused to let go.",
+   "start": 419,
+   "end": 519
+  },
+  {
+   "fact": "索伦整个人压到他身上，贴着他皮肤含混地说他明天要在餐桌上吃早饭。",
+   "anchor": "His voice comes out quiet and slurred against my skin. “You’ll… have breakfast at the table tomorrow.”",
+   "start": 1364,
+   "end": 1466
+  },
+  {
+   "fact": "索伦睡着了，打起鼾，仍压在他身上。",
+   "anchor": "a soft, unmistakable sound starts up above me. Snoring. Soren is out cold, dead weight pressing me into the mattress.",
+   "start": 1758,
+   "end": 1875
+  },
+  {
+   "fact": "基特用尽力气蹬床翻身，终于让索伦滑出他的身体。",
+   "anchor": "I gather every scrap of willpower I have left, plant my feet, and roll with my whole body.",
+   "start": 3010,
+   "end": 3100
+  },
+  {
+   "fact": "索伦翻回来，一条沉重的手臂横落在基特胸口，压得他喘不过气。",
+   "anchor": "a heavy arm comes down across my chest like a falling tree.",
+   "start": 4240,
+   "end": 4299
+  },
+  {
+   "fact": "基特抬起索伦沉重的手和手臂，从下面滑出来，随后滚下床跪在地毯上。",
+   "anchor": "I carefully pick up his heavy hand, lift his thick arm just high enough to slide out from under it",
+   "start": 4808,
+   "end": 4906
+  },
+  {
+   "fact": "基特穿好衣服，把门开到刚好能挤过去，屏息慢慢关门，不让门闩发出响声。",
+   "anchor": "I ease one door open just wide enough to slip through, holding my breath the entire time, and pull it shut behind me",
+   "start": 5938,
+   "end": 6054
+  }
+ ]
+}

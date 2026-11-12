@@ -28,7 +28,7 @@ modified: "2026-11-12"
 > **原句 3:** "His voice comes out quiet and slurred against my skin. "You'll… have breakfast at the table tomorrow." … I frown up at the dark ceiling. Why? He's never wanted me at the table before. I'm usually allowed to eat in the kitchen with Lorraine or just take something back to my room. Why would he suddenly want me sitting there with the rest of them?"
 **中文理解**：他的声音含混地贴着皮肤响起：明天……你上桌吃早餐。他冲着黑天花板皱眉：为什么？以前从没让他上过桌——他一向只能在厨房跟 Lorraine 吃，或者端回房间。为什么突然要他和大家坐在一起？
 **关键词**：slurred / breakfast / table / Why?
-**为什么这样写**：命令以醉话形态出现，省略号（You'll…）把犹豫写进了施令者嘴里；Kit 的三连追问替读者把反常标注清楚——从「厨房外的食物」到「餐桌上的位置」，作者用座位制度写等级制度的松动。
+**为什么这样写**：命令以醉话形态出现，省略号（You'll…）把犹豫写进了施令者嘴里；Kit 的两句追问替读者把反常标注清楚——从「厨房外的食物」到「餐桌上的位置」，作者用座位制度写等级制度的松动。
 **读者视角提示**：餐桌是这个家的身份图：谁坐哪儿＝谁是谁的人；这条命令是 Soren 第一次把 Kit 往「家里人」的方向挪，读者可以追这个座位线的后续。
 
 > **原句 4:** "A ridiculous, panicked thought flashes through my head… what if we actually get stuck like this? What if I can't get him out?"
@@ -43,7 +43,13 @@ modified: "2026-11-12"
 **为什么这样写**：角色功能在这里完成一次静悄悄的对调——触碰者与被碰者互换，brave 这个词从 Kit 嘴里说出来带着自嘲式的郑重；他的动作全是拆除引信的精度（lift just high enough / as gently as I can），偷技是从天天怕被抓的生活里练出来的。
 **读者视角提示**：这是全书第一次由 Kit 主动处置 Soren 的身体——他的能动性从逃生动作里开始生长；记住这晚的「勇敢」门槛有多低，后面每一点进步都以此为基线。
 
-> **原句 6:** "The hallway is completely dark and empty; no voices, no footsteps, nothing. The silence feels heavier than noise ever could. It presses in from both ends of the long corridor, making the back of my neck prickle. I glance left, then right, heart still hammering, and then I'm turning toward the back staircase as fast as I can without actually running. I still have to figure out a way to get my wrists free, but first, I need my room."
+> **原句 6:** "Come on. I gather every scrap of willpower I have left, plant my feet, and roll with my whole body. For a second nothing happens. Then, finally, his weight shifts just enough. He slips free of me with a wet, uncomfortable sensation that makes me hiss through my teeth. A heavy, shaky sigh of pure relief leaves me the second he’s out."
+**中文理解**：他攒起最后一点意志，双脚蹬住床垫、用整个身体去翻——先是一动不动，随后对方的重量终于挪开一点点，他从里面滑出来，那一下让他咬牙抽气；彻底脱开时，才吐出一口又重又抖的、纯粹是解脱的气。
+**关键词**：willpower / roll / shifts / relief
+**为什么这样写**：全章的主动作被拆成三次「差一点」——gather、plant、roll，再等「For a second nothing happens」，最后才 shift just enough；作者不肯让逃脱一步到位，连身体自由都要按最难的方式结算。
+**读者视角提示**：这是 Kit 第一次靠自己把身体从 Soren 身下取回来，不是被放开；紧接着的走廊段因此不是「逃出去」，而是「带着余震走回去」。
+
+> **原句 7:** "The hallway is completely dark and empty; no voices, no footsteps, nothing. The silence feels heavier than noise ever could. It presses in from both ends of the long corridor, making the back of my neck prickle. I glance left, then right, heart still hammering, and then I'm turning toward the back staircase as fast as I can without actually running. I still have to figure out a way to get my wrists free, but first, I need my room."
 **中文理解**：走廊全黑全空，没有人声、没有脚步、什么都没有。寂静比任何噪音都沉，从长廊两头压过来，后颈又开始发麻。他左右各扫一眼、心跳擂鼓，随即朝后楼梯快步走去——快到极限但没有跑。手腕还捆着，解绳的办法可以慢慢想；当务之急是回房间。
 **关键词**：dark / silence / heavier / prickle
 **为什么这样写**：逃亡的顶点不给追兵、只给寂静——heavier than noise 把「安全」写成另一种压迫，从牢笼逃回牢笼的荒诞全在里头；后颈发麻的母题从 ch03 一路复用（ch03 用 tingle，ch05 与本章用 prickle），监视感已经内化成他的体质，没有观众也演全套。

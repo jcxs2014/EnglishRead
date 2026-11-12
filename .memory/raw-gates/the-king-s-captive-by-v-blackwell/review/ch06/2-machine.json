@@ -1,0 +1,318 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/ch06 trapped.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-king-s-captive-by-v-blackwell/text/ch06_chapter_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "This was",
+          "ok": true,
+          "pos": 350
+        },
+        {
+          "text": "something else. And then right at the end, when he ripped the mask off just as he came, those dark eyes locked onto mine",
+          "ok": true,
+          "pos": 360
+        },
+        {
+          "text": "I couldn't look away. Even when every instinct screamed at me to turn my head, to hide, to break the contact, I just",
+          "ok": true,
+          "pos": 504
+        },
+        {
+          "text": "stayed there",
+          "ok": true,
+          "pos": 621
+        },
+        {
+          "text": "It felt far too intimate; like something that should never have happened between us. Between me and the man who killed m",
+          "ok": true,
+          "pos": 684
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It means nothing, I tell myself firmly. He's drunk, that's all, it doesn't mean anything",
+          "ok": true,
+          "pos": 815
+        },
+        {
+          "text": "My thoughts scatter when his full weight suddenly collapses on top of me. Soren is so much bigger than I am. The air lea",
+          "ok": true,
+          "pos": 902
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "His voice comes out quiet and slurred against my skin. \"You'll",
+          "ok": true,
+          "pos": 1336
+        },
+        {
+          "text": "have breakfast at the table tomorrow.\"",
+          "ok": true,
+          "pos": 1398
+        },
+        {
+          "text": "I frown up at the dark ceiling. Why? He's never wanted me at the table before. I'm usually allowed to eat in the kitchen",
+          "ok": true,
+          "pos": 1436
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A ridiculous, panicked thought flashes through my head",
+          "ok": true,
+          "pos": 2634
+        },
+        {
+          "text": "what if we actually get stuck like this? What if I can't get him out",
+          "ok": true,
+          "pos": 2690
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Of course. Now I have to remove him, again",
+          "ok": true,
+          "pos": 4629
+        },
+        {
+          "text": "Usually, it's Soren doing all the touching. Tonight I have to be brave",
+          "ok": true,
+          "pos": 4673
+        },
+        {
+          "text": "I carefully pick up his heavy hand, lift his thick arm just high enough to slide out from under it, and lower it back on",
+          "ok": true,
+          "pos": 4744
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Come on. I gather every scrap of willpower I have left, plant my feet, and roll with my whole body. For a second nothing",
+          "ok": true,
+          "pos": 2953
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The hallway is completely dark and empty; no voices, no footsteps, nothing. The silence feels heavier than noise ever co",
+          "ok": true,
+          "pos": 6167
+        }
+      ],
+      "words": 80
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 12,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 17,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1223,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 10 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
