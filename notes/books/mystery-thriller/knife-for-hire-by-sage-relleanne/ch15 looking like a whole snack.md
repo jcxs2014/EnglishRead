@@ -34,13 +34,13 @@ modified: "2026-11-12"
 
 **读者视角提示**：这份「只花自己挣的」的誓言，在本书另一位警探身上也出现过一次几乎同款的说法。两份誓言是不是同一份，作者还没让你对答案。
 
-"My belly flips. "I understand that, I could use my family's money. But I decided I wanted to only spend what I earned myself, too. I feel like I have made so many mistakes in life, and in some ways it's my penance.""
+> **原句 3:** "My belly flips. "I understand that, I could use my family's money. But I decided I wanted to only spend what I earned myself, too. I feel like I have made so many mistakes in life, and in some ways it's my penance."
 
-**中文理解**：他答自己只花挣来的钱，过去欠下的债还在还，那公寓其实不差；他的目光掠过她之前，她看见他动荡眼底的一份深深的悲伤；她心口一翻，接了同款信条——她也本可以花家里的钱，但决定只花自己挣的；她觉得这辈子错太多，就当赎罪。
+**中文理解**：她心口一翻，接了同款信条——她也本可以花家里的钱，但决定只花自己挣的；她觉得这辈子错太多，就当赎罪。
 
-**关键词**：the money I earn / debt from my past / tumultuous eyes / my penance
+**关键词**：My belly flips / I could use my family's money / only spend what I earned myself / my penance
 
-**为什么这样写**：两段自白押着同一个韵脚——debt 对 mistakes，repay 对 penance；作者把两笔账摆上同一张长椅，让「财务观」成为「罪疚观」的暗语。tumultuous eyes 里的 deep sadness 是他全场唯一的失守瞬间，而她的 belly flips 证明她看见了——看见本身，就是心动的物理证据。
+**为什么这样写**：她把他的忏悔原样接了过来——could use my family's money 对 debt，penance 对 repay，两笔账摆上同一张长椅，财务观成了罪疚观的暗语。belly flips 是她听见对方悲伤时的生理反应——看见本身，就是心动的物理证据。
 
 **读者视角提示**：两份忏悔互为镜像，但欠的不是同一种债——他欠的账在第 9 章有过形状（五年承诺），她欠的在序章（一条命换来的新人生）。两条债在同一次相遇里对上了利率，谁也不知道对方是同一个案子的遗属。
 
