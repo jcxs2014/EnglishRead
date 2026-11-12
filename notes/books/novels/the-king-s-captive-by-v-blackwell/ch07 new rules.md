@@ -23,7 +23,7 @@ modified: "2026-11-12"
 **中文理解**：岛台边就是 Kit，小小的、小心翼翼地避着所有人，缩在一本杂志上；紧身牛仔裤、光脚只穿袜子、黑卫衣松松挂着。那头黑卷发垂下来……真好看。他冲自己咕哝了一声——气这个胆敢在脑子里成形的词。
 **关键词**：small / magazine / curls / beautifully
 **为什么这样写**：全清单的形容词都冷静客观，唯独 beautifully 破功——省略号是那个词挤出来的全过程；grumble at himself 把心动写成违规，他在对自己的审美执法，irritated 的对象是自己的语言。
-**读者视角提示**：ch05 的「清单式身体记忆」此处由男主亲口回收——他也在给对方建档案；「不许自己觉得好看」是这条线最有戏的注脚，后面每次破功都在这把尺上量。
+**读者视角提示**：ch05 Kit 的清单式打量在此被 Soren 反过来做了一遍——他也在给对方建档案；「不许自己觉得好看」是这条线最有戏的注脚，后面每次破功都在这把尺上量。
 
 > **原句 3:** "I laugh, deep and close to his ear, and he flinches. The flinch pisses me off in an instant. It shouldn't; it's nothing new. It used to please me, that automatic fear. This morning, for reasons I refuse to examine, I wish he didn't do it. His parents had to die, for a lot of other people to stay alive, but I'll never tell him the truth. That stays buried, and so that means he continues to see me as a big, bad monster."
 **中文理解**：他贴着耳边低笑，对方一颤。这一颤让他火起——本不该的，这不是新鲜事。那种条件反射式的怕，从前让他受用。可今天早上，用一个他拒绝细想的原因，他希望没有。孩子的父母必须死，很多别的人才活了下来；但他永远不会说出真相。真相埋着，对方就继续把他当成不折不扣的怪物。

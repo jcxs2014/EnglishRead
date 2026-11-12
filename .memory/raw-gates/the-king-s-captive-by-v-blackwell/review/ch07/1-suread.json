@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch07",
+ "text": "text/ch07_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "前一晚是为 Armen 庆祝生日，Soren 说这是让酒局失控的唯一原因。",
+   "anchor": "Last night was to celebrate Armen’s birthday. That’s the only reason I let the evening get as messy as it did.",
+   "start": 165,
+   "end": 275
+  },
+  {
+   "fact": "Soren 换衣服时选了深红色衬衫，说自己从不穿亮色。",
+   "anchor": "I leave them unfastened for now and reach for a shirt. Dark red, not bright, I never wear bright colours",
+   "start": 1740,
+   "end": 1844
+  },
+  {
+   "fact": "早餐时 Soren 与 Ray 约定先从北区车行开始跑业务。",
+   "anchor": "“We’ll start at the north-side dealership first,” I tell him, cutting into my food.",
+   "start": 12867,
+   "end": 12950
+  },
+  {
+   "fact": "Lorraine 告诉 Soren 早餐还要二十分钟。",
+   "anchor": "“Breakfast will be another twenty minutes, boss.”",
+   "start": 4423,
+   "end": 4472
+  },
+  {
+   "fact": "Soren 在厨房岛台找到缺席早餐的 Kit，他正缩着尽量不挡别人的路。",
+   "anchor": "And there, at the island, is Kit. He’s looking small and carefully out of everyone’s way",
+   "start": 7444,
+   "end": 7532
+  },
+  {
+   "fact": "Soren 抓住 Kit 的腰，把他从高脚凳上整个人提起来放到地上。",
+   "anchor": "I straighten, grab him by the waist, and lift him clean off the stool, setting him on his feet on the floor.",
+   "start": 9422,
+   "end": 9530
+  },
+  {
+   "fact": "Soren 当众宣布谁都不准坐在 Christopher 旁边、不准打扰他。",
+   "anchor": "“Not anymore. No one sits next to Christopher. Leave him alone.” I raise my voice just enough for the whole table to hear.",
+   "start": 11266,
+   "end": 11388
+  },
+  {
+   "fact": "Soren 发现 Kit 偷看他，一对上视线 Kit 立刻脸红低头。",
+   "anchor": "They stop when they lock straight onto Kit’s; his eyes go wide the instant he’s caught.",
+   "start": 14175,
+   "end": 14262
+  }
+ ]
+}
