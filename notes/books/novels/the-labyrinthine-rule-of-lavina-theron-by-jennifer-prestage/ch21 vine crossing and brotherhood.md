@@ -141,7 +141,7 @@ modified: "2026-11-12"
 |---|---|---|
 | tremulous | 颤抖的 | The dismay in Hellbore’s tremulous voice is joined with the protests of all the men as they begin to shout while helping to anchor the tree. |
 | bastion | 壁垒、屏障 | Spears of icicles protrude from the snow where they fell as if to bastion the modest structure against our unexpected arrival. |
-| retinue | 随行队伍 | I extend my hand, and Rokin moves to the front of the retinue before settling back into our chosen pace. |
+| protrude | 突出、伸出 | Spears of icicles protrude from the snow where they fell as if to bastion the modest structure against our unexpected arrival. |
 | contubernium | （Guard）十人小队 | I am grateful for this contubernium Captain Icarus pulled from our century. |
 
 ### ⭐⭐ 进阶
@@ -150,7 +150,7 @@ modified: "2026-11-12"
 | foraging | 觅食、饲料搜寻 | The three walk them off in search of suitable foraging. |
 | embankment | 堤岸、河岸坡 | The rope is long enough to sag down the walls of the embankment and cross the water a couple of feet below the surface. |
 | purchase | （攀爬的）着力点 | At last, I find purchase with my feet. |
-| blithe | 无忧无虑的、轻率的 | Fragon lacks his usual blithe personality. |
+| prickly | 刺麻的、发麻的 | They are prickly from sitting so long—a sensation I despise. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
