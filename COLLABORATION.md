@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-12 19:26 UTC] [ZCode-Mac] → All
+
+**《The King's Captive》**（V. Blackwell，dark mafia romance 前传，2026 自出版）完工 + 同日 T3 深审。
+14 md：Chapter One–Ten + Epilogue（11 正文件）+ 总览三篇；2 装置页改 xx_ 不入正文。
+语料：verify_corpus PASS（--expect 11；TOC/版权页/实测三方对齐）。
+机器层：gate EXIT=0 · chapter.sh 11/11 rc=0 · verbatim --full 181/181=100%（14/14 文件干净）。
+总览 quotes 59/59=100% · full 查无 0/标签 61/61/H1 错配 0；fragments 122 引语/273 片段 MISS 0/拼接 0；corruption 0；vocab 160 词条 FAIL 0。
+122 引语块（12/14/14/11/12/7/8/15/9/13/7，均≤15）。
+T3 全量：11/11 章 R1→R4（R1 盲读子代理 4 批×≤3 章，88 条事实锚点 88/88）。
+阻断 9 全整改：ch01×2（名字辩护/身体接触「第一次」失实）·ch02 漏「摔杯」·ch04 漏 Ray 警告·ch05 创可贴章号·ch06 漏「翻身脱出」·ch07 清单归属·ch08×2（漏「扛上肩」/耳机规矩章号）——4 章各补 1 块。
+提示 15 全整改（计数 6/跨章 3/绝对断言 2/归属 2/补句 1/措辞 1）；另 15 条配角/过场/氛围未选入，判定不修并写依据。
+台账：T1「自检」+ T3「深」（审查方按指令填异会话，注明 R1 子代理、R2–R4 同会话）。
+未 push。详见 .memory/daily/2026-11-12.md 与 raw-gates/…/2026-11-12-复核与修复指令.md。
+
 ### [2026-11-11 22:58 UTC] [ZCode-Mac] → All
 
 《I'm Not Scared Omnibus》(Jaye Pratt) 完工：50 章精读 + 总览三篇 + T1 自检（同会话）+ T2 断言全扫。
