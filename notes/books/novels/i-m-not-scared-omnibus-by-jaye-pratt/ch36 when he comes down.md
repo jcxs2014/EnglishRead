@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：危机中的分工章：Kayla 首次被允许在四人面前崩溃（clay 的逼哭=确认孤立无援的真相）；Vero 的复仇被从「他会杀 Aaron」推进到「杀完之后他如何自处」——Part Three 的真正主题是发作后的清算。
 - **Tropes 兑现/反转**：兑现「监控取证」流程；反转是 Clay 的温柔以残酷问答形式出现；「我们担心 Vero 杀人」被改写成「我们担心 Vero 活下来之后」。
 - **人物弧线**：Clay：逼哭疗法+承诺叫醒她，保护技术首次被 Kayla 接受；Brawley：承认第一次「分享」发作后的 Vero 并评估自己；Ares：把 Cave 的「人性余量」纳入模型；Kayla：从「我没事」到「我是不是让一切变成我的事」。
-- **叙事手法**：搜寻段用空行三连（No Cave/No Vero/No sign）；监控段以定格画面写证据；逼哭段是 Clay 全书最长的情感戏；章末三男对话以「Shit, he's right」的内心承认收束。
+- **叙事手法**：搜寻段用空行三连（No Cave/No Vero/No sign）；监控段以定格画面写证据；逼哭段是 Clay 全书最短的一次情感表态（两句共 36 词）：他不解释、只把她必须听见的那句说出口；章末三男对话以「Shit, he's right」的内心承认收束。
 
 ## 精读
 > **原句 1:** "No Cave. … No Vero. … And no sign of where either of them went."
