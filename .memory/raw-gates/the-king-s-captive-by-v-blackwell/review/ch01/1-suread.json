@@ -1,0 +1,55 @@
+{
+ "book": "the-king-s-captive-by-v-blackwell",
+ "chapter": "ch01",
+ "text": "text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Kit 蜷在窄单人床上、膝盖抵胸，眼泪不停往下掉。",
+   "anchor": "I sit curled on the narrow single bed in my tiny box of a room, knees pulled tight to my chest, and the tears just keep coming.",
+   "start": 74,
+   "end": 201
+  },
+  {
+   "fact": "Kit 自述自己原本只是大学生、只有二十岁。",
+   "anchor": "I don’t belong here… I was just a college kid. I’m only twenty.",
+   "start": 3871,
+   "end": 3934
+  },
+  {
+   "fact": "事发已近三个月，Kit 仍分不清自己哭是因为父母没了，还是因为自己还活着。",
+   "anchor": "nearly three months since that night, and I still don’t know if I’m crying because Mom and Dad are gone",
+   "start": 428,
+   "end": 531
+  },
+  {
+   "fact": "Lorraine 端来 Kit 吃不下的饭和放到凉的热饮。",
+   "anchor": "She brings trays of food I can’t eat and hot drinks that go cold on the desk.",
+   "start": 2148,
+   "end": 2225
+  },
+  {
+   "fact": "Lorraine 摇头打断 Kit，说老板出去办事了。",
+   "anchor": "She shakes her head before I can finish. “Hush. Don’t worry, the boss is out on business.”",
+   "start": 5208,
+   "end": 5298
+  },
+  {
+   "fact": "Kit 低头不看 Selina，小声说自己叫 Kit。",
+   "anchor": "I manage to whisper, without meeting her eyes, “Just… Kit.”",
+   "start": 10892,
+   "end": 10951
+  },
+  {
+   "fact": "Soren 呵斥 Selina 回去执行他给的任务、别站着聊天。",
+   "anchor": "I gave you a task, get to it, you’re not on my payroll to stand around talking.",
+   "start": 11797,
+   "end": 11876
+  },
+  {
+   "fact": "Soren 捏住 Kit 的下巴，强迫他抬头看自己。",
+   "anchor": "His hand comes up and grabs my chin, forcing my face up until I have no choice but to look at him.",
+   "start": 14586,
+   "end": 14684
+  }
+ ]
+}

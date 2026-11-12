@@ -37,9 +37,9 @@ modified: "2026-11-12"
 **为什么这样写**：eyes open 与 dark circles of blood 像相机定格的两帧，越短越瘆人；suit 与 chaos 的错位写的是职业性——这不是激情犯罪，是流程。"cold muzzle" 把暴力从视觉压到触觉，until I had no choice 则让读者体验「被剥夺视角」的瞬间。
 **读者视角提示**：全章最重的创伤回放放在开头，之后他所有的小动作（数出口、背对门坐）都有了根；「被迫直视」这个动作是创伤核心，后文每一次对视都会回收它。
 
-> **原句 5:** "Lorraine comes every day; she's the only kindness in this place. A sweet older woman with soft hands and softer eyes who knocks gently and never forces the door open if I don't answer."
-**中文理解**：Lorraine 每天都来，是这个地方唯一的善意。她是个和气的老妇人，手软，眼神更软，敲门轻轻的，他不回应也从不硬闯。
-**关键词**：kindness / soft hands / knocks gently / never forces
+> **原句 5:** "Lorraine comes every day; she's the only kindness in this place. A sweet older woman with soft hands and softer eyes who knocks gently and never forces the door open if I don't answer. She brings trays of food I can't eat and hot drinks that go cold on the desk."
+**中文理解**：Lorraine 每天都来，是这个地方唯一的善意。她是个和气的老妇人，手软，眼神更软，敲门轻轻的，他不回应也从不硬闯；她端来他吃不下的饭，热饮在桌上放到凉。
+**关键词**：kindness / soft hands / trays of food / never forces
 **为什么这样写**：先下判断 "the only kindness"，立刻用 soft hands / softer eyes 的比较级铺质感——结论在前、证据在后，读者对她的信任建立得又快又稳。"never forces" 这个否定写的是分寸：在满是枪与命令的宅子里，「不强迫」成了稀缺品。
 **读者视角提示**：Lorraine 是这个封闭空间里唯一的安全依附，作者立她靠的是敲门、送饭这类动作而非形容词堆砌；后文任何威胁到这层关系的事件都会直接戳中 Kit 的支点。
 
@@ -52,7 +52,7 @@ modified: "2026-11-12"
 > **原句 7:** "I know I can't escape; I tried once. Climbed out of my bedroom window in the middle of the night when the fear got so bad I couldn't stay still. … I made it three steps before I saw the dark shape of a security guard walking the perimeter path with a torch."
 **中文理解**：他知道自己逃不掉，试过一次：半夜恐惧到坐不住，从卧室窗户爬出去，才跑了三步，就看见保安打着手电在围墙巡逻线上走，只能翻回去。
 **关键词**：escape / tried once / three steps / security guard / torch
-**为什么这样写**："I tried once" 三个词一句，把最疼的经历压到最短，再慢慢补过程；three steps 这个数字小到荒谬——逃跑全程只有三步，比任何长篇渲染都更能写死「插翅难飞」。perimeter path 与 torch 把监狱意象日常化：巡逻就贴着窗户走。
+**为什么这样写**："I tried once" 几个词就交代了最疼的经历，再慢慢补过程；three steps 这个数字小到荒谬——逃跑全程只有三步，比任何长篇渲染都更能写死「插翅难飞」。perimeter path 与 torch 把监狱意象日常化：巡逻就贴着窗户走。
 **读者视角提示**：这是他「放弃逃跑」的来源证据，本段之后他对前门的联想全是这条创伤的延续；注意他是「看到就自己退回」，不是被抓——自发放弃比被抓更绝望。
 
 > **原句 8:** ""You don't fucking communicate with him, Selina. I gave you a task, get to it, you're not on my payroll to stand around talking." The voice cracks through the room like a gunshot; loud, cold, and absolute."
@@ -71,18 +71,18 @@ modified: "2026-11-12"
 **中文理解**：Lorraine 轻轻哼了一声，是护着他的意思，回答时话音里还带着点笑意：哦，他更喜欢被叫 Kit。
 **关键词**：hum / protective / tiny smile / prefers / Kit
 **为什么这样写**：一个 hum 加 tiny smile，两个微小的声音细节写出她敢替他开口——满宅只有她敢纠正老板；prefers 这个词选得客气又坚定，不解释来历、不请示，直接替他把名字钉住。
-**读者视角提示**：这是 Kit 的名字第一次被人公开辩护，而辩护者是女仆不是他自己——他的身份此刻全靠别人托管，「自己说出 Kit」是留给后文的成长线。
+**读者视角提示**：Kit 自己对 Selina 只敢低声纠正一次；此刻是 Lorraine 第一次当着老板的面替他把名字钉住——他的身份仍主要靠别人托管。
 
 > **原句 11:** "His hand comes up and grabs my chin, forcing my face up until I have no choice but to look at him. I can't even close my eyes. They're wide open, locked on his, full of panic."
 **中文理解**：他抬手抓住 Kit 的下巴，把脸抬起来，逼到他不得不看着自己；Kit 连眼睛都不敢闭，睁得大大的，锁在他的目光里，满是惊恐。
 **关键词**：grabs my chin / forcing / no choice / panic
 **为什么这样写**：no choice but to look 与本章开头回放里枪口逼视那句同一结构——三个月前是枪口抬他的脸，现在是手掌；同一套动作语言在重复创伤，「被迫对视」就是这本书的核心权力动作。can't even close my eyes 把剥夺推到眼皮这一级。
-**读者视角提示**：抓下巴是本章两人的第一次身体接触，暴力与亲密在同一只手上；dark romance 的读者会认出这个标配动作——压迫的姿势同时是靠近的姿势。
+**读者视角提示**：三个月前抵在这个位置的是枪口，这一次换成了手掌——同一处身体的权力记号，暴力与亲密共用一条路径。
 
 > **原句 12:** "A small, broken sound slips out of the back of my throat, half whine, half gasp, and I move. Not quite a jog, but a fast, stiff walk, eyes locked on the floor, not looking at anyone as I get the hell out of the kitchen."
 **中文理解**：他喉咙深处挤出一声细小的、破碎的声音，半像呜咽半像抽气，然后挪动脚步——不算跑，是一种又快又僵的走，眼睛钉着地板，谁也不敢看，逃出了厨房。
 **关键词**：broken sound / whine / stiff walk / eyes locked on the floor
-**为什么这样写**：收尾不给行动的自由感：连 jog 都不是，是 fast, stiff walk——恐惧把奔跑都僵化了；half whine, half gasp 把羞耻写进声音里，最后落在 eyes locked on the floor，与开头蜷缩、数出口的姿势闭环：他从头到尾没有被允许拥有一次平视。
+**为什么这样写**：收尾不给行动的自由感：连 jog 都不是，是 fast, stiff walk——恐惧把奔跑都僵化了；half whine, half gasp 把羞耻写进声音里，最后落在 eyes locked on the floor，与开头蜷缩、数出口的姿势闭环：他从头到尾没有主动平视过一次。
 **读者视角提示**：第一章的落点是彻底的顺从——没有反击、没有胜算，连逃跑的姿势都是僵的；这是 dark romance 的起点设定，之后关系的每一分软化都要从这条底线上量出来。
 
 ## 本章词汇
