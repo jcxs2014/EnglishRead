@@ -1,0 +1,78 @@
+{
+ "chapter": "ch04",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch04_chapter_4.txt",
+ "relations": [
+  "Brawley【Vero】——恋人·占有：“That ass is only mine.”、“Mine,” I growl.、“I would do anything for you, Vero. Except watch another man take what’s mine.”；两人同居，“because people besides our housemates and Vesper even looking at him during a sexual act makes me see red.”；事后他贴着 Vero 的太阳穴，“I press my forehead to his temple for exactly three seconds”",
+  "Brawley【Clay】——朋友兼拳台对手，但他不会杀他：“if anyone else came for Clay, I would kill them in an instant”；“Clay doesn’t move. He’s still breathing, as I wouldn’t actually kill him, not on purpose—not unless he touched what’s mine.”",
+  "Ares【全员】——自封的操控者：“Ares is a puppet master who has convinced everyone he is holding the strings for their own good.”；“Vero trusts him, Clay respects him, even Nixie goes to him for advice. Fuck, so do I.”；“Ares needs to be needed.”",
+  "Nixie【Clay】——明写的偏爱：“it’s no secret Clay is her favorite”；Nixie 对 Brawley 下工单：“Everyone fuck off and get ready. People will start arriving any minute now, and you are all in here. You are not paid to stand around.”",
+  "Nixie【Ares】【Clay】——同一名女孩的腕带合谋：“Oh, Clay also has a wristband for her, and I’m throwing Ares in the mix to make sure you all stay alive.”；Brawley 因此放 Ares 一马：“But as long as he leaves Vero out of it, he won’t die by my hands.”"
+ ],
+ "numbers": [
+  "once, twice",
+  "one clean punch",
+  "A single light bulb",
+  "a single metal chair",
+  "Tonight",
+  "during the day",
+  "at night",
+  "any minute now",
+  "for the night",
+  "for a while",
+  "a second to adjust",
+  "for a second",
+  "exactly three seconds",
+  "tomorrow",
+  "in a few hours"
+ ],
+ "facts": [
+  {
+   "fact": "Clay 在笼子里故意挑衅，Brawley 本来只打算和 Vesper 切磋，结果被拉成真打",
+   "anchor": "I was just supposed to spar with Vesper, but Clay decided he wanted his blood on my hands.",
+   "start": 215,
+   "end": 305
+  },
+  {
+   "fact": "Brawley 把 Clay 打到不动，但确认他还在呼吸，不会故意杀他",
+   "anchor": "I hook my arm around his neck and pivot, driving him down. His back hits the concrete hard, and I don’t hesitate. I straddle him and land one clean punch to his jaw.\n\n\nHis head snaps to the side, then he goes still.\n\n\nThe crowd thunders, and I stand slowly. My chest heaves as blood drips from my knuckles.\n\n\nClay doesn’t move. He’s still breathing, as I wouldn’t actually kill him, not on purpose—not unless he touched what’s mine. The thought alone has my bloody fingers balling into fists, ready to hurt him even more, when the rattle of the cage pulls at my attention.",
+   "start": 2267,
+   "end": 2839
+  },
+  {
+   "fact": "Nixie 跑进笼里查看 Clay 后向 Brawley 施压：Clay 要是死了她要他好看",
+   "anchor": "I carry him out of the cage, through the now open gate, needing to keep him close. Ares and Nixie rush inside to check on Clay.\n\n\n“He better not be dead, or so help me, Brawley,” she snaps on her way past.",
+   "start": 3287,
+   "end": 3492
+  },
+  {
+   "fact": "Nixie 命令所有人准备迎客，说客人马上就到、谁也不许闲站着",
+   "anchor": "“Everyone fuck off and get ready. People will start arriving any minute now, and you are all in here. You are not paid to stand around.”",
+   "start": 3726,
+   "end": 3862
+  },
+  {
+   "fact": "Brawley 抱着 Vero 撞开收容所侧门，扛着他走进 Vero 的房间",
+   "anchor": "Vero laughs as I kick the door open to the side entrance of the asylum, still carrying him wrapped around me like a fucking octopus. The hallway is dark, narrow, and exactly what the tourists pay to experience during the day. Yet at night, this place gives even me the creeps.\n\n\nThe door to his room is easy to miss if you don’t know where to look. I shoulder it open and step inside. The space is small and claustrophobic; I don’t know how he sits here at night waiting for people to run past. The walls are a sickly off-white, the paint peeling in long strips like dead skin, revealing the darker plaster underneath.",
+   "start": 4268,
+   "end": 4886
+  },
+  {
+   "fact": "Brawley 命令 Vero 去上那个「纸伤口公主」、还要 Clay 在旁边看着；Vero 只回了一句 «If she comes.»",
+   "anchor": "“When your little paper-cut princess comes to the island, I want you to fuck her while Clay watches. I will watch him lick his wounds and remind him how he lost.”\n\n\n“If she comes.”",
+   "start": 11728,
+   "end": 11908
+  },
+  {
+   "fact": "Vero 问 Brawley 是否会为他埋尸，Brawley 答自己会把那个人杀掉再埋了",
+   "anchor": "I would kill that person and bury them for you, all so you didn’t have to get your hands dirty.",
+   "start": 12237,
+   "end": 12332
+  },
+  {
+   "fact": "Brawley 决定只要 Ares 不把 Vero 牵进来，就不会死在他手上",
+   "anchor": "But as long as he leaves Vero out of it, he won’t die by my hands.",
+   "start": 16177,
+   "end": 16243
+  }
+ ]
+}

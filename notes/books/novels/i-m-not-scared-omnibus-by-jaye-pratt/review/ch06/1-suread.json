@@ -1,0 +1,77 @@
+{
+ "chapter": "ch06",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch06_chapter_6.txt",
+ "relations": [
+  "Ares【Kayla】——观察者与被观察者，关系从一开始就是单向的：“I watched her arrive hours ago on the security monitors behind the bar, the way I watch everyone who crosses the bridge.”、“Kayla didn’t hesitate, instinctively deciding she wanted to be here. She scanned the alley as she walked inside, noting the exits.”",
+  "Ares【Vero】——规则的建立者与被信任的长者：“It’s a system. Ares built most of it, actually.”；“He throws that last part at me without breaking stride, like he’s proud of it on my behalf.”",
+  "Ares【Clay】——同事与暗中提防：“Clay always gives himself away; he doesn’t sneak up.”；“The look he fires my way tells me silently that we will talk about this later.”",
+  "Vero【Brawley】——绑定的伴侣关系：“Brawley and I are a package deal.”、“You don’t get one without the other.”；Ares 评价这层关系：“Brawley doesn’t play well with others, and Clay won’t be pleased to know she’ll be back.”",
+  "Kayla【Clay】——敌对对立：“You need to leave.” → “I’m still not scared of you. You can stay in my space as long as you want—I’ve got nowhere else to be.”；同时她与 Ares/Vero 定下入仓：“Are you in or out?” → “In.”"
+ ],
+ "numbers": [
+  "hours ago",
+  "for years",
+  "a long time",
+  "a few feet away",
+  "a second",
+  "The three of us",
+  "for a second",
+  "a long moment",
+  "two headstones",
+  "the second it was over",
+  "two-for-one",
+  "one of his acts",
+  "at night",
+  "during the day"
+ ],
+ "facts": [
+  {
+   "fact": "Ares 坦白自己没有道德只有规则：同意与安全规程只是规则，他只是按规则行事",
+   "anchor": "Consent is a rule. Safety protocols are rules. I don’t break those, which makes people think I’m ethical. But I’d follow any set of rules.",
+   "start": 188,
+   "end": 326
+  },
+  {
+   "fact": "Ares 打断 Vero 的话并命他 «Stay on point.»；Vero 随后解释腕带制度并说大部分是 Ares 建的",
+   "anchor": "“Vero,” I caution.\n\n\nHe blinks at me. “What?”\n\n\n“Stay on point.”\n\n\n“Right, yes, the point is the wristband tells everyone on the island who your hunter is, what level you signed up for, and your level of consent. It’s a system. Ares built most of it, actually.”",
+   "start": 2037,
+   "end": 2298
+  },
+  {
+   "fact": "Clay 提前出现拦住 Kayla 并限她离开；Kayla 拿 «I was invited» 顶回去，Vero 举手承认是自己邀的",
+   "anchor": "“I was invited,” Kayla answers flatly before Vero or I can answer.\n\n\n“By who?” Clay demands, and Vero raises his hand with a smirk.\n\n\n“By me.”\n\n\nClay’s jaw tightens and his eyes don’t move from Kayla. “You need to leave.”\n\n\n“That would be rude. I haven’t finished my tour.”\n\n\n“I’m aware of that.”\n\n\n“Then you’re also aware that I have done nothing wrong,” she says, not raising her voice, something I know will piss Clay off. “So unless you’re planning to throw me off the bridge yourself, I’d save your energy.”\n\n\n“Don’t tempt me.”\n\n\n“Is that supposed to scare me?” She looks him over once, from top to bottom, then her eyes settle back on his face. And they stay there, clearly unimpressed. “Because you’re going to have to do a lot better than a hard stare and a poor attitude.”\n\n\n“You’ve got a big mouth for someone standing on my island.”",
+   "start": 3950,
+   "end": 4793
+  },
+  {
+   "fact": "Kayla 反击 Clay 说这不是他的岛、他只是员工；Ares 看出她已经破开了 Clay 的壳",
+   "anchor": "“Your island?” She says, taking her time to look around and then back at him. “That’s funny because I was told someone else owns this place.” She tilts her head, taunting him a little more. “So what you meant to say is, it’s not your island. You work here . . . you’re just staff.”\n\n\nClay’s entire body goes rigid, and I hide a smile because I know she has cracked his armor.",
+   "start": 4909,
+   "end": 5284
+  },
+  {
+   "fact": "Ares 扣住 Vero 的手臂阻止他插手，并说 «she didn’t need you to interfere»；Clay 最终慢慢后退离开",
+   "anchor": "Something moves across Clay’s face that I don’t often see. It isn’t rage; it’s frustration. He stares at her for a long moment, then slowly steps back. The look he fires my way tells me silently that we will talk about this later.\n\n\nThe three of us watch him leave, and I release Vero’s arm.\n\n\n“He was going to—” Vero starts.\n\n\n“I know.”\n\n\n“Then why did you grab me?”\n\n\n“Because she didn’t need you to interfere.”",
+   "start": 6954,
+   "end": 7367
+  },
+  {
+   "fact": "Vero 向 Kayla 宣告 «Brawley and I are a package deal»（不能只要其中一个）；Kayla 回应 «I don’t care»",
+   "anchor": "“Brawley and I are a package deal.” He says it the same way you would state a fact, like the sky is blue. “You don’t get one without the other. It’s not a rule anyone made up—it just is what it is. I need you to know that up front because some people find out later and they get weird about it⁠—”\n\n\n“Vero,” she interrupts.\n\n\nHe stops and faces her. “Yeah?”\n\n\n“I don’t care,” Kayla says. “I’m not here to get between whatever you two have.”",
+   "start": 8697,
+   "end": 9136
+  },
+  {
+   "fact": "Brawley 现身，一言不发走到 Vero 面前、当着 Kayla 和 Ares 吻了他，随即告诉他 «You’re done soon»",
+   "anchor": "He strides across the cemetery without a word or another look at Kayla. He simply walks in a straight line to Vero, slides a hand around the back of his neck, then pulls him in and presses his lips to Vero’s. It always fascinates me watching them, like Brawley might eat him one day.\n\n\nKayla elbows me, and I blink. She mouths, “Stop staring,” and I smile at her.\n\n\nWhen Brawley pulls back, Vero looks slightly dazed, and Brawley’s eyes finally move to me—which tells me that display was for my benefit—and then to Kayla. He gives her a quick once-over and instantly dismisses her as a threat to Vero.\n\n\n“You’re new,” he says.\n\n\n“Kayla,” she says.\n\n\n“I know.” He looks down at Vero, his hand still firmly on the back of Vero’s neck. “You’re done soon.” It isn’t a question.",
+   "start": 9606,
+   "end": 10379
+  },
+  {
+   "fact": "Vero 扣住 Kayla 的后颈问她 «Are you in or out?»，Kayla 回 «In.»；Ares 也回 «In.»",
+   "anchor": "Vero moves fast and slides a hand around the back of her neck, forcing her to look up at him. “So,” he says with a manic smile, the freaky kind he uses during one of his acts. “Are you in or out?”\n\n\nKayla holds his gaze and smiles. “In.”\n\n\n“That is what I like to hear,” he says, releasing her.\n\n\n“What about you, Ares? Are you in or out?” she asks, turning her gaze on me. “Or are you going to follow us around when I come back and mentally take notes on me?”\n\n\nShe is observant, and I am curious how this will all unfold. Brawley doesn’t play well with others, and Clay won’t be pleased to know she’ll be back.\n\n\n“In.”",
+   "start": 10932,
+   "end": 11552
+  }
+ ]
+}
