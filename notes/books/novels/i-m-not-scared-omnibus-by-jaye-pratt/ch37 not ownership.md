@@ -32,7 +32,7 @@ modified: "2026-11-11"
 **中文理解**：Aaron 说「她也爱过我」之后，Vero 给出他的爱的定义：爱不使某人属于你，不是所有权，也不意味着离开就是错——这条他刚刚才学会；你大概也以为你爱她，那是我最不信的部分，但我暂且给你——然后看看你拿它做了什么。
 **关键词**：ownership / when they leave / just learned / what you did with it
 **为什么这样写**：全书主题句由刑讯者对施虐者说出：ch16 的 mine（占有）、ch33 的 box（囚禁）被这条「非所有权」定义正面处决；I just learned that one 承认他曾经不懂——Kayla 与 Brawley 是他的老师。
-**读者视角提示**：这段是 Vero 对 ch33「I take what is buried」式 Aaron 逻辑的终审；Brawley 若在场会听到 ch12「That ass is only mine」的反面版本——清算线在此埋定。
+**读者视角提示**：这段是 Vero 对 ch33「I take what is buried」式 Aaron 逻辑的终审；Brawley 若在场会听到 ch04「That ass is only mine」的反面版本——清算线在此埋定。
 
 > **原句 4:** "“She also knows, and still she chooses to stay. Does it hurt knowing that she loves who I am, but she ran away from you?”"
 

@@ -53,7 +53,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 说我知道、我们对过全部；Clay 要她念出来；她瞪着他：「我什么都不知道」。他说好、到此为止——又补一句：你实在想知道的话，那口坟是空的。
 **关键词**：went over / Say it / know nothing / grave is empty
 **为什么这样写**：Say it 的复述仪式把 ch41 Ares 的口径内化为她自己的话；the grave is empty 一句同时是安慰与谎言（Aaron 就在里面）——Clay 用假话替她卸罪，这是全书他最温柔的一次操纵。
-**读者视角提示**：Kayla 没有追问真假，只 hold my gaze、肩膀落下——她选择接受这个版本；ch42 她说过「你知道得越少越好」，本章轮到 Clay 替她执行。
+**读者视角提示**：Kayla 没有追问真假，只 holds my gaze、肩膀落下——她选择接受这个版本；ch42 她说过「你知道得越少越好」，本章轮到 Clay 替她执行。
 
 > **原句 7:** "Then she tilts her chin up to look me straight in the eyes. “But you don’t always have to be.”"
 

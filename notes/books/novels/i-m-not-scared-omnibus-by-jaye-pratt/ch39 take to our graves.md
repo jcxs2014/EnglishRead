@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Brawley 先旁观 Clay 出气，心里已定调：轮到他时他不打算让 Aaron 活着出去；再两拳之后他接手——Clay 让开，因为两人都知道：这一案是他的。
 **关键词**：get out his anger / breathing / step in / this one is mine
-**为什么这样写**：两个男人的分工以「让」字完成：Clay 的怒有额度，Brawley 的怒有所有权（Kayla 被伤=他的案）；ch14「You touch him, you die」的语法在此转向 Aaron。
+**为什么这样写**：两个男人的分工以「让」字完成：Clay 的怒有额度，Brawley 的怒有所有权（Kayla 被伤=他的案）；ch09「You touch him, you die」的语法在此转向 Aaron。
 **读者视角提示**：breathing 的预告与最终「没杀」之间隔着 Clay 的棺材方案——文本让 Brawley 的杀意被 Clay 的计策接住，这是他们友谊的运行方式。
 
 > **原句 3:** "“You came here under a false name, so as far as anyone here knows, Luca simply moved on. And Aaron got out of prison and hasn’t been seen since.”"
@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：填土前 Brawley 对棺内说：你不配被原谅，但你要知道 Kayla 会好好的——我们会照顾好她，她再也不会想起你。希望这句话陪你到最后一口气。
 **关键词**：deserve / going to be fine / won’t think about you / last breath
 **为什么这样写**：宣判词的杀伤力不在死亡威胁而在「被遗忘」——对把 Kayla 当所有物的人，「她不会想你」是终极没收；last breath 同时是预告（窒息）也是诅咒（记住这句话）。
-**读者视角提示**：与 ch33 Aaron 的「You replaced me」构成镜像——他最怕的事被她活成日常；Brawley 替她说出了 ch35 她「有满腹问题组不成句」的部分答案。
+**读者视角提示**：与 ch33 Aaron 的「you replaced me」构成镜像——他最怕的事被她活成日常；Brawley 替她说出了 ch35 她「有满腹问题组不成句」的部分答案。
 
 > **原句 6:** "This moment is one Clay and I will take to our graves. I know he won’t tell Kayla that Aaron is buried here, and neither will I."
 

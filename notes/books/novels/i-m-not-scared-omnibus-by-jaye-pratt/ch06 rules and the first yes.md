@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Ares 在监控中看见 Kayla 进岛时没犹豫，却一边走一边留意巷道出口；他把这份警觉记在心里。
 **关键词**：didn’t hesitate / noting the exits / heightened awareness
-**为什么这样写**：把「愿意来」与「记出口」并置，避免把勇敢写成鲁莽；Ares 的 filed away 又把人当作需要分析的资料。
+**为什么这样写**：把「愿意来」与「记出口」并置，避免把勇敢写成鲁莽；Ares 的 filed her heightened awareness away 又把人当作需要分析的资料。
 **读者视角提示**：她的主动入岛和警觉可以同时成立；前者不构成对任何尚未解释的追逐活动的同意。
 
 > **原句 3:** "“Right, yes, the point is the wristband tells everyone on the island who your hunter is, what level you signed up for, and your level of consent. It’s a system. Ares built most of it, actually.”"

@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Vero 说服 Kayla 穿上小丑装：Nixie 已批准；他等这一刻「一辈子」了——更正：是等一个能陪他玩的人，而她就是那个人。做我的人。
 **关键词**：cleared / right person / Be my person
-**为什么这样写**：Be my person 从玩笑里掉出来，与 ch15「I want to keep her」同族但更朴素——他要的不是占有而是同伴；Nixie cleared 一句把游戏合法性先办妥。
+**为什么这样写**：Be my person 从玩笑里掉出来，与 ch09「I want to keep her」同族但更朴素——他要的不是占有而是同伴；Nixie has already cleared you 一句把游戏合法性先办妥。
 **读者视角提示**：Kayla 的条件是「You do not ditch me」——他答 I would never，旁白立刻补出 unless（除非其他人在场）；谎言的边界被文本当场标出。
 
 > **原句 3:** "Sure, I wasn’t myself at that moment, but if someone were to come into my territory and touch her, it would be very easy to make them have a run-in with the Scarecrow."
@@ -74,7 +74,7 @@ modified: "2026-11-11"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ditch | 甩下；丢开 | “You do not ditch me. I will not walk around like this alone.” |
-| hierarchy | 等级体系 | “There’s a hierarchy.” She scoffs. “There is not.” |
+| hierarchy | 等级体系 | “There’s a hierarchy.” |
 | short-circuits | （大脑）短路 | I move away from the door and lean against the opposite wall. When she comes out, she looks incredible, and my brain short-circuits. |
 
 ### ⭐ 常用

@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **中文理解**：恐慌中 Kayla 的嗅觉清单：烧金属、油、旧木，然后——Clay 的味道。她重复：我能闻到 Clay。
 **关键词**：burning metal / old wood / Clay / smell
-**为什么这样写**：5-4-3-2-1 着陆法的即兴变体：她的嗅觉锚点最终落在 Clay 身上（ch14「smells annoyingly good」、ch20「Why are the good-looking ones blessed with the worst personalities?」的积累）；重复句是恐慌缓解的节拍器。
+**为什么这样写**：5-4-3-2-1 着陆法的即兴变体：她的嗅觉锚点最终落在 Clay 身上（ch11「smells annoyingly good」与同章「Why are the good-looking ones blessed with the worst personalities?」的积累）；重复句是恐慌缓解的节拍器。
 **读者视角提示**：第三次恐慌（ch32 首次、ch33 失能、本章）触发物从「相似的人」升级为「血+土」的现场；她的恢复速度一次比一次快，文本在量化疗愈。
 
 > **原句 7:** "Vero walks over to Aaron and picks up a scrap of paper. He fists Aaron’s hair and pulls his head back. “Open your eyes.” Aaron’s eyes pop open, and when he sees me, I note the look he gives me, the one where he expects me to help him."

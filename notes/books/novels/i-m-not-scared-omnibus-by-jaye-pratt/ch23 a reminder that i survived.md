@@ -18,7 +18,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 问 Vero 在地板上坐了多久，他耸肩答「没多久」，反而问她：你知道吗，你睡觉会说梦话。
 **关键词**：Not that long / talk in your sleep / shrugs
 **为什么这样写**：守了一夜的人用一句瞎编的三明治把守夜说成巧合；Vero 的体贴总是以玩笑伪装，而这次连玩笑都是假数据——文本让读者看见谎言的用途。
-**读者视角提示**：对照 ch15 道具间他说的「I hate feeling like a burden」——此处他反过来替她承担而不邀功，同一动机的两面。
+**读者视角提示**：对照 ch16 里他自陈的「I hate feeling like a burden」（那晚在道具间说的）——此处他反过来替她承担而不邀功，同一动机的两面。
 
 > **原句 2:** "“We will always listen to you,” he says, getting up off the floor. I barely have time to shift over before he is on the bed beside me, pulling up the covers."
 

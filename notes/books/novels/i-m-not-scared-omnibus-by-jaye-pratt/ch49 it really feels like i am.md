@@ -18,7 +18,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 从抽屉翻出与 Aaron 的旧照（照片里的她很小），说：不敢相信我曾以为爱这个男人——边走边把照片撕成几片，丢进倒空冰箱的垃圾桶。
 **关键词**：thought I loved / tears / pieces / trash can
 **为什么这样写**：撕照片的动作与 ch45 疤的真相同日交付：照片（视觉的过去）与疤（身体的过去）分别被讲述与销毁；while walking 的连贯动作说明她不再犹豫。
-**读者视角提示**：注意时态——I thought（以为）而非 I was fooled（被骗）：她认领了当年的自己；Ares 全程只是旁观，没有替她处理——这是本章的尊重语法。
+**读者视角提示**：注意时态——她说的是「I thought I would feel weird about leaving」（以为）而非「被骗」：她认领了当年的自己；Ares 全程只是旁观，没有替她处理——这是本章的尊重语法。
 
 > **原句 2:** "“It’s strange . . . I spent so long making sure I had a place that was mine, but now I’m here and I just want to go home.”"
 
@@ -59,7 +59,7 @@ modified: "2026-11-11"
 
 **中文理解**：他把睡着的她摇醒，低声说：到家了。她睁眼微笑：生平第一次，我真的感觉「到了」。
 **关键词**：We're home / first time / really feels / I am
-**为什么这样写**：全书由「home」的时态完成收束：ch44 她 at home、ch49 她 go home、本章 she is home——最后一句省略表语，留下「I am」的存在感本身；Ares 的 whisper 与她的 smile 是两人关系的最终音量。
+**为什么这样写**：全书由「home」的时态完成收束：ch44 她 at home、ch49 她 go home、本章末句「For the first time in my life, it really feels like I am.」——最后一句省略表语，留下「I am」的存在感本身；Ares 的 whisper 与她的 smile 是两人关系的最终音量。
 **读者视角提示**：这是 Kayla 对全书所有保护、条款、口径与争吵的总答复；对照 ch15 她说「你治愈我灵魂的一部分」——本章她治愈了自己。Part Three 终章只剩 Vero/Brawley/Clay 各自的余波。
 
 ## 本章词汇

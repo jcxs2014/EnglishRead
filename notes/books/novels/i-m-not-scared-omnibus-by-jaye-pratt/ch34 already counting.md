@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Vero 在搜寻中自问：她会不会又离开我——我表现已经很好了，我保证。
 **关键词**：left me again / been good / promise
-**为什么这样写**：被弃恐惧的完整句式是儿童语法（乖=不被送走）；promise 一词同时回收 ch23「promise to try」与 ch22 条款——他把她们的承诺内化为自我考核。
+**为什么这样写**：被弃恐惧的完整句式是儿童语法（乖=不被送走）；promise 一词同时回收 ch24「promise to try」与 ch22 条款——他把她们的承诺内化为自我考核。
 **读者视角提示**：与 ch16 他怕「她走了」相比，本句新增「again」——Kayla 在 ch17 确实驱逐过他一次；创伤记忆被他编年史化。
 
 > **原句 3:** "I have no lock, but I keep you. I have no windows and hold in the dark. The air inside me is all you are given, and every breath you take is one less that remains. I was already counting before you knew to be afraid."

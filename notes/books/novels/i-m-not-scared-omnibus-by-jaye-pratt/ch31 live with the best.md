@@ -23,7 +23,7 @@ modified: "2026-11-11"
 > **原句 2:** "the only reason I told Clay she had a shitty ex was because of this whole situation. Otherwise, none of you fuckers would know about it."
 
 **中文理解**：Ares 澄清信息链：只有他知道 Kayla 有个烂前任，转告 Clay 纯粹因为当前局势——否则你们这群人谁都不会知道。
-**关键词**：only reason / told Clay / none of you would know
+**关键词**：only reason / told Clay / none of you fuckers would know
 **为什么这样写**：Ares 的自辩同时暴露他的独家持有：Kayla 只告诉过他（ch29 石墙夜）——信息层级与 ch30 末 Brawley 的「未计入变量」并置，他的位置最微妙。
 **读者视角提示**：Kayla 在 ch29 的选择（告诉 Ares 而非他人）至此产生保护与风险的双向后果；Part Three 的冲突种子在此。
 
@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：Brawley 判断 Luca 的依据：他与 Ares 相识多年，见过同款语气与肢体——正常人受惊后不会如此镇定；Luca 的每字都是精选，还加上眼神接触与安抚。
 **关键词**：tone of voice / body language / calm and collected / carefully chosen / eye contact
 **为什么这样写**：全书对 Ares 话术最精确的解剖由 Brawley 完成——他不懂术语，但认得指纹；「和 Ares 同款」既是 Luca 的罪状也是 Ares 的镜像。
-**读者视角提示**：对照 ch29 Ares 的自陈（charm as tactic）与 ch25 他对 Luca 的警告——Brawley 的现场证词首次独立证实了 Ares 的判断。
+**读者视角提示**：对照 ch29 Ares 的自陈（charm as a tactic）与 ch25 他对 Luca 的警告——Brawley 的现场证词首次独立证实了 Ares 的判断。
 
 > **原句 6:** "I offer him my hand to shake, but as he goes to take it, I shift and drive my fist into his stomach. He folds and goes back down, making a wheezing sound."
 

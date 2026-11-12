@@ -59,7 +59,7 @@ modified: "2026-11-11"
 
 **中文理解**：Ares 盘算：几小时之内，Aaron 在他们系统里的每一点痕迹都会被抹净——幸好他用的是假名，事情更容易。他懊悔没早点动手，但有一件事确定：绝不让 Kayla 为这一切担责。
 **关键词**：wiped / alias / kicking myself / take the fall
-**为什么这样写**：章末独白完成 Ares 的能力换轨：抹除从自保（cover ourselves）升为担责（no way Kayla takes the fall）；「should have done it sooner」是他对 ch39 秘密同盟的迟到补救。
+**为什么这样写**：章末独白完成 Ares 的能力换轨：抹除从自保（cover ourselves）升为担责（no way in hell Kayla will take the fall）；「should have done it sooner」是他对 ch39 秘密同盟的迟到补救。
 **读者视角提示**：「Aaron 不是岛上第一个消失的人，也不会是最后一个」——Ares 的这句内心话把 Part Three 的法律风险常态化；后续警方是否再出现，是 Part Three 剩余章节的悬念线。
 
 ## 本章词汇

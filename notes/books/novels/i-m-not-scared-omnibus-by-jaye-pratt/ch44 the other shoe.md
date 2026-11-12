@@ -45,7 +45,7 @@ modified: "2026-11-11"
 
 **中文理解**：Clay 水枪全中领了奖品，走过来把黑猫玩偶塞给 Kayla，一言不发，继续走开。
 **关键词**：hands me / says nothing / keeps walking
-**为什么这样写**：全书 Clay 式送礼的标准样本：动作完成、语言归零、姿态不等待回应——Ares 的点评（in such a Clay way / no hearts and roses anytime soon）替她翻译了这份沉默；黑猫呼应她本章的猫装。
+**为什么这样写**：全书 Clay 式送礼的标准样本：动作完成、语言归零、姿态不等待回应——Ares 的点评（in such a Clay way / hearts and roses from him anytime soon）替她翻译了这份沉默；黑猫呼应她本章的猫装。
 **读者视角提示**：与 ch40 他的 hate sex 预案对照：Clay 的情感表达全部走「行动+无台词」通道；Kayla 的「Did he just win me a prize?」说明她仍在学习这套语法。
 
 > **原句 6:** "“I didn’t think I was allowed to be happy like this. I keep waiting for the other shoe to drop.” “You’re allowed to feel however you want here.”"

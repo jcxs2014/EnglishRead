@@ -59,7 +59,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 惊呼 Clay 怎么进来的，他先嘲讽式地替她说「谢谢你救我，你又帅又棒」——用 mockery 挡掉任何深情走向。
 **关键词**：coming to my rescue / handsome and the best / mocking tone
-**为什么这样写**：Clay 的温柔只以反讽形式存在：他把自己救人的行为预先说破、说假，好让她不必道谢；这与 ch24「Don’t make this weird」同源。
+**为什么这样写**：Clay 的温柔只以反讽形式存在：他把自己救人的行为预先说破、说假，好让她不必道谢；这与 ch23「Don’t make this weird」同源。
 **读者视角提示**：Kayla 回「Yeah, that isn’t happening」并问他坐一整晚还是上床——她接住他的语法；章末「Go to sleep, Kayla」与「Thank you」的拒收见原文随后两句。
 
 ## 本章词汇

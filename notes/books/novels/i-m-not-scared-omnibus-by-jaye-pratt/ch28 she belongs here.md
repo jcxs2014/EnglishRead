@@ -80,7 +80,7 @@ modified: "2026-11-11"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| scowl | 臭脸 | “You do . . . your face is doing something. Ares, look at his face.” … “Your signature facial expression is a scowl.” |
+| scowl | 臭脸 | Your signature facial expression is a scowl. |
 | limp | 瘸腿 | “Don’t limp out of here when I’m done with you,” she fires back. |
 | wink | 眨眼示意 | Kayla laughs as she meets my eyes over his shoulder, and I wink at her. |
 

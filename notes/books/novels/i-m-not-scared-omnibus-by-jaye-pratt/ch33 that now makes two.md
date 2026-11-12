@@ -44,8 +44,8 @@ modified: "2026-11-11"
 > **原句 5:** "You’re the reason I check the locks twice. You’re the reason I moved. You’re the reason I spent years learning how to breathe again."
 
 **中文理解**：Kayla 在心里回敬：你是让我锁门两遍的人，是我搬家的人，是我花了好多年重新学会呼吸的人。
-**关键词**：locks twice / moved / years / breathing again
-**为什么这样写**：三个排比把 ch19（记出口）、ch29（孤立史）、ch32（恐慌与着陆）压缩成对她的控诉——她无法出声，思想却完整；breathing again 直接反写他的「药让你安静」。
+**关键词**：locks twice / moved / years / breathe again
+**为什么这样写**：三个排比把 ch19（记出口）、ch29（孤立史）、ch32（恐慌与着陆）压缩成对她的控诉——她无法出声，思想却完整；breathe again 直接反写他的「药让你安静」。
 **读者视角提示**：这是全书 Kayla 最锋利的内心独白，但发声失败——Part Three 她是否当面说出，是关系结算的关键。
 
 > **原句 6:** "I haven’t told Vero that I think I love him back, or told Clay I actually like him calling me his. Nor have I confided in Brawley how he makes me feel just because he loves Vero so much, and how I want him to love me with even a sliver of that intensity. And I want to tell Ares that I need him."

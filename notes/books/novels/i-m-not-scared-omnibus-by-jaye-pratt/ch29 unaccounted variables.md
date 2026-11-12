@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 交出 Aaron 史的终点：最终她没有工作、没有朋友、没有家人，所有选择被拿走太久；但现在由她决定要什么，没有别人，任何事都不能再改变这一点——她不再是那个天真小女孩。
 **关键词**：no job / choices were taken away / I get to decide / naïve little girl
-**为什么这样写**：三个 no 的清单是孤立术的成果清单；now I get to decide 与 ch17「I need my workplace to be safe」、ch23「自己做选择」构成她的自主三部曲收束。
+**为什么这样写**：三个 no 的清单是孤立术的成果清单；now I get to decide 与 ch22「I need my workplace to be safe」、ch23「自己做选择」构成她的自主三部曲收束。
 **读者视角提示**：她选择告诉 Ares 而非别人（「你会懂我」）——这句话在章末被 Ares 亲手变成风险；信息差从本章起倒挂。
 
 > **原句 7:** "God, she is impossible. I just handed her a reason to run, and all it has done is brought her closer. Kayla is stupider than I thought, or she is right, but either way, now I know her history. I can keep her close and use it to my advantage. … If I felt anything, I would hate myself for using that against her."

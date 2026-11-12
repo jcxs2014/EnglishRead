@@ -31,7 +31,7 @@ modified: "2026-11-11"
 
 **中文理解**：Vero 望着玉米地里回视他的 Cave，闪过一念：也许该去拜访他——Cave 本可以让他脑中的噪音彻底停止。
 **关键词**：paid him a visit / stopped / noise in my head
-**为什么这样写**：把自杀念头伪装成对 Cave 的「拜访」，读者需要和 Vero 一起慢半拍才能听懂——这正是发作中语言的危险形态；ch07 的「bear in the hunt」在此升级为具体对象。
+**为什么这样写**：把自杀念头伪装成对 Cave 的「拜访」，读者需要和 Vero 一起慢半拍才能听懂——这正是发作中语言的危险形态；ch08 的「bear in the hunt」在此升级为具体对象。
 **读者视角提示**：这是全书第一次出现可被读作自伤意念的句子，文本未加渲染也未回避；Vesper 随后「Grow up」的回应选择不接这个话头，是刻意的处理。
 
 > **原句 4:** "And I’m sure she meant it when she said it. But she also meant what she said at the bar. Both things can be true. You don’t get to pick one and ignore the other. That’s not how life works."
@@ -60,7 +60,7 @@ modified: "2026-11-11"
 **中文理解**：Brawley 重复「你吓到我了」，要求 Vero 跟着说；节奏加快，每一下对应一句承认——「我吓到你了」。
 **关键词**：scared me / say it / pace quickens / again
 **为什么这样写**：全书最露骨场景的核心台词是两次承认恐惧：Brawley 的惩罚语法其实是「你必须听见我害怕」；Thrust 单词成行把节奏交给身体，语言退到极限。
-**读者视角提示**：本章亲密段含露骨描写，本精读只收这一节拍句；Brawley 的「别再消失」与 ch15 的「Are you okay」同属这对伴侣的确认语法。
+**读者视角提示**：本章亲密段含露骨描写，本精读只收这一节拍句；Brawley 的「别再消失」与 ch35 他那句「Are you okay?」同属他确认「你还在」的语法——后者说给 Kayla，同一个人的两条用法。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

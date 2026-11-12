@@ -39,7 +39,7 @@ modified: "2026-11-11"
 **中文理解**：疯人院走廊尽头，Kayla 与自己的蜡像对视：看着「自己」瞪着自己是真的渗人。
 **关键词**：freaky / watching / myself / stare back
 **为什么这样写**：ch45 的蜡像梗在终章变成自我镜像装置——她「发誓它动过」的恐惧喜剧化，同时暗合全书主题：看见自己的过去（照片、疤、墓）与看见自己（蜡像）同一种惊悚；Vero 的「You made a noise—that was your first mistake.」从镜像里把她拉回追逐。
-**读者视角提示**：蜡像安置于疯人院（ch45 她拍板）至此兑现为追逐节点；「I swear it has moved, even though it’s not possible」的不可靠感知与 ch33 Cave 的「背对你时最靠近」同属岛的恐怖语法。
+**读者视角提示**：蜡像安置于疯人院（ch45 她拍板）至此兑现为追逐节点；「I swear it has, even though it’s not possible」的不可靠感知与 ch33 Cave 的「背对你时最靠近」同属岛的恐怖语法。
 
 > **原句 5:** "I won’t let him win. Breathing deeply, I compose myself, and when the gate creaks, I don’t run."
 
@@ -60,7 +60,7 @@ modified: "2026-11-11"
 **中文理解**：黑暗里 Cave 沿篱笆走来、肩上搭着一具身体，抛出第四则韵文：我是一个没有牙齿的词——恋人用我，怪物也用我；孤独者渴望我，被追者惧怕我。
 **关键词**：word with no teeth / lovers / monsters / hunted / fear
 **为什么这样写**：全书以谜语收束——谜底（scream/尖叫）把「恐惧」还给叙事本身：她不再怕的正是这个；Cave 肩上的身体与「Cave 的故事」预告把单本闭环与系列钩子焊在同一行。
-**读者视角提示**：末行 www.books2read.com 链接为提取件页码粘连（verify WARN 所指），精读与词表一律避开；Kayla 的「pry them out of my cold, dead hands」是她的终章宣言，Cave 的谜语是书的终章回声。
+**读者视角提示**：Kayla 的「pry them out of my cold, dead hands」是她的终章宣言，Cave 的谜语是书的终章回声。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -74,7 +74,7 @@ modified: "2026-11-11"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | unhindered | 无阻地 | I cut through the center of the island, trying my luck near the circus tent, making it inside unhindered. |
-| slump | 瘫倒 | Brawley finishes, Clay pushes his fingers inside me… Then I slump back into Clay’s arms. |
+| slump | 瘫倒 | Then I slump back into Clay’s arms. |
 | creaks | 吱呀作响 | I won’t let him win. Breathing deeply, I compose myself, and when the gate creaks, I don’t run. |
 
 ### ⭐ 常用

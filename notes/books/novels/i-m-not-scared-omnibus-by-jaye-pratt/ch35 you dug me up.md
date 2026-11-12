@@ -18,7 +18,7 @@ modified: "2026-11-11"
 **中文理解**：有人掀棺盖、土落下时，Kayla 惊慌中假装昏迷；直到听见 Brawley 的声音，才稍微安定。
 **关键词**：Dirt drops / feigning unconsciousness / Brawley / calms me
 **为什么这样写**：装昏迷是她的第一反应——被救瞬间仍在计算安全；Brawley 的声音被指定为「镇定剂」（对照 ch12 他的颈侧安抚、ch24 的紧急联系人），锚定关系由声音完成。
-**读者视角提示**：她「feeling fucking helpless」配合不了身体（drug 残留）——ch34 的「already counting」至此有幸存者视角的续章。
+**读者视角提示**：她（ch17 原句）「feeling fucking helpless」配合不了身体（drug 残留）——ch34 的「already counting」至此有幸存者视角的续章。
 
 > **原句 2:** "“Luca,” Ares says, voice deceptively calm. My eyes widen. “That’s Aaron.”"
 

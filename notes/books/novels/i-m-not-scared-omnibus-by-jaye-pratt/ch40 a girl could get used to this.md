@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 恨自己的第一反应竟是同情 Aaron——他植入她体内的恐惧深得她多年都在与之搏斗。
 **关键词**：first instinct / feel sorry / instilled fear / battled
-**为什么这样写**：受害者的「同情反射」被写成施虐者留下的最后一件作品：连自动反应都是他的；I hate that 的自责句式与 ch32「programmed to believe」同源。
+**为什么这样写**：受害者的「同情反射」被写成施虐者留下的最后一件作品：连自动反应都是他的；I hate that 的自责句式与 ch19「programmed to believe」同源。
 **读者视角提示**：注意时态——battled 是多年至今的完成：恐惧未愈；本章她随后说「不敢回公寓」正是同一场搏斗的现场。
 
 > **原句 3:** "“What I am trying to say, and it’s hard for me, is that I’m afraid to go back to my apartment.” The table is quiet. “I know everything with Aaron wasn’t something you signed up for. He wasn’t your problem, and I spent a lot of last night thinking about going home, but I don’t think I can do it."

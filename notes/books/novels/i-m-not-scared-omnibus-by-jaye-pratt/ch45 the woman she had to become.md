@@ -39,12 +39,12 @@ modified: "2026-11-11"
 **中文理解**：Vero 自陈：我从不是安静的人，但此刻我需要为「她不得不成为的那个女人」哀悼。Kayla 抱着他撑过全程，没有告诉他没事——他们都知道没有。
 **关键词**：quiet person / grieve / had to become / doesn’t tell me / it’s not
 **为什么这样写**：哀悼对象不是伤疤而是「被迫长成的版本」——这是全书对幸存者最尊重的表述；doesn't tell me it's okay 与 ch42 的互相赦免同语法：他们已学会不拿安慰撒谎。
-**读者视角提示**：Vero 的哭与 ch15 的发作对照：这次噪音不在场，是清醒的悲伤——文本给出他情绪光谱的新格；Kayla 的拥抱语法（hold through）回收 ch15 她对他的坐陪。
+**读者视角提示**：Vero 的哭与 ch15 的发作对照：这次噪音不在场，是清醒的悲伤——文本给出他情绪光谱的新格；Kayla 的拥抱语法（holds me through it）回收 ch15 她对他的坐陪。
 
 > **原句 5:** "“You are one of the best humans I know. The worst version of you is still better than Aaron by a long shot. You are perfect the way you are, Vero. You heal a part of me, and I’ve meant that from the first moment I said it.”"
 
 **中文理解**：Kayla 说：你是我认识的最棒的人之一——你最坏的那一版也远胜 Aaron。你本来的样子就很完美，Vero；你治愈了我的一部分，从我说出口的第一秒起就是真心的。
-**关键词**：worst version / by a long shot / perfect the way / heal a part / meant it
+**关键词**：worst version / by a long shot / perfect the way / heal a part / meant that from the first moment
 **为什么这样写**：worst version 的让步句把 Vero 的自我怀疑（ch34 发作、ch37 刑讯）全部纳入「仍远胜 Aaron」的坐标系——这是受害者对幸存伴侣的终极赦免；heal a part 回收 ch15 她亲口的原话，本章补上「从第一秒就当真」。
 **读者视角提示**：与 ch03 Vero 对 Brawley 说的「She gets me」构成三重奏：她治愈他、他治愈她、他们互为版本许可；Part Three 的关系结算在此定音。
 

@@ -39,7 +39,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 直视 Brawley，他穿过房间把手放上她的后颈——和对 Vero 做的完全一样；她整个人放松下来，呼出一口气。
 **关键词**：back of her neck / the same way / relaxes / exhales
 **为什么这样写**：Brawley 的语言极少，他的亲密语法就是这个手势——把它分给 Kayla 等于公开接纳；她的眼睛不离开（eyes don’t leave mine）说明同意先于动作。
-**读者视角提示**：ch11 她说过「wish someone would grab the back of my neck like that」——本章兑现；该手势在 ch09 曾伴随掐颈暴力，文本刻意区分两种握法。
+**读者视角提示**：ch06 她说过「wish someone would grab the back of my neck like that」——本章兑现；该手势在 ch09 曾伴随掐颈暴力，文本刻意区分两种握法。
 
 > **原句 5:** "“Please say we can have you. I promise to be good.” Kayla smiles. “Don’t make promises you can’t keep. Just promise you will try.”"
 
@@ -59,7 +59,7 @@ modified: "2026-11-11"
 
 **中文理解**：章末 Brawley 承认：Kayla 也许对 Vero 好，但感觉上，有另一个人像他一样亲近 Vero，对他自己也是好事——事情难时能有个可倾诉的人，肩上的重量会轻一大截。
 **关键词**：good for me / confide in / weight off my shoulders
-**为什么这样写**：全书最孤硬的人第一次说出 confide in——他要的不是分享伴侣而是分担守望；这与 ch15「I hate feeling like a burden」互为镜像：他终于承认自己也需要被接住。
+**为什么这样写**：全书最孤硬的人第一次说出 confide in——他要的不是分享伴侣而是分担守望；这与 ch16「I hate feeling like a burden」互为镜像：他终于承认自己也需要被接住。
 **读者视角提示**：这段为 Part Three 的 Brawley 转变埋线；他的接纳从「不讨厌你在」升级到「你需要对我有用」——仍是他的语法，但方向已变。
 
 ## 本章词汇

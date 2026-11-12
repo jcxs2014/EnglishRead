@@ -31,7 +31,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 回想操纵如何生效：赞美某件衣服开始，慢慢变成批评另一件，等她察觉时，她穿的全是他想看的——当时她对这套手法完全失明。
 **关键词**：Without realizing it / manipulation / blind
-**为什么这样写**：作者把操纵写成「不知不觉」的过程，强调其定义特征不是暴力而是渐进；这句也解释 ch19 开头 she was programmed 的来源。
+**为什么这样写**：作者把操纵写成「不知不觉」的过程，强调其定义特征不是暴力而是渐进；这句也解释 ch19 开头 programmed to believe that I could have stopped it 的来源。
 **读者视角提示**：前文（ch02）Kayla 的穿着是她的身份宣言（tits spill out, sue me）；此处揭示这套自主曾被人逐步改写——两层都是真的她。
 
 > **原句 4:** "Not because I think Vero is dangerous to me like Aaron was, but because Vero loves hard—I see it when he is with Brawley. I can’t ignore that my life was simple for the first time in so long until these men bulldozed through that so easily and quickly, waving their red flags. Though I was okay with it, since I was in control—for the first time in my life. But that night in the bar it felt like I was back with Aaron, with no control. I can’t feel like that again."

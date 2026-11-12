@@ -58,8 +58,8 @@ modified: "2026-11-11"
 > **原句 7:** "“Next time, leave my name off the fucking list. If you mess with Jess again, I will fucking kill you. That was just a taste of what death feels like.”"
 
 **中文理解**：Kayla 缓过气后，Clay 警告：下次别把他的名字写进名单，再动 Jess 就杀她——刚才那一下只是「死亡的滋味」。
-**关键词**：the list / Jess / kill you / taste of what death feels like
-**为什么这样写**：三句里第一次把动机说出口：护 Jess；但「她怎样动了 Jess」原文没有解释，威胁因此悬在一条未说明的因果上；taste of death 把刚才的扼颈定性为示范而非意外。
+**关键词**：the fucking list / Jess / kill you / taste of what death feels like
+**为什么这样写**：三句里第一次把动机说出口：护 Jess；但「她怎样动了 Jess」原文没有解释，威胁因此悬在一条未说明的因果上；taste of what death feels like 把刚才的扼颈定性为示范而非意外。
 **读者视角提示**：Jess 与 Kayla 的纠葛本章未交代（Kayla 填 Clay 名字与 Jess 有何关联，文本留白）；这是后续必须回收的悬念，别自行补全。
 
 ## 本章词汇

@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **中文理解**：Ares 描述一种人：极擅长让你觉得自己是全世界最重要的——他们的熟练来自练习，确实有效，但用在错误的理由上；Luca 就是这种。
 **关键词**：most important thing / practiced / wrong reasons / that type
-**为什么这样写**：Ares 的警告精确区分 charm（性格）与 tactic（战术），而 ch10 他自己说过「knows exactly what you need to hear」——他在指控里描述的是自己的方法；「他像我」由此坐实。
+**为什么这样写**：Ares 的警告精确区分 charm（性格）与 tactic（战术），而 ch04 他自己说过「knows exactly what you need to hear」——他在指控里描述的是自己的方法；「他像我」由此坐实。
 **读者视角提示**：Luca 尚未露面，全部信息经 Ares 转述；Kayla 的追问（And you didn’t warn Nixie?）确认 Ares 已尽责，文本不替他背书也不替他定罪。
 
 > **原句 7:** "Most people don’t. But it’s the one place my mind goes quiet and everything falls away. I only focus on what’s in front of me."

@@ -46,13 +46,13 @@ modified: "2026-11-11"
 **中文理解**：Kayla 对侦探说：Aaron 是我认识过的最控制狂的人——他花了好多年让我相信他对我的所作所为是正常的，我又花了好多年修复那道损伤；我是真的不知道他在哪，如果知道，你们会是我第一个告诉的人。
 **关键词**：controlling / normal / fixing / genuinely / first people
 **为什么这样写**：「making me believe that what he did to me was normal」一句在警局把 ch29/45 的操纵史翻译成执法语言；if I did 的条件句把她的信用押在警方手里——与 ch39 Clay 的「主动配合」逻辑同构，她已学会他们的防御语法。
-**读者视角提示**：Marsh 的 nod 与「he believes me」宣告法律线闭环；「a chapter of my life is closed」（回程句）由她亲口盖章——但 Jess 的火轮马上把叙事推向下一场冲突。
+**读者视角提示**：Marsh 的 nod 与「he believes me」宣告法律线闭环；「A chapter of my life is closed」（回程句）由她亲口盖章——但 Jess 的火轮马上把叙事推向下一场冲突。
 
 > **原句 6:** "“I don’t care if she asked, begged, or filed a request form. She is not being strapped to a flaming wheel by a man who throws knives for a living.”"
 
 **中文理解**：Clay 针对 Jess 上火焰轮的请求放话：我不在乎她是问了、求了还是递了申请单——她不能被一个以扔刀为生的人绑在烧着的轮子上。
 **关键词**：asked / begged / request form / flaming wheel / throws knives
-**为什么这样写**：asked/begged/filed a request form 的三件套是 Clay 对「同意」的极限收窄——同意在他这里不解除保护；flaming wheel 的口语命名（对比 Karo 的「spinner of death」）让恐怖有了家庭语气。
+**为什么这样写**：asked/begged/filed a request form 的三件套是 Clay 对「同意」的极限收窄——同意在他这里不解除保护；flaming wheel 的口语命名（对比 Karo 的「spinner of death」（ch26））让恐怖有了家庭语气。
 **读者视角提示**：与 ch01 他「Jess 不许上岛/你永远是十二岁」对照：本章 Jess 二十二岁主动上轮——兄妹线正式进入自主权对决；Kayla 的「He is really good at it, though」插话把辩论拉回现实评估。
 
 > **原句 7:** "“I am on the side of women being able to do what they want with their own bodies. It doesn’t matter if they’re someone’s sister or not.”"

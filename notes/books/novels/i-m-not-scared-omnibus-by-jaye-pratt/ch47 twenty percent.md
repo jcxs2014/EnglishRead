@@ -25,13 +25,13 @@ modified: "2026-11-11"
 **中文理解**：Brawley 望着 Kayla 想：她的爱或许不及我的执念深，但我说不出口的那些话她能说出口——她对待 Vero 的方式让我一天比一天更动心。Vero 也需要更柔软的触碰，而我再怎么试，也无法成为他需要的全部。
 **关键词**：obsessive / say the words / softer touch / everything he needs
 **为什么这样写**：全书最硬的人承认功能边界：他的爱（ch18 的暴力疗愈）不够、她的爱（ch15 的坐陪）补位——why choose 的正当性在此被 Brawley 亲口论证；fall for her more 是他对 Kayla 感情线的暗线主句。
-**读者视角提示**：与 ch24 他「don't actually hate having you around」对照：本章的 admiring 独白是同一情感的升级；「说不出口」与 ch46 他手写纸条（missing piece）同属他的书面/行动语法。
+**读者视角提示**：与 ch23 他「don’t actually hate having you around」对照：本章的 admiring 独白是同一情感的升级；「说不出口」与 ch46 他手写纸条（missing piece）同属他的书面/行动语法。
 
 > **原句 3:** "The time it took between when we got the lid up and knowing you were breathing felt longer than it was—seconds felt like hours. My first thoughts were how to tell Vero, whether telling him would finish him or change him. Thinking of a world without you in it was . . ."
 
 **中文理解**：Brawley 说出藏了三天的画面：掀盖到确认呼吸之间，秒像小时；他的第一念头是如何告诉 Vero——说出来会不会毁掉他或改变他；想到一个没有她的世界……他说不下去。
 **关键词**：lid up / seconds felt like hours / finish him / change him / world without you
-**为什么这样写**：开棺的三秒被拉成一小时——时间变形是创伤的标准文体；finish or change 的二选一泄露他评估风险的方式（Vero 的精神状态永远排在她生死之后一位）；省略号是他全书第一次话说一半。
+**为什么这样写**：开棺的三秒被拉成一小时——时间变形是创伤的标准文体；finish him or change him 的二选一泄露他评估风险的方式（Vero 的精神状态永远排在她生死之后一位）；省略号是他全书第一次话说一半。
 **读者视角提示**：与 ch34 Vero 的「if she is gone, I swear I won't ever breathe again」互文：两个男人在同一秒各自预演过没有她的世界；本章轮到 Brawley 交账。
 
 > **原句 4:** "“That’s why you hold everything in,” she muses aloud. “It’s easier if it’s just one of us spiraling.” “Easier for who?” she throws back at me."
