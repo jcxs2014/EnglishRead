@@ -1,0 +1,309 @@
+{
+  "chapter": 33,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/ch33 savoring her.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch33_33_savoring_her.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Sitting on the barstool, I watch Cinnamon intently as she moves around the kitchen. And I can see plainly that she is in",
+          "ok": true,
+          "pos": 26
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"I'll be patient.\" I hand her the box, offering a quick press to her lips. A promise of after. Only once she is turned a",
+          "ok": true,
+          "pos": 693
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Where did you say you lived?\" I ask, refocusing on the new information I had uncovered. \"The Truffle Apartments,\" she a",
+          "ok": true,
+          "pos": 951
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"Does the name Kale ring any bells?\" I watch her for any signs of deception. \"No, there's just Miss Clementine, Bran, an",
+          "ok": true,
+          "pos": 1353
+        },
+        {
+          "text": "She doesn't know. That a fucking Aldente lives across the hall from her. That he's been inside her house",
+          "ok": true,
+          "pos": 1606
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Oh fuck, that's hers. \"Weird,\" she comments, but doesn't linger on it",
+          "ok": true,
+          "pos": 1743
+        },
+        {
+          "text": "\"I know you said mac and cheese",
+          "ok": true,
+          "pos": 1871
+        },
+        {
+          "text": "but I felt like a bit something more too. I'm going to do a goat cheeseburger with onion jam. Sound good?\"",
+          "ok": true,
+          "pos": 1902
+        },
+        {
+          "text": "\"Yes,\" wobbles from my lips unsteadily",
+          "ok": true,
+          "pos": 2085
+        },
+        {
+          "text": "She's a fucking witch. What else can explain this? I feel like a teenager in her presence. Off kilter. Innocent. Naïve",
+          "ok": true,
+          "pos": 2123
+        },
+        {
+          "text": "My gaze drags to my busted knuckles, a reminder that this is all an illusion",
+          "ok": true,
+          "pos": 2242
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Reuben: Come up here. Orzo: No Reuben: now Orzo: Fuck you Reuben: ten minutes – don't you have info too? Orzo: You have ",
+          "ok": true,
+          "pos": 2455
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I look up to find Cinnamon now has four pans on the burners and appears to move in some dance that I cannot home to unde",
+          "ok": true,
+          "pos": 2587
+        },
+        {
+          "text": "I want to go to her, to capture her lips. Demand her attention. But it is clear to tell this is her element. That she is",
+          "ok": true,
+          "pos": 2838
+        },
+        {
+          "text": "Without another word, I head to the elevator to deal with Reuben and let him know I tracked down the last Aldente",
+          "ok": true,
+          "pos": 2984
+        }
+      ],
+      "words": 77
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 129,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "33. Savoring Her",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5,
+      6
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 593,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 70 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/ch30 my bowl is cracked the water is gone.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch30_30_my_bowl_is_cracked_the_water_is_gone.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Where is she? The only car that has pulled up to the meeting spot is an old clunker. I had her meet at a distant acquain",
+          "ok": true,
+          "pos": 54
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Crash! Not my bad luck! Not here. Not now! My head jerks forward, and I find I have somehow managed to rear end the clun",
+          "ok": true,
+          "pos": 620
+        },
+        {
+          "text": "I don't want to deal with this. I don't need Cinnamon spooked if she sees a wreck outside the meeting spot",
+          "ok": true,
+          "pos": 799
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Excuse me—\" I choke as the woman jumps and twists towards me. It's her. My throat dries, my entire world shifts and cyc",
+          "ok": true,
+          "pos": 1139
+        },
+        {
+          "text": "But this close? There's more to it than that",
+          "ok": true,
+          "pos": 1353
+        },
+        {
+          "text": "It isn't my breath that she steals, but my existence",
+          "ok": true,
+          "pos": 1530
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"So sorry! He said not to drop my crock pot, and it fell down. Just wanted to make sure it was okay.\" My mouth opens and",
+          "ok": true,
+          "pos": 1583
+        },
+        {
+          "text": "But my bowl is cracked. The water is gone. And I might quite literally be dying. Am I having a stroke",
+          "ok": true,
+          "pos": 1816
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"What about a date instead?\"",
+          "ok": true,
+          "pos": 2326
+        },
+        {
+          "text": "I offer a placating wave. \"No, I insist. I own a few restaurants, we could have dinner at one. My name is Reuben.\" I can",
+          "ok": true,
+          "pos": 2579
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"You're not a serial killer, right?\" she snaps, watching me. I choke out a laugh at the irony. \"No.\" I don't mention the",
+          "ok": true,
+          "pos": 2996
+        },
+        {
+          "text": "\"I agree, but only if I can cook us dinner.\" She narrows her eyes, and I can see the defiance in their depths",
+          "ok": true,
+          "pos": 3285
+        },
+        {
+          "text": "I don't have any allergies, and she never picked up the poison. \"Okay. I'll see you soon, Cinnamon.\" She never told me h",
+          "ok": true,
+          "pos": 3594
+        }
+      ],
+      "words": 79
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. My Bowl is Cracked. The Water is Gone.",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5,
+      6
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 763,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 70 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
