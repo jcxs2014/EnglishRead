@@ -24,7 +24,7 @@ modified: "2026-11-11"
 
 **中文理解**：Clay 穿安保背心进门，见全员盯着他，立刻宣布不穿蠢戏服；Brawley 回：这话一字不差是我原话。
 **关键词**：stupid fucking costume / literally / what I said
-**为什么这样写**：两个最抗拒的人隔着厨房互认同类——Brawley 的恶魔角与 Clay 的拒绝同框，喜剧里藏着「谁为谁破例」的对照；Vero 随后用「Just for Kayla」把两人的抵抗同时拆解。
+**为什么这样写**：两个最抗拒的人隔着厨房互认同类——Brawley 的恶魔角与 Clay 的拒绝同框，喜剧里藏着「谁为谁破例」的对照；Vero 随后用「It’s just for one night. For Kayla.」把两人的抵抗同时拆解。
 **读者视角提示**：Clay 最终接过黑色面具但没戴（「takes it but doesn’t put it on」）——他的妥协停在「收下」；对照 ch43 他为她的安全布岗——同一人，两种表达。
 
 > **原句 3:** "Vero stops beside a child staring up at the scarecrow and does the same. The child looks at Vero. “Disturbing, right?” Vero says to the child, who looks about ten."

@@ -1,0 +1,77 @@
+{
+ "chapter": "ch42",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch42_chapter_9.txt",
+ "relations": [
+  "伴侣（群落）：Kayla 与四个男人——她认定自己身后有人，并说从未想过会和四个男人有这种关系。原文：\"I have these men at my back no matter what I do, even if they don't agree with me.\" / \"It is something I never thought I would have in a relationship with one man, let alone four.\"（数字 four）",
+  "伴侣/信任：Ares 与 Kayla——Ares 要她无条件信任他，Kayla 说自己相信他会处理 Aaron 的事。原文：\"Ares asked me to trust him\" / \"I actually believe Ares when he says he will handle it.\"",
+  "伴侣：Vero 与 Kayla——她说不怕他碰她，并说感激自己的过去把她带到他身边。原文：\"I will always want you to touch me.\" / \"I'm grateful my life led me here.\"",
+  "亲属：Kayla 与她的父母——她讲十五岁时偷养狗被母亲过敏、被父亲背锅的旧事。原文：\"I wanted a pet so badly, but I hadn't thought it through. My mom is allergic to pet hair and started sneezing. She blamed my father until they found out there was a dog in my room.\"（数字 fifteen）",
+  "敌对：Vero 与 Kayla 对 Aaron——Vero 承认用纸割想让账，却数不清割了多少，并承认抵不掉 Aaron 做过的事；Aaron 自出狱起就在策划。原文：\"I wanted to make it even with what he did to you.\" / \"how many paper cuts it takes to kill a man\" / \"Aaron was planning this since he was released from prison.\""
+ ],
+ "numbers": [
+  "c4HW",
+  "Chapter Nine",
+  "a second",
+  "three in the morning",
+  "both",
+  "one",
+  "one hundred percent",
+  "once",
+  "two",
+  "three",
+  "four",
+  "fifteen",
+  "half",
+  "tonight"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 跟 Ares 骑车回岛，努力不去想警察已经知道 Aaron 失踪的事，那件事像水泥块一样压在她胸口。",
+   "anchor": "I try not to focus on the fact that the cops know Aaron is missing, but it sits heavy in my chest like a cement block.",
+   "start": 141,
+   "end": 259
+  },
+  {
+   "fact": "Kayla 在后门台阶上发现异常平静的 Vero，他形容自己的状态是 Brawley 所说的「the in-between」。",
+   "anchor": "My brain has gone quiet but won’t switch off. Brawley calls it the in-between.",
+   "start": 1668,
+   "end": 1746
+  },
+  {
+   "fact": "Vero 问 Kayla 棺材里是什么感觉——这是第一个直接这样问她的人；她描述黑暗、逼仄，以及木头同时压住两条胳膊。",
+   "anchor": "What was it like in the coffin?",
+   "start": 2440,
+   "end": 2471
+  },
+  {
+   "fact": "Vero 说自己本该跟她一起去，Kayla 回答没人可能知道，并说 Aaron 自出狱起就在策划这件事，过错只在他。",
+   "anchor": "Nobody could have known. Aaron was planning this since he was released from prison. It’s no one’s fault but his.",
+   "start": 3551,
+   "end": 3663
+  },
+  {
+   "fact": "Kayla 说出自己的恐慌发作是被 Aaron 在交往期间「训练」掉的；她说在棚屋里 Cipher 只是平静地说了出来，没人让她觉得自己蠢，而 Vero 是开口问、不是直接动手碰她。",
+   "anchor": "Aaron had trained me out of them while we were together, which sounds like a good thing, but it wasn’t.",
+   "start": 4268,
+   "end": 4371
+  },
+  {
+   "fact": "Vero 承认自己曾想用纸割数量替 Kayla 找补、结果割到数不清，并承认那永远抵不掉 Aaron 做过的事。",
+   "anchor": "I wanted to make it even with what he did to you.",
+   "start": 5586,
+   "end": 5635
+  },
+  {
+   "fact": "Kayla 说自己现在的感受是解脱而不是哀悼——终于结束了；她还说不因为他的过去而来到他身边而变成坏人。",
+   "anchor": "it’s almost a relief that it’s over. Really, finally over.",
+   "start": 6075,
+   "end": 6133
+  },
+  {
+   "fact": "Brawley 向 Kayla 保证他们永远会护住她、无论各人之间红旗如何，他们都会有她的后盾；Kayla 由此决心不再放开他们。",
+   "anchor": "the one thing I can promise is that we will have your back.",
+   "start": 9188,
+   "end": 9247
+  }
+ ]
+}

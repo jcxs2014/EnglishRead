@@ -1,0 +1,295 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/ch14 our person.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch14_chapter_14.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“She was in my bed again.” Ares selects the right words to use in a measured tone. He always fucking does this, and we l",
+          "ok": true,
+          "pos": 1503
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Because this morning she walked out of your room looking like she wanted to put her fist through a wall,” I say, gritti",
+          "ok": true,
+          "pos": 2101
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“She is not an isolated incident.” Vero’s voice cracks. “She is a person, and she is our person.” He says our and not hi",
+          "ok": true,
+          "pos": 3128
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“No, you won’t. Not until you figure out what you really want to say to her—not this bullshit you hide behind. Rehearsed",
+          "ok": true,
+          "pos": 3965
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Deny it all you like, but if Kayla didn’t call to you, there is no way you would have agreed to wear that wristband",
+          "ok": true,
+          "pos": 4842
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The woman about to come out that door, you are going to forget her name, her face, and that this bar even exists. You a",
+          "ok": true,
+          "pos": 9359
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“You have told me to leave, have tightened your hand around my throat and almost killed me. You took me to breakfast, pu",
+          "ok": true,
+          "pos": 13062
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Friendships don’t end when shit gets hard, Clay. Take me with you.”",
+          "ok": true,
+          "pos": 14410
+        }
+      ],
+      "words": 12
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.25
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.37
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Fourteen（Part One）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      6,
+      8
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2941,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 49 章中位 7、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "chapter": "ch27",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch27_chapter_11.txt",
+ "relations": [
+  "Clay 与 Kayla：Clay 说“I have already done it”（已认领），Kayla 承认“I’m his, and I think I’m okay with that fact”；Clay 要她“Trust your instincts and never doubt yourself”，并声明若有人伤她“I will kill them”，Kayla 划线说“You can’t hurt someone on my behalf”。",
+  "Clay 与 Vero / Brawley：Clay 要求 Kayla 对 Vero 和 Brawley 保密（“I need you not to say anything to Vero or Brawley tonight”），理由是“Vero has just come out of an episode”、且“Brawley can’t keep a fucking secret to save his life when it comes to Vero”。",
+  "Clay 与家人：Clay 有两个妹妹 Jess 和 Meeka（“I know you have two sisters”“My other sister’s name is Meeka”），Meeka 比 Jess 大、比 Clay 小；父亲独自带大三个孩子，母亲已去世，Clay 从小“I took on the parent role”。",
+  "Clay 与两个妹妹的差别：Jess 更鲁莽（“she doesn’t think before she acts”）且知道 Clay 夜里的差事（“my kinky little night chases”），Meeka 更谨慎但更不吭声（“she isn’t as vocal as Jess if she has a problem”），Clay 最担心的是 Meeka 那种沉默。",
+  "Kayla 与 Aaron：分手近三年仍被其影响（“It’s been three years almost to the day that I left Aaron, yet he still gets inside my head”）；Kayla 与楼下 Mabel 则是她“never wanted but the universe granted me”的祖母式存在，Mabel 夜里一直等到她回家。"
+ ],
+ "numbers": [
+  "a long night",
+  "three years almost to the day",
+  "a minute to open the door",
+  "the first knock",
+  "a seven-hour shift",
+  "two sisters",
+  "three kids",
+  "basically twelve",
+  "this time of year"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 下班回到自己的 loft，察觉有人来过——她记得没关的窗现在关着、浴室门开着，但屋里无人也无物动过；她的第一反应是Aaron式联想（“It’s been three years almost to the day that I left Aaron”）。",
+   "anchor": "but I know someone has been inside my loft.",
+   "start": 531,
+   "end": 574
+  },
+  {
+   "fact": "她下楼敲 Mabel 的门询问是否有人来过，得到的回答是“No, is everything okay?”，Kayla 只能以“我 just thought I left a window open”收场；Mabel 夜里通常一直等到她回家。",
+   "anchor": "Sorry to bother you, but has anyone been in my loft today?",
+   "start": 1399,
+   "end": 1457
+  },
+  {
+   "fact": "回楼后 Kayla 看到餐桌旁的椅子被推进桌下，“The chair at the table is pushed in perfectly, but I never push it back in.”，由此确认确实有人进过；她放弃打给 Vero（怕他 spiral），改拨 Clay，因为“he is no bullshit”。",
+   "anchor": "The chair at the table is pushed in perfectly, but I never push it back in.",
+   "start": 1781,
+   "end": 1856
+  },
+  {
+   "fact": "Clay 赶来把整个 loft 走了一遍，从床下滑出一样东西：“Nothing, just a piece of broken chalk.”；Kayla 因此觉得自己为一把椅子大呼小叫很蠢。",
+   "anchor": "Nothing, just a piece of broken chalk.",
+   "start": 3482,
+   "end": 3520
+  },
+  {
+   "fact": "Clay 安排她当晚跟自己去岛上，说要“check the place properly”而现在办不到、“There could be bugs”；Kayla 反驳后他澄清“Not those kinds of bugs—I mean listening devices”，并要她先回去拿设备，同时在车上要求她对 Vero 和 Brawley 保密。",
+   "anchor": "Not those kinds of bugs—I mean listening devices.",
+   "start": 4036,
+   "end": 4085
+  },
+  {
+   "fact": "Clay 追问她异常是否与时令有关（“What time of year?”），Kayla 心里恐慌——“It's not that I don’t want to tell him—I can’t”，她只说“I’m not ready.”，Clay 点头不再逼问；本章她始终未说出原因。",
+   "anchor": "I’m not ready.",
+   "start": 5156,
+   "end": 5170
+  },
+  {
+   "fact": "在 Clay 房间，Kayla 推开他没关严的浴室门一起洗澡并发生关系，全程“keep my eyes locked on his”；她说“I never expected to feel safe with him, but I do”，并承认“I’m his, and I think I’m okay with that fact.”",
+   "anchor": "I’m his, and I think I’m okay with that fact.",
+   "start": 10728,
+   "end": 10773
+  },
+  {
+   "fact": "Kayla 说既然被认领就该更了解他，问出 Clay 有两个妹妹，另一个叫 Meeka、比 Jess 大比 Clay 小；Clay 讲父亲独自带大三个孩子、自己从小当爹，母亲已去世，并说 Jess 叫他“my kinky little night chases”而 Meeka 只知道白天发生的事，他怕她们告诉父亲。",
+   "anchor": "My other sister’s name is Meeka.",
+   "start": 12082,
+   "end": 12114
+  }
+ ]
+}

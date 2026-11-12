@@ -1,0 +1,82 @@
+{
+ "chapter": "ch32",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch32_chapter_16.txt",
+ "relations": [
+  "Aaron — Kayla’s ex and the man she fled; the look-alike in the bar triggers her panic: “I thought I was past this—it’s been a year since the last one.”; “I’m glad I forgave him and didn’t let my past with Aaron ruin it for me.”",
+  "Vero — Kayla’s lover: “I am now because you’re here,” I tell him.; “Meeting him was hands down the best thing that has ever happened to me.”; “This is why I love you.”",
+  "Doren — Kayla’s bar coworker and friend who grounds her and covers her shift: “You’re a tough bitch, Kayla. You’ll be okay. Did you want me to tell Rogue?”; “Everything seems normal, thanks to Doren not treating me like I’m fragile.”",
+  "Bianca — Kayla’s colleague at The Pit who orders her to take a break: “Kayla,” Bianca says, her hand coming down on my shoulder.; “Go out the back and take a break.”",
+  "Rogue — someone close to Kayla whom she does not want told about the panic attack: “Did you want me to tell Rogue?”; “Good choice, she would mother-hen you.”"
+ ],
+ "numbers": [
+  "Chapter Sixteen",
+  "a Wednesday night",
+  "a few months",
+  "this weekend",
+  "exactly a year ago",
+  "One, two, three",
+  "nine",
+  "Five things",
+  "Four things I can touch",
+  "Three things I can hear",
+  "Two things I can smell",
+  "One thing I can taste",
+  "another five",
+  "Five minutes",
+  "Six would be good",
+  "twelve",
+  "at midnight",
+  "Three more minutes",
+  "fifteen minutes"
+ ],
+ "facts": [
+  {
+   "fact": "At the bar Kayla sees a man who resembles Aaron and panics, but the man is older than Aaron and is not him",
+   "anchor": "I see that the man standing there isn’t him; he is older than Aaron, though he looks remarkably similar.",
+   "start": 1630,
+   "end": 1734
+  },
+  {
+   "fact": "Kayla has a full panic attack and collapses on the crates beside the fire exit",
+   "anchor": "I make it as far as a stack of crates beside the fire exit before I collapse on one of them and drop my head in my hands.",
+   "start": 2666,
+   "end": 2787
+  },
+  {
+   "fact": "Doren talks Kayla down with a 5-4-3-2-1 grounding exercise until she can take a full breath",
+   "anchor": "Three things I can hear. The music from the bar, the old-ass fridge, and you breathing annoyingly calm.",
+   "start": 4058,
+   "end": 4161
+  },
+  {
+   "fact": "Kayla repeats the mantra that Aaron is not here and has been in prison for years, talking herself into believing it",
+   "anchor": "He has been in prison for years.",
+   "start": 4666,
+   "end": 4698
+  },
+  {
+   "fact": "Doren offers to tell Rogue; Kayla refuses because Rogue would mother-hen her, and Doren agrees to cover her for five minutes",
+   "anchor": "“Good choice, she would mother-hen you. Stay here for another five and I will cover you.”",
+   "start": 5860,
+   "end": 5949
+  },
+  {
+   "fact": "Kayla reveals the one childhood fear she cannot shake — the bear hunt song — and that she still does not know how Vero knew about it",
+   "anchor": "Only that fucking bear hunt song freaks me out, and I still don’t know how Vero even knew about it.",
+   "start": 5066,
+   "end": 5165
+  },
+  {
+   "fact": "Vero pitches Kayla a paper-cut based business; he quotes Banks rejecting it on liability grounds",
+   "anchor": "I pitched it to Banks, and he said, and I am quoting him directly, ‘I have concerns about the liability exposure.’",
+   "start": 9361,
+   "end": 9475
+  },
+  {
+   "fact": "Kayla closes the chapter saying meeting Vero was the best thing that has ever happened to her and that she forgave him",
+   "anchor": "Though it was a little rocky there for a minute, I’m glad I forgave him and didn’t let my past with Aaron ruin it for me.",
+   "start": 12237,
+   "end": 12358
+  }
+ ]
+}

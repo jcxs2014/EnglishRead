@@ -1,0 +1,73 @@
+{
+ "chapter": "ch15",
+ "text": "text/ch15_chapter_15.txt",
+ "relations": [
+  "Vero 与 Brawley 是恋人：原文「“I think I do fucking love you, I do, but I am so in love with Brawley I can’t see straight.」",
+  "Kayla 与 Vero 从朋友变为亲密陪伴（Vero 说只有她留下）：原文「You just stay. I have never had that with anyone before.」与 Kayla 的「“No. I would never want you to leave. Not for any reason.”」",
+  "Brawley 与 Vero 是同住同伴，并负责在 Vero 发作时「Ring, now」：原文「“Ring, now,” Brawley demands.」与「“This is how we do it,” Brawley says.”",
+  "Clay 与 Kayla 是同伴，Vero 发作时站在她身后要她「Let them do it their way」：原文「“Kayla.” Clay’s voice comes from behind me, and I turn to see he is standing a few feet back. “Let them do it their way.”」",
+  "Ares 与 Vero 是同伴，注意到 Vero 剃短头发时把目光转向 Kayla：原文「Ares is already there when we arrive, standing inside the cage door with his arms folded. He looks at Vero, and the moment he notices his lack of hair, his eyes shift briefly to me.」"
+ ],
+ "numbers": [
+  "one of his eyes peers out at me",
+  "I have been cutting my own hair since I was sixteen",
+  "then back at Brawley, nodding once",
+  "he is standing a few feet back",
+  "He presses two fingers to his temples",
+  "before he hits himself a third time",
+  "one of the hardest things I have ever had to watch",
+  "It goes on for a few more minutes",
+  "his forehead presses against one of my thighs",
+  "one hand resting on the back of his head"
+ ],
+ "facts": [
+  {
+   "fact": "Brawley 列出已搜地点（疯人院、房间、酒吧、墓地、玉米地外围），Kayla 坚持同来并提议分头寻找",
+   "anchor": "“The asylum, his room, the bar, the cemetery, and the cornfield perimeter.",
+   "start": 755,
+   "end": 829
+  },
+  {
+   "fact": "Kayla 在大帐篷舞台底部的门把手上试门，发现门是从里面反锁的",
+   "anchor": "as I crouch down and try the handle, I find that it’s locked from the inside.",
+   "start": 1754,
+   "end": 1831
+  },
+  {
+   "fact": "Kayla 透过门缝看到 Vero 用剪刀剪掉自己大部分头发",
+   "anchor": "I glimpse enough of him through the crack to realize that he has cut off most of his hair. It is now patchy and chunks are missing close to the scalp. He is holding scissors in his hand.",
+   "start": 2372,
+   "end": 2558
+  },
+  {
+   "fact": "Vero 解释自己发作时会拔头发、痛到只能剪掉，剪完还觉得「It looks so bad」",
+   "anchor": "“I pull my hair,” he says, “when I get like this, and it hurts. It hurts so fucking bad. I couldn’t stop pulling it, so I had to cut it off . . . I had to.”",
+   "start": 2961,
+   "end": 3117
+  },
+  {
+   "fact": "Kayla 接过剪刀把剩下的头发剪齐，并承诺回 house 给他剃干净",
+   "anchor": "“I’m going to cut the rest to even it out, then we can go back to the house. There we will shave it, so it looks good.”",
+   "start": 3324,
+   "end": 3443
+  },
+  {
+   "fact": "Brawley 命令 Vero「Ring, now」开打，Kayla 反对并被 Clay 从后抱住，Vero 点头后 Kayla 只好接受他们的做法",
+   "anchor": "I look at Brawley and then at Vero, who gives me a small nod. I don’t fucking like it, not even a little, but if this is how they do things, I can’t argue.",
+   "start": 5585,
+   "end": 5740
+  },
+  {
+   "fact": "打完架后 Kayla 挣脱 Clay 冲进笼子，挤开 Brawley 找到嘴角带血的 Vero",
+   "anchor": "I push out of Clay’s arms, and this time he lets me go, so I race through the cage door. Shoulder-checking Brawley so he lets me closer, I elbow my way in, and Vero looks at me with blood on his lip, his eyes now clearer.",
+   "start": 7527,
+   "end": 7748
+  },
+  {
+   "fact": "Vero 在浴室里用拳头砸自己的头，Kayla 在他第三次之前抓住他的手腕阻止；Vero 随后承认自己深爱 Brawley，并说只有 Kayla 会留下",
+   "anchor": "“Vero.” I reach out and catch his wrist before he hits himself a third time. “Please don’t leave. Talk to me.”",
+   "start": 8558,
+   "end": 8668
+  }
+ ]
+}

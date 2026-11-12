@@ -1,0 +1,70 @@
+{
+ "chapter": "ch24",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch24_chapter_8.txt",
+ "relations": [
+  "Brawley 与 Vero：伴侣，Vero 只把他登记为唯一紧急联系人（原文 “he listed you as his emergency contact. Only you.”；“I love the way that feels.”）",
+  "Brawley 与 Kayla：由占有欲转为接纳并确立三人关系（原文 “She belongs to us.”；“I will make sure what happened at the bar never happens again, you have my word.”）",
+  "Vero 与 Kayla：伴侣式的相互滋养，Vero 依赖她的在场（原文 “Tell me we can keep her. She is perfect for us.”；“he heals a part of my soul every time we are together”）",
+  "Clay 与 Kayla：嘴上装作她什么都不是，其实已被她影响（原文 “as much as Clay likes to pretend she means nothing, she has gotten under his skin.”）",
+  "Ares 与 Kayla：自认要把她研究透彻，Brawley 点破这意味着他在乎（原文 “Ares has convinced himself that she is someone he needs to figure out, but what he doesn’t or can’t understand is that in Ares-land, it means he cares.”）"
+ ],
+ "numbers": [
+  "a few days",
+  "four days",
+  "two hours",
+  "seven minutes",
+  "did it once",
+  "the two of them",
+  "the three of us"
+ ],
+ "facts": [
+  {
+   "fact": "Brawley 看到 Kayla 在沙发上教 Vero 钩毛线，看不下去，决定趁夜色去绕岛跑一圈；跑过 freak museum 时撞见坐在翻倒木箱上的 Banks",
+   "anchor": "Right now, they are on the couch, and she is teaching Vero how to crochet. It is the single most boring thing I have witnessed in my entire life.",
+   "start": 573,
+   "end": 718
+  },
+  {
+   "fact": "Brawley 质问 Banks 给 Vero 植入了什么，Banks 答 “Just a tiny GPS tracker”，说明用途是让 Brawley 能找到他、避免他再次伤到别人",
+   "anchor": "“Just a tiny GPS tracker. He wants you to be able to find him so he doesn’t hurt anyone again.”",
+   "start": 2210,
+   "end": 2305
+  },
+  {
+   "fact": "Banks 补充这东西同时是微芯片，而 Vero 把 Brawley 列为唯一紧急联系人：“Only you.”，Brawley 听后用手抹了脸",
+   "anchor": "“It also acts as a microchip, and he listed you as his emergency contact. Only you.”",
+   "start": 2386,
+   "end": 2470
+  },
+  {
+   "fact": "Banks 说 Kayla 跟着 Vero 来过，并在他的博物馆里待了 two hours——Vero 一直讲要怎么把她身上的纹身取下来，而她只是看、不问也不碰任何东西；他还判断她走路小心、进每间房都先记出口",
+   "anchor": "Then she sat in my museum for two hours, while he went on about capturing her tattoos right, and she looked at everything.",
+   "start": 2896,
+   "end": 3018
+  },
+  {
+   "fact": "Brawley 回屋后发现一地毛线，上楼看见 Kayla 骑坐在 Vero 腿上；Kayla 说 Vero 在他走后只撑了 “about seven minutes” 就宣布无聊、开始编绳套，还把绳套往脖子上套，Vero 辩解那 “is just a big knot”",
+   "anchor": "“He lasted about seven minutes after you left, then announced he was bored and started trying to make a noose.”",
+   "start": 4496,
+   "end": 4607
+  },
+  {
+   "fact": "三人上床后 Vero 请求 “Tell me we can keep her. She is perfect for us.”；Kayla 不要他乱保证，只要他 “Just promise you will try.”，Brawley 随即向 Vero 承诺 “I promise to try”",
+   "anchor": "Don’t make promises you can’t keep. Just promise you will try.",
+   "start": 6336,
+   "end": 6398
+  },
+  {
+   "fact": "Kayla 主动亲吻 Brawley，Brawley 承认自己从没让被他上过的女人亲过他、那部分只留给 Vero，但 “she makes me want to give it to her too”，事后他断言 “She belongs to us.” 并不许外人看到她这样",
+   "anchor": "Never have I let a woman we fuck kiss me before now. There is something intimate about the action, and I refuse to allow anyone but Vero to have that part of me. Yet somehow she makes me want to give it to her too.",
+   "start": 7163,
+   "end": 7377
+  },
+  {
+   "fact": "Vero 睡着后 Kayla 说原谅他：“I don’t understand why people don’t like him—he is authentically himself, and I love that about him”，并说 “he heals a part of my soul every time we are together”；Brawley 承诺酒吧的事不会再发生，Kayla 说 “the sex—that’s a bonus”",
+   "anchor": "It’s hard not to forgive him. I don’t understand why people don’t like him—he is authentically himself, and I love that about him. And I really meant it when I said he heals a part of my soul every time we are together.",
+   "start": 12807,
+   "end": 13026
+  }
+ ]
+}

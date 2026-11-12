@@ -1,0 +1,78 @@
+{
+ "chapter": "ch38",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch38_chapter_5.txt",
+ "relations": [
+  "Kayla 与 Brawley：伴侣（同居同睡）——「Waking up in Brawley’s arms is hard when Vero isn’t here with us」；Brawley 把她搂进怀里「He pulls me into his chest and tucks my head under his chin」",
+  "Brawley 与 Vero：伴侣（恋人，且是唯一懂 Vero 状态的人）——Brawley 说「When he gets like this, I always know what to do for him.」「he is going to need you to be in one piece」",
+  "Vero 与 Kayla：恋人/被救者——重逢时 Vero 喊「Paper-cut princess!」并说「You’re okay. I knew you were okay.」",
+  "Ares 与 Kayla：同伴兼照料者——Ares 替她从公寓取衣「Thankfully, Ares went and got me some from my apartment」，并在她恐慌时握住她的手说「He won’t ever hurt you again.」",
+  "Cave 与 Cipher：被 Vero 认定有性关系的两人——「Cave storms over and grabs Cipher and throws him over his shoulder.」，Vero 断言「Those two are for sure banging. Neither confirmed it, but the sexual tension is there.」"
+ ],
+ "numbers": [
+  "Chapter Five",
+  "Three days Vero has been missing",
+  "a few minutes ago",
+  "most of the night",
+  "one piece",
+  "three days",
+  "two",
+  "a hundred times",
+  "one person",
+  "one point seven square meters",
+  "three days together now",
+  "one last look",
+  "one more thing",
+  "no one would think to look",
+  "Three days"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 已失踪「Three days」，Kayla 反复回放监控，画面始终显示他精准地走出了镜头视野",
+   "anchor": "He slips out of the camera’s view, clearly knowing exactly what he’s doing.",
+   "start": 189,
+   "end": 264
+  },
+  {
+   "fact": "Brawley 承认自己不知道这次该怎么处理（以往总知道怎么把 Vero 拉回来），Kayla 解释 Vero 摘掉了自己的 microchip，只能等他自己回来",
+   "anchor": "He removed his microchip, which means he doesn’t want to be found.",
+   "start": 1534,
+   "end": 1600
+  },
+  {
+   "fact": "Kayla 因 Cipher 点了单人份却拿走大量餐食而注意到他，Clay 由此说出 Cipher 独居、平日只待在住宅区后面自己的棚屋里修东西",
+   "anchor": "He ordered a lot of food for one person, so I figured he must live with someone.",
+   "start": 6364,
+   "end": 6444
+  },
+  {
+   "fact": "Clay 指出 Cipher 的棚屋在监控死区之外，又不在 Khodi 打扫过的路线上，所以搜救从未查过那里",
+   "anchor": "It sits just outside the dead zone",
+   "start": 7354,
+   "end": 7388
+  },
+  {
+   "fact": "一行人在棚屋外听见疯笑声与 Vero 的说话声；推门进去见 Vero 拿着纸片在凳子上旋转，Cipher 背对众人站在工作台前，Cave 坐墙角，Aaron 被绑",
+   "anchor": "Vero is in the center of the room, holding a piece of paper and spinning around on a stool.",
+   "start": 9659,
+   "end": 9750
+  },
+  {
+   "fact": "Vero 看见 Brawley 后扔掉纸片扑上去抱紧他，并高喊「Paper-cut princess!」；Kayla 拥抱后发现双手湿红全是血，随即恐慌发作",
+   "anchor": "Paper-cut princess!",
+   "start": 10025,
+   "end": 10044
+  },
+  {
+   "fact": "Ares 当场揭穿被抓者的真名：他不是 Luca，而是 Aaron",
+   "anchor": "His real name is Aaron.",
+   "start": 11741,
+   "end": 11764
+  },
+  {
+   "fact": "临走前 Vero 揪住 Aaron 的头发逼他睁眼，告诉他「you will never see her again」，随后一刀纸片划在他脸上",
+   "anchor": "Take one last look, because you will never see her again.",
+   "start": 13038,
+   "end": 13095
+  }
+ ]
+}

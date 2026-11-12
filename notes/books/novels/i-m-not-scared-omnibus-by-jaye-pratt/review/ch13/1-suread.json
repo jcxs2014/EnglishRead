@@ -1,0 +1,70 @@
+{
+ "chapter": "ch13",
+ "text": "text/ch13_chapter_13.txt",
+ "relations": [
+  "Clay 与 Kayla 是兄妹（Clay 为保护妹妹出手）：原文「He places the phone face down next to his cup of coffee. “I can’t let him get away with hurting my sister.”」",
+  "Clay 公开宣称对 Kayla 的占有（否认恋人身份却宣布她是他的）：原文「“She isn’t my girlfriend.” One more step and Kyle is now pressed against the wall of his building with nowhere to go. Clay’s voice is almost pleasant. “But she’s mine.」",
+  "Kayla 与 Kyle 是前任且已彻底敌对：原文「a man who cheated on me, lied about me to his new girlfriend, and then sent her to harass me at work」；Clay 的条件是「You are going to call off whatever you have going on with Jess. Today.”」",
+  "Clay 对 Kyle 动拳（敌对/施暴关系）：原文「Clay hits him once, and Kyle folds, going down beside his gym bag.」",
+  "Kayla 与 Ares 发生一夜情人关系（Ares 事后否认其意义）：原文「This is the second time I have woken up in here」与「He eases himself inside me, and I stutter out a breath at the sheer size of him—Vero was not exaggerating.」"
+ ],
+ "numbers": [
+  "This is the second time I have woken up in here",
+  "about twenty minutes away from the island",
+  "You are going to call off whatever you have going on with Jess. Today.",
+  "Clay hits him once",
+  "I take one last look at him sitting on the edge of his bed",
+  "One more step and Kyle is now pressed against the wall of his building",
+  "I have had some weird one-night stands"
+ ],
+ "facts": [
+  {
+   "fact": "Ares 前一晚为 Kayla 处理肋部伤口并让她睡觉，承诺她醒来后送她回家",
+   "anchor": "he was sitting on the bed with a first aid kit open beside him. He cleaned the wound on my ribs as I yawned, then after he was done, he pulled back the covers and told me to get some sleep.",
+   "start": 350,
+   "end": 539
+  },
+  {
+   "fact": "Kayla 摸到 Ares 下颌的淡疤，Ares 立刻睁眼，两人随即接吻并发生关系",
+   "anchor": "The tips of my fingers run along his skin, and Ares’s eyes fly open.",
+   "start": 1541,
+   "end": 1609
+  },
+  {
+   "fact": "事后 Ares 重新筑起心墙，把这次关系称为「a physical response was statistically likely」，并说「It doesn’t have to be complicated」",
+   "anchor": "“An inevitable conclusion to the circumstances.” I stare at the back of his head. “We have been in close proximity, and a physical response was statistically likely.”",
+   "start": 3805,
+   "end": 3971
+  },
+  {
+   "fact": "Clay 承认自己在手机里查 Kyle 的住址、行程和 Nixie 的名字，并说「I can’t let him get away with hurting my sister」，把这次去公寓定性为「A gentle warning」",
+   "anchor": "He angles the screen away when he notices me looking, but it’s too late. He places the phone face down next to his cup of coffee. “I can’t let him get away with hurting my sister.”",
+   "start": 6635,
+   "end": 6815
+  },
+  {
+   "fact": "Clay 拒绝 Kayla 同行，Kayla 坚持一起去并威胁自己下车",
+   "anchor": "“Clay, I’m coming,” I repeat more forcefully. “And before you tell me to stay in the car, if you leave me there, I will just get out.”",
+   "start": 7459,
+   "end": 7593
+  },
+  {
+   "fact": "Clay 在 Kyle 公寓楼外打了他一拳让他倒地，随后蹲下逼他当场断掉 Jess、不许再接近 Kayla，Kyle 点头",
+   "anchor": "Clay hits him once, and Kyle folds, going down beside his gym bag.",
+   "start": 9722,
+   "end": 9788
+  },
+  {
+   "fact": "Clay 否认 Kayla 是自己女友，却当着 Kyle 的面宣布「she’s mine」，把 Kayla 说成自己所有物",
+   "anchor": "Clay’s voice is almost pleasant. “But she’s mine.",
+   "start": 9409,
+   "end": 9458
+  },
+  {
+   "fact": "上车后 Clay 问 Kayla 今晚几点下班（关系从互呛转向实际安排）",
+   "anchor": "“What time does your shift end tonight?”",
+   "start": 10613,
+   "end": 10653
+  }
+ ]
+}

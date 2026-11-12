@@ -1,0 +1,93 @@
+{
+ "chapter": "ch21",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch21_chapter_5.txt",
+ "relations": [
+  "上下级：Rogue 是 Kayla 的老板，「Thankfully, Rogue is letting me come back to work tonight.」，并允许她「Rogue lets me clock off at midnight」后立刻去岛上。",
+  "同事／帮手：Marco 是「our delivery driver」，把自己车和钥匙交给 Kayla（「I do.” …「I’m done for the night, just have her back here by morning.”」），Bruce 帮她推车门上锁；Mabel 替她把花转给 book club 的朋友（“her friends from the book club”）。",
+  "追捕／敌对：Clay、Vero、Ares、Brawley 四人「one by one they put their masks on」后追她，Brawley 抓住她下巴下最后通牒「Are you going to fuck right back off to where you came from, Double P, or are you going to run?」。",
+  "内部一致对外：Brawley 明说「my loyalty is with them」，同时指出「You told us to get the fuck out of your life yet here you are back in ours」；Clay 附和「You could have just thrown them in the garbage, but you came here instead.」。",
+  "庇护／施恩：Scarecrow 对 Kayla 给出保护——「You have my protection. I won’t let them find you.」，并说明谜题答对就「one day you will repay the favor」；Kayla 答「A friend」后他才让步。"
+ ],
+ "numbers": [
+  "almost a week",
+  "a few days ago",
+  "the first bunch",
+  "More arrive every day",
+  "tonight",
+  "The second I walk round the corner",
+  "every single surface",
+  "by morning",
+  "over an hour and a half",
+  "another delivery",
+  "For my entire shift",
+  "the hours drag by",
+  "clock off at midnight",
+  "A few bouquets fall onto the ground",
+  "the first person appears",
+  "another bouquet",
+  "The other three show up",
+  "Each one is still dressed in costume",
+  "less than a week",
+  "I turn to Ares next",
+  "another bunch",
+  "the last bunch",
+  "one by one they put their masks on",
+  "both hands",
+  "in the first place",
+  "two posts",
+  "He releases one",
+  "one day you will repay the favor",
+  "No one ever answers right",
+  "for a minute"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 回酒吧上班，发现整个酒吧的每个台面都被鲜花铺满，Rogue 举起手机给她看 Vero 的短信——为破坏酒吧道歉、要求寄账单、让她把花转交 Kayla 并说「from all of us」。",
+   "anchor": "Hi this is Vero, I am so sorry about your bar. Please send me the bill.",
+   "start": 1708,
+   "end": 1779
+  },
+  {
+   "fact": "Kayla 用借来的货车装载鲜花，耗时一个多小时且几乎装不关门，另一批送到的花也让司机一并装上。",
+   "anchor": "It takes over an hour and a half for me to load the truck",
+   "start": 2260,
+   "end": 2317
+  },
+  {
+   "fact": "Kayla 午夜下班后驱车上岛，把一束束花砸向 Clay、Vero、Ares、Brawley，并当面指斥 Clay 掐过她、差点害死她。",
+   "anchor": "“Fuck you!” I yell at Clay and pitch a bunch at him. “You choked me and almost killed me.”",
+   "start": 3862,
+   "end": 3952
+  },
+  {
+   "fact": "四人相视后由 Clay 点头，随后一个接一个戴上面具（Clay 的头巾、Vero 的 Hannibal 面罩、Ares 的发光面罩、Brawley 的脸绘），Kayla 意识到他们要动真格。",
+   "anchor": "Clay pulls up his bandanna, Vero pulls on his Hannibal mask, Ares has his glow mask, and Brawley has his face paint on already.",
+   "start": 4972,
+   "end": 5099
+  },
+  {
+   "fact": "Kayla 明确拒绝因为花就原谅他们，并堵死 Vero 的道歉：sorry 只是她听腻的词，真心道歉的人不会做出那种事。",
+   "anchor": "Don’t you dare say sorry, it’s just a word. If you were so sorry, you never would have done it in the first place.",
+   "start": 5944,
+   "end": 6058
+  },
+  {
+   "fact": "Brawley 抓住 Kayla 的下巴，给出「离开我们的世界」还是「被我们追」的二选一，逼她做决定。",
+   "anchor": "You told us to get the fuck out of your life yet here you are back in ours. So what will it be? Are you going to fuck right back off to where you came from, Double P, or are you going to run?",
+   "start": 6608,
+   "end": 6799
+  },
+  {
+   "fact": "Kayla 冲进玉米地单独面对 Scarecrow，答出谜底「A friend」，换来他的承诺：不会让他们找到她。",
+   "anchor": "You have my protection. I won’t let them find you.",
+   "start": 10358,
+   "end": 10408
+  },
+  {
+   "fact": "Kayla 逃到墓地时被 Clay 抓住头发拉近，两人正面对上，Clay 说她本该继续跑，Kayla 声明要给他们添麻烦。",
+   "anchor": "A hand tangles in my hair, forcing me to look up and meet Clay’s eyes.",
+   "start": 11703,
+   "end": 11773
+  }
+ ]
+}

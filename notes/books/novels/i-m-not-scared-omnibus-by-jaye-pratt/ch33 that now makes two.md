@@ -55,7 +55,7 @@ modified: "2026-11-11"
 **为什么这样写**：四人各得一句告白，剂量精确对应各自语法（Vero 的 love、Clay 的 claim、Brawley 的 intensity、Ares 的 need）；清单形式把「来不及」推到最大。
 **读者视角提示**：这份清单是 Part Three 的台词预告——每一句都将在获救后被补说或落空；对 Ares 的「need」尤其危险（ch29 他正打算利用她的需要）。
 
-> **原句 7:** "Roses are red, and the dead know your name. I take what is buried. I devour what came. I am patient, I am waiting, I never forget. I am the field that swallows your footprints. I am the dark at the end of the row. I am the thing that was here before you arrived, and I will be here long after you go. You cannot bargain with me. You cannot run. I have already decided what has to be done."
+> **原句 7:** "Roses are red, and the dead know your name. I take what is buried. I devour what came. I am patient, I am waiting, I never forget. … I am the field that swallows your footprints. I am the dark at the end of the row. I am the thing that was here before you arrived, and I will be here long after you go. … You cannot bargain with me. You cannot run. I have already decided what has to be done."
 
 **中文理解**：Cave 的韵文在土声变闷时响起：玫瑰是红的，死者知道你的名字；我取走被埋的，吞噬前来的；我耐心、等待、从不忘记——我是吞掉足迹的田，是垄尽头的黑，是你来前就在此、你走后仍在此的东西；你不能与我讲价、不能逃，我必须做的事已经决定。
 **关键词**：the dead know your name / swallows your footprints / cannot bargain / already decided

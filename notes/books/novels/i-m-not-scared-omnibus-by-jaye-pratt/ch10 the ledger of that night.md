@@ -25,7 +25,7 @@ modified: "2026-11-11"
 **中文理解**：Ares 说 Vero 当时只顾着 Brawley，没看见 Clay 对 Kayla 的袭击，事后一直耿耿于怀；而 Ares 决定不告诉他自己在场时看到的全部，因为告知对他没有用处。
 **关键词**：assault / consumed / hand over information / serves me no purpose
 **为什么这样写**：Ares 用 assault 一词给昨夜定性，比任何旁白都重；紧接着「信息只在有用时才交接」把他的人设钉成交易型——他知道真相，也知道沉默的价格。
-**读者视角提示**：这是全书第一次由文本内部把 Clay 的行为称作 assault；它与 ch09 的「taste of death」互相印证，别在后续章节把它淡化成「玩法过火」。
+**读者视角提示**：这是全书第一次由文本内部把 Clay 的行为称作 assault；它与 ch09 的「taste of what death feels like」互相印证，别在后续章节把它淡化成「玩法过火」。
 
 > **原句 3:** "We both know that was not breath play; it was attempted murder. And if I hadn’t intervened, I don’t know if he would have stopped. Clay tried to tell me she fucked with his sister. Honestly, I doubt it."
 

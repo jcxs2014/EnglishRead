@@ -1,0 +1,77 @@
+{
+ "chapter": "ch17",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch17_chapter_1.txt",
+ "relations": [
+  "Kayla 与 Vero：恋人关系，Kayla 承认\"the last thing I said to someone I can see myself loving was get the fuck out of my life\"",
+  "Kayla 与 Brawley：信息提供者关系，\"Brawley explained it last night while we were sitting in the hallway outside Vero’s room. He told me what it looks like when it is coming, what it looks like when it is passing, and what to do versus what not to do.\"",
+  "Kayla 与 Rogue：共事三年的同事兼友人，事后在吧后为 Kayla 清理包扎伤口并劝她下班，\"Rogue has known me for three years, and she has the good sense not to argue with me.\"",
+  "Bianca 与 Bruce：Bianca 是同伴调酒师、Bruce 是酒吧保安，\"I can see that Bianca has already signaled Bruce, and I shake my head at her.\"",
+  "Kayla 与她过去那个男人：\"Every time before this one, I have made the wrong choice. Stayed too long. Absorbed too much. Or told myself it was not that bad—he didn’t mean it. Made excuses for a man.\"，而\"Vero is not him\""
+ ],
+ "numbers": [
+  "around seven",
+  "around eight",
+  "twenty minutes",
+  "three steps",
+  "two men on the ground",
+  "two other men",
+  "three years",
+  "Rogue has known me for three years",
+  "three hours left of my shift",
+  "sixty seconds",
+  "One minute is all I am giving it tonight",
+  "one last look",
+  "another minute",
+  "a Wednesday night"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 在酒吧上班，约八点收到 Vero 的消息后胸口发紧随之松开；Vero 要看她，她立刻拍了照片发过去。",
+   "anchor": "Vero messages me somewhere around eight, and the knot in my chest loosens when his name comes up on my screen.",
+   "start": 790,
+   "end": 900
+  },
+  {
+   "fact": "Vero 穿着橙色连体服、哈尼巴尔面具推到头顶，突然站在吧台上；Kayla 放下杯子叫他下来，他不看她，只盯着吧台另一头的人。",
+   "anchor": "I startle at seeing Vero standing on the bar top, wearing his orange jumpsuit, his Hannibal mask pushed up onto his head, and he doesn’t look like himself.",
+   "start": 1458,
+   "end": 1613
+  },
+  {
+   "fact": "Kayla 伸手要 Vero 下来，Bianca 已经示意保安 Bruce 出手，Kayla 对她摇头制止，怕他只会让局面更糟。",
+   "anchor": "I can see that Bianca has already signaled Bruce, and I shake my head at her.",
+   "start": 2062,
+   "end": 2139
+  },
+  {
+   "fact": "混战中凳子飞起、玻璃碎裂，Kayla 看向自己的手才发现掌心被碎片割出一道干净的口子，血横过手掌；她把手攥成拳压在大腿上。",
+   "anchor": "I don’t even register the pain at first, then I look down at my hand and see the blood across my palm, a clean slice from a shard that caught me in the chaos.",
+   "start": 3109,
+   "end": 3267
+  },
+  {
+   "fact": "Clay、Brawley、Ares 破门而入，Ares 径直走向 Kayla 并握住她的双臂；Kayla 一个人应付不来这么多人，也不想要他们靠近。",
+   "anchor": "He puts his hands on my arms and says something as I look up at him.",
+   "start": 3922,
+   "end": 3990
+  },
+  {
+   "fact": "Vero 说自己在镜面反射里看到那男人盯着 Kayla，Kayla 完完全全相信他，并认为这才是最糟糕的部分。",
+   "anchor": "I believe him, and that is the worst part. I believe him completely.",
+   "start": 5612,
+   "end": 5680
+  },
+  {
+   "fact": "Kayla 稳住不破的声音命令所有人滚出去；Vero 挣脱后走到她面前跪在碎玻璃上，Kayla 说\"对不起，但滚出我的生活\"，并拒绝看他。",
+   "anchor": "“All of you.” My voice doesn’t break. I won’t let it. “Get the fuck out.”",
+   "start": 6391,
+   "end": 6464
+  },
+  {
+   "fact": "Rogue 在吧后的杂物间用急救箱为 Kayla 清理包扎并劝她让 Bianca 收尾，Kayla 拒绝、回到吧台继续倒酒；一位客人对她说\"他爱你\"。",
+   "anchor": "“Bianca can close,” Rogue says. “You don’t have to go back out there.”",
+   "start": 8383,
+   "end": 8453
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "chapter": "ch26",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch26_chapter_10.txt",
+ "relations": [
+  "Vero 与 Kayla：Vero 要 Kayla 做自己的搭档（“Be my person”），Kayla 只在“不被丢下一个人穿成这样”的前提下配合（“You do not ditch me”）；Vero 心里认定她只有“all or nothing”才会留下。",
+  "Clay 与 Kayla：Clay 已经“claimed her”，Vero 明说“It's no secret that I want her, and Brawley wants her if I do”，只差 Ares 承认对 Kayla 有感觉。",
+  "Vero 与 Gerald：Vero 曾说服 Gerald 借他一只小兔子抱着过夜（“Convincing Gerald to let me borrow one of his baby rabbits for a night to cuddle was a phenomenal idea”）。",
+  "Vero 与 Scarecrow：Vero 把可能靠近 Kayla 的其他男人丢给 Scarecrow 处置（“make them have a run-in with the Scarecrow”），并说 Scarecrow 夜里独自待着“gets bored”。",
+  "Karo 与岛上众人：Karo 把一个女人绑在亮着的转盘上并朝她扔飞刀（“Karo has a woman tied to his spinner of death”），Vero 判定这样的人“有 a death wish”，拒绝效仿。"
+ ],
+ "numbers": [
+  "one of his baby rabbits for a night",
+  "my whole life",
+  "one strong wind",
+  "Three of the five",
+  "within seconds",
+  "thirty seconds",
+  "since I was a teenager"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 拿出小丑装（短裙、涂装领圈的网眼衬衫、小帽）要 Kayla 穿，Kayla 说“Vero, I can’t wear this”并担心“one strong wind it will take a bad turn”；Vero 说“Be my person”并承诺她穿着会“look incredible”，Kayla 换好后 Vero 自夸“I’m a fucking genius”。",
+   "anchor": "Be my person.",
+   "start": 1048,
+   "end": 1061
+  },
+  {
+   "fact": "Kayla 换衣前提条件“You do not ditch me. I will not walk around like this alone.”，Vero 答“I would never.”；转头心里却盘算：若别的男人陪着就把他们丢给 Scarecrow，并点明这是上次因“她 working 时有人盯着”而起的旧账。",
+   "anchor": "You do not ditch me. I will not walk around like this alone.",
+   "start": 1385,
+   "end": 1445
+  },
+  {
+   "fact": "两人先在马戏团帐篷与疯人院之间的巷道设伏，再转往墓地；五名戴绿腕带的游客走过墓碑间时，Kayla 站着一动不动、头微侧，“Three of the five back up”，Vero 立刻从他们身后跳下大笑。",
+   "anchor": "Three of the five back up, and I drop right behind them and cackle.",
+   "start": 4060,
+   "end": 4127
+  },
+  {
+   "fact": "进了疯人院后 Kayla 不再听 Vero 安排，自行摸出最佳藏身点（“she keeps appearing in places I didn’t send her”）；Vero 承认那原本是他独占的点（“it has solely been mine since I came here”），并第一次动了“她 belongs with us / I want her to stay so badly”的念头。",
+   "anchor": "she keeps appearing in places I didn’t send her",
+   "start": 4785,
+   "end": 4832
+  },
+  {
+   "fact": "Vero 给自己定下“all or nothing”的底线，并盘点对手盘：他明说“It’s no secret that I want her, and Brawley wants her if I do”，Clay 已“claimed her”，唯一缺口是“All I need is Ares to admit that he feels something for her.”。",
+   "anchor": "Clay has claimed her.",
+   "start": 5301,
+   "end": 5322
+  },
+  {
+   "fact": "最后一组客人要来时 Kayla 没出现，Vero 先查墓地、再绕到马戏团帐篷，看到“Karo has a woman tied to his spinner of death”并朝她扔飞刀；随后他发了条消息「Where are you?」，等三十秒无回应，才走向监控覆盖全岛的 security room。",
+   "anchor": "Karo has a woman tied to his spinner of death.",
+   "start": 5830,
+   "end": 5876
+  },
+  {
+   "fact": "Vero 在保安室的监控里看到 Clay 把 Kayla 的手铐到桌上、从背后压住她占有，最后露出“他 smiles”——不是他惯常的 smug smile，而是“an actual, real, genuine smile”；Vero 擦完手收好东西，结论是她会留下：“She is staying—I can feel it in my bones.”",
+   "anchor": "She is staying—I can feel it in my bones.",
+   "start": 9075,
+   "end": 9116
+  }
+ ]
+}

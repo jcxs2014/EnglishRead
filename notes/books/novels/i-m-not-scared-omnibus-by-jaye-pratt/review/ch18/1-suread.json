@@ -1,0 +1,72 @@
+{
+ "chapter": "ch18",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch18_chapter_2.txt",
+ "relations": [
+  "Vero 与 Vesper：互相看不惯却都为 Brawley 忍着，\"It’s no secret we don’t like each other, but I put up with her because of Brawley and vice versa.\"",
+  "Vesper 与 Brawley：Vesper 敢推 Vero 下屋顶，因为\"You wouldn’t hurt Brawley like that\"、\"He would mourn you and get over it.\"",
+  "Vero 与 Brawley：Vero 自称\"I love him more than anything in this world\"，两人以\"Who do you belong to?\"与\"Stay with me\"这类话确认彼此的归属与陪伴",
+  "Vesper 与 Karo：\"Vesper texted me,” Karo says.\"——是 Vesper 事先叫来垫子接住 Vero",
+  "Clay 与 Vero：楼下的质问与威胁关系，\"“If you fall off that roof,” Clay says, “I will kill you myself.”\""
+ ],
+ "numbers": [
+  "three waiting men",
+  "one end of the mat",
+  "two of the other guys from the circus",
+  "one of her glares",
+  "a second to understand",
+  "a thousand miles a minute for the last few days",
+  "the last few days",
+  "in one move",
+  "with one thrust"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 坐在收容所屋顶边缘不下去，楼下是 Clay、Brawley、Ares 三个等着他下来的人。",
+   "anchor": "I sit on the edge of the roof and look down at the three waiting men below me.",
+   "start": 748,
+   "end": 826
+  },
+  {
+   "fact": "Clay 在楼下冲他吼\"现在就下来\"，并威胁\"你要是从那屋顶掉下去，我亲手杀了你\"。",
+   "anchor": "“If you fall off that roof,” Clay says, “I will kill you myself.”",
+   "start": 1625,
+   "end": 1690
+  },
+  {
+   "fact": "Ares 提醒 Vero：Kayla 也说过要他滚出她的生活，Vero 坚持这句话和她说过的\"永不离开\"并不矛盾。",
+   "anchor": "“She also told you to get out of her life,” Ares says.",
+   "start": 2048,
+   "end": 2102
+  },
+  {
+   "fact": "Vesper 自行爬上屋顶，冲楼下三人喊\"别惯着他！\"并要 Vero 下来。",
+   "anchor": "“Stop babying him!” she yells, then looks at me. “Get down.”",
+   "start": 3578,
+   "end": 3638
+  },
+  {
+   "fact": "Vesper 指出 Vero 毁了 Kayla 的工作、砸了场子、让她在所有人面前难堪，并说她的两句话都是真的、他不能只挑一句当真。",
+   "anchor": "But she also meant what she said at the bar. Both things can be true. You don’t get to pick one and ignore the other.",
+   "start": 4952,
+   "end": 5069
+  },
+  {
+   "fact": "Vesper 一脚把 Vero 推下屋顶，Vero 落在 Karo 与两个马戏团小丑备好的垫子上；Karo 说人是 Vesper 发短信叫来的，\"Everyone knew you weren’t coming down.\"",
+   "anchor": "“Vesper texted me,” Karo says.",
+   "start": 7942,
+   "end": 7972
+  },
+  {
+   "fact": "回到房间后 Brawley 不发怒而是显得疲惫，Vero 只能自己说出\"Fine, you scared me\"，Brawley 说今晚不谈修好，先回家。",
+   "anchor": "“You don’t tonight,” he says, moving his hand to the back of my neck and pulling me toward him. “Let’s go home for now.”",
+   "start": 8242,
+   "end": 8362
+  },
+  {
+   "fact": "Brawley 命令 Vero 说\"你是个坏孩子\"，Vero 照说并主动认错；事后 Vero 提议给自己装微芯片让 Brawley 随时知道他在哪，被拒绝。",
+   "anchor": "“Microchip me,” I say, and his brow furrows.",
+   "start": 12835,
+   "end": 12879
+  }
+ ]
+}

@@ -39,7 +39,7 @@ modified: "2026-11-11"
 **中文理解**：Brawley 自陈怒意贯穿全身：他必须知道那人对她做过什么——不管他是否真的在跟踪，他都会得到应得的；他甚至考虑让 Vero 在他身上试试纸割致死。
 **关键词**：radiates / what he did to her / what he deserves / death by paper cut
 **为什么这样写**：Brawley 的共情以暴力预算表达：从「知道真相」到「批准处刑」只用三句；death by paper cut 回收 ch02 便利店梗，但语境已从玩笑变为判决。
-**读者视角提示**：这是 Brawley 对 Kayla 创伤的立场声明（她的事=他的仗），与 ch24「emergency contact only you」构成他的守护升级。
+**读者视角提示**：这是 Brawley 对 Kayla 创伤的立场声明（她的事=他的仗），与 ch24「he listed you as his emergency contact」构成他的守护升级。
 
 > **原句 5:** "But I have known Ares for a long time and watched him act like this. Not in this situation, but using this tone of voice and body language. A normal person would be shaken, not calm and collected. Every word Luca just said was carefully chosen, and he added eye contact and comfort."
 

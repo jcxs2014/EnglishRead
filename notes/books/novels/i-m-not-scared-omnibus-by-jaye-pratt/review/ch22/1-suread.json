@@ -1,0 +1,74 @@
+{
+ "chapter": "ch22",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch22_chapter_6.txt",
+ "relations": [
+  "Ares 与 Cave：互不越界的盟友，且是人情债的债权债务关系（原文 “Cave and I have an understanding, and it doesn’t include me barging into his territory.”；“a favor granted is one owed. Cave will collect when he is ready.”；“I am also useful to Cave on a daily basis, which means he needs me.”）",
+  "Clay 与 Kayla：Clay 单方面把她视为己物但尚未承认（原文 “He never loses anything that belongs to him, and though he hasn’t admitted that he views her as his yet, I know it’s eating at him.”）",
+  "Brawley 与 Kayla：由威胁转为默认放行（原文 “I told you what would happen if you hurt him.”；“Brawley drops his arms and relaxes without saying a word.”）",
+  "Kayla 与 Vero：有条件的和解，她保留工作与自主权（原文 “I promise I’m not going anywhere, but I need you to understand it can’t happen again. I need that job, and my independence.”）",
+  "Ares 与 Kayla：他把接近她当作拆解她的手段（原文 “She doesn’t trust us, which is a good instinct to have, and I respect it, even if I plan to dismantle it completely.”；“I need to get closer to her so I can understand her better, and protecting her from Nixie’s wrath is the first step.”）"
+ ],
+ "numbers": [
+  "a few years ago",
+  "two in the morning",
+  "two shovels",
+  "a second",
+  "the first page",
+  "a second page",
+  "the four of us",
+  "one of them secures it",
+  "a thousand times",
+  "a handful of people",
+  "every flower in the world"
+ ],
+ "facts": [
+  {
+   "fact": "Ares 走进玉米地挡在 Cave 与 Vero 之间，宣布 “They are mine and you can’t have what belongs to me.”；Cave 盯了他一秒钟后点头让开，Ares 点头回应并记下 “a favor granted is one owed”，欠下 Cave 一个人情（上一回 Cave 曾在 two in the morning 提两把铲子叫醒他挖坑）",
+   "anchor": "Cave stares back at me for a second, then nods. I nod back, knowing that a favor granted is one owed.",
+   "start": 1632,
+   "end": 1733
+  },
+  {
+   "fact": "Clay 扛着 Kayla 走在回酒吧的路上，Kayla 抓住 Clay 的裤带整个身体一扭挣脱落地，随即跳起来跑掉",
+   "anchor": "It catches him by surprise, and she drops to the ground but quickly jumps up and starts running before any of us fully process what has happened.",
+   "start": 3649,
+   "end": 3794
+  },
+  {
+   "fact": "Ares 冲进酒吧后把剩下的客人喝退，摘下 Scarecrow 面具丢在地上，让 Vero、Brawley、Clay 一同进来并锁上门",
+   "anchor": "As the last person walks out the door, I remove the stupid mask and drop it to the ground. Vero, Brawley, and Clay walk through the door, and the lock clicks shut as one of them secures it.",
+   "start": 4397,
+   "end": 4586
+  },
+  {
+   "fact": "Vero 绕过吧台走到 Kayla 面前，直接承认错误并道歉：“I’m sorry… I know what I did was wrong, and I won’t make excuses or pretend that it was okay. It wasn’t.”",
+   "anchor": "“I’m sorry,” he says. “So fucking sorry. I know what I did was wrong, and I won’t make excuses or pretend that it was okay. It wasn’t.”",
+   "start": 5132,
+   "end": 5267
+  },
+  {
+   "fact": "Kayla 拒绝让 Vero 碰她的脸之后提出条件：酒吧必须是安全的工作场所，Vero 和 Clay 不能出现在那里决定谁能看她；否则 “I don’t know how any of this will work”",
+   "anchor": "I need my workplace to be safe, so I can go in there and do my job. You and Clay can’t show up there and decide who can and can’t look at me.",
+   "start": 7395,
+   "end": 7536
+  },
+  {
+   "fact": "Brawley 先以 “I told you what would happen if you hurt him” 威胁 Kayla，被她反问后承认她说得对，最后放下双臂一言不发，默认此事翻篇",
+   "anchor": "Brawley’s face goes through a range of emotions; he protects Vero no matter what, but he knows she’s right. He looks over at Vero, who hasn’t taken his eyes off Kayla, almost as if he’s worried he’ll blink and she might disappear. Brawley drops his arms and relaxes without saying a word.",
+   "start": 8569,
+   "end": 8857
+  },
+  {
+   "fact": "Vero 说出 Banks 给他植入了芯片这件事，Brawley 暴怒喊 “I’ll kill him”，Ares 侧身挡住出口拦住他，要求大家冷静并表示会尊重 Vero 自己的选择；Vero 随即要求他们别再像对待小孩一样对他",
+   "anchor": "“HE WHAT?!” Brawley snaps, rage radiating off him. “I told you no—you’re not a fucking dog. I’ll kill him.”",
+   "start": 9278,
+   "end": 9385
+  },
+  {
+   "fact": "Nixie 通过 Clay 的对讲机抱怨整个车库里到处是花瓣、她被百合滑到差点摔断髋；Vero 举手认领，Kayla 支使四人去收拾；Ares 决定先去清理花瓣以免 Nixie 查出是 Kayla 制造了这场混乱，并借此接近她",
+   "anchor": "All I want to do is clean up the flowers before Nixie finds out that Kayla was the one who caused the chaos on her island. I need to get closer to her so I can understand her better, and protecting her from Nixie’s wrath is the first step.",
+   "start": 11894,
+   "end": 12133
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "chapter": "ch43",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch43_chapter_10.txt",
+ "relations": [
+  "Clay O’Rourke 是场地安保负责人，自称 “I’m the head of security, so I can help you with that.”；他用对讲机向下属 Khodi 下令，Khodi 称他 “boss”，他回 “Copy that, boss.”",
+  "资深警探 Marsh（“one a senior investigator”，“mid-forties”）与一名较年轻警探（“probably around my age”）到岛上调查，前者是 Clay 的调查对象身份、后者记录口供",
+  "Luca（即 Aaron）是曾在此工作的 mentalist，“He worked as a mentalist, so was not on my team”，归另一名 supervisor 管；他在 Clay 的系统里状态是 “Luca resigned”／“he left for personal reasons”",
+  "Luca 有假释条件须每周向假释官报到，已漏报两次：“He had a parole condition to check in weekly,” Marsh 说，“He’s missed two.”",
+  "Kayla 是 Clay 的伴侣：Clay 说她的身体 “one that is mine”，并答 “Only for you,”；而 Luca/Aaron 是 Kayla “years ago” 离开的旧伴侣：“You haven’t seen him since you left him years ago.” Ares 是 Clay 的同谋，二人在 The Pitt 事件后 “came up with a plan” 并 “manipulated the camera footage”"
+ ],
+ "numbers": [
+  "Chapter Ten",
+  "Last week",
+  "Two cops are here",
+  "Both their faces pop up",
+  "both officers",
+  "mid-forties",
+  "weekly",
+  "He’s missed two.",
+  "a third party",
+  "one big family",
+  "not even eight in the morning",
+  "two fingers",
+  "one long stroke",
+  "a few seconds"
+ ],
+ "facts": [
+  {
+   "fact": "Clay 在 The Pitt 警察找上门后的一周于桥近侧前门加设安保岗，拦下任何来岛的警察",
+   "anchor": "Last week, after the police showed up at The Pitt, I put security at the front gate, on the near side of the bridge, to intercept them if they come here.",
+   "start": 41,
+   "end": 194
+  },
+  {
+   "fact": "Becker 打电话报告有两名警察到场，Clay 随即用对讲机命令 Khodi 不许任何人进前门并赶往大门",
+   "anchor": "I end the call and radio Khodi. “Do not let anyone in the front gate. I’m on my way.”",
+   "start": 656,
+   "end": 741
+  },
+  {
+   "fact": "资深探员 Marsh 出示警徽，要求就一名在此工作过的员工 Luca 问话；Clay 把两人带进保安室、避开主区域以免引起恐慌",
+   "anchor": "“Detective Marsh. We are hoping to speak to someone regarding an employee who worked here—Luca.”",
+   "start": 1056,
+   "end": 1152
+  },
+  {
+   "fact": "Clay 以 Luca 因个人原因辞职作答；Marsh 抛出 Luca 有每周假释报到义务、已漏报两次，Clay 回应入职时只走第三方背景调查、无人被标记",
+   "anchor": "“He had a parole condition to check in weekly,” Marsh says, watching for my reaction. “He’s missed two.”",
+   "start": 2320,
+   "end": 2424
+  },
+  {
+   "fact": "Clay 刻意主动表示愿意全力配合，判断有事瞒着的人不会主动示好，以此试探两名警探是否起疑",
+   "anchor": "I add the last part deliberately, as people who have something to hide rarely volunteer their cooperation.",
+   "start": 3266,
+   "end": 3372
+  },
+  {
+   "fact": "Clay 向 Kayla 交底：Ares 出了主意篡改监控录像（摄像头当时已停），补出带修改后时间与日期的全岛录像，且没有 Aaron 返回的录像",
+   "anchor": "She and Ares told us about what happened at The Pitt, and Ares came up with a plan. We manipulated the camera footage, even when the cameras were down.",
+   "start": 4347,
+   "end": 4498
+  },
+  {
+   "fact": "Clay 要 Kayla 当面复述封口口径，Kayla 说出 {L}I know nothing{R} 后眯眼盯住他",
+   "anchor": "“I know nothing,” she says, narrowing her eyes at me.",
+   "start": 5418,
+   "end": 5471
+  },
+  {
+   "fact": "Clay 与 Kayla 在厨房发生关系，并在她颈上留下占有标记，要所有人看到",
+   "anchor": "I leave my mark, needing everyone to see I claimed what is mine.",
+   "start": 10848,
+   "end": 10912
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "chapter": "ch28",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch28_chapter_12.txt",
+ "relations": [
+  "Clay 与 Kayla：Clay 明确把 Kayla 说成自己的，「I just know she is mine. I haven’t felt that with anyone before, so it is what it is for now.」",
+  "Vero 与 Clay：住同一屋檐下、可直接上楼进 Clay 卧室，「He disappears into the hallway, and I listen as he takes the stairs, then hear my bedroom door open.」",
+  "Clay 与 Ares：同伴/受托排查者，Clay 开口求助、Ares 立刻接下，「Good idea. If there’s something there, we need to know.」",
+  "Mabel 与 Kayla：Mabel 是公寓的看管人（掌备用钥匙、替 Kayla 留意出入），「Mabel comes back and hands the key to Ares. She tells us to leave it under the mat when we are done and to make sure we lock up properly.」",
+  "Ares 对 Kayla 在圈内的位置下判断，Clay 点头认同：“She belongs here,” he says, low enough only I can hear him."
+ ],
+ "numbers": [
+  "Chapter Twelve",
+  "one arm thrown over her face",
+  "at least half an hour",
+  "Give me ten minutes",
+  "takes about half an hour",
+  "two at a time",
+  "two sizes too big",
+  "one clean shot",
+  "two quick punches, one aiming to come over the top",
+  "I’m on one knee"
+ ],
+ "facts": [
+  {
+   "fact": "Clay 起床发现 Kayla 睡在自己床上（夜里衬衫上滑），他轻轻带上门让她继续睡",
+   "anchor": "Kayla is still asleep, one arm thrown over her face and her hair spread all over my pillows.",
+   "start": 44,
+   "end": 136
+  },
+  {
+   "fact": "Clay 告诉 Ares 昨夜有人进过 Kayla 的公寓，请 Ares 一起排查窃听器与摄像头",
+   "anchor": "I want to check and make sure there are no listening devices or cameras. Just to be sure.",
+   "start": 2094,
+   "end": 2183
+  },
+  {
+   "fact": "Ares 以「Kayla 托他们来修窗户锁」为由向看管人 Mabel 要来备用钥匙，Mabel 要求用完把钥匙放回垫下并确保锁好",
+   "anchor": "Mabel comes back and hands the key to Ares. She tells us to leave it under the mat when we are done and to make sure we lock up properly.",
+   "start": 4514,
+   "end": 4651
+  },
+  {
+   "fact": "两人系统检查 Kayla 阁楼（烟感器、灯具、床架底面）未发现任何窃听设备",
+   "anchor": "Inside the smoke detectors, inside lamps, every place there could possibly be a listening device, but nothing.",
+   "start": 5062,
+   "end": 5172
+  },
+  {
+   "fact": "Clay 要求 Ares 先对 Vero 保密，不惊动他",
+   "anchor": "Let’s keep this between us for now. I don’t want to worry Vero, not until we know for sure what is going on.",
+   "start": 5606,
+   "end": 5714
+  },
+  {
+   "fact": "Clay 与 Ares 回到岛上，发现 Kayla 穿着 Clay 的衬衫、套着 Brawley 过大短裤在拳台上对练",
+   "anchor": "When we get inside the shed, we find Kayla in the ring. She is still in my shirt, with it now tied up at the waist in a knot, and she’s wearing a pair of Brawley’s shorts that look two sizes too big, sitting low on her hips.",
+   "start": 6340,
+   "end": 6564
+  },
+  {
+   "fact": "Kayla 在 Vero 主持的规则下与 Clay 对打，用转身旋踢中 Clay 后膝把他放倒，Clay 承认自己一直收着打",
+   "anchor": "But when she spins with it instead of resisting and kicks the back of my knee, I go down onto the mat and Vero loses his mind.",
+   "start": 10512,
+   "end": 10638
+  },
+  {
+   "fact": "Ares 在 Clay 耳边下结论：Kayla 属于这里，Clay 点头认同",
+   "anchor": "“She belongs here,” he says, low enough only I can hear him.",
+   "start": 11928,
+   "end": 11988
+  }
+ ]
+}

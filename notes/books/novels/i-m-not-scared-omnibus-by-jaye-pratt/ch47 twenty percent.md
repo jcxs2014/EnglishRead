@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 说：你现在有我，让我替你扛一部分。任何关系都是给予与索取——你只剩两成的话告诉我，我来跑八成。你不再是一个人了。
 **关键词**：carry some / give and take / twenty percent / eighty / not in this alone
 **为什么这样写**：percent 公式把照护量化成可交接的账目——Brawley 听得进数字，听不懂安慰，她用了他的语言；「any kind」一词把这段定义为非性爱的关系经济学，porch 夜谈因此成立。
-**读者视角提示**：与 ch35 她对 Ares 的赦免、ch42 对 Vero 的拥抱对照：Kayla 对四人的照顾各有方言——本章公式体是 Brawley 专属；「not alone」回收 ch46 她的 whole again。
+**读者视角提示**：与 ch35 她对 Ares 的赦免、ch42 对 Vero 的拥抱对照：Kayla 对四人的照顾各有方言——本章公式体是 Brawley 专属；「You’re not in this alone anymore.」回收 ch46 她的 whole again。
 
 > **原句 6:** "“I want you to stay here permanently . . . I need you to stay,” I admit. “Good, because I don’t want to be anywhere else.”"
 

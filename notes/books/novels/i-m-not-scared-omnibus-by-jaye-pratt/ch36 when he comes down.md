@@ -13,7 +13,7 @@ modified: "2026-11-11"
 - **叙事手法**：搜寻段用空行三连（No Cave/No Vero/No sign）；监控段以定格画面写证据；逼哭段是 Clay 全书最长的情感戏；章末三男对话以「Shit, he's right」的内心承认收束。
 
 ## 精读
-> **原句 1:** "No Cave. No Vero. And no sign of where either of them went."
+> **原句 1:** "No Cave. … No Vero. … And no sign of where either of them went."
 
 **中文理解**：玉米地中央，Cave 的桩位空着：没有 Cave、没有 Vero，也没有他们去了哪里的任何痕迹。
 **关键词**：No Cave / No Vero / no sign

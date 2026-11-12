@@ -1,0 +1,268 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/ch46 the last guest standing.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch46_chapter_13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Welcome. Tonight you will run, and the hunters will hunt. Everything you think you know, you don’t. Tonight, the last gu",
+          "ok": true,
+          "pos": 796
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I glance back over my shoulder to see that the hunter has not followed me, merely directed me, and I know this is their ",
+          "ok": true,
+          "pos": 2327
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "What did Vero give you that he doesn’t know he gave you",
+          "ok": true,
+          "pos": 5172
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The first mechanism I overthink and get wrong twice, but on the third attempt I stop thinking and use my hands to feel f",
+          "ok": true,
+          "pos": 6996
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I take three minutes to see it on feed seven—a shadow at the edge of the frame. Someone standing just outside the shot",
+          "ok": true,
+          "pos": 7751
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“If I’m being honest, I was tired of running. I’d been running from a lot of things for so long that stopping always see",
+          "ok": true,
+          "pos": 8568
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Vero may wear his heart on his sleeve, but the others each show how they care for me in their own way. Clay claiming me,",
+          "ok": true,
+          "pos": 10354
+        }
+      ],
+      "words": 51
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.32
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.29,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.37
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. Chapter Thirteen（Part Three）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      6,
+      8
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2082,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 49 章中位 7、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+ "chapter": "ch23",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch23_chapter_7.txt",
+ "relations": [
+  "Kayla 与 Vero：已同居的亲密伴侣，她接受他的靠近并主动拥抱（原文 “We will always listen to you,”；“I wrap my arm around him and hug him until he is done.”）",
+  "Kayla 与母亲：反对她纹身、她不愿谈的家人（原文 “My mom hated it when I started getting them… She thought it meant that I was throwing my life away.”；“My family is not a subject I am ready to talk about.”）",
+  "Brawley 与 Kayla：从敌意转为接纳（原文 “When it comes to him, I don’t think clearly… And I don’t actually hate having you around.”）",
+  "Ares 与 Kayla：正式道歉并请求重新认识，她保留判断（原文 “I would like to get to know you better… the door is open if you choose to walk through it, on your terms.”；“I appreciate the apology, and I will think about it.”）",
+  "Clay 与 Kayla：用斗嘴和献殷勤拉近距离（原文 “I got up at five and drove across town, all so you could sleep in and not have to worry.”）"
+ ],
+ "numbers": [
+  "a few moments",
+  "three sessions",
+  "a half-truth",
+  "a million miles an hour",
+  "one-night stand",
+  "two arms and two legs",
+  "one mouthful",
+  "five",
+  "two pieces",
+  "the first time in forever"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 睁眼后转头发现 Vero 盘腿坐在床边地板上、下巴搁在床垫上守着她，被吓得骂出声；Vero 承认她还说了梦话提到三明治",
+   "anchor": "I hear a shuffle and turn my head, finding Vero sitting cross-legged on the floor beside the bed, his chin resting on the mattress.",
+   "start": 146,
+   "end": 277
+  },
+  {
+   "fact": "Kayla 起床后要取回卡车交给 Marco，Vero 告知 Clay 和 Ares 已经把车还了回去——她昨晚清理花瓣时提过，他们因此一大早出发替她跑腿",
+   "anchor": "“Clay and Ares already took it back,” Vero says. “You mentioned it when we were cleaning up the flowers, so they got up early and returned it for you.”",
+   "start": 987,
+   "end": 1138
+  },
+  {
+   "fact": "Vero 躺到她身边逐个追问纹身含义，Kayla 说出花朵纹身的由来（曾有人送花却毫无意义，所以纹花提醒自己别往里读），并说母亲当初反对她纹身；肩部那个纹身花了 three sessions，Vero 断言 “Everything has a story”",
+   "anchor": "“Someone once gave me flowers, and I thought it meant something, but it didn’t. I got this to remind myself not to read into things.”",
+   "start": 2163,
+   "end": 2296
+  },
+  {
+   "fact": "Kayla 心里承认对 Vero 说的只是 half-truth：肩部纹身其实是在她终于离开 Aaron 那一周纹的，为的是放在随时能看见的地方，提醒自己做过一件吓人的事并活了下来",
+   "anchor": "The reality is I got it the week I finally left Aaron, and I wanted it somewhere I could always see it.",
+   "start": 3494,
+   "end": 3597
+  },
+  {
+   "fact": "Brawley 进门盯着 Kayla 看了很久后开口：只要涉及 Vero 他就思维混乱，“Especially in this last week”，但他承认 “I don’t actually hate having you around”；Vero 随后哭出来，Kayla 抱着他安抚",
+   "anchor": "I know what you mean to him, and I’ve watched what it does to him when you are around and when you aren’t. Especially in this last week. And I don’t actually hate having you around.",
+   "start": 4393,
+   "end": 4574
+  },
+  {
+   "fact": "Ares 主动说 “I owe you an explanation”，承认当初处理他们之间的事之后的方式不公平；Kayla 用他当初的原话 “Statistically likely” 顶回去，Ares 说门是开着的、按她的条件来，Kayla 只回答 “I appreciate the apology, and I will think about it.”",
+   "anchor": "I would like to get to know you better, and I am aware that I have not given you a reason to want that. I wanted you to know that the door is open if you choose to walk through it, on your terms.",
+   "start": 7183,
+   "end": 7378
+  },
+  {
+   "fact": "Clay 坐下后从 Kayla 盘子里偷走培根、又一口喝光她的咖啡；被质问时他说明车是 Ares 送的、开车跑腿的是自己——他 “I got up at five and drove across town, all so you could sleep in”，最后又从灶上拿了两 pieces 培根赔给她",
+   "anchor": "“I got up at five and drove across town, all so you could sleep in and not have to worry.”",
+   "start": 9311,
+   "end": 9401
+  },
+  {
+   "fact": "早餐后 Kayla 环视厨房判定自己应该跑，却决定留下：这是 “the first time in forever” 她掌控自己的人生、做自己认为对的选择，也不再把 Ares 当作真正的威胁",
+   "anchor": "Yet for the first time in forever, I am in control of my life, making my own choices and doing what I think is right.",
+   "start": 10280,
+   "end": 10397
+  }
+ ]
+}

@@ -41,7 +41,7 @@ modified: "2026-11-11"
 **为什么这样写**：for the night 和 for a while 拉出短期与长期两种完全不同的容忍度，最后用带威胁的自我修正暴露占有欲的真实边界。
 **读者视角提示**：他担心的是 Vero 的长久去留，不是当下已经发生的背叛；这也是他支持发邀请时没有消失的顾虑。
 
-> **原句 5:** "Ares is a puppet master who has convinced everyone he is holding the strings for their own good. He leans in close to Nixie, his large body easily fitting across the bar. Whatever it is he says, she is eating up."
+> **原句 5:** "Ares is a puppet master who has convinced everyone he is holding the strings for their own good. … He leans in close to Nixie, his large body easily fitting across the bar. Whatever it is he says, she is eating up."
 
 **中文理解**：Brawley 看见 Ares 与 Nixie 在吧台低声说话，便把 Ares 判断为让所有人相信自己是在为他们好、实则牵线操控的傀儡师；他连 Nixie 的专注都读成被说服。
 **关键词**：puppet master / holding the strings / for their own good / eating up

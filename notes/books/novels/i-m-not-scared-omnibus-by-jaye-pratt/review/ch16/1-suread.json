@@ -1,0 +1,70 @@
+{
+ "chapter": "ch16",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch16_chapter_16.txt",
+ "relations": [
+  "Vero 与三名同住者（Clay／Brawley／Ares）的关系是互相依靠的\"家人\"式同居：\"the three assholes who I live with will mother-hen me for the next few days\"、\"I love them like they are my own brothers\"",
+  "Vero 与 Brawley：非血缘的兄弟式亲密与监护，\"He never leaves my side, and I hate feeling like a burden. He deserves so much better, yet he stays\"、\"his need for violence calms my noise\"",
+  "Vero 与 Kayla：占有式的恋人关系，Vero 反复以\"my paper-cut princess\"称呼并宣称\"She is mine\"",
+  "Brawley 与 Vesper：\"When Vesper loses it, Brawley is the only one who can approach her.\"",
+  "Ares 与 Kayla：Vero 视 Ares 试图靠近 Kayla 为僭越——\"He doesn’t get to touch her, not after what he did to her. He won’t use her or pull her under his spell.\"、\"He is not her safe person now.\""
+ ],
+ "numbers": [
+  "fourteen hours",
+  "the three assholes",
+  "the three of them",
+  "since four",
+  "the next few days",
+  "in one movement",
+  "For the first time in as long as I can remember"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 从发作后的昏睡中醒来，自述睡了十四小时，脑内的 noise 变轻但并未消失，判断自己暂时可以正常活动。",
+   "anchor": "I slept for fourteen hours, though that is not unusual after an episode. Lying here, I take a second to check the inside of my head; the noise is quieter, but it’s not gone.",
+   "start": 68,
+   "end": 241
+  },
+  {
+   "fact": "Brawley 告诉 Vero：他趁 Vero 睡着时跟 Kayla 讲了发作怎么回事、该做什么不该做什么，Kayla 问了很多问题。",
+   "anchor": "How it works, what to do and not to do. What it looks like when it is coming and passing, and she asked lots of questions.",
+   "start": 2748,
+   "end": 2870
+  },
+  {
+   "fact": "Brawley 说 Kayla 并没有被吓跑，只是要上班，由 Clay 送她回家，她明天会来看 Vero。",
+   "anchor": "She needed to go to work, so Clay dropped her off at home. She will come and see you tomorrow.",
+   "start": 3129,
+   "end": 3223
+  },
+  {
+   "fact": "Vero 在 Kayla 发来的照片里放大镜面板，发现有个男人坐在吧台前、脸转向她，一直盯着她。",
+   "anchor": "In the mirrored panel behind the bar, there is a reflection of a man. He is sitting at the bar, and his face is turned toward her, and he is watching her.",
+   "start": 5969,
+   "end": 6123
+  },
+  {
+   "fact": "Vero 判断必须保护 Kayla，动身去酒吧：他自己都记不清是怎么换上橙色服装的，抓起挂着的面具，骑摩托冲到酒吧。",
+   "anchor": "The ride to the bar is a blur. I don’t fully remember leaving, or even how I got here, beyond the fact that I’m now sitting on my bike and staring at the bar.",
+   "start": 7349,
+   "end": 7507
+  },
+  {
+   "fact": "Vero 跳上吧台逼近那男人并放话威胁，随后突然踢中对方的脸，又扑倒赶来的保安、揪住保安的衬衫。",
+   "anchor": "He stands, but something about his movement or his size hits me wrong, and I kick him in the face.",
+   "start": 9547,
+   "end": 9645
+  },
+  {
+   "fact": "Ares 径直走向 Kayla 并把手放在她身上，Vero 认定 Ares 已不再是她可以依靠的人，并对 Brawley 说\"她不是你能修的人，你没资格当那个人\"。",
+   "anchor": "She is not yours to fix,” I say, and my voice comes out really strange. It’s too quiet amid all the noise. “You don’t get to be the one.",
+   "start": 11652,
+   "end": 11788
+  },
+  {
+   "fact": "Kayla 手上的血滴到地上，Vero 看清自己造成的一切后跪倒在她脚边的碎玻璃上；Kayla 说\"对不起，但滚出我的生活\"，Vero 的脑子第一次彻底安静。",
+   "anchor": "“I’m sorry,” she says. “But get the fuck out of my life.”",
+   "start": 13977,
+   "end": 14034
+  }
+ ]
+}

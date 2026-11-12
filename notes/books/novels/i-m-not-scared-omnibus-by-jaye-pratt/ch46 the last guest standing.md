@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **中文理解**：Ares 的镜前，Kayla 回答「为什么留下」：说实话，我跑累了——跑了太久，停下反而像危险；但这么久以来第一次，你们让我觉得可以做真实的自己，并且被爱的是我本身。
 **关键词**：tired of running / stopping / real version / loved me for me
-**为什么这样写**：镜问的「not what kept you, not who asked you」逼出主动式答案——留下是她的动词而非受事；loved me for me 与 ch40 她「I want this」、ch45「worst version 也远胜 Aaron」串成她的自我许可链。
+**为什么这样写**：镜问的「Not what kept you. Not who asked you.」逼出主动式答案——留下是她的动词而非受事；loved me for me 与 ch40 她「I want this」、ch45「worst version 也远胜 Aaron」串成她的自我许可链。
 **读者视角提示**：Ares 的房间空到只剩椅与镜——他的「读心」在最后一关交白卷，只把问题还给她；章末他的「you make me feel」是对这面镜子的回应。
 
 > **原句 7:** "Vero may wear his heart on his sleeve, but the others each show how they care for me in their own way. Clay claiming me, Ares admitting I make him feel, and that I am Brawley’s missing piece. That’s enough, because they all complete me in ways I never imagined possible."

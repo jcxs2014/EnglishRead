@@ -1,0 +1,75 @@
+{
+ "chapter": "ch14",
+ "text": "text/ch14_chapter_14.txt",
+ "relations": [
+  "Ares 与 Kayla 有性关系但否认其情感意义：原文「“She was in my bed again.” Ares selects the right words to use in a measured tone.」与「“It was a physical response, a natural progression of the situation we were in.」",
+  "Clay 与 Ares 是同住同伴，但因 Kayla 当场翻脸：原文「“You better fix it, because you have caused this spiral. When someone gets hurt, it’s on you.」；Brawley 的敌意见「every fiber of his being wants to murder Ares because Vero mentioned him and love in the same sentence」",
+  "Vero 把 Kayla 视为集体中的一员、同伴与家人式归属（原文用的是 our 而非 his）：原文「“She is not an isolated incident.” Vero’s voice cracks. “She is a person, and she is our person.”」",
+  "Vero 与 Brawley 是恋人关系：原文「I have always known who you are, and I love you anyway, the same way as you see me and love me.」",
+  "Clay 与 Kayla 从敌对转为守护：原文「The woman about to come out that door, you are going to forget her name, her face, and that this bar even exists.」与 Kayla 的「“Thank you,” she finally says」"
+ ],
+ "numbers": [
+  "it lasts all of two seconds before he straightens up",
+  "I notice a guy sitting three stools down",
+  "He has been there for maybe half an hour",
+  "he hasn’t touched his second drink",
+  "The bar fills up over the next few hours",
+  "I have looked at it twice since I sent it",
+  "It takes another twenty minutes before she exits the alley",
+  "“I can walk—it’s five minutes.”",
+  "introduce his face to the bricks one last time",
+  "“Vero is having one of his episodes.”",
+  "in case it’s one of my sisters",
+  "You are the single most frustrating person I have ever met"
+ ],
+ "facts": [
+  {
+   "fact": "Clay 当面质问 Ares 对 Kayla 做了什么，Ares 回答「Nothing she didn’t consent to」，并称那只是「a physical response, a natural progression」的「isolated incident」，拒绝为此做 debrief",
+   "anchor": "Ares glances over at me. “Nothing she didn’t consent to.”",
+   "start": 1442,
+   "end": 1499
+  },
+  {
+   "fact": "Vero 拍桌而起反驳 Ares，说 Kayla「is a person, and she is our person」，用 our 而非 his",
+   "anchor": "“She is not an isolated incident.” Vero’s voice cracks. “She is a person, and she is our person.”",
+   "start": 3243,
+   "end": 3340
+  },
+  {
+   "fact": "Vero 逼 Ares 说出真心话并表明立场「I have always known who you are, and I love you anyway」，Brawley 因此绷紧身体",
+   "anchor": "I have always known who you are, and I love you anyway, the same way as you see me and love me.",
+   "start": 4537,
+   "end": 4632
+  },
+  {
+   "fact": "Brawley 指责 Ares 引发这一切，指到 Kayla 的电话与腕带，并说「if Kayla didn’t call to you, there is no way you would have agreed to wear that wristband」",
+   "anchor": "“You better fix it, because you have caused this spiral. When someone gets hurt, it’s on you. Deny it all you like, but if Kayla didn’t call to you, there is no way you would have agreed to wear that wristband, whether or not you fucked her while wearing it.”",
+   "start": 4905,
+   "end": 5164
+  },
+  {
+   "fact": "Vero 发短信向 Clay 要 Kayla 的照片，Clay 拍下并发给他并回「She’s okay」，Vero 回「I just needed to see it」",
+   "anchor": "Snapping a picture before I can think about whether I should drag her out of here, I send it to Vero and type underneath it.",
+   "start": 6355,
+   "end": 6479
+  },
+  {
+   "fact": "Clay 跟踪酒吧里盯梢 Kayla 的男人到后巷，把他按在砖墙上并威胁他不许再出现，最后打断其鼻梁",
+   "anchor": "I approach silently behind him and take him by the back of the collar, using my hold to slam him face-first into the brick wall beside the door.",
+   "start": 9062,
+   "end": 9206
+  },
+  {
+   "fact": "Kayla 对 Clay 说「Thank you」，这是她第一次道谢",
+   "anchor": "“Thank you,” she finally says, which shocks me and leaves me at a loss for words.",
+   "start": 12014,
+   "end": 12095
+  },
+  {
+   "fact": "Clay 把 Kayla 堵在车边，Kayla 列出他对她做过的所有事并说自己跟不上他；Ares 随即打电话说 Vero 发作，Kayla 坚持同去",
+   "anchor": "“Clay, either take me with you or I will fucking swim there.”",
+   "start": 14680,
+   "end": 14741
+  }
+ ]
+}

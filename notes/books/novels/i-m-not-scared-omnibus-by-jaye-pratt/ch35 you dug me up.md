@@ -18,14 +18,14 @@ modified: "2026-11-11"
 **中文理解**：有人掀棺盖、土落下时，Kayla 惊慌中假装昏迷；直到听见 Brawley 的声音，才稍微安定。
 **关键词**：Dirt drops / feigning unconsciousness / Brawley / calms me
 **为什么这样写**：装昏迷是她的第一反应——被救瞬间仍在计算安全；Brawley 的声音被指定为「镇定剂」（对照 ch12 他的颈侧安抚、ch24 的紧急联系人），锚定关系由声音完成。
-**读者视角提示**：她「helplessly」配合不了身体（drug 残留）——ch34 的「already counting」至此有幸存者视角的续章。
+**读者视角提示**：她「feeling fucking helpless」配合不了身体（drug 残留）——ch34 的「already counting」至此有幸存者视角的续章。
 
 > **原句 2:** "“Luca,” Ares says, voice deceptively calm. My eyes widen. “That’s Aaron.”"
 
 **中文理解**：Clay 递出 PI 转来的照片，Ares 以极度平静的声音说出「Luca」——Kayla 瞪大眼纠正：那是 Aaron。
 **关键词**：deceptively calm / eyes widen / That’s Aaron
 **为什么这样写**：全书最大身份反转由两个人各说一半：Ares 认出脸（假名 Luca），Kayla 认出人（真名 Aaron）；deceptively calm 是 Kayla 对 Ares 的读法——他的自责她隔着语气就听见了。
-**读者视角提示**：ch25 Ares 警告 Luca「charm as tactic」、ch31 Brawley 识破同款话术——两人各自接近真相却都没接上名字；Aaron 的假名能力至此被文本验证为真。
+**读者视角提示**：ch25 Ares 警告 Luca「Charming is a personality trait. What I’m describing is a tactic.」、ch31 Brawley 识破同款话术——两人各自接近真相却都没接上名字；Aaron 的假名能力至此被文本验证为真。
 
 > **原句 3:** "“He thinks Cave did this.”"
 

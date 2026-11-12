@@ -1,0 +1,78 @@
+{
+ "chapter": "ch37",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch37_chapter_4.txt",
+ "relations": [
+  "Vero 与 Luca（真名 Aaron）：敌对，施刑者与被纸割囚徒——Vero「He is zip-tied to a chair in the corner of Cipher’s shed.」；Vero 自述已割到「Forty-nine」刀还在往上加",
+  "Vero 与 Kayla：恋人/伴侣（Vero 称之为「my paper-cut princess」）——Aaron 指控她利用人，Vero 反问「She never mentioned you to me. I know about her other ex-boyfriend—she talked about him, but I guess you didn’t leave that big of an impact.」",
+  "Aaron（自称 Luca）与 Kayla：前任加害者与受害者——Aaron 说「She used to beg me for it.」「She has a scar inside her left hip.」；Vero 指出「You put her in a fucking box in the ground, and she still made it out.」",
+  "Vero 与 Brawley：伴侣（恋人）——Vero 称 Brawley 为自己的 boyfriend：「My boyfriend would kill you, and he would make it a lot more painful.」",
+  "Cave 与 Cipher：Vero 认定的恋人关系——Vero 问 Cave「Do you have a thing for him?」「You do. I like him.」「I don’t like him like that—he is all yours.」，Cave 以低吼回应"
+ ],
+ "numbers": [
+  "Chapter Four",
+  "Forty-seven",
+  "Sixty",
+  "Forty-eight",
+  "one stage",
+  "Forty-nine",
+  "one to say something",
+  "that one",
+  "his other one",
+  "stitch that one",
+  "a few minutes",
+  "The first time",
+  "A second later",
+  "twice",
+  "Second drawer"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 用纸片一刀一刀割被绑在 Cipher 棚屋椅子上的 Luca，边割边计数，数到「Forty-nine」并称手腕内侧「very productive」",
+   "anchor": "Forty-nine. The inside of the wrist is very productive",
+   "start": 2003,
+   "end": 2057
+  },
+  {
+   "fact": "Aaron 对 Vero 断言 Kayla 一贯利用人，Vero 不接受，说那是 Aaron 自己编出来的版本",
+   "anchor": "She was using you. She uses everyone; she always has.",
+   "start": 3143,
+   "end": 3196
+  },
+  {
+   "fact": "Vero 揭穿 Aaron 并不知情：Kayla 被他连人带箱埋进土里后仍然活着出来了",
+   "anchor": "You put her in a fucking box in the ground, and she still made it out.",
+   "start": 5154,
+   "end": 5224
+  },
+  {
+   "fact": "Aaron 警告 Vero「You know what you are」，Vero 承认自己很清楚自己是什么、也远比常人更有的时间思考",
+   "anchor": "You know what you are and what happens when",
+   "start": 4770,
+   "end": 4813
+  },
+  {
+   "fact": "Vero 拿起 Cipher 工作台上的螺丝刀捅进 Aaron 的肩膀，音效让他兴奋；随后又把手伸进伤口",
+   "anchor": "It plunges into his shoulder, and the sound he makes is the best since we have been here",
+   "start": 8338,
+   "end": 8426
+  },
+  {
+   "fact": "Aaron 说 Kayla 过去常求他施暴，Vero 立刻用纸片在他脸上划出一道",
+   "anchor": "She used to beg me for it.",
+   "start": 7889,
+   "end": 7915
+  },
+  {
+   "fact": "Vero 向 Cipher 讨要纱布与酒精，明确说不想让 Aaron 现在就死，Cipher 从抽屉里取给他",
+   "anchor": "I wanted to see if you had some gauze or something because this one is deeper and I don’t want him to die just yet.",
+   "start": 9665,
+   "end": 9780
+  },
+  {
+   "fact": "Cipher 起身外出为所有人买吃的，Vero 追加要求要「nuggets」并要一样含糖的东西",
+   "anchor": "Can you get nuggets, though?",
+   "start": 10644,
+   "end": 10672
+  }
+ ]
+}

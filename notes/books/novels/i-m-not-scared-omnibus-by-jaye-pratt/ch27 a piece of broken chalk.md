@@ -52,7 +52,7 @@ modified: "2026-11-11"
 
 **中文理解**：停车时 Clay 握住 Kayla 的手：相信你的直觉，永远别怀疑自己——你觉得有人进过你的 loft，我保证查出是谁，而且查到的时候不会好看。
 **关键词**：instincts / never doubt / find out / won’t be pretty
-**为什么这样写**：Clay 先修复她的自我怀疑（never doubt yourself），再给出暴力预告——顺序是他学会的尊重方式；对照 ch19 她说的「programmed to believe I could have stopped it」，这是第一次有人命令她不要自责。
+**为什么这样写**：Clay 先修复她的自我怀疑（never doubt yourself），再给出暴力预告——顺序是他学会的尊重方式；对照 ch19 她说的「programmed to believe that I could have stopped it」，这是第一次有人命令她不要自责。
 **读者视角提示**：Kayla 立刻回「你不能替我伤人」，他答「你不明白，我们会杀人」——两人的安全观差异被文本保留，未由叙述者裁决。
 
 > **原句 7:** "“I know you have two sisters, but I’ve only heard you talk about Jess.” “My other sister’s name is Meeka.”"

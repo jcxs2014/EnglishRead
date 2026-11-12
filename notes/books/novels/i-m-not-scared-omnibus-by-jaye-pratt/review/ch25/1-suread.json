@@ -1,0 +1,77 @@
+{
+ "chapter": "ch25",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch25_chapter_9.txt",
+ "relations": [
+  "Kayla 与 Ares：Ares 自她第一次过桥起就在观察她（“Did you watch me when I first came?”—“I did”），并说她的「careful observance」是他最先注意到的特征之一；本章他还带她回家、道歉并让她看到自己松下来的样子。",
+  "Kayla 与 Clay：Clay 吃完饭后主动当她的“personal bodyguard”送她到酒吧（“Clay acts as my personal bodyguard after we finish eating”），两人一路互呛（“If he wasn’t a dick eighty percent of the time”），她不肯向他求助搭车，只因“He is a little smug about helping me out.”",
+  "Kayla 与 Vero：Kayla 明确说自己要留在 Vero 身边“to give him a second chance”，并住在他那儿（醒来拿的是“Vero’s shirt”）；Vero 在厨房当众搂她、说|Not for another few hours yet。",
+  "Kayla 与前任 Aaron / Kyle：Aaron 是那个“best manipulator”，她“我 lived with the best manipulator once”；Kyle 只是“a convenience, a way to feel secure, and a safe place to live”，两人“nothing like Aaron or Kyle”。",
+  "Ares 与 Nixie：Ares 已就 Luca 的事向 Nixie 提过警告（“I did, but she thinks I dislike him because he is a lot like me”），但 Nixie 认为 Luca 优秀、适合招揽生意。"
+ ],
+ "numbers": [
+  "a second chance",
+  "Two of my staff have called in sick",
+  "All four men",
+  "Not for another few hours yet",
+  "yesterday",
+  "by eight",
+  "eighty percent of the time",
+  "Seven fifty-eight",
+  "By nine",
+  "two categories",
+  "this week",
+  "next weekend",
+  "forty minutes",
+  "not half bad"
+ ],
+ "facts": [
+  {
+   "fact": "Ares 说酒吧有“Two of my staff have called in sick”要顶早餐班，Kayla 未等任何人开口就说“I can help”并主动上工，Ares 随即表示“I would actually really appreciate the help”，两人的同事关系落到具体协作。",
+   "anchor": "Two of my staff have called in sick.",
+   "start": 2088,
+   "end": 2124
+  },
+  {
+   "fact": "Vero 当众开玩笑说 Ares 是“Cockblocker”，Ares 翻白眼；Vero 接着断言“你 know he is going to make you relearn everything, because he is a control freak”，Kayla 由此认定 Ares 并不像看上去那样圆滑。",
+   "anchor": "Cockblocker much?",
+   "start": 2885,
+   "end": 2902
+  },
+  {
+   "fact": "Ares 主动纠正自己只是“a bar job”的说法，向 Kayla 亮明酒吧归他所有；这是本章他对 Kayla 交出的第一个实底。",
+   "anchor": "It’s not just a bar job—I also own the bar.",
+   "start": 8376,
+   "end": 8419
+  },
+  {
+   "fact": "Ares 回答“你 How did you end up here?”时说自己是“good with people”，需要一个“somewhere I was valued instead of people finding me uncomfortable”的地方，并说“Most people don’t like being understood”——Kayla 判定这是他给过的最诚实的话。",
+   "anchor": "I am good with people, and I needed somewhere I was valued instead of people finding me uncomfortable.",
+   "start": 7887,
+   "end": 7989
+  },
+  {
+   "fact": "Ares 承认从 Kayla 第一次来岛就在盯着她，说她“You took in the exits before you looked at your surroundings”，并判定她属“someone with experience needing them”那一类、不是受过安保训练的人。",
+   "anchor": "You took in the exits before you looked at your surroundings.",
+   "start": 8570,
+   "end": 8631
+  },
+  {
+   "fact": "Ares 主动向 Kayla 预警新来的 mentalist Luca：他坐在吧台四十分钟、边听 Nixie 过流程边对全场每个人做套话（“He sat in the bar for forty minutes while Nixie ran through the protocols”），把“charming”称作一种“tactic”；他已向 Nixie 提过，但 Nixie 认为他不讨厌 Luca 因为“他 is a lot like me”。",
+   "anchor": "He sat in the bar for forty minutes while Nixie ran through the protocols, and I watched him work on every person in the room.",
+   "start": 10793,
+   "end": 10919
+  },
+  {
+   "fact": "Ares 带她出巷子时说“You’re more than I expected, which is inconvenient”，并就两人此前的事开口道歉“I handled what happened between us badly”，Kayla 直答“Yeah, you did”，两人关系由试探转为未言明的和解。",
+   "anchor": "I handled what happened between us badly",
+   "start": 12123,
+   "end": 12163
+  },
+  {
+   "fact": "Ares 用摩托车送 Kayla 回家，递头盔给她并亲手帮她扣紧；Kayla 由此判断他松下来时话会漏出来，并说这“unlike Aaron, who never let his act slip”。",
+   "anchor": "He grabs a helmet and holds it out to me, so I take it and he helps me secure it.",
+   "start": 13038,
+   "end": 13119
+  }
+ ]
+}

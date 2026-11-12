@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：法律威胁被 Clay 的执行力卸到可控；他与 Kayla 的关系完成从「占有语言」到「柔软交付」的升级（ch20 自白→本章示弱）；四人的反侦察体系（假名+监控+口径）首次完整展示。
 - **Tropes 兑现/反转**：兑现「安全主管审讯安全主管」的对决；反转是 Clay 赢在主动配合的礼仪；「grave」装傻句是全书 Clay 最冷的一次温柔。
 - **人物弧线**：Clay：程序性冷酷首次被 Kayla 看穿并卸下（You don't always have to be）；Marsh：例行公事式收网未果；Kayla：从被保护者转为 Clay 的破防者；Ares：不在场的技术支援（清监控）。
-- **叙事手法**：审讯戏以问答清单呈现，Clay 的内心战术旁白（deliberately）标注每一步；厨房戏用偷酒、抢衫的喜剧动作过渡；亲密段露骨不选入，只取「soft side」的叙事功能句；章末 wink 收束。
+- **叙事手法**：审讯戏以问答清单呈现，Clay 的内心战术旁白（deliberately）标注每一步；厨房戏用偷酒、抢衫的喜剧动作过渡；亲密段露骨不选入，只取「my softer side」的叙事功能句；章末 wink 收束。
 
 ## 精读
 > **原句 1:** "Last week, after the police showed up at The Pitt, I put security at the front gate, on the near side of the bridge, to intercept them if they come here. We do not need cops sniffing around. We protect our family, and here on Fear Island we are one big family."

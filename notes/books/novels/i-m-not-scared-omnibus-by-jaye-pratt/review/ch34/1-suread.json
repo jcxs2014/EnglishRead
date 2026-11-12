@@ -1,0 +1,74 @@
+{
+ "chapter": "ch34",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch34_chapter_1.txt",
+ "relations": [
+  "Vero ↔ Kayla：恋人／占有关系——原文“My paper-cut princess has been gone too long”与“Cave doesn’t get to touch what’s mine.”",
+  "Brawley ↔ Vero：贴身守护者——原文“Brawley grabs me from behind, both his arms wrapping around me and pulling me back from the cornstalks.”、““Calm down,” he whispers, holding me tighter. “I’ve got you.””",
+  "Clay ↔ 保安组（Khodi）：指挥上下级关系——原文“He instructs Khodi to start an entire grounds check, and that no one is to enter or leave the island until we find her.”",
+  "Cave ↔ Vero：由敌对转为给线索——Vero 指认““It was you,” I breathe”，Cave 不答只出谜语““The one you seek is not the one to blame. Look to the one who hangs from the stake and pays for his sins.””",
+  "Cave ↔ Luca：看守与被看守（绑在稻草人柱上、嘴被缝住）——原文“No, this time Luca is tied there, his wrists bound behind him and his head hanging forward. Blood mats his hair and runs down the side of his face, where his mouth is sewn shut.”"
+ ],
+ "numbers": [
+  "Chapter One",
+  "those two alive",
+  "no one is to enter or leave the island",
+  "one less that remains",
+  "Brawley shifts first",
+  "first I need to find her",
+  "the longest second of my life",
+  "One moment I’m myself",
+  "I need a minute",
+  "The one you seek is not the one to blame. Look to the one who hangs from the stake",
+  "never in a million years"
+ ],
+ "facts": [
+  {
+   "fact": "Vero 认定去拿食物的 Kayla 失踪超时，推开大门独自沿路去找，并让 Brawley 看住 Clay 和 Ares",
+   "anchor": "“I’m hungry anyway. You keep those two alive until I get back,” I yell over my shoulder as I push through the gate.",
+   "start": 1113,
+   "end": 1228
+  },
+  {
+   "fact": "Vero 在小径上发现被丢下的食物袋，食物撒了一地",
+   "anchor": "I freeze mid-step when I see the bag of food scattered on the path, our food spilled out everywhere.",
+   "start": 2523,
+   "end": 2623
+  },
+  {
+   "fact": "Vero 跑回营地告诉 Brawley：生菜在地上、苹果滚离小径、Kayla 不在那儿，并把 Brawley 拖到丢袋处",
+   "anchor": "I rush straight into his arms. “There is lettuce, Brawley, on the ground. And the apples rolled off the path. But she’s not there.”",
+   "start": 3163,
+   "end": 3294
+  },
+  {
+   "fact": "Clay 用无线电下令 Khodi 全面搜查全岛并禁止任何人进出岛；Khodi 回报这一侧的摄像头已坏",
+   "anchor": "He instructs Khodi to start an entire grounds check, and that no one is to enter or leave the island until we find her. Clay is too calm. Kayla is missing, and I want to scream at him. The radio crackles to life, and Khodi reports that the cameras on this side of the island are down.",
+   "start": 4334,
+   "end": 4618
+  },
+  {
+   "fact": "Cave 从玉米地走出，Vero 看到他双手沾着干涸的血并当场指认他，Cave 不回答只抛出一个谜语",
+   "anchor": "“It was you,” I breathe, the rage building, ready to unleash itself. “What did you do?”",
+   "start": 5325,
+   "end": 5412
+  },
+  {
+   "fact": "Ares 破出谜底后带众人奔向墓地，找到新挖的坟与沾血的铁锹，众人挖开棺材",
+   "anchor": "Ares shouts in alarm, and we all race to follow the direction of his voice, coming to a stop at the same time, facing a grave with freshly dug soil. There is a shovel beside it, blood coating the end.",
+   "start": 6785,
+   "end": 6985
+  },
+  {
+   "fact": "Vero 情绪解离崩溃，抛下要救 Kayla 的众人跑走，并拿走 Noa 的砍刀冲向玉米地",
+   "anchor": "“Brawley, we need your help,” Clay says, and I run.",
+   "start": 8597,
+   "end": 8648
+  },
+  {
+   "fact": "Vero 在玉米地中心发现 Luca 被绑在稻草人柱上、嘴被缝住；Cave 再出谜语把嫌疑指向 Luca，Vero 改信稻草人并把砍刀交给他，要他挖出自己后颈的芯片",
+   "anchor": "“Cut it out,” I say with finality.",
+   "start": 11103,
+   "end": 11137
+  }
+ ]
+}

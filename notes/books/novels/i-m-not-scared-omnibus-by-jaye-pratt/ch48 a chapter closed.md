@@ -45,7 +45,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 对侦探说：Aaron 是我认识过的最控制狂的人——他花了好多年让我相信他对我的所作所为是正常的，我又花了好多年修复那道损伤；我是真的不知道他在哪，如果知道，你们会是我第一个告诉的人。
 **关键词**：controlling / normal / fixing / genuinely / first people
-**为什么这样写**：「making me believe…normal」一句在警局把 ch29/45 的操纵史翻译成执法语言；if I did 的条件句把她的信用押在警方手里——与 ch39 Clay 的「主动配合」逻辑同构，她已学会他们的防御语法。
+**为什么这样写**：「making me believe that what he did to me was normal」一句在警局把 ch29/45 的操纵史翻译成执法语言；if I did 的条件句把她的信用押在警方手里——与 ch39 Clay 的「主动配合」逻辑同构，她已学会他们的防御语法。
 **读者视角提示**：Marsh 的 nod 与「he believes me」宣告法律线闭环；「a chapter of my life is closed」（回程句）由她亲口盖章——但 Jess 的火轮马上把叙事推向下一场冲突。
 
 > **原句 6:** "“I don’t care if she asked, begged, or filed a request form. She is not being strapped to a flaming wheel by a man who throws knives for a living.”"

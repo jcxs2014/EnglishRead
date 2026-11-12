@@ -32,7 +32,7 @@ modified: "2026-11-11"
 **中文理解**：Kayla 自陈恐慌发作的真相：没人告诉你——身体确信自己正在死去，越用力吸气空气越不来；明知这一点，也无济于事。
 **关键词**：nobody tells you / convinced it’s dying / harder you try / doesn’t help
 **为什么这样写**：作者用「nobody tells you」的科普口吻写体感，知识（it doesn't help）与体验的断裂被如实保留——这是全书对心理危机最诚实的段落之一，与 ch02 警示页的「without filters」呼应。
-**读者视角提示**：本段紧接「Breathe / I can’t draw a full breath」的碎片句之后，文体的碎裂先于解释出现——顺序不可调换。
+**读者视角提示**：本段紧接「Breathe.」…「I can’t draw a full breath into my lungs.」的碎片句之后，文体的碎裂先于解释出现——顺序不可调换。
 
 > **原句 4:** "I relax slightly, knowing it’s Doren. He shuffles in front of me and his hands cover mine. “Five things.”"
 

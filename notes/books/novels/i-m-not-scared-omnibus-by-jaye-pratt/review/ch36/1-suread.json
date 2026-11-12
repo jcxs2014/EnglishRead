@@ -1,0 +1,81 @@
+{
+ "chapter": "ch36",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch36_chapter_3.txt",
+ "relations": [
+  "Clay ↔ Kayla：占有式保护——原文“You didn’t find him?” We all turn and see Kayla coming down the stairs in one of Ares’s shirts. Even amidst this chaos, the possessive side of me wants her in my clothes. 与“He is going to need you. You will be the first thing he wants when he walks in that door.”",
+  "Kayla ↔ Aaron：前任／施暴者，出狱后一直跟踪她——原文“He told me he has been watching me since he got out of prison. I thought I was safe here, but he still found me.”",
+  "Ares ↔ Kayla：收留与照料（她穿他的衬衫、睡他的房间）——原文“one of Ares’s shirts”与“she stops at the door to Ares’s room and turns around.”",
+  "Brawley ↔ Vero：Vero 发作后收拾残局的人——原文“I don’t respond because Brawley knows Vero better than all of us. He is the one who picks up the pieces.”与“He has never really had to share Vero after an episode”",
+  "Cave ↔ Vero：同行并共同带走 Aaron——原文“What is more surprising is that Cave is carrying someone over his shoulder. This time, both he and Vero are moving toward the maintenance road that runs behind the island’s outer fence.”"
+ ],
+ "numbers": [
+  "Chapter Three",
+  "the next two hours",
+  "two hours becomes three",
+  "the last twenty-four hours",
+  "one of Ares’s shirts",
+  "we checked there twice",
+  "Footage from last night",
+  "split into four angles",
+  "The west path, four hours ago",
+  "the second point",
+  "the first tear",
+  "After a few minutes",
+  "the first thing he wants",
+  "the first time he didn’t like it",
+  "the first to know when he comes back",
+  "for a second; we just sit in silence",
+  "the one who picks up the pieces",
+  "the one time I hope he actually kills the guy"
+ ],
+ "facts": [
+  {
+   "fact": "Clay 与 Brawley 赶到玉米地，只见被砍倒的玉米和自己踩出的新小径，Cave 的柱子上空无一人，Vero 与 Cave 都不见",
+   "anchor": "Stalks are cut and thrown everywhere, loose corn is scattered across a new improvised path, and some stalks are bent at weird angles. We follow the trail until we get to the middle where Cave’s post stands, but there is nothing there.",
+   "start": 108,
+   "end": 342
+  },
+  {
+   "fact": "Clay 检查地上的血、用无线电让 Khodi 全岛警戒 Vero 与 Cave，两人和 Brawley 搜寻三小时仍一无所获",
+   "anchor": "We double back in case we missed something, and two hours becomes three—wherever Vero is, he doesn’t want to be found.",
+   "start": 1177,
+   "end": 1295
+  },
+  {
+   "fact": "Clay 向 Khodi 要过去二十四小时的监控录像；Khodi 发来并附言说明东侧摄像头已坏、已标出几处要点",
+   "anchor": "Footage from last night. East cameras are dead, but I pulled everything else. Flagged a few things you will want to see.",
+   "start": 3297,
+   "end": 3417
+  },
+  {
+   "fact": "录像显示四小时前 Vero 在西侧小径上走、背上有大量血；Noa 报告砍刀丢失，据此推断 Vero 用它割开了自己脖子上的芯片",
+   "anchor": "It confirms what we know already: Vero cut out his microchip. Noa messaged this afternoon that his machete was missing, which explains the cornfield. With how much blood we are seeing, he must have used it to cut his neck.",
+   "start": 4337,
+   "end": 4559
+  },
+  {
+   "fact": "录像第二段显示 Cave 扛着一个人，与 Vero 一起朝岛外围栅栏后的维修路移动",
+   "anchor": "What is more surprising is that Cave is carrying someone over his shoulder. This time, both he and Vero are moving toward the maintenance road that runs behind the island’s outer fence.",
+   "start": 4680,
+   "end": 4865
+  },
+  {
+   "fact": "Kayla 讲出 Aaron 出狱后一直盯着她；Clay 说她当时完全无助、不知道自己会不会得救，Kayla 终于哭出来",
+   "anchor": "That’s what does it, what breaks her, and the first tear rolls down her cheek.",
+   "start": 6291,
+   "end": 6369
+  },
+  {
+   "fact": "Kayla 坚持要去维修路帮忙，Clay 拒绝（她早上才被活埋、只是在靠肾上腺素撑着、Vero 回来第一个要见的人是她），Brawley 附议；她睡前要 Clay 承诺叫醒她",
+   "anchor": "“Promise you will wake me up. That you won’t let me sleep.”",
+   "start": 10003,
+   "end": 10062
+  },
+  {
+   "fact": "Brawley 担心 Vero 事后会说服自己是失控而非正义；Ares 提出 Cave 可能在管控局面（他吓孩子却不下手），Clay 由此判断没有目标的 Vero 可能造成更大破坏",
+   "anchor": "“I think it’s possible. Cave has seen Vero’s episodes, and we really have no idea how much humanity he has left. But it’s enough that he scares kids but won’t hurt them.”",
+   "start": 11385,
+   "end": 11555
+  }
+ ]
+}

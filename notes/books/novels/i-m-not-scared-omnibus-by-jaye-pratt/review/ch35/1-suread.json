@@ -1,0 +1,83 @@
+{
+ "chapter": "ch35",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch35_chapter_2.txt",
+ "relations": [
+  "Kayla ↔ Aaron：前任／敌对囚禁者——原文“How could anyone have known my crazy ex would show up and try to bury me alive?”",
+  "Aaron ≡ Luca（同一身份，Clay 收到的照片是 Luca）——原文““Luca,” Ares says, voice deceptively calm.”与“My eyes widen. “That’s Aaron.””",
+  "Ares ↔ Kayla：伴侣级亲密照料——原文“Ares walks him out, and when he comes back, he scoops me up in his arms, even though I protest. He takes me up to his room and into his bathroom, where he undresses me while the shower warms.”与“he helps me into one of his shirts and tucks me into his bed.”",
+  "Clay ↔ Kayla：救助与指令式上下级——原文“Clay catches me before I hit the ground and pulls me up into his arms.”与““Stay here,” he says.”",
+  "Brawley ↔ Vero：守护者（被 Kayla 反过来点出）——原文“He would hate me if I left you right now”"
+ ],
+ "numbers": [
+  "Chapter Two",
+  "The first thing I’m aware of",
+  "His face is the first I see",
+  "between the two of them",
+  "a few feet away",
+  "back half turned",
+  "he just needed a minute",
+  "In a minute",
+  "We need to get Kayla to the house first",
+  "about thirty feet",
+  "One second everything is fine",
+  "after a second, he frowns",
+  "in one piece",
+  "for a second, then turns and follows Clay outside",
+  "any of those three",
+  "another day",
+  "the one who was just pulled out of a box",
+  "down it in one go",
+  "one of his shirts",
+  "the first to know"
+ ],
+ "facts": [
+  {
+   "fact": "Kayla 在棺材里醒来，听到 Brawley 的声音才安下心，并装成昏迷",
+   "anchor": "Dirt drops on me as someone removes the coffin’s lid, and I panic, feigning unconsciousness. But when I hear Brawley, his voice calms me a little.",
+   "start": 313,
+   "end": 459
+  },
+  {
+   "fact": "Brawley 与 Ares 合力把 Kayla 从坑里拖出放在地上",
+   "anchor": "Then between the two of them they drag me out of the hole and lie me on the ground nearby.",
+   "start": 848,
+   "end": 938
+  },
+  {
+   "fact": "Kayla 问 Vero 在哪，所有人都别开眼、无人回答，Brawley 只说他需要一分钟",
+   "anchor": "I look around again. “Where’s Vero?” They all look away, even Clay, and no one answers me.",
+   "start": 1826,
+   "end": 1916
+  },
+  {
+   "fact": "Clay 判定是 Aaron 干的；他雇的私家侦探来电说 Aaron 最后出现在她的阁楼附近并发来照片",
+   "anchor": "“The PI I hired just called and told me he was last seen near your loft. He forwarded a photo.”",
+   "start": 2839,
+   "end": 2934
+  },
+  {
+   "fact": "Clay 命 Brawley 去叫 Banks（不是医生但有医疗训练，否则就得送医院），Kayla 拒绝医院、同意让 Banks 来；Banks 检查后确认她没脑震荡、瞳孔与心率正常并给了药",
+   "anchor": "“Banks it is,” I tell them. I’m not going to the hospital.",
+   "start": 5839,
+   "end": 5897
+  },
+  {
+   "fact": "Brawley 查手机 app 发现 Vero 的定位在玉米地，Clay 判断他以为是 Cave 干的；Brawley 与 Clay 出发去找，Brawley 向 Kayla 保证一定把他带回来",
+   "anchor": "“He’s in the cornfield.”",
+   "start": 7753,
+   "end": 7777
+  },
+  {
+   "fact": "Kayla 向 Ares 承认自己需要他，关系从被保护转为彼此需要",
+   "anchor": "About how much I needed you in that moment. I might talk a big game about not being able to be controlled again or manipulated, but you have weaseled your way in and are now someone I need.",
+   "start": 9364,
+   "end": 9553
+  },
+  {
+   "fact": "Ares 把 Kayla 抱上自己房间、替她洗澡、给她换上自己的衬衫并安置在自己的床上",
+   "anchor": "Ares walks him out, and when he comes back, he scoops me up in his arms, even though I protest.",
+   "start": 12390,
+   "end": 12485
+  }
+ ]
+}

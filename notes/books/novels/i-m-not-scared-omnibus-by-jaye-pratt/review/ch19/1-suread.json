@@ -1,0 +1,89 @@
+{
+ "chapter": "ch19",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch19_chapter_3.txt",
+ "relations": [
+  "上下级：Rogue 是 Kayla 的老板，用「I could have fired you, but I didn’t.」压住她的争辩，并勒令「you are not to step foot back in this bar for seven days」；她认识 Kayla「three years」，还说她「running on fumes for days」。",
+  "敌对：Vesper 对 Vero 毫不留情，称他「a stubborn little parasite」「a life-sucking leech」「He’s an idiot」「He isn’t a bad person, but … you probably already know that」；她把他从 Asylum 屋顶推下去，还说「he deserved to become a human pancake」。",
+  "同盟／护短：Vesper 明确站 Brawley 一边——「I’m not here because I care about him—I care about Brawley. Seeing him miserable makes me want to kill the leech, but doing that would make it worse.」；黄花的寓意也是 Brawley 告诉她的：「Yellow was Vero’s idea. Brawley tells me it signifies friendship or some bullshit」。",
+  "前伴侣／虐待与操控：Aaron 是 Kayla 的旧爱，「I thought he was the love of my life, and he saved me from living in a toxic home」，但这段关系里她「I spent years with a man who made me feel like his abuse was love」；Vero 送来的黄菊正是这条旧伤的触发点——「Aaron always sent me red roses」vs「he isn’t Aaron and has sent these because he is genuinely sorry」。",
+  "前伴侣／出轨：Kyle 是 Kayla 同住很久的男友，「I think that’s why I stayed with Kyle for so long. His apartment was comfortable, and while I knew he was cheating for at least half of our relationship, it was nice not to be alone.」"
+ ],
+ "numbers": [
+  "every night",
+  "until next week",
+  "a week off",
+  "running on fumes for days",
+  "three years",
+  "sleep for a week",
+  "seven days",
+  "the week off",
+  "the last few days",
+  "half of our relationship",
+  "half a block from home",
+  "after the other night",
+  "the last corner",
+  "the one time in my life",
+  "At first",
+  "at first",
+  "so many times",
+  "I spent years with a man",
+  "the first time in so long",
+  "for the first time in my life",
+  "One glass of wine",
+  "the last of the bottle",
+  "the highlight of my week",
+  "gets one leg through",
+  "a few minutes",
+  "one go"
+ ],
+ "facts": [
+  {
+   "fact": "Rogue 强制 Kayla 停工休假一周，并警告七天内不得再踏进酒吧，否则只能把她辞退。",
+   "anchor": "you are not to step foot back in this bar for seven days, or I will be forced to let you go.",
+   "start": 1020,
+   "end": 1112
+  },
+  {
+   "fact": "Kayla 夜路回家时感到被人盯着，扫视一圈无异常，直到转过最后一个街角那感觉才消失。",
+   "anchor": "Once I round the last corner, turning onto my street, the feeling vanishes, and I laugh at myself.",
+   "start": 2198,
+   "end": 2296
+  },
+  {
+   "fact": "Mabel 递给 Kayla 一束黄花并说是「secret admirer」，Kayla 立刻被拽回 Aaron 的记忆。",
+   "anchor": "she says as I reach the bottom step, holding out a bunch of yellow flowers",
+   "start": 2521,
+   "end": 2595
+  },
+  {
+   "fact": "Kayla 翻过 Aaron 留下的白色道歉卡，卡上只有「I’m sorry.」，她对着卡片回了一句「Yeah, me too.」，随后立誓再也不为男人哭。",
+   "anchor": "I’m sorry.",
+   "start": 4174,
+   "end": 4184
+  },
+  {
+   "fact": "Vesper 破窗而入时，Kayla 举起空酒瓶当武器，坚持在弄清来意之前不放下。",
+   "anchor": "I won’t lower it until I know why she is here.",
+   "start": 6928,
+   "end": 6974
+  },
+  {
+   "fact": "Vesper 告诉 Kayla：Vero 爬上 Asylum 屋顶不肯下来，她把他推了下去，Karo 拿垫子接住所以没死。",
+   "anchor": "I pushed him off. It was the highlight of my week watching him fall.",
+   "start": 8543,
+   "end": 8611
+  },
+  {
+   "fact": "Vesper 表明立场：她不在乎 Vero、只在乎 Brawley，并劝 Kayla 赶紧跑。",
+   "anchor": "I would run if I were you. I’m not here because I care about him—I care about Brawley.",
+   "start": 8873,
+   "end": 8959
+  },
+  {
+   "fact": "Kayla 开口感谢 Vesper 上楼救 Vero，Vesper 拒绝道谢并让她把窗户锁好，随后从窗口离开。",
+   "anchor": "Don’t thank me,” she says. “And lock your window.",
+   "start": 9754,
+   "end": 9803
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "chapter": "ch39",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch39_chapter_6.txt",
+ "relations": [
+  "Brawley 与 Vero：伴侣（恋人，带占有性的宣告）——Brawley 说「You’re mine—that is non-negotiable.」「Where you go, I follow.」，Vero 回「Always,」「I will always come back to you.」；数字「three fucking days」",
+  "Brawley 与 Clay：同盟与共犯（共同施刑、共同处理尸体）——「This moment is one Clay and I will take to our graves.」「I don’t ask Clay where we’re going. I trust he has a plan.」",
+  "Clay 与 Kayla：保护者/盟友——Clay 对被埋的 Aaron 说「We will take good care of her, and she won’t think about you again.」",
+  "Aaron 与 Kayla：加害者与受害者——Aaron 仍坚持「she is mine」，Brawley 反击「She is the toughest person I have met, and you spent years trying to break her.」「you are the one who ends here」；数字「years」",
+  "Vero 与 Cave：由敌对转向说不清——Vero 说「I can’t believe you let Cave cut out your chip,」「He had his chance to kill me and didn’t take it」「I planned to kill Cave until I realized it wasn’t his fault.」"
+ ],
+ "numbers": [
+  "Chapter Six",
+  "another two punches to the gut",
+  "this one is mine",
+  "the one who ends here",
+  "the only one who can manipulate the security systems",
+  "twice more in the ribs",
+  "half-dead",
+  "We half-drag him to the cemetery",
+  "a month the grass will grow over it",
+  "three long days",
+  "three fucking days",
+  "one piece",
+  "one of a kind",
+  "The two of you in one day",
+  "one hand on his sternum",
+  "even for a second",
+  "the second I touch his skin",
+  "ten seconds",
+  "three days he was gone",
+  "twice",
+  "years",
+  "zero resistance"
+ ],
+ "facts": [
+  {
+   "fact": "Brawley 等 Clay 先把 Aaron 打到膝盖发软后接手，把 Aaron 撞进 Cipher 的工作台，脑袋撞在木头上",
+   "anchor": "I slam him into Cipher’s workbench, hard enough that the tools rattle and his head cracks against the wood.",
+   "start": 797,
+   "end": 904
+  },
+  {
+   "fact": "Brawley 逐条清算：其一为关掉摄像头，其二为给她下药，其三为跟踪她",
+   "anchor": "That is for drugging her.",
+   "start": 995,
+   "end": 1020
+  },
+  {
+   "fact": "Aaron 仍宣称「she is mine」，Clay 当面驳回：她早已是「she is very much ours」",
+   "anchor": "she is very much ours.",
+   "start": 1627,
+   "end": 1649
+  },
+  {
+   "fact": "两人把半死不活的 Aaron 拖到墓地，在当年他埋 Kayla 的那座坟里打开棺材盖，把他扔了进去",
+   "anchor": "I open the lid of the coffin, then Clay shifts closer and drops Aaron inside.",
+   "start": 3603,
+   "end": 3680
+  },
+  {
+   "fact": "Clay 用铲子把泥土堆在棺材上封死，棺材渐渐和别的道具坟一样；Aaron 在棺中发出闷响的求饶",
+   "anchor": "Clay picks up the shovel and piles dirt on the coffin.",
+   "start": 3941,
+   "end": 3995
+  },
+  {
+   "fact": "Brawley 与 Clay 约定绝不告诉 Kayla Aaron 被埋在这里——Brawley 说「I know he won’t tell Kayla that Aaron is buried here, and neither will I.」",
+   "anchor": "I know he won’t tell Kayla that Aaron is buried here, and neither will I.",
+   "start": 4702,
+   "end": 4775
+  },
+  {
+   "fact": "Brawley 回家把刚洗过澡的 Vero 揪住后颈拖上楼，质问「You cut out your fucking tracker」与「You were gone three fucking days」，Vero 承认并道歉",
+   "anchor": "You cut out your fucking tracker",
+   "start": 6076,
+   "end": 6108
+  },
+  {
+   "fact": "Vero 事后交代：芯片是 Cave 割的，Cave 本有机会杀他却没动手；自己因为 Kayla 在棺材里而慌乱，原打算杀掉 Cave，直到意识到那不是 Cave 的错",
+   "anchor": "I panicked. She was in that coffin, and I needed to do something. I planned to kill Cave until I realized it wasn’t his fault.",
+   "start": 13770,
+   "end": 13896
+  }
+ ]
+}

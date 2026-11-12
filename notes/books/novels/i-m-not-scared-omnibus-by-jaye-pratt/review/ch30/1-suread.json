@@ -1,0 +1,70 @@
+{
+ "chapter": "ch30",
+ "text": "notes/books/novels/i-m-not-scared-omnibus-by-jaye-pratt/text/ch30_chapter_14.txt",
+ "relations": [
+  "Kayla 与 Ares：受雇在 Ares 的酒吧上一班（临时工），随后成为恋人，“Ares asked me if I could work a shift at his bar this week, and I agreed because it just so happened to fall on my night off.” / “He moves, fucking me against the door, and I am unable to think about anything else.”",
+  "Kayla 与 Ares：立下不可破的边界，Ares 口头承诺「“No manipulation,” he says.」",
+  "Kayla 与 Clay：她把不安发给 Clay，Clay 夜里出现在她公寓守着她，「Clay smirks from his seat at my dining table. “I have my ways.”」",
+  "Kayla 与 Vero/Nixie：酒吧同事，Vero 向她讨吻、Nixie 是管束他的管理者，「He sighs and leans in, pressing a kiss to my lips.」",
+  "Kayla 与 Cave：Cave 用谜语给她一个「影子」的答案并随即离开，「The answer is a shadow, but why would he be giving me that riddle?」"
+ ],
+ "numbers": [
+  "Chapter Fourteen",
+  "the next half an hour",
+  "Two men in costumes",
+  "within a minute",
+  "for the first time",
+  "You have been here a few times now",
+  "Ares is quiet for a second"
+ ],
+ "facts": [
+  {
+   "fact": "Cave 走进 Ares 的酒吧，给 Kayla 留下一整段谜语后立刻离开，谜底指向影子",
+   "anchor": "I wear the shape of everything but have no shape of my own. I follow without being invited and leave without being asked. I am closest to you when your back is turned, and I vanish the moment you face me. I have been here longer than you know.",
+   "start": 2421,
+   "end": 2664
+  },
+  {
+   "fact": "Kayla 收店时再次产生被观察的感觉，站到门口盯着巷子里进出礼物店的人",
+   "anchor": "I stand in the doorway and look out into the alley, peering at the people still going in and out of the gift shop.",
+   "start": 3808,
+   "end": 3922
+  },
+  {
+   "fact": "Ares 从背后走近吓到 Kayla，她撞到东西、手中的杯子泼出液体",
+   "anchor": "I spin and my elbow connects with something solid. The glass in my hand tips, and cold liquid runs down my wrist and drips to the floor between us.",
+   "start": 4161,
+   "end": 4308
+  },
+  {
+   "fact": "在储藏室里 Kayla 先立下不可破的底线：若 Ares 拿她刚坦白的过去换东西，她会走且不回头，Ares 答应不做操纵",
+   "anchor": "if you use this to get something from me, I will walk away and won’t come back. That is a rule you cannot break.",
+   "start": 6560,
+   "end": 6672
+  },
+  {
+   "fact": "两人在储藏室发生关系",
+   "anchor": "He moves, fucking me against the door, and I am unable to think about anything else.",
+   "start": 8562,
+   "end": 8646
+  },
+  {
+   "fact": "Ares 骑车送 Kayla 回阁楼并叮嘱她锁好门窗，Kayla 嘴硬回他一句「Yes, Dad」",
+   "anchor": "“Make sure you lock your door and windows.”",
+   "start": 10033,
+   "end": 10076
+  },
+  {
+   "fact": "Kayla 睡前给 Clay 发消息，说只是想让有人知道自己的不安",
+   "anchor": "I know it’s late, but the feeling is back. I just wanted someone to know.",
+   "start": 11146,
+   "end": 11219
+  },
+  {
+   "fact": "Clay 未被邀请已坐在 Kayla 公寓的餐桌旁，Kayla 最终让他上床一起睡",
+   "anchor": "Clay smirks from his seat at my dining table. “I have my ways.”",
+   "start": 12024,
+   "end": 12087
+  }
+ ]
+}

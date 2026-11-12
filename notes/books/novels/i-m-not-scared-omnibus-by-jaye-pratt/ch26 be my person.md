@@ -39,7 +39,7 @@ modified: "2026-11-11"
 **中文理解**：Vero 夸 Kayla 吓人有天分，她答：是啊，我从小学会怎样让自己隐形、安静。
 **关键词**：grew up / invisible / quiet
 **为什么这样写**：全书最轻的一句台词装着最重的童年：隐形是生存技能，如今被游戏重新估值为天赋；Vero 接「That makes me sad, but it is useful here」——先共情再实用，是他的诚实顺序。
-**读者视角提示**：与 ch19 的「programmed to believe I could have stopped it」同源：Kayla 的每项能力都先来自防御；此处不展开家庭细节。
+**读者视角提示**：与 ch19 的「programmed to believe that I could have stopped it」同源：Kayla 的每项能力都先来自防御；此处不展开家庭细节。
 
 > **原句 5:** "As the night goes on, she keeps appearing in places I didn’t send her; she has worked out on her own where the best hiding spots are for the best scares."
 

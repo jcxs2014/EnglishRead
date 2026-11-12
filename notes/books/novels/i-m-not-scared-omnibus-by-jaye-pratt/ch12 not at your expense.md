@@ -60,7 +60,7 @@ modified: "2026-11-11"
 **中文理解**：Ares 不由分说伸出手要带她去清洗伤口，Kayla 看手、再看脸，两人之间有过一次 Brawley 读不懂的交流；她最终握住他的手，被他拉起来送出舱口，没有回头。
 **关键词**：something pass between them / takes his hand / without looking back
 **为什么这样写**：Brawley 的叙述在此故意停在「读不懂」上——他第一次在 Ares 与别人之间看见无法归档的瞬间；without looking back 把主动权留在 Kayla 一侧。
-**读者视角提示**：Ares 的坚持（I said it needs to be cleaned）与他一贯的旁观姿态相悖，Brawley 已察觉并把这事「file away」；这条线通向后文 Ares 的转变。
+**读者视角提示**：Ares 的坚持（I said it needs to be cleaned）与他一贯的旁观姿态相悖，Brawley 已察觉并把这事「file it away for later」；这条线通向后文 Ares 的转变。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

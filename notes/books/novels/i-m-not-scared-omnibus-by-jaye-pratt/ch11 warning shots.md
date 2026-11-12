@@ -45,7 +45,7 @@ modified: "2026-11-11"
 
 **中文理解**：Kayla 那一枪落在 Clay 头侧六寸的树上；她放下枪直视他说：我从不失手，刚才那是警告弹。
 **关键词**：never miss / warning shot / dead in the eye
-**为什么这样写**：先让读者看见「打偏」，再让她自己改写叙事——失手变成故意；warning shot 把彩弹游戏瞬间接回 ch09 墓地的语言（那时 Clay 也说「taste of death」）。
+**为什么这样写**：先让读者看见「打偏」，再让她自己改写叙事——失手变成故意；warning shot 把彩弹游戏瞬间接回 ch09 墓地的语言（那时 Clay 也说「taste of what death feels like」）。
 **读者视角提示**：Vero 当场拆穿「她是故意打偏」，所以这不是吹牛而是战术表演；Kayla 与 Clay 的「警告」互为镜像。
 
 > **原句 6:** "Nixie comes out and runs us through the safety briefing—a two-minute head start for me, stay inside the boundary markers, no dead bodies."

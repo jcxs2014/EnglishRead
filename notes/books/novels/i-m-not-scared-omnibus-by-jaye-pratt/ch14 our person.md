@@ -46,7 +46,7 @@ modified: "2026-11-11"
 **中文理解**：Brawley 对 Ares 说：随你怎么否认——如果不是 Kayla 向你发出召唤，你绝不可能同意戴上那条腕带。
 **关键词**：call to you / agreed / wristband
 **为什么这样写**：Brawley 用一条行为记录（Ares 从不参加追逐）反推他的动机；「deny it all you like」承认 Ares 会继续否认，但把否认本身变成无效动作。
-**读者视角提示**：对照 ch03 Ares 自陈「rarely takes part, prefers the bar」——Brawley 的推理有前文支撑，但 Kayla 是否「召唤」过他仍是推断。
+**读者视角提示**：对照 ch03 Ares 自陈「rarely takes part, as he prefers working at the bar」——Brawley 的推理有前文支撑，但 Kayla 是否「召唤」过他仍是推断。
 
 > **原句 6:** "“The woman about to come out that door, you are going to forget her name, her face, and that this bar even exists. You are going to walk out of this alley and never come back.”"
 

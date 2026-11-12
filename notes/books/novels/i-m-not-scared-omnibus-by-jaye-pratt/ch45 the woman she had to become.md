@@ -10,7 +10,7 @@ modified: "2026-11-11"
 - **情感弧线位置**：疤痕线闭环（ch37 Aaron 抛出→本章 Kayla 亲证）；Vero 的「安静恐惧」被直面而非用药压制；蜡像回收 ch03 Banks 委托伏笔，Kayla 对「被复制」的反应（awesome）为她的主体性再证。
 - **Tropes 兑现/反转**：兑现「创伤问答」；反转是 Vero 问完先哭、Kayla 反抱他；「恐怖蜡像」被处理成喜剧家具之争。
 - **人物弧线**：Vero：主动开口（怕憋到螺旋）+ 为她的过去哀悼；Kayla：疤痕真相首次完整交付、对蜡像的接纳；Clay：拒蜡像=直男式诚实；Banks：等身蜡像=其手艺巅峰（ch03 拒做皮肤巫偶的对照）。
-- **叙事手法**：清晨段露骨不选入、只取关系功能句；疤痕问答用「手移到髋」的动作引导；哀悼段以「silent cry」与「doesn't tell me it's okay」写双向；蜡像段以厨房群像喜剧收束。
+- **叙事手法**：清晨段露骨不选入、只取关系功能句；疤痕问答用「手移到髋」的动作引导；哀悼段以「silently cry」与「doesn't tell me it's okay」写双向；蜡像段以厨房群像喜剧收束。
 
 ## 精读
 > **原句 1:** "I hate the quiet. It’s when the noise is gone and thoughts start to slowly creep back in. What Aaron said fills my mind. I have been trying to push it out, but here it is yet again."

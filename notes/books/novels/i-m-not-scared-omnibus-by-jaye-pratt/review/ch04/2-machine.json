@@ -57,12 +57,17 @@
       "no": 5,
       "segments": [
         {
-          "text": "Ares is a puppet master who has convinced everyone he is holding the strings for their own good. He leans in close to Ni",
+          "text": "Ares is a puppet master who has convinced everyone he is holding the strings for their own good",
           "ok": true,
           "pos": 13073
+        },
+        {
+          "text": "He leans in close to Nixie, his large body easily fitting across the bar. Whatever it is he says, she is eating up",
+          "ok": true,
+          "pos": 13170
         }
       ],
-      "words": 41
+      "words": 42
     },
     {
       "block": "原句6",
@@ -205,7 +210,7 @@
   "counts": {
     "blocks": 6,
     "quote_long": 0,
-    "segments": 6,
+    "segments": 7,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
