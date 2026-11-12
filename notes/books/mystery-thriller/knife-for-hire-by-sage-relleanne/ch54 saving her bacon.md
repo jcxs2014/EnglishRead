@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：「直接转语音信箱」——重复四遍；……「冲向我的车、加速驶离、奔向我知道的那条唯一旧公路的人不是我；看见翻倒的车、肺缩紧的人不是我。直到我落到她身边，我才回到自己的身体里。」
 
-**关键词**：Direct to voicemail ×4 / I'm not the one who sprints / I only land back in my body
+**关键词**：Direct to voicemail / I'm not the one who sprints / I only land back in my body
 
 **为什么这样写**：四遍「直接转语音信箱」是作者对「打不通」的重复敲击——每一次都是一次心跳。而「那个人不是我」的解离写法，把极端焦虑写成灵魂出窍：他不承认那是自己的身体，因为那具身体在失控。
 

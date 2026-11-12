@@ -54,7 +54,7 @@ modified: "2026-11-12"
 
 **读者视角提示**：这条线把全书串成一个闭环：Orzo 藏的毒 → 她男友吃了 → 六周前变成无名尸 → Reuben 的会议 → 她接的第一单。所有因果都从那只青蛙里长出来。
 
-> **原句 5:** ""I—yes there was someone named Maple there, but I didn't meet them." … "Maple was Reuben's wife," Kale murmurs. "Oh." Cinnamon's lips purse in concern. … She is still mine, even if he has his arms around her. That is the thought that maintains my sanity."
+> **原句 5:** ""I—yes there was someone named Maple there, but I didn't meet them." … She is still mine, even if he has his arms around her. That is the thought that maintains my sanity. … "Maple was Reuben's wife," Kale murmurs. "Oh." Cinnamon's lips purse in concern."
 
 **中文理解**：「我——是的，那里有个叫 Maple 的人，但我没见到他们。」……「Maple 是 Reuben 的妻子。」Kale 低声说。「哦。」Cinnamon 的嘴唇抿起来，露出关切……她仍然是我的，即使他的手臂环着她；正是这个念头让他保持清醒。
 
@@ -130,7 +130,7 @@ modified: "2026-11-12"
 | frog | 青蛙 | "What happened to the frog?" I interject. |
 | boyfriend | 男朋友 | Her eyes flash open. "He was my boyfriend. Not a good one. He stabbed me and then threw the frog. |
 | website | 网站 | "But your website ended up on .carrot." Reuben mutters in absolute shock from behind me. |
-| kitchen | 厨房 | And with all three in the kitchen it is easy to tell how different they are. |
+| kitchen | 厨房 | Her eyes flash open. "He was my boyfriend. Not a good one. He stabbed me and then threw the frog. |
 | bodies | 尸体 | Kale tightens his grip on her. "No. We all come with bodies in one way or another." |
 
 ## 一句话总结
