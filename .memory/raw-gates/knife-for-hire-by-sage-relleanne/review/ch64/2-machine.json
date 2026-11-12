@@ -1,0 +1,321 @@
+{
+  "chapter": 64,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/ch64 spill the beans.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch64_64_spill_the_beans.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He won't quit screaming. My shoulders are going to fall off. \"So is anyone coming to save us, or should I assume we are ",
+          "ok": true,
+          "pos": 33
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Beanie spins around the beam, but this time, the phone cord comes loose. She pounces forward, yanks on it, and is able t",
+          "ok": true,
+          "pos": 252
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A million emotions bubble up. The lid covering them explodes into outer space, and I am forced to come to terms with the",
+          "ok": true,
+          "pos": 453
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I have to come to terms with years of accidents",
+          "ok": true,
+          "pos": 1090
+        },
+        {
+          "text": "Of deaths",
+          "ok": true,
+          "pos": 1139
+        },
+        {
+          "text": "Because of me. They deserved it. Sherry's voice echoes around my mind, and for the first time in my life, I believe her.",
+          "ok": true,
+          "pos": 1150
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Bark! Bark! My eyes snap up, and I find Beanie has returned, except now she has company. In the form of three men. My th",
+          "ok": true,
+          "pos": 1393
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Son! Surely you won't save this bitch over your own father!\" He lets out a strangled noise beside me. \"I will welcome y",
+          "ok": true,
+          "pos": 1765
+        },
+        {
+          "text": "\"Kale, you can get me down a different way, you don't have to do this,\" I tell him. \"You don't need to make the choice.\"",
+          "ok": true,
+          "pos": 1930
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But there she is in the flesh. Aunt Sherry. The one who always showed up to clean up my messes. \"Sweetheart, I left you ",
+          "ok": true,
+          "pos": 2149
+        },
+        {
+          "text": "Sherry moves forward, shoulder checking Orzo out of the way. \"Romaine, I would have done this decades ago if I didn't th",
+          "ok": true,
+          "pos": 2429
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As his screams begin. As they end. As I finally make it close enough to the ground for Reuben to tug me the rest of the ",
+          "ok": true,
+          "pos": 2895
+        },
+        {
+          "text": "\"So it's true,\" Sherry titters, breaking through and staring down at me. \"Take tonight sweetheart, but Cin, we need to t",
+          "ok": true,
+          "pos": 3158
+        }
+      ],
+      "words": 81
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "64. Spill the Beans",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5,
+      6
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1665,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 70 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
