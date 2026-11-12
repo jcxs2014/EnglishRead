@@ -34,24 +34,21 @@ modified: "2026-11-12"
 
 **读者视角提示**：从这一秒起审讯换了剧本：他把她错认成某个女人——她将在下一段顺势接管那个身份。
 
-> **原句 3:** "He speaks about himself in third person now? It must be the Death Benefits.
+> **原句 3:** "He shakes his head side to side, like he’s trying to shake the memory out, as he begins to sob. “Please, please, don’t do it again. I can’t hold any more.” He flinches away from me. “He can’t hold any more,” he emphasizes, pointing his thumbs at himself."
 
+**中文理解**：他摇头像要把记忆甩出去，边哭边求「别再来了，装不下了」，还闪躲着用拇指指自己强调——「他装不下了」。第三人称自称是记忆碎裂的体征：她判定这是 Death Benefits 过载。
 
-This is the worst fracture I’ve ever seen—he can’t hold any more of the memories."
+**关键词**：sob、flinches、emphasizes
 
-**中文理解**：他开始用第三人称说自己——「他装不下了」。她判断：Death Benefits 过载，记忆碎裂，比她见过的任何一例都重。
+**为什么这样写**：哭求与指认自己用两个引号段接力，第三人称的「他」在拇指指认里获得肉身——语言症状被写成可视动作；审讯者瞬间转成法医视角，诊断只用了两行。
 
-**关键词**：fracture、memories、worst
-
-**为什么这样写**：「第三人称自称」这个语言症状被她当作医学体征诊断——审讯者瞬间转成法医视角；「the worst fracture I've ever seen」的定级把职业经验的分量压在一个短句上。
-
-**读者视角提示**：记住「装不下」：记忆是容器、容量有限——这个设定将在她自己身上被反复试探。
+**读者视角提示**：记住「装不下」：记忆是容器、容量有限——这套容积规则将在她自己身上被反复试探。
 
 > **原句 4:** "“Reynolds.” His head shifts back like it’s odd I don’t already know. “Hayden would never leave you, my queen,” he adds with promise. “Hayden is still searching for the blood gifted; his army grows.”"
 
 **中文理解**：恍惚间闪回清醒：他向「王后」复命——「你的儿子要走了，在拉拢人手」；那位是 Reynolds。而「Hayden 永远不会离开您」：他仍在四处搜罗血赋者，军队在壮大。
 
-**关键词**：rally、searching、grows
+**关键词**：searching、grows、queen
 
 **为什么这样写**：一句复命完成史书级情报投递：出走者与留下者各占半句，忠诚与野心同框；「like it's odd I don't already know」的细节让错乱者保持了他的人格逻辑——在他的时间里这些是常识。
 
@@ -117,18 +114,15 @@ This is the worst fracture I’ve ever seen—he can’t hold any more of the me
 
 **读者视角提示**：「formality concerns me」六个字是她情报本能的亮剑：她知道被排除在答案之外了——这口气将喂养她整本书的追查冲动。
 
-> **原句 11:** "In the depths of the dungeon, I’ve grown more confused and unsettled than I was when I arrived.
-
-
-Darkness often lives in silence."
+> **原句 11:** "In the depths of the dungeon, I’ve grown more confused and unsettled than I was when I arrived."
 
 **中文理解**：走进地牢时她带着一个疯子的谜，走出来时又背上父亲与上司的合谋——「黑暗常栖身于沉默。」
 
-**关键词**：depths、unsettled、silence
+**关键词**：depths、confused、unsettled
 
-**为什么这样写**：章末把整场审讯的收获清零重计（more confused than arrived），再以一句箴言收束——作者用「零产出」标注真相的代价；箴言本身是给读者的解码提示：接下来要读的是沉默，不是台词。
+**为什么这样写**：章末把整场审讯的收获清零重计（more confused than arrived）——作者用「零产出」标注真相的代价；走出地牢的谜比走进时更多，这句自陈给整场戏定了亏本结算的基调。
 
-**读者视角提示**：记住本章的「三缄其口」（父亲不回头／父亲那一刀／两人齐声无可奉告）——下一章她的每一个越权动作都是对这份沉默的报复。
+**读者视角提示**：记住本章的三处沉默（父亲不回头／父亲那一刀／两人齐声无可奉告）——下一章她的每一个越权动作都是对这份沉默的报复。
 
 ## 本章词汇
 
@@ -155,5 +149,5 @@ Darkness often lives in silence."
 | chains | 链条、锁链 | His eyes look at his wrinkled hands held tightly, the slack in the chains allowing the movement. |
 | darkness | 黑暗 | Father walks into the peripheral darkness at the opposite side of the cell, watching me now from behind Tenvelo. |
 ## 一句话总结
-一场审讯翻出半部世界史，却在她即将听到「little fire」是谁时被父亲一刀封口——地牢没有给她答案，只给了她两道合谋的背影和一句「黑暗常栖身于沉默」。
+一场审讯翻出半部世界史，却在她即将听到「little fire」是谁时被父亲一刀封口——地牢没有给她答案，只给了她两道合谋的背影，和一句落在黑暗里的箴言：黑暗常栖身于沉默。
 

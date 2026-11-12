@@ -88,7 +88,7 @@ modified: "2026-11-12"
 
 **中文理解**：旧线人隔着栅栏向她勾手指：Triovalice 之前她办的最后一个项目——脸伤已愈数月，说明再没交出新情报；绞架与「短短一跌」在等他。
 
-**关键词**：familiar、wiggle、noose
+**关键词**：familiar、wiggling、noose
 
 **为什么这样写**：审讯章以旧刑犯的调情开场，情报系统的规则（伤愈=无新料=该死）藏在观察里；「a quick stop by way of a very short fall」把绞刑写成行程，黑色幽默抵消血腥。
 
