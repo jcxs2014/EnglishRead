@@ -68,7 +68,7 @@ modified: "2026-11-12"
 
 **中文理解**：舞曲认亲：这首曲子是童年 Eirene 唱给她的——「不意外，音乐是她选的」。
 
-**关键词**：childhood、music、picked
+**关键词**：kids、picked、music
 
 **为什么这样写**：舞会配乐写成妹妹的私心——宫廷歌单里藏着一首姐妹摇篮曲；「not surprised」的笃定暴露她对 Eirene 品味的完全掌控度。
 

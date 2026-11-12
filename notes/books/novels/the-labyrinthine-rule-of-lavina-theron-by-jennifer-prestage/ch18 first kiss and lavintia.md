@@ -58,7 +58,7 @@ modified: "2026-11-12"
 
 **中文理解**：她自切验愈合：刀还没落下，他已抓腕举臂——快到她的大脑跟不上。
 
-**关键词**：wrist、processes、lifts
+**关键词**：wrist、grasp、process
 
 **为什么这样写**：「can't even begin to process the speed」的迟滞视角凸显他的爆发速度远超 Guard 认知；举刀过顶的构图把「夺刀」写成「夺走伤害的权力」。
 
