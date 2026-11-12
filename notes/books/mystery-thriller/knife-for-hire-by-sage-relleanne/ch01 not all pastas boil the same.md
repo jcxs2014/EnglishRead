@@ -6,9 +6,9 @@ modified: "2026-11-12"
 # 01. Not All Pastas Boil the Same
 
 ## 本章导航
-- **一句话概括**：序章十五年后，五家理事会在 Romaine 的庄园紧急集合——一具眼睛滴血的无名尸出现，而它不是 Romaine 做的；他谎称计划提前、当场认下这具尸体保住位子，散会后决定查出死者身份与中毒途径，同时把怀疑的矛头指向自己的儿子。
+- **一句话概括**：序章十五个半年后，五个男人在 Romaine 的庄园紧急集合——一具眼睛滴血的无名尸出现，而它不是 Romaine 做的；他谎称计划提前、当场认下这具尸体保住位子，散会后决定查出死者身份与中毒途径，同时把怀疑的矛头指向自己的儿子。
 - **情感弧线位置**：成年线起点。Romaine 的每一次发言都在演——对理事会撒谎、对尸体认领、对儿子起疑，三件互相矛盾的事压在同一个人身上，权力外表下的恐惧是本章的底色。
-- **线索结构**：三线并埋——无名尸（指纹被擦、牙齿被拔、眼睛滴血，手法与序章绿血同源）；十五年前杀 Barley 家女性、阻止与 Roux 联姻的旧盟约（「三尸」即序章惨案的官方版本）；空椅子上的 Kale 与被 Scotch 监视的儿子，两个缺席者构成家宅内鬼的两面。
+- **线索结构**：三线并埋——无名尸（指纹被擦、牙齿被拔、眼睛滴血，手法与序章绿血同源）；十五年半前杀 Barley 家女性、阻止与 Roux 联姻的旧盟约（「三尸」即序章惨案的官方版本）；空椅子上的 Kale 与被 Scotch 监视的儿子，两个缺席者构成家宅内鬼的两面。
 - **人物弧线**：Romaine 从「必须认领尸体保住地位」走到「怀疑毒出自儿子」——家主的权威与父亲的身份在本章裂开；Chard 的质疑、门后的窃窃私语，都在给他的位子降价。
 - **叙事手法**：全书首章用第一人称黑帮视角开场，作者让叙述者主动交代「lying through my teeth」，把不可靠叙事摆上台面；不定式短句（To attack / To ensure）把屠杀写成会议记录，会议的官僚感与内容的血腥形成反差。
 
@@ -36,7 +36,7 @@ modified: "2026-11-12"
 
 > **原句 3:** "Fifteen and a half years ago, we agreed to act. To attack the other founding families. The Barleys and the Rouxs. To ensure a union could not be had. We would kill the remaining Barley women. We didn't expect the poison to be contained so quickly. To only take three casualties."
 
-**中文理解**：十五年半前，五家约定动手：攻击另外两个创始家族 Barley 与 Roux，杀掉余下的 Barley 家女性，确保两家的联姻无法成立；毒没按计划扩散，只造成三条人命就被控制住了。
+**中文理解**：十五年半前，五个男人约定动手：攻击另外两个创始家族 Barley 与 Roux，杀掉余下的 Barley 家女性，确保两家的联姻无法成立；毒没按计划扩散，只造成三条人命就被控制住了。
 
 **关键词**：founding families / kill the remaining Barley women / three casualties
 

@@ -1,0 +1,55 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch03",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch03_3_haunted_by_our_broken_rouxs.txt",
+ "facts": [
+  {
+   "fact": "表亲满身泥、赤着上身进门。",
+   "anchor": "The leather pants he wears are caked in mud, he’s shirtless",
+   "start": 320,
+   "end": 379
+  },
+  {
+   "fact": "同一种毒杀了他的妻子与 Orzo 的父亲。",
+   "anchor": "The same drugs that killed my wife. That killed your father.",
+   "start": 669,
+   "end": 729
+  },
+  {
+   "fact": "夫妻只有十四天。",
+   "anchor": "While she and I only had fourteen days together",
+   "start": 1017,
+   "end": 1064
+  },
+  {
+   "fact": "传说遇到命定之人厄运消散。",
+   "anchor": "They say our bad luck goes away when we meet the person we’re supposed to bring into the family.",
+   "start": 1565,
+   "end": 1661
+  },
+  {
+   "fact": "Marbled Bison 又失火：刀掉进烤面包机。",
+   "anchor": "a knife landed in a toaster",
+   "start": 2395,
+   "end": 2422
+  },
+  {
+   "fact": "Orzo 甩出六人名单。",
+   "anchor": "A list of six names.",
+   "start": 3328,
+   "end": 3348
+  },
+  {
+   "fact": "名单最后一个是制毒人。",
+   "anchor": "is the one who manufactured them.",
+   "start": 4111,
+   "end": 4144
+  },
+  {
+   "fact": "那晚女人的女儿在寄养系统失联。",
+   "anchor": "the girl got lost in foster care",
+   "start": 4558,
+   "end": 4590
+  }
+ ]
+}

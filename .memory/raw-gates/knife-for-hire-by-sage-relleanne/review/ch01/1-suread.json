@@ -1,0 +1,67 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch01_1_not_all_pastas_boil_the_same.txt",
+ "facts": [
+  {
+   "fact": "章首时间：十五个半年之后。",
+   "anchor": "Fifteen Years and Six Months Later",
+   "start": 63,
+   "end": 97
+  },
+  {
+   "fact": "目光落到那把空椅子。",
+   "anchor": "My eyes flash to the empty one.",
+   "start": 234,
+   "end": 265
+  },
+  {
+   "fact": "空椅子是 Kale 的。",
+   "anchor": "Kale’s.",
+   "start": 268,
+   "end": 275
+  },
+  {
+   "fact": "他谎称计划提前。",
+   "anchor": "lying through my teeth",
+   "start": 350,
+   "end": 372
+  },
+  {
+   "fact": "他怀疑儿子也能碰到毒。",
+   "anchor": "Unless my son…",
+   "start": 879,
+   "end": 893
+  },
+  {
+   "fact": "旧盟约要杀尽 Barley 家余下的女性。",
+   "anchor": "We would kill the remaining Barley women.",
+   "start": 1174,
+   "end": 1215
+  },
+  {
+   "fact": "那场毒只造成三条人命。",
+   "anchor": "To only take three casualties.",
+   "start": 1276,
+   "end": 1306
+  },
+  {
+   "fact": "无名尸指纹磨掉、牙齿拔除、脸被砸烂。",
+   "anchor": "His fingertips were scrubbed off, his teeth removed, his face battered in.",
+   "start": 1497,
+   "end": 1571
+  },
+  {
+   "fact": "Julienne 提出让私生兄弟 Dice 铺货。",
+   "anchor": "I’ll get our bastard brother, Dice, to begin distributing it out.",
+   "start": 2513,
+   "end": 2578
+  },
+  {
+   "fact": "他命令 Scotch 继续监视儿子。",
+   "anchor": "Keep an eye on my son.",
+   "start": 3234,
+   "end": 3256
+  }
+ ]
+}
