@@ -54,17 +54,27 @@ modified: "2026-11-12"
 
 **读者视角提示**：她此刻站在 Roux 家的地盘上，而 Roux 家的家主正在追她、Roux 家的执行者在跟她约会。她连自己站在谁的地板上都不知道。
 
-> **原句 5:** "I lift it to my nose inhaling. Peppermint and cinnamon. This bitch. "It's a fire and ice. This drink was MADE for us. And you said one drink so…" … "The same shit is making its rounds again. There were two ODs at my last show." "Green blood?" "Yep.""
+> **原句 5:** "I lift it to my nose inhaling. … Peppermint and cinnamon. … This bitch. … "It's a fire and ice. This drink was MADE for us. And you said one drink so…"
 
-**中文理解**：她把杯子凑到鼻子前闻——薄荷和肉桂。「这死女人。」「这叫火与冰，这酒简直是为我们做的。而且你说只喝一杯，所以……」……「同一批破东西又开始流通了。我上一场演出就有两个人过量。」「绿血？」「对。」
+**中文理解**：她把杯子凑到鼻子前闻——薄荷和肉桂……「这死女人。」……「这叫火与冰，这酒简直是为我们做的。而且你说只喝一杯，所以……」
 
-**关键词**：Peppermint and cinnamon / a fire and ice / two ODs at my last show / "Green blood?" "Yep."
+**关键词**：Peppermint and cinnamon / This bitch. / a fire and ice / MADE for us
 
-**为什么这样写**：Peppermint and cinnamon 让这杯酒变成一句判决：她的名字（Cinnamon）就是毒的名字，而她正在喝它。This bitch 三个词是闺蜜之间的亲昵骂法，也是作者给这杯「讽刺」加的糖衣。而「绿血？」「对。」——这是全章最安静的一次确认：她终于知道自己的朋友圈里有人在死。
+**为什么这样写**：三段之间全被省略号隔开，作者让气味先到位、骂声随后、解释最后——这条节奏就是闺蜜之间点单的节奏。而 Peppermint and cinnamon 让这杯酒变成一句判决：她的名字（Cinnamon）就是毒的名字，而她正在喝它。This bitch 三个词是亲昵的骂法，也是作者给这杯「讽刺」加的糖衣。
 
 **读者视角提示**：她现在手里握着一杯以自己命名的毒酒，笑着喝下去。这个画面是全书最完整的隐喻：她一直在喝自己的名字。
 
-> **原句 6:** "Her glass slips from her fingers, her mouth opens in surprise. "Three?!" stutters out. … "Cinnamon, that's like $180,000. Maybe even more?!" … "Girl, I don't know why they're paying you in Bitcoin—that's sus as fuck. Are you cooking meals for the mob?" Olive cracks a smile, but I can see there is genuine concern."
+> **原句 6:** "Olive keeps her glass in her hand as she stares appraisingly at me. "The same shit is making its rounds again. There were two ODs at my last show." … "Green blood?" "Yep.""
+
+**中文理解**：Olive 端着杯子打量她：「同一批破东西又开始流通了。我上一场演出就有两个人过量。」……「绿血？」「对。」
+
+**关键词**：The same shit is making its rounds / two ODs at my last show / Green blood? / Yep.
+
+**为什么这样写**：这是全章最安静的一次确认：她终于知道自己的朋友圈里有人在死。而 Olive 的语气之所以压低，不是怕，是她知道这个话题会让 Cinnamon 想起什么——两个人的过去都在这句「绿血」里。
+
+**读者视角提示**：她现在握着一杯以自己命名的酒，听着自己名字的另一层含义在朋友嘴里被确认。这个场景的荒诞感，作者一个字都没有评论。
+
+> **原句 7:** "Her glass slips from her fingers, her mouth opens in surprise. "Three?!" stutters out. … "Cinnamon, that's like $180,000. Maybe even more?!" … "Girl, I don't know why they're paying you in Bitcoin—that's sus as fuck. Are you cooking meals for the mob?" Olive cracks a smile, but I can see there is genuine concern."
 
 **中文理解**：她的杯子从指间滑落、嘴张着惊讶：「三个？！」——「Cinnamon，那是大约十八万美元。也许还更多？！」……「姑娘，我不知道他们为什么用比特币付你——这太可疑了。你是在给黑帮做饭吗？」Olive 挤出个笑，可他能看出她是真的担心。
 
@@ -74,7 +84,7 @@ modified: "2026-11-12"
 
 **读者视角提示**：这一刻她本可以停下来问一句，可她的第一反应是「也许是搞错了」。作者让她在真相面前选择的不是怀疑，是「数额可能有误」。
 
-> **原句 7:** ""Cin, you know I love you but…" She leans forward. "I don't want you to get hurt," she whispers into my ear. "Not again. Not like…" She doesn't need to finish the sentence. … Olive and Sherry are the only two people who know exactly how hurt I can be. They were there when my bad luck struck in the most disastrous of ways."
+> **原句 8:** ""Cin, you know I love you but…" She leans forward. "I don't want you to get hurt," she whispers into my ear. "Not again. Not like…" She doesn't need to finish the sentence. … Olive and Sherry are the only two people who know exactly how hurt I can be. They were there when my bad luck struck in the most disastrous of ways."
 
 **中文理解**：「Cin，你知道我爱你，但……」她凑近，在她耳边低声说，「我不想你受伤。不要再一次。不要再像……」——她不必把话说完……Olive 和 Sherry 是唯一两个确切知道她能被伤到多深的人；她们都在场，目睹过她的坏运气以最灾难性的方式发作的那一次。
 
@@ -84,7 +94,7 @@ modified: "2026-11-12"
 
 **读者视角提示**：这块空白与第 26 章「我以前约会的时候」、第 39 章「陪我坐的那个人也不在了」是同一块拼图。读者至今只知道她说「坏运气」，从不知道那场灾难是什么形状。
 
-> **原句 8:** ""You good?" I ask her. "Fuck off," she barks out, but doesn't turn to me. "My sister will be here soon." I don't like leaving her, but it might be better if I do. Wouldn't want my bad luck to rub off on her."
+> **原句 9:** ""You good?" I ask her. "Fuck off," she barks out, but doesn't turn to me. "My sister will be here soon." I don't like leaving her, but it might be better if I do. Wouldn't want my bad luck to rub off on her."
 
 **中文理解**：「你还好吗？」她问那个女孩——「滚开，」她吼回来，却没转身，「我姐姐很快就到。」她不喜欢把这个人丢下，可也许走开更好——总不想让自己的坏运气蹭到她身上。
 

@@ -110,7 +110,6 @@ modified: "2026-11-12"
 |---|---|---|
 | egged | 怂恿；鼓动 | Egged on by not only John but also Orzo joining me. |
 | wedged | 被夹住；塞进 | Desire is a battering ram, and the longer I am wedged between the men, the more it breaks down my inhibitions. |
-| sways | 摇摆 | I expect her to jump away, but instead she sways into it. |
 | lopsided | 歪向一边的 | All I see at first is Olive facing away from me. Her hair is lopsided and sweat soaks her back, but then I look past her, on the other side of the railing in the shadows. |
 | illuminated | 被照亮 | She narrows her eyes when the bright light illuminates her face. |
 
