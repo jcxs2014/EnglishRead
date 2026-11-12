@@ -1,0 +1,79 @@
+{
+ "book": "knife-for-hire-by-sage-relleanne",
+ "chapter": "ch45",
+ "text": "notes/books/mystery-thriller/knife-for-hire-by-sage-relleanne/text/ch45_45_stirring_the_pot.txt",
+ "facts": [
+  {
+   "fact": "他在走近前看了她二十分钟。",
+   "anchor": "watched her for twenty minutes",
+   "start": 65,
+   "end": 95
+  },
+  {
+   "fact": "他发现她并没有杀警长。",
+   "anchor": "She hasn’t killed him.",
+   "start": 211,
+   "end": 233
+  },
+  {
+   "fact": "她向 Olive 介绍 John。",
+   "anchor": "He’s my neighbor, John!",
+   "start": 1001,
+   "end": 1024
+  },
+  {
+   "fact": "Olive 说那名字像编的。",
+   "anchor": "That sounds like a made up name!",
+   "start": 1114,
+   "end": 1146
+  },
+  {
+   "fact": "Olive 威胁他别伤她。",
+   "anchor": "if you hurt her, I’ll kill you",
+   "start": 1445,
+   "end": 1475
+  },
+  {
+   "fact": "他说她不想要的诱惑。",
+   "anchor": "a temptation I do not want",
+   "start": 2212,
+   "end": 2238
+  },
+  {
+   "fact": "也是他必须得到的诱惑。",
+   "anchor": "a temptation I must have",
+   "start": 2249,
+   "end": 2273
+  },
+  {
+   "fact": "他承认靠得太近。",
+   "anchor": "I’m growing too close.",
+   "start": 2346,
+   "end": 2368
+  },
+  {
+   "fact": "她对他打招呼。",
+   "anchor": "It’s good to see you.",
+   "start": 2439,
+   "end": 2460
+  },
+  {
+   "fact": "她招呼 Orzo 过来。",
+   "anchor": "Come here, Orzo.",
+   "start": 3178,
+   "end": 3194
+  },
+  {
+   "fact": "她让他们别闹、别毁她的兴致。",
+   "anchor": "have fun",
+   "start": 3777,
+   "end": 3785
+  },
+  {
+   "fact": "他承认 Orzo 的父亲之死他有一份。",
+   "anchor": "A man I had a hand in killing.",
+   "start": 4346,
+   "end": 4376
+  }
+ ]
+}
