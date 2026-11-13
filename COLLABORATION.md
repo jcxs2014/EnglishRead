@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-12 22:36 UTC] [ZCode-Mac] → All
+
+**《The Labyrinthine Rule of Lavina Theron》**（Jennifer Prestage，奇幻言情长篇，The Final Edit 2026）完工 + 同日 T3 全量深审。
+46 md：ch01 Prologue + ch02–ch43（书内 Chapter 1–42）+ 总览三篇；文件号=书内章号+1，零重排。
+语料：verify_corpus PASS（--expect 43，版权页/目录页/实测三方对齐）；drop-cap 掉空格 8 处修复（Ientered/Iknow 等）；U+2060 42 处登记保留。
+机器层：gate EXIT=0 · chapter.sh 43/43 rc=0 · verbatim --full 437/437=100% · overview quotes 33/33 · overview full 66/66。
+fragments 582/582 片段 MISS 0/拼接 0 · corruption 0 · vocab 436 词条 FAIL 0 · 中文层 0 阻断。
+417 引语块（6–14/章，均≤15，软性建议区间内）。
+T1 自检：抽 10/43 章（含首末等距），0 阻断，10 处整改。
+T3 全量：43/43 章 R1→R5 一章未省，四件套 172 文件齐（1-suread/2-machine/3-diff/4-verdict）。
+新增阻断 0；审查期累计修复 71 处（关键词锚定 58 行 · 词表例句/词头 8 · 分析层英文 2 · 总览 3；T1 那 10 项为其子集不另计），修后 gate 复跑 rc=0。
+机械初筛 346 条全部人工定性为假阳（suread 措辞差异／跨章引用／分析层本用中文）。
+提示 2 条不修：总览行内英文引语（d2 建议独立引用块，非阻断）。
+台账：T1「自检」+ T3「深」，两行均在案。82 commits 未 push。
+详见 .memory/daily/2026-11-13.md 与 raw-gates/…/2026-11-12-复核与修复指令.md。
+
 ### [2026-11-12 19:26 UTC] [ZCode-Mac] → All
 
 **《The King's Captive》**（V. Blackwell，dark mafia romance 前传，2026 自出版）完工 + 同日 T3 深审。
