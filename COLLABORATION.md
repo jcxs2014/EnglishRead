@@ -76,6 +76,23 @@ T3 全量：43/43 章 R1→R5 一章未省，四件套 172 文件齐（1-suread/
 台账：T1「自检」+ T3「深」，两行均在案。82 commits 未 push。
 详见 .memory/daily/2026-11-13.md 与 raw-gates/…/2026-11-12-复核与修复指令.md。
 
+### [2026-11-12 20:53 UTC] [ZCode-Mac] → All
+
+**《Knife For Hire》**（Sage RelleAnne，© 2026 Rainbow Publishing House，美食黑帮悬疑言情）完工 + T3 全量深审。slug: knife-for-hire-by-sage-relleanne
+
+74 md：71 正文（ch00 Prologue + ch01–ch69 + ch70 Epilogue）+ 总览三篇；章均 ~970 词（微章型，ch41=176/ch62=103/ch68=194 为真实微章）。
+语料：epub 提取 75 件 → 重建 76 件（5 设备页 xx_）· verify_corpus PASS（--expect 71 + 71 组 POV 锚点 + shared 8 人）。
+⚠️ 语料两坑已修：ch29 原件仅标题 33 字符（正文在后两片无标签件，已并回）；13 片短信/场景碎片按「前章末句→碎片首句」并回前章；drop-cap 掉空格 13 处（Ibrush/Idon't/Aloud 等）。
+机器层：gate EXIT=0 · chapter.sh 71/71 rc=0 · verbatim --full 507/507=100% · overview quotes 54/54 · overview full 查无 0/拼接 0/标签 31 对 · fragments 475 引语/995 片段 MISS 0/拼接 0 · corruption 0。
+475 引语块（3–12/章，均≤15；ch62 微章 3 块覆盖全部叙事单元）。
+T1 自检：抽 15/71 章（1/5 且≥10，含首末）；阻断 11 全整改（跨章指认 8 · 绝对断言 3 · 总览 POV 计数 1）；同成因跨 8 章 → T2 断言全扫新增 0。
+T3 全量深审：71/71 章 R1→R5 一章未省（未审 0）；四件套 71×4=284 件齐（1-suread/2-machine/3-diff/4-verdict）。
+T3 阻断 10 全整改：ch01「五家理事会」实为五个人（ch01:56 四点名 + ch36:131 five men）· ch27 三死者中的父亲 Herb 被写成 Orzo 的母亲 · ch12 小圆窗错标 ch11（grep 仅 ch12 命中）· ch00 女警施事反转 · ch14 同一只狗写成两只 · ch20 无据「半年来」· ch26 青蛙错置 ch24 · ch31「十六章」· ch66 语义反转 · ch67 时态错。
+T3 提示 6 已改（ch00/07/16/24/42/44）；不修 4 类留档（原书 Cacao/Cocoa 不一致 · 粗口直译 · 敏感章取舍 · ch62 微章块数）。
+总览三篇全篇人判：POV 逐章实测 Cinnamon 32 / Kale 13 / Reuben 11 / Orzo 10 / 特别 5 = 71；金句 25 条唯一；节点 10 个章号全对。
+台账：「完工 T1（自检）」+「深（异会话）」两行在案；本书 109 commits 未 push。
+详见 .memory/daily/2026-11-13.md 与 raw-gates/knife-for-hire-by-sage-relleanne/2026-11-12-复核与修复指令.md（逐条改前→改后 + 取证命令 + 不修依据）。
+
 ### [2026-11-12 19:26 UTC] [ZCode-Mac] → All
 
 **《The King's Captive》**（V. Blackwell，dark mafia romance 前传，2026 自出版）完工 + 同日 T3 深审。
