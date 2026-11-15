@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch26_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "Larissa 逼宫索舞被拒：他按「惯例」只与现任 Shielder 跳；骂 whore 被他警告（她是王室的脸面）",
+   "anchor": "“I will be dancing with my Shielder, as I always do.”",
+   "start": 1906,
+   "end": 1959
+  },
+  {
+   "fact": "舞池心盾对话：她的隔音盾让两人在喧闹中密谈（「要不要告诉人民」他主秩序）",
+   "anchor": "She allowed her magic to be seen for only a second before disguising it once more.",
+   "start": 8797,
+   "end": 8879
+  },
+  {
+   "fact": "刺杀武器=破魔匕首（可割进盾）——她弃盾改冲击波",
+   "anchor": "Whatever those blades were, they were capable of cutting into her magic",
+   "start": 12022,
+   "end": 12093
+  },
+  {
+   "fact": "Walder 战力实演：冰刃穿身、瞬移连斩（一次挥剑斩二人、直穿火者心脏）",
+   "anchor": "He swung his sword, decapitating them both in one swing.",
+   "start": 14836,
+   "end": 14892
+  },
+  {
+   "fact": "Fraener 怒态双倍牛大：空中撕人（咬成两半）——双龙协作虐杀刺客",
+   "anchor": "double the size of an ox, his red scales darker",
+   "start": 15830,
+   "end": 15877
+  },
+  {
+   "fact": "她救他：银光入眼即竖盾（半刃穿盾）；反过来 Fraener 救她（pluck 刺客离地）",
+   "anchor": "A flash of silver caught her attention.",
+   "start": 11209,
+   "end": 11248
+  }
+ ]
+}
