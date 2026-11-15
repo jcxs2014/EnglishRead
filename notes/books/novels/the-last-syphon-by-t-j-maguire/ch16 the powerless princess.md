@@ -110,7 +110,7 @@ modified: "2026-11-15"
 |---|---|---|
 | tenfold | 十倍地 | Inara’s anger returned tenfold. |
 | gooey | 黏软拉丝的 | Sweet. Sugary with a gooey centre. Delicious. |
-| vow | 起誓 | Kronan’s piercing gaze moved to Felix. |
+| vow | 起誓 | “What you have learnt here today is never to be revealed. Ever. Vow it. Or die.” |
 
 ## 一句话总结
 
