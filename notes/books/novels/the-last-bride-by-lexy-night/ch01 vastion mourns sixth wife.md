@@ -20,12 +20,14 @@ modified: "2026-11-15"
 **为什么这样写**：开篇第一句就把哀悼写成窒息——世界与亡妻共用呼吸，失去她等于失去空气。scavengers 一词把制度的急迫降格为食腐，一句话立起王对整台选后机器的敌意，为王与 Council 的长期张力定调。
 **读者视角提示**：Heart of Eventide 首次出现且大写，既是王宫也可能是一个「心脏」实体，此刻不必解码设定，先记住它和王生死绑定即可。
 
+
 > **原句 2:** "“They are eager for me to find my next bride, you mean!” I snapped, my fangs unsheathing with the flash of unbridled frustration. “Her body is not yet cold, and still, they rush to deliver her remains for burning, because all they truly care about is the clockwork of tradition and the theater of ceremony.”"
 
 **中文理解**：Orin 禀报 Reapers 已聚集准备葬礼，王当场翻脸：他们急着办的不是葬礼，而是逼他「找下一任新娘」。尸体未寒就要拉去焚烧，因为所有人真正在乎的只有传统的齿轮与仪式的表演。他说这话时獠牙弹出，愤怒是生理性的。
 **关键词**：fangs unsheathing / clockwork of tradition / theater of ceremony
 **为什么这样写**：王在本章的第一段台词就指向制度而非任何个人：clockwork 与 theater 两个隐喻把仪式钉成冰冷机器；獠牙弹出的瞬间则在设定说明之前先提醒读者——这是吸血鬼的宫廷，愤怒先于解释出现。
 **读者视角提示**：「找下一任新娘」由王的怒吼说出而不是旁白交代——全书的核心冲突（第七季选后）在第一章第一页就摊牌，后面的章节都是这一句的展开。
+
 
 > **原句 3:** "Before exiting to fetch Laila, Orin walked tentatively to the side of the royal bed. He bent down on one knee, crossed his hand over his chest, then lifted it to his mouth, placing a kiss on his knuckles before resting them gently against the silk of the sheet. A silent, sacred tribute to our Queen."
 
@@ -34,12 +36,14 @@ modified: "2026-11-15"
 **为什么这样写**：用一套近乎宗教仪轨的连续动作（跪、按胸、吻、贴）写「全场唯一的真心」，紧接着用 Court 的礼节性表演作对照——真心因为稀有才有重量。Orin 的忠诚不靠一句宣言，而靠身体完成。
 **读者视角提示**：这一段同时完成人物介绍与世界规则两条任务：Orin 是统领加唯一知己；Vampyr 社会对人类王后只有条约式的容忍。后文宫廷戏对女主的敌意从这一细节生根。
 
+
 > **原句 4:** "Her pupils didn’t dilate; her pulse didn’t quicken. Adria was utterly unphased by my presence. It was then that I knew she was the perfect—and safest—choice after Kesna’s betrayal had left a gaping, and seemingly unmendable, hole in my chest."
 
 **中文理解**：回忆当年选妃评估：多数人类候选人生来就被养大去憎恨或恐惧他的种族，而 Adria 瞳孔不放缩、脉搏不加速——彻底无动于衷。正是这份「无惧无怵」让她在 Kesna 背叛之后成了「最完美也最安全」的选择。
 **关键词**：pupils didn’t dilate / unphased / Kesna’s betrayal
 **为什么这样写**：把选妻标准倒着写——他要的不是心动而是「不会被她伤到」。恐惧的缺席被当成美德，这本身就是创伤后的择偶逻辑；Kesna 之名第一次出现就挂着「看似无法修补的破洞」，男主弧线的起点是旧伤未愈。
 **读者视角提示**：记住 assessment（选妃评估）这个制度细节——第七季的女主同样要过这一关，本段是后文对照的基准线。Kesna 的背叛详情与「兄弟」角色留给后文揭晓，此处只负责埋名字。
+
 
 > **原句 5:** "I could have put Laila’s head on a pike for even entertaining such a transgression. But their love was an innocent thing that played out in the corners of my vision. Perhaps some small part of me even enjoyed watching a fire I could no longer feel myself."
 
@@ -48,14 +52,24 @@ modified: "2026-11-15"
 **为什么这样写**：长矛挂头的暴力意象与「无辜的爱」并置，一句话写尽宫廷的残暴底线；「我再也感受不到的火」既交代王的情感麻木，又把王后与女仆之爱写成他自己欲望的代偿。三层信息全部藏进一句自嘲。
 **读者视角提示**：Adria 与 Laila 的关系是本章最重的私线：王是知情者、批准者、也是旁观者。Adria 死后 Laila 的崩溃将成为后续章节的情感余震，别把她当过场角色。
 
-> **原句 6:** "But my sister, Samina, along with Adria and Orin, had found a way to pull me from the clutches of my self-loathing. Watching Adria and Laila’s affection—and eventual love—come to fruition warmed even my bitter soul. They never pushed the boundaries beyond harmless flirtations until I confronted Adria and gave my explicit blessing."
+
+> **原句 6:** "My own brother. My own wife. The betrayal had nearly claimed me."
+
+**中文理解**：「我自己的兄弟。我自己的妻子。那场背叛几乎要了我的命。」
+**关键词**：My own brother / My own wife / nearly claimed me
+**为什么这样写**：全书最短的一次创伤陈列，三个短语之间没有动词、没有解释——**因为解释会稀释它**。作者让它在「我允许了 Adria 与 Laila 的爱情」之后立刻出现，形成一个刺目的对照：他能宽容别人的禁恋，却无法原谅自己被亲人背叛。
+**读者视角提示**：**全书最大的伏笔之一**。这一句在 ch01 埋下，直到 ch18 才被揭晓为「Kesna 与幼弟 Harden 通奸」，而 ch31 又补上「是我的疏离让弟弟偷走了我唯一珍视的东西」。读到 ch18 时请回来对照这一句的克制。
+
+
+> **原句 7:** "But my sister, Samina, along with Adria and Orin, had found a way to pull me from the clutches of my self-loathing. Watching Adria and Laila’s affection—and eventual love—come to fruition warmed even my bitter soul. They never pushed the boundaries beyond harmless flirtations until I confronted Adria and gave my explicit blessing."
 
 **中文理解**：王把康复归功于三个人：妹妹 Samina 与 Adria、Orin 一起把他从自我厌弃的魔掌里拖了回来。他看着 Adria 与 Laila 的感情从无害的调笑修成正果，直到他亲自找 Adria 对峙、明确赐福——当然附带着保护她的条件。
 **关键词**：self-loathing / explicit blessing / harmless flirtations
 **为什么这样写**：赐福被写成一个动作性的 confronted（对峙）——王的温柔永远以强硬的程序出现，这是他表达在乎的唯一语法。Samina 首次登场只给名字与救主身份，姊妹线是留给后文的钩子。
 **读者视角提示**：「带条件的赐福」反过来说明 Adria 的人身安全始终需要谈判——人类王后在 Vampyr 宫廷里的脆弱地位，由这一小句悄悄补完。
 
-> **原句 7:** "The reign of the sixth queen had been bountiful, but the looming shadow of the Forlorn now marred the horizon. I sighed, opened the door, and strode confidently into the hallway. The search for the seventh bride had begun."
+
+> **原句 8:** "The reign of the sixth queen had been bountiful, but the looming shadow of the Forlorn now marred the horizon. I sighed, opened the door, and strode confidently into the hallway. The search for the seventh bride had begun."
 
 **中文理解**：第六任王后的王朝是丰饶的，但地平线上已经压着 Forlorn 的阴影。王叹口气，拉开门，大步走进走廊——寻找第七任新娘的搜选开始了。
 **关键词**：the Forlorn / strode confidently / seventh bride

@@ -41,10 +41,10 @@ modified: "2026-11-15"
 **为什么这样写**：作者用一句极短的自嘲收束 Orin 的性格：**「被诅咒者不需要做梦」**——他不允许自己有愿望（ch12 Vastion 说过「从不睡的是我」）。**两个男人用同一种方式处理痛苦：把想要的东西说成不需要。**
 **读者视角提示**：**核心**：这句话同时是全书对「渴望」主题的一次否决——而否决它的人此后会成为全书唯一还在夜里数日子的人。
 
-> **原句 5:** "The citizens of the Heart were deceived into their new future. A celebration meant to honor the renewed health of their king and queen."
+> **原句 5:** "I remembered Esiree and Vastion perched on the landing near the ship as all were gathered in the great mouth of the Heart, drinks in hand. Drinks sourced from the Sanguine Reservoir, transported by barrels that were conveniently poisoned—or should I say, cured—only hours before."
 
-**中文理解**：欺骗全城（全书最大行动）：Heart 的市民被诱入新未来——一场庆祝国王与王后康复的庆典；**酒来自 Sanguine Reservoir，由几小时前「被下毒——或者我该说，被治好」的桶运来**。
-**关键词**：The citizens of the Heart / The citizens of the Heart
+**中文理解**：欺骗全城（全书最大行动）：Heart 的市民被诱入新未来——一场庆祝国王与王后康复的庆典；他们举杯时，**酒来自 Sanguine Reservoir，由几小时前「被下毒——或者我该说，被治好」的桶运来**。
+**关键词**：I remembered Esiree and Vastion / I remembered Esiree and Vastion
 **为什么这样写**：作者用一句自嘲完成全书最大的道德悖论：**「被下毒——或者我该说，被治好」**。同一个动作，两个名字；而这两个名字之间就是全书的核心问题：**如果你被迫失去你所爱的人，那是杀你还是救你？**
 **读者视角提示**：**核心**：注意酒源——「Sanguine Reservoir」（ch13 她第一次看见的那个血池）。**全书最重要的一处空间在此完成它的最终用途**：曾经盛血的地方，如今盛解药。
 
