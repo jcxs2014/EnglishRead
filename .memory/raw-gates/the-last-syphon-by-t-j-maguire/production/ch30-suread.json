@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch30",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch30_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "抓包审问：Felix 一句 doing who 让她不打自招（脱口否认 Prince Walder）",
+   "anchor": "“Or should I say, doing who?”",
+   "start": 3301,
+   "end": 3330
+  },
+  {
+   "fact": "Felix 的小受伤：市集本是「他们的东西」——她记下下次一起去",
+   "anchor": "was also a little hurt she didn’t come get him",
+   "start": 5195,
+   "end": 5241
+  },
+  {
+   "fact": "保密实力背书：知情两年没漏——所以这次她又用 solemn vow 托付",
+   "anchor": "he knew she was a Syphon for years and never said anything",
+   "start": 7177,
+   "end": 7235
+  },
+  {
+   "fact": "她向 Felix 全盘托出：腐地扩散+三村已灭+秘会分歧（Armanie 信、Howling 装不信其实怕）",
+   "anchor": "“The cursed land is spreading.”",
+   "start": 7651,
+   "end": 7682
+  },
+  {
+   "fact": "她的辩护：王子已启动疏散+高层会议；否则「你我自己飞去边境」，不管什么 contract",
+   "anchor": "“Prince Walder has already started proceedings for an evacuation.",
+   "start": 9799,
+   "end": 9864
+  },
+  {
+   "fact": "Felix 的终极问句她答不出——心里答案是「They would all die」（报告画面闪回）",
+   "anchor": "What if we can’t?",
+   "start": 10949,
+   "end": 10966
+  }
+ ]
+}
