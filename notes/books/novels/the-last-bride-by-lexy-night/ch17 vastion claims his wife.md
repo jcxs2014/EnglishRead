@@ -55,10 +55,10 @@ modified: "2026-11-15"
 **为什么这样写**：气味在此第一次被用来揭露背叛——他早就有工具（Vampyr 的嗅觉），却主动选择了自我欺骗。作者点明「我曾以此自慰」：他不是没能力察觉，而是愿意不去察觉。这与 ch11–ch15 里他不断「闻出」Esiree 的真实形成对照：如今他不再放过气味了。
 **读者视角提示**：**全书嗅觉线索的闭环**：ch11「吸引与谎言气味相似」→ ch13「他们能闻到你的憎恨」→ ch17「我曾忽略她身上的气味」。他学会了不忽略。
 
-> **原句 7:** "Our people loved her; she had embraced them fully. Most days she seemed like one of us, and I believed I had found true love, the kind you’d want to make everlasting—but I dared not let my conscience dwell on it for fear of tempting fate. I was a fool to feel loved and seen by her. I was blind to the wolves in my cave."
+> **原句 7:** "Our people loved her; she had embraced them fully. Most days she seemed like one of us, and I believed I had found true love, the kind you’d want to make everlasting—but I dared not let my conscience dwell on it for fear of tempting fate. I was a fool to feel loved and seen by her. I was blind to the wolves that resided in my cave."
 
 **中文理解**： 我们的子民爱她，她也完全接纳了他们；多数时候她看起来像他们中的一员，他以为自己找到了真正的爱——那种你希望永恒下去的爱——却不敢让自己的良知停留其上，怕触怒命运。我蠢到以为自己被她爱着、被她看见；我瞎到看不见自己洞穴里住着狼群。
-**关键词**：the kind you’d want to make everlasting / a fool to feel loved and seen / blind to the wolves in my cave
+**关键词**：the kind you’d want to make everlasting / a fool to feel loved and seen / blind to the wolves
 **为什么这样写**：作者让他用「狼群在洞穴里」这个形象收束整段自白——与 Esiree 的「firebird」形成图式对位：她是火，他是洞穴。真正的背叛者不是野狗（Forlorn），而是像狼一样住在他洞里的亲人。而「我瞎到看不见」把责任推给自身的信任，而非她的恶意。
 **读者视角提示**：注意「dared not let my conscience dwell on it for fear of tempting fate」——他知道这份爱可能不真，只是不敢深究。这与 Esiree 的「只要自己不深究就能继续」是同一种策略。
 
@@ -90,10 +90,10 @@ modified: "2026-11-15"
 **为什么这样写**：作者在旧案里埋了一颗更大的雷：Harden 想「Turning 新的 Vampyr」——这与 ch03 的设定（Vampyr 不得转化新成员，人口在萎缩）直接相关。也就是说 Harden 的野心不只是通奸，而是要扩大吸血鬼人口——这才是政变的真正动机。
 **读者视角提示**：**关键设定**：Harden 的「Turning new Vampyr」= 推翻禁令扩大族群。这条线在 ch40 尾声（Orin 讲 Istvan 的历史）可能再被提及——Istvan 正是当初把整个王室 Turning 的人。
 
-> **原句 12:** "There was never a need to display any sort of dominance over Adria. She was my friend; she embraced our rules, we respected each other immensely, and she kept her circle just as tight to keep others from discovering the truth of her and Lailanor. For me. And for them."
+> **原句 12:** "There was never a need to display any sort of dominance over Adria. She was my friend; she embraced our rules, we respected each other immensely, and she kept her circle just as tight as I did to keep others from discovering the truth of her and Lailanor. For me. And for them."
 
 **中文理解**： 对 Adria 从不需要展示任何支配——她是他的朋友，拥抱我们的规则，彼此深深尊重；她也像他一样把圈子收紧，为的是不让外人发现她与 Lailanor 的真相。为了我。也为了他们。
-**关键词**：never a need to display any dominance / kept her circle just as tight / For me. And for them.
+**关键词**：never a need to display any dominance / kept her circle just as tight / For me. And for them
 **为什么这样写**：作者把两位人类王后并置成对照组：Adria 守规矩、藏得紧，因而安全；Kesna 不是——她藏不住（或不想藏）。而「For me. And for them.」这五个字把 ch01 的秘密首尾相接：他知道 Adria 与 Laila 的爱情，也一直替她守着。
 **读者视角提示**：**这是全书对两位前任王后的最终定性**，也解释了他为何敬重 Adria 却迷恋 Esiree：Esiree 恰恰是不肯守规矩的那个。
 
