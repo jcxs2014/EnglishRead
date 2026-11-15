@@ -49,23 +49,13 @@ modified: "2026-11-15"
 
 **中文理解**：「外面那头龙凭什么选我？」她远远配不上。就算对自己说实话，Inara 也不算什么好人。
 
-**关键词**：choose me / far from worthy / not a good person
+**关键词**：choose me / far from worthy / a good person
 
 **为什么这样写**：让主角自己把「我不配」说出口，是言情开场最险也最有效的写法——自我贬低的诚实感反而立住了人物；紧接着 Cias 回一句他也在想同样的事，两人的怀疑当场接上头。
 
 **读者视角提示**：巨龙的「择主之谜」从她嘴里正式立题：贼、骗子、杀人者，为什么被千古神兽选中？答案不会在本章给——但 Cias 那句 “I have been wondering the same thing” 已经把怀疑的种子埋进了长者心里。
 
-> **原句 5:** "A formal decree was issued and signed by the kings and queens of the kingdoms, officially outlawing the ability. All across the realm, any citizen already alive or born in the future with the power to syphon was to immediately be put to death."
-
-**中文理解**：一纸正式法令由各国国王女王联名签署，将这种能力定为非法——全境之内，凡是拥有 syphon 之力的活人或未来出生者，一律立即处死。
-
-**关键词**：formal decree / outlawing / put to death
-
-**为什么这样写**：法令条文式的冷句子（issued / signed / officially outlawing / put to death）一个情绪词都不给，反而最吓人——制度化的死刑不需要形容词；这段历史刚讲完，读者的下一个念头必然是「等等，女主上一章刚用过」。
-
-**读者视角提示**：syphon = 全境死罪，这条法令是悬在 Inara 头顶的剑。她上一章为了保命刚解禁一次——能力每用一次，都是在死罪线上走一回。
-
-> **原句 6:** "Of course she did. Her mother had told her the tale every eve when she put her to bed, trying to make sure she understood the severity of what it meant to be a Syphon."
+> **原句 5:** "Of course she did. Her mother had told her the tale every eve when she put her to bed, trying to make sure she understood the severity of what it meant to be a Syphon."
 
 **中文理解**：她当然知道。母亲每晚哄她睡觉时都讲这段故事，就是要她明白：身为一个 Syphon，到底意味着什么。
 
@@ -74,6 +64,16 @@ modified: "2026-11-15"
 **为什么这样写**：一句话完成全书最重的身份揭示：不说「她是 Syphon」，而说母亲夜夜讲古「为了让她明白身为 Syphon 意味着什么」——用教养的温情包裹死刑的重量，母亲的远虑与危险一次性亮相。
 
 **读者视角提示**：这是本章真正的爆点：枕边故事是求生教育。母亲（ch02 交代她离家远行）早把女儿的死罪身份和保命规则教进了骨头里——回头再看 ch01 里「你比它强，是你支配它」那句告诫，全是伏笔。
+
+> **原句 6:** "A formal decree was issued and signed by the kings and queens of the kingdoms, officially outlawing the ability. All across the realm, any citizen already alive or born in the future with the power to syphon was to immediately be put to death."
+
+**中文理解**：一纸正式法令由各国国王女王联名签署，将这种能力定为非法——全境之内，凡是拥有 syphon 之力的活人或未来出生者，一律立即处死。
+
+**关键词**：formal decree / outlawing / put to death
+
+**为什么这样写**：法令条文式的冷句子（issued / signed / officially outlawing / put to death）一个情绪词都不给，反而最吓人——制度化的死刑不需要形容词；这段历史刚讲完，读者的下一个念头必然是「等等，女主上一章刚用过」。
+
+**读者视角提示**：syphon = 全境死罪，这条法令是悬在 Inara 头顶的剑。她上一章为了保命刚解禁一次——能力每用一次，都是在死罪线上走一回。
 
 > **原句 7:** "Each kingdom suffered heavy losses during the war, but Arelia suffered the most. By the time it was over, only three dragons had survived the carnage."
 
