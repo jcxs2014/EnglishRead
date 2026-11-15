@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch31_chapter_31.txt",
+ "facts": [
+  {
+   "fact": "政体课：高议会 oligarchy（王须有正当理由才能推翻决议）；国王「神志不清」——总统权限的真空",
+   "anchor": "My father is…not of sound mind at the moment.",
+   "start": 2500,
+   "end": 2545
+  },
+  {
+   "fact": "骂 coward 后他红眼现形：Bloodborne（操控血液本源）——真正的王牌能力（Medalist 是幌子）",
+   "anchor": "There was only one thing that made someone’s eyes blaze red like that.",
+   "start": 7728,
+   "end": 7798
+  },
+  {
+   "fact": "血锁双人：她与冲锋的 Fraener 同时被定身——他一人可屠全场的实证",
+   "anchor": "He simply raised his hand. Fraener stopped dead in his tracks.",
+   "start": 9162,
+   "end": 9224
+  },
+  {
+   "fact": "他的宣言：法律是法律，但「我会绕开走正路」——拒绝莽干，承诺独自查腐地（必要时撒谎）",
+   "anchor": "I find a way around it. The right way.",
+   "start": 9715,
+   "end": 9753
+  },
+  {
+   "fact": "她的共情：Bloodborne 尚未非法但迟早——「一个人的恶用会毁掉所有同类」的 syphon 同理",
+   "anchor": "Like the Cursed King.",
+   "start": 12521,
+   "end": 12542
+  },
+  {
+   "fact": "收尾：她安抚吓坏的 Fraener 后对王储说「你该走了」——关系冻结",
+   "anchor": "I think you should go.",
+   "start": 12714,
+   "end": 12736
+  }
+ ]
+}
