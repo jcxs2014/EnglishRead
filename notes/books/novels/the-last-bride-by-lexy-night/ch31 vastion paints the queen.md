@@ -134,7 +134,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sheepish | 不好意思的 | “Let’s give them a show,” she’d declare shamelessly. |
-| gait | 步态、步伐 | “I try to find a way to slow my steps,” I said. |
+| steps | 脚步、步伐 | “I try to find a way to slow my steps,” I said. |
 
 ## 一句话总结
 她拒绝被画成第八幅王后像，改为在荒野高草丛里与他并肩；夜里她问「当你的妻子正在死去时你怎么办」并要求他与她终结婚约；而他在同章承认：Kesna 的背叛源于他自己的失职——「我错了，而我的弟弟偷走了我唯一真正珍视的东西」。
