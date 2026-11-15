@@ -35,7 +35,7 @@ modified: "2026-11-15"
 > **原句 4:** "“We went back to his hotel room that night, as you know,” she says, lowering her voice. “He didn’t have a condom, which should have been my first sign that he was married. But I was tipsy, and he was charming. And he swore he wasn’t a casual-sex guy and that he’d recently learned he was basically infertile. Prostate cancer.”"
 "I gasp. Raquel again considers me with a quizzical expression. My reactions don’t make sense for a casual friend / service provider, and I don’t plan on explaining—at least, not to Raquel."
 **中文理解**：Raquel 的版本：没戴套（「已婚的第一个信号」）、他自称「前列腺癌、基本不育」——结果怀孕。Nina 的 gasp 无从解释：她不打算告诉 Raquel。
-**关键词**：Prostate cancer / a quizzical expression / I don’t plan on explaining
+**关键词**：Prostate cancer / We went back to his hotel room that night
 **为什么这样写**：「不育誓言」是 Jean 的第二重骗局（第一重是换药）——他的谎对两个女人各有一版；她的 gasp 是全书信息差最后的火花。
 **读者视角提示**：对照第二十五章 Jean 的「ED」台词——「不育」是他的升级版本；两个女人的身体都被同一套话术当过道具。
 
@@ -55,7 +55,7 @@ modified: "2026-11-15"
 > **原句 7:** "I’d much rather this man not be part of my story at all. If my kid wants to know later, I’ll try to find him. In the meantime, I think it’s better for this liar not to be part of our lives. This baby is the universe’s gift to me."
 "Relieved tears sting my eyes. This is how a mother should feel, I think. I never felt that way. “I’m glad you’re doing what’s right for you.”"
 **中文理解**：Raquel 的决定：「这个骗子不配出现在我们的故事里。孩子是宇宙给我的礼物。」Nina 眼里刺出欣慰的泪：「这才是一个该当母亲的人该有的感觉。我从没有过。」「很高兴你做了对自己正确的事。」
-**关键词**：part of my story / the universe’s gift to me / I never felt that way
+**关键词**：part of my story / the universe’s gift to me
 **为什么这样写**：两位母亲的对照在一句泪里完成——Raquel 的「礼物」与她的「从未」共用一个定语从句；她的欣慰是真的，她的空白也是。
 **读者视角提示**：她的孕程至此交卷：终止的选择与「never felt that way」的坦白——本书不审判她的选择，只记录她的 relief。
 
