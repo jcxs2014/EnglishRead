@@ -1,0 +1,55 @@
+{
+ "book": "the-last-bride-by-lexy-night",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-last-bride-by-lexy-night/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Esiree 在酒馆储物间与 Rorik 度「最后的自由之夜」，随即后悔——空洞的选择，Season 就要吞掉她，她将被迫扮演献祭新娘（假设家族计划不被王冠压碎）。",
+   "anchor": "I was already regretting him. He was a hollow choice for a final night of freedom; a desperate, clumsy hurrah before the Season claimed me.",
+   "start": 1460,
+   "end": 1599
+  },
+  {
+   "fact": "Rorik 失去兴致后说满脑子想的是「接下来那个吸血鬼」，Esiree 抓住他下巴发誓：绝不与吸血鬼上床。",
+   "anchor": "I will never fuck a vampire. Do you hear me?",
+   "start": 2578,
+   "end": 2622
+  },
+  {
+   "fact": "酒精让她想起 Jace——对 Jace 有压抑的感情；除非赢得这场秘密战争，两人不会再相见。另有一人本可选（暗指 Jace），但她不愿让心陷得更深。",
+   "anchor": "My intrusive thoughts wandered back to Jace momentarily. The alcohol made it harder to suppress my feelings for him.",
+   "start": 7204,
+   "end": 7320
+  },
+  {
+   "fact": "家乡 Leto 数百年自给自足、从未遭 Rabids 侵袭，因此从未参加 Harvest——直到周边出现 Rabid 巢穴，才被迫屈服并参加。",
+   "anchor": "For a long time, Leto simply hadn’t needed to participate in the Harvest.",
+   "start": 8242,
+   "end": 8315
+  },
+  {
+   "fact": "母亲怀她时村庄遭 Rabid 血洗，母亲被咬后休克早产；父亲接生，mortality 先于 Turning 带走了母亲，弥留之际抱着她。",
+   "anchor": "The shock sent her body into an early labor.",
+   "start": 9293,
+   "end": 9337
+  },
+  {
+   "fact": "父亲是化学家——拒绝接受「婴儿活不成」的判词，按体症记录、量生长、采稀有花草根茎磨成实验药膏养大她。",
+   "anchor": "But the chemist in my father rejected that.",
+   "start": 10011,
+   "end": 10054
+  },
+  {
+   "fact": "Esiree 的偏执：百年无人知道 Kesna 王后的下场，她一个字都不信 Vampyr 的说法——他们不在乎杀一个人类王后，杀了再 Harvest 一个就是。",
+   "anchor": "It’s been well over a hundred years, and still, none of us knows exactly what happened to Queen Kesna.",
+   "start": 11981,
+   "end": 12083
+  },
+  {
+   "fact": "史书：Vastion 之父 Istvan 最初染血疫、拒退位、把整个王族转化成吸血鬼；Rabids 撕走王后 Valeria 后统治变成复仇与嗜血的噩梦，最终被 Vastion 弑父终结。",
+   "anchor": "Henceforth, his reign became a fever of vengeance and bloodlust, a corrupted, unsustainable nightmare that only ended when Vastion took his father’s life.",
+   "start": 16693,
+   "end": 16847
+  }
+ ]
+}
