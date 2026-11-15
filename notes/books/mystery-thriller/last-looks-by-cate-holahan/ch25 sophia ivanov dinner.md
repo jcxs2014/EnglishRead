@@ -49,7 +49,7 @@ modified: "2026-11-15"
 "Jean pipes up. “We’re not having—”"
 "“I know Nina can’t drink, but I want to get a special bottle to thank you for coming.” I nod at the hostess. “Tout de suite, merci.”"
 **中文理解**：她假装没看见 Jean 的抗拒，直接法语召侍酒师。Jean 抗议「我们不喝——」，被她打断：「Nina 不能喝，但我要一瓶特别的酒谢谢你赏脸。」
-**关键词**：le sommelier / Tout de suite
+**关键词**：le sommelier
 **为什么这样写**：点酒权用语言优势抢下——Jean 的半句抗议被「感谢」的话术截断；她的每句法语都是一次权限提升。
 **读者视角提示**：对照第六章 Jean 的戒酒同盟（「你喝不了我就不喝」）——这瓶酒是对那次同盟的公开试探。
 
