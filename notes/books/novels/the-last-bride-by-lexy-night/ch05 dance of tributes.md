@@ -120,7 +120,7 @@ modified: "2026-11-15"
 | self-interest | 自身利益、利己之心 | I learned long ago that choosing one purely in my own self-interest didn’t always lead to the best outcome. |
 | veneer | （伪装的）外表、虚饰 | Her veneer may have had everyone else fooled, but I didn’t believe the act for one moment. |
 | fortitude | 坚韧、刚毅 | Selecting a human queen meant finding someone with enough fortitude to embrace a path they may not have otherwise chosen. |
-| acknowledge | 认可、承认（地位） | It is wonderful to see that the territory of Leto has finally decided to join the rest of the kingdom and acknowledge my reign. |
+| singed | 烧焦、烧灼（表面） | Unfortunately, my hair was badly singed and damaged by an open fire. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

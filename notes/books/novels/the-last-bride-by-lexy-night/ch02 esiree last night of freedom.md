@@ -23,7 +23,7 @@ modified: "2026-11-15"
 > **原句 2:** "I grabbed his chin and squeezed it tightly between my fingers, forcing his eyes to mine. “I will never fuck a vampire. Do you hear me?”"
 
 **中文理解**： 对方一句失态的话点燃了她的火气：她抓住他的下巴把脸扳过来，一字一句发誓——她绝不会与吸血鬼上床。
-**关键词**：forced his eyes to mine / never fuck a vampire
+**关键词**：forcing his eyes to mine / never fuck a vampire
 **为什么这样写**：让女主最粗野的一句誓言出现在最私密的场景里，是把「政治立场」写进「身体语言」：对吸血鬼的拒绝不是抽象的仇恨，而是带着体温的、当面说出口的誓词——后文真到王榻之上，这句誓言就成了悬在她头顶的审判。
 **读者视角提示**：把这句记成女主的「开章誓言」。它是本章所有内心独白的锚：她清楚圆房是义务（后文自述），却仍当众立誓——誓言与义务的裂缝就是她的内心战场。
 
