@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Felix 吓得尖叫求下降，Inara 却视骑龙为人生最刺激之事（她二十七岁）",
+   "anchor": "Flying on the back of a dragon the size of a fucking mountain was the most exciting thing to ever happen to her in all her life",
+   "start": 454,
+   "end": 581
+  },
+  {
+   "fact": "空中俯瞰到家乡 Deadhaven：破败房屋环绕一条魔法催生的细小水流",
+   "anchor": "Inara spotted her village, Deadhaven. A cluster of worn-out, broken-down homes",
+   "start": 2116,
+   "end": 2194
+  },
+  {
+   "fact": "四王国守护兽设定展开：Roylan 独眼巨人、Pregon 蛇怪、Arelia 巨龙、亡国狮鹫",
+   "anchor": "For Arelia, the heart of the realm, it was a monstrous dragon.",
+   "start": 3297,
+   "end": 3359
+  },
+  {
+   "fact": "Inara 无王室血统，是被三王国鄙夷的 Border Rat（靠偷骗活着）",
+   "anchor": "She was a Border Rat, born and bred in the Borderlands",
+   "start": 3689,
+   "end": 3743
+  },
+  {
+   "fact": "村民以为是 Arelian 军队来袭，村中三醉汉（雷电/念力/怪力）抬手要攻击",
+   "anchor": "Ralf, Lina, and Zave threw their hands up, preparing to attack.",
+   "start": 7417,
+   "end": 7480
+  },
+  {
+   "fact": "巨龙要对村民喷火时 Inara 喊停，龙竟听懂了她——心灵感应开始显现",
+   "anchor": "Somehow—she had no idea how—the dragon heard her plea. Understood her.",
+   "start": 6968,
+   "end": 7038
+  },
+  {
+   "fact": "Venerable Cias 点破守护兽是 Crowned Family 财产，命她立刻送回并召她去 librarium",
+   "anchor": "It is the property of the Crowned Family. Once they find out you have it, they will come here.",
+   "start": 14561,
+   "end": 14655
+  },
+  {
+   "fact": "结尾测试取名（Bobby/Harris 都被否）后，龙的心识如蛇般在她脑中游走",
+   "anchor": "Feel another consciousness in her head, moving around, slithering in and out like a snake.",
+   "start": 23306,
+   "end": 23396
+  }
+ ]
+}
