@@ -1,0 +1,55 @@
+{
+  "book": "last-looks-by-cate-holahan",
+  "chapter": "ch02",
+  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch02_chapter_two_nina_berry.txt",
+  "facts": [
+    {
+      "fact": "Nina 在 CVS 等候领避孕药时花二十美元买下按压式美甲套装，修出堪比 $100 沙龙美甲的猫眼粉金甲。",
+      "anchor": "the twenty-dollar kit I snagged at CVS",
+      "start": 547,
+      "end": 585
+    },
+    {
+      "fact": "Nina 花二十五美元从曼哈顿 Salvation Army 的工作服区淘来一件加大号男装 Versace 衬衫（单衬衫售价就超过 $1,000），亲手改成真丝挂脖迷你裙。",
+      "anchor": "I paid twenty-five dollars for it",
+      "start": 1217,
+      "end": 1250
+    },
+    {
+      "fact": "Nina 的第四个秘诀是用 Pantone 18-1633 TPX（猩红，即 Louboutin 标志红）的皮革鞋底修补漆，把米色底的 Aldo 细高跟鞋刷成红底鞋冒充。",
+      "anchor": "leather sole repair paint in Pantone 18-1633 TPX",
+      "start": 3166,
+      "end": 3214
+    },
+    {
+      "fact": "Scroll 杂志的新东家——一位对冲基金亿万富豪的前妻——为感谢 Nina 几年前以封面造型换知名度，寄来两张复刊派对门票。",
+      "anchor": "sent two tickets as a thank-you",
+      "start": 4115,
+      "end": 4146
+    },
+    {
+      "fact": "Nina 的男友 Jean 是银行家；灰发暴露他其实四十五岁、并非她最初以为的三十五岁；两人交往才四个月，二十八岁的 Nina 三周前搬进了他的公寓。",
+      "anchor": "I moved into his apartment three weeks ago",
+      "start": 14764,
+      "end": 14806
+    },
+    {
+      "fact": "Nina 曾在三个月前为真人秀《New Jersey Housewives》常规成员 Raquel 做造型，陪她赴伦敦为英国衍生剧上线造势；派对上 Nina 主动凑近 Raquel 一行人推销自己。",
+      "anchor": "styled three months prior for the launch",
+      "start": 6183,
+      "end": 6223
+    },
+    {
+      "fact": "Jean 灌了口红酒解释嘴里的烟味来自巴黎分行会议——那帮人每天照样抽掉半包烟；烟味令 Nina 反胃，她冲向洗手间队伍几乎呕吐。",
+      "anchor": "go through half a pack a day",
+      "start": 13315,
+      "end": 13343
+    },
+    {
+      "fact": "Jean 把反胃的 Nina 领进没人排队的男厕让她呕吐，追问她是否怀孕；Nina 说自己服着避孕药，Jean 递上纸巾并提议去买验孕棒，还搬出伦敦五小时时差质疑药效。",
+      "anchor": "Jean extends a paper towel",
+      "start": 16280,
+      "end": 16306
+    }
+  ]
+}
