@@ -8,7 +8,7 @@ modified: "2026-11-15"
 ## 本章导航
 
 - **一句话概括**：吻后冷战七十二小时，Gemma 用 Scooby-Doo 电影夜设局逼两人同椅；Oliver 耳语「你是我的最爱」，两人互相承认「都不会恋爱，可以一起学」；校边咖啡馆里他用雀斑数数宣言收官。
-- **情感弧线位置**：从「不该吻的」到「Would you like that? / Yeah. I would.」——关系在本章完成从事故到共同决定的转正；农场幻想首次把 Oliver 编进她的家。
+- **情感弧线位置**：从「不该吻的」到 `We can figure it out together.`——关系在本章完成从事故到共同决定的转正；农场幻想首次把 Oliver 编进她的家。
 - **Tropes 兑现/反转**：兑现朋友设局（Manipulation was my only choice）；兑现「一起学会」的双生新手设定；反转是权力换手——追人的一方（Oliver）全程小心，被追的一方（Eden）最后主动抛出「免费来玩」的邀约。
 - **人物弧线**：Eden——从 moping 到敢直说「I don't know how to do this」；Oliver——从等待到落座她身边（booth 同侧）；Gemma/Ben/Misty 参谋部以 thumbs up 收工。
 - **叙事手法**：社交媒体式短信插段（ stalking 梗）；同椅编排的物理压迫感；雀斑计数把外貌描写转成长期承诺。
@@ -69,7 +69,7 @@ modified: "2026-11-15"
 
 **中文理解**：听她说「不知道怎么与人恋爱」，Oliver 回答：说实话我也不知道怎么来，我们可以一起弄明白——绿色的眼睛盯着她，她连一次深呼吸都吸不满。
 
-**关键词**：consolation / figure it out together / struggling to breathe
+**关键词**：consolation / figure it out together / struggling
 
 **为什么这样写**：本书最温柔的一句反安慰：不否认问题，只提供同盟。figure it out together 把「不会」从缺陷改写成项目——两个学霸的母语本来就是「学」。她的生理反应（吸不满气）替心跳完成转译：心动=缺氧。
 
