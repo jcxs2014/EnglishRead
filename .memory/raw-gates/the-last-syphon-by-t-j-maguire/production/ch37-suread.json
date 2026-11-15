@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch37",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch37_chapter_37.txt",
+ "facts": [
+  {
+   "fact": "Voice 首次给「Cursed King 无法战胜」的论据（更强/更老练/更无道德）—— annoyingly chatty of late",
+   "anchor": "It’s not. The Dark Voice mocked. He’s stronger than you.",
+   "start": 1660,
+   "end": 1716
+  },
+  {
+   "fact": "王座厅伏击：七议会全员+Guardian 在场；Larissa 刀架 Felix 喉、Fraener 被 suppression collar（链结被压制成背景嗡鸣）",
+   "anchor": "standing at each of their sides were their Guardians",
+   "start": 7008,
+   "end": 7060
+  },
+  {
+   "fact": "Larissa 当众揭穿：Felix 偷书被抓现行→她拼图完成→「trials 那天也是偷力赢的。She's evil.」",
+   "anchor": "She’s a Syphon.",
+   "start": 10234,
+   "end": 10249
+  },
+  {
+   "fact": "Tevi 补刀：同谋（知情不报者）同罪处死——Felix 也在死罪名单",
+   "anchor": "Any collaborators are to be put to death too.",
+   "start": 11433,
+   "end": 11478
+  },
+  {
+   "fact": "她吸空气之力（灯闪/吊灯摇/地颤）恶魔音威胁——「他们说我怪物？那就看看真怪物」",
+   "anchor": "Let him go, or I will drain you all.",
+   "start": 12009,
+   "end": 12045
+  },
+  {
+   "fact": "收尾：四样她会烧掉整个 realm 的东西——村/母/Fraener/「him」；「他在不在名单上？」她自己也不知道",
+   "anchor": "There were only four things she truly cared about.",
+   "start": 12366,
+   "end": 12416
+  }
+ ]
+}
