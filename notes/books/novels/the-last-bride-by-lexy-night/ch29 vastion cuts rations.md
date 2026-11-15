@@ -39,7 +39,7 @@ modified: "2026-11-15"
 **中文理解**：「我过去的重量像一朵不祥的乌云悬在我头顶，一个在每个转角跟随着我的幻影。我害怕任何东西再次属于我，因为那意味着我会有东西可失去。我把自己交给了王国、交给了事业、交给了我的人民；我给过友谊与陪伴；但没有任何悲伤大于**交出爱、而它被夺走**——甚至不确定它是否真的属于过我。」部分的他想：**「也许我只做她的就够了。」**
 **关键词**：I feared anything ever being mine again / no grief had ever been / The weight of my past
 **为什么这样写**：这是全书男主最深的一次剖白：他不是怕再次被爱，而是怕再次**拥有**。作者把他的创伤写成一种反向的执念——拥有即失去。而末句「也许我只做她的就够了」是全书最动人的退让：**一个国王愿意放弃王座，只做她的。**
-**读者视角提示**：**全书最重要的情感定位**：ch02 Kesna 背叛后他再不敢爱（ch17「我不敢让良知停留其上」）；此刻他不敢拥有。这两者叠加，才使 ch26–28 的靠近如此昂贵。
+**读者视角提示**：**全书最重要的情感定位**：ch17 那场 Kesna 旧案的坦白之后他再不敢爱（「我瞎到看不见我洞穴里住着狼群」）；此刻他不敢拥有。这两者叠加，才使 ch26–28 的靠近如此昂贵。
 
 > **原句 5:** "A chaotic, circular logic began to loop inside my mind. Even if she were mine, time would eventually claim her. The hourglass was itself an instrument of death. This truth was inescapable. And yet, somehow, felt so distant. For as her heart swelled with thoughts of the present, I counted myself privileged to call this astonishing woman my wife."
 

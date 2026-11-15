@@ -59,7 +59,7 @@ modified: "2026-11-15"
 
 **中文理解**：「Mes 和我在袭击之后收集……」；「当然在城墙外——就在栅栏线外，埋着；留在屋里太危险，Watch 上那些吸血的也许会闻到腐败的气味。」
 **关键词**：Outside the walls, of course / Just beyond the fence line. Buried / the bloodsuckers on Watch might
-**为什么这样写**：作者用「埋在自家门口」这个细节写出这场阴谋的荒诞与危险：他们把疯兽的血埋在城墙外一尺，而王庭的哨兵就守着那条线。**血、墙、哨兵三者相邻——全书最锋利的空间隐喻。**
+**为什么这样写**：作者用「埋在自家门口」这个细节写出这场阴谋的荒诞与危险：他们把疯兽的血埋在栅栏线外的土里，而王庭的哨兵就守着那条线。**血、墙、哨兵三者相邻——全书最锋利的空间隐喻。**
 **读者视角提示**：注意「Watch 上那些吸血的」这个说法：她父亲对 Vampire 的称呼与女儿在 ch13 被纠正前的说法一模一样——**反叛的语言是从敌人那里学来的**。
 
 > **原句 8:** "“I have been a chemist longer than you’ve been alive Esiree. I know what I’m doing.”"

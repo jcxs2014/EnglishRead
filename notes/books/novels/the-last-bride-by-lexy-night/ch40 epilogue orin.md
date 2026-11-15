@@ -18,7 +18,7 @@ modified: "2026-11-15"
 **中文理解**：Orin 的自述：纯粹而彻底的疲惫——精神、肉体，还有他不愿承认的情感；Parcaetes 反复试验后确认：**王后的血里含有一份能「撤销这种形态、撤销我们这个生物」的配方**；他带着极大的矛盾与迟疑执行了 Vastion 的最后命令。
 **关键词**：Pure and utter exhaustion / Exhaustion. Pure and utter exhaustion / Exhaustion. Pure and utter exhaustion
 **为什么这样写**：作者把全书最大的行动交给一个「疲惫」的人执行：**不是狂喜、不是复仇，而是执行命令**。而「撤销这种形态」这个说法极准：不是杀死 Vampyr，是**把加在身上的形态撤掉**。
-**读者视角提示**：**关键**：注意 Orin 的身份——「一个统领本就该服从，不问为什么；而我一直如此，直到他作为国王的最后一刻」。**他是全书唯一没有违背过命令的人。**
+**读者视角提示**：**关键**：注意 Orin 的身份——「一个统领本就该服从，不问为什么；而我一直如此，直到他作为国王的最后一刻」。**他自己说：统领本该服从、不问为什么——而他一直如此，直到王作为国王的最后一个命令（而那个命令，他执行得最重）。**
 
 > **原句 2:** "I cared little for the alchemy of Esiree’s birth, or how the stars had aligned to make her blood a miraculous cure. With that leverage firmly in Vastion’s grasp, he became steeled in his resolve to end the blight of the Forsaken once and for all."
 

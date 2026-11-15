@@ -45,7 +45,7 @@ modified: "2026-11-15"
 
 **中文理解**： 画的右侧是一个陌生男子，五官与 Vastion 和 Mina 相似；她猜那是他们的兄弟——尽管她从未听任何人提起过什么兄弟。
 **关键词**：an unfamiliar male figure / similar features to Vastion and Mina / I’d not heard anyone speak of a brother
-**为什么这样写**：作者把「缺席」写成一个存在：家族画里有一个哥哥，但没人提起过他。作者用她的一句推测（presumed）标明这是未经证实的猜想——读者须知这条线在后文会被证实或推翻。这也让 ch03 里 Vastion 提到的「My own brother. My own wife.」得到回响。
+**为什么这样写**：作者把「缺席」写成一个存在：家族画里有一个哥哥，但没人提起过他。作者用她的一句推测（presumed）标明这是未经证实的猜想——读者须知这条线在后文会被证实或推翻。这也让 ch01 里 Vastion 的「My own brother. My own wife.」得到回响。
 **读者视角提示**：**重要伏笔**：Vastion 的兄弟 = ch02/ch03 那句背叛的当事人（Kesna 的背叛牵涉他的兄弟）。这个人在后文会回来。
 
 > **原句 6:** "The most perplexing aspect of it all was that there were no other portraits of any other queens. … Why were there only portraits of this woman? Intrigue and a tinge of jealousy were beginning to eat away at me."

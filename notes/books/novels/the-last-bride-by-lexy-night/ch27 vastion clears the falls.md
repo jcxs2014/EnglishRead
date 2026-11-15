@@ -74,7 +74,7 @@ modified: "2026-11-15"
 **中文理解**：他打断 Tyber：「我们会饿死，Orin。还需要 Mina 说得更明白吗？**我们的存续与人类的一样处在威胁之下。**」
 **关键词**：We are going to starve, Orin / Our existence is just as
 **为什么这样写**：这一句把 ch20 那句「我们（人类）是你们唯一的优势」整个翻面：现在双方都是弱者。**全书最重要的一次世界观翻转**——它同时废掉了「Vampyr 压迫人类」与「人类利用 Vampyr」两套叙事，只剩下共灭。
-**读者视角提示**：**核心**：从此之后，Rash（毒血计划）与 Parcaetes（解药研究）不再是两条对立的路线，而是同一道生存题的两个答案。
+**读者视角提示**：**核心**：从此之后，她父亲的毒血计划与 Parcaetes 的解药研究不再是两条对立的路线，而是同一道生存题的两个答案。
 
 > **原句 10:** "“We must protect the humans; they are our life source. We cannot let them succumb to the Forlorn. Even if we defeat them, the human populations will not replenish quickly enough. We must find a cure!” I declared, slamming my fist on the table. Regret overtook me instantly as a startled Esiree placed a hand to her chest and gasped."
 

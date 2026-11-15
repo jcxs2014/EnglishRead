@@ -67,7 +67,7 @@ modified: "2026-11-15"
 **中文理解**： 各领地首领都配合了她父亲操纵 Harvest 结果的计划——反正没人真心想把女儿送去嫁给吸血鬼王。父亲给他们的，是一个能一次解决不止一个难题的方案。
 **关键词**：complied with my father’s plan / orchestrate the outcome / more than one problem
 **为什么这样写**：一场跨国阴谋被写成「顺手解决众人难题」的生意：不是胁迫，是各取所需。作者的笔法刻意去掉悲情——让读者意识到整个大陆的成年男性统治者都默许用一个女孩做饵，这才是真正的恐怖。
-**读者视角提示**：「more than one problem」是钩子——对领地们是送走次女换保护，对父亲则是把女儿送进王庭。下一句马上拆开这个包裹。
+**读者视角提示**：「more than one problem」是钩子——对领地们是送走较差的候选者换保护，对父亲则是把女儿送进王庭。下一句马上拆开这个包裹。
 
 > **原句 9:** "Instead of sending their best, brightest, and most beautiful, they would send slightly less desirable candidates. Those offered as Tribute would be instructed to intentionally flail or fail any tests bestowed upon them, making me appear the obvious choice."
 

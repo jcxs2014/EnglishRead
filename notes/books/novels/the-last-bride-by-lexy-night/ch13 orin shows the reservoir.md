@@ -31,8 +31,8 @@ modified: "2026-11-15"
 
 **中文理解**： 「他们能闻到你的憎恨与不适——这装不出来。除非你不再用看畜生的眼神看我们，否则你永远赢不了他们的忠诚。」
 **关键词**：smell your hatred and discomfort / not something you can fake / stop looking at us like we are animals
-**为什么这样写**：全书最锋利的一句施压：你的偏见是能被嗅觉读出来的物理事实，无法掩饰。作者把「偏见」写成气味，于是道德问题变成技术问题——她要么改，要么永远被读成敌人。Orin 的逻辑也随之完整：不要求你 liking，只要求你别把我们当动物。
-**读者视角提示**：这条规则贯穿全书：他每次「闻出」她的情绪（ch11 的 attraction and lies smelled so similar）都是这条逻辑的延伸。记住——在这座城里，嗅觉即测谎仪。
+**为什么这样写**：全书最锋利的一句施压：你的偏见是能被嗅觉读出来的物理事实，无法掩饰。作者把「偏见」写成气味，于是道德问题变成技术问题——她要么改，要么永远被读成敌人。Orin 的逻辑也随之完整：不要求你喜欢我们，只要求你别把我们当动物。
+**读者视角提示**：这条规则贯穿全书：他每次「闻出」她的情绪（ch12 的 attraction and lies smelled so similar）都是这条逻辑的延伸。记住——在这座城里，嗅觉即测谎仪。
 
 > **原句 4:** "“We were human before this. Just like you. We didn’t ask to be turned. What would you have us do? Simply give up? Surrender to our circumstance?” He had a point. I let the question linger without argument."
 

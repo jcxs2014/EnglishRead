@@ -46,7 +46,7 @@ modified: "2026-11-15"
 **中文理解**： 「我安全吗？」她低声问向导。……「免于腐败（corruption）吗？」他以轻佻的语气无视她的担忧：「从你身上的气味判断，恐怕不是……」
 **关键词**：Am I safe? / From corruption? / From the smell of you, I think not
 **为什么这样写**：她的问题指向真实危险（他们随时可能转向她），他的回答却把它转成调情——并用第三次「闻气味」的手法给出最坏的答案：你的气味暴露了你已被污染。作者让 Tempus 的不可靠在此定型：他用她的危险取乐。
-**读者视角提示**：全书嗅觉政治学的第四次应用。ch11 是「吸引与谎言气味相似」、ch13 是「他们能闻到你的憎恨」、ch15 是「我闻得出你的忧虑」——每一次气味都揭穿她。
+**读者视角提示**：全书嗅觉政治学的第四次应用。ch12 是「吸引与谎言气味相似」、ch13 是「他们能闻到你的憎恨」、ch15 是「我闻得出你的忧虑」——每一次气味都揭穿她。
 
 > **原句 6:** "I quickly removed my gown, but left my thin, white undergarment on, telling myself that if I had to defend myself or flee, that I wasn’t going to do it in the nude. Part of me toyed with the rationale that if Vastion was going to be furious with me, I could at least declare I hadn’t entirely crossed a boundary."
 
@@ -94,7 +94,7 @@ modified: "2026-11-15"
 
 **中文理解**： 「你——」他的声音像断句，「你请另一个男人坐我的桌子；你与他一同用早餐；你在他身边在我城中来回走动。」
 **关键词**：You invite another man to my table / You take breakfast with him / You traipse up and down my city
-**为什么这样写**：清单式指控，每句都是她这一天的行踪，精确到让她无处辩解——他早就知道。而最后一句加了 dear Esiree：亲昵称呼嵌在威胁里，是这本书的招牌语法（甜与狠同句）。整段由「你」开头重复五次，把控诉写成节奏。
+**为什么这样写**：清单式指控，每句都是她这一天的行踪，精确到让她无处辩解——他早就知道。而最后一句加了 dear Esiree：亲昵称呼嵌在威胁里，是这本书的招牌语法（甜与狠同句）。整段由「你」开头重复四次，把控诉写成节奏。
 **读者视角提示**：这一清单也说明他的情报网之细（Mina 那句「他会听说你与 Tempus 密谋」兑现了）。
 
 > **原句 13:** "“Brave. Little. Liar. Don’t test me. I am going to have to take a much firmer hand with you.” … “You may not want to fuck me, but you’re dying to fuck my hand.”"

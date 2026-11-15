@@ -74,7 +74,7 @@ modified: "2026-11-15"
 **中文理解**：「Alyric 认为近来的成波袭击与**你决定收走遗体而非焚化**有关。**是你把它们引来的。**」
 **关键词**：tied to your decision to / You drew them here
 **为什么这样写**：**全书因果闭合**：她父亲在城外埋下未焚化的 Rabid 血（ch33）＝Forlorn 的路标——**他家族的第二条路线直接召来了灭城之祸**。而追责的判词落到她父亲身上：「是你把它们引来的」。
-**读者视角提示**：**核心**：全书最沉重的因果：Rash 家族以为自己在用 Rabid 血杀 Vampyr，结果是把 Forlorn 招到了自家门口。**他们的敌人用自己的计划毁掉了自己的家。**
+**读者视角提示**：**核心**：全书最沉重的因果：她父亲的家族以为自己在用 Rabid 血杀 Vampyr，结果是把 Forlorn 招到了自家门口。**他们的敌人用自己的计划毁掉了自己的家。**
 
 > **原句 10:** "“Darwyn is our finest tracker. His ability to follow a scent trail is unmatched. He will find the source of the rot by nightfall.”"
 

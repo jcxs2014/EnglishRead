@@ -38,7 +38,7 @@ modified: "2026-11-15"
 
 **中文理解**： 家里并不富有，但父亲靠卖药膏与复方药剂过得温饱体面；多出来的每一笔钱，都拿去供他推进「更大的实验」。
 **关键词**：medicinal salves and concoctions / the greater experiment
-**为什么这样写**：两句交代出隐蔽的经济线：一个乡村药剂师二十年如一日地给阴谋注资。the greater experiment 用了定冠词——在她心里这事早有名字，说明「弑王计划」不是临时起意，而是一项做了半辈子的研究。
+**为什么这样写**：两句交代出隐蔽的经济线：一个乡村药剂师数年如一日地给阴谋注资（ch02 说父亲的探索「不过数年」）。the greater experiment 用了定冠词——在她心里这事早有名字，说明「弑王计划」不是临时起意，而是一项早就有了名字的研究。
 **读者视角提示**：把「卖药膏的钱=颠覆经费」这条线记住。父亲的所有行为（包括让她当选）在这个经济逻辑里都自洽——这是一个把革命当论文来写的人。
 
 > **原句 5:** "I had never been one for the vanity of frills or the weight of useless adornments, but this was different. They worked meticulously, reframing the silk as armor and the jewels as bait. These weren’t costumes; they were essential tools, forged to ensnare a king."

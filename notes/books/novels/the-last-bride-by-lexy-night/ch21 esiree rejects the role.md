@@ -80,7 +80,7 @@ modified: "2026-11-15"
 
 **中文理解**： 「最重要的是，」她补道，「你的聪明再明显不过。你关心的事远比自己愿意承认的更多，却又把我贬低到只剩外貌。因为你长得好看、位高权重，你习惯了臣民匍匐在脚下、渴求认可。你以为我欠你一条命、该对自己的位置心怀感恩？」
 **关键词**：it’s clear how intelligent you are / diminish me to just my looks / subjects groveling at your feet
-**为什么这样写**：她的反击第一次带上「政治分析」：她指出他的温柔本身就是权力展示（被跪拜者施予的怜悯）。这是全书她第一次用结构性的语言质问他的行为，而非情绪。这让她从「被追求者」变成「批评者」。
+**为什么这样写**：她的反击第一次带上「政治分析」：她指出他的温柔本身就是权力展示（被跪拜者施予的怜悯）。这是全书她第一次把质问落在他的**行为逻辑**上（而非情绪或旧案）。这让她从「被追求者」变成「批评者」。
 **读者视角提示**：注意她说他「关心得比愿意承认的多」——她读懂了他（ch18 那场坦白已证明），这正是她最危险的能力。
 
 > **原句 11:** "“I want to know you. You have not allowed it,” he declared confidently. “I have wanted to know you since the moment I laid eyes on the Lady of Leto. And I will not apologize for acknowledging your exquisite beauty, the likes of which you are wholly unaware of.”"
