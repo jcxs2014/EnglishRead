@@ -1,0 +1,37 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "赛制：Turn 前不许旁观——她被排到全场最后一个",
+   "anchor": "Competitors of the Shielder Trials were prohibited from watching each other’s trials",
+   "start": 511,
+   "end": 595
+  },
+  {
+   "fact": "Brander 印记在小臂上：胸口的钝痛时刻提醒她链结正在被模糊",
+   "anchor": "The dull ache in her chest was her constant reminder of what it represented",
+   "start": 2921,
+   "end": 2996
+  },
+  {
+   "fact": "她抗命参赛：当晨收到的 Guardian Schedule 本要她去高议会领首个任务",
+   "anchor": "she was to report to the High Council’s chambers for her first assignment detail",
+   "start": 2321,
+   "end": 2401
+  },
+  {
+   "fact": "机关墙涌出成排自动弩机轮射（fire, change 循环），完全围死二人",
+   "anchor": "They completely surrounded the two, giving not an inch of freedom.",
+   "start": 9026,
+   "end": 9092
+  },
+  {
+   "fact": "Larissa 早早赛完、看台上嘲讽——她要证明给 Larissa 与 Prince Walder 看",
+   "anchor": "Inara could not wait to prove her wrong.",
+   "start": 7267,
+   "end": 7307
+  }
+ ]
+}
