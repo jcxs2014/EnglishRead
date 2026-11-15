@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch01",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch01_chap1.txt",
+ "facts": [
+  {
+   "fact": "小妹 Rachel 抱着 Eden 的腿不撒手，哥哥 Jake（比她小却 6'5\"）把她拎开。",
+   "anchor": "Jake scoops her up into his arms, letting the blood flow back into my legs",
+   "start": 721,
+   "end": 795
+  },
+  {
+   "fact": "Eden 是五个孩子里的老大，也是唯一离巢进城读书的。",
+   "anchor": "Being the eldest of five kids—and the only one who has flown the nest",
+   "start": 1386,
+   "end": 1455
+  },
+  {
+   "fact": "Eden 第一年修 Contemporary Literature 挂科，这是她这学期重修的原因。",
+   "anchor": "Ending that subject with a failure was not my happiest moment",
+   "start": 5465,
+   "end": 5526
+  },
+  {
+   "fact": "再挂就丢 post-grad 名额，丢了 post-grad 就丢 PhD offer——Eden 把这年当成生死线。",
+   "anchor": "And if I lose my PhD offer, I basically don’t have a reason to live",
+   "start": 5977,
+   "end": 6044
+  },
+  {
+   "fact": "临别时 Jake 对 Eden 说全家都以她为骄傲。",
+   "anchor": "You know we’re all proud of you, right?",
+   "start": 2694,
+   "end": 2733
+  },
+  {
+   "fact": "Gemma 接站，两人又一次分到同一层宿舍。",
+   "anchor": "On the same floor, as always.",
+   "start": 7294,
+   "end": 7323
+  },
+  {
+   "fact": "Gemma 的姐姐 Misty 来读教职后留下，当上学生宿舍主管。",
+   "anchor": "taking over as head of student accommodation",
+   "start": 7533,
+   "end": 7577
+  },
+  {
+   "fact": "Gemma 罗列家教名单（Cory Donovan、Heath Carson、Jamil Sutherland、Oliver James），Eden 答应后 Gemma 抢回手机替她发了咨询。",
+   "anchor": "she snatches her phone back and sends an inquiry in my name",
+   "start": 12585,
+   "end": 12644
+  }
+ ]
+}
