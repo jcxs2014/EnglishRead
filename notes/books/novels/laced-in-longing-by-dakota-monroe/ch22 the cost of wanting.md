@@ -30,11 +30,11 @@ modified: "2026-11-15"
 **为什么这样写**：自毁首次被命名为「天赋」——反讽的处方笺：她把自己最痛的模式说成本领，因为承认「控制不了」比承认「熟练」更可怕；「点着暖东西」与 ch06 的「被选中让血液发热」对位：她的火焰一路从暖意烧到关系。
 **读者视角提示**：对照作者的信——「她看似重复、退步，那是有意的」：本章就是那个设计的正面展示；她的倒退不是剧情需要，是症状的真实形状——信里的承诺在此兑现。
 
-> **原句 3:** "Ash never once demanded anything of me. He could have. He’s a god; an actual god and he possesses a presence that influences strangers to move out of his way on a crowded sidewalk without even seeing him. Yet he’s spent centuries watching me pick the wrong thing every single time, always allowing me the choice. If it were me, I’d have given up immediately. Collected the soul the second I got the chance, permission be damned. But not him. He waited. He kept coming back, offering yet never taking, never pushing past the line I drew, even when the line was arbitrary and cruel and drawn by a woman who can’t tell her own wants from her own fears."
+> **原句 3:** "Yet he’s spent centuries watching me pick the wrong thing every single time, always allowing me the choice. If it were me, I’d have given up immediately. Collected the soul the second I got the chance, permission be damned. But not him. He waited. He kept coming back, offering yet never taking, never pushing past the line I drew, even when the line was arbitrary and cruel and drawn by a woman who can’t tell her own wants from her own fears."
 
-**中文理解**：Ash 从来没对她索取过任何东西。他完全可以——他是货真价实的神，连看不见他的路人都会自动给他让路。可他花几个世纪看着她每次都选错，永远把选择权留给她。换作是她，早就放弃了——拿到机会就收走灵魂，管什么许可。但他没有。他等着。一次次回来，只给予、不索取，从不越过她画的那条线——哪怕那条线武断又残忍，画线的是一个分不清自己想要与害怕的女人。
-**关键词**：always allowing me the choice / permission be damned / can’t tell her own wants from her own fears
-**为什么这样写**：他的千年被她重新定价——不是深情障眼法，是「选择的绝对尊重」；「permission be damned」的反证（换作她早就强取）让他的克制有了对照物；最后那个从句把批判的靶心转向画线的手——她终于承认自己的线画错了位置。
+**中文理解**：他花几个世纪看着她每次都选错，永远把选择权留给她。换作是她，早就放弃了——拿到机会就收走灵魂，管什么许可。但他没有。他等着。一次次回来，只给予、不索取，从不越过她画的那条线——哪怕那条线武断又残忍，画线的是一个分不清自己想要与害怕的女人。
+**关键词**：always allowing me the choice / permission be damned / wants from her own fears
+**为什么这样写**：他的千年被她重新定价——不是深情障眼法，是「选择的绝对尊重」；「permission be damned」的反证（换作她早就强取）让他的克制有了对照物；最后那个从句把批判的靶心转向画线的手——她终于承认线画错了位置。
 **读者视角提示**：对照 ch16「she must say yes」与本章的盘点——同一件事，从他的自我约束变成她眼中的「他配得上」；这是她第一次用「如果我是他」的换位思考，共情机制在 grief 里反而上线了。
 
 > **原句 4:** "“What about these?” I ask, pausing at a stall filled with flowers. My fingers brush the petals of a bloom I don’t recognize—deep purple with a black center, its edges tinged with gold. It’s stunning."
