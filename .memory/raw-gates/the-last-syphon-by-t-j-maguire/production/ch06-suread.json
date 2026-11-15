@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "道别时 Cias 拒谈过去，只留一句「那位王子比你以为的更危险」",
+   "anchor": "“And I never shall. Who I was before does not matter. That man is more dangerous than you know.”",
+   "start": 608,
+   "end": 704
+  },
+  {
+   "fact": "Cias 指路：王宫 librarium 东翼有盾卫专架；Syphon 之书全锁在 Head Venerable chambers",
+   "anchor": "The palace librarium is located in the east wing.",
+   "start": 4720,
+   "end": 4769
+  },
+  {
+   "fact": "王子身份线：Medalist 可任意弯折金属；他徒手放冰片成谜（疑为龙赐）",
+   "anchor": "He was a Medalist, capable of bending anything metal to his will.",
+   "start": 8873,
+   "end": 8938
+  },
+  {
+   "fact": "王宫初见：Fortress 式黑石要塞、parapet 上红鳞甲士兵，民众微笑欢呼",
+   "anchor": "Soldiers dressed in the red-scaled armour of the Arelian Army walked the parapet",
+   "start": 9565,
+   "end": 9645
+  },
+  {
+   "fact": "Fraener 不喜被围；她心里闪过「把他点着」的念头，龙背下传来热度——心念成真的暗示",
+   "anchor": "An image pushed its way into her mind",
+   "start": 11468,
+   "end": 11505
+  },
+  {
+   "fact": "王子召 Transporter 兵瞬移来 Magdala 做 bond-check；她一眼看见 soul 链条，称强度近于王子与 Tydus 的羁绊",
+   "anchor": "“Summon Magdala.”",
+   "start": 14941,
+   "end": 14958
+  },
+  {
+   "fact": "劝留：匕首悬于 Felix 喉间半寸——「他……我一个念头就能剥了他的皮」",
+   "anchor": "“Him…I can flay the skin off his bones with nothing but a thought.”",
+   "start": 19442,
+   "end": 19509
+  },
+  {
+   "fact": "她被「免费食宿+薪俸」说动答应留下，盘算从今往后专偷王室",
+   "anchor": "No more scavenging. No more worrying about making payments to Gideon",
+   "start": 22021,
+   "end": 22089
+  }
+ ]
+}
