@@ -109,7 +109,6 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | consummate | （婚姻）圆房、完成 | We hadn’t consummated the marriage, but we’d certainly riled ourselves up. |
-| trajectory | 轨迹 | I long to be in your orbit, and any morsel you give me, I’ll take. |
 | extrapolations | 外推、推算 | By my extrapolations, we must decrease rations. |
 | replenish | 补充、补充供给 | Even if we defeat them, the human populations will not replenish quickly enough. We must find a cure! |
 
@@ -126,8 +125,6 @@ modified: "2026-11-15"
 |---|---|---|
 | woefully | 悲伤地、可怜地 | “Because I didn’t choose you,” she said woefully. |
 | exhausted? | —— | —— |
-| eviscerate? | —— | —— |
-| excoriate? | —— | —— |
 
 ## 一句话总结
 吻了整夜却没有圆房；枢密院里 Mina 的数据宣告必须削减配给，他吼出「我们必须找到解药」——而她此刻才明白父亲的毒血计划正在杀死人类唯一的活路；当晚他为她清空了整座 Falls，她说：国王偶尔自私一点没关系。
