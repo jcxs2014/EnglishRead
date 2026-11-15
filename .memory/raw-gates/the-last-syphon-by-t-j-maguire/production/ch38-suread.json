@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch38",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch38_chapter_38.txt",
+ "facts": [
+  {
+   "fact": "无魔之夜：Felix 的歌声变指甲刮黑板（cuffs 隔绝他的唱睡力）",
+   "anchor": "suppression cuffs on his wrists, there was no magic in the notes",
+   "start": 1101,
+   "end": 1165
+  },
+  {
+   "fact": "她的 double 剥夺：cuffs 切断魔法+链结——「胸口那道嗡鸣」彻底消失",
+   "anchor": "the soul-link was gone too.",
+   "start": 3612,
+   "end": 3639
+  },
+  {
+   "fact": "书籍情报①：Syphon Source 是外语书写、段落旁有翻译笔记——「王子在读它/在译它」",
+   "anchor": "It was written in another language.",
+   "start": 4864,
+   "end": 4899
+  },
+  {
+   "fact": "书籍情报②：被给予的力量远强于夺取的力量——解释 trials 里 Felix 的天文输出",
+   "anchor": "when power is offered, it is far more powerful than when it is taken.",
+   "start": 5706,
+   "end": 5775
+  },
+  {
+   "fact": "Larissa 不吃他的话术（他 petulant 抱怨第一次失手）——敌人画像补全",
+   "anchor": "she was immune to my charms.",
+   "start": 6777,
+   "end": 6805
+  },
+  {
+   "fact": "他用法律合法缓刑（rule enthusiast 的绕路哲学落地）——他在保她",
+   "anchor": "use the law to momentarily prolong her death.",
+   "start": 2576,
+   "end": 2621
+  }
+ ]
+}
