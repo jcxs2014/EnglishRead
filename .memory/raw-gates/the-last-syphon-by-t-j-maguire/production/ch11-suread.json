@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "深渊无底：坠落即死，木吊桥是唯一通路",
+   "anchor": "A fall from this height would mean instant death.",
+   "start": 1029,
+   "end": 1078
+  },
+  {
+   "fact": "魔法双斧首秀：金丝自掌心织成两柄战斧（看台惊叹、Larissa 张口）",
+   "anchor": "Tendrils of gold wove outwards from the centres of her palms",
+   "start": 3061,
+   "end": 3121
+  },
+  {
+   "fact": "魔法斧坚不可摧：把士兵的剑削成两半",
+   "anchor": "her axes cut through the metal with zero resistance, splitting the weapon in two",
+   "start": 4495,
+   "end": 4575
+  },
+  {
+   "fact": "桥索断裂的一瞬：时间近乎凝滞，她用盾泡把 Felix 悬空包住",
+   "anchor": "the harsh rocketing of the wooden bridge as it swayed from side to side",
+   "start": 6008,
+   "end": 6079
+  },
+  {
+   "fact": "盾泡=替人扛体重：她 6'4 扛 6'6 肌肉 Felix，很快见底",
+   "anchor": "Inara was tall, roughly 6’4, but Felix was 6’6, and mostly all muscle.",
+   "start": 8801,
+   "end": 8871
+  },
+  {
+   "fact": "盾墙把四兵挤成「贴墙陈列」，只为吓——「让边境的力量被记住」",
+   "anchor": "Let it be a warning to those who underestimated the power that lurked in the Borderlands.",
+   "start": 11470,
+   "end": 11559
+  },
+  {
+   "fact": "门后虚脱争执：Felix 只在她有性命之忧时才叫她 Nara；她发誓「太过了就退出」",
+   "anchor": "Felix only called her Nara when he was scared for her.",
+   "start": 13217,
+   "end": 13271
+  }
+ ]
+}
