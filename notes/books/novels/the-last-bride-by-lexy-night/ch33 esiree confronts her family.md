@@ -122,7 +122,7 @@ modified: "2026-11-15"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| obdurate | 固执的、顽固的 | We were a species facing oblivion, guarded by the very monsters we loathed. |
+| oblivion | 毁灭、湮灭 | We were a species facing oblivion, guarded by the very monsters we loathed. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

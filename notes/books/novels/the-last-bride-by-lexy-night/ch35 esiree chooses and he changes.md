@@ -38,7 +38,7 @@ modified: "2026-11-15"
 
 **中文理解**：「你可以拥有她永远，但求你——**让一个父亲得到他应得的、与他孩子在一起的那一生**。」——于是「突然响起一片刺耳的沉默」；Vastion 悬在她上方，那双一贯沉稳的眼睛此刻布满恐惧与犹疑。
 **关键词**：You can have her for eternity / grant a father the lifetime / You can have her for
-**为什么这样写**：作者让父亲的请求同时是慈悲与残忍：他请求的是「女儿活着」，而他明知那意味着女儿不再是人。**「你��拥有她永远」这句在语法上已经预支了结局**——而 Vastion 的沉默正是全书最重的一次停顿。
+**为什么这样写**：作者让父亲的请求同时是慈悲与残忍：他请求的是「女儿活着」，而他明知那意味着女儿不再是人。**「你可以拥有她永远」这句在语法上已经预支了结局**——而 Vastion 的沉默正是全书最重的一次停顿。
 **读者视角提示**：**核心**：父亲在此不是反派，是一个用尽一切手段救孩子的父亲——**这也是全书最难评判的一章**。
 
 > **原句 5:** "“My love,” he coaxed, tucking a blood-matted strand of hair behind my ear. “Our time has been but a season, and yet, somehow, you have eclipsed my heart entirely. Every memory I hold is nothing compared to the way you’ve consumed my soul. I may lose my kingdom for this, but I would surrender it gladly…for you. But you must ask.”"
@@ -109,7 +109,6 @@ modified: "2026-11-15"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| reckoning | 清算、了结 | I am already lost. |
 | unwavering | 不动摇的 | Relief washed over him, his eyes alight with a terrifying hope. |
 
 ### ⭐ 常用

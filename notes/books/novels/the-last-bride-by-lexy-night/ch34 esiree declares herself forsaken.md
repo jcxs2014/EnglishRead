@@ -44,7 +44,7 @@ modified: "2026-11-15"
 > **原句 5:** "“To this grim assessment, you might ask: what now? My answer is that we take back what’s ours. We rebuild our homes. We restore our lands."
 
 **中文理解**：「对这 grim 的评估，你也许会问：那现在怎么办？我的答案是**我们把属于我们的东西拿回来**：重建我们的家、恢复我们的土地；不要等轻浮的众神回应你的祈祷——他们不给你喜悦、不播你的庄稼、不擦你额头的汗。是时候**把阴影投到他们身上**。给我们一小时、一天、一百年；我们的韧性不依赖天上的力量，而依赖我们每个人心中重建、去爱、去宽恕的力量。」
-**关键词**：we take back what’s ours / They do not grant you / our resilience does not rely
+**关键词**：we take back what’s ours / To this grim assessment, you / To this grim assessment, you
 **为什么这样写**：作者把她的演说从控诉推到纲领：三句排比（重建/恢复/不等待）＋三句否定（不给你喜悦/不播庄稼/不擦汗水）＋最后的落点。**她用「重建、去爱、去宽恕」三动词收束**——宽恕的对象恰是她刚刚指控的众神。
 **读者视角提示**：**核心**：这份纲领同时是她家族的路线与王室的路线的合成：拿回自己的（她的家族）、依赖内部力量（Parcaetes 的做法）。
 
@@ -116,6 +116,8 @@ modified: "2026-11-15"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| pyre | 柴堆（焚烧尸体的） | It is why flame and pyre are commanded! |
+| stench | 恶臭 | The Forlorn. They’re as attracted to the scent of rot and decay as they are to living flesh. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
