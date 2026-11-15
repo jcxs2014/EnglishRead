@@ -121,7 +121,7 @@ modified: "2026-11-15"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| perspiration | 出汗 | My skin, once as cold as stone, began to perspire, an agonizing attempt to regulate this new internal fire. |
+| sweat | 出汗 | My skin, once as cold as stone, began to perspire, an agonizing attempt to regulate this new internal fire. |
 | cauterize | 烧灼（止血） | “This will stave off infection,” Nile said, “but first we must prepare to cauterize the wound. |
 | gash | 深长的伤口 | The small punctures I can stitch, but these gashes are too deep. |
 

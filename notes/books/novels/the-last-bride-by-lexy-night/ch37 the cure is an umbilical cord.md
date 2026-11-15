@@ -110,7 +110,7 @@ modified: "2026-11-15"
 |---|---|---|
 | catalyst | 催化剂、促成者 | He confessed that he was the catalyst for Leto’s fall to the Forlorn. |
 | magnificent | 宏伟的、了不起的 | Tyber interrupted excitedly, “But the cord is magnificent in its nature!” |
-| unshakable | 不可撼动的 | Yet, despite the vulnerability of my human form, I knew my heart had been irrevocably stolen. |
+| irrevocably | 不可撤销地、永远地 | Yet, despite the vulnerability of my human form, I knew my heart had been irrevocably stolen. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
