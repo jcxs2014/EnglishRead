@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "谜团升级：Phaedra 曾有的初步信任因 hustled 协议当场破产（How ridiculous that suddenly seemed now.）",
+   "anchor": "Would have even gone as far as to say she had begun to somewhat trust the woman.",
+   "start": 1203,
+   "end": 1283
+  },
+  {
+   "fact": "Syphon 问答课：Powerless 灵魂里也有能量（吸灵魂能量=夺命力、使其衰老）；大地海洋空气皆有能量",
+   "anchor": "Even without magic, there is still energy within one’s soul.",
+   "start": 3390,
+   "end": 3450
+  },
+  {
+   "fact": "Felix 举一反三点破：Cursed King 吸大地之力致其黑腐死国",
+   "anchor": "That’s what the Cursed King of Tolanaa did, right?",
+   "start": 4045,
+   "end": 4095
+  },
+  {
+   "fact": "复扫 Felix：暗金色（dull gold）如常——试炼之力的天文量级在档案里不存在",
+   "anchor": "His energy appeared to her in spectral form, floating around his body.",
+   "start": 7201,
+   "end": 7271
+  },
+  {
+   "fact": "禁书计划立项：Syphon 之书锁在 librarium 的 Head Venerable 住处",
+   "anchor": "All except Syphons. Those are all locked away in the Head Venerable’s chambers located in the librarium.",
+   "start": 8008,
+   "end": 8112
+  },
+  {
+   "fact": "Dark Voice 首度坦白：几年前才出现（母亲已离家）、从没对人说过、怕被惧怕地看待",
+   "anchor": "It hadn’t always been there. It was only over the last few years that it had started to appear",
+   "start": 9486,
+   "end": 9580
+  },
+  {
+   "fact": "她最大的恐惧：有一天 Voice 会赢",
+   "anchor": "Her biggest fear was that one day the Voice would win.",
+   "start": 10458,
+   "end": 10512
+  }
+ ]
+}
