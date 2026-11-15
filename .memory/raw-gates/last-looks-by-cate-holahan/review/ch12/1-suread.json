@@ -1,0 +1,55 @@
+{
+ "book": "last-looks-by-cate-holahan",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch12_chapter_twelve_nina_berry.txt",
+ "facts": [
+  {
+   "fact": "客户 Cécile 在定制 Chanel 上花了 €10,000，随后要 Nina 把她的\"lightly worn\"旧衣挂出转售，定价至少为原价的 70%。",
+   "anchor": "Spending €10,000 on a custom Chanel",
+   "start": 358,
+   "end": 393
+  },
+  {
+   "fact": "酒店门童见 Nina 双臂挂满奢侈品纸袋以为她狂购，她解释袋子不是自己的——她是客户的私人购物顾问兼造型师。",
+   "anchor": "I’m a personal shopper and stylist",
+   "start": 1492,
+   "end": 1526
+  },
+  {
+   "fact": "电梯门童名叫 Adrien，在读电影硕士、梦想有作品亮相戛纳；Nina 主动提出届时为他做造型并报了自己的 Instagram。",
+   "anchor": "dreams of having a picture at Cannes",
+   "start": 2387,
+   "end": 2423
+  },
+  {
+   "fact": "Jean 边打电话边谈交易：衰退首先冲击高端非必需品，现在不是做 LVMH 的时机（Coach 或许可以）；他还要先钻研历史行情，并确认 48 小时内没有能让盘面大动的新闻。",
+   "anchor": "It’s not the right time for LVMH",
+   "start": 3984,
+   "end": 4016
+  },
+  {
+   "fact": "Nina 站上椅子俯拍 Bottega Veneta 拼色连衣裙的全貌，Jean 把她像抱不听话的小孩一样抱下来，说从那个高度摔下来可能导致流产。",
+   "anchor": "Falling from that height could cause a miscarriage",
+   "start": 5962,
+   "end": 6012
+  },
+  {
+   "fact": "做爱时 Jean 动作格外轻柔以免惊扰胎儿；两人就胎儿大小争论：Nina 说它 literally 只有杏仁那么大，Jean 说他读到的是葡萄。",
+   "anchor": "it’s literally the size of an almond",
+   "start": 9436,
+   "end": 9472
+  },
+  {
+   "fact": "Jean 已把怀孕消息告诉同事并安排晚餐引见；Nina 不满——她怀孕还不到两个月，觉得此时很多人根本不知道自己怀孕、流产了都不会察觉。",
+   "anchor": "I’m not even two months along",
+   "start": 11243,
+   "end": 11272
+  },
+  {
+   "fact": "Cécile 是年近五十的离异女士，明天要带 Nina 去公园跑步；Jean 大声反对 Nina 把她介绍给同事，说她只该当造型师不该当媒人。",
+   "anchor": "She’s a near-fifty divorcée",
+   "start": 14256,
+   "end": 14283
+  }
+ ]
+}
