@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch36",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch36_chapter_36.txt",
+ "facts": [
+  {
+   "fact": "腐地突然暴走：以肉眼可见速度追杀——跨过 Tolanaa 追进 Borderlands",
+   "anchor": "the cursed land was spreading. Fast. Almost as if it were chasing them!",
+   "start": 2790,
+   "end": 2861
+  },
+  {
+   "fact": "她喊停：看见火线上的村庄——「我救不了所有村，只能选」guilt 硬扛",
+   "anchor": "STOP!",
+   "start": 3603,
+   "end": 3608
+  },
+  {
+   "fact": "dome 攻防：黑暗找不到入口还吸食盾之力——她的魔法被反向 syphon",
+   "anchor": "It began to move, as if searching for a way in",
+   "start": 5565,
+   "end": 5611
+  },
+  {
+   "fact": "村民僵住不敢动（视她为敌）——Grigoro 一声令下才动；Ravagen 村约五十人",
+   "anchor": "Get on the dragon! Quickly!",
+   "start": 7278,
+   "end": 7305
+  },
+  {
+   "fact": "Fraener 经链供力续命（她叮嘱别再给——他还要运人）",
+   "anchor": "A strong rush of power flooded her system",
+   "start": 9500,
+   "end": 9541
+  },
+  {
+   "fact": "峰值怒吼收束：Fraener 爪接走昏迷的她、黑暗指尖擦颊未遂",
+   "anchor": "YOU. WILL. NOT. WIN!",
+   "start": 13498,
+   "end": 13518
+  }
+ ]
+}
