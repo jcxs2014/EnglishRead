@@ -46,7 +46,7 @@ modified: "2026-11-15"
 > **原句 6:** "Concern flashes on Nina’s face. Spent was a Freudian slip. The word suggests I’m out of resources, that I’m not as rich as she believes."
 "Despite my error, I feel the corner of my mouth pull upward. Her little furrowed brow confirms it. Nina’s worry is about her compensation, not her safety."
 **中文理解**：「累了」说漏了嘴（spent 双关「破产」）。Nina 皱眉——她担心的却是自己的酬劳，不是她的安全。Cécile 嘴角上扬。
-**关键词**：a Freudian slip / out of resources / her compensation
+**关键词**：a Freudian slip / out of resources / furrowed brow
 **为什么这样写**：一次口误被拆成两个受益者——她测出猎物在数钱，读者测出猎物不在危险里；「嘴角上扬」的得意与第四章的「你付得起」互为回声。
 **读者视角提示**：这是本书最冷的反讽之一：能让 Nina 放心的恰恰是她的天真——她把自己的危险估值错了科目。
 
