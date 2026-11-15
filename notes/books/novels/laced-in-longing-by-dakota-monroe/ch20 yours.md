@@ -37,17 +37,17 @@ modified: "2026-11-15"
 **为什么这样写**：初吻的形容全走「通感歧路」——不用甜/软/电，用「凉空气」与「想不起的记忆」：他的味道本身就是乡愁的结构；「exactly the shape」把 ch16 的触觉档案与本章的吻直接对齐——她的手早就认识他，嘴唇只是补签。
 **读者视角提示**：「想不起的东西」正是全书的暗线（她忘了他的每一世）——作者把这个设定塞进味觉：吻他=触发失忆的反面；下一章记忆密度会告诉你这枚钩子有没有勾住什么。
 
-> **原句 4:** "“I do not know how to want you gently, Maven…your soul was promised to me, but I didn’t need a promise to crave you. I would have found you across a thousand more lifetimes, torn through every world, and bled the universe dry just to taste the whisper of your name on my tongue.” He sucks in a shaky breath. “If I do this—if I let myself have you the way I’ve craved—there is no undoing it. You will belong to me. Wholly. In every way that matters, and a great many that you cannot yet imagine. I will never let you go.”"
+> **原句 4:** "“If I do this—if I let myself have you the way I’ve craved—there is no undoing it. You will belong to me. Wholly. In every way that matters, and a great many that you cannot yet imagine. I will never let you go.”"
 
-**中文理解**：「我不知道怎么温柔地要你，Maven……你的灵魂被许给我——但就算没有那份许诺我也会渴望你。再给一千世我也会找到你，撕开每一个世界、把宇宙放干血，只为尝到你名字在我舌尖的气音。」他抖着吸一口气。「如果我这样做——如果我按渴望的方式拥有你——就没有回头路。你会属于我。完完全全。在所有要紧的层面上，还有许多你如今想象不到的层面上。我永远不会放你走。」
-**关键词**：I didn’t need a promise to crave you / bled the universe dry / there is no undoing it
+**中文理解**：「如果我这样做——如果我按渴望的方式拥有你——就没有回头路。你会属于我。完完全全。在所有要紧的层面上，还有许多你如今想象不到的层面上。我永远不会放你走。」
+**关键词**：there is no undoing it / Wholly / I will never let you go
 **为什么这样写**：他的「警告」其实是双层告白——先说爱先于合同（没有许诺也会渴望），再报合同条款（无退路、全部、永不放）；作者让最霸道的台词从「发抖的呼吸」里说出来：权力宣言与恐惧证词同框，这是 dark romance 平衡术的教科书页。
 **读者视角提示**：注意他说的是「you will belong to me」而不是「I will take you」——条款被动语态留了同一扇门（ch08 的 consent 红线）：他要的是她走进来，不是被拖进去；这半寸差别是全章合法性的来源。
 
 > **原句 5:** "My eyes flood simply because he’s asking. The terrifying god who could take whatever he wants stands before me, shaking as he awaits my permission, when not a single person in my whole life ever bothered to ask if I wanted anything at all. Dr. Voss doesn’t count—I pay her to do that."
 
 **中文理解**：她的眼睛满上来——只因为他「在问」。这个能拿走一切的可怕之神站在她面前、抖着等她的许可，而她这辈子从来没有一个人问过她想不想要任何东西。Voss 不算——她是收钱才问的。
-**关键词**：simply because he’s asking / shaking as he awaits my permission / never bothered to ask
+**关键词**：simply because he’s asking / shaking as he awaits my permission / ever bothered to ask
 **为什么这样写**：全章真正的情节在此——不是吻，是「被问」： consent 的戏剧价值不在性，在「她的人生第一次有人等待她的答复」；「I pay her to do that」的冷笑话顺手把治疗关系也归入「无人过问」的档案。
 **读者视角提示**：对照 ch09「not judging every little thing—just being there」与本章「asking」——他的陪伴从静默升级为征询；对寄养系统长大的人，「被询问」比「被爱」更稀缺：作者把这句话设为她的落泪点，精准到残忍。
 
