@@ -116,6 +116,21 @@ modified: "2026-11-15"
 **读者视角提示**：记住这次踩点的隐藏收获：Felix 的真实功率上限比档案上更捉急——这与他「献出神力」的谜团（ch12/15）再次对表：为什么他唱歌这么弱、献力却那么强？
 
 
+> **原句 11:** "The only one that stood out to her was Syphon Source.
+> Hope bloomed in her chest…until she read the next line.
+> Checked out.
+> But of course, it couldn’t just end there. No. The next line read who had checked it out, and it made her stomach drop.
+> Crowned Prince Walder."
+
+**中文理解**：一屋子杂乱里唯一扎眼的，是桌上摊开的借阅登记簿——唯一让她心跳停半拍的那行写着：Syphon Source。希望刚冒头就被下一行掐灭：已借出。借书人那一行让她胃部一沉：Crowned Prince Walder。
+
+**关键词**：Syphon Source / Checked out / Crowned Prince Walder
+
+**为什么这样写**：踩点失败的尾声翻出全书最大的一张牌：目标书不但存在，还已经躺在了王储手里——「希望→掐灭→胃沉」四拍把绝望写出层次；借阅簿的官僚格式（Checked out）让命运的恶趣味盖了个公章。
+
+**读者视角提示**：记住这一行的杀伤力：他们要偷的书在王子的住处——下一章她的所有心魔（他是不是知道了？）都从这本借出的书里长出来。
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -143,4 +158,4 @@ modified: "2026-11-15"
 
 ## 一句话总结
 
-Ball 阴影下的首次踩点：图书馆美得像神殿、乱得像迷宫——唱睡的学官趴在桌上，金丝书海里没找到那本书，倒是捡回来一个叫 Balthus 的未知数。
+Ball 阴影下的首次踩点：图书馆美得像神殿、乱得像迷宫——唱睡的学官趴在桌上，书没找到，倒是捡回一个叫 Balthus 的未知数，和一记闷雷：目标书 Syphon Source 已被 Crowned Prince Walder 借走。
