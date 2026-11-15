@@ -26,7 +26,7 @@ modified: "2026-11-15"
 **中文理解**：她转回屏幕，强迫自己盯着眼前游动的数字列——胃却拧紧了：一个叛徒般的念头滑过脑海。她想他了。
 **关键词**：columns of numbers / a traitorous thought / I miss him
 **为什么这样写**：欲望被安排在工作场景里告白——「traitorous」定罪了这份想念：她的自我认知系统把它归类为对精神病的投降； colon 之后的三个词是全书最短的一句情话，也是她自己最不想认领的一句。
-**读者视角提示**：注意「swim before my eyes」——她连表格都看不清了，这与上一章「越睡越累」构成同一条疲劳线；身体透支先于感情承认，作者的顺序始终如此。
+**读者视角提示**：注意「swim before my eyes」——她连表格都看不清了，这与本章后文的「越睡越累」构成同一条疲劳线；身体透支先于感情承认，作者的顺序始终如此。
 
 > **原句 3:** "“No.” Actual truth, for once. Since the faceless man appeared, those particular urges have receded. I’m too curious about what’s happening to consider checking out early."
 

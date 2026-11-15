@@ -49,7 +49,7 @@ modified: "2026-11-15"
 **中文理解**：被再问及家人，她摇头：「没有人。」真话先于修饰漏了出口，她补一句「寄养长大的」，好像这四个字能解释一切。桌面又是一阵疼痛的静默——这次盛满她躲了一辈子的那种怜悯。
 **关键词**：No one / Foster care / the kind of pity
 **为什么这样写**：连续两问（「No.」「No one.」）的升级是设计好的失守曲线：先答错语气，再答错内容；「dress it up」这个词组把她惯常的谎言工程摆上台面——真话不是她不会说，是来不及包装。
-**读者视角提示**：这是她第一次对活人交代身世——上一章对医生都只报假数据。换来的是「疼的静默」：她此后会更用力地说谎；注意 Tyler 拿 IT 话题解围的动作，桌子上的善意都是分工好的。
+**读者视角提示**：这是她第一次对活人交代身世——第 2 章里她对医生报的全是假数据。换来的是「疼的静默」：她此后会更用力地说谎；注意 Tyler 拿 IT 话题解围的动作，桌子上的善意都是分工好的。
 
 > **原句 6:** "The alcohol won’t settle fast enough. I drain half my drink in one go, savoring the burn that travels down my throat and blooms in my chest. Maybe if I get drunk enough, I’ll stop feeling like I’m performing humanity rather than experiencing it."
 
