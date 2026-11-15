@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch24",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "开场心魔：Syphon Source 在王储手里的恐惧链（识破？处决？连坐所有人）",
+   "anchor": "What is Prince Walder doing with a book about Syphons?",
+   "start": 1149,
+   "end": 1203
+  },
+  {
+   "fact": "外交官图鉴：Howling（流动水纹袍、蛇形 Guardian 缠臂、radar 报警）与 Armanie（沉默巨人盾卫）",
+   "anchor": "There was Lord Howling of Pregon.",
+   "start": 4324,
+   "end": 4357
+  },
+  {
+   "fact": "Felix 宴会偷窃表演：握手顺手收首饰，100% 把握才动手",
+   "anchor": "the jewellery that was once sitting on skin suddenly in his pockets.",
+   "start": 6438,
+   "end": 6506
+  },
+  {
+   "fact": "王储认证她的眼力（Howling 不是表面上那样）——情报官身份加冕",
+   "anchor": "“Your assessments are accurate.",
+   "start": 13215,
+   "end": 13246
+  },
+  {
+   "fact": "被追问紧张后的答非所问：violet eyes flashing 在前、grunted out 在后——烦躁是心动的伴生症状",
+   "anchor": "“Your presence irritates me.”",
+   "start": 14075,
+   "end": 14104
+  },
+  {
+   "fact": "Na-Ri 隔桌微笑互动；Fraener 传「被围」的不适感（cornered, cramped）",
+   "anchor": "Inara waved, smiling, and the woman smiled back",
+   "start": 7298,
+   "end": 7345
+  }
+ ]
+}
