@@ -1,0 +1,409 @@
+
+=== ①相对章号：26 行 ===
+ch02 flight home and drunken trio.md:24 **为什么这样写**：开场直接把尖叫原声怼到读者耳边，连用三组感叹句；上一章他还是抱赃物冲锋的搭档，这一章开场就怂到底——用同一角色前后反差制造笑点，也顺手把龙背飞行有多吓人写活。
+ch02 flight home and drunken trio.md:137 **读者视角提示**：取名游戏的两次被否（Bobby、Harris）是喜剧糖衣，最后这句蛇形游走才是真收束：它有名字、它不肯说。名字之谜与心识之谜一起挂到下一章。
+ch03 soul link revelation.md:74 **为什么这样写**：法令条文式的冷句子（issued / signed / officially outlawing / put to death）一个情绪词都不给，反而最吓人——制度化的死刑不需要形容词；这段历史刚讲完，读者的下一个念头
+ch03 soul link revelation.md:76 **读者视角提示**：syphon = 全境死罪，这条法令是悬在 Inara 头顶的剑。她上一章为了保命刚解禁一次——能力每用一次，都是在死罪线上走一回。
+ch04 burnt ox and never go south.md:12 - **Tropes 兑现/反转**：兑现「伙伴夜话立纲领」；反转「凶兽成了投喂者」——上一章还在火烧屁股，这一章已把 ox 打包到家；「绝不南下」与「最危险的 Crowned Prince」双双挂上暗线。
+ch04 burnt ox and never go south.md:109 **读者视角提示**：Bobby、Harris 的玩笑名单至此作废：他叫 Fraener，而且接受了她的呼唤。名字被接受=链接被双方承认，第一章的献背悬案至此落定成文。
+ch05 the army at the border.md:171 **读者视角提示**： Cliffhanger 收章：万剑悬顶而未落。下一章的开局就是这一瞬的解法——她身后是地道与全村，身前是王子与他的冰龙，而 Fraener 的怒意正顺着链接往她骨头里灌。
+ch08 phaedra and the chosen wing.md:116 **读者视角提示**：Phaedra 递到嘴边又收回的那半句话是本章最后的钩子：她知道什么？她为什么愿意对一个边境贼透露到这一步？这个问题连同那口「衣柜」一起留给下一章。
+ch10 the trial begins.md:81 **读者视角提示**：记住她的双重考纲：完成机制只是地板，她真正要演给看台的戏在后面。本章的 cliffhanger 不在弩阵，在她那句 “But she had a point to prove.”——下一章的「炫技」从这里起跑。
+ch11 shield bubble over the abyss.md:57 **读者视角提示**：盾泡的代价在原文后段明示：悬空=替他扛体重。记下这个设定：她的救援从来不是免费的，每一秒都在烧储备——下一章的代价（鼻血）就是这张账单的利息。
+ch11 shield bubble over the abyss.md:98 **读者视角提示**：盾桥是她能力创意的第四章（面/泡/墙/桥）。记住这个序列——考官要看的「稳定输出」，她交付的却是「无穷变体」，这就是她与 Larissa 型选手的本质差距。
+ch12 take from me.md:14 - **叙事手法**：用「火焰镜像」写压迫（火焰找路→盾包火→抽氧反杀），技能升级走「同物反转」；Felix 献力一段零解释（how 未答），把他的秘密留成下一章的钩子；胜利收在「看台群像快照」上。
+ch12 take from me.md:34 **为什么这样写**：上一章挂出的靶子（第一轮都过不了）在这里兑付：表情三连（怒/妒/忧）按顺序拆解了 Larissa 的心理防线；“That one look made the entire ordeal worth it” 把她的胜负观
+ch14 the impossible seven.md:102 **读者视角提示**：「This is true.」是本章最后一颗子弹：他承认优势存在，但没说会怎么办——既没有否认她的 7 分，也没有驳回指控。下一章她必须自己接住这个问题：这是王子式的考试，比 Trials 更难。
+ch17 first day on the job.md:144 **为什么这样写**：全章收在一记双刃 compliment：嘲讽她的教育短板，却同时开门（有问尽管问）——傲慢与让步装进同一句话；对话的闸门由此打开，为下一章的「问答马拉松」挂档。
+ch18 potato heist planning.md:76 **读者视角提示**：记住这个两步结构：下一章（或不久后）的实地踩点戏就是它的上半集。vault 假设（她坚持按最坏情况规划）是他们盗贼职业性的体现。
+ch21 the lovers dance.md:95 **为什么这样写**：章末异象只给一句七词的目击报告：无形容、无归属、无解释——三个空格全留给下一章；“big and dark” 与前文的 darkness 呼应，把「感觉」升级成「证据」。
+ch21 the lovers dance.md:97 **读者视角提示**：记住这道黑影：Fraener 紧接着落栏杆（他看见了吗？他知道吗？）——下一章开头的对话将从这只小形态的龙嘴里长出来。
+ch23 the librarium heist.md:76 **读者视角提示**：记住三分钟沙漏：从门关那一刻开始计时——下一章的每次失败都会被换算成「浪费了几秒」。
+ch23 the librarium heist.md:131 **读者视角提示**：记住这一行的杀伤力：他们要偷的书在王子的住处——下一章她的所有心魔（他是不是知道了？）都从这本借出的书里长出来。
+ch28 market day and the disguise.md:86 **为什么这样写**：敲诈清单的第二项平平无奇：一件旧便装——它的用途（下一章揭晓）才是笑点引信；“sniffled” 的抽泣与「 spare clothing」的寒酸形成悲喜混装，市井感满格。
+ch30 confession and bang.md:76 **读者视角提示**：记住这个无解时刻：全章的怒火、辩护、数据都在这一句面前失效——下一章的撞门声（BANG）正是这个悬而未决的问题的物理形态。
+ch31 bloodborne.md:116 **读者视角提示**：记住这个收尾的温度：她赶他走不是因为怕，是因为「需要时间消化他的真身」。下一章的关系回暖从这里起跳。
+ch33 homecoming.md:86 **读者视角提示**：记住这个 cliffhanger 的结构：No（拒绝）→ She already knew（认命）→ 名字（现实）。三拍收束把「追与逃」的张力全部交给下一章。
+ch34 the compromise.md:11 - **情感弧线位置**：被追上的惊 → 摊牌的剑拔弩张 → compromise 的谈判爽 → 双龙的恐惧传染 → 心象告别的心碎 → 跨线的 foreboding；本章是「并肩」的第一章：敌人变同路人。
+ch37 exposed.md:86 **读者视角提示**：记住这个未确认的第五格：他知不知道她刚才在为谁黑化？他站哪边？——两问都留给下一章的 first word。
+
+=== ②绝对断言：109 行 ===
+00_情感节点.md:22 **叙事概括：** librarium 的密谈把底牌一张张掀开：soul-link 同生共死、巨龙是黑暗战争幸存三龙之一的 Fraener、而「战后法令处死一切 Syphon」的历史里，母亲夜夜讲古的真正用意浮出水面。Cias 给她的忠告只
+00_情感节点.md:46 **叙事概括：** 终轮「一对一」变成四个 Firestarter 的处刑现场。她打到鼻耳渗血、储备见底，跪地时 Felix 抓住她的脚踝说出守了两年的秘密——「从我身上拿」。给出来的力量比抢来的强，她用抽氧术翻盘收服全场，也第一次把「赢」
+00_情感节点.md:82 **叙事概括：** 秘会把末日摊在桌面上：腐地在吃地、侦察兵与搜救队全灭、三个边境村化为灰烬。她读完报告冲门想回家疏散村民，被瞬移拦下——「Look again」。恐慌者的理性、冷静者的恐惧、以及她第一次看见的「议会在用什么填自己的怯懦」。
+00_金句精选.md:39 **为什么重要**：凶兽的示好带着笨拙：它从她的胃里读懂了饥饿。soul-link 双向性的第一次实证。
+00_金句精选.md:119 **上下文**：ch13 排名前的闲聊，Kronan 的豁免第一次露头。
+ch01 dragon offers its back.md:118 **读者视角提示**：盾能「穿过火焰」，是因为她把刚吸来的龙焰之力灌了回去——用对手的力量反打对手，这是本章最漂亮的战术闭环，也是 syphon 能力的第一次实战验证。
+ch02 flight home and drunken trio.md:87 **读者视角提示**：这是龙与人心意相通的第一次实锤：它的情绪会漏进她心里（前文那股陌生的威胁感就是它的）。从这刻起两人共享情绪——这条通道日后既是武器也是软肋。
+ch02 flight home and drunken trio.md:107 **读者视角提示**：「王室的财产」四个字把外部冲突的引信点着了：Inara 的偷窃癖第一次撞上国家机器。本书主线（她与巨龙 vs 王室追索）从这里起步，Cias 的 librarium 召唤就是转折之门。
+ch03 soul link revelation.md:13 - **人物弧线**：Inara 第一次直面「自己是 Syphon」这行走的死罪（母亲夜夜讲古的用意揭晓）；她对 Cias 亦父亦师（“father figure of some sort”）；Cias 的怀疑与忠告并举，立场成谜。
+ch03 soul link revelation.md:120 **中文理解**：盾卫者会被带进王宫，充当贴身护卫，唯一的职责就是保护自己的 Charge；他们的力量会被评估，Charge 的重要性按力量高低分配。
+ch04 burnt ox and never go south.md:50 **中文理解**：可他是方圆百里内唯一肯把赃金熔了重铸的人——所以他想宰多少就宰多少，而且他心里门儿清。
+ch04 burnt ox and never go south.md:54 **为什么这样写**：一句垄断经济学：唯一供应商+不可替代技艺=漫天要价；“and he knew that” 收尾的斜眼一笔，把 Boltix 的精明写进语气而不写进评价——作者的愤懑全靠节奏，不靠形容词。
+ch04 burnt ox and never go south.md:98 **读者视角提示**：接前一句她心里那句 “He’s trying to feed me.”——龙从她的胃里读懂了饥饿。这是 soul-link 双向性的第一次实证：她能接住它的情绪，它也能接住她的。
+ch05 the army at the border.md:12 - **Tropes 兑现/反转**：兑现「别离被抓包」「大军压境」；反转「绝不去的南方成了唯一去处」的伏笔刚落、军队当天就到；Crowned Prince 由传闻落地为真人——美貌、悬浮、万剑操控一次亮相。
+ch05 the army at the border.md:21 **中文理解**：唯一她确定 Arelian 军队不敢跟去的地方：死国 Tolanaa——就在边境以南，公认是全境最凶险之地。传闻去过的人没有一个回来：有人说土地受了诅咒，被 Cursed King 杀死的亡魂困在国境内，不得超度、不得安宁
+ch05 the army at the border.md:25 **为什么这样写**：ch04 三次敲打的「南方」禁忌在此揭底——南边就是死国本身。「最凶险」与「唯一安全」被写进同一句，危险的悖论正是计划的全部逻辑：只有连王子都不敢踏足的地方，才藏得住一个 Syphon。
+ch05 the army at the border.md:97 **为什么这样写**：继承之力不用旁白宣布，让 Felix 亲眼看见并亲口报出——「 terror skating over his features」连最熟的人都怕了；黑金色与龙眼同色，是「两个灵魂正在合一」的第一次可见证据。
+ch05 the army at the border.md:110 **读者视角提示**：来龙叫 Tydus（下一句点出）：One of the Three 之一、吐冰龙——王子的坐骑与 Fraener 同辈同源。两大幸存古龙正面相遇，这是 ch03「国本」设定的第一次具象化对撞。
+ch05 the army at the border.md:120 **读者视角提示**：这是她与 Crowned Prince 的第一次对话：她赢了个开场（全场倒吸气），但读者要记住她此刻骑在龙背上、身后是全村人命——嘴上占的便宜，马上要用命还。
+ch05 the army at the border.md:128 **为什么这样写**：颜值描写全用硬质意象（石雕/金属般的盔甲贴合），唯一柔软的词给了眼睛的 “mesmerising”——为言情线埋下生理性的第一印象；“as all the rumours said” 把传闻史并入现实，人物未开口，规格
+ch06 bond check and the deal.md:157 **为什么这样写**：王子的第二张牌是档案：不谈龙、只谈前科——把雇佣谈判里的「你」从 Chosen 拉回通缉犯，两重身份在他一句话里完成对齐；她的 wince（畏缩）是全章唯一一次理亏，比任何反驳都诚实。
+ch07 shrink and seven families.md:13 - **人物弧线**：Walder 的统治术进阶（假意让步→"You do not."）；Larissa 登场立敌（七年 Shielder Trials 连霸）；Lady Niya 唯一的善意线；Fraener 的性格首次全貌：耍宝、记仇、
+ch07 shrink and seven families.md:26 **读者视角提示**：这是全书核心设定的第二次解锁（第一次是变形前没人知道）：守护兽可自由变形。记住这个「掌心形态」—— Fraener 后文在宫中全程以小形态随行，卖萌与护主两用。
+ch07 shrink and seven families.md:56 **读者视角提示**：注意这是本章王子的第二次操盘（第一次是假意让步）：他全程没有下过一道真正的命令，Fraener 的变形却完全是他要的结果。和这种人过招，先问「他想让我做什么」。
+ch07 shrink and seven families.md:86 **为什么这样写**：挑衅与回应完全错频：Larissa 按自己的恐惧发言（七年王座怕被夺），Inara 按事实回应（闻所未闻）——两个 Shielder 的第一次交锋没有交上火，却已经完成了敌意建档；「 Trials 」这个词第一次出现，
+ch07 shrink and seven families.md:119 **读者视角提示**：龙替她赢下的这一回合要记账：议会第一印象=「这女人带的东西我们动不了」。这份威慑值是她进宫初期唯一的护身符，用一次少一次——Villani 不会只吃这一次瘪。
+ch09 arrows and the dark voice.md:40 **读者视角提示**：这是 Larissa 的第一次动手（名义是「意外」）：偷袭目标是 Felix 与公主身边，说明她要的不是杀，是下马威。记住这箭雨——Trials 开赛前的旧账，决赛场上要还。
+ch09 arrows and the dark voice.md:50 **为什么这样写**：心魔不是外来入侵而是内生欲望：三段递进从「它说」到「她想」再到「她也想要」——第三句是全书最狠的自我坦白；魔法爽感（ch01 的瘾）在这里第一次被标成危险资产。
+ch09 arrows and the dark voice.md:72 **读者视角提示**：这是 Phaedra 第一次动用权力护外人：她的友谊从来带着政治成本。记住 Larissa 退让的方式（脸红、秒怂）——她对王权的恐惧大于胜负欲，这个软肋后面会被反复拿捏。
+ch10 the trial begins.md:27 **读者视角提示**：记住「轮到才许看」这条赛制：她全场唯一的情报是别人的表情与传言。这也让 her trial 的镜头保持独占——我们和她一起第一次看清考场。
+ch10 the trial begins.md:47 **读者视角提示**：这是她第一次主动「关龙」：从现在起到试炼结束，fraener 的力量、警报、情绪全部收不到。独战状态正式生效——后面每一处险情都请记起她身上这块印。
+ch10 the trial begins.md:57 **读者视角提示**：看台上三张脸记好：Walder（眯眼=重新估值）、Larissa（讥笑=轻敌）、Lady Niya（前文唯一「略感欣赏」的人）。他们的表情变化就是 Trials 线的计分板。
+ch11 shield bubble over the abyss.md:20 **中文理解**：这间更大，而且房间正中是一个巨大的深坑——一条摇摇欲坠的老木吊桥横跨两侧崖沿，是通往对门唯一的明路。
+ch11 shield bubble over the abyss.md:24 **为什么这样写**：考场布置即考题本身：坑的深度（下一节写「听不见石头落地」）与桥的破旧（rickety）把「风险预判」考进开卷第一眼；「唯一明路」四个字提前把所有变数（过桥者无防备）圈定，伏笔随场景交付。
+ch11 shield bubble over the abyss.md:26 **读者视角提示**：记住这条桥的两个属性：破（会断）与独（必须过）。本章全部戏剧张力都从这两个字眼里长出来——她后世的盾桥正是对这道「唯一通路」的暴力重写。
+ch11 shield bubble over the abyss.md:96 **为什么这样写**：收官发明精确到宽度（five inches）：数值化的细节让魔法像施工——她的「桥」是对考场「唯一木桥」的嘲弄式回应：你能断我的桥，我随时造我的；下手抛的随意感把这手绝活写成日常。
+ch12 take from me.md:13 - **人物弧线**：Felix 的忠诚从「挡箭牌」升级为「共犯」（献力=知情人）；她的恐惧（proud to withdraw）被证明是对的——黑暗之声在胜利瞬间即刻涨价；Larissa 的表情账本从讥笑翻成嫉妒+担忧；Walder 的「
+ch12 take from me.md:55 **为什么这样写**：不可能的揭示用「复述」完成：同一句点火描写出现第二次——第一次是情报，第二次是绝望；“Four Firestarters?!” 独立成段的问号是她的世界观崩坏声：这不是考核，是处刑。
+ch12 take from me.md:151 四火围杀把她逼进储备的最后一格，Felix 一句「从我身上拿」揭晓二十年的知情与无条件托底——她用抽氧术赢下全场，也把「赢」的危险第一次摸了个正着。
+ch13 since your mother left.md:31 **中文理解**：「你妈最后一次出门冒险前，找我说过话。她担心你，怕你有一天搞不定自己的力量而她又不在身边。所以她托我照看你。帮你。」
+ch14 the impossible seven.md:12 - **Tropes 兑现/反转**：兑现「排名对决」；反转「从不给满分的人给了」——7 分是 Walder 对她的第一次公开站队；Villani 的 1 分与 Larissa 的作弊指控证明：赢，就是把所有敌人叫醒。
+ch14 the impossible seven.md:22 **中文理解**：「他从来没有过。」Kronan 照例咕哝着纠正。「为什么？」她好奇。「没人配得上他的满分。Walder 对自己和身边人都要完美——他给过的最高分是 6，给了 Larissa。」公主念这个名字时带着冰碴子般的怨毒，意味深长。
+ch14 the impossible seven.md:28 **读者视角提示**：记住这组数字锚点：Walder 的历史最高=6（给 Larissa）。本章结尾他给自己人破例打 7，等于当众把 Larissa 从「唯一」的位子上拉下来——这个羞辱比分数本身更毒。
+ch14 the impossible seven.md:38 **读者视角提示**：记住 42 这个数字与「紧张」的判断：Larissa 的自信心从这一刻起就有了裂缝——她第一次需要「防」这个边境人。数值（42/49）也将成为她日后被反复吊打的账本。
+ch14 the impossible seven.md:82 **读者视角提示**：这是 Walder 的第一次公开表态：给一个边境贼打历史首个满分。记住这个动作的政治含义——他在高议会与全场面前，用数字替她背书。这比任何告白都重。
+ch15 syphon lessons and the locked book.md:84 **为什么这样写**：心魔的档案第一次完整建档：出现时间（近几年）、行为模式（tempting and enticing）、保密史（从没对人说过）——「近几年」是关键变量：力量用了多年，Voice 才来，说明它有触发条件。
+ch16 the powerless princess.md:40 **中文理解**：「强。可靠。不屈。你不让身份与名利堵住你的嘴。你敢说真话——哪怕失礼、哪怕惹祸。我兄长若是做了错的决定、犯下错误，你会告诉他。这种事，从来没有人做过。」
+ch16 the powerless princess.md:76 **读者视角提示**：这是 Kronan 第一次开口说长句：沉默者的警报音。记住「立誓」这个动作——它让 Inara 与 Felix 从「知情的盟友」变成「持誓的共犯」，秘密的保管等级升级。
+ch17 first day on the job.md:11 - **情感弧线位置**：体力地狱 → 偷听的惊心（被点名怀疑）→ 对峙的险胜 → 法庭百无聊赖 → Hova 时刻的暖意 → 午餐僵局与第一句真话；敌意与好奇在王子身上第一次同步上升。
+ch17 first day on the job.md:26 **读者视角提示**：记住黑塔配色=Walder 的心理外墙。她一身黑袍（拒穿 cape）恰好融入——她与他的第一次同框，视觉上是同一种颜色。
+ch17 first day on the job.md:124 **为什么这样写**：午餐戏的开场白是「没有开场白」：沉默被写成房间的一部分（与黑塔同款冷）；她的不适（She did not like silence.）与他的默认构成第一次性格互测。
+ch17 first day on the job.md:134 **为什么这样写**：冷笑话以词典定义的形态出现：他把她追问的 “What do you mean, no?” 拆成词义课——幽默藏在「他居然在开玩笑」这个事实本身；这是他第一次接住她的社交节奏，虽然接得像块冰。
+ch18 potato heist planning.md:24 **为什么这样写**：作战图先按「废墟」呈现：她看不懂的乱涂与 Felix 的成就感形成第一次反差；“a plethora” 的正式词与粉笔涂鸦的幼稚感互撞——heist 题材的经典开场：先怀疑，再敬畏。
+ch18 potato heist planning.md:138 地板粉笔图+一颗土豆定下偷书大局：假访踩点、三分钟唱睡、敌手联手倒计时——夜话到天明，唯一没变的是那对贼搭档。
+ch19 lunch diplomacy and na ri.md:24 **为什么这样写**：全章唯一严肃的申诉被埋进无聊清单：日常噪音里的一根刺——「像在逃命」的类比让国境异象有了生物学先兆；农民的边缘位置（the very edges）暗示灾变从边境蔓延，与她家乡的猎物枯竭（ch04）同一张地图。
+ch19 lunch diplomacy and na ri.md:96 **为什么这样写**：微笑描写被切成三个独立词+一个省略号：词越短，心跳越响——“Almost…” 的犹豫是她的自我防备在最后的挣扎；这是全书言情线的第一次心防破洞，用标点完成。
+ch19 lunch diplomacy and na ri.md:108 **读者视角提示**：记住这个「友谊报价单」：无条款、可拒收。Na-Ri 的最后选择（Please. Sit.）是她人生第一次自己选桌子——小小的胜利，群像线的第一束光。
+ch19 lunch diplomacy and na ri.md:140 court 一周、话痨逼宫、借耳听凌——她用一张「可拒绝的友谊邀请」替 Na-Ri 换了张桌子，也第一次承认：那个冰王子笑起来，有点晃眼。
+ch20 borderlands truth and the ball.md:36 **读者视角提示**：记住 Rand 这个名字与「出宫才随行」的规则——它是后文 Na-Ri 自由行动的时间窗。她的低阶身份第一次成了优势。
+ch21 the lovers dance.md:10 - **一句话概括**：Ball 前特训：她学舞学成灾难现场、Fraener 亲自示范打脸；Kronan×Phaedra 的「恋人被撕开」叙事舞跳出了真情——终幕放手那一瞬把两颗心摊上桌；夜阳台上，被跟梢的黑暗第一次显出巨大的影子。
+ch22 learning to jump.md:11 - **情感弧线位置**：闯祸后的尴尬 → 湖边斗嘴的松弛（彼此身体第一次入镜）→ 教学的专注 → 连跳的狂喜与呕吐 → 他笑场后的静默收尾；本章是两人关系从「被迫同框」走向「自愿相处」的换轨章。
+ch22 learning to jump.md:44 **为什么这样写**：言情线的第一次身体泄密：视线与下颌各自出卖了他——“almost involuntarily” 的副词把反应写成生理而非决定；她故意不接茬（继续说 quick learner），让这一瞬留在两个人心里发酵。
+ch22 learning to jump.md:94 **为什么这样写**：教学从概念落到身体坐标：他把手按在胸口，她跟着按——「hum」这个拟声把不可见的力量写成了可触摸的震动；师徒第一次共享同一种身体感觉，亲密感的暗线在此接通。
+ch23 the librarium heist.md:46 **读者视角提示**：记住这条楼梯的战术意义：它是唯一通向五层（Head Venerable 住处）的路——逃无可逃的竖井，踩点时她就该记住这一点。
+ch23 the librarium heist.md:64 **为什么这样写**：贼艺心法第一次成文：置信度游戏——他把她羞怯的「新贼」直接升级成「此地无银」的反向表演；这句口诀的实用性当场验证（Malix 被绕晕），教学完成闭环。
+ch23 the librarium heist.md:94 **为什么这样写**：Head Venerable 的睡姿写成静物画：红袍+趴伏——施法成功的唯一可见证据；画面越安静，越显出她此刻心跳的响。
+ch23 the librarium heist.md:106 **读者视角提示**：记住「每间书房有自己的密码」：这意味着偷书计划需要内部知情者——Cias 是唯一懂这类秩序的人。借力打力的下一步已呼之欲出。
+ch23 the librarium heist.md:125 **中文理解**：一屋子杂乱里唯一扎眼的，是桌上摊开的借阅登记簿——唯一让她心跳停半拍的那行写着：Syphon Source。希望刚冒头就被下一行掐灭：已借出。借书人那一行让她胃部一沉：Crowned Prince Walder。
+ch24 the grand ball.md:26 **读者视角提示**：记住这个恐惧链的传播半径：她的秘密一旦爆雷，Felix、Na-Ri、所有新朋友都会被连坐——她第一次为「别人的命」守密，重量翻倍。
+ch24 the grand ball.md:64 **为什么这样写**：偷窃表演被写成观众视角的慢动作： jewellery 从「皮肤上」到「口袋里」只有一步——“no stopping him” 的纵容让盗贼美学合法化；这是宴会里唯一的「运动项目」。
+ch25 the rot is spreading.md:12 - **Tropes 兑现/反转**：兑现「反派威胁显形」——南方威胁终于拿到白纸黑字；反转「恐慌者的理性」——Howling 全程吓破胆却句句怀疑，Armanie 冷静到底；「回家救人的冲动被证据按停」是她第一次被现实教育。
+ch25 the rot is spreading.md:94 **为什么这样写**：幸存者问题的答案只有六个词：尘与废墟——主语「人」被直接抹除，连「死了」都不配；他眼里的情绪组合（悲+怒）泄露他对这场灾难的个人投入，官腔第一次露出人味。
+ch26 blades that cut magic.md:12 - **Tropes 兑现/反转**：兑现「舞会刺杀」经典戏码；反转「刺客的刀能切魔法」——她的盾第一次被切开，能力体系出现天敌；「互相救命」完成两人关系从师生到战友的换位。
+ch27 not a darkness but a light.md:10 - **一句话概括**：屠场后的屋顶自审：她被全场惊恐的目光钉进「恶」的字眼里，Fraener 用俯瞰记忆回赠一句「不是黑暗，是光」；Felix 逼她哭出来后撤场，带血甲的王储登顶查岗——一节血统论课程把她母亲的 Clairsentient
+ch27 not a darkness but a light.md:12 - **Tropes 兑现/反转**：兑现「战后自责」；反转「龙眼中的她」——她以为自己是黑暗，守护兽的视角里她是光；「血统论」让她的身世（父盾卫+母 Clairsentient）第一次成体系。
+ch27 not a darkness but a light.md:13 - **人物弧线**：Felix 的 friend soulmate 定位官宣；Walder 的嫉妒用 Tydus 的寒风外化（OOC 的醋）；她第一次把母亲的能力说出口——Clairsentient 与 syphon 的组合让王储直呼 I
+ch27 not a darkness but a light.md:82 **中文理解**：他用一个真心的微笑回应她的幽默——这是她第一次见他这样笑。
+ch27 not a darkness but a light.md:98 **读者视角提示**：记住这个细节的微妙：她说「我父亲」时认的是血统而非人——那从未谋面的商人到底是谁，仍是全书挂着的长线。
+ch27 not a darkness but a light.md:151 屋顶一夜拆了两堵墙：龙用「你是光」驳回她的自厌，Felix 用眼泪拆她的伪装——而带血甲的王储用一节血统课，第一次离她的秘密这么近。
+ch28 market day and the disguise.md:13 - **人物弧线**：他的「reputation」第一次照出真伪（传闻的残忍 vs 实际的不忍）；她的谈判力与同理心同框（既敲诈又替摊贩多要钱）；「prinx 夫妻」成为民间视角的第一面镜子。
+ch28 market day and the disguise.md:74 **为什么这样写**：她索「精神损失费」的胜利只用一个动作结算：金币落袋无声胜有声——“didn’t argue” 标志他认了这笔账：吓人也是罪；权力第一次以「赔偿」的形式流向民间。
+ch29 six kings.md:9 - **Tropes 兑现/反转**：兑现「竞技回合制对决」；反转「全场唯一敢伤他的人」——她的「体制外」身份成了战术资产；「他认真了」的威胁句让胜负欲升格为引力。
+ch29 six kings.md:21 **为什么这样写**：全场噤声中唯一举手的疯子：两个字+一个动作完成「体制外宣言」——他需要被撞下神坛，而她恰好没有「不敢碰王储」的信仰包袱；课堂举手式的动作把犯上写出童趣。
+ch29 six kings.md:22 **读者视角提示**：记住她的参赛逻辑：别人怕担责，她怕他太顺——竞技场是她唯一能光明正大「揍王子」的合法空间。
+ch29 six kings.md:29 **中文理解**：「他不跑球。他打防守——唯一的任务就是把漏过来的人射掉。」
+ch29 six kings.md:32 **读者视角提示**：记住 Eli 的 beam（能量束）：它是本章唯一的远射火力——她随口夸的 “nifty magic” 为这个孩子的自信存了一笔。
+ch29 six kings.md:41 **为什么这样写**：王储的狼狈定格在特写：翻滚忍痛+目光锁球——「几步远」的距离是胜负的全部悬念；他「躺在地上」的姿态与全书第一次（也是唯一一次）被彻底压制重合。
+ch29 six kings.md:42 **读者视角提示**：记住这个画面：他是全境最危险的男人，此刻够不到一颗球。她的「唯一敢伤他」在这个镜头里兑现完毕。
+ch29 six kings.md:46 **为什么这样写**：嘲讽的措辞埋着暧昧的雷：「躺在地上好看」既是羞辱也是调情——“Perhaps you should just stay there” 的双关（服输/别动）让她的 smirk 有了两层意思；竞技场的火花第一次烧进言情线。
+ch29 six kings.md:51 **为什么这样写**：贴脸威胁写成物理测量：距离单位=一次呼吸——「最简单的动作」的措辞把暧昧的责任推给概率；她的走神（why am I thinking about that）是她第一次主动承认生理层面的在意。
+ch30 confession and bang.md:12 - **Tropes 兑现/反转**：兑现「闺中夜话」；反转「求证式告白」——她第一次对 Felix 隐瞒（他让她别说），友谊的绝对透明出现第一道裂缝；「What if we can't?」把喜剧章的底色换成末日。
+ch30 confession and bang.md:36 **读者视角提示**：记住「市场=他们的地盘」：连 Walder 都只算「意外访客」。Felix 的领地意识第一次显形，但被友情消化掉。
+ch30 confession and bang.md:40 **中文理解**：他明知她是 Syphon 多年却从未说破——连对她本人都没提——这就是她需要的全部证明。
+ch31 bloodborne.md:34 **为什么这样写**：阻拦的物理动作写成一记急刹：他的 pacing（踱步成瘾）第一次被迫中断——「走进他的路」同时也是「走进他的立场」的双关；后文所有关键对话都始于这种「挡路」。
+ch31 bloodborne.md:46 **读者视角提示**：记住这句的战术性：她赌他会为自证而摘面具——赌赢了，代价是全场第一次看见 Bloodborne 的真容。
+ch31 bloodborne.md:66 **读者视角提示**：记住这抬手的重量：他锁龙不伤龙——力量与克制同框，这是他「配得上王座」的第一次实证。
+ch36 the rot chase.md:26 **读者视角提示**：记住「它在追」的第一次定性：从 ch05「人不敢去」到本章「它追着人跑」——rot 的行为模式完成从静态到智能的升级。
+ch37 exposed.md:13 - **人物弧线**：Larissa 的复仇链（偷书→拼图→揭穿）全线收网；Walder 的 shocked gaze 第一次转向她求否认；她的「monster 演说」是对污名的武力回答；Voice 的论据（你赢不了 Cursed King
+ch37 exposed.md:36 **读者视角提示**：记住 suppression collar 的效果：链结被物理隔断——她与 Fraener 的互相支援（供力/警报/情绪）全部失效。他们的软肋第一次被精确打击。
+ch37 exposed.md:66 **读者视角提示**：记住这句威胁的代价：它坐实了「她就是怪物」的指控——用恐惧换安全，是她此刻唯一的货币。
+ch37 exposed.md:117 王座厅的总攻：书被缴、龙被锁、秘密被当众宣判——她吸尽空气之力用恶魔音威胁全场，而清单数到第四样时，她第一次不敢确认第五个名字。
+ch38 dungeon duet.md:13 - **人物弧线**：Felix 的从容（chipper tone）与她的焦虑对冲；他的「被抓第一次」petulant 又可爱；王储的「用法律保她」是绕行哲学的第六次落地。
+ch38 dungeon duet.md:46 **读者视角提示**：记住这个「nothing」：她第一次真正体会 Fraener 被捕的痛—— LINK 的失重感成为她黑化程度的新刻度。
+ch38 dungeon duet.md:70 **中文理解**：「她对我的魅力免疫。这他妈太离谱了——我从来没有靠嘴逃不掉的局面。」」
+ch38 dungeon duet.md:74 **为什么这样写**：失手后的 petulant 自评：魅力免疫=敌人画像补全（Larissa 不吃甜言蜜语）——他的骄傲受挫反衬对手强度；「第一次」的禁断句式让失败本身成为剧情级事件。
+ch39 the key and the war.md:34 **为什么这样写**：证据链的核心证词由「唯一敢碰她的人」提供：嫉妒的观测样本只有他——“objective third party” 的自封让证词自带权威性；他的触碰试验（每次都降温）是恋爱侦探学。
+ch39 the key and the war.md:56 **读者视角提示**：记住这问句的间隔：第一次问完她岔开、第二次紧接钥匙——公主用问题换承诺：她在赌 Inara 会为爱留下。
+ch39 the key and the war.md:87 **读者视角提示**：记住这两行重复的修辞：她第一次用「输赢」而不是「生死」形容他的处境——因为对他这种量级的人，「死」字太轻，「赢不了」才是恐惧的真实形状。
+ch40 the cursed king revealed.md:44 **为什么这样写**：身份绝望中砸进一条生路：Syphon 殖民地两千年未灭——「你不止一个人」的真相比任何战力都治愈；她的 mind reeling 在本章第一次被好消息轰炸。
+
+=== ③年龄数字：191 行 ===
+00_情感节点.md:58 **叙事概括：** 评分揭晓日：五个 7 分与一个报复性的 1 分之后，从不给满分的王储打出了历史首个 7。全场哗然中 Larissa 尖叫「她作弊」，而王子的回应只有一句「This is true」——承认优势存在，却把裁决悬置。她的名字
+00_情感节点.md:70 **叙事概括：** Phaedra 上门请罪：Enrollment Scroll 的骗局摊牌、道歉、然后交出对等抵押——她自己是没有能力的王室血脉。Kronan 拔剑逼誓，Inara 与 Felix 从「知情人」变成「持誓的共犯」。两个被血
+00_情感节点.md:94 **叙事概括：** Felix 偷书被抓、Fraener 套上镇压项圈、四个词当众宣判她的死罪。她吸尽空气之力、用连自己都不认识的声音威胁全场——他们叫她怪物，她就把怪物演给他们看。四样她愿意烧掉整个 realm 的东西清点完毕，第五样她不
+00_情感节点.md:106 **叙事概括：** 决战揭底：Balthus 就是 Astral projection 的 Cursed King——两年的脑内声音、龙穴的「自由意志」、母亲之死的坐标全是他。能量对波的消耗战里她看清了经验的天堑，鼻血与耳血一起流下来时，她
+00_概述.md:10 **故事从一场失败的盗窃开始。** Inara——Deadhaven 的 Border Rat、靠偷窃养活全村的盾卫者——为了给村子凑买水钱潜入龙穴，意外撞见一头两千年前的上古巨龙俯身向她献背："Intensity built in the
+00_概述.md:14 **王室找上门来，而她被连哄带骗签进了宫廷。** Shielder Trials 的七位考官里，从不给满分的 Crowned Prince Walder 破例打了 7 分；Magdala 的 bond-check 验明链结为真后，一纸 En
+00_概述.md:16 **Trials 与 Ball 之间，她赢得了席位也赢得了敌人。** 四个 Firestarter 的围杀让她打到储备见底，挚友 Felix 一句 "Take from me."（ch12） 揭开了他守了两年的秘密；破例的满分换来的却是 L
+00_概述.md:18 **南下的侦察揭开了全书的末日底牌。** 秘会上议席之间摆出侦察报告："The cursed land is spreading."（ch25） 死国腐地在吃地、侦察兵与搜救队全灭、三个边境村化为灰烬。她读完报告要冲回家疏散村民，被 Wal
+00_概述.md:20 **身份在王座厅被当众引爆。** Felix 偷书被 Larissa 抓了现行，Fraener 被套上镇压项圈，"She's a Syphon."（ch37） 四个字宣判完毕。她吸尽空气之力用恶魔音威胁全场——"Let him go, or
+00_概述.md:22 **上卷收在她的诀别里。** Syphon 殖民地两千年未灭的消息给了她同盟的希望，能量对波的消耗战却让她看清了经验的天堑——"This whole time, he had merely been toying with her. Pla
+00_金句精选.md:30 **为什么重要**：「幸存三龙」是 Arelia 的国本——她捡到的不是宠物，是半个王朝的战略资产。
+00_金句精选.md:56 **上下文**：ch06 飞越国境的俯瞰，两个世界的差距一屏看尽。
+ch01 dragon offers its back.md:10 - **一句话概括**：Inara 与 Felix 潜入龙穴盗宝，被两条幼龙追赶、又被一条上古巨龙的龙焰压制；濒临极限的 Inara 解开血脉中的禁忌吸取之力反打巨龙，巨龙审视之后弯身把背脊献给了她。
+ch01 dragon offers its back.md:12 - **Tropes 兑现/反转**：兑现「盗宝翻车遭追杀」；反转「怪物择主」——巨龙不撕碎入侵者，反而献背俯首；再叠一层「禁忌之力被迫初启」，两条钩子一章内同时挂钩。
+ch01 dragon offers its back.md:34 **为什么这样写**：一段之内完成「能力展示＋双人组介绍＋作案动机」三件事；“partner in crime” 这个轻佻称呼与身后致命的龙火并置，把整本书「惊险打底、插科打诨」的基调钉在了第二段。
+ch01 dragon offers its back.md:60 **中文理解**：追杀他们的两条龙其实是幼崽——仍有双驾马车那么大、不必用力就能把她烧死，但毕竟是刚孵化的龙崽。
+ch01 dragon offers its back.md:66 **读者视角提示**：两条幼龙停在洞口不肯进来（原文点出它们像是 “scared to come in”）的怪异举动此时还没解释——这是本章留下的第一道悬念，答案就藏在身后那头巨龙身上。
+ch01 dragon offers its back.md:84 **为什么这样写**：三个短句层层加码：先说魔法锁在哪里，再补一句 “never to use”，最后把赌注抬到性命——「解禁」这个动作因此有了完整的重量，而不是轻飘飘的「她放大招」。
+ch01 dragon offers its back.md:137 **为什么这样写**：章末收在八个词的动作句上，前面全用「张力积聚」做铺垫；巨龙从猎手到献背者的身份反转不加一句解释，直接用动作收章——悬念与宣誓感一次到位。
+ch02 flight home and drunken trio.md:12 - **Tropes 兑现/反转**：兑现「骑龙狂欢」；反转「乡下贼偷到王室神兽」——Border Rat 的血统配上了 Guardian；埋「Crowned Family 追索」与「月度买水债」两个倒计时钩子。
+ch02 flight home and drunken trio.md:13 - **人物弧线**：Inara 的冲动（“act first and think about the consequences of her actions never”）与守护者本能（“protected their own”）同章并立
+ch02 flight home and drunken trio.md:30 **中文理解**：肾上腺素狂涌，骑一头山一样大的龙飞上天是她二十七年人生里最刺激的事；她和 Felix 破开过全王国最森严的金库。
+ch02 flight home and drunken trio.md:34 **为什么这样写**：一段之内完成三件事——报出主角年龄（twenty-seven years）、交代二人组的盗贼履历（some of the most secure vaults in the realm）、给狂喜定级；背景信息全挂在情绪
+ch02 flight home and drunken trio.md:36 **读者视角提示**：「二十七岁＋身经百战」是 Inara 的能力底账：她不是初出茅庐的新手，这让后文面对王室追索时的胆气有根。记住 “vaults”——他们的盗窃是职业级的。
+ch02 flight home and drunken trio.md:75 **为什么这样写**：三个极短句排比（They lied. They cheated. They stole.）把污名砸得干脆响亮，下一句立刻用 “did whatever the Fates they had to to survive”
+ch02 flight home and drunken trio.md:85 **为什么这样写**：三个短句一路降调：恳求→听懂→停手；“Somehow—she had no idea how” 的插入语承认了超常，也把解释权交给后文。滔天的暴力在一句恳求前刹车，比任何设定说明都更能立住「链接」的存在。
+ch02 flight home and drunken trio.md:95 **为什么这样写**：攻防只用两个动作句收束：雷电来、盾接住；“fizzling away into nothing” 把一次致命攻击写得毫发无伤——她连上古巨龙都扛过，这点村级火力不在话下，实力阶梯感靠对比自然成立。
+ch02 flight home and drunken trio.md:115 **为什么这样写**：介绍建筑的同时完成人物侧写：木系魔法造屋、古籍随身、离宫三十年——每个细节都在说「此人从王都来，知道得太多」。他的警告因此自带分量，不需要任何头衔背书。
+ch03 soul link revelation.md:40 **中文理解**：那是灵魂的相融。曾经是两个存在，此后合而为一；一方消亡，另一方也随之而去——谁也离不开谁。
+ch03 soul link revelation.md:80 **中文理解**：战争中各国都损失惨重，而 Arelia 伤得最重——战争结束时，只剩三条巨龙从那场屠杀中活了下来。
+ch03 soul link revelation.md:84 **为什么这样写**：两句完成一次量级换算：从「一国的守护兽」到「全境只剩三条」，数字落差就是历史落差；这也把 ch01 里幼龙「不敢进洞」的怯意翻译成了「族群几近灭绝」的余悸。
+ch03 soul link revelation.md:86 **读者视角提示**：「幸存三龙」是 Arelia 的国本——Inara 在天上见过不少龙，可繁衍之谜无人知晓。她捡到的不是一头龙，是半个王朝的战略资产。
+ch03 soul link revelation.md:94 **为什么这样写**：先给名字再给身份再给后果，三连击；“I can assure you” 的笃定语气把危险从推测抬成预报——龙的谜之名在此揭晓，而「名字=历史」的写法让 ch01 那条无名巨龙瞬间有了两千年的来头。
+ch03 soul link revelation.md:116 **读者视角提示**：这是导师给出的全书行动纲领：跑。但读者要留个心眼——Cias 对灵魂链结了解得太深、对王室知道得太多，他的「忠告」未必只是忠告。ch01 他三十年前的来历悬案还没解。
+ch03 soul link revelation.md:126 **读者视角提示**：Shielder 制度解释了 Inara 的两个处境：她为什么已被觊觎（力量顶级）、王室为什么绝不会放人（顶级资产）。这连同 Chosen 身份，是双重的锁。
+ch04 burnt ox and never go south.md:30 **中文理解**：然而近几年猎物渐渐绝迹——曾经生机漫山的地方如今几乎空空如也，逼得他们越走越深、踏进 Arelia 境内打猎，本身就险象环生。
+ch04 burnt ox and never go south.md:34 **为什么这样写**：猎物递减用 “further and further” 的推进式短语写成一个缓慢滑落的过程——不是灾变，是温水煮蛙；「打猎要越境」这一件小事，同时交代了资源枯竭、法律风险与两个越境者的日常胆量。
+ch04 burnt ox and never go south.md:60 **中文理解**：他叹气：「我知道，可咱们真的没得选了，Inara。边境线上值得下手的都被咱们掏空了。剩下的路只有三条：再往 Arelia 腹地钻、去东边山脉（那是找死）、或者南下。哪条都有风险。」
+ch04 burnt ox and never go south.md:66 **读者视角提示**：南下的禁忌在本章第三次被提上桌面——叙事上叫三敲预备。南方有什么、谁在南边，作者一个字不说，但 “We never go south” 这句铁律本身已经够响。
+ch04 burnt ox and never go south.md:75 **为什么这样写**：三个不定式短句层层递进（修问题→过好日子→活下去），把责任的重量抬到顶点，再用一个独立段的破折式收尾——“because no one else was going to” 是全章最重的一句话：英雄主义的反面动机，疲惫
+ch05 the army at the border.md:13 - **人物弧线**：Inara 首次全权指挥（哨音定场、分派 Kenton/Cezar）；Felix 的 “Where you go, I go” 把七岁之约兑现；Cezar 无言守村（割舌之罚）补上 Borderlands 群像；王子以
+ch05 the army at the border.md:37 **读者视角提示**：七岁之约（leave Deadhaven together）在此兑现成行动纲领：这对搭档从此绑死。她「为保护而隐瞒」的习惯在这章被破解——往后所有秘密行动都得先过 Felix 这关。
+ch05 the army at the border.md:62 **中文理解**：Cezar 的视力能穿透一切——厚墙、Shadowed Seas 的深水——还能望及极远，村里的警报一直由他值守，因为谁从几英里外接近都逃不过他的眼睛。他寡言；准确说是无话。Cezar 不说话，是因为在 Roylan 偷窃
+ch05 the army at the border.md:66 **为什么这样写**：一个人物、两行天赋与刑罚叠在一起：超视力与被割的舌头同段并置——这个世界对贼的惩罚就刻在村中哨兵的喉咙上；“Strong. Dependable.” 两个孤词收尾，是 Inara 式的授勋，也是同类相惜。
+ch05 the army at the border.md:148 **为什么这样写**：用「缺席清单」写强：把常人透支的三个症状一一排除（No shaking. No pain. No blood.），剩下的空白就是深不可测；ch01 里 Inara 自己流着鼻血硬扛的参照在前，这组的对比读者自动完成。
+ch05 the army at the border.md:159 **为什么这样写**：全章最重的一句话只有八个词：两个短句互为镜像，占有与归属一次说尽；它的位置在劝降与开战之间——soul-link 用一句所有权宣言，替她拒绝了投降。
+ch06 bond check and the deal.md:14 - **叙事手法**：以「验明正身」为章眼：aura 可见、cord 可见的写法把 soul-link 从体感升级为可检验的法证事实；威胁与利诱两场戏背靠背，让条件谈判接住动作戏的落差。
+ch06 bond check and the deal.md:34 **为什么这样写**：三个短句三重关灯：拒答、否定过去、抬高危险——每句都在加压却不给半个实词；“more dangerous than you know” 把王子的威胁值从传闻抬到了长者私言的级别，比任何战力描写都贵重。
+ch06 bond check and the deal.md:44 **为什么这样写**：托付只用一个 "up to you" 完成交接——不哀求不客套，直接把权力和责任一起塞过去；与前文她絮絮叨叨的「Gideon 三天后到、缺款、谁不交钱就没水」清单相接，遗嘱式的具体感全在细节里。
+ch06 bond check and the deal.md:95 **为什么这样写**：两个短句完成一次「心念即指令」的实验：想象—回应零延迟，热浪就是答案——soul-link 的通道比对话更诚实；笑点与惊悚同源：她的玩笑，龙的军令。
+ch06 bond check and the deal.md:135 **为什么这样写**：同一张威胁过的嘴开出雇佣条件，句式却换成了契约体（provided / granted / paid）——威胁与利诱用同一套「清单语法」，让读者自己发现：这份温柔的条款和刚才的刀，是同一个所有权的两个价签。
+ch06 bond check and the deal.md:147 **为什么这样写**：四个 “No more” 排比把穷人的一生清空重来，被 Felix 一句孩子气的话戳破——“But we like stealing.” 是全书价值观的自白：偷对他们不只是生计，是身份与乐趣；喜剧化的分歧让「卖身宫廷」
+ch06 bond check and the deal.md:169 **读者视角提示**：Felix 留下的理由（你会死）与七岁之约互为表里：陪伴是约定，保命是借口。道别时那把罕见的 "I’m not fucking around voice" 认真腔也换了用途——从拦她留下变成陪她闯宫。进宫二人组就此成型
+ch07 shrink and seven families.md:24 **为什么这样写**：变形不写成魔法特效，写成认知崩塌：两个超短句重复（shrank / fucking shrank），第二句的脏话就是读者的心理活动；“inch by inch” 的慢镜头把落差拉满——从宫殿级到掌心级，跨度本身就是喜剧
+ch07 shrink and seven families.md:76 **读者视角提示**：这是理解守护兽战力的标尺：两只龙的原形互殴=城市级灾难。宫里没人真正怕他们，是因为王子的力量罩着全场——这层安全感是纸糊的，她的阶级身份随时会把它撕破。
+ch07 shrink and seven families.md:81 **中文理解**：「装傻骗不了我。Shielder Trials 的最高位我已经连守七年。你夺不走。」
+ch08 phaedra and the chosen wing.md:44 **为什么这样写**：盾卫者的台词只给一句、声音只给三个词：低、糙、花岗岩——职业化的语言配矿物级的比喻，人设完成；「一秒立盾」的动作放在台词之前，警告只是事后补充的说明书。
+ch08 phaedra and the chosen wing.md:46 **读者视角提示**：Kronan 的反应速度（<1 秒）是 Inara 亲眼认证的第一面「别人的盾」。记住这位花岗岩：他与 Larissa 构成两个 Shielder 样本，她自己的位置就悬在这两个坐标之间。
+ch08 phaedra and the chosen wing.md:74 **为什么这样写**：导览词把居住区讲成功能说明：幻影天花板不是装饰而是 Dragon door——一句建筑描写同时回答「龙住哪」「怎么进出」两个实际问题；华丽设定全部挂着用途标签，世界观因此显得被使用着而非被参观着。
+ch08 phaedra and the chosen wing.md:94 **为什么这样写**：雇佣契约的「services needed」在这段落成制度细节：职务由议会按能力指派——她最怕的「被安排一生」用一种行政口吻轻描淡写地说出；三个 "depends" 的反复既是公主的口头禅，也是体制的真实脾气。
+ch08 phaedra and the chosen wing.md:106 **读者视角提示**：这是全书信息量最大的一句伏笔：soul-link 有「议会不想让人知道的真相」。Cias 被逐（约三十年前）与研究魂链的终生痴迷自此接通——他培养 Inara 的动机也多了一层阴影。
+ch08 phaedra and the chosen wing.md:150 公主领路、幻顶引龙、窃语如刀——Chosen wing 的一天把工资、排班、金屋全数兑现，而 Cias 三十年前被逐的真相，只是议会秘密的第一层皮。
+ch09 arrows and the dark voice.md:12 - **Tropes 兑现/反转**：兑现「校园式霸凌」（Novices 嘲讽/圈子等级）；反转「借力即作弊」——她最强的资产在赛场成了原罪；黑暗之声第二次登场，与母亲的口诀形成全书的心魔/心锚对位。
+ch09 arrows and the dark voice.md:56 **中文理解**：她深吸三次，想起母亲的话——那些关于「黑暗诱惑你时该怎么办」的叮嘱。
+ch09 arrows and the dark voice.md:122 **读者视角提示**：记住 Melaine 这个名字与「非永久」的时限设定：链结无效化期间她既不能用龙之力、也接不到龙的警报——Trials 场上的每一分钟都是真正的孤身作战。
+ch10 the trial begins.md:45 **为什么这样写**：赌注被写成身体感受：钝痛=链结被遮蔽的体感账单——「公平」这个道德动机与「非永久」这个保险条款并列，她的自洽全靠第二条撑着；一次点明 she feels the link 模糊，等于让读者陪她一起失去感知。
+ch10 the trial begins.md:79 **为什么这样写**：章节收在动机分层：任务（basic）与野心（a point to prove）被四个独立短句切开——「及格」与「打脸」是两套评分标准；流水线式的短段让读者听见她心里的两种声音，最后一句停在哪，火药味就从哪冒出来。
+ch11 shield bubble over the abyss.md:65 **为什么这样写**：魔法代价翻译成物理常识：扛人的重量（体重差、肌肉密度）——奇幻的消耗系统落地成两个人的身高数字；“not much longer” 的倒计时感把紧张从场面移交到体能条上。
+ch11 shield bubble over the abyss.md:77 **读者视角提示**：盾墙是「盾」的第三次变形（盾面→盾泡→盾墙）：她的能力系谱清晰了——同一元素，三种用法。这创意面板正是她想让看台记住的东西。
+ch11 shield bubble over the abyss.md:106 **为什么这样写**：昵称被写成警报器：一个称呼的差异承载二十年友情的重量系统——不需要哭喊，读者听见 “Nara” 就知道水位到了哪条线；这是用称谓做情绪仪表的教科书笔法。
+ch11 shield bubble over the abyss.md:116 **为什么这样写**：劝退的话说的是价值排序：她的证明欲 vs 他的性命优先——“Fuck them” 三个词把二十年的友情态度摆平：在他眼里她的命高于一切荣辱；插入语（that worried voice again）让叙述者亲自确认警报
+ch12 take from me.md:12 - **Tropes 兑现/反转**：兑现「终局考核」；反转「考官出杀题」——四火围杀根本不是合格线考题；「秘密被好友早已知道」是本章最大情感爆点：她藏了二十七年的死罪，在 Felix 那里从来不是新闻。
+ch12 take from me.md:51 **中文理解**：三名士兵同时屈臂（“All three soldiers flexed their arms.”），火焰自手至肩吞没了他们。她的内心独白连爆两声：“Fucking impossible.” 与 “Four Firestar
+ch12 take from me.md:65 **为什么这样写**：极限状态用身体三件套交付（视野/渗血/跪地）：与 ch01 的高压时刻同款症状——她的耗竭曲线全书通用；“entered her reserves” 是设定账本的最后余额提示：下一站就是死。
+ch12 take from me.md:75 **为什么这样写**：四个字的台词独立成段顶在最痛的时刻：句子的短与冲击的长成正比；“avalanche of shock” 把痛的消失写成震惊的侵入——两个系统同时翻转；她重复问句（What did he just say）是读者的同款耳
+ch12 take from me.md:117 **读者视角提示**：记住这个表情（眯眼+凝视+难辨）：它是 Walder 对她的第三次标注（前两次：重新估值、假意让步）。从这一章起，他看她的眼神将越来越难归档——这就是本书言情的起跑线。
+ch13 since your mother left.md:10 - **一句话概括**：候场室里的一句「How long have you known?」拆开两年的秘密：母亲临行托付、石窟美人鱼的设局试探、「你从没吸过我」的信任认证；Phaedra 的夸赞与 Kronan 的审视之外，永久盾卫之谜只露一
+ch13 since your mother left.md:25 **为什么这样写**：门一关就发问——连一秒寒暄都不给，把 ch12 悬着的账直接拍上桌；答案「Since your mother left」五个词里同时藏着时间量（两年）与信源（母亲），一次交底两桩悬念。
+ch13 since your mother left.md:37 **读者视角提示**：母亲的布局又添一块拼图：她早知道女儿的秘密迟早要第二个人扛。这与 ch01 的口诀、ch03 的夜夜讲古连成一条「母亲教育链」——她为女儿 Prepare 的远不止一句话。
+ch13 since your mother left.md:75 **为什么这样写**：评分规则一句话说完：闭门+量化——分数（1–7）把人的价值压成数字，宫廷官僚味十足；这句话的功能是给章尾的紧张上发条：分数将决定她与谁绑定一年。
+ch13 since your mother left.md:117 一句「你妈走后我就知道了」拆了两年的哑谜：设局、托付、「你是给我添堵的那位」——她的死罪秘密在挚友这里换了个名字：家事。
+ch14 the impossible seven.md:10 - **一句话概括**：评分揭晓日：五个 7 分与一个报复性的 1 分之后，从不给满分的 Walder 打出了历史首个 7——全场哗然中 Larissa 指控作弊，而王子只回了一句 “This is true.”，把锅与球一起踢回给她。
+ch14 the impossible seven.md:14 - **叙事手法**：亮分戏用「点名→亮分→反应」三拍循环七次，节拍器式推进；Villani 的 1 分独立成段（One.）做重音；章尾以王子的一句认可收在悬崖上——承认了指控却未做裁决。
+ch14 the impossible seven.md:26 **为什么这样写**：满分神话在进门前先立好：给过 6 分的人只有一个 Larissa——记录越难破，后面的破例越响；“icy venom” 的念名方式顺手把两位女性的旧怨（ch08 公主骂贱人）再烙一次。
+ch14 the impossible seven.md:48 **读者视角提示**：7 分制设计（七位评委各打 1–7）让总分上限 49：记住这个体系——它是本章所有数字戏的算术底座（后面 42 的含金量、36 的总分都靠它）。
+ch14 the impossible seven.md:69 **为什么这样写**：倒数第二块先锁死「零希望」：把成见（引用 Ophera 的原话）当墙壁砌好——墙砌得越高，下一块撞墙的声音越响；引他人贬语做铺垫是标准的热反差手法。
+ch14 the impossible seven.md:90 **为什么这样写**：输家的崩溃写成三段嚎叫：三个 “No!” 的复读把体面撕干净——她抗议的不是分数而是「被替代」的恐惧；“pointed an accusatory finger” 的指控让战场从评分转向身份问题（Chosen 的合法性
+ch14 the impossible seven.md:100 **为什么这样写**：章尾只用三个词：他不辩护、不裁决，先承认事实——把「怎么办」的题目整个扔给全场与读者；“nodding once” 的克制与 Larissa 的三连嚎形成量级差：真正的权力从不需要音量。悬崖就此收束。
+ch14 the impossible seven.md:134 七个数字把全场搅翻：报复的 1、破例的 7、42 的记录——Larissa 喊出「她作弊」，而王子只说了句「这是真的」，把最难的题留给了她自己。
+ch15 syphon lessons and the locked book.md:34 **为什么这样写**：设定课第一讲从最恐怖的选项讲起：对 Powerless 下手=减寿——「Makes them age」三个词把能力的代价钉进人命；她只做过一两次的补充说明让规则带着负罪感落地。
+ch15 syphon lessons and the locked book.md:44 **为什么这样写**：学员现场举一反三：Felix 把「吸大地」与黑腐亡国连成因果——Syphon 问答课的最高价值是让读者与角色同时理解「毁灭的量级」；「The land died.」三个词做结论，比任何渲染都冷。
+ch15 syphon lessons and the locked book.md:50 **中文理解**：「那试炼里的事算什么？你从我身上抽力、把四个 Firestarter 全闷了！要是我给你的能量撑得起那种场面，我怎么算弱？」
+ch15 syphon lessons and the locked book.md:64 **为什么这样写**：复扫结果只有一句、七个词：用「无变化」本身当悬念——期望的爆炸性真相与平淡的重复读数形成落空；“like all the other times” 把谜团从「这次异常」升级为「从来如此」。
+ch15 syphon lessons and the locked book.md:74 **为什么这样写**：Cias 对话的回忆插叙原句复用（ch06 同款）：同一句情报二次入文，功能从「情报」变成「钥匙」——她此刻缺的答案恰好挂在这句话上；禁书计划的合法性由这句背书。
+ch15 syphon lessons and the locked book.md:80 **中文理解**：它不是一直都在。就在近几年才开始出现——诱惑她、撺掇她用力量拿走一切。她从没对人提起过它。
+ch15 syphon lessons and the locked book.md:86 **读者视角提示**：记住「近几年才出现」与「母亲已离家」的时序：没有人告诉过她 Voice 是什么。那本禁书里若有 Dark Voice 的记载——这就是她偷书的第二动机（比 Syphon 机制更私密）。
+ch16 the powerless princess.md:30 **中文理解**：「但你早知道，我签下那份愚蠢的 Enrollment Scroll 的那一刻，我就不得不接下职位——不然就得在监狱里蹲一年。」她没把这句话说成疑问，因为它根本不是疑问。是指控。
+ch16 the powerless princess.md:50 **中文理解**：「我没有能力。」——Phaedra 的自我身份宣判只有三个词，落进房间时连甜食碗都被它砸得脱手。
+ch16 the powerless princess.md:54 **为什么这样写**：全书最重的秘密只有三个词：跟 ch12 的 “Take from me.” 同一规格——重磅台词全部极简；砸碗的音效紧接着补上重量，语言负责短，道具负责响。
+ch16 the powerless princess.md:66 **读者视角提示**：两个「身世死罪」在此握手：她是 Syphon（发现即死），公主是 Powerless（曝光即废）。记住这组对称——它让她们的同盟有了伦理基础：两个被血统论判了刑的人。
+ch16 the powerless princess.md:74 **为什么这样写**：誓言令四个短句步步收窄：禁令（never）→时间（Ever）→动作（Vow it）→代价（Or die.）——Kronan 的语法就是他的性格：没有修饰语，全是条款；拔剑的动作让最后两个字不是修辞。
+ch17 first day on the job.md:12 - **Tropes 兑现/反转**：兑现「贴身护卫的平凡日常」；反转「考官即作弊者」——四火围杀是 Larissa 加码的私局；「七年无言」的职场冷知识成为言情线的第一块敲门砖。
+ch17 first day on the job.md:66 **读者视角提示**：记住「四个 Firestarter = 作弊实锤」这条账：它解释了为什么 Larissa 必须除掉她——不是输不起，是怕她把真相说出来。两人的战争从争名次升级为封口战。
+ch17 first day on the job.md:84 **为什么这样写**：三个 excitng 假设排比把「王储的日常」悬到最高——紧接着的疲乏空行（Inara sighed / So. Fucking. Bored.）让落差自己砸下来；期待管理失败是本章的喜剧引擎。
+ch17 first day on the job.md:94 **为什么这样写**：全章最大的「违纪」只有十个词：宫廷站姿的礼仪被一屁股坐穿——独立成段的短句是她的 Declaration of Independence；接下去的 “Ah. Perfect.” 两个单词，把舒适感写成了政变成功。
+ch17 first day on the job.md:114 **为什么这样写**：小姑娘的自我介绍只有六个词，分量却在 “too” 上：一句 “too” 把她与 Inara 划进同一类人——身份认同的传递在一场宫廷申诉里完成；她变亮（nervousness gone）的速度就是善意的速度。
+ch17 first day on the job.md:120 **中文理解**：进屋以来 Prince Walder 一个字没说过。半天相处下来，Inara 已经明白：这人基本不说话。
+ch17 first day on the job.md:126 **读者视角提示**：记住他的沉默不是傲慢是常态——为后文「他为什么不说话」的答案（与 Larissa 七年无言）留了位置。冷场本身是个待解之谜。
+ch18 potato heist planning.md:12 - **Tropes 兑现/反转**：兑现「偷书计划」执行化；反转「给能力立规矩」——三十秒/持续唱/三分钟上限，把神器改成限时道具；Fraener 的房梁筑巢偷赃是全章最萌暗线。
+ch18 potato heist planning.md:54 **为什么这样写**：方案四步一口气说完（借求见→他先进→她守门→关门开唱），指挥官语气与上一段的幼稚涂鸦形成二次反差；“I sing” 三个词把杀招说得像哄睡摇篮曲——武器化的温柔。
+ch18 potato heist planning.md:64 **为什么这样写**：能力说明文以「规则清单」插入：ch02 埋的三十秒在这里被扩写成完整使用手册——持续唱=持续耗力（后句补最长三分钟）；把神器改造成带冷却与耗蓝的技能，紧张感全部来自条款。
+ch18 potato heist planning.md:66 **读者视角提示**：记住唱睡三件套（30 秒起效/不可停/三分钟上限）：这三条就是「三分钟够不够」悬念的全部数学。 vault 越难找，三分钟越贵。
+ch18 potato heist planning.md:86 **读者视角提示**：记住这对组合（Larissa+Villani）：一个想挖她的秘密，一个想夺她的职位——他们合作的每一分钟都是她的倒计时。
+ch18 potato heist planning.md:106 **读者视角提示**：记住这句定音鼓：无论后面的计划多危险、世界多疯，本章给读者的承诺是——这两个人的账不会散。
+ch19 lunch diplomacy and na ri.md:35 **为什么这样写**：王子的反应只给两个短句：眼角紧绷+下颌绷紧的细节在前，结论在后——「知情且无力」的统治者画像两笔勾成；她替读者观察到的这一层，是全章他与她最接近的时刻。
+ch19 lunch diplomacy and na ri.md:55 **为什么这样写**：话痨轰炸的判决书：省略号里的呼吸声写尽忍耐的耗尽——“hissed”（嘶声）让王室的体面只剩最后一口气；投降条件是「闭嘴」，她的战利品是「食堂一小时」。
+ch19 lunch diplomacy and na ri.md:66 **为什么这样写**：南方线的第四探（前三次：死国逃亡计划、Tydus、ch04 南方禁忌）：卷宗只闪一次就被掌压住——“slammed” 的过度反应暴露了机密级；三个句点断开的 “No. More. Talking.” 是命令，也是回避。
+ch20 borderlands truth and the ball.md:10 - **一句话概括**：与 Na-Ri 的同桌饭局变成情报交换会：低阶王室的宽松班表反衬她的贴身苦命；动物异象三源互证、时间线指向两年前，高议会不以为意而 Walder 心里发毛——Felix 撞进来，一记「Ball 要来了」终结本场政治座
+ch20 borderlands truth and the ball.md:50 **中文理解**：「我最早是大约两年前注意到的。开始只是小的：偶尔多走几步而已，起初没放心上。后来距离就越拉越大。」
+ch20 borderlands truth and the ball.md:54 **为什么这样写**：异象时间线用「渐变曲线」交代：几米→越来越远，温水煮蛙式的灾难——「两年前」这个锚点与 Dark Voice 出现的时间（ch15：近几年）同年段，两条暗线在此对表。
+ch20 borderlands truth and the ball.md:102 一顿饭吃出三层情报：低阶王室的自由班表、两年前开始的动物大逃亡、王储书桌上的死国卷宗——而舞会的消息一来，所有严肃议题全体起立让座。
+ch21 the lovers dance.md:11 - **情感弧线位置**：排练的挫败喜剧 → 龙舞示范的惊叹 → 示范舞的情绪升温（她落泪）→ 得知「 least touching 」的爆笑 → 夜阳台的不安与悬念；喜与悲在本章各占半场。
+ch21 the lovers dance.md:35 **为什么这样写**：龙的吐槽升级为续集：把她的舞姿画成精神污染——soul-link 传图比语言更毒舌；她那句「我不像那样」的否认与第二张图的「一模一样但更过分」构成递进式打脸。
+ch21 the lovers dance.md:55 **为什么这样写**：示范舞的临场写法层层加码：从技巧（no falter）到状态（one）再到关系的两个单词——「Linked. Bound.」独立成词，与 soul-link 的设定词撞了个满怀；作者让读者提前听见她与王子的未来回声。
+ch21 the lovers dance.md:57 **读者视角提示**：记住这两个词的复用：Linked/Bound 之后还会出现在她与 Fraener、她与 Walder 的关系里——本书用它做「羁绊等级」的度量衡。
+ch21 the lovers dance.md:85 **为什么这样写**：悬疑段从体感切入：两个现在分词（haunting/Hunting）把「被跟梢」升级为「被捕猎”——主语故意缺席；“the last few days” 的时间窗与动物逃逸（ch19-20）对齐：不是错觉，是同一场逼近。
+ch21 the lovers dance.md:87 **读者视角提示**：记住这个无名的黑暗：它与 Voice、与 rot、与死国卷宗共享一个待解的谜底。她的「被盯感」是全书下半年最长的引信。
+ch22 learning to jump.md:10 - **一句话概括**：呕吐闯祸后的湖边和解课：Walder 一边冲头发一边把 jumping 的门道倾囊相授（限距/心脏爆裂警告/passive 与 active access）；她首跳成功、连跳十一次吐到虚脱——而他笑出了全书第一声。
+ch22 learning to jump.md:46 **读者视角提示**：记住这组「失控三件套」的开端：目光下移、下颌收紧——他的欲望表达全靠这种不自知的肌肉反应，比台词诚实。
+ch22 learning to jump.md:56 **读者视角提示**：记住 jump 三定律：看得见、知极限、越线心脏爆裂（下一句揭晓）。这三条是后文所有空中机动的安全手册。
+ch22 learning to jump.md:114 **为什么这样写**：过载呕吐的前摇写成身体喜剧：三个动词把胃画出一条弹道——句尾的 U+2060 破折号（原文如此）把「吐」悬在下一格；“caught up with her quickly” 的追账感让十一次跳跃的成本一次性结清。
+ch22 learning to jump.md:158 湖边一课换两件东西：她学会了用胸口那声嗡鸣瞬移（代价是吐两次），他学会了在兔子式蹦跳面前笑出声——冰山的裂缝从这一晚开始漏水。
+ch23 the librarium heist.md:54 **为什么这样写**：sight 能力的第三次实战：书籍的魔力可视化成「金色卷须」——图书馆从建筑奇观升格为能量场；「every」的排比把藏书的魔法覆盖率写成全网状。
+ch23 the librarium heist.md:70 **中文理解**：「我先进去。给我三分钟，然后你再进来。」
+ch23 the librarium heist.md:74 **为什么这样写**：行动指令简短到冷酷：三分钟=他的唱睡极限（ch18 立的规矩）——把上章的设定数字直接当倒计时用；「then come in」 的分工重申：他的魔法时间就是她的行动窗口。
+ch23 the librarium heist.md:86 **读者视角提示**：记住 Balthus 的三个细节：走路无声（sly fox）、蓝眼、自称来赴会——这三条在后文每次他出现时都会被重新计价。
+ch24 the grand ball.md:54 **为什么这样写**：Armanie 的巨盾卫者用沉默出场：五个词的段落——与 Howling 的能言善辩互为镜像；「不说话」本身就是宣言：他是拿来吓人的，不是拿来聊的。
+ch25 the rot is spreading.md:10 - **一句话概括**：秘会摊牌：死国腐地正在扩散、侦察兵与搜救队全灭、三个边境村已成灰——Howling 恐慌离场、Armanie 答应回国汇报；她读完报告要冲回 Deadhaven 疏散，被 Walder 瞬移拦门，只丢下三个字：Loo
+ch25 the rot is spreading.md:44 **为什么这样写**：全章的核弹只有四个词：六字揭底不铺垫——“spreading” 的现在进行时把灾难写成正在发生；这一句之前所有的寒暄与猜疑瞬间全部作废。
+ch25 the rot is spreading.md:80 **中文理解**：「Blackpeak、Holen、Prector。」Inara 点头。她知道这三个名字——边境所有人都知道。那是三个没人敢去的村子。
+ch25 the rot is spreading.md:84 **为什么这样写**：灭村名单用「常识锚点」砸实重量：三个恶名村=连商队都绕行的禁区——「人人都知道」的公共知识让灾难有了精确坐标；恶名村之死不引发怜悯，却引发恐惧的换算（下一个是谁）。
+ch25 the rot is spreading.md:86 **读者视角提示**：记住这三个名字：黑腐地吞噬的第一批人口样本。他们的「恶」与「死」形成道德真空——读者无法哀悼，只能恐惧。
+ch25 the rot is spreading.md:96 **读者视角提示**：记住「dust and ruin」这个意象：它将伴随 rot 的一切后续——这四个词是本书末日感的度量单位。
+ch25 the rot is spreading.md:114 **为什么这样写**：拦人动作全用刚教她的技能完成（jump×2）：昨晚的课变成今晚的门闩——“Look again” 三个词把冲突转回证据：他不拦她的心，只拦她的误读；章尾悬念全压在报告的下一页上。
+ch25 the rot is spreading.md:147 秘会把天塌下来这件事讲成了简报：腐地在吃地、侦察兵在失踪、三个恶名村已成灰——她冲门想救人，被一记瞬移拦下：再看一遍，数据说了算。
+ch26 blades that cut magic.md:54 **为什么这样写**：知情权辩论的正方先出剑：四个词的立场句——他的秩序观建立在「恐慌=灾难」的推演上；与她的「right to know」并排摆开，政治分歧首次明牌。
+ch26 blades that cut magic.md:124 **为什么这样写**：双龙的空中屠杀用「量子式」描写收尾：消失/重现的循环让屠杀看起来像魔术——at will 的自由度把「世纪经验」具象化；两条龙的配合被写成一台永动的收割机。
+ch26 blades that cut magic.md:126 **读者视角提示**：记住双龙协作的画面：抛与接、撕与碎——这画面是 Arelia 国本的直观展示，也是她与 Walder 两条链结的镜像（他与 Tydus，她与 Fraener）。
+ch26 blades that cut magic.md:157 舞会后半场换幕成战场：破魔匕首切开「不可破」的盾，王储一剑双斩、双龙空中屠场——她与他互相救了对方一次，谁也没提那半秒的十指相扣。
+ch27 not a darkness but a light.md:36 **为什么这样写**：Fraener 的认知矫正用五个评价+一个反转句：前四个词是「她对自己的全部怀疑」的反义词清单——最后 “Not a darkness, but a light” 直接把她自我认知的两个词对调；借龙眼完成一次「灵魂照镜
+ch27 not a darkness but a light.md:46 **为什么这样写**：Felix 的拆穿术用行业黑话：同一个词 bull-shit-ter 的回文式用法自带江湖气——她演技再好，也瞒不过同类；这句谚语是两人二十年的语言默契的结晶。
+ch27 not a darkness but a light.md:58 **读者视角提示**：记住这段的视角教学：同一件事（她虐杀刺客）在两套叙事里是两个故事——「恶」与「勇」只差讲述者。这也是本书对她 Syphon 身份的总辩护词。
+ch27 not a darkness but a light.md:102 **中文理解**：「一位 Clairsentient（通感者）。」——母亲的能力档案只用三个词交卷，却足以让王储挑眉。
+ch27 not a darkness but a light.md:106 **为什么这样写**：母亲的能力档案三个词交卷：Clairsentient（感知他人能力）——与他猜的 Manipulator（操控他人）一对比，母女的善良底色立刻显形；他的 “Interesting” 是全书他对她身世的第一句正式评价。
+ch29 six kings.md:16 **为什么这样写**：规则核心一句话立柱：端区禁魔+中区放开——「魔法免税区」的设计让比赛成为策略题（何时用、对谁用）；这一条同时是本章战术的两个解法（他的 jump vs 她的 shield）的分水岭。
+ch29 six kings.md:27 **读者视角提示**：记住 feud 的两个证据：断腿与下药各执一词——喜剧外皮下是两家人真实的胜负执念。
+ch30 confession and bang.md:54 **为什么这样写**：她把秘会的核弹原句转投给 Felix：同一句话在 24 小时内说两遍（对使节/对挚友）——第一遍是外交，第二遍是交底；句子的重量不因复述而减，因亲密而加倍。
+ch30 confession and bang.md:56 **读者视角提示**：记住这句的第二次落地：Felix 的反应（jumped to his feet）与 Howling 的 quivered 形成阶层对照——平民的第一反应是「we have to do something」。
+ch30 confession and bang.md:74 **为什么这样写**：Felix 的终极问句只有五个词：把「怎么办」升级成「如果无解」——问题抛出后她「didn’t have an answer for that」的空白才是真正的回答；末日叙事的入口由一个孩子气的直球打开。
+ch30 confession and bang.md:84 **为什么这样写**：答案不用嘴巴说：独立成段的四个词是她的心答——前面铺满报告画面（homes/dust/ruin）做视觉论证；「didn’t want to voice it」的回避让这句话更响，沉默成为修辞。
+ch31 bloodborne.md:80 **中文理解**：「我。不是。」——宣言的最后一词被句号切成三块，每一下都是重锤：把他「无脑执行者」的污名当场碾碎。
+ch31 bloodborne.md:84 **为什么这样写**：宣言的最后一个词组被句号切成三块：每个句号一次重锤——把「mindless drone」（无脑执行者）的指控逐字碾碎；标点的暴力是本章最响的修辞。
+ch32 the vultures rule.md:90 **中文理解**：「很复杂。」——恋情谜团的答案只有两个词，「不能」的理由被压缩成一句万能搪塞。
+ch32 the vultures rule.md:94 **为什么这样写**：恋情谜团的答案只有两个词：complicated——「can never be」的理由被压缩成一句万能搪塞；她的 sad sigh 与望向门外的视线（Kronan 所在）把「不能」的痛全交给肢体。
+ch33 homecoming.md:10 - **一句话概括**：午夜溜宫、骑龙夜航回乡：Cezar 的警报、闪电试攻、金盾一亮全村欢呼——Fraener 这次任人摸鳞；醉汉三人组重聚、Cias 的第二次拥抱不再僵硬；一顿 porridge 的愧疚之后，天上一个黑点闪烁逼近——王子
+ch33 homecoming.md:14 - **叙事手法**：还乡戏用「警报→误判→认亲」三段反转情绪；拥抱排比（Zave/Lina/Ralf/Cias）做群像点将；章尾黑点与 ch05 的「black dot」首尾呼应——同一种远观恐惧的两次抵达。
+ch33 homecoming.md:54 **为什么这样写**：龙的第二次转变被写成「趴下」这个动作：从「不喜欢被围」（ch02/ch06）到「趴地求撸」——主人不再恐惧，它便不再设防；「anyone and everyone」的全量措辞把信任推到顶。
+ch33 homecoming.md:80 **中文理解**：Crowned Prince 来抓她了——come for 的双关（抓捕/追寻）让这七个词既是追捕令也是情书。
+ch33 homecoming.md:84 **为什么这样写**：终句七个词完成标题级转折：come for 的双关（抓捕/追寻）——他追来既是职责也是别的什么；她的「No.」在上一行先落地，正文再补名词——恐惧先命名，人物后登场。
+ch34 the compromise.md:13 - **人物弧线**：他的 conflicted 首次可见（两面缠斗后 sigh 认输）；她的 low blow（拿失踪者的家属说事）显出 her ruthlessness 的边界感缺失；双龙同款告别写出四条命的重量。
+ch34 the compromise.md:34 **为什么这样写**：两个独词句连发（warned. Threatened.）：把一句话的两种定性摆上货架——作者用标点复写他的色厉内荏；她的回嘴（你得先打晕我）把谈判推到他必须选边的悬崖。
+ch34 the compromise.md:76 **读者视角提示**：记住这个「四目交换」的静帧：两对人龙、两场告别、一次跨线——本章所有关系（人龙/人人）都在这帧画面里完成誓师。
+ch35 the referendum.md:10 - **一句话概括**：徒步腐地上的双份爆料：她的 theory 拆穿 Medalist 幌子（剑柄红宝石藏血）与他的 relationship 结巴；他的情报更重——禁 Bloodborne 公投三年三提、4:3 差一票、Villani 
+ch35 the referendum.md:14 - **叙事手法**：理论戏用「证据链推理」（只见过动剑+剑柄红物）写出侦探感；公投数据用数字递进（3 年/3 次/6:0→4:3）压出紧迫；relationship 误会用「stumble」这个全书首次的失态动作做喜剧钉子。
+ch35 the referendum.md:60 **中文理解**：「四比三。」——生死投票的比分只有三个字：一票倒戈，数千条命就跟着翻页。
+ch35 the referendum.md:64 **为什么这样写**：生死投票的结果只报比分：三个字的悬崖——4:3 意味着一票倒戈即全盘翻盘；数字的极小差与「数千条人命」的极大事形成比例失衡的恐怖。
+ch36 the rot chase.md:70 **中文理解**：「你。不。会。赢！」——四个句号四次咬牙：她快昏过去、盾快崩、龙爪刚抓住她，意志的峰值与体力的谷底同帧。
+ch36 the rot chase.md:106 腐地追着人吃：她只来得及罩住一个村、扛到鼻血耳血——龙的供力、王子的归来、五十条命上龙背——最后一声「你不会赢」喊完，她在龙爪里昏了过去。
+ch37 exposed.md:40 **中文理解**：「她是 Syphon。」——全书的定时炸弹只用四个词引爆：Larissa 的证据链在前，宣判不需要论证。
+ch37 exposed.md:44 **为什么这样写**：全书的定时炸弹在此爆开：揭穿只用四个词——Larissa 的复仇从偷书证据链一路推到这句宣判；短句的杀伤力在于它不需要论证（证据已在她手里）。
+ch38 dungeon duet.md:34 **为什么这样写**：他的救援写成法条动作：不是抗命是「找法条的缝」——「momentarily」的副词诚实（只是缓刑）；绕行哲学第六次落地，这次救的是她的命。
+ch38 dungeon duet.md:44 **为什么这样写**：链结消失的终句只有四个词：从「心跳级」到「零级」的坠落一步写完——比失魔法更痛的排序（上一段已声明）让这个 nothing 双重击穿；短句是失去的度量单位。
+ch39 the key and the war.md:11 - **情感弧线位置**：晨粥斗嘴的喜剧 → 恋爱证据链的步步紧逼 → 「Care 我弟吗」的哑口 → 钥匙与逃亡令的两难 → 亲征消息的崩塌；笑泪在两小时内走完一个往返。
+ch39 the key and the war.md:14 - **叙事手法**：辩论用「手指计数」的清单节奏；打闹戏（锁喉/拽发）做探监喜剧的冷开场；「Do you care for my brother?」重复两次，第二次带 urgency——问句的重复即压力测试。
+ch39 the key and the war.md:54 **为什么这样写**：Phaedra 的追问重复两次、第二次带 urgency：她要的答案关乎「放不放人」的决策——“care for” 的措辞刻意避开「love」（留台阶）也避开「喜欢」（太轻）；她答不出=答案比任何语言都大。
+ch40 the cursed king revealed.md:10 - **一句话概括**：决战开卷即揭底：Balthus=Astral projection 的 Cursed King（两年来脑中声音的源头、龙穴的操纵者、母亲之死的凶手）；Syphon 殖民地存在、能量成形的新能力、双龙空战与能量对波——
+ch40 the cursed king revealed.md:13 - **人物弧线**：Balthus 的完整人格成型（优雅/自恋/操控狂/认可她的强）；她把「Voice 的每次诱惑」重新解码为「他两年的驯化工程」；王储隔着盾的「Run」对视=双向牺牲的镜像。
+ch40 the cursed king revealed.md:24 **为什么这样写**：上卷最大伏笔七词引爆：从 ch01 的 first whisper 到本章的对质——“You’re” 的句式把两年的精神入侵归档成一个人的名字； Voice 与 Balthus 合并的瞬间，她的每一段自我怀疑都有了作者
+ch40 the cursed king revealed.md:30 **中文理解**：「灵体投影。」——两个词把全场怪事归档：只有她看得见他、他在书房「独角戏」、他的来去无踪，全部因为他的本体根本不在场。
+ch40 the cursed king revealed.md:34 **为什么这样写**：现象的解释两个词完成：灵体投影=只有她看得见的实体化幻影——回收 ch23 的「只有她跟他说话」的所有怪异；名字一出，全场怪事自动归位。
+ch40 the cursed king revealed.md:125 两年的脑内声音、龙穴的「自由意志」、母亲的死——全是 Cursed King 的唤醒程序；她烧出全力也填不平经验的沟，最后隔着盾对他口型了两个字：跑。
+
+=== ⑥场景方位：3 行 ===
+ch03 soul link revelation.md:20 **中文理解**：屋内是穹顶圆形，看不见一条棱角；书架砌进墙里，卷轴文本满得往外溢——她看着像一团乱麻，老头却坚称乱中有序。
+ch16 the powerless princess.md:20 **中文理解**：一道盾墙在门口咔哒成型，门一寸也合不上了。Inara 怒瞪 Kronan。
+ch37 exposed.md:84 **为什么这样写**：收尾的悬念以问号自问：她刚刚把「四样」数完，第五样（王储）却在门口犹豫——「honestly didn't know」的坦白让言情线悬在刀口；他「还没说话」的沉默成了本章最后一个悬念。
+
+=== ⑤方向施受：27 行 ===
+00_金句精选.md:210 **为什么重要**：把战术约束写成游戏规则：她的千里盾与他的 jump 都在这格棋盘上算账。
+ch01 dragon offers its back.md:44 **为什么这样写**：危险尚未解除，作者就插入一段冷静复盘：用 “In retrospect” 的回顾语气与 “just asking for trouble” 的自嘲，把主角写成会判断风险、但更被欲望推着走的人，而不是无脑莽夫。
+ch01 dragon offers its back.md:126 **为什么这样写**：把无法命名的魔法体验交给人物自己去形容（“could only describe as”），再落到红热火流这个灼烫意象——先承认语言的失效，再给一个身体级的比喻，把「龙与人的绑定」写成一场暴力事件而非温馨仪式。
+ch02 flight home and drunken trio.md:125 **为什么这样写**：把「买水」写成按月交付的账单式生存：一段内连用 due / payment / replenish / fall within the week，经济压强的紧迫感全靠动词撑起来。盗来的金子必须熔掉换水——主线压力与开篇
+ch03 soul link revelation.md:124 **为什么这样写**：制度介绍用了分配市场的语汇（evaluated / selected / based on how powerful）——把人身关系写成明码标价的配给制，冰冷感正是 Cias 想让她恐惧的东西；他顺手点明她已是最高档。
+ch04 burnt ox and never go south.md:24 **为什么这样写**：开篇把逃跑写成数学题而非情绪决定：前提（Cias 可信）→ 推论（王室必至）→ 结论（走）；“every reason to believe” 的双重强调替她把犹豫提前清零，后面的行动因此毫无拖泥带水。
+ch04 burnt ox and never go south.md:86 **为什么这样写**：村民的恐惧用一个结巴的转述句递出来（“The, uh…The dragon”），紧接着一段冷静的将心比心——写群像的恐惧却不把村民写成反派；真正的杀招藏在段尾一个同位语里：Crowned Prince 首次现身，只用一
+ch04 burnt ox and never go south.md:107 **为什么这样写**：取名仪式放在章末完成闭环：ch03 Cias 说出名字，这里她当面确认、龙以颤音与埋首回应——“officially meet you” 的措辞把一场相遇写成了结拜；声音先于语言，写的是兽与人之间最早的那种交流。
+ch05 the army at the border.md:35 **为什么这样写**：把「被抓包」写成一场预演过的对局：Felix 逐条复述她的计划（连动机都替她说完），以攻代守；“I would do the same thing in your position” 一句镜像换位，让挽留不靠哀求靠逻辑
+ch05 the army at the border.md:87 **为什么这样写**：soul-link 的功能清单再添两项（情绪输送、力量借贷），但落点却是一句物种论断——“invoked it” 把龙从可惧之物改写成恐惧的源头；她的挺直脊背不是自我打气，是借来的胆。
+ch06 bond check and the deal.md:115 **为什么这样写**：验链场景交给第三方权威完成：cord 可见化（“as easily as I see you before me”）把灵魂链接写成可出庭作证的物证；“almost as powerful as Tydus” 的类比让强
+ch06 bond check and the deal.md:125 **为什么这样写**：威胁的可怕不在刀而在演示：副词对 “slowly, menacingly” 把刀速写成恐惧的刻度——慢，是为了让每个人看清控制的精度；「念头杀人」的能力表白与物证（移动的刀）同步落地。
+ch07 shrink and seven families.md:64 **为什么这样写**：变形与对视并行：身体在缩、瞪视不变——“maintaining that deathly glare” 把龙的骄傲写成可见的姿势；变化发生在眼皮底下，威慑却一秒未断，这不是恐惧的收缩，是带着怒气的就范。
+ch09 arrows and the dark voice.md:28 **为什么这样写**：真话被拆成三段挤牙膏：看→评判——Felix 的逼问让她的好胜心自己招供；"Ya happy?" 的口语懒音把认输写成了撒娇，两人在实战前的默契全靠这种拆台式对话维持。
+ch11 shield bubble over the abyss.md:86 **为什么这样写**：暴力收束在「演出说明书」上：目标、受众、预期效果三段列清——“lurked”（蛰伏）一词把边境写成潜伏的猛兽，她的表演由此获得政治意义：这不是比武，是宣言。
+ch14 the impossible seven.md:36 **为什么这样写**：排位即战力榜：42/49 的分数亮在头顶，赛制的量化羞辱感全在数字里；“see through the front” 把对手的强撑写成透明——她的观察力在此成为武器，为后面「识破指控逻辑」做热身。
+ch17 first day on the job.md:24 **为什么这样写**：王子的塔用「颜色剥夺」完成人设预习：金色（Fraener/她的魔法）的反面全在这里——黑、灰、冰；“you guessed it” 的插科打诨让讽刺带笑不破功；呼气成云的细节把冷写成可视的物理。
+ch18 potato heist planning.md:74 **为什么这样写**：heist 分两集是专业素养：踩点与执行分离——「假访→踩点→改日再偷」的节奏把犯罪写成预约制；“But this time” 的转折句是第二集预告：读者从本章开始就要等那个「再来一次」。
+ch18 potato heist planning.md:94 **为什么这样写**：对「别引起怀疑」的忠告，Felix 用身份哲学顶回去：贼的常态就是可疑——“by our very nature” 把伪装的难度写成存在主义问题；她的对策（假设永远被盯着）随即跟上，一庄一谐。
+ch23 the librarium heist.md:24 **为什么这样写**：舞会的政治体积一句话摊开：三国王室同场=社交场即外交雷区——“for the sake of decorum” 的委屈语气把他的厌恶写成了职务要求；他父亲遇刺的旧案（上段提及）让「谁能进门」成为安保命题。
+ch24 the grand ball.md:14 - **叙事手法**：心魔以连环问句轰炸开场（碎碎念式恐惧）；群像用「外交官图鉴」格式逐一挂号；对话层把「评估」写成考试——她的答upplier 直接成为王储的情报来源。
+ch26 blades that cut magic.md:104 **为什么这样写**：Fraener 的体型首次「超频」：愤怒直接改写体格与配色——“as if a symbol of” 把情绪写成可观测的物理量；龙的护主上限被重新标定：他能为她变得更大。
+ch31 bloodborne.md:54 **为什么这样写**：揭示词独立成段+gasped 前置：读者的震惊与她的同步——Medalist 的幌子（ch06 的金属操控）在红眼前瞬间作废；「从她唇间坠落」的措辞把真相写成脱口的证词。
+ch32 the vultures rule.md:80 **中文理解**：「你爱他。」她没有把它说成疑问句——因为它不是疑问。
+ch35 the referendum.md:24 **为什么这样写**：本章开头用验尸报告冷启动：三村的骸骨全是灰化状态（不可能短时间腐化）——“all that remained” 的收束句式把人命的消失写成名词残段；这句是 ch25 报告的地面实证，也是全章政治讨论的暗背景。
+ch35 the referendum.md:94 **为什么这样写**：隐藏的哲学被追到源头：父亲教的——「不可知=不可控=该恐惧」的公式正是所有歧视的底层代码；他把「隐藏」说成传承，让这层伪装有了家族悲剧的重量。
+ch38 dungeon duet.md:36 **读者视角提示**：记住「合法缓刑」：他没违法却保了她——这是他 promises（ch31）的兑现。她欠他的账又厚了一页。
+
+=== ④亲属身份：39 行 ===
+ch01 dragon offers its back.md:100 **中文理解**：「你比它强。不是它支配你，是你支配它。」——母亲的告诫在关键时刻回响。
+ch01 dragon offers its back.md:106 **读者视角提示**：母亲只在此处出声、不出场——上一段末已交代这是她脑中回响的旧话（“Her mother’s words echoed in her head.”）。她是谁、为何留下这句话，都是后账；先记住这句口诀，它是 Inara 对
+ch03 soul link revelation.md:60 **中文理解**：她当然知道。母亲每晚哄她睡觉时都讲这段故事，就是要她明白：身为一个 Syphon，到底意味着什么。
+ch03 soul link revelation.md:64 **为什么这样写**：一句话完成全书最重的身份揭示：不说「她是 Syphon」，而说母亲夜夜讲古「为了让她明白身为 Syphon 意味着什么」——用教养的温情包裹死刑的重量，母亲的远虑与危险一次性亮相。
+ch03 soul link revelation.md:66 **读者视角提示**：这是本章真正的爆点：枕边故事是求生教育。母亲（ch02 交代她离家远行）早把女儿的死罪身份和保命规则教进了骨头里——回头再看 ch01 里「你比它强，是你支配它」那句告诫，全是伏笔。
+ch08 phaedra and the chosen wing.md:66 **读者视角提示**：记住 Lord Soren：Villani 家排好的「驮龙人」。ch07 Villani 想拆散他们、本章就爆出他家儿子是下一顺位——利益线（家族候补）与情绪线（当场受辱）在他身上是同一根。
+ch09 arrows and the dark voice.md:10 - **一句话概括**：训练场围观变成箭雨偷袭——Larissa 的「意外」与黑暗之声的「杀了她」前后夹击，她靠母亲的口诀撑住；晚宴上 Trials 的规矩亮出两难（Chosen=不公平优势），Kronan 献计 Brander 临时无效化
+ch09 arrows and the dark voice.md:13 - **人物弧线**：Inara 的「邪恶记仇」（she was evil and vindictive like that）与共情（Na-Ri）同章两立；Larissa 从嘴贱升级到放箭；Kronan 的沉默里藏着宫中最深的规则知识；Ph
+ch09 arrows and the dark voice.md:52 **读者视角提示**：记住这个三段式（诱惑→易屈→自认上瘾）：syphon 的每次动用都在重演它。她的自救工具也已列装——母亲留下的口诀（下一段）。这条线是本书的「魂环」：力量、代价、自律。
+ch09 arrows and the dark voice.md:60 **为什么这样写**：降服心魔的工具朴素到近乎反高潮：呼吸＋记忆——没有法术、没有打斗；“what to do when the darkness tempted her” 一句预告这门教育的系统性：母亲不是随口安慰，是给过整套自救方案的人
+ch09 arrows and the dark voice.md:62 **读者视角提示**：母亲的口诀（ch01 的 “You control it”）与这里的深呼吸同源：她随身带着一套反 syphon 瘾的训练法。这个伏笔指向母亲的身份——一个懂黑暗之声的人。
+ch12 take from me.md:26 **读者视角提示**：记住她的预判有多准：本章后段黑暗之声的「杀光他们」正是她怕的那件事。她是全书少数先看清自己危险的人——这份自觉就是她的「母亲教育」成果。
+ch13 since your mother left.md:27 **读者视角提示**：这句话是本章全部戏剧的钥匙：知情起点=母亲离开=托付发生。记住这个时序——它把 Felix 的守密从「自作主张」改写成「执行遗嘱」。
+ch13 since your mother left.md:35 **为什么这样写**：托付的内容全用母亲的恐惧句式铺陈（feared/worried/might not be there）——遗嘱式的三连担忧让 Felix 的守密有了重量：他不是知情，是受命；「watch out」的双义（照看/警戒）恰
+ch14 the impossible seven.md:61 **读者视角提示**：记住 Villani 打 1 分的动机（她「偷走」儿子 Soren 的结契机会）：这是私怨入公器——分数不再是评估，是政治。这个先例让后文所有评分都带上了阴谋论背景。
+ch20 borderlands truth and the ball.md:20 **中文理解**：「他是个商人，来村里时和我母亲住过几晚——然后就再没回来过。」
+ch20 borderlands truth and the ball.md:24 **为什么这样写**：身世之谜用最平淡的语气交代：没有戏剧性的遗弃现场，只有「没再回来」——「母亲猜他死了」的补语（下文）把悬念留给读者算；她的毫无怨气（Don't be. I'm not.）反而立住了性格。
+ch20 borderlands truth and the ball.md:26 **读者视角提示**：记住「生父=过路商人」的官方口径：在这个类型里，父亲通常不会真的是商人。这条伏笔的利息会很久之后才结——先记住他「死了」只是猜测。
+ch27 not a darkness but a light.md:72 **中文理解**：「Larissa 的母亲是盾卫者，父亲是电系操控者。」
+ch27 not a darkness but a light.md:92 **中文理解**：「我父亲。」她点头。
+ch27 not a darkness but a light.md:96 **为什么这样写**：身世问答以最短句推进：四词承认父亲的血统一半——她的「父亲」在 ch20 一直是「没回来的商人」，这里却直接认领 Shielder 血统？细读是「组合血统」问答中的血统认领而非认人——生父身份的谜仍在。
+ch27 not a darkness but a light.md:108 **读者视角提示**：记住 Clairsentient 的含义：能看见能力如何运作——这正是母亲能教她「控制 syphon」的资格证，也解释了母亲的逃亡（知道太多的人）。
+ch29 six kings.md:24 **中文理解**：「他们说是意外，但我知道是他们在楼梯上绊倒了我妻子。」
+ch30 confession and bang.md:46 **读者视角提示**：记住这个「保密信用体系」：她的秘密等级制度（母亲→Felix→？）的排序逻辑全靠这章的信任审计。
+ch31 bloodborne.md:13 - **人物弧线**：他的孤独解密（父亲神志不清→王座真空→他独自扛秩序）；她的「act first, think never」被当面点名；Fraener 首尝无力感（守护者护不了她）；「I think you should go」是她对他
+ch31 bloodborne.md:20 **中文理解**：「我父亲目前……神志不清。」
+ch35 the referendum.md:11 - **情感弧线位置**：踩骨行军的阴冷 → 拆穿游戏的紧张 → relationship 误会的喜剧 → 公投危局的政治寒意 → 「喜欢跟你说话」的口误 → 父亲哲学的沉重收尾；笑与雷在本章交替劈响。
+ch35 the referendum.md:13 - **人物弧线**：她的侦探推演获得官方认证（theory 全对）；他的「hidden all my life」落到父亲教诲——隐藏是继承的政治遗产；两人的秘密在本章完成互证：谁也不能被「公投」。
+ch35 the referendum.md:86 **读者视角提示**：记住「撤 Villani」计划的悖论（下一块点破）：他儿子更糟——政治问题的解法有时是制造更大的问题。
+ch35 the referendum.md:90 **中文理解**：「这是我父亲的主意。人们恐惧他们不理解的东西——恐惧他们无法控制的东西。」
+ch37 exposed.md:70 **中文理解**：她真正在乎的只有四样——四样她愿意烧掉整个 realm 去守护的东西：她的村子。她母亲。Fraener。还有他。
+ch37 exposed.md:74 **为什么这样写**：清单体告白把「在乎」量化成四格：村子、母亲、龙、他——「And him」的位置在最末却最重（全章她与王储的每一段张力都在为它蓄电）；「burn the realm down」的夸张让爱意有了毁灭级的计量单位。
+ch39 the key and the war.md:50 **中文理解**：「你在乎我弟弟吗？」
+ch39 the key and the war.md:60 **中文理解**：「我弟弟给了我钥匙、下了密令放你们走——安全通道直通 Roylan 深山，要走就得立刻动身。但是，我希望你别接受他给的这条出路。」
+ch39 the key and the war.md:64 **为什么这样写**：钥匙情报与「别走」的愿望装进同一句话：他给她自由、姐姐给她挽留——“I hope you will not take” 的反转把逃亡方案变成道德选择题：安全（走）vs 战场（留）。
+ch39 the key and the war.md:76 **读者视角提示**：记住这条军令：它与「4:3 公投」「父亲神志不清」连成一线——议会在用王储的命填他们自己的怯懦。
+ch40 the cursed king revealed.md:46 **读者视角提示**：记住 Syphon colony 的存在：她后半生的「同类归乡」线从此挂号——母亲说过的话、殖民地的位置，都是下一卷的路标。
+ch40 the cursed king revealed.md:64 **为什么这样写**：母亲之死的真相用「恩人语气」送达：他夸她、谢她、还自称仁慈——每一层礼貌都是刀；“a quick one” 的傲慢把读者的愤怒与她的 realm tilting（天地翻转）同步引爆。
+ch40 the cursed king revealed.md:66 **读者视角提示**：记住母亲之死的因果：她为帮女儿控制 syphon 而来、被他要挟出卖位置后灭口——母亲的爱是女儿被找到的坐标。这记重锤将在她的黑化中长鸣。
+
+合计 395 行候选 / 43 个文件
