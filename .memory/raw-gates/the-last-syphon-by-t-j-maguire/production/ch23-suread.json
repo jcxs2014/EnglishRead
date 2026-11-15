@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch23",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "Ball 情报：邻国皇室皆受邀；他曾提过的刺杀疑云挂在其上；另有 High Council 秘会（pressing issue）",
+   "anchor": "These kinds of balls have an open invitation to the neighbouring kingdoms.",
+   "start": 2412,
+   "end": 2486
+  },
+  {
+   "fact": "隔夜复习的 jump 实战：图书馆里当场展示，把 Felix 吓得跳起来（吵到被嘘）",
+   "anchor": "She jumped, disappearing in an instant and reappearing on his other side in the blink of an eye.",
+   "start": 13671,
+   "end": 13767
+  },
+  {
+   "fact": "librarium 实景：五层圆形、螺旋玻璃梯、滚轮大梯、光灵悬浮——书脊藏金色魔力（syphon sight 可见）",
+   "anchor": "Smack in the centre of the space was a huge spiral glass staircase",
+   "start": 10220,
+   "end": 10286
+  },
+  {
+   "fact": "门房 Malix 被话术绕晕；Felix 的 99% confidence 理论带她直上顶层",
+   "anchor": "Head Venerable Casius is not taking visitors at the moment.",
+   "start": 16254,
+   "end": 16313
+  },
+  {
+   "fact": "Head Venerable Casius 被唱睡趴桌上；搜遍书房仍没找到目标书——效率败给杂乱",
+   "anchor": "lying facedown on the surface",
+   "start": 23510,
+   "end": 23539
+  },
+  {
+   "fact": "神秘人 Balthus 登场：走路像狐狸、蓝眼、自称来赴会——新变量入局",
+   "anchor": "I’m Balthus.",
+   "start": 22012,
+   "end": 22024
+  },
+  {
+   "fact": "Felix 力竭：唱睡功率流失极快，搜书必须限时",
+   "anchor": "He was now leaning up against the wall",
+   "start": 24515,
+   "end": 24553
+  }
+ ]
+}
