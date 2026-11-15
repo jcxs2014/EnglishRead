@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch06",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch06_chap6.txt",
+ "facts": [
+  {
+   "fact": "Oliver 想在图书馆独读收尾却全程分心，手机不离手。",
+   "anchor": "My hand hovers over my phone, and I find myself checking it more often than I ever have before.",
+   "start": 763,
+   "end": 858
+  },
+  {
+   "fact": "自上次见面后 Eden 没离开过他的脑海——胸口像破了个洞，而他甚至还不算真正了解她。",
+   "anchor": "Like there’s a hole in my chest, and I barely know her.",
+   "start": 1299,
+   "end": 1354
+  },
+  {
+   "fact": "Eden 本章状态松弛：研究项目开局美妙，让她对来年兴奋。",
+   "anchor": "My research project has started, and it’s just been fantastic. Makes me excited for next year.",
+   "start": 1895,
+   "end": 1989
+  },
+  {
+   "fact": "听说 Oliver 打算一天读完这厚书，Eden 回一句「This would take me years」——毫无恶意、毫无调侃。",
+   "anchor": "She says that with no malice, no teasing.",
+   "start": 2488,
+   "end": 2529
+  },
+  {
+   "fact": "Oliver 悟出 Eden 恨 Literature 的无限性与灰色地带；化学凡事有解、皆可证。",
+   "anchor": "Everything can be proven. Everything can be rationalised.",
+   "start": 4717,
+   "end": 4774
+  },
+  {
+   "fact": "家族晚餐每周至少一次，桌上只剩沉默——Oliver 的反讽：真·一家人。",
+   "anchor": "Just us, eating in silence. Like a real family.",
+   "start": 5914,
+   "end": 5961
+  },
+  {
+   "fact": "Mum 在世时餐桌上有笑声、色彩与爱；如今三人坐不下这张大桌子。",
+   "anchor": "It was better when Mum was here. There was laughter, colour, love.",
+   "start": 5964,
+   "end": 6030
+  },
+  {
+   "fact": "Dad 抛出公司通信岗位招安，说这是让他的写作技能「真正有用」的方式——伤口精准。",
+   "anchor": "A good way to use your writing skills in a way that actually matters.",
+   "start": 7399,
+   "end": 7468
+  }
+ ]
+}
