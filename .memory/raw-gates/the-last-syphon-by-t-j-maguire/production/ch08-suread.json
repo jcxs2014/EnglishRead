@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "Princess Phaedra 登场：紫罗兰色眼瞳与兄长同款，自信而不傲慢",
+   "anchor": "Her eyes were the same startling violet shade as her brother’s.",
+   "start": 343,
+   "end": 406
+  },
+  {
+   "fact": "Kronan 一秒出手在 Felix 手前立盾——比她反应更快的第一面盾卫者",
+   "anchor": "“No one touches the princess.”",
+   "start": 2164,
+   "end": 2194
+  },
+  {
+   "fact": "Phaedra 捂嘴却毫不压低声音骂 Larissa「那贱人」——故意让人听见",
+   "anchor": "she had heard it loud and clear",
+   "start": 3034,
+   "end": 3065
+  },
+  {
+   "fact": "宫中窃语：Line Enko 原排在下一位尝试与 Fraener 结契（Villani 之子 Soren）",
+   "anchor": "“I thought Line Enko was next to attempt the soul-link with him? Shouldn’t he be paired with Lord Villani’s son, Lord Soren?”",
+   "start": 5550,
+   "end": 5675
+  },
+  {
+   "fact": "Chosen wing 幻影天花板：黄龙直接穿顶而入、落地缩形停上女 Chosen 肩头",
+   "anchor": "The ceiling is a magical illusion and is not actually there.",
+   "start": 6077,
+   "end": 6137
+  },
+  {
+   "fact": "Cias 离开 Arelia 的真相：高议会指控他越权调查 soul-link；Phaedra 认为是他们怕他查出真相",
+   "anchor": "If you ask the High Council, he conducted unsanctioned investigations into the soul-link",
+   "start": 11427,
+   "end": 11515
+  },
+  {
+   "fact": "薪酬问答：月初发上月酬金；排班决定休息日；头几天先学规则",
+   "anchor": "At the beginning of every month, you will receive your allotted coin",
+   "start": 12533,
+   "end": 12601
+  },
+  {
+   "fact": "Felix 见衣柜_contents 惊叹——章末以「Fuck me」收在悬念上",
+   "anchor": "Her best friend came running over.",
+   "start": 13308,
+   "end": 13342
+  }
+ ]
+}
