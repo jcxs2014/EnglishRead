@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Inara 与 Felix 在龙穴盗宝后被龙火追赶逃亡，开场即奔命",
+   "anchor": "Inara screamed at the top of her lungs, a stream of blazing hot dragon fire right on her ass",
+   "start": 49,
+   "end": 141
+  },
+  {
+   "fact": "Felix 的能力是唱睡歌，需约三十秒起效，追逃场面中派不上用场",
+   "anchor": "He had the ability to sing anyone and anything to sleep. The problem was that he needed about thirty seconds",
+   "start": 2112,
+   "end": 2220
+  },
+  {
+   "fact": "追他们的两条龙其实是幼龙（蓝鳞与林绿鳞），且停在洞口不肯进来",
+   "anchor": "They were baby dragons. Still the size of a double carriage",
+   "start": 5209,
+   "end": 5268
+  },
+  {
+   "fact": "现身的暗红巨龙颈长节节升高至五十英尺，体型比 Arelia 的宫殿还大",
+   "anchor": "Thirty feet. Forty feet. Fifty feet.",
+   "start": 8230,
+   "end": 8266
+  },
+  {
+   "fact": "巨龙喷火压盾、Inara 临近魔力阈值（流鼻血），她解锁了被明令禁用的 syphon 能力",
+   "anchor": "Inara unlocked the forbidden magic running deep in her blood",
+   "start": 10400,
+   "end": 10460
+  },
+  {
+   "fact": "暗黑之声诱惑她吸干巨龙，她只取火焰之力并靠母亲的告诫顶住诱惑",
+   "anchor": "You’re stronger than it is. It doesn’t control you. You control it.",
+   "start": 12234,
+   "end": 12301
+  },
+  {
+   "fact": "僵持评估后巨龙以一阵魔法冲击 Inara 的灵魂（红热火流），疼痛随即消失，她的灵魂开始搏动",
+   "anchor": "a torrent of red-hot fire exploded in her body. She screamed, her back bowing.",
+   "start": 17131,
+   "end": 17209
+  },
+  {
+   "fact": "章末巨龙弯下身，把背脊献给 Inara（收下她的伏笔）",
+   "anchor": "It bent down and offered her its back.",
+   "start": 17867,
+   "end": 17905
+  }
+ ]
+}
