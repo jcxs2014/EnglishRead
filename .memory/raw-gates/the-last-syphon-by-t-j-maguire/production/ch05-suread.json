@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "她的目的地=南方死国 Tolanaa——唯一军队不敢跟的地方（「绝不南下」铁律被她自己打破）",
+   "anchor": "There was only one place she could go where she was sure the Arelian Army would not follow: the Dead Kingdom of Tolanaa.",
+   "start": 925,
+   "end": 1045
+  },
+  {
+   "fact": "Felix 早已看穿她的计划；七岁之约「你去哪我去哪」，他强行同行",
+   "anchor": "Well, tough shit. Where you go, I go.",
+   "start": 3295,
+   "end": 3332
+  },
+  {
+   "fact": "Arelia 与边境交界处现出传送门（黑烟闪电），Arelian 大军成列开进",
+   "anchor": "Straddling the line between where Arelia ended and the Borderlands began was a portal.",
+   "start": 4110,
+   "end": 4196
+  },
+  {
+   "fact": "Kenton 以土系魔法多年布好地道网，全村约百人半数入地窖躲藏",
+   "anchor": "he’d used his magic to slowly create a network of tunnels over time",
+   "start": 8167,
+   "end": 8234
+  },
+  {
+   "fact": "Cezar 视力可穿透万物望及极远（守警报器），因在 Roylan 偷窃被抓被割舌，不言不语",
+   "anchor": "he had his tongue cut out as punishment for being caught stealing in Roylan",
+   "start": 9202,
+   "end": 9277
+  },
+  {
+   "fact": "龙经 soul-link 给她慰藉与力量：「龙不会恐惧，龙制造恐惧」",
+   "anchor": "Dragons didn’t feel fear; they invoked it",
+   "start": 13712,
+   "end": 13753
+  },
+  {
+   "fact": "她借龙之视瞬移千里看见蓝黑巨龙；Felix 惊见她双眼变黑金色（继承守护兽之力实锤）",
+   "anchor": "They turned black and gold. Like your dragon’s.",
+   "start": 15788,
+   "end": 15835
+  },
+  {
+   "fact": "来者是 Crowned Prince 与其龙 Tydus（One of the Three、吐冰龙）；劝降被拒后他令全军万剑浮空齐指她",
+   "anchor": "The swords shifted, turning slowly until the tips of the blades were all pointing directly at her.",
+   "start": 23853,
+   "end": 23951
+  }
+ ]
+}
