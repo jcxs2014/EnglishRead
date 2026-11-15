@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch40",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch40_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "终极揭示①：Balthus=Dark Voice 本尊（Sly as a fox 回收 ch23 伏笔）",
+   "anchor": "You’re the voice in my head.",
+   "start": 1007,
+   "end": 1035
+  },
+  {
+   "fact": "揭示②：他是 Astral projection（灵体投影）——只有她看得见他；母亲被杀的凶手也是她找到的（她为帮你来 Tolanaa）",
+   "anchor": "Astral projection.",
+   "start": 3861,
+   "end": 3879
+  },
+  {
+   "fact": "揭示③：Syphon 殖民地存在（没被灭绝、藏了两千年）——她不是最后一个",
+   "anchor": "“There are others?”",
+   "start": 8232,
+   "end": 8251
+  },
+  {
+   "fact": "揭示④：龙穴之夜也是 Voice 操纵（为让她链接 Guardian 引 Arelia 过来、她碰地即唤醒他全部）",
+   "anchor": "It was me who convinced you to risk entry.",
+   "start": 12203,
+   "end": 12245
+  },
+  {
+   "fact": "母亲之死：她为帮女儿来 Tolanaa 找控制法——被他杀（「quick one」）",
+   "anchor": "She’s how I found you. Don’t worry, I made her death a quick one.",
+   "start": 9754,
+   "end": 9819
+  },
+  {
+   "fact": "卷尾 cliffhanger：能量对波（他的 magic 吃她的更快）+ 双龙空战被 Tibierus 拦——她对王储口型 Run",
+   "anchor": "“Run,” she mouthed.",
+   "start": 23298,
+   "end": 23317
+  }
+ ]
+}
