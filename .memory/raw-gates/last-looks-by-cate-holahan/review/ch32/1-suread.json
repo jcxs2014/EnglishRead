@@ -1,0 +1,55 @@
+{
+ "book": "last-looks-by-cate-holahan",
+ "chapter": "ch32",
+ "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch32_chapter_thirty_two_nina_berry.txt",
+ "facts": [
+  {
+   "fact": "Nina 苏醒时先觉地在晃动，误以为自己被 Jean 放进了棺材，抓住从地板通到天花板、穿过木桌的杆子站稳后才认出是船舱；Jean 没绑她的原因是那对长窗望出去只有刺目亮光——她被困在海上无处可逃。",
+   "anchor": "I’m trapped at sea",
+   "start": 2014,
+   "end": 2032
+  },
+  {
+   "fact": "她回忆被 Jean 下药三次：第一次昏迷了 about five hours，第二次在夜里被注射；Jean 自称第三次只下了足以让她 disassociate（神志分离）却不至于完全昏倒的剂量，之后她陆续想起 drool、火车鸣笛、preeclampsia 等断片夜的记忆碎片。",
+   "anchor": "I was comatose for about five hours",
+   "start": 2460,
+   "end": 2495
+  },
+  {
+   "fact": "舱壁上有壁挂卫星电话，Jean 解释 It requires a PIN like a personal cell phone、靠卫星适合远航；Nina 拧旋钮、拍按键、对着听筒大喊 Hello 求救无效，随后 Jean 从梯顶跳下现身，穿着她当年替他挑的 blue loafer。",
+   "anchor": "It requires a PIN like a personal cell phone",
+   "start": 4215,
+   "end": 4259
+  },
+  {
+   "fact": "Jean 宣布她已 You’re eight weeks（怀孕八周），计划让 babymoon 在船上待 Two months（两个月），理由是 Legally, you can’t abort after four months（法律上怀孕四个月后不能堕胎），唯一的例外是孕妇会死，而他说 28 岁的她正值最佳生育年龄。",
+   "anchor": "Legally, you can’t abort after four months",
+   "start": 11100,
+   "end": 11142
+  },
+  {
+   "fact": "Nina 喝完水反驳：她同意的是性行为不是孩子，指控 Jean 动了她的避孕药（You messed with my pills）；他辩称没有避孕手段万无一失，还说她当初允许他停用安全套就等于自担风险。",
+   "anchor": "I consented to sex, not a baby",
+   "start": 12222,
+   "end": 12252
+  },
+  {
+   "fact": "Jean 手持 steak knife 抹花生酱与黑树莓果酱做三明治，提出「互相原谅」：要她原谅他与 Camille 的 indiscretion 和失控脾气，他则原谅她「试图杀死他们的孩子」，还引用圣经的 Turn the other cheek。",
+   "anchor": "You’ll excuse my indiscretion with Camille",
+   "start": 6730,
+   "end": 6772
+  },
+  {
+   "fact": "Jean 称两人正航行地中海，且为此休了职业生涯的第一次假，但他提议的目的地是更南边的 North Africa；Nina 领悟他挑的是政教不分离、会以宗教理由禁止堕胎的穆斯林国家。",
+   "anchor": "I’m thinking farther south. North Africa",
+   "start": 13254,
+   "end": 13294
+  },
+  {
+   "fact": "结尾 Jean 举刀下最后通牒，给她三个选项：在甲板上晒太阳、陪这个她「爱到 forty-eight hours ago」的男人尝遍北非餐馆，或留在比大学宿舍还小的舱里靠花生酱三明治和 prenatal vitamins 过活，并强调这是她唯一能做的一次选择。",
+   "anchor": "It’s the only one you’ll get to make",
+   "start": 14819,
+   "end": 14855
+  }
+ ]
+}
