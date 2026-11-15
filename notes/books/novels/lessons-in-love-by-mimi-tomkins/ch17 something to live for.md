@@ -89,7 +89,7 @@ modified: "2026-11-15"
 
 **中文理解**：她套上白大褂——他不肯承认那身衣服有多好看。像一个性感教授。
 
-**关键词**：white lab coat / sexy professor
+**关键词**：admit / sexy professor
 
 **为什么这样写**：欲扬先抑的标准两拍——won't admit 是绅士的体面，sexy professor 是内心的尖叫。作者用职业装的权威感完成欲望的转译：他迷恋的不只是外形，是她在专业领域里的主权姿态。
 

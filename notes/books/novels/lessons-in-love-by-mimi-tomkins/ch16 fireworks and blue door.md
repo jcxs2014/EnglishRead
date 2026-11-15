@@ -10,7 +10,7 @@ modified: "2026-11-15"
 - **一句话概括**：烟花山顶的第三吻（这次不偷不抢）、 「I do like you, Eden」的正式告白；回程车上交换「都不会」的坦白后，Eden 一句「I'm coming in」主动闯进 Oliver 家——迎接她的是父亲那记连正眼都不给的 sneer。
 - **情感弧线位置**：升温与遇冷同章完成——农场的三天把两人推向公开，他家的门把两人打回原形；「we're alright. For now.」给高温线装上刹车。
 - **Tropes 兑现/反转**：兑现 fireworks first kiss 升级版（lap + neck 的越级版）；兑现 meet the parents 不对称（她家热烈 vs 他家结冰）；反转是权力对调——上一次是她家迎接他，这次他没能保护她。
-- **人物弧线**：Eden——「I'm coming in」完成 her 侧的主动交付；Oliver——「I want to try with you」把不定态收束成承诺；Oliver 父——venom 式出场确认 BOSS 级阻力。
+- **人物弧线**：Eden——「I'm coming in」完成 her 侧的主动交付；Oliver——「I want to try with you」把不定态收束成承诺；Oliver 父——venom 式出场确认头号阻力。
 - **叙事手法**：三吻三级刻度（stolen→claimed→deliberate）；山顶玻璃罩式 Bubble（neon 隔离声场）；蓝门老屋的 pancake 记忆预热即被父亲砸碎。
 
 ## 精读
@@ -39,7 +39,7 @@ modified: "2026-11-15"
 
 **中文理解**：第三次吻落下——这次不慌不忙：这不是偷来的时刻，我们有的是全世界的明天。
 
-**关键词**：not a stolen moment / all the time in the world
+**关键词**：stolen moment / all the time in the world
 
 **为什么这样写**：作者用前两次吻作反衬定价这一次：ch08 是 accident、ch15 是 claimed、本章是 deliberate——动词的道德等级逐级上升。「偷来的时刻」直指 Eden 的旧逻辑（ distraction 论），他亲手把它废掉：时间充裕=关系合法化。
 
