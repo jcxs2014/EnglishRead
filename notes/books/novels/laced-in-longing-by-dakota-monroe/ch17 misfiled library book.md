@@ -29,9 +29,9 @@ modified: "2026-11-15"
 **为什么这样写**：排除法用「物理证据」收网——她不诉诸感觉，只清点重量、闷响、下颌的触感；两个短句判词（不会接住你／没有实体下颌）是全书认知转折的法律文书，签名是她自己。
 **读者视角提示**：这是她第一次用「实证」而非「情绪」说服自己——对照 ch06 神父的「内心冲突说」，她自己完成了更严格的审查；从本章起她再提「疯」，都属于程序性自称而非真信。
 
-> **原句 3:** "My fingers rise to press against my mouth. It isn’t the same as touching him, but I don’t think I’ll ever forget that feeling. The white fabric was there, same as always, and yet when I reached out to touch the draping silk, my hand went through it like it was nothing. Skin greeted me instead. Warm skin. A hard line of a jaw with the faintest scrape of stubble along its surface, and brows that were thick and low, and a nose—a good nose, a real one that belonged to a face I couldn’t see but suddenly knew. And a mouth. With a full lower lip. The shape of his mouth is rooted in my hands’ memory."
+> **原句 3:** "The white fabric was there, same as always, and yet when I reached out to touch the draping silk, my hand went through it like it was nothing. Skin greeted me instead. Warm skin. A hard line of a jaw with the faintest scrape of stubble along its surface, and brows that were thick and low, and a nose—a good nose, a real one that belonged to a face I couldn’t see but suddenly knew. And a mouth. With a full lower lip. The shape of his mouth is rooted in my hands’ memory."
 
-**中文理解**：她的手指抬起来按在自己唇上——这不同于碰到他，但她大概永远忘不了那种感觉。白布还在，一如既往，可她的手伸过去、像穿过一层不存在的空气：迎接它的是皮肤。温暖的皮肤。一道硬朗的下颌线，带着极淡的胡茬；浓而低的眉；一个鼻子——好看的鼻子，属于一张她看不见却突然认识的脸。还有嘴。饱满的下唇。他嘴的形状已经扎根在她手的记忆里。
+**中文理解**：白布还在，一如既往，可她的手伸过去、像穿过一层不存在的空气：迎接它的是皮肤。温暖的皮肤。一道硬朗的下颌线，带着极淡的胡茬；浓而低的眉；一个鼻子——好看的鼻子，属于一张她看不见却突然认识的脸。还有嘴。饱满的下唇。他嘴的形状已经扎根在她手的记忆里。
 **关键词**：my hand went through it / a face I couldn’t see but suddenly knew / rooted in my hands’ memory
 **为什么这样写**：双向触觉档案在这一段合卷——他（ch16）在用手指读她，她（本章）在用手掌读他；「couldn't see but suddenly knew」是全书最温柔的悖论：视觉缺席，触觉建档，她给他建了一张「手的记忆」里的脸。
 **读者视角提示**：对照 ch16「painting me blind」——他让她「盲画」他，她回家立刻按住自己的嘴复演；两人各自保管对方的档案，唯一的共享介质是皮肤——这个设计把「信任」写成了物理动作。
@@ -43,9 +43,9 @@ modified: "2026-11-15"
 **为什么这样写**：「错架书」是本章的核心隐喻置换——把「人有病」改写成「系统出错」，过错方从她换成分类法本身；书还暗接她的书迷身份（ch01 的 e-reader、ch10 的图书馆）：她的救赎意象全部长在书堆里。
 **读者视角提示**：对照 ch13「the identity I've built around my pain」——这句是她亲手拆掉那座身份的第一锤：坏掉的东西要修，错架的书只需要「放回去」——而放回去，正是他在做的事。
 
-> **原句 5:** "I have to choose it, according to him. He can’t take me from this life, scoop me up and haul me off to his weird twilight garden world no matter how much he desires to, because there’s some rule about it. Some line even a stalking god apparently won’t cross. Which—I don’t know what to do with the fact that that reassures me. The possessive, coat-wearing, million-year-old man who called me his on a rooftop will not actually take a single thing I don’t hand him. It should be terrifying, having such control over someone like that. Instead, it loosens something in my chest, making me feel warm and stupid."
+> **原句 5:** "Some line even a stalking god apparently won’t cross. Which—I don’t know what to do with the fact that that reassures me. The possessive, coat-wearing, million-year-old man who called me his on a rooftop will not actually take a single thing I don’t hand him. It should be terrifying, having such control over someone like that. Instead, it loosens something in my chest, making me feel warm and stupid."
 
-**中文理解**：按他的说法，她必须自己选。他不能把她从这一世里捞走、兜头打包拖去他那个奇怪暮光花园世界——无论多想——因为有条规则。有一条连跟踪狂神明都不会越过的线。而她不知道拿什么心情面对「这件事让我安心」的事实：那个占有欲爆棚、穿长大衣、百万岁的男人，在屋顶上宣布她是他的——却不肯拿走她没有亲手交出的任何东西。对这样的存在握有这种权力本该吓人；相反，她胸口有什么松开了，让她觉得又暖又蠢。
+**中文理解**：有一条连跟踪狂神明都不会越过的线——他不能把她从这一世捞走、拖去那个暮光花园世界，无论多想。而她不知道拿什么心情面对「这件事让我安心」的事实：那个占有欲爆棚、穿长大衣、百万岁的男人，在屋顶上宣布她是他的——却不肯拿走她没有亲手交出的任何东西。对这样的存在握有这种权力本该吓人；相反，她胸口有什么松开了，让她觉得又暖又蠢。
 **关键词**：Some line even a stalking god won’t cross / will not actually take / warm and stupid
 **为什么这样写**：权力关系的物理学在这一段完成反转——被绝对力量觊觎的人，反而握着绝对的否决权；「warm and stupid」是她给心动配的贬义词，嘴硬与体感各占一半，作者让两者同句共存，完成「心动=自嘲」的语法。
 **读者视角提示**：对照 ch16「she must say yes」——同一规则的两面：他读到的是约束，她读到的是安全；dark romance 的信任就这么建起来的：不是「他不会伤害我」，是「他不能拿走我不给的」。
