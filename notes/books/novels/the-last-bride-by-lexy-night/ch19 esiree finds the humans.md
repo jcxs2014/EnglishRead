@@ -125,7 +125,7 @@ modified: "2026-11-15"
 |---|---|---|
 | optimist | 乐观的人 | My father always said I was the furthest thing from an optimist. |
 | tardiness | 迟到 | I requested dessert just for the sake of extending my time, hoping he would burst through the doors apologizing profusely for his tardiness. |
-| misgivings | 疑虑、忐忑 | The well of questions made my chest constrict as my mind drifted toward sensationalist ideas and other intrusive thoughts that often plagued my imagination. |
+| intrusive | 侵扰的、闯入的 | My mind was abuzz with wild thoughts, and my anger with Vastion increased by the minute. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
