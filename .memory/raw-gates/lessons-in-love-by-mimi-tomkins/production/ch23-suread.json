@@ -1,0 +1,49 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch23",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch23_chap23.txt",
+ "facts": [
+  {
+   "fact": "图书馆对峙中他的闭合叙事：她要的是分数，我给了——不再需要我，End of story。",
+   "anchor": "She wanted a good mark. I gave her that.",
+   "start": 1785,
+   "end": 1825
+  },
+  {
+   "fact": "他的底线：上次是他追出去的——这次不追，等她开口。",
+   "anchor": "But I am not running after her again. Not after what happened last time.",
+   "start": 2667,
+   "end": 2739
+  },
+  {
+   "fact": "Gemma 抛出真相：演讲崩溃只是表层——她申请奖学金误了截止日，没它就留不下来。",
+   "anchor": "Her Honours coordinator stopped her beforehand and told her she missed a scholarship application deadline.",
+   "start": 2932,
+   "end": 3038
+  },
+  {
+   "fact": "愧疚即时换算：若此事有他一分责任——她会气疯；书稿之外的第二重「分心负债」成形。",
+   "anchor": "If I had any part in her missing it…Well, she’d be furious.",
+   "start": 3330,
+   "end": 3389
+  },
+  {
+   "fact": "同日考场：Contemporary Literature 的考试日=家教服务的终止日、协议的到期日。",
+   "anchor": "The end date of my tutoring services. The end of our agreement.",
+   "start": 4978,
+   "end": 5041
+  },
+  {
+   "fact": "三十排座位外：他一眼认出她身上那件 university jumper——vanilla 香似有若无。",
+   "anchor": "I would recognise my university jumper anywhere.",
+   "start": 5360,
+   "end": 5408
+  },
+  {
+   "fact": "一个 plan 的边角开始成形——「考完再想她」的自我哄骗失败收场。",
+   "anchor": "The very edges of an idea start to enter my mind.",
+   "start": 5972,
+   "end": 6021
+  }
+ ]
+}
