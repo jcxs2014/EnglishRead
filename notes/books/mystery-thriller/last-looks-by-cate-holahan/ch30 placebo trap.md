@@ -54,7 +54,7 @@ modified: "2026-11-15"
 "He shrugs. “Ketamine. The dealer from my clubbing days has really expanded his offerings. He has a delivery service now. Motorcycle riders drop off whatever you need, wherever you need it.”"
 "He presses the syringe’s plunger, expelling a drop of liquid. “Prefilled.”"
 **中文理解**：「你上不了船。」他从后袋抽出针筒——「那就让你失去意识。」她追问那是什么：「Ketamine。夜店时代的老 dealer 生意做大了，现在摩托车送货上门。」活塞一压，挤出一滴——「预充的。」
-**关键词**：You won’t get me on the boat / withdraws the needle
+**关键词**：You won’t get me on the boat
 **为什么这样写**：绑架的后勤（药源、配送、预充）被他说成外卖服务——犯罪产业的日常化口吻比威胁更瘆人；五段短句的节奏像上膛。
 **读者视角提示**：对照 Cécile 的毒药渠道（第七章的注射器、网上药房）——两位「供应链型」反派共用同一张暗网地图；本书的犯罪是有物流的。
 
@@ -62,7 +62,7 @@ modified: "2026-11-15"
 "“You wouldn’t even let me have wine,” I plead."
 "“Better to have a kid who’s a little developmentally delayed than a dead one.” Jean places the syringe between his teeth and dives for my free arm. Though I try to pull it into my body, he yanks it straight. “This won’t hurt if you hold still.”"
 **中文理解**：他举针保证：「很多家长后来才戒瘾，孩子照样健康。」她求情：「你连酒都不让我喝。」——「发育慢一点的孩子好过死掉的孩子。」针筒咬在牙间，他扑向她的另一条手臂：「不动就不疼。」
-**关键词**：Plenty of healthy infants / places the syringe between his teeth
+**关键词**：Plenty of healthy infants
 **为什么这样写**：他的每句「育儿经」都是暴力的糖衣——牙咬针筒的动作让施暴者腾出双手，画面冷到极点；「dead one」的对比句把她的堕胎计划定性成弑婴。
 **读者视角提示**：他连「wine」的禁令都拿来当逻辑（「你都戒了酒」）——她的同盟条款被逐条改写成囚禁条款。
 
