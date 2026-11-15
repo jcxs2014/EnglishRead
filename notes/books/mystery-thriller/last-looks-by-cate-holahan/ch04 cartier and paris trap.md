@@ -34,14 +34,14 @@ modified: "2026-11-15"
 > **原句 4:** "Cécile Duval doesn’t post often. The few pictures she does have, though, speak to a life with plenty of disposable income. In one photo, she lounges with friends on a yacht. In another, she stands on a pristine beach, embracing a heavyset man turned away from the camera. The Four Seasons hotel chain is tagged in the image."
 "A sudden door crack interrupts my wealth porno. I shut my computer as Jean enters—or a man I assume to be him. His face is obscured by a massive floral bouquet and a teddy bear so large, it should pay rent wherever it ends up."
 **中文理解**：她去翻 Cécile Duval 的帖子验证身份：发帖不多，张张透着可支配收入——游艇与友同乐，四季度假村的洁净沙滩上搂着背对镜头的重磅男人。这场「财富色情片」浏览，被 Jean 进门打断：整张脸被巨型花束和一只大得该交房租的泰迪熊挡住。
-**关键词**：disposable income / a heavyset man / wealth porno
+**关键词**：disposable income / a heavyset man / pristine beach
 **为什么这样写**：用三条照片流水写阶级勘探——「拍什么」比「说什么」可信；「背对镜头的男人」是刻意保留的悬念；泰迪熊从同一扇门进来，孩子的暗示物与求婚道具同框抵达。
 **读者视角提示**：注意 she stands on a pristine beach, embracing a heavyset man——第一章的 Cécile 只提过前夫，从没提现任伴侣；这个男人是谁，是留给读者的人肉钩子。
 
 > **原句 5:** "He drops to one knee. At first, I assume he tripped. It’s not until his right hand disappears into his jacket pocket that I understand his position. Even then, I’m not fully anticipating the red Cartier box."
 "The ring sparkles, refracting the window light into rainbows. For a moment, it seems Jean holds a flame toward me. “Classic cut. Round. Brilliant. Flawless, like you.” He takes my palm and kisses the top of my knuckles."
 **中文理解**：Jean 聊着聊着单膝落地——起初她以为他绊倒了。红色 Cartier 盒打开，钻戒把窗光折成彩虹；他把戒指举成火苗，吻她的手背：「经典切工、圆形、灿烂、无瑕——像你。」
-**关键词**：one knee / red Cartier box / Flawless, like you
+**关键词**：one knee / red Cartier box / jacket pocket
 **为什么这样写**：道具链在替他说话——该付房租的泰迪熊（孩子）、红 Cartier（第二章客户列的「硬标志」他恰好都齐）；「Flawless, like you」把钻石话术直接升级成情话，甜得发假。
 **读者视角提示**：两个段落的动作链读下来像广告片——记住这套「完美供给」；章末她说这个吻不恶心，但「完美」正是本章最可疑的东西。
 
@@ -60,7 +60,7 @@ modified: "2026-11-15"
 > **原句 8:** "One more chance to back out. Mom assures me with another religious adage: God’s timing is always on time. Instead of pushing away her voice, I let the words resonate. Sure, I may not be Lifetime-movie-in-love with this man, but I could grow to be. If I didn’t believe that, I wouldn’t be here."
 "I wiggle my ring finger. “Okay, let’s do it.”"
 **中文理解**：最后一次反悔的机会。脑内母亲递上一句宗教格言——神的时间永远准时；她没有赶走这个声音，反而让它落地：也许不是电视电影式热恋，但可以培养。她晃了晃戴着戒指的手指：「Okay，就这么办。」
-**关键词**：God’s timing is always on time / could grow to be / Okay, let’s do it
+**关键词**：God’s timing is always on time / could grow to be / Lifetime-movie-in-love
 **为什么这样写**：答应被写成一次呼气加一面旗（surrender flag）——不是选择而是缴械；「could grow to be」的将来时把「爱」推迟成期权，与第一章 Cécile 的「I am still learning」同款语法。
 **读者视角提示**：两位叙述者都在用「学会／培养」给感情记账，婚姻观在同构句式里撞了一下；母亲的格言每次出现都站在「留下」这一边——这个声音的立场值得疑心。
 

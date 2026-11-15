@@ -46,14 +46,14 @@ modified: "2026-11-15"
 > **原句 6:** "I catch my breath. “I’ve been feeling ill all week, which doesn’t make any sense. I don’t have a fever.”"
 "“You sure you’re not pregnant?”"
 **中文理解**：男厕隔间吐完，她喘着气向 Jean 陈述病情：病了一整周、说不通、不发烧；Jean 隔着门只回了一句——确定不是怀孕吗？生蚝、时差、避孕药，全部在这扇门内外排队候审。
-**关键词**：feeling ill all week / I don’t have a fever / not pregnant
+**关键词**：feeling ill all week / I don’t have a fever / doesn’t make any sense
 **为什么这样写**：两个整段并置——她给身体的「合理名单」（无烧、说不通）与 Jean 的一个问句对撞；提问以问号落地而非陈述句，把决定权推给 Nina，也把悬念原样推给下一章。
 **读者视角提示**：注意 Jean 的提问位置：他先要了体面的解释（生蚝），再逼出难堪的可能（怀孕）；对照 ch01 结尾 Cécile 的「账记在她头上」，读者此刻会开始猜这场怀孕疑云是否也在谁的剧本里。
 
 > **原句 7:** "I take the paper towel and dry my hands, glaring at my reflection. Stylist secret number five: Want to know how to move from hot up-and-comer to haggard housewife in mere months? How to lose a slowly but surely expanding client base that judges their ensembles based on your appearance?"
 "That one’s simple. Just get pregnant."
 **中文理解**：她擦干手瞪着镜子，补上第五条秘诀：想知道怎么从当红新人几个月垮成黄脸婆、怎么丢掉凭你外表下判断的客户群吗？——答案简单：怀孕就行。教学腔在这一句掉头向下，从「教你怎么装」变成「教你怎么完」。
-**关键词**：haggard housewife / client base / Just get pregnant
+**关键词**：haggard housewife / client base / hot up-and-comer
 **为什么这样写**：「秘诀」编号框架在末条完成反转回收——前四条教以假乱真往上爬，第五条突然改口成「真实会毁掉一切」的警告；用祈使句 get pregnant 收束，把「这个孩子要不要来」的悬念钉进全书开场。
 **读者视角提示**：对照 ch01 收尾——Cécile 的账记在 Nina 头上，Nina 的危机长在自己肚子里，两位叙述者各埋了一个对方不知道的定时装置；下一章镜头交回 Cécile，留意她是否已知晓这场怀孕。
 
