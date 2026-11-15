@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch02",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch02_chap2.txt",
+ "facts": [
+  {
+   "fact": "Oliver 睡到午后——昨夜为最爱作者的突袭新书熬夜，身上还带着昨晚拳击课的酸痛。",
+   "anchor": "when your favourite author drops a surprise book it’s basically mandatory to stay up all night reading it",
+   "start": 174,
+   "end": 279
+  },
+  {
+   "fact": "哥哥 Jason 与爸爸轮番施压，要 Oliver 毕业后进家族建筑业「为我们工作」。",
+   "anchor": "When are you going to come work for us?",
+   "start": 2756,
+   "end": 2795
+  },
+  {
+   "fact": "爸爸嫌 Oliver 太像妈妈——dreamer，同款绿眼睛。",
+   "anchor": "He always tells me I’m too much like my mother—a dreamer. Same green eyes.",
+   "start": 3199,
+   "end": 3273
+  },
+  {
+   "fact": "Ben 与 Michelle 高中起就是一对；Michelle 去 Prague 交换一学期，Ben 借徒步吐槽异地恋。",
+   "anchor": "When Ben’s high school sweetheart Michelle jumped at the opportunity to study in Prague for a semester",
+   "start": 5116,
+   "end": 5218
+  },
+  {
+   "fact": "两人短信约定周三上午 11 点在校内咖啡馆 Castello's 见面。",
+   "anchor": "I’ll see you at Castello’s at 11am.",
+   "start": 5650,
+   "end": 5685
+  },
+  {
+   "fact": "Eden 自述挂科原因：无法理解「蠢人为何写蠢故事讲更蠢的人」。",
+   "anchor": "An inability to understand why stupid people write stupid stories about stupider people.",
+   "start": 9985,
+   "end": 10073
+  },
+  {
+   "fact": "课程四项作业：两篇 500 词反思短文＋10 分钟口头报告（文学学科的数十年变化，聚焦一个文类）＋期末对长篇的分析文章。",
+   "anchor": "A 10-minute oral presentation on how Literature as an area of study has changed over the last few decades",
+   "start": 11314,
+   "end": 11419
+  },
+  {
+   "fact": "章末 Eden 说「就这十二周」，Oliver 应和——十二周倒计时成为两人共同的时间框架。",
+   "anchor": "Just twelve weeks of this and then we’re done.",
+   "start": 12570,
+   "end": 12616
+  }
+ ]
+}
