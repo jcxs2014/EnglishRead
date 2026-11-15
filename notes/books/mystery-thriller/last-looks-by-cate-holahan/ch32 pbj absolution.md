@@ -87,7 +87,7 @@ modified: "2026-11-15"
 "He sets down the knife to twist the jar lid onto the jelly. “No birth control method is foolproof. You took this risk the minute you let me stop with the condoms.”"
 "No kindness goes unpunished. “You said you had a hard time getting it up otherwise. I thought, with your age—”"
 **中文理解**：同意之战四回合：「你同意了性。」「我同意性，没同意孩子——你动了我的药。」「没有避孕法万无一失——你让我停用避孕套时就自担风险。」她反手揭底：「你说过不那样就硬不起来。就你那年纪——」被拍罐截断。
-**关键词**：You consented when we had sex / You messed with my pills
+**关键词**：You consented when we had sex
 **为什么这样写**：四段把「同意」的法学拆成词官司——他的每句抗辩都是男性话术的标准件；她的 ED 揭底（「你的年纪」）是他最痛的软肋，也是最短的对话。
 **读者视角提示**：ED 的出现让「pill swap」有了原始动机——他要的是不戴套，不是孩子；「孩子」是他给犯罪找的道德包装。
 
