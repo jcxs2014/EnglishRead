@@ -4,49 +4,49 @@
  "text": "notes/books/novels/laced-in-longing-by-dakota-monroe/text/ch08_8_chapter_eight.txt",
  "facts": [
   {
-   "fact": "他看她恐慌发作却忍住不出手：吞食她的渴望只需一个念头就能抽干她的惊慌——但他不能、也不愿。",
+   "fact": "他看她恐慌却忍住：吞她的渴望只需一念头——但他不能也不愿；veil 日渐变薄。",
    "anchor": "To feed on the longing that radiates from her like heat would require the smallest effort.",
    "start": 438,
    "end": 528
   },
   {
-   "fact": "她的第一世截然不同：笑声像夏花草甸上的庙钟，会织布、作画、塑陶——「那是在认识我之前」；每一轮生死循环，她的光都在变暗。",
-   "anchor": "She was not always like this: a fragile creature trembling on the floor of a cold apartment that holds nothing of her essence.",
+   "fact": "第一世：笑声如庙钟、会织布作画塑陶——「那是在认识我之前」；每轮生死她的光更暗。",
+   "anchor": "She was not always like this",
    "start": 833,
-   "end": 959
+   "end": 861
   },
   {
-   "fact": "他自报神格：Aakanksh，渴望之神——以凡人未遂的欲望为食（丧子的母亲、被夺所爱的恋人、窥见完美却抓不住的艺术家）；尝遍众生渴望，唯独「Never Maven’s. Never hers.」",
+   "fact": "神格自报：以凡人未遂欲望为食（丧子母亲/被夺所爱恋人/窥见完美的艺术家）——唯独 Never Maven's。",
    "anchor": "I am Aakanksh, God of Longing.",
    "start": 2592,
    "end": 2622
   },
   {
-   "fact": "最大揭示：她每一次自杀尝试，他都在前一刻抽走她的绝望，让冲动消散——她以为「缺勇气」，「I let her believe this. It is kinder than the truth.」",
-   "anchor": "Each time she has tried to end this life—lifting blade to wrist, swallowing pills by the handful, stepping toward one-way destinations with deadened eyes—I have taken her longing in the moment before.",
+   "fact": "最大揭示：每次自杀尝试他都在前一刻取走她的绝望——她以为的「缺勇气」是善意篡改；「I let her believe this. It is kinder than the truth.」",
+   "anchor": "Each time she has tried to end this life",
    "start": 10601,
-   "end": 10801
+   "end": 10641
   },
   {
-   "fact": "神界设定：大战后 Bright Gods 给六位 Dark Gods 各许配一个灵魂（安抚/贿赂）；「事故」让灵魂投进凡人子宫——自由意志选择加入才能回家；Vorin（暴食神）已先收回他的。",
+   "fact": "神界设定：战后六位黑暗神各获许配灵魂；「事故」让灵魂投进凡胎——须自由意志选择回家；Vorin 已先收回他的。",
    "anchor": "The Bright Gods offered a soul to each of the six Dark Gods after the Great War",
    "start": 4194,
    "end": 4273
   },
   {
-   "fact": "本世的她=「最暗的一版」Maven Talmay（27 岁、八年九城、寄养幸存者）——灵魂被流放磨到「忘记怎么认出快乐」，但最初的本质仍在呼唤他。",
-   "anchor": "This Maven—Maven Talmay, twenty-seven years old, resident of nine cities in eight years, survivor of foster homes and countless rejections—is the dimmest iteration yet.",
-   "start": 14005,
-   "end": 14173
-  },
-  {
-   "fact": "白纱=保护性显形：神之真容会烧毁凡人神智；他看得见她的每一根睫毛，她只能看见白丝——「The Nameless God」则以旋涡黑暗示人。",
+   "fact": "白纱=保护性显形：真容会烧毁凡人神智；他看得见她每根睫毛——她只看见白丝（The Nameless God 则以旋涡黑暗示人）。",
    "anchor": "Maven sees me draped in white silk that obscures my features, though I feel nothing on my face.",
    "start": 6771,
    "end": 6866
   },
   {
-   "fact": "她没叫他走、没否认他的存在；他与她的呼吸不自觉同步——本世第一次「希望展开」：「This time will be different.」但今夜只给「presence without demand」。",
+   "fact": "本世=「最暗的一版」Maven Talmay（27 岁/八年九城/寄养幸存者）——灵魂被流放磨到忘记认出快乐。",
+   "anchor": "This Maven—Maven Talmay, twenty-seven years old",
+   "start": 14005,
+   "end": 14052
+  },
+  {
+   "fact": "她没叫他走、没否认他；两人呼吸同步——本世第一次「希望展开」：「This time will be different」；今夜只给 presence without demand。",
    "anchor": "For the first time in this mortal lifetime, hope unfurls in me.",
    "start": 16578,
    "end": 16641

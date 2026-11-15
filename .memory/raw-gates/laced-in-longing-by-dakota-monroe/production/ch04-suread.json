@@ -4,49 +4,49 @@
  "text": "notes/books/novels/laced-in-longing-by-dakota-monroe/text/ch04_4_chapter_four.txt",
  "facts": [
   {
-   "fact": "酸糖应急袋洒了一地：袋子是她「低血糖或需要把注意力从脑内尖叫的空洞上挪开」时的急救包；捡回的糖沾满灰没法吃，她心疼要补货。",
-   "anchor": "The baggie catches on something in my purse and slips from my grip, scattering neon-colored sweets across the ugly carpeting.",
-   "start": 1278,
-   "end": 1403
+   "fact": "酸糖应急袋=低血糖急救+把注意力从「脑内尖叫的空洞」挪开；今天洒一地捡回全脏。",
+   "anchor": "My fingers brush against the small plastic baggie of sour candies I keep for emergencies",
+   "start": 1025,
+   "end": 1113
   },
   {
-   "fact": "税务部 Nadia 跪地帮捡糖、顺势邀她去酒吧——两人入职以来说过约五句话；她鬼使神差答应了：来蒙特利尔几周第一次社交。",
+   "fact": "税务部 Nadia 帮捡糖并邀酒吧——入职以来两人只说过约五句话；她鬼使神差答应（几周来第一次社交）。",
    "anchor": "“A bunch of us are heading to the bar,” she continues, undeterred by my silence.",
    "start": 2800,
    "end": 2880
   },
   {
-   "fact": "第一反应是拒绝（企业斯德哥尔摩）；答应的算法是 payday、公寓只有一瓶没开的便宜红酒、以及「不想一个人坐在随机酒吧显得可悲」。",
-   "anchor": "It’s like some kind of corporate Stockholm Syndrome—trapped together in fluorescent lighting until you convince yourself you actually enjoy each other’s company.",
+   "fact": "第一反应拒绝（企业斯德哥尔摩）；答应算法=发薪日+公寓只有一瓶没开的酒+不想显得可悲。",
+   "anchor": "It’s like some kind of corporate Stockholm Syndrome",
    "start": 3426,
-   "end": 3587
+   "end": 3477
   },
   {
-   "fact": "桌上被连环追问：家庭一问让她「No」出口太利；Chris 再问时真话漏出：「No one. Foster care.」——满桌同情，Tyler 用 IT 话题解围。",
-   "anchor": "“No.” The word comes out sharper than I intend, and I sip my drink again to cover the awkwardness.",
+   "fact": "桌上被问家庭，「No」出口太利；Chris 再问真话漏出「No one. Foster care.」——满桌怜悯，Tyler 用 IT 话题解围。",
+   "anchor": "“No.” The word comes out sharper than I intend",
    "start": 10277,
-   "end": 10375
+   "end": 10323
   },
   {
-   "fact": "她灌酒想灌到「不必再扮演人类」；自认 Montréal Mule 尚可。",
+   "fact": "灌酒想停掉「扮演人类」；Montréal Mule 尚可。",
    "anchor": "Maybe if I get drunk enough, I’ll stop feeling like I’m performing humanity rather than experiencing it.",
    "start": 10832,
    "end": 10936
   },
   {
-   "fact": "第二杯一上，身体造反：胃里沉石、发热出汗、灯光如针——每个细胞都在喊要独处。",
+   "fact": "第二杯身体造反：胃里沉石、发热出汗、灯光如针——每个细胞喊独处。",
    "anchor": "But as my second drink arrives, something shifts in my gut.",
    "start": 12333,
    "end": 12392
   },
   {
-   "fact": "关键顿悟成段：她要的不是回家，是上床做梦——想被那个 presence 看着、想体验「被看见」的舒适；睡眠从逃生变成目的地。",
+   "fact": "关键顿悟：要的不是回家是做梦——想被 presence 看着、体验「被看见」的舒适；睡眠从逃生变目的地。",
    "anchor": "I want to feel that presence watching me, to experience the comfort of being seen by someone.",
    "start": 13204,
    "end": 13297
   },
   {
-   "fact": "忘了改期的 Voss 第二通电话成了完美逃生借口；电话里继续撒谎「一切都一样」；回家被窥感更强，她「带着饥饿的需求欢迎睡眠」，睡前想白纱后的人——「我想我笑了」。",
+   "fact": "忘了改期的 Voss 来电成完美逃生借口；电话里继续撒谎「一切都一样」；回家被窥感更强——睡前「带着饥饿的需求欢迎睡眠」。",
    "anchor": "“I have to take this,” I say, already standing, relief rushing through me at the perfect excuse.",
    "start": 13737,
    "end": 13833

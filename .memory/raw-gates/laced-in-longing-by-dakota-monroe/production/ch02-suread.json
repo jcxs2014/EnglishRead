@@ -4,52 +4,52 @@
  "text": "notes/books/novels/laced-in-longing-by-dakota-monroe/text/ch02_2_chapter_two.txt",
  "facts": [
   {
-   "fact": "她赶路时狼吞杯面，烫也不停——痛是效率的代价，夜里还有苦寒要熬；卖面老太与她互不寒暄。",
-   "anchor": "Pain is the price of efficiency, and I need the calories before facing the bitter night waiting for me.",
-   "start": 169,
-   "end": 272
+   "fact": "没人打电话给她——除了催「没贷过的学生贷」的骗子；来电是 Dr. Voss 令她胃部打结。",
+   "anchor": "Who in their right mind would be calling me? No one calls me.",
+   "start": 1515,
+   "end": 1576
   },
   {
-   "fact": "没人会打给她，除了骗子——催她从未贷过的学生贷；来电显示是 Dr. Voss 令她胃部打结。",
-   "anchor": "No one calls me. Well, no one except the occasional scammer insisting I’ve fallen behind on student loans I never took out.",
-   "start": 1560,
-   "end": 1683
-  },
-  {
-   "fact": "四个月前第三次自杀未遂（这次吞药而非刀），治疗师 Helena Voss 本有充分法律依据收治她，却改成协议：每周谈话换不进院。",
-   "anchor": "After my third failed suicide attempt four months ago—pills this time, instead of the blade that left the jagged, raised scars on my wrists—she had all the legal grounds she needed to have me committed.",
+   "fact": "四个月前第三次自杀未遂（吞药），Helena 有法律依据收治却改协议：每周谈话换自由。",
+   "anchor": "After my third failed suicide attempt four months ago—pills this time",
    "start": 3378,
-   "end": 3580
+   "end": 3447
   },
   {
-   "fact": "她把每周五的通话看作拴狗绳——长到允许她换城市，短到无法彻底消失。",
-   "anchor": "A leash just long enough to let me move cities but not enough to disappear completely.",
-   "start": 3981,
-   "end": 4067
+   "fact": "每周五通话=拴狗绳：长到能换城市、短到无法消失；明日还有一场（会议改期）。",
+   "anchor": "Now I’m tethered to Helena by a phone call each Friday afternoon.",
+   "start": 3915,
+   "end": 3980
   },
   {
-   "fact": "医生问睡眠，她想到梦和花却选择撒谎；情绪也用「Stellar／拉拉队」的讽刺应付；自曝仍是波士顿那个 depressed piece of shit，只是换了景色和气温。",
-   "anchor": "Instead, I say, “Fine. No issues.”",
-   "start": 7815,
-   "end": 7849
+   "fact": "72 小时强制留观她经历过——知道里面的噪音、强制社交与居高临下的员工是另一种地狱，所以接受协议。",
+   "anchor": "I agreed because the alternative was worse. Having spent time in a seventy-two hour hold once before",
+   "start": 3704,
+   "end": 3804
   },
   {
-   "fact": "她发现走廊有扇只有本层能进的屋顶门、她的钥匙能开而房东从未提过——她把宇宙当成提供自杀出口的同谋；还盘算过冻死的方式。",
+   "fact": "医生问睡眠，她想起梦与花却撒谎「Fine. No issues」；情绪答「Stellar/拉拉队」。",
+   "anchor": "I falter in my steps as every thought snaps to the dreams and the flowers that appear after them.",
+   "start": 7559,
+   "end": 7656
+  },
+  {
+   "fact": "自曝仍是波士顿那个 depressed piece of shit，只换了景色与气温；Emily=四号寄养妈妈因胸部嫉妒赶她走。",
+   "anchor": "I’m still the same depressed piece of shit I was in Boston",
+   "start": 8179,
+   "end": 8237
+  },
+  {
+   "fact": "发现屋顶门（钥匙能开、房东未提）——她把宇宙当自杀出口的同谋。",
    "anchor": "Maybe it’s the universe nudging me along, providing a convenient exit strategy.",
    "start": 10433,
    "end": 10512
   },
   {
-   "fact": "章末脊背刺痒、寒毛立起后，一股安抚性的暖意包住她，有东西温柔地替她拨开头发。",
-   "anchor": "But then a sense of calming warmth envelopes me, my eyes closing, willing my body to fall into its familiarity.",
+   "fact": "章末：脊背刺痒、寒毛立起后一股暖意包住她，有东西替她拨开头发——「被观察」升级「被触碰」。",
+   "anchor": "But then a sense of calming warmth envelopes me",
    "start": 12214,
-   "end": 12325
-  },
-  {
-   "fact": "她决定：哪怕自己正在发疯，这份触感也太好了，不肯撒手——「被观察」本章升级为「被触碰」。",
-   "anchor": "I don’t even care if I’m going crazy…this feels too nice to let go.",
-   "start": 12395,
-   "end": 12462
+   "end": 12261
   }
  ]
 }

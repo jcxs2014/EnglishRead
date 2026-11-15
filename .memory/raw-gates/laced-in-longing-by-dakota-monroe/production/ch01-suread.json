@@ -4,52 +4,52 @@
  "text": "notes/books/novels/laced-in-longing-by-dakota-monroe/text/ch01_1_chapter_one.txt",
  "facts": [
   {
-   "fact": "梦里有被静态裹住的男性轮廓观察她，她听得到低沉声音念她名字；她不害怕，反而认得这声音。",
+   "fact": "梦夜复一夜回来，像认出她灵魂里有东西在死去的秃鹫；场景换、被注视感不变。",
+   "anchor": "They sneak back night after night, circling like vultures that recognize the scent of something dying in my soul.",
+   "start": 86,
+   "end": 199
+  },
+  {
+   "fact": "梦中男性轮廓裹在静电/白色噪点里，像老电视信号不良；她确信他在看她。",
    "anchor": "He’s cloaked in static; a silhouette of white noise that shifts and buzzes in a way that reminds me of reception on an old television.",
    "start": 453,
    "end": 587
   },
   {
-   "fact": "每天早晨夜柜上准时出现一朵干压花，今天的是黑大丽花；她不知道花怎么进来的——公寓在六楼顶层、门和窗都上三重锁。",
+   "fact": "每天清晨夜柜准时多一朵干压花（今日为黑大丽花）；门三重锁、六楼顶层，花来历成谜。",
    "anchor": "Each morning, without fail, a new one waits on my nightstand. Dried and pressed flat.",
    "start": 1217,
    "end": 1302
   },
   {
-   "fact": "她把干花收进前租客留下的玻璃罐，舍不得扔；她觉得留花的人懂她——她要的不是鲜艳鲜花，而是「已活完使命之物的安静尊严」。",
-   "anchor": "They feel too precious to throw away. It’s a peculiar thrill to know that whoever leaves them understands exactly what I prefer: not the garish quality of fresh blooms but the quiet dignity of things that have already lived their purpose.",
+   "fact": "她把干花收进前租客留下的玻璃罐舍不得扔——收藏癖首次登场。",
+   "anchor": "They feel too precious to throw away.",
    "start": 2905,
-   "end": 3143
+   "end": 2942
   },
   {
-   "fact": "蒙特利尔是她八年里的第九个城市；18 岁被最后一个寄养家庭赶走，档案里全是「太安静、太疏离、无法亲近、太想自杀」的转手理由。",
+   "fact": "蒙特利尔是八年第九城；18 岁被最后一家寄养家庭用垃圾袋赶出门，档案全是转手理由。",
    "anchor": "Montréal marks my ninth city in eight years.",
    "start": 3923,
    "end": 3967
   },
   {
-   "fact": "她在新工作做应收账款，选这份工作图的是人际接触最少；邻座 Chris 邀她与新同事吃泰国菜被她用谎话推掉。",
+   "fact": "新工作做应收账款，图人际接触最少；Chris 邀午餐被谎拒。",
    "anchor": "I work in accounts receivable, tracking payments, sending reminders for overdue invoices, and reconciling bank statements.",
    "start": 8961,
    "end": 9083
   },
   {
-   "fact": "她 27 岁，身上有自残疤痕：手腕竖线（自杀未遂）、大腿横线、肋骨烧伤；下次再失败她不想再进精神病房。",
-   "anchor": "Vertical lines across my wrists where I tried and failed. Horizontal lines along my thighs where I succeeded in a different kind of release.",
+   "fact": "打工只为薪水养水晶收藏；晚间仪式=泡茶+把玩水晶（黑曜石/紫水晶/拉长石等），「完美地无用」。",
+   "anchor": "I’m here for the paycheck, nothing more. Just enough to fund my collection.",
+   "start": 8323,
+   "end": 8398
+  },
+  {
+   "fact": "27 岁；手腕竖线（自杀未遂）、大腿横线、肋骨烧伤；章末入睡听见低语「Maven」。",
+   "anchor": "Vertical lines across my wrists where I tried and failed.",
    "start": 19759,
-   "end": 19899
-  },
-  {
-   "fact": "晚间仪式是泡茶和把玩水晶收藏（黑曜石球、紫水晶、拉长石、虎眼石等）——不为疗愈，只为「完美地无用」，这是她打工的全部理由。",
-   "anchor": "Mine serve no purpose beyond their existence. They are perfect in their uselessness.",
-   "start": 16617,
-   "end": 16701
-  },
-  {
-   "fact": "章末入睡时她又听见那声低语「Maven」，像祈祷又像承诺；黑暗把她拉进有「某人/某物」永远在等她的梦。",
-   "anchor": "My name, spoken like a prayer. A promise.",
-   "start": 20913,
-   "end": 20954
+   "end": 19816
   }
  ]
 }
