@@ -23,7 +23,7 @@ modified: "2026-11-15"
 > **原句 2:** "They were in a constant rotation, maximizing the hours between mortal needs."
 
 **中文理解**： 三个 Parcaetes 与她一个凡人轮班，以最大化两个凡人需求之间的间隙。
-**关键词**：three Parcaetes and only one of me / a constant rotation / maximizing the hours between mortal needs
+**关键词**：a constant rotation / a constant rotation / maximizing the hours between mortal needs
 **为什么这样写**：作者用一句结构说明写出残酷的算术：三个不死者围着一个人类凡人转。她的疲惫不只是生理的，更是结构性的——她是这套系统里唯一的瓶颈。
 **读者视角提示**：这个轮班安排后来会证明她的价值（ch25+ 的研究进展多在她醒着的时候），也会耗尽她。
 
@@ -37,14 +37,14 @@ modified: "2026-11-15"
 > **原句 4:** "I had already begun to wrap more hope around that endeavor than I cared to admit. … My father had never included me in his quest, other than to place me exactly where he wanted me."
 
 **中文理解**： 她围绕「解药」这件事裹上的希望，已经比自己愿意承认的更多。……父亲从未把她纳入他的研究，除了把她精准放到他想让她站的位置。
-**关键词**：wrap more hope around that endeavor / let me study with them / never included me in his quest
+**关键词**：wrap more hope around that endeavor / never included me in his quest / never included me in his quest
 **为什么这样写**：作者用「裹上希望」这个动词写她的情感过程——希望是被一圈圈缠上去的，而她自己一直在假装它不存在。而 Tyber 与 Atticus 欢迎她的问题、听她那些异想天开的想法——这是她一生中第一次被当作求学者对待。
 **读者视角提示**：这一段是全书对她与父亲关系的清算：她不是父亲的同伴，是父亲的工具。而「被当作学者对待」的体验，正是她后来可能背叛父亲的真正原因。
 
 > **原句 5:** "Sending me to this fate, into the literal Heart of the enemy. They had never been as protective of me as Vastion had."
 
 **中文理解**： （她想到）他们把她送去这个命运——字面意义上的敌人的心脏。他们从未像 Vastion 那样保护过我。
-**关键词**：into the literal Heart of the enemy / never been as protective of / his clear and present defense of me
+**关键词**：into the literal Heart of the enemy / never been as protective of / never been as protective of me as Vastion had
 **为什么这样写**：作者让她在最关键处做一个对比：养父的「安排」与敌人的「保护」。这既是对家族计划的冷静评估，也是全书她情感天平倾斜的刻度。注意「字面意义上」这个限定：她说的是 Heart of Eventide 这个地名，同时暗合她此刻的处境。
 **读者视角提示**：**这是全书对「谁是敌人」的重新定义**。她的家族要她潜入敌营，而真正保护她的人是敌人。她还没有得出结论，但读者已经看到了。
 
@@ -86,14 +86,14 @@ modified: "2026-11-15"
 > **原句 11:** "The more he opened up, the less I felt the need to hide."
 
 **中文理解**： （自从发现他藏起的一切，他「奇怪地把她当朋友」——不再突然消失、不再说完最后一句就走、不再缺席饭。）他越是敞开，她就越不需要隐藏；而她越需要在夜里半醒着躺下，提醒自己 Vampyr 不可信、擅操控、不配她的同情。
-**关键词**：The more he opened up / the less I felt the need to hide / Ever since discovering all he’d been hiding
+**关键词**：The more he opened up / the less I felt the need to hide / The more he opened up
 **为什么这样写**：作者把她的沦陷写成一种需要自我提醒的病：越被坦诚对待，她越需要提醒自己不要信任。这个「越……越……」的句式正是成瘾结构——ch20 那位 Tempus 的「来遗忘或来记忆」是同一套语言。
 **读者视角提示**：**关键**：她的抵抗需要靠提醒维持，说明它正在失效。她仍不知自己已站到了「需要不断提醒自己不信任」的地步——这比任何告白都更接近背叛。
 
 > **原句 12:** "I could not allow myself to fall for him, even if just for fleeting pleasures of the flesh."
 
 **中文理解**： 她不能允许自己爱上他，哪怕只是为了那转瞬即逝的肉体欢愉。
-**关键词**：could not allow myself to fall for him / fleeting pleasures of the flesh / his masculine form against the fabric
+**关键词**：could not allow myself to fall for him / fleeting pleasures of the flesh / could not allow myself to fall for him
 **为什么这样写**：作者用「even if just for」把自己最诚实的心动降级为「哪怕只是」——她在为可能的沦陷预先开脱。而紧随其后的具体画面（屏风后的轮廓、像石头雕刻的臀部）把抽象的抵抗拉回身体：她的理智很清楚，身体已经先签了字。
 **读者视角提示**：注意「他的臀部」那一笔的坦率——本书写女主的欲望不遮掩。这与全书「引语选句要克制」的要求不同：那是写作纪律，不是文本纪律。
 
@@ -129,7 +129,7 @@ modified: "2026-11-15"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ravenous | 饥饿难耐的 | I was beginning to feel almost jealous of my Vampyr counterparts who required no rest. |
+| slumber | 睡眠、昏睡 | Each time I became too exhausted to carry on, I’d defy slumber as long as possible, fearful that I’d miss out on some important conversation or decision. |
 | idled | 闲荡、犹豫 | Having never consumed cinnamon in this manner, I idled indecisively. |
 | smirk | 得意地笑、坏笑 | When he rounded the corner, I’m certain my blush gave away my admiration, but he did not remark on it. Just smirked and carried about his business. |
 

@@ -118,7 +118,7 @@ modified: "2026-11-15"
 |---|---|---|
 | precarious | 危险的、不稳定的 | My mind teetered precariously toward a question I’d never expected. |
 | garnered | 获得、积累 | I felt myself losing what little control I’d managed to garner since my arrival. |
-| myriad | 无数 | A feeling towards his kind so foreign that I barely understood its origin. |
+| leeching | 吸取、榨取 | His tone was melancholy and somber, soaked with a sadness that pooled around his feet and curled its way up my legs like ivy, leeching something from me akin to empathy. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

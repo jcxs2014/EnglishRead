@@ -96,7 +96,7 @@ modified: "2026-11-15"
 > **原句 11:** "Esiree smirked. “Never send a king to do a queen’s job!”"
 
 **中文理解**：Esiree 嗤笑：「永远别派国王去做王后的事！」
-**关键词**：Never send a king to / You’re quite the natural / keep your confidence
+**关键词**：Never send a king to / Never send a king to do a queen’s job / Esiree smirked
 **为什么这样写**：作者用她这句俏皮话为两人分工盖棺：她做王后的事（让人爱、让花到手），他做国王的事（守卫、测试武器）。而这句宣言是在他亲眼看到她让整条街的人转身之后说的——不是自夸，是验证。
 **读者视角提示**：注意他说的「你真是个天生的」与她说的「别派国王去做王后的事」互为镜像：两人第一次各自认领了自己的位置。
 

@@ -123,7 +123,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | defiance | 反抗、不服从 | This was the real Esiree, clawing and fighting to be free of the confines of her position, and it warmed my chest to witness its rare appearance. |
-| curmudgeon | 怪僻、吝啬刻板的人 | My sister, ever intent to be a curmudgeon to Esiree said, “And you think the people are going to, what? Just let us count them so we can eat them later?” |
+| curmudgeon | 怪僻、吝啬刻板的人 | Gods help me, if she weren’t kin… |
 | glimmers | 微光、闪烁 | All along the bare, leafless tree, shimmers of sparkling red light glimmered with a dim crimson hue. |
 | dwindling | 逐渐减少 | “Vassal donations are arriving as expected, but the reservoir continues a steady decline as our daily needs and shipments to the Watch keep us in a deficit.” |
 | demeanor | 举止、态度 | She had gone from life-threatening to condescending in no time, and I knew that would irk Esiree, so I moved to place my body between the two of them as Es stepped forward to retaliate. |
