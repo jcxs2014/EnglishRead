@@ -91,7 +91,7 @@ modified: "2026-11-15"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| suppression collar | 镇压项圈（压制守护兽之力的法器） | locked a collar around Fraener’s neck（同段语境） |
+| suppression collar | 镇压项圈（压制守护兽之力的法器） | They locked a collar around Fraener’s neck, and her Guardian shrieked, toppling off her. |
 | numbed | 被压麻的 | it was like a small hum in the background now. Numbed. |
 | demonic | 恶魔般的 | It sounded demonic. Inhuman. |
 | blood-curdling | 令人血液冻结的 | A blood-curdling notion. |
