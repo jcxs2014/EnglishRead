@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch22",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "呕吐源头=龙空中「jumping」机动技能；与 Transporter 限距不同（几百英尺）",
+   "anchor": "It’s called jumping,",
+   "start": 3294,
+   "end": 3314
+  },
+  {
+   "fact": "jump 规则：只能跳到看得到的地方+须知极限——跳太远心脏会爆",
+   "anchor": "You can only jump where you can see, and you have to know your limit.",
+   "start": 6869,
+   "end": 6938
+  },
+  {
+   "fact": "passive access（意志即得：龙视/夜视/听力）vs active access（jump 须经 soul-link 直接取力，手按胸口 hum）",
+   "anchor": "You wish to see something in the distance? Your will alone grants you the ability",
+   "start": 10355,
+   "end": 10436
+  },
+  {
+   "fact": "首跳成功：她按胸口+注视落点+抬脚——成功瞬移，随后连跳十一次",
+   "anchor": "Inara disappeared, reappearing in an instant in the spot she’d been staring at.",
+   "start": 11716,
+   "end": 11795
+  },
+  {
+   "fact": "过载呕吐：连跳后胃部翻腾又吐一轮（身体不适应，正常反应）",
+   "anchor": "She felt her stomach drop, roll, do a zig-zag",
+   "start": 12527,
+   "end": 12572
+  },
+  {
+   "fact": "王子第一声笑：看她像兔子蹦跳没忍住 chuckle→guffaw",
+   "anchor": "Did you just laugh? I didn’t think you were capable of such an emotion.",
+   "start": 9209,
+   "end": 9280
+  },
+  {
+   "fact": "王子中指戒指细节：银套红宝石——他指胸口「 hum of power」教她定位链接",
+   "anchor": "His hand touched the centre of his chest.",
+   "start": 10822,
+   "end": 10863
+  }
+ ]
+}
