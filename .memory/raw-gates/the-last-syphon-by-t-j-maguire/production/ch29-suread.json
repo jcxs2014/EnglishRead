@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch29",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "Six Kings 规则：端区禁魔、中区随意、全接触运动（可推撞拉发）",
+   "anchor": "You are only allowed to use your powers in the middle zone.",
+   "start": 1282,
+   "end": 1341
+  },
+  {
+   "fact": "她主动请缨全场防王子——全村没人敢伤王储，只有她敢",
+   "anchor": "“Me!” She shook her hand furiously.",
+   "start": 5856,
+   "end": 5891
+  },
+  {
+   "fact": "她主动请缨全场防王子——全村没人敢伤王储，只有她敢",
+   "anchor": "“Me!” She shook her hand furiously.",
+   "start": 5856,
+   "end": 5891
+  },
+  {
+   "fact": "首回合神操作：中区盾远投放倒王子（他未进中区不能用魔法）、jump 掐点进场、夺球达阵",
+   "anchor": "It slammed into him so hard that it sent him flying",
+   "start": 12812,
+   "end": 12863
+  },
+  {
+   "fact": "赛后嘲讽：他瞬移起身贴脸「You have no idea what you have just unleashed」——她觉得 exciting",
+   "anchor": "“You look good on your back.",
+   "start": 14229,
+   "end": 14257
+  },
+  {
+   "fact": "球脱手滚远+他翻滚忍痛——唯一一次他被「按在地上」",
+   "anchor": "The ball had escaped Prince Walder’s grasp",
+   "start": 13238,
+   "end": 13280
+  }
+ ]
+}
