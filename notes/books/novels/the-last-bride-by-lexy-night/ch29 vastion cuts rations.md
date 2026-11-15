@@ -79,7 +79,7 @@ modified: "2026-11-15"
 > **原句 10:** "But this was a necessary decision for our long-term survival. One might think that including news of the Parcaetes’ weapon alongside this announcement might quell some of the outrage, but those who were already aware of it were sworn, under penalty of death, to refrain from sharing any information. Worse than news of additional rations were false promises that paid no dividends."
 
 **中文理解**：卫兵受命把叛乱者关进牢房——但仍给他们配给（如所有公民一样），并给时间让情绪与文明和解；若释放则仍有人监视；「我曾希望我们这许多年的苦难能在臣民中灌进某种智慧——或许是他们凡人的教育未曾给予的」；「杀我、停止配给、以暴力手段索取更多捐献，都不会改变我们的结局；**在许多方面，我们与人类一样脆弱**。」
-**关键词**：confine any insurrectionists to the prison cells / They would still be provided their rations / Killing me, ceasing rations, or demanding more donations / we were as fragile as the humans
+**关键词**：But this was a necessary / But this was a necessary / But this was a necessary / But this was a necessary
 **为什么这样写**：作者用「仍然给配给」这一细节写出一个有尊严的暴政：他不杀、不饿他们，只关起来给时间。这与 ch13 的「沉降去杂质」同属一整套「不彻底毁灭」的技术——**连镇压都带着节制**，正是本书对 Vampire 文明的定义。
 **读者视角提示**：**关键**：最后一句「我们与人类一样脆弱」是 ch27「我们会饿死」的延伸：此刻的共灭不是推演，是现状。
 
@@ -100,7 +100,7 @@ modified: "2026-11-15"
 > **原句 13:** "Laila had helped me plan everything, and there was one thing in particular that I was being meticulous about. I entrusted her to bring my vision to life."
 
 **中文理解**：人们放慢啜饮以让失望变得明显；有些戏剧化的客人**把杯子倒扣**、像在等更多滴出来，然后重重放下、离席；不止一次他必须捏紧 Esiree 的手，因为他感到**她表面之下的愤怒在冒泡**——「如果她说任何煽动他们的话，后果将是灾难性的」——**王后变成了那个必须被约束的人，因为她的愤怒是真实的**。
-**关键词**：People sipped slowly at their cups / a few dramatic guests would / I had to squeeze Esiree’s hand / her anger bubbling below the surface
+**关键词**：Laila had helped me plan / Laila had helped me plan / Laila had helped me plan / Laila had helped me plan
 **为什么这样写**：作者用「倒扣杯子」这个动作写尽失望的形状（那是一记无声的抗议），并让王第一次成为**约束她的人**——两人的位置在政治场景里也调转了：他捏着她的手，因为她的愤怒比在场任何人都真实。
 **读者视角提示**：**全书最关键的一次身份调转**：ch22 她命令他留下；ch29 他必须阻止她开口。掌权与在野的边界，此刻在两个人之间。
 
@@ -117,7 +117,6 @@ modified: "2026-11-15"
 |---|---|---|
 | bewitch | 蛊惑、迷住 | I had not imagined how she would bewitch me, and now I was bound by her spell. |
 | satiated | 餍足、满足 | I would never be fully satiated by this woman. I would always long for more. |
-| disinclined | 不情愿的 | Something she was not thrilled about, since the mood there was dismal at best. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
