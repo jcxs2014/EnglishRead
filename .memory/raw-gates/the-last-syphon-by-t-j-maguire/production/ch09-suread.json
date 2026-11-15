@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Felix 拆穿她的「我就看看」：她要评估其他盾卫者，看有没有可学的",
+   "anchor": "She wants to evaluate the other Shielders. See if they’re better than her.",
+   "start": 2364,
+   "end": 2438
+  },
+  {
+   "fact": "Larissa 以「意外」为名放箭雨偷袭，被她及时盾挡",
+   "anchor": "The arrows hurtling towards them smashed against her impeccably timed shield",
+   "start": 2917,
+   "end": 2993
+  },
+  {
+   "fact": "被辱「你们边境人就是蠢」后黑暗之声再度诱惑她杀掉 Larissa；她靠母亲的告诫压下",
+   "anchor": "Kill her, the Dark Voice taunted in Inara’s head.",
+   "start": 3946,
+   "end": 3995
+  },
+  {
+   "fact": "Na-Ri 生于边境、 Trials 垫底，为留在 Larissa 圈子里只能任其羞辱",
+   "anchor": "If she wishes to remain in Larissa’s inner circle, she must.",
+   "start": 8981,
+   "end": 9041
+  },
+  {
+   "fact": "高议会不许 Chosen 参加 Shielder Trials（公主转述规定）",
+   "anchor": "The High Council will not permit a Chosen to participate in The Shielder Trials.",
+   "start": 14209,
+   "end": 14289
+  },
+  {
+   "fact": "公主点破两难：Chosen 可从守护兽借力=不公平优势，赢了也会被议论",
+   "anchor": "Chosen are able to draw power from their Guardian.",
+   "start": 16205,
+   "end": 16255
+  },
+  {
+   "fact": "Kronan 出主意：找 Brander Melaine 做临时无效化链结的印记",
+   "anchor": "A Brander can imbue a brand to do whatever they desire, including nullifying a soul-link.",
+   "start": 17444,
+   "end": 17533
+  },
+  {
+   "fact": "她疑心被操纵陷入偏执，Felix 弹她鼻子一句话点醒（brands 非永久，值得试）",
+   "anchor": "“No. No, no, no.” Felix flicked her nose.",
+   "start": 18363,
+   "end": 18404
+  }
+ ]
+}
