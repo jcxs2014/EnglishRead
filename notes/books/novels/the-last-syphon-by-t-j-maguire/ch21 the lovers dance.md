@@ -40,7 +40,7 @@ modified: "2026-11-15"
 
 **中文理解**：「这是一对恋人的故事——命中注定要在一起，却被他们无法掌控的力量永远撕开。」
 
-**关键词**：two lovers / torn apart / beyond their control
+**关键词**：destined / torn apart / beyond their control
 
 **为什么这样写**：舞码的故事内核=全书的主题预告：「注定相爱却被外力撕开」——既是 Kronan×Phaedra 的现状，也是她与王子的命格草稿；一句话把宫廷舞会变成了预言仪式。
 
