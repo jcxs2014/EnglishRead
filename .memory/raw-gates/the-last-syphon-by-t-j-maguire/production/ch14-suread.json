@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch14",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "Walder 从不打满分的历史：最高给过 6 分（给 Larissa）",
+   "anchor": "The highest score he has graded was a six, and it was to Larissa.",
+   "start": 1540,
+   "end": 1605
+  },
+  {
+   "fact": "Larissa 42/49——要赢她必须拿到总分更高",
+   "anchor": "Forty-two points out of forty-nine.",
+   "start": 4727,
+   "end": 4762
+  },
+  {
+   "fact": "Villani 报复性打 1 分（她「偷走」他儿子结契的机会）",
+   "anchor": "With a smirk on his arrogant face, he pressed his button.",
+   "start": 6594,
+   "end": 6651
+  },
+  {
+   "fact": "Walder 破例打出 7 分——震惊全场（Felix 与 Phaedra 都张嘴）",
+   "anchor": "The number seven illuminated above his head.",
+   "start": 8614,
+   "end": 8658
+  },
+  {
+   "fact": "Larissa 指控作弊（Chosen 不公平优势），Walder 承认 “This is true.”——章尾悬念",
+   "anchor": "“That is a bold accusation, Larissa.”",
+   "start": 9345,
+   "end": 9382
+  },
+  {
+   "fact": "亮分顺序：Niya→Ophera→Tevi→Villani→Julius/Odami→Walder（5×7+1=36 分）",
+   "anchor": "Lady Niya pressed a button on the table in front of her.",
+   "start": 5307,
+   "end": 5363
+  }
+ ]
+}
