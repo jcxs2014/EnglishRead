@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "Inara 决定尽快离开 Deadhaven——王室一旦得知 Fraener 出眠就会循消息而来",
+   "anchor": "she needed to get out of Deadhaven as soon as possible",
+   "start": 315,
+   "end": 369
+  },
+  {
+   "fact": "家中：Fraener 在屋旁闭眼休憩，但意识清醒地留在她的脑中",
+   "anchor": "could almost feel his consciousness wide awake and alert in her mind",
+   "start": 1122,
+   "end": 1190
+  },
+  {
+   "fact": "猎物连年减少，逼他们深入 Arelia 境内狩猎（有风险）",
+   "anchor": "the game had slowly started to disappear",
+   "start": 3020,
+   "end": 3060
+  },
+  {
+   "fact": "Fraener 越飞越远，她的灵魂像绷到头的绳索般作痛——soul-link 的距离律",
+   "anchor": "The further he went, the more stained it became, like a tether reaching the end of its rope.",
+   "start": 3986,
+   "end": 4078
+  },
+  {
+   "fact": "Boltix 百里内独家垄断熔金重铸生意，借机漫天要价",
+   "anchor": "He was the only one within a hundred miles who was willing to melt down and reforge stolen gold",
+   "start": 5830,
+   "end": 5925
+  },
+  {
+   "fact": "「绝不往南」是二人铁律；南方有他们都知道的危险，但 Gideon 的水债逼到眼前",
+   "anchor": "We don’t go south. We never go south.",
+   "start": 6448,
+   "end": 6485
+  },
+  {
+   "fact": "村民怕 Crowned Family 来收回巨兽想让龙走；Crowned Prince 被传闻是三国最危险的人",
+   "anchor": "rumoured to be the most dangerous man in all three kingdoms",
+   "start": 12825,
+   "end": 12884
+  },
+  {
+   "fact": "Fraener 猎来烧焦的大兽放到她脚边喂她；她随后确认了 Fraener 之名（“It’s nice to officially meet you.”）",
+   "anchor": "He’s trying to feed me.",
+   "start": 14211,
+   "end": 14234
+  }
+ ]
+}
