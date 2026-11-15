@@ -111,7 +111,7 @@ modified: "2026-11-15"
 | defiance | 反抗、抗拒 | Your defiance, endearing as it may be to Vastion, must be quelled. |
 | retort | 反驳、顶嘴 | And before you begin crafting some scathing retort, know this: You are not the first human queen within these walls, and you will not be the last. |
 | culmination | 顶点、汇合之处 | This is the Sanguine Reservoir. It is the culmination of your people’s Vassal donations. |
-| juvenile | 幼年的、孩子的 | They robbed their children of a mortal life in exchange for lifetimes of ageless juvenility. |
+| juvenility | 幼年、长不大 | They robbed their children of a mortal life in exchange for lifetimes of ageless juvenility. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

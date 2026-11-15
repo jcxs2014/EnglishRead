@@ -71,7 +71,7 @@ modified: "2026-11-15"
 | inhabitants | 居民、住户 | Dead, like its inhabitants. |
 | hesitant | 犹豫的 | I approached him hesitantly, willing my feet to caress the stone floors soundlessly. |
 | carnal | 肉欲的、肉体的 | It was not in my nature to sidestep carnal encounters, but this was different. |
-| discernible | 可辨别的 | I didn’t know that attraction and lies smelled so similar. |
+| purred | 低沉地咕哝 | “I didn’t know that attraction and lies smelled so similar,” he purred, releasing me from his overwhelming presence and rising to his feet. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

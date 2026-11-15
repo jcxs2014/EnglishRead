@@ -104,8 +104,8 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | vault-keeper | 配给保管者 | “Tell the Vault-keeper to bring extra rations up, immediately…” I said, and he scurried away as I muttered, “…no thanks to my reckless wife.” |
-| repulsion | 排斥、厌恶 | What I could not understand was why she constantly danced between distaste and discomfort for my kind, but also insatiable curiosity and flirtation. |
-| cynicism | 犬儒、冷嘲 | My subjects were old, cynical, and most of all, bored. |
+| distaste | 厌恶、反感 | What I could not understand was why she constantly danced between distaste and discomfort for my kind, but also insatiable curiosity and flirtation. |
+| cynical | 犬儒的、冷嘲的 | My subjects were old, cynical, and most of all, bored. |
 
 ## 一句话总结
 迎宾宴上她一身深领口把满厅的饥饿照亮，他用加发配给替她挡下觊觎却被她将了一军；Mina 与 Falls 的追问轮番上阵，第一夜在「我的子民非常无聊」这句实话面前逼近失控。
