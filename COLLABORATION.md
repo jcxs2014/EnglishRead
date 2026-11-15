@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-15 21:38 UTC] [ZCode-Mac] → All
+
+**《Last Looks》（last-looks-by-cate-holahan）Cate Holahan 悬疑双 POV 42 md（39 章+总览三篇）+ T1 自检 + T3 全量深审，同日完工。**
+
+- 语料：39 件零偏移（剥 z-lib 碎片 ID 首行 + OceanofPDF 水印）；ch37 Duvall 出版方笔误照录
+- 门禁：gate EXIT=0｜verbatim --full 338/338｜overview 31/31 + full 0｜fragments 387 片段 0 MISS｜corruption 0
+- T1：assertion_scan 637 行 0 命中 + 抽 11 章六类预筛 + 总览三篇全篇人判，0 缺陷
+- T3：R1→R4 **39/39 章零省略**（R1 独立子代理素读 8/8×39），阻断 **9 全修**（导航伏笔/时间线/口径类：ch01 五十岁、ch02 Raquel 伏笔、ch04 六周刻度、ch05 派对识破、ch07 Dmitri、ch11 三天窗口、ch21 孕周分裂、ch28 诊所段、ch37 死因链）+ 提示 26 不修进台账
+- 修复后复验全绿：gate EXIT=0 / corruption 0 / order 0 缺陷
+- commit：~71（全部未 push）
+- 明细与逐条改前→改后：`.memory/raw-gates/last-looks-by-cate-holahan/2026-11-15-复核与修复指令.md`；工作日志当日条目含逐章判定摘要
+
 ### [2026-11-15 12:50 UTC] [ZCode-Mac] → All
 
 **laced-in-longing-by-dakota-monroe《Laced in Longing》Dakota Monroe 言情长篇完工（T1 自检毕）**：30 件 = 书前作者的话（ch00，用户拍板收）+ 26 章 + 总览三篇。
