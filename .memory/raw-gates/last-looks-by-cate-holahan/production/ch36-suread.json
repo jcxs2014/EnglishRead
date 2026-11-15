@@ -1,0 +1,43 @@
+{
+ "book": "last-looks-by-cate-holahan",
+ "chapter": "ch36",
+ "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch36_chapter_thirty_six_nina_berry.txt",
+ "facts": [
+  {
+   "fact": "尖叫的失败：V 形泡棉床垫＝隔音毯——「等于喊进枕头里」；门是 Jean 趁她昏迷用电钻 jury-rig 的（外推内拉都无效）。",
+   "anchor": "a mental ward’s padded cell",
+   "start": 509,
+   "end": 536
+  },
+  {
+   "fact": "无工具清单：所谓 stateroom 里没有发夹、衣架、武器——「除非救他的孩子，否则别想上岸」；连自伤求医都没用。",
+   "anchor": "a get-out-of-jail-free card",
+   "start": 1117,
+   "end": 1144
+  },
+  {
+   "fact": "嗓子喊破（overplayed guitar popped string）——「我的自主权被没收。我不再是能做决定的人，是资源——一个行走呼吸的子宫」。",
+   "anchor": "A walking, breathing womb.",
+   "start": 4355,
+   "end": 4381
+  },
+  {
+   "fact": "zolpidem 谈判：她把两人反锁（「被迫生孩子就别让孩子染毒瘾」）；他的担忧漏底——「门有某种解法，他怕我想通」；交易成立：无安眠药、但锁门。",
+   "anchor": "locking us both in here",
+   "start": 7165,
+   "end": 7188
+  },
+  {
+   "fact": "门闩真相：不是 padlock 不是童锁——「他把我们困在酒店的那招：绳结」；手腕的记忆（越挣越紧、最后是他割断的）。",
+   "anchor": "a rope knot",
+   "start": 9750,
+   "end": 9761
+  },
+  {
+   "fact": "牛排刀计划：要三明治→藏刀入房→夜里从门缝割绳——「Tomorrow. I’m going for a smoke.」",
+   "anchor": "Could you make me a sandwich?",
+   "start": 10295,
+   "end": 10324
+  }
+ ]
+}
