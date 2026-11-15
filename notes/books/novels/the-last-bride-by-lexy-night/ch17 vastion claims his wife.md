@@ -114,7 +114,7 @@ modified: "2026-11-15"
 > **原句 15:** "“Am I not merciful?” … He would not be so lucky should a third come to pass."
 
 **中文理解**： 「我难道不仁慈吗？」……他看得出 Tempus 明白这是他第二次赐命——不会有第三次这么幸运。
-**关键词**：Am I not merciful? / a second time / should a third come to pass
+**关键词**：Am I not merciful? / should a third come to pass / not be so lucky
 **为什么这样写**：作者用一句反问完成本章的冷硬收尾：这「仁慈」是带倒刺的恩典。ch15 里 Tempus 曾问过 Tempus 与 Mina 的嫌隙源于理念之争——如今他的「理念」站错了队，而王给了两次机会。第二次警告就是最后通牒。
 **读者视角提示**：Tempus 的处境从此确定：他欠王两条命，且已被公开定性。他与 Esiree 的联盟将带着随时可能引爆的火药。
 

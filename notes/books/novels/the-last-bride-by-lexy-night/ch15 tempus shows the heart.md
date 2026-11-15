@@ -111,10 +111,10 @@ modified: "2026-11-15"
 **为什么这样写**：全书最大的一块拼图在此落位：Kesna、Vastion 的兄弟 Harden、Tempus 三人曾共同出入梦药馆——一个「妻子与丈夫的兄弟」的关系。作者把最要命的真相交给一个被药物放松了警惕的人说出，且时间点在他「变得完全嘴松」之后。
 **读者视角提示**：**核心情报**：①国王有兄弟，名为 Harden；②Harden 已死（与 Kesna 同样「去了 Endless」）；③Kesna 与 Harden 与 Tempus 交好；④Kesna 的死与「不止一具尸体」有关。四条线索指向同一桩旧案。
 
-> **原句 15:** "This is where the sleepless come to dream. … I felt like I was stepping into freedom after days of being shackled to darkness. … “Come, dear, you look positively flushed. Our next stop will be both of need and want…”"
+> **原句 15:** "“Come, dear, you look positively flushed. Our next stop will be both of need and want…”"
 
-**中文理解**： 这是睡不着的人来这里做梦的地方。……她感到自己像是踏进了自由，在被黑暗禁锢数日之后。……「来吧，亲爱的，你看起来脸色发红。下一站既是需要，也是渴望……」
-**关键词**：where the sleepless come to dream / stepping into freedom / both of need and want
+**中文理解**： 她感到自己像是踏进了自由——在被黑暗禁锢数日之后。「来吧，亲爱的，你看起来脸色发红。下一站既是需要，也是渴望……」
+**关键词**：look positively flushed / Our next stop / both of need and want
 **为什么这样写**：作者把本章的两端用一句话缝起来：梦是自由的一种，牢笼有两种形态——洞穴与清醒。章末那句「既是需要也是渴望」是悬置：她将被带去哪里？读者和女主一起被吊着。
 **读者视角提示**：本章以「下一站」收束，悬念留给 ch16。注意她的「flushed（脸色发红）」——那不是害羞，是药效与情绪的生理反应。
 
@@ -133,7 +133,7 @@ modified: "2026-11-15"
 |---|---|---|
 | exasperated | 被惹恼的、疲惫而不耐烦的 | Tempus, on the other hand, didn’t appear the least bit exasperated. |
 | naught | 无、毫无 | When we finally reached the landing, there was naught but a poorly lit stone wall. |
-| sequester | 使隔离、幽禁 | I had essentially let a Vampyr stranger sequester me alone with no defenses and no one nearby to aid me, even if I screamed. |
+| sequester | 使隔离、幽禁 | Trying to catch my breath, I had a brief moment of fear, realizing I’d essentially let a Vampyr stranger sequester me alone with no defenses and no one nearby to aid me, even if I screamed. Which I couldn’t do successfully even if I wanted to, since I was so Gods-damned tired. Maybe this was his plan all along... |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

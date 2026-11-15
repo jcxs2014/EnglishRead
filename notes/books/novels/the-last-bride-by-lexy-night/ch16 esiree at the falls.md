@@ -51,7 +51,7 @@ modified: "2026-11-15"
 > **原句 6:** "I quickly removed my gown, but left my thin, white undergarment on, telling myself that if I had to defend myself or flee, that I wasn’t going to do it in the nude. Part of me toyed with the rationale that if Vastion was going to be furious with me, I could at least declare I hadn’t entirely crossed a boundary."
 
 **中文理解**： 她迅速脱下长袍，却保留那件薄薄的白内衣——告诉自己若要自卫或逃跑，绝不会赤身裸体。她心里还盘算：若 Vastion 要发火，至少可以声明自己没有完全越过那条线。
-**关键词**：left my thin, white undergarment on / not going to do it in the nude / hadn’t entirely crossed a boundary
+**关键词**：left my thin, white undergarment on / I wasn’t going to do it in the nude / hadn’t entirely crossed a boundary
 **为什么这样写**：作者用一件内衣写尽她的处境：她连放纵都要留后路、都要预先想好怎么向丈夫解释。她的抵抗从来不是道德的，而是策略的——这也让「越界」这个概念在她身上变成可交易的：她一直精确地计算自己越了几寸。
 **读者视角提示**：注意她此刻是独自一人（Tempus 在外守着），可她仍在计算给他看的那份口供——说明丈夫的视线从未离开她，这既可悲又精准。
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 > **原句 12:** "“You,” he said, his voice a staccato, “You invite another man to my table. You take breakfast with him. You traipse up and down my city at his side.”"
 
 **中文理解**： 「你——」他的声音像断句，「你请另一个男人坐我的桌子；你与他一同用早餐；你在他身边在我城中来回走动。」
-**关键词**：You invite another man to my table / You traipse up and down my city / against our advice
+**关键词**：You invite another man to my table / You take breakfast with him / You traipse up and down my city
 **为什么这样写**：清单式指控，每句都是她这一天的行踪，精确到让她无处辩解——他早就知道。而最后一句加了 dear Esiree：亲昵称呼嵌在威胁里，是这本书的招牌语法（甜与狠同句）。整段由「你」开头重复五次，把控诉写成节奏。
 **读者视角提示**：这一清单也说明他的情报网之细（Mina 那句「他会听说你与 Tempus 密谋」兑现了）。
 
