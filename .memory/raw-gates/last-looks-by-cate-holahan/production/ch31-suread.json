@@ -1,0 +1,43 @@
+{
+ "book": "last-looks-by-cate-holahan",
+ "chapter": "ch31",
+ "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch31_chapter_thirty_one_c_cile_duval.txt",
+ "facts": [
+  {
+   "fact": "白裙的自白书：confirmation dress 而非婚纱——「想偷无辜女人的丈夫、想杀她」两宗罪写在裙上；她的谋杀全案自评＝「转移悲伤的 sick fantasy」、毒酒剂量「至多恶心」、每个场景都「故意让自己被抓」。",
+   "anchor": "You tried to kill her.",
+   "start": 565,
+   "end": 587
+  },
+  {
+   "fact": "凌晨三点的直觉：Jean 的「喜剧专场」话里有她没听到的 punch line；Nina 一夜之间放弃事业投靠抓奸对象——「他说谎了吧」。",
+   "anchor": "Could he have been lying?",
+   "start": 2242,
+   "end": 2267
+  },
+  {
+   "fact": "凌晨酒店查证：门童睡着、礼宾部登记无 Nina/Jean——Rubis Suite「几小时前退房、已打扫」，包裹无处寄存。",
+   "anchor": "The guests that had been in the Rubis Suite left",
+   "start": 6138,
+   "end": 6186
+  },
+  {
+   "fact": "门童耳语：她被未婚夫抱进来（「午饭玩太嗨」）——Cécile 判定「她绝不会醉到不会走路；她在 spa 里都能读出警示标志」——「She'd been drugged.」（堕胎药禁酒的医理作证）。",
+   "anchor": "She was in a wheelchair.",
+   "start": 8728,
+   "end": 8752
+  },
+  {
+   "fact": "门童补证：Jean 叫车去火车站（TGV 起点）——她的推演：计划没变，把 Nina 弄上船；「去哪？等她原谅？还是找个没有目击者、能抛尸的地方？」",
+   "anchor": "Gare de Lyon",
+   "start": 10362,
+   "end": 10374
+  },
+  {
+   "fact": "她接过门童的负担与愧疚——「我只认识一个有船的男人」（结盟伏笔）；白裙与认证支票留在酒店前台无人认领。",
+   "anchor": "I’ll check on her.",
+   "start": 10889,
+   "end": 10907
+  }
+ ]
+}
