@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch18",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "唱睡规则建档：30 秒起效+必须持续唱+唱越久越弱，最长纪录三分钟",
+   "anchor": "he had to continue singing. Otherwise, they would wake.",
+   "start": 6428,
+   "end": 6483
+  },
+  {
+   "fact": "潜入两步走：首访踩点定位 vault，几天后正式偷书",
+   "anchor": "Once we’re inside, we’ll do a quick sweep to locate the vault, and then we come back in a few days to do the same thing.",
+   "start": 7693,
+   "end": 7813
+  },
+  {
+   "fact": "警讯：Larissa 降配后新 Charge=Lord Villani——两个想捅她眼的人凑成一组",
+   "anchor": "Her assigned Charge was now Lord Villani.",
+   "start": 10051,
+   "end": 10092
+  },
+  {
+   "fact": "Felix 白天侦察+偷技练习（握手顺走手镯再当场归还）",
+   "anchor": "he’d been testing his skills as a thief, introducing himself to passersbys",
+   "start": 8937,
+   "end": 9011
+  },
+  {
+   "fact": "Fraener 在房梁上用 fabrics 筑巢、吐出赃物、踩点坐窝睡——龙也偷了一天",
+   "anchor": "Fraener spat something out of his mouth.",
+   "start": 1424,
+   "end": 1464
+  },
+  {
+   "fact": "熬夜夜话收尾： chaos 中唯一没变的东西是他们的友情",
+   "anchor": "Their friendship—something she would cherish for the rest of her life.",
+   "start": 11873,
+   "end": 11943
+  }
+ ]
+}
