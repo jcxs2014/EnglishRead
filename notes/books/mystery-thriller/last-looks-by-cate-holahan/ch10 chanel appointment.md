@@ -59,7 +59,7 @@ modified: "2026-11-15"
 > **原句 8:** "“I think you already have.”"
 "Cécile’s comment precedes her entrance. She brushes past the male style consultant to take the dress from me. “You didn’t show me that.”"
 **中文理解**：Nina 说「我怕自己会爱上它」；Cécile 人未到话先到：「我想你已经爱上了。」——从她手里拿走裙子：「你没给我看这件。」
-**关键词**：I think you already have / precedes her entrance
+**关键词**：I think you already have
 **为什么这样写**：一句话完成三层入侵——接话（听见了私语）、抢衣（夺走选择）、指控（翻出隐瞒）；「人先到话先到」的出场方式是本章猎手气场最强的一次物理压缩。
 **读者视角提示**：对照第七章的红裙戏（她「请」Nina 试穿）——同样的衣架游戏，攻守互换；两个女人都在用对方的欲望做杠杆。
 
