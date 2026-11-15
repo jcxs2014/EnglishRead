@@ -35,7 +35,7 @@ modified: "2026-11-15"
 > **原句 4:** "He sets the bottle on the vanity. “How’d she get her money again?”"
 "“Made out well in her divorce.” I turn into the stream, rinsing the suds off my back and legs. “We can enjoy it tonight.”"
 **中文理解**：Jean 把酒放上梳妆台，问她钱又是哪来的；她一边冲泡沫一边复述客户的口径——离婚分得很好——并提议今晚就喝。
-**关键词**：How’d she get her money again / Made out well in her divorce / enjoy it tonight
+**关键词**：the bottle / the vanity / How’d she get her money again
 **为什么这样写**：一问一答完成三件事——Jean 在查证，Nina 在转述（替假口径多传一层），读者则刚在第五章看过这句谎言的出厂过程；谎话从客户的话术变成女友的常识。
 **读者视角提示**：注意她提议享用的是「客户的礼物」——用 Cécile 的酒庆祝自己的婚约；这瓶酒是猎手用 Étienne 的投资买来的接近权。
 
