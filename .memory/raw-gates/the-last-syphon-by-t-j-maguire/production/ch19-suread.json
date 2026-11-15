@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch19",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "边缘农民申诉：猎物锐减、动物像在逃命——她早知道此事，Walder 眼角的紧绷说明他早知且深忧",
+   "anchor": "Farmers from the very edges of Arelia, reporting that game in the forests had decreased significantly",
+   "start": 1261,
+   "end": 1362
+  },
+  {
+   "fact": "她偷藏宫廷 valuables 想寄回 Deadhaven 帮 Gideon 的款——回乡须先挣信任",
+   "anchor": "Over the last week, she’d been secretly stuffing valuables from her bedchamber into a rucksack",
+   "start": 2704,
+   "end": 2798
+  },
+  {
+   "fact": "食堂谈判：她话痨轰击（椅子/马匹/牛肉酥/臭靴子），王子当场投降",
+   "anchor": "Prince Walder stood in a huff.",
+   "start": 6837,
+   "end": 6867
+  },
+  {
+   "fact": "桌上写着 Tolanaa（死国）的卷宗被王子一掌盖死——疑云挂号",
+   "anchor": "A scroll caught her eye, and she could not help but frown. “Tolanaa?”",
+   "start": 6991,
+   "end": 7060
+  },
+  {
+   "fact": "借龙耳偷听：Na-Ri 面前只有面包卷，Larissa 连吃都不许、逼她顺从",
+   "anchor": "“...huh? Did I say you could eat?”",
+   "start": 11214,
+   "end": 11248
+  },
+  {
+   "fact": "王子被她逼出微笑： radiant/warm/captivating——她第一次承认他好看",
+   "anchor": "Radiant. Warm. Almost…captivating.",
+   "start": 15256,
+   "end": 15290
+  },
+  {
+   "fact": "同桌邀约成功：Na-Ri 挣扎后回以微笑，请他们坐下",
+   "anchor": "“Please. Sit.”",
+   "start": 16177,
+   "end": 16191
+  }
+ ]
+}
