@@ -102,7 +102,7 @@ modified: "2026-11-15"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| destined | 命中注定的 | It’s a tale about two lovers, destined to be together but forever being torn apart by forces beyond their control. |
+| destined | 命中注定的 | destined to be together but forever being torn apart by forces beyond their control. |
 | entranced | 被迷住的 | Everyone watched, utterly entranced by his performance, and begrudgingly, so was Inara. |
 | mesmerising | 令人着迷的 | Shivers danced down Inara’s spine at how beautiful they looked. She had never seen anything so mesmerising. |
 | wits’ end | 智穷计尽 | Princess Phaedra, although the woman had not verbally said it, was at her wits’ end with Inara. |
@@ -122,7 +122,7 @@ modified: "2026-11-15"
 |---|---|---|
 | goose bumps | 鸡皮疙瘩 | Goose bumps pebbled her skin. |
 | curtsied | 行屈膝礼 | Kronan bowed low at the waist. Princess Phaedra curtsied. |
-| stalking/hunting | 捕猎 | a darkness she could not place or name, haunting her. Hunting her. |
+| hunting | 猎捕 | a darkness she could not place or name, haunting her. Hunting her. |
 
 ## 一句话总结
 
