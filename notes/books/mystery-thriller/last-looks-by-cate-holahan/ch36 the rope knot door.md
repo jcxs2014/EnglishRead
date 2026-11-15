@@ -82,7 +82,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | stateroom | （船）特等舱房 | There aren’t any lock-picking devices in this so-called stateroom. |
-| jamb | 门框侧柱 | Louis freezes in the jamb. |
+| jamb | 门框侧柱 | Whatever he did to the door lock, it’s visible in the jamb. |
 | blepharoplasty | 眼睑整形手术 | If my ex were a woman, he’d have been pressured to have blepharoplasty and hair dye by now. |
 
 ### ⭐ 基础

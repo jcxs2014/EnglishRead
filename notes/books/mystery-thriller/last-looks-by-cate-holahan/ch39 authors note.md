@@ -44,7 +44,7 @@ modified: "2026-11-15"
 |---|---|---|
 | tipsy | 微醺的 | At a birthday party for her husband, we engaged in a rather tipsy discussion |
 | germs | 胚芽、萌芽（比喻想法的种子） | for allowing me to explode a germ of an idea into something with no resemblance to her life. |
-| nail salon tech | 美甲店技师 | treating the guy like a nail salon tech. |
+| a germ of an idea | 想法的萌芽 | for allowing me to explode a germ of an idea into something with no resemblance to her life. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

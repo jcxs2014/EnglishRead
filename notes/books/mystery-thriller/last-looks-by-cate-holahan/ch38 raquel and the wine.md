@@ -73,7 +73,7 @@ modified: "2026-11-15"
 | frenemy | 亦敌亦友的人 | a pen pal frenemy who shall not be named |
 | raison d’être | 存在的理由（法语） | This department store’s whole raison d’être is to infuse downtown Manhattan with Francophone culture and justify its haute couture prices. |
 | paramour | 情人 | Raquel’s paramour didn’t get caught and cut her off. He died. |
-| glowing red cross | 药房的红十字霓虹 | beelining toward the pharmacy’s glowing red cross. |
+| inebriated | 醉态的、烂醉的 | His booking the boat for two months and my seemingly inebriated exit from our hotel only bolstered my story. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -85,8 +85,8 @@ modified: "2026-11-15"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| stilettos? 已用 ch02 | — | — |
-| stubble | 胡茬 | the salt-and-pepper stubble on Jean’s chin |
+| gala | 盛会、晚会 | “Raquel. For the hospital’s spring gala? Thoughts?” |
+| voicemails | 语音留言（复数） | one day he stopped returning my voicemails and texts. |
 | wine stations | 酒站 | This store features wine stations in every major department. |
 
 ## 一句话总结
