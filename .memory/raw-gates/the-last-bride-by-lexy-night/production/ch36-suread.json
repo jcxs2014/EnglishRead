@@ -1,0 +1,97 @@
+{
+ "book": "the-last-bride-by-lexy-night",
+ "chapter": "ch36",
+ "text": "notes/books/novels/the-last-bride-by-lexy-night/text/ch36_chapter_36.txt",
+ "facts": [
+  {
+   "fact": "他的变身（全书最重）：「他们以我不再能支配的恐惧看着我。我在感觉到心脏第一次跳动的那一刻就知道了——**那是在几个世纪的沉睡之后一声震耳欲聋的苏醒**；那声音在我耳中像一段外来的鼓点，一段记忆的影子，令我难以置信地震惊。第一次为空气而吸气时我确信自己正在死去——**我想，这就是 Endless（无尽）的门槛**。」",
+   "anchor": "They watched me with a fear I no longer commanded. I knew it the second I felt the thumping of my heart, a deafening reawakening after centuries of slumber.",
+   "start": 36,
+   "end": 192
+  },
+  {
+   "fact": "身体的回归（关键）：「但随着一口呼吸系上下一口，我狂乱的心跳慢了下来；我的肺开始以被遗忘的必需之物起伏；肾上腺素在血管里奔涌，**而某种新的东西被安放在它旁边**。」",
+   "anchor": "But as one breath became tethered to the next, my frantic heartbeat slowed.",
+   "start": 408,
+   "end": 483
+  },
+  {
+   "fact": "温度（关键）：「最刺人的是**热**。我曾像石头一样冰冷，如今的皮肤开始出汗——那是一场痛苦的尝试，要调节这团新的内火。」而 Ari 与父亲各自握着临时武器、不知面前是什么生物；「**我，数百年来从未有一刻虚弱，此刻却蜷缩在包裹灵魂的脆弱壳里。**」",
+   "anchor": "Most jarring was the heat. My skin, once as cold as stone, began to perspire, an agonizing attempt to regulate this new internal fire.",
+   "start": 740,
+   "end": 874
+  },
+  {
+   "fact": "獠牙（全书最关键）：「我试着让獠牙伸出来。**什么都没有**——连牙龈里一丝胀痛都没有。」（对照 ch35 他抓着自己的嘴、獠牙缩回——此处确认这是永久的。）",
+   "anchor": "I tried to unsheathe my fangs. Nothing. Not even a twinge of pressure in my gums.",
+   "start": 1097,
+   "end": 1178
+  },
+  {
+   "fact": "生理需求（关键）：「『水，』我沙哑地说，那个词在我喉咙里噼啪作响，『我。需要。水。』」——**一个活了几世纪的吸血鬼第一次口渴**。",
+   "anchor": "“Water,” I rasped, the word crackling in my throat. “I. Need. Water.”",
+   "start": 1626,
+   "end": 1695
+  },
+  {
+   "fact": "饥饿（关键）：他拼命喝水、水从下巴滴落、胸口起伏；「**随后还有一种难以言喻的饥饿开始从胃底涌起**」——而他「拒绝命名的那个真相」是：**他不是死了，而是变回了人**。",
+   "anchor": "Then, too, came an indescribable hunger, beginning to well in the pit of my stomach.",
+   "start": 1885,
+   "end": 1969
+  },
+  {
+   "fact": "**全书最重的一句（独立成段）**：**「Human. I was human.（我是人。我曾经是人／我是人类了。）」**——作者用两个单词独立成段，完成一次身份的根本改写。",
+   "anchor": "Human. I was human.",
+   "start": 2074,
+   "end": 2093
+  },
+  {
+   "fact": "**全书解药真相（核心）**：「真相写在我皮肤的热度与心的跳动里。**Esiree 的血不只是食物——它是一次生物学层面的撤销。**我喝下的每一滴都像一剂字面意义上的 antidote；那是一个罕见、也许是唯一的 cure，**在我血管里追猎那疾病，直到我体内的 Vampyr 被饿死。**」——**父亲的毒血计划意外造出了解药**。",
+   "anchor": "The truth was written in the heat of my skin and the beating of my heart. Esiree’s blood had been more than mere sustenance; it was a biological undoing. Every drop I’d consumed acted as a literal antidote; a rare and possibly singular cure that had hunted the disease through my veins until the Vampyr in me was starved out.",
+   "start": 2096,
+   "end": 2421
+  },
+  {
+   "fact": "**他的第一件事（全书关键）**：他在自己的变身震惊中，第一件事是要求救她：「**在她自己的否认中我喊出：帮帮她，求你们帮帮她！**」而对 Ari「她什么时候会开始饥饿？」的恐慌，他答：「**她没有……染病**——她不会转化；你们必须处理她的伤口，现在！」——**读者此时才明白：她被 Forlorn 抓伤，那伤本身带毒，而父亲的烧灼疗法正在救她**。",
+   "anchor": "“Help her,” I uttered through my own denial. “Please, help her!”",
+   "start": 2424,
+   "end": 2488
+  },
+  {
+   "fact": "**父亲的诊断（全书关键）**：Nile 以化学家读冗长事实清单的干冷口吻确认：「**他有脉搏；他会流血却不愈合；他需要真正的食物；我找不到任何证据表明他保留哪怕一项 Vampyr 特征。**」——**父亲从「敌人」变成了唯一有能力诊断王的人**，而这份诊断同时宣判了毒血计划的意外成果。",
+   "anchor": "Nile confirmed Orin’s suspicions with the dry detachment of a chemist reading a litany of tedious facts. “He has a pulse. He bleeds yet does not heal. He requires true sustenance. I have found no evidence to suggest he retains a single Vampyr trait.”",
+   "start": 7816,
+   "end": 8066
+  },
+  {
+   "fact": "**答案（全书最重的一答）**：Orin 追问原因，他下巴朝沉睡的妻子一点：「**是她。**」——两个字，全书最大谜团的答案：**让 Vampyr 变回人的是 Esiree 的血。**",
+   "anchor": "“Her,” I answered, jutting my chin toward my resting wife.",
+   "start": 8516,
+   "end": 8574
+  },
+  {
+   "fact": "坦白与承担（关键）：「**我试图转化她——为了救她！**」Orin 咆哮「那是叛国，你知道吗！」并指控他「为——冒了一切险——」他打断：「**我还会再这么做一次！**」",
+   "anchor": "“She was clawed, not bitten, though her wounds were still grave,” I said, wincing as the phantom heat of her blood returned to my tongue. “I tried to turn her. To save her!”",
+   "start": 8699,
+   "end": 8872
+  },
+  {
+   "fact": "**全书主题的对峙（核心）**：Orin 咆哮：「你将失去你的王国与王冠——凭某种邪恶巫术，你失去了你的力量！」他答：「**而我重新获得了我的人性。**你难道看不出来吗？**她就是解药！**」——**全书最重要的一次翻转**：他不再为失去力量而悲悼，他把它称作「重新获得人性」。",
+   "anchor": "“And now you will lose your kingdom and your crown. Through some foul witchcraft, you have lost your power!” he snarled, like a brother scolding their reckless sibling.",
+   "start": 9163,
+   "end": 9331
+  },
+  {
+   "fact": "**新的行动（关键）**：他的计划：「我们必须回 Eventide；**Parcaetes 是唯一能给出我们所需答案的人**」；Orin：「你要我把一个**如今是人类的** Devana 国王偷运回那座全是 Vampyr 的城？他们会因隐瞒这种……起尸术把我们全砍头？」他答：「是。你告诉他们我们两人都受了重伤；我们尽快动身，只带我们信得过的人；**你和 Alyric 必须判断谁可以被要求保密**。」",
+   "anchor": "“That is why I need your help.” I had been feverishly crafting a plan, one that required us to escape from Leto uncaptured. “We must return to Eventide. The Parcaetes are the only ones who might provide the answers we seek.”",
+   "start": 9636,
+   "end": 9860
+  },
+  {
+   "fact": "**结尾的问句（全书主题句）**：他以低沉而坚定的声音说：「**我仍是国王。她仍是你们的王后。**唯一剩下的问题是，Orin——**你仍是我忠诚的统领吗？**」——**全书以一个问句收束第一章的困境**：一个变成人类的王，如何在吸血鬼的城中继续做王。",
+   "anchor": "“I am still the king. She is still your queen,” I stated, my voice low and unwavering. “The only question that remains, Orin... Are you still my loyal commander?”",
+   "start": 11945,
+   "end": 12107
+  }
+ ]
+}
