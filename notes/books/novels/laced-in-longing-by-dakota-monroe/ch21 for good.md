@@ -73,6 +73,7 @@ modified: "2026-11-15"
 **读者视角提示**：这句话是全书结尾的埋线（对照 ch19 她的召唤与本章的放弃）——「听得见但不回来」意味着她必须成长到「值得他违反条款」的程度他才肯破例；记住这个不对称：他的门从里面锁上了，钥匙在她嘴里。
 
 > **原句 10:** "The problem is solved. Crisis averted."
+> "So why does it feel like I’ve made the worst mistake of my life?"
 > "I curl onto my side, dust from the floor coating my airway with each inhale. His scent still clings to the shirt I wear, a ghost of his presence that will fade all too soon."
 > "“Yes, go! Go and don’t come back!”"
 > "But he’s already gone, and the only answer is the shattered echo of my own voice."

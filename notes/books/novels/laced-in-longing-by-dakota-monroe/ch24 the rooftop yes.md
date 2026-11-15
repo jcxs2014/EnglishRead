@@ -92,7 +92,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sneakers | 运动鞋 | Snow’s packed hard on the path, glazed with ice, and my sneakers—because of course I didn’t put on boots. I’m an absolute genius—slide out from under me twice on the way up. |
-| windshield | （车）挡风玻璃 | A taxi driver gestures angrily through his windshield, mouth moving in what I assume are curses I can’t hear through the glass. |
+| wellness check | 精神状况上门检查（俚语） | My throat’s as raw as my heart—which is so fucking cheesy to say, but it’s true. I hurt. Tears stream down my face and freeze at my jaw while my nose drips over my lip. Here I am, screaming, crying, snotting, and holding a mason jar of dead flowers like a lunatic, and honestly? If someone called a wellness check on me right now, I’d have to admit they had a point. |
 | shimmering | 微光闪动的 | My scars catch the light from a streetlamp, almost shimmering in their brightened color. |
 
 ## 一句话总结

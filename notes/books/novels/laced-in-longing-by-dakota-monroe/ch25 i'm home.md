@@ -16,7 +16,7 @@ modified: "2026-11-15"
 
 > **原句 1:** "His face…it’s beautiful. He’s beautiful."
 > "The veil no longer covers an inch of him—he’s just here, in the doorway, wearing cream-colored linen clothing, and looking like the most casual, happy man."
-> "I know that jaw. I sat on a freezing roof and mapped it with my fingertips—the sharp turn of it under his ear, the strong cut of the bone, the way it narrows at the chin. I know that nose, the set of his brows, the slight arrogance on his smirking lips."
+> "It has to be him. I know that jaw. I sat on a freezing roof and mapped it with my fingertips—the sharp turn of it under his ear, the strong cut of the bone, the way it narrows at the chin. I know that nose, the set of his brows, the slight arrogance on his smirking lips."
 
 **中文理解**：他的脸……很美。他很美。纱已一寸不剩——他就站在门口，穿奶油色亚麻衫，像个最寻常的、快乐的人。她认识那下颌：她在冰冷的屋顶上用指尖测绘过——耳下的转折、骨头的棱线、收进下巴的坡度；还有鼻、眉、笑唇上那点傲气。
 **关键词**：The veil no longer covers / most casual, happy man / mapped it with my fingertips
@@ -59,13 +59,12 @@ modified: "2026-11-15"
 **为什么这样写**：道歉没收令——他把她的自责系统整个查封；「not tolerate」的强硬措辞配最轻的拇指动作：这是全书「力量与温柔」的最后一组合照，罚则与擦泪由同一根手指执行。
 **读者视角提示**：对照 ch08「I let her believe this. It is kinder than the truth」——本章他把「 kinder 」升级成制度：连「觉得对不起」都不许；他对她的保护从挡刀扩容到「接管她的自我审判庭」。
 
-> **原句 7:** "He’s standing very still by the door, brows creased together. “Every one. One thousand three of them. The flower in each is the one you loved best that life. You changed your mind constantly, and in some you favored more than one.”"
+> **原句 7:** "I open another at random to a rusty marigold; the letter underneath is four lines long, and one of them says ‘you were happy today, and I will keep it for both of us.’ I drop to the floor as my legs give out. Ash lowers himself next to me a moment later."
 > "“I gave them to you,” he says. “Each morning. I thought they would bring you some joy, and since I wasn’t able to give you my voice or the truth, I gave you the only thing I could leave behind.”"
-
-**中文理解**：他一动不动站在门边，眉头拧着。「每一世都有。一千零三封。每封信里的花，是那一世你最爱的一种。你总换口味，有几世偏爱不止一种。」「是我送的，」他说。「每天早上。我想着也许能给你一点快乐——既然我给不了你我的声音、给不了真相，我就给你唯一能留下的东西。」
-**关键词**：One thousand three of them / the one you loved best that life / the only thing I could leave behind
-**为什么这样写**：花罐的考古报告在此公布——每朵花=某世她最爱之花，送花史=千年口味档案；「couldn't give you my voice or the truth」一句把全书的禁令清单（纱/名/规则）归拢成一个「只能留花」的哑巴深情，前 24 章的悬念全部兑换完毕。
-**读者视角提示**：对照 ch23「Those damn flowers」到本章——她嫌弃过的「垃圾」原来是他能给的极限；这本书对「仪式感」的定义在此封顶：礼物不是心意，是「戴着镣铐还能递出的全部」。
+**中文理解**：她随手翻开一卷——一朵锈色万寿菊，信只有四行，其中一行写着「你今天很开心，我会替我们俩把这份开心存着」——她的腿当场软了。他挨着她坐下补全来源：「这些是我送的。每天早上。既然我给不了你我的声音、也给不了真相，我就给你唯一能留下的东西。」
+**关键词**：rusty marigold / you were happy today / the only thing I could leave behind
+**为什么这样写**：花的谜底在此完成最后一层翻转——不是他挑的花，是「每世她最爱的花」＋一封手写信：盲信无法送达的年代，花是可邮寄的注视；「keep it for both of us」把收藏行为定义为双人会计——她存花，他存字，两套档案千年后终于合并。
+**读者视角提示**：对照 ch23 的空花瓶之痛与本章——她此刻才知道每朵花都「附带一封没寄出的信」；她把罐子塞满的那些清晨，他都在同一时间写信——两个人的孤独原来一直是双机位拍摄。
 
 > **原句 8:** "I didn’t know it was possible to feel like this," I say—to him or myself, it no longer matters. "I want you to understand that I’ve spent twenty-seven years with a hole in me, and I thought I was born wrong, but it turns out I was just…I don’t know the word for it."
 > "“Homesick.” He’s exactly right."
@@ -109,7 +108,7 @@ modified: "2026-11-15"
 |---|---|---|
 | cornflowers | 矢车菊 | You love the cornflowers in this life. You put them in your hair when you were young. They were perfect on you. |
 | lilac | 丁香花 | You’ve loved the white lilac ever since you first saw them behind your father’s cabin. |
-| marvel | 奇迹般的存在、奇观 | Without his long coat, dressed only in the sheet tangled around his hips, his body is a marvel of contradictions—powerful yet elegant, clearly not human but shaped like one. |
+| copper | 铜（器皿材质） | There’s a kitchen with copper pots hanging from the ceiling and a long table scarred from use. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

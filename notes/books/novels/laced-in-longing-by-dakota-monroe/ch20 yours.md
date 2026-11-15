@@ -6,7 +6,7 @@ modified: "2026-11-15"
 # 20. Chapter Twenty
 
 ## 本章导航
-- **一句话概括**：她召唤、他出现、她索吻——神在最后一寸停下，要求「说出的话」；她说「I want this. I don't care what it costs」，他纠正「You have everything to gain」；章末两个人都在哭——一个终于被问「想要什么」，一个终于不必再等。
+- **一句话概括**：她召唤、他出现、她索吻——神在最后一寸停下，要求「说出的话」；她说「I don't care what it costs」，他纠正「You have everything to gain」；章末两个人都在哭——一个终于被问「想要什么」，一个终于不必再等。
 - **情感弧线位置**：第二十拍：合欢章＝同意仪式章——「说出来的话」是契约的最后一枚印章；本章之后「选择」从威胁变成既成事实。
 - **Tropes 兑现/反转**：兑现「初夜」；反转在权力位——能拆世界的人在颤抖等许可，一辈子被推来推去的人第一次被问「你想要什么」；「You have everything to gain」改写她的清仓逻辑。
 - **人物弧线**：Maven 的「worth loving」从猜想变证词（他看着疤痕不移眼）；她第一次主动索吻、第一次说「Yours」。
@@ -69,15 +69,15 @@ modified: "2026-11-15"
 > **原句 8:** "“I am terrified,” he corrects, catching my wrist to drag his teeth across my pulse point. “That I will wake and find this was only another dream. That I will blink and you will be gone, running into another life where you tell me no once more.” A deep breath. “I do not think I could survive it again. Not after this.”"
 
 **中文理解**：「我是吓坏了，」他纠正她，扣着她的手腕、用牙齿擦过她的脉搏。「怕醒来发现这只是又一场梦。怕我眨一下眼你就不见了——跑进另一世、再对我说一次不。」深呼吸。「我再撑不过一次了。在这个之后。」
-**关键词**：I am terrified / tell me no once more / could not survive it again
+**关键词**：I am terrified / tell me no once more / not after this
 **为什么这样写**：全书的权力装置在此反装——无所不能的神交代自己唯一的死穴（再被拒一次）；「not after this」三个词给本章的性行为加上存在论的重量：这不是高潮，是孤注——他把全部神性押在了她的「要」上。
 **读者视角提示**：对照 ch11 的「I will need to be careful」与 ch18 的代价——他的脆弱清单不断加长：怕 Bright Gods、怕失去她、怕这场是梦；神的恐惧人类化是本书对他去恐怖化的主手法。
 
-> **原句 9:** "“Because your soul remembers. It is only you recognizing home.”"
-> "He doesn’t pull away. He just holds me, and when I feel wetness against my collarbone that isn’t sweat, I realize the God of Longing is crying too."
+> **原句 9:** "“Why am I crying,” I laugh, the words wet, and he lifts his head, thumb catching the liquid on my temple."
+> "“Because your soul remembers. It is only you recognizing home.”"
 
 **中文理解**：「因为你的灵魂记得。这只是你在认出家。」——他不抽身，只是抱着她；当她感觉到锁骨上的湿意不是汗的时候，她明白了：渴望之神也在哭。
-**关键词**：your soul remembers / recognizing home / the God of Longing is crying too
+**关键词**：your soul remembers / recognizing home / thumb catching the liquid
 **为什么这样写**：章末把「哭」设计成双人份——她的泪被解释为乡愁（灵魂认家），他的泪无人解释、只给特写；「crying too」的 too 字让两场泪合并成同一件事：这一夜对两人都是回家，只是方向相反——她从外面回来，他从等待里出来。
 **读者视角提示**：对照 ch08「I would have given anything, everything—could only observe」——那个只能旁观的眼泪，第一次流在她看得见的地方；他的等待在本章正式清算完毕，下一章起他们是「已经在一起」的人。
 

@@ -51,7 +51,7 @@ modified: "2026-11-15"
 **为什么这样写**：实验报告式结论——两次站位测试（隔间 vs 窗边）排除变量后，病因锁定为「实体化」本身；「seams of their sanity」宣告规模：受影响的不止办公室，是所有靠近他的人的神经。
 **读者视角提示**：这是全书机制层的最大升级：他的「来陪她」变成了「公共污染」——他越想守护她，世界的平衡越被撕开；记住这条代价曲线，它决定后文每次团聚的含金量。
 
-> **原句 6:** "“That you remain the only one who can see me.” A truth wrapped in a lie. My favorite kind."
+> **原句 6:** "“That you remain the only one who can see me.” A truth wrapped in a lie. My favorite kind. “It seemed prudent to check, given how this world keeps rearranging itself around us.”"
 > "She bites her lip before carefully grabbing both flowers. Each caress of the dark petals is careful and reverent. Something in me settles at the sight."
 
 **中文理解**：「确认你仍是唯一看得见我的人。」真相包着谎言——他最爱的配方。她咬着唇，小心地接过两朵花：指尖对深色花瓣的每一次抚弄都轻而虔诚。他内心有什么东西在这一幕里落定。

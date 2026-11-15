@@ -17,7 +17,7 @@ modified: "2026-11-15"
 > **原句 1:** "I’ve watched her die more times than I can stomach, always from the wrong side of a barrier I couldn’t cross, screaming her name into a void that swallowed every syllable. And each time, I’ve had to stand there and let it happen because the rules of this world are older than me, older than the Bright Gods who wrote them, and they’ve never once bent."
 
 **中文理解**：他看着她死了胃都装不下的次数，永远站在跨不过去的屏障错误一侧，把她的名字喊进吞掉每个音节的虚空——而每一次，他都只能站着看：这个世界的规则比他老、比写下它的光明诸神还老，从未弯过一次。
-**关键词**：smoke and invisible / the wrong side of a barrier / never once bent
+**关键词**：the wrong side of a barrier / never once bent / swallowed every syllable
 **为什么这样写**：破戒的代价先标价——全段是「规则」的资历证明，让下一句「Except… I'm holding her」的重量全部压在「never once bent」上；「wrong side of a barrier」把 ch08 的帷帘写成单向监狱：他看得见她的每一次死亡，却连音节都递不过去。
 **读者视角提示**：记下这个数量级——他的等待是「世界规则级」的等待，不是耐心问题；本章之后每一次他「越界」，都是拿存在本身做抵押，后面账单兑现时别惊讶。
 
@@ -62,7 +62,7 @@ modified: "2026-11-15"
 > **原句 7:** "Both hands now. Chilled fingers begin at my jaw and trace the edge of it, slow and careful. Up over the line of my cheekbone. The bridge of my nose next—her fingertip travels the entire length of it, and my eyes sting, actually sting. I don’t dare blink for fear of losing a single second of this."
 
 **中文理解**：她跪起来，双手上阵：冰凉的手指从他的下颌沿线描起，慢而小心；颧骨、鼻梁——指尖走完全长，他的眼睛刺痛，真的刺痛；他不敢眨眼，怕漏掉这一秒的任何一部分。
-**关键词**：my eyes sting, actually sting / keeps learning me / since I first laid eyes on her
+**关键词**：Both hands now / my eyes sting, actually sting / trace the edge of it
 **为什么这样写**：触觉清单按「面部地理」推进——下颌、颧骨、鼻梁、眉、眼角、唇，每一站都是他千年里只在梦里巡过的地形；「learning me」一词把主动权交到她手里：这是全书第一次由她发起的探索，而他选择绝对静止。
 **读者视角提示**：注意叙事的诡计：他的脸在小说里始终「缺席」（白纱从未揭开给读者）——她的手在替读者建模这张脸；你看不见他，正如她看不见他——直到作者决定让屏幕内外同步升级。
 

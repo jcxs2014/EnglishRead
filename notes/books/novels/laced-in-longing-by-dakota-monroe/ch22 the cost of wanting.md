@@ -46,7 +46,7 @@ modified: "2026-11-15"
 **读者视角提示**：拿这朵花去对 ch05 的两朵郁金香（黄底橙斑＋紫带酒红）——「他送的花」从来不是随手采摘，是她亲手挑过、许诺要种的品种；她收到的是「自己说过的话」，只是两世之间的她不记得签过这份合同。
 
 > **原句 5:** "“They won’t fail,” I counter with a confidence that surprises my current self. “Not with me tending them.”"
-> "I sense his expression softening as a hand rises to brush a strand of hair from my face. It doesn’t work, obviously, but the thought of his touch sends warmth cascading through me. “No,” he agrees. “Not with you.”"
+> "I sense his expression softening as a hand rises to brush a strand of hair from my face. It doesn’t work, obviously, but the thought of his touch sends warmth cascading through me. A visceral reaction to his proximity and the idea of what it would be like to actually feel him. “No,” he agrees. “Not with you.”"
 
 **中文理解**：「它们不会失败的，」她反驳——那份自信让此刻的她都吃惊。「只要有我照看。」她感觉他的神色软下来，一只手抬起想拨开她脸上的发——当然没用，但「他的触碰」这个念头本身就让暖意 cascade 而下。「是啊，」他同意，「只要有你。」
 **关键词**：a confidence that surprises my current self / Not with me tending them / Not with you
@@ -90,7 +90,7 @@ modified: "2026-11-15"
 |---|---|---|
 | anemones | 银莲花（anemone 的复数） | I feel him grin. “Twilight anemones,” he says, his voice warm with approval. “They grow only in the Otherworld, hence their name.” |
 | matted | 缠结成块的、黏结的 | I look like hell. Hair matted and greasy, hanging in limp strands around a face pale as death. |
-| shattered | 粉碎的、破碎的 | But he’s already gone, and the only answer is the shattered echo of my own voice. |
+| grippy socks | 精神病房防滑袜（俚语指住院） | Honestly the idea of being carted off to a facility with soft walls and grippy socks holds a certain appeal right now. |
 
 ## 一句话总结
 她在地板上给自己的自毁天赋办了命名仪式，也第一次看清他的千年耐心值多少钱——他背着每一世的账，她连利息都不用付；于是这一次她决定不赖账：他听得见，那就呼唤。

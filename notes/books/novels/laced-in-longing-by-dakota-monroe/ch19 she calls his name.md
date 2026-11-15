@@ -101,7 +101,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | fracturing | 使碎裂、折散（fracture 的现在分词） | Water rushes past, catching the light and fracturing it into a thousand glittering fragments. |
-| mingles | 交融（mingle 的三单） | His jaw clenches, anger evident in every line of his body. But he doesn’t argue further. Instead, he leans down to hover his forehead against mine, our breath mingling in the space between realms. |
+| mingling | 交融（mingling，现在分词） | His jaw clenches, anger evident in every line of his body. But he doesn’t argue further. Instead, he leans down to hover his forehead against mine, our breath mingling in the space between realms. |
 | skipping | （石子）打水漂（skip 的现在分词） | I pick up another stone, testing its weight in my palm before flicking my wrist to send it skipping across the surface. |
 
 ### ⭐ 常用

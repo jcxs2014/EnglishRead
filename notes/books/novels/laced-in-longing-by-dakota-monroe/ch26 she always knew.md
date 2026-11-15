@@ -41,7 +41,7 @@ modified: "2026-11-15"
 **读者视角提示**：对照 ch11 Seyr 的警告与 ch08 的神格名单——「排队来访」意味着她的存在已被神界正式登记；她从「被遗忘的灵魂」升级为「有社交圈的神眷」——这个身份跳变只用一段写完，留白极大。
 
 > **原句 4:** "Her eyes brightened considerably. “Ismay. God, I remember her! I remember her happy little face.”"
-> "She remembers everything now. Sort of. The mortal barrier broke the moment I brought her through, but memories of her other lives are slow to flood in. She weeps through most of them and laughs through others, always needing hours to process what she’s seen. At one point she sat straight up and said, you wore a hat once, and then went back to sleep."
+> "She remembers everything now. Sort of. The mortal barrier broke the moment I brought her through, but memories of her other lives are slow to flood in. She weeps through most of them and laughs through others, always needing hours to process what she’s seen. At one point she sat straight up and said, you wore a hat once and it was so ugly, and then went back to sleep."
 
 **中文理解**：她的眼睛一下子亮了。「Ismay！天哪，我记得她！我记得她那张快乐的小脸。」她现在什么都记得了——算是吧。凡人屏障在我带她穿过来的那一刻就碎了，但其他世的记忆回流得很慢：大部分让她哭，一部分让她笑，每一段都要花几小时消化。有一次她猛地坐起来说，「你戴过一次帽子，丑得要命」，然后又睡了回去。
 **关键词**：Ismay. God, I remember her! / slow to flood in / you wore a hat once
