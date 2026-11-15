@@ -60,7 +60,7 @@ modified: "2026-11-15"
 "My conversation with Jean comes back to me. He’d said she wouldn’t come to the phone. Perhaps she couldn’t? “Was she injured?” I ask."
 "The young man looks over my head at the concierge and then shakes his head. “More out of it. She had to be carried in here earlier by her fiancé. He claimed they had too much fun at a late lunch.”"
 **中文理解**：门童压低声音：「我昨晚看见她离开——坐在轮椅上。」她追问是否受伤；他摇头：「更像是意识模糊。是未婚夫抱进来的，说是『午饭玩得太嗨』。」
-**关键词**：She was in a wheelchair / Was she injured
+**关键词**：She was in a wheelchair
 **为什么这样写**：证据以耳语的分贝交付——门童的观察（轮椅、抱入、台词）正是第二十八章剧本的现场回放；「看了一眼礼宾」的动作说明他也怕。
 **读者视角提示**：Jean 的「午饭」台词在本章被目击者复述——他的剧本开始留副本；每个听见的人都是未来的证人。
 
