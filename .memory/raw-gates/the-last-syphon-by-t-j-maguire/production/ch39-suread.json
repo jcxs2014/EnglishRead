@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch39",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch39_chapter_39.txt",
+ "facts": [
+  {
+   "fact": "Felix 证据链：温度骤降/结冰=他的嫉妒外化（magic 是他的怒气出口）",
+   "anchor": "His anger and frustration manifest in his magic.",
+   "start": 2320,
+   "end": 2368
+  },
+  {
+   "fact": "Phaedra 追问「你 Care 我弟吗」——她答不出（说不出口）",
+   "anchor": "“Do you care for my brother?”",
+   "start": 8489,
+   "end": 8518
+  },
+  {
+   "fact": "王子的钥匙+密令放人+安排逃往 Roylan 山脉+「希望你别接受」",
+   "anchor": "My brother gave me this key with secret orders to set you free.",
+   "start": 9077,
+   "end": 9140
+  },
+  {
+   "fact": "议会令他亲征南方——「He'll die!」（Cursed King 经验碾压）",
+   "anchor": "The High Council has ordered him and the Arelian Army to confront the enemy to the south.",
+   "start": 9460,
+   "end": 9549
+  },
+  {
+   "fact": "抓包喜剧：打闹互掐（锁喉/拽发）被 Phaedra 撞见",
+   "anchor": "Or am I a genius?",
+   "start": 1046,
+   "end": 1063
+  },
+  {
+   "fact": "Felix 自封客观第三方：救 council/staring/jealousy 三指清单",
+   "anchor": "I am an objective third party",
+   "start": 1786,
+   "end": 1815
+  }
+ ]
+}
