@@ -134,7 +134,7 @@ modified: "2026-11-15"
 | belowdecks | 甲板下（船舱内） | No point burning all the fuel just to return to the harbor, especially not with a captive belowdecks.” |
 | unadulterated | 不掺假的、纯粹的 | The unadulterated, no sparing my feelings, truth. |
 | hackles | （颈部）怒毛；raise hackles＝激起敌意 | What raises my hackles is the memory of Jean, the heels of his hands driving into my skull, smushing my head into the duvet as he used my body. |
-| culpability? 已用 ch29 | — | — |
+| dusk | 黄昏、薄暮 | Sharks hunt at dusk. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

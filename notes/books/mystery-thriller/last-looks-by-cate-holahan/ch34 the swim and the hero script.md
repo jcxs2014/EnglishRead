@@ -78,7 +78,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | backdraft | （火场）回燃 | Blood rushes to my calves like a fire’s backdraft. |
-| retch | 干呕 | Nothing comes up as I retch over the basin. |
+| retch | 干呕 | I shudder with a final attempt to rid my stomach of residual poison and then stand, uncertain whether my legs will bear my weight. |
 | sputter | 噗噗地喷着说 | “Help!” I sputter. “He’s going to kill me.” |
 | frog kick | 蛙式踢腿 | A strong frog kick, and my head breaks through the surface. |
 
@@ -87,7 +87,7 @@ modified: "2026-11-15"
 |---|---|---|
 | molars | 臼齿（复数） | A drummer plays double bass inside my brain, kicking each of my temples and rattling my molars like an apartment ceiling beneath a house party. |
 | belt buckle | 皮带扣 | using my other to attack my belt buckle. |
-| cockpit | 驾驶舱 | I wrest free and pull myself into the cockpit. |
+| cockpit | 驾驶舱 | The force shoves him back a few feet, enabling me to wrest free and pull myself into the cockpit. |
 
 ## 一句话总结
 驴踢、脱衣泳、鲨鱼谎与雾喇叭——四英里的自由被柴油引擎折价拖回；她自己的台词「We must always be eating!」被改成刑具，Gen Zer 的账还没开始算。
