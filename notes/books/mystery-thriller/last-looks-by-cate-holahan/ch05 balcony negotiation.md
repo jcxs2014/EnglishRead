@@ -28,7 +28,7 @@ modified: "2026-11-15"
 > **原句 3:** "I pretend to do math. “At eight hours a day for five days, plus a business-class plane ticket, let’s call it an even €10,000? Sound good?”"
 "My quote is higher than it should be. She nearly blushes. “That’s very generous.”"
 **中文理解**：Nina 自报时薪 150 美元；Cécile 假装心算，把五天八小时加商务舱机票凑成 €10,000 整——比行价高出一截。Nina 脸红，说「真慷慨」。
-**关键词**：pretend to do math / an even €10,000 / very generous
+**关键词**：pretend to do math / an even €10,000 / Sound good
 **为什么这样写**：「抬价」是双重诱饵——既证明客户有钱可宰，又让对方欠下人情；她把慷慨做成债务，与第一章「记在他头上」的记账话术同构。
 **读者视角提示**：猎物还在按服务定价，捕食者已经在按关系定价；这一万欧买的是「巴黎一周的合法接近权」。
 
