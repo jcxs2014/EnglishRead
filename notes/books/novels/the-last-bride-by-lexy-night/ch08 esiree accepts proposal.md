@@ -23,7 +23,7 @@ modified: "2026-11-15"
 > **原句 2:** "I needed Vastion to live. His stern voice echoed in my memory as my chin itched to turn and glance over my shoulder."
 
 **中文理解**： 她需要 Vastion 活着——即便换一个 Vampyr 贵族登基，也没人保证还会选她。王严厉的声音在记忆里回响，她下巴痒得想回头看。「别回头。」
-**关键词**：I needed Vastion to live / no guarantee they’d choose me / Don’t look back
+**关键词**：I needed Vastion to live / His stern voice echoed / glance over my shoulder
 **为什么这样写**：作者的机锋在这个当口翻转：她本该希望他死（他的死才是她家族的胜利），却发现自己的第一反应是「他必须活」。而 she needed him alive 的理由写得极其冷静——不是爱，是选后机制。可那句命令偏偏又是温柔的：她的命在他手里。
 **读者视角提示**：注意这一章她的算计与情感的第一次合流：两者都指向「他要活着」。这是本书最精密的一次错位——卧底与爱人同向。
 
@@ -100,7 +100,7 @@ modified: "2026-11-15"
 > **原句 13:** "He reached out for my hand, and I lifted it for him to hold while he awaited my acceptance. I tried, unsuccessfully, to steady my hand before he grasped it. He was a grisly sight, slick with gore; I stood there frozen at the realization that I was about to be bound to him—to the Vampyr King of Devana."
 
 **中文理解**： 「Esiree 小姐，你愿意屈尊成为我的妻子吗？」他伸出手，她把手递给他，等他握住等待她的答复。他满身血污，触目惊心；她僵在原地，意识到自己就要与这个男人——与 Devana 的吸血鬼王——绑定。
-**关键词**：do me the honor of becoming my wife / slick with gore / about to be bound to him
+**关键词**：awaited my acceptance / slick with gore / about to be bound to him
 **为什么这样写**：求婚辞用了 request 的公式（do me the honor），却由一个浑身是血的人跪着说出——作者把最不浪漫的物理状态和最正式的仪式语言对撞。grisly 一词既是血腥也是形容他的「可怖」：读者与她共享这份不适。
 **读者视角提示**：留意「沾血的手」这个细节将在下一块回响（手背上的血污）——它同时是求婚的证物与凶手的标记。
 

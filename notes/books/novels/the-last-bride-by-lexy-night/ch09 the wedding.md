@@ -16,7 +16,7 @@ modified: "2026-11-15"
 > **原句 1:** "Long ago, I decreed these dresses be donated to the bride’s family after the ceremony. The jewels and fabric were worth a small fortune, which helped secure the stature of my bride’s family. Some, I’d heard, preserved them as keepsakes and handed them down through the generations. The fatuousness of mortals seemed boundless."
 
 **中文理解**： 很久以前他就下令：婚礼礼服在仪式后捐给新娘家族——珠宝与布料价值不菲，能为新娘家族的体面打底；听说有人把它们当作念物代代相传。凡人的愚蠢似乎没有边界。
-**关键词**：decreed these dresses be donated / secured the stature / handed them down through the generations
+**关键词**：decreed these dresses be donated / worth a small fortune / handed them down through the generations
 **为什么这样写**：用一条旧法令交代这个王国的物质观，同时完成一次人物刻画：他既慷慨（把贵重物送人）又傲慢（称之为愚蠢）。fatuousness 一词把「凡人」整体降格，与他后文对人类王后的认真形成反讽——他嘴上轻视，却在行动上投资人类的忠诚。
 **读者视角提示**：留意「代代相传」这个细节：Leto 那边收下礼物的正是 Esiree 的家族——她母亲留给她的婚纱，最后成了人类阵营的资产。
 
@@ -86,7 +86,7 @@ modified: "2026-11-15"
 > **原句 11:** "“The symbol I choose is a sun…”"
 
 **中文理解**： 「我选的符号是太……」——她停在「太」字上，让满桌人以为她要选太阳。
-**关键词**：The symbol I choose is a sun / to choose / a sun
+**关键词**：The symbol I choose is a sun / The symbol I choose / a sun
 **为什么这样写**：一个停顿把全场炸了：sun（太阳）是她自我介绍时的自我比喻，也是 ch04 王心里的 firebird 的意象；她故意停在「太——」上，让所有人以为她要选太阳（傲慢/僭越），再接上「阳花」（安全得近乎无害）。作者用断句完成一次精准的宫廷惊吓。
 **读者视角提示**：向日葵不是随机选的——向阳、忠诚、有种子（可繁殖=可延续）、且是农家的花，不是贵族的纹章。她的印信从此是一只向日葵：这是她留给后世的符号。
 
@@ -131,7 +131,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | atrophied | 萎缩、衰退 | These feelings were once again so strange and new. They had atrophied, leaving me frozen. |
-| impetuous | 冲动的、鲁莽的 | Facing the Forlorn alone was risky, even for me. |
+| reckless | 鲁莽的、不顾一切的 | Had I really grown so bored that I had become reckless with my own throne? |
 | exasperated | 恼怒的、被惹火的 | “No, we should discuss that hag of a bride you’ve selected!” she said, exasperated, throwing herself dramatically onto my bed. |
 
 ### ⭐ 常用

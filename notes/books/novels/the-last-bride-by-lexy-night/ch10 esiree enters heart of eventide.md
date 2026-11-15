@@ -79,7 +79,7 @@ modified: "2026-11-15"
 > **原句 10:** "“You served Queen Adria before me?” … “Yes, I… I served Queen Adria until her last breath.”"
 
 **中文理解**： 她试探 Lailanor 与前任：Lailanor 承认服侍 Adria 直到最后一息（声音微颤）。紧接着她问到 Kesna——对方猛然止步、几乎撞上她：「你最好永远别再提那个名字。」追问「为什么」，她答「因为叛徒……」，随即收住：「若珍惜性命，就别提你一无所知的事。」
-**关键词**：I served Queen Adria until her last breath / never speak that name / if you know what’s good for you
+**关键词**：I served Queen Adria until her last breath / You served Queen Adria / her last breath
 **为什么这样写**：一个名字让整个走廊的温度降下来。Lailanor 对 Adria 的回答是颤声的温柔，对 Kesna 的回答是威胁——两个名字在同一个侍女嘴里唤出两种完全不同的记忆。作者用最短的对话把全书最大的悬案按在读者面前：Kesna 是不可说的。
 **读者视角提示**：Kesna 的名字在 ch02 由 Esiree 提过（百年无解），在 ch04 由 Adria 悼词侧写过，现在由 Vastion 的贴身人封口。三条线在此交汇：她问对了问题，也踩到了雷。
 
