@@ -34,7 +34,7 @@ modified: "2026-11-15"
 > **原句 4:** "Cécile strides forward, her movements feline fast. Instinctually, I pull back. The ground gives way beneath my back heel. I grab the railing."
 "She keeps advancing. “Both hands on your hips, and step back.”"
 **中文理解**：Cécile 以猫科动物的速度逼近，她本能后退——后脚跟一空，抓住栏杆。对方还在推进口令：「双手叉腰，退后。」
-**关键词**：feline fast / ground gives way / step back
+**关键词**：feline fast / ground gives way / grab the railing
 **为什么这样写**：拍摄口令被写成谋杀指令的语法——每一步「退后」都是一次物理试探；她抓栏杆的瞬间与第九章抓住围栏的 Nina 互为镜像，这一次没有「否则会掉下去」的围栏解释。
 **读者视角提示**：这是运河失败后杀意最近的一次接触——动机被压缩成「拍照站位」；Nina 的职业服从（听口令）恰好是她的危险。
 
