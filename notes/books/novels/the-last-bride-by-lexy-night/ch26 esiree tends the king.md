@@ -148,7 +148,6 @@ modified: "2026-11-15"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| wolf? | —— | —— |
 | hunched | 蜷曲的、弓着背的 | I know it,” I declared, looking down at Vastion who was hunched over, barely holding himself up. |
 
 ## 一句话总结

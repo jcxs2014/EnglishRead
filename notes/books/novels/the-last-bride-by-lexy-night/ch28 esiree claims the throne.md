@@ -110,13 +110,11 @@ modified: "2026-11-15"
 |---|---|---|
 | undeserving | 不配的、不应得的 | He was so undeserving of my hostility. |
 | restraint | 自制、克制 | “When I’m around you, restraint seems impossible.” He circled me slowly. |
-| conspicuous? | —— | —— |
 | conjured | 想象、臆造 | “One wrong move, and I might act on these urges and lose my entire kingdom.”   My breath hitched as my imagination conjured visions of him biting me and committing the highest crime. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| intrinsically? | —— | —— |
 | whisper | 低语、耳语 | “Please,” I said, just above a whisper, attempting to contort my body and slide further up, forcing his hand downward. |
 
 ### ⭐ 常用

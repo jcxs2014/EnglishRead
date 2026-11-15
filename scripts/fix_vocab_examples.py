@@ -35,6 +35,9 @@ for fn in sorted(os.listdir(md_dir)):
             cells=[c.strip() for c in l.split('|')[1:-1]]
             if len(cells)==3 and cells[0] not in ('词/短语',''):
                 word, gloss, ex = cells
+                if word.endswith('?') or gloss.strip() in ('——','-'):
+                    changed+=1
+                    continue
                 if ex and ex not in src and ex!='——':
                     # find a sentence in this chapter containing the word (case-insensitive)
                     sents=re.split(r'(?<=[.!?])\s+', src.replace('\n',' '))

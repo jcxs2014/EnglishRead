@@ -117,14 +117,12 @@ modified: "2026-11-15"
 |---|---|---|
 | uncharacteristically | 反常地 | I find myself uncharacteristically out of sorts in your presence. |
 | morsel | 一口、一小份 | I long to be in your orbit, and any morsel you give me, I’ll take. |
-| arithmetics? | —— | —— |
 | arithmetic | 算术、计算 | Her analytical skills had safely navigated us through fluctuations in population and Vassal donations for many, many years. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | woefully | 悲伤地、可怜地 | “Because I didn’t choose you,” she said woefully. |
-| exhausted? | —— | —— |
 
 ## 一句话总结
 吻了整夜却没有圆房；枢密院里 Mina 的数据宣告必须削减配给，他吼出「我们必须找到解药」——而她此刻才明白父亲的毒血计划正在杀死人类唯一的活路；当晚他为她清空了整座 Falls，她说：国王偶尔自私一点没关系。
