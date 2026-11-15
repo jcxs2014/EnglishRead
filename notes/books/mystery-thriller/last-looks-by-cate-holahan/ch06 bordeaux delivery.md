@@ -42,7 +42,7 @@ modified: "2026-11-15"
 > **原句 5:** "For a moment, I’m unsure that I’ve heard Jean correctly. I shut off the faucet and reach for a towel. “What do you mean? Clients sometimes give gifts.”"
 "My boyfriend’s eyes lower from my breasts to my belly. “You’re drinking for two.”"
 **中文理解**：Jean 质疑喝酒的主意，她愣了一下才反应过来——眼睛从她的胸扫到肚子，落下四个字：你这是两个人在喝。
-**关键词**：heard Jean correctly / Clients sometimes give gifts / You’re drinking for two
+**关键词**：heard Jean correctly / reach for a towel / Clients sometimes give gifts
 **为什么这样写**：Jean 的规训藏在一次视线的移动里——一个眼神把她的身份从女人改写成容器；浴室这场戏让孕产纪律与蜜月同行同时开始。
 **读者视角提示**：她的反驳（只抿一口、欧洲孕妇也喝）全部停在内心——面对 Jean 的 Nina 是顺从的「好的」人设；这道缝会一章比一章宽。
 
