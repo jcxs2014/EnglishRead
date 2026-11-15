@@ -16,21 +16,21 @@ modified: "2026-11-15"
 > **原句 1:** "I’m not against calling myself an attempted murderer. In some situations, killing makes sense. Self-defense. War. Punishment. We’ve codified our justifications for eliminating people into law. Adultery, of course, isn’t one of them. But Étienne’s affair didn’t simply ruin my marriage. It ended two lives: his and that of our future child."
 "When I confronted my husband, I was two weeks pregnant. That wasn’t far enough along for me to tell him and expect tearful apologies or pledges to call anything off."
 **中文理解**：她的法理序言：杀人有时成立（自卫、战争、惩罚），写进了法律；通奸不在其列。但 Étienne 的婚外情毁掉的不仅是婚姻——它终结了两条命：他的，和我们未来孩子的。「对质那晚，我怀孕两周。」
-**关键词**：Self-defense. War. Punishment / that of our future child / two weeks pregnant
+**关键词**：Self-defense. War. Punishment / that of our future child
 **为什么这样写**：法律框架被她征用为自我审判的起点——「两条命」的账目在第一段就摊开；孕周数字给坠楼夜装上了倒计时。
 **读者视角提示**：这是全书孕程叙事的最后一块拼图：Nina 的「八周」与她的「两周」隔着一宗死亡——两位母亲的账在此对冲。
 
 > **原句 2:** "Étienne’s fall and my subsequent scream-induced contractions snuffed that hope. We both bled that day. Justice required Nina bleed, too."
 "The jury’s still hung on whether I could have gone through with killing her. Despite planning perfect crimes, I kept chickening out on their execution. Would it really have been impossible for me to push her into the canal at an earlier point when no one was looking? To shove her down those Chanel steps without getting caught? I’m a smart woman. I could have figured it out."
 **中文理解**：他的坠落与她「尖叫诱发的宫缩」掐灭了那个希望——「那天我们都流了血。公道要求 Nina 也流血。」陪审团悬而未决：她到底下不下得去手？运河、香奈儿台阶——「我是聪明的女人，我总能想出办法」。
-**关键词**：scream-induced contractions / Justice required Nina bleed / I could have figured it out
+**关键词**：scream-induced contractions / Justice required Nina bleed
 **为什么这样写**：自问自答的陪审团修辞给全书的未遂案做总复盘——「chickening out」的自嘲把恐惧写成程序问题而非道德问题。
 **读者视角提示**：对照第十七章「杀不了肚子里的孩子」——本章揭示她当时正失去自己的：两条孕账的道德重量由此对调。
 
 > **原句 3:** "Sex doesn’t describe what transpired between Jean and me, though that was what I’d intended. How he treated me—smothering my face into the mattress, ignoring my requests to slow down or use protection—didn’t feel like consensual intercourse. It felt like an assault. A blatant offense. One that deserves its own reckoning."
 "But first, I must understand my part in all this. Did I exact revenge against a deserving party or unleash my fury on an innocent woman?"
 **中文理解**：「性」字形容不了那晚发生的事——按压脸入床垫、无视减速与保护措施的请求，「那不像自愿性交。像袭击。一场公然的冒犯，值得自己的清算」。但她先要弄清：她报复的是该当之人，还是把怒火泄在无辜者身上？
-**关键词**：A blatant offense / its own reckoning / an innocent woman
+**关键词**：A blatant offense / its own reckoning
 **为什么这样写**：她把受害者的语言第一次用在自己身上——en flagrant délit 的双关（当场/冒犯）由她亲手拆解；两问句是本章的路标。
 **读者视角提示**：这是 Cécile 叙事里少有的「我可能错了」——读者应记下这秒清醒，本章后半它会退潮又涨回。
 
@@ -38,7 +38,7 @@ modified: "2026-11-15"
 "Louis’s tone slices through the web I’d constructed to catch Nina, the funnel spun with solid evidence threads: the photo of her and Étienne at the party, the hotel charge on our mutual account, the indelible memory of his admission that he’d fallen for a woman he’d met at a London event."
 "The woman at dinner with me. At the park?” Doubt turns this last statement into a question. My thumb slides off the intercom button."
 **中文理解**：她质问 Louis「为什么假装不认识他的情妇」——回答像刀一样划破她织来捕 Nina 的网：照片、共同账户的酒店账单、他亲口承认伦敦事件——「和我吃饭的那个女人？公园那个？」最后一句自己都变成了问号。
-**关键词**：Why did you pretend not to know his lover / solid evidence threads / Doubt turns this last statement into a question
+**关键词**：Why did you pretend not to know his lover
 **为什么这样写**：证据网被命名成蜘蛛的漏斗——三根「实线」在她手里是铁证，在 Louis 一句话里全部变虚；「thumb slides off」的肢体动作写信心滑落。
 **读者视角提示**：对照第二十七章「I checked」——她的「核查」从头到尾只在核对叙事，没核对过事实；本章是验收报告。
 
@@ -59,7 +59,7 @@ modified: "2026-11-15"
 "“Because you blamed me, Louis!”"
 "“Maybe you should have, though. I knew how out of it he was. I didn’t stop him.”"
 **中文理解**：她对 Louis 的准自白：「我给他倒了很多，鼓励他过量——这已是避开过失杀人重罪的最远坦白。他爬上护栏，Don Quixote 追风车……」Louis 揭她旧谎（「你说是生意问题」）；她吼「因为你怪我！」随后自缴：「也许你该怪。我知道他有多迷糊。我没拦。」
-**关键词**：I encouraged him to overdrink / Don Quixote chasing windmills / I didn’t stop him
+**关键词**：I encouraged him to overdrink / felony manslaughter conviction
 **为什么这样写**：坦白的刻度精确到刑期——每一句都在法律与良心的窄缝里找落脚点；「Don Quixote」的文学马鞍给死亡安上荒诞的尊严。
 **读者视角提示**：「我没拦」三个字是本书最重的自白——比推一把更含混、比旁观更主动；她的罪在这三个字里定型。
 
