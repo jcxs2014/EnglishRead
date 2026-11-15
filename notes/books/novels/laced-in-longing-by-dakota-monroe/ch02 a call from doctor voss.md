@@ -35,8 +35,8 @@ modified: "2026-11-15"
 **为什么这样写**：把「治疗约定」翻译成宠物术语——tether／leash 两连击，Helena 的关心在她眼里是圈养；但「刚好的长度」也漏了真话：她其实一直在绳内活动，这根绳是她唯一没剪断的连接。
 **读者视角提示**：反讽读法：她抱怨绳子，可全章她挂了电话才发现约没结束——明天还有一场。她一边骂绳一边留在绳的范围内，这个动作模式贯穿全书。
 
-> **原句 4:** "“Maven,” my keeper’s voice hardens, “avoidance does not motivate progress. You know this.”"
-> "“Neither does forced small talk with strangers, Helena,” I counter, my steps quickening as heat creeps over my neck."
+> **原句 4:** "“Maven,” my keeper’s voice hardens, “avoidance does not motivate progress. You know this.” My eyes roll hard."
+> "“Neither does forced small talk with strangers, Helena,” I counter, my steps quickening as heat creeps over my neck. “Besides, it’s the same story every time. People try to be friendly for a week or two, then they pick up on whatever fucked-up energy I give off and distance themselves. Why bother?”"
 
 **中文理解**：「Maven，」看守般的声线硬起来，「回避不会带来进步，你知道的。」「强迫自己跟陌生人寒暄也不会，Helena，」她顶回去，脚步加快，脖颈发热。
 **关键词**：avoidance / forced small talk / Helena

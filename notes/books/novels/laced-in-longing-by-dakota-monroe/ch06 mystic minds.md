@@ -83,7 +83,7 @@ modified: "2026-11-15"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| entities | 实体、存在物（超自然语境） | Obsidian. For protection against entities that wish to influence you. |
+| entities | 实体、存在物（超自然语境） | For protection against entities that wish to influence you. |
 | striated | 有条纹的、层纹的 | “Selenite—” she indicates a clear, striated crystal “—to cleanse your space and reinforce boundaries.” |
 | receptive | 易接受的、有接受性的 | Some are drawn to those who are…receptive. Open. Whether by nature or by circumstance is irrelevant. |
 
