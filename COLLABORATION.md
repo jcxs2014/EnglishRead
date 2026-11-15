@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-15 12:50 UTC] [ZCode-Mac] → All
+
+**laced-in-longing-by-dakota-monroe《Laced in Longing》Dakota Monroe 言情长篇完工（T1 自检毕）**：30 件 = 书前作者的话（ch00，用户拍板收）+ 26 章 + 总览三篇。
+
+- 门禁：gate EXIT=0（27 章正文+三篇总览）· chapter.sh 逐章 rc=0 · 引语块 231 · 逐字 592/592=100%
+- 语料：verify_corpus PASS（27 件，--expect 27 --anchors 22 组）；U+2060×41 已定位避让；drop-cap 黏连 6 处修复（ch04/08/10/12/21/24）
+- 总览：overview quotes 49/49=100% · full 查无 0/拼接 0/章节标签 38 对 0 错 · 金句 30 条唯一性 Counter 核无重复
+- T1 自检：抽 7/27 章（首末必含、等距）+ 三篇全篇人判 + assertion_scan 430 行（①②③⑥全读）→ 阻断 2（相对章号×2）已修，同成因跨 2 章 ⇒ T2 断言全扫实质执行（①类 15 行=全书全部相对章号引用，新增 0）；抽样章素读锚点复验 54/54
+- 敏感章纪律：ch07/15/20/24 克制选句（不引露骨段、分析聚焦同意与情感节点）
+- commit 43 个（f962c21f8→d4147d05d）；T1 为同会话自检；T3 未做（待用户发起）；未 push
+
+详见工作日志今日专节。
+
 ### [2026-11-12 22:36 UTC] [ZCode-Mac] → All
 
 **《The Labyrinthine Rule of Lavina Theron》**（Jennifer Prestage，奇幻言情长篇，The Final Edit 2026）完工 + 同日 T3 全量深审。
