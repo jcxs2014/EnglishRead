@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch18_chapter_eighteen_nina_berry.txt",
  "facts": [
   {
-   "fact": "长袖毛衣裙救场：Cécile 崩溃留下的抓痕又红又肿——「像跟野猫打过一架」，spa 热气还让擦伤恶化。",
-   "anchor": "fought off a feral cat",
-   "start": 396,
-   "end": 418
+   "fact": "为遮住被客户Cécile抓伤的手臂（spa热气让抓痕更红肿），妮娜改穿能包到手腕的驼色长袖羊绒连衣裙赴未婚夫Jean与同事的晚宴；Jean夸她漂亮且“perfect for the occasion”。",
+   "anchor": "camel-toned cashmere maxi wrapping my body",
+   "start": 137,
+   "end": 179
   },
   {
-   "fact": "同事 Alex 自报家门：与 Jean 共事十二年、是他「最长的一段关系」——Jean 上段婚姻不足一年。",
-   "anchor": "Even the marriage was well under a year",
-   "start": 1395,
-   "end": 1434
+   "fact": "42岁的交易员Alex自称与Jean共事十二年，是这位“准丈夫”交往最久的人：Jean没一段恋情超过几个月，上段婚姻也远不到一年；Jean只闷哼作答。",
+   "anchor": "We’ve worked together twelve years",
+   "start": 1223,
+   "end": 1257
   },
   {
-   "fact": "Emma 用法语荤话把餐桌带粗俗；妈妈的遗训「不支持女人的女人最丑」让她给 Emma 定罪——顺带鄙视对方的白衬衫黑裤穿搭。",
-   "anchor": "God doesn’t like ugly",
-   "start": 4585,
-   "end": 4606
+   "fact": "同席还有Jean沉默寡言的52岁上司Robert与三十多岁的分析师Emma；妮娜注意到Robert左手无名指没戴婚戒，Emma则粗俗评论女侍应、灌下加冰威士忌。",
+   "anchor": "Jean’s quiet fifty-two-year-old boss",
+   "start": 2432,
+   "end": 2468
   },
   {
-   "fact": "她把 Cécile 的照片传桌：全法国都认识——Camille Durant，把丈夫推下阳台的女人；她坚称认错人，「Cécile Duval，我不认识什么 Camille」。",
-   "anchor": "This is Camille Durant.",
-   "start": 9189,
-   "end": 9212
+   "fact": "妮娜为证客户品味出示手机里Cécile穿白裙的照片（这位离婚客户在Chanel只买了一件昂贵定制裙）；Emma和Alex却认出她是Camille Durant——把丈夫推下阳台、被报纸叫作La veuve noire（黑寡妇）的女人。",
+   "anchor": "She pushed her husband off a balcony",
+   "start": 9542,
+   "end": 9578
   },
   {
-   "fact": "报纸外号＝黑寡妇；Emma 复述案情：Camille 曾主张丈夫有财务问题、搭档在媒体逐条驳斥、「他朋友不可能自杀，他从没这么幸福——还有个女朋友」；邻居听见阳台争吵。",
-   "anchor": "“La veuve noire,” Alex chimes in.",
-   "start": 9994,
-   "end": 10027
+   "fact": "Emma复述案情：Camille迷倒警方脱罪、警方裁定自杀；但死者合伙人在媒体上逐条驳斥Camille所说的生意问题，称朋友快乐得从未有过，还有邻居听到阳台上有人争吵。",
+   "anchor": "his partner disproved them all in the press",
+   "start": 10418,
+   "end": 10461
   },
   {
-   "fact": "Jean 拿着手机放大照片——像在记那张脸；没收手机（她成了被罚屏幕时间的倔小孩）：「回家再说。」",
-   "anchor": "You can’t work for a crazy woman, Nina. It’s not safe.",
-   "start": 11069,
-   "end": 11123
+   "fact": "妮娜回想Cécile的阳台在六楼高、铁栏杆完好，坚称“Cécile的丈夫是自己离开了她”；Alex朝Jean眨眼讥讽“离开一段婚姻不止一种方式”。",
+   "anchor": "Six flights up. Intact iron railing",
+   "start": 10745,
+   "end": 10780
   },
   {
-   "fact": "结尾接线：公园男人喊的正是「黑寡妇」——就在 Cécile 掏出弹簧刀之前；更深、更怒的男声在耳边回放。",
-   "anchor": "The man in the park called Cécile that",
-   "start": 11960,
-   "end": 11998
+   "fact": "Jean放大照片端详Cécile的脸，把手机扣在自己餐巾上没收，丢下“回家再谈”，随即转向Robert大谈零售板块最看好Coach。",
+   "anchor": "We’ll talk about it when we get home",
+   "start": 11401,
+   "end": 11437
+  },
+  {
+   "fact": "妮娜记起“黑寡妇”一词出自公园里那个比Alex更深、更愤怒的男声——他叫Cécile黑寡妇之后，她随即拔出了一把刀。",
+   "anchor": "right before she pulled out a knife",
+   "start": 11999,
+   "end": 12034
   }
  ]
 }

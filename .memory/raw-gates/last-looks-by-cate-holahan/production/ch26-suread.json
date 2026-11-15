@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch26_chapter_twenty_six_nina_berry.txt",
  "facts": [
   {
-   "fact": "镜前自审：她的保守裙 vs 满场 Versace——她意识到 Cécile 在用「让她显孕」的方式竞争；故意续杯也是「deliberateness」。",
-   "anchor": "über-pregnant",
-   "start": 2286,
-   "end": 2299
+   "fact": "妮娜在洗手间镜前自评这身高领格纹裙 fit、form、function 三项全败，并意识到 Cécile 重拾自信引来的男性注视里有很大部分竟来自自己的未婚夫 Jean。",
+   "anchor": "With this dress, I’ve failed on all counts",
+   "start": 297,
+   "end": 339
   },
   {
-   "fact": "卫生间交锋：Cécile 的醉话三连像螺丝刀扎进她腹部（十磅此消彼长）——她当场改口「最后一晚该结账」，Venmo/PayPal/支票任选。",
-   "anchor": "I feel so powerful. Young. Thin.",
-   "start": 3689,
-   "end": 3721
+   "fact": "自与 Cécile 电话初识以来她至少瘦了 10 磅，而 Nina 恰好等量增加；Nina 提出结算造型费（Venmo、PayPal 或支票均可），Cécile 说支票簿不在身上、明天送衣服时再写，两人约定明早十点去她家。",
+   "anchor": "she’s lost at least ten pounds",
+   "start": 3830,
+   "end": 3860
   },
   {
-   "fact": "游艇名预告（Jean 说「纪念她」）＋周日启航 Riviera——她拿幸福当武器反击；Cécile 的笑容在镜中 wavering。",
-   "anchor": "The Belle",
-   "start": 5210,
+   "fact": "Nina 向 Cécile 透露行程：Jean 计划周六带她购物、周日一早启航 Riviera；游艇名 The Belle，Jean 说选这个名字是向她致意。",
+   "anchor": "The boat is called The Belle",
+   "start": 5191,
    "end": 5219
   },
   {
-   "fact": "Louis 餐厅闯场（拍桌震杯、Jean 起身「C’est quoi ton problème?」）；Cécile 法语拒绝：「我什么都不承认」「你已经跟报纸说过你的看法」；随后切英语「替 Jean 免去复述」。",
-   "anchor": "Je n’avoue rien.",
-   "start": 9624,
-   "end": 9640
+   "fact": "回到餐桌，Nina 拍 Jean 的手臂阻止他替 Cécile 付账——今晚是 Cécile 的五十岁生日，但 Nina 认定她是客户不是朋友，这顿饭该由 Cécile 自己请。",
+   "anchor": "Sure, it’s her fiftieth",
+   "start": 6980,
+   "end": 7003
   },
   {
-   "fact": "Cécile 当面反击 Louis：「你忘了很多——Étienne 多么激情、多么莽撞，跟一个『另有他人』的女人厮混」——目光扫向 Nina 等确认；「你忘了我是谁」收尾成威胁。",
-   "anchor": "Taking up with a woman who had someone else.",
-   "start": 10945,
-   "end": 10989
+   "fact": "一个金发窄脸、莫名眼熟的男人越过领位员闯入用餐区，用法语喊出点名要求；Cécile 回以 \"Je n’ai rien à te dire\" 并拒绝对视，他便一掌拍上桌面，Jean 起身用法语怒斥——此人是她此前在公园扬言要捅的 Louis。",
+   "anchor": "Camille, Je dois te parler",
+   "start": 9014,
+   "end": 9040
   },
   {
-   "fact": "他用真名 Camille 质问她泄密（卧室话题→嫌疑人）；随即醉酒强吻封口——「 mollusk seeking a different shell」。",
-   "anchor": "You told Camille that our baby’s causing intimacy issues.",
-   "start": 15254,
-   "end": 15311
+   "fact": "Jean 起身对峙后，Cécile 伸手拿账单夹并转回英语，向 Nina 致歉、自称对 Étienne 之死同样甚至更加悲痛，边说边从手包抽出信用卡插进账单夹结账。",
+   "anchor": "devastated by Étienne’s passing",
+   "start": 10395,
+   "end": 10426
   },
   {
-   "fact": "醉酒性爱戏（SWAT/出狱犯比喻，敏感章克制选句）：Cécile 的幻影在脑海 smirking；镜中「Hello, sexy」——她认回了 flushed 的自己。",
-   "anchor": "In my mind’s eye, I see Cécile. Smirking.",
-   "start": 16641,
-   "end": 16682
+   "fact": "两名年轻侍者上前关注后，Louis 连退一步、撂下\"总有一天你会告诉我真相\"便转身出门；Cécile 随后解释 Louis 是她亡夫的旧生意伙伴、专把悲愤倾泻到找替罪羊上的那种人，还说他容易受惊。",
+   "anchor": "One day, you will tell me what really happened",
+   "start": 11605,
+   "end": 11651
+  },
+  {
+   "fact": "回到酒店，近两瓶红酒下肚的 Jean 醉倒在沙发上，随后质问 Nina 曾对 Camille 说过\"我们的宝宝造成亲密问题\"，随即被点燃般强势求爱；Nina 闭眼时脑中浮现 Cécile 得意的笑，事后自认他今晚表现胜过前一晚。",
+   "anchor": "our baby’s causing intimacy issues",
+   "start": 15276,
+   "end": 15310
   }
  ]
 }

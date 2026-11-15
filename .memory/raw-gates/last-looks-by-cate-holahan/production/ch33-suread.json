@@ -4,39 +4,51 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch33_chapter_thirty_three_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "TGV 双人舱：Madeline 借口「帮孩子写作业」留下（水壶刚放上就走人）；Louis 已原谅她，妻子没有。",
-   "anchor": "Louis might have forgiven me. She sure hasn’t.",
-   "start": 610,
-   "end": 656
+   "fact": "开场场景：叙述者 Cécile 与老友 Louis 在 TGV 的 four-person pod 相对而坐，走巴黎—Saint-Tropez 的旧日常旅程；空座让她想起已失去的 Étienne 与 Madeline。",
+   "anchor": "our backs cradled by the TGV’s familiar mauve cushions",
+   "start": 139,
+   "end": 193
   },
   {
-   "fact": "Louis 的 65 英尺机动游艇（他口中的「小划子」）待命出击；出行动机＝赎罪——wingman 之罪或向记者指控之罪，两者他都认账。",
-   "anchor": "the dinghy",
-   "start": 1032,
-   "end": 1042
+   "fact": "关键秘密：Cécile 曾把药偷偷下进丈夫 Étienne 的 Châteauneuf-du-Pape 酒里；Louis 对此不知情，才 eager 陪她去码头 confront Jean（起因是她误指 Nina 拆散婚姻后 Nina 的 fiancé 发作）。",
+   "anchor": "the meds I slipped into Étienne’s Châteauneuf-du-Pape",
+   "start": 702,
+   "end": 755
   },
   {
-   "fact": "搜索结果：32.2 英尺龙骨、teak 驾驶舱、convertible saloon——租期整两个月「Absolument non」（正常两周）——「谁会让孕妇离开产科医生六十天？」",
-   "anchor": "La Belle. A thirty-two-point-two-foot keel with a swim platform",
-   "start": 2991,
+   "fact": "时间差：Jean 有 five-hour head start，很可能已带着被镇静的 ex（Nina）出海；Cécile 正因担心 Nina 才忍住没有向 Louis 坦白下药。",
+   "anchor": "Jean has a five-hour head start on us",
+   "start": 1773,
+   "end": 1810
+  },
+  {
+   "fact": "Louis 自愿去 marina 对质，必要时开出他口中的 the dinghy——实为其 sixty-five-foot 的 motor-powered yacht，去 have a chat。",
+   "anchor": "his sixty-five-foot motor-powered yacht",
+   "start": 1051,
+   "end": 1090
+  },
+  {
+   "fact": "船只线索：Louis 在租船网站查到 La Belle——thirty-two-point-two-foot keel 带 swim platform、teak cockpit、convertible saloon；他说 thirty foot 单人水手可驾驭，并称该网站承接 Saint-Tropez 大多数租船、他在淡季把 La Madeline 也挂在上面。",
+   "anchor": "A thirty-two-point-two-foot keel with a swim platform",
+   "start": 3001,
    "end": 3054
   },
   {
-   "fact": "Madeline 的判词经 Louis 转述：「你总替男人道歉，总觉得一切都是女人的错」「你的自我价值来自男人的眼光与被选中」——她认了：「恨她比恨他容易」。",
-   "anchor": "easier to hate her than my ex",
-   "start": 7942,
-   "end": 7971
+   "fact": "租期疑点：La Belle 显示 unavailable for two months；Nina 说的却是 babymoon——Cécile 质疑谁会让孕妇 sixty full days 不见 ob-gyn；Louis 断言正常租期 Absolument non 不至于两个月，多数人只租 Two weeks，小船至多几天。",
+   "anchor": "keep a pregnant woman from her ob-gyn for sixty full days",
+   "start": 3453,
+   "end": 3510
   },
   {
-   "fact": "Louis 的相反证词：Étienne「直到最后才出轨，就那一次，还是他自己向你坦白的」；Madeline 忠于女性同盟「绝不会知情不报」——与 Cécile 的多年情叙事正面相撞。",
-   "anchor": "Harmless flirting.",
-   "start": 9420,
-   "end": 9438
+   "fact": "Louis 为亡友辩护：Étienne wasn’t unfaithful until the end，只是 Harmless flirting，唯一一次出轨他自己已向 Cécile 承认；并称 Madeline 忠于 fellow femmes，若知情绝不会放过 Étienne。",
+   "anchor": "Étienne wasn’t unfaithful until the end",
+   "start": 9358,
+   "end": 9397
   },
   {
-   "fact": "Madeline 缺席的最终原因：连 Cécile 都说 Jean 危险——她更信。",
-   "anchor": "my wife believes you’re right",
-   "start": 10559,
+   "fact": "结尾揭晓：Louis 点破 Madeline 未同行的真实原因——Cécile 认定这个男人 Jean 危险，连她都这么想，Louis 的妻子便信她是对的；此前 Madeline 只借口 ostensibly to watch their boys 留守，还借词 help with homework 避开 Cécile。",
+   "anchor": "then my wife believes you’re right",
+   "start": 10554,
    "end": 10588
   }
  ]

@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch21_chapter_twenty_one_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "战袍：露腹 bra top＋紧身 legging——节食与四次腹肌机训练让二十岁的腰线回归；用 Nina 世代的词自夸「snatched」。",
-   "anchor": "I’m looking snatched",
-   "start": 1349,
-   "end": 1369
+   "fact": "早上八点过五分（five past eight），Cécile 已守在 Nina 酒店对面的旺多姆广场，等的是 Nina 的未婚夫 Jean——她意识到他按纽约—巴黎混合作息工作，并推断金融人士九点前必到办公室，怀疑阴天让他睡了懒觉。",
+   "anchor": "It’s five past eight, though the foggy fall sky",
+   "start": 63,
+   "end": 110
   },
   {
-   "fact": "电话战：Nina 深夜短信取消晨跑，她拒不回复——「取消约定需要双方同意」；空调嘶声骤停暴露 Jean 在旁教话（静音检测）。",
-   "anchor": "To officially cancel an engagement requires two-party consent.",
-   "start": 2054,
-   "end": 2116
+   "fact": "Cécile 特意穿上露腰黑白 bra top 配同系列紧身裤赴约，这套衣服在抽屉里放了超过六个月（over six months）；节食加四次（four ab machine sessions）腹肌器械训练让她恢复了二十多岁时的腹部线条，有意向 Jean 展示身材。",
+   "anchor": "four ab machine sessions have added definition",
+   "start": 1214,
+   "end": 1260
   },
   {
-   "fact": "门童战：英式游客腔＋「她是孕妇」的秘密共享＋20 欧小费——换来 Rubis Suite 五楼房号；他还瞥了一眼摄像头方向。",
-   "anchor": "Between us, she’s pregnant",
-   "start": 8454,
-   "end": 8480
+   "fact": "Nina 深夜发短信说与 Jean 及其同事出去玩、过点才睡，要取消清晨跑步改约早餐；Cécile 故意不回复，认定正式取消需两方同意（two-party consent），照旧打电话打断两人早晨。",
+   "anchor": "Went out with Jean and his coworkers, got in past",
+   "start": 1918,
+   "end": 1967
   },
   {
-   "fact": "脚敲房门喊「客房服务」闯入；Jean 半穿衬衫敞着胸——「红白画布上的单色波洛克」；他纽扣衬衫的动作「像在遮一条没拉的拉链」。",
-   "anchor": "Housekeeping!",
-   "start": 10226,
-   "end": 10239
+   "fact": "进酒店时 Cécile 用英语扮美国游客，谎称自己是 Nina 正在服务的购物客户、早餐后要去 Chanel 取礼服，又从小腿暗袋抽出二十欧元（twenty euros）贿赂门房；门房收钱放行，单独指她去 Rubis Suite，五楼（Fifth floor）。",
+   "anchor": "withdraw twenty euros",
+   "start": 9370,
+   "end": 9391
   },
   {
-   "fact": "毒酒确认与回收：标签/年份/小酒庄（只卖收藏家）全对上；软木塞针孔不可见——「网上订单大概率掺了水——如果注射器里真有肉毒杆菌」；她借口「换个你们都能享受的」把证物拿走。",
-   "anchor": "the poisoned wine I’d sent",
+   "fact": "被问到怀孕多久，Nina 支吾答大约七八周（seven or eight weeks）；Jean 挤她的肩膀纠正从末次月经算应是八周，Nina 随即缩起身子——Cécile 把两人相反的肢体语言记下，留待不卖人设时再细查。",
+   "anchor": "About seven or eight weeks",
+   "start": 13331,
+   "end": 13357
+  },
+  {
+   "fact": "Cécile 在套房内置架上认出自己一周初（beginning of the week）寄来的毒酒：瓶封与软木塞完好、仅余针孔；她以孕妇忌口、且这周拉 Nina 喝酒做 Botox 和桑拿都是过错为由，把酒夹走声称要去换一瓶。",
+   "anchor": "the poisoned wine I’d sent at the beginning of the week",
    "start": 13697,
-   "end": 13723
+   "end": 13752
   },
   {
-   "fact": "双刀：把劝酒、Botox、桑拿归罪为 Nina 的粗心（Jean 投来「回头再算」的眼色）；再补 IVF 苦情——「我要是早知道，绝不会让你做这些」。",
-   "anchor": "All pregnancy no-no’s.",
-   "start": 14813,
-   "end": 14835
+   "fact": "Jean 道别时把她叫成 Camille 而非 Cécile——Cécile 判断法语母语者不会犯这种错，由此确认 Jean 已认出她就是数周前新闻照片里的 La Veuve Noire，并已警告 Nina 别与她来往。",
+   "anchor": "That’s all right, Camille",
+   "start": 17792,
+   "end": 17817
   },
   {
-   "fact": "派对陷阱加码：RSVP、订场、押金全部已付——「我现在真的超期待！」；Jean 的眼语与 Nina 的磕绊被她读成「考场作弊」。",
-   "anchor": "Every detail I add is a spoonful of arsenic in Nina’s tea.",
-   "start": 16825,
-   "end": 16883
-  },
-  {
-   "fact": "Jean 口误喊出 Camille——法语母语者不会犯这种错；他已知她身份并警告过 Nina；「Cécile, honey」/「Cécile」的网球对打确认战线。",
-   "anchor": "He said Camille, not Cécile.",
-   "start": 17832,
-   "end": 17860
+   "fact": "Cécile 用生日晚宴反将 Nina：称联系人已通知、RSVP 已收、场地已订、定金已付（put down the deposit），并邀 Jean 一同赴宴；随后把碰面从楼下改为一小时后到她公寓，逼 Nina 在 Jean 听不到处单独谈。",
+   "anchor": "booked the place, and put down the deposit",
+   "start": 16778,
+   "end": 16820
   }
  ]
 }

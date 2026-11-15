@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch11_chapter_eleven_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "复盘：香奈儿推人未遂反是好事——旗舰店铺满摄像头、旋转楼梯只会撞上玻璃侧壁而非断颈落地；「诗歌不值一坐牢」。",
-   "anchor": "murder by mirrored staircase",
-   "start": 47,
-   "end": 75
+   "fact": "Cécile Duval（本章叙述者）与造型师 Nina 一同走出 Chanel，承认推 Nina 下镜面螺旋楼梯的未遂杀机就此作罢是对的：Chanel 旗舰店到处是摄像头，且弧形楼梯只会让 Nina 撞上玻璃侧墙，而非直坠底部摔断脖子。",
+   "anchor": "As I exit Chanel, Nina ambling behind",
+   "start": 77,
+   "end": 114
   },
   {
-   "fact": "清账：假社交账号已删，但发给 Nina 的私信删不掉；「Duval 女士是谁？不是那个我永远不会给死人开支票的个人采购师」。",
-   "anchor": "a dead personal shopper",
-   "start": 1328,
-   "end": 1351
+   "fact": "Cécile 已删除带自己照片的假社交媒体账号，但删不掉 Nina 与 Cécile Duval 之间已发出的消息；Nina 又把她的地址报给了门店，店员似乎已把她与近期头条联系上，销售记录坐实「住她住处的女人在与 Nina 合作」。",
+   "anchor": "deleted that fake social media account",
+   "start": 1112,
+   "end": 1150
   },
   {
-   "fact": "警察预演：谁会从美国雇造型师？巴黎人自己就会去香奈儿买经典白色针织裙——有人盗用我的地址骗了这个女人，地址又在房产网站上挂过。",
-   "anchor": "someone used my address to dupe this woman",
-   "start": 1831,
-   "end": 1873
+   "fact": "Cécile 财务紧张：没有 Étienne 付账后，她的信用卡要么刷爆要么被注销，唯一还能用的是分居前一个月申请的 AmEx；她要尽快甩开 Nina，好打电话给店方取消那笔 €10,000 的 Chanel 冲动消费。",
+   "anchor": "cancel my €10,000 impulse buy",
+   "start": 5934,
+   "end": 5963
   },
   {
-   "fact": "那张 before/after 照让人不安：她主动提供滤镜和审稿权——只为把我的脸留档；「保险」？也许只是怕我赖账。",
-   "anchor": "anything to get my face on record",
-   "start": 2753,
-   "end": 2786
-  },
-  {
-   "fact": "借来的 Peugeot 敞篷车名义上属于 Étienne 的另一个成年女儿 Marie，在车库里躺了几周。",
-   "anchor": "other adult daughter, Marie",
-   "start": 4242,
+   "fact": "两人走向 Cécile 借来的 Peugeot 敞篷车：纸面上车主是 Étienne 的另一个成年女儿 Marie，该车已在车库里闲置了几周。",
+   "anchor": "it belongs to Étienne’s other adult daughter, Marie",
+   "start": 4218,
    "end": 4269
   },
   {
-   "fact": "财务底牌：信用卡或爆或停，只有分居前一个月偷偷办的 AmEx 还活着——「没人知道我有它」；一万欧的香奈儿账单得赶紧打电话取消。",
-   "anchor": "the only one still working",
-   "start": 5657,
-   "end": 5683
+   "fact": "动机与关系底牌：没人知道 Cécile 已认出 Nina 就是与自己丈夫 Étienne 上床的女人，而 Nina 从未把这段婚外情告诉未婚夫；Cécile 只以「不认识她」应对，同时盘算改姓等说辞自保。",
+   "anchor": "she’s the woman who slept with my husband",
+   "start": 8169,
+   "end": 8210
   },
   {
-   "fact": "白色雷诺 SUV 尾随：墨镜后是梳得油亮的金发与蓝眼——她认得这个人；「他想让我知道，他看见我们一起进了香奈儿」。",
+   "fact": "Nina 计划把为 Cécile 挑选的大部分衣物挂上转售网站出售（只捐一部分），并传授定价经验：穿过几次的单品按原价的 sixty to sixty-five percent 定价，因为再好的干洗也会造成面料磨损。",
+   "anchor": "price the item at sixty to sixty-five percent",
+   "start": 9175,
+   "end": 9220
+  },
+  {
+   "fact": "一辆白色 Renault SUV 尾随：司机戴墨镜但被 Cécile 认出是油头金发、蓝眼的男人；黄灯亮起时她把油门踩到底冲过路口，连打三个不必要的右转甩掉跟踪，Renault 被卡在红灯处，Nina 未察觉异样。",
    "anchor": "I recognize his slicked blond hair",
    "start": 11661,
    "end": 11695
   },
   {
-   "fact": "黄灯一脚踩死油门冲过路口，Nina 双手撞上仪表盘；雷诺被红灯甩掉——「不知道接下来会发生什么的，是 Nina。」",
-   "anchor": "press the pedal to the mat",
-   "start": 12404,
-   "end": 12430
+   "fact": "当天计划失败后 Cécile 自我宽慰：还有三天（three additional days）可以处置 Nina，且 Nina 随时可能喝下那瓶酒；随后她避开遍布摄像头、不走环城高速 Périphérique 而改走背街小路，车上播放 Piaf 的「Non, je ne regrette rien」。",
+   "anchor": "I have three additional days to dispatch of Nina",
+   "start": 9018,
+   "end": 9066
   }
  ]
 }

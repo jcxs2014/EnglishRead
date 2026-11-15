@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch17_chapter_seventeen_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "抓伤 Nina 的手臂反而喂大了暴力欲——「小鹿冻结猎人手指」的失效比喻被她当场宣布作废：不会再被劝退。",
-   "anchor": "taste of blood increases the appetite",
-   "start": 52,
-   "end": 89
-  },
-  {
-   "fact": "杀意升级到具体时刻表：今天、一小时之内、最好三十分钟；场地=巴黎唯一女性专属 hammam——专为把 Louis 挡在门外。",
-   "anchor": "I will kill her. Today.",
+   "fact": "叙述者 Cécile 决定当天杀死 Nina：就在今天、一小时内动手，若可能甚至再过三十分钟内就行动，此时二人正在 spa 随向导参观。",
+   "anchor": "I will kill her. Today. Within the hour",
    "start": 1179,
-   "end": 1202
+   "end": 1218
   },
   {
-   "fact": "盐砖桑拿：吸入的空气「像掺了血」；Nina 手臂的抓伤在盐雾里发疼——她一边备杀一边给伤口撒盐。",
-   "anchor": "pouring salt into her wounds",
-   "start": 8211,
-   "end": 8239
+   "fact": "关系：Cécile 是 Étienne 的妻子；Nina 明知对方戴婚戒仍勾引了远较自己年长的已婚男 Étienne，以高端酒店住宿和奢华餐厅预订为交换，毁了 Cécile 的婚姻——Cécile 判断 Nina 本只打算借用其夫一两个周末便把他送回家。",
+   "anchor": "She seduced a far-older married man despite his wedding ring",
+   "start": 608,
+   "end": 668
   },
   {
-   "fact": "绞杀预案：浴袍腰带缠掌、颈动脉压五到十秒「让人小睡」，高温令血管扩张、心跳过载直至熄火；验尸结论=蒸汽中晕倒+心脏病发。",
-   "anchor": "according to jujitsu websites",
-   "start": 9849,
-   "end": 9878
+   "fact": "场地是巴黎唯一一家仅限女性的 hammam；Cécile 因 Louis 在盯着、要确保他无法像上次那样出现而选定此处（服务人员不会放男性进入半裸与裸体女性专区）。她为 hammam tranquility experience 每人支付 €100，本以为两人可独占设施，但向导说明理疗后放松区对所有客人开放；两名讲俄语的女子（其中一位是按摩师）已进入温池，专属预期落空。",
+   "anchor": "Paris’s only hammam for women, and women only",
+   "start": 1526,
+   "end": 1571
   },
   {
-   "fact": "千钧一发之际 Nina 亲口说出怀孕——Cécile 浴袍飞开也顾不上走光：「我有过 Nina 的身体，从没有过她身体里的东西。」",
-   "anchor": "I’m pregnant.",
+   "fact": "向导介绍冷泡池水温为低至 10 摄氏度，并向 Nina 换算成 50 华氏度，说明有经验的客户最多泡 10 分钟、初学者通常 1 至 2 分钟；Cécile 追问多久会失温、警告症状有哪些，被向导当成治疗前的紧张客。",
+   "anchor": "an icy 10 degrees Celsius before translating the temp",
+   "start": 2585,
+   "end": 2638
+  },
+  {
+   "fact": "热浴池温度计显示 38 摄氏度（向导向 Nina 换算约为 101 华氏度）；Cécile 判断该温度远不足以煮死人，但池中水下喷流把水搅成浑浊泡沫，正适合遮蔽沉在池底的身体——这是她评估的候选作案点。",
+   "anchor": "A thermometer reads 38 degrees Celsius, barely high",
+   "start": 4310,
+   "end": 4361
+  },
+  {
+   "fact": "Cécile 的作案手法：解下浴袍腰带缠在手掌，按 jujitsu 网站的说法对颈动脉施压五到十秒即可令人昏睡，再借超热环境让 Nina 血管扩张、心脏过载衰竭；调查者只会认定 Nina 在蒸汽中昏倒后心脏病发，而她这位伤心客户只是离开去放松。",
+   "anchor": "Five to ten seconds of pressure on the carotid artery",
+   "start": 9749,
+   "end": 9802
+  },
+  {
+   "fact": "Nina 在盐砖蒸汽房中突然宣布怀孕，以孕期不该泡 sauna 为由起身开门离开，去泡脚池等 Cécile；Cécile 当场收手——她可以杀夺夫之妇，但不能杀掉腹中的生命（她自己曾吞大量药片、忍受多次注射只为求一胎）。",
+   "anchor": "I’m pregnant",
    "start": 13156,
-   "end": 13169
+   "end": 13168
   },
   {
-   "fact": "她承认可以杀「抢走丈夫的荡妇」，但不能杀肚子里的生命——她吞过那么多药、挨过那么多针，只为听到监护仪上的小心跳、看到那颗「浮动的花生」。",
-   "anchor": "not silencing the life inside her",
-   "start": 14024,
-   "end": 14057
-  },
-  {
-   "fact": "时间账：伦敦相遇在三个月前，信用卡账单显示数场周末幽会——胎儿可能是 Étienne 的。",
-   "anchor": "Hers could be Étienne’s.",
-   "start": 14249,
-   "end": 14273
-  },
-  {
-   "fact": "转向宣言：杀不了就加入——Nina 的未婚夫是毫不知情的戴绿帽者，「正好下手」；「下一个男人肯定更年轻」。",
-   "anchor": "I can perhaps join her.",
-   "start": 15284,
-   "end": 15307
+   "fact": "Cécile 推算 Nina 腹中的孩子可能是 Étienne 的——两人相遇的伦敦之行在三个月前，且从 Étienne 最近一份信用卡账单看其后还共度了几个周末——因而并非 Nina 未婚夫的孩子；她遂立新目标：勾引 Nina 的未婚夫，并认定自己的下一个男人一定更年轻。",
+   "anchor": "That London trip when they met was three months earlier",
+   "start": 14274,
+   "end": 14329
   }
  ]
 }

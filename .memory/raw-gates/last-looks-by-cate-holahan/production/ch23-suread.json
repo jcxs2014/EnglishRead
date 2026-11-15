@@ -4,40 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch23_chapter_twenty_three_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "Nina 以为 €10,000 能洗净良心；她收到的只有「报应」——五十岁生日的低报价服务。",
-   "anchor": "the only payment she’s receiving is payback",
-   "start": 494,
-   "end": 537
+   "fact": "Nina 以为帮 Étienne 的遗孀 Cécile 打扮得体过 fiftieth birthday（五十岁生日）就能净化良心与因果，收费 €10,000；Cécile 决定不给报酬只给报复。",
+   "anchor": "look presentable on her fiftieth birthday",
+   "start": 414,
+   "end": 455
   },
   {
-   "fact": "床上的鸟：Nina 在她床垫上坐立不安，令她怀疑这间卧室曾是偷情现场——伦敦相遇后他们来过法国，「我见过酒店收据」。",
-   "anchor": "I saw the hotel receipt.",
-   "start": 1485,
-   "end": 1509
+   "fact": "Étienne 与 Nina 在伦敦相识后一同来到法国；Cécile 看过那张酒店收据，怀疑 Nina 一见到地址就认出自己并一直装傻。",
+   "anchor": "came to France after meeting in London, after all",
+   "start": 1434,
+   "end": 1483
   },
   {
-   "fact": "衣柜崩溃：无声尖叫把泪逼进眼眶，一排裙衫被扯落如瀑布；弹簧刀入袋——「即使不打算用，握着就有力量」。",
-   "anchor": "a waterfall of fine fabrics",
-   "start": 1987,
-   "end": 2014
+   "fact": "Cécile 在书架上发现金属盒里的弹簧刀，把它揣进口袋；即使无意使用，带着它也让她觉得更有力量。",
+   "anchor": "reveals my switchblade in its metal container",
+   "start": 2339,
+   "end": 2384
   },
   {
-   "fact": "Dior 婴儿礼盒（toile de Jouy 象牙棉、€600）：激素期买的「信心票」——首任丈夫 Dmitri 挥霍她的生育黄金期、隐瞒结扎、拒验精子——「因果欠我的」。",
-   "anchor": "I’d thought karma owed me.",
-   "start": 4710,
-   "end": 4736
+   "fact": "Cécile 送的礼物在一个压着四个银色字母 D-I-O-R 的白盒里，内是 Dior 标志性 toile de Jouy 图案的象牙白棉质婴儿礼盒，含新生儿连体衣、帽子和配套围巾。",
+   "anchor": "an ivory cotton layette in Dior’s signature",
+   "start": 3873,
+   "end": 3916
   },
   {
-   "fact": "红裙否决：性感红裙会说服所有犹豫的人相信她有罪；她端出三条丑裙——丧服黑、女教师格纹、五十年代祖母绿 A-line。",
-   "anchor": "a month after my husband’s death",
-   "start": 5791,
+   "fact": "这套婴儿礼盒是 Cécile 注射生育激素期间以六百欧元（Six hundred euros）买下，当作对现代医学与命运的信心投票。",
+   "anchor": "Six hundred euros, I’d rationalized",
+   "start": 4412,
+   "end": 4447
+  },
+  {
+   "fact": "Cécile 的第一任丈夫隐瞒自己做过输精管结扎并拒绝验精子数，耗掉她最易受孕的岁月；她当时认为命运欠她一个孩子。",
+   "anchor": "he’d had a vasectomy and refusing to get his sperm",
+   "start": 4644,
+   "end": 4694
+  },
+  {
+   "fact": "Nina 提议穿红色 Versace 遭拒：Cécile 认为丈夫死后一个月就穿性感红裙亮相，原本不信她有罪的人也会改变看法。",
+   "anchor": "red dress a month after my husband’s death",
+   "start": 5781,
    "end": 5823
   },
   {
-   "fact": "离场令：Lady Macbeth 与 Clorox——「想赎罪就带 Jean 赴宴」；「杀人犯会买婴儿礼物吗？」终极礼物＝当着她的面勾走她的男人。",
-   "anchor": "Would a murderer really buy a baby gift?",
-   "start": 8477,
-   "end": 8517
+   "fact": "Cécile 真心要 Nina 和 Jean 来参加生日会；趁 Nina 在场勾引她的男人将是最好的生日礼物。",
+   "anchor": "Seducing her man while she watches will be the best",
+   "start": 8939,
+   "end": 8990
   }
  ]
 }

@@ -4,58 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch10_chapter_ten_nina_berry.txt",
  "facts": [
   {
-   "fact": "香奈儿旗舰店＝时尚圣地；Coco 生前住的就是这栋楼顶楼——Nina 后颈汗毛立起自觉感应到灵魂；Coco 出身洗衣工与街头小贩、孤儿院长大，一路「勾引」进巴黎上流。",
-   "anchor": "sensing a spirit",
-   "start": 302,
-   "end": 318
+   "fact": "造型师 Nina Berry 自述昨天来电，替客户 Cécile Duval 在 Chanel 旗舰店做了预约——两人是造型师与客户关系。",
+   "anchor": "I’m Nina Berry, the stylist who called yesterday",
+   "start": 2236,
+   "end": 2284
   },
   {
-   "fact": "Cécile 拖着「每件事都该昨天做完」的焦虑进店；Nina 归因于离婚：取悦一个专找借口出轨的男人，像在外道从后面追赛——看不见对手却确信人人领先。",
-   "anchor": "blame her divorce",
-   "start": 1677,
-   "end": 1694
+   "fact": "此行目标：在本周内让 Cécile 以自信、性感、时尚的形象走进她的生日派对；Nina 靠改造前后的对比照营生，特意趁 Cécile 穿运动服的「改造前」阶段先拍一组存档。",
+   "anchor": "into her birthday party by the end of the week",
+   "start": 4852,
+   "end": 4898
   },
   {
-   "fact": "她强推拍照：前后对比图是生意命脉——「把书呆子女孩变成热诺维亚公主」；本周生日派对就是「after」的发布台。",
-   "anchor": "lifeblood of my business",
-   "start": 4532,
-   "end": 4556
-  },
-  {
-   "fact": "拍楼梯照时 Cécile 以猫科速度逼近、连下口令「再退一步」——她脚跟踏空、抓住栏杆；对方继续推进「双手叉腰，退后」。",
-   "anchor": "The ground gives way beneath my back heel.",
+   "fact": "在通往设计师故居的著名镜梯前，Cécile 抢走 Nina 的手机反过来当摄影师，一再命令她再退一步，Nina 后跟踩空、一把抓住栏杆险些摔倒。",
+   "anchor": "The ground gives way beneath my back heel",
    "start": 6553,
-   "end": 6595
+   "end": 6594
   },
   {
-   "fact": "裁缝与男顾问交头接耳：男的说什么让女员工咬唇点头、目光直瞟试衣间门；Nina 以为他们在议论自己的选品。",
-   "anchor": "begins whispering",
-   "start": 10808,
+   "fact": "四楼沙龙迎接她们的是两名店员：一位小骨架女人，及其身后一个穿黑裙、系深红领结的清瘦男人。",
+   "anchor": "a wisp of a man in a black skirt and crimson cravat",
+   "start": 6805,
+   "end": 6856
+  },
+  {
+   "fact": "Cécile 进试衣间换装时，男顾问凑近女同事窃窃私语，女店员咬唇点头、目光瞟向试衣间门，神情不安；Nina 由此判断她是裁缝而非店内造型师。",
+   "anchor": "he approaches his colleague and begins whispering",
+   "start": 10776,
    "end": 10825
   },
   {
-   "fact": "Cécile 换装出场：健身客变身初入社交场的名媛；针织裙收腰贴胯，藏住她坚称必须减掉的那十磅。",
-   "anchor": "hiding the ten pounds",
+   "fact": "Cécile 换上白色收腰针织连衣裙后判若两人，从健身咖变成社交名媛，裙子正好藏住她坚称必须减掉的十磅；她仍嫌肩垫显肩宽，最终买下该裙并要求改衣。",
+   "anchor": "hiding the ten pounds that Cécile swears she needs to lose",
    "start": 11219,
-   "end": 11240
+   "end": 11277
   },
   {
-   "fact": "梦中婚纱现形：九十年代古董象牙缎、胸衣式上衣、山茶花饰配黑缎带帝国腰线——「甜蜜又性感，像圣特罗佩游艇上的小型誓词仪式」；男顾问指着她订婚戒指：「你在找一件吧。」",
+   "fact": "一件 vintage ’90s 大腿高的象牙缎束胸短礼服（缀山茶花、系黑腰带）令 Nina 一见倾心；男店员称它是经典 Lagerfeld、添条及裙摆的头纱就是完美婚纱，还指着 Nina 手上的订婚戒指打趣——她已有未婚夫。",
    "anchor": "vintage ’90s, thigh-high ivory satin dress",
    "start": 13907,
    "end": 13949
   },
   {
-   "fact": "Nina 说「我怕自己会爱上它」；Cécile 入场接话「我想你已经爱上了」——从她手里拿走裙子：「你没给我看这件。」又摸着领口说「山茶花，我一直喜欢这花的名字」。",
-   "anchor": "I think you already have.",
-   "start": 15028,
-   "end": 15053
-  },
-  {
-   "fact": "改动谈妥、裁缝进试衣间；Cécile 把那件梦幻婚纱放回衣架——「好了，走吧 Nina，我们走楼梯。」",
-   "anchor": "Let’s take the stairs.",
-   "start": 15809,
-   "end": 15831
+   "fact": "Cécile 撞见这件被 Nina 视为梦中婚纱的礼服后，亲手把它放回衣架，说改衣暂告一段落，叫 Nina 跟她一起走楼梯下楼。",
+   "anchor": "Cécile puts my dream dress back on the rack",
+   "start": 15733,
+   "end": 15776
   }
  ]
 }

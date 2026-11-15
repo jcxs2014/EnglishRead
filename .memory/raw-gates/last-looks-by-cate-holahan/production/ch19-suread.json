@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch19_chapter_nineteen_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "Facebook 算法主动把 Nina 推进她的信息流——若杀了 Nina，手机 GPS 会出卖两人的相处轨迹；湖边跑步那天她没带任何设备。",
-   "anchor": "social media companies track not only locations",
-   "start": 606,
-   "end": 653
+   "fact": "塞西尔·杜瓦尔用弹簧刀拆开柜台上无法退现换钱的邮购包裹，取出五十九欧元（逐字 fifty-nine euros）的腹部电脉冲健身带，把黏面缠上腹部并按下电源键。",
+   "anchor": "worth the fifty-nine euros",
+   "start": 2755,
+   "end": 2781
   },
   {
-   "fact": "出轨鉴定学：伦敦当晚不接电话=手机没坏；英国行程后加急的美国行程=去见上周认识的人；通讯社合影与希思罗免税店的蒂芙尼金手链（「With Love」应读作「With Apology」）补齐证据链。",
-   "anchor": "his phone wasn’t dead, just as I knew",
-   "start": 1634,
-   "end": 1671
+   "fact": "她没有杀Nina：湖边那次她没带任何设备，警方即便下载两人手机的GPS数据也证明不了她们曾在一起。",
+   "anchor": "any devices on our little lake run",
+   "start": 826,
+   "end": 860
   },
   {
-   "fact": "致命自白：东莨菪碱大剂量是诚实血清——Étienne 死的那晚，她把药碾碎掺进他的酒里审问生意经；副作用没写的是眩晕、失常与冲动。",
-   "anchor": "an effective truth serum",
-   "start": 5624,
-   "end": 5648
+   "fact": "关系：Jean是Nina的未婚夫（已有更年轻漂亮的女伴）；她因应用算法建议她和Nina加好友而刷到Nina的主页，进而找到Jean的Facebook，新计划改成勾引Jean而非杀Nina。",
+   "anchor": "I found him on her Facebook account",
+   "start": 415,
+   "end": 450
   },
   {
-   "fact": "她的前史：医药代表——收入与骄傲兼备；Étienne 借口想她、实则防她接触体面医生；「我为他辞职」，简历空窗后难再就业。",
-   "anchor": "hawking pharmaceutical drugs to doctors",
-   "start": 6391,
-   "end": 6430
+   "fact": "丈夫Étienne死的那晚，她把处方东莨菪碱（原本是为激素引起的恶心开的，大剂量可当真话血清）碾碎混进他的酒里，盘问他的商务旅行。",
+   "anchor": "mixing them into his wine before questioning him",
+   "start": 5731,
+   "end": 5779
   },
   {
-   "fact": "《卫报》记者 Thomas Riley 来电：ELDS（WPP 收购标的）的营收造假指控正在被推翻——她的公共口径再度崩塌；她两次挂断。",
-   "anchor": "the allegations about revenue discrepancies are proving suspect",
-   "start": 8849,
-   "end": 8912
+   "fact": "背景：她原是医药销售代表，被Étienne劝辞职（简历空窗致再就业无门）；十年后（逐字 ten years）他出差回来宣称遇到了别人、需要自由。",
+   "anchor": "a business trip ten years later",
+   "start": 6709,
+   "end": 6740
   },
   {
-   "fact": "退场预案：复仇完成即消失——改回娘家姓、离开法国去别的英语旅游区翻译菜单度日。",
-   "anchor": "Camille Durant isn’t long for this world.",
+   "fact": "自称Thomas Riley的《卫报》（The Guardian）记者来电：其亡夫前公司ELDS是WPP的收购目标，高管称营收差异的指控正被证疑，想问她丈夫为何会相信——她答 Only he would know that 并两次挂断电话。",
+   "anchor": "finances of your husband’s former company, ELDS",
+   "start": 8699,
+   "end": 8746
+  },
+  {
+   "fact": "身份与退路：Camille Durant 这个身份活不长了；复仇后她打算消失、改回娘家姓、离开法国，去别的美国游客热点做菜单或商务翻译。",
+   "anchor": "Camille Durant isn’t long for this world",
    "start": 9629,
-   "end": 9670
+   "end": 9669
   },
   {
-   "fact": "生日派对演讲稿两句：「你那出轨的未婚妻毁了我的人生」→「帮我毁掉她的人生」；之后「不太会有多少交谈」。",
-   "anchor": "help me ruin hers.",
-   "start": 10084,
-   "end": 10102
+   "fact": "终局计划：在Nina坚持让她操办的小聚会上摊牌——开场是「你那出轨的未婚妻毁了我的人生」，收尾是「帮我毁了她」；之后她不指望还有多少交谈（暗示动手）。",
+   "anchor": "It starts with your cheating fiancée ruined my life",
+   "start": 10015,
+   "end": 10066
   }
  ]
 }

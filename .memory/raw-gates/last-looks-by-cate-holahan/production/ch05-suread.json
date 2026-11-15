@@ -4,55 +4,49 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch05_chapter_five_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "Nina 终于回信，自称被视频打动、期待「我们合作」；Cécile 冷笑：这个「我们」不是客户与服务者，而是捕食者与猎物。",
-   "anchor": "Nina replied last night",
+   "fact": "昨晚妮娜回复了塞西尔的邀约视频，自称被打动、对\"us working together\"（一起合作）感到兴奋；塞西尔把两人关系定性为掠食者与猎物，而非付款客户与服务商。",
+   "anchor": "Nina replied last night. Her message professed",
    "start": 111,
-   "end": 134
+   "end": 157
   },
   {
-   "fact": "视频通话验富是烂策略——生活可以布景；跟 Étienne 过的那几年，她学得比谁都精。",
-   "anchor": "Life can be staged",
-   "start": 975,
-   "end": 993
+   "fact": "塞西尔特意选在铁艺栏杆正对埃菲尔铁塔的阳台与妮娜视频以展示财力；这处房子标价\"高得离谱\"、她其实住不起——等Étienne家的房产中介找到合适买家，她就要流落街头。",
+   "anchor": "Its wrought-iron balustrade overlooks La Tour Eiffel",
+   "start": 1115,
+   "end": 1167
   },
   {
-   "fact": "她把通话安排在能望见铁塔的阳台：这房子根本住不起——Étienne 家的房产中介一找到买家，她就得搬上街。",
-   "anchor": "I’m on the street",
-   "start": 1442,
-   "end": 1459
+   "fact": "妮娜自报价：通常每小时$150，内容含逛街、整理衣橱、给建议，此次另收差旅费。",
+   "anchor": "I typically charge $150 per hour to shop and reorganize",
+   "start": 3318,
+   "end": 3373
   },
   {
-   "fact": "手机靠一瓶 2017 Château Latour 支在露台桌上；Étienne 收藏的酒，她正慢慢喝干他的投资——「报复可以很美味」。",
-   "anchor": "draining his investment dry",
-   "start": 1825,
-   "end": 1852
+   "fact": "自称\"失去了丈夫、但也得到不少\"的塞西尔假装心算主动抬价：每天八小时、连做五天、含公务舱机票，凑整€10,000；妮娜脸红称\"太慷慨\"，行程被当场敲定下周一成行。",
+   "anchor": "At eight hours a day for five days, plus a business-class",
+   "start": 3465,
+   "end": 3522
   },
   {
-   "fact": "谈价：Nina 自报时薪 150 美元；Cécile 假装算数，把五天×八小时加商务舱机票凑成 €10,000 整——她故意把价抬高，Nina 脸红了，说「真慷慨」。",
-   "anchor": "let’s call it an even €10,000?",
-   "start": 3537,
-   "end": 3567
+   "fact": "妮娜坚持改造完成后要办晚宴或派对\"首秀\"新形象，还提起塞西尔Instagram上吹蜡烛的照片问生日；塞西尔识破她打算借机结识自己的朋友、拿客户当社交跳板，故拒绝。",
+   "anchor": "She intends to use me to network",
+   "start": 5378,
+   "end": 5410
   },
   {
-   "fact": "Nina 谢绝住她家，改住酒店，且未婚夫 Jean 随行——Cécile 大惊：对方 IG 从没出现过男人，唯一一次 wire service 派对合影里的男人戴着婚戒（不是她戴）。",
-   "anchor": "My fiancé will be accompanying me",
-   "start": 6101,
-   "end": 6134
+   "fact": "妮娜透露未婚夫Jean将随行：他会说法语、在巴黎一家银行工作（她驻留期间他去办公室上班），两人还把行程变成十天欧洲早蜜月、游里维埃拉——塞西尔暗惊：妮娜的Instagram上从没出现过男人。",
+   "anchor": "traveling around Europe for ten days. Visiting the Riviera",
+   "start": 6712,
+   "end": 6770
   },
   {
-   "fact": "圣特罗佩别墅闪回：Étienne 与前妻 Yvette 所出的成年子女（Amélie 夫妇）正享用泳池；Yvette 曾乐于看她的生育困难——「她孩子的终极继承权少了个竞争者」。",
-   "anchor": "Yvette delighted in my fertility issues",
-   "start": 7392,
-   "end": 7431
+   "fact": "由里维埃拉联想到Étienne的圣特罗佩别墅：深蓝瓷砖的无边泳池是塞西尔挑的；Étienne首婚的成年子女Amélie夫妇总来消夏，前妻Yvette多半也在照看孙辈——她曾幸灾乐祸于塞西尔的生育问题，好让自家孩子独占遗产。",
+   "anchor": "Amélie and her husband always took every opportunity",
+   "start": 7043,
+   "end": 7095
   },
   {
-   "fact": "通话结束：未婚夫会把事情复杂化（他知道她来巴黎工作、可能见过她的照片）——但换个新发型发色他就认不出她；当然，她绝不会让自己站上指认台。",
-   "anchor": "he won’t be able to pick me out of a lineup",
-   "start": 8344,
-   "end": 8387
-  },
-  {
-   "fact": "盘子越过阳台栏杆坠街炸成一地「亮片」——血牛排喂给下水道老鼠（呼应第一章的「享受盛宴」），楼下无行人、车内人看不见。",
+   "fact": "通话一结束，塞西尔把整盘外焦里血的生牛排连瓷盘抛下空无一人的街道；瓷盘摔成满地碎片如闪光弹，她对着楼下的老鼠说很快会再送更多。",
    "anchor": "Over the edge the plate goes",
    "start": 8941,
    "end": 8969

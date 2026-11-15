@@ -4,40 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch30_chapter_thirty_nina_berry.txt",
  "facts": [
   {
-   "fact": "醒来即束缚：脸上粗麻布、左手被 clove hitch（帆船营绳结课）系上床架；脑里像泡在 codeine 止咳糖浆，一挣就收紧。",
-   "anchor": "The more you struggle, the tighter it gets.",
-   "start": 248,
-   "end": 291
+   "fact": "Nina 醒来无法呼吸：厚布压着鼻子，挣扎时发现只有右手能动，左手被粗麻布绳捆住、拴在床架上；Jean 说那是双套结（clove hitch），越动收得越紧，这手艺来自他多年帆船营地学的打结。",
+   "anchor": "That’s a clove hitch.",
+   "start": 777,
+   "end": 798
   },
   {
-   "fact": "收拾行李的镜像：她的设计师衣服被撕下扔进 carry-on，他的叠得一丝不苟——「一边精心打包自己、一边把前未婚妻的衣裳当垃圾，psychopathic」。",
-   "anchor": "There’s something psychopathic",
-   "start": 2101,
-   "end": 2131
+   "fact": "地点回到酒店套房：Jean 自己箱里的衣物叠得整整齐齐，却把前未婚妻 Nina 的名牌服装从衣架上扯下、像垃圾一样丢进她的手提箱，她那件真丝改制的裙子被揉成一团，落在湿的洗发水瓶上。",
+   "anchor": "We’re back in the hotel suite.",
+   "start": 1612,
+   "end": 1642
   },
   {
-   "fact": "避孕骗局揭示：三个月糖片（网上药房「给片场用的 placebo 避孕药」）——「女人陷害男人是常事，我只是换了个方向」；她喉咙发干：「You trapped me.」",
-   "anchor": "You weren’t on birth control.",
-   "start": 5124,
-   "end": 5153
+   "fact": "Jean 从衣柜扯下 Nina 去 Cécile 生日穿的花格裙，说它没型、适合当孕妇装；Nina 骂他「有病」，他反咬她才是「杀人未遂」（attempted murderer）。",
+   "anchor": "the plaid dress that I wore to Cécile’s birthday",
+   "start": 2610,
+   "end": 2658
   },
   {
-   "fact": "出行方案：ketamine（夜店时代的老 dealer 摩托车送货、prefilled 注射器）＋轮椅/卧床剧本（「宫颈弱、早期宫缩」）；「发育迟一点好过死了」。",
-   "anchor": "Not conscious.",
-   "start": 6205,
-   "end": 6219
+   "fact": "Jean 说不能让 Nina 堕掉「我们的孩子」，称这决定他有一半份；她尖叫那是她的身体、现在只有树莓大小、连可辨认的四肢都没有；Jean 举拳欲打又收回，改口说「好母亲不会骂自己的宝宝」。",
+   "anchor": "I can’t let you abort our baby.",
+   "start": 3844,
+   "end": 3875
   },
   {
-   "fact": "电话里的 cruel cackle：对 Cécile 炫耀「我太太不需要你的钱」「你没孩子不会懂她的优先级」——她第一次看清 Jean 是 vicious 而不只是 selfish。",
-   "anchor": "not having kids yourself",
-   "start": 9253,
-   "end": 9277
+   "fact": "Nina 恍然 Jean 动过她的避孕药：她 16 岁起服避孕药、每天照常吞服不会失效，问题应是连续三个月（Three months）误吞糖片；Jean 承认从网上药店买到「据称供电影片场使用」的安慰剂避孕药，还得意说女人常困住男人、这次公平换个玩法。",
+   "anchor": "I’d been taking contraceptives since I was sixteen.",
+   "start": 5322,
+   "end": 5373
   },
   {
-   "fact": "收尾：额头湿吻＋拎走她的行李箱——夜行火车（不是船）；「All that labor and no payoff. Fortunately, your upcoming labor won't have that result」的双关。",
-   "anchor": "You’ll sleep through the whole overnight train ride.",
-   "start": 9936,
-   "end": 9988
+   "fact": "Jean 掏出预充好的氯胺酮（ketamine）针剂——毒贩来自他泡夜店的年代，如今有送货服务、摩托车骑手按需上门；不顾 Nina 以「孩子」求情和他从前连酒都不许她喝的对照，把针扎进她上臂。",
+   "anchor": "The dealer from my clubbing days",
+   "start": 6362,
+   "end": 6394
+  },
+  {
+   "fact": "运走安排：Jean 叫门房送轮椅来，对外谎称「可怜的怀孕妻子」因宫颈弱、早期宫缩被医嘱卧床；他吻她额头说「休息吧，亲爱的」，她会在整段夜班火车上一路睡着。",
+   "anchor": "That’s why the concierge is bringing a wheelchair.",
+   "start": 7813,
+   "end": 7863
+  },
+  {
+   "fact": "药效发作时 Camille 来电，Jean 躲开 Nina 接听：他说「我们会有孩子，两个人养更好」「我妻子不需要你的钱」，还讥讽对方自己没有孩子；挂断后他说 Camille 的支票会跳票，Nina 觉得这种对生育力的羞辱过于恶毒（她对 Cécile 也没多少同情）。",
+   "anchor": "Camille says her check will bounce.",
+   "start": 9577,
+   "end": 9612
   }
  ]
 }

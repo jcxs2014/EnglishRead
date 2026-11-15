@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch20_chapter_twenty_nina_berry.txt",
  "facts": [
   {
-   "fact": "她连夜谷歌翻译读报道：警方从未认定他杀（坠落死因调查中），媒体却一边倒——58 岁健康有钱的法国男人不可能翻过有护栏的阳台；沉默即认罪。",
-   "anchor": "brutally biased against The Widow",
-   "start": 283,
-   "end": 316
+   "fact": "本章视角人物 Nina Berry 在酒店套房卧室书桌前速读关于 Étienne Durant 之死的谷歌翻译报道；未婚夫 Jean 在她身后踱步，连发反问反对她继续为这位客户工作。",
+   "anchor": "Google-translated articles about Étienne Durant",
+   "start": 190,
+   "end": 237
   },
   {
-   "fact": "讣告照片辩护：220 磅起步、满脸黄油威士忌——「只有女子健美运动员才搬得动他」，比 Céci—Camille 重约百磅。",
-   "anchor": "over 220 pounds",
-   "start": 2156,
+   "fact": "早期报道一边倒地断定这位 58 岁、健康富有的法国商人是被人从围栏阳台推下的，矛头直指他的第二任妻子；尽管警方从未指明他杀、指控从未提起，其死因最终被裁定为自杀。",
+   "anchor": "charges were never filed. His death was ruled a suicide.",
+   "start": 1345,
+   "end": 1401
+  },
+  {
+   "fact": "Jean 点破假客户的真名是 Camille Durant：她此前以 Cécile Duval 之名和假 Instagram 接近 Nina；Nina 承认伪造身份的细节确实令她不安，辩称对方只是不想被谷歌搜到。",
+   "anchor": "She gave you a fake name. A fake Instagram.",
+   "start": 1756,
+   "end": 1799
+  },
+  {
+   "fact": "Nina 以体型为 Camille 辩护：警探引语称凶手须把一名成年男子抬过四英尺栏杆，而讣告照片中的 Étienne 体重超过 220 磅、比 Camille 重约一百磅，只有女健美运动员才抬得动他。",
+   "anchor": "The man was easily over 220 pounds",
+   "start": 2137,
    "end": 2171
   },
   {
-   "fact": "Jean 抓腕验伤、追问是否摔到肚子——她借「跑步摔的」过关，瞒下注射室抓痕；猫与书架图案的睡衣「最能喊没有性生活」。",
-   "anchor": "Did you hit your stomach?",
-   "start": 4887,
-   "end": 4912
+   "fact": "Jean 抓住 Nina 的手腕查看伤痕，问她是不是跑步时摔伤、有没有撞到肚子；Nina 隐瞒实情——Cécile 注射时失控弄伤了她的手臂——顺势认下摔倒的借口。",
+   "anchor": "Jean grabs my wrist, examining the injuries",
+   "start": 4711,
+   "end": 4754
   },
   {
-   "fact": "争吵升维：他嫌她图「名造型师与有钱朋友」；她反问——ambition 在你身上叫成功，在我身上怎么就不得体。",
-   "anchor": "Why is ambition unseemly when it’s mine?",
-   "start": 6410,
-   "end": 6450
+   "fact": "已是董事总经理兼合伙人的 Jean 拟好一段要替 Nina 发给 Camille 的断交短信，自称身为大型投资公司的受托人不能让合伙人沾上她的名声；Nina 意识到回酒店出租车上他一直沉默是在起草告别信。",
+   "anchor": "as a fiduciary at a major investment firm",
+   "start": 9046,
+   "end": 9087
   },
   {
-   "fact": "「我们的孩子」头衔被驳回（现在只有肾豆大小）：吃喝已改，还要牺牲工作？「请别对孕妇 mansplain。」",
-   "anchor": "I’m a person, not a vessel.",
-   "start": 7274,
-   "end": 7301
+   "fact": "Jean 表明两人关系——Nina 将成为他的妻子和孩子母亲，称自己的职责是保护她和家庭；他承诺陪她一同戒酒、戒红肉和 Brie，就当我们俩是一起怀着孩子。",
+   "anchor": "You’re going to be my wife and the mother of my child.",
+   "start": 9673,
+   "end": 9727
   },
   {
-   "fact": "Jean 用 HR 腔背出辞退信全文（fiduciary 的名誉风险）——她这才明白出租车上的沉默是在起草辞职信。",
-   "anchor": "crafting my goodbye letter",
-   "start": 9335,
-   "end": 9361
-  },
-  {
-   "fact": "妈妈的声音在脑内替他说话（protector/provider/good dad）；她投降：当面辞、改约酒店附近公共 brunch；额头吻落下——「他赢了，我让步了」，头痛收尾。",
-   "anchor": "an audible surrender",
-   "start": 10322,
-   "end": 10342
+   "fact": "Nina 让步，决定当面辞职：打电话说明天不能跑步，改约酒店附近公共场所吃 brunch；定约的吻落在她额头而非唇上，她心想「他赢了，我让步了」。",
+   "anchor": "I’ll call to say I can’t run tomorrow",
+   "start": 10370,
+   "end": 10407
   }
  ]
 }

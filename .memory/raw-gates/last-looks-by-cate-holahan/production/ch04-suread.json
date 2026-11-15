@@ -4,70 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch04_chapter_four_nina_berry.txt",
  "facts": [
   {
-   "fact": "四条验孕棒全部阳性；她瘫在 Jean 的皮沙发上刷手机，满脑子是腰围而非产检，把自己卷成半胎位。",
-   "anchor": "four—make no mistake, four—positive pee tests",
-   "start": 81,
-   "end": 126
+   "fact": "女主 Nina Berry 确认怀孕：浴室废纸篓里已有四份阳性验孕结果（原文两次强调 four），胚胎六周（six-week-old embryo）；她没去读产前指南，反而蜷在男友 Jean 的皮沙发上刷手机、纠结发胖。",
+   "anchor": "positive pee tests in the bathroom wastebasket",
+   "start": 108,
+   "end": 154
   },
   {
-   "fact": "账算到事业上：孕肚会毁掉主妇客户的镜头感、孕妇装镇不住四十几岁的客户群——Styled by Nina 要活就得再接大量客户，否则回 Saks 给采购主管打下手（当初辞得相当欢）。",
-   "anchor": "Styled by Nina",
-   "start": 807,
-   "end": 821
+   "fact": "亲人底细：Nina 母亲四年前去世（four years），死因与父亲相同——祈祷无效的癌症（prayer-resistant cancer）；父亲酗酒、魅力十足却玩弄女性，先于母亲病故；母亲是天主教徒、生前早起逼她上主日学读圣经，但 Nina 未真正入教，脑内常响起亡母说教。",
+   "anchor": "been gone four years, thanks to the same form",
+   "start": 1283,
+   "end": 1328
   },
   {
-   "fact": "父母双亡：母亲四年前去世，与父亲死于同一种祷告无效的癌症；父亲酗酒、迷人、毫不悔改地风流。脑内母亲训话不断：「我教你是让你不敬重福分吗？」",
-   "anchor": "prayer-resistant cancer",
-   "start": 1332,
-   "end": 1355
+   "fact": "事业底盘：造型生意 Styled by Nina 只有几家 B 级杂志和少数本地贵妇客户，要存活必须大幅增加客户（还要有人脉）；退路是回 Saks 给首席买手当助理——工作内容主要就是盯库存和咖啡订单——但她是近乎痛快地辞职的，未必回得去；模特这条路也彻底不再是选项。",
+   "anchor": "tracking inventory and coffee orders",
+   "start": 1001,
+   "end": 1037
   },
   {
-   "fact": "她想过去诊所（终止妊娠），但想象不出母亲会支持；也想象不出母亲活着会不抢着帮她带孩子——如今不存在任何她会帮忙带娃的场景。",
-   "anchor": "heading to a clinic",
-   "start": 2781,
-   "end": 2800
-  },
-  {
-   "fact": "Instagram 十条新消息九条是机器人假号，唯一真人来信是一支视频，标题「巴黎工作机会」——她硬着头皮点开。",
+   "fact": "线索登场：Instagram 当天十条新消息（ten new messages）里只有一条来自活人——标题为 Paris Job Opportunity 的视频；发信女子约四五十岁上下、黑发黑眼、口音浓重（自报 Bonzzzour, Mizzz Berree），说一直在网上关注 Nina，想请她做离婚后的形象改造（postdivorce glow-up）；她的琥珀色虹膜与嘴角烟纹让 Nina 想起亡母。",
    "anchor": "Paris Job Opportunity",
    "start": 3837,
    "end": 3858
   },
   {
-   "fact": "视频里的女人四十末五十初、琥珀色虹膜、嘴角有吸烟者的细纹，莫名让她想起母亲——母亲在父亲深夜外出时靠抽烟定神。",
-   "anchor": "Something about her reminds me of my mother",
-   "start": 4055,
-   "end": 4098
+   "fact": "潜客户身份：这位女士名叫 Cécile Duval，Instagram 发帖不多但张张显富——游艇上与朋友同躺、四季酒店（Four Seasons）标签的海滩照里拥抱一名背对镜头的壮硕男子、近一年前同一天在高级餐厅吹蜡烛；她客厅有 Chagall 画与路易十四式金丝绒长椅；Nina 盘算把她做成招牌，她的富婆闺蜜圈就会排队上门。",
+   "anchor": "The Four Seasons hotel chain is tagged",
+   "start": 5636,
+   "end": 5674
   },
   {
-   "fact": "她翻 Cécile Duval 的 IG 验富：游艇与友同乐、四季度假村沙滩上搂着背对镜头的重磅男人、一年前同日的餐厅生日蜡烛——这场「财富色情」浏览被 Jean 进门打断。",
-   "anchor": "Cécile Duval doesn’t post often",
-   "start": 5364,
-   "end": 5395
+   "fact": "Jean 抱着大花束与一只大到该付房租的巨型泰迪熊进屋送 Nina；花束是至少两打玫瑰（two dozen），粉花尖端染成婴儿蓝——Nina 心里把它想成性别揭示派对道具（It's a girl! Abort! Abort!）。",
+   "anchor": "At least two dozen roses are wrapped",
+   "start": 6550,
+   "end": 6586
   },
   {
-   "fact": "Jean 拎巨型花束加泰迪熊进门，单膝跪地掏出红色 Cartier 盒：「经典切工、圆形、灿烂、无瑕——像你」；她笑称自己像被传送进 Bridgerton 片场。",
-   "anchor": "red Cartier box",
-   "start": 9498,
+   "fact": "求婚：Jean 先把玫瑰插进疑似 Waterford 的水晶瓶（他此前结过婚），随后单膝跪地、右手伸进外套口袋掏出红色 Cartier 戒指盒；他形容钻戒 Classic cut. Round. Brilliant. Flawless, like you，拉过 Nina 的手吻指节；Nina 觉得像被传送进 Bridgerton 剧集。",
+   "anchor": "not fully anticipating the red Cartier box",
+   "start": 9471,
    "end": 9513
   },
   {
-   "fact": "她追问「这不只是因为我怀孕吧？」；Jean 起身用商务腔说「我以为你愿意组建家庭。你不是吗？」——站姿落差让她自觉矮小。",
-   "anchor": "This isn’t only because I’m pregnant?",
-   "start": 10339,
-   "end": 10376
-  },
-  {
-   "fact": "她向 Jean 摊牌巴黎工作：给富离异女做造型、对方让她自己开价；Jean 顺势加入——去巴黎办公室一周、圣特罗佩租船当蜜月；她想起母亲的老话「人算天笑」，叹口气答应。",
-   "anchor": "name my price",
-   "start": 12153,
-   "end": 12166
-  },
-  {
-   "fact": "钻戒戴上手指；与前夜不同，这个吻不令她作呕。Jean 耳语：「我会做最好的丈夫和父亲——而你，会是最好的妈妈。」",
-   "anchor": "nothing about this kiss makes me ill",
-   "start": 13925,
-   "end": 13961
+   "fact": "谈判与应允：Nina 交底收到巴黎工作——为一位富有离异女士做造型，She said I could name my price；Jean 拍板让她接，说自己可在巴黎办公室工作一周，随后 babymoon 或蜜月租船游 Saint-Tropez（他晒过少年时的小帆船和四十英尺 schooner 上的旧照）；Nina 最终答应（Okay, let's do it），Jean 给她戴上钻石、吻她，并低声发誓要做最好的丈夫和父亲、也称 Nina 会是好妈妈。",
+   "anchor": "She said I could name my price.",
+   "start": 12136,
+   "end": 12167
   }
  ]
 }

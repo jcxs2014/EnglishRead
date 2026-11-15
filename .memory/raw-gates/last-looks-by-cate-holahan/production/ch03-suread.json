@@ -4,49 +4,49 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch03_chapter_three_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "开场：她断定 Nina 嫌她不够美，把自己比作手里那只带斑毛皮的桃子——皮糙，内里却比光鲜的同类多汁。",
-   "anchor": "I’m not beautiful enough for her",
-   "start": 34,
-   "end": 66
+   "fact": "塞茜尔在萨克斯大道的露天市场边逛边把桃子咬开，果汁滴到下巴和胸口，她把果汁抹进皮肤，免得弄脏配牛仔裤穿的白色圆领衬衫。",
+   "anchor": "Juices dribble down my chin and drop onto my chest",
+   "start": 477,
+   "end": 527
   },
   {
-   "fact": "紧接一句黑色幽默：也可能 Nina 是嗅到她打算下毒才躲着她。",
-   "anchor": "she senses I intend to poison her",
-   "start": 361,
-   "end": 394
-  },
-  {
-   "fact": "市场年轻小贩看她吃桃，她以为在调情，对方开口却是「一个桃子三欧元」——怕她吃霸王餐；她自知在他眼里已不是性对象，只剩「桃核往哪儿丢」的问题。",
+   "fact": "年轻男摊主说一个桃子要三欧元，塞茜尔意识到对方是怕她吃了不付钱（dine and dash）。",
    "anchor": "Une pêche coûte trois euros",
    "start": 1327,
    "end": 1354
   },
   {
-   "fact": "付账时她装出美国乡下口音说要做波尔多红酒酱、樱桃配红酒炖红肉正好；小贩毫无反应，她庆幸没人认出自己。",
+   "fact": "她朝摊主挥手亮出一张十欧元纸币，点了那个桃子、一袋樱桃和一盒树莓。",
+   "anchor": "un sac de cerises et les framboises aussi",
+   "start": 1713,
+   "end": 1754
+  },
+  {
+   "fact": "为了不暴露口音，她故意加上美国乡土腔，用英语自称要做波尔多红酒酱（樱桃配红酒正配红肉）。",
    "anchor": "I’m making what I think y’all call a bordelaise sauce",
    "start": 2557,
    "end": 2610
   },
   {
-   "fact": "Instagram 视频发出一天多，Nina 毫无回复；她认定服务行业不该怠慢潜在金主，决定再想办法。",
-   "anchor": "It’s been over a day since I contacted her",
-   "start": 2915,
-   "end": 2957
+   "fact": "她通过 Instagram 联系妮娜（Nina）已超过一天（over a day），还拍过一条视频，但对方至今没有任何回复。",
+   "anchor": "over a day since I contacted her through Instagram",
+   "start": 2925,
+   "end": 2975
   },
   {
-   "fact": "第二条视频主打巴黎七区资源当诱饵：左岸、埃菲尔铁塔、奥赛博物馆、乐蓬马歇百货；拍到一半发现下巴沾着桃汁像口水，摔了手机骂出 Merde。",
+   "fact": "出市场时她打开自拍镜头，边走边拍第二段视频，自称住在巴黎第七区（seventh arrondissement），即塞纳河左岸。",
    "anchor": "I live in the seventh arrondissement",
    "start": 3619,
    "end": 3655
   },
   {
-   "fact": "骂人动机学：跟 Étienne 吵架时，他可以无视她的英文四字经，但 putain 一定让他回神——外语脏话才是吵架利器。",
-   "anchor": "But putain got his attention",
-   "start": 4612,
-   "end": 4640
+   "fact": "她弯腰捡掉在地上的手机时树莓盒被夹开，血红的果子滚落到沥青路面并滚进旁边的下水道，她忍住没骂，怕被人拍上网受公审。",
+   "anchor": "the raspberry box pinches open",
+   "start": 4696,
+   "end": 4726
   },
   {
-   "fact": "树莓整盒洒进下水道，她强忍不发作（怕被拍上网、再上舆论法庭受审），转念当成隐喻：Nina 姓 Berry，很快也会像这些红果子一样碎烂、随污物流出海。",
+   "fact": "她把洒落的树莓当成隐喻：妮娜姓贝里（Berry），她预言妮娜很快也会像这些红果子一样被砸碎、随污物流向大海。",
    "anchor": "Nina’s last name is Berry",
    "start": 5100,
    "end": 5125

@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch15_chapter_fifteen_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "大白：Étienne 已死（六楼阳台坠落）；伙伴 Louis 向警方指控她推人，警方裁定自杀——她 1 米 75、61 公斤（如今更轻）对高大男人加齐大腿高的护栏。",
-   "anchor": "pushed a towering man off a sixth-story balcony",
-   "start": 399,
-   "end": 446
+   "fact": "Louis（Étienne 的生意伙伴）向警方坚称是 Cécile 杀了 Étienne：她身高体重仅 one meter seventy-five／sixty-one kilos（因跑步节食现在更轻），不可能把一个高个子男人从 sixth-story 阳台推下去（栏杆只有大腿高）。",
+   "anchor": "one meter seventy-five and sixty-one kilos",
+   "start": 301,
+   "end": 343
   },
   {
-   "fact": "小报叙事定型：两次婚姻、第一任丈夫为小十岁的女人离开、第二任又扬言同样——「被辜负的蛇蝎美人」；她的版本（Étienne 与 Louis 公司的会计亏空丑闻）卖不动报纸。",
-   "anchor": "scorned femme fatale",
-   "start": 1071,
-   "end": 1091
+   "fact": "警方采信 Cécile 的说法、裁定 Étienne 为自杀，但小报紧咬 Louis 的指控：一个 twice-married 女人（第一任丈夫为她 decade-younger 的版本离开她）在第二任丈夫威胁同样做时崩溃杀人——蛇蝎美人故事比财务丑闻卖报。",
+   "anchor": "their suicide ruling didn’t stop the vampiric press",
+   "start": 563,
+   "end": 614
   },
   {
-   "fact": "Louis 一直在盯梢等她露馅；杀死丈夫的情妇正是他会等的那个动作——他现身泳池边反而救她免于定罪（否则躲在灌木里录像就能定她）。",
-   "anchor": "Killing my husband’s lover would be that something.",
-   "start": 1211,
-   "end": 1262
+   "fact": "Cécile 坚持的版本：Étienne 是因他与 Louis 合伙公司的 accounting discrepancies（账目差异）而抑郁自杀；大型私营广告公司的财务丑闻不如桃色新闻卖座。",
+   "anchor": "accounting discrepancies with his and Louis’s firm",
+   "start": 896,
+   "end": 946
   },
   {
-   "fact": "转卖旧衣让她露了富的底；她其实是「合法拥有一半资产」的女人（婚前协议本就无意义的婚姻）——但 Nina 不知道她没钱，她也不打算再给提示。",
-   "anchor": "legally owns half the assets",
-   "start": 2685,
-   "end": 2713
+   "fact": "现在：Cécile 坐在 Printemps 试衣间，试穿 Nina 过去 the past two hours 挑的衣服；自 yesterday’s excursion 后 Nina 变得 budget conscious——Cécile 要求把旧衣卖 top dollar 让她意识到什么；Nina 还不知道 Cécile 其实没钱。",
+   "anchor": "chosen by Nina over the past two hours",
+   "start": 1859,
+   "end": 1897
   },
   {
-   "fact": "眼泪是真的（愤怒的生理）：哭那些失败的试管周期、激素与卧床自怜；「他忘了我也曾有工作——忘了他劝我辞掉那份事业」。",
-   "anchor": "failed IVF regimens",
-   "start": 7315,
+   "fact": "Cécile 已把 Chanel 连衣裙退掉只换 store credit：Chanel 的 couture contract ironclad，走出精品店即 committed to ten grand，两小时后取消订单也没人理会。",
+   "anchor": "committed to ten grand",
+   "start": 5281,
+   "end": 5303
+  },
+  {
+   "fact": "Cécile 嘲 Nina 比她想的更迟钝：Étienne 本该在 that London party 把 business partner（Louis）介绍给 Nina（为炫耀她）；两人中至少一个得真正 work the event，所以可能没碰面。",
+   "anchor": "introduced his business partner at that London party",
+   "start": 3240,
+   "end": 3292
+  },
+  {
+   "fact": "镜前对照 Étienne 为何抛弃她选了年轻的 Nina（更年轻、perkier、有 little job）：Cécile 曾为 failed IVF regimens 而哭；Étienne 曾劝她 quit that career——她婚前也有工作。",
+   "anchor": "cried over failed IVF regimens",
+   "start": 7304,
    "end": 7334
   },
   {
-   "fact": "韩式汗蒸馆（Jjimjilbang）方案：私密按摩间与冷水池——「有人可能遭遇严重意外」；她答应 spa day。",
-   "anchor": "A spa day.",
-   "start": 10110,
-   "end": 10120
-  },
-  {
-   "fact": "Nina 又想拉闺蜜同去当见证；她判定对方只是想拉生意——答应邀朋友，「有几个正需要造型师」。",
-   "anchor": "my friends would love that",
-   "start": 10424,
-   "end": 10450
+   "fact": "Nina 提议 spa day：纽约的 Korean bathhouses called Jjimjilbang（steam baths、body scrubs、facials、massages，附 pedicures 与 blowouts 沙龙）；Cécile 心里盘算私人 massage rooms 与 plunge pools 可能让人 suffer a serious mishap，嘴上答应；Nina 又想 invite her girlfriends，Cécile 起疑后自解为拉生意。",
+   "anchor": "Korean bathhouses called Jjimjilbang",
+   "start": 9600,
+   "end": 9636
   }
  ]
 }

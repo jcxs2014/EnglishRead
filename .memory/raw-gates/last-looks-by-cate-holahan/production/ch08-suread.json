@@ -4,58 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch08_chapter_eight_nina_berry.txt",
  "facts": [
   {
-   "fact": "她盘自己的酒瘾：巴黎名庄的名声加 Cécile 那瓶酒的勾引，但更多是「被禁止」的滋味——婚还没结，已经在听男人的话。",
-   "anchor": "already obeying my man",
-   "start": 1825,
-   "end": 1847
+   "fact": "巴黎餐厅晚餐：男友 Jean 点了 rib eye，Nina 点黄尾鱼配彩虹甜菜切片；Nina 本想点带红酒酱的牛肉，但怕这位新变得紧张兮兮的男友反对红酒入菜。",
+   "anchor": "arcs over a yellowtail fillet",
+   "start": 222,
+   "end": 251
   },
   {
-   "fact": "面包热量心算：整个孕期只想重三十磅；不到两个月，体重已经多了八磅。",
-   "anchor": "gain thirty pounds",
-   "start": 3057,
+   "fact": "Jean 的 rib eye 预先切成一英寸条、中心深紫（极生），按主厨推荐上桌；Jean 毫不犹豫地点了，却认为只要陪 Nina 戒酒就算分担她的饮食之苦。",
+   "anchor": "precut into one-inch strips",
+   "start": 478,
+   "end": 505
+  },
+  {
+   "fact": "Nina 孕期计划只增重三十磅，怀孕不到两个月已重了八磅；她提醒自己刚吃的面包热量高，随后婉拒侍者再加面包的提议。",
+   "anchor": "I only want to gain thirty pounds",
+   "start": 3042,
    "end": 3075
   },
   {
-   "fact": "Jean 陪她戒酒：「你喝不了我就一口不喝」；她心里拆台——自己加入戒酒阵营才几个小时。",
-   "anchor": "We’re in this together",
-   "start": 3924,
-   "end": 3946
+   "fact": "Jean 捏着 Nina 的手说两人同进退：他一整天没喝酒，Nina 不能喝时他也不会喝；Nina 的心放下了些（她严格说才当了几小时戒酒队友）。",
+   "anchor": "I haven’t had a drink all day",
+   "start": 3948,
+   "end": 3977
   },
   {
-   "fact": "听到她九点要陪 Cécile 跑步，Jean 扬眉反问「这是好主意吗」「你收私教费？」；她辩护：客户不爱自己的身体就不会爱新衣服，更不会把她推荐给朋友。",
-   "anchor": "You think that’s a good idea?",
-   "start": 4515,
-   "end": 4544
+   "fact": "明早九点 Nina 约好与 Cécile 跑步——Cécile 想为新村衣橱减重；Jean 质疑孕期跑步是否妥当，Nina 坚称这是工作：让客户对身材满意才会推荐她。",
+   "anchor": "I’m running with Cécile at nine",
+   "start": 4449,
+   "end": 4480
   },
   {
-   "fact": "卷发蓝眼的年轻侍应生按惯例叫她 mademoiselle，Jean 当场咆哮「C'est ma femme——所以是 madame，不是 mademoiselle」；她听不懂法语，想道歉都无从道起。",
-   "anchor": "C’est ma femme",
-   "start": 5446,
-   "end": 5460
+   "fact": "年轻侍者两度上前搭话后，Jean 用法语纠正他说 Nina 是他的 femme，要称 madame 不是 mademoiselle，并命令多上水；两人其实只是订婚尚未结婚，Nina 也没戴婚戒。",
+   "anchor": "donc c’est madame. Pas mademoiselle",
+   "start": 5486,
+   "end": 5521
   },
   {
-   "fact": "她低头藏笑：年轻帅哥觉得她值得多看一眼——也许孕相没她感觉的那么狼狈；Jean 却咬定对方盯的不是她的手（胸也胀了）。",
-   "anchor": "worth a second look",
-   "start": 6331,
-   "end": 6350
+   "fact": "Nina 期望在 Cécile 的生日派对（她推动 Cécile 办的\"盛大揭晓\"）上见到有钱的未来客户；地点或在餐厅或在 Cécile 宅——绿丝绢墙纸上手绘鸟，堪比路易十四的气派。",
+   "anchor": "her birthday party—the one I pushed her",
+   "start": 7944,
+   "end": 7983
   },
   {
-   "fact": "Jean 问 Cécile 有没有人脉；她说客户们会出现在生日派对——被她推着办的「新形象发布」；「她的公寓亲眼见过更震撼，路易十四都会骄傲」。",
-   "anchor": "the grand reveal",
-   "start": 7996,
-   "end": 8012
-  },
-  {
-   "fact": "她盯着 Jean 咽水戒备：父亲教过她——男人追求时一套、认定到手后另一套；Jean 求婚时承诺分担育婴杂务，「可他已经不再单膝跪地了」。妹妹是护士的说法让她松了口气：Freud 靠边，Jean 不是她爸。",
-   "anchor": "He’s no longer kneeling",
-   "start": 9440,
-   "end": 9463
-  },
-  {
-   "fact": "线上购物方案谈妥后，Jean 拍拍她的手收尾：「那么告诉我——Cécile 带你去哪儿跑步？」（读者知道答案：只有她们俩的运河小径。）",
-   "anchor": "Where’s Cécile taking you running?",
-   "start": 10045,
-   "end": 10079
+   "fact": "谈到婴儿照护：Jean 的母亲七十五岁追不动婴儿，Jean 便提出他那当护士的姐姐可以帮忙；两人达成共识，Jean 最后问 Cécile 明早带 Nina 去哪里跑。",
+   "anchor": "his mother is seventy-five",
+   "start": 8708,
+   "end": 8734
   }
  ]
 }

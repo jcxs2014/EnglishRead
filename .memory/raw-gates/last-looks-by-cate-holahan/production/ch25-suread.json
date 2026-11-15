@@ -4,46 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch25_chapter_twenty_five_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "新发型（层叠 lob、向 Nina 致敬）＋象牙缎婚纱裙：路人的目光从「黑寡妇」变成「被偷看」——她要的就是这个反转。",
-   "anchor": "I’m being ogled!",
-   "start": 549,
-   "end": 565
+   "fact": "叙述者 Cécile Duval 走进餐厅便感到众人注视，她知道这些目光背后的想法就是报纸给她贴的标签：La Veuve Noire（黑寡妇）、Black Widow、Husband Killer——一个因报道而恶名在外的杀夫女人。",
+   "anchor": "La Veuve Noire. Black Widow. Husband Killer.",
+   "start": 272,
+   "end": 316
   },
   {
-   "fact": "她穿的是第十章那件象牙缎婚纱（香奈儿换购礼卡）；借口：圣特罗佩海滩屋归了前夫孩子、「没来得及拿回」；Nina 穿「英式守灵桌布」灰格纹衫。",
-   "anchor": "Karl Lagerfeld intended it as a wedding dress.",
-   "start": 3296,
-   "end": 3342
+   "fact": "Cécile 这次的新造型整体照搬她的「时尚顾问」Nina：chic 层次 lob 剪到下颌线下几英寸、强调细颈与高颧骨，妆容仿 Nina 的 Instagram 照，还穿 padded bra 把胸托得像 Nina（Jean 的未婚妻）一样丰满；她当面向 Nina 说这是 homage to my fashion consultant。",
+   "anchor": "chic, layered lob that falls a few inches below my jawline",
+   "start": 728,
+   "end": 786
   },
   {
-   "fact": "订位真名：前姓——「寡头丈夫拿年轻俄罗斯体操运动员换掉我，还强烈建议我离境」；西方媒体不懂西里尔文没串上，Louis 只漏说过「曾订过婚」。",
-   "anchor": "Sophia Ivanov",
-   "start": 4692,
-   "end": 4705
+   "fact": "Jean 说没查到 Duval 或 Dura—（她的真名姓氏 Durant）的订位，Cécile 抢先用 Ivanov 打断、报出别名 Sophia Ivanov——她 oligarch 前夫之前的旧姓；因为 Durant 在法国不算罕见，附近的人听到就会把她与报上那个更胖的长发女人对上号。",
+   "anchor": "I interrupt before he can say my real name aloud",
+   "start": 4443,
+   "end": 4491
   },
   {
-   "fact": "闺蜜全体「病倒」——三人晚餐是她设计的；两支 €800 的 Château Latour 记在 Étienne 的信用卡（孩子们没请法务会计冻结她的卡；顶层出售款足够付账）。",
-   "anchor": "A bad case of viral media.",
-   "start": 5859,
-   "end": 5885
+   "fact": "买单靠 Étienne 的信用开的卡：Cécile 暗自感谢 Étienne 的孩子们不肯雇 forensic accountant 注销她的银行卡；她猜他们要么任账单进入 collection，要么为不玷污家族名声而从前夫的巨额遗产里付掉——卖掉两人 penthouse 的所得如此奢侈，请这顿贵价生日饭只是最起码的。",
+   "anchor": "Étienne’s kids for their unwillingness",
+   "start": 7765,
+   "end": 7803
   },
   {
-   "fact": "法语围栏：全程法语聊 Jean 的奢侈品牌空头，把 Nina 挤出对话；「people tighten their belts」的翻译她故意不给——两杯半后他不再切回英文。",
-   "anchor": "he stopped trying.",
-   "start": 8638,
-   "end": 8656
+   "fact": "四人桌只摆三套餐具：今晚只有 Cécile、Nina、Jean 三人，其余朋友都「病了」——她自称是 a bad case of viral media；她以此庆祝自己的 birthday 和 new chapter，并拍座拉 Jean 坐到自己右边。",
+   "anchor": "four-seater—set with three plates",
+   "start": 5676,
+   "end": 5709
   },
   {
-   "fact": "朗姆蛋糕戏：吹蜡烛时挺胸给他看、同一把叉子喂完他再进自己嘴、Honey=Nina 的称呼游戏——她全程展示给 Nina 看。",
-   "anchor": "the utensil that touched Jean’s saliva in my own mouth",
-   "start": 12422,
-   "end": 12476
+   "fact": "骑士精神、内疚加上想品尝两瓶各 €800 的 Château Latour 让 Jean 陪饮；Cécile 已第四次为他续杯，并频繁说法语把不懂法语的 Nina 完全排除在谈话之外——两杯半后 Jean 不再切回英语。",
+   "anchor": "€800 vintages of Château Latour",
+   "start": 7646,
+   "end": 7677
   },
   {
-   "fact": "卫生间前的低语攻势：「你把她当容器，孕期影响亲密」「在床上女人不能是圣母，必须是情妇」——手落大腿；策略＝无害 crush 而非算计的狐狸精；结尾「快看吧 Jean，很快让你碰」。",
-   "anchor": "She must be the mistress.",
-   "start": 13927,
-   "end": 13952
+   "fact": "Jean 说他与 Nina 恋爱快五个月，Cécile 举杯讥讽是孩子促成了婚约（well played, tying this one down）；Jean 自己曾结过婚，前妻不想要孩子，他浪费了几个月才认清她绝不会回心转意。",
+   "anchor": "We’re coming up on five months.",
+   "start": 10173,
+   "end": 10204
+  },
+  {
+   "fact": "趁 Nina 离席去洗手间，Cécile 对 Jean 挑拨说他把未婚妻当 vessel、孕期女人成了 La Madone，但床上女人得是 mistress 而非 Madonna，说话间把手从拍臂落到他大腿上、感到他裤料绷紧；随后她收手说去替他看 Nina，走向洗手间时心想很快就会让他碰（Soon, I’ll let you touch）。",
+   "anchor": "I drop my hand on his thigh",
+   "start": 13853,
+   "end": 13880
   }
  ]
 }

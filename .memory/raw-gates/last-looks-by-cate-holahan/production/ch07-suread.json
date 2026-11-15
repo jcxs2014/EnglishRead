@@ -4,70 +4,52 @@
  "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch07_chapter_seven_c_cile_duval.txt",
  "facts": [
   {
-   "fact": "真人比照片更性感——她举着前夫的望远镜从阳台看 Nina 走路，想起 Étienne 当年的视线：一个年轻火辣版的老婆。",
-   "anchor": "annoyingly sexier in person",
-   "start": 40,
-   "end": 67
+   "fact": "本章叙事者 Cécile Duval 在自家公寓阳台用双筒望远镜监视到访的 Nina；望远镜是其前任坚称买来\"观鸟\"用的（实为看女人）。",
+   "anchor": "I watch from my balcony, through the binoculars",
+   "start": 352,
+   "end": 399
   },
   {
-   "fact": "望远镜是前夫借口「观鸟」买的；她现在才懂 bird 是英式俚语——他聊的从来不是鸟，是衬衫里的风景。",
-   "anchor": "purchased for bird-watching",
-   "start": 420,
-   "end": 447
+   "fact": "Cécile 已把二十支注射器的肉毒杆菌毒素（购自无监管网上药房）经软木塞注入送给 Nina 的那瓶酒里。",
+   "anchor": "the twenty syringes, ordered through an unregulated",
+   "start": 1213,
+   "end": 1264
   },
   {
-   "fact": "毒杀计划全揭：二十支注射器从无监管网上药房购得、从瓶塞注入她送到酒店的酒；据美学师说法肉毒中毒十八至三十六小时现症、随后死亡；灵感来自 Columbo 重播（毒入未开封陈酿）。她不敢搜「酒精对剂量的影响」——怕留下要命的搜索史。",
-   "anchor": "botulism poisoning",
-   "start": 986,
-   "end": 1004
+   "fact": "据其美容师对肉毒中毒的说法，症状在暴露后十八到三十六小时才显现，之后很快死亡；Cécile 尚不确定剂量是否致命。",
+   "anchor": "signs don’t appear for eighteen to thirty-six hours",
+   "start": 1084,
+   "end": 1135
   },
   {
-   "fact": "她断定 Nina 不可能没见过 Étienne 的婚戒——哪怕他声称「从没在谈话里提起我」；若 Nina 知道她是谁，就不会飞近六千公里来巴黎。",
-   "anchor": "never came up in conversation",
-   "start": 1919,
-   "end": 1948
+   "fact": "下毒的点子来自一集令人印象深刻的 Columbo 重播——剧中毒药同样被注入未开封的年份酒；Columbo 最终识破了诡计。",
+   "anchor": "poison was similarly infused into an unopened vintage",
+   "start": 1536,
+   "end": 1589
   },
   {
-   "fact": "开门前最后一次对镜校准人设：臃肿、灰发、可怜——正是 Nina 答应改造的那个女人，「完美」。",
-   "anchor": "looks pitiful. Perfect.",
-   "start": 3488,
-   "end": 3511
+   "fact": "Cécile 认定 Nina 从 Étienne 的婚戒就该知道他已婚（自称\"我从没在谈话中出现\"），却仍飞了近六千公里来到巴黎\"她的地盘\"。",
+   "anchor": "flown nearly six thousand kilometers to come here",
+   "start": 2060,
+   "end": 2109
   },
   {
-   "fact": "强行敬酒：她只给对方倒六分之一杯逼其陪饮；Nina 杯贴唇却不仰——「要么职业戒备，要么她根本不沾酒」；她自己「真心懊恼」。",
-   "anchor": "To a new me.",
-   "start": 5550,
-   "end": 5562
+   "fact": "会面时 Cécile 在吧台上只给 Nina 倒了六分之一杯自己那瓶\"黑果\"红酒力劝其喝；Nina 先以\"太早、旅途胃不适\"推托，最后一饮而尽。",
+   "anchor": "fill a sixth of the empty vessel",
+   "start": 5325,
+   "end": 5357
   },
   {
-   "fact": "彼得潘领黑裙：跟丈夫说再见那天穿的就是它——前夫在这条裙子里招供了婚外情；Nina 建议上 Vestiaire Collective 转卖，能卖几千欧。",
-   "anchor": "My ex confessed his affair while I was in that dress.",
-   "start": 7146,
-   "end": 7199
-  },
-  {
-   "fact": "红 Versace 是首任丈夫 Dmitri 送的二十三岁生日礼物；她当年比 Nina 更会引人回头——「这倒给了我主意：我知道怎么让这贱人喝酒」。",
-   "anchor": "my first husband, Dmitri",
+   "fact": "红色 Versace 连衣裙是 Cécile 第一任丈夫 Dmitri 送的二十三岁生日礼物；她让 Nina 试穿，趁机替其拉拉链、用指甲刮其后背试探，并借此想到怎么让 Nina 喝酒。",
+   "anchor": "my first husband, Dmitri, bought it for me",
    "start": 8779,
-   "end": 8803
+   "end": 8821
   },
   {
-   "fact": "她「请」Nina 试红裙：对方脱到蕾丝内衣——「有人打算待会儿去见未婚夫呢。毁了别人的婚姻，还保得住自己的」；拉链她抢先拉，指甲擦过对方后背试其底线。",
-   "anchor": "Ruin a marriage and still get to keep your own",
-   "start": 9534,
-   "end": 9580
-  },
-  {
-   "fact": "Nina 原来不爱喝酒，可能把那瓶毒酒留着在派对上转送主人；她收住嘴不反驳——「女人在巴黎失踪的路数，多的是」。",
-   "anchor": "go missing in Paris",
-   "start": 11753,
-   "end": 11772
-  },
-  {
-   "fact": "慢跑搭子到手：明早九点沿运河从十区跑到十九区，「路上就我们俩」；她抚着红绸裙想——丝绸滑得像水龙头里的水，别处的水可粗暴得多。",
-   "anchor": "whole path to ourselves",
-   "start": 12868,
-   "end": 12891
+   "fact": "两人约定次日九点沿运河跑步（跑道从第十区一直到第十九区），届时人少、跑步道归她们独享；Cécile 打算借此再寻手机会。",
+   "anchor": "from the tenth arrondissement all the way to the nineteenth",
+   "start": 12225,
+   "end": 12284
   }
  ]
 }
