@@ -1,0 +1,61 @@
+{
+ "book": "the-last-bride-by-lexy-night",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-last-bride-by-lexy-night/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "第六任妻子 Adria 死去仅几小时，Council 已开始筹备下一季选后。",
+   "anchor": "My wife had been dead only a few hours",
+   "start": 34,
+   "end": 72
+  },
+  {
+   "fact": "Orin 进屋禀报：送葬队 Reapers 已聚集，急于筹备葬礼。",
+   "anchor": "The Reapers have gathered. They are eager to begin preparations for the funeral.",
+   "start": 968,
+   "end": 1048
+  },
+  {
+   "fact": "Vastion 愤怒于传统的机器：尸体会被抽干血以「不浪费资源」。",
+   "anchor": "They would drain her blood, reclaiming every drop so as not to waste resources",
+   "start": 1524,
+   "end": 1602
+  },
+  {
+   "fact": "王传唤 Lailanor（Laila）来向 Adria 做她自己的告别——她是 Adria 的贴身女仆。",
+   "anchor": "Send for Lailanor",
+   "start": 2956,
+   "end": 2973
+  },
+  {
+   "fact": "Orin 对床单行吻手礼向女王致哀——Vampyr 只在人类看着时才向人类王后行礼。",
+   "anchor": "placing a kiss on his knuckles before resting them gently against the silk of the sheet. A silent, sacred tribute to our Queen.",
+   "start": 3690,
+   "end": 3817
+  },
+  {
+   "fact": "Adria 是 Lyr 领地来的 Tribute（贡选新娘），伴王已五十余年。",
+   "anchor": "She was a Tribute from Lyr",
+   "start": 4774,
+   "end": 4800
+  },
+  {
+   "fact": "当年选妃评估时 Adria 无惧无怵（瞳孔不放缩、脉搏不加速），成了 Kesna 背叛后「最安全」的选择。",
+   "anchor": "Her pupils didn’t dilate; her pulse didn’t quicken.",
+   "start": 5202,
+   "end": 5253
+  },
+  {
+   "fact": "往事：亲兄弟与妻子 Kesna 的背叛几乎毁掉他；妹妹 Samina 与 Adria、Orin 把他从自我厌弃中拉回。",
+   "anchor": "My own brother. My own wife. The betrayal had nearly claimed me.",
+   "start": 7573,
+   "end": 7637
+  },
+  {
+   "fact": "章末：Forlorn 阴影迫近，寻找第七任新娘的搜选开始了。",
+   "anchor": "The search for the seventh bride had begun.",
+   "start": 9940,
+   "end": 9983
+  }
+ ]
+}
