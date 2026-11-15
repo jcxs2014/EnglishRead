@@ -123,7 +123,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | attuned | 敏锐感应的 | He was so attuned to her feelings and emotions. |
-| incessantly | 不停地 | Because I simply cannot deal with another hour of pure fucking silence, and if need be, I will sit here and talk to my Fatesdamned self. |
+| incessantly | 喋喋不休地 | or you can be trapped in this room with me for the next hour while I chat incessantly. |
 | seethed | 气得冒烟 | “Believe me, I have regretted that decision since day one.” He seethed. |
 | rigid | 僵直的 | He stiffened, his entire body going rigid. Coldness swept over her. |
 

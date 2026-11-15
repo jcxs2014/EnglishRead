@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch20",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch20_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "Rand（Na-Ri 的低阶王室 Charge）不需全天守——对比 Walder 需要贴身，凸显她「中了头奖」的苦命",
+   "anchor": "No. On the lower end of royals, he does not require constant guard.",
+   "start": 2391,
+   "end": 2458
+  },
+  {
+   "fact": "动物异象时间线：两年前起越逃越远；高议会几周前才收到报告且不以为意，Walder 不认同",
+   "anchor": "I first noticed it about two years ago.",
+   "start": 5311,
+   "end": 5350
+  },
+  {
+   "fact": "Walder 的判断：动物有超人的感知，是「什么」把它们吓跑的",
+   "anchor": "Animals are intelligent creatures, and they possess an amazing ability to sense things",
+   "start": 5932,
+   "end": 6018
+  },
+  {
+   "fact": "Na-Ri 情报源：父母每季来探视时也提到异象——边境与王土两端互证",
+   "anchor": "“My parents mentioned it to me on their last visit.",
+   "start": 3430,
+   "end": 3481
+  },
+  {
+   "fact": "Felix 带来 Ball 消息（新事件钩子）",
+   "anchor": "Did you know there’s a ball coming up?!",
+   "start": 7361,
+   "end": 7400
+  },
+  {
+   "fact": "她的生父：来村过夜的商人，一去不返；母亲猜他死在边境",
+   "anchor": "He was a trader who came to the village and spent a few nights with my mother on his visits.",
+   "start": 1767,
+   "end": 1859
+  }
+ ]
+}
