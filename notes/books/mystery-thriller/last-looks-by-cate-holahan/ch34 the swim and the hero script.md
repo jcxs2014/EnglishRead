@@ -37,7 +37,7 @@ modified: "2026-11-15"
 > **原句 4:** "I catch his audience. A catamaran bobs in the distance. Ant-like specks move about its twin pontoons, some swaying to music that I can almost hear."
 "A sailboat can’t move without the wind. The knowledge boosts my determination. I thread the belt strap through the buckle as Jean retreats into his boat’s cockpit, still shouting in French. “Attends! J’arrive!”"
 **中文理解**：她找到他的观众席——远处起伏的双体船、蚁人般的乘客随乐摇摆。帆无风不动：这个知识给她决心。她抽皮带穿扣，Jean 退回驾驶舱用法语喊：「等等！我来救你！」
-**关键词**：I catch his audience / A sailboat can’t move without the wind
+**关键词**：I catch his audience
 **为什么这样写**：观众席的发现把海洋变成舞台——她与 Jean 同时开始表演；无风帆船的知识点决定她「游」而非「开」的路线。
 **读者视角提示**：他的法语台词全对准双体船——对照第二十五章的餐桌法语：语言即剧场的门票，这次她看得懂剧情却插不上话。
 
