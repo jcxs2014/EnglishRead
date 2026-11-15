@@ -8,7 +8,7 @@ modified: "2026-11-15"
 ## 本章导航
 - **一句话概括**：夜泳登船、目击真刀、预演他的陪审词；隔门对话（绳结、外卖餐具、打火机烧绳）救出 Nina——Jean 持刀而出，corkscrew 入颈的 geyser 让他坠海；Dermabond 自缝、共同 cover story 与「girl's girl」的和解把全书收束。
 - **情感弧线位置**：全书最高潮与道德清点——她用「误认」酿的祸以一次「救对的人」清算；和解不是原谅，是共谋的起点。
-- **线索结构**：四条——武器地理（nightstand 的刀/厨房的外卖餐具/开瓶器与打火器）；孕账对撞（他的「as you did, Camille」 vs 她的「可能性让我年轻」）；正当性叙事（他的陪审词 vs 她的 cover story）；girl's girl 的最终兑现。
+- **线索结构**：五条——武器地理（nightstand 的刀/厨房的外卖餐具/开瓶器与打火器）；孕账对撞（他的「as you did, Camille」 vs 她的「可能性让我年轻」）；正当性叙事（他的陪审词 vs 她的 cover story）；girl's girl 的最终兑现；以及死因施事链——corkscrew 入颈（geyser）→ Nina 踩胸（"She kicks wildly, striking him in the chest"）→ Jean 绊上游泳平台的台阶（"trips over the step"）→ 头朝下落水；md 正文将死因概括为 corkscrew 一击，实际是三方合力（伤+踢+绊），md 导航与总结均未单归 Nina。
 - **人物弧线**：Cécile：无计划者 → 资源侦察者 → 手术者 → 同盟者——她第一次用暴力救人，第一次被人信任。
 - **叙事手法**：登船写成潜入游戏（物品清单即关卡）；色情暴力用 geyser/海浪意象转译；结尾的握手以腕上的 scab 为界——两人的伤互换 recognizable。
 
