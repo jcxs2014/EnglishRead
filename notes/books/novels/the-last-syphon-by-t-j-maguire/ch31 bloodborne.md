@@ -137,7 +137,6 @@ modified: "2026-11-15"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vindictive | 报复心重的 | she’d never seen him be outright cruel or vindictive to anyone |
 
 ## 一句话总结
 
