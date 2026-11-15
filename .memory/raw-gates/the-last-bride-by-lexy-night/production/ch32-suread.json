@@ -1,0 +1,121 @@
+{
+ "book": "the-last-bride-by-lexy-night",
+ "chapter": "ch32",
+ "text": "notes/books/novels/the-last-bride-by-lexy-night/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "Mina 的指控（关键）：「条约历史上从没有哪位人类王后被允许在王国内四处游荡；再加上你在枢密院受到欢迎……那真是场滑稽（travesty）。」",
+   "anchor": "“No human queen in the history of the treaty has ever been granted the freedom to galivant across the kingdom.",
+   "start": 2381,
+   "end": 2491
+  },
+  {
+   "fact": "她的反击（关键）：「事情会变的，Mina——连 Vampyr 也会；你不过是个敌意的遗物，不代表全世界都得跟你一样难忍。」她知道自己踩在打不过的战争边缘上，但押的是对方的克制。",
+   "anchor": "“Things change, Mina. Even for the Vampyr.",
+   "start": 2566,
+   "end": 2608
+  },
+  {
+   "fact": "世代碾压（关键）：「我在你还在你母亲子宫里只是一口气之前几百年就开始治理这个王国了；等你化为尘土之后我还会在这里。」——**这是 Mina 唯一的武器：时间**。",
+   "anchor": "“I helped oversee this kingdom hundreds of years before you were a breath in your mother’s lungs,” she declared. “And I shall be here long after you are dust.”",
+   "start": 2820,
+   "end": 2979
+  },
+  {
+   "fact": "一击致命（全书关键）：她只回了一句：**「除非你先饿死。」**——这句把 Mina 的世代优势瞬间翻面（ch27–29 配给下调的伏笔在此回收），也是全书最漂亮的一次短句反击。",
+   "anchor": "“Not if you starve first.”",
+   "start": 2982,
+   "end": 3008
+  },
+  {
+   "fact": "家书的破译（全书关键）：她只收到一封家书（按封印日期，一个月前发出；Ari 代笔，因父亲的字迹永远难辨）；消息简短而**晦涩**；她反复研读、确信其中有隐藏含义，但只能推断出一件事：**他们没有成功**——毒血计划没有奏效。",
+   "anchor": "Once the mess was cleaned, I returned to my packing.",
+   "start": 4293,
+   "end": 4345
+  },
+  {
+   "fact": "家书暗语一（关键）：「父亲的铺子近来贸易忽然增加，把他钉在工坊直到蜡烛燃尽；他常备的药膏与药剂对日常小病足够，但对我们街区近来流行的**更顽固的病症**却几乎无效。」——**这是全书最重要的暗线**：父亲的 elixir 已经开始在人间流通并「顽固地发作」。她读出了「他们没有成功」，却未必读出这一层。",
+   "anchor": "Father’s shop has seen a sudden influx of trade, keeping him at his bench until the candles burn low. His standard stock of salves and tonics, while sufficient for the usual complaints, has done little against the more stubborn ailments currently moving through the district.",
+   "start": 4902,
+   "end": 5177
+  },
+  {
+   "fact": "家书暗语二（关键）：「他仍相信只要进一步研究并获得恰当资源，他就能找到答案；而所需的要素近来倒更容易获取——尽管他坚持在它们被妥善平衡之前必须以最大的谨慎处理。」——**「要素更容易获取」＝原料（人血）更易获得；「必须以最大谨慎处理直到平衡」＝他在等更多样本**。",
+   "anchor": "He remains confident that with further study and the right resources, he will find the answer. While the necessary elements have been easier to procure of late, he insists they must be handled with the absolute greatest caution until they are properly balanced.",
+   "start": 5180,
+   "end": 5441
+  },
+  {
+   "fact": "噩耗（全书关键）：「我们收到消息：Leto 遭 Forlorn 围困；有伤亡。」",
+   "anchor": "“We’ve received word that Leto has fallen victim to a siege by the Forlorn. There have been losses.”",
+   "start": 6510,
+   "end": 6610
+  },
+  {
+   "fact": "他的区分（关键）：「你的家人是安全的，我已得到保证——但其他人没那么幸运；而你的家人仍可能身处险境。」——**注意「已得到保证」**：他掌握的信息精确到她的家人，而这份保护恰恰来自她与王族的合作。",
+   "anchor": "“Your family is safe. I have been assured,” he said quickly.",
+   "start": 6626,
+   "end": 6686
+  },
+  {
+   "fact": "崩溃（全书关键）：「我们的武器是场闹剧，Vastion——你知道人类只有在觉得自己像受害者时才拔剑；没有你的哨兵，我们等于死人。」她泪眼模糊：「有多少人死了？在你的援军抵达之前，还剩多少人？」——**这一段把全书的核心矛盾摆上台面**：她指控他的人类盟友太少，而事实是那些盟友的补给正被她们的家族计划抽干。",
+   "anchor": "“Our weapons are a farce, Vastion.",
+   "start": 7731,
+   "end": 7765
+  },
+  {
+   "fact": "摊牌（全书关键）：「如果你真爱我，就让他们立刻备船！」——**她第一次用「爱」字要求他**，而这句话是用作武器的：她在拿他最在意的东西逼他冒险救人。",
+   "anchor": "“If you truly loved me, you’d make them ready the ships immediately!”",
+   "start": 8023,
+   "end": 8092
+  },
+  {
+   "fact": "废墟（全书关键）：「当 Leto 终于出现在远处，它已面目全非：镇中心四周建起高高的围栏，标出 Watch 的驻地；如今它与其他那些阴暗的街区别无二致；一缕缕灰烟升腾——那是绵延不绝的柴堆 unmistakable 的气息：**死亡与腐烂的味道，是倒下者的焚烧**。**人类、Vampyr 与 Forlovid 同样化为同一堆灰**。」她为此战栗——**这本书里第一次，真正的人类死在 Forlorn 手下**。",
+   "anchor": "When Leto finally appeared in the distance, it was unrecognizable.",
+   "start": 11524,
+   "end": 11590
+  },
+  {
+   "fact": "她的诘问（关键）：「为了什么结局？」她的词尝着盐与灰的味道——「他们在这里不安全；**人类在任何地方都不安全！**」——**这句话是全书对她整个家族计划的判决**：她不能再假装人类的处境与 Vampyr 的存亡是两件事。",
+   "anchor": "“To what end?” I cried, the words tasting of salt and ash. “They are not safe here. Humans are not safe anywhere!”",
+   "start": 14604,
+   "end": 14718
+  },
+  {
+   "fact": "他的回答（关键）：「现在不要失去决心——这正是我们这项事业如此至关重要的原因：我们必须在这场悲剧扩散之前把他们从这个世界上扫净。」他扶她站起、握紧她的手：「**他们是我们的人，Es。我们是他们唯一的希望，即便他们还不知道。**」",
+   "anchor": "“Do not lose your resolve now,” he urged, searching my eyes. “This is why our cause is so vital. We must scour them from this world before this tragedy spreads further.”",
+   "start": 14721,
+   "end": 14890
+  },
+  {
+   "fact": "她的坚持（全书关键）：「调用普查吧——那是一种侮辱。」她退开一步与他对视：「这些人应得葬礼与仪式；他们不该在屠杀之后像牲口一样被赶在一起清点数字。」——**她拒绝把人当数字**——而她的普查方案（ch22）本来正是清点数字的工具。**她在最惨的时刻修正了自己的方法论**。",
+   "anchor": "“Call the census. It is an insult.”",
+   "start": 15577,
+   "end": 15612
+  },
+  {
+   "fact": "她的方案（全书关键）：「我们会举行一场仪式，以纪念他们；我们会在入口处安排一名书记，让任何愿意的人把所爱之人的名字刻进**《铭记之书》**。」——**普查被转化成纪念**：同一个人口统计机制，一端是家族的情报需求，另一端是死者的名录。",
+   "anchor": "“We will hold a service,” I said, a sudden spark of clarity cutting through my despair.",
+   "start": 16522,
+   "end": 16609
+  },
+  {
+   "fact": "他的军事方案（关键）：「破晓我们将动身识别它们的隧道并部署那件武器；若成功，能在下一个日落前消灭它们的大半。」——**毒烟武器第一次要用于大规模实战**，而主导者是她提供的情报（隧道）。",
+   "anchor": "“At dawn we will move to identify their tunnels and deploy the weapon.",
+   "start": 17742,
+   "end": 17812
+  },
+  {
+   "fact": "他的理由（关键）：「我们不能让人类再经历一夜的恐怖——你和我一样清楚。」他的增援将承担首轮攻击；「我会留下足够的驻军保护 Leto 人，但**要救下剩下的，唯一办法是把烂处从源头切除**。」",
+   "anchor": "“We cannot let the humans face another night of terror.",
+   "start": 17974,
+   "end": 18029
+  },
+  {
+   "fact": "结尾（全书最重的一句）：「一个为了他的安全的吻。一个为了他迅速归来的吻。但最重要的是——**这是一个出于私人必要而生的吻；我不敢让父亲或哥哥看见我对她那 sworn enemy 的真情的深度。**」——**她与杀死她同族的敌人接吻，而她的家人正在被同一场灾难袭击**：全书卧底线的最高潮。",
+   "anchor": "A kiss for his safety. A kiss for his swift return. But mostly, it was a kiss born of private necessity; I dared not let my father or brother witness the true depth of my affection for their sworn enemy.",
+   "start": 19191,
+   "end": 19394
+  }
+ ]
+}
