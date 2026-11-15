@@ -1,0 +1,55 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "librarium 内景：穹顶藏书溢架、Cias 自制桌椅，但村里几乎无人来听课",
+   "anchor": "hardly anyone in Deadhaven attended his teachings",
+   "start": 1018,
+   "end": 1067
+  },
+  {
+   "fact": "Cias 终生研究 Guardian 与其 Chosen 之间的 soul-link",
+   "anchor": "I have dedicated my entire life to learning everything I can about the soul-link",
+   "start": 2117,
+   "end": 2197
+  },
+  {
+   "fact": "soul-link 规则：守护兽一生只缔结一次，是灵魂相融，一方死另一方也死，且无需征得同意",
+   "anchor": "a Guardian will only create a soul-link once in its entire lifespan",
+   "start": 5756,
+   "end": 5823
+  },
+  {
+   "fact": "古籍明文：Chosen 继承守护兽全部力量、近乎永生——Inara 追问「我是不死的？」",
+   "anchor": "The Chosen shall inherit all the powers of its Guardian",
+   "start": 8707,
+   "end": 8762
+  },
+  {
+   "fact": "黑暗战争史：Cursed King 是 Syphon、吸干 Tolanaa 成死国；战后 syphon 能力被全境法令判死",
+   "anchor": "A formal decree was issued and signed by the kings and queens of the kingdoms, officially outlawing the ability.",
+   "start": 13808,
+   "end": 13920
+  },
+  {
+   "fact": "Inara 的母亲每晚讲黑暗战争的故事，就是为让她明白身为 Syphon 意味着什么——她自己是 Syphon",
+   "anchor": "trying to make sure she understood the severity of what it meant to be a Syphon.",
+   "start": 11773,
+   "end": 11853
+  },
+  {
+   "fact": "巨龙疑为黑暗战争幸存的 One of the Three，名字叫 Fraener，王室本有人 reserved 要与它缔结",
+   "anchor": "If I’m right, and he is who I think he is, his name is Fraener.",
+   "start": 16677,
+   "end": 16740
+  },
+  {
+   "fact": "Cias 的忠告：骑上龙就跑——王室腐朽会把 Shielder 拧成杀戮工具，Arelia 绝不会放她走",
+   "anchor": "Get on the back of that dragon and run.",
+   "start": 18328,
+   "end": 18367
+  }
+ ]
+}
