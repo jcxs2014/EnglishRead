@@ -1,0 +1,49 @@
+{
+ "book": "last-looks-by-cate-holahan",
+ "chapter": "ch14",
+ "text": "notes/books/mystery-thriller/last-looks-by-cate-holahan/text/ch14_chapter_fourteen_nina_berry.txt",
+ "facts": [
+  {
+   "fact": "今晨跑步换了场地：巴黎东郊的万塞讷森林——「巴黎版中央公园」；Cécile 为证明「这公园大三倍、有真树林」越跑越快，把她甩在后面。",
+   "anchor": "Le Bois de Vincennes",
+   "start": 105,
+   "end": 125
+  },
+  {
+   "fact": "小径变泥径：垃圾袋搭的窝棚、旧家具、晾衣绳上的男裤——流浪汉聚居区；她安慰自己「两个女人总比一个好」。",
+   "anchor": "unhoused people",
+   "start": 3557,
+   "end": 3572
+  },
+  {
+   "fact": "黑水潭崖边：Cécile 的手掌从肩滑到背、把她往崖边推——「你得身体前倾才看得见瀑布」；她站定不动：「我怕高。」",
+   "anchor": "You have to lean forward.",
+   "start": 6005,
+   "end": 6030
+  },
+  {
+   "fact": "一根树枝断裂——来人干净无须、羊绒衫、刚梳向右的金发、溅泥的牛仔裤：正是昨天白雷诺里的蓝眼男人。",
+   "anchor": "A big man . . .",
+   "start": 6351,
+   "end": 6366
+  },
+  {
+   "fact": "法语交锋（她听不懂）：男人质问「我就知道是你。你跟她在一起干什么」；Cécile 喊「离我远点」；男人回「我知道你做了什么。你对媒体撒了谎」。",
+   "anchor": "Tu as menti à la presse.",
+   "start": 7227,
+   "end": 7251
+  },
+  {
+   "fact": "手机没有信号（威胁落空）；Cécile 口袋里掏出的不是手机是弹簧刀——银光连斩，喝令滚否则「像猪一样开膛」；男人讥称她「黑寡妇」后报警遁走。",
+   "anchor": "Veuve noire.",
+   "start": 7709,
+   "end": 7721
+  },
+  {
+   "fact": "收刀入黑鞘的解释：法国警察不把性骚扰当回事、stalker 反而会博同情——「我们得自己保护自己」；「枪？这里不像美国」；「回去吧，别误了购物」。",
+   "anchor": "We must protect ourselves.",
+   "start": 8953,
+   "end": 8979
+  }
+ ]
+}
