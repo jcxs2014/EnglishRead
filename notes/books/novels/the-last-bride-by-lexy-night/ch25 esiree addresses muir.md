@@ -23,7 +23,7 @@ modified: "2026-11-15"
 > **原句 2:** "Now that I stood here before the moment I would finally deliver it to my first territory, I felt overwhelmingly like a fraud. Looking out at my fellow human citizens, I could see the exhaustion and grief in their weathered expressions."
 
 **中文理解**：站在她的第一个领地上，她「压倒性地觉得自己是个骗子」；看着同胞的脸，她看见疲惫与悲伤——每道皱纹、每次不定的目光、每处紧张的咬唇，都是被丧失之痛与时刻戒备折磨的生活的痕迹；但她决定先以「他们的王后——他们的人类王后」的身份开口。
-**关键词**：I felt overwhelmingly like a fraud / the exhaustion and grief in their weathered expressions / their queen—their human queen
+**关键词**：I felt overwhelmingly like a fraud / the exhaustion and grief in their weathered expressions / Now that I stood here
 **为什么这样写**：作者把「骗子」这个词放在她站上人群的那一刻，而不是放在她说谎的那一刻——因为真正的骗局不是话术，是身份。而她选择「先做他们的王后」，说明她至少在这一刻选择了承担这个位置。
 **读者视角提示**：**关键**：她的演讲顺序（先做王后、后谈普查）说明她把「对人民的责任」放在了「对家族的任务」之前——这是全书她弧光的转折点。
 
@@ -37,21 +37,21 @@ modified: "2026-11-15"
 > **原句 4:** "“Sadly, my mother died there, and we shared only a few moments before death parted us. And it was not the last time. Death has been a frequent visitor to our lands; darkening our doors, lurking in the waning light of day, and whispering its cold promises on the wind."
 
 **中文理解**：「可悲的是，母亲死在那里，我们只共享了片刻便被死亡分开。而那不是最后一次。死亡是我们土地的常客：在我们门前投下阴影、在日光衰退时潜伏、在风中低语它冰冷的承诺。我们都听过它、我们也都感受过它。而我们仍为一个未来而战：让我们的孩子不再生来就成为 Vassals；让你们的儿子不必靠无眠之夜守卫家园；让你们的女儿不再被养大成为贡品。我们共享这个愿景，我们有权为它希望、有权为它而战。」
-**关键词**：my mother died there / we are right to hope for it / daughters are not raised to be Tributes
+**关键词**：my mother died there / Sadly, my mother died there / Sadly, my mother died there
 **为什么这样写**：作者让母亲的死扩展成整个领地的常态，再把哀悼转成三条具体的政治诉求（孩子/儿子/女儿）——这是本书最典型的「苦难→诉求」转换。而第三条（不再把女儿养成贡品）正是她自己的处境：她以王后身份要求那些母亲不要再献出女儿。
 **读者视角提示**：**关键**：她为自己争取的制度（王后）正是当年让母亲们失去女儿的那套制度。她在制度内部工作——这是本书对「改革 vs 革命」最有意味的一笔。
 
 > **原句 5:** "“It may sound strange, but your king fights for that same future. The Forlorn, or Rabids as we call them, were once human too. I believe there is no hope for those beastly creatures. However, the Crown, the Vampyr citizens, and their sentries stationed in our territories cling to their civility with a firm grasp. Our continued existences are intertwined, and it’s imperative we partner with them.”"
 
 **中文理解**：「听来或许奇怪，但你们的国王也在为同一个未来而战。Forlorn（你们称之为 Rabids）曾经也是人；我认为那些野兽没有希望了。然而王冠、Vampyr 臣民与驻扎在你们领地的哨兵都以坚韧的意志维持着文明。我们的存续彼此交织，与他们结盟是势在必行。」
-**关键词**：your king fights for that same future / they were once human too / Our continued existences are intertwined
+**关键词**：your king fights for that same future / It may sound strange, but / Our continued existences are intertwined
 **为什么这样写**：这是全书最锋利的一次双重谎言：她必须说服本族人与敌人合作，而她自己恰恰是那个密谋摧毁他们的人。作者让「Forlorn 曾经也是人」这句由她说出——那是 ch13 Orin 教她的知识，如今成了她的说服工具。
 **读者视角提示**：**全书最关键的一次自我背叛**：她的每句话都在为敌人辩护，而她的计划正是让这些「盟友」死亡。读者能同时看到她的真诚（她真的相信这套说辞）与她的背叛。
 
 > **原句 6:** "“Today, I ask that you participate in a most critical census. Yes, I will not hide from you that the dwindling numbers of humans and Vassals has our Vampyr counterparts concerned. But I am concerned about your needs."
 
 **中文理解**：「我要求你们参加一次最关键的普查——我不隐瞒：人类与 Vassal 数量锐减已让我们的 Vampyr 对手忧虑。但我忧虑的是你们的需要：粮储够吗？城墙牢固吗？武器锋利待用吗？为了向 Muir 提供必需品，我需要准确的人口数：儿童、妇女、老人、病弱者与育有幼儿者。」
-**关键词**：a most critical census / I will not hide from you / Are your food stores sufficient?
+**关键词**：a most critical census / I will not hide from you / Today, I ask that you
 **为什么这样写**：作者让「普查」这件工具性事务立刻被她改造成关怀式问询：先承认对方的忧虑，再把话题转到粮储与城墙，最后才要人口数字。她甚至加了一句「你们每个人都很重要」——这不是她剧本里的词，是她自己的。
 **读者视角提示**：**注意**：她要的人口数字正是父亲计划所需的原料（供血潜力）。她以为自己在背叛王室，实际上这一趟普查为家族创造了最有价值的情报。
 
@@ -79,14 +79,14 @@ modified: "2026-11-15"
 > **原句 10:** "I felt the pit in my stomach drop the moment the words left my mouth. “No, other than ‘stay the course.’”"
 
 **中文理解**：她感到话一出口，胃里就往下一沉：「不，除了『坚持既定方针』之外。」
-**关键词**：I felt the pit in my stomach drop / other than ‘stay the course’
+**关键词**：I felt the pit in my stomach drop / I felt the pit in
 **为什么这样写**：作者用生理反应替代道德抒情：她的背叛不需要解释，只需要一个下沉的胃。这三个字（stay the course）是全书最冷的一次通牒——她把父亲的目标（毒血）说成了「既定方针」，而这三个字同时也是对自己的宣判。
 **读者视角提示**：**全书最重要的三个字**：她明知父亲要做什么，却用这三个字替它背书。读者在此看见她的「忠诚」究竟是什么——不是理想，是惯性。
 
 > **原句 11:** "Stay the course, I thought to myself. I hadn’t meant it. Not at all."
 
 **中文理解**：（她心想）坚持既定方针——她本不该这么说的，完全不该；她本想冲到街上大喊：我们一直在寻找解药，而在此期间我们要竭尽所能毁灭 Forlorn！我相信 Parcaetes 的事业，而且随着每一天过去，我甚至更相信 Vastion。但我不能告诉他们这些、不能透露其中任何一丝。她还没说服自己能向 Ari 与父亲透露那些感情，更别提 Muir 的陌生人了；若他们怀疑她的优先次序已经改变，他们就有充分理由另立一位人类王后——一个不以任何方式偏袒 Vampyr 的王后。
-**关键词**：I believed in the Parcaetes’ cause / believed more in Vastion / usher in a new human queen
+**关键词**：Stay the course, I thought / Stay the course, I thought / Stay the course, I thought
 **为什么这样写**：这是全书卧底线的心脏段落：作者把她的坦白全放在内心，而对外只有那句三字通牒。作者甚至给出她的推理——若家人发现她偏袒敌人，他们就会换掉她（换掉一个「有用」的王后）。**她背叛家族，不是因为不爱国，而是因为爱国者不再信任她**。
 **读者视角提示**：**关键**：她的处境是一个闭环——她越证明自己有用，越必须说谎；越说谎，越无法说出真相。这不是软弱，是系统性的挤压。
 
@@ -116,9 +116,9 @@ modified: "2026-11-15"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| scurry | 小跑、疾走 | I began to shift back and forth nervously, constantly checking for the arrival of any overly curious onlookers. |
-| siege | 围城、围攻 | “When I was but a babe in my mother’s womb, the territory of Leto fell under siege by the Rabids.” |
-| census | 人口普查 | “Today, I ask that you participate in a most critical census.” |
+| nervously | 紧张地 | I began to shift back and forth nervously, constantly checking for the arrival of any overly curious onlookers. |
+| siege | 围城、围攻 | “When I was but a babe in my mother’s womb, the territory of Leto fell under siege by the Rabids. |
+| census | 人口普查 | While I would be certain that all key points of the census would be addressed, I chose first to address them as their queen—their human queen. |
 
 ## 一句话总结
 在 Muir 的第一个领地上，她用母亲的死讲出整个领地的未来、用 Forlorn 的由来教人民与敌人结盟、用「解药将解除我们共同的诅咒」结束演说——而家人的消息是「毫无进展」，她只能回一句「坚持既定方针」，然后带着这句自己都不信的话去赴那场可能不会有主人的庆功晚宴。

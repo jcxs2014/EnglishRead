@@ -127,7 +127,6 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | treason | 叛国、叛变 | “She was executed for treason, along with my younger brother.” |
-| platonic | 柏拉图式的（纯精神） | “We were platonic. Truly, she was my best friend.” |
 | unflinching | 毫不退缩的 | “No,” Vastion answered without hesitation, his gaze unflinching. |
 | defiance | 反抗 | “Hardly.” |
 

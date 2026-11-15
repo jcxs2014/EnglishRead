@@ -125,7 +125,7 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | unannounced | 未事先通知的 | I remained frozen to my seat, still in shock that he had entered my tent uninvited and unannounced at such an hour. |
-| quivered | 颤声、发抖 | She glanced nervously back and forth between me and Vastion, unsure of what to do before she quivered out, “I…I’m not supposed to allow—” |
+| quivered | 颤声、发抖 | “My apologies… I am unable to read this; my vision has always been troublesome for me.” Her lip quivered as she continued, “Would it be possible for you to read it to me?”   Lord Elek snapped at her in frustration. |
 | deflecting | 转移（话题）、把……引开 | “I was lucky to dance with many adept partners last night,” he said, looking at the other Tributes and deflecting any moment we may have shared. |
 | grappling | 苦苦挣扎、努力消化 | I was still grappling with the fact that I had to dance with a vampire in front of all those people. |
 

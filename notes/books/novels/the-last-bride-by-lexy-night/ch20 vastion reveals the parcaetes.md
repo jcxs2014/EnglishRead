@@ -94,7 +94,7 @@ modified: "2026-11-15"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disarmed | 解除武装、瓦解戒心 | The sound of her beating, fearful heart had completely disarmed me. |
+| disarmed | 解除武装、瓦解戒心 | But the sound of her beating, fearful heart had completely disarmed me. |
 | gravitated | 被吸引、倾向 | Perhaps she gravitated towards Harden because he was honest with her. |
 | unchanging | 不变的 | There is nothing to pursue when granted an endless life, no urgency. The Vampyr are unchanging. They have nothing to lose—but humans, they fight for future generations. |
 | inception | 开端、起始 | “The Parcaetes have been dedicated to this cause since shortly after the inception of the treaty.” |

@@ -16,7 +16,7 @@ modified: "2026-11-15"
 > **原句 1:** "“Fine, but promise me that if he hasn’t returned by the hour of the wolf, you will go yourself. Even if you must go alone.”"
 
 **中文理解**：「好，但你答应我：如果他在狼时还没回来，你会亲自去。」Orin 说自己也同样担心——「你最好指望我在那之前还能克制住自己」；她低声说「那就去」，眼里开始涌出泪水。
-**关键词**：promise me that if he hasn’t returned / you will go yourself / I am just as concerned
+**关键词**：promise me that if he hasn’t returned / you will go yourself / Fine, but promise me that
 **为什么这样写**：作者把「狼时」（夜半）这个古罗马时刻写成一个战术期限：她的爱在此第一次表现为作战命令。而「你最好指望我还能克制住自己」是统领罕见的口误式坦白——他在替王担心她，正如她替王担心他。
 **读者视角提示**：注意她的让步是交换式的：她放他去，前提是他答应去。这已是她第一次以条件的方式对待他的安危。
 
@@ -32,7 +32,7 @@ modified: "2026-11-15"
 > **原句 3:** "“Go then. Bring him blood. Now!” I commanded impatiently."
 
 **中文理解**：「去。给他拿血。现在！」她不耐烦地命令；Orin 看了她一眼，目光里有担忧——而就在那一刻她意识到：他在犹豫。
-**关键词**：Go then. Bring him blood. Now! / his gaze showing a hint of concern / And that’s when I realized
+**关键词**：Go then. Bring him blood. Now! / Go then. Bring him blood / Go then. Bring him blood
 **为什么这样写**：作者把「命令」写成书中最锋利的一次转折：她命令统领去取血，而统领的犹豫让她瞬间明白——取血意味着要从王身上取。**一个刚刚说「我绝不会咬你」的人，此刻必须喝另一个人的血**。
 **读者视角提示**：**全书最精妙的一处结构**：ch20 他的「咬你禁令」在此成了她的武器——她凭那三个字要他兑现。信守承诺与救命之间，冲突精准地落在同一个人身上。
 
@@ -48,7 +48,7 @@ modified: "2026-11-15"
 > **原句 5:** "“No, that is too much,” he replied, pushing his palm against the ceramic carafe."
 
 **中文理解**：「不，这太多了。」他推开按在陶壶上的手掌——她立刻发作：「别拿配给的事糊弄我，你这蠢货。你是王。这种程度的伤……」她从未见过 Orin 这样跟他说话——「他是以朋友而非仆人的身份在说话」。
-**关键词**：No, that is too much / Don’t give me this shit / speaking as his friend, not a servant
+**关键词**：No, that is too much / No, that is too much / No, that is too much
 **为什么这样写**：作者用「取血」这件事把三人的关系全部改写：Orin 必须像仆人一样从王身上取血，而她拒绝接受这个角色——她要他直接喝下去。Orin 罕见的抗命不是不敬，正因为他以朋友身份说话。
 **读者视角提示**：**关键**：这一段的真正主角是 Orin——全书他第一次在王面前坚持自己的判断（ch13 他是那个「我讲原则」的人）。他的忠诚有形状。
 
@@ -88,7 +88,7 @@ modified: "2026-11-15"
 > **原句 10:** "“Am I not merciful?” I replied with a sly wink, echoing his prior sentiment. I made my way into the bed beside him, covering myself with the blanket to ward off the chill they’d let into the tent when they burst in."
 
 **中文理解**：「你在照顾我吗，Es？」——「我难道不仁慈吗？」她狡黠地眨了下眼，逐字呼应他先前的说法。
-**关键词**：Are you doting on me, Es? / Am I not merciful? I / echoing his prior sentiment
+**关键词**：Am I not merciful?” I / Am I not merciful?” I / echoing his prior sentiment
 **为什么这样写**：作者让权力关系完成对调：ch17 是他在刑场对她说「我难道不仁慈吗」，如今是她用同一句话回敬他——而这次她握着的是他的命。这不是玩笑，是全书两人权力天平正式倾斜的记号。
 **读者视角提示**：**关键呼应**：留意「mercy（仁慈）」这个词在本书的用法——ch17 他用仁慈包装杀 Tempus，ch26 她用仁慈包装救治与调情。
 
@@ -96,7 +96,7 @@ modified: "2026-11-15"
 > **原句 11:** "My bashful silence gave way to another unexpected remark. “I heard your speech.”"
 
 **中文理解**：她含羞的沉默之后，另一句出乎意料的话落下：「我听到了你的演讲。」
-**关键词**：I heard your speech / My bashful silence gave way / My eyes widened in shock
+**关键词**：I heard your speech / My bashful silence gave way / My bashful silence gave way
 **为什么这样写**：这一句把整章从「救人」推到「审判」：他一直在场——她的演说被他完整听见。作者让她瞬间以为完了（因为她知道自己说了什么），也让她第一次意识到：**他的在场不是偶然，而是选择**。
 **读者视角提示**：**关键**：ch25 她在台上讲「坚持既定方针」式的谎言，他在台下听着。她以为自己瞒住了所有人——她没瞒住唯一不该瞒的人。
 
@@ -104,7 +104,7 @@ modified: "2026-11-15"
 > **原句 12:** "“Esiree, in the short time I have been your husband, there is one thing I know for certain.”"
 
 **中文理解**：「Esiree，短短这段时间里作为你的丈夫，我确定一件事。」她问「哪一件？」他答：「你从不服从。」她笑了——这个评价无可逃避地真实。
-**关键词**：there is one thing I know for certain / You never do as you’re told / the inescapable truth of his assessment
+**关键词**：there is one thing I know for certain / Esiree, in the short time / Esiree, in the short time
 **为什么这样写**：作者用一句最短的评价完成两人关系的定性：他爱她的方式恰恰是爱她的不顺从。注意「作为你的丈夫」这个限定语——他第一次在称呼里强调丈夫身份，而 ch22 他说过「你说你能做更多，那就让我做」是同一个逻辑的延续。
 **读者视角提示**：**关键**：她的不顺从曾是她的武器（对抗制度），如今成了他爱她的一部分。这两条线在她身上合流了。
 
@@ -120,7 +120,7 @@ modified: "2026-11-15"
 > **原句 14:** "“The last time you kissed me, on our wedding day, it was duty. If you ever kiss me again, it will be by your choosing. You’ll have to be the one to act, Es. I’ve already made my affections known.”"
 
 **中文理解**：「你上次吻我是婚礼那天——那是义务。如果你 ever 再吻我……」
-**关键词**：The last time you kissed / If you ever kiss me again / My chest tightened at the proposition
+**关键词**：The last time you kissed / If you ever kiss me again / The last time you kissed
 **为什么这样写**：这是全书最重要的一次条件交换：她要的不是被吻，而是**由他来吻**。作者把 ch08 婚礼上那场表演性的吻（仪式）与她此刻索取的吻（选择）严格对照——同一个动作，意义完全相反。
 **读者视角提示**：**关键**：她终于不再否认（ch08 她签的是「侍奉 Devana 是我的荣幸」），而是开出条件。这是全书女主从交易走向要求的转折。
 
@@ -128,7 +128,7 @@ modified: "2026-11-15"
 > **原句 15:** "I clasped his face tightly before crashing my lips to his. I’d seized the moment, and now there was only one thing left to do."
 
 **中文理解**：（她俯身，唇悬在他唇上方。）「我会为这个下地狱。」随后她双手捧住他的脸、吻了下去——「我抓住了那一刻，而此刻只剩一件事可做。」
-**关键词**：I’ll be damned for this / I clasped his face tightly / Let it burn
+**关键词**：I clasped his face tightly / I clasped his face tightly / I clasped his face tightly
 **为什么这样写**：全书情感线的转折点：她以「下地狱」为代价主动吻他，而作者用「Let it burn（让它烧起来）」作结——ch08 那句「始于流血、终于流血」的谶语在此被她改写：这一次火烧的是她自己。
 **读者视角提示**：**全书最重要的一句**：她不再是被追逐的火鸟（firebird），而是点火的人。「Let it burn」三个词把整本书的被动语法一次性倒转。
 
@@ -137,25 +137,19 @@ modified: "2026-11-15"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | doting | 溺爱、悉心照料 | “Are you doting on me, Es?” |
-| unequivocal | 明确的、毫无疑问的 | Esiree, in the short time I have been your husband, there is one thing I know for certain. |
 | blight | 祸害、灾祸 | Even if we could have turned your mother, I wouldn’t have. We are a blight on this world, and that is why no one shall make more Vampyr as long as I reign. |
-| ineffectual | 无效的、不起作用的 | I tried everything to free myself from him, but he held on with every twist, turn and tug. |
+| clutched | 紧抓、攥住 | I clasped his face tightly before crashing my lips to his. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| reprieve | 暂缓、缓解 | It’s ok, Vastion comforted me, patting a hand briefly on my knee. |
-| cavity | 空洞、腔体 | The wounds began to close one by one, but in their wake were smooth pink scars, rows and rows of them. |
-| cavities? | —— | —— |
-| sundry | 各种各样的 | After dinner I escorted her back to our dwelling, and her unsteady footsteps indicated she had drunk more than her share at dinner. |
+| scars | 疤痕 | “It’s working!”   The wounds began to close one by one, but in their wake were smooth pink scars, rows and rows of them in place of the gashes that had run like shallow creek beds down his back. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| blistered | 起水泡的 | It wasn’t that she truly longed for Vastion, but I was beginning to pine for his presence, for his familiar face. |
 | wolf? | —— | —— |
-| howl | 嗥叫 | But if the weapon failed, even partially, we would be in for a skirmish. |
-| hunched | 蜷曲的、弓着背的 | “He won’t bite me. I know it,” I declared, looking down at Vastion who was hunched over, in obvious pain. |
+| hunched | 蜷曲的、弓着背的 | I know it,” I declared, looking down at Vastion who was hunched over, barely holding himself up. |
 
 ## 一句话总结
 毒烟测试失败、王重伤归来，她命令统领给他取血并亲手包扎；他说「我听到了你的演讲」、并拒绝转化她的母亲——而她开出条件「如果你 ever 再吻我」，说「我会为这个下地狱」，吻了下去。

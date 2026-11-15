@@ -130,7 +130,7 @@ modified: "2026-11-15"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| atrophied | 萎缩、衰退 | These feelings were once again so strange and new. They had atrophied, leaving me frozen. |
+| atrophied | 萎缩、衰退 | They had atrophied, leaving me frozen. |
 | reckless | 鲁莽的、不顾一切的 | Had I really grown so bored that I had become reckless with my own throne? |
 | exasperated | 恼怒的、被惹火的 | “No, we should discuss that hag of a bride you’ve selected!” she said, exasperated, throwing herself dramatically onto my bed. |
 
