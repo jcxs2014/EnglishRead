@@ -1,0 +1,55 @@
+{
+ "book": "laced-in-longing-by-dakota-monroe",
+ "chapter": "ch00",
+ "text": "notes/books/novels/laced-in-longing-by-dakota-monroe/text/ch00_author_note.txt",
+ "facts": [
+  {
+   "fact": "作者开宗明义：这本书的核心是 PMDD（经前焦虑障碍）。",
+   "anchor": "Laced in Longing is, at its heart, a story about PMDD (pre-menstrual dysphoric disorder).",
+   "start": 104,
+   "end": 193
+  },
+  {
+   "fact": "主角 Maven 没有被诊断，故事也不点名她经历的是什么——PMDD 只以隐喻存在，正文永远不会出现这四个字母。",
+   "anchor": "Maven (the main character) is not diagnosed and the story does not name what she is experiencing.",
+   "start": 250,
+   "end": 347
+  },
+  {
+   "fact": "她遇到的人、去的地方、逃不开的情绪、变成的自己——全是这个障碍的不同侧面。",
+   "anchor": "The people she encounters, the places she visits, the emotions she cannot escape, and the versions of herself she becomes are all different facets of the disorder.",
+   "start": 406,
+   "end": 569
+  },
+  {
+   "fact": "作者描述 PMDD 体验：旧念头会突然变得全新而压倒性，恐惧回来、悲伤探头、愤怒接管生活。",
+   "anchor": "Thoughts you know you have had before can suddenly feel new and overwhelming.",
+   "start": 746,
+   "end": 823
+  },
+  {
+   "fact": "症状逃不掉，只能反复告诉自己「这不是真的」。",
+   "anchor": "You cannot escape the symptoms of this disorder…you can only tell yourself over and over again, “this is not real.”",
+   "start": 1119,
+   "end": 1234
+  },
+  {
+   "fact": "作者预警读者：Maven 会显得重复、做令人沮丧的选择、退回你以为她已经走出的情绪——这是有意的。",
+   "anchor": "Because of that, Maven may sometimes feel repetitive.",
+   "start": 1237,
+   "end": 1290
+  },
+  {
+   "fact": "作者拒绝线性痊愈叙事：痊愈不总是前进，有时是回到原地却发现自己处理得不一样了；有时根本没有痊愈。",
+   "anchor": "Healing is not always a forward motion.",
+   "start": 1695,
+   "end": 1734
+  },
+  {
+   "fact": "作者承诺有 happy ending——「只要你选择相信」；但透过 PMDD 透镜看，结局可能没你想的那么甜。",
+   "anchor": "it does have a happy ending, if you choose to believe it",
+   "start": 2358,
+   "end": 2414
+  }
+ ]
+}
