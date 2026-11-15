@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch35",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch35_chapter_35.txt",
+ "facts": [
+  {
+   "fact": "她的 theory：Medalist 是幌子——剑柄红宝石里藏血（Bloodborne 只对含血金属显能）",
+   "anchor": "my theory is there’s blood in there",
+   "start": 2722,
+   "end": 2757
+  },
+  {
+   "fact": "relationship 误会梗：他听岔了当场 stumble 结巴——她把「工作关系」的补刀耍成调情",
+   "anchor": "We do not have a relationship.",
+   "start": 3621,
+   "end": 3651
+  },
+  {
+   "fact": "公投危局：禁 Bloodborne 案三年三提、4:3 差一票、Villani 主导——他正运作撤他的席",
+   "anchor": "The referendum to outlaw Bloodbornes did not pass.",
+   "start": 5685,
+   "end": 5735
+  },
+  {
+   "fact": "隐藏哲学源头：父亲教的——「人们恐惧不能控制之物」；Cursed King 是恶人不是因 Syphon 而恶",
+   "anchor": "It was my father’s idea.",
+   "start": 8903,
+   "end": 8927
+  },
+  {
+   "fact": "骨骸启示：三村尸骨全化为 dust and ash（不可能短时间腐化）——这是 ch25 报告的地面实证",
+   "anchor": "Bones were all that remained.",
+   "start": 1462,
+   "end": 1491
+  },
+  {
+   "fact": "她口误心供：「我就是喜欢跟你说话」——自己 wince 但承认是真的",
+   "anchor": "Perhaps I just like talking to you.",
+   "start": 6900,
+   "end": 6935
+  }
+ ]
+}
