@@ -1,0 +1,43 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch34",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch34_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "他追来的推理：知道她放不下村子必经停——所以他直接来村里堵她",
+   "anchor": "“I knew you would visit your village.",
+   "start": 2611,
+   "end": 2648
+  },
+  {
+   "fact": "谈判破裂点：他放话强拖；她回「你得先打晕我」——最后他 sighed 认了",
+   "anchor": "“I will drag you back,” he warned.",
+   "start": 6065,
+   "end": 6099
+  },
+  {
+   "fact": "她靠 body language 读他 mood——两章没说话也懂",
+   "anchor": "It was all she needed.",
+   "start": 7087,
+   "end": 7109
+  },
+  {
+   "fact": "双龙拒近死国：急降急停+倒退着远离（scurried backwards）",
+   "anchor": "Fraener suddenly veered down",
+   "start": 9048,
+   "end": 9076
+  },
+  {
+   "fact": "Fraener 的心象轰炸：每个画面里她都死了、他也随之心碎而死——「我 promise 有危险就走」",
+   "anchor": "Him, crushed with heartbreak, dying along with her.",
+   "start": 12393,
+   "end": 12444
+  },
+  {
+   "fact": "她与王储对视一瞬：foreboding（不祥预感）——两人龙的同款告别后徒步跨线",
+   "anchor": "if she had to guess, she would say it was full entirely of foreboding.",
+   "start": 13498,
+   "end": 13568
+  }
+ ]
+}
