@@ -48,7 +48,7 @@ modified: "2026-11-15"
 > **原句 6:** "Louis shakes his head. “No. Étienne wouldn’t have killed—”"
 "“Most of all, you forget who I am.” Cécile glares at him, turning the words into a threat."
 **中文理解**：Louis 摇头：「不。Étienne 不会自——」话被截断；「最重要的是，你忘了我是谁。」Cécile 瞪着他，把句子变成威胁。
-**关键词**: Étienne wouldn’t have killed / you forget who I am
+**关键词**：Louis shakes his head / Étienne wouldn’t have killed
 **为什么这样写**：两处截断（他杀/自杀的未完成句、威胁的完成句）并置——她说完的与说不完的构成供词与恐吓的分界线。
 **读者视角提示**：「你忘了我是谁」是黑寡妇档案的自引——她拿公众恐惧当武器用；这是本章与第十五章档案的正式接轨。
 
