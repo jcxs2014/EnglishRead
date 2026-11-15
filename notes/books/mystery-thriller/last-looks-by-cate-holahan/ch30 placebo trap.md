@@ -96,7 +96,7 @@ modified: "2026-11-15"
 |---|---|---|
 | burlap | 粗麻布 | Burlap saws into my skin. |
 | zipper | 拉链 | Fabric catches between the teeth. He yanks it back down and pulls it up again, forcing it closed over the clothes. |
-| digs | 抠、挖（挤 space） | I pull at the rope, forcing the digits on my right hand between it and my left wrist, trying to dig a space wide enough for my hand to slip out. |
+| dig | 抠、挖（挤 space） | I pull at the rope, forcing the digits on my right hand between it and my left wrist, trying to dig a space wide enough for my hand to slip out. |
 
 ## 一句话总结
 行李的秩序照出人格，糖片揭穿预谋——她被预充的 ketamine 运上夜行火车，人生第一次「labor」被他提前写好台词。

@@ -91,9 +91,9 @@ modified: "2026-11-15"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| concierge | 礼宾员 | You want to leave a package for a guest? |
+| concierge | 礼宾员 | The concierge faces a laptop atop his desk. |
 | wheelchair | 轮椅 | “I saw her leave last night,” he whispers. “She was in a wheelchair.” |
-| luggage | 行李 | Behind me, our suitcases lie atop twin luggage racks. |
+| clock | 时钟 | I stride toward the dress, passing the scolding time on my digital clock. |
 
 ## 一句话总结
 白裙当不了赎罪券——凌晨酒店「查无此人」、门童耳语「轮椅、喝多」，她判定被下药并锁定 TGV 与船；「我会去看她」是全书第一次为别人的命出门。
