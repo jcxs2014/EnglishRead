@@ -26,7 +26,7 @@ modified: "2026-11-15"
 > **原句 2:** "He tells me that he could not take me the other times I died when I questioned why now. There were rules, and he needed me to say yes before I died. I would’ve had to kill myself no matter what, but it was the intention behind it that kept him from claiming me. He tried everything a god can try that isn’t force to get me here, and nothing worked."
 
 **中文理解**：他告诉她——之前每次她死，他都不能接走她。有规则：他需要她在死前说 yes。反正她横竖会死，但「意图」决定了能不能认领。他试尽了一个神不靠强制能做的一切，把她弄到这里——全都无效。
-**关键词**：he needed me to say yes before I died / the intention behind it / everything a god can try that isn’t force
+**关键词**：say yes before I died / the intention behind it / isn’t force
 **为什么这样写**：全书规则在此交底——「死前的 yes」是唯一合规钥匙，她的屋顶独白（爱/道歉/愿意）在无意中凑齐了全部条件；作者让她的「误读」蒙对规则，却把道德重量留在「横竖会死」四个字上：她的死是既定事实，不是手段——这两件事的分界线，是本章的分析底线。
 **读者视角提示**：这是 dark romance 最冷的一处设定：拯救的密码与毁灭的动机共用同一个动作——作者不给糖衣，只给规则；读者若回翻 ch24，会发现她的每句话都正好是钥匙的齿纹。
 
@@ -82,7 +82,7 @@ modified: "2026-11-15"
 > "“I’m home.” My fingers curl into his shirt. “I’m home, I’m home, I’m—thank you. For not giving up and for always coming back even when I kept saying no. Thank you.”"
 
 **中文理解**：他的目光在她的眼睛里搜寻，然后开口：「你就是家。对我说回来。」「我是家。」他闭上眼，近乎痛苦：「再说一遍。」「我是家。」她的手指抠进他的衬衫。「我是家、我是家、我是——谢谢你。谢谢你没放弃，谢谢我一次次说不要、你却一直回来。谢谢你。」
-**关键词**：You are home. Say it back to me / Again / for always coming back even when I kept saying no
+**关键词**：Say it back to me / Again / always coming back
 **为什么这样写**：归属做成口头仪式——「Say it back」把她的所有权重签成两个人的共同声明；「Again」的那声痛，是他几千年只敢在梦里练习的台词第一次被允许成真；她把「感谢清单」念成忏悔的反义词——全书最治愈的复读。
 **读者视角提示**：对照 ch20「Say it back」的「Yours」——两场仪式一句话式：上一场签「所有权」，这一场签「归属地」；本书的 HE 是程序性的：每一步承诺都有回执。
 
