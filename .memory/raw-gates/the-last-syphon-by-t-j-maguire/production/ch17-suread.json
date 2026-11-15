@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch17",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch17_chapter_17.txt",
+ "facts": [
+  {
+   "fact": "上任首日：千级黑塔爬到断腿，王子的塔全是黑与冷（连呼气都结云）",
+   "anchor": "She had no idea how the fuck she was going to make it through her first day as personal Shielder to Prince Pompus Prick.",
+   "start": 502,
+   "end": 622
+  },
+  {
+   "fact": "偷听：Larissa 求情被拒（“The thief won the trials. By law, the position is hers.”），并当面对王说出她的怀疑——被 Walder 压下",
+   "anchor": "She’s hiding something. I am sure of it",
+   "start": 7393,
+   "end": 7432
+  },
+  {
+   "fact": "四火作弊实锤：Larissa 冷笑不置可否；Fraener 变形吼退她",
+   "anchor": "“It was only meant to be one, wasn’t it? You doctored the trials so you would win.”",
+   "start": 8920,
+   "end": 9003
+  },
+  {
+   "fact": "Larissa 撂话要挖出她的秘密送她进监狱；她只答 Good luck 转身走",
+   "anchor": "Good luck.",
+   "start": 9932,
+   "end": 9942
+  },
+  {
+   "fact": "holding court 全天：申诉全是牛李子树小案子；她累到坐上台阶、金瞳闪光示意仍在执勤",
+   "anchor": "She walked forward and sat down on the first step.",
+   "start": 13751,
+   "end": 13801
+  },
+  {
+   "fact": "Hova（约十四五岁）随父来投军：亮盾技、被 Sentinel Orion 带去训练塔",
+   "anchor": "Hova nodded.",
+   "start": 16154,
+   "end": 16166
+  },
+  {
+   "fact": "午餐冷问答：与 Larissa 七年共餐从未交谈；他默认「有疑问就问」开启对话模式",
+   "anchor": "No is a word used to express disagreement",
+   "start": 21074,
+   "end": 21115
+  }
+ ]
+}
