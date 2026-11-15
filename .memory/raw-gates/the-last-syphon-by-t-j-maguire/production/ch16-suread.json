@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "Kronan 立盾拦门不许闭——皇家代表必须解释新角色",
+   "anchor": "A shield wall snapped into existence in the doorway",
+   "start": 468,
+   "end": 519
+  },
+  {
+   "fact": "Enrollment Scroll 骗局摊牌：签了 Scroll 赢后不履职即入狱一年",
+   "anchor": "the moment I signed that stupid Enrollment Scroll",
+   "start": 1080,
+   "end": 1129
+  },
+  {
+   "fact": "Phaedra 理论：兄长重担压身、需要敢说他做错的人（从没有人做过）",
+   "anchor": "Something no one has ever done before.",
+   "start": 5210,
+   "end": 5248
+  },
+  {
+   "fact": "王室级秘密：Phaedra 是 Powerless（从未显化能力），练就读人直觉",
+   "anchor": "“I’m a Powerless.”",
+   "start": 6948,
+   "end": 6966
+  },
+  {
+   "fact": "秘密分量：王族 Line 出现 Powerless 一事曝光=立刻被废黜",
+   "anchor": "they would be dethroned. Instantly.",
+   "start": 8429,
+   "end": 8464
+  },
+  {
+   "fact": "Kronan 拔剑逼誓：今日所学永不外泄；两人先后立誓",
+   "anchor": "Vow it. Or die.",
+   "start": 9797,
+   "end": 9812
+  },
+  {
+   "fact": "收尾喜剧：Felix 年少偷吃她的巧克力饼干旧账；Fraener 落地捡吃洒落的甜食",
+   "anchor": "It was a chocolate biscuit!",
+   "start": 9457,
+   "end": 9484
+  }
+ ]
+}
