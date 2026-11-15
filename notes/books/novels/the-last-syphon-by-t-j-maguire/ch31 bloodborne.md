@@ -137,6 +137,7 @@ modified: "2026-11-15"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| rubbing his temples | 揉着太阳穴 | He sighed, rubbing his temples. |
 
 ## 一句话总结
 
