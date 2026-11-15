@@ -56,7 +56,7 @@ modified: "2026-11-15"
 "Again, Nina’s face flashes guilt. “I’ll talk to him.”"
 "Not good enough. “Convince him. Would a murderer really buy a baby gift?”"
 **中文理解**：Nina 抱着 Dior 盒抓起袋子，脸上第一次露出真表情——「她是麦克白夫人，我的衣服是她的漂白水」。她追加条件：带 Jean 赴宴，「这对我要紧至极」；「我会跟他说」不够——「说服他。杀人犯会买婴儿礼物吗？」
-**关键词**：Lady Macbeth, and my clothes are her Clorox / The most
+**关键词**：Lady Macbeth, and my clothes are her Clorox / scoops up the bag
 **为什么这样写**：反问句完成道德绑架的合拢——礼盒从礼物变成无罪证明书，收礼即举证；Lady Macbeth 的引用让「洗不掉的手」对上「洗得掉的衣」，文学与日化在同一句握手。
 **读者视角提示**：她给自己写好辩护词（买婴儿礼物的杀人犯）却忘了读者见过全部案卷——这个逻辑漏洞是她的性格，不是她的失误。
 
