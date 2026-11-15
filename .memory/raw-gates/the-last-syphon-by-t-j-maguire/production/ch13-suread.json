@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch13",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "Felix 答对质：母亲离开前夜亲口托付他照看她的力量",
+   "anchor": "“Since your mother left.”",
+   "start": 785,
+   "end": 810
+  },
+  {
+   "fact": "母亲亲口请托：怕她不在时女儿需要帮助，让他 watch out for her",
+   "anchor": "Before your mother left for her latest adventure, she spoke to me.",
+   "start": 2704,
+   "end": 2770
+  },
+  {
+   "fact": "石窟旧事实为设局：他知情后故意带路逼她暴露，她宁可跳美人鱼水域也不吸他",
+   "anchor": "You chose to have us jump into mermaid-infested waters rather than take from me.",
+   "start": 5578,
+   "end": 5658
+  },
+  {
+   "fact": "接纳宣言：拥抱+「你还是那个给我添堵的人」",
+   "anchor": "Being a Syphon doesn’t change who you are.",
+   "start": 6270,
+   "end": 6312
+  },
+  {
+   "fact": "评分规则：按出场序揭晓 1–7 分，按分排序并分配年度 Charge",
+   "anchor": "The High Council members will convene to rank all the contestants and score them between one and seven.",
+   "start": 8787,
+   "end": 8890
+  },
+  {
+   "fact": "Kronan 不参赛之谜：公主称他为其永久盾卫者；两人交换回避的眼神",
+   "anchor": "“Kronan is my permanent Shielder. He need not compete.”",
+   "start": 9319,
+   "end": 9374
+  },
+  {
+   "fact": "章尾悬念：评分即将揭晓，她只担心一件事——Larissa 会不会更高",
+   "anchor": "But did Larissa do better?",
+   "start": 10832,
+   "end": 10858
+  }
+ ]
+}
