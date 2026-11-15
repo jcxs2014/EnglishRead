@@ -42,8 +42,9 @@ modified: "2026-11-15"
 **为什么这样写**：把他写成「征友广告般完美」之后，作者塞进一帧故障画面——「static」是梦中男子的专属签名，此刻落在真实男人身上；这是全书最阴的一笔：她的感知通道已经被那位「他」占用了。
 **读者视角提示**：这一闪有三种读法（她的滤镜／幻觉加深／他与 James 有关联），作者全不给答案——但「The gin. It's the gin playing tricks.」她的自我解释恰好是最偷懒的那种；记住这个未裁决的瞬间。
 
-> **原句 5:** "“Stop,” I gasp, shoving at his chest with a panic-filled strength. “I can’t—this isn’t—I need you to stop.”"
+> **原句 5:** "“Stop,” I gasp, shoving at his chest with a panic-filled strength. “I can’t—this isn’t—I need you to stop.” Move, you asshole!"
 > "He doesn’t, freezing as his brows crease. “What’s wrong?”"
+> "Everything! Everything is wrong. My skin shrivels where he’s touched it, my stomach churns at a rapid pace, and my heart pounds with alarm rather than passion."
 > "“I’ve changed my mind,” I manage, wriggling out from under him to claim the edge of the bed. “I’m sorry, but I need you to leave.”"
 
 **中文理解**：「停下，」她用惊慌攒出的力气推开他的胸口，「我不行——这不是——我需要你停下。」他僵住、皱眉问怎么了。她挣到床沿：「我改主意了。抱歉，但我需要你离开。」
@@ -66,6 +67,7 @@ modified: "2026-11-15"
 **读者视角提示**：补一条她的私人史：急救药在搬来蒙特利尔时被扔了（「自认为不再需要」）——她所有的自救工具都被自己拆除了；此刻的地板是她最裸露的位置。
 
 > **原句 8:** "He sits cross-legged on the floor before me, the hem of his black coat pooling around him like spilled ink. The white fabric still obscures his face, and there’s the perfect stillness of his posture. But he seems almost relaxed…as if appearing in my apartment is the most natural thing in the world."
+> "I freeze, tear-streaked and disheveled, staring at the figure before me. My heart still pounds, my breaths ragged, but now there’s a new element in the panic—something between terror and relief."
 > "He’s here. He’s here and real. I’m not alone."
 > "Or I’ve finally, completely lost my mind."
 

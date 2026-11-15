@@ -75,12 +75,19 @@ modified: "2026-11-15"
 > **原句 9:** "“Mine,” he says, the word vibrating through every cell in my body."
 > "We’re both breathing hard, neither willing to break contact. He’s right here, and yet I cannot touch him."
 > "When you tell it to leave, you must mean it completely. Every part of you must reject its presence."
+
+**中文理解**：「你的。」他说，这个词震动她身体的每一个细胞。两人呼吸都急促，谁都不肯先移开——他就在这里，而她碰不到他。神父的话在她脑内回放：赶它走就必须彻底，每一部分都得拒绝。
+**关键词**：Mine / neither willing to break contact / Every part of you must reject
+**为什么这样写**：三个片段按「宣告—僵持—规则」排布，把决策压力全部压进一段静止里；「Mine」与她体内每颗细胞的共振是全书最近的一次「接触」——近到规则的漏洞（欢迎他的那一部分）再也无法假装不存在。
+**读者视角提示**：对照 ch12 的「滚」——两天时间，她的拒绝从句变成了省略句；作者把「他的话」与「神父的规则」并排放在同一段静止里，让两套声音互相打架，她夹在中间。
+
+> **原句 10:** "I know what I should do. The rational, sensible course of action. Command Ash to go and never come back so that I may reclaim my life and my understanding of reality."
 > "But as I stand here, surrounded by everything that is him, I’m forced to confront an uncomfortable truth: I’m not sure I want him gone."
 
-**中文理解**：「你的。」他说，这个词震动她身体的每一个细胞。两人呼吸都急促，谁都不肯先移开——他就在这里，而她碰不到他。神父的话在她脑内回放：赶它走就必须彻底，每一部分都得拒绝。可她站在这里，被「他的一切」包围着，被迫承认一个不舒服的真相：她不确定想让他走。
-**关键词**：Mine / neither willing to break contact / I’m not sure I want him gone
-**为什么这样写**：四个片段按「宣告—僵持—规则—叛变」排布，把决策压力全部压进一段静止里；「Mine」与她体内每颗细胞的共振是全书最近的一次「接触」——近到规则的漏洞（欢迎他的那一部分）再也无法假装不存在。
-**读者视角提示**：对照 ch12 的「滚」与本章的「Not yet」——两天时间，她的拒绝从句变成了省略句；作者用神父的规则帮她把「赶他走」翻译成「赶自己走」，这道题她第一次答不出来。
+**中文理解**：她知道理性的做法是什么：命令 Ash 永远离开，好收回她的生活和对现实的理解。可她站在这里，被「他的一切」包围着，被迫承认一个不舒服的真相：她不确定想让他走。
+**关键词**：The rational, sensible course / an uncomfortable truth / I’m not sure I want him gone
+**为什么这样写**：「该做的」与「想做的」被写成两句对峙——理性方案描述得越完整（收回生活、收回现实观），后半句的叛变越重；「uncomfortable truth」是她的病识系统第一次给「想留」发的许可证。
+**读者视角提示**：ch14 的章眼就是这两句——「Not yet」的前半截在这里：她没有决定留，只决定「暂不赶」；对一个自称可以等几千年的存在，这个小小的缓期已经是他几百年来的最大进展。
 
 ## 本章词汇
 

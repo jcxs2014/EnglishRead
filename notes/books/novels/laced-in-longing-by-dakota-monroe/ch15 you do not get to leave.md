@@ -22,7 +22,7 @@ modified: "2026-11-15"
 **读者视角提示**：注意他描述的是「别人的」渴望——他数千年的日常是进食他人的痛；这份自白越平静，越衬出他下一步的震撼：有一种味道他从来不碰。
 
 > **原句 2:** "“I wouldn’t know,” he says, his voice dropping to that register that vibrates through my bones. “I have never fed from you.”"
-> "“Why not?”"
+> "The confession catches me off guard, and my head whips in his direction. “Why not?”"
 > "“Because you are not sustenance…” He trails off, but the unspoken words hang between us. You are mine."
 
 **中文理解**：「我不知道，」他说，声线落进那个震她骨头响度的音域，「我从没从你身上取食过。」为什么？「因为你不是食物……」话尾悬停——但没说出的字悬在两人之间：你是我的。
@@ -31,6 +31,7 @@ modified: "2026-11-15"
 **读者视角提示**：对照 ch08 的「Never hers. Never hers.」——同一禁忌的第二次出现，这次是从她的视角首次得知；他挨饿的这几千年是她「可爱而不可食」的证据，dark romance 的最高级甜话原来是一条戒律。
 
 > **原句 3:** "“You’re not going to leave if I tell you to, are you?”"
+> "I sense rather than see his smile—what I would give to see him smile. See any part of his face, really."
 > "His head shakes along with his shoulders. “No.”"
 > "My lips twitch. The honesty is almost refreshing; no pretense or manipulation to be seen. Just the simple truth: he’s not leaving, no matter what I say or do. The truth of it should not flutter in my stomach as it does."
 
@@ -61,7 +62,7 @@ modified: "2026-11-15"
 **为什么这样写**：她的「白噪点」和他的「一切」两句话针锋相对——他不是安慰她，是重写她的宇宙地位；「continue to live」漏出神的存在论：神也要靠意义续命，她就是他的续命装置。
 **读者视角提示**：对照 ch08「My perfect counterbalance」——「the point of it all」是同一理论的抒情版；他说的每个宏大词（星辰、世界）都收拢在一个凡人身上，这种 scales 的急转正是本书的浪漫配方。
 
-> **原句 7:** "“Then I would return you here.” A deep breath. “I would not keep you against your will, Maven. Never that.”"
+> **原句 7:** "He’s silent for a long moment, his spine straightening. “Then I would return you here.” A deep breath. “I would not keep you against your will, Maven. Never that.” But he’ll stay here against my will."
 > "Though, is it really ever against my will if some part of me wants it?"
 
 **中文理解**：「那我就把你送回这里。」他深吸一口气。「我绝不会违背你的意愿强留你，Maven。永远都不会。」——只是，如果有一部分的我本来就想要，那还算违背我的意愿吗？
@@ -84,12 +85,18 @@ modified: "2026-11-15"
 **读者视角提示**：对照 ch13「I can't even be enough for myself」——同一条「不足」信念，第一次把对象从自己换成他；逻辑没变、方向变了，危险指数骤升：为了别人而放弃自己的人，劝阻的抓手最少。
 
 > **原句 10:** "And I step off the edge."
-> "For one endless moment, I’m falling. The wind rushes past my ears, my stomach drops, my heart pauses mid-beat."
-> "Until strong arms wrap around my waist, yanking me backward with inhuman strength. We fall together, my back against his chest, his body cushioning mine as we slam into the concrete roof with enough force to drive the air from my lungs."
+> "For one endless moment, I’m falling. The wind rushes past my ears, my stomach drops, my heart pauses mid-beat. This is it. Finally, I’m free."
+
+**中文理解**：她踏出边缘。漫长的一瞬里她在坠落——风灌进耳朵、胃部下坠、心跳停在半拍。就是这样了，她想：终于，自由了。
+**关键词**：I step off the edge / one endless moment / Finally, I’m free
+**为什么这样写**：全书最重的一步只用一句话迈出——动词、边缘、句号；「Finally, I'm free」是她的自毁叙事的正式发言：自由在这一刻被定义为「终止存在」，与她此前所有「活着=耗电」的账目一脉相承。
+**读者视角提示**：注意这句话写得毫无犹豫——她不是冲动，是已经把这套逻辑演算过千百遍的人；读者此刻的无力感正是作者要的：她不需要被说服去死，她需要的是一个「活着值得」的理由，而他正在赶来的路上。
+
+> **原句 11:** "Until strong arms wrap around my waist, yanking me backward with inhuman strength. We fall together, my back against his chest, his body cushioning mine as we slam into the concrete roof with enough force to drive the air from my lungs."
 > "“You are mine,” Ash snarls against my ear, his arms still locked around me like steel bands. “You do not get to leave me again.”"
 
-**中文理解**：她踏出边缘。漫长的一瞬里她在坠落——风灌进耳朵、胃部下坠、心跳停在半拍。直到强有力的手臂箍住她的腰、以非人的力量把她拽回来——两人一起砸在屋顶，他的身体垫在她背后。他贴着她的耳朵低吼：「你是我的。你休想再离开我一次。」
-**关键词**：I step off the edge / inhuman strength / You do not get to leave me again
+**中文理解**：强有力的手臂箍住她的腰、以非人的力量把她拽回来——两人一起砸在屋顶，他的身体垫在她背后。他贴着她的耳朵低吼：「你是我的。你休想再离开我一次。」
+**关键词**：inhuman strength / Ash snarls / You do not get to leave me again
 **为什么这样写**：全书的规则碰撞在这一刻引爆——他刚说完「Never against your will」，下一秒他的手臂就替她做了决定；「snarls」是万年平静的第一次破相：神的温柔有阈值，阈值的名字叫「失去她」；「again」一词泄露天机——这不是第一次。
 **读者视角提示**：这是 dark romance 的经典合流点：救她的动作同时是最失控的宣告；请对照 ch14 的锚点规则——他抓的是她的身体，但锚住她的是本章之前的每一朵花；下一次他们谈起「同意」，两个人手里都多了新的筹码。
 
