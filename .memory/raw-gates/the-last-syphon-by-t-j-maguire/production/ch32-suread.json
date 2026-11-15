@@ -1,0 +1,49 @@
+{
+ "book": "the-last-syphon-by-t-j-maguire",
+ "chapter": "ch32",
+ "text": "notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "派活：Felix 三天内潜入办公室偷 Syphon 书（书就压在文书下，疑为 Syphon Source 本尊）",
+   "anchor": "“I need you to steal the Syphon book from his office.”",
+   "start": 2382,
+   "end": 2436
+  },
+  {
+   "fact": "她的 meticulous 档案一次堵住他全部提问（专业级贼务 vs 平时 wing it）",
+   "anchor": "They held the answers to all of his questions and many more.",
+   "start": 3789,
+   "end": 3849
+  },
+  {
+   "fact": "Kronan 拔剑警告 Felix 离公主远点——醋意+职责双重",
+   "anchor": "“Touch her, and I will cut your body in two,” Kronan warned",
+   "start": 5968,
+   "end": 6027
+  },
+  {
+   "fact": "Phaedra 委婉用词：听说她「devastating」（屠场）——她努力挑了个不那么负面的词",
+   "anchor": "“I heard you were…devastating.”",
+   "start": 6381,
+   "end": 6412
+  },
+  {
+   "fact": "求守密：Phaedra 请她同样守住 Bloodborne 秘密（她先确认她会守）",
+   "anchor": "I hope you will guard this secret as well as you have guarded mine.",
+   "start": 11031,
+   "end": 11098
+  },
+  {
+   "fact": "秃鹫论：最危险的秃鹫「长得不像秃鹫、装成朋友」——高议会生存指南",
+   "anchor": "“There are vultures everywhere.",
+   "start": 12098,
+   "end": 12129
+  },
+  {
+   "fact": "Kronan×Phaedra 摊牌：她的肯定句（不是疑问）让公主 sad sigh——「It can never be. It's complicated.」",
+   "anchor": "“You love him.”",
+   "start": 13037,
+   "end": 13052
+  }
+ ]
+}
