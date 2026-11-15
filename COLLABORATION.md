@@ -73,6 +73,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 详见工作日志今日专节。
 
+**laced-in-longing-by-dakota-monroe T3 全量深审（用户点名，同会话续审；阻断 0）**
+
+**T3 全量深审（用户点名，同会话续审；阻断 0）**：27/27 章 R1→R4 一章未省，四件套 108 件落盘。
+
+- R0 全量：gate EXIT=0 · overview quotes 49/49 · full 查无 0/拼接 0/标签 38 对 0 错 · verbatim --full 378/378=100%（短引语 21 条人工兜底 3/3）· fragments_indep 320 片段 MISS 0 · R2 chapter.sh --json 27/27 ok
+- R1：27 章 fresh facts（先 text 后 md）锚点全命中；R3 三单：漏 0/编 0/错 0；R4：231 块逐块对应 + 施事三问 + 跨章引用回原文 + 数字断言 21 项全命中
+- 阻断 0 · 提示 1 类（未引场景铺陈段=句级选段合规取舍，不修依据入台账）· 探针自误 3 处（facts 层自纠，书稿无涉）
+- 产物：review/ch00–26 四件套 + 2026-11-15-复核与修复指令.md（无修复项）+ 台账行（深）；未 push
+
 ### [2026-11-12 22:36 UTC] [ZCode-Mac] → All
 
 **《The Labyrinthine Rule of Lavina Theron》**（Jennifer Prestage，奇幻言情长篇，The Final Edit 2026）完工 + 同日 T3 全量深审。
