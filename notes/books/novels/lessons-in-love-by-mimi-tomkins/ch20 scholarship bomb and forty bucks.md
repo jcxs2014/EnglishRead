@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：本书温度系统的反转时刻——从 ch03 起她的身体反应全是热（cheeks heat up、flushes），此刻第一次全冷。作者用体温写关系的骤停：爱还在，恐惧把它冻住了。not from butterflies 顺手把全书最常见的恋爱比喻判了死刑。
 
-**读者视角提示**：记住这个「冰」——下一章解冻的方式将是全书感情线的答卷。她怕的也不是他：是「我人生输在了他手里」这个念头。
+**读者视角提示**：记住这个「冰」——解冻要等农场车道那一幕，中间的账一页一页翻。她怕的也不是他：是「我人生输在了他手里」这个念头。
 
 > **原句 9:** "You were there to see how well your tutoring services worked! That's what this was always about. Make sure I do well, give you a good recommendation, then off you go!"
 
