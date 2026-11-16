@@ -61,7 +61,7 @@ modified: "2026-11-15"
 
 **关键词**：golden egg / dirty / wet
 
-**为什么这样写**：宝物出场的写法故意反浪漫——纯金的家传之物带着鸟屎与雨水。A little / A little 的对仗把「赃」写成了功勋勋章：找得越狼狈，赢得越真实。金蛋的价值十颗彩蛋，等于给这场家庭竞赛装了个核按钮。
+**为什么这样写**：宝物出场的写法故意反浪漫——纯金的家传之物带着鸟屎与雨水。A little / A little 的对仗把「脏」写成了功勋勋章：找得越狼狈，赢得越真实。金蛋的价值十颗彩蛋，等于给这场家庭竞赛装了个核按钮。
 
 **读者视角提示**：金蛋是本章的麦高芬——它先带来二吻（台阶搀扶），再带来胜利（翻盘 84→94），一个道具两用，作者调度得干净利落。
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：情报来源被一句话揭穿——Eden 在家人面前的口径（professional working relationship）与她私下的话痨形成对账。never shuts up 是方言化的证据：不是「提起你」，是「停不下」。作者让弟弟完成最诛心的证人陈述。
 
-**读者视角提示**：对照 ch07 她让 Oliver「别提 Gemma」的遮掩——现在轮到她被家人出卖。信息差游戏至此双方全部透明。
+**读者视角提示**：对照 ch04 她对 Oliver 说的「You’ll be seeing a lot of her」——Gemma 一直是两人之间的常驻话题；现在轮到她被家人出卖，信息差游戏至此双方全部透明。
 
 > **原句 9:** "Laughing, I point at the obnoxiously large cat with a shelled prawn on its back."
 
@@ -103,7 +103,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：奖品描写拒绝可爱路线——obnoxiously large + shelled prawn 是刻意的荒诞主义，为 Greg 这个名字铺路。作者让定情信物长成「丑得令人难忘」的形态：两人的纪念品不需要体面，需要故事。
 
-**读者视角提示**：记住 Greg——巨型寿司猫在总览式的收尾章大概率会回归（言情道具的伏笔铁律）。
+**读者视角提示**：记住 Greg——它在 ch22（考日晨）与 ch24（结果日）都回到她的床上，这只丑猫一路陪到中段。
 
 > **原句 10:** "There's a dark-haired girl with stunning blue eyes who watches us with a bemused expression on her face standing near a hot dog van."
 
@@ -123,7 +123,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：名字在最后一刻才落地——Eden 的 dangerous smile 是姐姐权的展示：她不仅认识这个女孩，还掌握着主动权。作者用一句称呼完成三层信息：她知道她是谁、她知道他们的事、她不打算让 Jake 好过。悬念从「她是谁」升级为「接下来会发生什么」。
 
-**读者视角提示**：Kiara＝ch14 的星星夜女孩（Albert Mariano 孙女、Dad 的世仇家庭）——这条支线在后面的家庭戏里必然引爆。本章只上膛不击发。
+**读者视角提示**：Kiara＝ch14 的星星夜女孩（Albert Mariano 孙女、Dad 的世仇家庭）——这条支线在 ch24 的晚餐里已被全家接受（They love her），没有引爆，只是被消化。
 
 ## 本章词汇
 
