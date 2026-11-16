@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch19",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch19_chap19.txt",
+ "facts": [
+  {
+   "fact": "Macie 当面宣示：我是他初恋——「可惜结局不太好」。",
+   "anchor": "I was his first girlfriend!",
+   "start": 6653,
+   "end": 6680
+  },
+  {
+   "fact": "球场上 Oliver 的第一版交代：高中交往几个月，结局不愉快。",
+   "anchor": "end nicely",
+   "start": 8336,
+   "end": 8346
+  },
+  {
+   "fact": "Eden 穿着他行李里「失踪」的毛衣来看球，Ben 当场看破。",
+   "anchor": "The jumper that just so happened to be missing",
+   "start": 3677,
+   "end": 3723
+  },
+  {
+   "fact": "派对坦白：那晚她把手伸进他裤子，还「失望于发现的东西」。",
+   "anchor": "She shoved her hands down my pants",
+   "start": 17968,
+   "end": 18002
+  },
+  {
+   "fact": "他说：我醉到推不开她——事后她向全校嘲笑他。",
+   "anchor": "I was too drunk to get her off me.",
+   "start": 18169,
+   "end": 18203
+  },
+  {
+   "fact": "Eden 的回应：它发生在你身上、它至今影响你。",
+   "anchor": "But it still happened to you.",
+   "start": 18486,
+   "end": 18515
+  },
+  {
+   "fact": "她说：你告诉我，我就有机会更懂你。",
+   "anchor": "It gives me a chance to understand you better.",
+   "start": 18975,
+   "end": 19021
+  },
+  {
+   "fact": "坦白结案，他笑着更正：才不是朋友——根本不是。",
+   "anchor": "Not my friend at all",
+   "start": 19158,
+   "end": 19178
+  }
+ ]
+}

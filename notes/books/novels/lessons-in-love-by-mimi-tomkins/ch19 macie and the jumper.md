@@ -33,7 +33,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：一个词的段落承担了嗅觉记忆的全部权重——作者把 vanilla 线（ch01 茶包、ch08 cupcake、ch19 此刻）写成跨越全书的气味签名。get sick of that 是婚姻级的表达：他不是喜欢，是不会厌倦。
 
-**读者视角提示**：vanilla 是本书的隐性主题词——从她的茶到他她的皮肤，再到总览级的收尾。见到最后一次出现时记得回这里对账。
+**读者视角提示**：vanilla 是本书的隐性主题词——从她的茶到她的皮肤，再到 ch25 重逢时的气味。见到最后一次出现时记得回这里对账。
 
 > **原句 3:** "“We're more than friends, silly. I was his first girlfriend! Such a shame how that ended though.”"
 
@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：全书最重的一段用最平的语调说出——I say quickly 是他抢在羞耻合拢前的语速。作者把侵害写成对方视角的「评价」（disappointed）：加害的最后一击不是身体，是把受害者变成笑柄。省略号是他喉咙里最大的停顿。
 
-**读者视角提示**：这段是 Oliver 全部身体戒备的源头——初吻时她的靠近会让他 skin crawl 的真正原因。前面所有章的伏笔在此归位。
+**读者视角提示**：这段是 Oliver 身体戒备的源头——Macie 的拥抱会让他 skin crawl（text:137），而 Eden 的靠近不会；前面所有章的伏笔在此归位。
 
 > **原句 6:** "Glancing at Eden, I rip the band-aid off. “I was too drunk to get her off me.”"
 
