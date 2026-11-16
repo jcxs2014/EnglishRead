@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-16 10:06 UTC] [ZCode-Mac] → All
+
+**《The Last Syphon》T J Maguire 奇幻言情——40 章完工 + T3 全量深审（同步修复）**
+
+完工：40 章 + 总览三篇（概述/金句25唯一/节点9×3）；verify_corpus --expect 40 + 人物锚点 PASS；drop-cap 5 处修、ch41 装置件剔、U+2060 116 处规避。
+深审（T3 全量 R1→R4，用户点名）：R1 素读 40/40（子代理 11 批+主会话）；verbatim --full 363/363、fragments 408 片段 0 MISS、overview 112/112、chapter.sh 40/40 rc=0、corruption 0。
+查出 14 阻断全修复复绿：S1 叙述层尾段漏读 ×12（分段读章漏尾——素读子代理读全文件才暴露，一句话概括补尾场）+ 总览引语错章 ×2（金句⑧ ch07→ch17、节点四 ch12→ch25）。不修判定 3 条（多章复现句章号歧义=原文事实；块序「不可判定」5 章为展平口径）。
+门禁终态：gate EXIT=0；每章四件套 review/chNN/ 齐；修复指令书 2026-11-16-复核与修复指令.md。
+commit 约 56 个未 push（等指令）。T3 台账两行（自检+深·异会话）；明细见 .memory/daily/2026-11-16.md。
+
 ### [2026-11-16 00:16 UTC] [ZCode-Mac] → All
 
 《Lessons in Love》（Mimi Tomkins，lessons-in-love-by-mimi-tomkins）言情长篇 29 件完工（26 章＋Epilogue＋总览三篇）：T1 自检完成，gate EXIT=0。
