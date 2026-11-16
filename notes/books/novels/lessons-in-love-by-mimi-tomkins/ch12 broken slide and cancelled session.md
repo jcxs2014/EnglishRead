@@ -31,13 +31,13 @@ modified: "2026-11-15"
 
 **关键词**：kick / tutor / professional working relationship
 
-**为什么这样写**：脚上踹的是闺蜜，嘴上背的是台词——肢体与言语的分工暴露了口径的空洞。professional working relationship 在全书已第三次出场（ch03、ch05、本章），作者让它越来越像咒语：念得越熟，失效越快。
+**为什么这样写**：脚上踹的是闺蜜，嘴上背的是台词——肢体与言语的分工暴露了口径的空洞。「professional working relationship」在全书只出现这一次（ch03 用的是 strictly professional；ch05 是对闺蜜承认喜欢）——咒语念一次就够心虚，失效得也快。
 
 **读者视角提示**：对照事实（吻过、睡过床边、互相说 intrigue）——这句「职业关系」已经是全文最超载的一句话。读者等着它正式报废的那一章。
 
 > **原句 3:** "Just gently introduce it, okay? See where it goes."
 
-**中文理解**：视频里 Mum 建议把 Oliver 带回农场的事「慢慢来、看看进展」——Eden 嘴上答应，心里全是「Absolutely not」。
+**中文理解**：视频里 Mum 建议把 Oliver 带回农场的事「慢慢来、看看进展」——Eden 嘴上先顶一句「Absolutely not」，最后还是为了哄 Mum 说了「Okay」。
 
 **关键词**：gently introduce / see where it goes
 
@@ -51,7 +51,7 @@ modified: "2026-11-15"
 
 **关键词**：can't risk it / Not now / so close to finishing
 
-**为什么这样写**：let-主句+两个否定碎片的节奏像她在给自己盖章：As much as I want 先承认欲望，can't risk 立即没收。「Not now」两次独立成拍，把「差一点」的可怖具体化——她怕的不是恋爱，是差一步的 PhD。
+**为什么这样写**：let-主句+两个否定碎片的节奏像她在给自己盖章：As much as I want 先承认欲望，can't risk 立即没收。「Not now」「Not when」两个否定短语独立成拍，把「差一点」的可怖具体化——她怕的不是恋爱，是差一步的 PhD。
 
 **读者视角提示**：她自以为在计划「摆脱」Oliver，下一节 Oliver 却先取消课程——命运的编排永远比她的计划先动手。记住「risk」这个词：她计算的全部是下行风险，没算失去他的那一档。
 
@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：两句自我判决一逻辑一心证——scared him off 是归因，I'm always too much 是长期判决书。作者不给他任何辩解画面，让读者与 Eden 一起悬在「他为什么不回」里：焦虑的写法就是信息的真空。always 一词暴露这不是新伤，是旧疤。
 
-**读者视角提示**：「too much」是 Eden 的核心自我认知（ch05 起就有伏笔）——后面 Oliver 必须正面拆解这句判决，那是两人关系的必答题。下一章他缺席的真相揭晓时，回来对账。
+**读者视角提示**：「too much」是 Eden 的核心自我认知（此前她一直自嘲用力过猛，ch12 第一次把它写成判决）——后面 Oliver 必须正面拆解这句判决，那是两人关系的必答题。下一章他缺席的真相揭晓时，回来对账。
 
 ## 本章词汇
 

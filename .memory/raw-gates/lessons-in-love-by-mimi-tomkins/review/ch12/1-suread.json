@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch12",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch12_chap12.txt",
+ "facts": [
+  {
+   "fact": "买牛仔裤连逛三家店，Gemma 试到第八条仍不合身。",
+   "anchor": "We’re at the third shop for the day",
+   "start": 733,
+   "end": 768
+  },
+  {
+   "fact": "试衣间崩溃宣言：我要把腿剁了，永远不用再穿牛仔裤。",
+   "anchor": "I want to cut my legs off",
+   "start": 1588,
+   "end": 1613
+  },
+  {
+   "fact": "被问 Oliver 会不会来农场，Eden 搬出官方口径：我们是职业合作关系。",
+   "anchor": "We have a professional working relationship.",
+   "start": 3289,
+   "end": 3333
+  },
+  {
+   "fact": "实验室分神想着 Oliver 的唇，玻璃载片切进手指，Edward 给她处理。",
+   "anchor": "Broken slide",
+   "start": 5659,
+   "end": 5671
+  },
+  {
+   "fact": "Oliver 取消辅导后她等不到回复，判定「一定是我把他吓跑了，我总是用力过猛」。",
+   "anchor": "I must have scared him off. I’m always too much.",
+   "start": 11255,
+   "end": 11303
+  },
+  {
+   "fact": "视频里 Mum 建议：你应该邀请他来农场。",
+   "anchor": "You should invite him to the farm.",
+   "start": 8564,
+   "end": 8598
+  },
+  {
+   "fact": "Mum 的策略：慢慢提，看看往哪走。",
+   "anchor": "Just gently introduce it, okay?",
+   "start": 8742,
+   "end": 8773
+  },
+  {
+   "fact": "Oliver 的取消短信：抱歉，今天来不了。",
+   "anchor": "Sorry Eden. Can’t make it today.",
+   "start": 10725,
+   "end": 10757
+  }
+ ]
+}
