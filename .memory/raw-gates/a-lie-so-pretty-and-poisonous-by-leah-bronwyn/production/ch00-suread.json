@@ -1,0 +1,55 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch00",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch00_prologue.txt",
+ "facts": [
+  {
+   "fact": "框架场景：三天前生活崩塌的 Aurora 抱着 6 个月大的 Cora 坐在母亲庄园的粉色硬沙发上看她喝茶，铁匙碰瓷杯的声音让她手和神经一起发抖。",
+   "anchor": "Cold, grey eyes bore into me as her spoon swirled in the steaming, dark liquid",
+   "start": 0,
+   "end": 78
+  },
+  {
+   "fact": "母亲讥讽：一年前 Aurora 跟一个低贱马夫私奔去过自以为更好的日子，如今却抱着婴儿回到她门口求接济——「多么完美的可预测」。",
+   "anchor": "you ran off with some lowly stable hand to start what you thought would be a better life",
+   "start": 816,
+   "end": 904
+  },
+  {
+   "fact": "三天前的清晨 Micah 在温存后低声说她是他遇过最好的事；他是第一个让她觉得自己「足够好」的人，让母亲一辈子的恶毒贬损显得只是谎话——如今这些话成了空壳，母亲的话反而活了过来。",
+   "anchor": "“You are the best thing to ever happen to me.”",
+   "start": 1785,
+   "end": 1831
+  },
+  {
+   "fact": "Micah 亲吻 Cora 额头说「I love you, my sunshine」后出门再没回来；次日清晨 Aurora 翻遍全村，雇主说他辞职后当天就骑马离开了村庄。",
+   "anchor": "Micah strode out the front door that morning, never to return home",
+   "start": 2291,
+   "end": 2357
+  },
+  {
+   "fact": "她像受伤的动物一样拖着自己去母亲门口，财产尽弃，只带走几件纪念物和一封只敢读一次却不忍丢下的字条。",
+   "anchor": "I dragged myself like the wounded animal I was to her doorstep",
+   "start": 3155,
+   "end": 3217
+  },
+  {
+   "fact": "母亲当面羞辱：他丢下你一点也不奇怪——被哭闹婴儿和顽固女人困住谁都会跑；Aurora 咽下反驳（心里骂你个贱人试试带娃一分钟），换上顺从的安全声音答 \"Yes, Mother\"。",
+   "anchor": "It is no wonder he left you, Aurora",
+   "start": 3521,
+   "end": 3556
+  },
+  {
+   "fact": "服从测试：母亲抬手示意仆人从她怀里抱走 Cora，她犹豫后照做、被退回沙发——她这才明白自己必须在「做回温顺女人」与「带着孩子赤贫」之间二选一：她没有谋生手艺、也没人帮她带孩子，这个困局是被设计出来让女人不得不依附他人的。",
+   "anchor": "I slowly and hesitantly placed Cora in the servant’s arms",
+   "start": 5456,
+   "end": 5513
+  },
+  {
+   "fact": "母亲的「善意安排」：给她找了个求婚者——出身高门、年轻时见过面的 Lord Jairus Grimaldi；条件包括不许质疑家里事务、Cora 必须受贵族教育、她必须做永远得体的贵族代表否则逐出庄园；听完名字 Aurora 脸色煞白：Oh, goddess, no. Not him.",
+   "anchor": "Lord Jairus Grimaldi",
+   "start": 11686,
+   "end": 11706
+  }
+ ]
+}
