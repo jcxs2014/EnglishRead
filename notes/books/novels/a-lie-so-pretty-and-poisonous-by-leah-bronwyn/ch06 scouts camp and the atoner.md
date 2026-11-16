@@ -25,7 +25,7 @@ modified: "2026-11-16"
 **为什么这样写**：汇报的措辞全是「伤亡控制」的口吻，把一次营救翻译成军功报告；`calm voice` 与 `eyes pulled to mine` 的反差暴露他在观察她的反应——平静是说给部下听的，眼神是说给她看的。
 **读者视角提示**：`threshing wall` 是 seraph 对屏障的正式称呼——同一个东西两个名字（人类的 barrier / 军方的 threshing wall），命名权的分野就是两个世界的分野。
 
-> **原句 3:** "I might have been a huge disappointment to my mother with how I turned out, but one thing I could say about my childhood with confidence was that I was excellent at horseback riding. My instructor often boasted about my skills to my mother, and all she would say was, “Well, I’m glad you’re not a total failure.”"
+> **原句 3:** "I might have been a huge disappointment to my mother with how I turned out, but one thing I could say about my childhood with confidence was that I was excellent at horseback riding. … My instructor often boasted about my skills to my mother, and all she would say was, “Well, I’m glad you’re not a total failure.”"
 **中文理解**：她自嘲是母亲眼中大大的失败品，但童年只有一件事敢说满分——马术；教练常向母亲夸她骑得好，而母亲的全部回应是：还好你不算彻底废物。
 **关键词**：huge disappointment / excellent at horseback riding / not a total failure
 **为什么这样写**：夸奖与羞辱被装进同一张嘴——教练的 boasting 与母亲的 backhanded compliment 构成双声道，`total failure` 的「总」字让表扬听起来像赦免；母亲的赞美永远要扣一道税。
