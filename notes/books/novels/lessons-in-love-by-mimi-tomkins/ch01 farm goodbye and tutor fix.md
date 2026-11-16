@@ -11,7 +11,7 @@ modified: "2026-11-15"
 - **情感弧线位置**：全书起点——Eden 的姿态是「只要成绩、不要分心」，乡愁与学业焦虑双重打底；感情线以一张手机照片的形式埋进第一章。
 - **Tropes 兑现/反转**：兑现 friends-to-lovers 的前置条件——男主先以照片出场（绿眼睛、棕卷发），尚未见面；「家教—学生」设定立起依赖结构；`Strictly academically, of course.` 这句自我警告是全书等着被推翻的旗子。
 - **人物弧线**：Eden 从「独自扛」到第一次接受帮助（`I’m in`）；Gemma 定型为行动力担当；Oliver 只以照片登场，特征存档待首次见面兑现。
-- **叙事手法**：第一人称自嘲吐槽承担全部幽默（`Simple stuff.`）；农场的草与干草气味做乡愁锚点；三连 `And if…` 排比把焦虑写成滚雪球。
+- **叙事手法**：第一人称自嘲吐槽承担全部幽默（`Simple stuff.`）；农场的草与干草气味做乡愁锚点；两级 `And if…` 递进把焦虑写成滚雪球。
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：三个短句一路收窄——从普遍陈述（always the hardest）到自嘲（would have gotten used to it by now），最后落在对仗句上。作者用这种节奏把「离别常态化」写成人物底色，第一章就埋下想家这条暗线，而不是只把告别当过场。
 
-**读者视角提示**："You would think…" 是第一人称自嘲的信号：她知道自己「该习惯却没习惯」。farmhouse、ute、veranda 这一串澳式细节在本章立起乡愁背景，记住它——全书结尾大概率会回到农场呼应。
+**读者视角提示**："You would think…" 是第一人称自嘲的信号：她知道自己「该习惯却没习惯」。farmhouse、ute、veranda 这一串澳式细节在本章立起乡愁背景，记住它——后文会反复回到农场这个锚点（ch13 归家／ch14 野餐／ch24 养伤／ch25 重逢）。
 
 > **原句 2:** "And if I lose my post-grad program, I lose my PhD offer. And if I lose my PhD offer, I basically don’t have a reason to live. Simple stuff."
 
@@ -31,7 +31,7 @@ modified: "2026-11-15"
 
 **关键词**：post-grad / PhD offer / reason to live
 
-**为什么这样写**："And if… And if…" 的三连排比模拟脑内滚雪球的口吻，把焦虑写成一环扣一环的机械递进；随后一个两个词的 "Simple stuff." 戛然收束，让紧绷的排比泄了气。这是 Eden 用幽默给自己降压的标志笔法——压得越狠，收得越轻。
+**为什么这样写**："And if… And if…" 的两级递进模拟脑内滚雪球的口吻，把焦虑写成一环扣一环的机械递进；随后一个两个词的 "Simple stuff." 戛然收束，让紧绷的排比泄了气。这是 Eden 用幽默给自己降压的标志笔法——压得越狠，收得越轻。
 
 **读者视角提示**：这条链就是第一部的「任务时钟」：Contemporary Literature 再挂＝失去读博资格。记住 post-grad 与 PhD offer 这两个词——后续每一章的压力源都会挂回这条链上。
 
@@ -53,7 +53,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：前半句还是轻快的口语，后半句突然切进嗅觉记忆——气味是最难伪装的乡愁开关。"claws at my heart" 用爪子抓挠的动词把抽象的想家写成生理感受，让告别的情绪顶点落在一口气上，而不是任何煽情对白里。
 
-**读者视角提示**：澳洲口语彩蛋：possum 是长辈对晚辈的爱称，爸爸这么叫她，妈妈那边多半也有类似称呼。爸爸全程不多说、不煽情，与 Mum 的「忍泪」分工对照——这家人的告别方式全在气味与沉默里。
+**读者视角提示**：澳洲口语彩蛋：possum 是长辈对晚辈的爱称，爸爸这么叫她，妈妈用的是 sweetie（同一个家人式昵称系统）。爸爸全程不多说、不煽情，与 Mum 的「忍泪」分工对照——这家人的告别方式全在气味与沉默里。
 
 > **原句 5:** "Green eyes pierce through the screen, framed by brown curls. There’s a gentle smile on his face that looks warm and inviting. Could be just what I need this semester."
 
