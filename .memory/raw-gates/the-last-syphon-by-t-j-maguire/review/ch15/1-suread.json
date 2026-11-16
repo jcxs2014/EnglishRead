@@ -1,0 +1,94 @@
+{
+  "chapter": "ch15",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "得知必须护卫 Crowned Prince 一年或入狱后暴怒，向寝宫墙壁连番挥出盾魔法，家具在力量下损毁，停不下来",
+      "span": [
+        99,
+        130
+      ],
+      "verbatim": "Inara lashed out with her magic"
+    },
+    {
+      "who": "Felix",
+      "action": "坐在她床上吃着从食堂拿来的甜食旁观这场发泄，劝她吃东西；Inara 称自己是被公主 hustled 了，不明白为何会这样",
+      "span": [
+        327,
+        374
+      ],
+      "verbatim": "Felix sat upon her bed, eating a bowl of sweets"
+    },
+    {
+      "who": "Inara",
+      "action": "回答 Felix 关于 Syphon 的提问：可从任何人身上取力，Powerless 也可以（灵魂中仍有能量，但抽取会耗其生命之力、使其衰老，她极少做）；土地、海洋、空气中的能量也可汲取",
+      "span": [
+        3876,
+        3912
+      ],
+      "verbatim": "There is energy in almost everything"
+    },
+    {
+      "who": "Inara 与 Felix",
+      "action": "谈及 Dark War 传闻：Tolanaa 的 Cursed King 抽走了自己土地的力量，致其黑腐死亡、无法修复",
+      "span": [
+        4057,
+        4095
+      ],
+      "verbatim": "the Cursed King of Tolanaa did, right?"
+    },
+    {
+      "who": "Inara",
+      "action": "应 Felix 要求用 syphon sight 再次扫描他，能量仍是历次相同的暗金色（dull gold）——她无法解释 trials 中从他身上获得的能量为何远超其本身等级",
+      "span": [
+        7274,
+        7312
+      ],
+      "verbatim": "A dull gold, like all the other times."
+    },
+    {
+      "who": "Inara",
+      "action": "想起 Venerable Cias 离别前的告知：关于 Syphon 的书被单独锁在 librarium 的 Head Venerable 房间；她提议去把这本书偷出来",
+      "span": [
+        8862,
+        8891
+      ],
+      "verbatim": "kept separate from the others"
+    },
+    {
+      "who": "Inara",
+      "action": "向 Felix 坦白脑中的 Dark Voice：近几年才出现，在她动用 syphon 能力时现身，诱她抽干一切、直到 realm 的力量尽归己有并要她杀人；她最怕有一天压不住它、步 Cursed King 后尘；Felix 誓死与她并肩并定下先踩点 librarium 再偷书的计划",
+      "span": [
+        11030,
+        11072
+      ],
+      "verbatim": "It tells me to drain everyone. Everything."
+    },
+    {
+      "who": "Inara 与 Fraener",
+      "action": "手臂上的 brand 闪红后从皮肤上消失，soul-link 恢复；Fraener（Chompers）在阳台外现身吼叫，Inara 飞奔相迎——Fraener 翻看她的比赛记忆后化作迷你形态扑到她身上",
+      "span": [
+        13446,
+        13489
+      ],
+      "verbatim": "The brand on her arm flashed and pulsed red"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 是挚友（Felix 叫她 Nara）；他留在寝宫陪伴劝慰她，承诺「为你可以去死」，并帮她对抗 Dark Voice、参与偷书计划",
+    "Princess Phaedra 曾被 Inara 渐生信任，但 Inara 认为自己被她 hustled（隐瞒契约条款），拒绝听她解释",
+    "Fraener 是与 Inara soul-link 相连的 Guardian 龙；Chompers 是 Felix 对它的昵称；brand 消失后连接恢复，Fraener 回到阳台与 Inara 重逢",
+    "Venerable Cias 是 Inara 离开 Borderlands 前请教过的长者，告知 Syphon 之书锁在 librarium 的 Head Venerable 房间",
+    "Cursed King of Tolanaa 是 Dark War 中抽干土地力量致其黑腐的传说人物；Inara 害怕自己终有一日步其后尘",
+    "Crowned Prince 是 Inara 被契约指派一年护卫的对象（本章仅提及，未出场）"
+  ],
+  "numbers": [
+    "c2CE",
+    "CHAPTER FIFTEEN",
+    "For one fleeting moment",
+    "Perhaps only once or twice",
+    "a few Powerless",
+    "for over 2,000 years",
+    "the last few years"
+  ]
+}

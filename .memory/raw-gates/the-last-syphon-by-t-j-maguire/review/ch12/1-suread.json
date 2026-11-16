@@ -1,0 +1,105 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "走进第三（最后一）个试炼室，里面没有圆圈，只有一名赤膊卷发男子沿远墙而立；她与他相对而立、互相打量",
+      "span": [
+        245,
+        287
+      ],
+      "verbatim": "All that awaited her was one man, standing"
+    },
+    {
+      "who": "Inara",
+      "action": "意识到自己真正怕的不是对手而是“无法回头的时刻”：怕自己骄傲到不肯退出，让隐藏的 Syphon 之面升起，赔上 Felix 和 Fraener 的命",
+      "span": [
+        653,
+        700
+      ],
+      "verbatim": "Inara feared what would happen when she reached"
+    },
+    {
+      "who": "试炼男子（Firestarter）",
+      "action": "挥臂燃起从手到肩的烈焰，证明他是 Firestarter；此前房间的骤热（Felix 脚下汗滴成洼）正是魔法所致",
+      "span": [
+        3450,
+        3501
+      ],
+      "verbatim": "roaring flames consumed him from hands to shoulders"
+    },
+    {
+      "who": "Inara",
+      "action": "举盾硬挡男子射来的火流，被撞退一步；压力比前几轮更狠，因为魔力已经见底",
+      "span": [
+        4427,
+        4485
+      ],
+      "verbatim": "Inara slammed a shield up, and the fire crashed against it"
+    },
+    {
+      "who": "三名士兵（两男一女）",
+      "action": "冲入试炼室，分占东、西、南三个方位把她彻底围死；随后四人齐齐燃火——共四个 Firestarter，火焰洪流齐射",
+      "span": [
+        5315,
+        5367
+      ],
+      "verbatim": "Three more soldiers came barrelling into the chamber"
+    },
+    {
+      "who": "Inara",
+      "action": "四股火焰压顶，盾被逼缩、被迫跪地惨叫，鼻耳渗血、视野边缘发黑，进入魔力储备也即将耗尽，自觉已无法取胜",
+      "span": [
+        6977,
+        7022
+      ],
+      "verbatim": "Darkness crept into the corners of her vision"
+    },
+    {
+      "who": "Felix",
+      "action": "蹲到她脚边、手从肩移到脚踝紧紧抓住，说 Take from me / Do it. Don’t let these fuckers win——他早知道她是 Syphon，主动让她吸取；大量力量瞬间涌入，盾膨胀推开火焰",
+      "span": [
+        8281,
+        8318
+      ],
+      "verbatim": "“Do it. Don’t let these fuckers win.”"
+    },
+    {
+      "who": "Inara",
+      "action": "借新力量用盾裹住四人并抽走氧气把火憋灭，士兵窒息跪地求饶；她收回魔法后以震荡冲击把四人撞上墙击昏，随后脑中 Dark Voice 催促继续吸取",
+      "span": [
+        11161,
+        11196
+      ],
+      "verbatim": "drawing the oxygen out of their air"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：挚友——绝境中 Felix 表明他早已知道她是 Syphon，主动说 Take from me 让她吸取自己的力量（深信任/自我牺牲）；此前他一直手搭她肩与她同步移动，还先她一步发现背后有士兵",
+    "Inara 与试炼男子：试炼对手——赤膊、深色卷发垂肩的 Firestarter，最先向她射火流",
+    "Inara 与三名后入场的士兵（两男一女）：试炼对手——分占东、西、南三方与原男子合围；四人皆为 Firestarter，最终被她抽氧窒息、击昏",
+    "Inara 与 Larissa：Larissa 站在 Prince Walder 身后，神情由得意变为愤怒、嫉妒与担忧；赛后 mouth hung open in disbelief",
+    "Inara 与 Prince Walder：Walder 几乎发光的紫罗兰色眼睛里有种她读不出的不同（something Inara could not quite place）；赛后仍以 unwavering focus、微眯双眼紧盯她",
+    "Inara 与 Fraener：她不愿为试炼把 Felix 与 Fraener 的命一起押上（羁绊延续）",
+    "Inara 与 Dark Voice：她体内的黑暗之声（Take more. It’s not enough. More. Drain them all. Kill them all.）代表她隐藏的 Syphon 面，在她获胜、掌声响起前催促继续吸取"
+  ],
+  "numbers": [
+    "c22A（文件首行标识码，非正文）",
+    "CHAPTER TWELVE（章标题）",
+    "The third and final chamber of the trials",
+    "the dozenth calming breath since the trials had begun",
+    "The first round was quite predictable, and so was the second",
+    "one man, standing along the far wall",
+    "She stopped a few feet away from the man",
+    "A one-on-one battle where she had to fight him?",
+    "Three more soldiers came barrelling into the chamber",
+    "two men and one woman",
+    "Her eyes roved between the four of them",
+    "All three soldiers flexed their arms",
+    "Four Firestarters?!",
+    "All four soldiers stood in the north, south, east, and west corners",
+    "For one fleeting moment",
+    "Focus on one thing at a time",
+    "本章无日期"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "chapter": "ch27",
+  "facts": [
+    {
+      "who": "Inara / Fraener",
+      "action": "Inara 夜里坐在王宫最高屋顶檐边望城，摆脱不掉众人惊恐目光、自问是否邪恶；Fraener（微型形态）依偎安抚，把俯瞰战场的记忆与纯粹的 pride 推进她脑海——在它眼里她是 light 而非 darkness",
+      "span": [
+        2793,
+        2821
+      ],
+      "verbatim": "Not a darkness, but a light."
+    },
+    {
+      "who": "Felix / Inara",
+      "action": "Felix 上屋顶陪坐，戳破她强装没事，称自己看见的是以身护人的强大女人，并以 best friend 身份拒绝让她相信相反；Inara 落泪，两人纯友谊相拥",
+      "span": [
+        4400,
+        4454
+      ],
+      "verbatim": "I refuse to let you believe anything fucking different"
+    },
+    {
+      "who": "Prince Walder / Felix",
+      "action": "骤然奇寒宣告 Walder 到来（ball 的红鳞甲仍被血浸透、Tydus 盯视 Inara）；Felix 假打哈欠借口困倦、吻她脸颊道别后离去",
+      "span": [
+        5726,
+        5755
+      ],
+      "verbatim": "stained and drenched in blood"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "Walder 讲解魔力显化全凭血统（父母基因各半，罕见时两系融合成独有之力），并举 Larissa 为例：母 Shielder、父 Electrokinetic、三个兄弟姐妹分别显化，Larissa 融合出可注入闪电的护盾",
+      "span": [
+        10969,
+        11002
+      ],
+      "verbatim": "based entirely on your bloodlines"
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 自陈父亲是 Shielder、母亲是极强的 Clairsentient（能感知他人能力、训练 Deadhaven 居民）；Walder 称她的掌控数一数二，问 “Who said being a monster is a bad thing?”，并称刺客若落其手会遭远更惨的下场",
+      "span": [
+        14596,
+        14636
+      ],
+      "verbatim": "Who said being a monster is a bad thing?"
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 坦白当年闯 Fraener 龙穴是为偷金子；Walder 笑称 “I knew it”，并承认自己七岁时被朋友打赌潜入 Tydus 龙穴偷 golden chalice——两人情形几乎相同，Inara 大笑",
+      "span": [
+        17890,
+        17928
+      ],
+      "verbatim": "I went into that den to steal the gold"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "答第三头 Guardian 之下落：Dark War 后仅存三龙、唯一雌龙 Edora 被 High Council 强迫连窝繁殖，最终借 Tydus 与 Fraener 之助于约 1000 年前挣脱锁链远遁、从此无人再见；此事是他窥看 Tydus 记忆所得",
+      "span": [
+        19737,
+        19765
+      ],
+      "verbatim": "She has not been seen since."
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 以目力俯瞰发现下城集市（每月一次、乐声笑语），跳起邀 Walder 同去；Walder 以 “I-I can’t go there” 拒绝，她留下 “想来就来找我” 的话，朝集市灯光一跃而下",
+      "span": [
+        23324,
+        23376
+      ],
+      "verbatim": "sighted the rays of light streaming from the markets"
+    }
+  ],
+  "relations": [
+    "Inara 与 Fraener：soul-link 的 Guardian；Fraener 以微型形态相伴，向她推送 pride，视她为 “a light, not a darkness”",
+    "Inara 与 Felix：best friend / “friend soulmate”，纯柏拉图式友情；两人同住一室（“I’ll meet you in our room later”）",
+    "Inara 与 Prince Walder：Overlord 与 Shielder 的上下级；屋顶夜谈后彼此更近（他认她 “not a monster”，她向他承认偷金往事）",
+    "Prince Walder 与 Tydus：七岁起 soul-link；当年同样被朋友打赌闯龙穴偷金杯",
+    "Inara 的父亲是 Shielder；母亲是极强的 Clairsentient（能感知能力、训练 Deadhaven 居民）",
+    "Larissa 家系：母亲 Shielder、父亲 Electrokinetic；三个兄弟姐妹（两个 Shielder、一个 Electrokinetic），Larissa 本人两系融合",
+    "Edora 与 Tydus、Fraener：Dark War 后仅存三龙的同伴；High Council 囚禁并强迫 Edora 繁殖，她借二龙之力逃脱",
+    "Prince Walder 对 High Council：他透过 Tydus 的记忆知晓其虐龙旧事并为之愤怒（“I saw it… When I looked through Tydus’s memories”）"
+  ],
+  "numbers": [
+    "c42H（文件首行代码）",
+    "CHAPTER TWENTY-SEVEN（章题）",
+    "You get half your genes from your mother. Half your genes from your father.（父母基因各半）",
+    "In most cases, one power is stronger than the other（通常一系占强）",
+    "Larissa has three siblings. Two of them manifested as Shielders, taking after their mother, one an Electrokinetic, like their father.（三个兄弟姐妹：两个 Shielder、一个 Electrokinetic）",
+    "Tydus and Fraener are two of The Three Guardians that survived the Dark War（Dark War 存活三守护者中的两头）",
+    "there were only three dragons left but only one female. Edora.（仅存三龙、唯一雌龙 Edora）",
+    "In one clutch, female dragons will lay up to five eggs.（一窝至多五枚蛋）",
+    "there should be at least a year between clutches（两窝之间至少隔一年）",
+    "After centuries of abuse, Edora could take no more.（数世纪虐待）",
+    "That was roughly 1000 years ago, now.（约 1000 年前）",
+    "Since I was seven.（Walder 七岁起与 Tydus soul-link）",
+    "Seven?!（Inara 惊呼）",
+    "The lower cities throw them every month.（下城集市每月一次）",
+    "The villages within the Borderlands did something similar every month.（Borderlands 集市亦每月一次）"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/ch04 burnt ox and never go south.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch04_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "If anything Venerable Cias said was true, and Inara had every reason to believe that it was, it meant the Crowned Family",
+          "ok": true,
+          "pos": 353
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Over the past few years, however, the game had slowly started to disappear. What had once been teeming with an abundance",
+          "ok": true,
+          "pos": 2883
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Inara shrugged, but as she watched him fly off into the darkness, she felt this strange sensation flutter in her soul. T",
+          "ok": true,
+          "pos": 3747
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He was the only one within a hundred miles who was willing to melt down and reforge stolen gold, though, so he could cha",
+          "ok": true,
+          "pos": 5653
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He exhaled. “Yeah, I know, but we’re running out of options here, Inara. We’ve taken everything worth hitting in the Bor",
+          "ok": true,
+          "pos": 6411
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "They were responsible for keeping the village afloat, and there were days when she hated it, despised the responsibility",
+          "ok": true,
+          "pos": 8423
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "No! No, no, no. Not you,” she rushed out. “The, uh",
+          "ok": true,
+          "pos": 12130
+        },
+        {
+          "text": "The dragon. They’re worried about the Crowned Family coming to the Borderlands to reclaim the beast. They want it gone",
+          "ok": true,
+          "pos": 12179
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was an animal of some kind. Far too burnt to identify, but based on the sheer size of it, it had to be an ox or a hor",
+          "ok": true,
+          "pos": 13443
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He trilled—this beautiful, hypnotic sound that, when one heard it, they couldn’t help but be filled with happiness. He b",
+          "ok": true,
+          "pos": 15210
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 9.0,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2886,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

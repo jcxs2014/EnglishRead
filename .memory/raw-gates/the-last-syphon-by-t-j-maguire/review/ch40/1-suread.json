@@ -1,0 +1,88 @@
+{
+ "chapter": "ch40",
+ "facts": [
+  {
+   "who": "Inara",
+   "action": "认出 Balthus=脑中声音（Dark Voice 本尊）",
+   "verbatim": "“You’re the voice in my head.”",
+   "span": [
+    1006,
+    1036
+   ]
+  },
+  {
+   "who": "Balthus",
+   "action": "揭示 Astral projection 真身+注视她两年",
+   "verbatim": "I’ve been watching you for two years, after all.",
+   "span": [
+    3996,
+    4044
+   ]
+  },
+  {
+   "who": "Balthus",
+   "action": "坦白母亲之死（她为帮女儿来 Tolanaa 被灭口）",
+   "verbatim": "She’s how I found you. Don’t worry, I made her death a quick one.",
+   "span": [
+    9754,
+    9819
+   ]
+  },
+  {
+   "who": "Balthus",
+   "action": "坦白龙穴之夜是他操纵（Gideon 债是植入的）",
+   "verbatim": "It was me who convinced you to risk entry.”",
+   "span": [
+    12203,
+    12246
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "得知 Syphon 殖民地仍存在（两千年未灭）",
+   "verbatim": "“There are others?”",
+   "span": [
+    8232,
+    8251
+   ]
+  },
+  {
+   "who": "双方",
+   "action": "能量对波：他的 magic 吃她的更快——一直在玩她",
+   "verbatim": "This whole time, he had merely been toying with her.",
+   "span": [
+    22012,
+    22064
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "隔盾对王储口型 Run（诀别）",
+   "verbatim": "“Run,” she mouthed.",
+   "span": [
+    23298,
+    23317
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "接过他递来的戒指，任黑暗吞没——TO BE CONTINUED",
+   "verbatim": "He had given her his ring.",
+   "span": [
+    32586,
+    32612
+   ]
+  }
+ ],
+ "relations": [
+  "Balthus=Cursed King=Astral projection（与 Inara 同为 Syphon）",
+  "母亲被杀：为帮女儿找控制法而来",
+  "王子隔盾递戒指",
+  "Syphon colony 存在"
+ ],
+ "numbers": [
+  "two years",
+  "2,000 long years",
+  "a thousand years"
+ ]
+}

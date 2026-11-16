@@ -1,0 +1,102 @@
+{
+  "chapter": "ch04",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "认定必须尽快离开 Deadhaven——若 Venerable Cias 所言属实，Crowned Family 一旦得知 Fraener 脱离休眠便会循着消息追到 Deadhaven",
+      "span": [
+        261,
+        787
+      ],
+      "verbatim": "she needed to get out of Deadhaven as soon as possible"
+    },
+    {
+      "who": "Inara",
+      "action": "回到屋外火堆边坐下，把 Venerable Cias 告诉她的一切（含对将临之事的全部警告）转述给 Felix，Felix 听得脸色惨白、张口结舌",
+      "span": [
+        1479,
+        1856
+      ],
+      "verbatim": "Everything Venerable Cias had told her"
+    },
+    {
+      "who": "Fraener",
+      "action": "打了个宽宽的哈欠后抖开身躯，一记振翅跃入空中飞离、消失在远处（后叼着猎物归来）",
+      "span": [
+        3510,
+        3798
+      ],
+      "verbatim": "his mighty wings, he jumped into the air and took flight"
+    },
+    {
+      "who": "Felix",
+      "action": "汇报熔金结果：Boltix 以『Arelian 金风险更大』为由拿走超过一半金子作报酬",
+      "span": [
+        5475,
+        5684
+      ],
+      "verbatim": "Boltix took over half as payment."
+    },
+    {
+      "who": "Felix / Inara",
+      "action": "Felix 提出为凑付给 Gideon 的水款须再干一票，并提议去 Borderlands 边缘、南边的村庄；Inara 以『我们从不往南、太危险』拒绝",
+      "span": [
+        6010,
+        6925
+      ],
+      "verbatim": "We don’t go south. We never go south."
+    },
+    {
+      "who": "Sayduh → Inara",
+      "action": "Sayduh 受村民之托来传话：村民担心 Crowned Family 来 Borderlands 收回巨兽，想让龙离开；Inara 答应处理",
+      "span": [
+        12597,
+        12696
+      ],
+      "verbatim": "reclaim the beast. They want it gone."
+    },
+    {
+      "who": "Fraener",
+      "action": "从空中把一头烧焦得无法辨认的大型动物（按体格应为牛、马或鹿）砸落在众人脚边，并用鼻尖把猎物推向 Inara——他飞出去是为了给她弄吃的",
+      "span": [
+        13289,
+        14002
+      ],
+      "verbatim": "an ox or a horse. Possibly a stag."
+    },
+    {
+      "who": "Inara / Felix",
+      "action": "Inara 问出龙的名字并正式向 Fraener 问好；随后逼 Felix 向龙道谢，再从脚踝刀套里拔出刀、翻转刀身递到掌心递给 Felix，准备切肉分食",
+      "span": [
+        15616,
+        16405
+      ],
+      "verbatim": "pulled a knife from the holster around her ankle"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：多年搭档兼挚友，共同担起供养 Deadhaven 的责任；曾试过恋人关系但确认彼此是柏拉图式的爱；Inara 打算天亮前独自离开且刻意不告知 Felix",
+    "Inara 与 Fraener：刚缔结 soul-link（灵魂链接）的龙与 Chosen——她能感到他的意识与情绪，他飞出去猎来烧焦的猎物喂她，她正式问出他的名字",
+    "Sayduh 对 Felix：单恋——全村公认的美人只想要 Felix，当面向他示好而他毫无察觉",
+    "Felix/Inara 与 Boltix：熔金交易关系——Boltix 是方圆百里内唯一肯熔炼重铸赃金者，借垄断索价，此次以『Arelian 金风险大』为由抽走超过一半",
+    "Inara/Felix 与 Gideon：供水交易——村子靠定期付金给 Gideon 维持水流，本次付款不足，Felix 主张再干一票补上",
+    "Inara/Felix 与 Deadhaven 村民：两人是村子的实际管事者与供养者；村民（由 Sayduh 传话）担心 Crowned Family 来收回巨龙，想让龙离开",
+    "提及（未出场）：Venerable Cias——向 Inara 透露 Crowned Family 将至等警告的长者；Crowned Prince——传闻中三王国最危险的人，是 Inara 离开的动因"
+  ],
+  "numbers": [
+    "CHAPTER FOUR",
+    "There were miles and miles of plush, overflowing forestry",
+    "Over the past few years",
+    "from hundreds of miles away",
+    "within a hundred miles",
+    "only going to last another few days",
+    "With one pump of his mighty wings",
+    "Two of your favourite things",
+    "Boltix took over half as payment",
+    "feed one of us, let alone two",
+    "the most dangerous man in all three kingdoms",
+    "burn an extra ox or two",
+    "sometimes go days without having more than the free nuts",
+    "barely half a day"
+  ]
+}

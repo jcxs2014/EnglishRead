@@ -1,0 +1,116 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "天亮前悄然收拾行装、披上深色兜帽斗篷，计划独自南逃到 Arelian 军队不敢追的 Dead Kingdom of Tolanaa",
+      "span": [
+        33,
+        1045
+      ],
+      "verbatim": "the Dead Kingdom of Tolanaa."
+    },
+    {
+      "who": "Felix",
+      "action": "在门口截住正要溜走的 Inara，以两人七岁立下的约定（『你去哪我去哪、永不丢下彼此』）坚持同行",
+      "span": [
+        2627,
+        3377
+      ],
+      "verbatim": "Where you go, I go. We made that pact a long time ago"
+    },
+    {
+      "who": "Arelian Army",
+      "action": "GONG 警报三响后，成群 Arelian 士兵自 Borderlands 边界上的传送门涌出，六人一列沿树线列阵（血红色龙纹鳞甲，持盾、长矛、背剑）",
+      "span": [
+        3913,
+        4456
+      ],
+      "verbatim": "dozens upon dozens of Arelian soldiers emerged"
+    },
+    {
+      "who": "Inara",
+      "action": "冲进酒馆，用盾发出快速震荡一击把烂醉昏睡的 Kenton 击醒；Kenton 顷刻酒醒冲出门外",
+      "span": [
+        5734,
+        6342
+      ],
+      "verbatim": "fast concussive burst. It hit Kenton on the side"
+    },
+    {
+      "who": "Kenton / Inara / Cezar",
+      "action": "Kenton 以土系魔法分开地面、露出地下隐蔽隧道让村民躲藏；Inara 指派 Cezar 在隧道内守望，情势不妙时带村民从另一端撤离",
+      "span": [
+        7597,
+        8796
+      ],
+      "verbatim": "the secret underground tunnels that ran beneath Deadhaven"
+    },
+    {
+      "who": "Fraener",
+      "action": "把『Inara 骑在他背上』的图像推入她脑中遭摇头拒绝后，直接叼住她斗篷后领把她放上龙背",
+      "span": [
+        11666,
+        12770
+      ],
+      "verbatim": "by the back of her cloak and put her on his back himself"
+    },
+    {
+      "who": "Inara / Venerable Cias",
+      "action": "Inara 借 Fraener 的视觉向远处『飞驰』，看清逼近的黑点是一头巨龙；Venerable Cias 认出那是 Crowned Prince 的龙 Tydus（冰息、One of the Three）",
+      "span": [
+        14245,
+        17452
+      ],
+      "verbatim": "Tydus was an ice-breathing dragon"
+    },
+    {
+      "who": "Crowned Prince / Inara",
+      "action": "Prince 挥手把全军数千柄剑悬空齐掷向 Inara，她爆发金色穹顶盾全数挡下；Prince 又以冰锥轰击护盾，Inara 硬扛后要求他立誓不伤村民、军队永不返回（Prince 立誓），决意自首随行",
+      "span": [
+        23648,
+        38268
+      ],
+      "verbatim": "A golden shield exploded out of the centre of her chest"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：生死搭档——七岁时立下『一起离开 Deadhaven、永不丢下彼此』的约定；Felix 一眼识破她的独行计划并强行同行",
+    "Inara 与 Fraener：Chosen 与 Guardian 的 soul-link——双向传递情绪、力量与图像，Fraener 硬把她叼上龙背，与她对峙军队时战意相通",
+    "Inara 与 Crowned Prince：追捕者与被指控者——他令她下龙受降，指控她『偷窃 Crowned Family 财产』，她出言激怒他；最终她要求誓言后决定自首",
+    "Inara 与 Venerable Cias：村中长者，向 Prince 斡旋称她『误入龙穴意外唤醒』Fraener，并认出来袭巨龙是 Prince 的 Tydus",
+    "Kenton 与 Ploas：丈夫关系——Ploas 拖着丈夫 Kenton 逃跑；Kenton 醉倒酒馆被 Inara 用盾击醒",
+    "Kenton/Cezar 与 Inara：受她指挥的村民——Kenton 操控土石、曾开凿地下隐蔽隧道网络；Cezar 因在 Roylan 偷窃被割舌而不能言、能视极远并负责警报，被指派在隧道内引导撤离",
+    "Crowned Prince 与 Tydus：Prince 骑乘的 Guardian（冰息龙、One of the Three）；随行铂金色发斗篷女子疑似他的 Shielder 保镖",
+    "Felix 与 Rafe、Zave、Lina 等村民：具攻击能力者一同列阵对峙 Arelian 军；Zave、Lina、Ralf 被称 the Drunken Trio"
+  ],
+  "numbers": [
+    "CHAPTER FIVE",
+    "Her belly was full for the first time in weeks",
+    "They had been barely seven years old",
+    "dozens upon dozens of Arelian soldiers emerged",
+    "They stepped out in lines of six",
+    "two small youthens under his arms",
+    "She put two fingers in her mouth",
+    "split the ground in two",
+    "see anyone approaching from miles away",
+    "the hundreds of Arelian soldiers standing at the edge",
+    "hesitating to move another inch",
+    "roughly one hundred people residing in Deadhaven",
+    "more than half of whom were now tucked away safely",
+    "the two small spikes that ran along his spine",
+    "Thousands. At least.",
+    "from thousands of miles away",
+    "take it about a thousand miles that way",
+    "Thousands of spectral energies appeared before her",
+    "a barbed tail and two sharp horns",
+    "It was One of the Three",
+    "landed on four powerful legs",
+    "The hilt of two giant swords",
+    "The two Guardians of Arelia growled and snarled",
+    "Felix was 6’6",
+    "the mother of four youthens",
+    "weave itself into two impenetrable battle axes",
+    "that powerful from one small blast"
+  ]
+}

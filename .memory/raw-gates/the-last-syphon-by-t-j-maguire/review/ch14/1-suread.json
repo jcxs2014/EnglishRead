@@ -1,0 +1,106 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "who": "Princess Phaedra",
+      "action": "带 Inara、Felix、Kronan 穿过地下通道走向评分会场，途中说明王储 Walder 从不给满分，他评过的最高分是六，给了 Larissa",
+      "span": [
+        1540,
+        1581
+      ],
+      "verbatim": "The highest score he has graded was a six"
+    },
+    {
+      "who": "Inara",
+      "action": "作为最后一名参赛者被唱名进入竞技场；场上已站有二十三名 Shielder，加上她共二十四名",
+      "span": [
+        3655,
+        3705
+      ],
+      "verbatim": "twenty-three of them, and with Inara, twenty-four."
+    },
+    {
+      "who": "Larissa",
+      "action": "站在队列最前，头顶亮出四十二分（满分四十九）",
+      "span": [
+        4239,
+        4282
+      ],
+      "verbatim": "The number forty-two illuminated above her."
+    },
+    {
+      "who": "High Council 成员",
+      "action": "逐一为 Inara 亮分：Lady Niya、Lady Ophera、Lord Tevi、Lord Julius、Lord Odami 各给七分，Lord Villani 仅给一分，引发全场哗然",
+      "span": [
+        7167,
+        7218
+      ],
+      "verbatim": "both Lord Julius and Lord Odami scored her a seven."
+    },
+    {
+      "who": "Prince Walder",
+      "action": "最后亮出七分令全场震惊；Larissa 随即冲上前指控 Inara 作弊，称她作为 Chosen 能从与 Guardian 的 soul-link 取力、占不公平优势",
+      "span": [
+        8614,
+        8658
+      ],
+      "verbatim": "The number seven illuminated above his head."
+    },
+    {
+      "who": "Melaine",
+      "action": "从看台起身证实 Inara 手臂上的 brand 由她亲手所刻，可验证其真实性——Inara 与 Guardian Fraener 的连接被暂时封锁",
+      "span": [
+        10311,
+        10343
+      ],
+      "verbatim": "I placed the brand on her myself"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "宣布此事前所未有、需 High Council 投票；除 Lord Villani 外全员举手赞成允许 Chosen Inara 参赛，Walder 宣布决定并向她道贺（他本人未投票）",
+      "span": [
+        12443,
+        12498
+      ],
+      "verbatim": "All those in favour of allowing Chosen Inara to compete"
+    },
+    {
+      "who": "Inara",
+      "action": "宣布放弃第一名、不要该职位，想让位给 Larissa；Walder 指出 Enrollment Scroll 是有约束力的契约，签字即同意服役一年，否则关入地牢——她被迫接受，明早报到",
+      "span": [
+        16314,
+        16347
+      ],
+      "verbatim": "you will be placed in the dungeon"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 是挚友；Felix 是她的 Charge（无自愿 Charge 则无参赛资格），一路为她打气、为她唯一鼓掌喝彩",
+    "Princess Phaedra 是皇室公主，带 Inara 入场并为其辩护；Kronan 是她的（永久）Shielder，随行并不时纠正她的说法",
+    "Prince Walder 是 Crowned Prince（王储）、Phaedra 的哥哥，坐在 High Council 中央主持评分；Inara 名列第一，按契约被指派做他的 Shielder",
+    "Larissa 是参赛 Shielder、原第一名（42 分），与 Phaedra 有一段 long and sordid history；指控 Inara 作弊失败后放话 this isn't over 并愤然离场",
+    "Lady Niya、Lady Ophera、Lord Tevi、Lord Villani、Lord Julius、Lord Odami 是 High Council 成员并各自亮分；Villani 因 Inara 抢走其子与 Guardian soul-link 的机会而给她一分",
+    "Melaine 是为 Inara 刻封锁 soul-link 之 brand 的女人，出面证实 brand 真实有效",
+    "Na-Ri 是另一名参赛 Shielder（此前倒数第三），面对站队犹豫未动；与 Larissa 一起练习的双胞胎（分列第七、第九）及另外两名 Shielder 站到 Larissa 身后",
+    "Inara 是 Chosen，与 Guardian Fraener 有 soul-link，比赛期间被 brand 暂时封锁"
+  ],
+  "numbers": [
+    "c27S",
+    "CHAPTER FOURTEEN",
+    "a six",
+    "seven High Council members",
+    "twenty-three",
+    "twenty-four",
+    "The number forty-two",
+    "Forty-two points out of forty-nine",
+    "seventh place",
+    "ninth",
+    "The number seven",
+    "One",
+    "scored her a seven",
+    "first-place",
+    "the next year",
+    "a year",
+    "one year"
+  ]
+}

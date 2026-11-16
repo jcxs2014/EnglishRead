@@ -1,0 +1,122 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "清晨由卫兵押送，爬上千级台阶抵达 Crowned Prince 的漆黑寒塔，力竭喘息、汗流浃背。",
+      "span": [
+        1206,
+        1250
+      ],
+      "verbatim": "she did just climb a thousand bloody stairs."
+    },
+    {
+      "who": "Larissa",
+      "action": "在王子寝宫外质问 Walder：她服务七年却被 Inara 取代、满分七分给了 Inara；并断言 Inara 第二轮时已耗尽储备、不可能凭实力赢下决赛，一定藏了东西。",
+      "span": [
+        6916,
+        6956
+      ],
+      "verbatim": "She shouldn’t have been able to do that."
+    },
+    {
+      "who": "Prince Walder",
+      "action": "驳回 Larissa：称 “the thief is just better”，命她体面认败、明年再试，随后摔门进屋。",
+      "span": [
+        7665,
+        7705
+      ],
+      "verbatim": "You lost, Larissa. Take it with dignity,"
+    },
+    {
+      "who": "Inara／Larissa",
+      "action": "走廊对峙：Larissa 指控 Inara 作弊；Inara 反点破 trials 原本只该有一名 Firestarter、是 Larissa 动了手脚；Fraener 醒来对 Larissa 发出威吓吼声令其踉跄后退。",
+      "span": [
+        8961,
+        9002
+      ],
+      "verbatim": "You doctored the trials so you would win."
+    },
+    {
+      "who": "Larissa",
+      "action": "放话要查出 Inara 隐藏的秘密、让她下半辈子进地牢；Inara 低声道 “Good luck” 后从容离开。",
+      "span": [
+        9702,
+        9751
+      ],
+      "verbatim": "I am going to find out what it is you are hiding,"
+    },
+    {
+      "who": "Inara／Prince Walder",
+      "action": "Inara 敲门报到，Walder 开门即指她迟到；他锁上寝宫门（身佩四剑与多把匕首）带她前往履职。",
+      "span": [
+        11206,
+        11248
+      ],
+      "verbatim": "produced a key, locked the door, and began"
+    },
+    {
+      "who": "Prince Walder／Rahphael／Hova／Sentinel Orion",
+      "action": "Walder 整日 hold court 听民众申诉；Rahphael 携女 Hova 来求训练，Hova 展示 Shielder 金色护盾，Walder 派 Elite Guard 的 Sentinel Orion 带二人去训练塔并安排住所。",
+      "span": [
+        14506,
+        14547
+      ],
+      "verbatim": "I am Rahphael. This is my daughter, Hova."
+    },
+    {
+      "who": "Inara／Prince Walder／Larissa",
+      "action": "午餐办公室内，Inara 察觉 Walder 剑首红宝石内有液体晃动，Walder 否认并以魔法隔空取回剑；其后 Larissa 闯入提醒 court 已迟五分钟，Walder 命她代为道歉。",
+      "span": [
+        26801,
+        26842
+      ],
+      "verbatim": "like a liquid sloshing from side to side."
+    }
+  ],
+  "relations": [
+    "Inara 与 Prince Walder：她赢 trials 后成为其 personal Shielder（签约即须服役一年）；Walder 称她 “the thief”，并嫌她 undisciplined。",
+    "Larissa 与 Prince Walder：她曾任其 personal Shielder 七年（每天共进午餐却不交谈），被 Inara 取代后不服，指 Inara 作弊。",
+    "Inara 与 Larissa：trials 对手；Larissa 坚称 Inara 不可能凭实力获胜、藏有秘密，扬言查清后送她进地牢。",
+    "Phaedra 与 Prince Walder：兄妹；她长期想找能打败 Larissa 的 Shielder，并利用 Enrollment Scroll 条款使 Inara 不得不任职。",
+    "Inara 与 Fraener：她的龙，经 soul-link 与她相连；Fraener 对 Larissa 发出威吓吼声。",
+    "Rahphael 与 Hova：父女；Hova 也是 Shielder、会施金色护盾，父女来王庭求训练。",
+    "Sentinel Orion 与 Prince Walder：Orion 是 Elite Guard 成员，奉命带 Rahphael 父女去训练塔并安排住所。",
+    "Prince Walder 与 High Council：他抱怨其成员除 Grand Ball 配色外对国事不闻不问。",
+    "Venerable Cias 与 Inara：Cias 是常对 Inara 说 Arelia 邪恶危险的长者（本章未出场，仅回忆提及）。",
+    "Inara 与亡母的记忆：母亲常说她 “You only want it because you don’t want someone else to have it.”",
+    "Prince Walder 与其 Guardian：冰息之龙（ice-breathing dragon）；hold court 时 Fraener 与它一同飞离。"
+  ],
+  "numbers": [
+    "SEVENTEEN（章题 CHAPTER SEVENTEEN 中的英文数字词）",
+    "c2M3（文件首行代码，内含数字 2）",
+    "first（her first day as personal Shielder）",
+    "the prior day（separated from him for most of the prior day）",
+    "a thousand（she did just climb a thousand bloody stairs）",
+    "dozen or so（up another dozen or so flights of stairs）",
+    "one room（There was one room at the end of the hall）",
+    "two options（She had two options）",
+    "a seven／A. Seven!（You scored her a seven. A. Seven!）",
+    "seven years（I have been your personal Shielder for seven years）",
+    "seven years（side by side, every day, for the last seven years）",
+    "the second round（When she finished the second round）",
+    "next year（luck will be on your side next year）",
+    "one Firestarter／four（beat one Firestarter, let alone four）",
+    "one（It was only meant to be one）",
+    "two／two（He had two at his back and two at his sides）",
+    "the first step（sat down on the first step）",
+    "fourteen or fifteen（possibly fourteen or fifteen）",
+    "thirteen（over the age of thirteen）",
+    "fifties（early fifties, if Inara had to guess）",
+    "an hour（go and return in an hour）",
+    "the first half of the day（after spending the first half of the day in his presence）",
+    "Every second of every day（Every second of every day?）",
+    "two or more parties（interactive communication between two or more parties）",
+    "seven years（ate lunch together every day for seven years）",
+    "the second most powerful（the second most powerful being in the realm）",
+    "the second／the first（If I am the second, who would be the first?）",
+    "a year（bound into service for a year）",
+    "four／two／another two（There were four—two, he kept strapped to his back, and another two sat at his sides）",
+    "five minutes（Court was to resume five minutes ago）"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "chapter": "ch11",
+  "facts": [
+    {
+      "who": "Inara 与 Felix",
+      "action": "走进第二个试炼室：房间更大，中央有一口巨坑，坑上架着一座摇摇欲坠的木桥，是通往对面那扇门的唯一路径",
+      "span": [
+        426,
+        477
+      ],
+      "verbatim": "An old, rickety, wooden bridge spanned the distance"
+    },
+    {
+      "who": "Inara",
+      "action": "四名持剑士兵冲进来后，命令 Felix 立刻过桥，自己转身独面士兵；两人背靠背换位",
+      "span": [
+        1504,
+        1539
+      ],
+      "verbatim": "“Cross the bridge,” Inara commanded"
+    },
+    {
+      "who": "Inara",
+      "action": "从掌心凝出两条金色巨蛇般的力量，结成两柄战斧（每手一柄），与四名士兵缠斗，一斧劈断一名士兵的剑",
+      "span": [
+        3061,
+        3108
+      ],
+      "verbatim": "Tendrils of gold wove outwards from the centres"
+    },
+    {
+      "who": "Inara",
+      "action": "掷斧冻结在一名士兵脸前一英寸处，随后召回斧头，把金发士兵钉在墙上（只钉住衬衫，不伤人）",
+      "span": [
+        5590,
+        5635
+      ],
+      "verbatim": "impaled the blonde-headed soldier to the wall"
+    },
+    {
+      "who": "Inara",
+      "action": "桥绳断裂、Felix 悬空坠落的瞬间，抬手凝出金色盾泡把他整个罩住，悬在半空",
+      "span": [
+        6358,
+        6414
+      ],
+      "verbatim": "a bright, beaming golden shield encircled Felix entirely"
+    },
+    {
+      "who": "Inara",
+      "action": "一边硬受四名士兵对她个人护盾的猛击，一边操纵盾泡把 Felix 稳稳移到对岸实地上放下",
+      "span": [
+        8971,
+        9016
+      ],
+      "verbatim": "steering the shield bubble over to the safety"
+    },
+    {
+      "who": "Inara",
+      "action": "竖起横贯两墙的金色盾墙把士兵步步推挤到墙边，并封死门口阻止一名士兵逃跑",
+      "span": [
+        9581,
+        9635
+      ],
+      "verbatim": "A bright, translucent golden shield snapped into place"
+    },
+    {
+      "who": "Inara",
+      "action": "掷出约五英寸宽的盾桥跑过深坑到对岸，握拳让所有护盾瞬间消失；人群雷鸣般欢呼，她已透支到鼻血渗出仍拒绝退出",
+      "span": [
+        12048,
+        12097
+      ],
+      "verbatim": "A shield bridge roughly five inches wide appeared"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：挚友兼 Charge 关系——Felix 只在为她担心时才叫她 Nara；他奉命先过桥，坠桥时被 Inara 的盾泡救起并护送过岸，事后扶住透支的她、劝她停止（You’re down to your reserves）",
+    "Inara 与四名试炼士兵（四人皆持剑、两两分左右包抄）：试炼对手——她压制、逼退并把他们挤到墙边，但刻意不杀；赛前被告知若有伤会有 Healer 待命",
+    "Inara 与 Larissa：较劲延续——Larissa 见她凝出双战斧时 mouth dropped open",
+    "Inara 与 Prince Walder（The Crowned Prince，紫罗兰色眼睛）：审视——Walder 全神贯注于她并身体前倾，是全场唯一在人群起立时仍保持坐姿的人",
+    "High Council 与观众：观赛者——成千上万观众起立鼓掌欢呼；士兵的窘态是 Inara 有意留给所有轻视 Borderlands 的人的警告"
+  ],
+  "numbers": [
+    "c1YX（文件首行标识码，非正文）",
+    "CHAPTER ELEVEN（章标题）",
+    "four men came barrelling through the door",
+    "the four hulking men closing in on her",
+    "Taking one step at a time",
+    "two terrifying battle axes, one in each hand",
+    "He was halfway across the bridge",
+    "Two guards stepped to the left, two to the right",
+    "one guard from each side attacked",
+    "splitting the weapon in two",
+    "the two broken pieces of his sword",
+    "hovered in the air an inch away from his face",
+    "There was not a single doubt about it",
+    "Inara was tall, roughly 6’4, but Felix was 6’6, and mostly all muscle",
+    "spanning the distance between one wall and the other",
+    "One of the soldiers picked up an abandoned sword",
+    "the blade snapped in two",
+    "A shield bridge roughly five inches wide appeared",
+    "through the open door she and Felix had first come through",
+    "stepped out onto the first wooden plank",
+    "one agonising step at a time",
+    "As if one being, they noticed",
+    "thousands of eyes upon them",
+    "He let her take the first step",
+    "本章无日期"
+  ]
+}

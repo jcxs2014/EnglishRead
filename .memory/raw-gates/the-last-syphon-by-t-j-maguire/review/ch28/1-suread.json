@@ -1,0 +1,105 @@
+{
+  "chapter": "ch28",
+  "facts": [
+    {
+      "who": "Inara；Prince Walder",
+      "action": "Inara 兴奋地在集市摊位间穿梭浏览（嚷着想看 chupacabra、惦记集市小吃），Prince Walder 手一直按在腰间剑柄上，神经紧绷地扫视四周每一个人",
+      "span": [
+        226,
+        269
+      ],
+      "verbatim": "Inara ping-ponged from one stall to another"
+    },
+    {
+      "who": "Inara；Prince Walder",
+      "action": "Inara 问何时发工钱，Walder 答每月月初会发津贴；她请他垫钱买对面摊的弯刀镰（scythe），自称救过他的命理应加薪，Walder 没有答应给钱",
+      "span": [
+        3129,
+        3177
+      ],
+      "verbatim": "receive a stipend for your work at the beginning"
+    },
+    {
+      "who": "Inara；Branko",
+      "action": "在 Branko 夫妻的武器摊，Inara 把 scythe 从十枚银币一路砍价到七枚并搭一份免费肉饼，成交",
+      "span": [
+        7583,
+        7620
+      ],
+      "verbatim": "Seven, and you throw in that meat pie"
+    },
+    {
+      "who": "Prinx/Branko；Prince Walder；Inara",
+      "action": "女摊主 Prinx 认出王储后，夫妻双双跪地痛哭求饶、愿免费奉送；Walder 坚持照价掏出七枚银币并另加一枚金币补偿他们受的惊吓；Inara 顺势又要走 Branko 的备用衣物，明说不是给自己穿",
+      "span": [
+        9889,
+        9918
+      ],
+      "verbatim": "pulled out seven silver coins"
+    },
+    {
+      "who": "Prince Walder；Inara",
+      "action": "Walder 换上 Branko 的短便服（裤脚吊在脚踝上）、红鳞铠甲裹进棕色布包，身份半掩后放松下来逛集市；两人边逛边聊——他渴望游历 realm、妹妹 Phaedra 是 Powerless 无法替他继位；Inara 说服他尝了 worms on a stick，他买了两份咬了一口",
+      "span": [
+        10980,
+        11016
+      ],
+      "verbatim": "Gone was the shiny red-scaled armour"
+    },
+    {
+      "who": "Prince Walder；Inara",
+      "action": "两人谈起威胁 realm 的危险与对策：与 Pregon、Roylan 代表的会面收效有限，下一步是向 High Council 申诉；Walder 已连续三次被投票否决亲自外出调查，希望明日（the morrow）召集议会时赢下投票；Inara 建议他干脆自己去",
+      "span": [
+        14353,
+        14394
+      ],
+      "verbatim": "I have been outvoted the last three times"
+    },
+    {
+      "who": "四名 youthen；Inara；Prince Walder",
+      "action": "集市尽头四个 youthen 分列两侧合围，用问路加讨食调虎离山，一名男孩从背后持刀要割 Walder 的钱袋；Inara 心念成盾，刀撞上护盾当场折断；Walder 转身逼问，双眼闪蓝、周遭气温骤降，其余少年一哄而散丢下同伴",
+      "span": [
+        17859,
+        17902
+      ],
+      "verbatim": "slammed into her shield, and the blade bent"
+    },
+    {
+      "who": "Inara；Prince Walder",
+      "action": "Inara 拾起断刀还给吓呆的男孩，又从 Walder 钱袋摸出一枚银币打赏他并放其离开；两人走到集市尽头，一名高个男子邀他们下场玩 Six Kings，Inara 本想替他婉拒，Walder 却应战（I'm in）径自走下山坡，Inara 愣了一下跟上",
+      "span": [
+        22209,
+        22254
+      ],
+      "verbatim": "Prince Walder grunted, stomping down the hill"
+    }
+  ],
+  "relations": [
+    "Inara 是 Prince Walder 新雇的贴身护卫：她自称救过他的命、理应加薪，称呼他 my Overlord",
+    "Prince Walder 是 Arelia 的 Crowned Prince（王储）、王位唯一继承人，在 lower city 威名可怖，摊主一认出即跪地求饶",
+    "Branko 与 Prinx 是武器摊夫妻摊主（夫 Branko、妻 Prinx），认出王储后惊惧下跪、哭求饶恕",
+    "Princess Phaedra 是 Walder 的妹妹、身为 Powerless 难以替兄继位；Inara 知道其身份但未告知 Walder（怕给公主惹祸）",
+    "Inara 与 Felix 是从小一起长大的老搭档（一人引开注意、一人掏包），旧时也常被抓住但从不互相抛弃",
+    "High Council 有权批准一切带危险的任务，只有国王能推翻其决定；Walder 已三次被投票否决外出调查",
+    "四名 youthen（一名高个瘦削、一名矮个黄卷发男孩等）是街头盗窃团伙，对王储施用调虎离山掏包把戏；被同伴抛弃的男孩获 Inara 赠银一枚"
+  ],
+  "numbers": [
+    "TWENTY-EIGHT（章题 CHAPTER TWENTY-EIGHT）",
+    "top ten（lower city 的市集连前十都排不上）",
+    "Ten silver coins／Ten（scythe 开价）",
+    "Five（Inara 还价）",
+    "Nine（摊主还价）",
+    "Seven, and you throw in that meat pie behind you for free（成交价）",
+    "seven silver coins（王储实付）",
+    "one gold coin（王储另加一枚金币）",
+    "two helpings（worms on a stick 两份）",
+    "the last three times（三次被 High Council 否决）",
+    "two positioned on the left and two on the right（四名 youthen 分列两侧）",
+    "older than twelve（youthen 至多十二岁）",
+    "half her size（黄卷发男孩只有高个者一半大）",
+    "400 feet wide（场地宽约四百英尺）",
+    "Six Kings（球赛名）",
+    "the very first time（Walder 像初次见识一切般打量）",
+    "the first time in his life（他生平第一次摘下王子面具只做 Walder）"
+  ]
+}

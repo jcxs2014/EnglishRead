@@ -1,0 +1,117 @@
+{
+  "chapter": "ch26",
+  "facts": [
+    {
+      "who": "Larissa / Prince Walder",
+      "action": "Larissa 着血红礼裙进书房请 Walder 赴舞，见 Inara 后怒斥并骂她 “whore”；Walder 表明历来只与被指派的贴身 Shielder 共舞，并警告 Larissa 不得侮辱王族",
+      "span": [
+        1907,
+        1941
+      ],
+      "verbatim": "I will be dancing with my Shielder"
+    },
+    {
+      "who": "Princess Phaedra / Prince Walder",
+      "action": "Phaedra 挤开 Larissa 冲入抱住兄长，讥其礼裙 “leaves little to the imagination”；Walder 称只须跳一支舞、不与任何慕其头衔者共舞，随即与 Inara 出门赴舞",
+      "span": [
+        4324,
+        4360
+      ],
+      "verbatim": "Princess Phaedra barged past Larissa"
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "舞池上 Inara 屡踩 Walder 的脚、左右不分、撞上旁人；想起这支舞讲述一对注定相守却永被拆散的恋人后放松下来，与全场舞者合拍共舞",
+      "span": [
+        5796,
+        5822
+      ],
+      "verbatim": "Because I suck at dancing!"
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 张开隔音护盾罩住两人（当场尖叫验证无人可闻），追问为何不把危险告知民众；Walder 称公布会引发混乱——抢掠、街头暴力、carnage——maintaining order 更重要",
+      "span": [
+        8970,
+        9019
+      ],
+      "verbatim": "cast my shield around us to keep our conversation"
+    },
+    {
+      "who": "两名刺客 / Inara",
+      "action": "舞至尾声、两人即将执手时，一名刺客的魔法刀穿透她的护盾、直刺 Walder 后背（入刃一半），另一名刺客自左侧持同款刀切开她的第二面盾；舞厅陷入踩踏奔逃",
+      "span": [
+        11379,
+        11429
+      ],
+      "verbatim": "a sharp knife tried to pierce Prince Walder’s back"
+    },
+    {
+      "who": "Prince Walder / Inara / Fraener / Tydus",
+      "action": "Walder 以魔力脉冲扫倒四周、掷冰棱、跳跃挥剑杀敌（一挥斩二人首级）；Inara 以冲击波轰飞刺客、化盾为碟斩首一人；Fraener 与 Tydus 空中攫人掷落撕碎，Fraener 将一名男子撕成两半",
+      "span": [
+        14856,
+        14891
+      ],
+      "verbatim": "decapitating them both in one swing"
+    },
+    {
+      "who": "Inara / 最后一名刺客",
+      "action": "Inara 以盾连封三扇大门困住最后一名刺客（灰发、五十来岁、墨绿华服），连问 “Who sent you?”，四枚金色盾矢钉入其大腿、肩、臂、胸；刺客大笑 “The age of kingdoms is over” 并扬言 the true one will rise，她绞动其体内矢刃、双手猛然撕裂——矢刃自其体内四处爆出而死",
+      "span": [
+        23139,
+        23166
+      ],
+      "verbatim": "The age of kingdoms is over"
+    },
+    {
+      "who": "Inara",
+      "action": "满场民众、Shielders 与 Elite Guards 以 horror 至 disgust 的目光注视她——正是她躲避了二十七年的目光；她深吸一口气、挺直脊背、头也不回地走出大厅",
+      "span": [
+        25887,
+        25922
+      ],
+      "verbatim": "running from for twenty-seven years"
+    }
+  ],
+  "relations": [
+    "Larissa 自认是 Walder 的 Shielder（“I am your Shielder”），欲与其共舞而被拒",
+    "Larissa 与 Inara 自 Shielder Trials 起结成竞争/敌对：骂 Inara “Borderlander”“whore”",
+    "Inara 是 Walder 被指派的贴身 Shielder，且作为 “a reflection of the Crowned Family” 受其维护",
+    "Princess Phaedra 是 Prince Walder 的妹妹（唤其 “Brother”）",
+    "Princess Phaedra 与 Kronan 为爱侣（对舞凝视；遇袭时 Kronan 拉她逃走）",
+    "Larissa 的 designated Charge 是 Lord Villani（遇袭时她护其撤离）",
+    "Felix 在混战中呼喊 Inara、试图挤到她身边（亲密同伴）",
+    "Inara 与 Fraener、Prince Walder 与 Tydus 各为 Guardian 搭档，战斗中双龙协同杀敌",
+    "Prince Walder 统有 Elite Guard（六名成员，试图赶到他身边）",
+    "刺客团伙假扮宾客、持能切穿护盾的魔法刀，自称效命于即将升起的 “the true one”（本章未揭示主使）"
+  ],
+  "numbers": [
+    "c3X1（文件首行代码）",
+    "CHAPTER TWENTY-SIX（章题）",
+    "You think I’m only going to last the year?（仅一年任期之疑）",
+    "No doubt next year, it will be someone else.（明年将换人）",
+    "no way she was going to compete in the Shielder Trials next year. One term was more than enough（明年不再参赛；一届已够）",
+    "I am only obligated to participate in one dance（只须跳一支舞）",
+    "Larissa was dancing only a few feet away（数英尺之外）",
+    "Not all the way, just halfway down the blade（刀刃入盾一半）",
+    "screams of terror from over a dozen different people（十几人惊叫）",
+    "seeing two men hacking at my shield（两名持刀者砍盾）",
+    "decapitating them both in one swing（一挥斩二人）",
+    "double the size of an ox（此刻 Fraener 体型两倍于牛）",
+    "he ripped the man in half. His body, now split in two（将男子撕成两半）",
+    "an expertise that only came from centuries of experience（数世纪经验）",
+    "Both his swords were in play（双剑并用）",
+    "Two men ran at her.（两人扑向她）",
+    "three large doors big enough to fit Fraener in his natural form（三扇大门）",
+    "Over a dozen Shielders stood just behind it（十几名 Shielder 合力）",
+    "creating one large shield（合力成一面大盾）",
+    "Older—at least in his fifties（五十来岁）",
+    "He made one last-ditch effort for the last door（最后一次尝试）",
+    "Prince Walder and his Elite Guard, six members, approached（六名精锐卫队）",
+    "Four of them hovered above her open palm.（四枚盾矢悬掌）",
+    "This time, she sent two hurtling towards him. One slammed into his shoulder, and the other his arm.（再掷两枚）",
+    "The shield arrowheads burst out of his body from four different points.（自体内四处爆出）",
+    "the one she’d been running from for twenty-seven years（躲避了二十七年的目光）"
+  ]
+}

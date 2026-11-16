@@ -1,0 +1,90 @@
+{
+ "chapter": "ch35",
+ "facts": [
+  {
+   "who": "Inara",
+   "action": "徒步腐地，踩过灰化骸骨（三村遗址）",
+   "span": [
+    1462,
+    1491
+   ],
+   "verbatim": "Bones were all that remained."
+  },
+  {
+   "who": "Inara",
+   "action": "提出 Medalist 伪装理论（剑柄红宝石里藏血）",
+   "span": [
+    2713,
+    2758
+   ],
+   "verbatim": "“Anyway, my theory is there’s blood in there."
+  },
+  {
+   "who": "Prince Walder",
+   "action": "被「relationship」一词绊住，全书首次失态结巴",
+   "span": [
+    3507,
+    3548
+   ],
+   "verbatim": "the prince stumbled. He actually stumbled"
+  },
+  {
+   "who": "Prince Walder",
+   "action": "透露禁 Bloodborne 公投三年三提、4:3 差一票未过",
+   "span": [
+    5908,
+    5929
+   ],
+   "verbatim": "“Four against three.”"
+  },
+  {
+   "who": "Inara",
+   "action": "口误说出「也许我就是喜欢跟你说话」",
+   "span": [
+    6900,
+    6935
+   ],
+   "verbatim": "Perhaps I just like talking to you."
+  },
+  {
+   "who": "Prince Walder",
+   "action": "坦承隐藏血统是父亲的主意（恐惧不可控之物）",
+   "span": [
+    8903,
+    8974
+   ],
+   "verbatim": "It was my father’s idea. People fear that which they do not understand."
+  },
+  {
+   "who": "Inara",
+   "action": "感到地下有能量在向上移动——像另一个 Syphon",
+   "span": [
+    20424,
+    20439
+   ],
+   "verbatim": "Moving…upwards?"
+  },
+  {
+   "who": "Inara",
+   "action": "认出那就是 Syphon（除自己外无人有此感）——丢盾拉王子就跑",
+   "span": [
+    20611,
+    20633
+   ],
+   "verbatim": "It was another Syphon."
+  }
+ ],
+ "relations": [
+  "Walder 与 Inara 徒步同行（compromise 兑现）",
+  "Larissa 血统：母 Shielder/父 Electrokinetic（教材例）",
+  "Villani 是公投提案推手（子 Soren 更糟）",
+  "地下能量属于另一个 Syphon（身份未揭示）"
+ ],
+ "numbers": [
+  "Four against three",
+  "Over the last three years",
+  "six against",
+  "2,000 years",
+  "A thousand"
+ ]
+}

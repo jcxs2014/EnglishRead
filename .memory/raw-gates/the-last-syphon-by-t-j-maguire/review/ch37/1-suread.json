@@ -1,0 +1,89 @@
+{
+ "chapter": "ch37",
+ "facts": [
+  {
+   "who": "Inara",
+   "action": "归途心魔（Voice 断言 Cursed King 你赢不了）",
+   "span": [
+    1771,
+    1786
+   ],
+   "verbatim": "You cannot win."
+  },
+  {
+   "who": "Deadhaven 村民",
+   "action": "被说服撤离，Cias 带队去 Arelia 途中再劝邻村",
+   "span": [
+    1219,
+    1291
+   ],
+   "verbatim": "Venerable Cias agreed to take them into Arelia, where they would be safe"
+  },
+  {
+   "who": "Inara",
+   "action": "与 Walder 返抵 Arelia 降落（Tydus 悬浮下、Fraener 头顶落座）",
+   "span": [
+    3960,
+    4020
+   ],
+   "verbatim": "Tydus shifted forms instantly, magic swirling all around him"
+  },
+  {
+   "who": "Inara",
+   "action": "王座厅遭伏击：Felix 刀架喉、Fraener 被套镇压项圈",
+   "span": [
+    7481,
+    7550
+   ],
+   "verbatim": "They locked a collar around Fraener’s neck, and her Guardian shrieked"
+  },
+  {
+   "who": "Larissa",
+   "action": "当众揭穿她是 Syphon（用缴获的 Syphon Source 书拼图）",
+   "span": [
+    10233,
+    10250
+   ],
+   "verbatim": "“She’s a Syphon.”"
+  },
+  {
+   "who": "Lord Tevi",
+   "action": "补刀：知情同谋同罪处死（Felix 也在死罪名单）",
+   "span": [
+    11433,
+    11479
+   ],
+   "verbatim": "Any collaborators are to be put to death too.”"
+  },
+  {
+   "who": "Inara",
+   "action": "吸尽空气之力以恶魔音威胁全场放人",
+   "span": [
+    12009,
+    12073
+   ],
+   "verbatim": "Let him go, or I will drain you all.” Her voice was not her own."
+  },
+  {
+   "who": "Inara",
+   "action": "清点四样愿烧 realm 的东西（村/母/Fraener/他），第五样不敢确认",
+   "span": [
+    12674,
+    12694
+   ],
+   "verbatim": "Was he on that list?"
+  }
+ ],
+ "relations": [
+  "Larissa：缴获 Syphon Source 后拼图揭发（ch14 威胁兑现）",
+  "Lord Tevi 引 collaborators 死罪条款",
+  "Walder 在场而未拦（她隔盾求否认不得）",
+  "Voice 战略化：更强/更老练/更无道德"
+ ],
+ "numbers": [
+  "a dozen or so",
+  "Six men",
+  "dozens upon dozens",
+  "four things"
+ ]
+}

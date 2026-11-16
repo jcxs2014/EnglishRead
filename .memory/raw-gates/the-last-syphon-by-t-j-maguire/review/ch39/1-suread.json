@@ -1,0 +1,85 @@
+{
+ "chapter": "ch39",
+ "facts": [
+  {
+   "who": "Felix",
+   "action": "恋爱证据链：魔法是他怒气的外化（降温/结冰=吃醋）",
+   "verbatim": "His anger and frustration manifest in his magic.",
+   "span": [
+    2320,
+    2368
+   ]
+  },
+  {
+   "who": "Phaedra",
+   "action": "探监目击两人互掐（喜剧冷开场）",
+   "verbatim": "Princess Phaedra stood in the hallway in front of Inara’s cell",
+   "span": [
+    6574,
+    6636
+   ]
+  },
+  {
+   "who": "Phaedra",
+   "action": "两次追问「你在乎我弟弟吗」（第二次带 urgency）",
+   "verbatim": "“Do you care for my brother?”",
+   "span": [
+    8489,
+    8518
+   ]
+  },
+  {
+   "who": "Phaedra",
+   "action": "递钥匙+密令放人+安排逃 Roylan+「希望你别接受」",
+   "verbatim": "My brother gave me this key with secret orders to set you free.",
+   "span": [
+    9077,
+    9140
+   ]
+  },
+  {
+   "who": "Phaedra",
+   "action": "告知议会已令他率军南下迎战",
+   "verbatim": "The High Council has ordered him and the Arelian Army to confront the enemy to the south.",
+   "span": [
+    9460,
+    9549
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "绝望推演他赢不了（经验碾压）——泪打转",
+   "verbatim": "He couldn’t win.",
+   "span": [
+    10251,
+    10267
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "拒钥匙、出牢门（拉他手腕穿盾而回的战斗由下章续）",
+   "verbatim": "She commanded her shield not to let anyone else through",
+   "span": [
+    28745,
+    28800
+   ]
+  },
+  {
+   "who": "Cursed King",
+   "action": "灵体现身正面对峙——她惊认 Balthus",
+   "verbatim": "“Balthus?”",
+   "span": [
+    28969,
+    28979
+   ]
+  }
+ ],
+ "relations": [
+  "Phaedra 是 Walder 之妹（递钥匙执行密令）",
+  "Felix 自封 objective third party",
+  "议会令 Walder 亲征"
+ ],
+ "numbers": [
+  "a mile a minute"
+ ]
+}

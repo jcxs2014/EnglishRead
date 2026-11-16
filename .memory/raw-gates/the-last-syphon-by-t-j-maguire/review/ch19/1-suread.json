@@ -1,0 +1,105 @@
+{
+  "chapter": "ch19",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "整整一周为王储随侍：每天到 Prince Walder 寝宫接他、护送至大厅听数千市民陈情（holding court 为期一周），Inara 无聊至极",
+      "span": [
+        88,
+        281
+      ],
+      "verbatim": "escort him to the grand hall, where thousands"
+    },
+    {
+      "who": "Inara",
+      "action": "第二天起坐在台基台阶上把护盾变成小球、在指间翻飞，借以排遣无聊",
+      "span": [
+        767,
+        1060
+      ],
+      "verbatim": "morphed her shield into the shape of a tiny ball"
+    },
+    {
+      "who": "边地农民／Inara／Prince Walder",
+      "action": "Arelia 边缘农民陈情：森林猎物锐减、动物屡屡像在逃离什么；Inara 早已知情且感担忧；Walder 表面允诺彻查，实则早已知情、深受困扰",
+      "span": [
+        1261,
+        1899
+      ],
+      "verbatim": "Farmers from the very edges of Arelia"
+    },
+    {
+      "who": "Inara",
+      "action": "请求回村探望被拒（被告知还要『赚信任』）；过去一周偷偷把寝宫值钱物件塞进背包，想寄回村里帮村民凑 Gideon 的款项",
+      "span": [
+        2418,
+        2972
+      ],
+      "verbatim": "secretly stuffing valuables from her bedchamber"
+    },
+    {
+      "who": "Inara／Prince Walder",
+      "action": "午休时 Inara 坚持去食堂用餐并连环发问（卷轴纸张、Deadhaven 粮食清点、椅子、牛肉酥饼、靴子），话痨攻势下 Walder 崩溃起身喊停，Inara 宣布「去食堂」",
+      "span": [
+        3519,
+        7361
+      ],
+      "verbatim": "Prince Walder stood in a huff"
+    },
+    {
+      "who": "Inara／Prince Walder",
+      "action": "Inara 瞥见卷轴上的「Tolanaa／The Dead Kingdom」出言询问，Walder 一掌拍住卷轴、喝止她再说话",
+      "span": [
+        6991,
+        7179
+      ],
+      "verbatim": "A scroll caught her eye, and she could not help but frown."
+    },
+    {
+      "who": "Inara／Larissa／twins／Na-Ri",
+      "action": "食堂里 Inara 借 Fraener 的强化听觉听到 Larissa 与 twins 羞辱 Na-Ri：不许她吃东西、贬低她无用、没人会愿做她朋友",
+      "span": [
+        11006,
+        12161
+      ],
+      "verbatim": "Did I say you could eat?"
+    },
+    {
+      "who": "Inara／Prince Walder／Fraener／Na-Ri",
+      "action": "Inara 打定主意后带王子与变大的 Fraener 走到 Na-Ri 桌前，问「能否同坐」、表明只想给她友谊；Na-Ri 先向王座行礼、看 Larissa 眼色犹豫，最终请他们坐下",
+      "span": [
+        13205,
+        16190
+      ],
+      "verbatim": "Mind if we sit with you?"
+    }
+  ],
+  "relations": [
+    "Inara 是 Prince Walder 的贴身 Shielder（护卫），须时刻跟随他；Walder 称她是「the worst Shielder I have ever had」，并后悔当初给她打 seven（7 分）",
+    "Fraener 是 Inara 的 Guardian（守护龙），两人 soul-link 相连：他感知她的情绪、送来安抚与画面，可变小随行、也可变大如马",
+    "Prince Walder 是 Crowned Prince、Heir to the Arelian throne；他对 Inara 承认王储身边永远有人想杀他，这正是 Inara 被派来贴身护卫的原因",
+    "Larissa 与一对 identical twins 结伙在食堂欺凌 Na-Ri：不许她吃东西、骂她无用、声称没人会愿做她的朋友",
+    "Na-Ri 是独坐一角的红发女子，对王族极为恭敬——见 Walder 即起立鞠躬称「my Prince」，受 Larissa 眼色制约、不敢应 Inara 的邀约",
+    "Inara 来自 Borderlands 的 Deadhaven（约 a hundred 人的村子），曾负责村里粮食清点；她惦记村民、怕他们为 Gideon 的款项闹翻，偷偷收集值钱物想寄回去",
+    "Inara 对 Larissa 满怀敌意：Fraener 曾传图幻想抓起 Larissa 丢进 Shadowed Seas、被 Pregon 的 Guardian（Basilisk）生吞，Inara 欣赏这些点子"
+  ],
+  "numbers": [
+    "thousands of citizens",
+    "a week-long affair",
+    "Week. Long.",
+    "After the first day in his service",
+    "After day two",
+    "on numerous occasions",
+    "Just one hour.",
+    "another four to take its place",
+    "a hundred people",
+    "At one point",
+    "the first time someone sat on it",
+    "given me a seven",
+    "since day one",
+    "one finger caressing under Fraener",
+    "one of the identical twins",
+    "one table over",
+    "One simple word, one simple thought"
+  ]
+}

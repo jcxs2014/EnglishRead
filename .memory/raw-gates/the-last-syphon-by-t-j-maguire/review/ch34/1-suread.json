@@ -1,0 +1,87 @@
+{
+ "chapter": "ch34",
+ "facts": [
+  {
+   "who": "Inara",
+   "action": "得知王子追来，与他在 Deadhaven 前对峙（坚持南下查界）",
+   "span": [
+    187,
+    219
+   ],
+   "verbatim": "What the Fates is he doing here?"
+  },
+  {
+   "who": "Prince Walder",
+   "action": "放话「我把你拖回去」，威胁强制带回",
+   "span": [
+    6065,
+    6111
+   ],
+   "verbatim": "“I will drag you back,” he warned. Threatened."
+  },
+  {
+   "who": "Inara",
+   "action": "提出 compromise：顺路南行查界、瞒着高议会",
+   "span": [
+    4228,
+    4283
+   ],
+   "verbatim": "“Compromise?” She began, raising one finger in the air."
+  },
+  {
+   "who": "Inara",
+   "action": "以失踪者的家人做低击劝他同行",
+   "span": [
+    5258,
+    5325
+   ],
+   "verbatim": "Don’t their families deserve to know why they never returned home?”"
+  },
+  {
+   "who": "Prince Walder",
+   "action": "内心挣扎后叹气，默认同行（她赢了）",
+   "span": [
+    6663,
+    6724
+   ],
+   "verbatim": "After what felt like a lifetime, Prince Walder finally sighed"
+  },
+  {
+   "who": "双龙",
+   "action": "接近死国时双双拒飞、急降倒退（scurried backwards）",
+   "span": [
+    9048,
+    9123
+   ],
+   "verbatim": "Fraener suddenly veered down, and Inara had to quickly grip onto the spikes"
+  },
+  {
+   "who": "Fraener",
+   "action": "以图像轰炸恳求她别去：画面里她死了、他也心碎而死",
+   "span": [
+    12393,
+    12444
+   ],
+   "verbatim": "Him, crushed with heartbreak, dying along with her."
+  },
+  {
+   "who": "Inara 与 Prince Walder",
+   "action": "步行跨过腐地边界（龙留下，foreboding 对视后出发）",
+   "span": [
+    13598,
+    13635
+   ],
+   "verbatim": "They crossed over to the cursed land."
+  }
+ ],
+ "relations": [
+  "Prince Walder 追 Inara 到 Deadhaven（他已知她擅自南下）",
+  "Inara 与 Prince Walder 达成 compromise 同行",
+  "Fraener/Tydus 与各自 Chosen 的 soul-link（双龙均惧腐地）",
+  "Venerable Cias 在 Deadhaven（素读提及她须说服村民撤离由他带队）"
+ ],
+ "numbers": [
+  "100 or so feet",
+  "over a hundred people"
+ ]
+}

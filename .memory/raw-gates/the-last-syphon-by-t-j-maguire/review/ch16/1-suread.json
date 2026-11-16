@@ -1,0 +1,97 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "被敲门声惊扰后起身开门，见门口站着 Phaedra 公主，Kronan 随侍在侧（Inara 本想闭门拒谈）。",
+      "span": [
+        300,
+        349
+      ],
+      "verbatim": "Standing in the hall was Princess Phaedra, Kronan"
+    },
+    {
+      "who": "Kronan",
+      "action": "在门口施出护盾墙（shield wall），令 Inara 无法把门再关上一寸。",
+      "span": [
+        468,
+        520
+      ],
+      "verbatim": "A shield wall snapped into existence in the doorway,"
+    },
+    {
+      "who": "Felix",
+      "action": "把 Inara 挤开、拉宽房门向公主鞠躬请她进屋，随后坐回床边边吃甜点边旁观。",
+      "span": [
+        1635,
+        1683
+      ],
+      "verbatim": "Felix came over and barged Inara out of the way."
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "低头道歉认谎并解释：她明知签下 Enrollment Scroll 者胜出后须服满亲卫任期，仍希望 Inara 打败 Larissa，因为相信她能直言不讳地保护其兄（多年来招募能打败 Larissa 的 Shielder 均告失败）。",
+      "span": [
+        3893,
+        3927
+      ],
+      "verbatim": "I did lie to you, and I apologise."
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "向 Inara 自曝是 Powerless：从未显现魔法，一生只能靠磨炼直觉、观察他人来察知意图。",
+      "span": [
+        7094,
+        7146
+      ],
+      "verbatim": "I have never manifested a power, and because of that"
+    },
+    {
+      "who": "Kronan／Inara／Felix",
+      "action": "Kronan 拔剑逼二人起誓永不泄露公主是 Powerless 的秘密；Inara 先立誓（I vow it.），Felix 随后起誓（I won't tell a soul.）。",
+      "span": [
+        9897,
+        9940
+      ],
+      "verbatim": "Kronan drew his sword and stared them down."
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "临走前告知 Inara：须在 dawn 到其兄（Crowned Prince）寝室外等候，从其醒来到休息全程护卫，每日如此。",
+      "span": [
+        11341,
+        11396
+      ],
+      "verbatim": "Make sure to report to my brother’s bedchamber at dawn."
+    },
+    {
+      "who": "Inara／Fraener",
+      "action": "Inara 命令 Fraener 扑咬 Felix 以示惩戒（Felix 满地翻滚呼救），随后送公主与 Kronan 出门并关上房门。",
+      "span": [
+        12645,
+        12678
+      ],
+      "verbatim": "Get him, Fraener,” Inara ordered."
+    }
+  ],
+  "relations": [
+    "Inara 与 Princess Phaedra：Phaedra 以王室代表（royal representative）身份来访，承认骗 Inara 签下 Enrollment Scroll（胜出即须任亲卫，否则进地牢一年），并为欺骗道歉。",
+    "Phaedra 与 Kronan：Kronan 是公主的 Shielder，全程贴身护卫，代她施盾墙、拔剑逼 Inara 与 Felix 立誓保密。",
+    "Inara 与 Felix：无话不谈的挚友（best friend），直言互怼也互相照应。",
+    "Inara 与 Fraener：Fraener 是她的龙，能感知她的情绪、听她号令攻击 Felix。",
+    "Phaedra 与其兄（Crowned Prince）：兄妹；她相信 Inara 敢于直言谏诤、能保护兄长，故设法让 Inara 成为兄长的 personal Shielder。",
+    "Larissa 与 Phaedra／Inara：公主多年招募能打败 Larissa 的 Shielder 均失败；Larissa 是 trials 中的最强者，Inara 最终击败了她。",
+    "Inara 与王族职责：她既是 Chosen（原应明早到 High Council Hall 报到），又因亲卫合同须改为 dawn 起护卫 Crowned Prince。",
+    "Phaedra 的秘密与王位：Crowned Family 中若有 Powerless 一旦泄露会立刻被废黜（bloodline 视为 tainted）。"
+  ],
+  "numbers": [
+    "SIXTEEN（章题 CHAPTER SIXTEEN 中的英文数字词）",
+    "c2GA（文件首行代码，内含数字 2）",
+    "a year（risk spending a year in the dungeon）",
+    "once（Princess Phaedra nodded once solemnly）",
+    "tenfold（Inara’s anger returned tenfold）",
+    "once（Princess Phaedra nodded once in thanks and entered）",
+    "once（Fraener circled the room once more）",
+    "yesterday（I saw it down in the fields yesterday with Na-ri）"
+  ]
+}

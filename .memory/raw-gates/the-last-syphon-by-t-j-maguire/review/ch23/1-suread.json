@@ -1,0 +1,109 @@
+{
+  "chapter": "ch23",
+  "facts": [
+    {
+      "who": "Inara、Prince Walder",
+      "action": "只睡约一小时的 Inara 睡眠不足、四肢沉重，清晨照例到 Walder 的寝宫报到当值；过去几个小时她跟随着他在主宫各厅巡视，看他为次日 Grand Ball 挑选色彩、餐具、家具并指挥主餐厅布置（他事必躬亲、控制欲极强）。",
+      "span": [
+        991,
+        1038
+      ],
+      "verbatim": "in preparation for the Grand Ball on the morrow"
+    },
+    {
+      "who": "Prince Walder、Inara",
+      "action": "被问及是否讨厌舞会，Walder 说舞会乏味、请柬向邻国开放，Pregon 与 Roylan 的王室常来，他被迫寒暄；并透露本场将另与列席的 High Council 代表密会一项『紧迫议题』——Inara 将列席，届时虽有 peace bond 仍须时刻警惕；她因『我也会在场』而心头一跳。",
+      "span": [
+        2487,
+        2542
+      ],
+      "verbatim": "Royal families from both Pregon and Roylan often attend"
+    },
+    {
+      "who": "Felix、Inara、Prince Walder",
+      "action": "Felix 找到 Inara，夸张行礼戏称 Walder『Your Eminesce』，提议午饭后同去 librarium；Walder 面露不悦之际，一名浅蓝束腰短衣的传令吏跑来通报：Lord Villani 派人请王储相见（Walder 私下骂他 blubbering fool，命带人来）；Walder 顺水推舟放行，命 Inara 一小时内归队，她学 Felix 的夸张姿态行礼告退。",
+      "span": [
+        6178,
+        6238
+      ],
+      "verbatim": "Lord Villani has sent me ahead. He wishes to speak with you."
+    },
+    {
+      "who": "Inara、Felix",
+      "action": "Inara 走进 Arelian Librarium 失声惊叹：馆址圆形、逾五层高，中央螺旋玻璃楼梯缠满藤蔓直通顶楼，墙边轮式长梯与漂浮的 luminaries 照明；她把手指悬在书脊上方让 Felix 感受『空气里的魔法』，又切换 syphon sight——每本书每卷轴都泛着金色魔力丝线。",
+      "span": [
+        9925,
+        9946
+      ],
+      "verbatim": "over five levels high"
+    },
+    {
+      "who": "Felix、Inara",
+      "action": "Felix 告知 Head Venerable 的居室在顶层、来前已向其他 Venerable 打探确认他在馆，计划先摸清布局、一有机会就当场取书；两人拾级而上时 Inara 向 Felix 演示昨夜新学的跳跃——Felix 吓得失声尖叫，被同层老妇人指着墙上的 Quiet level 标示连声制止；移到上一层后她把来龙去脉讲给他听，Felix 大喜：这是行窃的完美能力。",
+      "span": [
+        11913,
+        11968
+      ],
+      "verbatim": "the Head Venerable’s chambers are on the very top floor"
+    },
+    {
+      "who": "Felix、Inara、Malix",
+      "action": "五楼楼梯口小桌后的值守人 Malix（兜帽罩头、浅棕皮肤、深色眼睛）拦下二人：Head Venerable Casius 现在不接访客；Felix 谎称 Inara 是『王储贴身 Shielder、Guardian Fraener 的 Chosen』Inara Tempest、替 Borderlands 的 Venerable Cias 捎信求见，并以『情感支持』为由必须陪同，不由分说挽着她直奔最后一段楼梯，Malix 愣在原地。",
+      "span": [
+        16254,
+        16313
+      ],
+      "verbatim": "Head Venerable Casius is not taking visitors at the moment."
+    },
+    {
+      "who": "Felix、Inara、Balthus",
+      "action": "Felix 独自敲门进屋以歌声催眠 Head Venerable（约定三分钟后跟进），气质瞬间从玩闹青年变成她几乎认不出的人；走廊里等候的 Inara 一边踱步一边想着自己的 syphon 之力多年来只能自行摸索（母亲一路支持但世上无第二个 Syphon 可请教）、指望此行能找到答案，随即被无声贴近的 Balthus 吓了一跳——两人攀谈，她自称来自 Borderlands、约一周前到王国；Balthus 本以为是来赴 Casius 的约，道别时允诺下次不再偷袭。",
+      "span": [
+        21398,
+        21449
+      ],
+      "verbatim": "I said you’re new. I’ve never seen you here before."
+    },
+    {
+      "who": "Inara、Felix",
+      "action": "屋内一名红袍老者（Felix 的催眠对象，即 Head Venerable）脸朝下伏在书桌面上；Inara 塞上棉团防催眠，趁 Felix 冒汗强撑歌声（力量急耗、再拖下去有性命之虞）翻遍全书房却一无所获；最后她盯上桌上一本借阅登记簿——Passage for an Oracle、Healers' Embrace、Alchemists in the Realm、Bloodborne Origins 等十余条目——唯一醒目的 Syphon Source 标注 Checked out，借阅人一行写得明明白白：Crowned Prince Walder。全章在此收束。",
+      "span": [
+        25434,
+        25456
+      ],
+      "verbatim": "Crowned Prince Walder."
+    }
+  ],
+  "relations": [
+    "Inara 是 Crowned Prince Walder 的 Shielder：清晨到其寝宫报到当值、按规矩应整日随侍（本章他破例放她离开一小时）。",
+    "Inara 与 Felix 是 best friend（从小一起长大）；二人配合行窃：Felix 以歌声催眠、Inara 趁机搜寻，目标是 librarium 里关于 Syphon 的书。",
+    "Fraener 是 Inara 的 Guardian（soul-link：一旦分离胸口便隐隐作痛、越久越重；本章他从午间飞走数小时）；Chompers 是 Felix 的 Guardian——Felix 问『Where's Chompers?』，Inara 答『去做 Guardian 的事了』。",
+    "Prince Walder 是 Arelia 的 Crowned Prince，正亲自督办次日 Grand Ball 的筹备；Lord Villani 派人请他相见（他私下称 Villani 为 blubbering fool，且 Villani 不喜欢 Inara）。",
+    "Malix 是 librarium 五楼楼梯口的值守职员；Head Venerable Casius 是顶层主事者、被 Felix 的歌声催眠；Venerable Cias 是 Borderlands 的 Venerable（Felix 假借其名义传话）。",
+    "Balthus 是顶层走廊偶遇的陌生男子：高挑俊朗、蓝眼、自称行动无声如狐，本以为是来赴 Head Venerable Casius 的约。"
+  ],
+  "numbers": [
+    "CHAPTER TWENTY-THREE",
+    "half the night",
+    "an hour or so of rest",
+    "For the past few hours",
+    "on the morrow",
+    "Return within the hour.",
+    "over five levels high",
+    "the fifth and final floor",
+    "a few hours at a time",
+    "only a few paces away",
+    "a single book open on it",
+    "thousand-watt smile",
+    "99 percent confidence",
+    "three minutes",
+    "The first minute he started singing",
+    "roughly ten paces to reach one side",
+    "one shoulder leaning up against the wall",
+    "about a week ago",
+    "longer than ten seconds",
+    "a minute or two, at most",
+    "two small cotton buds",
+    "about a dozen or so more"
+  ]
+}

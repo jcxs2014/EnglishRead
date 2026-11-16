@@ -1,0 +1,273 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/ch13 since your mother left.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch13_chapter_13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "How long have you known?” she immediately asked the moment the door slammed shut behind them",
+          "ok": true,
+          "pos": 645
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Before your mother left for her latest adventure, she spoke to me. She feared for you, worried you might need help one ",
+          "ok": true,
+          "pos": 2605
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You chose to have us jump into mermaid-infested waters rather than take from me. Insane. Absolutely insane",
+          "ok": true,
+          "pos": 5403
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Don’t go getting all sappy. It’s not that big of a deal. Being a Syphon doesn’t change who you are. You’re still the sa",
+          "ok": true,
+          "pos": 6027
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The way your magic moved as if it had a mind of its own",
+          "ok": true,
+          "pos": 7616
+        },
+        {
+          "text": "I’ve never seen Shielder magic work that way. It’s utterly fascinating. You had the attention of the entire assembly",
+          "ok": true,
+          "pos": 7672
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The High Council members will convene to rank all the contestants and score them between one and seven.”",
+          "ok": true,
+          "pos": 8541
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Kronan is my permanent Shielder. He need not compete.”",
+          "ok": true,
+          "pos": 9061
+        }
+      ],
+      "words": 9
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter Thirteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 9.0,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1931,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

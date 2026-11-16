@@ -1,0 +1,106 @@
+{
+  "chapter": "ch21",
+  "facts": [
+    {
+      "who": "Inara／Felix／Princess Phaedra",
+      "action": "夜幕下连续两晚，Inara 与 Felix 在 Princess Phaedra 指导下练舞，始终踩不上点、屡撞屡绊，毫无起色",
+      "span": [
+        220,
+        553
+      ],
+      "verbatim": "for the next two nights, practiced"
+    },
+    {
+      "who": "Inara／Fraener／Felix",
+      "action": "练舞中 Inara 与 Felix 相撞、魔力随烦躁波动；Fraener 经 soul-link 传来她手舞足蹈的滑稽画面取笑，随后亲自下场绕两人示范、以优雅鞠躬收尾，被 Inara 嗔怪赶回",
+      "span": [
+        1659,
+        3163
+      ],
+      "verbatim": "an image pushed its way into her mind"
+    },
+    {
+      "who": "Princess Phaedra／Kronan／Na-Ri",
+      "action": "Phaedra 唤 Kronan 上场示范整支舞；Na-Ri 耳语解说：这支舞讲「两个恋人注定相守、却总被外力撕开」，两人自始至终不接触",
+      "span": [
+        4811,
+        6707
+      ],
+      "verbatim": "Kronan bowed low at the waist"
+    },
+    {
+      "who": "Kronan／Princess Phaedra／Inara／Felix",
+      "action": "曲终二人双手终于相触又被迫松开；Inara 看见 Kronan 与公主彼此渴望的神情、落泪；Felix 一句感叹打破幻境，Kronan 瞬间恢复冷脸回墙边站好",
+      "span": [
+        8473,
+        9855
+      ],
+      "verbatim": "A tear fell from Inara"
+    },
+    {
+      "who": "Princess Phaedra／Inara",
+      "action": "Phaedra 解释：加冠家族在 Grand Ball 至少须共舞一曲（非强制但是惯例），Walder 挑了接触最少的一支；舞会也是准新娘接近的场合——尽管其母不断催婚，Walder 无意娶亲",
+      "span": [
+        10389,
+        11297
+      ],
+      "verbatim": "at least one dance during a Grand Ball"
+    },
+    {
+      "who": "Inara／Felix",
+      "action": "深夜 Inara 失眠（Felix 睡在她床上打呼），数日来总觉得有个黑暗「存在」在跟踪、猎捕她，回头却什么也看不见",
+      "span": [
+        11650,
+        12761
+      ],
+      "verbatim": "presence following her"
+    },
+    {
+      "who": "Inara／Fraener",
+      "action": "Inara 骑 Fraener 夜飞；眼中发热获得夜视（soul-link 带来的新能力），从空中看清整座 Arelia",
+      "span": [
+        13457,
+        16422
+      ],
+      "verbatim": "Wanna go for a ride?"
+    },
+    {
+      "who": "Inara／Fraener／Prince Walder",
+      "action": "Inara 发现远处属于王储的黑龙、示意追猎，Fraener 以瞬移连跳（每次逾百英尺）追逐；四五个回合后 Inara 喊停，眩晕呕吐——吐在了 Prince Walder 头上",
+      "span": [
+        16707,
+        17975
+      ],
+      "verbatim": "In the distance, she saw the dark dragon"
+    }
+  ],
+  "relations": [
+    "Princess Phaedra 是 Prince Walder 的妹妹（她称他「my brother」），同属 Crowned Family；两人之母不断催 Walder 娶亲、他无意找王后",
+    "Kronan 是随课在场的 Shielder（全程抱臂贴墙、面色阴沉）；与 Phaedra 共舞时目光柔软、彼此 longing 相望——Felix 由此断定「Her heart was firmly taken」",
+    "Felix 是 Inara 的 best friend、陪练舞伴，夜里睡在她床上打呼流口水；他对 Phaedra 有意但自知无望",
+    "Fraener 是 Inara 的 Guardian：soul-link 双向传情绪与画面；true form 能载 Inara 飞行，并持续赋予她新能力（夜视）——她由此理解王族为何愤怒于她与 Guardian 结契",
+    "Na-Ri 全程旁观舞蹈课、坐在角落（Fraener 靠着她），为 Inara 耳语解说舞蹟讲的是「两个恋人被外力撕开」",
+    "Inara 是 Walder 的 Shielder，正为 Grand Ball 学舞；夜飞时发现的 dark dragon「belonged to the Crowned Prince」，最后她呕吐吐在了 Prince Walder 头上"
+  ],
+  "numbers": [
+    "for the next two nights",
+    "about 2,000 more years of practice",
+    "several steps around in a circle",
+    "For days, she",
+    "a tale about two lovers",
+    "the final few seconds",
+    "one agonising step at a time",
+    "One step. Another. Another.",
+    "one single ounce of emotion",
+    "at least one dance during a Grand Ball",
+    "one of the many, many reasons",
+    "one last glance",
+    "over the last few days",
+    "One wrong move, one wrong misstep",
+    "grasped the two large horns",
+    "a few feet",
+    "miles and miles of plush forestry",
+    "over a hundred feet away",
+    "After the fourth or fifth round"
+  ]
+}

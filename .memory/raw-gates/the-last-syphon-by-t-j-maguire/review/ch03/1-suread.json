@@ -1,0 +1,100 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "溜进 librarium 坐下；Cias 问她对 Guardian 的了解，她答各王国各有一只，Dead Kingdom Tolanaa 的自 Dark War 后 2,000 多年无人见过",
+      "span": [
+        52,
+        1697
+      ],
+      "verbatim": "no one has seen theirs for over 2,000 years"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 断言她与龙缔结了 soul-link、成了 Chosen 且性命危殆；她出言嘲讽，被他打响指弄塌座椅摔在地上",
+      "span": [
+        2889,
+        3401
+      ],
+      "verbatim": "the chair she was sitting on broke apart"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 念出定义：Guardian 一生只缔结一次 soul-link、两魂合一、一亡俱亡；Inara 想起缔结瞬间的灵魂剧痛，并质问撒谎偷窃杀过人的自己为何会被龙选中",
+      "span": [
+        5662,
+        7422
+      ],
+      "verbatim": "only create a soul-link once in its entire lifespan"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "古籍写明 Chosen 继承 Guardian 的全部力量；Cias 称除非重大外伤她将与龙同寿；她追问能否喷火、飞行，答曰链接尚新尚弱、日后渐次解锁",
+      "span": [
+        8707,
+        11022
+      ],
+      "verbatim": "you will live as long as your dragon lives"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "复述 Dark War：Tolanaa 的 Cursed King 是 Syphon，抽干人民与土地使其腐烂成 Dead Kingdom；三国联合击败他，战后颁令凡具吸取能力者一律处死（母亲曾每晚讲这个故事哄她入睡）",
+      "span": [
+        11705,
+        14051
+      ],
+      "verbatim": "The Cursed King was a Syphon"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 翻出《THE DARK WAR》的三龙图谱：战后仅存三条龙；据此断言她的龙是其中之一，名 Fraener，是现存最古老的龙之一、能冬眠数百甚至数千年",
+      "span": [
+        15736,
+        16791
+      ],
+      "verbatim": "only three dragons had survived the carnage"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 警告：Crowned Family 本为 Fraener 安排了预定 soul-link 人选、被她抢先；他们杀不了她（杀她即杀龙），但她将永为 Crown 服役、战时被召作战",
+      "span": [
+        16987,
+        17885
+      ],
+      "verbatim": "you will forever be in the servitude of the Crown"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 忠告她骑上龙逃走别回头：Arelia 宫廷腐败，会把她炼成杀戮傀儡；Shielder 被各王国征召为 Charge 的贴身护卫，她的力量前所未见，被 Crowned Family 抓住绝不放人",
+      "span": [
+        18328,
+        20086
+      ],
+      "verbatim": "Get on the back of that dragon and run"
+    }
+  ],
+  "relations": [
+    "Inara 认识 Venerable Cias 一生、信任他、视之如父——她自小就没了解过自己的父亲",
+    "Inara 与巨龙（Fraener）缔结 soul-link：他是 Guardian、她是 Chosen，两魂合一、一亡俱亡",
+    "Fraener 是 Dark War 后仅存的三条龙之一（One of the Three）、Arelia 的 Guardian；Crowned Family 本为他安排了预定 Chosen",
+    "Cursed King 是 Tolanaa（后称 Dead Kingdom）的王、一名 Syphon，其疯狂引发 Dark War——与 Inara 同为 Syphon",
+    "Inara 的母亲曾每晚在她睡前讲 Cursed King 的故事，教她认识身为 Syphon 的严重性",
+    "Inara 兼具 Shielder 与 Chosen 双重身份（外加被禁的 Syphon 之力），对 Crown 既极具价值又极度危险",
+    "Guardian 无需征得同意即可选定 Chosen；其存在是为了守护王国而非侍奉王室"
+  ],
+  "numbers": [
+    "2,000 多年（over 2,000 years，since the Dark War——Tolanaa 的 Guardian 无人再见）",
+    "两两成排（two by two，librarium 的桌椅排布）",
+    "一生一次（once in its entire lifespan，Guardian 缔结 soul-link）",
+    "两魂合一（What was once two beings becomes one）",
+    "一个月/一年（the whole month→a whole year，那本古书够全村吃一年）",
+    "数年、数世纪、数千年（years, centuries, sometimes millennia，Guardian 可不选 Chosen 的时长）",
+    "好几辈子（several lifespans，她与龙仍会死，只是更久）",
+    "数千人（Thousands of lives were lost，Dark War 伤亡）",
+    "三国（the three remaining kingdoms, Roylan, Pregon, and Arelia，联合击败 Cursed King）",
+    "仅存三条龙（only three dragons had survived the carnage）",
+    "2,000 多年前（over 2,000 years ago，Dark War 结束于彼时）",
+    "数百甚至数千年（hundreds, even thousands of years at a time，龙一次冬眠的时长）"
+  ]
+}

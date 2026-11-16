@@ -1,0 +1,96 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "who": "Inara 与 Felix",
+      "action": "Shielder Trials 最后一轮结束后，两人被带进单独房间等待排名；门一关上 Inara 立刻质问 Felix 何时知道她的秘密",
+      "span": [
+        38,
+        95
+      ],
+      "verbatim": "Once the final round of the Shielder Trials had concluded"
+    },
+    {
+      "who": "Felix",
+      "action": "承认从 Inara 母亲离开后就已知道她是 Syphon（Inara 质问他已知道两年却从不说），并保证绝不告诉任何人",
+      "span": [
+        786,
+        809
+      ],
+      "verbatim": "Since your mother left."
+    },
+    {
+      "who": "Neron",
+      "action": "自称王宫治疗师之一，进屋询问是否需要帮助；Inara 与 Felix 都婉拒后他鞠躬离开",
+      "span": [
+        1532,
+        1576
+      ],
+      "verbatim": "I am Neron, one of the Healers in the palace"
+    },
+    {
+      "who": "Felix",
+      "action": "解释 Inara 的母亲临行前找过他：担心她可能有一天需要帮助应对力量，请他照看、帮助她，所以他一直等 Inara 自己开口",
+      "span": [
+        2895,
+        2942
+      ],
+      "verbatim": "she asked me to watch out for you. To help you."
+    },
+    {
+      "who": "Felix",
+      "action": "坦白母亲离开数月后曾在地下洞穴任务中故意把她引向瀑布，想逼她显露汲取能力；她当年宁可带着他们跳入有美人鱼的水域也不从他身上汲取，此后他确信无需怕她",
+      "span": [
+        5192,
+        5230
+      ],
+      "verbatim": "I led us to the waterfall in the hopes"
+    },
+    {
+      "who": "Inara",
+      "action": "得知 Felix 接纳她本来的样子后感动拥抱他，强忍泪水",
+      "span": [
+        6134,
+        6172
+      ],
+      "verbatim": "She hugged him, overcome with emotion."
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "与 Kronan 进屋道贺（称从未见过那样的 Shielder 魔法），并讲解评分流程：High Council 将给所有参赛者打一至七分，按出场顺序逐个公布，按分数从高到低排序并分配当年 Charge",
+      "span": [
+        8857,
+        8889
+      ],
+      "verbatim": "score them between one and seven"
+    },
+    {
+      "who": "Nolan",
+      "action": "探头通报 High Council 已带着评判结果回来；Phaedra 向他致谢，Inara 随之紧张，怀疑 Larissa 是否做得更好",
+      "span": [
+        10551,
+        10600
+      ],
+      "verbatim": "The High Council has returned with their verdict."
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 是彼此最信任的挚友（best friend）；Felix 是 Inara 在 Shielder Trials 中的 Charge，已知她是 Syphon 并守密两年",
+    "Inara 的母亲是除 Inara 自己外最早知道其 Syphon 身份的人，且从小严禁她告诉任何人；临行前改变主意托付 Felix 照看她",
+    "Neron 是王宫中的治疗师（Healer in the palace），赛后进屋探视参赛者",
+    "Princess Phaedra 是皇室公主，赛后前来道贺并解答流程；Kronan 是她的常随护卫（constant shadow）兼永久 Shielder，无需参赛",
+    "Nolan 是宫中传令人员，通报 High Council 评判结果已回",
+    "Larissa 是另一名 Shielder 参赛者，本章末被 Inara 想起（担心对方分数更高）",
+    "Inara 是 Syphon，可从他人身上汲取力量；通常被汲取者会变得苍白无力，而 Felix 却毫发无损，令她不解"
+  ],
+  "numbers": [
+    "c254",
+    "CHAPTER THIRTEEN",
+    "six seats",
+    "two years",
+    "the first year went by",
+    "a couple more times",
+    "between one and seven",
+    "one by one"
+  ]
+}

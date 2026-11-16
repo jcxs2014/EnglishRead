@@ -1,0 +1,89 @@
+{
+ "chapter": "ch38",
+ "facts": [
+  {
+   "who": "Felix",
+   "action": "被抓后交代偷书经过：书在桌上、是外语、带翻译笔记",
+   "span_anchor": null,
+   "verbatim": "It was written in another language.”",
+   "span": [
+    4864,
+    4900
+   ]
+  },
+  {
+   "who": "Felix",
+   "action": "转述关键情报：被给予的力量远强于被夺取的力量",
+   "verbatim": "“Well, it turns out, when power is offered, it is far more powerful than when it is taken.”",
+   "who2": 1,
+   "span": [
+    5685,
+    5776
+   ]
+  },
+  {
+   "who": "Felix",
+   "action": "抱怨 Larissa 对他的话术免疫（第一次失手）",
+   "verbatim": "she was immune to my charms. Which is fucking insane",
+   "span": [
+    6777,
+    6829
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "承受双重剥夺：cuffs 切断魔法+链结（nothing）",
+   "verbatim": "And now, there was nothing.",
+   "span": [
+    3806,
+    3833
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "忧心 Fraener 被困迷你形态的处境",
+   "verbatim": "Is Fraener okay? Where is he?",
+   "span": [
+    3836,
+    3865
+   ]
+  },
+  {
+   "who": "Prince Walder",
+   "action": "用法律给她合法缓刑（rule enthusiast 的绕路）",
+   "verbatim": "use the law to momentarily prolong her death.",
+   "span": [
+    2576,
+    2621
+   ]
+  },
+  {
+   "who": "Inara",
+   "action": "发多重情景焦虑（每个可能后果都在脑中放大）",
+   "verbatim": "magnifying her anxiety tenfold",
+   "span": [
+    914,
+    944
+   ]
+  },
+  {
+   "who": "Prince Walder",
+   "action": "突然到访后一言不发转身离开（她手抖）",
+   "verbatim": "Prince Walder spun on the balls of his feet and marched out",
+   "span": [
+    17055,
+    17114
+   ]
+  }
+ ],
+ "relations": [
+  "Felix 与 Inara 同囚相邻两牢",
+  "Prince Walder 用法条延死期（保她）",
+  "Larissa 对 Felix 话术免疫"
+ ],
+ "numbers": [
+  "the dozenth",
+  "tenfold",
+  "half a dozen times"
+ ]
+}

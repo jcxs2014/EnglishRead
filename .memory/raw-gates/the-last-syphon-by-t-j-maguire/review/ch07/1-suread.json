@@ -1,0 +1,106 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "who": "Crowned Prince（Prince Walder）",
+      "action": "下令 Inara 指挥她的 Guardian 变形，以便进宫与 High Council 敲定安排，并点明她无权选择",
+      "span": [
+        36,
+        97
+      ],
+      "verbatim": "Command your Guardian to change form, and we will go"
+    },
+    {
+      "who": "Tydus（王储的 Guardian 龙）",
+      "action": "当众从宫殿大小缩到鸟一样小、落到王储肩上；Inara 伸手想摸时被他喷出的迷你冰刃划破手指",
+      "span": [
+        764,
+        2785
+      ],
+      "verbatim": "Tydus shrank. He fucking shrank. The giant dragon"
+    },
+    {
+      "who": "Inara 与 Fraener",
+      "action": "Inara 连喊三次 “Change form”，Fraener 故意磨蹭装傻；王储嘲讽 soul-link 或是假货后，Fraener 怒视着他缩成小乌鸦大小",
+      "span": [
+        3673,
+        5182
+      ],
+      "verbatim": "Inara faced Fraener. “Change form.”"
+    },
+    {
+      "who": "Fraener",
+      "action": "朝王储脸上喷出一道火焰，与 Tydus 在空中爪击缠斗一场，随后飞回 Inara 肩头、用头蹭她的脸颊",
+      "span": [
+        5539,
+        6463
+      ],
+      "verbatim": "unleashed a torrent of fire right at his face"
+    },
+    {
+      "who": "Larissa（王储的 Shielder）",
+      "action": "站到 Inara 面前警告她别想抢自己的位置，称 Border Rat 没资格待在 Arelia 王宫，自称已连续七年稳居 Shielder Trials 最高名次",
+      "span": [
+        7444,
+        8516
+      ],
+      "verbatim": "retained the highest position at the Shielder Trials"
+    },
+    {
+      "who": "Lady Niya（High Council）",
+      "action": "在议事厅欢迎 Prince Walder 回家，并逐一介绍 Arelia 七大王室 Line 组成的 High Council 成员",
+      "span": [
+        13142,
+        16354
+      ],
+      "verbatim": "The High Council of Arelia welcomes you home"
+    },
+    {
+      "who": "Lord Villani / Fraener / Prince Walder",
+      "action": "Villani 喝令卫兵带走 Inara 并把 Guardian 送回巢穴；Fraener 瞬间变回牛一般大、咆哮震退卫兵；Walder 裁定 soul-link 已成形且无法拆散，否则两方俱亡",
+      "span": [
+        16564,
+        19411
+      ],
+      "verbatim": "Guard! Remove her and return the Guardian to its den"
+    },
+    {
+      "who": "Lady Niya / Prince Walder / Inara",
+      "action": "Niya 宣布把 Inara 收入自己的 Line，Walder 命卫兵去召他妹妹；被问及能力时，Inara 凭一念变出金色圆盾罩住 Fraener、Felix 与自己",
+      "span": [
+        21171,
+        22339
+      ],
+      "verbatim": "created a bright, golden shield with nothing but a thought"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：来自 Borderlands 的挚友（best friend），曾一起闯神庙偷 artefacts 卖给商人",
+    "Inara 与 Fraener：Chosen 与 Guardian，soul-link 刚成形，Fraener 可在巨型龙与迷你形态间切换",
+    "Tydus 是 Crowned Prince Walder 的 Guardian（会变形的龙）",
+    "Prince Walder：Arelia 王储兼 Arelian Army 的 Commander，以“剥了 Felix”相胁逼 Inara 服从",
+    "Larissa：Prince Walder 的 Shielder，把 Inara 视为抢其地位的威胁，公开敌视",
+    "Magdala：王储阵营的年长女性（文中称 the old woman），可与王储私下交谈；王储曾引她的话质疑 Inara 的 soul-link 是假（“Perhaps Magdala was wrong”）",
+    "High Council＝Arelia 七大王室 Line 的七名成员：Lady Niya (Line Draven)、Lord Tevi (Line Morin)、Lord Julius (Line Genry)、Crowned Prince Walder、Lady Ophera (Line Inx)、Lord Villani (Line Enko)、Lord Odami (Line Yorksen)",
+    "Lord Villani 之子原被安排在 Fraener 出眠后尝试 soul-link，被 Inara 抢先（Venerable Cias 曾向 Inara 提过此事）",
+    "Lady Niya 对 Inara 最友善，最后宣布把 Inara 归入自己的 Line Draven"
+  ],
+  "numbers": [
+    "c196",
+    "CHAPTER SEVEN",
+    "a thousand times smaller",
+    "for the last seven years",
+    "two guards stood in full armour",
+    "Two guards were posted outside",
+    "Their party of six",
+    "the two accompanying guards",
+    "Six figures sat on the dais",
+    "Three on one side, three on the other",
+    "one pull of a scroll",
+    "one of the seven royal families of Arelia",
+    "the seven of them",
+    "one of the oldest Guardians of Arelia",
+    "the first non-royal to soul-link with a Guardian",
+    "put two and two together"
+  ]
+}

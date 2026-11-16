@@ -1,0 +1,105 @@
+{
+  "chapter": "ch24",
+  "facts": [
+    {
+      "who": "Inara、Prince Walder",
+      "action": "Grand Ball 开场：Grand Hall 奢靡明亮、乐师奏乐，Inara 随 Walder 穿行宾客之间——她本该兴奋，却因发现他借走《Syphon Source》而心神不宁，脑中轮播被 Elite Guard 拖进地牢处决之类的可怕设想，连 Fraener 的存在也安抚不了她；她怕秘密败露会连累 Felix、Na-Ri 等所有朋友，一度动了连夜消失的念头（脑中有个声音说可以南逃 Dead Kingdom），最终强压杂念决定装作无事。",
+      "span": [
+        1149,
+        1203
+      ],
+      "verbatim": "What is Prince Walder doing with a book about Syphons?"
+    },
+    {
+      "who": "Prince Walder、Inara",
+      "action": "Walder 每走几步就被致贺的宾客拦下，他娴熟地只答想答的问题；Inara 察觉每逢有人问起他的父王（国王）他就肩头一紧，却又能轻巧带过——她来 Arelia 至今没见过国王，也几乎无人谈起他，暗自称奇。",
+      "span": [
+        3237,
+        3283
+      ],
+      "verbatim": "Prince Walder was stopped every few feet or so"
+    },
+    {
+      "who": "Inara",
+      "action": "Inara 一边听一边把各国要人记进心里：Pregon 的 Lord Howling 穿水波般流动的长袍、带 2 名 Vassal 与 2 名贴身护卫（其一和她一样是 Shielder、另一名凭 syphon sight 看得出很强），臂上从腕到肘缠着一条粗壮的鲜灰鳞蛇形 Guardian——她庆幸看不见它的头，深知万一撞上它的目光后果不堪设想；Roylan 的 Lady Armanie 健壮强硬、佩钻石项链耳环，只带一名缄默壮硕的秃头 Vassal（额缠丝带）；更多人物她统统归档进记忆。",
+      "span": [
+        4324,
+        4357
+      ],
+      "verbatim": "There was Lord Howling of Pregon."
+    },
+    {
+      "who": "Felix、Inara、Balthus、Na-Ri",
+      "action": "Felix 在人群中如鱼得水地顺手牵羊——握手时掠走腕上指上的珠宝、撩发耳语间收走耳环，Inara 知道他只在有十足把握能脱身时才出手；她还认出 High Council 成员 Lady Niya、Lord Odami、Lord Julius，看见 Lord Villani 与 Lady Ophera 独坐王座、身后各立 Shielder（Ophera 身后是无名男子、Villani 身后是 Larissa），又朝随侍 Charge 而来、一脸不情愿的 Na-Ri 挥手；远处的 Balthus 举杯向她致意。",
+      "span": [
+        6237,
+        6279
+      ],
+      "verbatim": "Felix floated in and out amongst the crowd"
+    },
+    {
+      "who": "Fraener、Inara、Larissa",
+      "action": "Fraener 贴着她蹭了蹭，经 soul-link 传来『被围困、拥挤』的不适，Inara 摸着他的鳞片安慰『很快就能离开人群』；随后她登上高台，学其他 Shielder 在王座后站位，Larissa 对她冷笑，她故意扬声说『当你的 Shielder 真是太有趣了』，气得对方咆哮、眼神狠毒。",
+      "span": [
+        7489,
+        7528
+      ],
+      "verbatim": "Discontent rolled through the soul-link"
+    },
+    {
+      "who": "Inara",
+      "action": "Inara 首次看到 Lady Ophera 与 Lord Villani 的迷你形态 Guardian：Villani 脚边伏着一条趴卧闭目的青色龙，Ophera 肩头的小兽扑翅喧叫、逗得老妇人发笑；舞池里她一眼认出高挑优雅的 Princess Phaedra（白色长袖曳地长裙、钻石头冠）正与 Kronan 回旋共舞，满场舞伴无一人能与之相比。",
+      "span": [
+        9475,
+        9528
+      ],
+      "verbatim": "A teal-coloured dragon rested at Lord Villani’s feet."
+    },
+    {
+      "who": "Prince Walder、Inara",
+      "action": "Walder 召她上前，问她对即将密会的两国代表 Howling 与 Armanie 的观感；她评 Howling 是『披着羊皮的蛇』——用漂亮话 disarm 别人、伪装亲和，Armanie 则表里如一、直率可敬；Walder 承认她判断精准，惊讶她能看穿 Howling 的魅力攻势；闲谈间他皱眉越来越频繁，被追问时只丢下一句『你的存在让我烦躁』。",
+      "span": [
+        12386,
+        12420
+      ],
+      "verbatim": "What are your impressions of them?"
+    },
+    {
+      "who": "Inara、Balthus、Sentinel Orion、Prince Walder、Lord Villani、Lady Ophera",
+      "action": "Inara 去侍酒桌取饮料，与 Balthus 攀谈：他点破她先前没提过自己是王储贴身 Shielder，她则说漏自己其实来自 Borderlands（她早被告知对外要自称 Lady Niya 的远亲），忙请他保密，他笑着应承；随后 Sentinel Orion 通报 Howling 与 Armanie 要求趁夜色未深提前开会，Walder 咒骂一声命『带他们到我办公室』；Lord Villani 冷言断定他们不会提供 aid、Lady Ophera 附议并称失踪的斥候多半是被『野蛮卑劣』的 Borderlanders 杀了，Inara 心惊追问斥候被派往何处却无人答她；Walder 不顾礼节起身、Tydus 紧随赶往办公室，途中命她会上保持警觉、所闻一字不得外传——包括对她的『朋友』；她背后交叉手指起誓，随后加快脚步跟上——全章至此结束。",
+      "span": [
+        17594,
+        17647
+      ],
+      "verbatim": "no one actually knows I’m really from the Borderlands"
+    }
+  ],
+  "relations": [
+    "Inara 是 Crowned Prince Walder 的 personal Shielder（全场随侍、高台上立于其王座之后）；她同时是隐瞒身份的 Syphon，因发现 Walder 借走《Syphon Source》而惧怕秘密败露、连累朋友。",
+    "Prince Walder 是 Arelia 的 Crowned Prince（其父国王未出场，宾客问起即被他回避）；Tydus 是他的 Guardian，以巨形随行其侧。",
+    "Fraener 是 Inara 的 Guardian（soul-link，向她传递被围困的压抑感，人前同样以巨形护她身侧）；Felix 是她的 best friend，正趁舞会窃取宾客的珠宝耳饰。",
+    "Lord Howling（Pregon 代表）携 2 名 Vassal、2 名贴身护卫（其一为 Shielder、另一名被 Inara 看出很强）与缠臂的灰蛇 Guardian；Lady Armanie（Roylan 代表）仅携 1 名缄默壮硕 Vassal——两人即将与 Walder 密会。",
+    "Lord Villani、Lady Ophera、Lady Niya、Lord Odami、Lord Julius 为 High Council 成员；Villani 与 Ophera 坐于王座、身后各有 Shielder——Villani 身后是对 Inara 充满敌意的 Larissa。",
+    "Na-Ri 随其 Charge 出席，与 Inara 隔着人群互相挥手致意。",
+    "Balthus 是 Inara 在 librarium 一面之缘的蓝眼男子；舞会重逢举杯致意，随后答应保守她『来自 Borderlands』的秘密。",
+    "Princess Phaedra 与 Kronan 在舞池结伴共舞；Sentinel Orion 向 Walder 通传两国代表提前开会的要求。"
+  ],
+  "numbers": [
+    "CHAPTER TWENTY-FOUR",
+    "when she first arrived in Arelia",
+    "a dozen or so musicians",
+    "entered her mind more than once",
+    "every few feet or so",
+    "two Vassals with him",
+    "two personal guards",
+    "One was a Shielder",
+    "only one Vassal in her company",
+    "100 percent confident",
+    "For the first time",
+    "tapped his finger twice",
+    "A dozen or so people",
+    "the thirty-second conversation we had",
+    "after the first few",
+    "A couple"
+  ]
+}

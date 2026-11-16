@@ -1,0 +1,105 @@
+{
+  "chapter": "ch29",
+  "facts": [
+    {
+      "who": "Thaso；Inara；Prince Walder",
+      "action": "Thaso 在场地上讲解 Six Kings 规则：每队六人、把球带进对方底线得分；场上四根白杆划分区域，两端区禁用魔法、只有中段可用能力，且是允许推搡擒抱的全接触运动；Inara 劝 Walder 弃赛免得受伤，他以有 Healers 治疗回绝",
+      "span": [
+        411,
+        436
+      ],
+      "verbatim": "Each side has six players"
+    },
+    {
+      "who": "小女孩；Billie；Thaso",
+      "action": "Thaso 瞥见剑柄上的 Crowned Family 纹章脸色发白；一名五岁上下的小女孩先认出 Walder 是王储（说在宫里见过他坐大厅的椅子）；随后矮壮妇女 Billie 到场，抛一枚铜币赢走 Walder 到自己队；Thaso 恼怒点破没人敢伤王储、她稳操胜券，Inara 举手请缨由她来对付王储",
+      "span": [
+        4400,
+        4435
+      ],
+      "verbatim": "dug a bronze coin out of her pocket"
+    },
+    {
+      "who": "Feario 一家",
+      "action": "Inara 加入 Feario 家庭队：父 Feario、长子 Thaso、子 Ky、女 Pria、幼子 Eli（约十二岁）；她得知两家多年世仇——Billie 家被指推 Feario 妻子（家中头号球员）摔断腿，Ky 则被指往对方头号球员水桶里投 Evern Root；Eli 用掌心能量束展示魔法（Energy Manipulator）；Inara 提出一人盯一人策略，自己认领王储",
+      "span": [
+        6830,
+        6881
+      ],
+      "verbatim": "They took out our top player, my wife, their mother"
+    },
+    {
+      "who": "Inara；Prince Walder",
+      "action": "第一回合铃响，Inara 抢先冲入魔法区掷出护盾，把还在慢跑的 Walder 撞飞；她跳到魔法区末端、冲入端区捡球直奔底线得分，回头嘲讽 You look good on your back；Walder 瞬移到她面前贴身逼近，警告 You have no idea what you have just unleashed",
+      "span": [
+        12812,
+        12863
+      ],
+      "verbatim": "It slammed into him so hard that it sent him flying"
+    },
+    {
+      "who": "Prince Walder；Inara",
+      "action": "第二回合 Walder 全速冲刺抢先入魔法区，跳到 Inara 面前一掌击胸、空中再把她砸落，夺球得分，回敬一句 You look good on your back too；此后数回合两人互相死缠——他掷冰凌、她用震荡护盾把他掀翻，战成平手",
+      "span": [
+        17512,
+        17553
+      ],
+      "verbatim": "He plucked the ball from her grasp easily"
+    },
+    {
+      "who": "两队队员",
+      "action": "其余对位厮杀：Thaso–Billie、Ky–Avina、Pria–Rosemary、Feario–Cyrus，Eli 不得离开魔法区（自家五人合力补防对方最后一人 Ward）；Avina 用黑泥浆为 Billie 队得一分，Thaso 用念动力为自家队也拿下一分，比分追平",
+      "span": [
+        18864,
+        18921
+      ],
+      "verbatim": "Eventually, Avina managed to score a point for their team"
+    },
+    {
+      "who": "Inara；Eli；Prince Walder",
+      "action": "决胜回合 Inara 持球脱鞋起跑，两人连续跳跃互追、他始终紧咬；她脚下滑倒被 Walder 压住低吼 Caught you，随即用意念把球甩给 Eli 并结盾护住他；Avina 的泥浆泼在盾上无效，Ky 从背后锁住 Avina，Eli 直奔底线得分，全场尖叫——Inara 队获胜",
+      "span": [
+        22086,
+        22130
+      ],
+      "verbatim": "commanded her shield to wrap around the ball"
+    },
+    {
+      "who": "Inara；Prince Walder",
+      "action": "Walder 移开遮住她双眼的手，两人才惊觉脸贴脸近在咫尺；他惊叹问 How did you do that?，Inara 答 I told you I was the most powerful being in the realm，他凝视她回应 Yes. You are.",
+      "span": [
+        24364,
+        24418
+      ],
+      "verbatim": "I told you I was the most powerful being in the realm."
+    }
+  ],
+  "relations": [
+    "Feario 为父，与子女 Thaso（长子）、Ky、Pria、Eli（幼子，约十二岁、Energy Manipulator）组成家庭队参战",
+    "Feario 家与 Billie 家是多年世仇，每年打一场 Six Kings：Billie 家涉嫌弄断 Feario 妻子（家中头号球员）的腿，Ky 涉嫌往对方头号球员水桶投 Evern Root",
+    "Billie 队成员：Billie、Avina（黑泥浆）、Rosemary（超速）、Cyrus、Ward，外加抛铜币赢来的 Prince Walder",
+    "Inara 是 Prince Walder 的护卫（自称 My job is to keep you safe），赛场上则主动认领防他、想把他拉下神坛，仍称他 my Overlord",
+    "五岁上下的小女孩的父亲在王宫做事，她在宫里见过 Walder 坐大厅的椅子，因此认出王储",
+    "Thaso 与 Billie 私怨深重：Billie 讥称他 Thay-os、dimwit，翻币赢走王储后 Thaso 愤而踢草"
+  ],
+  "numbers": [
+    "TWENTY-NINE（章题 CHAPTER TWENTY-NINE）",
+    "six players（每队六人）",
+    "four white sticks（场地四根白杆）",
+    "roughly 100 feet apart（两端两杆间距）",
+    "roughly 200 feet（另两杆间距）",
+    "The goal is 100 feet in the end zone（底线在端区内 100 英尺）",
+    "no older than five（小女孩不超过五岁）",
+    "sixth player（第六名球员）",
+    "around twelve（Eli 约十二岁）",
+    "three more people（Feario 身后还有三人）",
+    "400 feet away（Inara 与 Walder 相距四百英尺）",
+    "the five of them（五人合力补防 Ward）",
+    "less than a second（Thaso 惊叹她瞬间穿越全场）",
+    "first to three（先得三分者胜）",
+    "almost double（围观人群近乎翻倍）",
+    "110 percent（最后一回合两人拿出百分之一百一十）",
+    "less than an inch behind her（Walder 始终距她不到一英寸）",
+    "fighting off two（Feario 以一敌二）"
+  ]
+}

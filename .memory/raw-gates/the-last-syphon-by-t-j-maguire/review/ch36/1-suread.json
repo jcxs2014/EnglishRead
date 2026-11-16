@@ -1,0 +1,88 @@
+{
+ "chapter": "ch36",
+ "facts": [
+  {
+   "who": "Inara",
+   "action": "腐地暴走追人（spreading. Fast. Almost as if chasing）中喊 STOP 返身救村",
+   "span": [
+    3603,
+    3608
+   ],
+   "verbatim": "STOP!"
+  },
+  {
+   "who": "Inara",
+   "action": "只能选一个村救（Guilt），罩 Ravagen dome",
+   "span": [
+    4773,
+    4837
+   ],
+   "verbatim": "Guilt hit her hard at the decision, but she had no other option."
+  },
+  {
+   "who": "黑暗",
+   "action": "找不到入口还吸食盾之力（反向吸取她的魔法）",
+   "span": [
+    6025,
+    6084
+   ],
+   "verbatim": "it was also feeding off it. Taking its power. Draining her."
+  },
+  {
+   "who": "Grigoro",
+   "action": "Ravagen 村长喝令全村上龙、抛弃随身物",
+   "span": [
+    8957,
+    8985
+   ],
+   "verbatim": "“Get to the beast! Now! Go!”"
+  },
+  {
+   "who": "Fraener",
+   "action": "经 soul-link 供力续她之命（叮嘱别再给——还要运人）",
+   "span": [
+    9500,
+    9573
+   ],
+   "verbatim": "A strong rush of power flooded her system, the soul-link humming brightly"
+  },
+  {
+   "who": "Prince Walder",
+   "action": "返回战场，隔盾点头后入内、悬浮把村民搬上双龙",
+   "span": [
+    12109,
+    12174
+   ],
+   "verbatim": "Half a dozen people floated in the air with a frightened screech."
+  },
+  {
+   "who": "Inara",
+   "action": "喊 YOU. WILL. NOT. WIN! 后被 Fraener 爪接走，盾崩",
+   "span": [
+    13498,
+    13518
+   ],
+   "verbatim": "YOU. WILL. NOT. WIN!"
+  },
+  {
+   "who": "Prince Walder",
+   "action": "战后宣言：「We stop him by any means necessary」——Voice 冷笑收章",
+   "span": [
+    27832,
+    27869
+   ],
+   "verbatim": "“We stop him by any means necessary.”"
+  }
+ ],
+ "relations": [
+  "Inara 与 Fraener：供力续命的双向消耗",
+  "Prince Walder 返回战场（compromise 后的并肩）",
+  "Grigoro 是 Ravagen 村长（贸易季见过一两次）",
+  "Dark Voice 在结尾冷笑（chuckle）"
+ ],
+ "numbers": [
+  "fifty people or so（Ravagen 约五十人）",
+  "Half a dozen（一批六人）",
+  "tenth or eleventh（跳跃次数）"
+ ]
+}

@@ -1,0 +1,101 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "who": "Inara 与 Felix",
+      "action": "骑在巨龙背上冲上紫空兴奋欢呼；Felix 死死箍住她的腰，在她耳边尖叫喊放他下去",
+      "span": [
+        33,
+        1179
+      ],
+      "verbatim": "Felix screamed in Inara’s ear"
+    },
+    {
+      "who": "Inara",
+      "action": "从空中认出边境之地与自己的村庄 Deadhaven（残破屋舍围着魔法水溪）",
+      "span": [
+        1886,
+        2297
+      ],
+      "verbatim": "Inara spotted her village, Deadhaven"
+    },
+    {
+      "who": "Inara 与巨龙、村民",
+      "action": "龙收翼俯冲落地，村民尖叫逃散；龙张口欲喷火，Inara 大喊 No!——龙竟听懂并合上了嘴",
+      "span": [
+        4471,
+        7185
+      ],
+      "verbatim": "The dragon flapped its gargantuan wings once and then dived"
+    },
+    {
+      "who": "Inara 与 Ralf/Lina/Zave",
+      "action": "村里守卫三人组出手：Ralf 放出闪电砸在她的盾上化为乌有；村民认出唯有她会举盾，骚动才平息",
+      "span": [
+        7417,
+        8433
+      ],
+      "verbatim": "a bolt of lightning came hurtling towards them"
+    },
+    {
+      "who": "Inara 与巨龙、Felix",
+      "action": "龙屈膝伏地、展开一侧翅膀示意；她从灵魂里感到雄性气息与欢欣，确认龙是雄性且能互通情绪；Felix 爬下龙背亲吻大地",
+      "span": [
+        8842,
+        9939
+      ],
+      "verbatim": "lowering itself to rest on all four of its knees"
+    },
+    {
+      "who": "Inara 与 Venerable Cias",
+      "action": "Cias 质问“你干了什么”，警告 Crowned Family 一旦发现她拿了 Guardian 必来寻仇，命她放下盾去 librarium",
+      "span": [
+        11009,
+        15825
+      ],
+      "verbatim": "Drop the shield and come to the librarium."
+    },
+    {
+      "who": "Felix",
+      "action": "把掠来的金子送去 Boltix 熔铸，备好几天后 Gideon 来时的月付——不付他就不再给水渠注水，全村一周内完蛋",
+      "span": [
+        19913,
+        20830
+      ],
+      "verbatim": "go see Boltix and get this gold melted down"
+    },
+    {
+      "who": "Inara 与巨龙",
+      "action": "给龙试名 Harris 被喷烟摇头否掉；龙以心灵轻触她的大脑后腾空飞走；她随后动身前往 librarium",
+      "span": [
+        22216,
+        24285
+      ],
+      "verbatim": "I’ll see you soon, Harris. Do you like that name? Harris?"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 自幼为挚友兼盗贼搭档，合住村边小屋；Felix 的父亲 Neil 也同住（常醉倒在酒馆地板）",
+    "Inara 的母亲 Claire 数年前出门冒险去了，总会回来；Inara 从不担心她",
+    "Ralf、Lina、Zave 是 Deadhaven 的 designated defenders（兼酒鬼三人组 The Drunken Trio）：Ralf 放闪电、Lina 念力、Zave 异常强壮",
+    "Venerable Cias 是 Arelia 王宫来的 archivist，约 30 年前来 Deadhaven，librarium 既是他家也是授课处，是全村最聪明的人",
+    "巨龙是雄性 Guardian，与 Inara 建立了心灵连接：她能感到他的情绪（威胁感、欢欣、幽默），他也听懂她的恳求",
+    "Gideon 是来自 Pregon 的供水者：Inara 每月付钱请他给村里水渠注水，不付则全村一周内完蛋",
+    "Inara 是 Deadhaven 自能力觉醒以来的守护者（protector），也是村里唯一会举盾的人",
+    "Boltix 是替 Felix 熔铸金子的人；Tako 是躲在妻子身后的村民"
+  ],
+  "numbers": [
+    "27 岁（twenty-seven years，Inara 的年龄）",
+    "独眼（one eye instead of two，Roylan 的 Guardian 独眼巨人 Cyclops）",
+    "三个王国（the remaining three kingdoms，各有一只 Guardian）",
+    "年逾七十（Well into his seventies，Venerable Cias）",
+    "约三十年前（around thirty years ago，Cias 来到 Deadhaven）",
+    "四膝（all four of its knees，龙伏地让 Inara 下地）",
+    "两只小角（the two small horns in her grasp，俯冲时 Inara 紧抓不放）",
+    "几天后（a few short days，Gideon 抵达）",
+    "一周内（within the week，没水全村将覆灭）",
+    "每月一次（once a month，付 Gideon 的供水费）",
+    "几年前（a few years ago，母亲 Claire 离家冒险）",
+    "今晨（This morn，今早试图偷老 Wickham 的附魔手杖）"
+  ]
+}

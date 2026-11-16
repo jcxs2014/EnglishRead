@@ -1,0 +1,102 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "who": "Inara／Felix",
+      "action": "Inara 护送 Walder 回寝宫后由原卫兵送回自己房间；Felix 早已焦躁地等她，头发凌乱、动作急促。",
+      "span": [
+        882,
+        908
+      ],
+      "verbatim": "Felix was waiting for her."
+    },
+    {
+      "who": "Fraener",
+      "action": "飞上天花板横梁回到织物筑的「窝」，吐出白天掠来的闪光宝物、用鼻推到窝中央，转三圈后趴下入睡。",
+      "span": [
+        1353,
+        1404
+      ],
+      "verbatim": "a nest of some kind, but it was made out of fabrics"
+    },
+    {
+      "who": "Felix",
+      "action": "掀开地毯，展示他花一整天画的粉笔布局图——潜入 librarium 的计划。",
+      "span": [
+        2959,
+        3003
+      ],
+      "verbatim": "This is the plan to break into the librarium"
+    },
+    {
+      "who": "Felix",
+      "action": "讲解计划：librarium 对公众开放（dawn 到 dusk），主宫到 librarium 沿途约每二十英尺一岗守卫；目标是顶层不对外开放的 Head Venerable chambers。",
+      "span": [
+        4512,
+        4559
+      ],
+      "verbatim": "stationed every twenty feet or so from the main"
+    },
+    {
+      "who": "Felix／Inara",
+      "action": "两人定下两步方案：先以事由求见 Head Venerable，由 Felix 歌声催眠（约三十秒生效、须持续唱、最长三分钟）摸清 vault 位置；几天后再来偷书。",
+      "span": [
+        6576,
+        6633
+      ],
+      "verbatim": "the longest he’d been able to do it for was three minutes"
+    },
+    {
+      "who": "Inara／Felix",
+      "action": "Inara 讲述白天经历与偷听到的对话；Felix 用恶毒言语骂 Larissa，但眼中难掩担忧——怕她查出 Inara 的秘密。",
+      "span": [
+        8547,
+        8600
+      ],
+      "verbatim": "he was worried about the woman finding out her secret"
+    },
+    {
+      "who": "Felix／Larissa／Lord Villani",
+      "action": "Felix 透露白天「侦查」时看见 Larissa 尾随 High Council 的 Lord Villani；Larissa 落败降级后新 Charge 即 Villani；两人皆欲害 Inara，Felix 担心他们联手。",
+      "span": [
+        9681,
+        9736
+      ],
+      "verbatim": "She was following around one of those High Council guys"
+    },
+    {
+      "who": "Inara／Felix",
+      "action": "两人像在 Deadhaven 时那样闲聊打趣到 early morn；Inara 珍视这份未变的友谊。",
+      "span": [
+        11518,
+        11570
+      ],
+      "verbatim": "They stayed up well into the early morn talking shit"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：挚友兼贼伙搭档；本章共同策划潜入 librarium、偷 Head Venerable 一本关于 Syphons 的书。",
+    "Fraener 与 Inara：她的龙，经 soul-link 与她相连；Fraener 在房梁筑织物窝、收藏白天掠来的宝物。",
+    "Inara 与 Prince Walder：他是她的 Charge（personal Shielder 职责）；本章她按规矩护送他回寝宫。",
+    "Larissa 与 Lord Villani：Larissa 落败降级后，新指派的 Charge 就是 High Council 的 Villani；Felix 目睹她尾随 Villani。",
+    "Inara 与 Larissa：Larissa 仍在暗中追查 Inara 隐藏的秘密，二人互为敌手。",
+    "Inara 与 Lord Villani：Villani 想夺她的头衔、对她怀恨；Felix 担心他与 Larissa 联手害她。",
+    "Inara 与 Felix 均出身 Deadhaven；今夜像从前那样彻夜闲谈，友谊未变。"
+  ],
+  "numbers": [
+    "EIGHTEEN（章题 CHAPTER EIGHTEEN 中的英文数字词）",
+    "c2WU（文件首行代码，内含数字 2）",
+    "three times（circled three times, and sat upon it）",
+    "Two（Two items sat on the floor at his feet）",
+    "twenty feet（stationed every twenty feet or so）",
+    "two options（We have two options）",
+    "two／one／two（two lines for legs, one line for a body, two lines for arms）",
+    "One（One, it took about thirty seconds…）",
+    "thirty seconds（about thirty seconds for the magic in the notes to take hold）",
+    "two（And two, he had to continue singing）",
+    "three minutes（the longest he’d been able to do it for was three minutes）",
+    "three minutes（Is three minutes enough time?）",
+    "a few days（we come back in a few days）",
+    "one thing（there was one thing that hadn’t changed）"
+  ]
+}

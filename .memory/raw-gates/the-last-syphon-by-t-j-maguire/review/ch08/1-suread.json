@@ -1,0 +1,99 @@
+{
+  "chapter": "ch08",
+  "facts": [
+    {
+      "who": "Kronan（Phaedra 的 Shielder）",
+      "action": "Felix 上前想行吻手礼时，瞬间在两人之间架起金色光盾，宣告 “No one touches the princess”",
+      "span": [
+        719,
+        2193
+      ],
+      "verbatim": "A big man strode behind her. Deadly. Powerful."
+    },
+    {
+      "who": "Prince Walder / Princess Phaedra",
+      "action": "Walder 命 Phaedra 把新客人护送到 Chosen 翼安顿；Phaedra 领路出殿、过桥进入第二座宫殿，Kronan 随行",
+      "span": [
+        3315,
+        3576
+      ],
+      "verbatim": "Please escort our new…guests to the Chosen’s wing"
+    },
+    {
+      "who": "宫人（窃语，Inara 听到）",
+      "action": "认出 Fraener 已出眠，议论本该轮到 Line Enko 的 Lord Villani 之子 Lord Soren 与他 soul-link",
+      "span": [
+        5301,
+        5675
+      ],
+      "verbatim": "“The Guardian Fraener has emerged from hibernation!”"
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "讲解 Chosen 翼的天花板是幻术；一条黄龙当众穿顶而入，半空缩小落到其主肩头",
+      "span": [
+        6001,
+        7057
+      ],
+      "verbatim": "The ceiling suddenly shimmered, and a yellow dragon entered"
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "说明 Chosen 的义务与报酬：每周初向 High Council 报到领任务，每月初领取上月的酬金；Inara 追问何时发钱、有无休息日",
+      "span": [
+        7061,
+        12664
+      ],
+      "verbatim": "At the beginning of every month, you will receive"
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "透露 Venerable Cias 曾给她那辈人上 Guardian 课，后因对 soul-link 展开未经批准的调查而被 High Council 放逐",
+      "span": [
+        10921,
+        11698
+      ],
+      "verbatim": "so they banished him before he could"
+    },
+    {
+      "who": "Felix 与 Inara",
+      "action": "Felix 趁 Phaedra 与 Kronan 背身把房间里值钱的小物件塞进口袋；两人随后发现衣帽间挂满会自动合身的法术衣物（Enchanter 缝制）",
+      "span": [
+        11949,
+        15143
+      ],
+      "verbatim": "What he deemed worthy, he snuck into his pockets"
+    },
+    {
+      "who": "Princess Phaedra",
+      "action": "带两人俯看为明日 Shielder Trials 备战的训练，说明这是一年一度的赛事、参赛者要保护 Charge，而 Chosen 因性命与 Guardian 相绑不得参赛",
+      "span": [
+        18623,
+        21859
+      ],
+      "verbatim": "training session in preparation for the Shielder Trials"
+    }
+  ],
+  "relations": [
+    "Princess Phaedra 是 Crowned Prince Walder 的妹妹（眼睛同为他那款紫罗兰色）",
+    "Kronan 是 Phaedra 的 Shielder（贴身护卫），禁止任何人触碰公主",
+    "Larissa 是 Prince Walder 的 Shielder；Phaedra 当面称她 “that bitch Larissa”，两人不和",
+    "Inara 与 Felix：挚友搭档；Felix 有顺手偷窃的习惯，专挑有价值的物件下手",
+    "Inara 与 Fraener：Chosen 与 Guardian",
+    "Lord Soren 是 Line Enko 的 Lord Villani 之子，原定下一个尝试与 Fraener soul-link 的人选",
+    "Venerable Cias 曾在 Arelia 教授 Guardian 课程（Phaedra 幼年上过他的课），后因对 soul-link 作未经批准的调查而被 High Council 放逐，现居 Borderlands 的 librarium"
+  ],
+  "numbers": [
+    "c1F2",
+    "CHAPTER EIGHT",
+    "Less than a second response time",
+    "about thirty years ago",
+    "Nine nos, Inara?",
+    "Shielder Trials on the morrow",
+    "Once a year",
+    "once a season",
+    "half a dozen or so",
+    "my first time giving it to a Chosen",
+    "the first few days"
+  ]
+}

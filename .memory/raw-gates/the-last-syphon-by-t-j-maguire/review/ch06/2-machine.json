@@ -1,0 +1,489 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/ch06 bond check and the deal.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch06_chapter_6.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I think we both know that would be pointless.” His words gave her pause. “What kind of history do you guys have? You ne",
+          "ok": true,
+          "pos": 398
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“And I never shall. Who I was before does not matter. That man is more dangerous than you know.”",
+          "ok": true,
+          "pos": 571
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You have to stay here. With Felix and me gone, it will be up to you to keep Deadhaven going.”",
+          "ok": true,
+          "pos": 2138
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Watch yourself, girl. The palace is one of the most dangerous places in all the realm. Do not trust anyone.” His gaze s",
+          "ok": true,
+          "pos": 4114
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Yes. All the ones currently registered and documented with the High Council, that is.” He sounded almost hesitant in hi",
+          "ok": true,
+          "pos": 5153
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Lush, vibrant greenery, abundant with plant life. Rolling hills and overflowing water streams that Inara knew for a fact",
+          "ok": true,
+          "pos": 5898
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He was a Medalist, capable of bending anything metal to his will. That begged the question, though. What the Fates was u",
+          "ok": true,
+          "pos": 8631
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Inara wondered if she pictured him setting the Crowned Prince on fire, if he would do it",
+          "ok": true,
+          "pos": 12239
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Holy Fates. A fucking Transporter",
+          "ok": true,
+          "pos": 14697
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I do not need to. Their souls are linked. I can see the cord as easily as I see you before me. There is no denying it. ",
+          "ok": true,
+          "pos": 16481
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Him",
+          "ok": true,
+          "pos": 1509
+        },
+        {
+          "text": "I can flay the skin off his bones with nothing but a thought.” As if to prove his point, the knife began to move, slowly",
+          "ok": true,
+          "pos": 18924
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“In return, you will be provided with all the food and clothing you require, granted a room in the palace, and paid a su",
+          "ok": true,
+          "pos": 20224
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I think it’s worth it. Think about it. No more scavenging. No more worrying about making payments to Gideon. No more fig",
+          "ok": true,
+          "pos": 21371
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“And I am not referring to the Guardian. Do not think I do not recognise you. Reports of someone matching your descripti",
+          "ok": true,
+          "pos": 22698
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "He punched her lightly on the shoulder. “If I don’t, you’ll probably get yourself killed.”",
+          "ok": true,
+          "pos": 24862
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 84
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.61
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 9.0,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4523,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": "块数 15 偏离本书常见区间 4–14（本书 39 章中位 9、最高 15（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

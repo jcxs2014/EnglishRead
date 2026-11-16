@@ -1,0 +1,101 @@
+{
+  "chapter": "ch33",
+  "facts": [
+    {
+      "who": "Inara / Fraener",
+      "action": "深夜溜出寝宫、贴墙潜行穿过主宫，在几英里外的空地与 Fraener 会合飞离 Arelia；巡守下城边缘的 Chosen 只目送她飞过，无人拦阻",
+      "span": [
+        417,
+        462
+      ],
+      "verbatim": "out of her bed, slunk through the main palace"
+    },
+    {
+      "who": "Inara / Fraener",
+      "action": "morn 时 Borderlands 沙漠线在望；她俯身收肘催 Fraener 加速，直奔近边境的 Deadhaven",
+      "span": [
+        2188,
+        2222
+      ],
+      "verbatim": "the desert line of the Borderlands"
+    },
+    {
+      "who": "Inara / Cezar / 村民",
+      "action": "接近时预警锣响（应是 Cezar 望见他们接近而报信），村民奔逃躲避；一道 lightning 袭来被她的金色 shield 挡下——村民认出是她，恐惧瞬间转为欢腾",
+      "span": [
+        3216,
+        3263
+      ],
+      "verbatim": "A stream of lightning came hurtling towards her"
+    },
+    {
+      "who": "Zave / Lina / Ralf / Inara",
+      "action": "Drunken Trio 挤过人群迎接：Zave 紧抱她、笑说他的东西不再丢；Inara 笑指那是 Felix 干的（他留在王国替她偷重要东西）；Ralf 憋出 'Glad you're not dead'",
+      "span": [
+        5061,
+        5117
+      ],
+      "verbatim": "Zave, Lina, and Ralf pushed through the throng of people"
+    },
+    {
+      "who": "Venerable Cias / Inara",
+      "action": "Cias 唤她全名，她拥抱这位长者（这次他回抱了、说 glad she is okay）；随后在火堆旁喝下他盛的 porridge，问水道余款——他说众人已凑齐；她想到此后有稳定进项，Gideon 的月付会轻松许多",
+      "span": [
+        8476,
+        8518
+      ],
+      "verbatim": "the porridge Venerable Cias had served her"
+    },
+    {
+      "who": "Inara / Venerable Cias",
+      "action": "她向 Cias 交底：cursed land 正在蔓延、已吞 Blackpeak/Holen/Prector，并复述进展报告、舞会事件、High Council 会议及与 Walder 的谈话（隐去 Bloodborne 与未遂刺杀）；Cias 听得像要昏过去",
+      "span": [
+        11189,
+        11239
+      ],
+      "verbatim": "has already consumed Blackpeak, Holen, and Prector"
+    },
+    {
+      "who": "Inara / Venerable Cias",
+      "action": "她提议全村准备撤离、必要时越境进入 Arelia；Cias 斥 'They would never allow that'；她自称 'personal Shielder to the Crowned Prince himself'、身份够高，Arelians 交给她摆平",
+      "span": [
+        12914,
+        12956
+      ],
+      "verbatim": "best to prepare the village for evacuation"
+    },
+    {
+      "who": "Inara",
+      "action": "话音未落警报锣大响，有人高喊 'Dragon! Run! Dragon!'；天际出现一个闪烁的黑点——她不必借 Fraener 之眼也认得：Crowned Prince 追来了（章末）",
+      "span": [
+        14736,
+        14772
+      ],
+      "verbatim": "The Crowned Prince had come for her."
+    }
+  ],
+  "relations": [
+    "Inara 与 Fraener：soul-link 相连——Fraener 驮她飞回家、凭记忆认路，在村里陪 youthens 玩闹",
+    "Inara 与 Deadhaven 村民：她在外为村子谋生（水道集资、Gideon 月付），村民热烈欢迎、感激她",
+    "Inara 与 Zave/Lina/Ralf（'Drunken Trio'）：村中损友——Zave 的东西曾被偷（她笑称是 Felix），Ralf 难得说了句 'Glad you're not dead'",
+    "Inara 与 Felix：best friend——他留在王国替她'偷非常重要的东西'",
+    "Inara 与 Venerable Cias：'You forget that I helped raise you, girl'——把她抚养长大的村中长者；她先瞒后坦白南方危机",
+    "Cezar 与村民：负责警戒——望见 Inara 飞近即鸣锣发预警",
+    "Inara 与 Gideon：月付债务关系（'monthly payments to Gideon'；未出场）",
+    "Inara 与 Prince Walder：她自称 'personal Shielder to the Crowned Prince himself'；章末他追到 Deadhaven",
+    "Gail 与 Venerable Cias：领粥的老妇与盛粥的长者（同村村民）"
+  ],
+  "numbers": [
+    "CHAPTER THIRTY-THREE",
+    "In the dead of night",
+    "an empty field a few miles away",
+    "a few weeks, at most",
+    "a few feet away",
+    "over fifty years",
+    "her half-eaten bowl",
+    "One thing she did not miss",
+    "monthly payments to Gideon",
+    "it was morn",
+    "feed for the morn"
+  ]
+}

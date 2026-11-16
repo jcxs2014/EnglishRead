@@ -1,0 +1,99 @@
+{
+  "chapter": "ch30",
+  "facts": [
+    {
+      "who": "Inara；Felix",
+      "action": "深夜 Inara 溜回寝室，Felix 开灯守候、质问她一夜去向；她洗澡换衣后与他在床上分食牛肉干长谈——讲了集市与球赛；Felix 因她没叫上自己去集市而略感失落（集市本是两人一辈子的共同爱好）",
+      "span": [
+        2013,
+        2047
+      ],
+      "verbatim": "And where have you been all night?"
+    },
+    {
+      "who": "Inara；Felix",
+      "action": "Felix 看穿她还有事隐瞒；Inara 要他郑重起誓后说出秘密：Tolanaa 的诅咒之地（黑腐）正逐年向 Borderlands 蔓延，离边境最近的 Blackpeak、Holen、Prector 三村已消失；Felix 激动跳起要示警世人，Inara 解释恐慌会先毁掉 realm",
+      "span": [
+        7652,
+        7681
+      ],
+      "verbatim": "The cursed land is spreading."
+    },
+    {
+      "who": "Inara；Felix",
+      "action": "她转述舞会夜会面结果：Roylan 的 Lady Armanie 愿把此事禀报她的国王，Pregon 的 Lord Howling 不信且像在掩饰恐惧；Felix 怒斥王室不管边民死活；Inara 说 Walder 已启动撤离程序、还要开 High Council 会议，若议而不决两人就亲自飞去 Borderlands",
+      "span": [
+        8944,
+        8988
+      ],
+      "verbatim": "Lady Armanie of Roylan seemed to believe him"
+    },
+    {
+      "who": "Inara；Felix；Prince Walder",
+      "action": "两人聊到日头初升才双双睡去；清晨敲门声把两人吵醒，Inara 拉开门——一身红鳞铠甲、佩满刀剑的 Walder 立在门口，只说一句 You didn't show up for duty（你没来值勤）",
+      "span": [
+        13054,
+        13091
+      ],
+      "verbatim": "dressed back in his red-scaled armour"
+    },
+    {
+      "who": "Felix；Prince Walder",
+      "action": "Felix 在床上吼要么回来睡觉要么关门，Walder 闻声僵住，冰霜瞬间爬满墙壁、天花板与整条走廊；他丢下 I seem to have interrupted you 与 Take the day, if you need it 便转身离去，Inara 喊住他",
+      "span": [
+        14963,
+        15000
+      ],
+      "verbatim": "Ice crawled over the walls behind him"
+    },
+    {
+      "who": "Inara；Prince Walder",
+      "action": "Inara 说要一起去南边议题的会、一分钟换装跟上；沉默同行途中 Walder 突然说 I did not realise you and your companion were intimate，Inara 澄清 Felix 只是如兄长般的挚友、因无处可睡才同床，他闻言略松",
+      "span": [
+        16643,
+        16698
+      ],
+      "verbatim": "I did not realise you and your companion were intimate."
+    },
+    {
+      "who": "High Council（Lord Villani）；Prince Walder；Inara",
+      "action": "议事厅里 Lord Villani 嘲讽王储迟到，又喝令 Tell your Shielder to only speak when spoken to；Walder 放出寒冰铺满地板与长桌、逼 Villani 向 Inara 道歉（She has a name），Villani 咬牙照办；Inara 暗想他何时变得如此护她",
+      "span": [
+        18384,
+        18431
+      ],
+      "verbatim": "Tell your Shielder to only speak when spoken to"
+    },
+    {
+      "who": "High Council；Prince Walder；Inara",
+      "action": "Walder 详述舞会夜会面，议会仍推诿：Odami 拒投资源、Niya 称黑腐尚需半世纪以上不必急、Ophera 坚持先查暗杀、Villani 对边民冷语 Who cares?；Inara 挺身断言边民不会信任外人撤离，Villani 答 Then they will die；Walder 请求亲自调查被逐一 No 否决（含首次开口的 Lord Tevi 与犹豫后道歉的 Lady Niya），他没有争辩，转身径直走出议事厅",
+      "span": [
+        24365,
+        24410
+      ],
+      "verbatim": "spun on the balls of his heels and walked out"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 是彼此最亲的挚友、情同兄妹（He's like a brother to me），无话不谈、同屋共床而眠；Felix 多年前就知道她是 Syphon 且从未说出去",
+    "Inara 是 Prince Walder 的护卫（缺席值勤被他上门追问）；Walder 误以为她与 Felix 同床即有亲密关系而妒怒（冰封走廊），Inara 澄清 Felix 如兄长",
+    "High Council 成员含 Lord Villani、Lord Julius、Lady Niya、Lord Odami、Lady Ophera、Lord Tevi 等，着礼服围弧形长桌议事，对王储请命有否决权；Villani 辱 Inara 为 your Shielder、被 Walder 逼向她道歉",
+    "Lady Armanie 是 Roylan 的代表，舞会夜允诺把黑腐之事禀报她的国王；Lord Howling 是 Pregon 代表，对黑腐不信、似在掩饰恐惧",
+    "Inara 出身 Borderlands（只敢代言 Deadhaven），称边境居民为 my people，断言他们不会信任外来王室撤离",
+    "Lady Niya 对 Inara 态度一贯温和（face was warm and kind, as it always was），但最终仍投下否决票"
+  ],
+  "numbers": [
+    "THIRTY（章题 CHAPTER THIRTY）",
+    "a few hours until morn（离清晨只剩几小时）",
+    "over 2,000 years（It's been over 2,000 years. Why now?）",
+    "the last few years（黑腐在最近几年蔓延）",
+    "since the Dark War（自 Dark War 起巡逻边界——时代名）",
+    "a few years ago（几年前发现显著变化）",
+    "for years（Felix 多年前已知她是 Syphon）",
+    "thousands of souls（Borderlands 有数千生灵）",
+    "over half a century（Niya：还要半世纪以上才成患）",
+    "A minute was exactly how long she took（换装恰用一分钟）",
+    "taking half the blanket with him（Felix 卷走半条毯子）",
+    "One by one, the High Council members echoed her words.（议会逐一否决）"
+  ]
+}

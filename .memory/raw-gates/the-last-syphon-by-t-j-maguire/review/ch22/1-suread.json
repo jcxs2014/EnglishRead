@@ -1,0 +1,100 @@
+{
+  "chapter": "ch22",
+  "facts": [
+    {
+      "who": "Inara、Prince Walder",
+      "action": "湖边开夜场：Inara 盘腿坐在湖畔草地上、背对水面，Prince Walder 正在发光的湖水里清洗沾上她呕吐物的身体（此前她吐了他一头、此刻反复道歉）；他的红鳞甲与随身武器搁在水线旁的砾石上，Fraener 与 Tydus 以真身在远处黑暗中休息。",
+      "span": [
+        142,
+        199
+      ],
+      "verbatim": "sat crossed-legged before the lake, her back to the water"
+    },
+    {
+      "who": "Inara、Prince Walder",
+      "action": "Inara 问起 Fraener 在空中『那个让她吐他一头的动作』是什么；Walder 解释那叫 jumping，是 Arelia 所有 Guardian 都具备的空中机动技能、只能移动几百英尺、不能像 Transporter 那样跨越远距；Inara 要求『教我』，他以『我不是 Instructor』推拒，说她与 Guardian 联结才一周多、还无法尝试，并惊讶她已多次『借用 Fraener 的眼睛』（eye thing）。",
+      "span": [
+        3358,
+        3395
+      ],
+      "verbatim": "skill all Guardians of Arelia possess"
+    },
+    {
+      "who": "Prince Walder、Inara",
+      "action": "Walder 进一步讲解：跳跃只能去看得见的地方、必须知道自己的极限，跳太远心脏可能因压力爆炸；Guardian 的力量本非为人类设计，soul-link 强化人体使其得以取用，但加诸人体的代价可能极重，务必先练习——Inara 却当场凭意志原地尝试，什么都没发生。",
+      "span": [
+        6869,
+        6904
+      ],
+      "verbatim": "You can only jump where you can see"
+    },
+    {
+      "who": "Inara、Prince Walder、Fraener",
+      "action": "Walder 点醒『jumping 就是要真的跳』；Inara 照字面原地蹦跳（更像小兔子的 hop）仍未成功，Walder 终于绷不住笑出声，Fraener 干脆把他看到的画面直接推进她脑里让她自鉴——她确实蠢得好笑，两人隔空在心里互相打趣。",
+      "span": [
+        9427,
+        9457
+      ],
+      "verbatim": "hopping like a bunny like that"
+    },
+    {
+      "who": "Prince Walder、Inara",
+      "action": "Walder 正式授课：凭意志取力是 passive access，须经 soul-link 直接取力的是 active access——他把手指向胸口『力量的嗡鸣』（她首次注意到他中指上镶红宝石的大银戒）；Inara 触到胸中嗡鸣、同时锁定联结与目标点，一跳即成，虽立刻眩晕却兴奋地绕湖连跳，直到第十或第十一次才停，恶心反扑又吐了一场；Walder 说这是身体的正常适应过程，时间加练习便会消失。",
+      "span": [
+        10481,
+        10509
+      ],
+      "verbatim": "We call this passive access."
+    },
+    {
+      "who": "Inara、Prince Walder",
+      "action": "Inara 仰望这片魔法般的星空时后背窜过寒意、『被窥视感』再度袭来；她环视四周，又怕说出口像疯子；Walder 察觉异样，瞬间由放松转入战斗状态、魔力升起；她岔开话题问他为何深夜独自骑龙外出（按理应有 personal Shielder 随行），他答『我骑行无需请示』；她聊起自己惯于夜行，并自述（曾）是 Deadhaven 的非官方村长——两人就『肩上压力』彼此共鸣。",
+      "span": [
+        14680,
+        14725
+      ],
+      "verbatim": "that eerie feeling of being watched returned."
+    },
+    {
+      "who": "Inara、Prince Walder",
+      "action": "话题转到来路选择：Inara 坦言若能重来会逃向相反方向、梦想游历 Shadowed Seas、攀 Roylanan Mountains、甚至想看被诅咒的 Tolanaa 废城，又搬出 Dead Kingdom 被 Cursed King 亡魂纠缠、旅人有去无回的传闻；Walder 听到『有去无回』突然抓住她的手臂追问她听过什么，回神后自觉松手退开一大步，只以『太阳快升起了、该回去了』带过——Inara 决定把这份反应记在心里备用。",
+      "span": [
+        19087,
+        19125
+      ],
+      "verbatim": "Prince Walder suddenly grasped her arm"
+    },
+    {
+      "who": "Inara、Prince Walder",
+      "action": "临别时 Inara 喊住他、再次追问深夜外出的缘由；Walder 停步回望，仰望星空后只答『我也喜欢夜晚』，眼中带着她从未见过的理解，随即转身离开——全章至此结束。",
+      "span": [
+        20583,
+        20604
+      ],
+      "verbatim": "I like the night too."
+    }
+  ],
+  "relations": [
+    "Inara 与 Crowned Prince Walder：本章深夜同行——她刚呕吐吐了他一头、反复道歉；他嘴上恼怒，仍为她讲解并教授跳跃。",
+    "Fraener 是 Inara 的 Guardian：soul-link 才一周多，她已多次借用 Fraener 的眼睛（还有夜视与听觉）；Fraener 能把记忆画面直接推进她脑中，两人会在心里互相打趣。",
+    "Tydus 是与 Fraener 并肩在黑暗中以真身休息的另一头巨龙（本章未写明它属于谁）；Walder 表明自己同样凭 soul-link 动用 Guardian 的力量，并称那力量本非为人类设计。",
+    "Walder 有一个妹妹——Inara 引述『你妹妹说过没人真正挑战你』。",
+    "Inara 自述（曾）是 Deadhaven 的非官方村长；她与身为王储的 Walder 就『身居其位、肩担他人』的压力相互共鸣。",
+    "Inara 问 Walder 为何深夜没有 personal Shielder 相伴骑龙外出；他答『我骑行无需请示』。"
+  ],
+  "numbers": [
+    "CHAPTER TWENTY-TWO",
+    "the dozenth time",
+    "a few paces away from the waterline",
+    "a few hundred feet or so",
+    "Quite a few times",
+    "just over a week",
+    "For the first time, she noticed a ring",
+    "two dragons resting on the riverbank",
+    "two points at the same time",
+    "one arm resting on the hilt of the sword",
+    "a few feet to reach the lake",
+    "a single thing in common",
+    "the tenth or eleventh jump"
+  ]
+}

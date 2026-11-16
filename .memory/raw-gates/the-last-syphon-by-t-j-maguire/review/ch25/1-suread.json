@@ -1,0 +1,112 @@
+{
+  "chapter": "ch25",
+  "facts": [
+    {
+      "who": "Prince Walder",
+      "action": "在王宫书房开启本轮接见，向 Pregon 与 Roylan 的代表（Lord Howling、Lady Armanie）宣告有 grave importance 的要事相商",
+      "span": [
+        70,
+        122
+      ],
+      "verbatim": "The Crown thanks you for your presence here this eve"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "点明急情所在：南境死者之国 Tolanaa 的受诅腐地正向外蔓延，黑朽之地不断扩入 Borderlands 且逐日增长",
+      "span": [
+        3128,
+        3157
+      ],
+      "verbatim": "The cursed land is spreading."
+    },
+    {
+      "who": "Prince Walder",
+      "action": "承认派往南境调查的斥候全部未归、下落不明；此前数月派出的多支搜索队也无一返回",
+      "span": [
+        5038,
+        5067
+      ],
+      "verbatim": "Our scouts have not returned."
+    },
+    {
+      "who": "Lord Howling",
+      "action": "拒信此事，指其为 Arelia 自 Dark War 前就开始、长达千年的诱兵之计；怒而起身欲拂袖而去，Inara 双斧出鞘与 Howling 两名护卫对峙；Howling 摔门而出，两名护卫紧随",
+      "span": [
+        7989,
+        8018
+      ],
+      "verbatim": "Arelian tactic to draw us out"
+    },
+    {
+      "who": "Lady Armanie",
+      "action": "全程冷静听完全场，临别表示将与自己的国王商谈，向 Walder 行礼并谢其款待后与护卫离去",
+      "span": [
+        10050,
+        10074
+      ],
+      "verbatim": "I will talk with my king"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "私下向 Inara 证实腐地蔓延已持续多年、两年前的最后一份报告显示腐地已推进 Borderlands；紧邻 Tolanaa 边境的三村（Blackpeak、Holen、Prector）已不复存在",
+      "span": [
+        11915,
+        11945
+      ],
+      "verbatim": "Blackpeak, Holen, and Prector."
+    },
+    {
+      "who": "Prince Walder / Inara",
+      "action": "Walder 出示用 Memory Caller 依斥候记忆绘成的边境报告：多年绘图腐地从未移动，最新报告却显示三村已被腐地彻底吞没、化为齑粉（三村原有逾百人）",
+      "span": [
+        15035,
+        15071
+      ],
+      "verbatim": "All that remained was dust and ruin."
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 欲冲回 Borderlands 撤走 Deadhaven 村民而被 Walder 拦下；Walder 摆出测算：腐地两年仅扩约 3.4 公里，Deadhaven 在 100 公里外、约五十八年后才会波及（下一村约三年半），撤离筹备已启动；Inara 决意不管花多大代价都要查清真相",
+      "span": [
+        16716,
+        16754
+      ],
+      "verbatim": "Expanded approximately 3.4 kilometres."
+    }
+  ],
+  "relations": [
+    "Prince Walder（Arelia 王储）以 Crown 名义接见两国代表：Lord Howling 代言 Pregon 及其女王，Lady Armanie 代言 Roylan 及其国王",
+    "Inara 随侍于 Prince Walder 身后（其贴身 Shielder；本章以护卫姿态拔斧护场，代表 Borderlanders 的立场）",
+    "Inara 与 Fraener 为 soul-link 相连的 Guardian 龙（Fraener 栖其肩，能沿联结传予安抚）",
+    "Prince Walder 的 Guardian 是 Tydus（龙；因 Walder 的怒气而低吼）",
+    "Lord Howling 的 Guardian 是一条 Basilisk（缠身游动、随其情绪而动，直视其眼危险）",
+    "Lord Howling 带两名护卫入内（其 Vassals 不得入内）；Lady Armanie 亦带一名高大护卫（近乎非人的静立）",
+    "Inara 出身 Borderlands，Deadhaven 是她照看的村庄；Venerable Cias、Sayduh、Drunken Trio 是她的朋友",
+    "The Dark Voice 与 Inara：在她脑中怂恿她夺取 Walder 之力的暗声"
+  ],
+  "numbers": [
+    "c3T6（文件首行代码）",
+    "CHAPTER TWENTY-FIVE（章题）",
+    "his two guards were（Howling 的两名护卫获准入内）",
+    "We sent several scouts to investigate（派出数名斥候）",
+    "the last date on these reports was several months ago（最后一份报告在数月前）",
+    "like they’ve been trying to do for 1,000 years（Howling 称 Arelia 一千年来的图谋）",
+    "Several search teams have been sent to the south over the last few months（数支搜索队、最近数月）",
+    "We send scouts to patrol the border of Tolanaa every few years to monitor the rot（每几年巡查边境）",
+    "The last report two years ago indicated a clear advancement（最后报告于两年前）",
+    "They were the three villages no one ever travelled to（三村：Blackpeak、Holen、Prector）",
+    "Those four words made Inara’s heart stop dead in her chest（“They are no more.” 四字）",
+    "Half the top page was taken up by a drawing（首页一半为绘图）",
+    "The date indicated the third day of the seventh month, four years ago.（日期：四年前的第七个月第三日）",
+    "The drawing on the next page was from two years before that（再早两年的绘图）",
+    "The ones from before showed a two-year gap between the reports. These ones showed only a month（旧报间隔两年；新报间隔仅一个月）",
+    "There were over a hundred people spread throughout those three villages.（三村共逾百人）",
+    "Years.（Walder 答腐地蔓延已持续多久）",
+    "Expanded approximately 3.4 kilometres.（最新报告注记）",
+    "It took two years for the rot to expand 3.4 kilometres.（两年扩 3.4 公里）",
+    "over 100 kilometres away（Deadhaven 距离 100 公里以上）",
+    "it would take roughly fifty-eight years for the rot to reach your village（约五十八年）",
+    "Fifty-eight years?（Inara 复述）",
+    "It will take roughly three and a half years for it to reach the next village.（到下一村约三年半）"
+  ]
+}

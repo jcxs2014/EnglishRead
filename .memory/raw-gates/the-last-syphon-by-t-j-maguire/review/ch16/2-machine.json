@@ -1,0 +1,268 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/ch16 the powerless princess.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch16_chapter_16.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A shield wall snapped into existence in the doorway, not allowing her to close it another inch. Inara glared at Kronan",
+          "ok": true,
+          "pos": 430
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“But you knew that the moment I signed that stupid Enrollment Scroll, I would be forced to take the position or risk spe",
+          "ok": true,
+          "pos": 998
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Strong. Dependable. Unyielding. You do not allow status or prestige to quiet your thoughts. You speak your mind, even if",
+          "ok": true,
+          "pos": 4739
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I’m a Powerless.”",
+          "ok": true,
+          "pos": 6703
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "If people were to find out there was a Powerless within the Crowned Family’s Line, they would be dethroned. Instantly",
+          "ok": true,
+          "pos": 8079
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“What you have learnt here today is never to be revealed. Ever. Vow it. Or die.”",
+          "ok": true,
+          "pos": 9413
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Fraener flew down to the ground and started eating the sweets that had spilled on the floor. Were sweets even good for d",
+          "ok": true,
+          "pos": 10311
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Sixteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 9.0,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2346,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

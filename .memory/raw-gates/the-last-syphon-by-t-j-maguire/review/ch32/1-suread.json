@@ -1,0 +1,107 @@
+{
+  "chapter": "ch32",
+  "facts": [
+    {
+      "who": "Inara / Felix",
+      "action": "当天稍晚两人在寝宫地板上争执：Felix 哀求跟去，Inara 要他留下；她已打包行装（备一周补给），计划半夜动身，另装一包可变卖的财物换 coin 买粮、付 Gideon 的下一笔款",
+      "span": [
+        1071,
+        1112
+      ],
+      "verbatim": "She planned to leave in the dead of night"
+    },
+    {
+      "who": "Inara / Felix",
+      "action": "Inara 交给 Felix 新任务：三天内溜进王子办公室偷那本 Syphon 书（多半是 Syphon Source）；她递上细备的资料，Felix 应下 'I'll do it'",
+      "span": [
+        2383,
+        2435
+      ],
+      "verbatim": "I need you to steal the Syphon book from his office."
+    },
+    {
+      "who": "Princess Phaedra / Kronan / Inara / Felix",
+      "action": "Phaedra 与 Kronan 到访；Inara 上前拥抱公主（公主僵硬、不知所措）；Kronan 拔剑威胁 Felix 'Touch her, and I will cut your body in two'",
+      "span": [
+        5969,
+        6011
+      ],
+      "verbatim": "Touch her, and I will cut your body in two"
+    },
+    {
+      "who": "Princess Phaedra / Felix",
+      "action": "Phaedra 奉兄长之命带 Felix 看对门的新 bedchamber（此翼本只住 Chosen，缘由要问王储）；Felix 进屋后惊叫 'Oh my Fates'，显然狂喜",
+      "span": [
+        7541,
+        7590
+      ],
+      "verbatim": "wished for me to show you to your new bedchamber."
+    },
+    {
+      "who": "Princess Phaedra / Inara",
+      "action": "屏退 Kronan 后，Phaedra 请 Inara 像守护她自己的秘密那样守住 Walder 失控（Bloodborne）的秘密；Inara 承诺绝不外泄；Phaedra 为兄长辩护（肩上压力大、vultures 环伺）",
+      "span": [
+        11047,
+        11097
+      ],
+      "verbatim": "guard this secret as well as you have guarded mine"
+    },
+    {
+      "who": "Inara / Princess Phaedra",
+      "action": "Inara 点破 Phaedra 与 Kronan 互相爱慕；Phaedra 长叹 'It can never be'——Kronan 认为她值得更好的人生、自己给不了",
+      "span": [
+        14298,
+        14348
+      ],
+      "verbatim": "“He believes I deserve better. That he cannot give"
+    },
+    {
+      "who": "Inara / Princess Phaedra / Kronan",
+      "action": "Inara 献策 'Show that idiot what he's missing'（挑逗他、让他失控动心）；Kronan 回房见公主情绪波动，关切质问 Inara 对她做了什么",
+      "span": [
+        15291,
+        15314
+      ],
+      "verbatim": "Show that idiot what he"
+    },
+    {
+      "who": "Inara / Princess Phaedra",
+      "action": "临别时 Inara 托 Phaedra 带话：让王储 'on the morrow' 另找人顶替——她'突然病了'要请假；二人走后她松了口气：等他们察觉不对，她早已远走",
+      "span": [
+        18278,
+        18321
+      ],
+      "verbatim": "something was amiss, she would be long gone"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：best friend 兼老搭档（同住一间 bedchamber；她了解他'职业行窃'时的做派）；她留他在宫里替她偷 Syphon 书",
+    "Inara 与 Prince Walder：与王储争执后冷战（'had not spoken since the meeting'）；她熟知他未来三天的日程，托人带'病假'口信瞒他出走；他给 Felix 安排了对门新寝宫",
+    "Princess Phaedra 与 Prince Walder：兄妹——Phaedra 奉兄长之命前来传话、带看新寝宫，并替他求 Inara 守密",
+    "Princess Phaedra 与 Kronan：公主与其 Shielder，互相爱慕；但 Kronan 认为她值得更好的生活、自己给不起，坚称 'It can never be'",
+    "Kronan 与 Felix：明显敌意——拔剑威胁 'Touch her, and I will cut your body in two'，还嫌 Felix 难伺候",
+    "Princess Phaedra 与 Inara：互守秘密之交（Phaedra 的秘密 Inara 一直在守；如今托她守 Walder 的 Bloodborne 秘密）；Inara 为她的感情出主意",
+    "Felix 与 His Eminence：Felix 担心对方想杀他、'感觉他不喜欢我'（His Eminence 未出场）",
+    "Inara 与 Gideon：按期付款的债务关系（'cover Gideon's next payment'；Gideon 未出场）"
+  ],
+  "numbers": [
+    "CHAPTER THIRTY-TWO",
+    "Later that day",
+    "the ball was only the day before",
+    "the dozenth time",
+    "leave in the dead of night",
+    "in a few hours",
+    "packed enough for a week",
+    "a few changes of clothes",
+    "his schedule for the next three days",
+    "kill two birds with one stone",
+    "This was one of those times",
+    "one of the cities",
+    "one of the empty chairs",
+    "I heard you two had a disagreement",
+    "cut your body in two",
+    "this same conversation a thousand times",
+    "It is quite late",
+    "find a replacement for on the morrow"
+  ]
+}

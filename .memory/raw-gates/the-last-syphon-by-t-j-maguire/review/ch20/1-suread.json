@@ -1,0 +1,115 @@
+{
+  "chapter": "ch20",
+  "facts": [
+    {
+      "who": "Inara／Na-Ri",
+      "action": "Inara 帮 Na-Ri 换座（背对 Larissa 一伙）、分她食物让她吃顿正经饭；两人聊出身：Na-Ri 来自 Borderlands 的 Blenton，Inara 来自 Deadhaven，同认「这里是家」",
+      "span": [
+        445,
+        1254
+      ],
+      "verbatim": "convinced the woman to switch seats"
+    },
+    {
+      "who": "Na-Ri／Inara",
+      "action": "Na-Ri 说父母每季来看她一次；Inara 说母亲常年旅行、几年未见，父亲是只陪母亲几夜的 trader、从此未归（母亲猜他死了）",
+      "span": [
+        1316,
+        2033
+      ],
+      "verbatim": "My parents come to visit once a season"
+    },
+    {
+      "who": "Na-Ri／Lord Rand／Prince Walder",
+      "action": "Na-Ri 解释她的 Charge Lord Rand 无需贴身护卫、只在其出宫时随行，还说 Rand 不友善；Inara 意识到身为王储的 Walder 必须全天候护卫，头一回后悔赢了比赛",
+      "span": [
+        2141,
+        2847
+      ],
+      "verbatim": "He does not require me today."
+    },
+    {
+      "who": "Inara／Prince Walder／Na-Ri",
+      "action": "Inara 向 Walder 问动物消失异象；Na-Ri 说父母上次来访也提过；Inara 替她承认 Borderlanders 每年被迫更深入 Arelia 狩猎；Walder 追问起因，Inara 答约两年前开始、如今须越过数个 Arelian 村庄才有猎物",
+      "span": [
+        3184,
+        5643
+      ],
+      "verbatim": "You have been entering Arelia to hunt?"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "Walder 说此事几周前已提交 High Council 但他们不以为意；他不同意——动物能感知人类察觉不到的东西，是「什么」把它们吓跑",
+      "span": [
+        5726,
+        6079
+      ],
+      "verbatim": "they remain unbothered"
+    },
+    {
+      "who": "Felix／Na-Ri／Princess Phaedra",
+      "action": "Felix 入座向 Na-Ri 献殷勤（吻手自介）；宣布三天后宫中将办 Grand Ball（消息来自 Princess Phaedra）；Inara 猜他想借舞会行窃",
+      "span": [
+        6307,
+        7869
+      ],
+      "verbatim": "a Grand Ball right here"
+    },
+    {
+      "who": "Na-Ri",
+      "action": "Na-Ri 讲舞会规矩：数千人参加、Shielder 须全程工作且随 Charge 共舞；她去年踩了 Lord Amaron 好几脚（对方不介意），今年须陪 Lord Rand 跳，指望 Phaedra 的课",
+      "span": [
+        8585,
+        9334
+      ],
+      "verbatim": "Lord Amaron was kind and"
+    },
+    {
+      "who": "Na-Ri／Prince Walder／Inara",
+      "action": "Na-Ri 提到某年一批刺客混入舞会图谋不轨；Walder 接话「行刺我父王」——国王因当时正与贴身 Shielder 共舞而免死；Inara 随即承认自己不会跳舞",
+      "span": [
+        9669,
+        10658
+      ],
+      "verbatim": "had he not been dancing with his personal Shielder"
+    }
+  ],
+  "relations": [
+    "Na-Ri 是 Shielder，其 Charge 是低位王室 Lord Rand：他无需贴身护卫，Na-Ri 只须在他出宫时随行；她说 Rand「not a very nice man」",
+    "Prince Walder 是 Heir to the Arelian Crown，须 constant guard（与 Na-Ri 这类低位护卫形成对照）；其父是国王，数年前舞会遇刺、因当时正与贴身 Shielder 共舞而免死",
+    "Felix 是 Inara 的 best friend，自认貌美的 rake（调情成性），又是 thief——Inara 猜他想借舞会「偷一大堆东西」",
+    "Princess Phaedra 是舞会消息来源：她告诉 Felix 三天后有 Grand Ball；Na-Ri 指望「Princess Phaedra’s lessons this year」学舞",
+    "Na-Ri 与 Lord Amaron：去年共舞被他善待（踩脚也不介意）；Na-Ri 与现任 Charge Lord Rand：今年按规矩被迫与他跳",
+    "Inara 与 Na-Ri：同桌款待、分食物、帮换座，主动示好想给她友谊",
+    "Larissa 与 twins 对 Na-Ri 依旧怒目而视（Inara 已让 Na-Ri 背对她们坐）",
+    "Inara 的家事：母亲常年旅行、几年未见；父亲是来村里过几夜的 trader、一去不返，母亲猜他死于 Borderlands",
+    "国族格局：Borderlanders 越界狩猎仅「frowned upon」、无明法禁止；Roylans 或 Pregonans 越界则「another matter entirely」"
+  ],
+  "numbers": [
+    "one thing the Arelians had right",
+    "stopped in once or twice before",
+    "A few years. My parents",
+    "come to visit once a season",
+    "seen my mother in a few years",
+    "spent a few nights with my mother",
+    "the one time in her life",
+    "put two and two together",
+    "The first. The second",
+    "hundreds of tiny villages",
+    "If one village suddenly wanted",
+    "pass several Arelian villages",
+    "about two years ago",
+    "Just a few extra metres",
+    "a few weeks ago",
+    "in three days’ time",
+    "get to wear one of my dresses",
+    "thousands of members in attendance",
+    "Last year, Lord Amaron was kind",
+    "stepped on his feet several times",
+    "this year, I",
+    "lessons this year will be more successful",
+    "There was one year when",
+    "on the king several years ago",
+    "just one small problem"
+  ]
+}

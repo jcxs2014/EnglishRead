@@ -1,0 +1,106 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "请求一分钟告别，Crowned Prince 沉思几秒后点头允许，她无视 Fraener 的不安爬下龙背回到地面",
+      "span": [
+        36,
+        268
+      ],
+      "verbatim": "need a minute to say goodbye."
+    },
+    {
+      "who": "Venerable Cias / Felix",
+      "action": "Venerable Cias 提出以旧关系谈判并要随行护送；Inara 劝他留下主持村务；Felix 以『她去哪我去哪』的罕见决绝口吻宣布同行",
+      "span": [
+        931,
+        1399
+      ],
+      "verbatim": "be alone.” Felix stepped forward. “I’ll go with her."
+    },
+    {
+      "who": "Inara",
+      "action": "向 Venerable Cias 交代村务：Gideon 三天后到期补水而款项不足需全村凑齐、不交就没水会死人；存粮可撑几周（省着可撑一个月），她会尽量赶在之前带金子回来",
+      "span": [
+        2573,
+        2976
+      ],
+      "verbatim": "Gideon is due in three days"
+    },
+    {
+      "who": "Venerable Cias",
+      "action": "与 Inara 拥抱道别，叮嘱她别信任何人、尤其远离 Crowned Prince；指点宫中 librarium 位于东翼、后方有 Shielder 藏书，而 Syphon 书全锁在 Head Venerable 的房间里",
+      "span": [
+        4720,
+        5539
+      ],
+      "verbatim": "Syphons. Those are all locked away in the Head Venerable"
+    },
+    {
+      "who": "Inara",
+      "action": "飞行途中把盾拉成长绳把自己与 Felix 绑在 Fraener 背上；飞抵 Arelia 王宫——黑色石墙堡垒，民众夹道挥舞欢呼",
+      "span": [
+        7387,
+        9957
+      ],
+      "verbatim": "shaped her shield into a long, thin rope"
+    },
+    {
+      "who": "Fraener / Crowned Prince",
+      "action": "Fraener 因被人群围住而咆哮、龇牙逼停众人；Crowned Prince 毫无惧色径直从其高抬的龙颈下方走过",
+      "span": [
+        10908,
+        13694
+      ],
+      "verbatim": "he walked underneath Fraener’s tall, towering, muscular neck"
+    },
+    {
+      "who": "Crowned Prince / Magdala",
+      "action": "Prince 命一名会瞬移（Transporter）的士兵召来老妇 Magdala 做 bond-check；Magdala 一眼断定两人灵魂相连、强度近乎 Prince 与 Tydus 的链接，问明链接仅建立“A day”后表示想研究它",
+      "span": [
+        14942,
+        17754
+      ],
+      "verbatim": "conduct a bond-check."
+    },
+    {
+      "who": "Crowned Prince / Inara",
+      "action": "Prince 以匕首悬于 Felix 喉间相胁（宣称对 Inara 不可下手但可对她的朋友下手），宣布 Chosen 有义务留驻听候 Crowned Family 调遣，并许以食宿薪资；Inara 与 Felix 商议（战时须参战、可从王室偷、可去 librarium 查 Syphon 书）后决定留下",
+      "span": [
+        19173,
+        25689
+      ],
+      "verbatim": "stopped right at Felix’s throat"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：挚友搭档——Felix 以『她去哪我去哪』坚持随行赴宫；被匕首抵喉后仍与 Inara 一同决定留下",
+    "Inara 与 Venerable Cias：如家人般的长辈——他想随行护卫被劝留主持村务；临别叮嘱她别信任何人、尤其远离 Crowned Prince，并指点 librarium 藏书（Syphon 书锁在 Head Venerable 房间）",
+    "Inara 与 Crowned Prince：胁迫与被胁迫——他以匕首悬于 Felix 喉间逼她留驻听调，同时许以食宿薪资；她讨价还价后接受",
+    "Crowned Prince 与随行斗篷女子：她是他的 Shielder/贴身护卫——Inara 由其护主姿态 100 percent 确认",
+    "Crowned Prince 与 Magdala：他召来老妇 Magdala 做 bond-check；Magdala 确认灵魂链接存在（强度近乎他与 Tydus 的链接），并想研究它",
+    "Transporter 士兵 与 Magdala：会瞬间移动的士兵奉命把 Magdala 传送至现场",
+    "Fraener 与 Inara：soul-link 加深——他能向她推送图像与记忆（librarium/Syphon 藏书的记忆），愿意为她烧光周围的人；她安抚他被人群围住的不安",
+    "提及：Gideon——三天后到期补水、付款不足；Head Venerable——Syphon 藏书锁于其房间"
+  ],
+  "numbers": [
+    "c12K",
+    "CHAPTER SIX",
+    "Gideon is due in three days’ time",
+    "enough food in storage to last a few weeks",
+    "possibly be stretched to a month if people ration",
+    "When Inara had been sick one winter",
+    "the number of people she trusted on one hand",
+    "How so much could change in twenty-four hours",
+    "Rumours circled the three kingdoms",
+    "Thousands of smaller dwellings",
+    "For twenty-seven years, life had always been the same",
+    "in her late sixties, early seventies",
+    "A day.",
+    "hovering an inch away from his skin",
+    "Inara was 100 percent sure",
+    "Just one second.",
+    "2,000 years ago?"
+  ]
+}

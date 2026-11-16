@@ -1,0 +1,107 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "who": "Inara / Felix / Princess Phaedra",
+      "action": "烈日下从王宫穿过土场去看其他 Shielder，Inara 要评估对手、看有没有可学之处",
+      "span": [
+        34,
+        256
+      ],
+      "verbatim": "made her way from the palace and across the dirt field"
+    },
+    {
+      "who": "Larissa 一伙 / Inara",
+      "action": "Larissa 与另外三名 Shielder 朝 Inara 一行人放箭，被 Inara 及时撑起的球形护盾挡下；Larissa 假称是场上的“意外”",
+      "span": [
+        2726,
+        3365
+      ],
+      "verbatim": "smashed against her impeccably timed shield"
+    },
+    {
+      "who": "Inara（脑中 Dark Voice）",
+      "action": "黑暗之声怂恿她杀了 Larissa、夺其所有；她记着母亲的话深吸三次，压住杀意",
+      "span": [
+        3946,
+        4318
+      ],
+      "verbatim": "Kill her, the Dark Voice taunted in Inara’s head"
+    },
+    {
+      "who": "Princess Phaedra / Larissa",
+      "action": "Larissa 讥讽 Phaedra 与 Border Rats 为伍，Phaedra 冷声警告她摆正身份，Larissa 涨红脸退让，转头又当众羞辱圈底的 Na-Ri",
+      "span": [
+        5051,
+        6316
+      ],
+      "verbatim": "“I suggest you remember your place, Larissa.”"
+    },
+    {
+      "who": "Fraener / Inara / Felix",
+      "action": "Fraener 俯冲落地，气流把没防备的 Felix 掀飞，Inara 挥盾垫住他的摔落；Fraener 缩成迷你形态落上她的肩",
+      "span": [
+        11354,
+        13258
+      ],
+      "verbatim": "he went flying back with a screech"
+    },
+    {
+      "who": "Kronan / Princess Phaedra / Felix",
+      "action": "晚宴上 Kronan 附耳献策，Phaedra 提出找 Brander Melaine 暂时无效化 soul-link 好让 Inara 参赛，并说明参赛还需带一名 Charge；Felix 自荐充当",
+      "span": [
+        16740,
+        20871
+      ],
+      "verbatim": "I can contact Melaine and ask her"
+    },
+    {
+      "who": "Prince Walder / Inara",
+      "action": "Walder 前来接替 Phaedra 的陪同（监视）任务；Inara 当面指责他几乎杀了她并夷平她的村庄，他威胁“把人砍头”，她起身逼视，他撂下话离开",
+      "span": [
+        21107,
+        26916
+      ],
+      "verbatim": "he almost killed me and levelled my village"
+    },
+    {
+      "who": "Princess Phaedra / Inara",
+      "action": "Phaedra 说明名列第一者将被派给其兄当 Shielder，并确认 Inara 可以参赛、夺冠后拒绝受任；Inara 拍板 “Sign me the fuck up”",
+      "span": [
+        28278,
+        30420
+      ],
+      "verbatim": "“When. When she wins.” Felix corrected."
+    }
+  ],
+  "relations": [
+    "Larissa 是 Crowned Prince Walder 的 Shielder；Phaedra 警告她“身为我兄长的 Shielder 也不能免于惩罚”",
+    "Na-Ri：出生于 Borderlands 的红发 Shielder，在 Larissa 圈子底层被当众羞辱；一对双胞胎女子是 Larissa 的帮腔",
+    "Kronan 是 Phaedra 的 Shielder，熟悉 Shielder 内部层级，附耳为她出主意",
+    "Melaine 是 Phaedra 认识的 Brander，可施放临时烙印（含无效化 soul-link）",
+    "Phaedra 受命陪同（监视）新访客 Inara 直到其可被信任；Walder 前来接替她",
+    "Phaedra 与 Walder 是兄妹；他们的父王（the king）多年无人见过，父王的 Shielder 不更换",
+    "Inara 与 Prince Walder 互相敌视：他曾几乎杀她并夷平她的村庄；她当面顶撞，他以砍头威胁",
+    "Felix 是 Inara 的挚友，自愿担任她在 Shielder Trials 中的 Charge",
+    "Gideon（仅提及）：Inara 在不到二十四小时前还在为凑出 “Gideon’s next payment” 发愁，即她的付款对象"
+  ],
+  "numbers": [
+    "c1M2",
+    "CHAPTER NINE",
+    "Less than twenty-four hours ago",
+    "Three others were at her back",
+    "took three deep breaths",
+    "Two of them nodded",
+    "past the first round",
+    "placed first in the Shielder Trials",
+    "a few years ago",
+    "the following year",
+    "his fourth plate of food",
+    "The trials start in the morn",
+    "another two pastries",
+    "a foot shorter",
+    "Dozens of them",
+    "the trials began on the morrow",
+    "for the next year"
+  ]
+}

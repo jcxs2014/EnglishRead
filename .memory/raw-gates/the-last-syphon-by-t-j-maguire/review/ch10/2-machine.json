@@ -1,0 +1,241 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/ch10 the trial begins.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-last-syphon-by-t-j-maguire/text/ch10_chapter_10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Competitors of the Shielder Trials were prohibited from watching each other’s trials until they had taken their turn, an",
+          "ok": true,
+          "pos": 489
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was not sure what repercussions awaited her for defying a direct command from the High Council—her first command, no",
+          "ok": true,
+          "pos": 2358
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The dull ache in her chest was her constant reminder of what it represented. What it was doing; blurring her connection ",
+          "ok": true,
+          "pos": 2868
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Their gazes clashed. His eyes narrowed. Her lips curved into a self-satisfied smile. Larissa stood behind him. Her trial",
+          "ok": true,
+          "pos": 6848
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Dozens upon dozens of automatic crossbows emerged from the walls, pointing at them from every angle. They completely sur",
+          "ok": true,
+          "pos": 8769
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The objective was obvious: protect your Charge from the barrage of fire as you move for safety",
+          "ok": true,
+          "pos": 9634
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.53
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 9.0,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2233,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

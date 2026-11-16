@@ -1,0 +1,95 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "who": "Inara 与 Felix",
+      "action": "在龙巢盗宝被龙火追杀：她尖叫催 Felix 快跑、甩手在身后竖盾挡火；Felix 怀抱金杯珠宝冲到她身旁",
+      "span": [
+        33,
+        610
+      ],
+      "verbatim": "Inara screamed at the top of her lungs"
+    },
+    {
+      "who": "Inara",
+      "action": "把一整团龙火罩进盾里掷回，砸中巨龙，痛得它厉声哀吼",
+      "span": [
+        3036,
+        3303
+      ],
+      "verbatim": "she sent it soaring back to its maker"
+    },
+    {
+      "who": "Inara 与 Felix",
+      "action": "两人躲进隔壁洞窟的巨石后；她捂住 Felix 的嘴不许出声，探头见两只幼龙守在洞口不敢进来",
+      "span": [
+        3755,
+        5373
+      ],
+      "verbatim": "Inara slapped a palm over Felix’s mouth"
+    },
+    {
+      "who": "Inara 与巨红龙",
+      "action": "回头撞见史上最大的古红龙，鼻尖几乎贴到她的脸；她僵在原地低声叮嘱“千万别跑”",
+      "span": [
+        6706,
+        6872
+      ],
+      "verbatim": "The face of the biggest, most terrifying dragon"
+    },
+    {
+      "who": "Inara 对巨红龙",
+      "action": "红龙喷火，她撑起金色穹顶盾硬扛：被压到单膝跪地、鼻血滴落、魔力逼近阈值",
+      "span": [
+        8646,
+        10060
+      ],
+      "verbatim": "Magic erupted from her soul, forming a perfect dome"
+    },
+    {
+      "who": "Inara",
+      "action": "为救两人解开血脉中被禁的吸取（syphon）之力，从龙火中抽能灌注护盾",
+      "span": [
+        10400,
+        10684
+      ],
+      "verbatim": "Inara unlocked the forbidden magic running deep in her blood"
+    },
+    {
+      "who": "Inara 对巨红龙",
+      "action": "起立把盾向上崩出，穿透龙火砸上龙脸；龙火熄灭，巨龙困惑甩头",
+      "span": [
+        12723,
+        12958
+      ],
+      "verbatim": "shooting upwards with a powerful concussive burst"
+    },
+    {
+      "who": "Inara 与 Guardian",
+      "action": "巨龙缓慢眨眼三次后一股魔力击中她的灵魂（剧痛一闪即逝、灵魂随之脉动）；随后 Guardian 俯身把背递给她",
+      "span": [
+        16526,
+        17905
+      ],
+      "verbatim": "It bent down and offered her its back."
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix 是 best friend and partner in crime（挚友兼盗贼搭档），一同潜入龙巢盗宝",
+    "Inara 是 Shielder（防护系能力者）；Felix 的能力是唱歌催眠、需约三十秒生效，在此场景自认无用",
+    "两只幼龙与巨红龙都是 Arelia 的 Guardian（“Unbeatable, as all Guardians were”）；幼龙数年后才致命，巨红龙古老强大得多",
+    "Inara 脑中有 Dark Voice（黑暗之声）诱惑她“take it all”——她体内藏有知情即会送命的禁术吸取之力",
+    "Inara 的母亲教过她驾驭黑暗之声：“You’re stronger than it is. It doesn’t control you. You control it.”",
+    "巨红龙（Guardian）在章末与 Inara 灵魂共鸣：一股魔力直贯其 soul、她的灵魂随之脉动，随后把背递给她"
+  ],
+  "numbers": [
+    "三十秒（about thirty seconds，Felix 的催眠需约三十秒生效）",
+    "两只幼龙（Two dragons hovered at the cavern’s entrance）",
+    "四条腿（Four powerful legs，幼龙）",
+    "三个王国（all three kingdoms）",
+    "一整年（the whole year，洞中金子够两人吃一年）",
+    "30/40/50 英尺（Thirty feet. Forty feet. Fifty feet.，巨红龙抬颈高度）",
+    "外二、脚下一、头顶一（two on the outside of the cavern, one at her feet, and one directly above her，syphon sight 中的四股能量流）",
+    "眨眼三次（Once. Twice. Three times.，巨龙缓慢眨眼）"
+  ]
+}

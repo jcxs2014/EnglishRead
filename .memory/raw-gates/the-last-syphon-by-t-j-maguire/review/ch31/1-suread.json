@@ -1,0 +1,107 @@
+{
+  "chapter": "ch31",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "小跑追上怒气冲冲疾行的 Prince Walder，把他拖进宫殿一间空房并关上门，追问 'Where are you going?'",
+      "span": [
+        82,
+        138
+      ],
+      "verbatim": "break out into a small jog to keep up with Prince Walder"
+    },
+    {
+      "who": "Prince Walder",
+      "action": "解释 High Council 的由来与 oligarchy（权力归 Council 全体，只有一人可推翻其决定——国王），并称其父目前 'not of sound mind at the moment'",
+      "span": [
+        2500,
+        2545
+      ],
+      "verbatim": "My father is…not of sound mind at the moment."
+    },
+    {
+      "who": "Inara / Prince Walder",
+      "action": "Inara 力主立刻南下调查蔓延的被诅咒之地；Walder 以 'The law is the law' 拒绝；Inara 骂他 'You're a coward'（懦夫）",
+      "span": [
+        5761,
+        5788
+      ],
+      "verbatim": "You’re a coward,” she spat."
+    },
+    {
+      "who": "Prince Walder / Inara",
+      "action": "Walder 施魔法把 Inara 定在原地；她看见他双眼赤红（不是蓝也不是他天然的紫），惊呼 'Bloodborne'——王储原来是操控血液的 Bloodborne，而非 Medalist",
+      "span": [
+        7801,
+        7825
+      ],
+      "verbatim": "“Bloodborne.” She gasped"
+    },
+    {
+      "who": "Fraener / Prince Walder",
+      "action": "Fraener 经 soul-link 感到她的 distress，冲进房间朝 Walder 冲撞；Walder 头也不回、抬手把龙也定在原地",
+      "span": [
+        8853,
+        8881
+      ],
+      "verbatim": "Fraener burst into the room."
+    },
+    {
+      "who": "Prince Walder",
+      "action": "解除冻结后放话：他会想办法绕过禁令、必要时谎报意图也要亲自调查被诅咒之地，但 'for now' 仍遵守 High Council 的 verdict；说完径直走出房间",
+      "span": [
+        11019,
+        11055
+      ],
+      "verbatim": "still frozen Fraener and stormed out"
+    },
+    {
+      "who": "Fraener / Inara",
+      "action": "解冻后的 Fraener 不追王子，径直把头埋进 Inara 怀里呜咽；她抚摸安抚，并隔着 soul-link 把两人的情绪分开",
+      "span": [
+        11175,
+        11219
+      ],
+      "verbatim": "head buried into her chest, and a soft whine"
+    },
+    {
+      "who": "Balthus / Inara",
+      "action": "Balthus 现身，坦承无意间偷听到对话、答应保密，并建议她 'just go without him'（先斩后奏）；Inara 谢绝他同行（他有急务、要等几周），决意按其建议独自南下",
+      "span": [
+        15491,
+        15514
+      ],
+      "verbatim": "advice and travel south"
+    }
+  ],
+  "relations": [
+    "Inara 与 Prince Walder：王储与其近身同伴（她敢拉他手臂、当面骂他懦夫，两人间有特殊张力）；两人就'是否违抗 High Council 南下调查'争执，Walder 在她面前失控暴露了 Bloodborne 身份",
+    "Inara 与 Fraener：soul-link（灵魂链）相连——Fraener 是她的 Guardian 龙，能感应她的情绪并冲来救她",
+    "Prince Walder 与国王：父子——国王是唯一能推翻 High Council 决定的人，但 Walder 称他目前 'not of sound mind'",
+    "Prince Walder 与 High Council：作为 Prince of Arelia 受其法律与裁决约束（Council 否决了调查被诅咒之地）",
+    "Inara 与 Balthus：librarium 旧识（本章他穿着 librarium 时那身衣服），已为她守着一个秘密；本章偷听对话后答应保密、并建议她独自南下",
+    "Prince Walder 的双重身份：Chosen 兼 Bloodborne（本章揭示）——'liable to be the strongest person in existence'；他向旁人隐瞒此事",
+    "Inara 的族类处境：她是 Syphon，因 Cursed King 的所作所为，Syphon 被定为见即杀（'extinguished on sight'）——她因此理解 Walder 隐瞒 Bloodborne 身份的苦衷",
+    "Inara 与她的人民（Deadhaven）：'My people will be the first ones to suffer the consequences'——她担心 Borderlands 的族人最先遭殃"
+  ],
+  "numbers": [
+    "CHAPTER THIRTY-ONE",
+    "wrapped one hand around his bicep",
+    "one of the many rooms",
+    "letting one person have all the power",
+    "not one individual person",
+    "only one person who can override their decisions",
+    "This is one of them",
+    "only one thing that made someone",
+    "not for one second",
+    "thousands of innocents",
+    "half-cocked notion",
+    "outlaw one power they saw as a threat",
+    "All it would take is one…One person",
+    "keeping one secret for me",
+    "the first ones to suffer the consequences",
+    "wait a few weeks",
+    "wake on the morrow",
+    "ordered you on the morrow"
+  ]
+}

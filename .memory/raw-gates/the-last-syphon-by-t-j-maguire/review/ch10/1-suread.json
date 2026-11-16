@@ -1,0 +1,105 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "who": "Inara",
+      "action": "在深入城市地下的 catacombs 里等了一整天，作为最后一名参赛者煎熬地等自己的 Shielder Trials 试炼开始",
+      "span": [
+        95,
+        142
+      ],
+      "verbatim": "All day, she’d stood there, agonisingly waiting"
+    },
+    {
+      "who": "Inara",
+      "action": "刮擦前臂内侧的符号——Brander 刻下的非永久标记，模糊她与 Fraener 的连接，以免试炼中被指占了不公平优势",
+      "span": [
+        2859,
+        2904
+      ],
+      "verbatim": "She scratched the symbol marked on the inside"
+    },
+    {
+      "who": "Inara",
+      "action": "与 Felix 进入漆黑房间后用 syphon sight 扫描全场，确认屋里只有他们两人",
+      "span": [
+        5292,
+        5334
+      ],
+      "verbatim": "she used her syphon sight to scan the room"
+    },
+    {
+      "who": "Inara 与 Felix",
+      "action": "踏过中央发光圆圈、右侧凭空出现一扇门后，数十把自动弩从墙上弹出，从每个角度对两人齐射",
+      "span": [
+        8925,
+        8974
+      ],
+      "verbatim": "Dozens upon dozens of automatic crossbows emerged"
+    },
+    {
+      "who": "Inara",
+      "action": "金色护盾从她胸口爆出，在她和 Felix 周围结成完美圆形屏障，硬抗弩箭轮番齐射",
+      "span": [
+        9197,
+        9247
+      ],
+      "verbatim": "A bright, golden shield exploded out of the centre"
+    },
+    {
+      "who": "Inara",
+      "action": "掷出旋转盾盘绕场切掉整排弩的前端，再绕一圈把剩余弩切成两半，随后召回盾盘、握拳熄灭魔法",
+      "span": [
+        10814,
+        10854
+      ],
+      "verbatim": "released the shield disk in a fast throw"
+    },
+    {
+      "who": "Inara 与 Felix",
+      "action": "穿过敞开的门回到黑暗中，两人为刚才的凶险放声大笑；Felix 承认那场面有点吓人",
+      "span": [
+        11799,
+        11852
+      ],
+      "verbatim": "Pheewww. Glad that’s over. That shit was kinda scary."
+    },
+    {
+      "who": "Inara",
+      "action": "在下一扇门前回头告诉 Felix：不知道下一轮是什么，但预感会比这一轮难得多",
+      "span": [
+        12899,
+        12953
+      ],
+      "verbatim": "I have a feeling it will be a lot harder than the last"
+    }
+  ],
+  "relations": [
+    "Inara 与 Felix：挚友（文中 Her best friend）兼受护关系——Felix 是 Inara 的 Charge；两人同为 Borderlands 出身的 Border Rats，一同参加 Shielder Trials，想向 Arelia 证明 Border Rats 不输任何人（介绍词见 Our last competitor... Inara Tempest, and her Charge, Felix Podik）",
+    "Inara 与 Larissa：被轻视/敌意——Inara 称她 that bitch、要让她 eat her fucking words；Larissa 站在 Crowned Prince 身后，认为 Inara 过不了第一轮",
+    "Inara 与 Prince Walder（Crowned Prince）：审视与较劲——Walder 全程紧盯她并与她对视；她特意锁定他的目光展示旋转盾盘等魔法",
+    "Inara 与 Princess Phaedra：信息/支持——Phaedra 向她解释过 trials 是 Arelia 年度盛事（High Council 与 Crowned Prince 都会到场），并预判 Council 不敢当场把她拉出竞技场",
+    "Inara 与 High Council：抗命关系——Council 下过直接命令（她的第一条命令），她违令按 Guardian Schedule 到 High Council chambers 报到并参赛；各 Council 成员身后各站一名自己的 Shielder；Lady Niya 是唯一略显赞赏的成员",
+    "Inara 与 Fraener：羁绊/连接——前臂符号正在模糊她与 Fraener 的连接（blurring her connection to Fraener）",
+    "Inara 与 Brander：施术者关系——Brander 在她前臂刻下非永久符号，她为避免不公平指控而接受",
+    "Commander of The Arelian Army：观赛要员——因他在场，Inara 在试炼中不敢动用 syphon 能力"
+  ],
+  "numbers": [
+    "c1VS（文件首行标识码，非正文）",
+    "CHAPTER TEN（章标题）",
+    "Two Arelian guards stood on either side",
+    "“Three-minute warning,” one of the guards barked out gruffly",
+    "counted to five in her head",
+    "Roughly fifteen paces ahead",
+    "a 360-degree view of her",
+    "Dozens upon dozens of automatic crossbows",
+    "her first assignment detail",
+    "her first command, no less",
+    "make it past the first round",
+    "having been one of the first to compete",
+    "the first time they had ever competed in a trial",
+    "splitting the remaining crossbows in two",
+    "first left, then right",
+    "本章无日期；仅有 all day / that morn / this eve 等时间词"
+  ]
+}
