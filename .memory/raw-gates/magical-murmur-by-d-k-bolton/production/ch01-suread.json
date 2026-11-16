@@ -1,0 +1,67 @@
+{
+ "book": "magical-murmur-by-d-k-bolton",
+ "chapter": "ch01",
+ "text": "notes/books/novels/magical-murmur-by-d-k-bolton/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "开篇主题句：中年魔法像生活一样只会低语（murmur），要么耐心听、要么莽撞错过提示；叙述者自比婚姻里 charge-forward 的教训。",
+   "anchor": "Magic rarely shouted. That was something important I’d picked up on somewhere along the way. Midlife magic tended to murmur",
+   "start": 23,
+   "end": 146
+  },
+  {
+   "fact": "女儿 Celeste 已带上 shadow mark（Book 12 结局），至今两周，叙述者还没消化它的含义。",
+   "anchor": "She wore the shadow mark now, and while I struggled to wrap my head around the implications, there was no hurrying what was to come",
+   "start": 580,
+   "end": 711
+  },
+  {
+   "fact": "小哥布林 Skonk 冲进校长办公室报信：图书馆两个女巫吵起来了。",
+   "anchor": "“There’s a kerfuffle in the library between two witches, and I have to warn you…I have never seen anything like it.”",
+   "start": 1204,
+   "end": 1320
+  },
+  {
+   "fact": "高个学生 Loretta 指控新同学 Alba（Ms. Darkness）：Stella 的 brewing 课小组作业搭档要用影子魔法，害她怕被退学。",
+   "anchor": "I was assigned to work on a team project with Ms. Darkness here, and she is going to get me flunked out of the Academy.",
+   "start": 4039,
+   "end": 4158
+  },
+  {
+   "fact": "Alba 辩护：该咒语从影子取力不等于黑魔法，她家族常年在魔法里用影子。",
+   "anchor": "“It draws strength from shadows. That doesn’t make it dark,” Alba explained.",
+   "start": 4777,
+   "end": 4853
+  },
+  {
+   "fact": "争执的书来自图书馆今早凭空出现的书架段（原是石墙）；Twobble 证实 That section appeared this morning。",
+   "anchor": "I turned slowly to see what used to be a stone wall, now lined with shelves crammed with books.",
+   "start": 6349,
+   "end": 6444
+  },
+  {
+   "fact": "Maeve 亲眼看见顶层书架间有影子一闪而过，Skonk 低喊「Maeve, did you see that?」——首次全名现身。",
+   "anchor": "I saw the faintest movement zip between the books on the top shelf, and I froze.",
+   "start": 7073,
+   "end": 7153
+  },
+  {
+   "fact": "双胞胎表亲哥布林 Twobble 与 Skonk 去书架后调查影子；Twobble 搬出「遇险要带上孪生兄弟的哥布林规则」。",
+   "anchor": "“This calls for having my twin by my side. Goblin rules when in danger.”",
+   "start": 7813,
+   "end": 7885
+  },
+  {
+   "fact": "上古吸血鬼 Lady Limora 调停：影子酿造非黑魔法，黑暗不天生邪恶，关键是你求魔法做什么；作业要求对立魔法属性共存。",
+   "anchor": "Darkness isn’t inherently evil any more than fire is inherently cruel. You have to remember that intent matters.",
+   "start": 10986,
+   "end": 11098
+  },
+  {
+   "fact": "尾场：Maeve 顺散落书本找到双胞胎，墙顶书架与天花板间卡着一枚餐盘大小的颤抖黑影，静止如走投无路的老鼠——「这大概是许多错误中的第一个」。",
+   "anchor": "It was no larger than a dinner plate.",
+   "start": 13404,
+   "end": 13441
+  }
+ ]
+}
