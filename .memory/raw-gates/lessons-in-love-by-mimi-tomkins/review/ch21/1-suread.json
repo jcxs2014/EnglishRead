@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch21",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch21_chap21.txt",
+ "facts": [
+  {
+   "fact": "拳袋后他对 Ben 的复盘：我不知道发生了什么，她就是对我发飙。",
+   "anchor": "She just freaked out at me.",
+   "start": 1063,
+   "end": 1090
+  },
+  {
+   "fact": "不收辅导费的理由：见过她家人之后，不想让关系变成交易。",
+   "anchor": "I didn’t want our relationship to become transactional.",
+   "start": 2457,
+   "end": 2512
+  },
+  {
+   "fact": "快递被家人拆开：书稿摊在餐桌，秘密曝光。",
+   "anchor": "The book is strewn open",
+   "start": 4792,
+   "end": 4815
+  },
+  {
+   "fact": "献词页：献给所有做出最大牺牲的母亲们。",
+   "anchor": "Dedicated to the mothers everywhere",
+   "start": 4856,
+   "end": 4891
+  },
+  {
+   "fact": "妈妈日记最后一篇写完两天后，她殉职了（战地报道）。",
+   "anchor": "Two days after that was written she was dead.",
+   "start": 6007,
+   "end": 6052
+  },
+  {
+   "fact": "遗体装在木箱里冷冷地回来，随之只有勋章与旗。",
+   "anchor": "Her body was returned to us cold in a wooden box.",
+   "start": 6092,
+   "end": 6141
+  },
+  {
+   "fact": "通宵补注后的和解边界：爸爸不懂他，但懂妈妈——那就够了。",
+   "anchor": "he understood my mother. And that’s enough.",
+   "start": 8294,
+   "end": 8337
+  },
+  {
+   "fact": "酒吧错认：镜框太黑、鼻梁太直、无雀斑——不是 Eden。",
+   "anchor": "Her glasses frames are too dark",
+   "start": 13561,
+   "end": 13592
+  }
+ ]
+}

@@ -23,7 +23,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：痛觉的经济学——拳袋上的疼可预期、可结算，心里的疼不行，所以他「欢迎」前者。作者让男主的困惑先于愤怒：freaked out 是他目前唯一能用的词，更深的词（heartbroken）还没到货。
 
-**读者视角提示**：对照 ch11 的「Boxing let me ignore my thoughts」——他的止痛方式从没变过。这次缺的止痛药不是运动量。
+**读者视角提示**：对照本章前段「Boxing let me ignore my thoughts」（text:71）——他的止痛方式从没变过。这次缺的止痛药不是运动量。
 
 > **原句 2:** "“It felt weird to charge her after everything, especially after I met her family. I didn't want our relationship to become transactional.”"
 
@@ -83,7 +83,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：和解不写成拥抱而写成让步——作者给父子线设了一个现实的终点线：不是「我们和好了」，是「我们共同爱着同一个人」。And that's enough 的知足语气是 Oliver 的人格签名：他从不索要满分。
 
-**读者视角提示**：对照 ch06 的 silent dinner 与 ch11 的拍背——父子线在本章完成三级跳：沉默→肢体→共同哀悼。下一章的家庭戏可以期待「new normal」。
+**读者视角提示**：对照 ch06 的 silent dinner 与 ch11 的拍背——父子线在本章完成三级跳：沉默→肢体→共同哀悼；「new normal」在这章已经露头（Dad 与 Jason 不再盘问，text:158），后文的家庭戏（ch24 晚餐／ch26 发布会）会把它坐实。
 
 > **原句 8:** "Her glasses frames are too dark, her nose is a bit too straight. There's no freckles smattered across her cheeks, and her blue eyes have an element of confusion to them."
 
