@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch13",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch13_chap13.txt",
+ "facts": [
+  {
+   "fact": "家变：投资人撤资，72 小时内必须找到新的，否则公司破产。",
+   "anchor": "We need to find another in 72 hours",
+   "start": 1817,
+   "end": 1852
+  },
+  {
+   "fact": "撤走的投资额是两千万美元。",
+   "anchor": "Twenty million dollars.",
+   "start": 2008,
+   "end": 2031
+  },
+  {
+   "fact": "Dad 当面甩锅：要不是妈妈给你存了「教育」钱，公司就有钱买保险。",
+   "anchor": "If your mother didn’t put all that money aside for your ‘education’",
+   "start": 3384,
+   "end": 3451
+  },
+  {
+   "fact": "交底：父母从未合法结婚，爸爸说是为了省税。",
+   "anchor": "My mum and dad never got legally married.",
+   "start": 7451,
+   "end": 7492
+  },
+  {
+   "fact": "Eden 听完家变，直接拍板：你跟我回家（农场）。",
+   "anchor": "You’re coming home with me.",
+   "start": 9208,
+   "end": 9235
+  },
+  {
+   "fact": "双胞胎的入场条件：做完作业才能见 Oliver。",
+   "anchor": "They had to finish their homework",
+   "start": 14810,
+   "end": 14843
+  },
+  {
+   "fact": "农场初见：Eden 的深发来自妈妈 Evelyn、榛眼来自爸爸 Mark。",
+   "anchor": "I can see where Eden gets her features from.",
+   "start": 15001,
+   "end": 15045
+  },
+  {
+   "fact": "听到爸爸把责任推给 Oliver，Eden 当场替他鸣不平。",
+   "anchor": "That’s not fair!",
+   "start": 7430,
+   "end": 7446
+  }
+ ]
+}

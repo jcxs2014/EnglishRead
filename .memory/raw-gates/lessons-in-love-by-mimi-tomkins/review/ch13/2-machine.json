@@ -1,0 +1,327 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lessons-in-love-by-mimi-tomkins/ch13 crisis and farm homecoming.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch13_chap13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I want to",
+          "ok": true,
+          "pos": 152
+        },
+        {
+          "text": "But I can't. It's not her burden to carry",
+          "ok": true,
+          "pos": 233
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We'd have money for insurance if it wasn't for you. If your mother didn't put all that money aside for your 'education' ",
+          "ok": true,
+          "pos": 3180
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "My mum and dad never got legally married. Better for tax, my dad used to say. It's always about the business with him",
+          "ok": true,
+          "pos": 7122
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The second he turned eighteen Jason took the money and gave it straight to Dad. I'm the selfish one because I actually w",
+          "ok": true,
+          "pos": 7640
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "That your dad sucks? It’s a bit hard to do it over text,” Eden snorts into her cup of tea",
+          "ok": true,
+          "pos": 8037
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You're coming home with me.”",
+          "ok": true,
+          "pos": 8812
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But being in this car with her? Well, that's easy. Easier than breathing",
+          "ok": true,
+          "pos": 9528
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Rachel's the youngest. Now she will be obsessed with you. Molly and Charlie are the twins",
+          "ok": true,
+          "pos": 10688
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I can see where Eden gets her features from. Dark hair from her mum, hazel eyes from her dad",
+          "ok": true,
+          "pos": 14399
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.46,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter Thirteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2766,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 25 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

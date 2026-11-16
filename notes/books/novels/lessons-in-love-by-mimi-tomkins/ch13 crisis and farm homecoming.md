@@ -33,7 +33,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：education 上的引号是全章最毒的标点——它把母亲的遗愿降格为儿子的借口。作者让公司危机在第二幕才揭开真相（钱的真实去向），此处的甩锅只是导火索：把亡母拖进争吵，等于替儿子按下离家键。
 
-**读者视角提示**：记住引号里的 'education'——它在 B3/B4 里会被逐字撕开：那笔钱不是 Oliver 的任性，是妈妈的遗嘱执行。
+**读者视角提示**：记住引号里的 'education'——它在第 3、4 块里会被逐字撕开：那笔钱不是 Oliver 的任性，是妈妈的遗嘱执行。
 
 > **原句 3:** "My mum and dad never got legally married. Better for tax, my dad used to say. It's always about the business with him."
 
@@ -71,9 +71,9 @@ modified: "2026-11-15"
 
 **关键词**：coming home with me
 
-**为什么这样写**：六个词的邀请函——不是疑问句而是陈述句，把「要不要」直接替换成「什么时候」。作者让全章的沉重在女孩一句命令里翻页：医治 Oliver 家变的方法不是讲道理，是带他去另一个家。短句的独断感正是 Eden 的决策者人设。
+**为什么这样写**：五个词的邀请函——不是疑问句而是陈述句，把「要不要」直接替换成「什么时候」。作者让全章的沉重在女孩一句命令里翻页：医治 Oliver 家变的方法不是讲道理，是带他去另一个家。短句的独断感正是 Eden 的决策者人设。
 
-**读者视角提示**：meet the family 就此启动——而且是他被动接受安排。对照 ch09 Jake 的「When is Eden bringing you home」：这次成行了，且是女方开的车（他开）。
+**读者视角提示**：meet the family 就此启动——而且是他被动接受安排。对照 ch09 Jake 的「When is Eden bringing you home」：这次成行了——而且开车的还是他，她坐副驾。
 
 > **原句 7:** "But being in this car with her? Well, that's easy. Easier than breathing."
 
@@ -81,7 +81,7 @@ modified: "2026-11-15"
 
 **关键词**：this car / Easier than breathing
 
-**为什么这样写**：should be nervous 与 is easy 的落差全塞进一个反问句——作者把「对的人=减压」写成生理事实。Easier than breathing 是比「家」更进一步的比喻：呼吸是他与生俱来的东西，她比它还自然。公路 become 灵修。
+**为什么这样写**：should be nervous 与 is easy 的落差全塞进一个反问句——作者把「对的人=减压」写成生理事实。Easier than breathing 是比「家」更进一步的比喻：呼吸是他与生俱来的东西，她比它还自然。公路段成了灵修。
 
 **读者视角提示**：对照 ch08 的初吻紧张（knuckles white）与本章的零紧张——三个章节的相处已经把「她」从变量写成了常量。
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：家族点名像出警前简报——每个名字配一条预警。作者用 Eden 的口吻完成人物表交付，让 Oliver（和读者）在见面前先拿到花名册：这是言情「见家长」章的标准说明书，只是它写得像战前动员。
 
-**读者视角提示**：对照 ch01 的告别戏（Rachel 抱腿、Jake 头枕、双胞胎拆家）——本章的预警逐条兑现。四弟妹+爸妈=全家 six 口，Oliver 从三人餐桌直接跳进六人合唱团。
+**读者视角提示**：对照 ch01 的告别戏（Rachel 抱腿、Jake 头枕、双胞胎拆家）——本章的预警逐条兑现。五个孩子+爸妈＝全家七口，Oliver 从三人餐桌直接跳进七口人的合唱团。
 
 > **原句 9:** "I can see where Eden gets her features from. Dark hair from her mum, hazel eyes from her dad."
 
