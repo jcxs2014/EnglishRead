@@ -19,7 +19,7 @@ I was about to come to his defense and ask that we patron a less snobby merchant
 **中文理解**：店主 Ros 抬眼看见 Darragh， greeting 卡在半途：「哦，下等人来了。」她正要替他出头、换个不那么势利的铺子，却见对方脸上慢慢堆起顽皮的笑——再回头看 Darragh，他咧着嘴。
 **关键词**：the riffraff is here / blurted out / standing behind me
 **为什么这样写**：侮辱是暗号——「riffraff」从她嘴里说出来时是熟人间的钩子，两副笑脸瞬间完成关系定位；让 Aurora 先误判再反转，读者跟她一起上了一次当，Darragh 的「有朋友」这件事第一次有了人证。
-**读者视角提示**：记下 Ros 这个变量——全库唯一不怕 Darragh 的人。她背后是谁、凭什么不怕，这个「例外」迟早有故事。
+**读者视角提示**：记下 Ros 这个变量——全书中唯一不怕 Darragh 的人。她背后是谁、凭什么不怕，这个「例外」迟早有故事。
 
 > **原句 2:** "Ros turned to Darragh, who awkwardly lingered by the door, eyeing the abundance of rhinestones and lace around him, and looking rather out of place. Colorful silk bows and shimmering formal gloves painted a comical contrast against his all-black attire, adorned with various weapons. A solid mass of muscle and steel amongst dainty refinement."
 **中文理解**：Darragh 尴尬地杵在门边，满眼水钻与蕾丝如临大敌——彩色缎带蝴蝶结和闪光的正装手套，撞上他一身黑、挂满兵刃的行头，滑稽感扑面而来：一块肌肉与钢铁，陷在精致易碎品中间。

@@ -53,7 +53,7 @@ modified: "2026-11-16"
 **中文理解**：十多年前，她当着本地最富有的上流社会的面拒绝了他的追求、退掉母亲安排的婚约，把他的自尊撞出淤伤。从那以后 Terren 除此之外什么都不肯投入，却把这份怨恨热心地经营成了终身事业。
 **关键词**：refused the courtship / grudge / lifetime obligation
 **为什么这样写**：省略号跳过的两段是他出身的炫耀铺垫，作者只留「结怨」与「记仇」两端，把一个贵族的自我神话剪成笑话。`enthusiastically`（热心地）是反讽的核心：他唯一的激情都用在记恨上。
-**读者视角提示**：「当众拒绝」是关键前史——他那句 "You bitch!" 的爆发力来自十年积压。这个婚约被拒的旧事也与后文母亲再度安排的 Jairus 呼应：母亲始终在用婚姻做缰绳。
+**读者视角提示**：「当众拒绝」是关键前史——他那句 "You bitch!" 的爆发力来自十多年积压。这个婚约被拒的旧事也与后文母亲再度安排的 Jairus 呼应：母亲始终在用婚姻做缰绳。
 
 > **原句 8:** "“I will be back in three days’ time to collect you and that bastard child. I am in town and have my men watching this hovel of a shop. I have eyes everywhere. Don’t try to run.”"
 **中文理解**：他压低声音贴耳威胁：三天后来收走她和「那个杂种孩子」；他就在镇上，手下正盯着这间破铺子，他的眼线无处不在——别想跑。
