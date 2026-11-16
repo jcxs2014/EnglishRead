@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch22",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch22_chap22.txt",
+ "facts": [
+  {
+   "fact": "Gemma 的秘密画室里，她拿起名叫「Broken Promises」的灰色颜料。",
+   "anchor": "Broken Promises",
+   "start": 2779,
+   "end": 2794
+  },
+  {
+   "fact": "两小时后画布上显出一张脸——她无意识画出了 Oliver。",
+   "anchor": "face to face with Oliver.",
+   "start": 3413,
+   "end": 3438
+  },
+  {
+   "fact": "冷战自我判决：生气比道歉容易，那就狠狠地生。",
+   "anchor": "But it’s easier to be angry than apologetic.",
+   "start": 2099,
+   "end": 2143
+  },
+  {
+   "fact": "Jake 视频里报喜：我拿到驾照了。",
+   "anchor": "I got my license.",
+   "start": 6390,
+   "end": 6407
+  },
+  {
+   "fact": "她连弟弟生日都忘了，只能道歉并许诺考完补过。",
+   "anchor": "I was meant to message you about your birthday today",
+   "start": 6550,
+   "end": 6602
+  },
+  {
+   "fact": "考日出门才发现穿错毛衣——是他的，气味带来农场之夜。",
+   "anchor": "this isn’t my jumper. It’s his.",
+   "start": 10139,
+   "end": 10170
+  },
+  {
+   "fact": "考前十分钟泪落桌面：过了这场考试就去找他。",
+   "anchor": "If I pass this exam, I’ll talk to him.",
+   "start": 12401,
+   "end": 12439
+  },
+  {
+   "fact": "面对空白画布她说的第一句话：我不知道从哪里开始。",
+   "anchor": "I don’t know where to start.",
+   "start": 2631,
+   "end": 2659
+  }
+ ]
+}
