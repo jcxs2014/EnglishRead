@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch03",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch03_chap3.txt",
+ "facts": [
+  {
+   "fact": "Gemma 偷看了初见全程，滑进座位就起哄「你请了全校最可爱的家教」。",
+   "anchor": "I think you have the cutest tutor ever!",
+   "start": 46,
+   "end": 85
+  },
+  {
+   "fact": "Eden 对 Gemma 划界：我们的关系必须严格职业，不许暧昧。",
+   "anchor": "our relationship has to be strictly professional",
+   "start": 1950,
+   "end": 1998
+  },
+  {
+   "fact": "Oliver 的短信：本周只是课程介绍，但也许先读本书是个好开始，末尾带眨眼表情。",
+   "anchor": "But maybe reading a book would be a good start ;)",
+   "start": 3982,
+   "end": 4031
+  },
+  {
+   "fact": "Gemma 解读荐书行为：他在试水，看你吃不吃言情这一套。",
+   "anchor": "Testing the waters",
+   "start": 6157,
+   "end": 6175
+  },
+  {
+   "fact": "Eden 读完被安利的书后吐槽：无法理解怎么会有人写没有情节的书。",
+   "anchor": "I fail to understand how one can write a book with no plot.",
+   "start": 6660,
+   "end": 6719
+  },
+  {
+   "fact": "图书馆争吵中 Oliver 反问：是你雇的我，想及格就还得雇我。",
+   "anchor": "You literally hired me! And you certainly will if you want to pass!",
+   "start": 11003,
+   "end": 11070
+  },
+  {
+   "fact": "争吵让两人逼近：她数得清他鼻梁上的雀斑，甚至冒出「伸手就能吻」的念头。",
+   "anchor": "He’s so close that I can make out a smattering of freckles across his nose.",
+   "start": 11322,
+   "end": 11397
+  },
+  {
+   "fact": "辅导收尾：Oliver 挤出僵硬的笑、头也不回地走了，她承认这很刺痛。",
+   "anchor": "He gives me a tight smile and then walks away without a backwards glance.",
+   "start": 12313,
+   "end": 12386
+  }
+ ]
+}

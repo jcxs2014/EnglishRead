@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**："The words are tumbling out of me before I can stop them" 把爆发写成雪崩——她不是在辩论，是在失控；两段引语之间的叙述句是作者按下的暂停键，让读者看清「连她自己都拦不住」。Chemistry 与 Literature 的对立在本章第一次正面开火，她的愤怒里一半是对课程的，一半是对「失控本身」的。
 
-**读者视角提示**：注意她说的是 "offers for research projects lining up"——并非走投无路，而是被制度卡住；这为后文 Oliver 反问「你为什么要自我惩罚」类对话埋了底气。这也是两人第一次见识彼此的爆发模式：她炸，他懵。
+**读者视角提示**：注意她说的是 "offers for research projects lining up"——并非走投无路，而是被制度卡住；这句也让读者先记住她的筹码：她并非走投无路，而是被制度卡住。这也是两人第一次见识彼此的爆发模式：她炸，他懵。
 
 > **原句 6:** "He’s so close that I can make out a smattering of freckles across his nose. So close I could just grab his face and kiss him. I take a couple of deep breaths, rubbing my finger over my knuckles."
 
@@ -73,7 +73,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：距句式用两连排比（So close that… / So close I could…）把物理距离一级级压成冲动距离——雀斑是「看清」的刻度，吻是「够到」的刻度。第三句立刻刹车：deep breaths 加摩挲指节，是她给自己上的物理刹车。作者让 kiss 只活在假设句里（could grab），欲望被语法暂时关住。
 
-**读者视角提示**：这是 Eden 第一次在内心承认想吻他——之前全是「cutest tutor」级别的旁观词。指节小动作在此后大概率复现（她的自我安抚密码）；而这一幕的近距离婚礼兑现还差一整本书的距离，别急。
+**读者视角提示**：这是 Eden 第一次在内心承认想吻他——之前全是「cutest tutor」级别的旁观词。指节小动作在此后大概率复现（她的自我安抚密码）；而这一幕的兑现（一个不必再刹车的吻）要到 ch08 的舞会，别急。
 
 ## 本章词汇
 
