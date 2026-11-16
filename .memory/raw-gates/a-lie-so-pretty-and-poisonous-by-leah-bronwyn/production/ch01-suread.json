@@ -1,0 +1,55 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch01",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "四年前 Aurora 带 6 岁的 Cora 深夜骑一匹偷来的马逃离 Alwine Manor，因为母亲开始像控制她一样控制 Cora（头发/衣着/举止，孩子变得 withdrawn and anxious）；此后在 Olinbury 定居，在药铺当职员。",
+   "anchor": "Cora was six when we left Alwine Manor",
+   "start": 500,
+   "end": 538
+  },
+  {
+   "fact": "送 Cora 上学时，Aurora 认出走向药铺的陌生人是 Terren——她母亲最喜欢的贵族信使，来收人或者送信，两者都不会愉快。",
+   "anchor": "My mother’s favorite aristocratic messenger was here to either collect me or deliver a message",
+   "start": 2364,
+   "end": 2458
+  },
+  {
+   "fact": "Terren 影射她快要沦落妓院，Aurora 反唇相讥（女人碰他只因为收钱），他绕过柜台粗暴抓住她的手臂骂 \"You bitch!\"，唾沫溅到她脸上。",
+   "anchor": "snatching my arm and pulling me toward him",
+   "start": 4147,
+   "end": 4189
+  },
+  {
+   "fact": "积怨来源：十多年前 Aurora 当着本地区最富有的上流社会的面拒绝了 Terren 的追求、退掉母亲安排的婚约；此后他一直对她刻意恶毒，把怨恨当成终身事业。",
+   "anchor": "I bruised his ego well over a decade ago when I turned down his advances",
+   "start": 4512,
+   "end": 4584
+  },
+  {
+   "fact": "Greta 从后门进来请 Aurora 搬货箱，察觉 Terren 后抄起柜台上的拆信刀挡在两人之间——她误以为他是近来村里频发的盗窃贼。",
+   "anchor": "casually picking up a letter opener off the counter and arming herself",
+   "start": 8012,
+   "end": 8082
+  },
+  {
+   "fact": "Terren 凑到耳边低声威胁：三天后来收她和「那个杂种孩子」，他的人在盯着这家铺子，\"I have eyes everywhere\"，别想跑——跑了正好给他动手的理由。",
+   "anchor": "I will be back in three days’ time to collect you and that bastard child",
+   "start": 9571,
+   "end": 9643
+  },
+  {
+   "fact": "临出门前 Terren 回头补刀：Jairus 盼着她回去；Aurora 倒抽一口冷气，这句话在她身上再划开一道深口。",
+   "anchor": "Jairus wants you to know he looks forward to having you back",
+   "start": 10413,
+   "end": 10473
+  },
+  {
+   "fact": "母亲亲笔信（金印火漆、鹿衔叶家纹）：以「great conflict 时期的 noble preservation」为由，Edenalee 宫廷已把 Cora 的监护权判给母亲——Aurora 不回去，Cora 也会被单独带回；限期三天。Greta 听后主动出钱助她再逃，Aurora 坚持日后偿还。",
+   "anchor": "the royal court of Edenalee has granted me custody of Cora on the grounds of noble preservation",
+   "start": 12442,
+   "end": 12537
+  }
+ ]
+}
