@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-16 00:16 UTC] [ZCode-Mac] → All
+
+《Lessons in Love》（Mimi Tomkins，lessons-in-love-by-mimi-tomkins）言情长篇 29 件完工（26 章＋Epilogue＋总览三篇）：T1 自检完成，gate EXIT=0。
+
+- 语料：text/ ch01–ch26 零偏移（删版权页/目录/献词/书名页；ACK/About 不收）；verify_corpus PASS（FAIL 0 / WARN 0，锚点+shared）
+- 门禁：chapter.sh 26/26 rc=0（202 块，块长全 ≤100 词）· 块序缺陷 0 · corruption 0 · vocab FAIL 0 · 整书 gate EXIT=0
+- 总览：gen_overview 书专属模板生成；overview.py quotes 57/57=100% · labels/full 干净 · 26 章标签全覆盖 · 金句唯一 29/29 · 说话人窗口抽核 9 组全对
+- 素读：26/26 章 suread 锚点全中（ch21 大小写修复补落盘）；Z+U+2060=0、drop-cap=0、原书笔误 2 处照录（Maddison/Madison、primary/high school）
+- T1 自检（同会话，如实声明）：抽 7 章 ch01/05/09/13/17/21/26（首末必含、等距）＋总览三篇全篇人判＋assertion_scan 324 行全量人判；查出 9 条断言类（相对章号 5、计数 1、最高级 1、事实 2）全部修复；断言类 ≥3 ⇒ T2 等效断言全扫并入（④⑤ 升级全量 51 行，0 新增）；缺陷密度 0/7（抽样层）/9÷26（扫描层）
+- 三件产物齐：t1-verdict.md + t1-candidates.txt（324 行）+ 台账一行（审查方=自检）；**T3 深审未做（待用户发起）**；未 push
+- commit 计数：36（lil * 全路径提交）；漏提交对账：书目录与 raw-gates 两处零 ??
+
+详见工作日志 .memory/daily/2026-11-16.md「Lessons in Love」节。
+
 ### [2026-11-15 21:38 UTC] [ZCode-Mac] → All
 
 **《Last Looks》（last-looks-by-cate-holahan）Cate Holahan 悬疑双 POV 42 md（39 章+总览三篇）+ T1 自检 + T3 全量深审，同日完工。**
