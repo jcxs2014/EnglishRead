@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch23",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch23_chap23.txt",
+ "facts": [
+  {
+   "fact": "图书馆里 Gemma 截胡：Ben 现在救不了你——她来当说客。",
+   "anchor": "Ben can’t help you now.",
+   "start": 1177,
+   "end": 1200
+  },
+  {
+   "fact": "Oliver 的闭合叙事：她要分数，我给了，她不再需要我。",
+   "anchor": "She wanted a good mark. I gave her that.",
+   "start": 1785,
+   "end": 1825
+  },
+  {
+   "fact": "他的底线：上次是他追出去的，这次不追，等她开口。",
+   "anchor": "I am not running after her again.",
+   "start": 2671,
+   "end": 2704
+  },
+  {
+   "fact": "Gemma 递真相：演讲前导师就告知她奖学金申请误期。",
+   "anchor": "Her Honours coordinator stopped her beforehand",
+   "start": 2932,
+   "end": 2978
+  },
+  {
+   "fact": "同日考试：文学课的考试也在今天，两人将在考场再次同框。",
+   "anchor": "Contemporary Literature also has their exam today.",
+   "start": 4859,
+   "end": 4909
+  },
+  {
+   "fact": "三十排外他一眼认出她身上那件 university jumper。",
+   "anchor": "I would recognise my university jumper anywhere.",
+   "start": 5360,
+   "end": 5408
+  },
+  {
+   "fact": "看到她的瞬间：时间静止。",
+   "anchor": "Time stands still.",
+   "start": 5552,
+   "end": 5570
+  },
+  {
+   "fact": "一个计划的边角开始进入他脑子。",
+   "anchor": "very edges of an idea",
+   "start": 5976,
+   "end": 5997
+  }
+ ]
+}
