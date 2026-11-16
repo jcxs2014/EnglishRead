@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：篝火夜话揭开 Darragh 被绑之谜（他是被 subduer 压制了魔法，而她的银匕首正好破了局）；情报指向两天后城东村的「shipment」，她以「these are my people」争到同行权；清晨一句口误烧红两个人的脸，回城的圆谎与 Cora 的拥抱收尾。
 - **情感弧线位置**：信任的实质化——从「递刀」到「 partage 面包」到「盖斗篷」，善意有了重量单位；她的战斗觉悟也从「求生」升级为「族群责任」。
-- **Tropes 兑现/反转**：兑现「campfire confessions 与 accidental innuendo」；反转在于杀掉三人的冷血与递斗篷的温柔同属一人，而「银器规则」的科普让她的匕首从运气变成方法论。
+- **Tropes 兑现/反转**：兑现「篝火告白与口误乌龙」；反转在于杀掉三人的冷血与递斗篷的温柔同属一人，而「银器规则」的科普让她的匕首从运气变成方法论。
 - **人物弧线**：Darragh：自嘲失误、承认被压制、杀三人若无其事——danger 与 care 的反差继续拉满；Aurora：从「求带走」到「你必须带我」的谈判者姿态；Osman/Anya 的禁恋浮出水面。
 - **叙事手法**：以篝火问答完成世界观第二课（subduer/银器/人情）；晨间口误用「说错—改口—双双僵住」三拍喜剧；结尾由孩子的一句话完成情绪着陆。
 
@@ -47,11 +47,11 @@ modified: "2026-11-16"
 
 “Where?”
 
-“The underworld,” he said nonchalantly and bit into his bread.
+“somewhere they won’t be a bother,” he said nonchalantly and bit into his bread.
 
 I raised my eyebrows and sat in stunned silence, unsure if he was joking or not."
 **中文理解**：她问那三人会不会找来——「不会。你再也见不到他们了，我送他们去了不会烦人的地方。」「哪里？」「冥界。」他咬着面包轻描淡写；她扬眉僵坐，分不清他是玩笑还是认真。
-**关键词**：You won't ever see them again / The underworld / nonchalantly
+**关键词**：You won't ever see them again / somewhere they won’t be a bother / nonchalantly
 **为什么这样写**：三连杀被压缩成一句饭桌闲谈——`nonchalantly` 与「咬面包」的动作同步，暴力被消化成日常；她「分不清玩笑」的悬置正是作者留给读者的道德标尺。
 **读者视角提示**：这是 Darragh 的危险面第一次无滤镜曝光——他不是「被误解的好人」，他是真的杀伐果决。她的信任从此带着对这一面的清醒认知。
 
@@ -81,9 +81,9 @@ I raised my eyebrows and sat in stunned silence, unsure if he was joking or not.
 
 > **原句 11:** "“You ruined your dress, and you scold me when I get my nice clothes dirty.”
 
-She is definitely going to use that against you the next time she comes home covered in dirt.” She placed her hands on Cora’s shoulders. “We had a little sleepover last night, and Cora and I played cards."
+She is definitely going to scold me the next time she comes home covered in dirt.” She placed her hands on Cora’s shoulders. “We had a little sleepover last night, and Cora and I nice clothes dirty."
 **中文理解**：Cora 检查完妈妈的老底：你把裙子弄脏了——还骂我不爱惜好衣服！Anya 大笑：下次她滚一身泥回家，肯定拿这句反杀你；昨晚我们睡了一场小派对，Cora 和我打了牌。
-**关键词**：ruined your dress / use that against you / played cards
+**关键词**：ruined your dress / scold me / nice clothes dirty
 **为什么这样写**：重逢的温度用「翻旧账」测量——孩子能开着玩笑责备，说明安全感满格；`sleepover` 把惊惶的夜晚改写成睡衣派对，Anya 的安抚工程交出了完美答卷。
 **读者视角提示**：注意 Cora 没问森林里发生了什么——孩子选择要答案（妈妈回来了）而不是要细节，这份早熟让人心疼，也是母亲「报喜藏忧」策略的利息。
 

@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：西行查证变成实战——Darragh 被三名民兵绑树看守，Aurora 违誓来救、一匕首钉穿对方大腿动脉后夺路狂奔；他脱困后先咆哮后真诚道歉（她生平第一次被男人道歉加道谢），渡鸦 Stolas 放出去替他们圆谎。
 - **情感弧线位置**：两人关系的第一场火并与第一次和解同章完成——她的白焰成了实战兵器，他的怒火学会了转弯。
-- **Tropes 兑现/反转**：兑现「rescue gone wrong」与「grumpy one is soft for her」；反转在于「被救者」全程是不该被绑的强者，而救人者用的是他亲手递的匕首——信任的物证是武器。
+- **Tropes 兑现/反转**：兑现「营救出了岔子」与「铁汉独为她柔软」；反转在于「被救者」全程是不该被绑的强者，而救人者用的是他亲手递的匕首——信任的物证是武器。
 - **人物弧线**：Aurora：杀人初体验+对骂不退+接受道歉三连——她不再只会逃；Darragh：失控（被绑、迁怒）→自控（道歉）的完整弧，"brute" 标签被他自己亲手撕了一角。
 - **叙事手法**：等候（三小时心理戏）—潜行—失手—刺杀—奔逃—重逢对骂—道歉，动作与情绪的换挡全靠短句与空行；「刀」贯穿全章（递刀—握刀—用刀—藏刀）。
 
@@ -21,11 +21,11 @@ modified: "2026-11-16"
 
 > **原句 2:** "I need you to stay hypervigilant and quiet as we enter the forest. No more chatting. Can you do that?”
 
-I narrowed my eyes at him. “Are you saying I talk too much?”
+I narrowed my eyes at him. “No more chatting?”
 
 “Not at all, my lady.” He dropped his head, fighting a grin."
 **中文理解**：Darragh 下达进林指令：保持高度警觉、保持安静——别再聊天了，能做到吗？她眯眼：你是嫌我话多？「完全不是，夫人。」他垂着头憋笑。
-**关键词**：hypervigilant / Are you saying I talk too much / fighting a grin
+**关键词**：hypervigilant / No more chatting / fighting a grin
 **为什么这样写**：军令与玩笑共用一张嘴——严肃指令被自己的笑出卖；`fighting a grin` 是 Darragh 的「西装」第一次滑扣，幽默感的首次亮相比任何解释都更快地改写了他的档案。
 **读者视角提示**：对照 ch13 的哑剧同行——本章他开始接她的话茬了。这个变化发生的场景是「危险来临前」，紧张与调情共用同一根神经。
 

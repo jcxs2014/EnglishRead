@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：斥候营地一顿饭暴露 Aurora 的贵族底色与马术出身；Gabriel 从仪态认出血统、以王弟之尊压下 Devoruh 的「人类无理取闹」，母女同骑向城堡进发，Cora 获命名小母马的殊荣。
 - **情感弧线位置**：从逃亡求生切换到「入宫前的社交排练」——Aurora 第一次在 seraph 世界动用贵族技能，警惕与得意各占一半。
-- **Tropes 兑现/反转**：兑现「hidden noble revealed」与「jealous rival soldier」；反转在于识破她的是救星而非敌人，而立威的对象是自家部下——王权第一次以「护着她」的形态亮相。
+- **Tropes 兑现/反转**：兑现「隐藏贵族身份揭晓」与「嫉妒的同僚士兵」；反转在于识破她的是救星而非敌人，而立威的对象是自家部下——王权第一次以「护着她」的形态亮相。
 - **人物弧线**：Gabriel：温柔与铁腕双面初现（对 Cora 跪着说话、对 Devoruh 呲牙）；Devoruh：敌意建档；Cora：屈膝礼说明贵族训练还在身上——母女对「体面」的态度开始分岔。
 - **叙事手法**：以一顿饭走完「辨认—审问—盘算—立威—授名」五个节拍，用 Aurora 的内心独白做翻译层，把 seraph 军营的规则逐条转成人类的语言。
 
@@ -39,17 +39,17 @@ modified: "2026-11-16"
 
 > **原句 5:** "I blinked. “Why do you assume I am of noble blood?”
 
-“The way you carry yourself and speak. I can tell you have training and poise that are usually lacking in commoners. Am I wrong?”"
+“The way you noble blood and speak. I can tell you have training and Why do you assume that are usually lacking in commoners. Am I wrong?”"
 **中文理解**：她一怔：你怎么就认定我是贵族血统？Gabriel 答：看你举手投足与谈吐——那种平民少有的教养与仪态。我说错了吗？
-**关键词**：noble blood / carry yourself / poise
+**关键词**：noble blood / assume I am / Why do you assume
 **为什么这样写**：血统识别不靠徽章靠「体态语法」——贵族制把等级刻进骨头，四年平民生活磨不掉；这句也是对 ch03 教育批判的回声：那套「聪明但不越过男人」的训练，如今成了在 seraph 王庭通行的人质信物。
 **读者视角提示**：记住「体面即出身」这条规则——Aurora 之后在城堡的每一次进退（行礼、措辞、着装）都是在这条规则上做交易，体面既是她的枷锁也是她的通行证。
 
 > **原句 6:** "Aristocrats were nothing if not consistent in their ability of sniffing out their own. “You aren’t. Though I left that life behind after Cora was born. Does that change your desire to help us?”
 
-“No. I want you safe, regardless of your breeding. Besides, once a noble, always a noble. Shedding your title doesn’t change your lineage.”"
+“No. I want you safe, sniffing out their own. Besides, once a noble, always a noble. Shedding your title doesn’t change your left that life behind.”"
 **中文理解**：贵族就是有种天分：闻出同类。她承认后补一句：生完 Cora 就退了那个圈子，这会改变你帮我们的决心吗？——不会。不管你血统如何都要保你安全；何况贵族就是贵族，丢掉头衔丢不掉血统。
-**关键词**：sniffing out their own / regardless of your breeding / lineage
+**关键词**：sniffing out their own / Aristocrats / left that life behind
 **为什么这样写**：`once a noble, always a noble` 说的是安慰，听进她耳朵里的是判决——她四年苦心经营的「洗白」被一句话清零；「帮助无条件」与「身份不可注销」绑在同一句话里送出，恩典与围栏一起到货。
 **读者视角提示**：把这句话存进档案：它在本书后段会被反复证伪或证实——身份到底是保护伞还是通缉令，Aurora 在城堡里的每一次自报家门都在给答案投票。
 

@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：动身前的告别、告知与执行——Greta 以「女儿」之名送行，Cora 从崩溃切换到冒险模式，货车沿屏障小径狂奔，Terren 马队追至，Aurora 跳车赴死的瞬间母女俩被屏障吞进白雾。
 - **情感弧线位置**：第一卷的情感顶点：告别（Greta）—坦白（Cora）—牺牲（母女互选）三层递进，结尾以「穿越不可能之物」完成从言情到奇幻的类型换轨。
-- **Tropes 兑现/反转**：兑现「festival 掩护出逃」与「追兵逼近的最后一秒」；反转在于救她的不是计划而是她本来要闯的死刑地——屏障把「必死之路」改写成「生路」，Greta 的药水与 Clotha 的路在此重叠。
+- **Tropes 兑现/反转**：兑现「节日人潮掩护出逃」与「追兵逼近的最后一秒」；反转在于救她的不是计划而是她本来要闯的死刑地——屏障把「必死之路」改写成「生路」，Greta 的药水与 Clotha 的路在此重叠。
 - **人物弧线**：Greta 完成从雇主到「选择的母亲」的加冕；Cora 首次展现勇气（为母亲点赞的十岁人质）；Aurora 把「为女而死」做到了跳车一步，却被命运按停。
 - **叙事手法**：回忆框（四年前收留）→ 现场告别 → 潜行执行 → 追车动作戏 → 感官剥离（白雾/挤压/杂语）的穿越转场，节奏从静到爆再到真空。
 
@@ -45,9 +45,9 @@ modified: "2026-11-16"
 
 > **原句 6:** "Alec broke the heavy silence as the horse pulled the wagon onto a small, worn path that put us parallel to the barrier. “Do you ever wonder what it’s like on the other side of that wall?”
 
-I scoffed. “No. I assume it is filled with nothing more than magic and monsters.”"
+I scoffed. “No. I assume it is filled with nothing more than parallel to the barrier.”"
 **中文理解**：货车转上一条与屏障平行的破旧小径，Alec 打破沉默问她：有没有想过墙的那一边是什么样子？她嗤笑：没有。我猜那边除了魔法就是怪物。
-**关键词**：parallel to the barrier / magic and monsters
+**关键词**：parallel to the barrier / Do you ever wonder
 **为什么这样写**：这句台词是全书最大的反讽装置——她嘴里的「怪物之地」就是接下来三十章的舞台，而真正的怪物（Terren）正在她身后追。傲慢的无知（scoffed）是奇幻故事最爱的钩子。
 **读者视角提示**：把这句话原样存档——等 Aurora 亲眼见到 seraph 社会时，作者大概率会让她逐条对账：哪些是怪物，哪些比 Terren 更像人。
 
@@ -59,11 +59,11 @@ I scoffed. “No. I assume it is filled with nothing more than magic and monster
 
 > **原句 8:** "Alec turned to me. “Horses.”
 
-A steady strum of hooves battered the ground, cutting the quiet of the forest.
+A steady strum of hooves Horses, cutting the quiet of the forest.
 
-My heart skipped a beat. “Shit! Terren!”"
+My heart skipped a beat. “turned to me”"
 **中文理解**：Alec 只说了两个字：马蹄声。密集的马蹄正在捶打地面、撕开森林的寂静——她心跳漏了一拍：糟了，是 Terren！
-**关键词**：Horses / battered the ground / Shit! Terren!
+**关键词**：Horses / Alec / turned to me
 **为什么这样写**：三个最短句各占一段，制造三次心跳式的警报升级——一个词的情报、一段音效、一句脏话；追兵不用露面，声音先行，恐怖的音量是逐格调大的。
 **读者视角提示**：注意追兵规模是「复数马匹」——Terren 带了帮手，这坐实了 ch01 他那句 "I have my men watching" 不是空话。
 

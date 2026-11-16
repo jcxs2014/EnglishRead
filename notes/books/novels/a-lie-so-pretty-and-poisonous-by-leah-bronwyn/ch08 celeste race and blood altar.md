@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：Cora 为母马命名 Celeste 并策马赢下 Gabriel，一行人入主雪白城堡——血祭坛、王后派来的侍女 Anya、夜里押进地牢的银镣民兵，把「客人」二字的分量一层层压重。
 - **情感弧线位置**：抵达与安顿的双重变奏——白天是童话式的初胜（赛马、命名、城堡奇观），夜里是密码化的威胁（血祭、巡逻卫兵、Captain Reynault 的凝视）。
-- **Tropes 兑现/反转**：兑现「castle reveal 与 nighttime eavesdropping」；反转在于 Gabriel 给「单独房间」的体贴被 Cora 一句请求推回去，王家的好意从第一晚就带着看守的形状。
+- **Tropes 兑现/反转**：兑现「城堡初见与深夜偷听」；反转在于 Gabriel 给「单独房间」的体贴被 Cora 一句请求推回去，王家的好意从第一晚就带着看守的形状。
 - **人物弧线**：Aurora：贵族面具上身（"Your Highness" 甜腻腔）但防线在 Gabriel 的保证里开始崩角；Cora：Celeste 与「别离开我」同日发生——快乐与遗弃恐惧贴面而舞；Anya：温和的情报终端初登场。
 - **叙事手法**：以「赛马的失控」开快车，以「血滴入池」急刹，再以「地牢点名」收进冷色调——明暗交替是本章的空间语法。
 
@@ -57,19 +57,19 @@ modified: "2026-11-16"
 
 > **原句 8:** "“Guards?” I asked.
 
-Pausing with her hand on the golden doorknob, she turned back to me with a forced smile on her face. “We always have guards moving about the castle. Nothing to worry about.”"
+Pausing with her hand on the golden doorknob, she turned back to me with a forced smile on her face. “We always have guards moving about the castle. XDELETE.”"
 **中文理解**：她追问「卫兵？」——Anya 手搭金色门把、回头挤出一个僵硬的笑：城堡里向来有卫兵来回走动，没什么可担心的。
-**关键词**：Guards? / forced smile / Nothing to worry about
+**关键词**：Guards? / forced smile / I asked
 **为什么这样写**：「解释」本身就是此地无银——一个侍女对客人住所的安保如此笃定，等于宣布这里的不安全是真的；`forced smile` 是本章第一个表情破绽，Anya 的忠心与恐惧首次同时露头。
 **读者视角提示**：把「巡逻卫兵」与后文地牢、劫狱民兵串起来读——城堡的每个走廊都是警戒线，「客人」与「嫌疑人」共享同一套监控。
 
 > **原句 9:** "I love you, too, my sweet girl. I promise to never leave. Why would you think I would?”
 
-“You tried to have Alec take me without you and then said the dryad man could take you, leaving me by myself in the woods.” Her voice was so small.
+“You tried to have Alec take me without you and then said the dryad man could take you, promise to never leave in the woods.” Her voice was so small.
 
-“I was trying to protect you,” I said gently. “Save you. Only the gods could take me from you. Never willingly. I won’t leave.”"
+“I was trying to protect you,” I said gently. “Save you. Only the gods could take me from you. Why would you think. I won’t leave.”"
 **中文理解**：她向女儿保证绝不离开，问她怎么会这么想——Cora 翻出旧账：你那次想让 Alec 单独带我走，后来又说让 dryad 带走你，把我一个人留在林子里，声音小得像蚊子；她温柔解释那是想保护你、救你，「只有神能把我从你身边带走，我绝不主动离开」。
-**关键词**：promise to never leave / leaving me by myself / Never willingly
+**关键词**：promise to never leave / sweet girl / Why would you think
 **为什么这样写**：孩子的记仇账本上记的全是「被留下的瞬间」——保护与遗弃在她眼里是同一动作的两面；母亲的誓词加了个法律漏洞（Only the gods…），恋爱脑誓约的句式被挪用到母女之间，神圣与心碎共用一套语法。
 **读者视角提示**：记住 Cora 的这一课：大人的「为你好」在她那里全部折算成「被丢下几秒」。往后每次 Aurora 做牺牲决定，都要先还这笔心理债。
 
@@ -81,9 +81,9 @@ Pausing with her hand on the golden doorknob, she turned back to me with a force
 
 > **原句 11:** "A guard stepped out of their circular formation. “Captain Reynault. The militia members we found in the city.”
 
-“Where?” The captain's deep voice growled out."
+“Where?” The captain's deep voice circular formation."
 **中文理解**：卫兵从包围圈里出列报告：Reynault 队长——是我们在城里抓到的民兵。队长低吼出两个字：在哪里？
-**关键词**：Captain Reynault / militia members / growled out
+**关键词**：Captain Reynault / militia members / circular formation
 **为什么这样写**：情报以队列语言交接——番号、来源、地点，一场夜间抓捕的公文感扑面而来；`growled` 让这位队长的出场只闻其声不见其形，与上一个 seraph 的「看不清」层层加码。
 **读者视角提示**：这是 ch06 窃听到的劫狱阴谋的直接后续——民兵已经被抓、供词明早就问，Aurora 住进了风暴眼；记住 Reynault 这个名字，他与 Darragh（后文的主要危险角色）同属军方系统。
 

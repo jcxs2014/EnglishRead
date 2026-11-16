@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：Gabriel 把「陪我回房」听成邀请、硬拽她入怀，被她一把推开——白焰破面具而出；晚宴上她一句话踩中「angheal 幼崽濒危」的雷区，国王撒酒后提前散席；出征前夜的第二个吻，她这次没有推。
 - **情感弧线位置**：本章是「吸引 vs 警觉」的正面对撞——推开与应允在同一天发生，她的身体和策略开始分家。
-- **Tropes 兑现/反转**：兑现「misunderstanding 拉扯」与「dinner faux pas」；反转在于踩雷的内容是「生孩子」——她以为冒犯的是礼仪，实际刺中的是种族灭绝级的隐痛。
+- **Tropes 兑现/反转**：兑现「误会拉扯」与「晚宴失言」；反转在于踩雷的内容是「生孩子」——她以为冒犯的是礼仪，实际刺中的是种族灭绝级的隐痛。
 - **人物弧线**：Aurora：白焰虽被按回，力量被自己确认（推得动王弟）；Gabriel：欲望的自控力被两次验证（一次失控、一次请求成功）；国王：酗酒的种族怨恨当众发作；Cora：与新朋友的世界线展开。
 - **叙事手法**：日夜双场结构——白日的反抗与夜晚的沉沦互为镜像；餐桌戏用「一句错话引爆满室死寂」做戏剧核，以账目式的自我清算收章。
 
@@ -27,9 +27,9 @@ modified: "2026-11-16"
 
 > **原句 3:** "My brows knitted together. I slid my palms against Gabriel’s chest, and I pushed against him with a strength I didn’t know I had buried within me.
 
-He released me at once, and I stumbled backward. His jaw dropped, and his eyes widened."
+He released me at once, and I buried within me. slid my palms, and his eyes widened."
 **中文理解**：她眉心拧紧，双掌抵住 Gabriel 的胸膛，用一股自己都不知道埋在身体里的力气推开他——他立刻松手，她踉跄后退；他下巴掉下来，眼睛瞪圆。
-**关键词**：a strength I didn’t know / stumbled backward / His jaw dropped
+**关键词**：a strength I didn’t know / buried within me / slid my palms
 **为什么这样写**：推搡写成两人同惊——她惊于自己的力气，他惊于居然被推；力量从「不知道自己有」到「用出来」只隔一个瞬间，这是全书武力线的第一颗种子（比任何剑术都早）。
 **读者视角提示**：注意他的「立刻松手」——Gabriel 的可取之处在边界感仍然在线：被推开的瞬间选择了尊重。这条底线是本章他还能留在「好人区」的唯一理由。
 
@@ -59,9 +59,9 @@ He released me at once, and I stumbled backward. His jaw dropped, and his eyes w
 
 > **原句 8:** "“Gabriel, I am sorry about today,” I sputtered out. “I offended you earlier and made everyone upset this evening with talk about younglings. I know I messed up, but please don’t kick us out. I⁠—”
 
-“Rory!” He stepped toward me and cupped his hand to my cheek. Lapis-blue eyes searched mine. “What are you talking about? What happened earlier was a misunderstanding. We would never kick you out of the castle. You have done nothing wrong.”"
+“Rory!” He stepped toward me and cupped his hand to my cheek. Lapis-blue eyes searched mine. “What are you talking about? What happened earlier was a misunderstanding. We would never kick you out of the castle. offended you earlier.”"
 **中文理解**：走廊里她抢先认错，语无伦次：今天的事对不起——下午冒犯了你，晚上又因幼崽话题搅了宴席，我知道我搞砸了，求你别赶我们出去，我——他一声 "Rory!" 截住她，捧起她的脸：你在说什么？那是误会，我们绝不会赶你出城堡，你什么都没做错。
-**关键词**：sputtered out / don’t kick us out / You have done nothing wrong
+**关键词**：sputtered out / don’t kick us out / offended you earlier
 **为什么这样写**：她的道歉清单与他的赦免清单错位对答——她按 Edenalee 的罪罚逻辑列出「罪状」，他按 seraph 的规则逐条勾销；`I⁠—` 被截断的那一刻，两套文化对同一行为的定性差异完成舞台化。
 **读者视角提示**：U+2060 提示：引语中的 "I⁠—" 沿用原文隐藏字符。把「你们那里有罪、我们这里无罪」的对照记下——两套法理的裂缝是 Aurora 后续所有行动的合法空间。
 

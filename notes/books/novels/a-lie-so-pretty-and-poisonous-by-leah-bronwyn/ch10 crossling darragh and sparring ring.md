@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：王座厅余波未平——全名之谜解开（行李袋内襟）、未遂之吻被军情打断，Gabriel 边授课边引荐新 chaperone：擂台上一挑二的赤膊卫队长 Darragh，一个「从不可信」的 crossling。
 - **情感弧线位置**：安全感的蜜月期结束——Gabriel 今夜出征，protective 的手即将换成监视的眼睛；Aurora 的策略从「依赖」切换到「独自用面具挖情报」。
-- **Tropes 兑现/反转**：兑现「interruption trope（吻被打断）」与「forbidden bloodline」；反转在于种姓课的授课者本身就是既得利益者，而他保护的「异类」恰好是本书女主。
+- **Tropes 兑现/反转**：兑现「吻被打断的经典桥段」与「禁断血统」；反转在于种姓课的授课者本身就是既得利益者，而他保护的「异类」恰好是本书女主。
 - **人物弧线**：Gabriel：求信任的甜蜜与阶级优越感同框输出；Darragh：以「一打二完胜+怨气 babysit」完成反差出场；Aurora：本能一缩的旧创伤被两个男人同时看见——她的过去第一次在异界泄露。
 - **叙事手法**：室内戏（走廊—擂台—马厩）三级递进，信息密度逐层升高；结尾以「花园独白」把整章的听课笔记转成行动纲领。
 
@@ -29,9 +29,9 @@ modified: "2026-11-16"
 
 Goddess, I hope he doesn't try anything.
 
-“Let me kiss you,” he whispered as he lowered his face to mine."
+“tucked a loose strand,” he whispered as he lowered his face to mine."
 **中文理解**：他把她一缕散发别到耳后，饿狼般的目光落在她唇上——这种「饿」她一生见过太多次。内心哀嚎：女神啊，别让他乱来。他俯身低语：让我吻你。
-**关键词**：landed hungrily / recognized that hunger / Let me kiss you
+**关键词**：landed hungrily / recognized that hunger / tucked a loose strand
 **为什么这样写**：欲望被写成猎食语法（landed hungrily），而她的第一反应是「识别」而非「心动」——性张力的场面下铺着一层创伤解码；请求句式（Let me）与 Terren 式的强占有别的温度差，但「有别的温度差」不等于安全。
 **读者视角提示**：这是 Aurora 第一次面对「善意男人的欲望」——本章她半推半就、被打断救场。她会在心里为这场未遂反复记账，Gabriel 的温柔账面从此多了一笔利息。
 
@@ -55,9 +55,9 @@ Goddess, I hope he doesn't try anything.
 
 > **原句 7:** "“If he can't be trusted, how did he get such a high-ranking position?”
 
-Gabriel's jaw ticked. “Because he is the nephew of Queen Mollah. His father is her brother.”"
+Gabriel's jaw ticked. “Because he is the can’t be trusted. His father is her brother.”"
 **中文理解**：她追问：既然不可信，怎么当上这么高的职位？Gabriel 咬肌一跳：因为他是王后 Mollah 的侄子——他父亲是王后的兄弟。
-**关键词**：high-ranking position / nephew of Queen Mollah
+**关键词**：high-ranking position / can’t be trusted
 **为什么这样写**：反问句替读者把矛盾钉在墙上——不可信者居高位，答案两个字：裙带；`jaw ticked` 显示 Gabriel 对这个答案同样憋气，制度性荒谬连体制内的人都咽不下去。
 **读者视角提示**：把「Darragh=王后之侄」与「国王声称完全掌控他」并置——王后系与王权系对这个危险人物的共同看管，本身就是一桩政治安排，Darragh 是两股权力的交叉点。
 

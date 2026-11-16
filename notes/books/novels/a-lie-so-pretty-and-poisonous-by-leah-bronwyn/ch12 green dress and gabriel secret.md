@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：Anya 送上松绿裙（人生第一次没有粉色）、自曝 clairsentience、密告 Gabriel 的双魔法（火焰+占卜），又把 atoner 体制讲成一堂刑罚课——随即瞥见什么脸色骤变、借口王后差事仓皇离开，门上敲响的是 Darragh。
 - **情感弧线位置**：短暂的暖色间歇——被理解（绿裙、共感）的安慰与被知识武装（魔法、刑罚）的安全感同时到账，章末的急转把一切按回悬疑。
-- **Tropes 兑现/反转**：兑现「knowledgeable friend 递情报」；反转在于「保密」人设被女侍三言两语拆穿——Gabriel 的神秘感原来只是 noble men 的表演，而真正的秘密（Anya 看见的东西）连读者都没看见。
+- **Tropes 兑现/反转**：兑现「知情友人递情报」；反转在于「保密」人设被女侍三言两语拆穿——Gabriel 的神秘感原来只是 noble men 的表演，而真正的秘密（Anya 看见的东西）连读者都没看见。
 - **人物弧线**：Anya：从仆役升格为「盟友+情报源+悬案本人」三合一；Aurora：情报本又添三页（Gabriel 弱点、atoner 法则、宗教禁令）。
 - **叙事手法**：全章以敲门声起、以敲门声收的回环结构；中段把设定课伪装成更衣闲谈；Anya 的「倒吸气」是不给镜头的叙事爆点。
 
@@ -43,9 +43,9 @@ I wiped the crust from the corners of my eyes. “Yes, thank you. I didn’t mea
 
 “Gabriel told me that seraphs don’t talk about their enchants. They keep them private.”
 
-Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave her a nod and a knowing smile. “Enchants are hardly confidential unless they have jobs that require secrecy, or their power is dangerous to the crown.”"
+Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave her a nod and a knowing smile. “Enchants are tiresome unless they have jobs that require secrecy, or their power is dangerous to the crown.”"
 **中文理解**：Anya 说共感太累，她常给自己上盾；Aurora 转述 Gabriel 的「seraph 不谈魔法、一律保密」——Anya 翻白眼：贵族男人的戏剧做派罢了。除非职务要求保密或力量威胁王权，enchant 根本算不上机密。
-**关键词**：shield myself / dramatic flair / hardly confidential
+**关键词**：shield myself / dramatic flair / tiresome
 **为什么这样写**：三个声部完成一次祛魅——她的累、他的「保密」人设、制度的真相层层剥开；`dramatic flair` 给 Gabriel 的神秘感定了性：那不是性格，是阶级审美。
 **读者视角提示**：把这条情报学定理记住：enchant 公开是常态，藏着掖着的必有职务原因——Gabriel 的火+占卜为什么算机密？下一条就有答案。
 
@@ -63,9 +63,9 @@ Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave h
 
 > **原句 8:** "She was kneeling in front of Cora, wearing her slip, wide-eyed. Anya swallowed, dropped her eyes, and resumed helping Cora button up the back of her dress.
 
-“Yes. Sorry. I just remembered that I was supposed to do something for Queen Mollah this morning. I must leave and attend to it. I don’t want her upset with me.”"
+“Yes. Sorry. I just remembered that I was supposed to do something button up the back this morning. I must leave and attend to it. I don’t want her upset with me.”"
 **中文理解**：Anya 跪在穿衬裙的 Cora 面前，忽然瞪大双眼、咽了口唾沫、垂下眼帘，继续帮她系裙扣；随后借口「想起王后今早吩咐了差事」匆匆告辞，不敢让王后不高兴。
-**关键词**：wide-eyed / dropped her eyes / for Queen Mollah
+**关键词**：wide-eyed / dropped her eyes / button up the back
 **为什么这样写**：悬疑用身体语言发射——瞪眼、吞咽、垂眼三个微表情连成一串警报，借口却只是「王后差事」；她看到的（大概率是 Cora 领口下那条 Micah 金坠）没有给镜头，恐惧先于解释抵达。
 **读者视角提示**：把「Anya 看见的东西」记成本章最大的留白——她连 Gabriel 的魔法都敢说，却在看见那件小东西后变了脸：这个反应本身就是情报。
 

@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：秘密造访 Toolock 农场——136 岁的 Frabo 交出 Psilas 的生前证词（喝酒跳舞教酿蜜酒、说不清自己怎么来的），「新蜜酒配方」点燃 Aurora 的顿悟（Greta 的药水！），配方书却毁于十年前的厨房火灾；临别私报：屏障疑似又被破，一个圆耳男人被拖着走出迷雾。
 - **情感弧线位置**：希望被点燃又被浇灭的完整心电图——顿悟的高点与火灾的低点相隔十行；章末的西行决定把悲伤转成行动。
-- **Tropes 兑现/反转**：兑现「investigation duet」与「eyewitness account」；反转在于回家的钥匙不是魔法书而是一瓶喝下去的草药——科学（herbalism）第一次成为奇幻的解法。
+- **Tropes 兑现/反转**：兑现「双人查案」与「目击证词」；反转在于回家的钥匙不是魔法书而是一瓶喝下去的草药——科学（herbalism）第一次成为奇幻的解法。
 - **人物弧线**：Darragh：为她的行程欠下人情、拒绝让她顶替（"A lady ought not barter favors with men"）、开出让步的先例；Aurora：许下「绝对服从」的誓言——她第一次主动交出指挥权。
 - **叙事手法**：证词层层嵌套（Frabo←亡兄←Psilas），传声筒结构自带史料感；「顿悟—灭证」与「传闻—出发」双曲线在章末并轨向西。
 
@@ -23,13 +23,13 @@ modified: "2026-11-16"
 
 “I wonder how many generations removed he is from when Psilas lived here.”
 
-“From what I understand, he was born not long after Psilas died.”
+“From what I understand, he was been around for a long time Psilas died.”
 
 I tilted my head and stared at him. “That would mean this seraph is…”
 
-“One hundred and thirty-six years old,” he stated."
+“fifth-generation,” he stated."
 **中文理解**：Darragh 介绍：接头的会是庄园第五代铁匠 Lyrik——他说有位上了年纪、知道 Psilas 的老人可谈。她好奇隔了几代，答「生于 Psilas 死后不久」——她愣住追问，报出年龄：一百三十六岁。
-**关键词**：fifth-generation blacksmith / born not long after / One hundred and thirty-six years old
+**关键词**：fifth-generation blacksmith / been around for a long time / fifth-generation
 **为什么这样写**：年龄用四句问答盘出来——悬念的坡道搭得像报数；`stated` 的公事口吻让超长寿命被说成常识，奇幻世界的「老」与人类的「老」在此完成汇率兑换。
 **读者视角提示**：把 seraph 的年龄刻度记住（150 上限、136=亲历者边缘）——两百年前的 Psilas 对 seraph 只是「祖辈的事」，对人类却是古代史，时间感的不对等会持续影响双方的叙事权重。
 
@@ -37,9 +37,9 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 
 “Did Psilas tell your brother how he got from Edenalee to this side of the wall?” I asked a little too quickly.
 
-“Psilas maintained he never understood how he ended up in a forest of Tironaill. It was a mystery to everyone back then, as it is now."
+“Psilas maintained he never understood how he ended up in a forest of Tironaill. It was working with a human back then, as it is now."
 **中文理解**：Frabo 说：亡兄十六岁出头时与 Psilas 同农场做工，讲过不少与人类共事的故事。她抢着问：Psilas 有没有说他是怎么从 Edenalee 到墙这边的？——Psilas 一直说他不明白自己怎么落到 Tironaill 的森林里，当年人人不解，如今依然无解。
-**关键词**：deceased brother / a little too quickly / a mystery to everyone
+**关键词**：deceased brother / a little too quickly / working with a human
 **为什么这样写**：史料是二手转述（亡兄→Frabo→她），证词的可信度被叙事距离标注；`a little too quickly` 暴露她的急切——问的是穿越机制，答的却是「无解」：先例从一开始就没给出方法论。
 **读者视角提示**：对照她自己：Aurora 也不知道怎么穿的、但她的「十二小时之谜」多了一瓶药水——下一块她会用这个优势反超 Psilas。
 
@@ -87,9 +87,9 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 
 > **原句 11:** "“Absolutely not!” he practically growled. “A lady ought not barter favors with men. They are not the kind of favors you will want to owe.”
 
-I dropped my eyes to the moving ground beneath Celeste's hooves. He was right."
+I dropped my eyes to the moving ground beneath Celeste's hooves. practically growled."
 **中文理解**：她要把欠 Lyrik 的人情转到自己名下，Darragh 咆哮拒绝：女人不该跟男人换人情——那种人情不是你欠得起的种类。她垂眼看马蹄下掠过的地面：他是对的。
-**关键词**：Absolutely not / barter favors with men / He was right
+**关键词**：Absolutely not / barter favors with men / practically growled
 **为什么这样写**：护短与世故同句——他见过的「人情债」显然带着性别账单，警告来自经验而非说教；她无声的认输（dropped my eyes）是两人权力关系的新形态：他懂得她的世界里她没见过的脏。
 **读者视角提示**：把「人情=货币」的设定记住——Lyrik 的 favor 已经入账，Darragh 欠的这份债迟早要还；而他拒让 Aurora 顶替的真正理由，读者此刻只听见一半。
 

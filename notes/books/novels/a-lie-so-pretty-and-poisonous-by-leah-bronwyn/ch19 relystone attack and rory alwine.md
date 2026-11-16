@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：查 shipment 之旅在溪边酿成四名 seraph 的围袭——她啐脸反击、被夺声被摁倒，Darragh 的影子与银刀三杀救场；他跪地捧起她的脸第一次唤出「Rory」，以「At no point is this your fault」免除她一生的受害者有罪论，并许教她战斗。
 - **情感弧线位置**：全书最深的创伤现场与最彻底的翻案同章发生——白焰烧成实实在在的怒吼，她与 Darragh 的「我们」第一次成立。
-- **Tropes 兑现/反转**：兑现「rescue at the last second」与「healing the heroine's blame」；反转在于救人者是被全城恐惧的 killer，而他的第一步不是杀伐而是把她的自责原路退还。
+- **Tropes 兑现/反转**：兑现「千钧一发的救援」与「替女主卸下自责」；反转在于救人者是被全城恐惧的 killer，而他的第一步不是杀伐而是把她的自责原路退还。
 - **人物弧线**：Aurora：从「向女神求救」到「要学打架」——无力感的清算日；Darragh：brute/protector 的两幅面孔同时亮到极致，昵称「Rory Alwine」被全名启用（郑重版）。
 - **叙事手法**：此章含未遂性侵场段——引语选取克制、聚焦反击与救援的因果，而非伤害本身；母鹿与幼鹿的「警觉逃散」是袭击的动物界预告，暗鸟（Stolas）则是无言之证的调度者。
 
@@ -33,11 +33,11 @@ modified: "2026-11-16"
 
 > **原句 4:** "…But take this.” He unsheathed one of his silver daggers and handed it, hilt first, to me. “You certainly didn't hesitate to use it last time.”
 
-“Pure luck.” I had never actually used a weapon before that moment, and I hoped to never have to again.
+“unsheathed one of his silver daggers.” I had never actually used a weapon before that moment, and I hoped to never have to again.
 
-“Instinct,” he corrected. “Always lean into it."
+“Instinct,” he corrected. “didn’t hesitate."
 **中文理解**：他把银匕首刀柄朝前递来：拿上这个——上次你用它可没犹豫。她自嘲那是纯粹运气：之前从没用过武器，希望再也不要用。他纠正：「是直觉。永远顺着直觉走。」
-**关键词**：hilt first / Pure luck / Always lean into it
+**关键词**：hilt first / unsheathed one of his silver daggers / didn’t hesitate
 **为什么这样写**：第二次交刀比第一次多了一句「武学入门」——`hilt first`（柄朝对方）是授枪礼的完整礼仪；「运气→直觉」的一字之争是他给她的第一份武力信心。
 **读者视角提示**：「lean into instinct」是本章她最后保命的伏笔（那块石头）——记住这个词，作者的每一次「没时间想」都是直觉的胜利。
 
@@ -49,11 +49,11 @@ modified: "2026-11-16"
 
 > **原句 6:** "Four seraph men stood before me, all with wolfish grins. A man with a scar across his cheek, a redhead, a curly-haired brunette, and a seraph who looked like he was barely into adulthood. All strapped with daggers and swords. My heart froze in place.
 
-“Our lucky day.”
+“barely into adulthood.”
 
 The redhead lightly slapped the shoulder of the brunette next to him and pointed at me. “Hey, ain't she that pet human the city is all abuzz about?”"
 **中文理解**：四个持刀剑的 seraph 满脸狼笑站在她面前——疤脸、红发、卷发、还有一个刚成年的。心跳冻在原地。「今天运气好。」红发拍拍同伴肩膀指向她：嘿，她不就是城里传疯了的那只人类宠物？
-**关键词**：wolfish grins / Our lucky day / pet human
+**关键词**：wolfish grins / barely into adulthood / pet human
 **为什么这样写**：四个人的外貌清单像通缉令倒着发——读者先记住施害者的脸；`pet human` 的称呼把种族歧视与物化焊死在一句话里，她此前积累的所有「第一次被看见」在此被一次击穿。
 **读者视角提示**：注意「城里 all abuzz」——她的奇观化传播（ch13 图书馆、ch14 衣坊）已经出了城墙，名声在此刻成了危险品。
 
@@ -61,9 +61,9 @@ The redhead lightly slapped the shoulder of the brunette next to him and pointed
 
 His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
-“Darra-“ The scream that left my throat was cut off when the young seraph flicked his wrist, rendering me voiceless."
+“Darra-“ The scream that left my throat was cut off when the young seraph flicked his wrist, landing it in his eyes."
 **中文理解**：压在礼仪面具下的白焰轰然复燃——她朝红发啐中双眼。对方松手退开骂了句脏话；她喊 Darragh 名字的尖叫被年轻 seraph 一挥腕掐断——她失声了。
-**关键词**：blazed to life / I spat / rendering me voiceless
+**关键词**：blazed to life / I spat / landing it in his eyes
 **为什么这样写**：反抗与剥夺在同一节拍里对撞——吐口水是她的第一次进攻，夺声是对方的第一次技术镇压；`flicked his wrist` 的轻描淡写与「voiceless」的重量形成最残忍的反差。
 **读者视角提示**：记住「被夺走声音」这个意象的复现——ch01 她咬舌咽蔑视、ch07 咬住舌头、此处连喊救命的能力都被夺走；她与「voice」的战争是全书的暗线，下一块的怒吼将是它的总爆发。
 
@@ -101,9 +101,9 @@ His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
 “You would do that?” My small voice still shook from the rage and fear moving through me in waves.
 
-“I would consider it an honor. You are not weak, Rory. You just need someone to bolster your natural abilities and teach you how to use your body as a weapon.”"
+“I would consider it throw a good punch. You are not weak, Rory. You just need someone to bolster your natural abilities and teach you how to use your body as a weapon.”"
 **中文理解**：他先承认现实：你没有 enchant 是真的——但我可以教你打架：至少教你一记重拳、教你把混蛋从身上翻下去。她小声问：你愿意？——「我很荣幸。你不弱，Rory。你只是需要有人帮你把天生的能力加固，教你把身体当武器用。」
-**关键词**：teach you how to fight / an honor / body as a weapon
+**关键词**：teach you how to fight / throw a good punch / body as a weapon
 **为什么这样写**：安慰的句式是「先给现实、再给路径」——不撒谎、不封顶；`body as a weapon` 把她刚被当作「猎物」的身体重新定义为「兵器」，一词的翻转抵过千言。
 **读者视角提示**：这是全书训练线的开工令——她的力量不会来自魔法（人类没有），会来自身体与头脑。记住这个选择：作者把「弱」的定义改写成了「未训练」。
 
@@ -115,9 +115,9 @@ His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
 > **原句 15:** "“Don't be silly. He's a big enough horse. We can ride him together.”
 
-Darragh's mouth opened and then closed. He shook his head at me. “I don't want you to feel uncomfortable after what you just went through."
+Darragh's mouth opened and then closed. He shook his head at me. “I don't want you to feel big enough horse Don’t be silly."
 **中文理解**：Celeste 被偷走后，她提议别犯傻——这马够大，我们同骑回去。Darragh 张了张嘴又合上，摇头：刚经历那种事，我不想让你觉得不舒服。
-**关键词**：ride him together / uncomfortable / after what you just went through
+**关键词**：ride him together / big enough horse / Don’t be silly
 **为什么这样写**：拒绝的理由不是礼教而是「她的感受」——他把刚受创的人的舒适度置于行程效率之上；她的坚持（同骑）则是自主权的再伸张：受伤不等于失去决定权。
 **读者视角提示**：这对「同骑」的往返拉扯是两人边界感的实战演习——都在替对方考虑，最后都听对方的。健康的亲密关系的模板在这一问一答里。
 

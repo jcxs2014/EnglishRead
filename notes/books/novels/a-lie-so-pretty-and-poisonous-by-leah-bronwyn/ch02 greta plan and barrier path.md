@@ -8,7 +8,7 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：丰收节当日，Greta 亮出整套出逃计划——Alec 的货车、假证件、美人计调虎离山，但唯一的路线是沿「不可逾越」的屏障平行小径；Aurora 人生第一次向命运女神祷告，今晚动身。
 - **情感弧线位置**：从 ch01 的「被逼到墙角」进入「有了一张可执行的地图」——恐惧第一次有了形状与时刻表，期待与不安并行。
-- **Tropes 兑现/反转**：兑现「wise elder ally 布局」与「festival crowd 掩护出逃」；反转在于出逃的「帮助者」是个走私犯，而神圣不可侵犯的屏障成了逃亡路线本身——女神的答案全是歪打正着。
+- **Tropes 兑现/反转**：兑现「睿智长者布局」与「节日人潮掩护出逃」；反转在于出逃的「帮助者」是个走私犯，而神圣不可侵犯的屏障成了逃亡路线本身——女神的答案全是歪打正着。
 - **人物弧线**：Greta：从出资人升级为总指挥（压价靠威胁、侦察靠人情、路线靠胆量）；Aurora：第一次在别人替她铺路时学着把恐惧交给计划。
 - **叙事手法**：一章三段式——世界危机（歉收/失踪/神弃论）→ 计划全文（对话推进）→ 屏障神话插叙，结尾用首次祷告收束。
 
@@ -85,3 +85,6 @@ modified: "2026-11-16"
 | aflutter | 兴奋忙碌的，纷纷扬扬的 | Olinbury was aflutter with activity, readying for the Festival of Reaping. |
 | wretched | 可恶的，悲惨的 | Besides, I can’t let you and Cora go back to those wretched people. |
 | customer | 顾客，客人 | Greta hurried to the front door and locked it behind the customer. |
+
+## 一句话总结
+Greta 的出逃计划全盘摊开：Alec 的货车、假证件、美人计调虎离山，唯一路线是沿「不可逾越」的屏障平行小径——Aurora 人生第一次向命运女神祷告，今晚丰收节人潮最高峰时动身。

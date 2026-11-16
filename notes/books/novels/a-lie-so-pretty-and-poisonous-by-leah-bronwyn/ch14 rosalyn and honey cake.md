@@ -8,16 +8,16 @@ modified: "2026-11-16"
 ## 本章导航
 - **一句话概括**：全城唯一敢怼 Darragh 的裁缝 Ros 替 Aurora 配齐衣橱（她人生第一次自己选衣服），面包街上一盒奶油酥皮送给衣衫褴褛的 daemonite 幼崽、一盒蜂蜜蛋糕试探性递给 Darragh——他迟疑再三，最终把盒子搂紧。
 - **情感弧线位置**：本卷最暖的一章——购物自由（选项而非指派）与施予的双向善意同时发生，Darragh 的防备被一块蛋糕撬开一条缝。
-- **Tropes 兑现/反转**：兑现「makeover scene」与「kindness melts the beast」；反转在于改造她的不是魔法而是「有得选」，而 her 第一件自选的善举是分蛋糕给「劣等族」的孩子。
+- **Tropes 兑现/反转**：兑现「改造变装桥段」与「善意融化猛兽」；反转在于改造她的不是魔法而是「有得选」，而 her 第一件自选的善举是分蛋糕给「劣等族」的孩子。
 - **人物弧线**：Ros：Greta 的镜像位（不废话、机智、热心）；Aurora：身体形象松绑+行动力上线；Darragh：从「怕他是陷阱」到「谢谢，my lady」——礼貌的壳裂了一道缝。
 - **叙事手法**：以「他者目光」反打主角——Ros 之怼、幼崽之抢、Darragh 之迟疑，全章几乎没有她主动的心理戏，情绪全部由外部反应回声。
 
 ## 精读
 > **原句 1:** "“Welcome to my…” She lifted her eyes to Darragh, standing behind me. “Oh, the riffraff is here,” she blurted out.
 
-I was about to come to his defense and ask that we patron a less snobby merchant, but a playful smile slowly worked across her face, and I looked at Darragh to see him grin."
+I was about to come to his defense and ask that we patron a less snobby merchant, but a blurted out slowly worked across her face, and I looked at Darragh to see standing behind me."
 **中文理解**：店主 Ros 抬眼看见 Darragh， greeting 卡在半途：「哦，下等人来了。」她正要替他出头、换个不那么势利的铺子，却见对方脸上慢慢堆起顽皮的笑——再回头看 Darragh，他咧着嘴。
-**关键词**：the riffraff is here / playful smile / him grin
+**关键词**：the riffraff is here / blurted out / standing behind me
 **为什么这样写**：侮辱是暗号——「riffraff」从她嘴里说出来时是熟人间的钩子，两副笑脸瞬间完成关系定位；让 Aurora 先误判再反转，读者跟她一起上了一次当，Darragh 的「有朋友」这件事第一次有了人证。
 **读者视角提示**：记下 Ros 这个变量——全库唯一不怕 Darragh 的人。她背后是谁、凭什么不怕，这个「例外」迟早有故事。
 
@@ -35,11 +35,11 @@ I was about to come to his defense and ask that we patron a less snobby merchant
 
 > **原句 4:** "“Absolutely not. Ros, you forget yourself.”
 
-She threw him a scathing look. “Oh, quiet over there. I am talking with my new friend.”
+She threw him a scathing look. “Oh, quiet over there. I am talking with Ros.”
 
 Darragh grumbled under his breath, “Can't imagine why I don't visit more often.”"
 **中文理解**：Ros 邀她去喝酒见识城市的真乐趣，Darragh 沉声否决：绝对不行，Ros，你忘了分寸。她白眼飞回去：闭嘴，我在跟我的新朋友说话。他咕哝：难怪我不爱来。
-**关键词**：Absolutely not / you forget yourself / my new friend
+**关键词**：Absolutely not / you forget yourself / Ros
 **为什么这样写**：三句话完成一场微型权力喜剧——他管秩序、她管局面、他在自嘲中退场；`forget yourself` 对一个「从不可信」的 crossling 来说是他仅剩的身份语法（Captain 的体面），被 Ros 一句怼碎。
 **读者视角提示**：注意他反对的从不是「喝酒」而是「她跟 Ros 走」——保护欲的形状第一次从 Gabriel 式的管控里区分出来：他不解释、只拦截，而这恰恰让 Aurora 更想接受邀请。
 
@@ -63,9 +63,9 @@ Darragh grumbled under his breath, “Can't imagine why I don't visit more often
 
 > **原句 8:** "“I hope you like honey cake. You seem like a honey cake kind of guy,” I plastered on a playful grin. Darragh looked down at the box and then back at me. His left eyebrow hiked up. I shrugged. “Everyone likes sweets. Thought you might too. If you don't want it, it's alright.”
 
-I reached for the box, and he quickly pulled it close to him. “Uh…thank you. My lady.”"
+I reached for the box, and he quickly looked down at the box. “Uh…eyebrow hiked up.”"
 **中文理解**：她挂着玩笑的笑说：希望你爱蜂蜜蛋糕——你看起来就像蜂蜜蛋糕型的人。他看看盒子又看看她，左眉挑起；她耸肩：人人都爱甜的，不想要就算了。她伸手要拿回，他却一把将盒子搂紧：「呃…谢谢，my lady。」
-**关键词**：a honey cake kind of guy / pulled it close to him / thank you. My lady
+**关键词**：a honey cake kind of guy / looked down at the box / eyebrow hiked up
 **为什么这样写**：给与收回的小博弈是全章的微缩剧情——试探（挑眉）、让步（可以拿回）、扑救（搂紧），一步三折；`My lady` 的称呼在收货后才出现：他先收下善意，才肯回到礼数里，顺序本身就是态度。
 **读者视角提示**：记住这个「搂紧」——全章他唯一一次主动的动作给了蛋糕。下次他对你好时，回想这块蜂蜜蛋糕是怎么被接受的。
 
