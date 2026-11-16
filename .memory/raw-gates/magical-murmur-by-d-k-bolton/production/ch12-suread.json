@@ -1,0 +1,97 @@
+{
+ "book": "magical-murmur-by-d-k-bolton",
+ "chapter": "ch12",
+ "text": "notes/books/novels/magical-murmur-by-d-k-bolton/text/ch12_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "地窖透光——Karvey 在下面敲门等她开门（“我放弃敲了，你怎么才来”）；紧接着 Miora 的女声也在下面应答。",
+   "anchor": "“I gave up. What took you so long?”",
+   "start": 365,
+   "end": 400
+  },
+  {
+   "fact": "全员平安：Karvey、Aunt Miora、Grandma Elira、Trinity 和 gang 分踞地窖架子——Maeve 顾不上石像鬼礼节直接抱住 Karvey。",
+   "anchor": "They looked safe.",
+   "start": 876,
+   "end": 893
+  },
+  {
+   "fact": "Karvey 神色更沉：别把我们当重点——我们有更大的麻烦。",
+   "anchor": "“We’ve got big problems, Maeve.”",
+   "start": 1247,
+   "end": 1279
+  },
+  {
+   "fact": "事发回忆：Karvey 在岗一切如常，cottage 突然「从脚下塌掉」；Elira：poof 掉进地窖；Miora：地窖门从没开过，我们像地面不存在一样直接落进来；「若只是消失，为何没摔在原楼层」——也许 cottage 把他们吸进来救了（Flanky：Like it sucked us in or something）。",
+   "anchor": "nothing seemed out of the ordinary until the cottage literally dropped out from under us.",
+   "start": 1532,
+   "end": 1621
+  },
+  {
+   "fact": "Horny 抱怨石像鬼不该蹲地窖——他们属于屋脊、拱廊、壮丽之地。",
+   "anchor": "“We belong on rooflines, arches, majestic places.”",
+   "start": 2468,
+   "end": 2518
+  },
+  {
+   "fact": "Maeve 心里把 Rendel 苏醒与 Ward 消失连线。",
+   "anchor": "Was he responsible for this somehow?",
+   "start": 2844,
+   "end": 2880
+  },
+  {
+   "fact": "Trinity/Squatty 证词：事发前有阵寒意——不是风，是冰的；Maeve 联想到影子：若真是它们干的，Shadowick 这一切是不是偷袭 Stonewick 的幌子。",
+   "anchor": "There was a chill right before it happened",
+   "start": 3548,
+   "end": 3590
+  },
+  {
+   "fact": "新发现：地窖后墙一道人宽的石框开口，与墙浑然一体、像一直存在却没人见过；冷风带土腥味，灯只照进几英尺便拐弯看不见。",
+   "anchor": "“That.” I pointed to an opening in the back wall.",
+   "start": 4649,
+   "end": 4698
+  },
+  {
+   "fact": "Karvey 认得她想冒险的脸；她嘴上「没决定」；Elira 说 no——Maeve：你的 no 有时带星号，Miora 笑着作证。",
+   "anchor": "“I have been present for many bad decisions, and I know that look.”",
+   "start": 6716,
+   "end": 6783
+  },
+  {
+   "fact": "石镜对 Maeve 发亮；Karvey 提醒「你的肩膀」——影印回来了，还微微发光，仿佛被光唤醒；「我的印走了、转到 Celeste 身上了」——「Apparently not.」",
+   "anchor": "The mark was there again.",
+   "start": 8419,
+   "end": 8444
+  },
+  {
+   "fact": "长辈科普：这是 ancient 的 lumiosetch mark——但比女祭司更老，来自影子，且已完成转化（has finished transforming）。",
+   "anchor": "“Only masters of the craft know how to mark an individual like that.”",
+   "start": 9088,
+   "end": 9157
+  },
+  {
+   "fact": "全章核心：影印从未离开——不是转移，是复制；像 goblin gold 或 Wilds 的发光植物，变成了更永久的存在；「你被有意打上印记，great-granddaughter 也是——现在该接受了」。",
+   "anchor": "“It never went anywhere, Maeve. It didn’t transfer to Celeste. It duplicated from you.”",
+   "start": 9626,
+   "end": 9713
+  },
+  {
+   "fact": "镜中第一景：Stonewick 晴空、Stella 茶铺客流、学院 witch 携书帚杖走过——一切如常；Shadowick 也醒了、两村都在繁荣。",
+   "anchor": "Everything seemed…normal.",
+   "start": 10779,
+   "end": 10804
+  },
+  {
+   "fact": "异变：乌云自 Shadowick 起压到 Stonewick，吞掉晴空；Shadowick 射出一道光劈开 Stonewick 天空，Stonewick 也回敬一道光束；下方 chaos 爆发——Maeve 在「与我一同醒来的深处」意识到黑暗要来了。",
+   "anchor": "Clouds gathered over Shadowick before stretching all the way over to Stonewick.",
+   "start": 11268,
+   "end": 11347
+  },
+  {
+   "fact": "主题收束：两村分裂再不能只赖女祭司或 Malore（新名字）；关键是正向两村而来的东西——希望不能只属于一边，必须一起找；因为没有希望，魔法将不复存在。",
+   "anchor": "could no longer be blamed simply on the Priestess or Malore.",
+   "start": 11811,
+   "end": 11871
+  }
+ ]
+}
