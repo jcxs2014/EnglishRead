@@ -55,7 +55,7 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 **为什么这样写**：时间状语是全句的炸药——「before waking up」把配方与穿越焊在同一时刻线上；复刻失败为后文「配方书」的悬念预留接口。
 **读者视角提示**：注意这个因果链的暗示方向：不是「喝了蜜酒所以穿越」，而是「穿越前恰好在调东西」——作者的措辞留足了两种解释的空间，Aurora 的顿悟（下一块）只是其中一种。
 
-> **原句 6:** "“You're right. We certainly weren't making mead and dri…” I gasped. “We drank tinctures right before falling through the barrier,” I whispered to herself."
+> **原句 6:** "“You're right. We certainly weren't making mead and dri…” I gasped. “We drank tinctures right before falling through the barrier,” I whispered to myself."
 **中文理解**：她附和着说到一半突然卡住——「我们当然没在酿蜜酒还……」她倒抽一口气，压低声音对自己说：我们是坠落穿墙前，刚喝下了药水。
 **关键词**：I gasped / tinctures / right before falling through
 **为什么这样写**：顿悟被写成一次断句——话说一半自己听见了自己，`gasped` 与 `whispered to myself` 把发现演成体内地震；引语的自言自语性质让这一刻成为纯粹的私人历史节点。
