@@ -91,7 +91,7 @@ His warm eyes searched mine. “Of course, my lady.”"
 
 “Goodnight…” A smile crept out of me. “Captain.”"
 **中文理解**：楼梯口她说「谢谢」两个字不够分量。他答：不客气……Rory——嘴角上扬；她恨自己竟这么喜欢名字落在他舌上的样子：轻巧、诚实。她笑着回敬：晚安……Captain。
-**关键词**：isn’t a strong enough thing to say / You’re welcome…Rory / Goodnight…Captain
+**关键词**：isn’t a strong enough thing to say / You’re welcome…Rory / Goodnight / Captain
 **为什么这样写**：道别以「称呼的交换」完成——她给了他名字，他还她一个军衔，两人的昵称互惠正式生效；`hated how much I liked` 是本书最诚实的心动句式：享受与抵抗同账。
 **读者视角提示**：记住这三个称呼的接力（Aurora→Rory→Captain）——每一次称呼的松动都是关系的里程碑。下一章他若再叫错，就是作者在提醒你：他们又退了一步。
 
