@@ -53,7 +53,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：三句全是短陈述句，像在清点遗产——照片、日记、书，每样都是妈妈的延伸。作者不给这段配任何感叹，语气的克制本身就是纪念的形状；"I want to create" 与 "I wanted to use" 的时态一前一后，暗示计划搁了多年，只是从没对人说过。
 
-**读者视角提示**：这是 Oliver 的孤本秘密，Eden 是本章唯一的听众——言情的信任递进一般就靠这种「只对你一个人说」。书名 Lessons in Love 的「书」梗大概率回扣在这本遗物之书上。
+**读者视角提示**：这是 Oliver 的孤本秘密，Eden 是本章唯一的听众——言情的信任递进一般就靠这种「只对你一个人说」。他写的这本遗物之书就是 ch26 书店发布会上的那本——这条线会一直走到最后。
 
 > **原句 5:** "By the time we are done, the person known as Eden Miller has come into sharper focus. Like I’ve adjusted the lens of a camera, and I’m only seeing her clearly now."
 
@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：相机隐喻一石三鸟：它是 Oliver 写书计划的职业基因（妈妈是 photojournalist），是「了解=对焦」的视觉化，也暗示之前的他一直隔着镜片看人。作者把人物关系的推进写成光学动作，比直说「我更了解她了」高级得多。
 
-**读者视角提示**：相机这个意象是 Oliver 的精神徽章——他爱拍照/爱书的世界 vs 家里工地泥土的世界；后文他的书成稿之日，多半就是感情线收获之时。
+**读者视角提示**：相机这个意象是母亲留给他的职业基因（她是 photojournalist）——记录/对焦的世界 vs 家里工地泥土的世界；他的书最终在 ch26 的书店发布，两条线同晚收束。
 
 > **原句 6:** And I think I’m falling for her.
 
@@ -71,7 +71,7 @@ modified: "2026-11-15"
 
 **关键词**：falling
 
-**为什么这样写**：全章信息量最大的六个词被作者单独成段——上一段还在冷静地「调整镜头」，这一段突然交心，单句成行制造的停顿就是心跳漏拍的那半秒。它也是全章的标题句：从「crave being around her」到「falling」，男主的沦陷在本章正式官宣。
+**为什么这样写**：全章信息量最大的七个词被作者单独成段——上一段还在冷静地「调整镜头」，这一段突然交心，单句成行制造的停顿就是心跳漏拍的那半秒。它也是本章的定音句：从「crave being around her」到「falling」，男主的沦陷在本章正式官宣。
 
 **读者视角提示**：Oliver 比 Eden 先说出口（虽然只对自己说）——两人步速差从此确立。对照 ch03 里 Eden 的「can't and won't」，一个在坠、一个在防，张力就是这条时间差。
 
@@ -83,7 +83,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：作者把抓包写成原句复读——一句引语单独成块，等于把「说漏嘴」钉在墙上展示。Oliver 心里盘旋了一整章的气味（vanilla）在走神中漏出嘴，被当事人一字不差地递回来：暧昧里最致命的不是表白，是暴露。
 
-**读者视角提示**：这是 Oliver 第一次在 Eden 面前「失控输出」内心戏。气味线至此三连：ch01 的 Vanilla Chai 茶、本章早段的 hair、此刻的 cupcake——同一味道写到底，是作者给读者留的记忆锚。
+**读者视角提示**：这是 Oliver 第一次在 Eden 面前「失控输出」内心戏。气味线至此三连：ch01 的 Vanilla Chai 茶、本章早段「that scent of vanilla」的图书馆段、此刻的 cupcake——同一味道写到底，是作者给读者留的记忆锚。
 
 > **原句 8:** "“It’s true. You always smell good.” I’m not sure if it’s the dimness of this restaurant, but I could swear her face flushes a few shades deeper."
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：装作若无其事失败后，男主选择将错就错——"It's true" 是把失误转成主动进攻的经典 flirt 操作。后半句连用两个不确定（not sure / could swear）写他的观察：作者不替他确认她的脸红，让他自己猜，读者也跟着猜。
 
-**读者视角提示**：从「口误」到「承认」只隔了一句话——Oliver 的胆量在 grows。留意 Eden 没有反驳「很好闻」，只把话题往前推；两人此刻都在打明牌。
+**读者视角提示**：从「口误」到「承认」只隔了一句话——Oliver 的胆量在涨。留意 Eden 没有反驳「很好闻」，只把话题往前推；两人此刻都在打明牌。
 
 > **原句 9:** "“Do you want to change that?” The words are out of my mouth before I can regret it. I’m glad that that brings a smile to her face."
 
@@ -113,7 +113,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：她答话里带着他的全名——在言情语法里，连名带姓就是「这个人对我而言具体而特别」的宣言。作者用镜像句（You intrigue me, X / You intrigue me, Y）收章，让两人的句子互为回声，谁也不比谁多迈一步：步速差被仪式性地抹平一次。
 
-**读者视角提示**：本章以「互称全名」的对称句结束，这个句式值得期待复现——言情作者很少浪费这么工整的回文。ch05 大概率就是两人下一次见面时谁先破功。
+**读者视角提示**：本章以「互称全名」的对称句结束，这个句式值得期待复现——言情作者很少浪费这么工整的回文。ch05 先补她这一侧的承认（对闺蜜说 I like him），两人下一次同框要到 ch06。
 
 ## 本章词汇
 

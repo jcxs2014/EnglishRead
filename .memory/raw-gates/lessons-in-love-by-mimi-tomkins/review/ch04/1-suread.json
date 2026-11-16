@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch04",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch04_chap4.txt",
+ "facts": [
+  {
+   "fact": "Ben 一眼识破 Oliver 的走神，立刻要转告 Michelle。",
+   "anchor": "It’s the girl, isn’t it! Oh my god, Michelle is going to love this!",
+   "start": 909,
+   "end": 976
+  },
+  {
+   "fact": "Oliver 对 Ben 复盘 Eden：她只是不想挂科，赌注太大，谁也别想挡路。",
+   "anchor": "She just wants to not fail.",
+   "start": 1848,
+   "end": 1875
+  },
+  {
+   "fact": "第二次辅导气氛转好，两人和气收摊，随后她主动提议去校边拉面店吃饭。",
+   "anchor": "We pack up in amicable silence",
+   "start": 5689,
+   "end": 5719
+  },
+  {
+   "fact": "被问「然后呢」，Oliver 脱口说出：我想写书，而且已经在写。",
+   "anchor": "I want to write a book. I am writing a book.",
+   "start": 7999,
+   "end": 8043
+  },
+  {
+   "fact": "Oliver 交底：妈妈是摄影记者，去世时他还小。",
+   "anchor": "She was a photojournalist.",
+   "start": 8298,
+   "end": 8324
+  },
+  {
+   "fact": "拉面桌上互相交底：她是五个孩子的老大、家里第一个上大学的人。",
+   "anchor": "I learn that she’s the oldest of five",
+   "start": 8800,
+   "end": 8837
+  },
+  {
+   "fact": "Oliver 走神把「你闻起来像香草杯子蛋糕」说出声，被 Eden 抓包复读。",
+   "anchor": "You said I smell like a vanilla cupcake.",
+   "start": 13944,
+   "end": 13984
+  },
+  {
+   "fact": "章末 Eden 回应「想不想改变这一点」：我想——你让我好奇，Oliver James。",
+   "anchor": "I think I do. You intrigue me, Oliver James.",
+   "start": 15034,
+   "end": 15078
+  }
+ ]
+}
