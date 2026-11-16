@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：三个短句层层收紧：先「没有话」，再「只有我们」，最后补刀 Like a real family——like 字是刀柄：这家庭活成了「家庭的样子」，唯独没有家庭的内核。作者用最平静的句子写最深的怨，餐厅越安静，讽刺越响。
 
-**读者视角提示**：对照 ch05 里 Eden 家的农场告别（抱腿、哭、veranda 全家送行）——两家「告别」的温度差就是两人原生家庭的最大差异。Oliver 的家庭戏份每多一场，他往 Eden 那边逃一步。
+**读者视角提示**：对照 ch01 里 Eden 家的农场告别（抱腿、哭、veranda 全家送行）——两家「告别」的温度差就是两人原生家庭的最大差异。Oliver 的家庭戏份每多一场，他往 Eden 那边逃一步。
 
 > **原句 6:** "It was better when Mum was here. There was laughter, colour, love. The dining table looks too big with only the three of us, and it feels so obvious that something, or someone, is missing."
 
@@ -77,7 +77,7 @@ modified: "2026-11-15"
 
 > **原句 7:** "I thought it would be a good opportunity. A good way to use your writing skills in a way that actually matters."
 
-**中文理解**：Dad 抛出招安方案：公司通信岗在招人，我报了你的名字——「一个让你的写作技能真正有用」的好机会。
+**中文理解**：Dad 抛出招安方案：「一个让你的写作技能真正有用」的好机会——用机会的口吻给儿子的梦想定价。
 
 **关键词**：opportunity / writing skills / actually matters
 

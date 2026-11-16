@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch06",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch06_chap6.txt",
+ "facts": [
+  {
+   "fact": "Oliver 想在图书馆独处读完系列最后一本，还剩「四百页」。",
+   "anchor": "the last one in the series",
+   "start": 315,
+   "end": 341
+  },
+  {
+   "fact": "Eden 抽走他的书翻看，说还剩三百页左右。",
+   "anchor": "There’s like…three hundred pages left.",
+   "start": 2307,
+   "end": 2345
+  },
+  {
+   "fact": "她评价「一天读完这么多」：这书够我读好几年——无恶意也无调侃。",
+   "anchor": "This would take me years.",
+   "start": 2531,
+   "end": 2556
+  },
+  {
+   "fact": "Oliver 悟出她恨文学的无限性与灰色地带，化学有清晰起承转合。",
+   "anchor": "Eden hates the limitless nature of Literature",
+   "start": 4465,
+   "end": 4510
+  },
+  {
+   "fact": "家族晚餐：递盐之后再无一句，三人沉默吃饭。",
+   "anchor": "Just us, eating in silence. Like a real family.",
+   "start": 5914,
+   "end": 5961
+  },
+  {
+   "fact": "妈妈在时餐桌上有笑声、色彩与爱；如今桌子太大、缺人。",
+   "anchor": "It was better when Mum was here.",
+   "start": 5964,
+   "end": 5996
+  },
+  {
+   "fact": "爸爸抛出公司通信岗，已把他的名字报上去。",
+   "anchor": "A role has opened up in the communications area, and I put your name up for it.",
+   "start": 6984,
+   "end": 7063
+  },
+  {
+   "fact": "爸爸称这是让写作技能「真正有用」的好机会——这句最伤人。",
+   "anchor": "A good way to use your writing skills in a way that actually matters.",
+   "start": 7399,
+   "end": 7468
+  }
+ ]
+}
