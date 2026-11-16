@@ -1,0 +1,85 @@
+{
+ "book": "magical-murmur-by-d-k-bolton",
+ "chapter": "ch04",
+ "text": "notes/books/novels/magical-murmur-by-d-k-bolton/text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "回 Nova 店里，Maeve 一路想出至少二十条反对唤醒 Rendel 的理由，赞成的只有一条。",
+   "anchor": "at least twenty reasons why letting him wake was a terrible idea",
+   "start": 99,
+   "end": 163
+  },
+  {
+   "fact": "Maeve 复盘 Celeste 的影印发麻（谈 Shadowick 时发作），疑心那不是发麻而是牵引。",
+   "anchor": "What if it wasn’t a tingle, but a pull?",
+   "start": 1070,
+   "end": 1109
+  },
+  {
+   "fact": "哥布林急报：bramblemule 疯了吃光南瓜；先吃小白南瓜（Twobble 的 ghost pumpkins 最爱），又吃光 squash、warty gourds、后墙藤蔓，直到带刺的 buckthorn。",
+   "anchor": "The bramblemule has gone absolutely crazy. It’s eating all of our pumpkins.",
+   "start": 2686,
+   "end": 2761
+  },
+  {
+   "fact": "暴食始于今晨——他们到的时候它还正常，然后就撕南瓜下藤停不下来。",
+   "anchor": "“This morning,” Skonk said.",
+   "start": 4125,
+   "end": 4152
+  },
+  {
+   "fact": "Nova 点破时机对齐：Rendel 封印今晨变弱、bramblemule 同刻暴食；她不信巧合（The longer you’ve been around, the less you believe in coincidence）。",
+   "anchor": "“His spell started weakening this morning.”",
+   "start": 5071,
+   "end": 5114
+  },
+  {
+   "fact": "Nova 说这种事她见过——不是在 Rendel 身上，是在 shadow magic 上；Shadowick 的巫师靠从别处抽取来强化魔力，Keegan 补「以别人为代价」，Nova 答 Sometimes。",
+   "anchor": "“No.” She shook her head slowly",
+   "start": 6204,
+   "end": 6235
+  },
+  {
+   "fact": "Maeve 的关键推论：Rendel 若隔着封印能榨 bramblemule，他透过 shadow mark 能榨谁——Twobble 抱紧南瓜当盾牌。",
+   "anchor": "what could he reach for through a shadow mark?",
+   "start": 6345,
+   "end": 6391
+  },
+  {
+   "fact": "被抽取的东西：能量、力量、与 Wilds 的联结；Maeve 倒吸一口气。",
+   "anchor": "“Energy. Strength. A connection to the Wilds.”",
+   "start": 7918,
+   "end": 7964
+  },
+  {
+   "fact": "Nova 只说半句就停：先是饥饿，再继续下去它可能……（后半句没说出口）。",
+   "anchor": "“First comes the hunger.”",
+   "start": 8209,
+   "end": 8234
+  },
+  {
+   "fact": "Nova 推翻加固方案：每次收紧封印他都要更用力对抗，加固只会让他更快榨干 bramblemule、再找更大的目标。",
+   "anchor": "If we reinforce it now, he’ll drain the bramblemule faster, and then look for something bigger",
+   "start": 9024,
+   "end": 9118
+  },
+  {
+   "fact": "新方案：药水混 honey 与 moon water 加速他苏醒（I can’t promise anything, but it’s our best shot）；Keegan 感叹原以为加固才是安全牌。",
+   "anchor": "“If I mix this with some honey and moon water, I might be able to quicken his awakening.”",
+   "start": 9429,
+   "end": 9518
+  },
+  {
+   "fact": "若它抵达 Wilds 且 Rendel 继续抽取，他可能接上 Wilds——派哥布林去拦；两人已用 Ardetia 的宝贝香草园贿赂它拖时间。",
+   "anchor": "We need you to stop the bramblemule from getting to the Wilds",
+   "start": 10729,
+   "end": 10790
+  },
+  {
+   "fact": "尾场：身后一声轻响，三人同转头——一根黑羽缓缓落进笼底，苏醒正在进行的物证。",
+   "anchor": "One black feather drifted slowly down and landed on the bottom of the cage.",
+   "start": 11967,
+   "end": 12042
+  }
+ ]
+}
