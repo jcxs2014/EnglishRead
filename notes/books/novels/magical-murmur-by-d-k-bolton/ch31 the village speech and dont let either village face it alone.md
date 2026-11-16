@@ -118,7 +118,6 @@ modified: "2026-11-16"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | manipulated | 被操纵的 | The shadows aren’t making the choice to fly all around us.” She pointed to the sky. “Somehow they’re being manipulated again.” |
-| indecision | 优柔寡断（前章词，此处语境延续） | “Their indecision is leading to this unrest. We have to pick someone to run Shadowick Academy.” |
 | reinforced | 被加固的 | And I can tell you that the magic we’re using isn’t going to hold forever. We’ve already had to reinforce the same places more than once. |
 | conspicuous | 扎眼的、显眼的 | I climbed onto the low stone wall beside Bella, feeling rather conspicuous as everyone turned toward me. |
 | flickering | 明灭闪烁的 | “They’re moving along the old boundary stones, and some of the protections have started flickering.” |

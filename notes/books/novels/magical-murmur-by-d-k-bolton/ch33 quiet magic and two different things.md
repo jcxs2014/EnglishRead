@@ -35,7 +35,7 @@ modified: "2026-11-16"
 **为什么这样写**：恐惧的坐标终于锁定——地窖新通道可能是影子的入侵口；家人名单（Karvey/Elira/Miora）在上一格排完，这一格给出威胁路径。
 **读者视角提示**：读者拿到本章最疼的问题：家里的老人和石像鬼正住在「可能的入口」上方。
 
-> **原句 4:** "“Then let’s hope when the first one tumbles, they all do,” my dad said, patting my shoulder. “The Academy didn’t choose you because you’re a worrier. It chose you because you’re a doer.”"
+> **原句 4:** "“Then let’s hope when the first one tumbles, they all do,” my dad said, patting my shoulder. “The Academy didn’t choose you because you’re a worrier. It chose you because you’re a doer.” He paused. “And don’t forget the cottage has protections.”"
 **中文理解**：「那就希望第一张牌倒下的时候，其他的跟着倒吧，」我爸拍拍我的肩：「学院选你，不是因为你爱担心——是因为你能干事。」他顿了顿：「别忘了 cottage 有防护。」
 **关键词**：you’re a doer / the cottage has protections
 **为什么这样写**：父亲的安慰法是发作业——把「担心」翻译成「行动资格」；「protections」提醒她家里不是不设防。
@@ -135,11 +135,8 @@ modified: "2026-11-16"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| brazenly | 嚣张地 | （对应语境：new batch 的 brazen 行为） |
 | arched | 拱形的 | Everyone looked up as a thin line appeared along one of the decorative stone arches. |
 | intertwined | 交缠的 | The silver threads began glowing, weaving tiny lines of light through the pink yarn. |
-| soothing | 抚慰的 | （对应语境：quiet magic 的安抚性质） |
-| vibrant | 鲜活的、震颤的 | （对应语境：学院 breathing 的生命感） |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

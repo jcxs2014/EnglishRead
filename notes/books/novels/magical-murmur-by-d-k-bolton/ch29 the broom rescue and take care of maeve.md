@@ -9,7 +9,7 @@ modified: "2026-11-16"
 - **一句话概括**：扫帚担纲救援——驮 Gideon 飞越吞人砖阵却遭「磁吸」反制，双印全力也只换来三英尺；Keegan 抓袖、Gideon 自愿松手「Take care of Maeve」，连人带扫帚被吞；地面复原如初，兄弟的手第一次以撕裂收场。
 - **情感弧线位置**：救援章全程紧绷——喜剧开场（ballerina/bridge）滑向悲怆收尾；「Brother」一词的平静是全章最响的一格。
 - **Tropes 兑现/反转**：「飞行救援」兑现成失败；「工具忠诚」反转成「工具也被拖走」；「松手=放弃」反转为「松手=保护」。
-- **人物弧线**：Gidian 的冷静牺牲完成人物弧的第一次自证；Keegan 的「I've got him」与 Maeve 的「can't lose you too」正面对冲；扫帚的忠诚有了葬礼。
+- **人物弧线**：Gideon 的冷静牺牲完成人物弧的第一次自证；Keegan 的「I've got him」与 Maeve 的「can't lose you too」正面对冲；扫帚的忠诚有了葬礼。
 - **叙事手法**：救援三幕（试飞→磁吸→撕裂）；「No opening. No broomstick. No Gideon.」三无排比收尸；结尾双镜（本能 vs 理智）留痛不给答案。
 
 ## 精读
@@ -93,7 +93,7 @@ modified: "2026-11-16"
 **中文理解**：「哥哥，」他说，声音平静得反常。Keegan 攥得更紧。「放手。」Gideon 看了看身下的豁口，又看回 Keegan：「照顾好 Maeve。」
 **关键词**：his voice strangely calm / Take care of Maeve
 **为什么这样写**：兄弟相称首次出口（Brother）+临终托付一句——牺牲的重量全靠「平静」反衬；托付对象选了 Maeve 而非复仇。
-**读者视角提示**：读者拿到 Gidian 人物弧的定音锤：从老同伙之子到自愿的守护者——他的「松手」是全书第一份无条件的给予。
+**读者视角提示**：读者拿到 Gideon 人物弧的定音锤：从老同伙之子到自愿的守护者——他的「松手」是全书第一份无条件的给予。
 
 > **原句 12:** "Our eyes met just as the opening swallowed him and my broomstick."
 **中文理解**：豁口吞下他和我的扫帚的那一刻，我们的目光相接。
@@ -125,7 +125,7 @@ modified: "2026-11-16"
 > **原句 15:** "But the floor had already swallowed him, and we had no idea where it had taken him."
 **中文理解**：可地板已经把他吞了——我们根本不知道它把他带去了哪儿。
 **关键词**：no idea where it had taken him
-**为什么这样写**：章尾判词承认无知——「taken」的被动语态把 Gidian 定位成货件而非囚徒；救援的坐标清零。
+**为什么这样写**：章尾判词承认无知——「taken」的被动语态把 Gideon 定位成货件而非囚徒；救援的坐标清零。
 **读者视角提示**：读者带着一个空坐标离开：他在下面、但「下面」是个会挪的地方——银狼的迷宫警告全部兑现。
 
 ## 本章词汇

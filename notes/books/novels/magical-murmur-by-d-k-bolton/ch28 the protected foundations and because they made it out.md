@@ -6,7 +6,7 @@ modified: "2026-11-16"
 # 28. Chapter Twenty-Eight
 
 ## 本章导航
-- **一句话概括**：Tamiah 面包店地基的古老刻纹让影子却步——Pre-Priestest 保护网仍在运转；Maeve 组织「找刻纹+加固」的全民防线、婉拒银狼随行（Sinora 警告生效）；学院向她「示警并引路」，圆石幻象揭开保护网相连；地底找到活着的 Gideon—— tiles 会吞人、声音「抓住他不放」、且「有人在他之前来过——Because they made it out」。
+- **一句话概括**：Tamiah 面包店地基的古老刻纹让影子却步——女祭司掌权之前的保护网仍在运转；Maeve 组织「找刻纹+加固」的全民防线、婉拒银狼随行（Sinora 警告生效）；学院向她「示警并引路」，圆石幻象揭开保护网相连；地底找到活着的 Gideon—— tiles 会吞人、声音「抓住他不放」、且「有人在他之前来过——Because they made it out」。
 - **情感弧线位置**：防守章（民间韧性）转攻坚章（学院引路）→地底重逢与陷阱揭示，章尾「made it out」把恐惧指向先来者。
 - **Tropes 兑现/反转**：「古镇保护结界」兑现；「学院=囚笼」反转成「学院=守卫+向导」。
 - **人物弧线**：Tamiah 的动员力成 village 的脊梁；Maeve 第一次指挥多族分工；Gideon 在地底从被钓者变成地形专家。
@@ -111,7 +111,7 @@ modified: "2026-11-16"
 **中文理解**：「别再靠近，」Gideon 警告：「这是个陷阱。」Keegan 盯着他：「那你是怎么到那边的？」
 **关键词**：It’s a trap. / how did you get over there
 **为什么这样写**：重逢第一句是禁令——被钓走的人反过来救人；「how did you get over there」的空间疑问预告地形已经变成武器。
-**读者视角提示**：读者看到 Gidian 的第一份地底情报是警告——他活着，且已摸清规则。
+**读者视角提示**：读者看到 Gideon 的第一份地底情报是警告——他活着，且已摸清规则。
 
 > **原句 12:** "He bent down, picked up a tiny pebble, and pointed at the floor separating us.
 >
@@ -125,7 +125,7 @@ modified: "2026-11-16"
 > **原句 13:** "“I don’t think it was just the voice. It was like something grabbed hold of me and wouldn’t let go until I did what it wanted.”"
 **中文理解**：「我觉得不只是声音。像有什么东西攫住了我，不让我松开——直到我照它要的做。」
 **关键词**：grabbed hold of me / until I did what it wanted
-**为什么这样写**：Gidian 的被钓体验从「听见」升级为「被握住」——诱导机制的物理化证词；「what it wanted」把意图留给未知者。
+**为什么这样写**：Gideon 的被钓体验从「听见」升级为「被握住」——诱导机制的物理化证词；「what it wanted」把意图留给未知者。
 **读者视角提示**：读者拿到地底之物的行为档案：它不只模仿声音，还能夺意志——这比影子更可怕。
 
 > **原句 14:** "“But I do know that someone was here before me,” Gideon said."
@@ -168,4 +168,4 @@ modified: "2026-11-16"
 | tiles | 砖、瓷砖 | Keegan and I looked at the stone tiles as Gideon tossed the pebble in front of him. |
 
 ## 一句话总结
-面包店地基的古老刻纹挡住影子——Caleb 认出这是 Pre-Priestest 旧边界网的地面终端；Maeve 组织全民「找刻纹+加固」并借 Sinora 警告把银狼留在地面；学院向她示警引路、圆石幻象揭开「保护网是相连的」；地底重逢活着的 Gideon——活地板吞石子、声音「攫住他不放」、且「有人先来过——Because they made it out」。
+面包店地基的古老刻纹挡住影子——Caleb 认出这是女祭司掌权之前旧边界网的地面终端；Maeve 组织全民「找刻纹+加固」并借 Sinora 警告把银狼留在地面；学院向她示警引路、圆石幻象揭开「保护网是相连的」；地底重逢活着的 Gideon——活地板吞石子、声音「攫住他不放」、且「有人先来过——Because they made it out」。

@@ -6,10 +6,10 @@ modified: "2026-11-16"
 # 35. Chapter Thirty-Five
 
 ## 本章导航
-- **一句话概括**：星空被数以千计的影子吞没后群狼来援（Senta 领队）；Luna 的顿悟反转战局——「They don't want to be contained」（银线该撒网不该收拢），毛线之网罩住全村、双村魔法共织，影子尽灭、星光重明；Gidian 的旧言「最好的魔法是把一切维系住的那种」由她亲手兑现——章尾判词：「Shadowick Academy had found its headmistress」。
+- **一句话概括**：星空被数以千计的影子吞没后群狼来援（Senta 领队）；Luna 的顿悟反转战局——「They don't want to be contained」（银线该撒网不该收拢），毛线之网罩住全村、双村魔法共织，影子尽灭、星光重明；Gideon 的旧言「最好的魔法是把一切维系住的那种」由她亲手兑现——章尾判词：「Shadowick Academy had found its headmistress」。
 - **情感弧线位置**：全书第二高潮——绝境→群狼→顿悟→巨网→胜利；Luna 的「被夹在两村之间的一生」在此章完成正名，选校长悬念由她本人作答。
 - **Tropes 兑现/反转**：「被低估的工具」反转成「决定性武器」；「找不到归属的人」反转成「两村唯一共同认可的人」。
-- **人物弧线**：Luna 从织女到 yarn puppet master（毛线提线师）；Gidian 的「相信她」成为她的力量来源；Tamiah 的「You thought like a leader」完成钦点。
+- **人物弧线**：Luna 从织女到 yarn puppet master（毛线提线师）；Gideon 的「相信她」成为她的力量来源；Tamiah 的「You thought like a leader」完成钦点。
 - **叙事手法**：三段式反转（旧战法→顿悟→撒网）；「With yarn?」「Yes. With yarn.」的问答喜剧顶点；结尾判词句独立成章尾钉。
 
 ## 精读
@@ -62,7 +62,7 @@ modified: "2026-11-16"
 > **原句 8:** "“He told me once that the best magic wasn’t always the kind that made the loudest noise.” She looked toward the shadows. “He said sometimes it was the kind that held everything together.”"
 **中文理解**：「他跟我说过一次：最好的魔法不总是最响的那种。有时候，最好的魔法是把一切维系住的那种。」她望向影子。
 **关键词**：the loudest noise / held everything together
-**为什么这样写**：Gidian 的遗言级台词在此投放——「维系住」正是她今晚要做的事；已消失者的话成为在战者的咒语。
+**为什么这样写**：Gideon 的遗言级台词在此投放——「维系住」正是她今晚要做的事；已消失者的话成为在战者的咒语。
 **读者视角提示**：读者拿到本章的情感引擎：她不是在表演魔法，是在执行他信过的她——第 22 章「he always believed in me」闭环。
 
 > **原句 9:** "A Shadowick witch frowned. “With yarn?”
@@ -105,10 +105,10 @@ modified: "2026-11-16"
 **读者视角提示**：读者听到选校长议题的答案被口头预演：Luna 的「想」已是校长级——只差正式拍板。
 
 > **原句 15:** "Shadowick Academy had found its headmistress."
-**中文理解**：Shadowick Academy 找到了它的校长。
+**中文理解**：Shadowick 学院找到了它的校长。
 **关键词**：found its headmistress
 **为什么这样写**：全章判词独立成段收尾——「found」的主语是学院不是村民（呼应「学院在等被选中的人接受召唤」）；选校长悬念以叙述者的确信作答。
-**读者视角提示**：读者拿到本卷最大悬念的答案：校长=Luna——学院的选择与 Tamiah 的钦点、Gidian 的信任在同一人格合流。
+**读者视角提示**：读者拿到本卷最大悬念的答案：校长=Luna——学院的选择与 Tamiah 的钦点、Gideon 的信任在同一人格合流。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -125,7 +125,6 @@ modified: "2026-11-16"
 |---|---|---|
 | pinpricks | 针尖般的小点 | One by one, the tiny pinpricks of light vanished behind something spreading across the night sky. |
 | multiplying | 成倍增殖 | And they were multiplying. Wherever they touched the old stones, the magic brightened. |
-| defiant | 抗命的、不服的 | Luna lifted her chin in defiance. |
 | howled | 嗥叫（狼嚎） | Keegan answered with a howl of his own, and I couldn’t have been prouder. |
 | staggering | 踉跄、摇晃 | The entire web trembled as hundreds of shadows thrashed against it, and Luna staggered, then tightened her grip on the magic. |
 
@@ -138,4 +137,4 @@ modified: "2026-11-16"
 | howls | 嗥叫（复数） | Several goblins began dancing around the fountain’s broken remains, while the wolves gathered near the Ward, their howls rising into the night. |
 
 ## 一句话总结
-影子吞星、群狼齐至；Luna 顿悟「银线想散开不想被收着」——毛线之网罩村、双村魔法共织（「线不用比影子强、要互相接得住」），影子灭、星光回；Gidian 旧言「最好的魔法是把一切维系住的」由她兑现——「You thought like a leader」→章尾判词：Shadowick Academy had found its headmistress。
+影子吞星、群狼齐至；Luna 顿悟「银线想散开不想被收着」——毛线之网罩村、双村魔法共织（「线不用比影子强、要互相接得住」），影子灭、星光回；Gideon 旧言「最好的魔法是把一切维系住的」由她兑现——「You thought like a leader」→章尾判词：Shadowick Academy had found its headmistress。

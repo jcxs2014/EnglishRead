@@ -135,7 +135,7 @@ modified: "2026-11-16"
 | cobblestones | 鹅卵石路 | Shadows covered the rooftops. They swarmed around the buildings, slipping between chimneys and pouring over the cobblestone streets in thick, restless waves. |
 | satchel | 挎包、小背包 | Nova’s dark hair had come loose from its usual arrangement, and she was carrying a satchel that appeared to be leaking purple smoke. |
 | chandelier | 枝形吊灯 | Another tremor rolled through the Academy. The chandelier swayed overhead, and several people cried out in surprise. |
-| grudge | 怨恨、宿怨 | “Listen to me. Gideon is a powerful mage, and if anyone can survive being dragged into an underground chamber by something that apparently has a grudge or a plan, it’s him.” |
+| stirring | 翻腾、涌动 | If whatever was stirring beneath Stonewick reached them… |
 | stirring | 翻腾、涌动 | If whatever was stirring beneath Stonewick reached them… |
 
 ### ⭐ 常用

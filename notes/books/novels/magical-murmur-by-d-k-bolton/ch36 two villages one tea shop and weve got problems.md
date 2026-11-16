@@ -123,7 +123,6 @@ modified: "2026-11-16"
 | culinary | 烹饪的（culinary alliance＝美食同盟） | I suspected Stonewick and Shadowick were about to experience a culinary alliance that would put the magical one to shame. |
 | scones | 司康饼（复数） | “Maybe they’ve never had Stella’s scones.” |
 | diplomatic | 外交的 | But apparently a shared battle and several trays of pastries could do wonders for diplomatic relations. |
-| forbidden | 被禁止的 | （对应语境：曾被告诫不得跨越边界的世代记忆） |
 | boundary | 边界 | “My father used to tell me that Stonewick witches would turn us away if we ever crossed the boundary.” |
 
 ### ⭐ 常用
