@@ -6,7 +6,7 @@ modified: "2026-11-16"
 # 24. Chapter Twenty-Four
 
 ## 本章导航
-- **一句话概括**：模仿声改喊 Gideon，用「他知道 Stone Ward 在哪」钓他走下石阶——地面随即吞掉楼梯；老妇吐出「双印不该在同一人身上」「两村曾以协议相连」；绑腕之约后 Caleb 见老妇失色——「We brought the Hedge Witch right to her. The one the Priestess was afraid of.」
+- **一句话概括**：模仿声改喊 Gideon，用「他知道 Stone Ward 在哪」钓他走下石阶——地面随即吞掉楼梯；老妇吐出「双印不该在同一人身上」「两村曾以协议相连」；绑腕之约后 Caleb 见老妇失色——「We brought the Hedge Witch right to her」「To the one the Priestess was afraid of.」
 - **情感弧线位置**：Gideon 被钓走的失守章——上一章的钩子收线成灾难；信任体系（绑腕）与更大的名号（女祭司所惧者）同步升级。
 - **Tropes 兑现/反转**：「声音诱惑」兑现成丢失一名同伴；「保护性封印」反转为「双印同体是错误」。
 - **人物弧线**：Gideon 的希望（父亲是不同的父亲）被声音精准利用；Keegan 亲手没能拦住弟弟；Caleb 的失色揭开老妇名号。
@@ -40,7 +40,7 @@ modified: "2026-11-16"
 >
 > “Maeve,” the voice called, and Gideon turned around to look at me."
 **中文理解**：「魔法的核心是克制，」她语气平平：「听见召唤不代表必须回应。」我的印亮了一下，我看向 Keegan——他缓缓点头，我们一起把注意力转回 Gideon。「Maeve，」那个声音喊道，Gideon 转身看向我。
-**关键词**：Magic is about restraint / He’s calling for you now
+**关键词**：Magic is about restraint / My mark flared
 **为什么这样写**：克制被定义为魔法的根基——正好是 Gidian 此刻最缺的东西；喊名目标从儿子转往母亲，饵在换人。
 **读者视角提示**：读者注意到声音的策略性：它在挑最能被钓走的那个。
 
@@ -219,7 +219,6 @@ modified: "2026-11-16"
 | trembling | 发抖的 | Gideon’s attention was completely fixed on the golden light spreading down the steps, and I noticed his hands were trembling slightly. |
 | persuaded | 被说服的 | He had never been particularly easy to persuade, especially when Keegan was involved, but this was different. |
 | hunch | 直觉、预感 | Which matched our hunch. |
-| unsettled | 不安的、躁动的 | （本章语境对应：Gideon 被声音搅乱的神志） |
 | ribbon | 缎带 | I did as she said, and she tied a ribbon around my wrist. It settled against my skin before fading from sight. |
 
 ### ⭐ 常用
@@ -227,7 +226,7 @@ modified: "2026-11-16"
 |---|---|---|
 | stairs | 石阶（复数） | Gideon dashed down the steps. |
 | wrist | 手腕 | Keegan caught his wrist before he touched them, and Gideon turned, his eyes so angry I barely recognized him. |
-| walls of shadow | 影子之墙 | “Shadows were attacking from every side. There were walls of darkness blocking us from the Academy.” |
+| wandering | 走神、心不在焉的 | “Because you seem a little distracted, and I don’t think wandering into an ancient passage while unfocused is a good idea. |
 | maze | 迷宫 | “Wonderful,” I muttered. “We’re dealing with a magical underground maze.” |
 
 ## 一句话总结

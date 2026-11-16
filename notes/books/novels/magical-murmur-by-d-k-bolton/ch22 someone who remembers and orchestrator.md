@@ -262,7 +262,7 @@ modified: "2026-11-16"
 
 > **原句 15:** "And then a voice echoed through the air with words that would stay with me.
 
-“Ask her what she did to me.”"
+> “Ask her what she did to me.”"
 **中文理解**：接着，一个声音在空中回荡，说出了一句会一直跟着我的话。「问问她，她对我做了什么。」
 **关键词**：words that would stay with me / Ask her what she did to me
 **为什么这样写**：全章最短的最后一句把矛头从 Maeve 猛调向老妇——「她」不是校长；死者的声控记忆让借尸问罪有了实感。
@@ -275,7 +275,7 @@ modified: "2026-11-16"
 | retained | 保留、存住 | “Because the stones are retaining things. They are hearing things that haven’t been spoken of in a very long time.” |
 | composure | 镇定、沉着 | For the first time since she’d appeared before us, the woman’s composure faltered. |
 | orchestrator | 幕后主使、策划者 | My heart began to pound as her words clicked. Were we staring at the orchestrator? |
-| decipher | 解读、破译 | The stones bore ancient markings of varying sizes, and I knew better than to try to decipher them. |
+| ancient | 古老的、远古的 | I hesitated before continuing. “Someone who knows considerably more about ancient magic than I do.” |
 | hoarse | 嘶哑的 | “Rendel?” Her voice turned hoarse. “Was it Rendel who told you?” |
 
 ### ⭐⭐ 进阶

@@ -6,7 +6,7 @@ modified: "2026-11-16"
 # 26. Chapter Twenty-Six
 
 ## 本章导航
-- **一句话概括**：Sinora 的私语进入 Maeve 脑内（别让银狼跟 Gidian 的踪迹）；银狼揭晓两人的头衔——「ancient Shadow Keepers and Witnesses」、Sinora=Gideon 的曾祖母；「Magical Murmurs」古老传说归位、地底震动双向移动；「Whatever's beneath us isn't trying to get out」——「I think it's trying to keep something in」；抵达 Shadowick 满城骚动，天上有影子卷动如女祭司回归。
+- **一句话概括**：Sinora 的私语进入 Maeve 脑内（别让银狼跟 Gideon 的踪迹）；银狼揭晓两人的头衔——「ancient Shadow Keepers and Witnesses」、Sinora=Gideon 的曾祖母；「Magical Murmurs」古老传说归位、地底震动双向移动；「Whatever's beneath us isn't trying to get out」——「I think it's trying to keep something in」；抵达 Shadowick 满城骚动，天上有影子卷动如女祭司回归。
 - **情感弧线位置**：情报大爆章——头衔、辈分、传说、地动方向四条线一次性收拢；结尾的骚动把问题推向下一章的对峙。
 - **Tropes 兑现/反转**：「证据会说话」兑现；「黑暗=入侵」反转成「黑暗=封印者在工作」。
 - **人物弧线**：Keegan 公开表态「该说真话了」逼母亲松口；Silver Wolf 的 grief 与「他从不让我参与」的旧怨；Sinora 的脑内私语成为 Maeve 专属频道。
@@ -33,7 +33,7 @@ modified: "2026-11-16"
 **中文理解**：「可他们怎么还活着？」我压低声音问：「女祭司靠影子石延寿——那 Rendel 和 Sinora 靠什么？」她冷冷一笑：「他们不需要魔法的道具，Maeve。它长在他们体内，深得没人能懂。」
 **关键词**：don’t need props for their magic / runs in them deeper
 **为什么这样写**：道具与血统的分野划出魔法师的两个等级——女祭司要外挂、Keepers 是本体；「deeper than anyone could understand」把不可测写进基因。
-**读者视角提示**：读者拿到 Keegan/Gidian 的血统说明书：他们的恢复力来自「runs in them」。
+**读者视角提示**：读者拿到 Keegan/Gideon 的血统说明书：他们的恢复力来自「runs in them」。
 
 > **原句 4:** "I was beginning to think Rendel had spent so much time keeping secrets that he’d forgotten how to have an ordinary conversation, and apparently he’d surrounded himself with people who shared the same unfortunate talent."
 **中文理解**：我开始觉得，Rendel 保密保了太久，连正常聊天都忘了怎么进行——而且显然，他身边的人也都遗传了同一种不幸的才能。
@@ -42,9 +42,9 @@ modified: "2026-11-16"
 **读者视角提示**：读者获得 Maeve 的观察框架：这圈人不说人话——追问需要耐心。
 
 > **原句 5:** "“Sinora is Gideon’s great-grandmother.”"
-**中文理解**：「Sinora 是 Gideon 的曾祖母。」——银狼吐出「Fine.」之后的一句交代，一个句子把 Gidian 的亲属表再次扩容；曾祖母、被埋葬的旧识、Shadow Keeper——三条身份在同一个名字下并轨。
+**中文理解**：「Sinora 是 Gideon 的曾祖母。」——银狼吐出「Fine.」之后的一句交代，一个句子把 Gideon 的亲属表再次扩容；曾祖母、被埋葬的旧识、Shadow Keeper——三条身份在同一个名字下并轨。
 **关键词**：Sinora is Gideon’s great-grandmother
-**为什么这样写**：辈分炸弹装在单句里——一位七词的句子完成 Gidian 亲属表的再次扩容；银狼「Fine.」前的深呼吸给信息上秤。
+**为什么这样写**：辈分炸弹装在单句里——一位七词的句子完成 Gideon 亲属表的再次扩容；银狼「Fine.」前的深呼吸给信息上秤。
 **读者视角提示**：读者拿到家族树的新枝：Sinora=Gideon 曾祖母=银狼家的旧人=「死了」很多年的人。
 
 > **原句 6:** "“There’s magic moving through it,” Keegan said, looking up at his mother. “I can feel it, but I don’t recognize what kind.”
@@ -149,14 +149,13 @@ modified: "2026-11-16"
 |---|---|---|
 | witnessing | 见证（Witness 身份的动名词） | “They were both ancient Shadow Keepers and Witnesses.” |
 | props | 道具 | “They don’t need props for their magic, Maeve. It runs in them deeper than anyone could understand.” |
-| descendants | 后裔（本章语境：bloodline 的展开词，据上下文收录） | （对应语境：Gidian 的血统被古老魔法认出） |
 | blissfully | 幸福无忧地（blissfully unaware＝幸福地一无所知） | I nodded, already thinking about the people living in the village, blissfully unaware that something ancient might be stirring beneath their feet. |
 | murmurs | 低语、 murmurs（书名级关键词） | She nodded. “Magical Murmurs, but they eventually simmered away.” |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Tremors | 震动（复数；前章已出现单数） | “We felt the tremors too,” I said. |
+| tremor | 震动 | Another tremor rolled beneath us, and I shifted my weight and looked at Caleb, who’d been talking with the other shifters. |
 | ancient | 古老的 | “There were stories when I was young about the old magic speaking through the earth, especially when something disturbed the boundaries between Stonewick and Shadowick.” |
 | balance | 平衡 | The old stories suggested that magic could awaken when the balance between the Academies changed. |
 | fountain | 喷泉 | A group of witches stood near the fountain, their wands glowing faintly as they spoke among themselves. |

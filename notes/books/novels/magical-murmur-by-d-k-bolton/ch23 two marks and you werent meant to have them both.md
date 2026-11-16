@@ -7,7 +7,7 @@ modified: "2026-11-16"
 
 ## 本章导航
 - **一句话概括**： mimicking 声音之谜延续（It's what you expect to hear）；界石比 Ward 更老、属「旧秩序」；影印对石圈「answer」触发地裂开成通往地底的石阶——「The old boundaries weren't always where they are now」「They still are」；Gideon 赶到与老妇互相僵住，金光爬上他的手指；入口石壁刻着双印——「You weren't meant to have them both」。
-- **情感弧线位置**：从对峙续章到空间开启——地底楼梯把谜面从「谁在等」升级为「要去哪」；Gidian 的身世金光让恐惧首次指向他自己。
+- **情感弧线位置**：从对峙续章到空间开启——地底楼梯把谜面从「谁在等」升级为「要去哪」；Gideon 的身世金光让恐惧首次指向他自己。
 - **Tropes 兑现/反转**：「楼梯从地里长出来」兑现；「两村分离」反转成「仍相连」——地理即阴谋。
 - **人物弧线**：Gideon 与老妇互不相识却彼此眼熟（Not really. 答得太快）；金光选上 Gideon 的手；老妇第二次失态（fear + recognition）。
 - **叙事手法**：自然灾变链（裂→光→阶）三拍推进；「answer/replicate」的印石对话成新机制；结尾双符号雕壁收束全书两大印的伏线。
@@ -155,7 +155,7 @@ modified: "2026-11-16"
 > I scowled and glanced at Keegan before returning my gaze to Gideon. “Why does everyone automatically assume I’ve done something?”"
 **中文理解**：他看见立石群便停下，视线转向通向地底的石阶；再看回我时，目光落到我仍在发光（但弱了些）的肩上。他的神色一变，蹲到开口旁：「你干了什么？」我瞪眼看看 Keegan 又看回 Gideon：「为什么所有人都自动假设是我干的？」
 **关键词**：What have you done? / automatically assume I’ve done something
-**为什么这样写**：Gidian 的默认问责——她的冤枉反驳带着喜感的疲惫；发光的肩替她「认罪」，物证先于人证。
+**为什么这样写**：Gideon 的默认问责——她的冤枉反驳带着喜感的疲惫；发光的肩替她「认罪」，物证先于人证。
 **读者视角提示**：读者听见全系列的固定笑点：她的名号=自动嫌疑人——这次连她都懒得辩。
 
 > **原句 11:** "“Have we met?” he asked, losing some of his firmness.
@@ -206,7 +206,7 @@ modified: "2026-11-16"
 > Gideon looked at her and shook his head. “Why?”"
 **中文理解**：她盯着 Gideon，那表情我读不透——但足以看出恐惧与相认都占了份。她低声说：「你们不该在这里。你们谁都不该。」Gideon 看着她摇头：「为什么？」
 **关键词**：both fear and recognition / None of you.
-**为什么这样写**：fear+recognition 的双元素表情给她的身份加了重量；「None of you」的驱逐令覆盖全部人，Gidian 的「Why」替读者发问。
+**为什么这样写**：fear+recognition 的双元素表情给她的身份加了重量；「None of you」的驱逐令覆盖全部人，Gideon 的「Why」替读者发问。
 **读者视角提示**：读者确认她认得 Gideon 的某种东西——她与他家的旧账远未结清。
 
 > **原句 15:** "She looked toward the open staircase. The golden light spread along the edges of the steps, and I noticed something carved into the stone wall beside the entrance. I narrowed my eyes and made out two symbols. One was the shadow mark on my shoulder.
@@ -224,9 +224,8 @@ modified: "2026-11-16"
 |---|---|---|
 | arrangement | 安排、布局（older arrangement＝更老的秩序） | She nodded and let out a slow breath as I lowered my wand. “They were part of an older arrangement.” |
 | replicating | 复刻、复制 | “The mark isn’t simply replicating the stones’ markings.” |
-| mimicked | 模仿（“Something used his voice”之语境词，此处据上下文收录 mimicking 之声） | It sounded so much like Rendel that I couldn’t understand how the woman could be certain it wasn’t him. |
 | decipher | 破译、解读 | Keegan crouched beside the first step and studied the markings carved into its surface. They matched the stones. |
-| kaleidoscope | 万花筒（a kaleidoscope of colors） | “Keegan? What’s going on?” |
+| kaleidoscope | 万花筒般变幻的 | “Those colors weren’t there before.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -234,7 +233,6 @@ modified: "2026-11-16"
 | quirk | 一勾、怪趣的小动作 | She glanced at Keegan and brought her gaze back to mine as a slight quirk of her mouth appeared. |
 | condescending | 居高临下的 | There was the same impatient tone, the same slightly condescending way of speaking, as if everyone around him was taking far too long to catch up with what he already knew. |
 | sinkhole | 塌陷坑 | I looked over my shoulder just as a narrow section of the earth sank between two of the standing stones. It looked like a sinkhole forming. |
-| intertwined | 交缠的 | Keegan slowed as we entered a grove of towering pine trees whose branches intertwined so closely that sunlight filtered through in delicate streams. |
 | prodding | 追问、戳弄 | The woman didn’t answer, and Gideon didn’t bother prodding her for information. |
 
 ### ⭐ 常用
@@ -242,8 +240,8 @@ modified: "2026-11-16"
 |---|---|---|
 | staircase | 石阶、楼梯 | But then a staircase appeared, leading down into the earth. |
 | symbols | 符号、图案（复数） | I narrowed my eyes and made out two symbols. One was the shadow mark on my shoulder. |
-| twisted | 扭曲的 | The trees grew closer together, and their trunks twisted into strange shapes. |
+| roots | 根源、盘根错节的过去（本系列喻指历史根源） | “What in the world…” he whispered. |
 | roots | 根（此处指事物的根源、脉络） | My pulse quickened. “Eventually?” |
 
 ## 一句话总结
-模仿声追着名字喊、界石比 Ward 更老且属「旧秩序」；影印对石圈「answer」——地裂成阶、古老通道开启，老妇吐出两村「仍然相连」；Gidian 与老妇互不相识却彼此眼熟、金光爬上他的手；入口石壁并刻影印与蝴蝶印——「你本不该同时拥有它们」。
+模仿声追着名字喊、界石比 Ward 更老且属「旧秩序」；影印对石圈「answer」——地裂成阶、古老通道开启，老妇吐出两村「仍然相连」；Gideon 与老妇互不相识却彼此眼熟、金光爬上他的手；入口石壁并刻影印与蝴蝶印——「你本不该同时拥有它们」。

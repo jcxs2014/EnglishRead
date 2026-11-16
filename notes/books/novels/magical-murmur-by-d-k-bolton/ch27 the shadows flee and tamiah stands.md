@@ -6,7 +6,7 @@ modified: "2026-11-16"
 # 27. Chapter Twenty-Seven
 
 ## 本章导航
-- **一句话概括**：昨晚的影子大举入侵 Shadowick 白昼街头；Tamiah 逆共识发声——「They're frightened of something. They're being coerced」（它们在逃、在找庇护）；舆论分裂被她一句「去帮 Fenwick 太太」化解；学院门自开却「不是为我们开」，Gideon 声音喊「Maeve, I need you」；Maeve 的银紫光驱影、Caleb 确认影子来自界石方向——「we may have been looking at this the wrong way」。
+- **一句话概括**：昨晚的影子大举入侵 Shadowick 白昼街头；Tamiah 逆共识发声——「They're frightened of something」「They're being coerced」（它们在逃、在找庇护）；舆论分裂被她一句「去帮 Fenwick 太太」化解；学院门自开却「不是为我们开」，Gideon 声音喊「Maeve, I need you」；Maeve 的银紫光驱影、Caleb 确认影子来自界石方向——「we may have been looking at this the wrong way」。
 - **情感弧线位置**：入侵进行时→舆论攻防→影子真相反转（受害者论）→门与声音的双重召唤，市民线首次反客为主。
 - **Tropes 兑现/反转**：「黑暗入侵」兑现；「影子=敌人」反转成「影子=难民」——被胁迫者出现在施暴现场。
 - **人物弧线**：Tamiah 从面包师升格为民意领袖（fight/organize 双轨）；Maeve 的银紫光公开亮相；Silver Wolf 的「别进去」到「得进去」改口。
@@ -181,10 +181,8 @@ modified: "2026-11-16"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | meddling | 瞎搅和、乱插手 | “All I’m saying is that someone in this village has been meddling with shadow magic again.” |
-| sweeping | 席卷式的 | （本章语境：影子 sweeping over the rooftops 的集体运动） |
 | caged | 被困住的（cage 作动词） | Two witches beside him joined in, spreading a pale, shimmering barrier across the sidewalk that caged the darkness just before it reached the villagers. |
 | Cobblestones | 鹅卵石路 | The shadow shuddered and broke apart, scattering into several smaller pieces that darted away across the cobblestones before disappearing. |
-| shattered | 碎裂的 | （对应语境：影子被屏障逼到碎裂） |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

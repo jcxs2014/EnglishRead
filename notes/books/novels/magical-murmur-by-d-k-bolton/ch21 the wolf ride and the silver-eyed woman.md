@@ -202,15 +202,15 @@ modified: "2026-11-16"
 
 > **原句 13:** “I stepped closer and raised my wand toward the stones, and they suddenly began shifting into a kaleidoscope of colors.
 
-“Keegan? What’s going on?”
+> “Keegan? What’s going on?”
 
-“Maeve, your mark.”
+> “Maeve, your mark.”
 
-My breath caught as the mark beneath my clothing warmed, and I pressed my free hand against my shoulder.
+> My breath caught as the mark beneath my clothing warmed, and I pressed my free hand against my shoulder.
 
-“Is it hurting?” Keegan came to my side immediately. “Is there something I can do?”
+> “Is it hurting?” Keegan came to my side immediately. “Is there something I can do?”
 
-I shook my head. “No, it’s just warm, but I don’t know why it’s reacting.”
+> I shook my head. “No, it’s just warm, but I don’t know why it’s reacting.”
 **中文理解**：我走近举杖对准石头——它们忽然转成万花筒般的色彩。「Keegan？怎么回事？」「Maeve，你的印。」我屏住呼吸——衣料下的印发热了，我空着的手按住肩膀。「疼吗？」Keegan 立刻来到我身边：「我能做什么？」「不疼，只是暖——可我不知道它为什么会有反应。」
 **关键词**：a kaleidoscope of colors / I don’t know why it’s reacting
 **为什么这样写**：石与印隔空对答——器物成了两套古老系统的通话界面；「just warm」的轻描淡写与石色的炫目形成温差。
@@ -218,13 +218,13 @@ I shook my head. “No, it’s just warm, but I don’t know why it’s reacting
 
 > **原句 14:** “Keegan stepped in front of me and looked over his shoulder. “We’re getting close to Shadowick, so we need to be mindful.”
 
-I nodded. “How close?”
+> I nodded. “How close?”
 
-“Close enough that the magic begins to change and things aren’t always as they seem.”
+> “Close enough that the magic begins to change and things aren’t always as they seem.”
 
-“I feel like that’s the story of my life.” I glanced at the silver vines, suddenly skeptical of their beauty, and noticed their bells had gone still.
+> “I feel like that’s the story of my life.” I glanced at the silver vines, suddenly skeptical of their beauty, and noticed their bells had gone still.
 
-Had it been a setup?"
+> Had it been a setup?"
 **中文理解**：Keegan 挡到我身前，回头望了一眼。「我们快到 Shadowick 了，得时时留心。」「多近？」「近到魔法开始变化、事物不再总是它们看起来的样子。」「我觉得这就是我人生的写照。」我瞥了眼银色藤蔓，忽然对它们的美起了疑——注意到那些铃铛已经静止。这会是一场安排好的圈套吗？
 **关键词**：things aren’t always as they seem / Had it been a setup?
 **为什么这样写**：警告的措辞是「样子」而非「危险」——表象与真实的分离正式成为边境规则；铃铛静止是美的第一道裂缝。

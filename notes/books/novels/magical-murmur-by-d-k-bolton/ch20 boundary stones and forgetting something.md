@@ -7,7 +7,7 @@ modified: "2026-11-16"
 
 ## 本章导航
 - **一句话概括**：Gideon 清晨敲门——确认父亲坠落、抛出 Shadowick 界石之谜（早于女祭司、会发信号、据说用于「封锁某物」）并宣布同行；早餐桌上全家上阵、Celeste 自称适应了混乱；出发时 Keegan 二度拒坐扫帚——「I think you're forgetting something, Maeve」。
-- **情感弧线位置**：晨起余温（梦与空位）→情报重锤（界石/封印）→家庭送行→出发悬念，一 Normalize 之内完成从软到硬。
+- **情感弧线位置**：晨起余温（梦与空位）→情报重锤（界石/封印）→家庭送行→出发悬念——一个早晨之内完成从软到硬。
 - **Tropes 兑现/反转**：「古老的封印石」兑现成新地图层；「不坐扫帚」的玩笑反转为认真的旅行方式悬念。
 - **人物弧线**：Gideon 的玩笑初现（made friends with some）与「 liked it better not knowing who my father was」的脆弱并置；Celeste 自封适应混乱；Maeve 的「明确度」被 Keegan 一句反问打回原形。
 - **叙事手法**：情报用对话投递（三连 casually 的错愕）；「cold little sensation」做生理预警；结尾以未答之问收钩。
@@ -131,7 +131,7 @@ modified: "2026-11-16"
 > “Maeve.” He walked over to me.
 >
 >
-> “What?” I cocked his head slightly."
+> “What?” I cocked my head slightly."
 **中文理解**：「你来吗？」我回头问他。Keegan 笑着点头：「当然。」「那上来。」我晃了晃扫帚，他的笑容更宽了。「Maeve。」他朝我走过来。「怎么？」我微微歪头。
 **关键词**：I wiggled the broomstick / He walked over to me
 **为什么这样写**：上车邀请被他本人拦截——玩笑进入正题前的最后一次刹车；wiggle 的动作把轻快与误判并置。

@@ -6,8 +6,8 @@ modified: "2026-11-16"
 # 25. Chapter Twenty-Five
 
 ## 本章导航
-- **一句话概括**：Silver Wolf 与「被埋葬的老妇」对质——「I watched them bury you」「You were dead」「That's what everyone needed to believe」；恐惧被定义为「信念被整根拔起」；家史揭开：两人都住过 Pre-Priestess 的 Shadowick、Rendel 在挡「不该移动之物」、下密室被蓄意开启多年；老妇判词「magic as we know it will never be the same」后凭空消失。
-- **情感弧线位置**：死人还阳的对质章——旧伤（被瞒、被弃）与旧史（Pre-Priestess、封印）逐层翻开；结尾失踪把答案带走。
+- **一句话概括**：Silver Wolf 与「被埋葬的老妇」对质——「I watched them bury you」「You were dead」「That's what everyone needed to believe」；恐惧被定义为「信念被整根拔起」；家史揭开：两人都住过女祭司掌权之前的 Shadowick、Rendel 在挡「不该移动之物」、下密室被蓄意开启多年；老妇判词「magic as we know it will never be the same」后凭空消失。
+- **情感弧线位置**：死人还阳的对质章——旧伤（被瞒、被弃）与旧史（女祭司之前的时代、封印）逐层翻开；结尾失踪把答案带走。
 - **Tropes 兑现/反转**：「假死归来」兑现；「传说中人」反转成 Caleb 的「You're not real」；「Rendel 的罪状」反转成「他一直在挡」。
 - **人物弧线**：Silver Wolf 的恐惧首次被命名（beliefs ripped away）；老妇「I take no sides」却是全书最知情人；Caleb 的神话知识成新情报源。
 - **叙事手法**：对质用对偶句互掷（dead/not dead、choice/no choice）；「Fear.」单词段接长解释；结尾失踪在「I believe so」的肯定句里发生。
@@ -116,7 +116,7 @@ modified: "2026-11-16"
 > The woman interrupted me. “Maeve, the compound existed long before the Priestess came to Shadowick. There were people who lived there who understood the older magic. Once she came into power, those people kept certain places sealed because they knew what could happen if those boundaries were disturbed.”"
 **中文理解**：「但影子在两个村子之间移动，」我说：「还有女祭司的领地……」老妇打断我：「Maeve，那片领地在女祭司来 Shadowick 之前就早已存在。那里住过懂得古老魔法的人。等她掌权，那些人把某些地方封死——因为他们清楚，边界一旦被搅动会发生什么。」
 **关键词**：the compound existed long before the Priestess / those people kept certain places sealed
-**为什么这样写**：领地的年代被拨回女祭司之前——Pre-Priestest 世代首次入册；「those people」暗示老妇就是其中之一。
+**为什么这样写**：领地的年代被拨回女祭司之前——女祭司掌权之前的世代首次入册；「those people」暗示老妇就是其中之一。
 **读者视角提示**：读者拿到时间修正案：女祭司是继承者不是创建者——封印是集体意志的遗产。
 
 > **原句 12:** "And that was when I realized it.
@@ -128,8 +128,8 @@ modified: "2026-11-16"
 > The woman’s expression tightened. “Yes.”"
 **中文理解**：就在那时我明白了。「你们住在那儿，」我低声说，意识到她有多古老：「Rendel 也是。」老妇的神色绷紧了：「是。」
 **关键词**：You lived there / And so did Rendel.
-**为什么这样写**：推理以低声完成——她终于把两个人的坐标钉进 Pre-Priestest 时代；「Yes.」一字的确认重若千钧。
-**读者视角提示**：读者拿到两人的真实年龄层：Pre-Priestest 世代——所有关于「很久以前」的谜都绕不开他们。
+**为什么这样写**：推理以低声完成——她终于把两个人的坐标钉进女祭司掌权之前的时代；「Yes.」一字的确认重若千钧。
+**读者视角提示**：读者拿到两人的真实年龄层：女祭司掌权之前的世代——所有关于「很久以前」的谜都绕不开他们。
 
 > **原句 13:** "“I take no sides,” the woman replied. “But I will tell you this. If Gideon happens to reach the lower chambers, he’ll be drawn toward the call.” She pressed her lips together and looked over at Keegan. “And if the old magic recognizes his bloodline, it may allow him to go farther than Rendel ever intended, and magic as we know it will never be the same.”"
 **中文理解**：「我不站队，」老妇回答：「但我可以告诉你这个。如果 Gideon 真的到达下层密室，他会被那个召唤拉过去。」她抿紧唇看向 Keegan：「而如果古老魔法认出他的血统，它也许会允许他走得到比 Rendel 预想中更远的地方——到那时，我们所知的魔法将永远不同。」
@@ -169,19 +169,17 @@ modified: "2026-11-16"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | exploited | 被利用、被乘虚而入 | The woman shook her head. “That’s not entirely fair. There were cracks long before the Priestess exploited them.” |
-| bound | 被绑定的 | “Stonewick and Shadowick were once bound together by an agreement that very few people remember, and these stones were placed here to protect what remained.” |
+| bound | 被绑定的 | “The passages were built to connect the old boundaries. |
 | solemn | 庄重的、肃穆的 | The Silver Wolf looked at me, and a solemn expression fell across her face. “The Priestess happened.” |
 | disbelieving | 不信的、满腹怀疑的 | The Silver Wolf gave a small, disbelieving laugh. “You don’t look dead.” |
-| anguish | 极度痛苦 | （本章以 heart ached 语境对应） |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sealed | 封死的、密存的 | “The passages were built to connect the old boundaries. The lower chambers were sealed for another reason.” |
 | bitterly | 苦涩地 | But the Silver Wolf laughed bitterly and shook her head. “He never did, which was precisely the problem all along. |
-| unravelling | 被拆解（本系列用 unravel 的-ing 形式表达信念崩解） | （对应语境： beliefs ripped away 的同义表达） |
 | selective | 有选择性的、挑剔的 | Someone who might actually know what was happening had come to us…even if she was rather selective about sharing information herself. |
-| grabbed | 一把抓住 | Keegan grabbed my hand and squeezed it as a rush of wind swept through the clearing. |
+| grabbed | 一把抓住 | The Silver Wolf took my wrist, lifted it, and studied it. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
@@ -192,4 +190,4 @@ modified: "2026-11-16"
 | grave | 坟墓（bury 之语境对应词） | “I watched them bury you,” the Silver Wolf said, and the woman nodded. |
 
 ## 一句话总结
-Silver Wolf 对「被埋葬的老妇」三段对质（dead/not dead/no choice）、恐惧被命名为「信念被整根拔起」；家史开到 Pre-Priestest 世代——两人都住过 Shadowick、Rendel 在挡越境之物、下层密室被蓄意开启多年；老妇判词「血统+密室=魔法永远改变」后凭空消失，只留下腕上一条被鉴定为「很老的 binding」的缎带。
+Silver Wolf 对「被埋葬的老妇」三段对质（dead/not dead/no choice）、恐惧被命名为「信念被整根拔起」；家史开到 Pre-Priestess era 世代——两人都住过 Shadowick、Rendel 在挡越境之物、下层密室被蓄意开启多年；老妇判词「血统+密室=魔法永远改变」后凭空消失，只留下腕上一条被鉴定为「很老的 binding」的缎带。
