@@ -1,0 +1,273 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lessons-in-love-by-mimi-tomkins/ch09 morning after and jake call.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch09_chap9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "These hands can use state-of-the-art mass spectrometry machines but do not ask me to braid. Somewhere in my fuzzy memori",
+          "ok": true,
+          "pos": 1892
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I’ve got three assignments due next week and I can barely concentrate without thinking about him. I knew it would end up",
+          "ok": true,
+          "pos": 2301
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I can’t let him down. I can’t let him go. But I have to",
+          "ok": true,
+          "pos": 2539
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Why do they hate you so much? You always joke about it but I want to know why.” Eden’s abruptness catches me off-guard",
+          "ok": true,
+          "pos": 6165
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I wanted to go to university. Which is a rare dream for someone where I’m from. I’m lucky I’ve got enough scholarships t",
+          "ok": true,
+          "pos": 7218
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Oh my God. That sounded like a man. Eden has a boyfriend! Just wait until I tell Mum.”",
+          "ok": true,
+          "pos": 8683
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I haven’t brought a boy home since high school. And even then, we only dated for a month. They’ve been on my back about",
+          "ok": true,
+          "pos": 10118
+        },
+        {
+          "text": "”",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2003,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 25 章中位 8、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

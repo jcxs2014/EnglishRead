@@ -1,0 +1,49 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch09",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch09_chap9.txt",
+ "facts": [
+  {
+   "fact": "Eden 在 Oliver 床上醒来，翻身就看见几英寸外的睡脸。",
+   "anchor": "When I roll over and find Oliver’s sleeping face inches away from me",
+   "start": 104,
+   "end": 172
+  },
+  {
+   "fact": "她摸到辫子才想起昨晚：是 Oliver 给她编的。",
+   "anchor": "my hair is in a braid",
+   "start": 1848,
+   "end": 1869
+  },
+  {
+   "fact": "她的账：下周有三份作业，一想他就学不进去。",
+   "anchor": "I’ve got three assignments due next week",
+   "start": 2357,
+   "end": 2397
+  },
+  {
+   "fact": "她的三连：不能让他失望、不能放手、但必须放手。",
+   "anchor": "I can’t let him down. I can’t let him go. But I have to.",
+   "start": 2600,
+   "end": 2656
+  },
+  {
+   "fact": "被抓包偷溜后，Oliver 提议做早餐，她犹豫后说想留下。",
+   "anchor": "I would like that.",
+   "start": 4691,
+   "end": 4709
+  },
+  {
+   "fact": "弟弟 Jake 视频乱入，听见男声便断定「Eden 有男友」并要告诉妈妈。",
+   "anchor": "Eden has a boyfriend! Just wait until I tell Mum.",
+   "start": 8987,
+   "end": 9036
+  },
+  {
+   "fact": "她交底：高中后再没带男孩回家过。",
+   "anchor": "I haven’t brought a boy home since high school.",
+   "start": 10476,
+   "end": 10523
+  }
+ ]
+}
