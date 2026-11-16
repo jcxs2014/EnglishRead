@@ -1,0 +1,97 @@
+{
+ "book": "magical-murmur-by-d-k-bolton",
+ "chapter": "ch17",
+ "text": "notes/books/novels/magical-murmur-by-d-k-bolton/text/ch17_chapter_seventeen.txt",
+ "facts": [
+  {
+   "fact": "新通道在二十英尺处撞上死墙——Nova 判定这是很久以前通往学院的老通道之一，砌法与隧道相同；「早被封死」入谜题池。",
+   "anchor": "The passage continued for another twenty feet before Nova stopped so suddenly",
+   "start": 29,
+   "end": 106
+  },
+  {
+   "fact": "Rendel 盯墙的神情带着「知晓」，让 Maeve 发毛；她对众人说没事，心里却计划独自回来查墙（Alone.）。",
+   "anchor": "an awareness behind his expression that made me…nervous",
+   "start": 1542,
+   "end": 1597
+  },
+  {
+   "fact": "一出隧道祖母就以目相认、轻轻点头——龙就在那面墙后；祖孙心照不宣，知情人从一人变两人。",
+   "anchor": "The dragons were just beyond that wall.",
+   "start": 2473,
+   "end": 2512
+  },
+  {
+   "fact": "Maeve 邀 Rendel 同去 Shadowick；几秒沉默后他缓缓点头：a very good idea。",
+   "anchor": "“Yes. Would you like to come?”",
+   "start": 3440,
+   "end": 3470
+  },
+  {
+   "fact": "Maeve 提议抄哥布林隧道被拒——Twobble 话里没有玩笑也没有夸张暴怒；Skonk 点头附议：让谁进、何时进、为什么进，由哥布林说了算。",
+   "anchor": "“I don’t want Rendel down there in our tunnels.”",
+   "start": 4115,
+   "end": 4163
+  },
+  {
+   "fact": "Rendel 嗤讽她听哥布林指挥；「对，而且永远会」——Twobble 挺胸、Skonk 微笑、Rendel 不情愿认输；boundaries and respect。",
+   "anchor": "“You’re taking directions from goblins now?”",
+   "start": 4697,
+   "end": 4741
+  },
+  {
+   "fact": "撤离令被拒：Karvey 与石像鬼留守、Miora 与奶奶不走（Our place is here）；「We have the cellar」——家的定义=人守的地方；Miora 嘱咐专心保护 Stonewick、别让更多 Ward 倒下。",
+   "anchor": "“No, Maeve. This is where we belong.”",
+   "start": 5546,
+   "end": 5583
+  },
+  {
+   "fact": "回程异象一：Twobble 反常安静；林间寂静不自然——平时该有猫头鹰和蟋蟀，学院夜里该有的嗡鸣也没了。",
+   "anchor": "“Something doesn’t feel right,”",
+   "start": 6513,
+   "end": 6544
+  },
+  {
+   "fact": "异象二：Twobble 停步示意安静——起初听不见什么，「因为这本来就不是用来听的」；微颤从靴底掠过，Keegan 把她拉近。",
+   "anchor": "Because I was meant to feel it.",
+   "start": 7856,
+   "end": 7887
+  },
+  {
+   "fact": "异象三：颤动第二波更强；Nova 跪地按土、抬眼唤 Maeve——那个声调她不喜欢；「But it was too late.」",
+   "anchor": "Another tremor rolled beneath us, stronger this time.",
+   "start": 8010,
+   "end": 8063
+  },
+  {
+   "fact": "异象四：数百只鸟拧成黑色旋流撕进夜空；学院窗户闪一下、又闪一下、彻底黑了——「Celeste」，她冲了出去。",
+   "anchor": "Hundreds of them tore upward into the night sky",
+   "start": 8271,
+   "end": 8318
+  },
+  {
+   "fact": "影墙截路、Rendel 制造影子龙卷——Maeve 以为他暴露了；父亲抢先出手被黑魔法轰中胸口；「反派最爱说的话」被 Twobble 吐槽——随后父亲坐起来，她意识到自己猜错了。",
+   "anchor": "“Stay back,” Rendel commanded.",
+   "start": 11672,
+   "end": 11702
+  },
+  {
+   "fact": "Rendel 不耐烦地点题：你不是想知道我站哪边吗——他用行动作答。",
+   "anchor": "“You wanted to know whose side I’m on.”",
+   "start": 12038,
+   "end": 12077
+  },
+  {
+   "fact": "Rendel 命令全员撤往学院、自己银紫之光独挡影墙；被榨得脸色发白——Maeve 全身笃定：他不是放影子，是拦影子（standing between them and us）。",
+   "anchor": "I’ll make a trail.",
+   "start": 13413,
+   "end": 13431
+  },
+  {
+   "fact": "章尾：一声可怕裂响——大地在 Rendel 脚下裂开（他刚说完 For now）。",
+   "anchor": "I stopped running just long enough to see the earth split open right under Rendel’s feet.",
+   "start": 14119,
+   "end": 14208
+  }
+ ]
+}
