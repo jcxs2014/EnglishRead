@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch26",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch26_chap26.txt",
+ "facts": [
+  {
+   "fact": "四年过去，这间实验室成了她的第二个家，她在读 PhD。",
+   "anchor": "Over the last four years this lab has become a second home",
+   "start": 310,
+   "end": 368
+  },
+  {
+   "fact": "她的第一篇论文已发表，经费随之涌入。",
+   "anchor": "After my first paper was published",
+   "start": 631,
+   "end": 665
+  },
+  {
+   "fact": "今晚是 Oliver 的书发布会——妈妈的故事成书。",
+   "anchor": "Oliver’s book launch.",
+   "start": 3991,
+   "end": 4012
+  },
+  {
+   "fact": "他问爸爸来没来，她答：他会来，他答应过。",
+   "anchor": "He’ll come. He promised.",
+   "start": 4578,
+   "end": 4602
+  },
+  {
+   "fact": "Jake 早断言过：我说过他爸会来——爸爸真的到场。",
+   "anchor": "I told you Ollie’s dad would come.",
+   "start": 5248,
+   "end": 5282
+  },
+  {
+   "fact": "演讲一小时，讲妈妈的经历与战地记者的权利，全场无干眼。",
+   "anchor": "not a dry eye in the room",
+   "start": 5681,
+   "end": 5706
+  },
+  {
+   "fact": "大学毕业后租的小公寓很小——但它是我们的。",
+   "anchor": "But it’s ours.",
+   "start": 6109,
+   "end": 6123
+  },
+  {
+   "fact": "全书终句：我为你骄傲到不能再骄傲。",
+   "anchor": "I couldn’t be prouder of you.",
+   "start": 6265,
+   "end": 6294
+  }
+ ]
+}

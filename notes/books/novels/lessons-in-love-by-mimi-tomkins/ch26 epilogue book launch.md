@@ -9,8 +9,8 @@ modified: "2026-11-15"
 
 - **一句话概括**：四年后——Eden 的 PhD 论文已发、早期检测突破在望；Oliver 的书在书店发布：全家前排就座、父亲到场、妈妈的死推动战地记者权利；小公寓里一句「为你骄傲」完成全书闭环。
 - **情感弧线位置**：所有账户结清章——奖学金、书稿、父子、姐妹、双胞胎的 promise 全部兑付；骄傲的接力棒从 Jake 传回 Eden 手里。
-- **Tropes 兑现/反转**：兑现 epilogue 双线全收（她的事业+他的书）；反转在父辈——当年不让进门的人，如今站在书店门口听儿子的书。
-- **人物弧线**：Eden——「smart and powerful」的 ch01 愿望全额兑付；Oliver——亡母的书改变了公共政策；Oliver 父——最后一排的沉默出席；Jake/Kiara——编内家人。
+- **Tropes 兑现/反转**：兑现 epilogue 双线全收（她的事业+他的书）；反转在父辈——当年连正眼都不给她的人，如今站在书店门口听儿子的书。
+- **人物弧线**：Eden——ch18 的「smart and powerful」宣言全额兑付；Oliver——亡母的书改变了公共政策；Oliver 父——站在门口的沉默出席；Jake/Kiara——编内家人。
 - **叙事手法**：清单式四年速览（degree/book/tutor/deal）；发布会座位表做全员点名；终句「为你骄傲」与 ch01「we're all proud of you」的呼应闭环。
 
 ## 精读
@@ -51,7 +51,7 @@ modified: "2026-11-15"
 
 **关键词**：prouder of you
 
-**为什么这样写**：终句与 ch01 Jake 的「You know we're all proud of you, right?」隔二十六章押韵——作者让骄傲完成接力：从家人给她的、到她给他的。prouder 的最高级否定式（couldn't be prouder）比 I love you 更贴合这对 CP 的语言系统：他们一直在用成就互诉爱意。
+**为什么这样写**：终句与 ch01 Jake 的「You know we're all proud of you, right?」首尾押韵（相隔二十五章）——作者让骄傲完成接力：从家人给她的、到她给他的。prouder 的最高级否定式（couldn't be prouder）比 I love you 更贴合这对 CP 的语言系统：他们一直在用成就互诉爱意。
 
 **读者视角提示**：合上书前记住这个闭环：第一页她怕挂科丢掉一切，最后一页她拥有一切——包括说这句话的资格。Lessons in Love 的最后一课，是骄傲可以当情话用。
 
