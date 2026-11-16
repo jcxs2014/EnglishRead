@@ -6,11 +6,11 @@ modified: "2026-11-16"
 # 17. Chapter Seventeen
 
 ## 本章导航
-- **一句话概括**：新通道是条死路——「很久以前通往学院的老通道之一，早被封死」；Rendel 交出「见证与记录」的差事底牌；哥布林划下隧道边界、石像鬼留守废墟；夜路上大地颤抖、群鸟炸空、学院灯灭，影子之墙切断去路——Rendel 以银紫之光独挡影墙喊出「I will make a trail」，大地在他脚下裂开。
+- **一句话概括**：新通道是条死路——「很久以前通往学院的老通道之一，早被封死」；Rendel 交出「见证与记录」的差事底牌；哥布林划下隧道边界、石像鬼留守废墟；夜路上大地颤抖、群鸟炸空、学院灯灭，影子之墙切断去路——Rendel 以银紫之光独挡影墙喊出「I’ll make a trail」，大地在他脚下裂开。
 - **情感弧线位置**：查案章的沉稳在回程被彻底打破——从论史到逃命只隔一条林间小路；章尾大地震裂是本卷最大悬念钩。
 - **Tropes 兑现/反转**：「死路探索」兑现后反转成「Ward 为何指路」之谜；「恶人喊 Stay back」的俗套被 Twobble 吐槽、又被事实反转——他真在挡。
 - **人物弧线**：Rendel 完成「见证者→挡墙者」的身份跃迁；Maeve 两次猜错他（一次自责、一次真香）；父亲中了一击把全家卷进战局。
-- **叙事手法**：前半问答体、后半动作戏；声音设计（寂静→颤抖→鸟爆→黑暗→咆哮）逐层加码；「You are holding it / For now」两句问答扛住全书最重一幕。
+- **叙事手法**：前半问答体、后半动作戏；声音设计（寂静→颤抖→鸟爆→黑暗→咆哮）逐层加码；「You’re holding it」「For now」两句问答扛住全书最重一幕。
 
 ## 精读
 
@@ -65,7 +65,7 @@ modified: "2026-11-16"
 **为什么这样写**：Rendel 的格言与祖母的点头一虚一实——哲学落地成情报；「Too many pieces were up in the air」给本章的行动欲供能。
 **读者视角提示**：读者此刻确认隔墙有龙，且祖孙俩心照不宣——秘密的知情人从一人变成两人。
 
-> **原句 3:** "Twobble had been unusually quiet through everything, staring at the ground with his arms folded, and he was frowning at Rendel in a way that made me wonder if he was about to say something cutting and goblin-like.
+> **原句 4:** "Twobble had been unusually quiet through everything, staring at the ground with his arms folded, and he was frowning at Rendel in a way that made me wonder if he was about to say something cutting and goblin-like.
 >
 >
 > Before he could, I pointed toward the ground beneath us and whispered to Twobble, “What about the goblin tunnels? It would be faster to cut through underground and come up near the Academy.”
@@ -80,7 +80,7 @@ modified: "2026-11-16"
 **为什么这样写**：她的提议恰好撞在哥布林的底线上——好意触发边界；「our tunnels」的所有格一响，笑闹的哥布林第一次亮出领土感。
 **读者视角提示**：读者学到世界观的新规矩：哥布林隧道是私产，帮再多忙也不等于开放。
 
-> **原句 4:** "I looked at him and nodded, realizing there was no humor or exaggerated goblin outrage behind his words. He simply didn’t want to offer his goblin world to Rendel.
+> **原句 5:** "I looked at him and nodded, realizing there was no humor or exaggerated goblin outrage behind his words. He simply didn’t want to offer his goblin world to Rendel.
 >
 >
 > I glanced at Skonk, and he gave one small nod in agreement.
@@ -92,7 +92,7 @@ modified: "2026-11-16"
 **为什么这样写**：幽默缺位本身就是郑重的标点——喜剧角色的正经时刻最有分量；「who, when, and why」三连把边界写成法条。
 **读者视角提示**：读者在这一格学会尊重作品里的族群边界：互助不等于通行权。
 
-> **原句 5:** "“Okay. We’ll stay on the surface.” Rendel scoffed softly. “You’re taking directions from goblins now?”
+> **原句 6:** "“Okay. We’ll stay on the surface.” Rendel scoffed softly. “You’re taking directions from goblins now?”
 >
 >
 > My head turned so fast it almost hurt, and my eyes narrowed at him. “Yes, and we always will.”

@@ -110,7 +110,7 @@ modified: "2026-11-16"
 > It sounded too much like the Silver Wolf’s worries.
 >
 >
-> “Shadowick doesn’t know what to do with freedom, Maeve. It’s a shame you interfered. There’s a lot of darkness ahead."
+> “Shadowick doesn’t know what to do with freedom, Maeve. It’s a shame you interfered.” He shook his head. “There’s a lot of darkness ahead.”"
 **中文理解**：「人在说话呢，Maeve。尤其是现在。他们安静了太多年，忽然谁都有话要说。」他越过我望向那块消失的 Ward，才把目光收回：「女祭司让 Shadowick 井井有条，可现在……俗话怎么说来着？猫一走，老鼠就开始开派对了？」这话听着不对味。太像 Silver Wolf 的担忧了。「Shadowick 不知道拿自由怎么办，Maeve。可惜你插手了。前方有很多黑暗。」
 **关键词**：the mice will play / It’s a shame you interfered
 **为什么这样写**：谚语充当政治判决——猫鼠论与 Silver Wolf 的铁腕论同源，两条敌意线索在此共谱；「a shame you interfered」把救援定罪，立场滴水不漏。
@@ -128,7 +128,7 @@ modified: "2026-11-16"
 > “I don’t have any influence over him. He makes his own decisions.”
 >
 >
-> “And yet he comes when you call. And Rendel…”
+> “And yet he comes when you call,” he said flatly. “And Rendel…”
 >
 >
 > “I have no control over him.”

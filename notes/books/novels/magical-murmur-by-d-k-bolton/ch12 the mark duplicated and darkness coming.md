@@ -149,20 +149,23 @@ modified: "2026-11-16"
 **为什么这样写**：Karvey 的「见证史」把劝阻说成自嘲式档案——石头管家比谁都懂她的路数；「written all over your face」让身体提前签了字。
 **读者视角提示**：读者在这句里认出了本系列的叙事惯性：门一定会进——台词只负责盖章。
 
-> **原句 9:** "“Maeve, I said no.”
+> **原句 9:** "Maybe it ran beneath the Ward to the other Wards, or maybe it connected to the goblin tunnels.
+>
+>
+> Or perhaps it had absolutely nothing to do with anything happening above us or around us.
+>
+>
+> I turned toward Grandma Elira. “You’re sure you’ve never seen it?”
+>
+>
+> “Maeve, I said no.”
 >
 >
 > “I know, but sometimes your no has an asterisk,” I pointed out.
 >
 >
-> Miora snickered. “She has a point.”
->
->
-> Maybe it ran beneath the Ward to the other Wards, or maybe it connected to the goblin tunnels.
->
->
-> Or perhaps it had absolutely nothing to do with anything happening above us or around us."
-**中文理解**：「Maeve，我说了不行。」「我知道，可你的『不行』有时候带星号，」我指出。Miora 偷笑：「她说得有道理。」也许这通道在 Ward 底下连着其他 Ward，也许它通到哥布林的隧道。又或者，它跟头顶和周围发生的这一切，根本毫无关系。
+> Miora snickered. “She has a point.”"
+**中文理解**：也许这通道在 Ward 底下连着其他 Ward，也许通到哥布林的隧道；又或者，它跟头顶和周围发生的这一切根本毫无关系。我转向祖母求证，她一口回绝：「Maeve，我说了不行。」「我知道，可你的『不行』有时候带星号，」我指出——Miora 偷笑：「她说得有道理。」
 **关键词**：your no has an asterisk / absolutely nothing to do
 **为什么这样写**：asterisk 的注脚玩笑把祖母的权威软化为谈判；三个 maybe 递减排列（连 Ward/连隧道/都无关）正好排成她愿意相信的程度。
 **读者视角提示**：读者在同一格里读到治家与查案的相同章法：先把「不行」谈判成「待定」。
