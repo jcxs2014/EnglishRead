@@ -1,0 +1,55 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch05",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "事后 Cora 紧抱 Aurora——她已经几年不让人这样抱了（膝盖擦伤、交友烦恼、父亲缺席都要独自硬扛，总逞强）；Aurora 第一次看见勇敢外壳下那层薄纱后的柔软女儿。",
+   "anchor": "It had been a few years since Cora let me hold her like this",
+   "start": 649,
+   "end": 709
+  },
+  {
+   "fact": "Gabriel 一言不发把干尼德（dryad）尸体拖进树林，避开 Cora 的视线，然后隔着距离坐在松树下安抚。",
+   "anchor": "Gabriel took to wordlessly dragging the dead body into the trees",
+   "start": 1205,
+   "end": 1269
+  },
+  {
+   "fact": "Gabriel 徒手治愈：掌心发出白光，先治好扭伤的脚踝、再缝合手掌的刀口——母女只在历史课与故事里听过 seraph 神力，一度当作吓唬小孩的童话。",
+   "anchor": "soft white light emanated from Gabriel’s hand",
+   "start": 3440,
+   "end": 3485
+  },
+  {
+   "fact": "Aurora 为恐惧和不信任道歉（人类从小被教育 seraph 的危险，刚才的袭击正好「印证」）；Gabriel 低吼「他与我不同」。",
+   "anchor": "One of your people attacking us reaffirmed what we had been told",
+   "start": 3920,
+   "end": 3984
+  },
+  {
+   "fact": "种族体系课：seraph 分三支——angheal、daemonites、dryads；刚才袭击她们的就是 dryad：脾气暴烈不住森林不出，操纵已存在的土/气/水/火元素（不能凭空造），森林是禁地，闯入者一律伤害或捕获；Gabriel 自称代表国王不需要 permission。",
+   "anchor": "There are three sects of seraphs: angheal, daemonites, and dryads",
+   "start": 8509,
+   "end": 8574
+  },
+  {
+   "fact": "Gabriel 记得两百年前曾有一个人类进过这个位面——但不记得他怎么来的、下场如何（自嘲当年光顾着跟姑娘调情逃了历史课）。",
+   "anchor": "there was a human who had entered this realm once before",
+   "start": 8802,
+   "end": 8858
+  },
+  {
+   "fact": "目的地是 Tironaill 的都城 Aquila City；Gabriel 宣布母女俩将以王室客人身份住进城堡——并顺口揭晓自己是国王 Torrish 的弟弟；Aurora 立刻切换贵族社交的头脑盘算仪容。",
+   "anchor": "Did I mention that I am the brother of King Torrish?",
+   "start": 9616,
+   "end": 9668
+  },
+  {
+   "fact": "章末自嘲：出发前向 Clotha 祈祷别再落入母亲之手——女神确实应验了，只是她从一个贵族体系逃出来，又一头扎进另一个贵族体系的怜悯里。",
+   "anchor": "running from one aristocratic system only to end up at the mercy of another",
+   "start": 13952,
+   "end": 14027
+  }
+ ]
+}
