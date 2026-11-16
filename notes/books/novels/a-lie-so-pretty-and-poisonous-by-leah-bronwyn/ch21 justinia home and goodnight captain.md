@@ -39,7 +39,7 @@ I snickered. “I don't like being called ‘ma'am' either. Your home is lovely,
 
 “And my enchant has never been wrong.” I could hear the amusement in her voice."
 **中文理解**：偷听：你——带女人回家。她真漂亮，这是你的——「妈，」他打断，声音压到气音：不是那样的，我只是护卫，护她直到回 Edenalee。母亲的笑声里全是了然：「我的 enchant 从来没看错过。」
-**关键词**：Bringing a woman home / I am her escort / my enchant has never been wrong
+**关键词**：Bringing a woman home / She's beautiful / This is your
 **为什么这样写**：恋爱线由「第三方认证」启动——母亲的断言与儿子的否认同框，谁可信一目了然；U+2060 的被截断句是她没说完的「这是你的（命定之人）」，省略号即预言。
 **读者视角提示**：记住 Justinia 的 enchant 从未失手这个设定——她的话在本书等同于预言。这条线由母亲亲口铺下，兑现只是时间问题。
 
@@ -73,7 +73,7 @@ I met Amos' eyes. “It is a pleasure to meet you. Thank you so much for allowin
 
 He leaned down closer to my ear. “You're a good mother.” I couldn't stifle the shiver that passed through me that time, and I honestly didn't care."
 **中文理解**：他说你父母是傻瓜——你说过你不认贵族头衔？她答：我一辈子都是母亲的眼中钉，永远质疑、永远顶撞，受不了镀金笼子里的贵族生活；四年前出逃就是为了让女儿不必重蹈。他俯到耳边：「你是个好母亲。」这次的战抖她没压，也不想压。
-**关键词**：a thorn in my mother’s side / gilded cage / You’re a good mother
+**关键词**：don't claim your nobility / gilded cage / fools
 **为什么这样写**：三段对话完成「身世—出逃—认可」的递进，`gilded cage`（镀金牢笼）把贵族生活钉死在囚禁语义上；他耳语的那五个字是全书第一个不带条件的肯定——与 prologue 的「总失败」形成首尾对撞。
 **读者视角提示**：「你是个好母亲」请记成情感锚点——它来自一个见过她最狼狈时刻的人，含金量超过任何贵族的恭维。这句话日后会反复供她取用。
 
@@ -81,7 +81,7 @@ He leaned down closer to my ear. “You're a good mother.” I couldn't stifle t
 
 His warm eyes searched mine. “Of course, my lady.”"
 **中文理解**：入城庭院满是目光，她耳语「该 Plan B 了」，随即高声演出：谢谢队长扶我起来——那匹母马太容易受惊！希望您能找到它。他温热的眼睛与她对视，配合接词：当然，夫人。
-**关键词**：plan B / blurted out / Of course, my lady
+**关键词**：plan B / blurted out / mare spooks so easily, find her
 **为什么这样写**：谎言以「音量」执行——演给围观者看的戏码需要两个演员的默契；`warm eyes searched mine` 在假戏里真传情，夫妻店式的对词完成共犯关系的公开首演。
 **读者视角提示**：对照 ch18 的「仆人通道」——这次他们正面穿过人群：从躲藏到演出，两人在「如何对世界撒谎」上完成了技能互补。
 
@@ -91,7 +91,7 @@ His warm eyes searched mine. “Of course, my lady.”"
 
 “Goodnight…” A smile crept out of me. “Captain.”"
 **中文理解**：楼梯口她说「谢谢」两个字不够分量。他答：不客气……Rory——嘴角上扬；她恨自己竟这么喜欢名字落在他舌上的样子：轻巧、诚实。她笑着回敬：晚安……Captain。
-**关键词**：isn’t a strong enough thing to say / You’re welcome…Rory / Goodnight / Captain
+**关键词**：isn’t a strong enough thing to say / what you did for me / shook my head / Captain
 **为什么这样写**：道别以「称呼的交换」完成——她给了他名字，他还她一个军衔，两人的昵称互惠正式生效；`hated how much I liked` 是本书最诚实的心动句式：享受与抵抗同账。
 **读者视角提示**：记住这三个称呼的接力（Aurora→Rory→Captain）——每一次称呼的松动都是关系的里程碑。下一章他若再叫错，就是作者在提醒你：他们又退了一步。
 

@@ -35,7 +35,7 @@ modified: "2026-11-16"
 
 “I left something for you on your bed.” He smiled, and I watched as he strode out the door."
 **中文理解**：Gabriel 提前折返：要办的事都派给别人了——你才是我今天的第一顺位。临走笑着留话：我在你床上留了个东西。
-**关键词**：You are my priority today / I left something for you
+**关键词**：You are my priority today / I assigned it to someone else
 **为什么这样写**：日程被 rearranged 成求爱剧本——「派给别人」宣示他的权力冗余；床上的「东西」先于说明出现，礼物的悬念带着入侵感（他进过她的房间）。
 **读者视角提示**：对照 Darragh 的「只隔一层玻璃」与 Gabriel 的「直接进房」——两人对边界的理解差了一个次元。她的不适（先于礼物的表情）值得细读。
 
@@ -67,7 +67,7 @@ modified: "2026-11-16"
 
 “No, no. You are not being punished,” he reassured. “Just a small prick of the finger and a few drops of blood with a promise not to think or speak this way again."
 **中文理解**：Gabriel 的裁决：人类的苦难源于他们对 Themis 的冷待——你平安在此正是他把你送到我身边的又一证明；不过我们刚才的言论都得悔罪，今晚就去庭院的 Themis 神碑行赎罪礼。她倒抽冷气，他安抚：不是惩罚——小小一刺、几滴血、外加一个「再也不这样想和说」的承诺。
-**关键词**：callousness about Themis / repent / a small prick of the finger
+**关键词**：callousness about Themis / repent / more proof that he sent you to me
 **为什么这样写**：恋人的安抚以滴血收尾——「不是惩罚」的免责声明与「必须流血」的执行令同句打包；`sent you to me` 把她的存在再次神学化，苦难成了他求偶的论据。
 **读者视角提示**：把「滴血赎罪」与 ch08 的三滴血礼、ch02 的歉收并读——献血在这个体系里是日常货币，连爱情纠纷都要用它结账。
 

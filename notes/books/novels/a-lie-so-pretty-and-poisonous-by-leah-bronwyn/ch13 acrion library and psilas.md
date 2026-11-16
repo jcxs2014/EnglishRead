@@ -63,7 +63,7 @@ modified: "2026-11-16"
 
 > **原句 9:** "“Which noble family employed him?” Darragh asked.
 
-Acrion glared at him, lowering his brow and squinting his eyes. “Which noble family,” he practically growled."
+Acrion glared at him, lowering his brow and squinting his eyes. “The Noble house of Toolock,” he practically growled."
 **中文理解**：Darragh 追问：是哪家贵族雇的他？Acrion 眯眼瞪他、几乎是从牙缝里挤出：Toolock 贵族家。
 **关键词**：employed him / Which noble family / growled
 **为什么这样写**：两个男人用同一个问题互相较劲——信息由谁问出、被谁答出都是权力；`growled` 的不情愿暴露学者的护短（对 crossling 的敌意连学术答案都要赌气给）。
@@ -71,7 +71,7 @@ Acrion glared at him, lowering his brow and squinting his eyes. “Which noble f
 
 > **原句 10:** "I was wondering if we could go to the farm that Psilas worked at? I know he is long since dead, and it will probably lead to nothing, but I have to check. Even a small piece of information about him could be useful.
 
-“If you didn’t suggest it, I was going to. It’s probably lead to nothing,” he shrugged."
+“If you didn’t suggest it, I was going to. It’s the next logical step,” he shrugged."
 **中文理解**：她提出想去 Psilas 干活的农场看看——知道他早已作古、多半一无所获，但必须去查；关于他的哪怕一小片信息都可能有。Darragh 耸肩：你不说我也正要提，这是下一步的必然。
 **关键词**：I have to check / a small piece of information / probably lead to nothing
 **为什么这样写**：死局里的行动主义——「probably lead to nothing」与「have to check」并置，是侦探式主角的方法论宣言；两人的答案重合（他也想到了），第一次智力同频。

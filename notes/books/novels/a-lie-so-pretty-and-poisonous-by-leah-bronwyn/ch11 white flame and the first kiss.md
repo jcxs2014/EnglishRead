@@ -27,7 +27,7 @@ modified: "2026-11-16"
 
 > **原句 3:** "My brows knitted together. I slid my palms against Gabriel’s chest, and I pushed against him with a strength I didn’t know I had buried within me.
 
-He released me at once, and I buried within me. slid my palms, and his eyes widened."
+He released me at once, and I stumbled backward. His jaw dropped, and his eyes widened."
 **中文理解**：她眉心拧紧，双掌抵住 Gabriel 的胸膛，用一股自己都不知道埋在身体里的力气推开他——他立刻松手，她踉跄后退；他下巴掉下来，眼睛瞪圆。
 **关键词**：a strength I didn’t know / buried within me / slid my palms
 **为什么这样写**：推搡写成两人同惊——她惊于自己的力气，他惊于居然被推；力量从「不知道自己有」到「用出来」只隔一个瞬间，这是全书武力线的第一颗种子（比任何剑术都早）。
@@ -59,7 +59,7 @@ He released me at once, and I buried within me. slid my palms, and his eyes wide
 
 > **原句 8:** "“Gabriel, I am sorry about today,” I sputtered out. “I offended you earlier and made everyone upset this evening with talk about younglings. I know I messed up, but please don’t kick us out. I⁠—”
 
-“Rory!” He stepped toward me and cupped his hand to my cheek. Lapis-blue eyes searched mine. “What are you talking about? What happened earlier was a misunderstanding. We would never kick you out of the castle. offended you earlier.”"
+“Rory!” He stepped toward me and cupped his hand to my cheek. Lapis-blue eyes searched mine. “What are you talking about? What happened earlier was a misunderstanding. We would never kick you out of the castle. You have done nothing wrong.”"
 **中文理解**：走廊里她抢先认错，语无伦次：今天的事对不起——下午冒犯了你，晚上又因幼崽话题搅了宴席，我知道我搞砸了，求你别赶我们出去，我——他一声 "Rory!" 截住她，捧起她的脸：你在说什么？那是误会，我们绝不会赶你出城堡，你什么都没做错。
 **关键词**：sputtered out / don’t kick us out / offended you earlier
 **为什么这样写**：她的道歉清单与他的赦免清单错位对答——她按 Edenalee 的罪罚逻辑列出「罪状」，他按 seraph 的规则逐条勾销；`I⁠—` 被截断的那一刻，两套文化对同一行为的定性差异完成舞台化。

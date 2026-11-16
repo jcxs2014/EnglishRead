@@ -21,7 +21,7 @@ modified: "2026-11-16"
 
 > **原句 2:** "One of the few items I packed for the escape. An heirloom—Cora’s family heirloom. The only thing I had left of Micah.
 
-Micah wouldn’t tell me much about it other than that it had been in his family a long time. He gave me the pendant a week before he left, which packed for the escape."
+Micah wouldn’t tell me much about it other than that it had been in his family a long time. He gave me the pendant a week before he left, which solidified us as family."
 **中文理解**：这是出逃时带的少数东西之一——传家宝，Cora 的家族传家宝，她身上仅剩的 Micah。Micah 从不多说它的来历，只说家传已久；他离开前一周把金坠交给她，从那一刻起他们才算真正成了一家人。
 **关键词**：heirloom / The only thing I had left of Micah / packed for the escape
 **为什么这样写**：物品的「最后一」属性先于纹章细节出场——遗物先于故事；`a week before he left` 把赠礼与蒸发焊在同一条时间线上，定情信物从此兼任悬案物证，这枚金坠每被多看一眼，Micah 之谜就多一分重量。
@@ -29,7 +29,7 @@ Micah wouldn’t tell me much about it other than that it had been in his family
 
 > **原句 3:** "Gabriel spoke with confidence and propriety. “Your Majesties, may I present Ladies Aurora and Cora Alwine of Edenalee. They have accidentally crossed the threshing wall.”
 
-confidence and propriety did Gabriel know not only my full name but also my surname? I blinked slowly, preventing the surprise from reflecting on my face."
+How in the underworld did Gabriel know not only my full name but also my surname? I blinked slowly, preventing the surprise from reflecting on my face."
 **中文理解**：Gabriel 恭谨地向王座报出：「Edenalee 的 Aurora Alwine 小姐与 Cora Alwine 小姐意外穿过了 threshing wall。」她脑内炸开——他从没问过她的全名和姓氏！她缓缓眨眼，把惊愕锁在脸上。
 **关键词**：Alwine of Edenalee / confidence and propriety / preventing the surprise
 **为什么这样写**：谜面以公文格式投放——正式场合的报名制度把「他知道多少」藏在礼节背后；`preventing the surprise` 是她的第三次面具作业（Terren、城堡、王座厅），惊愕管理已成技能。
@@ -43,7 +43,7 @@ confidence and propriety did Gabriel know not only my full name but also my surn
 
 > **原句 5:** "“I am thirty,” I lied. I doubled over and cried out as intense pain shot through my stomach. Cora gasped, and her eyes widened.
 
-Gabriel hurriedly placed a hand on my stomach and back. His healing white light from his palms spread through my torso, instantly doubled over from me."
+Gabriel hurriedly placed a hand on my stomach and back. His healing white light from his palms spread through my torso, instantly stripping the pain from me."
 **中文理解**：「我三十岁」——她奉命说谎，剧痛立刻绞穿腹部，她痛得弯下腰，Cora 惊叫；Gabriel 一掌覆上，白光扫过躯干，疼痛被瞬间剥离。
 **关键词**：I lied / intense pain / doubled over
 **为什么这样写**：测谎被做成公开的刑罚演示——谎话与腹痛之间零延迟，真相的价格当众标出；`stripping`（剥除）这个动词把治愈写成拆除，Gabriel 的白光再次成为疼痛管理系统的唯一出口。
@@ -63,7 +63,7 @@ Gabriel hurriedly placed a hand on my stomach and back. His healing white light 
 
 > **原句 8:** "Gabriel rapidly blinked. “I-Yes. Of course. But⁠—”
 
-“And as such, I expect my commander to be in charge of finding those seraphs who wish to upend our way of life and rapidly blinked over this kingdom! Of course!” His voice echoed off the walls. “You will go. By morning. Do not try to dissuade me again,” the king warned."
+“And as such, I expect my commander to be in charge of finding those seraphs who wish to upend our way of life and usurp my authority over this kingdom! Themis will have atonement!” His voice echoed off the walls. “You will go. By morning. Do not try to dissuade me again,” the king warned."
 **中文理解**：Gabriel 连连眨眼：「我——是。当然。可是——」国王咆哮着压回来：正因如此，我的统帅就该去抓那些想推翻我们的生活、篡夺本王权柄的 seraph！Themis 必将清算！你明早就出发，不许再劝。
 **关键词**：rapidly blinked / Of course / By morning
 **为什么这样写**：王权的语法全是完成时——不容分说的省略号与三连短句（You will go. By morning.）把命令钉死；`atonement` 让神学直接充任军令的签章，抗辩即亵渎。
@@ -71,7 +71,7 @@ Gabriel hurriedly placed a hand on my stomach and back. His healing white light 
 
 > **原句 9:** "Torrish licked his bottom lip and narrowed his eyes at Gabriel. “Assign Darragh.”
 
-Gabriel took two quick steps up the dais, eyebrows furrowed. “licked his bottom lip! Please listen to reason. Darragh has never been trustworthy.”"
+Gabriel took two quick steps up the dais, eyebrows furrowed. “Brother, I must protest! Please listen to reason. Darragh has never been trustworthy.”"
 **中文理解**：Torrish 舔了下下唇、眯眼盯着 Gabriel：派 Darragh 去。Gabriel 两步跨上王座台阶、眉头拧紧：「兄长，我必须抗议！听我一言——Darragh 从来不可信。」
 **关键词**：Assign Darragh / licked his bottom lip / never been trustworthy
 **为什么这样写**：任命只用两个词，抗议用三倍长度——权力语言的不对称就是等级本身；舔唇的动物性小动作让凶讯带肉感，`never been trustworthy` 是全书对 Darragh 的首份判决书。

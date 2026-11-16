@@ -47,7 +47,7 @@ modified: "2026-11-16"
 
 “Where?”
 
-“somewhere they won’t be a bother,” he said nonchalantly and bit into his bread.
+“The underworld,” he said nonchalantly and bit into his bread.
 
 I raised my eyebrows and sat in stunned silence, unsure if he was joking or not."
 **中文理解**：她问那三人会不会找来——「不会。你再也见不到他们了，我送他们去了不会烦人的地方。」「哪里？」「冥界。」他咬着面包轻描淡写；她扬眉僵坐，分不清他是玩笑还是认真。
@@ -81,7 +81,7 @@ I raised my eyebrows and sat in stunned silence, unsure if he was joking or not.
 
 > **原句 11:** "“You ruined your dress, and you scold me when I get my nice clothes dirty.”
 
-She is definitely going to scold me the next time she comes home covered in dirt.” She placed her hands on Cora’s shoulders. “We had a little sleepover last night, and Cora and I nice clothes dirty."
+She is definitely going to use that against you the next time she comes home covered in dirt.” She placed her hands on Cora’s shoulders. “We had a little sleepover last night, and Cora and I played cards."
 **中文理解**：Cora 检查完妈妈的老底：你把裙子弄脏了——还骂我不爱惜好衣服！Anya 大笑：下次她滚一身泥回家，肯定拿这句反杀你；昨晚我们睡了一场小派对，Cora 和我打了牌。
 **关键词**：ruined your dress / scold me / nice clothes dirty
 **为什么这样写**：重逢的温度用「翻旧账」测量——孩子能开着玩笑责备，说明安全感满格；`sleepover` 把惊惶的夜晚改写成睡衣派对，Anya 的安抚工程交出了完美答卷。

@@ -45,9 +45,9 @@ modified: "2026-11-16"
 
 > **原句 6:** "Alec broke the heavy silence as the horse pulled the wagon onto a small, worn path that put us parallel to the barrier. “Do you ever wonder what it’s like on the other side of that wall?”
 
-I scoffed. “No. I assume it is filled with nothing more than parallel to the barrier.”"
+I scoffed. “No. I assume it is filled with nothing more than magic and monsters.”"
 **中文理解**：货车转上一条与屏障平行的破旧小径，Alec 打破沉默问她：有没有想过墙的那一边是什么样子？她嗤笑：没有。我猜那边除了魔法就是怪物。
-**关键词**：parallel to the barrier / Do you ever wonder
+**关键词**：parallel to the barrier / parallel to the barrier
 **为什么这样写**：这句台词是全书最大的反讽装置——她嘴里的「怪物之地」就是接下来三十章的舞台，而真正的怪物（Terren）正在她身后追。傲慢的无知（scoffed）是奇幻故事最爱的钩子。
 **读者视角提示**：把这句话原样存档——等 Aurora 亲眼见到 seraph 社会时，作者大概率会让她逐条对账：哪些是怪物，哪些比 Terren 更像人。
 
@@ -59,11 +59,11 @@ I scoffed. “No. I assume it is filled with nothing more than parallel to the b
 
 > **原句 8:** "Alec turned to me. “Horses.”
 
-A steady strum of hooves Horses, cutting the quiet of the forest.
+A steady strum of hooves battered the ground, cutting the quiet of the forest.
 
-My heart skipped a beat. “turned to me”"
+My heart skipped a beat. “Shit! Terren!”"
 **中文理解**：Alec 只说了两个字：马蹄声。密集的马蹄正在捶打地面、撕开森林的寂静——她心跳漏了一拍：糟了，是 Terren！
-**关键词**：Horses / Alec / turned to me
+**关键词**：Horses / Horses / turned to me
 **为什么这样写**：三个最短句各占一段，制造三次心跳式的警报升级——一个词的情报、一段音效、一句脏话；追兵不用露面，声音先行，恐怖的音量是逐格调大的。
 **读者视角提示**：注意追兵规模是「复数马匹」——Terren 带了帮手，这坐实了 ch01 他那句 "I have my men watching" 不是空话。
 

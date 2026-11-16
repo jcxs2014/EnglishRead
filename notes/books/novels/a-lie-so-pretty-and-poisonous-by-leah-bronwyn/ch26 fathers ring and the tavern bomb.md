@@ -49,7 +49,7 @@ modified: "2026-11-16"
 
 Militia. They bombed the tavern. Rory, I need to go help check for survivors."
 **中文理解**：一声震耳的巨浪把整个人掀翻在地——视野恢复后耳中嗡鸣，后脑磕上鹅卵石路面突突直跳，温热顺着后脑流下脖颈。Gabriel 告知：民兵。他们炸了酒馆——我得去帮着查有没有幸存者。
-**关键词**：A deafening boom / smacking into the cobblestone / They bombed the tavern
+**关键词**：A deafening boom / smacking into the cobblestone / thrown backwards onto the ground
 **为什么这样写**：爆炸用「听觉失序+触觉升温」写——她比读者更早知道自己流血（warmth=血）；他去救人的安排与 Ros 的到来（下一块）构成救援接力赛的接力棒交接。
 **读者视角提示**：注意 Gabriel 的优先级（救陌生人>陪她）——这与 Darragh 的「绝不留你独处」形成最刺眼的一组对照，Ros 的毒舌会替读者说出来。
 
@@ -63,7 +63,7 @@ Militia. They bombed the tavern. Rory, I need to go help check for survivors."
 
 Gabriel wants to believe in things that only align with his preconceived beliefs and thoughts. Everything else is labeled hysterics and blasphemy."
 **中文理解**：她问他信不信——我为什么不信你？随即补刀：Gabriel 只信符合他既有信念的东西，其余一律贴上歇斯底里与渎神的标签。
-**关键词**：Why wouldn’t I believe you / preconceived beliefs / hysterics and blasphemy
+**关键词**：Why wouldn’t I believe you / preconceived beliefs / believe
 **为什么这样写**：信任被定义成「免检」——他不需要证据就采信她，与 Gabriel 的「标签流」构成取证制度的两极；`preconceived beliefs` 一词把偏见写成操作系统。
 **读者视角提示**：把这句「Why wouldn't I」记成同盟的奠基文件——对照 ch09 Gabriel 的测谎审讯：一个用问句验证她，一个用身份预先不信她。
 

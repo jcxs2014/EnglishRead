@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 “Rory, you're my friend. We haven't known each other long, but I can see what a beautiful soul you have and what an amazing mother you are. I always take care of people who are important to me. You and Cora are important to me.”"
 **中文理解**：Anya 现场开药：我能弄到——医师朋友的私藏药材库，一小时加一张清单就送到。继而定调友谊：认识不久，但我看见你的灵魂与母职——我照顾对我重要的人，你和 Cora 都重要。
-**关键词**：the healer’s stash of herbs / a beautiful soul / You and Cora are important to me
+**关键词**：the healer’s stash of herbs / a good friend of mine / Give me an hour and a list
 **为什么这样写**：友谊以「物资+宣言」双重交付——她的资源网（医师、私交）第一次为她所用；`important to me` 的重复句式把情谊说成承担而非客套。
 **读者视角提示**：数一数 Anya 的付出清单（读心救场、圆谎配合、药材、守夜）——对照Gabriel 的礼物单，全是「她需要什么」vs「他想要什么」的分野。
 
@@ -55,7 +55,7 @@ modified: "2026-11-16"
 
 Dreams of heartache, betrayal, lies, and longing."
 **中文理解**：安眠药水起效很快，她怕吵醒 Cora 便睡在沙发上——本是配的无梦之药，梦还是来了：心碎、背叛、谎言与渴望。
-**关键词**：a tonic for a dreamless sleep / the dreams came anyway / longing
+**关键词**：a tonic for a dreamless sleep / the dreams came anyway / sleep on the sofa
 **为什么这样写**：失效的药是章末判词——她能配药安眠、配不出安眠；四个名词（心碎/背叛/谎言/渴望）恰好是她此刻人生的四张底牌，梦是她唯一无法撒谎的听众。
 **读者视角提示**：把「无梦药熬出四梦」记成 Darragh 线的低点标记——按本书「药水总有一次应验」的规律（ch16 药水穿越），这个梦也该有醒来的一天。
 

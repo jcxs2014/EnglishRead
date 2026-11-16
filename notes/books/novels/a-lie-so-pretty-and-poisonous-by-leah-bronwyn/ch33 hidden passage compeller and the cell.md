@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 “I just hope she gives in and makes it easier on herself. She's exhaustingly stubborn. I have been using my enchant on her when the occasion calls for it, which is often. Mostly for my own gratification," he laughed darkly."
 **中文理解**：她刚翻过的书架向内旋开——暗道石阶上走下来两个人。Gabriel 的声音自供：但愿她识相点让自己好过——她固执得要命；「场合需要我就对她用 enchant，经常用——大多为了我自己的爽」，黑暗里一声冷笑。
-**关键词**：a hidden passage / using my enchant on her / Mostly for my own gratification
+**关键词**：a hidden passage / stone steps that two pairs of legs climbed / bookshelf I was just perusing
 **为什么这样写**：暗门=暗事的门面——书房的夹层与他的私欲共用同一堵墙；`gratification`（自娱）一词把「求爱」的全部温柔一次性清算成自利，偷听者的位置让读者与她的幻灭同步。
 **读者视角提示**：把这句「enchant 自供」与 ch28 的浴室偷听、ch24 的「求缘」连读——他对她做过的每一件「好事」都可能是 enchant 的产物。她之前的所有心动自此全部悬置。
 
@@ -37,7 +37,7 @@ modified: "2026-11-16"
 
 “Yes, unfortunately. Marco, the dumb shit, took her father's ring off him and sold it to the blacksmith to pay for his gambling debts. I'll be handling him and his carelessness soon.”"
 **中文理解**：Gabriel 交底：派她去找学者是「愚人差事」——大战后所有书都被清洗过，只剩只言片语；那蠢货（Darragh）倒真带她去了 Toolock 庄园找答案，她起疑了但还没查出怎么来的。Marco 那个蠢货把她父亲的戒指撸下来卖刀匠抵赌债——他的粗心我很快会亲自处理。
-**关键词**：a fool's errand / all books were scrubbed / took her father's ring off him
+**关键词**：a fool's errand / all books were scrubbed / snippets of information remain
 **为什么这样写**：两条「疏漏」并列（书被清洗 vs 戒指被卖）——Gabriel 的愤怒对象是 Marco 不是计划泄露，说明人的粗心比制度更能漏风；`fool's errand` 表明「让她查」本身就是消遣。
 **读者视角提示**：记下「books were scrubbed after the Great War」——她的学者路线从一开始就是死路，这不是巧合是清洗。被抹掉的历史，正是两百年前那场「Great War」的战场。
 
@@ -45,7 +45,7 @@ modified: "2026-11-16"
 
 I covered my mouth and almost gasped at the revelation. My father could still be alive. Maybe Micah was as well."
 **中文理解**：暗道里第二人问：elixir 的库存还剩多少——我的侦察兵在 Edenalee 与这里之间来回跑、快见底了。她捂嘴险些惊呼：父亲可能还活着！Micah 可能也是！
-**关键词**：how much of the elixir / back and forth between Edenalee / My father could still be alive
+**关键词**：how much of the elixir / back and forth between Edenalee / My scouts are running low
 **为什么这样写**：希望以「库存」的形式突然到场——她的绝望清单（失踪=死亡）被一句后勤对话推翻；`elixir` 与 ch20 的 tincture 假说并轨：穿越的化学早已工业化。
 **读者视角提示**：这是全书最大的希望注入——「失踪者还活着」从猜测升级为供应链事实。父亲与 Micah 的「活着」同时点亮，母女营救变成两条线。
 
@@ -53,7 +53,7 @@ I covered my mouth and almost gasped at the revelation. My father could still be
 
 “Without a doubt,” Gabriel responded. “I must ensure there are plenty to go around. Have you selected a human female for yourself yet, Alec?”"
 **中文理解**：全盘计划出口：情报加「已成功 secured」的人类，知道该动哪些地点和哪些人——女性最容易送进营地，贵族们怕是已经等不及要挑人了。Gabriel 应承：我保证管够——你自己挑好人选了吗，Alec？
-**关键词**：the humans that we have been successful at securing / The females will be easiest / Have you selected a human female
+**关键词**：the humans that we have been successful at securing / The females will be easiest / the nobles are antsy to get their hands on one
 **为什么这样写**：人口买卖以「采购清单」的口吻流出——`secured`（已成功确保）把绑架写成 KPI；Alec 的选妃对话与 Gabriel 的「管够」承诺，把繁殖计划说成赏赐分配。
 **读者视角提示**：这一段是全书阴谋的总目录——失踪潮、屏障、药水、营地、买家，全部串成一条供应链。她此前每一个「孤立事件」的谜面，都在这两页对话里找到发货单。
 
@@ -91,7 +91,7 @@ I covered my mouth and almost gasped at the revelation. My father could still be
 
 The loop of memories played over and over until sleep dragged me down to the depths of my dreams...nightmares."
 **中文理解**：眼泪流干、疲惫压顶——她闭眼清点此生最珍贵的记忆：Cora 的出生、Micah 第一次被她抓住手指的笑、她的酒窝、第一次骑马、Greta 教她配药水。记忆的循环播放了一遍又一遍，直到睡意把她拖进梦境深处—— nightmares。
-**关键词**：all my favorite memories / The loop of memories / nightmares
+**关键词**：all my favorite memories / heaviness of exhaustion / tears dried up
 **为什么这样写**：收尾的记忆清单是全书的「资产盘点」——出生、初恋、骑术、草药，每一条都对应一章的前史（ch00/ch03/ch21/ch02）；dreams 变 nightmares 的一词翻转，让全书最后一次「睡去」带着警报音。
 **读者视角提示**：这张记忆清单在总览层会再次出现——它是人物弧的「存款余额」。记住 Greta 的药水课排在最后：她的求生技能永远是最年轻的那笔存款。
 

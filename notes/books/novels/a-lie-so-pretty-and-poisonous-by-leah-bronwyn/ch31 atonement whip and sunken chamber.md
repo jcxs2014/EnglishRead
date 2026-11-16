@@ -45,9 +45,9 @@ modified: "2026-11-16"
 
 > **原句 6:** "Darragh didn't hesitate and cracked the whip, slicing open Russtoph's tender, exposed flesh. Blood splattered into the pool, and Russtoph screamed.
 
-My eyes opened at the next CRACK. The lashing was just as brutal, and another strip of flesh was ripped off Russtoph. Crack! Crack! Crack! The blood rolled down the marble block in rivulets and into the deep crimson pool below, giving Themis the sacrifice he demanded."
+My eyes opened at the next CRACK. The lashing was just as brutal, and another strip of flesh was ripped off Russtoph. … Crack! Crack! Crack! The blood rolled down the marble block in rivulets and into the deep crimson pool below, giving Themis the sacrifice he demanded."
 **中文理解**：Darragh 不曾迟疑——鞭梢撕开 Russtoph 暴露的皮肉，血溅入池，惨叫四起。下一声 CRACK 炸开时她睁了眼：又一整条皮肉被撕下。啪！啪！啪！血沿石台成细流滚进暗红血池，献上 Themis 索要的祭品。
-**关键词**：didn’t hesitate / Crack! Crack! Crack! / giving Themis the sacrifice he demanded
+**关键词**：didn’t hesitate / slicing open Russtoph's tender, exposed flesh / Blood splattered into the pool
 **为什么这样写**：暴力的记录完全交给拟声词——CRACK 的复现是刑罚的节拍器，叙述者的语言退场让声音接管；`giving Themis the sacrifice` 直呼其名：这是供能仪式，不是司法。
 **读者视角提示**：这段是全书暴力的峰值页——克制点在于她视角的失守（捂眼、睁眼、闭眼）。记住 Darragh 的「didn't hesitate」：它既是证据，也是未解之谜（他在演给谁看？）。
 
@@ -61,7 +61,7 @@ My eyes opened at the next CRACK. The lashing was just as brutal, and another st
 
 He glanced at me and then Gabriel and my conjoined hands as he passed, showing no reaction or emotion to the tears streaming down my cheeks or the quivering youngling next to me. His indifference made my blood run cold."
 **中文理解**：她对他的感情日日加深——自 Micah 之后第一次这样连接一个人；而这一切在剧痛的一瞬被扯空，只剩空心：原来她的心注定只是一间沉没的暗室。他离场时扫过她、她与 Gabriel 交握的手——对她的泪与身边发抖的孩子毫无反应。那份冷漠让她的血都凉了。
-**关键词**：since Micah had come into my life / a sunken chamber / my conjoined hands
+**关键词**：since Micah had come into my life / a sunken chamber / ripped out of me in an agonizing instant
 **为什么这样写**：心碎以「水位」计量——sunken chamber 把心脏写成沉没的舱室，Micah 的先例（连接→消失）再次应验；`conjoined hands` 的特写是他离场时唯一的「看」——他看的是她被占有的样子。
 **读者视角提示**：把「sunken chamber」记成她感情线的低点坐标——本书的叙事公式是「低点之后必有翻转」，这里埋的是她误读的一帧（他为什么必须冷漠？）。
 

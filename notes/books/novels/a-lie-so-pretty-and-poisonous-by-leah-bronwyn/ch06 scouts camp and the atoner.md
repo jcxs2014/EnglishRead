@@ -39,17 +39,17 @@ modified: "2026-11-16"
 
 > **原句 5:** "I blinked. “Why do you assume I am of noble blood?”
 
-“The way you noble blood and speak. I can tell you have training and Why do you assume that are usually lacking in commoners. Am I wrong?”"
+“The way you carry yourself and speak. I can tell you have training and poise that are usually lacking in commoners. Am I wrong?”"
 **中文理解**：她一怔：你怎么就认定我是贵族血统？Gabriel 答：看你举手投足与谈吐——那种平民少有的教养与仪态。我说错了吗？
-**关键词**：noble blood / assume I am / Why do you assume
+**关键词**：noble blood / noble blood / Why do you assume
 **为什么这样写**：血统识别不靠徽章靠「体态语法」——贵族制把等级刻进骨头，四年平民生活磨不掉；这句也是对 ch03 教育批判的回声：那套「聪明但不越过男人」的训练，如今成了在 seraph 王庭通行的人质信物。
 **读者视角提示**：记住「体面即出身」这条规则——Aurora 之后在城堡的每一次进退（行礼、措辞、着装）都是在这条规则上做交易，体面既是她的枷锁也是她的通行证。
 
 > **原句 6:** "Aristocrats were nothing if not consistent in their ability of sniffing out their own. “You aren’t. Though I left that life behind after Cora was born. Does that change your desire to help us?”
 
-“No. I want you safe, sniffing out their own. Besides, once a noble, always a noble. Shedding your title doesn’t change your left that life behind.”"
+“No. I want you safe, regardless of your breeding. Besides, once a noble, always a noble. Shedding your title doesn’t change your lineage.”"
 **中文理解**：贵族就是有种天分：闻出同类。她承认后补一句：生完 Cora 就退了那个圈子，这会改变你帮我们的决心吗？——不会。不管你血统如何都要保你安全；何况贵族就是贵族，丢掉头衔丢不掉血统。
-**关键词**：sniffing out their own / Aristocrats / left that life behind
+**关键词**：sniffing out their own / sniffing out their own / left that life behind
 **为什么这样写**：`once a noble, always a noble` 说的是安慰，听进她耳朵里的是判决——她四年苦心经营的「洗白」被一句话清零；「帮助无条件」与「身份不可注销」绑在同一句话里送出，恩典与围栏一起到货。
 **读者视角提示**：把这句话存进档案：它在本书后段会被反复证伪或证实——身份到底是保护伞还是通缉令，Aurora 在城堡里的每一次自报家门都在给答案投票。
 

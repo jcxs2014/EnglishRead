@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 His shoulders slumped, and he sighed. “It would bother anyone.”"
 **中文理解**：她替他把话说透：所有人都当你是不可信的、该被怕的 brute，angheal 和 daemonite 两族都不肯认你。他肩膀塌下来叹了口气：「换谁都会介意。」
-**关键词**：untrustworthy brute / claim you as one of their own / It would bother anyone
+**关键词**：untrustworthy brute / claim you as one of their own / neither angheal nor daemonite
 **为什么这样写**：心防的第一次卸板——他的回答不是逞强（“不介意”）而是承认（“谁都会”），坦诚本身就是信任的进度条；`slumped` 的肢体语言先于台词认输。
 **读者视角提示**：对照 Gabriel 的道歉（加索取）与 Darragh 的示弱（零索取）——本章他交出的是「伤口」而非「誓言」，这个顺序在本书的信任语法里更重。
 
@@ -47,7 +47,7 @@ His shoulders slumped, and he sighed. “It would bother anyone.”"
 
 Darragh slowly lowered himself next to me. Positioning himself at my waist, his voice lowered. “I have to straddle your hips and grab your arms. Are you sure this is alright?”"
 **中文理解**：他答应教摔技但立下铁律：你脸上闪过一丝恐惧我立刻停课。她应下；他引她躺进沙地、跨位到她腰侧，再次确认：我得跨住你的胯、抓住你的手臂——确定没事？
-**关键词**：a flit of fear / Lay down / Are you sure this is alright
+**关键词**：a flit of fear / we are done for the day / cross your face
 **为什么这样写**：教学谈判的条件一次比一次谨慎——「一丝恐惧即停」把同意权机制化，是全书身体接触的合规范本；三连确认（Are you sure）在紧张场景里反复搭桥。
 **读者视角提示**：对照 Terren（抓臂就拽）与 Gabriel（不由分说搂人）——Darragh 的每一寸接触都带请示。这本书教读者分辨触碰的语法，本段是教科书页。
 

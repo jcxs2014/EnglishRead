@@ -21,7 +21,7 @@ modified: "2026-11-16"
 
 > **原句 2:** "I need you to stay hypervigilant and quiet as we enter the forest. No more chatting. Can you do that?”
 
-I narrowed my eyes at him. “No more chatting?”
+I narrowed my eyes at him. “Are you saying I talk too much?”
 
 “Not at all, my lady.” He dropped his head, fighting a grin."
 **中文理解**：Darragh 下达进林指令：保持高度警觉、保持安静——别再聊天了，能做到吗？她眯眼：你是嫌我话多？「完全不是，夫人。」他垂着头憋笑。

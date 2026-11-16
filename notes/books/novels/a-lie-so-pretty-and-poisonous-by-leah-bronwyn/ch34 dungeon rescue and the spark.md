@@ -17,7 +17,7 @@ modified: "2026-11-16"
 
 The only indication of passing time was the guard shift changing and two meals per day of bread, root vegetables, and water. Food that I hadn't been able to eat, though my stomach grumbled in protest at my stubbornness."
 **中文理解**：地牢入口传来女人的怒吼——那扇门后的地牢，她已住了四天。时间流逝的唯一标记是卫兵换班，和每天两餐的面包、根茎菜与水——她一口没吃，胃抗议着她的倔强。
-**关键词**：my home for the past four days / two meals per day / my stubbornness
+**关键词**：my home for the past four days / the entrance of the dungeon / a woman's voice yelled
 **为什么这样写**：地牢的时间单位全部换成「食物与换班」——绝食是她最后一件能自己做主的事，`stubbornness` 带着自嘲的自夸；Anya 的吼声是黑暗里第一根绳子。
 **读者视角提示**：数一数她在这章「失去控制权」的清单（自由、食物、女儿、信任），再数她「保住的」（拒绝、母爱、火种）——后者才是结尾点火的本钱。
 
@@ -43,7 +43,7 @@ The only indication of passing time was the guard shift changing and two meals p
 
 “Did he?” Gabriel sneered. “Well, I outrank the Captain, and you will heed my command!”"
 **中文理解**：Gabriel 下惩罚令：动手打她——只用拳头、别碰脸。卫兵搬出 Captain 的命令，他冷笑：是吗？我官比他大——听我的号令！
-**关键词**：Use hands only / Don’t touch her face / I outrank the Captain
+**关键词**：Use hands only / Don’t touch her face / Use hands only
 **为什么这样写**：暴力令的「精细」比暴力本身更冷——连打哪里都要审批（脸是物品、要保持品相）；军阶压过道义的一句话，把 ch06 的「atoner 威胁」升级成现场执法。
 **读者视角提示**：对照 Darragh 的卫兵体系（服从他但敬他）——Gabriel 的卫兵体系（抗命未遂、服从施暴）在此完成军德对照实验。同一支军队，两套灵魂。
 
@@ -67,7 +67,7 @@ The only indication of passing time was the guard shift changing and two meals p
 
 The angheals built the kindling to their own destruction, and now it was time to light a spark and let it all burn."
 **中文理解**：抱她的人低头看她，榛绿眼睛、手掌覆上她的头顶，柔声打招呼：欢迎加入革命，亲爱的。一道刺目的蓝光闪过，她身体一软、眼前全黑。而她的内心宣言压轴：angheal 们亲手堆好了自焚的柴——现在，点火，烧个干净。
-**关键词**：Welcome to the revolution / everything went dark / light a spark and let it all burn
+**关键词**：Welcome to the revolution / everything went dark / A blinding bright blue light flashed
 **为什么这样写**：卷终以「招募语+宣言」双声收束——revolution 的「欢迎」与她的点火宣言互为门里门外：革命接受了她，她也签收了革命；`kindling`（柴）回收 ch34 开篇的绝食之倔——一切被剥夺的都成了燃料。
 **读者视角提示**：这是第一卷的终幕词——她从「逃离者」正式改签为「反抗者」。记住这个 spark：它与她的白焰（ch11）、Darragh 的影子（ch17）同源不同色，第二卷的火从哪里烧起，就看这个 spark 怎么落。
 

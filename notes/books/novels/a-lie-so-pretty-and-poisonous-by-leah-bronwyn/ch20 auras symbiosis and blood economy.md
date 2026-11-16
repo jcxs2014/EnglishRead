@@ -27,7 +27,7 @@ modified: "2026-11-16"
 
 > **原句 3:** "“Gabriel said most seraphs only have one enchant, and powerful seraphs have more. You have two. Is that why you were made Captain of the Guard?”
 
-“I have powerful seraphs have more,” he Captain of the Guard, causing a shiver that I had to stifle down."
+“I have more than two,” he rumbled near my ear, causing a shiver that I had to stifle down."
 **中文理解**：她搬出 Gabriel 的说法：多数 seraph 只有一种魔法、强者有更多——你有两种，这是你当上卫队长的原因吗？他在耳边低声更正：「我不止两种」，那一阵战栗她硬生生压了下去。
 **关键词**：powerful seraphs have more / Captain of the Guard / stifle down
 **为什么这样写**：情报修订以耳语送达——声学的贴近让信息与暧昧共用一个频道；`stifle down` 把生理反应写成需要克制的违纪，同骑的马鞍成了第二考场。
@@ -41,7 +41,7 @@ modified: "2026-11-16"
 
 > **原句 5:** "“I wouldn’t be a good Captain of the Guard if I hadn’t.”
 
-“No. I don’t read younglings. Their auras are if I had until adulthood."
+“No. I don’t read younglings. Their auras are still being molded until adulthood."
 **中文理解**：她问出最介意的问题——你读过我的灵气吗？他答：不当好队长就早该读过。至于 Cora：不读幼崽——他们的灵气到成年前一直在被塑造，看得见但变化太频繁剧烈、读不准。
 **关键词**：a good Captain of the Guard / if I had
 **为什么这样写**：他先自认「读了她」，再用「职业必需」免责——坦白与辩护打包；幼崽豁免条款的温柔在于承认「孩子还在成形」，未定型的存在不该被定性。
@@ -49,7 +49,7 @@ modified: "2026-11-16"
 
 > **原句 6:** "“When you have power given by a god, it is easy to control anyone around you.”
 
-“Not like his,” he said, seriously. “The king gets easy to control from Themis.”
+“Not like his,” he said, seriously. “The king gets a direct line of power from Themis.”
 
 “It is why he stays king. Torrish’s connection with Themis is symbiotic. They get power from each other."
 **中文理解**：他点破王权机制：手里握着神赐之力，控制身边任何人都容易——但国王跟别人不一样，他从 Themis 那里拿的是「直通电源」。正因如此他才稳坐王位：Torrish 与 Themis 是共生关系，互相供能。

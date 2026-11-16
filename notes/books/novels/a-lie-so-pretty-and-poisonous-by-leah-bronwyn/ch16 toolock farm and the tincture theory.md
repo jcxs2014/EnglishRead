@@ -23,11 +23,11 @@ modified: "2026-11-16"
 
 “I wonder how many generations removed he is from when Psilas lived here.”
 
-“From what I understand, he was been around for a long time Psilas died.”
+“From what I understand, he was born not long after Psilas died.”
 
 I tilted my head and stared at him. “That would mean this seraph is…”
 
-“fifth-generation,” he stated."
+“One hundred and thirty-six years old,” he stated."
 **中文理解**：Darragh 介绍：接头的会是庄园第五代铁匠 Lyrik——他说有位上了年纪、知道 Psilas 的老人可谈。她好奇隔了几代，答「生于 Psilas 死后不久」——她愣住追问，报出年龄：一百三十六岁。
 **关键词**：fifth-generation blacksmith / been around for a long time / fifth-generation
 **为什么这样写**：年龄用四句问答盘出来——悬念的坡道搭得像报数；`stated` 的公事口吻让超长寿命被说成常识，奇幻世界的「老」与人类的「老」在此完成汇率兑换。
@@ -37,7 +37,7 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 
 “Did Psilas tell your brother how he got from Edenalee to this side of the wall?” I asked a little too quickly.
 
-“Psilas maintained he never understood how he ended up in a forest of Tironaill. It was working with a human back then, as it is now."
+“Psilas maintained he never understood how he ended up in a forest of Tironaill. It was a mystery to everyone back then, as it is now."
 **中文理解**：Frabo 说：亡兄十六岁出头时与 Psilas 同农场做工，讲过不少与人类共事的故事。她抢着问：Psilas 有没有说他是怎么从 Edenalee 到墙这边的？——Psilas 一直说他不明白自己怎么落到 Tironaill 的森林里，当年人人不解，如今依然无解。
 **关键词**：deceased brother / a little too quickly / working with a human
 **为什么这样写**：史料是二手转述（亡兄→Frabo→她），证词的可信度被叙事距离标注；`a little too quickly` 暴露她的急切——问的是穿越机制，答的却是「无解」：先例从一开始就没给出方法论。
@@ -87,7 +87,7 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 
 > **原句 11:** "“Absolutely not!” he practically growled. “A lady ought not barter favors with men. They are not the kind of favors you will want to owe.”
 
-I dropped my eyes to the moving ground beneath Celeste's hooves. practically growled."
+I dropped my eyes to the moving ground beneath Celeste's hooves. He was right."
 **中文理解**：她要把欠 Lyrik 的人情转到自己名下，Darragh 咆哮拒绝：女人不该跟男人换人情——那种人情不是你欠得起的种类。她垂眼看马蹄下掠过的地面：他是对的。
 **关键词**：Absolutely not / barter favors with men / practically growled
 **为什么这样写**：护短与世故同句——他见过的「人情债」显然带着性别账单，警告来自经验而非说教；她无声的认输（dropped my eyes）是两人权力关系的新形态：他懂得她的世界里她没见过的脏。

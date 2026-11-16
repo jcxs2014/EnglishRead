@@ -43,7 +43,7 @@ I wiped the crust from the corners of my eyes. “Yes, thank you. I didn’t mea
 
 “Gabriel told me that seraphs don’t talk about their enchants. They keep them private.”
 
-Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave her a nod and a knowing smile. “Enchants are tiresome unless they have jobs that require secrecy, or their power is dangerous to the crown.”"
+Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave her a nod and a knowing smile. “Enchants are hardly confidential unless they have jobs that require secrecy, or their power is dangerous to the crown.”"
 **中文理解**：Anya 说共感太累，她常给自己上盾；Aurora 转述 Gabriel 的「seraph 不谈魔法、一律保密」——Anya 翻白眼：贵族男人的戏剧做派罢了。除非职务要求保密或力量威胁王权，enchant 根本算不上机密。
 **关键词**：shield myself / dramatic flair / tiresome
 **为什么这样写**：三个声部完成一次祛魅——她的累、他的「保密」人设、制度的真相层层剥开；`dramatic flair` 给 Gabriel 的神秘感定了性：那不是性格，是阶级审美。
@@ -63,7 +63,7 @@ Anya rolled her eyes. “Noblemen and their sense of dramatic flair.” I gave h
 
 > **原句 8:** "She was kneeling in front of Cora, wearing her slip, wide-eyed. Anya swallowed, dropped her eyes, and resumed helping Cora button up the back of her dress.
 
-“Yes. Sorry. I just remembered that I was supposed to do something button up the back this morning. I must leave and attend to it. I don’t want her upset with me.”"
+“Yes. Sorry. I just remembered that I was supposed to do something for Queen Mollah this morning. I must leave and attend to it. I don’t want her upset with me.”"
 **中文理解**：Anya 跪在穿衬裙的 Cora 面前，忽然瞪大双眼、咽了口唾沫、垂下眼帘，继续帮她系裙扣；随后借口「想起王后今早吩咐了差事」匆匆告辞，不敢让王后不高兴。
 **关键词**：wide-eyed / dropped her eyes / button up the back
 **为什么这样写**：悬疑用身体语言发射——瞪眼、吞咽、垂眼三个微表情连成一串警报，借口却只是「王后差事」；她看到的（大概率是 Cora 领口下那条 Micah 金坠）没有给镜头，恐惧先于解释抵达。

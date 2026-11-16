@@ -21,7 +21,7 @@ modified: "2026-11-16"
 
 > **原句 2:** "I snapped my head toward Cora, eyes rounded. My breath caught, and she nodded slowly. This was not the same forest we traveled through with Alec.
 
-“same forest, Mom?”"
+“Where are we, Mom?”"
 **中文理解**：她猛地扭头看 Cora，双眼圆睁，呼吸一滞；女儿缓缓点头确认——这不是他们跟 Alec 走过的那片森林。「我们在哪，妈妈？」
 **关键词**：snapped my head / nodded slowly / same forest
 **为什么这样写**：地点真相由孩子的确认来完成——母亲不敢说出的话，Cora 用一个点头替她说完；一问一答之间没有一个「屏障」字眼，恐惧全部由沉默承担。
@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 > **原句 3:** "“Cora? What are you⁠—”
 
-“Shh! I heard a voice. What are you.” She placed her dirt-covered index Cora."
+“Shh! I heard a voice. A whisper.” She placed her dirt-covered index finger to her lips."
 **中文理解**：她刚问出「Cora？你怎么——」就被女儿噤声打断：我听见一个声音，是耳语。Cora 用沾着泥的食指压住嘴唇。
 **关键词**：What are you / Cora
 **为什么这样写**：母亲的句子被拦腰掐断——省略号里是全章最安静的悬念；孩子先于大人察觉异常，直觉与恐惧在同样幼小的身体里并存。噤声手势让读者也跟着屏住呼吸。
@@ -39,7 +39,7 @@ modified: "2026-11-16"
 
 Another branch cracked, along with a shuffle of brush.
 
-“silence and trees,” a deep, scratchy voice shouted through the trees."
+“You are not welcome here,” a deep, scratchy voice shouted through the trees."
 **中文理解**：左侧树枝啪地折断，两人齐齐绷紧，转头只看到沉默与树影；又一根树枝咔嚓作响、灌木沙沙，接着一句低哑的警告穿透树林砸过来：你们不受这里欢迎。
 **关键词**：branch snapped / silence and trees
 **为什么这样写**：三段短推进（响动—再响动—开腔）复刻了恐怖片的声轨设计：先给声音不给脸；`scratchy`（沙哑）与 `deep`（低沉）把看不见的存在先变成一只耳朵里的怪物。
@@ -71,7 +71,7 @@ Another branch cracked, along with a shuffle of brush.
 
 > **原句 9:** "“Please,” I begged. “Please don’t hurt her. Let her go, and you can take me!”
 
-“Mom, Please don’t hurt her! You can’t!” The fear laced in Cora’s voice cut through me, sharp and piercing."
+“Mom, don’t leave me! You can’t!” The fear laced in Cora’s voice cut through me, sharp and piercing."
 **中文理解**：她哀求：求你别伤害她，放她走，冲我来！Cora 尖声回喊：妈妈别丢下我！你不行的！那恐惧像利刃一样把她割穿。
 **关键词**：Let her go, and you can take me / Please don’t hurt her
 **为什么这样写**：母女的对喊是同一个誓言的两半——母亲说「拿我换她」，女儿说「没有你不行」；互为对方的人质，这是全书情感引擎的首次全功率运转。
@@ -85,7 +85,7 @@ Another branch cracked, along with a shuffle of brush.
 
 > **原句 11:** "“Please don’t hurt us,” I pleaded with him as I closed my eyes and braced myself for another attack.
 
-His face softened. “Please don’t hurt us. braced myself.”"
+His face softened. “I’m Gabriel. I’m here to help.”"
 **中文理解**：她闭眼抱头哀求别再攻击；来者的神色柔软下来，报出名字：我是 Gabriel，我是来帮忙的。
 **关键词**：Please don’t hurt us / braced myself
 **为什么这样写**：本章所有对话都建立在胁迫上，唯一一句自我介绍以「报身份+亮目的」收尾——温柔在一章的暴力尽头突然生效；名字先行于解释，信任问题原封不动地交给下一章。

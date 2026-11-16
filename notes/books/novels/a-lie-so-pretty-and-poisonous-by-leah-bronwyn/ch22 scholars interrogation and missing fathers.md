@@ -49,7 +49,7 @@ modified: "2026-11-16"
 
 “…His Royal Highness, the king's brother, commanded the captain not to let me out of his sight, and he is just following the commander's orders. Would you like to explain to His Highness why you refused to allow his Captain of the Guard to fulfill his duty?”"
 **中文理解**：Darragh 被骂 crossling 后眼神转暗、向老学者逼近——她把自己隔在中间、一掌抵住他的胸口拦下，哪怕 Acrion 活该。她冷声开条件：我乐意答所有问题，但护卫必须留在房里；再补一句王命杀招：王兄命令他寸步不离——你要向殿下解释为什么阻拦他的卫队长执行公务吗？
-**关键词**：a hand on Darragh’s broad chest / I require the captain / explain to His Highness
+**关键词**：a hand on Darragh’s broad chest / stop him from hurting the scholar / took a step toward the ancient seraph
 **为什么这样写**：武力（他）与法理（她）双轨护人——她的武器是官阶链（king's brother→commander→captain），一句话把学者的傲慢焊死在等级制里；`placing a hand on Darragh's broad chest` 的物理触点，是浪漫线与权力线的同框。
 **读者视角提示**：这是 Aurora 第一次「用敌人的规则赢敌人」——贵族游戏她从小玩到大。对照 ch03 她被 Acrion 甩门羞辱时的隐忍，此处已能反杀。
 
@@ -77,7 +77,7 @@ Humans have been going missing?
 
 “Yes. Steadily. There has been a rise in missing people for well over a decade.” I gulped. My next words were caught in my throat, and tears welled in my eyes. “My own father went missing,” I whispered, holding back tears. I looked to Darragh, whose mouth parted. “And so did Cora's father.”"
 **中文理解**：她抛出全书最大的猜想：Edenalee 多年的失踪者，会不会就是被 seraph 带到这里来的？他惊问人类一直在失踪？——是的，稳步上升超过十年。下一句话卡在喉咙里、眼泪涌上来：我自己的父亲就是失踪的，他低语道。再看向 Darragh，他张着嘴：「Cora 的父亲也是。」
-**关键词**：missing people of Edenalee / My own father went missing / And so did Cora’s father
+**关键词**：missing people of Edenalee / brought here by seraphs / numerous
 **为什么这样写**：猜想以「我的家庭」落地——失踪潮从统计数字降维成两代人的具体伤口；`whose mouth parted` 是 Darragh 的反应镜头：他此刻明白自己护送的是什么案子。
 **读者视角提示**：这是全书核心阴谋的立项时刻——把 ch02 的失踪潮、ch19 的被拖人类、此处的双父失踪连成一条线。Micah 的字条（他爱我）从此有了新读法。
 
@@ -91,7 +91,7 @@ Humans have been going missing?
 
 I was unsure of how much I could trust Gabriel. … “No. I think it's best to keep this between us until there is a reason to let Gabriel know."
 **中文理解**：Darragh 问要不要把这些疑点告诉 Gabriel——案子已经比「送你回家」大得多了。她拿不准 Gabriel 能信几分……答：不，最好先只在我们之间，直到有理由再让他知道。
-**关键词**：speak to Gabriel about your suspicions / how much I could trust Gabriel / keep this between us
+**关键词**：speak to Gabriel about your suspicions / a lot bigger than finding a way / get you back to Edenalee
 **为什么这样写**：情报分级第一次由她主导——信任对象从「救命恩人」降级为「待观察者」，判定依据是那封信的字句（眼睛颜色都写错的人）。`between us` 二人组正式挂牌。
 **读者视角提示**：把「谁在圈子内」的名单记牢：目前只有她与 Darragh。Gabriel 被降级的原因与证据（蓝眼睛、athoner 威胁）都还在她账上——这是后面章节的引信。
 

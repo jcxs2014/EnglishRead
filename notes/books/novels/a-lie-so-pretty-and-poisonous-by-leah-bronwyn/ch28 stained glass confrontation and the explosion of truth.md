@@ -51,7 +51,7 @@ That's not comforting.
 
 Their eyes followed me as I marched down the hallway, anger pouring out of me. … All I wanted was to put distance between them and myself and take another long, hot bath to wash the residue of Gabriel's hands and tongue from my body."
 **中文理解**：她宣布收场：这种比玩意儿的表演我看够了！上床睡觉。两个人的目光追着她走出走廊，怒气从她身上倾泻……她只想要距离——再来一次滚烫的长澡，把 Gabriel 的手和舌头的残留从身体上洗掉。
-**关键词**：display of dick-wagging / marched down the hallway / wash the residue
+**关键词**：display of dick-wagging / I am going to bed / done with this display
 **为什么这样写**：收场句用最粗的俚语完成最清醒的定性——两人的争斗在她眼里只是雄性领地表演；`residue`（残留）把违背意愿的触碰写成需要清洗的污染，自我修复仪式第三次上演。
 **读者视角提示**：对照 ch01 咬舌、ch25 蜜嘴、本章洗澡——她的「自我清洁仪式」每次都对应一次「被定义」。这一章的浴缸是全书中段她唯一能完全支配的领地。
 

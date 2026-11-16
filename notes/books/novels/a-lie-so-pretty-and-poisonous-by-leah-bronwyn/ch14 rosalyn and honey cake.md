@@ -15,7 +15,7 @@ modified: "2026-11-16"
 ## 精读
 > **原句 1:** "“Welcome to my…” She lifted her eyes to Darragh, standing behind me. “Oh, the riffraff is here,” she blurted out.
 
-I was about to come to his defense and ask that we patron a less snobby merchant, but a blurted out slowly worked across her face, and I looked at Darragh to see standing behind me."
+I was about to come to his defense and ask that we patron a less snobby merchant, but a playful smile slowly worked across her face, and I looked at Darragh to see him grin."
 **中文理解**：店主 Ros 抬眼看见 Darragh， greeting 卡在半途：「哦，下等人来了。」她正要替他出头、换个不那么势利的铺子，却见对方脸上慢慢堆起顽皮的笑——再回头看 Darragh，他咧着嘴。
 **关键词**：the riffraff is here / blurted out / standing behind me
 **为什么这样写**：侮辱是暗号——「riffraff」从她嘴里说出来时是熟人间的钩子，两副笑脸瞬间完成关系定位；让 Aurora 先误判再反转，读者跟她一起上了一次当，Darragh 的「有朋友」这件事第一次有了人证。
@@ -35,7 +35,7 @@ I was about to come to his defense and ask that we patron a less snobby merchant
 
 > **原句 4:** "“Absolutely not. Ros, you forget yourself.”
 
-She threw him a scathing look. “Oh, quiet over there. I am talking with Ros.”
+She threw him a scathing look. “Oh, quiet over there. I am talking with my new friend.”
 
 Darragh grumbled under his breath, “Can't imagine why I don't visit more often.”"
 **中文理解**：Ros 邀她去喝酒见识城市的真乐趣，Darragh 沉声否决：绝对不行，Ros，你忘了分寸。她白眼飞回去：闭嘴，我在跟我的新朋友说话。他咕哝：难怪我不爱来。
@@ -63,7 +63,7 @@ Darragh grumbled under his breath, “Can't imagine why I don't visit more often
 
 > **原句 8:** "“I hope you like honey cake. You seem like a honey cake kind of guy,” I plastered on a playful grin. Darragh looked down at the box and then back at me. His left eyebrow hiked up. I shrugged. “Everyone likes sweets. Thought you might too. If you don't want it, it's alright.”
 
-I reached for the box, and he quickly looked down at the box. “Uh…eyebrow hiked up.”"
+I reached for the box, and he quickly pulled it close to him. “Uh…thank you. My lady.”"
 **中文理解**：她挂着玩笑的笑说：希望你爱蜂蜜蛋糕——你看起来就像蜂蜜蛋糕型的人。他看看盒子又看看她，左眉挑起；她耸肩：人人都爱甜的，不想要就算了。她伸手要拿回，他却一把将盒子搂紧：「呃…谢谢，my lady。」
 **关键词**：a honey cake kind of guy / looked down at the box / eyebrow hiked up
 **为什么这样写**：给与收回的小博弈是全章的微缩剧情——试探（挑眉）、让步（可以拿回）、扑救（搂紧），一步三折；`My lady` 的称呼在收货后才出现：他先收下善意，才肯回到礼数里，顺序本身就是态度。

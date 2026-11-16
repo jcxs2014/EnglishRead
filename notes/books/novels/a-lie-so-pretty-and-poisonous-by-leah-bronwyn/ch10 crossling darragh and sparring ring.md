@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 Goddess, I hope he doesn't try anything.
 
-“tucked a loose strand,” he whispered as he lowered his face to mine."
+“Let me kiss you,” he whispered as he lowered his face to mine."
 **中文理解**：他把她一缕散发别到耳后，饿狼般的目光落在她唇上——这种「饿」她一生见过太多次。内心哀嚎：女神啊，别让他乱来。他俯身低语：让我吻你。
 **关键词**：landed hungrily / recognized that hunger / tucked a loose strand
 **为什么这样写**：欲望被写成猎食语法（landed hungrily），而她的第一反应是「识别」而非「心动」——性张力的场面下铺着一层创伤解码；请求句式（Let me）与 Terren 式的强占有别的温度差，但「有别的温度差」不等于安全。
@@ -55,7 +55,7 @@ Goddess, I hope he doesn't try anything.
 
 > **原句 7:** "“If he can't be trusted, how did he get such a high-ranking position?”
 
-Gabriel's jaw ticked. “Because he is the can’t be trusted. His father is her brother.”"
+Gabriel's jaw ticked. “Because he is the nephew of Queen Mollah. His father is her brother.”"
 **中文理解**：她追问：既然不可信，怎么当上这么高的职位？Gabriel 咬肌一跳：因为他是王后 Mollah 的侄子——他父亲是王后的兄弟。
 **关键词**：high-ranking position / can’t be trusted
 **为什么这样写**：反问句替读者把矛盾钉在墙上——不可信者居高位，答案两个字：裙带；`jaw ticked` 显示 Gabriel 对这个答案同样憋气，制度性荒谬连体制内的人都咽不下去。

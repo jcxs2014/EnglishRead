@@ -29,7 +29,7 @@ modified: "2026-11-16"
 
 “You see, Aurora, I know so many secrets because I am audioperceptive. I can hear exceptionally well and at a further distance than most."
 **中文理解**：王后亮双 enchant 底牌：常用的是 glamour——随时显得年轻貌美，连自己卸了妆长什么样都不记得了；而满腹秘密的来源是 audioperceptive——听觉超常、距离更远。
-**关键词**：my glamour enchant / don’t even remember / I am audioperceptive
+**关键词**：my glamour enchant / don’t even remember / look young and beautiful
 **为什么这样写**：自白以「忘却自己」开场——美貌魔法的第一代价是原貌失忆，权力与人身的异化一语双关；audioperceptive 的坦白让全书的偷听设定获得官方出处。
 **读者视角提示**：把「glamour 失忆原貌」记成 Mollah 的悲剧底色——她连「自己」都抵押给了王后之位，这解释了她与 Devoruh 之恋的重量：那是唯一不经过魔法的关系。
 
@@ -49,7 +49,7 @@ modified: "2026-11-16"
 
 “Not just another man. The one he hates most in this world. It would put both you and Darragh in so much danger. Gabriel has quite the temper, but you saw that already in the sparring room. I wonder how far you would have let Darragh go if you weren't interrupted by Gabriel's outburst. He was furious, you know. He told the king and me all about it."
 **中文理解**：她补刀：隔墙隔楼的闷声对话也听得见——你的房间恰好在我茶室楼下。随之抖出全部杠杆：不只是一般的男人，是他最恨的那个！你与 Darragh 都会大祸临头；Gabriel 脾气爆（擂台你也见了）——「若不是被打断，你会让 Darragh 走多远？他气疯了，全都报给我和国王了。」
-**关键词**：under my tearoom / The one he hates most in this world / He told the king and me all about it
+**关键词**：under my tearoom / hearing muffled conversations through walls and floors / Your rooms just happen to be
 **为什么这样写**：情报的分层投放——先亮耳朵（技术威慑），再亮档案（情感威慑），最后点名擂台（暴力前科）；`I wonder how far` 的假想句是最阴的羞辱，把受害现场重播成暧昧疑云。
 **读者视角提示**：注意「Gabriel 告状」的细节——擂台之夜他的愤怒已经进入王与后的记录系统。她在王宫的每一步都有听众，这场交易从一开始就不对等。
 
@@ -69,7 +69,7 @@ modified: "2026-11-16"
 
 Gabriel placed his warm palm on mine, and his white light glowed, healing my palm. Only incessant fear remained. “There you go.” He kissed my hand, and I stifled a shudder. “Be more careful, my darling.”"
 **中文理解**：仪式被突然折返的 Gabriel 打断——王后秒收刀、谎称她被碎玻璃割伤正要施治；Gabriel 掌心覆上、白光愈合了刀口，吻手叮嘱：小心些，亲爱的。刀口好了，只剩持续的恐惧。
-**关键词**：cut her palm on some broken glass / healing my palm / Be more careful, my darling
+**关键词**：cut her palm on some broken glass / broken glass / Aurora cut her palm, I was about to heal it
 **为什么这样写**：中断场景的三层 irony——他用治愈术抹掉她刚签下的「血的条款」，亲手的温柔与背后的威胁共用一只手；`incessant fear` 是本章的真正余音。
 **读者视角提示**：对照 Gabriel 的白光三次出场（ch09/22/32）——每一次治愈都伴随一次更大的伤害源。他的魔法救她于皮肉，救不了她于契约。
 

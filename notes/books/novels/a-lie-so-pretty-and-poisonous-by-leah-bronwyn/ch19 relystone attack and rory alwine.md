@@ -33,9 +33,9 @@ modified: "2026-11-16"
 
 > **原句 4:** "…But take this.” He unsheathed one of his silver daggers and handed it, hilt first, to me. “You certainly didn't hesitate to use it last time.”
 
-“unsheathed one of his silver daggers.” I had never actually used a weapon before that moment, and I hoped to never have to again.
+“Pure luck.” I had never actually used a weapon before that moment, and I hoped to never have to again.
 
-“Instinct,” he corrected. “didn’t hesitate."
+“Instinct,” he corrected. “Always lean into it."
 **中文理解**：他把银匕首刀柄朝前递来：拿上这个——上次你用它可没犹豫。她自嘲那是纯粹运气：之前从没用过武器，希望再也不要用。他纠正：「是直觉。永远顺着直觉走。」
 **关键词**：hilt first / unsheathed one of his silver daggers / didn’t hesitate
 **为什么这样写**：第二次交刀比第一次多了一句「武学入门」——`hilt first`（柄朝对方）是授枪礼的完整礼仪；「运气→直觉」的一字之争是他给她的第一份武力信心。
@@ -49,7 +49,7 @@ modified: "2026-11-16"
 
 > **原句 6:** "Four seraph men stood before me, all with wolfish grins. A man with a scar across his cheek, a redhead, a curly-haired brunette, and a seraph who looked like he was barely into adulthood. All strapped with daggers and swords. My heart froze in place.
 
-“barely into adulthood.”
+“Our lucky day.”
 
 The redhead lightly slapped the shoulder of the brunette next to him and pointed at me. “Hey, ain't she that pet human the city is all abuzz about?”"
 **中文理解**：四个持刀剑的 seraph 满脸狼笑站在她面前——疤脸、红发、卷发、还有一个刚成年的。心跳冻在原地。「今天运气好。」红发拍拍同伴肩膀指向她：嘿，她不就是城里传疯了的那只人类宠物？
@@ -61,7 +61,7 @@ The redhead lightly slapped the shoulder of the brunette next to him and pointed
 
 His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
-“Darra-“ The scream that left my throat was cut off when the young seraph flicked his wrist, landing it in his eyes."
+“Darra-“ The scream that left my throat was cut off when the young seraph flicked his wrist, rendering me voiceless."
 **中文理解**：压在礼仪面具下的白焰轰然复燃——她朝红发啐中双眼。对方松手退开骂了句脏话；她喊 Darragh 名字的尖叫被年轻 seraph 一挥腕掐断——她失声了。
 **关键词**：blazed to life / I spat / landing it in his eyes
 **为什么这样写**：反抗与剥夺在同一节拍里对撞——吐口水是她的第一次进攻，夺声是对方的第一次技术镇压；`flicked his wrist` 的轻描淡写与「voiceless」的重量形成最残忍的反差。
@@ -101,7 +101,7 @@ His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
 “You would do that?” My small voice still shook from the rage and fear moving through me in waves.
 
-“I would consider it throw a good punch. You are not weak, Rory. You just need someone to bolster your natural abilities and teach you how to use your body as a weapon.”"
+“I would consider it an honor. You are not weak, Rory. You just need someone to bolster your natural abilities and teach you how to use your body as a weapon.”"
 **中文理解**：他先承认现实：你没有 enchant 是真的——但我可以教你打架：至少教你一记重拳、教你把混蛋从身上翻下去。她小声问：你愿意？——「我很荣幸。你不弱，Rory。你只是需要有人帮你把天生的能力加固，教你把身体当武器用。」
 **关键词**：teach you how to fight / throw a good punch / body as a weapon
 **为什么这样写**：安慰的句式是「先给现实、再给路径」——不撒谎、不封顶；`body as a weapon` 把她刚被当作「猎物」的身体重新定义为「兵器」，一词的翻转抵过千言。
@@ -115,7 +115,7 @@ His grasp on my hair fell, and he stepped back from me. “Bitch!”
 
 > **原句 15:** "“Don't be silly. He's a big enough horse. We can ride him together.”
 
-Darragh's mouth opened and then closed. He shook his head at me. “I don't want you to feel big enough horse Don’t be silly."
+Darragh's mouth opened and then closed. He shook his head at me. “I don't want you to feel uncomfortable after what you just went through."
 **中文理解**：Celeste 被偷走后，她提议别犯傻——这马够大，我们同骑回去。Darragh 张了张嘴又合上，摇头：刚经历那种事，我不想让你觉得不舒服。
 **关键词**：ride him together / big enough horse / Don’t be silly
 **为什么这样写**：拒绝的理由不是礼教而是「她的感受」——他把刚受创的人的舒适度置于行程效率之上；她的坚持（同骑）则是自主权的再伸张：受伤不等于失去决定权。

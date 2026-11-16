@@ -31,7 +31,7 @@ Gabriel's mouth hung open. He was in front of me in a flash, both hands grasping
 
 “I have been praying to Themis steadily this past year to bring someone into my life who is meant for me. Someone who isn't like the rest of the noblewomen in this land. I have shed a lot of my blood at his altar."
 **中文理解**：他宣告与她的连接前无古人——过去一年他持续向 Themis 祈求命定之人，一个不像本地贵族小姐的人；他在神坛上流过不少血。
-**关键词**：a connection to you / praying to Themis / shed a lot of my blood at his altar
+**关键词**：a connection to you / never felt with anyone else / I feel a connection to you
 **为什么这样写**：求爱被翻译成宗教采购——一年祈愿+献血=向神下订单，她被说成「神交付的货」；`meant for me` 的宿命话术与她自己的 vendetta 之疑（Clotha）构成镜像：两边的女神都在乱点鸳鸯谱。
 **读者视角提示**：结合 ch20 的「神力=崇拜」与「血与赎罪」——Gabriel 的献血既是求缘也是蓄力，信徒与神的双向账本他玩得最熟。
 
@@ -45,7 +45,7 @@ Gabriel's mouth hung open. He was in front of me in a flash, both hands grasping
 
 I had no desire to be at the mercy of another noble, and Gabriel had proven that he was much like any other noble, human or seraph. He was powerful, charming, wealthy, and stuck to a rigid status quo. My mother would love him."
 **中文理解**：她给出五个字的空头支票：我会考虑留下。心里分类完毕——她绝不想再受制于任何一个贵族，而 Gabriel 已证明他与人类或 seraph 的贵族毫无二致：有权、迷人、有钱、死守等级——我妈会爱死他。
-**关键词**：I’ll think about staying / at the mercy of another noble / My mother would love him
+**关键词**：I’ll think about staying / staying / My mother would love him
 **为什么这样写**：答案与心声双轨并行——口头五个字，账本五行字；`My mother would love him` 是全书最冷的差评：一个男人的全部优点恰好是她的牢笼参数。
 **读者视角提示**：把这句「我妈会爱他」记成 Aurora 的择偶负清单——凡是被母亲欣赏的特质，都是她的危险信号。这比任何甜言蜜语都精确。
 

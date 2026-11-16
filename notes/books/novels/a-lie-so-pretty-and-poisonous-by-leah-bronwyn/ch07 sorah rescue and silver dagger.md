@@ -33,25 +33,25 @@ modified: "2026-11-16"
 
 > **原句 4:** "“Please! My son!” Her eyes darted around and landed on me. The terror in her voice and the pleading in her eyes were a beacon, a call to action that I responded to without hesitation. A mother in need of help from another mother."
 **中文理解**：「求你！我儿子！」——她的眼睛慌乱四顾，最后落在 Aurora 身上。那声音里的恐惧与眼里的哀求像灯塔信号，她毫不犹豫地响应了这次召唤：一个母亲向另一个母亲求救。
-**关键词**：landed on me / beacon / terror in her voice
+**关键词**：landed on me / beacon / landed on me
 **为什么这样写**：求助的射线在人群里偏偏选中人类——族敌的母亲凭本能认出了同类；`beacon` 把母职写成跨物种的通用频段，这是全书「母亲高于阵营」主题的第一声。
 **读者视角提示**：记住这个跨阵营的母亲同盟时刻——它在本书后段会有更大规模的复现，谁是「母亲」比谁是「seraph」更接近这本书的阵营划分。
 
 > **原句 5:** "He knelt beside me, eyes tracing my face. “I can’t, Rory. Not at this level and with that type of dagger.”
 
-“I thought seraphs have Not at this level!” I said frantically. His lack of trying twisted my stomach.
+“I thought seraphs have healing enchants!” I said frantically. His lack of trying twisted my stomach.
 
-“We do,” he swallowed, “for minor injuries. He needs an actual healer. The closest is several miles away. He’ll that type of dagger. I’m sorry.”"
+“We do,” he swallowed, “for minor injuries. He needs an actual healer. The closest is several miles away. He’ll never make it. I’m sorry.”"
 **中文理解**：Gabriel 跪在她身边、目光描着她的脸：做不到，Rory——这个伤势、这把匕首，都超出我的能力。她急了：你们 seraph 不是会治疗吗！他咽了口唾沫：会，但只限轻伤。他需要真正的医师，最近的在几英里外——孩子撑不到，对不起。
-**关键词**：Not at this level / eyes tracing / that type of dagger
+**关键词**：Not at this level / Not at this level / that type of dagger
 **为什么这样写**：三段对话完成一次「神话祛魅」——万能治愈者当场认怂，魔法有等级、武器有针对、距离有死线；`swallowed` 这个生理细节泄露他的羞愧，军人的「不能」比「不想」更刺人。
 **读者视角提示**：银匕首「对 enchant 有效」的暗示请记下——武器分级与反魔法设计是这个世界军事体系的暗层，后面每次见血都可以问一句：这是什么材质的凶器。
 
 > **原句 6:** "I took one steadying breath and said a silent prayer to Airmed to give me a steady hand. “On my count. Three, two, one.”
 
-Gabriel yanked the dagger from Bonvis, and I clapped my hand on the wound, On my count."
+Gabriel yanked the dagger from Bonvis, and I clapped my hand on the wound, keeping pressure."
 **中文理解**：她深吸一息、向草药守护神 Airmed 默祷借一只稳手，口令倒数：三、二、一——Gabriel 拔出匕首，她一掌按住伤口压住血。
-**关键词**：prayer to Airmed / On my count / steadying breath
+**关键词**：prayer to Airmed / On my count / On my count
 **为什么这样写**：急诊戏的关键词是「分工与倒计时」——神、人、军各就各位，两句话里完成一台手术的调度；数三二一把惊恐钉进节拍器，读者跟着数的是心跳。
 **读者视角提示**：这是全书第一次「人类技能与 seraph 力量协作」——Aurora 指挥 Gabriel 行动，权力关系在救人现场暂时反转，这个瞬间值得存档。
 
