@@ -74,6 +74,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 详见工作日志 .memory/daily/2026-11-16.md「Lessons in Love」节。
 
+**T3 全量深审（lessons-in-love-by-mimi-tomkins）：26/26 章 R1→R4，一章未省；边审边改已落地**
+- 机器层（修复后复跑）：gate EXIT=0 · chapter.sh 26/26 rc=0 · overview 57/57 · verbatim 221/221 · fragments 202 块/222 段 0 MISS · 块序 0 · corruption 0
+- 人判：26/26 章四件套齐（1-suread.json / 2-machine.json / 3-diff.md / 4-verdict.md，末附「已核实为正确」）；R1 每章先只读 text/ 素读并 suread 校验，之后才开 md
+- 查出 21 阻断（跨章错指 6 · 计数/最高级/唯一 10 · 施事方向/人称 3 · 编造场景/超引语 2）＋57 提示，全部已修，无「不修」项
+- 汇总档：.memory/raw-gates/lessons-in-love-by-mimi-tomkins/2026-11-16-复核与修复指令.md（逐条「改前→改后」＋取证命令）
+- 台账一行（档位 深）；审查方＝异模型上下文（同会话续接，非独立第三方），如实标注
+- 未 push；本轮结清 T1 条目「T3 未做（待用户发起）」一项
+
 ### [2026-11-15 21:38 UTC] [ZCode-Mac] → All
 
 **《Last Looks》（last-looks-by-cate-holahan）Cate Holahan 悬疑双 POV 42 md（39 章+总览三篇）+ T1 自检 + T3 全量深审，同日完工。**
