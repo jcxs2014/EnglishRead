@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch10",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch10_chap10.txt",
+ "facts": [
+  {
+   "fact": "Gemma 的松饼定律：男人不会平白给女人做松饼，做了就是喜欢——「像科学一样」。",
+   "anchor": "He made you pancakes.",
+   "start": 307,
+   "end": 328
+  },
+  {
+   "fact": "Gemma 短信骂她别自怨自艾，来参加电影夜。",
+   "anchor": "Stop wallowing and get your ass over here!",
+   "start": 4832,
+   "end": 4874
+  },
+  {
+   "fact": "被质问为何不预告 Oliver 会来，Gemma 承认：提前说你就不来了，操纵是唯一选择。",
+   "anchor": "Manipulation was my only choice.",
+   "start": 7651,
+   "end": 7683
+  },
+  {
+   "fact": "Gemma 指定座位：不许坐地板，去和 Ollie 挤扶手椅。",
+   "anchor": "Don’t you dare sit on the floor, Eden. There’s a perfectly good spot on the armchair with Ollie.",
+   "start": 8345,
+   "end": 8441
+  },
+  {
+   "fact": "电影夜耳语：你才是我的最爱，随即自己心虚问「Too soon?」。",
+   "anchor": "I think you’re my favourite.",
+   "start": 9926,
+   "end": 9954
+  },
+  {
+   "fact": "她承认不会与人恋爱，他答我也不会——我们可以一起弄明白。",
+   "anchor": "We can figure it out together.",
+   "start": 10603,
+   "end": 10633
+  },
+  {
+   "fact": "咖啡馆里捧着她的脸：总有一天要把她的雀斑数完。",
+   "anchor": "One day, I’m going to count them all.",
+   "start": 18223,
+   "end": 18260
+  },
+  {
+   "fact": "章末双关：想象他在农场的夏天——「我会让你免费来」。",
+   "anchor": "I’d let you come for free.",
+   "start": 18678,
+   "end": 18704
+  }
+ ]
+}

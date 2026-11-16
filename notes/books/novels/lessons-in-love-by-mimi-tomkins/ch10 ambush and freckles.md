@@ -10,7 +10,7 @@ modified: "2026-11-15"
 - **一句话概括**：吻后冷战七十二小时，Gemma 用 Scooby-Doo 电影夜设局逼两人同椅；Oliver 耳语「你是我的最爱」，两人互相承认「都不会恋爱，可以一起学」；校边咖啡馆里他用雀斑数数宣言收官。
 - **情感弧线位置**：从「不该吻的」到 `We can figure it out together.`——关系在本章完成从事故到共同决定的转正；农场幻想首次把 Oliver 编进她的家。
 - **Tropes 兑现/反转**：兑现朋友设局（Manipulation was my only choice）；兑现「一起学会」的双生新手设定；反转是权力换手——追人的一方（Oliver）全程小心，被追的一方（Eden）最后主动抛出「免费来玩」的邀约。
-- **人物弧线**：Eden——从 moping 到敢直说「I don't know how to do this」；Oliver——从等待到落座她身边（booth 同侧）；Gemma/Ben/Misty 参谋部以 thumbs up 收工。
+- **人物弧线**：Eden——从 moping 到敢直说「I don't know how to do this」；Oliver——从等待到落座她身边（booth 同侧）；Gemma/Ben 参谋部以 thumbs up 收工。
 - **叙事手法**：社交媒体式短信插段（ stalking 梗）；同椅编排的物理压迫感；雀斑计数把外貌描写转成长期承诺。
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：全章的关键词 awkward 在此被点名——作者把「事后尴尬」写成一个可观察的过程：手 brush、脸 heats up、话题绕着 oral 打转。这不是后悔，是亲密关系尚未找到新语法的真空期；她的结论（不该吻）与她的身体（heats up）各执一词。
 
-**读者视角提示**：把这句与 B6 的「figure it out together」对读——同一个「不会」，开头是诅咒、结尾是解法。本章的叙事弧就是这个词的温度变化。
+**读者视角提示**：把这句与第 6 块的「figure it out together」对读——同一个「不会」，开头是诅咒、结尾是解法。本章的叙事弧就是这个词的温度变化。
 
 > **原句 3:** "“If I did, you'd never come. Manipulation was my only choice. Now come on. The popcorn's hot.”"
 
@@ -83,7 +83,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：把外貌凝视兑换成时间承诺——「数完雀斑」需要的是长期在场，这是比「我爱你」更工程化的告白。作者让他先宣布（wondered）、再立项（going to count），暗恋做成了一份带工期的计划书，与他的 photojournalist 母亲的「记录」基因遥相呼应。
 
-**读者视角提示**：雀斑计数是本书埋得最深的长期支票——它的兑现日大概率在书末（农场/夏天/清晨任选其一）。见到计数场景时记得回本块对账。
+**读者视角提示**：雀斑在 ch14（她说夏天会变多）与 ch21（他靠「没有雀斑」认出陌生人）两处回响——这张支票标记的不是计数本身，而是「看清一个人」的能力。
 
 > **原句 8:** "Oliver with my family, sitting on the front porch as the sun goes down. Tending to the garden, spending endless hours outdoors, exploring."
 
@@ -103,7 +103,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：come for free 表面是农场免票，内里是「我的门对你免费开放」——把上一轮的调情（I'd pay to see that）反手接住再抬高一层。作者用最短的双关收章：越界的话以票务的语言说出，两人都没点破，留白即默契。
 
-**读者视角提示**：这是 Eden 第一次主动亮牌——此前都是接招（Good girl、Too soon?），本章她递出了下一章的请柬。下一章从这张免费票开始数。
+**读者视角提示**：这是 Eden 第一次用双关主动回敬——此前多是接招（Good girl、Too soon?）；这张免费票要到 ch13 的农场归途才真正兑现。
 
 ## 本章词汇
 
@@ -132,4 +132,4 @@ modified: "2026-11-15"
 
 ## 一句话总结
 
-松饼定律宣判、电影夜设局、同椅耳语——「我不会恋爱」换来「一起学会」，雀斑数数立项、农场免费票双关收官：本章两人把吻后的尴尬清算成了共同项目，Eden 第一次主动把下一章的门票塞进他手里。
+松饼定律宣判、电影夜设局、同椅耳语——「我不会恋爱」换来「一起学会」，雀斑数数立项、农场免费票双关收官：本章两人把吻后的尴尬清算成了共同项目，Eden 第一次用双关把一张写着「免费」的门票递到他手里。
