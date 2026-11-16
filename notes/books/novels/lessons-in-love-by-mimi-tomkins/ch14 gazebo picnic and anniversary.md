@@ -53,7 +53,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：用一串菜单名完成农场喜剧的部分——作者顺手写进人物史：她不是静不下心的书呆子，是会跟弟弟给鸡起坏名字的姐姐。And it was. 三词短句在清单中间打了个节拍，回忆的得意劲儿全靠它。
 
-**读者视角提示**：食物名鸡团是本书最好的喜剧道具（Oliver 的「鸡恐惧症」本章登场）——Kyiv/Parma 这类名字后文大概率还会出来救场。
+**读者视角提示**：食物名鸡团是本书最好的喜剧道具（Oliver 的「鸡恐惧症」本章登场）——这些食物名没有在后文复现，但它们把农场的日常钉在了这一章。
 
 > **原句 5:** "“Oh, Eden! The more I find out about you the more I love you!” He chuckles as he opens the passenger door."
 
@@ -77,7 +77,7 @@ modified: "2026-11-15"
 
 > **原句 7:** "Your worth is more than anything that they could possibly tell you it is. You are one of the smartest people you know. My friends love you, my family love you."
 
-**中文理解**：野餐垫上的护心宣言：你的价值远超他们能给你的任何评价——你是她认识的最聪明的人之一；她的朋友爱他、家人爱他。
+**中文理解**：野餐垫上的护心宣言：你的价值远超他们能给你的任何评价——你是你自己认识的人里最聪明的人之一；她的朋友爱他、家人爱他。
 
 **关键词**：worth / smartest people / love you
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：标点即心跳：I—I 的重复是她把自己的那票投到一半发现票面写了 love。作者让「我爱与你共度的时光」成为恋爱的精确措辞——爱时间而不是爱人，给自己留了后悔的余地。这是全文最诚实的一种怯场。
 
-**读者视角提示**：对照 Oliver 的惯性失言（the more I love you）——两人都在 love 字前刹车，只是一个用感叹号掩饰，一个用破折号刹车。真正的四轮表白还欠着，读者已听见引擎声。
+**读者视角提示**：对照 Oliver 的惯性失言（the more I love you）——两人都在 love 字前刹车，只是一个用感叹号掩饰，一个用破折号刹车。真正的告白还欠着，读者已听见引擎声。
 
 > **原句 9:** "She would have died ten years ago tomorrow, “ he says softly. “That's why I try my best to forget about Easter. I still think of her every single day.”"
 
@@ -113,7 +113,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：全章最重的烛光时刻被八个字掀翻——作者的喜剧刹车比 tragedy 更狠：近吻在最后一寸被叫停。whisper 与 watch 的并置是本章的调度核心：所有真心话都发生在偷听者（兄弟、家人、读者）的注视之下。
 
-**读者视角提示**：被搅局的吻等于给真正的吻续了期——「moment has passed」是作者开的欠条。下本书（下章）谁先补上，值得盯着。
+**读者视角提示**：被搅局的吻等于给真正的吻续了期——「moment has passed」是作者开的欠条。下一章谁先补上，值得盯着。
 
 ## 本章词汇
 
@@ -144,4 +144,4 @@ modified: "2026-11-15"
 
 ## 一句话总结
 
-一张大号单人床、四只食物名鸡、一场烛光野餐——本章把两个人的旧伤摆上同一张垫子：她交出「删志愿」的前任黑史，他交出「明天是妈妈忌日」的丧钟；半句 I love 双双卡壳，近吻被双胞胎偷看按下暂停。
+一张大号单人床、四只食物名鸡、一场烛光野餐——本章把两个人的旧伤摆上同一张垫子：她交出「删志愿」的前任黑史，他交出「明天是妈妈忌日」的丧钟；半句 I love 卡在她喉咙里、他的 love 先从笑里漏出来，近吻被双胞胎偷看按下暂停。
