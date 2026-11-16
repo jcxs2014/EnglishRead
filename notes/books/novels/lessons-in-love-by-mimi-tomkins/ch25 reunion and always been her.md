@@ -23,7 +23,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：三个人体信号排成递进——泪（她的痛）、黑眼圈（同样的痛）、笑容（共同的解药）。作者把「和好」写成生理事件：不是决定，是呼吸自动恢复。Doubt 一闪即被 smile 击碎，全章的谈判被一个表情取消资格。
 
-**读者视角提示**：对照 ch21 的「the most settled that I have in months」与本章 breathe again——他的身体在本章完成了双重复位。别忘了 Dark circles：她这几周过得和他一样烂。
+**读者视角提示**：对照本章后段的「the most settled that I have in weeks」与这一块的 breathe again——同一个身体在一章之内完成双重复位。别忘了 Dark circles：她这几周过得和他一样烂。
 
 > **原句 2:** "Her fingertips reach out and brush the stubble that I've neglected to shave, her cheeks flushed. “Prickly,” she laughs."
 
@@ -33,7 +33,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：和解不谈大事，先谈胡子——作者用一个字的玩笑确认「一切照旧」：她还是那个敢笑他的人，他还是那个可以被发现邋遢的人。flushed 的脸颊与 Prickly 的触感把重逢写回皮肤级别。
 
-**读者视角提示**：对照 ch18 她摸他胡茬的农场旧行——同一个动作两次出现，中间隔了一次分手：身体记得的，比嘴上说的多。
+**读者视角提示**：对照 ch18 博物馆里她摸他胡茬的旧行——同一个动作两次出现，中间隔了一次分手：身体记得的，比嘴上说的多。
 
 > **原句 3:** It’s always been her.
 
