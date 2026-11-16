@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch24",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch24_chap24.txt",
+ "facts": [
+  {
+   "fact": "回家日 Jake 的无调侃拥抱：我想你了——她当场落泪。",
+   "anchor": "I missed you.",
+   "start": 3046,
+   "end": 3059
+  },
+  {
+   "fact": "她向 Jake 认账：我对他发飙了。",
+   "anchor": "I freaked out on him.",
+   "start": 4591,
+   "end": 4612
+  },
+  {
+   "fact": "她补充：奖学金的事已经解决，别担心。",
+   "anchor": "I sorted that out, so don’t stress.",
+   "start": 4905,
+   "end": 4940
+  },
+  {
+   "fact": "成绩短信：87 分——正是她上次挂掉的那门课。",
+   "anchor": "87. Me. 87. For a subject I failed last time.",
+   "start": 7632,
+   "end": 7677
+  },
+  {
+   "fact": "厨房里她向全家宣布：我过了。",
+   "anchor": "I passed.",
+   "start": 7690,
+   "end": 7699
+  },
+  {
+   "fact": "庆功宴上 Charlie 开炮：你答应过带他回来！",
+   "anchor": "You promised you would bring him back!",
+   "start": 12787,
+   "end": 12825
+  },
+  {
+   "fact": "Jake 的安慰：分开一阵对彼此都好，是命中注定就跑不掉。",
+   "anchor": "If it’s meant to be it’s meant to be.",
+   "start": 5633,
+   "end": 5670
+  },
+  {
+   "fact": "章末：车灯橙光里，她看见他站在车道上。",
+   "anchor": "And that’s when I see him.",
+   "start": 13958,
+   "end": 13984
+  }
+ ]
+}
