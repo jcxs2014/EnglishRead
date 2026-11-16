@@ -13,13 +13,13 @@ modified: "2026-11-16"
 - **叙事手法**：以马背的贴身感做「被迫亲密」的容器，把设定课灌进耳语；结尾单字「Home」与其后整章的鲜血政治互为冷热两极。
 
 ## 精读
-> **原句 1:** "Darragh's chest and abdomen pressed against my back, his body heat warming me against the cool autumn air. His muscular thighs pressed against mine, and his arms reached around me, grazing my sides, to hold the reins. I was held firmly against him, and I only hoped that he couldn't feel my pulse quickening with each shift in the saddle he made."
+> **原句 1:** "Darragh’s chest and abdomen pressed against my back, his body heat warming me against the cool autumn air. … His muscular thighs pressed against mine, and his arms reached around me, grazing my sides, to hold the reins. I was held firmly against him, and I only hoped that he couldn’t feel my pulse quickening with each shift in the saddle he made."
 **中文理解**：Darragh 的胸腹贴着她的背，体温隔着秋凉传过来；健壮的大腿夹着她的腿、双臂绕前握缰擦过她身侧——她被牢牢圈在怀里，只祈祷马镫每晃一次、他察觉不到自己越来越快的心跳。
 **关键词**：pressed against my back / grazing my sides / pulse quickening
 **为什么这样写**：亲密被写成「无处可退的物理事实」——同骑是 ch16 她自己争来的，此刻的每一寸接触都是她自己签的合同；`pulse quickening` 由她单方面保密，心跳成了两人之间第一条不对称信息。
 **读者视角提示**：对照 ch19 的「Rory Alwine」——他先交付了真心话，这一章轮到她的身体交答案。她越掩饰，越说明她知道答案是什么。
 
-> **原句 2:** "Fragorkinesis. I can make explosions of any size inside others and objects," he stated matter-of-factly. "And yes, I can manipulate and solidify shadows and darkness. It's called umbrakinesis."
+> **原句 2:** "Fragorkinesis. I can make explosions of any size inside others and objects," he stated matter-of-factly. "And yes, I can manipulate and solidify shadows and darkness. It’s called umbrakinesis."
 **中文理解**：他平静报出双魔法全名：fragorkinesis——能在他人或物体内引爆任意大小的爆炸；还有 umbrakinesis——操纵并把影子与黑暗固化成形。
 **关键词**：explosions of any size / inside others / umbrakinesis
 **为什么这样写**：大杀器的介绍词是「陈述句」——`matter-of-factly` 的口吻让致命能力听起来像报库存；「inside others」三个词把这一魔法的恐怖边界（在身体里引爆）说得毫无修饰。
@@ -39,9 +39,9 @@ modified: "2026-11-16"
 **为什么这样写**：灵气被定义成「人格的可见光谱」——读人即读档案，社交变成情报学；`sometimes their health` 的含糊保留了对读者（和她）的威慑余量。
 **读者视角提示**：记住 aura 的三用（识人/识病/识魔法）——它解释了 Darragh 为何总在「评估」她的脸色：他看到的可能比表情多得多。
 
-> **原句 5:** "“I wouldn't be a good Captain of the Guard if I hadn't.”
+> **原句 5:** "“I wouldn’t be a good Captain of the Guard if I hadn’t.”
 
-“No. I don't read younglings. Their auras are still being molded until adulthood."
+“No. I don’t read younglings. Their auras are still being molded until adulthood."
 **中文理解**：她问出最介意的问题——你读过我的灵气吗？他答：不当好队长就早该读过。至于 Cora：不读幼崽——他们的灵气到成年前一直在被塑造，看得见但变化太频繁剧烈、读不准。
 **关键词**：a good Captain of the Guard / still being molded
 **为什么这样写**：他先自认「读了她」，再用「职业必需」免责——坦白与辩护打包；幼崽豁免条款的温柔在于承认「孩子还在成形」，未定型的存在不该被定性。
@@ -51,13 +51,13 @@ modified: "2026-11-16"
 
 “Not like his,” he said, seriously. “The king gets a direct line of power from Themis.”
 
-“It is why he stays king. Torrish's connection with Themis is symbiotic. They get power from each other."
+“It is why he stays king. Torrish’s connection with Themis is symbiotic. They get power from each other."
 **中文理解**：他点破王权机制：手里握着神赐之力，控制身边任何人都容易——但国王跟别人不一样，他从 Themis 那里拿的是「直通电源」。正因如此他才稳坐王位：Torrish 与 Themis 是共生关系，互相供能。
 **关键词**：power given by a god / a direct line of power / symbiotic
 **为什么这样写**：政治神学用电路术语讲完——「直通电源」vs「人人有电」的差别就是王权的全部秘密；`symbiotic` 说明书式的词挑明双向依赖：王要神的权，神要王的税（崇拜）。
 **读者视角提示**：把共生关系画成闭环——神权与王权互为充电桩。下一块的「血」就是这个回路的燃料。
 
-> **原句 7:** "Babies. “The angheal's.” I paused. “Is it possible they can't have younglings because they aren't honoring the goddess of life?”"
+> **原句 7:** "Babies. “The angheal’s.” I paused. “Is it possible they can’t have younglings because they aren’t honoring the goddess of life?”"
 **中文理解**：松鼠母子窜上树杈的瞬间她顿住—— babies。「angheal 们的。」她接着问：有没有可能，他们生不出孩子，是因为不再敬奉生命女神？
 **关键词**：Babies / goddess of life / honoring
 **为什么这样写**：灵感由动物触发——全书规律（自然先于人知道答案）再次生效；她的推理用的是「神力=崇拜」公式反推不育病因，外邦人的异端视角第一次切中本地禁忌。
