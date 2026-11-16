@@ -31,7 +31,7 @@ modified: "2026-11-15"
 
 **关键词**：something to live for
 
-**为什么这样写**：一句话里藏着家庭史上最锋利的回旋镖——它顺嘴承认了「以前你没有」。作者让这句话以关心 form 出场、以事故落地：Oliver 的 WTF（Did I not have something to live for before?）正是读者也在此刻补上的空白。
+**为什么这样写**：一句话里藏着家庭史上最锋利的回旋镖——它顺嘴承认了「以前你没有」。作者让这句话以关心的形式出场、以事故落地：Oliver 的 WTF（Did I not have something to live for before?）正是读者也在此刻补上的空白。
 
 **读者视角提示**：这句是本章章名级台词——章末会在实验室被 Eden 的热情正式作答。中间的空档由妈妈的病史填充。
 
@@ -63,7 +63,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：深刻的话用最不严肃的姿势说出来——嘴里的可颂把这句「哲学诊断」拉回人间。作者让 Eden 的 no-nonsense 再次成为工具：她分析他的家庭像分析文献，一句到位。
 
-**读者视角提示**：注意下一块她自嘲的「Girls love a man they can fix」——她自己都听见这句建议里的危险味道了。两人在互相「修」，而谁也没说破。
+**读者视角提示**：注意紧接着她自嘲的「Girls love a man they can fix」——她自己都听见这句建议里的危险味道了。两人在互相「修」，而谁也没说破。
 
 > **原句 6:** "Maybe your family will start seeing you like an actual person with hopes and dreams different from theirs."
 
@@ -93,7 +93,7 @@ modified: "2026-11-15"
 
 **为什么这样写**：欲扬先抑的标准两拍——won't admit 是绅士的体面，sexy professor 是内心的尖叫。作者用职业装的权威感完成欲望的转译：他迷恋的不只是外形，是她在专业领域里的主权姿态。
 
-**读者视角提示**：对照她在 ch07 的「suspenders 名场面」——两人的凝视火力至此完全对等。谁先说破只是时间问题。
+**读者视角提示**：对照 ch07 他穿 suspenders、她看呆的名场面——两人的凝视火力至此完全对等。谁先说破只是时间问题。
 
 > **原句 9:** It’s all to do with cancer research. We’re looking at the ways in which different drugs metabolise within the body.
 
@@ -111,7 +111,7 @@ modified: "2026-11-15"
 
 **关键词**：passion / fill the room / something to live for
 
-**为什么这样写**：章末回收 ch01 埋下的引语——「something to live for」从 Jason 的转述、他的 WTF，到此刻的答案，完成三级接力。fill the room 与 gets swept up 是同一股水的内外视角：她的热情是洪水，他是自愿被淹的人。
+**为什么这样写**：章末回收本章前半 Jason 埋下的引语——「something to live for」从转述、他的 WTF，到此刻的答案，完成三级接力（并与 ch01 Eden 的「a reason to live」遥相呼应）。fill the room 与 gets swept up 是同一股水的内外视角：她的热情是洪水，他是自愿被淹的人。
 
 **读者视角提示**：注意答案不是「Eden」而是「她沉浸其中的样子」——他爱的始终是她发光的样子。这句话为全书后段的共同未来（她的事业+他的书）打了地基。
 

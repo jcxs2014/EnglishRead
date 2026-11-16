@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch17",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch17_chap17.txt",
+ "facts": [
+  {
+   "fact": "Jason 破天荒站到门口问：她是你的女朋友吗？",
+   "anchor": "Is she your girlfriend?",
+   "start": 1029,
+   "end": 1052
+  },
+  {
+   "fact": "Jason 转述爸爸的观察：你最近开朗多了。",
+   "anchor": "You’ve been…happier lately.",
+   "start": 1733,
+   "end": 1760
+  },
+  {
+   "fact": "那句关键转述：像你终于有了能活下去的东西。",
+   "anchor": "Like you have something to live for.",
+   "start": 1974,
+   "end": 2010
+  },
+  {
+   "fact": "妈妈的黑暗时刻：把自己锁进书房连轴转，连饭都不吃。",
+   "anchor": "she would just lock herself in her study",
+   "start": 2197,
+   "end": 2237
+  },
+  {
+   "fact": "Eden 的读法：也许你爸看到了你自己看不到的东西。",
+   "anchor": "Maybe he sees something in you that you can’t?",
+   "start": 3545,
+   "end": 3591
+  },
+  {
+   "fact": "实验室参观：她拦住他乱摸机器——一台约五十万美元。",
+   "anchor": "Those things are worth like half a million dollars.",
+   "start": 9542,
+   "end": 9593
+  },
+  {
+   "fact": "研究细节：与癌症研究相关，追踪药物在体内的代谢。",
+   "anchor": "It’s all to do with cancer research.",
+   "start": 10909,
+   "end": 10945
+  },
+  {
+   "fact": "章末：她的热情涨满房间——也许这就是 Jason 说的「活下去的东西」。",
+   "anchor": "Maybe this is what Jason meant by having something to live for.",
+   "start": 11557,
+   "end": 11620
+  }
+ ]
+}
