@@ -40,7 +40,7 @@ modified: "2026-11-16"
 >
 > Back to his father."
 **中文理解**：早已过午夜。女儿在自己房间睡着，Senta 大概也不远。外面的影子已经缩回，学院的灯闪回亮起——而所有人决定把我的寝室当会议室。我不介意，反正反正也睡不着。Keegan 在大半场讨论里都很安静，坐在我床沿，一只手搭在我膝上望向窗外。我完全知道他的思绪去了哪。回到树林。回到他父亲身上。
-**关键词**：made my room the conference room / Back to the woods.
+**关键词**：make my room the conference room / Back to the woods.
 **为什么这样写**：战情室开进私人寝室——空间的妥协写尽之夜的非常态；两段「Back to…」复沓把 Keegan 的沉默翻译出来，无言胜有言。
 **读者视角提示**：读者从「反正睡不着」读到她的领导姿态：睡不着就开会——疲惫被职责化了。
 
