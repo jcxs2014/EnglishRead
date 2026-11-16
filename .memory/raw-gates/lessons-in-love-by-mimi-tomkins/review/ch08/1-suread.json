@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch08",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch08_chap8.txt",
+ "facts": [
+  {
+   "fact": "舞会开场前 Oliver 躲进洗手间找镇定，靠镜子整理头发。",
+   "anchor": "I excuse myself to the bathroom to try and find some composure.",
+   "start": 184,
+   "end": 247
+  },
+  {
+   "fact": "十美元赌局：Eden 押他不喜欢特调鸡尾酒，输了，嘟嘴抱怨。",
+   "anchor": "You just made me lose $10.",
+   "start": 2168,
+   "end": 2194
+  },
+  {
+   "fact": "舞池初吻：她的味道是覆盆子、青柠、以及「家」。",
+   "anchor": "She tastes like raspberries. She tastes like lime. She tastes like home.",
+   "start": 8522,
+   "end": 8594
+  },
+  {
+   "fact": "吻毕睁眼，她脸色煞白，Oliver 当场认定自己越界。",
+   "anchor": "She’s pale. Really pale.",
+   "start": 8940,
+   "end": 8964
+  },
+  {
+   "fact": "她说要吐了——初吻被当场呕吐打断。",
+   "anchor": "I think I’m going to be sick.",
+   "start": 9037,
+   "end": 9066
+  },
+  {
+   "fact": "宿舍楼下 Misty 放行：别担心，你和 Eden 的事我知道。",
+   "anchor": "Don’t worry. I know about you and Eden.",
+   "start": 11954,
+   "end": 11993
+  },
+  {
+   "fact": "浴室里她咕哝「I’m sorry, Ollie」——首次叫出昵称而本人无自觉。",
+   "anchor": "unaware of her first use of my nickname",
+   "start": 14534,
+   "end": 14573
+  },
+  {
+   "fact": "编发是妈妈教的：小时候给妈妈编发是他最爱的差事之一。",
+   "anchor": "My mum taught me how to braid when I was little",
+   "start": 16316,
+   "end": 16363
+  }
+ ]
+}
