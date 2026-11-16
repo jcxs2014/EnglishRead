@@ -21,5 +21,5 @@
 ## 已核实为正确
 1. 「这是她第一次亲口把它变成事实」：ch03 全章她只对 Gemma 说「strictly professional」，ch05 首次说 `I like him`，成立。
 2. 「三台质谱仪」：`Three machines face me`（text:221）成立。
-3. 「Drip 三连」：`Drip.` 独立成行 3 次（text:14/16/18）成立。
+3. 「Drip 三连」：开章三连 `Drip.` 独立成行 3 次（text:14/16/18）成立；全章共 6 次（另 text:38/40/42），nav 指「开章」，口径成立。
 4. 「Maddison 的 knowing look 没戳破」：`A knowing look crosses her face, but she doesn’t pry.`（text:167）成立。
