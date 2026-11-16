@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch02",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch02_chap2.txt",
+ "facts": [
+  {
+   "fact": "Oliver 睡到午后醒来，手机上是爸爸的 1 个未接来电。",
+   "anchor": "1 missed call from: Dad.",
+   "start": 461,
+   "end": 485
+  },
+  {
+   "fact": "早餐时 Jason 替全家发问：什么时候来给我们家干？Oliver 注意到是 for us 不是 with us。",
+   "anchor": "When are you going to come work for us?",
+   "start": 2756,
+   "end": 2795
+  },
+  {
+   "fact": "爸爸嫌他太像妈妈——dreamer、同款绿眼睛。",
+   "anchor": "Same green eyes.",
+   "start": 3257,
+   "end": 3273
+  },
+  {
+   "fact": "两人短信约周三上午 11 点在校内 Castello’s 见面。",
+   "anchor": "I’ll see you at Castello’s at 11am.",
+   "start": 5650,
+   "end": 5685
+  },
+  {
+   "fact": "Eden 自述第一年挂科原因：无法理解「蠢人写蠢故事讲更蠢的人」。",
+   "anchor": "An inability to understand why stupid people write stupid stories about stupider people.",
+   "start": 9985,
+   "end": 10073
+  },
+  {
+   "fact": "课程四项作业之一：10 分钟口头报告，讲文学作为学科近几十年的变化。",
+   "anchor": "A 10-minute oral presentation on how Literature as an area of study has changed over the last few decades",
+   "start": 11314,
+   "end": 11419
+  },
+  {
+   "fact": "被问多久读书，她反问「期刊论文算吗」——上次读整本书就是这门课。",
+   "anchor": "Do journal articles count?",
+   "start": 10878,
+   "end": 10904
+  },
+  {
+   "fact": "章末她给这段辅导定刻度：就这十二周，然后我们就结束了。",
+   "anchor": "Just twelve weeks of this and then we’re done.",
+   "start": 12570,
+   "end": 12616
+  }
+ ]
+}
