@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch05",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch05_chap5.txt",
+ "facts": [
+  {
+   "fact": "水龙头滴了一上午，Eden 烦到想拆管，叫 Gemma 来（她会叫姐姐 Misty 修）。",
+   "anchor": "My bathroom tap has been dripping non-stop all morning",
+   "start": 265,
+   "end": 319
+  },
+  {
+   "fact": "姐妹逼问下她磕磕巴巴承认：我喜欢他。",
+   "anchor": "I…I like him.",
+   "start": 2931,
+   "end": 2944
+  },
+  {
+   "fact": "她立刻拿「他可能是连环杀手」当挡箭牌。",
+   "anchor": "He could be a serial killer.",
+   "start": 3160,
+   "end": 3188
+  },
+  {
+   "fact": "次日同一家咖啡馆，与 Honours 统筹 Maddison Harvey 谈来年规划。",
+   "anchor": "Maddison Harvey, my Honours coordinator",
+   "start": 4053,
+   "end": 4092
+  },
+  {
+   "fact": "被问「什么变了」，她删掉心动细节，只说请了家教。",
+   "anchor": "I got a tutor.",
+   "start": 5777,
+   "end": 5791
+  },
+  {
+   "fact": "研究项目导师 Edward Zhao，执掌该实验室二十余年。",
+   "anchor": "My supervisor for this project is Edward Zhao, who’s been running this specific lab for over twenty years.",
+   "start": 7234,
+   "end": 7340
+  },
+  {
+   "fact": "实验室里三台质谱仪对着她，她又兴奋又紧张。",
+   "anchor": "Three machines face me",
+   "start": 8707,
+   "end": 8729
+  },
+  {
+   "fact": "她项目申请的核心：为多种疾病建早期检测流程。",
+   "anchor": "The ability to have an early detection process for a variety of diseases",
+   "start": 10149,
+   "end": 10221
+  }
+ ]
+}
