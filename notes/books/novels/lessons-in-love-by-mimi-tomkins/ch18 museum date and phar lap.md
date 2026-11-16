@@ -7,7 +7,7 @@ modified: "2026-11-15"
 
 ## 本章导航
 
-- **一句话概括**：博物馆正式约会——Phar Lap 悬案导览、Forest Gallery 里 Mum 的「我们的地方」、Black Saturday 山火记忆、 fairy wren 求偶课与第四吻（被校车打断）；寿司店复盘Gemma 直问「他到底想 date 还是……」。
+- **一句话概括**：博物馆正式约会——Phar Lap 悬案导览、Forest Gallery 里 Mum 的「我们的地方」、Black Saturday 山火记忆、 fairy wren 求偶课与第四吻（被老师喊集合打断）；寿司店复盘Gemma 直问「他到底想 date 还是……」。
 - **情感弧线位置**：热恋正章——第一场真正意义上的 date；她的恐惧从「他会不会走」变成「我是不是被改写了」。
 - **Tropes 兑现/反转**：兑现 museum date 全套（导览、知识输出、被小孩打断）；反转在地点——他把她带进妈妈的记忆领地（Forest Gallery），而不是任何安全的中立场地。
 - **人物弧线**：Eden——lab 里「smart and powerful」的宣言到寿司店「I want to do it with him by my side」的软化；Oliver——用知识流利度当求偶展示（fairy wren 同款）。
@@ -109,4 +109,4 @@ modified: "2026-11-15"
 
 ## 一句话总结
 
-博物馆一日游是他把妈妈的地盘交给她的仪式——Phar Lap 的悬案、山火的收音机、求偶的 fairy wren，第四吻在校车喇叭里中断；寿司店的复盘把她的恐惧摊牌：怕被改写，更怕承认想要的其实是「him by my side」。
+博物馆一日游是他把妈妈的地盘交给她的仪式——Phar Lap 的悬案、山火的收音机、求偶的 fairy wren，第四吻在「Kids! It’s time to hop on the bus!」的喊声里中断；寿司店的复盘把她的恐惧摊牌：怕被改写，更怕承认想要的其实是「him by my side」。
