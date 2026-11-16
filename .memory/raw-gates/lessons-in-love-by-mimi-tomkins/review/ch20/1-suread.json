@@ -1,0 +1,55 @@
+{
+ "book": "lessons-in-love-by-mimi-tomkins",
+ "chapter": "ch20",
+ "text": "notes/books/novels/lessons-in-love-by-mimi-tomkins/text/ch20_chap20.txt",
+ "facts": [
+  {
+   "fact": "啤酒乒乓邀约：他陪过她的碰碰车梦，现在轮到她支持他的。",
+   "anchor": "Support mine.",
+   "start": 1800,
+   "end": 1813
+  },
+  {
+   "fact": "Jake 播报：全家爱 Kiara，还要她带 Oliver 回来吃周日烤肉。",
+   "anchor": "They love her.",
+   "start": 7356,
+   "end": 7370
+  },
+  {
+   "fact": "她的付钱焦虑：付钱=承认交易，不付=占他便宜。",
+   "anchor": "Pay him and admit this relationship is transactional?",
+   "start": 9475,
+   "end": 9528
+  },
+  {
+   "fact": "Maddison 炸弹：Honours 奖学金申请上周五已截止，她还没收到。",
+   "anchor": "It was due last Friday, and I haven’t received it yet.",
+   "start": 11212,
+   "end": 11266
+  },
+  {
+   "fact": "演讲台上迟到的 Oliver 一进门，她从指尖到脚底结冰。",
+   "anchor": "I go cold.",
+   "start": 15540,
+   "end": 15550
+  },
+  {
+   "fact": "恐惧具象：没奖学金就养不起城里，只能回农场，被人闲话。",
+   "anchor": "I’d have to go back home to the farm.",
+   "start": 12609,
+   "end": 12646
+  },
+  {
+   "fact": "Jake 摊牌时报出全名，爸妈的反应是「她已经在车道上」。",
+   "anchor": "Kiara Mariano",
+   "start": 7184,
+   "end": 7197
+  },
+  {
+   "fact": "分手句：他背身丢下「你还欠上次辅导的四十块钱」。",
+   "anchor": "You owe me forty bucks from the last tutoring session.",
+   "start": 18263,
+   "end": 18317
+  }
+ ]
+}
