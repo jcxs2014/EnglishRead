@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch49",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch49_chapter_49.txt",
+ "facts": [
+  {
+   "fact": "1999：瑞典放射科医生 Anna Bågenholm 在挪威 Narvik 滑雪——坠入冰封溪流。",
+   "anchor": "a Swedish radiologist named Anna Bågenholm went skiing in the mountains near Narvik, Norway.",
+   "start": 129,
+   "end": 221
+  },
+  {
+   "fact": "水下 80 分钟——核心体温 13.7°C：幸存者最低纪录。",
+   "anchor": "had been submerged in freezing water for 80 minutes",
+   "start": 818,
+   "end": 869
+  },
+  {
+   "fact": "心跳已停、无生命迹象——但没有被宣布死亡。",
+   "anchor": "Her heart had stopped. She showed no signs of life.",
+   "start": 1059,
+   "end": 1110
+  },
+  {
+   "fact": "医生持续复温、体外循环——心跳重新跳动；数天后醒来近乎完全康复。",
+   "anchor": "they worked to slowly rewarm her body, circulating her blood through external machines",
+   "start": 1177,
+   "end": 1263
+  },
+  {
+   "fact": "医学原则：「你直到温暖且死亡才算死。」",
+   "anchor": "“You’re not dead until you’re warm and dead.”",
+   "start": 1796,
+   "end": 1841
+  },
+  {
+   "fact": "冷水里死亡不总是立即——有时根本不会来。",
+   "anchor": "Sometimes, it never comes at all.",
+   "start": 1908,
+   "end": 1941
+  }
+ ]
+}
