@@ -110,7 +110,7 @@ modified: "2026-11-17"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dinghy | 小划艇、舢板 | At a party you’ve got all these lonely people bobbing around like dinghies on the waves, looking for a safe harbour to moor in – or else, the party-goers are like jigsaw pieces, broken apart, who are all looking to find their matching piece so the puzzle can be completed |
+| dinghies | 小划艇、舢板（dinghy 的复数，文中原形） | At a party you’ve got all these lonely people bobbing around like dinghies on the waves, looking for a safe harbour to moor in – or else, the party-goers are like jigsaw pieces, broken apart, who are all looking to find their matching piece so the puzzle can be completed |
 | waiter | 服务员、侍者 | He was a waiter at a restaurant on Lygon Street, Carlton, for six months, and then he travelled around Australia for the following six. |
 | translator | 译者 | She’s an editor who works for Xavier – but, more importantly, she’s his principal translator of works from English. |
 | journalist | 记者 | Are you still working as a journalist? Miranda asked. |
