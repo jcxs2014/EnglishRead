@@ -62,7 +62,7 @@ modified: "2026-11-17"
 > But because the cat was half drugged, it didn't have its usual sense of balance, and when it rolled onto its side, it fell four floors"
 
 **中文理解**：坠猫奇案的解释：「我们都能解释——周末下乡回来，猫吐满了车后座，为了不让它再吐，我们给它喂了药。……可猫半药状态平衡尽失，一侧身，从四楼摔了下去。」
-**关键词**：We can explain everything、our cat vomited all over the back seat、we drugged the cat、its half-drugged state、it fell four floors
+**关键词**：We can explain everything、our cat vomited all over the back seat、we drugged the cat、half drugged、it fell four floors
 **为什么这样写**：意外链条每一环都出于好意（防吐→喂药→疏忽→坠落）——善意的多米诺是本书事故论的通用模型；「luckily for us and for the cat, but not luckily for you」（前文）把幸运分配成零和游戏。
 **读者视角提示**：与 ch26 三死者对照：猫被救活、人被砸晕——命运的账本上猫是赢家。记住「drugged the cat」：善意管理失控的标准案例。
 

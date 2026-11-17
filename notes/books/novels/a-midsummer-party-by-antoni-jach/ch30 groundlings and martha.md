@@ -23,7 +23,7 @@ modified: "2026-11-17"
 > To which, the boy simply said, I do."
 
 **中文理解**：佛罗伦萨到了，男孩却不动——想了很久才说：「澳大利亚是我想去的地方……澳大利亚是一个梦。」Katy 赠言：「功课跟上，你会有精彩的人生。」男孩答谢并公布志愿：「我要当国际象棋特级大师，或者天文学家。」「你可以的——相信你自己。」他只回了三个字：「我相信。」
-**关键词**：Australia is a dream、Say goodbye to your new friends、a chess grandmaster or an astronomer、believe in yourself、I do
+**关键词**：Australia is a dream、a chess grandmaster or an astronomer、believe in yourself、I do
 **为什么这样写**：告别被延迟成一次少年告白——「Australia is a dream」的重复句式把地理升格为志向；「I do」回收了婚礼的誓词语法（本书正被一场婚礼取消缠绕）：孩子对自信的宣誓是全章唯一的完成时。
 **读者视角提示**：与 ch23 被取消的婚礼对照——「I do」在这里有了新婚约对象：未来。记住这个挥手的孩子：他是全书的希望余额。
 
@@ -40,7 +40,7 @@ modified: "2026-11-17"
 > She's a Grand Seductress. That should be the title of her memoir, if she ever writes one"
 
 **中文理解**：Katy 的 Gloria 论：「她任性而坚决。她创造自己的现实。我以前偷听过她对各种男人说：『像我这么美的女人，干什么都可以被原谅。』——她其实只是漂亮而非美丽，但她反复说自己美，男人们就信了。……她是个大诱引者（Grand Seductress）。如果她哪天写回忆录，这该是书名。」
-**关键词**：wilful and determined、She creates her own reality、When you're as beautiful as I am、pretty rather than beautiful、That should be the title of her memoir
+**关键词**：wilful and determined、She creates her own reality、When you're as beautiful as I am、That should be the title of her memoir
 **为什么这样写**：画像以口头禅取证——「美丽的自我重复」是她的造梦术（与 Katy 的广告研究同宗）；「Grand Seductress」的书名提案把 G-gloria 送进文本内的出版市场。评分里的私怨与敬意各占一半。
 **读者视角提示**：与 ch13 的「I always get what I want」并读——Gloria 的现实创造术两份证词合拢。记住这个书名：它将在总览层回收。
 

@@ -57,7 +57,7 @@ modified: "2026-11-17"
 |---|---|---|
 | incongruous | 不协调的、格格不入的 | It’s beautifully made, but the elements are maddeningly incongruous. |
 | travertine | 洞石（罗马常用石灰华） | It’s made of travertine, but the obelisk is red oriental granite extracted from the Aswan area quarries in Egypt. |
-| shivering | 发抖、打颤 | When she pulled away from me, she started to shiver quite violently, even though it was so much warmer inside the lobby |
+| shiver | 发抖、打颤（动词原形） | When she pulled away from me, she started to shiver quite violently, even though it was so much warmer inside the lobby |
 | amble | 从容漫步 | I found a postcard and the stub of a charcoal pencil in one of my suit-coat pockets, and I wrote down the number for her, then I noticed the shakily written ‘3’, which just showed how tired I was, and she ambled off. |
 
 ### ⭐ 常用

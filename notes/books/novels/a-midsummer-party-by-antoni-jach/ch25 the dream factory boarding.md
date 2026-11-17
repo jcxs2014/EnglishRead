@@ -21,7 +21,7 @@ modified: "2026-11-17"
 > I was stuck in the middle of nowhere, going nowhere. I was in stasis, hoping the heavens would open up and it would rain and my lonely, unsatisfied parents would for one brief moment be happy, and my dad would grab me up into his arms, and we would all go running out of our tumbledown house and dance in the rain and whoop for joy in the red dust slowly turning to thankful mud"
 
 **中文理解**：Katy 的火车浪漫论：站台震颤着乐观与可能性——「travellers」这个词童年时让她起鸡皮疙瘩：她曾卡在无处的中央、哪儿也去不了；在停滞中盼天下雨，盼孤独不满足的父母有片刻快乐，盼父亲把她抱进怀里，全家跑出破屋、在红土慢慢变成感恩的泥时又跳又叫。
-**关键词**：the romance of train travel、optimism and possibility、that mystical category of travellers、I was in stasis、the red dust slowly turning to thankful mud
+**关键词**：the romance of train travel、optimism and possibility、I was in stasis、the red dust slowly turning to thankful mud
 **为什么这样写**：把站台写成发射台，把童年写成旱灾救援仪式——「red dust → thankful mud」一滴雨的转化是全段的神迹；「stasis」与「travellers」对仗：她今生的一切移动都在偿还童年的静止。
 **读者视角提示**：与 ch24 的 Wimmera 麦田连读：父亲的太阳 curse 在这里落成雨。记住红土之舞——本书最温柔的一次「冒险」定义。
 

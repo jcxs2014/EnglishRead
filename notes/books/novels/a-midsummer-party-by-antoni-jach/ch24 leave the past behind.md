@@ -27,7 +27,7 @@ modified: "2026-11-17"
 > The place she really needed to escape from, she confided, was herself – that dreadful island of ambition and neurosis, a place that continually made her unhappy"
 
 **中文理解**：空街、太阳与阴影让她「存在性地有点害怕」——但她会甩掉这种感觉、稳住自己、暂时活在现在时。她真正要逃的地方，她吐露，是她自己——「那座由野心与神经质构成的可怕孤岛，一个持续令她不快乐的地方。」
-**关键词**：afraid in an existential sense、stay in the present tense、some imagined Cythera、The place she really needed to escape from、that dreadful island of ambition and neurosis
+**关键词**：afraid in an existential sense、stay in the present tense、compose herself、The place she really needed to escape from、that dreadful island of ambition and neurosis
 **为什么这样写**：逃亡目的地被撤回重订——Cythera（爱神岛）与 Elysium（至福乐土）两个古典地名堆起来，只为引出「是自己」这个落点；「island」把心理状态写成地理刑期，野心与神经质是岛上唯二居民。
 **读者视角提示**：与 ch20 的「living the right life」、ch23 的「my life is not my own」连读——Katy 的三连自诊在此汇成一处。记住这座孤岛：Part Two 每次靠岸都会绕行它。
 

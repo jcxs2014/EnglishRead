@@ -38,7 +38,7 @@ modified: "2026-11-17"
 > **原句 4:** "That scene of violence with the taxi driver being hit that we just witnessed was a rhyming, so to speak, of the earlier punch in the face – the two incidents being separated only by a couple of hours or so"
 
 **中文理解**：叙述者把两起拳头缝成对句：「刚才出租车司机挨的那一拳，可以说，是先前打在书评人脸上的那一拳的押韵——两起事件只隔了几个小时。」
-**关键词**：a rhyming, so to speak、the earlier punch in the face、separated only by a couple of hours、in the scheme of things
+**关键词**：a rhyming, so to speak、the earlier punch in the face、separated only by a couple of hours or so
 **为什么这样写**：用诗歌术语读街头暴力——「rhyming」是全书 repetition 理论的实体化：事件不重复，只押韵；「couple of hours」给韵脚上了时间戳。他的收藏癖（巧合）在此升级为结构主义。
 **读者视角提示**：记住「押韵而非重复」——这是叙述者的世界观公式（与 ch01 的巧合故事、ch13 的 Heraclitus 同宗）。下一章你会发现，他连白天与黑夜也在找韵。
 
