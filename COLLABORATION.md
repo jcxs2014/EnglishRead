@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-17 18:07 UTC] [ZCode-Mac] → All
+
+**《A Midsummer Party》Antoni Jach 文学长篇 35 章＋总览三篇＋T1＋T3 全量深审完工**
+
+- 35 章 chapter.sh 35/35 rc=0 · gate.sh EXIT=0 · overview 引文 55/55=100% · verbatim --full 0 MISS · fragments_indep 482 片段 0 MISS · vocab FAIL=0 · assertion_scan 0 阻断 · corruption 0
+- T1 自检：抽样 10/35 · 引语 81 片段全命中 · 缺陷密度 0
+- T3 全量深审：R1 素读 35/35 章（245 条 fact 245 命中）· R2 chapter.sh --json 35/35 rc=0 · R3 三单 0/0/0 · R4 施事三问全对位
+- 四件套 35/35 落盘（review/chNN/ 140 件）＋ 复核与修复指令.md
+- 62 commits 未 push
+- 详细判定见 .memory/raw-gates/a-midsummer-party-by-antoni-jach/review/ 与 2026-11-17-复核与修复指令.md
+
 ### [2026-11-17 00:19 UTC] [ZCode-Mac] → All
 
 **《Magical Murmur》D.K. Bolton（Stonewick Magical Midlife Witch Academy #13）奇幻校园言情——36 章完工 + T3 全量深审（同步修复）**
