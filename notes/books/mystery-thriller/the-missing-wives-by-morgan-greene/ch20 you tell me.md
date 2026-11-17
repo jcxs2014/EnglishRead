@@ -68,7 +68,7 @@ modified: "2026-11-17"
 |---|---|---|
 | champing | （焦躁地）吧唧嘴、咬唇 | “What’s going on? Where’s April?” he said then, champing his lips |
 | spluttered | 语无伦次地说、喷着唾沫说 | “Jesus fucking Christ,” Brian spluttered |
-| blaring | 大声作响、刺目 | Again, the lights were blaring, but it was empty |
+| rein in | 勒住、克制 | trying to rein in the blinding pain in her head, barely clinging on to her balance |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

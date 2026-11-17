@@ -56,13 +56,13 @@ modified: "2026-11-17"
 |---|---|---|
 | refracted | 折射的 | different-shaped inlays that refracted and reflected light |
 | unholstering | 从枪套拔出 | stowed her phone and reached to her belt instead, unholstering her pistol |
-| fiddled | 摆弄、拨弄 | She fiddled with the release catch |
+| twinkled | 闪烁微光 | The town twinkled gently in the valley below |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | warble | 颤音、模糊的连续声 | She could hear the faint warble of voices |
-| wedged | 被楔紧的、卡死的 | which was by its very nature now wedged very firmly |
+| hurtled | 猛冲、飞冲而下 | She turned on her heel and hurtled down off the step, clean over the rose bushes |
 | jumbled | 杂乱无章的 | trying to make it out like a jumbled jigsaw |
 
 ## 一句话总结
