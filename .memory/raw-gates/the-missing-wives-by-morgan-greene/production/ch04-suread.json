@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "现场周围只有农田，没有河湖——溺死死法与地形矛盾。",
+   "anchor": "There was no water out here—just farmland and fields. No rivers or lakes.",
+   "start": 502,
+   "end": 575
+  },
+  {
+   "fact": "Alex 心里骂出核心谜面：怎么在田野中间淹死一个人？",
+   "anchor": "How the fuck do you drown someone in the middle of a field?",
+   "start": 633,
+   "end": 692
+  },
+  {
+   "fact": "副警长 Dawes 拦车，连名字都不想听，说这是活跃犯罪现场。",
+   "anchor": "care what your name is",
+   "start": 1396,
+   "end": 1418
+  },
+  {
+   "fact": "警长 Lacey Mitchell 从卡车间走出，怒视副手。",
+   "anchor": "A woman, probably around his age, stepped from between the sheriff’s department trucks",
+   "start": 2341,
+   "end": 2427
+  },
+  {
+   "fact": "Lacey 说 Dawes 无害——爱带徽章配枪是因为让他觉得有权力。",
+   "anchor": "Likes to carry the badge and gun because it makes him feel powerful",
+   "start": 3292,
+   "end": 3359
+  },
+  {
+   "fact": "Alex 观察 Dawes 摆臂夸张、胸口挺起——自负驱动一生的标志。",
+   "anchor": "telltale signs of a guy whose ego ran his life.",
+   "start": 3663,
+   "end": 3710
+  },
+  {
+   "fact": "Alex 冷评：为权力干这行的人，配不上徽章和枪。",
+   "anchor": "In my experience, guys who take the job for that reason aren’t ever the sort you want with a badge and a gun.",
+   "start": 3759,
+   "end": 3868
+  },
+  {
+   "fact": "验尸官等人都在等她完工——她不赶时间。",
+   "anchor": "And she wasn’t going to be rushed.",
+   "start": 5740,
+   "end": 5774
+  },
+  {
+   "fact": "章末：Lacey 拉开谷仓门，Alex 看到的不是她预期的画面。",
+   "anchor": "But it wasn’t this.",
+   "start": 6138,
+   "end": 6157
+  }
+ ]
+}
