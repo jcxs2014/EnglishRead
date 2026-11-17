@@ -120,7 +120,7 @@ modified: "2026-11-17"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| draining/dishwasher | 洗碗机 | Hattie jerks the dishwasher open and places her glass inside. |
+| dishwasher | 洗碗机 | Hattie jerks the dishwasher open and places her glass inside. |
 | urinating | 排尿 | it's a moment before the sound of him urinating floats out to her. |
 | handgun | 手枪 | It's good Ed's handgun is locked away, because if she were holding it now, the receding shape of Eeling's back might prove to be too tempting of a target. |
 | puddles | 水洼 | he swings the vehicle in a short arc and glides away down the drive, wheels splashing through puddles. |
