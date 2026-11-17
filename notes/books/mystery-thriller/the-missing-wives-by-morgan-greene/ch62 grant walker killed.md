@@ -51,7 +51,7 @@ modified: "2026-11-17"
 
 > **原句 7:** "Alex pulled the trigger, the report echoing, the recoil of the gun kicking back against her hand. … When she opened her eyes, Grant Walker was slumped at her feet, a pool of blood already spreading beneath him. … She swallowed the vomit rising in her throat and turned to face Leonard Whitaker, lying crumpled on the ground, his gapped, disgusting grin as good as a bullet right through her own heart as well."
 **中文理解**：Alex 扣下扳机——枪声回荡、后坐力撞回她的手。……她睁开眼时，Grant Walker 已经瘫在她脚边，一滩血正在他身下蔓延。……她咽下涌起的呕吐感、转身面对躺在地上的 Leonard Whitaker——他咧着的、缺牙的、令人作呕的笑，就像一颗正穿过她自己心脏的子弹。
-**关键词**：Alex pulled the trigger / a pool of blood already spreading / as good as a bullet right through her own heart
+**关键词**：Alex pulled the trigger / a pool of blood / spreading beneath him / right through her own heart
 **为什么这样写**：Grant 的死与 Leonard 的笑在同一章互为弹道——她杀死了一个要杀她的人，却被另一个人的胜利击穿；作者让 vomit 与 grin 并置：她的手是干净的，心不是。全案的暴力在此交付，而它的账单才刚送到。
 **读者视角提示**：记住这发子弹的性质：他扑向枪（自杀式），她扣了扳机（自保式）——但 Laura 的尖叫会让她在法律与良心的双重法庭上重新受审。ch04 的「They're always bad, Tom」到此全部应验。
 
