@@ -39,7 +39,7 @@ modified: "2026-11-17"
 
 > **原句 5:** "That there’s no fucking justice in this world—and whatever you may think of me, I don’t believe that revenge is the same thing."
 **中文理解**：「这世上没有他妈的正义——而且不管你怎么看我，我不认为复仇等于正义。」
-**关键词**：no fucking justice / revenge is not the same thing / whatever you may think of me
+**关键词**：no fucking justice / revenge is the same thing / whatever you may think of me
 **为什么这样写**：Bob 的信条是全书道德光谱的另一个端点——他在「无正义」与「不复仇」之间搭了一座独木桥；作者让这句话与凶手的 water is life 对位：同样的绝望，两种解法。他的否定同时是给 Alex 的证词：凶手不是他。
 **读者视角提示**：把「复仇≠正义」记成名单的过滤器——候选者必须既恨到骨头、又认同「完成审判」。这个哲学门槛比不在场证明更难伪造。
 

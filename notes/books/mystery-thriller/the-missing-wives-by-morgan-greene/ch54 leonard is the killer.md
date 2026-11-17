@@ -68,7 +68,7 @@ modified: "2026-11-17"
 |---|---|---|
 | gully | 冲沟、沟壑 | It could wash into a gully, or simply into a larger body of water. |
 | decompose | 分解、腐烂 | as they began to decompose, as the flesh began to rot |
-| sweeping | 横扫的、足以卷走 | powerful enough to sweep away a seventeen-year-old kid |
+| sweep away | 卷走、冲走 | fast-flowing, powerful enough to sweep away a seventeen-year-old kid |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

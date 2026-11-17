@@ -53,7 +53,7 @@ modified: "2026-11-17"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| moniker | 化名、绰号 | left behind by a man known only as Judgment. |
+| moniker | 化名、绰号 | Whitaker couldn’t know that moniker unless he was telling the truth |
 | sadistic | 施虐成性的、以残忍为乐的 | a sadistic grin on his face. |
 | burbled | （引擎）咕嘟作响 | The engine burbled fiercely as Alex lifted her eyes to the rearview mirror |
 
@@ -68,7 +68,7 @@ modified: "2026-11-17"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | whirling | 疾旋、急转 | whirling through Dunning, still nearly deserted |
-| glaring | 瞪视、刺目地俯视 | the glass-fronted monstrosities… glaring down at her from on high |
+| striding | 大步跨行 | all four husbands charged out in a train, striding down the driveway toward Grant Walker’s waiting Range Rover. |
 | gaunt | 憔悴的、骨瘦的 | red-eyed and gaunt, his wife not dead eight hours yet |
 
 ## 一句话总结

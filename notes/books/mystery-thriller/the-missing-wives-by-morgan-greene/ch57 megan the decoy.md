@@ -63,7 +63,7 @@ modified: "2026-11-17"
 |---|---|---|
 | muzzle | 枪口 | put the muzzle of her pistol against the strap |
 | crook | 弯曲处（臂弯） | Alex threw the crook of her elbow to her nose and mouth |
-| flicker | 摇曳的火苗、闪动 | a flicker of yellow flame. |
+| blaze | 烈火、火场 | a fire engine barreled toward the blaze. |
 
 ## 一句话总结
 反锁的门、断带上的血、空掉的儿童房——七岁的诱饵换走了整支守卫；Alex 抱着别人家的孩子冲出火海，雨刷下第三封信正在风里扑动。
