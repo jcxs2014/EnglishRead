@@ -1,0 +1,55 @@
+{
+ "book": "night-calls-by-joe-hart",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch02_2.txt",
+ "facts": [
+  {
+   "fact": "清晨仪式：她在浴室照镜子，确认「自己还在」——需要确认的对象是她自己的存在。",
+   "anchor": "assuring herself she’s still there",
+   "start": 205,
+   "end": 239
+  },
+  {
+   "fact": "客房门外她停步听鼾声；那声音每次都把她「早已放弃为死物」的什么东西复活——鼾声=活人还在的证据。",
+   "anchor": "the sound resurrects something inside her she gave up for dead",
+   "start": 366,
+   "end": 428
+  },
+  {
+   "fact": "Ed 很久以前教她：最好的法式吐司要用真正的法棍，哪怕有点陈——「物尽其用」是他的天赋。",
+   "anchor": "Ed taught her a long time ago the best French toast comes from actual French bread",
+   "start": 594,
+   "end": 676
+  },
+  {
+   "fact": "她体味「别人还睡着时自己醒着忙活」的满足；Ed 若还活着会说「这是你心里的母亲」——Ed 已不在人世。",
+   "anchor": "It’s the mother in you, Ed would have said if he were still alive",
+   "start": 1060,
+   "end": 1125
+  },
+  {
+   "fact": "她烧水磨咖啡豆时想着「他喜欢看她做饭，她不会夺走这个」——对 Ed 的习惯性现在时。",
+   "anchor": "He likes to watch her cook, and she won’t rob him of it",
+   "start": 1180,
+   "end": 1235
+  },
+  {
+   "fact": "云在树梢聚拢胀满雨；树上一阵扑翅只是乌鸦；「也许猫头鹰今天会来。希望不要。」——猫头鹰是不祥的待客者。",
+   "anchor": "Maybe the owl will come today. Hopefully not",
+   "start": 1531,
+   "end": 1575
+  },
+  {
+   "fact": "描写客人睡乱的头发时正文被拦腰打断（bed—），侵入性闪回接管：「他们叫他 Bedfellow（同床者）。他在睡梦中杀了他们。别抗拒，放它进来。」——与 ch01 的 mantra 同构。",
+   "anchor": "Bedfellow. They call him the Bedfellow. He killed them in their sleep. Don’t fight it. Let it in.",
+   "start": 2124,
+   "end": 2221
+  },
+  {
+   "fact": "客人是个小男孩：小手背憋哈欠、眼有眼屎、深色头发睡乱、自己爬上椅子；她问饿不饿，他困倦点头，她开始做饭。",
+   "anchor": "midway through a yawn stifled by the back of his small hand",
+   "start": 2238,
+   "end": 2297
+  }
+ ]
+}
