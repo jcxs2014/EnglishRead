@@ -21,7 +21,7 @@ modified: "2026-11-17"
 
 > **原句 2:** "What do I have to understand?” Alex cut him off. “That you and the other owners of DREC pissed off one too many people and now your chickens have come home to roost? That you diverted a river to starve thousands of acres of farmland of water so you could buy it out for redevelopment? Or that you arranged the murder of two of the three plaintiffs on the civil suit brought against you for doing just that?"
 **中文理解**：「我要理解什么？」Alex 截住他。「理解你和其他 DREC 的东家得罪了太多人、现在报应到家了？理解你们改道一条河、把几千英亩农田渴死，好把地买下来开发？还是理解你们安排谋杀了那场民事诉讼的三个原告里的两个？」
-**关键词**：chickens have come home to roost / starve thousands of acres / arranged the murder of two of the three plaintiffs
+**关键词**：chickens have come home to roost / starve thousands of acres / arranged the murder / two of the three plaintiffs
 **为什么这样写**：Alex 把三章调查压成一串反问——鸡回家栖息（自食恶果）的谚语给这场对话定了因果调；她当面说出「你们安排谋杀」——比她此刻掌握的证据更重，是一场赌博式施压。作者用语言把 David Harper 逼到墙角，看他会不会在墙角开花。
 **读者视角提示**：注意她的策略：证据不足就用陈述施压——Harper 的反应（pale、回头看家人）证明她猜中了方向。这也解释了 Keller 为什么必须在场：这句「谋杀」说出来，谈判就结束了。
 
