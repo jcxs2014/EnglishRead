@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch37",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch37_chapter_37.txt",
+ "facts": [
+  {
+   "fact": "SUV 跟踪——拔枪对峙：David Harper（妻儿在车上）。",
+   "anchor": "David Harper’s face moving into view in the gap.",
+   "start": 2035,
+   "end": 2083
+  },
+  {
+   "fact": "Harper 求助：贿赂、勒索——要证人保护、今晚；行李已装车。",
+   "anchor": "the bribes. The blackmail. But you have to get us into witness protection. Tonight.",
+   "start": 4839,
+   "end": 4922
+  },
+  {
+   "fact": "Alex 控诉：改河饿田买地重建——安排谋杀三名原告中的两名。",
+   "anchor": "you arranged the murder of two of the three plaintiffs on the civil suit",
+   "start": 3681,
+   "end": 3753
+  },
+  {
+   "fact": "Harper 承诺：在记录上全招——为保护家人。",
+   "anchor": "On the record, the whole thing.",
+   "start": 5314,
+   "end": 5345
+  },
+  {
+   "fact": "Keller 杀到：「他悲伤过度神志不清」——Alex：「他说的什么都是不可采的。」",
+   "anchor": "He’s grief-stricken, not thinking clearly",
+   "start": 7296,
+   "end": 7337
+  },
+  {
+   "fact": "Harper 盯律师十秒——温顺点头缩回车里，开车回 Dunning。",
+   "anchor": "He nodded meekly, stepping back toward the car without another word.",
+   "start": 7878,
+   "end": 7946
+  },
+  {
+   "fact": "Keller 临别：「你有个凶手要抓。时钟在滴答。」",
+   "anchor": "And the clock is ticking.",
+   "start": 9020,
+   "end": 9045
+  },
+  {
+   "fact": "章末对峙：「你会自己处置凶手？」——「我干我的活。建议你也干你的。」",
+   "anchor": "And I suggest you do the same thing.",
+   "start": 10327,
+   "end": 10363
+  }
+ ]
+}
