@@ -40,7 +40,7 @@ modified: "2026-11-17"
 > **原句 5:** ""If Ma ever got sick, the entire infrastructure of the Blackwood empire would stall out within forty-eight hours. Gunnar handles the muscle, Vidar handles logistics, Magnus handles the public face... but Ma is the lifeblood. The actual mechanics of how the pack survives."" … "I filed every single word away, cataloging the weaknesses. Mei Ling wasn't just the backbone of the Blackwood pack—she was the central node. If you severed Mei Ling's network, the entire pack structure would collapse in on itself, leaving Gunnar's muscle and Vidar's logistics stranded without a foundation."
 **中文理解**：「我妈要是病倒，Blackwood 帝国整套基建四十八小时内就会停摆。Gunnar 管肌肉，Vidar 管后勤，Magnus 管门面——但 Ma 是命脉，是 pack 存活的真正机械结构。」她把每个字归档、逐条编目弱点：Mei Ling 不只是 pack 的脊梁，她是中央节点。剪断 Mei Ling 的网络，整个 pack 结构会向内塌方——Gunnar 的肌肉和 Vidar 的后勤将失去地基，滞在原地。
 **关键词**：stall out within forty-eight hours / Ma is the lifeblood / the central node / severed Mei Ling's network
-**为什么这样写**：情报以闲聊形态入库——Astrid 的家常分析被 Rosalind 当场译成打击方案；backbone 与 central node 的一字升级完成威胁建模（脊梁断了还能爬，节点断了全盘瘫）。forty-eight hours 与她 Ch08 记日记的那晚同量级：这个家的时钟以「母亲」为齿轮。
+**为什么这样写**：情报以闲聊形态入库——Astrid 的家常分析被 Rosalind 当场译成打击方案；backbone 与 central node 的一字升级完成威胁建模（脊梁断了还能爬，节点断了全盘瘫）。forty-eight hours 与她 ch08 记日记的那晚同量级：这个家的时钟以「母亲」为齿轮。
 **读者视角提示**：这是她的作战计划第一次有了明确的靶心——不是 Gunnar、不是 Fenrir，而是那位对她最像母亲的人。追看她的「斩网」行动如何与此章兑现。
 
 > **原句 6:** "In another life—one where I wasn't raised as a weapon, one where the pack system hadn't crushed every soft part of me—Astrid and I might have been friends. We could have sat in cafes, gossiped about arrogant Alphas, and committed reckless credit card fraud together for fun." … "Too bad I’m going to destroy the only life she’s ever known."
