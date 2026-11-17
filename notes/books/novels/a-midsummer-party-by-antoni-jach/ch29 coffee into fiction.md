@@ -41,7 +41,7 @@ modified: "2026-11-17"
 **为什么这样写**：警句的出处被当场坦白——「adapted」是文化生产的诚实姿势：所有好定义都是借用；咖啡因作为创作燃料（前文 Rory 的两杯 long blacks 同款）把写作降格为化学反应。
 **读者视角提示**：对照 ch21 的「sounding board/counsellor」——这台机器的燃料是倾听。记住 Rényi：本书的每一句俏皮话都有上游。
 
-> **原句 4:** "But you don't have to read it all. You can flick through the volumes, and if you find a passage you like, then read that. Alternatively you could start reading when the narrator – named only once as ‘Marcel’. Proust is a master at describing obsessive love, illusory love and self-delusionary love; he is a writer of fragments. His vast novel is interwoven just like a finely patterned carpet, and it adds up to the presentation of a whole world – the sheer length adds to this effect, of course"
+> **原句 4:** "But you don’t have to read it all. You can flick through the volumes, and if you find a passage you like, then read that. Alternatively you could start reading when the narrator – who is named only once as ‘Marcel’ – meets Albertine. Proust is a master at describing obsessive love, illusory love and self-delusionary love; he is a writer of fragments. His vast novel is interwoven just like a finely patterned carpet, and it adds up to the presentation of a whole world – the sheer length adds to this effect, of course"
 
 **中文理解**：普鲁斯特入门法：「不必全读。可以翻卷——翻到喜欢的段落就读那一段；或者从叙事者（全书只被叫过一次『马塞尔』）遇见 Albertine 处开始。普鲁斯特是写痴迷之爱、幻象之爱与自我欺骗之爱的大师——他是由碎片组成的作家。那部巨著像细密的纹毯一样织成，最终呈现出一整个世界——长度本身就是这效果的一部分。」
 **关键词**：you don't have to read it all、flick through the volumes、named only once as ‘Marcel’、obsessive love, illusory love and self-delusionary love、interwoven just like a finely patterned carpet
