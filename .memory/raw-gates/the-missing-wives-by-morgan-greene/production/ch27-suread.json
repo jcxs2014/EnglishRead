@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch27",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "Kevin 在图书馆被毛线帽高个逼问——又是 Andrews。",
+   "anchor": "“Wearing a beanie?”",
+   "start": 1810,
+   "end": 1829
+  },
+  {
+   "fact": "时间线：凌晨三点半——Alex 一离开现场，Andrews 就逐个击破。",
+   "anchor": "Maybe around three-thirty.",
+   "start": 1928,
+   "end": 1954
+  },
+  {
+   "fact": "Kevin 逃亡路线：借口上厕所→锁电脑→偷 pool car 与 master 钥匙→侧门溜走。",
+   "anchor": "Took a set for a pool car, and a master set for some buildings in town",
+   "start": 3300,
+   "end": 3370
+  },
+  {
+   "fact": "Alex 打给 Doyle 但坚持：这是 Lacey 的郡、她的副手——必须她自己动手。",
+   "anchor": "This is her county. These are her deputies. She’s the one who needs to make this happen.",
+   "start": 4305,
+   "end": 4393
+  },
+  {
+   "fact": "农民诉讼：两人确认死亡——一个「意外」死于农机、一个谷仓上吊——都在开庭前。",
+   "anchor": "One accidentally fell under his own farm equipment. The second hanged himself in his barn.",
+   "start": 4862,
+   "end": 4952
+  },
+  {
+   "fact": "第三人 Garrett Henderson 失踪：无信用活动无手机活动、妻子没报失踪——Alex 判断活着在逃。",
+   "anchor": "He’s just… gone. Dropped off the face of the earth.",
+   "start": 5275,
+   "end": 5326
+  },
+  {
+   "fact": "拒绝打电话（会惊动他）——要地址亲自查。",
+   "anchor": "Give me the addresses of the family. I’ll check them out myself.",
+   "start": 6577,
+   "end": 6641
+  },
+  {
+   "fact": "出城决定：明智？不。必要？是。",
+   "anchor": "Wise? No. Necessary? Yes.",
+   "start": 6833,
+   "end": 6858
+  },
+  {
+   "fact": "Alex 暗想：以眼还眼——兄弟、父、子，想复仇的人。",
+   "anchor": "Brothers, fathers, sons… People who’d want to seek vengeance.",
+   "start": 6088,
+   "end": 6149
+  }
+ ]
+}
