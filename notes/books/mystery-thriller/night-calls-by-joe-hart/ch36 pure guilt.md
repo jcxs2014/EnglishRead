@@ -24,7 +24,7 @@ modified: "2026-11-17"
 > **原句 2:** "Hattie stands looking down the hall, knowing she has to go to the end where her bedroom door stands partway open. There's something here, something waiting for her to see, even though it's the last thing she wants to do. There is safety in the other direction, the openness of the world and all the places in it to run to and hide in. Instead, she finds herself moving down the hall, fingertips brushing the wall in harsh whispers as if she's trying to hold herself back. The sensation of floating overwhelms her, and when she reaches the wash of moonlight her feet skim it but don't plunge through it like she feared they would. Then the door is to the left and her hand reaches out to push it all the way open."
 
 **中文理解**：她站在走廊上往下望，知道自己必须走到尽头那扇卧室门前。漂浮的感觉压过来，等她走进那片月光时，她的脚轻轻擦过地板——像踩在水面上。
-**关键词**：down the hall / floating / moonlight / feet skim
+**关键词**：moonlight / floating / feet skim
 **为什么这样写**：「漂浮」是她解离的体感（ch18 daymares），而「脚轻轻擦过地板」把失重写成物理：她的身体在梦里不再服从重力。
 **读者视角提示**：注意她「怕踩进光」——光在本书里是暴露与审判（ch12 门廊、ch22 日光房）。
 
@@ -80,7 +80,7 @@ modified: "2026-11-17"
 > **原句 10:** "She's standing on her front porch. The night still holds sway. The trees lean in tall shadows with gusts of wind that have more of a bite than any of the past weeks. And she is cold. So cold."
 
 **中文理解**：她站在自家门廊上。夜仍掌着权。树在风中斜成高高的影子，阵风里带着更多呼吸——比风更像呼吸。
-**关键词**：front porch / night still holds sway
+**关键词**：night still holds sway / have
 **为什么这样写**：她醒来在门廊——**梦游的物证**：她的身体真的走出了房子（ch35 她在院子里疑心有人，此处她自己就是那个「有人」）。
 **读者视角提示**：门廊是全书所有威胁的入口（Eeling 上门、猫头鹰、此刻的梦游）。
 
@@ -101,7 +101,7 @@ modified: "2026-11-17"
 > **原句 13:** "But it wasn't. At least mentally it hadn't been. She's never sleepwalked before, if that's what this was, and the quality of the dream had been so hyperreal it makes her shiver all over again. Combined with the fact she somehow climbed out of bed and made it down the hallway and out to the front porch is frightening on a whole new level. She feels puppetlike, strings pulled by unseen hands."
 
 **中文理解**：睡觉前她在这里待了好一会儿，想弄清自己是否真的看见了什么——在猫头鹰树旁。她确信那是个影子，或者一个人。
-**关键词**：down the hall / front porch / sleepwalked / hyperreal
+**关键词**：sleepwalked / hyperreal
 **为什么这样写**：她睡前刚在门廊确认过「树旁是否真的有人」——梦把未决的问题重演了一遍：梦是她白天调查的延续。
 **读者视角提示**：梦重复了 ch35 的疑心：她醒着调查，梦里继续。
 
