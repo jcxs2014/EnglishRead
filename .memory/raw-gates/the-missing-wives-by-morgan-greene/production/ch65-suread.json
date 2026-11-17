@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch65",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch65_epilogue.txt",
+ "facts": [
+  {
+   "fact": "开庭日期定了；他不认 Leonard 身份——he said/she said。",
+   "anchor": "They’ve set a date for Whitaker’s trial.",
+   "start": 599,
+   "end": 639
+  },
+  {
+   "fact": "辩方策略：判断受损牌——脑损伤史、记忆回溯问题、本案头部外伤。",
+   "anchor": "go down the route of impaired judgment, draw attention to a history of brain injury",
+   "start": 1598,
+   "end": 1681
+  },
+  {
+   "fact": "Grant 之死被定为 righteous kill（正当击毙）——Alex 恢复现场勤务。",
+   "anchor": "Grant Walker’s death was ruled a righteous kill.",
+   "start": 2657,
+   "end": 2705
+  },
+  {
+   "fact": "讽刺：是 Leonard/Adam 的证词（行为模式）推翻了 Laura 的——他保住了她的工作。",
+   "anchor": "it was Leonard Whitaker’s testimony that overruled hers. Or at least Adam Keller’s.",
+   "start": 3159,
+   "end": 3242
+  },
+  {
+   "fact": "Whitaker 要求见她——Tom 转告。",
+   "anchor": "He’s been asking about you, supposedly,",
+   "start": 1916,
+   "end": 1955
+  },
+  {
+   "fact": "「要求见你。」",
+   "anchor": "Asking to see you.",
+   "start": 1983,
+   "end": 2001
+  },
+  {
+   "fact": "Tom 原话：我叫他滚。",
+   "anchor": "I told him he could go fuck himself.",
+   "start": 2031,
+   "end": 2067
+  },
+  {
+   "fact": "Lacey 短信约喝——「我得换我他妈的电话号码了」。",
+   "anchor": "Want to grab a drink and catch up?",
+   "start": 4471,
+   "end": 4505
+  }
+ ]
+}
