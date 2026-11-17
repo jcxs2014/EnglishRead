@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "草坪上不是安慰而是训话——Grant 冲 Brian 压低音量地呵斥、手势挑衅。",
+   "anchor": "Grant Walker pulled up short of Brian and immediately started berating him",
+   "start": 730,
+   "end": 804
+  },
+  {
+   "fact": "Alex 派 Lacey 偷听；「不合法」？——我现在不在乎 admissibility，April 命悬一线。",
+   "anchor": "I don’t give a fuck about admissibility right now",
+   "start": 2028,
+   "end": 2077
+  },
+  {
+   "fact": "Alex 冲掉 Dawes 血边的半瓶啤酒——血腥味混合啤酒味的鸡尾酒令人作呕。",
+   "anchor": "She swept it up in her hand and took it to the sink, dumping it in",
+   "start": 4083,
+   "end": 4149
+  },
+  {
+   "fact": "Kevin：DREC + 至少三家 LLC——漏斗式转钱、报规划、海外资金全经 DREC。",
+   "anchor": "under the Dunning Real Estate Company, and at least three other LLCs that I found tied to them",
+   "start": 5888,
+   "end": 5982
+  },
+  {
+   "fact": "合法输送三件套：慈善捐款、信托存款、高价买房产——钱进「能影响计划的人」口袋。",
+   "anchor": "Donations to charities, deposits into trusts, purchases of properties for way over asking price…",
+   "start": 6410,
+   "end": 6506
+  },
+  {
+   "fact": "全县收地：同一水表、破产农场论分币收购、全沿新高速的一条 acreage 带。",
+   "anchor": "buying over-leveraged farms for pennies on the dollar, all in a single band of acreage that has clear access from that shiny new highway",
+   "start": 6937,
+   "end": 7073
+  },
+  {
+   "fact": "被撤销的民事诉讼：农民控告 DREC 故意改河制造旱灾——杀生计、逼债、后端收购土地。",
+   "anchor": "had conspired to intentionally cause the drought by diverting that river",
+   "start": 7361,
+   "end": 7433
+  },
+  {
+   "fact": "章末揭底：起诉的那些农民——",
+   "anchor": "the guys who filed that suit…",
+   "start": 8995,
+   "end": 9024
+  },
+  {
+   "fact": "全死了。",
+   "anchor": "They’re all dead.",
+   "start": 9044,
+   "end": 9061
+  }
+ ]
+}
