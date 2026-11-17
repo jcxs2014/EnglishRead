@@ -27,7 +27,7 @@ modified: "2026-11-17"
 
 > **原句 3:** “We’ll see each other again, Alex,” he said, his words fading as he drifted away. … “Yeah,” Alex whispered to herself. “In court."
 **中文理解**：「我们还会再见的，Alex，」他说——声音随着担架远去而淡掉。「我确定。」……「是啊，」Alex 对自己低语。「法庭上。」
-**关键词**：We’ll see each other again / drifting away / In court
+**关键词**：We’ll see each other again / drifted away / In court
 **为什么这样写**：凶手留下的告别是一张开庭传票——Alex 的回答把浪漫化的重逢拽回程序；作者让这两个字（In court）成为她对他全部哲学（审判、平衡、命运）的世俗回应：审判有地址，但不归你管。
 **读者视角提示**：记住这组对话——它是凶手与警探的最后一次校准：他的法庭没有墙，她的法庭有。这个区别就是本书的终局判决。
 
@@ -61,9 +61,9 @@ modified: "2026-11-17"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| gapped | 有豁口的、缺齿的 | his gapped, disgusting grin as good as a bullet |
 | hissed | 嘶声说 | “He was innocent,” Laura Walker hissed. |
-| dread/dreading | 惧怕、不祥预感 | knowing who it was from, and dreading what it would say. |
+| slap | 一记耳光 | A dull and painful slap that Alex barely registered |
+| muttered | 嘟囔着说 | “It seems like you decided,” he muttered |
 
 ## 一句话总结
 束缚带锁住了他，掌掴打在她脸上——「他是无辜的」四个字与「还不够，差得远」八个字，把胜利的余波算成两本对不上的账。
