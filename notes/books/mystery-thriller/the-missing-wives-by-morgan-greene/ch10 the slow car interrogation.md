@@ -33,7 +33,7 @@ modified: "2026-11-17"
 
 > **原句 4:** "April rose slowly, looking around as though for some sort of exit, and then walked numbly around the island toward Alex, the men putting their hands on her shoulders one by one to reassure her as though she were being marched off to the gallows. … She paused at her husband, who pulled her into an embrace, kissed her, and then whispered something in her ear that elicited a nod."
 **中文理解**：April 缓缓起身，四处张望像在找某种出口，然后麻木地绕过中岛走向 Alex——男人们一个接一个把手放上她的肩安抚她，仿佛她正被押上绞刑架。……她在丈夫面前停了一下，他把她搂进怀里、吻了她，然后在她耳边说了句什么，换来她一个点头。
-**关键词**：looking around for some sort of exit / marched off to the gallows / whispered something in her ear
+**关键词**：looking around as though for some sort of exit / marched off to the gallows / whispered something in her ear
 **为什么这样写**：gallows 的比喻把「保护性带走」写成了行刑——保护者与押送者在同一组画面里合体，这是 April 视角的第一次透出；耳语+点头是全章埋得最深的一粒沙：内容未知、方向未知，Alex 当场只能记成「也许是别开口」。
 **读者视角提示**：盯住这段耳语：它是 April 之后所有不配合的第一候选解释。是安抚、是串供、还是别的——本书会把这半秒还给你。
 
