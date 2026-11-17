@@ -52,7 +52,7 @@ modified: "2026-11-17"
 > **原句 6:** "Spend a few days getting to know the painting. Go to the Accademia every day for a week; circle the painting but don’t get too close, initially at least – view it from a distance at first … It’s a complete picture, if you know what I mean; mysterious, I grant you, beguiling, completely beguiling, I grant you, and then after your days of circling, go up very close and look intensely until your eyes burn and your mouth waters and your ears ring with the genius of art!"
 
 **中文理解**： Giorgione《暴风雨》的朝圣仪轨：花几天熟悉它；一周七天去学院美术馆，绕画环行、先远后近；「它是一幅完整的画——神秘，我承认，迷人，完全迷人——绕够之后，凑到极近处凝视，直到眼睛发烫、口中生津、耳中响起艺术的天才之声！」
-**关键词**：Go to the Accademia every day for a week、circle the painting、view it from a distance at first、beguiling, completely beguiling、your ears ring with the genius of art
+**关键词**：the Accademia every day for a week、circle the painting、view it from a distance at first、beguiling, completely beguiling、your ears ring with the genius of art
 **为什么这样写**：看画被写成宗教朝圣（日课、绕行、渐进靠近）；三感并发的结尾（eyes burn/mouth waters/ears ring）把凝视推成通灵——这套仪式与他讨厌的「talking aids」互为镜像：他不要机器讲解，要肉身苦修。
 **读者视角提示**：记住这套「绕行—逼近」仪轨——叙述者十年前真的带着 Marianne 做过。教授的狂热在这里最动人，也最孤独：一个只有自己参加的教派。
 
@@ -110,7 +110,7 @@ modified: "2026-11-17"
 > **原句 13:** "I have more time for those who risk more by making things – whether it’s a poem, a painting, a song, a sculpture, a concerto. I have more time for those who get their hands dirty by creating and by failing – for every artist has to fail, is bound to fail as the price of progressing. I respect those who put their work up there to be judged, even if it is found to be wanting"
 
 **中文理解**：叙述者的信条：「我更敬重那些动手造东西的人——诗、画、歌、雕塑、协奏曲；那些把双手弄脏、在创造中失败的人——每个艺术家都必须失败，失败是进步的代价。我尊敬那些把作品摆出来任人评判的人，哪怕被评得一文不值。」
-**关键词**：those who risk more by making things、get their hands dirty by creating and by failing、every artist has to fail、the price of progressing、to be judged
+**关键词**：those who risk more by making things、get their hands dirty、creating and by failing、every artist has to fail、the price of progressing、to be judged
 **为什么这样写**：以「失败权」反制「阐释权」——三次「I have more time for those who」排比立誓；「hands dirty」与教授的烛下军团对位：一个在画室，一个在书房。这段是全书的作者宣言，借一场争吵说出。
 **读者视角提示**：与 ch08 的「fitted you into the series」、ch05 的「published as a joke」串读——叙述者一路都在为「敢于失败」作证。记住这句：总览层的价值观锚点。
 
