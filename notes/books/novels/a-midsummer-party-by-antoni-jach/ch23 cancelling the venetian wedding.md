@@ -33,10 +33,10 @@ modified: "2026-11-17"
 > **原句 2:** "Some of my best times were when I was at university and sharing a house in Carlton with Gloria and Miranda. I was free, the world was wide and wonderful – I had escaped the farm; it was like I was in a rocket and had escaped the Earth's gravity, such was my unbelievable feeling of freedom and possibility.
 >
 >
-> And you had a role to play in my expansion of self, whether or not you knew it at the time, for you were the first man I had gone out with who would listen to me rather than talk at me – you let me be whoever I wanted to be"
+> And you had a role to play in my expansion of self, whether or not you knew it at the time, for you were the first man I had gone out with who would listen to me rather than talk at me – let me be whoever I wanted to be"
 
 **中文理解**：Carlton 岁月的火箭论：「我最好的时光是大学时与 Gloria、Miranda 合租 Carlton 的日子。我自由了，世界又宽又美——我逃出了农场；像坐上火箭脱离了地球引力，那种自由与可能的感受难以置信。而你在我的自我膨胀里也有一角——无论你当时知不知道：你是第一个肯听我说话、而不是对我说话的男人——你让我成为我想成为的任何人。」
-**关键词**：sharing a house in Carlton、I had escaped the farm、like I was in a rocket、escaped the Earth's gravity、who would listen to me、rather than talk at me、you let me be whoever I wanted to be
+**关键词**：sharing a house in Carlton、I had escaped the farm、like I was in a rocket、escaped the Earth's gravity、who would listen to me、rather than talk at me、let me be whoever I wanted to be
 **为什么这样写**：乡愁以物理学书写（火箭/引力/逃逸速度）——Carlton 是她的第二个发射场；「listen rather than talk at」是他对她全部魅力的由来，也是一份二十年才说出口的感谢；「expansion of self」让爱情退居助攻位。
 **读者视角提示**：与 ch19 的 Giselle 保姆记忆（Riley）押韵：两个女人的解放都由「肯听的人」启动。记住农场——Wimmera 的逃亡史至此完整。
 
