@@ -44,7 +44,7 @@ modified: "2026-11-17"
 > **原句 4:** "I liked your father, she said, and I enjoyed staying at your family farm in Panton Hill. I especially liked it when we would sit, on a hot summer's day, on the roof of one of the sheds and watch a cold front sweeping in from the bay – the cold air rapidly pushing the hot air higher, creating thunder and lightning. There was a sense on the farm of the abundance of Nature and the power of Nature that is not so apparent when you live in the city … Can we go visit the farm one day?"
 
 **中文理解**：她的农场记忆：「我喜欢你父亲，也喜欢住在 Panton Hill 农场的日子。尤其夏天坐在棚顶看冷锋从海湾扫来——冷空气把热空气迅速抬高，雷鸣电闪。农场有一种自然的丰饶与威力，城里人看不见。……哪天我们能回去看看农场吗？」
-**关键词**：I liked your father、on the roof of one of the sheds、watch a cold front sweeping in from the bay、the abundance of Nature、the power of Nature、Can we go visit the farm one day?
+**关键词**：I liked your father、on the roof of one of the sheds、a cold front sweeping in from the bay、the abundance of Nature、the power of Nature、Can we go visit the farm one day?
 **为什么这样写**：恋旧以气象学成像——棚顶看锋面是两人的共同暗号（power 与 abundance 都在云里）；「Can we go visit」的请求紧跟在叙述的深情之后——下一秒就被「农场已卖」截停。
 **读者视角提示**：与 ch24 的「blessing and curse」太阳并读：同一片 Wimmera 天空下，父亲的账与恋人的诗各记一份。记住「已卖掉的农场」——旧地重游的替代品只剩 Panton Hill Hotel 的一顿饭。
 
