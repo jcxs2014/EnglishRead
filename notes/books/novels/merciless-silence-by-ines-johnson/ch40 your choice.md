@@ -61,9 +61,9 @@ modified: "2026-11-17"
 **为什么这样写**：同样的工作在两个母亲手里是两种性质：一个要成品，一个要合作者；empowered 一词是全章的关键词——差别不在任务，在授权。fetch 这个动词把她的童年底色一次说清：她是狗，不是参谋。
 **读者视角提示**：这套「授权式使用」就是她此生最缺的东西——注意她后来的忠诚全都给了给过她这个的人。
 
-> **原句 9:** "A sharp prickle dragged down my spine. I wondered if Mei Ling knew I had snuck into her office in the middle of the night, if she’d smelled my wolf form on her rosewood desk, or if she’d noticed her social diary shifted by a fraction of a millimeter." … ""You trust I won't use that information against you?" I asked." … ""I trust you to do what any woman would do," Mei Ling said, stepping closer until the scent of jasmine enveloped us. "And that is in the best interest of you.""
+> **原句 9:** "A sharp prickle dragged down my spine. I wondered if Mei Ling knew I had snuck into her office in the middle of the night, if she’d smelled my wolf form on her rosewood desk, or if she’d noticed her social diary shifted by a fraction of a millimeter." … ""You trust I won't use that information against you?" I asked." … "I trust you to do what any woman would do," Mei Ling said, stepping closer until the scent of jasmine enveloped us. "And that is whatever is in the best interest of you and your family.""
 **中文理解**：一阵尖锐的刺感沿脊椎拖下：她怀疑 Mei Ling 是否知道她半夜溜进过办公室、是否在红木书桌上闻到过她狼形的气味、或者是否注意到社交日记被挪动了零点几毫米。——「你信我不会拿那些情报对付你？」她问。——「我信你会做任何女人都会做的事，」Mei Ling 走近，茉莉香把我们裹住，「那就是对你和你的家人最有利的事。」
-**关键词**：snuck into her office / a fraction of a millimeter / You trust I won't use that information / in the best interest of you
+**关键词**：snuck into her office / a fraction of a millimeter / do what any woman would do
 **为什么这样写**：毫米的偏差是她罪证的量级——她的谨慎与 Mei Ling 的洞察在此对撞；而 Mei Ling 的回答不是赦免也不是威胁，是把判断权交回去：我信你会算清楚自己的利益。这份「信任」比任何监控都更难对付，因为它假设她有良心。
 **读者视角提示**：注意这个回答的锋利之处：她既不否认知道，也不追究，而是把「家人」的定义权递给她——下一句就撞上了这个问题。
 
