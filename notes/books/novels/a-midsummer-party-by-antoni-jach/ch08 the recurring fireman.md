@@ -20,7 +20,7 @@ modified: "2026-11-17"
 > Why does everything go wrong for me? I’m lonely in the midst of a crowd"
 
 **中文理解**：Smyg 控诉：她在主卧撞见挚友 Kitty B 与那个意大利小鲜肉纠缠——「显然在办事，恶心」——还被支开「待会儿见」。「为什么倒霉的总是我？我在人群当中孤独。」
-**关键词**：entangled、doing sexing、girl-crush、Why does everything go wrong for me、lonely in the midst of a crowd
+**关键词**：entangled、doing sexing、she told me to go away、Why does everything go wrong for me、lonely in the midst of a crowd
 **为什么这样写**：先给一场捉奸式的滑稽戏，再急转成孤独宣言——「in the midst of a crowd」把派对写成荒岛；「doing sexing」的儿语化让背叛显得既可笑又幼稚，她的愤怒因此可以立刻兑现成「要听故事」的撒娇。
 **读者视角提示**：与 ch03 的「She's the only one who tolerates me」对读：容忍是双向债务，Kitty B 先违约。记住这份孤独——它是她后面把消防员故事讲得如此用力的燃料。
 
