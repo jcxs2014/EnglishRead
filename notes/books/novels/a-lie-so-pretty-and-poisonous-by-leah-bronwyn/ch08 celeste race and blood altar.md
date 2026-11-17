@@ -69,7 +69,7 @@ Pausing with her hand on the golden doorknob, she turned back to me with a force
 
 “I was trying to protect you,” I said gently. “Save you. Only the gods could take me from you. Never willingly. I won’t leave.”"
 **中文理解**：她向女儿保证绝不离开，问她怎么会这么想——Cora 翻出旧账：你那次想让 Alec 单独带我走，后来又说让 dryad 带走你，把我一个人留在林子里，声音小得像蚊子；她温柔解释那是想保护你、救你，「只有神能把我从你身边带走，我绝不主动离开」。
-**关键词**：promise to never leave / promise to never leave / Why would you think
+**关键词**：promise to never leave / sweet girl / Why would you think
 **为什么这样写**：孩子的记仇账本上记的全是「被留下的瞬间」——保护与遗弃在她眼里是同一动作的两面；母亲的誓词加了个法律漏洞（Only the gods…），恋爱脑誓约的句式被挪用到母女之间，神圣与心碎共用一套语法。
 **读者视角提示**：记住 Cora 的这一课：大人的「为你好」在她那里全部折算成「被丢下几秒」。往后每次 Aurora 做牺牲决定，都要先还这笔心理债。
 

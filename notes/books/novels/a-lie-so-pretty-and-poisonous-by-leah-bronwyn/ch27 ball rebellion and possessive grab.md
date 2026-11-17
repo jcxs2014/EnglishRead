@@ -17,7 +17,7 @@ modified: "2026-11-16"
 **中文理解**：爆炸次日清晨，伤亡清点传遍城堡——21 名士兵与 9 名平民丧生，几乎全是 angheal；猜测与流言打转，成了每位贵族津津乐道的狂欢素材。
 **关键词**：Twenty-one of Gabriel’s soldiers / nine civilians / frenzy of gossip
 **为什么这样写**：数字先行、态度殿后——伤亡在第一句，八卦在最后一句，贵族的嗜血顺序就是叙述顺序；`Almost all were angheals` 为种族焦虑的爆炸性传播埋线。
-**读者视角提示**：把伤亡数记进战争账本（21+9）——它与 ch15 的「二十个 angheal 幼崽」互为倒影：这个族群正在两头流血。
+**读者视角提示**：把伤亡数记进战争账本（21+9）——它与 ch11 的「二十个 angheal 幼崽」互为倒影：这个族群正在两头流血。
 
 > **原句 2:** "“Stop hovering over her,” Thrissa said more than once, while I tried to hang onto the edges of consciousness. On his reluctant way out, I noticed his shirt was wet with blood from where I rested against him. I understood why black was his favored color."
 **中文理解**：医师 Thrissa 一遍遍赶人：别再守着她了——她抱着意识边缘时才看清：Darragh 不情愿地退出病房，衬衫被她靠出的血浸湿了一片。她忽然懂了他为什么偏爱黑色。
@@ -43,7 +43,7 @@ I immediately stepped in front of Cora, shielding her from him, and glared. I di
 
 “Of course. I just need you to know what you do to me,” he cooed into my ear. “You feel the same, don't you? I heard you in the bathtub yesterday. I could smell your arousal," he hummed."
 **中文理解**：舞池耳语步步紧逼：今晚的你让我疯狂——不停想象那些曲线卸下水晶与缎面的样子。他贴着耳膜轻哼：只想让你知道你把我撩成什么样。你也一样对吧？昨天在浴室我听见你了，还闻到了你的情动。
-**关键词**：driving me wild / swathed in crystals and satin / You're driving me wild tonight
+**关键词**：driving me wild / swathed in crystals and satin / keep picturing
 **为什么这样写**：偷窥被包装成恭维——「听见+闻到」是双重越界（听觉与嗅觉的私闯），而语气是 cooed（咕哝着讨好）；她的身体在毫不知情时已被采样、存档、备案。
 **读者视角提示**：这是全书最冷的恐怖桥段之一——浪漫话术里藏着监控设备。对照 Darragh 的「Are you sure this is alright」，两种「 desire」的伦理差至此完全显影。
 
@@ -63,7 +63,7 @@ I immediately stepped in front of Cora, shielding her from him, and glared. I di
 **中文理解**：角落里 Darragh 主动认错：擂台那天的事对不起——本该坚持原则、不把你放进那种 compromising 的姿势里。她不接：你又一次救了我——Gabriel 那一下爆发的火能把我们俩都烧死。
 **关键词**：I am sorry for what happened / compromising position / firm in my conviction
 **为什么这样写**：道歉与反驳各执一半真相——他记自己的「允许」责任，她记他的「掩护」功劳；`compromising position` 的措辞谨慎得像在防偷听，舞会角落的对话自带窃听焦虑。
-**读者视角提示**：这是 Darragh 的第二次正式道歉（第一次在 ch19）——他的愧疚对象是「差点害你」。对照 Gabriel 从不为火道歉，道歉能力就是阵营分界线。
+**读者视角提示**：这是 Darragh 的第二次正式道歉（第一次在 ch17）——他的愧疚对象是「差点害你」。对照 Gabriel 从不为火道歉，道歉能力就是阵营分界线。
 
 > **原句 8:** "“A book in Gabriel's office. ‘MEAD' was written on the spine. Gabriel said he took it off one of the militia members he brought in from the west valley.”
 
@@ -81,7 +81,7 @@ I lifted my chin. “Good thing I'm an adult who gets to make my own decisions, 
 **中文理解**：她邀舞，他扫视全场：Gabriel 若看见——他非把城堡烧了不可；他盯上的东西就成了领地……或人。她抬起下巴：好在我是个能自己做决定的成年人，我不是待征服的领地。
 **关键词**：burn the castle down / territorial / his sights set on something
 **为什么这样写**：文字游戏接住权力游戏——territorial 与 territory 的双关把「人=领地」的逻辑推到明面上拒绝；她的「成年+自主权」是全书女性宣言的简洁版。
-**读者视角提示**：对照 ch25 的「蜜嘴」——上一章她把嘴粘死，这一章她当众邀舞。顺从与反抗的切换条件=「谁在场、谁值得」。Darragh 值得。
+**读者视角提示**：对照 ch25 的「蜜嘴」——前两章她把嘴粘死，这一章她当众邀舞。顺从与反抗的切换条件=「谁在场、谁值得」。Darragh 值得。
 
 > **原句 10:** "“We don't have to if you're worried,” I said earnestly. I started to pull my hand from his, but he held it tighter.
 

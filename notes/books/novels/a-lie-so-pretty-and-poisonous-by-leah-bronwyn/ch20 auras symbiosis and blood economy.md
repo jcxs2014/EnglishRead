@@ -61,7 +61,7 @@ modified: "2026-11-16"
 **中文理解**：松鼠母子窜上树杈的瞬间她顿住—— babies。「angheal 们的。」她接着问：有没有可能，他们生不出孩子，是因为不再敬奉生命女神？
 **关键词**：Babies / goddess of life / honoring
 **为什么这样写**：灵感由动物触发——全书规律（自然先于人知道答案）再次生效；她的推理用的是「神力=崇拜」公式反推不育病因，外邦人的异端视角第一次切中本地禁忌。
-**读者视角提示**：对照 ch15 的「二十个幼崽」与 ch02 的歉收——两个世界都在「断供」一位神，也都在承受断供的账单。她的理论若成立，王权等于在亲手绝育自己的人民。
+**读者视角提示**：对照 ch11 的「二十个幼崽」与 ch02 的歉收——两个世界都在「断供」一位神，也都在承受断供的账单。她的理论若成立，王权等于在亲手绝育自己的人民。
 
 > **原句 8:** "“Blood,” I whispered. "Themis requires blood and atonement. Seraphs are sent to the atoner to be punished for wrongdoing, which would be considered justice served. It feeds the power of the God of Justice."
 **中文理解**：她压低声音拼出最后一环：血。Themis 要血与赎罪——seraph 被送去 atoner 接受「恶行的惩罚」，这就算正义得到伸张，而这正好喂养正义之神的权能。

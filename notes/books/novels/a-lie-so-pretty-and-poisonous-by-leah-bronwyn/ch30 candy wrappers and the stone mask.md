@@ -59,7 +59,7 @@ modified: "2026-11-16"
 **中文理解**：Anya 的裁决两层：永远做对你和 Cora 最优的事——但这不必然要求你彻底关掉对他的 pull；也许是空、也许不是。我的建议是顺着直觉走，包不包括 Darragh 由你选路。最后一句压上自证：相信我，心的事上我懂什么叫风险。
 **关键词**：this pull you have to him / lean into instinct / I understand risk
 **为什么这样写**：顾问的意见带「风险自认」——她用自己与 Osman 的禁恋作保，建议于是有了出处与代价；`Maybe it can be nothing. Maybe it can be something.` 的对仗把选择权完整交还。
-**读者视角提示**：对照 ch16 的「lean into instinct」（Darragh 递刀时）——同一句话出自两个人，训练场与情场共用一条军规。这条「直觉」是本书给她的第二套魔法。
+**读者视角提示**：对照 ch19 的「lean into instinct」（Darragh 递刀时）——同一句话出自两个人，训练场与情场共用一条军规。这条「直觉」是本书给她的第二套魔法。
 
 > **原句 9:** "I refused to let him walk away from me. He was distancing himself, hiding behind his own stone mask so that he couldn't be hurt like he was so used to. I only had to break through it. Like he did mine."
 **中文理解**：她不许他就这样走掉——他在疏远、躲进自己的石面具后面，像他一贯的那样免于受伤。她要做的只是凿开它。就像他凿开她的一样。

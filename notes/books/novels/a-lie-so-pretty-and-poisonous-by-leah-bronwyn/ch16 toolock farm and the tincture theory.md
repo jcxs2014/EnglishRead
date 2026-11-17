@@ -29,7 +29,7 @@ I tilted my head and stared at him. “That would mean this seraph is…”
 
 “One hundred and thirty-six years old,” he stated."
 **中文理解**：Darragh 介绍：接头的会是庄园第五代铁匠 Lyrik——他说有位上了年纪、知道 Psilas 的老人可谈。她好奇隔了几代，答「生于 Psilas 死后不久」——她愣住追问，报出年龄：一百三十六岁。
-**关键词**：fifth-generation blacksmith / been around for a long time / fifth-generation
+**关键词**：fifth-generation blacksmith / been around for a long time / knows of Psilas
 **为什么这样写**：年龄用四句问答盘出来——悬念的坡道搭得像报数；`stated` 的公事口吻让超长寿命被说成常识，奇幻世界的「老」与人类的「老」在此完成汇率兑换。
 **读者视角提示**：把 seraph 的年龄刻度记住（150 上限、136=亲历者边缘）——两百年前的 Psilas 对 seraph 只是「祖辈的事」，对人类却是古代史，时间感的不对等会持续影响双方的叙事权重。
 

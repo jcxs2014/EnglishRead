@@ -17,7 +17,7 @@ modified: "2026-11-16"
 **中文理解**：晚宴桌旁，Cora 已经在压抑自己的情绪与需求去迎合别人——她拼命保证过女儿永远不必这样，却败得一塌糊涂。Cora 经历的已经够多，她不能再让她承受任何暴力。
 **关键词**：stifle her own emotions / failed miserably / any more violence
 **为什么这样写**：母职账本记下赤字——「ensure never」与「failed miserably」的对照把完美主义母亲的自我审判写透；violence 一词把晚宴的礼貌氛围定性为软性暴力。
-**读者视角提示**：对照 Cora 在 ch27 的强制观礼——「stifle」已成为这个十岁孩子在 seraph 世界的日常动作。母亲的失败感是全书母职线的第二根支柱（第一是自责）。
+**读者视角提示**：对照 Cora 在 ch31 的强制观礼——「stifle」已成为这个十岁孩子在 seraph 世界的日常动作。母亲的失败感是全书母职线的第二根支柱（第一是自责）。
 
 > **原句 2:** "“Voralia, did you hear the latest gossip about Henrick being seen courting Isla. Apparently, they are trying to hide it so that Isla's father doesn't find out, but Nysin saw them in the rose gardens getting a little too cozy.”"
 **中文理解**：Voralia 的问话刚布好坑，Anya 一句插话把火力引走：听说 Henrick 在追 Isla、瞒着人家父亲——Nysin 亲眼看见他俩在玫瑰园里搂得有点过了。
@@ -69,9 +69,9 @@ modified: "2026-11-16"
 
 Gabriel placed his warm palm on mine, and his white light glowed, healing my palm. Only incessant fear remained. “There you go.” He kissed my hand, and I stifled a shudder. “Be more careful, my darling.”"
 **中文理解**：仪式被突然折返的 Gabriel 打断——王后秒收刀、谎称她被碎玻璃割伤正要施治；Gabriel 掌心覆上、白光愈合了刀口，吻手叮嘱：小心些，亲爱的。刀口好了，只剩持续的恐惧。
-**关键词**：cut her palm on some broken glass / broken glass / Aurora cut her palm, I was about to heal it
+**关键词**：Aurora cut her palm on some broken glass / I was about to heal it
 **为什么这样写**：中断场景的三层 irony——他用治愈术抹掉她刚签下的「血的条款」，亲手的温柔与背后的威胁共用一只手；`incessant fear` 是本章的真正余音。
-**读者视角提示**：对照 Gabriel 的白光三次出场（ch09/22/32）——每一次治愈都伴随一次更大的伤害源。他的魔法救她于皮肉，救不了她于契约。
+**读者视角提示**：对照 Gabriel 的白光三次出场（ch05/09/32）——每一次治愈都伴随一次更大的伤害源。他的魔法救她于皮肉，救不了她于契约。
 
 > **原句 10:** "By the time I got to my rooms, I had calculated and formulated everything that was in the best interest of Cora and me, and it involved leaving as soon as I got my hands on that book in Gabriel's office. Now more than ever, I was convinced that it held the key to getting back through the barrier. I had to go tonight, or tomorrow, I faced having to bind myself to the Queen of Seraphs."
 **中文理解**：回到房间时她已把母女的最优解全部算清——拿到 Gabriel 书房那本书就走。如今她比任何时候都确信：书就是穿回屏障的钥匙。今夜必须动手，否则明天，她就要被绑给 seraph 女王。

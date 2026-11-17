@@ -63,7 +63,7 @@ Militia. They bombed the tavern. Rory, I need to go help check for survivors."
 
 Gabriel wants to believe in things that only align with his preconceived beliefs and thoughts. Everything else is labeled hysterics and blasphemy."
 **中文理解**：她问他信不信——我为什么不信你？随即补刀：Gabriel 只信符合他既有信念的东西，其余一律贴上歇斯底里与渎神的标签。
-**关键词**：Why wouldn’t I believe you / preconceived beliefs / believe
+**关键词**：Why wouldn’t I believe you / preconceived beliefs
 **为什么这样写**：信任被定义成「免检」——他不需要证据就采信她，与 Gabriel 的「标签流」构成取证制度的两极；`preconceived beliefs` 一词把偏见写成操作系统。
 **读者视角提示**：把这句「Why wouldn't I」记成同盟的奠基文件——对照 ch09 Gabriel 的测谎审讯：一个用问句验证她，一个用身份预先不信她。
 

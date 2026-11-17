@@ -29,7 +29,7 @@ modified: "2026-11-16"
 **中文理解**：Gabriel 来信道歉失踪多日——剿灭「可恶的民兵篡权者」的行动重回正轨，希望早日回到你身边；我一直想着你，迫不及待再看你那双美丽的蓝眼睛，若你愿意也许再偷一个吻。
 **关键词**：horrid militia usurpers / steal another kiss / if you’re so inclined
 **为什么这样写**：情书句式把占有欲写成邀请——`if you're so inclined` 的客气假动作掩护默认的答案；「蓝眼睛」的细节错误（她的眼睛是 hazel）让甜腻露馅。
-**读者视角提示**：对照 Darragh 的第一次准确称呼她的眼睛（ch19 栗色对 hazel 的镜像）——谁真的在看她，眼睛颜色不会说谎。这封信的字句后面都是审判材料。
+**读者视角提示**：对照原文的眼色事实（她的 hazel 见 ch03，Gabriel 信里却写成 blue——blue 是他自己的眼色）——谁真的在看她，眼睛颜色不会说谎。这封信的字句后面都是审判材料。
 
 > **原句 4:** "Gabriel isn't used to a woman who doesn't fawn all over him to gain his favor. Before you came to the castle, ladies practically threw themselves at him, the kingdom's most eligible bachelor. Once you came here, he made it clear that they needed to stop immediately, and if they didn't, he would send them to the atoner."
 **中文理解**：Anya 交底：Gabriel 不习惯女人不巴结他——你来之前，小姐们恨不得扑向他这个王国第一黄金单身汉；你来了之后他明令她们立刻收手，不然送 atoner。
@@ -51,7 +51,7 @@ modified: "2026-11-16"
 **中文理解**：Darragh 被骂 crossling 后眼神转暗、向老学者逼近——她把自己隔在中间、一掌抵住他的胸口拦下，哪怕 Acrion 活该。她冷声开条件：我乐意答所有问题，但护卫必须留在房里；再补一句王命杀招：王兄命令他寸步不离——你要向殿下解释为什么阻拦他的卫队长执行公务吗？
 **关键词**：a hand on Darragh’s broad chest / stop him from hurting the scholar / took a step toward the ancient seraph
 **为什么这样写**：武力（他）与法理（她）双轨护人——她的武器是官阶链（king's brother→commander→captain），一句话把学者的傲慢焊死在等级制里；`placing a hand on Darragh's broad chest` 的物理触点，是浪漫线与权力线的同框。
-**读者视角提示**：这是 Aurora 第一次「用敌人的规则赢敌人」——贵族游戏她从小玩到大。对照 ch03 她被 Acrion 甩门羞辱时的隐忍，此处已能反杀。
+**读者视角提示**：这是 Aurora 第一次「用敌人的规则赢敌人」——贵族游戏她从小玩到大。对照 ch13 Acrion 甩门拒 Darragh 于门外时的敌意，此处已能反杀。
 
 > **原句 7:** "“Eliza and Fionn Alwine.” At the mention of my parents, my leg started bouncing up and down under the large table. Darragh lightly brushed my arm with his hand, unseen to the scholars."
 **中文理解**：她报出父母全名：Eliza 和 Fionn Alwine——提到双亲的瞬间，她的腿在长桌下不受控地抖；Darragh 的手在学者看不见的角度轻抚她的手臂。

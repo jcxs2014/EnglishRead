@@ -55,7 +55,7 @@ modified: "2026-11-16"
 **中文理解**：她据理力争：Edenalee 的人类也在遭难——歉收、牲畜减少、经济困顿资源匮乏导致出生率下降（不像 angheal 彻底停摆，但新生儿确实更少）；起义四起，人类在不断消失。
 **关键词**：experiencing upheavals / decreasing birth rate / humans are disappearing
 **为什么这样写**：她的论证以并列清单铺陈——两个世界用同一组症状（歉收、少子、失踪、起义）呈现；`Not at a standstill, like angheals` 的括号式比较，把对称性摆到 Gabriel 面前。
-**读者视角提示**：把这份清单与 ch02 的丰收节开场对读——第一章埋的环境账单，在这里成了神学辩论的证据 Exhibit A。
+**读者视角提示**：把这份清单与 ch02 的丰收节开场对读——第二章埋的环境账单，在这里成了神学辩论的证据 Exhibit A。
 
 > **原句 8:** "It would stand to reason that if you only worship Themis, then all other deities would begin to fade. Their power and influence and gifts with it."
 **中文理解**：她的逻辑收口：按理说，如果你们只拜 Themis，其他所有神明都会开始枯萎——连同它们的力量、影响与恩赐一起。

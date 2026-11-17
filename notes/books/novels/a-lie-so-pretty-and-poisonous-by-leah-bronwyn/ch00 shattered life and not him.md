@@ -90,4 +90,4 @@ The color drained from my face, and my eyes widened. Oh, goddess, no. Not him."
 | trembling | 发抖，颤抖 | Cold, grey eyes bore into me as her spoon swirled in the steaming, dark liquid. The clinking of the metal against the delicate teacup made my hands—and nerves—tremble. |
 
 ## 一句话总结
-Micah 蒸发、母亲逼签服从条款、连 Cora 都被仆人抱走测试——Aurora 在 prologue 里签下屈辱的收留协议，而协议的尽头站着她最不愿见的名字：Jairus Grimaldi。
+Micah 蒸发、母亲逼签服从条款、连 Cora 都被仆人抱走测试——Aurora 在 prologue 里被迫接受屈辱的收留条件，而协议的尽头站着她最不愿见的名字：Jairus Grimaldi。

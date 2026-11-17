@@ -45,7 +45,7 @@ Gabriel's mouth hung open. He was in front of me in a flash, both hands grasping
 
 I had no desire to be at the mercy of another noble, and Gabriel had proven that he was much like any other noble, human or seraph. He was powerful, charming, wealthy, and stuck to a rigid status quo. My mother would love him."
 **中文理解**：她给出五个字的空头支票：我会考虑留下。心里分类完毕——她绝不想再受制于任何一个贵族，而 Gabriel 已证明他与人类或 seraph 的贵族毫无二致：有权、迷人、有钱、死守等级——我妈会爱死他。
-**关键词**：I’ll think about staying / staying / My mother would love him
+**关键词**：I’ll think about staying / My mother would love him
 **为什么这样写**：答案与心声双轨并行——口头五个字，账本五行字；`My mother would love him` 是全书最冷的差评：一个男人的全部优点恰好是她的牢笼参数。
 **读者视角提示**：把这句「我妈会爱他」记成 Aurora 的择偶负清单——凡是被母亲欣赏的特质，都是她的危险信号。这比任何甜言蜜语都精确。
 

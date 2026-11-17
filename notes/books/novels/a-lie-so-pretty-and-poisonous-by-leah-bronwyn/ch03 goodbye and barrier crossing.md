@@ -47,7 +47,7 @@ modified: "2026-11-16"
 
 I scoffed. “No. I assume it is filled with nothing more than magic and monsters.”"
 **中文理解**：货车转上一条与屏障平行的破旧小径，Alec 打破沉默问她：有没有想过墙的那一边是什么样子？她嗤笑：没有。我猜那边除了魔法就是怪物。
-**关键词**：parallel to the barrier / parallel to the barrier
+**关键词**：parallel to the barrier / small, worn path / broke the heavy silence
 **为什么这样写**：这句台词是全书最大的反讽装置——她嘴里的「怪物之地」就是接下来三十章的舞台，而真正的怪物（Terren）正在她身后追。傲慢的无知（scoffed）是奇幻故事最爱的钩子。
 **读者视角提示**：把这句话原样存档——等 Aurora 亲眼见到 seraph 社会时，作者大概率会让她逐条对账：哪些是怪物，哪些比 Terren 更像人。
 
@@ -63,7 +63,7 @@ A steady strum of hooves battered the ground, cutting the quiet of the forest.
 
 My heart skipped a beat. “Shit! Terren!”"
 **中文理解**：Alec 只说了两个字：马蹄声。密集的马蹄正在捶打地面、撕开森林的寂静——她心跳漏了一拍：糟了，是 Terren！
-**关键词**：Horses / Horses / turned to me
+**关键词**：Alec turned to me / Horses
 **为什么这样写**：三个最短句各占一段，制造三次心跳式的警报升级——一个词的情报、一段音效、一句脏话；追兵不用露面，声音先行，恐怖的音量是逐格调大的。
 **读者视角提示**：注意追兵规模是「复数马匹」——Terren 带了帮手，这坐实了 ch01 他那句 "I have my men watching" 不是空话。
 
@@ -71,7 +71,7 @@ My heart skipped a beat. “Shit! Terren!”"
 **中文理解**：她对 Alec 喊出弃车方案：我来跳车引开他们；你解开马带上 Cora 骑马逃，把她带到越远越好，然后给 Greta 报信。
 **关键词**：jump and distract them / send word to Greta
 **为什么这样写**：求生的马车瞬间被她改写成诱饵——三句话是一次完整的战术交割（我做什么、你做什么、事后联络谁），母亲的大脑在死亡倒数中依然在编队形。把 Greta 设为最后一站，等于把女儿托付给了整个互助链。
-**读者视角提示**：她的计划从来没打算活着完成——对照 ch00 的跳车心境（"if this was how Clotha saw fit to finish our story" 是此处前文的自我说服），母亲的爱在这章完成了最高报价。
+**读者视角提示**：她的计划从来没打算活着完成——对照本章坠落段的自我说服（"if this was how Clotha saw fit to finish our story" 就在本章原文），母亲的爱在这章完成了最高报价。
 
 > **原句 10:** "The choice was easy to make. Wobbly, I stood to make my jump and looked into the glassy hazel eyes that matched mine so perfectly. “I love you, sweet girl. I promise I will find you.”"
 **中文理解**：选择毫不费力。她双腿发软地站起来准备跳车，最后望进那双与自己一模一样的浅褐眼睛：我爱你，宝贝。我保证会找到你。
@@ -88,7 +88,7 @@ My heart skipped a beat. “Shit! Terren!”"
 > **原句 12:** "A temporary burst of pain quickly blazed through me as the forest and wagon dissolved into a cloudy haze of whites and greys. Squeezing pressure encased my body, and voices roared in my ears, sounding from everywhere and nowhere, speaking in dialects I couldn’t understand."
 **中文理解**：一阵剧痛烧过全身，森林与货车溶解成白灰色的浓雾；挤压感裹住她的身体，无数声音在耳边轰鸣——来自四面八方又来自虚无，说着她听不懂的语言。
 **关键词**：dissolved / Squeezing pressure / dialects
-**为什么这样写**：穿越被写成分娩的反义词——不是被推入世界，而是被世界吞回：挤压、闷响、听不懂的人声是产道音效的倒放。白灰色调与 ch01 那双 cold, grey eyes 遥相呼应，母亲的灰色以宇宙尺度复现。
+**为什么这样写**：穿越被写成分娩的反义词——不是被推入世界，而是被世界吞回：挤压、闷响、听不懂的人声是产道音效的倒放。白灰色调与 ch00 开篇那双 cold, grey eyes 遥相呼应，母亲的灰色以宇宙尺度复现。
 **读者视角提示**：记住这段感官清单（白雾/挤压/杂语）——它是屏障的「签名」，此后任何再次穿越（或有人叙述穿越）都可以用这组指纹核对真伪。
 
 ## 本章词汇

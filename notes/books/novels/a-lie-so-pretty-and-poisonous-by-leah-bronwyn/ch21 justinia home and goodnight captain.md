@@ -57,7 +57,7 @@ Justinia gave me a tight smirk. “I am glad you walked into this realm.”"
 **中文理解**：她把血裙愤怒地扔进燃着的壁炉，看着它连同脆弱一起烧成灰。是 Clotha 回应了林中的呼救，还是别的神力未衰的神明？她不确定。
 **关键词**：burn to ash / vulnerability / power had not waned
 **为什么这样写**：焚衣是受害者叙事的火葬——`with my vulnerability alongside it` 把烧掉的布升格为烧掉的自我定义；对神迹出处的追问保持她的清醒：得救不等于信仰。
-**读者视角提示**：对照 ch01 的粉裙（母亲的颜色）与这条血裙（袭击者的痕迹）——裙子在本书一直是「别人加在她身上的定义」，每一件的处置方式都是态度宣言。
+**读者视角提示**：对照 ch09 的粉裙（母亲的颜色）与这条血裙（袭击者的痕迹）——裙子在本书一直是「别人加在她身上的定义」，每一件的处置方式都是态度宣言。
 
 > **原句 7:** "“Hello, Rory. I'm Amos, Darragh's father.” He pushed in my chair as I sat.
 
@@ -81,7 +81,7 @@ He leaned down closer to my ear. “You're a good mother.” I couldn't stifle t
 
 His warm eyes searched mine. “Of course, my lady.”"
 **中文理解**：入城庭院满是目光，她耳语「该 Plan B 了」，随即高声演出：谢谢队长扶我起来——那匹母马太容易受惊！希望您能找到它。他温热的眼睛与她对视，配合接词：当然，夫人。
-**关键词**：plan B / blurted out / mare spooks so easily, find her
+**关键词**：plan B / blurted out / mare spooks so easily
 **为什么这样写**：谎言以「音量」执行——演给围观者看的戏码需要两个演员的默契；`warm eyes searched mine` 在假戏里真传情，夫妻店式的对词完成共犯关系的公开首演。
 **读者视角提示**：对照 ch18 的「仆人通道」——这次他们正面穿过人群：从躲藏到演出，两人在「如何对世界撒谎」上完成了技能互补。
 

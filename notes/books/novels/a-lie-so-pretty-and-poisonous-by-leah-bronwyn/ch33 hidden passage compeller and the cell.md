@@ -46,7 +46,7 @@ modified: "2026-11-16"
 I covered my mouth and almost gasped at the revelation. My father could still be alive. Maybe Micah was as well."
 **中文理解**：暗道里第二人问：elixir 的库存还剩多少——我的侦察兵在 Edenalee 与这里之间来回跑、快见底了。她捂嘴险些惊呼：父亲可能还活着！Micah 可能也是！
 **关键词**：how much of the elixir / back and forth between Edenalee / My scouts are running low
-**为什么这样写**：希望以「库存」的形式突然到场——她的绝望清单（失踪=死亡）被一句后勤对话推翻；`elixir` 与 ch20 的 tincture 假说并轨：穿越的化学早已工业化。
+**为什么这样写**：希望以「库存」的形式突然到场——她的绝望清单（失踪=死亡）被一句后勤对话推翻；`elixir` 与 ch16 的 tincture 假说并轨：穿越的化学早已工业化。
 **读者视角提示**：这是全书最大的希望注入——「失踪者还活着」从猜测升级为供应链事实。父亲与 Micah 的「活着」同时点亮，母女营救变成两条线。
 
 > **原句 6:** "“Yes, with the intel we have collected and the humans that we have been successful at securing, we know the right spots and humans to move on. The females will be easiest to get to the encampments. I am sure the nobles are antsy to get their hands on one,” the man chuckled.

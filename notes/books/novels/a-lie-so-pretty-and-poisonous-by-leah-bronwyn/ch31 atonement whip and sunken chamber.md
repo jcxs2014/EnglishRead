@@ -35,7 +35,7 @@ modified: "2026-11-16"
 **中文理解**：国王的毒饵：今日行刑的「荣誉」将授予我们的卫队长——以表彰他对王冠的卓越贡献。有消息说，他还在城里救过我们新来的人类贵族，免于劫匪。
 **关键词**：the honor of delivering the atonement / excellence in service / saved our new human noble
 **为什么这样写**：荣誉与陷阱同词——「honor」的授予实际是把 Darragh 钉在 Aurora 的视野里行刑；她自己的巷劫谎言被国王引用成嘉奖令，谎言反噬创作者。
-**读者视角提示**：这是全书最精妙的恶意设计——国王未必知道她与 Darragh 的私交，但他精准选择了最能摧毁她的执行人。对照 ch17「我为什么不信你」，这一鞭抽在两个人的信任之间。
+**读者视角提示**：这是全书最精妙的恶意设计——国王未必知道她与 Darragh 的私交，但他精准选择了最能摧毁她的执行人。对照 ch18「我为什么不信你」，这一鞭抽在两个人的信任之间。
 
 > **原句 5:** "“Aurora, you both must watch. It is part of this man's atonement to witness his punishment so that he may be cleansed of his wrongdoing. It is a beautiful thing. He will walk out of here free from his sin.”"
 **中文理解**：Cora 求出去被拒——Gabriel 称：你们必须看。旁观是这人赎罪的一部分，看了他才算被洗净。「这是美事。他会无罪地走出这里。」

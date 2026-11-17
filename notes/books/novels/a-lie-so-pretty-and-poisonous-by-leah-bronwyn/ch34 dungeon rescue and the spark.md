@@ -10,7 +10,7 @@ modified: "2026-11-16"
 - **情感弧线位置**：谷底触底反弹——地牢里她被剥夺到只剩拒绝的能力，而正是这个能力让她被革命接住；全书第一卷在「点火」处收束。
 - **Tropes 兑现/反转**：兑现「dungeon survival 与 rescue by unlikely allies」；反转在于救她的是「敌人的敌人」（daemonite 民兵），而她此前最信任的 seraph 站在护盾另一侧怒目而视。
 - **人物弧线**：Aurora：绝食=最后一项可控权，宣言=从「逃」到「烧」的路线改签；Greyshing：狱友→革命引路人；Gabriel：交易失败后露出刑罚脸色；Darragh：护盾另一侧的怒目——背叛的存疑帧。
-- **叙事手法**：以「时间（四日）—交易（井）—惩罚（拳）—救援（爆炸）」四段递进；结尾的 kindling/spark 意象与 ch03 屏障白雾、ch19 白焰构成火焰三部曲终章。
+- **叙事手法**：以「时间（四日）—交易（井）—惩罚（拳）—救援（爆炸）」四段递进；结尾的 kindling/spark 意象与 ch03 屏障白雾、ch11 白焰命名、ch19 怒火复燃构成火焰三部曲终章。
 
 ## 精读
 > **原句 1:** "“Let me see her!” a woman's voice yelled at the two guards stationed at the entrance of the dungeon that I had called my home for the past four days.
@@ -43,7 +43,7 @@ The only indication of passing time was the guard shift changing and two meals p
 
 “Did he?” Gabriel sneered. “Well, I outrank the Captain, and you will heed my command!”"
 **中文理解**：Gabriel 下惩罚令：动手打她——只用拳头、别碰脸。卫兵搬出 Captain 的命令，他冷笑：是吗？我官比他大——听我的号令！
-**关键词**：Use hands only / Don’t touch her face / Use hands only
+**关键词**：Punish her / Use hands only / Don’t touch her face
 **为什么这样写**：暴力令的「精细」比暴力本身更冷——连打哪里都要审批（脸是物品、要保持品相）；军阶压过道义的一句话，把 ch06 的「atoner 威胁」升级成现场执法。
 **读者视角提示**：对照 Darragh 的卫兵体系（服从他但敬他）——Gabriel 的卫兵体系（抗命未遂、服从施暴）在此完成军德对照实验。同一支军队，两套灵魂。
 
@@ -61,7 +61,7 @@ The only indication of passing time was the guard shift changing and two meals p
 **中文理解**：四个被银镣锁着、隔在铁栏后的 daemonite 民兵替她挡下更多毒打——他们已带伤、挨饿、破碎，却为一个素不相识、不欠她的人挨了新一轮打。她能挤出的只有铁栏里一声耳语的「谢谢」。
 **关键词**：chained in silver shackles / a human they didn’t know or owe / whisper
 **为什么这样写**：恩义以「零预期」计价——他们与她的全部交集只有同一间地牢，善意的成本却是新的伤；whisper 的音量与善行的音量成反比，全章的道德重量压在这两个字上。
-**读者视角提示**：对照 ch19 王后施恩要签约、Gabriel 施恩要回报——民兵的援助是本书唯一「不附加条款」的善意。这四记 beating 是革命的招募广告，她听得懂。
+**读者视角提示**：对照 ch32 王后施恩要签约、Gabriel 施恩要回报——民兵的援助是本书唯一「不附加条款」的善意。这四记 beating 是革命的招募广告，她听得懂。
 
 > **原句 8:** "The man cradling me to his body looked down at me with hazel green eyes, putting his palm to the top of my head. With a soft smile, he greeted, “Welcome to the revolution, love.” A blinding bright blue light flashed, my body went limp, and everything went dark.
 
