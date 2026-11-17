@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：没有「很高兴你还活着」；没有「新丈夫待你如何」。只有一场冰冷、临床式的权力交易。Sorsha Lobo 生下一个女儿，却养出一个士兵——她的独子，她唯一的不朽筹码，从婴儿期就被调教成把每段关系看成围攻、把每个弱点看成靶子。
 **关键词**：the cold, clinical transaction of power / raised a soldier / her single bid for immortality / every weakness as a target
 **为什么这样写**：两句「没有」先给母亲缺席的证据，再由 soldier / immortality / siege 三词完成画像——母爱被写成军事工程。conditioned from infancy 把责任链推到源头：她的冷酷是出厂设置，而非性格选择。
-**读者视角提示**：这是全书对 Sorsha 最完整的一次定性——她的爱以「可用性」结算；往后 Rosalind 每次自问「我值多少」，都是这套系统的回声。
+**读者视角提示**：这是她对 Sorsha 的一次完整定性——她的爱以「可用性」结算；往后 Rosalind 每次自问「我值多少」，都是这套系统的回声。
 
 > **原句 2:** "It was all I was good for in her eyes, seeing as my eyesight was so poor. My father had been vision impaired, but no one had known that. He and his family had hidden it well. The only person outside of the Ironwood Pack that had known had been Nikos Ironwood's wife. I sometimes wondered if that's the reason my mother had killed him — because he'd passed his disability onto what was supposed to be her perfect heir."
 **中文理解**：在她眼里，视力这么差的她只有这点用处。父亲也是视力障碍者——没人知道，他和家族把它藏得极好；Ironwood pack 之外唯一知情人只有 Nikos 的妻子。她有时会想：母亲杀他，是不是就因为这个——他把缺陷遗传给了那个本该完美的继承人。
@@ -29,7 +29,7 @@ modified: "2026-11-17"
 **中文理解**：烹饪不在母亲的课程表里。她教的是价值：怎么辨真优、什么值得付钱、什么只是贵。她带她逛街、教面料与品牌；教她管家——教她怎么分辨谁在干活、谁在趁她看不见而占便宜。「我看不太清，也完全不会打架。但我知道怎么 clean house。」
 **关键词**：taught me value / fabrics and branding / taking advantage / how to clean house
 **为什么这样写**：课程清单其实是作战履历——recognize quality（辨人）、fabrics and branding（读局）、know when someone was taking advantage（抓蛀虫）全是情报基本功。clean house 的双关只在她的字典里成立：管家=清场，房子很快就会「没有 Blackwood」。前半段越像淑女课，最后一句越像驱逐令。
-**读者视角提示**：这句是她的战斗宣言第一次当众出口——桌上没人听懂，读者必须记住；它会在这本书的结局兑现。
+**读者视角提示**：这句是她当着敌家族的面说出的战斗宣言——桌上没人听懂，读者必须记住；它会在这本书的结局兑现。
 
 > **原句 4:** ""I may look like a sheep, but I'm still a wolf at my core."" … ""Interesting metaphor," said Mei Ling. "A sheep among wolves."" … ""I feel entirely comfortable here."" … ""I never said you were the sheep, dear.""
 **中文理解**：「我也许看着像羊，但骨子里是狼。」「有意思的比喻——狼群里的羊。」「我在这里完全自在。」「我可从没说羊是你，亲爱的。」
