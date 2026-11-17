@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 3:** "This brilliant sunshine reminds me of childhood. It has brought up memories of growing up amongst the wheat fields in the Wimmera and of the sun being seen as both a blessing and a curse by my father. You needed just enough sun and just enough rain, or else the crops wouldn't grow, and the family would be ruined financially"
 
 **中文理解**：「这灿烂的阳光让我想起童年——在 Wimmera 麦田里长大，父亲把太阳看作既是祝福又是诅咒：阳光雨水都得刚好，否则庄稼不生，全家在财务上就完了。」
-**关键词**：reminds me of childhood、amongst the wheat fields in the Wimmera、both a blessing and a curse by my father、just enough sun and just enough rain、ruined financially
+**关键词**：reminds me of childhood、amongst the wheat fields in the Wimmera、both a blessing and a curse、just enough sun and just enough rain、ruined financially
 **为什么这样写**：农人的太阳观接替游客的太阳观——「just enough」的微积分是生存算术；「blessing and curse」把 ch01 的 ROMA TERMINI 死亡联想补上乡愁出处。她的丧父之痛第一次有了风景坐标。
 **读者视角提示**：与 ch02 的机场独白连读：从死亡到麦田，父亲的遗产在她体内换了作物。记住 Wimmera——「farm 逃亡史」的地名终于落地。
 
