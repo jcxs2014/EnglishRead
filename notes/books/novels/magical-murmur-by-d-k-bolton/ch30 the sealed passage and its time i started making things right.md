@@ -18,7 +18,7 @@ modified: "2026-11-16"
 **中文理解**：我也一直在琢磨这个。「我唯一想得通的答案是：他们挑中了两个立场最摇摆不定的人。」
 **关键词**：targeted the two individuals / most on the fence with their beliefs
 **为什么这样写**：绑架逻辑首度成文——摇摆者最可争取；「on the fence」的政治语汇把魔法袭击写成策反。
-**读者视角提示**：读者拿到敌方选人标准：可转化者优先——Gidian 的过去与 Rendel 的沉默都符合。
+**读者视角提示**：读者拿到敌方选人标准：可转化者优先——Gideon 的过去与 Rendel 的沉默都符合。
 
 > **原句 2:** "Keegan chewed his bottom lip for a brief second and nodded slowly. “If our theory is right that there are more followers out there like Darren trying to regroup and use the shadows for their own purposes…” He stopped and looked at the stone tile floor. “Then maybe they’re strong enough to manipulate the Academy.”"
 **中文理解**：Keegan 咬了咬下唇缓缓点头：「如果我们的推测没错——外面还有像 Darren 那样的追随者正想重整旗鼓、把影子挪为己用……」他停住，看向石砖地面：「那也许，他们的力量已经强到能操纵学院了。」

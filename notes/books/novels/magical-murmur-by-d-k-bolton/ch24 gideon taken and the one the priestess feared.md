@@ -41,7 +41,7 @@ modified: "2026-11-16"
 > “Maeve,” the voice called, and Gideon turned around to look at me."
 **中文理解**：「魔法的核心是克制，」她语气平平：「听见召唤不代表必须回应。」我的印亮了一下，我看向 Keegan——他缓缓点头，我们一起把注意力转回 Gideon。「Maeve，」那个声音喊道，Gideon 转身看向我。
 **关键词**：Magic is about restraint / My mark flared
-**为什么这样写**：克制被定义为魔法的根基——正好是 Gidian 此刻最缺的东西；喊名目标从儿子转往母亲，饵在换人。
+**为什么这样写**：克制被定义为魔法的根基——正好是 Gideon 此刻最缺的东西；喊名目标从儿子转往母亲，饵在换人。
 **读者视角提示**：读者注意到声音的策略性：它在挑最能被钓走的那个。
 
 > **原句 3:** "My shoulder burned, and I pressed my palm to it as the woman watched me. “Those marks were never meant to be placed on one person.”
@@ -65,7 +65,7 @@ modified: "2026-11-16"
 > I was about to ask what she meant when Gideon moved past us and reached for the markings on the first step. Keegan caught his wrist before he touched them, and Gideon turned, his eyes so angry I barely recognized him."
 **中文理解**：「我是说，趁通道还没认出别的东西之前，你该离开。」好吧，真是安心。我正要问她什么意思，Gideon 越过我们伸手去够第一级台阶上的刻纹——Keegan 在他碰到之前扣住他的手腕，Gideon 转过身，眼中的怒气几乎让我认不出来。
 **关键词**：before the passage recognizes anything else / his eyes so angry I barely recognized him
-**为什么这样写**：通道被写成会「认东西」的活物——印之后它还想认别的；Gidian 的暴怒失态与金光眼神并置，沦陷进度可视化。
+**为什么这样写**：通道被写成会「认东西」的活物——印之后它还想认别的；Gideon 的暴怒失态与金光眼神并置，沦陷进度可视化。
 **读者视角提示**：读者记住「recognize」这个动词：它认印、认人、认物件——通道有自己的胃口。
 
 > **原句 5:** "“I’m here, Gideon. Come down.” The voice absolutely sounded like Rendel’s. “Help me.”
@@ -80,8 +80,8 @@ modified: "2026-11-16"
 > “Gideon,” the voice whispered again, softer now. “You know what happened. You know why I had to leave.”"
 **中文理解**：「我在这儿，Gideon。下来。」那声音分明就是 Rendel 的：「救我。」金光变亮，沿石阶蔓延得更远。Gideon 又朝入口迈了一步，Keegan 与我对视了一眼。「Gideon，」声音再次低语，更柔了：「你知道发生了什么。你知道我为什么不得不离开。」
 **关键词**：Come down. / You know why I had to leave.
-**为什么这样写**：诱饵三段式升级——呼救、亮光、私密话；「你为什么不得不离开」精准命中 Gidian 最想填的空白。
-**读者视角提示**：读者听到声音的读心术：它说的话全是 Gidian 想听的答案——饵是定制的。
+**为什么这样写**：诱饵三段式升级——呼救、亮光、私密话；「你为什么不得不离开」精准命中 Gideon 最想填的空白。
+**读者视角提示**：读者听到声音的读心术：它说的话全是 Gideon 想听的答案——饵是定制的。
 
 > **原句 6:** "Gideon swallowed. “He said he knows where the Stone Ward is.”
 >
@@ -108,7 +108,7 @@ modified: "2026-11-16"
 >
 >
 > Gideon shook his head. “Rendel is trapped. He can’t leave.”"
-**中文理解**：「他知道事情，Keegan。关于我们家的事。」Keegan 缓缓走向 Gidian：「那他可以站在这儿说。」我举双手赞成。Gidian 摇头：「Rendel 被困住了。他离不开。」
+**中文理解**：「他知道事情，Keegan。关于我们家的事。」Keegan 缓缓走向 Gideon：「那他可以站在这儿说。」我举双手赞成。Gideon 摇头：「Rendel 被困住了。他离不开。」
 **关键词**：Things about our family / Rendel is trapped. He can’t leave.
 **为什么这样写**：「站这儿说」的合情方案被「他离不开」否决——陷阱的逻辑闭环逼人入洞；家庭秘史仍是它的王牌。
 **读者视角提示**：读者看到钓鱼的最后一步：把「信息」变成「必须下去才能拿」的门票。
@@ -132,9 +132,9 @@ modified: "2026-11-16"
 >
 >
 > And before we could stop him, Gideon dashed down the steps."
-**中文理解**：我伸手按肩——那感觉同时蔓延到了髋部。蝴蝶印刺痛，我用手压住。就在我这样做的时候，两道印一齐亮了起来。「Gideon。」Rendel 的声音回来了，清晰得我几乎能想象他就站在旁边。还没等我们拦住，Gidian 已冲下石阶。
+**中文理解**：我伸手按肩——那感觉同时蔓延到了髋部。蝴蝶印刺痛，我用手压住。就在我这样做的时候，两道印一齐亮了起来。「Gideon。」Rendel 的声音回来了，清晰得我几乎能想象他就站在旁边。还没等我们拦住，Gideon 已冲下石阶。
 **关键词**：they both began to glow / Gideon dashed down the steps
-**为什么这样写**：双印同亮=门全开——她按印的动作成了开门的钥匙；Gidian 的坠落在一行内完成，灾难不给反应时间。
+**为什么这样写**：双印同亮=门全开——她按印的动作成了开门的钥匙；Gideon 的坠落在一行内完成，灾难不给反应时间。
 **读者视角提示**：读者目睹因果链的残忍：她的安抚动作恰恰是触发器——她的力量一直在帮倒忙。
 
 > **原句 10:** "“It was your magic that opened the entrance, Maeve,” the woman said. “Your marks are the key, although that doesn’t mean you have any control over who walks through."

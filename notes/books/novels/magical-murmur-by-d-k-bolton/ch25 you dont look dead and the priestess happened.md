@@ -72,7 +72,7 @@ modified: "2026-11-16"
 **中文理解**：「嗯，这可不妙。希望他别找到下层密室。」她看着他，我能看出她在挣扎着把后一半说出口：「否则他多半……回不来了。」
 **关键词**：the lower chambers / no returning for him
 **为什么这样写**：「lower chambers」首次入册——通道之下还有更深的层；「no returning」与 Rendel 的坠落同句式，灾难在重演。
-**读者视角提示**：读者拿到 Gidian 处境的正式定级：地上通道可回、下层密室难返。
+**读者视角提示**：读者拿到 Gideon 处境的正式定级：地上通道可回、下层密室难返。
 
 > **原句 7:** "“The passages were built to connect the old boundaries. The lower chambers were sealed for another reason.” The woman dropped her gaze, and a chill ran through me."
 **中文理解**：「通道群是为了连接旧边界而建。下层密室是因为另一个原因被封死的。」老妇垂下目光——一阵寒意掠过我。
@@ -135,7 +135,7 @@ modified: "2026-11-16"
 **中文理解**：「我不站队，」老妇回答：「但我可以告诉你这个。如果 Gideon 真的到达下层密室，他会被那个召唤拉过去。」她抿紧唇看向 Keegan：「而如果古老魔法认出他的血统，它也许会允许他走得到比 Rendel 预想中更远的地方——到那时，我们所知的魔法将永远不同。」
 **关键词**：I take no sides / if the old magic recognizes his bloodline
 **为什么这样写**：不站队的声明配上血统警报——中立者的警告反而最可信；「farther than Rendel ever intended」给空间纵深加了权限等级。
-**读者视角提示**：读者拿到 Gidian 处境的完整判词：血统是通行证也是深渊的邀请函。
+**读者视角提示**：读者拿到 Gideon 处境的完整判词：血统是通行证也是深渊的邀请函。
 
 > **原句 14:** "“Your father made choices long before either of you were born,” she said quietly. “And some of those choices are still affecting us.”
 >

@@ -197,7 +197,7 @@ modified: "2026-11-16"
 > Keegan nodded as I continued studying the markings."
 **中文理解**：石头上刻着大小不一的古老符文，我知道自己不该妄图解读。「它们是旧边界的一部分，」Keegan 站起身说。「Gideon 没细说——这就是 Stonewick 与 Shadowick 的界线吗？」Keegan 点头，我继续研究那些刻痕。
 **关键词**：ancient markings / part of the old boundary
-**为什么这样写**：Gidian 的情报落地成实物——界石从传闻变成脚下；「知道不该解读」的自知让古物保持距离感。
+**为什么这样写**：Gideon 的情报落地成实物——界石从传闻变成脚下；「知道不该解读」的自知让古物保持距离感。
 **读者视角提示**：读者拿到实体证据：第 20 章的界石之谜有了第一块化石。
 
 > **原句 13:** “I stepped closer and raised my wand toward the stones, and they suddenly began shifting into a kaleidoscope of colors.
