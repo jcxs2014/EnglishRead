@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch31",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch31_chapter_31.txt",
+ "facts": [
+  {
+   "fact": "本章是急救医学训练手册摘录——溺死晚期阶段。",
+   "anchor": "EXCERPT FROM EMERGENCY MEDICINE TRAINING MANUAL",
+   "start": 18,
+   "end": 65
+  },
+  {
+   "fact": "清醒可持续数分钟——咳嗽呛水、胸口灼烧、失定向、激越（thrashing）。",
+   "anchor": "Subjects may remain conscious for several minutes, experiencing:",
+   "start": 502,
+   "end": 566
+  },
+  {
+   "fact": "激越是脑干驱动的反射；缺氧推进认知快速衰退、记忆碎片化。",
+   "anchor": "This agitation is reflexive, driven by the brainstem.",
+   "start": 759,
+   "end": 812
+  },
+  {
+   "fact": "晚期「平静」不是缓解——是神经衰退：脑关停非必需功能、动作停止。",
+   "anchor": "This is not relief, but neurological decline.",
+   "start": 1038,
+   "end": 1083
+  },
+  {
+   "fact": "心跳骤停随后到来。",
+   "anchor": "Cardiac arrest follows shortly thereafter.",
+   "start": 1203,
+   "end": 1245
+  },
+  {
+   "fact": "溺死被轶闻称为「最糟的死法」。",
+   "anchor": "is often described anecdotally as the “worst way to die.”",
+   "start": 1330,
+   "end": 1387
+  }
+ ]
+}
