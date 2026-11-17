@@ -38,7 +38,7 @@ modified: "2026-11-17"
 > **原句 4:** "She realizes she's continuing the charade by politely shaking her head. But it's not only him she's trying to fool. It's herself as well because this can't be happening. It can't be. "I'm sorry," she says again, beginning to shut the door. He reaches for something in his back pocket, and she's suddenly sure it's a gun and that he'll kill her in her doorway for some unfathomable reason she'll never know. But all he holds is a plain white envelope with a single word written across it in sloping script: Crawford."
 
 **中文理解**：她意识到自己还在礼貌地摇头——戏还在继续。但她想骗的不只是他，还有自己：因为这不可能发生。不可能。她再次道歉，开始关门。他伸手到后袋掏东西——她瞬间确信那是枪，他会在自家门口杀了她，为了某个她永远无法理解的说不通的理由。但他手里拿着的，只是一只普通的白色信封，封皮上一行斜斜的手写体，写着一个词：Crawford。
-**关键词**：charade / can't be happening / unfathomable / Crawford
+**关键词**：charade / can’t be happening / unfathomable / Crawford
 **为什么这样写**：「骗自己」是本章的心理支点——她用拒认维持的不止是安全，是现实的形状；后袋掏物的枪恐惧被写得极其具体（在门口被杀、理由永远无法知道）——恐惧自动补全了全部剧本，而现实只递来一只信封：威胁的形态从暴力降级为文书，杀伤力反而升格（文书是对准未来的）。Crawford 一个词顶一段解释：收信人是谁、后果是什么，读者自己会算。
 **读者视角提示**：信封上的 Crawford 就是隔壁邻居家的姓（Julian 全家）。这只信封的内容此刻没人知道——它可能是信、可能是照片、可能什么都不是。它现在唯一确定的功能是：要挟的支点。
 

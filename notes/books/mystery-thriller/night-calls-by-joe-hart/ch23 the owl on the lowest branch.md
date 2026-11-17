@@ -59,7 +59,7 @@ modified: "2026-11-17"
 > **原句 7:** "Hattie finds herself taking a sudden step in its direction and waving her arms. "Go on! Get out of here!" Her voice only carries so far in the rush of wind bending the trees and making their branches nod in grim agreement. When the owl doesn't move, she takes another tentative step forward. "What do you want? What the fuck do you want?" she says, knowing how unhinged she sounds coupled with the fact she's talking to a bird. But more than anything she wants it to fly away and prove that it's actually there. That it's real."
 
 **中文理解**：Hattie 发现自己朝那个方向突然迈了一步，对着它挥舞双臂。「滚！从这儿滚开！」她的声音只传出去那么远——风正压弯树木，让枝条grimly 地点头赞同。猫头鹰不动，她又试探性地迈了一步。「你想要什么？你他妈到底想要什么？」她说——她知道自己听上去有多失控，何况是在跟一只鸟说话。但比什么都更想它飞走，来证明它确实在那儿。证明它是真的。
-**关键词**：Go on / waving her arms / grim agreement / prove that it's real
+**关键词**：Go on / waving her arms / grim agreement / prove
 **为什么这样写**：她朝一只鸟挥臂喊叫是全书荒诞感的高峰——但作者把她的疯话写得有逻辑：她要的不是它消失，是它「被证明是真的」（一旦证实为真，就可以是梦；不可证，才能是现实）——这个悖论是她整个认知困境的微缩版；「枝条点头赞同」的拟人化把整个庭院写成她的陪审团。
 **读者视角提示**：「证明它是真的」这句是本章的核心悖论：她在用「求它消失」来求「求梦境」。她对现实的检验标准（ch17 的干燥衣料）在这里倒转成了：她需要一个可被否证的证据。
 

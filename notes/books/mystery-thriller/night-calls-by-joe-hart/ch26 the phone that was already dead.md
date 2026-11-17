@@ -17,7 +17,7 @@ modified: "2026-11-17"
 > **原句 1:** "Hattie waits as she always does for a reply, but it doesn't come."
 
 **中文理解**：Hattie 像往常一样等回复，但它没有来。
-**关键词**：waits / as she always does / doesn't come
+**关键词**：waits / as she always does / doesn’t come
 **为什么这样写**：全书最重的一句轻描淡写——「像往常一样」四个字把八年的等压进一个状语；开篇即宣告：她等的不是回复，是「有」本身。
 **读者视角提示**：「as she always does」是全书的时间胶囊：她的生活由这种等待构成。往后每次她等，都用这句回声。
 
@@ -126,7 +126,7 @@ modified: "2026-11-17"
 |---|---|---|
 | slamming | 猛烈撞击的 | It was a slamming echo as if several heavy-duty electric motors or engines had started up all at once. |
 | radar | 雷达 | She had spoken louder and a little faster to drown out the weather in case he decided to look at a radar map and make note of all the storms in the northern hemisphere. |
-| slamming/slam | 重击 | It was a slamming echo as if several heavy-duty electric motors or engines had started up all at once. |
+| slamming | 重击 | It was a slamming echo as if several heavy-duty electric motors or engines had started up all at once. |
 | maddening | 折磨人的 | An industrial noise for certain but maddening in its anonymity. |
 
 ### ⭐⭐ 进阶

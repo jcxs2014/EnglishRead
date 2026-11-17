@@ -24,14 +24,14 @@ modified: "2026-11-17"
 > **原句 2:** "When she picked up the handset the last person she would have guessed to be on the other end would have been Leah Sterling, Tommy's former girlfriend. Yet she knew her voice just the same even in its broken and tear-strained state. Had known it well for the last twelve years ever since Leah had shown up on Hattie's porch with her hands clasped before her—a young girl with straight golden hair and scabs on her knees from falling from a bike or a skateboard, asking if Tommy was home." "Hattie? Oh God, I've been trying to get you on your cell, but you weren't answering." A gasping inhale. "It's Tommy.""
 
 **中文理解**：她拿起听筒——最不可能出现在那头的名字是 Leah Sterling，Tommy 的前女友。可她还是立刻认出了那把被打碎、被泪水泡过的声音。过去十二年她一直熟悉这把声音——自从 Leah 双手交握在身前出现在她家门廊上：金直发、膝盖带着骑车或滑板摔出的疤，问 Tommy 在不在家。「Hattie？天哪，我一直打你手机，你不接。」一阵喘吸。「是 Tommy。」
-**关键词**：Leah Sterling / tear-strained / twelve years / It's Tommy
+**关键词**：Leah Sterling / tear-strained / twelve years / It’s Tommy
 **为什么这样写**：来电者的身份用十二年前的门廊闪回交底——金发、膝疤、交握的手：Leah 从少女时代起就是这个家的常客；「前女友」与「认识十二年」的张力（分手了但仍在家庭网络里）为后文「和 Leah 复合」的动机埋线；「是 Tommy。」三个字独立成引语，是本章引信的总开关。
 **读者视角提示**：Leah 与 Tommy 十二年的感情史——先记住时长。她在这本书里的每次出现都带着这段历史的重量。
 
 > **原句 3:** ""The police. They . . . had him in handcuffs and he was only in his sweatpants. I tried talking to one of the cops, but they wouldn't tell me anything." Leah released a long, shuddering breath. "They just put him in a car and took him away.""
 
 **中文理解**：「警察。他们……给他戴上了手铐，他身上只穿着运动裤。我想跟其中一个警察谈谈，他们什么都不说。」Leah 长长地、颤抖着吐出一口气。「他们就把他塞进车里带走了。」
-**关键词**：handcuffs / sweatpants / wouldn't tell / took him away
+**关键词**：handcuffs / sweatpants / wouldn’t tell / took him away
 **为什么这样写**：「只穿着运动裤」是被捕最残忍的细节——一个人最没有防备的样子被写进国家机器的程序里；三句话的递进（铐住—拒答—带走）构成一个小型的消失流程。Leah 的颤抖呼吸是旁观者的创伤——她只看到了程序的表面，而读者知道她会看到更多。
 **读者视角提示**：从 Leah 的视角记录这一刻：她全程目击、全程无门。这份无力感是她后面行动的燃料。
 
@@ -87,13 +87,13 @@ modified: "2026-11-17"
 > **原句 11:** ""Tommy?" she said." A quiet pause, then their son's voice came from the phone, sounding so much younger than his twenty-two years of age. "Mom." Her throat closed with emotion. "Honey, are you okay?" she managed." "Yeah, I'm . . . I'm all right. They're keeping me here, though. They won't let me go home.""
 
 **中文理解**：「Tommy？」她说。一拍安静的停顿，然后儿子的声音从电话里出来——听起来比他的二十二岁年轻得多。「妈。」她的喉咙被情绪锁死。「宝贝，你还好吗？」她挤出来。「嗯，我……我没事。不过他们把我关在这儿。不让我回家。」
-**关键词**：twenty-two years / Mom / throat closed / won't let me go home
+**关键词**：twenty-two years / Mom / throat closed / won’t let me go home
 **为什么这样写**：母子通话以两次称呼对切（Tommy？／Mom.）——名字的互喊是这通电话全部的体温；「比二十二岁年轻得多」是恐惧的声学：案件把成年人瞬间压回孩童；「不让我回家」是自由的官方暂停——这句 innocent 的话在他母亲的耳朵里等于「他们还认为该关着他」。
 **读者视角提示**：记住 Tommy 的声音特征（年轻、轻、怕）——全书后面若再有他的声音（电话、录音），都拿这里当基准。
 
 > **原句 12:** "Tommy made a strangled sound and Hattie's vision swam. "Cheryl's dead. They think I killed her." There it was. Their unsaid fears laid bare."
 
-**关键词**：strangled sound / vision swam / Cheryl's dead / unsaid fears
+**关键词**：strangled sound / vision swam / Cheryl’s dead / unsaid fears
 **中文理解**：Tommy 发出一个被掐住似的声音，Hattie 的视野晃了。「Cheryl 死了。他们以为是我杀的。」答案来了。他们没说出口的恐惧被摊开在桌面上。
 **为什么这样写**：指控先于细节抵达——母子俩拿着同一份恐惧，此刻才互相对表；「被掐住的声音」与「视野晃动」是两人各自的生理崩点，同步发生；「没说出口的恐惧」被作者盖章为家庭共识——本章前半所有「误会论」的地基在此被指出：他们早就想过最坏的可能。
 **读者视角提示**：「他们以为是我杀的」是 Tommy 的转述——「他们以为」三个字里没有信源。审讯室里谁在向他灌输「他们知道」？这条要存档。
@@ -108,7 +108,7 @@ modified: "2026-11-17"
 > **原句 14:** ""So, like the press, I've got my own contact at the state police, and this is what he knew so far. Tommy's former girlfriend, Cheryl Barton, was found dead early this morning by a roommate who was out of town last night. She was stabbed to death. No forced entry. Cheryl died sometime between the hours of two and five a.m. as far as they can tell. She was last seen leaving a house party on Sixteenth Street. There's CCTV footage from a camera at an adjacent business of her arriving at her home fifteen minutes later. About an hour after that a car pulls up and drops someone off before pulling away." Here Billy takes a long pull of bourbon. "It was Dustin's car, and he was dropping Tommy off.""
 
 **中文理解**：「跟媒体一样，我在州警里也有自己的人，这是他目前知道的。Tommy 的前女友 Cheryl Barton 今晨被发现死在家里——昨晚外出、今早回来的室友发现的。刺死。没有强行闯入的痕迹。据他们判断，死亡时间在凌晨两点到五点之间。她最后一次被看到是离开十六街的一个家庭派对。隔壁商户的监控拍到他十五分钟后到家。大约一小时后，一辆车停下、放下一个人、开走了。」Billy 长长灌了一口波本。「那是 Dustin 的车——他放下的是 Tommy。」
-**关键词**：stabbed to death / No forced entry / CCTV / Dustin's car
+**关键词**：stabbed to death / No forced entry / CCTV / Dustin’s car
 **为什么这样写**：律师的简报用新闻导语的语法交付（时间、地点、凶器、监控）——信息越干燥越可怕；「没有强行闯入」这一条是双刃：Cheryl 可能开门让他进（认识的人），也可能根本没人进（另案）——监控盲区（门口视线之外）让两种可能都活着；「Dustin 的车」把朋友圈正式钉进案卷：送他的朋友、吵架的死者、断片的被告——每个名字都在收紧。
 **读者视角提示**：时间线记牢：派对→15 分钟到家→1 小时后车到→放下 Tommy→（盲区）→2–5 点死亡。Tommy 在案发窗内出现在门外——这是全书一切推理的地基，后面的每次辩护与指控都在这段时间轴上跳舞。
 

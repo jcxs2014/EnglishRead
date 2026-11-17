@@ -80,7 +80,7 @@ modified: "2026-11-17"
 > **原句 10:** "It's been difficult to remove love's bias, but she's managed to observe her grandson in a cold, clinical way, seeking out any early warnings she may have overlooked in her own son, both afraid of seeing something and even more terrified to miss it. But other than his intelligent, quiet nature, Julian is an average little boy. At least for now."
 
 **中文理解**：剥离爱的偏见很难，但她做到了：用冷静、临床的眼光观察孙子——寻找她可能在自己儿子身上漏掉的早期信号——既怕看到什么，更怕错过什么。但除了聪明安静的天性，Julian 是个普通的小男孩。至少目前是。
-**关键词**：remove love's bias / clinical way / early warnings / At least for now
+**关键词**：remove love’s bias / clinical way / early warnings / At least for now
 **为什么这样写**：「既怕看到、更怕错过」是全书最锋利的母亲悖论——她的观察是一把双刃的仪器，两个方向都是伤害；「临床的眼光」把祖母本能强制降级为监测任务；「至少目前是」三词收尾——观察永远不会结案，普通只是一种暂时状态。
 **读者视角提示**：她对 Julian 的观察项目（早期预警清单）会一直运行——以后 Julian 的每个安静时刻都被她双重读取（正常/征兆）。带着这个设置读所有祖孙场景。
 
@@ -101,7 +101,7 @@ modified: "2026-11-17"
 > **原句 13:** "And there must be something in her voice, too, because Leah inhales sharply before she says, "Oh God. He found you, didn't he.""
 
 **中文理解**：她的声音里一定也有什么——因为 Leah 猛地倒吸一口气，然后说：「天哪。他找到你了，是不是。」
-**关键词**：something in her voice / inhales sharply / He found you / didn't he
+**关键词**：something in her voice / inhales sharply / He found you / didn’t he
 **为什么这样写**：她只报了名字，Leah 却直接跳到结论——「他」是谁无需解释：Leah 早就在等这通电话；倒吸的气说明她知道 Eeling、知道他意味着什么——信息差瞬间反转：她以为的求助电话，对面早已备好答案；「是不是」的句式不是疑问，是确认——她的恐惧早有伏笔。
 **读者视角提示**：Leah 知道 Eeling——这是本章丢出的最后一枚雷：Eeling 的骚扰不止针对 Hattie 一人？还是 Leah 遇到过他？带着「他找到了谁」的复数版读下一章。
 

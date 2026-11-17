@@ -52,14 +52,14 @@ modified: "2026-11-17"
 > **原句 6:** "Besides churning up emotions, one other thing has been accomplished by calling them—now she knows for sure she can't trust Eeling to keep his word. Not that she really did in the first place, but confirming the fact solidifies the plan she's begun assembling in the workshop of her mind."
 
 **中文理解**：除了搅动情绪，这通电话还办成了一件事——她现在确定 Eeling 不会守信。倒不是她起初就真的信过，但把这个事实钉死，等于巩固了她已经在「头脑的工坊」里开始组装的那个计划。
-**关键词**：can't trust / keep his word / solidifies / workshop of her mind
+**关键词**：can’t trust / keep his word / solidifies / workshop of her mind
 **为什么这样写**：「头脑的工坊」是本章最重要的隐喻——它把 Ed 的木工房（亡者的圣所）迁进她的颅骨：现在造计划的是她，用的却是他的手艺；「组装」（assembling）与木工的拼装同词根——计划的形态尚未成形，但工艺标准已定（像 Ed 那样，把每个榫头对准）。
 **读者视角提示**：这个「计划」是 Part 2 的主发动机——它针对谁（Eeling？Tommy？）、什么形态，文本全部 withholding。先记住它的车间地址：她的头脑、Ed 的工艺。
 
 > **原句 7:** "Hattie rises, finally hungry enough to eat something, and opens the fridge only to be met with the bottles of Worthington's clotted cream. "Shit." She completely spaced bringing Sloan his groceries." With a sigh she gathers everything up and heads for the door. "Longest day ever. Might as well make it longer," she says under her breath and goes out into the night."
 
 **中文理解**：Hattie 起身——终于饿到能吃点东西——打开冰箱，迎面撞上那些 Worthington 凝结奶油瓶。「Shit。」她把给 Sloan 送杂货这事儿忘得一干二净。她叹口气把东西收齐，朝门口走去。「史上最长的一天。那就让它更长一点吧，」她低声说，走进了夜里。
-**关键词**：Worthington's / spaced / Longest day / into the night
+**关键词**：Worthington’s / spaced / Longest day / into the night
 **为什么这样写**：冰箱开向的不是食物而是失职（Worthington 瓶堵在门口）——她的欺骗工艺第一次暴露库存积压；「Shit」是她的第二句出口脏话（第一句给 Eeling 的「What the hell」）——疲惫开始击穿她的语言修养；「让更长一点吧」是自嘲式的时间观：她不再等天亮，主动把夜用完——去 Sloan 那里，把「Not yet」兑现成行动。
 **读者视角提示**：本章结尾她走向 Sloan——ch11「Not yet」的撤销动作。两个老人的夜谈是下一章的入口：她终于要向唯一不设防的人靠近一步。
 
@@ -71,7 +71,7 @@ modified: "2026-11-17"
 | dredging | 挖掘、打捞（记忆） | It's Eeling's doing, dredging up things long since buried |
 | gravitated | 相互吸引、聚向 | Dustin and Leah had naturally gravitated to one another |
 | assembling | 组装、集合 | the plan she's begun assembling in the workshop of her mind |
-| churned | 搅动、翻腾 | Besides churning up emotions, one other thing has been accomplished by calling them—now she knows for sure she can't trust Eeling to keep his word. |
+| churn | 搅动、翻腾 | Besides churning up emotions, one other thing has been accomplished by calling them—now she knows for sure she can't trust Eeling to keep his word. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

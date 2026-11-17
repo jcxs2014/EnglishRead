@@ -38,7 +38,7 @@ modified: "2026-11-17"
 > **原句 4:** "Now she doesn't know anything for sure. She takes a few calming breaths, grounding herself. The doors are locked and she's safe and so is Julian along with his family. She's really tired and it's okay if she closes her eyes for a second or two just to rest them, just to rest her head—"
 
 **中文理解**：现在她什么都不能确定了。 她做了几次平复的呼吸，让自己落回地面。门锁好了，她安全，而……
-**关键词**：Now / doesn't know anything for sure / calming breaths / grounding / locked / safe
+**关键词**：Now / doesn’t know anything for sure / calming breaths / grounding / locked / safe
 **为什么这样写**：独立成段的五词断言是全章的转折点：从「考虑结束」到「什么都不确定」只隔一句——她的自毁冲动不是绝望，而是一次「清盘」：既然什么都不确定，那把账结掉。说完这句，她反而冷静下来。 她用的是「把自己拉回地面」（grounding）的技术——与 ch13 的地下室意象同族（她的心理有一层地下），这次她选择踩实地面；「而……」把话头切断：她的自我安慰句式永远在转折处被掐断。
 **读者视角提示**：「现在」这个时间副词说明这是新状态：就在回程路上，某些东西刚刚碎了（鸮的指控？三重的预兆？）。 注意她需要物理动作（锁门、呼吸）来对抗内部风暴——她的安全感清单全是可操作项：锁、灯、车道、抽屉里的手机。
 
@@ -52,14 +52,14 @@ modified: "2026-11-17"
 > **原句 6:** "Something's wrong."
 
 **中文理解**：有什么不对劲。
-**关键词**：Something's wrong
+**关键词**：Something’s wrong
 **为什么这样写**：两个词的独立段落是全书最经济的警报格式（ch23 的「Wait. There.」同族）；它同时属于梦与醒——读者无法确定这是梦里的判断还是醒着的判断，作者故意让两层共享同一句话。
 **读者视角提示**：这类极短段落是本书的「警报」语法：出现即意味着结构要变。
 
 > **原句 7:** "The words aren't just in her head, Ed spoke them. But that's not really what's bothering her either. It's the stillness and the quiet. The stillness of his chest and the quiet inside it. Oh honey, she says, feeling tears flood her eyes, because this isn't real and it's real all at once."
 
 **中文理解**：那些话不只是在她脑子里——Ed 说出了声。但真正让她不安的其实并不是这个。
-**关键词**：spoke them / head / really bothering her
+**关键词**：spoke them / head / bothering
 **为什么这样写**：梦里的亡者开口说话，这在本书是常规（ch01 mantra／ch11 「但它结束了吗」）；但作者立刻标注——真正让她不安的是「不是这个」，把读者的注意力从超自然事件移向她的情绪：她的不安来自别处。
 **读者视角提示**：这个「不是这个」是叙事诡计：它让我们误以为不安来自梦，实际来自下一句。
 

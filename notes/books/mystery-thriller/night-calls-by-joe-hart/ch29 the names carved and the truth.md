@@ -52,7 +52,7 @@ modified: "2026-11-17"
 > **原句 6:** "The owl is there. She looks away quickly, trying to pretend she didn't see it, but she can feel its gaze on the side of her head like the touch of a fevered hand. Eeling clears his throat and finally looks up at her."
 
 **中文理解**：「比有些人更糟，比有些人好些。」Eeling 布置工作台，没有看她，而她希望……
-**关键词**：Eeling / The owl is there / looks away quickly / pretend she didn't see
+**关键词**：Eeling / The owl is there / looks away quickly / pretend she didn’t see
 **为什么这样写**：他的回答是一句格言式对仗——不承认也不否认；「布置工作台而不看她」写他的防御方式：用手上的程序回避目光交流；而她的「希望」被省略号截断——她希望什么？希望他喝多了出错？希望他好一点？
 **读者视角提示**：作者用省略号做「未说出口的愿望」，全书高频。读到这里可以停一下猜她希望什么，再往下。
 

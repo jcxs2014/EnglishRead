@@ -24,7 +24,7 @@ modified: "2026-11-17"
 > **原句 2:** "She checks the driveway to make sure Eeling hasn't arrived yet (may he still drive off the road into a tree) and decides she has time for a final phone call. There's one person she hasn't spoken to yet that will close the circle of the meddlesome writer and his demands."
 
 **中文理解**：她查看车道，确认 Eeling 还没到（愿他仍然开进树里、……
-**关键词**：checks the driveway / hasn't arrived yet / drive off the road
+**关键词**：checks the driveway / hasn’t arrived yet / drive off the road
 **为什么这样写**：她的第一件事不是检查门锁，是检查「敌人到没到」——而括号里那个愿望仍带着杀意（ch16 的石头）；「愿他仍然开进树里」的语法轻佻、情绪沉重：她对自己的杀意已经不需要负责了。
 **读者视角提示**：她对 Eeling 的态度已从恐惧转为「期待他出事」——这条线的终局可能与 ch16 的石头有关。
 
@@ -52,7 +52,7 @@ modified: "2026-11-17"
 > **原句 6:** "No. It's not belief. It's truth. Paige McMahon's murder was five years ago. There hasn't been another killing since. The calls come irregularly—some within weeks of each other and sometimes many months apart, and Hattie feels (knows) these are the times he's fighting not to do it. He calls her then, and she does her best to remind him he's not just a salacious news headline or a sleazy limited series on TV or even the urges that have snuffed out five lives now."
 
 **中文理解**：不。那不是相信，那是事实。Paige McMahon 的谋杀发生在五年前。此后没有再发生……
-**关键词**：No. It's not belief. It's truth. / five years ago / There hasn't been another kil
+**关键词**：No. It’s not belief. It’s truth. / five years ago / There hasn’t been another kil
 **为什么这样写**：三段自我纠正（不是相信／是事实）是全章的判决式节奏：她修正了自己的措辞，因为这个词更硬；**「五年前」是全书最重要的时间修正**：ch27 说「Paige 是 Tommy 逃亡八年来唯一已知受害者」，本章说谋杀是五年前——八年与五年相差三年，这三年的空白是全书最大的谜面（他在头三年做了什么？）。
 **读者视角提示**：**八年（逃亡）vs 五年（Paige 之死）= 三年空白**。这是作者埋的深洞：Part 3 之后是否会有解释？先钉住这个差值。
 
@@ -73,7 +73,7 @@ modified: "2026-11-17"
 > **原句 9:** "If the police can't keep him from killing, she'll do her best to."
 
 **中文理解**：如果警察拦不住他杀人，她会尽她所能。
-**关键词**：If the police can't / keep him from killing / she'll do her best
+**关键词**：If the police can’t / keep him from killing / she’ll do her best
 **为什么这样写**：九词句把全世界缩成两个选项：警察，或她；「尽她所能」（do her best）的谦逊与内容的狠厉并置——这是她第一次把自己写进「阻止」的位置，而不是「等待」的位置。
 **读者视角提示**：她从「知情者」变成「准执行者」。这条誓言是她后半程所有行动（与 Eeling 的合作、也许还有别的）的授权书。
 
@@ -94,21 +94,21 @@ modified: "2026-11-17"
 > **原句 12:** ""Yeah, Colm, I'm okay.""
 
 **中文理解**：「嗯，Colm，我没事。」标准的应付式回答——她对最亲近的人也用这句；「没事」的英文（I’m okay）与其说是回答，不如说是她八年练出的口头禅。
-**关键词**：Yeah, Colm, I'm okay
+**关键词**：Yeah, Colm, I’m okay
 **为什么这样写**：标准的应付式回答——她对最亲近的人也用这句话；「没事」的英文（I'm okay）与其说是回答，不如说是她八年练出的口头禅。
 **读者视角提示**：她的「我没事」在全书出现多次，每一次的听众不同——注意接收者，这与 ch22 的「银色舌头」呼应。
 
 > **原句 13:** "A pause from his end. "D called and filled me in last night. I'm so sorry.""
 
 **中文理解**：他那头停顿了一下。「D 昨晚给我通了气。非常抱歉。」
-**关键词**：D called / filled me in / I'm so sorry
+**关键词**：D called / filled me in / I’m so sorry
 **为什么这样写**：消息的传递路径在此交代清楚：Dustin→Colm→她；而 Colm 用「填我」（filled me in）这个词——被填的是他，被告知的是她：信息流经三人。
 **读者视角提示**：D＝Dustin 的简称。「昨晚通了气」= ch20 的三方通话发生在昨晚——时间线闭合。
 
 > **原句 14:** ""It's okay," she says automatically, even though it's not. But Colm is one of the last people she wants to feel responsible for this. Out of all four kids he's always been the most fragile. The most reserved. He appeared one day in their small town, an aunt begrudgingly taking him in after his mother passed away from a rumored drug overdose. Hattie never broached the topic of the scars on his forearms and hands that looked suspiciously like cigarette burns, only ever tried making him feel comfortable and welcome in their home after Tommy befriended him. And it seemed to work as he spent as many nights and weekends staying over as possible. The aunt never appeared to mind either—the most Hattie ever saw of the woman was a hand briefly waving from the car window when dropping him off. Colm became Tommy's shadow, always there, usually toting a book or astronomy magazine, happiest when sitting on their back deck peering through a cheap telescope at the night sky. It feels like I'm floating away, he'd told her one night gazing at the stunningly bright seam of galaxy overhead. Over the years he blossomed as well as any flower, and she'd felt her own bloom of pride at having a hand in the shy but deeply intelligent person he'd become. You weren't supposed to have a favorite child but that didn't apply to their friends, and Colm is hers."
 
 **中文理解**：「没事，」她机械地说，尽管并不是。但 Colm 是她最不愿意让……
-**关键词**：automatically / even though it's not / the last people she wants to
+**关键词**：automatically / even though it’s not / the last people she wants to
 **为什么这样写**：她又一次说「没事」（ch22 的第 N 次），并自陈「机械」——她清楚自己在说谎且不打算纠正；「最不愿意让……知道」把 Colm 划进她的「不告知」名单——他也在名单里，说明她的隐瞒不分亲疏，只分「会不会更痛」。
 **读者视角提示**：她对谁说谎、对谁说真话，是她的人物谱系——本句给出「最不愿意」的那一位。
 

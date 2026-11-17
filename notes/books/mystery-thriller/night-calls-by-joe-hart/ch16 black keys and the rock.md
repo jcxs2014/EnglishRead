@@ -73,7 +73,7 @@ modified: "2026-11-17"
 > **原句 9:** "She doesn't recall leaving the 4Runner's warm dryness, only that she's now halfway up the little house's driveway, walking through the rain with steady purpose. Yes. She's filled with it. Can feel it flooding her veins with each heartbeat. He's dancing! Now she can hear the music and recognizes the song. It's the one Tommy used to play at full volume when he still only had his learner's permit. It's "Everlasting Light" by the Black Keys. She would know it anywhere."
 
 **中文理解**：她不记得自己是什么时候离开 4Runner 的温暖干燥的——只知道此刻她已在小屋车道走到一半，冒着雨、带着稳定的目的感走着。是的。她满心都是这个「是」。能感觉到它随着每一次心跳灌满血管。他在跳舞！现在她听清了音乐，认出了那首歌。那是 Tommy 还只拿着学习许可证时全音量放过的歌——Black Keys 的《 Everlasting Light 》。她在哪儿都能认出它。
-**关键词**：steady purpose / flooding her veins / learner's permit / Everlasting Light
+**关键词**：steady purpose / flooding her veins / learner’s permit / Everlasting Light
 **为什么这样写**：转场的省略（不记得离开车）是执行性遗忘的第一次发作——她的身体在意识前面行动；「是」（yes）作为液体灌进血管——决心被写成静脉注射；歌名的揭晓把 Tommy 的幽灵接进场：Eeling 无意间放的是她儿子的歌——这一笔让行凶预演多了一层「回家」的错乱感。
 **读者视角提示**：记住这首歌（Black Keys〈 Everlasting Light 〉）——它是母子共享记忆的官方原声。后面哪里再响，哪里就是 Tommy 的引力场。
 

@@ -17,7 +17,7 @@ modified: "2026-11-17"
 > **原句 1:** "But even with all the normalcy of the market's comforts, Hattie can't shake this morning's feeling. The feeling of the owl and its watching eyes." Something's coming." The heart—"
 
 **中文理解**：可就算有市场这满满的日常慰藉，Hattie 还是甩不掉今天早上的那种感觉。猫头鹰的感觉，和它注视着的眼睛。有什么要来了。心——
-**关键词**：normalcy / watching eyes / Something's coming / The heart—
+**关键词**：normalcy / watching eyes / Something’s coming / The heart—
 **为什么这样写**：上一章刚被「No.」掐掉的短语，这里又只冒出两个词就断——作者的侵入装置开始做「未完成」形态：不给你内容，只给你起头；「有什么要来了」单独成段，是本章唯一一句裸露的预感。市场的安逸写得越具体，这句就越显得无理——预感不讲道理，这正是它的写法。
 **读者视角提示**：「The heart—」连续两章以残句形态出现（ch04 完整浮现、ch05 只剩开头）。短语的每一次露头都是同一根线在收紧；而猫头鹰从 ch03 的枯松跨到 ch05 的购物通道——它现在跟着她进室内了。
 

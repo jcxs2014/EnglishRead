@@ -31,7 +31,7 @@ modified: "2026-11-17"
 > **原句 3:** "Rainwater drips steadily from Eeling's chair onto the floor, and he makes a show of trying to dry everything along with himself. But he's absolutely mistaken if he thinks she's going to offer him a towel. Let him soak."
 
 **中文理解**：雨水从 Eeling 的椅子上稳定地滴到地板上，他做样子般忙着把所有东西连同自己擦干。但他要是以为她会递条毛巾，那就大错特错了。让他泡着。
-**关键词**：drips / make a show / towel / Let him soak
+**关键词**：drips / makes a show / towel / Let him soak
 **为什么这样写**： hospitality 的否决被写成政策——「让他泡着」三个词是她好客度的全部余量；他的「做样子」（make a show）被她当场识破：他在演礼貌，她也识破了礼貌是缓兵之计。两人都在演，且都知道对方在演。
 **读者视角提示**：她的待客底线（毛巾都不给）与 Sloan 的灯光（ch11 唯一想去的暖处）对读——她的温情是按名单发放的，Eeling 名字压根不在册。
 
@@ -45,7 +45,7 @@ modified: "2026-11-17"
 > **原句 5:** "If her words have any effect on him, he doesn't show it. Only dips his head once. "What you see is what you get."" "I doubt that very much." She surveys him again. "Let me see some ID."" With a bemused smile he unfolds his saturated wallet and shows her a New York State driver's license. "Lost a little weight since that was taken," he says before tucking it away. "But I'm me.""
 
 **中文理解**：她的话若有作用，他没表露——只点了一下头。「我是什么样就什么样。」「那可未必。」她再把他打量一遍。「给我看看证件。」他带着点被逗乐的笑打开湿透的钱包，给她看一张纽约州驾照。「拍那张照之后瘦了一点，」他说完又塞回去。「但我就是我。」
-**关键词**：dips his head / What you see is what you get / saturated wallet / But I'm me
+**关键词**：dips his head / What you see is what you get / saturated wallet / But I’m me
 **为什么这样写**：他的三个应答（点头、格言、证件）全是低功耗防御——不辩解、不表演；「湿透的钱包」与她的「只倒一杯」互为镜像：两人都在用物质状态声明立场；「But I'm me」这句轻佻的哲学回敬了她的查证——但讽刺的是，她真正查的是「他是不是他」。
 **读者视角提示**：他不出示任何解释、只出示驾照——查证战他让了一城。他越稳，越说明他料到了这轮盘问：他对她做过的功课，可能不比她对他的少。
 
@@ -59,7 +59,7 @@ modified: "2026-11-17"
 > **原句 7:** "Usually, he would retreat to his woodshop until she'd calmed down and was ready to talk. And he's right, the anger's like a kicked hornet's nest in the center of her chest. But releasing it on the man sitting across from her will only accomplish one thing—putting a confused and heartbroken look on the little boy's face next door. And she's not willing to do that. Not unless she has no other choice."
 
 **中文理解**：通常，他会退进木工房，直到她平静下来、愿意谈了为止。而他是对的——那股怒气像她胸口正中被踢翻的马蜂窝。但把它撒在对面这个人身上只会换来一个结果：让隔壁那个小男孩一脸困惑、心碎。她不愿这么做。除非她别无选择。
-**关键词**：woodshop / kicked hornet's nest / little boy / no other choice
+**关键词**：woodshop / kicked hornet’s nest / little boy / no other choice
 **为什么这样写**：愤怒的去向被一个孩子的脸改道——她的火力管制系统第一次亮出核心参数：Julian 的表情是最高优先级；「木工房」补全 Ed 的避让地图（ch04 锯末创伤的正门）：婚姻里他们的协议是空间换时间。怒气无处可去，只好签协议——采访就是这个协议的形态。
 **读者视角提示**：她为什么接受采访？本章给出的隐藏理由比「条件」更深：与其让 Eeling 去撬 Crawfords，不如把爆炸控制在自己厨房里。她的每个「愿意」都带着「不得不」的利息。
 
@@ -80,7 +80,7 @@ modified: "2026-11-17"
 > **原句 10:** ""You agreed to tell me—"" "And I think you already know," he says, a hint of ice entering his voice. She absorbs this, waiting for a sign that he's lying, and sees none. And he's right. Old Occam's razor had guided her to the answer sometime after his initial appearance and before she'd finally drifted off to sleep in the dead hours of morning."
 
 **中文理解**：「你答应过要告诉我——」「而我想你已经知道了。」他说，声音里进了一丝冰。她吸收这句话，等着抓他撒谎的迹象——什么也没看到。而他是对的。老掉牙的奥卡姆剃刀，早在他初次现身之后、她在死寂的凌晨终于睡去之前，就已经把答案递到她手里。
-**关键词**：hint of ice / sees none / Occam's razor / dead hours
+**关键词**：hint of ice / sees none / Occam’s razor / dead hours
 **为什么这样写**：答案被两个人同时持有（他知道她知道）——这场「怎么找到我」的问答在开始前就已结束：剩下的只是程序；「一丝冰」是他全章唯一的温度变化——被问到行踪来源时他的从容出现裂缝。剃刀给出的最简解释（她自己泄露的）比任何阴谋论都疼。
 **读者视角提示**：她「已经知道」的答案是什么？本章不说破——但下一句的「打给过去的长途」就是答案的轮廓：泄露点在她自己的过去。等文本点名。
 

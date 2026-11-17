@@ -59,14 +59,14 @@ modified: "2026-11-17"
 > **原句 7:** "He shook his head as if he weren't going to say but she waited him out. "It's no secret why I'm here," Tommy said. "Word got around to the wrong guys." "I'm going to have Billy request you be moved into a different—""
 
 **中文理解**：他摇了摇头，像是不打算说，但她等着他自己说。「我为什么在这儿，原因是明摆着的。」他终于说道。 「我要让 Billy 申请把你转到另一个——」
-**关键词**：shook his head / waited him out / no secret why I'm here / Billy / request you be moved / different—
+**关键词**：shook his head / waited him out / no secret why I’m here / Billy / request you be moved / different—
 **为什么这样写**：「she waited him out」是全章最漂亮的一处技术叙述——等待成了动作，与她整个等待人生互文；「明摆着的原因」把他的处境简化为一句常识：他在牢里，因为她在这里，这个「原因」回避了真正的罪名。 她开口的第一件事是行政性的——调换牢区：一个母亲在用程序语言处理绝望；「我要让 Billy 申请把你转到另一个——」被 Tommy 用摇头打断，这句未完成的话与后面那句完整的「It doesn't matter」构成正面冲撞。
 **读者视角提示**：注意她的耐心（等）与他的回避（摇头）：这是他们之间全部对话的模板——她等，他不说。 Billy Wescot 在此正式进入母子场景——她是靠律师与制度做母亲的人。
 
 > **原句 8:** "He quieted her with another faint shake of his head. "Doesn't matter.""
 
 **中文理解**：他又用一次轻轻的摇头让她住口。「无所谓。」
-**关键词**：faint shake of his head / Doesn't matter
+**关键词**：faint shake of his head / Doesn’t matter
 **为什么这样写**：她的关心被一句「无所谓」挡回——三个词是他交给母亲的全部判决；这个「无所谓」在下一段会由他自己重复三遍升级为原则性宣言。
 **读者视角提示**：第一次说「无所谓」像是在拒绝她的安排；第二次说则像是在放弃他自己。这条递进是本章的核心。
 
@@ -87,7 +87,7 @@ modified: "2026-11-17"
 > **原句 11:** ""It. Doesn't. Matter," Tommy said, speaking slowly and so low she could barely hear him. "It wouldn't matter if they let me out tomorrow. No one believes me.""
 
 **中文理解**：「结、束、了。」Tommy 说得很慢，声音低得她几乎听不见。「一切都结……
-**关键词**：It. Doesn't. Matter / speaking slowly / so low she could barely hear him
+**关键词**：It. Doesn’t. Matter / speaking slowly / so low she could barely hear him
 **为什么这样写**：三个词各自成句（It. Doesn't. Matter.）——句号是他自己的锤子；「说得极慢、声音低得几乎听不见」把宣判伪装成耳语——最重的话用最轻的方式说，与 ch01「说给自己听的 mantra」互为表里，只是主角换了。
 **读者视角提示**：**这三句是全书对 Tommy 判词的核心**：他不在乎了——不是案子不在乎，是他不在乎了。这个「不在乎」后面接什么，会决定全书的方向。
 
@@ -101,7 +101,7 @@ modified: "2026-11-17"
 > **原句 13:** "And Hattie couldn't tell if it was because she was losing sight of who he was, or finally seeing him for the first time."
 
 **中文理解**：而 Hattie 分不清这是因为她正在看不清他是谁，还是终于看清了。
-**关键词**：couldn't tell / losing sight of who he was / finally seeing
+**关键词**：couldn’t tell / losing sight of who he was / finally seeing
 **为什么这样写**：这是全书关于「认知」的核心句式之一，且用「分不清」（couldn't tell）而不是「不知道」——两种解释同样成立：她可能失去了儿子，也可能终于失去了幻想；作者拒绝裁定，把这份不确定性永久留在句子里。
 **读者视角提示**：与 ch03 的「try attributing」同族：她一生都在做归因练习，而这一次她对自己的归因失去了把握。
 
@@ -133,7 +133,7 @@ modified: "2026-11-17"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | haunted | 萦绕不去的、鬼影般的 | And in his haunted gaze she saw, or more accurately didn’t see, something that terrified her. |
-| ward/warden | 看守／典狱长 | Superficial. She wondered if the block officer or the warden would call them superficial if the |
+| warden | 看守／典狱长 | Superficial. She wondered if the block officer or the warden would call them superficial if the |
 | battered | 被打得满身伤疤的 | And surrender was what she saw now in the battered features of her only child. |
 | battered | 被打得满身伤疤的 | And surrender was what she saw now in the battered features of her only child. |
 

@@ -45,7 +45,7 @@ modified: "2026-11-17"
 > **原句 5:** "Ed bought the sweater for her, probably for Mother's Day one year, and it became her go-to garment. The one that barely ever gets washed because it's used so much. It's become worn and a bit frayed, but it's tough wool that will last. Which has outlasted the man who gave it to her."
 
 **中文理解**：毛衣是 Ed 买的——大概是某一年的母亲节——后来成了她的常备服。那件几乎从来不洗的衣服，因为穿得太多。它已经磨损、有点起毛，但羊毛坚韧，会一直耐用下去。它比送毛衣的人活得久。
-**关键词**：Mother's Day / go-to garment / frayed / outlasted
+**关键词**：Mother’s Day / go-to garment / frayed / outlasted
 **为什么这样写**：「母亲节」两个字是全章埋得最深的针——Ed 认定的那个母亲身份，如今她以非母亲的身份偷偷续用（照顾孙子）；「比送的人活得久」是全章最狠的收梢：耐用性写成悼词，羊毛的寿命成了她失去的计量单位——她身上的每一样旧物都比爱人长寿。
 **读者视角提示**：Ed 的礼物清单在扩容：教法棍（ch02）、工坊的记忆（ch04）、毛衣（本章）。一个死人的品味正在替他持续出场——留意后面还有什么。
 

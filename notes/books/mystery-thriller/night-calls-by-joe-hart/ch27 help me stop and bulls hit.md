@@ -31,7 +31,7 @@ modified: "2026-11-17"
 > **原句 3:** "It's like this every time there's a call. She pretends she'll be able to sleep afterward, even going through the pretense of readying for bed and lying down and closing her eyes, then waiting for sleep to come. But it never does. Her mind hamsterwheels with "what-ifs" and detailed rewrites of the past until she climbs back out of bed to at least be upright with her thoughts."
 
 **中文理解**：每次有电话都是这样。她假装自己之后能睡着，哪怕在……
-**关键词**：every time there's a call / pretends she'll be able to sleep
+**关键词**：every time there’s a call / pretends she’ll be able to sleep
 **为什么这样写**：「假装自己能睡着」把她的失眠归因于电话——而本章接下来会证明：电话的另一头根本没有人在听；她的失眠其实来自她自己在对着死线说话；这是一处精心埋设的读者先知（读者读到本章末尾会回头重读这句）。
 **读者视角提示**：作者在这里撒了一个「读者优于角色」的钩子——她不知道电话那头没人，但读者会在两页后知道。
 
@@ -45,7 +45,7 @@ modified: "2026-11-17"
 > **原句 5:** "When the late-night calls began she hadn't known what they were. Or moreover who they were. They'd started a little over six months after she'd moved to the cove—hangups at first by a number she didn't recognize, her old phone only ringing a time or two before disconnecting, the calls themselves months apart. She'd thought they were telemarketers or scammers or wrong numbers and dismissed them. It wasn't until she actually began answering them and hearing the open line and the infrequent quiet breath that she started to wonder. She knew for sure it was Tommy calling after the death of Paige McMahon and the subsequent text a week later."
 
 **中文理解**：那些深夜电话刚开始的时候，她还不知道那是什么。更不知道那是谁。它们从某个……
-**关键词**：hadn't known what they were / who they were / started
+**关键词**：hadn’t known what they were / who they were / started
 **为什么这样写**：全章的第一个关键信息用「不知道那是什么／不知道那是谁」双重否定开场——她最初把来电当成威胁（陌生电话＝危险），用了很久才确认那是她儿子；「更不知道那是谁」这种别扭的强调式，说明她是在叙述一件自己曾长期误读的事。
 **读者视角提示**：时间线在这里分叉：电话开始于何时（ch18 提过「Paige McMahon 和那次目击」是更近的事）？往后读时把「来电开始」与「Pagie 案」两条时间线对表。
 
@@ -94,7 +94,7 @@ modified: "2026-11-17"
 > **原句 12:** "She recalls the initial skepticism in the detective's voice when she'd told him what was happening, but he'd agreed to look into the calls if she signed a release to access her phone account. He'd gotten back to her a week later saying the number was registered to a burner phone that had been purchased with cash at a roadside market in Delaware. No cameras in the place, Ramsby had said with a faint wheeze, and she wondered then if the cigarettes she'd smelled on him during their first meeting were taking their toll. No way to confirm it was Tommy who bought it. We did use cell towers to locate where the text originated from—it was near a hotel complex in North Carolina, coulda been from anywhere in a block radius. She'd asked if they were going to canvass the area, if they wanted her cell to continue the search, what they needed from her."
 
 **中文理解**：她还记得她告诉探长正在发生什么时，他声音里那种最初的怀疑……
-**关键词**：initial skepticism / in the detective's voice
+**关键词**：initial skepticism / in the detective’s voice
 **为什么这样写**：回忆被写成「声音」——她记住的不是词，是语调；怀疑的音质是她这八年的背景音，也是她对官方系统全部期待的起点。
 **读者视角提示**：她的感官记忆法（语调＞事件）在本书一以贯之——潮位、屏保、语调、引擎声。她的证词也是声音构成的。
 
@@ -115,7 +115,7 @@ modified: "2026-11-17"
 > **原句 15:** "Nothing to do, really. I mean, whoever this is hasn't made any threats. And I know you're still thinking it's your son, but there's nothing to prove it's him. He's never said anything, right? She'd answered this with her own spate of silence. Since there's no way to confirm it's Tommy, we don't have much to go on. Like I said, probably some whack playing a prank. My advice, try to forget it. If anything changes, you let me know. "Yeah, right," she says, her breath pluming again. Whether Ramsby's dismissal was justified or lazy or just good old-fashioned misogyny, she'll never know."
 
 **中文理解**：没什么可做的。我是说，不管这人是谁，他还没发出任何威胁。我知道你还是觉得那是…… 「是啊，说得对，」她说，呼吸又一次在空气里 plume 成一团。不管 Ramsby 的否定是 justified、是懒惰，还是只是……
-**关键词**：Nothing to do / hasn't made any threats / you still think it's / Yeah, right / breath pluming / justified or lazy
+**关键词**：Nothing to do / hasn’t made any threats / think / Yeah, right / breath pluming / justified or lazy
 **为什么这样写**：探长的推理被完整引用（他说的对：来电者没有威胁、没有身份、可以不理会）；作者把这段话摆出来，是为了让读者自己完成推理：为什么她坚持不懈地打了八年的电话？——因为威胁不在话里，在**信号本身**。 她的「是啊，说得对」是嘲讽而非同意——嘴上的配合与心里的否定被一个语调分置；「plume」（羽状地散开）把呼吸写成 plume——她的呼气像鸟羽，与猫头鹰的意象在同一章共存。
 **读者视角提示**：注意探长的逻辑漏洞：他要求「威胁」作为行动的理由；而她的理由是别的东西（“Help me stop”）。这一段是全书最精彩的一次「专业理性 vs 病理直觉」对撞。 她把探长的态度拆成三种可能（有理、懒惰、单纯的好政府）——这三项里，读者会同意第三项。
 ## 本章词汇

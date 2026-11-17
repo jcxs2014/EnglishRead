@@ -45,21 +45,21 @@ modified: "2026-11-17"
 > **原句 5:** ""It's not fair," Ed finally said. "None of this is." "No. I mean to him. To the child. He can't grow up in the shadow of this." "He would have us." "Nothing would ever be normal for him. No matter how hard we tried.""
 
 **中文理解**：「这不公平，」Ed 终于说。「这些全都不公平。」「不。我的意思是对他。对那个孩子。他不能活在这件事的阴影里。」「他会有我们。」「他不会……无论我们多努力。」她早就准备好了这一步，朝他走近一步。「我们可以改名字。搬走。没有人会找——
-**关键词**：It's not fair / He can't grow up in the shadow of this / He would have us / Nothing would ever be normal for him
+**关键词**：It’s not fair / He can’t grow up in the shadow of this / He would have us / Nothing would ever be normal for him
 **为什么这样写**：**两种父母观的正面交锋**：Ed 的「他会有我们」是朴素的确信（我们有爱就够了）；她的「他不能活在阴影里」是创伤的推论（爱不能抵消污名）；「他不会……无论我们多努力」的省略让她的反驳卡在半空——她自己也知道这是空话。**「我们可以改名字」是全书最大的暗线在此第一次被说出口**：几年后她成了 Mary Whittaker、住在海湾对岸、每天送假品牌的奶油——她的未来在这一句里被写好了。
 **读者视角提示**：**这是全书因果链的枢纽章**：改名搬走＝ch06 的化名、ch05 的 Worthington 奶油、ch22 的邻居身份、ch01 的空枕——全部从这一句长出来。
 
 > **原句 6:** "She'd been ready for this and took a step closer to him. "We could change our names. Move away. No one would find us." Ed made a sound she didn't recognize at first as a laugh. "It doesn't matter if we change our identities and leave the country, we can't run from this because it is us. We made this. You want to raise him as someone else? What will you say when he asks who his parents are? When he starts searching for them on his own or when he doesn't believe the lies anymore? Do you think he'll thank you for it? For hiding the truth from him?" Ed's raised voice came at her from all sides of the room. "You're talking about hope." He slammed a closed fist against his chest, and it was only then that she saw how close to tears he was. "And it's been wrung out of me.""
 
 **中文理解**：她早就准备好了这一步，朝他走近一步。「我们可以改名字。搬走。没有人会找得到我们——」Ed 发出一个她起初没听出来的声音，像笑。「就算我们改了身份、搬了家，」他说，「也没有用。」
-**关键词**：She'd been ready for this / took a step closer / We could change our names / Move away
+**关键词**：She’d been ready for this / took a step closer / We could change our names / Move away
 **为什么这样写**：**「我们可以改名字」是全书最大的暗线在此第一次被说出口**：几年后她成了 Mary Whittaker、住在海湾对岸、每天送假品牌的奶油——她的未来在这一句里被写好了；「朝他走近一步」是身体语言的政治：她不是要求，她是在谈判桌上前倾；Ed 那声「不像笑的 laugh」是他在这一章里唯一一次情绪失控，紧接着他把她的方案拆成两半：改名与搬家都不解决「他是谁的」。
 **读者视角提示**：**这是全书因果链的枢纽章**：改名搬走＝ch06 的化名、ch05 的 Worthington 奶油、ch22 的邻居身份、ch01 的空枕——全部从这一句长出来。
 
 > **原句 7:** "She wanted to go to him then. Strike him and hold him all at once. "This isn't about you. It's about holding on to what's left." Something told her she should stop, some instinctual fear she couldn't see the shape of. But instead of dampening the flames of her anger it only fanned them. "You spend all day in that shop making . . . fucking banister spindles and pretending this isn't happening, but it is!" He turned away, leaning heavily against the counter. "You think that's what I've been doing? Pretending? I've been mourning. I've been saying goodbye to my son." His voice broke on the last word and he started for the door. "I'll do it without you then," she said, the words slipping free before she could stop them. He hesitated, the door partially open. There was a breeze and she could hear the dry clicking of the leaves yet to fall. She was in awe at the cruel harshness of this moment that had been awaiting them all their lives. "You're right, this isn't about me," Ed finally said so low she could barely hear him. "And it's not about Tommy or Leah or the baby." He brought his gaze up to hers. "I'm not the one pretending." Ed stepped outside and shut the door. She went somewhere else again, reeling from the hurt and from doing the hurting."
 
 **中文理解**：她当时真想走过去，同时打他、抱住他。「这不是关于你。这是关于为那——」Ed 转开身，重重靠在台面上。「你以为我这是在做什么？假装？我——」「那我一个人做。」她说完就脱口而出，根本来不及拦。他犹豫了，门半开着。有风，她能听见外面叶子的干燥咔哒声。Ed 走出——门，关上。她又去到了别处，因着那份伤害，也因着自己施加的伤害而晕眩。
-**关键词**：Strike him and hold him all at once / I'll do it without you then / dry clicking of the leaves / shut the door
+**关键词**：Strike him and hold him all at once / I’ll do it without you then / dry clicking of the leaves / shut the door
 **为什么这样写**：她的冲动是「打他、抱住他」同时进行——攻击与拥抱不矛盾，这是她对 Ed 的全部感情公式；**「那我一个人做」是五个字的人生转向**：她在此刻从「我们」退到「我」，从此独自上路；Ed 关门的动作是全章的最后一个日常动作——门＝边界（ch29 的门廊、ch24 的锁门）。
 **读者视角提示**：**「I'll do it without you then」是 Hattie 从「妻子」变成「行动者」的分水岭**：八年后的她仍在执行这句话；「因自己施加的伤害而晕眩」是她第一次承认自己有施害性。
 
@@ -87,7 +87,7 @@ modified: "2026-11-17"
 > **原句 11:** "It had somehow become evening—the horizon glowed a jack-o'-lantern orange, the trees dark scores against it, and it was so beautiful she couldn't think of anything else. If there were still sunsets like this, why couldn't they mend the wreckage between them? She recalled a day only weeks before Tommy's arrest when she and Ed had taken a walk in the meadow behind their house. It was unseasonably warm, and she wasn't sure if it had been the sweetness of growing things in the air or the way the light slanted through the budding trees, but they'd found themselves sprawled in a soft patch of new grass, nearly frantic with need for one another. If someone had happened along on the walking trail between their property and the neighbor's they would've gotten an eyeful, and maybe that made it all the more exciting. When they'd finished Ed had laughed and commented they were acting like teenagers again. She'd thought there was nothing wrong with that. It might've been just about the most right thing in the world. Had Tommy's terrible actions erased their love? Could they survive this? Did she want them to?"
 
 **中文理解**：不知怎么，天已经黑了下来——地平线泛着南瓜灯般的橙色，树是深色的刻痕。Tommy 那些可怕的行为抹杀了他们的爱吗？他们能撑过去吗？她想和他一起撑过去吗？
-**关键词**：jack-o'-lantern orange / trees dark scores against it / erased their love / Could they survive this
+**关键词**：jack-o’-lantern orange / trees dark scores against it / erased their love / Could they survive this
 **为什么这样写**：南瓜灯＝伪装的恐怖与可爱，这本书的恐怖常以可爱面目出现（猫头鹰、石头的「天然裂口」）；三个问句把本章的争点摊开：爱（还是不爱）、生存（还是崩）、意愿（还是不想）——最后一个把问题从命运转向选择。
 **读者视角提示**：**她的「他们能撑过去吗」就是本书后半程的剧情本身**——她后来撑过去了（独自）。
 

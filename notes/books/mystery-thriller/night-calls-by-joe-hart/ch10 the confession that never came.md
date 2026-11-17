@@ -66,7 +66,7 @@ modified: "2026-11-17"
 > **原句 8:** ""—were actually considering getting him into therapy. God, wouldn't Kevin's parents just love to hear that."" "You should," Hattie says. Wendy blinks in surprise. "It would be good to have him see someone."" "You really think so?"" "I do.""
 
 **中文理解**：「——其实正在考虑带他去做心理治疗。天哪，Kevin 的父母听说这个还不知道多高兴。」——「应该去，」Hattie 说。Wendy 惊讶地眨眨眼。「让他见见专业的人是好事。」——「你真这么想？」——「我这么想。」
-**关键词**：therapy / blink in surprise / see someone / I do
+**关键词**：therapy / blinks / see someone / I do
 **为什么这样写**：她的建议斩钉截铁（应该去/是好事/我这么想）——三步递进没有留转圜：她在推 Julian 进专业帮助，这份急切与她自己二十年不求助形成暗对照；Wendy 的惊讶说明这通背书超出了邻居的常规权限——祖母位置的介入深度又添一层。
 **读者视角提示**：注意她说「我这么想」时的笃定——一个连自己是谁都开始不确定的人（章末），唯独对「Julian 需要帮助」这件事确定。她的确定感全部集中在别人身上。
 

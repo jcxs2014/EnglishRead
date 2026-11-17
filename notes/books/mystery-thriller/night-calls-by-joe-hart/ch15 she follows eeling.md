@@ -53,7 +53,7 @@ modified: "2026-11-17"
 > **原句 6:**  "He didn't have a solid alibi for any of the other three killings, so they were able to convict on each of them. Unanimous guilty verdict," he says, leaning forward. There's a faint tremor in his hands that could be excitement or something else before he clasps them together. "I've read all the police reports and court transcripts. Interviewed dozens of people surrounding the case. But that's not why I'm here.""
 
 **中文理解**：「另外三起命案他都没有扎实的不在场证明，所以每一起都能定罪。陪审团一致裁定有罪，」他身体前倾着说。他的手有一丝轻微的颤抖——可能是兴奋，也可能是别的东西——然后他把手握在一起。「警方的报告和庭审笔录我全读过。案子周边的人我访谈了几十个。但这不是我来的原因。」
-**关键词**：solid alibi / Unanimous / tremor / not why I'm here
+**关键词**：solid alibi / Unanimous / tremor / not why I’m here
 **为什么这样写**：「一致的裁决」四个字是无懈可击与一无所有的同义词——程序完美反而封死了翻案叙事；他的手颤是本章给他的第二个人性裂缝（屏保之后）：激动还是别的？「但那不是我来的原因」是钩子的正式抛出——他造了这么大的势，为的是下一句的「你」。
 **读者视角提示**：他的功课量级（全部卷宗+几十个访谈）说明这是多年的项目。一个把职业生涯押在 Tommy 书上的记者——他需要这本书的程度可能不亚于她需要安全。
 
@@ -67,7 +67,7 @@ modified: "2026-11-17"
 > **原句 8:**  "How original." Hattie jerks the dishwasher open and places her glass inside. Slams it shut. "Like that hasn't been done to death." "You're right. But my book will be different. It's—" "It's what?" Hattie asks when he doesn't go on. "Let's just say no one's written about Tommy like I am."
 
 **中文理解**：「真有原创精神。」Hattie 猛地拉开洗碗机，把杯子放进去。砰地关上。「这种写法早被做烂了。」「你说得对。但我的书会不一样。它是——」「那你说是什么？」她问，在他没接下去的时候。「这么说吧——没有人像我这样写过 Tommy。」
-**关键词**：How original / Slams it shut / different / no one's written
+**关键词**：How original / Slams it shut / different / no one’s written
 **为什么这样写**：她用嘲讽和摔洗碗机的门并行——语言的轻慢与身体的重击互相翻译；「做烂了」的市场化吐槽顺手带出 Tommy 案的公众体量（无数文章、半打书、两部烂剧——上一段）；「没有人像我这样写过」是他全部底牌的遮掩——不亮内容，只亮独特性：谈判者的空头支票。
 **读者视角提示**：他三次拒绝说明书里有什么（ch12 条件二没兑现、本章「不同」、这句「这么说吧」）。他的书内容是全书最大的悬置资产之一。
 
@@ -88,7 +88,7 @@ modified: "2026-11-17"
 > **原句 11:**  "Something softens in Eeling's expression. "I know you think I'm a sleaze and I'm sorry this hurts to talk about. But maybe you'll understand in the end. Maybe you'll even thank me." With that he goes out into the rain, leaving her open mouthed and incredulous. Thank him? Thank him for dredging up some of the most painful moments of my life? It's good Ed's handgun is locked away, because if she were holding it now, the receding shape of Eeling's back might prove to be too tempting of a target."
 
 **中文理解**：Eeling 的表情有什么软化了。「我知道你觉得我是个下流胚，我很抱歉谈这些让你疼。但也许你最后会理解。也许你甚至会感谢我。」说完他走进雨里，留下目瞪口呆、难以置信的她。幸好 Ed 的手枪是锁着的——因为如果此刻枪在她手里，Eeling 远去的背影可能会变成一个太诱人的靶子。
-**关键词**：softens / sleaze / thank me / tempting target
+**关键词**：softens / sleaze / thank me / tempting
 **为什么这样写**：他的道歉与「感谢我」的预告并置——施害者姿态里掺进使命感，这是他这个人物最不安的一笔：他可能在真的相信自己是解药；「感谢我」的荒谬点燃她的杀意想象——枪的细节（锁着的）既是克制也是自供：她与暴力之间只隔一把锁。
 **读者视角提示**：「也许你会感谢我」是 Eeling 的第二句预告式台词（第一句：结束时全告诉你）。预言在这本书里都要回收——记住它，等那个「感谢」的场景。
 

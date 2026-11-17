@@ -52,7 +52,7 @@ modified: "2026-11-17"
 > **原句 6:** "He's nodding as if he expected this. "I know you've never given an interview, and I'm sorry to . . . demand one like this, but I'm serious. If you don't talk to me, I'll tell them." His head tips toward the Crawfords', and she sees a thinly stitched quilt coming apart at the seams. How had she ever believed it would hold together? It's an actual miracle it's lasted this long."
 
 **中文理解**：他点头，仿佛早就料到。「我知道你从没接受过采访，也很抱歉用……这种强求的方式——但我是认真的。你不跟我谈，我就告诉他们。」他的头朝 Crawfords 家偏了偏；她看见一床薄线缝的被子正从接缝处开线。她怎么会相信它能撑到今天？能撑到现在，已经是奇迹。
-**关键词**：nodding / demand / I'll tell them / quilt
+**关键词**：nodding / demand / I’ll tell them / quilt
 **为什么这样写**：他的道歉与威胁缝在同一句话里——「sorry to demand」与「I'll tell them」之间连标点的呼吸都是算计；头的偏转给威胁标定坐标（Crawfords=Julian 全家）；「薄被子」是她对自己保护网的当日质检报告——针脚薄、已开线、撑到今天纯属奇迹：她的安全观从「防线尚可」瞬间修正为「全面过期」。
 **读者视角提示**：他的杠杆从来不是信封的内容，而是「告诉他们」这个动作本身——她最怕的从来不是自己的暴露，是暴露溅到 Julian 身上。这个结构性弱点，Eeling 一次就用对了。
 
@@ -83,7 +83,7 @@ modified: "2026-11-17"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| tumbling/tumble | 翻滚、打滚 | A gust of wind coasts across the yard in a bright tumble of fallen leaves, and she smells the autumn air. |
+| tumbling | 翻滚、打滚 | A gust of wind coasts across the yard in a bright tumble of fallen leaves, and she smells the autumn air. |
 | stock-still | 一动不动的 | Instead, she stands stock-still on the porch, watching him climb behind the wheel of his gray compact car and start it up. |
 | quilt | 拼布被、被子 | His head tips toward the Crawfords', and she sees a thinly stitched quilt coming apart at the seams. |
 | seams | 接缝、线缝 | His head tips toward the Crawfords', and she sees a thinly stitched quilt coming apart at the seams. |

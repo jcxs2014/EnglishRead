@@ -94,7 +94,7 @@ modified: "2026-11-17"
 > **原句 12:** "Hattie gives him a faint smile. Worthington's Creamery has been out of business for nearly a year. She hasn't had the heart to tell him since it's one of the few pleasures he has left. Instead she's continued the charade by transferring the Mottles cream into the old Worthington's bottles. The fact that Sloan is enjoying the very clotted cream he denounced as deeply inferior no longer provides her the amusement it once did. And it isn't another what-he-doesn't-know-won't-hurt-him scenario. It's an extension of what she's become. Another reminder the woman Sloan knows and has come to trust is a false exterior."
 
 **中文理解**：Hattie 对他露出一个淡淡的微笑。Worthington 奶油厂已经停业将近一年。她没忍心告诉他——这是他仅剩的几样乐趣之一。所以她继续把这出戏演下去：把 Mottles 的奶油灌进旧的 Worthington 瓶子里。Sloan 正在享用他曾深恶痛绝的次品奶油，这件事已经不再像从前那样逗她了。这也不再是又一件「他不知道就伤不到他」的事。它是她变成的样子的延伸。又一个提醒：Sloan 所认识、所信赖的那个女人，是一层假的外壳。
-**关键词**：out of business / the charade / false exterior / extension of what she's become
+**关键词**：out of business / the charade / false exterior / extension of what she’s become
 **为什么这样写**：本章最锋利的一刀用喜剧包装：一瓶假品牌的奶油承担她全部的自欺；「不再逗她」标记出她道德货币的贬值；「不再是他不知道就伤不到的事」——作者亲自把读者从「善意谎言」里拽出来，宣布这类辩解已经破产；「假的外壳」回到 ch05 的「护甲」词族——她的比喻系统全书自我修订：墙→薄纱→甲胄→外壳，越来越薄也越来越多。
 **读者视角提示**：这一段是全书对「善意的谎言」的定性转折点。她的谎言从此不再是中性的保护色，而是她身份的一部分。后面每一次她对 Sloan 的沉默，都带着这一段的重量。
 
@@ -108,7 +108,7 @@ modified: "2026-11-17"
 > **原句 14:** "Julian is her shade of joy. And for her he is touched by Tommy's memory. That and her own guilt that stains the fabric of most days. She can only hope Julian is free from the darkness that consumed her son. For now, hope is all she has."
 
 **中文理解**：Julian 是她那份色阶的快乐。对她而言，他被 Tommy 的记忆触碰着。还有那份染污了她大多数日子织物的罪恶感。她只能希望 Julian 能从吞噬她儿子的那片黑暗里自由出来。眼下，希望就是她拥有的一切。
-**关键词**：shade of joy / touched by Tommy's memory / stains the fabric / hope is all she has
+**关键词**：shade of joy / touched by Tommy’s memory / stains the fabric / hope is all she has
 **为什么这样写**：三个短句把「祖母」的定义写完：快乐+记忆+罪恶；「希望是她拥有的一切」是本章的收束（也是 ch09「像改变」的延续）——她的全部资产只剩「希望」，而希望的对象是一个她必须隐瞒的孩子。
 **读者视角提示**：注意「free from the darkness that consumed her son」——她给 Julian 的祝福是「别变成你父亲」。这条恐惧线贯穿全书；它是她守在 Julian 身边的真正动力，也是她最可能自我欺骗的地方。
 

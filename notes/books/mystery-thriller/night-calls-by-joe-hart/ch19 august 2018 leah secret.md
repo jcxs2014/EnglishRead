@@ -38,7 +38,7 @@ modified: "2026-11-17"
 > **原句 4:** "When Leah had quieted somewhat Hattie shut the door and guided her to a chair at the dining room table and sat beside her. She held one of Leah's hands and waited. Leah wiped absently at her swollen eyes. "Sorry," she whispered. "I didn't mean to cry. I thought I got it all out on the way over." "It's okay. Tears don't scare me.""
 
 **中文理解**：等 Leah 安静了些，Hattie 关上门，引她坐到餐桌旁的椅子上，在旁边坐下。她握住 Leah 的一只手，等着。Leah 心不在焉地擦着肿起的眼。「抱歉，」她低声说，「我不是要哭。我以为来的路上都流完了。」「没关系。眼泪吓不到我。」
-**关键词**：guided / held one of Leah's hands / Tears don't scare me
+**关键词**：guided / held one of Leah’s hands / Tears don’t scare me
 **为什么这样写**：「眼泪吓不到我」是她这个阶段的座右铭——一个被恐怖浸透的人对悲伤免疫；「以为流完了」的误会暗示哭是无底的：创伤不按次数供给。握手与等待是她的急救手册——不劝、不问、先在场。
 **读者视角提示**：与 ch01 的 mantra 并读——「放它进来」的哲学在待人上就是「眼泪吓不到我」。她的生存技术与她的待人之道同源。
 
@@ -59,7 +59,7 @@ modified: "2026-11-17"
 > **原句 7:** ""When did you last see him?" Leah finally asked. "Two days ago. How about you?" "I just came from there. I told him—I told him I couldn't come to court anymore. It's just—" "Too much." "Yes." Leah's chin quivered slightly. "He said he understood.""
 
 **中文理解**：「你上次见他是什么时候？」Leah 终于问。「两天前。你呢？」「我刚从那儿回来。我告诉他——我告诉他我没法再去法庭了。只是——」「太多了。」「嗯。」Leah 的下巴轻轻发颤。「他说他理解。」
-**关键词**：couldn't come to court anymore / Too much / chin quivered / understood
+**关键词**：couldn’t come to court anymore / Too much / chin quivered / understood
 **为什么这样写**：退出庭审被两人各自的「太多」接住——不需要解释的共感；「他理解」是全章最讽刺的三个字：一个被审的儿子在体谅探监者——Tommy 的早熟式善良贯穿他被指控的整个人生；下巴的颤是身体对「放弃他」的抗议。
 **读者视角提示**：Tommy 的「理解」存档——他的善意是本书最难处理的部分（恶与善同源）。后文每一份关于他的人格证据都要过这道反差。
 
@@ -73,7 +73,7 @@ modified: "2026-11-17"
 > **原句 9:** "Leah was crying silent tears again. "And I told him something else. Something I haven't told anyone." "What is it, honey?" Her answer was to move Hattie's hand to her midsection."
 
 **中文理解**：Leah 又开始流无声的眼泪。「我还告诉了他另一件事。一件我没告诉过任何人的事。」「是什么，宝贝？」她的回答，是把 Hattie 的手移到自己的小腹上。
-**关键词**：silent tears / haven't told anyone / midsection
+**关键词**：silent tears / haven’t told anyone / midsection
 **为什么这样写**：信息的最高机密用肢体语言交付——她的嘴不配这个秘密，手配；「没告诉过任何人」的第一收件人是奶奶——信任的传递路线绕过父母、直抵血亲；一个移动手的动作完成本章全部的信息引爆，作者的克制（不写台词）让动作有了爆破力。
 **读者视角提示**：Julian 的存在由「一只手的位置」宣布。记住这种「以触代语」——本书的关键信息常走触觉通道（衣料干燥、小腹、石头）。
 
@@ -101,7 +101,7 @@ modified: "2026-11-17"
 > **原句 13:** "Your parents don't know?" "God, no. They'd kill me. Kill me twice." Leah's mother and father were conservative Christians, the kind whose social beliefs were firmly entrenched and supremely hypocritical in Hattie's opinion. "It's been so hard not saying anything and keeping my appointments a secret." Leah touched her belly. "He started kicking last week." "He?" Hattie said, her voice trembling slightly. "Yeah. It's a boy."
 
 **中文理解**：「你父母不知道？」「天哪，不知道。他们会杀了我。杀我两次。」Leah 的父母是保守的基督徒——那种观念顽固、又极端伪善的人，按 Hattie 的看法。「憋着不说、把产检全瞒着，太难了。」她摸了摸肚子。「他上周开始踢了。」「他？」Hattie 说，声音微微发颤。「嗯。是个男孩。」
-**关键词**：conservative Christians / appointments a secret / kicking / It's a boy
+**关键词**：conservative Christians / appointments a secret / kicking / It’s a boy
 **为什么这样写**：「杀我两次」的家庭预测与 Hattie 家的「张臂迎接」对撞——两个家庭对同一条生命的接待规格差出一个世纪；瞒产的辛苦（不说、瞒产检）让 Leah 的孕程全程独行；「踢了」把胎儿从名词变成动词，而「男孩」落定的瞬间，祖母的色阶（喜悦到恐怖）开始定向——Julian 以性别进入她的世界。
 **读者视角提示**：Leah 的父母至今是空白名字（保守基督徒）——Julian 的外祖父母这条线后文若启用，从这里接线。
 
@@ -115,7 +115,7 @@ modified: "2026-11-17"
 > **原句 15:** "Hattie took Leah in her arms again and stroked her hair. "It'll be okay. Everything will be okay," she said, feeling like she was making a promise she had no right to."
 
 **中文理解**：Hattie 又把 Leah 搂进怀里，梳着她的头发。「会好的。一切都会好的，」她说——感觉自己正在许一个她没有权利许下的承诺。
-**关键词**：stroked her hair / It'll be okay / no right to
+**关键词**：stroked her hair / It’ll be okay / no right to
 **为什么这样写**：承诺的无权性是本章最后的诚实——安慰者知道安慰是谎言还坚持说出：这就是母亲的语法；「会好的」与全书的走向（Ed 死、定罪、逃亡）构成残忍的对读——读者知道这承诺从未兑现。
 **读者视角提示**：记住这个「无权的承诺」——它在本章许下，全书后面每一次 Hattie 为 Julian 做的事，都是对它的分期偿还。
 
