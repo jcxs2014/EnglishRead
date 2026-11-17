@@ -62,7 +62,7 @@ modified: "2026-11-17"
 > **原句 7:** "It means the first generation earns the family fortune, the second diminishes it, and the third loses it. That's our family story in a nutshell: a couple of shrewd men, my great-grandfather and his brother, created a successful business at the end of the nineteenth century, then my grandfather and my father – deluded but amiable numbskulls – managed to dissipate their inheritance due to incompetence and lavish spending"
 
 **中文理解**：「衬衫袖子到衬衫袖子，三代而空」的定律：第一代挣下家产、第二代缩水、第三代败光。他家即注脚：曾祖兄弟俩在十九世纪末创下一门好生意；祖父与父亲——「糊涂却和气的蠢人」——以无能加挥霍把遗产散尽。
-**关键词**：shirtsleeves to shirtsleeves in three generations、a couple of shrewd men、deluded but amiable numbskulls、dissipate their inheritance、incompetence and lavish spending
+**关键词**：the first generation earns the family fortune、a couple of shrewd men、deluded but amiable numbskulls、dissipate their inheritance、incompetence and lavish spending
 **为什么这样写**：家史按定律三格讲完——「numbskulls」的贬词前偏要加上 amiable：败家者必须可爱；「dissipate」像液体一样蒸发掉一个家族。这个定律也是 Chip 创业冲动的引擎：不做第四代的守夜人。
 **读者视角提示**：与 ch19 开头的涂色书计划串读：他要用新生意赎回第三代欠下的账。记住「衬衫袖子」——波士顿 Brahim 的家徽。
 
@@ -96,7 +96,7 @@ modified: "2026-11-17"
 > First, Martin had come over and said he wanted to shag her if she was up for it, an offer that she had politely declined. He'd cornered her, literally backing her into a corner, but she had escaped"
 
 **中文理解**：Katy 的退场宣言：「我以为你在享受派对。」「我是——这是我很久以来参加过的最好的派对——可它突然变得烦人起来。像有人扳了一下开关：这些人一下子全在骚扰我。首先是 Martin 过来说想跟她上床——她婉拒了；他把她逼进墙角，她才逃出来。」
-**关键词**：the best party in a very long time、a switch had been thrown、suddenly harassing her、wanted to shag her、backing her into a corner
+**关键词**：the best party she had been to、a switch had been thrown、suddenly harassing her、wanted to shag her、backing her into a corner
 **为什么这样写**：派对评价的急转弯由「开关」完成——魔法之夜的日历到了午夜之后（Kierkegaard 的预告应验）；「politely declined」与「cornered」并置：礼貌在物理挤压面前失效。骚扰被写成清单，第一项就是最直接的。
 **读者视角提示**：记住这个 switch——仲夏夜的魔法保质期到点。Katy 的逃跑清单还有两页（下一块）。
 
