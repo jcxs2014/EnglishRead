@@ -38,7 +38,7 @@ modified: "2026-11-17"
 > **原句 4:** "A senior admin officer at the university whom I had had a lot to do with – he too was fifty-four – went on a brief holiday with his wife and two children to Thailand, and when he returned to work at the start of February this year, it was discovered that he had a sudden loss of white blood cells. He died rapidly after the diagnosis, at work, just slumped over his desk in full sight of everyone around him"
 
 **中文理解**：第三个死者：同校 54 岁的行政主管，与妻儿刚去过泰国短假；二月复工时查出白细胞骤失，确诊后迅速去世——「就在岗位上，当着周围所有人的面伏倒在桌上。」
-**关键词**：he too was fifty-four、a brief holiday with his wife and two children、a sudden loss of white blood cells、died rapidly after the diagnosis、slumped over his desk in full sight of everyone
+**关键词**：he too was fifty-four、a brief holiday、a sudden loss of white blood cells、died rapidly after the diagnosis、slumped over his desk in full sight
 **为什么这样写**：第三个死因（白细胞骤失）与两个心脏/癌症案并列——「he too was fifty-four」的重复是警钟的节拍；「in full sight of everyone」让过劳死有了目击者名单：她自己也在此列。
 **读者视角提示**：54 岁的两次出现—— Katy 的听众（叙述者 45、她 42）都还欠着十几年。记住这三个死者：她的「辞职去悉尼」选项从此有了对手盘。
 
@@ -62,14 +62,14 @@ modified: "2026-11-17"
 > But because the cat was half drugged, it didn't have its usual sense of balance, and when it rolled onto its side, it fell four floors"
 
 **中文理解**：坠猫奇案的解释：「我们都能解释——周末下乡回来，猫吐满了车后座，为了不让它再吐，我们给它喂了药。……可猫半药状态平衡尽失，一侧身，从四楼摔了下去。」
-**关键词**：We can explain everything、our cat vomited all over the back seat、so it wouldn't vomit again we drugged the cat、its half-drugged state、it fell four floors
+**关键词**：We can explain everything、our cat vomited all over the back seat、we drugged the cat、its half-drugged state、it fell four floors
 **为什么这样写**：意外链条每一环都出于好意（防吐→喂药→疏忽→坠落）——善意的多米诺是本书事故论的通用模型；「luckily for us and for the cat, but not luckily for you」（前文）把幸运分配成零和游戏。
 **读者视角提示**：与 ch26 三死者对照：猫被救活、人被砸晕——命运的账本上猫是赢家。记住「drugged the cat」：善意管理失控的标准案例。
 
 > **原句 8:** "He was walking along a beach in summer, and the cool change came, and luckily for him and his partner it wasn't a direct strike, but it was close enough to throw them twenty metres away from where they were standing. They landed on sand that broke their fall. His partner could not walk anymore, and the doctors she saw said she would never walk again. But instead of giving up, a year after the accident she went to a Chinese doctor, and six months later she could walk again"
 
 **中文理解**：闪电幸存者：夏滩散步，凉变来时遭雷击——不是直击，却近得把两人抛出二十米；沙地接住了他们。他的伴侣从此不能行走、医生判终身轮椅；她不肯认命——事故一年后去看中医，六个月后重新走路。
-**关键词**：it wasn't a direct strike、throw them twenty metres、sand that broke their fall、she would never walk again、a year after the accident she went to a Chinese doctor
+**关键词**：it wasn't a direct strike、throw them twenty metres、sand that broke their fall、she would never walk again、she went to a Chinese doctor
 **为什么这样写**：医疗判决与民间处方对决——「never walk again」的西式定论被「six months later」推翻；「twenty metres」的物理量给神迹留了证据；沙地缓冲是全书最仁慈的一次地形（对比 ch16 的混凝土管）。
 **读者视角提示**：与叙述者的中医史（ch18 眼疾钓鱼处方）连读——中医在本书是第二医疗体系。记住「一年＋六个月」：这本书的疗愈都以年月计费。
 
@@ -80,10 +80,10 @@ modified: "2026-11-17"
 **为什么这样写**：以谢礼开头、以末世收尾——孩子的宇宙观与 Smyg 的三焦虑（ch03）隔代共振：膨胀、漂离、熄灭；「terrible」的反问句把天文写成道德请求，母亲只能用俄语安慰。
 **读者视角提示**：与 Smyg 的 Goldilocks zone 焦虑（ch03）并读——本书的宇宙焦虑有传人。记住望远镜：黑暗车厢里唯一朝上的行李。
 
-> **原句 10:** "He said, The water pressure on the tunnel must be intense, and there must be a chance – probably only a small one, though – that it could collapse under all that weight – water is very heavy, you know – and the tunnel is designed to leak, and there are pumps, but if electricity was cut off to the tunnel for even just a couple of weeks, then that would lead to disaster as the pumps would no longer work … I have an ability to foresee problems; I have always had this ability. I can see three dangers for every part of a journey – potential dangers"
+> **原句 10:** "He said, The water pressure on the tunnel must be intense, and there must be a chance – probably only a small one, though – that it could collapse under all that weight – water is very heavy, you know – and the tunnel is designed to leak, and there are pumps, but if electricity was cut off to the tunnel for even just a couple of weeks, then that would lead to disaster as the pumps would no longer work … I can see three dangers for every part of a journey – potential dangers"
 
 **中文理解**：男孩的隧道防灾课：「英吉利海峡隧道的水压一定很惊人——虽然概率很小，但它可能被重量压塌（水很重）；隧道按会渗漏设计、靠水泵排水，可只要断电两周，泵停了就是灾难……我有预见问题的能力——一直都有。旅程的每一段，我都能看出三种潜在危险。」
-**关键词**：The water pressure on the tunnel must be intense、it could collapse under all that weight、the tunnel is designed to leak、the pumps would no longer work、I can see three dangers for every part of a journey
+**关键词**：water pressure on the tunnel must be intense、collapse under all that weight、the tunnel is designed to leak、the pumps would no longer work、three dangers for every part of a journey
 **为什么这样写**：以工程报告口吻说出恐惧——「designed to leak」的坦白是基础设施的自供；「three dangers for every part」把焦虑制度化成方法论：他不是害怕，是在做风险审计。12 岁的 Smyg。
 **读者视角提示**：与 ch03 的太阳系三焦虑并列——本书的「三件套焦虑」传了两代。记住「每段旅程三种危险」：Part Two 剩下的每一程都被他提前审计过了。
 
