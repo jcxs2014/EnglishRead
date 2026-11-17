@@ -13,11 +13,17 @@ modified: "2026-11-17"
 - **叙事手法**：法医独白+现场重演双声部——理论与画面交替；Until the wood gave 的三连排比把三十年压缩成三秒；章末 Blocked Number 的来电铃声接住全章。
 
 ## 精读
-> **原句 1:** "Humans stuck to the paths they knew, well-worn roads and trails, very rarely stepping off the beaten track. There were a million places that a body could get stuck in a river, pinned against rocks, or under the surface. It could wash into a gully, or simply into a larger body of water. … Bodies floated to begin with, when there was air trapped inside. But as they began to decompose, as the flesh began to rot, that air seeped out and then they became heavy, sinking to the bottom. … And it seemed that Leonard Whitaker’s body had never risen to the surface."
-**中文理解**：人类只走自己认得的路——熟路小径，极少偏离常规。一具尸体能在河里卡住的位置有上百万种：抵在岩石上、压在水面下；可以冲进冲沟，也可以漂进更大的水体。……尸体起初会浮——体内困着空气。但随着腐烂、肉开始败坏，空气漏出去，他们就变沉了，沉到水底。……而 Leonard Whitaker 的尸体，似乎从未浮出过水面。
-**关键词**：stepping off the beaten track / Bodies floated to begin with / never risen to the surface
-**为什么这样写**：法医物理论为「荒谬问题」铺路——没找到尸体不等于没有尸体；作者用分解学（气出→变沉）把三十年不腐的疑团转成「沉默的证据」。「从未浮起」五个字是本章从猜想到立案的门槛。
-**读者视角提示**：把这页读成凶手的生存说明书：一个懂得水性的少年可以从 River 学会「如何消失」。他可能就是从这条河里爬出来的人——所以他对水的运用带着学徒的精通。
+> **原句 1:** "Humans stuck to the paths they knew, well-worn roads and trails, very rarely stepping off the beaten track. There were a million places that a body could get stuck in a river, pinned against rocks, or under the surface. It could wash into a gully, or simply into a larger body of water."
+**中文理解**：人类只走自己认得的路——熟路小径，极少偏离常规。一具尸体能在河里卡住的位置有上百万种：抵在岩石上、压在水面下；可以冲进冲沟，也可以漂进更大的水体。
+**关键词**：paths they knew / stepping off the beaten track / pinned against rocks
+**为什么这样写**：失踪学的第一课从人的行为写起——人类的天性（走熟路）决定了尸体可能的落点清单；作者用「一百万个位置」把「找不到」转译为「在等被找到」。搜索半径的每一个字都在为「他可能还活着」松土。
+**读者视角提示**：把「极少偏离常规」记进脑内——少年的回家路是固定的，凶手（如果是他）对这条路的每一次模拟，都是在复习自己怎么死的。
+
+> **原句 2:** "Bodies floated to begin with, when there was air trapped inside. But as they began to decompose, as the flesh began to rot, that air seeped out and then they became heavy, sinking to the bottom. … And it seemed that Leonard Whitaker’s body had never risen to the surface."
+**中文理解**：尸体起初会浮——体内困着空气。但随着腐烂、肉开始败坏，空气漏出去，他们就变沉了，沉到水底。……而 Leonard Whitaker 的尸体，似乎从未浮出过水面。
+**关键词**：Bodies floated to begin with / that air seeped out / never risen to the surface
+**为什么这样写**：法医物理论为「荒谬问题」铺路——没找到尸体不等于没有尸体；作者用分解学（气出→变沉）把三十年不浮的疑团转成「沉默的证据」。「从未浮起」五个字是本章从猜想到立案的门槛。
+**读者视角提示**：把这页读成凶手的生存说明书：一个懂得水性的少年可以从这条河学会「如何消失」。他可能就是从河里爬出来的人——所以他对水的运用带着学徒的精通。
 
 > **原句 2:** “Because I’m the seventh,” Lacey replied. “And I’m not moving till you’ve found this guy.” … “It takes as long as it takes,” she said. “But this is it, this is where it stops."
 **中文理解**：「因为我是第七个，」Lacey 回答。「你找到这家伙之前我不挪窝。」……「要多久就多久，」她说。「但就到此为止——就在这里划线。」
