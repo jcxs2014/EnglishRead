@@ -114,8 +114,8 @@ modified: "2026-11-17"
 
 > **原句 15:** "Billy picked up his glass, considered it, then set it back down. "Three women were killed in the last two years; similar victims, same MO, same murder weapon." Ed frowned. "What's that got to do with Tommy?" Billy stared down into his drink, the silence spooling away like a line leading to something enormous and terrible. "You're saying—" Hattie struggled and failed to get the rest of the words out. "There's only one reason my guy at the state police would mention it. Cheryl's death must have fit the profile somehow." Billy looked at each of them in turn. "They think she's the Bedfellow's fourth victim.""
 
-**关键词**：Three women / same MO / spooling / fourth victim
 **中文理解**：Billy 拿起杯子端详了一下，又放下。「过去两年里有三名女性被杀——同类受害者、同一作案手法、同一凶器。」Ed 皱眉。「那跟 Tommy 有什么关系？」Billy 盯着他的杯子往下看，沉默像一条线越放越长，通向某个庞大而可怕的东西。「他们认为，她是 Bedfellow 的第四名受害者。」
+**关键词**：Three women / same MO / spooling / fourth victim
 **为什么这样写**：命名在悬停中落地——Bedfellow Killer 这个词第一次被完整说出（ch02 的侵入句只是它的碎片回声）；Billy 拿起又放下的杯子是律师的迟疑仪式：他要说的东西连酒都压不住；「沉默像放线」的钓竿比喻把信息量写成水深；「第四名受害者」是本章的力矩顶点——Tommy 从「嫌疑人」升级为「连环案头号人选」。
 **读者视角提示**：全书的核心装置在此归位：这不是「儿子被冤枉」的单案剧，是「连环杀手之母的视角」长篇。Bedfellow 的行为模式（ch02 已泄露）加上这个「第四名受害者」——记住 victims 全是女性，与 Cheryl 完全同类。
 
@@ -147,4 +147,3 @@ modified: "2026-11-17"
 
 ## 一句话总结
 2018 年 4 月的一天内，教师 Hattie 的世界完成了塌方流程：Leah 的电话、Ramsby 的满意、Cheryl 的死、断片的儿子、Dustin 的车、Bedfellow 档案与「第四名受害者」——而家里的木工锥「原品几年前失踪」这一句，把全部误会论的钉子一只只撬松。
-**关键词**：Death and Culture / Tuesday / toehold / normalcy
