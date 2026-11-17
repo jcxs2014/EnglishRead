@@ -1,0 +1,55 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch01",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "开场自白：惯于拷打家族敌人的 Gunnar 觉得「珍爱一个女人」的誓词对自己而言荒诞。",
+   "anchor": "Swearing to cherish a woman is a strange promise for a man like me to make when my hands are usually stained with blood from torturing my family's enemies.",
+   "start": 26,
+   "end": 181
+  },
+  {
+   "fact": "Rosalind 三小时前才换到 Gunnar 手里；此前十年她是哥哥 Magnus 的未婚妻，Gunnar 是在祭坛上顶替哥哥的位置。",
+   "anchor": "Granted, she’d only been my fiancée for three hours. I’d met her three and a half hours ago. For the intervening decade before that, she’d been my brother’s betrothed.",
+   "start": 789,
+   "end": 956
+  },
+  {
+   "fact": "主教 Brennan 收了 Fenrir Blackwood 的钱、取消晚祷、腾出自己的教堂给这场黑帮联姻；Gunnar 的父亲站在神父应在的位置上。",
+   "anchor": "Bishop Brennan had pocketed Fenrir Blackwood's money, canceled evening services, and cleared out of his own church so we could conduct our business.",
+   "start": 1254,
+   "end": 1402
+  },
+  {
+   "fact": "婚礼仓促只有一个原因：战争将至——领地变动、旧盟崩塌，Blackwood 与 Lobo 两家需要用法律与血缘绑在一起。",
+   "anchor": "The wedding was being rushed through for one reason alone: war was brewing.",
+   "start": 3106,
+   "end": 3181
+  },
+  {
+   "fact": "Rosalind 区分强迫与选择：她是「基于仅有的选项」自愿到场，回应 Gunnar「我这辈子没强迫过女人」。",
+   "anchor": "\"Force and choice aren't the same thing. I'm here willingly, based on the options available to me.\"",
+   "start": 6321,
+   "end": 6420
+  },
+  {
+   "fact": "被问若能选择会怎样，Rosalind 冷冷答「远走高飞」；这句话引爆了 Gunnar 的领地保护本能。",
+   "anchor": "\"If I had my way, I'd run far away from all of this.\"",
+   "start": 6720,
+   "end": 6773
+  },
+  {
+   "fact": "Gunnar 的狼对 Rosalind 毫无反应——没有认出伴侣的火花、没有原始牵引，只有冷冰冰的责任束缚。",
+   "anchor": "Beneath my skin, my wolf sat flat and indifferent. No spark of recognition, no territorial fire flaring in my veins for her, no primal pull claiming her as a mate.",
+   "start": 7996,
+   "end": 8159
+  },
+  {
+   "fact": "章末自白：她是他拳头解决不了的唯一威胁，这个打手完全不知道怎么驯服她。",
+   "anchor": "I had no fucking idea how to tame this bitch.",
+   "start": 8390,
+   "end": 8435
+  }
+ ]
+}
