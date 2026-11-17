@@ -26,7 +26,7 @@ modified: "2026-11-17"
 **读者视角提示**：记住她的双面处境：家里所有人都学会了不当她是废的，只有她还需要「废」来当伪装。
 
 > **原句 3:** "Through my wolf's eyes in the woods, I had seen Gunnar's face. The dangerous angles of his jaw with the unexpected dimples. The crooked bridge of his nose, where it had clearly been broken and reset a few times. Those cruel, thick lips that I now knew were surprisingly soft when he held back. Those piercing eyes that saw far more than I was ever willing to share. The memory of his weight on top of me. The crushing power of his body pinning mine into the earth, making me feel caged, yet inexplicably safe."
-**中文理解**：林子里借狼眼她终于看清了 Gunnar 的脸：危险的下颌角度与意外的酒窝；断过又接好的歪鼻梁；那两片残忍的厚唇，原来他收着劲儿的时候出奇地软；那双看走她远比她肯给的眼睛。还有他压在她身上的重量——把他身体 crushing 的力量钉进大地，让她像被囚，却莫名安全。
+**中文理解**：林子里借狼眼她终于看清了 Gunnar 的脸：危险的下颌角度与意外的酒窝；断过又接好的歪鼻梁；那两片残忍的厚唇，原来他收着劲儿的时候出奇地软；那双看走她远比她肯给的眼睛。还有他压在她身上的重量——他身体那股碾压性的力量把她钉进大地，让她像被囚，却莫名安全。
 **关键词**：the unexpected dimples / broken and reset a few times / surprisingly soft when he held back / caged, yet inexplicably safe
 **为什么这样写**：盲人肖像靠狼眼完成补课——五官每条都带职业档案（鼻梁=履历、唇=克制证据、眼=反侦察警告）；caged 与 safe 的矛盾修辞是她给这份关系的最新定义：安全不来自温柔，来自压倒性的力量被驯服在她身上。
 **读者视角提示**：这是她对他的欲望第一次完整成文——记住「caged yet safe」这组矛盾，它就是她后面的根本两难。
