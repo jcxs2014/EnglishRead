@@ -15,7 +15,7 @@ modified: "2026-11-17"
 ## 精读
 > **原句 1:** "One hit him from behind. They grabbed his bag, put him face down on the ground, patted him down, stole his phone while they pressed a gun to the back of his head, and then left. No words, nothing."
 **中文理解**：「一个人从背后打他。他们抢了他的包、把他面朝下按在地上、搜身、拿走手机——同时把枪顶在他后脑上——然后离开。一个字没说，什么都没有。」
-**关键词**：hit him from behind / pressed a gun to the back of his head / No words, nothing
+**关键词**：hit him from behind / pressed a gun / back of his head / No words, nothing
 **为什么这样写**：跳袭被写成一套流水线——击倒、按地、搜身、取物、撤离，全程零语言；作者用「无言」这个细节完成指纹比对：ch06 的信封、ch16 的文件，凶手与打手共享同一种「不留声」的纪律。枪抵后脑的姿势是威胁的语法，不是杀意的语法——他要的是数据。
 **读者视角提示**：把「无言」记成第二张指纹卡：打人与杀人都是静音作业。这场跳袭的目的（要 Kevin 的进度）暗示 posse 也想抢先破案——或者，想抢在 Alex 前面拿走答案。
 
