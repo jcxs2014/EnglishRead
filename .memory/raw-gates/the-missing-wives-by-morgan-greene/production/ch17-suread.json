@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch17",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch17_chapter_17.txt",
+ "facts": [
+  {
+   "fact": "Dawes 的卡车空无一人、引擎熄火——引擎盖只剩一丝余温。",
+   "anchor": "The cab was empty, the vehicle off",
+   "start": 1900,
+   "end": 1934
+  },
+  {
+   "fact": "透过棱纹玻璃拼出：走廊里有人面朝下倒地——副手的重靴与灰裤。",
+   "anchor": "she could make out a leg—somebody lying face down—with the kind of heavy boots that a deputy might wear",
+   "start": 3796,
+   "end": 3899
+  },
+  {
+   "fact": "Gallagher 家所有灯全开、但所有窗帘都拉上了。",
+   "anchor": "It seemed like every light was on, but all the curtains had been pulled shut.",
+   "start": 3976,
+   "end": 4053
+  },
+  {
+   "fact": "快一点了——凶手动手的完美时间。",
+   "anchor": "It was almost one now—the perfect time for a killer to strike, she thought.",
+   "start": 4315,
+   "end": 4390
+  },
+  {
+   "fact": "丈夫们坚持自己能护家——Alex 转身时冒出黑暗念头：他们做不到。",
+   "anchor": "But the husbands had insisted that they could protect their own homes.",
+   "start": 4510,
+   "end": 4580
+  },
+  {
+   "fact": "求援短信：Gallagher 家有人倒地、副手不在车里——派后备与救护车。",
+   "anchor": "Man down at Brian Gallagher’s. Deputies not in car. Send backup. Send ambulance ASAP.",
+   "start": 6108,
+   "end": 6193
+  },
+  {
+   "fact": "拔枪——枪在她手里发抖。",
+   "anchor": "unholstering her pistol, feeling it shaking in her grip",
+   "start": 6289,
+   "end": 6344
+  },
+  {
+   "fact": "露台门敞开、窗帘被风吸出——她该等后援，但怀疑自己已经太迟。",
+   "anchor": "The patio door to the dining room was open",
+   "start": 6687,
+   "end": 6729
+  }
+ ]
+}
