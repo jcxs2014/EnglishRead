@@ -49,13 +49,19 @@ modified: "2026-11-17"
 **为什么这样写**：空茫的眼神（前段的 vacant look）被命名成 shattered——作者让 Alex 的职业懊悔与他的破碎同框；over the phone 三个词把她的自责钉在「方式错误」上：她的沉默说了真相，但真相不该用电话说。
 **读者视角提示**：Scott 的崩塌是真实的（对照 Grant 的好斗，他是「丧失」的另一半光谱）。同时记下 Alex 的自责：她对家属的处理始终笨拙——这个性格裂缝后面会一次次影响她的办案选择。
 
-> **原句 7:** "Why don’t we go in the kitchen if you don’t want to head to the station,” she said, “and I can address you all. If I get Mr. Cook’s permission to discuss his wife with you, and if I get Mrs. Gallagher’s permission, I can discuss the nature of the threat made against her with you also. But you have to understand that you can demand all you like, but I’m bound by the law. If you get in my way, then you will be obstructing a Washington State Police investigation. And whether or not you’re important in Dunning makes no difference to me at all, Mr. Walker. I will have you thrown in jail, and I will do my job without being impeded."
-**中文理解**：「既然你们不想去警局，那不如到厨房去，」她说，「我可以跟你们所有人讲。如果我拿到 Cook 先生的许可谈他妻子的事，再拿到 Gallagher 夫人的许可，我也可以跟你们谈谈针对她的威胁的性质。但你们得明白：你们可以随便提要求，但我受法律约束。谁挡我的路，谁就是在妨碍华盛顿州警的调查。还有，你在 Dunning 有多重要，对我来说毫无区别，Walker 先生。我会把你关进监狱，然后不受干扰地做完我的工作。」
-**关键词**：address you all / bound by the law / makes no difference to me at all
-**为什么这样写**：这是全章的转折独白——Alex 把谈判翻译成三层许可（家属授权→威胁细节→法律后果），结构严密到 Grant 无缝可钻；makes no difference to me at all 直接拆掉他在 Dunning 的全部筹码。她的每一次让步（厨房、集体谈话）都以「程序」为名，实为收权。
-**读者视角提示**：读这段时要看清她的算术：她要的是把散乱的人群收进一个可控空间、一次说清。记住这个「一次讲完」的偏好——它既是效率，也是她在人群面前只愿暴露一次信息底牌的习惯。
+> **原句 7:** "Why don’t we go in the kitchen if you don’t want to head to the station,” she said, “and I can address you all. If I get Mr. Cook’s permission to discuss his wife with you, and if I get Mrs. Gallagher’s permission, I can discuss the nature of the threat made against her with you also."
+**中文理解**：「既然你们不想去警局，那不如到厨房去，」她说，「我可以跟你们所有人讲。如果我拿到 Cook 先生的许可谈他妻子的事，再拿到 Gallagher 夫人的许可，我也可以跟你们谈谈针对她的威胁的性质。」
+**关键词**：go in the kitchen / address you all / the nature of the threat
+**为什么这样写**：让步全部是程序性的——厨房替代警局、集体谈话替代逐个问询，每一步都以「你们的选择」为包装；而许可前置（Cook 的许可、Gallagher 的许可）悄悄把谈话的合法性门槛立起来：她不是在妥协，是在给后面的法律摊牌铺台阶。
+**读者视角提示**：看她的调度术：散在走廊的人群被收进一个房间、一次讲清。记住这个「一次讲完」的偏好——既是效率，也是她在人群面前只愿暴露一次信息底牌的习惯。
 
-> **原句 8:** "Who were these people? … How much did the sheriff know about them? … And ultimately, why would someone want to kill them?"
+> **原句 8:** "But you have to understand that you can demand all you like, but I’m bound by the law. If you get in my way, then you will be obstructing a Washington State Police investigation. And whether or not you’re important in Dunning makes no difference to me at all, Mr. Walker. I will have you thrown in jail, and I will do my job without being impeded."
+**中文理解**：「但你们得明白：你们可以随便提要求，但我受法律约束。谁挡我的路，谁就是在妨碍华盛顿州警的调查。还有，你在 Dunning 有多重要，对我来说毫无区别，Walker 先生。我会把你关进监狱，然后不受干扰地做完我的工作。」
+**关键词**：bound by the law / makes no difference to me at all / thrown in jail
+**为什么这样写**：摊牌的杀招在人称切换——前半段说「你们」，最后两刀（makes no difference / thrown in jail）突然点名 Mr. Walker：法律后果被精确挂到他一个人头上；makes no difference to me at all 直接拆掉他在 Dunning 的全部筹码，让步清单的每一项善意到这里全部兑换成压力。
+**读者视角提示**：这是 Alex 的经典谈判结构：先给台阶、再落铐子。往后她每一次「先讲可以、再讲不行」的长段台词，都可以用这两条块对照——她的让步从来有价签。
+
+> **原句 9:** "Who were these people? … How much did the sheriff know about them? … And ultimately, why would someone want to kill them?"
 **中文理解**：这些人是谁？……警长对他们知道多少？……而归根结底，为什么会有人想要杀他们？
 **关键词**：Who were these people? / How much did the sheriff know / why would someone want to kill them?
 **为什么这样写**：章末三连问按信息层级排序——身份、情报来源、动机，一问比一问深；前两问是可填的表格，第三问才是案件的心脏。作者把它们甩在章尾，等于把本章所有对峙都标价为「入场费」。
