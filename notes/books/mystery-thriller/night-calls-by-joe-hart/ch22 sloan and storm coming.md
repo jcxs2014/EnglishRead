@@ -26,7 +26,7 @@ modified: "2026-11-17"
 **中文理解**：Hattie 把杂货提进来，没敲门。「是我，」她朝屋子的深处喊。没有回应——而通常也确实没有。她穿过门厅：一张堆满东西的书桌，旁边是一段扭着往上、拐角看不见的窄楼梯；然后是厨房兼餐厅，一阵热浪扑面而来。老木炉正烧着，噼啪作响。横贯空间的长餐桌今天大半是空的——Sloan 一定正陷进本月让他着迷的下一个兴趣领域。
 **关键词**：not bothering to knock / cluttered desk / crackling merrily / area of interest
 **为什么这样写**：「不敲门」四个字交代她在这个家里的权限等级——她不需要许可；热浪与炉火把「被接纳」写成温度：她进门先被屋子烘了一下；「长餐桌大半空着」用物证写出老头的生活节律：他在追新的兴趣，旧的那张桌子被他暂时清空了。
-**读者视角提示**：Sloan 家在本书的地理里承担着「无证之地」的功能——她所有的谎言在这里免于查验。后面任何一次这个免检被打破，都会是大事。
+**读者视角提示**：她在 Sloan 家的行为准则与在别处不同：不用敲门、不用解释、东西放回原位——她在这间屋子里无需经营任何身份。这是全书唯一一处她不必表演的地方，也是她所有谎言最安全、又最令人不安的所在。
 
 > **原句 3:** "The library is a hexagonal sunroom off the back of the house lined with low bookshelves as to not spoil the view. And it is quite the view, especially in daylight hours. At the moment the cove is a black mirror and her place is visible only as a glimmer of lights directly across the water. The sunroom's only other adornments besides the overflowing bookshelves are a small coffee table and two expensive leather lounge chairs with matching ottomans."
 
@@ -126,7 +126,7 @@ modified: "2026-11-17"
 |---|---|---|
 | conglomeration | 杂乱堆积体 | His driveway is an S shape ending at the house, which is a messy conglomeration of additions and afterthoughts to the original squarish structure at its center. |
 | scrutinous | 审视的、锐利的 | He'd quieted then, those scrutinous eyes that were always dancing having stilled. |
-| incongruous | 不协调的 | Though hidden from the road, its seaside is fully exposed atop the sloping hill above the water. |
+| exposed | 暴露的、敞开无遮的 | Though hidden from the road, its seaside is fully exposed atop the sloping hill above the water. |
 | afterthought | 后加的东西、补丁 | His driveway is an S shape ending at the house, which is a messy conglomeration of additions and afterthoughts to the original squarish structure at its center. |
 
 ### ⭐⭐ 进阶

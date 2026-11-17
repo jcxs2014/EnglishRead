@@ -97,7 +97,7 @@ modified: "2026-11-17"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| inevitably | 不可避免地 | She's not one team or the other, but the rope itself. Stretched thin. Taut to the breaking point. And there is also the sickening and undeniable feeling that's been building for months now, the one she's been trying to ignore. |
+| inevitability | 不可避免性、必然 | Has felt the terrible looming sense of . . . inevitability. |
 | somersaulting | 翻筋斗 | The Toyota's headlights catch fallen leaves somersaulting across the road and throw their shadows starkly behind them as she drives home. |
 | acrid | 刺鼻的、辛酸的 | swallowing an acrid taste in the back of her throat. |
 | flaring | （翅膀）张开、爆开 | the owl leans off the branch, its great wings flaring, and drops out of sight toward the bay. |
@@ -108,7 +108,7 @@ modified: "2026-11-17"
 | tug-of-war | 拔河 | An image of a tug-of-war comes to her. |
 | heat | 暖气、热量 | She pulls to a stop and sits in the idling Toyota, the heater’s efforts not doing anything to warm her. |
 | yard | 院子 | The yard is empty and she's alone. |
-| vehicle | 车辆 | She pulls to a stop and sits in the idling Toyota, the heater’s efforts not doing anything to warm her. |
+| vehicle | 车辆 | She slows, then stops, searching the dark outside of the fan of light from the vehicle. |
 
 ## 一句话总结
 回家的路上三重预兆连环落下（暴风雨／心总会归家／低枝上的鸮），拔河隐喻给出她的处境——她是那根被拉到将断的绳子；她在自家院子里对着一只鸟喊「你他妈到底想要什么」，它展翅落向海湾，她站在院子中央、四肢刺痛地希望这一切都只是一场梦。
