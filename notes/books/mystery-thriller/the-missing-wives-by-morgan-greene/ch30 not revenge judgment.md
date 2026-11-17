@@ -39,7 +39,7 @@ modified: "2026-11-17"
 
 > **原句 5:** "This wasn’t about revenge. … It was about judgment. … He wasn’t just trying to hurt the men."
 **中文理解**：这不是关于复仇。……这是关于审判。……他不只是想伤害那些男人。
-**关键词**：wasn’t about revenge / about judgment / not just trying to hurt
+**关键词**：wasn’t about revenge / about judgment / wasn’t just trying to hurt
 **为什么这样写**：Alex 的结晶以三短句完成概念置换——revenge（私怨）被 judgment（公审）替代，伤害被升格为清算；作者用一个词的差值改写全书：凶手不是失控的受害者，是一个自认有裁判权的执法者。这个判定同时是最危险的：审判型凶手不会停。
 **读者视角提示**：记住 revenge→judgment 这一跳——它解释了凶手的全部仪式感（装置、预谋、留活口）。他在按法度行事，按他自己的法度。读懂这一点，你就能预测他下一步会「审理」谁。
 

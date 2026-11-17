@@ -75,7 +75,7 @@ modified: "2026-11-17"
 |---|---|---|
 | snapping up | 抢购、一口口吞下 | Their different companies have been snapping up land and property all over the county |
 | perked up | 来了精神、直起腰 | Alex perked up, straightening a little. |
-| summoning | 召唤、唤来 | As though summoning them from the ether, as the words left Alex’s mouth, headlights flared coming down the road |
+| swept | 猛地抄起、一把拿走 | She swept it up in her hand and took it to the sink, dumping it in |
 
 ## 一句话总结
 草坪上训话声压不住裂缝，钱网的每一层都合法——直到那份旱灾诉讼浮出水面，以及它的四个字结案陈词：他们全死了。
