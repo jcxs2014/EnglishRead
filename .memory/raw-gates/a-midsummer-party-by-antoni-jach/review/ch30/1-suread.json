@@ -1,0 +1,38 @@
+[
+  {
+    "fact": "男孩出逃愿望：Australia is a place I would like to go to … Australia is a dream",
+    "anchor": "Australia is a dream",
+    "start": 3859,
+    "end": 3879
+  },
+  {
+    "fact": "grandmaster 宣誓：chess grandmaster or astronomer→believe in yourself→I do",
+    "anchor": "I want to be a chess grandmaster or an astronomer when I grow up",
+    "start": 4133,
+    "end": 4197
+  },
+  {
+    "fact": "Gloria 大床：交往几周→ex-boyfriend 货车运来 double bed→install→get rid of old",
+    "anchor": "she arrived at my place with a double bed",
+    "start": 6513,
+    "end": 6554
+  },
+  {
+    "fact": "Grand Seductress：pretty rather than beautiful→kept telling men→they believed→memoir title",
+    "anchor": "She’s a Grand Seductress",
+    "start": 7368,
+    "end": 7392
+  },
+  {
+    "fact": "Martha创伤：Who's Afraid of Virginia Woolf 五晚→hated every last inch→transference→quit acting",
+    "anchor": "I hated every last inch of him",
+    "start": 9390,
+    "end": 9420
+  },
+  {
+    "fact": "Globe 暴雨：《The Tempest》night-time→thunderstorm→groundlings soaked→best production",
+    "anchor": "it was the best production of The Tempest they had ever seen because it was so a",
+    "start": 10568,
+    "end": 10658
+  }
+]

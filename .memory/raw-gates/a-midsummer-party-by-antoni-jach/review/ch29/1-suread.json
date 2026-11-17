@@ -1,0 +1,38 @@
+[
+  {
+    "fact": "Caravaggio 网球凶案：indoor tennis court→brawl or duel→sword killed→flee→Naples beaten",
+    "anchor": "Caravaggio had to flee the city",
+    "start": 1014,
+    "end": 1045
+  },
+  {
+    "fact": "青金石=ultramarine：worth more than gold；The Lacemaker/Astronomer 在荷兰厅不挤",
+    "anchor": "it was worth more than gold",
+    "start": 2215,
+    "end": 2242
+  },
+  {
+    "fact": "novelist 定义：machine for turning coffee into fiction←Rényi 数学 coffee into theorems",
+    "anchor": "A novelist is a machine for turning coffee into fiction.",
+    "start": 4545,
+    "end": 4601
+  },
+  {
+    "fact": "普鲁斯特读法：不必全读→翻到喜欢的就读→named once as Marcel→meets Albertine→carpet",
+    "anchor": "Proust is a master at describing obsessive love, illusory love and self-delusion",
+    "start": 6976,
+    "end": 7064
+  },
+  {
+    "fact": "Vermeer 之死：43 岁负债→Catharina 三幅画抵面包房债",
+    "anchor": "his wife Catharina had to give three of his paintings to the baker",
+    "start": 8278,
+    "end": 8344
+  },
+  {
+    "fact": "荷兰连线：Hollandia Nova（WA+NT）＋Van Diemen's Land＋1644 地图＋Blaeu 1664 全世界图",
+    "anchor": "Seventeenth-century Dutch explorers mapped parts of Australia",
+    "start": 8647,
+    "end": 8708
+  }
+]

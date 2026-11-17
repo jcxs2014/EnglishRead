@@ -1,0 +1,38 @@
+[
+  {
+    "fact": "被反锁的酒吧：Jimmy Watson's 打烊后二人在灯亮酒吧区困十分钟",
+    "anchor": "we were locked in",
+    "start": 1262,
+    "end": 1279
+  },
+  {
+    "fact": "永恒轮回：尼采——死后重生逐字重活前生→careful about every minute",
+    "anchor": "we would live every detail of our previous life in exactly the same way",
+    "start": 2057,
+    "end": 2128
+  },
+  {
+    "fact": "叙述者反驳：paralysis of being→croissant and espresso 也 cogitate",
+    "anchor": "whether or not to buy a croissant and an espresso?",
+    "start": 2837,
+    "end": 2887
+  },
+  {
+    "fact": "埃及授课：Lifeworld/Afterworld、Anubis psychopomp、death＝temporary interruption",
+    "anchor": "death was a temporary interruption to life",
+    "start": 3493,
+    "end": 3535
+  },
+  {
+    "fact": "太阳格言：giver and taker of life、destroys everything even willpower、provides rhythm",
+    "anchor": "The sun is everything in Egypt.",
+    "start": 6923,
+    "end": 6954
+  },
+  {
+    "fact": "编队：Milan 一夜→Paris、Katy 同行；Gloria 拉 Julian 旅行→we'll see what eventuates",
+    "anchor": "Gloria wants me to go travelling with her",
+    "start": 7539,
+    "end": 7580
+  }
+]

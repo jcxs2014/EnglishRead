@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "Katy 找到圣彼得大教堂——girl from the Wimmera 的 instinct",
+    "anchor": "a girl from the Wimmera can be present for such a sight",
+    "start": 1178,
+    "end": 1233
+  },
+  {
+    "fact": "方尖碑独白：dreamscape captivating；幽灵雕像 forlorn and unloved",
+    "anchor": "This dreamscape is captivating.",
+    "start": 1535,
+    "end": 1566
+  },
+  {
+    "fact": "哈托尔纹身引车祸：司机 rubbernecking→swerved→scrape→两司机互吼→鼻血",
+    "anchor": "he swerved the taxi into the path of another car",
+    "start": 3144,
+    "end": 3192
+  },
+  {
+    "fact": "无聊梦境：被锁在官僚噩梦内→force herself to wake up→escape the horror",
+    "anchor": "she would force herself to wake up to escape the horror, oh, the horror",
+    "start": 4385,
+    "end": 4456
+  },
+  {
+    "fact": "叙述者两拳押韵论：taxi driver 挨打＝Martin 打书评人的 rhyming",
+    "anchor": "was a rhyming, so to speak, of the earlier punch in the face",
+    "start": 5001,
+    "end": 5061
+  }
+]

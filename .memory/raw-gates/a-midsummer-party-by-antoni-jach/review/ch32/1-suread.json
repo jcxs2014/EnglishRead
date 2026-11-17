@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "Kuranda 计划：Far North Queensland 山顶村→3:30pm 后 Rip-Van-Winkle slumber→birds take over→melancholy town",
+    "anchor": "the town falls into a Rip-Van-Winkle-fairytale-like slumber",
+    "start": 877,
+    "end": 936
+  },
+  {
+    "fact": "华沙车站：售票员伏特加午饮→moroseness→Poles 自嘲公式 pretend to pay/pretend to work",
+    "anchor": "the government pretends to pay us, and we pretend to work",
+    "start": 3998,
+    "end": 4055
+  },
+  {
+    "fact": "走私客：Łódź 衣物贝雷帽→Western sell→buy meat coffee→back to Poland→every two weeks",
+    "anchor": "they were all black marketeers",
+    "start": 4645,
+    "end": 4675
+  },
+  {
+    "fact": "农场已卖：Panton Hill Hotel 代替——abundance/power of Nature→Can we go visit→sold",
+    "anchor": "The farm was sold.",
+    "start": 7152,
+    "end": 7170
+  },
+  {
+    "fact": "椰子死亡：falling coconuts on beach→don't kill on land→kill in sea→half the stories true",
+    "anchor": "you can be killed by falling coconuts",
+    "start": 9240,
+    "end": 9277
+  }
+]

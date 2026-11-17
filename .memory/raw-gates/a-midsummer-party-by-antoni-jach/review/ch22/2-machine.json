@@ -1,0 +1,214 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/ch22 eternal recurrence.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/text/ch22_22.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When we remembered that the restaurant was closing, we went into the bar area and found to our surprise that we were loc",
+          "ok": true,
+          "pos": 1131
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Because according to Nietzsche, after we died and were reborn, we would live every detail of our previous life in exactl",
+          "ok": true,
+          "pos": 1953
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It's a brilliant theory, I said. Truly mind-expanding. But wouldn't it lead to a paralysis of being? In the sense that w",
+          "ok": true,
+          "pos": 2459
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The ancient Egyptians believed in a life cycle of birth, death and eternal life – if certain practices, especially mummi",
+          "ok": true,
+          "pos": 3063
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The sun is everything in Egypt. The sun is the giver and the taker of life. It provides the conditions of life, and it d",
+          "ok": true,
+          "pos": 6823
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.42
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter 22",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      3,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1452,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 7、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

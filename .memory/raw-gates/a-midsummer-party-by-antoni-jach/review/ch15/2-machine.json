@@ -1,0 +1,332 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/ch15 writing rhymes in the library.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/text/ch15_15.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Notice the eyes – they look so wise and so soulful – and the body. The animal looks so human, like an old man wearing a ",
+          "ok": true,
+          "pos": 251
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "well, it wasn’t just any young dude – it was Xavier’s twenty-year-old son, and I found out the son’s girlfriend is here ",
+          "ok": true,
+          "pos": 1404
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He calls me Smygalina – how charming. He’s attractive for an old silver-grey fox, even though his hair is jet-black, pro",
+          "ok": true,
+          "pos": 2109
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Yes, the market suffers from amnesia. It’s been two years since your first and only book was published. You’re old news.",
+          "ok": true,
+          "pos": 3203
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "When the sacred flame of inspiration on Mount Olympus goes out, it goes out. My guru says I need to be more more; I need",
+          "ok": true,
+          "pos": 7734
+        },
+        {
+          "text": "My psychic says, As the leaves brown, so do they tumble. My Tarot card reader says I have to unchain my inner wisdom, wh",
+          "ok": true,
+          "pos": 7957
+        },
+        {
+          "text": "Which leaves me exactly where",
+          "ok": true,
+          "pos": 8141
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But my photo, it’s not even me – it’s a picture of my gorgeous older sister, Inge",
+          "ok": true,
+          "pos": 9294
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘There was a young woman who lived in a fair.’",
+          "ok": true,
+          "pos": 15071
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I seized the day",
+          "ok": true,
+          "pos": 18267
+        }
+      ],
+      "words": 4
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It’s important in life to get the correct balance between stimulants and relaxants. I’ve had a lot of alcohol tonight, s",
+          "ok": true,
+          "pos": 19068
+        }
+      ],
+      "words": 94
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.57
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter 15",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7,
+    "block_range": [
+      3,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3991,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 7、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

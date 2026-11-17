@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "Job Warehouse：No looking, only buying——进店必须买东西",
+    "anchor": "No looking, only buying.",
+    "start": 1084,
+    "end": 1108
+  },
+  {
+    "fact": "板球渴望：male crowd waiting for something momentous→never happened",
+    "anchor": "something momentous to happen, but that momentous thing never happened",
+    "start": 3128,
+    "end": 3198
+  },
+  {
+    "fact": "澳洲三神经症：tyranny of isolation＋penal colony＋theft of land from original inhabitants",
+    "anchor": "the tyranny of isolation",
+    "start": 4650,
+    "end": 4674
+  },
+  {
+    "fact": "Bacon 地铁：You're Francis Bacon→I am too→back to newspaper；香槟格言",
+    "anchor": "I am too, before going back to his newspaper",
+    "start": 6144,
+    "end": 6188
+  },
+  {
+    "fact": "Kinglake 亡友：mud-brick double-storey on edge of National Park→beautiful but deadly location",
+    "anchor": "a magnificent house in a beautiful but deadly location",
+    "start": 8468,
+    "end": 8522
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "Girl with a Flute：no longer listed as Vermeer→studio associate（怪——Vermeer 没助手记录）",
+    "anchor": "no longer listed as a Vermeer",
+    "start": 915,
+    "end": 944
+  },
+  {
+    "fact": "wooden left hand：frontal stare uncommon device→status not clear-cut",
+    "anchor": "something decidedly wooden about the treatment of the left hand",
+    "start": 1601,
+    "end": 1664
+  },
+  {
+    "fact": "荷兰画产：1640-1659 约 130 万幅；Amsterdam 千分之一是画家",
+    "anchor": "1.3 million paintings were produced in the Netherlands",
+    "start": 3778,
+    "end": 3832
+  },
+  {
+    "fact": "1642 双星：Night Watch＋Tasman 发现塔斯马尼亚南端",
+    "anchor": "Rembrandt painted The Night Watch",
+    "start": 5017,
+    "end": 5050
+  },
+  {
+    "fact": "Chip 弃稿：van Meegeren 痴三年→两本杰作 bowled over→feeble efforts redundant→toss draft",
+    "anchor": "made my feeble efforts redundant",
+    "start": 6604,
+    "end": 6636
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "两张照片：Il Dolce Far Niente＋Chi va piano→Four Mile Beach→glimpse of happiness→My future starts now",
+    "anchor": "My future starts now!",
+    "start": 1442,
+    "end": 1463
+  },
+  {
+    "fact": "Rudolph 书架控制：six books at once→he re-shelve by author name→in control of every little thing",
+    "anchor": "he wanted to be in control of every little thing",
+    "start": 7210,
+    "end": 7258
+  },
+  {
+    "fact": "Rudolph 无幽默感：razor-sharp mind cuts→no friends→too flippant→sickening feeling→no sense of humour",
+    "anchor": "had no sense of humour",
+    "start": 8581,
+    "end": 8603
+  },
+  {
+    "fact": "rebound 买房：tumble-down cottage North Fitzroy→cute front hideous back→topiary→bush-haircut 100/bush",
+    "anchor": "a ridiculous sum for a bush-haircut",
+    "start": 10996,
+    "end": 11031
+  },
+  {
+    "fact": "revelation：train journey shouldn't end→woken from slumber→more sensate→denatured and enervated",
+    "anchor": "so denatured and so enervated by quotidian reality",
+    "start": 12365,
+    "end": 12415
+  }
+]

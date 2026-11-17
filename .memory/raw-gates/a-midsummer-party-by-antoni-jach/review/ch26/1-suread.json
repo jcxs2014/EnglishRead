@@ -1,0 +1,56 @@
+[
+  {
+    "fact": "悉尼暴雨美学：thousands of lightning bolts crisscrossing→ferry in thunderstorm→theatrical",
+    "anchor": "thousands of bolts of lightning crisscrossing the sky",
+    "start": 1994,
+    "end": 2047
+  },
+  {
+    "fact": "博士生死：My work defines me→交完作业交完分数提交论文→just as predicted he died",
+    "anchor": "he surprised me by saying, My work defines me",
+    "start": 3250,
+    "end": 3295
+  },
+  {
+    "fact": "教授退休死：deferral of pleasure 信徒→retirement 第一周机上 heart attack→Singapore 前",
+    "anchor": "he had a massive heart attack and died before the plane had touched down on its ",
+    "start": 4256,
+    "end": 4359
+  },
+  {
+    "fact": "行政主管死：白细胞骤失→at work slumped over desk in full sight→overwork 三连",
+    "anchor": "just slumped over his desk in full sight of everyone around him",
+    "start": 5200,
+    "end": 5263
+  },
+  {
+    "fact": "Rory 挥拳：Give me back my bike→punch→swayed→missed inches→crashed→slumped→McDonald's coffee",
+    "anchor": "he threw a punch at my face",
+    "start": 8055,
+    "end": 8082
+  },
+  {
+    "fact": "坠猫奇案：drugged the cat→balustrade→four floors→hit back of neck",
+    "anchor": "it fell four floors",
+    "start": 12219,
+    "end": 12238
+  },
+  {
+    "fact": "闪电幸存者：二十米抛出→never walk again→Chinese doctor→six months later walk again",
+    "anchor": "she went to a Chinese doctor, and six months later she could walk again",
+    "start": 14052,
+    "end": 14123
+  },
+  {
+    "fact": "男孩防灾：Eurostar 隧道水压→collapse→pumps fail if no electricity→three dangers per journey",
+    "anchor": "I can see three dangers for every part of a journey",
+    "start": 17567,
+    "end": 17618
+  },
+  {
+    "fact": "男孩星辰：telescope→universe expanding→stars drifting→no more stars→wouldn't that be terrible",
+    "anchor": "Maybe one night there will be no more stars in the sky",
+    "start": 16008,
+    "end": 16062
+  }
+]

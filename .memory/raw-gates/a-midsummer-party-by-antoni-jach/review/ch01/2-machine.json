@@ -1,0 +1,349 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/ch01 walking to the midsummer party.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-midsummer-party-by-antoni-jach/text/ch01_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "she had been astonished, while looking out of the window, to be able to read quite clearly the sign ROMA TERMINI – which",
+          "ok": true,
+          "pos": 403
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "and then she had noticed from the plane the railway tracks right below her that were entering and departing from Roma Te",
+          "ok": true,
+          "pos": 739
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "she was aware yesterday of experiencing a rare and fleeting sense of joy, reminding her of moments in childhood, at bein",
+          "ok": true,
+          "pos": 1883
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "After a while I realised that Katy's monologue had stopped and she was no longer walking beside me, and so I walked back",
+          "ok": true,
+          "pos": 2597
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Do you think we ever get a second chance? At life. Do we ever get a chance to rectify all of the mistakes we have made? ",
+          "ok": true,
+          "pos": 3533
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I used to be able to quote whole chunks of it, but now not so many, although I do remember one particularly lovely line:",
+          "ok": true,
+          "pos": 8072
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But at some time in our late thirties, we flew too close to the sun, and while Gloria prospered, my wax-wings melted and",
+          "ok": true,
+          "pos": 8597
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It's that old love–hate thing going on that we have perfected over about twenty-four years. We became so close to each o",
+          "ok": true,
+          "pos": 8936
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Ten years ago I ran into an American couple, a neurologist called Gary and a psychologist called Nancy, in Cordoba, and ",
+          "ok": true,
+          "pos": 12366
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Something amusing happened in the Sistine Chapel yesterday, just before I ran into you: an American guy, standing right ",
+          "ok": true,
+          "pos": 13603
+        }
+      ],
+      "words": 95
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 122,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.33,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Chapter 1",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7,
+    "block_range": [
+      3,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2630,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 7、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
