@@ -1,0 +1,15 @@
+{
+  "chapter": "ch01",
+  "corpus": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch01_1.txt",
+  "method": "R1 盲读子代理（只给 text 路径，未给 md/审查表）；主会话逐一验证锚点字符区间（find==start 且 count==1，7/7 全中）",
+  "coverage": "子代理自报全文 901 字符读毕（第 1 行 c9J 至末行 only the sea answers），开头/中段/结尾无遗漏；全章无数字/日期事实（仅章号 1）",
+  "facts": [
+    {"fact": "清晨的光透过面向大海的窗照进来。", "anchor": "Early-morning light streams in through the window facing the sea.", "start": 11, "end": 76, "occurrences": 1},
+    {"fact": "海鸥在干蓝色天空盘旋，潮水已涨。", "anchor": "Gulls wheel against a parched-blue sky and the tide is in.", "start": 79, "end": 137, "occurrences": 1},
+    {"fact": "Hattie 靠浪涛拍打岩石的响度判断出潮水已涨。", "anchor": "Hattie can tell by how loudly the waves speak against the rocks.", "start": 138, "end": 202, "occurrences": 1},
+    {"fact": "Hattie 每天把一段防护 mantra（It's real. It happened. Don't pretend…）像穿盔甲一样穿上身。", "anchor": "A protective mantra she dons like body armor each day.", "start": 304, "end": 358, "occurrences": 1},
+    {"fact": "Hattie 睁眼时已不再恶心；心跳保持平稳节律而非胸中雷暴；能均匀呼吸。", "anchor": "no longer nauseous as soon as she opens her eyes", "start": 462, "end": 510, "occurrences": 1},
+    {"fact": "Hattie Conlee 翻身，品味 ghosthope，触到的只有平展毯子和一只她继续放在那里的枕头。", "anchor": "Hattie Conlee rolls over, savoring the ghosthope before touching nothing but flat blankets and a pillow she continues to place there.", "start": 694, "end": 827, "occurrences": 1},
+    {"fact": "Hattie 低声道早安，只有大海回应。", "anchor": "she whispers, and only the sea answers", "start": 861, "end": 899, "occurrences": 1}
+  ]
+}
