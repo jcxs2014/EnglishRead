@@ -62,7 +62,7 @@ modified: "2026-11-17"
 |---|---|---|
 | spread-eagle | 四肢摊开的 | pinning her to the bed, spread-eagle |
 | femurs | 股骨 | her femurs from her pelvis |
-| expelled | 排出、喷出 | expelling the liquid from her lungs |
+| heaved | 费力喘息、挣起 | clutching at it as she heaved in difficult breaths |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
