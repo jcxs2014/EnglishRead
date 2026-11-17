@@ -43,7 +43,7 @@ modified: "2026-11-17"
 |---|---|---|
 | rampage | 狂暴横行、撒野 | your deputies went on a fucking rampage and assaulted an employee of the Washington State Police |
 | relieved of | 被解除、被撤去 | You are relieved of your post. |
-| shitstorm | 极度混乱、烂摊子风暴 | pull her into the middle of the shitstorm that was no doubt swirling through Dunning |
+| hyperaware | 对周遭高度警觉、极度敏感 | hyperaware of her every movement as she tried to discern whether or not the woman could be—or should be—trusted |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
