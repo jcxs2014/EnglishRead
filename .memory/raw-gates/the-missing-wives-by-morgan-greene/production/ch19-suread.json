@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch19",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "Alex 应激惊醒——拳头打中 EMT 脸颊、肘膝把 Lacey 踢飞撞墙。",
+   "anchor": "throwing her hand upward into the face of the paramedic kneeling over her",
+   "start": 220,
+   "end": 293
+  },
+  {
+   "fact": "她有既往 TBI——头部受击格外危险；她愿意拿脑损伤赌一把。",
+   "anchor": "it was especially risky for someone like her, with previous TBI, to take any kind of blow to the head",
+   "start": 2661,
+   "end": 2762
+  },
+  {
+   "fact": "拒绝 MRI：会把骨头里的钢钉钢板扯出来——「我没事」。",
+   "anchor": "An MRI will rip the steel pins and plates out of my fucking bones",
+   "start": 4300,
+   "end": 4365
+  },
+  {
+   "fact": "她绝不想让人挖她的过去——尤其是现在。",
+   "anchor": "the last thing she needed was somebody digging into her past. Especially right now.",
+   "start": 5221,
+   "end": 5304
+  },
+  {
+   "fact": "枪掉在 walk-in closet 旁——弹匣是满的、只少一发。",
+   "anchor": "seeing that it was full—bar one round.",
+   "start": 6857,
+   "end": 6895
+  },
+  {
+   "fact": "「我射了天花板」——窗边石膏板上的洞、窗台一层白粉。",
+   "anchor": "I shot the ceiling.",
+   "start": 7237,
+   "end": 7256
+  },
+  {
+   "fact": "孩子们没事——副手在卡车里看着；他们什么都没看见。",
+   "anchor": "A deputy has them outside in a truck.",
+   "start": 7610,
+   "end": 7647
+  },
+  {
+   "fact": "核心问题：「他为什么不杀我？」——她确定他有理由，但不确定想知道是什么。",
+   "anchor": "She had no idea why the killer had spared her.",
+   "start": 8605,
+   "end": 8651
+  }
+ ]
+}
