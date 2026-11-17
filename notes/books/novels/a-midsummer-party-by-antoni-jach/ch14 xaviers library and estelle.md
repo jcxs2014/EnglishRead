@@ -33,14 +33,14 @@ modified: "2026-11-17"
 > The past swirls and hovers around us like an apparition …"
 
 **中文理解**：墙上另一张照片让叙述者似曾相识：「我好像坐过那趟车——除非那是个梦。」「那是 Sorrento 到 Portsea 的巴士。」「对，我认出来了。」Xavier 总结：「过去像幽灵一样在我们四周盘旋、徘徊……」
-**关键词**：in the recesses of my mind、unless it was a dream、the Sorrento to Portsea bus、The past swirls and hovers around us like an apparition
+**关键词**：in the recesses of my mind、unless it was a dream、the Sorrento to Portsea bus、swirls and hovers、like an apparition
 **为什么这样写**：似曾相识先被自我怀疑（除非是个梦），再被一句报站名坐实——记忆的验证程序如此轻巧；「apparition」是本章的形而上注脚：照片墙让过去成为常驻幽灵。普鲁斯特图书馆里谈「逝去的时光」，点题不着痕迹。
 **读者视角提示**：与 ch04 的「I had been here before」连读：本书的 déjà vu 都有实据（照片、巴士、车站）。记住 Sorrento–Portsea：墨尔本的海岸线将在 Part Two 反复回响。
 
 > **原句 3:** "He’s a former film director, and he was living on a farm where he was hiding out from his creditors. I stayed with him for a month, and I worked for him as a jackaroo, simply because I liked the name. All I did was ride around on a horse, checking his fences"
 
 **中文理解**：Xavier 的澳洲年：与一位躲债的旧同学（前电影导演）在维多利亚乡下农场住了一个月，「我给他当 jackaroo（牧场帮工）——纯粹因为喜欢这个词。我做的事就是骑马巡他的围栏。」
-**关键词**：a former film director、hiding out from his creditors、as a jackaroo、simply because I liked the name、riding around on a horse
+**关键词**：a former film director、hiding out from his creditors、as a jackaroo、simply because I liked the name、ride around on a horse
 **为什么这样写**：贵族式旅行观的暴露镜头：工种选择以「名字好听」为标准——农场生计被过成词汇课；「hiding out from his creditors」顺手给出农场故事的荒诞底座。语言先于劳动，正是本书所有旅行者的通病。
 **读者视角提示**：与 Anneliese 的农场打工（ch09/11）对照：同为「围栏」，他骑马巡看、她们亲手重修——浪漫的与按小时计费的。记住 jackaroo 这个词的虚荣。
 
