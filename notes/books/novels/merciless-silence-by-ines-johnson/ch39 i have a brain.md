@@ -49,25 +49,25 @@ modified: "2026-11-17"
 **为什么这样写**：三连 You trust 把矛盾的证据摆上台面——他们敢把命交给他，却不敢给他发言权；最后一句的对比（平板 vs 身体）点破这场冲突的荒谬：同一套判断力，换个道具就成了蠢。
 **读者视角提示**：这句是他全书最有力的控诉——不是「你们不爱我」，是「你们的爱只覆盖我的手」。
 
-> **原句 6:** ""I never said you were stupid."" … ""Just that you're smarter than me."" … ""Yeah." Again, with the brow raise like that was the end of it. But Vidar added on. "But you're not stupid. Do you need me to, like, validate you or something?"" … "We stared at each other. My shoulders tightened. Vidar's face twisted as if he'd just tasted something sour. There were feelings in the room now. We'd gone too far."
+> **原句 7:** ""I never said you were stupid."" … ""Just that you're smarter than me."" … ""Yeah." Again, with the brow raise like that was the end of it. But Vidar added on. "But you're not stupid. Do you need me to, like, validate you or something?"" … "We stared at each other. My shoulders tightened. Vidar's face twisted as if he'd just tasted something sour. There were feelings in the room now. We'd gone too far."
 **中文理解**：「我从没说你蠢。」「只说比我聪明。」「对。」他又挑眉，好像这就是结论。但他补了一句：「不过你不蠢。你是要我，呃，肯定你一下还是怎样？」两人对视。他的肩膀收紧；Vidar 的脸扭成一团，像刚尝到酸东西。房间里有情绪了。他们走得太远了。
 **关键词**：I never said you were stupid / you're not stupid / validate you or something / We'd gone too far
 **为什么这样写**：兄弟式的和解必须带脏：Vidar 的让步（you're not stupid）被包装成嫌弃（do you need me to validate you）；而「有情绪了／走得太远了」两句是全章的喜剧出口——两个不擅表达的男人用尴尬作结，比拥抱更真实。
 **读者视角提示**：记住这个「承认但不煽情」的家庭语法——它和 ch26 女人堆里的「无害互怼」是同一套文化，只是男版更硬。
 
-> **原句 7:** "I still wasn't ready to tell them just what a mastermind my wife was yet. She'd asked me to trust her. I believed she was going to try to untangle the mess she had made. I planned on being right there beside her as she unraveled the knots. After things were untied, and we'd had a serious heart to heart, then I'd tell my family what an asset we'd acquired with my pink princess."
+> **原句 8:** "I still wasn't ready to tell them just what a mastermind my wife was yet. She'd asked me to trust her. I believed she was going to try to untangle the mess she had made. I planned on being right there beside her as she unraveled the knots. After things were untied, and we'd had a serious heart to heart, then I'd tell my family what an asset we'd acquired with my pink princess."
 **中文理解**：他还没准备好告诉他们，他的妻子是个多么厉害的主谋。她求他相信她；他相信她会试着把自己弄出的乱局解开。他打算就站在她身边，陪她把那些结一个个拆开。等结都解了、两人认真谈过之后，他再告诉家族：他们用这位粉色公主换来了什么样的资产。
 **关键词**：She'd asked me to trust her / untangle the mess she had made / right there beside her / what an asset we'd acquired
 **为什么这样写**：mastermind 与 asset 两个词说明他的评价已变：从「需要保护的妻子」变成「家族最大的资产」；而「站在她身边拆结」是他对婚姻的最新定义——不是保护，是并肩作业。
 **读者视角提示**：注意他把「谈过之后再说」当条件——他没有放弃对家族的义务，只是把它排在信任之后；这个排序是全书后期危机的引信。
 
-> **原句 8:** "Vidar let out a dry chuckle, adjusting his cuffs. "Your wife survived Ma, Astrid, and our mates in the same room. Of course she’s not stupid. But she might be dangerous.""
+> **原句 9:** "Vidar let out a dry chuckle, adjusting his cuffs. "Your wife survived Ma, Astrid, and our mates in the same room. Of course she’s not stupid. But she might be dangerous.""
 **中文理解**：Vidar 干笑一声，整了整袖口：「你老婆能在同一间屋子里活过老妈、Astrid 和我们的伴侣。她当然不蠢。但她可能很危险。」
 **关键词**：survived Ma, Astrid, and our mates / not stupid / she might be dangerous
 **为什么这样写**：让步与警报在同一句里发出——他承认她的智力（not stupid），同时第一次把「危险」这个词用在她身上；而 Gunnar 只回以沉默，因为他手里握的比 Vidar 猜的多得多。
 **读者视角提示**：这是外部视角第一次追上真相的边缘——记住「might be dangerous」的措辞：他们还在「可能」，而读者已经知道是「确实」。
 
-> **原句 9:** "Ivar lifted his chin. "I'm a Blackwood. Isn't pack business my business? You guys keep saying I'm going to have responsibilities someday, but how am I supposed to learn anything if you keep treating me like a pup and always make me stay home?""
+> **原句 10:** "Ivar lifted his chin. "I'm a Blackwood. Isn't pack business my business? You guys keep saying I'm going to have responsibilities someday, but how am I supposed to learn anything if you keep treating me like a pup and always make me stay home?""
 **中文理解**：Ivar 抬起下巴：「我是 Blackwood。家族的事不就是我的事吗？你们总说我将来会有责任，可你们一直把我当小狗、总让我待在家里，我怎么可能学到东西？」
 **关键词**：I'm a Blackwood / Isn't pack business my business? / treating me like a pup / how am I supposed to learn
 **为什么这样写**：全章最后一段是与开头呼应的主题变奏：Ivar 说的话几乎就是 Gunnar 刚才的申诉（别把我当废物/小狗），只是换成了最小的弟弟——「被低估」在这个家里是代际遗传。他的反问语法（Isn't X my X?）比任何请求都更有效。

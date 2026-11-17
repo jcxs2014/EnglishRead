@@ -15,7 +15,7 @@ modified: "2026-11-17"
 ## 精读
 > **原句 1:** "My wolf surged forward. So did every other wolf in the room. Fear had a scent. So did fury. There was plenty of both. At least the cloying perfume scent was gone." … "A few women screamed. Most didn't. These weren't helpless women gathered for tea. These were Alphas. Matriarchs. CEOs. Politicians. Women who controlled packs and corporations. Women who moved millions of dollars with swirly signatures. Women who ended careers with polite phone calls. They did not appreciate having guns pointed at them."
 **中文理解**：她的狼往前一冲，屋里每一头狼也是。恐惧有气味，暴怒也有——两样都很充足。至少那股腻人的香水味散了。——有几个女人尖叫，大多数没有。这些不是聚在一起喝茶的无助女人：这些是 Alpha、女族长、CEO、政客；掌控 pack 与公司的女人、用花体签名调动数百万美元的女人、用礼貌的电话终结别人职业生涯的女人。她们不喜欢被人用枪指着。
-**关键词**：Fear had a scent. So did fury. / not helpless women / moved millions of dollars / ended careers with polite phone calls
+**关键词**：Fear had a scent. So did fury. / weren't helpless women / moved millions of dollars / ended careers with polite phone calls
 **为什么这样写**：她先给狼群反应，再用「这些不是弱女人」的清单重新标定整个房间的战力等级；三个 who 从句把「权力」从武力换算成资本与电话——这是她最熟悉的世界语言。而「不喜欢被枪指着」这个轻描淡写的结尾，比任何抗议都更显示出阶级。
 **读者视角提示**：记住这个房间的战力配置——它解释了后面为什么一次粗暴的突袭会付出那么高的政治代价。
 

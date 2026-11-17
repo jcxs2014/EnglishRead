@@ -25,13 +25,13 @@ modified: "2026-11-17"
 **为什么这样写**：教练四句全是动词祈使（remember / don't let / keep / own），是构建而非防御；三条「因为」把攻击的来源列清（新/血统/婚姻），让防御有靶子。这种「把人往上抬」的语法正是本书对好母亲的唯一定义。
 **读者视角提示**：记住这套教练模板——后面 Mei Ling 对 Rosalind 用的是同一套（授权而不是使用）。
 
-> **原句 2:** "I sat back in my corner of the leather seat, keeping my face flat behind my dark designer sunglasses, but internally, I was thoroughly surprised. Sorsha had spent my entire life coaching me, but every piece of advice my mother ever gave was wrapped in threat, leverage, or manipulation. Listening to Mei Ling genuinely coach Nell—building her up rather than trying to use or break her to her own advantage—was an alien phenomenon."
+> **原句 3:** "I sat back in my corner of the leather seat, keeping my face flat behind my dark designer sunglasses, but internally, I was thoroughly surprised. Sorsha had spent my entire life coaching me, but every piece of advice my mother ever gave was wrapped in threat, leverage, or manipulation. Listening to Mei Ling genuinely coach Nell—building her up rather than trying to use or break her to her own advantage—was an alien phenomenon."
 **中文理解**：她靠回皮椅的角落，脸在墨镜后保持平板，但内心彻底惊讶：Sorsha 也「教练」了她一辈子，可母亲给的每条建议都包着威胁、杠杆或操纵。听 Mei Ling 真心实意地训练 Nell——把她举起来，而不是利用或击碎她以谋自己的利——是一种陌生的现象。
 **关键词**：wrapped in threat, leverage, or manipulation / building her up / use or break her / an alien phenomenon
 **为什么这样写**：三个词（threat / leverage / manipulation）是她给母亲教育方式的完整归档；而「building her up rather than using or breaking」一句点出两种权力的分野：一种靠抬高别人，一种靠压低别人。alien 一词最狠——她要用「异形」来形容善意，说明她的世界有多窄。
 **读者视角提示**：这一句是全书对 Sorsha 教育方式的终极判词，也为她后面「选家人」埋好情感逻辑。
 
-> **原句 3:** "I sat frozen behind my black lenses. The gesture befuddled me completely. In my world, a mother's critique was followed by punishment or cold dismissal, never by genuine pride and affection. A pang of envy sliced straight through my ribs before I could lock it down."
+> **原句 4:** "I sat frozen behind my black lenses. The gesture befuddled me completely. In my world, a mother's critique was followed by punishment or cold dismissal, never by genuine pride and affection. A pang of envy sliced straight through my ribs before I could lock it down."
 **中文理解**：她戴墨镜僵坐着。那个举动把她彻底弄懵：在她的世界里，母亲的批评之后跟着的是惩罚或冷淡的驱赶，从来不是真心的骄傲与亲昵。一阵嫉妒直直剖开她的肋骨，她来不及把它锁回去。
 **关键词**：frozen behind my black lenses / befuddled me completely / never by genuine pride and affection / a pang of envy
 **为什么这样写**：全段最动人的是「来不及锁回去」——她的情绪管理第一次失手，而失手的对象是「嫉妒」这种她本不该有的柔软情绪。嫉妒在这里不是缺点，是证据：她终于承认自己缺过什么。

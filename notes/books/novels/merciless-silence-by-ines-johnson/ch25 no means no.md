@@ -39,7 +39,7 @@ modified: "2026-11-17"
 
 > **原句 5:** "Three newly mated Blackwood brothers." … ""We're fucking pathetic," Magnus chuckled. "All three of us are pussy whipped.""
 **中文理解**：三个刚配对的 Blackwood 兄弟。三个妻子在家。没一个人肯穿裤子上班。「我们真他妈惨，」Magnus 笑了，「三个都被老婆拿捏得死死的。」
-**关键词**：Three newly mated / Three wives at home / not one of us willing to put on pants / pussy whipped
+**关键词**：Three newly mated Blackwood brothers / pussy whipped
 **为什么这样写**：三个短句堆叠成喜剧的重音节拍——数字重复（Three/Three/not one）把家族最强战力的集体投降写成报表；pussy whipped 的自嘲是本书对「Alpha 神话」最痛快的解构：他们的权力在母亲、妻子面前一戳就破。
 **读者视角提示**：对照 ch11 父母那一代「Family first」的冷硬，本章是新一代的镜像：同样的 Blackwood 男性，把「不肯离开妻子」当荣誉。
 

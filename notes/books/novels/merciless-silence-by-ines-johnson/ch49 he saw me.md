@@ -21,7 +21,7 @@ modified: "2026-11-17"
 
 > **原句 2:** ""You figured out what Rosalind was up to before anyone else in this house even suspected a thing. Instead of throwing her to the wolves—instead of letting this pack tear her apart for lying—you handled it. You kept her safe, you brought her clean into the family fold, and you made sure everyone in that room knew she was untouchable.""
 **中文理解**：「她做了什么，你比这屋里任何人都先看出来。你没有把她丢给狼群——没有让这个 pack 因她撒谎把她撕碎——你自己处理了。你保住了她的安全，把她干干净净地带进了家族，还让屋里所有人都知道：她动不得。」
-**关键词**：before anyone else did / Instead of throwing her to the wolves / brought her clean into the family fold / untouchable
+**关键词**：before anyone else in this house / Instead of throwing her to the wolves / brought her clean into the family fold / untouchable
 **为什么这样写**：父亲这段评价按顺序点出他做对的三件事：判断（先看出来）、抉择（没交出去）、执行（带进宫并立威）——这是家族对中层管理者的完整考核表。throwing her to the wolves 的字面与比喻在这里打通：这家人真的会把不合格的成员喂狼。
 **读者视角提示**：注意父亲用的是「untouchable」——他认出儿媳对家族的价值，也确认了儿子的立场；这是 Blackwood 家族的正式接纳仪式。
 

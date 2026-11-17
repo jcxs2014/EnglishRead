@@ -10,7 +10,7 @@ modified: "2026-11-17"
 - **情感弧线位置**：游戏规则固化章：上一章的「请求协议」进化为「互测协议」——双方都在确认对方会持续给出想要的答案；她第一次承认自己想被抓住（但仍不肯说）。
 - **Tropes 兑现/反转**：兑现 chase-in-the-bedroom 与 brat 惯例；反转：逃跑是邀请、被抓是胜利——她在计时器归零前就把终点站摆好。
 - **人物弧线**：Rosalind：从「指挥男人」到「喜欢被指挥」的参数迁移，同时死守「我不需要人」的口供；Gunnar：松手零延迟的执行者——他懂「放」与「抓」是同一枚硬币的两面。
-- **叙事手法**：空间记忆计步（十二步到沙发）当追捕地图；气味追踪（copper+peppermint）让盲眼猎物也有雷达；「Let go→immediately dropped→pout」三拍喜剧拆解权力；末句 technically 的法律腔收束自嘲。
+- **叙事手法**：空间记忆计步（十二步到沙发）当追捕地图；气味追踪（copper+peppermint）让盲眼猎物也有雷达；「放手—手臂立刻垂下—撅嘴」三拍喜剧拆解权力；末句 technically 的法律腔收束自嘲。
 
 ## 精读
 > **原句 1:** "No man had ever told me what to do. Men asked. Men hoped. Men waited for some indication that they'd pleased me and tried desperately to do it again." … "Gunnar bossed me around. And I liked it. I liked his weight holding me down. I liked the command in his voice. I liked being told to stay still almost as much as I liked doing something to test whether he could make me."
