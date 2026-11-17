@@ -14,10 +14,10 @@ modified: "2026-11-17"
 
 ## 精读
 
-> **原句 1:** "Well, I was in Washington, DC, recently for work, and I was at the National Gallery of Art, and as is my habit I went to visit the Vermeers. They have Woman Holding a Balance and Girl with the Red Hat, but they also have a painting I have become obsessed with – it's called Girl with a Flute, and it's no longer listed as a Vermeer but rather it's now categorised as being by a 'studio associate' of Vermeer which is odd because he is not known to have worked with any studio associates … Other experts consider it to be a real Vermeer. Can you recall it?"
+> **原句 1:** "Well, I was in Washington, DC, recently for work, and I was at the National Gallery of Art, and as is my habit I went to visit the Vermeers. They have Woman Holding a Balance and Girl with the Red Hat, but they also have a painting I have become obsessed with – it's called Girl with a Flute, and it's no longer listed as a Vermeer but rather it's now categorised as being by a 'studio associate' of Vermeer which is odd because he is not known to have worked with any studio associates … Other experts consider it to be a real Vermeer."
 
 **中文理解**：Chip 的执念之作：华盛顿国家美术馆的维米尔专程朝圣——《持天平的女人》《戴红帽的女孩》之外，是让他入迷的《持笛女孩》：它已被除名出维米尔名下、改归「画坊同僚」——可怪就怪在：维米尔从来就没有画坊同僚的记录。……也有专家认定它是真迹。「你还记得它吗？」
-**关键词**：the National Gallery of Art、Girl with a Flute、no longer listed as a Vermeer、a ‘studio associate’ of Vermeer、Other experts consider it to be a real Vermeer
+**关键词**：the National Gallery of Art、Girl with a Flute、no longer listed as a Vermeer、a ‘studio associate’ of Vermeer、Other experts consider it
 **为什么这样写**：归属权在句内来回易主——降级又存疑，鉴定学的摇摆被一句长话演完；「studio associate」这个头衔本身是补丁（给他没有的工坊补个助手）；画名复数清单（Balance/Red Hat/Flute）让朝圣有了馆藏目录的形状。
 **读者视角提示**：记住「没有画坊的画家」——维米尔的孤独（与 ch19 的 innkeeper 副业呼应）使伪造无从依托。这场对话是给 ch12 教授的正规军版本。
 
@@ -27,7 +27,7 @@ modified: "2026-11-17"
 > So, the status of the Flute painting is not clear-cut; unlike those biblical scene fakes of Vermeer by Han van Meegeren, which are unbelievably horrible in appearance"
 
 **中文理解**：他的两眼法：「初看：嗯，很容易就是维米尔。再看：正面直视这种手法在维米尔并不常见，而持笛的那只左手画得有点『木头』。」「《持笛》的归属确实不明朗——不像范·米格伦那些圣经场景伪作，外观难看得难以置信。」
-**关键词**：at second glance、the frontal stare of the girl、decidedly wooden about the treatment of the left hand、the status of the Flute painting is not clear-cut、unbelievably horrible in appearance
+**关键词**：at second glance、the frontal stare of the girl、decidedly wooden about the treatment、the status of the Flute painting、unbelievably horrible in appearance
 **为什么这样写**：鉴定写成两幕剧（first glance/second glance）——手感（wooden hand）比档案更早报警；van Meegeren 的「难看」成为反向标准：笨伪造不出暧昧，只有暧昧配得上维米尔。
 **读者视角提示**：与 ch12 的「The Pink Nude 二十道工序」对读：大师的手是防伪码。记住「木头左手」——它将长期悬在本章结尾那道问题里。
 
@@ -51,7 +51,7 @@ modified: "2026-11-17"
 > **原句 5:** "Over the past three years, I became obsessed with the great Vermeer forger Han van Meegeren, and for a while I was writing a book about him and his fakes. Then last year I was bowled over by two great books about the same topic that made my feeble efforts redundant, so I tossed away the draft"
 
 **中文理解**：Chip 的弃稿史：「过去三年我痴迷大伪作师范·米格伦，一度在写一本关于他与赝品的书。去年两本同题杰作把我这点微薄的功夫彻底比了下去——我把草稿扔了。」
-**关键词**：obsessed with the great Vermeer forger Han van Meegeren、writing a book about him and his fakes、bowled over by two great books、made my feeble efforts redundant、I tossed away the draft
+**关键词**：obsessed with the great Vermeer forger、writing a book about him and his fakes、bowled over by two great books、made my feeble efforts redundant、I tossed away the draft
 **为什么这样写**：学者的诚实以退稿仪式完成——「feeble efforts redundant」的自贬句式是他给同行让路的军礼；「tossed away the draft」与 Chip 一路的失去（家产、画、书稿）形成家风：他的家族擅长扔东西。
 **读者视角提示**：对照 ch10 教授的「magnum opus 一定要写完」——Chip 的扔稿是同一种执念的反面。记住这道终极问题（下一块）：假作名单里可能藏着真迹。
 
