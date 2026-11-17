@@ -13,7 +13,7 @@ modified: "2026-11-17"
 - **叙事手法**：三段式开场（家族宣告→Astrid 轶事→他的失败计划）；身体系统论把谎言写成解剖学；斗兽场比喻带出阶级观；「inconsistency」作为关键词在整个场景中反复回响（墨镜/酒窝/月亮）。
 
 ## 精读
-> **原句 1:** "Iloved Astrid. I would kill for Astrid. I had killed for Astrid. But right now I wanted my sister the fuck out of my car." … ""Gunnar used to steal my dolls. I'd come home from school and find Barbie tied to a chair, or hanging upside down from the banister. Once, he pulled her arm off and told me she'd cracked under questioning."" … "Rosalind burst out laughing."
+> **原句 1:** "I loved Astrid. I would kill for Astrid. I had killed for Astrid. But right now I wanted my sister the fuck out of my car." … ""Gunnar used to steal my dolls. I'd come home from school and find Barbie tied to a chair, or hanging upside down from the banister. Once, he pulled her arm off and told me she'd cracked under questioning."" … "Rosalind burst out laughing."
 **中文理解**：他爱 Astrid。他愿意为她杀人。他为她杀过人。但现在，他只想让这个妹妹立刻滚出他的车。Astrid 讲起童年轶事：Gunnar 会偷她的娃娃，回家看到芭比被绑在椅子上、倒吊在楼梯扶手上；有一次他把娃娃的手臂扯掉，说「她在审讯下崩溃了」。Rosalind 爆笑。
 **关键词**：I would kill for Astrid / hanging upside down from the banister / pulled her arm off / cracked under questioning
 **为什么这样写**：三连爱的宣言（love→kill for→had killed）后面接一句粗口式的逐客令，喜剧建立在真话的密度上；娃娃受刑的「审讯」梗是全章最妙的伏笔——一个从小就在练习刑讯的男人，如今娶的正是被全家人低估的女人。Rosalind 的笑是她在这本书里最没有负担的一次。
@@ -28,8 +28,8 @@ modified: "2026-11-17"
 > **原句 3:** "The human body was a functioning system. Bone supported muscle. Tendons connected muscle to bone. Ligaments stabilized joints. Nerves carried messages. Blood supplied oxygen. Damage one part and the others compensated until they couldn't anymore." … "People worked in the same way. So did lies. One inconsistency meant nothing. Enough of them meant the structure wasn't sound. Rosalind's blindness had inconsistencies."
 **中文理解**：人体是一套运转中的系统：骨撑肌肉、肌腱连筋骨、韧带稳关节、神经传信、血液供氧——损伤一处，其余部分代偿，直到代偿不动为止。人也一样。谎言也一样。一处前后不符不算什么；够多，就说明这套结构不牢。Rosalind 的「盲」有对不上的地方。
 **关键词**：a functioning system / the others compensated / So did lies / the structure wasn't sound
-**为什么这样写**：他用解剖学推理谎言——这段独白把他的思维模式完整交底：他不靠直觉抓谎，靠系统承压测试。最后一句短句落锤，等于宣布调查立案。作者把这个理性的头脑安在他身上，正是全书最大的反差萌点：他笨的不是脑子，是嘴。
-**读者视角提示**：这段是他全书最高光的一次智力展示——对照 ch11 她判他「不够聪明」，她的评估已经过期了。
+**为什么这样写**：他用解剖学推理谎言——这段独白把他的思维模式完整交底：他不靠直觉抓谎，靠系统承压测试。最后一句短句落锤，等于宣布调查立案。作者把这个理性的头脑安在他身上，正是全书反差感最强的人物设定之一：他笨的不是脑子，是嘴。
+**读者视角提示**：这段是他智力最高光的展示之一——对照 ch11 她判他「不够聪明」，她的评估已经过期了。
 
 > **原句 4:** "A modern-day Colosseum. The Lupettos had built a place designed to make men feel like warriors while they sat comfortably drinking thousand-dollar bottles of liquor and watched other men bleed." … "Tonight, I was aware of the woman on my arm. I felt like I was escorting Cleopatra into the Colosseum. Every man in the place could look. Didn't matter. She was mine. And she was the most beautiful fucking woman in the room."
 **中文理解**：一座现代斗兽场——Lupetto 家造了这么个地方，让男人们一边舒服地喝着几千美元一瓶的酒、一边看别人流血，就觉得自己是战士。今晚不同：他知道自己手臂上挽着谁——他觉得自己像护送 Cleopatra 走进斗兽场。全场男人都可以看，没关系。她是他的。而她是这屋里最美的女人。

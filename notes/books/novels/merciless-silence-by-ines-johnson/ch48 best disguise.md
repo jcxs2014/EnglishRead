@@ -6,7 +6,7 @@ modified: "2026-11-17"
 # 48. Chapter Forty-Eight
 
 ## 本章导航
-- **一句话概括**：她的告白章：被抓住后的「绝对投降」不是疼，是荣耀；她第一次承认他「策略上也许和我一样聪明」，也第一次说出他属于她；然后她把一生清算出来——母亲的「保护」是另一种陷阱（被窒息、被消音、被看不见），而 Blackwood 家的不同在于「他们不想藏起我或修好我，他们接受了我也原谅了我的谎」，Gunnar 让她觉得「被选中」；游戏过后她躺在他怀里，不做计划、只是「做他的妻子、伴侣、那个人」——「这是史上最好的伪装」；最后她凑到他耳边，用连蟋蟀都听不到的音量说出那个她原打算永不告诉任何人的秘密：I love you.
+- **一句话概括**：她的告白章：被抓住后的「绝对投降」不是疼，是荣耀；她第一次承认他「策略上也许和我一样聪明」，也说出他属于她；然后她把一生清算出来——母亲的「保护」是另一种陷阱（被窒息、被消音、被看不见），而 Blackwood 家的不同在于「他们不想藏起我或修好我，他们接受了我也原谅了我的谎」，Gunnar 让她觉得「被选中」；游戏过后她躺在他怀里，不做计划、只是「做他的妻子、伴侣、那个人」——「这是史上最好的伪装」；最后她凑到他耳边，用连蟋蟀都听不到的音量说出那个她原打算永不告诉任何人的秘密：I love you.
 - **情感弧线位置**：她的终点章（情感面）：从「被选中」到「我选择留下」，从「交易」到「告白的耳语」——她终于把「爱」这个字说出口。
 - **Tropes 兑现/反转**：兑现 confession-after-intimacy 惯例；反转：她把「做他妻子」称为「最好的伪装」——习惯性的自我保护说辞，与刚刚的告白构成甜蜜的自相矛盾。
 - **人物弧线**：Rosalind：从「谁都不能信」到「说出我属于他」；Gunnar：全程不发一言的角色，只以「让她赢」与「抱着她」存在。
@@ -16,19 +16,19 @@ modified: "2026-11-17"
 > **原句 1:** "It wasn't pain. It was an absolute, glorious surrender." … "Gunnar was bigger than me. He was stronger than me. He might even be almost as smart as me. Not intellectually, but strategically. My hubby was a mastermind in his own right. And he had caught me on so many levels."
 **中文理解**：那不是疼——那是彻底而荣耀的投降。——Gunnar 比她大、比她强；他甚至可能几乎和她一样聪明——不是学术上的，是策略上的。她的老公本身就是个主谋，而他在很多层面上都抓住了她。
 **关键词**：absolute, glorious surrender / almost as smart as me / Not intellectually, but strategically / caught me on so many levels
-**为什么这样写**：「投降」被他写成荣誉而非屈辱，这是她对这段关系定性最准确的一次。而「几乎和我一样聪明」是她全书最慷慨的一次让步——注意她仍保留「几乎」，那份傲慢是她的人物底色，也正因如此这句评价才有分量。
+**为什么这样写**：「投降」被他写成荣誉而非屈辱，这是她对这段关系定性最准确的一次。而「几乎和我一样聪明」是她极慷慨的一次让步——注意她仍保留「几乎」，那份傲慢是她的人物底色，也正因如此这句评价才有分量。
 **读者视角提示**：对照 ch16 她判他「不够聪明」——同一张嘴，三十二章之后给出的新评级；她的世界观是被事实一点点磨改的。
 
 > **原句 2:** "I knew with a possessive certainty that if I ran again—when I ran again—he would come for me. Because no matter how terrifying his strength was to the rest of the world, he belonged to me. And I belonged to him."
 **中文理解**：她带着占有般的笃定知道：如果她再跑——当她再跑时——他会来追。因为不管他的力量对旁人有多可怕，他属于她。而她属于他。
 **关键词**：a possessive certainty / when I ran again / he belonged to me / And I belonged to him
-**为什么这样写**：if→when 的自我修正是本句的灵魂：她知道这不是假设，是日程。而「他属于她 / 她属于他」的对称句式，是她全书第一次给出双向归属——不是被拥有，是互相拥有。
+**为什么这样写**：if→when 的自我修正是本句的灵魂：她知道这不是假设，是日程。而「他属于她 / 她属于他」的对称句式，是她再一次写出双向归属——不是被拥有，是互相拥有。
 **读者视角提示**：记住这个双向句——全书前四十七章她一直只承认单向（她属于她母亲/她被交易），此刻她把归属变成了互相的。
 
 > **原句 3:** "My entire life had been defined by a different kind of trap. My mother had controlled every step I took, holding me so tightly in the name of "protection" that I was suffocated, silenced, and perpetually invisible. Even in a room full of people, I had always been completely alone in the crowd—a broken girl with ruined eyes, meant to be hidden away and managed." … "Then came the Blackwoods."
 **中文理解**：她这一生被另一种陷阱定义：母亲控制她的每一步，以「保护」之名把她抱得那么紧，紧到她窒息、被消音、永远不被看见。即使在满屋子人里，她也总是彻底孤身——一个眼睛坏掉的破碎女孩，注定被藏起来、被管理。——然后是 Blackwood 家。
 **关键词**：a different kind of trap / in the name of "protection" / suffocated, silenced, and perpetually invisible / Then came the Blackwoods.
-**为什么这样写**：三个动词（suffocated/silenced/invisible）并列，把「保护」翻译成三种伤害；而她用「满屋子人里彻底孤身」这个悖论来写孤独——这比「我很孤独」精确一百倍。Then came the Blackwoods 六个词独立成段，是全书最简洁的一次叙事转折。
+**为什么这样写**：三个动词（suffocated/silenced/invisible）并列，把「保护」翻译成三种伤害；而她用「满屋子人里彻底孤身」这个悖论来写孤独——这比「我很孤独」精确一百倍。Then came the Blackwoods 六个词独立成段，是一次极简洁的叙事转折。
 **读者视角提示**：记住这三个词（窒息/消音/不被看见）——它们与后面这家人给她的三个反向体验（呼吸/被听见/被看见）严丝合缝。
 
 > **原句 4:** "For the first time, in a family overflowing with noise and power, I wasn't invisible. Even with my ruined human eyes, I could see them, and they saw me. They didn't want to hide me or fix me. They accepted me. They forgave my lies. They wanted to keep me." … "And Gunnar... Gunnar made me feel chosen."

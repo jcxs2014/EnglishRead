@@ -28,7 +28,7 @@ modified: "2026-11-17"
 > **原句 3:** ""No," I growled, my voice rough and gravelly. "Not like that."" … "I'd never been in love. Didn't know the first thing about having feelings for someone that wasn't blood-related. But I was beginning to suspect it felt something like this. Like falling when there was nothing beneath you, knowing you should be afraid of the landing, and not giving a damn."
 **中文理解**：「不行，」他低吼，声音粗哑。「不是这样。」——他从没爱过，对「非血缘的感情」一窍不通；但他开始怀疑那大概就是这种感觉：像坠落，脚下什么都没有，明知该怕落地，却毫不在乎。
 **关键词**："No," I growled / Not like that / I'd never been in love / Like falling when there was nothing beneath you
-**为什么这样写**：他的第一次拒绝与第一次告白并置在同一段——拒绝的理由是保护，告白的定义是坠落；两者都说明他终于承认自己对这件事没有经验、只有决心。falling 与 landing 的隐喻把她在他身上造成的失控与现代爱情的通用语接通，而 not giving a damn 用粗话收尾，保持他的声线。
+**为什么这样写**：他的又一次拒绝与第一次告白并置在同一段——拒绝的理由是保护，告白的定义是坠落；两者都说明他终于承认自己对这件事没有经验、只有决心。falling 与 landing 的隐喻把她在他身上造成的失控与现代爱情的通用语接通，而 not giving a damn 用粗话收尾，保持他的声线。
 **读者视角提示**：注意他还是没说出口——这份告白先在自己的脑内成立，直到 ch47 他才当面说出口。
 
 > **原句 4:** "I hovered over her, taking a moment to just look down at my wife. In the pale moonlight filtering through the pine canopy, her chest was heaving, her dark hair tangled in the damp moss. I leaned down, resting my forehead against hers, my thumb gently wiping away a stray tear from the corner of her clouded, unseeing eyes. I didn't want to be the brute who broke her. I wanted to be the man who held her together."

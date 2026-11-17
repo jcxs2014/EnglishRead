@@ -22,7 +22,7 @@ modified: "2026-11-17"
 > **原句 2:** ""It gets worse. Petrakis swore Elias Vane got our shipping routes from a source inside the Lobo pack. The Volki were fed bullshit that we were moving into their counterfeit operation. Dante Lupetto heard his pack was looking weak with Vidar taking Addie's hand after her arranged marriage with Valentino was denied, which pushed him to grab Addie." I paused, resting my elbows on my knees. "The whole damn thing is like a gossip show. Like it was a chaotic clusterfuck engineered to make every major pack panic and start chewing on each other's throats.""
 **中文理解**：「更糟的还在后面。Petrakis 起誓说 Elias Vane 的航运路线来自 Lobo pack 内部的来源；Volki 被喂了假消息说我们要进军他们的 counterfeit 生意；Dante Lupetto 听说 pack 显得弱——Vidar 在 Addie 与 Valentino 的包办婚被否后接手——于是动手抢 Addie。」他顿了顿，肘撑上膝。「整件事像一档八卦节目。一场精心 engineer 过的乱局，让每个大 pack 恐慌、开始互相咬喉咙。」
 **关键词**：a source inside the Lobo pack / fed bullshit / engineered to make every major pack panic / chewing on each other's throats
-**为什么这样写**：假旗账目当众复盘——三个受害者、三条假情报、同一个喂食者；gossip show 的比喻点破「乱」本身就是产品：让所有 pack 互咬，是有人要的生态。engineered 一词是全段唯一的技术判断，也是离真相最近的一步。
+**为什么这样写**：假旗账目当众复盘——一串受害者、几条假情报、同一个喂食者；gossip show 的比喻点破「乱」本身就是产品：让所有 pack 互咬，是有人要的生态。engineered 一词是全段唯一的技术判断，也是离真相最近的一步。
 **读者视角提示**：对照 ch15 的三连假旗清单读——本章补上了各 pack 的「反应」栏；这张因果表到总攻章还会再摊开一次。
 
 > **原句 3:** ""Gentlemen," Magnus cut in smoothly, raising a single hand. He didn't raise his voice, but the Alpha authority in it made the room instantly cool down. "Save the dick-measuring for the boxing ring. Someone is intentionally stirring up discord. They’re burning bridges from both ends and hiding their tracks in the smoke.""

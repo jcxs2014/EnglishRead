@@ -1,0 +1,68 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch51",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch51_epilogue.txt",
+ "facts": [
+  {
+   "fact": "他对弑父的态度：一微秒都不后悔。",
+   "anchor": "I didn't regret taking his life. Not for a single microsecond.",
+   "start": 742,
+   "end": 804
+  },
+  {
+   "fact": "他留下那把椅子只因为它合他的身形。",
+   "anchor": "I'd kept the chair because it actually fit my frame.",
+   "start": 1034,
+   "end": 1086
+  },
+  {
+   "fact": "他的权力观：现代黑帮要脑力、数字适应力与技术流利度。",
+   "anchor": "True power in the modern underworld required brain smarts, digital adaptability",
+   "start": 1434,
+   "end": 1513
+  },
+  {
+   "fact": "他的信条：一个 pack 的力量在于它的女人。",
+   "anchor": "\"A pack's strength lies in its women.\"",
+   "start": 3603,
+   "end": 3641
+  },
+  {
+   "fact": "他不打算做 Blackwood 的附庸。",
+   "anchor": "They were wrong.",
+   "start": 4627,
+   "end": 4643
+  },
+  {
+   "fact": "挨打时他在学。",
+   "anchor": "I hadn't just survived those beatings—I’d studied them.",
+   "start": 4646,
+   "end": 4701
+  },
+  {
+   "fact": "他的目标：让 O'Shea 无人可欺。",
+   "anchor": "Make it so untouchable, so brilliant, and so strong",
+   "start": 5177,
+   "end": 5228
+  },
+  {
+   "fact": "他追踪的对象：未婚妻 Astrid 正回校园。",
+   "anchor": "My future bride was headed back to campus.",
+   "start": 6046,
+   "end": 6088
+  },
+  {
+   "fact": "Astrid 以为常春藤砖墙能挡住他。",
+   "anchor": "Astrid thought she could hide behind ivy-covered brick walls",
+   "start": 8460,
+   "end": 8520
+  },
+  {
+   "fact": "章末：他要去追她。",
+   "anchor": "I need a last minute flight.",
+   "start": 8952,
+   "end": 8980
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

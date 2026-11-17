@@ -1,0 +1,219 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch01 gunnar weds rosalind.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch01_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Swearing to cherish a woman is a strange promise for a man like me to make when my hands are usually stained with blood ",
+          "ok": true,
+          "pos": 19
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Rosalind Lobo stood before me. She was a delicate, manicured creature thrown to the wolves—literally. Granted, she’d onl",
+          "ok": true,
+          "pos": 671
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I'm not defective,\" Rosalind said after my mother stepped back. Her voice only carried to me. But these were wolves fill",
+          "ok": true,
+          "pos": 5045
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The wolf beneath my skin growled low in my gut. A territorial pulse flared in my chest. She was already marked as mine t",
+          "ok": true,
+          "pos": 6649
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I was the enforcer. The brute. The fist of the Blackwood pack. Looking down at the sharp, stubborn tilt of Rosalind Lobo",
+          "ok": true,
+          "pos": 8046
+        },
+        {
+          "text": "\"I had no fucking idea how to tame this bitch",
+          "ok": true,
+          "pos": 8237
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.57
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Chapter One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1476,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

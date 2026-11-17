@@ -1,0 +1,308 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch12 dinner shadow war.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch12_chapter_12.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "No, glad to know you're still alive, Rosalind? No, how is your new husband treating you? Just the cold, clinical transac",
+          "ok": true,
+          "pos": 295
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was all I was good for in her eyes, seeing as my eyesight was so poor. My father had been vision impaired, but no one",
+          "ok": true,
+          "pos": 641
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "No, cooking was not part of my mother's lessons. She taught me value. How to recognize quality. What was worth paying fo",
+          "ok": true,
+          "pos": 3964
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"I may look like a sheep, but I'm still a wolf at my core.\"\"",
+          "ok": true,
+          "pos": 6475
+        },
+        {
+          "text": "\"\"Interesting metaphor,\" said Mei Ling. \"A sheep among wolves.\"\"",
+          "ok": true,
+          "pos": 6532
+        },
+        {
+          "text": "\"\"I feel entirely comfortable here.\"\"",
+          "ok": true,
+          "pos": 6591
+        },
+        {
+          "text": "\"\"I never said you were the sheep, dear.\"",
+          "ok": true,
+          "pos": 6625
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Sorsha views me as her greatest masterpiece, but also her greatest disappointment. She believes my blindness makes me d",
+          "ok": true,
+          "pos": 7456
+        },
+        {
+          "text": "I think she has severely underestimated her opponent.\"",
+          "ok": true,
+          "pos": 7726
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "By framing Sorsha as the arrogant aggressor and flattering Mei Ling’s terrifying competence, I accomplished three things",
+          "ok": true,
+          "pos": 7780
+        },
+        {
+          "text": "\"First, I fed Mei Ling’s ego while acknowledging her true authority.\"",
+          "ok": true,
+          "pos": 7909
+        },
+        {
+          "text": "\"Second, I positioned myself as a disgruntled, mistreated daughter who might be willing to betray her mother out of spit",
+          "ok": true,
+          "pos": 7976
+        },
+        {
+          "text": "\"And third, I set the stage for the two most powerful matriarchs in the tri-state area to lock jaws in a brutal shadow w",
+          "ok": true,
+          "pos": 8098
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I had no desire to get pregnant. Not when I could pass this disability onto another living soul. I wasn't that cruel.\"",
+          "ok": true,
+          "pos": 9280
+        },
+        {
+          "text": "\"Gunnar likely took me at my word and thought I was trying to secure my place in the Blackwood pack. He had no idea what",
+          "ok": true,
+          "pos": 9397
+        }
+      ],
+      "words": 68
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1738,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

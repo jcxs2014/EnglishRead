@@ -1,0 +1,50 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch09",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "被「瞎」字刺到的瞬间，露头的是她的狼——无助跌撞的女人瞬间消失，站着的是俯视失言臣下的女王。",
+   "anchor": "It was her wolf peeking through.",
+   "start": 1639,
+   "end": 1671
+  },
+  {
+   "fact": "她语气里的火花像冰水浇醒拳手，溶掉他一层愧疚——金褐皮肤下有钢。",
+   "anchor": "She had steel beneath that golden brown skin.",
+   "start": 2302,
+   "end": 2347
+  },
+  {
+   "fact": "天生如此，但狼的视力完美无缺。",
+   "anchor": "“I was. But my wolf is perfect. She sees just fine.”",
+   "start": 3428,
+   "end": 3480
+  },
+  {
+   "fact": "粉红裙装真相：人形看不见颜色，狼形光谱里没有粉——她从不知道自己一身粉红。",
+   "anchor": "I can’t see color in my human form. And pink is not on the wolf's color spectrum.",
+   "start": 4306,
+   "end": 4387
+  },
+  {
+   "fact": "她第一次反击他的时尚品味：运动服加球鞋的婚礼男。",
+   "anchor": "“Says the man who wore a tracksuit and sneakers to our wedding.”",
+   "start": 4556,
+   "end": 4620
+  },
+  {
+   "fact": "双向同意协议：下次必须两人都想；他也反过来要求她「别再强迫我」。",
+   "anchor": "\"We don’t have sex again until both of us want it. Agreed?”",
+   "start": 6993,
+   "end": 7052
+  },
+  {
+   "fact": "对房间暗影立誓：做她的保护者——第一个要防的威胁就是他自己。",
+   "anchor": "Starting with me.",
+   "start": 8351,
+   "end": 8368
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

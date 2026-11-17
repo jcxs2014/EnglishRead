@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch47",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch47_chapter_47.txt",
+ "facts": [
+  {
+   "fact": "她靠在他肩上闭眼走——每一步都是完全的信任。",
+   "anchor": "Complete trust in every step.",
+   "start": 280,
+   "end": 309
+  },
+  {
+   "fact": "他的发现：柔情比暴力更让她害怕。",
+   "anchor": "Apparently, tenderness frightened my wife more than violence.",
+   "start": 755,
+   "end": 816
+  },
+  {
+   "fact": "他等她的判决：战、逃、还是留。",
+   "anchor": "I waited for her to give me the verdict.",
+   "start": 1326,
+   "end": 1366
+  },
+  {
+   "fact": "他的自省：我一辈子为所爱的人打碎东西。",
+   "anchor": "I'd spent my whole life breaking things for the people I loved.",
+   "start": 1558,
+   "end": 1621
+  },
+  {
+   "fact": "他的目标：为她学会「不弄坏地抱住」。",
+   "anchor": "For Rosalind, I'd learn how to hold on without breaking her.",
+   "start": 1622,
+   "end": 1682
+  },
+  {
+   "fact": "他的新协议：从现在起先告诉我。",
+   "anchor": "From now on, tell me first.",
+   "start": 1769,
+   "end": 1796
+  },
+  {
+   "fact": "他的宣告：你永远、永远甩不掉我。",
+   "anchor": "You are never, ever getting rid of me.",
+   "start": 2103,
+   "end": 2141
+  },
+  {
+   "fact": "为 Rosalind，他要学会不弄坏她就抱住她。",
+   "anchor": "For Rosalind, I'd learn how to hold on without breaking her.",
+   "start": 1622,
+   "end": 1682
+  },
+  {
+   "fact": "章末：随便打，我不会放手，我会永远追来，你是我的。",
+   "anchor": "\"Fight me as hard as you want. I will never let you go. I will always come for you. You are mine.\"",
+   "start": 8624,
+   "end": 8722
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

@@ -1,0 +1,261 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch17 the bathroom door.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch17_chapter_17.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"He's dead,\" I said without preamble. \"I left him in the cellar. You can send a sweep team to bag him.\"\"",
+          "ok": true,
+          "pos": 25
+        },
+        {
+          "text": "\"Vidar didn't even turn around. \"Did he talk, or did you just smash him into pulp before he could give you a single syll",
+          "ok": true,
+          "pos": 124
+        },
+        {
+          "text": "\"\"I am clinical, Vidar. I don't smash; I applied the appropriate amount of pressure to get the results I needed.\"\"",
+          "ok": true,
+          "pos": 247
+        },
+        {
+          "text": "\"\"Did you get what we needed?\" asked Magnus.\"",
+          "ok": true,
+          "pos": 357
+        },
+        {
+          "text": "\"\"Yes. Corin Petrakis sobbed like a child. And then I smashed his head in.\"",
+          "ok": true,
+          "pos": 399
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"It gets worse. Petrakis swore Elias Vane got our shipping routes from a source inside the Lobo pack. The Volki were fed",
+          "ok": true,
+          "pos": 1023
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Gentlemen,\" Magnus cut in smoothly, raising a single hand. He didn't raise his voice, but the Alpha authority in it mad",
+          "ok": true,
+          "pos": 2350
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Then another scent slammed into my senses. My nose wrinkled at the overwhelming smell of cheap aftershave. Then my featu",
+          "ok": true,
+          "pos": 5932
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I closed the distance in a single, explosive stride. I grabbed the guard by the back of his collar and his belt, hauling",
+          "ok": true,
+          "pos": 6953
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The sound of shattering bone and brain matter echoed through the room. Blood erupted across the white porcelain basin, s",
+          "ok": true,
+          "pos": 7269
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.47,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1325,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch38",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch38_chapter_38.txt",
+ "facts": [
+  {
+   "fact": "她当众自首：货运路线是我泄的。",
+   "anchor": "\"I was the one who leaked the freight routes,\"",
+   "start": 1128,
+   "end": 1174
+  },
+  {
+   "fact": "她的动机说明：要真正打痛 Sorsha，只能打她的生意与名声。",
+   "anchor": "The only way to hit Sorsha where it actually hurts is her business and her reputation.",
+   "start": 1476,
+   "end": 1562
+  },
+  {
+   "fact": "Vidar 的质问：法定失明的人怎么读内部运单？",
+   "anchor": "\"How exactly did you read internal shipping ledgers?\"",
+   "start": 1726,
+   "end": 1779
+  },
+  {
+   "fact": "她的回击：我不蠢。",
+   "anchor": "\"I am not stupid.\"",
+   "start": 2091,
+   "end": 2109
+  },
+  {
+   "fact": "她的解法：把 Lupetto 赌场情报喂给那个警察，让联邦转移火力。",
+   "anchor": "Just feed that cop intelligence regarding the Lupetto’s illegal betting rings",
+   "start": 3383,
+   "end": 3460
+  },
+  {
+   "fact": "她当面引用这句狼谚——正是 Dante 与 Corin 那句。",
+   "anchor": "\"The wounded wolf gets eaten.\"",
+   "start": 3836,
+   "end": 3866
+  },
+  {
+   "fact": "Mei Ling 的回应：我第一次被许给 Fenrir 时也干过类似的坏事。",
+   "anchor": "Mei Ling chuckled softly. \"I pulled similar mischief when I was first promised to Fenrir.\"",
+   "start": 5313,
+   "end": 5403
+  },
+  {
+   "fact": "她的决定：把自己埋在 Blackwood 领地的每一颗毒丸都拆掉。",
+   "anchor": "I was going to dismantle every single poison pill I had laid across the Blackwood territory.",
+   "start": 6885,
+   "end": 6977
+  },
+  {
+   "fact": "章末：她真的喜欢上了做这小团体的一员。",
+   "anchor": "I actually liked being part of this little gang.",
+   "start": 6980,
+   "end": 7028
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

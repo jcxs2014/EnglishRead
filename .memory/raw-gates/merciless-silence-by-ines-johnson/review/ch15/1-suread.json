@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch15",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "审讯开场白：沉默不是防线——只是给他留出工作空间。",
+   "anchor": "Silence is a poor defense.",
+   "start": 30,
+   "end": 56
+  },
+  {
+   "fact": "他的五击破防教条；Corin 第 4 击就崩，他仍补满五击（completionist）。",
+   "anchor": "takes five strikes to break a man’s resolve completely.",
+   "start": 4354,
+   "end": 4409
+  },
+  {
+   "fact": "情报一：Ironwoods 出兵理由是「Blackwoods 偷购码头地产堵死航运」——假旗信息，父亲从未做过。",
+   "anchor": "tipped off that the Blackwoods were secretly acquiring dockland properties",
+   "start": 6458,
+   "end": 6532
+  },
+  {
+   "fact": "情报二：匿名投喂让 Elias Vane 从 Blackwood 盗走六百万；同源又喂 Lupettos 推 Dante 对 Addie Vane 动手。",
+   "anchor": "prompted him to five finger six million dollars from us",
+   "start": 6700,
+   "end": 6755
+  },
+  {
+   "fact": "Nikos 画像：半盲但全账在脑——若重脑力轻肌肉，他本该继承 Ironwood。",
+   "anchor": "Nikos had all the shipping ledgers memorized.",
+   "start": 7913,
+   "end": 7958
+  },
+  {
+   "fact": "Petrakis 判词：Nikos 用完即弃——受伤的狼会被吃掉。",
+   "anchor": "\"I think Nikos was useful until he wasn't. A wounded wolf gets eaten.\"",
+   "start": 8431,
+   "end": 8501
+  },
+  {
+   "fact": "炸弹：所有假情报都来自一名 Lobo Enforcer，婚礼当夜还亲自登门。",
+   "anchor": "All the information I've been getting came from a Lobo Enforcer",
+   "start": 8635,
+   "end": 8698
+  },
+  {
+   "fact": "Diego 的口信：Rosalind 有危险——危险来源就是 Gunnar 本人。",
+   "anchor": "\"Take a look in the fucking mirror.\"",
+   "start": 9929,
+   "end": 9965
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

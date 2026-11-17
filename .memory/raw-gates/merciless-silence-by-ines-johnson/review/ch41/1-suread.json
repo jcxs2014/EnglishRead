@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch41",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch41_chapter_41.txt",
+ "facts": [
+  {
+   "fact": "Ivar 看到 Beatrice 时的第一反应：糟了（心跳爆表、眼睛转金）。",
+   "anchor": "Oh, fuck.",
+   "start": 2148,
+   "end": 2157
+  },
+  {
+   "fact": "女孩身份：Beatrice，Valentino 的妹妹，年纪与 Ivar 相仿。",
+   "anchor": "Beatrice. Valentino's little sister.",
+   "start": 2286,
+   "end": 2322
+  },
+  {
+   "fact": "Valentino 当场宣布：Lupetto 家族不再有包办婚姻。",
+   "anchor": "There will be no arranged marriages in the Lupetto clan.",
+   "start": 3565,
+   "end": 3621
+  },
+  {
+   "fact": "他的理由：我妹妹不是谈判筹码。",
+   "anchor": "My sister isn't a bargaining chip.",
+   "start": 3774,
+   "end": 3808
+  },
+  {
+   "fact": "旧制度画像：Dante 把婚姻、伴侣、女人、孩子全当棋盘上的子。",
+   "anchor": "Dante Lupetto had seen marriage, mating, women, children—everything—as another piece on the board.",
+   "start": 4384,
+   "end": 4482
+  },
+  {
+   "fact": "他的担忧：若 Ivar 的狼看上了那女孩，她毫无胜算。",
+   "anchor": "If Ivar's wolf liked that girl, she wouldn't stand a chance.",
+   "start": 4753,
+   "end": 4813
+  },
+  {
+   "fact": "Valentino 的判断：投喂者知道得够危险但不够新——指纹。",
+   "anchor": "Whoever's feeding the cops knows enough to be dangerous but not enough to be current.",
+   "start": 7210,
+   "end": 7295
+  },
+  {
+   "fact": "他终于问出那句：她利用过我吗？",
+   "anchor": "Had she used me?",
+   "start": 8724,
+   "end": 8740
+  },
+  {
+   "fact": "他的决定：我自己处理她。",
+   "anchor": "I would deal with her myself.",
+   "start": 8802,
+   "end": 8831
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

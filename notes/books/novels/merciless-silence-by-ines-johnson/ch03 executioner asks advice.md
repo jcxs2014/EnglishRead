@@ -9,7 +9,7 @@ modified: "2026-11-17"
 - **一句话概括**：婚后酒会上 Gunnar 品着新娘的毒味，接连被兄弟敲打（别出轨、她未被人碰过）、被母亲叮嘱温柔——全家只看见刽子手；意识到她大概率是处女后，他拉不下脸问家人，转头向两位嫂子求助，领到「温柔、同意、润滑」三连忠告；回到大厅，一个男狼正贴着他妻子站着。
 - **情感弧线位置**：他的自我认知谷底与第一级台阶同时出现：兄弟的「别作弊」与母亲的「务必温柔」把他钉回刑讯室，而嫂子们的忠告第一次给他一套可执行的非暴力方案——拳头之外的世界向他递出了第一张说明书。
 - **Tropes 兑现/反转**：兑现「大块头温柔心」与「妈妈的心头肉」；反转是喜剧的错位——Blackwood 家最凶的打手在沙发上被两个嫂子当成纯情男孩上课（Are you a virgin, Gunnar?），刑讯老手在婚礼上最怕的拷问来自亲人。
-- **人物弧线**：Gunnar：行刑者 → 主动求教的学员，把忠告登记为「Tactical」；Magnus：道谢兼警告的兄长；Vidar：补刀的中间人（She's clearly untouched）；Mei Ling：唯一能命令他的人， pride 是他的锚；Nell/Addie：嫂子军师团登场；Rosalind：全程远景，章末被一个陌生男狼靠近。
+- **人物弧线**：Gunnar：行刑者 → 主动求教的学员，把忠告登记为「Tactical」；Magnus：道谢兼警告的兄长；Vidar：补刀的中间人（She's clearly untouched）；Mei Ling：能一句话让他闭嘴的人，pride 是他的锚；Nell/Addie：嫂子军师团登场；Rosalind：全程远景，章末被一个陌生男狼靠近。
 - **叙事手法**：味觉记忆开场把新娘写成「冰层下的火」；双手特写（去血皂、压力点）让「他们眼里只有刽子手」落在物证上；嫂子课堂用编号混乱（Number one / Then B / Four, babe）制造喜剧密度；章末一个镜头外切，悬念只给动作不给人名。
 
 ## 精读
@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** ""Sorsha has kept that poor girl sheltered her whole life. She’s delicate. Fragile. You must be extremely mindful and gentle with her."" … "Even my mother? It was one thing for my brothers to doubt me, but hearing it from Ma stung. Did no one in this family think I possessed a single shred of finesse? Did they all think I was going to lumber into a bedroom like a wild bear and crush my bride?"
 **中文理解**：「Sorsha 把这可怜的姑娘藏了一辈子。她娇弱、易碎。你必须万分小心、温柔待她。」——连母亲也这样？兄弟怀疑他也罢了，从 Ma 嘴里听到这话真的刺痛。这家里就没人觉得他有一丝细腻吗？都以为他会像野熊一样冲进卧室把新娘碾碎？
 **关键词**：sheltered her whole life / delicate. Fragile. / a single shred of finesse / like a wild bear
-**为什么这样写**：母亲的叮嘱用词极短（delicate. Fragile. 两个词各自成句），像在给药品说明书加粗警告；他的反击全是问句——四个问号连发，委屈里带着对家人视角的不可置信。家族把他简化成一个动词（crush），他连自辩的资格都要用反问来讨。
+**为什么这样写**：母亲的叮嘱用词极短（delicate. Fragile. 两个词各自成句），像在给药品说明书加粗警告；他的反击全是问句——三个问号连发，委屈里带着对家人视角的不可置信。家族把他简化成一个动词（crush），他连自辩的资格都要用反问来讨。
 **读者视角提示**：全家「温柔警告」的重复出现不是唠叨，是在给他的转变定价：他每表现出一次克制，这些先入为主的判词就碎一块。留意母亲说的是 Sorsha 藏了她一辈子——保护与囚禁在这一家是同义词。
 
 > **原句 5:** "I'd never fucked a virgin. Not even when I was one. My tastes had always leaned toward older, experienced females—women who knew exactly what they wanted in bed, women who could handle being thrown against a headboard, women who didn't come with the delicate weight of taking something that could never be given back. I knew how to pleasure a woman who knew her own body, but a virgin? A delicate princess who looked at me like I was the monster under her bed?"

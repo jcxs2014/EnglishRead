@@ -1,0 +1,381 @@
+{
+  "chapter": 44,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch44 mommys got you.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch44_chapter_44.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My wolf surged forward. So did every other wolf in the room. Fear had a scent. So did fury. There was plenty of both. At",
+          "ok": true,
+          "pos": 256
+        },
+        {
+          "text": "\"A few women screamed. Most didn't. These weren't helpless women gathered for tea. These were Alphas. Matriarchs. CEOs. ",
+          "ok": true,
+          "pos": 419
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"You've entered a private party during an invitation-only gathering,\" Nell continued. \"I want the name of the supervisin",
+          "ok": true,
+          "pos": 1363
+        },
+        {
+          "text": "\"There was a brief silence. Paper rustled. \"Here's the warrant. It's for Mei Ling Blackwood.\"\"",
+          "ok": true,
+          "pos": 1572
+        },
+        {
+          "text": "\"\"Money laundering. Conspiracy to commit money laundering. Financial transactions involving proceeds from unlawful activ",
+          "ok": true,
+          "pos": 1951
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Once upon a time, my plan had included the Blackwoods' demise. This — setting Mei Ling up to take the legal fall — had b",
+          "ok": true,
+          "pos": 2377
+        },
+        {
+          "text": "\"Before Gunnar",
+          "ok": true,
+          "pos": 2797
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"Oh my god.\" My mother stood beside me. Her shock was perfect. Absolutely perfect. \"This is outrageous.\"\"",
+          "ok": true,
+          "pos": 3674
+        },
+        {
+          "text": "\"Liar.\"",
+          "ok": true,
+          "pos": 3775
+        },
+        {
+          "text": "\"I turned toward her. She was looking at the police. At least her head was pointed in their direction. Her heartbeat had",
+          "ok": true,
+          "pos": 3781
+        },
+        {
+          "text": "\"Everyone else's had. Even Mei Ling's. Not my mother's",
+          "ok": true,
+          "pos": 3912
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Don't look so frightened, darling. Mommy's got you.\"\"",
+          "ok": true,
+          "pos": 4263
+        },
+        {
+          "text": "\"Sorsha stroked my arm. Comforting me. Protecting me. Threatening me.\"",
+          "ok": true,
+          "pos": 4366
+        },
+        {
+          "text": "\"\"Such interesting things have been happening among the packs,\" my mother murmured. \"Old secrets finding new audiences. ",
+          "ok": true,
+          "pos": 5386
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I nearly laughed. This wasn't protection. This was a leash. The same pretty pink leash she'd put me in as soon as I'd co",
+          "ok": true,
+          "pos": 5897
+        },
+        {
+          "text": "\"\"I want my daughter to remember where she belongs.\"\"",
+          "ok": true,
+          "pos": 6069
+        },
+        {
+          "text": "\"I belonged with Gunnar. The answer came so quickly it knocked the air out of my lungs",
+          "ok": true,
+          "pos": 6119
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There was no choice. There was a trap with two exits, and both ended with me bleeding.\"",
+          "ok": true,
+          "pos": 6225
+        },
+        {
+          "text": "\"I could keep quiet. Keep feeding Mother information. Keep pretending. Keep Gunnar. Keep his family.\"",
+          "ok": true,
+          "pos": 6312
+        },
+        {
+          "text": "\"Or I could tell them. Tell Mei Ling that my mother had fed the police the information that put her in handcuffs. Tell G",
+          "ok": true,
+          "pos": 6412
+        },
+        {
+          "text": "\"How did you betray her, Rosalind",
+          "ok": true,
+          "pos": 6670
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"You can keep quiet. Or you can tell them the truth.\" Sorsha kissed my temple. \"But you don't get to do both.\"\"",
+          "ok": true,
+          "pos": 6704
+        },
+        {
+          "text": "\"I made out the figure of Mei Ling being led in handcuffs out the door. For the first time since I'd started tearing apa",
+          "ok": true,
+          "pos": 6810
+        },
+        {
+          "text": "\"My mother had learned my game. And she'd just beaten me at it",
+          "ok": true,
+          "pos": 7037
+        }
+      ],
+      "words": 80
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 126,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "44. Chapter Forty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 24,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1241,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句8",
+        "kw": "standing inside the chaos instead of safely outside it",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

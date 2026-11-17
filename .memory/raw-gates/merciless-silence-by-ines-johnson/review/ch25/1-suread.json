@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch25",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "他的判定：她喜欢追猎——被抓之后还要确认他摁得住。",
+   "anchor": "So my wife liked the chase.",
+   "start": 294,
+   "end": 321
+  },
+  {
+   "fact": "他读她：被当无助时她炸毛，不靠动手、靠心理游戏——私下却想被压倒。",
+   "anchor": "She balked when she was treated like she was helpless.",
+   "start": 1064,
+   "end": 1118
+  },
+  {
+   "fact": "初见即看透：她不弱、不需引导。",
+   "anchor": "Within the first moments of meeting her, I'd seen her clearly.",
+   "start": 956,
+   "end": 1018
+  },
+  {
+   "fact": "判词改档：delicate 这个词从来不属于 Rosalind。",
+   "anchor": "Not delicate.",
+   "start": 1811,
+   "end": 1824
+  },
+  {
+   "fact": "他拒绝进门的理由句：因为她说 no 我就该被逼问理由吗——No means no。",
+   "anchor": "No means no.",
+   "start": 3436,
+   "end": 3448
+  },
+  {
+   "fact": "真实原因：不到确认她能无痛承受，他绝不再进来一次。",
+   "anchor": "I wasn't putting my cock inside her again until I knew she could take me without pain.",
+   "start": 3233,
+   "end": 3319
+  },
+  {
+   "fact": "她睡着蜷在他身上——他第一次不需要砸东西、不需要安置那股暴力。",
+   "anchor": "For the first time in longer than I could remember, I didn't need to hit anything.",
+   "start": 7525,
+   "end": 7607
+  },
+  {
+   "fact": "收束：清醒一整夜，却心满意足——他抱着她看到天亮。",
+   "anchor": "I was content. Wide fucking awake. But content.",
+   "start": 7774,
+   "end": 7821
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

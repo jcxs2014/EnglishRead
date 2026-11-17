@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 7:** "I knew bodies. I knew what they did before people made decisions they hadn't figured out how to put into words yet. I waited for her to give me the verdict."
 **中文理解**：他懂身体——懂它们在人们还没想清楚怎么用语言表达之前会做什么。他等着她给出判决。（原文紧接着是三个单词成段：战、逃、留。）
 **关键词**：I knew bodies / before people made decisions / put into words yet / waited for her to give me the verdict
-**为什么这样写**：他把判决权完整地交出去，只负责读表——这是全书他对「同意」最强的实践。verdict 一词让此刻有了法庭的仪式感，而她是唯一的法官。
+**为什么这样写**：他把判决权完整地交出去，只负责读表——这是他对「同意」最强的一次实践。verdict 一词让此刻有了法庭的仪式感，而她是唯一的法官。
 **读者视角提示**：记住这个「等」——后面她所有的坦白，都是在这份等待里被允许说出来的。
 
 > **原句 8:** "I'd spent my whole life breaking things for the people I loved. For Rosalind, I'd learn how to hold on without breaking her." … ""I know you've done some insane shit. You're probably going to do more insane shit. From now on, tell me first. So I can at least clear a path so you don't get hurt.""
@@ -59,7 +59,7 @@ modified: "2026-11-17"
 **中文理解**：「这才是我的人，」他低笑，声音又暗又原始，看着她挣脱。——「我能听见你的心跳，Rosalind，」他的声音穿过树林。「它为我而跳，因为你知道我会抓到你。不管你跑多远，我都会追上你。我会找到你。」
 **关键词**：That's my girl / I can hear your heart / I will hunt you down / I will find you
 **为什么这样写**：他的爱语全部是追捕句式——而「我能听见你的心跳」在盲妻的故事里是最精确的情话：她的身体永远出卖她的真心。三句 I will 的排比是他给她的安全感的形态：不是「别怕」，是「你逃不掉」。
-**读者视角提示**：记住这句「I will find you」——它与 ch21「种子已种」的隐喻一起构成本书的追踪主题：找到，是这家人表达爱的唯一方式。
+**读者视角提示**：记住这句「I will find you」——它与 ch21「种子已种」的隐喻一起构成本书的追踪主题：找到，是这家人表达爱的方式。
 
 > **原句 12:** ""Fight me as hard as you want. I will never let you go. I will always come for you. You are mine.""
 **中文理解**：「你想怎么打就怎么打。我永远不会放你走。我会永远来追你。你是我的。」

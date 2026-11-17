@@ -1,0 +1,309 @@
+{
+  "chapter": 48,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch48 best disguise.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch48_chapter_48.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It wasn't pain. It was an absolute, glorious surrender.\"",
+          "ok": true,
+          "pos": 355
+        },
+        {
+          "text": "\"Gunnar was bigger than me. He was stronger than me. He might even be almost as smart as me. Not intellectually, but str",
+          "ok": true,
+          "pos": 410
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I knew with a possessive certainty that if I ran again—when I ran again—he would come for me. Because no matter how terr",
+          "ok": true,
+          "pos": 625
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "My entire life had been defined by a different kind of trap. My mother had controlled every step I took, holding me so t",
+          "ok": true,
+          "pos": 837
+        },
+        {
+          "text": "\"Then came the Blackwoods",
+          "ok": true,
+          "pos": 1198
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "For the first time, in a family overflowing with noise and power, I wasn't invisible. Even with my ruined human eyes, I ",
+          "ok": true,
+          "pos": 1224
+        },
+        {
+          "text": "\"And Gunnar",
+          "ok": true,
+          "pos": 1478
+        },
+        {
+          "text": "Gunnar made me feel chosen",
+          "ok": true,
+          "pos": 1492
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I knew it was only because he let me. This man would let me have anything. Which is why I wanted to give him everything.",
+          "ok": true,
+          "pos": 1750
+        },
+        {
+          "text": "\"He thrust upward into me, no longer holding back, no longer worried about breaking me because he knew I liked it. He kn",
+          "ok": true,
+          "pos": 3530
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He held me against him. Breathing into my hair, sighing into my neck. I let myself be held. I didn't make a plan. I just",
+          "ok": true,
+          "pos": 6176
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I leaned forward and whispered in his ear, so quietly that not even the crickets could hear. It was my biggest secret. T",
+          "ok": true,
+          "pos": 6390
+        },
+        {
+          "text": "\"\"I love you.\"",
+          "ok": true,
+          "pos": 6553
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "48. Chapter Forty-Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1195,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句4",
+        "kw": "They didn't want to hide me or fix me",
+        "words": 9
+      },
+      {
+        "block": "原句7",
+        "kw": "so quietly that not even the crickets could hear",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

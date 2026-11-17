@@ -1,0 +1,50 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch24",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "自我设定翻车：她自认一次就够——Gunnar 的第二波直接改写参数。",
+   "anchor": "I was a one-and-done woman.",
+   "start": 137,
+   "end": 164
+  },
+  {
+   "fact": "命令欲发现：从没人指挥过她——她喜欢被指挥，还喜欢试探他做不做得到。",
+   "anchor": "Gunnar bossed me around. And I liked it.",
+   "start": 1026,
+   "end": 1066
+  },
+  {
+   "fact": "念头升级：他不止接得住身体——可能连她的脑子也接得住。",
+   "anchor": "Maybe Gunnar Blackwood was smart enough to handle me, too.",
+   "start": 2327,
+   "end": 2385
+  },
+  {
+   "fact": "追逐记忆内核：他若够想要就会来接——她可以把负担卸给他、让他挑中她。",
+   "anchor": "I could lay my burden down for him to pick it up, for him to pick me.",
+   "start": 3394,
+   "end": 3463
+  },
+  {
+   "fact": "互测协议：他测问题对不对，她测他会不会一直给想要的答案。",
+   "anchor": "It was as if we were testing each other.",
+   "start": 4417,
+   "end": 4457
+  },
+  {
+   "fact": "同意协议执行：他步步留叫停窗口——她没用。",
+   "anchor": "giving me every opportunity to tell him to stop.",
+   "start": 6916,
+   "end": 6964
+  },
+  {
+   "fact": "终局判定：被逼到墙角是她自己布的局——技术上她赢了。",
+   "anchor": "Which meant technically I had won.",
+   "start": 7601,
+   "end": 7635
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

@@ -1,0 +1,319 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch32 he chose me.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch32_chapter_32.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My wolf wasn't behaving much better. My heart had been slamming against my ribs since Gunnar had swept me off my feet an",
+          "ok": true,
+          "pos": 158
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Gunnar hadn't asked if I needed help. One moment my feet were on the floor, the next I was against his chest, his arm be",
+          "ok": true,
+          "pos": 632
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "My entire life, people had decided where I belonged. My mother had decided where I could go. Guards had decided what I c",
+          "ok": true,
+          "pos": 2578
+        },
+        {
+          "text": "\"My husband's mouth covered mine. My wolf shoved hard. She wanted out. She wanted to play with this beast who understood",
+          "ok": true,
+          "pos": 2830
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "This is what my wolf gave me.\"",
+          "ok": true,
+          "pos": 4067
+        },
+        {
+          "text": "\"Edges. Distance. Detail.\"",
+          "ok": true,
+          "pos": 4097
+        },
+        {
+          "text": "\"A world that didn't blur when I tried to look directly at it.\"",
+          "ok": true,
+          "pos": 4122
+        },
+        {
+          "text": "\"I saw them perfectly now, carved deep into a face made of strong, uncompromising lines. The tiny creases at the corners",
+          "ok": true,
+          "pos": 4292
+        },
+        {
+          "text": "\"My husband had the face of a man built to intimidate, battered and brutal and undeniably handsome. And he was all mine",
+          "ok": true,
+          "pos": 4544
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Every escape made me want the capture more. Every time Gunnar let me go, one certainty burned brighter inside me: He was",
+          "ok": true,
+          "pos": 5630
+        },
+        {
+          "text": "\"I could make myself as difficult as possible. Gunnar Blackwood would still come for me.\"",
+          "ok": true,
+          "pos": 5860
+        },
+        {
+          "text": "\"My wolf leapt over a fallen tree. Something massive landed behind us. I didn't look back. I knew with every shred of li",
+          "ok": true,
+          "pos": 5948
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Gunnar didn't lock me up. He threw the door wide open, gave me the entire forest, and proved that even with absolute fre",
+          "ok": true,
+          "pos": 10097
+        },
+        {
+          "text": "\"He hadn't been forced into this marriage. He hadn't accepted the burden of a fragile wife. He had chosen me",
+          "ok": true,
+          "pos": 10296
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Gunnar slid his massive hand up to cup my jaw. His thumb dragged rough and possessive across my lower lip. \"No matter ho",
+          "ok": true,
+          "pos": 9542
+        },
+        {
+          "text": "I'm coming after you, Rosalind. I will always come for you.\"",
+          "ok": true,
+          "pos": 9728
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 119,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "32. Chapter Thirty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1946,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句4",
+        "kw": "didn't blur when I tried to look directly at it",
+        "words": 10
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

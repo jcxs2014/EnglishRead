@@ -23,7 +23,7 @@ modified: "2026-11-17"
 **中文理解**：「救我？」男人的愚蠢痛苦得可以预测——总把女人当成等待白马骑士的落难少女，从没停下来想过：这位少女可能正是放火烧城堡的人。
 **关键词**：painfully, predictably foolish / damsel awaiting a knight / setting fire to the castle
 **为什么这样写**：三层递降（救人幻想 → 骑士传说 → 纵火真相）把 Diego 的英雄梦一层层拆掉；castle 与她此行的目标同构——她烧的正是自己要嫁进去的那座。重复出现的 damsel 不是修辞，是被拆穿的角色设定。
-**读者视角提示**：这是她的自我宣言，可与上一章她那句 couldn't have planned this better 对读：新郎新娘在同一场婚礼上各自看见了对自己有利的局。
+**读者视角提示**：这是她的自我宣言，可与 ch02 她那句 couldn't have planned this better 对读：新郎新娘在同一场婚礼上各自看见了对自己有利的局。
 
 > **原句 3:** ""Violence won't free me." I ghosted my fingertips over his sleeve. "Information will."" … "That was the first true thing I'd said all evening. I felt him go still, drinking in my touch like a starving man offered a crumb."
 **中文理解**：「暴力救不了我。」指尖擦过他的袖口。「情报才行。」——这是她一整晚说的第一句真话；她感到他整个人僵住，像饿了很久的人捧住一块面包屑，贪婪地吞着这点触碰。

@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch02",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Rosalind 的狼一闻到身边这个莽汉的气味就想去玩，她怪不了它。",
+   "anchor": "my inner beast took one deep whiff of the brute standing next to us and immediately decided she wanted to play",
+   "start": 135,
+   "end": 245
+  },
+  {
+   "fact": "她从还在母亲子宫里起就被监视、追踪、看守。",
+   "anchor": "I’d been watched, tracked, and guarded since I was floating in my mother’s womb.",
+   "start": 1425,
+   "end": 1505
+  },
+  {
+   "fact": "逃亡是终极目标，但自由先于逃亡——第一步就是嫁给一个 Blackwood。",
+   "anchor": "Escape was the ultimate goal. But to escape, I needed freedom first. And it started right here, with saying I do to a Blackwood.",
+   "start": 1679,
+   "end": 1807
+  },
+  {
+   "fact": "她把 Gunnar 判读成蠢而护主的莽汉，认定好操纵。",
+   "anchor": "A dumb, protective brute will be laughably easy to manipulate.",
+   "start": 2845,
+   "end": 2907
+  },
+  {
+   "fact": "七岁那年 Fenrir 与她母亲签约，把她的终身像牲口一样绑给 Blackwood 血脉。",
+   "anchor": "signing away my life and binding me to his bloodline like a piece of livestock",
+   "start": 4278,
+   "end": 4356
+  },
+  {
+   "fact": "核心反转：她是母亲练出来的大师级间谍，不是娇小姐。",
+   "anchor": "never thinking that my battle-tested mother hadn't raised a little princess, but a master spy",
+   "start": 4453,
+   "end": 4546
+  },
+  {
+   "fact": "誓词里的 obey 在她舌头像毒药，她继续扮演温顺的新娘。",
+   "anchor": "The word obey tasted like pure, acrid poison on my tongue.",
+   "start": 5262,
+   "end": 5320
+  },
+  {
+   "fact": "章末：Gunnar 不知道自己迎进门的是他家族覆灭的设计师。",
+   "anchor": "He had no idea he had just brought the architect of his pack's destruction into his family's den.",
+   "start": 8570,
+   "end": 8667
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

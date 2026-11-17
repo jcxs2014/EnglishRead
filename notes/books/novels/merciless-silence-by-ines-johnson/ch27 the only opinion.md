@@ -23,7 +23,7 @@ modified: "2026-11-17"
 **中文理解**：但每次他想挪开，Rosalind 就发出一点软软的声音、往他身上钻得更紧——钻进他怀里，寻求他的保护、找到安慰。他没动。第一夜他做错那么多之后，妻子仍信任到可以光着身子睡在他臂弯里。这世上没有一次高潮值得打扰这个。于是他躺到天亮：鼻尖是她甜香，身上是一副够格进急诊的蓝球。
 **关键词**：burrow closer / Seeking my protection / I stayed. / worth disturbing that / a medical emergency
 **为什么这样写**：三个短句把「留下」的理由层层加重：动作（burrow）→归属（protection）→判决（I stayed）；随后 she trusted me enough 一句把整夜定性为信任的兑现。medical emergency 的自嘲与 One stayed 的庄严并置，是他的情话语法：用粗话讲誓言。
-**读者视角提示**：这是他第一次把「不做」写成主动选择——对照 ch07 的溃逃，同一个身体，两种夜晚。
+**读者视角提示**：他再一次把「不做」写成主动选择——对照 ch07 的溃逃，同一个身体，两种夜晚。
 
 > **原句 3:** "Vidar didn't know what the fuck he was talking about. I could be gentle. I could be careful. Thoughtful. I knew the difference between hurting someone and handling them. Between force and control. I knew exactly how much pressure a body could take and exactly when to ease off. But I wasn't having that argument with him again."
 **中文理解**：Vidar 根本不知道自己在说什么。他能温柔、能小心、能体贴。他知道伤人（hurting）与掌控（handling）的区别，知道蛮力与控制的区别；他清楚一具身体能承受多少压力、也清楚该在什么时候收手。但他不想再跟他吵这个。

@@ -41,7 +41,7 @@ modified: "2026-11-17"
 **中文理解**：「Sorsha 把我当成她最伟大的杰作，同时也是她最大的失望。她认定失明让我残缺，却又期待我当完美听话的工具。她以为自己是最高的傀儡师。但从我这个座位看——她严重低估了她的对手。」
 **关键词**：greatest masterpiece, but also her greatest disappointment / perfect, obedient tool / ultimate puppet master / severely underestimated her opponent
 **为什么这样写**：masterpiece 与 disappointment 一对反义词绑在同一个「我」身上，把 Sorsha 的矛盾期待压缩成商品差评；puppet master 的妄念被 from where I sit 的座位视角拆台——傀儡师看不见的线，正在被傀儡织。opponent 不点名：让 Mei Ling 自己对号入座。
-**读者视角提示**：这段话是说给 Mei Ling 的饵——也是她全书唯一一次近乎坦白的自我陈述；记住「对手是谁」的模糊性，它会决定暗战先烧向谁。
+**读者视角提示**：这段话是说给 Mei Ling 的饵——也是她少有的近乎坦白的自我陈述；记住「对手是谁」的模糊性，它会决定暗战先烧向谁。
 
 > **原句 6:** "By framing Sorsha as the arrogant aggressor and flattering Mei Ling’s terrifying competence, I accomplished three things at once:" … "First, I fed Mei Ling’s ego while acknowledging her true authority." … "Second, I positioned myself as a disgruntled, mistreated daughter who might be willing to betray her mother out of spite." … "And third, I set the stage for the two most powerful matriarchs in the tri-state area to lock jaws in a brutal shadow war for dominance. It was a masterstroke of political theater."
 **中文理解**：把 Sorsha 框成傲慢的侵略者、再吹捧 Mei Ling 那份吓人的能干，她一口气完成三件事：第一，喂饱 Mei Ling 的自尊、同时承认她真正的权威；第二，把自己摆成心怀怨气、可能为泄愤背叛母亲的委屈女儿；第三，给 tri-state 地带最有权势的两位女族长搭好台子，让她们为统治权锁喉开打一场残酷的暗影战争——一场政治剧场的大师手笔。

@@ -1,0 +1,50 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch07",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "25 年人生盘点：断骨、见血、杀人——他自认懂透身体能做什么，原来不懂。",
+   "anchor": "Twenty-five years I'd been alive. I'd broken bones. Spilled blood. Taken lives.",
+   "start": 1887,
+   "end": 1966
+  },
+  {
+   "fact": "回神的第一件事：他把妻子弄哭了。",
+   "anchor": "I made my wife cry.",
+   "start": 2565,
+   "end": 2584
+  },
+  {
+   "fact": "自我审判：他就是全家警告的那个失控怪物——整晚怕捏碎她，头一个机会就放狼接管。",
+   "anchor": "I was a fucking brute. A mindless, out-of-control monster.",
+   "start": 3192,
+   "end": 3250
+  },
+  {
+   "fact": "粉裙沾着她自己的血，她蜷成最小的一团——像个摔坏的娃娃。",
+   "anchor": "She looked like a broken doll.",
+   "start": 5075,
+   "end": 5105
+  },
+  {
+   "fact": "他一眼认出这个姿势：他脚下的男人受伤后就是这样蜷缩——从没想过会发生在妻子身上。",
+   "anchor": "I'd seen men curl up exactly like this at my feet.",
+   "start": 5336,
+   "end": 5386
+  },
+  {
+   "fact": "教堂誓言字字真心，几个小时就亲手违背。",
+   "anchor": "I'd meant every word. And I'd broken it within hours.",
+   "start": 5666,
+   "end": 5719
+  },
+  {
+   "fact": "章末：他翻过石栏、空中变形，四爪着地冲进黑夜森林。",
+   "anchor": "I vaulted over the stone railing, shifted mid-air, and hit the forest floor on four heavy paws",
+   "start": 6443,
+   "end": 6537
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

@@ -1,0 +1,68 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch35",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch35_chapter_35.txt",
+ "facts": [
+  {
+   "fact": "他心里点了名：想把她抢走的那两个人（Corin、Diego）现在都死了。",
+   "anchor": "They were both dead now.",
+   "start": 976,
+   "end": 1000
+  },
+  {
+   "fact": "宣告：没人会来救她、没人能碰她——而她选择睡在他怀里。",
+   "anchor": "No one was coming to rescue Rosalind Blackwood.",
+   "start": 1189,
+   "end": 1236
+  },
+  {
+   "fact": "Ivar 的崩溃提问：我还会长大的，对吧妈？",
+   "anchor": "\"I'm still growing, right, Ma?\"",
+   "start": 3319,
+   "end": 3350
+  },
+  {
+   "fact": "她的实况转播：他追我、抓我、咬我、操我。",
+   "anchor": "\"He chased me through the woods, caught me, bit me, and fucked me.\"",
+   "start": 3780,
+   "end": 3847
+  },
+  {
+   "fact": "她的补刀：我以为那不是修辞问句。",
+   "anchor": "I thought it wasn't rhetorical.",
+   "start": 3905,
+   "end": 3936
+  },
+  {
+   "fact": "他的确认：彻底爱上这个女人——而他形容这感觉像摔在地上。",
+   "anchor": "I was completely in love with this woman.",
+   "start": 5070,
+   "end": 5111
+  },
+  {
+   "fact": "他承认暴露：她现在能真的伤到他。",
+   "anchor": "She could hurt me now. Really fucking hurt me.",
+   "start": 5287,
+   "end": 5333
+  },
+  {
+   "fact": "转折：她还在瞒他。",
+   "anchor": "And she was still keeping secrets from me.",
+   "start": 5841,
+   "end": 5883
+  },
+  {
+   "fact": "他的怀疑：今晚会不会也是她的一步棋？",
+   "anchor": "What if tonight had been another move?",
+   "start": 5935,
+   "end": 5973
+  },
+  {
+   "fact": "章末：家族指了他一辈子敌人，他为每个人杀过——也会为她杀。",
+   "anchor": "And my family had been pointing me at their enemies my entire fucking life. I'd killed for every one of them. I'd kill for her too.",
+   "start": 6882,
+   "end": 7013
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

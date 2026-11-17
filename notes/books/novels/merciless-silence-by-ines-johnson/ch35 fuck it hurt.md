@@ -9,14 +9,14 @@ modified: "2026-11-17"
 - **一句话概括**：他抱她穿过后院进屋，撞上全家深夜烤肉局——一屋子人盯着他们两个；她半梦半醒地实况转播「He chased me through the woods, caught me, bit me, and fucked me.」，还补一句「我以为那不是修辞问句」；父亲下令送她回房；上楼时她还在他身上为「别的女人看他」宣示主权；他确认自己彻底爱上她（「Fuck, it hurt.」）、也因此暴露了软肋；但紧接着疑心升起——今晚会不会也是她的一步棋？他的结论不是质问她，而是：她是我妻子、我的伴侣、我的家人，我为家人杀了一辈子，也会为她杀。
 - **情感弧线位置**：他的爱意确认与疑心同时到达顶点：他明知可能是棋局仍然选择站定——这不是盲目，是清醒后的押注。
 - **Tropes 兑现/反转**：兑现 family-embarrassment喜剧与 possessive-heroine；反转：他确认爱情的那一段几乎全部用「受伤/坠落」的动词写，而不是甜词。
-- **人物弧线**：Gunnar：从「我会保护她」到「她可以真的伤到我」的暴露；Rosalind：睡着、口无遮拦、宣示领土，第一次在家人面前毫无伪装；Ivar：全章的喜剧引擎；Mei Ling/Fenrir：以父母身份收束闹剧。
+- **人物弧线**：Gunnar：从「我会保护她」到「她可以真的伤到我」的暴露；Rosalind：睡着、口无遮拦、宣示领土，在家人面前毫无伪装；Ivar：全章的喜剧引擎；Mei Ling/Fenrir：以父母身份收束闹剧。
 - **叙事手法**：家庭闹剧与爱情独白在同章对切（客厅 vs 楼梯）；「Fuck, it hurt.」这三个词独立成段，把告白写得像负伤；末段用 family 的重定义（血亲→她）完成他的最终效忠转移。
 
 ## 精读
 > **原句 1:** "They both wanted to take her from me." … "They were both dead now." … "No one was coming to rescue Rosalind Blackwood. No one was putting their hands on her. No one was taking my wife anywhere she didn't choose to go. And right now, she was choosing to sleep in my arms."
 **中文理解**：那两个（Corin 与 Diego）都想把她从他这儿夺走。——他们现在都死了。没有人会来救 Rosalind Blackwood；没有人会把碰她的手放在她身上；没有人能把他妻子带去她不想去的地方。而此刻，她选择睡在他怀里。
 **关键词**：They both wanted to take her from me / They were both dead now / No one was coming to rescue / she was choosing to sleep in my arms
-**为什么这样写**：三个事实句排成一条清除清单，冷得像军报；随后三个 No one 排比被她最后那句动作（choosing to sleep）破解——他真正在意的不是没人抢，是她自己选了他。这个「选择」的词根在他这里出现了全书最多次。
+**为什么这样写**：三个事实句排成一条清除清单，冷得像军报；随后三个 No one 排比被她最后那句动作（choosing to sleep）破解——他真正在意的不是没人抢，是她自己选了他。这个「选择」的词根在他这里反复出现。
 **读者视角提示**：注意 his 的胜利口径始终是 chosen——对照 ch32 她写的那句 He had chosen me：两人在同一件事上互相确认，只是他不知道。
 
 > **原句 2:** "Magnus and Vidar just stared. First at me. Then down. Then back at me." … "I grinned, and just barely kept myself from saying, Told ya."
@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** "Rosalind stirred. Her head lifted slowly from my chest, pale eyes barely open. "He chased me through the woods, caught me, bit me, and fucked me."" … "Rosalind blinked sleepily at the room. "Oh. I thought it wasn't rhetorical.""
 **中文理解**：她动了动，头慢慢从他胸口抬起，眼睛几乎睁不开：「他追我穿过树林、抓住我、咬了我、然后操了我。」——她睡眼朦胧地对满屋子人眨眨眼：「哦，我还以为那不是修辞问句。」
 **关键词**：He chased me through the woods / Oh. I thought it wasn't rhetorical
-**为什么这样写**：她的回答把四个动词摆得整整齐齐，像在念一份战报——而台下是全家。补的那句「我以为这不是修辞」是全章最好笑也最像她的反应：她连尴尬都要先用逻辑处理。这一夜她第一次在他家人面前毫无伪装，且完全不自知。
+**为什么这样写**：她的回答把四个动词摆得整整齐齐，像在念一份战报——而台下是全家。补的那句「我以为这不是修辞」是全章最好笑也最像她的反应：她连尴尬都要先用逻辑处理。这一夜她在他家人面前毫无伪装，且完全不自知。
 **读者视角提示**：对照她平日的精密表演——这段的价值是她「关不掉」的真实；读者由此确认：她在这个家里的松弛已经不是演的。
 
 > **原句 5:** "There it was again. That feeling of being dropped right on my ass. Like the floor disappeared beneath my feet, and my stomach got left somewhere two stories above me. Except this time, I knew what it was. Knew there was no catching myself. No grabbing hold of something on the way down. No getting back up now that I hit the bottom." … "I was completely in love with this woman." … "Fuck, it hurt."

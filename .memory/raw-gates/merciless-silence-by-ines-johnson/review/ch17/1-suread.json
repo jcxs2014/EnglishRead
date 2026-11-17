@@ -1,0 +1,50 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch17",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch17_chapter_17.txt",
+ "facts": [
+  {
+   "fact": "他自称 clinical 不砸——同一场对话里又承认「把 Petrakis 的头砸烂了」。",
+   "anchor": "\"I am clinical, Vidar. I don't smash",
+   "start": 266,
+   "end": 302
+  },
+  {
+   "fact": "假旗链确认：路线图来自 Lobo pack 内部的来源。",
+   "anchor": "Elias Vane got our shipping routes from a source inside the Lobo pack",
+   "start": 1102,
+   "end": 1171
+  },
+  {
+   "fact": "Magnus 判读：有人故意搅局——两头烧桥、把行踪藏在烟雾里。",
+   "anchor": "burning bridges from both ends and hiding their tracks in the smoke",
+   "start": 2692,
+   "end": 2759
+  },
+  {
+   "fact": "三兄弟会议确认线头：一切可追到一名 Lobo Enforcer。",
+   "anchor": "it all traces back to a Lobo Enforcer.",
+   "start": 1916,
+   "end": 1954
+  },
+  {
+   "fact": "Vidar 倾向归罪 Sorsha；Gunnar 反驳「那是支太方便的箭头」。",
+   "anchor": "\"Sorsha Lobo has been playing matriarch chess for a decade. It tracks.\"",
+   "start": 2024,
+   "end": 2095
+  },
+  {
+   "fact": "洗手间外的廉价须水＝婚礼那天贴得太近的那头狼——而且门锁着。",
+   "anchor": "The wolf who had been standing too close.",
+   "start": 6337,
+   "end": 6378
+  },
+  {
+   "fact": "爆发：他一记把 Diego 的脸砸上大理石台面，血溅镜面、卫兵瘫软。",
+   "anchor": "I slammed his head face-first into the solid marble countertop.",
+   "start": 7405,
+   "end": 7468
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

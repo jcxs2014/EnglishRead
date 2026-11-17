@@ -1,0 +1,297 @@
+{
+  "chapter": 41,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch41 had she used me.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch41_chapter_41.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Ivar stopped. Standing beside him, I heard his heartbeat slam once. Twice. Then took off like a stampeding horse. The te",
+          "ok": true,
+          "pos": 1959
+        },
+        {
+          "text": "\"\"Oh, fuck.\"\"",
+          "ok": true,
+          "pos": 2107
+        },
+        {
+          "text": "\"Ivar stared at the girl. She was young. Around his age. Dark hair. Lupetto eyes. I knew who she was without an introduc",
+          "ok": true,
+          "pos": 2117
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Beatrice finally noticed them. Ivar made some sound I hoped never came out of my mouth. It was a wounded, hungry sound. ",
+          "ok": true,
+          "pos": 2856
+        },
+        {
+          "text": "\"\"No.\" Valentino pointed toward the door. \"There will be no arranged marriages in the Lupetto clan.\"\"",
+          "ok": true,
+          "pos": 3439
+        },
+        {
+          "text": "\"Valentino ignored me. \"My sister isn't a bargaining chip.\"",
+          "ok": true,
+          "pos": 3646
+        }
+      ],
+      "words": 96
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Dante Lupetto had seen marriage, mating, women, children—everything—as another piece on the board. Another way to gain t",
+          "ok": true,
+          "pos": 4246
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Valentino tapped two fingers against his desk. \"I've got my own leak. I know what the cops are looking for. Whoever's fe",
+          "ok": true,
+          "pos": 6468
+        },
+        {
+          "text": "\"\"Apparently somebody didn't get the fucking newsletter.\" Valentino leaned forward. \"My father liked men fighting to the",
+          "ok": true,
+          "pos": 6768
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"That's familiar,\" Vidar said. He was looking at me. \"When Gunnar questioned Corin Petrakis, the information he received",
+          "ok": true,
+          "pos": 7042
+        },
+        {
+          "text": "\"\"Maybe,\" I conceded. It would all be so easy to blame it all on Rosalind's mother, since it looked like Rosalind was tr",
+          "ok": true,
+          "pos": 7425
+        },
+        {
+          "text": "\"\"Who goes to this much trouble to make Sorsha look like she's starting a war while simultaneously damaging her own supp",
+          "ok": true,
+          "pos": 7791
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She listened when people assumed she couldn't see. She knew things she shouldn't. She'd spent her whole life making ever",
+          "ok": true,
+          "pos": 8110
+        },
+        {
+          "text": "\"My wife wasn't helpless. She's used Lobo resources. Used Lupetto paranoia. Used old Vane grievances. Used Ironwood ambi",
+          "ok": true,
+          "pos": 8272
+        },
+        {
+          "text": "\"My hands curled at my sides. I couldn't ignore it anymore. I would deal with her myself. At least they hadn't figured i",
+          "ok": true,
+          "pos": 8412
+        }
+      ],
+      "words": 75
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 117,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "41. Chapter Forty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1550,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句4",
+        "kw": "knows enough to be dangerous but not enough to be current",
+        "words": 11
+      },
+      {
+        "block": "原句4",
+        "kw": "My father liked men fighting to the death. I don't.",
+        "words": 10
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

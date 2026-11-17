@@ -7,7 +7,7 @@ modified: "2026-11-17"
 
 ## 本章导航
 - **一句话概括**：黑帮式救援：三兄弟三种威胁（断生涯/买断你的债/断你的骨），母亲一句「Gunnar, language」；父亲一到全场失声，警长一个电话打来，警察当场松铐，Fenrir 把戴铐的妻子扛进树林，全园目送。之后他找到独自坐在角落的 Rosalind：她道了歉却拒绝帮忙修，他当场判她「sociopath」；她改口「我自己修」，他把那句「独立女性那套他妈的玩意儿」直接否掉——「You are a we.」然后他把她的全部作案手法一条条数出来，说「I'm not stupid either.」；两人互认「obsessed」，她坦白「我想把整个系统烧掉」，他说「你他妈疯了」并吻她；她的恐惧是「你不生气？」，他的回答是「我兴奋。我兄弟会气死」——而 Blackwood 家族优先，他们终会接受。
-- **情感弧线位置**：他的全线摊牌章：明知全部真相后，他第一次给出「我们」这个词——不是原谅，是收纳；也是全书他把自己从家族成员转成她共犯的一刻。
+- **情感弧线位置**：他的全线摊牌章：明知全部真相后，他把「我们」这个词当成规则说出来——不是原谅，是收纳；也是全书他把自己从家族成员转成她共犯的一刻。
 - **Tropes 兑现/反转**：兑现救援场面与「Alpha 伴侣互怼」；反转：最像黑帮威胁的一段以「Gunnar, language」的母亲式纠正收尾；最像求婚的一句是「You are a we」。
 - **人物弧线**：Gunnar：从执法者变成共犯，且自觉；Rosalind：第一次被要求「不许独自承担」；Mei Ling & Fenrir：以荒诞秀恩爱完成危机解除；Magnus/Vidar：威胁的三种专业版本。
 - **叙事手法**：三种威胁按「职业语言」分配（法律/金融/解剖），是本章最漂亮的人物分工；救援段用超短句（No answer. / Ivar covered his face.）做喜剧节拍；「we」一词承担全书关系命题；结尾用粗话完成温情。
@@ -64,7 +64,7 @@ modified: "2026-11-17"
 > **原句 9:** ""I'm a little obsessed with you."" … ""I'm entirely obsessed with you."" … "She lied. She manipulated. She planted rumors like explosives and waited for entire fucking organizations to blow themselves apart." … "And somehow, every revelation only made me hungrier. Because underneath all that pink was fucking mayhem. Brilliant, calculating, completely unhinged mayhem that would keep my hands full for the rest of my life. And she'd told me the truth. She'd trusted me with her truth; crazy as it was."
 **中文理解**：「我有点迷恋你。」——「我完全迷恋你。」——她撒谎、她操纵、她把谣言当炸药埋下，然后等着整个组织把自己炸开。可不知怎的，每一个新发现只让他更饿——因为那一身粉色底下是纯粹的混乱：聪明、精于算计、彻底失控的混乱，足够他下半辈子忙个不停。而且她说了实话：她把真相交给了他，不管那有多疯。
 **关键词**：a little obsessed / entirely obsessed / planted rumors like explosives / completely unhinged mayhem / She'd trusted me with her truth
-**为什么这样写**：两人的「obsessed」交换是全书最像誓言的对话——不是「我爱你」，是「我上瘾」。而他的自白把「她的危险」与「他的饥饿」写成同一件事；最后一句把整段从色气拉回伦理：他珍惜的不是她的手段，是她把手段交给他看。
+**为什么这样写**：两人的「obsessed」交换像一段誓言——不是「我爱你」，是「我上瘾」。而他的自白把「她的危险」与「他的饥饿」写成同一件事；最后一句把整段从色气拉回伦理：他珍惜的不是她的手段，是她把手段交给他看。
 **读者视角提示**：记住「She'd trusted me with her truth」——这是全书他给她最重要的信用评级，也是后面他愿意为她对抗家族的依据。
 
 > **原句 10:** ""Gaining more power is my mother's. Taking it away from her, taking it away from all the packs; that was my plan. I wanted to burn the whole system down."" … "I let out a huff. Then a chuckle. "You're fucking insane."" … ""You're not mad?"" … ""I'm turned on. My brothers will be pissed."" … ""Siblings piss each other off all the time. You're a part of this family now. Blackwoods put family first. They'll get over it, eventually.""

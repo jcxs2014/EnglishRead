@@ -1,0 +1,256 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch02 master spy bride.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch02_chapter_2.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Escape was the ultimate goal. But to escape, I needed freedom first. And it started right here, with saying I do to a Bl",
+          "ok": true,
+          "pos": 1648
+        },
+        {
+          "text": "\"Through the heavy dark tint of my sunglasses, the world was nothing more than a wash of shadows and shapes. I glanced a",
+          "ok": true,
+          "pos": 1777
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Gunnar stood next to me. He was easily the thickest of them all, shaped like a wild bull standing on its hind legs. He w",
+          "ok": true,
+          "pos": 2537
+        },
+        {
+          "text": "\"Good. A dumb, protective brute will be laughably easy to manipulate",
+          "ok": true,
+          "pos": 2795
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I choked the feeling down, replacing it with cold, hard iron. Fenrir Blackwood was no savior. He was the man who had sat",
+          "ok": true,
+          "pos": 4023
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"I do not ask for your submission through fear, but through the proof of my worth. I vow to lead you with strength that ",
+          "ok": true,
+          "pos": 6481
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "A cold spike of unease shot down my spine. I had expected a clumsy, performance-heavy recite from the Blackwood enforcer",
+          "ok": true,
+          "pos": 6785
+        },
+        {
+          "text": "\"I couldn't have planned this better if I tried",
+          "ok": true,
+          "pos": 7268
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Enjoy the victory while it lasts, husband, I thought, as the cathedral burst into formal applause behind us. He thought ",
+          "ok": true,
+          "pos": 8288
+        }
+      ],
+      "words": 47
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1565,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

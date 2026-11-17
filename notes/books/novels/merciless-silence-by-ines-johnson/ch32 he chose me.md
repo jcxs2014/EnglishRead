@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** "This is what my wolf gave me." … "Edges. Distance. Detail." … "A world that didn't blur when I tried to look directly at it." … "I saw them perfectly now, carved deep into a face made of strong, uncompromising lines. The tiny creases at the corners of his eyes. The crooked bridge of his nose. The proud jut of his chin. The individual dark hairs of the stubble shadowing his jaw." … "My husband had the face of a man built to intimidate, battered and brutal and undeniably handsome. And he was all mine."
 **中文理解**：这就是她的狼给她的：边缘、距离、细节——一个不会在她直视时模糊的世界。此刻她把他的脸看得清清楚楚：眉眼角的细纹、歪过的鼻梁、骄傲抬起下巴、下颌阴影里每一根胡茬。她丈夫有一张生来令人畏惧的脸——被揍过、野蛮、且无可否认地英俊。而他是她的了。
 **关键词**：Edges. Distance. Detail. / didn't blur when I tried to look directly at it / undeniably handsome / And he was all mine
-**为什么这样写**：三个词一行（Edges. Distance. Detail.）是全书最凝练的一处抒情——盲人求的不是光明而是「不模糊」，这个定义让她的渴望变得具体。接着的肖像清单（细纹/鼻梁/下巴/胡茬）全部是伤痕与细节，她的爱在这段里第一次不需要伪装：她把他看清楚了，然后宣布所有权。
+**为什么这样写**：三个词一行（Edges. Distance. Detail.）是全书极凝练的一处抒情——盲人求的不是光明而是「不模糊」，这个定义让她的渴望变得具体。接着的肖像清单（细纹/鼻梁/下巴/胡茬）全部是伤痕与细节，她的爱在这段里第一次不需要伪装：她把他看清楚了，然后宣布所有权。
 **读者视角提示**：这段与 ch01 他的第一眼（她的墨镜/粉裙/娇弱）形成对偶——他终于被她看清，而她给出的判词不是「温柔」而是「我的」。
 
 > **原句 5:** "Every escape made me want the capture more. Every time Gunnar let me go, one certainty burned brighter inside me: He was still coming. For me." … "I could make myself as difficult as possible. Gunnar Blackwood would still come for me." … "My wolf leapt over a fallen tree. Something massive landed behind us. I didn't look back. I knew with every shred of light in my ruined eyes that my husband was a step behind me. Because he had chosen me. Now I was going to make him prove how badly he wanted to keep me."

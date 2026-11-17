@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：Ivar 停住了。站在他旁边，他听见他的心跳重重撞了一下、又一下，然后像受惊的马一样狂奔；这个少年狼的眼睛变成了金色。——「哦，操。」——Ivar 盯着那个女孩：年轻，跟他差不多大，黑发，Lupetto 家的眼睛。不用介绍他就知道她是谁：Beatrice，Valentino 的妹妹。
 **关键词**：heartbeat slam once. Twice. / eyes went gold / Around his age / Beatrice. Valentino's little sister
 **为什么这样写**：天命反应全部用生理描写交付——心跳、金眼、爆粗口，没有一个字解释「他爱上了她」，读者自己就懂了。而这声「Oh, fuck.」既是 Ivar 的，也是 Gunnar 的内心话：他知道接下来会发生什么。
-**读者视角提示**：记住这个瞬间的结构：在这个世界里，爱情不是选择，是生理判决——这与 Rosalind 的「我选择」形成全书最大的观念对照。
+**读者视角提示**：记住这个瞬间的结构：在这个世界里，爱情不是选择，是生理判决——这与 Rosalind 的「我选择」形成鲜明的观念对照。
 
 > **原句 2:** "Beatrice finally noticed them. Ivar made some sound I hoped never came out of my mouth. It was a wounded, hungry sound. Half rage at being kept from what he wanted, half desperate need to close the distance between himself and the object of desire. That was what a wolf sounded like when somebody stood between him and the one thing in the world he believed belonged to him." … ""No." Valentino pointed toward the door. "There will be no arranged marriages in the Lupetto clan."" … "Valentino ignored me. "My sister isn't a bargaining chip.""
 **中文理解**：Beatrice 终于注意到他们。Ivar 发出了一个他希望自己永远不会发出的声音——受伤的、饥饿的声音：一半是被阻隔在欲望之外的暴怒，一半是要缩短距离的绝望。那就是一头狼被挡在「他相信属于他的唯一东西」之外时的声音。——「不。」Valentino 指着门。「Lupetto 家族不会再有包办婚姻。」——「我妹妹不是谈判筹码。」

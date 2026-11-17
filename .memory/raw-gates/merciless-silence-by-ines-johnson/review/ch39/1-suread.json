@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch39",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch39_chapter_39.txt",
+ "facts": [
+  {
+   "fact": "他确认：Rosalind 就是那个线人、那个搅局者。",
+   "anchor": "Rosalind was the informant. She was the chaos agent.",
+   "start": 707,
+   "end": 759
+  },
+  {
+   "fact": "他改写判词：她不是受伤的狼，她绝不会让自己被吃掉。",
+   "anchor": "My fragile, blind wife in her frilly dresses was not a wounded wolf.",
+   "start": 970,
+   "end": 1038
+  },
+  {
+   "fact": "他选择沉默——因为想到家人会转向她，他的狼就想撕裂世界。",
+   "anchor": "But I kept my mouth shut.",
+   "start": 1665,
+   "end": 1690
+  },
+  {
+   "fact": "他的爆发核心：我也有脑子。",
+   "anchor": "I have a fucking brain.",
+   "start": 4307,
+   "end": 4330
+  },
+  {
+   "fact": "他点破 Vidar 的偏见：你以为聪明就是表格与数字。",
+   "anchor": "You think intelligence is spreadsheets.",
+   "start": 4830,
+   "end": 4869
+  },
+  {
+   "fact": "Vidar 的让步：你不蠢。",
+   "anchor": "But you're not stupid.",
+   "start": 5899,
+   "end": 5921
+  },
+  {
+   "fact": "他顺手替妻子正名。",
+   "anchor": "Rosalind's not stupid, either.",
+   "start": 6282,
+   "end": 6312
+  },
+  {
+   "fact": "他没揭发她的理由：她求他信她。",
+   "anchor": "She'd asked me to trust her.",
+   "start": 6390,
+   "end": 6418
+  },
+  {
+   "fact": "Ivar 的申诉：我是 Blackwood，家族的事不就是我的事？",
+   "anchor": "I'm a Blackwood. Isn't pack business my business?",
+   "start": 7671,
+   "end": 7720
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

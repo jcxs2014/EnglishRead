@@ -58,7 +58,7 @@ modified: "2026-11-17"
 > **原句 8:** "Astrid Blackwood was in her final year of studies at Harvard. It galled me that she preferred to drive the distance rather than fly. There were too many variables on the road. It soothed me to track her progress. Which is why I had a tracker installed on her car. There was one on her phone as well."
 **中文理解**：Astrid Blackwood 在哈佛读书的最后一年。她宁愿自己开车而不是坐飞机，这让他恼火——路上的变量太多了。追踪她的进程能让他安心，所以他在她车上装了追踪器，手机上也有一个。
 **关键词**：final year of studies at Harvard / too many variables on the road / It soothed me to track her / a tracker installed on her car
-**为什么这样写**：他的占有欲被包装成「风险管理」——「变量太多让我不安」，这句是全书最像他的一句情话，也是最让人后颈发凉的一句；而「手机上也有一个」补足了监控的完整度。
+**为什么这样写**：他的占有欲被包装成「风险管理」——「变量太多让我不安」，这句是极像他的一句情话，也是最让人后颈发凉的一句；而「手机上也有一个」补足了监控的完整度。
 **读者视角提示**：记住这份「以安全之名的控制」——它将成为下一本书的核心冲突。
 
 > **原句 9:** "Astrid thought she could hide behind ivy-covered brick walls and three hundred miles of interstate. She thought ignoring my messages and dodging marriage talks meant she could keep an Alpha at arm's length." … ""This is Elias O'Shea," I said, my gaze locked on the pulsing crimson beacon cutting northeast across the Massachusetts border. "Connect me to the travel department. I need a last minute flight.""

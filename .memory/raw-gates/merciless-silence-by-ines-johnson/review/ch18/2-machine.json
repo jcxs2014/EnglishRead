@@ -1,0 +1,276 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch18 the soldier.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch18_chapter_18.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"It was a legal kill,\" Gunnar said from the driver's seat. His voice was low, steady, and devoid of any remorse. \"He was",
+          "ok": true,
+          "pos": 1027
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I stared blindly forward, completely unable to reconcile the sheer dichotomy of this man. How could he be so brutal and ",
+          "ok": true,
+          "pos": 2552
+        },
+        {
+          "text": "\"I was not going to escape this man.\"",
+          "ok": true,
+          "pos": 2815
+        },
+        {
+          "text": "\"I didn't realize I had spoken the thought out loud until Gunnar went entirely still. His blunt fingers brushed a stray ",
+          "ok": true,
+          "pos": 2851
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A primal thrill roared through my veins alongside the terror. No one had ever chased me before. Well, not like this. Not",
+          "ok": true,
+          "pos": 4510
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Gunnar could easily outpace me if he wanted to, but he kept himself exactly one step behind. He wasn't rushing to captur",
+          "ok": true,
+          "pos": 4910
+        },
+        {
+          "text": "\"I didn't want to get away. But I wasn't ready to get caught yet either. I liked that he was coming for me",
+          "ok": true,
+          "pos": 5301
+        }
+      ],
+      "words": 100
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"I will never bring you pain. I won't touch you in our bed if you don't want me to. But no",
+          "ok": true,
+          "pos": 7673
+        },
+        {
+          "text": "you can't escape me.\"\"",
+          "ok": true,
+          "pos": 7764
+        },
+        {
+          "text": "\"He paused, his hand cupping the side of my face, his thumb gently wiping away a strand of grass or twig that had caught",
+          "ok": true,
+          "pos": 7784
+        },
+        {
+          "text": "\"\"I do not break vows. But I will break anyone who comes between us and those vows. I don't blame you for being afraid o",
+          "ok": true,
+          "pos": 7916
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Gunnar thought he was my keeper. He thought he was my protective Alpha shield. But as I listened to the steady beat of h",
+          "ok": true,
+          "pos": 8554
+        },
+        {
+          "text": "\"He was my husband. He was bound to me by vows he swore never to break. But more, Gunnar Blackwood was not my prison. He",
+          "ok": true,
+          "pos": 8799
+        }
+      ],
+      "words": 78
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.57
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter Eighteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1648,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

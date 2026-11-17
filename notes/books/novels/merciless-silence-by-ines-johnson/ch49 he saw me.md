@@ -9,7 +9,7 @@ modified: "2026-11-17"
 - **一句话概括**：父亲的认可章：晨光里他站在屋外想昨夜那块林间空地，父亲走出来说——你比我们所有人都先看出不对、没有把她丢给狼群、把她干净地带进这个家、让满屋人知道她动不得；「I am proud of you, son. Incredibly proud.」这句话穿过他二十五年的自我设定（「我是 Blackwood 的武器、蛮汉、拳头」）直抵旧伤：**他看见了我**。然后父亲派活，兄弟三人出门，在车后座发现藏着的 Ivar；Vidar 要赶人，他拦下——因为他知道「别人给你列的那些你不能，最后会变成你的极限」，他正试着不把同一道疤刻到弟弟身上。
 - **情感弧线位置**：他的「被看见」章：从 ch39 争取「我有脑子」到本章「你比我们都先看懂」——他在家族的角色终于从拳头升格为领队，而他把这份权限立刻用在弟弟身上。
 - **Tropes 兑现/反转**：兑现 father-validation 与 youngest-brother-bonding 惯例；反转：这一章最重要的动作是「让弟弟上车」——一次没有打斗的救援。
-- **人物弧线**：Gunnar：完成从「武器的自我认同」到「领队的自我认同」；Fenrir：全书最完整的一次父子对话；Ivar：从被保护者升格为随行学员；Vidar/Magnus：默许但保留毒舌。
+- **人物弧线**：Gunnar：完成从「武器的自我认同」到「领队的自我认同」；Fenrir：一次完整的父子对话；Ivar：从被保护者升格为随行学员；Vidar/Magnus：默许但保留毒舌。
 - **叙事手法**：「旧伤」被写成骨科检查（手指沿骨摸到裂处）——延续他全书的身体语言；场景从抒情晨光切到任务派发，节奏自然；结尾用引擎声与「take care of family business」收束，没有任何总结。
 
 ## 精读
@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：林子里某处，就是昨夜他抓到妻子、她告了白的那块地方。他的嘴角在回忆里翘起来。——从前，他不会相信任何人能靠这个家这么近。可是他自己亲手引领了一个非常 formidable 的对手从正门走进来。
 **关键词**：where I'd caught my wife / confessed her love / a very formidable opponent / through the front door
 **为什么这样写**：「那块地方」的写法把私情标在地图上，温柔得不像他。而 formidable opponent 一词是他给自己的家安了一道反讽：他搬进来的不是外人，是他打不过的人——这份服气是他全书的成长刻度。
-**读者视角提示**：记住「从正门引进来的对手」——全书最漂亮的自我评价之一，也解释了为什么他能在短短几天里改写自己对世界的判断。
+**读者视角提示**：记住「从正门引进来的对手」——一次漂亮的自我评价，也解释了为什么他能在短短几天里改写自己对世界的判断。
 
 > **原句 2:** ""You figured out what Rosalind was up to before anyone else in this house even suspected a thing. Instead of throwing her to the wolves—instead of letting this pack tear her apart for lying—you handled it. You kept her safe, you brought her clean into the family fold, and you made sure everyone in that room knew she was untouchable.""
 **中文理解**：「她做了什么，你比这屋里任何人都先看出来。你没有把她丢给狼群——没有让这个 pack 因她撒谎把她撕碎——你自己处理了。你保住了她的安全，把她干干净净地带进了家族，还让屋里所有人都知道：她动不得。」
@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** ""You used your head. You showed restraint, strategy, and compassion. You protected this family by protecting your wife. I've always known you could fight, Gunnar. Last night, you proved something I always knew about you: you can lead. I am proud of you, son. Incredibly proud.""
 **中文理解**：「你用了脑子。你展现了自制、策略和同理心。你通过保护你的妻子保护了这个家族。我一直知道你打得很好，Gunnar；昨晚你证明了我一直知道的事：你能带领。我为你骄傲，儿子，非常骄傲。」
 **关键词**：You used your head / restraint, strategy, and compassion / you can lead / Incredibly proud
-**为什么这样写**：他的三个品质被逐项点名（自制/策略/同理心）——分别对应他这一路的三次成长；而「你能带领」是家族对他的职位重定义。最后两句重复 proud 是全书最重的一次父爱表达，且完全没有条件句。
+**为什么这样写**：他的三个品质被逐项点名（自制/策略/同理心）——分别对应他这一路的三次成长；而「你能带领」是家族对他的职位重定义。最后两句重复 proud 是一次极重的父爱表达，且完全没有条件句。
 **读者视角提示**：对照 ch11 父母审问婚夜时的怀疑，这一章完成了他在家的地位反转；记住这个认可，后面他的所有决断都以它为基础。
 
 > **原句 5:** "I looked down at my baby brother. Ivar didn’t look scared. He looked like a kid standing in the shadow of three older brothers, trying to figure out where he fit. Magnus was going to lead the pack. Vidar was the smartest bastard in nearly every room he walked into. And I’d spent most of my life knowing exactly what the family needed me to be." … "Ivar was still waiting to find out what we needed him to be." … "Worse, he was looking to us to tell him."

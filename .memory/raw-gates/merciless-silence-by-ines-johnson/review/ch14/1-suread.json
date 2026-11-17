@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch14",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "她的双重标准：不要他的孩子，但绝不许别人染指他——占有欲烧到自己身上。",
+   "anchor": "I might not want his big babies in my belly, but I'd be damned if I was going to let anyone else get their bellies full",
+   "start": 431,
+   "end": 550
+  },
+  {
+   "fact": "Mei Ling 提醒 Astrid 进城时去见 Elias——她的婚约对象。",
+   "anchor": "\"You should make some time to meet Elias while you're in town, Astrid,\"",
+   "start": 3481,
+   "end": 3552
+  },
+  {
+   "fact": "她的判词：女族长的女儿＝镀金监狱里的学徒。",
+   "anchor": "Being born a daughter to a female leader is an apprenticeship in a gilded prison.",
+   "start": 5216,
+   "end": 5297
+  },
+  {
+   "fact": "Astrid：母亲用十九年把她养成完美的谈判筹码。",
+   "anchor": "My mother spent nineteen years turning me into the perfect bargaining chip.",
+   "start": 5858,
+   "end": 5933
+  },
+  {
+   "fact": "两位母亲的定谳：一个烧世界护孩子，一个烧孩子护王座。",
+   "anchor": "Mei Ling burned the world to protect her children. Sorsha burned her child to protect her throne.",
+   "start": 6913,
+   "end": 7010
+  },
+  {
+   "fact": "情报金矿：Ma 倒下则 Blackwood 帝国四十八小时内停摆。",
+   "anchor": "\"If Ma ever got sick, the entire infrastructure of the Blackwood empire would stall out within forty-eight hours.",
+   "start": 7259,
+   "end": 7372
+  },
+  {
+   "fact": "战略目标锁定：Mei Ling 是中央节点——斩网则全 pack 塌方，正是她需要的系统性弱点。",
+   "anchor": "she was the central node.",
+   "start": 7649,
+   "end": 7674
+  },
+  {
+   "fact": "章末：这个本可成为朋友的人，她却要毁掉她唯一的人生。",
+   "anchor": "Too bad I’m going to destroy the only life she’s ever known.",
+   "start": 8674,
+   "end": 8734
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

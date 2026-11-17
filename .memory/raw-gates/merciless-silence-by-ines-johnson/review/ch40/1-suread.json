@@ -1,0 +1,68 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch40",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch40_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "Nell 履历：她掌管着有全球最富最有权男人的董事会。",
+   "anchor": "She commanded boardrooms with some of the world's richest and powerful men.",
+   "start": 288,
+   "end": 363
+  },
+  {
+   "fact": "Mei Ling 的教练：别让她们推你——你是 CEO，你掌控每个房间。",
+   "anchor": "Do not let them push you.",
+   "start": 755,
+   "end": 780
+  },
+  {
+   "fact": "对照：Sorsha 的每条建议都包着威胁、筹码或操纵。",
+   "anchor": "Sorsha had spent my entire life coaching me, but every piece of advice my mother ever gave was wrapped in threat",
+   "start": 1283,
+   "end": 1395
+  },
+  {
+   "fact": "Mei Ling 的骄傲与亲吻是她在自己世界从未见过的东西。",
+   "anchor": "never by genuine pride and affection.",
+   "start": 3228,
+   "end": 3265
+  },
+  {
+   "fact": "她的判读：真正的地区权力在瓷杯与微笑间成交。",
+   "anchor": "this was where the real power of the regional packs was brokered",
+   "start": 4687,
+   "end": 4751
+  },
+  {
+   "fact": "Mei Ling 叫她跟随，而不是遣散她。",
+   "anchor": "\"Rosalind, you're with me,\"",
+   "start": 5373,
+   "end": 5400
+  },
+  {
+   "fact": "Mei Ling 给她定位：你注意到别人漏掉的东西。",
+   "anchor": "\"You notice people. Things the rest of us miss.",
+   "start": 6741,
+   "end": 6788
+  },
+  {
+   "fact": "对照：母亲只要成果，从没给过她展示自己搜集到的情报的权力。",
+   "anchor": "She'd never empowered me to show her any of the balls I'd retrieved on my own.",
+   "start": 6989,
+   "end": 7067
+  },
+  {
+   "fact": "Mei Ling 的信任：我相信你会做任何女人都会做的事。",
+   "anchor": "I trust you to do what any woman would do",
+   "start": 7545,
+   "end": 7586
+  },
+  {
+   "fact": "章末：那是你的选择——母亲算不算家人由她定。",
+   "anchor": "\"That's your choice, Rosalind.\"",
+   "start": 7910,
+   "end": 7941
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

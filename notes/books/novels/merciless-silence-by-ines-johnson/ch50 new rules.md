@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** ""An Alpha is only as strong as the partner standing beside them," Mei Ling continued as filled her own teacup. "Fenrir's strength adds to mine. Mine adds to his. Together, we're stronger than either of us could ever be alone. And now Gunnar has Rosalind."" … ""I couldn't be happier with the match, Sorsha. Your daughter has made my son stronger." Mei Ling gave my hand a small squeeze. "And she's made the Blackwoods stronger.""
 **中文理解**：「一个 Alpha 的力量，取决于站在他身边的伴侣，」Mei Ling 一边给自己倒茶一边说。「Fenrir 的力量加大我的，我的加他的——我们在一起比各自独处时都强。而现在，Gunnar 拥有了 Rosalind。」——「我对这门婚事再满意不过了，Sorsha。你女儿让我儿子更强了，」她轻轻捏了捏她的手，「她也让 Blackwood 家更强了。」
 **关键词**：only as strong as the partner / Together, we're stronger / Your daughter has made my son stronger / made the Blackwoods stronger
-**为什么这样写**：这段话是对 Sorsha 价值观的正面改写：她母亲认为权力是零和的（我多你就少），Mei Ling 说的是加法的。而「她让我们更强」这句公开评价，是她这辈子第一次听见有人把她说成资产以外的东西——不是筹码，是增益。
+**为什么这样写**：这段话是对 Sorsha 价值观的正面改写：她母亲认为权力是零和的（我多你就少），Mei Ling 说的是加法的。而「她让我们更强」这句公开评价，是她听见有人把她说成资产以外的东西——不是筹码，是增益。
 **读者视角提示**：注意 Mei Ling 一边倒茶一边说这些话——她把宣言放在最日常的动作里，这是她一贯的权力风格。
 
 > **原句 5:** "“Once I realized what you were doing, I decided to stop interfering and see where you took it. I have to say, I'm very impressed, Rosalind. You created opportunities I couldn't have engineered half so elegantly myself.”" … "Pride warmed my chest for one pathetic second before I understood. She was proud of me. And she still thought everything I'd done ultimately belonged to her." … "I'd thought I was finally a player. My mother still thought I was a piece."

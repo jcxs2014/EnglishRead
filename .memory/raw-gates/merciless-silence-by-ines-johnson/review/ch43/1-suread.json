@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch43",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch43_chapter_43.txt",
+ "facts": [
+  {
+   "fact": "他的风险评估：一屋子被逼到角的狼 + 一群手指扣着扳机的人。",
+   "anchor": "A room full of cornered wolves. A bunch of terrified humans with their fingers on triggers.",
+   "start": 1342,
+   "end": 1433
+  },
+  {
+   "fact": "纵然正在气兄弟，他也不许子弹碰到 Vidar。",
+   "anchor": "I'd die before letting a bullet take him.",
+   "start": 1632,
+   "end": 1673
+  },
+  {
+   "fact": "他的专业本能：自动点数——正门六个、后门四个。",
+   "anchor": "I counted automatically. Six cops through the main entrance.",
+   "start": 1748,
+   "end": 1808
+  },
+  {
+   "fact": "Valentino 下令 stand down 时的状态：勉强压住的怒。",
+   "anchor": "Valentino's voice wasn't calm. It was barely contained rage.",
+   "start": 3105,
+   "end": 3165
+  },
+  {
+   "fact": "他第一次在 Valentino 脸上看到「震惊」。",
+   "anchor": "Something I'd never seen on Valentino Lupetto before: shock.",
+   "start": 3517,
+   "end": 3577
+  },
+  {
+   "fact": "Romeo 的暴怒不是领地反应——他认识那个女警。",
+   "anchor": "This wasn't a wolf reacting to cops invading its territory. He knew her.",
+   "start": 4148,
+   "end": 4220
+  },
+  {
+   "fact": "Casanova 拦住兄弟：不要在这里、不要这样。",
+   "anchor": "\"Not here,\" Casanova muttered against his brother's ear.",
+   "start": 4679,
+   "end": 4735
+  },
+  {
+   "fact": "Valentino 对女警说的：这次我说的也是真话，tesoro（亲爱的）。",
+   "anchor": "\"I'm telling the truth this time too, tesoro.\"",
+   "start": 6121,
+   "end": 6167
+  },
+  {
+   "fact": "章末电话：警察也在突袭你母亲的宴会。",
+   "anchor": "They're raiding your mother's party.",
+   "start": 6663,
+   "end": 6699
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

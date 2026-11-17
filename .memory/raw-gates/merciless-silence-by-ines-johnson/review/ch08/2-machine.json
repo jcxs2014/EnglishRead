@@ -1,0 +1,254 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch08 ostracized list.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch08_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It had always been my plan, whether I was handed over to Magnus, Vidar, or Gunnar. I knew the Blackwood men were raised ",
+          "ok": true,
+          "pos": 1060
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The males of this family thought they ran the world. They thought power sat in the size of their muscles, the balance of",
+          "ok": true,
+          "pos": 3512
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I catalogued the true movers and shakers—the women who actually dictated their husbands' political votes over porcelain ",
+          "ok": true,
+          "pos": 5801
+        },
+        {
+          "text": "\"The ostracized list.\"",
+          "ok": true,
+          "pos": 5989
+        },
+        {
+          "text": "\"Mei Ling’s journal listed every influential matriarch in this territory and beyond, except for a few. A vicious thrill ",
+          "ok": true,
+          "pos": 6010
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I flinched, clutching the blanket tighter around my bare shoulders, letting out a small, trembling gasp as I took a deli",
+          "ok": true,
+          "pos": 7204
+        },
+        {
+          "text": "\"Gunnar let out a strangled, choked sound. The intake of breath sounded like a man being stabbed in the chest.\"",
+          "ok": true,
+          "pos": 7393
+        },
+        {
+          "text": "\"Hook, line, and sinker. The weight of his own guilt was crushing him. His Blackwood honor was tearing him apart for hur",
+          "ok": true,
+          "pos": 7503
+        }
+      ],
+      "words": 113
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Gunnar’s breath hitched. Standing this close, his 20/20 vision locked onto my wide, unblinking eyes. I knew what stared ",
+          "ok": true,
+          "pos": 8099
+        },
+        {
+          "text": "\"His hand froze in the air between us. The heavy, guilty air in the hallway went dead silent.\"",
+          "ok": true,
+          "pos": 8354
+        },
+        {
+          "text": "\"\"Rosalind",
+          "ok": true,
+          "pos": 14
+        },
+        {
+          "text": "are you blind?\"",
+          "ok": true,
+          "pos": 8456
+        }
+      ],
+      "words": 68
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 125,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 1,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1468,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句4",
+        "words": 113
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

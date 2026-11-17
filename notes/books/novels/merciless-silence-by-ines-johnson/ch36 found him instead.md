@@ -9,14 +9,14 @@ modified: "2026-11-17"
 - **一句话概括**：浴缸章：他给她洗头、擦身、抱上床，她第一次自问「Is this what love feels like?」；她开始交底——嫁给他是为逃离母亲、母亲要她当间谍——他不惊不怒，只答「I trust you.」；她承诺永不伤他，并在心里把原计划删改：Blackwood 安全，只拆别的 pack；她第一次不愿跑（「I want to run to you.」），被他的缓慢与耐心带着走完全程；章末她终于明白：她一生在找出口，找到的却是他。
 - **情感弧线位置**：她的效忠转移正式完成：从「拆掉这个家族」到「保住这个家族、只拆其余的」，并第一次把「信任」当成可给的东西交付出去。
 - **Tropes 兑现/反转**：兑现 bath-and-aftercare 与 pillow-talk 惯例；反转：她交出的是情报级别的坦白（母亲派她做间谍），他给出的回应却是零条件的三个字。
-- **人物弧线**：Rosalind：从「每次触碰都是交易」到第一次接受无条件的照料，并把「我们」写进计划；Gunnar：听完间谍坦白只抱紧她——他的信任是不设条件的授权；Sorsha：被女儿亲口从「雇主」降格为「不可信的人」。
+- **人物弧线**：Rosalind：从「每次触碰都是交易」到接受无条件的照料，并把「我们」写进计划；Gunnar：听完间谍坦白只抱紧她——他的信任是不设条件的授权；Sorsha：被女儿亲口从「雇主」降格为「不可信的人」。
 - **叙事手法**：洗浴段用触觉铺陈（泡沫、水、毛巾的层层裹覆）；关键坦白用极短句对齐（"My mother asked me to spy on you." → "I trust you."）；计划修订用三行独立句完成；章末用「找出口/找到他」的语义对偶收束全书主题。
 
 ## 精读
 > **原句 1:** "My husband's large hands moved over my skin with excruciating care. He smoothed the suds over my collarbone, down the curve of my ribs, and across the sensitive, aching swell of my hips, washing away every trace of dirt and pine needles. There was no rush in his movements, no rough demand. Those heavy hands—hands that had broken men, hands that could tear through flesh—handled me as if I were made of spun glass."
 **中文理解**：丈夫的大手以近乎痛苦的谨慎在她皮肤上移动：把皂沫抹过她的锁骨、肋骨的弧线、髋部那片敏感酸胀的起伏，洗掉每一处泥土与松针。他的动作没有催促、没有粗暴的要求。这双沉重的手——打断过男人、能撕开皮肉的手——把她当作玻璃丝一样捧着。
 **关键词**：excruciating care / There was no rush / hands that had broken men / as if I were made of spun glass
-**为什么这样写**：excruciating 一词把「温柔」写成一种自伤式的克制——照顾她对他是有代价的；破折号里塞入的两个动作（broken men / tear through flesh）与 spun glass 形成全书最大的一次质地反差：同一双手的两种用途在同一句里并置，没有解释。
+**为什么这样写**：excruciating 一词把「温柔」写成一种自伤式的克制——照顾她对他是有代价的；破折号里塞入的两个动作（broken men / tear through flesh）与 spun glass 形成极强烈的质地反差：同一双手的两种用途在同一句里并置，没有解释。
 **读者视角提示**：这句是「delicate」这个词在本书里的第二次使用——第一次是 ch01 他对她的误判，这次是他在浴室里自愿采用的对待方式；两次含义已经完全不同。
 
 > **原句 2:** "Is this what love feels like?" … "I didn't know. Sorsha had raised me on a strict diet of paranoia, strategy, and leverage. I had been conditioned from infancy to believe that every touch was a transaction and every intimacy was a vulnerability waiting to be exploited. I hadn't known I was capable of feeling something so soft, this terrifyingly tender."

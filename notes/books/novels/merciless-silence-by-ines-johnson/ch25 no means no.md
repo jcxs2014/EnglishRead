@@ -23,7 +23,7 @@ modified: "2026-11-17"
 **中文理解**：Rosalind 这一生都被认为她弱的人围着：他们盯着她、守着她、牵着她的手臂引路。被当成无助的人时她就顶回去——不靠动手，靠那些小小的心理游戏；可她私心里想要的，是被压倒。
 **关键词**：surrounded by people who thought she was weak / They watched her. Guarded her. / balked when... treated like she was helpless / secretly she wanted to be overpowered
 **为什么这样写**：三个短句（watched/guarded/led）把她的人生写成一串监控动词，读者这才看清「被保护」与「被软禁」在她身上是同一件事；最后一句是全章的题眼：反抗是姿态，想被压倒才是真需求——而这两者只有他能同时满足。
-**读者视角提示**：这段与 ch20「damsel」之辩合读——全家学不会的那件事，他凭观察学会了；他是唯一把她当「能」却仍愿意压倒她的人。
+**读者视角提示**：这段与 ch20「damsel」之辩合读——全家学不会的那件事，他凭观察学会了；他是那个把她当「能」却仍愿意压倒她的人。
 
 > **原句 3:** "She was beautiful. Not delicate. I was beginning to think that the word had never belonged anywhere near Rosalind Blackwood. There was nothing delicate about the woman who had just baited a Blackwood enforcer into hunting her around a small bedroom."
 **中文理解**：她美。但不是 delicate。他开始觉得这个词从来不该出现在 Rosalind Blackwood 身边——这个女人刚刚把一个 Blackwood 的执法者钓得满卧室追她，她身上没有一点 delicate 的地方。
@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** "Because I remembered blood on white sheets. Because I remembered her whimper of pain. Because no matter how wet she'd been around my fingers, I wasn't putting my cock inside her again until I knew she could take me without pain." … ""Because I said no. If you said no to me, would it be fine if I started berating you and asking you for a reason? No means no.""
 **中文理解**：因为他记得白床单上的血；记得她疼得哼出声；因为不管她刚在他指下有多湿，他都不会再进去一次——直到他确认她能无痛承受。「因为我说了不。如果你对我说不，我就可以反过来责问你、逼你要个理由吗？No 就是不。」
 **关键词**：blood on white sheets / I wasn't putting my cock inside her again / No means no / would it be fine if I started berating you
-**为什么这样写**：三个 Because 把拒绝写成三份伤情记录——他的「不」不是规矩，是创口结的痂；后面那句「No means no」更狠：他不是在立她的规矩，是在要求她承认自己的条款也约束她。consent 第一次被双向执行，且由最强势的一方执行。
+**为什么这样写**：三个 Because 把拒绝写成三份伤情记录——他的「不」不是规矩，是创口结的痂；后面那句「No means no」更狠：他不是在立她的规矩，是在要求她承认自己的条款也约束她。consent 由此被双向执行，且由最强势的一方执行。
 **读者视角提示**：这是全书 consent 线最重要的一章——ch09 她提协议、ch23 他执行、本章他反过来用她的语言拒绝她的要求。她的「please」第一次无效，而理由是她的原则。
 
 > **原句 5:** "Three newly mated Blackwood brothers." … ""We're fucking pathetic," Magnus chuckled. "All three of us are pussy whipped.""

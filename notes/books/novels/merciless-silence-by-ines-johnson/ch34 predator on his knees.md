@@ -9,11 +9,11 @@ modified: "2026-11-17"
 - **一句话概括**：她的反转章：想要他不等于容纳他的全部，但她的身体在学习「让出空间」；他明明在忍——「He wasn't going to move until I was ready」，而这份确定性比任何安慰都让她放松；她一句「Move」他就服从，她第一次知道被人信任是什么感觉；随后她翻身而上，宣示「You are mine」，把猎人弄跪——这一次她不是猎物。
 - **情感弧线位置**：全书权力关系的顶点：她从「被追的猎物」变成「发令的主人」，而他以完全的服从回应——这份臣服是她此生从未获得的东西，比被爱更让她醉。
 - **Tropes 兑现/反转**：兑现 dominant-heroine 与 power-reversal 惯例；反转：真正的性感来自他愿意放手——他的「不动」与「服从」才是她欲望的来源。
-- **人物弧线**：Rosalind：从计算每段关系（棋子/敌人/盾）到第一次在某人身上想要「守住不让人夺走」；Gunnar：以不作为的方式交出主导权，完成了最强的一次示爱。
+- **人物弧线**：Rosalind：从计算每段关系（棋子/敌人/盾）到公开宣示要守住他；Gunnar：以不作为的方式交出主导权，完成了最强的一次示爱。
 - **叙事手法**：身体感知的渐变叙事（拉伸→适应→掌控）；两句对白（Move / I've got you）承担全部转折；翻身段用「他本可以阻止我，他没有」这一「未发生的事件」写出信任；章末一句把全书动物意象（prey/predator）倒置。
 
 ## 精读
-> **原句 1:** "Iwanted him. But wanting Gunnar and accommodating all of Gunnar were two very different things. I'd already come apart twice. My body felt boneless and oversensitive, wrung out from pleasure, and still I wanted more." … "Because he'd caught me."
+> **原句 1:** "I wanted him. But wanting Gunnar and accommodating all of Gunnar were two very different things. I'd already come apart twice. My body felt boneless and oversensitive, wrung out from pleasure, and still I wanted more." … "Because he'd caught me."
 **中文理解**：她想要他。但「想要 Gunnar」和「容纳 Gunnar 的全部」是两件非常不同的事。她已经崩解过两次，身体软得没有骨头、过度敏感、被快感榨干——可她还是想要更多。因为他抓住她了。
 **关键词**：accommodating all of Gunnar / boneless and oversensitive / still I wanted more / Because he'd caught me
 **为什么这样写**：wanting 与 accommodating 的对照把欲望写成一道物理题——她要的不是他的欲望，是他的体量与存在本身；「因为他抓住我了」用三个词解释全部缘由，也把她被抓住这件事从恐惧改写成许可。

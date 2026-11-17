@@ -1,0 +1,62 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch49",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch49_chapter_49.txt",
+ "facts": [
+  {
+   "fact": "晨光里他想起昨夜抓住她的那块地方。",
+   "anchor": "Somewhere out there was the spot where I'd caught my wife last night",
+   "start": 154,
+   "end": 222
+  },
+  {
+   "fact": "父亲的评价：你比我们都早知道哪里不对。",
+   "anchor": "You knew something was wrong before the rest of us did.",
+   "start": 887,
+   "end": 942
+  },
+  {
+   "fact": "父亲点明他做对了什么：没有把她丢给狼群。",
+   "anchor": "Instead of throwing her to the wolves",
+   "start": 1265,
+   "end": 1302
+  },
+  {
+   "fact": "他的自我认知：我一生都是 Blackwood 的武器、那个蛮汉。",
+   "anchor": "All my life, I’d been the Blackwood weapon. The brute.",
+   "start": 1568,
+   "end": 1622
+  },
+  {
+   "fact": "父亲的认可核心：你能带队。",
+   "anchor": "you proved something I always knew about you: you can lead.",
+   "start": 1920,
+   "end": 1979
+  },
+  {
+   "fact": "最重的一句：他不只看得上我的拳头，他看见了我。",
+   "anchor": "My dad didn't just value my fists. He saw me.",
+   "start": 2198,
+   "end": 2243
+  },
+  {
+   "fact": "Ivar 的样子：站在三个哥哥的影子里，找自己的位置。",
+   "anchor": "Ivar didn’t look scared. He looked like a kid standing in the shadow of three older brothers",
+   "start": 3393,
+   "end": 3485
+  },
+  {
+   "fact": "他的教训：别人给你列的「你不能」，最后会变成你的极限。",
+   "anchor": "their limits became yours.",
+   "start": 3965,
+   "end": 3991
+  },
+  {
+   "fact": "他的决定：他跟我们一起去。",
+   "anchor": "\"He's coming,\" I said, my voice absolute.",
+   "start": 4134,
+   "end": 4175
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

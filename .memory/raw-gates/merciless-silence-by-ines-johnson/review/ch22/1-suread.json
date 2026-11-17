@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch22",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "童年轶事：只有让 Ivar 睡在他胸口他才不闹——他因此学会了静止。",
+   "anchor": "Ma said it was the only thing that could keep him still.",
+   "start": 492,
+   "end": 548
+  },
+  {
+   "fact": "她的童年：生存课、监控餐、纪律化隔离——没有温馨故事可讲。",
+   "anchor": "My childhood had been a series of calculated lessons in survival, monitored meals, and disciplined isolation.",
+   "start": 728,
+   "end": 837
+  },
+  {
+   "fact": "门锁「笼」反转：她的狼摇尾蹭肋骨求玩。",
+   "anchor": "her tail brushing against my ribs as she begged to play",
+   "start": 1957,
+   "end": 2012
+  },
+  {
+   "fact": "梳发对照课：Sorsha 教操纵与武器化，没人教过她怎么接受温柔。",
+   "anchor": "None of Sorsha's cold, calculating lessons had ever prepared me for what to do when a man brushed my hair with gentleness.",
+   "start": 3958,
+   "end": 4080
+  },
+  {
+   "fact": "她第一次自愿服从（Eat）——不想打断梳发节奏。",
+   "anchor": "I liked the feel of his massive hands in my hair too much.",
+   "start": 4468,
+   "end": 4526
+  },
+  {
+   "fact": "险些脱口的真话：她就是搅乱各 pack 近一年的线人本人。",
+   "anchor": "I was the informant orchestrating the chaos that had been tearing the packs apart for nearly a year.",
+   "start": 5536,
+   "end": 5636
+  },
+  {
+   "fact": "自私的新芽：如果我能不能失去他呢——她起了「留下他」的念头。",
+   "anchor": "What if I get to keep him?",
+   "start": 6272,
+   "end": 6298
+  },
+  {
+   "fact": "章末契约：交出身体+验收条款——先证明、后信任。",
+   "anchor": "I'm giving you my body. Prove me right, give me pleasure, and then I'll trust you.",
+   "start": 8269,
+   "end": 8351
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

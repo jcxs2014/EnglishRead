@@ -1,0 +1,437 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch42 pride.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch42_chapter_42.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Normally, my nose helped me make sense of a room my eyes couldn't. The matriarchs had apparently bathed in money before ",
+          "ok": true,
+          "pos": 27
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Daughter. Not a bargaining chip. Not a blind defect to be hidden in the shadows or traded for territory. Mei Ling presen",
+          "ok": true,
+          "pos": 2041
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A suffocating knot tightened in my throat. I'd never felt anything like it. Was that guilt? Couldn't be. Only people in ",
+          "ok": true,
+          "pos": 2255
+        },
+        {
+          "text": "\"It had to be want. For the first time in my life, I wanted this. I wanted the warm, fierce protection of the Blackwood ",
+          "ok": true,
+          "pos": 2429
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "If they found out what I had done—that I was the cause of all the chaos in their lives—they wouldn't see a daughter. The",
+          "ok": true,
+          "pos": 2732
+        },
+        {
+          "text": "\"I reached up, my fingers trembling slightly as I hooked them around the frame of my dark sunglasses. I pulled the black",
+          "ok": true,
+          "pos": 3018
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"I'm glad to have finally been invited, Mei Ling,\" Sorsha replied, her voice carrying easily through the atrium. \"Celest",
+          "ok": true,
+          "pos": 5436
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Well, fuck. I'd given my mother Celeste and Amara because Mei Ling considered them practically useless. Women on the bot",
+          "ok": true,
+          "pos": 5934
+        },
+        {
+          "text": "\"I'd forgotten who had taught me how dangerous overlooked people could be. Sorsha hadn't tried to climb the social ladde",
+          "ok": true,
+          "pos": 6186
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"Thank you for the introductions, darling,\" Sorsha whispered, her tone dropping into a deadly, low register that sent a ",
+          "ok": true,
+          "pos": 6742
+        },
+        {
+          "text": "\"\"I know what you've been doing, Rosalind,\" she breathed, her words slicing into me like a razor. \"I know about the Iron",
+          "ok": true,
+          "pos": 7045
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"Remember who made you,\" Sorsha murmured, pressing a kiss to my cheek. \"You belong to me. And if you attempt to cross me",
+          "ok": true,
+          "pos": 7462
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was a bluff. She didn't know more. But could I chance it?\"",
+          "ok": true,
+          "pos": 7687
+        },
+        {
+          "text": "\"For one terrible second, I was a little girl again. Sunglasses covering my eyes. Hands folded in my lap. Listening whil",
+          "ok": true,
+          "pos": 7747
+        },
+        {
+          "text": "\"No, my wolf stirred. I wasn't helpless. And I had claws",
+          "ok": true,
+          "pos": 7981
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I stepped forward and threw my arms around my mother. Anyone watching would see a daughter embracing the mother she hadn",
+          "ok": true,
+          "pos": 8037
+        },
+        {
+          "text": "\"\"If you tell,\" I whispered, \"I will.\"",
+          "ok": true,
+          "pos": 8380
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "\"Oh, Rosalind,\" she whispered.\"",
+          "ok": true,
+          "pos": 8989
+        },
+        {
+          "text": "\"Something in her voice made my wolf go still. I retracted my claws before anyone could see them. Her hands remained on ",
+          "ok": true,
+          "pos": 9018
+        },
+        {
+          "text": "\"Pride.\"",
+          "ok": true,
+          "pos": 4156
+        },
+        {
+          "text": "\"A thunderous crash split the air. Wood splintered. Glass shattered. Women screamed as the heavy front doors slammed int",
+          "ok": true,
+          "pos": 9257
+        }
+      ],
+      "words": 80
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Chapter Forty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 21,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1662,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": "块数 11 偏离本书常见区间 4–10（本书 50 章中位 7、最高 10（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句5",
+        "kw": "Old families that aren't part of our little circle",
+        "words": 9
+      },
+      {
+        "block": "原句9",
+        "kw": "what parts of me the world was allowed to see",
+        "words": 10
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

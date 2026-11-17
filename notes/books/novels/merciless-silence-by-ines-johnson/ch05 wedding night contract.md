@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** ""I'm not expecting us to make love like in some romance book. I'm not even expecting us to fuck. This is copulation for a purpose. We need an heir, and we need an alliance. So let's just get it over with so I can go to sleep.""
 **中文理解**：「我不指望我们像言情小说那样相爱，甚至不指望上床——这是有目的的交配。我们需要继承人和联盟。办完，我好睡觉。」
 **关键词**：make love like in some romance book / copulation for a purpose / We need an heir / get it over with
-**为什么这样写**：三个名词（heir / alliance / sleep）把婚床改写成公文柜台；copulation 这个临床词是她递出的宣战书——拒绝亲密本身比拒绝他更狠。「romance book」四字顺手嘲讽了他刚学来的温柔剧本（上一章嫂子课堂的成果）。
+**为什么这样写**：三个名词（heir / alliance / sleep）把婚床改写成公文柜台；copulation 这个临床词是她递出的宣战书——拒绝亲密本身比拒绝他更狠。「romance book」四字顺手嘲讽了他刚学来的温柔剧本（ch03 嫂子课堂的成果）。
 **读者视角提示**：这是她的立场宣言：身体可以做交易，心不在场。整本书看的就是这一句怎么被改写。
 
 > **原句 5:** "What the actual fuck?" … "I had spent the night worrying about how not to scare her, asking my sisters-in-law for advice on gentleness, and trying to handle my new wife like spun glass. And here she was, acting like a cold-blooded hell-spawn who just wanted to check a box on a contract."

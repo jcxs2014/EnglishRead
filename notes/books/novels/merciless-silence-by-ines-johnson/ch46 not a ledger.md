@@ -9,7 +9,7 @@ modified: "2026-11-17"
 - **一句话概括**：家族审判会（先等了近一小时，因为 Mei Ling 与 Fenrir 先上了楼）：她把每一家的弱点与自己的手法全盘交代，Nell 意外地近乎敬佩，Magnus 只问「Why?」；她说了两遍真话——「Because I was powerless, and I wanted everyone else to feel that way too.」以及「Because I hated you.」；她承认信息过时、承认已被母亲反用，并声明「我只允许丈夫用我」。Vidar 质疑凭什么信她，三个嫂子开始自报家史——她们一个个都比她能闹。最后 Mei Ling 开口：混乱可以逆转，Sorsha 不一样；但家人不讲逻辑、爱不是账本，「My son trusts you, so I trust you. Only you can break that trust.」然后立规矩：「My house. My rules.」——Sorsha 由她处理。
 - **情感弧线位置**：她的「被接纳」章：不是被原谅，是被列入——审判会最后变成入伙仪式，唯一要付的代价是「以后照规矩来」。
 - **Tropes 兑现/反转**：兑现 family-council / punishment 惯例；反转：她准备好承受惩罚，收到的却是一份「相信你」的授权和三个同盟。
-- **人物弧线**：Rosalind：第一次在审判里说真话（不是策略性坦白）；Mei Ling：全章最强的一次说理（爱不是账本）；Nell/Addie/Astrid：从旁观者变成共犯同伙；Vidar：唯一的怀疑者，被自己的妻子当场堵嘴。
+- **人物弧线**：Rosalind：第一次在审判里说真话（不是策略性坦白）；Mei Ling：一次极强的说理（爱不是账本）；Nell/Addie/Astrid：从旁观者变成共犯同伙；Vidar：当面质疑的怀疑者，被自己的妻子当场堵嘴。
 - **叙事手法**：审讯式对话被嫂子们的八卦打断作喜剧缓冲；Mei Ling 的长段独白用「I believe…I believe…」排比建立信任链；「爱不是账本」的比喻是她母亲式教育的反命题；末句用荤话收场，把沉重拉回家常。
 
 ## 精读
@@ -29,7 +29,7 @@ modified: "2026-11-17"
 **中文理解**：她有一打答案：因为各 pack 腐败；因为无辜的人受苦而像他们这样的家族发财；因为男人犯罪却称之为传统；因为母亲教她权力是唯一能防止她变成别人受害者的东西。这些都成立，但都不是全部的真相。——「因为我没有力量，而我想要别人也尝到那种感觉。还有……」她抬起下巴，直直对着她多年的未婚夫。「因为我恨你们。」
 **关键词**：I had a dozen answers / But they weren't the whole truth / I was powerless / Because I hated you
 **为什么这样写**：她先给出一整套可被同情的政治理由，再自己拆掉——这份自我拆解是全书她最诚实的一次表达（她的动机里藏着嫉妒与报复，而不是正义）。arrowing it at her long-time fiancé 的动作细节把指控变成面对面的对视。
-**读者视角提示**：三个字「我恨你们」是她全书第一次不包装的情绪——注意这家人听完没有一句反驳，因为真话比谎言更容易被接受。
+**读者视角提示**：一句「我恨你们」是她少有的不包装的情绪——注意这家人听完没有一句反驳，因为真话比谎言更容易被接受。
 
 > **原句 4:** "I didn't get Mei Ling arrested. My mother did. She did it because I betrayed her. That, I would do again. I probably will do it again. It might be our love language. " … "I thought I was controlling everything. I wasn't. Sorsha knew what I was doing. Maybe not all of it, but enough. She used me. She still wants to use me." … "No. The only person I'll ever let use me is my husband."
 **中文理解**：「Mei Ling 被捕不是我做的，是我母亲。她这么做是因为我背叛了她。那件事我会再做，大概也会再做。这可能是我们的爱语。」——「我以为我在控制一切。我没有。Sorsha 知道我在做什么——可能不知道全部，但足够了。她利用了我，而且还想继续利用我。」——「不。我唯一允许使用我的人，是我丈夫。」

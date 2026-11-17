@@ -1,0 +1,276 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch26 kitchen school.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch26_chapter_26.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I was still taking down the packs. Obviously. The Blackwoods, the Lupettos, the Ironwoods, the Volki. My own family. Eve",
+          "ok": true,
+          "pos": 856
+        },
+        {
+          "text": "\"Ivar too. He was a sweet little thing, like an eager poodle.\"",
+          "ok": true,
+          "pos": 1076
+        },
+        {
+          "text": "\"And Astrid. I liked the idea of having younger siblings to bicker with. Someone to annoy me and borrow my things withou",
+          "ok": true,
+          "pos": 1137
+        },
+        {
+          "text": "\"Fine. Three Blackwoods could survive the purge. I wasn't unreasonable",
+          "ok": true,
+          "pos": 1370
+        }
+      ],
+      "words": 104
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I reached toward the bedside table and found my sunglasses sitting near the edge. Not where I'd left them. They'd been p",
+          "ok": true,
+          "pos": 2107
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Being underestimated was hard fucking work. Every stumble had to look natural. Every turn of my head had to be slightly ",
+          "ok": true,
+          "pos": 4291
+        },
+        {
+          "text": "\"All while listening. Remembering. Planning. Plotting the destruction of every person stupid enough to believe I was use",
+          "ok": true,
+          "pos": 4605
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"Cooking is about smell. Taste. Texture. You know an onion is done because it stops smelling sharp and starts smelling s",
+          "ok": true,
+          "pos": 6437
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "They were fighting. At least I thought they were fighting. Astrid had insulted Addie's clothes; Addie had insulted Astri",
+          "ok": true,
+          "pos": 8445
+        },
+        {
+          "text": "\"There wasn't any malice in the room. Only laughter",
+          "ok": true,
+          "pos": 8793
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I knew how to listen for weaknesses, catalogue them, and save them until they could do the most damage. I didn't know ho",
+          "ok": true,
+          "pos": 8844
+        },
+        {
+          "text": "\"\"Don't worry,\" Mei Ling said beside me. Her jasmine drifted closer as she reached past me for something on the counter.",
+          "ok": true,
+          "pos": 9162
+        }
+      ],
+      "words": 81
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 130,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter Twenty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 1,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1666,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 104
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

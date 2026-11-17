@@ -1,0 +1,366 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/ch35 fuck it hurt.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/merciless-silence-by-ines-johnson/text/ch35_chapter_35.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They both wanted to take her from me.\"",
+          "ok": true,
+          "pos": 918
+        },
+        {
+          "text": "\"They were both dead now.\"",
+          "ok": true,
+          "pos": 956
+        },
+        {
+          "text": "\"No one was coming to rescue Rosalind Blackwood. No one was putting their hands on her. No one was taking my wife anywhe",
+          "ok": true,
+          "pos": 1164
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Magnus and Vidar just stared. First at me. Then down. Then back at me.\"",
+          "ok": true,
+          "pos": 2367
+        },
+        {
+          "text": "\"I grinned, and just barely kept myself from saying, Told ya",
+          "ok": true,
+          "pos": 2650
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Yes, you are, baby boy.\" Ma patted his cheek reassuringly. \"You'll grow as big as your dad.\"\"",
+          "ok": true,
+          "pos": 3273
+        },
+        {
+          "text": "\"My mother sent my father an appreciative leer, causing the shit-eating grin I'd cast at my brothers to drop. In unison,",
+          "ok": true,
+          "pos": 3362
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Rosalind stirred. Her head lifted slowly from my chest, pale eyes barely open. \"He chased me through the woods, caught m",
+          "ok": true,
+          "pos": 3603
+        },
+        {
+          "text": "\"Rosalind blinked sleepily at the room. \"Oh. I thought it wasn't rhetorical.\"",
+          "ok": true,
+          "pos": 3757
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "There it was again. That feeling of being dropped right on my ass. Like the floor disappeared beneath my feet, and my st",
+          "ok": true,
+          "pos": 4593
+        },
+        {
+          "text": "\"I was completely in love with this woman.\"",
+          "ok": true,
+          "pos": 4926
+        },
+        {
+          "text": "\"Fuck, it hurt",
+          "ok": true,
+          "pos": 4968
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Not a bad hurt. More like something inside my chest had been cracked open to make room for her. It left me exposed in a ",
+          "ok": true,
+          "pos": 4983
+        },
+        {
+          "text": "\"I should've felt weaker for it. Somehow, I felt stronger. I tightened my arms around her and kept climbing",
+          "ok": true,
+          "pos": 5185
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Rosalind was brilliant. Calculating. A mafia princess who could move men around like pieces on a chessboard and have the",
+          "ok": true,
+          "pos": 5512
+        },
+        {
+          "text": "\"And she was still keeping secrets from me.\"",
+          "ok": true,
+          "pos": 5680
+        },
+        {
+          "text": "\"What if tonight had been another move? The chase. Her surrender. Those possessive words she'd growled against my skin. ",
+          "ok": true,
+          "pos": 5772
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She was my wife.\"",
+          "ok": true,
+          "pos": 6659
+        },
+        {
+          "text": "\"My mate.\"",
+          "ok": true,
+          "pos": 6676
+        },
+        {
+          "text": "\"My family.\"",
+          "ok": true,
+          "pos": 6685
+        },
+        {
+          "text": "\"And my family had been pointing me at their enemies my entire fucking life. I'd killed for every one of them. I'd kill ",
+          "ok": true,
+          "pos": 6696
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 126,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter Thirty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      5,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 21,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1255,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 50 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句2",
+        "kw": "First at me. Then down. Then back at me",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

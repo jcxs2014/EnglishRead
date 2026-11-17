@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch32",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "被抱＝无助者的待遇——母亲从不许她显得无助，所以她从没被抱过。",
+   "anchor": "Being carried was for the helpless.",
+   "start": 558,
+   "end": 593
+  },
+  {
+   "fact": "不必她说：他全知道她想要什么、需要什么。",
+   "anchor": "He knew, he knew exactly what I wanted.",
+   "start": 2369,
+   "end": 2408
+  },
+  {
+   "fact": "她一生都由别人决定她属于哪里、能做什么。",
+   "anchor": "My entire life, people had decided where I belonged.",
+   "start": 2646,
+   "end": 2698
+  },
+  {
+   "fact": "狼眼给她的三样：边缘、距离、细节。",
+   "anchor": "This is what my wolf gave me. Edges. Distance. Detail.",
+   "start": 4157,
+   "end": 4213
+  },
+  {
+   "fact": "每一次逃脱都让她更想被抓。",
+   "anchor": "Every escape made me want the capture more.",
+   "start": 5770,
+   "end": 5813
+  },
+  {
+   "fact": "核心确认：无论她跑多远，他都会来。",
+   "anchor": "He would always come for me.",
+   "start": 5915,
+   "end": 5943
+  },
+  {
+   "fact": "最重的一句：他不是被迫娶她、没把娇妻当负担——他选择了她。",
+   "anchor": "He had chosen me.",
+   "start": 10590,
+   "end": 10607
+  },
+  {
+   "fact": "他的誓言：无论你跑多远、多黑，我都会追来。",
+   "anchor": "I will always come for you.",
+   "start": 9954,
+   "end": 9981
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}

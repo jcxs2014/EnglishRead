@@ -34,7 +34,7 @@ modified: "2026-11-17"
 > **原句 4:** "The wolf beneath my skin growled low in my gut. A territorial pulse flared in my chest. She was already marked as mine to protect. The thought of this frail thing running off into a world full of enemies who would crush her set every defensive instinct I possessed on fire."
 **中文理解**：皮肤下的狼在腹腔里低吼，领地性的脉动在胸口炸开——她已经被标记为「归他保护的所有物」；一想到这个脆弱的人要独自跑进满是敌人的世界，他全部的防御本能都烧了起来。
 **关键词**：wolf beneath my skin / territorial pulse / defensive instinct
-**为什么这样写**：她刚说完要逃，狼的反应却不是求偶而是护地——作者把「逃婚」在他耳中改写成「送死」：她读出自由，他读出风险清单。这是打手的职业病在括约肌层面的发作，保护欲先于欲望、先于爱情，为全书定下「先守后爱」的顺序。
+**为什么这样写**：她刚说完要逃，狼的反应却不是求偶而是护地——作者把「逃婚」在他耳中改写成「送死」：她读出自由，他读出风险清单。这是打手的职业病在本能层面的发作，保护欲先于欲望、先于爱情，为全书定下「先守后爱」的顺序。
 **读者视角提示**：记住这一拍的两半：狼对她是冷的（无牵引、无认出），防御本能却先着了火。往后每次他说「为了她好」，都可以回来查这团火是保护还是占有。
 
 > **原句 5:** "I was the enforcer. The brute. The fist of the Blackwood pack. Looking down at the sharp, stubborn tilt of Rosalind Lobo’s chin, I realized I was facing the one threat my fists couldn't solve." … "I had no fucking idea how to tame this bitch."

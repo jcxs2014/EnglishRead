@@ -6,7 +6,7 @@ modified: "2026-11-17"
 # 19. Chapter Nineteen
 
 ## 本章导航
-- **一句话概括**：车厢交底会：狼形判词「She looked wild」、他的狼第一次想「玩」；他不道歉但坦白 brutal side，她投弹澄清 Diego 是旧例不是袭击（「I was telling him no when you burst in」）；两种血味与职业配置谈拢（他不必戒血）→ 她立结盟条件「tell each other everything」→ 他摊牌（审讯/击杀/情报指向她母亲）→ 提案 Allies——她的抢答抢在他前面：「I'd be more than happy to dethrone the bitch.」
+- **一句话概括**：车厢交底会：狼形判词「She looked wild」、他的狼罕见地只想「玩」；他不道歉但坦白 brutal side，她投弹澄清 Diego 是旧例不是袭击（「I was telling him no when you burst in」）；两种血味与职业配置谈拢（他不必戒血）→ 她立结盟条件「tell each other everything」→ 他摊牌（审讯/击杀/情报指向她母亲）→ 提案 Allies——她的抢答抢在他前面：「I'd be more than happy to dethrone the bitch.」
 - **情感弧线位置**：信息互缴完成结盟前置：他交出职业全貌，她交出性史与「不脆弱」宣言——两个藏秘密的人第一次把牌摊在仪表盘上；「Allies」把婚姻从合同改写成合伙。
 - **Tropes 兑现/反转**：兑现 truths-in-the-car 惯例与 enemies-to-allies 转折；反转：结盟的方向由新娘抢先指定——他要同盟自保，她要同盟弑母，同一张桌子两份议程。
 - **人物弧线**：Gunnar：职业脸孔首次被爱人直视而不道歉；Rosalind：用「sex toy」的冷描述测试他的占有欲，用 dethrone 抢答锁定议程；Diego：被定性为「walking sex toy」，身后名就此盖章。

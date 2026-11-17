@@ -9,7 +9,7 @@ modified: "2026-11-17"
 - **一句话概括**：狼跑归来撞见她摸墙而行，「瞎」字出口换来的不是碎裂而是女王露面（I am not defective 的回声）；公主抱途中聊出 pink 真相（人形看不见颜色、狼的光谱里没有粉）与全书第一次笑；铺新床、换床单、笨拙地问要不要冷敷；他立下双向同意协议（「两人都想才来」），也反向要求她「别再强迫我」；她睡后他对暗影立誓做她的保护者——Starting with me。
 - **情感弧线位置**：第一个缓和回合一章走完：指控 → 反噬（queen）→ 抱起 → 斗嘴 → 协议 → 同床不同求。愧疚被她的火花溶掉一层，本章起两人进入「谈判共处」模式。
 - **Tropes 兑现/反转**：兑现 carry-her-back 与 forced proximity；反转：协议不是他单方面的恩赐——他同时向她索赔（claiming mark 的账），权力天平第一次双向摆动。
-- **人物弧线**：Gunnar：金鱼记忆的人第一次把一件事记到底（誓言与失败）；Rosalind：pink 真相交代后卸下第一层甲（第一次笑）；Mei Ling 未出场但「 goddess 」式权威被提起。
+- **人物弧线**：Gunnar：金鱼记忆的人第一次把一件事记到底（誓言与失败）；Rosalind：pink 真相交代后卸下第一层甲（第一次笑）；Mei Ling 未出场，但她强加的 pink 裙在对话里被当庭清账。
 - **叙事手法**：金鱼记忆开场给「记仇」立反差坐标；腐瓷娃娃与 tempered steel 的对读承接 ch03 的手部特写；对白短打斗嘴段调节奏；「对暗影立誓」把婚誓升维成对自我的军令状。
 
 ## 精读
@@ -28,7 +28,7 @@ modified: "2026-11-17"
 > **原句 3:** "“My mother likes to dress me in pink, frilly things,” she confessed, her voice dropping a fraction of its former bite. “I can’t see color in my human form. And pink is not on the wolf's color spectrum.”" … "“Thank the Goddess." I let out a dramatic breath. "I thought my wife just had terrible fashion sense.”" … "She scoffed, tilting her head toward the sound of my voice. “Says the man who wore a tracksuit and sneakers to our wedding.”"
 **中文理解**：「我妈喜欢给我穿粉色的、带花边的，」她招认，声音里的锋利淡了一档。「人形的我看不见颜色。而粉色根本不在狼的色觉光谱里。」「感谢女神，」他夸张地吐出一口气，「我还以为我老婆就是品味灾难。」她哼笑，头朝他声音的方向偏过去：「这话出自穿着运动服配球鞋来结婚的男人。」
 **关键词**：dress me in pink, frilly things / can’t see color / the wolf's color spectrum / terrible fashion sense
-**为什么这样写**：pink 之谜用一次坦白收束——她不是爱穿粉，是从未「看过」粉： Sorsha 的审美暴政连受害者的知情权都省了。color spectrum 的物种设定让「品味」问题变成感官事实；斗嘴一来一回，把前四章的敌意第一次兑成了幽默。
+**为什么这样写**：pink 之谜用一次坦白收束——她不是爱穿粉，是从未「看过」粉： Sorsha 的审美暴政连受害者的知情权都省了。color spectrum 的物种设定让「品味」问题变成感官事实；斗嘴一来一回，把两人的敌意兑成了共同的幽默。
 **读者视角提示**：记住 pink 的双重来源（母亲的标签 + 她的不可见）——后面每次她换装，都是她对 Sorsha 清单的一次涂改。
 
 > **原句 4:** "“We’re not doing it again. We’re going to sleep. We’re always going to sleep in the same bed, whether you're pissed at me or not."" … ""I'm not pissed at you."" … ""I would never force you."" … ""I wouldn't let you force me.""

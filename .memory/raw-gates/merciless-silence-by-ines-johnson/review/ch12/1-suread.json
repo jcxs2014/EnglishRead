@@ -1,0 +1,56 @@
+{
+ "book": "merciless-silence-by-ines-johnson",
+ "chapter": "ch12",
+ "text": "notes/books/novels/merciless-silence-by-ines-johnson/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "Sorsha 生的是女儿、养的是士兵——独女是她唯一的永生筹码，每段关系都被训练成围攻。",
+   "anchor": "Sorsha Lobo had given birth to a daughter, but she raised a soldier.",
+   "start": 440,
+   "end": 508
+  },
+  {
+   "fact": "父亲也是视力障碍者（全家藏得极好）——她的盲有遗传来源。",
+   "anchor": "My father had been vision impaired, but no one had known that.",
+   "start": 728,
+   "end": 790
+  },
+  {
+   "fact": "她怀疑母亲杀父的动机：他把缺陷遗传给了本该完美的继承人。",
+   "anchor": "because he'd passed his disability onto what was supposed to be her perfect heir",
+   "start": 990,
+   "end": 1070
+  },
+  {
+   "fact": "双关宣言：不会打、看不清，但会「clean house」——这栋房子很快就没有 Blackwood 了。",
+   "anchor": "But I know how to clean house.",
+   "start": 4496,
+   "end": 4526
+  },
+  {
+   "fact": "Mei Ling 反转绵羊比喻——她从没说过羊是谁。",
+   "anchor": "\"I never said you were the sheep, dear.\"",
+   "start": 6783,
+   "end": 6823
+  },
+  {
+   "fact": "对 Mei Ling 的宣战口径：Sorsha 严重低估了自己的对手。",
+   "anchor": "But from where I sit... I think she has severely underestimated her opponent.",
+   "start": 7886,
+   "end": 7963
+  },
+  {
+   "fact": "一石三鸟自评：喂 ego、演怨女、挑起双女族长暗战。",
+   "anchor": "It was a masterstroke of political theater.",
+   "start": 8430,
+   "end": 8473
+  },
+  {
+   "fact": "不想怀孕——会把缺陷传给另一个生命，她没那么残忍。",
+   "anchor": "I had no desire to get pregnant.",
+   "start": 9506,
+   "end": 9538
+  }
+ ],
+ "t3_note": "R1 复用 production/chNN-suread.json（生产期先读 text 后写 md，时序合规）；本次已重跑 --check 验锚点"
+}
