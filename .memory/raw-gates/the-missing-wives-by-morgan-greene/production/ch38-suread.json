@@ -1,0 +1,37 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch38",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch38_chapter_38.txt",
+ "facts": [
+  {
+   "fact": "cleared 定义：锁定嫌疑人且有足够证据支持逮捕/定罪。",
+   "anchor": "A homicide is considered “cleared” when law enforcement has identified an offender",
+   "start": 104,
+   "end": 186
+  },
+  {
+   "fact": "破案率：60 年代超 90%——2000 年代初约 60%。",
+   "anchor": "In the 1960s, clearance rates exceeded 90%",
+   "start": 358,
+   "end": 400
+  },
+  {
+   "fact": "2020 起跌破 50%——全国一半命案破不了。",
+   "anchor": "fewer than half of all homicides in the United States are solved.",
+   "start": 566,
+   "end": 631
+  },
+  {
+   "fact": "低破案率原因清单：嫌疑人/证人死亡或失踪、证据不足、证据链问题、资源缺乏（农村尤甚）。",
+   "anchor": "The death or disappearance of a suspect or witness",
+   "start": 684,
+   "end": 734
+  },
+  {
+   "fact": "调查能力与罪犯野心同步增长——越会抓越会逃。",
+   "anchor": "The better we get at catching them, the better they seem to be at getting away with it.",
+   "start": 1018,
+   "end": 1105
+  }
+ ]
+}
