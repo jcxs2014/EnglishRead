@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "过路人发现她的车遗弃在镇外老公路边——门开着、引擎运转、两岁女儿在后座尖叫。",
+   "anchor": "A passerby found her car abandoned at the side of a road just outside town",
+   "start": 753,
+   "end": 827
+  },
+  {
+   "fact": "丈夫出示短信记录，给了绑架时间窗；无摄像头无证人。",
+   "anchor": "He showed us their text log. We got a timeframe for the abduction",
+   "start": 1148,
+   "end": 1213
+  },
+  {
+   "fact": "现场装置：软管从龙头绕过房梁，对着储水槽滴水；槽已满到边。",
+   "anchor": "A hose was rigged from a spigot, wrapped around the rafter overhead",
+   "start": 1937,
+   "end": 2004
+  },
+  {
+   "fact": "钢桌上用铰链固定钢椅，后仰约三十度，靠背斜到水线——头沉在水面下。",
+   "anchor": "was a steel chair, leaned back at roughly a thirty-degree angle",
+   "start": 2454,
+   "end": 2517
+  },
+  {
+   "fact": "首饰分文未取——不是财务动机、不是抢劫。",
+   "anchor": "Thousands, maybe tens of thousands of dollars to be taken. But they were left in place.",
+   "start": 3298,
+   "end": 3385
+  },
+  {
+   "fact": "受害者清醒经历全程：指甲抠椅臂弯折两根、皮带下皮肤磨破。",
+   "anchor": "Her nails were bent back, two broken from how hard she’d been clawing at the arms of the chair.",
+   "start": 4824,
+   "end": 4919
+  },
+  {
+   "fact": "Alex 黑历史闪回：多年前醒来发现同样的束缚带在自己手腕上。",
+   "anchor": "when she’d woken up to find them around her own wrists.",
+   "start": 2931,
+   "end": 2986
+  },
+  {
+   "fact": "Alex 断言凶手预谋：要她受苦——不只是溺死之痛，还有恐惧与等待。",
+   "anchor": "He wanted it to hurt. He wanted her to suffer. Not just the pain of drowning, but the dread and expectation of it.",
+   "start": 6962,
+   "end": 7076
+  },
+  {
+   "fact": "章末：Alex 对 Lacey 宣誓要查到底。",
+   "anchor": "But I’m going to find out.",
+   "start": 8476,
+   "end": 8502
+  }
+ ]
+}
