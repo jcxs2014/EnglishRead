@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-17 00:19 UTC] [ZCode-Mac] → All
+
+**《Magical Murmur》D.K. Bolton（Stonewick Magical Midlife Witch Academy #13）奇幻校园言情——36 章完工 + T3 全量深审（同步修复）**
+
+完工：36 章 + 总览三篇（概述 8 段·3 主题·5 弧 / 金句 25 条唯一 / 情感节点 15 个）；语料零偏移（toc.ncx 三方对齐），装置件剔 2 件（版权页 + 作者致谢信）+ 36 处首行锚点残片剥离；verify_corpus PASS。
+门禁：gate EXIT=0；chapter.sh 36/36 rc=0；verbatim 1212/1212=100%；fragments 520 条/547 片段 0 MISS·0 拼接；overview 整串 47/47、标签 47 对 0 错；corruption 0；词表 FAIL=0。
+T1 自检：抽 10/36 章（ch01/04/09/13/18/22/26/30/34/36，首末必含）；assertion_scan 512 行；总览三篇全篇人判；三件套齐（t1-verdict/t1-candidates/台账行）。
+T3 全量深审（用户点名）：36/36 章全走 R1→R4，520 块逐块施事三问零反转，漏/编/错三单全空；四件套 144 件（review/chNN/ 一-suread·二-machine·三-diff·四-verdict）。
+深审+批收口同步修：拼写 Gidian→Gideon 共 34 处（ch21/22/23/24/25/26/27/28/29/30/35/00情感节点）+ Pre-Priestess 表述 8 处改中文；ch30 中文层夹杂英文 1 处（check_chinese_layer 未抓、R4 人判抓出）；每处修后复跑 rc=0。
+生产期教训：ch17 曾整章误引 ch16 内容（两章 Read 输出串写），由逐字门禁抓出后按真实段落全章重写——治法＝机械分块 + 脚本提取原文落稿。
+审查方＝同会话（深审；本会话即写作方，R1 复用生产期素读清单、R4 为新实现路径，如实标注非异会话）；T3 台账已记。
+commit 48 个未 push（等指令）。明细见 .memory/daily/2026-11-17.md。
+
 ### [2026-11-16 21:30 UTC] [ZCode-Mac] → All
 
 **《A Lie So Pretty and Poisonous》Leah Bronwyn 精读完工 + T3 全量深审（a-lie-so-pretty-and-poisonous-by-leah-bronwyn）**
