@@ -28,7 +28,7 @@ modified: "2026-11-17"
 > **原句 3:** ""Every three months, she hosts a bunch of pack matriarchs at a private estate," Astrid grumbled. "It’s completely off the grid—no phones, no digital networks, and zero armed male guards. Mom insists 'women's business stays between women' and refuses to let Dad's enforcers anywhere near the estate.""
 **中文理解**：「每三个月，我妈把一群 pack 女族长请到私人庄园，」Astrid 抱怨道。「完全离网——没手机、没数字网络、零男性武装卫兵。我妈坚持『女人的事留在女人之间』，不许我爸的人靠近庄园半步。」
 **关键词**：a private estate / completely off the grid / zero armed male guards / women's business stays between women
-**为什么这样写**：抱怨与情报同句交付——每条牢骚都是作战参数（地点/通信/防御为零）。off the grid 的清单念得越顺口，读者越意识到：这是全保护网的完整缺口清单。women's business 的铁律是上一章 central node 战法的配套条件：没有男性卫兵的会场，才是女猎手的猎场。
+**为什么这样写**：抱怨与情报同句交付——每条牢骚都是作战参数（地点/通信/防御为零）。off the grid 的清单念得越顺口，读者越意识到：这是全保护网的完整缺口清单。women's business 的铁律是 ch14 central node 战法的配套条件：没有男性卫兵的会场，才是女猎手的猎场。
 **读者视角提示**：记死这条情报的三要素（离网/无手机/零男卫兵）——它们会在峰会之夜逐一变成她的优势与险境。
 
 > **原句 4:** ""Oh, really?" I asked, my tone sounding completely innocent and unbothered as a wicked thrill danced through my veins. My mother thought I was working on her agenda. She had no clue I had my own. The first item on the list was her demise. "I need to use the restroom before our food gets here.""

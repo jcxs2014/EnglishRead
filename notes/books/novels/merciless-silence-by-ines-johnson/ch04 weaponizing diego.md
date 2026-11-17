@@ -35,7 +35,7 @@ modified: "2026-11-17"
 **中文理解**：「我父亲死的时候，Ironwood pack 里还有忠于他的旧部——那些人认为掌舵的该是他，而不是他弟弟。我需要你给他们中的一个人递个口信。」
 **关键词**：loyalists in the Ironwood pack / take the helm / not his brother / get a message
 **为什么这样写**：身世信息只在台词里给，三个事实（父亲已死、叔继其位、旧部仍在）撑起她的情报网蓝图；helm（舵）把 pack 权位写成一艘船，她要联系的是「认为船开错了」的人。给名字的动作只写耳语，不写内容——悬念留给读者。
-**读者视角提示**：记下 Ironwood、loyalists、兄弟夺位三件事——这是全书最大的外部伏线，收信人名字本章只对 Diego 耳语。
+**读者视角提示**：记下 Ironwood、loyalists、兄弟夺位三件事——这是全书贯穿最长的外部伏线，收信人名字本章只对 Diego 耳语。
 
 > **原句 5:** "Before I could pull my hand back, a shift in the heavy air made the tiny hairs on the back of my neck stand up. The atmosphere around the pillar went instantly cold, thick with an overwhelming, oppressive scent that slammed into my senses like a physical wall. Copper. Heavy, metallic, blood-soaked copper, wrapped in the sharp, burning heat of peppermint." … "Gunnar."
 **中文理解**：她还没收回手，空气先变了——颈后汗毛根根竖起，石柱边的气氛瞬间冷透，一股压顶的气味像实体墙一样撞进感官：铜。沉重的、金属的、浸透血的铜，外面裹着一层灼烧的薄荷。Gunnar。

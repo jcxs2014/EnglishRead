@@ -29,7 +29,7 @@ modified: "2026-11-17"
 **中文理解**：「不行，」他低吼，声音粗哑。「不是这样。」——他从没爱过，对「非血缘的感情」一窍不通；但他开始怀疑那大概就是这种感觉：像坠落，脚下什么都没有，明知该怕落地，却毫不在乎。
 **关键词**："No," I growled / Not like that / I'd never been in love / Like falling when there was nothing beneath you
 **为什么这样写**：他的第一次拒绝与第一次告白并置在同一段——拒绝的理由是保护，告白的定义是坠落；两者都说明他终于承认自己对这件事没有经验、只有决心。falling 与 landing 的隐喻把她在他身上造成的失控与现代爱情的通用语接通，而 not giving a damn 用粗话收尾，保持他的声线。
-**读者视角提示**：注意他还是没说出口——这份告白先在自己的脑内成立，下一章他才会讲给她听。
+**读者视角提示**：注意他还是没说出口——这份告白先在自己的脑内成立，直到 ch47 他才当面说出口。
 
 > **原句 4:** "I hovered over her, taking a moment to just look down at my wife. In the pale moonlight filtering through the pine canopy, her chest was heaving, her dark hair tangled in the damp moss. I leaned down, resting my forehead against hers, my thumb gently wiping away a stray tear from the corner of her clouded, unseeing eyes. I didn't want to be the brute who broke her. I wanted to be the man who held her together."
 **中文理解**：他悬在她上方，花一点时间只是低头看他的妻子：月光透过松冠，她胸口起伏，黑发散在湿苔里。他俯下身，额头抵住她的额头，拇指轻轻抹掉她那双雾白、看不见的眼睛眼角的一滴泪。他不想做弄坏她的蛮汉——他想做把她兜住的人。
@@ -47,7 +47,7 @@ modified: "2026-11-17"
 **中文理解**：Rosalind 在他身下，Rosalind 缠着他。他追过她、自以为猎手；抓住她、把她按倒、留下印记、把她占为己有。但不知在哪个环节，她把整件事翻转了——是她认领了他。他爱上了 Rosalind Blackwood。
 **关键词**：thinking I was the predator / she had turned the whole fucking thing around / She'd claimed me / I was in love
 **为什么这样写**：五个过去动作（chased/caught/pinned/put/claimed）先建起猎手叙事，再用 But 一句全部推翻——这一行是全书的权力关系清算：她才是那个标记的人（呼应 ch06 的 claiming bite）。末句七个词、没有感叹号、没有形容词，是他能给出的最平静的坦白。
-**读者视角提示**：这句话只在她不知道的时候成立——下一章她就会听到；而他告白的同时，她的计划仍在推进，这个时间差就是本卷末的悬念。
+**读者视角提示**：这句话只在她不知道的时候成立——直到 ch47 她才听到；而他告白的同时，她的计划仍在推进，这个时间差就是本卷末的悬念。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

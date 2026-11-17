@@ -6,7 +6,7 @@ modified: "2026-11-17"
 # 39. Chapter Thirty-Nine
 
 ## 本章导航
-- **一句话概括**：他终于拼出真相——货运、谣言、各 pack 的血战全是她；那句「A wounded wolf gets eaten」她在全家面前随口就说了出来，像听了一辈子。他本可以当场揭发，却闭了嘴，因为想到家人会转向她，他的狼就想撕裂世界。Vidar 一句轻蔑把他压了三十年的旧伤挑开——他制服哥哥、用关节技逼问：你不信我脑子；「I have a fucking brain.」；Vidar 说「But you're not stupid.」；他还替妻子正名「Rosalind's not stupid, either.」；Magnus 收场：我们都怕老婆。他决定等她拆完自己的网，再向家族交出她的价值。末尾 Ivar 用一句「Isn't pack business my business?」挣得同行。
+- **一句话概括**：他终于拼出真相——货运、谣言、各 pack 的血战全是她；那句「A wounded wolf gets eaten」她在全家面前随口就说了出来，像听了一辈子。他本可以当场揭发，却闭了嘴，因为想到家人会转向她，他的狼就想撕裂世界。Vidar 一句轻蔑把他压了二十多年的旧伤挑开——他制服哥哥、用关节技逼问：你不信我脑子；「I have a fucking brain.」；Vidar 说「But you're not stupid.」；他还替妻子正名「Rosalind's not stupid, either.」；Magnus 收场：我们都怕老婆。他决定等她拆完自己的网，再向家族交出她的价值。末尾 Ivar 用一句「Isn't pack business my business?」挣得同行。
 - **情感弧线位置**：他的第二次「知情选择」——这一次比上一章更硬：他不仅知道她是谁，还知道她是整个地区的纵火者，却把这份情报锁进自己胸口；同时他把自己被低估的旧伤，第一次当众拆骨。
 - **Tropes 兑现/反转**：兑现 brothers-brawl 与 misunderstood-hero；反转：本章的拳不是打给敌人，是打给亲哥的一张表格——暴力第一次被用于索取尊重。
 - **人物弧线**：Gunnar：从「被当成拳头」到「要求被当人」，并把最强的一次忠诚从家族转到妻子；Vidar：偏见被拆后的让步（虽然嘴还是硬的）；Magnus：以一句粗话终止情绪事故；Ivar：从被保护者到要求入场。

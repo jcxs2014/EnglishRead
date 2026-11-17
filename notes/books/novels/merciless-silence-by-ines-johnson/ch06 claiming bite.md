@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：她从没见过父亲——还在母亲肚子里时就被处理掉了，至少传闻如此。母亲从不提 Nikos Ironwood：那个已被打残的 Ironwood pack 的三儿子。她从不认为那是一场爱情结合——母亲一听到「爱」这个词就皱鼻子。她从他身上拿到想要的东西：地位，和肚子里 legitimize 她权力的幼崽；而在她出生之前，Nikos 已经失去了利用价值。
 **关键词**：gotten rid of him / Nikos Ironwood / decimated Ironwood pack / lost his usefulness
 **为什么这样写**：身世揭底借「八卦」的口吻交代（Or so the gossip went），把弃父写成全镇皆知却无人细想的旧账；usefulness 一词收尾，把母亲的婚姻观压缩成一个经济学变量。decimated（被打残的）Ironwood 同时埋下外部世界的权力地图。
-**读者视角提示**：Ironwood 三个字要重点圈出——上一章她正给「父亲旧部」递消息，身世与行动线在此合拢：她的情报网起点是母亲的弃子。
+**读者视角提示**：Ironwood 三个字要重点圈出——ch04 里她正给「父亲旧部」递消息，身世与行动线在此合拢：她的情报网起点是母亲的弃子。
 
 > **原句 2:** "I hated the gentleness in his voice. I hated the cautious, protective weight of it. He was supposed to be the mindless brute of the Blackwood pack. I needed him to be a monster. I needed him to be crude and cold. So I could hold on to my rage. So I could use him like a tool without a single flicker of hesitation or guilt."
 **中文理解**：她恨他声音里的温柔，恨那种小心翼翼、护着人的重量。他本该是 Blackwood pack 那个没脑子的莽汉——她需要他是个怪物，粗鲁又冰冷。这样她才能握住自己的怒火，才能把他当工具使唤，没有一瞬的迟疑或愧疚。

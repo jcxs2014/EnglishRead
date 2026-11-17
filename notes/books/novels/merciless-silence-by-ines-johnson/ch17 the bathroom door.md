@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：「死了。我留在地窖，派清扫队去装袋吧。」Vidar 头也不回：「他招了，还是你没能耐在人家吐出一个音节前就把人砸成浆？」——「我很 clinical，Vidar。我不砸；我施加的是恰当的压强，以取得所需结果。」「要的拿到了吗？」Magnus 问。「拿到了。Corin Petrakis 哭得像个孩子。然后我把他的头砸烂了。」
 **关键词**：without preamble / smash him into pulp / the appropriate amount of pressure / sobbed like a child
 **为什么这样写**：同一口气里「我不砸」与「砸烂了他的头」互相打脸——clinical 是他对自己的品牌宣传，兄弟一句话就完成事实核查；sobbed like a child 的冷描述与 smash 的粗口并置，行刑报告像读报表。这一段的喜剧密度全是黑色：暴力在这儿是家常流程。
-**读者视角提示**：记住「他杀了 Corin」——她棋盘上刚递出去的信箱被收件人亲手销毁；两条任务线的第一次实弹相撞。
+**读者视角提示**：记住「他杀了 Corin」——她棋盘上刚递出去的信箱，被 Gunnar 亲手销毁；两条任务线的第一次实弹相撞。
 
 > **原句 2:** ""It gets worse. Petrakis swore Elias Vane got our shipping routes from a source inside the Lobo pack. The Volki were fed bullshit that we were moving into their counterfeit operation. Dante Lupetto heard his pack was looking weak with Vidar taking Addie's hand after her arranged marriage with Valentino was denied, which pushed him to grab Addie." I paused, resting my elbows on my knees. "The whole damn thing is like a gossip show. Like it was a chaotic clusterfuck engineered to make every major pack panic and start chewing on each other's throats.""
 **中文理解**：「更糟的还在后面。Petrakis 起誓说 Elias Vane 的航运路线来自 Lobo pack 内部的来源；Volki 被喂了假消息说我们要进军他们的 counterfeit 生意；Dante Lupetto 听说 pack 显得弱——Vidar 在 Addie 与 Valentino 的包办婚被否后接手——于是动手抢 Addie。」他顿了顿，肘撑上膝。「整件事像一档八卦节目。一场精心 engineer 过的乱局，让每个大 pack 恐慌、开始互相咬喉咙。」

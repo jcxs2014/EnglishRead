@@ -17,7 +17,7 @@ modified: "2026-11-17"
 **中文理解**：那不是疼——那是彻底而荣耀的投降。——Gunnar 比她大、比她强；他甚至可能几乎和她一样聪明——不是学术上的，是策略上的。她的老公本身就是个主谋，而他在很多层面上都抓住了她。
 **关键词**：absolute, glorious surrender / almost as smart as me / Not intellectually, but strategically / caught me on so many levels
 **为什么这样写**：「投降」被他写成荣誉而非屈辱，这是她对这段关系定性最准确的一次。而「几乎和我一样聪明」是她全书最慷慨的一次让步——注意她仍保留「几乎」，那份傲慢是她的人物底色，也正因如此这句评价才有分量。
-**读者视角提示**：对照 ch16 她判他「不够聪明」——同一张嘴，四十多章之后给出的新评级；她的世界观是被事实一点点磨改的。
+**读者视角提示**：对照 ch16 她判他「不够聪明」——同一张嘴，三十二章之后给出的新评级；她的世界观是被事实一点点磨改的。
 
 > **原句 2:** "I knew with a possessive certainty that if I ran again—when I ran again—he would come for me. Because no matter how terrifying his strength was to the rest of the world, he belonged to me. And I belonged to him."
 **中文理解**：她带着占有般的笃定知道：如果她再跑——当她再跑时——他会来追。因为不管他的力量对旁人有多可怕，他属于她。而她属于他。

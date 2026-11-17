@@ -23,7 +23,7 @@ modified: "2026-11-17"
 **中文理解**：这家的男人们以为世界归他们管：以为力量长在肌肉的尺寸里、银行账户的余额里、靠武力占下的领地里。蠢货。男人握有的只是力气——真正持久的权力握在女人手里。
 **关键词**：thought they ran the world / muscles, bank accounts, territory / Fools. / women wielded true, lasting power
 **为什么这样写**：三连「they thought」搭起男性权力的展柜（肌肉 / 账户 / 领地），再由 Fools 一词独立成段完成裁决；strength 与 power 的近义词分野是本段论点：前者会老，后者会繁殖。她的性别政治与她的情报工作在同一句话里接通。
-**读者视角提示**：wielded（操持、挥舞）这个词留给女人——下一章你就会在 Mei Ling 的茶会日志里看到它如何兑现。
+**读者视角提示**：wielded（操持、挥舞）这个词留给女人——本章中段你就会在 Mei Ling 的茶会日志里看到它如何兑现。
 
 > **原句 3:** "I catalogued the true movers and shakers—the women who actually dictated their husbands' political votes over porcelain teacups. But more importantly, my sharp eyes mapped out the silence." … "The ostracized list." … "Mei Ling’s journal listed every influential matriarch in this territory and beyond, except for a few. A vicious thrill ran through my wolf's veins. That list of nobodies to avoid was the ultimate weapon."
 **中文理解**：她编目了真正的操盘者——那些隔着瓷茶杯就能支配丈夫政治投票的女人。但更要紧的是，她锐利的眼睛把「沉默」也绘成了地图：被排挤者名单。Mei Ling 的日记收录了本地内外每一位有影响力的女族长——只有几个例外。一股恶意的兴奋窜过她的狼血：那份「谁都不许理」的名单，才是终极武器。

@@ -40,7 +40,7 @@ modified: "2026-11-17"
 > **原句 5:** "“Now you have to promise me something in return,” I added, holding her unfocused gaze. “You don’t force me again."" … "Rosalind bit the inside of her jaw. That was the only concession she gave for giving me a claiming mark to get her way." … ""We don’t have sex again until both of us want it. Agreed?”" … "She hesitated for a long second before stepping toward the bed. I climbed in first, staying flush against the far side to give her room. Rosalind slid beneath the covers, her movements slow, guarded, and precise."
 **中文理解**：「那你也得答应我一件事，」他盯着她失焦的目光，「别再强迫我。」Rosalind 咬了咬内侧牙关——这是她为「用认领咬痕达到目的」给出的唯一让步。「下次，直到我们两个都想，才可以。说定了？」她迟疑了整整一秒才走向床。他先躺下，贴远侧给她留地方；她滑进被子，动作慢、戒备而精确。
 **关键词**：promise me something in return / You don’t force me again / until both of us want it / slow, guarded, and precise
-**为什么这样写**：他把认领咬痕的账当场清算——「别再强迫我」是对她上一章奇袭的正式回应，咬痕从战果变成债务。until both of us want it 把「同意」写成双边条约；她 hesitated a long second 的迟疑与 precise 的入床动作并排，答应的是条款、保留的是警惕。
+**为什么这样写**：他把认领咬痕的账当场清算——「别再强迫我」是对她在 ch06 那次奇袭的正式回应，咬痕从战果变成债务。until both of us want it 把「同意」写成双边条约；她 hesitated a long second 的迟疑与 precise 的入床动作并排，答应的是条款、保留的是警惕。
 **读者视角提示**：这是全书的 consent 基准线——此后每一次亲密推进都要回这条检验；她咬出的那个 mark 也从今晚起有了成本核算。
 
 > **原句 6:** "I listened to the steady rhythm of her breathing as her guard lowered into sleep. Looking at her relaxed face in the moonlight, I made a quiet vow to the shadows in the room. I would be her protector. I would stand between her and every threat in this world, and nothing would ever hurt her again." … "Starting with me."
