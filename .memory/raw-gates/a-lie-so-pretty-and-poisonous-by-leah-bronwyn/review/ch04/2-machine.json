@@ -1,0 +1,396 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/ch04 seraph forest and gabriel.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch04_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My eyes had sealed shut, refusing to open. The ringing in my ears screamed at me. My head throbbed at my temples, and my",
+          "ok": true,
+          "pos": 28
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I snapped my head toward Cora, eyes rounded. My breath caught, and she nodded slowly. This was not the same forest we tr",
+          "ok": true,
+          "pos": 2973
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Cora? What are you⁠",
+          "ok": true,
+          "pos": 5411
+        }
+      ],
+      "words": 4
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A branch snapped to our left, making us both jump and tense. Slowly, we turned together in the direction of the sound bu",
+          "ok": true,
+          "pos": 7653
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "A seraph. We crossed the barrier, and now I’m looking at a seraph",
+          "ok": true,
+          "pos": 9087
+        },
+        {
+          "text": "Razor-sharp teeth to rip out our throats? Wings",
+          "ok": true,
+          "pos": 9281
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“But now that you have brought a youngling into the forest and broken a treaty, you two will make for wonderful negotiat",
+          "ok": true,
+          "pos": 9795
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I pivoted, grabbed Cora into my arms, and ran. Adrenaline coursed through my veins as Cora clutched me tightly and let o",
+          "ok": true,
+          "pos": 10001
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He captured my wrist in his palm, cocking his head in a bird-like manner, staring inquisitively",
+          "ok": true,
+          "pos": 11238
+        },
+        {
+          "text": "His grip on me tightened, with piercing hunter-green eyes looking me up and down and landing on my rounded ears. He blin",
+          "ok": true,
+          "pos": 11388
+        },
+        {
+          "text": "You are not",
+          "ok": true,
+          "pos": 7996
+        },
+        {
+          "text": "What are you?”",
+          "ok": true,
+          "pos": 11533
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Please,” I begged. “Please don’t hurt her. Let her go, and you can take me",
+          "ok": true,
+          "pos": 11785
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The seraph opened his mouth to speak, but the sound of a thudding impact made him jolt. His wide eyes blinked before cas",
+          "ok": true,
+          "pos": 12874
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Please don’t hurt us,” I pleaded with him as I closed my eyes and braced myself for another attack",
+          "ok": true,
+          "pos": 14638
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.7
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter 4",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2714,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

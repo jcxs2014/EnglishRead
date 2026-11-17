@@ -1,0 +1,61 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch16",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "洛德·图洛克拒绝与罗莉会面，达拉便彻底绕开他，私下联系一位自己认识、当过卫队员工的农场员工，秘密安排会面谈Psilas。",
+   "anchor": "Lord Toolock refused me a meeting, so Darragh decided to circumvent him entirely and reached out to a staff member he knew who used to be in the guard.",
+   "start": 755,
+   "end": 906
+  },
+  {
+   "fact": "罗莉在农舍坐下，向老seraph弗拉博自我介绍来自伊甸纳利，向他打听在她之前来过墙这边的人类。",
+   "anchor": "I sat down in the rickety wooden chair. “It is nice to meet you, Frabo. I’m Rory, and I am from Edenalee. I was told you may have some information about another human who came here before me.”",
+   "start": 6284,
+   "end": 6476
+  },
+  {
+   "fact": "弗拉博已故的哥哥十六岁出头时在这座农场与普西拉斯共事，把与一个人类共事的故事讲给他听——这是弗拉博知情的来源。",
+   "anchor": "My deceased brother worked with Psilas on this farm when he was barely more than sixteen. He told me stories about working with a human.",
+   "start": 6670,
+   "end": 6806
+  },
+  {
+   "fact": "据弗拉博转述，普西拉斯始终不明白自己怎么落到提罗奈尔的森林里——当年是谜，如今仍是谜（罗莉第一条线索落空）。",
+   "anchor": "Psilas maintained he never understood how he ended up in a forest of Tironaill. It was a mystery to everyone back then, as it is now.",
+   "start": 6947,
+   "end": 7080
+  },
+  {
+   "fact": "弗拉博说，普西拉斯在醒到墙这边之前正在试配一种新蜂蜜酒配方；他后来在农场试图复原，却始终配不对原料。",
+   "anchor": "Oh, and my brother did say that Psilas was testing out a new mead recipe before waking up on this side of the wall. He tried to recreate it here but couldn’t get the ingredients right.",
+   "start": 7906,
+   "end": 8090
+  },
+  {
+   "fact": "罗莉猛然想起：导师格蕾塔在她和科拉穿越屏障前给她们喝过旅途用的抗焦虑酊剂——她怀疑这就是无害穿墙的原因，想凭草药学知识对照配方破译。",
+   "anchor": "“Greta, my mentor. She gave us tinctures to drink before we moved through the barrier and wound up here! I don’t know what was in them, but it was a tincture for anxiety during our travel.",
+   "start": 9451,
+   "end": 9639
+  },
+  {
+   "fact": "莱里克去找Psilas记配方的书扑空：厨房员工说约十年前一场厨房火灾（一名已故厨子煎猪肉时失手）烧掉了那本孤本。",
+   "anchor": "The book wasn’t in there, and one of the kitchen staff claims that Psilas’ book, along with some other recipe books, was lost during a kitchen fire about a decade ago.",
+   "start": 10131,
+   "end": 10298
+  },
+  {
+   "fact": "莱里克私下透露：格伦清晨打猎时看见两个男人走出迷雾，其中一人被另一个拖着走、被捆绑堵嘴、长着圆耳（人类）；地点在农场西北约两小时骑程、布里亚克利夫村附近。",
+   "anchor": "One terrified man was being dragged by the other, bound and gagged. He had rounded ears. About a two-hour ride northwest from the farm. Close to Briarscliffe Village.",
+   "start": 11648,
+   "end": 11814
+  },
+  {
+   "fact": "达拉为促成这次会面欠下莱里克一个人情；他解释在这边人情等同于货币，并拒绝让罗莉替他背人情。",
+   "anchor": "“He agreed to arrange the meeting after we didn’t get permission from Lord Toolock, if I would owe him a favor. Favors are as good as currency here.”",
+   "start": 15799,
+   "end": 15948
+  }
+ ]
+}

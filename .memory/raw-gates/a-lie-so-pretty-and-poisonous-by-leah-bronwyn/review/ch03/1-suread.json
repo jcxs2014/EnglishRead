@@ -1,0 +1,61 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch03",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "四年前Rory（叙述者，本名Aurora）带着当时六岁的女儿Cora、身无分文地冒雨投奔Olinbury村的药铺，店主Greta当场收留她们，说正招学徒便雇用了Rory，此后亲手教她制药手艺；Rory称Greta是她一直需要的母亲。",
+   "anchor": "When I arrived on the apothecary doorstep one rainy afternoon, drenched and defeated, with a weepy six-year-old and an empty coin purse, Greta immediately brought us in.",
+   "start": 649,
+   "end": 818
+  },
+  {
+   "fact": "Greta向Rory确认：Minsah的兄弟们已认出Terren带来的每一名手下，并通知Minsah把妇女们安置在最佳位置、安排接应者Alec把马车停在不惹怀疑又能快速进巷的地点，一小时内一切就绪。",
+   "anchor": "Indeed. They have notified Minsah of the best locations to station the women and where Alec should place his cart to get to the alley quickly without seeming suspicious. Everything should be in place within the hour.",
+   "start": 1985,
+   "end": 2201
+  },
+  {
+   "fact": "Rory如实告诉Cora：她外祖母已找到她们，动用王室人脉和无穷财富通过贵族法庭拿到了对Cora的监护权，并派人来要把母女带回Alwine庄园；Cora哭着恳求母亲别让她回到外祖母身边，Rory承诺带她逃走、只是暂时离村日后回来。",
+   "anchor": "Your grandmother has found us. She used her royal friendships and endless wealth to secure custody of you through the noble courts. She’s sent men to bring us back to Alwine Manor.",
+   "start": 4963,
+   "end": 5143
+  },
+  {
+   "fact": "Cora问Greta是否随她们一起逃走，Greta说Olinbury村民需要她留下照顾病伤者、不能同行，答应与母女互相写信、并在安全后尽快去看她们。",
+   "anchor": "Oh, I would love to, but I am afraid the people of Olinbury need me here. Who else will care for our sick or injured if not me? We will write to each other, and I will come see you as soon as we safely can.",
+   "start": 6237,
+   "end": 6443
+  },
+  {
+   "fact": "Greta咳嗽两声发出信号后，Rory牵着十岁的Cora打开药铺后门潜入黑暗小巷，摸向巷尾Alec备好的帆布顶大马车；母俩先钻进堆着木箱药罐的车厢，Alec轻敲车壁示意后马车启动、沿镇上主路驶出（按计划当夜到Gorstine、随后转往Brissil）。",
+   "anchor": "With my breath caught in my throat, I opened the back door, squeezed Cora’s hand tightly, and stepped into the dark alleyway behind the apothecary. We were two cloaked figures moving swiftly along the cobblestone toward the outline of a large wooden wagon with a canvas top.",
+   "start": 9050,
+   "end": 9324
+  },
+  {
+   "fact": "车行途中Alec转交Greta为母女特制的两小瓶浑浊镇定药水；Rory自己不爱喝药水，便借口「你喝另一瓶我更好下咽」哄Cora喝下一瓶、自己喝另一瓶；药水苦涩带佛手柑与没药味，喝后Rory肌肉放松、心跳平稳，亢奋的Cora也安静下来靠在她臂上。",
+   "anchor": "“Maybe we should both take it?” I offered cheerfully. “I don’t like tinctures, so maybe if you take the other one, it will be easier for me to take. What do you think?”",
+   "start": 12814,
+   "end": 12982
+  },
+  {
+   "fact": "临近屏障时Alec听到马蹄声，惊呼「Shit! Terren!」挥鞭驱马狂奔，但四名骑手从林中冲出追上马车，Terren在后面拖长音怪叫「Auroraaaa!」（暴露Rory本名Aurora），Cora吓得紧闭双眼呜咽。",
+   "anchor": "Four forms on horseback broke through the trees and onto the path behind our wagon. My heart thumped in rhythm with the sound of the pursuing horses.",
+   "start": 17164,
+   "end": 17313
+  },
+  {
+   "fact": "Rory在疾驰的马车上决定跳车引开追兵，命Alec解下马、带着Cora骑马逃走并把消息报给Greta；Cora尖叫着抱住她的腰阻拦，Rory留下遗言「I love you, sweet girl. I promise I will find you」。",
+   "anchor": "Alec, I’m going to jump and distract them,” I exclaimed as I met his eyes. “Unhook the horse from the wagon and jump on him with Cora so you can outrun them. Take her as far away as you can and then send word to Greta.",
+   "start": 17502,
+   "end": 17720
+  },
+  {
+   "fact": "马车失控、前轮撞上巨石侧翻，Rory和Cora被甩出车外；Rory把Cora搂进怀里准备坠地，撞击却未发生——一阵剧痛后森林与马车化作白灰色雾霭，她周身被挤压、耳边轰鸣着听不懂的语言，随后背部砸落地面翻滚、意识断绝，眼前一片黑暗（她们穿越了屏障）。",
+   "anchor": "The wagon careened out of control, and the front wheel lifted over a huge rock, violently tipping Alec’s side up and off the ground. A gasp was ripped from my throat as Cora and I were thrown sideways out of the wagon into a free fall.",
+   "start": 18451,
+   "end": 18686
+  }
+ ]
+}

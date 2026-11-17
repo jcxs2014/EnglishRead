@@ -1,0 +1,61 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch18",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "达拉解释遇袭经过：他循着声音找到那三个蠢货、当时只看见两个人，第三人从背后偷袭、用匕首柄击打他的头；他想动用法术却发现法术被压制——那人是「压制者」（subduer，能压制另一个炽天使的法术与神力），随后三人合力将他制服、绑在树上。",
+   "anchor": "a third was able to get the jump on me and hit me in the head with the end of a dagger. I went to use my enchants but found them suppressed.",
+   "start": 3355,
+   "end": 3495
+  },
+  {
+   "fact": "达拉告诉罗莉：她刺中那名炽天使大腿的一刀，破了对方压在达拉身上的法术——那人正是压制者，匕首的银质令他无法维持法术；达拉还夸她「刀法不错」。",
+   "anchor": "When you stabbed that seraph in the leg, it broke his enchant’s hold on me. He was the subduer, and the silver of the dagger rendered him unable to hold his enchant.",
+   "start": 4529,
+   "end": 4694
+  },
+  {
+   "fact": "银器规则：炽天使被银器束缚、割伤或刺中会失去或削弱法术，被银割伤只能按凡人速度愈合——所以达拉随身带银匕首；他同段补充：非卫队或军队者不得携带银器（平民会把银器当违禁品私带）。",
+   "anchor": "If a seraph is bound, cut, or stabbed in silver, they can lose or dampen their enchants. A cut with silver will make a seraph heal at the same rate as a human. That’s why I carry them.” He pointed to the daggers resting at his hips.",
+   "start": 4884,
+   "end": 5116
+  },
+  {
+   "fact": "情报：达拉被打晕前听到三人谈论「两天后有一批货到」，细节没听全，但提到城东的一座村庄；达拉表示要亲自去那座村查这批「货」，他在当地有个可以交谈的线人。",
+   "anchor": "Before I was blindsided, they were talking about a shipment coming in two days’ time. I couldn’t make out all the details, but they mentioned a village that is east of the city.",
+   "start": 5590,
+   "end": 5767
+  },
+  {
+   "fact": "罗莉担心那三人夜里找上门，达拉淡定回答不会——他已把三人「送进冥界」（the underworld）；罗莉震惊得说不出话，分不清他是不是在开玩笑。",
+   "anchor": "“The underworld,” he said nonchalantly and bit into his bread.",
+   "start": 6038,
+   "end": 6100
+  },
+  {
+   "fact": "罗莉坚持要同行去那座村：这是她的族人、事关她和科拉（Cora）；若「货」真是人类，对方只会信任人类而不会信任炽天使——达拉先以危险、谎言难圆为由拒绝，最终让步答应带她去（还提醒她别再像上次那样离开马）。",
+   "anchor": "Because these are my people. This impacts Cora and me. What if you find this supposed shipment, and it happens to be humans? Do you think they would trust you?",
+   "start": 7403,
+   "end": 7562
+  },
+  {
+   "fact": "达拉写字条托信鸟斯托拉斯（Stolas）火速送交奥斯曼中尉（Lieutenant Osman），统一口径：两人遇事但平安、次日早晨才回城；对外称达拉在核查一桩民兵威胁、罗莉生病劳累留在房间。次日清晨他又安排中尉以「发现民兵密函、Themis神柱今晨将遭袭击」为名清空庭院，两人走仆人通道回房。",
+   "anchor": "Darragh scribbled a few words on a torn piece of parchment, tightly rolled it, and tied it to the thin leather strap that wound around Stolas’ leg. “Take this to Lieutenant Osman. Quickly.”",
+   "start": 2173,
+   "end": 2362
+  },
+  {
+   "fact": "达拉透露：奥斯曼中尉与安雅（Anya）有一段严防死守的秘密恋情（一个是angheal、一个是daemonite，被别人发现两人都会被送去赎罪）；他让奥斯曼转告安雅当晚陪着科拉（Cora）、安抚她说妈妈平安。",
+   "anchor": "the lieutenant and Anya happen to have a well-guarded secret relationship going on, so I told him to tell her to stay with Cora tonight and keep her calm and reassured that you were well.",
+   "start": 8940,
+   "end": 9127
+  },
+  {
+   "fact": "回到房间科拉冲出门抱住罗莉——她没去上学、专为等妈妈回来（「安雅和那位好心的守卫说你没事，但我要亲眼确认」）；安雅昨晚陪科拉过了夜、两人打了牌，安雅还让她吃了一大堆巧克力；科拉吐槽妈妈弄脏了裙子、扬言下次她弄脏衣服时以此反击；罗莉对告辞离开的达拉说「明天见」。",
+   "anchor": "“Mom!” Cora opened the door before I even touched it and threw her arms around me.",
+   "start": 15342,
+   "end": 15424
+  }
+ ]
+}

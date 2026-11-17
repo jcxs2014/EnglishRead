@@ -1,0 +1,61 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch02",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "奥林伯里全城筹备丰收节（Festival of Reaping，敬收获神卢格）；连年歉收推高罪案与暴力、失踪频发——奥萝拉的父亲就是始终未寻获的失踪者之一。",
+   "anchor": "Olinbury was aflutter with activity, readying for the Festival of Reaping",
+   "start": 0,
+   "end": 73
+  },
+  {
+   "fact": "亚力克（Alec）其人：前任药材商维里斯（Veris）不再来村后约两周他才现身——传闻维里斯因私藏非法药材被王家卫队拘捕；亚力克自种自晒药草、来村里找生意伙伴，格蕾塔曾想撮合他和奥萝拉被拒。",
+   "anchor": "Alec arrived a couple of weeks after our previous herbal distributor, Veris, stopped coming to the village",
+   "start": 2505,
+   "end": 2611
+  },
+  {
+   "fact": "逃亡计划：当夜亚力克先赴戈斯汀村（Gorstine）购违禁植物，用货车把母女俩偷运出奥林伯里，再由他的接头人送往布里西尔（Brissil）——路程至少一周、地大人杂好藏身，还能弄到假名假履历的证件。",
+   "anchor": "he is supposed to meet a contact in that village and has agreed to sneak you and Cora out of Olinbury in his carriage of goods",
+   "start": 3281,
+   "end": 3407
+  },
+  {
+   "fact": "价码谈判：亚力克开价，格蕾塔以「向王家卫队告发他的非法营生」压价后成交——最终数目她不肯告诉奥萝拉。",
+   "anchor": "Money and negotiations talk, dear. These are still businessmen after all",
+   "start": 3788,
+   "end": 3860
+  },
+  {
+   "fact": "反盯梢：明莎（Minsah，受过格蕾塔一剂稀罕药剂救母之恩）的三个兄弟熟识全村人，已在店外游走排查——几小时内就能查出特伦的眼线是谁、蹲在何处、共几人。",
+   "anchor": "Minsah has enlisted her three brothers, who know everyone in this village and will be able to spot which men are strangers and are watching this place",
+   "start": 4831,
+   "end": 4981
+  },
+  {
+   "fact": "调虎离山：明莎和几名美貌姑娘负责拖住盯梢的男人；亚力克假意来送货，明莎的大哥一发信号，母女就出门上马车——村里人本就以耍弄外来阔佬为乐。",
+   "anchor": "Minsah is a beautiful young woman who is friends with several other beautiful young women. They agreed to distract these men long enough for you and Cora to load onto the cart",
+   "start": 5911,
+   "end": 6086
+  },
+  {
+   "fact": "最险一环：亚力克怕被王家卫队盘查、不能走林间正道，只能走与「屏障」平行的荒僻小径——奥萝拉失态质问格蕾塔「你疯了吗」；格蕾塔说人人绕着屏障走，特伦绝不敢追去。",
+   "anchor": "He takes one of the unkempt paths that runs parallel to the barrier",
+   "start": 7175,
+   "end": 7242
+  },
+  {
+   "fact": "世界观背景：约八百年前炽天使（seraphs，神明与人类所生的半神）奴役人类、人类血战反抗，神明遂把两族分开、各据一陆，中间立起不可逾越的屏障——闯者或惨死、或发疯、或人间蒸发。",
+   "anchor": "A dangerous barrier was erected between the two lands that could not be breached, and those who had tried died in agonizing suffering, went mad, or were never seen again",
+   "start": 8478,
+   "end": 8647
+  },
+  {
+   "fact": "出发时间敲定：就在当夜、节庆人潮最盛之时，借人群掩护脱身；格蕾塔随即出门通知众人「计划启动」。",
+   "anchor": "Tonight. During the peak of the festival. The crowds will make for good cover",
+   "start": 8863,
+   "end": 8940
+  }
+ ]
+}

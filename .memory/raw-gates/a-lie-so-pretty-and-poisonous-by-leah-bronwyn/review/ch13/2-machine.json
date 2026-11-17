@@ -1,0 +1,391 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/ch13 acrion library and psilas.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch13_chapter_13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A point. A tilt of the head. A nod. I thought I would be relieved to not have to speak with Darragh, but his commitment ",
+          "ok": true,
+          "pos": 0
+        },
+        {
+          "text": "Except that he wore impassivity like a tailored suit",
+          "ok": true,
+          "pos": 380
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“The human!” He blurted out. All eyes in the library lifted to me",
+          "ok": true,
+          "pos": 7238
+        },
+        {
+          "text": "“Yes, yes, please come with me. I am most excited to speak with you. I am Acrion.”",
+          "ok": true,
+          "pos": 7393
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The deep crease between Darragh’s eyebrows smoothed before pulling out a chair from the table, gesturing for me to sit. ",
+          "ok": true,
+          "pos": 9841
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“My lady,” Darragh said, turning to me, “you do not have to answer his questions if you are not comfortable.” He searche",
+          "ok": true,
+          "pos": 10990
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You,” Darragh pointed his finger at the scholar, “are to help her. She wants to know how to get back to Edenalee, and t",
+          "ok": true,
+          "pos": 11273
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Also,” Darragh said coolly as he leaned back in his chair, folding his arms, “do not mistake me for a youngling, old ma",
+          "ok": true,
+          "pos": 11546
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Literature states that he arrived, stumbling out of the forest, and couldn't even recall the last twelve hours of his da",
+          "ok": true,
+          "pos": 12558
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“His name was Psilas. Unless the noble family that employed him has any more recorded stories of him, I am sorry, but we",
+          "ok": true,
+          "pos": 13317
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Which noble family employed him?” Darragh asked",
+          "ok": true,
+          "pos": 13526
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I was wondering if we could go to the farm that Psilas worked at? I know he is long since dead, and it will probably lea",
+          "ok": true,
+          "pos": 17820
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Gabriel's warning about Darragh appeared unfounded",
+          "ok": true,
+          "pos": 20517
+        },
+        {
+          "text": "Baseless rumors about me were often whispered as a pastime at parties and exchanged between bored socialites whose husba",
+          "ok": true,
+          "pos": 20640
+        }
+      ],
+      "words": 39
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter 13",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3918,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

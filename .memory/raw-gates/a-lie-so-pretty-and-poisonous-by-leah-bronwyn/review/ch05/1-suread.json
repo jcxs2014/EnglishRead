@@ -1,0 +1,61 @@
+{
+ "book": "a-lie-so-pretty-and-poisonous-by-leah-bronwyn",
+ "chapter": "ch05",
+ "text": "notes/books/novels/a-lie-so-pretty-and-poisonous-by-leah-bronwyn/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Rory向Gabriel自报姓名Rory（Cora之母）；她说母女完全不明白怎么到了这一侧，她原以为穿过屏障就会死，并问他凭什么认出她们是人类。",
+   "anchor": "Thank you again. I’m Rory, and you’ve met Cora. We are completely confused about how we ended up here. I thought we would be dead if we crossed into the barrier.",
+   "start": 5799,
+   "end": 5960
+  },
+  {
+   "fact": "Gabriel以掌心发出的柔白光治愈Rory的手掌（皮肤愈合只剩一条细线），此前也用同样方式治好了她扭伤的脚踝；他称这种神赐之力为「enchants」，Cora凑近围观直呼「Whoa!」。",
+   "anchor": "Again, his hand softly glowed, and the burn on my palm subsided, the skin knitting together until there was nothing but a faint line where the wound was.",
+   "start": 4857,
+   "end": 5010
+  },
+  {
+   "fact": "Gabriel对她们如何穿越同样困惑，还反过来想问Rory是怎么穿过「threshing wall」的；他猜人类身份是靠耳型识破的（他一族耳梢尖细、Rory是圆耳）。",
+   "anchor": "Gabriel briefly paused and laughed. “Direct and right to the point! I like that. I was going to ask you how you were able to cross the threshing wall. I am as perplexed as you are about how this happened. As for knowing you are not seraphs, I suspect that had to do with your ears.”",
+   "start": 6049,
+   "end": 6331
+  },
+  {
+   "fact": "Rory问他是不是「angel」，Gabriel纠正为「angheal」，并介绍seraph分三支——angheal、daemonites、dryads；袭击母女的那个正是dryad。",
+   "anchor": "“Angheal,” he corrected. “There are three sects of seraphs: angheal, daemonites, and dryads.”",
+   "start": 8483,
+   "end": 8576
+  },
+  {
+   "fact": "Gabriel解释：dryad反复无常、性情暴力，极少离开森林，拥有操纵土、气、水、火的元素enchants（不能凭空造物、只能借用现成之物）；这些森林被列为禁地，未经许可擅入者会被其伺机伤害或捕获。",
+   "anchor": "“Dryads are unpredictable and violent.” He practically sneered. “They do not often leave the forests and have elemental enchants. They manipulate the earth, air, water, and even fire to their will. Dryads cannot conjure these things, though. It must already be present. That is what makes them so dangerous, especially in the woods.",
+   "start": 11623,
+   "end": 11955
+  },
+  {
+   "fact": "Gabriel记得Tironaill史上两百年前曾有一个人类进入过这个位面，但不记得他如何而来、下落如何；他自嘲当年忙着和女孩调情，把这一课漏了。",
+   "anchor": "If I remember my Tironaill history right, there was a human who had entered this realm once before. Two centuries ago. Though I don’t recall how he came to be here or even what became of that man.",
+   "start": 8760,
+   "end": 8956
+  },
+  {
+   "fact": "Rory提出用随身的一袋银币支付食宿，Gabriel说不必——母女将以王宾身份住进城堡；他并透露自己是国王Torrish的弟弟，一行人应天黑前抵达，先与他的侦察小队会合进食，再前往Tironaill的堡垒Aquila城。",
+   "anchor": "“Oh, nonsense! You are to be guests of the crown and stay at the castle with all the amenities you will need,” Gabriel responded, holding some brush back for Cora and me to pass. “Did I mention that I am the brother of King Torrish?”",
+   "start": 9436,
+   "end": 9669
+  },
+  {
+   "fact": "Gabriel介绍enchants体系：几乎人人能为自己和他人治疗；多数人会护盾抵挡他人的enchants，但护盾强弱因人而异、可被击破；治疗与护盾之外每人至少还有一种个人enchants（分作用于身体的「主动」与作用于精神的「被动」），个人能力属隐私——他本人就有两种。",
+   "anchor": "Almost everyone has healing abilities for themselves and others. Most can shield to protect against other enchants being used on them, but the power and ability of that enchant differ with everyone, and as such, shields can be broken.",
+   "start": 12697,
+   "end": 12931
+  },
+  {
+   "fact": "Rory心想命运女神Clotha真会编排：离开药铺前她曾祈祷Clotha织出一条不让她们落回母亲掌心的路，如今应验；但她也意识到自己刚逃出一个贵族体系，转头又要仰另一个（seraph王权）的鼻息。",
+   "anchor": "I silently giggled to myself at how Clotha must’ve been in a creative mood with how she was weaving this path that lay before me. Prior to leaving the apothecary, I prayed for her to weave a path so that we wouldn’t end up at the mercy of my mother.",
+   "start": 13642,
+   "end": 13891
+  }
+ ]
+}
