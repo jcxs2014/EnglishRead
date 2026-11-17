@@ -1,0 +1,457 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch05 the calming shawl ritual.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch05_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "An hour had passed since Twobble and Skonk left to handle the bramblemule, and Nova, Keegan, and I had spent all of it s",
+          "ok": true,
+          "pos": 13
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But I was pretty sure my nerves had nothing to do with the two cups of coffee. The only thing that helped was the wand t",
+          "ok": true,
+          "pos": 831
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Unfortunately, once the process has started, the energy will be drained either until it finds a new source to graze from",
+          "ok": true,
+          "pos": 1519
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Better.” She lifted the bundle tucked beneath her arm and unfolded a beautiful pink knitted shawl that hung nearly to he",
+          "ok": true,
+          "pos": 2546
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I brought a calming shawl.” She grinned and held it up",
+          "ok": true,
+          "pos": 2999
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But things have taken a turn. The bramblemule is Rendel’s target. It’s how he’s breaking the spell,” Nova explained",
+          "ok": true,
+          "pos": 3382
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "We don’t know what we’re dealing with when he wakes either,” Keegan said, looking at his brother. “Caleb is over in Shad",
+          "ok": true,
+          "pos": 3976
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Luna carried the shawl over to the cage and spread it across the table. “It won’t keep him asleep, but it should soften ",
+          "ok": true,
+          "pos": 4247
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Nova poured three drops of the tincture into her palm and whispered something I couldn’t hear, which was probably for th",
+          "ok": true,
+          "pos": 5361
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The shawl stirred, but there wasn’t a breeze, and a chill ran over me. Luna caught the corner so it didn’t fall from the",
+          "ok": true,
+          "pos": 5710
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Silver light threaded through black shadow until I couldn’t tell where one ended and the other began. Suddenly the air s",
+          "ok": true,
+          "pos": 6939
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "But then I felt it, the pull. My breath caught as the sensation came from somewhere deep inside me, not painful, but str",
+          "ok": true,
+          "pos": 9971
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "The bramblemule had made it to the edge of the Wilds. It was too close",
+          "ok": true,
+          "pos": 10867
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "The shawl collapsed, and the silver strands snapped back into the yarn at once. The shadows rushed beneath the cage as N",
+          "ok": true,
+          "pos": 11708
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.29,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2162,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

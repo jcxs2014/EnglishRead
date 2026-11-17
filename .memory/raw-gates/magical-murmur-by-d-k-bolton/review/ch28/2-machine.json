@@ -1,0 +1,490 @@
+{
+  "chapter": 28,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch28 the protected foundations and because they made it out.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch28_chapter_twenty_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I think it’s possible.” Another tremor rolled beneath our feet, and the shadows scattered across the rooftops so quickl",
+          "ok": true,
+          "pos": 785
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The figure disappeared, but the silver ribbon around my wrist tightened, and Sinora’s voice slipped into my thoughts",
+          "ok": true,
+          "pos": 1324
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A shadow swept down from the roof beside Tamiah’s bakery, curling around the chimney before sliding toward the windows. ",
+          "ok": true,
+          "pos": 1873
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I think Shadowick had protections long before the Priestess came here, and some of them might still be working",
+          "ok": true,
+          "pos": 4859
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I recognize the magic. Those protections were placed throughout Shadowick long before the Academy was built. They were ",
+          "ok": true,
+          "pos": 5729
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I watched him go, feeling a small measure of relief. Tamiah had somehow turned one disbeliever into someone filled with ",
+          "ok": true,
+          "pos": 7607
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I’m serious. The villagers need someone who understands the old boundaries, and you’re the only person here who seems to",
+          "ok": true,
+          "pos": 8560
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "We stepped inside, and as foolish as it sounded, I was a bit disappointed. It wasn’t like I thought Gideon would just wa",
+          "ok": true,
+          "pos": 10184
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I think it’s trying to keep something contained,” I told him, and he nodded as I placed my hand on the banister. The wo",
+          "ok": true,
+          "pos": 11156
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "A vision revealed itself: the standing stones appeared beneath my hand, followed by the oldest buildings surrounding Sha",
+          "ok": true,
+          "pos": 12054
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Don’t come any closer,” Gideon warned. “It’s a trap",
+          "ok": true,
+          "pos": 13479
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "He bent down, picked up a tiny pebble, and pointed at the floor separating us",
+          "ok": true,
+          "pos": 13740
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“I don’t think it was just the voice. It was like something grabbed hold of me and wouldn’t let go until I did what it w",
+          "ok": true,
+          "pos": 14290
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“But I do know that someone was here before me,” Gideon said",
+          "ok": true,
+          "pos": 14454
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "“Because they made it out.”",
+          "ok": true,
+          "pos": 14682
+        }
+      ],
+      "words": 5
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 29,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 105,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 7,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "28. Chapter Twenty-Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2540,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句2",
+        "kw": "The shadows aren’t the only things trying to escape",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

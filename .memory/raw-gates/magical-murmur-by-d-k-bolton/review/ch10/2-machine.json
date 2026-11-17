@@ -1,0 +1,489 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch10 silver wolf yurt and the network.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch10_chapter_ten.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It felt as if the Wilds stilled around us, but I knew that wasn’t the case. The look in the Silver Wolf’s eyes was hard ",
+          "ok": true,
+          "pos": 12
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It wasn’t that I didn’t trust Keegan’s mom, but we generally led very separate lives, and it was hard to discuss much wi",
+          "ok": true,
+          "pos": 898
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Her brows lifted. “And why is that",
+          "ok": true,
+          "pos": 2869
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Rendel always loved Keegan. He just didn’t know how to show it very well. It’s a shame.” She stood and paced. “But I kne",
+          "ok": true,
+          "pos": 3430
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Luna",
+          "ok": true,
+          "pos": 3946
+        }
+      ],
+      "words": 1
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But now her cousin helps us.” I nodded, understanding where she was coming from, but Luna had done it for the good of St",
+          "ok": true,
+          "pos": 4314
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "All of it. The shadows, the citizens, Rendel, Gideon",
+          "ok": true,
+          "pos": 4995
+        },
+        {
+          "text": "” She sat back down. “Shadowick has brought trouble to these Wilds for longer than you understand",
+          "ok": true,
+          "pos": 5049
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The village is trying to rebuild,” I offered. “Shadowick is regrouping",
+          "ok": true,
+          "pos": 5794
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Perhaps.” Her tone made the word feel very small, and I didn’t like it. “But they were under her control for so long the",
+          "ok": true,
+          "pos": 6293
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Those are dangerous words, Silver Wolf,” I said, meeting her gaze. “I can’t tell if you’re trying to unite us or divide ",
+          "ok": true,
+          "pos": 7957
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "You trust him.” She took a sip and stared at me over her cup. “You trust easily",
+          "ok": true,
+          "pos": 8582
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I would have preferred it to stay dormant",
+          "ok": true,
+          "pos": 9085
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I want nothing from Shadowick.” She shook her head. “It can never right the wrongs it has done",
+          "ok": true,
+          "pos": 11106
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "I leaned back and watched her rinse the cups in the sink. I knew she had more to say, but she was holding back. In fact,",
+          "ok": true,
+          "pos": 11353
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "What does that mean",
+          "ok": true,
+          "pos": 12026
+        }
+      ],
+      "words": 4
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 137,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 119,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 121,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 187,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 152,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 141,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2236,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

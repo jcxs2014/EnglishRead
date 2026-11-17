@@ -90,7 +90,7 @@ modified: "2026-11-16"
 **读者视角提示**：读者拿到阅读本卷的总钥匙：任何两条线索都默认相关——巧合不存在。
 
 > **原句 12:** "“Their indecision is leading to this unrest. We have to pick someone to run Shadowick Academy.”"
-**中文理解**：「他们的 indecision 正在酿成这场动荡。我们必须选出一个人来主持 Shadowick Academy。」
+**中文理解**：「他们的优柔寡断正在酿成这场动荡。我们必须选出一个人来主持 Shadowick Academy。」
 **关键词**：Their indecision is leading to this unrest / pick someone to run
 **为什么这样写**：政治处方开出——真空是动荡之源，选校长是止血药；她把魔法危机翻译成治理危机。
 **读者视角提示**：读者拿到本卷的政治议程：选校长不再是悬念题，是急务——而候选名单比想象复杂。

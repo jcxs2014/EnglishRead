@@ -1,0 +1,484 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch12 the mark duplicated and darkness coming.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch12_chapter_twelve.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My pulse soared as I knelt and dug through the dirt until I’d cleared enough to grip the handle. I lifted the door, and ",
+          "ok": true,
+          "pos": 15
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Maeve?” a female voice called",
+          "ok": true,
+          "pos": 479
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "What happened?” I asked. “Everything is gone",
+          "ok": true,
+          "pos": 928
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Do you remember how it happened?” I asked",
+          "ok": true,
+          "pos": 1346
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Do you remember anything else out of the ordinary",
+          "ok": true,
+          "pos": 3319
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Not that we saw.” Miora shook her head, and Grandma Elira nodded",
+          "ok": true,
+          "pos": 4147
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Have you ever seen this here before?” I asked, looking at those with more history here than me",
+          "ok": true,
+          "pos": 4858
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "You’re going in there, aren’t you?” Karvey frowned at me",
+          "ok": true,
+          "pos": 6219
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Maybe it ran beneath the Ward to the other Wards, or maybe it connected to the goblin tunnels",
+          "ok": true,
+          "pos": 6686
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Karvey walked over and stood beside me as I reached for the pedestal",
+          "ok": true,
+          "pos": 7670
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It’s an ancient mark, Maeve,” Miora said. “It has qualities unlike other marks",
+          "ok": true,
+          "pos": 8528
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I don’t know what you mean. It left my skin. It moved to my daughter. Not that I’d wanted it to, not by any means. But I",
+          "ok": true,
+          "pos": 8970
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Everything about life has a purpose, and we must think about intention. You were marked with intention, and so was my gr",
+          "ok": true,
+          "pos": 9645
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "I leaned closer to the mirror as the shadow mark on my shoulder continued to glow softly. Clouds gathered over Shadowick",
+          "ok": true,
+          "pos": 10696
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "The Academies stood high and mighty as chaos broke out below, and just then, deep in a place that had awakened with me, ",
+          "ok": true,
+          "pos": 11119
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 142,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 136,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 143,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 150,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 124,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2058,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

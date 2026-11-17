@@ -1,0 +1,489 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch08 the silver dragon and hedge witch.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch08_chapter_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The Academy doors opened before I even reached them. It had been waiting for me, which under normal circumstances might ",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "People want answers. Some want the Academy fully opened. Others think it should remain as it is. There are people who be",
+          "ok": true,
+          "pos": 3219
+        },
+        {
+          "text": "And some would like to see it burn to the ground",
+          "ok": true,
+          "pos": 3549
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But he’s not making much sense and holding things back, or he’s just not fully with it yet. And he’s naked",
+          "ok": true,
+          "pos": 4092
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Bella said Caleb is staying at Shadowick for now. He wants to keep an eye on things before disagreements become somethin",
+          "ok": true,
+          "pos": 4502
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "By the time I reached the passage leading to my room and farther down, the dragons’ den, I knew that everything I’d been",
+          "ok": true,
+          "pos": 5347
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "A bit of smoke and something ancient filled the air as I walked into the den. Several dragons were sleeping along the fa",
+          "ok": true,
+          "pos": 6663
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Her gaze leveled with mine, and her words moved through my mind. “Perhaps you’re looking for an answer before Shadowick ",
+          "ok": true,
+          "pos": 6979
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "But the Academy needs someone",
+          "ok": true,
+          "pos": 7577
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "What about Shadowick",
+          "ok": true,
+          "pos": 7913
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Her eyes returned to mine. “I know that many have spent a long time dictating what Shadowick should say rather than what",
+          "ok": true,
+          "pos": 8379
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Shadowick is ringing its bells. Stonewick answers. Caleb is worried about unrest over there, Rendel is awake, and before",
+          "ok": true,
+          "pos": 8894
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Yes, we were running from the shadows and him.” I nodded, picturing him everywhere we’d turned",
+          "ok": true,
+          "pos": 9419
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "And I understand why an assumption was made that wherever Rendel was, trouble followed",
+          "ok": true,
+          "pos": 10021
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "That should not have been possible",
+          "ok": true,
+          "pos": 10730
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "But I carried that mark. Was I supposed to carry the burden of Shadowick like my grandmother, and I chose wrong?” I pace",
+          "ok": true,
+          "pos": 11054
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 144,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 134,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2061,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

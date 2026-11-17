@@ -1,0 +1,484 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/ch34 shadowick marches and the stars turn black.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/magical-murmur-by-d-k-bolton/text/ch34_chapter_thirty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“They came.” I looked at him. “And I thought it would be us helping them.”",
+          "ok": true,
+          "pos": 1028
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Fine,” Twobble said. “We’ll manage things here. But if anyone asks, I objected. I don’t like you walking into immediate",
+          "ok": true,
+          "pos": 4438
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Stonewick Academy’s bell rang into the night, and a few seconds later, Shadowick’s returned",
+          "ok": true,
+          "pos": 6399
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Orcs",
+          "ok": true,
+          "pos": 9079
+        }
+      ],
+      "words": 1
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Tamiah looked up just as a shadow swooped toward her, and she raised her wand",
+          "ok": true,
+          "pos": 7794
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Whatever was sending these shadows wasn’t simply attacking from above",
+          "ok": true,
+          "pos": 11180
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“You came to Shadowick when we needed you. Did you honestly think we’d sit around waiting for someone else to save Stone",
+          "ok": true,
+          "pos": 12784
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And I realized it had nothing to do with the shawl and everything to do with Luna",
+          "ok": true,
+          "pos": 14038
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Before I knew it, dozens of people were casting together",
+          "ok": true,
+          "pos": 14312
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "And for one wonderful moment, the shadow mark stopped pulling against it",
+          "ok": true,
+          "pos": 15047
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Come on, Stonewick,” I whispered. “Let’s show them what happens when we work together.”",
+          "ok": true,
+          "pos": 15185
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "For several seconds, the entire sky shimmered with magic rather than shadows",
+          "ok": true,
+          "pos": 15647
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“No. We did it.”",
+          "ok": true,
+          "pos": 16085
+        }
+      ],
+      "words": 4
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "One person deciding to help another",
+          "ok": true,
+          "pos": 16834
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "But then the stars turned black",
+          "ok": true,
+          "pos": 17045
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 9,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter Thirty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2946,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
