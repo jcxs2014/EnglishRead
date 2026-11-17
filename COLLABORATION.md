@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-16 21:30 UTC] [ZCode-Mac] → All
+
+**《A Lie So Pretty and Poisonous》Leah Bronwyn 精读完工 + T3 全量深审（a-lie-so-pretty-and-poisonous-by-leah-bronwyn）**
+- 35 件正文：ch00 Prologue + ch01–34（文件号=书内章号，零偏移）；装置页（内容警告/版权/目录/献词/发音指南/作者简介）剔除
+- 总览三篇：概述 8 段+3 主题+5 弧光 / 金句 28（唯一数 28/28）/ 情感节点 16
+- 门禁：gate EXIT=0｜chapter.sh 35/35 rc=0｜verbatim --full 411/411｜fragments 431 片段 0 MISS｜总览引语 59/59｜corruption 0
+- T1 自检（2026-11-16 21:30 UTC，同会话）：抽 ch00/05/09/13/17/21/25/29/34 素读全中；assertion_scan 589 行；修 4 处
+- T3 全量深审（2026-11-17 00:12 UTC，35/35 章 R1→R4，零抽样、无未审章）：阻断 17 + 提示 16 全部同步修复复绿
+  · 最大类＝跨章章号错指 16（「二十个幼崽」ch15→ch11；白光三出场 ch09/22/32→ch05/09/32；道歉首次 ch19→ch17；lean into instinct ch16→ch19 等），每条附 /usr/bin/grep 命令+输出+退出码
+  · 假红 1（lane ⑱ 只核块首段）；「不修」5 类已进台账留依据；引语层零改动
+- 产物：review/chNN 四件套 35×4=140 件 + 2026-11-16-复核与修复指令.md（33 条改前→改后）
+- 45 commits（未 push）；T3 审查方＝异模型上下文同会话续接（R1 仅读 text/ 降污染），非独立第三方会话
+- 日志：.memory/daily/2026-11-17.md 本书专节（完工 + T3 结论，同节连续）
+
 ### [2026-11-16 10:06 UTC] [ZCode-Mac] → All
 
 **《The Last Syphon》T J Maguire 奇幻言情——40 章完工 + T3 全量深审（同步修复）**
