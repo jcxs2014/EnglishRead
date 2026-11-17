@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch33",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "Lacey 承认隐瞒伤情——「全说了你会……」",
+   "anchor": "I just knew if I told you the whole thing, that—",
+   "start": 873,
+   "end": 921
+  },
+  {
+   "fact": "Alex 反讽爆发：你以为我在做 spa？副手 rampage 袭击州警雇员。",
+   "anchor": "just at a spa, getting a massage?",
+   "start": 1113,
+   "end": 1146
+  },
+  {
+   "fact": "最后通牒：你现在就被撤职——不再回来。",
+   "anchor": "You are relieved of your post. And you will not be coming back.",
+   "start": 2074,
+   "end": 2137
+  },
+  {
+   "fact": "「做对的事，还是做容易的事——这是我们选的这行。」",
+   "anchor": "You do what’s right, or you do what’s easy.",
+   "start": 2361,
+   "end": 2404
+  },
+  {
+   "fact": "Alex 自评：千钧一发——头裂开、胃空恶心。",
+   "anchor": "Alex was hanging by a thread, her head splitting",
+   "start": 2774,
+   "end": 2822
+  },
+  {
+   "fact": "DREC 达成目的：Kevin 被剥夺办案能力——信息已坚决送达。",
+   "anchor": "The desired outcome had been achieved by DREC. And the message had been firmly sent.",
+   "start": 2687,
+   "end": 2771
+  },
+  {
+   "fact": "章末：他们找到 April 了。",
+   "anchor": "They’ve found her.",
+   "start": 3763,
+   "end": 3781
+  }
+ ]
+}
