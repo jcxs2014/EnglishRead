@@ -27,7 +27,7 @@ modified: "2026-11-17"
 > We are finally here, I said. We have arrived at the end of our journey."
 
 **中文理解**：下车前的例行检查（他照二十年前同款问话：「有没有落下东西？」），她的回答变成三连清账：「我把青春留下了，把所有金色的承诺留下了，把一串不健康的恋情留下了——但现在，我从那一切里自由了。」「我们终于到了，」我说，「我们抵达了旅程的终点。」
-**关键词**：just like I used to ask her twenty years ago、I have left my youth behind、all of my golden promise behind、a string of unhealthy relationships behind、the end of our journey
+**关键词**：just like I used to ask her twenty years ago、I have left my youth behind、all of my golden promise behind、the end of our journey
 **为什么这样写**：行李检查变成人生盘点——三样「落下」的东西全都不是物件（青春/承诺/恋情），铁架上的行李反而轻了；「just like twenty years ago」让旧仪式成为新自由的计量基准；「旅程的终点」由他说出，由她的自由兑现。
 **读者视角提示**：与 ch01 的「second chance」之问对读：全书从「有没有第二次机会」走到「自由了」——答案在路上。记住 golden promise：它正是 Hard Grind 之前的那个书名。
 
