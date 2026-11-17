@@ -14,7 +14,7 @@ modified: "2026-11-17"
 
 ## 精读
 
-> **原句 1:** "Well, I was in Washington, DC, recently for work, and I was at the National Gallery of Art, and as is my habit I went to visit the Vermeers. They have Woman Holding a Balance and Girl with the Red Hat, but they also have a painting I have become obsessed with – it's called Girl with a Flute, and it's no longer listed as a Vermeer but rather it's now categorised as being by a 'studio associate' of Vermeer which is odd because he is not known to have worked with any studio associates … Other experts consider it to be a real Vermeer."
+> **原句 1:** "Well, I was in Washington, DC, recently for work, and I was at the National Gallery of Art … They have Woman Holding a Balance and Girl with the Red Hat, but they also have a painting I have become obsessed with – it's called Girl with a Flute, and it's no longer listed as a Vermeer but rather it's now categorised as being by a 'studio associate' of Vermeer which is odd because he is not known to have worked with any studio associates … Other experts consider it to be a real Vermeer."
 
 **中文理解**：Chip 的执念之作：华盛顿国家美术馆的维米尔专程朝圣——《持天平的女人》《戴红帽的女孩》之外，是让他入迷的《持笛女孩》：它已被除名出维米尔名下、改归「画坊同僚」——可怪就怪在：维米尔从来就没有画坊同僚的记录。……也有专家认定它是真迹。「你还记得它吗？」
 **关键词**：the National Gallery of Art、Girl with a Flute、no longer listed as a Vermeer、a ‘studio associate’ of Vermeer、Other experts consider it
