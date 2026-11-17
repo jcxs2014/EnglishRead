@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "7 点闹钟把她拽回——过去两周前一案养成的闹钟。",
+   "anchor": "seeing that her 7 a.m. alarm—the one she’d been abiding by the last two weeks",
+   "start": 1063,
+   "end": 1140
+  },
+  {
+   "fact": "失忆恐慌：怎么回房毫无记忆——开车了？警长送的？",
+   "anchor": "She had no recollection of it.",
+   "start": 1610,
+   "end": 1640
+  },
+  {
+   "fact": "镜前惨状：坟里爬出来的样子——淤青从发际线蔓到眼角、白疤凸显。",
+   "anchor": "she looked like she’d crawled out of a crypt",
+   "start": 2412,
+   "end": 2456
+  },
+  {
+   "fact": "肋骨至少裂了一根——讽刺的是肋骨痛分散了头痛。",
+   "anchor": "She knew that at least one had to be cracked.",
+   "start": 3237,
+   "end": 3282
+  },
+  {
+   "fact": "淋浴念头引发恶心——改水槽浴。",
+   "anchor": "the thought of water clattering down onto her head enough to uncork the nausea",
+   "start": 3703,
+   "end": 3781
+  },
+  {
+   "fact": "药物纪律：讨厌任何让她迟钝/浑浊/脆弱的东西——ibuprofen 是底线；倒几粒只吞一粒其余塞后袋。",
+   "anchor": "anything that dulled her senses, anything that made her slow, that clouded her thinking, that made her vulnerable.",
+   "start": 5074,
+   "end": 5188
+  },
+  {
+   "fact": "无未接来电——April 搜索无果。",
+   "anchor": "No missed calls or texts.",
+   "start": 6030,
+   "end": 6055
+  },
+  {
+   "fact": "门楔没放、链条没扣——违反 cardinal rules；「整本规则都飞出窗外」。",
+   "anchor": "It seemed like the whole fucking book had gone out the window.",
+   "start": 7226,
+   "end": 7288
+  },
+  {
+   "fact": "卡车就停在门口——她自己开回来的；ibuprofen 完全没用。",
+   "anchor": "Staring back at her was her own truck, parked right in front of her door.",
+   "start": 7291,
+   "end": 7364
+  }
+ ]
+}
