@@ -14,14 +14,14 @@ modified: "2026-11-17"
 
 ## 精读
 
-> **原句 1:** "Caravaggio and his rival Tomassoni met in an indoor tennis court. Experts disagree as to what happened next – either there was a tennis match between the two of them that descended into a brawl, or else there was a prearranged duel that took place there. Both men were wounded, but Caravaggio's blow with his sword resulted in the death of his opponent. Caravaggio had to flee the city"
+> **原句 1:** "Caravaggio and his rival Tomassoni met in an indoor tennis court. Experts disagree as to what happened next – either there was a tennis match between the two of them that descended into a brawl, or else there was a prearranged duel that took place there. Both men were wounded, but Caravaggio’s blow with his sword resulted in the death of his opponent. Caravaggio had to flee the city"
 
 **中文理解**：Chip 的罗马悬案：1606 年，卡拉瓦乔与死对头托马索尼在室内网球场相遇。专家对后续各执一词——要么是场网球赛打成了斗殴，要么是预先约好的决斗。两人都负了伤，但卡拉瓦乔的一剑要了对手的命——他不得不逃离罗马。
 **关键词**：an indoor tennis court、Experts disagree、descended into a brawl、a prearranged duel、Caravaggio had to flee the city
 **为什么这样写**：艺术史最著名的凶案被讲成赛程争议——「match or duel」的二元悬置正是本书的方法论（历史允许两个版本并存）；网球场与叙述者的每周球局对位：杀戮就发生在他的日常场地上。
 **读者视角提示**：与 ch19 的 Martin 打书评人并读——本书的暴力总在文人场域发生。记住 Via di Pallacorda：Chip 的「朝圣」是去凶案现场。
 
-> **原句 2:** "Because the rock was so highly esteemed by painters such as Vermeer; when ground down, it could be turned into the brilliant ultramarine so beloved by painters during the Renaissance and Baroque eras – it was worth more than gold. You'll have a chance to study his use of ultramarine this week when you go to the Louvre. Both The Lacemaker and The Astronomer are to be found in the Dutch section which is nowhere near as crowded as the Italian section"
+> **原句 2:** "Because the rock was so highly esteemed by painters such as Vermeer; when ground down, it could be turned into the brilliant ultramarine so beloved by painters during the Renaissance and Baroque eras – it was worth more than gold. You’ll have a chance to study his use of ultramarine this week when you go to the Louvre. Both The Lacemaker and The Astronomer are to be found in the Dutch section which is nowhere near as crowded as the Italian section"
 
 **中文理解**：他新购的青金石：「这种石头在维米尔这样的画家那里地位崇高——研磨之后，就变成文艺复兴与巴洛克画家至爱的璀璨群青——贵过黄金。本周去卢浮宫你可以研究他的群青用法：《蕾丝工匠》与《天文学家》都在荷兰厅——那里远不如意大利厅拥挤。」
 **关键词**：so highly esteemed by painters such as Vermeer、the brilliant ultramarine、worth more than gold、The Lacemaker and The Astronomer、nowhere near as crowded as the Italian section
@@ -55,10 +55,10 @@ modified: "2026-11-17"
 **为什么这样写**：大师的死亡被折算成面包债——三幅今天天价的画，当年只够清一次烘焙账；「just to be able to survive」的定语把潦倒写成制度性的。艺术史的通货膨胀在死后才开始营业。
 **读者视角提示**：与 ch19 的 2.5 盾买《戴珍珠耳环的少女》对读——生前的债主与死后的藏家是同一座城市。记住「面包师」：本书最贵的三幅画曾被拿去换面包。
 
-> **原句 6:** "Seventeenth-century Dutch explorers mapped parts of Australia, in particular the western and northern parts, which they named Hollandia Nova, the area which is now Western Australia and the Northern Territory. They also explored the far south-eastern corner of the country, the area now called Tasmania, which they named Van Diemen's Land after Anthoni van Diemen, the governor-general of the Dutch East Indies. There is a marvellous map of Hollandia Nova that was created in 1644, and a wonderful map of the whole of the known world was made in Holland by Johannes Blaeu in 1664"
+> **原句 6:** "Seventeenth-century Dutch explorers mapped parts of Australia, in particular the western and northern parts, which they named Hollandia Nova, the area which is now Western Australia and the Northern Territory. They also explored the far south-eastern corner of the country, the area now called Tasmania, which they named Van Diemen’s Land after Anthoni van Diemen, the governor-general of the Dutch East Indies. There is a marvellous map of Hollandia Nova that was created in 1644, and a wonderful map of the whole of the known world was made in Holland by Johannes Blaeu in 1664"
 
 **中文理解**：荷兰与澳洲的连线：十七世纪荷兰探险家绘制了澳洲西部与北部海岸——命名 Hollandia Nova（新荷兰，今西澳与北领地）；又探到东南角——塔斯马尼亚被命名为 Van Diemen's Land，纪念荷属东印度总督 Anthoni van Diemen。1644 年有一幅绝妙的「新荷兰」地图；1664 年布劳在荷兰绘制了已知全世界的精彩地图。
-**关键词**：Seventeenth-century Dutch explorers mapped parts of Australia、Hollandia Nova、Van Diemen's Land after Anthoni van Diemen、a marvellous map of Hollandia Nova、Johannes Blaeu in 1664
+**关键词**：Seventeenth-century Dutch explorers mapped parts of Australia、Hollandia Nova、Van Diemen’s Land after Anthoni van Diemen、a marvellous map of Hollandia Nova、Johannes Blaeu in 1664
 **为什么这样写**：两张地图把对话双方的家史钉进同一面墙——荷兰人的命名权延伸到南半球；「the area now called」的括注提醒：地图上的名字都是暂住的。1644/1664 两个年份接住 ch28 的 1642 双星。
 **读者视角提示**：与 ch28 的 Abel Tasman 连读——塔斯马尼亚在本书出现了三次，每次都在靠近。记住 Blaeu 的地图：它是「Everything is interconnected」的实物版本。
 
