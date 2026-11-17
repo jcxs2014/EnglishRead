@@ -1,0 +1,67 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "Dunning：主街五百码的商店酒吧餐馆，富人宅邸在高地俯瞰全镇。",
+   "anchor": "The rich staring down over everyone else.",
+   "start": 568,
+   "end": 609
+  },
+  {
+   "fact": "山上新建豪宅：圣诞新自行车侧倒在草坪、足球覆着霜——家庭生活的痕迹。",
+   "anchor": "a bike, new for Christmas, maybe, left on its side",
+   "start": 2081,
+   "end": 2131
+  },
+  {
+   "fact": "门口停了六辆车——「他们全在这儿」。",
+   "anchor": "SUVs, coupes. Six in total.",
+   "start": 2272,
+   "end": 2299
+  },
+  {
+   "fact": "走廊墙上是一家四口照片——但这不是水槽里的女人；这是 April Gallagher 的家。",
+   "anchor": "a tall handsome husband; a beautiful dark-haired wife; two kids—son and daughter",
+   "start": 3076,
+   "end": 3156
+  },
+  {
+   "fact": "Grant Walker（至少六英尺三）挡住走廊威逼 Alex。",
+   "anchor": "Tell me what the fuck’s going on. Right now.",
+   "start": 4441,
+   "end": 4485
+  },
+  {
+   "fact": "Lacey 承认泄密：她对 Grant 说「有个杀手在逃」。",
+   "anchor": "I had to tell him something",
+   "start": 4068,
+   "end": 4095
+  },
+  {
+   "fact": "Scott Cook 瘫坐在吧台凳上、眼神空茫——被噩耗击碎；Alex 后悔电话里说。",
+   "anchor": "hunched over the kitchen island, a wide and vacant look in his eye",
+   "start": 5321,
+   "end": 5387
+  },
+  {
+   "fact": "Alex 推断：这群人的钱不是本地挣的——离开镇子发了财为什么回来？",
+   "anchor": "if they’d left town to make millions, why return to Dunning?",
+   "start": 7078,
+   "end": 7138
+  },
+  {
+   "fact": "Alex 摊牌：妨碍州警调查就进监狱——在 Dunning 再重要也没用。",
+   "anchor": "obstructing a Washington State Police investigation",
+   "start": 8011,
+   "end": 8062
+  },
+  {
+   "fact": "章末三问：他们是谁？警长知道多少？为什么有人想杀他们？",
+   "anchor": "Who were these people?",
+   "start": 9324,
+   "end": 9346
+  }
+ ]
+}
