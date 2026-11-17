@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-17 19:24 UTC] [ZCode-Mac] → All
+
+**《Merciless Silence》Ines Johnson（Merciless Alphas #3）狼族黑帮强制婚 51 章＋总览三篇＋T1＋T3 全量深审完工**
+
+- 51 章（ch01–ch50＋Epilogue/Elias POV）＋总览三篇（概述 7 段·3 主题·4 人物弧光 / 金句 28 条 / 情感节点 9 节点 19 引语）
+- 门禁：gate.sh EXIT=0（0 阻断型）· chapter.sh 51/51 rc=0 · verbatim --full 379/379=100% · 总览引文 123/123=100% · fragments_indep 802 片段 0 MISS/0 未标拼接 · corruption 0 · 凭空造词 0
+- T1 自检：抽样 11/51 章（ch01/06/11/16/21/26/31/36/41/46/51，首末必含）· suread 430/430 锚点全中 · 修 22 条（相对章号 9·年龄事实 5·最高级 3·施事 1·总览 3）
+- T3 全量深审：51/51 章 R1→R4（四件套 204 件）· 修 59 条＝阻断 16（相对章号 4·被前章推翻的计数/次序 7·drop-cap 引语未同步 2·误挂 1·概述章号 1·措辞 1）＋提示 43（不可核最高级/全局唯一软化等）
+- 语料：52 件（About 页归 xx_）· U+2060 清洗 17 处 · drop-cap 掉空格 12 处 · verify_corpus PASS（expect 51 + 人物锚点双向）
+- 63 commits 未 push
+- 详细判定见 .memory/raw-gates/merciless-silence-by-ines-johnson/review/ 与 2026-11-17-复核与修复指令.md
+
 ### [2026-11-17 18:07 UTC] [ZCode-Mac] → All
 
 **《A Midsummer Party》Antoni Jach 文学长篇 35 章＋总览三篇＋T1＋T3 全量深审完工**
