@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch42",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch42_chapter_42.txt",
+ "facts": [
+  {
+   "fact": "五十英里撞开铁丝网门——挡风玻璃蛛网裂纹。",
+   "anchor": "She smashed through them at fifty miles an hour",
+   "start": 1367,
+   "end": 1414
+  },
+  {
+   "fact": "保时捷后座两个孩子还绑着安全带——头歪向一侧；在呼吸（睡着、被下药？）。",
+   "anchor": "seeing two children in the back, still strapped in, heads lolled to the side.",
+   "start": 2171,
+   "end": 2248
+  },
+  {
+   "fact": "Alex 连环自责：没顶住 Keller、没接受 Harper 提议、没让他们进房、没打给 Tom。",
+   "anchor": "Alex cursed herself bloody for not standing up to Keller",
+   "start": 2618,
+   "end": 2674
+  },
+  {
+   "fact": "挂锁三枪：第一枪偏、第二枪中、第三枪打断锁鼻。",
+   "anchor": "missed it the first time, fired again, struck true, dented it, the third, striking the corner",
+   "start": 4644,
+   "end": 4737
+  },
+  {
+   "fact": "屋内装置：顶棚电缆滑轮吊椅——椅腿朝天、椅背入水「和之前的一样」。",
+   "anchor": "a series of cables and pulleys attached to a chair that was lowered backward into the water like the others",
+   "start": 5453,
+   "end": 5560
+  },
+  {
+   "fact": "Claire 不踢了。",
+   "anchor": "She wasn’t kicking.",
+   "start": 5984,
+   "end": 6003
+  },
+  {
+   "fact": "不挣扎了。",
+   "anchor": "She wasn’t fighting.",
+   "start": 6006,
+   "end": 6026
+  },
+  {
+   "fact": "没有声音了。",
+   "anchor": "She wasn’t making any noise.",
+   "start": 6029,
+   "end": 6057
+  },
+  {
+   "fact": "Alex 跪在冷混凝土上——太迟了；Claire Harper 死了。",
+   "anchor": "Alex sank to her knees on the cold concrete floor, knowing that it was too late.",
+   "start": 6319,
+   "end": 6399
+  }
+ ]
+}
