@@ -1,0 +1,67 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch25",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "假副手盘问 Garcia：两男一高矮、矮的留髭、高的光头戴毛线帽——Alex 对上 Andrews。",
+   "anchor": "The little guy had a mustache, the big one had sort of a shaved head",
+   "start": 6107,
+   "end": 6175
+  },
+  {
+   "fact": "尸检 headlines：体内有药、右颈动脉针眼。",
+   "anchor": "Needle mark in the neck here",
+   "start": 7169,
+   "end": 7197
+  },
+  {
+   "fact": "死时清醒——药效先退、溺死在后。",
+   "anchor": "but she was conscious when she died.",
+   "start": 7250,
+   "end": 7286
+  },
+  {
+   "fact": "倒立位开始吸水；气管损伤指向长时间咳嗽——几小时才死。",
+   "anchor": "Damage to the sinuses and the back of the throat suggested she was in an inverted position",
+   "start": 7358,
+   "end": 7448
+  },
+  {
+   "fact": "指甲被撕掉、指床嵌微粒、掌骨应力骨折（抠椅臂）——挣扎持续很久。",
+   "anchor": "We found particulate matter embedded in the nail beds, stress fractures in the metatarsals",
+   "start": 7852,
+   "end": 7942
+  },
+  {
+   "fact": "皮肤饱和度低——她被反复拉出又按入水中；不止一次。",
+   "anchor": "she was pulled out, and then lowered back in, and then pulled out, and then put in again.",
+   "start": 8390,
+   "end": 8479
+  },
+  {
+   "fact": "低剂量一小时失效——她醒着经历全部；胃里确认白葡萄酒。",
+   "anchor": "The drug was almost completely out of her system by time of death, though, which meant a low dosage",
+   "start": 8902,
+   "end": 9001
+  },
+  {
+   "fact": "Alex 命令藏尸检结果、拖时间、别告诉验尸官——「只是拖住」。",
+   "anchor": "Hide them.",
+   "start": 9876,
+   "end": 9886
+  },
+  {
+   "fact": "Dana 问「我们站在谁那边」——Alex：「站在活人那边。」",
+   "anchor": "We’re on the side that keeps people alive.",
+   "start": 10642,
+   "end": 10684
+  },
+  {
+   "fact": "Lacey 电话：丈夫们知道死法、组私刑 posse 拦人审人——「我失控了」；Alex 说「拦住他们」但没有答案。",
+   "anchor": "forming a fucking posse or whatever",
+   "start": 11410,
+   "end": 11445
+  }
+ ]
+}
