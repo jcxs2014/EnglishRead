@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch44",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch44_chapter_44.txt",
+ "facts": [
+  {
+   "fact": "铰链点焊、滑轮焊死梁上——焊点已有锈斑：不是一天前做的。",
+   "anchor": "they looked older than a day, speckles of rust already tinging the exposed material.",
+   "start": 1687,
+   "end": 1771
+  },
+  {
+   "fact": "四案全在第一案执行前规划——Laura Walker 是最后一个。",
+   "anchor": "All four murders planned before the first one was even executed.",
+   "start": 1920,
+   "end": 1984
+  },
+  {
+   "fact": "配重机制：门开→缆紧→按入水中固定——开门动作差点密封她的命运。",
+   "anchor": "the whole rig had snapped tight, dragging her under and pinning her in place",
+   "start": 2901,
+   "end": 2977
+  },
+  {
+   "fact": "Alex 内疚：昨晚该坚持让 Harper 一家出镇——如果她更强硬。",
+   "anchor": "She could have got her out of Dunning right then.",
+   "start": 3278,
+   "end": 3327
+  },
+  {
+   "fact": "凶手预判：水公司会报警→派人来→看到保时捷→层层上报→引他们来。",
+   "anchor": "The killer must have known that the water company would be alerted when the pressure dropped.",
+   "start": 4474,
+   "end": 4567
+  },
+  {
+   "fact": "三天三受害者——第四个 24 小时内；Grant 仍会拒绝送走妻子。",
+   "anchor": "they had less than twenty-four hours until the fourth was taken.",
+   "start": 5300,
+   "end": 5364
+  }
+ ]
+}

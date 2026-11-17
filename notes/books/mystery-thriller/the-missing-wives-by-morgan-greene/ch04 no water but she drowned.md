@@ -28,7 +28,7 @@ modified: "2026-11-17"
 > **原句 3:** "I don’t care what your name is,” the deputy—who was cold, and clearly irritable—cut in. “Road is closed. This is an active crime scene. And you can’t be here."
 **中文理解**：「我不管你叫什么名字，」副警长——冻着，而且明显来火了——打断她，「路封了。这是活跃犯罪现场。你不能待在这儿。」
 **关键词**：care what your name is / active crime scene / can’t be here
-**为什么这样写**：三个短句全是拒 绝式的命令句，一个逗号插语（who was cold, and clearly irritable）顺手交代他失态的生理原因——冷；作者不让 Dawes 无脑蛮横，他的官僚腔有体温低当借口，这比纯粹的恶更真实，也为 Lacey 出场管住他做足了铺垫。
+**为什么这样写**：三个短句全是拒绝式的命令句，一个逗号插语（who was cold, and clearly irritable）顺手交代他失态的生理原因——冷；作者不让 Dawes 无脑蛮横，他的官僚腔有体温低当借口，这比纯粹的恶更真实，也为 Lacey 出场管住他做足了铺垫。
 **读者视角提示**：注意 Alex 被拦时不吵不辩——她递证件的冷静和 Dawes 的急躁构成一组对照。这种「先看人怎么处理小冲突，再看他怎么处理大案」的写法，往后在本书会用得很多。
 
 > **原句 4:** "A woman, probably around his age, stepped from between the sheriff’s department trucks—slim build, with hair tied back in a thick bun at the nape of her neck, her hat almost comically large on her small frame, shading the sheriff’s epaulets on the shoulders of her coat—and glowered at her deputy."

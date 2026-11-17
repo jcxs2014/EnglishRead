@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch52",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch52_chapter_52.txt",
+ "facts": [
+  {
+   "fact": "威胁前台：三女死一人将死——再拦我就铐你妨碍司法。",
+   "anchor": "Say anything to try and stop me, and I’m going to drag you out of there",
+   "start": 1293,
+   "end": 1364
+  },
+  {
+   "fact": "卷宗定性：四人为被告的「不当致死诉讼」。",
+   "anchor": "all four men named as defendants in a… wrongful death suit.",
+   "start": 3541,
+   "end": 3600
+  },
+  {
+   "fact": "失踪少年：与原告同姓、与 Walker 同年出生；PI 证据=放学跟踪。",
+   "anchor": "a missing person report for a teenage boy who was never found",
+   "start": 3783,
+   "end": 3844
+  },
+  {
+   "fact": "血证：老木桥断栏黑色物质=独立化验为血、家族 DNA 匹配。",
+   "anchor": "an independent lab report proving that it was blood—a familial DNA match to the parents.",
+   "start": 4550,
+   "end": 4638
+  },
+  {
+   "fact": "桥下激流——Dunning 唯一的河（源头水库流经农田）。",
+   "anchor": "It was the only one on the map.",
+   "start": 5000,
+   "end": 5031
+  },
+  {
+   "fact": "正是 DREC 筑坝改道的那条河。",
+   "anchor": "The one that Grant Walker and the Dunning Real Estate Company had dammed and diverted.",
+   "start": 5063,
+   "end": 5149
+  },
+  {
+   "fact": "章末：「水。赐予生命的力量。夺走生命的力量。」",
+   "anchor": "“Water,” she muttered aloud",
+   "start": 5257,
+   "end": 5284
+  }
+ ]
+}

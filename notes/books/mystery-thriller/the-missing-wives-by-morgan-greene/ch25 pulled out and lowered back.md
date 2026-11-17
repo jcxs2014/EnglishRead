@@ -61,7 +61,7 @@ modified: "2026-11-17"
 **为什么这样写**：私刑 posse 的名单自动对上了凶手的动机账——丈夫们正在亲手把「所有恨过他们的人」拉出来排序；作者让失控的围猎与凶手的猎单同构：两份名单、同一个起点。Lacey 的失控宣告（I'm losing control）把权力真空正式挂出。
 **读者视角提示**：这是最讽刺的一拍：他们为抓凶手组织的 posse，按名册筛选的方式跟凶手选目标一模一样。镇上的每一点旧怨现在都暴露在两种猎人面前——穿警服的和不穿的。
 
-> **原句 9:** "Stop them,” was all Alex could say. … For that question, she didn’t have an answer."
+> **原句 9:** "Stop them,” was all Alex could say. … “How?” … Alex paused. … For that question, she didn’t have an answer."
 **中文理解**：「拦住他们，」Alex 只能说出这一句。……而对于那个问题，她没有答案。
 **关键词**：Stop them / didn’t have an answer
 **为什么这样写**：章末的「无答案」是全书第一处她承认无解——How? 三个字母的追问悬在实验室的灯光下；作者让最强的问题解决者交白卷，因为这道题的题眼不在推理里，在权力里。悬置的结尾把失控感完整地交给读者。

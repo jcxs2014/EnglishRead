@@ -1,0 +1,234 @@
+{
+  "chapter": 47,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/ch47 digging further back.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch47_chapter_47.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The farmers DREC drove out of Dunning,” Alex told her. “They filed a civil suit against the Dunning Real Estate Company.",
+          "ok": true,
+          "pos": 1556
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I didn’t know. I never even saw that. I don’t think that came across my desk.”",
+          "ok": true,
+          "pos": 2471
+        },
+        {
+          "text": "“Why would it have?” Alex said. “One suicide, one accident. So long as the right deputy was dispatched to check it out, ",
+          "ok": true,
+          "pos": 2547
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He said he wanted them dead. But if he were going to do something, he would have gone after the men, not their wives.”",
+          "ok": true,
+          "pos": 3843
+        },
+        {
+          "text": "“He’s all the way out there while April Gallagher is being put in that pipe",
+          "ok": true,
+          "pos": 3983
+        },
+        {
+          "text": "I think that’s a pretty solid alibi. One that I can vouch for myself",
+          "ok": true,
+          "pos": 4058
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "We’re looking too close. We’re looking at now,” she said. “We’re looking at what they’re doing right now in Dunning",
+          "ok": true,
+          "pos": 5266
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "That’s what I’m going to find out,” Alex said, turning and heading for the exit, hoping against all hope that this was f",
+          "ok": true,
+          "pos": 6074
+        },
+        {
+          "text": "Once and for all",
+          "ok": true,
+          "pos": 6277
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "47. Chapter 47",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1144,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 64 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

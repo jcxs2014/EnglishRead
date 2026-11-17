@@ -13,17 +13,17 @@ modified: "2026-11-17"
 - **叙事手法**：资料插叙（体例伪装）：用工具书的零度语调写酷刑，让读者自己完成「谁在读这个」的惊悚推理。
 
 ## 精读
-> **原句 1:** "When submerged, the body initially attempts to hold its breath. As carbon dioxide levels rise in the bloodstream, an overwhelming reflex to inhale develops. Victims begin gasping or coughing in an attempt to breathe, often aspirating water into the airway."
-**中文理解**：没入水中时，身体最初会试图屏住呼吸。随着血液里二氧化碳浓度升高，一种压倒性的吸气冲动开始形成。受害者开始喘息、咳嗽，试图呼吸——常常把水吸进气道。
-**关键词**：attempts to hold its breath / overwhelming reflex / aspirating water
-**为什么这样写**：条目把溺水写成三个生理阶段的接力：屏息、冲动、误吸——每一步都由上一步逼出来，没有一步是「决定」；overwhelming 修饰的反射宣告了意识的出局：从这一刻起，身体的动作与意愿无关。工具书的因果链冷得像流程图。
-**读者视角提示**：记住这个「失控三步」——它把 ch02 的「绑椅溺死」拆解成可执行的流程：凶手不需要按下任何按钮，只需要让水按时间表上涨，身体会自己完成剩下的部分。
-
-> **原句 2:** "Drowning occurs when liquid fills a person’s airway, preventing the body from taking in oxygen. Despite common belief, death by drowning is rarely immediate—it is a progressive process caused by oxygen deprivation."
+> **原句 1:** "Drowning occurs when liquid fills a person’s airway, preventing the body from taking in oxygen. Despite common belief, death by drowning is rarely immediate—it is a progressive process caused by oxygen deprivation."
 **中文理解**：溺死发生在液体灌满人的气道、身体无法再摄入氧气之时。与大家的普遍认知相反，溺死很少是当场即死的——它是一个由缺氧驱动的渐进过程。
 **关键词**：fills a person’s airway / rarely immediate / progressive process
 **为什么这样写**：条目开篇先纠正一个「常识」，把溺死从电影画面拉回生理学时间轴；rarely immediate 和 progressive process 两个短语把死亡改写成一段可以被计量、被干预的流程——工具书谈的是救生，可这份冷静同样可以为相反的目的服务。
 **读者视角提示**：这是凶手的视角教材，别当科普读。每一条「反常识」都在替后面 chapter 里的尸体做注解：Alex 在案发现场看到的，将是有人照着这本手册执行出来的结果。
+
+> **原句 2:** "When submerged, the body initially attempts to hold its breath. As carbon dioxide levels rise in the bloodstream, an overwhelming reflex to inhale develops. Victims begin gasping or coughing in an attempt to breathe, often aspirating water into the airway."
+**中文理解**：没入水中时，身体最初会试图屏住呼吸。随着血液里二氧化碳浓度升高，一种压倒性的吸气冲动开始形成。受害者开始喘息、咳嗽，试图呼吸——常常把水吸进气道。
+**关键词**：attempts to hold its breath / overwhelming reflex / aspirating water
+**为什么这样写**：条目把溺水写成三个生理阶段的接力：屏息、冲动、误吸——每一步都由上一步逼出来，没有一步是「决定」；overwhelming 修饰的反射宣告了意识的出局：从这一刻起，身体的动作与意愿无关。工具书的因果链冷得像流程图。
+**读者视角提示**：记住这个「失控三步」——它把 ch02 的「绑椅溺死」拆解成可执行的流程：凶手不需要按下任何按钮，只需要让水按时间表上涨，身体会自己完成剩下的部分。
 
 > **原句 3:** "Death occurs not because the lungs fill with water, but because oxygen can no longer reach the blood. However, as breathing is an autonomic function, if the submersion of the airway in liquid is intermittent or partial, the process of “drowning,” and the associated pain and other negative experiences, can be prolonged. Extensively, in some cases."
 **中文理解**：死亡之所以发生，不是因为肺里灌满了水，而是因为氧气再也无法进入血液。然而，由于呼吸是自律机能——如果气道浸入液体是间歇性的或部分的，「溺死」这个过程，连同相关的痛苦与其他负面体验，都可以被延长。在某些案例中，延长得非常久。

@@ -1,0 +1,6 @@
+# ch10 R4 逐块人判
+R1 素读：复用 1-suread.json（生产期锚点）+text 重读对照，全命中。
+R2 机器：2-machine.json verdict=ok。
+R4 逐块：10 块全核：宣言=Alex✓ 律师=Claire✓ 僵硬=April✓ 原句 2 截取自句中（提示级，为保留对 Scott 称呼前缀）✓
+施事三问逐块问过；跨章引用核章号；数字/唯一断言 grep 验证。
+结论：0 阻断。已核实为正确。

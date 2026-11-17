@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Alex Marshall 在 Ritzville 的餐馆捧着黑咖啡看雪，电话响了——警长 Tom Doyle。",
+   "anchor": "watching the thin flakes of snow drift past the darkening window, when her phone rang.",
+   "start": 160,
+   "end": 246
+  },
+  {
+   "fact": "她刚在 Connell 结案——凶手伪装成外卖送货司机；她精疲力竭，正在回 Spokane 的路上。",
+   "anchor": "He was posing as a food delivery driver.",
+   "start": 876,
+   "end": 916
+  },
+  {
+   "fact": "Tom 让她掉头去 Dunning——一小时前发现一具尸体，当地治安官请求支援。",
+   "anchor": "A body was discovered an hour ago. The local sheriff called for support",
+   "start": 2372,
+   "end": 2443
+  },
+  {
+   "fact": "死者是溺死的女性——还被绑在椅子上。",
+   "anchor": "She was strapped to a chair.",
+   "start": 2897,
+   "end": 2925
+  },
+  {
+   "fact": "Alex 听到「绑椅子」僵住了，咖啡停在半空，声音发颤。",
+   "anchor": "Alex froze, coffee halfway to the table.",
+   "start": 2929,
+   "end": 2969
+  },
+  {
+   "fact": "她要了 Hsu 和 Garcia 两人，对方已在路上、落后她几小时。",
+   "anchor": "Can you give me Hsu, Garcia?",
+   "start": 3389,
+   "end": 3417
+  },
+  {
+   "fact": "她伸懒腰时骨头在钢钉钢板上磨——身体是被金属件拼起来的。",
+   "anchor": "her bones aching, grinding on the pins and plates that held her together as she stretched",
+   "start": 3519,
+   "end": 3608
+  },
+  {
+   "fact": "Tom 警告小心——治安官听起来慌了；Alex 答案子总是糟的。",
+   "anchor": "The sheriff sounded rattled. I think this could be a bad one.",
+   "start": 3755,
+   "end": 3816
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/ch10 the slow car interrogation.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch10_chapter_10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I’m placing April Gallagher into protective custody, and I’m taking her to the Dunning County Sheriff’s Office. This is ",
+          "ok": true,
+          "pos": 498
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "considering what’s happened tonight, I’m not going to charge you with assaulting a police officer. But do not take that ",
+          "ok": true,
+          "pos": 1311
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "If we come to the station,” the woman on her right asked, “Do we need lawyers?”",
+          "ok": true,
+          "pos": 1710
+        },
+        {
+          "text": "“I don’t know,” Alex answered coldly. “Do you",
+          "ok": true,
+          "pos": 1872
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "April rose slowly, looking around as though for some sort of exit, and then walked numbly around the island toward Alex,",
+          "ok": true,
+          "pos": 3167
+        },
+        {
+          "text": "She paused at her husband, who pulled her into an embrace, kissed her, and then whispered something in her ear that elic",
+          "ok": true,
+          "pos": 3413
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She cut the conversation there, not wanting to voice the reason: So that she could get April Gallagher alone in a car, a",
+          "ok": true,
+          "pos": 3895
+        },
+        {
+          "text": "Questioning a group always elicited tight lips",
+          "ok": true,
+          "pos": 4131
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She’d been on the go since 6 a.m. that morning, finishing everything up with her last case. A pair of murders that had r",
+          "ok": true,
+          "pos": 4359
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "When it came to murdering women, often the kills were motivated sexually. But Rebecca Cook hadn’t been in a state of und",
+          "ok": true,
+          "pos": 7352
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "April stiffened suddenly at the mention of him",
+          "ok": true,
+          "pos": 8781
+        },
+        {
+          "text": "“If Scott Cook had any enemies, then that could be a starting point. And a starting point here is vital",
+          "ok": true,
+          "pos": 8829
+        },
+        {
+          "text": "”",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Right,” April said, “because tearing me out of my home and away from my kids in the middle of the fucking night is prote",
+          "ok": true,
+          "pos": 9579
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "If I can help you? You’re the fucking police. You’re supposed to help me, aren’t you",
+          "ok": true,
+          "pos": 10467
+        }
+      ],
+      "words": 16
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter 10",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1936,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": "块数 10 偏离本书常见区间 3–9（本书 64 章中位 6、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 64 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句4",
+        "kw": "looking around as though for some sort of exit",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

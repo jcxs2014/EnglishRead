@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch23",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "邮件主题：Marshall, Alexandra——创伤性脑损伤后评估。",
+   "anchor": "SUBJECT: Re: Marshall, Alexandra—Post-Traumatic Brain Injury Evaluation",
+   "start": 121,
+   "end": 192
+  },
+  {
+   "fact": "入院：州警学院自卫训练中的脑震荡外伤；急性激越需镇静。",
+   "anchor": "concussive head trauma sustained during self-defense training at the Washington State Police Academy",
+   "start": 249,
+   "end": 349
+  },
+  {
+   "fact": "医史确认：既往严重 TBI——需要广泛干预与康复。",
+   "anchor": "prior severe traumatic brain injury requiring extensive intervention and rehabilitation",
+   "start": 539,
+   "end": 626
+  },
+  {
+   "fact": "强烈建议：立即移出任何涉及身体接触的训练或行动。",
+   "anchor": "she be immediately removed from any training or operational activity involving physical contact.",
+   "start": 682,
+   "end": 778
+  },
+  {
+   "fact": "警告：后续头部外伤可能导致累积性神经损伤（认知/运动/结构）。",
+   "anchor": "any subsequent head trauma is likely to result in cumulative neurological damage",
+   "start": 879,
+   "end": 959
+  },
+  {
+   "fact": "无医疗许可继续外勤——可能不可逆神经衰退或死亡。",
+   "anchor": "Further injury may result in irreversible neurological decline, or death.",
+   "start": 1129,
+   "end": 1202
+  },
+  {
+   "fact": "她违抗最强建议自己决定回学院——「决定在你们手里」。署名 Dr. Ethan McCabe。",
+   "anchor": "Ms. Marshall has elected to return to the academy against our strongest recommendations and despite the risks.",
+   "start": 1205,
+   "end": 1315
+  }
+ ]
+}

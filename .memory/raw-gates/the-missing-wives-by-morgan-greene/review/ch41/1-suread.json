@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch41",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch41_chapter_41.txt",
+ "facts": [
+  {
+   "fact": "Lacey 撤职生效中——「别再叫我警长了」。",
+   "anchor": "But I don’t think you should call me that anymore.",
+   "start": 384,
+   "end": 434
+  },
+  {
+   "fact": "Alex 戳穿：你从一开始就淡化认识这些人的程度——你有 Keller 号码。",
+   "anchor": "You’ve been downplaying how much you know about these guys from the start.",
+   "start": 1230,
+   "end": 1304
+  },
+  {
+   "fact": "会议目的：不是逮捕（虽然很想）——只要他们离镇；除了开口什么都试过了。",
+   "anchor": "I just want them to leave town for now.",
+   "start": 1917,
+   "end": 1956
+  },
+  {
+   "fact": "Grant 咆哮拒绝：「Dunning 是我的镇！我会查明并他妈的处置他们。」",
+   "anchor": "Dunning is my fucking town!",
+   "start": 7690,
+   "end": 7717
+  },
+  {
+   "fact": "Alex 反问：「像对那两个农民那样处置？像找不到 Henderson 就会做的那样？」",
+   "anchor": "Do to him what you did to those two farmers?",
+   "start": 8240,
+   "end": 8284
+  },
+  {
+   "fact": "Harper 爆发：她已经做过了——把 Claire 和孩子送走了。",
+   "anchor": "I sent Claire and the kids away! I got them out of here",
+   "start": 9572,
+   "end": 9627
+  },
+  {
+   "fact": "Lacey 电话：泵房压力骤降——栅栏内停着灰色保时捷。",
+   "anchor": "a car parked inside the fence—a gray Porsche.",
+   "start": 10694,
+   "end": 10739
+  },
+  {
+   "fact": "章末：「Harper 先生——你妻子现在在哪？」",
+   "anchor": "Where is your wife right now?",
+   "start": 11022,
+   "end": 11051
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch16",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "Alex 差点被自己的门楔绊倒——防线太好用了。",
+   "anchor": "the wedge and handle stopper doing their job.",
+   "start": 143,
+   "end": 188
+  },
+  {
+   "fact": "Alex 向 Kevin 复述：部分副手在受害者丈夫的工资单上。",
+   "anchor": "some of her deputies are on the payroll of the husband of our murder victim.",
+   "start": 1971,
+   "end": 2047
+  },
+  {
+   "fact": "Kevin 扫法庭文件命中 DREC：四年前环评报告——河流流经该区域，是农田与野生动物的命脉水道。",
+   "anchor": "an environmental report filed saying that there was a river flowing through the area that was a vital waterway",
+   "start": 2428,
+   "end": 2538
+  },
+  {
+   "fact": "报告被神秘撤回——第二份报告说 Dunning 水库需要引水满足镇的需求。",
+   "anchor": "the report was mysteriously retracted when a second, different report showed the reservoir feeding it needed to be tapped",
+   "start": 2575,
+   "end": 2696
+  },
+  {
+   "fact": "河流筑坝、水被改道——小区建成；居民民事诉 DREC 也被撤回。",
+   "anchor": "So the river was dammed up, the water was diverted",
+   "start": 2744,
+   "end": 2794
+  },
+  {
+   "fact": "Alex 打赌：被饿死水的农田正是 DREC 现在收购的那块。",
+   "anchor": "the farmland it’s starving of water is the same farmland that the Dunning Real Estate Company is trying to buy up right now",
+   "start": 3246,
+   "end": 3369
+  },
+  {
+   "fact": "Alex 假说：凶手在替 Dunning 讨债——用他们试图控制的水淹死他们的妻子。",
+   "anchor": "drowning their wives in the very water they tried to control?",
+   "start": 5451,
+   "end": 5512
+  },
+  {
+   "fact": "保密令：任何人问都别说在查 DREC——连 Lacey 暂时也不说。",
+   "anchor": "don’t tell them that you’re looking into the Dunning Real Estate Company.",
+   "start": 4322,
+   "end": 4395
+  }
+ ]
+}

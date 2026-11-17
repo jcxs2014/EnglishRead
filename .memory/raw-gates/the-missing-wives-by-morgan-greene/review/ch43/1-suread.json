@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch43",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch43_chapter_43.txt",
+ "facts": [
+  {
+   "fact": "缆绳结构：穿椅腿椅背→梁上滑轮→沿顶→末端固定在门上。",
+   "anchor": "the line moved across the length of the ceiling down to another pulley",
+   "start": 906,
+   "end": 976
+  },
+  {
+   "fact": "Keller 抢管钳一击砸碎滑轮——张力释放、Claire 升出水面。",
+   "anchor": "connecting with the pulley fixed to the top of the pipe, obliterating it in a single strike.",
+   "start": 1552,
+   "end": 1644
+  },
+  {
+   "fact": "Claire 三处绑缚：手臂、脚踝、还有喉咙——勒进白肉血肉模糊。",
+   "anchor": "by the arms, by the ankles, and this time by the throat as well",
+   "start": 1944,
+   "end": 2007
+  },
+  {
+   "fact": "Alex 的复苏窗口：缺氧 4–6 分钟无脑损——冷水体温降可更长。",
+   "anchor": "four to six minutes without brain damage, longer in cold water",
+   "start": 2521,
+   "end": 2583
+  },
+  {
+   "fact": "CPR 闪回：多年前与她同墓的女孩们——接触引发呕意但她必须做。",
+   "anchor": "The girls who were in that grave with her all those years ago.",
+   "start": 3634,
+   "end": 3696
+  },
+  {
+   "fact": "Claire 复活后只有两个耳语词——",
+   "anchor": "But only two whispered words rose in the cold air.",
+   "start": 6568,
+   "end": 6618
+  },
+  {
+   "fact": "「Laura Walker。」",
+   "anchor": "Laura Walker.",
+   "start": 6622,
+   "end": 6635
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch36",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch36_chapter_36.txt",
+ "facts": [
+  {
+   "fact": "Alex 的怒单：对农民、对 Dunning 人、恐吓 Dana、袭击 Kevin。",
+   "anchor": "For what they’d done to the farmers. To the people of Dunning.",
+   "start": 147,
+   "end": 209
+  },
+  {
+   "fact": "Lacey 拦截（Jackie+副手护驾）：不在这里不现在——你回家休息。",
+   "anchor": "“Not here, not now,”",
+   "start": 468,
+   "end": 488
+  },
+  {
+   "fact": "理由：你把 April 弄出来了——但验尸官要来、你湿透、你只会搞砸。",
+   "anchor": "there’s nothing you can do here except make things worse.",
+   "start": 1655,
+   "end": 1712
+  },
+  {
+   "fact": "Alex 毒舌：「你最好把他们铐走」——意思不言自明。",
+   "anchor": "You’d be better off removing them",
+   "start": 1717,
+   "end": 1750
+  },
+  {
+   "fact": "Lacey 求配合：「我在管理局面——给我点余地，跟我配合。求了。」",
+   "anchor": "Cut me some slack, work with me. Please.",
+   "start": 1910,
+   "end": 1950
+  },
+  {
+   "fact": "Alex 认可：热水澡、重整、休息比冻死强——Lacey 有几个能维持和平的制服。",
+   "anchor": "A hot bath. Some time to regroup. Some rest.",
+   "start": 2090,
+   "end": 2134
+  },
+  {
+   "fact": "与 Patty 的眼神交换——不是感谢但是某种东西。",
+   "anchor": "Not a thanks. But something.",
+   "start": 3103,
+   "end": 3131
+  },
+  {
+   "fact": "章末：Brian 喊「是我妻子吗？」——Alex 抛回：「你的现场，警长。处理它。」",
+   "anchor": "It’s your scene, Sheriff",
+   "start": 3881,
+   "end": 3905
+  }
+ ]
+}

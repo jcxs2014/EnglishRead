@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch13",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "条款主题：关于实质性证人的调查限制。",
+   "anchor": "INVESTIGATIVE LIMITS REGARDING MATERIAL WITNESSES",
+   "start": 71,
+   "end": 120
+  },
+  {
+   "fact": "无令状时与证人的一切互动严格自愿——可请求、不可强迫。",
+   "anchor": "Officers may request, but not compel, a witness to remain on scene",
+   "start": 422,
+   "end": 488
+  },
+  {
+   "fact": "证人可随时终止接触；造成「不得离开」错觉的权威展示=非法逮捕。",
+   "anchor": "A witness may terminate contact at any time.",
+   "start": 616,
+   "end": 660
+  },
+  {
+   "fact": "律师代表非嫌疑人证人到场——所有问话必须立即停止。",
+   "anchor": "all questioning must cease immediately.",
+   "start": 906,
+   "end": 945
+  },
+  {
+   "fact": "律师要求放人后取得的陈述推定胁迫、可被排除。",
+   "anchor": "Statements obtained after counsel has requested release are presumed coerced",
+   "start": 1270,
+   "end": 1346
+  },
+  {
+   "fact": "律师到场护送证人——警官不得阻拦。",
+   "anchor": "if legal counsel is present to escort a witness, the officer shall offer no resistance.",
+   "start": 1659,
+   "end": 1746
+  }
+ ]
+}

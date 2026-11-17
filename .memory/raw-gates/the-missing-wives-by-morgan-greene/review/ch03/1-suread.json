@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch03",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "本章是 EMT 手册「溺死」条目的摘录。",
+   "anchor": "EXCERPT FROM 1000 WAYS TO DIE: AN EMT’S HANDBOOK",
+   "start": 13,
+   "end": 61
+  },
+  {
+   "fact": "溺死很少立即致死——它是缺氧造成的渐进过程。",
+   "anchor": "death by drowning is rarely immediate—it is a progressive process caused by oxygen deprivation.",
+   "start": 194,
+   "end": 289
+  },
+  {
+   "fact": "触水可触发喉痉挛——声带反射性闭合。",
+   "anchor": "Contact with water can trigger laryngospasm, a reflex closure of the vocal cords.",
+   "start": 551,
+   "end": 632
+  },
+  {
+   "fact": "与流行描写相反，溺水者很少呼救——身体全部精力都在试图呼吸。",
+   "anchor": "Contrary to popular depiction, drowning victims rarely shout for help. The body’s entire effort is focused on trying to breathe.",
+   "start": 1057,
+   "end": 1185
+  },
+  {
+   "fact": "死因不是肺里灌满水，而是氧气到不了血液。",
+   "anchor": "Death occurs not because the lungs fill with water, but because oxygen can no longer reach the blood.",
+   "start": 1188,
+   "end": 1289
+  },
+  {
+   "fact": "若气道浸没是间歇或部分的，「溺死」与相关痛苦可以被延长——某些案例中 extensively。",
+   "anchor": "the process of “drowning,” and the associated pain and other negative experiences, can be prolonged. Extensively, in some cases.",
+   "start": 1408,
+   "end": 1536
+  }
+ ]
+}

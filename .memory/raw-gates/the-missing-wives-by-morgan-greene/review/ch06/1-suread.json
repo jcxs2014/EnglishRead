@@ -1,0 +1,61 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "Lacey 问是不是连环杀手；Alex 说连环杀手需要多个受害者——这只是一起凶案。",
+   "anchor": "A serial killer requires multiple victims. This is just a single kill—a homicide.",
+   "start": 242,
+   "end": 323
+  },
+  {
+   "fact": "Lacey 接电话脸色煞白——一个信封被寄到治安站。",
+   "anchor": "What do you mean an envelope?",
+   "start": 821,
+   "end": 850
+  },
+  {
+   "fact": "信封上写着 Rebecca Cook 好友 April Gallagher 的名字——寄给警长站。",
+   "anchor": "April Gallagher is Rebecca Cook’s best friend. And an envelope with her name on it was just sent to the sheriff’s station.",
+   "start": 1282,
+   "end": 1404
+  },
+  {
+   "fact": "Alex 判断：Lacey 不是来帮忙的，是需要被拯救的——她在等指令。",
+   "anchor": "Lacey Mitchell didn’t need help, she needed saving.",
+   "start": 2144,
+   "end": 2195
+  },
+  {
+   "fact": "Alex 命令接走 April 看住；依据=她刚被萌芽期连环杀手点名为下一个受害者。",
+   "anchor": "On the grounds that she’s just been named as the next victim by a burgeoning serial killer.",
+   "start": 4006,
+   "end": 4097
+  },
+  {
+   "fact": "Alex 断言：Rebecca 可能是第一个，但不会是最后一个。",
+   "anchor": "Rebecca Cook might be the first, but Alex didn’t think she’d be the last.",
+   "start": 6402,
+   "end": 6475
+  },
+  {
+   "fact": "K9 无发现：冻土几个月没人走过。",
+   "anchor": "Just frozen dirt. Nobody’s been out here for months, not since the frost set in.",
+   "start": 10726,
+   "end": 10806
+  },
+  {
+   "fact": "Alex 推理：凶手需要多次往返、无人打扰——他踩过点、确认过这条路没人来。",
+   "anchor": "He would have needed hours here, across multiple trips, undisturbed",
+   "start": 11089,
+   "end": 11156
+  },
+  {
+   "fact": "Dawes 抗拒巡查二十英里土路——Alex 咆哮驱赶。",
+   "anchor": "Then you’d better get walking",
+   "start": 8584,
+   "end": 8613
+  }
+ ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter": 24,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/ch24 rules out the window.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch24_chapter_24.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She had no recollection of it",
+          "ok": true,
+          "pos": 1583
+        },
+        {
+          "text": "Had she driven",
+          "ok": true,
+          "pos": 1614
+        },
+        {
+          "text": "Had the sheriff dropped her off",
+          "ok": true,
+          "pos": 1630
+        },
+        {
+          "text": "God, why couldn’t she remember",
+          "ok": true,
+          "pos": 1663
+        },
+        {
+          "text": "And then she did",
+          "ok": true,
+          "pos": 1694
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Her skin was pale and taut around her cheeks, her hair disheveled, sticking up in all directions on one side, flat and g",
+          "ok": true,
+          "pos": 2413
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When she managed to straighten once more, the only saving grace about all of this was that the pain in her ribs was enou",
+          "ok": true,
+          "pos": 3018
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She hated taking them, and very, very rarely did—anything that dulled her senses, anything that made her slow, that clou",
+          "ok": true,
+          "pos": 4959
+        },
+        {
+          "text": "But she couldn’t go on like this",
+          "ok": true,
+          "pos": 5123
+        },
+        {
+          "text": "She didn’t think she’d make it an hour without collapsing, unless she had something to take the edge off",
+          "ok": true,
+          "pos": 5156
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She cursed herself, breaking her own rules. Her cardinal rules. And when she opened the door, she realized it wasn’t jus",
+          "ok": true,
+          "pos": 6987
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Staring back at her was her own truck, parked right in front of her door",
+          "ok": true,
+          "pos": 7180
+        },
+        {
+          "text": "She squeezed her eyes shut, called herself a collection of terrible names under her breath and then forced down the rage",
+          "ok": true,
+          "pos": 7254
+        },
+        {
+          "text": "In fact, it wasn’t doing a goddamn thing",
+          "ok": true,
+          "pos": 7451
+        }
+      ],
+      "words": 59
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "24. Chapter 24",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1349,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 64 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

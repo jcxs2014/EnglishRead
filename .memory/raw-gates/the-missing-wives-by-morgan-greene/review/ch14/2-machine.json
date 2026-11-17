@@ -1,0 +1,330 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/ch14 motel fortress ritual.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch14_chapter_14.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "And that was the story as she went on. For every diner, dive, and dinky shop there was one from the other side too—somet",
+          "ok": true,
+          "pos": 2405
+        },
+        {
+          "text": "Old pickup trucks were parked at the curb, sedans and station wagons from before the millennium, and then every fourth o",
+          "ok": true,
+          "pos": 2647
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was strange. A project like that would cost millions. Who’d lobbied for it and why",
+          "ok": true,
+          "pos": 3627
+        },
+        {
+          "text": "She didn’t have an answer, but she had a creeping feeling that no matter which thread she pulled here in this town, it w",
+          "ok": true,
+          "pos": 3714
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Alex approached her motel a few minutes later—the kind she always looked for. One with no website, independently run, ru",
+          "ok": true,
+          "pos": 3913
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Rules. They were what kept her sane",
+          "ok": true,
+          "pos": 7155
+        },
+        {
+          "text": "And she always followed them. Could never be too careful. Knew what could happen if she wasn’t",
+          "ok": true,
+          "pos": 7192
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She pulled out the wedge and took it to the door, kicking it underneath and then extending the telescopic arm up into th",
+          "ok": true,
+          "pos": 7287
+        },
+        {
+          "text": "She took out crocodile clips and went and drew the curtains, clipping them shut and tacking them to the walls with doubl",
+          "ok": true,
+          "pos": 7449
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Grabbing the wool blanket from the bag, she tucked it behind the frame of the mirror affixed to the wall and pinned it i",
+          "ok": true,
+          "pos": 8463
+        },
+        {
+          "text": "That way, if anyone did take a peek, all they’d see was black",
+          "ok": true,
+          "pos": 8637
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I know. Two cases back-to-back—it’s far from ideal,” he told her. “If it’s too much for you, I can call someone else ins",
+          "ok": true,
+          "pos": 10165
+        },
+        {
+          "text": "\"No,” Alex replied, the faces of the four husbands flashing in her mind. Of Adam Keller. Of the wives. Finally of Rebecc",
+          "ok": true,
+          "pos": 10311
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She huffed sardonically and pulled the phone from her ear, tossing it onto the bed and rubbing her aching eyes",
+          "ok": true,
+          "pos": 10541
+        },
+        {
+          "text": "“Don’t I always?”",
+          "ok": true,
+          "pos": 10653
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 132,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter 14",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1971,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 64 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

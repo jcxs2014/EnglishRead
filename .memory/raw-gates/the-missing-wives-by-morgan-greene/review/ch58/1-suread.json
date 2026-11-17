@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch58",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch58_chapter_58.txt",
+ "facts": [
+  {
+   "fact": "Megan 奔向邻居——熟悉、信任、安全。",
+   "anchor": "Someone familiar. Someone trusted. Someone safe.",
+   "start": 543,
+   "end": 591
+  },
+  {
+   "fact": "Grant 扑向火喊 Laura——抱住女儿谢天谢地；女孩答不上妈妈在哪。",
+   "anchor": "thank God, thank God you’re safe. Where’s mommy",
+   "start": 2900,
+   "end": 2947
+  },
+  {
+   "fact": "Alex 不告诉 Grant——他会私刑（虽然觉得他该死）。",
+   "anchor": "he’d probably just murder the guy",
+   "start": 3668,
+   "end": 3701
+  },
+  {
+   "fact": "这不是她站的立场——执法归执法。",
+   "anchor": "that wasn’t how this was done",
+   "start": 3764,
+   "end": 3793
+  },
+  {
+   "fact": "第二封信：THE SOURCE OF IT ALL.（一切的源头）",
+   "anchor": "THE SOURCE OF IT ALL.",
+   "start": 1781,
+   "end": 1802
+  },
+  {
+   "fact": "解码：source=水源——水库！",
+   "anchor": "landing instantly on what she knew was the right answer—a water source",
+   "start": 5556,
+   "end": 5626
+  },
+  {
+   "fact": "信是邀请=他在等她——Laura 可能还活着。",
+   "anchor": "Which meant maybe there was a chance she was still alive.",
+   "start": 6104,
+   "end": 6161
+  }
+ ]
+}

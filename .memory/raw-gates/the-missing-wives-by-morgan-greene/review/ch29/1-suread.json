@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch29",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "Kevin 在图书馆外被跳袭——手机电脑被抢、被打得很惨。",
+   "anchor": "They stole his phone, his laptop, beat him up pretty bad.",
+   "start": 432,
+   "end": 489
+  },
+  {
+   "fact": "Alex 推断链：Garcia→Kevin→跳袭——副手失控横行、丈夫握着皮带。",
+   "anchor": "that it was the deputies running amok and the husbands holding their leashes.",
+   "start": 1217,
+   "end": 1294
+  },
+  {
+   "fact": "跳袭细节：蒙面黑衣无制服——背后一击、按地、按压、枪抵后脑、拿手机、无言离开。",
+   "anchor": "they pressed a gun to the back of his head, and then left. No words, nothing.",
+   "start": 4059,
+   "end": 4136
+  },
+  {
+   "fact": "Alex 命令：全抓——四人组+Andrews+所有涉案者，上手铐进牢房。",
+   "anchor": "Walker, Cook, Harper, Gallagher, Andrews, and anyone else who’s involved in this.",
+   "start": 3197,
+   "end": 3278
+  },
+  {
+   "fact": "Lacey 反驳：什么都不会粘住他们——alibi、无纸痕、无电话；底下还有 12 个好副手找 April。",
+   "anchor": "Alibis, no paper trail, no phone calls—the whole thing.",
+   "start": 4317,
+   "end": 4372
+  },
+  {
+   "fact": "Alex 认账：他们总是干干净净脱身。",
+   "anchor": "They always came out clean.",
+   "start": 5192,
+   "end": 5219
+  },
+  {
+   "fact": "至少两起命案逍遥法外——这只是她知道的。",
+   "anchor": "they’d gotten away with at least two murders—and that was only what she knew of.",
+   "start": 5241,
+   "end": 5321
+  },
+  {
+   "fact": "章末挂断前：「他们不再是你的副手了。」",
+   "anchor": "They aren’t your deputies anymore.",
+   "start": 5779,
+   "end": 5813
+  }
+ ]
+}

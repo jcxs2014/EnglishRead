@@ -1,0 +1,43 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch47",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch47_chapter_47.txt",
+ "facts": [
+  {
+   "fact": "Lacey 震惊：民诉没到她桌上——一个自杀一个事故，副手处理就不升级。",
+   "anchor": "I don’t think that came across my desk.",
+   "start": 2614,
+   "end": 2653
+  },
+  {
+   "fact": "Henderson 排除：不在场（两县外躲藏）+不会打妻子——Alex 亲自担保 alibi。",
+   "anchor": "One that I can vouch for myself.",
+   "start": 4296,
+   "end": 4328
+  },
+  {
+   "fact": "直觉：全与水、那条河有关——但拼不起来。",
+   "anchor": "This is all about water. It’s all about that river. I can feel it.",
+   "start": 4597,
+   "end": 4663
+  },
+  {
+   "fact": "结晶：这不是第一次——他们一直是这样的人。",
+   "anchor": "This wasn’t the first time they’d done something like this.",
+   "start": 5302,
+   "end": 5361
+  },
+  {
+   "fact": "视线转向：看太近了、只看现在——如果更早呢？",
+   "anchor": "We’re looking too close. We’re looking at now",
+   "start": 5530,
+   "end": 5575
+  },
+  {
+   "fact": "章末：希望这是对的线——终于能一劳永逸止住这个凶手。",
+   "anchor": "Once and for all.",
+   "start": 6608,
+   "end": 6625
+  }
+ ]
+}

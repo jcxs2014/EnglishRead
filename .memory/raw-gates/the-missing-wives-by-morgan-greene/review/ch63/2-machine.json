@@ -1,0 +1,229 @@
+{
+  "chapter": 63,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/ch63 he was innocent slap.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch63_chapter_63.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It seems like you decided,” he muttered as Alex looked up to see Lacey’s truck pull up next to hers",
+          "ok": true,
+          "pos": 524
+        },
+        {
+          "text": "“Shut the fuck up,” she whispered, pressing down harder on his leg. “It was nothing to do with you",
+          "ok": true,
+          "pos": 623
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The cruel irony of it, Alex thought as she watched them secure his wrists and ankles in restraints and begin the long jo",
+          "ok": true,
+          "pos": 1320
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "We’ll see each other again, Alex,” he said, his words fading as he drifted away",
+          "ok": true,
+          "pos": 1658
+        },
+        {
+          "text": "“Yeah,” Alex whispered to herself. “In court",
+          "ok": true,
+          "pos": 1752
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I’m sorry—” she said, but before the words had barely left her mouth, Laura Walker’s hand flew from her side and connect",
+          "ok": true,
+          "pos": 2242
+        },
+        {
+          "text": "“He was innocent,” Laura Walker hissed",
+          "ok": true,
+          "pos": 2469
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Yeah, Alex thought, and it still wasn’t enough. Not even fucking close",
+          "ok": true,
+          "pos": 3804
+        }
+      ],
+      "words": 12
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "63. Chapter 63",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 697,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 64 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

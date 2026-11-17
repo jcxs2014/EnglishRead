@@ -1,0 +1,49 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch55",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch55_chapter_55.txt",
+ "facts": [
+  {
+   "fact": "Leonard 的语音：口齿不清的 undertone——旧伤（摔桥撞岩的推断）。",
+   "anchor": "a strange, lisping undertone to them.",
+   "start": 331,
+   "end": 368
+  },
+  {
+   "fact": "「别告诉他们」——确认：从坟墓回来的 Whitaker。",
+   "anchor": "That it was Whitaker who she was talking to, back from the grave",
+   "start": 1103,
+   "end": 1167
+  },
+  {
+   "fact": "同类论：都死过都重生——都在完成恢复平衡的使命。",
+   "anchor": "We’re the same,” he rasped. “We both died, we’ve both been reborn.",
+   "start": 3517,
+   "end": 3583
+  },
+  {
+   "fact": "职业起源论：你以为这职业能给你找到他们的力量。",
+   "anchor": "You were forced into this job—into this life",
+   "start": 3823,
+   "end": 3867
+  },
+  {
+   "fact": "「你追了十二年的男人」——他知道她的过去。",
+   "anchor": "the men who you’ve been hunting for the last twelve years.",
+   "start": 6088,
+   "end": 6146
+  },
+  {
+   "fact": "拒绝交易：杀 Laura 换名字——没门。",
+   "anchor": "there’s no fucking way I’d make that deal, or any deal, with you.",
+   "start": 6372,
+   "end": 6437
+  },
+  {
+   "fact": "章末：「最后等着我们所有人的，是审判。」挂断。",
+   "anchor": "the only thing that awaits us all is judgment.",
+   "start": 6590,
+   "end": 6636
+  }
+ ]
+}
