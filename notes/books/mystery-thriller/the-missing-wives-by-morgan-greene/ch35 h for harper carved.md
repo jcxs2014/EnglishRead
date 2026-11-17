@@ -57,7 +57,7 @@ modified: "2026-11-17"
 
 > **原句 8:** "From the driver’s door—Grant Walker, head whipping around as he looked for someone to impose himself on. … From the back—Scott Cook, haggard, holding his motherless crying toddler, bouncing her in his arms. … From the passenger door—Brian Gallagher, wild-eyed and frantic, the words Alex knew were coming already leaping from his mouth and echoing across the snow-swept roadway."
 **中文理解**：驾驶座车门——Grant Walker，头飞快转动找可以发号施令的人。后座——Scott Cook，形容枯槁，抱着失去了妈妈的、哭闹的幼儿，在怀里颠着。副驾——Brian Gallagher，眼睛赤红、如疯似狂，Alex 早知道会来的那句话已经跳出他的嘴、在扫过雪的路上回荡。
-**关键词**：looking for someone to impose himself on / his motherless crying toddler / Where is my wife?
+**关键词**：Grant Walker / looked for someone / impose himself on
 **为什么这样写**：三个车门三种丧失的写法——Grant 找权力（司机座）、Scott 抱孩子（后座）、Brian 找妻子（副驾）；motherless crying toddler 是全书最重的一个名词组：孩子还不知道她已经永远安静了。作者让三个男人与 ch21 的阵容完全对位，只是这一次他们在找的人已经找到了。
 **读者视角提示**：记住这辆车的人员配置——它是「受害者家属」与「嫌疑名单」的重叠样本。ch09 的厨房戏将在这条雪路上重演，只是这一次，没有人能拦住谁。
 
