@@ -1,0 +1,55 @@
+{
+ "book": "the-missing-wives-by-morgan-greene",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-missing-wives-by-morgan-greene/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Rebecca Cook 急着回家做晚饭，已经迟了一小时。",
+   "anchor": "Rebecca Cook was desperate to get home to start dinner. She was supposed to be there an hour ago.",
+   "start": 500,
+   "end": 597
+  },
+  {
+   "fact": "她四十多岁，两岁女儿在后座睡着，而且有点微醺（她从不承认）。",
+   "anchor": "She was in her forties, mother to a two-year-old daughter, currently asleep in the back seat, and she was—though she’d never admit it—a little buzzed.",
+   "start": 729,
+   "end": 879
+  },
+  {
+   "fact": "去杂货店路上停下来见好友 April Gallagher 喝「咖啡」——下午两点后那就是酒，一杯变成了一瓶。",
+   "anchor": "she’d stopped to meet her best friend, April Gallagher, for “coffee.” Except, past 2 p.m., that meant wine. And a glass had turned into a bottle.",
+   "start": 1136,
+   "end": 1281
+  },
+  {
+   "fact": "她丈夫参与了新修双车道公路建设，通勤时间缩短一半以上。",
+   "anchor": "her husband had played a big part in putting in the new two-lane highway—which cut travel time more than in half",
+   "start": 1336,
+   "end": 1448
+  },
+  {
+   "fact": "她猛打方向，差点撞上站在车前翼子板旁抬手挡光的男人。",
+   "anchor": "barely avoiding the man standing at the front fender of the car, hands raised against the blinding light as though he was waving to get her attention",
+   "start": 2237,
+   "end": 2386
+  },
+  {
+   "fact": "女儿惊醒大哭但没受伤。",
+   "anchor": "looking back at her daughter, now awake—startled and wide-eyed, but unharmed",
+   "start": 2655,
+   "end": 2731
+  },
+  {
+   "fact": "她下车找人——男人不见了，只剩他那辆车无声停在道上。",
+   "anchor": "But there was no sign of him. Just his car, parked silent and dark in the roadway.",
+   "start": 3252,
+   "end": 3334
+  },
+  {
+   "fact": "女儿哭声盖住了从她背后逼近的脚步声。",
+   "anchor": "Covering the sound of the footsteps coming up behind her.",
+   "start": 3858,
+   "end": 3915
+  }
+ ]
+}
