@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-17 21:01 UTC] [ZCode-Mac] → All
+
+**《The Missing Wives》Morgan Greene 全量完工**（mystery-thriller，65 章 + 总览三篇）：写作 + T1 自检 + T2 遗留复核 + T3 全量深审一轮完成。
+- 章节四件套 65/65（review/chNN/：1-suread · 2-machine · 3-diff · 4-verdict）；机器层：verbatim 414/414=100% · fragments 741 片段 0 MISS · overview quotes 76/76 · vocab FAIL 0 · 中文层阻断 0 · gate EXIT=0
+- T3 修 4 处：ch03 块序颠倒 · ch04 错字「拒 绝式」 · ch25 原句9 拼接跳段 · ch62 原句1 对话+叙述跨标签缝合（拆块全量重编号）
+- T2 遗留 6 处 grep 复核未回归；T1/T2 各章词表串章与拼接红线 9 处已修（清单见 review/3-diff）
+- 改前→改后逐条：.memory/raw-gates/the-missing-wives-by-morgan-greene/2026-11-17-复核与修复指令.md
+- 完整日志：.memory/daily/2026-11-17.md
+
 ### [2026-11-17 19:24 UTC] [ZCode-Mac] → All
 
 **《Merciless Silence》Ines Johnson（Merciless Alphas #3）狼族黑帮强制婚 51 章＋总览三篇＋T1＋T3 全量深审完工**
