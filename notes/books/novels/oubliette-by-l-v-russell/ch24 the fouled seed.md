@@ -37,15 +37,14 @@ modified: "2026-11-18"
 **为什么这样写**：庄园的画像里处处是征兆（乌鸦=死亡信使、干涸的护城河=防线已撤、grotesques=守卫）——她收到的每一份「馈赠」都带说明书；「it is mine」的赠予语与 ch04 的「you are mine」对仗：这个家族的爱只说归属，不说条件——因为条件在后文。
 **读者视角提示**：注意「干涸的护城河」——隔离母亲的同款水系此刻是干的：水会回来，时机由他定。记住这个细节。
 
-> **原句 4:** "…  … We pass over a stone bridge, the moat beneath long dried, the earth cracked. Withered reeds cling to the edges, sun-scorched and brown. But the house, oh, it is magnificent, a sprawling beast of stone and ivy. There are windows of stained glass, and carved grotesques watching above among the crows. It is a palace fit for a lady, for a queen. And he tells me it is mine."
+> **原句 4:** "… We pass over a stone bridge, the moat beneath long dried, the earth cracked. Withered reeds cling to the edges, sun-scorched and brown. But the house, oh, it is magnificent, a sprawling beast of stone and ivy. There are windows of stained glass, and carved grotesques watching above among the crows. It is a palace fit for a lady, for a queen. And he tells me it is mine."
 **中文理解**：他领她走过大路、绕过窄巷、登上台阶——一座大得能当城堡的庄园。乌鸦俯冲嘶叫，彩玻异兽俯瞰。这是一座配得上夫人、配得上女王的宫殿——而他告诉她：它是她的。
+**关键词**：a manor like a castle / living shadows / it is mine
+**为什么这样写**：庄园画像处处是征兆（乌鸦、干涸的护城河、异兽）——馈赠自带说明书；「it is mine」的赠予与 ch04「you are mine」对仗：这个家族的爱只说归属，不说条件。
+**读者视角提示**：注意「干涸的护城河」——水会回来，时机由他定。记住这个细节。
 
 
 
-**中文理解**（承上）：「来。」Piceus 终于把我从坟里拽出来，握住我的手——握得生疼——领我走过大路、绕过窄巷、登上台阶，走进一个奇观。一座大得能当城堡的庄园。乌鸦从窗沿俯冲嘶叫，叫声在浩大的夜里回荡。它们壮丽，是活的影子。 ……我们走过一道石桥，桥下的护城河早已干涸，土地开裂。枯芦苇扒在河沿，晒得焦黄。但那座房子——哦，它壮丽，一头石与常春藤铸成的匍匐巨兽。彩绘玻璃的窗，雕的异兽混在乌鸦里俯瞰。这是一座配得上夫人、配得上女王的宫殿。而他告诉我：它是我的。
-**关键词**：so enormous it could be a castle / They are magnificent, living shadows / a sprawling beast of stone and ivy / And he tells me it is mine.
-**为什么这样写**：庄园的画像里处处是征兆（乌鸦=死亡信使、干涸的护城河=防线已撤、grotesques=守卫）——她收到的每一份「馈赠」都带说明书；「it is mine」的赠予语与 ch04 的「you are mine」对仗：这个家族的爱只说归属，不说条件——因为条件在后文。
-**读者视角提示**：注意「干涸的护城河」——隔离母亲的同款水系此刻是干的：水会回来，时机由他定。记住这个细节。
 
 > **原句 5:** "“You must remain here, Sylvatica,” Piceus says, leading me inside. “You have sated me quite nicely, and I thank you for that.” … Inside the manor, there are tapestries, paintings of long-dead kings and queens; there are riches spilled out over cabinets and tables. Rain begins to lash behind the grand windows, and the sound is musical, a furious storm playing only for me. There are worse places to rest. … Piceus touches my face, nails leaving pain behind. “As am I, my little forget-me-not.”"
 
@@ -63,15 +62,14 @@ modified: "2026-11-18"
 **为什么这样写**：「a distance that never was」的悖论式措辞写出了抛弃的诡异：他与她从未有过距离（两百年贴身），此刻距离凭空落成；「a caress with teeth」的吻与牙同体——他的温柔永远是武器；恶种的宣判把怀孕写成感染：她的子宫被当成了第一个猎场。
 **读者视角提示**：把「独自怀着它」的命令与母亲 ch06 的弃婴命令对齐——Sylvatica 被弃时怀着东西，她的母亲弃她时她刚出生：这条轮回线在两句话里咬合。
 
-> **原句 7:** "…  … “You cannot leave me!” … “Oh, but I must.” His voice is too soft, a caress with teeth. “You are more than hunger now. I taste it in your blood, in your marrow, and when I suckle between your legs. A foul seed has taken root in your womb. Bear it well, and bear it alone.”"
+> **原句 7:** "… “You cannot leave me!” … “Oh, but I must.” His voice is too soft, a caress with teeth. “You are more than hunger now. I taste it in your blood, in your marrow, and when I suckle between your legs. A foul seed has taken root in your womb. Bear it well, and bear it alone.”"
 **中文理解**：他背转身去——一段从未存在过的距离落定。她追他、抓住他、撕开他的布：「你不能离开我！」
+**关键词**：a distance that never was / You cannot leave me! / hands ripping through the fabric
+**为什么这样写**：「从未存在过的距离」写出抛弃的诡异：两百年贴身，距离凭空落成；她的追逐是全书第一次她抓他不放。
+**读者视角提示**：把「独自怀着它」的命令与母亲 ch06 的弃婴命令对齐——这条轮回线在两句话里咬合。
 
 
 
-**中文理解**（承上）：他背转身去——一段从未存在过的距离在我们之间落定。他要丢下我——那时我就知道了。他动得快，我动得同样快。 ……我在回廊里追他，影子仿佛从宅子的角落里塌下来挡我的路。我冲下楼，尖叫他的名字——当他夺门而出、冲进雨里时，我抓住了他，手撕开他衣服的布。 ……「你不能离开我！」 ……「可我必须。」他的声音太软，是带牙的抚爱。「你如今不止是饥饿了。我在你的血里、你的骨髓里尝得到——在我舔舐你时也尝得到。一颗恶种已在你子宫里生根。好好怀着它，独自怀着它。」
-**关键词**：a distance that never was / You cannot leave me! / a caress with teeth / A foul seed has taken root
-**为什么这样写**：「a distance that never was」的悖论式措辞写出了抛弃的诡异：他与她从未有过距离（两百年贴身），此刻距离凭空落成；「a caress with teeth」的吻与牙同体——他的温柔永远是武器；恶种的宣判把怀孕写成感染：她的子宫被当成了第一个猎场。
-**读者视角提示**：把「独自怀着它」的命令与母亲 ch06 的弃婴命令对齐——Sylvatica 被弃时怀着东西，她的母亲弃她时她刚出生：这条轮回线在两句话里咬合。
 
 > **原句 8:** ""“You lie!” I scream at him, dragging my nails down the ruins of his shirt. “I am death!” … “Not you.” Piceus captures my hands with his, and thrusts me away. I fall at his feet, fingers splayed out in the puddles, muddied and cold. Then I feel it, the thing within me, a coiled serpent strangling around my womb. It takes from me, from my blood and my bones. I realize why my hunger has grown so."
 
@@ -82,15 +80,14 @@ modified: "2026-11-18"
 **为什么这样写**：「I am death!」的自封与「Not you.」的驳回两刀砍掉她最后的身份认证：她连「死亡」这个她引以为傲的物种资格都被没收——因为孕身的死亡不再是死亡，是温床；蛇绞子宫的意象把恶种写成活刑具：它饿，她才饿。
 **读者视角提示**：记住「Not you.」的两个字——它同时回答了「你不是死亡」和「死的不是我」。Piceus 的语言永远一箭双雕。
 
-> **原句 9:** "…  … “Take it from me!” I scrabble on the stone, desperate. “I do not want it! Tear it from me if you must, but do not forsake me.”"
+> **原句 9:** "… “Take it from me!” I scrabble on the stone, desperate. “I do not want it! Tear it from me if you must, but do not forsake me.”"
 **中文理解**：「你撒谎！」——「不是你。」她摔在他脚边，感觉到体内那条盘蛇绞着子宫——它从她的血与骨里取食。她的饥饿为什么越来越大，终于有了解释。
+**关键词**：I am death! / Not you. / a coiled serpent strangling around my womb
+**为什么这样写**：「I am death!」的自封与「Not you.」的驳回——她连「死亡」的物种资格都被没收：孕身的死亡不再是死亡，是温床。
+**读者视角提示**：记住「Not you.」两个字的 Double hit：Piceus 的语言永远一箭双雕。
 
 
 
-**中文理解**（承上）：「你撒谎！」我朝他尖叫，指甲撕过他破烂的衬衫。「我就是死亡！」 ……「不是你。」Piceus 抓住我的手，把我推开。我摔在他脚边，手指摊在积水里，沾满泥、冷透了。然后我感觉到了——体内那个东西，一条盘起的蛇绞着我的子宫。它从我身上取食——从我的血、我的骨头。我终于明白我的饥饿为什么越来越大。 ……「把它从我身上拿走！」我在石头上拼命抓挠。「我不要它！你必须的话就把它撕出来——但别抛下我。」
-**关键词**：I am death! / Not you. / a coiled serpent strangling around my womb / do not forsake me
-**为什么这样写**：「I am death!」的自封与「Not you.」的驳回两刀砍掉她最后的身份认证：她连「死亡」这个她引以为傲的物种资格都被没收——因为孕身的死亡不再是死亡，是温床；蛇绞子宫的意象把恶种写成活刑具：它饿，她才饿。
-**读者视角提示**：记住「Not you.」的两个字——它同时回答了「你不是死亡」和「死的不是我」。Piceus 的语言永远一箭双雕。
 
 > **原句 10:** "With the rain thrashing at my face, I obey, my feet sliding on the slick stone beneath, my heart burning with fury. I will not be left alone to rot and be forgotten. … By some witchery, the moat is filling fast; muddy waters rush around, churning the earth, filling the air with the sounds of howling, screaming. … “Wait!” I screech into the night. My feet slip, and the rain continues to fall; thunder rolls and the storm awakens fully, slashing open the sky in a scar of light."
 
@@ -108,15 +105,14 @@ modified: "2026-11-18"
 **为什么这样写**：指尖相擦的死是全书最残忍的一笔求救：他伸手不是救，是量距离——死亡在他伸手的那一刻落下：她的死是他允许范围的精确刻度；「The waters will not」把水写成同谋——这世上第一个拦住她的水，正是当年拦住她母亲的水：轮回的闸门在这一刻合龙。
 **读者视角提示**：把「水也不允许」与 ch12「She cannot cross the rushing water」对照——Sylvatica 终于继承了她母亲被囚的全部条款。她成了她母亲，一模一样。
 
-> **原句 12:** "…  … Piceus stands at the other side of the bridge; the waters below continue to churn to the sounds of wailing. “You cannot follow me, Sylvatica. I will not allow it. The waters will not.”"
+> **原句 12:** "… Piceus stands at the other side of the bridge; the waters below continue to churn to the sounds of wailing. “You cannot follow me, Sylvatica. I will not allow it. The waters will not.”"
 **中文理解**：Piceus 回头伸手，她几乎抓住——指尖相擦的瞬间她死了：心停、黑沫、七窍渗黑。如果这不是死，她希望它是。
+**关键词**：my fingers brush his / I am dying / The waters will not
+**为什么这样写**：指尖相擦的死是全书最狠的求救：他伸手不是救，是量距离——死亡落在允许范围的刻度上。
+**读者视角提示**：把「The waters will not」与 ch12「She cannot cross the rushing water」对照——她继承了母亲被囚的全部条款：她成了她母亲。
 
 
 
-**中文理解**（承上）：Piceus 回头，一手朝我伸来——我几乎就抓住了：指尖在桥上擦过他的指尖——然后我死了。心脏停跳，黑沫涌上嘴角，我倒下去。除了疼什么都没有——一种撕扯血管的凌迟。黑从我眼里、鼻里、耳里渗出来，糊满整张脸。我把它咳出来，它烧。如果这不是死，我希望它是。 ……Piceus 立在桥的另一头；桥下的水继续翻涌，伴着哀嚎声。「你跟不过来，Sylvatica。我不允许。水也不允许。」
-**关键词**：fingers brush his, then I am dying / If it is not death, then I wish it were. / I will not allow it. The waters will not.
-**为什么这样写**：指尖相擦的死是全书最残忍的一笔求救：他伸手不是救，是量距离——死亡在他伸手的那一刻落下：她的死是他允许范围的精确刻度；「The waters will not」把水写成同谋——这世上第一个拦住她的水，正是当年拦住她母亲的水：轮回的闸门在这一刻合龙。
-**读者视角提示**：把「水也不允许」与 ch12「She cannot cross the rushing water」对照——Sylvatica 终于继承了她母亲被囚的全部条款。她成了她母亲，一模一样。
 
 > **原句 13:** "I recoil away from the bridge, crawling away like a beast. “Do not leave me here. Do not leave me in this misery!” … “But I am sated.” He smiles, stepping further away. The sound of hoofbeats shakes through the storm; there is the sound of whinnying, a lowing screech. “You will not be alone, Sylvatica. I will not leave you alone.” … A new pain blooms, not within my chest nor my throat, but there far beneath my ribs, deep within a belly that has, for centuries, housed only blood. It rips me open, and I let it."
 

@@ -111,3 +111,33 @@ modified: "2026-11-18"
 **关键词**：a screaming heap / his head crack / skull and brain / I chew on the piece of his flesh
 **为什么这样写**：第一口人肉的仪式感拆成三个镜头：咬（jaw/bone）、坠（crack/brain seeping into the roots）、咽（chew and suck it down）——最后的吞咽句独立收尾，冷得像结账：她没有疯、没有吐，她吃完了；树根「伸着扭曲的爪」接住坠落的弟弟——森林全程在场。
 **读者视角提示**：这是全书最重要的一句独立段落——Sylvatica 的食欲起源完成闭环（鹿眼→父亲的血→弟弟的肉）。她后来成为的那个「母亲」，就是从这个树杈上长出来的。
+
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| translucent | 半透明的、近乎透明的 | Her hair has thinned, the brittle white strands near translucent with age. |
+| hunger-bruised | 饿出来的淤青般的 | There are shadows hollowed beneath his eyes, almost purple, as hunger-bruised as mine. |
+| infanthood | 婴儿期、襁褓时代 | Her ire with me grew, fueled by hunger and the burning regret of not tossing me aside in infanthood. |
+| gleaming | 闪亮的、泛光的 | His head is split open, a mess of skull and brain seeping into the snow, into the roots. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| forelocks | （马）额毛（复数） | Its forelocks are soaked too, so thick is the blood, so dark that it looks like ink. |
+| piss-soaked | 被尿浸透的 | Mother is wailing on her knees in the courtyard, soaking in the sheep piss-soaked snow. |
+| squashed | 被压扁、挤碎的 | His chest is bowed inward, organs squashed, his head dashed against snow-covered stone. |
+| strangeness | 陌生、奇异（之感） | I like the strangeness of it, the way his chin tilts up when I call it, the almost grin when he hears it is me. |
+
+### ⭐ 常用
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| courtyard | 庭院、院子 | I look on, as does Joan, both of us wondering who will scrub the courtyard. |
+| henhouse | 鸡舍 | It is everywhere, splattered over the white, over the henhouse. |
+| scrambling | 攀爬、抢抓（动词-ing 形式） | Godfrey’s fingers catch my hem, and I kick him away, scrambling higher and higher. |
+| foams | 起泡沫、泛沫 | From my perch high up in the oak tree, I watch as he writhes, watch as his legs shake and his mouth foams red. |
+
+## 一句话总结
+血像墨、雨是橙的：父亲死于自家马蹄，弟弟死于她的牙——Sylvatica 在森林的树杈上咽下第一口人肉，Piceus 的「Sylvatica」是这一天她收到的唯一礼物。
