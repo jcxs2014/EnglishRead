@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch03",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch03_chapter_3.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Odette去信工厂经理Monsieur Beauclerc后，收到厂用信笺回函约她周三两点到厂；到访当日她把Polo揣进口袋、由Merry搀扶下楼，问Merry要外衣——他取来父亲的冬季厚呢gentleman斗篷（扣不上，只能披肩）。",
+   "anchor": "suggesting that she arrive at the factory at two o’clock on Wednesday",
+   "interval": [
+    87,
+    156
+   ],
+   "verified": true
+  },
+  {
+   "fact": "工厂在城西北、近新火车站与塞纳河货运河道：约百英尺高的新古典建筑、四层长窗，正中拱门门楣刻着\"Huré Hosiery\"，庭院至少三百英尺见方，各层窗口都有面孔俯视她；她在绣房得知这些丝袜销往巴黎（Paris），其中一只绣着展翅天鹅、狂喜般缠上腿部的袜样令她脸红。",
+   "anchor": "an edifice standing some hundred feet tall",
+   "interval": [
+    2642,
+    2684
+   ],
+   "verified": true
+  },
+  {
+   "fact": "迎接她的Beauclerc方头红脸、棕色卷发、皮背心长靴——她认出他就是葬礼上盯着她皱眉的那个人，心一沉；车夫抱她全身重量放下车时，她看出Beauclerc脸上的嫌恶而畏缩，随后他一路对她流露轻蔑。",
+   "anchor": "she recognized him from the funeral and her heart sank",
+   "interval": [
+    3808,
+    3862
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：父亲办公室四扇高窗、水晶吊灯，宽桌上堆满丝绸线蕾丝如\"仙后之巢\"，摊开的笔记本全是棕墨水高超速写（叶、云、鸟、昂鼻的鹿、低头的野花）；她问是谁画的，Beauclerc答：\"是他的。你父亲的。\"——揭示父亲隐秘的诗性与官能美，与家中那个\"又快又紧又沉默\"的他判若两人。",
+   "anchor": "“Who?” he replied. “They’re his. Your father’s.”",
+   "interval": [
+    11254,
+    11302
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她被这美压垮、夺路逃出工厂；马车上她明白：父亲一生的疏离是刻意构筑、只对她关闭——现在问题只剩一个：她有没有勇气去查明为什么。",
+   "anchor": "did she have the courage to try to find out why?",
+   "interval": [
+    13255,
+    13303
+   ],
+   "verified": true
+  },
+  {
+   "fact": "两天后Merry告知父亲的贴身男仆已离开、未向她辞行；两人都走后，她决定首次走进父亲那间一直上锁的卧室（就在过道对面），在右侧床头桌上发现三帧女性银相框，逐帧端详后全部取走。",
+   "anchor": "she decided to enter her father’s bedroom",
+   "interval": [
+    13578,
+    13619
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她抱相框闯入历来禁区的厨房对质：厨娘认出第一帧是\"Madame Huré，你的母亲\"——Madame Dendron补充说她死前痛苦翻滚、口吐白沫，是被牡蛎毒死的，此后这个家再没上过牡蛎；第二帧是她的祖母（paternal父系），一位可敬的女士。",
+   "anchor": "poisoned by an oyster. They have never been served in this house since.",
+   "interval": [
+    18693,
+    18764
+   ],
+   "verified": true
+  },
+  {
+   "fact": "悬念/转折：第三帧——深色皮肤、火焰般卷发、戴重珍珠颈链、肩披和服式外衣、美得惊人的黑人女子（\"Not French\"）——厨娘与Dendron都推说不识，但Odette没漏看两人之间交换的眼色。",
+   "anchor": "But Odette hadn’t missed the look that passed between them.",
+   "interval": [
+    19201,
+    19260
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -90,9 +90,9 @@ modified: "2026-11-18"
 
 **关键词**：looked directly / frowned / shut his mouth / hurried off
 
-**为什么这样写**：三个动词节拍把一次对视拉成小小的戏剧：look、pause、frown——他不是没看见她，而是看见后「worked something out」。做了个开口的样子又闭嘴，比骂出声更狠：连话都嫌多说。作者不给名字，只由她猜「factory man」，这个悬念从他这记皱眉开始挂起。
+**为什么这样写**：三个动词节拍把一次对视拉成小小的戏剧：look、pause、frown——他不是没看见她，而是看见后「worked something out」。做了个开口的样子又闭嘴，比骂出声更狠：连话都嫌多说。作者不给名字，只由她猜「factory man」，这个悬念从他这记皱眉开始挂起。（同段前文提到的随行男孩不在引语内，其偷看发生在墓园一场。）
 
-**读者视角提示**：这是第一个「认出她、且对她的样子另有想法」的外人，儿子还在旁边偷看她。记住这张粗脸——他既然认得她，多半会回来。
+**读者视角提示**：这是第一个「认出她、且对她的样子另有想法」的外人。记住这张粗脸——他既然认得她，多半会回来。
 
 > **原句 9:** "At the second tree she collapsed, partly in grief, partly humiliation, and sank to her knees in the soft mud. She could not continue. The pale neighbor rushed to her."
 
@@ -102,7 +102,7 @@ modified: "2026-11-18"
 
 **为什么这样写**：让她倒下的不单是悲痛：partly in grief, partly humiliation 两个并列名词把身体崩溃写成社会事件——她是在众目睽睽之下跪进泥里的。软泥承接她：这片她一路「怕陷进去」的墓地，最终真的接住了她。邻居赶来放在句尾，「有人看见」悬在半空，下一拍才揭晓他的动作。
 
-**读者视角提示**：这是她十年来第一次被陌生人伸手——接下来看他怎么称呼她。同时留意她一贯的回应模式：摇头、拒绝搀扶、挥手赶人，她宁可跪着也不要被围观着救。
+**读者视角提示**：这是她跪倒后第一个赶来的外人——接下来看他怎么称呼她。同时留意她一贯的回应模式：摇头、拒绝搀扶、挥手赶人，她宁可跪着也不要被围观着救。
 
 > **原句 10:** "The sky was an empty space above the hole in which her father would lie for eternity. He had been such a fast man; must he lie still now forever? It seemed impossible to her."
 

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch02",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch02_chapter_2.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "清晨她在被下摸到腿上凸起的旧疤，并惦记她的\"装备\"——藏在洗手台下的偷来薄刀片、破布与乙醇；十年来靠自割来暂时缓解活着的痛苦，已成为如吃饭般的必需。",
+   "anchor": "a wafer of a blade, stolen and stashed with torn cloths and ethanol",
+   "interval": [
+    480,
+    547
+   ],
+   "verified": true
+  },
+  {
+   "fact": "父亲死后她连门外留的早餐都吃不下，在门上挂条谢客，连炉火和灯都不点，让自己像父亲一样被黑暗包裹。",
+   "anchor": "put a note outside her door to say that she did not wish to be disturbed",
+   "interval": [
+    1017,
+    1089
+   ],
+   "verified": true
+  },
+  {
+   "fact": "周六她仍未进食；又过一日，煤少年敲门无人应便自己进房——她已在房里哭了三天三夜，便盆满溢、双脚冻得发青。她问出他的名字：Merry（她惊问是英语\"快乐\"之意）；她估他约十七岁、比自己小四岁（即她二十一）。",
+   "anchor": "For three days and three nights she had cried, fretted, and sweated",
+   "interval": [
+    1539,
+    1606
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry从煤污背心口袋掏出侧面打孔的小盒，里面蜷着他养的棕色小鼠；她问\"Can I have him?\"，他点头相赠。她感动落泪，次日为鼠取名Polo（The explorer，探险家），并开口点了bisque、牛肉片、火腿、Comté、软卷、苹果挞与玫瑰果糖浆——重新进食。",
+   "anchor": "He nodded but then said, “Take him.”",
+   "interval": [
+    3990,
+    4026
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日晨她收到自称其父律师的Monsieur de Reignas的信，要求当天会面谈遗嘱；十二点差一刻（a quarter to twelve），她揣着揣在裙袋里的Polo，拖着身子下楼到客厅赴会。",
+   "anchor": "a missive from Monsieur de Reignas, who was apparently her father’s lawyer",
+   "interval": [
+    4987,
+    5061
+   ],
+   "verified": true
+  },
+  {
+   "fact": "律师宣读遗产：因她已二十一岁、成年，Rue Brancas的女式针织袜厂所有权将全部、永久归她；父亲还未经律师经手在巴黎Six, Rue Jean Bart, Saint-Germain购有房产，购于去年二月八日（the eighth of February last year）——Odette惊觉那正是父亲的生日；另有此宅及陈设、投资和一笔存于银行的巨款。",
+   "anchor": "“Since you are twenty-one and in your majority, the ownership will now pass",
+   "interval": [
+    8140,
+    8215
+   ],
+   "verified": true
+  },
+  {
+   "fact": "律师问她是否接管经营工厂，她答\"Me? No!\"；律师说工厂经理Beauclerc麾下有一百三十二名（one hundred and thirty-two）员工，料想他会急于得知她的意愿。",
+   "anchor": "He has one hundred and thirty-two souls under his employ",
+   "interval": [
+    10215,
+    10271
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：律师失口讥道\"总不能问你父亲，对吧？\"——两人都为这残忍一震，他僵躬后快步离去。她意识到必须亲自去工厂见Beauclerc、说明他别指望她，但也希望借此了解那个与她同住却几乎陌生的父亲——只有在他死后，他才可能向她显形。",
+   "anchor": "“Well, he can’t very well ask your father, can he?” he hissed.",
+   "interval": [
+    10364,
+    10426
+   ],
+   "verified": true
+  }
+ ]
+}

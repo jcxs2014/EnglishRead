@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch01",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch01_chapter_1.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "女管家Madame Dendron几天前来敲Odette的门，告知她父亲猝死、死因是心衰竭，说完便匆匆离开；此后除送煤少年送饭点灯外，无人再理会她（父女：Odette是Monsieur Huré的女儿）。",
+   "anchor": "A failure of his heart, she had said, and gone quickly away.",
+   "interval": [
+    1666,
+    1726
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她在楼下吊唁人群中认出唯一的熟人——约三十岁、瘦脸黑发的邻居；他独自靠在月桂树篱边，不与人攀谈，其余吊客她一个都不认识（都是Sèvres本地的体面人）。",
+   "anchor": "a tall man of about thirty, with a slender face and black hair",
+   "interval": [
+    3120,
+    3182
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键背景：Odette已整整十年没有走出过家门，因此此刻不知如何踏出前门去送父亲下葬。",
+   "anchor": "she had not left the house for ten years.",
+   "interval": [
+    4602,
+    4643
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点（决定）：灵车即将出发时，她拉铃唤来送煤少年，坚持\"I don't care what people will think\"，要他安排马车送自己去父亲的葬礼；少年答应去传话。",
+   "anchor": "“I wish to attend. That is, to go. To his funeral.”",
+   "interval": [
+    5190,
+    5241
+   ],
+   "verified": true
+  },
+  {
+   "fact": "出行前的窘迫：她只有三件宽松亚麻罩裙（两灰一深蓝，身上这件深蓝），唯一的帽子还是十岁时随家庭女教师短途外出、同Madame Dendron购物时戴的那顶，连披头用的围巾和外套都没有，只好披床毯充斗篷、穿少年取来的过小旧皮靴。",
+   "anchor": "But she had only three dresses, and they were loose-fitting linen smocks",
+   "interval": [
+    5988,
+    6060
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点（执行）：车夫搬来小踏板仍不够，便跳下车抓她手肘、用力把她推上两级踏板，最后用肩膀顶住她大腿后侧把她硬推进车厢；Madame Dendron冲下台阶想拦已来不及，车夫扬鞭出发——她十年来首次离家。",
+   "anchor": "he put his shoulder to the back of her thigh and heaved.",
+   "interval": [
+    9775,
+    9831
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点（墓地）：她坚持下车走近墓穴，却在第二棵紫杉旁崩溃，跪倒在软泥中；邻居赶来跪下问\"Mademoiselle Huré, may I be of assistance?\"又提出陪伴她，她两次摇头拒绝，他退到不远处守着。",
+   "anchor": "At the second tree she collapsed, partly in grief, partly humiliation",
+   "interval": [
+    15458,
+    15527
+   ],
+   "verified": true
+  },
+  {
+   "fact": "结局：众人等她耗去时间后，神父草草赶完仪式，棺木随即落入墓穴，Odette跪在原地难以置信地望着父亲被黑暗吞噬；吊客们低着眼匆匆散去乘 carriage，只有那位好心的邻居停步再 offering help，又被她挥手拒了。",
+   "anchor": "soon the coffin was disappearing into the dark pit",
+   "interval": [
+    16438,
+    16488
+   ],
+   "verified": true
+  }
+ ]
+}
