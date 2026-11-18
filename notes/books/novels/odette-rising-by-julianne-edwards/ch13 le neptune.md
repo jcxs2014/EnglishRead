@@ -60,7 +60,7 @@ modified: "2026-11-18"
 
 **关键词**：we created it together / constructed from love / our two breaths entwined / to Aphrodite and Venus
 
-**为什么这样写**：Berthe 的产权论是纯粹的诗学纲领：从砖瓦升格到空气（breaths entwined），再升格到神话（两位爱与美的女神）。这套语言的价值不在真假，在它揭示她如何持有世界——一切经由激情的所有权都不受法律管辖。上一章她刚说「法律无眼」，此处的神话收尾把她的「私人法系」补全。Odette 的产权证在这套语言面前，像用尺子量火焰。
+**为什么这样写**：Berthe 的产权论是纯粹的诗学纲领：从砖瓦升格到空气（breaths entwined），再升格到神话（两位爱与美的女神）。这套语言的价值不在真假，在它揭示她如何持有世界——一切经由激情的所有权都不受法律管辖。几句话之前她刚说「法律无眼」，此处的神话收尾把她的「私人法系」补全。Odette 的产权证在这套语言面前，像用尺子量火焰。
 
 **读者视角提示**：注意她说「created it together」时的语病级自信：谁出的钱（账单上写着答案）在她的叙事里不存在。爱是她的复式记账法：只记贷方。
 
@@ -122,7 +122,7 @@ modified: "2026-11-18"
 
 **为什么这样写**：她的反击第一次成建制：先划清继承边界（I am not him），再重新定义对方身份（lover, nothing more），最后把账单推回 Berthe 的社交网络。not my lover 一句把 Berthe 自己的「爱的哲学」折回来当矛——爱既然高于法律，就不该用法律向她收账。special friends 是带刺的复述：她听懂了「many colors of love」并用它冷笑。这是她今晚真正的胜利：不再为不懂规则道歉。
 
-**读者视角提示**：注意代价同步发生：她赢的同时把 Berthe 推向暴走——下一章的烟与沙拉就是收据。原则的胜利常常以关系的裂痕计价。
+**读者视角提示**：注意代价同步发生：她赢的同时把 Berthe 推向暴走——话音未落，烟与沙拉就是收据。原则的胜利常常以关系的裂痕计价。
 
 > **原句 12:** "Odette smelled mimosa, could almost feel the warmth from Berthe’s skin, and watched in awe as she lifted her champagne glass, parted her lips, and drank. She stubbed out a cigarette in Odette’s salad, gathered her purse, shrugged her fur onto her shoulders, and left."
 
@@ -132,7 +132,7 @@ modified: "2026-11-18"
 
 **为什么这样写**：退场是一整套符号动作：饮尽的酒（享受到底）、沙拉里的烟头（把侮辱留成纪念品）、甩上肩的皮草（连愤怒都要穿得漂亮）。awe 一词诚实得扎人——被羞辱者的目光里仍有征服者的余威。作者不写 Odette 的即时反应，把镜头留在那缕从生菜里升起的烟上：羞辱的余温比语言持久。
 
-**读者视角提示**：记住「沙拉里的烟头」这个画面：它是两人关系的第一个实体伤口。下一章见面时的气氛，全靠这只烟蒂计时。
+**读者视角提示**：记住「沙拉里的烟头」这个画面：它是两人关系的第一个实体伤口。两人下次见面的气氛（ch19 的茶会），全靠这只烟蒂计时。
 
 > **原句 13:** "She had been humiliated by that awful woman, and a part of her never wanted to see her again. But she also understood that Berthe Marie-Sainte was a sort of lifeline, her path to a patch of glittering light that had held her father and a world of possibility."
 

@@ -6,7 +6,7 @@ modified: "2026-11-18"
 # 35. Chapter Thirty-Five
 
 ## 本章导航
-- **一句话概括**：1898 年末，Beauclerc 携丧子之痛的儿子散步走回 Rue des Binelles——城堡真容令他 aghast、令孩子久违地笑出声；门内灯亮，Odette 如天使立于光中；他以「平安夜之邀」收场，内心认领：若她肯要，他就回家。
+- **一句话概括**：1898 年末，Beauclerc 携丧母之痛的儿子散步走回 Rue des Binelles——城堡真容令他 aghast、令孩子久违地笑出声；门内灯亮，Odette 如天使立于光中；他以「平安夜之邀」收场，内心认领：若她肯要，他就回家。
 - **情感弧线位置**：Part Three 的和解枢纽：他的忏悔（fripperies 判词作废）与她的新地标（fantastical beast）在同一坡上相遇——「回家」的动议由离开者自己提出。
 - **Tropes 兑现/反转**：「游子归来」兑现但延迟两年；「城堡震撼访客」兑现（含最挑剔的那位）；「父子治愈」借一间怪房子完成。
 - **人物弧线**：Beauclerc：从 unmoored 到「To return」——他终于把骄傲换成申请。Joseph：giggle 复活——丧母的孩子被一间「wizard 的房子」唤回。Odette：从窗后剪影变成 halo 天使——她不再需要证明什么。

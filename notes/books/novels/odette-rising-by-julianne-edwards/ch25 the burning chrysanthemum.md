@@ -122,7 +122,7 @@ modified: "2026-11-18"
 
 **为什么这样写**：建筑审判学：房子把 19 世纪的美学规范（古典、克制）执行成对她身体与头脑的判决——admonishment 一词让砖瓦有了法官的口吻。jail 与 judged 的递进：先囚禁，再羞辱。Something would have to change 的被动式是她的行动宣言的前身——这一夜，火替她烧掉了父亲的办公室，她决定让改变继续烧下去。作者把「重建」的动机写成了自我和解的工程。
 
-**读者视角提示**：对照 ch10「burned it down」的愿望：如今父亲之翼真的烧了——她曾许的愿以最残忍的方式兑现。下一章起，她要造的不是房子，是「不再审判她的形状」。
+**读者视角提示**：对照 ch10「burned it down」的愿望：如今父亲之翼真的烧了——她曾许的愿以最残忍的方式兑现。此后她要造的不是房子，是「不再审判她的形状」。
 
 > **原句 12:** "“No. They saved the factory, not me. They would have watched me burn. And I believe they would have felt sorry for that, but they don’t see me as one of them in any way. I should never have made Monsieur Beauclerc leave.”"
 

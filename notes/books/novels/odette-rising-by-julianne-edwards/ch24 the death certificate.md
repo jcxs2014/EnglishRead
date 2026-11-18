@@ -52,7 +52,7 @@ modified: "2026-11-18"
 
 **为什么这样写**：丧钟敲在地理上：她的死被判定为「错位」——南方人死在北方城，像植物被移栽致死（他 ch22 的自责在此结案）。A lifetime ahead 与 three and a half hours 的时差是全文最狠的算术：哀悼的单位从小时跳到余生。He could not do it 不是宣言，是直觉的失败——他不知道怎么独自站立。作者让他的一切身份（丈夫、父亲、外地人）在这一刻同时失重。
 
-**读者视角提示**：记住「不该死在这里」：这个念头里同时有爱、有责（自己的搬迁决定）、有归乡的引力——他会不会带她回 Gascony 安葬，是下一章的伏笔。
+**读者视角提示**：记住「不该死在这里」：这个念头里同时有爱、有责（自己的搬迁决定）、有归乡的引力——他会不会带她回 Gascony 安葬，这个悬念随他的背影悬置。
 
 > **原句 5:** "“We must pray for her soul, Papa. Have you prayed yet? She will need our prayers when she crosses the bridge to the land of the dead. Have you?”"
 
