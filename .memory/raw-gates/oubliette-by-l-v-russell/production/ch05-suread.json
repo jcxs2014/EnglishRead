@@ -4,52 +4,94 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch05_chapter_5.txt",
  "facts": [
   {
-   "fact": "洗浴加玫瑰瓣为「甜与纯真」除味；Rue 嚼瓣想由内而外——不够；一整座花园也遮不住体内之罪，且花瓣自己也会腐烂",
-   "anchor": "It would take a garden to disguise the sins within me",
-   "start": 1013,
-   "end": 1066
+   "fact": "试死失败后自白：不在这儿、不是现在",
+   "anchor": "I do not want to die,",
+   "start": 2352,
+   "end": 2373
   },
   {
-   "fact": "Rue 洗澡时自掐脖颈沉水试死：数到 30、40、52 秒肺尖叫才起身；对幽灵说「You all make it look so easy, like stepping through a door」",
-   "anchor": "I remain under for a count of thirty seconds",
-   "start": 1785,
-   "end": 1829
+   "fact": "Innocents 对质：Folkehaven 鬼不全是有罪的",
+   "anchor": "“Child.” Veronica shakes her head",
+   "start": 4584,
+   "end": 4617
   },
   {
-   "fact": "Innocents 对质：Veronica 反问 Folkehaven 的鬼难道全是渣男老主顾？——有女人、少女，「紧绳套与溺湖之肺」；还点破「我知道你跟它们说话」",
-   "anchor": "tight nooses and lake-drowned lungs",
-   "start": 4956,
-   "end": 4991
+   "fact": "供人链揭底：Ladies 送无辜者",
+   "anchor": "“Your mother’s Ladies bring them to her.",
+   "start": 5481,
+   "end": 5521
   },
   {
-   "fact": "无辜者来源：母亲的 Ladies 们供人——手巧的帮厨女、嘴不严的妓女、一两个忤逆的女儿；「Not often, if that soothes your senses」",
-   "anchor": "Your mother’s Ladies bring them to her",
-   "start": 5482,
-   "end": 5520
+   "fact": "马车窗外海洗陆地",
+   "anchor": "I turn to look out the window",
+   "start": 5821,
+   "end": 5850
   },
   {
-   "fact": "车窗外海浪洗岸：泡沫拖回海草与残骸，每一轮冲洗陆地；Rue 幻想躺湿沙上让水冲——「淹死之前能不能洗干净，我不知道」",
-   "anchor": "With each turn, the land is cleaned",
-   "start": 6075,
-   "end": 6110
+   "fact": "舞会花香腻人 vs Folkehaven 无伪",
+   "anchor": "The ballroom of Monkturn House is flocked with flowers",
+   "start": 6274,
+   "end": 6328
   },
   {
-   "fact": "Monkturn 舞会花香浓得头痛如遮盖隐秘恶臭；「至少在 Folkehaven 没有伪装——我在那里看自己，知道自己是谁」",
-   "anchor": "Mother revels in her displays of decomposition",
-   "start": 6611,
-   "end": 6657
+   "fact": "judge 免责+A whore 自贬",
+   "anchor": "“Does it matter?” I take a glass of golden bubbles",
+   "start": 7430,
+   "end": 7480
   },
   {
-   "fact": "母亲不能亲自赴舞会：她过不了环宅的急流；Rue 内白：两人曾共享一具身体一个子宫，脐带早被咬断吃掉，但血绳仍系着——只有她看得见",
-   "anchor": "She cannot cross the rushing water encircling our home",
-   "start": 8625,
-   "end": 8679
+   "fact": "母亲不能过环宅急流",
+   "anchor": "Because my mother cannot come herself",
+   "start": 8586,
+   "end": 8623
   },
   {
-   "fact": "蓝眼绅士以「你偷走最后一片牛肉」换一支舞——正是宴会上的年轻勋爵；替姐姐 Anne 陪 Horewith 赴宴；吻手（唇温透过丝绸）是「一个没有牙齿的吻」；报名 Oren Pengelly",
+   "fact": "共享子宫、血绳未断",
+   "anchor": "We shared a body, a womb",
+   "start": 8877,
+   "end": 8901
+  },
+  {
+   "fact": "蓝眼绅士邀舞",
+   "anchor": "“May I have this dance?”",
+   "start": 9942,
+   "end": 9966
+  },
+  {
+   "fact": "牛肉暗号认出彼此",
+   "anchor": "“One dance in exchange for the last slice of beef you stole from me.”",
+   "start": 10251,
+   "end": 10320
+  },
+  {
+   "fact": "替姐姐 Anne 陪 Horewith",
+   "anchor": "“I escorted Lord Horewith to your mother’s feast.",
+   "start": 10690,
+   "end": 10739
+  },
+  {
+   "fact": "Oren 只关心姐姐幸福",
+   "anchor": "“I know my sister is happy,” he says",
+   "start": 11282,
+   "end": 11318
+  },
+  {
+   "fact": "吻手：透过丝绸的温度",
+   "anchor": "He lifts my hand to his mouth",
+   "start": 11704,
+   "end": 11733
+  },
+  {
+   "fact": "报名",
    "anchor": "“Oren Pengelly, miss.”",
    "start": 11918,
    "end": 11940
+  },
+  {
+   "fact": "千次心跳、愿掏心",
+   "anchor": "I’d tear my own heart out to give to him",
+   "start": 12139,
+   "end": 12179
   }
  ]
 }
