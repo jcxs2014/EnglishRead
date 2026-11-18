@@ -1,0 +1,549 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch04 the red ink letter.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch04_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Bookshelves line the wall, heavy wooden cabinets with carved tops and glass doors. They swing open, the hinges rusted, r",
+          "ok": true,
+          "pos": 277
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "And I keep them, because she has given them to me",
+          "ok": true,
+          "pos": 860
+        },
+        {
+          "text": "There are no specters to keep me company tonight. Hope is not in her corner; I can still hear the faint sound of her noo",
+          "ok": true,
+          "pos": 911
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“It did not rain today,” my mother says, crawling onto the mattress beside me. A puff of dust rises in the air and circl",
+          "ok": true,
+          "pos": 1074
+        },
+        {
+          "text": "I do not turn, remaining on my back to look up at the canopy draped over the posts. The netting is frayed, and the lacin",
+          "ok": true,
+          "pos": 1242
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I walked down to the beach and watched the waves,” I reply. I wait to see if one of the carved cherubs on my bed blinks",
+          "ok": true,
+          "pos": 1498
+        },
+        {
+          "text": "There is a low hiss near my ear, not an exhale of breath, but a rasping of disgust. “Speak not to me of water, of stormy",
+          "ok": true,
+          "pos": 1702
+        },
+        {
+          "text": "“You asked me where I went.”",
+          "ok": true,
+          "pos": 1828
+        },
+        {
+          "text": "My mother moves, slowly, all limbs. “Then lie.”",
+          "ok": true,
+          "pos": 1855
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Where would you have me go?”",
+          "ok": true,
+          "pos": 1901
+        },
+        {
+          "text": "“Anywhere,” she says, laying her head on my chest, over my heart. “Anywhere but there.”",
+          "ok": true,
+          "pos": 1929
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I went into town, to the little tearoom down Puddle Lane,” I lie. “I met a friend there, and we had cake and the most d",
+          "ok": true,
+          "pos": 2141
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I think I will wear my blue dress, though it might be a little dark for a spring wedding. Then I walked through the park",
+          "ok": true,
+          "pos": 2360
+        },
+        {
+          "text": "and then",
+          "ok": true,
+          "pos": 2599
+        },
+        {
+          "text": "and then I came home.”",
+          "ok": true,
+          "pos": 2617
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“And after that?” Her voice is gentle, lovely. I can pretend it is without teeth",
+          "ok": true,
+          "pos": 2639
+        },
+        {
+          "text": "“I was home.”",
+          "ok": true,
+          "pos": 2719
+        },
+        {
+          "text": "For a moment, my mother is motionless beside me. She is cold; nothing moves beneath her skin, neither heartbeat nor magg",
+          "ok": true,
+          "pos": 2731
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I play along, knowing enough that my body craves this closeness, though I still yearn for more. To fill the empty space ",
+          "ok": true,
+          "pos": 3110
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "There is a solid blackness when I awake alone in my room. The candles have burned out, and the fire is cold. I am wrappe",
+          "ok": true,
+          "pos": 3307
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Fumbling on my nightstand, I find the boxes of matches and light a new candle. It warms some of the pitch, enough to mak",
+          "ok": true,
+          "pos": 3568
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She turns away from me, her black eyes fixing instead upon Hope swinging in her corner. She screams then, a horrid cry t",
+          "ok": true,
+          "pos": 3892
+        },
+        {
+          "text": "“Do stop that!” I wave the candle at her. “Do you think her plight is worse than yours? Cast your eyes elsewhere if you ",
+          "ok": true,
+          "pos": 4042
+        },
+        {
+          "text": "She pays me no heed; they rarely do",
+          "ok": true,
+          "pos": 4184
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I see it then, on the nightstand, a letter written in my mother’s hand. The ink is red",
+          "ok": true,
+          "pos": 4221
+        },
+        {
+          "text": "I wiggle out from beneath my cocoon of blankets, sending the nameless ghost fleeing. I unfold the parchment, squinting t",
+          "ok": true,
+          "pos": 4308
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "My Darling. How sweetly you sleep, how divine you look. I could almost believe that you were God-given, that something b",
+          "ok": true,
+          "pos": 4459
+        }
+      ],
+      "words": 79
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Pinned to the letter is an invitation, held there by a white moth, its skin pierced so finely that it still flutters aga",
+          "ok": true,
+          "pos": 4901
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 147,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 105,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 132,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 137,
+        "关键词": 0,
+        "为什么这样写": 129,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.47
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter 4",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 28,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 985,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

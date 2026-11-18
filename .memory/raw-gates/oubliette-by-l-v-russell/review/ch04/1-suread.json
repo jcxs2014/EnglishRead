@@ -1,0 +1,73 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch04",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "藏品柜：娃娃残件/标本/发绺盒",
+   "anchor": "They swing open, the hinges rusted, revealing the broken treasures within",
+   "start": 412,
+   "end": 485
+  },
+  {
+   "fact": "天气对账监控",
+   "anchor": "“It did not rain today,” my mother says",
+   "start": 1132,
+   "end": 1171
+  },
+  {
+   "fact": "命令说谎",
+   "anchor": "My mother moves, slowly, all limbs. “Then lie.”",
+   "start": 1935,
+   "end": 1982
+  },
+  {
+   "fact": "头枕心跳+禁海",
+   "anchor": "“Anywhere,” she says, laying her head on my chest",
+   "start": 2017,
+   "end": 2066
+  },
+  {
+   "fact": "盖被=试穿人性",
+   "anchor": "trying on pieces of humanity as one would slip on shoes",
+   "start": 3090,
+   "end": 3145
+  },
+  {
+   "fact": "裹尸布",
+   "anchor": "I am wrapped in blankets, tucked in so tight I can scarcely breathe, like a shroud",
+   "start": 3541,
+   "end": 3623
+  },
+  {
+   "fact": "无月光（卧室）",
+   "anchor": "There is no moonglow to soften the edges",
+   "start": 285,
+   "end": 325
+  },
+  {
+   "fact": "红墨水信自陈",
+   "anchor": "I was famine-stripped long before my undeath",
+   "start": 4789,
+   "end": 4833
+  },
+  {
+   "fact": "爱之限额",
+   "anchor": "You are wanted, darling one, if not loved, then wanted",
+   "start": 4957,
+   "end": 5011
+  },
+  {
+   "fact": "白蛾钉请柬",
+   "anchor": "held there by a white moth",
+   "start": 5112,
+   "end": 5138
+  },
+  {
+   "fact": "又一份祭品",
+   "anchor": "Another offering",
+   "start": 5307,
+   "end": 5323
+  }
+ ]
+}
