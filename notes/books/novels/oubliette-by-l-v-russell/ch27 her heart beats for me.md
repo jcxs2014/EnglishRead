@@ -24,21 +24,21 @@ modified: "2026-11-18"
 > **原句 2:** "There is nowhere to go except home; I cannot face Anne, cannot look into her forgiving face and tell her her brother is dead. That love was not enough to save him. … It was there, but my God, it was not enough. … I pass through the hallways of Folkehaven like a wraith. Even the shadows retreat, the ghosts silent and watching. If they can see my grief, they do not relish it. Their pity is worse; I do not want to share my sorrows, the loss of part of myself. It is mine. I will not share it."
 
 **中文理解**：除了家无处可去；我见不了 Anne，没法看着她那张宽恕的脸告诉她：她哥哥死了。那份爱没能救下他。 ……它在的，可是天哪，它不够。 ……我像幽灵一样穿过 Folkehaven 的走廊。连影子都在退，鬼们沉默地看着。就算它们看得出我的悲，也不觉得享受。它们的怜悯更糟；我不想分享我的悲伤——那是我身体的一部分没了。它是我的。我不分享。
-**关键词**：her forgiving face / That love was not enough to save him. / Their pity is worse / It is mine. I will not share it.
+**关键词**：her forgiving face / That love was not enough to save him. / Their pity is worse / It is mine. Not shared.
 **为什么这样写**：「宽恕的脸」比怒脸更难面对——Anne 的善良成了她无法递交死讯的原因；「It is mine」的占有宣言第一次用在悲伤上：她终于有一件完全属于自己的东西——失去。
 **读者视角提示**：把「不分享悲伤」与「不分享食物」（ch09 只喝不吃）并排：她的所有权清单只剩损失。Oren 与悲是同一笔遗产的两半。
 
 > **原句 3:** "My tears are gone. I am an empty being, nothing but bone and flesh moving only because I must. … So down I go, down and down and down, past the rats sitting black and plump on the steps, into the cold, the damp and the dark. I scrape back the earth, clawing at it until I reach her. … My mother slumbers deeply, her flesh peeling, decay blooming over her corpse. I slip down beside her, and she is featherlight in my arms. I curl into her, into the sharp sweetness. I fit within the hollow of her neck, like I was made to be there, a missing piece."
 
 **中文理解**：泪没了。我是个空的造物——只剩骨头与肉，动只因为不得不动。于是我往下走，一层又一层，走过蹲在台阶上又黑又肥的鼠，走进冷、潮与暗里。我扒开土，抓到她为止。 ……母亲沉睡着，皮在剥，腐在她尸上开花。我滑到她身边——她在怀里轻得像羽毛。我蜷进她，蜷进那种尖锐的甜里。我嵌进她颈窝——像生来就该在那儿，一块缺失的拼图。
-**关键词**：past the rats sitting black and plump / she is featherlight in my arms / I fit within the hollow of her neck, like I was made to be there
+**关键词**：past the rats sitting black and plump / she is featherlight in my arms / fit within the hollow of her neck
 **为什么这样写**：颈窝的嵌合回收 ch05 的「tucked beneath my chin」（Oren 怀里的同款姿势）——她把 Oren 的抱法移植到母亲身上：身体学不会新的拥抱，只会换人重演；「missing piece」的拼图术语是她对「完整」的最后定义。
 **读者视角提示**：把「同一个姿势、两个人」记成她的情感悲剧：她一生只有一个拥抱的形状，谁来填都往那个模子里塞。
 
 > **原句 4:** "I want to be held, to lie safely in the arms of another again and not taste dirt. I want it back. It is a cruel jest to dangle the warmth of love over my heart and allow me to touch it, hold it, cherish it, only for it to be ripped back before I can truly commit it to memory."
 
 **中文理解**：我想被抱着——再次安全地躺在另一个人的臂弯里，嘴里没有土。我要它回来。让爱的暖悬在我心口、让我碰它、抱它、珍惜它——然后在我真正把它记住之前就猛地收走：这是一个残忍的玩笑。
-**关键词**：not taste dirt. I want it back. / a cruel jest / only for it to be ripped back before I can truly commit it to memory
+**关键词**：not taste dirt. I want it back. / a cruel jest / ripped back before I can memorize it
 **为什么这样写**：「not taste dirt」把拥抱的敌人具体化为土——她一辈子的拥抱都会带土腥（母亲的）或雨味（Oren 的），干净的那次被收走了；「commit it to memory」的时限（没来得及记住）是失去的计量单位。
 **读者视角提示**：记住「残忍的玩笑」——它与 ch25 「It is a terrible, terrible thought」并排：她对自己处境的两个命名。都是病名。
 
@@ -52,14 +52,14 @@ modified: "2026-11-18"
 > **原句 6:** "There is blood around her mouth, and it is red; it is splattered over her nightgown, and it has stained her pale hands down to her knuckles. She wears Oren as I do, both of us dripping in blood and ash. … “What is there to do?” I ask. “We are the only ones left here at Folkehaven, just you and me. Is that what you wanted?” … Her answer hisses through her teeth. “Yes.” … My mother strokes my cheek, smearing my skin with dirt and old blood. “We can live beneath the ruins, down here, where it is safe. You will not have to leave me.”"
 
 **中文理解**：她嘴边有血——红的；溅在睡裙上，把她苍白的手一直染到指节。她穿着 Oren，跟我一样——我们两个都滴着血与灰。 ……「还能做什么呢？」我问。「Folkehaven 只剩我们俩了——你和我。这就是你想要的吗？」 ……她的回答从齿缝里嘶出来。「是。」 ……「直到它塌在我们头上？」 ……母亲抚我的脸，把泥与陈血抹在我皮肤上。「我们可以活在废墟底下——就在这儿，安全的地方。你就不用离开我了。」
-**关键词**：She wears Oren as I do / We are the only ones left here at Folkehaven / Is that what you wanted? “Yes.” / You will not have to leave me.
+**关键词**：She wears Oren as I do / only ones left at Folkehaven / Is that what you wanted? “Yes.” / You will not have to leave me.
 **为什么这样写**：「穿着 Oren」的血衣并列是全书最惊悚的亲子装：母亲吃了他，女儿埋了他——血的衣服两代同款；「Yes」的一个字回答把独生女计划书公开：Veronica、Ladies、Oren 都清场了，名单上只剩 Rue。
 **读者视角提示**：把「这就是你想要的吗」的问题记住——它在 ch27 的答案（Yes）与 ch06 的弃婴令（dispose of it）首尾相扣：母亲要的从来是「只有我们」，只是先扔后留的顺序颠倒了一次。
 
 > **原句 7:** "“I would miss the sunlight.” … She shakes her head, freeing more maggots from her hair. “You will forget in time as I have done.”"
 
 **中文理解**：「我会想太阳光的。」 ……她摇头，从发里又抖落几条蛆。「你会忘的——像我已经忘了那样。」
-**关键词**：I would miss the sunlight. / You will forget in time as I have done.
+**关键词**：I would miss the sunlight. / forget in time as I have
 **为什么这样写**：对阳光的乡愁与母亲遗忘论的对撞——她的挽留只有一句话（sunlight），母亲的回答只有一句判决（你会忘）：地牢余生谈判在两句话内结束。
 **读者视角提示**：把「忘」的判词与 ch23 的「I wish to be forgotten」连线：她曾被母亲遗忘过一次，现在被要求自忘。太阳是她最后的抗辩理由——也是最无力的一条。
 
@@ -87,7 +87,7 @@ modified: "2026-11-18"
 > **原句 11:** "“Do you love me?” I demand, needing it still, even now.  My hands are knotted in her. “Tell me you love me.” … My mother opens her mouth, skin tearing at the edges, teeth too sharp, so sharp. She does not answer, but more black spills from her eyes before she finally stills, and moves no more. … I have to rip her fingernails from my face; her last embrace will scar."
 
 **中文理解**：「你爱我吗？」我逼问——到了这时我仍然需要它。我的手绞在她身体里。「告诉我你爱我。」 ……母亲张开嘴，皮从边缘撕裂，牙太尖、那么尖。她没有回答——更多的黑从眼里涌出来——然后她终于静止，再也不动了。 ……我不得不把她抠进我脸的指甲一根根掰下来；她最后的拥抱会留疤。
-**关键词**：Do you love me? I demand, needing it still, even now. / She does not answer / more black spills from her eyes
+**关键词**：Do you love me? I demand, still / She does not answer / more black spills from her eyes
 **为什么这样写**：最后的索爱得到的是沉默加黑泪——母亲至死没有说「爱」，但她的手到死没有松开：答案与回答分了家；「last embrace will scar」把全书第一处疤（ch01 Veronica 抓的 lace）与最后一处连成疤的目录。
 **读者视角提示**：把「没说出口的爱、没松开的手」记成本书对母爱的最终判词：它不是没有，是它只会用爪子表达。Rue 脸上的疤就是这份爱的收据。
 
