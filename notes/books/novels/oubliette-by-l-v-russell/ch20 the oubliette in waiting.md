@@ -45,7 +45,7 @@ modified: "2026-11-18"
 > **原句 5:** "Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
 
 **中文理解**：月光淌在 Folkehaven 的台阶上，我放慢脚步，在湿石上小心翼翼。然后我冲过走廊、穿过冰冷的黑暗与看着我的影子。铁楼梯等着我——沉默、结实、招我靠近、招我下降。我用发抖的手点亮壁灯上一支泛黄的蜡烛，从尖钉上拔下来。它在我指下油腻腻的。 ……我往下走，一层又一层，去到更冷、更稠的空气里。去那个我母亲沉睡的空坑——那片被我挖开的土，我想把她留在那儿。埋了她。忘了她。
-**关键词**：down and down and down / the gouged-out earth / Bury her / Forget her / It is greasy beneath my fingers
+**关键词**：go, down and down
 **为什么这样写**：楼梯「beckoning」的招引与她的犹豫并置——下行的冲动一半是牵挂一半是狠念；「Bury her. Forget her.」两个短句是全书书名的出土现场：oubliette（遗忘之地）的动词形态在她心里演练过；蜡烛「greasy」的手感细节让恐怖带上了厨房的油腻。
 **读者视角提示**：记住「oubliette in waiting」——这个法语词（囚牢+遗忘）是书名的谜底：她想把母亲变成被遗忘的囚徒。愿望与结局的距离就是全书剩下的页数。
 
@@ -59,7 +59,7 @@ modified: "2026-11-18"
 > **原句 7:** "“Fuck.” … In the library, in the dark, the ghost lingers. She is bowed over her books, threads of herself rising like mist. She does not look at me, does not move, but keeps her head low. I hear the ghost then, her soft wailing. Her hands are near her head, fingers drifting smoke-like through the echoes of her hair. And I turn, to what she is hiding from, to the near pitch black of the corner. To the sounds of crunching."
 
 **中文理解**：「操。」 ……屋子安静，走廊里没有哭嚎、没有迷途的魂。它在寂静里显得更小。我走过一间间空房——全都没点灯，只有碎掉的月光从窗玻璃扎进来，和我这支蜡烛的微光。书房里，黑暗中，那个幽灵还逗留着。她伏在书上，自己的丝线像雾一样往上冒。她不看我，不动，只把头压得低低的。然后我听见了她——那声软软的哭。她的手护着头，手指像烟一样飘过她头发的回声。而我转向她在躲的东西——转向那个近于漆黑的角落。转向那阵咀嚼声。
-**关键词**：empty of wailings and lost souls / threads of herself rising like mist / what she is hiding from / the sounds of crunching
+**关键词**：in the library, in
 **为什么这样写**：「Fuck」的粗口砸在空坑前——她全部的恐惧浓缩成一个字；幽灵护头的姿势（躲着角落）是活体警报：她不躲母亲，她躲母亲嘴里的声音；「crunching」的音效把恐怖做成听觉投放——读者先听见咀嚼，再看见菜。
 **读者视角提示**：注意幽灵「does not look at me」的默契——她用背对着告诉 Rue：别看。两代「女儿」在这一刻共用一个求生反应。
 
@@ -73,7 +73,7 @@ modified: "2026-11-18"
 > **原句 9:** "Her skin lies in ruins, pieces of cheek dangle so I can see the bone beneath. Still, my mother feasts, her mouth over Veronica’s, carving out a space in her skull as though she were a lantern. … I want to turn away, hide my face like the weeping ghost, yet I am entrapped in my mother’s viciousness, a moth pinned with nowhere to go. There is pity now, for Veronica, and it comes in a slow wave. She may have deserved her ending, but it hurts nonetheless."
 
 **中文理解**：鲜血流过她被毁掉的下颌，淌下胸口，滴进底下的地毯。她的皮肤烂成废墟，脸颊的碎片吊着，露出底下的骨头。母亲仍在进餐——嘴扣着 Veronica 的，在颅骨里刻出一个空间，像她是一只灯笼。 ……我想别过脸，像那只哭灵的幽灵一样把脸藏起来——可我被母亲的恶毒钉住了，一只无处可去的蛾子。怜悯此刻来了，为 Veronica，来得像一阵慢浪。她也许活该有这样的下场——但疼还是疼。
-**关键词**：carving out a space in her skull / like a lantern / a moth pinned / it hurts nonetheless
+**关键词**：lies in ruins, pieces
 **为什么这样写**：灯笼的比喻把开颅写成工艺——空腔里可以点灯，母亲的进食永远带着装置感；「a moth pinned with nowhere to go」回收蛾子意象（钉蛾镇纸）——她终于站到了标本那一侧；怜悯的「slow wave」是 Rue 的道德新器官：它第一次为 Veronica 延迟生效。
 **读者视角提示**：记住「deserved but hurts」的双轨判决——她的道德账本从这刻起有两个贷方：公正与痛。以前她只记前者。
 
@@ -101,7 +101,7 @@ modified: "2026-11-18"
 > **原句 13:** "And I hear her. She follows on mad legs, her screams racing ahead, echoing. … I slam my bedroom door closed, locking it quickly, hoping it is enough to keep her out. I have never needed to keep her out. My mother slams against the door, her screaming a clamor of hunger and insanity. She bangs and bangs and bangs, fingernails scraping at the wood. She does not speak, does not cry my name. … I want her to say my name."
 
 **中文理解**：然后我听见她。她用疯了的腿追来，尖叫跑在前面，一路回荡。我摔了又爬起，踉跄着扑上台阶、绕过回廊——这座迷宫般的宅子，我比了解自己更了解它。 ……我甩上卧室门，飞快落锁——希望这够把她挡在外面。我从不需要把她挡在外面。母亲撞上门，尖啸是饥饿与癫狂的嘈杂。她砸、砸、砸，指甲刮着木头。她不说话，不喊我的名字。 ……我想要她喊我的名字。
-**关键词**：labyrinthine house / never needed to keep her out / does not cry my name / I want her to say my name.
+**关键词**：hear her. she follows
 **为什么这样写**：「比了解自己更了解它」的自白把宅子放进了身份排序：地理先于自我——Folkehaven 是她身体的延伸地图；「I want her to say my name」是本章的疼痛顶点：门外的怪物不肯喊她——她要的不是原谅，是被点名：哪怕以猎物的身份被喊。
 **读者视角提示**：把「want her to say my name」与 ch11 的「I wish to be forgotten」对读——从想被忘到想被喊，她的愿望在整个六月里翻了个面。中间发生了什么？她学会了要。
 
