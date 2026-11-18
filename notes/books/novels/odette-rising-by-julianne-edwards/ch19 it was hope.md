@@ -38,7 +38,7 @@ modified: "2026-11-18"
 
 **中文理解**：「而我们三个，孤身、带痛。失去了男人的女人。这个世界对我们这样的人 certainly 不仁慈。」她拿起香槟瓶递向 Arielle。「但我们必须向逝者致敬，永远别忘记——我们曾经被爱过。」
 
-**关键词**：all three alone and in pain / Women without their men / salute those we have lost / we once were loved
+**关键词**：all three alone and in pain / Women without their men / salute those we have lost / once were loved
 
 **为什么这样写**：Berthe 的悼词把三个陌生女人的痛缝进同一条句法（alone and in pain），而「once were loved」的过去时是全章最柔软的一刀：她笃信被爱是所有人的既有资产——恰是 Odette 从未拥有过的。toast 用错器举行，圣俗错位反而成了真仪式。作者让这个「最糟糕的下午」在这一杯上翻面：混乱降格为共同体的入场券。
 
@@ -148,7 +148,7 @@ modified: "2026-11-18"
 
 **中文理解**：「另一个选择是向恶霸投降。你逃去乡下，我拉起吊桥、缩回我的黑房子，我们俩都把日子过得很小。说到底，最大的反抗，难道不就是幸福吗？」
 
-**关键词**：give in to the bullies / haul up my drawbridge / live very small lives / the greatest act of defiance would be to be happy
+**关键词**：give in to the bullies / haul up my drawbridge / live very small lives / the greatest act of defiance
 
 **为什么这样写**：全书政治学的核心句在此落成：把「幸福」定义为「反抗」——对 bullies（反犹房东、恶管家、嘲弄的街道）最响的回击不是控诉，是活得丰盈。drawbridge 与 dark house 是她对自己生活史的自嘲式总结：她的城堡哲学（ch10「safety of our castles」）被她亲手点名批判。作者让这个提议以问句收尾——把决定权连同尊严一起递还给 Arielle。
 
@@ -156,9 +156,9 @@ modified: "2026-11-18"
 
 > **原句 15:** "It was hope."
 
-**中文理解**：那是希望。
+**中文理解**：等待 Arielle 答复的静默里，她被一种简单而强大的感觉淹没——那是希望。
 
-**关键词**：It was hope
+**关键词**：hope
 
 **为什么这样写**：全书至此最长的一章，以全书最短的段落收束——一个主语、一个系动词、一个名词。作者把前面所有具象的努力（饼、画、房、钱）折叠成一个抽象词，如同把整场戏的道具收进一只盒子再贴上标签。独段成行的排版让它像一声钟：Part One 在「hope」这个词上停摆，逼读者合卷前先默念一遍。这不是结论，是开关——后面的书页都由它供电。
 
