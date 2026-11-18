@@ -43,10 +43,10 @@ modified: "2026-11-18"
 **为什么这样写**：羞耻被当众重演——作者让加害者把受害者的恐惧变成才艺表演，这正是校园霸凌的标准升级路径：从伤害到取乐；"imitating"一词同时完成对 Sam 的二次羞辱和对读者的二次激怒。
 **读者视角提示**：注意 Sam 的反应是"pretending to laugh at himself"——他用假装自嘲保住面子，这招与被 Joker 欺负时的沉默是同一套生存策略的升级版。
 
-> **原句 6:** “Yeah, well, I’m just sorry that we didn’t get to try it,” Avery said, adjusting her hat. That didn’t sound like she and Max purposely left him behind. Was he missing something?
-**中文理解**：Avery 又补了句奇怪的道歉："我只是遗憾我们没来得及试它。"——这听起来完全不像俩人故意甩下他。Sam 是不是漏了什么？
-**关键词**：didn’t get to try it / purposely left him behind / missing something
-**为什么这样写**：一枚疑问句楔进复仇叙事——作者故意让 Avery 的"道歉"与"甩人"的事实对不上口供，为真相埋下第一道裂缝；Sam 的"missing something"是本章唯一一次从受害叙事里抬头张望的瞬间。
+> **原句 6:** “Yeah, well, I’m just sorry that we didn’t get to try it,” Avery said, adjusting her hat. “Wait, what do you mean?” asked Sam. That didn’t sound like she and Max purposely left him behind. Was he missing something?
+**中文理解**：Avery 补了句奇怪的道歉："我只是遗憾我们没来得及试它。"Sam 急问"什么意思？"——这听起来完全不像俩人故意甩下他，他是不是漏了什么？
+**关键词**：didn’t get to try it / What do you mean / missing something
+**为什么这样写**：一枚疑问句楔进复仇叙事——作者故意让 Avery 的"道歉"与"甩人"的事实对不上口供，Sam 追问的"Wait"标记出他的思维第一次卡壳；为真相埋下的这道裂缝，比任何反转台词都值钱。
 **读者视角提示**：记住这句话的疑点：他们"没能试"的是什么？Silverback 他们明明玩了——除非"它"另有所指。这个口误级别的线索，会在后面某章被追认。
 
 > **原句 7:** “Okay. In twenty yards, the canal splits into two,” David said through his bullhorn. “On the left is a high-difficulty course with plenty of challenges, like churning rapids, jutting rocks, and low-hanging tree limbs. The right side of the canal is pretty tame.”
@@ -55,10 +55,10 @@ modified: "2026-11-18"
 **为什么这样写**：运河的岔口是本章的道德岔口——作者用左难右易的物理选择题给接下来的"追与不追"搭好舞台；"low-hanging tree limbs"的细节也为水上追逐预先布置好危险道具。
 **读者视角提示**：记住"二十码"与"左/右"——复仇计划的所有变量（时间、体力、路线）都浓缩在这个岔口上。Avery Max 选了左，Sam 的选择定义了他是谁。
 
-> **原句 8:** Sam’s arms were quivering with each stroke of the paddle, but the truth was his heart wasn’t in this revenge plot anymore. He couldn’t see himself doing this mean thing. No matter what Avery and Max had done to him.
-**中文理解**：Sam 手臂随每桨发颤，但真相是心已经不在复仇上了——不管 Avery 和 Max 对他做过什么，他都做不出这种刻薄事。
+> **原句 8:** Sam’s arms were quivering with each stroke of the paddle, but the truth was his heart wasn’t in this revenge plot anymore. Paradise Sam might have one thing in common with Regular Sam. He couldn’t see himself doing this mean thing. No matter what Avery and Max had done to him.
+**中文理解**：Sam 手臂随每桨发颤，但真相是心已经不在复仇上了——"Paradise Sam"与"Regular Sam"终于有了一个共同点：不管 Avery 和 Max 对他做过什么，他都做不出这种刻薄事。
 **关键词**：quivering / heart wasn’t in this / mean thing
-**为什么这样写**：身体的诚实先于嘴巴——作者让"手臂发颤"与"心不在"互为表里，把道德抉择写成生理反应；"no matter what"三个词是 Sam 良心的免责声明兼最终判决：受害者的身份豁免不了加害的意图。
+**为什么这样写**：身体的诚实先于嘴巴——作者让"手臂发颤"与"心不在"互为表里；"Paradise Sam / Regular Sam"这组自我命名首次合流：他一直在假装两个人，此刻发现底线是同一个；"no matter what"则是良心的最终判决，受害者的身份豁免不了加害的意图。
 **读者视角提示**：对照第 3 块的"no consequences"法则——本章最动人的反转就是这条法则被它自己的作者否决：Sam 宁愿不当复仇者，也不愿变成 Joker。
 
 > **原句 9:** Avery and Max were out of sight. Jordan was silent. And Sam was relieved.
