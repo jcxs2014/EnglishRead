@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch02",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch02_paradise.txt",
+ "facts": [
+  {
+   "fact": "Lily 第一次双人滑翔伞吓得大喊要死了，表姐 Jordan 在旁边让她放松。",
+   "anchor": "“Oh my God! We’re going to DIE!” Lily screamed.",
+   "start": 0,
+   "end": 47
+  },
+  {
+   "fact": "这次滑翔伞起因是双胞胎弟弟 Sam 的挑衅（dare），Jordan 澄清不是自己劝的。",
+   "anchor": "Jordan had the nerve to laugh. “Don’t blame me. Sam dared you, remember?”",
+   "start": 546,
+   "end": 619
+  },
+  {
+   "fact": "导游 Rebecca 的讲解在 Lily 脑中回放：Paradise 是佛罗里达礁岛群之外最大的人工私人岛屿。",
+   "anchor": "Paradise is the largest privately owned and operated man-made island off the Florida Keys.",
+   "start": 2053,
+   "end": 2143
+  },
+  {
+   "fact": "岛呈菱形，Bliss Bridge 横跨贯穿全岛的运河，东侧是成人别墅区 Tranquil Cove，西侧是留给未满十八岁客人的 Thrill Harbor。",
+   "anchor": "Bliss Bridge is the major pathway over the canal that winds through our entire diamond-shaped island.",
+   "start": 2454,
+   "end": 2555
+  },
+  {
+   "fact": "这次全包度假是奶奶 Penelope 送的圣诞惊喜礼物，Lily 连怎么称呼她都不知道，一年只见一面左右。",
+   "anchor": "This all-expenses-paid vacation was a surprise Christmas gift from their grandmother, Penelope.",
+   "start": 4475,
+   "end": 4570
+  },
+  {
+   "fact": "Lookouts 是驻守 Thrill Harbor 的现场监护人，腰别大对讲机，介于救生员与保安之间，Lily 觉得没法在他们眼皮下放松。",
+   "anchor": "Lookouts were on-site chaperones stationed around Thrill Harbor with large walkie-talkies on their belts.",
+   "start": 9873,
+   "end": 9978
+  },
+  {
+   "fact": "Jordan 坦白全家要搬去温哥华，说父母只说要 a fresh start，她一直气到说不出口。",
+   "anchor": "“No, I’m not okay,” Jordan snapped. “We’re moving. To Vancouver, of all places.”",
+   "start": 11901,
+   "end": 11981
+  },
+  {
+   "fact": "Sam 提议立誓把这次假期过成最棒的，用吐口水握手封誓——呼应几年前尼亚加拉瀑布附近鬼屋酒店找鬼的旧约，最后鬼只是只松鼠。",
+   "anchor": "“It’s a spit-shake. To seal the pact,” he explained.",
+   "start": 14637,
+   "end": 14689
+  }
+ ]
+}
