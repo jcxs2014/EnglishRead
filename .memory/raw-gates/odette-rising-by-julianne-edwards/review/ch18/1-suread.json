@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch18",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch18_chapter_18.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Odette 醒来时额头肿着一个大包、太阳穴作痛、臀上有擦伤；她看见 Polo 在床边的盒子里安然无恙才瘫回枕上；想起 Berthe 昨夜来过，幸福与羞耻一齐涌上心头。",
+   "anchor": "a large lump on her forehead, pain across her temples, and sores on her buttocks",
+   "interval": [
+    232,
+    312
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 说明前日去向：他是护送那两个女人（Dendron 与厨娘）去了东方某地、路途很远，还说自己并不知情、回来才发现；Berthe 是昨天下午来的、当晚 Odette 上床后离开；昨日他们在全城各处找遍了才找到她。",
+   "anchor": "I had to help the two of them to a place in the East. A long way.",
+   "interval": [
+    995,
+    1060
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 的母亲来了——这是 Madame Marie-Sainte 的安排（她叫 Merry 前夜去接人，并给了一封信让他交到她家那些人手里）；Odette 推断必是父亲生前告诉过 Berthe 他家仆役的情形（管家、厨娘、车夫她都知晓），却唯独从未提起她本人。",
+   "anchor": "It was Madame Marie-Sainte’s doing. Told me to go and fetch her last night",
+   "interval": [
+    1567,
+    1641
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 察觉自己被人脱衣擦洗过（皮肤带着皂香、头发里的酒味没了）——正是 Merry 的母亲在她昏迷时为她翻身、擦洗、拍干、揉过她的肉；素来厌恶被人触碰的她分不清自己是羞耻还是感激涕零。",
+   "anchor": "Someone had seen her bare flesh, had rolled her over, had scrubbed",
+   "interval": [
+    2809,
+    2875
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 的母亲在厨房烤出两只滚圆的兔肉派、一盘明天吃的半月酥（内含奶酪与腌肉丁，需放底层烤炉回热）、周五周六的吃食、还有一盏浇着奶油汁、点缀西葫芦与红洋葱的塔；随后她乘马车离开（她另有差事、来一趟不易，只说若能再来便会来），Odette 听着马车驶离、心往下一沉。",
+   "anchor": "The others are for Friday and Saturday. The tart can be eaten cold",
+   "interval": [
+    5409,
+    5475
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她记起 Felds 一家明天要来喝茶；本想推掉（家里已没有女仆管家、只有大块奶酪酥饼待客，比不上隔壁 Arielle 家的排场），但又渴望见到她、想听孩子们的笑声充满空宅——决定明早派 Merry 去面包店买蛋糕，茶由她亲手来沏。",
+   "anchor": "She would dispatch Merry to the boulangerie to buy cakes in the morning.",
+   "interval": [
+    7490,
+    7562
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 那边：Huré 家小姐“像流浪汉一样在 Sèvres 街头边走边吃”的流言传到他耳中，他认定她疯了（“She’s deranged”）、拒绝妻子叫他去看望的再三劝说（妻子说“She might be in difficulty”“You need each other”，他吼“God damn you, woman!”还摔了咖啡杯）；但独处时他心里承认真相——herons 其实可能真的是个好主意（与他当面告诉 Odette 的“买家不喜欢”自相矛盾）。",
+   "anchor": "the truth about the herons: that they might indeed have been a good idea.",
+   "interval": [
+    10710,
+    10783
+   ],
+   "verified": true
+  },
+  {
+   "fact": "独处的 Odette 想到自己进巴黎闯过、墙上看她的恨意眼神却与儿时无异；她断定自己太脆弱、不属于 Berthe 与 Grimard 那种活在众人注视里的世界，只能缩回这栋房子——做“这座瓷镇上的一只裂碗”、对已有的心怀感激（“She remained unwanted”）；但转念又想：Berthe 毕竟来过——究竟是什么把她引到自己门前的？",
+   "anchor": "a cracked bowl in this porcelain town, and be grateful for what she had",
+   "interval": [
+    9099,
+    9170
+   ],
+   "verified": true
+  }
+ ]
+}

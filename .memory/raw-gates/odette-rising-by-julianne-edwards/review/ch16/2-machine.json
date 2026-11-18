@@ -1,0 +1,349 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch16 the english maid.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch16_chapter_16.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Her whole life she had looked for some kindness from this woman. That she had received none had, until now, seemed reaso",
+          "ok": true,
+          "pos": 2099
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“It was closed. Gates locked. The man said the workers had been sent home. There’s not enough work.”",
+          "ok": true,
+          "pos": 3070
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "All you’ve done is nearly bankrupt us by not transferring funds, while you sat at home and ate cake. After you finally d",
+          "ok": true,
+          "pos": 5739
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I did. I told you, but you didn’t listen. We don’t have a designer and without a designer, we have no designs; without ",
+          "ok": true,
+          "pos": 6479
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "And then she realized that it was because he hadn’t looked in Paris. He hated the city so much, he wouldn’t do it, would",
+          "ok": true,
+          "pos": 9089
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“As I have said to you before, I run a respectable house, with standards. I would prefer not to serve the Felds. It’s a ",
+          "ok": true,
+          "pos": 10382
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Mademoiselle, that really is not acceptable. We cannot have Jews taking tea in this house; you must not have them on an",
+          "ok": true,
+          "pos": 11593
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She had read about antisemitism in the papers, she knew about the military man, Dreyfus, whom many said had been convict",
+          "ok": true,
+          "pos": 11271
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“But then, they were all ashamed of you, weren’t they? Even Madame Huré. She was most ashamed of all. Poor woman, what s",
+          "ok": true,
+          "pos": 12461
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Yes, look at me like that, why don’t you? You are nothing, you arrived as a mewling brat, covered in a slimed caul, sli",
+          "ok": true,
+          "pos": 13095
+        }
+      ],
+      "words": 84
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 130,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Sixteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2683,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

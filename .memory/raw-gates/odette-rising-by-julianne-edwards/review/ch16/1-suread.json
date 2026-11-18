@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch16",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch16_chapter_16.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "十月伊始：Berthe 的欠债已全部付清（应为 Odette 所为，她只盼一句回音），但 Odette 仍未收到她的任何音讯；Beauclerc（工厂管理人）关于买家会议（heron 图样）也毫无回音，Odette 觉得自己被切断了消息。",
+   "anchor": "Berthe’s debts had been paid in full, but Odette had heard nothing.",
+   "interval": [
+    72,
+    139
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 吩咐女管家 Dendron 转告厨娘：下周要请 Madame Feld 带她的两个孩子来喝茶（Feld 一家是她的新朋友，Arielle 曾是 Odette 有生以来的第一位访客；两个孩子已不再上当地学校）；Dendron 冷冷回以“Again?”并含沙射影，两人几乎撕破脸。",
+   "anchor": "I will be asking Madame Feld to tea next week. With her two children.",
+   "interval": [
+    1009,
+    1078
+   ],
+   "verified": true
+  },
+  {
+   "fact": "周一早晨 Odette 等不及，派煤童 Merry 去工厂探问 heron 图样的进展；Merry 皱着眉回来报：工厂整个关门、大门上锁、工人已被遣散回家——“There’s not enough work”——而 Odette 此前一无所知。",
+   "anchor": "Gates locked. The man said the workers had been sent home.",
+   "interval": [
+    3183,
+    3241
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 命司机带路，半小时后赶到 Beauclerc 位于工厂附近的一栋方正住宅，不甚淑女地捶门，要当面质问工厂为何关闭。",
+   "anchor": "Half an hour later, they arrived at a good-sized square house near the factory.",
+   "interval": [
+    3851,
+    3930
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 对她咆哮摊牌：“We can’t make stockings if we have no orders!”——没有设计师就没有设计、没有货就没有订单；他指责 Odette 不转资金、几乎让工厂破产，还去巴黎让他们难堪；他已派 Dupont 去里昂（Lyons）找设计师，工人已减为半薪，但只能再撑两周，之后就得裁员；靠工厂吃饭的工人家庭已陷入绝境。",
+   "anchor": "I have put the workers on half-wages. But for another two weeks only",
+   "interval": [
+    7838,
+    7906
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键谎言：Beauclerc 当面谎称买家“不喜欢 herons”；而他的内心独白承认真相是她的 heron 画稿画得太丑、错在他自己——但他不肯对她说。",
+   "anchor": "No, they did not care for herons,” he said.",
+   "interval": [
+    8445,
+    8488
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章转折：Dendron 要求豁免 Feld 家茶会的差事，声明自己经营的是有规矩的体面人家、“不愿接待犹太人”——Odette 这才意识到 Feld 家是犹太人（并想起报上的 Dreyfus 案：许多人说这位军人只因是犹太人就被判叛国，法国因此露出黑心）；她怒极起身下令：“Get out of my house”“Leave. And never, ever come back.”",
+   "anchor": "I don’t think we should be having Jews in our home.",
+   "interval": [
+    10871,
+    10922
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Dendron 反扑揭出全书最大秘密：她已服侍二十一年（“Twenty-one years of serving you”），Odette 其实是父亲 Huré 先生被一名来访的英国女仆勾引所生的私生女、就出生在厨房地板上（“a slimed caul”裹身）；生母因被迫守谎而痛苦不堪，若非牡蛎致死还将继续煎熬——Dendron 更指控“是你害死了她”。Odette 崩溃跪地，挥手打中 Dendron 的膝盖令她尖叫；Merry 冲进来却径直跪在 Odette 面前扶她起身、点火掌灯伺候她上床入睡。",
+   "anchor": "the result of your poor father seduced by an English slut, a visiting maid",
+   "interval": [
+    13808,
+    13882
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch17",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch17_chapter_17.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "次日清晨宅中死寂、厨房再无往常的磕碰声响；Odette 卧床回想与 Beauclerc 的冲突及 Dendron 的恶语：若那些话属实，她便不是照片上那位小脸棕发的母亲（Adeline Huré）的女儿，而是英国女仆之女、甚至“不完全是法国人”；她怀疑父亲是否残忍到逼可怜的妻子把这个婴儿当亲生的抚养——也不知他疏远独女究竟是嫌她丑陋，还是懦夫畏罪。",
+   "anchor": "Cruel enough to force his poor wife to raise her, the baby, as her own?",
+   "interval": [
+    1107,
+    1178
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 平生第一次走进仆人后区：洗衣房里晾着她自己的两条衬裤（“two pairs of her own drawers”）、大食品储藏室、窄陡楼梯；楼上 Dendron 的房间已清空——衣橱洞开、墙上留有挂过十字架的痕印、褥垫上放着一只布袋（两条叠好的棕色围裙、一只旧皮夹、一串系布带的钥匙）；厨娘的房间也被腾空、枕上残留几缕棕发，像是刚被强行带走。她不悔昨日的暴怒，却彻底失去了与家庭（祖母、母亲、父亲）最后的联结。",
+   "anchor": "Madame Dendron had gone.",
+   "interval": [
+    4472,
+    4496
+   ],
+   "verified": true
+  },
+  {
+   "fact": "饿着肚子的 Odette 对灶台和那只未剥皮的兔子束手无策，开了重新塞塞的红酒瓶直接对嘴喝、只找到干饼干和认不出的熟肉条；她想起 Merry 证实过的那晚：父亲当年正是从 Berthe 的房子里被救回、就搁在这张厨房桌上——他暗中所见的女人应是女仆 Nanette。",
+   "anchor": "The woman he’d seen in the shadows must have been the maid, Nanette.",
+   "interval": [
+    6376,
+    6444
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她在餐厅坐上“自己的椅子”，冲着长桌另一端父亲的空座怒吼质问（“Why didn’t you speak to me!”“I was a child, just a little girl!”），挥拳砸向核桃木餐桌——桌子哗啦坍塌，她扑倒在地、脸砸在硬木面上，剩酒浇了她一头一脸；她反而大笑，决定把这张素来厌恶的桌子劈了当柴烧。",
+   "anchor": "the table collapsed, pitching her forward, face smashing into the hard surface",
+   "interval": [
+    8536,
+    8614
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她取下客厅的 Canaletto（明明是幅小杰作、只因从不喜欢），踢了蓝沙发一脚；走出门回望这栋房子，意识到这是“男人的房子”——由男人构想、设计、建造，所谓“女人主内”不过是一时的软装点缀；父亲的书房里没有一本书、没有他的痕迹，只有一瓶陈年白兰地（她喝了一口又吐在墙上）——她一脚踢墙，连个印子都留不下。",
+   "anchor": "In the salon, she took down the Canaletto, not because it was bad",
+   "interval": [
+    9400,
+    9465
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日近午她决定步行去 Boulangerie Thibault 买蛋糕（本约十五分钟的路她走了近一个小时，途中被马车里两位女士凝视）；店里原有三位女客见她顿感惊愕噤声；酒渍满身的她点下面包与蛋糕，付款时才发现自己身无分文（她的裁缝账单向来是 Dendron 送银行结付）；老板娘 Thibault 夫人说出 Huré 家在我们这里有账户、每周由 Dendron 结账，仍旧把两袋沉重的食物递给了她。",
+   "anchor": "The Huré household has an account with us. Madame Dendron settles it weekly.",
+   "interval": [
+    19318,
+    19394
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她等不及回家，坐在矮墙上当街把蛋糕吃了个精光（马车夫、两个骑马的男人、过路行人都驻足围观，保姆抱走了凑近的小女孩）；酒足饭饱后她又冷又醉、爬不回长坡上的家，索性盘算干脆冻死在这面墙上——“死也要死在自己选择、满腹蛋糕的时刻”；又过一个小时街上空无一人、无人过问，尿液开始渗出、Polo 也吓得僵住（本章最低谷）。",
+   "anchor": "To die at one’s own choosing and full of cake was surely to die well.",
+   "interval": [
+    21299,
+    21368
+   ],
+   "verified": true
+  },
+  {
+   "fact": "黄昏时分她自家的马车以骇人的车速冲下山来——Merry 跳下车奔向她，Berthe 随即下车（斗篷闪烁、毛皮帽如光环、含羞草香气醉人）；归途中 Odette 紧贴着这位美人，自觉又臭又臃肿，Berthe 却没有躲开，只是一遍遍低语“It’s all right, it’s all right”，直到到家。",
+   "anchor": "there was Berthe, sliding down from the carriage, her cape shimmering",
+   "interval": [
+    23680,
+    23749
+   ],
+   "verified": true
+  }
+ ]
+}
