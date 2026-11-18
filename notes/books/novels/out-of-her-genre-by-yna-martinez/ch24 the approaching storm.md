@@ -87,7 +87,7 @@ modified: "2026-11-18"
 > **原句 11:** "Later that night, in her newly rented apartment downtown, Chloe poured herself a glass of pinot noir and slumped onto her designer sofa, staring blankly at the dark ceiling. … Her phone buzzed on the glass coffee table. … She picked it up. A new message had popped up in the three-way group chat from Jaemee, with Jen already tagged. … Jaemee: 🚨 GIRLS! Clear your calendars this Thursday afternoon! Our girl Yna has her first major public book reading, media interview, and live photoshoot at the Devonian Gardens! We need the ultimate VIP cheer squad in the front row. Who’s in?! … Chloe read the message. A soft, appreciative smile touched her lips, grateful for the distraction and eager to support the warm, funny author who had comforted her at the pub. … She tapped out a quick reply:"
 
 **中文理解**：当晚晚些时候，市中心她新租的公寓里，Chloe 给自己倒了一杯黑皮诺，瘫进设计师沙发，呆望着黑暗的天花板。手机在玻璃咖啡桌上震了。她拿起手机。Jaemee 在三人组群里弹出新消息，Jen 已被圈。Chloe 读了消息。一抹轻软的、心怀感激的微笑碰到她的唇——为这个分散注意力好消息，也为那个在 pub 里安慰过她的温暖、有趣的作者。她飞快敲出回复：说什么也不会错过。我到场！
-**关键词**：a glass of pinot noir / I wouldn't miss it for the world. I'll be there!
+**关键词**：a glass of pinot noir / She tapped out a quick reply
 **为什么这样写**：风暴的最后一块拼图自动入位：Chloe 出于感激走向应援席——她不知道自己出席意味着什么。作者让复仇般的信息差以善意的外形完成集结：没有人做错事，但所有人都在走向同一个引爆点。
 **读者视角提示**：记住「我到场」——周四花园里最锋利的那根线，由最无辜的手接上。
 
