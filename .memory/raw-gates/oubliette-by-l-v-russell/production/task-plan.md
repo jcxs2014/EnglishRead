@@ -15,11 +15,11 @@
 | ch | 语料 | 内容 | commit |
 |---|---|---|---|
 | 01 | ch01_chapter_1 | Chapter 1 · I · RUE · MARCH 1821（绿裙污渍/陪 Horewith 前夜） | 46c8fe482 |
-| 02 | ch02_chapter_2 | Chapter 2 · II（宴飨 Lord Horewith） | |
-| 03 | ch03_chapter_3 | Chapter 3 · III（Veronica 洗裙） | |
-| 04 | ch04_chapter_4 | Chapter 4 · IV（房间藏品） | |
-| 05 | ch05_chapter_5 | Chapter 5 · V（沐浴） | |
-| 06 | ch06_sylvatica | Sylvatica · 1523 冬（弃婴） | |
+| 02 | ch02_chapter_2 | Chapter 2 · II（宴飨 Lord Horewith） |2c14f82cc |
+| 03 | ch03_chapter_3 | Chapter 3 · III（Veronica 洗裙） |255bfd04d |
+| 04 | ch04_chapter_4 | Chapter 4 · IV（房间藏品） |52413fa2a |
+| 05 | ch05_chapter_5 | Chapter 5 · V（沐浴） |739c777d7 |
+| 06 | ch06_sylvatica | Sylvatica · 1523 冬（弃婴） |18f164c75 |
 | 07 | ch07_chapter_6 | Chapter 6 · VI · RUE · MARCH 1822（Maltby 遗骸） | |
 | 08 | ch08_chapter_7 | Chapter 7 · VII（地下 hollow） | |
 | 09 | ch09_chapter_8 | Chapter 8 · VIII · APRIL 1822 | |
