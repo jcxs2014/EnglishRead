@@ -14,7 +14,7 @@ modified: "2026-11-18"
 
 ## 精读
 
-> **原句 1:** "There is an invisible tether between Folkehaven and Anne’s cottage, one of my own making. When dawn breaks, gilding the town in summer light, I slip away like a wraith. I can be with Oren there, with Anne and Edward, and I do not lose myself to time, able to return to my mother well before darkness falls. It is enough, these stolen hours, with their blue skies and warm air. I am encaged within his arms, and it is a prison I would not fight my way out of."
+> **原句 1:** "There is an invisible tether between Folkehaven and Anne’s cottage, one of my own making. When dawn breaks, gilding the town in summer light, I slip away like a wraith. I can be with Oren there, with Anne and Edward, and I do not lose myself to time, able to return to my mother well before darkness falls. It is enough, these stolen hours, with their blue skies and warm air. … I am encaged within his arms, and it is a prison I would not fight my way out of."
 
 **中文理解**：Folkehaven 与 Anne 的小屋之间有一根看不见的 tether——我自己织的。黎明破晓、夏日金光镀满小镇时，我像幽灵一样溜出去。在那里我可以陪 Oren、陪 Anne 和 Edward，还不会把自己耗散在时间里——天黑前就能回到母亲身边。够了，这些偷来的时辰，连同它们的蓝天与暖风。我们喝茶吃蛋糕，我嵌进 Oren 的怀里——下巴抵着，好像我天生就该长在那儿。他从不求我留下、不求我离开母亲；可当午后的光斜下去、影子开始在木地板上打哈欠般拉长时，他把我抱得更紧。我被囚在他的臂弯里——那是一座我不会挣脱的监狱。
 **关键词**：one of my own making / these stolen hours / I am encaged within his arms / a prison I would not fight
@@ -108,7 +108,7 @@ modified: "2026-11-18"
 > **原句 14:** "She snatches at me, fingernails in my neck, wrenching out more of my hair with her other hand. “The moat is dry, my darling girl,” she repeats, forcing me to look out of the window, into the night beyond. “And I will be your suffering.”"
 
 **中文理解**：她一把抓向我——指甲掐进我的脖子，另一只手扯脱我更多的头发。「护城河是干的，我亲爱的女孩，」她重复着，强迫我望向窗外、望向墙外的夜。「而我，会成为你的苦难。」
-**关键词**：fingernails in my neck / forcing me to look outside / And I will be your suffering.
+**关键词**：fingernails in my neck / look out of the window / And I will be your suffering.
 **为什么这样写**：威胁的对象借窗定位——窗外是 Anne 的方向：她不必点名，地理已经指认；「I will be your suffering」把下一场灾难的主语先签了名。
 **读者视角提示**：记住「she knows, she knows, she knows」的三连回声——母亲不是在威胁某个抽象未来，她已经锁定了 Oren。下一章的灾难从这里起爆。
 
