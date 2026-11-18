@@ -6,7 +6,7 @@ modified: "2026-11-18"
 # 11. Chapter Seven: Lily
 
 ## 本章导航
-- **一句话概括**：Lily 独自逃回、把 Jordan 留在"咆哮声"边上，向 Rebecca 报告"near the Plunge + some thing roaming"却被归因于风暴致幻；全员聚齐后兄弟俩为 Nan 摊牌——"Mom still isn't sorry for what she did"——而 Sam 和 Jordan 把怒目对准了她。
+- **一句话概括**：Lily 独自逃回、把 Jordan 留在"咆哮声"边上，向 Rebecca 报告 Plunge 附近"有东西在游荡"却被归因于风暴致幻；全员聚齐后兄弟俩为 Nan 摊牌——"Mom still isn't sorry for what she did"——而 Sam 和 Jordan 把怒目对准了她。
 - **情感弧线位置**：全书第一条主线正式收网——Lily 的"growl"报告进入官方系统却被驳回，Nan 的秘密被撕开一角，三人组内部出现第一道裂痕。
 - **Tropes 兑现/反转**：兑现"报警没人信"的经典悬疑节拍；双重反转——抢先认错的又是 Jordan，而真正报信的 Lily 反而成了被清算的人。
 - **人物弧线**：Lily（逃离者→报案者→被瞪者）；Rebecca（亲切导游→程序机器）；Elliott（防备 Nan 的兄长，首次说出"她没资格获得原谅"）；Jordan（崩溃仍抢责）。

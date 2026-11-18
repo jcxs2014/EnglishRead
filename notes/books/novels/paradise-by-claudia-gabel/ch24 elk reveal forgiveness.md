@@ -119,7 +119,7 @@ modified: "2026-11-19"
 |---|---|---|
 | blow a gasket | 大发雷霆（原义：引擎垫圈爆裂） | “They’re going to blow a gasket. Especially Dad,” Lily countered. |
 | rapid-fire | 连珠炮般的 | Before Jordan could respond, rapid-fire thunder rang out above them, so loud she swore it could burst both her eardrums. |
-| troubleshooting | 排查故障 | Grandpa Carl’s cart had broken down a couple times, and he’d taught her how to fix it, so she was praying she could manage to troubleshoot on her own. |
+| troubleshoot | 排查故障 | Grandpa Carl’s cart had broken down a couple times, and he’d taught her how to fix it, so she was praying she could manage to troubleshoot on her own. |
 | evade | 躲开；规避 | She managed to evade it, but the golf cart drove over something and there was a loud thumping noise. |
 
 ### ⭐ 常用

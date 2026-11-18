@@ -197,6 +197,16 @@ SHORT_Q = 20
 # 用于「源文本太短 ⇒ 块数下限不适用」判据（见 check() 内注释）。
 MIN_SRC_PARA = 40
 
+# ⚠️ 2026-11-19（paradise-by-claudia-gabel ch07/ch21 实测）：装置章（Hype 广播）源文本
+#   仅 ~550 字符，chapter.sh 的官方建议就是「本章 101 词，建议 2–2 块」（契约建议与
+#   本 lane 的 3 块下限直接矛盾——chapter.sh rc=0 而 gate 报越界=口径分歧先修工具）。
+#   契约（bookform --contract 第 8 条）的硬门是「新书 2–15」，本 lane 的 3 块下限是
+#   「言情精简格式」的旧载体。沿用本工具两处既有结构性豁免的同一判法
+#   （Beach Read 段数豁免 / Fold Catastrophes 篇幅豁免）：**源文本归一后短于
+#   SHORT_SRC 字符（≈800 词，正是 chapter.sh「800 词 2 块就够」的建议线）时，
+#   下限不适用（降为提示）。上限照旧——注水仍要报。
+SHORT_SRC = 4000
+
 _TYPO = {'’': "'", '‘': "'", '“': '"', '”': '"',
          '—': '-', '–': '-', '…': '...'}
 
@@ -433,7 +443,7 @@ def _seg_para_index(seg: str, ps, pn):
 #   `No, Lady…”` 尾部省略号）紧贴字母/引号——把它们也切成 piece 会产出孤立引号段
 #   （`”` 单独成段），在 text/ 恒查无 ⇒ 拼接红线假红（7 章实测）。
 #   判据不放宽：两侧贴字的省略号是**原文的省略成分**，留在 piece 内逐字取证。
-pieces = [x.strip() for x in re.split(r"(?<=\s)…(?=\s)|^…(?=\s)|(?<=\s)…$", seg) if x.strip()]
+    pieces = [x.strip() for x in re.split(r"(?<=\s)…(?=\s)|^…(?=\s)|(?<=\s)…$", seg) if x.strip()]
     if not pieces:
         return -1
     for pi, p in enumerate(ps):
@@ -658,6 +668,9 @@ def check(md: Path, book: Path):
         elif is_anth and len(tn) < ANTH_SHORT_SRC:
             out.append(f"{md.name}: ⚠️ 提示·短篇合集短篇目（源文本 {len(tn)} 字符"
                        f"<{ANTH_SHORT_SRC}），10 处下限不适用（现有 {nq} 块）")
+        elif len(tn) < SHORT_SRC:
+            out.append(f"{md.name}: ⚠️ 提示·源文本仅 {len(tn)} 字符（<{SHORT_SRC}，"
+                       f"≈{SHORT_SRC // 8} 词内），块数下限不适用（现有 {nq} 块）")
         else:
             # ⚠️ 2026-10-13 修正（AGENTS 第 3 条「假红型先修工具」；Some Other Time 38 章
             #   终验实测）：原实现**上限也按阻断型报**，而全库实测（420 本含 ch*.md 的书）

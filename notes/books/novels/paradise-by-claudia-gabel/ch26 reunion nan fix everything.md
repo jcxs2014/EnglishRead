@@ -118,7 +118,7 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | battery-operated | 电池供电的 | Sam locked eyes with a male counselor who was distributing little battery-operated personal fans. |
-| distress | 悲痛；危难 | “Lily,” Jordan said, her voice a human distress signal. |
+| somber | 阴沉的；气氛凝重的 | Their mood was already somber, as vacation in Paradise had been ruined, but all Sam could think about was showing the Feeding Frenzy memo to his parents and telling them what they knew. |
 | sauntered | 溜达着走；从容漫步 | Then the green room door opened and Nan sauntered out. |
 | predicaments | 困境；狼狈处境 | “I’ll think that over. But yes, for now you can join our party until other arrangements can be made, given your parents’ future legal predicaments.” |
 

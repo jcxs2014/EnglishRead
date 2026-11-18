@@ -10,7 +10,7 @@ modified: "2026-11-19"
 - **情感弧线位置**：Sam 线的成长考卷——从"情绪暂停的自动驾驶"到想当回"保护者"，本章他第一次把勇气用在了别人身上；三人组与 Avery Max 在共同恐惧里完成最后的合流。
 - **Tropes 兑现/反转**：兑现"猛兽对峙+静默后撤"的经典惊险戏；双重反转——全书最焦虑的 Lily 成为现场总指挥，而引爆危机的是最"无所谓"的 Max 的一只闹钟。
 - **人物弧线**：Sam（ numb → 保护者冲动）；Lily（焦虑者→commanding 的领袖，全章弧光之巅）；Milo（知识即指挥权）；Jordan（首次说"I'm scared"）；Max（闹钟肇事者）。
-- **叙事手法**："Calm was a fantasy / a joke / 100 percent extinct"三连排比给冷静判死刑；对峙戏全程用"不许做"的否定句清单写动作；章末闹钟以"air-raid siren"的比喻收束，喜剧道具变成恐怖扳机。
+- **叙事手法**：「冷静是幻想、是笑话、百分之百灭绝」三连排比给冷静判死刑；对峙戏全程用"不许做"的否定句清单写动作；章末闹钟以"air-raid siren"的比喻收束，喜剧道具变成恐怖扳机。
 
 ## 精读
 > **原句 1:** “RUN!” Sam wasn’t sure if someone had really screamed that, or if the voice was just in his head. Either way, he did what he was told without questioning it. Somehow, he was ahead of the pack, dashing toward the elevator door with blinders on. Once he got there, he screeched to a halt and pressed the button to the main floor.
