@@ -42,7 +42,7 @@ modified: "2026-11-18"
 **为什么这样写**：投降的姿势配宣战的台词——「soft surrender」与「storm」在同一行对撞：他给她的选项温柔，给母亲的版本是攻城；「storm into Folkehaven」是 Oren 的人的第一次军事表态：为爱渎神的人，也敢为爱破门。
 **读者视角提示**：把「明天」这个期限记下——它将在后文被反复违约与兑现。Oren 的每次行动都有时间戳，这是他与母亲的差别：母亲的时间是永恒，他的时间是明天。
 
-> **原句 5:** "Moonlight pools over the steps of Folkhaven, and I slow, my feet careful on the wet stones. Then I tear through the hallway, through the cold darkness and watching shadows. The iron staircase waits for me, silent and solid, beckoning me to come closer, to descend. With a trembling hand, I light one of the yellowing candles from the sconces, and pluck it from its spike. It is greasy beneath my fingers. … Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
+> **原句 5:** "Moonlight pools over the steps of Folkhaven, and I slow, my feet careful on the wet stones. Then I tear through the hallway, through the cold darkness and watching shadows. The iron staircase waits for me, silent and solid, beckoning me to come closer, to descend. With a trembling hand, I light one of the yellowing candles from the sconces, and pluck it from its spike. … Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
 
 **中文理解**：月光淌在 Folkehaven 的台阶上，我放慢脚步，在湿石上小心翼翼。然后我冲过走廊、穿过冰冷的黑暗与看着我的影子。铁楼梯等着我——沉默、结实、招我靠近、招我下降。我用发抖的手点亮壁灯上一支泛黄的蜡烛，从尖钉上拔下来。它在我指下油腻腻的。 ……我往下走，一层又一层，去到更冷、更稠的空气里。去那个我母亲沉睡的空坑——那片被我挖开的土，我想把她留在那儿。埋了她。忘了她。
 **关键词**：beckoning me to descend / the gouged-out earth / Bury her. Forget her. / It is greasy beneath my fingers
@@ -56,7 +56,7 @@ modified: "2026-11-18"
 **为什么这样写**：空坑的物证清点（绸片、血印）是一次法医式确认：母亲自己出来了——她不需要被埋，她埋了别人；「bloodied outline」的轮廓像案发现场的人形粉笔线，只不过是母亲自己留下的；「tears me apart」的撕扯感把埋与忘的落空直接写进身体。
 **读者视角提示**：注意血印的「形状」——母亲的离开连签名都盖好了。她去哪儿了不用猜：家里有活人。
 
-> **原句 7:** "“Fuck.” … The house is quiet, the hallways empty of wailings and lost souls. It feels smaller in its silence. I pass empty rooms, all unlit save for the shattered moonlight piercing through the glass and the feeble light from my candle. In the library, in the dark, the ghost lingers. She is bowed over her books, threads of herself rising like mist. She does not look at me, does not move, but keeps her head low. I hear the ghost then, her soft wailing. Her hands are near her head, fingers drifting smoke-like through the echoes of her hair. And I turn, to what she is hiding from, to the near pitch black of the corner. To the sounds of crunching."
+> **原句 7:** "“Fuck.” … In the library, in the dark, the ghost lingers. She is bowed over her books, threads of herself rising like mist. She does not look at me, does not move, but keeps her head low. I hear the ghost then, her soft wailing. Her hands are near her head, fingers drifting smoke-like through the echoes of her hair. And I turn, to what she is hiding from, to the near pitch black of the corner. To the sounds of crunching."
 
 **中文理解**：「操。」 ……屋子安静，走廊里没有哭嚎、没有迷途的魂。它在寂静里显得更小。我走过一间间空房——全都没点灯，只有碎掉的月光从窗玻璃扎进来，和我这支蜡烛的微光。书房里，黑暗中，那个幽灵还逗留着。她伏在书上，自己的丝线像雾一样往上冒。她不看我，不动，只把头压得低低的。然后我听见了她——那声软软的哭。她的手护着头，手指像烟一样飘过她头发的回声。而我转向她在躲的东西——转向那个近于漆黑的角落。转向那阵咀嚼声。
 **关键词**：empty of wailings and lost souls / threads of herself rising like mist / what she is hiding from / the sounds of crunching
@@ -66,14 +66,14 @@ modified: "2026-11-18"
 > **原句 8:** "My mother crouches low, all naked skin and filth. She looks up at me, the scant light hitting her white eyes so they glow. They are moons, those eyes, full and cursed. Veronica is nestled on her lap, half sprawled over the library floor. She looks at me, and I cannot say if it is terror or elation on her face. There is not enough of it left."
 
 **中文理解**：母亲低低地蹲着，一身赤裸的皮与污。她抬头看我，微光打在她的白眼上，亮得吓人。那是月亮，那双眼睛——满圆的、被诅咒的。Veronica 伏在她的膝上，半个身子摊在书房地板上。她看着我——我分不清她脸上是恐惧还是狂喜。剩下的已经不够分辨了。
-**关键词**：all naked skin and filth / They are moons, those eyes / terror or elation / There is not enough of it left
+**关键词**：all naked skin and filth / They are moons, those eyes / They are moons, those eyes / full and cursed
 **为什么这样写**：母亲的白眼与月亮的并置回收 ch16 的「两轮满月」（Piceus）——这个家的怪物共享月亮的眼睛；「terror or elation」的无法分辨是 Veronica 的一生判词：她到死都在这两种表情之间，而脸已经不配承载答案。
 **读者视角提示**：记住「not enough of it left」——脸的存量成为情绪的计量单位。Veronica 的悲剧在她脸上写到了底。
 
 > **原句 9:** "Bright blood spills over her ravaged jaw, down over her chest and onto the rug beneath. Her skin lies in ruins, pieces of cheek dangle so I can see the bone beneath. Still, my mother feasts, her mouth over Veronica’s, carving out a space in her skull as though she were a lantern. … I want to turn away, hide my face like the weeping ghost, yet I am entrapped in my mother’s viciousness, a moth pinned with nowhere to go. There is pity now, for Veronica, and it comes in a slow wave. She may have deserved her ending, but it hurts nonetheless."
 
 **中文理解**：鲜血流过她被毁掉的下颌，淌下胸口，滴进底下的地毯。她的皮肤烂成废墟，脸颊的碎片吊着，露出底下的骨头。母亲仍在进餐——嘴扣着 Veronica 的，在颅骨里刻出一个空间，像她是一只灯笼。 ……我想别过脸，像那只哭灵的幽灵一样把脸藏起来——可我被母亲的恶毒钉住了，一只无处可去的蛾子。怜悯此刻来了，为 Veronica，来得像一阵慢浪。她也许活该有这样的下场——但疼还是疼。
-**关键词**：carving out a space in her skull as though she were a lantern / a moth pinned with nowhere to go / She may have deserved her ending, but it hurts nonetheless
+**关键词**：carving out a space in her skull / like a lantern / a moth pinned / it hurts nonetheless
 **为什么这样写**：灯笼的比喻把开颅写成工艺——空腔里可以点灯，母亲的进食永远带着装置感；「a moth pinned with nowhere to go」回收蛾子意象（钉蛾镇纸）——她终于站到了标本那一侧；怜悯的「slow wave」是 Rue 的道德新器官：它第一次为 Veronica 延迟生效。
 **读者视角提示**：记住「deserved but hurts」的双轨判决——她的道德账本从这刻起有两个贷方：公正与痛。以前她只记前者。
 
@@ -94,28 +94,28 @@ modified: "2026-11-18"
 > **原句 12:** "Through the hallways, on bloodied feet and tired lungs, I run. From the shadows as I run past, I can see ghosts. They are smiling, their smiles floating, limbs floating. I see Lord Horewith, but I do not dare to stop. His veins hang loose, flailing around his body in bloody trails. He laughs. They all fucking laugh at me."
 
 **中文理解**：穿过一条条走廊，血脚、废肺，我跑。跑过的阴影里我能看见幽灵们。他们在笑——笑浮着，肢体浮着。我看见 Horewith 勋爵，但不敢停。他的静脉松垂着，血淋淋地在身上乱甩。他笑了。他们全都在他妈的笑我。
-**关键词**：bloodied feet and tired lungs / I see Lord Horewith / his veins hang loose / They all fucking laugh at me
+**关键词**：bloodied feet and tired lungs / ghosts smiling / their smiles floating / They all fucking laugh at me
 **为什么这样写**：鬼群的笑是本书的黑色剧院开场：受害者们集体围观她的逃亡——她喂进来的每一个死人都在验收；Horewith 的静脉「flailing」像被处刑的旗——他的笑是本章最歹毒的彩蛋。
 **读者视角提示**：把「鬼在笑」记成新立的信息：Folkehaven 的鬼不都悲苦——至少在看着活人遭报时，他们有娱乐。
 
 > **原句 13:** "And I hear her. She follows on mad legs, her screams racing ahead, echoing. I trip and get up, stumble and scramble up steps and around corridors, knowing the labyrinthine house more than I know myself. … I slam my bedroom door closed, locking it quickly, hoping it is enough to keep her out. I have never needed to keep her out. My mother slams against the door, her screaming a clamor of hunger and insanity. She bangs and bangs and bangs, fingernails scraping at the wood. She does not speak, does not cry my name. … I want her to say my name."
 
 **中文理解**：然后我听见她。她用疯了的腿追来，尖叫跑在前面，一路回荡。我摔了又爬起，踉跄着扑上台阶、绕过回廊——这座迷宫般的宅子，我比了解自己更了解它。 ……我甩上卧室门，飞快落锁——希望这够把她挡在外面。我从不需要把她挡在外面。母亲撞上门，尖啸是饥饿与癫狂的嘈杂。她砸、砸、砸，指甲刮着木头。她不说话，不喊我的名字。 ……我想要她喊我的名字。
-**关键词**：knowing the labyrinthine house more than I know myself / I have never needed to keep her out / She does not speak, does not cry my name / I want her to say my name.
+**关键词**：labyrinthine house / never needed to keep her out / does not cry my name / I want her to say my name.
 **为什么这样写**：「比了解自己更了解它」的自白把宅子放进了身份排序：地理先于自我——Folkehaven 是她身体的延伸地图；「I want her to say my name」是本章的疼痛顶点：门外的怪物不肯喊她——她要的不是原谅，是被点名：哪怕以猎物的身份被喊。
 **读者视角提示**：把「want her to say my name」与 ch11 的「I wish to be forgotten」对读——从想被忘到想被喊，她的愿望在整个六月里翻了个面。中间发生了什么？她学会了要。
 
 > **原句 14:** "Dawn brings silence, a void. My mother did not ask me to take her to the ground, to the pit below, did not ask me to lie with her, with her bloodied tongue and naked limbs. I would have gone if she had asked. I’ve begun to ache from the lack of her."
 
 **中文理解**：黎明带来寂静，一个空洞。母亲没有叫送她下地、下坑，没有叫我陪她躺下——带着她血淋淋的舌头与赤裸的四肢。她若开口，我会去的。缺她的疼，已经开始磨我了。
-**关键词**：Dawn brings silence, a void / did not ask me to lie with her / I would have gone if she had asked / the lack of her
+**关键词**：Dawn brings silence, a void / did not ask me to lie with her / would have gone if she had asked / the lack of her
 **为什么这样写**：缺席的账目按「她没开口」计——她把没有被邀入疯狂当成损失来报：依赖的成瘾性在此定型；「I would have gone if she had asked」是全章最危险的一句话：门里的她依然会在被叫到时开门。
 **读者视角提示**：把「ache from the lack of her」与「I want her to say my name」连读——她缺的不是安全，是呼唤。这个家的戒断反应以名字为单位。
 
-> **原句 15:** "I crawl into bed, my clothes still damp, my skin cold and sore. The white cat slips out from beneath the bed, ears flat and hair on end. She hisses at me, at the door, at the air around us, mouth wide, teeth sharp. Then she settles into the curve of my body, her orange eyes bright as candle flame. When I run my hand down her back, she growls, a low thrumming deep within her, but I do not stop. … In the corner, Hope swings, her noose creaking. Her hollow eyes follow me as she turns, her grin a slash upon her awful face."
+> **原句 15:** "I crawl into bed, my clothes still damp, my skin cold and sore. The white cat slips out from beneath the bed, ears flat and hair on end. She hisses at me, at the door, at the air around us, mouth wide, teeth sharp. Then she settles into the curve of my body, her orange eyes bright as candle flame. … In the corner, Hope swings, her noose creaking. Her hollow eyes follow me as she turns, her grin a slash upon her awful face."
 
 **中文理解**：我爬上床，衣服还湿着，皮肤又冷又痛。白猫从床底下溜出来——耳朵贴平，毛根根竖起。她冲我哈气、冲门哈气、冲我们四周的空气哈气，嘴张到最开，牙尖利。然后她蜷进我身体的弯里，橙色的眼睛亮得像烛焰。我顺着她的背往下摸，她低吼——喉咙深处一阵低颤——但我不停手。 ……角落里，Hope 晃着，绳套吱呀。她转身时空洞的眼跟着我，咧开的嘴是那张可怕的脸上的一道刀疤。
-**关键词**：ears flat and hair on end / her orange eyes bright as candle flame / Hope swings / her grin a slash upon her awful face
+**关键词**：ears flat and hair on end / orange eyes bright as candle flame / Hope swings / grin a slash upon her awful face
 **为什么这样写**：白猫的哈气与蜷进同一分钟内完成——警惕与依赖并存，是 Rue 此刻唯一能维持的关系模板；Hope 的「grin a slash」接住本章的笑（鬼群的笑、母亲的笑）——连最熟的鬼都在咧嘴：她的世界笑成了一片。
 **读者视角提示**：数一数本章出现的「笑」：Oren 的笑（前章）、鬼群的笑、Hope 的咧嘴——三种笑的音调完全不同。这个家的笑声统计表是它的病历。
 
