@@ -31,7 +31,7 @@ modified: "2026-11-18"
 > **原句 3:** "The floorboards groan beneath my feet in a low lament when I enter, my footsteps dragging. I cannot hurry; I wish to stretch out the time spent walking the unsullied halls, the flush carpets, the comforting dark. There is something almost soothing about the soft echo of my footsteps, as though after everything, and before the ending, I am not alone. … I am drawn to the room at the far end of the house. There is a tug within me; whatever binds Oren and me together is pulled taut, and it hurts—a sharp jolt of pain that reverberates deep inside me. It echoes around the hollowness there, in the cavities filled by Oren. With a hesitant hand, I push open the door."
 
 **中文理解**：进门时地板在我脚下低声哀鸣，脚步拖着。我快不了——我想把这段走过洁净长廊、软毯与安人心暗色的时光拉长。脚步的软回声近乎安抚——仿佛在一切之后、在结局之前，我并非独自一人。 ……我被吸向屋子尽头的那个房间。体内有东西在拽——绑着我和 Oren 的那根被绷紧了，而且疼——一阵锐痛在我体内深处震响。它在空洞里回荡——那些被 Oren 填满的空洞。我伸手，迟疑地推开门。
-**关键词**：the unsullied halls / before the ending, I am not alone / binds us together, pulled taut / the cavities filled by Oren
+**关键词**：the unsullied halls / before the ending, I am not alone / binds Oren and me together / the cavities filled by Oren
 **为什么这样写**：心链的物理化（绷紧、震响、在空洞里回荡）是本书关系力学最后一测：Oren 填的空洞在疼——他出事的信号由她的身体先报警；「before the ending」的预告语气是叙述者第一次主动剧透结局。
 **读者视角提示**：注意「拉伸的时间」的从容——她知道门后是什么了吗？拖步不是犹豫，是不想让最后的洁净走廊走完。
 
@@ -52,7 +52,7 @@ modified: "2026-11-18"
 > **原句 6:** "Oren’s mouth opens, yawning wide, teeth bloodied. The softness, the gentleness of his eyes has gone. There is nothing there but hunger. Black gathers at the corners of his mouth, as dark as ink, thick and oily. It is smeared over his lips, down his chin, dripping into the cavity of his neck. I can smell my mother on him. … She fed Oren because she wanted me to understand, to take away the un-soiled love I hold for him and turn it to rot. There is no love without ruination."
 
 **中文理解**：Oren 的嘴撑开，牙齿带血。他眼里的柔软、温和，没了。那里只剩下饿。黑色聚在他嘴角——墨一样黑、又厚又油——抹在唇上、淌过下巴、滴进脖颈的空腔。我在他身上闻到我母亲——她那不洁的血混着他自己的甜。我从未见过她把自己的一部分给出去。Veronica 曾自轻自贱，只求尝一口我的母亲——被拒了。她从未给我，永远不会，我知道——因为她知道那是刑罚，是残忍。是诅咒。 ……她喂 Oren，是要我明白：要拿走我捧着的他那份没被玷污的爱，把它沤成烂。没有不经毁灭的爱。
-**关键词**：There is nothing there but hunger. / her unholy blood mixing with the sweetness of his own / she knows it is a punishment / no love without ruination
+**关键词**：There is nothing there but hunger. / her unholy blood mixing with the sweetness of his own / she wanted me to understand / no love without ruination
 **为什么这样写**：Veronica 的求而被拒与 Oren 的得而被毁对照：母亲的爱从来不直接给——她只发放代价；「no love without ruination」是母亲的哲学命题，也是本章的判决书：她用 Oren 证明了它。
 **读者视角提示**：把这句「没有不经毁灭的爱」记成本书的中心论点——全书的结局就是对它的反驳或验证。
 
@@ -66,7 +66,7 @@ modified: "2026-11-18"
 > **原句 8:** "I rise above him, skirts heavy and too warm. I grip his chin, and he snaps at me, all sharp teeth. I squeeze and feel those bones crunch, and he falls silent. He watches me, the blue of his eyes replaced with an opaque white. They look like moons, bright and vast. “Damn you! Where do I go without your gentleness? For I am not gentle! You hold your heart—I see you, God damn you! But it is mine.” A scream claws its way up my throat. “Where do I go, Oren? Tell me, where do I go without you?”"
 
 **中文理解**：我居高临下地俯住他，裙子又沉又热。我捏住他的下巴——他一口咬过来，满口利牙。我收紧，听见那些骨头咔咔碎响，他安静下来。他看着我——蓝眼睛换成一片不透的白。像月亮，亮、大。 「该死的是你！没有你的温柔我去哪儿？我不温柔！你捧着你的心——我看见你了，上帝咒你！可它是我的。」一声尖叫从喉咙里抓出来。 「我怎么办，Oren？告诉我，没有你我怎么办？」
-**关键词**：his blue eyes turned opaque white / They look like moons / Where do I go without your gentleness? / But it is mine.
+**关键词**：They look like moons / They look like moons / Where do I go without your gentleness? / But it is mine.
 **为什么这样写**：白月之眼回收 ch16 Piceus 的满月眼——被怪物喂过的人开始长怪物的眼睛：Oren 的变与 Sylvatica 的变同一套图纸；「But it is mine.」的占有宣言对准那颗心——她在学母亲的语法（先认领，再问路）。
 **读者视角提示**：把「eyes like moons」的传递链记全：Piceus→母亲（白眼）→Oren——怪物性是液体，顺着血传播。
 
