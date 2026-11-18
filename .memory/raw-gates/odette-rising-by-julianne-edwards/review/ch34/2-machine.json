@@ -1,0 +1,376 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch34 light your lamp.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch34_chapter_34.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“He is an old man. These are his final words to the world. This, Odette, is the leave-taking of a colossus. He is saying",
+          "ok": true,
+          "pos": 1364
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was astonishingly beautiful in a veiled headpiece trimmed with diamonds and peacock feathers, to which had been atta",
+          "ok": true,
+          "pos": 2916
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "There must have been more than one hundred men and women in rows, who, at the signal, raised their voices in unison. It ",
+          "ok": true,
+          "pos": 5213
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It was as if Verdi had written it for her, that they sang only to her",
+          "ok": true,
+          "pos": 5793
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "They stood alone on the stage, looking so small, and yet their voices sliced through the air like arrows, offering their",
+          "ok": true,
+          "pos": 6202
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Finally, she turned to Odette and rose, coming to stand over her. She placed her hand lightly, so lightly, on Odette’s h",
+          "ok": true,
+          "pos": 6782
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "You think you are timid, weak even. But you are a lioness and the most bravehearted woman I know. There is a rare passio",
+          "ok": true,
+          "pos": 9252
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And, of course, I also know that you gave away your Merry, your friend, to protect us. It has cost you too much. To witn",
+          "ok": true,
+          "pos": 9553
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I am standing up to the bullies as you have done. I will hold my head high and try not to turn my face away. Shame is of",
+          "ok": true,
+          "pos": 10921
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“It’s all right. Whatever it is, it doesn’t matter. Berthe must have planned this for a while, it was a path she wanted ",
+          "ok": true,
+          "pos": 12246
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "He wore dirty white stockings, black breeches, a faded blue tailcoat, and huge white gloves. Everything was too big. He ",
+          "ok": true,
+          "pos": 13262
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.51
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter Thirty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2660,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

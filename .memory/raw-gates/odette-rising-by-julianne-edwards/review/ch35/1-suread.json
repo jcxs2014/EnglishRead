@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch35",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch35_chapter_35.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "十二月Beauclerc带着他11岁的儿子（eleven-year-old）回到Sèvres，两人在镇广场小旅馆吃完午饭后他提议散步上山；这孩子一整年都在消沉：没有新朋友、吃得少、毫无快乐——Beauclerc是男孩的父亲，母子两人关系是他的心病。",
+   "anchor": "How could an eleven-year-old carry such weight in his heart?",
+   "interval": [
+    871,
+    931
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc的父亲当年夏天去世（一场草草的告别，两人多年未见）；农场已卖掉，母亲现与他的姐姐、姐夫及一大群孩子同住，没有空间——所以他们不能去Gascony，也再受不了在Lille沉默地过另一个圣诞。",
+   "anchor": "His father had died in the summer; a perfunctory passing.",
+   "interval": [
+    1303,
+    1360
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Monsieur Legrand想退休，提出把工厂让给Beauclerc，条件是他为老夫妇养老送终；自行车生意越做越大，销遍欧洲甚至美洲，Beauclerc将成为富人——但他至今没有接受这份 offer。",
+   "anchor": "Monsieur Legrand wanted to retire. He had offered Beauclerc the factory",
+   "interval": [
+    1657,
+    1728
+   ],
+   "verified": true
+  },
+  {
+   "fact": "旅馆里的人正议论Odette在Rue des Binelles新建的房子：戴高帽的老先生贬损它，一个有活力的小伙子却说应该拥抱未来——\"Louis Grimard是个天才，Mademoiselle Huré是有远见的人\"；Beauclerc惊讶于Odette从不低调、总能招来议论。",
+   "anchor": "Louis Grimard was a genius, Mademoiselle Huré a visionary",
+   "interval": [
+    3546,
+    3603
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键场面：父子亲眼见到Odette建的\"城堡\"——石砌塔楼高过屋顶、三根极高极窄的烟囱、没有一扇矩形门窗；儿子久违地咯咯笑起来，问住户是不是巫师，Beauclerc答\"是她，这是Huré小姐的新房子\"，男孩说想要一栋这样的房子。",
+   "anchor": "Three preposterously tall, narrow chimneys climbed to meet it",
+   "interval": [
+    4085,
+    4146
+   ],
+   "verified": true
+  },
+  {
+   "fact": "男孩对Odette说出母亲（Beauclerc之妻）已死于consumption（肺痨，\"吐血而死\"），他常做在血中窒息的噩梦；Beauclerc从不知道这些噩梦；Odette以自己丧父后梦见狼群、 eventually 不再做为例子安慰他，说他很勇敢。",
+   "anchor": "“She got consumption. It made her spit blood,” said the boy.",
+   "interval": [
+    6947,
+    7007
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette邀请父子俩圣诞夜（Christmas Eve）6点左右（around six）来家做客：有blinis、oysters和champagne，家里不摆圣诞树，礼物只给孩子和狗，还要举杯缅怀逝者（母亲、父亲、朋友与老鼠）；男孩回程一路兴奋追问（有没有巧克力、能不能尝香槟）。",
+   "anchor": "Come early, at around six, and we will have blinis, oysters, and champagne",
+   "interval": [
+    8539,
+    8613
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键转折：Beauclerc自觉又被Odette打了措手不及，但这次不恼反觉温暖近乎欣喜；他认定自己想要的是回来——\"如果她肯收留，他就回家（come home）\"，并承认当年是自己傲慢、看不起Sèvres的手艺、还骂过Odette Huré是傻瓜，是他逼全家离开。",
+   "anchor": "If she would have him, he would come home.",
+   "interval": [
+    9399,
+    9441
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch36",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch36_chapter_36.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Odette悄悄离开餐厅——众人（连孩子们也加入了）正在为纪念Berthe打扑克（poker in honor of Berthe），小Joseph Beauclerc（Beauclerc的儿子，即ch35来过的男孩）牌技狡猾、极擅长虚张声势；Odette则独自艰难爬向塔楼顶层。",
+   "anchor": "little Joseph Beauclerc was proving a wily player, excellent at bluffing",
+   "interval": [
+    140,
+    212
+   ],
+   "verified": true
+  },
+  {
+   "fact": "爬楼梯时Odette一路默声道谢：感谢Louis给了她这栋\"最适合居住的房子\"，感谢同桌吃饭、做饭洗衣、为她盘发的家人，也感谢工厂工人——他们与她和解（truce），仍从轰鸣的机器中做出漂亮瓷器。",
+   "anchor": "She thanked Louis for this house, the most wonderful space in which to live.",
+   "interval": [
+    829,
+    905
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键补叙（ch34悬案的答案）：Berthe在歌剧院散场后，于Rue Jean Bart她血红色的房间里把Victor Gagnon诱到沙龙，从天鹅绒盒中抽出珍珠柄手枪（pearl-handled pistol）击毙了这个\"偷走她们希望\"的男人——一枪穿心（a single bullet through the heart）。",
+   "anchor": "There, in her bloodred room on Rue Jean Bart, after the opera.",
+   "interval": [
+    1308,
+    1370
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe杀人后经后楼梯溜上马车做了大胆的潜逃（Louis在外面接应），\"连那条蛇也带走了\"（She had even taken the snake）；Odette想象她如今在岛上棕榈树下、一手香槟一手香烟，如归来的公主向岛民讲巴黎故事。",
+   "anchor": "slipping out to a carriage via the back stairs, while Louis waited outside",
+   "interval": [
+    1588,
+    1662
+   ],
+   "verified": true
+  },
+  {
+   "fact": "爬楼途中Odette想起Le Neptune那一夜——她第一次尝到香槟的地方，也是那些塑造她一生的无形力量开始把她拖入漩涡的地方。",
+   "anchor": "A memory of that night in Le Neptune sprang to mind",
+   "interval": [
+    2083,
+    2134
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折：就在当天早晨，一张来自巴黎的卡片到了——正是Merry寄来的：一张nativity scene贴画上\"Joyeux Noël\"被划掉，下面工整写着\"Merry Christmas\"；Odette原以为他不会原谅自己（她曾把Merry送走），这让她把信揣在口袋里爬上塔顶，拆信时双手发抖。",
+   "anchor": "But that morning a card had arrived from Paris.",
+   "interval": [
+    2459,
+    2506
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette在塔顶阳台仰头长嚎（howled），呼出的气如羽柱升天——从这座城堡高处她能望见全城：面包房与广场、北面黑森林、向东通工厂的路，以及北方巴黎如闪光的蜘蛛网般的千万灯火。",
+   "anchor": "moved to the balcony, threw her head back, and howled",
+   "interval": [
+    2821,
+    2874
+   ],
+   "verified": true
+  },
+  {
+   "fact": "结尾点题：Odette意识到自己已经原谅了父亲（说不出是何时发生的），羞耻感在幸福的热度中蒸发——\"Here, at last, was her life\"（这终于是她自己的人生）。",
+   "anchor": "Here, at last, was her life.",
+   "interval": [
+    3467,
+    3495
+   ],
+   "verified": true
+  }
+ ]
+}

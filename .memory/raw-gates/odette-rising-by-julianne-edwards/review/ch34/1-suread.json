@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch34",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch34_chapter_34.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Berthe近几周教Odette一家玩新牌戏并让他们赌博，她很会打扑克；Arielle不肯用钱下注，Berthe翻了许多次白眼后同意改赌纽扣（buttons）——说明Berthe是Odette与Arielle家中的同住者、与两人是亲密的友谊关系。",
+   "anchor": "she made them gamble, and it would seem she was a very good poker player",
+   "interval": [
+    266,
+    338
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折铺垫：一向不信教的Berthe执意要全家（连Arielle也必须去）去歌剧院听Verdi的三首宗教合唱作品，反复催Louis去订票；Odette提议改看Comédie-Française上演的Cinderella，被Berthe拒绝——她称这是\"巨人的告别\"（the leave-taking of a colossus）。",
+   "anchor": "to hear Verdi’s new religious pieces, his three choral works",
+   "interval": [
+    892,
+    952
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis兑现承诺为这次 outing 弄到包厢，还设法占用了旧皇帝专用的帝国包厢（imperial box，带临街私人入口）；剧院有两千个红丝绒座位（two thousand seats），Odette数出四层包厢与楼厅（four tiers of boxes and balconies）。",
+   "anchor": "he had somehow commandeered the imperial box",
+   "interval": [
+    1828,
+    1872
+   ],
+   "verified": true
+  },
+  {
+   "fact": "一百多名（more than one hundred）男女合唱队先唱出圣母在十字架下的哀歌（Mary at the foot of the cross），让Odette联想到自己对Merry造成的伤害；随后无伴奏、仅由四名女声演唱的\"Laudi alla Vergine Maria\"唱碎了她的心，她落泪，并看到Berthe也在哭。",
+   "anchor": "It was sung by just four women, without any instruments",
+   "interval": [
+    6206,
+    6261
+   ],
+   "verified": true
+  },
+  {
+   "fact": "关键转折：当晚Berthe与Louis按约去Rue Jean Bart取东西再回Sèvres；凌晨一点后（after one）Odette听到屋外马蹄声，进屋的却只有Louis——Berthe走了（\"She's gone\"），他递上一封红墨水写她名字的信。",
+   "anchor": "It was after one when Odette heard horses outside",
+   "interval": [
+    8424,
+    8473
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe信中说她已到勇气尽头，正在回家路上，要像Odette救她那样去救Grace、挺身对抗恶霸；她说Odette的papa（Odette之父）是曾帮她指路的骑士、\"我爱过他也爱过我的人\"，并嘱托\"Light your lamp, Odette. It's time.\"——两人不会再见面。",
+   "anchor": "I will save Grace as you have saved me",
+   "interval": [
+    11032,
+    11070
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis告知Odette\"Victor Gagnon is dead\"（VG死了）；Odette立刻明白Berthe是替她做的这件事（她曾为保护Berthe一家把Merry送走、付出巨大代价），坚持要连夜赶回巴黎去接Merry（\"Merry? Your coal boy?\"——她的煤童），并承诺路上说出自己犯的罪。",
+   "anchor": "Victor Gagnon is dead.",
+   "interval": [
+    11548,
+    11570
+   ],
+   "verified": true
+  },
+  {
+   "fact": "天快亮时他们在巴黎接到消瘦苍白的Merry（戴奇怪的bicorn帽、衣服全都过大）；Merry拒绝被送回Sèvres，Odette便让Ned把车停在Avenue Gabriel的大房子前——Merry的母亲在那里；他过街时没有回头，她料定这可能是最后一次见他。",
+   "anchor": "stop outside the big house on Avenue Gabriel",
+   "interval": [
+    14339,
+    14383
+   ],
+   "verified": true
+  }
+ ]
+}
