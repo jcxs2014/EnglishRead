@@ -14,28 +14,28 @@
 
 | ch | 语料 | 词数 | 内容 | commit |
 |---|---|---|---|---|
-| 01 | ch01_chapter_1 | 1329 | The Art of Tactical Survival | |
-| 02 | ch02_chapter_2 | 1616 | The Empire of Controlled Silence | |
-| 03 | ch03_chapter_3 | 3546 | The Physics of Unintended Collisions | |
-| 04 | ch04_chapter_4 | 2113 | Out of Her Element | |
-| 05 | ch05_chapter_5 | 1812 | Terms and Conditions | |
-| 06 | ch06_chapter_6 | 2176 | The Quiet After the Storm | |
-| 07 | ch07_chapter_7 | 1743 | Executive Provisions | |
-| 08 | ch08_chapter_8 | 3722 | Forced Proximity | |
-| 09 | ch09_chapter_9 | 2797 | Off the Clock | |
-| 10 | ch10_chapter_10 | 2255 | The Lower Loop | |
-| 11 | ch11_chapter_11 | 3215 | The Sunday Verdict | |
-| 12 | ch12_chapter_12 | 1515 | Out of His League | |
-| 13 | ch13_chapter_13 | 2422 | The Emerald Wrap | |
-| 14 | ch14_chapter_14 | 3584 | The Midnight Dispatch | |
-| 15 | ch15_chapter_15 | 2324 | The Dark Prince Protocol | |
-| 16 | ch16_chapter_16 | 2581 | The Co-Conspirators | |
-| 17 | ch17_chapter_17 | 2375 | The Dark Prince Debrief | |
-| 18 | ch18_chapter_18 | 3819 | Unscripted Vulnerability | |
-| 19 | ch19_chapter_19 | 2388 | The Weight of the Shield | |
-| 20 | ch20_chapter_20 | 1094 | Ghosts in the Skyline | |
-| 21 | ch21_chapter_21 | 1837 | The Tactical Buffer | |
-| 22 | ch22_chapter_22 | 2564 | Thermal Irregularities | |
+| 01 | ch01_chapter_1 | 1329 | The Art of Tactical Survival | 9465816b7 |
+| 02 | ch02_chapter_2 | 1616 | The Empire of Controlled Silence | f097dbf71 |
+| 03 | ch03_chapter_3 | 3546 | The Physics of Unintended Collisions | 48033502c |
+| 04 | ch04_chapter_4 | 2113 | Out of Her Element | 3228ffed5 |
+| 05 | ch05_chapter_5 | 1812 | Terms and Conditions | 8f1a986fc |
+| 06 | ch06_chapter_6 | 2176 | The Quiet After the Storm | f0c85fc81 |
+| 07 | ch07_chapter_7 | 1743 | Executive Provisions | 422007a27 |
+| 08 | ch08_chapter_8 | 3722 | Forced Proximity | 568cf669d |
+| 09 | ch09_chapter_9 | 2797 | Off the Clock | d109f76b4 |
+| 10 | ch10_chapter_10 | 2255 | The Lower Loop | 043af1e18 |
+| 11 | ch11_chapter_11 | 3215 | The Sunday Verdict | 52ae5a06c |
+| 12 | ch12_chapter_12 | 1515 | Out of His League | 7723b82eb |
+| 13 | ch13_chapter_13 | 2422 | The Emerald Wrap | 5cf4a7048 |
+| 14 | ch14_chapter_14 | 3584 | The Midnight Dispatch | 043e7a453 |
+| 15 | ch15_chapter_15 | 2324 | The Dark Prince Protocol | 043e7a453 |
+| 16 | ch16_chapter_16 | 2581 | The Co-Conspirators | 6f92123c1 |
+| 17 | ch17_chapter_17 | 2375 | The Dark Prince Debrief | 47c0adf78 |
+| 18 | ch18_chapter_18 | 3819 | Unscripted Vulnerability | a46ac0483 |
+| 19 | ch19_chapter_19 | 2388 | The Weight of the Shield | b3b7aad98 |
+| 20 | ch20_chapter_20 | 1094 | Ghosts in the Skyline | a2fb96639 |
+| 21 | ch21_chapter_21 | 1837 | The Tactical Buffer | 8b38bc027 |
+| 22 | ch22_chapter_22 | 2564 | Thermal Irregularities | 7e6c742be |
 | 23 | ch23_chapter_23 | 2060 | The Steep Time | |
 | 24 | ch24_chapter_24 | 2001 | The Approaching Storm | |
 | 25 | ch25_chapter_25 | 2038 | The Canopy of Glass | |
