@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch19",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch19_chapter_19.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Odette 用茶招待新邻居 Arielle Feld 及其子女 Gilles 和 Eugénie 时，Berthe（Madame Marie-Sainte，Odette 亡父 Edouard 的巴黎旧情人）不请自来，Eugénie 吃了蛋糕兴奋过头抢着跑去开门，Merry 一见来客立刻僵住，Berthe 拿出蛇皮烟盒点烟，像登台一样打量全场。",
+   "anchor": "Eugénie, high on cake, jumped up, shouting, “I’ll go, I’ll go!”",
+   "interval": [
+    879,
+    942
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 点名要香槟但酒窖上锁无钥匙，Arielle 提议让儿子 Gilles 回家向自家女管家取一瓶；Merry 没开过香槟、费劲开瓶后把酒倒进茶杯递给 Berthe，她端着茶杯照样喝。随后 Arielle 说出丈夫\"My husband passed away. A few months ago.\"（数月前去世），Berthe 提议\"敬那些我们失去的人\"，三个女人用茶杯碰杯饮香槟，Odette 呛到气泡，孩子们大笑，大人们也跟着笑到失控。",
+   "anchor": "he poured it into a teacup and thrust it at Berthe",
+   "interval": [
+    4848,
+    4898
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 当众抖出 Odette 的家事：女管家是她亲自辞退的，而本城无人肯来帮佣——面包店（boulangerie）门外那次失态之后大家都当她精神不正常，如今没有女仆、管家、厨娘，只剩 Merry 超负荷硬撑；Arielle 提出可请自家女管家 Madame Guiche 来帮忙，Odette 因尴尬和气恼婉拒，并反问 Berthe 登门所为何事。",
+   "anchor": "She won’t find anyone locally. They’ll all think she’s touched in the head",
+   "interval": [
+    5928,
+    6002
+   ],
+   "verified": true
+  },
+  {
+   "fact": "工厂经理 Beauclerc 突然到访（说写过字条、问 Odette 是否收到），Berthe 当场质问他给朋友——Printemps 买家 Auguste de L'Estrange——送去\"丑陋的鹭\"的事，并说 Edouard 评价他\"诚实但缺乏想象力\"、Huré 需要有火的人，边说边翘腿露出脚踝上的蛇形纹身；Beauclerc 盯着那只脚踝，承认自己\"不确定有没有火\"，几乎夺门而逃，Odette 松了口气又担心失礼。",
+   "anchor": "“No, madame, I’m not sure I have,” he said and all but ran from the room.",
+   "interval": [
+    11301,
+    11374
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 私下警告 Odette 别去巴黎：一个\"黑心\"男人叫 Gagnon（她 Rue Jean Bart 的那位访客），Edouard 曾给过他一大笔钱，若他发现 Edouard 有个女儿，可能来找 Odette 要更多，\"你不能向他暴露自己\"；随后 Berthe 索要 Edouard 的遗物，上楼在他卧室坐在床沿神伤，临别带走了还沾着他头发的发刷和剃刀，并叮嘱 Odette 照管工厂、Beauclerc 不够英武（unheroic）、\"Find help，用你的朋友\"。",
+   "anchor": "Your father once gave him a large sum, and now, if he finds out that you exist",
+   "interval": [
+    14597,
+    14675
+   ],
+   "verified": true
+  },
+  {
+   "fact": "空荡的工厂里 Beauclerc 提着油壶给静置的纺机逐滴上油，回想 Rue des Binelles 那位不凡女人的话：他认定自己没有火、失了心，又因得知 Edouard 曾向外人说他\"unimaginative\"、拿他打趣而觉得自己被愚弄，决定辞职离开——把几件家当装进箱子搬到院中黑门外，关上门径直回家，心意已决。",
+   "anchor": "He decided to quit, to leave; pack up the house and go.",
+   "interval": [
+    19961,
+    20016
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 爽约未归，Odette 却在 Arielle 的谢卡背面发现两幅完美的鹭与蜻蜓钢笔画，意识到画师就在身边；她赶到 Beauclerc 家只见门窗紧闭、人去屋空，便趁工头 Dupont 吃晚饭时登门报信，承诺\"I will instruct the bank to pay everybody\"（通知银行给所有人发工资、没人挨饿），并得知 Beauclerc 是来自 Gascony 的铸造工（foundryman），Dupont 猜他可能去了 Lyon 或 Lille——Odette 归途中绝望地想起盆下的那把刀。",
+   "anchor": "I will instruct the bank to pay everybody",
+   "interval": [
+    27412,
+    27453
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 恳请 Arielle 出任 Huré 设计师遭坚决回绝——Feld 家一周内必须搬走：房东要收回房子且明言不再要\"我们这种人\"（犹太人）当房客，母亲家亲戚在 Orsay 附近的农场愿收留他们；Odette 力邀 Arielle 带孩子搬进自己的大宅，并把设计工作包装成正式合作而非施舍，说\"最了不起的反抗就是活得幸福\"，Arielle 含泪说\"I don't know. I'm a little overwhelmed.\"——章节以\"It was hope.\"收束。",
+   "anchor": "“No,” she said firmly. “No, Odette, I can’t.”",
+   "interval": [
+    39803,
+    39848
+   ],
+   "verified": true
+  }
+ ]
+}

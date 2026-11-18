@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch21",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch21_chapter_21.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "工头 Dupont 在 Beauclerc 空办公室向 Odette 报告偷窃案：打包女工 Madame Corot 自女儿 Emilie 在事故中丧生后\"脑子出了问题\"，从轴线丝线到机器零件见什么拿什么（近乎强迫症），\"她猪棚里的存货几乎够自己开一家工厂\"；Dupont 扣过她工资、警告过她丈夫 Pierre Corot，但直到上周才知规模之大，已送她回家，其夫正在机器厅等候。",
+   "anchor": "she had enough in her pig shed to start her own factory",
+   "interval": [
+    3015,
+    3070
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 决定不让 Madame Corot 留在厂里但也不解雇：若她 Lille 娘家能收留照看，Odette 将在她病愈返岗之前照常支付工资——\"我付钱让她养病，好回来做工\"，条件是 Pierre Corot 须归还或赔偿被偷的物品；Corot 从以为要被开除到感激得踉跄起身，Dupont 冲进来扶他出去（原来他一直在门外偷听），Odette 独自留下时开始发抖、怀疑自己是否做对。",
+   "anchor": "I will continue to pay her wages until she is well enough to return",
+   "interval": [
+    6985,
+    7052
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 问妻子去 Lille 的路费谁来安排，Odette 压下不快，叮嘱 Dupont\"把旅途费用给她，但务必把钱亲手交到她本人手里\"；Dupont 还承认自己已预先叫 Corot 保密、别让其他工人知道东家的慷慨，Odette 虽口称稳妥，心里却开始担心日后会有无穷的\"善因\"上门讨同等待遇，胃里打了结。",
+   "anchor": "Give her the cost of the journey.",
+   "interval": [
+    8582,
+    8615
+   ],
+   "verified": true
+  },
+  {
+   "fact": "才过两天事情就砸了：马车刚进厂拱门 Odette 就觉出气氛紧绷——有人（Corot 说不是他）把优待偷窃女工的消息捅了出去，大多数工人扬言怠工、威胁罢工，认为带薪休养是给窃贼的特权；Arielle 放下笔用育儿经点拨她：Gilles 拿走最后一颗 bon-bon 时，Eugénie 一闹就得\"另找法子摆平\"，公道不必非是糖。",
+   "anchor": "Strike. Threatening to strike. Even.",
+   "interval": [
+    10498,
+    10534
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 决定次日上午十一点工间休息亲自向全体工人讲话，宣布新订单喜讯并发放\"特别夏季红利\"—— Equivalent to half a week's wages（相当于半周工资）；Dupont 评\"blunt is clear\"、并提醒若工人照样罢工这承诺就\"昂贵\"，Arielle 教她先谢大家的辛苦、宣布加钱后立刻走人别等反应；Odette 自嘲\"我的最好从来不够好\"。",
+   "anchor": "Equivalent to half a week’s wages.",
+   "interval": [
+    13475,
+    13509
+   ],
+   "verified": true
+  },
+  {
+   "fact": "厨房里 Odette 与 Gilles 分食 Madame Charcot 的 tarte Tatin 时司机 Ned Smith 走进来，他自认英国人、来自 Chalfont Saint Giles，说自己是\"跟着来做客的那家人\"来的——\"在你出生前的那个夏天\"，并承认认识 Odette 的母亲；两人之间有什么东西悄悄变了，她约定明天中午在马厩细谈，Gilles 想跟去被她支开去遛 W. G.。",
+   "anchor": "“The one before you were born.”",
+   "interval": [
+    19309,
+    19340
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Gilles 向厨娘通报\"Ned 认识 Odette 的母亲\"，Madame Charcot 只当说的是过世的 Madame Huré——\"我听说过可怜的 Huré 太太，所以这宅子从不供应生蚝，谁知道呢\"；而 Odette 心里明白他说的是另一位母亲（英国女仆），当晚她泪湿眼眶、在马厩认出司机的\"English\"轮廓，并第一次叫他\"Monsieur Smith\"。",
+   "anchor": "That’s why we never serve oysters in this house",
+   "interval": [
+    19875,
+    19922
+   ],
+   "verified": true
+  },
+  {
+   "fact": "凌晨 2 点 Odette 放弃入睡，在\"明天的讲话\"与\"即将听闻母亲之事\"两恐惧间翻转：她自认是\"肥胖的二十二岁女人\"、面包店风波后坐实了疯名声、是\"英国女仆的私生女\"、知心伴只有一只老鼠，却要人听她这个穿不了自家长袜的针织厂老板说话；她重读讲稿（不提紧张、不提 Corot 家男孩昨天送回的一整车赃物），找了两块恰好握进掌心的石头准备塞进手套里稳住发抖的手，咬定今晚不会睡。",
+   "anchor": "She was an obese twenty-two-year-old woman",
+   "interval": [
+    20871,
+    20913
+   ],
+   "verified": true
+  }
+ ]
+}

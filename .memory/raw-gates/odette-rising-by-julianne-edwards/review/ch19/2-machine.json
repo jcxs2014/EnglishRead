@@ -1,0 +1,484 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch19 it was hope.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch19_chapter_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Then Eugénie, high on cake, jumped up, shouting, “I’ll go, I’ll go!” and before her mother could stop her she added, “Sh",
+          "ok": true,
+          "pos": 865
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When he returned, he poured it into a teacup and thrust it at Berthe. Oh no, thought Odette, this was too awful, but Ber",
+          "ok": true,
+          "pos": 4731
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“And we are all three alone and in pain. Women without their men. This world is certainly not easy for people like us.” ",
+          "ok": true,
+          "pos": 7701
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "As she said this, she slowly crossed her legs and her dress rose, showing her stockings, to reveal a snake curling round",
+          "ok": true,
+          "pos": 10452
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "But instead, he stared at Berthe’s ankle as if under a spell. When he lifted his head, he looked shattered. His hands we",
+          "ok": true,
+          "pos": 10810
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“It’s dependent upon the line. Without finesse and flow, the drawings have no movement, and without that they are not al",
+          "ok": true,
+          "pos": 11930
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Your father once gave him a large sum, and now, if he finds out that you exist, that Edouard had a daughter, he might c",
+          "ok": true,
+          "pos": 14146
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You poor girl,” Berthe whispered. “I’m so sorry.” She reached out and touched Odette’s face, tracing the line of it wit",
+          "ok": true,
+          "pos": 17033
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You must attend to the factory. That man, Beauclerc, can’t do it alone. He is unheroic. Find help.”",
+          "ok": true,
+          "pos": 17393
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The first was standing, one leg held up, the other dipped into a ripple of water. Its long neck a sinuous curve, arching",
+          "ok": true,
+          "pos": 21928
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "She had thought him a sanctimonious dolt, but it was she who had been stupid. For all his unimaginative raging, Beaucler",
+          "ok": true,
+          "pos": 27901
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She realized then that she couldn’t return to her cloistered life and that it was because of Arielle and Berthe, Louis G",
+          "ok": true,
+          "pos": 32917
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Stop!” Arielle held up a hand. “Odette, please. It matters not what you say; the rights or wrongs of me working, the pr",
+          "ok": true,
+          "pos": 39625
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“The alternative is to give in to the bullies. You flee to the country, and I haul up my drawbridge, retreat into my dar",
+          "ok": true,
+          "pos": 45545
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "It was hope",
+          "ok": true,
+          "pos": 46466
+        }
+      ],
+      "words": 3
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.58
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8522,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": "块数 15 偏离本书常见区间 4–14（本书 35 章中位 9、最高 14（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

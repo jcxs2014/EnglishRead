@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch20",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch20_chapter_20.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Feld 一家搬入后 Odette 生活巨变，她与 Arielle 在 Edouard Huré 旧办公室的雕花书桌前并肩设计——这是两人合作的第三个系列（秋季节令，虽时值五月），主题为 woodland：浆果、橡叶、槲寄生环绕小鹿、幽灵猫头鹰与渡鸦；下周 Odette 就要带样品去见买家，当天图纸须连同线色与密度说明送进 finishing room。",
+   "anchor": "This was to be their third collection together, for the autumn season",
+   "interval": [
+    644,
+    713
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 正让裁缝再做一套买家会面服装（前两套轮换不过来，且 Berthe 嘲讽过她上一件天鹅绒设计，这次由 Arielle 帮忙选了斜裁裙加软呢斗篷）；她想起不久前一场吞没时髦慈善集市的大火——众多女性罹难，部分归咎于装束：多层长裙跑不动、缀丝与羽毛的帽子易燃，她感叹时尚本身即充满风险。",
+   "anchor": "a fire that had recently engulfed a fashionable charity market",
+   "interval": [
+    2797,
+    2859
+   ],
+   "verified": true
+  },
+  {
+   "fact": "尽管 Berthe 反复警告 Odette 待在巴黎危险，\"黑心男人\"始终没露面，Berthe 忍不住开始参与谈买卖——正是她提议改请 Printemps 买家到 Brasserie Mollard 吃午饭；买家（头发抹香水）殷勤讨好抽烟的 Berthe，生蚝、奶油 Lobster Thermidor 配香槟而 Odette 只喝 rosehip cordial，午餐昂贵又冗长（常拖到摆晚餐的钟点、买家要侍者领班扶上马车），但随后的订单很大。",
+   "anchor": "she who had suggested that they take the Printemps buyer to lunch instead",
+   "interval": [
+    3398,
+    3471
+   ],
+   "verified": true
+  },
+  {
+   "fact": "新系列大获成功，Dupont 反倒再度忧心：这回怕的是产能不足、工人被长班拖得筋疲力尽；Odette 决定先把新系列送走再想这个，还盘算让 Madame Charcot 做点蛋白霜饼当布丁来小小庆祝一番。",
+   "anchor": "Dupont had begun to worry once more",
+   "interval": [
+    4339,
+    4374
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Lille 清晨，Beauclerc 的妻子背对着他蜷卧，把一团棉布（muslin）紧捂在嘴上压抑咳嗽——她已连续数周夜间盗汗、瘦得他不敢直视，昨天她慌忙查手帕找血迹、被发现后强笑说\"这城需要大扫除\"；Beauclerc 怕她染上痨病（consumption）并自责是迁来这座疫病仍多的城市害的，她却自称\"农家女、身子骨结实\"。",
+   "anchor": "pressing a ball of muslin hard to her mouth",
+   "interval": [
+    4944,
+    4987
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 在蓬勃的 Lille 很快找到工作：任 Monsieur Legrand（68 岁迷上骑行、惊了太太、索性开新公司）的自行车厂经理，该厂率先采用钢车架和新式充气橡胶轮胎、路人拦车发问、销路火爆，他分得利润渐趋富裕，儿子进了由大学学者授课的学校；他与妻子是少年时在 Marciac 月集上 trailing 各自母亲认识的，当年从 Gascony 长途迁往 Sèvres 进针织业，妻子曾深爱那小镇的缝纫会、图书馆与下午茶。",
+   "anchor": "Beauclerc was the manager of a business that manufactured bicycles",
+   "interval": [
+    6280,
+    6346
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 硬着头皮翻账本（她讨厌且不擅长），自认只是做给已离开的 Beauclerc 看；上周她面试过一名经理，对方得知她父亲已死、东家将是她本人时满脸惊骇，她忍不住笑场——此后再无一人应聘，风声外传：\"Huré 由女人们经营，更糟的是，一个胖子和一个犹太人\"；她明白工人认为她太年轻太可笑、不配握着他们的生计，而她格外想念帮众人守住信心的 Beauclerc。",
+   "anchor": "Huré was being run by women. Worse, a fat one and a Jew.",
+   "interval": [
+    11417,
+    11473
+   ],
+   "verified": true
+  },
+  {
+   "fact": "花园里孩子们追着叼发带的小狗 W. G. Whippet（司机起的名，源于板球手 William Gilbert Grace）跑；Merry 透露司机其实是英国人、名叫 Ned Smith——Odette 震惊于这个每次乘车都坐在她脚边、扶她上下马车的人根本不是法国人，转念想到自己也是半个英国人；Merry 还说自己名字源自母亲看到一位美国绅士住客圣诞卡上的字，如今他更常去看母亲、也爱去 Berthe 家和 Nanette 喝热巧克力。",
+   "anchor": "“Ned Smith,” said Merry.",
+   "interval": [
+    13848,
+    13872
+   ],
+   "verified": true
+  }
+ ]
+}
