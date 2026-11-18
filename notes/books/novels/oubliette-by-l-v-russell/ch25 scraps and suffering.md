@@ -45,7 +45,7 @@ modified: "2026-11-18"
 > **原句 5:** "Rats gather at my feet, constant companions in the dark. I seldom light the fires, preferring the chill, the way it creeps into my bones. It feels like my mother."
 
 **中文理解**：老鼠聚在我脚边——黑暗里忠实的同伴。我很少生火，偏爱寒冷，偏爱它钻进骨头的方式。那感觉像我的母亲。
-**关键词**：constant companions in the dark / preferring the chill / it creeps into my bones. It feels like my mother.
+**关键词**：constant companions in the dark / preferring the chill / creeps into my bones — like my mother
 **为什么这样写**：冷=母亲——她的体感系统已经把最不适的感觉归类为亲密：这是依赖成瘾的终末症状；鼠群接任 Veronica 的陪伴岗位。
 **读者视角提示**：把「冷像母亲」记成她的体温档案的最后一行：暖=Oren、冷=母亲、灰=家。全部体感都归了户。
 
@@ -80,7 +80,7 @@ modified: "2026-11-18"
 > **原句 10:** "There is black in her eyes, and it spills down her cheeks in inky trails. “I was never a good child. I tore into this world, and I ravaged it. But you…you were a rare light, one I had long forgotten could even exist. You were a light that did not scorch, but warmed. I have so few regrets, child, but your suffering is one I will carry. I want you to know that I will allow that regret to drag me into hell.”"
 
 **中文理解**：她眼里有黑，顺着脸颊淌成墨色的痕。「我从来不是个好孩子。我撕开这个世界闯进来，蹂躏了它。可你……你是一线罕见的光——我早忘了世上还有这种东西。你是一束不灼人、只暖人的光。我的悔恨那么少，孩子，但你的苦难是其中之一。我要你知道——我会允许那份悔把我拖进地狱。」
-**关键词**：I tore into this world, and I ravaged it / a rare light / a light that did not scorch, but warmed / that regret will drag me to hell
+**关键词**：tore into this world, ravaged it / a rare light / a light that did not scorch, but warmed / that regret will drag me to hell
 **为什么这样写**：母亲的忏悔独白是全书给她的唯一一份自传：自我认知（tear into/ravage）与对女儿的认定（rare light）放在同一段——她知道自己毁了一切，唯独女儿是例外；「drag me into hell」的地狱自行押送是她的爱的终极形态：连惩罚都自己领。
 **读者视角提示**：把「不灼人只暖人的光」与 Rue 对 Oren 的「taste of sunlight」对照——母女认出了同一种光源。这是她们唯一的共识，也是悲剧的坐标：她们爱的东西一样，只是谁都不能放手。
 
@@ -101,7 +101,7 @@ modified: "2026-11-18"
 > **原句 13:** "“I will not leave you!” I cry, not knowing what else to give her. “You have me! Wholly!” … “No.” My mother breathes, smile widening, moonlight glints off her sharp teeth, over the white of her eyes. “You do not love me as you once did. I can hear your heart, smell it in your blood. Someone else has claimed a larger part of it, leaving me with scraps.” … “And look how you starve upon them!” Tears stream over my cheeks, wet and clear, not bloodied. “Your hunger for more of me is of your own making.”"
 
 **中文理解**：「我不会离开你！」我喊，不知道还能给她什么。「你有我！完完整整的我！」 ……「不。」母亲吐出这个字，笑意变宽，月光掠过她的尖牙、掠过她眼里的白。「你爱我，不像从前那样了。我听得见你的心，闻得到你血里的它。有别人认领了更大的一块——只剩碎屑给我。」 ……「那你看看你把自己饿成什么样！」泪水淌过我的脸颊——湿的、清的，不带血。「你想要更多我的饥饿，是你自己造的孽。」
-**关键词**：You have me! Wholly! / Someone else has claimed a larger part of it, leaving me with scraps / wet and clear, not bloodied / your hunger is of your own making
+**关键词**：You have me! Wholly! / someone else claimed a larger part / wet and clear, not bloodied / your hunger is of your own making
 **为什么这样写**：「完完整整的我」与「只剩碎屑」的清点战是母女的资产审计：同一颗心，两本账；她的泪「not bloodied」第一次区别于母亲的黑泪——她哭的是人水，母亲流的是墨。
 **读者视角提示**：把「碎屑（scraps）」与 ch19 的「For scraps」对读——Sylvatica 用碎屑签了卖身契，Rue 被母亲判了只剩碎屑。两代女人的估值体系一模一样。
 
