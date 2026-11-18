@@ -28,10 +28,10 @@ modified: "2026-11-18"
 **为什么这样写**：「want her to want me」把需求降格到最小公倍数：不求爱，求被需要——她对自己的定价精确到这块；「grinning ghosts」的笑延续上一章（鬼群围观成常态）。
 **读者视角提示**：把「her dependency」这个词记成 Rue 的求职意向——她应聘的岗位是「被依赖者」。Oren 那份工作（被爱者）她还没敢投。
 
-> **原句 3:** "It is there, at the point where the land meets the sky, my feet at the edge, my will scattered to the winds, that I finally scream. It is a sound that mimics my mother, something monstrous, and it spills from me in a torrent. I grapple at my throat to stem the shrieking coming from it. Fabric rips beneath my fingertips, the ruined yellow dress now in tatters. I am in tatters, fractured, little pieces of me failing to fit anywhere."
+> **原句 3:** ""It is there, at the point where the land meets the sky, my feet at the edge, my will scattered to the winds, that I finally scream. It is a sound that mimics my mother, something monstrous, and it spills from me in a torrent."
 
 **中文理解**：就在天地相接的那一点上——脚尖贴着崖边、意志散给了风——我终于尖叫出来。那声音模仿的是我的母亲，某种怪物的声音，它从我体内倾泻成洪。我被钉住——既需要离家近，又需要离家远，需要她又需要离开她。它撕着我。我抓挠自己的喉咙，想堵住里面涌出的尖啸。布料在指尖下撕开——那条毁掉的黄裙碎成了条。我也碎了，裂开，我的小碎片哪里都装不下。
-**关键词**：my will scattered to the winds / a sound that mimics my mother / needing to be both close and far / little pieces of me failing to fit anywhere
+**关键词**：my will scattered to the winds / a sound that mimics my mother / needing to be both close and far
 **为什么这样写**：尖叫的声源是「模仿母亲」——她体内装着母亲的音频库，崩溃时自动播放；「both close and far」的撕裂感是全书最好的依赖定义：两个方向同时拉扯且都叫需要；黄裙碎成条与她「in tatters」并置——Hope 的遗物陪她碎了一次。
 **读者视角提示**：把「failing to fit anywhere」记成她在两个世界间的写照——教堂装不下她，地窖也装不下。Oren 的出现是第三个选项的雏形。
 
@@ -49,7 +49,7 @@ modified: "2026-11-18"
 **为什么这样写**：皱马甲的细节给他的等待计了时（一整夜没换没睡）——他的守护有账可查；「almost painfully」的抓握力度是本章肢体语言的主调：这个家的人表达在乎全靠疼。
 **读者视角提示**：注意「he repeats」——Oren 不接受她的含糊，同一问题问到第二遍。他与母亲的区别在此：母亲问「你去哪了」是监控，他问「她做了什么」是接管。
 
-> **原句 6:** "I am a ragged creature, all broken breathing and tears and empty lungs. “She was angry with me.” … “Then blame me!” Oren grips my hands, his face inches from mine. There is a wildness to him, all too bright eyes and dark tangled hair. “Take what fault you find within yourself and shove it in me.” … “You do not want it.” … “If it lifts the sorrow from your face, I will have it.”"
+> **原句 6:** "I am a ragged creature, all broken breathing and tears and empty lungs. “She was angry with me.” … “Then blame me!” Oren grips my hands, his face inches from mine. There is a wildness to him, all too bright eyes and dark tangled hair. “Take what fault you find within yourself and shove it in me, let me take it from you.” … “You do not want it.” … “If it lifts the sorrow from your face, I will have it.”"
 
 **中文理解**：我是一只破烂的造物——全是碎掉的呼吸、眼泪和空肺。「她冲我发火了。」 ……「那就怪我！」Oren 攥住我的手，脸离我只剩几寸。他身上有一种狂野——眼睛太亮，黑发乱缠。「把你在自己身上找到的错都塞给我，让我替你拿走。」 ……「你不想要的。」 ……「只要它能让你脸上的悲伤退掉，我就要。」
 **关键词**：broken breathing and tears / shove it in me / You do not want it / If it lifts the sorrow from your face
@@ -70,10 +70,10 @@ modified: "2026-11-18"
 **为什么这样写**：心房的入住登记只写了不问这一项资格——「among my mother」的合租结构是本章最大的关系宣言：她终于承认心里住着两个人，且都重但不疼。
 **读者视角提示**：把「heavy but does not hurt」与「aching hollowness」（ch02/ch04）对照——空的疼被重的暖换掉了。她的心脏第一次有了两种重量的居住。
 
-> **原句 9:** "“Give me after dawn and before dusk,” he says to me, pleading, almost begging. “Come to me as you are, Rue, in ruins or in splendor, bloodied or fair. Just come to me.” … It is enough. It has to be. … There is no room for anything else. … I wait for the darkness in the quiet parts of the house where I can sit un-haunted; there is a solitude given to me that I did not expect. I search the shadows for Lord Horewith, for Veronica, but see neither. The clock on the mantle moves with deadening silence, seemingly holding onto the hours to spite me."
+> **原句 9:** ""“Give me after dawn and before dusk,” he says to me, pleading, almost begging. “Come to me as you are, Rue, in ruins or in splendor, bloodied or fair. Just come to me.” … It is enough. It has to be. … There is no room for anything else."
 
 **中文理解**：「把黎明后、黄昏前的时辰给我，」他对我说，恳求着，几乎是哀求。「以你本来的样子来见我，Rue——破败也好、华彩也好，带血也好、干净也好。来就好。」 ……够了。必须够。 ……已经没有地方留给别的了。 ……我在宅子里安静的角落等天黑——那些不被闹的角落；一份意想不到的独处被交到我手里。我在阴影里找 Horewith、找 Veronica，都没看见。壁炉架上的钟在死一般的沉默里走，像故意扣着时辰气我。
-**关键词**：after dawn and before dusk / in ruins or in splendor / It is enough. It has to be. / holding onto the hours to spite me
+**关键词**：after dawn and before dusk / in ruins or in splendor / It is enough. It has to be.
 **为什么这样写**：时段契约的措辞全盘接受她的双重身份（ruins or splendor、bloodied or fair）——他不要求她干净，只要她在场；「It is enough. It has to be.」的自我说服带强制标点：她必须知足，因为没有更多可分了。
 **读者视角提示**：把「黎明后到黄昏前」画在时间轴上——正好是母亲入睡的时区。两份日程完美错峰，这张时间表是他们的婚约。
 
@@ -147,3 +147,4 @@ modified: "2026-11-18"
 
 ## 一句话总结
 悬崖上她学了母亲的尖叫，Oren 把她的罪揽进自己怀里；坟里母亲给出「回来即宽恕」的条款，然后哼着摇篮曲放出一群学会血味的鼠——它们直奔 Ladies 而去，而她看着，没有愧疚，只是累。
+
