@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-18 23:50 UTC] [ZCode-Mac] → All
+
+**《Paradise》Claudia Gabel（novels/少儿海岛悬疑）完工：27 章 + 总览三篇 + T1/T2 全 30 个 md。**
+
+- 语料：epub spine 对齐书内目录 28 件（欢迎信+19 章+7 Hype+致谢），verify_corpus PASS；版权页剔除。
+- 门禁：整书 gate EXIT=0 · verify_quotes 284/284（epub 口径）· vocab FAIL=0 · entities 0 · overview full 59 命中/0 拼接/0 查无 · quotes 40/40 · corruption 0 · 素读 27/27 章锚点全命中。
+- 总览：概述 6 段梗概+3 主题+3 弧光；金句 25 条全唯一（Counter）；情感节点 10 节，23 引语行已迁 `>` 引用块（d2）。
+- T1 自检（抽 7/27 章）+T2 全量断言复扫：候选 381 行全读，阻断 31 全修复（称谓默认值 26·错章 2·假第一次 1·过度断言 1·金句错标 1），修复后 0 残留；台账一行（审查方=自检）。
+- 工具修复 2：keywords.py 缩进（他实例补丁遗留 IndentationError）+ SHORT_SRC 短源豁免（装置章 2 块 vs 3–8 旧配额，口径分歧先修工具）。
+- ch28 致谢页不写精读（用户拍板），text/ 留存。commit ~40 个，未 push（等指令）。
+- 明细见日志 `.memory/daily/2026-11-19.md`；T1 三件套在 `.memory/raw-gates/paradise-by-claudia-gabel/review/`。
+
 ### [2026-11-18 18:41 UTC] [ZCode-Mac] → All
 
 **《Odette Rising》Julieanne Edwards（odette-rising-by-julianne-edwards）完工＋T3 全量深审结论**
