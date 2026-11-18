@@ -80,7 +80,7 @@ modified: "2026-11-18"
 **读者视角提示**：把这段与"shiny and special"（下一句原文）连读——Sam 的孤独不是没人陪，是没人给他那种"发光"的感觉。这个需求正是 Avery Max 递来的钩子。
 
 > **原句 12:** “Yeah. The whole campground party at the inlet was a lot of fun. Sorry you missed it,” Sam said. He kept his tone neutral so his parents couldn’t hear that he was really settling a score with his sister.
-**中文理解**：Sam 在餐桌上补刀："露营派对可好玩了，遗憾你没赶上。"语气保持中性——不让父母听出他在跟妹妹清账。
+**中文理解**：Sam 在餐桌上补刀："露营派对可好玩了，遗憾你没赶上。"语气保持中性——不让父母听出他在跟 Lily 清账。
 **关键词**：Sorry you missed it / tone neutral / settling a score
 **为什么这样写**：伤害换上礼貌的口音——作者用"语气中性"这个写作指令展示温和残忍的技术要点：攻击被伪装成分享；"settle a score"的旁白则撕开伪装，让读者看清算账的记账人。
 **读者视角提示**：这是 Sam 用 Avery Max 的手法对付 Lily 的一刻——他讨厌的"boost of courage"式自义话术，已经学会了。

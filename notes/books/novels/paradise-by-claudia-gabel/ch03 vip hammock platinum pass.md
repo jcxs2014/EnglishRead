@@ -56,7 +56,7 @@ modified: "2026-11-18"
 **读者视角提示**：注意 Elliott 引用的永远是"研究"和"报告"，从不讲自己。一个用数据筑墙的人，墙里通常藏着不敢直接讲的事——本章结尾就讲了。
 
 > **原句 8:** “It was hard. I was your age when my dad died, and afterward your grandmother just threw herself into her work. We rarely ever saw her.”
-**中文理解**：Elliott 终于吐露：他父亲去世时他正与 Sam 同龄，之后奶奶埋头工作，兄妹俩几乎见不到她。
+**中文理解**：Elliott 终于吐露：他父亲去世时他正与 Sam 同龄，之后奶奶埋头工作，兄弟俩几乎见不到她。
 **关键词**：my dad died / threw herself into her work / rarely ever saw her
 **为什么这样写**：全章最长的一段铺垫在此收口——"没有手机"的规矩、奶奶突兀的巨额礼物、父亲对数据的执念，在这一句话里接通：Penelope 曾用消失来熬过丧夫，如今用一座岛来补课。作者让13岁的 Sam 用母亲教的"肯定式语言"才撬开这段话，等于明说：这个家的沟通全靠话术。
 **读者视角提示**：奶奶"缺席式慷慨"的成因在此落地——她不是冷血，是用工作躲过了最痛的一年。但这解释也该被审问一遍：Elliott 和 Greg 的版本不一样，谁的记忆更接近真相？

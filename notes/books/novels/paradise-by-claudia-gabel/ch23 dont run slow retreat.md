@@ -74,7 +74,7 @@ modified: "2026-11-19"
 **读者视角提示**：注意"keeping her gaze away from the jaguar"——Lily 的指挥包括管理自己的视线。对照她列清单的自救法：把"不看"也变成清单条目，恐惧就被拆成了可执行项。
 
 > **原句 11:** “So what are we supposed to do?” Jordan asked, choking back tears. “We should back away slowly, all at the same time.” Lily said. “No eye contact or sudden movements either.” “Yeah, that’s impossible,” Sam said. “No, we can do it,” Milo said. “We’ll do this together, Lily.” Sam couldn’t believe it, but he saw his sister smile. Lily must really like him if she was grinning while they were about to become jaguar food.
-**中文理解**：Jordan 含泪问"那我们怎么办"——Lily 给出守则："一起缓慢后退，不对视、不做突然动作"；Sam 说"这不可能"，Milo 却说"做得到，我们一起上，Lily"；Sam 不敢相信：都要成美洲豹的盘中餐了，妹妹居然在笑——看来她是真喜欢 Milo。
+**中文理解**：Jordan 含泪问"那我们怎么办"——Lily 给出守则："一起缓慢后退，不对视、不做突然动作"；Sam 说"这不可能"，Milo 却说"做得到，我们一起上，Lily"；Sam 不敢相信：都要成美洲豹的盘中餐了，Lily 居然在笑——看来她是真喜欢 Milo。
 **关键词**：back away slowly / No eye contact / We’ll do this together
 **为什么这样写**：守则的落地三步——作者让"命令（Lily）—怀疑（Sam）—背书（Milo）"完成指挥链闭环；"together, Lily"的呼喊是 Milo 对她的正式授权，而 Lily 的微笑则是全书第一次把恐惧转化为联结的表情。
 **读者视角提示**：对照 ch18 的"We stick together, no matter what"——誓言此刻具象成"同步后撤"这种物理动作。pact 的终极形态，是六条腿一致向后。

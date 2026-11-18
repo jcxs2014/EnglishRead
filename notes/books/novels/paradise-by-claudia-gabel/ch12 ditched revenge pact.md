@@ -46,7 +46,7 @@ modified: "2026-11-18"
 > **原句 6:** Lily wasn’t a good liar. When she made something up, her cheeks turned bright red. Lily’s skin hadn’t changed a bit just then, Sam noticed, so maybe she was being honest.
 **中文理解**：Lily 不会撒谎——编话时脸颊会红；Sam 注意到她这次肤色一点没变，所以她说的可能是真的。
 **关键词**：wasn’t a good liar / cheeks turned bright red / maybe she was being honest
-**为什么这样写**：作者给三人组装了一套生理测谎仪——十几年的共同生活成了辨伪仪器，比 Rebecca 的系统准得多；"maybe"的保留态度也真实：兄弟之间的相信永远带折扣，尤其对方刚"背叛"过。
+**为什么这样写**：作者给三人组装了一套生理测谎仪——十几年的共同生活成了辨伪仪器，比 Rebecca 的系统准得多；"maybe"的保留态度也真实：双胞胎之间的相信永远带折扣，尤其对方刚"背叛"过。
 **读者视角提示**：记住"脸颊变红"这个设定——它是 Lily 的性格指纹，也是后文判断她哪些话可深信的标尺。她这次没红脸，怪物证词的成色因此上升一格。
 
 > **原句 7:** “I know what I heard. Some kind of animal, or person in distress, or I don’t know. It just doesn’t belong here.”

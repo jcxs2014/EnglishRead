@@ -6,7 +6,7 @@ modified: "2026-11-18"
 # 09. Chapter Six: Sam
 
 ## 本章导航
-- **一句话概括**：Platinum Pass 让 Sam 尝到处处插队的甜头，也撞破 Avery 与 Max 的身份——度假村业主 Jones 夫妇的孩子；风暴正面袭来全员疏散，却被姐弟俩的高尔夫车带到未开放的巨型滑梯 Silverback，Sam 在讥讽与自尊的夹击中被"吞"进黑暗。
+- **一句话概括**：Platinum Pass 让 Sam 尝到处处插队的甜头，也撞破 Avery 与 Max 的身份——度假村业主 Jones 夫妇的孩子；风暴正面袭来全员疏散，却被兄妹俩的高尔夫车带到未开放的巨型滑梯 Silverback，Sam 在讥讽与自尊的夹击中被"吞"进黑暗。
 - **情感弧线位置**：Sam 章的过山车——底层透明人→特权体验→身份震惊→霸凌旧伤→尊严豪赌，情绪在两小时内翻完一整副牌，章末悬在他最不愿承认的恐惧上。
 - **Tropes 兑现/反转**：兑现"平凡孩子混进富豪圈"的爽感设定；三重反转——新朋友是岛主子女、"借"门禁与"偷"手机互为镜像、最想逞英雄的人被滑梯先行"处刑"。
 - **人物弧线**：Sam（装酷→露怯→被讥讽逼到墙角）；Max 与 Avery（特权儿童的一体两面：为所欲为+被 Lookout 暗语监控）；妈妈（缺席的避风港首次显影）。
@@ -34,7 +34,7 @@ modified: "2026-11-18"
 > **原句 4:** Wait a minute. Sam’s mind flashed back to an ad he’d seen during a basketball game he’d watched at the rooftop pool on top of the sports complex. Two very good-looking and charming people with accents, named Dianne and Mitchell Jones, repeatedly welcomed guests to Paradise, a special getaway they’d built for families to restore parents and energize kids.
 **中文理解**：Sam 想起来了——屋顶泳池看球赛时那支广告：一对有口音的漂亮夫妇 Dianne 和 Mitchell Jones 反复出镜，说 Paradise 是他们为家庭建的度假地，让父母休整、让孩子充电。
 **关键词**：ad / Dianne and Mitchell Jones / restore parents and energize kids
-**为什么这样写**：身份揭秘走"广告记忆"通道——业主的脸本来就是岛的logo，作者顺手把广告词写成世界观注脚："restore parents and energize kids"和分区制度严丝合缝；"accents"呼应姐弟俩的英式口音，伏笔全数回收。
+**为什么这样写**：身份揭秘走"广告记忆"通道——业主的脸本来就是岛的logo，作者顺手把广告词写成世界观注脚："restore parents and energize kids"和分区制度严丝合缝；"accents"呼应兄妹俩的英式口音，伏笔全数回收。
 **读者视角提示**：把 ch01 的"owners Mitch and Dianne Jones"与本章对上——Simone 口中的业主、Sam 眼中的广告明星、Avery Max 的爸妈，三条线在此合龙。
 
 > **原句 5:** Oh, wow. Avery and Max’s parents were … the owners of the resort?!
@@ -64,7 +64,7 @@ modified: "2026-11-18"
 > **原句 9:** WRONG. Sam couldn’t believe it, but somehow Max had found the network of employee-only access roads and used them to drive to another part of the water park in less than five minutes.
 **中文理解**：大写"WRONG."——Max 根本没回 villa：他摸清了员工专用路网，五分钟内把车开到了水上乐园的另一处。
 **关键词**：WRONG / employee-only access roads / less than five minutes
-**为什么这样写**：作者用一个孤零零的大写单词完成"施救变劫持"的反转——读者刚跟着松一口气，就被拽进更深的不确定；员工路网是姐弟特权的又一具象：整个岛的暗道都在他们脚下。
+**为什么这样写**：作者用一个孤零零的大写单词完成"施救变劫持"的反转——读者刚跟着松一口气，就被拽进更深的不确定；员工路网是兄妹特权的又一具象：整个岛的暗道都在他们脚下。
 **读者视角提示**：回想 Sam 偷爸爸手机时的自我辩护逻辑——此刻他坐上"员工专用道"，正是同一套"规则为我让路"的教育现场。特权会传染。
 
 > **原句 10:** This was a massive drop slide, the largest one in the hemisphere, if Sam remembered the description in the park map correctly. It was housed inside the body of a fifteen-story animatronic gorilla that roared when the trap-door capsule on the top of the slide opened and the rider plummeted down a nearly ninety-degree vertical.

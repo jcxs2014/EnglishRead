@@ -29,7 +29,7 @@ modified: "2026-11-18"
 **中文理解**：晚九点，Macaw Falls 以东的迷你主题园开启夜间嘉年华——四座过山车坐到晕、二十顶活动帐篷逛个遍。
 **关键词**：after-dark carnival / roller coasters / event tents
 **为什么这样写**：数字三连（八点/九点、四座/二十顶）是广播体的节奏秘诀——精确到夸张的供应清单，把"选择过多"这件事再次做成卖点；Sam 在正章里得的"decision fatigue"，广告层却当成幸福在卖。
-**读者视角提示**：这是 Macaw Falls 第一次被点名（Sam 的新朋友正是约他去那里）——广播与正章将在同一地点交汇，注意夜间嘉年华的"after-dark"和后文水项目"glow in the dark"共享同一夜。
+**读者视角提示**：广播也点名了 Macaw Falls——Sam 的新朋友正是约他去那里——广播与正章将在同一地点交汇，注意夜间嘉年华的"after-dark"和后文水项目"glow in the dark"共享同一夜。
 
 > **原句 4:** “For guests ages fifteen and up, the summer stage will have two hours of live music, featuring the chart-topping K-pop band NOVA7. Dance like no one’s watching and meet the bands after their performances.”
 **中文理解**：十五岁及以上客人可在夏季舞台听 NOVA7 两小时现场演出，还能在演出后与乐队见面。

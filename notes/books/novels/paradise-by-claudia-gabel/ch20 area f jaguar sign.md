@@ -7,14 +7,14 @@ modified: "2026-11-19"
 
 ## 本章导航
 - **一句话概括**：Avery Max 带队下到 Area F 峡谷，新盟友的"perks"口径第一次出现裂缝；美洲豹的咆哮当面炸响，无窗建筑门楣上挂着"He who kills with one leap"——Milo 读出 jaguar 词源，Sam 的"撤退提案"被驳回后，黑影在峡谷顶端的林间掠过。
-- **情感弧线位置**：信任与恐惧同时换挡——Sam 赢下峡谷竞速、自认"revolution"接管，却被一声真实的 growl 打回原形；Jones 姐弟的盔甲当众开裂。
+- **情感弧线位置**：信任与恐惧同时换挡——Sam 赢下峡谷竞速、自认"revolution"接管，却被一声真实的 growl 打回原形；Jones 兄妹的盔甲当众开裂。
 - **Tropes 兑现/反转**：兑现"秘密基地揭示"节点；双重反转——最先被吓破胆的是业主子女，而提议"叫家长"的恰是昨天还在逞英雄的 Sam。
 - **人物弧线**：Sam（得意→破防→诚实）；Avery（辩护人→"completely different person"）；Milo（词源课+安全否决权）；Jordan（desperate 论的执法者）。
 - **叙事手法**：用 4D 电影记忆做"假危险vs真危险"的对照蒙太奇；咆哮三进（远/清晰/头顶）制造声学压迫；牌匾以孤立短行揭示，词源解释紧随其后做"科普式降温"再反转。
 
 ## 精读
 > **原句 1:** Whoa. The last time they saw their parents was a month ago? That had to be hard on her and Max, no matter how independent they seemed. “And we know Mum and Dad took investors to the southern end of the canal, opposite the Plunge site,” Max said. “Which is where we are right now,” said Avery. “If anything big is happening on the island, it’s here.”
-**中文理解**：Sam 心头一震：姐弟俩上次见父母竟是一个月前？"爸妈带投资者去了运河南端、Plunge 场地对面"——"就是我们脚下这里。岛上要出大事，就在这。"
+**中文理解**：Sam 心头一震：兄妹俩上次见父母竟是一个月前？"爸妈带投资者去了运河南端、Plunge 场地对面"——"就是我们脚下这里。岛上要出大事，就在这。"
 **关键词**：a month ago / investors / opposite the Plunge site
 **为什么这样写**：情报与家史同框交付——作者让 Avery Max 的"导游知识"里掺进父母缺席的日期，特权家庭的孤独被顺口带出；"opposite the Plunge site"把上一章的悬崖与本章的峡谷地理焊死，秘密的坐标第一次有了方位。
 **读者视角提示**：记住"一个月没见爸妈"这个细节——本章末 Avery 的"completely different person"与此呼应：被放养的孩子对父母事业的认知，可能比谁都少。
@@ -40,7 +40,7 @@ modified: "2026-11-19"
 > **原句 5:** All three of them barreled down the ravine at high speed. At first, Sam struggled to maintain his balance, so Max was in the lead. But then Max tripped on something and began to roll head over feet until he was splayed on his back, his arms and legs spread out like a starfish. Avery was right behind him, and she started laughing so hard she had to stop to catch her breath. Sam seized this opportunity for victory, launching into a sprint and beating them both.
 **中文理解**：三人全速冲下峡谷——Max 绊倒摔成"大"字，Avery 笑到喘不上气，Sam 抓住战机冲刺，赢下两人。
 **关键词**：barreled down / splayed like a starfish / seized this opportunity for victory
-**为什么这样写**：一场摔跤喜剧垫在恐怖前——作者让"特权姐弟"当众出丑、让最不被看好的 Sam 赢得干净利落；"seized this opportunity"的战场措辞把孩子的赛跑写成战役，为"Paradise Sam 接管"的错觉备足燃料。
+**为什么这样写**：一场摔跤喜剧垫在恐怖前——作者让"特权兄妹"当众出丑、让最不被看好的 Sam 赢得干净利落；"seized this opportunity"的战场措辞把孩子的赛跑写成战役，为"Paradise Sam 接管"的错觉备足燃料。
 **读者视角提示**：这是 Sam 在本书赢下的第一场"正面比赛"——记住这份得意的高度，两段之后咆哮响起时，落差就是恐惧的深度。
 
 > **原句 6:** Max got up and brushed himself off while Avery rambled to the bottom of the ravine. When Max caught up to Sam, he went over and rustled his hair. “You got lucky, bruh.” Sam wasn’t so sure about that. Today, he’d successfully hiked for miles, broken into a trailer, climbed a huge tree, and won a race. It didn’t feel like luck. It felt more like a revolution. Paradise Sam was taking over, and if he remained in control, maybe Sam’s alter ego would be here to stay.
@@ -56,7 +56,7 @@ modified: "2026-11-19"
 **读者视角提示**：对照 ch12 的"cheeks turned bright red"测谎梗——这本书一直在用身体当证词。Sam 的牙齿此刻比任何口供都诚实。
 
 > **原句 8:** Avery clutched her brother’s arm, and Max’s expression was blank. For once, they were the ones who’d been proven wrong. It was the first time he’d ever seen a shred of vulnerability from them. Maybe they were more like him than he’d thought.
-**中文理解**：Avery 死死抓住哥哥的胳膊，Max 面无表情——这一次被证伪的是他们；Sam 头一回看见这对姐弟露出"一丝脆弱"，心想：他们也许比自己以为的更像他。
+**中文理解**：Avery 死死抓住哥哥的胳膊，Max 面无表情——这一次被证伪的是他们；Sam 头一回看见这对兄妹露出"一丝脆弱"，心想：他们也许比自己以为的更像他。
 **关键词**：clutched her brother’s arm / a shred of vulnerability / more like him
 **为什么这样写**：特权人设的裂缝第一次肉眼可见——作者用"抓胳膊+面无表情"两个动作把傲慢者的恐惧写进肢体；"more like him"是 Sam 认同机制的关键一跳：他终于不需要仰视这两人，共情通道开了。
 **读者视角提示**：记住"proven wrong"的分量——Avery Max 此前的一切权威（门禁、情报、口音）都建立在"对"上。本章他们连输两次：事实错了，胆量也没了。
@@ -76,7 +76,7 @@ modified: "2026-11-19"
 > **原句 11:** “It’s one of the many perks of being children of the resort owners,” Avery said, though her voice sounded nothing like her. It was kind of monotone and empty, like someone had stolen that spicy spark that Sam liked about her. “We shouldn’t brag about that anymore, sis,” replied Max. That statement hung in the air as his eyes cast to the ground, like he was ashamed.
 **中文理解**：Avery 说"这是业主子女的众多 perks 之一"——可她的声音完全不像她自己，单调而空，"像有人偷走了 Sam 喜欢的那点辣劲"；Max 说"咱别再炫这个了，妹"，说完垂下眼睛，像在羞愧。
 **关键词**：perks / monotone and empty / like he was ashamed
-**为什么这样写**："perks"这个词第三次出现，语调终于塌了——作者用声音的变化给特权叙事降旗：同一句炫耀，说的人已经不信了；Max 的"不该再炫"与垂眼是这对姐弟最接近道歉的时刻，与父母的罪形成第一道代际切割。
+**为什么这样写**："perks"这个词第三次出现，语调终于塌了——作者用声音的变化给特权叙事降旗：同一句炫耀，说的人已经不信了；Max 的"不该再炫"与垂眼是这对兄妹最接近道歉的时刻，与父母的罪形成第一道代际切割。
 **读者视角提示**：对照 ch09 Avery 的"celebrity-adjacent"自信——同一个词根（perks）从入场券变成了枷锁。注意 Sam"liked about her"的措辞：他的好感在此刻依然在场，这会搅动他后面的判断。
 
 > **原句 12:** “Okay. I’m going to be honest with you guys,” he began. “I don’t want to be a jaguar’s lunch. But I don’t know if I want to go in here, either. What if we go back to the resort and tell everyone what we’ve found?” “You mean retreat?” Lily said, as if they were all soldiers or something. “Not exactly.” Sam scratched the back of his neck nervously. “Just … aren’t you guys beginning to feel like we’re in over our heads?”

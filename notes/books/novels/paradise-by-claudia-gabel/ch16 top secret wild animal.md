@@ -17,7 +17,7 @@ modified: "2026-11-18"
 **中文理解**：Lily 的"变 Jordan"计划彻底反噬，与 Sam 的誓约成了笑话——父母如胶似漆，根本没注意到她昨晚在晚餐上有多难过。
 **关键词**：backfired / nothing but a joke / attached at the lips
 **为什么这样写**：三份关系同时挂零——自我改造失败、同盟破裂、父母无视线；"attached at the lips"的夸张比喻把父母的甜蜜写成对孩子的遮挡物，作者让 Lily 的孤立不止是"没朋友"，而是"在爱里隐形"。
-**读者视角提示**：对照 ch12 Sam 的"shiny and special"饥渴——这对父母的爱很多，但都浇不到孩子缺水的位置。兄妹俩的同一种孤独，此刻第一次对称成立。
+**读者视角提示**：对照 ch15 Sam 的"shiny and special"饥渴——这对父母的爱很多，但都浇不到孩子缺水的位置。兄妹俩的同一种孤独，此刻第一次对称成立。
 
 > **原句 2:** And on top of everything, there was the growl. Whatever it was, Lily knew it was out of place here—if only someone would believe her.
 **中文理解**：还有那声 growl——无论它是什么，Lily 知道它不属于这里；可惜没人肯信她。
@@ -38,7 +38,7 @@ modified: "2026-11-18"
 **读者视角提示**：对照 ch03 的"Lookouts 付钱等坏事发生"——Lily 曾嫌他们碍事，本章第一次受其恩惠。同一双眼睛的两面性，作者开始在两个方向上使用。
 
 > **原句 5:** “I feel bad for reeling you and your cousin into it. I didn’t mean for everything to get so out of control. One step more, and we all could have gone over that cliff.”
-**中文理解**：Milo 连声道歉："把你们表姐弟卷进来我很过意不去——本不想让一切失控。再多走一步，我们都可能坠下那道悬崖。"
+**中文理解**：Milo 连声道歉："把你们表姐妹卷进来我很过意不去——本不想让一切失控。再多走一步，我们都可能坠下那道悬崖。"
 **关键词**：reeling you in / out of control / over that cliff
 **为什么这样写**：道歉的三段式从愧疚滑到惊悚复盘——作者用"one step more"这个距离单位量化死亡擦肩，把夜探的后果写成物理事实而非情绪修辞；责任被 Milo 主动揽走，与 Jordan 的"This is all my fault"形成本书第二次抢责。
 **读者视角提示**：注意两种抢责的方向：Jordan 对家人认错，Milo 对"卷入的人"认错——承担型人格在这本书里成对出现，也都在为别人的决定买单。
@@ -56,7 +56,7 @@ modified: "2026-11-18"
 **读者视角提示**：这是全书主题句"things aren't what they seem"的日常版：连美德在这个岛上的回报率都是负的。留意作者日后如何给"诚实"重新定价。
 
 > **原句 8:** When he was out of sight, she looked at the piece of paper. It was a note from Milo, written in typical boy scrawl. Thankfully, she had a brother, so her brain could decipher the message. Meet me at the Welcome Center. Top secret.
-**中文理解**：Milo 走后 Lily 展开纸条——标准的男孩体潦草字迹，幸好她有弟弟、破译无压力："欢迎中心见。最高机密。"
+**中文理解**：Milo 走后 Lily 展开纸条——标准的男孩体潦草字迹，幸好她有双胞胎兄弟、破译无压力："欢迎中心见。最高机密。"
 **关键词**：typical boy scrawl / decipher / Top secret
 **为什么这样写**：谍战语法写少男少女传纸条——"Top secret"的幼稚化与后文的真秘密形成反差铺垫；"typical boy scrawl"的吐槽顺便立起 Lily 的家庭视角：连认字技能都来自 Sam，兄妹的断裂与连通同帧呈现。
 **读者视角提示**：记住"Welcome Center"这个地点——全书信息的中枢（接待、导览、投诉、报告）。Milo 约在这里，等于约在系统的正门口做系统不批准的事。

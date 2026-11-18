@@ -62,9 +62,9 @@ modified: "2026-11-18"
 **读者视角提示**：Max 说过这张卡"everyone here hates you for it"——Sam 现在是全岛最羡慕又最招恨的位置。他能不能守住这个秘密，本章结束时答案已经写好了一半。
 
 > **原句 9:** “And another thing,” Sam continued. “You don’t need me or Jordan to help you get out of your head for a while and enjoy this place. Remember the pact. Your experience on Paradise is up to you.”
-**中文理解**：Sam 临出门回敬姐姐一句：你不需要我和 Jordan 帮你"从脑子里出来"享受这里——记得誓约，你的 Paradise 体验由你自己决定。
+**中文理解**：Sam 临出门回敬 Lily 一句：你不需要我和 Jordan 帮你"从脑子里出来"享受这里——记得誓约，你的 Paradise 体验由你自己决定。
 **关键词**：get out of your head / Remember the pact / up to you
-**为什么这样写**：最没责任感的人说了最有分量的话——Sam 拿奶奶的广播口号（ch01 原句 3 正是这句）当挡箭牌，把姐姐的担心轻巧地推回给她自己；作者让"誓言"第一次被当武器使用，也为它后面被检验埋下伏笔。
+**为什么这样写**：最没责任感的人说了最有分量的话——Sam 拿奶奶的广播口号（ch01 原句 3 正是这句）当挡箭牌，把 Lily 的担心轻巧地推回给她自己；作者让"誓言"第一次被当武器使用，也为它后面被检验埋下伏笔。
 **读者视角提示**：同一句"experience is up to you"，在 Simone 嘴里是广告，在 Sam 嘴里是推脱，在 Lily 心里即将变成行动指令——同一句口号的三种用法，正是这本书读口号的方式。
 
 > **原句 10:** Lily took a deep breath and asked herself, “What would Jordan do?” There was no question about it. Jordan wouldn’t stay inside and wait for Lily to come back.

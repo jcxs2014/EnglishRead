@@ -20,7 +20,7 @@ modified: "2026-11-19"
 **读者视角提示**：记住这只标本的姿势（下一块原文）：腾跃、张口——它是这场"表演"的广告海报。标本越逼真，说明设计者越想让人期待真货。
 
 > **原句 2:** It was such a convincing replica that Lily completely understood why Max and Avery had flipped out. The body of the stuffed jaguar was positioned in a leaping motion, front and hind legs outstretched. Its mouth was wide open as though it was going to eat them alive.
-**中文理解**：这只复制品逼真到 Lily 完全理解姐弟俩为何失态——标本定格在腾跃姿态，前后腿伸展，大张着嘴像要把他们活吞。
+**中文理解**：这只复制品逼真到 Lily 完全理解兄妹俩为何失态——标本定格在腾跃姿态，前后腿伸展，大张着嘴像要把他们活吞。
 **关键词**：convincing replica / leaping motion / eat them alive
 **为什么这样写**：标本被做成"捕猎中"的定格——作者把装饰品写成了威胁的姿态，让进门的第一眼就是一场假狩猎；"eat them alive"的夸张联想则是本能反应的白描：理性知道是假的，身体不信。
 **读者视角提示**：把"leaping"这个词记着——下一块 Milo 会解释 jaguar 词源正是"一跃毙命者"。标本的姿态是词源的三维插图。
@@ -44,9 +44,9 @@ modified: "2026-11-19"
 **读者视角提示**：把这个问题当成全书向读者发出的同题拷问——Paradise 卖的每一份"体验"，边界在哪里？孩子们此刻站在了答案的最暗处。
 
 > **原句 6:** “No, that’s … that’s animal cruelty,” she stammered. “And it’s against the law,” Sam added. “Like smuggling the animals here.” “Dad and Mum aren’t who we thought they were, are they?” Avery asked her brother. “I don’t think so. What more proof do we need?” he answered.
-**中文理解**：Avery 结结巴巴："这是虐待动物"；Sam 补上"而且违法——就像走私这些动物一样"；Avery 问弟弟"爸妈不是我们以为的那种人，对吧？"——Max 答"我觉得不是。还要什么证据？"
+**中文理解**：Avery 结结巴巴："这是虐待动物"；Sam 补上"而且违法——就像走私这些动物一样"；Avery 问哥哥"爸妈不是我们以为的那种人，对吧？"——Max 答"我觉得不是。还要什么证据？"
 **关键词**：animal cruelty / against the law / aren’t who we thought they were
-**为什么这样写**：信仰坍塌四连拍——作者让道德命名（cruelty）、法律命名（against the law）、身份重估（aren't who we thought）层层递进；Avery Max 对父母的判决只用了一句话，与三兄妹花了一整本书对 Nan 的迟疑形成残酷对照：距离产生辩护。
+**为什么这样写**：信仰坍塌四连拍——作者让道德命名（cruelty）、法律命名（against the law）、身份重估（aren't who we thought）层层递进；Avery Max 对父母的判决只用了一句话，与三个孩子花了一整本书对 Nan 的迟疑形成残酷对照：距离产生辩护。
 **读者视角提示**：注意"smuggling"在此被正式归档——ch19 的偷听由孩子们口述、本章由局内子女承认。Jones 夫妇的"criminals"定性至此获得家属签章。
 
 > **原句 7:** Some betrayals couldn’t be repaired with apologies. Or free fancy vacations. Which was actually what Nan had said to Jordan, too, Lily remembered.

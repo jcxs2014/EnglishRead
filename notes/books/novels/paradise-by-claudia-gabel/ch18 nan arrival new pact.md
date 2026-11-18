@@ -20,7 +20,7 @@ modified: "2026-11-19"
 **读者视角提示**：注意 Greg 的辩词在下一块——"没有撒谎，只是没立刻全说"。夫妻俩对"欺骗"的定义差，正是这个家所有秘密得以运转的语法。
 
 > **原句 2:** She quickly turned to see a slender woman wearing a cropped silver jacket over a navy jumpsuit and red ankle boots. She had her father’s narrow nose, Uncle Elliott’s square chin, and shoulder length white hair with curtain bangs.
-**中文理解**：Jordan 转身撞见一位陌生女人——银色短夹克配藏青连体裤和红靴，长着爸爸的窄鼻子、Elliott 舅舅的方下巴，齐肩白发配帘式刘海。
+**中文理解**：Jordan 转身撞见一位陌生女人——银色短夹克配藏青连体裤和红靴，长着爸爸的窄鼻子、叔叔 Elliott 的方下巴，齐肩白发配帘式刘海。
 **关键词**：slender woman / narrow nose / curtain bangs
 **为什么这样写**：Nan 的登场只给服装与遗传——作者用"家庭成员的脸"完成身份认证，比报名字更有冲击力：她像这三个男人拼出来的镜像；白发与帘刘海则把她钉在"时髦"与"年长"的交点上，第一眼就复杂。
 **读者视角提示**：对照 Jordan 信里的奶奶（ch05 银色 Sharpie 字迹）与眼前的银色夹克——Nan 的每一次出场都带着金属色。注意她的穿着成本：这个人从不掩饰自己的财力。
@@ -74,9 +74,9 @@ modified: "2026-11-19"
 **读者视角提示**：对照 ch05 的"two against one"——Jordan 当时的控诉是父母联手压制她，如今控制权向上又移了一层：她连"被父母管"的位置都失去了。
 
 > **原句 11:** “I mean, yeah. She’s holding this mistake over Uncle Greg’s head and using it to take control of his whole life.”
-**中文理解**：Sam 一锤定音："奶奶把这次错误捏在舅舅头上，用他整个人生当筹码。"
+**中文理解**：Sam 一锤定音："奶奶把这次错误捏在叔叔头上，用他整个人生当筹码。"
 **关键词**：holding this mistake / over Uncle Greg’s head / take control of his whole life
-**为什么这样写**：孩子的伦理裁决比大人更锋利——作者让 Sam 用"holding over one's head"这个经典控制意象给 Nan 定罪，判断简单但直指核心；这句话同时是三兄妹第一次达成"风险共识"。
+**为什么这样写**：孩子的伦理裁决比大人更锋利——作者让 Sam 用"holding over one's head"这个经典控制意象给 Nan 定罪，判断简单但直指核心；这句话同时是三个孩子第一次达成"风险共识"。
 **读者视角提示**：注意"cold-blooded"（上一句）与"holding over head"的递进——从性格评价升级为行为机制分析。Sam 对"霸凌结构"的嗅觉来自他被欺凌的经验，他一眼认出了同类结构。
 
 > **原句 12:** “Vacations in Thrill Harbor are meant for quests! Just make sure you’re prepared and you’ll find what you’re looking for.”
@@ -123,4 +123,4 @@ modified: "2026-11-19"
 | cheerfully | 欢快地；兴致勃勃地 | Nan said cheerfully. |
 
 ## 一句话总结
-Nan 的空降让温哥华之谜在餐桌上合龙：投资崩盘、房子抵押、全家被奶奶接管——而三兄妹用一封语言指纹级的老信和一台 AI 神谕，把各自为战的一周拧成"We stick together, no matter what"的新誓约：这一次，誓言保护的对象是彼此。
+Nan 的空降让温哥华之谜在餐桌上合龙：投资崩盘、房子抵押、全家被奶奶接管——而三个孩子用一封语言指纹级的老信和一台 AI 神谕，把各自为战的一周拧成"We stick together, no matter what"的新誓约：这一次，誓言保护的对象是彼此。
