@@ -14,7 +14,7 @@
 
 | ch | 语料 | 内容 | commit |
 |---|---|---|---|
-| 01 | ch01_chapter_1 | Chapter 1 · I · RUE · MARCH 1821（绿裙污渍/陪 Horewith 前夜） | |
+| 01 | ch01_chapter_1 | Chapter 1 · I · RUE · MARCH 1821（绿裙污渍/陪 Horewith 前夜） | 46c8fe482 |
 | 02 | ch02_chapter_2 | Chapter 2 · II（宴飨 Lord Horewith） | |
 | 03 | ch03_chapter_3 | Chapter 3 · III（Veronica 洗裙） | |
 | 04 | ch04_chapter_4 | Chapter 4 · IV（房间藏品） | |
