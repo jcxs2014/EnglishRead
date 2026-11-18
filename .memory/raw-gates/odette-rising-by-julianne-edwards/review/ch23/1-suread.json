@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch23",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch23_chapter_23.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Odette 身穿 Arielle 嘱咐她穿的新蓝裙、头顶惯常的 boater 草帽，站上临时搭起的讲台面对 One hundred and thirty-one（131）名工人讲话；她手套里缝着石子、手里捏着一张改了又改的讲稿，怕站不稳。",
+   "anchor": "One hundred and thirty-one workers made quite a crowd",
+   "interval": [
+    33,
+    86
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 为去年因父亲去世造成的短暂停工向工人致歉，称那只是\"调整期\"，安抚大家对工厂与职位的担忧（工头 Dupont 在台下紧张地替她张罗安静）。",
+   "anchor": "I apologize for the brief closure last year.",
+   "interval": [
+    1108,
+    1152
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她宣布上季订单是厂史上最大（巴黎反响极好）、将在本周周末按工资百分比发一笔小额奖金答谢；工人当场喝问 \"How much?\"、\"What's a percentage?\"、还有人问 Marie Corot 能拿多少—— Odette 措手不及。",
+   "anchor": "a small monetary bonus, a little extra at the end of this week",
+   "interval": [
+    1725,
+    1787
+   ],
+   "verified": true
+  },
+  {
+   "fact": "情急之下 Odette 抛出新决定：Next Saturday evening 为工人及其家属在厂里办一场派对（有吃的、有游戏、为 Huré 的未来举杯），Dupont 惊讶转身，人群安静了下来。",
+   "anchor": "So, we will hold a party for you and your families. Next Saturday evening.",
+   "interval": [
+    3200,
+    3274
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她双手垂下时藏石的手套滑脱，两块石子先后砰砰砸在木地板上当众出丑（\"a woman who kept rocks in her gloves\"）；人群早已起哄嘲弄，散去后 Dupont 捡起石子塞进自己口袋。",
+   "anchor": "which hit the wooden floor, one after another, with two loud thumps",
+   "interval": [
+    3635,
+    3702
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章转折：马厩问话中，车夫 Ned Smith（自述随 Grant 家从 Buckinghamshire 来法、原是 Grant 先生的贴身男仆而非车夫，为过安静日子和马留下）证实：Grant 家来访期间的\"纠葛\"所怀的孩子就是 Odette，其母是随行的 Grant 夫人的英国女佣。",
+   "anchor": "“Yes. You, mademoiselle,” the driver said.",
+   "interval": [
+    7594,
+    7636
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Ned Smith 说出她母亲的名字——Elizabeth Perkins（Lizzie）：死于难产（他试图帮忙，但女佣们已离开、医生没来得及赶到）；Monsieur Huré 坚决不许把婴儿带回英国、要她留在身边，无儿无女的 Madame Huré 尤其想要她——Odette 闻言泪流满面。",
+   "anchor": "“Elizabeth Perkins. Lizzie.”",
+   "interval": [
+    8909,
+    8937
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日 Odette 带 Merry 赴巴黎 Rue Jean Bart 向 Berthe 与 Louis Grimard 请教办工人派对（并承认厂里有罢工风声）；Berthe 从玻璃箱抱出一条大蛇如抚猫，与 Grimard 争论女人需要\"保护人\"还是\"灵魂伴侣\"，宣称 \"No more protectors. I am free\"——母狮惯于咬死驯狮人。",
+   "anchor": "“A woman needs a soulmate, Louis, not a protector,” said Berthe",
+   "interval": [
+    19079,
+    19142
+   ],
+   "verified": true
+  }
+ ]
+}

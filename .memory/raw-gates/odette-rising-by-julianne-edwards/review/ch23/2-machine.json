@@ -1,0 +1,435 @@
+{
+  "chapter": 23,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch23 elizabeth perkins.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch23_chapter_23.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They were egging each other on, emboldened by their numbers. She should have just gone about the factory and spoken to t",
+          "ok": true,
+          "pos": 2312
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "People leaned forward to see. Her head went down. She was burning with humiliation. A woman who kept rocks in her gloves",
+          "ok": true,
+          "pos": 3613
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "How hard can it be? she wondered. But as she looked around the courtyard, and thought of all those hostile faces, she co",
+          "ok": true,
+          "pos": 4358
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I wanted a quieter life. And the horses, well, they don’t let you down. I would rather be with horses than people.”",
+          "ok": true,
+          "pos": 6743
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“During the Grants’ stay there were unfortunate events. Entanglements. There was to be a baby. It was a difficult time.”",
+          "ok": true,
+          "pos": 7164
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Monsieur Huré would not hear of you being taken back to England. He wanted you here, with him.”",
+          "ok": true,
+          "pos": 7581
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He looked uncomfortable. “Because she had no children of her own, and because your mother died in childbirth.” He gestur",
+          "ok": true,
+          "pos": 7958
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She could make no sense of herself. It was too much. Tears broke free and poured down Odette’s cheeks. She did not try t",
+          "ok": true,
+          "pos": 8682
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The two women who had wanted her had died. Her father had supposedly also wanted her but had then done his utmost to neg",
+          "ok": true,
+          "pos": 9274
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "For reasons she couldn’t name, she found herself almost repulsed by him, and when he had come close to help her up, rage",
+          "ok": true,
+          "pos": 11324
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It didn’t make sense, and yet",
+          "ok": true,
+          "pos": 11996
+        },
+        {
+          "text": "did she, herself, somewhere in the unbearable, buried depths of her mind somehow also feel that she had been responsible",
+          "ok": true,
+          "pos": 12025
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "when Berthe turned to face them, her silk robe shimmering, she held a huge snake in her arms. Her eyes shone and she str",
+          "ok": true,
+          "pos": 17216
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“No. No more protectors. I am free and I will remain free. I will take my chances with society. Lionesses have a habit o",
+          "ok": true,
+          "pos": 19354
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "23. Chapter Twenty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3578,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

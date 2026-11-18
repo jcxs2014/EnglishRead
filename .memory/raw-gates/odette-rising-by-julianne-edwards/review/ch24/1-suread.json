@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch24",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch24_chapter_24.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "凌晨 Beauclerc 在楼上客厅望着街上零星夜行人，怀表指着 three o'clock；他的妻子已于 midnight 去世——他提醒自己记住这个时刻，好填进死亡证明（Doctor Malin 已离开）。",
+   "anchor": "It was three o’clock. His wife had died at midnight.",
+   "interval": [
+    311,
+    363
+   ],
+   "verified": true
+  },
+  {
+   "fact": "女佣 Elise 正剥去染满血的床单、梳理死者纠结的头发，要赶在 six 点男孩醒来去找妈妈之前，让她显得干净安详。",
+   "anchor": "make sure she looked clean and calm by six, when the boy would wake",
+   "interval": [
+    567,
+    634
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Elise 致哀 \"I’m sorry for your loss, sir\"，Beauclerc 微笑答 \"I think it is our loss, is it not?\"；守了整整一天一夜、早已力竭的 Elise 再也撑不住，跑出房间。",
+   "anchor": "“I think it is our loss, is it not?” He smiled.",
+   "interval": [
+    1539,
+    1586
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 回忆午夜临终时刻：妻子的最后一口气不是安详的叹息，而是可怕带血的痰鸣、身体抽搐如仍在抗拒死亡；他握着她的手、敷湿布、絮絮讲两家村庄与孩子的旧事，却不知如何道别。",
+   "anchor": "It was a terrible, bloody rattle, and her body had convulsed",
+   "interval": [
+    2163,
+    2223
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 从窗口看那名站街女折返，捡起别人丢在月光照亮的石板路上的烟头点上，心生怜悯——她也是某个人的女儿、也许是姐妹、甚至是母亲，不该在街上捡烟蒂。",
+   "anchor": "He felt a rush of compassion; she was someone’s daughter",
+   "interval": [
+    2666,
+    2722
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章转折：Beauclerc 听到儿子急促的脚步声，三步跨过房间在走廊截住他，告知 \"Your mother has passed away… she's gone to God\"；男孩尖叫 \"No!\" 挣脱跑进卧室，扑到母亲洁白静默的遗体旁喊 \"Maman, Maman!\"。",
+   "anchor": "Your mother has passed away. She’s…that’s to say, she’s gone to God.”",
+   "interval": [
+    3538,
+    3607
+   ],
+   "verified": true
+  },
+  {
+   "fact": "男孩跑回客厅一头撞上墙壁、用头撞墙自伤；Beauclerc 把他抱住拉开、跪倒在地将孩子的头搂进胸口安抚 \"It will be all right\"。",
+   "anchor": "smashing his head against it. His father caught him up in his arms",
+   "interval": [
+    4044,
+    4110
+   ],
+   "verified": true
+  },
+  {
+   "fact": "男孩央求父亲一起为母亲的灵魂祈祷，好让她渡过 \"the bridge to the land of the dead\"；Beauclerc 说自己正等着他、两人一起祈祷更有力量——父子合十，直到街上渐起的喧嚣盖过孩子背完的祷词。",
+   "anchor": "She will need our prayers when she crosses the bridge to the land of the dead",
+   "interval": [
+    4690,
+    4767
+   ],
+   "verified": true
+  }
+ ]
+}

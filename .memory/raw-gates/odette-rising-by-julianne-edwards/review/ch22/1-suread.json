@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch22",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch22_chapter_22.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Beauclerc 回到 Lille 的住处，儿子一反常态冲过来抱住他的腰、把卷发脑袋埋进他肚子里——此前孩子一直被叮嘱远离病中的母亲，Beauclerc 判断这拥抱说明孩子受了惊吓（父子关系；不像平日拍家犬那样拍完肩孩子就跑开）。",
+   "anchor": "his son raced toward him and flung two thin arms around his waist",
+   "interval": [
+    439,
+    504
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 走进卧室，见女佣 Elise 与医生神情严肃地站在大床旁；他的妻子咳血卧床、血手帕散落如\"玫瑰花环\"、眼下青黑——夫妻俩早已分房睡，他睡在走廊边的小房间。",
+   "anchor": "Standing over the big bed were the housemaid, Elise, and the doctor",
+   "interval": [
+    847,
+    914
+   ],
+   "verified": true
+  },
+  {
+   "fact": "医生已替 Beauclerc 的妻子打听到可收治她的 Sanatorium d'Agincourt 疗养院（干净空气、休养、洁水、最新疗法），劝道 \"Don't delay\"；Beauclerc 转述妻子以信仰上帝为由拒绝，并答应当晚再去劝她。",
+   "anchor": "I have made inquiries. The Sanatorium d’Agincourt can take her.",
+   "interval": [
+    2560,
+    2623
+   ],
+   "verified": true
+  },
+  {
+   "fact": "妻子低声问工厂今日如何，Beauclerc 报告已找到加固车架焊缝的办法，妻子答 \"Good. Well done.\"（他在 Lille 为雇主 Legrands 家经营自行车厂）。",
+   "anchor": "We have found a way to strengthen the welds in the frame.",
+   "interval": [
+    4362,
+    4419
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章僵局：Beauclerc 劝妻子去疗养院，她明确拒绝——\"I'll stay here. I won't leave you.\"；Beauclerc 知道强送会令她痛苦、且此病并无治愈之法，决定让妻子留在家中、守在她身边。",
+   "anchor": "“I’ll stay here. I won’t leave you.”",
+   "interval": [
+    4556,
+    4592
+   ],
+   "verified": true
+  },
+  {
+   "fact": "过去数周已确认是 consumption（肺痨）在吞噬她的肺；Beauclerc 仍不肯放弃希望——有人能扛过去、多半靠运气，而她本是个结实的乡下女人。",
+   "anchor": "it was indeed consumption that was eating her lungs",
+   "interval": [
+    4931,
+    4982
+   ],
+   "verified": true
+  },
+  {
+   "fact": "妻子正式确诊后，只有 Beauclerc 的雇主 Legrands 家表示过关心，送来一封慰问便条和一只腌火腿；这一家在 Lille 孤立无友——儿子只有一个住城另一头的同学，妻子参加的刺绣圈的女人也不友好。",
+   "anchor": "the Legrands, had expressed any concern, sending a note and a cured ham",
+   "interval": [
+    6888,
+    6959
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 独自吃晚饭、连饮数杯 claret 时，反复惦念 Huré 厂的 Odette（他从该厂离职）：时而盼她有得力的经理照拂工人，时而盼她当众惨败、被赶回那栋恶屋；他还收到父亲的信，祝贺他这次任命（当年他改做 stocking 时父亲从未祝贺过）。",
+   "anchor": "he hoped she’d failed, dismally and publicly, forced back to her wretched house",
+   "interval": [
+    7621,
+    7700
+   ],
+   "verified": true
+  }
+ ]
+}
