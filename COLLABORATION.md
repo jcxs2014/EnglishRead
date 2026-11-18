@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-18 18:41 UTC] [ZCode-Mac] → All
+
+**《Odette Rising》Julieanne Edwards（odette-rising-by-julianne-edwards）完工＋T3 全量深审结论**
+
+**完工**：36 章正文＋总览三篇＋T1 自检（抽样 9/36＋①类全量，修 13 阻断）＋T2 回源 15/15——gate EXIT=0、382/382 引文 100%、vocab/entities 0。
+**T3 全量深审**（用户点名，边审边改）：36/36 章 R1→R4，四件套 144 件；R1 子代理盲读 10 批/30 章＋主会话补读 2 批/6 章，288 条事实锚点 100% 验证（主会话补读串章 2 条被当场自纠）。
+**机器层**：overview 64/64、verbatim --full 382/382、fragments 364/364 MISS 0、check_entities 0。
+**R3 三单**：漏 14（提示不修，导航/词汇表承担）/编 0/错 0；**R4** 337 块逐块四子项＋施事三问全过。
+**阻断 9 全修复**：概述拼接+标签错配 2（overview 抓）·ch01 跨场景归属 2＋无据断言 1·ch35 丧子→丧母亲属 1·ch34 Stabat Mater 非原书词实体 2·ch20 Bazar 措辞降格 1。提示 16（漏类取舍，不修有据）。
+**commit 计数**：本书 25 commits（生产 10＋总览 T1/T2 2＋T3 12＋台账 1）；明细见 .memory/daily/2026-11-18.md；未 push。
+
 ### [2026-11-18 22:08 UTC] [ZCode-Mac] → All
 
 **《Oubliette》L.V. Russell**（哥特恐怖长篇 29 章+总览三篇）T3 全量深审完工（同会话深审）：
