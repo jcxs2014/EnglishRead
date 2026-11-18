@@ -21,7 +21,7 @@ modified: "2026-11-18"
 **为什么这样写**：生日的档案缺失与季节的强制绑定，把「生日」写成一场周年祭；「Until today.」两个词的独立成段是本章的发令枪：礼物提前了——而提前意味着异常。
 **读者视角提示**：记住「礼物总在秋天」——它在非秋天到来这件事本身，就是母亲失控的第一个信号。异常即预警。
 
-> **原句 2:** "The wrinkled flesh of forgotten fruit has begun to stink—leftovers from my mother’s bloody feast. I find I do not mind the scent, the sharpness of it, the slow natural decay of things. It covers up the stench of blood, excrement and vomit. … The Ladies remain, though mother has posed them around the table, all their heads lolling except for Lady Bellamy, who has none. It is a crude display, a game of waiting. I will not remove them, and nor will she."
+> **原句 2:** "The wrinkled flesh of forgotten fruit has begun to stink—leftovers from my mother’s bloody feast. … I find I do not mind the scent, the sharpness of it, the slow natural decay of things. It covers up the stench of blood, excrement and vomit. … The Ladies remain, though mother has posed them around the table, all their heads lolling except for Lady Bellamy, who has none. It is a crude display, a game of waiting. I will not remove them, and nor will she."
 
 **中文理解**：被遗忘的水果皱起的皮开始发臭——母亲血宴的剩菜——干瘪的果肉从雕花玻璃碗里溢出来，霉在果皮上生茸，蓝而细密，与被甜腐引来的小黑蝇并肩蠕动。我发现自己不介意那气味——它的尖锐、事物缓慢自然的腐坏。它盖住了血、粪与呕吐物的臭。 ……夫人们还留着——母亲把她们在桌边摆好了姿势，个个脑袋歪垂，只有 Bellamy 夫人没有头。这是场粗陋的陈列，一场等待的游戏。我不会去收，她也不会。
 **关键词**：mold furs over the skin / It covers up the stench of blood / a game of waiting / I will not remove them, and nor will she.
