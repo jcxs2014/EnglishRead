@@ -36,9 +36,9 @@
 | 20 | ch20_chapter_20 | 1094 | Ghosts in the Skyline | a2fb96639 |
 | 21 | ch21_chapter_21 | 1837 | The Tactical Buffer | 8b38bc027 |
 | 22 | ch22_chapter_22 | 2564 | Thermal Irregularities | 7e6c742be |
-| 23 | ch23_chapter_23 | 2060 | The Steep Time | |
-| 24 | ch24_chapter_24 | 2001 | The Approaching Storm | |
-| 25 | ch25_chapter_25 | 2038 | The Canopy of Glass | |
+| 23 | ch23_chapter_23 | 2060 | The Steep Time | 25a547c2c |
+| 24 | ch24_chapter_24 | 2001 | The Approaching Storm | 402891302 |
+| 25 | ch25_chapter_25 | 2038 | The Canopy of Glass | 2e862f5ad |
 | 26 | ch26_chapter_26 | 1739 | The Unscripted Title | |
 | 27 | ch27_chapter_27 | 2031 | The Floral Handover | |
 | 28 | ch28_chapter_28 | 1565 | Pure Fiction | |
