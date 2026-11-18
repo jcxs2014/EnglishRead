@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch32",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch32_chapter_32.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Berthe 裹着皮草在炉边喝桃子贝里尼，问煤童 Merry 去了哪——她已好几天没见到他（Gilles 和 Eugénie 在旁拼图，Nanette 端来奶酪泡芙）。",
+   "anchor": "Berthe was wrapped in furs, sipping a peach Bellini by the fire",
+   "interval": [
+    58,
+    121
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 向 Berthe 宣布 Merry 已离开去巴黎做 footman（语气麻木，隐瞒了真相）。",
+   "anchor": "he has left us, moved on to a position in Paris. Footman.",
+   "interval": [
+    325,
+    382
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 说会找新男童顶替，过渡期由 Monsieur Smith 帮忙；她强忍泪意，只求 Berthe 别再追问。",
+   "anchor": "In the meantime, Monsieur Smith will help.",
+   "interval": [
+    648,
+    690
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 谎称 Polo「跑掉了」，Nanette 听后倒抽一口气，Berthe 还追问 Nanette 是不是喜欢那只小老鼠。",
+   "anchor": "He ran away, I’m afraid.",
+   "interval": [
+    1032,
+    1056
+   ],
+   "verified": true
+  },
+  {
+   "fact": "真相：是 Gagnon 派了人来，把完全垮掉的 Merry 用 fiacre（双轮马车）接走的。",
+   "anchor": "Gagnon had sent a man to fetch him",
+   "interval": [
+    1540,
+    1574
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 被带走时只回头看了 Nanette 一眼；她倚在门框上、把披肩裹紧、嘴唇紧抿（Merry 与 Nanette 的关系）。",
+   "anchor": "He had turned only to look at Nanette, who leaned on the door frame",
+   "interval": [
+    1646,
+    1713
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 重拾自残：数月没割的自己如今反复用刀片扎进大腿，才能短暂压住恐惧——她成了满身秘密、对他人犯下不可饶恕之罪的女人。",
+   "anchor": "She had not cut herself for months but now could not stop",
+   "interval": [
+    2362,
+    2419
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 回忆当年 Madame Dendron 和 Cook 离开、自己孤身被困镇上墙上时是 Merry 回来找到她、没有抛弃她；如今她却拿他的前途换自己的安稳，自认「不比 Gagnon 高尚」而恨自己。",
+   "anchor": "She was no better than Gagnon.",
+   "interval": [
+    3228,
+    3258
+   ],
+   "verified": true
+  }
+ ]
+}

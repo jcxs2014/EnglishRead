@@ -1,0 +1,349 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch31 the stake in napoleon.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch31_chapter_31.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Then, one afternoon, Eugénie scrambled into the kitchen, eyes wide, saying that a man was standing at the bottom of the ",
+          "ok": true,
+          "pos": 1549
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was caught in his odious trap. If she did not give in to his demand for Merry, she would lose her new family. If she",
+          "ok": true,
+          "pos": 3244
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“No, we love it here, with you. The children are happy and so am I. I didn’t think we would be again after Antoine’s dea",
+          "ok": true,
+          "pos": 4952
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Odette gasped when she saw the wooden stake protruding from the flank",
+          "ok": true,
+          "pos": 8262
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She understood him perfectly. Gagnon’s men had done this. Next time it might be one of them. This could not be",
+          "ok": true,
+          "pos": 9519
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "All of this, all that had happened, was her fault. She had put everyone in danger. This could not be. It had to stop",
+          "ok": true,
+          "pos": 10602
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“We must manage without you, and in any case, you have outgrown your position. No longer a coal boy. I would think you m",
+          "ok": true,
+          "pos": 11295
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She charged out before she crumpled, before her face was flooded by the tears that she was trying to hold back. She poun",
+          "ok": true,
+          "pos": 12006
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She reached into her pocket and took out Polo, who sat on her hand, nose up, whiskers twitching, his little heart beatin",
+          "ok": true,
+          "pos": 13526
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "As she passed, Odette felt the tremor of grief. At least he would have Polo with him. May God keep them safe",
+          "ok": true,
+          "pos": 13859
+        }
+      ],
+      "words": 22
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.39
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Thirty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2603,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

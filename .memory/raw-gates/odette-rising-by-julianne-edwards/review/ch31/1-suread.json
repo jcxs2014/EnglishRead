@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch31",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch31_chapter_31.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "二月末，Odette 全家搬进圣克卢公园（Parc de Saint-Cloud）边上的旧猎屋，作为新宅建成前的临时住所。",
+   "anchor": "At the end of February, the household had moved into an old hunting lodge",
+   "interval": [
+    5,
+    78
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 已把勒索款付给 Gagnon 但杳无音信，她并不认为这意味着 Gagnon 会放过他们（两人是勒索者与被勒索者，Gagnon 索要的是 Merry）。",
+   "anchor": "She had sent the money but had heard nothing and didn’t suppose for a moment",
+   "interval": [
+    313,
+    389
+   ],
+   "verified": true
+  },
+  {
+   "fact": "工厂最新一轮招聘经理的广告只收到两份回复且都不合适；Odette 已两周没去工厂，Dupont 十分焦急，不断向 Arielle 打听小姐何时回来。",
+   "anchor": "They had had only two responses to the latest advertisement for a manager",
+   "interval": [
+    727,
+    800
+   ],
+   "verified": true
+  },
+  {
+   "fact": "小女孩 Eugénie 跑进厨房报告：花园尽头站着一个可怕的男人，叫得出她的名字并追着她喊——Gagnon 的警告已逼近家门（Arielle 安抚孩子，Odette 惊觉这是警告）。",
+   "anchor": "a man was standing at the bottom of the garden. A frightening man.",
+   "interval": [
+    1642,
+    1708
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 劝 Arielle 带孩子去 Orsay 的表亲家避祸，Arielle 拒绝：她说孩子们在这里快乐，并引用 Odette 自己说过的话「最大的反抗就是幸福」。",
+   "anchor": "the greatest act of defiance is to be happy",
+   "interval": [
+    5887,
+    5930
+   ],
+   "verified": true
+  },
+  {
+   "fact": "夜里马厩遭袭：马 Napoleon 肋腹被木桩钉入，Ned 拔出木桩、Madame Guiche 取碘酒、Merry 按住马身施救；Odette 判定是 Gagnon 的人干的，担心下次受伤的就是家人（本章转折之一）。",
+   "anchor": "she saw the wooden stake protruding from the flank",
+   "interval": [
+    8444,
+    8494
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 解雇 Merry：安排他周末离开、去巴黎一户人家当 footman；Merry 哀求留下（放不下母亲、自己不会写字，Odette 让 Gilles 代笔写信）但她不为所动——为保家人把 Merry 交给 Gagnon，这是本章关键转折。",
+   "anchor": "I have arranged a position for you as a footman in a house in Paris.",
+   "interval": [
+    11846,
+    11914
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 从口袋里掏出宠物鼠 Polo，递给 Nanette，让她转交给离去的 Merry 作伴（Odette–Nanette–Merry 三人的无言告别）。",
+   "anchor": "took out Polo, who sat on her hand, nose up, whiskers twitching",
+   "interval": [
+    13904,
+    13967
+   ],
+   "verified": true
+  }
+ ]
+}

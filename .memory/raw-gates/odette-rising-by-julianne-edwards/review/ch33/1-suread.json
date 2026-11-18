@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch33",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch33_chapter_33.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "「Odette 城堡」（Castel Odette）动工：地基在水涝的地里挖成，墙体迅速升起；Odette 站在泥中想象未来的起居室（睡莲叶形窗、橡木地板）。",
+   "anchor": "The foundations had been dug despite the waterlogged ground",
+   "interval": [
+    31,
+    90
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis（与工头交谈后）向 Odette 提议：窗栅像工厂一样用锻铁，涂成风化黄铜做出铜绿效果——两人是宅邸设计与营造的搭档。",
+   "anchor": "We’re going to use wrought iron for the window grilles like the factory",
+   "interval": [
+    524,
+    595
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 提出要设计百合造型的铁艺壁灯，并提到 Berthe 卧室里装的是海仙女装饰。",
+   "anchor": "shaped to look like lilies growing from the walls",
+   "interval": [
+    884,
+    933
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis 说 Berthe 在那场可怕的袭击和马的「意外」之后虽康复但仍心事重重（他不知马是被 Gagnon 的人所伤），提议看歌剧让她重拾生气，也劝 Odette 别再封闭自己。",
+   "anchor": "it was a dreadful attack. And the accident with the horse",
+   "interval": [
+    1282,
+    1339
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis 提出订一个私人包厢（有帘幕、离舞台近、可藏身），想借此说服 Berthe 和 Odette 重回巴黎社交，并请 Odette 去劝 Berthe，说罢亲昵地碰了碰她的手臂便离开。",
+   "anchor": "I would get a box. A private box.",
+   "interval": [
+    2656,
+    2689
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 内心拒绝歌剧之邀：如今一想到进城就紧张，觉得巴黎这座城市似乎已经属于 Gagnon 了。",
+   "anchor": "It seemed as if it belonged to Gagnon.",
+   "interval": [
+    2156,
+    2194
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 起身时双脚陷进工地泥浆，猛拽后鞋飞出，整个人仰面摔进泥里。",
+   "anchor": "her shoe shot out and she toppled backward into the mire",
+   "interval": [
+    3657,
+    3713
+   ],
+   "verified": true
+  },
+  {
+   "fact": "躺在泥里她认了：她无法承受自己对 Merry 所作所为的记忆——这是一种「活着的死亡」；城堡即将建成，但她再也不会快乐（本章收束性的心境转折）。",
+   "anchor": "she could not survive the knowledge of what she’d done to Merry",
+   "interval": [
+    3798,
+    3861
+   ],
+   "verified": true
+  }
+ ]
+}
