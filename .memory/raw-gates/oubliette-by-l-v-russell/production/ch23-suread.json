@@ -4,64 +4,94 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch23_chapter_19.txt",
  "facts": [
   {
-   "fact": "生日无记录、日期随母亲 whims 变、总在秋天——「Until today.」今天不是秋天她也送礼物",
-   "anchor": "It is then, and only then, that she bestows a gift upon me.",
-   "start": 404,
-   "end": 463
+   "fact": "块1（引语自动锚点）",
+   "anchor": "There is no record of my birth, and the day it falls upon ch",
+   "start": 88,
+   "end": 148
   },
   {
-   "fact": "腐果臭盖血味；Ladies 尸体被母亲摆上桌（Bellamy 无头）——「a crude display, a game of waiting. I will not remove them, and nor will she.」",
-   "anchor": "I will not remove them, and nor will she.",
-   "start": 1047,
-   "end": 1088
+   "fact": "块2（引语自动锚点）",
+   "anchor": "The wrinkled flesh of forgotten fruit has begun to stink—lef",
+   "start": 481,
+   "end": 541
   },
   {
-   "fact": "母亲吟「bottle the hours up...grind into sand and keep it always」——Rue 觉得陌生：「I feel as though I do not know her. Not like this.」",
-   "anchor": "“An hourglass of memories,” I say",
+   "fact": "块3（引语自动锚点）",
+   "anchor": "“An hourglass of memories,” I say, wary of her candor. She i",
    "start": 1388,
-   "end": 1421
+   "end": 1448
   },
   {
-   "fact": "生日礼物：白毛手套——Veronica 时代结束「they are hers and hers alone」；「There was enough for just one pair...There was so very little to work with, but there will be more rats again soon enough...They will come back now that it is safe for them.」——毛=白猫皮！白猫死了",
-   "anchor": "they are hers and hers alone",
-   "start": 2249,
-   "end": 2277
+   "fact": "块4（引语自动锚点）",
+   "anchor": "She passes me a small box, the wrapping paper an opulent dee",
+   "start": 1833,
+   "end": 1893
   },
   {
-   "fact": "「with a sudden sick hollowness, I know」；戴上手套「For a moment it feels like blood. I do not dare take them off.」——「I do not think I can let you go, Rue. I do not wish to be alone.」",
-   "anchor": "It takes everything I have in me not to scream.",
-   "start": 3280,
-   "end": 3327
+   "fact": "块5（引语自动锚点）",
+   "anchor": "“They are lovely,” I say, and I mean it. They are beautiful",
+   "start": 2411,
+   "end": 2470
   },
   {
-   "fact": "手套曾带来安慰（Hope 双关）——「There is barely anything left inside me now but emptiness. I am a well, bottomless and dark. The flicker of happiness I left before is a fleeting beat, gone in a blink」",
-   "anchor": "I am a well, bottomless and dark.",
-   "start": 3950,
-   "end": 3983
+   "fact": "块6（引语自动锚点）",
+   "anchor": "My mother smiles wide, her lips the only feature on her face",
+   "start": 2633,
+   "end": 2693
   },
   {
-   "fact": "埋白猫时不许脱手套——「I hold them to my chest, needing their warmth despite the sunlight streaming down」；随后投奔 Anne（「in her arms before the sound echoes」）",
-   "anchor": "She would not let me take them off to bury her.",
-   "start": 4462,
-   "end": 4509
+   "fact": "块7（引语自动锚点）",
+   "anchor": "And it is in that moment that I know, with a sudden sick hol",
+   "start": 2997,
+   "end": 3057
   },
   {
-   "fact": "Anne 家崩溃：「My knees give, the gloves fall to the floor」；Oren 赶到「There has been illness in town…are you well?」（鼠疫！）——「Please help me」——第一次直接求救；「He does not ask me to stay...Though a part of me wishes he had asked.」",
-   "anchor": "“Please help me,” I croak.",
-   "start": 6467,
-   "end": 6493
+   "fact": "块8（引语自动锚点）",
+   "anchor": "“I would like to see you wear them.” My mother stands close,",
+   "start": 3330,
+   "end": 3390
   },
   {
-   "fact": "「Will you love me like this? In snatched moments of time, painted with horrors I will not walk away from?」——「With all the love I have, my darling.」； wine「It fits there, that little piece of me, like it belongs」",
-   "anchor": "With all the love I have, my darling.",
-   "start": 6970,
-   "end": 7007
+   "fact": "块9（引语自动锚点）",
+   "anchor": "My eyes settle on the gloves, once something that brought me",
+   "start": 3815,
+   "end": 3875
   },
   {
-   "fact": "Anne 宣布怀孕（spring baby）——「our children will play together, Rue, imagine that and—」被 Oren 摇头打断；Anne 收回「If you ever… In time, perhaps.」",
-   "anchor": "Oren gives a slight shake of his head",
-   "start": 9527,
-   "end": 9564
+   "fact": "块10（引语自动锚点）",
+   "anchor": "I do not take the gloves off until I am far from Folkehaven,",
+   "start": 4310,
+   "end": 4370
+  },
+  {
+   "fact": "块11（引语自动锚点）",
+   "anchor": "“Rue Meremoth, you are a terrible friend!” she scolds, leadi",
+   "start": 5045,
+   "end": 5105
+  },
+  {
+   "fact": "块12（引语自动锚点）",
+   "anchor": "My knees give, the gloves fall to the floor as I do, and I s",
+   "start": 5509,
+   "end": 5569
+  },
+  {
+   "fact": "块13（引语自动锚点）",
+   "anchor": "“Rue?” Oren races past Edward, slamming to his knees beside",
+   "start": 6092,
+   "end": 6151
+  },
+  {
+   "fact": "块14（引语自动锚点）",
+   "anchor": "“Will you love me like this?” I am wretched, tear-choked and",
+   "start": 6766,
+   "end": 6826
+  },
+  {
+   "fact": "块15（引语自动锚点）",
+   "anchor": "“Thank you.” The wine is crisp and sweet, tasting of summer",
+   "start": 8187,
+   "end": 8246
   }
  ]
 }

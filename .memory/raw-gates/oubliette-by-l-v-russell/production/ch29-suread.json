@@ -4,34 +4,34 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch29_epilogue.txt",
  "facts": [
   {
-   "fact": "Folkehaven 任其崩塌：碎块滑进黑水、屋顶塌、hollow 先淹——浅坟被泥雨填平「As if it was never there.」",
-   "anchor": "As if it was never there.",
-   "start": 403,
-   "end": 428
+   "fact": "块1（引语自动锚点）",
+   "anchor": "Folkehaven is left to crumble; I do not stop it. The broken",
+   "start": 59,
+   "end": 118
   },
   {
-   "fact": "白猫回归（更瘦、肋骨再现）——手套真相终审：「I do not know if the white cat escaped my mother’s hands, or if my mother made it to taunt me all along. It matters little now.」",
-   "anchor": "I think of the gloves, the softness of them",
-   "start": 663,
-   "end": 706
+   "fact": "块2（引语自动锚点）",
+   "anchor": "Mold seeps through the walls, thick and black, peeling away",
+   "start": 431,
+   "end": 490
   },
   {
-   "fact": "猫叼黑鼠、颈血染白毛「beautiful scarlet」；不哈气了「waits, watches」；鬼群围观不尖叫——「a strange sort of acceptance, an almost peace. I feel it too」",
-   "anchor": "painting her pristine fur in a beautiful scarlet",
-   "start": 944,
-   "end": 992
+   "fact": "块3（引语自动锚点）",
+   "anchor": "The cat has a black rat in her mouth, its jugular dangling,",
+   "start": 884,
+   "end": 943
   },
   {
-   "fact": "猫跳进怀里、影子缠结伸长——「A scythe glints in the pure moonlight. We walk together, joined as I suppose we always have been, always should have been」——身后「not a soul left at Folkehaven」",
-   "anchor": "A scythe glints in the pure moonlight.",
-   "start": 1429,
-   "end": 1467
+   "fact": "块4（引语自动锚点）",
+   "anchor": "When the cat springs into my arms, our shadows entwine and l",
+   "start": 1338,
+   "end": 1398
   },
   {
-   "fact": "终句：死亡如暖衣如拥抱——「I am longed for, welcomed, feared and loved, despised. As it should be.」",
-   "anchor": "I am longed for, welcomed, feared and loved, despised.",
-   "start": 1781,
-   "end": 1835
+   "fact": "块5（引语自动锚点）",
+   "anchor": "We leave it behind, forgotten in its decay, its slow death,",
+   "start": 1620,
+   "end": 1679
   }
  ]
 }

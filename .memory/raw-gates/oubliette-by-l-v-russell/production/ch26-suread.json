@@ -4,58 +4,76 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch26_chapter_21.txt",
  "facts": [
   {
-   "fact": "黄昏狂奔：脚敲石板应和心跳——「a plea…a prayer. Please, please, please, please…」「I am undeserving of a resolution, but I ask all the same.」",
-   "anchor": "I am undeserving of a resolution, but I ask all the same.",
-   "start": 384,
-   "end": 441
+   "fact": "块1（引语自动锚点）",
+   "anchor": "The late twilight is too hot, the approaching summer a bitte",
+   "start": 65,
+   "end": 125
   },
   {
-   "fact": "Blackwood Hall 完好如初（暖黑、余烬、无霉）——「There is nothing amiss, no sign my mother has been here at all.」；心链牵引：「whatever binds Oren and me together is pulled taut, and it hurts」",
-   "anchor": "There is nothing amiss, no sign my mother has been here at all.",
-   "start": 1084,
-   "end": 1147
+   "fact": "块2（引语自动锚点）",
+   "anchor": "Blackwood Hall is awash in gentle moonlight, a glowing halo,",
+   "start": 444,
+   "end": 504
   },
   {
-   "fact": "Oren 开胸持心：肋骨像珠宝盒铰链掰开、软而可爱的手捧着自己的心——「There is a cold poetry to it, like art I do not quite understand.」",
-   "anchor": "His chest lies open, ribs cracked like the hinges on a jewelry box.",
-   "start": 3029,
-   "end": 3096
+   "fact": "块3（引语自动锚点）",
+   "anchor": "The floorboards groan beneath my feet in a low lament when I",
+   "start": 1150,
+   "end": 1210
   },
   {
-   "fact": "母亲血喂的论点：从没见她给过自己血（Veronica 求而不得、给 Rue 是惩罚）——「She fed Oren because she wanted me to understand, to take away the un-soiled love I hold for him and turn it to rot. There is no love without ruination.」",
-   "anchor": "There is no love without ruination.",
-   "start": 4115,
-   "end": 4150
+   "fact": "块4（引语自动锚点）",
+   "anchor": "And there he is. Sprawled out on the bed as though waiting f",
+   "start": 2303,
+   "end": 2363
   },
   {
-   "fact": "她对着被毁的他完成当初求毁：「To take whatever pieces of myself left and desecrate them…you denied me! You told me there was more than blood and death to me...That I was something not only worth saving, but something already saved. Damn you!」",
-   "anchor": "To take whatever pieces of myself left and desecrate them,",
-   "start": 4556,
-   "end": 4614
+   "fact": "块5（引语自动锚点）",
+   "anchor": "Another moan caresses my ear, sounding so like the sighs I d",
+   "start": 2893,
+   "end": 2953
   },
   {
-   "fact": "「Where do I go, Oren? Tell me, where do I go without you?」——僵尸化的 Oren 从烂喉里挤出：「With…you.」「And I am with you.」",
-   "anchor": "“With…you.”",
-   "start": 5707,
-   "end": 5718
+   "fact": "块6（引语自动锚点）",
+   "anchor": "Oren’s mouth opens, yawning wide, teeth bloodied. The softne",
+   "start": 3341,
+   "end": 3401
   },
   {
-   "fact": "吻被咬：他咬下她一片唇吞下——「I pull back, dribbling blood and tears into his mouth, and he laps them up like a dog.」",
-   "anchor": "he laps them up like a dog.",
-   "start": 6101,
-   "end": 6128
+   "fact": "块7（引语自动锚点）",
+   "anchor": "So I crawl to him, snapping the thin strings of his heart to",
+   "start": 4153,
+   "end": 4213
   },
   {
-   "fact": "挖眼检查：「I wish to tear the eyeball out...to see if there is anything left of him」——「There is nothing left but the shadow of my mother’s ruin; my gentle love is gone, eaten up and spat back out as hunger and sin. Though nothing remains...I do not want to let him go.」「Forgive me.」「Please.」",
-   "anchor": "There is nothing left but the shadow of my mother’s ruin",
-   "start": 6425,
-   "end": 6481
+   "fact": "块8（引语自动锚点）",
+   "anchor": "I rise above him, skirts heavy and too warm. I grip his chin",
+   "start": 4976,
+   "end": 5036
   },
   {
-   "fact": "日光审判：「Morning sunlight steals into Blackwood Hall, unwelcome and hostile...It is our first sunrise together, and it will be our last.」「There is no earth, no unholy soil to cover Oren, only the judgment of dawn, scorching and clean.」",
-   "anchor": "only the judgment of dawn, scorching and clean",
-   "start": 7081,
-   "end": 7127
+   "fact": "块9（引语自动锚点）",
+   "anchor": "He stares at me, with his shattered jaw in my hands, bloody",
+   "start": 5472,
+   "end": 5531
+  },
+  {
+   "fact": "块10（引语自动锚点）",
+   "anchor": "I bend to kiss him, touching my lips against his black-stain",
+   "start": 5791,
+   "end": 5851
+  },
+  {
+   "fact": "块11（引语自动锚点）",
+   "anchor": "With one reddened palm, I stroke Oren’s cheek, softly caress",
+   "start": 6131,
+   "end": 6191
+  },
+  {
+   "fact": "块12（引语自动锚点）",
+   "anchor": "Morning sunlight steals into Blackwood Hall, unwelcome and h",
+   "start": 6767,
+   "end": 6827
   }
  ]
 }

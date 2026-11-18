@@ -4,52 +4,70 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch28_chapter_23.txt",
  "facts": [
   {
-   "fact": "两座坟：母亲坟围铁笼（木桩钉肋防复活——「despite my mother's wishes」）、Oren 坟不设防；柳树垂泣相伴",
-   "anchor": "The stake pinning her ribs to the earth put a stop to that.",
-   "start": 384,
-   "end": 443
+   "fact": "块1（引语自动锚点）",
+   "anchor": "There are two graves, shrouded in a heavy mist, the willow t",
+   "start": 93,
+   "end": 153
   },
   {
-   "fact": "落日下三连 wish；手按坟土想再分一次日落——「God be damned, I can hear her, and only her.」渎神二度",
-   "anchor": "I wish, I wish, I wish.",
-   "start": 888,
-   "end": 911
+   "fact": "块2（引语自动锚点）",
+   "anchor": "The sky bleeds above, the slow sunset pooling down behind th",
+   "start": 446,
+   "end": 506
   },
   {
-   "fact": "摇篮曲追忆：母亲的歌「strange and awful words...Her voice was ever sharp, each word a shallow cut」——「despite everything, a part of me yearned for her embrace...Is that not something within us all? Something so desperately human」",
-   "anchor": "each word a shallow cut",
-   "start": 1432,
-   "end": 1455
+   "fact": "块3（引语自动锚点）",
+   "anchor": "I listen, hearing past the screech of gulls the crash of sto",
+   "start": 914,
+   "end": 974
   },
   {
-   "fact": "Anne 陪跪（裙湿也陪）——「She cannot hear you beneath the earth」「I am not so sure. I hear her, in my dreams still. She sings to me, Anne. She will not let me go.」",
-   "anchor": "I hear her, in my dreams still.",
-   "start": 2622,
-   "end": 2653
+   "fact": "块4（引语自动锚点）",
+   "anchor": "My mother would sing to me from as early as I could remember",
+   "start": 1285,
+   "end": 1345
   },
   {
-   "fact": "Anne 孕肚与哀容并存：「weighing the edges of her smile so it never blooms quite as full」；「She smells of lilies, of the garden she plants in spring.」",
-   "anchor": "Her belly is heavy, filled with new life,",
-   "start": 2809,
-   "end": 2850
+   "fact": "块5（引语自动锚点）",
+   "anchor": "“Come, dearest,” Anne says, her soft hand on my shoulder. He",
+   "start": 1796,
+   "end": 1856
   },
   {
-   "fact": "Anne 问 Oren 的鬼（Blackwood Hall 静、不居死者）——「I cannot quite tell if it brings me peace that I am not haunted by Oren. But I miss him. There will never be a darkened corner I will not search for him in.」",
-   "anchor": "There will never be a darkened corner I will not search for him in.",
-   "start": 3517,
-   "end": 3584
+   "fact": "块6（引语自动锚点）",
+   "anchor": "“She cannot hear you beneath the earth, of that I am certain",
+   "start": 2441,
+   "end": 2501
   },
   {
-   "fact": "秋撕小镇成「blistered wound」；「In the absence of terror, the emptiness still will not fill, and will never scar over. It is a canker sore, not a bruise.」——疤的否定",
-   "anchor": "It is a canker sore, not a bruise.",
-   "start": 4169,
-   "end": 4203
+   "fact": "块7（引语自动锚点）",
+   "anchor": "She brings me close, her arms tight around me. She smells of",
+   "start": 2704,
+   "end": 2764
   },
   {
-   "fact": "「Folkehaven Manor is my home, crooked and broken and filled with echoes. But I take Anne’s hand again, and allow her to lead me away.」——全书第一次允许被带离",
-   "anchor": "I take Anne’s hand again, and allow her to lead me away.",
-   "start": 4437,
-   "end": 4493
+   "fact": "块8（引语自动锚点）",
+   "anchor": "“Have… Have you seen him?” Anne asks, clinging to me. “Oren?",
+   "start": 2994,
+   "end": 3054
+  },
+  {
+   "fact": "块9（引语自动锚点）",
+   "anchor": "I have looked, have waited in the darkness to see if he woul",
+   "start": 3251,
+   "end": 3311
+  },
+  {
+   "fact": "块10（引语自动锚点）",
+   "anchor": "Autumn has stripped the town of its quaintness, peeled it ba",
+   "start": 3587,
+   "end": 3647
+  },
+  {
+   "fact": "块11（引语自动锚点）",
+   "anchor": "I turn then, away from Anne, away from the slumbering bones,",
+   "start": 4206,
+   "end": 4266
   }
  ]
 }

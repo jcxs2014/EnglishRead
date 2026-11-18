@@ -1,0 +1,589 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch11 a kiss like sunlight.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch11_chapter_9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There is a part of me that wishes to unleash her onto the world, to take the monsters and their men and all those in bet",
+          "ok": true,
+          "pos": 1640
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It is a small room, a study filled with old books and globes, lit only by the soft moonlight. Here the books do not crum",
+          "ok": true,
+          "pos": 2277
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The sound of footsteps shatters my quiet, and it all falls away",
+          "ok": true,
+          "pos": 2724
+        },
+        {
+          "text": "“Do not light the candles,” I say, voice brittle",
+          "ok": true,
+          "pos": 2789
+        },
+        {
+          "text": "Oren Pengelly steps into the patch of blackness in front of me. I can tell it is him by the sound of his boots, the way ",
+          "ok": true,
+          "pos": 2837
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He allows the quiet to stretch further. “A cup or two, though not as much as yourself, I would hazard to guess.” There i",
+          "ok": true,
+          "pos": 3549
+        },
+        {
+          "text": "“You think I am drunk?”",
+          "ok": true,
+          "pos": 3744
+        },
+        {
+          "text": "Oren moves closer, eyes flitting down to my gloved hands as though he can see through the silk to the ruin beneath. “I t",
+          "ok": true,
+          "pos": 3766
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I feel the weight of tears; my mother would lick them from my cheeks if she were here. “Would you cast me adrift, then?”",
+          "ok": true,
+          "pos": 3941
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He towers over me, so close I can see the dark hairs on his chin that he missed when shaving. The small scar on his lip,",
+          "ok": true,
+          "pos": 4868
+        },
+        {
+          "text": "“Then you are indeed a fool.”",
+          "ok": true,
+          "pos": 5134
+        },
+        {
+          "text": "“There are worse things to be.”",
+          "ok": true,
+          "pos": 5162
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I do not know who drew in first, or if we simply were both on the same path, and collided together, a single moment, a s",
+          "ok": true,
+          "pos": 5192
+        },
+        {
+          "text": "Oren tastes like sunlight, the tartness of gooseberries. I breathe it in, filling my lungs with him. I would have held h",
+          "ok": true,
+          "pos": 5335
+        }
+      ],
+      "words": 79
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Oren’s tongue slides against mine, his hand gripping my waist. His teeth are at my lip, barely sharp, hungry for me and ",
+          "ok": true,
+          "pos": 5620
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Then he pulls away",
+          "ok": true,
+          "pos": 6088
+        },
+        {
+          "text": "“We must stop,” Oren speaks into my neck, his hand falling from my breasts, from the aching thrum beneath. “Christ forgi",
+          "ok": true,
+          "pos": 6108
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "There is a bite to his words, a flash of anger. It is interesting to note that it is not directed at me. Oren stands awk",
+          "ok": true,
+          "pos": 6259
+        },
+        {
+          "text": "“Have you never fucked in a shadowed corner before?” I smile at him, at the blush creeping over his cheeks",
+          "ok": true,
+          "pos": 6426
+        },
+        {
+          "text": "“Not with anyone of worth.”",
+          "ok": true,
+          "pos": 6532
+        },
+        {
+          "text": "“And what worth do you think I possess?”",
+          "ok": true,
+          "pos": 6558
+        },
+        {
+          "text": "He shakes his head, forcing more space between us. “Enough not to defile you here, half-drunk and miserable.”",
+          "ok": true,
+          "pos": 6597
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I am less than half-drunk, my mind clearing in a way I do not like. “I know a cure for my misery, Oren.”",
+          "ok": true,
+          "pos": 6705
+        },
+        {
+          "text": "“I will not ruin you.”",
+          "ok": true,
+          "pos": 6808
+        },
+        {
+          "text": "I laugh then, and it sounds so much like my mother that my heart freezes. I clutch my throat to stop the echo of that aw",
+          "ok": true,
+          "pos": 6829
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Ruin me,” I whisper back, my hand still at my neck in near strangulation. “Take the remains of me, these pieces of fles",
+          "ok": true,
+          "pos": 6960
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Come to church with me, Miss Meremoth.” He hesitates before his lips shape my name. “Rue.”",
+          "ok": true,
+          "pos": 7518
+        },
+        {
+          "text": "“Will you meet with me this Sunday at St. Augustine’s?” he asks, fingers stroking my hair, down my neck, slow and soothi",
+          "ok": true,
+          "pos": 7647
+        },
+        {
+          "text": "“I will not be welcome.”",
+          "ok": true,
+          "pos": 7789
+        },
+        {
+          "text": "“By whom?”",
+          "ok": true,
+          "pos": 7812
+        },
+        {
+          "text": "“Father Jonathon",
+          "ok": true,
+          "pos": 7821
+        },
+        {
+          "text": "by God.”",
+          "ok": true,
+          "pos": 7837
+        },
+        {
+          "text": "“Then we will sit at the back, where the light pools in from the stained glass. I will show you where you are welcome, R",
+          "ok": true,
+          "pos": 7845
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“Why?” I lean against the shelves, not caring if I soil them",
+          "ok": true,
+          "pos": 8065
+        },
+        {
+          "text": "Oren gives me no pitying answer. “Because I asked you.”",
+          "ok": true,
+          "pos": 8125
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "The tears dry on my cheek, leaving them reddened and sore. Veronica will not ask about them; my mother will not see them",
+          "ok": true,
+          "pos": 8215
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 135,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.45
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter 9",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 36,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1623,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

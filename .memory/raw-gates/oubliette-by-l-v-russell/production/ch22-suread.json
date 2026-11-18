@@ -4,46 +4,94 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch22_chapter_18.txt",
  "facts": [
   {
-   "fact": "Ladies 拍门（部分已死）；供货质问「Who will trade their sins for yours, when the rich have wasted away?」——母亲笃定「You would not allow me to starve」；Rue 内白承认 tethered 解不开",
-   "anchor": "You would not allow me to starve.",
-   "start": 1376,
-   "end": 1409
+   "fact": "块1（引语自动锚点）",
+   "anchor": "They have gathered at my mother’s door, the Ladies. I hear t",
+   "start": 67,
+   "end": 127
   },
   {
-   "fact": "Rue 开门迎客：Ladies 曾 righteous glee 供祭品——「They are as I am, as my mother is, maybe more so」；无 Veronica 采购的讽刺「if I knew Mother would not eat them」",
-   "anchor": "My mother’s nature is hunger; theirs is greed and boredom.",
-   "start": 2249,
-   "end": 2307
+   "fact": "块2（引语自动锚点）",
+   "anchor": "“Let them come in, my darling,” my mother says, raising her",
+   "start": 688,
+   "end": 747
   },
   {
-   "fact": "不给 Ladies 生火（取暖小恩也可以扣）；希望她们也吸进霉与尘——「I hope the Ladies feel it too.」",
-   "anchor": "a small comfort I can deny them",
-   "start": 3010,
-   "end": 3041
+   "fact": "块3（引语自动锚点）",
+   "anchor": "“Who will trade their sins for yours, when the rich have was",
+   "start": 1024,
+   "end": 1084
   },
   {
-   "fact": "Ladies 诉病（Bellamy 黑牙、Henrietta 咯血）——女仆不病她们病；Rue 咬着猪肉饼问「知道仆人陪你受苦会让你的惨好受点吗？」；鬼围观带 amusement——「It is a shame no one else can.」",
-   "anchor": "Would that lift the wretchness of your own suffering",
-   "start": 3824,
-   "end": 3876
+   "fact": "块4（引语自动锚点）",
+   "anchor": "I wouldn’t, I know that. Though the horrors and the sins wei",
+   "start": 1413,
+   "end": 1473
   },
   {
-   "fact": "母亲入场：「look how death clings to you. Oh, how you wear her well.」——死亡被说成衣裳；Bellamy 跪求 Help me；一妇摔头「cracking like an egg」——母亲拍手「How splendid!」",
-   "anchor": "Oh, how you wear her well.",
-   "start": 4764,
-   "end": 4790
+   "fact": "块5（引语自动锚点）",
+   "anchor": "With deliberate slowness, I walk through the corridors and d",
+   "start": 1639,
+   "end": 1699
   },
   {
-   "fact": "母亲抱 Bellamy 于膝抚发（目光全程钉着 Rue）——Rue 嫉妒：「I want to lay my head there, to have my mother’s fingers in my hair...I long to rest my head in her lap.」",
-   "anchor": "I want to lay my head there",
-   "start": 5546,
-   "end": 5573
+   "fact": "块6（引语自动锚点）",
+   "anchor": "The heavy door creaks when I pull it open, and I stand befor",
+   "start": 2012,
+   "end": 2072
   },
   {
-   "fact": "母亲吸 Bellamy 喉血、咬穿牙龈老牙——「I linger until all is still」；拿酒走人「I will not be cleaning this up」——母亲沉默、无抚触——「I feel the absence of it, the emptiness beneath my skin only she can fill.」",
-   "anchor": "I will not be cleaning this up,",
-   "start": 6446,
-   "end": 6477
+   "fact": "块7（引语自动锚点）",
+   "anchor": "They stagger in, some with bloodied cloths at their mouths.",
+   "start": 2310,
+   "end": 2369
+  },
+  {
+   "fact": "块8（引语自动锚点）",
+   "anchor": "The fireplaces remain unlit. I am used to the cold and to th",
+   "start": 2835,
+   "end": 2895
+  },
+  {
+   "fact": "块9（引语自动锚点）",
+   "anchor": "“We have been your mother’s faithful servants,” Lady Bellamy",
+   "start": 3315,
+   "end": 3375
+  },
+  {
+   "fact": "块10（引语自动锚点）",
+   "anchor": "I shrug, sitting back, away. I wipe the grease from my finge",
+   "start": 4255,
+   "end": 4315
+  },
+  {
+   "fact": "块11（引语自动锚点）",
+   "anchor": "“No, it is not.” My mother walks in on silent feet. She seat",
+   "start": 4587,
+   "end": 4647
+  },
+  {
+   "fact": "块12（引语自动锚点）",
+   "anchor": "“Please!” Lady Bellamy falls to her knees, groaning as she d",
+   "start": 4794,
+   "end": 4854
+  },
+  {
+   "fact": "块13（引语自动锚点）",
+   "anchor": "“How splendid!” My mother claps her hands, watching in glee",
+   "start": 5199,
+   "end": 5258
+  },
+  {
+   "fact": "块14（引语自动锚点）",
+   "anchor": "Blood trickles from Lady Bellamy’s mouth in a steady stream.",
+   "start": 5783,
+   "end": 5843
+  },
+  {
+   "fact": "块15（引语自动锚点）",
+   "anchor": "I linger until all is still and the moans have silenced. Whe",
+   "start": 6300,
+   "end": 6360
   }
  ]
 }
