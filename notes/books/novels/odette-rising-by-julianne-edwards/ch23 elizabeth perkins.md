@@ -24,7 +24,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：记住这堂「群体课」：一个从没被群体善待过的人，第一次面对群体时连败阵姿势都是新的。她的成长一半来自这种当众出丑。
 
-> **原句 2:** "People leaned forward to see. Her head went down. She was burning with humiliation. A woman who keeps rocks in her gloves."
+> **原句 2:** "People leaned forward to see. Her head went down. She was burning with humiliation. A woman who kept rocks in her gloves."
 
 **中文理解**：人们探身来看。她的头低了下去。羞辱烧着她——一个在手套里揣石头的女人。
 
