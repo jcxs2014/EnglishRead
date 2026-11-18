@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch06",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch06_chapter_6.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Gaston Beauclerc（工厂现任经营者，与妻子、儿子同住）在家忧心：银行恢复付款后局面好转、两周没流失工人，但设计乏人接手——他承认 Huré（已故前厂主）是设计天才，其死是大麻烦。",
+   "anchor": "he’d not lost any workers for two weeks",
+   "interval": [
+    498,
+    537
+   ],
+   "verified": true
+  },
+  {
+   "fact": "买家要的是投合巴黎快活阶层口味、撩拨情欲的袜子；Beauclerc 却以自家货品为耻——Huré 生前举着新袜向他炫耀颤动的猴子、吐信的蜥蜴，令他难堪。",
+   "anchor": "stockings that titillated, designed to the tastes of the fast set in Paris",
+   "interval": [
+    986,
+    1060
+   ],
+   "verified": true
+  },
+  {
+   "fact": "妻子安慰他\"总会找到画师的\"，他嫌她多嘴把她推开，只让她明天叫 Marine（女仆）擦铜器；回想婚事是她父亲极力撮合，婚后他求欢要她闭眼、她偏要看他的脸（Beauclerc 与妻子关系不睦）；明日他还得亲自进城见买家谈订单——从前是 Huré 自己去、以鹅肝香槟款待买家。",
+   "anchor": "Her father had certainly pressed her virtues convincingly.",
+   "interval": [
+    2057,
+    2115
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日 Beauclerc 亲自乘 Huré 家的马车赴巴黎会见有影响力的客户；Odette 亲眼看着马车驶离，问 Madame Dendron 才知道是\"厂务会议\"，Dendron 只说\"那是厂务，你问他去\"。",
+   "anchor": "Monsieur Beauclerc is taking it to Paris for the meetings.",
+   "interval": [
+    3330,
+    3388
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 吩咐 Dendron：请 Beauclerc 回来后在客厅等候，她要同他谈话——管家难以置信；她还顺手要了份蛋糕（但要送到自己房间而非客厅）。",
+   "anchor": "can you ask him to please wait in the salon? I wish to speak with him",
+   "interval": [
+    3595,
+    3664
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 回来后 Odette 先到客厅等他；他说巴黎\"臭——道德败坏之臭\"，并交代此行是替她安排本季度订单、签妥形式发票，在熏香刺鼻的热房间里与软手掌的男人（其中一位穿条纹绸衣）周旋一整天。",
+   "anchor": "I went on your behalf, mademoiselle. To arrange the orders for the quarter",
+   "interval": [
+    5310,
+    5384
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：她问巴黎买袜子的女人如何，Beauclerc 直答\"她们是妓女\"；她不退反进，当场宣布\"下次我同去\"，要见识这桩属于她的生意，还交代要提前通知她置新装——Beauclerc 愕然、摇着头离去。",
+   "anchor": "Next time, I will come with you.",
+   "interval": [
+    6100,
+    6132
+   ],
+   "verified": true
+  },
+  {
+   "fact": "他走后她先得意、继而焦虑，睡前写下道歉字条声明不干预生意、让他照旧，留在写字台上 Polo 的盒子旁；次日晨字条竟被宠物小鼠 Polo 吃掉——她于是决意要去：塞夫勒视她为异类，城里或有同类，她向往那些穿长袜、吸鸦片、寻欢作乐的巴黎人。",
+   "anchor": "the little mouse had eaten it",
+   "interval": [
+    6953,
+    6982
+   ],
+   "verified": true
+  }
+ ]
+}

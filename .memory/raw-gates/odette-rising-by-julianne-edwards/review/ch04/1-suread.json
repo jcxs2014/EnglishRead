@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch04",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch04_chapter_4.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "自上次去工厂后已过两个月、冬去春来；Beauclerc 的字条一直堆在门厅桌上原封未拆——Beauclerc 为工厂事务屡次致信 Odette（父亲 Edouard Huré 的继承人），她刻意回避不读。",
+   "anchor": "Two months had passed since her visit to the factory",
+   "interval": [
+    69,
+    121
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 六七岁时才被允许跟 Madame Dendron（家中女管家）出门在本地买东西；此后再无出门理由——去工厂一趟是她此生去过的最远地方，她闻得到塞纳河的气息、知道有桥连着 Sèvres 与巴黎，却从未见过河。",
+   "anchor": "when she was six or seven, she had been allowed to go on the morning shop",
+   "interval": [
+    800,
+    873
+   ],
+   "verified": true
+  },
+  {
+   "fact": "父亲生前作息刻板：七点起身、八点出门、五点回家；这套框架随父亲之死消失，Rue des Binelles 的家比以往更冷清，Odette 的日子浑然一片。",
+   "anchor": "rising at seven, leaving at eight, home at five",
+   "interval": [
+    456,
+    503
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 问 Merry（家中仆役）是否去过城里；Merry 说只去过两次：一次去看母亲、一次去接老爷回家——Merry 在巴黎有母亲却只探望过一次（他既无交通工具也无休假日），Odette 这才发现她对这个\"一直都在\"的人了解极少。",
+   "anchor": "Once to visit my mother, and the second to fetch Monsieur Huré home.",
+   "interval": [
+    1482,
+    1550
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折揭示：Merry 说出父亲 Edouard Huré 在巴黎被人打得稀烂——膝盖骨被砸碎、脸裂开、舌头被咬穿、口吐鲜血；时间是\"去年初、冬天\"，Merry 当时不得不把他抬上马车、一路架着送回家。",
+   "anchor": "His kneecap was smashed. His face split. Bitten through his tongue.",
+   "interval": [
+    2268,
+    2335
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 描述接人的地点是一栋蓝门的房子（街巷安静、房子长得都一样），屋里有个受惊的女人、没看清脸——父亲受伤与这个女人所在之处的关系成为悬案。",
+   "anchor": "The house had a blue door. I don’t know where.",
+   "interval": [
+    5660,
+    5706
+   ],
+   "verified": true
+  },
+  {
+   "fact": "回府后 Merry 和 Madame Dendron 把父亲抬上厨房桌子，Dendron 检查他的四肢并剪掉他的衣物，Merry 被打发去请 Dr. Vaissier（Huré 家的医生）；父亲裹着绷带被放回床上，整夜呜咽。",
+   "anchor": "Me and Madame Dendron. We put him on the table, and she inspected him.",
+   "interval": [
+    6144,
+    6214
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：Odette 意识到父亲 Edouard Huré 除艺术趣味外还笼罩着层层阴影（办公室、图纸、照片里的女人、如今这桩重伤），她向所有比她知道得多的人——Merry、父亲、Dendron——发怒：她不该被蒙在鼓里、被这种生活悄悄闷死。",
+   "anchor": "there had been shadows shrouding Edouard Huré from view",
+   "interval": [
+    4496,
+    4551
+   ],
+   "verified": true
+  }
+ ]
+}

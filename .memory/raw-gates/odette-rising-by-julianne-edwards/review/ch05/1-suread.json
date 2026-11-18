@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch05",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch05_chapter_5.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Beauclerc（工厂经营者）因两周来寄出的字条全无回音，悍然不请自来、用门环砸 Odette 家的大门——不合礼数，他妻子曾警告他别去（Beauclerc 与 Odette 的关系止于工厂事务，与妻子是夫妻）。",
+   "anchor": "he had received no replies to his notes sent over the last two weeks",
+   "interval": [
+    289,
+    357
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 在客厅逼 Odette 行动：真丝供应商若明日收盘前结不清账就彻底撤单，花边织工付不起房租、工人等着发工资，\"再撑一天都撑不下去\"；他点明工厂属于 Odette，她必须立即让银行放款。",
+   "anchor": "it’s your factory. You must pay your workers.",
+   "interval": [
+    2291,
+    2336
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 答应明天就去给银行下指令；Beauclerc 道歉后大步离去、前门被重重摔上——她非但不怕反而心跳加速、手脚发麻，感到的是兴奋而非焦虑（转折：她第一次被激出行动）。",
+   "anchor": "The front door was slammed with some might.",
+   "interval": [
+    3462,
+    3505
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日 Odette 首次独自办正事：戴着父亲的黑色软呢帽、儿时的蓝手套走进像罗马神殿的银行；经理报出精确到分（centime）的金额，问她是否每周四都来、自称\"随时听候 Huré 小姐差遣\"——她如释重负，还偷笑了出来。",
+   "anchor": "Should I assume you will come each Thursday?",
+   "interval": [
+    6790,
+    6834
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Madame Dendron 曾对 Merry 说塞纳河污浊可憎、上周又漂过一具肿胀的浮尸；Odette 却叫车夫绕道去河边——她第一次亲眼看见石桥与对岸的巴黎城。",
+   "anchor": "there had been another bloated corpse floating past last week",
+   "interval": [
+    7783,
+    7844
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：她望着被马车挤满的石桥自问\"我能过河吗？\"，并想起父亲在巴黎城里买的那栋房子——她本以为这个谜会随父亲下葬，如今动了跨过去的心思；回程路上还与葬礼上见过的一名男子对视了一瞬。",
+   "anchor": "Could I? she thought. Could I cross?",
+   "interval": [
+    9489,
+    9525
+   ],
+   "verified": true
+  },
+  {
+   "fact": "邻居、墓园里那位和善的 Feld 先生当街直挺挺倒下；Merry 一下把他扛上肩送回隔壁家，事后告诉 Odette 人已经死了——死于心脏而非她以为的中暑；他并不老，家里还有孩子。",
+   "anchor": "“No, his heart,” said Merry",
+   "interval": [
+    11429,
+    11456
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：Feld 之死点醒 Odette——死期虽不可择，但活着的每个时辰可以自己塑造；她的怒火再度烧起，自责一直信任那些本该引她走向生活的人，决意不再做隔窗观望的旁观者。",
+   "anchor": "you could shape the hours in which you lived",
+   "interval": [
+    12060,
+    12104
+   ],
+   "verified": true
+  }
+ ]
+}
