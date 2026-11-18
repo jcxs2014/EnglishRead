@@ -25,11 +25,17 @@ modified: "2026-11-18"
 **为什么这样写**： thumbs up 这个手势是全案的证据核心——作者把它写成道德开关：默认协议是"我点头你们才按"，而协议被单方面撕毁；"willingly"二字还顺手堵死了 Sam 自我开脱的后路，让他只能把账算在别人头上。
 **读者视角提示**：记住这个手势——它既是友谊的暗号也是操控的机关。复仇计划实施时，"who pressed the button"依旧是那道必须回答的题。
 
-> **原句 3:** Sam thought about how flustered his father was last night when he talked about Nan. He’d been acting like a nervous wreck, and for Sam, it had been like looking in a mirror. Which made him wonder what Nan might be capable of.
-**中文理解**：Sam 想起爸爸昨晚谈 Nan 时的慌乱——像个紧张的废墟，那神情像镜子里的自己（面对 Joker 的样子）；这让他不禁想：Nan 到底能干出什么事？
-**关键词**：nervous wreck / looking in a mirror / what Nan might be capable of
-**为什么这样写**：三代人的恐惧在同一面镜子里对齐——爸爸怕 Nan，Sam 怕 Joker，而 Sam 从这个对称里推出一个危险的等式：能吓住大人的东西，一定很强；作者用一个孩子的类比推理，把 Nan 的"罪"从家庭纠纷升级成潜在威胁。
-**读者视角提示**：注意 Sam 的怀疑方向与 Elliott 完全一致（"she hasn't earned one"）——孩子不是从大人那里听来的，是自己看出来的。Nan 的"能力"问题正式挂牌。
+> **原句 3:** Sam thought about how flustered his father was last night when he talked about Nan. He’d been acting like a nervous wreck, and for Sam, it had been like looking in a mirror. The way his dad had been falling to pieces was almost the same way Sam crumbled whenever the Joker was within the same radius as him.
+**中文理解**：Sam 想起爸爸昨晚谈 Nan 时的慌乱——像个紧张的废墟，那神情像镜子里的自己：爸爸的崩盘方式，和他听到 Joker 附近有动静时的瘫软几乎一模一样。
+**关键词**：nervous wreck / looking in a mirror / within the same radius
+**为什么这样写**：三代人的恐惧在同一面镜子里对齐——爸爸怕 Nan，Sam 怕 Joker，作者用"within the same radius"这种弹道学措辞给心理恐惧装上物理刻度：霸王不在眼前，气场已经伤人；孩子从这个对称里读出了大人的软肋。
+**读者视角提示**：注意 Sam 的观察方式与 Elliott 的控诉（"she hasn't earned one"）殊途同归——孩子不是听来的，是自己比对出来的。爸爸的失态是 Nan 危险等级的测量仪。
+
+> **原句 4:** Which made him wonder what Nan might be capable of.
+**中文理解**：这让他不禁去想：Nan 到底能干得出什么事。
+**关键词**：wonder / what Nan might be capable of
+**为什么这样写**：一句孤零零的推论短句，是全章最冷的钩子——作者把 Sam 的怀疑缩成一行悬念，让"能干出什么"保持完全开放：从取消假期到更黑暗的可能，想象力全权交给读者。
+**读者视角提示**：把这句与 Elliott 的"she hasn't earned one"连读——父子俩各自独立得出了对 Nan 的不信任。能同时吓住成人与孩子的过去，分量一定不轻。
 
 > **原句 4:** “Ok. I heard something scary during the storm,” Lily said. “That’s why I ran off.” “What?” said Sam. “It was sounded like a growl,” Lily said.
 **中文理解**：Lily 终于交出逃跑的理由："风暴里我听到可怕的东西，所以才跑了"——像一声 growl。
