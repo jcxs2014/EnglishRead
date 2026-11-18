@@ -4,52 +4,58 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch01_chapter_1.txt",
  "facts": [
   {
-   "fact": "房屋在腐烂而「母亲」永远不会腐——开篇即定调母亲不是人",
+   "fact": "房屋腐烂而母亲永不腐——非人设定",
    "anchor": "It is rotting in a way my mother never truly will.",
    "start": 549,
    "end": 599
   },
   {
-   "fact": "Rue 房间角落常年站着一个多年前被吊死的女鬼，缰绳吱呀是屋里唯一的声音",
+   "fact": "房间角落多年前的吊死女鬼常年站立",
    "anchor": "The noose that hanged her many years before creaks",
    "start": 1035,
    "end": 1085
   },
   {
-   "fact": "Veronica 进房后镜中没有倒影——她并非活人（伴随刮地板脚步声与旧肉臭味）",
+   "fact": "Veronica 进房镜中无倒影——非活人",
    "anchor": "Nothing greets me in the mirror",
    "start": 1343,
    "end": 1374
   },
   {
-   "fact": "Veronica 手臂新伤叠旧伤，自割肉条供「母亲」取乐充饥——自愿奉献",
-   "anchor": "ribbons of flesh peeled away to tempt and satisfy my mother",
-   "start": 2051,
-   "end": 2110
+   "fact": "Veronica 手臂新旧伤，自割肉条喂母亲",
+   "anchor": "Newer cuts are sliced over them, ribbons of flesh peeled away",
+   "start": 2018,
+   "end": 2079
   },
   {
-   "fact": "绿裙染污之争：Veronica 断言「It will burn」，Rue 命令必须洗干净",
-   "anchor": "You will have it cleaned.",
-   "start": 2472,
-   "end": 2497
-  },
-  {
-   "fact": "今晚任务：Rue 被安排坐在 Lord Horewith 旁；Veronica 说母亲永远需要她",
+   "fact": "今晚任务：陪 Horewith 勋爵",
    "anchor": "You will be seated beside Lord Horewith",
    "start": 3254,
    "end": 3293
   },
   {
-   "fact": "Veronica 念完打油诗（Hope 上吊、喉咙撕开、双眼献给 lady）后 Rue 记起女鬼名叫 Hope",
+   "fact": "打油诗后 Rue 记起女鬼名 Hope",
    "anchor": "The specter’s name was Hope",
    "start": 4180,
    "end": 4207
   },
   {
-   "fact": "Veronica 强加的世界观（随母亲行走于世或被烧），Rue 的「Humor me」换来抓破下巴，最终被迫复述认领身份",
-   "anchor": "We are terror, or we are ash",
-   "start": 8165,
-   "end": 8193
+   "fact": "图书馆女鬼哀嚎纠缠，Rue 挥手驱散",
+   "anchor": "I swipe my arm through her, and I am alone again",
+   "start": 6641,
+   "end": 6689
+  },
+  {
+   "fact": "被迫复述家族信条认领身份",
+   "anchor": "I echo her",
+   "start": 8491,
+   "end": 8501
+  },
+  {
+   "fact": "情报来源：Horewith 烂透",
+   "anchor": "Lady Pengelly assures us he is quite rotten.",
+   "start": 8836,
+   "end": 8880
   }
  ]
 }

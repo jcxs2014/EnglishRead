@@ -4,52 +4,70 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch02_chapter_2.txt",
  "facts": [
   {
-   "fact": "宴会奇观：乳猪苹果塞口、天鹅脖颈钉刀直立、黑眼张喙无声尖叫",
-   "anchor": "at the center of it all, a swan",
-   "start": 512,
-   "end": 543
+   "fact": "宴会天鹅脖颈被刀别直——餐桌即刑场",
+   "anchor": "Its neck is skewed with a long, thin blade",
+   "start": 545,
+   "end": 587
   },
   {
-   "fact": "母亲当席邀 Horewith 亲 Rue；Rue 以「After dessert has been served」应下 Later promise",
-   "anchor": "“Would you steal a kiss from her?”",
-   "start": 3513,
-   "end": 3547
+   "fact": "母亲当席把女儿当饵，邀 Horewith 亲 Rue",
+   "anchor": "“You are enamored with my daughter, Lord Horewith.”",
+   "start": 3299,
+   "end": 3350
   },
   {
-   "fact": "母亲尖笑打翻酒杯，红液渗桌布——太黑太稠不是酒；宾客与幽灵齐声，「it all sounds the same」",
-   "anchor": "The red seeps in, too dark and thick to be wine",
-   "start": 3762,
-   "end": 3809
-  },
-  {
-   "fact": "Rue 认清机制：Horewith 跨门槛即注定，陪座只是仪式——喂母是她终身职能",
+   "fact": "Rue 认清终身职能",
    "anchor": "I feed my mother. I will always feed my mother.",
    "start": 4271,
    "end": 4318
   },
   {
-   "fact": "对面年轻勋爵（蓝丝领巾、小鹿般的眼）心跳清晰可闻、薰衣草皂香——Rue 承认与母亲一样想「吃掉」他",
-   "anchor": "He smells of the living, and similar to my mother, I long to consume him",
+   "fact": "对勋爵承认与母同胃口",
+   "anchor": "He smells of the living, and similar to my mother, I long to consume him.",
    "start": 5397,
-   "end": 5469
+   "end": 5470
   },
   {
-   "fact": "Rue 说讨厌猪死时的尖叫，却不说猪与人死声相同——勋爵笑容僵住",
-   "anchor": "I do not tell him how they sound the same when they die, pigs and men",
+   "fact": "人猪死声同——对勋爵留白",
+   "anchor": "I do not tell him how they sound the same when they die, pigs and men.",
    "start": 5744,
-   "end": 5813
+   "end": 5814
   },
   {
-   "fact": "近晨母亲以红线远程操控 Horewith 自我拆解、喉骨剔净；Rue 怼「You promised him a kiss」→「could have waited before you ate him」",
-   "anchor": "my mother pulls and pulls and pulls until he lies unraveled over the table",
+   "fact": "红线拆解 Horewith 当众完成",
+   "anchor": "my mother pulls and pulls and pulls until he lies unraveled",
    "start": 6626,
-   "end": 6700
+   "end": 6685
   },
   {
-   "fact": "母亲歇息处＝铁梯末级下的 hollow；「rotting, but with sleep, she will rise anew」；母亲拉 Rue 躺进坟里（Lie with me）",
-   "anchor": "I help her slip into her shallow grave",
+   "fact": "归巢：hollow 浅坟",
+   "anchor": "I help her slip into her shallow grave.",
    "start": 11141,
-   "end": 11179
+   "end": 11180
+  },
+  {
+   "fact": "母亲机制：睡而复生",
+   "anchor": "She is rotting, but with sleep, she will rise anew.",
+   "start": 11444,
+   "end": 11495
+  },
+  {
+   "fact": "酒杯翻倒红液非酒",
+   "anchor": "The red seeps in, too dark and thick to be wine",
+   "start": 3762,
+   "end": 3809
+  },
+  {
+   "fact": "宴后找 Horewith 新鬼——Not yet",
+   "anchor": "I search the darkness for a new form",
+   "start": 9218,
+   "end": 9254
+  },
+  {
+   "fact": "门槛即判词",
+   "anchor": "there was no escape for him the moment he crossed the threshold",
+   "start": 4106,
+   "end": 4169
   }
  ]
 }
