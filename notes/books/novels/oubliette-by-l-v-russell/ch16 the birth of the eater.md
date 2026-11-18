@@ -94,7 +94,7 @@ modified: "2026-11-18"
 > **原句 12:** "Godfrey’s fingers catch my hem, and I kick him away, scrambling higher and higher. Up we climb, boughs leaning, dead leaves clinging to dead branches fall to the ground below, softly and slowly. He reaches me. Eyes bright, hands raking, fingers like claws as he tries to drag me down. Bark scrapes my back. Fear and panic are a bright burst within me; they tear at my chest, choking the air from my lungs. It is a useless sensation, and I scream against it, turning terror into anger, into rage."
 
 **中文理解**：踉跄着，指甲淌血，我往上抓——一节，又一节。Godfrey 跟着，太快、太急。我舌上有血。树枝吱呀呻吟，枯叶落着。轻轻地。慢慢地。……满嘴是血，我俯身向前，把 Godfrey 的手臂送进我的牙关。往下咬——透过皮肉，咬进底下的肌肉，牙齿刮上了骨头。
-**关键词**：my nails bloodied / a mouthful of blood / into my jaw / scraping against bone
+**关键词**：catch my hem, and
 **为什么这样写**：攀爬的节奏句（Up and up and up）与 Godfrey 的「太快、太急」对照——急的那个人先输；「舌头上有血」是咬合前的预告：她已经开始尝了；咬的描写按解剖学下刀（皮肉—肌肉—骨），没有犹豫的动词，只有工序。
 **读者视角提示**：注意「轻轻地、慢慢地」的落叶插叙——世界慢镜头，与下一块的坠亡对齐：这棵树看完了一场姐弟相残。
 
