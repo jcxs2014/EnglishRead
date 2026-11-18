@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch25",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch25_chapter_25.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "奥黛特（Odette）为 Huré 工人办的庆功宴失控成骚乱：庭院里像有数百人、连孩子都喝醉了，石拱门附近两名工人斗殴、围观者不但不劝反而一拥而上加入群殴；女工把整只派刮进篮子、水果塞进口袋，三名提琴手被面包砸得逃走。",
+   "anchor": "A fight had broken out near the stone arch",
+   "interval": [
+    169,
+    211
+   ],
+   "verified": true
+  },
+  {
+   "fact": "管家 Dupont 向 Odette 提议马上派人去请警察局长 Monsieur Lallement（the police chief）带手下来驱散人群；Odette 承认这是自己\"terrible idea\"并向他道歉，同意让他去找一名快腿信差走后门送信。",
+   "anchor": "The police chief. And his men, yes, men, I think—we need help to disperse.",
+   "interval": [
+    927,
+    1001
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Dupont 原本把烟花（巴黎商人特意警告 volatile、须轻拿轻放，计划由 Dupont 和一名助手在派对压轴时点燃）交给沉稳可靠的 Armand Martin 在门房看管，但 Odette 认出那个在送货车上跳吉格舞的矮个男子正是 Martin——烟花此刻正被醉酒的人群传来传去、乱扔乱掷。",
+   "anchor": "a short man dancing a jig atop a delivery cart",
+   "interval": [
+    2986,
+    3032
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Dupont 报时\"九点十分\"（Ten past nine）；Odette 想起自己早先安排好友 Arielle 带 Gilles 和 Eugénie 来看烟花压轴、他们随时会到，便派 Dupont 冲去大门拦停马车（她自知走得慢又太显眼）；Dupont 溜出大门后从外面关上门、插闩上锁，把醉酒人群锁在院内，人群愤怒涌向大门。",
+   "anchor": "arranged for Arielle, Gilles, and Eugénie to come and watch too.",
+   "interval": [
+    3617,
+    3681
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：Odette 在父亲办公室窗边看见约五十人聚在大门旁，两名男子把空桶立起、装入烟花点燃——前两枚升空后人群由怒转喜；最后最大的火箭（亮黑纸包装、商人警告须射入开阔天空）角度歪斜直冲办公室，炸穿窗户，火星引燃书桌、成匹丝绸和画册，Arielle 的作品与她父亲的图纸付之一炬；Odette 被玻璃砸倒、手掌割伤，吸入浓烟昏倒，小鼠 Polo 坠落在燃烧的地板上。",
+   "anchor": "the rocket smashed through the window, sending glass flying",
+   "interval": [
+    8896,
+    8955
+   ],
+   "verified": true
+  },
+  {
+   "fact": "车夫 Ned Smith（\"不是法国口音\"的男人）在楼梯上救下 Odette，护住她的脸一步步把她拖下楼梯，又用手指按压 Polo 的腹部把它救活收进口袋；赶来的警察只有三名（原为平乱而来，转而救火），屋顶坍塌后 Ned 和 Dupont 把 Odette 抬进马车驶往 Rue Brancas，途中还须闪避两辆鸣铃赶赴救火的消防车。",
+   "anchor": "Ned hauled Odette to her feet, and he and Dupont lifted her into the carriage.",
+   "interval": [
+    15621,
+    15699
+   ],
+   "verified": true
+  },
+  {
+   "fact": "当晚 Odette 独坐开着的窗边（嗅着烟味、看焦灰飘落全镇），用她父亲遗留的象牙柄剃刀刀片割开大腿上疤痕处的皮肉自残；事后她意识到自己真正憎恨这座曾是她牢笼的房子，觉得\"Something would have to change\"——两人不能再这样共处下去。",
+   "anchor": "The ivory handle of the razor in her hand felt warm and smooth.",
+   "interval": [
+    16472,
+    16535
+   ],
+   "verified": true
+  },
+  {
+   "fact": "两天后 Louis Grimard 与 Odette 察看废墟（工厂整个东翼被毁），他劝她必须重建；她自责坚持办派对、买烟花，并说\"我不该让 Beauclerc 先生离开\"，Arielle 也说工人需要领袖而 Odette 永远成不了他们的领袖；最终她决定不照原样重建父亲的旧翼，要造\"exciting and modern\"的新翼并请 Louis 设计（Louis 答应，还提出可引荐建筑师 Victor Horta）。",
+   "anchor": "I should never have made Monsieur Beauclerc leave.",
+   "interval": [
+    24126,
+    24176
+   ],
+   "verified": true
+  }
+ ]
+}

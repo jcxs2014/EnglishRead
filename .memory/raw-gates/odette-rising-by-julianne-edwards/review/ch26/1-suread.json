@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch26",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch26_chapter_26.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "周日里尔 Saint-Maurice 教堂礼拜散场，Beauclerc 出门散步时在涌出的人群中一眼认出 Marie Corot 并喊住她；他已四个月没踏进教堂——自从埋葬妻子以来就无法忍受，对上帝的怒火正旺。",
+   "anchor": "He had not set foot in a church for four months. Not since burying his wife.",
+   "interval": [
+    406,
+    482
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 对 Beauclerc 连珠炮式的提问十分警惕：她独自一人在里尔探望父母（父母本就是里尔人），丈夫 Monsieur Corot 和孩子们都留在 Sèvres。",
+   "anchor": "No, I am here alone. They are in Sèvres.",
+   "interval": [
+    1475,
+    1515
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 透露自己被 Odette（Mademoiselle Huré）流放到了里尔，要等 Huré 的信才被允许回家，可信至今未到；她怨恨地说\"那座工厂夺走了我的孩子，它欠我的，她欠我的\"。",
+   "anchor": "you do not know that I have been exiled here, by her?",
+   "interval": [
+    1921,
+    1974
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 告诉 Beauclerc 关键消息：工厂在一个\"放纵狂欢的夜晚\"烧毁了，Odette 差点葬身火海（她称\"God has spoken\"）；她说火势很大，Pierre 也得帮忙救火（\"Big one, Pierre had to help fight it\"）。",
+   "anchor": "Burned the place down during an evening of devilment and debauchery.",
+   "interval": [
+    2212,
+    2280
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 质问为何上帝饶了 Odette 却夺走她的 Emilie（她死去的孩子）；Beauclerc 察觉她已不是从前那个温和能干的女人，身上带着\"一股疯气\"（a lick of madness），并为听到关于工厂和 Odette Huré 的这些话而惊觉不安。",
+   "anchor": "spared her and took my Emilie. Do you?",
+   "interval": [
+    2351,
+    2389
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 说工厂如今没有经理，Odette 正自己（连同 Madame Feld——她用反犹口吻补一句\"She's Jewish, you know? It's going to the dogs\"）硬撑着打理；Beauclerc 忍不住斥责\"这话配不上你（that is beneath you）\"，她当场哭起来，他因街头啜泣有失体统而请她克制。",
+   "anchor": "Manager! There is no manager.",
+   "interval": [
+    3355,
+    3384
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Corot 哭诉想回家、想念儿子们，说在里尔举目无亲、\"怕这座城、恨它\"；Beauclerc 匆匆走开——他本指望遇见她能连上一点\"家\"的消息，结果只被搅得心神不宁，满腹疑问：Huré 到底出了什么事？什么火灾？但随即提醒自己这与他无关。",
+   "anchor": "I want to go home. I miss my boys.",
+   "interval": [
+    3802,
+    3836
+   ],
+   "verified": true
+  },
+  {
+   "fact": "尾声写 Beauclerc 的丧妻之痛：一进门仍会下意识寻找亡妻，每天清晨都要重新承受一遍打击；昨天他拾到她的一根发夹，用笨拙的手指小心翼翼举起端详，自语\"She was here. Standing here\"，再把它当宝贝包进手帕。",
+   "anchor": "He had found one of her hairpins yesterday.",
+   "interval": [
+    5027,
+    5070
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch27",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch27_chapter_27.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "十一月的一个傍晚，厨房闹成一团：狗 W.G. 见到这么多玩伴狂吠不止，Gilles 和 Eugénie 追着它钻进钻出食品间；Arielle 的女仆 Marianne 抱着针线篮穿行，Merry 被派去取煤；Odette、Arielle 和女管家坐在桌边核对家用账目，Ned Smith 半进半出立在门口——Odette 与 Arielle 一家同住。",
+   "anchor": "Odette, Arielle, and the housekeeper were sitting in the warm glow",
+   "interval": [
+    462,
+    528
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Merry 从院子冲进来急报：Madame Marie-Sainte（即 Berthe）受了伤——他取煤时一辆出租马车送来 Nanette 的口信，\"必须来，快，情况很糟\"；Odette 二话不说便命人取斗篷动身。",
+   "anchor": "A cab arrived when I was getting coal. A message from Nanette.",
+   "interval": [
+    1587,
+    1649
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Ned 牵马备鞍，一行人乘马车在风中狂奔进城（Odette 从未如此感激 Ned 不顾一切的快车速）；Merry 随车带了一壶热茶、一些饼干和一篮药品——Odette 看见篮里的敷布与绷带，胃里一沉。",
+   "anchor": "a flask of hot tea, some biscuits, and a basket of medicinal supplies",
+   "interval": [
+    1340,
+    1409
+   ],
+   "verified": true
+  },
+  {
+   "fact": "途中见闻：灯火通明的埃菲尔铁塔虽有拆除呼声仍屹立着；六区街巷收窄车马拥塞，Odette 看见这里已有女性（非妓女）独自自信地行街上办事——对比当年 Beauclerc 扫兴地阻拦她独自留在城里逛百货公司。",
+   "anchor": "the Eiffel Tower, lit up, still standing despite calls to take it down.",
+   "interval": [
+    2021,
+    2092
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点：红灯房间冰冷漆黑（无烛、无香、无火），Berthe 遭人毒打——Merry 跪在她椅前逐一拍查手臂、躯干、膝盖，双手沾满血；她嘴唇肿裂如爆开的果实、双眼肿闭，一道伤口从眉骨豁到嘴角，深得皮下粉黄的肉都清晰可见。",
+   "anchor": "A wound ran from her eyebrow to the corner of her mouth",
+   "interval": [
+    4492,
+    4547
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 主张送医院，Berthe 拼命摇头拒绝；Nanette 一反常态强硬转达\"She 说除了你谁也不行\"；垂危的 Berthe 用气音挤出\"Pequin\"——她的裁缝（dressmaker）；Odette 便派 Merry 跟 Nanette 去请，\"不惜任何价钱\"（Offer as much money as is needed），哪怕她正用晚餐也要立刻带到，否则 Berthe 会流血致死。",
+   "anchor": "She said no one but you. No one else.",
+   "interval": [
+    5541,
+    5578
+   ],
+   "verified": true
+  },
+  {
+   "fact": "缝合：Nanette 说家里有鸦片可镇静（\"We have opium\"），取来小瓶、针与止血带，冷静熟练地为 Berthe 臂上静脉注射；闻知 Odette 是 Huré Hosiery 的东家时 Madame Pequin 愣了一下，随即戴上 pince-nez 夹鼻镜下针，飞快而准确地缝合伤口，\"像在缝一条裙子的下摆\"；她明言不会追问缘由，只要求事后保持伤口极清洁（针用乙醇消毒，Nanette 主张用温盐水）。",
+   "anchor": "as if she were hemming a skirt",
+   "interval": [
+    10474,
+    10504
+   ],
+   "verified": true
+  },
+  {
+   "fact": "转折点（Odette 的改变）：当夜她站在卧室里逼自己面对盆上方的小镜，手里捏着刀片、乙醇开着瓶口，却发现\"怎么也割不下去\"——红灯房里那摊血改变了她，铁锈般的恨意与 Berthe 的痛太沉重；她把刀片重新包进布中收起，这是自残开始多年以来的第一次。",
+   "anchor": "The blood in that red room had changed something in her.",
+   "interval": [
+    11559,
+    11615
+   ],
+   "verified": true
+  }
+ ]
+}
