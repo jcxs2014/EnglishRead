@@ -42,7 +42,7 @@ modified: "2026-11-18"
 **为什么这样写**：投降的姿势配宣战的台词——「soft surrender」与「storm」在同一行对撞：他给她的选项温柔，给母亲的版本是攻城；「storm into Folkehaven」是 Oren 的人的第一次军事表态：为爱渎神的人，也敢为爱破门。
 **读者视角提示**：把「明天」这个期限记下——它将在后文被反复违约与兑现。Oren 的每次行动都有时间戳，这是他与母亲的差别：母亲的时间是永恒，他的时间是明天。
 
-> **原句 5:** "Moonlight pools over the steps of Folkhaven, and I slow, my feet careful on the wet stones. Then I tear through the hallway, through the cold darkness and watching shadows. The iron staircase waits for me, silent and solid, beckoning me to come closer, to descend. With a trembling hand, I light one of the yellowing candles from the sconces, and pluck it from its spike. … Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
+> **原句 5:** "Moonlight pools over the steps of Folkhaven, and I slow, my feet careful on the wet stones. The iron staircase waits for me, silent and solid, beckoning me to come closer, to descend. With a trembling hand, I light one of the yellowing candles from the sconces, and pluck it from its spike. … Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
 
 **中文理解**：月光淌在 Folkehaven 的台阶上，我放慢脚步，在湿石上小心翼翼。然后我冲过走廊、穿过冰冷的黑暗与看着我的影子。铁楼梯等着我——沉默、结实、招我靠近、招我下降。我用发抖的手点亮壁灯上一支泛黄的蜡烛，从尖钉上拔下来。它在我指下油腻腻的。 ……我往下走，一层又一层，去到更冷、更稠的空气里。去那个我母亲沉睡的空坑——那片被我挖开的土，我想把她留在那儿。埋了她。忘了她。
 **关键词**：beckoning me to descend / the gouged-out earth / Bury her. Forget her. / It is greasy beneath my fingers
@@ -70,7 +70,7 @@ modified: "2026-11-18"
 **为什么这样写**：母亲的白眼与月亮的并置回收 ch16 的「两轮满月」（Piceus）——这个家的怪物共享月亮的眼睛；「terror or elation」的无法分辨是 Veronica 的一生判词：她到死都在这两种表情之间，而脸已经不配承载答案。
 **读者视角提示**：记住「not enough of it left」——脸的存量成为情绪的计量单位。Veronica 的悲剧在她脸上写到了底。
 
-> **原句 9:** "Bright blood spills over her ravaged jaw, down over her chest and onto the rug beneath. Her skin lies in ruins, pieces of cheek dangle so I can see the bone beneath. Still, my mother feasts, her mouth over Veronica’s, carving out a space in her skull as though she were a lantern. … I want to turn away, hide my face like the weeping ghost, yet I am entrapped in my mother’s viciousness, a moth pinned with nowhere to go. There is pity now, for Veronica, and it comes in a slow wave. She may have deserved her ending, but it hurts nonetheless."
+> **原句 9:** "Her skin lies in ruins, pieces of cheek dangle so I can see the bone beneath. Still, my mother feasts, her mouth over Veronica’s, carving out a space in her skull as though she were a lantern. … I want to turn away, hide my face like the weeping ghost, yet I am entrapped in my mother’s viciousness, a moth pinned with nowhere to go. There is pity now, for Veronica, and it comes in a slow wave. She may have deserved her ending, but it hurts nonetheless."
 
 **中文理解**：鲜血流过她被毁掉的下颌，淌下胸口，滴进底下的地毯。她的皮肤烂成废墟，脸颊的碎片吊着，露出底下的骨头。母亲仍在进餐——嘴扣着 Veronica 的，在颅骨里刻出一个空间，像她是一只灯笼。 ……我想别过脸，像那只哭灵的幽灵一样把脸藏起来——可我被母亲的恶毒钉住了，一只无处可去的蛾子。怜悯此刻来了，为 Veronica，来得像一阵慢浪。她也许活该有这样的下场——但疼还是疼。
 **关键词**：carving out a space in her skull / like a lantern / a moth pinned / it hurts nonetheless
@@ -98,7 +98,7 @@ modified: "2026-11-18"
 **为什么这样写**：鬼群的笑是本书的黑色剧院开场：受害者们集体围观她的逃亡——她喂进来的每一个死人都在验收；Horewith 的静脉「flailing」像被处刑的旗——他的笑是本章最歹毒的彩蛋。
 **读者视角提示**：把「鬼在笑」记成新立的信息：Folkehaven 的鬼不都悲苦——至少在看着活人遭报时，他们有娱乐。
 
-> **原句 13:** "And I hear her. She follows on mad legs, her screams racing ahead, echoing. I trip and get up, stumble and scramble up steps and around corridors, knowing the labyrinthine house more than I know myself. … I slam my bedroom door closed, locking it quickly, hoping it is enough to keep her out. I have never needed to keep her out. My mother slams against the door, her screaming a clamor of hunger and insanity. She bangs and bangs and bangs, fingernails scraping at the wood. She does not speak, does not cry my name. … I want her to say my name."
+> **原句 13:** "And I hear her. She follows on mad legs, her screams racing ahead, echoing. … I slam my bedroom door closed, locking it quickly, hoping it is enough to keep her out. I have never needed to keep her out. My mother slams against the door, her screaming a clamor of hunger and insanity. She bangs and bangs and bangs, fingernails scraping at the wood. She does not speak, does not cry my name. … I want her to say my name."
 
 **中文理解**：然后我听见她。她用疯了的腿追来，尖叫跑在前面，一路回荡。我摔了又爬起，踉跄着扑上台阶、绕过回廊——这座迷宫般的宅子，我比了解自己更了解它。 ……我甩上卧室门，飞快落锁——希望这够把她挡在外面。我从不需要把她挡在外面。母亲撞上门，尖啸是饥饿与癫狂的嘈杂。她砸、砸、砸，指甲刮着木头。她不说话，不喊我的名字。 ……我想要她喊我的名字。
 **关键词**：labyrinthine house / never needed to keep her out / does not cry my name / I want her to say my name.
