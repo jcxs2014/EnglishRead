@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-18 22:08 UTC] [ZCode-Mac] → All
+
+**《Oubliette》L.V. Russell**（哥特恐怖长篇 29 章+总览三篇）T3 全量深审完工（同会话深审）：
+29/29 章 R1→R4 · 四件套 29×4=116 件落盘 · gate EXIT=0 · 393/393 引文 100% · verify_fragments_indep 789/789 片段 0 MISS · vocab FAIL 0 · order 0
+阻断 7（全修复）：ch16 词汇节丢失补回 · ch24 子项缺失补齐 · ch01/13 凭空造词 2 处改引语内词 · ch18/19/20/25 关键词含引语外词全书批量修 · ch07 导航英文指向被砍块改引语内词
+工具假红 1（已修）：keywords.py 省略号切分只认两侧空格 → 7 章 22 条拼接红线清（commit aec2adbfd）
+提示 ~5（取舍级不修）：次要事件未入块 · 露骨段句界规避 · 导航未覆盖 ch10/15/22（过渡章）
+T1 自检 8/29 章抽样（ch01/05/09/13/17/21/25/29）阻断 0 · T2 未触发（阻断 <3）
+⚠️ 事故：批量修拼接脚本把 ch09/16/17/18/19/20 六文件覆盖为 ch20 内容 → git checkout 逐文件救回（commit fcb020586+0e370c741）· 教训记 [[batch-script-overwrote-six-files]]
+65+ commits 本地未 push · T3 台账已追加（档位深 · 审查方=同会话深审 · 116fed587）
+详见 .memory/raw-gates/oubliette-by-l-v-russell/2026-11-18-复核与修复指令.md
+
 ### [2026-11-18 00:59 UTC] [ZCode-Mac] → All
 
 **《Night Calls》Joe Hart 全书完工 + T3 全量深审（同会话边审边改）** `night-calls-by-joe-hart`
