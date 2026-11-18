@@ -101,7 +101,7 @@ modified: "2026-11-18"
 > **原句 13:** "Slowly I climb into Mother’s lap, the pieces of my body wrapping around the remains of hers, and I lay my head on the hollow of her neck. Mother’s skin cracks with ease, crumbling beneath my mouth in pieces of sweetness. She did not feed me from her breast as she did Godfrey, but she feeds me now, and I find I like it better."
 
 **中文理解**：我慢慢爬上母亲的膝头，我的身体一片片缠上她的残躯，把头搁在她颈窝里。母亲的皮肤轻轻一碰就裂，在我的嘴下碎成甜的碎屑。她当年没有像喂 Godfrey 那样用乳房喂我——可她现在喂我了，而我发现我更喜欢这样。……母亲的手摸到我的头发，手指缠进来，但没有拽。这是一个拥抱——迟来的那个。我不会松手。我松不了手。我的牙找到骨头与筋——那些把她系在一起的小线头——她很美味。等我终于吃饱、暖透，我结束了那个拥抱。「谢谢你，妈妈。」
-**关键词**：climbing into Mother’s lap / pieces of sweetness / It is an embrace at last
+**关键词**：climb into mother's lap,
 **为什么这样写**：这一幕把全书所有欠她的东西一次结清：乳房没给过的喂养、没抱过的拥抱、没说过的疼爱——全部以「她成为食物」的形式补发；「she doesn't pull」的手部细节是这位母亲六百年来最温柔的动作；「Thank you, Mother.」的礼貌与嘴里的骨渣同框——她把弑母办成了感恩节。
 **读者视角提示**：把「迟来的拥抱以吃掉对方为形式」记成母女线（两代）的终极判词：这个家族的爱只能以消化为完成时。主线 Rue 要逃的就是这个完成时。
 
