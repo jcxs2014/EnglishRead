@@ -1,0 +1,970 @@
+
+=== ①相对章号：81 行 ===
+ch01 terror or ash.md:50 **读者视角提示**：记住这条绿裙和它的污渍——下一章开篇就是她在洗衣槽边烧掉裙子的后果；两人关于「洗不洗得掉」的分歧，是理解「什么东西在这个家里留得住」的第一道题。
+ch01 terror or ash.md:92 **读者视角提示**：数一数「ruin」在本章出现的次数（她的旧裙、烂透的他、全镇的人）——「废墟」是本书给道德败坏者的计量单位；带着这个尺度进入下一章的宴席，看「被吃的人」如何被提前定价。
+ch02 horewith unraveled.md:99 **读者视角提示**：这是本章与第一章（Hope）之间的扣环：每吃一个人，Folkehaven 的鬼名录就添一行。带着「谁会是下一个新鬼」的问题读后面各章。
+ch03 burning the green dress.md:10 - **情感弧线位置**：第一章的「污渍之争」在此收尾并反转：Rue 输了裙子，赢了清点损失的从容；她对 Anne 的欢乐第一次生出「想撕一块尝尝」的渴望。
+ch03 burning the green dress.md:21 **为什么这样写**：第一章悬置的「污渍」在此揭底——能洗掉的是血，洗不掉的是黏土：这不是凶案现场的赃物，而是母亲浅坟里的床土，即 Rue 的荣誉勋章；「boiled hands」与她手臂上的新旧伤疤连成一套奉献叙事，为救裙子她连自己的手都
+ch03 burning the green dress.md:22 **读者视角提示**：记住「clay」的出处（第二章的 shallow grave）——从这一章起，身上带不带坟泥是身份的显示：沾得越多，离母亲越近。Veronica 洗不净它，也当不上它。
+ch03 burning the green dress.md:35 **为什么这样写**：这一段把第二章「rise anew」的机制摊开成完整日程表：入夜不老→黎明腐烂→短暂时辰是行尸→入土睡眠→重生；「death will not touch, nor keep」两个动词对举——死亡不碰她（杀不死）也不留
+ch03 burning the green dress.md:56 **为什么这样写**：社交场景的全部温度都写在表面（放光、玫瑰蕾、蹦跳），真正的信息只占一丝气音——「Thank you」说得越轻，越说明它不能大声说；叙述者被握手冻住（I freeze）的那一拍是恐怖片的节奏：身体先于意识完成了反应。薄荷
+ch03 burning the green dress.md:64 **读者视角提示**：Lady Pengelly（第二章提供 Horewith 情报的人）与 Anne 同姓——这个镇的情报网与受害者名单共用姓氏。读者往后遇到每个镇上人名，都值得问一句：她和谁订过婚、谁没等到婚期。
+ch03 burning the green dress.md:70 **为什么这样写**：三块布料是三张面具（绿是旧裙的复活、深得像酒的猩红——而「酒」这个比喻在这座宅子里从来不只是饮品、近黑的蓝是烛光下的两面性）；真正的新信息在最后一句：Rue 对「快乐」产生了食欲——「撕一块尝尝」把情感写成了可分食的肉
+ch03 burning the green dress.md:71 **读者视角提示**：记住「tear it from her」这个动词——第一章 Veronica 的 ribbons of flesh 是撕肉，此刻 Rue 想撕的是快乐。母女俩的牙口，一个吃人，一个吃人身上她没有的东西。
+ch03 burning the green dress.md:78 **读者视角提示**：与第一章的 Hope 对照：她记起 Hope 是被动的（听诗对号），此刻她主动预约了 Horewith。从「记住死者」到「追访死者」，叙述者与亡者的关系在升温——这条线的走向值得盯住。
+ch04 the red ink letter.md:28 **为什么这样写**：接受逻辑只需一句话就成立（因为她给的）——这是第一章「terror or ash」服从结构的日常版；「no specters to keep me company」一句点明幽灵的常态功能：它们是她的常驻陪伴，今晚被母亲
+ch04 the red ink letter.md:49 **为什么这样写**：禁令与依恋同拍完成——她一边划掉海边，一边把耳朵贴上女儿的心跳：她管控行踪的身体姿势，同时是索取亲密的姿势；「Anywhere but there」不给理由，禁令的蛮横本身就是权力的显示。心跳是母亲最贪听的乐器（第二章
+ch04 the red ink letter.md:57 **读者视角提示**：对照第三章：茶室、订婚、蛋糕全是 Anne 场景的素材重组。Rue 的谎言工艺是拼贴式的——这个细节说明她的「正常生活」全部从别人那里借来的。
+ch04 the red ink letter.md:77 **为什么这样写**：「play along」与「body craves」并列——配合演出的同时身体投了真票：认知拒绝、感官认账，这种分裂正是母亲喂养的成果（只给身体的暖，不给名字里的爱）；「empty space」承接第二章的 achin
+ch04 the red ink letter.md:84 **为什么这样写**：盖被的「太紧」在睡醒这刻结账——关怀的成品是裹尸布（shroud），温柔的证据链在这里闭环；「solid blackness」承接上一章「空气是固体」的地下感：母亲走后，地下的物理规则渗进了卧室；「the earth 
+ch04 the red ink letter.md:119 **为什么这样写**：白蛾是活的图钉——钉请柬的动作必须附带一个持续挣扎的小生命，这是母亲的美术观：实用物件也要带刑具属性；蛾翼「still flutters」与信的Deadline 同构：请柬是催命符，扑扇是倒计时；三个「Another」
+ch04 the red ink letter.md:120 **读者视角提示**：数一下流水线上的工位：物色（find）→勾引（charm）→带回（bring back home）→祭品（offering）。Rue 的「职业描述」全章已经走完一遍，下一个名字就是下一章的钩子。
+ch05 a kiss without teeth.md:43 **读者视角提示**：记住「Ladies 供人」这条供应链——第二章的「Ladies 想亲眼看 Horewith 之死」在此升级成「Ladies 定期送货」。这个镇的地狱是一张网络，不是一个人的胃口。
+ch05 a kiss without teeth.md:112 **为什么这样写**：「aches」的笑与「crooked」的笑交替——两人在对彼此的疼痛与不完美挂号；「do not bloody them」暴露她的第一反应：先想「会不会弄脏」再敢接受温柔——自我认知里的血污预设无处不在；「A kiss
+ch06 sylvatica and piceus.md:43 **读者视角提示**：记住「寄生虫」这个分类——它与主线 Rue 的「fine worm」（第一章 Veronica 转述）隔代呼应：这个家族给女儿的物种标签代代相传。
+ch07 ouroboros.md:21 **为什么这样写**：开章即餐后——残骸留在餐厅里继续腐烂，进餐与陈尸共用一间房；「she always leaves those for last」给母亲的进食立了一条仪式规则：眼睛是甜点——与第六章鹿眼（Sylvatica 的第一件收藏
+ch07 ouroboros.md:22 **读者视角提示**：记住「眼睛留到最后」——它把第六章「I want its eye」从童年趣事升级为家族谱系。往后再出现「眼睛」的段落，都要接到这条食单上。
+ch07 ouroboros.md:50 **读者视角提示**：这是全书设定的第三份文件：死亡被禁止触碰 Rue。浴缸那场戏（第五章）之所以失败，可能不只是她的手松了。
+ch07 ouroboros.md:56 **为什么这样写**：母亲的出生演说与第六章的产床戏隔代对齐——1523 年的母亲对女儿说「dispose of it」，1822 年的母亲对女儿说「I held you instead」：同一种胃口，两种用途，而这个差别就是 Rue 活下
+ch07 ouroboros.md:71 **读者视角提示**：注意他把她请到「my residence」——自己的地盘。与第一章母亲把猎物请进 Folkehaven 是同一种动作，但动机完全相反：一个是请进屠场，一个是请出牢笼。
+ch07 ouroboros.md:78 **读者视角提示**：注意这封信与第四章母亲信件的镜像：那封是红墨水+「wanted」，这封是幽默+「faith」。两种笔迹，两种契约，Rue 同时签在身上。
+ch07 ouroboros.md:85 **读者视角提示**：记住这条交易结构：Ladies 供人（第五章）+ 吃罪（本章）。母亲吃的是「该死的人」，而「该死」由 Ladies 定义——罪名的定价权不在 Rue 手里，这才是她真正的不自由。
+ch08 you taste like me.md:28 **为什么这样写**：挖坟的日常化是本章的第一重错位：仪式性的苦役（指甲裂开）其实毫无必要——母亲自己出得来，「although I know she can」一笔戳破：她要的不是被挖出，是女儿的手；porcelain 肌肤与第一章瓷娃娃（
+ch08 you taste like me.md:29 **读者视角提示**：把「自己能出、却等人挖」记成母亲测试女儿的方式——第四章盖被游戏（试穿人性）的地下版本：她训练的是被需要的规律。
+ch08 you taste like me.md:35 **为什么这样写**：母女的日常对话以天气报告开始——与第四章的天气审讯（It did not rain today）对称：那时天气是刑具，此刻天气是哄睡前的摇篮曲；「sharp teeth a bit too long」用牙的尺寸暗示物种
+ch08 you taste like me.md:36 **读者视角提示**：注意蛾子——它已经是第三次出现（第四章镇纸里的钉蛾、第七章白蛾钉请柬、此刻被吞的活蛾）：蛾在这个家是「被捕获之物」的通用符号。
+ch08 you taste like me.md:49 **为什么这样写**：亲吻的程序是：先掐出血，再尝——血缘在这里被做成可验证的实物证据（味道），「You taste like me」是母亲版本的「我们是同类」：她的爱从来不经过语言，直接走舌头；「aches with her posses
+ch08 you taste like me.md:50 **读者视角提示**：把「taste like me」与第五章的「consume him」对照：母亲的爱法与食法共用同一条舌头。Rue 学会爱人的方式，就是被这样爱大的方式。
+ch08 you taste like me.md:119 **为什么这样写**：交货的语气是Chat 的：静脉线轴（第二章红线拆解的另一种缠法）、尖叫限额（吃到舌头为止）——她把死刑讲成了成品说明书，而买家满意；「pleasantly surprised」与「my cheeks aching wi
+ch09 the ladies banquet.md:21 **为什么这样写**：出场顺序即权力顺序：主位、珍珠、可怖的美——然后是一个两词的转折「And mine.」：她先承认母亲的神性，再认领所有权，这种骄傲与第六章「you are mine」的血绳一脉相承；项链的材质（防腐圣甲虫）是本家的首饰
+ch09 the ladies banquet.md:29 **读者视角提示**：记住「耳语=点单」这个机制——第七章 Lady Pengelly 怀念的「a whisper would bring the demise」在此得到了系统级展示。Ladies 是菜单的编写者。
+ch09 the ladies banquet.md:50 **读者视角提示**：记住「Save for hunger」——它与第七章 ouroboros 演说互为注脚：母亲的爱被 Rue 反复充值，又反复被 hunger 清零。
+ch09 the ladies banquet.md:56 **为什么这样写**：「thrice as deep by those of my own blood」是全书关于母亲伤痕的第一条直接证词：血亲之伤的深度是贵妇们给不起的——她受过的最重的伤来自「自己人」，这条伏笔指向第六章（1523 年那
+ch09 the ladies banquet.md:71 **读者视角提示**：记住她「只喝不吃」——这条戒律在下一章（生日宴）就会被检验：她自己家的餐桌上，不吃意味着什么。
+ch09 the ladies banquet.md:106 **读者视角提示**：数一数她对白猫做了什么：流血、滴血、弹血——与母亲掐她掌心吸血（第八章 taste like me）是同一套语法的两个方向：被母亲取血、给猫供血。她把家中学到的爱，反向用在了这只猫身上。
+ch09 the ladies banquet.md:119 **为什么这样写**：缔约的条款还是血——但这次血是她主动给、对方主动来的：与母亲（掐出血再品尝）的方向完全相反；「a weight at my hip」与第八章母亲头枕心跳的姿势呼应：都是「贴上来」，一个索取一个陪伴；「needed in
+ch09 the ladies banquet.md:120 **读者视角提示**：把「wanted vs needed」这对词记住——母亲在第四章的信里坦白只能给前者；今晚白猫给了她后者。Rue 的心从此有了两个锚点，往后每一次挣扎都在这两个词之间摆。
+ch10 the circle of dead black.md:22 **读者视角提示**：记住她对「淑女」的执念从第六章（Ladies are meant to dance）延续到此——雨水的冷湿是她能免费领到的最接近贵妇的东西。
+ch10 the circle of dead black.md:28 **为什么这样写**：三人游戏的权力结构开场即亮牌：她定规则（dare），Piceus 收编她（十指相缠），Godfrey 被架在中间——姐弟的座位关系就是猎手与猎物的座位关系；「entangling my fingers with his
+ch10 the circle of dead black.md:56 **为什么这样写**：她把饥荒读成安慰——安静、影子、饥饿都不需要社交，冬天的家终于安静得像她的内心；「blackened from the inside out」的羊羔是这个家的自画像：外面完好、内里黑透（与第六章烂苹果同款）；「no r
+ch10 the circle of dead black.md:63 **为什么这样写**：黑骟马的画像（白眼、喷气、沉默）是 Piceus 的兽形预演——黑身白眼的存在后文还会出现（ch16 的黑马血蹄）；三个 if 的递减句（见得到春天吗→冬天会不会先吃掉我们）把生存写成赌局；「so hollow」回扣第
+ch10 the circle of dead black.md:70 **为什么这样写**：Joan 的手（弯、扭、还在织）是 twenty 年劳役的实物证据——她给母亲织披肩的手指与第六章抱着婴儿的手指是同一双；「She is as trapped here as I am」把主仆的差别抹平：屋顶换劳作与血
+ch10 the circle of dead black.md:91 **为什么这样写**：Piceus 的现身构图（半影半光）是引诱者的标准打光：他永远站在两个世界的门缝里；「too tall and too thin and too still」三连 too 拼出非人轮廓；讨骨头的话术先示弱（锅里会有我的
+ch10 the circle of dead black.md:92 **读者视角提示**：注意「投喂」的方向反转：第六章他给她鹿眼（填她），这里她给他留骨头（喂他）——关系的账本开始双向记账，代价越来越大。
+ch10 the circle of dead black.md:105 **为什么这样写**：他的呼吸是「焦炭与橡木」——炉火与棺木的气味配方，燃烧与埋葬各半；「I don't cry out, nor pull away」的两个否定句是她的全部抵抗记录：没有反抗只有缺席的反抗；黑牙咧笑与第六章满月的眼睛配齐了
+ch11 a kiss like sunlight.md:98 **为什么这样写**：这场自毁独白的每一句都是灵魂的验伤报告：残片、缝线、别人的血管——她对自己的生物认知与第六章的脐带叙事（severed and devoured）接通：她的身体从出生起就带着母亲的织法；「fill me with si
+ch12 the refuse him vow.md:29 **读者视角提示**：注意他的手「hesitant」——上一章他中止了触碰，这一章的手都带着请示。Oren 的分寸感是他区别于这个家所有触碰者的地方。
+ch12 the refuse him vow.md:56 **为什么这样写**：她把作息表的底牌（挖坟）亮出来——这是第五块誓言之后的第一次实务对表：恋爱要嵌进侍母的日程里；「does not flinch」与第七章一脉相承：他不惊、只改约——他的适应力就是他的求爱方式；「meet you on 
+ch12 the refuse him vow.md:71 **读者视角提示**：记住兄妹的两份判决合在一起就是「她可以被爱」的证据链。这条链在下一章母亲的家宴上要被拿出来对质。
+ch13 i am full.md:63 **为什么这样写**：填充清单的诚实让人心惊：她知道自己被什么填满——不是爱、不是理解，是「甜笑」和「为我行凶的预备」；「approval of horrors」是 Anne 的独特货币：她不装看不见；「I am full」接住第十二章的 
+ch14 a leashed freedom.md:22 **读者视角提示**：记住「提过洗澡水」这个细节——第五章浴缸试死的那桶水里，有这个女孩的劳力。她救过她的命，现在死了，而叙述者连名字都没记住。
+ch14 a leashed freedom.md:49 **为什么这样写**：审讯被垫在呢喃鼠语里进行——温柔的声音问的是监控问题，这是母亲的标准工艺（第四章天气对账的升级版）；Rue 的报告用鼠的口粮打掩护（ wasted food——把社交翻译成生态）——她连汇报都用母亲听得懂的语言；「wh
+ch14 a leashed freedom.md:92 **读者视角提示**：注意这段互怼的节奏已经从忌惮变成日常——上一章的淤青还没消，两个人已经能互开尸体玩笑了。家法立威之后是冷战常态化。
+ch14 a leashed freedom.md:98 **为什么这样写**：互殴的对称完成（smacks→slap back）——上一章立威之后，这是两人第一次「平级互殴」：等级虽然还在，暴力已经可以往来；「misery to share」的接梗是 Rue 用自嘲续命的标准操作；信的检查（撕边
+ch14 a leashed freedom.md:106 **读者视角提示**：记住「Lady Pengelly 之死」——第七章她咳血说「我快死了，到时候一切都不再重要」。她留下的空位（Ladies 编制、供货渠道）是后文权力空转的引线。
+ch15 the eye in the black box.md:62 **为什么这样写**：「fed him to my mother」的对账瞬间把第七章的谜底钉死：Ladies 的杀人不是服务女儿的恩赐，是母亲清理「不合格资产」的手段——救女儿是副产品；「nor would I be welcome bac
+ch15 the eye in the black box.md:83 **为什么这样写**：她给自己的定位（stoic presence——让哭嚎撞击的静立物）是全程旁观学来的功能：她习惯了做承载别人的那面墙；「cannot fight it nor tame it」的驯服词法又出现（tame——上一章理头发
+ch18 if love is a ruination.md:28 **为什么这样写**：「You look common」在 Veronica 嘴里是贬义，在她耳朵里是勋章：平民意味着干净；Veronica 的绷带与鸦片酊是上一章餐宴的结账单，她靠上来的重量是这对主仆少有的互相搀扶。
+ch18 if love is a ruination.md:36 **读者视角提示**：裙子在这个家是会记仇的物件——第一章那首 limerick 里的名字，此刻贴在了她背上。
+ch18 if love is a ruination.md:52 **读者视角提示**：把「I am here」与第四章信里的「wanted」、ch07 的「Because I asked you」连成 Oren 的誓言三部曲——他的爱语从来不是形容词，全是动词：在、请、问。
+ch18 if love is a ruination.md:95 **为什么这样写**：他的诊断（in pieces）精准到解剖学：她的自我认知是从她的语言习惯里读出来的——她总说「我的碎片」「剩下的我」；「Who do you want to be?」是她第一次被问方向而不是身份——这个家的所有问题都是
+ch18 if love is a ruination.md:123 **为什么这样写**：「no ill omen」的主动辟谣是她对哥特套路的第一次脱敏：雷声不再自动翻译成凶兆——正常人世界的天气观她第一次用顺了；心跳作为催眠曲接住 ch08 的「聆听心跳」母题：母亲枕过她的心跳（掠取），她枕着他的心跳（安
+ch18 if love is a ruination.md:124 **读者视角提示**：记住这个「幸福的截止时间」——她在 Oren 怀里睡着、在夜里醒来，中间的空白将由下一章的灾难填充。作者把最好的时刻剪在最短的一行。
+ch21 the rats go to war.md:21 **为什么这样写**：晨光的「brittle」（脆）与走廊的「ruin」对账：太阳照常升起的礼貌更衬夜的账单；Veronica 的头「balances precariously」的放置精度说明母亲的收尾带着陈列意识——与第一章 Hope 的
+ch21 the rats go to war.md:22 **读者视角提示**：记住「veins like pulled threads」——第二章 Horewith 的红线拆解用的正是同一套织物的语言。母亲的杀人手艺有一套稳定的视觉词汇。
+ch21 the rats go to war.md:28 **为什么这样写**：「want her to want me」把需求降格到最小公倍数：不求爱，求被需要——她对自己的定价精确到这块；「grinning ghosts」的笑延续上一章（鬼群围观成常态）。
+ch22 how you wear her well.md:29 **读者视角提示**：注意对话里没人提到鼠群——上一章的复仇已经收走了部分供货方。这场宴会是用敌人的敌人开席的。
+ch23 gloves of the white cat.md:77 **为什么这样写**：「Hope」一词在此双关落葬：既是「希望」这个词，也是那只吊死的女鬼的名字——本章埋掉的是两样叫 Hope 的东西（手套的慰藉与第一章的鬼）；「well, bottomless and dark」回收她的 empty 
+ch25 scraps and suffering.md:36 **读者视角提示**：注意鬼的「不尖叫」——与第一章尖叫女鬼、图书馆哭鬼的接力对照：Folkehaven 的鬼声在降调，因为活人的惨剧已经够它看了。
+ch25 scraps and suffering.md:113 **读者视角提示**：记住「she knows, she knows, she knows」的三连回声——母亲不是在威胁某个抽象未来，她已经锁定了 Oren。下一章的灾难从这里起爆。
+ch26 with you.md:50 **读者视角提示**：把「捧心待主」与第一章捧眼球的手（Veronica）连线——这个家的呈献物永远是自己的身体部位。
+ch26 with you.md:64 **读者视角提示**：把「Damn you!」与第一章「terror or ash」对读：她终于把世界的两选项泼向了唯一爱过她的人。这不是恨，是绝望的账目对齐。
+ch26 with you.md:85 **读者视角提示**：把「互喂」与第一章 Veronica 喂血、ch19 互食全部连线——这个家的爱的终极形态自洽地闭合了。Rue 不再是例外。
+ch29 as it should be.md:50 **读者视角提示**：全书末句「As it should be.」请与第一章的「It is rotting in a way my mother never truly will.」并排读——开篇用比较级立怪，结尾用 should be 认
+
+=== ②绝对断言：212 行 ===
+00_情感节点.md:14 > "There is black in her eyes, and it spills down her cheeks in inky trails.（ch25）" 的前身在这里：她第一次流血服从。
+00_情感节点.md:27 浴缸里她掐着自己的脖子沉入水中，数到三十、四十、五十二秒，肺替她按了暂停。她对幽灵说「你们把死弄得那么容易」，然后抱着膝盖承认：不想死——不在这儿，不是现在。这是全书第一次她替自己做了决定。
+00_情感节点.md:34 出墓的楼梯上，母亲掐破她的掌心、舔了血、然后吻那只手。占有以味觉完成验证。同夜花园里母亲对海落下黑泪，要她摘星进屋——她说「带我去吧」，被一句「If only I could.」轻轻挡回。爱与无能第一次同框。
+00_情感节点.md:42 书房里她哭着说出全书最疼的祈求，Oren 吻了她又亲手中止，最后用一句「因为我邀请了」和一池彩玻的光，把她的愿望翻成了「你受欢迎」。这是她第一次被允许存在。
+00_情感节点.md:57 生日礼物提前到来：一双白毛手套。母亲报库存的语气泄露真相——毛是那只白猫的。她戴着它埋了它，然后崩溃投奔 Anne 家，第一次喊出「救救我」。屋里孕讯刚起，就被 Oren 一个摇头掐断：她没有「将来」可许给孩子。
+00_情感节点.md:81 她回家钻进母亲怀里，听到「回来即宽恕」的条款；然后她伸手进母亲胸口，第一次捧到那颗「为她跳」的心——拉出来，问了最后一次「你爱我吗」。母亲至死没有回答，最后的手势是把指甲抠进女儿的脸。尾声：Folkehaven 无人阻止地塌进水里，白猫归来
+00_概述.md:14 **而在 Norfolk 的冬天，另一个女孩正在被同一个循环碾过。** 插章 Sylvatica 回到 1523 年：母亲跪在生产床上祈祷生男孩，生下女儿后下令弄死她。女仆 Joan 把婴儿抱回了母亲胸口——「She'll give you
+00_概述.md:16 **1545 年的冬天，她吃掉了第一个人类。** 父亲死于自家马蹄，弟弟 Godfrey 追进森林要把她拖回去——她在橡树上咬进了他的手臂，然后看着他的头在树根上裂开：「I chew on the piece of his flesh an
+00_概述.md:22 **然后是代价。** Oren 被喂了母亲的血——胸口开盒、双手捧着自己的心等她回家。她对着这具被毁的身体完成了当初求毁的誓言，最后听到了他仅剩的三个词：「With…you.」（ch26） 晨光的审判降临在这具残骸上——「It is our
+00_概述.md:24 **尾声是一次彻底的接受。** Folkehaven 无人阻止地塌进水里，白猫归来，镰刀出鞘。她与猫并肩走出那座「仿佛从未存在」的房子，身后没有一个活魂。死亡落在她身上像一件暖衣——被渴望、被欢迎、被惧怕、被爱、被鄙夷——而全书的最后一句话
+00_概述.md:28 **一、爱是一种捕食，除非它学会不用牙齿。** 这本书里所有亲密关系都共用同一套动词：喂、吃、尝、撕。母亲的爱是「You are mine, and I am yours」（ch07）；Veronica 的爱是「Take what you 
+00_概述.md:30 **二、孤独是可以被喂养的，只要你肯吃错东西。** Rue 的空洞（ch04 的「empty space」）与 Sylvatica 的「a piece of me filled up」（ch06）是同一个洞的两代病历：母亲的信承认自己只能给
+00_概述.md:32 **三、命名即所有权，除非你夺回命名权。** 母亲给女儿取名 Rue、给怪物命名 Lady、给猎物编号 offering；Piceus 给 Sylvatica 命名、给恶种命名。全书的转折点是 Rue 第一次拒绝被命名——「I am nei
+00_概述.md:36 **Rue（与 Sylvatica 的对位）**：两个女孩同一种命运的两次执行。Rue 的起点是「被需要但不被爱」：她以为服从是唯一活法，把「I feed my mother」当终身刑期；Oren 与 Anne 给了她第二个选项——不问、不
+00_概述.md:40 **Oren Pengelly**：知情者、不问者、渎神者。他从一开始就知道 Rue 是什么——「I know what you do while in your pretty dresses」（ch07 的场景）——仍然邀请她、吻她、为她
+00_概述.md:42 **Anne 与 Veronica 的对位**：两个「女儿候选人」走出了相反的弧线。Anne 知道一切仍然道谢（ch03），她的婚礼是 Rue 第一次学会回抱的地方；Veronica 用自残换取母亲的触碰，最后被端上餐桌（ch20）。一个被
+00_金句精选.md:32 **呼应**：与 ch04 的「Then lie.」、ch21 的「Always.」同属母亲颁布的三份契约；ch25「And still, I am.」是它的最后一次续签。
+00_金句精选.md:126 **为什么重要**：她第一次签字确认自己与母亲同构——之前的冷血可以推给环境，这一句是她自己签的。
+00_金句精选.md:148 **上下文**：Piceus 把死鹿的眼睛放进她手心——饥饿第一次被非食物的东西止住。
+00_金句精选.md:186 **为什么重要**：Ladies 的道德豁免权到死为止——她们不是同伙，是客户。Rue 第一次听到有人把自己的罪说得如此轻盈。
+00_金句精选.md:222 **为什么重要**：被带走、被爱、被要——三个动词合成的渴望第一次脱口而出。母亲的回答是「If only I could.」——她带不走女儿。
+00_金句精选.md:258 **为什么重要**：他不否认她的处境，只给它一个体面的名字——这是 Rue 第一次被温柔地看见而不是被清点。
+00_金句精选.md:272 **呼应**：与 ch26「With…you.」首尾相扣：从「允许我爱你」到「跟你」，他的爱最终缩成坐标——但坐标从未变过。
+ch01 terror or ash.md:26 **中文理解**：她是沉默的——它们全都沉默。穿堂风里她轻轻摇晃，赤足刮着地板。多年前吊死她的那圈绳套吱呀作响，是这房间里唯一的声音。
+ch01 terror or ash.md:29 **读者视角提示**：叙述者对吊死鬼的态度是背过身去、不回想名字——不是第一次见，也不是最后一次。读者要跟着适应这个世界的底层设定：鬼是家具，恐惧在这里是奢侈品。
+ch01 terror or ash.md:33 **中文理解**：门吱呀开了，旧肉的臭味涌进来。我抬头。镜子里没有任何东西迎接我；慢吞吞刮过地板的脚步声是我唯一听得见的声音。然后她开口了。……「你看上去真圣洁，亲爱的。」一只手抓住我的肩，断裂的指甲抠进我裙子的花边。「像个小瓷娃娃。」
+ch01 terror or ash.md:63 **为什么这样写**：用 limerick 五行轻快韵脚装酷刑内容——押韵的节奏让暴行像童谣一样朗朗上口，形式与内容的反差本身就是恐怖；「token」把双眼写成贡品，与前文肉带的进贡逻辑同源；最后一行「fought to elope」在诗里
+ch01 terror or ash.md:64 **读者视角提示**：这是本章唯一的揭示时刻：房间角落那个影子有名字（Hope）、有死因（吊死、喉裂、失明）、有前史（逃跑未遂）。记住这首诗——它既是她的墓志铭，也是每个接近「夫人」的人的预演。
+ch01 terror or ash.md:91 **为什么这样写**：「A ruin of a man」与「Everyone in this fucking town is a ruin」是同一个词的两个声部——上游（Pengelly 夫人）提供情报，中层执行筛选，而叙述者直接接管了这套
+ch01 terror or ash.md:121 在一座鬼魂与腐朽同住的庄园里，Rue 被灌输了唯一的活法——「我们是恐怖，或者我们是灰」——而她在流血的服从里记住了一个死者（Hope）的名字，穿上洗不掉污渍的绿裙，去赴一场以人为馔的宴。
+ch02 horewith unraveled.md:10 - **情感弧线位置**：Rue 的第一次「在职演出」：调情、许诺、围观拆解、怀抱母亲——每一步都是职能，唯独怀里那一角被填满的空洞是私货。
+ch02 horewith unraveled.md:50 **读者视角提示**：记牢这位勋爵的外观（蓝丝领巾、黑发长睫、鹿样的眼）——他将在后文反复出现，是这个满桌死物世界里唯一的「活色」。
+ch02 horewith unraveled.md:64 **读者视角提示**：这是 Rue 全书第一次承认自己与母亲同构。她之前的冷血可以推给环境，这一句是她自己签的字——往后判断她的话哪些是职责哪些是本性，以这一句为底色。
+ch02 horewith unraveled.md:71 **读者视角提示**：数一数这段对话里的两层语言：表层是口味偏好，底层是食谱。往后 Rue 每一句「挑食」的话都值得回头重读——菜单从未变过，变的只是主菜。
+ch02 horewith unraveled.md:77 **为什么这样写**：谋杀被写成纺织——「red threads」入、人成线、unraveled（拆散）出，全文用织物的语汇完成一桩人命；「pulls and pulls and pulls」三连重复是本章唯一的暴力加速器，节奏上模仿扯线团
+ch03 burning the green dress.md:57 **读者视角提示**：这是本书第一次出现「知情还道谢」的外人：恐惧在这个镇上已经被消化成了人情世故。记住 Anne 的轻松——它比尖叫更说明问题。
+ch03 burning the green dress.md:77 **为什么这样写**：死亡被倒过来审计——不是「他死了多可惜」，而是「他的死换出了多少情感」，连哀悼都被折算成杠杆；「in the corners, in the darkness, in the damp」三连排比是这座宅子里亡者常驻位置
+ch04 the red ink letter.md:10 - **情感弧线位置**：母女床戏全章：监控—命令说谎—盖被守睡，Rue 身体渴求贴近而心里留着空位；这是全书第一次把「依赖的甜」与「被捕的冷」放同一张床上。
+ch04 the red ink letter.md:35 **为什么这样写**：开场白是气象报告——母亲用「今天没下雨」对账女儿「去了海边」的可能性，问话本身就是监控结论的前置；「resembles a large cobweb」先布景后定罪：帐纱成网、床成网心、母亲是网中央不呼吸的蜘蛛——猎物（
+ch04 the red ink letter.md:56 **为什么这样写**：谎话选材直接偷自昨天的真实见闻（Anne 的订婚宴）——最好用的谎是七分真；「I lie」由叙述者自报，表演与后台同时亮给读者；「can you imagine?」是谎话里唯一一次撒娇——她在给母亲递「正常生活」的样板
+ch04 the red ink letter.md:78 **读者视角提示**：这是 Rue 的内心账本第一次明示「缺口」。往后所有她对活人世界的好奇（Anne 的快乐、勋爵的心跳），都可以回指这块「empty space」。
+ch04 the red ink letter.md:112 **为什么这样写**：全信的核心是一个问句：她缺的不是食欲（食欲她从不缺），是「被看见」——「as I look upon you」把她凝视女儿的方式定义成她唯一懂得的爱法，也把这份爱的重量说破：她的目光是捕食者的目光；「famine-st
+ch05 a kiss without teeth.md:10 - **情感弧线位置**：全书最大转折点：死亡试炼以「不想死」收束，爱情线以一支华尔兹开启——「没有牙齿的吻」第一次出现在这个世界。
+ch05 a kiss without teeth.md:11 - **Tropes 兑现/反转**：舞会邂逅是言情标配，但邀请函是「你偷走的那片牛肉」；灰姑娘桥段反转——她不是被王子看中，而是被猎物弟弟指认；「A whore」的自贬被当事人说出口，职业生涯第一次由她自己定价。
+ch05 a kiss without teeth.md:49 **为什么这样写**：海被写成唯一诚实的清洁工——它明着冲走污物，不像镇上人用花香遮臭；「With each turn, the land is cleaned」的循环句式正是她想要的救赎模式：反复、耐心、不需要忏悔；末句把「洗净」与「淹死
+ch05 a kiss without teeth.md:98 **为什么这样写**：身世随舞步逐圈揭出：陪同者→姐夫候选→丑闻证人，每转一圈加一层；「My feet falter, and I step on his toe」是全章唯一的身体失控——她瞬间明白眼前这人是谁家的弟弟、自己吃掉的是什么；「
+ch05 a kiss without teeth.md:119 **为什么这样写**：情窦初开用她唯一会的语言记账：把「心」当成可献祭的器官——「tear my own heart out to give」与母亲撕肉带、Veronica 自割是同一家族的动词：她连爱人都用献祭的工艺；「foolish t
+ch05 a kiss without teeth.md:120 **读者视角提示**：数一数本章她动了多少次「撕/献」的念头：撕 Anne 的快乐、献自己的心。这个动词家族会一路长到全书结局——它到底是爱，还是她唯一学过的喂食，答案在最后。
+ch06 sylvatica and piceus.md:10 - **情感弧线位置**：全新时间线起点（1523，Norfolk）：本章回答「母亲从哪里来」——被嫌弃的女孩、被吞吃的食欲起源、与恶魔的第一次握手。
+ch06 sylvatica and piceus.md:12 - **人物弧线**：Sylvatica（叙述者）从「不该存在的安静婴儿」长成「决定与恶为友的女孩」；Joan 是她唯一的人间温度；Piceus 登场——非人的眼睛、不回声的笑、以死鹿之眼为聘的引诱者。
+ch06 sylvatica and piceus.md:84 **为什么这样写**：Piceus 的第一次暴力表演全程低声——掐喉、贴耳、耳语，没有一个多余动作，威慑以「内容听不见」的方式完成最大化（听不见的威胁比听得见的更广）；「as though he will tear it off」的拟态（像
+ch06 sylvatica and piceus.md:98 **为什么这样写**：她的神学反驳（虔诚的人不会怕圣言）被一句耸肩击穿——逻辑在经验面前破产：弟弟跑了，就是答案；「enjoying the wickedness」是她第一次主动审美「恶」——不是被引诱时的懵懂，是清醒的鉴赏；「we sha
+ch06 sylvatica and piceus.md:112 **为什么这样写**：她的第一件「收藏」不是皮（财富），而是眼（眼睛=凝视的器官）——她收藏的不是价值，是「看」：这与她的一生凝视他人、被他人凝视的母题咬合；「the movement of decay beneath my fingert
+ch06 sylvatica and piceus.md:149 一个被判死刑的女婴活成了 Sylvatica，一颗还温着的鹿眼第一次填住了她的饥饿——从那天起，填她的东西不再需要是食物，而教她这一切的男孩，眼睛里装着两轮满月。
+ch07 ouroboros.md:19 **中文理解**：Maltby 先生的残骸正在餐厅里腐烂。母亲取走了她想取的一切——他脖颈里的筋络、那颗肥厚肿胀柔软的心。他的眼睛也没了，不过她总是把眼睛留到最后。我知道那是因为她喜欢看自己一块一块把它们吃掉。
+ch07 ouroboros.md:35 **为什么这样写**：Rue 第一次给自己的职业命名（knacker——收拾将死牲畜的人），并立刻为它申请职业道德：她要的不是免罪，是「知道」——知情是她的赎罪券申请材料；「an ember, barely glowing」把残存的善写成最
+ch07 ouroboros.md:84 **为什么这样写**：这一句内白是全书经济系统的说明书：母亲家的「生意」是替 Ladies 吃罪——吃掉罪，罪人免于被埋，服务费是出席观看死亡；「I wish to hiss at him」的克制（只是想想）说明她清楚这个真相的保密等级；「
+ch07 ouroboros.md:98 **为什么这样写**：Lady Pengelly 的「算账方式」是全书道德光谱的另一个极点：Rue 的负担感来自「知道罪名」，Lady Pengelly 的轻松来自「我不用活着兑现后果」——垂死给了她免责；「a whisper would 
+ch08 you taste like me.md:10 - **情感弧线位置**：母女线抵达最黏稠处（taste like me）也露出第一道裂缝（If only I could）；Rue 与 Anne 的「受害者同盟」成立——她第一次被人不怕她。
+ch08 you taste like me.md:56 **为什么这样写**：雕像的「被抠走的石刻眼睛」与母亲的食单（眼睛留到最后）同款——这个家的破坏欲连装饰品都按同一份清单执行；海被写成「calm mirror」——镜子照出的是母亲不敢看的东西，而 Rue 觉得那种宁静「almost rea
+ch08 you taste like me.md:57 **读者视角提示**：记住海的形状：镜子、永远、宁静。它是全书唯一一面照出「正常世界」的镜子，也是母亲的禁区。
+ch08 you taste like me.md:64 **读者视角提示**：这是母亲罕见的脆弱时刻：黑泪（下一段）是她唯一一次的「哭」。记住她的恨海三连：圈（禁锢）、倒（污染）、浩瀚（对比出她的有限）。
+ch08 you taste like me.md:70 **为什么这样写**：黑泪是这个家族的生理学：连悲伤的分泌物都是污染物（thick and oily）——她的眼泪跟她的血同色系；「I cannot bear her sadness」暴露 RUE 的软肋第一次不是恐惧而是心疼；「keepi
+ch08 you taste like me.md:77 **为什么这样写**：母亲的浪漫需求（摘星）是收集癖的家庭版——连爱都要「带进屋里」才能实施，她的爱依赖囚禁的语法；「Bring me instead」是 Rue 全书最裸露的一次请求：被带走、被爱、被要——三个动词合成的渴望脱口而出又立即
+ch08 you taste like me.md:84 **为什么这样写**：白猫的登场自带浓度对比：纯白星尘对满园腐朽——它是这个世界里唯一「不属于这里」的活物；「too pure against the decay」的反差为尾声埋下完整的回收通道（同一只猫、同一种白）；它拒绝抚摸（hisse
+ch08 you taste like me.md:92 **读者视角提示**：注意这场相遇的位置：不闹鬼的旧墓园+白猫刚被吓跑——Anne 的闯入打断了 Rue 唯一能「白着」的时刻。她的感谢会在这里开出什么，值得盯紧。
+ch08 you taste like me.md:113 **读者视角提示**：记住 Anne 的这句话——它定义了本书里「疗愈」的另一种语法：不是遗忘，是知道得足够多。Rue 第一次成了别人的药。
+ch08 you taste like me.md:120 **读者视角提示**：注意两人握手的完成度：Anne 掐、Rue 让——受害者与加害者的手第一次握在一起且谁都没松。这个同盟是本书后段所有剧情的根。
+ch09 the ladies banquet.md:12 - **人物弧线**：母亲当众展示统治术（恩威同施）；Rue 第一次目睹母亲的另一场「进食」（黑暗中的 moaning，细节按下不表）；她与白猫缔结本书唯一的非捕食性亲密关系。
+ch09 the ladies banquet.md:43 **读者视角提示**：这是本章唯一一场「礼仪事故」的处理示范：母亲不动怒（calm），只纠错——纠错的方式是让对方的手腕记住。
+ch09 the ladies banquet.md:105 **为什么这样写**：与白猫的外交以血为货币——她主动供血（claws over my skin 不闪避），因为这是她家里唯一能给她「换」来靠近的东西；「Be wary…my mother is quite fond of them」是警告
+ch09 the ladies banquet.md:110 **中文理解**：它又哈了一声，亮黄的眼睛在柔光里一闪。我意识到，除了我，这是这里唯一活着的东西。我想摸到它的心跳，想看它是不是暖的，想探进它的肋骨底下，看看那身可爱的白下面有没有一个灵魂。
+ch09 the ladies banquet.md:113 **读者视角提示**：把「唯一活物」清点进你的地图：这座宅子里的一切亲密关系都在死物与活物之间分配——母亲、Veronica、鬼、猫——活物的名单越短，白猫的分量越重。
+ch09 the ladies banquet.md:149 十一位贵妇递上耳语换一席「永恒仆人」的资格，母亲用一杯稠红宣告永恒；Rue 把自己灌到失去羞耻——然后在黑暗里用几滴血换来这个世界唯一不带牙齿的需要：一只白猫贴着她的髋呼噜。
+ch10 the circle of dead black.md:10 - **情感弧线位置**：Sylvatica 线第二乐章：她从「决定与恶为友」走到「被恶占有的第一步」；乌鸦圈是 Piceus 力量的公开展演，兄妹二人的第一次当众分账。
+ch10 the circle of dead black.md:98 **为什么这样写**：Piceus 的教唆三连（偷吗？他不在家吗？他会发现吗）全是挖井的姿势——他给的不是主意，是她自己饥饿的回声；「If he sees me」的重复句法把「被看见」的恐惧翻面：他看的优先级高于父亲的鞭子；「I see y
+ch10 the circle of dead black.md:106 **读者视角提示**：这一段的每个细节都该记在 Piceus 的档案里（气味、触感、牙）。他是这本书里唯一与母亲平级的非人存在——两条引诱线（对母亲？对 Sylvatica）的关系，后文自会接通。
+ch10 the circle of dead black.md:142 饥冬里，一圈坠死的乌鸦为 dare 收尾；Piceus 在门影里讨骨头、在她的唇边留下「暂时」——从此这个家的每一张嘴都在他的减员清单上，而她握碎鸡骨的手，第一次尝到了被占有的形状。
+ch11 a kiss like sunlight.md:9 - **一句话概括**：第四场舞会的血指甲与锈色，书房里 Oren 的一支暗吻——她在笑声里听出母亲的回声并掐死它，然后在彩玻光池的座位邀约里第一次听见「你受欢迎」。
+ch11 a kiss like sunlight.md:12 - **人物弧线**：Rue 第一次承认想被忘掉；Oren 的怒气第一次全部指向自己；她的笑声像母亲——本书第一次出现「我怕变成她」的生理反应。
+ch11 a kiss like sunlight.md:49 **为什么这样写**：母亲的舔泪（动物的亲昵）被预先放上台面——她知道眼泪在家的唯一去向是被吃掉；「Would you cast me adrift, then?」把 Oren 的可能冷淡预演成一次放逐——漂流（adrift）是她对「无人认
+ch11 a kiss like sunlight.md:63 **为什么这样写**：初吻的署名权模糊处理（谁先凑近不知道）——把决定写成「shared」，两人各执一半责任，谁也没把谁扑倒；「tastes like sunlight, the tartness of gooseberries」沿用他请柬
+ch11 a kiss like sunlight.md:117 **中文理解**：眼泪在脸颊上干了，留下红肿的痕。Veronica 不会问起它们；母亲不会看见它们。就好像它们从未落下来过。
+ch11 a kiss like sunlight.md:120 **读者视角提示**：注意这是全章第二次「泪」的结算（第一次是 dashing them from my eyes before shame can claim me）。Rue 的眼泪有一整套管理流程，本章的流程图值得记住：流—笑—抹—干—
+ch12 the refuse him vow.md:10 - **情感弧线位置**：Rue 第一次被两个人（Oren+Anne）同时欢迎；也是她第一次对 Veronica 动手（bruises）——温暖与暴力在同一章各走完一个全程。
+ch12 the refuse him vow.md:21 **为什么这样写**：财产清单（时间、灵魂）的产权人写得清清楚楚——她连「想要一段早晨」都要先做产权声明；「fold away and keep」的记忆术是她唯一被允许的收藏行为（对比母亲的收藏柜：她收藏的东西也弄脏）；「shameful 
+ch12 the refuse him vow.md:35 **为什么这样写**：他的否认（not a monster）与她的认领（I am monstrous）在同一个语法位上对峙——一个用词根（monster），一个用形容词（monstrous），她连「是」都要比他说得更彻底；「I cannot
+ch12 the refuse him vow.md:63 **为什么这样写**：他的回嘴把「暗角」这个羞耻坐标改写成寻找坐标——同一句话从指控行为翻成告白；「soothing warmth」的脸红与 folkehaven 的寒凉体质对照：她身体的升温第一次是舒服的；Anne 在场的打趣让这场暧昧有
+ch12 the refuse him vow.md:64 **读者视角提示**：注意这是 Rue 第一次被人当面打趣而不反击——她收下了玩笑，说明信任已经在攒利息。
+ch12 the refuse him vow.md:68 **中文理解**：「可我不惊讶。」Anne 轻轻捏了捏我的手臂。她有玫瑰水和新皂的气味，她靠着我，好像完全不怕弄脏自己的手。「你里面有好的东西，Rue。」……她的话以一种我从未体验过的方式碰到我。先是 Oren，现在又是她？他们舌上托着承诺
+ch12 the refuse him vow.md:70 **为什么这样写**：Anne 的不嫌弃写在嗅觉里（rosewater and fresh soap——干净的人敢贴着脏的人）；「There is goodness in you」与 Oren 的「not a monster」是同一份判决的
+ch13 i am full.md:9 - **一句话概括**：正午沙丘野餐：Edward 的提问拆穿谎言，Anne 的调停保住体面——「我满了」；婚礼邀约的一个拥抱暴露 Rue 唯一学不会的动作。
+ch13 i am full.md:10 - **情感弧线位置**：四人局是 Rue 距离「正常生活」最近的一次：谎言、调停、风暴、拥抱——每一样她都要现场学；「I am full」是她空洞账户的第一次余额转正。
+ch13 i am full.md:12 - **人物弧线**：Edward（ wary of the devils）确立为聪明的边缘人；Anne 的忠诚覆盖谎言与怪物；Oren 的怒气第一次为她而生；Rue 对 Horewith 的恨升级到「拔肋骨」级别。
+ch13 i am full.md:28 **为什么这样写**：她的第一句回答（先认识哥哥）已经是半句真话——谎言策略当场启动：真话打底、顺序重排；「too full of joy to spoil」把 Anne 的幸福写成易碎展品——Rue 的保密不是自我保护，是给别人的幸福当守
+ch13 i am full.md:49 **为什么这样写**：「threading my story with pieces of truth」是 Rue 的手艺自白——她把撒谎从求生技能升级成编织工艺：线是真的，织法是假的；「fills me with something to
+ch13 i am full.md:78 **读者视角提示**：记住「我会找到他」——这是 Rue 对鬼的第二次主动宣告（第一次是问 Horewith 为什么该死）。她的鬼名录管理员身份正在变成执法者身份。
+ch13 i am full.md:84 **为什么这样写**：婚礼邀约的交换条款是名字（Miss Pengelly → Anne）——把称呼让渡当友谊的公证；「takes the breath from my lungs」的拥抱对 Rue 是第一次侵入式善意：身体的靠近仍按袭击处
+ch13 i am full.md:114 沙丘上的谎言攻防以一杯茶收兵：「警惕是对的」换来默契而非接纳；她第一次说「我满了」——可当 Anne 扑过来拥抱时，Rue 的手臂垂在身侧：这个被抱大的孩子，从没学会怎么抱回去。
+ch14 a leashed freedom.md:10 - **情感弧线位置**：母女线摊牌章：Rue 第一次问「如果我开口要走你会怎样」，母亲第一次试图定义自己的爱——答案是一根拉到最长的绳。
+ch14 a leashed freedom.md:12 - **人物弧线**：Veronica 的告密被证实（母亲的鼻子全知）；她的爱与占有在「leashed freedom」里合体；池塘浮尸女是 Rue 唯一不尖叫的听众；Oren 丧母，葬礼由母亲下令出席。
+ch14 a leashed freedom.md:35 **为什么这样写**：道歉的全程与剔牙并行——礼貌的零件（餐巾、带话、抱歉）在血渍的手上运转自如；「no more room at Folkehaven for more ghosts」是房子的容量宣言：鬼满为患，死人编制已满——这是全书最
+ch14 a leashed freedom.md:56 **为什么这样写**：爆发问句一口气列举了她的全部处境清单——把生活拆成四件刑具（黑暗、饥饿、眼睛、裙子）再问「这就是你想要的吗」：这是她第一次不绕弯地要说法；「A half death」对 Veronica 的判词也预演了自己的选项：不走
+ch14 a leashed freedom.md:84 **为什么这样写**：Rue 的「树洞」是个溺亡女孩——她挑选听众的唯一标准是安静：这个家的鬼要么尖叫要么要命，肯闭眼的才配知情；「a girl no older than me」的同龄设定让这场对话像照镜子：水面下躺着一个她可能成为的版本
+ch14 a leashed freedom.md:85 **读者视角提示**：记住这位「沉默的听众」——Rue 的秘密第一次有了去处。秘密的流向就是信任的流向：母亲的餐桌只收血，池塘收心事。
+ch14 a leashed freedom.md:105 **为什么这样写**：丧信的语法完全按「凡人的痛」写成——「Do we not all hope for more time?」的反问句第一次把「时间不够」的痛递到 Rue 手里（她家的问题是时间太多）；「She might see you
+ch14 a leashed freedom.md:110 **中文理解**：我攥紧那封信，知道晕开的墨迹是眼泪。我的心以一种从未有过的方式疼——那几乎是一种温柔的疼。「我必须去，」我说，声音近乎哀求。「我一个人扛不住。我也不能让 Oren 一个人扛。」……「你母亲的一位夫人过世了。一个伺候她的饥饿
+ch14 a leashed freedom.md:112 **为什么这样写**：同一封信被读出两个文种：Rue 读到情书（温柔的疼——她第一次尝到为别人心口疼的滋味），Veronica 读到公文（Ladies 编制变动通知）；「an almost gentle pain」是全书给「心疼」的第一次正
+ch15 the eye in the black box.md:12 - **人物弧线**：Rue 第一次独立处理一场丧事（分工、安抚、守灵）；Oren 承认解脱并自疑 wicked；Anne 的母爱真相补完（救她的代价是流放）；Rue 的挖坟本能泛化到一切坟。
+ch15 the eye in the black box.md:28 **为什么这样写**：Veronica 的影子定位写得很准：她的存在就是「母亲不在场时的母亲」——监工的灵魂还在；「I do not know what to do」是 Oren 在本书第二次说这句话（第一次是婚礼前厅）——他在情感灾难面前
+ch15 the eye in the black box.md:43 **读者视角提示**：这是两人第一次在葬礼场景牵手——生离死别成了他们肢体语言的加速器。记住这只不肯放的手。
+ch15 the eye in the black box.md:70 **读者视角提示**：这是 Rue 第一次当老师。她教的内容全部来自她的缺课清单——她把自己没得到的安慰，现场发明了一遍给了 Anne。
+ch15 the eye in the black box.md:103 **读者视角提示**：把「别让年轻老爷看见」的叮嘱当成边界线：这只眼睛有两套收件语义——对母亲是贡品，对 Oren 是遗骸。Rue 是唯一横跨两界的人：她要把贡品带回家，并把真相永远瞒住。
+ch16 the birth of the eater.md:12 - **人物弧线**：Godfrey 追捕姐姐反被咬死；母亲后悔没扔掉她（恨意升格）；Joan 是唯一给了她暖的人；Piceus 完成从引诱者到共犯的公开亮相（舔血当着她的面）。
+ch16 the birth of the eater.md:35 **为什么这样写**：整理遗容（looks his best）是母亲家的葬礼规格：尸体也要体面上桌——她对死人的体面比活人多；「I believe she is going to embrace me」的错觉是全章最疼的一拍：一个从未被抱过
+ch16 the birth of the eater.md:49 **为什么这样写**：Piceus 的讨债问句把「留在他身边」标成了债务——她接话时的「you」单数，说破了自己的账本：欠他的不是钱，是人；「nothing of worth left」的清算后，唯一的资产只剩她自己——她已经在盘算以身抵债
+ch16 the birth of the eater.md:50 **读者视角提示**：记住「 ache beyond hunger」——这是 Sylvatica 的情感里程碑：她的痛苦清单第一次出现比饿更重的东西。Piceus 的债权从这天起包括她的心。
+ch16 the birth of the eater.md:63 **为什么这样写**：他第一次叫她的名字——此前一直是 girl，名字的授予是他收网的最后一针：被怪物记名的人从此有了归属；「The color of forgetting」给他的眼睛上了釉：忘却（痛、债、家）正是他贩卖的商品；她抽手时才发
+ch16 the birth of the eater.md:77 **为什么这样写**：她的毒计（拉人陪苦）是她能想出的最接近「亲情」的东西——共享痛苦是这个家唯一流通的爱；Joan 的「带着笑的责骂」是她唯一领过的暖—— affection 的计量单位在这里小到一个笑纹；两句「I wish」的排比是全章
+ch16 the birth of the eater.md:143 血像墨、雨是橙的：父亲死于自家马蹄，弟弟死于她的牙——Sylvatica 在森林的树杈上咽下第一口人肉，Piceus 的「Sylvatica」是这一天她收到的唯一礼物。
+ch17 a mirror of madness.md:10 - **情感弧线位置**：母女线进入最不安的乐章：神智的裂痕比暴力更可怕——「若她疯了会忘了我吗」是 Rue 对母亲的第一次反向恐惧。
+ch17 a mirror of madness.md:28 **为什么这样写**：白猫的哈气与蹭暖同框——她提供的安全感是限量的（床可以、手不行）；「It is all I have to give her」的清点是 Rue 的贫穷告白：时间是她唯一没被母亲征收的资产，而这份资产她也只能分期付给一只
+ch17 a mirror of madness.md:29 **读者视角提示**：把「给时间」记成 Rue 的礼物形态——她不会拥抱（ch13）、不会讨好，她只会等。等是这个孩子学到的唯一温柔的动词。
+ch17 a mirror of madness.md:35 **为什么这样写**：母亲的华丽往事被挂上三重疑点（谎、妄想、两者）——这是 Rue 第一次把「不可信」的标签贴给母亲的记忆：记忆失准的苗头比失忆本身更早出现；「dilapidated husk」与「echo of grandeur」互为对
+ch17 a mirror of madness.md:64 **读者视角提示**：把这场澄清与 ch04 的「Then lie」对照：那时母亲命令她撒谎，如今她用最平静的真话扑救——两年过去，真话第一次有了胜算。
+ch17 a mirror of madness.md:70 **为什么这样写**：这段内白是 Rue 第一次反向恐惧：此前她怕被母亲找回来，此刻她怕母亲把自己弄丢——「forget me」的担忧把占有与被占有的位置对调了一瞬；「high price to pay for immortality」是全
+ch17 a mirror of madness.md:77 **为什么这样写**：误认解除后的贴额是本章唯一的「和解」姿势——冷额抵冷额（她冷，但 Rue 也不暖）；「the mirror of my own」的头发互文是血脉的实物证据：连头发都同款；「Famished, daughter」的称呼转
+ch17 a mirror of madness.md:78 **读者视角提示**：注意「饿」总是紧跟在情感戏后——母亲的情绪消化方式只有一种：吃。祝福之前先加餐，这是她的礼仪顺序。
+ch17 a mirror of madness.md:91 **为什么这样写**：献肉被拒是本章的黑色幽默顶点：连被吃都要讲口味——Veronica 的奉献第一次供过于求；「too distasteful」的挑食判词把她的忠诚标了价：不够新鲜；那一巴掌的回荡声是母亲情绪的最响一句话语：她烦的不是 V
+ch17 a mirror of madness.md:110 **中文理解**：她不等我回答，抽身退回阴影里，退出了书房。……Veronica 在地上动了动，呻吟着，浑身是血。她的手臂毁了——裂开的皮、翻出的黄油糊成一片哭泣的烂摊。她会把它包起来，兴许兴致来了还会自己缝几针，然后它就会像其他那些一样结
+ch17 a mirror of madness.md:119 **为什么这样写**：怜悯在结尾被定性为「可怕」——被鬼可怜意味着她成了比鬼更值得同情的物种：活人输给亡者的排名赛；「empty eyes wider」的睁大是幽灵全章唯一的动作：她替所有说不出话的死者表达了立场。
+ch17 a mirror of madness.md:149 母亲的记忆开始撕她的东西——请柬被错认成婚约，澄清只换来一句「Not yours」；Veronica 献肉被嫌腻扇晕，Rue 踩着听不见的华尔兹领了血手印的祝福出门——身后一只幽灵睁大空洞的眼，第一次替死者们怜悯了她。
+ch18 if love is a ruination.md:9 - **一句话概括**：Anne 的婚礼日：黄裙揭出 Hope 的档案、粉裙 Veronicas 的仆役论、后排的誓言三连——她第一次回抱，第一次听见「我爱你」，第一次把话当成食物咽下去。
+ch18 if love is a ruination.md:21 **为什么这样写**：她挑衣服的标准第一次反向操作：不是最美的，是最没沾过血的——「found at the back of my wardrobe」像在衣柜里考古；「moth-eaten holes」的瑕疵被披肩一遮就算过关：她对「得体」
+ch18 if love is a ruination.md:67 **为什么这样写**：新郎的祝词是一份带违约条款的合同——Oren 的威胁轻描淡写，抵押物却写得很具体（flesh）；Edward 的「不缩」让他成了这个怪物故事里唯一干净的人：他知道风险，签字画押，不找后账——「most guiltles
+ch18 if love is a ruination.md:109 **为什么这样写**：钉蛾子的比喻回收第 ch04 的镇纸意象——她收藏美好的方式终于更新：不再用图钉钉死，而是钉住时间；「swallow them down like viscera」是全书的胃口革命：她第一次靠「话」吃饱——语言的营养学
+ch18 if love is a ruination.md:153 黄裙是 Hope 的遗物、粉裙是 Veronicas 的法庭、白纱是 Anne 的赦免——她第一次回抱、第一次吃饱「话」这种食物，在只有上帝围观的圣地把自己交出去：不是凶兆，只是六月的暴雨；她枕着心跳睡着，醒来已是夜。
+ch19 she feeds me now.md:10 - **情感弧线位置**：Sylvatica 线的终章与诞生章：她经历死亡、埋葬、腐烂、复生——成为怪物的每一道工序都在本章走完；「第一次拥抱来自她吃掉的人」是全书最狠的镜像。
+ch19 she feeds me now.md:21 **为什么这样写**：Joan 的死是全书唯一的「善终」——快、安静、自己决定——作者用它的温柔反衬这家人的死法（慢死、被吃）；「I alone who dragged her」的葬礼规格是这座农庄的全部礼数：一个人、一铲雪、半段祷词；「a
+ch19 she feeds me now.md:22 **读者视角提示**：记住 Joan 的死法——它是本书「善终」的唯一样本。Rue（主线）在第 12 章享受过教堂的安魂，而 Sylvatica 只能自己给自己办丧事。
+ch19 she feeds me now.md:28 **为什么这样写**：喂食的碗「差一点才够不着」是这位女儿唯一的恶意刻度——她的恨精确到英寸；「does not deserve the mercy」的安乐死拒绝书与 Godfrey 的快死对照：慢死是这家人的刑罚等级；「a tiny pi
+ch19 she feeds me now.md:35 **为什么这样写**：「差一点才够不着」的碗是这位女儿唯一的恶意刻度——她的恨精确到英寸；「a tiny piece of him lives within me」把吃弟弟写成永久的合葬——肚子里养着仇人，也养着最后一个亲人。
+ch19 she feeds me now.md:70 **为什么这样写**：「出生即终结」的对仗把她的两场仪式写成同一台戏：没有助产士的生、没有告别的死；「I do not want this」的重复是全书 Sylvatica 唯一一次反悔——契约签了、货到付款时她怕了：这一句让她在被铸成怪物
+ch20 the oubliette in waiting.md:9 - **一句话概括**：婚礼夜的野合刚完，Rue 冒雨逃回家——地窖空了，母亲已自行出土；她在图书馆撞见 Veronica 被吃成灯笼的最后时刻，锁门逃亡，第一次希望母亲喊她的名字。
+ch20 the oubliette in waiting.md:10 - **情感弧线位置**：Veronica 之死执行章：Rue 的怜悯第一次真正生效（for Veronica）；「oubliette in waiting」点书名——她本想埋掉母亲，而母亲先埋掉了忠诚。
+ch20 the oubliette in waiting.md:22 **读者视角提示**：注意「despite my haste, my need」——need 的定语第一次与逃跑并列：她需要的不是 Oren，是确认母亲的下落。这场婚礼夜逃亡的发动机是牵挂，不是恐惧。
+ch20 the oubliette in waiting.md:35 **为什么这样写**：两个 what if 是本章的情感引擎：她在、她得喂；她不在、她得找——「走」的理由在两个假设里都成立；「missed her wedding tea」的告别语是社交辞令的最后一次使用——跨进 Folkehaven 前
+ch20 the oubliette in waiting.md:42 **为什么这样写**：投降的姿势配宣战的台词——「soft surrender」与「storm」在同一行对撞：他给她的选项温柔，给母亲的版本是攻城；「storm into Folkehaven」是 Oren 的人的第一次军事表态：为爱渎神的
+ch20 the oubliette in waiting.md:77 **为什么这样写**：灯笼的比喻把开颅写成工艺——空腔里可以点灯，母亲的进食永远带着装置感；「a moth pinned with nowhere to go」回收蛾子意象（钉蛾镇纸）——她终于站到了标本那一侧；怜悯的「slow wave」
+ch20 the oubliette in waiting.md:84 **为什么这样写**：「wanted parts」的挑拣逻辑把人肉写成了配给制：母亲的心里有一张部位清单；「unearthly grace」的优雅与场的血腥反差成刑场美学；「Mother…I…」的半句求饶是她全章唯一一次对母亲示弱——话没说
+ch20 the oubliette in waiting.md:119 **为什么这样写**：白猫的哈气与蜷进同一分钟内完成——警惕与依赖并存，是 Rue 此刻唯一能维持的关系模板；Hope 的「grin a slash」接住本章的笑（鬼群的笑、母亲的笑）——连最熟的鬼都在咧嘴：她的世界笑成了一片。
+ch21 the rats go to war.md:10 - **情感弧线位置**：Oren 正式住进她的心（与母亲同室但不打架）；母亲用「回来即宽恕」锁死她的归途；鼠群出兵把本书的恐怖第一次送到宅外。
+ch21 the rats go to war.md:12 - **人物弧线**：Rue 第一次说出「fucking you」的自责；Oren 学会揽罪；母亲的宽恕条款（Always）与认罪（not sorry）同时完成；Rue 对鼠群直奔 Ladies 无一句劝阻。
+ch21 the rats go to war.md:63 **为什么这样写**：吻的战场化（牙碰、舌饿）与自然的反对票（鸥、雷）同框——他们的吻自带天气反对派，而「mine」的收尾把所有权第一次从母亲那里挪到了 Oren 名下。
+ch21 the rats go to war.md:71 **读者视角提示**：把「heavy but does not hurt」与「aching hollowness」（ch02/ch04）对照——空的疼被重的暖换掉了。她的心脏第一次有了两种重量的居住。
+ch21 the rats go to war.md:82 **中文理解**：母亲头顶的土不整齐，草草拢起，像是在慌乱中匆匆堆的。她在等我吗？看我敢不敢顶着她的怒火来讨宽恕。我把手悬在土堆上方，试试能不能感觉到她。回应我的是一种空洞——一种我从未遇到过的、赤裸裸的缺席。我知道她躺在下面，可那里只有害
+ch21 the rats go to war.md:84 **为什么这样写**：草草的土丘与母亲讲究的餐桌对照：她连自己的埋葬都不体面——愤怒会打乱一切仪式；「A hollowness answers」是本章最奇的一笔：她伸手感应母亲，得到的是「缺席」——不是没在，是感应不到：隔着一层土，母女的连
+ch21 the rats go to war.md:91 **为什么这样写**：宽恕条款终于拿到书面：Always 的有效期绑定一个条件（回来）——爱与赦免打包成同一份返程票；「bones creaking」的拥抱是第一次母亲主动张开手臂——ch16 的错觉（要抱我）此刻兑现，代价是先吃了个女仆。
+ch21 the rats go to war.md:106 **读者视角提示**：注意「I did not wish to know」——她第二次拒绝知情（第一次是 ch07 的罪名）。她的知情权已经学会按需关闭。
+ch22 how you wear her well.md:10 - **情感弧线位置**：供货枯竭的清算夜：Ladies 从雇主变成菜谱；Rue 第一次嫉妒垂死者（母亲的膝枕）——她已经饥渴到向将死之人讨温柔。
+ch22 how you wear her well.md:36 **读者视角提示**：注意这是母亲第一次把「饿死」说成可能的结局——她的信心不在自己不死，在女儿不放手。押注押在她身上。
+ch22 how you wear her well.md:42 **为什么这样写**：这段内白把「不会让她饿死」的三重理由排开：担子重、想换爹妈、但绳解不开——她终于承认捆绑的不可逆（ch05 的 bloody cords 至今有效）；「someone else's daughter」的愿望是全书第一次
+ch22 how you wear her well.md:50 **读者视角提示**：记住「我提前点的火」——这宅子的烛火自 Veronica 死后第一次亮，是她为仇客点的。礼数与恨共用一双手。
+ch22 how you wear her well.md:56 **为什么这样写**：物种鉴定书第一次给三方分类：母亲=饿、Ladies=贪+无聊、她自己=？（类比排序留白——「as I am」把她放进同一栏）；「righteous glee」的供品心态是最毒的一笔：她们当年递人时觉得是正义。
+ch22 how you wear her well.md:70 **为什么这样写**：扣炉火的吝啬是她第一次主动行使待客权：给不了的温柔，就扣掉暖——微权力是她唯一能支配的报复；「hope the Ladies feel it too」把灰尘当成暗器——她的恨已经细到颗粒。
+ch23 gloves of the white cat.md:10 - **情感弧线位置**：幸福残光熄灭章：ch18 的吻还没凉，手套的真相就把它烧成灰；她第一次直接喊「Please help me」——求救是全书最大的位移。
+ch23 gloves of the white cat.md:12 - **人物弧线**：母亲亲手制礼（hers and hers alone）——她的爱第一次带体温也带皮毛；Rue 的井彻底见底；Oren 的摇头宣告他清楚这段关系没有「将来」可许。
+ch23 gloves of the white cat.md:19 **中文理解**：没有我出生的记录，生日落在哪一天全随母亲的心意。但总是在秋天。如果她选那个季节是因为它亲近死亡与凋零、亲近慢性的腐与终结——又或者我真的是在一个多变的天空下被强行塞进这个世界的——我永远不会知道。我也永远不会问。只有在那时
+ch23 gloves of the white cat.md:35 **为什么这样写**：母亲的诗意（沙漏藏时间）第一次让女儿感到陌生——她见过母亲的所有形态，唯独没见过「坦白的母亲」；「Not like this.」的重复拒绝是恐惧的措辞：失控的母亲比愤怒的母亲更可怕。
+ch23 gloves of the white cat.md:42 **为什么这样写**：礼物的「无中间商」是本章最冷的信息：Veronica 死后，母亲的爱第一次没有代理——亲手做的，原料也是亲手弄的；「It does not matter」的放弃追问是她学会的自我保护：知道来源只会更糟。
+ch23 gloves of the white cat.md:54 **中文理解**：母亲笑得很开，唇是她脸上唯一动着的部位。「料子刚够做一双，」她说，伸手抚过那片完美的白。「当然，再没有剩的了。能用的料本来就没多少——不过很快又会有新的鼠了，对吧？现在安全了，它们会回来的。」
+ch23 gloves of the white cat.md:64 **读者视角提示**：把白猫之死与 ch20 的白猫哈气并排——它最后一次出场是本能地怕她。猫的直觉比她的心快。
+ch23 gloves of the white cat.md:98 **为什么这样写**：手套落地与求救同拍——她连凶器都拿不稳了：这是全书第一次「主动放下」；「Please help me」四个词是她的语言里程碑：从「I wish to be forgotten」到「请救我」，愿望的方向整个掉了个头。
+ch23 gloves of the white cat.md:99 **读者视角提示**：把「Please help me」与「I wish to be forgotten」对读——同一个人，两句话，中间隔着白猫的手套。她的求助不是软弱，是她第一次相信自己值得被救。
+ch23 gloves of the white cat.md:112 **为什么这样写**：求爱的措辞开了条件清单（偷来的时间、带着恐怖）——她把最坏的条款先亮出来：这是她第一次谈判时不自贬，只陈述事实；他的回答不接受条款、只接收人：全部的爱对应全部的她。
+ch23 gloves of the white cat.md:119 **为什么这样写**：酒杯边的「fits there, like it belongs」是她第一次体验「归属」这个物理感觉——不在 Folkehaven，在一双手里；Oren 的摇头是本章的裁决：Anne 关于「孩子们一起玩」的设想触碰了不
+ch23 gloves of the white cat.md:149 生日礼物提前到来——白猫的皮做成手套，她戴着它埋了它；井见底之后她第一次喊「救救我」，在 Anne 的怀里听到孕讯，也在 Oren 的摇头里看清：这段爱的字典里，收不进「将来」这个词。
+ch24 the fouled seed.md:57 **为什么这样写**：「sated me quite nicely」的结账措辞把两百年的陪伴折算成一餐——他的谢幕词是收据；「worse places to rest」的自我安慰是她最后一次为这段关系辩护。
+ch24 the fouled seed.md:62 **中文理解**：Piceus 摸我的脸，指甲留下疼。「我也是，我的小勿忘我。」……他背转身去——一段从未存在过的距离在我们之间落定。他要丢下我——那时我就知道了。他动得快，我动得同样快。……我在回廊里追他，影子仿佛从宅子的角落里塌下来挡我
+ch24 the fouled seed.md:64 **为什么这样写**：「forget-me-not」（勿忘我）的昵称是全书最毒的温柔：他要被记住，却不打算记得她；「a distance that never was」的悖论写出了抛弃的诡异：他与她从未有过距离，此刻距离凭空落成。
+ch24 the fouled seed.md:86 **读者视角提示**：注意这是她第二次求「别抛下」（第一次在 ch19 坟中）——两次求留的对象不同，被弃的结局相同。
+ch25 scraps and suffering.md:35 **为什么这样写**：拖尸的后勤叙事第一次由 Rue 主刀——Veronica 的岗位彻底空缺；鬼的「沉默」与早期 scream 形成对照：Ladies 的鬼是自愿的旁观者，连闹都不闹。
+ch25 scraps and suffering.md:70 **为什么这样写**：拔发的疼与问孕的话同框——她的刑讯手法（痛觉辅助审问）从未更新；「I never told you」的辩解暴露情报来源：母亲的鼻子（ch18 靠气味推断孕讯）已经把家里的信息网全部接管。
+ch25 scraps and suffering.md:75 **中文理解**：「她跟她丈夫睡，不是吗？」母亲倾身向前，双臂撑地，指甲抓挠着，像虫。「孩子自然要来。会是春天吗？像刚生的羊羔？」 ……「我出生时像刚生的羊羔吗？」我岔开话题，踏进月光里——好像那样就安全了。影子闪动、呻吟，看着。永远看着。
+ch25 scraps and suffering.md:84 **为什么这样写**：母亲的忏悔独白是全书给她的唯一一份自传：自我认知（tear into/ravage）与对女儿的认定（rare light）放在同一段——她知道自己毁了一切，唯独女儿是例外；「drag me into hell」的地狱自
+ch25 scraps and suffering.md:85 **读者视角提示**：把「不灼人只暖人的光」与 Rue 对 Oren 的「taste of sunlight」对照——母女认出了同一种光源。这是她们唯一的共识，也是悲剧的坐标：她们爱的东西一样，只是谁都不能放手。
+ch25 scraps and suffering.md:91 **为什么这样写**：卖身千次的报价单是她的爱的新币种：身体本来就是母亲的产业，如今她把它当成货币花——为了保护别人的身体；「As I once did before」的失业复职申请说明诱捕这门手艺她从未真正退休。
+ch25 scraps and suffering.md:105 **为什么这样写**：「完完整整的我」与「只剩碎屑」的清点战是母女的资产审计：同一颗心，两本账；她的泪「not bloodied」第一次区别于母亲的黑泪——她哭的是人水，母亲流的是墨。
+ch26 with you.md:22 **读者视角提示**：注意这一章的祈使句密度——后面她喊 Damn you、喊 Where do I go：全章都是祈使与祷词。她最后一次用「求」这个动词的世界。
+ch26 with you.md:35 **为什么这样写**：心链的物理化（绷紧、震响、在空洞里回荡）是本书关系力学最后一测：Oren 填的空洞在疼——他出事的信号由她的身体先报警；「before the ending」的预告语气是叙述者第一次主动剧透结局。
+ch26 with you.md:54 **中文理解**：Oren 的嘴撑开，牙齿带血。他眼里的柔软、温和，没了。那里只剩下饿。黑色聚在他嘴角——墨一样黑、又厚又油——抹在唇上、淌过下巴、滴进脖颈的空腔。我在他身上闻到我母亲——她那不洁的血混着他自己的甜。我从未见过她把自己的一部
+ch26 with you.md:98 **为什么这样写**：日出写成审判庭的入场——神的指尖与 Oren 的残骸同框：阳光是本书里唯一不接受贿赂的角色；「first sunrise = last」的等式把他们的时间账本合上：偷来的时辰（ch25）终于用完。
+ch27 her heart beats for me.md:9 - **一句话概括**：Oren 只剩骨灰——她回家钻进母亲怀里，被许诺一个地下余生；她亲手从母亲胸口掏出那颗为她跳的心，问了最后一次「你爱我吗」——母亲到死没有回答。
+ch27 her heart beats for me.md:28 **为什么这样写**：「宽恕的脸」比怒脸更难面对——Anne 的善良成了她无法递交死讯的原因；「It is mine」的占有宣言第一次用在悲伤上：她终于有一件完全属于自己的东西——失去。
+ch27 her heart beats for me.md:49 **为什么这样写**：母亲的「我不会别的」与 Rue 的「你本可以」是全书最关键的两句对话：天赋论与可能论的正面交锋——母亲把恶归为天性，女儿指出那从来是选择；「show me」是母亲第一次低头求学：她向女儿学爱。
+ch27 her heart beats for me.md:70 **为什么这样写**：书名第二次出土：第一次（ch20）她想埋母亲，这一次她看见自己的墓——oubliette 的双重身份（囚牢/遗忘之地）在这句合龙：她既是狱卒又是囚徒。
+ch27 her heart beats for me.md:75 **中文理解**：于是我探手下去——探进母亲胸口那道缝合过的腔，穿过仍旧薄薄的皮。手指轻易就进去了——皮肤撕裂，像纸一样破。她的骨头又冷又滑，肋骨在我按下去的时候轻轻松开。我握住她的心——与那些碎裂的骨头不同，它是暖的。暖在我指尖绽开；我第
+ch27 her heart beats for me.md:77 **为什么这样写**：心脏的暖与骨头的冷是本章的体温总决算：她的爱藏在唯一有温度的器官里——「beats for me」的心跳归属（ch08 母亲枕过的那颗）在此完成物权转移；「quick and fearful」的心跳拟人是全书给「母亲的
+ch27 her heart beats for me.md:84 **为什么这样写**：「没有不带恐惧与疼的爱」是对母亲哲学（no love without ruination）的半步改写：她没有否认爱会疼——她否认的是「所以要先毁」；互相取血的对称句（while I take hers）把弑母写成了最后
+ch27 her heart beats for me.md:121 Oren 成了灰，母亲的条款成了地牢的判决——她伸手进那具枯尸的胸口，第一次捧到为她跳的、又快又怕的爱，把它连根拉出来；「你爱我吗」到死没有回答，她脸上多了一道永远不褪的疤。
+ch28 two graves.md:9 - **一句话概括**：九月，两座坟——母亲的被铁笼与木桩钉死，Oren 的不设防；她在坟上听母亲的歌、被 Anne 从湿泥里扶起，第一次允许自己被领离 Folkehaven。
+ch28 two graves.md:10 - **情感弧线位置**：主线的收束章：埋葬、渎神、追忆、告别四拍走完；「allow her to lead me away」是全书第一次真正的离开——由别人领着走。
+ch28 two graves.md:19 **中文理解**：两座坟，罩在浓雾里——垂泣的柳树守在边上，是它们唯一的同伴。两座坟，只有一座被关在笼里：铁栏围着，仿佛底下不安眠的骸骨会爬起来。它们当然不会——哪怕母亲想。钉住她肋骨、把她钉进土里的木桩，终结了这一切。
+ch28 two graves.md:42 **为什么这样写**：摇篮曲的追忆把母亲的暴力翻成听觉遗物：每个词一道浅割——连儿歌都是刀具；「desperately human」的自问是她对自己最宽容的一次：渴望母亲的拥抱不是病，是人——全书对「想要妈妈」的最后一次辩护。
+ch28 two graves.md:43 **读者视角提示**：把「每个词一道浅割」与「半支摇篮曲」（ch14 地窖 lullaby 的老鼠布道）连线：同一支曲子，两次出现，都装着杀意。Rue 的童年配乐从来没有干净过。
+ch28 two graves.md:84 **为什么这样写**：小镇的溃烂是鼠群战役的战后地图—— charm 被剥掉与 ch21 鼠群「away」的方向吻合；口疮与淤青的伤情分类是全书的最后一次医学命名：淤青会退，口疮在黏膜里反复——她的伤属于后者。
+ch28 two graves.md:121 铁笼与木桩钉住母亲，Oren 的坟不设防——她在坟上听完摇篮曲、被 Anne 扶起，承认家里满是回声却允许自己被领走：口疮不会结疤，但这一步，是她全书第一次真正走出那扇门。
+ch29 as it should be.md:13 - **叙事手法**：崩塌—归来—收割—披袍四段收束；白猫的「 scarlet 」颜色闭环（白毛第一次自己染色）；终句五连并列与「As it should be」的全书收束。
+ch29 as it should be.md:19 **中文理解**：Folkehaven 被留给崩塌；我阻止不了——也不想。碎块从地基滑进黑水。屋顶塌了，玻璃迸碎，风暴灌进来。屋下的 hollow 最先被淹——浅坟被泥与雨水填满，直到里面什么都不剩。仿佛它从未存在过。
+ch29 as it should be.md:21 **为什么这样写**：崩塌的顺序有讲究：hollow（母亲的卧床）最先淹——那个生过她、困过她、饿着她的洞第一个被水收回；「As if it was never there」抹除的不只是坟，是她在那个家存在过的证据链。
+ch29 as it should be.md:36 **读者视角提示**：把「almost peace」记成本书恐惧系统的最后一次降调：从尖叫（ch01）到沉默（ch20）再到安宁（本章），Folkehaven 的音量曲线完成了它的全部下行。
+ch29 as it should be.md:79 她不再阻止崩塌，白猫叼着老鼠回到她脚边——真相无关紧要；镰刀在月光里出鞘，她与猫并肩离开那座「仿佛从未存在」的房子：死亡落在身上像一件暖衣——被渴望、被欢迎、被惧怕、被爱、被鄙夷——理应如此。
+
+=== ③年龄数字：160 行 ===
+00_情感节点.md:8 > 10 个全书情感转折节点。每节点附叙事概括与关键引语（逐字）。
+00_概述.md:10 **一八二一年三月的 Folkehaven Manor，先给一个替母亲狩猎的女儿。** 开篇两句定下全书的体温：房子在腐烂，而她的母亲——那个住在地下、以人为食的存在——永远不会。女儿 Rue 的日常有三样东西：伺候、狩猎、被灌输的世界观。
+00_概述.md:18 **1822 年 4 月，两条线在一场葬礼上相遇。** Rue 在书店邂逅了 Oren Pengelly——他的姐姐 Anne 被母亲从一场恶婚里「救」了出来，代价是那个男人被吃掉。Oren 知情、克制、以「我姐姐很幸福」关闭了所有问题：「
+00_金句精选.md:44 **呼应**：与 ch25「I will whore myself out a thousand times」是同一句在两个时态里的报价；ch07「There is no love without ruination.」是母亲的会计版本。
+00_金句精选.md:56 **呼应**：与 ch07「Such a paltry crime.」同为餐桌上的死亡清点；ch19 的「Thank you, Mother.」是它两百年后的家族回声。
+00_金句精选.md:68 **呼应**：与 ch09 的「Save for hunger」、ch17 的「I have had enough!」连成母亲欲望的三次收据；烂苹果的黑心与甜是 Veronica 的味觉自画像。
+00_金句精选.md:236 **呼应**：与 ch28「I have nowhere left」、ch29 的「As it should be.」连成愿望的三次改写：被忘→无处→认命。
+00_金句精选.md:248 **呼应**：与 ch18「If love is a ruination, then may God damn me.」是同一份赌约的两次加注；ch04 母亲的「for I am eternal」在此被凡人的誓言对冲。
+00_金句精选.md:282 **为什么重要**：渎神保票第二次押上——他两次赌上灵魂，只为把「爱不脏」说成硬承诺。
+ch01 terror or ash.md:21 **为什么这样写**：黑暗拿到的两个头衔是「受欢迎的客人」和「占屋者」——squatter 是赖着不走还占了主权的人，等于说这座房子的真正居民是黑暗本身；「fingerprint, a battle lost」把一段暴力史直接砌进墙体，砖石
+ch01 terror or ash.md:28 **为什么这样写**：三个短句把房间写成常年陈设的刑具现场；「they are all silent」一个复数悄然暴露鬼不止一个——这个家里亡者是成批的；声音层只留一项：绳套吱呀，静到极点反而在强调「她一直在那儿」——摇晃的是尸体，出声的是
+ch01 terror or ash.md:36 **读者视角提示**：说话者在引语里始终无名——她是谁、是活人还是别的什么，本章不解释。记住三件套：旧肉味、刮步声、无倒影；「divine」「porcelain doll」这类夸赞在这个家里是危险词汇，被夸意味着被用。
+ch01 terror or ash.md:49 **为什么这样写**：三个回合全在一条裙子的处置权上过招：她用「烧」一锤定音地宣判，叙述者用所有权反制——「favorite of mine」在这个一无所有的家里是极少的、被允许的意志；Veronica 俯身时「matted hair sl
+ch01 terror or ash.md:77 **为什么这样写**：威胁的顺序是先生理后告密——「扯出喉咙里的幻想」是把念头当实体拔除，而真正的底线画在「别让你母亲听见」：在母亲面前，Veronica 是执法者，替她过滤一切越界的词；「We are terror, or we are 
+ch01 terror or ash.md:84 **为什么这样写**：提问不是为了得到答案，而是为了验收背诵——先甩出五个并列形容词当草稿（那是心里真实的答案），落到纸面的却是复述的标准答案；「Hopeless, loveless, empty, damned, doomed」五个词都以
+ch01 terror or ash.md:85 **读者视角提示**：「I echo her」是本章最冷的一笔：区分「心里那五个词」与「嘴上那句标准答案」，就掌握了 Rue 的基本生存术——内真外假。带着这个双声道去读她此后每一句顺从的话。
+ch02 horewith unraveled.md:35 **为什么这样写**：笑、酒杯、红液三件事按因果链推进——「too dark and thick to be wine」不给答案只给排除项，让读者自己在「酒」与「血」之间落位；最后一句把活人的笑声与亡者的尖叫混轨（sounds the sa
+ch02 horewith unraveled.md:42 **为什么这样写**：先拆穿仪式（不需要）再解释仪式（规矩）：猎杀在他进门时就已完成，Rue 的席位只是流程的展演——这一句把「诱饵」的屈辱升格为「司仪」的制度身份；两个短句「I feed my mother. I will always 
+ch02 horewith unraveled.md:110 **中文理解**：母亲的骨头扭曲作响，脆得近乎易碎。她那出了名的美貌不见了，随着退去的夜色被冲刷干净。她那几小时前还如波浪般垂肩的黑发，此刻稀薄了，一缕缕从头皮剥落的伤口里掉下来。她在腐烂——但只要睡下，她就会焕然一新。
+ch02 horewith unraveled.md:119 **为什么这样写**：拒绝在生理层面就已失败（窒息却无法说不），依赖先于意愿成立；「eyes gone, flesh falling away」面前的怪物与「母亲」这个称谓同位，恐怖与亲情共用一张脸；结尾的假想句连用三个 if，把「留在坟里
+ch02 horewith unraveled.md:120 **读者视角提示**：注意她幻想的不是逃离而是「一起被埋」——此刻的 Rue 把「被爱」与「被吞噬」当成同一件事。她什么时候能把这两件事拆开，全书就什么时候见分晓。
+ch03 burning the green dress.md:28 **为什么这样写**：两个问题都问「身体接触」而不是「她说了什么」——Veronica 饿的不是母亲的言语，是母亲的触碰；「barely scabbed over, some she has already picked at」自伤的痂都等
+ch04 the red ink letter.md:63 **为什么这样写**：谎的后半段全是颜色（蓝裙、绿草、黄水仙）——她给母亲喂的是一幅色卡，因为她知道母亲要的不是事实而是「春天」；三个「and then」连缀是谎话的换挡声：细节耗尽后用重复撑住节奏，也是她内心对这场表演的敷衍度的自白。「T
+ch04 the red ink letter.md:98 **为什么这样写**：两个鬼互相「攀比惨状」的场面用隔壁住户吵架的语气处理——Rue 的训斥（比惨、挪眼、闭嘴）把超自然写成邻里纠纷，日常化的口吻反衬她与死亡同居的深度；「jaw to dangle」的物理细节不给同情，只给音量描述——她对
+ch04 the red ink letter.md:113 **读者视角提示**：这封信是理解母亲的钥匙文件：记住三个词——famine（她先挨过饿）、looked upon（她要被看见）、wanted（她能给的上限）。往后她的每个行为都在这三格坐标里。
+ch05 a kiss without teeth.md:28 **为什么这样写**：试死的结果清单按「事后账目」列：淤痕（证据）、幽灵退场（观众不满）、水温下降（时间流逝）——连求死失败都被她过成了流水账；「angry or disappointed」的分辨失败说明她对亡者的情绪光谱只有两档：恨她或弃
+ch05 a kiss without teeth.md:35 **为什么这样写**：Veronica 拆穿的不是「有无辜者死了」，而是 Rue 的「选择性失明」——她给自己讲了一个「母亲只吃坏人」的故事，Veronica 用鬼名录当证据逐条驳回；「tight nooses and lake-drown
+ch05 a kiss without teeth.md:40 **中文理解**：「别假装你在乎那些喂给你母亲的人命，」Veronica 松开我的手臂，厉声说。我忍住扇她的冲动。「是母亲的那些夫人把他们送到她嘴边的。手脚不干净的小帮厨，嘴上不留门的风尘女，一两个忤逆的女儿。不常有——如果这能让你好受点的
+ch05 a kiss without teeth.md:92 **读者视角提示**：记住他的登场三件套：蓝眼睛、黑衣、牛肉梗。这个人用幽默做盾牌，读者要用它挡掉「他可能是另一个猎物」的第一猜想，但不能丢下第二猜想。
+ch05 a kiss without teeth.md:96 **中文理解**：「我陪 Horewith 勋爵去你母亲的宴席的。可惜我自己的母亲病了没法出席。我是替我姐姐 Anne 去的。」……我的脚步乱了，踩上他的脚尖，差点把两个人都绊倒。「你姐姐本来要嫁给 Horewith？」……「是的。」他把我
+ch05 a kiss without teeth.md:105 **为什么这样写**：问题（他怎么了）与回答（姐姐很幸福）之间的错位全靠身体完成——僵硬、收紧、扣胯三连是愤怒的物理学，嘴上却只交出克制的四个词；「That is all I care to know」是知情人的自我封口：他知道凶手是谁、坐
+ch05 a kiss without teeth.md:117 **中文理解**：一支舞，只有有限的几步与几次心跳，却像我们早已跳过——一百次，一千次，数不清的步数与心跳。天哪，我真是蠢货——只要他开口，我会把自己的心挖出来给他。
+ch05 a kiss without teeth.md:149 她数到五十二秒承认了「不想死」，又在舞会上数出「千次心跳」——Oren Pengelly 的吻是这个世界第一件「没有牙齿」的东西，而她第一反应仍是：藏起来，别弄脏。
+ch06 sylvatica and piceus.md:9 - **一句话概括**：1523 年冬，一个出生即被判死刑的女婴活了下来——长在一个嫌她存在的农庄，直到一个眼睛像两轮满月的马厩男孩教她：饥饿可以被别的形状填满。
+ch06 sylvatica and piceus.md:21 **为什么这样写**：求婚子的祷告与杀婴的命令出自同一副膝盖——祈祷的虔诚与弃婴的利落放在同一段，信仰只是手段不是道德；「dispose of it, smother it, toss it from the window」三个动词短语逐级
+ch06 sylvatica and piceus.md:35 **为什么这样写**：双胞胎的出生被写成一场暴力运输（heaved another life into being）——生产与杀婴的戏码在同一张产床上连演；「if they were ones of sympathy…she never d
+ch06 sylvatica and piceus.md:42 **为什么这样写**：姐弟待遇在两个动词里定档：弟弟被「hauled to her breast」（拽向乳房），她被「swatted」（拍苍蝇）；「parasite」是母亲给女儿的物种分类——她自己的骨肉是寄生物，而春猪是「上帝的仁慈」；「
+ch06 sylvatica and piceus.md:56 **为什么这样写**：命名礼上母亲的目光分配（弟弟一次、她零次）用「spared no other glances」的账房句式结算——连瞥一眼都是恩惠，而恩惠没有拨给她；两个名字的注脚对比：「the blessed son」对「the st
+ch06 sylvatica and piceus.md:63 **为什么这样写**：童年被写成被啃食的过程（taking pieces of all of us）——时间、父亲、饥饿三样东西都在咬这个家；「brittle summers」的脆与「lingering winters」的粘把季节写成了两种
+ch06 sylvatica and piceus.md:71 **读者视角提示**：把「逃离农场」当成她与主线 Rue 的共同起点：两个女孩都说要走，一个走进了 Folkehaven 的地窖，一个走进了马厩男孩的 hollow。
+ch06 sylvatica and piceus.md:105 **为什么这样写**：死鹿的三个细节（白眼、露骨、断腿）按暴力程度递进陈列，却没有血——Piceus 的猎杀干净得不像狗干的；「torn clean off」的「clean」是关键形容词：撕得干净=力量精确=这不是兽性失控，是按流程办事；鹿
+ch07 ouroboros.md:10 - **情感弧线位置**：主线重启（1822 年 3 月）：Rue 在餐桌与茶桌之间两线作战——对母亲交代心动，对 Oren 试探真心；「衔尾蛇」演说把母女关系钉成无尽循环。
+ch07 ouroboros.md:36 **读者视角提示**：「knacker」+「ember」两个词是 Rue 的自我认知档案。往后每当地她质疑自己的时候，都在检查这粒余烬还亮不亮。
+ch07 ouroboros.md:49 **为什么这样写**：Rue 的自悼（我的坟）换来的是母亲的炫耀（我禁止过死亡）——两句话根本不在同一个宇宙对话：她要的是活着的可能，母亲给的是不死的许可；「forbidden it」三个词暴露母亲权力的天花板到底在哪：她连死亡都能管——也
+ch07 ouroboros.md:105 **为什么这样写**：两个「知情人」隔着三明治互掷事实——Rue 报行刑时长（hours），Oren 只还一个「Good」；「I peel the meat from between the bread, and savor it」的动作同
+ch07 ouroboros.md:112 **为什么这样写**：茶渍弄脏洁白桌布的瞬间是这场茶会的定格照：两个「不干净」的人试图在一张干净桌布上对话——先弄脏，再交谈，秩序是这样建立的；「You concluded that after one dance?」的质疑与她内心「ech
+ch07 ouroboros.md:149 餐桌与茶桌隔着一条街互为镜像：母亲批准她尝幸福、禁止她离开，宣布衔尾蛇的无尽；Oren 用一块牛肉把她请进第一间没有鬼的房子——两个知情人交换证据，用同一句「Good」给死亡签收。
+ch08 you taste like me.md:13 - **叙事手法**：地下—楼梯—花园的垂直巡游；「挖坟」的日常化处理；黑泪（thick and oily）与白猫的颜色对位；两场「谢谢」的对话互为镜像（Anne 谢杀、母亲谢喂）。
+ch08 you taste like me.md:40 **中文理解**：「淑媛们来的时候，天也会这么亮吗？」她躺在坟里问，安然又平静。「据说还有两个星期，她们就会降临。有头衔、有钱的夫人们，来跟怪物们共餐。你觉得她们跟我们一样兴奋吗？」
+ch08 you taste like me.md:85 **读者视角提示**：记住这只白猫的三件套：白毛、黄眼、拒摸。尾声里它带着一只黑鼠回来——届时请回翻这一段对答案。
+ch09 the ladies banquet.md:9 - **一句话概括**：十一位贵妇前来「与怪物共餐」：母亲祝酒开席、捏碎失言者的手腕、宣布仆人条款——Rue 在满桌血色里把自己灌到失去羞耻，最后与一只白猫在黑暗里缔约。
+ch09 the ladies banquet.md:26 **中文理解**：陪席的是来自外地、社会上最负盛名的十一位贵妇，财富尽数展示。我不认识她们，但她们隔着长鼻子、撇着弯弯的嘴角朝我微笑。她们早已像母亲常宴请的那些夫人一样，把耳语送进阴影、送进黑暗。关于奸夫、赌徒和蠢货的耳语，我母亲听得流了口
+ch09 the ladies banquet.md:61 **中文理解**：我给自己再倒一杯酒，用酒精把这场戏码隔在外面。……「我免去你们所有的不便，」母亲对满屋死寂开口。「我可以放出我的鼠群——长癣的、黑的——把你们一个不剩。」……「那我们求您开恩，」一位灰发稀疏的妇人先开了口。她喉间一颗钻石，
+ch09 the ladies banquet.md:112 **为什么这样写**：「the only living thing here save for myself」是全章最孤单的一句清点——Folkehaven 的活物名单只有两个名字：她和猫；「to see if I can sense a 
+ch10 the circle of dead black.md:9 - **一句话概括**：1545 年的饥冬：Godfrey 被逼在坟头撒尿换来一圈坠死的乌鸦；全家饿成空洞，Piceus 在门影里讨骨头、伸出手——并留下一句「暂时的」。
+ch10 the circle of dead black.md:13 - **叙事手法**：雨—坟—乌鸦—冬荒—马厩五场推进；「笑三连」（We laugh and we laugh and we laugh）作为本章情绪终点；敏感场景以句界收束、点到即止；「for now」的悬置语法。
+ch10 the circle of dead black.md:49 **为什么这样写**：乌鸦坠亡的展示按「眼睛先没」的顺序陈列——与母亲的食单（眼睛留到最后）相反，Piceus 的成品是空眼死鸟：两个非人存在的猎杀签名不同；「a circle of dead black」围住三个人——这是一次势力范围的丈
+ch10 the circle of dead black.md:71 **读者视角提示**：记住 Joan 的「trapped」——她与 Sylvatica 的差别只在谁欠得更多。六百年后（主线）Veronica 的自残奉献，是这种「被困」的升级版。
+ch10 the circle of dead black.md:77 **为什么这样写**：Joan 的命令（抓鸡喂人别喂贼）与母亲的姿态（手伸向门）构成这个家的两个活死人：一个躺着等人喂，一个伸手向虚空的丈夫；父亲的花销清单（财路、租税、贿赂、妓院）一笔比一笔更下流——家的破产是他在外面一手一手花的；母亲伸
+ch10 the circle of dead black.md:84 **为什么这样写**：人与鸡在骨头的脆度上完成同化（brittle as my own）——饥荒把两个物种拉到同一根骨密度线上；「a quick death」与「such mercy」的对照是她的死亡观：快死是恩典，而她预感自己（和家人）不
+ch11 a kiss like sunlight.md:13 - **叙事手法**：血指甲—书房—吻—中止—独白—拥抱—邀约七段递进；敏感接触以句界与转场收束；「笑声回声」作为身份恐惧的听觉化；结尾的泪被两个缺席者共同报销。
+ch11 a kiss like sunlight.md:28 **为什么这样写**：书房的清点顺序是反向的：先夸书干净，再承认自己脏——她把「被污染」的主体从物换成了人；「globes」（地球仪）是本章最温柔的道具：一个能看遍世界却哪儿也去不了的圆，正对着她的处境；月光替代蜡烛（Folkehaven 
+ch11 a kiss like sunlight.md:40 **中文理解**：他任由安静再拉长一些。「一两杯吧——不过我猜，没有你自己喝的多。」他的声音里没有讥讽，也没有怜悯。这听起来很奇怪。……「你觉得我醉了？」……Oren 靠近，目光落在我戴手套的手上，仿佛能透过丝绸看到底下的废墟。「我觉得你没
+ch11 a kiss like sunlight.md:64 **读者视角提示**：把「阳光味」记成 Oren 的味觉签名——与母亲的 blood/ice、Piceus 的 cinder/oak 并列。三种味道，三个物种。
+ch11 a kiss like sunlight.md:105 **为什么这样写**：邀约的路径设计得很细：他先解决称呼（从 Miss Meremoth 到 Rue—— hesitates 一拍是给她留否决的时间），再解决地点（后排——离驱逐最远的位置），最后解决神学（光池——不通过神父也不通过上帝，直
+ch11 a kiss like sunlight.md:119 **为什么这样写**：结尾把哭的痕迹交由两个缺席者报销——一个不问、一个不看：她的家里没有眼泪的报销科目；「as if they never fell at all」的收束语气平静得像账本结平：她接受了「不被见证」是常态，唯独今晚书架前有人
+ch12 the refuse him vow.md:57 **读者视角提示**：记住「正午、沙丘、母亲熟睡」三件套——这个时间表后文会被打破或兑现，无论哪种都是大情节。
+ch12 the refuse him vow.md:75 **中文理解**：「我这辈子没交过朋友，Oren；一下有两个，感觉像暴食。」雨下得更重，寒意开始渗过衣服、钻进骨头。这寒意很熟悉——提醒我该回家了。……「我从没想过会有人接受我本来的样子……接受我这个东西——为这个，我感激不尽。」
+ch12 the refuse him vow.md:77 **为什么这样写**：她把「两个朋友」算成暴食——贪的语法又一次接管好事：在她的账本里，幸福超过配额就是罪；「a familiar chill」是家的召唤铃：身体一冷，责任上线；「accepts me as I am…for what I 
+ch12 the refuse him vow.md:91 **为什么这样写**：Veronica 的造型是炉灰白的（ashes 糊脸染白发）——她把自己弄成了半个鬼，守在烛边等审；「You dare」的开口被打断是权力交接的完成动作：审讯官换了人；「permission」这个词暴露两人关系的真实框
+ch13 i am full.md:21 **为什么这样写**：两个「fear」的并列猜想是 Rue 对母亲心意的诚实摸底：她连 Veronica 的沉默都读不出主因——这个家的动机学全是猜的；「like a dog left behind」的比喻冷酷又精准，因为它同时说中了两件事
+ch14 a leashed freedom.md:13 - **叙事手法**：餐桌审讯—花园喂鼠—池塘—雾中四场递进；「慈态给鼠不给女」的细节对比；信件第二次插入（丧讯与请柬合体）；结尾的喊名声完成从寂静到召回的闭环。
+ch14 a leashed freedom.md:28 **为什么这样写**：死因的记账只有六个词（bored. And hungry.）——动机的便宜比手法更吓人：一条命抵两个形容词；「sits at the table, she also stands nearby」的鬼尸同框是这个家的标准
+ch14 a leashed freedom.md:54 **中文理解**：她的脖子拧过来，骨头咯咯作响，正对着我。手还埋在鼠群里。「那你呢，我的孩子？你也一样被诱惑走了吗？」……我没法对她撒谎；她尝得出谎的味道。「这就是你要我过的日子吗？黑暗与饥饿、暗影里一百双眼睛、漂亮的裙子、染血的手套？如果
+ch14 a leashed freedom.md:57 **读者视角提示**：把这份申请记入档案——母亲的处理意见在两块之后。注意她问的是「你会给什么」而不是「我能不能走」：她还在讨价，不是宣战。
+ch14 a leashed freedom.md:78 **读者视角提示**：把「拴绳的自由」与 ch04「幸福可以、离开不行」的条款对齐：半年过去，合同的措辞变了，条款没变。往后 Rue 每次离家都跑在这根绳的长度里。
+ch14 a leashed freedom.md:91 **为什么这样写**：Veronica 的站位（悬而不坐）比她的话更响：这个家只允许一个人坐进 Rue 的领地；「pieces of maid」的对答把死亡当家务交接——两个「女儿候选人」的对话全程用尸体当标点。
+ch15 the eye in the black box.md:10 - **情感弧线位置**：葬礼把两个母亲的死并排摆放：Anne 的冷母（生前不肯爱）与 Oren 的病母（爱得笨拙）——Rue 在两场丧礼之间完成了自己的哀悼预习。
+ch15 the eye in the black box.md:13 - **叙事手法**：乌鸦—闺房—墓园三场递进；安慰课的对白是全书少有的「暖文本」；黑盒的静物描写以眼球的残蓝收束；「看/不看」的暗线贯穿（Ladies watching me / do not let the young lord see
+ch15 the eye in the black box.md:33 **中文理解**：我推开他们两个。「Anne？是我，Rue。你不用出来，但让我进去好吗？」……Anne 的哭声顿了一下，锁芯咔哒一响，门开了一条刚够我看清她的缝——双眼红肿，一片凄惶。……「我能进来吗？」
+ch15 the eye in the black box.md:56 **读者视角提示**：把「swallow my lot」（咽下这一份命）与 Rue 的处境对照：Anne 的母亲教女儿忍，Rue 的母亲教女儿喂——两位母亲的教育目标都是「把女儿消化进自己的体系」。
+ch15 the eye in the black box.md:76 **为什么这样写**：挖坟本能的泛化是本章最反常的细节：她看见新坟就想挖——这不是慈悲，是肌肉记忆：她的双手在 Folkehaven 只干两种活（挖与喂），看见埋着的活物手就先动；Veronica 的同款姿态是镜像确认：两个「挖坟工」站在同
+ch15 the eye in the black box.md:95 **为什么这样写**：效忠宣言（always, forever）当着死者的坟念出——合同自动续期给在世的继承人；「boxes 几乎没有重量」是伏笔的物理学：最重的遗物往往最轻；「do not let the young lord see」把
+ch16 the birth of the eater.md:56 **为什么这样写**：舔血的表演是当着她的面进行的——「with his black eyes on mine」：他要的不是血，是被看见；「deliberate slowness」的速度选择说明这是演出：恶魔的进食自带剧场；她「unable
+ch16 the birth of the eater.md:64 **读者视角提示**：记住「忘却的颜色」——Piceus 卖的东西与母亲要的东西完全相反（母亲要「永远记住你是我的」）。两条引诱线的商品目录在此分家。
+ch16 the birth of the eater.md:78 **读者视角提示**：把「wish she were my mother」与主线 Rue 的处境对照：一个缺母亲的人和一个被错认成女儿的人——两个「女儿」隔着一堵墙互相羡慕。
+ch16 the birth of the eater.md:112 **为什么这样写**：第一口人肉的仪式感拆成三个镜头：咬（jaw/bone）、坠（crack/brain seeping into the roots）、咽（chew and suck it down）——最后的吞咽句独立收尾，冷得像结账：
+ch17 a mirror of madness.md:54 **中文理解**：「你敢？」……「我不会的……」血顺着我的脖子滑下来。……「你撒谎！」……「我对你一向说真话，母亲，一向。我会留在这里——你知道的。我没有别的地方可去。」这时我看见了——挂在她手里，墨迹晕开、漂亮的边被撕了的那张。「那是 A
+ch17 a mirror of madness.md:61 **中文理解**：「你不会出嫁的，」她把字句像毒液一样啐出来。「不是你。」……我把手覆上她的手，我的血的温度正渗过我们两个人的手指。「这是 Anne 的婚礼，」我重复。「不是我的。」
+ch17 a mirror of madness.md:71 **读者视角提示**：记住「vessel of madness, a walking, decaying tomb」这两个备选结局——母亲的衰败路线图从这里开始画，终章会告诉我们她塌到了哪一格。
+ch18 if love is a ruination.md:13 - **叙事手法**：黄裙—粉裙—婚纱三件裙子串场；「I did not ask you」的重复句法；墓碑告白与婚礼誓言的内外互文；「swallow words like viscera」把语言写进食道。
+ch18 if love is a ruination.md:29 **读者视角提示**：本章三件裙子排队入场——黄、粉、白。第一件马上会被揭示上一任主人的名字。
+ch18 if love is a ruination.md:45 **读者视角提示**：把「黄裙=Hope 遗物」记成全书的服装档案第一条——她今天穿着一个死者的裙子去见证另一个女孩的婚礼，三件裙子（Hope 的黄、Veronica 的粉、Anne 的白）在本章排队。
+ch18 if love is a ruination.md:51 **为什么这样写**：三个「before」把誓言分成两批——先给她的（我的到场），再给上帝的（婚礼的誓言）：他的优先级在这个教堂里被重新排座；「aching sincerity」的疼感修饰说明这句话说出口也要付出代价。
+ch18 if love is a ruination.md:58 **为什么这样写**：新郎的祝词是一份带违约条款的合同——Oren 的威胁轻描淡写，条款只有三个词；他的威胁轻，因为他知道有人会替他执行重的那部分。
+ch18 if love is a ruination.md:59 **读者视角提示**：记住「Treat her kindly」的三个词——它同时是祝词、命令与保险单。
+ch18 if love is a ruination.md:75 **读者视角提示**：把「简单的生活就是我要的全部」与 Rue 的愿望清单（ch04 信）并排放——两个女儿要的东西，一个比一个少。
+ch18 if love is a ruination.md:79 **中文理解**：我把她拉进怀里，呼吸着她身上的玫瑰与温热皮肤的气息。我的手臂不假思索地环上她的身体——肌肉记得了。「我随后就来，」我说，两个人都没松开彼此。「让我缓口气、认认方向。这样的场合，我实在不习惯。」
+ch18 if love is a ruination.md:81 **为什么这样写**：「my muscles remembering」是全章最温柔的一句：回抱不是决定，是肌肉记忆——她身体里存着某个更早的、会抱人的自己；「neither of us breaking their hold」的坚持说明这场
+ch18 if love is a ruination.md:88 **为什么这样写**：她的底线清单先于他的要求递出——两轮「You should know that」像合同前置条款：丑话说在爱前面；他的两次「I did not ask you」是同一把钥匙开两把锁：既不接受感恩债务，也不接受离开要求——
+ch18 if love is a ruination.md:89 **读者视角提示**：把「did not ask you」的两次驳回记成 Oren 的谈判风格：他从不接她递来的罪。她的自我惩罚在这个人面前一直无法成交。
+ch18 if love is a ruination.md:107 **中文理解**：「再对我说一遍，」我耳语，不敢看他。我想把这个时刻按住、悬停，用别针像钉蛾子那样钉住它，永远留着。 ……「我爱你。」他的声音低低的、轻轻的，像一桩有罪的供述。「我爱你。」 ……我母亲渴望的是肉与血。可这个……这才是我饿了几
+ch19 she feeds me now.md:11 - **Tropes 兑现/反转**：「恶魔交易」反转——代价不是灵魂是永恒的饿；「弑母」反转成「被母亲喂养」——她吃掉母亲时，母亲的手插在她头发里，完成了六百年前欠下的那个拥抱。
+ch19 she feeds me now.md:42 **为什么这样写**：判决书的三个要点：不要过你（出生撤销）、Godfrey 是独子（你的存在被从族谱上删掉）、滚（驱逐令）——母亲用一句话完成了 ch06 没做完的事：六年前没扔成的婴儿，今天正式退货。
+ch19 she feeds me now.md:47 **中文理解**：他站在我上方，黑斗篷罩着我们两个。他的靴子没有一点泥——没有任何东西能黯淡它们的光。扣环是金的，亮得像镜子。然后他蹲下来，尖利的指甲抠进我的下巴底下。疼痛绽开，他挑开我的皮肉，我倒抽一口气，眼泪都忘了流。……「你走了，」我
+ch19 she feeds me now.md:63 **为什么这样写**：「 ruin」的承诺与 ch18 Oren 的「I never could ruin you」是同一词的两种用法：一个拿它当商品，一个拿它当誓言；「dangling between morality and depra
+ch19 she feeds me now.md:75 **中文理解**：「三天后我会回来，」Piceus 说，仍蹲在我上方，头垂着，像在琢磨自己是不是把我吃够了。「到土底下去找我，Sylvatica。破晓的时候，你就不再受欢迎了。」
+ch19 she feeds me now.md:77 **为什么这样写**：复活的工艺说明书只有三行：时限（三天）、地点（土下）、禁忌（黎明）——这个家的所有规程都爱用倒计时；「not be welcome when dawn breaks」的措辞与出生那夜「不被要」呼应：她的第二次出生，依然
+ch19 she feeds me now.md:78 **读者视角提示**：把「三天」与「黎明」两个参数记下——它们是本书 undead 的出厂设置。主线母亲的每日重整（ch03 rise anew）用的正是这套参数。
+ch19 she feeds me now.md:91 **为什么这样写**：坟与子宫的等式是她一生的地理学总结：1523 年她被赶出第一个家（子宫），1545 年她爬回第二个（坟）——中间隔着的农场从来不是家；「hear Mother's heartbeat」在土里听见的还是母亲——她连重生都
+ch19 she feeds me now.md:98 **为什么这样写**：用指骨敲门的动作是本章最冷静的恐怖：敲门的手已经没有肉了；「death is not here, not fully, not yet」的三个否定层是全章最好的悬念句：还活着的母亲正等着她。
+ch19 she feeds me now.md:105 **为什么这样写**：这一幕把全书所有欠她的东西一次结清：乳房没给过的喂养、没抱过的拥抱、没说过的疼爱——全部以「她成为食物」的形式补发；「she doesn't pull」的手部细节是这位母亲六百年来最温柔的动作；「Thank you, 
+ch19 she feeds me now.md:119 **为什么这样写**：物种命名 ceremony 用母亲的语法完成——unwanted 是 1523 年产床上的判词、blasphemy 是教会对她的追认——母亲的命名法成了她的学名；剥皮吞食的动作与命名同步进行：她的新名字是边吃边起的。
+ch19 she feeds me now.md:149 Joan 走了、母亲赶人、Piceus 定价——她死过一次、爬进土里当它子宫，再爬出来爬上母亲的膝头，把六百年欠下的那个拥抱连皮带骨一起吃完：「谢谢你，妈妈。」
+ch20 the oubliette in waiting.md:29 **读者视角提示**：注意她没说「她不危险」——她默认母亲是危险的，仍要回去。爱与危险在她的账本上是两个科目，从不相抵。
+ch20 the oubliette in waiting.md:49 **为什么这样写**：楼梯「beckoning」的招引与她的犹豫并置——下行的冲动一半是牵挂一半是狠念；「Bury her. Forget her.」两个短句是全书书名的出土现场：oubliette（遗忘之地）的动词形态在她心里演练过；蜡烛
+ch20 the oubliette in waiting.md:68 **中文理解**：母亲低低地蹲着，一身赤裸的皮与污。她抬头看我，微光打在她的白眼上，亮得吓人。那是月亮，那双眼睛——满圆的、被诅咒的。Veronica 伏在她的膝上，半个身子摊在书房地板上。她看着我——我分不清她脸上是恐惧还是狂喜。剩下的已
+ch20 the oubliette in waiting.md:78 **读者视角提示**：记住「deserved but hurts」的双轨判决——她的道德账本从这刻起有两个贷方：公正与痛。以前她只记前者。
+ch20 the oubliette in waiting.md:91 **为什么这样写**：「She is my mother.」独立成句的身份确认是本章的认领时刻：她没有否认、没有辩解，只陈述物种关系——然后跑；「I run.」两个词的单句段是全章最瘦的一段，瘦得只剩脚。
+ch20 the oubliette in waiting.md:92 **读者视角提示**：注意这两句的排版节奏：长句堆完恐怖，两个短句收走。作者用版面替她跑了一段。
+ch21 the rats go to war.md:13 - **叙事手法**：悬崖—吻—宅内三场递进；「forgiveness 条款」以对白写契约；lullaby 作复仇的圣歌；结尾三句递缩（guilt / whims / tired）收束本章情绪。
+ch21 the rats go to war.md:35 **为什么这样写**：尖叫的声源是「模仿母亲」——她体内装着母亲的音频库，崩溃时自动播放；「both close and far」的撕裂感是全书最好的依赖定义：两个方向同时拉扯且都叫需要；黄裙碎成条与她「in tatters」并置——Hop
+ch21 the rats go to war.md:36 **读者视角提示**：把「failing to fit anywhere」记成她在两个世界间的写照——教堂装不下她，地窖也装不下。Oren 的出现是第三个选项的雏形。
+ch21 the rats go to war.md:70 **为什么这样写**：心房的入住登记只写了不问这一项资格——「among my mother」的合租结构是本章最大的关系宣言：她终于承认心里住着两个人，且都重但不疼。
+ch21 the rats go to war.md:119 **为什么这样写**：三个 like 的递进（浪、瘟疫、毁灭）把鼠群写成天灾级别——母亲的复仇不再动手，她只负责点兵；「without guilt」的旁观是 Rue 与母亲共谋的正式注册：她看着，不拦——共犯资格从沉默开始。
+ch23 gloves of the white cat.md:21 **为什么这样写**：生日的档案缺失与季节的强制绑定，把「生日」写成一场周年祭；「Until today.」两个词的独立成段是本章的发令枪：礼物提前了——而提前意味着异常。
+ch24 the fouled seed.md:9 - **一句话概括**：1700 年夏：Piceus 用一座庄园结算她的价值——「你把我喂得很饱，谢谢」；桥上指尖将触即死，护城河凭巫术涨水拦住她——她怀着恶种，被留在轮回的这岸。
+ch24 the fouled seed.md:20 **中文理解**：我们是这世上的荒芜。我们路过的城镇只剩灰与骨。雪被涂上最美的猩红，冬夜被尖叫合唱。等一切静下来，我们刨开土，沉沉睡去。……几个月绕着我们刻过去、落成年。我们远远离开了 Norfolk，一路成了耳语里的传说。Cornwall
+ch24 the fouled seed.md:23 **读者视角提示**：记住「我们」这个词——她不再是跟班，是合著者。两百年的流浪把两块碎片铸成了一体。
+ch24 the fouled seed.md:43 **为什么这样写**：庄园画像处处是征兆（乌鸦、干涸的护城河、异兽）——馈赠自带说明书；「a world of wonder」的反讽在于：奇观的门票是她两百年的血肉。
+ch24 the fouled seed.md:104 **中文理解**：我从桥边缩回来，像野兽一样爬走。「别把我留在这儿。别把我留在这个惨境里！」……「可我饱了。」他微笑着，退得更远。马蹄声穿过风暴震过来——还有嘶鸣，一声低低的尖叫。「你不会孤单的，Sylvatica。我不会留你一个人。」……
+ch24 the fouled seed.md:107 **读者视角提示**：把「I let it」与「I do not want this」（ch19）对照：两百年前她还会喊不要，如今她说「由它」。驯化的完成度就在这两个句子之间。
+ch25 scraps and suffering.md:11 - **Tropes 兑现/反转**：「偷情日常」兑现成「两个人的监狱」；「恶母忏悔」反转——她把悔意说成可以拖她下地狱的行李；「转移猎物」反转——出卖自己的身体换 Anne 的命。
+ch25 scraps and suffering.md:12 - **人物弧线**：Rue 对鼠群与尸体无疚（共犯完成时）；母亲的忏悔（a rare light）让爱与危险同时到顶；「I have nowhere left」收束——两个世界都容不下她。
+ch25 scraps and suffering.md:21 **为什么这样写**：tether 的「自制」说明她清楚自己也在设局：两个世界各拴一头，自己是绳结；「encaged…a prison I would not fight」的自愿囚禁与母亲的 leashed freedom 对仗——母女的爱
+ch25 scraps and suffering.md:43 **读者视角提示**：把「数不清的罪人埋在泥里」记成护城河的档案——它不是装饰，是这座宅子的第二个胃。
+ch25 scraps and suffering.md:63 **为什么这样写**：coddle 的控诉回溯到婴孩期——她把六百年前的疏于照料反说成教养的德行；「never ask anything again」的投降条款开放一切她已有的东西：她用全部未来换一个朋友。
+ch25 scraps and suffering.md:89 **中文理解**：「请不要伤害 Anne，」我低声说。想到她那样好的笑容要从世上被永远拿走——那疼痛压弯了我。「别是她。」 ……月光里，母亲空灵缥缈。「不要 Anne，那要谁？」 ……「世上该死的男人那么多，母亲。让我把他们的罪带回来给你吃
+ch25 scraps and suffering.md:92 **读者视角提示**：把「一千次」的报价与 Oren 的存在并置：她准备用背叛 Oren 的方式保住 Oren 的世界。牺牲的结构从来不是自我完成式的。
+ch25 scraps and suffering.md:119 **为什么这样写**：三连 knows 的回声句是心理崩溃的拟声——母亲知道什么？知道 Oren 是筹码、知道女儿会回来、知道游戏她永远赢；「I have nowhere left」的空间判词把两条线同时判了死刑：家的门、爱的门都关上了。
+ch25 scraps and suffering.md:120 **读者视角提示**：把「无处可去」作为本卷最后的定位——她被两个世界同时开除。全书的结局将回答：无处可去的人最后去了哪里。
+ch25 scraps and suffering.md:149 她把黎明分给 Oren、把黑夜分给母亲的坟——母亲用一支黑泪忏悔说出「你是不灼人的光」，随即把护城河的干裂记在女儿头上：要谁不当苦难，用一千次卖身来换；可她已经无处可去，因为母亲什么都知道。
+ch26 with you.md:10 - **情感弧线位置**：全书最黑暗一章：Oren 之毁是母亲「没有爱不经毁灭」论点的血证；她与僵尸化的爱人完成的最后对话只有六个词——With you / And I am with you。
+ch26 with you.md:12 - **人物弧线**：Rue 执行求毁（Damn you!）；Oren 的gentleness 被换装成饥饿——只剩六个词的人性残片；母亲以自己的血完成了一次「教化」。
+ch26 with you.md:77 **为什么这样写**：全书最短的对答只有六个词：他毁到只剩三个词的智力，她只剩三个词的等待——「With you」是 Oren 全部人格的最后残片：他没有答去哪儿，他答了归属。
+ch26 with you.md:128 她循着心链推开那扇门——Oren 捧着自己的心等她，像一份呈给主人的礼；她骂他、咬他、喂他血泪，在六个词的对答里握住最后的归属，然后在黎明的审判里失去了第一个也是最后一个一起看的日出。
+ch27 her heart beats for me.md:10 - **情感弧线位置**：全书情感的总决算：两场死亡（Oren 被吃、母亲被掏心）之间，她把「爱」的账本翻到了最后一页——每一笔都记着债。
+ch27 her heart beats for me.md:29 **读者视角提示**：把「不分享悲伤」与「不分享食物」（ch09 只喝不吃）并排：她的所有权清单只剩损失。Oren 与悲是同一笔遗产的两半。
+ch27 her heart beats for me.md:36 **读者视角提示**：把「同一个姿势、两个人」记成她的情感悲剧：她一生只有一个拥抱的形状，谁来填都往那个模子里塞。
+ch27 her heart beats for me.md:43 **读者视角提示**：记住「残忍的玩笑」——它与 ch25 「It is a terrible, terrible thought」并排：她对自己处境的两个命名。都是病名。
+ch27 her heart beats for me.md:54 **中文理解**：她嘴边有血——红的；溅在睡裙上，把她苍白的手一直染到指节。她穿着 Oren，跟我一样——我们两个都滴着血与灰。 ……「还能做什么呢？」我问。「Folkehaven 只剩我们俩了——你和我。这就是你想要的吗？」 ……她的回答
+ch27 her heart beats for me.md:85 **读者视角提示**：把两个命题并排：母亲版「爱必须经毁灭」vs 女儿版「爱必然带恐惧与疼」——前者把疼当工具，后者把疼当成分。全书站在这两条公理的裂缝上。
+ch28 two graves.md:28 **为什么这样写**：三个 one more 的排比卡在三个 wish 前面——愿望被压缩到只剩「多一次」：她对世界的全部索求降格为一秒；血色的天回收 ch19 的猩红雪——她的一生都在被染红的天气里。
+ch28 two graves.md:35 **为什么这样写**：第二次渎神（God be damned）落在听力上：她听得见地狱里的母亲，听不见任何神——她的频谱只有血缘；「soaks up my misery, gives nothing back」的圣地经济学与母亲（吸取不回馈
+ch28 two graves.md:50 **读者视角提示**：把「想被闹而不得」与 ch20 「want her to say my name」连读：她的孤独在死别之后完成了第二次加码。被鬼缠是她能想象的最低限度的亲情。
+ch28 two graves.md:57 **读者视角提示**：注意 Anne 的手「fold over mine」——两次肢体接力（拉起、握住）都没有触碰恐惧：正常人的触碰在她这里已经完全脱敏。Oren 训练的成果。
+ch28 two graves.md:71 **读者视角提示**：注意 Anne 的问题顺序暴露了她的地理逻辑：先猜怪物家、再猜自家——她比谁都清楚这两处的区别，却两个都问了。
+ch29 as it should be.md:22 **读者视角提示**：把「hollow 先淹」与 ch24 的浅坟、ch08 的 hollow 三次出场连成一条水线：这座宅子的地心被水逐层清算——本书所有的「洞」终于填平。
+ch29 as it should be.md:28 **为什么这样写**：霉揭墙纸的动作被比成母亲揭皮——房子的死法是母亲的死法：手套真相的两个选项（逃逸/诱饵）永不揭晓，作者故意留白：她的恨需要一个凶手，而这个世界不给答案；「It matters little now」的结案陈词是她学到的
+ch29 as it should be.md:43 **读者视角提示**：把「joined…always have been, always should have been」与 ch20 「prison I would not fight」并排：她对归属的三次命名（监狱、拴绳、joined
+
+=== ⑥场景方位：12 行 ===
+ch02 horewith unraveled.md:106 **读者视角提示**：把 Folkehaven 的垂直地图记下来——楼上宴客、楼下食土。所有关于「上」与「下」的动作（descend、slip into）都是角色与母亲距离的刻度。
+ch03 burning the green dress.md:33 **中文理解**：她把我的母亲当天使，但那离真相太远。我母亲是怪物，一件死亡既不触碰也不收留的亵渎之物。夜幕一落她便不老，是集可怖的美貌与饥饿于一身的存在；可夜色一退，她也跟着退，一场缓慢的、缠绵的腐烂。有那么一小段时辰，她只是一具会走的尸
+ch05 a kiss without teeth.md:47 **中文理解**：我转头望向窗外，避开她蒙着面的眼与怪诞的笑。风景掠过：枯树与嶙峋的崖边混作一处。海涨起来，浪一层层滚过沙滩。泡沫漫过，把海草与残骸拖回去。每一轮冲刷，陆地就被洗净一次。我可以躺在那儿——湿沙上、低日头下——让水一遍遍冲我。
+ch08 you taste like me.md:19 **中文理解**：Folkehaven 的鬼不跟着我下到庄园的肠腹深处。在那里它们把我独自留下。我发现，只要我在楼梯上多待一会儿，靠着冰冷的石头，待在那片柔软的黑暗里，我就能呼吸。母亲与楼上闹鬼房间之间的距离是六十七步；它既太近，又不够远。
+ch08 you taste like me.md:21 **为什么这样写**：六十七步是全书第一个被精确测量的距离——她用脚步丈量自己与母亲之间仅有的空气；「too close and not close enough」两头都输：近到逃不掉，远到不够自由——这七个字就是她全部处境的几何学；「li
+ch10 the circle of dead black.md:75 **中文理解**：「去给我们抓一只来，孩子。暖了我们的肚子，总好过喂了那些害兽。」……我走进寒冷里乱走。母亲照旧卧床，一只手摊在额上，另一只朝门口伸，伸向某个看不见的目的地。伸向父亲浪荡的所有去处——漂洋过海找财路、进城收租税、收贿赂。或者
+ch10 the circle of dead black.md:89 **中文理解**：「锅里会有我的一份吗，姑娘？」Piceus 立在马厩门口，一半在影里，一半被冬天奶白的太阳照亮。他黑着眼、一身脏，太高、太瘦、太安静。那只鸡软软挂在我手里，几乎被忘了。……「我给你留点骨头吧。我自己多半也就剩这些。」
+ch16 the birth of the eater.md:11 - **Tropes 兑现/反转**：「家庭惨案」反转——凶手是自家的马、主谋疑似门口的恶魔；「姐弟相残」反转成捕食者的入职仪式：第一口吃的来自最亲的人。
+ch25 scraps and suffering.md:110 **中文理解**：她一把抓向我——指甲掐进我的脖子，另一只手扯脱我更多的头发。「护城河是干的，我亲爱的女孩，」她重复着，强迫我望向窗外、望向墙外的夜。「而我，会成为你的苦难。」
+ch25 scraps and suffering.md:112 **为什么这样写**：威胁的对象借窗定位——窗外是 Anne 的方向：她不必点名，地理已经指认；「I will be your suffering」把下一场灾难的主语先签了名。
+ch28 two graves.md:26 **中文理解**：天在滴血——迟缓的落日在山后积成潭，把影子拖过墓碑、拖过安息的死者与我的母亲。那将熄的光在铁笼旁的土堆上流连。温柔的落日把湿草封进一层薄暖，我把手放上去。我想把手指深深按进土里，感觉它在指甲缝里结块。我想再分一次日落——再
+ch28 two graves.md:29 **读者视角提示**：把「再分一次日落」与 ch18 的「first sunrise = last」对照：她与 Oren 只分到一次日出，与母亲连一次日落都分不到了。
+
+=== ⑤方向施受：51 行 ===
+00_金句精选.md:280 **上下文**：墓碑上，她重提「你说过不会毁了我」，他把「毁灭」直接说成爱的别名。
+ch02 horewith unraveled.md:11 - **Tropes 兑现/反转**：晚宴鸿门宴反转——猎物是 VIP 客人自己；「吻的承诺」是钩子也是墓志铭；红线提线木偶把「谋杀」写成遥控操作。
+ch02 horewith unraveled.md:56 **为什么这样写**：「I can almost hear his heart」把听觉推到生理极限，随即「I know my mother can」两句排比把「听心跳」从浪漫写成听觉捕食——母亲流口水的是声音本身；粉红脸颊在烛光下是一道「熟
+ch02 horewith unraveled.md:84 **为什么这样写**：母亲状似闲谈地清点女儿的战利品（promise），把吻写成债务；Rue 的回嘴是全书到此刻为止最锋利的一句——用「waited」把吃人讲成一件缺乏耐心的粗鲁事，仿佛抱怨的只是她不讲餐桌礼仪。这句话的可怕不在内容而在语域
+ch02 horewith unraveled.md:91 **为什么这样写**：母亲的睡前指令是主仆句式（Ready me——把我备好），入睡被写成一套需要人伺候的仪式；「whispers of the years, echo of worms」把地下写成有语言的时间博物馆，而她这个活了不知多少岁
+ch03 burning the green dress.md:42 **为什么这样写**：叙述者用账房式的冷静给 Veronica 的奉献记账：血肉、奴役、鞭笞三项投入，收益却写成了「terrible eternity」——连她求的永恒都要加上「可怖」这个定语；「a slow death, and it w
+ch04 the red ink letter.md:21 **为什么这样写**：「treasures」这个词是账面用法——每件展品都是残缺物（无脸娃娃、换掉内脏的标本、装碎玻璃的盒），母亲对「值得收藏」的定义与活人的古董观完全错位；发绺坠盒尤其可怖：头发是从谁头上剪下来的，与她的进食名单不谋而合；
+ch04 the red ink letter.md:22 **读者视角提示**：把这个柜子当作母亲心理的展柜：她收集「死物的完好假象」（填充物、 stuffing），正如她收藏 Rue——体是活的，位置是柜里的。
+ch05 a kiss without teeth.md:21 **为什么这样写**：掐脖的是「自己的手」——幽灵只负责围观和期待，行刑者与受刑者是同一人：这场死亡试演连帮手都是自供的；「fifty-two」精确到个位的计数把求死写成一次实验记录——她在测量「我离死亡有多远」，而不是冲动自尽；幽灵「fi
+ch05 a kiss without teeth.md:33 **中文理解**：「孩子。」Veronica 摇头，仿佛我让她失望了。「你对 Folkehaven 里那些游荡的东西视而不见，是真的吗？难道他们全是骗子的混蛋、没用的老头、欠了一屁股债还挥拳头的老爷？睁一只眼闭一只眼吧，只要你夜里睡得着。不
+ch05 a kiss without teeth.md:91 **为什么这样写**：邀舞的通行证是一桩「偷窃案」——他把宴席上的共犯细节当作只有两人知道的暗号，比任何恭维都有效；「I won’t tell, if you don’t」先立共守同盟再谈交易，这个人懂得如何与危险的人谈判；「How cou
+ch06 sylvatica and piceus.md:28 **为什么这样写**：婴儿在母亲的语汇里没有名字，只有产出报表：外孙、劳力、再来一个；「undeserved feast」把哺乳写成单向施舍——她连喂奶都觉得女儿在偷；「what has slipped from my maw」用兽的口器（
+ch06 sylvatica and piceus.md:119 **为什么这样写**：命名交换的仪式感（call me…）发生在血指入口的动作之间——他吮的是鹿血还是别的，作者不说，但「Thank you」的礼貌与食人意味同框；Piceus（拉丁语「沥青色、黑的」）这个自报名号给非人存在上了户口；「cu
+ch07 ouroboros.md:13 - **叙事手法**：餐桌戏与茶桌戏互为镜像（都在吃、都在谈死）；书信全文插入；「a vast difference to its frigid exterior」的暖黑与 Folkehaven 的低温形成空间对照与 Folkehaven 
+ch07 ouroboros.md:42 **为什么这样写**：母亲的温柔每件都带刑具：不需要的呼吸（模仿生命）、冰唇（尸体温度）、把幸福写成「hold it upon your tongue」——舌头在她的家庭语汇里是味觉器官，幸福也逃不出被品尝的命运；「Just do not 
+ch07 ouroboros.md:91 **为什么这样写**：Lady Pengelly 的登场把「Ladies 的下场」摆上桌面：咳血、骨头响、眼睛蒙翳——她们替母亲供货，自己却买不到不老；「the same blue as her sons, though they poss
+ch07 ouroboros.md:119 **为什么这样写**：吻手与「即将弄脏的手」叠在同一段——他吻的是现在的手，她赔罪的对象是未来的手：这个家的人没有资格被干净地爱；「The sun is setting in a slow spill of red」把落日写成又一次「红色液
+ch08 you taste like me.md:33 **中文理解**：「跟我说说夜晚吧，亲爱的 Rue，」她说，嗓音有一丝极轻微的劈裂。她睁开眼，打了个大大的哈欠，尖牙在嘴里显得太长了些。一只蛾子从她唇边飞过，她从空中一把抓住，吞了下去。……「今晚月亮很亮，母亲，」我开口，把手伸进浅坑里递给
+ch08 you taste like me.md:63 **为什么这样写**：母亲对海的指控是倒置的忏悔：她不怪自己往里倒恐怖，只怪水不肯变脏——「How could such waters remain pure」的反问里藏着她全部的自我认知：她是污染源，且无可救药；「a circle of 
+ch08 you taste like me.md:68 **中文理解**：她眼里涌出泪，黑色，顺着脸颊淌下来，又稠又油。我想伸手替她擦掉——我受不了她的悲伤。但我只是指向天空，贴得很近。永远很近。……「看黑暗里，母亲。看头顶上的星星，别看水。抬头。」
+ch08 you taste like me.md:91 **为什么这样写**：Anne 的出场把 Rue 摔在她的自家墓碑上——地点的选择已经是宣言：她敢进坟场找人；「I knew I would find you here」说明她蹲点过、推理过——这个「silly girl」的胆量是调研出来的
+ch08 you taste like me.md:98 **为什么这样写**：Anne 的感谢词把这场交易的受益人链条说全了：母亲神志不清漏了嘴（delirium）——Ladies 的秘密就是这样在病床边漏光的；「my salvation」这个词在 Rue 听来是讽刺还是安慰，她自己也没想清楚：
+ch09 the ladies banquet.md:11 - **Tropes 兑现/反转**：晚宴复仇戏反转——被处置的是说错敬语的女客；「永恒仆人」条款反转了供需关系：贵妇们求着当仆人；醉倒收场把恐怖宴写成生理灾难。
+ch09 the ladies banquet.md:42 **为什么这样写**：Henrietta 的失言在于把雇佣关系说成了恩情——「discretion」暗示母亲杀人时会顾及体面，这触碰了她的自我认知底线；三连反问（politeness / wellbeing / soft）逐层剥掉贵妇们强加
+ch09 the ladies banquet.md:49 **为什么这样写**：这段内白把母女皮肤的温差写成两种爱的物理判据：她要的抱（child 的抱法）与母亲给的碰（hard skin, bone-sharp edges）之间隔着物种；「petrified sack of her heart」
+ch09 the ladies banquet.md:98 **为什么这样写**：房间的巡检清单先排除人（Veronica、Hope），再发现物的证词（枕上血、被吃脸的死鼠）——礼物是母亲署名的（吃脸=她的餐桌习惯）；「like spilled moonlight into the dark」把白猫
+ch10 the circle of dead black.md:36 **读者视角提示**：记住「eat you」从她嘴里说出的分量——这不是比喻。这个家的孩子从小就把「被吃」当作可讨论的日常后果。
+ch11 a kiss like sunlight.md:21 **为什么这样写**：她给母亲开的「牢笼钥匙」的前提是一份道德审计：满屋富贵没有一人无辜——「unleash」这个词把母亲写成可投放的兵器，投放的理由是正义；「unspoiled cavity」与自家 rotting manor 对比：越干
+ch11 a kiss like sunlight.md:70 **为什么这样写**：这段吻的每项参数都与她家的吻具对着写：牙「barely sharp」（母亲的 too long）、饿「me not my blood」（母亲的 taste like me）、对灵魂「seduce not gnash」（
+ch11 a kiss like sunlight.md:91 **为什么这样写**：清醒被她定义为坏消息——麻醉失效意味着感觉全部归位，包括疼；「I will not ruin you」的「ruin」是本书的动词脏话：在她的字典里这词一半是性一半是结局；笑声里听出母亲的基因是本章最惊悚的一拍——她不是
+ch12 the refuse him vow.md:49 **为什么这样写**：誓言的阶梯是三级递进：空间（你在哪我在哪）→死亡（神不收你我拒收）→权力（我把神打下来）——最后一级把「为爱弃神」说成了武力威胁，渎神说到豪横；「tenderly stroking the broken flecks」
+ch13 i am full.md:50 **读者视角提示**：记住「creature」这个词的反弹用法——被 Edward 说成不像人的东西，她就地领回当自我介绍。她的脸皮已经厚到能当盾牌。
+ch16 the birth of the eater.md:70 **为什么这样写**：母亲的手与她的手在同一章对折：都被冻裂——但这家人的裂口只往一个方向流怨；「like the pages of a book」的伤疤比喻把她的皮肉写成可翻阅的记事本：这个家的一切都记在皮上；「burning regre
+ch17 a mirror of madness.md:21 **为什么这样写**：请柬的「没有理由」是全章的判决语法：美的东西在她的世界没有居住权——粉色丝带插进腐朽，就像她插进正常人的婚礼；「not a stitch…sin woven in」把衣柜写成了罪证档案——她连体面都没得选，衣服即履历。
+ch17 a mirror of madness.md:84 **为什么这样写**：剥橙的比喻把活人分尸写成了水果礼仪——进食的优雅与原料的尖叫互为背景；Veronica 的笑与伸臂是本章最疯的静止画面：被吃是她的求爱语，她把伤口递成花束。
+ch18 if love is a ruination.md:116 **为什么这样写**：野合的地点选在墓地（hallowed ground）——渎神的量级刚好卡在「小」：一场对他们自己更大的罪的宽恕性出轨；「only God to witness」与教堂里「God 也拒收她」的忧虑呼应：这次祂终于出席了—
+ch19 she feeds me now.md:84 **为什么这样写**：吻的滋味是「我自己」——这段关系的味觉闭环在第一吻就完成：他们互为食物；「pieces of myself still stuck in his teeth」把亲吻写成意外的重逢；「first love 的心跳 = s
+ch19 she feeds me now.md:92 **读者视角提示**：把「I feel like I am home」与主线 Rue 的「Folkehaven is my tomb」并排：母女俩都把「家」与「坟」当成了同义词。这本书记录的正是这个等式如何被打破（或永远打不破）。
+ch20 the oubliette in waiting.md:21 **为什么这样写**：「I cannot answer him」的答不了不是不愿——她的名字此刻属于另一个人（追赶的母亲），出口会被那边的耳朵听见；月亮被写成「pale and unwanted」——连月光都领到了她的家族称号：不被要的。
+ch21 the rats go to war.md:56 **为什么这样写**：揽罪的报价单开出去了——「let me take it from you」把罪写成可转移的实物：他的爱自带卸货功能；她的拒绝（你不想要）是自我惩罚的惯性报价：连卸货都怕压垮别人。
+ch22 how you wear her well.md:12 - **人物弧线**：Rue 承认 tethered 解不开（不会让母亲饿死）；她的待客之道升级为扣暖与下毒般的盼头；母亲当众把死亡说成衣裳（how you wear her well）。
+ch23 gloves of the white cat.md:49 **为什么这样写**：「almost a kindness」的 almost 是本章最准的量词：温柔存在，但隔着材质——皮毛的手感是暖的，来源是冷的；「wraps and squeezes」把感动写成勒索：这个家的礼物从来附赠窒息。
+ch24 the fouled seed.md:71 **为什么这样写**：「a caress with teeth」的吻与牙同体——他的温柔永远是武器；恶种的宣判把怀孕写成感染：她的子宫被当成了第一个猎场。
+ch24 the fouled seed.md:78 **为什么这样写**：「I am death!」的自封与「Not you.」的驳回——她连「死亡」这个物种资格都被没收：孕身的死亡不再是死亡，是温床；蛇绞子宫的意象把恶种写成活刑具。
+ch24 the fouled seed.md:99 **为什么这样写**：指尖相擦的死是全书最残忍的一笔求救：他伸手不是救，是量距离——死亡在他伸手的那一刻落下：她的死是他允许范围的精确刻度；「The waters will not」把水写成同谋——这世上第一个拦住她的水，正是当年拦住她母亲
+ch25 scraps and suffering.md:19 **中文理解**：Folkehaven 与 Anne 的小屋之间有一根看不见的 tether——我自己织的。黎明破晓、夏日金光镀满小镇时，我像幽灵一样溜出去。在那里我可以陪 Oren、陪 Anne 和 Edward，还不会把自己耗散在时间里
+ch25 scraps and suffering.md:56 **为什么这样写**：母亲「For now」的续约提示把满足写成租期——每一次饱餐都附带下一次的账单；「You are never alone here」的反驳精确而残忍：她指的陪伴是鬼、鼠与她自己——全都不是活人。
+ch26 with you.md:21 **为什么这样写**：四连 please 的祷词与「 undeserving」的自我判决并置——她向谁求的答案悬空：求 Oren 活、求母亲停手、求自己宽恕，三合一；脚与心的节拍器把奔跑写成祷告的身体形式。
+ch26 with you.md:91 **为什么这样写**：挖眼检查的冲动回收 ch06 鹿眼、ch01 诗——这个家族检查死者的方式从来是摘眼睛：她在用母亲的方法找 Oren；「Forgive me / Please」的求饶对象不明：对他、对母亲、对神——三重欠款同时清算。
+ch27 her heart beats for me.md:21 **为什么这样写**：爱的「借用」术语把 Oren 的死写成收回贷款——ch18 「吞话如内脏」的饱腹在这章被抽空：尝过的人饿起来最狠；骨灰嵌进衣物与皮肤是遗物的最后形态——他成了她的第二层皮肤。
+ch28 two graves.md:49 **为什么这样写**：「她本不必如此」的谦欠是 Rue 对善意的新语法：她开始给温柔标注不配的注脚；「I long to be haunted」的倒错愿望是全书最痛的一笔：连鬼都不肯陪她——被吃干净的母亲连魂都懒得留。
+
+=== ④亲属身份：440 行 ===
+00_情感节点.md:12 陪宴前夜，Rue 被母亲的世界上了第一道锁：绿裙污渍之争、Horewith 勋爵旁的席位、死女 Hope 的刑状诗——以及 Veronica 掐着她的下巴逼她背诵的那句家族信条。她流血服从，把「想要的念头」连根拔掉。
+00_情感节点.md:20 宴席上母亲当众邀吻，Rue 以「甜点之后」应下——Horewith 跨过门槛就已是死人。深夜母亲用红线把他当众拆解，喉骨剔净。Rue 的全部反抗是一句餐桌礼仪的抱怨，然后说出那句终身刑期。
+00_情感节点.md:65 母亲的爱被定价为「拴绳的自由」：放行附条件、宽恕绑归途。Veronica 献肉被嫌腻、被一巴掌扇晕——Rue 终于承认自己与 Veronica 同构，都在啃噬母亲慈爱的碎屑。
+00_情感节点.md:73 她循着心链跑进完好的 Blackwood Hall——Oren 开胸捧着自己的心等她。母亲用「没有不经毁灭的爱」证明了自己；她对着残躯完成当初求毁的誓言，吻被咬下一片唇，最后听到他仅剩的归属。晨光的审判没收了第一个也是最后一个日出。
+00_概述.md:12 **猎物是这样进门的。** 宴席上，母亲举杯致意，把女儿当饵抛给猎物；女儿负责把猎物的虚荣喂饱——「I feed my mother. I will always feed my mother.」（ch02） Horewith 勋爵在宴席上
+00_概述.md:20 **爱没有改变规则，只改变了规则的价格。** 母亲批准她去婚礼、去野餐、去爱——只要她回来：「Just do not leave me. I will not allow that.」（ch07） Veronica 被吃掉、Lady Pen
+00_概述.md:38 **母亲**：一个没有名字的捕食者，她的爱只能用占有语法表达。她给女儿的信承认自己的上限：「if not loved, then wanted. I can give no more than that.」（ch04） 她的悔恨是真的（ch
+00_金句精选.md:14 **中文**：房子在腐烂——而我的母亲永远不会。
+00_金句精选.md:18 **为什么重要**：全书第一句关于母亲的话——不说她是什么，只说她连腐朽都赢过房子。恐怖从比较级里偷渡进来。
+00_金句精选.md:20 **呼应**：与 ch02「She is rotting, but with sleep, she will rise anew」构成母亲生命机制的两端；与 ch29 的房子塌陷互为终始。
+00_金句精选.md:38 **中文**：我喂我的母亲。我会永远喂我的母亲。
+00_金句精选.md:52 **上下文**：Horewith 被红线拆解后，母亲提起那个吻的承诺，Rue 这样回答。
+00_金句精选.md:64 **上下文**：Veronica 幻想被母亲留下，Rue 咬着一只内里发黑的烂苹果，平静地补上这一句。
+00_金句精选.md:76 **上下文**：母亲用天气对账逼问行踪，Rue 说了实话（去海边），换来的是这两个字的命令。
+00_金句精选.md:78 **为什么重要**：母亲要的不是行踪信息，是表演——一个「正常女儿的下午」来试穿人性。真话在这个家是最脏的语言。
+00_金句精选.md:80 **呼应**：与 ch04 信中的「if not loved, then wanted」互为表里：她被要求扮演被爱的女儿，作为「被需要」的布景。
+00_金句精选.md:88 **上下文**：红墨水信。母亲自陈在亡者化之前就「被饥荒剥空」，这是她给女儿的爱之限额书。
+00_金句精选.md:90 **为什么重要**：全书最坦白的限额告白——她给自己的爱定了价，也同时告诉女儿这价目表再无折扣。
+00_金句精选.md:100 **上下文**：母亲替 Rue 盖被、守着她入睡，白眼一眨不眨。
+00_金句精选.md:102 **为什么重要**：温柔被写成试穿——合身就继续穿，不合身就脱下。Rue 此后对母亲所有柔情的判读方式在此定版。
+00_金句精选.md:104 **呼应**：与 ch05「stifling warmth」、ch08「You taste like me」同属母亲的体温档案；「almost too tight」的被子是关怀与捆缚的同一件物证。
+00_金句精选.md:122 **中文**：他闻起来是活人的味道——而与我母亲一样，我渴望把他吃掉。
+00_金句精选.md:134 **中文**：我们共享过一具身体、一个子宫——像母亲入夜爬进去的那个狭窄地窖。
+00_金句精选.md:136 **上下文**：马车自白。她解释为什么母亲不能来舞会、为什么她走不出这段关系。
+00_金句精选.md:138 **为什么重要**：母女同体的生理史在此摊开——子宫与地窖同构：她出生的地方就是母亲睡觉的地方。
+00_金句精选.md:162 **为什么重要**：母亲的爱以「未吃的克制」为计量单位，连爱这个字都不需要出场。Rue 与母亲关系的全部定义在这一句。
+00_金句精选.md:172 **上下文**：Rue 自悼「Folkehaven 是我的坟」，母亲笑着给出这份不死的许可。
+00_金句精选.md:196 **上下文**：出墓的楼梯上，母亲掐破她的掌心吸血，然后温柔地吻那只手。
+00_金句精选.md:198 **为什么重要**：母亲的爱不过语言，直接走舌头——血缘在这里被做成可验证的实物证据。
+00_金句精选.md:208 **上下文**：花园里母亲对着海落黑泪，解释她的恨：她往水里倒恐怖，水却始终不肯变脏。
+00_金句精选.md:220 **上下文**：母亲要她摘星进屋好去爱，她脱口说出这句，随即想吞回去。
+00_金句精选.md:224 **呼应**：与 ch28「allow her to lead me away」首尾呼应：全书结尾她终于被带走了——不是被母亲，是被自己的选择。
+00_金句精选.md:234 **为什么重要**：她的愿望不是自由，是匿名——从「母亲的所有物」变成「无名之人」。这是全书最疼的一句祈求。
+00_金句精选.md:290 **中文**：我和 Veronica 没有那么不同——都在啃噬母亲慈爱的碎屑。
+00_金句精选.md:292 **上下文**：Veronica 被咬晕后，母亲血手按着 Rue 的肩跳一支听不见的华尔兹。
+00_金句精选.md:296 **呼应**：与 ch19 的「For scraps.」（Sylvatica 签约语）连成碎屑三部曲：两代女儿的最后估值都是碎屑。
+ch01 terror or ash.md:11 - **Tropes 兑现/反转**：哥特庄园 + 非人母亲 + 自残奉献的女仆 + 献祭式宴席，类型件件兑现；反转在「鬼」的功能位——它们不是恐怖来源，而是常年存在的家具，真正的恐怖是活着的权力关系。
+ch01 terror or ash.md:19 **中文理解**：光钝而脆地落在 Folkehaven 庄园上，仿佛太阳都躲着它的墙走。无论什么季节，黑暗都赖着不走，是个受欢迎的客人、凄凉的占屋者。这是一座迷宫般的建筑，走廊与房间盘成一团，脚下的石头永远是冷的，每一步都有回声。地基被染成
+ch01 terror or ash.md:40 **中文理解**：她的袖子早已撕掉，露出细瘦手臂上纵横交错的、发亮的伤疤。更新的切口叠在上面，一条条肉带被剥下来，为了取悦和喂饱我母亲。为了让她满足。
+ch01 terror or ash.md:54 **中文理解**：「你会被安排坐在 Horewith 勋爵旁边，」她说，目光往我房间角落的鬼影上掠了一下。「今晚任务轻松，他多半早就醉了。」……「那母亲为什么需要我在场？」……「因为她永远需要你。」她说这句话像威胁、警告和谴责三样叠在一起。
+ch01 terror or ash.md:57 **读者视角提示**：注意说话时目光「flitting to the specter」——猎物名单与亡者在同一间房里并行不悖，这个家的两套秩序互不干扰。记住「she will always need you」：它是 Rue 与母亲关系的核心
+ch01 terror or ash.md:75 **中文理解**：Veronica 一把捏住我的下巴，手指尖利。「不管你脑子里生了什么幻想，孩子，现在就拔掉，听见没有？不然我伸手进你喉咙把它们扯出来。那反而是种仁慈，Rue，记住。别让你母亲听见这种……这种好奇心。我们是恐怖，或者我们是灰
+ch02 horewith unraveled.md:9 - **一句话概括**：一场以人为馔的宴席全程直播——Rue 应下「稍后的吻」，看母亲用红线把 Horewith 当众拆解，再被拉进地下的浅坟陪睡。
+ch02 horewith unraveled.md:12 - **人物弧线**：母亲从暗影走入灯下（苍白、锐利、浸血黑发、笑声如啸）；年轻勋爵（蓝丝领巾、小鹿般的眼）首次登场——Rue 承认自己与他一样「想吃掉」他；Rue 的锋利（怼母亲「你可以等吃完再动手」）首次露出。
+ch02 horewith unraveled.md:33 **中文理解**：母亲笑了。近乎尖啸，把她杯子掀翻在白桌布上。红色洇开来，太黑太稠，不是酒。其他人跟着笑，笑声汇成一片轻蔑的嘈杂。幽灵们也在尖叫，更响，有那么一刻，这些声音听上去一模一样。
+ch02 horewith unraveled.md:36 **读者视角提示**：这是本章给「母亲的世界」上色的一笔：白桌布、深红液体、全员笑声——记住这个色彩配方，它比任何直白的「恐怖」形容词都有效。这个笑发生在母亲替女儿牵线邀吻之后——她在为猎物入彀而笑。
+ch02 horewith unraveled.md:40 **中文理解**：母亲并不真的需要我坐在 Horewith 勋爵旁边。他在这里，他就完了；从他跨过门槛那一刻起就没有逃路。就算我现在离席，她也不会挨饿。但规矩就是这样，一直就是这样。我喂我的母亲。我会永远喂我的母亲。
+ch02 horewith unraveled.md:54 **中文理解**：烛光下他脸颊透着粉色，一层温热的红晕——我几乎能听见他的心脏咚咚地跳。我知道母亲也听得见；我知道她听见亢奋的脉搏时，嘴巴会馋成什么样。
+ch02 horewith unraveled.md:61 **中文理解**：从我的座位，我闻得到他沐浴用的薰衣草皂的清新气息，深吸一口，它几乎盖过了四周的血腥与腐臭。他闻起来是活人的味道，而与我母亲一样，我渴望把他吃掉。
+ch02 horewith unraveled.md:63 **为什么这样写**：薰衣草皂是「活人世界」的气味信物——它短暂地遮住腐臭，正像他的在场短暂地遮住这个家的本质；「He smells of the living」一句定性后，「I long to consume him」用 similar 
+ch02 horewith unraveled.md:75 **中文理解**：「看，亲爱的，」母亲说，双手缠在红线里。「看着。」……她轻轻一带，Horewith 勋爵的手臂就向前伸去，手指瘫软，在他那桌残宴上刮擦。他的皮肤绽开，淌出更多血红的线，母亲拉啊拉啊拉，直到他整个人摊开在桌上，散成线。他的头
+ch02 horewith unraveled.md:82 **中文理解**：「他相当为你着迷呢，亲爱的，不是吗？」母亲伸出手，细长湿滑的手指卷住我的。「你答应过给他一个吻。」……「那你可以等吃完再动手呀。」
+ch02 horewith unraveled.md:92 **读者视角提示**：记住「大地在说话但她听不懂」——这是本书埋得最深的钩子之一：地下有比母亲更老的东西。往后任何来自地下的声音都比她更值得敬畏。
+ch02 horewith unraveled.md:103 **中文理解**：母亲的歇息处在铁楼梯最后一级之下，沿着木板一级级下去进入地窖——一个黑到潮到空气都成了固体的坑洞。我怕自己会被这里的空气噎住。没有床，没有舒适，只有她渴望的泥土。我扶她滑进她的浅坟。
+ch02 horewith unraveled.md:105 **为什么这样写**：从宴席到坟场只隔一段楼梯——「below the last step」精确到级，家宅的结构就是食物链的结构：越往下越接近母亲的本体；「the very air is solid」把腐败写到物理极限（空气可噎人）；「sh
+ch02 horewith unraveled.md:113 **读者视角提示**：记住「rise anew」的条件——睡眠和土地。这解释了她为何必须日日归巢：母亲的永生不是无敌，是一套每天都要执行的流程。想伤她的人，得先找到流程的缝隙。
+ch02 horewith unraveled.md:117 **中文理解**：在这令人窒息的地方我几乎无法呼吸，可我也无法拒绝她。冷渗进我的背，骨头随之一阵阵发疼。她转向我，眼睛没了，肉在往下掉。她的嘴是一个咧笑。我可以把松土抹在我们两人身上，静静躺着，蜷在母亲怀里。太阳升了又落，夜晚会把她唤回。我
+ch02 horewith unraveled.md:149 一场「稍后的吻」从调情词变成悼词：母亲当众用红线拆了 Horewith，Rue 在承认自己与母亲同胃口的同时，也躺进了地下的浅坟——被爱与被吞噬在这里还是同一件事。
+ch03 burning the green dress.md:9 - **一句话概括**：绿裙在火里烧成灰——黏土洗不掉；Veronica 嫉妒 Rue 陪母亲过夜，裁缝铺里一位道谢的新娘揭开母亲吃人名单的一角。
+ch03 burning the green dress.md:11 - **Tropes 兑现/反转**：「洗不净的血迹」是哥特标配，本章反转成「洗得掉血、洗不掉坟泥」——真正的污渍来自母亲的地床；道谢的新娘是被吃者的家人，恐怖藏在社交礼仪之内。
+ch03 burning the green dress.md:12 - **人物弧线**：Veronica 的嫉妒与「天使论」同时立起（她要的不是活着，是被母亲需要）；Anne Pengelly 登场——知道真相还道谢的幸存者；Rue 的占有欲（tear it from her）首次对准「欢乐」本身。
+ch03 burning the green dress.md:36 **读者视角提示**：这是目前全书对母亲最完整的「物种说明」。记住她每天的脆弱窗口（黎明那段行尸时刻）——制度意义上的弱点，将来一定有人会利用它。
+ch03 burning the green dress.md:40 **中文理解**：Veronica 总有一天会烂掉。我知道，我相信她自己也知道一半。无论她向她的天使献上多少血肉，无论她尽多么 dutiful 的奴役之职、行多少鞭笞苦修，那一天都会来。她盼着更多——盼着在我母亲身边得一个可怖的永恒。可总有
+ch03 burning the green dress.md:49 **为什么这样写**：烂苹果是 Veronica 的味觉自画像——内里发黑（自残的痂与疤）、却仍甜（她的忠诚甘之如饴）；咬苹果的悠闲动作与那句平铺直叙的否定（did not ask you）叠在一起，把神坛上的天使拉回账本现实：不是你奉献不
+ch03 burning the green dress.md:61 **中文理解**：「Anne Pengelly，」Veronica 在我耳边嘶声说。「你母亲吃掉了她本要嫁的那个男人，好把她腾出来，许给海边某个傻小子。那人的名字我忘了。」……「也许那本来就是不值得记的名字。」
+ch03 burning the green dress.md:63 **为什么这样写**：吃人被写进婚事调度（freeing her hand）——母亲的胃口承担了媒婆的职能，谋杀与体面在同一句里完成交割；「I’ve forgotten his name」是全书到目前最冷的一笔：受害者连名字都被仆人的记忆淘
+ch03 burning the green dress.md:107 血洗得掉，坟泥洗不掉——绿裙烧成灰的同时，Veronica 的天使梦被一句「她没有开口要你」扎穿；而裁缝铺里那个道谢的新娘证明：在这个镇上，被母亲吃掉一个人，是可以收到「谢谢」的。
+ch04 the red ink letter.md:9 - **一句话概括**：母亲用一场天气对账逼 Rue 当面说谎，又用一封红墨水信把「被需要」当爱递出；请柬上钉着一只还在扑翅的白蛾——新的猎物已在路上。
+ch04 the red ink letter.md:11 - **Tropes 兑现/反转**：哥特「恐怖屋主夜访」反转成「母亲哄睡」；恐怖信（红墨水）写的是柔情；白蛾当图钉——连钉请柬的动作都要让某个活物继续挣扎。
+ch04 the red ink letter.md:12 - **人物弧线**：母亲首次长段自我陈词（famine-stripped / if not loved, then wanted）——她要「被看见」，给不出爱只给得出「被需要」；Rue 学会官方式说谎，并对「空位用什么填」继续无解。
+ch04 the red ink letter.md:19 **中文理解**：书架排满一墙，沉重的木柜带着雕花顶和玻璃门。柜门开着，铰链锈住，露出里面破碎的珍藏。一具具娃娃残件——有头无身、无脸，开裂着积灰。僵直的动物被剥制成标本封在玻璃后，用暗淡的黑眼回望我，尸体冻住，内里换成了填充物。还有小玩意
+ch04 the red ink letter.md:26 **中文理解**：而我留着它们，因为是她给我的。……今晚没有幽灵来陪我。Hope 不在她的角落里；我仍能听见她的绳套吱呀的微弱声响。来的是我母亲。
+ch04 the red ink letter.md:33 **中文理解**：「今天没下雨，」母亲说，爬上我身旁的床垫。一股灰尘在低光里升起、打转。「你今天去哪儿了，Rue？」……我没有转身，保持仰躺，望着挂在床柱上的顶篷。帐纱磨破了，系绳处豁着大洞，如今像一张大蛛网。母亲静止着，不动，也不呼吸。一
+ch04 the red ink letter.md:36 **读者视角提示**：记下这条规则：母亲掌握天气情报，谎话必须过天气审计。Rue 后文所有行踪都要先跟天气对表——这是这个家的安检门。
+ch04 the red ink letter.md:40 **中文理解**：「我走去海边看浪了，」我回答。我等着看床上那尊雕出来的小天使会不会像有时那样对我眨眼。「浪很高，天空跟着浪一起吼。」……耳边一阵低嘶，那不是呼气，是刮出来的厌恶。「别跟我提水，别提风暴的海。」……「是你问我去了哪儿的。」…
+ch04 the red ink letter.md:42 **为什么这样写**：实话换来生理性厌恶（rasping of disgust）——真话在这个家是最脏的语言；「You asked me where I went」的申辩成立却不被采纳：问话权在母亲，答案的对错也归她；「Then lie.」
+ch04 the red ink letter.md:43 **读者视角提示**：记住这个错位——母亲不许海（水的世界），只许镇上（食物的世界）。她的地图上，安全的谎言区域恰好是捕猎半径。
+ch04 the red ink letter.md:50 **读者视角提示**：注意她对「海」的敌意没有解释——大海对母亲意味着什么（她的来历？她的对手？），是本书埋的长线之一，先标记不求解。
+ch04 the red ink letter.md:64 **读者视角提示**：这是 Rue 的第一个完整谎言表演。记住它的工艺水平——她后文对母亲、对镇上人、对自己，用的都是这套「七分真+色卡+换挡」的技术。
+ch04 the red ink letter.md:68 **中文理解**：「那之后呢？」她的声音温柔、动听。我可以假装它没有牙齿。……「我就回家了。」……有那么一刻，母亲在我身旁一动不动。她是冷的；皮肤底下什么都没有——没有心跳，也没有蛆虫。她悬在时间之外，一只完美的玩偶。然后她起身替我掖被，掖
+ch04 the red ink letter.md:70 **为什么这样写**：「我可以假装它没有牙齿」是 Rue 的生存语法的完整陈述——把威胁的来源想象掉，威胁就暂时不存在；「neither heartbeat nor maggot」两侧夹击：连腐烂都算运动，母亲的静止比死亡更死；盖被「alm
+ch04 the red ink letter.md:71 **读者视角提示**：把「试穿人性」记成母亲的动作标签：她所有的柔情（盖被、贴心跳、道晚安）都该用这套镜头看——合身就继续穿，不合身就脱下。
+ch04 the red ink letter.md:82 **中文理解**：我独自醒来时，房间里是实心的黑。蜡烛燃尽了，炉火是冷的。我被毯子裹住，掖得紧到几乎不能呼吸，像一件裹尸布。母亲走了，大地在用一种我永远不会的方式呼唤她。
+ch04 the red ink letter.md:103 **中文理解**：这时我看见了——床头柜上，一封以母亲笔迹写成的信。墨水是红的。……我从毯子茧里扭出来，惊得那无名幽灵逃开。我展开信纸，在昏暗的烛光里眯眼去读。
+ch04 the red ink letter.md:105 **为什么这样写**：红墨水不加说明——读者刚看过桌布上「太黑太稠不是酒」的红色，此处不必再解释原料；「cocoon of blankets」把盖被的后续完成：母亲留下的温柔最终成了需要挣脱的茧；连幽灵都被她的动作惊逃——在亡者眼中，Rue
+ch04 the red ink letter.md:106 **读者视角提示**：记住「母亲的笔迹=红墨水」这条 sensory 规则：后面再出现手写信件，颜色就是成分表。
+ch04 the red ink letter.md:110 **中文理解**：我的宝贝。你睡得多甜，看上去多么圣洁。我几乎可以相信你是上天赐予的——相信从我这不洁的子宫里生出的东西竟会美好、无辜。你是吗？早在我的亡者化之前，我就被饥荒剥空了，从里到外被吃尽，无爱，无欲。如果我也能像我看你这样被人看着
+ch05 a kiss without teeth.md:12 - **人物弧线**：Rue 试死失败并亲口承认想活；Veronica 摊牌（Ladies 供无辜者）；Oren Pengelly 登场——Anne 的弟弟，知情、克制、以「我姐姐很幸福」关闭话题；Rue 的「A whore」自嘲与「tea
+ch05 a kiss without teeth.md:13 - **叙事手法**：浴室（水）—马车（水洗陆地）—舞会（不能过水的母亲）三级水意象推进；对话里的情报密度逐段加压；「without teeth」系列词（假想的声音/真实的吻）贯穿两章作扣。
+ch05 a kiss without teeth.md:42 **为什么这样写**：供应链条被点明：Ladies 是进贡的中间商，罪名叫「小偷、娼妓、忤逆」——在母亲的世界里，这些「罪」的量刑就是死；「if that soothes your senses」是 Veronica 的毒药包糖纸：她给真相
+ch05 a kiss without teeth.md:50 **读者视角提示**：记住海在这本书里的位置：母亲过不去的地方（后文）、洗净她的地方（此处）、她试过死的地方（浴室的水）。水是她的另一条命运线。
+ch05 a kiss without teeth.md:54 **中文理解**：Monkturn House 的舞厅堆满鲜花，粉彩花阵排进巨大的花瓶，绕上拱门，从枝形吊灯上垂下来。花香浓得压人，我头都疼了——像要盖住某种看不见的东西散出的恶臭。至少在 Folkehaven 没有伪装：母亲在她的腐朽展览
+ch05 a kiss without teeth.md:56 **为什么这样写**：上流社会的花香与母亲的腐臭是同一件事的两种会计制度——一个入账为「芬芳」，一个入账为「恶臭」，但「coming from things unseen」承认了底下是同一堆东西；「no pretense / a trans
+ch05 a kiss without teeth.md:68 **中文理解**：因为母亲不能亲自来。她过不了环着我们家的那圈急流。……我没有回答，只把话咽下去，嚼成苦胆汁。
+ch05 a kiss without teeth.md:70 **为什么这样写**：答案被写成了地理事实——母亲的缺席不是选择而是禁区：环宅的急流是她过不去的边界，这座庄园在水面这一侧拦住了它的主人；「swallow my words, turning them to bitter bile」把没说出
+ch05 a kiss without teeth.md:71 **读者视角提示**：记住这条物理常量：母亲不能过流水。它解释了她为什么需要 Rue 出门猎食，也预告了水在结局里的角色。
+ch05 a kiss without teeth.md:75 **中文理解**：因为在我体内烂着一样东西，经由那条曾把母亲和我绑在一起的亵渎纽带传递过来。我们共享过一具身体、一个子宫——像母亲入夜爬进去的那个狭窄地窖。我不知道怎么在离了她的时候做为一个独立的个体存在；虽然我们之间那根肉脐带早就被咬断、
+ch05 a kiss without teeth.md:77 **为什么这样写**：「We shared a body, a womb」把母女同体写进生理史——子宫的形状与母亲的地窖同构，她出生的地方就是母亲睡觉的地方；「severed and devoured」与「bound」并存：物理的剪断不等于
+ch05 a kiss without teeth.md:89 **中文理解**：「你不揭发，我也不说。」他耐心等了一瞬。「一支舞，换你偷走的最后一片牛肉。」……我想起来了。我怎么会忘了？「你在我母亲的宴席上。」我把戴手套的手放进他掌心，由他领着我踏进一支舒缓的华尔兹。
+ch05 a kiss without teeth.md:99 **读者视角提示**：把这条罪名记在 Horewith 名下：他不肯放人。母亲吃他吃的不是「罪名」，是「不放人」这个行为本身——本章之后，Rue 对猎物名单的怀疑有了第一批实据。
+ch05 a kiss without teeth.md:103 **中文理解**：他挑起一道深色的眉，目光钉在我身上。舞步陡然一僵，环在我腰上的手臂收紧，手指扣在我的胯侧。「我知道我姐姐很幸福，」他说。「我只想知道这么多。」
+ch05 a kiss without teeth.md:106 **读者视角提示**：这是 Oren 的全部底牌：知情、容忍、护姐。往后他对 Rue 的每一分温柔都要放在这个背景下称重——他娶的不是杀姐仇人的女儿吗？他认了。为什么，是本书最重的伏笔之一。
+ch05 a kiss without teeth.md:113 **读者视角提示**：「teeth」是全书的恐怖计量单位：母亲的笑有牙、Veronica 的话有牙、而 Oren 的吻没有。用这个标准去量后面每一个角色。
+ch06 sylvatica and piceus.md:13 - **叙事手法**：双线互文开场（主线 Rue 的母亲在本章是婴儿）；出生—命名—童年—相遇四段式；食的逻辑贯穿（乳、肥猪、鹿尸、蛆、眼）；引文（伪经文）作为咒语功能使用。
+ch06 sylvatica and piceus.md:19 **中文理解**：母亲祈祷生男孩，绝望到把膝盖磕裂在地板上。所以，当女儿带着一身红、呜咽着从她子宫里滑出来时，她吩咐女仆处理掉它——闷死它，从窗户扔出去。但我被抱到了她的胸口，而女仆，带着一个她知道母亲不配得到的温柔微笑，擦去了她额头上的汗
+ch06 sylvatica and piceus.md:26 **中文理解**：「她会给你生健壮的外孙，我不怀疑，」女仆说。「男孩们会在农场上给你干活。还会再来孩子的，儿子会来的。上帝保佑，儿子会来的。」……母亲皱眉受着乳头的拉扯，受着她喂给我的这顿不配得的盛宴——这样一个不被想要的生物。「把我嘴里掉
+ch06 sylvatica and piceus.md:29 **读者视角提示**：注意母亲的语言里没有一次「她/女儿」，全是物量词。这个孩子后来把人叫做「食物」，语法的根源就在这里。
+ch06 sylvatica and piceus.md:33 **中文理解**：一声尖叫截断了 Joan 的话；那些话是同情、是怜悯还是恼怒，她从来没告诉过我。那是一声粗嘎的喉音。母亲弓起背，脊椎弯曲，两腿大张。她哭喊，调子拉得又长又低，血溅在大腿上、溅过毯子，然后她把另一条生命拽进了人间。一个双胞胎
+ch06 sylvatica and piceus.md:36 **读者视角提示**：记住这层双胞胎关系——主线里「母亲吃弟弟妹妹」式的家庭结构，源头是这对龙凤胎的差别待遇。
+ch06 sylvatica and piceus.md:40 **中文理解**：母亲俯身，从自己血污的两腿间掰出扭动的婴孩，把他拽到胸口。她把我挥开，Joan 后来说，像拍苍蝇一样拍我，仿佛我是只昆虫，某种寄生虫。……「上帝是仁慈的，Joan！看！看他，肥得像一头春猪，也一样的贪吃。」母亲把他举起来，
+ch06 sylvatica and piceus.md:49 **为什么这样写**：女儿的估值清单（肥、漂亮、嫁出去、换地）与牲口的出栏标准完全同构——「it」这个代词完成了最后的物化盖章；婴儿的安静被解释成早熟的绝望（「anything but would not be tolerated」）：她第
+ch06 sylvatica and piceus.md:54 **中文理解**：母亲最后看了我一眼——看这个裹在血污毯子里的冰冷安静的小东西——然后低头，对着正在她肉上吮吸的儿子。她再没看过我一眼，连在教堂里、在圣盆前我们领名字的时候都没有。Godfrey 属于受祝福的儿子，一个又好又壮的名字。Syl
+ch06 sylvatica and piceus.md:57 **读者视角提示**：记住「Sylvatica」的授予人是「女仆的怀抱」而不是母亲——这个孩子的身份从第一天就挂在 Joan 身上，母亲只是名义上的产主。
+ch06 sylvatica and piceus.md:61 **中文理解**：时间拖着走，把我们每个人身上都拿走几块。我们被没耐心的手拽着长大，穿过脆裂的夏天和赖着不走的冬天。虽然我的骨头比 Godfrey 的更从皮肤里凸出来，他也没能逃过父亲的手。那只手来得又快又勤，淤青的抽痛一圈圈裹着饥饿的绞痛
+ch06 sylvatica and piceus.md:64 **读者视角提示**：这是与主线 Rue 童年的对照点：Rue 缺爱但从不缺食（母亲的餐桌），Sylvatica 缺爱也缺食。饥饿是她的第一个神。
+ch06 sylvatica and piceus.md:70 **为什么这样写**：她看恩人先用贬词（cow's eyes, big and useless）——被嫌弃养大的孩子只会用嫌弃的语法处理爱；「I prefer the mocking over the pity」是这段最疼的一句：怜悯提醒她
+ch06 sylvatica and piceus.md:78 **读者视角提示**：记住「两轮满月」这个视觉签名——主线里那位不老的母亲有没有类似的眼睛标记，值得往后每一章核对。
+ch06 sylvatica and piceus.md:92 **读者视角提示**：记住这三句咒文——它是 Piceus 给她的「许可证」：吃，是被应许的。主线母亲后来教给 Rue 的一切规则，最早都在这里签了字。
+ch06 sylvatica and piceus.md:99 **读者视角提示**：注意「决定做朋友」的主语是她。全书后面所有「母亲的选择」（chose your mother——Veronica 的句式）都源于这类自我授权的瞬间。
+ch06 sylvatica and piceus.md:106 **读者视角提示**：留意「hollow」这个词从本章起的双重身份：谷地（地理）与空腔（母亲的家）。此后每见一次，都在加深「猎食发生在洞里」的设定。
+ch06 sylvatica and piceus.md:113 **读者视角提示**：这是「母亲为什么吃人」的最早证词：填肚子是一开始就用错了的东西——鹿眼止住的痛，本来该由爱来止。记住「There is a piece of me filled up, and I like it」，主线 Rue 的 
+ch07 ouroboros.md:9 - **一句话概括**：Maltby 的残骸还没收拾完，母亲已把话题转到那支舞上——允许她尝幸福、禁止她离开，然后是一封 beef 三明治请柬把她带进第一间没有鬼的房子。
+ch07 ouroboros.md:11 - **Tropes 兑现/反转**：「恶母拆散鸳鸯」反转——母亲批准恋爱（只禁离开）；茶会戏反转——他姐姐的未婚夫是她吃掉的，两人隔桌谈论同一具尸体。
+ch07 ouroboros.md:12 - **人物弧线**：Rue 自认 knacker（屠宰师）并想私藏一小块灵魂；母亲给出全书最重要的自我陈述（ouroboros）；Lady Pengelly 现身——Ladies 的垂死成员，「你的负担不是我的」；Oren 的「I am 
+ch07 ouroboros.md:26 **中文理解**：这是一场慢死，一场拖长的处决，在大多数人看来罪不至此。我并不确切知道 Maltby 先生的罪名——他只是赌光了家产，还是有什么更黑的东西，那种能让他的灵魂对母亲来说更甜的东西。
+ch07 ouroboros.md:28 **为什么这样写**：罪名的模糊是有意的：Rue 到 chapter 末都没有拿到 Maltby 的完整罪状——这个家的死刑从来不需要公开审理；「something darker, something that made his soul 
+ch07 ouroboros.md:33 **中文理解**：她很少告诉我；对她来说这不重要。但对我重要。如果我要做我母亲的屠宰师，我需要知道死囚们罪有应得。尽管这一切骇人听闻——腐朽、无休止的饥饿——我仍想给自己留一块灵魂。它可以是一小片，一粒余烬，几乎不发光，但我体内要有一块好东
+ch07 ouroboros.md:47 **中文理解**：「又有谁会要我呢，母亲？」我身后有幽灵，沉默地听着。「Folkehaven 是我的坟，正如它是你的坟。」……我母亲为此笑了，嘴角拉开，牙齿一闪。「死亡碰不到你，我的宝贝。我禁止过它。」
+ch07 ouroboros.md:54 **中文理解**：「你从我的子宫里落下来，」母亲开口，指甲穿透桌布扎进底下的木头。「湿着，啼哭着，浑身冒着生命的臭味。我本可以把你整个吞下去，连同你所有的甜和冲鼻的天真一起咽掉。哦，但我把你抱到了胸前，而你在我身上大吃。我们是衔尾蛇，无尽。
+ch07 ouroboros.md:57 **读者视角提示**：这是理解母亲的中心文件：她的爱以「未吃的克制」为计量单位。她说「你是我的」，与她说「你是食物」用的是同一种占有语法。
+ch07 ouroboros.md:63 **为什么这样写**：信的每一处物证都在报警：蛾子镇纸（母亲的白蛾图钉工艺）、泥土味（地下）、血指印（谁的血？）——这封信从母亲的世界穿过来，带着巡检章；「beneath a paperweight」暗示它是被「放下」的：母亲知情，甚至批准
+ch07 ouroboros.md:64 **读者视角提示**：记住信件的三重海关印记（蛾、土、血）——Oren 的邀请函要进入 Folkehaven 的势力范围，必须带上这个家的气味。这段恋情的每一步都在母亲的眼皮下。
+ch07 ouroboros.md:70 **为什么这样写**：邀请函用最标准的社交格式起笔——格式越端正，越衬出下一段的私货；「in want of your wonderful company once more」的「want」在母亲的信里刚出现过（if not loved, 
+ch07 ouroboros.md:75 **中文理解**：我必须坚持——因为你也许忘了在宴席上拿走最后一块好牛肉这回事，可惜，我没有忘。我们的厨子最爱吹嘘他做的牛肉辣根三明治天下第一。请别丢下我一个人陪着我母亲享用它们。你的忠诚的，Oren
+ch07 ouroboros.md:77 **为什么这样写**：情书的全套修辞建立在一块牛肉上——他把定情梗做成了回访借口，把「你吃掉的东西」变成「请你来吃的东西」：同一个胃，两种用法，这份邀请函其实是一份身份转换书；「Please do not leave me to enjoy
+ch07 ouroboros.md:89 **中文理解**：老妇人动了动，蒙翳的眼睛眨着看我。那双眼睛与她儿子的一样蓝，却带着 Oren 没有的某种奇怪的锐利。Lady Pengelly 坐起身，我听得见她骨头的咯咯声；她咳进手帕，咳出来的是红的。「现在它几乎不属于我了，」她说，字
+ch07 ouroboros.md:103 **中文理解**：「你知道他在自己的守灵宴上用膳？」……「母亲告诉我的时候，我几乎不信。」……「但现在你信了。」我把肉从面包中间撕下来，慢慢品。它煮过头了，调味太重。很干。「他花了几个小时才死。」……「很好。」
+ch07 ouroboros.md:113 **读者视角提示**：记住「余温的回声」这个说法——它将成为 Rue 衡量 Oren 的单位：与母亲的冰唇、Veronica 的潮气对着量。
+ch08 you taste like me.md:9 - **一句话概括**：Rue 夜复一夜挖坟救母、以掌心血换一个吻；花园里母亲对着海落黑泪，Anne Pengelly 却深夜独闯这片坟场来谢恩——并讨一段死状来止痛。
+ch08 you taste like me.md:11 - **Tropes 兑现/反转**：「复活夜访」反转——被救的是母亲，且她根本不需要救（自己能挖出来）；「感谢救命恩人」反转成「请给我讲他怎么死的」——安慰的语法在这个世界是倒装的。
+ch08 you taste like me.md:12 - **人物弧线**：母亲的爱恨分界被画清（爱星星、恨水）；Anne 的勇气与黑暗胃口同时亮相；白猫登场（星尘般纯净）——它将在尾声回来。
+ch08 you taste like me.md:26 **中文理解**：然后我开始挖，指甲裂开，双手酸痛，一路抓到母亲安眠的地方。她一动不动，也不帮忙——尽管我知道她做得到。在我来之前，她自己就曾抓挠着从坟里爬出来过。……我继续挖，直到碰到冰冷的肉。没有尸体，没有等着下地狱的朽坏皮囊，只有一件
+ch08 you taste like me.md:42 **为什么这样写**：宴会以「淑媛降临」的措辞预告——方向感是她们的（descend upon us），怪物的家成了被朝拜的圣地；「dine with us monsters」的自称毫无羞耻，反而带着主人的从容：母亲对自己物种的认证完整无缺
+ch08 you taste like me.md:61 **中文理解**：「你在嘲笑我吗，Rue？」……我转过身面对母亲。她的脸离我很近，白唇向后拉开。我的血还沾在她的嘴角。「母亲？」……「我被圈在一圈流动的水里，我试过把它变成我的。当我往里面倾倒那样的恐怖，那些水怎么可能保持干净？而眼前这片…
+ch08 you taste like me.md:71 **读者视角提示**：把「黑泪」记进母亲的物证档案：与黑血、红墨水信同一套色彩体系。Rue 的安慰方式（指向星空）后面会反复使用——她给母亲的止痛剂从来只有仰望。
+ch08 you taste like me.md:75 **中文理解**：「把星星摘下来，亲爱的，」母亲低声说。「从天上摘下来，带进屋里，这样我就能爱它们。」……「带我去吧，」我说，声音轻得几乎听不见。我想把这句话吞回去。……我母亲笑了，是一种温柔的东西。「要是我能就好了。」
+ch08 you taste like me.md:96 **中文理解**：Anne 摆弄着大衣袖口。「我想谢谢你，谢谢你是我的救赎。我必须来告诉你。Oren 说你去我们家喝过茶——我要是早点知道，一定也在！」……「你得走。」……「Meremoth 小姐，你不明白，」Anne 又靠近一步，眼睛睁得
+ch08 you taste like me.md:103 **中文理解**：「我们不需要、也不想要你的感激，Pengelly 小姐。要是你知道 Horewith 勋爵落了什么下场，你的感谢大概就不会来得这么快了。你哥哥知道你在这儿吗？」……「没有人知道我在这儿。」……「那你就是个蠢货。」我环顾四周
+ch08 you taste like me.md:105 **为什么这样写**：Rue 的驱赶话术句句是保护：她用「你知道他下场吗」吓退，用「fool」定性，最后那句「be wed in peace」其实是祝福——她赶人的语法里藏着她自己没有的东西（安稳的婚礼）；「Does your brothe
+ch08 you taste like me.md:117 **中文理解**：她朝我伸出手，握住我的手，我由她握着，心里是愉快的惊讶。……「我母亲把他的静脉从手腕里抽出来，缠在手指上，像一轴线，」我告诉她。「他一直尖叫，直到她吃掉他的舌头。」……Anne 笑了，她的手指几乎掐疼我的。「谢谢。」……我
+ch08 you taste like me.md:149 她一铲一铲挖出不需要被救的母亲，换来一句「你尝起来像我」；花园里母亲对海落着黑泪说带不走她——而坟场另一头，Anne 正把手伸进她掌心，讨一段够痛的死状来止自己的痛。
+ch09 the ladies banquet.md:19 **中文理解**：母亲当然坐在长桌主位。胸前挂着珍珠，与她本人一样泛着乳光。我的母亲是一种可怖的美，苍白如死，异样，魔性。而且是我的。我坐在她身侧，穿着我最好的裙子，脖子上沉沉压着一只防腐处理的、泛虹光的圣甲虫。
+ch09 the ladies banquet.md:28 **为什么这样写**：宴席的菜单在开席前就已定完：耳语即点单——贵妇们报菜名（奸夫、赌徒、蠢货），母亲听菜流口水，捕食链的商务环节被写成宴前的礼仪；「down their long noses」的微笑姿态把居高临下画成生理动作：这些女人从骨
+ch09 the ladies banquet.md:33 **中文理解**：「敬堕落者，」母亲举杯开席。「敬我享用过的罪。把你们的邪恶交给我，因为我是永恒的。」……其他人举杯，酒几乎要溢出杯沿。那红几乎跟我母亲杯中之物一样红——但远没有那么稠。
+ch09 the ladies banquet.md:35 **为什么这样写**：祝酒词的三段是母亲的教义摘要：对象（堕落者）、业绩（享用过的罪）、要求（交出邪恶）——最后四个字「for I am eternal」不是 boast，是收货凭证：她的永恒就是一切交易的地基；「not nearly as
+ch09 the ladies banquet.md:36 **读者视角提示**：把「稠的红」记成母亲的体液标准（酒、血、墨水全部对齐）。凡人的版本永远稀一点。
+ch09 the ladies banquet.md:40 **中文理解**：「我们感谢您，夫人，」我左边的女人开口。「感谢您的谨慎周到。」……母亲笑了，一声尖利的高笑，没有半点真实的愉悦。「那提醒提醒我，亲爱的 Henrietta，那个词是什么意思。所谓谨慎——你觉得我的行事里有一种礼貌？一种对你
+ch09 the ladies banquet.md:47 **中文理解**：无论拥抱过多少次，我都没法习惯那个温度。我渴望被像孩子一样抱着，某种埋在很深处的东西在渴望。也许母亲也渴望——就像所有母亲那样——把孩子搂紧。我想要她想要我。想摸到她骨头里的疼、她那颗石化口袋般的心里的疼。可她碰我的时候，
+ch09 the ladies banquet.md:54 **中文理解**：「亲爱的鸽子，傻母鸡，」母亲接着说。「你们的话怎么伤得了我，我被自己的血亲割得深三倍？你觉得自己跟他们一样重要吗？」……「不敢，夫人……」「我从你们的供奉里啜饮，」母亲说，白眼睁得极大，嘴角挂着讥笑。红色沾在她皮肤上，渗进
+ch09 the ladies banquet.md:63 **为什么这样写**：Rue 的应对（灌酒 deadening）与母亲的统治术同框——一个用麻醉退出剧场，一个用鼠群威胁续约；「cannot remember his crime」是本章最冷的一笔自白：勾走丈夫、送进坟墓，罪名她连记都不记—
+ch09 the ladies banquet.md:68 **中文理解**：夜晚在高声闲谈里展开，稀切的肉片传来传去，肉汁淌过金盘、滴上白色亚麻。陈年老酒一瓶瓶地开，多到盖过了血的臭味。我喝到够、再喝过头，什么都没吃。房间旋转、漂浮、下沉——妙极了。这一切有种厚度，像天鹅绒一样软，也一样沉。笑声回
+ch09 the ladies banquet.md:70 **为什么这样写**：宴席的「正常化」描述（闲谈、切肉、换瓶）与「drowns out the stench of blood」并置——好客的规模靠血臭的浓度对冲；「I drink my fill and then more, and I 
+ch09 the ladies banquet.md:75 **中文理解**：我的头耷拉下来，太满、太沉、太吵，最后靠上了什么坚硬的东西。那份冰凉贴着我的脸颊，很好。 ……「睡吧，孩子，」母亲在很远的地方低声说。「你看上去又迷失又疲惫。」
+ch09 the ladies banquet.md:77 **为什么这样写**：她醉倒时找到的枕头是「something hard」——冰冷的桌面（或别的硬物）比家中的床更能安放她：这个家只有冷的东西不会背叛她；「far away」的声源距离把母亲的温柔做成环境音；「lost and weary」
+ch09 the ladies banquet.md:91 **为什么这样写**：无名鬼群的设定浮出水面：它们比她老（came before me, rotting long before I tore into this world）——缠的对象不是罪，是她的位置：谁坐在母亲女儿的位置上，谁就被这
+ch09 the ladies banquet.md:99 **读者视角提示**：死鼠的脸被吃掉——与母亲「眼睛留到最后」的食单对齐，连喂猫的猎物都按她的规格处理。白猫吃的每一口都是这个家的剩菜。
+ch09 the ladies banquet.md:103 **中文理解**：「你是怎么进来的？」我蹲低身子，手伸过去，不在意爪子划过我的皮肤。我的肉渗出一颗颗小小的血珠，我凑得更近，红顺着指尖往下滴。我把血弹向那小兽，它舔掉了。「小心啊，小东西，你逮到的那些小野兽。我母亲很爱吃它们的。」
+ch10 the circle of dead black.md:12 - **人物弧线**：Godfrey（受宠的儿子）在姐姐与恶魔的合谋里变成哭肿眼的猎物；Joan 被困如初；Piceus 全面摊牌（黑牙、焦炭气息、黑曜石眼睛）；Sylvatica 的饥饿开始换一种填法。
+ch10 the circle of dead black.md:33 **中文理解**：「我们不该惊扰死人，」Godfrey 的声音带着哭腔。「万一把他们吵醒，他们跟着我们回家怎么办？」……我冲他咧嘴。「那他们就会吃了你。」……「我要告诉母亲！」……「那我就告诉她你在老 Barker 坟上撒尿。」
+ch10 the circle of dead black.md:50 **读者视角提示**：记住「圈」的形状——死乌鸦围成的圈与母亲「circle of fluidity」（环宅之水）遥相呼应：这个家族的爱与威胁都爱画圈。
+ch10 the circle of dead black.md:57 **读者视角提示**：把「从内里黑透」记成这家人的体质描述——Sylvatica 后来吃人、母亲后来吃人，都是从内往外烂的顺序。
+ch10 the circle of dead black.md:68 **中文理解**：「今天有蛋吗，孩子？」Joan 问，挨着炉火坐，弯弯的腿收得紧紧的。她的手指弯了、扭了，却还在把细毛线织成给母亲的披肩。像那个马厩男孩一样，Joan 用劳作换一个屋顶。她和我一样被困在这里。……「没有，」我答，往并拢的火苗
+ch10 the circle of dead black.md:78 **读者视角提示**：注意「伸向门」的手——它将延续到 ch19（母亲死前姿态的母题）。这本书里手的方向从来都是人物的心事。
+ch10 the circle of dead black.md:85 **读者视角提示**：记住「quick death = mercy」这条等式——主线里母亲对猎物做的恰是「慢死」（Maltby 花了几个小时）。Sylvatica 求而不得的慈悲，正是母亲那一支的日常。
+ch10 the circle of dead black.md:96 **中文理解**：「你会不会把父亲的份偷走？他现在在家吗？少了的话他会察觉吗？」……「被他看见会抽你的。」饥饿磨尖了我的声调。……「如果被他看见。」他的靴子踩碎霜壳，一步步逼近，眼睛闪着焦油般的黑。「我看得到你。」我轻柔地甩着那只鸡，像村里
+ch11 a kiss like sunlight.md:19 **中文理解**：我身上有一部分，想把母亲放到这世上放开——把怪物们、他们的男人、以及所有介于其间的东西摆给她，让她一直吃到终于满足为止。因为我环顾这间镀金的屋子——无瑕的大理石、丝绸与天鹅绒、未被玷污的内里——我知道这里没有一个人配得上更
+ch11 a kiss like sunlight.md:47 **中文理解**：我感到泪的重量；母亲若在这儿，会把它们从我脸颊上舔掉。「那你就会把我扔进漂流里吗？」我钉在原地，舌头渴望更多的酒。我的心在胸腔里咚咚擂着，我盯着 Oren 看，想看他是不是也听得见。「我希望被忘掉。」……眼泪滑下来，我笑它
+ch11 a kiss like sunlight.md:56 **为什么这样写**：近距离清单全是「不完美」（漏刮的胡茬、疤、煤屑）——她在他身上找到的第一批东西全是人的毛边：folkehaven 的美是 porcelain 的，这里的暖是带缺陷的；「doesn't feel like suffoca
+ch11 a kiss like sunlight.md:57 **读者视角提示**：记住「暖会辐射」这个细节——它与冰唇母亲、潮气 Veronica 构成三种体温。Rue 此后的择偶标准已由温度决定。
+ch11 a kiss like sunlight.md:89 **中文理解**：其实我连半醉都没有，头脑正以一种我不喜欢的速度清醒。「我知道治我这场惨的药方，Oren。」……「我不会毁了你。」……我大笑起来——那笑声太像我的母亲，我的心冻结了。我掐住喉咙，去堵那个可怕声音的回声。
+ch11 a kiss like sunlight.md:92 **读者视角提示**：记住「笑声像母亲」这个身体恐怖时刻——Rue 的身份恐惧从价值观层面（terror or ash）下沉到了声带层面。她连快乐都不完全属于自己的喉咙。
+ch11 a kiss like sunlight.md:149 在「别点蜡烛」的书房里，一个尝起来像阳光的吻停在「Christ forgive me」上；她掐住喉咙堵住那声太像母亲的笑——而他用「因为我邀请了」和一池彩玻的光，把「被忘掉」的愿望翻成了「你受欢迎」。
+ch12 the refuse him vow.md:12 - **人物弧线**：Oren 完成全书最大胆的发言（strike Him from the heavens）；Anne 把「goodness in you」当面交付；Rue 对 Veronica 立威成功（I am winning）；白猫
+ch12 the refuse him vow.md:13 - **叙事手法**：教堂—墓园—家三级空间递进；手套被脱下的仪式感；「midday」的约定把母女作息变成约会的时间表；猫的捕食现场与母亲餐桌的镜像并置。
+ch12 the refuse him vow.md:19 **中文理解**：我不要她像往常一样跟着；我真正属于自己的东西太少了。我的时间、我的灵魂本身，都是母亲的财产。我想把这个四月早晨的一小片、一细条，留给我一个人。我想让它保持纯净，做成一段能折叠收藏的记忆——我知道里面没有 Folkehave
+ch12 the refuse him vow.md:54 **中文理解**：「日出之前，我要挖开我母亲的坟，」我坦白。「我没法带着坟泥和死亡的臭气去见你。」……他没有被这句惊到，而是抬手托起我的下巴，把我的头抬起来。「那就正午来，午后刚起的头几个钟头、黄昏之前；告诉我你什么时候到，我就在沙丘上等你
+ch12 the refuse him vow.md:61 **中文理解**：Oren 的头唰地转向我，亮蓝的眼睛闪着少年人的促狭。「只找有你的那些暗角落。」……这回轮到我脸红。热在我的脸颊上漾开，是一种安抚性的暖。我转开脸去看他姐姐。「见到你真好，Anne。」
+ch12 the refuse him vow.md:84 **为什么这样写**：外套是可穿戴的体温——他把自己的暖做成便携式送她上路；「at least up to the bridge」的让步句法暴露他清楚界限在哪儿：桥的那头是母亲的水域，他送客只送到国境线；「A friend would no
+ch12 the refuse him vow.md:92 **读者视角提示**：注意这场对质发生在餐厅（母亲的餐桌旁）——领地争议在领土中枢开庭。
+ch12 the refuse him vow.md:98 **为什么这样写**：立威的依据是孝心的纯度（devotion 的成色比较）——她用母亲的家法打母亲的臣子；「surprised by my venom」的补记是全书少有的自我旁白：她承认自己的毒是即兴的、比预想的浓；「She is a m
+ch12 the refuse him vow.md:103 **中文理解**：我们在沉默里站了一会儿，在黑暗里，在冷里。我们之间没什么可说的了；我们都在争母亲的宠爱，而我赢着。有时我希望换个结局——希望母亲能收了 Veronica，用她填饱她的饥饿、她的欲望、她的需要。但我是她真正的所有物，她永远不
+ch12 the refuse him vow.md:106 **读者视角提示**：把「true possession」与「wanted/needed」对齐看：母亲要她的方式是占有，Oren 给她的方式是邀请，白猫给她的方式是需要——三种「拥有」的等级表就是全书的关系刻度尺。
+ch12 the refuse him vow.md:110 **中文理解**：一声轻叫让我回头——不是鬼的呻吟。那只陌生的白色野猫在我床上等我，眼睛发亮，苍白的身子油光水滑。她胖了，被她大快朵颐的老鼠喂圆了。这时我才看见屋里散落的小小尸骸的碎片——几截内脏、一颗头、一节剥得发亮的白脊。我想知道她跟我
+ch12 the refuse him vow.md:112 **为什么这样写**：猫的房间是母亲餐桌的微缩复刻：盛宴的痕迹（碎尸）与餍足的捕食者（胖了）同框——温情与血腥在同一个「家」的语法里并行；「If the rats see her as monstrous」的问题把视角权交给了猎物：在老鼠的
+ch12 the refuse him vow.md:113 **读者视角提示**：记住这个问题——「怪物还是只是饿？」它是全书给母亲（也给 Rue 自己）留的最后一道辩护题。白猫的存在让这道题有了柔软的解法。
+ch13 i am full.md:19 **中文理解**：我再一次把 Veronica 丢下，一个字没留就走了。她看着我出门，抿着嘴、一脸阴沉，像一条被留下的狗。她不会告诉母亲的；她还没有告诉母亲我一个人出门的事。是因为她怕母亲根本不在乎我出门，还是怕她告状时母亲的反应——我不知
+ch13 i am full.md:26 **中文理解**：「再讲讲吧，Meremoth 小姐——你是怎么认识 Anne 的？」……我把一小块蛋糕塞进嘴里，粉色糖霜染了手指。杏仁甜，又轻。我又拿一块才答 Edward。「我先认识的是她哥哥。」……我考虑过把全部真相告诉他——一整件—
+ch13 i am full.md:33 **中文理解**：Edward 在野餐毯上挪了挪，从保温壶里给自己和 Anne 各续了一杯茶。然后他把 Anne 搂近，几乎是在把她拢在怀里。「东道主是你母亲，如果我记错的话？」Edward 问。……我把惊讶连同那口蛋糕一起咽下去，差点噎住
+ch13 i am full.md:70 **为什么这样写**：风暴一场戏把四人各自的优先级演示了一遍：Anne 护裙、Edward 追帽、Oren 护人——帽子可以飞，锚不能松；「anchoring」的 maritime 比喻接住本书的海：锚是船与海底的关系——他把拴绳从母亲手里
+ch13 i am full.md:71 **读者视角提示**：把「anchoring」与「tethered beings」（ch07）对读：她曾被血绳拴向母亲，现在有一只手想当她的锚。两根绳的拉力方向相反，她的身体就是绳结。
+ch13 i am full.md:75 **中文理解**：有人竟忍心伤害 Anne 这样天真无邪的东西——我想不通。我恐怕 Horewith 勋爵死得太便宜了；我本想让我母亲把他的肋骨一根一根拔出来，把他身上的小零件一样样剜掉。如果他现在真在 Folkehaven 的走廊里游荡，
+ch13 i am full.md:77 **为什么这样写**：保护欲的背面立刻长出酷刑清单——她替 Anne 想到的报复比母亲的实际手法（红线拆解）更细致：拔肋骨、剜零件——她的想象力已经可以在母亲的行当里当设计师；「eternal torment」的承诺对象是一个鬼：她要追进死
+ch14 a leashed freedom.md:9 - **一句话概括**：母亲吃掉帮厨女孩又道歉要再雇一个；喂鼠的慈母脸、全知的鼻子、以及「拴绳的自由」最终定价——而 Lady Pengelly 的死讯把葬礼请柬送到了 Rue 手里。
+ch14 a leashed freedom.md:11 - **Tropes 兑现/反转**：「恶母吃仆人」兑现后又反转——道歉的口气是真的，吃的下顿也是真的；「慈母喂雏」的画面复制到老鼠身上，唯独不给女儿。
+ch14 a leashed freedom.md:19 **中文理解**：一个女孩坐在桌边，女仆帽歪扣在她的深色头发上。那个天性温良、帮我浴缸提过水的帮厨女孩安静地坐着；我记不起她的名字。雇人帮工是 Veronica 的主意——点炉子、点蜡烛、扫地。把血从石板上刷掉。……母亲给的钱不少，有那么短
+ch14 a leashed freedom.md:26 **中文理解**：但我母亲腻了。也饿了。……女仆如今被摆成坐姿，双手规规矩矩叠在膝上。我能看见她喉咙里的骨头，里面断了的筋。她的眼睛是空的，黑而空的坑。她虽然坐在桌边，却又站在不远处，嘴豁着，尖叫着，朝我伸出手，好像我会救她。好像我救得了。
+ch14 a leashed freedom.md:29 **读者视角提示**：这是本章给「雇人」这件事的成本核算：工资（母亲付）+一条命（母亲收）。Veronica 的用人计划每次都以此告终。
+ch14 a leashed freedom.md:33 **中文理解**：母亲按了按嘴角，从牙缝里剔出内脏的碎块。「替我给 Veronica 带个话，就说我抱歉，」她放下餐巾。「也许你能帮她再找一个女仆？我看得出你多享受这孩子的伺候。」……「可你还是会把她吃掉，」我说。「Folkehaven 已
+ch14 a leashed freedom.md:40 **中文理解**：母亲的脚边有老鼠，肥大的一群，黑眼睛黄牙。它们啃着她赤裸的脚，啃着脚跟上剥皮的血肉。她弯下腰，挽起裙袖免得沾血，露出骨白的小腿。几乎称得上斯文地，她从自己腿上撕下一小条肉，丢在地上。鼠群窜过去，吱叫着、抓挠着争抢那块从她身
+ch14 a leashed freedom.md:42 **为什么这样写**：喂鼠的全程按「淑女的操作规范」执行（挽袖防污、斯文撕肉）——她把自残做成了下午茶礼仪；「doting eyes」与「grotesque」并置：慈爱这个表情在她脸上是移植的器官，会排异；末句「She does not l
+ch14 a leashed freedom.md:43 **读者视角提示**：记住这个「给鼠的慈态」——它解释了母亲的爱的供给逻辑：她的温柔只流向不跟她争「孩子」位置的生物。老鼠安全，因为它们不叫她母亲。
+ch14 a leashed freedom.md:50 **读者视角提示**：注意这段对话的翻译层：Rue 说人话（舞会），母亲听味儿（人味）。两套语言系统在本章各跑各的，直到下一块撞车。
+ch14 a leashed freedom.md:61 **中文理解**：「你会开口吗？」她静止着，问题压得沉。「你有没有开口求过，让你独自一人踏出这座房子？你以为我不知道？」……我咽了口唾沫，喉咙发紧。「Veronica 还是告诉你了。」……母亲又从腿上撕下一条肉，举着让老鼠们抢。「我闻得到你
+ch14 a leashed freedom.md:63 **为什么这样写**：母亲的反击有两层：程序层（你从没正式申请过）与感官层（我闻得到）——她的管辖权不靠门锁靠鼻子；「the world on you…them on you」的嗅觉报告细到能分辨「世界」与「他们」的配方——监控的精度是爱的
+ch14 a leashed freedom.md:68 **中文理解**：「你要明白，我不会的。」我忧心地抓住她的手。她的手湿着，是她自己的血，温热滑腻。「我会永远回到你身边，母亲。永远。」……「我需要你，孩子。」……「我知道。你要我，我就在。」……然后她站起来——一具提线的尸体。一具美丽的死躯
+ch14 a leashed freedom.md:70 **为什么这样写**：安慰的双手按在血手上——她的忠誓与母亲的血同握：这个家的每一次和解都要带一点血印；「a corpse with strings」的提线木偶意象把「谁在提她」的答案留给读者（绳子另一端是水？是岁月？）；爱的自白书用了最诚
+ch14 a leashed freedom.md:75 **中文理解**：母亲把我拉近，长指插进我的发，尖利地亲我的脸颊。她的手还是湿的——女仆的血、老鼠的血都在。「我的宝贝，我想我会乐意看到你自由。你若开口，我就这么办。但最终，我会来找你。穿过瘟疫与废墟，我会重新找到你。」……这就是了，我母亲
+ch14 a leashed freedom.md:77 **为什么这样写**：母爱的定价在这里完成：可以走（free）+会被追回（find you again）——两句话拼起来是一张遛狗许可证；「through plague and ruin」的追捕范围包括末日——她的爱不是深情，是续航能力；R
+ch14 a leashed freedom.md:96 **中文理解**：Veronica 一巴掌拍在我后脑，把我拍倒在湿草里。「你这个讨人厌的小鬼。」……「我的倒霉多得可以匀你点，」我一边从地上爬起来掸裙子一边说。我在她面前站定，脸颊还火辣辣的——我扇了回去。……Veronica 的脸瞬间僵住
+ch14 a leashed freedom.md:99 **读者视角提示**：把「信被母亲先拆」记进监控档案——这个家的信件审查从不掩饰。下一块的信文里，母亲的批注是看不见的，但邮票已经盖过了。
+ch14 a leashed freedom.md:103 **中文理解**：我亲爱的 Rue：我怀着悲伤写信告知，我的母亲昨晨过世了。虽然这在意料之中，知道这件事也没有减轻我此刻的悲伤。我以为我们会有更多时间……我们不都在盼着更多时间吗？Anne 的心碎是咬人的东西，不让她安歇。她一直在哭嚎，谁也
+ch14 a leashed freedom.md:117 **中文理解**：我看着她越走越远。雾开始从池塘里卷上来，把四周的空气变得潮湿。我仍留在水边，直到四野皆白，看不见 Folkehaven，也看不见天空。我在自己的空间里，一个空洞，被所有人遗失、被忘掉。只有一瞬，那孤独的一小块。一声呼唤刺穿
+ch14 a leashed freedom.md:119 **为什么这样写**：她要的「被忘掉」（ch11 的愿望）真的兑现了一瞬——雾中 void 是愿望的试用期体验：被遗忘原来是这个味道（白、湿、无）；「my name is upon the wind」的召回与愿望的取消只隔一行——母亲的名字
+ch14 a leashed freedom.md:120 **读者视角提示**：记住这个「愿望成真的一瞬」——「被忘掉」原来只维持到母亲饿为止。全书的终局将重新回答这个问题：她到底能不能被放走。
+ch14 a leashed freedom.md:149 母亲用一条腿的肉喂鼠、用一段道歉掩盖下顿的菜；她的爱被定价为「拴绳的自由」——而池塘雾里，Rue 刚尝到一瞬「被世界忘掉」的滋味，就被夜风里那声喊名的绳头拽了回来：也许，她只是又饿了。
+ch15 the eye in the black box.md:9 - **一句话概括**：Lady Pengelly 的葬礼：Anne 锁门恸哭、Rue 进房安抚并学会一条安慰课；墓前 Oren 承认「解脱」——最后一位 Ladies 老妇送来一只黑盒，盒里是死者留给母亲的眼睛。
+ch15 the eye in the black box.md:26 **中文理解**：板着脸的管家把我疾步引上楼梯，Veronica 紧跟在我脚后。在这件事里她是我的影子——母亲缺席时，Folkehaven Manor 留在我身上的存在，不许我甩掉。Oren 和 Edward 站在 Anne 的卧室门外，满
+ch15 the eye in the black box.md:29 **读者视角提示**：注意本章的权力流向：Rue 在 Pengelly 家发号施令（调人、定策）——这个家的男人们听她的。母亲女儿的领导力长在了别人的屋檐下。
+ch15 the eye in the black box.md:46 **中文理解**：Anne 颤抖着吸了口气。「我跟母亲不亲。她是个冷冰冰的存在，没工夫搭理傻乎乎的小姑娘。我一半都在怀疑她到底爱没爱过我。」她坐起来，抚平裙上的褶，苍白、发抖。「后来我许给 Horewith 勋爵，起初她很满意。」
+ch15 the eye in the black box.md:48 **为什么这样写**：「冷冰冰的存在」四个字把母爱宣判为物种问题——不是恨，是没工夫；「foolish little girls」的自贬承袭了母亲的语法（她对女儿的评价体系从没变过）；「at first she was delighted」
+ch15 the eye in the black box.md:53 **中文理解**：Anne 颤抖着吸了口气。「我跟母亲不亲。她是个冷冰冰的存在，没工夫搭理傻乎乎的小姑娘。我一半都在怀疑她到底爱没爱过我。」Anne 坐起来，抚平裙子上的褶皱。她整个人是裸露的悲伤，苍白、发抖。「后来我许给 Horewith
+ch15 the eye in the black box.md:55 **为什么这样写**：Anne 的母亲画像（冷的存在）与 Rue 的母亲画像（饿的存在）是同一物种的两种饥饿：一个饿名望，一个饿血肉——两家的女儿都是货；「worthy of her」的自白解释了母亲为何杀 Horewith：不是护女心切，
+ch15 the eye in the black box.md:60 **中文理解**：「可她把他喂给了你母亲，」我替她说完。……「毫不犹豫。她说我可以嫁给 Edward，只要我愿意——但她不会来参加婚礼，我也永远别想再踏进 Blackwood Hall。」……哦，这世上还有比母爱更烂的东西吗？
+ch15 the eye in the black box.md:67 **中文理解**：「你可以为你母亲哭的，Anne，」我说着，从袖子里抽出一方丝手帕递给她。「就算你不怎么喜欢她，你仍然可以悼念她留下的那片空位——悼念你希望她成为的那个人。」……Anne 擦了擦眼睛。「我刚才真是失态了。」……「要是在至亲葬
+ch15 the eye in the black box.md:74 **中文理解**：我站在 Oren 身边，我们一起低头看着那座盖住他母亲的新土堆。有件事很奇怪：明明知道她将留在土底下，我的双手却痒着要伸下去把她刨出来。Veronica 也站在坟边，脚尖贴着翻动过的新土，仿佛在想同一件事。
+ch15 the eye in the black box.md:87 **中文理解**：他恋恋不舍地走了。我在他母亲的坟边等他，雾越缠越厚，几乎成了实心的东西。一道影子罩住我，一只手的重量落在肩上。回头，撞上一双蒙翳的老妇眼睛——我认出是我母亲的 Ladies 之一，却记不起名字。
+ch15 the eye in the black box.md:93 **中文理解**：「一件礼物，」她说着递来一只系着丝带的小黑盒。「给你母亲，Lady Pengelly 的心意。我们永远、永远，是她的仆人。」……盒子几乎没有重量。「是什么？」……老妇笑了，脸上的皱纹被拉得很薄。「可以打开，不过——别让那位
+ch15 the eye in the black box.md:96 **读者视角提示**：Ladies 的礼数在这只盒子上全部到齐：丝带、敬语、保密条款——她们对「吃她的母亲」的服从，到死也要交接班。
+ch15 the eye in the black box.md:100 **中文理解**：他恋恋不舍地走了。我在他母亲的坟边等他，雾越缠越厚，几乎成了实心的东西。一道影子罩住我，一只手的重量落在肩上。回头，撞上一双蒙翳的老妇眼睛——我认出是我母亲的 Ladies 之一，却记不起名字。……「一件礼物，」她说着递来
+ch15 the eye in the black box.md:102 **为什么这样写**：礼物的语言是本家的语言：眼睛（母亲的甜点）+脸颊皮（她自己的碎片）——Ladies 的遗产制度是「把自己拆成贡品」；「We are always, forever, her servants」的效忠句在葬礼上念出，等于
+ch15 the eye in the black box.md:131 乌鸦送葬的早晨，她学会了两种安慰：给哭嚎一个台阶，给解脱一份背书——最后一位 Ladies 在雾里递上黑盒，Lady Pengelly 的眼睛躺在丝上，残蓝里印着她儿子的模样：贡品与遗骸同体，只等她带回那座吃它的房子。
+ch15 the eye in the black box.md:135 **为什么这样写**：眼睛是这位母亲留给「另一位母亲」的最后一件行李——取下时还湿着，工程的专业度不输母亲家的任何一餐；「I can see Oren's resemblance within it」的反向凝视：被吃的人最后看的还是孩子——
+ch16 the birth of the eater.md:9 - **一句话概括**：黑骟马踩碎了父亲的胸膛——Sylvatica 在血里许愿、在雨中被 Piceus 叫出名字、在森林的橡树上咬进弟弟的手臂：她吞下第一口人肉，成为捕食者的那个下午。
+ch16 the birth of the eater.md:10 - **情感弧线位置**：Sylvatica 线的诞生日：Piceus 的引诱完成收网（债、血、名字），她的第一个猎物是自己的双胞胎弟弟——「吃」从此有了血统。
+ch16 the birth of the eater.md:33 **中文理解**：「待在外面，」母亲开口，把我往外推。她的手指抠住我的斗篷，流连了一下。有那么可怕的一瞬，我以为她要抱我。「我得让他走得体面些。待在外面。」……「可我们都看见了……」……「Godfrey，去请 Richards 牧师！」……
+ch16 the birth of the eater.md:36 **读者视角提示**：记住这半秒钟的错觉——它解释了 Rue（主线）为什么明知母亲的吻是冰的还要贴上去：这类孩子的一生都在等错觉成真。
+ch16 the birth of the eater.md:40 **中文理解**：「瞧瞧这模样，」一个低沉的声音响起，音色又润又软。耳熟的。「当家主娘子，比我湿，比我脏。」……我转向他，雨点砸在脸上，靴子在毁掉的雪地上打滑——从那片红与橙一路滑到只剩烂泥的褐。……「他们在把他搬上餐桌，」我说，踢着一颗埋
+ch16 the birth of the eater.md:42 **为什么这样写**：Piceus 的调侃用「lady」的敬语反讽（她此刻最不淑女），而她的回答把葬礼降格为餐桌卫生问题——父亲的头漏在饭桌上，她关心的是漏的位置：死亡的荒诞被她用「什么时候有香肠吃」收尾——饥饿是她的第一反应，悲哀排在后面
+ch16 the birth of the eater.md:47 **中文理解**：「你弟弟会接手这个烂摊子吗？还你父亲的债？你想他拿什么还？」……我环顾四壁——墙在塌、茅草在烂、牲口圈里一股疏于打理的恶臭。这里已经没有一样值钱的东西了。「你是说——我们拿什么还你？」……他离开的念头，是一种超出血饥饿的痛
+ch16 the birth of the eater.md:54 **中文理解**：Piceus 低低蹲下，膝盖抵着干草，一只手顺着黑骟马的后腿滑下去。他的手指流连，探进我父亲的血留下的粘稠的 red 里——马蹄浸得又厚又黑、泛着光。然后，黑眼睛直直锁着我的眼睛，用一种刻意的缓慢，Piceus 低下头，嘴
+ch16 the birth of the eater.md:57 **读者视角提示**：记住这场表演的观众位设计——Piceus 从第一天就只对她演出。他被看见的需要与母亲「被看见」的需要（ch04 信）是同一种饿：这个故事的怪物全都渴求目光。
+ch16 the birth of the eater.md:68 **中文理解**：母亲的手在渐冷的天气里变脆，皮肤绷得那么薄，一层层裂开。几天前她打了我——手又快又狠。皮肉当场撕开，像书页一样翻着，露出发亮的肌肉和骨头的白光。她对我的怒火越烧越旺，添柴的是饥饿，还有那个烧灼她的悔：没在襁褓里把我扔出去。
+ch16 the birth of the eater.md:75 **中文理解**：而我倒觉得这是件好事；如果活着就得受苦，那至少不必一个人受。我是裹着恶意的暴脾气——Joan 常这么说。她说这话时嘴角藏着极淡的一点笑，一种近乎暖的东西。我希望她是我的母亲。我也希望被她爱着。
+ch16 the birth of the eater.md:89 **中文理解**：有人在追我——我往林子更深处撕开去，穿过挂着新雪的橡枝，钻过荆棘与密灌，腿在流血、呼吸成雾；追我的人毫不松劲。饥饿把他变成了残忍的东西。可惜，让他变成这样花的时间太久了。……「母亲会掏出你的肠子的，好姐姐，」Godfrey
+ch16 the birth of the eater.md:91 **为什么这样写**：追捕者的残忍被归因于饥饿（Starvation has made him cruel）——她的家族把一切都归因于饿，包括恶；「by your guts」的威胁与父亲的死状（肠子）押韵：这个家威胁人的词汇表全部取自屠宰台
+ch16 the birth of the eater.md:113 **读者视角提示**：这是全书最重要的一句独立段落——Sylvatica 的食欲起源完成闭环（鹿眼→父亲的血→弟弟的肉）。她后来成为的那个「母亲」，就是从这个树杈上长出来的。
+ch17 a mirror of madness.md:9 - **一句话概括**：母亲的记忆开始吃她——把 Anne 的婚礼请柬错认成 Rue 的婚约；一场错认引出 Veronica 的肉宴与晕厥，最后 Rue 带着血手印的祝福出门，被一只幽灵的怜悯钉在原地。
+ch17 a mirror of madness.md:12 - **人物弧线**：母亲的神智裂缝首次可见（fragmenting）；Rue 承认自己与 Veronica 同构（chomping at fragments）；白猫的时间存款（I will give it time）与幽灵的怜悯同时到场。
+ch17 a mirror of madness.md:33 **中文理解**：走廊靠月光照明；结满蛛网的壁灯始终是冷的。Folkehaven 对我来说一直是一具破败的空壳、一段华彩的回声——尽管母亲常常讲起她当年在这里办过的奢华宴席。我几乎无法想象这地方亮堂、簇新、完整的样子。那是个幻象，而我不知道
+ch17 a mirror of madness.md:36 **读者视角提示**：注意「谎言还是妄想」这道选择题——本章末尾母亲会亲自作答（错认请柬）。她的记忆开始撒谎给所有人听。
+ch17 a mirror of madness.md:47 **中文理解**：我近乎独处的时刻被一声撞门打破，回响把那只悲伤的书虫吓回阴影里。母亲跨进来，眼睛在月光里发亮，白色睡裙波浪般荡开。她朝我尖啸，下颌撑开，牙像针——太尖、太多。「你要离开我？」她双手捏住我的下巴，行动如鬼魅。
+ch17 a mirror of madness.md:49 **为什么这样写**：闯入的三个部件（撞门、针牙、掐下巴）是母亲暴力 的全套礼仪——恐怖一比一复刻；「You would leave me?」的问句是本章剧情的引信：她闻到的不是婚礼，是女儿的出走。
+ch17 a mirror of madness.md:50 **读者视角提示**：注意她的指控在先、证据在后（下一块才看见请柬）——母亲的逻辑顺序从来是先定罪后取证。
+ch17 a mirror of madness.md:56 **为什么这样写**：对答的全套罪名（敢、谎）在证据亮出前先走完流程；「There is nowhere else I can go」的辩词半真半假：字面上是服从，底下是 ch12 那句「nowhere you can go」的恐惧回声；请
+ch17 a mirror of madness.md:57 **读者视角提示**：注意母亲此刻的状态像 ch04 的天气审讯升级版：证据还是那些证据，但结论错位了——她不再核对外面的世界，开始核对想象里的世界。
+ch17 a mirror of madness.md:63 **为什么这样写**：误认的澄清过程安静得反常：她不喊不躲，把带血的手覆上母亲的手——用体温当证词；「Not mine.」两个字的重复是本章最稳的一步棋：事实说两遍，让错认的潮水自己退。
+ch17 a mirror of madness.md:68 **中文理解**：母亲的推理已经变得稀薄，她的记忆绷到快断。我在她眼里看得见，她正在一片片碎裂，而我没有任何办法阻止。神智好像是为不朽付出的高价。岁月继续啃食她的同时，最后剩下的会是什么？我无法想象一个没有她的机锋、她的声音、她的美的她。如
+ch17 a mirror of madness.md:75 **中文理解**：「不是你的，」母亲终于说。她把额头抵上我的额头——她那么冷。 ……我的手指穿进她柔软的黑发里——那是我自己头发的镜子。「从来不是我的。」 ……「我饿了，」母亲贴着我的皮肤吐气，牙齿刮着我。「饿极了，女儿。」
+ch17 a mirror of madness.md:82 **中文理解**：然后她转过身，从我身上扯开，一口深深咬进 Veronica 的手臂。皮撕开，Veronica 咧着笑，眼睛几乎翻上头顶——母亲像剥一只橙子那样，从她手臂上剥下一条肉。……母亲把那条被蹂躏的肉吸溜吞下，血留在她的牙上、下巴上
+ch17 a mirror of madness.md:85 **读者视角提示**：把「剥橙」这个动作记成母亲的取食新语法——从撕肉带（ch01）到剥橙（本章），手法越来越像厨房，不像狩猎。
+ch17 a mirror of madness.md:89 **中文理解**：「再吃点，」Veronica 央求，声音发颤、微弱。「你想从我身上拿什么就拿。」……母亲推开她，用手背抹了下巴。她把肉渣啐到地上——Veronica 的那些太不合她口味的地方。「我够了。」……「别饿着……」 ……「我说了我
+ch17 a mirror of madness.md:96 **中文理解**：「去赴你的宴吧，我的宝贝，」母亲转向我，双手伸过来，滴着。「带着我的祝福去。想要我的祝福吗？会让你高兴吗？」……我由她抱着我，她的手按在我肩上，留下血印。她贴着我摇晃，几乎是在跳舞，脚下踏着一支我听不见的华尔兹。……「会让
+ch17 a mirror of madness.md:98 **为什么这样写**：血手印与 blessing 同一双手给出——祝福的油墨是血印，这家的文件从来这么签；「waltz I cannot hear」的音乐缺席把温馨场景悬在半空：她配合的是想象中的舞曲——她从小练的就是这个（配合不存在的正常
+ch17 a mirror of madness.md:99 **读者视角提示**：记住「碎屑」（fragments）这个词——母亲的爱从「wanted」「leashed freedom」一路缩水到「fragments」，尺码的缩减就是倒计时。
+ch17 a mirror of madness.md:103 **中文理解**：「为了 Anne。」她转着圈，睡裙飞荡，又红又破。「你会为了 Anne 去——为了你这个朋友？」……「如果你准许。」 ……「黎明前回到我身边，最亲爱的。」母亲的唇贴上我的脸颊，呼吸带着铜味，甜得发腻。「别丢下我一个人扛。」
+ch17 a mirror of madness.md:105 **为什么这样写**：放行的条款只有一条（黎明前回来）——期限比 ch08 的「always need you」具体了一步：爱开始用小时计价；「coppery and cloying」的呼吸是铜锈加糖霜——刚吃过 Veronica 的嘴说出
+ch17 a mirror of madness.md:106 **读者视角提示**：注意「before dawn」——黎明是母亲入土的时刻表（ch03 的日程）。这条宵禁不是管教，是她的物理需求。
+ch18 if love is a ruination.md:11 - **Tropes 兑现/反转**：「婚礼告白」兑现加码——告白发生在妹妹宣誓之前；「无忠犬不反悔」反转——两轮「I did not ask you to」把她的自贬逐条驳回。
+ch18 if love is a ruination.md:19 **中文理解**：天空浸在云与细雨里。空气里有种清新的东西，像被洗过。我踏出门，觉得终于能呼吸了。我没穿新裙，也没穿被母亲的恐怖碰过的任何一件——我穿的是一条在衣柜深处找到的素净黄棉布裙。布料上有几个虫蛀的洞，但一条披肩就能遮住。
+ch18 if love is a ruination.md:49 **中文理解**：在他姐姐沿长毯走向圣坛之前，在誓言与交换戒指之前，在圣诗的合唱之前——他转向我，眼睛发亮，用一种发疼的认真说：「而我在这儿，Rue。」
+ch18 if love is a ruination.md:56 **中文理解**：「这是我们的本分，」Edward 说着把 Anne 拉近自己。……「说这话的时候，别显得那么痛苦，」Oren 回他。他快速亲了妹妹的脸颊一下，朝 Edward 伸出手。「善待她。」
+ch18 if love is a ruination.md:65 **中文理解**：「这是我们的本分，」Edward 说着把 Anne 拉近自己。……「说这话的时候，别显得那么痛苦，」Oren 回他。他快速亲了妹妹的脸颊一下，朝 Edward 伸出手。「善待她。」 ……他的话里有威胁——很轻，但在。Edw
+ch18 if love is a ruination.md:74 **为什么这样写**：Anne 的幸福清单小到能装进一只果篮——与母亲家的餐桌形成规模对比：一个是全部想要，一个永不知足。
+ch18 if love is a ruination.md:86 **中文理解**：「我不会结婚的，」我开口，背对着他。我爬上一座墓碑，石头贴着皮肤，凉的。「你该知道这个。」 ……Oren 爬上来躺在我旁边，双手枕在脑后。「我没要求过你。你也该知道这个。」 ……我用手肘碰他，他笑出声。那笑声的暖意与欢快，
+ch18 if love is a ruination.md:93 **中文理解**：「你谈起自己的时候，总说成碎片，」Oren 说，唇还停在我手指上。他把一根整指含进嘴里吮着。「一个人的一片片——好像你能把自己好的部分刮下来送人似的。」 ……「那我是什么，如果不是碎片？」 ……「你想成为什么？」 ……一个
+ch18 if love is a ruination.md:103 **读者视角提示**：把「爱还在那里」与母亲的「Save for hunger」并排放——两种爱的会计准则：一个按罪折旧，一个不设科目。
+ch19 she feeds me now.md:9 - **一句话概括**：Joan 死了、母亲赶她走——Sylvatica 在马厩里与 Piceus 定下「永恒饥饿」的契约，死过一次、自己爬进土里，最后回家爬上母亲的膝盖，把她吃干净，说了声「谢谢你，妈妈」。
+ch19 she feeds me now.md:12 - **人物弧线**：Joan 死、母亲赶人、Piceus 收网——Sylvatica 失去所有人类锚点；她的重生以「不被要的」为名（unwanted / blasphemy / abomination）——母亲的命名法最终成了她的物种名。
+ch19 she feeds me now.md:19 **中文理解**：屋里只剩母亲和我。它围着我们塌下来，又冷又空，是一座只装我们俩的小墓穴。Joan 走了几个星期了——在冬天变得难以忍受之前。死亡给她的那种快，它从来没给过我们。她躺下睡觉，然后决定不再醒来。母亲没有请牧师，没有请任何人。是
+ch19 she feeds me now.md:26 **中文理解**：母亲是一具空壳，满是枯皮和血唇。悲伤漆在她身上，别的什么都渗不出来；它是一件裹尸布，她抓得很紧。她若能，会闷死自己。我愿意替她动手——但她不配这份慈悲。……「吃你的晚饭，」我说，把碗放在差一点才够得着的地方。那是很稀的汤，
+ch19 she feeds me now.md:29 **读者视角提示**：把「肚子里养着弟弟」与主线 Rue 的「stitched with veins not of my own」对读：母女两代的身体里都住着别人——这个家的血脉从来不是一个人一个人的，是一层一层叠进去的。
+ch19 she feeds me now.md:33 **中文理解**：「吃你的晚饭，」我说，把碗放在差一点才够得着的地方。那是很稀的汤，没有面包让它好咽些。饥饿挠着我的肚腹，我想起弟弟的味道——他身上那一小块。我们共享过一个子宫、同一个母亲体内的暖，这本该让我们绑定一生。如今他的一小片活在我
+ch19 she feeds me now.md:36 **读者视角提示**：把「肚子里养着弟弟」与主线 Rue 的「stitched with veins not of my own」对读：母女两代的身体里都住着别人——这个家的血脉从来不是一个人一个人的，是一层一层叠进去的。
+ch19 she feeds me now.md:43 **读者视角提示**：记住「only child」这个词的暴力——它抹掉的不是 Rue 的名字，是她与 Godfrey 共享的那个子宫。Piceus 后来的命名（unwanted）只是把母亲的判决翻译成了物种名。
+ch19 she feeds me now.md:54 **中文理解**：「也许吧，」他说，把手指上的血吸得更干净。他盯着我，眼睛太黑、太大，看着我如何往旁边缩——不是怕，是肚腹深处盘起的那股东西、在那儿胀起来的热。「那会让你高兴吗？知道我把自己从地狱解开、跑来看你——看你蘸着父亲的血想画一幅杰
+ch19 she feeds me now.md:57 **读者视角提示**：记住「他一直在看」——Piceus 的爱从第一天就是 voyeur 式的。这与母亲「被看见」的渴求（ch04 信）对上了：这个家族的怪物全都活在目光里。
+ch19 she feeds me now.md:64 **读者视角提示**：记住三种味道的对位：Oren 的阳光醋栗（生）、Piceus 的甜腐（死）、母亲的铜与糖（吃）——Rue/Sylvatica 的两世都在这三种味道里挑过。
+ch19 she feeds me now.md:89 **中文理解**：那不过是一个浅浅的坟，一摊可怜的秽土，但我把自己躺进去，蜷紧。我把退去的黑与渐亮的晨光都挡在外面，像一头兽那样伏在底下。它不比子宫差——有那么一刻，我觉得双胞胎跟我缠在一起，听见母亲的心跳。我觉得我到家了。
+ch19 she feeds me now.md:99 **读者视角提示**：注意「not yet」——死亡的迟到在这个家是常态（母亲的慢死、Joan 的快死），这一次它迟到的原因是她。
+ch19 she feeds me now.md:103 **中文理解**：我慢慢爬上母亲的膝头，我的身体一片片缠上她的残躯，把头搁在她颈窝里。母亲的皮肤轻轻一碰就裂，在我的嘴下碎成甜的碎屑。她当年没有像喂 Godfrey 那样用乳房喂我——可她现在喂我了，而我发现我更喜欢这样。……母亲的手摸到我
+ch20 the oubliette in waiting.md:12 - **人物弧线**：Oren 的闯宫誓言（storm into Folkehaven）；Rue 对 Veronica 递出迟到的怜悯；母亲吃完身边最后一个人，只剩女儿—— Hunger 的单人菜单。
+ch20 the oubliette in waiting.md:28 **为什么这样写**：想抓烂爱人的脸——她的爱与攻击性共用同一双手：被拦的瞬间暴怒先于理智到站；他的「not safe」说得对却无用——对她而言，「安全」的定义从来不包含离开母亲。
+ch20 the oubliette in waiting.md:36 **读者视角提示**：注意「I will not leave her」的主语时态——她说的是「her」（母亲），不是「them」（家）。她离开的是房子，留下的是人。
+ch20 the oubliette in waiting.md:43 **读者视角提示**：把「明天」这个期限记下——它将在后文被反复违约与兑现。Oren 的每次行动都有时间戳，这是他与母亲的差别：母亲的时间是永恒，他的时间是明天。
+ch20 the oubliette in waiting.md:47 **中文理解**：月光淌在 Folkehaven 的台阶上，我放慢脚步，在湿石上小心翼翼。然后我冲过走廊、穿过冰冷的黑暗与看着我的影子。铁楼梯等着我——沉默、结实、招我靠近、招我下降。我用发抖的手点亮壁灯上一支泛黄的蜡烛，从尖钉上拔下来。它
+ch20 the oubliette in waiting.md:50 **读者视角提示**：记住「oubliette in waiting」——这个法语词（囚牢+遗忘）是书名的谜底：她想把母亲变成被遗忘的囚徒。愿望与结局的距离就是全书剩下的页数。
+ch20 the oubliette in waiting.md:54 **中文理解**：那是一座候用的忘牢，一场差一点完成的遗忘——它把我撕成两半。 ……坑是空的，土早就翻动过。地上散着扯碎的绸片，还有血。血又厚又黑，在土里印出我母亲的形状——一道血淋淋的轮廓，纹在我脚下。
+ch20 the oubliette in waiting.md:56 **为什么这样写**：空坑的物证清点（绸片、血印）是一次法医式确认：母亲自己出来了——她不需要被埋，她埋了别人；「bloodied outline」的轮廓像案发现场的人形粉笔线，只不过是母亲自己留下的；「tears me apart」的撕扯
+ch20 the oubliette in waiting.md:57 **读者视角提示**：注意血印的「形状」——母亲的离开连签名都盖好了。她去哪儿了不用猜：家里有活人。
+ch20 the oubliette in waiting.md:63 **为什么这样写**：「Fuck」的粗口砸在空坑前——她全部的恐惧浓缩成一个字；幽灵护头的姿势（躲着角落）是活体警报：她不躲母亲，她躲母亲嘴里的声音；「crunching」的音效把恐怖做成听觉投放——读者先听见咀嚼，再看见菜。
+ch20 the oubliette in waiting.md:64 **读者视角提示**：注意幽灵「does not look at me」的默契——她用背对着告诉 Rue：别看。两代「女儿」在这一刻共用一个求生反应。
+ch20 the oubliette in waiting.md:70 **为什么这样写**：母亲的白眼与月亮的并置回收 ch16 的「两轮满月」（Piceus）——这个家的怪物共享月亮的眼睛；「terror or elation」的无法分辨是 Veronica 的一生判词：她到死都在这两种表情之间，而脸已经不
+ch20 the oubliette in waiting.md:75 **中文理解**：鲜血流过她被毁掉的下颌，淌下胸口，滴进底下的地毯。她的皮肤烂成废墟，脸颊的碎片吊着，露出底下的骨头。母亲仍在进餐——嘴扣着 Veronica 的，在颅骨里刻出一个空间，像她是一只灯笼。 ……我想别过脸，像那只哭灵的幽灵一样
+ch20 the oubliette in waiting.md:82 **中文理解**：母亲吃到满足，把她要的部位从 Veronica 身上剥下，剩下的丢弃。她倒下去——剩下的那张脸对着我。母亲仍蹲着，手指在 Veronica 的颅骨上翻找，直到摸到那颗眼球。她以一种超凡的优雅把它摘下来，起身前放进牙间。 …
+ch20 the oubliette in waiting.md:85 **读者视角提示**：记住「我不想让她冲着我生气」——Rue 的求生本能不再是躲，是哄。她在母亲面前的角色从工具升级成了必须维护的圣坛。
+ch20 the oubliette in waiting.md:89 **中文理解**：她尖叫起来，巨口撑到最开，牙上淌着血。她是恐怖与罪的造物，一头裹着坟土的野兽。她是我的母亲。 ……我跑。
+ch20 the oubliette in waiting.md:103 **中文理解**：然后我听见她。她用疯了的腿追来，尖叫跑在前面，一路回荡。我摔了又爬起，踉跄着扑上台阶、绕过回廊——这座迷宫般的宅子，我比了解自己更了解它。 ……我甩上卧室门，飞快落锁——希望这够把她挡在外面。我从不需要把她挡在外面。母亲撞
+ch20 the oubliette in waiting.md:110 **中文理解**：黎明带来寂静，一个空洞。母亲没有叫送她下地、下坑，没有叫我陪她躺下——带着她血淋淋的舌头与赤裸的四肢。她若开口，我会去的。缺她的疼，已经开始磨我了。
+ch20 the oubliette in waiting.md:149 她想埋她、忘她——挖开的坑却只印出母亲的血形轮廓：Veronica 成了灯笼、眼球成了餐后甜点；锁着的门一夜没等来那声名字，她才知道自己缺的从来不是安全，是呼唤。
+ch21 the rats go to war.md:9 - **一句话概括**：悬崖上她尖叫着学母亲，Oren 接住她并提出「黎明到黄昏」的时段之约；回家挖坟求原谅得到「回来就好」——母亲则放出一群被教过血味的鼠，直奔 Ladies。
+ch21 the rats go to war.md:26 **中文理解**：我没有下到宅子底下——虽然身体里仍有一部分想去。我要母亲的宽恕，她的依赖。我仍想要她要我——哪怕她没法爱我。 ……我从 Folkehaven 溜出来，躲开那些咧嘴的鬼与母亲的怒火。晨空气里压着一场酝酿中风暴的黏热。
+ch21 the rats go to war.md:33 **中文理解**：就在天地相接的那一点上——脚尖贴着崖边、意志散给了风——我终于尖叫出来。那声音模仿的是我的母亲，某种怪物的声音，它从我体内倾泻成洪。我被钉住——既需要离家近，又需要离家远，需要她又需要离开她。它撕着我。我抓挠自己的喉咙，想
+ch21 the rats go to war.md:42 **为什么这样写**：她站在崖边聊自杀像聊天气——「devour me as is fitting」的对海洋的定位接住 ch05 的海洗陆：海一直被她当成洁净的出口；「Nothing I did not deserve」的自判是她的默认答话
+ch21 the rats go to war.md:50 **读者视角提示**：注意「he repeats」——Oren 不接受她的含糊，同一问题问到第二遍。他与母亲的区别在此：母亲问「你去哪了」是监控，他问「她做了什么」是接管。
+ch21 the rats go to war.md:64 **读者视角提示**：把「mine」这个字的归属变迁记成主线：ch04 母亲说「you are mine」，本章她把 Oren 标成 mine——所有权的流转就是全书。
+ch21 the rats go to war.md:68 **中文理解**：我换口气，贴着他胸口的暖喃喃。「我得回家了。」 ……Oren 没问为什么，也没求我留下或跟他走——正因如此，我发现他又往我心里挪了一寸。他住进去了，与我的母亲同一屋檐下；虽然沉，但不疼。
+ch21 the rats go to war.md:78 **读者视角提示**：把「黎明后到黄昏前」画在时间轴上——正好是母亲入睡的时区。两份日程完美错峰，这张时间表是他们的婚约。
+ch21 the rats go to war.md:85 **读者视角提示**：把「hollowness answers」记下——这是母亲神智崩坏（ch17 fragmenting）的第一个物理证据：连她女儿的感应都收不到她了。
+ch21 the rats go to war.md:89 **中文理解**：「你回到我身边了。」她的声音刮在皮肉上。「我的宝贝。」 ……「原谅我。」这个词滚出来，是一次绝望的恳求——当她朝我张开双臂、骨头咯咯作响时，我忍不住跌了进去。「请原谅我，母亲。」 ……「永远会。」她亲我的脸颊，唇干的、皮冷
+ch21 the rats go to war.md:92 **读者视角提示**：把「Always 条款」与 ch14 的「leashed freedom」对齐：母亲的两份合同（放行+赦免）都只有一个条件——回到她身边。条款越写越简，锁越收越紧。
+ch21 the rats go to war.md:98 **为什么这样写**：认罪的三段式（做了、不悔、为你）把责任链直接拴到女儿身上——「because of you」是母亲爱意的刑侦版：一切都因你，所以一切都不怪我；扯脱头发的动作与其中的亲昵并行——这个家的温柔永远带拔除。
+ch21 the rats go to war.md:103 **中文理解**：母亲从坑里爬出来，去够我留在旁边的烛台。她把烛台悬在台阶上方，照出蹲在那儿的小畜生们发亮的小眼睛。「我找到了我的鼠。它们回到我身边，我躺在这儿的时候对它们低语——它们听着。你知道我说了什么、做了什么吗？」 ……我不想想知道
+ch21 the rats go to war.md:105 **为什么这样写**：鼠群 «回» 到她身边——佣人们死了，动物来了：Folkehaven 的员工花名册持续更新；「they listened」与母亲对鼠的慈态（ch14 doting eyes）连线：她对会听话的生物一视同仁地施爱。
+ch21 the rats go to war.md:110 **中文理解**：母亲哼着一支萦绕的摇篮曲，身体摇着，烛光晃着。 ……「我给它们讲了镇上的夫人们——讲她们不知道血的味道。哦，现在会知道了。血会灌满它们的喉咙和嘴，会漫出来。它们会被呛住的，亲爱的，会的——但在那之前，它们会尝到那个味道，像
+ch21 the rats go to war.md:113 **读者视角提示**：记住「不会饿着死」这句——它是母亲给鼠群的祝福，也是她给自己女儿的第一个承诺的反面（她只确保自己不饿）。
+ch21 the rats go to war.md:117 **中文理解**：母亲继续摇着，膝盖收在胸前，烛光跟她一起晃、晃过鼠群数不清的珠状小眼睛。它们从阴影里涌出、从我脚下、从我母亲破裙的残片底下涌出，四散着冲上台阶。它们那么多——尖叫着、肥硕、漆黑——像浪一样涌出……像瘟疫……像毁灭，从那不洁
+ch21 the rats go to war.md:120 **读者视角提示**：记住「They too can be victims」的受害轮换制——Ladies、鼠群、Veronica：这个家的猎物名单是轮换的，轮到谁只看母亲饿不饿。镇子的恐惧从今天起有了实体的形状（一群黑鼠）。
+ch21 the rats go to war.md:149 悬崖上她学了母亲的尖叫，Oren 把她的罪揽进自己怀里；坟里母亲给出「回来即宽恕」的条款，然后哼着摇篮曲放出一群学会血味的鼠——它们直奔 Ladies 而去，而她看着，没有愧疚，只是累。
+ch22 how you wear her well.md:9 - **一句话概括**：病倒的 Ladies 亲手敲开 Folkehaven 的门——Rue 开门迎客、扣掉她们的炉火，看母亲把 Bellamy 抱在膝上又吸又咬；她拿上酒瓶走人，丢下一句「我不打扫」。
+ch22 how you wear her well.md:11 - **Tropes 兑现/反转**：「猎物上门」反转——这次是客人自己求死；「慈母喂雏」反转——膝枕的温柔给了 Bellamy，女儿在旁边饿着看。
+ch22 how you wear her well.md:19 **中文理解**：她们聚在母亲门前了——那些夫人。我听见敲门、砸门，手忙脚乱。来的、能来的，都在喊我母亲。我们在书房窗边看：母亲盛装华彩，长发散着、亮着，蓝裙贴在身上像第二层皮肤。我站在她旁边，自己能拾掇成什么样就是什么样——穿着一条血渍洗
+ch22 how you wear her well.md:21 **为什么这样写**：母女并肩看客的构图是权力交接的现场照：母亲华服、女儿血渍——但找酒的技能在乱局里自报家门；「clinging like skin」的裙贴肤比喻回收 ch19 的「flesh fall away」——这个家的衣裳与皮肉一
+ch22 how you wear her well.md:26 **中文理解**：「让她们进来吧，我的宝贝，」母亲抬手致意。「她们等得够久了。」 ……我注意到夫人们所剩无几。「看来有些等得太久了。」 ……「可惜。」母亲叩着窗玻璃，指甲刮过表面。下面的人抬头，月光里脸色发白。她们憔悴、脆弱。
+ch22 how you wear her well.md:28 **为什么这样写**：母女两句「等」的对仗：母亲说等得够久（该吃了），女儿说等太久（死了）——同一个词的两种账目；「A shame.」的冷答把死去的 Ladies 归档为损耗。
+ch22 how you wear her well.md:33 **中文理解**：「等有钱人耗光了，谁来拿罪换你的命？」我问。我不想放她们进来，不想看她们在 Folkehaven 的屋顶下断气。这里的鬼已经太多了。「到时候你喝谁的失意？」 ……母亲的手指继续叩着窗。她扭过脖子看我，骨头咯咯响。「你不会看
+ch22 how you wear her well.md:35 **为什么这样写**：她的质问其实是忠告：供货链断裂的预警——母亲的回答只有笃定：女儿不会让我饿死——把良心提前抵押给了未来；「sup upon disappointments」的菜单语言把人的失意做成汤。
+ch22 how you wear her well.md:40 **中文理解**：我确实不会——我知道。虽然那些恐怖与罪压得我沉，虽然我希望自己是别人家的女儿，我不能任她枯竭而死。我能感觉到她——拴在我身上、拴在我的魂上——而且我解不开它。
+ch22 how you wear her well.md:54 **中文理解**：沉重的门被我拉开时吱呀作响——我站在余下的夫人们面前。她们曾与我母亲同席欢笑、怀着问心无愧的兴头交上她们的祭品。她们像我，像我母亲，甚至更甚。我母亲的天性是饥饿；她们的是贪婪与无聊。
+ch22 how you wear her well.md:61 **中文理解**：她们踉跄着进来，有的嘴角按着渗血的布。我由她们在桌边瘫坐下来——坐在她们帮忙凑齐的那群鬼中间。桌上堆满水果与点心——一桌丰盛宴席摆在一群没有胃口的人中间。没有 Veronica，宴席的采买落到了我头上。母亲塞给我篮子打发我
+ch22 how you wear her well.md:63 **为什么这样写**：「坐在她们凑齐的鬼中间」是最精确的报应布局：供货人被自己的货围坐；采买自述把雇人悲剧（帮厨女孩）翻成黑色账目——她连建议雇人的资格都被母亲的胃口作废。
+ch22 how you wear her well.md:71 **读者视角提示**：注意「小小的恩惠也能扣」——这与母亲教她的进贡逻辑同构：施舍永远小气，刁难永远周全。她学得很快。
+ch22 how you wear her well.md:75 **中文理解**：「我们一直是你母亲忠实的仆人，」Bellamy 夫人开口。她的牙齿黑了，眼下淤青。 ……「我们全被病缠上了。」Henrietta 用手帕按着嘴唇——上好的棉布染了红。「我们的女仆伺候我们、收拾我们的秽物，她们不病。只有我们
+ch22 how you wear her well.md:77 **为什么这样写**：Ladies 的病与仆役的健壮成了背叛的物证——供血者的血统不再吃香；Rue 边吃饼边问的冷静是本章的暴力底色：她的刀叉与话题共用一只手；「wretchness」的自造词是她的语言领地——母亲的语法（罪、饿）之外，她开
+ch22 how you wear her well.md:82 **中文理解**：我耸耸肩，坐回去、坐远了。用纸巾擦掉指上的油。「那是我母亲的兴致。」
+ch22 how you wear her well.md:89 **中文理解**：「不，不是性子使然。」母亲无声地走进来。她在主位落座，掌心朝上。她笑了，满口牙。「看看你们，看死亡黏在你们身上贴得多紧。哦，你们把她穿得多好。」
+ch22 how you wear her well.md:96 **中文理解**：「求你！」Bellamy 夫人跪倒，跪的时候呻吟出声。汗珠从额头渗出，顺着头发滴进眼睛。「救我。」 ……另一个站起来，手捂着嘴咳出一口血。血在喉咙里咕嘟，又黑又油。我望向母亲——那女人倒下，头磕上桌沿，像鸡蛋一样裂开。母亲
+ch22 how you wear her well.md:99 **读者视角提示**：注意 Rue 在这一幕的位置：「我望向母亲」——她在看母亲看死人。三重视角叠在一张餐桌上。
+ch22 how you wear her well.md:103 **中文理解**：「多壮观！」母亲拍着手，兴致勃勃地看着她们一个个倒下——肺炸开，黑东西从大张的嘴里喷涌。她回到跪着的 Bellamy 身边，温柔地把她拉近，把那颗头抱进自己腿上。母亲的目光没有离开我，手上继续抚着 Bellamy 被汗浸透
+ch22 how you wear her well.md:105 **为什么这样写**：膝枕的温柔给垂死者、目光钉给女儿——她被排在观众的位子上；「dribble sins over me, and I would fill myself up on them」的自白是全书最卑微的一句：连罪都可以当奶喝。
+ch22 how you wear her well.md:106 **读者视角提示**：把「嫉妒将死之人」记成 Rue 的饥饿新层级：食物的饿（母亲的）之外，她开始饿温柔。Oren 给的那种。
+ch22 how you wear her well.md:110 **中文理解**：血从 Bellamy 夫人的嘴里一线一线淌。血也从眼里渗——血泪在她苍白的皮肤上犁出沟。母亲俯身，唇覆上那张血口。舌尖轻点、舔舐，吸着 Bellamy 喉咙里涌出的粘稠的咯咯声。 ……Bellamy 挣扎着，四肢在母亲面前
+ch22 how you wear her well.md:112 **为什么这样写**：吸与咬的两段式进食（先温柔后暴力）是母亲的餐桌节奏：啜汤、然后拆骨——她连杀人都吃出了用餐次序；Bellamy 踩自己血而滑的细节是「自供的祭品」的完美隐喻。
+ch22 how you wear her well.md:113 **读者视角提示**：注意这段与 ch19「吃母亲」的对称：Sylvatica 吃母亲时有拥抱，这里母亲吃 Bellamy 有膝枕——进食与亲密在这本书里从来是同一个动作。
+ch22 how you wear her well.md:117 **中文理解**：我待到一切静止、呻吟平息。该怎样就怎样之后，我抄起桌上的酒瓶就走。「这我不打扫，」我没回头地说。 ……母亲什么也没说。没有温柔的话，没有温柔的抚触——没有一点她方才赏给 Bellamy 的那种东西。我感觉到了那份缺席——皮
+ch22 how you wear her well.md:119 **为什么这样写**：拿酒走人+丢下打扫宣言是她离家制度化的宣言：侍女的活她不再接——Veronica 的职位没人补了；缺席的记账（emptiness only she can fill）与「嫉妒膝枕」首尾呼应：她吃不到温柔，就把这口饿记在
+ch22 how you wear her well.md:120 **读者视角提示**：把「只有她能填的空洞」与 ch18 的「话能填饱」并排——两种饱腹疗法她在同时使用，而母亲的那个永远断供。这是她倒向 Oren 的全部力学。
+ch22 how you wear her well.md:149 Ladies 穿着死亡敲开 Folkehaven 的门——Rue 扣掉炉火、咬着猪肉饼看她们一个个裂开，母亲的膝枕给了垂死的 Bellamy；她拿上酒瓶丢下一句「我不打扫」：皮肤底下那个只有母亲能填的空洞，今晚又是空的。
+ch23 gloves of the white cat.md:9 - **一句话概括**：生日不在秋天也到了——母亲亲手做的白毛手套（白猫的皮）递到她手上；她戴着它埋了白猫，然后崩溃投奔 Anne 家，听到怀孕的喜讯与被 Oren 摇头掐断的「将来」。
+ch23 gloves of the white cat.md:22 **读者视角提示**：记住「礼物总在秋天」——它在非秋天到来这件事本身，就是母亲失控的第一个信号。异常即预警。
+ch23 gloves of the white cat.md:26 **中文理解**：被遗忘的水果皱起的皮开始发臭——母亲血宴的剩菜——干瘪的果肉从雕花玻璃碗里溢出来，霉在果皮上生茸，蓝而细密，与被甜腐引来的小黑蝇并肩蠕动。我发现自己不介意那气味——它的尖锐、事物缓慢自然的腐坏。它盖住了血、粪与呕吐物的臭。
+ch23 gloves of the white cat.md:28 **为什么这样写**：水果的腐烂与人的腐烂同桌陈列——自然腐与暴力腐摆在一起，前者反而「无害」；Ladies 的尸体姿势是母亲的收藏术（ch14 帮厨女孩同款）——「a game of waiting」点破：她在等女儿妥协。
+ch23 gloves of the white cat.md:36 **读者视角提示**：把「不认识这样的她」与 ch17 的「will she forget me」连线——母女的记忆错位是双向的：母亲在忘，女儿在逃。
+ch23 gloves of the white cat.md:47 **中文理解**：「它们很美，」我说——而且是真心的。它们精美、上乘，是我捧过的最奢华的礼物。它们几乎算得上一次温柔——那感觉缠上我的心脏，收紧。「谢谢你，母亲。」
+ch23 gloves of the white cat.md:56 **为什么这样写**：「more rats」这个词当场引爆真相：白毛不是鼠皮——鼠是黑的——那是白猫；「now that it is safe」宣判了白猫的死因：她被吃的前提是她以为安全。母亲连忏悔的措辞都省了，只报库存。
+ch23 gloves of the white cat.md:61 **中文理解**：就在那一刻我知道了——带着一阵突然的、令人作呕的空洞——我知道了。我的胃一沉，想连盒子一起扔掉，把我的手从盒中的恐怖里解放出来。但我没有——我像母亲那样抚过皮毛，指尖还记得那柔软、记得它曾有的暖。我拼尽全力才没有尖叫。
+ch23 gloves of the white cat.md:68 **中文理解**：「我想看你戴上它们。」母亲站得很近，不眨眼，等着。尸体般地静止。「你不喜欢吗？」 ……「当然喜欢。」我戴上它们，把一切悲恸、一切恶心都咽下去。我的手太暖，柔软的皮毛捂出了汗。汗积在手套里，把丝衬里浸得湿透。有一瞬间，那感觉
+ch23 gloves of the white cat.md:71 **读者视角提示**：注意母亲的示弱与白猫的死同框说出——她先制造孤独，再宣布怕孤独。这个循环是她全部关系的生产工艺。
+ch23 gloves of the white cat.md:84 **为什么这样写**：埋葬时被强制戴凶手的手套——这是母亲给白猫葬礼的最后一条规矩：凶手出席、遗物随葬；「needing their warmth despite the sunlight」的病态取暖是斯德哥尔摩的体温计量：太阳已暖，她还要
+ch23 gloves of the white cat.md:85 **读者视角提示**：把「戴着凶器埋葬被害人」的画面记住——这是她与母亲关系的缩微模型：她将永远戴着自己被伤害的证据生活。
+ch24 the fouled seed.md:10 - **情感弧线位置**：Sylvatica 线的终章：她走完了她母亲走过的全部路——被赋予、被使用、被水拦住、独自怀上不属于人的东西——她终于成为她的母亲。
+ch24 the fouled seed.md:51 **读者视角提示**：注意「干涸的护城河」——隔离母亲的同款水系此刻是干的：水会回来，时机由他定。记住这个细节。
+ch24 the fouled seed.md:72 **读者视角提示**：把「独自怀着它」的命令与母亲 ch06 的弃婴命令对齐——Sylvatica 被弃时怀着东西，她的母亲弃她时她刚出生：这条轮回线在两句话里咬合。
+ch24 the fouled seed.md:100 **读者视角提示**：把「水也不允许」与 ch12「She cannot cross the rushing water」对照——Sylvatica 终于继承了她母亲被囚的全部条款。她成了她母亲，一模一样。
+ch24 the fouled seed.md:136 他给过她庄园、叫过她勿忘我，然后在她指尖碰到他的那一刻让她死了一次——水回来了，人走了，恶种留下了：Sylvatica 终于集齐了她母亲的全部条款，在这岸独自开始下一次怀孕。
+ch25 scraps and suffering.md:9 - **一句话概括**：偷来的晨昏里她学会了拥抱，夜里她睡在母亲的坟头——护城河干成母亲开裂的心，黑泪忏悔换不来一句话，最后一条威胁直指 Oren。
+ch25 scraps and suffering.md:10 - **情感弧线位置**：Rue 的双城生活被母亲的鼻子戳穿（孕讯靠气味推断）；母亲的黑泪忏悔是全书最长的爱宣言，也是威胁的前奏。
+ch25 scraps and suffering.md:26 **中文理解**：夜空之下、月光与星尘之外，我睡在 Folkehaven 底下、母亲坟土的上方——过去几周我一直这样。我抽不出自己；夜幕落下，她扒开泥土与腐物，走到我身边。她是我的影子，一个疯掉的我的镜像——没有她，我不完整。这是一个可怕、
+ch25 scraps and suffering.md:28 **为什么这样写**：她睡在坟上、母亲从坟里爬出来相会——母女的会面地点在生死交界线上；「a mad reflection」的镜像结构预告了结局的对折：她们互为倒影，谁也照不出谁之外的形状。
+ch25 scraps and suffering.md:47 **中文理解**：老鼠聚在我脚边——黑暗里忠实的同伴。我很少生火，偏爱寒冷，偏爱它钻进骨头的方式。那感觉像我的母亲。
+ch25 scraps and suffering.md:49 **为什么这样写**：冷=母亲——她的体感系统已经把最不适的感觉归类为亲密：这是依赖成瘾的终末症状；鼠群接任 Veronica 的陪伴岗位。
+ch25 scraps and suffering.md:50 **读者视角提示**：把「冷像母亲」记成她的体温档案的最后一行：暖=Oren、冷=母亲、灰=家。全部体感都归了户。
+ch25 scraps and suffering.md:54 **中文理解**：「你饿吗？」我在书房里问，月光闪闪。 ……「我觉得满足了，」母亲答，手指在我的头发里。「目前。」 ……「我想尽快再见到 Anne，」我开口——我们之间不该有秘密、不该有谎。「我感激她的友谊。你睡着的时候，这儿真的很孤独，母
+ch25 scraps and suffering.md:61 **中文理解**：「你越来越贪求了。」母亲的声音发尖，词句又快又不耐烦。「被惯坏的小姑娘。你婴孩时我从没娇惯过你。现在倒要我开始惯？」 ……「如果你允许我继续这些探望——我再也不会要求任何事。」
+ch25 scraps and suffering.md:64 **读者视角提示**：把这份投降书与 ch21 的「Always 条款」叠放：母亲的合同永远只有一条主条款——回来；其余都是可以随时作废的附则。
+ch25 scraps and suffering.md:68 **中文理解**：母亲从我头皮上抽出一缕缕头发，缠在指头上。「Anne 的小屋就在巷子尽头，不是吗？」 ……「是。」 ……「那她的孩子？什么时候落地？」 ……我从她身边滑开，感觉血顺着头发渗出来。「我从来没告诉你 Anne 有孕。」
+ch25 scraps and suffering.md:71 **读者视角提示**：把「她闻出来的」与 ch02「smell it in your blood」的技能连线——母亲的嗅觉是这个家的监控系统，血液是它的数据库。
+ch25 scraps and suffering.md:78 **读者视角提示**：把「You were mine. And still, I am.」的过去时/现在时并置记下——母亲的占有是时态完整的：过去占有，现在仍占有，将来式缺席（因为她的将来没有女儿的位置——下一句黑泪忏悔即答案）。
+ch25 scraps and suffering.md:98 **为什么这样写**：护城河=她的心的等式在此正式成立——干裂的原因被归罪于女儿（cruelty、desire to leave）：她的每一条裂缝都有人名。
+ch25 scraps and suffering.md:99 **读者视角提示**：注意「I dumped the bodies there」的现实与「你劈开我的心」的浪漫化并行——母亲把因果说反了，而这正是全书所有伤害的语法：她的痛永远是别人劈的。
+ch25 scraps and suffering.md:103 **中文理解**：「我不会离开你！」我喊，不知道还能给她什么。「你有我！完完整整的我！」 ……「不。」母亲吐出这个字，笑意变宽，月光掠过她的尖牙、掠过她眼里的白。「你爱我，不像从前那样了。我听得见你的心，闻得到你血里的它。有别人认领了更大的
+ch25 scraps and suffering.md:106 **读者视角提示**：把「碎屑（scraps）」与 ch19 的「For scraps」对读——Sylvatica 用碎屑签了卖身契，Rue 被母亲判了只剩碎屑。两代女人的估值体系一模一样。
+ch25 scraps and suffering.md:117 **中文理解**：Oren。 ……我从她的爪里撕开自己——心口疼着：Anne 平安，Oren 不然。我跑的时候母亲尖叫，哀嚎混着癫狂的咯咯笑。她没有追——这次没有。她放我走，因为她知道。 ……她知道，她知道，她知道。 ……我已经无处可去。
+ch26 with you.md:9 - **一句话概括**：她循着心链跑进完好的 Blackwood Hall——Oren 开胸捧着自己的心等她；母亲的血喂毁了他，她对着残躯完成当初求毁的誓言，最后在晨光的审判里失去他。
+ch26 with you.md:26 **中文理解**：Blackwood Hall 浸在温柔的月光里，一圈光晕——有那么一刻，只有一刻，我可以相信一切都好。被恐怖碰过的东西怎么可能被照得这样亮？屋子里有一种空——沉沉的寂静，所有人都在床上、按该睡的时辰睡。硬脸管家不见踪影；火
+ch26 with you.md:29 **读者视角提示**：把「这里干净」与「他人已毁」对照——母亲的破坏力从来不留现场：她只改人，不改房间。
+ch26 with you.md:49 **为什么这样写**：持心的静物画用了首饰盒的比喻——心被呈盒装献礼：这是母亲对 Oren 的「加工」签名（与她的摆尸工艺同源）；「quite beautiful」的审美判断是 Rue 彻底归化的自白：她已经能用母亲的眼睛看恐怖。
+ch26 with you.md:56 **为什么这样写**：Veronica 的求而被拒与 Oren 的得而被毁对照：母亲的爱从来不直接给——她只发放代价；「no love without ruination」是母亲的哲学命题，也是本章的判决书：她用 Oren 证明了它。
+ch26 with you.md:63 **为什么这样写**：血腥气「像家」是她归化的最终确认：母亲的气味体系把她彻底收编；控诉的账目逐条清算 Oren 给过的希望（无罪、已拯救）——她在怨恨他把希望给过她：没有希望就不会疼。
+ch26 with you.md:70 **为什么这样写**：白月之眼回收 ch16 Piceus 的满月眼——被怪物喂过的人开始长怪物的眼睛：Oren 的变与 Sylvatica 的变同一套图纸；「But it is mine.」的占有宣言对准那颗心——她在学母亲的语法（先认领
+ch26 with you.md:71 **读者视角提示**：把「eyes like moons」的传递链记全：Piceus→母亲（白眼）→Oren——怪物性是液体，顺着血传播。
+ch26 with you.md:82 **中文理解**：我俯身吻他——唇贴上他染黑的嘴。他尝起来是我母亲的味道。有那么一刻——最短的一瞬——他像是在回吻；然后他扑上来，牙一咬，撕下我一片唇，咽了下去。我退开，把血和眼泪滴回他嘴里，他像狗一样舔干净。
+ch26 with you.md:84 **为什么这样写**：回吻的一瞬与撕咬的下一秒——Oren 残存的人性按秒计费；她把血泪喂回去的动作是本章最完整的爱情语法：他们终于互喂——用彼此的身体完成了母亲教的所有课程。
+ch26 with you.md:89 **中文理解**：我用染红的掌心抚 Oren 的脸颊，轻抚他那只怪白眼睛下的阴影。我按得更深——指甲刮开那层薄皮。我想把眼球抠出来，放在镜片下看——看有没有剩下的他，一块碎片，一声回声。 ……什么都没有了，只剩我母亲毁坏之物的影子；我温柔的
+ch26 with you.md:99 **读者视角提示**：把「黎明的审判」与 ch03 母亲「黎明即衰」的设定对齐——阳光在本书是天罚的执行者。Oren 死在它手里，不是母亲的手里：她只负责制造，清算交给太阳。
+ch27 her heart beats for me.md:12 - **人物弧线**：Rue 拒绝分享悲伤（It is mine）；她拒绝地牢余生、亲手取回「她的爱」；母亲到死没有说出「爱」这个字——两代人的沉默同时落幕。
+ch27 her heart beats for me.md:13 - **叙事手法**：骨灰—抱尸—掏心三级递进；「There is no love without fear, without pain」对母亲命题的半步反驳；结尾疤的意象收束全书触觉系统。
+ch27 her heart beats for me.md:26 **中文理解**：除了家无处可去；我见不了 Anne，没法看着她那张宽恕的脸告诉她：她哥哥死了。那份爱没能救下他。 ……它在的，可是天哪，它不够。 ……我像幽灵一样穿过 Folkehaven 的走廊。连影子都在退，鬼们沉默地看着。就算它们看
+ch27 her heart beats for me.md:33 **中文理解**：泪没了。我是个空的造物——只剩骨头与肉，动只因为不得不动。于是我往下走，一层又一层，走过蹲在台阶上又黑又肥的鼠，走进冷、潮与暗里。我扒开土，抓到她为止。 ……母亲沉睡着，皮在剥，腐在她尸上开花。我滑到她身边——她在怀里轻得
+ch27 her heart beats for me.md:35 **为什么这样写**：颈窝的嵌合回收 ch05 的「tucked beneath my chin」（Oren 怀里的同款姿势）——她把 Oren 的抱法移植到母亲身上：身体学不会新的拥抱，只会换人重演；「missing piece」的拼图术
+ch27 her heart beats for me.md:42 **为什么这样写**：「not taste dirt」把拥抱的敌人具体化为土——她一辈子的拥抱都会带土腥（母亲的）或雨味（Oren 的），干净的那次被收走了；「commit it to memory」的时限（没来得及记住）是失去的计量单位。
+ch27 her heart beats for me.md:50 **读者视角提示**：把这两句话记成本书的哲学核心：如果爱是可以学的，母亲的全部暴行就成了选择；如果不能，她只是另一种物种。Rue 掏心之前，先提出了这个命题。
+ch27 her heart beats for me.md:56 **为什么这样写**：「穿着 Oren」的血衣并列是全书最惊悚的亲子装：母亲吃了他，女儿埋了他——血的衣服两代同款；「Yes」的一个字回答把独生女计划书公开：Veronica、Ladies、Oren 都清场了，名单上只剩 Rue。
+ch27 her heart beats for me.md:57 **读者视角提示**：把「这就是你想要的吗」的问题记住——它在 ch27 的答案（Yes）与 ch06 的弃婴令（dispose of it）首尾相扣：母亲要的从来是「只有我们」，只是先扔后留的顺序颠倒了一次。
+ch27 her heart beats for me.md:63 **为什么这样写**：对阳光的乡愁与母亲遗忘论的对撞——她的挽留只有一句话（sunlight），母亲的回答只有一句判决（你会忘）：地牢余生谈判在两句话内结束。
+ch27 her heart beats for me.md:64 **读者视角提示**：把「忘」的判词与 ch23 的「I wish to be forgotten」连线：她曾被母亲遗忘过一次，现在被要求自忘。太阳是她最后的抗辩理由——也是最无力的一条。
+ch27 her heart beats for me.md:82 **中文理解**：没有不带恐惧、不带疼的爱。 ……而我拉——拿走属于我的。她的动脉崩断，黑脓溅上我的手指；线头缠过我的指缝，血藤把我拴在她身上。母亲的手还停在我脸颊上——指甲抠进去，在我取她的血时她取我的血。她弓起背，脊椎咔地折断，皮肉枯萎
+ch27 her heart beats for me.md:89 **中文理解**：「你爱我吗？」我逼问——到了这时我仍然需要它。我的手绞在她身体里。「告诉我你爱我。」 ……母亲张开嘴，皮从边缘撕裂，牙太尖、那么尖。她没有回答——更多的黑从眼里涌出来——然后她终于静止，再也不动了。 ……我不得不把她抠进我
+ch27 her heart beats for me.md:91 **为什么这样写**：最后的索爱得到的是沉默加黑泪——母亲至死没有说「爱」，但她的手到死没有松开：答案与回答分了家；「last embrace will scar」把全书第一处疤（ch01 Veronica 抓的 lace）与最后一处连成疤
+ch28 two graves.md:11 - **Tropes 兑现/反转**：「钉棺防尸变」兑现——钉她的人是女儿；「闺蜜安慰」反转——安慰无效但陪伴有效；「回家」反转——她承认 home 是 Folkehaven，却允许被带走。
+ch28 two graves.md:12 - **人物弧线**：Rue 对母亲的死因保持沉默（没人知道她掏了心）；她仍被母亲的歌声缠着（dreams）；Anne 的孕肚与哀容并存；她学会把寻找 Oren 变成日常动作。
+ch28 two graves.md:21 **为什么这样写**：两坟的差别待遇是一次终审：母亲获铁笼（防复活的最高规格），Oren 得安眠——钉桩的执行者是女儿：她用人类的方法处决了不死的母亲；「despite my mother's wishes」的插语冷静宣判：她连遗愿都没给。
+ch28 two graves.md:22 **读者视角提示**：把「木桩钉肋」记成全书家族传统的终结：Sylvatica 的血裔在女儿手里被钉回了土里。ch06 没扔成的婴儿，最终亲手钉死了那个没扔成她的人。
+ch28 two graves.md:40 **中文理解**：从我记事起母亲就唱歌给我——奇怪而可怕的字眼哼在半支摇篮曲上。她的嗓音永远锐利，每个词都是一道浅浅的割口。她的声音里有什么——话背后压着我心口的重量——尽管一切，我身体里仍有一部分渴着她的拥抱、她嘴唇的触碰，无论多冷、贴上
+ch28 two graves.md:56 **为什么这样写**：Annie 的确定与她的不确定之间隔着一条梦：梦里母亲的歌仍在——钉桩没钉住歌声；「will not let me go」回收 ch21 的「I will always forgive you, if you come
+ch28 two graves.md:64 **读者视角提示**：记住百合花香——与母亲的 lilies and despair（ch02）同一花香、两种配方：Anne 的百合没有绝望的配比。花是对照出来的。
+ch28 two graves.md:70 **为什么这样写**：Anne 的三连问把她的希望一层层剥给 Rue 看：先问鬼宅、再改问旧宅——她在找任何一处弟弟可能还「在」的地方；「I cannot bear it」的痛因是希望本身：绝望她扛得住，希望扛不住。
+ch28 two graves.md:92 **读者视角提示**：把「allow her to lead me away」与全书所有「被带走」（母亲牵、Oren 携）对照：前几次她没得选，这一次她签了字。三十七个章节的主动权战争，以一个 allow 结束——直到尾声翻开下一页。
+ch29 as it should be.md:10 - **情感弧线位置**：全书终章：所有未清的账（手套真相、白猫生死、母亲的骗局）被一句「It matters little now」全部结案——接受，是她学到的最后一样东西。
+ch29 as it should be.md:26 **中文理解**：霉从墙里渗出来，又厚又黑，把剩下的墙纸一片片揭掉——像母亲揭皮那样。我脚边，一只猫绕着圈，毛还是那么白。她更瘦了，肋骨又一次在毛下凸现。我想起那副手套、它们的柔软——如今我知道那是一场残忍的骗局。我不知道白猫是从母亲手里逃
+ch29 as it should be.md:49 **为什么这样写**：终句把她的存在状态列成五种并列（被渴望/欢迎/惧怕/爱/鄙视）——不给任何一种加权：她终于接受了全部的自己，包括被鄙夷的部分；「Death settles like a warm cloak」回收 ch04 的「col
+
+合计 956 行候选 / 32 个文件
