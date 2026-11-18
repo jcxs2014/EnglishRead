@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch17",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch17_paradise.txt",
+ "facts": [
+  {
+   "fact": "Simone 开场自认\"泼冷水\"：本条 Hype 是坏消息通报。",
+   "anchor": "I hate to be a buzzkill, but I have some bad news.",
+   "start": 0,
+   "end": 50
+  },
+  {
+   "fact": "烟花大秀因浮动驳船（floating barge）的设备故障取消。",
+   "anchor": "Our fireworks extravaganza is cancelled due to an equipment malfunction on the floating barge.",
+   "start": 51,
+   "end": 145
+  },
+  {
+   "fact": "官方道歉并承诺尽快择期重办烟花秀。",
+   "anchor": "We apologize and hope to reschedule the event soon.",
+   "start": 146,
+   "end": 197
+  },
+  {
+   "fact": "安保团队正在追踪岛上\"可疑活动\"——细节不能透露，只说是\"小规模调查、无需惊慌\"。",
+   "anchor": "our security team is tracking some suspicious activity on the island",
+   "start": 206,
+   "end": 274
+  },
+  {
+   "fact": "为配合安保，所有客人须天黑前回房并一直待到早晨——全岛性质的禁足令。",
+   "anchor": "we’re asking all guests to return to their rooms before dark and remain there until morning.",
+   "start": 455,
+   "end": 547
+  }
+ ]
+}
