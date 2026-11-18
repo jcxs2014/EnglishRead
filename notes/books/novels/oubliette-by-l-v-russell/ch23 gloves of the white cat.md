@@ -17,14 +17,14 @@ modified: "2026-11-18"
 > **原句 1:** "There is no record of my birth, and the day it falls upon changes with my mother’s whims. But it is always in autumn. If she chose that season because of its affinity with death and dying, of slow rot and endings, or if I really was forced into this world under a changeful sky, I will never know. I will never ask. It is then, and only then, that she bestows a gift upon me. … Until today."
 
 **中文理解**：没有我出生的记录，生日落在哪一天全随母亲的心意。但总是在秋天。如果她选那个季节是因为它亲近死亡与凋零、亲近慢性的腐与终结——又或者我真的是在一个多变的天空下被强行塞进这个世界的——我永远不会知道。我也永远不会问。只有在那时，只有那时，她才会赐我一件礼物。 ……直到今天。
-**关键词**：changes with my mother’s whims / its affinity with death / she bestows a gift upon me / Until today.
+**关键词**：changes with my mother’s whims / affinity with death / she bestows a gift upon me / Until today.
 **为什么这样写**：生日的档案缺失与季节的强制绑定，把「生日」写成一场周年祭；「Until today.」两个词的独立成段是本章的发令枪：礼物提前了——而提前意味着异常。
 **读者视角提示**：记住「礼物总在秋天」——它在非秋天到来这件事本身，就是母亲失控的第一个信号。异常即预警。
 
-> **原句 2:** "The wrinkled flesh of forgotten fruit has begun to stink—leftovers from my mother’s bloody feast—the shriveled flesh slops over the cut glass bowls, mold furs over the skin, blue and fine, moving alongside the tiny black flies drawn to the sweet rot. I find I do not mind the scent, the sharpness of it, the slow natural decay of things. It covers up the stench of blood, excrement and vomit. … The Ladies remain, though mother has posed them around the table, all their heads lolling except for Lady Bellamy, who has none. It is a crude display, a game of waiting. I will not remove them, and nor will she."
+> **原句 2:** "The wrinkled flesh of forgotten fruit has begun to stink—leftovers from my mother’s bloody feast. I find I do not mind the scent, the sharpness of it, the slow natural decay of things. It covers up the stench of blood, excrement and vomit. … The Ladies remain, though mother has posed them around the table, all their heads lolling except for Lady Bellamy, who has none. It is a crude display, a game of waiting. I will not remove them, and nor will she."
 
 **中文理解**：被遗忘的水果皱起的皮开始发臭——母亲血宴的剩菜——干瘪的果肉从雕花玻璃碗里溢出来，霉在果皮上生茸，蓝而细密，与被甜腐引来的小黑蝇并肩蠕动。我发现自己不介意那气味——它的尖锐、事物缓慢自然的腐坏。它盖住了血、粪与呕吐物的臭。 ……夫人们还留着——母亲把她们在桌边摆好了姿势，个个脑袋歪垂，只有 Bellamy 夫人没有头。这是场粗陋的陈列，一场等待的游戏。我不会去收，她也不会。
-**关键词**：mold furs over the skin / It covers up the stench of blood / a crude display, a game of waiting / I will not remove them, and nor will she.
+**关键词**：mold furs over the skin / It covers up the stench of blood / a game of waiting / I will not remove them, and nor will she.
 **为什么这样写**：水果的腐烂与人的腐烂同桌陈列——自然腐与暴力腐摆在一起，前者反而「无害」；Ladies 的尸体姿势是母亲的收藏术（ch14 帮厨女孩同款）——「a game of waiting」点破：她在等女儿妥协。
 **读者视角提示**：把「游戏」记成母女的僵局规则：谁先动手收拾，谁先认输。
 
@@ -35,7 +35,7 @@ modified: "2026-11-18"
 **为什么这样写**：母亲的诗意（沙漏藏时间）第一次让女儿感到陌生——她见过母亲的所有形态，唯独没见过「坦白的母亲」；「Not like this.」的重复拒绝是恐惧的措辞：失控的母亲比愤怒的母亲更可怕。
 **读者视角提示**：把「不认识这样的她」与 ch17 的「will she forget me」连线——母女的记忆错位是双向的：母亲在忘，女儿在逃。
 
-> **原句 4:** "She passes me a small box, the wrapping paper an opulent deep green, the ribbon ebony black and silken. I unfold it with care beneath her unmoving gaze, peeling back the tissue paper to expose a pair of fine, soft, white fur gloves. She once would have had Veronica purchase them, choose the paper and the ribbon; I would never know how much of a gift is hers. But this time, with no one else to fetch them for her, they are hers and hers alone. I do not ask how she bought them; if she put pen to paper to have them made especially for me, I do not know. It does not matter."
+> **原句 4:** "She passes me a small box, the wrapping paper an opulent deep green, the ribbon ebony black and silken. I unfold it with care beneath her unmoving gaze, peeling back the tissue paper to expose a pair of fine, soft, white fur gloves. She once would have had Veronica purchase them, choose the paper and the ribbon; I would never know how much of a gift is hers. But this time, with no one else to fetch them for her, they are hers and hers alone."
 
 **中文理解**：她递来一个小盒子——包装纸是华贵的深绿，缎带乌黑泛丝光。在她不动的注视下我小心拆开，剥开绵纸，露出一双精美、柔软的白色毛皮手套。从前她会差 Veronica 去买、去挑纸挑缎带——礼物里有几分是她的，我永远不会知道。但这一次，没有人可以替她跑腿——它们是她亲手、只属于她的手笔。我没有问她怎么买到的；她是否提笔定制，我也不知道。这不重要。
 **关键词**：a pair of fine, soft, white fur gloves / they are hers and hers alone / I do not ask how she bought them
