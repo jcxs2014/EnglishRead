@@ -1,0 +1,403 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/ch08 the golden city.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/odette-rising-by-julianne-edwards/text/ch08_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "But as Odette surveyed her spoils, she realized that she had never had to hook up a corset before, and this one, spreade",
+          "ok": true,
+          "pos": 807
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "To be high over the Seine thrilled her, and even if the water was thick and brown, smelling of mud and rot, she loved th",
+          "ok": true,
+          "pos": 4778
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "His wild eyes fixed upon her, and she caught the full force of his fetid breath as he shouted, “A sous for a starving so",
+          "ok": true,
+          "pos": 7575
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It was tall, much taller than she could have imagined, and stood stridently confident on massive, splayed legs. There wa",
+          "ok": true,
+          "pos": 10387
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She had a right to be there, she wanted to be there, and she would claim her space in this golden city. The onlookers mo",
+          "ok": true,
+          "pos": 12804
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Yes, he was a droll fellow, with a saucy imagination. He kept such lively company, didn’t he? I must say, I never knew ",
+          "ok": true,
+          "pos": 14598
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Within these jeweled halls you house the dreams of your customers, like a repository of hope. I find it breathtaking. In",
+          "ok": true,
+          "pos": 16297
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "We are not people of fashion; we are manufacturers. We are not Parisians; we are plain people from across the river. We ",
+          "ok": true,
+          "pos": 18504
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“No, sir. I may be plain, but I am not seduced. I am feeling. I feel alive. Finally alive.” Her face was hot, her palms ",
+          "ok": true,
+          "pos": 18699
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She didn’t recognize any of the images he’d painted. Whatever had he meant by the company her father had kept? What comp",
+          "ok": true,
+          "pos": 21379
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Merry froze as Madame Feld leaned in and held it against him, checking for size. She smiled, said something more, and th",
+          "ok": true,
+          "pos": 22783
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She thought of the story Merry had told, of the bloodied, half-dead man he’d delivered home that night. Would he have ha",
+          "ok": true,
+          "pos": 24431
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 9.5,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4548,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 35 章中位 9、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

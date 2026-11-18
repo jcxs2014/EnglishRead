@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch08",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch08_chapter_8.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "新装昨夜已送到（新羊毛味、淡蓝棉衬里、墨色天鹅绒领），但奥黛特从没穿过紧身胸衣、独自根本扣不上；她硬着头皮向相识一生的 housekeeper Madame Dendron 开口求助扣背后的搭扣——Dendron 先对这套新装出言讥诮般惊讶。",
+   "anchor": "“I need assistance. Help with the fastenings,” ventured Odette.",
+   "interval": [
+    1586,
+    1649
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章大事件：奥黛特生平第一次离开 Sèvres 进巴黎；Beauclerc 先行出发且脾气比平时更坏、拒不入屋等候，她独自在 salon 等到车夫回来才动身，管家与厨娘都站到台阶上看她出门。",
+   "anchor": "She was leaving Sèvres for the first time.",
+   "interval": [
+    3139,
+    3181
+   ],
+   "verified": true
+  },
+  {
+   "fact": "马车过桥（塞纳河桥面只容单向一车）后行至闹市路口，一个乞丐突然拍打车厢把头探到车门前乞讨：\"A sous for a starving soldier, lady?\" 还嘲她 \"You're a big one, aren't you!\"；车夫挥缰绳抽过他的头顶，马车猛地把人甩脱，围观者众，奥黛特闭眼把脸埋进椅背，袋里的 Polo 吓得乱窜。",
+   "anchor": "“A sous for a starving soldier, lady?”",
+   "interval": [
+    7722,
+    7760
+   ],
+   "verified": true
+  },
+  {
+   "fact": "候场的一侧：Beauclerc 在百货店对面的咖啡馆等，邻桌 couple 上午 eleven o'clock（十一点）就在喝 absinthe，买手之约定在 twelve（十二点）；他心里掂量这位东家之女——Just twenty-one（才二十一岁），不通世务、不懂生意、不善社交，偏偏固执得碍事，感叹 Edouard Huré 死后几个月无人接手设计。",
+   "anchor": "Just twenty-one, with no experience of the world",
+   "interval": [
+    9711,
+    9759
+   ],
+   "verified": true
+  },
+  {
+   "fact": "三楼会面室里买手把亡者说成 \"poor Emile has sadly passed away\"，Beauclerc 当场纠正 \"He was Edouard Huré\"；买手又笑说从不知 Huré 有个女儿、\"还这么 exceptional\"，暗指她父亲\"kept such lively company\"，助手闷笑——奥黛特听人议论亡父，心率加速、下颚发紧。",
+   "anchor": "“Edouard,” said Beauclerc. “He was Edouard Huré.”",
+   "interval": [
+    14492,
+    14541
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章转折：奥黛特不再客套，坦陈自己今天才第一次见巴黎、从未离开过 Sèvres，最后说 \"this day might be the beginning of my life\"；买手张口又闭上，Beauclerc 拽她起身夺路而出，在电梯里斥她造成 \"damage\"、\"naive\"、\"Stick to the business\"——她却回敬 \"I am feeling. I feel alive. Finally alive.\"，并要求独自留下逛店被他以\"不安全不得体\"拒绝。",
+   "anchor": "this day might be the beginning of my life.",
+   "interval": [
+    16635,
+    16678
+   ],
+   "verified": true
+  },
+  {
+   "fact": "次日窗前，奥黛特看见寡居的 Madame Feld（丈夫即她曾目睹倒地死去的那个人）主动走向扫街的 Merry，从 holdall 里取出亡夫那件带 gleaming brass buttons 的灰色羊毛长大衣贴身比量；Merry 先愣后抚袖贴颊、抱紧大衣跑回屋——奥黛特羞愧如雷击：她从没注意到 Merry 没有大衣，也从没问过父亲的衣服去了哪。",
+   "anchor": "pulled out a long gray wool coat, with gleaming brass buttons",
+   "interval": [
+    22882,
+    22943
+   ],
+   "verified": true
+  },
+  {
+   "fact": "奥黛特推开父亲房间那扇如今已解锁的门，拉开窗帘，把 jackets、浆白衬衫、collars and cuffs、waistcoats、trousers、擦亮的鞋、cravats、cufflinks 连同叠好的 underpants 全翻出来掷在床上；她决定让 Merry 取其所需、housekeeper 打点车夫、余者送 hospice，并想起 Merry 讲过那夜送回\"半死的血人\"的旧事，疑心父亲此后藏着只有入殓人才见过的暗伤。",
+   "anchor": "flinging open the now-unlocked door to his room",
+   "interval": [
+    23729,
+    23776
+   ],
+   "verified": true
+  }
+ ]
+}

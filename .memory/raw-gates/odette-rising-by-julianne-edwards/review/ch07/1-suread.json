@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch07",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch07_chapter_7.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "为有衣可穿去巴黎，奥黛特召女裁缝携年轻助手上门量衣：她只穿衬裙与衬裤站在两人面前被反复打量测量，一站仿佛 an hour（一小时）也不肯开口求坐，怕再受羞辱。",
+   "anchor": "She had been standing still for what felt like an hour",
+   "interval": [
+    965,
+    1019
+   ],
+   "verified": true
+  },
+  {
+   "fact": "女裁缝本以为奥黛特要继续服丧做丧服，奥黛特答\"mourning 已毕，要更时髦\"；她指着杂志指定一套装束——花呢长裙底部缀 three rows of frilled lace（三排褶边蕾丝）、白色衬衫、骑装式棕色外套、插着蓝色菊花与羽毛的 straw boater 草帽。",
+   "anchor": "trimmed at the bottom with three rows of frilled lace",
+   "interval": [
+    2268,
+    2321
+   ],
+   "verified": true
+  },
+  {
+   "fact": "女裁缝顺势提出当下加量为紧身胸衣量尺寸，奥黛特断然喊停拒绝再被测量（关键抗性时刻：她宁可衣服凑合，也不肯再让身体被检视）。",
+   "anchor": "No! Use what you have, no more measuring. Please,",
+   "interval": [
+    3036,
+    3085
+   ],
+   "verified": true
+  },
+  {
+   "fact": "量体结束叫了茶与 éclairs 之后，奥黛特拿起曾摆在父亲床边的那张黑发美人照片，断定此女必是巴黎人、\"属于另一个世界\"——亡父的遗物勾起她对父亲社交世界的好奇。",
+   "anchor": "She picked up the photograph of the beautiful dark-haired woman",
+   "interval": [
+    3967,
+    4030
+   ],
+   "verified": true
+  },
+  {
+   "fact": "另一头：无窗办公室里的经理 Beauclerc（于雷厂的销售负责人）正排练伪装成社交拜访的推销话术——他尚未找到接替设计师，工厂要订单才能给工人发工资，但他认定奥黛特\"physically disconcerting\"且不懂业务与客户，不带她同行。",
+   "anchor": "the woman was physically disconcerting, and she knew nothing of the business",
+   "interval": [
+    5374,
+    5450
+   ],
+   "verified": true
+  },
+  {
+   "fact": "本章关键转折——工厂事故：机器骤然全停，年轻女工倒在蔓延的血泊中，工头 Dupont 向赶来的 Beauclerc 报告：她的袖子被卷住、人被拽进纺锭；Dupont 已派人去叫她那在打包车间的母亲。",
+   "anchor": "“Her sleeve caught,” said Dupont. “She was pulled into the spindles.”",
+   "interval": [
+    6345,
+    6414
+   ],
+   "verified": true
+  },
+  {
+   "fact": "小女工 Emilie Corot 当场死去：Beauclerc 跪在她身边拉起她的手已绵软变凉；她母亲随即冲进车间把女儿抱进怀里呼喊\"come home now\"，工人们垂首无言，Beauclerc 出门时与赶到的医生对视点头——为时已晚。",
+   "anchor": "It was little Emilie Corot. He picked up her hand, but it was limp",
+   "interval": [
+    6221,
+    6287
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 回到办公室盯着绣着\"微笑仙女骑水仙\"的袜样，一挥臂把整批刚送来的样品全扫落地上——目睹死亡后，这位厌恶\"假时装谈话\"的经理对生意标本再无耐性。",
+   "anchor": "With a single lash of his arm, he swept the whole lot onto the floor.",
+   "interval": [
+    8029,
+    8098
+   ],
+   "verified": true
+  }
+ ]
+}

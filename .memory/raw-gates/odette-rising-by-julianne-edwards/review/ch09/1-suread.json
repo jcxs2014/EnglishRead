@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch09",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch09_chapter_9.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "本章关键转折：银行经理平静告知 Huré 工厂接到巴黎那家百货店的一笔 significant order——奥黛特险些落泪、近乎眩晕地如释重负（上章她担心的\"damage\"并未发生，那场发言反而带来了订单）。",
+   "anchor": "the Huré factory had received a significant order from the store in Paris",
+   "interval": [
+    59,
+    132
+   ],
+   "verified": true
+  },
+  {
+   "fact": "奥黛特签完 weekly chits 后，银行经理又推来一张抬头为 Sèvres 的 Monsieur Corot 的付款单，道破 \"That is the father of the girl who was killed\"——她这才头一回得知厂里死了女工（她\"总是最后一个知道\"），经理只知是纺纱机事故、死者全家都是厂里雇工，让她去问 Beauclerc。",
+   "anchor": "“That is the father of the girl who was killed.”",
+   "interval": [
+    442,
+    490
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她追问以前是否也出过事故，银行经理答 accidents are inevitable、历年来确有 tragedies，并说她父亲素来对死者家属慷慨，如今 Beauclerc 正延续这份慷慨、数额 sizable——父女两代与工人的雇佣/抚恤关系借此点出。",
+   "anchor": "Your father was always generous to the bereaved families",
+   "interval": [
+    1713,
+    1769
+   ],
+   "verified": true
+  },
+  {
+   "fact": "奥黛特当场要求 \"Double it. Please\"（把付给 Corot 家的抚恤金翻倍），连自己都惊讶于如此直率；银行经理只稍作停顿便应下 \"As you wish, mademoiselle\"，随后应她所请写下 Corot 家的地址让她写信致哀，并肯定此举合乎礼仪。",
+   "anchor": "“Double it. Please,” she said",
+   "interval": [
+    1855,
+    1884
+   ],
+   "verified": true
+  },
+  {
+   "fact": "回房她仍穿着外衣和衣上床，喂宠物 Polo 吃掉 apricot tart 的最后一角，想到 Polo 亮棕色的眼睛注视她的次数恐怕比父亲的还多——她记不起父亲曾碰过她（只推想幼时该抱过），母亲死后似有过一个 nurse，她对其毫无印象。",
+   "anchor": "She couldn’t recall her father ever having touched her",
+   "interval": [
+    3836,
+    3890
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她的童年记忆碎片从约 four years old（四岁）开始，只有花园里一尊抱不动的仙子/仙女雕像和几套故事书、蜡笔；governess 到她 six（六岁）才来——一个百无聊赖、多毛的女人，只尽职不关情，到她 twelve（十二岁）便离开且无人接替、无人说明缘由。",
+   "anchor": "she had not arrived until she was six",
+   "interval": [
+    4644,
+    4681
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她看清自己的孤立既是退避也是对世界的反击：自信随一次次闭门羹逐年流失，只剩书与食物自慰，而当这些也不够时便 \"taking up her blade\"（拿起刀片）——关键自伤暗示。",
+   "anchor": "taking up her blade when they were not enough",
+   "interval": [
+    5588,
+    5633
+   ],
+   "verified": true
+  },
+  {
+   "fact": "结尾转向主动社交：她盘点可接近的人——同为这无情之家里长大的孩子 Merry、连名字都不知道且有点怕她的车夫、clearly despise 她的 Madame Dendron 与难缠的厨娘——又想到 Feld 家至少 five years ago（五年前）搬来却从未主动接触 Monsieur Huré 父女，年轻守寡的 Madame Feld 如今访客绝迹、也许同样孤单，她最终决定\"试一试\"，否则余生只能对着一只 mouse 说话。",
+   "anchor": "the family had moved in at least five years ago",
+   "interval": [
+    6377,
+    6424
+   ],
+   "verified": true
+  }
+ ]
+}
