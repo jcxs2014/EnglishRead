@@ -1,0 +1,451 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch01 terror or ash.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch01_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Light falls dull and brittle over Folkehaven Manor, as though the sun itself shied away from its walls. No matter the se",
+          "ok": true,
+          "pos": 27
+        },
+        {
+          "text": "It is rotting in a way my mother never truly will",
+          "ok": true,
+          "pos": 485
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She is silent—they are all silent. In the draft, she sways, her bare feet scraping along the floor. The noose that hange",
+          "ok": true,
+          "pos": 867
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The door creaks open, and the reek of old flesh washes in. I look up. Nothing greets me in the mirror; the slow scraping",
+          "ok": true,
+          "pos": 1203
+        },
+        {
+          "text": "“You look divine, my dear.” A hand grasps my shoulder, broken nails curling against the lace of my gown. “Like a little ",
+          "ok": true,
+          "pos": 1401
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Her sleeves have long been torn away, revealing thin arms in a crisscross of shimmering scars. Newer cuts are sliced ove",
+          "ok": true,
+          "pos": 1845
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“And what a shame it will be, Veronica, for you to spend your time getting the stains out,” I reply",
+          "ok": true,
+          "pos": 2139
+        },
+        {
+          "text": "Veronica lowers herself, matted hair slipping over her shoulders. “It will burn.”",
+          "ok": true,
+          "pos": 2238
+        },
+        {
+          "text": "I meet her pale, shadowed eyes. “This gown is a favorite of mine. You will have it cleaned.”",
+          "ok": true,
+          "pos": 2318
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You will be seated beside Lord Horewith,” Veronica says, her gaze flitting to the specter in the corner of my room. “An",
+          "ok": true,
+          "pos": 3146
+        },
+        {
+          "text": "“Then why does my mother need me in attendance?”",
+          "ok": true,
+          "pos": 3320
+        },
+        {
+          "text": "“Because she will always need you.” Veronica says it like a threat, a warning, and a condemnation all at once. “Do not m",
+          "ok": true,
+          "pos": 3367
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“There was a young girl called Hope",
+          "ok": true,
+          "pos": 3650
+        },
+        {
+          "text": "who found herself at the end of a rope",
+          "ok": true,
+          "pos": 3686
+        },
+        {
+          "text": "Her throat was torn open",
+          "ok": true,
+          "pos": 3726
+        },
+        {
+          "text": "both eyes were a token",
+          "ok": true,
+          "pos": 3752
+        },
+        {
+          "text": "For the lady, she fought to elope.”",
+          "ok": true,
+          "pos": 3776
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Then she laughs, a thin cackle that scrapes at my ears. When I turn once more to the shadowed corner of my room, the spe",
+          "ok": true,
+          "pos": 3811
+        },
+        {
+          "text": "Hope, I remember. The specter’s name was Hope",
+          "ok": true,
+          "pos": 4011
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Veronica snatches at my chin, fingers sharp. “Whatever fancies have taken root in your head, child, rip them out now, do",
+          "ok": true,
+          "pos": 7648
+        },
+        {
+          "text": "such curiosities. We are terror, or we are ash, do you understand?” Her nails break through my skin, and blood slips dow",
+          "ok": true,
+          "pos": 7913
+        },
+        {
+          "text": "I stare back into her wild, awful eyes. “I understand.”",
+          "ok": true,
+          "pos": 8060
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“What are we?”",
+          "ok": true,
+          "pos": 8114
+        },
+        {
+          "text": "Hopeless, loveless, empty, damned, doomed. The darkness around us is endless, eternal. “We are terror, or we are ash,” I",
+          "ok": true,
+          "pos": 8127
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“And if I tell you he has all those shortcomings and more, would that make your smile come easier, Rue? Lady Pengelly as",
+          "ok": true,
+          "pos": 8473
+        },
+        {
+          "text": "I rise, wiping the dust and mold from my skirt. “Everyone in this fucking town is a ruin.” I spit out the words. “I will",
+          "ok": true,
+          "pos": 8638
+        }
+      ],
+      "words": 65
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 138,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 122,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Chapter 1",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 26,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1643,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

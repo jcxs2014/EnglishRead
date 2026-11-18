@@ -1,0 +1,61 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch01",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "房屋腐烂而母亲永不腐——非人设定",
+   "anchor": "It is rotting in a way my mother never truly will.",
+   "start": 549,
+   "end": 599
+  },
+  {
+   "fact": "房间角落多年前的吊死女鬼常年站立",
+   "anchor": "The noose that hanged her many years before creaks",
+   "start": 1035,
+   "end": 1085
+  },
+  {
+   "fact": "Veronica 进房镜中无倒影——非活人",
+   "anchor": "Nothing greets me in the mirror",
+   "start": 1343,
+   "end": 1374
+  },
+  {
+   "fact": "Veronica 手臂新旧伤，自割肉条喂母亲",
+   "anchor": "Newer cuts are sliced over them, ribbons of flesh peeled away",
+   "start": 2018,
+   "end": 2079
+  },
+  {
+   "fact": "今晚任务：陪 Horewith 勋爵",
+   "anchor": "You will be seated beside Lord Horewith",
+   "start": 3254,
+   "end": 3293
+  },
+  {
+   "fact": "打油诗后 Rue 记起女鬼名 Hope",
+   "anchor": "The specter’s name was Hope",
+   "start": 4180,
+   "end": 4207
+  },
+  {
+   "fact": "图书馆女鬼哀嚎纠缠，Rue 挥手驱散",
+   "anchor": "I swipe my arm through her, and I am alone again",
+   "start": 6641,
+   "end": 6689
+  },
+  {
+   "fact": "被迫复述家族信条认领身份",
+   "anchor": "I echo her",
+   "start": 8491,
+   "end": 8501
+  },
+  {
+   "fact": "情报来源：Horewith 烂透",
+   "anchor": "Lady Pengelly assures us he is quite rotten.",
+   "start": 8836,
+   "end": 8880
+  }
+ ]
+}
