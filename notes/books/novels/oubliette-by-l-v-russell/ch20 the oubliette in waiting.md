@@ -24,7 +24,7 @@ modified: "2026-11-18"
 > **原句 2:** "“Rue! Stop, stop! Please, Rue!” Oren snatches at my arm, his fingers cold and slick with rain, and I want to turn and claw his face off. “It is not safe for you to go back now.”"
 
 **中文理解**：「Rue！停下，停下！求你，Rue！」Oren 一把抓住我的手臂，他的手指又冷又滑全是雨水——我想转身把他的脸抓烂。「你现在回去不安全。」
-**关键词**：snatches at my arm / claw his face off / It is not safe for you to go back now
+**关键词**：snatches at my arm / claw his face off / not safe to go back now
 **为什么这样写**：想抓烂爱人的脸——她的爱与攻击性共用同一双手：被拦的瞬间暴怒先于理智到站；他的「not safe」说得对却无用——对她而言，「安全」的定义从来不包含离开母亲。
 **读者视角提示**：注意她没说「她不危险」——她默认母亲是危险的，仍要回去。爱与危险在她的账本上是两个科目，从不相抵。
 
@@ -42,10 +42,10 @@ modified: "2026-11-18"
 **为什么这样写**：投降的姿势配宣战的台词——「soft surrender」与「storm」在同一行对撞：他给她的选项温柔，给母亲的版本是攻城；「storm into Folkehaven」是 Oren 的人的第一次军事表态：为爱渎神的人，也敢为爱破门。
 **读者视角提示**：把「明天」这个期限记下——它将在后文被反复违约与兑现。Oren 的每次行动都有时间戳，这是他与母亲的差别：母亲的时间是永恒，他的时间是明天。
 
-> **原句 5:** "Moonlight pools over the steps of Folkhaven, and I slow, my feet careful on the wet stones. The iron staircase waits for me, silent and solid, beckoning me to come closer, to descend. With a trembling hand, I light one of the yellowing candles from the sconces, and pluck it from its spike. … Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
+> **原句 5:** "Down I go, down and down and down to where the air is colder, thicker. To the hollow pit where my mother slumbers, the gouged-out earth where I want to leave her. Bury her. Forget her."
 
 **中文理解**：月光淌在 Folkehaven 的台阶上，我放慢脚步，在湿石上小心翼翼。然后我冲过走廊、穿过冰冷的黑暗与看着我的影子。铁楼梯等着我——沉默、结实、招我靠近、招我下降。我用发抖的手点亮壁灯上一支泛黄的蜡烛，从尖钉上拔下来。它在我指下油腻腻的。 ……我往下走，一层又一层，去到更冷、更稠的空气里。去那个我母亲沉睡的空坑——那片被我挖开的土，我想把她留在那儿。埋了她。忘了她。
-**关键词**：beckoning me to descend / the gouged-out earth / Bury her. Forget her. / It is greasy beneath my fingers
+**关键词**：down and down and down / the gouged-out earth / Bury her / Forget her / It is greasy beneath my fingers
 **为什么这样写**：楼梯「beckoning」的招引与她的犹豫并置——下行的冲动一半是牵挂一半是狠念；「Bury her. Forget her.」两个短句是全书书名的出土现场：oubliette（遗忘之地）的动词形态在她心里演练过；蜡烛「greasy」的手感细节让恐怖带上了厨房的油腻。
 **读者视角提示**：记住「oubliette in waiting」——这个法语词（囚牢+遗忘）是书名的谜底：她想把母亲变成被遗忘的囚徒。愿望与结局的距离就是全书剩下的页数。
 
