@@ -1,0 +1,559 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch07 ouroboros.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch07_chapter_6.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The remains of Mr. Maltby rot in the dining room. My mother has taken all she wants from him—the cords in his neck, the ",
+          "ok": true,
+          "pos": 29
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It is a slow death, a drawn-out execution that seems ill-deserved by most. I am not fully aware of Mr. Maltby’s crimes, ",
+          "ok": true,
+          "pos": 335
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She seldom tells me; it does not matter to her. But it matters to me. If I am to be my mother’s knacker, I need to know ",
+          "ok": true,
+          "pos": 595
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She sighs, exhaling a breath she does not need. “You should smile more. It suits your face.”",
+          "ok": true,
+          "pos": 2364
+        },
+        {
+          "text": "“I want for you to taste happiness, to hold it upon your tongue,” she says, drawing close to place a kiss on my cheek. H",
+          "ok": true,
+          "pos": 2468
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Who would have me, Mother?” There are specters behind me, silent and listening. “Folkehaven is as much my tomb as it is",
+          "ok": true,
+          "pos": 3369
+        },
+        {
+          "text": "My mother smiles at that, a stretching of her lips, a glint of teeth. “Death will not touch you, my darling. I have forb",
+          "ok": true,
+          "pos": 3497
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You fell from my womb,” my mother begins, nails snapping through the tablecloth and into the wood beneath. “Mewling and",
+          "ok": true,
+          "pos": 3970
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "In my hands I hold a letter; the edges are bent and ripped slightly. I found it on my desk, beneath a paperweight with a",
+          "ok": true,
+          "pos": 5064
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Dear Miss Meremoth, It was an honor to share a dance with you the previous night. I find myself in want of your wonderfu",
+          "ok": true,
+          "pos": 5779
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I must insist, because you may have forgotten when you took the last piece of good beef at the feast we shared, but alas",
+          "ok": true,
+          "pos": 6006
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "There are few who truly know what lurks within the shadows of Folkhaven, few who know what I do while in my pretty dress",
+          "ok": true,
+          "pos": 10061
+        },
+        {
+          "text": "We eat your mistress’s sins, I wish to hiss at him, so she is not buried beneath them",
+          "ok": true,
+          "pos": 10263
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The old woman stirs, her filmy eyes blinking back at me. They are the same blue as her sons, though they possess a stran",
+          "ok": true,
+          "pos": 11217
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Gone are the days when I would dress in my finest to dance beneath the stars.” Lady Pengelly fixes her cloudy eyes on m",
+          "ok": true,
+          "pos": 13532
+        },
+        {
+          "text": "“You feel no guilt?” I press. “For the role you play?”",
+          "ok": true,
+          "pos": 13787
+        },
+        {
+          "text": "“Do you?”",
+          "ok": true,
+          "pos": 13838
+        },
+        {
+          "text": "I hesitate. “Sometimes.”",
+          "ok": true,
+          "pos": 13846
+        },
+        {
+          "text": "“Then that is your burden, not mine. I will die soon enough, and it will no longer matter.”",
+          "ok": true,
+          "pos": 13869
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“You knew he dined at his own wake?”",
+          "ok": true,
+          "pos": 15160
+        },
+        {
+          "text": "“I barely believed it when Mother told me.”",
+          "ok": true,
+          "pos": 15195
+        },
+        {
+          "text": "“But you believe now.” I peel the meat from between the bread, and savor it. It is overcooked, overly seasoned. Dry. “It",
+          "ok": true,
+          "pos": 15237
+        },
+        {
+          "text": "“Good.”",
+          "ok": true,
+          "pos": 14531
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“Wait.” He takes my hand, his elbow knocking his cup so it spills tea over the pristine white tablecloth. “I wanted to t",
+          "ok": true,
+          "pos": 15995
+        },
+        {
+          "text": "as was I.”",
+          "ok": true,
+          "pos": 16204
+        },
+        {
+          "text": "“You concluded that after one dance?” I ask, pulling my hand away. How could I tell him how I felt after that singular d",
+          "ok": true,
+          "pos": 16214
+        },
+        {
+          "text": "Even now I can feel the echo of it, the warmth left behind",
+          "ok": true,
+          "pos": 16423
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Oren takes my hand again, and I allow it. He presses a soft, lingering kiss to my hand, not knowing that soon they will ",
+          "ok": true,
+          "pos": 16681
+        },
+        {
+          "text": "“Can I call on you again?” he asks",
+          "ok": true,
+          "pos": 16887
+        },
+        {
+          "text": "“You may, Mr. Pengelly.”",
+          "ok": true,
+          "pos": 16921
+        }
+      ],
+      "words": 55
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 119,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 127,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter 6",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 30,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3281,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

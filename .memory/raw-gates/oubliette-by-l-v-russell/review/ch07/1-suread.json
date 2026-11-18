@@ -1,0 +1,67 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch07",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch07_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "Maltby 残骸",
+   "anchor": "The remains of Mr. Maltby rot in the dining room",
+   "start": 91,
+   "end": 139
+  },
+  {
+   "fact": "knacker 自觉",
+   "anchor": "If I am to be my mother’s knacker",
+   "start": 730,
+   "end": 763
+  },
+  {
+   "fact": "禁止离开",
+   "anchor": "“Just do not leave me. I will not allow that.”",
+   "start": 2711,
+   "end": 2757
+  },
+  {
+   "fact": "死亡禁令",
+   "anchor": "“Death will not touch you, my darling. I have forbidden it.”",
+   "start": 3691,
+   "end": 3751
+  },
+  {
+   "fact": "衔尾蛇演说",
+   "anchor": "We are ouroboros, endless.",
+   "start": 4418,
+   "end": 4444
+  },
+  {
+   "fact": "吃罪服务",
+   "anchor": "We eat your mistress’s sins",
+   "start": 10526,
+   "end": 10553
+  },
+  {
+   "fact": "Lady Pengelly 垂死",
+   "anchor": "I am dying, child,",
+   "start": 13696,
+   "end": 13714
+  },
+  {
+   "fact": "守灵宴试探",
+   "anchor": "“You knew he dined at his own wake?”",
+   "start": 15593,
+   "end": 15629
+  },
+  {
+   "fact": "和解",
+   "anchor": "I know loneliness well",
+   "start": 16959,
+   "end": 16981
+  },
+  {
+   "fact": "信抬头",
+   "anchor": "Dear Miss Meremoth",
+   "start": 5959,
+   "end": 5977
+  }
+ ]
+}
