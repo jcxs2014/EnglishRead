@@ -1,0 +1,61 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch19",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch19_paradise.txt",
+ "facts": [
+  {
+   "fact": "Lily 把 Sam、Jordan 拉进搜索队（装备按 Ariel 建议置办：水/急救包/雨披/地图）；Sam 自封\"行动的大脑\"（指着自己的大头），Jordan 自封\"肌肉\"。",
+   "anchor": "Sam and Jordan were by Lily’s side, outfitted with backpacks full of gear that Ariel had recommended they bring with them.",
+   "start": 522,
+   "end": 644
+  },
+  {
+   "fact": "Sam 从 David 那里\"借\"扩音器当武器，Milo 泼冷水：大声可能吓跑也可能激发攻击——\"所有野生动物都不可预测，受伤与否一样\"。",
+   "anchor": "Loud noises can either spook an animal or provoke an attack.",
+   "start": 2273,
+   "end": 2333
+  },
+  {
+   "fact": "Milo 的推理与法律科普：走私 exotic animals 违法，运输野生动物需要政府许可——\"如果度假村在亏钱，也许是不想付手续费的规费\"。",
+   "anchor": "Smuggling exotic animals is against the law.",
+   "start": 3470,
+   "end": 3514
+  },
+  {
+   "fact": "搜索发现树干爪痕；Milo 初判 Panthera onca（美洲豹 jaguar）；并推断标记小=幼兽（跑不快，相遇有优势），拍照后\"这里没 Wi-Fi，回头 Google Images 确认\"。",
+   "anchor": "This could be a jungle cat. Specifically, the Panthera onca species.",
+   "start": 8146,
+   "end": 8214
+  },
+  {
+   "fact": "拖车防水布下偷听：英国口音的 Jones 夫妇电话承认\"美洲豹因你们运输时的疏忽逃了\"，还承认\"把安保团队带偏了方向\"（threw the security team off the scent）。",
+   "anchor": "The jaguar escaped because of your carelessness during the transport, and you will face the consequences if something serious happens.",
+   "start": 13280,
+   "end": 13414
+  },
+  {
+   "fact": "Mrs. Jones 透露财务压力：投资者施压，订房量连续第二季度跌超 25%——\"秘密项目必须如期上线，Phase Two 的增量收入才能救岛免于关张\"。",
+   "anchor": "Bookings are down more than twenty-five percent for the second quarter in a row.",
+   "start": 13880,
+   "end": 13960
+  },
+  {
+   "fact": "工人承认\"还没拿到合法许可带动物进来\"，Mr. Jones 一句\"That's not your concern\"打断——Jordan 低声定性\"他们是罪犯！\"；工人接着说要把剩余陷阱设在 den 附近、卡车加油去 Area F。",
+   "anchor": "They’re criminals!",
+   "start": 15172,
+   "end": 15190
+  },
+  {
+   "fact": "Milo 的录音时断时续（可能防水布干扰），不是\"smoking gun\"但聊胜于无。",
+   "anchor": "This recording wasn’t the smoking gun she hoped it might be, but it had to be better than nothing.",
+   "start": 15718,
+   "end": 15816
+  },
+  {
+   "fact": "树屋对质：Max 斥为\"stupid prank\"，Avery 要求证据时——Milo 才发现手机落在了拖车里（Major fail）；Avery 还揭示\"我们发过短信道歉，你 ghosted 我们\"，Sam 耳根通红；Lily 一句\"整个 Paradise 的安全都压在你们肩上\"让姐弟俩决定带四人去看 secret project。",
+   "anchor": "I left it back at the trailer.",
+   "start": 26570,
+   "end": 26600
+  }
+ ]
+}
