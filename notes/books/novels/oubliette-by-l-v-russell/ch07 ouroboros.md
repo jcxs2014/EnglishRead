@@ -10,7 +10,7 @@ modified: "2026-11-18"
 - **情感弧线位置**：主线重启（1822 年 3 月）：Rue 在餐桌与茶桌之间两线作战——对母亲交代心动，对 Oren 试探真心；「衔尾蛇」演说把母女关系钉成无尽循环。
 - **Tropes 兑现/反转**：「恶母拆散鸳鸯」反转——母亲批准恋爱（只禁离开）；茶会戏反转——他姐姐的未婚夫是她吃掉的，两人隔桌谈论同一具尸体。
 - **人物弧线**：Rue 自认 knacker（屠宰师）并想私藏一小块灵魂；母亲给出全书最重要的自我陈述（ouroboros）；Lady Pengelly 现身——Ladies 的垂死成员，「你的负担不是我的」；Oren 的「I am comforted by the fact he suffered」撕开他的温柔。
-- **叙事手法**：餐桌戏与茶桌戏互为镜像（都在吃、都在谈死）；书信全文插入；「warmth kiss my skin（第 40 行）与 a proper home（第 42 行）均被砍」——本句改为指向引语内的 a vast difference to its frigid exterior与 Folkehaven 的低温形成空间对照；结尾动词「unearth」把母亲的睡姿写成埋葬。
+- **叙事手法**：餐桌戏与茶桌戏互为镜像（都在吃、都在谈死）；书信全文插入；「a vast difference to its frigid exterior」的暖黑与 Folkehaven 的低温形成空间对照与 Folkehaven 的低温形成空间对照；结尾动词「unearth」把母亲的睡姿写成埋葬。
 
 ## 精读
 
