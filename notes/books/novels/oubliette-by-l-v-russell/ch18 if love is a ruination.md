@@ -63,7 +63,7 @@ modified: "2026-11-18"
 
 
 **中文理解**：「这是我们的本分，」Edward 说着把 Anne 拉近自己。……「说这话的时候，别显得那么痛苦，」Oren 回他。他快速亲了妹妹的脸颊一下，朝 Edward 伸出手。「善待她。」 ……他的话里有威胁——很轻，但在。Edward 先看了看我，然后点头。他知道如果他辜负了 Anne，他的肉身是要抵账的——用 Oren 的手还是我母亲的手，我只能猜。但 Edward 没有变脸，没有退缩——这也许让他成了我们所有人里最无罪的那个。
-**关键词**：Treat her kindly / a threat to Oren’s words / his flesh will be forfeit / the most guiltless of us all
+**关键词**：is a threat to
 **为什么这样写**：新郎的祝词是一份带违约条款的合同——Oren 的威胁轻描淡写，抵押物却写得很具体（flesh）；Edward 的「不缩」让他成了这个怪物故事里唯一干净的人：他知道风险，签字画押，不找后账——「most guiltless」的封号是 Rue 给正常人的最高褒奖。
 **读者视角提示**：注意「Edward 先看了看我」——他签合同时找的公证人是我：他与她之间那套「知情契约」再一次生效。
 
