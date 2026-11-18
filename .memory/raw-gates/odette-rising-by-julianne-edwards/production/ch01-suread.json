@@ -1,0 +1,55 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch01",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "开场处境：奥黛特在二楼窗内看父亲的灵柩车在门外等候——她十年没出过这栋房子的门。",
+   "anchor": "she had not left the house for ten years",
+   "start": 4602,
+   "end": 4642
+  },
+  {
+   "fact": "报丧：几天前女管家 Dendron 太太来敲门，说她父亲心脏衰竭猝死，说完就快步走了；此后只有烧煤少年避着眼睛送饭点灯。",
+   "anchor": "A failure of his heart, she had said, and gone quickly away.",
+   "start": 1666,
+   "end": 1726
+  },
+  {
+   "fact": "求助送葬：她拉铃叫来烧煤少年，说要去参加葬礼；灵车已滚出视线，少年问她要不要马车，并去传话。",
+   "anchor": "You want the carriage?",
+   "start": 5476,
+   "end": 5498
+  },
+  {
+   "fact": "衣柜窘境：她只有三件宽松亚麻罩衫（两灰一深蓝，身上这件是深蓝），唯一的帽子还是十岁那年戴的，连围巾和大衣都没有。",
+   "anchor": "two in gray and the other, which she wore now, in dark blue",
+   "start": 6062,
+   "end": 6121
+  },
+  {
+   "fact": "上车一幕：车夫先扶她踩上两级踏板，最后用肩膀顶住她大腿后部把她推进车厢，她重重摔在皮座上，马车晃了晃。",
+   "anchor": "he put his shoulder to the back of her thigh and heaved",
+   "start": 9775,
+   "end": 9830
+  },
+  {
+   "fact": "教堂外止步：车队停在黑瓦白石教堂外，里面唱着赞美诗——她从没进过教堂，此刻也不进去；车夫明白，两人原地等送葬队出来。",
+   "anchor": "she would not go inside now",
+   "start": 12123,
+   "end": 12150
+  },
+  {
+   "fact": "工厂男子：一个粗脸、衣帽不合身的男人带着儿子随行，经过时直勾勾看她、停顿，像认出了什么，皱着眉欲言又止匆匆走开——他不喜欢看到她。",
+   "anchor": "he frowned in the most awful way, made as if to speak, but shut his mouth and hurried off",
+   "start": 13295,
+   "end": 13384
+  },
+  {
+   "fact": "跪倒收场：她朝坟穴挪到第二棵紫杉就跪倒在软泥里， grief 加羞辱再也走不动；白脸邻居跪下称呼她 Mademoiselle Huré 并提出陪伴，她摇头拒绝；神父赶完仪式，棺材落进黑坑，吊唁者纷纷乘车离去，她仍跪在原地。",
+   "anchor": "At the second tree she collapsed, partly in grief, partly humiliation, and sank to her knees in the soft mud.",
+   "start": 15458,
+   "end": 15567
+  }
+ ]
+}
