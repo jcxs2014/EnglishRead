@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch15",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch15_chapter_15.txt",
+ "mode": "T3-R1-main-session-reread (subagent quota failed; text re-read before md)",
+ "facts": [
+  {
+   "fact": "铁艺大门（草甸野花造型）好找；Merry 替她敲门引路。",
+   "anchor": "The plants were in fact elongated meadow flowers",
+   "interval": [
+    58,
+    106
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Grimard 对「与 Berthe 熟吗」行使沉默权、拒答。",
+   "anchor": "claim my right to silence. Ask me another.",
+   "interval": [
+    1677,
+    1719
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她直问父亲是否供养 Berthe——他只承认「见过他们一起出入」。",
+   "anchor": "“Did you know he was keeping her? Paying for everything.",
+   "interval": [
+    2162,
+    2218
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Grimard 的社会学课：Berthe 类女人能穿行社交却不能属于它。",
+   "anchor": "women like Berthe are not granted a position in society.",
+   "interval": [
+    3371,
+    3427
+   ],
+   "verified": true
+  },
+  {
+   "fact": "他给出核心句：无法改变别人怎么看，但可以决定不厌恶自己——她落泪。",
+   "anchor": "we can decide not to dislike ourselves.",
+   "interval": [
+    5517,
+    5556
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她顿悟羞耻不是天生的、是别人递来的，可以递还。",
+   "anchor": "handed to her by others",
+   "interval": [
+    7116,
+    7139
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她决定替 Berthe 付账——为联结 Berthe/Louis/Arielle 换新生活。",
+   "anchor": "she would of course pay Berthe’s bills",
+   "interval": [
+    7633,
+    7671
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她谢他代付餐费，Louis 皱眉否认——匿名付款人另有其人。",
+   "anchor": "I did not know you were in difficulty",
+   "interval": [
+    8099,
+    8136
+   ],
+   "verified": true
+  }
+ ]
+}

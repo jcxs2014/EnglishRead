@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch13",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch13_chapter_13.txt",
+ "mode": "T3-R1-main-session-reread (subagent quota failed; text re-read before md)",
+ "facts": [
+  {
+   "fact": "门房盘问独自赴宴的她（无男伴几乎进不了门）。",
+   "anchor": "“Is someone joining you?” he asked.",
+   "interval": [
+    545,
+    580
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她独坐中央桌半小时、菜单读了数遍、不敢对视。",
+   "anchor": "Half an hour passed. Odette had been given a menu",
+   "interval": [
+    1913,
+    1962
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 迟到半小时如焦糖浇落，点烟只说「You are here.」。",
+   "anchor": "she lowered herself, like poured caramel, into her chair.",
+   "interval": [
+    3411,
+    3468
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 当众羞辱她点两人份、块头大是吃出来的。",
+   "anchor": "“You’ve ordered dishes for two. You eat too much.",
+   "interval": [
+    4971,
+    5020
+   ],
+   "verified": true
+  },
+  {
+   "fact": "她以真相回敬：你住在我父亲的房子里；初次饮酒如酸。",
+   "anchor": "here’s a truth: you are living in my father’s house.",
+   "interval": [
+    5231,
+    5283
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 断言法律无眼、勿做法律的仆人；产权论属爱与全世恋人。",
+   "anchor": "The law has no eyes. It is blind.",
+   "interval": [
+    6233,
+    6266
+   ],
+   "verified": true
+  },
+  {
+   "fact": "邻桌 Comte 致意、Grimard 赠酒现身（ architect 作者）。",
+   "anchor": "“Le Comte de Mâcon sends his regards, madame,”",
+   "interval": [
+    6986,
+    7032
+   ],
+   "verified": true
+  },
+  {
+   "fact": "债单摊牌谈崩：Berthe 烟摁进她的沙拉、椅翻拂袖而去；账单被匿名绅士付清。",
+   "anchor": "She stubbed out a cigarette in Odette’s salad",
+   "interval": [
+    16255,
+    16300
+   ],
+   "verified": true
+  }
+ ]
+}

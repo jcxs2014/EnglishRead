@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch14",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch14_chapter_14.txt",
+ "mode": "T3-R1-main-session-reread (subagent quota failed; text re-read before md)",
+ "facts": [
+  {
+   "fact": "Beauclerc 当晚逼妻临摹借来的鹭鸟图赶绣样品。",
+   "anchor": "getting his wife to copy herons from a book he’d borrowed",
+   "interval": [
+    409,
+    466
+   ],
+   "verified": true
+  },
+  {
+   "fact": "买家嫌弃鹭样粗陋——他早就知道却硬着头皮送上。",
+   "anchor": "He had known, of course, that they were uncouth and of poor quality.",
+   "interval": [
+    250,
+    318
+   ],
+   "verified": true
+  },
+  {
+   "fact": "活只够几周：机器将停、工人将遣散——工厂倒计时开始。",
+   "anchor": "they would have to be stilled and the workers sent home",
+   "interval": [
+    1470,
+    1525
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Feld 家 Cassatt 画不见、墙上只剩空白方格；Arielle 撒谎后默认已卖。",
+   "anchor": "Where there had been the mother and child there was a blank square of wallpaper.",
+   "interval": [
+    3188,
+    3268
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Gilles（将满八岁）与 Eugénie（六岁）登场的孩子们无评判地盯着她吃蛋糕。",
+   "anchor": "about to be eight, while his sister, Eugénie, was six",
+   "interval": [
+    5983,
+    6036
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Grimard 曾是 Arielle 画室时代的熟人——常来看画、请午餐（圣日耳曼四女性合作画室时代）。",
+   "anchor": "used to come to the studio in which I painted",
+   "interval": [
+    8815,
+    8860
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Saint-Germain 把 Berthe 房产、Grimard 画室、Arielle 旧画室连成一网。",
+   "anchor": "Saint-Germain connected the three new people in her life",
+   "interval": [
+    10024,
+    10080
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 回想自己经营过的铸造厂（为巴黎人织袜是浪费才干——排水盖、车轴才是男人活）。",
+   "anchor": "He thought of the foundry he had run",
+   "interval": [
+    1914,
+    1950
+   ],
+   "verified": true
+  }
+ ]
+}
