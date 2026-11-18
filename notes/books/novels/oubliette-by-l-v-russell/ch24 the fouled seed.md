@@ -38,7 +38,7 @@ modified: "2026-11-18"
 **读者视角提示**：注意「干涸的护城河」——隔离母亲的同款水系此刻是干的：水会回来，时机由他定。记住这个细节。
 
 > **原句 4:** "…  … We pass over a stone bridge, the moat beneath long dried, the earth cracked. Withered reeds cling to the edges, sun-scorched and brown. But the house, oh, it is magnificent, a sprawling beast of stone and ivy. There are windows of stained glass, and carved grotesques watching above among the crows. It is a palace fit for a lady, for a queen. And he tells me it is mine."
-**中文理解**（承上段拆分，承接本块引语）：他领她走过大路、绕过窄巷、登上台阶——一座大得能当城堡的庄园。乌鸦俯冲嘶叫，彩玻异兽俯瞰。这是一座配得上夫人、配得上女王的宫殿——而他告诉她：它是她的。
+**中文理解**：他领她走过大路、绕过窄巷、登上台阶——一座大得能当城堡的庄园。乌鸦俯冲嘶叫，彩玻异兽俯瞰。这是一座配得上夫人、配得上女王的宫殿——而他告诉她：它是她的。
 
 
 
@@ -64,7 +64,7 @@ modified: "2026-11-18"
 **读者视角提示**：把「独自怀着它」的命令与母亲 ch06 的弃婴命令对齐——Sylvatica 被弃时怀着东西，她的母亲弃她时她刚出生：这条轮回线在两句话里咬合。
 
 > **原句 7:** "…  … “You cannot leave me!” … “Oh, but I must.” His voice is too soft, a caress with teeth. “You are more than hunger now. I taste it in your blood, in your marrow, and when I suckle between your legs. A foul seed has taken root in your womb. Bear it well, and bear it alone.”"
-**中文理解**（承上段拆分，承接本块引语）：他背转身去——一段从未存在过的距离落定。她追他、抓住他、撕开他的布：「你不能离开我！」
+**中文理解**：他背转身去——一段从未存在过的距离落定。她追他、抓住他、撕开他的布：「你不能离开我！」
 
 
 
@@ -83,7 +83,7 @@ modified: "2026-11-18"
 **读者视角提示**：记住「Not you.」的两个字——它同时回答了「你不是死亡」和「死的不是我」。Piceus 的语言永远一箭双雕。
 
 > **原句 9:** "…  … “Take it from me!” I scrabble on the stone, desperate. “I do not want it! Tear it from me if you must, but do not forsake me.”"
-**中文理解**（承上段拆分，承接本块引语）：「你撒谎！」——「不是你。」她摔在他脚边，感觉到体内那条盘蛇绞着子宫——它从她的血与骨里取食。她的饥饿为什么越来越大，终于有了解释。
+**中文理解**：「你撒谎！」——「不是你。」她摔在他脚边，感觉到体内那条盘蛇绞着子宫——它从她的血与骨里取食。她的饥饿为什么越来越大，终于有了解释。
 
 
 
@@ -109,7 +109,7 @@ modified: "2026-11-18"
 **读者视角提示**：把「水也不允许」与 ch12「She cannot cross the rushing water」对照——Sylvatica 终于继承了她母亲被囚的全部条款。她成了她母亲，一模一样。
 
 > **原句 12:** "…  … Piceus stands at the other side of the bridge; the waters below continue to churn to the sounds of wailing. “You cannot follow me, Sylvatica. I will not allow it. The waters will not.”"
-**中文理解**（承上段拆分，承接本块引语）：Piceus 回头伸手，她几乎抓住——指尖相擦的瞬间她死了：心停、黑沫、七窍渗黑。如果这不是死，她希望它是。
+**中文理解**：Piceus 回头伸手，她几乎抓住——指尖相擦的瞬间她死了：心停、黑沫、七窍渗黑。如果这不是死，她希望它是。
 
 
 
