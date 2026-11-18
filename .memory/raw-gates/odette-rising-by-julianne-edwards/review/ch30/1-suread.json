@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch30",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch30_chapter_30.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "工厂新翼引起轰动、上了巴黎报纸、消息传到里尔；Beauclerc 与 Monsieur Legrand 在巴黎办事，决定去看 Odette Huré 的新翼（尤其经过 Madame Corot 发作之后），却不愿经过他们的旧宅。",
+   "anchor": "Beauclerc was on business in Paris with Monsieur Legrand",
+   "interval": [
+    170,
+    226
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 本想看她的又一桩蠢事，却不得不承认新翼\"惊艳\"：小黑门换成巨大圆角玻璃正面、绿色铁艺交缠并在顶部化作郁金香形，二层整排铁框大窗；他视之为对古镇古典与瓷器趣味的回击，宣告\"未来\"，并承认\"无疑是女人的（undeniably womanly）\"。",
+   "anchor": "The small black door had been replaced by a huge, rounded glass front",
+   "interval": [
+    656,
+    725
+   ],
+   "verified": true
+  },
+  {
+   "fact": "门房 Eric Dupont 比以前更瘦，工厂仍没有新经理（由他独自硬撑、工人不安分）；Beauclerc 拍肩劝他忠于 Odette——\"坚持跟她。她也许还会让我们大吃一惊\"，并暗自承认想让她成功，同时为丢下这些好人而愧疚。",
+   "anchor": "“You’re a loyal fellow,” he said. “Stick with her. She may confound us yet.”",
+   "interval": [
+    2565,
+    2641
+   ],
+   "verified": true
+  },
+  {
+   "fact": "章节转折：一月酷寒天，Merry 转交一封陌生人投递的信（字迹过分整齐拘谨）——是 Victor Gagnon 约 Odette 去 Le Neptune 见面的传票；他知道她了。她怕被拖回黑暗、怕刚开头的新生活被玷污，更怕屋顶下所有人都有危险，决定赴约。",
+   "anchor": "It was a summons from Victor Gagnon to meet—and at Le Neptune.",
+   "interval": [
+    3450,
+    3512
+   ],
+   "verified": true
+  },
+  {
+   "fact": "冰冻午后半明时分，Odette 穿父亲的厚斗篷、由 Ned Smith 驾马车载她出发，五点半刚过就到了餐厅门口（街上又黑又空）；领班领她走向唯一的另一位食客。",
+   "anchor": "It was barely five-thirty when they arrived outside the restaurant",
+   "interval": [
+    5293,
+    5359
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Gagnon 自报身份——肌肉壮实、身边立着穿燕尾服白手套的男孩侍者——并透露：一年多以前（\"over a year ago\"）Odette 与 Madame Marie-Sainte（Berthe）在 Le Neptune 吃的那顿晚饭是他付的账，还点了 Bertrand Ruinart 香槟；说明他监视她已久。",
+   "anchor": "I was happy to settle your bill that evening, to help a damsel in distress.",
+   "interval": [
+    7217,
+    7292
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Gagnon 羞辱 Berthe（\"她被满足过一次又一次……我亲自试过她\"、\"她的脸真可惜\"）、声称犹太人不受欢迎；自称 Odette 父亲什么都没留给他、所以 Odette \"拿走了属于我的东西\"必须照付——开价 25,000 法郎（Odette 心算够雇十年经理），并问付钱后是否罢手。",
+   "anchor": "“Twenty-five thousand francs.”",
+   "interval": [
+    10344,
+    10374
+   ],
+   "verified": true
+  },
+  {
+   "fact": "第二转折：Gagnon 除了钱还要人——\"我要你的男孩。金发的那个。Merry.\"；Odette 回家后查问 Merry 家况（只有母亲、不认识父亲、无亲可投、答应让他探母），夜里把指甲掐进大腿；她不能把 Merry 送出去，可不送又怕新家庭的安全不保。",
+   "anchor": "“I want your boy. The blonde one. Merry.”",
+   "interval": [
+    11051,
+    11092
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch29",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch29_chapter_29.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "平安夜（Christmas Eve），里尔下雪，Beauclerc 与儿子在外地过圣诞；他回忆从前在 Sèvres 一家会立刻上山滑雪橇、随后妻子会带一篮毛织品、热蛋糕和热饮来数落他们，还有圣诞夜弥撒（midnight mass）——今年他们不去教堂，只打算提前吃顿简单晚饭。",
+   "anchor": "It was snowing in Lille, but Beauclerc and his boy hardly noticed.",
+   "interval": [
+    5,
+    71
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Beauclerc 不了解儿子、不知买什么，只买了自行车铃铛和一双橡胶套鞋（Elise 的主意），看着两件包好的礼物为它们的寒酸而难过；儿子\"像影子一样溜进客厅\"，还说\"我们一定要吃晚饭吗，Papa?\"。",
+   "anchor": "He had got him a new bell for his bicycle and a pair of rubber galoshes",
+   "interval": [
+    1349,
+    1420
+   ],
+   "verified": true
+  },
+  {
+   "fact": "儿子当场哭起来，Beauclerc 虽视眼泪为不舒服之物（农场出身、哭无用处），仍大步走过去把儿子抱进怀里、搂在胸前抚他的头发，直到仆人 Elise 来说圣诞晚餐要上了。",
+   "anchor": "he strode over to the crumpled child and lifted him in his arms.",
+   "interval": [
+    2914,
+    2978
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Rue des Binelles 4 号：Feld 家三位女士与孩子们围坐在大餐厅吃圣诞（对他们只是周六）晚餐，屋子按 Feld 家惯例不作圣诞装饰。",
+   "anchor": "In 4, Rue des Binelles, things were merry.",
+   "interval": [
+    3286,
+    3328
+   ],
+   "verified": true
+  },
+  {
+   "fact": "刚尝过八天 Hanukkah 的新滋味，Odette 决定再做 sufganiyots（松软糖壳果酱甜甜圈）和 Gretchens（土豆洋葱薄饼配苹果酱与酸奶油——Arielle 告知的名字）。",
+   "anchor": "After the newly tasted delights of the eight days of Hanukkah",
+   "interval": [
+    3630,
+    3691
+   ],
+   "verified": true
+  },
+  {
+   "fact": "圣诞大餐菜单：鹅肝酱（foie gras）配柿子酱、烟熏三文鱼虾盅、猪肉抹酱，主菜鹅配焗土豆与褐黄油杏仁四季豆，甜点是 bûche de Noël——Gilles 和 Eugénie 从没吃过这种\"巧克力海绵木头\"。",
+   "anchor": "A little cheese would be followed by pudding: a bûche de Noël",
+   "interval": [
+    4443,
+    4504
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 把小礼物藏在孩子们枕头下，明知这不是犹太人的做法，只感到一点点愧疚（\"只是一点点\"）。",
+   "anchor": "the little presents she had hidden under the children’s pillows",
+   "interval": [
+    4750,
+    4813
+   ],
+   "verified": true
+  },
+  {
+   "fact": "节点：这是 Odette 第一次与他人共度圣诞、也是这座\"沉重的方房子\"里的最后一个圣诞；新房子（她的城堡）设计图已基本完成；而 Berthe 遇袭后大人们的焦虑加重，全靠孩子们的兴奋撑着，彼此相伴才觉安全。",
+   "anchor": "the first Christmas she had spent with others, and it would be the last",
+   "interval": [
+    4935,
+    5006
+   ],
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "book": "odette-rising-by-julianne-edwards",
+ "chapter": "ch28",
+ "text": "notes/books/novels/odette-rising-by-julianne-edwards/text/ch28_chapter_28.txt",
+ "mode": "T3-R1-subagent-blind",
+ "facts": [
+  {
+   "fact": "Berthe 在 Edouard Huré（Odette 的父亲）的旧床上养伤，脸颊贴着大块手术敷料；Odette 送来两只大羽毛垫，并坚持要拆敷料清创（担心感染），还答应叫 Madame Guiche 在床垫下加羽绒垫。",
+   "anchor": "Berthe was sitting up in Edouard Huré’s old bed",
+   "interval": [
+    5,
+    52
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Louis Grimard 天天登门探望受伤的 Berthe，但 Berthe 喊出\"No visitors. No one!\"拒绝见任何访客；Odette 在客厅接待 Grimard，告知伤口愈合得干净、Berthe 当天吃了一点熏鳟鱼、还几乎对她粗鲁起来——她判断 Berthe 开始好转。",
+   "anchor": "He’s come every day. He’s concerned.",
+   "interval": [
+    1455,
+    1491
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Grimard 向 Odette 揭出伤人者是 Victor Gagnon——Berthe 的皮条客：Berthe 与他相识很久，遇上 Odette 的父亲后想被放走，父亲\"做了他唯一能做的事：出钱摆平（paid him off）\"，而 Gagnon \"爱暴力如爱钱\"，打她父亲是\"为了取乐\"，作为给 Berthe 的临别一击。",
+   "anchor": "“Victor Gagnon,” he said.",
+   "interval": [
+    3519,
+    3544
+   ],
+   "verified": true
+  },
+  {
+   "fact": "章节转折：Odette 邀请 Grimard 帮她拆掉这座\"男人的房子\"、建一座新城堡来保护她的新家庭；Grimard 应允并说出名字\"Castel Odette\"。",
+   "anchor": "“Would you like to help me tear this house down and build a new one?”",
+   "interval": [
+    4656,
+    4725
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Odette 在马厩向马夫 Ned Smith 问 Gagnon；Smith 说他是有权势的人、伸进许多人的生活、受他腐蚀的男人们保护（没人敢报警），并承诺会尽力保护 Odette（Madame Marie-Sainte）、Madame Feld 和孩子们——但对\"他会不会伤害孩子/找上门\"沉默不答。",
+   "anchor": "He reaches into many lives, and is protected by the men he has corrupted",
+   "interval": [
+    5640,
+    5712
+   ],
+   "verified": true
+  },
+  {
+   "fact": "伤口愈合数周后，Berthe 在镜前第一次看那条又长又丑的疤，随后自述童年：加勒比海小岛上的小镇长大、小名\"Doudou\"、老师 Mademoiselle Anchou 分饼干给她、祖母称她\"向风群岛的阿芙洛狄忒\"；同学 Amélie Marchand 放学后打肿她的鼻子整整一周，说这是教她\"没有漂亮脸蛋你就不特别\"。",
+   "anchor": "My grandmother said I was the ‘Aphrodite of the Windward Islands.’",
+   "interval": [
+    9726,
+    9792
+   ],
+   "verified": true
+  },
+  {
+   "fact": "Berthe 揭露身世：Gagnon 以\"Uncle\"名义常来岛上，母亲死后谎称带她去巴黎学做女士贴身女仆，实际把她卖进妓院——那年她十三岁；父亲知情却因钱和嫌她捣乱放人；姐姐 Grace 至今与父亲留在岛上\"活得像奴隶\"，她劝姐姐来巴黎被拒。",
+   "anchor": "“I was taken to a brothel.” She became quiet. “I was thirteen.”",
+   "interval": [
+    12510,
+    12573
+   ],
+   "verified": true
+  },
+  {
+   "fact": "一周后 Ned Smith 从父母处索来的照片寄到：Grant 家宅前合影，母亲 Elizabeth Perkins 与 Odette 面容互为镜像（母亲二十二年以前就沉默了）；Ned 点破父亲不是恨她而是怕她——她承载了父亲的自我憎恨与愧疚，Odette 恍然大悟说\"也许是时候放下了\"，并把照片留下（\"她现在是我的了\"）。",
+   "anchor": "He did not hate you. He was afraid of you, I think.",
+   "interval": [
+    16254,
+    16305
+   ],
+   "verified": true
+  }
+ ]
+}
