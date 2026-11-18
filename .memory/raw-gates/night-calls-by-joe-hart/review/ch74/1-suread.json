@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch74",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch74_69.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Tommy 被炉灶里的火迷住，一次能盯着跳动的火焰看上几个小时，目光定在某种内心的远方。",
+      "anchor": "Tommy is entranced by the stove and watches the flames dance for hours at a time",
+      "start": 210,
+      "end": 290
+    },
+    {
+      "fact": "不吃饭也不静坐的时候 Tommy 就睡觉，有时一睡超过十二个小时——他在补回多年破碎的夜晚。",
+      "anchor": "Tommy sleeps. Sometimes for more than twelve hours.",
+      "start": 643,
+      "end": 694
+    },
+    {
+      "fact": "第三天夜里下雪，Hattie 把笔记本电脑放在厨房桌上、打开 Eeling 的文件，旁边放着笔记本，然后出门去看望 Sloan。",
+      "anchor": "Hattie sets her laptop on the kitchen table open to Eeling’s files",
+      "start": 1017,
+      "end": 1083
+    },
+    {
+      "fact": "Sloan 老人还没醒，但 Hattie 喊他名字时他眼皮动了；他的状况已从 critical 降到 stable。",
+      "anchor": "his condition has been reduced from critical to stable",
+      "start": 1224,
+      "end": 1278
+    },
+    {
+      "fact": "Hattie 在市场和一个户外用品店停留后回家，发现门框上插着 Sheriff Altringer 的名片，背面写着「Call when you get time」。",
+      "anchor": "Call when you get time is written on the back.",
+      "start": 1563,
+      "end": 1609
+    },
+    {
+      "fact": "Hattie 举着那张名片问 Tommy 有没有看见留下它的人；Tommy 回答没有，说自己一定是睡着了。",
+      "anchor": "“No. I must’ve been asleep.”",
+      "start": 1823,
+      "end": 1851
+    },
+    {
+      "fact": "Hattie 往火里添了一段木头、坐到 Tommy 对面，说这是个很长的故事，准备把一切讲给他听。",
+      "anchor": "Hattie feeds a log to the fire and sits across from him.",
+      "start": 1965,
+      "end": 2021
+    }
+  ]
+}

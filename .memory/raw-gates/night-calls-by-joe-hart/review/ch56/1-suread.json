@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch56",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch56_51.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "万圣节，穿白床单、挖了眼洞的朱利安拿着南瓜灯形状的塑料桶来讨糖，哈蒂一眼认出他的眼睛。",
+      "anchor": "The small, sheeted figure with eyeholes cut out holds a plastic bucket in the shape of a jack-o’-lantern.",
+      "start": 33,
+      "end": 138
+    },
+    {
+      "fact": "哈蒂去食品储藏室找出一条留着烘焙用的巧克力棒，放进朱利安的空桶里。",
+      "anchor": "Hattie goes to her pantry and finds a chocolate bar she reserved for baking and drops it into Julian’s empty bucket.",
+      "start": 738,
+      "end": 854
+    },
+    {
+      "fact": "温迪说他们要去北边的 Lakefield 而不是在附近街区讨糖，话说到一半没讲完。",
+      "anchor": "But we’re going north to Lakefield instead of hitting any of the neighborhoods around here just because . . .",
+      "start": 1411,
+      "end": 1520
+    },
+    {
+      "fact": "温迪说心理学家昨天和朱利安谈了一个多小时，说他很聪明，可能比原先以为的还聪明。",
+      "anchor": "She spent over an hour with him yesterday. She said he’s very intelligent.",
+      "start": 1839,
+      "end": 1913
+    },
+    {
+      "fact": "凯文补充说心理学家下次会谈时要给朱利安做智商测试。",
+      "anchor": "She’s going to give him an IQ test during the next session",
+      "start": 1949,
+      "end": 2007
+    },
+    {
+      "fact": "哈蒂从冰箱拿了一罐汽水放进朱利安的桶里。",
+      "anchor": "Hattie grabs a can of soda from the fridge, depositing it in Julian’s bucket.",
+      "start": 2530,
+      "end": 2607
+    },
+    {
+      "fact": "哈蒂向朱利安道歉，说昨天因为海鸥的事吓到了他。",
+      "anchor": "I’m sorry for scaring you yesterday. About the seagull.",
+      "start": 2657,
+      "end": 2712
+    },
+    {
+      "fact": "朱利安说没有东西会真正死去。",
+      "anchor": "Nothing really dies.",
+      "start": 3359,
+      "end": 3379
+    },
+    {
+      "fact": "朱利安头也不回地穿过院子、消失在树林里。",
+      "anchor": "Without a look back he glides across the yard and disappears into the trees",
+      "start": 3415,
+      "end": 3490
+    }
+  ]
+}

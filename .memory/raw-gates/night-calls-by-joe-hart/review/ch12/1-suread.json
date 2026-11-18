@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch12",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch12_12.txt",
+  "facts": [
+    {
+      "fact": "夜里起风成嚎、雨先后打上卧室窗/屋顶/厨房天窗；黎明前她惊醒——一种可怕的无名预感悬在头顶，随后才想起前一天与正在等待的事；冷水淋浴到发抖，然后煮咖啡。",
+      "anchor": "a terrible nameless anticipation hovering over her",
+      "start": 399,
+      "end": 449
+    },
+    {
+      "fact": "Eeling 的车终于从车道拐弯处出现（雨中）；他下车从后座抓起一只带肩带的黑包，冒雨冲向房子——「来干活的」，对她的答案相当自信。",
+      "anchor": "snags a black bag with a shoulder strap",
+      "start": 688,
+      "end": 727
+    },
+    {
+      "fact": "她抱臂立上门廊挡路；两人对视——雨里那一刻仍算静止；他眨眼时睫毛上有水滴下。",
+      "anchor": "arms crossed, barring his way",
+      "start": 982,
+      "end": 1011
+    },
+    {
+      "fact": "「你要的我会给——但有两个条件。一：告诉我你怎么找到我的。二：告诉我你写的这本书里有什么。同意？」他犹豫后说同意。",
+      "anchor": "On two conditions.",
+      "start": 1263,
+      "end": 1281
+    },
+    {
+      "fact": "反向威慑：一旦得寸进尺——她先给警方做采访、再给纽约时报（记得对方有个长期邀约），并讲出他和他的勒索——「你再也别想靠写作赚一分钱。」对方答：非常清楚。",
+      "anchor": "You’ll never make another cent from writing again.",
+      "start": 1823,
+      "end": 1873
+    },
+    {
+      "fact": "她仍差点当场赶走他——因为人一进门，一条线就彻底越过：那是她在两种人生之间画的线、刻进心之地形的边界；一旦跨回去，一切都会涌入。",
+      "anchor": "a border scored into the landscape of her heart",
+      "start": 2040,
+      "end": 2087
+    },
+    {
+      "fact": "Eeling 仍在楼梯底仰头等；她终于侧身让行，他擦身进门；她透过细雨把院子最后扫视一遍，跟了进去。",
+      "anchor": "She gives the yard a last scan through the drizzling rain",
+      "start": 2312,
+      "end": 2369
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

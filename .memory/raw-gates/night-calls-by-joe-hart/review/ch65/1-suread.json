@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch65",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch65_60.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Dustin 告诉众人他这个夏天上了烹饪课，而且是初级课程。",
+      "anchor": "I took a cooking class this summer",
+      "start": 194,
+      "end": 228
+    },
+    {
+      "fact": "Leah 说 Colm 创建了一项计划并筹款，让贫困孩子参观使用大学天文台。",
+      "anchor": "created a program and raised funding for underprivileged kids to visit and utilize the university’s observatory",
+      "start": 2134,
+      "end": 2245
+    },
+    {
+      "fact": "Colm 说第一次观星课在上个月末；Hattie 追问是哪晚，他答二十八或二十九号。",
+      "anchor": "I think it was the twenty-eighth or twenty-ninth. Why?",
+      "start": 2885,
+      "end": 2939
+    },
+    {
+      "fact": "Dustin 说万圣节那周他在家，而 Leah 去看望父母。",
+      "anchor": "Well, I was home—Leah visited her parents that week.",
+      "start": 3227,
+      "end": 3279
+    },
+    {
+      "fact": "Hattie 走进 Leah 与 Dustin 的卧室翻抽屉，看到 Dustin 与一年长男子合影，牌匾写着 2019 Employee of the Year，横幅露出 Clev。",
+      "anchor": "2019 Employee of the Year",
+      "start": 5544,
+      "end": 5569
+    },
+    {
+      "fact": "Leah 告诉 Hattie，自从那位作家来访后 Dustin 一直很紧张。",
+      "anchor": "He’s been really on edge since that writer came by.",
+      "start": 6696,
+      "end": 6747
+    },
+    {
+      "fact": "Hattie 问 Leah 是否曾被 Cheryl Barton 威胁；Leah 回想因 Cheryl 得知 Tommy 与她复合而起的争吵。",
+      "anchor": "Cheryl knew Tommy and I were getting back together, and she was really upset.",
+      "start": 7708,
+      "end": 7785
+    },
+    {
+      "fact": "Leah 交给 Hattie 一封封由 Crawfords 寄到收养机构的信，其中有 Wendy 写的十余封详述 Julian 第一年。",
+      "anchor": "There are more than a dozen letters from Wendy detailing Julian’s first year.",
+      "start": 8375,
+      "end": 8452
+    },
+    {
+      "fact": "Hattie 给 Leah 看她刚拍的 Julian 近照，Leah 说他很漂亮，两人相拥。",
+      "anchor": "Hattie pulls out her phone and finds a picture of Julian she’d taken just as the leaves were turning.",
+      "start": 8739,
+      "end": 8840
+    }
+  ]
+}

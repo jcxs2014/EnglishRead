@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch91",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch91_86.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "几小时后Hattie躺上床。",
+      "anchor": "Hattie eases into bed a few hours later",
+      "start": 13,
+      "end": 52
+    },
+    {
+      "fact": "她洗了一个滚烫的澡。",
+      "anchor": "the scalding shower she took",
+      "start": 97,
+      "end": 125
+    },
+    {
+      "fact": "他们的讨论和计划在脑海中回响。",
+      "anchor": "Their discussion and plans ricochet in her skull.",
+      "start": 151,
+      "end": 200
+    },
+    {
+      "fact": "隔壁的房子已经空了。",
+      "anchor": "the house next door is empty",
+      "start": 220,
+      "end": 248
+    },
+    {
+      "fact": "她可能再也见不到Julian了。",
+      "anchor": "she may never see Julian again",
+      "start": 258,
+      "end": 288
+    },
+    {
+      "fact": "Sloan在关门前那样看着她。",
+      "anchor": "the way Sloan looked at her before he closed the door",
+      "start": 327,
+      "end": 380
+    },
+    {
+      "fact": "她低声说出”希望的疯狂“这句话。",
+      "anchor": "The madness of hope",
+      "start": 510,
+      "end": 529
+    },
+    {
+      "fact": "她随即睡去。",
+      "anchor": "before she slips away",
+      "start": 571,
+      "end": 592
+    }
+  ]
+}

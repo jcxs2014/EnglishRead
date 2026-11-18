@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch79",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch79_74.txt",
+  "method": "R1 主会话先读 text 后写（盲读，未看 md）",
+  "facts": [
+    {
+      "fact": "Hattie 在 Sloan 家图书馆喝咖啡、走神，Sloan 察觉",
+      "anchor": "“Sorry. Drifting,” she says. “What were we talking about?”",
+      "start": 244,
+      "end": 302
+    },
+    {
+      "fact": "Sloan 用「我刚心梗、你早发痴呆」自嘲追问她在想什么",
+      "anchor": "“Me fresh off a heart attack, you with early-onset dementia. What the hell’s to become of us?”",
+      "start": 305,
+      "end": 399
+    },
+    {
+      "fact": "Hattie 想全盘说出 Tommy、Ed、Eeling，但认为现在不行",
+      "anchor": "There’s nothing more she’d like to do than tell her best friend everything: Tommy, Ed, Eeling, all of it.",
+      "start": 616,
+      "end": 721
+    },
+    {
+      "fact": "Sloan 说她一下午都心不在焉、在他出院第一天",
+      "anchor": "“Bullshit. You’ve been miles away all afternoon. And on my first day home from the hospital.",
+      "start": 473,
+      "end": 565
+    },
+    {
+      "fact": "Sloan 早知道她把 Mottles 凝脂奶油换成 Worthington’s Best 骗他",
+      "anchor": "“That you were passing off Mottles as Worthington’s Best? Of course.",
+      "start": 1932,
+      "end": 2000
+    },
+    {
+      "fact": "Sloan 说心脏康复每天多走一点、Adam 帮他练阻力带",
+      "anchor": "“Walking a little farther every day. And Adam’s helping me with the resistance bands.”",
+      "start": 2589,
+      "end": 2675
+    },
+    {
+      "fact": "Sloan 说奶油饼干是他一周的亮点，但临别时否认是「因为食物」",
+      "anchor": "Sloan blinks at the brilliance of the bay and turns to look at her, the corner of his mouth quirked. “It wasn’t the food.”",
+      "start": 3273,
+      "end": 3395
+    }
+  ]
+}

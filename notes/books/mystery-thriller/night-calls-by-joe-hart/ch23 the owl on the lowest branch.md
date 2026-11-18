@@ -45,7 +45,7 @@ modified: "2026-11-17"
 > **原句 5:** "On the lowest branch of the tree in the corner of the yard sits the owl."
 
 **中文理解**：等等。在那里。院子角落那棵树的最低枝上坐着那只猫头鹰。
-**关键词**：Wait / the lowest branch / sits the owl
+**关键词**：lowest branch / corner of the yard / sits the owl
 **为什么这样写**：两个独立成段的短句是全章的转折支点——「Wait. There.」在形式上像雷达屏幕上锁定目标的一声提示；「最低枝」这个位置从 ch03 起就是固定的座位（永远同一棵树、同一根枝），此刻被再次精确指定：超自然物有自己的工位。
 **读者视角提示**：同一个座位＝同一只猫头鹰。它从 ch03 的枯枝等待，到 ch05 的市场现身，到本章的对峙——它在收网。
 

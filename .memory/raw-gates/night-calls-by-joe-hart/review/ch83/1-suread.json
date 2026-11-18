@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch83",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch83_78.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Natalie 领 Hattie 穿过厨房，说一小时后要去接儿子。",
+      "anchor": "I have to pick up my son in an hour.",
+      "start": 460,
+      "end": 496
+    },
+    {
+      "fact": "Natalie 说两人并非真要离婚，只是分居并在努力修复关系。",
+      "anchor": "We were separated, but we were working on it.",
+      "start": 884,
+      "end": 929
+    },
+    {
+      "fact": "Natalie 清空了 Eeling 的公寓，只留下笔记本和她还没看的邮件。",
+      "anchor": "I cleaned out his apartment and threw almost everything away except his laptop and some mail I haven’t gone through yet.",
+      "start": 1160,
+      "end": 1280
+    },
+    {
+      "fact": "Natalie 问 Eeling 死前是否说过让他可能做这种事的话。",
+      "anchor": "Did he say anything that made you think he might do something like this?",
+      "start": 1613,
+      "end": 1685
+    },
+    {
+      "fact": "Natalie 说 Eeling 喝酒更多了，通话时能从声音里听出来。",
+      "anchor": "I know he was drinking more.",
+      "start": 1821,
+      "end": 1849
+    },
+    {
+      "fact": "Hattie 请 Natalie 搜索一封来自 Donald Ramsby 的邮件（结果零命中）。",
+      "anchor": "It might’ve been an email from a Donald Ramsby.",
+      "start": 2727,
+      "end": 2774
+    },
+    {
+      "fact": "Hattie 在邮件堆底部发现寄件人写着 D. Ramsby 的马尼拉信封，并请求打开。",
+      "anchor": "D. Ramsby",
+      "start": 4209,
+      "end": 4218
+    },
+    {
+      "fact": "Hattie 撕开信封倒出六张光泽照片，挪到倒数第二张时停住。",
+      "anchor": "Hattie tears the envelope open and slides half a dozen glossy photos out onto the tabletop.",
+      "start": 4348,
+      "end": 4439
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch52",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch52_47.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 扫描收件箱找那封邮件，因匆忙一度滑过，随后找到了从 Eeling 笔记本发给自己的文件。",
+      "anchor": "but in her haste, she managed to scroll past it accidentally.",
+      "start": 140,
+      "end": 201
+    },
+    {
+      "fact": "她想到制造这些文件的人已死在六英里外，而她是唯一知情者。",
+      "anchor": "the man responsible for the work is lying dead half a dozen miles away and she’s the only one who knows it",
+      "start": 338,
+      "end": 444
+    },
+    {
+      "fact": "信封里的白纸说明 Eeling 在毁掉她生活一事上其实是在虚张声势。",
+      "anchor": "the blank paper in the envelope says he was bluffing about actually ruining her life",
+      "start": 493,
+      "end": 577
+    },
+    {
+      "fact": "文件夹按人名组织，有 Dustin、Leah、Colm、Detective Ramsby 以及她自己的。",
+      "anchor": "There is Dustin and Leah, Colm and Detective Ramsby, as well as her own.",
+      "start": 747,
+      "end": 819
+    },
+    {
+      "fact": "她认出 Tommy 五个受害者的名字，也看到完全陌生的 Ginger Beckem、Jollette Smith 等名字。",
+      "anchor": "such as Ginger Beckem, Jollette Smith, Elle Marks, and Isle Cuthbert, which are completely foreign",
+      "start": 982,
+      "end": 1080
+    },
+    {
+      "fact": "她打开左上角的 Introduction 文件夹，里面有一条语音备忘录和一个 Word 文档。",
+      "anchor": "A folder near the top left of the file catches her eye. Introduction.",
+      "start": 1102,
+      "end": 1171
+    },
+    {
+      "fact": "她播放语音，Eeling 的声音从笔记本扬声器传出，她说有时根本无法理解是什么导致一个人结束另一人的生命。",
+      "anchor": "There’s a brief pause, then Eeling’s voice comes out of her laptop’s speakers louder than expected.",
+      "start": 1420,
+      "end": 1519
+    },
+    {
+      "fact": "录音里 Eeling 与小男孩对话，男孩说梦见有个怪物在追他。",
+      "anchor": "A monster was chasing me.",
+      "start": 3489,
+      "end": 3514
+    },
+    {
+      "fact": "Eeling 在录音中称 Thomas Conlee 是无辜的，并打算证明这一点。",
+      "anchor": "that Thomas Conlee is innocent. And I intend to prove it.",
+      "start": 4893,
+      "end": 4950
+    }
+  ]
+}

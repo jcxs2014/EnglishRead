@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch67",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch67_62.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "离开 Dustin 与 Leah 家后，Hattie 与 Colm 一路沉默驱车前往火车站。",
+      "anchor": "They’re on their way to the train station, having ridden in silence until now.",
+      "start": 254,
+      "end": 332
+    },
+    {
+      "fact": "Colm 说认识 Dustin 够久，能读懂他、知道何时该说话。",
+      "anchor": "But we’ve known each other long enough I can read him.",
+      "start": 645,
+      "end": 699
+    },
+    {
+      "fact": "Colm 告诉 Hattie，Leah 高三时赢了比赛，诗作被收录进州级佳作选集。",
+      "anchor": "She won that contest our junior year, remember? Got her poem published in a state’s best compilation or something.",
+      "start": 1151,
+      "end": 1265
+    },
+    {
+      "fact": "Hattie 向 Colm 道歉，说她和 Ed 从未真正问过他的童年。",
+      "anchor": "we never really asked you about your childhood.",
+      "start": 1963,
+      "end": 2010
+    },
+    {
+      "fact": "Colm 说他母亲是瘾君子，生命最后阶段他很少和她在一起。",
+      "anchor": "My mother was an addict.",
+      "start": 2148,
+      "end": 2172
+    },
+    {
+      "fact": "Colm 说母亲去世时他和姑姑在一起，没能见最后一面。",
+      "anchor": "I was with my aunt. I never got to say goodbye.",
+      "start": 2388,
+      "end": 2435
+    },
+    {
+      "fact": "Colm 打转向灯急转进加油站，停车开始加油。",
+      "anchor": "He hits the turn signal and veers sharply into a gas station",
+      "start": 2439,
+      "end": 2499
+    },
+    {
+      "fact": "Hattie 打开 GPS 历史行程页，唯一保存的路线是从 Colm 住处到 Dustin 与 Leah 家。",
+      "anchor": "The only saved trip is the route from Colm’s address to Dustin and Leah’s.",
+      "start": 3129,
+      "end": 3203
+    },
+    {
+      "fact": "Hattie 输入 GPS 密码 1234 与 4321 均被拒；Colm 回车后她谎称想开音乐，随后响起 Black Keys 的 Everlasting Light。",
+      "anchor": "then taps in “1234” and hits “Enter.” The screen blinks negatively and the box empties. She tries “4321.”",
+      "start": 3371,
+      "end": 3476
+    }
+  ]
+}

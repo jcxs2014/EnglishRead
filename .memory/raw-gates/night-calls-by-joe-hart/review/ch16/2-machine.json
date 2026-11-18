@@ -1,0 +1,439 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch16 black keys and the rock.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch16_15.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "JT's Beverage is an afterthought of a building beside a derelict greenhouse on the south side of Havensport. Hattie coas",
+          "ok": true,
+          "pos": 7
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "If Eeling noticed her he gives no sign, exiting his vehicle and jogging through the drizzle to JT's brightened entrance.",
+          "ok": true,
+          "pos": 433
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When he returns to his car carrying a single brown bag, she recalls the slight tremor to Eeling's hands near the end of ",
+          "ok": true,
+          "pos": 930
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Back on the highway and following at as much distance as she can without losing view of his car completely, Hattie watch",
+          "ok": true,
+          "pos": 1223
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She coasts to a stop on the side of the road and watches Eeling drive up to the front of the house and park before climb",
+          "ok": true,
+          "pos": 1835
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Hattie sits in the idling car on the side of the deserted road and turns the ignition off. The patter of rain fills the ",
+          "ok": true,
+          "pos": 2183
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Music. He's playing music on a portable speaker if she has to guess. And . . . and dancing. The bastard is actually danc",
+          "ok": true,
+          "pos": 2765
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Maybe you'll even thank me",
+          "ok": true,
+          "pos": 3136
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She doesn't recall leaving the 4Runner's warm dryness, only that she's now halfway up the little house's driveway, walki",
+          "ok": true,
+          "pos": 3163
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "As she's passing by the nondescript rental car she becomes aware there's something cold in her hand. It's a stone—oblong",
+          "ok": true,
+          "pos": 3622
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Then her free hand is on the doorknob, turning it slowly and smoothly, though any sound she makes won't be heard beneath",
+          "ok": true,
+          "pos": 4000
+        }
+      ],
+      "words": 116
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She crosses the distance between them as if gliding, and brings the rock up as he shuts the laptop and begins to turn. H",
+          "ok": true,
+          "pos": 4803
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Hattie strikes him again as his legs fold, and something warm spatters the back of her hand and wrist. As the music begi",
+          "ok": true,
+          "pos": 5171
+        }
+      ],
+      "words": 109
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 117,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 9,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 121,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 142,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 145,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter 15",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 2,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1069,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句11",
+        "words": 116
+      },
+      {
+        "block": "原句13",
+        "words": 109
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

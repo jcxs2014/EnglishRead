@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch101",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch101_96.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Timer 响起，Hattie 起身从烤箱取出烤好的面包",
+      "anchor": "The timer dings and she rises to take the bread from the oven.",
+      "start": 283,
+      "end": 345
+    },
+    {
+      "fact": "她那部本以为不可能再响的旧手机开始 ringing",
+      "anchor": "Her old phone starts to ring.",
+      "start": 869,
+      "end": 898
+    },
+    {
+      "fact": "她把抽屉完全拉开并取出手机，手机在手里震动",
+      "anchor": "She finds herself pulling the drawer the rest of the way open and drawing the phone out.",
+      "start": 1228,
+      "end": 1316
+    },
+    {
+      "fact": "梦中 Tommy 用空洞的声音说“对不起，妈妈”，喊她帮忙停下",
+      "anchor": "“I’m sorry, Momma,” Tommy says in a hollow croak.",
+      "start": 2083,
+      "end": 2132
+    },
+    {
+      "fact": "Hattie 猛地惊醒，发现自己躺在床上、只是做梦",
+      "anchor": "Hattie jerks awake.",
+      "start": 2175,
+      "end": 2194
+    },
+    {
+      "fact": "她打开床头柜抽屉，里面空无一物，但去年十二月的记忆翻涌",
+      "anchor": "Nothing. Empty. But memories still churn from last December.",
+      "start": 2584,
+      "end": 2644
+    },
+    {
+      "fact": "她让记忆涌入，像过去十个月一样重温那一夜",
+      "anchor": "She does. It hurts, but she relives the night as she has for the past ten months.",
+      "start": 2748,
+      "end": 2829
+    },
+    {
+      "fact": "Hattie 起床开始准备，心里想着今天有很多事要做",
+      "anchor": "Hattie climbs from bed and starts to get ready.",
+      "start": 3246,
+      "end": 3293
+    }
+  ]
+}

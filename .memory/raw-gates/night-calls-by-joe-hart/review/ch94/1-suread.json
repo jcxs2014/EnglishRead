@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch94",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch94_89.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 当天早上做了汤，晚饭时加热并配上新鲜烤面包卷。",
+      "anchor": "She made soup earlier that morning and heats it up for dinner along with freshly baked rolls.",
+      "start": 13,
+      "end": 106
+    },
+    {
+      "fact": "起初 Colm 只是隔着桌子端详 Tommy，随后两人热烈谈起分别多年的岁月。",
+      "anchor": "soon the two of them are talking animatedly about the years they’ve been apart.",
+      "start": 293,
+      "end": 372
+    },
+    {
+      "fact": "他们回到起居室，Tommy 生火，Hattie 拉下百叶窗。",
+      "anchor": "they return to the den, where Tommy gets the stove going.",
+      "start": 815,
+      "end": 872
+    },
+    {
+      "fact": "Colm 说已经第三四次表示不敢相信眼前是 Tommy。",
+      "anchor": "Colm says for the third or fourth time.",
+      "start": 986,
+      "end": 1025
+    },
+    {
+      "fact": "Tommy 称一切超现实，并提到过去八年。",
+      "anchor": "Not to mention the last eight years.",
+      "start": 1154,
+      "end": 1190
+    },
+    {
+      "fact": "Colm 为一切道歉。",
+      "anchor": "I’m so sorry.",
+      "start": 1215,
+      "end": 1228
+    },
+    {
+      "fact": "Colm 提到超速罚单：Dustin 被摄像头拍到超速，罚单已开并已缴纳。",
+      "anchor": "they issued him a ticket, which he paid.",
+      "start": 1939,
+      "end": 1979
+    },
+    {
+      "fact": "Tommy 说 Elle Marks 已死，无法让她辨认 Dustin。",
+      "anchor": "we can’t even ask her to ID him.",
+      "start": 2094,
+      "end": 2126
+    },
+    {
+      "fact": "Hattie 定下圈套并亲自做诱饵，计划以从 Eeling 处得知证据为名把 Dustin 引来并录音，Colm 作额外证人。",
+      "anchor": "If they’re to set a trap for Dustin, she has to be the bait.",
+      "start": 3280,
+      "end": 3340
+    }
+  ]
+}

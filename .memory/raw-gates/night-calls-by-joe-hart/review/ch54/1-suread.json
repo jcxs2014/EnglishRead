@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch54",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch54_49.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 高中最后一年出了车祸并造成脑震荡。",
+      "anchor": "Her senior year of high school she’d been in a car accident and gotten a concussion.",
+      "start": 13,
+      "end": 97
+    },
+    {
+      "fact": "那是宾夕法尼亚州的深十二月，她坐在男友那辆老旧的 Chrysler Cordoba 副驾上，转弯过快压到冰面滑出路面，被一棵古老橡树骤然挡停。",
+      "anchor": "It had been deep December in Pennsylvania, and they’d hit an icy patch coming around a corner too fast and slid off the road.",
+      "start": 221,
+      "end": 346
+    },
+    {
+      "fact": "她在医院醒来，面对一屋子陌生人，短时间内连自己是谁都不知道。",
+      "anchor": "She’d woken in the hospital to a room of people she didn’t know",
+      "start": 535,
+      "end": 598
+    },
+    {
+      "fact": "Hattie 不顾清晨寒冷坐在前廊上，盯着空荡的院子。",
+      "anchor": "She sits on the front porch despite the morning cold.",
+      "start": 934,
+      "end": 987
+    },
+    {
+      "fact": "那段超过两小时的音频还在屏幕上；她大约在凌晨三点开始听，十五分钟后就被深深吸引，临近结尾时被一段供述“侧撞”般击中。",
+      "anchor": "The audio file, which is over two hours long, is still on the screen. She began it around three in the morning",
+      "start": 1529,
+      "end": 1639
+    },
+    {
+      "fact": "Hattie 把进度条拖回并重播，Ramsby 探长的声音再次从扬声器里传出（这是他对 Eeling 的采访）。",
+      "anchor": "She drags the progress bar back and hits play. Detective Ramsby’s voice croaks from the speakers once more.",
+      "start": 1916,
+      "end": 2023
+    },
+    {
+      "fact": "Ramsby 说首席法医技术员在床上发现一根毛发——凶手给那位女士开颅后曾躺在上面——比对所有能接触她住所的人和全部已知嫌疑人后都没有匹配；其他案发现场的 DNA 也没与 Conlee 匹配。",
+      "anchor": "Lead forensic tech found a hair on the bed where the sonofabitch laid down after he fucking trepanned that lady’s head.",
+      "start": 5937,
+      "end": 6056
+    },
+    {
+      "fact": "Ramsby 称那个孩子把凶器（来自他父亲的木工坊）藏在浴室水槽下，最后一名受害者腿上有他的体液、他衬衫上有她的血，他在这个案子上花了三年、整整三年。",
+      "anchor": "That fucking kid had the murder weapon—from his daddy’s woodshop, mind you—hidden under his bathroom sink.",
+      "start": 6807,
+      "end": 6913
+    },
+    {
+      "fact": "除了 Ramsby 和 Eeling，只有首席法医技术员和当时的警察局长知情；技术员已退休去了佛罗里达，局长已去世（“永久退休”），且没有留下任何记录。",
+      "anchor": "The tech is retired in Florida and the chief’s taken the eternal retirement",
+      "start": 7254,
+      "end": 7329
+    }
+  ]
+}

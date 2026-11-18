@@ -1,0 +1,68 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch46",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch46_41.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 回家路上数了经过的车辆（共四辆），估算有人认出她丰田车的概率。",
+      "anchor": "She counted the vehicles she passed returning from Eeling’s rented house (there were four), attempting to calculate the odds of someone recognizing her Toyota.",
+      "start": 232,
+      "end": 391
+    },
+    {
+      "fact": "她打开冰箱看到剩下的两片披萨，联想到 Eeling 死时的眼睛，转身到水槽干呕。",
+      "anchor": "But when she saw them in their plastic bag, Eeling’s lifeless eyes swam through hazy condensation in the gutter of her mind, and she turned to dry heave at the sink, hunger turning inside out.",
+      "start": 580,
+      "end": 772
+    },
+    {
+      "fact": "她躺在床上抓着毯子，盯着床空着的一侧——Ed 的那半边。",
+      "anchor": "Now she clutches the blankets to her chest, studying the empty side of the bed. Ed’s side of the bed.",
+      "start": 919,
+      "end": 1020
+    },
+    {
+      "fact": "她梳理 Eeling 可能的动机，最想不透的是他趁她给自己发邮件时接的那通电话。",
+      "anchor": "The biggest is the phone call he took while she fumbled through emailing herself his work.",
+      "start": 2311,
+      "end": 2401
+    },
+    {
+      "fact": "她想起 Eeling 文章里那个吹哨人：死在旅馆浴缸，被塑料袋窒息，血液酒精浓度极高。",
+      "anchor": "He’d been found dead in a hotel bathtub, asphyxiated by a plastic bag, his blood alcohol level sky high.",
+      "start": 3056,
+      "end": 3160
+    },
+    {
+      "fact": "她叹气起床，在厨房烧水泡并不想喝的茶。",
+      "anchor": "She releases a long sigh and climbs out of bed, shrugging into her sweater. In the kitchen, she heats water for tea she doesn’t want",
+      "start": 3263,
+      "end": 3395
+    },
+    {
+      "fact": "她排除自己梦游开车去杀 Eeling 的可能：不可能神不知鬼不觉往返并勒死他。",
+      "anchor": "There’s no way she left her place, drove there, suffocated Eeling, and made her way back home without knowing it.",
+      "start": 5595,
+      "end": 5708
+    },
+    {
+      "fact": "虽嘴硬说谁都有扎带，她仍检查自己手脚有无割伤或瘀伤。",
+      "anchor": "Still, she inspects her hands and arms, looking for cuts or bruises without admitting what she’s doing.",
+      "start": 6266,
+      "end": 6369
+    },
+    {
+      "fact": "她从毛衣口袋掏出写着 Crawford 名字的信封，撕开并抽出信纸。",
+      "anchor": "Hattie rips open the envelope and unfolds the paper inside.",
+      "start": 7610,
+      "end": 7669
+    },
+    {
+      "fact": "她反复翻看信纸，发现整页完全空白。",
+      "anchor": "The page is completely blank.",
+      "start": 7818,
+      "end": 7847
+    }
+  ]
+}

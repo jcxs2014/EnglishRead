@@ -1,15 +1,44 @@
 {
+  "book": "night-calls-by-joe-hart",
   "chapter": "ch01",
-  "corpus": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch01_1.txt",
-  "method": "R1 盲读子代理（只给 text 路径，未给 md/审查表）；主会话逐一验证锚点字符区间（find==start 且 count==1，7/7 全中）",
-  "coverage": "子代理自报全文 901 字符读毕（第 1 行 c9J 至末行 only the sea answers），开头/中段/结尾无遗漏；全章无数字/日期事实（仅章号 1）",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch01_1.txt",
   "facts": [
-    {"fact": "清晨的光透过面向大海的窗照进来。", "anchor": "Early-morning light streams in through the window facing the sea.", "start": 11, "end": 76, "occurrences": 1},
-    {"fact": "海鸥在干蓝色天空盘旋，潮水已涨。", "anchor": "Gulls wheel against a parched-blue sky and the tide is in.", "start": 79, "end": 137, "occurrences": 1},
-    {"fact": "Hattie 靠浪涛拍打岩石的响度判断出潮水已涨。", "anchor": "Hattie can tell by how loudly the waves speak against the rocks.", "start": 138, "end": 202, "occurrences": 1},
-    {"fact": "Hattie 每天把一段防护 mantra（It's real. It happened. Don't pretend…）像穿盔甲一样穿上身。", "anchor": "A protective mantra she dons like body armor each day.", "start": 304, "end": 358, "occurrences": 1},
-    {"fact": "Hattie 睁眼时已不再恶心；心跳保持平稳节律而非胸中雷暴；能均匀呼吸。", "anchor": "no longer nauseous as soon as she opens her eyes", "start": 462, "end": 510, "occurrences": 1},
-    {"fact": "Hattie Conlee 翻身，品味 ghosthope，触到的只有平展毯子和一只她继续放在那里的枕头。", "anchor": "Hattie Conlee rolls over, savoring the ghosthope before touching nothing but flat blankets and a pillow she continues to place there.", "start": 694, "end": 827, "occurrences": 1},
-    {"fact": "Hattie 低声道早安，只有大海回应。", "anchor": "she whispers, and only the sea answers", "start": 861, "end": 899, "occurrences": 1}
-  ]
+    {
+      "fact": "清晨海景：海鸥盘旋、涨潮，Hattie 靠浪打礁石的响度判断潮位——她住在海边，感官与海连着。",
+      "anchor": "Gulls wheel against a parched-blue sky and the tide is in. Hattie can tell by how loudly the waves speak against the rocks.",
+      "start": 79,
+      "end": 202
+    },
+    {
+      "fact": "每天穿戴一句 mantra 当盔甲（It's real. It happened.——不许假装、不许把它挡在外面）；甲有磨痕但已熟悉——这不是第一天。",
+      "anchor": "A protective mantra she dons like body armor each day.",
+      "start": 304,
+      "end": 358
+    },
+    {
+      "fact": "身体在恢复：不再一睁眼就恶心、心跳平稳、能匀称呼吸——「不再」句式暗示之前的状态有多糟。",
+      "anchor": "no longer nauseous as soon as she opens her eyes",
+      "start": 462,
+      "end": 510
+    },
+    {
+      "fact": "「飓风还在，但她找到了风眼」——平静是风暴中心的位置，不是风暴过去。",
+      "anchor": "The hurricane remains, but she has found the eye.",
+      "start": 642,
+      "end": 691
+    },
+    {
+      "fact": "全名登场：Hattie Conlee 翻身，触到平整的毯子和每晚仍照放的枕头——身边那个位置空了，她还在维持「那边有人」的仪式。",
+      "anchor": "Hattie Conlee rolls over, savoring the ghosthope before touching nothing but flat blankets and a pillow she continues to place there.",
+      "start": 694,
+      "end": 827
+    },
+    {
+      "fact": "道早安无人应答、只有大海回应——床上那个人不在了；一句话立起全书的第一道空位。",
+      "anchor": "she whispers, and only the sea answers",
+      "start": 861,
+      "end": 899
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
 }

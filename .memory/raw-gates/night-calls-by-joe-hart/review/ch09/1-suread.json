@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch09",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch09_9.txt",
+  "facts": [
+    {
+      "fact": "她裹紧挂在椅背上的最爱的毛衣开始发抖——冷的不只是核心体温，是整个小屋都显得又冷又远、像属于别人——当然，它确实属于别人。她一直在演，演得很好，但她以为的石墙其实只是一层薄纱。",
+      "anchor": "like it belongs to someone else",
+      "start": 258,
+      "end": 289
+    },
+    {
+      "fact": "石与灰浆砌的墙实为一层薄到透光的纱——而现在，它已经被看穿了。",
+      "anchor": "really only a veil so thin it can be seen through",
+      "start": 431,
+      "end": 480
+    },
+    {
+      "fact": "「怎么找到的？」出口像指控——不可能，她太周密，那人不可能自己找到这里；更可怕的推论作为「事后想法」滚进来：他能找到我，Tommy 也能。",
+      "anchor": "then Tommy could too.",
+      "start": 741,
+      "end": 762
+    },
+    {
+      "fact": "她要吐了——扑到水槽前，确信全会涌上来，结果只在恶心边缘悬了悬，又一点点退回来。她需要空气。",
+      "anchor": "lurches to the sink",
+      "start": 798,
+      "end": 817
+    },
+    {
+      "fact": "最大的那块石头像远古巨力特意为她削出的座位；她抱膝、把鼻子埋进毛衣领口，闻那股安慰的气味。毛衣是 Ed 买的（可能某个母亲节），成了她的常备服——几乎不洗因为常穿；磨损起毛但羊毛坚韧——它会一直耐用下去。比送毛衣的人活得久。",
+      "anchor": "it became her go-to garment",
+      "start": 1527,
+      "end": 1554
+    },
+    {
+      "fact": "对 Ed 的渴望是体内一个移动的实体，推开其他一切需要；伙伴没了，她独自面对世界的负担；新挑战的噩梦般的巨大压下来，大到足以遮蔽天空。但她必须以某种方式回答——像以往每一次那样回答。",
+      "anchor": "Answer like she has all the times before.",
+      "start": 2037,
+      "end": 2078
+    },
+    {
+      "fact": "她深吸几大口转向西北的海风——尝起来像雨。也像改变。是的。像改变。",
+      "anchor": "It tastes like rain. And change. Yes.",
+      "start": 2180,
+      "end": 2217
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

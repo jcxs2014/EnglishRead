@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch43",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch43_38.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "威士忌喝完后 Hattie 明知是错仍倒了葡萄酒。",
+      "anchor": "When the whiskey’s gone she pours some wine, knowing it’s a mistake but doing it anyway.",
+      "start": 13,
+      "end": 101
+    },
+    {
+      "fact": "Hattie 请求第二天来看 Julian，Wendy 说可以，只要 Julian 状态允许。",
+      "anchor": "She’d asked to come by the next day to see Julian, and Wendy said that would be fine.",
+      "start": 293,
+      "end": 378
+    },
+    {
+      "fact": "Hattie 想起过去去监狱探望 Tommy 前也会有这种反胃的感觉。",
+      "anchor": "She used to feel like this when getting ready to visit Tommy in prison.",
+      "start": 536,
+      "end": 607
+    },
+    {
+      "fact": "Hattie 回忆 Tommy 小时候 Ed 为他做跷跷板，还雕刻定制座椅、做可调支点以补偿他体重轻。",
+      "anchor": "Ed had gone all out carving custom seats and an adjustable tipping point so Tommy’s lighter weight would be more offset by the leverage.",
+      "start": 1050,
+      "end": 1186
+    },
+    {
+      "fact": "Hattie 脑中反复权衡：Julian 是自卫，被刺的是 Bastion 两刀，他曾被半淹——他不是 Tommy，而是 Tommy 的儿子。",
+      "anchor": "He stabbed him. Twice.",
+      "start": 1301,
+      "end": 1323
+    },
+    {
+      "fact": "Hattie 承认 Eeling 说得对——她一直在监视 Julian，想从他身上找回在 Tommy 那里错失的东西。",
+      "anchor": "Eeling was right—she’s been watching Julian. Watching for what she missed in Tommy.",
+      "start": 1518,
+      "end": 1601
+    },
+    {
+      "fact": "Hattie 想起 Wendy 的话：要是知道他的父母、知道这种事是否家族遗传，就更容易诊断和治疗。",
+      "anchor": "I wish I knew his parents—if this kind of thing runs in the family, it would be easier to diagnose and treat.",
+      "start": 2265,
+      "end": 2374
+    },
+    {
+      "fact": "Hattie 担心 Eeling 会把今天小学的刺人事件写进书里：“连环杀手之子刺伤同学：追随 Bedfellow 的脚步。”",
+      "anchor": "Son of serial killer stabs fellow student: following in the Bedfellow’s footsteps.",
+      "start": 3460,
+      "end": 3542
+    },
+    {
+      "fact": "Hattie 披上厚毛衣、抓起钥匙开车出去，要确认 Eeling 是否已走，并低声说“我们会达成谅解”。",
+      "anchor": "Before she can change course she’s shrugged on the heavy sweater and grabbed her keys.",
+      "start": 3581,
+      "end": 3667
+    }
+  ]
+}

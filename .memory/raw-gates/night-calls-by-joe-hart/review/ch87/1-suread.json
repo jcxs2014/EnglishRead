@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch87",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch87_82.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "雾散去气温升到五十多度。",
+      "anchor": "The fog burns away and the temp climbs into the low fifties.",
+      "start": 52,
+      "end": 112
+    },
+    {
+      "fact": "Hattie 白天大部分时间待在卧室里。",
+      "anchor": "Hattie spends most of the daylight hours in her bedroom.",
+      "start": 203,
+      "end": 259
+    },
+    {
+      "fact": "Sloan 一直打电话留了一通又一通语音邮件。",
+      "anchor": "Sloan’s been calling as well, leaving voicemail after voicemail.",
+      "start": 376,
+      "end": 440
+    },
+    {
+      "fact": "夕阳西下时 Hattie 穿上跑步装备离开家。",
+      "anchor": "she dons her running gear and leaves the house.",
+      "start": 694,
+      "end": 741
+    },
+    {
+      "fact": "她在 Crawford 家前放慢，Wendy 和 Kevin 的车都不在，房子又黑又静。",
+      "anchor": "Neither Wendy’s nor Kevin’s cars are there.",
+      "start": 866,
+      "end": 909
+    },
+    {
+      "fact": "她一路跑到 Sloan 家门前台阶，喘着气趁勇气未失敲了门。",
+      "anchor": "running all the way to the front step, breathing hard and knocking before she can lose her courage.",
+      "start": 1243,
+      "end": 1342
+    },
+    {
+      "fact": "Sloan 开门时渐暗光线凸显出他体重下降。",
+      "anchor": "Sloan’s weight loss is highlighted in the fading light",
+      "start": 1368,
+      "end": 1422
+    },
+    {
+      "fact": "Sloan 说 Kevin 打来电话，他们正去佛罗里达他父母家，并请 Adam 帮忙浇植物。",
+      "anchor": "They’re headed to his parents’ place in Florida and asked if Adam could water their plants while they’re away.",
+      "start": 1641,
+      "end": 1751
+    },
+    {
+      "fact": "Sloan 回答 Adam 说没人，然后转身关上门。",
+      "anchor": "“No one,” Sloan says. “Nobody at all.”",
+      "start": 2128,
+      "end": 2166
+    }
+  ]
+}

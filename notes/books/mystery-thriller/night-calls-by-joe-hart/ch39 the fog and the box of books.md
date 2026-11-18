@@ -45,7 +45,7 @@ modified: "2026-11-17"
 > **原句 5:** ""Okayyyy?" "Adam brought them last time he visited, and I told him not to leave them up there but do kids listen? I'll break my damn hip if I try to carry it, so I need you to come by at some point and bring it down for me.""
 
 **中文理解**：「好……吧？」Adam 上次来时带了那些书，我告诉他别留在楼上，可孩子们哪会听——他大概忘了自己也曾是个孩子。
-**关键词**：Okayyyy / Adam brought them / kids listen / break my hip
+**关键词**：Okayyyy / Adam brought them / kids listen / break my damn hip
 **为什么这样写**：Sloan 的「孩子们哪会听」带着纵容——他谈起 Adam 就像一个老父亲；「Please」是 Hattie 的追问，她学会了让他把话说完（ch34 的技术）。
 **读者视角提示**：Adam 是 Sloan 的儿子（ch22 相册里 Nicky 溺亡的另一半）。
 

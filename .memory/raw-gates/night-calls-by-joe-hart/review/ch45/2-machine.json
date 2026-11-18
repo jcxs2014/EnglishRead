@@ -1,0 +1,513 @@
+{
+  "chapter": 45,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch45 cleaning up.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch45_40.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Hattie lurches back from the bed with a grunt. Her legs wobble and give way. She's expecting the floor but the chair nea",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Eeling's face is upturned in the bag, eyes half lidded and stuck in a forever stare. His mouth gapes, tongue lolling out",
+          "ok": true,
+          "pos": 279
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Hattie brings a hand up to her mouth and clamps it there tightly. Whether to keep in a scream or from being sick, she's ",
+          "ok": true,
+          "pos": 605
+        }
+      ],
+      "words": 110
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Sick rises in the back of her throat, and something just out of sight of her mind keeps her from vomiting on the floor b",
+          "ok": true,
+          "pos": 1220
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Ross Eeling is dead. For reasons unknown, he came back here last night, cooked a steak dinner, then drank enough whiskey",
+          "ok": true,
+          "pos": 1718
+        }
+      ],
+      "words": 125
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She pivots back toward the stairway. The quiet of the house presses in from all sides. The silence of death sounds diffe",
+          "ok": true,
+          "pos": 2435
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She goes to the dining room table and opens the laptop. Her heart falls from what feels like two stories seeing the sign",
+          "ok": true,
+          "pos": 2779
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A faint inkling of something passes behind her eyes like the shadow of a bird soaring high on a thermal. There and gone.",
+          "ok": true,
+          "pos": 3199
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Back in the bedroom she halts, stricken by the sight of Eeling's body again. The smell. What she has to do. Without thin",
+          "ok": true,
+          "pos": 3560
+        }
+      ],
+      "words": 152
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Hattie blinks. She must've missed it somehow, but when she looks again it's the same. The file is gone from the desktop.",
+          "ok": true,
+          "pos": 4377
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Her gaze floats up from the screen, and for one horrible second she's sure the corpse has moved. Eeling's head is cocked",
+          "ok": true,
+          "pos": 4732
+        }
+      ],
+      "words": 118
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She swallows, tasting some of the death air on the back of her tongue, and flips the blanket back in place, covering the",
+          "ok": true,
+          "pos": 5376
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "She returns the laptop to the table, wiping it clean the way she did the switch, then retraces her steps through the mai",
+          "ok": true,
+          "pos": 5812
+        }
+      ],
+      "words": 107
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "When she's sure every surface is clean of her prints, she returns to the entryway and grasps the knob through her sweate",
+          "ok": true,
+          "pos": 6412
+        }
+      ],
+      "words": 119
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "The blackmail envelope is in the first place she looks—Eeling's workbag he brought both days he came to her place. She d",
+          "ok": true,
+          "pos": 7059
+        }
+      ],
+      "words": 130
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "45. Chapter 40",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 7,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1415,
+    "block_target": [
+      3,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句3",
+        "words": 110
+      },
+      {
+        "block": "原句5",
+        "words": 125
+      },
+      {
+        "block": "原句9",
+        "words": 152
+      },
+      {
+        "block": "原句11",
+        "words": 118
+      },
+      {
+        "block": "原句13",
+        "words": 107
+      },
+      {
+        "block": "原句14",
+        "words": 119
+      },
+      {
+        "block": "原句15",
+        "words": 130
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

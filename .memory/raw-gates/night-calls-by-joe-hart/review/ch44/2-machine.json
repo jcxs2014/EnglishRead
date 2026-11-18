@@ -1,0 +1,439 @@
+{
+  "chapter": 44,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch44 the plastic bag.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch44_39.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He isn't gone. The low outline of Eeling's rental car is there in front of the small house when she pulls to a stop on t",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "On the ride over she'd run through different scenarios, creating plans of action and corresponding speeches if he hadn't",
+          "ok": true,
+          "pos": 154
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Fuck,\" she whispers, and turns into the drive. The house is dark against the blue-black sky, no lights burning inside. ",
+          "ok": true,
+          "pos": 463
+        }
+      ],
+      "words": 122
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The night gathers around her when she climbs out. It would've been nice if Eeling had left at least one outdoor light bu",
+          "ok": true,
+          "pos": 1143
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Hattie knocks again, peering through the small squares of glass set in the door, but all that's visible is the narrow en",
+          "ok": true,
+          "pos": 1509
+        }
+      ],
+      "words": 125
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Hello?\" she calls into the house, ready for a groggy and perhaps drunken response. But there's nothing. Wait, not nothi",
+          "ok": true,
+          "pos": 2197
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Go home. Come back in the morning. When it's light. But by then it may be too late",
+          "ok": true,
+          "pos": 2658
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She flicks a couple lights on and stops at the juncture of the kitchen and dining room. Eeling's closed laptop sits on t",
+          "ok": true,
+          "pos": 2741
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "There is only one room at the top of the stairs and the door is a rectangle of darkness from which the music seeps. At f",
+          "ok": true,
+          "pos": 3227
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "No reply. Not even a rustle of blankets. Either would've been welcome. Hattie reaches into the dark, the ancient fear of",
+          "ok": true,
+          "pos": 3584
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "A manshape lies beneath the covers and one pale arm stretches out over the far side of the bed, palm up. \"Ross,\" she rep",
+          "ok": true,
+          "pos": 4114
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She's suddenly angry. Furious. All the compiled rage of the last days twined with the stress of reliving the past comes ",
+          "ok": true,
+          "pos": 4514
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "She sees everything at once but her mind parses only pieces at first. The shocking paleness of his skin. The seizure-arc",
+          "ok": true,
+          "pos": 4867
+        }
+      ],
+      "words": 52
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 13
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "44. Chapter 39",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 2,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 950,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句3",
+        "words": 122
+      },
+      {
+        "block": "原句5",
+        "words": 125
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

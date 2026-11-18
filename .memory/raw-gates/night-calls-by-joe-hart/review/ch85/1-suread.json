@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch85",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch85_80.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 敲 Crawfords 家的门，屋里亮着灯却无人应答。",
+      "anchor": "The lights are on at the Crawfords’, but no one answers when she knocks.",
+      "start": 13,
+      "end": 85
+    },
+    {
+      "fact": "Hattie 双手围住门上玻璃往里窥看，看不到门厅和部分餐厅以外。",
+      "anchor": "She cups her hands around the door’s glass and peers inside",
+      "start": 146,
+      "end": 205
+    },
+    {
+      "fact": "Hattie 走向海景一侧，一路安慰自己 Wendy 没看到 Tommy。",
+      "anchor": "Yes, the main thing is she didn’t see Tommy.",
+      "start": 468,
+      "end": 512
+    },
+    {
+      "fact": "走到后廊，Hattie 看见 Wendy 坐在餐桌远端、一台合上的笔记本前，呆滞不动。",
+      "anchor": "Wendy is sitting at the far end of the dining room table in front of a closed laptop.",
+      "start": 638,
+      "end": 723
+    },
+    {
+      "fact": "Wendy 说为昨天的事过意不去，带了剩菜来道歉。",
+      "anchor": "I felt bad about yesterday, so I brought leftovers to apologize.",
+      "start": 1171,
+      "end": 1235
+    },
+    {
+      "fact": "Wendy 说她听到屋里一声闷响，想起 Sloan，担心 Hattie 出事便进屋查看。",
+      "anchor": "I started thinking about Sloan and got scared that something happened to you, so I went in.",
+      "start": 1281,
+      "end": 1372
+    },
+    {
+      "fact": "Wendy 含泪说他们信任 Hattie、把儿子托付给她，随后开始关门。",
+      "anchor": "We trusted you. Trusted you with him. With our son",
+      "start": 1886,
+      "end": 1936
+    },
+    {
+      "fact": "Hattie 恳求解释，Wendy 说“不想知道”并关上了门。",
+      "anchor": "I don’t want to know,",
+      "start": 2224,
+      "end": 2245
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch60",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch60_55.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "穿制服的男人称她为“玛丽·惠特克”，并自我介绍是县警长哈里·阿尔特林格。",
+      "anchor": "“Harry Altringer, county sheriff.”",
+      "start": 357,
+      "end": 391
+    },
+    {
+      "fact": "在厨房里她合上笔记本电脑、收起笔记本，放到冰箱旁的台面上。",
+      "anchor": "She snaps the laptop closed and folds the notebook shut, placing them on the counter beside the fridge.",
+      "start": 1232,
+      "end": 1335
+    },
+    {
+      "fact": "阿尔特林格说他从前和前房主马克斯是朋友，两人有时一起玩克里比奇牌。",
+      "anchor": "Used to be friendly with the former owner. Max and I played cribbage sometimes.",
+      "start": 1806,
+      "end": 1885
+    },
+    {
+      "fact": "她在卧室附带的浴室里脱掉湿衣，换上干运动服，把头发抹成湿马尾。",
+      "anchor": "She strips in her bedroom’s attached bath, then redresses in dry sweats, smoothing her hair into a wet ponytail while staring at her reflection.",
+      "start": 2191,
+      "end": 2335
+    },
+    {
+      "fact": "阿尔特林格把手机转向她，屏幕上罗斯·伊林的脸对着她笑。",
+      "anchor": "Ross Eeling’s face smiles at her.",
+      "start": 3160,
+      "end": 3193
+    },
+    {
+      "fact": "她告诉警长，伊林自称是记者，在写一本关于本地区历史的书。",
+      "anchor": "He said he was a journalist, and he was working on a book. Something to do with the history of the area.",
+      "start": 3533,
+      "end": 3637
+    },
+    {
+      "fact": "阿尔特林格说伊林是明显自杀的受害者。",
+      "anchor": "He was the victim of an apparent suicide.",
+      "start": 4231,
+      "end": 4272
+    },
+    {
+      "fact": "他估计伊林死于大约三天前，因为验尸官仍在处理。",
+      "anchor": "but I’d wager about three days ago, give or take.",
+      "start": 4380,
+      "end": 4429
+    },
+    {
+      "fact": "阿尔特林格说市场里的明迪·梅森认出伊林的租车曾开进她家。",
+      "anchor": "Mindy Mason—works over at the market, she said she noticed him a few times at the coffee bar there over the last month or so. Recognized his rental car pulling into your place one day when she was on her way to work.",
+      "start": 5495,
+      "end": 5711
+    },
+    {
+      "fact": "白日梦里她把剩下的咖啡泼到警长脸上，抽出他腰带上的手枪扣动扳机，随即惊醒发现只是幻想。",
+      "anchor": "With a quickness that doesn’t feel her own she throws the remainder of her coffee in his face.",
+      "start": 7402,
+      "end": 7496
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch40",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch40_35.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Sloan 在书房靠着南墙跪着，周围摊着几十本书。",
+      "anchor": "Sloan is in the library, this time kneeling near the southern wall with dozens of books spread around him.",
+      "start": 290,
+      "end": 396
+    },
+    {
+      "fact": "Sloan 告诉她箱子在右边第三个房间、床脚边，并提醒当心底掉。",
+      "anchor": "Third room on the right, by the foot of the bed. And be careful of the bottom, it might want to fall out.",
+      "start": 1297,
+      "end": 1402
+    },
+    {
+      "fact": "走廊两侧各有三扇门。",
+      "anchor": "There are three doors on either side of the hall.",
+      "start": 1947,
+      "end": 1996
+    },
+    {
+      "fact": "Sloan 因溺亡的儿子 Nicholas 而不愿上楼，左边第二间是 Nicky 的，尽头大多是他遗物。",
+      "anchor": "It’s also because of Nicholas, his drowned son. The second room on the left was Nicky’s, and she’s sure the majority of the things stored away at the end of the hall are his or connected to his existence",
+      "start": 2771,
+      "end": 2974
+    },
+    {
+      "fact": "她当年从 Pennsylvania 搬来时几乎什么都没带。",
+      "anchor": "She’d brought almost nothing with her from Pennsylvania when she’d moved.",
+      "start": 3260,
+      "end": 3333
+    },
+    {
+      "fact": "书箱就在客房、正如 Sloan 所说且很重，她费力抱起来。",
+      "anchor": "The box of books is in the guest room right where Sloan said it would be. And it’s heavy.",
+      "start": 3693,
+      "end": 3782
+    },
+    {
+      "fact": "储物间门现在半开，但她进客房时是关着的。",
+      "anchor": "But it was closed when she went into the guest room.",
+      "start": 4141,
+      "end": 4193
+    },
+    {
+      "fact": "门越开越大，最后撞到什么东西停下。",
+      "anchor": "It swings wider, wider, wider, and stops, bumping against something.",
+      "start": 5015,
+      "end": 5083
+    },
+    {
+      "fact": "Sloan 喊话吓到她，箱子差点掉，随后她关灯并用脚尖把门带上。",
+      "anchor": "clicking the light off and dragging the door closed with the toe of her shoe.",
+      "start": 6307,
+      "end": 6384
+    }
+  ]
+}

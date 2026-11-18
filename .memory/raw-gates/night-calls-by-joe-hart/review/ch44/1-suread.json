@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch44",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch44_39.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 把车停在县道边，看见 Eeling 的租用车还停在小平房前，明白他并未离开。",
+      "anchor": "The low outline of Eeling’s rental car is there in front of the small house when she pulls to a stop on the side of the county road.",
+      "start": 30,
+      "end": 162
+    },
+    {
+      "fact": "她低声骂了一句脏话，把车拐进车道，决定试探他、让他明白 Julian 一家不可碰。",
+      "anchor": "“Fuck,” she whispers, and turns into the drive.",
+      "start": 482,
+      "end": 529
+    },
+    {
+      "fact": "她盘算自己唯一的底牌：若 Eeling 不接受条件，就取消采访、揭发他的敲诈。",
+      "anchor": "If he won’t agree to her terms, she’ll scrap the interview. Expose his blackmail.",
+      "start": 935,
+      "end": 1016
+    },
+    {
+      "fact": "她按门铃无回应后，决定改试门把手，发现门没锁。",
+      "anchor": "She hits the doorbell, but no sound comes from inside—at least that she can hear. She considers driving home and coming back in the morning, then tries the knob instead.",
+      "start": 1711,
+      "end": 1880
+    },
+    {
+      "fact": "她进屋后听到房子深处有隐约的乐声。",
+      "anchor": "An indistinct tinkle somewhere deeper in the house.",
+      "start": 2389,
+      "end": 2440
+    },
+    {
+      "fact": "她打开几盏灯，在厨房与餐厅交界处看到餐桌上 Eeling 合上的笔记本电脑。",
+      "anchor": "Eeling’s closed laptop sits on the dining table among a few other items.",
+      "start": 2902,
+      "end": 2974
+    },
+    {
+      "fact": "她沿走廊上二楼，认出那乐声是长笛演奏。",
+      "anchor": "At first the tinkling of what she now recognizes as flute was soothing.",
+      "start": 3422,
+      "end": 3493
+    },
+    {
+      "fact": "她进卧室开灯，看见被下躺着一个人形，一只苍白的手臂伸出床沿。",
+      "anchor": "A manshape lies beneath the covers and one pale arm stretches out over the far side of the bed, palm up.",
+      "start": 4208,
+      "end": 4312
+    },
+    {
+      "fact": "她掀开被子，看到 Eeling 头上套着凝结水汽的塑料袋，喉咙被黑色扎带勒紧封死。",
+      "anchor": "And the thick plastic bag over his head clouded with condensation of his last breaths, a wide black zip tie cinched around his throat, sealing the bag shut.",
+      "start": 5121,
+      "end": 5277
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch15",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch15_14.txt",
+  "facts": [
+    {
+      "fact": "采访后的雨声把她留在幻觉里：她以为仍坐在沙发上挨着 Ed——那个「将在七个月后永远死去」的 Ed；回到当下，对面坐的是「姓氏难听的年轻男人」；过去像嫉妒的恋人一样不情愿地松开她。",
+      "anchor": "who will be dead forever in seven months",
+      "start": 198,
+      "end": 238
+    },
+    {
+      "fact": "「所以那时你就确定了他是 Bedfellow？」「那是我开始怀疑他并非无辜的时候。」「但你没有完全相信。」「审判的时候——所有证据摆出来的时候（我猜你清楚得很）。」",
+      "anchor": "It’s when I started to doubt he was innocent.",
+      "start": 1383,
+      "end": 1428
+    },
+    {
+      "fact": "Eeling 数着手指背诵证据：四案凶器——你丈夫的木工锥——在 Tommy 浴室水槽下被找到；派对上与人冲突时穿的衬衫在洗衣篮底、沾着 Cheryl 的血；最致命的是——从尸体收集的精液匹配 Tommy 的 DNA。",
+      "anchor": "tucked beneath your son’s bathroom sink",
+      "start": 1730,
+      "end": 1769
+    },
+    {
+      "fact": "四案他都没有不在场证明，全部定罪；陪审团一致裁定有罪；「但那不是我来的原因。」「很简单——你。作为杀手母亲的视角。还有其他亲近他的人。我的书不是关于罪案，是关于与罪案相连的人。」",
+      "anchor": "Unanimous guilty verdict",
+      "start": 2448,
+      "end": 2472
+    },
+    {
+      "fact": "她趁他去厕所打开他的笔电——有密码；她试了 12345、Password 均被拒；厕所冲水声起，她来不及再试就在脚步声中合上笔电、回到水槽边。",
+      "anchor": "The computer is password protected",
+      "start": 3930,
+      "end": 3964
+    },
+    {
+      "fact": "「今天到此为止。」他说明天早上再继续；她追问「书里有什么」——「结束时我会全告诉你。」「不。在继续之前。」——「你现在没有讨价还价的位置。」他软化了一句：「我知道你觉得我是人渣……也许你最后会理解。也许你甚至会感谢我。」",
+      "anchor": "You’re really not in the position to bargain.",
+      "start": 4927,
+      "end": 4972
+    },
+    {
+      "fact": "Ed 的手枪是锁着的——不然 Eeling 退远的背影此刻是个太诱人的靶子；她盯着空车道、心念飞转，然后抓起外套和车钥匙冲进雨里；一分钟内她已驶上县路，与他的车保持刚好看得见尾灯的距离——她跟了上去。",
+      "anchor": "And she follows.",
+      "start": 6271,
+      "end": 6287
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

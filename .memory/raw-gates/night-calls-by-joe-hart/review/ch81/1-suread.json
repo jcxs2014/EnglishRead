@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch81",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch81_76.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "据 GPS 显示去伊林家要开五个小时，哈蒂一早便出发。",
+      "anchor": "It’s a five-hour drive to Eeling’s house according to her GPS, so she gets an early start.",
+      "start": 13,
+      "end": 103
+    },
+    {
+      "fact": "哈蒂把旧 iPhone 留给汤米，并吩咐他无论发生什么都要打电话。",
+      "anchor": "She leaves Tommy with her old iPhone and the orders to call if anything happens.",
+      "start": 106,
+      "end": 186
+    },
+    {
+      "fact": "哈蒂想到若能确定是谁陷害了汤米，就能为受害者惠特尼·穆尔黑德、布里·霍顿、莉萨·约翰逊、谢里尔·巴顿和佩吉·麦克马洪伸张正义。",
+      "anchor": "Whitney Moorhead and Brie Horton and Lisa Johnson and Cheryl Barton and Paige McMahon",
+      "start": 1539,
+      "end": 1624
+    },
+    {
+      "fact": "哈蒂在加油站盯着电子广告牌，看到尼克斯对骑士的比赛广告。",
+      "anchor": "New York Knicks VS Cleveland Cavaliers",
+      "start": 1933,
+      "end": 1971
+    },
+    {
+      "fact": "广告牌上显示的比赛时间是 12 月 11 日星期五下午 6 点。",
+      "anchor": "Friday, December 11th, 6pm",
+      "start": 1974,
+      "end": 2000
+    },
+    {
+      "fact": "广告牌上写的比赛地点是麦迪逊广场花园。",
+      "anchor": "Madison Square Garden",
+      "start": 2003,
+      "end": 2024
+    },
+    {
+      "fact": "哈蒂意识到那条广告与达斯汀有关。",
+      "anchor": "Something about Dustin.",
+      "start": 2238,
+      "end": 2261
+    },
+    {
+      "fact": "哈蒂打电话给汤米，说她明白了自己在达斯汀和莉娅家看到的是什么。",
+      "anchor": "What I saw at Dustin and Leah’s.",
+      "start": 2854,
+      "end": 2886
+    },
+    {
+      "fact": "汤米说如果她判断正确那会是相当大的巧合，并问该如何证实。",
+      "anchor": "I mean, it would be a fairly large coincidence if you’re right. But how would we confirm it?",
+      "start": 2953,
+      "end": 3045
+    }
+  ]
+}

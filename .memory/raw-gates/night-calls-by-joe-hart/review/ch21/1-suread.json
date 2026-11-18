@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch21",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch21_19.txt",
+  "facts": [
+    {
+      "fact": "通话结束后她在现与过去的夹缝里漂浮；记忆本来就早晚要自己浮上来（这是记忆的方式、人的方式）；「习惯的生物」并非有意出口——书房的密闭里被自己的声音吓了一跳；火堆里一个结「啪」地爆开像在回应，她第二次一惊。",
+      "anchor": "startling at the sound of her own voice in the closeness of the den",
+      "start": 393,
+      "end": 460
+    },
+    {
+      "fact": "与 Leah/Dustin 通话既很好又难受；这些年她一直试图保持联系，但近来越来越容易省掉一通电话、或在某个中立地点碰面——她越来越扎根于第二人生、把第一人生留得更远；也因为「知道他们俩在一起」让她痛。",
+      "anchor": "becoming more rooted in her second life",
+      "start": 796,
+      "end": 835
+    },
+    {
+      "fact": "善良世界的反事实：那通电话本该打给 Tommy 和 Leah；Wendy 和 Kevin 再好她也不会认识他们——Julian 会跟着亲生父母、Ed 会活着、他们本该一起沐浴在含饴弄孙的光里。但那永远不会是——世界是很多东西，但「善」不在其中。",
+      "anchor": "The world is many things, but kind is not one of them.",
+      "start": 1261,
+      "end": 1315
+    },
+    {
+      "fact": "反讽：Dustin 终于如愿和 Leah 在一起——但没人猜到会以这种方式；四个孩子一起长大时：Dustin 爱 Leah、Leah 爱 Tommy、Colm 爱他们所有人；Tommy 花了好几年才意识到 Leah 的情意（Ed 说过：这小子怎么回事，看不出来？——但他最终还是懂了）；Dustin 总觉得在和 Tommy 竞争，其实那竞争只在他脑子里——她十四岁时就看见 Leah 看 Tommy 的眼神，知道大局已定。",
+      "anchor": "Hattie had seen how the girl looked at Tommy when they were only fourteen",
+      "start": 1936,
+      "end": 2009
+    },
+    {
+      "fact": "定罪与逃亡之后，Dustin 与 Leah 自然靠近——选择搬到同一个州同一座城、一起采用新身份；去年底他们向她宣布订婚时，她只惊讶竟然隔了这么久。",
+      "anchor": "assume new identities together",
+      "start": 2189,
+      "end": 2219
+    },
+    {
+      "fact": "通话除了搅动情绪，还办成一件事：她现在确定 Eeling 不会守约——本来就不怎么信，但确认这件事巩固了她已经开始在「头脑的工坊」里组装的那个计划。",
+      "anchor": "the plan she’s begun assembling in the workshop of her mind",
+      "start": 2563,
+      "end": 2622
+    },
+    {
+      "fact": "她终于饿到想吃东西，开冰箱却迎面撞上 Worthington 凝结奶油瓶——「Shit」——彻底忘了给 Sloan 送杂货；叹口气收齐东西往门口走：「史上最长的一天。那就让它更长一点吧」——她走进夜里。",
+      "anchor": "Might as well make it longer",
+      "start": 2908,
+      "end": 2936
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

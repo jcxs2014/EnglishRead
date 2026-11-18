@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch82",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch82_77.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "伊林家的房子坐落在离东河不远的一条街的尽头。",
+      "anchor": "The house sits at the end of a street not far from the East River.",
+      "start": 13,
+      "end": 79
+    },
+    {
+      "fact": "哈蒂从照片上猜测伊林的儿子欧文大概四五岁，可能已到上学年龄。",
+      "anchor": "she guesses Eeling’s son Owen is maybe four or five—possibly school age",
+      "start": 384,
+      "end": 455
+    },
+    {
+      "fact": "娜塔莉身高至少五英尺十英寸，深色头发向后梳，颧骨高、眼睛深棕。",
+      "anchor": "Natalie is tall, at least five ten, maybe more, with dark hair pulled back from high cheekbones and deep brown eyes.",
+      "start": 927,
+      "end": 1043
+    },
+    {
+      "fact": "哈蒂说明来意后，娜塔莉认出她所说的报道是《The Bedfellow》。",
+      "anchor": "The Bedfellow,",
+      "start": 1275,
+      "end": 1289
+    },
+    {
+      "fact": "娜塔莉说她与丈夫当时正在离婚，不愿为此承担责任。",
+      "anchor": "We were in the middle of a divorce.",
+      "start": 1436,
+      "end": 1471
+    },
+    {
+      "fact": "娜塔莉告诉哈蒂她把伊林的东西全扔掉了。",
+      "anchor": "I threw it all away.",
+      "start": 1719,
+      "end": 1739
+    },
+    {
+      "fact": "娜塔莉在哈蒂快走到车边时追出来问「你就是那个人吧，那个母亲」。",
+      "anchor": "You’re her, aren’t you?",
+      "start": 2266,
+      "end": 2289
+    },
+    {
+      "fact": "娜塔莉说伊林曾讲过他要去找哈蒂，但她当时并不相信。",
+      "anchor": "He said he was going to find you. I didn’t believe him.",
+      "start": 2380,
+      "end": 2435
+    },
+    {
+      "fact": "娜塔莉点头后把门完全打开，让哈蒂进屋。",
+      "anchor": "Natalie nods to herself and opens the door fully.",
+      "start": 2604,
+      "end": 2653
+    }
+  ]
+}

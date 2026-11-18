@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch76",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch76_71.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 做了晚饭——鸡肉 fettuccine alfredo 配蒜香面包和蒸胡萝卜，并让 Tommy 帮忙削胡萝卜；她强忍住没在他落泪时去抱他。",
+      "anchor": "Chicken fettuccine alfredo with garlic bread and steamed carrots.",
+      "start": 38,
+      "end": 103
+    },
+    {
+      "fact": "Hattie 打开从市场买来的酒想递给 Tommy 一杯，他拒绝了，说上次喝酒就是鼻子被打断的那晚。",
+      "anchor": "The last time I drank was the night I got this",
+      "start": 501,
+      "end": 547
+    },
+    {
+      "fact": "Tommy 讲述自己的经历：逃脱六个月后他在 Iowa，从垃圾桶里找到半瓶廉价伏特加一口气喝掉大半。",
+      "anchor": "It was six months after I escaped. I was in Iowa.",
+      "start": 742,
+      "end": 791
+    },
+    {
+      "fact": "Tommy 说两个警察在他偷来的帐篷旁发现他，其中一人打他，鼻子断裂、血顺着喉咙往下流，他呛咳到吐了出来。",
+      "anchor": "My nose snapped and blood went down the back of my throat",
+      "start": 1523,
+      "end": 1580
+    },
+    {
+      "fact": "Tommy 说本想去加油站洗手间重新整理仪容，却在镜子里一瞬间认不出自己，并觉得这样很好。",
+      "anchor": "when I looked in the mirror I didn’t recognize myself for a second",
+      "start": 1891,
+      "end": 1957
+    },
+    {
+      "fact": "晚饭后 Hattie 问要不要去散步，Tommy 点头答应，穿上刚洗好的毛衣和她那天在镇上给他买的外套。",
+      "anchor": "he dips his head and pulls on his freshly washed sweater along with the coat she bought for him that day in town.",
+      "start": 2782,
+      "end": 2895
+    },
+    {
+      "fact": "两人在黑暗中走到岩石上眺望海湾时，Tommy 讲起他在 Montana 露营过的一个山湖：水清见底，月色极美却让他无比孤独。",
+      "anchor": "There was this mountain lake in Montana I camped near",
+      "start": 3487,
+      "end": 3540
+    },
+    {
+      "fact": "Tommy 承认自己一度也以为是罪人、想不起 Cheryl 死那晚的事，还梦见体内藏着一个会在睡梦中作恶的secret man；Hattie 转身紧紧抱住儿子，轻声说出「I’m sorry」。",
+      "anchor": "Hattie turns and hugs her son. Holds him as tightly as she can.",
+      "start": 4715,
+      "end": 4778
+    },
+    {
+      "fact": "在一段难熬的沉默之后，Tommy 终于回抱了 Hattie——这是她说过最重要的两个字得到的回应。",
+      "anchor": "After a terrible interminable moment of nothing, he hugs her back.",
+      "start": 4868,
+      "end": 4934
+    }
+  ]
+}

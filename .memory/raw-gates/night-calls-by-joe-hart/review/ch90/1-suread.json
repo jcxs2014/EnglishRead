@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch90",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch90_85.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "她指出照片里的野马轿车在现实中是午夜蓝色。",
+      "anchor": "The Mustang is black and white in the photo, but in life it was blue. Midnight blue.",
+      "start": 13,
+      "end": 97
+    },
+    {
+      "fact": "这辆车是他父亲在他提前大学毕业时送的礼物。",
+      "anchor": "The car was an early college graduation present from his father",
+      "start": 138,
+      "end": 201
+    },
+    {
+      "fact": "她指着右侧挡泥板上的凹痕和掉漆让Tommy看。",
+      "anchor": "See that dent and the missing paint?",
+      "start": 402,
+      "end": 438
+    },
+    {
+      "fact": "她说车牌吻合，并从旧照片里找到一张两人站在车旁的照片。",
+      "anchor": "the plates match. I went back through my old pictures and found one of the two of you standing beside it.",
+      "start": 668,
+      "end": 773
+    },
+    {
+      "fact": "她推测Eeling让Ramsby利用他在金斯敦警察局的关系拿到这些照片。",
+      "anchor": "I’m guessing Eeling asked Ramsby to use his contacts at the police station in Kingston to get these.",
+      "start": 1258,
+      "end": 1358
+    },
+    {
+      "fact": "她说Ramsby死后让人把这些照片寄了出来。",
+      "anchor": "Then Ramsby had them mailed after he died.",
+      "start": 1359,
+      "end": 1401
+    },
+    {
+      "fact": "Tommy说这些单凭一点不足以起诉他，更不足以推翻定罪，缺少硬证据。",
+      "anchor": "No judge or jury would indict him on this alone, much less overturn my conviction. Not without hard evidence.",
+      "start": 1593,
+      "end": 1702
+    },
+    {
+      "fact": "她说现在他们知道是谁害了Tommy。",
+      "anchor": "Now we know who did this to you.",
+      "start": 1765,
+      "end": 1797
+    },
+    {
+      "fact": "她说他们也知道可以信任谁。",
+      "anchor": "And we know who we can trust.",
+      "start": 1849,
+      "end": 1878
+    }
+  ]
+}

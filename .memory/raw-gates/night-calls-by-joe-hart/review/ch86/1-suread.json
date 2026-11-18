@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch86",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch86_81.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 拉下客厅所有遮光帘以便看海湾。",
+      "anchor": "She’s pulled all the shades in the den so she can see the bay.",
+      "start": 44,
+      "end": 106
+    },
+    {
+      "fact": "Tommy 端一杯热咖啡放到她身旁后在另一把椅子坐下。",
+      "anchor": "Tommy sets a steaming cup of coffee beside her before settling into another chair.",
+      "start": 240,
+      "end": 322
+    },
+    {
+      "fact": "Tommy 向妈妈道歉说对不起。",
+      "anchor": "“I’m sorry, Mom.”",
+      "start": 325,
+      "end": 342
+    },
+    {
+      "fact": "Hattie 点亮手机并推向 Tommy，打开与 Kevin 的短信串。",
+      "anchor": "she wakes her phone and slides it toward him.",
+      "start": 925,
+      "end": 970
+    },
+    {
+      "fact": "Kevin 最后一条短信写着离我的家人远点。",
+      "anchor": "Stay away from my family.",
+      "start": 1069,
+      "end": 1094
+    },
+    {
+      "fact": "Hattie 端蛋和吐司时看见院子边站着一个小身影。",
+      "anchor": "A small figure stands at the edge of the yard.",
+      "start": 1449,
+      "end": 1495
+    },
+    {
+      "fact": "雾中 Julian 是树旁的一个小轮廓，Hattie 感觉他在盯着她。",
+      "anchor": "Julian is just a small shape near the trees.",
+      "start": 1582,
+      "end": 1626
+    },
+    {
+      "fact": "Kevin 在树林间大声喊 Jules 快走。",
+      "anchor": "“Jules! Where are you? We gotta go!”",
+      "start": 1826,
+      "end": 1862
+    },
+    {
+      "fact": "Julian 最后看了她一眼后冲进雾林消失。",
+      "anchor": "He gives her a final look, then darts into the fog-laced trees and is gone.",
+      "start": 1987,
+      "end": 2062
+    }
+  ]
+}

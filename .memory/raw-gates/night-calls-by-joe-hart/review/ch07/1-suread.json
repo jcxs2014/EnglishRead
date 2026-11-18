@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch07",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch07_7.txt",
+  "facts": [
+    {
+      "fact": "她得名于外祖母 Henrietta Burke——二十世纪初头几年独自从爱尔兰乘船来的「硬汉老鸦」；她对祖母的记忆只有短短几年，记得的多是双手上那近乎不像手指的弯曲之物，但印象极深。",
+      "anchor": "Henrietta Burke",
+      "start": 59,
+      "end": 74
+    },
+    {
+      "fact": "外祖母的教导：「别让人占了便宜还踩你的脚趾。你要是容了，他们就会踩过你其余的一切。」——Hattie 把这句当真、照此活。",
+      "anchor": "Don’t let anyone get away with stepping on your toes",
+      "start": 365,
+      "end": 417
+    },
+    {
+      "fact": "这份教导大概造就了她这个好中学教师——孩子能嗅出不确定，尤其在老师身上；她始终散发着沉稳的控制力。此刻她伸手把它召唤出来。",
+      "anchor": "she always exuded a calm control that served her well",
+      "start": 664,
+      "end": 717
+    },
+    {
+      "fact": "她稳稳说出「抱歉——你一定找错地方了」，稳到连自己都惊讶；一瞬间似乎奏效——他眼中闪过一丝疑，随即消失。",
+      "anchor": "A flicker of doubt enters his eyes but is gone just as quickly",
+      "start": 883,
+      "end": 945
+    },
+    {
+      "fact": "他压低声音（像怕被听见）：我知道你是谁；我知道 Mary Whittaker 是假名；我知道你儿子是谁、你为什么躲在这里。",
+      "anchor": "I know Mary Whittaker is an assumed name",
+      "start": 1078,
+      "end": 1118
+    },
+    {
+      "fact": "她意识到自己还在礼貌摇头——继续演；不只骗他，也在骗自己：这不可能发生。她再次道歉、开始关门；他伸手进后袋——她瞬间确信是枪、他要在门口杀她；结果掏出的只是一只白色信封，斜斜的手写体一个词：Crawford。",
+      "anchor": "beginning to shut the door",
+      "start": 1386,
+      "end": 1412
+    },
+    {
+      "fact": "「我也知道隔壁住的是谁。你要是不想让我把这个送去给他们，」他拿信封轻拍另一只手掌，「我们该谈谈。」",
+      "anchor": "So if you don’t want me to drop this off to them",
+      "start": 1725,
+      "end": 1773
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

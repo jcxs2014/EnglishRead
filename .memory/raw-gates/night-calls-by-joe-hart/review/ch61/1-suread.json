@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch61",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch61_56.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "她将就着喝了根啤酒，把笔记本电脑和笔记本拿回桌上。",
+      "anchor": "She settles for a root beer and brings the laptop and notebook back to the table.",
+      "start": 1203,
+      "end": 1284
+    },
+    {
+      "fact": "她翻看语音备忘录，播放了名为“乔莱特·史密斯——科尔姆·泰林二表亲”的文件。",
+      "anchor": "she scans through more of the voice memos, coming to rest on a file titled Jolette Smith—Colm Tyring second cousin—and hits play.",
+      "start": 1495,
+      "end": 1624
+    },
+    {
+      "fact": "乔莱特说布伦达吸食可卡因、氯胺酮，后来沾上海洛因，情况急转直下。",
+      "anchor": "Cocaine, ketamine—little of everything. When she got into heroin that’s when things really went south.",
+      "start": 2951,
+      "end": 3053
+    },
+    {
+      "fact": "乔莱特说布伦达开始注射毒品时科尔姆大概六七岁。",
+      "anchor": "Maybe six or seven when Brenda started shooting up.",
+      "start": 3106,
+      "end": 3157
+    },
+    {
+      "fact": "乔莱特把科尔姆带了几天，直到布伦达来接走他。",
+      "anchor": "Kept Colm for a few days until she came to pick him up.",
+      "start": 3599,
+      "end": 3654
+    },
+    {
+      "fact": "乔莱特发现科尔姆身上有瘀伤，圣诞节时手臂上有明显的烟头烫伤，于是打电话给社会服务部门，他们一度把科尔姆带走。",
+      "anchor": "then at Christmas he had a cigarette burn on his arm, plain as day.",
+      "start": 3905,
+      "end": 3972
+    },
+    {
+      "fact": "布伦达后来戒毒、在加油站找到工作、按时赴约出庭，重新取得了抚养权。",
+      "anchor": "got herself cleaned up enough to get a job at a gas station and made all her appointed visits and court dates and managed to get custody back.",
+      "start": 4272,
+      "end": 4414
+    },
+    {
+      "fact": "布伦达威胁说，若乔莱特再插手她和科尔姆的事，就放火烧房子把她烧死在床上。",
+      "anchor": "Said if I ever came in between her and Colm again I’d have a fire at my house while I was asleep, and I’d burn up in my bed.",
+      "start": 4532,
+      "end": 4656
+    },
+    {
+      "fact": "布伦达在周末死亡，直到接下来的周二才有人查看科尔姆，他独自和母亲的尸体待了几天。",
+      "anchor": "she died sometime during the weekend, and no one came to check on Colm until the following Tuesday.",
+      "start": 5841,
+      "end": 5940
+    }
+  ]
+}

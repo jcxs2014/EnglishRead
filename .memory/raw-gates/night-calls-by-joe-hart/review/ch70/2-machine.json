@@ -1,0 +1,322 @@
+{
+  "chapter": 70,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch70 who is this.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch70_65.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It's half past three in the morning when she gets home. She doesn't recall the drive at all—might as well have been asle",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Inside she sits at the table, fingers drumming a slow beat. She should go to bed but despite the lateness, or earliness,",
+          "ok": true,
+          "pos": 227
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "During Tommy's trial she'd made the mistake of reading an article covering the proceedings, and someone had posted the c",
+          "ok": true,
+          "pos": 440
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Hattie makes her way to the den and looks across the bay to Sloan's. A few lights are still burning there. It's like a b",
+          "ok": true,
+          "pos": 706
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She goes back through the cottage, grabbing her keys on the way. She's at the door, hand on the knob, when a sound stops",
+          "ok": true,
+          "pos": 1017
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Its chime echoes out from her room, sending a ripple of gooseflesh across her body. She starts to leave anyway, but stop",
+          "ok": true,
+          "pos": 1168
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "A living silence on the other end. What kind of person could do such a thing",
+          "ok": true,
+          "pos": 1533
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She's pondered this for years. Crucified herself for whatever failings she passed on to Tommy. Whatever hand she had in ",
+          "ok": true,
+          "pos": 1611
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "\"Who is this?\" she says. There's a quiet inhale, then the line goes dead",
+          "ok": true,
+          "pos": 1907
+        }
+      ],
+      "words": 14
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 24,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 22,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 9
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 8
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 23,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 22,
+        "读者视角提示": 6
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.31,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 13
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.5
+      }
+    }
+  ],
+  "form": {
+    "h1": "70. Chapter 65",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 368,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

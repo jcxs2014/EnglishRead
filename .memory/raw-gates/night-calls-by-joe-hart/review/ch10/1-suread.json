@@ -1,0 +1,80 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch10",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch10_10.txt",
+  "facts": [
+    {
+      "fact": "Wendy 开门时抱着洗衣篮、肩夹电话；她妹妹刚升职、不知为何半是生气要吐槽——Wendy 对着电话连声附和、翻了个滑稽的白眼。",
+      "anchor": "just got a promotion, and now she",
+      "start": 1176,
+      "end": 1209
+    },
+    {
+      "fact": "在 Crawfords 家她站着不肯坐——知道一坐下 Wendy 就会立刻看出不对；这将是最难的一场对话，她不想被赶着说。",
+      "anchor": "she doesn’t want this conversation hurried",
+      "start": 732,
+      "end": 774
+    },
+    {
+      "fact": "Hattie 再次被击中：她多想有个女儿、一个就像 Wendy 的女儿——她真是可爱的人。而在接下来的几分钟里，Hattie 将把她伤到一生从未受过的程度。",
+      "anchor": "Hattie will hurt her worse than",
+      "start": 1610,
+      "end": 1641
+    },
+    {
+      "fact": "「真高兴你来了——Kevin 带 Jules 进城购物，可能还看电影。」正好：她不想他们任何人在场，尤其 Julian——看一颗心碎已够难，更别说三颗。",
+      "anchor": "let alone three.",
+      "start": 1924,
+      "end": 1940
+    },
+    {
+      "fact": "Julian 回家后是几周来最好——笑也笑了；她却想起前日下午他被送来时的阴沉、眼里的深色——那双眼睛来自他父亲，那个也曾安静的男孩；她想知道一切是否正这样开始：安静的内在向下钻，钻到常人不知其存在的深度。",
+      "anchor": "a quiet innerness that grows down",
+      "start": 2732,
+      "end": 2765
+    },
+    {
+      "fact": "那个深度里住着并繁衍着黑暗的意志；最野蛮的冲动在那里红着眼出生、急着扑向世界。",
+      "anchor": "the most savage urges are born red-eyed",
+      "start": 2898,
+      "end": 2937
+    },
+    {
+      "fact": "Wendy 谈治疗与霸凌暂停一周；提到 Kevin 父母：他们反对领养、认为该继续试管——头两次失败后她做不动了；他们不把 Jules 当「他们的血」，连 Wendy 自己也被同样对待——至少他们一致。",
+      "anchor": "They thought we should try more in vitro",
+      "start": 4223,
+      "end": 4263
+    },
+    {
+      "fact": "Hattie 心里替 Julian 回嘴：他生命里早有一个为他抛下一切、只为待在他附近、且会毫不犹豫再来一次的人。",
+      "anchor": "left everything behind to simply be near him",
+      "start": 4645,
+      "end": 4689
+    },
+    {
+      "fact": "内心的拆毁队 vs 点火的两难：也许说出真相会白白炸掉他们的生活。她考虑 Ross Eeling 想要的东西——如果她还安全（如果他们都还安全），为什么要毁掉一切去告诉他们她是谁、Julian 的生父是谁、他是什么。",
+      "anchor": "Who Julian’s biological father is. What he is.",
+      "start": 5259,
+      "end": 5305
+    },
+    {
+      "fact": "手术刀般冰冷无菌的答案：她不知道敢不敢冒这个险——因为不知道自己的隐瞒是为他们，还是为自己。",
+      "anchor": "as cold and sterile as a scalpel",
+      "start": 5322,
+      "end": 5354
+    },
+    {
+      "fact": "没啜过的茶色已深到能照出她的轮廓——她撞上那种恶心的感觉：她已经不知道自己是谁、变成了谁。",
+      "anchor": "she no longer knows who she is",
+      "start": 5651,
+      "end": 5681
+    },
+    {
+      "fact": "Wendy 说从未喜欢过 Kevin 的父母、怕他们来访、他们对 Jules 太冷；她伸手轻握 Hattie 的手：「你做他的祖辈，比他们做一万倍都强。真高兴你找到了我们。」她回握，说出唯一能说的：「我也是。」",
+      "anchor": "You’ve been a better grandparent to him than",
+      "start": 6247,
+      "end": 6291
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

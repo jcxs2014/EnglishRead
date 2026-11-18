@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch103",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch103_98.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Tommy 说州方将和解，主因是 Ramsby 承认销毁证据的录音",
+      "anchor": "“Mostly it was the recording of Ramsby admitting to destroying evidence.",
+      "start": 1177,
+      "end": 1249
+    },
+    {
+      "fact": "Gemma 播放的录像里赤道房整个房间缓缓旋转（对应午夜电话里的马达声）",
+      "anchor": "The entire room begins to turn in a slow circle.",
+      "start": 4500,
+      "end": 4548
+    },
+    {
+      "fact": "Colm 透露母亲死时抱着他，让他爬上床，他直到早晨才发现她已死",
+      "anchor": "“She was holding me when she died. She told me to climb in bed with her.",
+      "start": 7320,
+      "end": 7392
+    },
+    {
+      "fact": "Colm 承认 Ed 店里的木锥在召唤他，他把它拿走了",
+      "anchor": "“The wood awl in Ed’s shop called to me—it was like I had to take it.",
+      "start": 8284,
+      "end": 8353
+    },
+    {
+      "fact": "Colm 承认总是确保 Dustin 是那个没有不在场证明的人（栽赃）",
+      "anchor": "I always made sure Dustin was the one without an alibi.",
+      "start": 8432,
+      "end": 8487
+    },
+    {
+      "fact": "Colm 说 Hattie 的电话让幻象消失、帮他停手",
+      "anchor": "You helped make her go away. She made me do what I did, and you helped it stop.",
+      "start": 8989,
+      "end": 9068
+    },
+    {
+      "fact": "Colm 推搡 Hattie，她从堤岸跌向下面的岩石",
+      "anchor": "he shoves her and she’s falling off the bank toward the rocks below.",
+      "start": 9888,
+      "end": 9956
+    },
+    {
+      "fact": "一声如冬天树木断裂的脆响伴着火光，Tommy 开枪击中 Colm",
+      "anchor": "There’s a sharp crack like a tree snapping in winter and a spurt of flame.",
+      "start": 11114,
+      "end": 11188
+    },
+    {
+      "fact": "Colm 走进海浪，最终没入波浪消失",
+      "anchor": "then slips under the waves and is gone.",
+      "start": 12352,
+      "end": 12391
+    }
+  ]
+}

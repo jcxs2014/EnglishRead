@@ -1,0 +1,393 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch34 just myself.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch34_30.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They have their cocoa and work on the owl puzzle. For a while she has a hard time looking at the birds but slowly they b",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 145
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She claps politely. \"Bravo.\" \"Thank you, thank you.\" \"I'll have to find a tougher one next time.\" He straightens the puz",
+          "ok": true,
+          "pos": 794
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"I don't know.\" He shifts in his seat and looks out at the ocean. In this light she can see Tommy in him clearly. Mostly",
+          "ok": true,
+          "pos": 1011
+        }
+      ],
+      "words": 116
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Hattie still can't believe someone would name their child Bastion and expect him to turn out okay. \"I thought he was sus",
+          "ok": true,
+          "pos": 1616
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Did you tell a teacher?\" \"No. No one saw it but me.\" \"Maybe you should tell your mom and dad. They could—\" \"Nothing wil",
+          "ok": true,
+          "pos": 2085
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"I could talk to them for you. We can make sure he won't ever bother you again.\" She takes one of his hands. \"It's okay ",
+          "ok": true,
+          "pos": 2233
+        }
+      ],
+      "words": 120
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "If she ever got a second chance she wouldn't look away when something disturbing presented itself— The heart always come",
+          "ok": true,
+          "pos": 2868
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"When you're angry, do you want to hurt someone? Or something?\" she asks gently but also as openly as she can. She found",
+          "ok": true,
+          "pos": 3205
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She takes a long, slow breath. \"How?\" Julian makes a fist of his small hand and mimes hitting himself in the thigh. Then",
+          "ok": true,
+          "pos": 3614
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "\"I think so.\" \"We pay that price by talking about things. By letting them out before they pile up and get to be too much",
+          "ok": true,
+          "pos": 4019
+        }
+      ],
+      "words": 106
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "She gives his hand a final squeeze and stands. \"So I've got mac and cheese or pizza, which will it be?\" He brightens. \"P",
+          "ok": true,
+          "pos": 4556
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter 30",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 4,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 902,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 145
+      },
+      {
+        "block": "原句3",
+        "words": 116
+      },
+      {
+        "block": "原句6",
+        "words": 120
+      },
+      {
+        "block": "原句10",
+        "words": 106
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

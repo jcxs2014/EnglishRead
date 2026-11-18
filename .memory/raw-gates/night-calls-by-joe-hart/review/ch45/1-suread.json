@@ -1,0 +1,68 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch45",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch45_40.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 从床边踉跄后退，腿软跌坐到窗边的椅子上。",
+      "anchor": "Her legs wobble and give way. She’s expecting the floor but the chair near the window meets her instead.",
+      "start": 62,
+      "end": 166
+    },
+    {
+      "fact": "她看清 Eeling 的脸朝上埋在袋中，眼睛半睁、嘴巴张开、舌头歪出。",
+      "anchor": "Eeling’s face is upturned in the bag, eyes half lidded and stuck in a forever stare.",
+      "start": 290,
+      "end": 374
+    },
+    {
+      "fact": "她闻到威士忌中夹杂的臭味，意识到那是尸体泄漏的排泄物。",
+      "anchor": "Except what she breathes in is whiskey laced with an underlying stench, and she understands she’s smelling the waste that’s leaked from his body.",
+      "start": 1103,
+      "end": 1248
+    },
+    {
+      "fact": "她下楼后意识到自己已在屋里留下指纹——她掀开了盖着 Eeling 的毯子。",
+      "anchor": "Your fingerprints are in the house now. You pulled back the blanket covering him.",
+      "start": 2124,
+      "end": 2205
+    },
+    {
+      "fact": "她到餐桌打开笔记本电脑，看到登录界面，资料被锁。",
+      "anchor": "She goes to the dining room table and opens the laptop. Her heart falls from what feels like two stories seeing the sign-in screen.",
+      "start": 2827,
+      "end": 2958
+    },
+    {
+      "fact": "她把笔记本拿到楼上，按 Eeling 食指的触控 ID 解锁。",
+      "anchor": "Turning the laptop awkwardly, she guides it down, tilting it slightly so she can see, and presses the touch ID button to the tip of Eeling’s index finger.",
+      "start": 3837,
+      "end": 3991
+    },
+    {
+      "fact": "解锁后屏幕上打开着一个 Word 文档，顶端只有两个词。",
+      "anchor": "On the laptop a Word document is open, just two words at its very top.",
+      "start": 4103,
+      "end": 4173
+    },
+    {
+      "fact": "她准备删除关于 Tommy 的文件，却发现在桌上已找不到该文件。",
+      "anchor": "The file is gone from the desktop.",
+      "start": 4537,
+      "end": 4571
+    },
+    {
+      "fact": "她找敲诈信封，在 Eeling 两天都带到她家的工作包侧袋里找到，上写 Crawford 一家名字。",
+      "anchor": "The blackmail envelope is in the first place she looks—Eeling’s workbag he brought both days he came to her place.",
+      "start": 7179,
+      "end": 7293
+    },
+    {
+      "fact": "她把信封揣进口袋离开房子，边走边用毛衣擦门把手清除指纹。",
+      "anchor": "With the envelope tucked away in her pocket, she leaves the house, rubbing the doorknob briskly with her sweater on the way out.",
+      "start": 7514,
+      "end": 7642
+    }
+  ]
+}

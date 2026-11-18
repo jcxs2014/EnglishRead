@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch13",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch13_13.txt",
+  "facts": [
+    {
+      "fact": "Eeling 摆工位：笔电、笔、半湿稿纸；手机屏保是抱着一个三岁上下男孩的女人，男孩仰脸朝她笑——Hattie 别开脸，像看到不体面的东西：她不想让这个入侵她生活的人被任何人化。",
+      "anchor": "holding a boy of perhaps three",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "fact": "Eeling 椅子的雨水一路滴到地板上；他做样子擦自己——她绝不会递毛巾：让他泡着。",
+      "anchor": "Let him soak.",
+      "start": 750,
+      "end": 763
+    },
+    {
+      "fact": "她今早等车时查过他：Ross Miles Eeling——先在华盛顿邮报、后转独立报道，最后一份新闻作品是一家已停播的播客；要看证件——纽约州驾照，「瘦了点，但我是我」。",
+      "anchor": "You worked for The Washington Post and then moved on to independent reporting",
+      "start": 961,
+      "end": 1038
+    },
+    {
+      "fact": "她的怒气像胸口正中一只被踢翻的马蜂窝；Ed 的声音在她脑内念：你还是气得要命——他总能认出她的战路、知趣退进木工房等她气消。",
+      "anchor": "like a kicked hornet",
+      "start": 1999,
+      "end": 2019
+    },
+    {
+      "fact": "但把火撒在对面这人身上只会换来一个结果——让隔壁那个小男孩一脸困惑心碎。她不愿这么做。除非别无选择。",
+      "anchor": "heartbroken look on the little boy",
+      "start": 2161,
+      "end": 2195
+    },
+    {
+      "fact": "「你怎么找到我的？」「我想你已经知道了」（声音进了一丝冰）。她找不到他在撒谎的迹象——他是对的；奥卡姆剃刀在他现身后的凌晨某刻已把答案递给她：等这里结束后，她要打一通电话——用床头抽屉里那部手机，打给过去的长途。",
+      "anchor": "A call to the past, long-distance for sure.",
+      "start": 3166,
+      "end": 3209
+    },
+    {
+      "fact": "签下采访协议；他前倾如电影座里的孩子，她能闻到他的期待——她自己的期待属于完全不同的物种：童年老家的地下室门——吱呀开缝、蛛网杂物、油腻的地面、向下消失的楼梯——她如今又站在这级台阶上，望进记忆的深渊，知道底下埋着的东西仍然非常有活力。",
+      "anchor": "things buried beneath the basement floor",
+      "start": 4420,
+      "end": 4460
+    },
+    {
+      "fact": "「我们开始吧。」他坐直、正视她：「我要从最开始——你第一次知道你儿子就是 Bedfellow 杀手（Bedfellow Killer）的时候讲起。」",
+      "anchor": "your son was the Bedfellow Killer.",
+      "start": 4898,
+      "end": 4932
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

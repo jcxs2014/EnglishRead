@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch71",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch71_66.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 走进 Sloan 未上锁的房子，并随手关门挡风。",
+      "anchor": "Sloan’s house is unlocked.",
+      "start": 13,
+      "end": 39
+    },
+    {
+      "fact": "她打开厨房灯，确认那部泛黄的有线电话仍在原处，拿起听筒听到拨号音后放下。",
+      "anchor": "The same yellowed, corded telephone sits neatly at the end of the counter atop the most current phone book.",
+      "start": 875,
+      "end": 982
+    },
+    {
+      "fact": "她从厨房走到图书馆一路数步：十二步、约三十六英尺。",
+      "anchor": "Twelve paces. Thirty-six feet, give or take.",
+      "start": 1235,
+      "end": 1279
+    },
+    {
+      "fact": "她不假思索地把被拉倒的低书架扶正，并把书一本本摞回去。",
+      "anchor": "Without thinking, she rights the low bookcase that’s been pulled over, spilling its knowledge on the wood floor.",
+      "start": 1348,
+      "end": 1460
+    },
+    {
+      "fact": "她在黑暗中喊出最害怕说出口的那个名字“Tommy?”。",
+      "anchor": "“Tommy?”",
+      "start": 2843,
+      "end": 2851
+    },
+    {
+      "fact": "头顶地板发出咯吱声，接着脚步声一级一级从后楼梯下来。",
+      "anchor": "A floorboard creaks overhead.",
+      "start": 3481,
+      "end": 3510
+    },
+    {
+      "fact": "一个影子走进月光，她认出那件皱旧工装、破相的鼻子和认得出来的眼睛。",
+      "anchor": "An untrimmed beard hanging down almost to the breastbone with a spectacularly broken nose folded flatly to one side above it",
+      "start": 4171,
+      "end": 4295
+    },
+    {
+      "fact": "她 whisper 出“Tommy”后眼前一黑昏倒。",
+      "anchor": "“Tommy,” she whispers before the world tips on its side and blackens to nothing.",
+      "start": 4405,
+      "end": 4485
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch63",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch63_58.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Eeling 推断有与 Thomas Conlee 极亲近的人制造了压倒性证据将其陷害为 Bedfellow 案凶手。",
+      "anchor": "I think someone very close to Thomas Conlee framed him for the Bedfellow murders",
+      "start": 13,
+      "end": 93
+    },
+    {
+      "fact": "Eeling 指出陷害者能自由进入 Tommy 公寓，取其 T 恤与近期用过的避孕奎证据栽赃。",
+      "anchor": "gathered the necessary items (i.e. his T-shirt and a recently used condom) to incriminate him.",
+      "start": 541,
+      "end": 635
+    },
+    {
+      "fact": "Eeling 认为真凶的失误导致 Cheryl Barton 被杀。",
+      "anchor": "which is why Cheryl Barton was killed.",
+      "start": 763,
+      "end": 801
+    },
+    {
+      "fact": "Eeling 指出 Cheryl 不符其他受害者特征：年轻至少五岁、金发而非深发、喉咙多处刀伤。",
+      "anchor": "she’s younger by at least five years, she’s blond instead of brunette",
+      "start": 849,
+      "end": 918
+    },
+    {
+      "fact": "Eeling 认为证据将在警探 Ramsby 答应寄来的照片里。",
+      "anchor": "the proof will be in the photos Detective Ramsby said he would send me.",
+      "start": 1232,
+      "end": 1303
+    },
+    {
+      "fact": "Eeling 写下最近几周总觉被人跟踪、无法摆脱这种感觉。",
+      "anchor": "there’s this overwhelming feeling someone’s following me.",
+      "start": 1500,
+      "end": 1557
+    },
+    {
+      "fact": "Eeling 第一怀疑对象是 Dustin Reiten，因上次冲突，且 Dustin 曾出现在他住的酒店。",
+      "anchor": "My first thought was Dustin Reiten because of our last run-in.",
+      "start": 1620,
+      "end": 1682
+    },
+    {
+      "fact": "Eeling 说 Dustin 想知道他如何找到他们，但他不愿在还指望 Ramsby 提供照片时供出对方。",
+      "anchor": "He wanted to know how I found them, but I wasn’t going to give up Ramsby",
+      "start": 1829,
+      "end": 1901
+    },
+    {
+      "fact": "Eeling 急于回城市与家人 Owen、Natalie 团聚，并想向 Hattie 解释一切。",
+      "anchor": "Excited to get back to the city lights, and more importantly, Owen and Natalie.",
+      "start": 2991,
+      "end": 3070
+    }
+  ]
+}

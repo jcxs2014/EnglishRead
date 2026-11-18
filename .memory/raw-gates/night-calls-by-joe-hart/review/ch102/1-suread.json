@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch102",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch102_97.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 走到 Crawford 家时，Wendy 已在后院露台摆好餐桌",
+      "anchor": "Wendy’s already outside setting the table on the back patio.",
+      "start": 70,
+      "end": 130
+    },
+    {
+      "fact": "Hattie 放下那盘焗土豆并查看餐具摆设",
+      "anchor": "She sets the dish of scalloped potatoes down and surveys the place settings.",
+      "start": 308,
+      "end": 384
+    },
+    {
+      "fact": "Julian 喊她“Grandma”并从后门冲出扑进她怀里",
+      "anchor": "“Grandma!” Julian rushes out the back door and into her arms.",
+      "start": 944,
+      "end": 1005
+    },
+    {
+      "fact": "Colm 紧紧拥抱 Hattie，后退后向她介绍 Gemma",
+      "anchor": "Colm hugs her tightly before stepping back.",
+      "start": 2957,
+      "end": 3000
+    },
+    {
+      "fact": "Sloan 拄着雕花梣木手杖到来，递给 Wendy 一个凹陷的苹果派",
+      "anchor": "Sloan arrives next, walking slowly but steadily with a cane of carved ash.",
+      "start": 3395,
+      "end": 3469
+    },
+    {
+      "fact": "在 Dustin 工具箱抽屉下发现一把 engine seal pick（凶器）",
+      "anchor": "Tucked beneath a drawer in Dustin’s toolbox was an engine seal pick",
+      "start": 5958,
+      "end": 6025
+    },
+    {
+      "fact": "证据足以让 Tommy 保释，Hattie 欣然付了保释金",
+      "anchor": "But it was enough evidence to release Tommy on bail, which Hattie gladly paid.",
+      "start": 6541,
+      "end": 6619
+    },
+    {
+      "fact": "Tommy 在 Hattie 耳边叫她“Mom”",
+      "anchor": "“Hey, Mom,” he says in her ear.",
+      "start": 6777,
+      "end": 6808
+    }
+  ]
+}

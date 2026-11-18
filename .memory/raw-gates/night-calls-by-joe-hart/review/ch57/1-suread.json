@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch57",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch57_52.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "接下来的两天里哈蒂没见到任何人、没和任何人说话、与外界没有任何联系。",
+      "anchor": "For the next two days she doesn’t see another person, doesn’t speak to anyone, has no contact with the outside world.",
+      "start": 13,
+      "end": 130
+    },
+    {
+      "fact": "哈蒂在厨房桌上架设工作台，因为那里光线最好，配了笔记本电脑、记事本、笔和喝不完的茶。",
+      "anchor": "She creates a workstation at the kitchen table since it has the best light in the cottage and equips it with her laptop, a notepad and pens, and a bottomless cup of tea.",
+      "start": 330,
+      "end": 499
+    },
+    {
+      "fact": "第二天哈蒂播放了一个标注为 Ginger Beckem 的音频，引起她兴趣的是标注 Leah Sterling 同事的备注。",
+      "anchor": "It’s marked Ginger Beckem, but it’s the notation not the name that sparks her interest—Leah Sterling coworker.",
+      "start": 1252,
+      "end": 1362
+    },
+    {
+      "fact": "金杰说她只见过汤米一次，是在事情发生前的一场派对上，那时他和莉娅刚复合。",
+      "anchor": "I really only met Tommy once. It was at a party right before all that sh—stuff went down.",
+      "start": 1911,
+      "end": 2000
+    },
+    {
+      "fact": "金杰说莉娅告诉她，汤米开始和谢瑞尔约会只是为了让她嫉妒。",
+      "anchor": "Leah told me he only started dating that Cheryl to make her jealous.",
+      "start": 2131,
+      "end": 2199
+    },
+    {
+      "fact": "金杰说莉娅很聪明，帮她拿到了 GED 文凭。",
+      "anchor": "She was hella smart. She helped me with my GED.",
+      "start": 2771,
+      "end": 2818
+    },
+    {
+      "fact": "金杰说谢瑞尔来到 Pizza Train 后，莉娅出来跟她说些关于汤米的话，并让她到外面去谈。",
+      "anchor": "Then Leah comes out and Cheryl starts saying some stuff about Tommy, and Leah makes her go outside to talk.",
+      "start": 3720,
+      "end": 3827
+    },
+    {
+      "fact": "金杰说谢瑞尔威胁莉娅离汤米远点，否则就杀了她。",
+      "anchor": "Because Cheryl said she’d better stay away from Tommy otherwise she’d kill her.",
+      "start": 4427,
+      "end": 4506
+    },
+    {
+      "fact": "金杰强调说这话还不到一周，谢瑞尔就死了。",
+      "anchor": "Real ironic because it wasn’t a week later and she was dead.",
+      "start": 4565,
+      "end": 4625
+    }
+  ]
+}

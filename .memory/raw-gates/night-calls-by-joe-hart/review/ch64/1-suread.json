@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch64",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch64_59.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 乘火车望向窗外，列车快到 Boston。",
+      "anchor": "Hattie watches the landscape scroll by the train’s windows.",
+      "start": 13,
+      "end": 72
+    },
+    {
+      "fact": "Hattie 研究完档案最后一个名字 Elle Marks 后，自认想通了 Bedfellow 的失误所在。",
+      "anchor": "After researching Elle Marks, the final name in the file with no other information attached to it, she thinks she knows what the Bedfellow’s mistake was.",
+      "start": 336,
+      "end": 489
+    },
+    {
+      "fact": "Hattie 对 Ramsby 本应寄给 Eeling 的照片找不到任何踪迹。",
+      "anchor": "but she couldn’t find any trace of them.",
+      "start": 573,
+      "end": 613
+    },
+    {
+      "fact": "Hattie 反复想着 Eeling 最后一晚的备忘录；得知 Dustin 曾威胁他，一切有了新解读。",
+      "anchor": "Knowing now that Dustin threatened him adds a whole new aspect to everything.",
+      "start": 690,
+      "end": 767
+    },
+    {
+      "fact": "Hattie 认为 Eeling 听上去不像要结束生命，倒像是重新开始。",
+      "anchor": "he didn’t sound like a man on the verge of ending his life. He sounded like one starting anew.",
+      "start": 990,
+      "end": 1084
+    },
+    {
+      "fact": "感恩节成了短暂而受欢迎的喘息：Hattie 白天多数时间与 Crawfords 一家度过，晚上去 Sloan 及儿子 Adam 处吃馅饼。",
+      "anchor": "Thanksgiving itself had been a brief but very welcome respite.",
+      "start": 1977,
+      "end": 2039
+    },
+    {
+      "fact": "Wendy 告诉 Hattie 诉讼已被撤销。",
+      "anchor": "The lawsuit’s been dropped! Or I guess it never really got going.",
+      "start": 2277,
+      "end": 2342
+    },
+    {
+      "fact": "Kevin 边切火鸡边说 Julian 的智商处于同龄人第九十百分位，因缺乏挑战而积怨。",
+      "anchor": "His IQ is in the ninetieth percentile for his age, Kevin said as he cut the turkey.",
+      "start": 2568,
+      "end": 2651
+    },
+    {
+      "fact": "Hattie 到站下车，看见 Leah、Dustin、Colm 三人一起来接她，心中想着其中一人可能是陷害者或凶手。",
+      "anchor": "One of you could be my son’s betrayer. One of you could be a killer.",
+      "start": 4865,
+      "end": 4933
+    }
+  ]
+}

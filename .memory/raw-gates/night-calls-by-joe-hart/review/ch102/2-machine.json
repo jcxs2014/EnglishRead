@@ -1,0 +1,505 @@
+{
+  "chapter": 102,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch102 how far we ve come.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch102_97.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When she walks over to the Crawfords' a few hours later, Wendy's already outside setting the table on the back patio. Th",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She sets the dish of scalloped potatoes down and surveys the place settings. \"Are you sure you don't need anything else?",
+          "ok": true,
+          "pos": 295
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She stares out at the water and is lost for a while. Then Wendy's beside her, touching her arm. \"Are you okay?\" Hattie g",
+          "ok": true,
+          "pos": 738
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"Grandma!\" Julian rushes out the back door and into her arms. Him calling her that isn't something she's gotten used to ",
+          "ok": true,
+          "pos": 900
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Honey, can you go get the pitcher of water and glasses for me?\" Wendy asks. He rushes back inside with the enthusiasm p",
+          "ok": true,
+          "pos": 1293
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "When they'd finally met in person earlier that summer, after a series of tentative phone calls, Wendy had listened inten",
+          "ok": true,
+          "pos": 1866
+        }
+      ],
+      "words": 103
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"You sure you're okay with all this?\" Hattie asks. Wendy's a moment answering but then brightens. \"Yeah. I really am. I ",
+          "ok": true,
+          "pos": 2463
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"They're here!\" Julian proclaims as he reappears, dropping the water pitcher and several glasses off at the table before",
+          "ok": true,
+          "pos": 2616
+        }
+      ],
+      "words": 121
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Sloan arrives next, walking slowly but steadily with a cane of carved ash. He hands Wendy a sunken apple pie, and Hattie",
+          "ok": true,
+          "pos": 3267
+        }
+      ],
+      "words": 194
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "For a while they mingle and chat. Catch up on the last few weeks. It almost feels normal—a group of people who could be ",
+          "ok": true,
+          "pos": 4303
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Just as they're getting ready to eat, several heads turn, and she sees the final two guests have arrived. Tommy and Leah",
+          "ok": true,
+          "pos": 4673
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The sight of him still makes her breath catch. How much weight he's lost and the way his eyes never hold on one thing fo",
+          "ok": true,
+          "pos": 4794
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "How the first person on the scene was none other than Sheriff Altringer with an ambulance not far behind. Trying to expl",
+          "ok": true,
+          "pos": 5300
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Then the eventual turning point with what was discovered in Dustin and Leah's garage. Tucked beneath a drawer in Dustin'",
+          "ok": true,
+          "pos": 5706
+        }
+      ],
+      "words": 130
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "She goes to him now as she did in the courthouse atrium at his release, gathering him to her and reassuring herself that",
+          "ok": true,
+          "pos": 6446
+        }
+      ],
+      "words": 114
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 143,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 148,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 142,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 238,
+        "关键词": 0,
+        "为什么这样写": 130,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 144,
+        "关键词": 0,
+        "为什么这样写": 145,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 150,
+        "关键词": 0,
+        "为什么这样写": 128,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "102. Chapter 97",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 5,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1278,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句6",
+        "words": 103
+      },
+      {
+        "block": "原句8",
+        "words": 121
+      },
+      {
+        "block": "原句9",
+        "words": 194
+      },
+      {
+        "block": "原句14",
+        "words": 130
+      },
+      {
+        "block": "原句15",
+        "words": 114
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

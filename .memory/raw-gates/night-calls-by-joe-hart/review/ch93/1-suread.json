@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch93",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch93_88.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "她讲完时，光线已倾斜成橙色。",
+      "anchor": "When she finishes, the light has slanted and taken on an orange hue.",
+      "start": 13,
+      "end": 81
+    },
+    {
+      "fact": "Colm 全程专注倾听，随着她讲述越发静止。",
+      "anchor": "Colm watched her raptly throughout everything, growing more and more still as she spoke.",
+      "start": 84,
+      "end": 172
+    },
+    {
+      "fact": "Colm 说有时他怀疑有人构陷 Tommy，但他不愿那是真的。",
+      "anchor": "I wondered sometimes if someone did this to him.",
+      "start": 561,
+      "end": 609
+    },
+    {
+      "fact": "Colm 主张把事情交给当局，搜查 Dustin 的房子。",
+      "anchor": "We have to bring this to the authorities.",
+      "start": 923,
+      "end": 964
+    },
+    {
+      "fact": "Hattie 指出没有确凿证据证明 Dustin 是 Bedfellow，照片和接近案发地只是间接证据。",
+      "anchor": "There’s no real evidence Dustin’s the Bedfellow.",
+      "start": 1019,
+      "end": 1067
+    },
+    {
+      "fact": "Hattie 说证据已被销毁、无记录且 Ramsby 已死，没有 DNA 就没有案子。",
+      "anchor": "That’s just it—it’s destroyed.",
+      "start": 1226,
+      "end": 1256
+    },
+    {
+      "fact": "Hattie 表示他们有一个计划。",
+      "anchor": "We have a plan.",
+      "start": 1473,
+      "end": 1488
+    },
+    {
+      "fact": "Hattie 前一晚为 Tommy 剪了头发、修了胡子；Tommy 出现在厨房桌旁。",
+      "anchor": "She cut his hair the night before and trimmed his beard",
+      "start": 1870,
+      "end": 1925
+    },
+    {
+      "fact": "Colm 上前将 Tommy 拥入怀中，两人站在八年边缘。",
+      "anchor": "Colm wavers in place, then rushes forward and sweeps Tommy into a hug.",
+      "start": 2339,
+      "end": 2409
+    }
+  ]
+}

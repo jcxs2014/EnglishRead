@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch32",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch32_28.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie瞥见Eeling手机屏幕上一个女人的笑脸，确认就是他锁屏照片里抱着小男孩的同一个女人",
+      "anchor": "Hattie catches a glimpse of a woman’s smiling face on the screen",
+      "start": 407,
+      "end": 471
+    },
+    {
+      "fact": "Eeling接听电话，一边说马上回来一边走到屋外的门廊上",
+      "anchor": "“I’ll be right back,” and answers the call as he’s stepping outside onto her front porch",
+      "start": 608,
+      "end": 696
+    },
+    {
+      "fact": "Eeling在门廊踱步时，Hattie发现他没有让笔记本睡眠，走到他那侧查看电脑桌面上的文件夹",
+      "anchor": "he didn’t put the laptop to sleep",
+      "start": 1248,
+      "end": 1281
+    },
+    {
+      "fact": "Hattie在桌面左下角找到标注TEC的文件夹（Thomas Edwin Conlee，即Tommy）并点击打开",
+      "anchor": "A file folder at the bottom left marked TEC.",
+      "start": 2135,
+      "end": 2179
+    },
+    {
+      "fact": "Hattie用了三次才输入正确的自己邮箱地址，把TEC文件夹作为附件点击发送",
+      "anchor": "she attaches the TEC file folder and hits “Send.”",
+      "start": 2786,
+      "end": 2835
+    },
+    {
+      "fact": "系统提示附件过大需要压缩，Hattie点击Yes，进度条开始极其缓慢地填充",
+      "anchor": "Attachment too large, files must be compressed. Proceed? She clicks “Yes”",
+      "start": 2871,
+      "end": 2944
+    },
+    {
+      "fact": "Hattie打开Sent列表，点击带小垃圾桶图标的Delete按钮删除已发邮件并确认Yes",
+      "anchor": "A “Delete” button with a little trash can above it. She punches it.",
+      "start": 4283,
+      "end": 4350
+    },
+    {
+      "fact": "Eeling走进厨房时，Hattie手中的玻璃杯滑落并在水槽里摔碎",
+      "anchor": "The glass slips from her fingers and shatters in the sink as Eeling steps into the kitchen.",
+      "start": 4685,
+      "end": 4776
+    },
+    {
+      "fact": "一辆绿色SUV停在Eeling车旁，Wendy Crawford和Julian从车里出来径直朝房子走去",
+      "anchor": "both front doors open and Wendy Crawford climbs out along with Julian",
+      "start": 5926,
+      "end": 5995
+    }
+  ]
+}

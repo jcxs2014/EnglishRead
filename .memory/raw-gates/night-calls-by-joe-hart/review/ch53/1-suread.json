@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch53",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch53_48.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "英语教授在 Hattie 大三那年说了“怀疑是地狱的货币”这句话，此后它常在她脑中浮现。",
+      "anchor": "An English professor said this in Hattie’s junior year of college",
+      "start": 41,
+      "end": 106
+    },
+    {
+      "fact": "Hattie 查看同一标题下的 Word 文档，发现它只是录音的转录文本，删掉了 Eeling 谈到自己儿子的那段题外话。",
+      "anchor": "it’s just a transcription of the audio minus the aside with his son",
+      "start": 1132,
+      "end": 1199
+    },
+    {
+      "fact": "Hattie 合上笔记本电脑、盯着烧得差不多的炉火，随后因口渴去厨房，站在水槽边喝水。",
+      "anchor": "She’s very thirsty and goes to the kitchen for some water.",
+      "start": 1342,
+      "end": 1400
+    },
+    {
+      "fact": "Eeling 以为自己开辟了新天地，但 Hattie、Ed 和律师 Billy Wescot 早已为 Tommy 的清白把每条路都走遍了。",
+      "anchor": "she and Ed and their lawyer Billy Wescot had walked smooth in their belief of Tommy’s innocence",
+      "start": 1513,
+      "end": 1608
+    },
+    {
+      "fact": "此前律师 Billy 曾建议他们改变策略、提出认罪协议，以避免可能的死刑判决。",
+      "anchor": "Billy had suggested they switch tactics and offer a plea deal to avoid a potential death sentence",
+      "start": 2494,
+      "end": 2591
+    },
+    {
+      "fact": "宾夕法尼亚州不实行死刑，但当年州长正竞选连任，并特意提出为 Tommy 的定罪恢复死刑。",
+      "anchor": "The State of Pennsylvania didn’t employ capital punishment, but the governor was up for reelection that year",
+      "start": 2593,
+      "end": 2701
+    },
+    {
+      "fact": "Hattie 把笔记本电脑拿到厨房准备删除 Eeling 的文件，光标已停在“Delete”按钮上，但她犹豫了。",
+      "anchor": "even has the cursor over the “Delete” button, but hesitates",
+      "start": 3186,
+      "end": 3245
+    },
+    {
+      "fact": "Hattie 勉强打开浏览器，重读 Eeling 为不同新闻机构写的文章；一小时后她承认他确实是位出色的犯罪记者。",
+      "anchor": "she opens the internet browser to reread the articles Eeling wrote for different news organizations",
+      "start": 3327,
+      "end": 3426
+    },
+    {
+      "fact": "Hattie 改而煮了一杯咖啡，并开始翻查那些音频文件。",
+      "anchor": "She brews herself a cup of coffee instead, and with what feels like unlocking the clasp of Pandora’s box, starts to sift through the audio files.",
+      "start": 4135,
+      "end": 4280
+    }
+  ]
+}

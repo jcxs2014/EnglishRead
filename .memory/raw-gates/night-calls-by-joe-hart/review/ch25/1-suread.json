@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch25",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch25_september_2018.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "哈丽特拿起电话听筒贴到耳边，隔着有机玻璃隔断看着汤米。",
+      "anchor": "Hattie picked up the phone’s handset from its cradle and put it to her ear",
+      "start": 25,
+      "end": 99
+    },
+    {
+      "fact": "她透过厚厚的有机玻璃隔断看着汤米，等他也拿起听筒。",
+      "anchor": "She watched Tommy through the thick plexiglass partition, waiting for him to pick up his own handset",
+      "start": 156,
+      "end": 256
+    },
+    {
+      "fact": "典狱长/警卫说汤米没有脑震荡或骨折，多为表面瘀伤和割伤。",
+      "anchor": "No concussion or broken bones. Superficial bruising and cuts for the most part.",
+      "start": 814,
+      "end": 893
+    },
+    {
+      "fact": "在最近一次看病时她的体重降到一百零三磅。",
+      "anchor": "tipped the scale at a hundred and three.",
+      "start": 1641,
+      "end": 1681
+    },
+    {
+      "fact": "警卫说汤米和另外两名囚犯发生了冲突。",
+      "anchor": "There was an altercation between Tommy and two other inmates.",
+      "start": 1930,
+      "end": 1991
+    },
+    {
+      "fact": "控辩双方将在接下来几周做最后陈述。",
+      "anchor": "The prosecution and defense would be making their final arguments in the coming weeks",
+      "start": 3349,
+      "end": 3434
+    },
+    {
+      "fact": "她问汤米是否还好，汤米回答“很好”。",
+      "anchor": "“Are you okay?”",
+      "start": 2414,
+      "end": 2429
+    },
+    {
+      "fact": "汤米说即使明天被放出去也没用，因为没人相信他。",
+      "anchor": "It wouldn’t matter if they let me out tomorrow. No one believes me.",
+      "start": 4017,
+      "end": 4084
+    },
+    {
+      "fact": "汤米挂断电话起身离开，她坐在原地握着死掉的听筒。",
+      "anchor": "But he left her sitting where she was, holding the dead handset to her ear",
+      "start": 5928,
+      "end": 6002
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "chapter": 103,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch103 into the sea.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch103_98.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"So what's happening with the settlement?\" Kevin says. They're sitting in the Crawfords' living room, everyone nursing a",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 133
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"Leave it to the lawyer to bring up a lawsuit at a party,\" Wendy says, rolling her eyes at her husband. Kevin holds up h",
+          "ok": true,
+          "pos": 775
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"The official statement of exoneration is way more important than the money,\" Tommy says, looking at the floor. \"Still, ",
+          "ok": true,
+          "pos": 1281
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "They're all quiet for a moment before Hattie stands and raises her drink. \"I'd like to make a toast.\" Glasses hoist. \"To",
+          "ok": true,
+          "pos": 1672
+        }
+      ],
+      "words": 103
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "When everyone's finished grazing, Hattie and Wendy clean up and Gemma joins them, starting to hand-wash the dishes again",
+          "ok": true,
+          "pos": 2230
+        }
+      ],
+      "words": 113
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Through a program Colm started at the college. It's geared to get middle schoolers engaged in astronomy. I was looking ",
+          "ok": true,
+          "pos": 2865
+        }
+      ],
+      "words": 138
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"Can you all hear me?\" he says. \"Quiet down, everyone,\" Gemma's voice calls, and the children fall silent. Colm gives Ge",
+          "ok": true,
+          "pos": 3573
+        }
+      ],
+      "words": 158
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"What are we watching?\" Gemma stops the video. Colm stands in the kitchen doorway. \"I was just showing them your demonst",
+          "ok": true,
+          "pos": 4411
+        }
+      ],
+      "words": 108
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She makes her way to the back entryway and slips outside. The night is blessedly cool, and she takes several cleansing b",
+          "ok": true,
+          "pos": 4984
+        }
+      ],
+      "words": 168
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "\"The heart always comes home,\" Hattie finally says. Colm's perfectly still for a moment, then his head tips forward unti",
+          "ok": true,
+          "pos": 5892
+        }
+      ],
+      "words": 153
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "He's a long time answering. \"Yes.\" \"Why did you leave it in Tommy's room?\" \"I didn't. It must've slipped out of my bag. ",
+          "ok": true,
+          "pos": 6735
+        }
+      ],
+      "words": 225
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Hattie studies his outline against the blackening sky. He's becoming harder and harder to discern from the darkness. \"Th",
+          "ok": true,
+          "pos": 7846
+        }
+      ],
+      "words": 185
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "She's unraveling inside. \"Colm,\" she finally manages, \"you have to get help.\" His shadow stills. \"I have gotten help. I ",
+          "ok": true,
+          "pos": 8735
+        }
+      ],
+      "words": 121
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "\"You fell in the dark and I found you,\" he says as if in a trance. \"But it was too late.\" She tries to say something els",
+          "ok": true,
+          "pos": 9375
+        }
+      ],
+      "words": 174
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Light flares, and at first she thinks this is death, just a piercing white light. But the pain continues assaulting her ",
+          "ok": true,
+          "pos": 10244
+        }
+      ],
+      "words": 314
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 152,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 192,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 164,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 166,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 222,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 160,
+        "关键词": 0,
+        "为什么这样写": 138,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 182,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 177,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 297,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.56
+      }
+    }
+  ],
+  "form": {
+    "h1": "103. Chapter 98",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 13,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2259,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 133
+      },
+      {
+        "block": "原句4",
+        "words": 103
+      },
+      {
+        "block": "原句5",
+        "words": 113
+      },
+      {
+        "block": "原句6",
+        "words": 138
+      },
+      {
+        "block": "原句7",
+        "words": 158
+      },
+      {
+        "block": "原句8",
+        "words": 108
+      },
+      {
+        "block": "原句9",
+        "words": 168
+      },
+      {
+        "block": "原句10",
+        "words": 153
+      },
+      {
+        "block": "原句11",
+        "words": 225
+      },
+      {
+        "block": "原句12",
+        "words": 185
+      },
+      {
+        "block": "原句13",
+        "words": 121
+      },
+      {
+        "block": "原句14",
+        "words": 174
+      },
+      {
+        "block": "原句15",
+        "words": 314
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

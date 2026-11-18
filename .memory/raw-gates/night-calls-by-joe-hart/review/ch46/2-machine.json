@@ -1,0 +1,501 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch46 blank page.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch46_41.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Sleep won't come. Hattie lies on her side looking out the window toward the sea. The belly of a crescent moon hangs low ",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 206
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She rolls away from the window and closes her eyes, adding another dimension to the dark. But it only provides a backdro",
+          "ok": true,
+          "pos": 1140
+        }
+      ],
+      "words": 146
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She believed he was coming back. \"You didn't know him at all,\" she says without opening her eyes. And if the last eight ",
+          "ok": true,
+          "pos": 1965
+        }
+      ],
+      "words": 133
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It doesn't matter what you believe, it's what you saw. And what had she seen? A suicide, or a murder made to look like o",
+          "ok": true,
+          "pos": 2687
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She releases a long sigh and climbs out of bed, shrugging into her sweater. In the kitchen, she heats water for tea she ",
+          "ok": true,
+          "pos": 3205
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She has to admit, there are only so many ways to make a murder look like a suicide without raising suspicion. Asphyxiati",
+          "ok": true,
+          "pos": 3758
+        }
+      ],
+      "words": 166
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Then why were the files gone from his laptop? Maybe he decided to clean house on a project he wasn't ever going to finis",
+          "ok": true,
+          "pos": 4655
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The kettle whistles. When she's poured the tea, she sits at the table, warming her hands around the cup, letting her gaz",
+          "ok": true,
+          "pos": 4835
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Cold. Cold. She was cold last night, waking up on the porch. What if she hadn't just sleepwalked her way outside? What i",
+          "ok": true,
+          "pos": 5321
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Impossible. There's no way she left her place, drove there, suffocated Eeling, and made her way back home without knowin",
+          "ok": true,
+          "pos": 5477
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Never say never. Remember the bathtub? She shakes her head as if to dislodge the voice from her ears. She's not going to",
+          "ok": true,
+          "pos": 5856
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Sure. And so do half the other people in the county. Still, she inspects her hands and arms, looking for cuts or bruises",
+          "ok": true,
+          "pos": 6088
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Tommy. Not like what he did. Hattie's stomach rolls when she tries taking a sip of tea. She dumps it down the sink, then",
+          "ok": true,
+          "pos": 6564
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Eeling was a blackmailing bastard. Someone willing to blow up people's lives to get what he wanted. People like that cou",
+          "ok": true,
+          "pos": 6861
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "She brings out the envelope with the Crawfords' name across the front. \"Exhibit fucking A,\" she says. She'd completely f",
+          "ok": true,
+          "pos": 7251
+        }
+      ],
+      "words": 78
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 8
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. Chapter 41",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 4,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1395,
+    "block_target": [
+      3,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 206
+      },
+      {
+        "block": "原句2",
+        "words": 146
+      },
+      {
+        "block": "原句3",
+        "words": 133
+      },
+      {
+        "block": "原句6",
+        "words": 166
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

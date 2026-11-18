@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch95",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch95_90.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Colm says his goodbyes and heads back home after hashing out the details.",
+      "anchor": "Colm says his goodbyes and heads back home",
+      "start": 77,
+      "end": 119
+    },
+    {
+      "fact": "Hattie offered Colm the couch but he declined, saying he has class bright and early.",
+      "anchor": "Hattie offered him the couch, but he declined.",
+      "start": 121,
+      "end": 167
+    },
+    {
+      "fact": "Tommy watches Colm drive away and stands at the window long after the taillights disappear.",
+      "anchor": "Tommy watches him drive away and stands at the window long after the taillights have disappeared.",
+      "start": 241,
+      "end": 338
+    },
+    {
+      "fact": "Hattie takes deep breaths and puts the phone call to Dustin through.",
+      "anchor": "Hattie holds her phone, which feels much heavier than usual. She takes several deep breaths, then puts the call through.",
+      "start": 494,
+      "end": 614
+    },
+    {
+      "fact": "Dustin picks up on the third ring but says nothing at first.",
+      "anchor": "Dustin picks up on the third ring but doesn’t say anything at first.",
+      "start": 617,
+      "end": 685
+    },
+    {
+      "fact": "Hattie tells Dustin that the writer Eeling is dead and killed himself.",
+      "anchor": "Eeling. I found out a couple days ago. He killed himself.",
+      "start": 2468,
+      "end": 2525
+    },
+    {
+      "fact": "Hattie says that before he died Eeling sent her his research about what the book is really about.",
+      "anchor": "Before he died, he sent me some of his research. What his book is really about.",
+      "start": 2682,
+      "end": 2761
+    },
+    {
+      "fact": "Dustin agrees to come on Saturday, three days from now, and Hattie tells him not to tell Leah.",
+      "anchor": "“Saturday.” Three days from now.",
+      "start": 3171,
+      "end": 3203
+    }
+  ]
+}

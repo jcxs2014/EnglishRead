@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch66",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch66_61.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Leah 说 Dustin 上大学时买了辆旧摩托，修好后打算全国骑行。",
+      "anchor": "He says we’re going to go on a cross-country trip when it’s done.",
+      "start": 301,
+      "end": 366
+    },
+    {
+      "fact": "车库里 Dustin 与 Colm 站在一辆拆开摊在防水布上的 Indian 摩托旁喝啤酒。",
+      "anchor": "an Indian motorcycle exploded neatly on a tarp",
+      "start": 908,
+      "end": 954
+    },
+    {
+      "fact": "Dustin 带着醉意说只有拆开东西才能弄明白。",
+      "anchor": "You only figure things out when you take them apart.",
+      "start": 1270,
+      "end": 1322
+    },
+    {
+      "fact": "Hattie 说 Ed 卖掉摩托车给她买了她左手上的戒指。",
+      "anchor": "Sold it to buy me this",
+      "start": 1634,
+      "end": 1656
+    },
+    {
+      "fact": "Dustin 说作家出现逼他谈 Tommy 时，他曾想杀了他。",
+      "anchor": "I wanted to kill him when he showed up and forced me to talk about Tommy.",
+      "start": 2124,
+      "end": 2197
+    },
+    {
+      "fact": "Dustin 告诉 Hattie 他和 Leah 想继续往前过日子，不想再谈那件事。",
+      "anchor": "Leah and I are trying to move on. We don’t want to talk about it.",
+      "start": 2496,
+      "end": 2561
+    },
+    {
+      "fact": "Dustin 冲 Hattie 说她没有出庭指证 Tommy，没有嫁给他女友，没有过他的生活。",
+      "anchor": "You didn’t testify against him. You’re not marrying his girlfriend. You’re not living his life.",
+      "start": 2753,
+      "end": 2848
+    },
+    {
+      "fact": "Dustin 说她没有在夜里等着他站起来把她的一切夺走。",
+      "anchor": "You’re not waiting to wake up some night with him standing over you ready to take it all away.",
+      "start": 2887,
+      "end": 2981
+    }
+  ]
+}

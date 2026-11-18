@@ -1,0 +1,44 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch78",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch78_73.txt",
+  "method": "R1 主会话先读 text 后写（盲读，未看 md）",
+  "facts": [
+    {
+      "fact": "Hattie 一早主动打电话给 Altringer 警长",
+      "anchor": "“Sheriff, this is Mary Whittaker. I see you stopped by yesterday; sorry I missed you.”",
+      "start": 418,
+      "end": 504
+    },
+    {
+      "fact": "她假称想再谈 Ross Eeling，警长说除咖啡馆外她似乎是唯一和他说过话的人",
+      "anchor": "“That’s right. In fact, other than the café where he had breakfast a few times, you seem to be the only person he spoke to, period.”",
+      "start": 970,
+      "end": 1102
+    },
+    {
+      "fact": "警长反问她是否希望自己能帮更多、暗示她其实相反",
+      "anchor": "“Do you wish you could help more? Because I’m getting the distinct feeling it’s the opposite, Mary.”",
+      "start": 1266,
+      "end": 1366
+    },
+    {
+      "fact": "警长盘问她来自加州哪个镇，指出很多 Mary Whittaker 却查无她",
+      "anchor": "“Because I did a little digging and there’re a lot of Mary Whittakers who live or lived in California, but I’ve yet to come across you.”",
+      "start": 1695,
+      "end": 1831
+    },
+    {
+      "fact": "Hattie 挂断后断定警长没有证据、只是在「钓鱼」",
+      "anchor": "“He doesn’t have shit,” she whispers, eyes still closed. “If he did, he wouldn’t still be fishing.”",
+      "start": 2443,
+      "end": 2542
+    },
+    {
+      "fact": "Tommy 在走廊喊她「Mom」，她仍不习惯但不再视为理所当然",
+      "anchor": "“Mom?” Tommy says from down the hall. She’s still not used to hearing it but won’t ever take it for granted again.",
+      "start": 2584,
+      "end": 2698
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch35",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch35_31.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Julian 给 Hattie 朗读书中的一章，她听着孙子的声音，感觉是自 Ross Eeling 上门讹诈以来最好的时刻。",
+      "anchor": "Julian reads a chapter to her out loud",
+      "start": 251,
+      "end": 289
+    },
+    {
+      "fact": "大约八点 Kevin 发短信说十五分钟后到家，并问是否要顺路接 Julian，Hattie 说她会走过去送。",
+      "anchor": "Around eight Kevin texts saying he’ll be home in fifteen",
+      "start": 517,
+      "end": 573
+    },
+    {
+      "fact": "Hattie 送 Julian 回家，走到一半 Julian 握住她的手，一直牵到前门才松开。",
+      "anchor": "Julian takes her hand halfway to his house, not letting go until they’re at the front door",
+      "start": 941,
+      "end": 1031
+    },
+    {
+      "fact": "Kevin 在门廊拥抱儿子 Julian，问他和 Mary 玩得是否开心、有没有完成阅读。",
+      "anchor": "“Hey, buddy,” Kevin says, hugging his son briefly in the entryway",
+      "start": 1035,
+      "end": 1100
+    },
+    {
+      "fact": "Hattie 提起霸凌者今天又回学校，Kevin 说他们收到邮件，校长认定停学三天就够了。",
+      "anchor": "The principal decided three days’ suspension was enough",
+      "start": 1812,
+      "end": 1867
+    },
+    {
+      "fact": "Hattie 提醒 Kevin，如果那两个孩子不分开，她担心会出事。",
+      "anchor": "I’m worried something might happen if the two of them aren’t kept apart",
+      "start": 2041,
+      "end": 2112
+    },
+    {
+      "fact": "Hattie 压低声音告诉 Kevin，Julian 有时会伤害自己，并问他有没有注意到瘀伤、Wendy 是否提过做心理治疗。",
+      "anchor": "hurts himself sometimes. Maybe you’ve noticed some bruises?",
+      "start": 2557,
+      "end": 2616
+    },
+    {
+      "fact": "Kevin 沉下脸回绝，说他们是 Julian 的父母、会决定什么对他最好，随后进门并关上门。",
+      "anchor": "We appreciate you helping us out from time to time, but we’re his parents, okay?",
+      "start": 2882,
+      "end": 2962
+    },
+    {
+      "fact": "Hattie 独自在黑暗中看到有人站在猫头鹰树旁盯着她，手电筒从手中滑落。",
+      "anchor": "Someone is standing beside the owl tree watching her.",
+      "start": 4605,
+      "end": 4658
+    }
+  ]
+}

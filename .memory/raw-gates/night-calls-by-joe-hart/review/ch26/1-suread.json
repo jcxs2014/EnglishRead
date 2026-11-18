@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch26",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch26_23.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie answers the phone and waits, as she always does, for a reply, but none comes.",
+      "anchor": "Hattie waits as she always does for a reply, but it doesn’t come.",
+      "start": 13,
+      "end": 78
+    },
+    {
+      "fact": "She apologizes for taking a minute to reach the phone, says she was sleeping, and almost says “den” but catches herself.",
+      "anchor": "Sorry it took me a minute to get to the phone, I was sleeping in the—",
+      "start": 259,
+      "end": 328
+    },
+    {
+      "fact": "Over the years of one-sided calls she has trained herself not to reveal anything about her home or location.",
+      "anchor": "she’s trained herself not to reveal anything about her home or location",
+      "start": 431,
+      "end": 502
+    },
+    {
+      "fact": "She rises from the bed and goes to the window to look out into the night.",
+      "anchor": "She rises from the bed and goes to the window.",
+      "start": 1144,
+      "end": 1190
+    },
+    {
+      "fact": "She touches the window hasp and double-checks that it is locked.",
+      "anchor": "She touches the window hasp, double-checking it’s locked.",
+      "start": 1594,
+      "end": 1651
+    },
+    {
+      "fact": "She recalls telling Tommy how proud she was that he befriended Colm when Colm moved to town — the four kids riding bikes together, inseparable.",
+      "anchor": "the four of you were riding around together on your bikes, inseparable",
+      "start": 2048,
+      "end": 2118
+    },
+    {
+      "fact": "She strains to hear anything from his end, hoping to identify a sound that might hint at where he is.",
+      "anchor": "to see if she can identify a sound that might give her a hint to where he is",
+      "start": 2563,
+      "end": 2639
+    },
+    {
+      "fact": "She recalls a night last January, during a storm, when near the end of the short call there was a sound from his end.",
+      "anchor": "there had been a sound from his end",
+      "start": 3155,
+      "end": 3190
+    },
+    {
+      "fact": "She wills the sound to come again but the silence has changed and Tommy is gone again.",
+      "anchor": "Tommy is gone again.",
+      "start": 3775,
+      "end": 3795
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch55",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch55_50.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "时间流逝：一开始还是清晨，随后午后阳光斜射进窗户。",
+      "anchor": "For a while it’s still early morning, then afternoon sunshine is slanting through the windows",
+      "start": 27,
+      "end": 120
+    },
+    {
+      "fact": "Hattie 吃了花生酱果冻三明治、喝下冰茶后，在浏览器里输入搜索词，找到她要找的那条讣告。",
+      "anchor": "she types a search into the internet browser, scanning through the headings until she finds the one she’s looking for.",
+      "start": 471,
+      "end": 589
+    },
+    {
+      "fact": "讣告显示 Ramsby 探长在两周多前去世，死因是“长期慢性疾病”，由一位前妻悼念。",
+      "anchor": "Detective Donald Ramsby died a little over two weeks ago.",
+      "start": 592,
+      "end": 649
+    },
+    {
+      "fact": "Hattie 啪地合上笔记本电脑，几乎把它扔过房间。",
+      "anchor": "Hattie slaps the laptop shut. Almost hurls it across the room.",
+      "start": 826,
+      "end": 888
+    },
+    {
+      "fact": "Hattie 对着空屋子说出“他可能在撒谎”。",
+      "anchor": "“He could’ve been lying,” she says to the empty house.",
+      "start": 1090,
+      "end": 1144
+    },
+    {
+      "fact": "Hattie 花了十分钟追查 Bedfellow 案的首席法医技术员是谁，然后停下了。",
+      "anchor": "spends ten minutes researching who the lead forensic tech was for the Bedfellow case, then stops",
+      "start": 1534,
+      "end": 1630
+    },
+    {
+      "fact": "Ramsby 只是把疑虑像接力赛中的接力棒一样交给了 Eeling，而现在这根接力棒到了 Hattie 手里。",
+      "anchor": "all Ramsby did was hand off the doubt to Eeling like a baton in a relay race.",
+      "start": 1881,
+      "end": 1958
+    },
+    {
+      "fact": "Hattie 再次合上电脑、走进书房；天色由晴转暮，海鸟成群，海水湛蓝。",
+      "anchor": "She pulls the laptop shut again and goes to the den.",
+      "start": 1991,
+      "end": 2043
+    },
+    {
+      "fact": "敲门声让她猛地回神；她开门，等的不是 Eeling，而是一个鬼魂（她还一路想象过去四十八小时都是自己的妄想）。",
+      "anchor": "When she opens the door it’s not Eeling who waits there.",
+      "start": 2607,
+      "end": 2663
+    }
+  ]
+}

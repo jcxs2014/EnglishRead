@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch75",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch75_70.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Tommy 终于开口问 Hattie 是不是认为是 Leah、Colm 或 Dustin 三人中的一个对他做了这些事；她回答「Yes」。",
+      "anchor": "either Leah, Colm, or Dustin did this to me?",
+      "start": 388,
+      "end": 432
+    },
+    {
+      "fact": "Hattie 告诉 Tommy 文件里有个叫 Elle Marks 的名字、没有其它信息关联，并给她看了照片；Elle 2018 年住在宾夕法尼亚州 Kingland。",
+      "anchor": "She lived in Kingland, Pennsylvania, in 2018.",
+      "start": 1230,
+      "end": 1275
+    },
+    {
+      "fact": "Hattie 说 Elle Marks 当时二十九岁，正在完成生态学硕士学位并担任餐厅经理。",
+      "anchor": " Elle Marks was twenty-nine at the time, finishing her master’s in ecology and working as a restaurant manager.",
+      "start": 1376,
+      "end": 1487
+    },
+    {
+      "fact": "Hattie 说 Elle 练过柔术（jujitsu），搏斗中把面具人打到面具半落、武器掉落，对方捡起武器逃走，Elle 随即报警。",
+      "anchor": "Elle competed in martial arts—jujitsu specifically.",
+      "start": 1807,
+      "end": 1858
+    },
+    {
+      "fact": "Hattie 说凶器可能是某种尖锐物、也许是刀；Tommy 盯着火低声说出「A wood awl」（木锥）。",
+      "anchor": "“A wood awl,” Tommy says quietly, staring into the fire.",
+      "start": 2307,
+      "end": 2363
+    },
+    {
+      "fact": "Hattie 揭示那次袭击发生在 4 月 12 日早晨，Tommy 立刻指出那是 Cheryl 被杀的前两天。",
+      "anchor": "The morning of April twelfth.",
+      "start": 2466,
+      "end": 2495
+    },
+    {
+      "fact": "Hattie 推断 Elle Marks 本该是 Bedfellow 的第四个受害者；Tommy 接话说是真凶杀了 Cheryl 并嫁祸给他，Cheryl 只是诱饵。",
+      "anchor": "Elle Marks was supposed to be the Bedfellow’s fourth victim.",
+      "start": 2617,
+      "end": 2677
+    },
+    {
+      "fact": "Hattie 说袭击那晚正是 Dad 的生日，Tommy 当时和他们在一起——那也是 Ed 最后一个生日，这让她确信 Tommy 无辜。",
+      "anchor": "It was Dad’s birthday.",
+      "start": 3209,
+      "end": 3231
+    },
+    {
+      "fact": "面对 Tommy 的绝望，Hattie 给他两个选择：一辈子藏在这里，或者设法为他洗清罪名、夺回被偷走的人生。",
+      "anchor": "Or two, we try to exonerate you.",
+      "start": 6091,
+      "end": 6123
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch96",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch96_91.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "For the next two days the world's clarity and volume are turned all the way up.",
+      "anchor": "For the next two days it’s as if the world’s clarity and volume have been turned all the way up.",
+      "start": 13,
+      "end": 109
+    },
+    {
+      "fact": "Tommy cannot sit still for longer than a minute.",
+      "anchor": "He can’t sit still for longer than a minute.",
+      "start": 295,
+      "end": 339
+    },
+    {
+      "fact": "Tommy barely eats and Hattie has only seen him sleep for a few scattered hours.",
+      "anchor": "He barely eats, and she’s only seen him sleep for a few scattered hours.",
+      "start": 340,
+      "end": 412
+    },
+    {
+      "fact": "Reviewing the plan is the only thing that soothes Tommy but it brings on more tension.",
+      "anchor": "The only thing that seems to soothe him is reviewing the plan, and paradoxically, it brings on more bouts of tension.",
+      "start": 413,
+      "end": 530
+    },
+    {
+      "fact": "Hattie knows that even if Dustin makes a confession it won't hold up in court.",
+      "anchor": "Even if they get Dustin to make a confession, it won’t hold up in court.",
+      "start": 626,
+      "end": 698
+    },
+    {
+      "fact": "An investigation might uncover hard evidence but even that is not a given.",
+      "anchor": "It might open the door to an investigation, which could uncover hard evidence, but even that’s not a given.",
+      "start": 699,
+      "end": 806
+    },
+    {
+      "fact": "The only thing that would fully incriminate Dustin is if he tries to hurt Hattie.",
+      "anchor": "The only thing that would fully incriminate him is if he tries to hurt her.",
+      "start": 809,
+      "end": 884
+    },
+    {
+      "fact": "Hattie believes Dustin must end her life for him to keep living the life he has built.",
+      "anchor": "For him to continue living the life he’s built, hers must end.",
+      "start": 1033,
+      "end": 1095
+    }
+  ]
+}

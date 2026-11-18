@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch98",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch98_93.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Colm 在暴风雪来临前的清晨早早到达。",
+      "anchor": "Colm arrives early in the morning just before the blizzard bears down.",
+      "start": 13,
+      "end": 83
+    },
+    {
+      "fact": "她让 Colm 把车停在小屋一英里外的一条旧伐木路上（不显眼处），再用 4Runner 把他接回来。",
+      "anchor": "she has him park there out of sight and picks him up in the 4Runner",
+      "start": 144,
+      "end": 211
+    },
+    {
+      "fact": "Colm 查了 Leah，说她这个周末去弗吉尼亚拜访朋友了，还发了照片上网。",
+      "anchor": "I checked on Leah and she’s visiting friends down in Virginia this weekend",
+      "start": 466,
+      "end": 540
+    },
+    {
+      "fact": "Tommy 说 Leah 出门多半就是他今天选择来的原因。",
+      "anchor": "Probably why he chose to come today",
+      "start": 593,
+      "end": 628
+    },
+    {
+      "fact": "Colm 说这场雪会让他们慢一点，并说要是知道他什么时候到就好了。",
+      "anchor": "This will slow him down a little",
+      "start": 801,
+      "end": 833
+    },
+    {
+      "fact": "Hattie 从牛仔裤口袋里拿出 Ed 的左轮手枪放在桌上。",
+      "anchor": "Hattie takes Ed’s revolver from her jeans pocket and lays it on the table.",
+      "start": 980,
+      "end": 1054
+    },
+    {
+      "fact": "打给 Dustin 的电话之后他们一直把手枪放在手边，Hattie 已经厌倦了带着它。",
+      "anchor": "They’ve kept it close at hand since making the call to Dustin",
+      "start": 1055,
+      "end": 1116
+    }
+  ]
+}

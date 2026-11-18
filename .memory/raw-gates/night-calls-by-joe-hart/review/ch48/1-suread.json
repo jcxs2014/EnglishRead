@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch48",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch48_43.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 带 Julian 沿海湾南缘散步，一边是岩石树木一边是大海。",
+      "anchor": "They walk along the southern edge of the cove until there is nothing but rocks and trees on one side and the ocean on the other.",
+      "start": 13,
+      "end": 141
+    },
+    {
+      "fact": "Julian 一路走在前头、低头在石头间跳跃，从离屋后没说过一句话、也没看 Hattie 一眼。",
+      "anchor": "He hasn’t said a word since they left the house. Hasn’t looked her in the eye.",
+      "start": 403,
+      "end": 481
+    },
+    {
+      "fact": "海面上一百码处有一只灰海豹浮出又迅速潜下。",
+      "anchor": "A gray seal surfaces a hundred yards out, then submerges just as quickly.",
+      "start": 944,
+      "end": 1017
+    },
+    {
+      "fact": "Julian 先开口，说父母是想让他离开好私下谈发生的事，Hattie 承认确实如此、他们要打电话。",
+      "anchor": "They wanted me to leave so they could talk about what happened.",
+      "start": 1145,
+      "end": 1208
+    },
+    {
+      "fact": "Julian 问自己会不会坐牢，Hattie 太快回答说不、他们不会把小男孩送进监狱。",
+      "anchor": "Am I going to jail?",
+      "start": 1350,
+      "end": 1369
+    },
+    {
+      "fact": "Julian 说出关键一句：他们不是我真正的爸妈，Hattie 一时语塞。",
+      "anchor": "They’re not my mom and dad. Not really.",
+      "start": 2192,
+      "end": 2231
+    },
+    {
+      "fact": "Kevin 和 Wendy 在将近两年前向 Julian 说明了他的收养身世，他当时平静接受、此后未再提起，直到现在。",
+      "anchor": "Kevin and Wendy had explained Julian’s adoption to him almost two years ago.",
+      "start": 2256,
+      "end": 2332
+    },
+    {
+      "fact": "Julian 盯着水面一动不动，说出“我不后悔”，随后起身沿海湾岸边往回走。",
+      "anchor": "I’m not sorry,” Julian says.",
+      "start": 2787,
+      "end": 2815
+    }
+  ]
+}

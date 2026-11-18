@@ -74,8 +74,8 @@ modified: "2026-11-17"
 
 **中文理解**：「你还好吗？」「没事，」她说。「我们开始吧。」
 **关键词**：I assume you remember their names / carved into mine / Did any of them respond to you
-**为什么这样写**：Eeling 的第一个问题不是关于案子，而是关于她——这是本章后半段「他共情」的第一颗种子；「我们开始吧」是她在 ch24 用过的句子（"Let's get this over with"）——同一句话第二次出现，第二次是她主动要求被采访：她从被拖进这场谈话，到主动推进它。
-**读者视角提示**：注意这句的复用——作者用它标记她的状态转换（ch24 疲惫的结束 → ch28 主动的启动）。
+**为什么这样写**：Eeling 的第一个问题不是关于案子，而是关于她——这是本章后半段「他共情」的第一颗种子；「我们开始吧」是她在 ch13 用过的句子（"Let's get this over with"）——同一句话第二次出现，第二次是她主动要求被采访：她从被拖进这场谈话，到主动推进它。
+**读者视角提示**：注意这句的复用——作者用它标记她的状态转换（ch13 开场前的了结 → ch29 主动的启动）。
 
 > **原句 10:** ""None. I didn't expect any, and it's not why I did it in the first place. If all you're looking for is forgiveness, you don't understand remorse." The hangover in Eeling's eyes softens with sympathy, and she's furious all over again. It's the last thing she wants from him. "It must have been very difficult for you and your husband." When she doesn't reply he says, "Tell me.""
 

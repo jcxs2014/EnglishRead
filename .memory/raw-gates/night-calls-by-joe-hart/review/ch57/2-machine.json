@@ -1,0 +1,439 @@
+{
+  "chapter": 57,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch57 cheryl threatened leah.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch57_52.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "For the next two days she doesn't see another person, doesn't speak to anyone, has no contact with the outside world. Sh",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She creates a workstation at the kitchen table since it has the best light in the cottage and equips it with her laptop,",
+          "ok": true,
+          "pos": 316
+        }
+      ],
+      "words": 135
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It's on the second day as a fickle rain falls that she plays one of the audio files she noticed initially. It's marked G",
+          "ok": true,
+          "pos": 1122
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Oh sure. I've got nothing to hide. Besides, this is the most interesting thing that's happened to me all month. Ginger b",
+          "ok": true,
+          "pos": 1592
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I really only met Tommy once. It was at a party right before all that sh—stuff went down. He and Leah were just getting ",
+          "ok": true,
+          "pos": 1872
+        }
+      ],
+      "words": 103
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Yeah. That place was a total dump right down by the tracks. But they made a mean all-meat special. We'd get a lot of dru",
+          "ok": true,
+          "pos": 2403
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The children's yells rise to a crescendo in the background. Hold on. Damn it, Nathan! I told you not to push her! I swea",
+          "ok": true,
+          "pos": 2840
+        }
+      ],
+      "words": 79
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Right. So, did you notice anything different about Leah prior to Tommy's arrest? You mean did I know she was knocked up?",
+          "ok": true,
+          "pos": 3237
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Cheryl came to Pizza Train? Oh yeah. I didn't know who she was. Just seated her at the bar. Then Leah comes out and Cher",
+          "ok": true,
+          "pos": 3558
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Did you overhear what they were talking about? Yeah, but I didn't mean to. Not really. It was totally my break time and ",
+          "ok": true,
+          "pos": 3757
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "They were fighting about Tommy? Oh yeah. Big time. Leah was trying to keep it cool, but Cheryl was yelling. I mean, nast",
+          "ok": true,
+          "pos": 4004
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Why's that? Because Cheryl said she'd better stay away from Tommy otherwise she'd kill her",
+          "ok": true,
+          "pos": 4329
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "You heard Cheryl threaten to kill Leah? Plain as day. Real ironic because it wasn't a week later and she was dead",
+          "ok": true,
+          "pos": 4418
+        }
+      ],
+      "words": 22
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.34,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 13
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.36,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.48
+      }
+    }
+  ],
+  "form": {
+    "h1": "57. Chapter 52",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 2,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 832,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句2",
+        "words": 135
+      },
+      {
+        "block": "原句5",
+        "words": 103
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

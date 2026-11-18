@@ -1,0 +1,68 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch72",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch72_67.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 在彻底昏倒前撑住自己，抓住厨房台面站稳。",
+      "anchor": "Hattie catches herself in mid-faint before she can fully collapse.",
+      "start": 13,
+      "end": 79
+    },
+    {
+      "fact": "Tommy 站在厨房中央摊开双手，后退一步。",
+      "anchor": "Tommy stands in the middle of the kitchen, palms up.",
+      "start": 322,
+      "end": 374
+    },
+    {
+      "fact": "Hattie 示意到餐桌坐下，并打开厨房水槽上方的一盏灯。",
+      "anchor": "He shuffles to a chair and she sits opposite him after turning on a single light over the kitchen sink.",
+      "start": 1269,
+      "end": 1372
+    },
+    {
+      "fact": "Hattie 说她是从那通 911 电话认出他的，并感谢他救了 Sloan。",
+      "anchor": "The 911 call. Nothing else made sense.",
+      "start": 1588,
+      "end": 1626
+    },
+    {
+      "fact": "Tommy 说他一直做心肺复苏直到听见汽车开来。",
+      "anchor": "I did CPR until I heard a car pull up. It was all I could think to do.",
+      "start": 1799,
+      "end": 1869
+    },
+    {
+      "fact": "Tommy 说他从五月起就一直在这里，藏在阁楼。",
+      "anchor": "Since May.",
+      "start": 2046,
+      "end": 2056
+    },
+    {
+      "fact": "Tommy 交代靠 Leah 的父母找到教会地下室的领养档案，半夜取走 Leah 的文件。",
+      "anchor": "Waited until the middle of the night and found Leah’s file. Then walked out the next day after they reopened.",
+      "start": 2979,
+      "end": 3088
+    },
+    {
+      "fact": "Tommy 说本想走进海里让水流带走自己，但见到 Sloan 后做不到。",
+      "anchor": "I was going to walk into the ocean. Let the current carry me away. But after I saw him, I couldn’t get myself to.",
+      "start": 3741,
+      "end": 3854
+    },
+    {
+      "fact": "Tommy 说他喜欢 Sloan，会听他的生活，Sloan 没人时会唱歌。",
+      "anchor": "He sings when no one’s here.",
+      "start": 4360,
+      "end": 4388
+    },
+    {
+      "fact": "Hattie 伸手握住他的手，说“我们回家吧”。",
+      "anchor": "“Come on. Let’s go home.”",
+      "start": 5110,
+      "end": 5135
+    }
+  ]
+}

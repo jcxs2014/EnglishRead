@@ -1,0 +1,501 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch35 someone by the owl tree.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch35_31.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Dinner and Julian's required reading fill up the rest of their evening. When he pulls out Tuck Everlasting, a wave of no",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Around eight Kevin texts saying he'll be home in fifteen and asking if she wants him to swing by and pick up Julian, but",
+          "ok": true,
+          "pos": 504
+        }
+      ],
+      "words": 99
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"Hey, buddy,\" Kevin says, hugging his son briefly in the entryway. \"Have fun with Mary?\" \"Yep.\" \"Get your reading done?\"",
+          "ok": true,
+          "pos": 1013
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"Thanks for watching him. Didn't give you any trouble, did he?\" \"He was a joy as always.\" \"Great. Wanna come in?\" She do",
+          "ok": true,
+          "pos": 1334
+        }
+      ],
+      "words": 111
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"I'm worried something might happen if the two of them aren't kept apart.\" \"The principal assured us they would be. And ",
+          "ok": true,
+          "pos": 1945
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Hattie finds that she's wringing her hands. \"Has he ever talked to either of you about his anger?\" \"Anger? Jules? No.\" \"",
+          "ok": true,
+          "pos": 2134
+        }
+      ],
+      "words": 96
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"Look, Mary.\" Kevin's voice drops an octave and his smile is faint and cool. \"We appreciate you helping us out from time",
+          "ok": true,
+          "pos": 2669
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Once out from under the trees there's enough ambient light to make her way so she doesn't turn on the flashlight. The oc",
+          "ok": true,
+          "pos": 3037
+        }
+      ],
+      "words": 147
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Then what will he think of you? She'll talk to Wendy again. Wendy will listen. Kevin knew in some respect that she's rig",
+          "ok": true,
+          "pos": 3815
+        }
+      ],
+      "words": 111
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Someone is standing beside the owl tree watching her. Hattie freezes and so does her pulse. The stillness in her veins i",
+          "ok": true,
+          "pos": 4432
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The person leans farther out from the tree as if they're getting ready to come toward her. Run toward her. Hattie stoops",
+          "ok": true,
+          "pos": 4795
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "But it doesn't feel that way. She sidles away from the sea and closer to the front door in case she needs to bolt inside",
+          "ok": true,
+          "pos": 5285
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "She takes a tentative step toward the tree where she saw the person, if that's what it really was. It could've been anot",
+          "ok": true,
+          "pos": 5596
+        }
+      ],
+      "words": 119
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Behind her. She can feel them coming, having circled around to the far side of the house and now they're rushing across ",
+          "ok": true,
+          "pos": 6276
+        }
+      ],
+      "words": 94
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "She backs away, turning in slow circles, panning the surrounding area with the flashlight until she's beside the front p",
+          "ok": true,
+          "pos": 6803
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 125,
+        "关键词": 0,
+        "为什么这样写": 126,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter 31",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 4,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1281,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句4",
+        "words": 111
+      },
+      {
+        "block": "原句8",
+        "words": 147
+      },
+      {
+        "block": "原句9",
+        "words": 111
+      },
+      {
+        "block": "原句13",
+        "words": 119
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

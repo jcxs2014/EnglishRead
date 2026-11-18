@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch88",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch88_83.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 沿 Sloan 的车道跑下并上了公路。",
+      "anchor": "Down Sloan’s drive and onto the road.",
+      "start": 28,
+      "end": 65
+    },
+    {
+      "fact": "她加速直到全速冲刺。",
+      "anchor": "She picks up speed until she’s at a full sprint.",
+      "start": 66,
+      "end": 114
+    },
+    {
+      "fact": "她双眼流泪双腿灼痛但仍跑得更用力。",
+      "anchor": "Her eyes water and her legs burn, but she runs harder.",
+      "start": 115,
+      "end": 169
+    },
+    {
+      "fact": "她跑过 Crawford 家和自家车道。",
+      "anchor": "Past the Crawfords’, past her driveway.",
+      "start": 170,
+      "end": 209
+    },
+    {
+      "fact": "她一直跑到天全黑什么都看不见。",
+      "anchor": "She runs until it’s full dark and she can’t see anything",
+      "start": 210,
+      "end": 266
+    },
+    {
+      "fact": "她一条腿一软，踉跄着摔倒在地。",
+      "anchor": "One leg gives way and she stumbles and folds to the ground and lies there",
+      "start": 394,
+      "end": 467
+    },
+    {
+      "fact": "她脸贴着粗糙路面，像受伤的动物一样喘气。",
+      "anchor": "face pressed against the rough pavement, panting like a wounded animal.",
+      "start": 469,
+      "end": 540
+    },
+    {
+      "fact": "月亮升起，照亮她呼出的白色气息。",
+      "anchor": "The moon rises and lights her breath as it steams in the air.",
+      "start": 543,
+      "end": 604
+    }
+  ]
+}

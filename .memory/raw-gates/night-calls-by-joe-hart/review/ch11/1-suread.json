@@ -1,0 +1,50 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch11",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch11_11.txt",
+  "facts": [
+    {
+      "fact": "她像被北风托着漂回家——去 Crawfords 家要做的事明明那么笃定，此刻却像裹进雾里；想象中该哭着羞愧归来，结果一切仍悬在一根线上，像她私人的达摩克利斯之剑。",
+      "anchor": "her own personal sword of Damocles",
+      "start": 355,
+      "end": 389
+    },
+    {
+      "fact": "若再失去一个家庭，就只剩那只硬锁箱和里面可怕的承诺——一颗心能承受的有限，撑到头就会彻底碎掉。",
+      "anchor": "breaks for good",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "fact": "她像塔罗师给糊涂客人甩牌般列举理由：说破身份会终结与 Crawfords 的关系；会逼 Julian 和养父母直面他的血脉来源——知道他从哪里来、今后的人生会长成什么样——而这正是 Ed 当初禁止她收养他的原因。",
+      "anchor": "the reason Ed had forbidden her from adopting him",
+      "start": 1220,
+      "end": 1269
+    },
+    {
+      "fact": "Ed 的话：跟我们在一起他永远过不上正常生活——他因悲恸而眼红——你必须放手。她放了。违背全身上下每一根呐喊着不肯的纤维，她放了。",
+      "anchor": "You have to let him go.",
+      "start": 1371,
+      "end": 1394
+    },
+    {
+      "fact": "同样这些年，她在某种程度上也这样对 Tommy——至少对那个她曾认作儿子的那个人。够了。现在不能想这个。走过小屋台阶她感觉到了年纪的每一年，而她又一次站在同一道悬崖边：放手，或者赌上全盘的毁灭。",
+      "anchor": "known as her son",
+      "start": 1566,
+      "end": 1582
+    },
+    {
+      "fact": "对 Eeling 的恨比她几乎任何一次都更纯粹；她咒他掉头撞树、浴室滑倒；「或者我干脆杀了他」——这个念头带着令人害怕的满足感，而紧随其后的念头让她彻底清醒：有其子，必有其母……",
+      "anchor": "Like son, like mother",
+      "start": 2377,
+      "end": 2398
+    },
+    {
+      "fact": "开酒倒一杯带进书房；对岸 Sloan 家的灯明亮诱人，但今晚无法去送杂货——他会从她眼里看出什么，她可能把一切都说出去。还没准备好。Not yet。酒喝完、上床前又查了一次床头抽屉里的手机；然后试着入睡——多半在听风、盯着黑暗、等待早晨。",
+      "anchor": "waiting for morning.",
+      "start": 3043,
+      "end": 3063
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

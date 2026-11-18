@@ -1,0 +1,362 @@
+{
+  "chapter": 76,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch76 im sorry.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch76_71.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She cooks them supper. Chicken fettuccine alfredo with garlic bread and steamed carrots. Tommy offers to help, and she s",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She opens a bottle of wine she picked up at the market and offers him a glass. \"No thanks. The last time I drank was the",
+          "ok": true,
+          "pos": 398
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He continues peeling the carrots and when he starts to talk she has to strain to hear him. \"It was six months after I es",
+          "ok": true,
+          "pos": 630
+        }
+      ],
+      "words": 274
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Hattie draws in a deep, steadying breath and blinks until her vision clears. She starts to say the two words she's been ",
+          "ok": true,
+          "pos": 1977
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "By the time they're finished eating it's full dark and the wind's died down to a mutter. \"Would you like to go for a wal",
+          "ok": true,
+          "pos": 2502
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "And in the soft light of the entryway, despite the beard and slanted nose, he looks so much like Ed her heart overspills",
+          "ok": true,
+          "pos": 2842
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It's cold enough to ensure their solitude and they stand on the rocks overlooking the cove. Inches and miles apart. All ",
+          "ok": true,
+          "pos": 3169
+        }
+      ],
+      "words": 127
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Tentatively she threads her arm through his. He doesn't pull away. He's quiet for a time, head bowed. \"For a while I tho",
+          "ok": true,
+          "pos": 3843
+        }
+      ],
+      "words": 139
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She understands the gift he's given her, but it's almost too vast to accept. Hattie turns and hugs her son. Holds him as",
+          "ok": true,
+          "pos": 4544
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "\"I'm sorry,\" she whispers—the two most important words she's ever said finally free. After a terrible interminable momen",
+          "ok": true,
+          "pos": 4683
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 17,
+        "读者视角提示": 4
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 16,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 18,
+        "读者视角提示": 4
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 10,
+        "读者视角提示": 4
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 13,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 17,
+        "读者视角提示": 5
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 20,
+        "读者视角提示": 8
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 17,
+        "读者视角提示": 4
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 18,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 17,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.58
+      }
+    }
+  ],
+  "form": {
+    "h1": "76. Chapter 71",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 3,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 939,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句3",
+        "words": 274
+      },
+      {
+        "block": "原句7",
+        "words": 127
+      },
+      {
+        "block": "原句8",
+        "words": 139
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch37 the poem.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch37_december_2012.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She found the poem while doing laundry. Among the hundred other tasks needing completion before Christmas morning, which",
+          "ok": true,
+          "pos": 19
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Speaking of the men of the house, they were due back soon with the Christmas tree. They'd all been way behind on decorat",
+          "ok": true,
+          "pos": 319
+        }
+      ],
+      "words": 164
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Homework, she thought, nudging the bed away from the wall enough to slide her arm down and pluck the page from the compa",
+          "ok": true,
+          "pos": 1229
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Your cold arms tighten with love And hold me As the night brightens and I smell your decay Like old flowers And shit In ",
+          "ok": true,
+          "pos": 1559
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She read it once, then again, and a third time. There was a sickening sliding in her middle like some integral piece of ",
+          "ok": true,
+          "pos": 2003
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Hattie turned and sat on the end of Tommy's bed, the page wobbling in one hand. She set it down, not wanting to touch it",
+          "ok": true,
+          "pos": 2200
+        }
+      ],
+      "words": 99
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She grasped the paper, crumpling it before she knew she was going to do so. It was automatic, bordering on violent. She ",
+          "ok": true,
+          "pos": 2753
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Hattie shoved the page into the flames, and they leaped higher. The words darkened and curled to ash. Good. Gone. Two wo",
+          "ok": true,
+          "pos": 3195
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She went into the kitchen and mindlessly began heating some milk to make the eggnog she'd promised Ed and Tommy on their",
+          "ok": true,
+          "pos": 3365
+        }
+      ],
+      "words": 135
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Or was it something she could overlook? The thought was supremely attractive. She could set the poem aside (forget it if",
+          "ok": true,
+          "pos": 4122
+        }
+      ],
+      "words": 108
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Snow began to fall gently beyond the window, which felt like an answer. No. Not now. Maybe not ever. Through the driftin",
+          "ok": true,
+          "pos": 4708
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "A poem was just a poem. It couldn't hurt anyone",
+          "ok": true,
+          "pos": 5149
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 129,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. December 2012",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 3,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 954,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句2",
+        "words": 164
+      },
+      {
+        "block": "原句9",
+        "words": 135
+      },
+      {
+        "block": "原句10",
+        "words": 108
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

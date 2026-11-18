@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch100",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch100_95.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 从左轮枪从桌面抓起塞进她最爱毛衣的深口袋里。",
+      "anchor": "snatching the revolver from the tabletop and stuffing it into one of the deep pockets of her favorite sweater",
+      "start": 726,
+      "end": 835
+    },
+    {
+      "fact": "Hattie 打开语音备忘录按了录音，然后用洗碗布盖住手机。",
+      "anchor": "She opens the voice memo app and presses record, then drapes a dish towel over it.",
+      "start": 944,
+      "end": 1026
+    },
+    {
+      "fact": "Dustin 的靴子踩过积雪的台阶和门廊，短暂停顿后敲了三下。",
+      "anchor": "There’s a short pause, then three quick knocks.",
+      "start": 1093,
+      "end": 1140
+    },
+    {
+      "fact": "Dustin 说路糟透了，花了将近四个小时才到。",
+      "anchor": "Took me almost four hours",
+      "start": 1439,
+      "end": 1464
+    },
+    {
+      "fact": "Dustin 发现正在录音的手机，把屏幕转向她并停掉了录音。",
+      "anchor": "He turns it toward her, revealing the active voice memo. He stops the recording.",
+      "start": 5456,
+      "end": 5536
+    },
+    {
+      "fact": "Dustin 承认他撒了谎——他说没看见 Tommy 进 Cheryl 家，只是把他放下车，并说再撒一千次也愿意。",
+      "anchor": "I didn’t see Tommy go into Cheryl’s place, okay? I dropped him off, but I never saw him go in. I lied.",
+      "start": 5886,
+      "end": 5988
+    },
+    {
+      "fact": "Tommy 从客厅的黑暗中冲出，全速撞向 Dustin。",
+      "anchor": "Tommy crashes into him at full speed.",
+      "start": 6447,
+      "end": 6484
+    },
+    {
+      "fact": "Tommy 把 Dustin 的头往地板上猛撞，Colm 上前拉他却被甩开，后脑撞上冰箱、眼睛翻白。",
+      "anchor": "the back of his head connecting with the fridge. His eyes roll to white.",
+      "start": 7922,
+      "end": 7994
+    },
+    {
+      "fact": "Colm 一把从 Hattie 手里夺过左轮，朝 Dustin 的前额开枪。",
+      "anchor": "he strips the revolver from her hand and shoots Dustin in the forehead.",
+      "start": 10249,
+      "end": 10320
+    }
+  ]
+}

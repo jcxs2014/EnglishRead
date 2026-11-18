@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch51",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch51_46.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 醒来时天已黑，发现自己在浴室地板上睡了过去。",
+      "anchor": "Somehow, she fell asleep on the bathroom floor.",
+      "start": 238,
+      "end": 285
+    },
+    {
+      "fact": "她看手机确认：约下午四点睡着，现在已过九点。",
+      "anchor": "It was maybe four in the afternoon when she drifted off and now it’s—she checks her phone—after nine.",
+      "start": 301,
+      "end": 402
+    },
+    {
+      "fact": "她在冰箱和炉子间来回几次让身体活动开，炒了洋葱、甜椒和 pound 火鸡肉末。",
+      "anchor": "She chops an onion and two bell peppers while browning a pound of ground turkey.",
+      "start": 651,
+      "end": 731
+    },
+    {
+      "fact": "她靠着台面吃饭，怕一坐下就再也站不起来。",
+      "anchor": "She eats leaning against the counter because she’s afraid if she sits down she won’t get back up again.",
+      "start": 831,
+      "end": 934
+    },
+    {
+      "fact": "Wendy 发来短信：与心理医生会面顺利，J 似乎喜欢她。",
+      "anchor": "Meeting with psych went good. J seemed to like her. Call tomorrow if you get time.",
+      "start": 1009,
+      "end": 1091
+    },
+    {
+      "fact": "Hattie 给短信点了赞，说早上再联系 Wendy。",
+      "anchor": "Hattie likes the message and says she’ll touch base with her in the morning.",
+      "start": 1092,
+      "end": 1168
+    },
+    {
+      "fact": "她去客厅把火生起来，海风把窗户压得弯曲，但窗户挺住了。",
+      "anchor": "Once the fire’s going she studies it as it lights up the stove’s interior.",
+      "start": 1329,
+      "end": 1403
+    },
+    {
+      "fact": "她想起治疗师的话：你永远不会真正无助，去做你能做的事。",
+      "anchor": "Look for what you can do. There’s always something.",
+      "start": 1937,
+      "end": 1988
+    },
+    {
+      "fact": "她几乎立刻想到了自己能做什么。",
+      "anchor": "It comes to her almost at once.",
+      "start": 2010,
+      "end": 2041
+    }
+  ]
+}

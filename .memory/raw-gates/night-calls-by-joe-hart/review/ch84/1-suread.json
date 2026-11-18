@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch84",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch84_79.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 开车回家途中瞥了一眼副驾驶座上的马尼拉文件夹，觉得它像危险物。",
+      "anchor": "Hattie glances at the passenger seat where the manila folder lies.",
+      "start": 241,
+      "end": 307
+    },
+    {
+      "fact": "手机收到旧号码发来的消息，但 Hattie 因离家只剩五分钟而没读。",
+      "anchor": "It’s from her old number.",
+      "start": 590,
+      "end": 615
+    },
+    {
+      "fact": "Hattie 回到家，Tommy 抱着胳膊靠在厨房台面上，表情让她停住。",
+      "anchor": "Tommy’s leaning against the kitchen counter, arms crossed.",
+      "start": 1021,
+      "end": 1079
+    },
+    {
+      "fact": "Tommy 告诉刚到家的 Hattie：Wendy 来过。",
+      "anchor": "Wendy was here.",
+      "start": 1133,
+      "end": 1148
+    },
+    {
+      "fact": "Tommy 说听到脚步后躲起来，撞到走廊边桌，Wendy 因此进了屋。",
+      "anchor": "I bumped into the end table in the hall.",
+      "start": 1410,
+      "end": 1450
+    },
+    {
+      "fact": "Hattie 想起几年前和 Crawfords 一家换过应急备用钥匙。",
+      "anchor": "She’d almost forgotten exchanging keys with the Crawfords a few years back in case of emergencies.",
+      "start": 1524,
+      "end": 1622
+    },
+    {
+      "fact": "Tommy 说 Wendy 叫了 Hattie 的名字，语气听起来很担心。",
+      "anchor": "She said your name. She sounded worried.",
+      "start": 1626,
+      "end": 1666
+    },
+    {
+      "fact": "Hattie 看到笔记本电脑开着，屏幕显示 Paige McMahon 的照片及关于她谋杀案的文章，旁边还有笔记和 Eeling 的文件打印件。",
+      "anchor": "displaying Paige McMahon’s face above an article concerning her murder.",
+      "start": 1922,
+      "end": 1993
+    }
+  ]
+}

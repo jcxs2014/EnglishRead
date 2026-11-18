@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch29",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch29_26.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 注意到 Eeling 冒雨来访，比上次来得晚，且眼睛血丝密布、带着酒气。",
+      "anchor": "Hattie checks the time, noting he’s later than the prior visit.",
+      "start": 142,
+      "end": 205
+    },
+    {
+      "fact": "Eeling 问 Hattie 是否在 Tommy 因谋杀罪被起诉后雇了私家侦探。",
+      "anchor": "You hired a private detective after Tommy was indicted for the murders, correct?",
+      "start": 1258,
+      "end": 1338
+    },
+    {
+      "fact": "Hattie 说在审判七个月的煎熬中，私家侦探得出了和警方相同的结论。",
+      "anchor": "He came to the same conclusion the cops did.",
+      "start": 1765,
+      "end": 1809
+    },
+    {
+      "fact": "Hattie 联系了所有受害者家属并向他们道歉，但没有人回应。",
+      "anchor": "I reached out to all of their families. Told them how sorry I was.",
+      "start": 2044,
+      "end": 2110
+    },
+    {
+      "fact": "Hattie 说 Ed 比她更早不再相信 Tommy。",
+      "anchor": "Ed quit believing him much sooner than I did.",
+      "start": 2917,
+      "end": 2962
+    },
+    {
+      "fact": "Hattie 说 Colm 在 Tommy 被判有罪后仍坚持去探监。",
+      "anchor": "Colm kept visiting Tommy even after he was found guilty.",
+      "start": 5569,
+      "end": 5625
+    },
+    {
+      "fact": "Eeling 指出 Leah 因怀着 Tommy 的孩子而最久相信他无辜。",
+      "anchor": "Because she was carrying his child.",
+      "start": 5706,
+      "end": 5741
+    },
+    {
+      "fact": "Hattie 从 Eeling 手指上的戒指印记推断他已婚并且在进来前摘掉了戒指。",
+      "anchor": "there’s an outline of a ring on your finger",
+      "start": 5933,
+      "end": 5976
+    },
+    {
+      "fact": "Hattie 说自己怨恨 Ed，因为他比她更早、在她准备好之前面对了现实。",
+      "anchor": "and then because he’d faced reality before I could.",
+      "start": 4738,
+      "end": 4789
+    }
+  ]
+}

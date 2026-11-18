@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch19",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch19_august_2018.txt",
+  "facts": [
+    {
+      "fact": "2018 年 8 月：Leah 下车朝屋走来时眼圈红肿——彻底被掏空；从贴创可贴到帮忙挑舞会裙，看着一个人长大你就认得她的脸。",
+      "anchor": "all the way from Band-Aiding skinned knees",
+      "start": 290,
+      "end": 332
+    },
+    {
+      "fact": "「女人，她想——她现在是女人了」；就算 Leah 早已过法定饮酒年龄，最后五个月也把她催熟了——催熟任何人；Hattie 只要照照镜子（近来她抵触照镜子）就知道这对她 doubly true。",
+      "anchor": "the last five months would have prematurely aged her",
+      "start": 565,
+      "end": 617
+    },
+    {
+      "fact": "开门时 Leah 仅存的镇定晃了一下、整个塌掉；Hattie 张开手臂，Leah 走进怀里——门口的拥抱被县路上留守的记者拍进镜头（指挥摄像师抓拍这一刻）；Let them have it——God damn vultures（秃鹫）。",
+      "anchor": "directing their cameramen to capture the moment",
+      "start": 1218,
+      "end": 1265
+    },
+    {
+      "fact": "Ed 自她清晨醒来就在店里，午饭都没回——过去六周那店铺成了他的第二个家、越退越勤的避难所；她怨他有地方可躲、怨他不愿与她并肩顶住人生的风暴；两人近期交换过的话不超过十二句——关系的侵蚀是格外苦的一种伤。",
+      "anchor": "it had become something of a second home for him. A sanctuary",
+      "start": 1888,
+      "end": 1949
+    },
+    {
+      "fact": "Leah 退出庭审：「我告诉他，我没法再去法庭了」——Tommy 说他理解；Hattie 瞬间嫉妒她的退出权——法庭上证据列队行进，一步步逼近那个现实：你其实从未真正认识你唯一的孩子，直到你知道得让你恶心。",
+      "anchor": "couldn’t come to court anymore",
+      "start": 3065,
+      "end": 3095
+    },
+    {
+      "fact": "Leah 的秘密：把 Hattie 的手移到小腹——五个月身孕（复合后马上怀上）、是男孩、上周开始踢胎；她穿宽松卫衣和睡裤（八月天里太热）——伪装转变的衣着，Hattie 和所有人一样错过了。",
+      "anchor": "the unmistakable swell of Leah’s belly",
+      "start": 3922,
+      "end": 3960
+    },
+    {
+      "fact": "Hattie 第一次体验「头脑空白」——之前一直以为那是文学发明；几秒里她的脑子是「虚无的静电嚎叫」；随后情绪叠雪崩：喜悦到恐怖之间的每一种色阶；想起清理 Tommy 浴室时发现的安全套（他 17 岁）——羞赧与骄傲并存：又惊又安。",
+      "anchor": "a static howl of nothing",
+      "start": 3974,
+      "end": 3998
+    },
+    {
+      "fact": "Leah 父母（保守基督徒、Hattie 眼里极度伪善）不知情——「会杀我两次」；产检全是秘密；「本来想等事情澄清了告诉 Tommy、我们一起想办法……」；「骨子里我还是不信是他干的。真的不信。但那不重要——即使你不信，事情仍然可以是真的。」Hattie 搂住她拍头发：「会好的」——觉得自己在许一个无权许下的诺。",
+      "anchor": "Even if you don’t believe, things can still be true.",
+      "start": 6456,
+      "end": 6508
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

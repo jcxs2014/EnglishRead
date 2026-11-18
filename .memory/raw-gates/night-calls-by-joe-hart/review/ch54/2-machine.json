@@ -1,0 +1,509 @@
+{
+  "chapter": 54,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch54 the dna did not match.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch54_49.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Her senior year of high school she'd been in a car accident and gotten a concussion. She'd been riding shotgun in her bo",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 168
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She sits on the front porch despite the morning cold. A light jacket she barely recalls grabbing is draped over her shou",
+          "ok": true,
+          "pos": 913
+        }
+      ],
+      "words": 173
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She drags the progress bar back and hits play. Detective Ramsby's voice croaks from the speakers once more. —knew someon",
+          "ok": true,
+          "pos": 1885
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She's struck again by how different Ramsby sounds from the last time she spoke to him about the calls from Tommy. There ",
+          "ok": true,
+          "pos": 2283
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Yeah, all that's all fine and good, but that's not your bite. I've had a few reporters ask me questions about the Bedfel",
+          "ok": true,
+          "pos": 2683
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Ramsby erupts into a coughing fit that sounds as if several crucial things inside him are in the process of coming apart",
+          "ok": true,
+          "pos": 3018
+        }
+      ],
+      "words": 177
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I understand. No, you don't. No one but police would get what I'm talking about. This job . . . it takes something insid",
+          "ok": true,
+          "pos": 3922
+        }
+      ],
+      "words": 128
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Another weak spell of coughing, then Ramsby goes on. Whitney Moorhead, the Bedfellow's first victim—God I hate those fuc",
+          "ok": true,
+          "pos": 4548
+        }
+      ],
+      "words": 102
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Yeah, the collateral damage isn't something you ever get used to. A violent death is like radiation—seeps into everyone ",
+          "ok": true,
+          "pos": 5163
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "More than you think. Anyway, there was one piece of evidence we withheld from the Moorhead case. Something only a few of",
+          "ok": true,
+          "pos": 5677
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The trapdoor in her stomach reopens like the first time she listened to the recording. Didn't match? Nope",
+          "ok": true,
+          "pos": 6182
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "That means— All it means is that someone we didn't have on record was in Moorhead's bedroom at some point. Coulda been a",
+          "ok": true,
+          "pos": 6288
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "That fucking kid had the murder weapon—from his daddy's woodshop, mind you—hidden under his bathroom sink. His jizz was ",
+          "ok": true,
+          "pos": 6649
+        }
+      ],
+      "words": 115
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "There's a squeak of a chair and she envisions Eeling leaning back, trying to absorb what he's just learned. Tommy Conlee",
+          "ok": true,
+          "pos": 7282
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "So if you're so sure, why are you telling me this? Hattie leans forward, listening to Ramsby's labored breathing. It see",
+          "ok": true,
+          "pos": 7755
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 29,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 13
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 7
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.2
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "54. Chapter 49",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 6,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1461,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 168
+      },
+      {
+        "block": "原句2",
+        "words": 173
+      },
+      {
+        "block": "原句6",
+        "words": 177
+      },
+      {
+        "block": "原句7",
+        "words": 128
+      },
+      {
+        "block": "原句8",
+        "words": 102
+      },
+      {
+        "block": "原句13",
+        "words": 115
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

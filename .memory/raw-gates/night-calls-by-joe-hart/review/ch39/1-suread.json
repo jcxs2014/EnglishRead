@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch39",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch39_34.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "次日早晨雾把大海从她眼前藏了起来。",
+      "anchor": "Fog hides the ocean from her the next morning.",
+      "start": 13,
+      "end": 59
+    },
+    {
+      "fact": "她煮咖啡，整个第一杯时间里一直查看车道等 Eeling。",
+      "anchor": "She makes coffee and keeps checking the driveway for Eeling throughout the first cup.",
+      "start": 485,
+      "end": 570
+    },
+    {
+      "fact": "中午左右她当天第一次真正觉得饿，开始相信他不会来了。",
+      "anchor": "Around noon when she’s really becoming hungry for the first time that day, she starts to believe he won’t show.",
+      "start": 717,
+      "end": 828
+    },
+    {
+      "fact": "一小时后她吃掉了前一晚剩下的披萨，确信他不会来。",
+      "anchor": "An hour later, after she’s eaten some of the leftover pizza from the night before, she’s sure of it.",
+      "start": 829,
+      "end": 929
+    },
+    {
+      "fact": "她望着空车道骂了句“You bastard”。",
+      "anchor": "“You bastard,” she says, looking down the empty driveway.",
+      "start": 932,
+      "end": 989
+    },
+    {
+      "fact": "二十分钟后电话响起，她以为庆功太早了。",
+      "anchor": "When her phone rings twenty minutes later she thinks the victory lap was all premature.",
+      "start": 1430,
+      "end": 1517
+    },
+    {
+      "fact": "她意识到自己从没给过 Eeling 电话号码。",
+      "anchor": "she realizes she’s never given him her number",
+      "start": 1609,
+      "end": 1654
+    },
+    {
+      "fact": "Sloan 打电话开口就说客房楼上有一箱书。",
+      "anchor": "“There’s a box of books upstairs in the guest room,” Sloan says as a greeting.",
+      "start": 1713,
+      "end": 1791
+    },
+    {
+      "fact": "Hattie 叹了口气（变成轻笑）后让 Sloan 煮好新咖啡，她会在煮好时到。",
+      "anchor": "Put a fresh pot of coffee on, I’ll be over by the time it’s ready.",
+      "start": 2124,
+      "end": 2190
+    }
+  ]
+}

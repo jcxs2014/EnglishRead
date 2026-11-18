@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch80",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch80_75.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "哈蒂回到家时发现温迪站在前廊透过窗户往里窥视。",
+      "anchor": "When she gets back home, Wendy is on the front porch peering through one of the windows.",
+      "start": 13,
+      "end": 101
+    },
+    {
+      "fact": "温迪说自感恩节以来就没怎么见到哈蒂，想过来看看她。",
+      "anchor": "We haven’t seen you much since Thanksgiving and I wanted to check on you.",
+      "start": 381,
+      "end": 454
+    },
+    {
+      "fact": "温迪邀请哈蒂今晚过来吃她要做的千层面。",
+      "anchor": "Did you want to come over for dinner tonight? I was going to make lasagna.",
+      "start": 975,
+      "end": 1049
+    },
+    {
+      "fact": "温迪说朱尔斯一直在问起哈蒂。",
+      "anchor": "Jules has been asking about you.",
+      "start": 676,
+      "end": 708
+    },
+    {
+      "fact": "温迪在门口告诉哈蒂朱利安过得真的很好。",
+      "anchor": "Julian’s doing really good. In case you were wondering.",
+      "start": 1399,
+      "end": 1454
+    },
+    {
+      "fact": "汤米告诉哈蒂他找到了伊林的妻子。",
+      "anchor": "I found Eeling’s wife.",
+      "start": 1934,
+      "end": 1956
+    },
+    {
+      "fact": "汤米说他是通过搜查各行政区的房产记录找到的。",
+      "anchor": "I searched through property records in the boroughs.",
+      "start": 1979,
+      "end": 2031
+    },
+    {
+      "fact": "记录显示罗斯和娜塔莉·伊林是布朗克斯一处房产的登记所有人。",
+      "anchor": "A Ross and Natalie Eeling are listed as owners for a place in the Bronx.",
+      "start": 2066,
+      "end": 2138
+    },
+    {
+      "fact": "哈蒂意识到自与汤米重逢以来她一次也没陷入恍惚、也没看见过猫头鹰。",
+      "anchor": "it occurs to her that she hasn’t lapsed into a fugue or seen the owl since their reunion.",
+      "start": 2506,
+      "end": 2595
+    }
+  ]
+}

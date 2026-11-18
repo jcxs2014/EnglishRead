@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch23",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch23_21.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "哈丽特开车回家，丰田车的车灯照出翻滚过路面的落叶。",
+      "anchor": "The Toyota’s headlights catch fallen leaves somersaulting across the road",
+      "start": 13,
+      "end": 86
+    },
+    {
+      "fact": "她把车停在车道上，坐在仍怠速运转的丰田车里。",
+      "anchor": "She pulls to a stop and sits in the idling Toyota",
+      "start": 1129,
+      "end": 1178
+    },
+    {
+      "fact": "哈丽特下车去开棚屋的门，随即意识到自己不再是一个人。",
+      "anchor": "Hattie climbs out to open the shed doors, still lost in thought, and realizes she’s no longer alone.",
+      "start": 1258,
+      "end": 1358
+    },
+    {
+      "fact": "她看见猫头鹰停在院子角落那棵树最低的树枝上。",
+      "anchor": "On the lowest branch of the tree in the corner of the yard sits the owl.",
+      "start": 1595,
+      "end": 1667
+    },
+    {
+      "fact": "她朝猫头鹰的方向迈出一步并挥舞双臂，喊它走开。",
+      "anchor": "Hattie finds herself taking a sudden step in its direction and waving her arms.",
+      "start": 1855,
+      "end": 1934
+    },
+    {
+      "fact": "她问猫头鹰想要什么，骂了一句脏话。",
+      "anchor": "What do you want? What the fuck do you want?",
+      "start": 2148,
+      "end": 2192
+    },
+    {
+      "fact": "猫头鹰从树枝上倾身、展翅，朝海湾方向俯冲消失。",
+      "anchor": "In a smooth movement the owl leans off the branch, its great wings flaring, and drops out of sight toward the bay.",
+      "start": 2652,
+      "end": 2766
+    },
+    {
+      "fact": "她站在草坪中央急促地呼吸。",
+      "anchor": "She stands in the middle of the lawn breathing hard",
+      "start": 2769,
+      "end": 2820
+    }
+  ]
+}

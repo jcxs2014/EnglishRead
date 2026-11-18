@@ -1,0 +1,74 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch77",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch77_72.txt",
+  "method": "R1 主会话先读 text 后写（盲读，未看 md）",
+  "facts": [
+    {
+      "fact": "Hattie 洗碗时问 Tommy 觉得是谁；Tommy 按顺序排除 Leah",
+      "anchor": "“Who do you think it is?”",
+      "start": 13,
+      "end": 38
+    },
+    {
+      "fact": "Hattie 按 Eeling 理论推断与袭击 Elle Marks 是同一人、因证人称是男人而排除 Leah",
+      "anchor": "“Well, if we’re going by Eeling’s theory it’s the same person who attacked Elle Marks,” she replies. “She said it was a man, so that rules out Leah.”",
+      "start": 284,
+      "end": 433
+    },
+    {
+      "fact": "Hattie 收窄到 Dustin 和 Colm 两人",
+      "anchor": "“If we’re not considering Leah,” Hattie says quietly. “That leaves Dustin and Colm.”",
+      "start": 1064,
+      "end": 1148
+    },
+    {
+      "fact": "Tommy 认为不是 Dustin 而是 Colm，说 Colm 一直「不一样」",
+      "anchor": "“No. I think it was Colm.” He sets the dish down he’s drying and faces her.",
+      "start": 1478,
+      "end": 1553
+    },
+    {
+      "fact": "Tommy 列举 Colm 童年创伤：母亲伤害他、他那时在场母亲死亡",
+      "anchor": "He said his mom hurt him, but he never said anything about him being there when she died.",
+      "start": 1782,
+      "end": 1871
+    },
+    {
+      "fact": "Tommy 说 Colm 小时候会尿床，Hattie 想起连续杀人犯特征清单里有这条",
+      "anchor": "I never told you Colm used to wet the bed.",
+      "start": 2516,
+      "end": 2558
+    },
+    {
+      "fact": "Hattie 替 Colm 列举不在场证明：Cheryl 被杀当晚他在仓库上班、私家侦探核实打卡",
+      "anchor": "“Colm had an alibi for the night Cheryl was killed. He was on a shift at that warehouse job.",
+      "start": 3022,
+      "end": 3114
+    },
+    {
+      "fact": "Tommy 称 Dustin 的不在场证明最弱、室友证词有漏洞",
+      "anchor": "“Dustin’s was the weakest alibi.",
+      "start": 3425,
+      "end": 3457
+    },
+    {
+      "fact": "Tommy 八年来第一次叫 Hattie「Mom」",
+      "anchor": "“Mom.” Her gaze snaps up to his. It’s the first time she’s been called that in over eight years.",
+      "start": 3594,
+      "end": 3690
+    },
+    {
+      "fact": "Hattie 回想所有深夜来电都以为是被害的 Tommy、原来全错了",
+      "anchor": "It still sends a chill through her to think of all the times she answered the night calls",
+      "start": 4164,
+      "end": 4253
+    },
+    {
+      "fact": "Tommy 说要等事情了结后去探望父亲 Ed，Hattie 答应同去",
+      "anchor": "“I never . . . got to visit him. After this is over, I’d like to.”",
+      "start": 5106,
+      "end": 5172
+    }
+  ]
+}

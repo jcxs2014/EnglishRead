@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch58",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch58_53.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "哈蒂在笔记本新的一页写下莉娅的名字，并在下面记下“谢瑞尔 对质？”，打算下次交谈时问她。",
+      "anchor": "On a new page in her notebook, Hattie writes Leah’s name and beneath it Cheryl confrontation?",
+      "start": 291,
+      "end": 384
+    },
+    {
+      "fact": "哈蒂播放了另一个标注为 Jane Everson——达斯汀·赖滕邻居的访谈。",
+      "anchor": "This one is labeled Jane Everson—Dustin Reiten neighbor.",
+      "start": 537,
+      "end": 593
+    },
+    {
+      "fact": "简说入室盗窃发生在夏天，第一批被 burglar 的 Earls 一家去了欧洲。",
+      "anchor": "the Earls—they were the first to get burgled—were in Europe.",
+      "start": 1369,
+      "end": 1429
+    },
+    {
+      "fact": "简说达斯汀是入室盗窃的元凶，他是 Earls 家的朋友、知道安保密码，所以警报没响。",
+      "anchor": "he was friends with the Earls’ son and knew the security code, that’s why the system hadn’t been tripped.",
+      "start": 3066,
+      "end": 3171
+    },
+    {
+      "fact": "伊林请简称呼他的名字罗斯。",
+      "anchor": "I will. And please call me Ross.",
+      "start": 2607,
+      "end": 2639
+    },
+    {
+      "fact": "简说艾丽西亚十八岁离家、先酗酒后吸毒，跳楼时不超过二十二岁。",
+      "anchor": "She couldn’t have been more than twenty-two when she jumped off a balcony in Chicago.",
+      "start": 3738,
+      "end": 3823
+    },
+    {
+      "fact": "哈蒂回忆起多年前她和艾德、汤米一起安慰达斯汀时自己流泪的情景。",
+      "anchor": "Recalls her own tears as she and Ed and Tommy consoled him.",
+      "start": 3955,
+      "end": 4014
+    },
+    {
+      "fact": "简说达斯汀的父母赔了一千美元，尽管他只拿了食品储藏室里的几样零食。",
+      "anchor": "They offered me a thousand dollars if you can believe it, even though he hadn’t taken a thing except a few snacks from the pantry.",
+      "start": 4526,
+      "end": 4656
+    },
+    {
+      "fact": "简说那晚她回家发现达斯汀时，他正睡在她的床上。",
+      "anchor": "He was sleeping in my bed.",
+      "start": 4875,
+      "end": 4901
+    }
+  ]
+}

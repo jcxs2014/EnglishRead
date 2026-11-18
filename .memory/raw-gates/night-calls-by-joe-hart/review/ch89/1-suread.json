@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch89",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch89_84.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "她走进屋时，Tommy正坐在厨房桌边等她。",
+      "anchor": "When she comes inside, Tommy’s waiting at the kitchen table.",
+      "start": 13,
+      "end": 73
+    },
+    {
+      "fact": "她坐进椅子，他翻找浴室后拿回一块毛巾和双氧水为她清洗伤口。",
+      "anchor": "She settles into the chair while he rummages in the bathroom and returns with a washcloth and peroxide.",
+      "start": 209,
+      "end": 312
+    },
+    {
+      "fact": "她让他去她房间取她带回家的那个信封。",
+      "anchor": "Get me the envelope I brought home. It’s in my room.",
+      "start": 769,
+      "end": 821
+    },
+    {
+      "fact": "Tommy查到她在2019年那家公司的年会在克利夫兰举行。",
+      "anchor": "You were right—in 2019 the firm’s yearly conference was held in Cleveland.",
+      "start": 1350,
+      "end": 1424
+    },
+    {
+      "fact": "Tommy说出年会日期是5月12日周五至5月14日周日。",
+      "anchor": "Friday, May twelfth through Sunday, May fourteenth.",
+      "start": 1744,
+      "end": 1795
+    },
+    {
+      "fact": "Paige McMahon在5月13日凌晨遇害。",
+      "anchor": "Paige McMahon had been killed in the early hours of May thirteenth.",
+      "start": 1873,
+      "end": 1940
+    },
+    {
+      "fact": "Tommy说Dustin入住的酒店离Paige家只有十二分钟路程。",
+      "anchor": "The hotel where Dustin was staying is twelve minutes from Paige’s house.",
+      "start": 1990,
+      "end": 2062
+    },
+    {
+      "fact": "她说所有时间戳都在Elle Marks家中遇袭的二十分钟之内。",
+      "anchor": "They’re all within twenty minutes of when she was assaulted in her home.",
+      "start": 2737,
+      "end": 2809
+    },
+    {
+      "fact": "她确认照片里的车是Dustin的车。",
+      "anchor": "That’s Dustin’s car.",
+      "start": 3056,
+      "end": 3076
+    }
+  ]
+}

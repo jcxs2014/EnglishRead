@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch62",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch62_57.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 合上笔记本电脑，手的触感已不像自己的。",
+      "anchor": "Hattie closes the laptop with a hand that doesn’t feel like her own.",
+      "start": 13,
+      "end": 81
+    },
+    {
+      "fact": "Hattie 想象 Colm 与母亲无生命的尸体共处漫长时间，可能击垮了他的一部分心智。",
+      "anchor": "She imagines the long hours and endless days Colm spent with his mother’s lifeless body.",
+      "start": 610,
+      "end": 698
+    },
+    {
+      "fact": "Hattie 触摸纸上 Leah、Dustin、Colm 三人的名字，意识到这份名单已成嫌疑人名单。",
+      "anchor": "Hattie touches Leah’s, Dustin’s, and Colm’s names on the paper",
+      "start": 804,
+      "end": 866
+    },
+    {
+      "fact": "走廊传来声音，旧 iPhone 响起。",
+      "anchor": "The old iPhone is ringing.",
+      "start": 1666,
+      "end": 1692
+    },
+    {
+      "fact": "Hattie 冲回房间拉开床头柜，以为是 Tommy 打来求助，却是 Leah。",
+      "anchor": "Hattie hurries to her room and pulls open the bedside drawer, sure it will be Tommy calling",
+      "start": 1695,
+      "end": 1786
+    },
+    {
+      "fact": "Leah 问那个作家是不是在场，Hattie 隐瞒真相回答说他走了。",
+      "anchor": "No. No, he’s not here. He’s—” Something keeps her from telling Leah the truth. Not yet, not yet. “He’s gone.",
+      "start": 2172,
+      "end": 2280
+    },
+    {
+      "fact": "Leah 说出打电话的另一个理由——感恩节团聚，并邀 Hattie 加入。",
+      "anchor": "So, the other reason I’m calling is Thanksgiving.",
+      "start": 2431,
+      "end": 2480
+    },
+    {
+      "fact": "Hattie 放下拒绝的念头，答应前来团聚。",
+      "anchor": "I’ll come,” she says, still staring at the page.",
+      "start": 2998,
+      "end": 3046
+    }
+  ]
+}

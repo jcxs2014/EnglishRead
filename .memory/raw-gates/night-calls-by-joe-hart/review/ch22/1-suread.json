@@ -1,0 +1,68 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch22",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch22_20.txt",
+  "facts": [
+    {
+      "fact": "Sloan 家：乱糟糟的加建群、S 形车道——「它的魅力在它的杂乱里。和他主人一样。」；她进门不敲门：「是我」；旧木炉火正旺；长餐桌大半空着（他在追本月新兴趣）。",
+      "anchor": "its charm lies within its disorder. Much like its owner.",
+      "start": 398,
+      "end": 454
+    },
+    {
+      "fact": "藏书室六角日光房、低书架不挡景；Sloan Ballard：瘦、蓬松白发像鹅绒、卡其裤、黑框眼镜后清亮蓝眼在书页上快速扫动；衬衫领口一侧有皱缩的疤——越南战场弹片伤，几乎不提，但她在门厅抽屉见过他退伍后留下的那把大型黑色军用左轮。",
+      "anchor": "A puckered scar creeps from the throat of his shirt on one side of his neck",
+      "start": 2782,
+      "end": 2857
+    },
+    {
+      "fact": "她买下那间小屋（并非挂牌出售）——触怒海湾最年长、最多疑的居民 Sloan Ballard（其祖父建了周边一半房子）；他打听「她是谁、她在这海湾干什么」；她天天从书房窗户看他下陡岸、扎进冰冷海水游泳。",
+      "anchor": "she’d bought out the former owner of the cottage when the place hadn’t really been for sale.",
+      "start": 4176,
+      "end": 4268
+    },
+    {
+      "fact": "相册上两个儿子 Adam 与 Nicholas（相差五岁，如今人生相差四十多年）；Nicky 游泳时抽筋溺亡，Adam dives 却找不到他——她认得那种坦率：survival——直面发生过的事才能继续，受伤才得愈（治疗里学到的）；她脱口而出「我儿子也死了。自杀」——就她认识的那个版本而言 Tommy 算是自杀——从此两人结成「活过自己孩子」这个可怕的排他俱乐部。",
+      "anchor": "Nicky drowned, Sloan had told her the first day she’d visited after noticing the pictures.",
+      "start": 7259,
+      "end": 7349
+    },
+    {
+      "fact": "杂谈：17 号公路修路（浪费钱）、邻居的 groundskeeper 是 prowler（夜里瞥见人影）、冬天不远；Worthington’s Creamery 早已停业近一年——她不忍告诉他（那是他仅剩的乐趣之一），继续把 Mottles 奶油装进旧 Worthington 瓶；「不再是又一件他不知道就伤不到他的事，而是她变成的样子的一部分」。",
+      "anchor": "Worthington’s Creamery has been out of business for nearly a year.",
+      "start": 9912,
+      "end": 9978
+    },
+    {
+      "fact": "他说她看着累；她「Silver-tongued devil」；她睡眠已 moth-bitten：黑暗中惊醒、一阵攫住她的恐惧，来不及命名就消失；Adam 留了些安眠药——她婉拒；他说可以雇人送杂货、「你瘦了」；她在厨房背过身，因为眼里突然涌出泪。",
+      "anchor": "her sleep has become moth-bitten with bouts of waking in the dark",
+      "start": 10734,
+      "end": 10799
+    },
+    {
+      "fact": "他在椅上睡熟，她一度怀疑他断气；屋子在风里吱嘎作响；Sloan 说这房子闹鬼——「海岸线这些房子都闹鬼：太老、见过太多」——「像我们所有人一样」。",
+      "anchor": "his narrow chest rises and falls",
+      "start": 12102,
+      "end": 12134
+    },
+    {
+      "fact": "Nicholas 的照片有点像同龄的 Tommy——只是那时 Tommy 缺一颗门牙：Ed 帮他晃下来，她跑完 errands 回来时他手心攥着牙、满脸放光地跑来。「她的孩子。她的儿子。她唯一的。」闭眼也抹不掉；「这是那些好记忆之一」。",
+      "anchor": "noting how he looks a little like Tommy did at that age.",
+      "start": 12643,
+      "end": 12699
+    },
+    {
+      "fact": "她问 Sloan「Nicholas 之后你怎么继续活」——「不知道没有他我能不能活」；后来想「能不能原谅自己没能守住孩子」，最终原谅了，再后来想「若活得够久，也许还能找到快乐」——一种永远带着他记忆的异色；Julian 就是她那份色阶，且被 Tommy 的记忆触碰；她只能希望 Julian 不被吞噬她儿子的黑暗——「眼下，希望就是她拥有的一切」。",
+      "anchor": "Julian is her shade of joy.",
+      "start": 13839,
+      "end": 13866
+    },
+    {
+      "fact": "她快到门口忍泪时，Sloan 梦中清晰说出「Storm」；她僵住回头、屏息等；随后他清楚地说「Storm coming」（暴风雨要来了），她起了一身鸡皮疙瘩；他翻身转开脸，只剩呼吸声与从北边灌下的风声。",
+      "anchor": "“Storm coming,” he says clearly, and her skin breaks out in goose bumps.",
+      "start": 14569,
+      "end": 14641
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

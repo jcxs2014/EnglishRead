@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch28",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch28_25.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "After coffee she checks the driveway to make sure Eeling hasn’t arrived yet (wishing he’d drive off the road into a tree) and decides she has time for a final phone call.",
+      "anchor": "She checks the driveway to make sure Eeling hasn’t arrived yet",
+      "start": 344,
+      "end": 406
+    },
+    {
+      "fact": "She takes the old iPhone back out of the drawer, holding the belief that the calls and her voice are the only things keeping Tommy from succumbing to the darkness.",
+      "anchor": "It’s the belief that the only thing keeping Tommy from succumbing to the darkness inside him are the calls and her voice.",
+      "start": 1298,
+      "end": 1419
+    },
+    {
+      "fact": "She notes Paige McMahon’s murder was five years ago and there has not been another killing since.",
+      "anchor": "Paige McMahon’s murder was five years ago. There hasn’t been another killing since.",
+      "start": 1455,
+      "end": 1538
+    },
+    {
+      "fact": "She reasserts her pledge: if the police can’t keep Tommy from killing, she will do her best to.",
+      "anchor": "If the police can’t keep him from killing, she’ll do her best to.",
+      "start": 2080,
+      "end": 2145
+    },
+    {
+      "fact": "She calls Colm Tyring, who answers breathlessly, as if he rushed to the phone, asking if she is okay.",
+      "anchor": "Colm Tyring says a little breathlessly as if he’s rushed to the phone.",
+      "start": 2607,
+      "end": 2677
+    },
+    {
+      "fact": "Colm says he stayed over at the school because there was a midnight class observing the Orionids meteor shower for extra credit.",
+      "anchor": "There was a midnight class observing the Orionids meteor shower. Extra credit.",
+      "start": 4381,
+      "end": 4459
+    },
+    {
+      "fact": "Colm says Eeling came bearing threats: if Colm didn’t tell him what he wanted, Eeling would reveal D’s and Leah’s identities and ruin everything they built.",
+      "anchor": "Came bearing threats. If I didn’t tell him what he wanted he was going to reveal D’s and Leah’s identities, ruin everything they’d built.",
+      "start": 5037,
+      "end": 5174
+    },
+    {
+      "fact": "Colm recounts that Eeling asked what Tommy was like growing up, whether he showed strange behaviors, tortured animals, and how finding out affected Colm and his life.",
+      "anchor": "What Tommy was like growing up, did I notice any strange behaviors from him, did he torture animals, that type of thing.",
+      "start": 5536,
+      "end": 5656
+    },
+    {
+      "fact": "Colm relays that Tommy said Hattie told him she couldn’t forgive what he’d done but could accept it, and asks what she meant; she answers that children are your responsibility no matter how old they get.",
+      "anchor": "you told him you couldn’t forgive what he’d done, but you could accept it. What did you mean?",
+      "start": 6597,
+      "end": 6690
+    }
+  ]
+}

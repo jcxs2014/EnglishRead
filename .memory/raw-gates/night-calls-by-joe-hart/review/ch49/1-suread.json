@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch49",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch49_44.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Tommy 审判接近尾声时，Hattie 开始阅读关于连环杀手的书，且专挑冷静聚焦的传记、关注这些人作案前是什么样。",
+      "anchor": "Near the end of Tommy’s trial she began reading about serial killers.",
+      "start": 607,
+      "end": 676
+    },
+    {
+      "fact": "所谓专家们一致认可的特征包括童年受虐以及折磨和杀害动物。",
+      "anchor": "mainly the presence of childhood abuse, as well as the torture and killing of animals.",
+      "start": 1048,
+      "end": 1134
+    },
+    {
+      "fact": "Hattie 判断 Tommy 童年没有受虐——凭直觉和她作为强制报告者受过的识别训练她会知道——也没有虐待动物的迹象。",
+      "anchor": "There had been no abuse—she would have known, either through her own intuition or the training she’d received to recognize the signs as a mandated reporter.",
+      "start": 1334,
+      "end": 1490
+    },
+    {
+      "fact": "Hattie 看表发现他们已离开一个多小时，Kevin 和 Wendy 有充足时间打完电话，且很快要去精神病医生处赴约。",
+      "anchor": "when she looks at her watch she sees they’ve been gone well over an hour.",
+      "start": 2623,
+      "end": 2696
+    },
+    {
+      "fact": "Hattie 走近后看见一只海鸥仰面挣扎，Julian 正把一根削尖的木棍刺穿它、把它钉在岩石上、扭动木棍深入其内脏。",
+      "anchor": "A seagull lies squirming on its back, its beak open and gasping silently as Julian digs a sharpened stick through its center, impaling it to the rock below.",
+      "start": 2978,
+      "end": 3134
+    },
+    {
+      "fact": "Hattie 本能出手，抓住 Julian 上臂使劲把他拽起来，他轻得象充了氦气，脸上露出惊讶与恐惧。",
+      "anchor": "Her hand latches on to his upper arm and yanks him upward as hard as she can.",
+      "start": 3273,
+      "end": 3350
+    },
+    {
+      "fact": "Hattie 再看发现海鸥其实早已死亡多时、并非被木棍刺死，羽毛间和空眼窝里有虫子爬动，而 Julian 手里的棍子又细又钝。",
+      "anchor": "The gull is dead and has been for some time. Who knows what killed it, but it wasn’t a stick through its center.",
+      "start": 3846,
+      "end": 3958
+    },
+    {
+      "fact": "Wendy 走来问发生什么，Hattie 松手并向她解释是怕 Julian 碰死鸟；Wendy 轻轻拿走他手里的棍子扔到一边。",
+      "anchor": "She gently takes it from him and tosses it aside.",
+      "start": 4715,
+      "end": 4764
+    },
+    {
+      "fact": "Wendy 带 Julian 回去洗手并口头向 Hattie 道谢，两人离开时 Julian 只回头看了一次，但眼里恐惧未散。",
+      "anchor": "Julian glances over his shoulder only once.",
+      "start": 5028,
+      "end": 5071
+    }
+  ]
+}

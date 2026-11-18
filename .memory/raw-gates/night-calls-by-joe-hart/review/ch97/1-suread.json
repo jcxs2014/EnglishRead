@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch97",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch97_92.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "On Friday night just before dark Hattie walks down to the ocean.",
+      "anchor": "On Friday night, just before dark, Hattie walks down to the ocean.",
+      "start": 13,
+      "end": 79
+    },
+    {
+      "fact": "Hattie raises one hand in a small wave then drops it and goes back to the house.",
+      "anchor": "She raises one hand in a small wave, then drops it to her side and goes back to the house.",
+      "start": 551,
+      "end": 641
+    },
+    {
+      "fact": "Tommy startles in the kitchen chair where he had nodded off when Hattie comes inside.",
+      "anchor": "Tommy startles in the kitchen chair where he’s nodded off when she comes inside.",
+      "start": 644,
+      "end": 724
+    },
+    {
+      "fact": "After calling Dustin they have taken turns keeping watch but there has been no sign of him.",
+      "anchor": "After calling Dustin, they’ve taken turns keeping watch since the simplest way to get the upper hand would be for him to show up a day or two early, but there’s been no sign of him.",
+      "start": 725,
+      "end": 906
+    },
+    {
+      "fact": "Hattie makes herself a sandwich hoping the sight of food will entice Tommy but he only stares at the floor.",
+      "anchor": "She makes herself a sandwich, hoping the sight of food will entice him, but he only sits staring at the floor.",
+      "start": 985,
+      "end": 1095
+    },
+    {
+      "fact": "Tommy asks Hattie whether if this works things could really be good again.",
+      "anchor": "If this works, do you really think things could be good again?",
+      "start": 1167,
+      "end": 1229
+    },
+    {
+      "fact": "Tommy says one of the worst things is knowing what Dad thought of him at the end.",
+      "anchor": "One of the worst things is knowing what Dad thought of me at the end.",
+      "start": 1536,
+      "end": 1605
+    },
+    {
+      "fact": "Hattie tells Tommy that before he passed their father said he loved him and nothing would change that because love abides only itself.",
+      "anchor": "he told me he loved you and nothing in the world would ever change that because love abides only itself.",
+      "start": 2275,
+      "end": 2379
+    },
+    {
+      "fact": "The sound like tiny fingernails tapping against the glass turns out to be snow starting to fall.",
+      "anchor": "It’s started to snow.",
+      "start": 2514,
+      "end": 2535
+    }
+  ]
+}

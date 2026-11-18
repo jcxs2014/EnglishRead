@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch92",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch92_87.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "次日下午，Hattie 在前廊等候。",
+      "anchor": "The following afternoon, Hattie waits on the front porch.",
+      "start": 13,
+      "end": 70
+    },
+    {
+      "fact": "一辆车出现在车道上，停在回车道处，近一分钟车内毫无动静。",
+      "anchor": "It stops in the turnaround, and for nearly a minute there’s no movement from inside.",
+      "start": 580,
+      "end": 664
+    },
+    {
+      "fact": "车门打开，Colm 下车。",
+      "anchor": "Then the door opens and Colm steps out.",
+      "start": 667,
+      "end": 706
+    },
+    {
+      "fact": "Colm 先打量院子和村舍，再看向 Hattie。",
+      "anchor": "He stands observing the yard and the cottage before looking at her.",
+      "start": 709,
+      "end": 776
+    },
+    {
+      "fact": "Hattie 说她知道 Colm 为何时隔这么久被邀上山。",
+      "anchor": "I know you’re wondering why I invited you up here after all this time.",
+      "start": 975,
+      "end": 1045
+    },
+    {
+      "fact": "两人在起居室坐下喝茶。",
+      "anchor": "They settle in the den with cups of tea.",
+      "start": 1158,
+      "end": 1198
+    },
+    {
+      "fact": "Hattie 把所有笔记连同电脑摆在低桌上。",
+      "anchor": "She’s arranged all the notes along with her computer on the low table.",
+      "start": 1199,
+      "end": 1269
+    },
+    {
+      "fact": "Hattie 称这是一场展示，由 Colm 充当裁判，最后给出裁决。",
+      "anchor": "At the end you can give me your verdict.",
+      "start": 1363,
+      "end": 1403
+    },
+    {
+      "fact": "Colm 以通常用于望远镜目镜的敏锐审视她。",
+      "anchor": "He studies her with the acuity she’s sure is normally reserved for the eyepiece of a telescope.",
+      "start": 1407,
+      "end": 1502
+    }
+  ]
+}

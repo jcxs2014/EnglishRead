@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch50",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch50_45.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 在药柜里找 risperidone 药瓶，但药早已不在，她翻找后仍没找到。",
+      "anchor": "But no risperidone.",
+      "start": 185,
+      "end": 204
+    },
+    {
+      "fact": "Hattie 坐在合上的马桶盖上双手掩面；她承认自己确实看到了海鸥的幻象。",
+      "anchor": "Hattie sits on the closed toilet seat and puts her face in her hands.",
+      "start": 711,
+      "end": 780
+    },
+    {
+      "fact": "Julian 其实只是在拨弄一只死鸟，Hattie 却对他发作、把他吓坏了。",
+      "anchor": "In reality Julian had been poking at a dead bird.",
+      "start": 1229,
+      "end": 1278
+    },
+    {
+      "fact": "回忆：Ed 葬礼后几天，一辆警车停在他们家外，以防 Tommy 回家。",
+      "anchor": "It was a few days after Ed’s funeral while a police cruiser was still stationed outside their house",
+      "start": 1953,
+      "end": 2052
+    },
+    {
+      "fact": "Hattie 吃了微波炉加热的千层面，并看了当天送到的人寿保险文件。",
+      "anchor": "Hattie ate a small piece of lasagna warmed in the microwave",
+      "start": 4072,
+      "end": 4131
+    },
+    {
+      "fact": "Ed 几年前瞒着她给自己加保了一份额外寿险，数额大得惊人。",
+      "anchor": "It seemed Ed had taken out an extra policy on himself a few years ago without her knowing.",
+      "start": 4309,
+      "end": 4399
+    },
+    {
+      "fact": "记忆中她跪在浴缸边，双手掐住四岁的 Tommy 的脖子把他按进水里。",
+      "anchor": "Then she was kneeling by the bathtub, hands reaching and wrapping around Tommy’s thin throat.",
+      "start": 6109,
+      "end": 6202
+    },
+    {
+      "fact": "窗外有翅膀的影子一闪而过——是猫头鹰又在监视她。",
+      "anchor": "The owl, of course. Watching again.",
+      "start": 7251,
+      "end": 7286
+    }
+  ]
+}

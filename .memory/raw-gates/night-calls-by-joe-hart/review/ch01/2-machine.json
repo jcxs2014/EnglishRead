@@ -131,10 +131,10 @@
       "读者视角提示"
     ],
     "blocks": 4,
-    "block_median": 4,
+    "block_median": 11.0,
     "block_range": [
       3,
-      10
+      15
     ],
     "profile": "mystery-thriller",
     "profile_subitems": [
@@ -146,7 +146,7 @@
     "profile_optional": [
       "句子结构"
     ],
-    "baseline": "default"
+    "baseline": "book"
   },
   "counts": {
     "blocks": 4,
@@ -166,12 +166,12 @@
       2,
       2
     ],
-    "block_hint": "块数 4 偏离本章篇幅建议 2–2（本章 158 词）"
+    "block_hint": "块数 4 偏离本书常见区间 6–16（本书 103 章中位 11、最高 15（同类书按本书分布判））"
   },
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "新书（基线 0 章 <3，按 2–15 硬门）"
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

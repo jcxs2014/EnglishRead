@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch37",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch37_december_2012.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 在洗衣服、整理 Tommy 床铺时发现一张从墙缝滑出的打印纸，上面是一首诗。",
+      "anchor": "She found the poem while doing laundry.",
+      "start": 24,
+      "end": 63
+    },
+    {
+      "fact": "圣诞节只剩十天，家里的男人外出砍圣诞树；Tommy 十六岁，马上要上大学。",
+      "anchor": "Tommy was sixteen now and college was right around the corner",
+      "start": 805,
+      "end": 866
+    },
+    {
+      "fact": "纸上是用普通 Times New Roman 打印的诗，开头是“Your cold arms tighten with love”。",
+      "anchor": "Your cold arms tighten with love",
+      "start": 1583,
+      "end": 1615
+    },
+    {
+      "fact": "诗中写着想用刀割对方，并出现“心总会回家”的句子。",
+      "anchor": "Like the knife I want to cut you with",
+      "start": 1827,
+      "end": 1864
+    },
+    {
+      "fact": "Hattie 把诗读了一遍、两遍、第三遍，感觉体内像有关键的一块脱落下坠。",
+      "anchor": "She read it once, then again, and a third time.",
+      "start": 2067,
+      "end": 2114
+    },
+    {
+      "fact": "她下意识把纸揉成一团，上楼到客厅后又把它展开重读。",
+      "anchor": "She grasped the paper, crumpling it before she knew she was going to do so.",
+      "start": 2828,
+      "end": 2903
+    },
+    {
+      "fact": "Hattie 把纸塞进壁炉的火焰，看着字迹变暗、卷曲成灰。",
+      "anchor": "Hattie shoved the page into the flames, and they leaped higher.",
+      "start": 3275,
+      "end": 3338
+    },
+    {
+      "fact": "她去厨房热牛奶做蛋奶酒，自我安慰说这是 Mr. Hennessy 布置的英语课作业，却明知他不教诗。",
+      "anchor": "she told herself it was an assignment, something Mr. Hennessy had given Tommy’s English class",
+      "start": 3617,
+      "end": 3710
+    },
+    {
+      "fact": "她决定先放一放、以后多留意 Tommy；看到雪中归来的父子拖着圣诞树，她认定“诗只是一首诗，伤不了人”。",
+      "anchor": "A poem was just a poem. It couldn’t hurt anyone.",
+      "start": 5259,
+      "end": 5307
+    }
+  ]
+}

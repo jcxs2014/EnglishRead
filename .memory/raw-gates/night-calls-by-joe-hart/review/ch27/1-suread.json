@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch27",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch27_24.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "After the call Hattie sits on a rock wrapped in a blanket and watches the sun rise from the ocean.",
+      "anchor": "Hattie watches the sun rise from the ocean.",
+      "start": 13,
+      "end": 56
+    },
+    {
+      "fact": "After the call ended she sat for a time before the fire with a cup of tea, then went outside with her blanket to wait for dawn.",
+      "anchor": "she sat for a time before the fire with a cup of tea",
+      "start": 625,
+      "end": 677
+    },
+    {
+      "fact": "The late-night calls started a little over six months after she moved to the cove, first as hangups from an unrecognized number.",
+      "anchor": "They’d started a little over six months after she’d moved to the cove—hangups at first by a number she didn’t recognize",
+      "start": 974,
+      "end": 1093
+    },
+    {
+      "fact": "She knew for sure it was Tommy calling after Paige McMahon’s death and the text a week later reading “Help me stop.”",
+      "anchor": "She knew for sure it was Tommy calling after the death of Paige McMahon and the subsequent text a week later.",
+      "start": 1416,
+      "end": 1525
+    },
+    {
+      "fact": "Paige McMahon was Tommy’s only known victim since his escape eight years prior — twenty-seven years old, killed in her sleep with the base of her skull pierced by a thin pointed object (Bedfellow MO).",
+      "anchor": "Paige McMahon was Tommy’s only known victim since his escape eight years prior.",
+      "start": 1694,
+      "end": 1773
+    },
+    {
+      "fact": "In the end she reached out to Detective Ramsby, who at the time was still in charge of Tommy’s case.",
+      "anchor": "In the end she’d reached out to Detective Ramsby, who at the time was still in charge of Tommy’s case.",
+      "start": 2952,
+      "end": 3054
+    },
+    {
+      "fact": "Ramsby got back to her a week later saying the number was a burner phone bought with cash at a roadside market in Delaware.",
+      "anchor": "He’d gotten back to her a week later saying the number was registered to a burner phone that had been purchased with cash at a roadside market in Delaware.",
+      "start": 3249,
+      "end": 3404
+    },
+    {
+      "fact": "Ramsby said they used cell towers to locate the text’s origin near a hotel complex in North Carolina.",
+      "anchor": "We did use cell towers to locate where the text originated from—it was near a hotel complex in North Carolina",
+      "start": 3625,
+      "end": 3734
+    },
+    {
+      "fact": "She withheld one thing from Ramsby: once when the phone rang she said only “Tommy?” and heard a surprised inhale then a click as the call ended, which confirmed it for her.",
+      "anchor": "There had been a surprised inhale, then a click as the call ended.",
+      "start": 6937,
+      "end": 7003
+    }
+  ]
+}

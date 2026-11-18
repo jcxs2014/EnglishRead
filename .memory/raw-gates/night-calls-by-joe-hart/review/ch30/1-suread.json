@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch30",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch30_october_2018.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 在厨房向 Ed 提出要收养 Tommy 和 Leah 的孩子（他们的孙子）。",
+      "anchor": "I want to adopt him.",
+      "start": 3225,
+      "end": 3245
+    },
+    {
+      "fact": "Hattie 提到有罪判决在两周前下达，Tommy 的量刑听证会就在后天。",
+      "anchor": "Tommy’s sentencing hearing was the day after tomorrow.",
+      "start": 1712,
+      "end": 1766
+    },
+    {
+      "fact": "Hattie 告诉 Ed，Leah 已决定把孩子送人收养。",
+      "anchor": "She’s going to give him up for adoption.",
+      "start": 3066,
+      "end": 3106
+    },
+    {
+      "fact": "Ed 反对收养，称他们无法逃离这件事，因为这就是他们自己造成的。",
+      "anchor": "we can’t run from this because it is us. We made this.",
+      "start": 3788,
+      "end": 3842
+    },
+    {
+      "fact": "Hattie 说即使没有 Ed 的参与，她也要收养这个孩子。",
+      "anchor": "I’ll do it without you then,",
+      "start": 4957,
+      "end": 4985
+    },
+    {
+      "fact": "Ed 说自己一直在哀悼、在和儿子告别，随后走出门去。",
+      "anchor": "I’ve been saying goodbye to my son.",
+      "start": 4855,
+      "end": 4890
+    },
+    {
+      "fact": "Hattie 在车间发现 Ed 侧躺在运转的桌锯旁，已经死亡。",
+      "anchor": "Ed lay on his side next to the whirring table saw",
+      "start": 10054,
+      "end": 10103
+    },
+    {
+      "fact": "Hattie 用手机拨打 911 并对 Ed 做心肺复苏。",
+      "anchor": "She had her phone with her and dialed 911",
+      "start": 10496,
+      "end": 10537
+    },
+    {
+      "fact": "Ed 死于数月压力与悲伤累积的心脏病，Hattie 认为那场争吵把它推到了极限。",
+      "anchor": "heart attack that had been building for months from the stress and sorrow",
+      "start": 11666,
+      "end": 11739
+    }
+  ]
+}

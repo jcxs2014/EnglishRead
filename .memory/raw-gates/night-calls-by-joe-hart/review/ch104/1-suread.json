@@ -1,0 +1,44 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch104",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch104_after.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "叙述者说有时能从岸边看到他们",
+      "anchor": "You can see them sometimes from shore.",
+      "start": 16,
+      "end": 54
+    },
+    {
+      "fact": "这家人不知从哪儿弄到一条小帆船，可能是便宜货因为已显破旧",
+      "anchor": "A family who got a small sailboat somewhere, probably at a bargain because it’s seen better days.",
+      "start": 57,
+      "end": 154
+    },
+    {
+      "fact": "船上常是一位头发花白、明显跛行的老妇人（暗指 Hattie）",
+      "anchor": "usually it’s an older woman with graying hair and a pronounced limp",
+      "start": 266,
+      "end": 333
+    },
+    {
+      "fact": "还有一个瘦削年轻男子（可能是她儿子）和一个与两人都极像的少年",
+      "anchor": "a slim younger man—probably her son—along with a teenage boy who bears a striking resemblance to them both.",
+      "start": 335,
+      "end": 442
+    },
+    {
+      "fact": "他们在海湾里来回航行，有时驶向更远的外海",
+      "anchor": "They sail the bay back and forth and sometimes venture farther out to open water",
+      "start": 443,
+      "end": 523
+    },
+    {
+      "fact": "但他们总能找到回来的路",
+      "anchor": "But they always find their way back.",
+      "start": 790,
+      "end": 826
+    }
+  ]
+}

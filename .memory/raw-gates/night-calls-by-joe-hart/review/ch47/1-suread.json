@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch47",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch47_42.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Wendy 给 Hattie 开门，Hattie 观察到对方眼下发黑、头发凌乱，明显睡眠不足，Wendy 强笑把她让进屋。",
+      "anchor": "When Wendy opens the front door, Hattie guesses the other woman got about as much sleep as she did the night before.",
+      "start": 13,
+      "end": 129
+    },
+    {
+      "fact": "Kevin 为前一晚的事向 Mary（Hattie）道歉，承认本该倾听，说她当时是在帮忙而且说得对。",
+      "anchor": "I should have listened. You were trying to help, and more importantly, you were right.",
+      "start": 1053,
+      "end": 1139
+    },
+    {
+      "fact": "Wendy 说 Julian 被无限期停学，Bastion 也因有欺凌前科同样被停学。",
+      "anchor": "Julian’s suspended until further notice,” Wendy says. “And so is Bastion, given the history of bullying.",
+      "start": 1840,
+      "end": 1944
+    },
+    {
+      "fact": "Kevin 说法庭上剪刀会被认定为致命武器，因此此事可能变严重。",
+      "anchor": "But the scissors will be considered a deadly weapon.",
+      "start": 2488,
+      "end": 2540
+    },
+    {
+      "fact": "Kevin 说他们已约好当天下午与一名与法院密切合作的儿童心理学家见面。",
+      "anchor": "We’ve got an appointment this afternoon with a child psychologist who works closely with the court.",
+      "start": 2705,
+      "end": 2804
+    },
+    {
+      "fact": "Kevin 透露 Julian 把那把剪刀带了将近一周，每天放学都藏在课桌里，虽从未伤害过人却已准备伤害那个孩子。",
+      "anchor": "He was carrying those scissors around for almost a week—hid them in his desk at the end of each day.",
+      "start": 3295,
+      "end": 3395
+    },
+    {
+      "fact": "Julian 出现在阁楼栏杆边低头看着众人，表情茫然；Hattie 不知他醒了多久。",
+      "anchor": "Julian stands at the loft’s railing, looking down at them, his expression blank.",
+      "start": 3580,
+      "end": 3660
+    },
+    {
+      "fact": "Wendy 说他们十五分钟后要与律师通话，请 Hattie 把 Jules 带出去待一会儿，Hattie 出于被信任的暖意答应了。",
+      "anchor": "We have a call with our attorney in fifteen minutes. Do you think you could take Jules outside for a while?",
+      "start": 3921,
+      "end": 4028
+    }
+  ]
+}

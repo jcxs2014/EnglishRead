@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch69",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch69_64.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie走出二楼电梯，看见Adam在走廊尽头等她；Adam一直在哭，看起来老了十岁。",
+      "anchor": "she steps off the second-floor elevator and spots Adam waiting at the far end of the corridor.",
+      "start": 444,
+      "end": 538
+    },
+    {
+      "fact": "Adam说Sloan手术结束，医生清除了一处大堵塞并放入四个支架，但目前仍生死未卜。",
+      "anchor": "“He’s out of surgery. They cleared a major blockage and put in four stents.",
+      "start": 1056,
+      "end": 1131
+    },
+    {
+      "fact": "Hattie握住Sloan的一只手，手粗糙冰凉，手背有输液留下的瘀伤。",
+      "anchor": "Hattie takes one of Sloan’s hands.",
+      "start": 1785,
+      "end": 1819
+    },
+    {
+      "fact": "Hattie对昏迷的Sloan说自己是Mary，她和Adam都在这里，他会好起来的。",
+      "anchor": "“Sloan, it’s Mary. I’m here with Adam. You’re going to be okay.”",
+      "start": 2106,
+      "end": 2170
+    },
+    {
+      "fact": "Adam说母亲因Nick溺水的事从未原谅他，并在Nick溺水六个月后离开了这个家。",
+      "anchor": "She left six months after he drowned.",
+      "start": 3191,
+      "end": 3228
+    },
+    {
+      "fact": "护士来请他们离开（Mr. Ballard需要休息），Hattie轻声告别并亲吻了Sloan的脸颊。",
+      "anchor": "Hattie murmurs a quiet goodbye and kisses Sloan’s cheek",
+      "start": 3783,
+      "end": 3838
+    },
+    {
+      "fact": "Adam说医院会搬一张折叠床到Sloan的房间里供他过夜。",
+      "anchor": "“They’re bringing in a cot to put in his room.”",
+      "start": 4019,
+      "end": 4066
+    },
+    {
+      "fact": "Adam告诉Hattie是Sloan倒下前自己拨打了911，急救人员约十分钟后赶到，医生说若非他及时打电话就活不下来。",
+      "anchor": "He called 911 before he collapsed. A first responder was there in about ten minutes.",
+      "start": 4460,
+      "end": 4544
+    },
+    {
+      "fact": "Adam说Sloan在图书馆时把一个书架拽倒了，可能是摔倒或想起身时造成的。",
+      "anchor": "He’d pulled over one of the bookcases, either falling or trying to get up.",
+      "start": 4681,
+      "end": 4755
+    }
+  ]
+}

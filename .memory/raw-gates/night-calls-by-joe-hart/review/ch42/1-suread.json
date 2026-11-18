@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch42",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch42_37.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 翻找食品柜，找出一瓶快喝完的像样威士忌，给两人各倒一杯。",
+      "anchor": "digs farther into the pantry and locates a mostly empty bottle of decent whiskey.",
+      "start": 55,
+      "end": 136
+    },
+    {
+      "fact": "Wendy 后悔那天送 Julian 去上学，因为他比平常更沉默寡言。",
+      "anchor": "I never should have sent him to school today. He was so reserved.",
+      "start": 631,
+      "end": 696
+    },
+    {
+      "fact": "Wendy 说 Graner 家的孩子午饭后把 Julian 跟进了洗手间。",
+      "anchor": "The Graner kid followed him into a bathroom after lunch.",
+      "start": 1186,
+      "end": 1242
+    },
+    {
+      "fact": "Wendy 说剪刀来自美术课，是老师的、不是安全剪刀，又大又锋利。",
+      "anchor": "they think it was from art class. They’re the teacher’s—not the safety kind. Big and sharp.",
+      "start": 1572,
+      "end": 1663
+    },
+    {
+      "fact": "Julian 用剪刀刺中 Bastion 肩膀，伤口很深，几乎穿透。",
+      "anchor": "He stabbed him in the shoulder, and it went deep. Almost all the way through.",
+      "start": 1888,
+      "end": 1965
+    },
+    {
+      "fact": "Kevin 说服当局让 Julian 回家而非关进 Portland 的少管所；Bastion 父母震怒，准备起诉索赔。",
+      "anchor": "They were going to hold him at a delinquency center in Portland, but Kevin managed to convince the authorities to let him come home.",
+      "start": 2234,
+      "end": 2366
+    },
+    {
+      "fact": "Wendy 看到 Julian 腿上的瘀伤，听信了他“从石头上摔下来”的说法。",
+      "anchor": "The bruises. On his legs. He told me he fell on the rocks, and I believed him.",
+      "start": 3069,
+      "end": 3147
+    },
+    {
+      "fact": "Wendy 说她们来找 Hattie 前当天已联系了三位心理治疗师。",
+      "anchor": "We called three today before I came over.",
+      "start": 4051,
+      "end": 4092
+    },
+    {
+      "fact": "Hattie 承认自己当年忽视了儿子的求救信号、以为“是生活太忙”，并说这害死了他。",
+      "anchor": "There were warning signs, and I ignored them. He was crying out for help, and I was too caught up in life to understand what I was seeing. I didn’t want to see. And it killed him.",
+      "start": 4752,
+      "end": 4931
+    }
+  ]
+}

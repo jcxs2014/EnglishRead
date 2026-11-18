@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch24",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch24_22.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "她进屋后待在书房，给炉子添了柴。",
+      "anchor": "She settles for the den and feeds the stove.",
+      "start": 205,
+      "end": 249
+    },
+    {
+      "fact": "她想到可以留便条，一张给克劳福德一家，一张给斯隆。",
+      "anchor": "One for the Crawfords and one for Sloan.",
+      "start": 634,
+      "end": 674
+    },
+    {
+      "fact": "她梦见头靠在丈夫埃德的胸前，两人在一起已有二十五年。",
+      "anchor": "right where she’s always rested it after making love for all of the twenty-five years they’ve been together",
+      "start": 1203,
+      "end": 1310
+    },
+    {
+      "fact": "梦里埃德对她说“别相信他”，并变得冰冷。",
+      "anchor": "Don’t trust him, Ed says, and now he is cold.",
+      "start": 2060,
+      "end": 2105
+    },
+    {
+      "fact": "铃声把她惊醒，她从椅子上猛地弹起，脖子像被闪电劈中般疼痛。",
+      "anchor": "the ringing wakes her and Hattie bolts upright from the chair so violently that pain streaks down her neck like a lightning strike",
+      "start": 2520,
+      "end": 2650
+    },
+    {
+      "fact": "她看了一眼腕表，时间是凌晨两点。",
+      "anchor": "Hattie looks at her wristwatch. Two a.m.",
+      "start": 3068,
+      "end": 3108
+    },
+    {
+      "fact": "她的旧iPhone在卧室里响着。",
+      "anchor": "Her old iPhone is ringing in the bedroom.",
+      "start": 3024,
+      "end": 3065
+    },
+    {
+      "fact": "她离开书房，小心穿过黑暗的厨房走到门厅。",
+      "anchor": "she leaves the den and moves carefully through the darkened kitchen and to the hall",
+      "start": 3135,
+      "end": 3218
+    },
+    {
+      "fact": "她接起电话并说“你好，汤米”。",
+      "anchor": "“Hello, Tommy,” she says.",
+      "start": 4127,
+      "end": 4152
+    }
+  ]
+}

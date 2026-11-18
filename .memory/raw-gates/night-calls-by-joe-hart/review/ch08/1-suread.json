@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch08",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch08_8.txt",
+  "facts": [
+    {
+      "fact": "她的「No.」像一场暴动——否认这一切真实；她仍睡在椅中，梦见梦中梦：鸮枝上的 Tommy 只是热身，真正的戏码是她几乎与床头手机深夜铃响同级恐惧的东西；掐前臂的试探做了一半停手；一阵风卷着明亮的落叶滚过院子，她闻到秋天——没有梦能这么真。",
+      "anchor": "No dream could be this real.",
+      "start": 517,
+      "end": 545
+    },
+    {
+      "fact": "男人原地换了下姿势，仍拿着那只信封——里面至少折着一页纸，她看得到纸的轮廓，却不敢多看：那只是「这一切正在发生」的又一桩证据。",
+      "anchor": "still holding the envelope with at least one page folded up inside it",
+      "start": 573,
+      "end": 642
+    },
+    {
+      "fact": "「能进去谈吗？」——她的回应是整个人走上门廊、反手把门关严（护住屋内）。",
+      "anchor": "She responds by stepping fully onto the porch and pulling the door closed behind her.",
+      "start": 793,
+      "end": 878
+    },
+    {
+      "fact": "「你是谁？你想干什么？」她全身发冷、声音里都听得出来。男人自报家门：我叫 Ross，Ross Eeling——需要问你几个关于你儿子的问题。",
+      "anchor": "Ross Eeling. I need to ask you some questions about your son.",
+      "start": 1026,
+      "end": 1087
+    },
+    {
+      "fact": "她朝树丛扫视，像会在枝叶间看到 Tommy 的脸——像这一切是一整个漫长的烂玩笑、此刻终于抖出包袱。「为什么？」「我在写一本关于他的书，想采访你。我需要。」惊吓退潮、怒气灌满空位——她庆幸两手空空，否则怕自己会砸他：「你该做的是上车、永远别再回来。」",
+      "anchor": "I’m writing a book about him",
+      "start": 1299,
+      "end": 1327
+    },
+    {
+      "fact": "他点头，仿佛早料到：我知道你从没接受过采访，抱歉用这种方式强求——但我是认真的：你不跟我谈，我就告诉他们。他的头朝 Crawfords 家偏了偏；她看见一床薄线缝的被子正在开线——自己怎么会信它撑得住？能撑到现在已是奇迹。",
+      "anchor": "I’ll tell them.",
+      "start": 1845,
+      "end": 1860
+    },
+    {
+      "fact": "Eeling 似乎说完了他要说的，开始倒退着下台阶（不敢把背留给她）——像她最里面那部分露出了表面，而他不喜欢看到的样子。「明早我再来，到时告诉我你的决定。」",
+      "anchor": "like the rawest inner part of her has surfaced",
+      "start": 2185,
+      "end": 2231
+    },
+    {
+      "fact": "她想把知道的每个脏字都砸过去、威胁他、甚至伤他；结果一动不动站在门廊上，看他钻进灰色小车点火驶离；车尾灯在车道第一个拐弯处闪了一下，人就没了。",
+      "anchor": "taillights flash once at the drive",
+      "start": 2709,
+      "end": 2743
+    }
+  ],
+  "method": "生产期盲读素读清单（写 md 之前产出）；T3 主会话复核锚点 find==start 且 count==1"
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch34",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch34_30.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie和Julian一边喝可可一边拼猫头鹰拼图",
+      "anchor": "They have their cocoa and work on the owl puzzle.",
+      "start": 13,
+      "end": 62
+    },
+    {
+      "fact": "Julian拼上最后一块并从已完成的拼图前靠回，露出满意的神情",
+      "anchor": "before he clicks the final one in place and sits back from the completed puzzle with a look of satisfaction.",
+      "start": 702,
+      "end": 810
+    },
+    {
+      "fact": "Julian告诉Hattie霸凌者Bastion今天回来了",
+      "anchor": "“Bastion was back today.”",
+      "start": 1630,
+      "end": 1655
+    },
+    {
+      "fact": "Julian说Bastion曾被停学，但今天早上看见他的父母和校长谈话",
+      "anchor": "“He was. But I saw his parents talking to the principal this morning.”",
+      "start": 1818,
+      "end": 1888
+    },
+    {
+      "fact": "Julian抬起拇指划过脖子做出割喉手势，表示Bastion对他做过的动作",
+      "anchor": "He brings his thumb up and draws it across his neck in a cutthroat gesture.",
+      "start": 2099,
+      "end": 2174
+    },
+    {
+      "fact": "Julian说没有告诉老师，因为除了他自己没有人看到",
+      "anchor": "“No. No one saw it but me.”",
+      "start": 2205,
+      "end": 2232
+    },
+    {
+      "fact": "被问到是否真的伤害东西时，Julian回答没有，只是伤害自己",
+      "anchor": "“No.” A long pause. “Just myself.”",
+      "start": 3749,
+      "end": 3783
+    },
+    {
+      "fact": "Julian用小手握拳比划击打自己的大腿，接着是脸",
+      "anchor": "Julian makes a fist of his small hand and mimes hitting himself in the thigh. Then the face.",
+      "start": 3826,
+      "end": 3918
+    },
+    {
+      "fact": "Hattie问Julian吃通心粉奶酪还是披萨，Julian回答要披萨且不要菠萝",
+      "anchor": "“So I’ve got mac and cheese or pizza, which will it be?”",
+      "start": 4812,
+      "end": 4868
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch41",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch41_36.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Sloan 一下楼就卸下装新书的箱子，并在书架上腾出充足空间摆放。",
+      "anchor": "Sloan unloaded the box as soon as she came down, having made ample space on one of the shelves for the new books.",
+      "start": 148,
+      "end": 261
+    },
+    {
+      "fact": "Hattie 一直站着没碰她为点心准备、涂了凝脂奶油和果酱的牛角面包，以免陷入白日梦。",
+      "anchor": "hasn’t touched any of the croissants slathered with clotted cream and jam she fixed for their snack",
+      "start": 568,
+      "end": 667
+    },
+    {
+      "fact": "Sloan 说天气反常，断言今年冬天会很难熬。",
+      "anchor": "It’ll be a nasty winter, mark my words.",
+      "start": 922,
+      "end": 961
+    },
+    {
+      "fact": "Hattie 回想 Eeling 关于 Julian 的话——不只是想亲近他，而是在监视他。",
+      "anchor": "It’s not just wanting to be close to him, is it? You’re watching him.",
+      "start": 1077,
+      "end": 1146
+    },
+    {
+      "fact": "Sloan 打听那个连日来访的黑发男子，Hattie 冲他脱口而出指责他窥探别人。",
+      "anchor": "Don’t you have anything better to do than spy on people?",
+      "start": 1592,
+      "end": 1648
+    },
+    {
+      "fact": "Sloan 承认自己爱拿望远镜看人，且因为再也不能游泳而变本加厉。",
+      "anchor": "Been worse since I can’t swim anymore.",
+      "start": 1871,
+      "end": 1909
+    },
+    {
+      "fact": "Hattie 向 Sloan 谎称 Julian 是她儿子的朋友——那个虚构的、自杀身亡的孩子。",
+      "anchor": "He was a friend of my son’s.",
+      "start": 2141,
+      "end": 2169
+    },
+    {
+      "fact": "Sloan 说 Adam 每次上门都会提醒他这里本该还有另一个缺席的人。",
+      "anchor": "I’m always reminded there should be someone else here who’s missing.",
+      "start": 2766,
+      "end": 2834
+    },
+    {
+      "fact": "Hattie 回家看见 Wendy 在门廊等候且满脸泪痕，Wendy 说“他伤了他，很重很重”，并纠正说是 Bastion 而非 Julian 受伤。",
+      "anchor": "He hurt him. Really, really bad.",
+      "start": 5168,
+      "end": 5200
+    }
+  ]
+}

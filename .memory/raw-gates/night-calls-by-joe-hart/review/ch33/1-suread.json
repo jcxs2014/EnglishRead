@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch33",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch33_29.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie抢在Wendy伸手去够门把手之前把门拉开",
+      "anchor": "She pulls the door open as Wendy is reaching out for the knob.",
+      "start": 289,
+      "end": 351
+    },
+    {
+      "fact": "Hattie谎称家里有县审计员，以掩饰Eeling仍在场",
+      "anchor": "“Not company, no. Just”—the gears of her mind spin maddeningly—“a county auditor.”",
+      "start": 568,
+      "end": 650
+    },
+    {
+      "fact": "Wendy说明困境：Kevin被困在法庭，她在图书馆的晚班因同事女儿生病请假而无人替班",
+      "anchor": "Kevin’s stuck in court and my evening shift at the library just called in because her daughter’s sick",
+      "start": 832,
+      "end": 933
+    },
+    {
+      "fact": "Hattie答应照看Julian，并说他们还有拼图要完成",
+      "anchor": "“Of course. No problem at all. We do have a puzzle to finish, do we not?”",
+      "start": 1104,
+      "end": 1177
+    },
+    {
+      "fact": "Wendy拥抱Julian并亲吻他头顶，叮嘱他完成当晚布置的阅读后赶回车里",
+      "anchor": "telling him to make sure he does the reading he’s been assigned for the night",
+      "start": 1454,
+      "end": 1531
+    },
+    {
+      "fact": "Hattie把Julian带进屋，赶在他注意到仍坐在原位的Eeling之前把他推沿走廊送去",
+      "anchor": "scoots him straight down the hallway before he can pause at the sight of Eeling",
+      "start": 1597,
+      "end": 1676
+    },
+    {
+      "fact": "Eeling在门廊上说今天到此为止，明天可以完成并解释一些事情，之后不再打扰",
+      "anchor": "“I think we can finish tomorrow. And I’ll be able to explain some things then.",
+      "start": 2069,
+      "end": 2147
+    },
+    {
+      "fact": "Eeling指出Hattie不单是想靠近那个孩子，而是在监视他",
+      "anchor": "“It’s not just wanting to be close to him, is it? You’re watching him.”",
+      "start": 2614,
+      "end": 2685
+    },
+    {
+      "fact": "Eeling离开后Julian打开房门出现在走廊尽头，Hattie提议去做可可",
+      "anchor": "Julian’s door opens and the boy himself appears at the head of the hallway.",
+      "start": 3067,
+      "end": 3142
+    }
+  ]
+}

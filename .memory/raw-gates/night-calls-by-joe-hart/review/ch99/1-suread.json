@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch99",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch99_94.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "早晨渐渐过去到了下午，雪先变大后停，留下晶莹的寂静。",
+      "anchor": "The snow intensifies, then tapers to nothing, leaving behind crystalline stillness.",
+      "start": 46,
+      "end": 129
+    },
+    {
+      "fact": "Hattie 不停查看手机但没有任何消息。",
+      "anchor": "Hattie continues checking her phone but there’s nothing.",
+      "start": 195,
+      "end": 251
+    },
+    {
+      "fact": "没有人觉得饿，没有人能坐得住。",
+      "anchor": "No one is hungry. No one can sit still.",
+      "start": 316,
+      "end": 355
+    },
+    {
+      "fact": "Tommy 说他不会来了，他们不知怎么把他吓跑了。",
+      "anchor": "He got spooked. We scared him somehow.",
+      "start": 555,
+      "end": 593
+    },
+    {
+      "fact": "Hattie 肯定他还会来，说她从他的声音里听得出来。",
+      "anchor": "He needs to know. I could hear it in his voice.",
+      "start": 672,
+      "end": 719
+    },
+    {
+      "fact": "Colm 在厨房占据位置，好盯着车道。",
+      "anchor": "Colm has taken up position in the kitchen so he can see down the driveway.",
+      "start": 775,
+      "end": 849
+    },
+    {
+      "fact": "Colm 猜想他是故意晚来，等天黑后步行进来而不被察觉。",
+      "anchor": "Maybe he’s waiting for night. Then he can come in on foot without us knowing.",
+      "start": 959,
+      "end": 1036
+    },
+    {
+      "fact": "Tommy 说他们占上风：他不知道他们俩都在这儿，也怀疑他不知道 Hattie 有枪。",
+      "anchor": "But we have the upper hand. He has no idea either of us are here.",
+      "start": 1316,
+      "end": 1381
+    },
+    {
+      "fact": "Hattie 被猛烈摇醒，是 Colm 在摇她，说有人来了。",
+      "anchor": "Someone’s here.",
+      "start": 2319,
+      "end": 2334
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch36",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch36_32.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 沿走廊走向卧室，推开半掩的门，看见自己躺在床上、Tommy 蜷缩在身旁。",
+      "anchor": "She is lying in the middle of the bed and Tommy is curled next to her.",
+      "start": 1043,
+      "end": 1113
+    },
+    {
+      "fact": "她看到自己已经死了：眼睛睁着、嘴部松弛，耳边枕头上有一团深色血迹。",
+      "anchor": "There is a dark inkblot of blood on her pillow behind her ear.",
+      "start": 1330,
+      "end": 1392
+    },
+    {
+      "fact": "Tommy 背对着她蜷成胎儿姿势，穿着旧棒球服，号码 7 在月光下泛白。",
+      "anchor": "the number 7 glowing whitely in the moonlight",
+      "start": 1505,
+      "end": 1550
+    },
+    {
+      "fact": "屋外传来近处的猫头鹰叫声，声音被拖慢，像老式空袭警报缓缓拉响。",
+      "anchor": "It’s beginning to hoot from somewhere very close, except its voice has been slowed to a crawl.",
+      "start": 1954,
+      "end": 2048
+    },
+    {
+      "fact": "Tommy 转身变成 Julian，手里握着 Ed 的木锥——那把 Tommy 从店里偷走、用来杀害四个人的木锥。",
+      "anchor": "The one Tommy stole from the shop and used to murder four people.",
+      "start": 2496,
+      "end": 2561
+    },
+    {
+      "fact": "Julian 凑到她面前超过她身高、对着她的脸冷冷呼吸后，Hattie 睁眼发现自己站在前廊、双手紧抓冰冷栏杆。",
+      "anchor": "She’s standing on her front porch.",
+      "start": 3491,
+      "end": 3525
+    },
+    {
+      "fact": "她进屋在炉子前蹲下，冷得发抖，用拨火棍拨炭并添了几块橡木。",
+      "anchor": "By the time she’s kneeling before the stove she’s shaking so hard she can barely hold the poker long enough to stir the coals and add a few pieces of oak.",
+      "start": 4297,
+      "end": 4451
+    },
+    {
+      "fact": "她回想起睡前已断定屋外没人，把那看成影子加上过度担心的产物。",
+      "anchor": "By the time she brushed her teeth and climbed into bed she’d settled on no.",
+      "start": 4786,
+      "end": 4861
+    },
+    {
+      "fact": "她裹着毯子坐回椅子，意识到那场噩梦源于纯粹的内疚。",
+      "anchor": "guilt. Pure through and through.",
+      "start": 5879,
+      "end": 5911
+    }
+  ]
+}

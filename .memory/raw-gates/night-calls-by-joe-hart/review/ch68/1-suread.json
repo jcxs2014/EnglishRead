@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch68",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch68_63.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie在将近午夜时把4Runner开进院子，差点忘了为防人跟踪而绕路回家的惯例（她脑子里防的是Tommy）。",
+      "anchor": "It was almost midnight by the time she pulled the 4Runner into the yard.",
+      "start": 80,
+      "end": 152
+    },
+    {
+      "fact": "Hattie认定Leah、Dustin、Colm三个人全都撒了谎。",
+      "anchor": "All three of them lied.",
+      "start": 627,
+      "end": 650
+    },
+    {
+      "fact": "私家侦探Eeling曾秘密调查这三个孩子，但每个孩子在Cheryl被杀时都有不在场证明。",
+      "anchor": "but each of the kids had alibis for the time of Cheryl’s murder.",
+      "start": 1293,
+      "end": 1357
+    },
+    {
+      "fact": "Hattie又想起Eeling档案里Ramsby提供的照片，觉得那正是切开这个死结的工具。",
+      "anchor": "the mention of photos from Ramsby in Eeling’s files resurfaces again.",
+      "start": 1689,
+      "end": 1758
+    },
+    {
+      "fact": "Hattie正要进门时电话响了，来电号码是陌生的。",
+      "anchor": "her phone rings. The number is foreign",
+      "start": 2537,
+      "end": 2575
+    },
+    {
+      "fact": "来电者是Adam（她一时没认出声音），他称她为Mary，并为这么晚打电话道歉。",
+      "anchor": "“Mary? Sorry to call you so late—I was just going to leave a message.”",
+      "start": 2822,
+      "end": 2892
+    },
+    {
+      "fact": "Adam叹气说情况不好，出事的是父亲Sloan。",
+      "anchor": "A long sigh. “No. It’s Dad.”",
+      "start": 2975,
+      "end": 3003
+    },
+    {
+      "fact": "Adam告诉Hattie父亲Sloan心脏病发作了。",
+      "anchor": "“He had a heart attack.” Adam pauses",
+      "start": 3074,
+      "end": 3110
+    },
+    {
+      "fact": "Adam说医生们还不确定Sloan能否挺过来。",
+      "anchor": "“They’re not sure he’s going to make it.”",
+      "start": 3201,
+      "end": 3242
+    }
+  ]
+}

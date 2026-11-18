@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch38",
+  "text": "notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch38_33.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "泪水浸湿她的睫毛并顺着脸颊滚落。",
+      "anchor": "Tears wet her eyelashes and roll hotly down her cheeks.",
+      "start": 13,
+      "end": 68
+    },
+    {
+      "fact": "Hattie 抽噎并用手抹脸。",
+      "anchor": "Hattie sniffles and swipes at her face.",
+      "start": 303,
+      "end": 342
+    },
+    {
+      "fact": "Hattie 设想若当初和 Tommy 谈那首诗、不放手、给他治疗，本可救下一些人。",
+      "anchor": "If she had spoken to Tommy about the poem, hadn’t let it go, gotten him treatment of some kind, lives might’ve been saved.",
+      "start": 442,
+      "end": 564
+    },
+    {
+      "fact": "Hattie 被爱的否认蒙蔽过，如今不会再犯同样的错。",
+      "anchor": "But she’d been blinded by love’s denial, and she won’t make that mistake again.",
+      "start": 567,
+      "end": 646
+    },
+    {
+      "fact": "Hattie 在椅子里坐得更深，把梦当作潜意识的警告。",
+      "anchor": "Hattie settles deeper into the chair. The dream was a warning—her subconscious yelling at the top of its lungs",
+      "start": 649,
+      "end": 759
+    },
+    {
+      "fact": "尽管 Tommy 和其子非同一人，Hattie 对 Julian 沾染黑暗冲动的恐惧与日俱增。",
+      "anchor": "Tommy and his son aren’t the same person, but the fear Julian’s stained by dark impulses is becoming sharper inside her",
+      "start": 782,
+      "end": 901
+    },
+    {
+      "fact": "一阵最后的战栗想钻过她身体，但她太疲惫、太暖和，炉火令人平静。",
+      "anchor": "A final shudder tries worming its way through her but she’s too exhausted and warm and the fire is very soothing.",
+      "start": 1062,
+      "end": 1175
+    },
+    {
+      "fact": "她隐约觉得自己其实正要睡着，却不知不觉被卷走。",
+      "anchor": "She has an inkling that she might actually be falling asleep, but then that’s also lost in an undertow so strong she doesn’t know it’s taking her until she’s gone.",
+      "start": 1176,
+      "end": 1339
+    },
+    {
+      "fact": "这一次没有梦。",
+      "anchor": "This time there are no dreams.",
+      "start": 1342,
+      "end": 1372
+    }
+  ]
+}

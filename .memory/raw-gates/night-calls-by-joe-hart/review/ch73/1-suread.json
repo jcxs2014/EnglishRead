@@ -1,0 +1,62 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch73",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch73_68.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie 打开小屋，让 Tommy 先进去。",
+      "anchor": "She unlocks the cottage and lets him inside first.",
+      "start": 13,
+      "end": 63
+    },
+    {
+      "fact": "Tommy 探头看每个房间，只说里面看起来不一样。",
+      "anchor": "“Looks different from inside,” is all he says.",
+      "start": 330,
+      "end": 376
+    },
+    {
+      "fact": "Tommy 洗澡时，Hattie 煎了鸡蛋、培根、土豆饼并烤了几片吐司。",
+      "anchor": "While Tommy showers she cooks eggs, bacon, and hash browns along with several pieces of toast.",
+      "start": 463,
+      "end": 557
+    },
+    {
+      "fact": "Tommy 起初拨弄食物，随后狼吞虎咽地吃起来。",
+      "anchor": "At first, he picks at the food, then eats ravenously.",
+      "start": 686,
+      "end": 739
+    },
+    {
+      "fact": "天亮时 Hattie 把 Tommy 安顿在客房，门留了一条缝。",
+      "anchor": "It’s dawn when she gets him settled in the guest room. She begins to pull the door closed but leaves it partially open instead",
+      "start": 786,
+      "end": 912
+    },
+    {
+      "fact": "她惊讶于 Tommy 轻微的鼾声和 Julian 的一模一样。",
+      "anchor": "She marvels at how his light snoring is the same as Julian’s.",
+      "start": 994,
+      "end": 1055
+    },
+    {
+      "fact": "Hattie 伸手想拨开他额前头发却停住，只把毯子往上拉了拉。",
+      "anchor": "Hattie reaches out to brush some hair off his forehead but stops herself.",
+      "start": 1361,
+      "end": 1434
+    },
+    {
+      "fact": "Hattie 对 Ed 说“我们的儿子回家了”。",
+      "anchor": "“Our boy is home,” she says, speaking to Ed.",
+      "start": 1669,
+      "end": 1713
+    },
+    {
+      "fact": "她低声承诺再也不会放他走。",
+      "anchor": "“I won’t let him go again,” she murmurs as sleep takes her hand and begins leading her away. “I promise.”",
+      "start": 1841,
+      "end": 1946
+    }
+  ]
+}

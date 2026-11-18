@@ -1,0 +1,56 @@
+{
+  "book": "night-calls-by-joe-hart",
+  "chapter": "ch70",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch70_65.txt",
+  "method": "R1 blind suread (subagent read text only, no md/rules)",
+  "facts": [
+    {
+      "fact": "Hattie凌晨三点半回到家，完全不记得自己是怎么开的车。",
+      "anchor": "It’s half past three in the morning when she gets home.",
+      "start": 13,
+      "end": 68
+    },
+    {
+      "fact": "Hattie想起Tommy审判期间她读的一篇报道中那则从那时起一直留在心里的评论。",
+      "anchor": "During Tommy’s trial she’d made the mistake of reading an article covering the proceedings",
+      "start": 457,
+      "end": 547
+    },
+    {
+      "fact": "Hattie走到书房，望向海湾对面Sloan的家，那里仍亮着几盏灯，像灯塔一样召唤她。",
+      "anchor": "looks across the bay to Sloan’s. A few lights are still burning there.",
+      "start": 768,
+      "end": 838
+    },
+    {
+      "fact": "Hattie拿钥匙准备出门时，她的旧电话响了。",
+      "anchor": "Her old phone is ringing.",
+      "start": 1178,
+      "end": 1203
+    },
+    {
+      "fact": "Hattie从抽屉里取出旧电话，看着屏幕上熟悉的号码，在铃声停止前接了起来。",
+      "anchor": "Before the ringing can end, she answers.",
+      "start": 1534,
+      "end": 1574
+    },
+    {
+      "fact": "Hattie说自己八年来一直活在Tommy造成的破坏和她自身罪疚的阴影里。",
+      "anchor": "She’s lived for eight years in the shadow of his destruction and her own guilt.",
+      "start": 1868,
+      "end": 1947
+    },
+    {
+      "fact": "Hattie终于对电话那头发问“你是谁？”",
+      "anchor": "“Who is this?” she says.",
+      "start": 1961,
+      "end": 1985
+    },
+    {
+      "fact": "对方轻轻吸了一口气，随即挂断了电话。",
+      "anchor": "There’s a quiet inhale, then the line goes dead.",
+      "start": 1988,
+      "end": 2036
+    }
+  ]
+}

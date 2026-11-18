@@ -1,0 +1,362 @@
+{
+  "chapter": 58,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/ch58 he was sleeping in my bed.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/night-calls-by-joe-hart/text/ch58_53.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Hattie replays the exchange, then sits back and holds her mug of tea to warm her hands. Leah had never mentioned a confr",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She stops for lunch—not hungry but eating anyway. Picking at a salad, she cues up another interview. This one is labeled",
+          "ok": true,
+          "pos": 419
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Well, I suppose so. It's been over a decade since this all happened. Half the people involved have either moved away or ",
+          "ok": true,
+          "pos": 906
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The break-ins, you mean? Well, it was summer, I know that much because the Earls—they were the first to get burgled—were",
+          "ok": true,
+          "pos": 1262
+        }
+      ],
+      "words": 145
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Sure. It's odd how other things are starting to slip at my age, but that I can remember clear as day. It was later that ",
+          "ok": true,
+          "pos": 2032
+        }
+      ],
+      "words": 175
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Dustin Reiten. That's right. It turns out he was the one behind the break-ins. Some of the places he was familiar with—h",
+          "ok": true,
+          "pos": 2894
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "And you said beforehand you thought it stemmed from his sister's death? Oh yes, poor Alicia. She was a troubled one. She",
+          "ok": true,
+          "pos": 3331
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "For a moment Hattie can feel Dustin's young shoulders quaking as she'd held him all those years ago. Recalls her own tea",
+          "ok": true,
+          "pos": 3785
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I'm sure of it. I think he was looking for comfort he wasn't getting at home. The houses he broke into were safe places ",
+          "ok": true,
+          "pos": 4085
+        }
+      ],
+      "words": 124
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He wasn't really doing anything. Jane pauses and sighs. He was sleeping in my bed",
+          "ok": true,
+          "pos": 4730
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 10
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 9
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 9
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 8
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 25,
+        "读者视角提示": 6
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 13
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 11
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "58. Chapter 53",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 3,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 905,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 103 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句4",
+        "words": 145
+      },
+      {
+        "block": "原句5",
+        "words": 175
+      },
+      {
+        "block": "原句9",
+        "words": 124
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
