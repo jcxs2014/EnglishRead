@@ -28,10 +28,10 @@ modified: "2026-11-18"
 **为什么这样写**：「宽恕的脸」比怒脸更难面对——Anne 的善良成了她无法递交死讯的原因；「It is mine」的占有宣言第一次用在悲伤上：她终于有一件完全属于自己的东西——失去。
 **读者视角提示**：把「不分享悲伤」与「不分享食物」（ch09 只喝不吃）并排：她的所有权清单只剩损失。Oren 与悲是同一笔遗产的两半。
 
-> **原句 3:** "My tears are gone. I am an empty being, nothing but bone and flesh moving only because I must. So down I go, down and down and down, past the rats sitting black and plump on the steps, into the cold, the damp and the dark. I scrape back the earth, clawing at it until I reach her. … My mother slumbers deeply, her flesh peeling, decay blooming over her corpse. I slip down beside her, and she is featherlight in my arms. I curl into her, into the sharp sweetness. I fit within the hollow of her neck, like I was made to be there, a missing piece."
+> **原句 3:** "My tears are gone. I am an empty being, nothing but bone and flesh moving only because I must. … So down I go, down and down and down, past the rats sitting black and plump on the steps, into the cold, the damp and the dark. I scrape back the earth, clawing at it until I reach her. … My mother slumbers deeply, her flesh peeling, decay blooming over her corpse. I slip down beside her, and she is featherlight in my arms. I curl into her, into the sharp sweetness. I fit within the hollow of her neck, like I was made to be there, a missing piece."
 
 **中文理解**：泪没了。我是个空的造物——只剩骨头与肉，动只因为不得不动。于是我往下走，一层又一层，走过蹲在台阶上又黑又肥的鼠，走进冷、潮与暗里。我扒开土，抓到她为止。 ……母亲沉睡着，皮在剥，腐在她尸上开花。我滑到她身边——她在怀里轻得像羽毛。我蜷进她，蜷进那种尖锐的甜里。我嵌进她颈窝——像生来就该在那儿，一块缺失的拼图。
-**关键词**：past the rats sitting black and plump / she is featherlight in my arms / I fit within the hollow of her neck, like I was made to be there / a missing piece
+**关键词**：past the rats sitting black and plump / she is featherlight in my arms / I fit within the hollow of her neck, like I was made to be there
 **为什么这样写**：颈窝的嵌合回收 ch05 的「tucked beneath my chin」（Oren 怀里的同款姿势）——她把 Oren 的抱法移植到母亲身上：身体学不会新的拥抱，只会换人重演；「missing piece」的拼图术语是她对「完整」的最后定义。
 **读者视角提示**：把「同一个姿势、两个人」记成她的情感悲剧：她一生只有一个拥抱的形状，谁来填都往那个模子里塞。
 
@@ -49,7 +49,7 @@ modified: "2026-11-18"
 **为什么这样写**：母亲的「我不会别的」与 Rue 的「你本可以」是全书最关键的两句对话：天赋论与可能论的正面交锋——母亲把恶归为天性，女儿指出那从来是选择；「show me」是母亲第一次低头求学：她向女儿学爱。
 **读者视角提示**：把这两句话记成本书的哲学核心：如果爱是可以学的，母亲的全部暴行就成了选择；如果不能，她只是另一种物种。Rue 掏心之前，先提出了这个命题。
 
-> **原句 6:** "There is blood around her mouth, and it is red; it is splattered over her nightgown, and it has stained her pale hands down to her knuckles. She wears Oren as I do, both of us dripping in blood and ash. … “What is there to do?” I ask. “We are the only ones left here at Folkehaven, just you and me. Is that what you wanted?” … Her answer hisses through her teeth. “Yes.” … “Until it falls down around us?” … My mother strokes my cheek, smearing my skin with dirt and old blood. “We can live beneath the ruins, down here, where it is safe. You will not have to leave me.”"
+> **原句 6:** "There is blood around her mouth, and it is red; it is splattered over her nightgown, and it has stained her pale hands down to her knuckles. She wears Oren as I do, both of us dripping in blood and ash. … “What is there to do?” I ask. “We are the only ones left here at Folkehaven, just you and me. Is that what you wanted?” … Her answer hisses through her teeth. “Yes.” … My mother strokes my cheek, smearing my skin with dirt and old blood. “We can live beneath the ruins, down here, where it is safe. You will not have to leave me.”"
 
 **中文理解**：她嘴边有血——红的；溅在睡裙上，把她苍白的手一直染到指节。她穿着 Oren，跟我一样——我们两个都滴着血与灰。 ……「还能做什么呢？」我问。「Folkehaven 只剩我们俩了——你和我。这就是你想要的吗？」 ……她的回答从齿缝里嘶出来。「是。」 ……「直到它塌在我们头上？」 ……母亲抚我的脸，把泥与陈血抹在我皮肤上。「我们可以活在废墟底下——就在这儿，安全的地方。你就不用离开我了。」
 **关键词**：She wears Oren as I do / We are the only ones left here at Folkehaven / Is that what you wanted? “Yes.” / You will not have to leave me.
@@ -80,14 +80,14 @@ modified: "2026-11-18"
 > **原句 10:** "There is no love without fear, without pain. … And I pull, taking what is mine. Her arteries snap, spilling black ichor over my fingers; the threads tangle through my fingers, bloodied vines holding me to her. My mother’s hands are still on my cheek, nails digging in, taking my blood while I take hers. She arches, spine snapping, flesh withering."
 
 **中文理解**：没有不带恐惧、不带疼的爱。 ……而我拉——拿走属于我的。她的动脉崩断，黑脓溅上我的手指；线头缠过我的指缝，血藤把我拴在她身上。母亲的手还停在我脸颊上——指甲抠进去，在我取她的血时她取我的血。她弓起背，脊椎咔地折断，皮肉枯萎。
-**关键词**：There is no love without fear, without pain. / taking what is mine / bloodied vines holding me to her / taking my blood while I take hers
+**关键词**：no love without fear, without pain / taking what is mine / bloodied vines holding me to her / taking my blood while I take hers
 **为什么这样写**：「没有不带恐惧与疼的爱」是对母亲哲学（no love without ruination）的半步改写：她没有否认爱会疼——她否认的是「所以要先毁」；互相取血的对称句（while I take hers）把弑母写成了最后一次哺乳。
 **读者视角提示**：把两个命题并排：母亲版「爱必须经毁灭」vs 女儿版「爱必然带恐惧与疼」——前者把疼当工具，后者把疼当成分。全书站在这两条公理的裂缝上。
 
 > **原句 11:** "“Do you love me?” I demand, needing it still, even now.  My hands are knotted in her. “Tell me you love me.” … My mother opens her mouth, skin tearing at the edges, teeth too sharp, so sharp. She does not answer, but more black spills from her eyes before she finally stills, and moves no more. … I have to rip her fingernails from my face; her last embrace will scar."
 
 **中文理解**：「你爱我吗？」我逼问——到了这时我仍然需要它。我的手绞在她身体里。「告诉我你爱我。」 ……母亲张开嘴，皮从边缘撕裂，牙太尖、那么尖。她没有回答——更多的黑从眼里涌出来——然后她终于静止，再也不动了。 ……我不得不把她抠进我脸的指甲一根根掰下来；她最后的拥抱会留疤。
-**关键词**：Do you love me? I demand, needing it still, even now. / She does not answer / more black spills from her eyes / her last embrace will scar
+**关键词**：Do you love me? I demand, needing it still, even now. / She does not answer / more black spills from her eyes
 **为什么这样写**：最后的索爱得到的是沉默加黑泪——母亲至死没有说「爱」，但她的手到死没有松开：答案与回答分了家；「last embrace will scar」把全书第一处疤（ch01 Veronica 抓的 lace）与最后一处连成疤的目录。
 **读者视角提示**：把「没说出口的爱、没松开的手」记成本书对母爱的最终判词：它不是没有，是它只会用爪子表达。Rue 脸上的疤就是这份爱的收据。
 
