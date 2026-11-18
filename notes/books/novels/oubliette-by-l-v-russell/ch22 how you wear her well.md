@@ -17,7 +17,7 @@ modified: "2026-11-18"
 > **原句 1:** "They have gathered at my mother’s door, the Ladies. I hear them knocking, banging, their hands frantic. They call for my mother, the ones that have come, those that could. We watch them from the window in the library: my mother in all her glory, hair unbound and shining, blue gown clinging to her body like skin. Then there is me beside her, dressed as well as I could on my own, wearing a stained cream dress I could not get the blood out of."
 
 **中文理解**：她们聚在母亲门前了——那些夫人。我听见敲门、砸门，手忙脚乱。来的、能来的，都在喊我母亲。我们在书房窗边看：母亲盛装华彩，长发散着、亮着，蓝裙贴在身上像第二层皮肤。我站在她旁边，自己能拾掇成什么样就是什么样——穿着一条血渍洗不掉的奶油色裙子。不过我发现，找酒我倒是相当在行。面前有一杯，半空，深色的酒把浆果与烟草的气味放出来，飘满一室。
-**关键词**：knocking, banging, their hands frantic / blue gown clinging to her body like skin / a stained cream dress / capable of finding the wine
+**关键词**：knocking, banging, their hands frantic / blue gown clinging like skin / a stained cream dress / capable of finding the wine
 **为什么这样写**：母女并肩看客的构图是权力交接的现场照：母亲华服、女儿血渍——但找酒的技能在乱局里自报家门；「clinging like skin」的裙贴肤比喻回收 ch19 的「flesh fall away」——这个家的衣裳与皮肉一直分不清。
 **读者视角提示**：记住「洗不掉血的奶油裙」——她的礼服档继续失守（黄裙是 Hope 的、奶油裙是 Veronica 的余渍）。
 
@@ -52,14 +52,14 @@ modified: "2026-11-18"
 > **原句 6:** "The heavy door creaks when I pull it open, and I stand before the remaining Ladies, those who once dined with my mother and laughed and handed over their offerings with a righteous glee. They are as I am, as my mother is, maybe more so. My mother’s nature is hunger; theirs is greed and boredom."
 
 **中文理解**：沉重的门被我拉开时吱呀作响——我站在余下的夫人们面前。她们曾与我母亲同席欢笑、怀着问心无愧的兴头交上她们的祭品。她们像我，像我母亲，甚至更甚。我母亲的天性是饥饿；她们的是贪婪与无聊。
-**关键词**：a righteous glee / They are as I am, as my mother is / hunger; theirs is greed and boredom
+**关键词**：a righteous glee / They are as I am, as my mother is, / hunger; theirs is greed and boredom
 **为什么这样写**：物种鉴定书第一次给三方分类：母亲=饿、Ladies=贪+无聊、她自己=？（类比排序留白——「as I am」把她放进同一栏）；「righteous glee」的供品心态是最毒的一笔：她们当年递人时觉得是正义。
 **读者视角提示**：把这张三栏物种表记下——它定义了本书的道德生态位。Ladies 死后，Rue 会继承哪一栏，是结局的悬念。
 
 > **原句 7:** "They stagger in, some with bloodied cloths at their mouths. I allow them to settle and collapse at the table, to sit surrounded by the ghosts they helped to gather. The table is laden with fruits and pastries, an abundance of delicacies waiting there among those with no appetites. Without Veronica, the task of gathering the food for the feast fell to me. My mother sent me out, baskets in hand, to the markets. I did manage, but I would have suggested hiring a cook, or another maid, if I knew Mother would not eat them."
 
 **中文理解**：她们踉跄着进来，有的嘴角按着渗血的布。我由她们在桌边瘫坐下来——坐在她们帮忙凑齐的那群鬼中间。桌上堆满水果与点心——一桌丰盛宴席摆在一群没有胃口的人中间。没有 Veronica，宴席的采买落到了我头上。母亲塞给我篮子打发我去市场。我确实办到了——不过要是早知道母亲不会把帮工吃掉，我本会建议雇个厨子，或者再来个女仆。
-**关键词**：surrounded by the ghosts they helped to gather / an abundance of delicacies / those with no appetites / Mother would not eat them
+**关键词**：ghosts they helped to gather / an abundance of delicacies / those with no appetites / Mother would not eat them
 **为什么这样写**：「坐在她们凑齐的鬼中间」是最精确的报应布局：供货人被自己的货围坐；采买自述把雇人悲剧（帮厨女孩）翻成黑色账目——她连建议雇人的资格都被母亲的胃口作废。
 **读者视角提示**：注意她买齐了一桌宴——为即将被吃的人置办了最后的体面。这宅子的待客之道从不省细节。
 
@@ -101,7 +101,7 @@ modified: "2026-11-18"
 > **原句 13:** "“How splendid!” My mother claps her hands, watching in glee as they fall, lungs erupting, black spewing from their yawning mouths. She returns to Lady Bellamy at her feet, and with a gentle touch she pulls her close, pulling her head in her lap. … I want to lay my head there, to have my mother’s fingers in my hair, to hear her whisper over me. I would not care about the words; she could dribble sins over me, and I would fill myself up on them. I long to rest my head in her lap."
 
 **中文理解**：「多壮观！」母亲拍着手，兴致勃勃地看着她们一个个倒下——肺炸开，黑东西从大张的嘴里喷涌。她回到跪着的 Bellamy 身边，温柔地把她拉近，把那颗头抱进自己腿上。母亲的目光没有离开我，手上继续抚着 Bellamy 被汗浸透的头发。 ……我想把头放那儿——想要母亲的手指插在我的头发里，听她在我上方低语。我不在乎说什么；她可以往我身上滴罪，我会拿它们把自己填满。我渴望把头枕上她的膝。
-**关键词**：watching in glee / pulls her close, pulling her head in her lap / she could dribble sins over me / long to rest my head there
+**关键词**：watching in glee / pulling her head in her lap / she could dribble sins over me / long to rest my head there
 **为什么这样写**：膝枕的温柔给垂死者、目光钉给女儿——她被排在观众的位子上；「dribble sins over me, and I would fill myself up on them」的自白是全书最卑微的一句：连罪都可以当奶喝。
 **读者视角提示**：把「嫉妒将死之人」记成 Rue 的饥饿新层级：食物的饿（母亲的）之外，她开始饿温柔。Oren 给的那种。
 
@@ -115,7 +115,7 @@ modified: "2026-11-18"
 > **原句 15:** "I linger until all is still and the moans have silenced. When all is as it should be, I snatch the bottle of wine from the table and walk away.  “I will not be cleaning this up,” I say without looking behind me. … My mother says nothing. There is no gentle word or gentle touch, nothing like what she bestowed upon Lady Bellamy. I feel the absence of it, the emptiness beneath my skin only she can fill."
 
 **中文理解**：我待到一切静止、呻吟平息。该怎样就怎样之后，我抄起桌上的酒瓶就走。「这我不打扫，」我没回头地说。 ……母亲什么也没说。没有温柔的话，没有温柔的抚触——没有一点她方才赏给 Bellamy 的那种东西。我感觉到了那份缺席——皮肤底下那个只有她能填的空洞。
-**关键词**：I linger until all is still / I will not be cleaning this up / no gentle word or gentle touch / the emptiness beneath my skin only she can fill
+**关键词**：I linger until all is still / I will not be cleaning this up / no gentle word or gentle touch / emptiness only she can fill
 **为什么这样写**：拿酒走人+丢下打扫宣言是她离家制度化的宣言：侍女的活她不再接——Veronica 的职位没人补了；缺席的记账（emptiness only she can fill）与「嫉妒膝枕」首尾呼应：她吃不到温柔，就把这口饿记在母亲账上。
 **读者视角提示**：把「只有她能填的空洞」与 ch18 的「话能填饱」并排——两种饱腹疗法她在同时使用，而母亲的那个永远断供。这是她倒向 Oren 的全部力学。
 
