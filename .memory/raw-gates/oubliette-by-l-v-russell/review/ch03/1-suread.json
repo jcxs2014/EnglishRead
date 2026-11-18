@@ -1,0 +1,61 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch03",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "绿裙污渍之争开场",
+   "anchor": "Veronica scrubs at the dark stains on my gown until her hands go raw",
+   "start": 64,
+   "end": 132
+  },
+  {
+   "fact": "裙被扔进火",
+   "anchor": "Without a word, she wrenches it from the water and flings it into the fire",
+   "start": 332,
+   "end": 406
+  },
+  {
+   "fact": "血洗得掉、坟泥洗不掉",
+   "anchor": "“I can get the blood out, girl, but that clay has set",
+   "start": 408,
+   "end": 461
+  },
+  {
+   "fact": "Rue 冷静下单重做",
+   "anchor": "“You will have another one made for me,”",
+   "start": 776,
+   "end": 816
+  },
+  {
+   "fact": "天使论 vs 怪物论",
+   "anchor": "She sees my mother as an angel, but it is far from the truth.",
+   "start": 1534,
+   "end": 1595
+  },
+  {
+   "fact": "Rue 断言 Veronica 终有一死",
+   "anchor": "Veronica will rot one day.",
+   "start": 1953,
+   "end": 1979
+  },
+  {
+   "fact": "烂苹果+扎心一句",
+   "anchor": "I take a bruised apple from the bowl on the table and bite deeply",
+   "start": 2331,
+   "end": 2396
+  },
+  {
+   "fact": "Anne 登场+未婚夫被吃揭底",
+   "anchor": "“Anne Pengelly,” Veronica hisses in my ear.",
+   "start": 4319,
+   "end": 4362
+  },
+  {
+   "fact": "对 Anne 的欢乐起食欲",
+   "anchor": "I want to tear it from her, or a little piece of it",
+   "start": 4861,
+   "end": 4912
+  }
+ ]
+}
