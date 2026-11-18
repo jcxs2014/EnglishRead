@@ -38,7 +38,7 @@ modified: "2026-11-18"
 > **原句 4:** "“You're not calling anyone,” Kai interrupted gently, his grip on her arm warm and unyielding. “I'm taking you home.” … Yna opened her mouth to mount a fierce defense of her personal independence—“I don't need a babysitter, I am a capable adult woman”—but the floor took another treacherous dip."
 
 **中文理解**：「你谁都别叫，」Kai 温和地打断她，扣着她手臂的手温热而不容置疑。「我送你回家。」她的辩护还没出口就死在了舌头上。她没有把他推开，手指反而死死扣住他的小臂，攥着他大衣上昂贵的羊毛，像攥着一根救生索。
-**关键词**：I'm taking you home / like a lifeline
+**关键词**：I'm taking you home / his grip on her arm warm and unyielding
 **为什么这样写**：「我送你回家」五个字接管了全场——他的语气温和，决定却不容上诉。她的手比嘴诚实：嘴在组织独立宣言，手已经把他当成了唯一可靠的支撑物。
 **读者视角提示**：记住「救生索」——这是她第一次在物理上全然依靠他，而且是醉着承认的。
 

@@ -38,7 +38,7 @@ modified: "2026-11-18"
 > **原句 4:** "Yna hesitated in mid-stride, caught off guard by the quiet directness of the acknowledgment. She gave him a brisk, professional nod in return and quickly hurried along the corridor. … “How was the morning rush?” Trina asked, leaning back in her chair with a grin as Yna passed her desk again. “I saw you pull into the lot. You looked like you were winning a drag race.” … “Something like that,” Yna laughed, smoothing down her blazer."
 
 **中文理解**：Kai 在通话中说到一半停住了，手指在电话上收紧了一圈，随即恢复如常。他把注意力完整转向她，脸上的紧绷退去，给了她一个缓慢的点头。Yna 在步伐中间顿住，被这个致意的安静直接性打了个措手不及。她回了一个利落、职业的点头，然后匆匆沿走廊走开。「今天早高峰怎么样？」Trina 靠回椅背，笑着问又经过她桌边的 Yna。「我看见你进车位了。看起来像在赢一场直线加速赛。」「差不多吧，」Yna 笑着抚平西装外套。
-**关键词**：paused mid-sentence on his call / the quiet directness / a brisk, professional nod / winning a drag race
+**关键词**：the quiet directness / a brisk, professional nod / winning a drag race
 **为什么这样写**：两个点头的信息量不对等：他给的是「缓慢」，她还的是「利落」——一慢一快之间是两种克制的赛跑。Trina 的直线加速赛玩笑给她的慌乱盖了个财务章：她连走路都在超速。
 **读者视角提示**：记住这对点头——玻璃时代他们全部的对话，都压缩在点头速度差里。
 
@@ -112,7 +112,7 @@ modified: "2026-11-18"
 **为什么这样写**：她给自己找的降温借口被叙述者当场没收（不是灯）——物理归因的失败就是心动确诊。与 Kai 的咖啡机故障互为镜像：两人都拿设备当替罪羊。
 **读者视角提示**：记住这对镜像——他的咖啡机、她的灯：设备背锅是他们最早的共同语言。
 
-> **原句 15:** "His back was to the door, the muscles in his neck pulled tight as he stared down at the espresso machine as though the machine had personally betrayed him. … Yna stopped in the doorway. “Are you okay?” … Kai didn't turn around. “Perfectly.” … Kai didn't turn around. “Perfectly.” … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … “You appear to be interrogating a coffee machine.” … A long, heavy silence stretched across the kitchen. … “I'm considering my options,” Kai said."
+> **原句 15:** "His back was to the door, the muscles in his neck pulled tight as he stared down at the espresso machine as though the machine had personally betrayed him. … Yna stopped in the doorway. “Are you okay?” … Kai didn't turn around. “Perfectly.” … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … “You appear to be interrogating a coffee machine.” … A long, heavy silence stretched across the kitchen. … “I'm considering my options,” Kai said."
 
 **中文理解**：不锈钢操作台边站着的，是 Kai。他背对着门，颈侧的肌肉绷得死紧，低头瞪着那台咖啡机，仿佛机器亲手背叛了他。Yna 在门口停住。「你还好吗？」Kai 没有回头。「好得很。」她看着那只空空如也、歪放在他手里的浓缩咖啡杯。「你看上去在审讯一台咖啡机。」一段漫长而沉重的沉默横过厨房。「我在考虑我的选项，」Kai 说。
 **关键词**：the machine had personally betrayed him / Perfectly. / interrogating a coffee machine / I'm considering my options

@@ -80,7 +80,7 @@ modified: "2026-11-18"
 > **原句 10:** "“We're fine without them,” Kai said smoothly, taking the chair directly across from her. He opened his tablet to a blank document titled Author Profile & Brand Narrative. “A public bio shouldn't read like it was drafted by a corporate committee anyway. It needs to capture the voice behind the manuscript.” … Yna picked up half of her panini, taking a bite before letting out a soft sigh. “Usually author bios are just three sentences: Yna Martinez lives in a house, drinks too much coffee, and enjoys long walks away from laundry.”"
 
 **中文理解**：「他们不在也没关系，」Kai 顺滑地说，在她正对面落座。他在平板上开出一个空白文档，标题写着作者档案与品牌叙事。「公开的作者简介本来就不该读起来像委员会草拟的。它得抓住手稿背后的那个声音。」Yna 拿起半个帕尼尼，咬了一口才轻轻叹气。「通常作者简介就三句话：Yna Martinez 住在一栋房子里，咖啡喝得太多，喜欢远离洗衣机的长距离散步。」
-**关键词**：Author Profile & Brand Narrative / capture the voice behind the manuscript / The standard template works for standard authors
+**关键词**：Author Profile & Brand Narrative / capture the voice behind the manuscript / We're fine without them
 **为什么这样写**：清场后的会议只剩一个议题：她是谁。他的开场把商业文档写成人物特稿的邀请——而她的自嘲简介（房子、咖啡、躲家务）正是她一贯的自贬式幽默，先把自己压低再等人反驳。
 **读者视角提示**：记住「抓住手稿背后的声音」——他问的不是资料，是她愿意公开哪一层的自己。
 
