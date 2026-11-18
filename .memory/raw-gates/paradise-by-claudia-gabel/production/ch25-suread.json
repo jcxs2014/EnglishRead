@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch25",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch25_paradise.txt",
+ "facts": [
+  {
+   "fact": "风暴预计在一两个小时内北移离开。",
+   "anchor": "While the storm is expected to move north in the next hour or two",
+   "start": 0,
+   "end": 65
+  },
+  {
+   "fact": "坏消息：岛上又出了另一个紧急事件（another emergency）——具体是什么没有说。",
+   "anchor": "unfortunately, another emergency has arisen on the island",
+   "start": 67,
+   "end": 124
+  },
+  {
+   "fact": "一旦天气系统完全过去，将从 Welcome Center 疏散到游轮上。",
+   "anchor": "We will have to evacuate from the Welcome Center to the cruise ship once this weather system fully clears.",
+   "start": 126,
+   "end": 232
+  },
+  {
+   "fact": "承诺随时更新疏散的流程、时间与时长（as we have it）。",
+   "anchor": "We will keep you updated on the procedure, timing, and duration of the evacuation as we have it.",
+   "start": 233,
+   "end": 329
+  },
+  {
+   "fact": "感谢客人保持冷静，在\"意外的局势转折\"中保持耐心。",
+   "anchor": "Thank you for remaining calm, and your continued patience during this unexpected turn of events.",
+   "start": 332,
+   "end": 428
+  }
+ ]
+}
