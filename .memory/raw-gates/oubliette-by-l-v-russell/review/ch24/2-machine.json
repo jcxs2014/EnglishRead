@@ -1,0 +1,499 @@
+{
+  "chapter": 24,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch24 the fouled seed.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch24_sylvatica.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "We are a desolation to the world",
+          "ok": true,
+          "pos": 23
+        },
+        {
+          "text": "There are towns we leave behind as nothing more than ash and bone. The snow is painted in the most beautiful shades of s",
+          "ok": true,
+          "pos": 57
+        },
+        {
+          "text": "Months carve their way around us, falling into years. We have left Norfolk far behind us, becoming creatures of whispere",
+          "ok": true,
+          "pos": 283
+        }
+      ],
+      "words": 102
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "And oh, I am beautiful. Not the gentle beauty of the ladies from the fine houses, but the everlasting beauty of death, a",
+          "ok": true,
+          "pos": 586
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It grows, the hunger, a gnawing ache deep inside me that needs more and more to quieten. I am tired, my bones splinterin",
+          "ok": true,
+          "pos": 922
+        },
+        {
+          "text": "Piceus does not come for me. I spend days beneath the ground before he returns",
+          "ok": true,
+          "pos": 1233
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Come.” Piceus finally drags me from my grave and takes my hand, his grip sharp, leading me down roads and twisting lane",
+          "ok": true,
+          "pos": 1313
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "We pass over a stone bridge, the moat beneath long dried, the earth cracked. Withered reeds cling to the edges, sun-scor",
+          "ok": true,
+          "pos": 1635
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You must remain here, Sylvatica,” Piceus says, leading me inside. “You have sated me quite nicely, and I thank you for ",
+          "ok": true,
+          "pos": 2007
+        },
+        {
+          "text": "Inside the manor, there are tapestries, paintings of long-dead kings and queens; there are riches spilled out over cabin",
+          "ok": true,
+          "pos": 2130
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Piceus touches my face, nails leaving pain behind. “As am I, my little forget-me-not.”",
+          "ok": true,
+          "pos": 2500
+        },
+        {
+          "text": "He turns his back on me; a distance that never was settles between us. He is to leave me—I know it then. He moves quickl",
+          "ok": true,
+          "pos": 2585
+        },
+        {
+          "text": "Through the winding hallways I chase after him, and it appears that the shadows fall down from the corners of the house ",
+          "ok": true,
+          "pos": 2733
+        }
+      ],
+      "words": 102
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You cannot leave me!”",
+          "ok": true,
+          "pos": 3023
+        },
+        {
+          "text": "“Oh, but I must.” His voice is too soft, a caress with teeth. “You are more than hunger now. I taste it in your blood, i",
+          "ok": true,
+          "pos": 3044
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You lie!” I scream at him, dragging my nails down the ruins of his shirt. “I am death!”",
+          "ok": true,
+          "pos": 3287
+        },
+        {
+          "text": "“Not you.” Piceus captures my hands with his, and thrusts me away. I fall at his feet, fingers splayed out in the puddle",
+          "ok": true,
+          "pos": 3372
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Take it from me!” I scrabble on the stone, desperate. “I do not want it! Tear it from me if you must, but do not forsak",
+          "ok": true,
+          "pos": 3676
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "With the rain thrashing at my face, I obey, my feet sliding on the slick stone beneath, my heart burning with fury. I wi",
+          "ok": true,
+          "pos": 3962
+        },
+        {
+          "text": "By some witchery, the moat is filling fast; muddy waters rush around, churning the earth, filling the air with the sound",
+          "ok": true,
+          "pos": 4128
+        },
+        {
+          "text": "“Wait!” I screech into the night. My feet slip, and the rain continues to fall; thunder rolls and the storm awakens full",
+          "ok": true,
+          "pos": 4273
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Piceus turns, one hand outstretched, reaching for me, and I almost grasp it; my fingers brush his on the bridge, and the",
+          "ok": true,
+          "pos": 4436
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I recoil away from the bridge, crawling away like a beast. “Do not leave me here. Do not leave me in this misery!”",
+          "ok": true,
+          "pos": 5011
+        },
+        {
+          "text": "“But I am sated.” He smiles, stepping further away. The sound of hoofbeats shakes through the storm; there is the sound ",
+          "ok": true,
+          "pos": 5124
+        },
+        {
+          "text": "A new pain blooms, not within my chest nor my throat, but there far beneath my ribs, deep within a belly that has, for c",
+          "ok": true,
+          "pos": 5336
+        }
+      ],
+      "words": 99
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 121,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 124,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "24. Sylvatica",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 2,
+    "segments": 25,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1037,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 102
+      },
+      {
+        "block": "原句7",
+        "words": 102
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
