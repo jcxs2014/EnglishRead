@@ -69,7 +69,7 @@ modified: "2026-11-18"
 **为什么这样写**：Rue 的安慰课在此开讲——她给的哀悼许可有独创性：悼念的对象不是死者本人，是「她留下的空位」和「你希望她成为的人」——这个区分救了 Anne（不必假装爱过）；「then when can we?」的反问句是她从自己的世界偷来的道理：在 Folkehaven，没有「允许崩溃」的时刻表，她自己就是这样被训练大的。
 **读者视角提示**：这是 Rue 第一次当老师。她教的内容全部来自她的缺课清单——她把自己没得到的安慰，现场发明了一遍给了 Anne。
 
-> **原句 9:** "I stand beside Oren, and we both look down at the mound of fresh earth covering his mother. It is an odd thing, knowing she will stay beneath the dirt; hands ache to claw her free. Veronica stands at the grave too, feet close to the disturbed earth as though she is thinking the same."
+> **原句 9:** "I stand beside Oren, and we both look down at the mound of fresh earth covering his mother. It is an odd thing, knowing she will stay beneath the dirt; my hands ache to reach down and claw her free. Veronica stands at the grave too, feet close to the disturbed earth as though she is thinking the same."
 
 **中文理解**：我站在 Oren 身边，我们一起低头看着那座盖住他母亲的新土堆。有件事很奇怪：明明知道她将留在土底下，我的双手却痒着要伸下去把她刨出来。Veronica 也站在坟边，脚尖贴着翻动过的新土，仿佛在想同一件事。
 **关键词**：the mound of fresh earth / hands ache to claw her free / feet close to the disturbed earth / thinking the same
