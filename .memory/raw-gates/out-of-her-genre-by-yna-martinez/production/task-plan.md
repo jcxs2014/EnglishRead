@@ -39,9 +39,9 @@
 | 23 | ch23_chapter_23 | 2060 | The Steep Time | 25a547c2c |
 | 24 | ch24_chapter_24 | 2001 | The Approaching Storm | 402891302 |
 | 25 | ch25_chapter_25 | 2038 | The Canopy of Glass | 2e862f5ad |
-| 26 | ch26_chapter_26 | 1739 | The Unscripted Title | |
-| 27 | ch27_chapter_27 | 2031 | The Floral Handover | |
-| 28 | ch28_chapter_28 | 1565 | Pure Fiction | |
+| 26 | ch26_chapter_26 | 1739 | The Unscripted Title | ded09c705 |
+| 27 | ch27_chapter_27 | 2031 | The Floral Handover | 33f557a37 |
+| 28 | ch28_chapter_28 | 1565 | Pure Fiction | cbe7ba5f5 |
 | 29 | ch29_chapter_29 | 1307 | The Edge of the River | |
 | 30 | ch30_chapter_30 | 1211 | Round Tables and Red Bean Buns | |
 | 31 | ch31_epilogue | 1003 | Epilogue · Sandcastles and Sovereign Rulers | |
