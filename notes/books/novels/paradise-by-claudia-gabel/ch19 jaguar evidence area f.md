@@ -8,7 +8,7 @@ modified: "2026-11-19"
 ## 本章导航
 - **一句话概括**：四人搜索队在 Plunge 工地找到爪痕（初判美洲豹），躲进拖车防水布下偷听到 Jones 夫妇的通话——走私的美洲豹因运输疏忽逃脱、订房量连跌 25%、秘密项目必须上线救岛；树屋对质从"恶作剧"指控推进到 Avery Max 主动带队去看 secret project。
 - **情感弧线位置**：真相正式落地——"怪物"被证实为非法走私的美洲豹，岛的经济危机与其安全危机焊死；四人组从"找证据"升级为"找同盟"。
-- **Tropes 兑现/反转**：兑现"偷听定罪"的高光戏码；三重反转——录音没带出来（证据归零）、Avery 姐弟其实道歉过（被 ghosted）、最后伸手的是"嫌疑人家属"。
+- **Tropes 兑现/反转**：兑现"偷听定罪"的高光戏码；三重反转——录音没带出来（证据归零）、Avery 兄妹其实道歉过（被 ghosted）、最后伸手的是"嫌疑人家属"。
 - **人物弧线**：Lily（带队者+危机公关）；Milo（专家判读+证据失手的自责）；Jordan（rush 的审讯者被 Sam 拉住）；Avery/Max（从拒不接受到同谋调查）。
 - **叙事手法**：偷听戏用"防水布下+电话外放"的封闭场景做信息投放；爪痕判读走"专家初判+留证待验"的科学流程；树屋对质的攻防用"证据失灵→人心翻盘"完成翻转。
 
@@ -94,13 +94,13 @@ modified: "2026-11-19"
 > **原句 14:** “Because the safety of everyone in Paradise rests on your shoulders right now,” she said.
 **中文理解**：Lily 放出最后一张牌："因为整个 Paradise 所有人的安全，此刻就压在你们俩的肩上。"
 **关键词**：the safety of everyone / rests on your shoulders
-**为什么这样写**：一句话完成谈判的杠杆转换——作者让 Lily 不再辩真假，而是直接分配责任：你们是业主的孩子，你们不动手谁动手；"rests on your shoulders"的重量感与 Avery 姐弟的"有钱=免责"人生形成正面对撞。
+**为什么这样写**：一句话完成谈判的杠杆转换——作者让 Lily 不再辩真假，而是直接分配责任：你们是业主的孩子，你们不动手谁动手；"rests on your shoulders"的重量感与 Avery 兄妹的"有钱=免责"人生形成正面对撞。
 **读者视角提示**：对照 ch15 的"settle a score"——Lily 学会了用他人最在意的东西说话：对 Avery Max 而言，那就是"这场假期还值不值得继续"。
 
 > **原句 15:** “Let’s go see this secret project for ourselves,” Max said. “We don’t know even know where it is …” Lily said, mortified. Avery actually smiled. “I think I know where to look.”
 **中文理解**：Max 拍板："那就亲自去看这个秘密项目。"Avery 居然笑了："我知道去哪找。"
 **关键词**：see this secret project / for ourselves / I think I know where to look
-**为什么这样写**：反转落槌——作者让"被指控者"主动升级调查，用"for ourselves"宣告独立核实姿态；Avey 的"I know where to look"则暗示姐弟俩对父母的事业早有认知盲区外的耳朵，本章的全部敌意在一句微笑里转正。
+**为什么这样写**：反转落槌——作者让"被指控者"主动升级调查，用"for ourselves"宣告独立核实姿态；Avery 的"I know where to look"则暗示兄妹俩对父母的事业早有认知盲区外的耳朵，本章的全部敌意在一句微笑里转正。
 **读者视角提示**：注意驱动他们的关键词——是"safety"不是"被冤枉"：两个孩子接受的是责任的逻辑，不是证据的逻辑。这条人心通道，比任何录音都好使。
 
 ## 本章词汇
