@@ -4,52 +4,64 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch10_sylvatica.txt",
  "facts": [
   {
-   "fact": "1545 暴雨：云如淤青；Sylvatica 享受冷湿贴裙——「雨是没有玻璃瓶的淑女香水」（她用贵妇标准给雨定价）",
-   "anchor": "The rain is a lady’s scent without its glass bottle",
-   "start": 405,
-   "end": 456
+   "fact": "饥冬暴雨开场",
+   "anchor": "The rain comes to our grim little farm in a torrent",
+   "start": 61,
+   "end": 112
   },
   {
-   "fact": "墓地 dare 游戏：Godfrey 被迫在老 Barker 坟上撒尿——不去就被她告状挨打；「Then they will eat you」",
-   "anchor": "pissed on ol’ Barker’s grave",
-   "start": 1135,
-   "end": 1163
+   "fact": "墓地 dare 游戏",
+   "anchor": "“I dared you,” I say",
+   "start": 460,
+   "end": 480
   },
   {
-   "fact": "Piceus 神评「那坑里的污秽与罪早比你膀胱里多」；Godfrey 哭着撒完——乌鸦一只接一只坠落，围成死黑之圈；她与 Piceus 笑了又笑又笑",
-   "anchor": "a circle of dead black",
-   "start": 1928,
-   "end": 1950
+   "fact": "Piceus 神学判词",
+   "anchor": "There is more filth and sin already in that hole than in your bladder",
+   "start": 1368,
+   "end": 1437
   },
   {
-   "fact": "荒冬：存粮烂、羔羊从内黑透；两匹母马卖掉只剩白眼喷气的黑骟马；全家饿成 hollow",
-   "anchor": "slaughtered lambs blackened from the inside out",
-   "start": 2269,
-   "end": 2316
+   "fact": "乌鸦坠亡圈",
+   "anchor": "until there is a circle of dead black around us",
+   "start": 1913,
+   "end": 1960
   },
   {
-   "fact": "Joan 手指弯扭仍给母亲织披肩——用屋顶换劳作，「她和我一样被困」；鸡蛋断顿、狐狸夜袭血羽满地",
+   "fact": "全家饥饿",
+   "anchor": "Mother and Father grow leaner like me",
+   "start": 2388,
+   "end": 2425
+  },
+  {
+   "fact": "Joan 被困",
    "anchor": "She is as trapped here as I am",
    "start": 3138,
    "end": 3168
   },
   {
-   "fact": "Piceus 立在门影讨骨头、煽动偷父亲份额——「He'll have you whipped if he sees you.」「If he sees me.」；她甩着鸡像甩娃娃：「I see you.」",
-   "anchor": "I can save some of the bones for you",
-   "start": 4293,
-   "end": 4329
+   "fact": "Piceus 讨骨头",
+   "anchor": "“Will there be enough in the pot for me, girl?”",
+   "start": 4036,
+   "end": 4083
   },
   {
-   "fact": "靠得太近——焦炭橡木气息；Piceus 触腰掐入，她不喊不退；黑牙咧笑",
+   "fact": "黑牙咧笑",
    "anchor": "His teeth are black",
    "start": 5123,
    "end": 5142
   },
   {
-   "fact": "「你养活的嘴太多了——暂时。」terrible and divine 的气音；她被占有，鸡骨在手里捏碎",
+   "fact": "减员预约",
    "anchor": "“for now.”",
    "start": 5447,
    "end": 5457
+  },
+  {
+   "fact": "被占有",
+   "anchor": "And then Piceus touches me, his hand slipping to my waist",
+   "start": 4878,
+   "end": 4935
   }
  ]
 }

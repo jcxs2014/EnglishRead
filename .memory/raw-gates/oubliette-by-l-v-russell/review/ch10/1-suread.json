@@ -1,0 +1,67 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch10",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch10_sylvatica.txt",
+ "facts": [
+  {
+   "fact": "饥冬暴雨开场",
+   "anchor": "The rain comes to our grim little farm in a torrent",
+   "start": 61,
+   "end": 112
+  },
+  {
+   "fact": "墓地 dare 游戏",
+   "anchor": "“I dared you,” I say",
+   "start": 460,
+   "end": 480
+  },
+  {
+   "fact": "Piceus 神学判词",
+   "anchor": "There is more filth and sin already in that hole than in your bladder",
+   "start": 1368,
+   "end": 1437
+  },
+  {
+   "fact": "乌鸦坠亡圈",
+   "anchor": "until there is a circle of dead black around us",
+   "start": 1913,
+   "end": 1960
+  },
+  {
+   "fact": "全家饥饿",
+   "anchor": "Mother and Father grow leaner like me",
+   "start": 2388,
+   "end": 2425
+  },
+  {
+   "fact": "Joan 被困",
+   "anchor": "She is as trapped here as I am",
+   "start": 3138,
+   "end": 3168
+  },
+  {
+   "fact": "Piceus 讨骨头",
+   "anchor": "“Will there be enough in the pot for me, girl?”",
+   "start": 4036,
+   "end": 4083
+  },
+  {
+   "fact": "黑牙咧笑",
+   "anchor": "His teeth are black",
+   "start": 5123,
+   "end": 5142
+  },
+  {
+   "fact": "减员预约",
+   "anchor": "“for now.”",
+   "start": 5447,
+   "end": 5457
+  },
+  {
+   "fact": "被占有",
+   "anchor": "And then Piceus touches me, his hand slipping to my waist",
+   "start": 4878,
+   "end": 4935
+  }
+ ]
+}
