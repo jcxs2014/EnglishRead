@@ -13,8 +13,8 @@ modified: "2026-11-19"
 - **叙事手法**：偷听戏用"防水布下+电话外放"的封闭场景做信息投放；爪痕判读走"专家初判+留证待验"的科学流程；树屋对质的攻防用"证据失灵→人心翻盘"完成翻转。
 
 ## 精读
-> **原句 1:** “Did you swipe that from David, our kayaking instructor?” Jordan’s eyes went wide with surprise. “No, relax. I saw him when I ran out for breakfast and asked if I could borrow it,” Sam explained. “I figured it could scare away anything that might come charging at us.”
-**中文理解**：Jordan 惊讶地质疑扩音器来路："从皮划艇教练 David 那儿顺的？"——Sam 解释是早餐时开口借的，想着能吓退冲过来的任何东西。
+> **原句 1:** “Where did you get that?” Lily asked. Jordan’s eyes went wide with surprise. “Did you swipe that from David, our kayaking instructor?” “No, relax. I saw him when I ran out for breakfast and asked if I could borrow it,” Sam explained. “I figured it could scare away anything that might come charging at us.”
+**中文理解**：Lily 追问扩音器来路，Jordan 更是瞪圆了眼睛："从皮划艇教练 David 那儿顺的？"——Sam 解释是早餐时开口借的，想着能吓退冲过来的任何东西。
 **关键词**：swipe / asked if I could borrow it / scare away
 **为什么这样写**：一句"borrow"延续了 Sam 的"借/偷"家族语法——作者让 Jordan 的怀疑先于真相出现，读者同步校准对 Sam 的信任度；"scare away anything"的天真用法则给 Milo 的专业纠错留好了接口。
 **读者视角提示**：记住这把扩音器——它是 Sam 的"勇气道具"，本章会被专家当场降级。孩子手里的武器，往往最先伤到自己。
