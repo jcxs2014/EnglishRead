@@ -1,0 +1,43 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch27",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch27_paradise.txt",
+ "facts": [
+  {
+   "fact": "开篇对仗：几小时前还不确定能否活到明天，如今全家站在跑道上等奶奶的私人飞机；大人们之间剑拔弩张，但暂时休战。",
+   "anchor": "A few hours ago, Lily hadn’t been sure she’d live to see tomorrow, and now … she was standing on a runway with her family, waiting to board her grandmother’s private jet.",
+   "start": 0,
+   "end": 170
+  },
+  {
+   "fact": "目的地终于揭晓：父母本想回家，Nan 坚持假期不缩短——改去古巴海岸外更南边的另一家 Paradise 度假村（凭她的 connections 订下最好的住处）。",
+   "anchor": "“Your folks wanted to go home, but I insisted that our vacation wouldn’t be cut short,”",
+   "start": 1831,
+   "end": 1918
+  },
+  {
+   "fact": "Milo 跑道道别：谢 Lily 在 quest 里做他的朋友、给了他勇敢的灵感；Lily 说\"从 Avery Max 的说法看，你才是英雄\"——Milo 答\"我只是问自己 What would Lily do? 然后就跳了\"；还送了她旅行收藏里的一颗红宝石（传说佩戴护身）。",
+   "anchor": "“Me? Brave?” No one had ever called Lily that before.",
+   "start": 4001,
+   "end": 4054
+  },
+  {
+   "fact": "重磅排雷：Milo 亲口否认是他通风报信——\"手机基站还没恢复，消息发不出去\"，他们还以为是三兄妹告诉了父母；那么到底是谁提前封锁了南端、为什么？Lily 呆立原地。",
+   "anchor": "“A hype just went out that said the southern part of the island is officially sealed off now so thankfully everyone is safe, including the jaguars.”",
+   "start": 4951,
+   "end": 5099
+  },
+  {
+   "fact": "机舱夜谈：Jordan 主动道歉\"我对你太苛刻了，你根本不该受这个\"，两人和解互 besties； turbulence 颠簸后 Nan 的包翻倒——滚出一只印着 Paradise 标志的黄文件夹，标签写着 Penelope Sprague, Angel Investor。",
+   "anchor": "“Milo gave me something, right before we left,” she said.",
+   "start": 8523,
+   "end": 8580
+  },
+  {
+   "fact": "结尾三连：Lily 装睡、脑内爆炸（Nan 就是 Angel Investor？），确认唯一确定的事——这将是她一生最长的一次飞行；书末印着\"To be continued …\"。",
+   "anchor": "This was going to be the longest plane ride of Lily’s life.",
+   "start": 10672,
+   "end": 10731
+  }
+ ]
+}
