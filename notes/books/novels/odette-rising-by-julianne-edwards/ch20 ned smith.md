@@ -108,7 +108,7 @@ modified: "2026-11-18"
 
 **中文理解**：Odette 从前从不懂：原来生活的节律可以是安抚，而不是无休止的碾压。她曾害怕日子在面前一个个打哈欠张开，只能靠锚点——早饭、午饭、晚饭——来给存在定坐标。
 
-**关键词**：soothing rather than relentless / dread the days / yawning in front of her / anchor points
+**关键词**：soothing rather than relentless / dread the days / yawned in front of her / anchor points
 
 **为什么这样写**：时间感的翻转是 Part Two 最重要的内心指标：从前的一天是 yawn（空洞张开吞她），现在是 rhythm（节拍托着她）。anchor points 的航海比喻诚实而心酸：三餐曾是她在真空里的系缆桩。作者用「钟表的两副走法」量出这两年她走了多远。
 

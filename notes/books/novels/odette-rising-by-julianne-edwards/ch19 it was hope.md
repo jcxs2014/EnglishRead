@@ -190,7 +190,7 @@ modified: "2026-11-18"
 | stifled | 憋住（笑） | Gilles stifled an embarrassed giggle. |
 | imploring | 恳求 | Odette shook her head desperately at Berthe, imploring her to stop. |
 | giggle | 咯咯笑 | Gilles stifled an embarrassed giggle. |
-| shimmering | 闪着微光 | because there was Berthe, sliding down from the carriage, her cape shimmering, a fur hat like a halo framing her face. |
+| spell | 咒定；被摄住 | But instead, he stared at Berthe’s ankle as if under a spell. |
 
 ## 一句话总结
 茶杯里的香槟敬完亡者，蛇袜审掉了经理，黑心人的名字挂进了档案——这一章把 Part One 的所有欠账一次催收：Odette 失去管家、失去经理、差点失去朋友，却在谢卡的两只鹭与一个「搬来同住」的提案里，第一次握住了那个词——hope。

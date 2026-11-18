@@ -163,7 +163,7 @@ modified: "2026-11-18"
 | expunged | 抹除；从记忆里删去 | Odette had quite forgotten him, or perhaps expunged him from her mind. |
 | corrupted | 被收买腐蚀的 | He is a powerful man. He reaches into many lives, and is protected by the men he has corrupted. |
 | wan | 苍白黯淡的 | She greeted Grimard in the salon, his hat in hand, a wan smile. |
-| prig | 自以为是的人；道学先生 | Beauclerc had been such a prig that time, when she had wanted to stay a while in the city and enjoy the optimism in the air, to wander by herself through the beautiful department store. |
+| dizzyingly | 令人眩晕地 | That it was suddenly so clear was dizzyingly beautiful, and so utterly awful. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

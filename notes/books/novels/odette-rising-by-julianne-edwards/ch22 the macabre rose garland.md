@@ -110,7 +110,7 @@ modified: "2026-11-18"
 | jostled | 推推搡搡 | The streets were always crowded, and the people jostled in a way they didn’t on the wide boulevards of Paris. |
 | hacked | 剧烈干咳 | She pitched and hacked through her nights now, and besides, the blood she coughed covered everything. |
 | pitched | 翻腾辗转 | She pitched and hacked through her nights now, and besides, the blood she coughed covered everything. |
-| fared | 过活；支撑 | “We will fare well enough without you. We have everything we need, and the new cook is adequate. We would visit. It would be a nice trip for the boy. We could even take the train with our bicycles.” |
+| fare | 过活；支撑 | “We will fare well enough without you. We have everything we need, and the new cook is adequate. We would visit. It would be a nice trip for the boy. We could even take the train with our bicycles.” |
 
 ## 一句话总结
 自行车厂的分红与父亲的贺信都拦不住那一圈血手绢花环——Beauclerc 在 Lille 学会了富人学不会的课：钱买不到空气、上帝拗不过爱情、而他对 Odette 的咒念与祝祷，只是他还没还清的牵挂的利息。

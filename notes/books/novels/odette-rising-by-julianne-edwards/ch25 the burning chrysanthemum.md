@@ -48,7 +48,7 @@ modified: "2026-11-18"
 
 **中文理解**：然后噼啪声起，天幕被光的闪烁填满——像一朵巨大的、燃烧的菊花。它庞大、喷吐、急切，向所有方向同时炸开，随后缓缓收势，任烟团与金屑如力竭的星星飘落，直到在微风里消失。
 
-**关键词**：a vast, burning chrysanthemum / exploding in all directions / like exhausted stars / clapped her hands with glee
+**关键词**：a vast, burning chrysanthemum / exploding in all directions / like exhausted stars / puffs of smoke and glitter
 
 **为什么这样写**：灾难前的最美一帧：烟花被写成植物的开谢（菊花→星星坠散），美到让人忘记危险正在排队。exhausted stars 的比喻给爆炸一个衰亡的弧线——这是一切「燃」之物的命运预告（下一发就是她的屋顶）。glee 的掌声是她的天真时刻：她此刻以为灾难可以翻案成传奇。
 
