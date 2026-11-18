@@ -17,7 +17,7 @@ modified: "2026-11-18"
 > **原句 1:** "They have gathered at my mother’s door, the Ladies. I hear them knocking, banging, their hands frantic. They call for my mother, the ones that have come, those that could. We watch them from the window in the library: my mother in all her glory, hair unbound and shining, blue gown clinging to her body like skin. Then there is me beside her, dressed as well as I could on my own, wearing a stained cream dress I could not get the blood out of. I find, however, I am quite capable of finding the wine. There is a glass in front of me, half-empty, the dark wine releasing the scent of berries and tobacco into the room."
 
 **中文理解**：她们聚在母亲门前了——那些夫人。我听见敲门、砸门，手忙脚乱。来的、能来的，都在喊我母亲。我们在书房窗边看：母亲盛装华彩，长发散着、亮着，蓝裙贴在身上像第二层皮肤。我站在她旁边，自己能拾掇成什么样就是什么样——穿着一条血渍洗不掉的奶油色裙子。不过我发现，找酒我倒是相当在行。面前有一杯，半空，深色的酒把浆果与烟草的气味放出来，飘满一室。
-**关键词**：knocking, banging, their hands frantic / blue gown clinging to her body like skin / a stained cream dress / quite capable of finding the wine
+**关键词**：knocking, banging, their hands frantic / blue gown clinging to her body like skin / a stained cream dress / capable of finding the wine
 **为什么这样写**：母女并肩看客的构图是权力交接的现场照：母亲华服、女儿血渍——但找酒的技能在乱局里自报家门；「clinging like skin」的裙贴肤比喻回收 ch19 的「flesh fall away」——这个家的衣裳与皮肉一直分不清。
 **读者视角提示**：记住「洗不掉血的奶油裙」——她的礼服档继续失守（黄裙是 Hope 的、奶油裙是 Veronica 的余渍）。
 
@@ -70,10 +70,10 @@ modified: "2026-11-18"
 **为什么这样写**：扣炉火的吝啬是她第一次主动行使待客权：给不了的温柔，就扣掉暖——微权力是她唯一能支配的报复；「hope the Ladies feel it too」把灰尘当成暗器——她的恨已经细到颗粒。
 **读者视角提示**：注意「小小的恩惠也能扣」——这与母亲教她的进贡逻辑同构：施舍永远小气，刁难永远周全。她学得很快。
 
-> **原句 9:** "“We have been your mother’s faithful servants,” Lady Bellamy begins. Her teeth are blackened, and the skin beneath her eyes is bruised. … “We have all been stricken with sickness.” Henrietta dabs her handkerchief to her lips; the fine cotton is stained red. “Our maids serve us, wipe our leavings, and they do not sicken. It is only us.” … “Do you want them to suffer? Your maids?” I ask, plucking a pork pie from the table. I bite into the golden crust, sinking my teeth into the soft jelly and salty meat. “Would that lift the wretchness of your own suffering, to know you share it with those beneath you?”"
+> **原句 9:** "“We have been your mother’s faithful servants,” Lady Bellamy begins. Her teeth are blackened, and the skin beneath her eyes is bruised. … “We have all been stricken with sickness.” Henrietta dabs her handkerchief to her lips; the fine cotton is stained red. “Our maids serve us, wipe our leavings, and they do not sicken. It is only us.” … “Do you want them to suffer? Your maids?” I ask, plucking a pork pie from the table. “Would that lift the wretchness of your own suffering, to know you share it with those beneath you?”"
 
 **中文理解**：「我们一直是你母亲忠实的仆人，」Bellamy 夫人开口。她的牙齿黑了，眼下淤青。 ……「我们全被病缠上了。」Henrietta 用手帕按着嘴唇——上好的棉布染了红。「我们的女仆伺候我们、收拾我们的秽物，她们不病。只有我们病。」 ……「你想让她们也遭殃？你的女仆们？」我边问边从桌上拿起一只猪肉饼，咬开金黄的酥皮，牙陷进软冻与咸肉里。「要是知道你的苦有人垫着、底下的人陪你一块病——你这惨能好受点吗？」
-**关键词**：faithful servants / the fine cotton is stained red / they do not sicken. It is only us / Would that lift the wretchness
+**关键词**：faithful servants / the fine cotton is stained red / they do not sicken / Would that lift the wretchness
 **为什么这样写**：Ladies 的病与仆役的健壮成了背叛的物证——供血者的血统不再吃香；Rue 边吃饼边问的冷静是本章的暴力底色：她的刀叉与话题共用一只手；「wretchness」的自造词是她的语言领地——母亲的语法（罪、饿）之外，她开始造自己的词。
 **读者视角提示**：把「只有我们病」的恐慌记下——鼠群的毒只对 Ladies 生效（ch21 的布道生效了），仆人被免疫：这场瘟疫是有名单的。
 
@@ -98,10 +98,10 @@ modified: "2026-11-18"
 **为什么这样写**：egg 的裂声给死亡标了音效——脆、响、毫无尊严；「triumphant」的笑对着的是鼠群战报的兑现：她没动手，账已经收了。
 **读者视角提示**：注意 Rue 在这一幕的位置：「我望向母亲」——她在看母亲看死人。三重视角叠在一张餐桌上。
 
-> **原句 13:** "“How splendid!” My mother claps her hands, watching in glee as they fall, lungs erupting, black spewing from their yawning mouths. She returns to Lady Bellamy at her feet, and with a gentle touch she pulls her close, pulling her head in her lap. My mother does not take her gaze off me, but continues to caress Lady Bellamy’s sweat-soaked hair. … I want to lay my head there, to have my mother’s fingers in my hair, to hear her whisper over me. I would not care about the words; she could dribble sins over me, and I would fill myself up on them. I long to rest my head in her lap."
+> **原句 13:** "“How splendid!” My mother claps her hands, watching in glee as they fall, lungs erupting, black spewing from their yawning mouths. She returns to Lady Bellamy at her feet, and with a gentle touch she pulls her close, pulling her head in her lap. … I want to lay my head there, to have my mother’s fingers in my hair, to hear her whisper over me. I would not care about the words; she could dribble sins over me, and I would fill myself up on them. I long to rest my head in her lap."
 
 **中文理解**：「多壮观！」母亲拍着手，兴致勃勃地看着她们一个个倒下——肺炸开，黑东西从大张的嘴里喷涌。她回到跪着的 Bellamy 身边，温柔地把她拉近，把那颗头抱进自己腿上。母亲的目光没有离开我，手上继续抚着 Bellamy 被汗浸透的头发。 ……我想把头放那儿——想要母亲的手指插在我的头发里，听她在我上方低语。我不在乎说什么；她可以往我身上滴罪，我会拿它们把自己填满。我渴望把头枕上她的膝。
-**关键词**：watching in glee / pulls her close, pulling her head in her lap / she could dribble sins over me / I long to rest my head in her lap
+**关键词**：watching in glee / pulls her close, pulling her head in her lap / she could dribble sins over me / long to rest my head there
 **为什么这样写**：膝枕的温柔给垂死者、目光钉给女儿——她被排在观众的位子上；「dribble sins over me, and I would fill myself up on them」的自白是全书最卑微的一句：连罪都可以当奶喝。
 **读者视角提示**：把「嫉妒将死之人」记成 Rue 的饥饿新层级：食物的饿（母亲的）之外，她开始饿温柔。Oren 给的那种。
 
