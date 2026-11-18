@@ -70,7 +70,7 @@ modified: "2026-11-18"
 **为什么这样写**：心房的入住登记只写了不问这一项资格——「among my mother」的合租结构是本章最大的关系宣言：她终于承认心里住着两个人，且都重但不疼。
 **读者视角提示**：把「heavy but does not hurt」与「aching hollowness」（ch02/ch04）对照——空的疼被重的暖换掉了。她的心脏第一次有了两种重量的居住。
 
-> **原句 9:** ""“Give me after dawn and before dusk,” he says to me, pleading, almost begging. “Come to me as you are, Rue, in ruins or in splendor, bloodied or fair. Just come to me.” … It is enough. It has to be. … There is no room for anything else."
+> **原句 9:** ""“Give me the hours after dawn and the ones before dusk,” he says to me, pleading, almost begging. “Come to me as you are, Rue, in ruins or in splendor, bloodied or fair. Just come to me.” … It is enough. It has to be. … There is no room for anything else."
 
 **中文理解**：「把黎明后、黄昏前的时辰给我，」他对我说，恳求着，几乎是哀求。「以你本来的样子来见我，Rue——破败也好、华彩也好，带血也好、干净也好。来就好。」 ……够了。必须够。 ……已经没有地方留给别的了。 ……我在宅子里安静的角落等天黑——那些不被闹的角落；一份意想不到的独处被交到我手里。我在阴影里找 Horewith、找 Veronica，都没看见。壁炉架上的钟在死一般的沉默里走，像故意扣着时辰气我。
 **关键词**：after dawn and before dusk / in ruins or in splendor / It is enough. It has to be.
