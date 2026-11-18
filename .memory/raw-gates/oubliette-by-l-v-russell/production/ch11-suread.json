@@ -4,52 +4,70 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch11_chapter_9.txt",
  "facts": [
   {
-   "fact": "第四场舞会：毁三裙、手上血洗不掉、指甲锈色——「I am so very tired」；Veronica 指定猎物（对东道主侄女图谋不轨的醉老蠢货）",
-   "anchor": "My nails are stained rust",
-   "start": 468,
-   "end": 493
+   "fact": "Oren 跟入暗室",
+   "anchor": "Oren Pengelly steps into the patch of blackness",
+   "start": 2955,
+   "end": 3002
   },
   {
-   "fact": "Rue 内白：想把母亲放到这世上放开吃——大理石与丝绸之间「没有一个人配得上更好的下场」",
-   "anchor": "no one here that really deserves a better ending",
-   "start": 2030,
-   "end": 2078
-  },
-  {
-   "fact": "书房避难：Folkehaven 的书烂（ruin and worms）、这里的书干净不污手——「不，这里脏的人是我」；Oren 跟进暗处（认靴声辨人）",
-   "anchor": "No, I am the dirty one here",
-   "start": 2635,
-   "end": 2662
-  },
-  {
-   "fact": "gooseberry 酒对话：他声音里无讥笑也无怜悯；「You think I am drunk?」——「你没有自己希望的那样迷失」",
+   "fact": "看穿伪装",
    "anchor": "I think you are not as lost to yourself as you wish to be",
    "start": 4042,
    "end": 4099
   },
   {
-   "fact": "她流泪（母亲在会舔掉她的泪）——「把我忘掉吧」；「I came to check…」「You do not know me.」「But I should like to.」",
+   "fact": "求遗忘",
    "anchor": "I wish to be forgotten.",
    "start": 4362,
    "end": 4385
   },
   {
-   "fact": "初吻：阳光与醋栗的酸；近观细节（下巴毛/唇疤/煤屑）「It doesn't feel like suffocation」——teeth barely sharp, hungry for me and not my blood",
-   "anchor": "Oren tastes like sunlight",
-   "start": 5533,
-   "end": 5558
+   "fact": "初吻",
+   "anchor": "Oren’s tongue slides against mine",
+   "start": 5820,
+   "end": 5853
   },
   {
-   "fact": "他中止（Christ forgive me，怒气指向自己）「Not with anyone of worth」「I will not ruin you」；她的笑声像母亲——心脏冻结，掐喉阻止那个回声；「Ruin me」独白：缝合的血管筋腱非我所有",
-   "anchor": "I clutch my throat to stop the echo",
-   "start": 7142,
-   "end": 7177
+   "fact": "中止",
+   "anchor": "We must stop",
+   "start": 6316,
+   "end": 6328
   },
   {
-   "fact": "拥抱（心跳鼓点稳而静，等她停止颤抖）；邀周日 St. Augustine's 晨祷——「我们坐后排彩玻光池那里」「Why?」「Because I asked you.」；结尾泪干了「就像从未落下」",
-   "anchor": "I will show you where you are welcome",
-   "start": 8202,
-   "end": 8239
+   "fact": "Rue 反问",
+   "anchor": "Have you never fucked in a shadowed corner before?",
+   "start": 6642,
+   "end": 6692
+  },
+  {
+   "fact": "笑声像母亲",
+   "anchor": "I laugh then, and it sounds so much like my mother",
+   "start": 7068,
+   "end": 7118
+  },
+  {
+   "fact": "求毁",
+   "anchor": "Ruin me",
+   "start": 7202,
+   "end": 7209
+  },
+  {
+   "fact": "教堂邀约",
+   "anchor": "Come to church with me",
+   "start": 7769,
+   "end": 7791
+  },
+  {
+   "fact": "理由",
+   "anchor": "Because I asked you",
+   "start": 8446,
+   "end": 8465
+  },
+  {
+   "fact": "泪痕无人见",
+   "anchor": "It will be as if they never fell at all",
+   "start": 8632,
+   "end": 8671
   }
  ]
 }
