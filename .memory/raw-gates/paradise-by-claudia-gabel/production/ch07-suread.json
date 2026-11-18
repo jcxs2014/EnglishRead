@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch07",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch07_paradise.txt",
+ "facts": [
+  {
+   "fact": "Simone 以\"your girl\"自称播出一则重要通告。",
+   "anchor": "This is your girl, Simone, with an important announcement.",
+   "start": 0,
+   "end": 58
+  },
+  {
+   "fact": "度假村气象预测系统探测到可能有雷暴正在逼近本区域。",
+   "anchor": "Our weather prediction system has picked up a possible thunderstorm closing in on the region.",
+   "start": 59,
+   "end": 152
+  },
+  {
+   "fact": "度假村正在密切监测，如遇恶劣天气所有户外区域将临时关闭。",
+   "anchor": "all outdoor areas will close temporarily if we do experience inclement weather",
+   "start": 206,
+   "end": 284
+  },
+  {
+   "fact": "Simone 劝还在夜玩的客人别让小雨扫兴——\"Drive it like you stole it\"（放开玩），累了就回鹅绒枕头休息。",
+   "anchor": "Drive it like you stole it",
+   "start": 412,
+   "end": 438
+  },
+  {
+   "fact": "通告以口号收尾：这是你的假期，你说了算。",
+   "anchor": "it’s your vacation, and you’re in charge",
+   "start": 551,
+   "end": 591
+  }
+ ]
+}
