@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch03",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch03_paradise.txt",
+ "facts": [
+  {
+   "fact": "Jordan 搬家的消息让 Sam 难过，他独自在美食广场狂点食物\"吃情绪\"，趁姐妹俩买纪念品时享受自由。",
+   "anchor": "If Lily were here, she might accuse Sam of eating his feelings, and he had to admit she might even be right.",
+   "start": 579,
+   "end": 687
+  },
+  {
+   "fact": "占吊床被英国口音高个男孩挑衅时，在家总是回避霸凌的 Sam 第一次坚持不动（后来对方说只是开玩笑）。",
+   "anchor": "“No. And I’m not moving.” Sam’s heart was pounding, but he didn’t let on.",
+   "start": 3450,
+   "end": 3523
+  },
+  {
+   "fact": "端餐来的女孩 Avery 从订单小票认出 Sam 是科技大亨 Penelope Sprague 的孙子，还称 Penelope 是她的个人英雄。",
+   "anchor": "“You’re Sam Sprague. And your grandmother is Penelope Sprague, the tech tycoon. She’s, like, my personal hero,” Avery said.",
+   "start": 6053,
+   "end": 6176
+  },
+  {
+   "fact": "Max 向 Sam 展示 Paradise Platinum Pass：所有景点商店短途都能插队，代价是所有人都恨他们。",
+   "anchor": "“A Paradise Platinum Pass,” Max explained. “You get to cut the lines at every attraction, shop, and excursion. As an added bonus, everyone here hates you for it.”",
+   "start": 7512,
+   "end": 7674
+  },
+  {
+   "fact": "Sam 对新朋友撒谎说手机落在房间——他和 Lily 是全年级唯一没有自己手机的孩子，规矩与 Nan 有关但父母从不正面解释。",
+   "anchor": "“Oh, I left it in my room,” Sam lied.",
+   "start": 7870,
+   "end": 7907
+  },
+  {
+   "fact": "爸爸 Elliott 是研究人类行为的定性分析师，拒绝借手机的依据是\"手机与儿童抑郁\"的研究报告；舅舅 Greg 是与妻子 Suzie 搭档的健身网红。",
+   "anchor": "He was a qualitative analyst researching human behavior, so a lot of his parenting decisions were based on the latest “concerning reports.”",
+   "start": 12055,
+   "end": 12194
+  },
+  {
+   "fact": "Sam 用妈妈的\"肯定式语言\"套出父亲往事：Elliott 在 Sam 这个年纪时父亲去世，之后奶奶埋头工作，几乎不见他们。",
+   "anchor": "“It was hard. I was your age when my dad died, and afterward your grandmother just threw herself into her work. We rarely ever saw her.”",
+   "start": 14167,
+   "end": 14303
+  },
+  {
+   "fact": "Jordan 踢椅腿约 Sam 密谈：她的手机出发前被父母没收——因为她曾试图离家出走；她劝 Sam 对新朋友说实话，但 Sam 另有主意不打算说。",
+   "anchor": "“Because I tried to run away,” Jordan explained.",
+   "start": 16247,
+   "end": 16295
+  }
+ ]
+}
