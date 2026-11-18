@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch09",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch09_paradise.txt",
+ "facts": [
+  {
+   "fact": "Platinum Pass 让 Sam 插队一小时玩遍 Macaw Falls——在家乡他是\"学校食物链底层的透明人\"，此刻却处处第一。",
+   "anchor": "In New Hampshire, he was a forgettable bottom-feeder on the middle school food chain.",
+   "start": 729,
+   "end": 814
+  },
+  {
+   "fact": "Lookout 堵住 Max 查岗（\"Mr. Jones, you missed check-in\"），并低声对讲机通报\"Speckled Hen and Spotted Owl are in custody\"（暗语）。",
+   "anchor": "“Speckled Hen and Spotted Owl are in custody.”",
+   "start": 2480,
+   "end": 2526
+  },
+  {
+   "fact": "Sam 从屋顶泳池看球赛时的广告想起：Dianne 和 Mitchell Jones 正是 Paradise 的业主——Avery 和 Max 是度假村主人家的孩子！",
+   "anchor": "Avery and Max’s parents were … the owners of the resort?!",
+   "start": 3632,
+   "end": 3689
+  },
+  {
+   "fact": "风暴正面袭来：Simone 广播关闭水上乐园，让客人去 Skydome 观赏\"Mother Nature do her worst\"，还管自助餐。",
+   "anchor": "Looks like that storm is upon us, Thrill Seekers! For your safety, we will be closing the water park and other rides, but please join us in the Skydome where you can watch Mother Nature do her worst.",
+   "start": 5946,
+   "end": 6145
+  },
+  {
+   "fact": "Sam 怕到想立刻给妈妈打电话——他在学校长期被 Joker 霸凌、艰难日子都靠妈妈安慰，但这件事他从没告诉过她。",
+   "anchor": "especially after a tough day of being bullied at school—though he’d never told her that.",
+   "start": 7785,
+   "end": 7873
+  },
+  {
+   "fact": "Max 开高尔夫车走员工专用道，没回 villa 却到了 Silverback——半球最大的滑梯，藏在十五层楼高的机械大猩猩体内，活门舱近乎九十度垂直坠落。",
+   "anchor": "This was a massive drop slide, the largest one in the hemisphere, if Sam remembered the description in the park map correctly.",
+   "start": 9407,
+   "end": 9533
+  },
+  {
+   "fact": "Max 用\"万能门禁 fob\"打开维修通道闸门——Avery 拆穿\"你从爸爸那儿偷的\"，Max 说\"趁他不注意借的\"（与 Sam 偷手机如出一辙）。",
+   "anchor": "“No, I borrowed it when he wasn’t looking,” Max replied.",
+   "start": 13186,
+   "end": 13242
+  },
+  {
+   "fact": "舱内 Sam 本想学 Jordan 退出，Avery 讥讽\"scared or something?\"、Max 喊\"chicken out\"——话音未落脚下地板消失，Silverback 把他整个人吞了下去（章末悬念）。",
+   "anchor": "Suddenly the floor beneath him vanished. Then all he could hear was his own screams and the roar of the Silverback as it swallowed him whole.",
+   "start": 17151,
+   "end": 17292
+  }
+ ]
+}
