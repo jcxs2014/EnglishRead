@@ -17,21 +17,21 @@ modified: "2026-11-18"
 > **原句 1:** "Folkehaven is left to crumble; I do not stop it. The broken pieces of it slip from the foundations and into the dark waters. The roof collapses, shattering glass and allowing the storms to rush in. The hollow beneath the house is the first to flood, the shallow grave filling in with mud and rainwater until there is nothing left of it at all. As if it was never there."
 
 **中文理解**：Folkehaven 被留给崩塌；我阻止不了——也不想。碎块从地基滑进黑水。屋顶塌了，玻璃迸碎，风暴灌进来。屋下的 hollow 最先被淹——浅坟被泥与雨水填满，直到里面什么都不剩。仿佛它从未存在过。
-**关键词**：I do not stop it. / the hollow beneath the house is the first to flood / until there is nothing left of it at all. / As if it was never there.
+**关键词**：I do not stop it. / the hollow beneath the house is the first to flood / until there is nothing left of it at all. / as if it was never there
 **为什么这样写**：崩塌的顺序有讲究：hollow（母亲的卧床）最先淹——那个生过她、困过她、饿着她的洞第一个被水收回；「As if it was never there」抹除的不只是坟，是她在那个家存在过的证据链。
 **读者视角提示**：把「hollow 先淹」与 ch24 的浅坟、ch08 的 hollow 三次出场连成一条水线：这座宅子的地心被水逐层清算——本书所有的「洞」终于填平。
 
 > **原句 2:** "Mold seeps through the walls, thick and black, peeling away the remaining wallpaper like my mother with flesh. At my feet, a cat circles, her fur as white as before. She is thinner now, her ribs once again visible beneath her coat. I think of the gloves, the softness of them, and now know it to be the cruel trick it was. I do not know if the white cat escaped my mother’s hands, or if my mother made it to taunt me all along. It matters little now."
 
 **中文理解**：霉从墙里渗出来，又厚又黑，把剩下的墙纸一片片揭掉——像母亲揭皮那样。我脚边，一只猫绕着圈，毛还是那么白。她更瘦了，肋骨又一次在毛下凸现。我想起那副手套、它们的柔软——如今我知道那是一场残忍的骗局。我不知道白猫是从母亲手里逃了，还是母亲从头到尾造出来戏弄我的。这已经无关紧要。
-**关键词**：peeling away the remaining wallpaper like my mother with flesh / a cat circles, her fur as white as before / I do not know if the white cat escaped my mother’s hands / It matters little now.
+**关键词**：peeling away the remaining wallpaper like my mother with flesh / a cat circles, her fur as white as before / I do not know if the white cat escaped my mother’s hands / it matters little now
 **为什么这样写**：霉揭墙纸的动作被比成母亲揭皮——房子的死法是母亲的死法：手套真相的两个选项（逃逸/诱饵）永不揭晓，作者故意留白：她的恨需要一个凶手，而这个世界不给答案；「It matters little now」的结案陈词是她学到的最后的和平。
 **读者视角提示**：把白猫的三态连起来：ch08 拒摸的瘦猫 → ch22 吃肥的猫 → 本章「肋骨再现」的瘦猫——轮回的钟摆停回了原点。真相不重要了，活着才重要。
 
 > **原句 3:** "The cat has a black rat in her mouth, its jugular dangling, painting her pristine fur in a beautiful scarlet. She does not hiss at me, but waits, watches. The ghosts wait too, gathered near to watch the cursed walls diminish. They watch me with their hollow eyes and gaping mouths, but they do not scream or wail. It is not glee on the faces, but a strange sort of acceptance, an almost peace. I feel it too, within those ruins, beneath the moonlight."
 
 **中文理解**：猫嘴里叼着一只黑鼠——颈动脉垂着，把她洁净的白毛染上漂亮的猩红。她不对我哈气了，只是等着、看着。幽灵们也在等——聚在近处，看着那些被诅咒的墙一点点矮下去。他们用空洞的眼、豁开的嘴看着我，却不尖叫、不哀哭。那脸上不是幸灾乐祸——是一种奇怪的接纳，近乎安宁。在这片废墟里、月光下，我也感到了它。
-**关键词**：painting her pristine fur in a beautiful scarlet / She does not hiss at me, but waits, watches. / a strange sort of acceptance, an almost peace / I feel it too
+**关键词**：painting her pristine fur in a beautiful scarlet / She does not hiss at me, but waits, watches. / an almost peace / I feel it too
 **为什么这样写**：白猫自己染上猩红——她终于不再需要别人的血替她上色：猎手的颜色自己涂；猫的不哈气与鬼的不尖叫是同一份停战协议：所有被吓过的存在都在废墟里签了字——包括叙述者。
 **读者视角提示**：把「almost peace」记成本书恐惧系统的最后一次降调：从尖叫（ch01）到沉默（ch20）再到安宁（本章），Folkehaven 的音量曲线完成了它的全部下行。
 
