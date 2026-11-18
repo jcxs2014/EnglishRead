@@ -1,0 +1,55 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch13",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch13_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "野餐开场",
+   "anchor": "April draws out its ending",
+   "start": 64,
+   "end": 90
+  },
+  {
+   "fact": "半真半假",
+   "anchor": "I met her brother first",
+   "start": 1496,
+   "end": 1519
+  },
+  {
+   "fact": "Edward 试探",
+   "anchor": "“Your mother was the host, if I am not mistaken?”",
+   "start": 1974,
+   "end": 2023
+  },
+  {
+   "fact": "确认谎言",
+   "anchor": "No lies, indeed",
+   "start": 2675,
+   "end": 2690
+  },
+  {
+   "fact": "情感节点",
+   "anchor": "I am full",
+   "start": 4422,
+   "end": 4431
+  },
+  {
+   "fact": "风暴锚定",
+   "anchor": "He keeps hold of me, anchoring",
+   "start": 5024,
+   "end": 5054
+  },
+  {
+   "fact": "姐妹邀约",
+   "anchor": "“You must call me Anne! Oh, you must!”",
+   "start": 5704,
+   "end": 5742
+  },
+  {
+   "fact": "不会拥抱",
+   "anchor": "I do not embrace her back",
+   "start": 5832,
+   "end": 5857
+  }
+ ]
+}
