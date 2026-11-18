@@ -24,7 +24,7 @@ modified: "2026-11-18"
 > **原句 2:** "She is silent—they are all silent. In the draft, she sways, her bare feet scraping along the floor. The noose that hanged her many years before creaks, and it is the only sound in the room."
 
 **中文理解**：她是沉默的——它们全都沉默。穿堂风里她轻轻摇晃，赤足刮着地板。多年前吊死她的那圈绳套吱呀作响，是这房间里唯一的声音。
-**关键词**：silent-they are all silent.
+**关键词**：silent / sways / scraping / noose
 **为什么这样写**：三个短句把房间写成常年陈设的刑具现场；「they are all silent」一个复数悄然暴露鬼不止一个——这个家里亡者是成批的；声音层只留一项：绳套吱呀，静到极点反而在强调「她一直在那儿」——摇晃的是尸体，出声的是刑具。
 **读者视角提示**：叙述者对吊死鬼的态度是背过身去、不回想名字——不是第一次见，也不是最后一次。读者要跟着适应这个世界的底层设定：鬼是家具，恐惧在这里是奢侈品。
 

@@ -428,7 +428,12 @@ def _quote_segments(body: str, block: str):
 def _seg_para_index(seg: str, ps, pn):
     """段内逐字命中：按 `…` 切成 piece，要求全部 piece 落在**同一个**自然段内。
     返回命中的自然段序号，查无返回 -1。"""
-    pieces = [x.strip() for x in re.split(r"\s*…\s*", seg) if x.strip()]
+    # ⚠️ 2026-11-18（oubliette 实测 7 条拼接假红）：切分只认**两侧有空格**的分隔省略号。
+#   本库书写约定是 ` … `（两侧空格）；原文自带的句内省略号（`such…such curiosities`、
+#   `No, Lady…”` 尾部省略号）紧贴字母/引号——把它们也切成 piece 会产出孤立引号段
+#   （`”` 单独成段），在 text/ 恒查无 ⇒ 拼接红线假红（7 章实测）。
+#   判据不放宽：两侧贴字的省略号是**原文的省略成分**，留在 piece 内逐字取证。
+pieces = [x.strip() for x in re.split(r"(?<=\s)…(?=\s)|^…(?=\s)|(?<=\s)…$", seg) if x.strip()]
     if not pieces:
         return -1
     for pi, p in enumerate(ps):
@@ -801,7 +806,9 @@ def check(md: Path, book: Path):
             # （verify_quotes 对 epub 全绿）整串在原文里查无 ⇒ 恒报「跨自然段拼接红线」。
             # 处置：`...` 与 `…` 同样视为省略号分隔符（Evelyn Hugo / Some Other Time
             # 的 `…` 判据原样适用，负控不变）。
-            _parts = [x for x in re.split(r"\s*(?:…|\.{3})\s*", q) if x.strip()]
+            # ⚠️ 2026-11-18（oubliette 同上）：与 _seg_para_index 同口径——只切两侧有空格的分隔省略号；
+#   原文自带的紧贴省略号（`such…such` / `Lady…”`）是引语内容成分，不切。
+            _parts = [x for x in re.split(r"(?<=\s)(?:…|\.{3})(?=\s)|^(?:…|\.{3})(?=\s)|(?<=\s)(?:…|\.{3})$", q) if x.strip()]
             _same_para = bool(_parts) and any(
                 all(norm(x) in p for x in _parts) for p in pn)
             # ⚠️ 2026-10-11 修正（Evelyn Hugo ch29 原句 1 实测假红）：单段引语路径

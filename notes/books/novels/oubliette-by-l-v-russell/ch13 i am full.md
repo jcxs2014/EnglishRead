@@ -24,7 +24,7 @@ modified: "2026-11-18"
 > **原句 2:** "“Tell me again, Miss Meremoth—how did you meet Anne?” … I pop a little cake into my mouth, the pink icing staining my skin. It is almond-sweet and light. I take another before answering Edward. “I met her brother first.” … I consider telling him the whole truth, all of it, but Anne’s smile is too wonderful, too full of joy to spoil. I want to leave it there, for lines of happiness to etch into her skin."
 
 **中文理解**：「再讲讲吧，Meremoth 小姐——你是怎么认识 Anne 的？」……我把一小块蛋糕塞进嘴里，粉色糖霜染了手指。杏仁甜，又轻。我又拿一块才答 Edward。「我先认识的是她哥哥。」……我考虑过把全部真相告诉他——一整件——但 Anne 的笑太完整了，满得要溢出来，我不忍心碰坏。我想让它留在那儿，让幸福的纹路刻进她的皮肤。
-**关键词**：again, miss meremoth-how did
+**关键词**：I met her brother first / too full of joy / etch into her skin
 **为什么这样写**：她的第一句回答（先认识哥哥）已经是半句真话——谎言策略当场启动：真话打底、顺序重排；「too full of joy to spoil」把 Anne 的幸福写成易碎展品——Rue 的保密不是自我保护，是给别人的幸福当守门人：这是她第一次为别人的利益撒谎。
 **读者视角提示**：注意她撒谎动机的升级：以前瞒是为了活命，这次瞒是为了别人笑得下去。她的道德光谱开始出现「利他」的色号。
 
