@@ -113,7 +113,7 @@ modified: "2026-11-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | notorious | 出了名的、声名狼藉的 | You are notorious for having zero face-recognition skills |
-| oblivia | 蒙昧、无知状态 | operating in complete, blissful oblivion for weeks |
+| oblivion | 蒙昧、无知状态 | She was the only person on earth who had been operating in complete, blissful oblivion for weeks. |
 | eclipsing | 遮蔽、使黯然 | his towering frame completely eclipsing Chloe from view |
 | tenderness | 温柔、温情 | The sudden shift from icy detachment to pure, focused tenderness was breathtaking. |
 | detachment | 疏离、超然 | The sudden shift from icy detachment |

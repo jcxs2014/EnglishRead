@@ -91,7 +91,7 @@ modified: "2026-11-18"
 | self-effacing | 自谦的、自我贬抑的 | a teasing, self-effacing smirk cutting through the lingering ache in her chest |
 | unscripted | 未经排练的 | rare, rough around the edges, and entirely unscripted |
 | unburdened | 无负担的、轻松的 | but a real, open, unburdened smile |
-| rarified | 精英化的、曲高和寡的 | They belonged to the same rarefied world. |
+| rarefied | 曲高和寡的、精英化的 | They belonged to the same rarefied world. |
 | erupted | 爆发、喷发 | it didn't just vibrate—it erupted. |
 | heaving | 剧烈起伏的 | His chest was heaving with shallow, rapid breaths |
 
