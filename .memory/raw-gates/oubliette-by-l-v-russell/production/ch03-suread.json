@@ -4,52 +4,58 @@
  "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch03_chapter_3.txt",
  "facts": [
   {
-   "fact": "绿裙污渍来源揭示：血洗得掉、黏土洗不掉——Veronica 把绿裙扔进火里烧掉",
+   "fact": "绿裙污渍之争开场",
+   "anchor": "Veronica scrubs at the dark stains on my gown until her hands go raw",
+   "start": 64,
+   "end": 132
+  },
+  {
+   "fact": "裙被扔进火",
+   "anchor": "Without a word, she wrenches it from the water and flings it into the fire",
+   "start": 332,
+   "end": 406
+  },
+  {
+   "fact": "血洗得掉、坟泥洗不掉",
    "anchor": "“I can get the blood out, girl, but that clay has set",
    "start": 408,
    "end": 461
   },
   {
-   "fact": "Rue 冷静下单重做绿裙，还提要求：领口更高、多珠饰",
-   "anchor": "Another one of green silk, though I would like the neckline higher",
-   "start": 906,
-   "end": 972
+   "fact": "Rue 冷静下单重做",
+   "anchor": "“You will have another one made for me,”",
+   "start": 776,
+   "end": 816
   },
   {
-   "fact": "Veronica 嫉妒发问：「她抱你了吗」「你在地下和她在一起时」——她渴望被母亲要求留下",
-   "anchor": "When you were down there, beneath the earth with her?",
-   "start": 1342,
-   "end": 1395
-  },
-  {
-   "fact": "Rue 内白：Veronica 眼中的天使实为怪物——死亡不碰也不留她；夜里不朽、黎明衰朽、睡进土里重生",
-   "anchor": "She sees my mother as an angel",
+   "fact": "天使论 vs 怪物论",
+   "anchor": "She sees my mother as an angel, but it is far from the truth.",
    "start": 1534,
-   "end": 1564
+   "end": 1595
   },
   {
-   "fact": "Rue 断言无论献肉、自鞭、尽职，Veronica 终有缓慢而最终的一死；她盼的永恒不会来，或许她的鬼也会留在 Folkehaven",
-   "anchor": "Veronica will rot one day",
+   "fact": "Rue 断言 Veronica 终有一死",
+   "anchor": "Veronica will rot one day.",
    "start": 1953,
-   "end": 1978
+   "end": 1979
   },
   {
-   "fact": "Rue 咬开内里发黑的烂苹果，补一句「But she did not ask you」——扎心收尾",
-   "anchor": "It is blackened inside but still sweet",
-   "start": 2398,
-   "end": 2436
+   "fact": "烂苹果+扎心一句",
+   "anchor": "I take a bruised apple from the bowl on the table and bite deeply",
+   "start": 2331,
+   "end": 2396
   },
   {
-   "fact": "Veronica 揭底：Anne Pengelly 的未婚夫被 Rue 母亲吃掉，Anne 的「Thank you」耳语别有深意",
-   "anchor": "Your mother ate the man she was to marry",
-   "start": 4364,
-   "end": 4404
+   "fact": "Anne 登场+未婚夫被吃揭底",
+   "anchor": "“Anne Pengelly,” Veronica hisses in my ear.",
+   "start": 4319,
+   "end": 4362
   },
   {
-   "fact": "Rue 盯着 Anne 的欢乐：想撕一块下来尝尝，看那是不是属于自己的东西",
-   "anchor": "I want to tear it from her",
+   "fact": "对 Anne 的欢乐起食欲",
+   "anchor": "I want to tear it from her, or a little piece of it",
    "start": 4861,
-   "end": 4887
+   "end": 4912
   }
  ]
 }
