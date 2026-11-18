@@ -39,8 +39,8 @@ modified: "2026-11-17"
 
 **中文理解**：她想知道那些东西是否顺着基因链条传给了这个在石头间跳的男孩。「我不抱歉。」
 **关键词**：Julian's / flatness / skipping / trickled
-**为什么这样写**：「那些东西顺着基因链条传下去」——她的恐惧从环境转向遗传（ch30 的「Like son, like mother」在此得到科学版本）；「我不抱歉」的回声把 ch48 的台词嫁接到这条遗传焦虑上。
-**读者视角提示**：遗传焦虑要在总览里回收（ch06 的「像儿子像母亲」的科学版）。
+**为什么这样写**：「那些东西顺着基因链条传下去」——她的恐惧从环境转向遗传（ch11 的「Like son, like mother」在此得到科学版本）；「我不抱歉」的回声把 ch48 的台词嫁接到这条遗传焦虑上。
+**读者视角提示**：遗传焦虑要在总览里回收（ch11 的「像儿子像母亲」的科学版）。
 
 > **原句 5:** "Of course, he could just be a bullied kid who's had enough and has finally gotten back at the tormentor making his school life hell. That, she could forgive if not condone. Her head aches."
 

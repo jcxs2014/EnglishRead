@@ -23,7 +23,7 @@ modified: "2026-11-17"
 
 > **原句 2:** "She rolls away from the window and closes her eyes, adding another dimension to the dark. But it only provides a backdrop to what she saw in the house. She's only seen one other dead person besides Ed and that was her grandfather in his casket when she was a child. Death hadn't seemed like such an adversary then, more like a state of being, as living was. Only later did she understand its antithesis. Its cold finality. Its aching love gone. But even Ed's sudden departure doesn't hold the unnatural rawness of Eeling's suicide. If that's what it was. There. The thing she's been sidestepping from the moment she left the house moves fully into the light. The fluttering shadow of doubt about what she'd actually witnessed. Because the same reason she expected Eeling to return this morning is why his death feels so incongruous."
 
-**中文理解**：她数了从 Eeling 出租屋回来路上经过的车（四辆），试图记住每一辆的颜色和车型——这是她全书记录世界的方式（ch27 的「十二个便衣」、ch22 的「每辆」）。可现在她紧紧攥着毯子，盯着床的空半边——Ed 的那半边。
+**中文理解**：她数了从 Eeling 出租屋回来路上经过的车（四辆），试图记住每一辆的颜色和车型——这是她全书记录世界的方式（ch22 的「每辆」等同族细节）。可现在她紧紧攥着毯子，盯着床的空半边——Ed 的那半边。
 **关键词**：sidestepping / grandfather / incongruous / antithesis
 **为什么这样写**：数经过的车是她的计数癖（ch27 的十二便衣、ch22 的每辆车）；「Ed 的那半边床」把失去丈夫写进最私密的家具布局。
 **读者视角提示**：数车＝她的计数癖；Ed 的空半边床从 ch01 就存在。

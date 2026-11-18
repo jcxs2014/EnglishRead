@@ -67,7 +67,7 @@ modified: "2026-11-17"
 
 **中文理解**：Hattie 觉得世界 doubling——折叠起来，把过去和现在叠在一起。「他有没有说过他想伤害自己？」她必须问。「什么？」Wendy 半是自言自语。「他到底怎么了？」我不知道，她差点脱口而出——可谎话死在了舌尖上。
 **关键词**：happening / transpose / doubling / responds
-**为什么这样写**：**「世界 doubling」= ch31 的「像磨盘转」之后又一次认知隐喻**：过去（2004 的诗、Tommy 的迹象）折回现在（Julian 的淤青）；「谎死在舌尖」与 ch25「sickening/satisfying」同族：她的身体拒绝说谎。
+**为什么这样写**：**「世界 doubling」= ch33 的「像磨盘转」之后又一次认知隐喻**：过去（2004 的诗、Tommy 的迹象）折回现在（Julian 的淤青）；「谎死在舌尖」与全书反复出现的「sickening」身体反应同族：她的身体拒绝说谎。
 **读者视角提示**： doubling＝折叠：这是全书对创伤记忆结构最精确的一个词。
 
 > **原句 9:** "A fresh tear slides from Wendy's left eye. "I wish I knew his parents—if they had any mental or emotional problems, if this kind of thing runs in the family, it would be easier to diagnose and treat." Hattie rises from the table and refills her glass. Stands drinking it at the window over the sink. Her heart judders. "Have you looked into a therapist?""
@@ -102,7 +102,7 @@ modified: "2026-11-17"
 
 **中文理解**：「别道歉。」Hattie 跪在年轻女人椅子旁。「要在场。要警觉。做点什么——我本该做更多。」
 **关键词**：something / Hattie's / features / shoulder
-**为什么这样写**：「别道歉。要在场。要警觉。做点什么」——她把治疗师的语言给了一个母亲（ch18 的 let it in、ch34 的「谈出来」）；这句列表是她全书最实用的原话。
+**为什么这样写**：「别道歉。要在场。要警觉。做点什么」——她把治疗师的语言给了一个母亲（ch51 的治疗医嘱 let it in、ch34 的「谈出来」）；这句列表是她全书最实用的原话。
 **读者视角提示**：「要在场、要警觉、做点什么」是她的信条总纲（ch34 的「不转开」在此变成给别人的建议）。
 
 ## 本章词汇

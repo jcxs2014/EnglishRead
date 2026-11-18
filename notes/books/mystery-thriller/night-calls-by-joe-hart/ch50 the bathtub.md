@@ -39,7 +39,7 @@ modified: "2026-11-17"
 
 **中文理解**：她想离开浴室，却在门口停住。她盯着浴缸，感到一种拉扯——某种她一直绕开的东西。放它进来。让它疼。她吸了口气，照做了。
 **关键词**：surprised / therapist / willpower / bathroom
-**为什么这样写**：**浴缸的「拉扯」终于被她允许**（ch46 那个声音说「Remember the bathtub?」）——「放它进来，让它疼」是 ch18 的治疗指令在她身上第一次真正执行：她主动取回最痛的记忆。
+**为什么这样写**：**浴缸的「拉扯」终于被她允许**（ch46 那个声音说「Remember the bathtub?」）——「放它进来，让它疼」是 ch51 的治疗医嘱在她身上第一次真正执行：她主动取回最痛的记忆。
 **读者视角提示**：浴缸的拉扯终于被允许——这是全章最难的一步。
 
 > **原句 5:** "It was a few days after Ed's funeral while a police cruiser was still stationed outside their house in case Tommy decided to try coming home. She'd taken to sitting near the big windows looking out at their yard and the county road beyond. Not that she was really seeing the splendor of fall or the occasional car going by, or the resurgence of news vans following Ed's death and Tommy's escape. It was all lost on her."

@@ -75,7 +75,7 @@ modified: "2026-11-17"
 **中文理解**：Kevin 点头。「我们今天下午约了一位儿童心理学家，专跟经历过创伤的年轻人工作的。不是因为觉得他坏了，是因为他需要人帮他把这些外化出来。」她听见「外化」这个词——ch18 的治疗术语从另一个家庭嘴里说出来。
 **关键词**：psychologist / appointment / physically / Hopefully
 **为什么这样写**：「儿童心理学家／把创伤外化」——非虚构式的治疗语言从这个家庭嘴里说出（ch18 她自己的治疗史），说明他们正在用她熟悉的方式救 Julian。
-**读者视角提示**：「外化」是治疗术语，与 ch18 的 let it in 同源。
+**读者视角提示**：「外化」是治疗术语，与 ch51 的治疗医嘱 let it in 同源。
 
 > **原句 10:** "Wendy squeezes his hand and sits straighter, glancing up and over Hattie's head. "Good morning, honey." Julian stands at the loft's railing, looking down at them, his expression blank. Hattie wonders how long he's been awake. "Morning," he says."
 

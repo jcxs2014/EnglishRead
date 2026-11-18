@@ -53,7 +53,7 @@ modified: "2026-11-17"
 
 **中文理解**：想到差劲的警察，Eeling 文件里 Ramsby 说要寄照片的事又浮上来。她转身要进屋，寒气终于钻进中心，却又停住，考虑着——
 **关键词**：considering / maddeningly / lingering / something
-**为什么这样写**：「放一放，它就会回来」是她给自己的忠告——与创作期的「let it in」（ch18）互补：有时要放进去，有时要放一放。
+**为什么这样写**：「放一放，它就会回来」是她给自己的忠告——与创作期的「let it in」（ch01）互补：有时要放进去，有时要放一放。
 **读者视角提示**：「放一放就回来」＝let it go 版本。
 
 > **原句 7:** ""Let it go, and it'll come back," she says, making her way to the house. Sage advice for an otherwise disappointing day."

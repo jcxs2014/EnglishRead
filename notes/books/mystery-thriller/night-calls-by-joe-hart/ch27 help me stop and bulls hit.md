@@ -67,7 +67,7 @@ modified: "2026-11-17"
 
 **中文理解**：Paige McMahon 是 Tommy 逃亡八年来唯一已知的受害者。她曾在一个小型……
 **关键词**：Paige McMahon / only known victim / eight years prior / community
-**为什么这样写**：**「唯一已知受害者」是全章的钉子**：ch06 她扫查时提到的「可怜的 Paige McMahon」在此正式定义——一个名字、一条命、八年里唯一的定案；而「逃亡八年以来」把 ch06 的「八年」与 ch19 的「一年多前目击」同时锚定。
+**为什么这样写**：**「唯一已知受害者」是全章的钉子**：ch06 她扫查时提到的「可怜的 Paige McMahon」在此正式定义——一个名字、一条命、八年里唯一的定案；而「逃亡八年以来」把 ch06 的「八年」与 ch06 的「一年多前目击」同时锚定。
 **读者视角提示**：Paige McMahon 是全书的第二个死者（第一个是 Cheryl Barton）。她的名字第一次以「受害者」而非「目击相关者」出现——她是怎么死的？文本在本章后段会给出更具体的信息吗？留意。
 
 > **原句 9:** "The days after learning of the murder were a black hole."

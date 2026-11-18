@@ -68,7 +68,7 @@ modified: "2026-11-17"
 **中文理解**：「你生气的时候，想伤害别人吗？或者什么东西？」她问得温柔，却也尽量坦白。比耳语还轻。「想。」「那你会吗？你真的会伤害东西吗？」「不会。」长长的一停。「只会伤害我自己。」
 **关键词**：When you’re angry / hurt someone / Yes / Do you ever hurt things / Just myself
 **为什么这样写**：**全书最重的一次祖孙问答**：她问的是 Tommy 式的问题（愤怒→伤害），他答的是她最怕的答案——不是「我会伤害别人」，而是「我只伤害自己」；「比耳语还轻」的「想」说明他为这个答案羞耻；「长长的一停」之后的自伤告白把家族的暴力谱系翻到了内侧。
-**读者视角提示**：注意她的提问方式（温柔但坦白）——她在用 ch18 的治疗技术：把痛带进来（let it in）。她此刻是母亲而不是审讯者，这是本书对她的最大赦免。
+**读者视角提示**：注意她的提问方式（温柔但坦白）——她在用 ch01 就立下的技术：把痛带进来（let it in）。她此刻是母亲而不是审讯者，这是本书对她的最大赦免。
 
 > **原句 9:** "She takes a long, slow breath. "How?" Julian makes a fist of his small hand and mimes hitting himself in the thigh. Then the face. God. "It's okay to feel angry," she says carefully. "But I would never want you to hurt yourself. Do you understand why?" A nod. "Good. I think you do. You're a very smart boy and sometimes understanding things, especially when you're young, comes with a price. Does that make sense?""
 
@@ -81,7 +81,7 @@ modified: "2026-11-17"
 
 **中文理解**：「我想可以。」「我们付出那个代价，靠的就是谈。把它们放出来，别让它们堆起来变得太大——」他带着初生般的好奇看着她，她忽然想到自己也许倒得太多了。
 **关键词**：I think so / pay that price / talking about things / pile up / tipped too much
-**为什么这样写**：「我们靠谈出来付出代价」是她的治疗师语法在孩子身上的应用（ch18「let it in」的家庭版）；「别让它们堆起来」是她对自己半生的诊断——她堆了八年，直到堆不下去；「倒得太多」是她少见的自我审视：她第一次担心自己给了孩子过多。
+**为什么这样写**：「我们靠谈出来付出代价」是她的治疗师语法在孩子身上的应用（ch01「let it in」的家庭版）；「别让它们堆起来」是她对自己半生的诊断——她堆了八年，直到堆不下去；「倒得太多」是她少见的自我审视：她第一次担心自己给了孩子过多。
 **读者视角提示**：注意这段对话的伦理核心：她在教 Julian 做她没做到的事（说出来）。这是她作为祖母能给的最好的东西。
 
 > **原句 11:** "She gives his hand a final squeeze and stands. "So I've got mac and cheese or pizza, which will it be?" He brightens. "Pizza. As long as it's not pineapple." She laughs. "Not in a million years, kiddo.""

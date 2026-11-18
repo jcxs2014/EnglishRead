@@ -39,7 +39,7 @@ modified: "2026-11-17"
 
 **中文理解**：另一个事实在她看见 Sloan 的邮箱时落定：Tommy 大概知道 Dustin 的痛苦——他们从小一起长大。但如果他不知道呢？如果 Alicia 的死在他心里造成的伤口没有愈合，而是化脓了呢？
 **关键词**：break-ins / Alicia's / believed / everyone
-**为什么这样写**：**「伤口化脓而不是愈合」把创伤写成感染**（ch42 的「堆起来」、ch18 的「让痛进来」）——她第一次把 Tommy 的暴力理解为未治疗的伤，而不是天生邪恶；「如果他不知道」是整个翻案理论的人性版本。
+**为什么这样写**：**「伤口化脓而不是愈合」把创伤写成感染**（ch42 的「堆起来」、ch01 的「让痛进来」）——她第一次把 Tommy 的暴力理解为未治疗的伤，而不是天生邪恶；「如果他不知道」是整个翻案理论的人性版本。
 **读者视角提示**：「化脓而不是愈合」要进总览金句层。
 
 > **原句 5:** "Her lungs begin to burn along with the muscles in her legs, but she continues on, actually pushing a little harder as if to keep these new suspicions at arm's length. They're too massive to contemplate. She doesn't know where to begin. When the rain begins falling harder she turns around and starts back home. She's soaked through—cold and sweating all at the same time. If she's not careful she'll catch her death. But she's gratified to be able to maintain a steady pace all the way to her drive even as the rain intensifies. It gives her a sense she'll be able to meet whatever's over the horizon with strength and grace. She's survived this long and she's not willing to—"

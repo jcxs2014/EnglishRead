@@ -61,7 +61,7 @@ modified: "2026-11-17"
 **中文理解**：九月初的一天，涨潮刚开始，她出门散步——心里还因为 Wendy 第一次开口问她能不能帮忙照看 Julian 一晚、让他们出去约会而鼓着劲——忽然听见一声微弱的呼救。她绕过一大片岩石，踩着上涨的浪花冲过去：他就在那里——她尚未解围的宿敌——半在水中半在岸上。Sloan 的脸是一张痛苦与恐惧的惨白面具，脚踝是扭伤在不平的岸上后肿成的一团丑陋。
 **关键词**：buoyed / a weak cry / unmet nemesis / pale mask
 **为什么这样写**：救人的场景被刻意压低到生活质地里（散步、涨潮、约会托管的碎事）——正因为轻，救命才显得像顺手；「尚未解围的宿敌」用「unmet」精确：她此前所有的警惕还没派上用场；「浮肿成一团的丑陋」拒绝美学化——她记住的是难看，不是英雄。
-**读者视角提示**：Wendy 第一次请她带 Julian 的请求在此出现——它后来成了她们关系里最甜蜜也最锋利的一环（ch10「It's been so hard」）。
+**读者视角提示**：Wendy 第一次请她带 Julian 的请求在此出现——它后来成了她们关系里最甜蜜也最锋利的一环（ch19「It's been so hard」）。
 
 > **原句 8:** "She supposes now it wasn't truly on the beach where they became friends but here in the library where they'd had their first of many cups of coffee together. With her gradually revealing as much of her true self to him wrapped in the guise of Mary Whittaker while learning that the man who had been so full of distrustful questions was really a lonely, kindhearted bookworm with what she's sure is undiagnosed ADHD."
 
@@ -82,7 +82,7 @@ modified: "2026-11-17"
 **中文理解**：「我儿子也死了，」她在能刹住之前就说了出来。在她真正知道自己在做什么之前。自杀。这已经是她能说出口的、最接近真相的说法——因为在某些方面，Tommy 确实是自杀。至少是她认识的那个版本的他。从那一刻起，她与 Sloan 的友谊把他们绑进了那个最可怕的排他俱乐部：活过自己孩子的那些人。
 **关键词**：before she could stop herself / Suicide / as close to the truth / outliving their children
 **为什么这样写**：本章的引爆点是这句她「刹不住」的坦白——坦白在心理学意义上是一种病态冲动，而她把它当成建立关系的仪式：「Suicide」一词被限定为「as close to the truth as she could come」——她在真话边缘做了手脚；「活过自己孩子的俱乐部」是残酷的平等主义：两个父母，用同一种方式失去同一个未来。
-**读者视角提示**：「至少是她认识的那个版本的他」——这是全书对 Tommy 最锋利的一句定性：她爱过的 Tommy 已经死了，眼前这个是另一人。此句与 ch06「像儿子，像母亲」构成两端：她当时不知道自己在说。
+**读者视角提示**：「至少是她认识的那个版本的他」——这是全书对 Tommy 最锋利的一句定性：她爱过的 Tommy 已经死了，眼前这个是另一人。此句与 ch11「像儿子，像母亲」构成两端：她当时不知道自己在说。
 
 > **原句 11:** "She relaxes but can't help but eye the powerful binoculars on the nearest bookcase Sloan keeps handy to peer through when the mood takes him. And from this glass lookout there's not much he can't see. "He did, but he went home yesterday morning. Afterward I ran to town and then fell asleep early in the chair. And today . . . just kind of slipped away.""
 

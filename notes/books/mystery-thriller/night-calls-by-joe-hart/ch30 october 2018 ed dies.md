@@ -26,7 +26,7 @@ modified: "2026-11-17"
 **中文理解**：但现在天已经亮了，大约也就是无云秋日能达到的亮度，而她已经不想再等了。Ed 正在厨房里做三明治。「嘿。」他几乎不可察觉地僵了一下。「就抓点午饭，」他没有转身。她犹豫着，把手臂解开，又交叉起来。「我想跟你谈点事。」
 **关键词**：it was light now / done waiting / making a sandwich / stilled almost imperceptibly
 **为什么这样写**：「不再等」是本段的行动开关——她此前一直在等（等天亮、等判决、等他的态度），此刻她主动推进；交叉又解开的双臂是全章最好的肢体描写：手臂是她的句子底稿，改了又改——她还没开口，读者就知道这场谈话有多难；「没有转身」是他的第一道防线。
-**读者视角提示**：注意他们互称的疏离（Hey／不转身）——半年多没好好说话的人（ch19 的「十二句话」）。
+**读者视角提示**：注意他们互称的疏离（Hey／不转身）——半年多没好好说话的人（ch19 那场近乎无语的晚餐）。
 
 > **原句 3:** "Ed's chin rose. The subject of Tommy's unborn child had been discussed once and only once—on the day Leah had told her. She hadn't known how Ed would react, but she should have, especially with how accustomed she was becoming with this new version of her husband. He had absorbed the news like a terminal diagnosis and returned to his shop and she'd said no more. Until now. "What about it?" he asked. "Him. Not it. Him," she said, bristling. Ed's gaze drifted to the floor. "I want to make plans for when the time comes. I want us on the same page.""
 

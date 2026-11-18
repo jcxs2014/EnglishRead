@@ -9,7 +9,7 @@ modified: "2026-11-17"
 - **一句话概括**：她梦见月光中的自己已经死去、Tommy 变成 Julian、猫头鹰以慢速的警报声鸣叫；醒来时她站在自家门廊、赤脚踩着冷石板——梦游是真是幻？她最后承认那不过是「纯粹的内疚」。
 - **情感弧线位置**：全书最深的噩梦：死、变形、身份叠合与自责在同一夜完成；而清醒后的诊断（内疚）比噩梦更疼。
 - **线索结构**：已死的自己／Tommy→Julian 的变形／慢速猫头鹰与空袭警报／门廊上的梦游物证／「纯粹的内疚」——五线合成一线。
-- **人物弧线**：她第一次在梦里把自己判死，又第一次在醒来后不把内疚拂开——ch18 的治疗指令（let it in）在她身上终于生效。
+- **人物弧线**：她第一次在梦里把自己判死，又第一次在醒来后不把内疚拂开——ch51 的治疗医嘱（let the worst thoughts and feelings in）在她身上终于生效。
 - **叙事手法**：梦的慢速、斜杠身份、声音的自我归因——用形式模拟解离；醒后的冷石板与火灼把梦的物证留在身体上。
 
 ## 精读
@@ -67,7 +67,7 @@ modified: "2026-11-17"
 
 **中文理解**：那声长长的、可怕的猫头鹰叫声中混进一声呻吟，过了一拍她才意识到那声音来自自己。她想用尽最后的力气把眼睛闭上，可 Julian 停了。
 **关键词**：mingles / owl call / came from her / Julian stops
-**为什么这样写**：呻吟来自她自己——这是噩梦的语法：所有声音都是她的声音；「她想用尽最后的力气闭眼」呼应 ch18 的「把痛放进来」的反面：她想关上。
+**为什么这样写**：呻吟来自她自己——这是噩梦的语法：所有声音都是她的声音；「她想用尽最后的力气闭眼」呼应 ch01 的「把痛放进来」的反面：她想关上。
 **读者视角提示**：梦里所有的声音都是她自己的——这是 daymare 的语法。
 
 > **原句 9:** "Then she's in the dark herself, knowing it won't keep her safe but unable to look at her grandson/son any longer. The owl howls on and on and on and she feels the moorings of her mind begin to give way. Julian breathes coldly on her face. She smells dead leaves and north wind. She tries opening her mouth to scream but opens her eyes instead."
@@ -116,7 +116,7 @@ modified: "2026-11-17"
 
 **中文理解**：全在你脑子里。她希望是这样，真的希望。可这个念头同时又 deep 得令人不安。她手指恢复知觉后，退回椅子，用毯子裹住自己。「心总会归家。」——「——内疚。纯粹的内疚。」即便她试着像过去十几年那样把它拂开，记忆还是来了。Hattie 闭上眼睛，照做了。
 **关键词**：brushing it aside / When / fingers / have
-**为什么这样写**：**「All in your head」是全书对她最大的判决**：她希望是脑子里的，又怕是——因为如果是脑子里的，她就是那个「有病的人」；「纯粹的内疚」是她对 ch14 的自白：她帮着推过了 Ed 的临界点；「她闭上眼睛，照做了」＝她终于让自己感到内疚（ch18 的治疗指令：let it in）。
+**为什么这样写**：**「All in your head」是全书对她最大的判决**：她希望是脑子里的，又怕是——因为如果是脑子里的，她就是那个「有病的人」；「纯粹的内疚」是她对 ch14 的自白：她帮着推过了 Ed 的临界点；「她闭上眼睛，照做了」＝她终于让自己感到内疚（ch51 的治疗医嘱：let it in）。
 **读者视角提示**：「纯粹的内疚」是本章的判词，也是 she’s come to know 的终点（ch01 的 mantra 在此被内疚取代）。
 
 ## 本章词汇

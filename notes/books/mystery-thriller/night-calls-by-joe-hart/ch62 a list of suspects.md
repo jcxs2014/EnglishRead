@@ -46,7 +46,7 @@ modified: "2026-11-17"
 
 **中文理解**：有那么一秒她让这个念头进来：想象 Tommy 的无辜以及那意味着什么。她的喉咙收紧——
 **关键词**：witnessing / innocence / listening / Imagines
-**为什么这样写**：「让这个念头进来」呼应 ch18 的治疗指令「let it in」——她终于把「Tommy 无辜」放进来，而身体的反应是喉咙收紧：真相比谎言更难受。
+**为什么这样写**：「让这个念头进来」呼应 ch51 的治疗医嘱「let it in」——她终于把「Tommy 无辜」放进来，而身体的反应是喉咙收紧：真相比谎言更难受。
 **读者视角提示**：「让他进来」＝let it in 的治疗指令。
 
 > **原句 6:** "The old iPhone is ringing. Hattie hurries to her room and pulls open the bedside drawer, sure it will be Tommy calling, asking with his silence for her to help him stop. But it isn't. It's Leah."

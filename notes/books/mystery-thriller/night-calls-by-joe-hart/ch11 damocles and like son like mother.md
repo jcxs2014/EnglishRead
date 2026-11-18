@@ -60,7 +60,7 @@ modified: "2026-11-17"
 
 **中文理解**：老天，她需要喝一杯。她开了那瓶酒，倒了一杯端进书房。夜幕已经落下，海湾对岸 Sloan 家的灯明亮而诱人。但她今晚没法把杂货给他送去——更别提面对他本人了。他会从她眼睛里看出东西，以她现在的状态，她可能最后会把一切都告诉他。她还没准备好。还没有。
 **关键词**：beckoning / deliver / in her eyes / Not yet
-**为什么这样写**：Sloan 的灯是本章唯一的暖光源——「诱人」暴露她的需要：她想去的最安全的地方是一个老人的厨房；但去成不了——「他会看出东西」：Sloan 是她防御系统里唯一没设防的端口（不是亲人、不问问题），恰恰因此最危险；「Not yet」第二次出现（ch06 是手机、这里是 Sloan）——她的「未准备好」是全局口头禅。
+**为什么这样写**：Sloan 的灯是本章唯一的暖光源——「诱人」暴露她的需要：她想去的最安全的地方是一个老人的厨房；但去成不了——「他会看出东西」：Sloan 是她防御系统里唯一没设防的端口（不是亲人、不问问题），恰恰因此最危险；「Not yet」是她「未准备好」的口头禅（本书此后在 ch14/ch61/ch62/ch64/ch73/ch83 反复出现），这里是针对 Sloan。
 **读者视角提示**：她与 Sloan 的友谊在本章被定位成「单方面透明的风险区」——对谁都设防的她，对这位老人防不住。这条线后面要么成为她的救赎通道，要么成为破口。
 
 > **原句 8:** "Instead, she finishes her wine and readies for bed, checking the phone again in the nightstand drawer. Then she tries to sleep." But mostly she listens to the wind and lies staring into the dark, waiting for morning."

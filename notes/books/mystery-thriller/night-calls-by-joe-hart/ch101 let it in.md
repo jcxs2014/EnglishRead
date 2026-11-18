@@ -18,7 +18,7 @@ modified: "2026-11-17"
 
 **中文理解**：整栋小屋都是烤面包的香味。凉爽的十月阳光透过窗户洒进来，枯叶在微风里打转。海面今天很平静，她也一样。Hattie 坐在书房，闭着眼，深深呼吸——把安静吸进来，直到它把自己填满。
 **关键词**：breathing / Inhaling / sunshine / October
-**为什么这样写**：「整栋屋子都是烤面包的香味／海面平静，她也一样」——全书开场的意象是空枕与冷（ch01），此刻是面包与暖阳：创伤后的日常终于有了温度；「把安静吸进来直到填满」把她全书「把痛放进来」（ch18）的技术用在正面事物上——她学会了呼吸平静。
+**为什么这样写**：「整栋屋子都是烤面包的香味／海面平静，她也一样」——全书开场的意象是空枕与冷（ch01），此刻是面包与暖阳：创伤后的日常终于有了温度；「把安静吸进来直到填满」把她全书「把痛放进来」（ch01）的技术用在正面事物上——她学会了呼吸平静。
 **读者视角提示**：「烤面包／平静的海／她也平静」：全书开场是空枕与冷，此刻是暖——创伤后日常的温度。
 
 > **原句 2:** "The timer dings and she rises to take the bread from the oven. It's browned perfectly. As it cools she stands in the middle of the kitchen, turning in a slow circle. There is something else she's supposed to do but she can't remember what it is. Something important. Crucial. The nagging sense of it slipping away is maddening. Like an itch that won't subside no matter how hard or deep it's scratched. Forget it. Everything's okay. But forgetting is the problem. And everything isn't okay."
@@ -26,7 +26,7 @@ modified: "2026-11-17"
 **中文理解**：计时器叮了一声，她起身从烤箱里取出面包，烤得恰到好处。面包放凉时，她站在厨房中央，缓缓转了一圈。还有别的什么事是她该做的，可她想不起来是什么。重要的、 crucial 的事。那种它正从指缝溜走的 nag 让人发疯，像怎么挠都止不住的痒。「忘了它吧。一切都好。」可遗忘正是问题所在。而一切都并不好。
 **关键词**：Everything's / everything / forgetting / Something
 **为什么这样写**：「有件事该做却想不起来／重要的、crucial」是记忆的断裂（解离的后遗症），而「像怎么挠都止不住的痒」把它写成身体的不适；「遗忘正是问题所在，而一切都并不好」——她终于不再用「一切都好」骗自己（ch37「一首诗只是一首诗」的反面）。
-**读者视角提示**：「把安静吸进来」：她把 ch18「let it in」用在正面事物上——学会了呼吸平静。
+**读者视角提示**：「把安静吸进来」：她把 ch01「let it in」用在正面事物上——学会了呼吸平静。
 
 > **原句 3:** "A second before it happens, she feels it coming. Like a hammer cocking before a gunshot. Her old phone starts to ring. Impossible. I threw it away after . . . But it's ringing anyway, and she can't do anything but follow the sound down the hallway to her bedroom. The drawer she kept it in is slightly open. She doesn't recall leaving it that way. The light from the screen shines from inside. The ringing goes on much longer than it should. She finds herself pulling the drawer the rest of the way open and drawing the phone out. It vibrates in her hand like something thriving with terrible life."
 
@@ -60,8 +60,8 @@ modified: "2026-11-17"
 
 **中文理解**：「是真的。它发生了。别假装。一秒都别。别试着把它挡在外面。让它进来。」她照做了。很疼，但她像过去十个月里那样，重新经历那一夜。今天比昨天稍微不那么疼一点。伤痛永远不会消失，但她会学会承受它。别无选择。
 **关键词**：imagination / everything / attention / Movement
-**为什么这样写**：**「让它进来」（let it in）是 ch18 治疗师给她的指令，在此被她主动执行**：十个月（从 ch100 的 December 到此刻的 October——时间线的跨度）过去，她终于不把痛推出去；「今天比昨天不那么疼／伤痛永不消失但可承受」——这是全书给出的唯一答案：不是痊愈，是学会承受；ch97 的「爱只守它自己」在此得到行为上的回应。
-**读者视角提示**：**「让它进来」**：ch18 的治疗指令在此主动执行——答案不是痊愈，是学会承受。
+**为什么这样写**：**「让它进来」（let it in）是 ch01 就立下的自我指令，在此被她主动执行**：十个月（从 ch100 的 December 到此刻的 October——时间线的跨度）过去，她终于不把痛推出去；「今天比昨天不那么疼／伤痛永不消失但可承受」——这是全书给出的唯一答案：不是痊愈，是学会承受；ch97 的「爱只守它自己」在此得到行为上的回应。
+**读者视角提示**：**「让它进来」**：ch51 的治疗医嘱在此主动执行——答案不是痊愈，是学会承受。
 
 > **原句 8:** "Hattie climbs from bed and starts to get ready. There's lots to do today."
 
