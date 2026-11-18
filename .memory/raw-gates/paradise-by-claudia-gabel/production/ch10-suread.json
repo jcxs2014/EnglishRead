@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch10",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch10_paradise.txt",
+ "facts": [
+  {
+   "fact": "好消息：风暴已正式移出外海，Simone 顺带夸了一嗓子 Mother Nature。",
+   "anchor": "The storm has officially moved out to sea!",
+   "start": 19,
+   "end": 61
+  },
+  {
+   "fact": "安全预防仍在：港内设施关闭至次日早晨，清洁队通夜清除残骸；还在外面的人须找接驳车回 villa。",
+   "anchor": "We’re closing all harbor facilities until the morning so cleanup crews can work overnight to remove any debris.",
+   "start": 316,
+   "end": 427
+  },
+  {
+   "fact": "岛上部分地区停电，主要集中在 Tranquil Cove 一侧。",
+   "anchor": "we do have some power issues on certain parts of the island, mainly on the Tranquil Cove side",
+   "start": 436,
+   "end": 529
+  },
+  {
+   "fact": "广播安抚孩子：\"别担心，你父母没事\"——还打趣说烛光对大人来说再浪漫不过。",
+   "anchor": "Don’t worry, your parents are just fine.",
+   "start": 531,
+   "end": 571
+  },
+  {
+   "fact": "Simone 以\"signing off for now\"结束本次广播。",
+   "anchor": "This is Simone, signing off for now.",
+   "start": 676,
+   "end": 712
+  }
+ ]
+}
