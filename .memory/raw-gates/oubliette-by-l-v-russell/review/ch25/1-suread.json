@@ -1,0 +1,61 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch25",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch25_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "自制 tether：晨出暮归 Anne 家（偷来的时辰）——「I am encaged within his arms, and it is a prison I would not fight my way out of.」",
+   "anchor": "a prison I would not fight my way out of.",
+   "start": 804,
+   "end": 845
+  },
+  {
+   "fact": "夜宿母亲坟上（数周）：「She is my shadow, a mad reflection of myself, and I am not whole without her. It is a terrible, terrible thought」",
+   "anchor": "She is my shadow, a mad reflection of myself",
+   "start": 1163,
+   "end": 1207
+  },
+  {
+   "fact": "拖 Ladies 尸体过桥扔沟（雨来水涨尸没）；「Rats gather at my feet, constant companions」；「It feels like my mother.」（寒入骨=母亲）",
+   "anchor": "constant companions in the dark.",
+   "start": 2254,
+   "end": 2286
+  },
+  {
+   "fact": "求继续探望 Anne 被斥（spoiled little girl / I never coddled you）——「I would never ask anything again, if you allow me to continue these visits.」全面投降",
+   "anchor": "You grow needy.",
+   "start": 3026,
+   "end": 3041
+  },
+  {
+   "fact": "母亲靠气味推断 Anne 有孕：「A babe must come. Will it be spring? Like a newborn lamb?」「You were mine.」「And still, I am.」",
+   "anchor": "“She fucks her husband, does she not?”",
+   "start": 3564,
+   "end": 3602
+  },
+  {
+   "fact": "黑泪忏悔独白：「You were a light that did not scorch, but warmed. I have so few regrets, child, but your suffering is one I will carry...I will allow that regret to drag me into hell.」",
+   "anchor": "you were a rare light, one I had long forgotten could even exist",
+   "start": 4197,
+   "end": 4261
+  },
+  {
+   "fact": "「Please do not hurt Anne. Not her.」「If not Anne, then whom?」——她愿卖身百次千次转移母亲目光",
+   "anchor": "I will whore myself out a hundred…a thousand times",
+   "start": 4847,
+   "end": 4897
+  },
+  {
+   "fact": "干涸护城河=母亲的心：「Like pieces of my heart, it has cracks, child, fissures split by you and your cruelty, your desire to leave me.」",
+   "anchor": "Like pieces of my heart, it has cracks",
+   "start": 5218,
+   "end": 5256
+  },
+  {
+   "fact": "「You do not love me as you once did...Someone else has claimed a larger part of it, leaving me with scraps.」——「The moat is dry, my darling girl. And I will be your suffering.」→ Oren.「She knows, she knows, she knows.」「I have nowhere left.」",
+   "anchor": "“And I will be your suffering.”",
+   "start": 6043,
+   "end": 6074
+  }
+ ]
+}
