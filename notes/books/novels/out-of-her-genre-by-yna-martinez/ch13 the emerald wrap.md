@@ -14,7 +14,7 @@ modified: "2026-11-18"
 
 ## 精读
 
-> **原句 1:** "Marcus: Good morning, Ms. Martinez. I hope you slept well. Mr. Rhodes has a few updates regarding the cover launch strategy—he'll be in your office by 9:00 AM. … “Right,” she muttered into the empty bedroom, rubbing the sleep from her eyes as she dragged herself out from under the covers. “No rest for the wicked.”"
+> **原句 1:** "Marcus: Good morning, Ms. Martinez. I hope you slept well. Mr. Rhodes has a few updates regarding the cover launch strategy—he'll be in your office by 9:00 AM. … Yna stared at the glowing words until the letters blurred together. … “Right,” she muttered into the empty bedroom, rubbing the sleep from her eyes as she dragged herself out from under the covers. “No rest for the wicked.”"
 
 **中文理解**：Marcus：早上好，Martinez 女士。希望您睡得不错。Rhodes 先生对封面发布策略有几项更新——他将于上午 9 点到您办公室。「好的，」她对着空卧室咕哝，一边揉眼睛一边把自己从被子里拖出来。「恶人没觉睡。」
 **关键词**：Mr. Rhodes has a few updates / in your office by 9:00 AM / No rest for the wicked
@@ -73,14 +73,14 @@ modified: "2026-11-18"
 > **原句 9:** "Kai’s expression grew quiet and steady. “It's okay to be nervous,” he murmured, pitching his voice low enough that only Yna could hear him over the hum of the studio equipment. “You spend your whole life creating worlds where you're in control. Being the center of attention in this one is a different kind of monster.” … He reached out. … With slow, deliberate care, his fingers caught the edge of her collar where the emerald silk had bunched slightly. He straightened it with practiced gentleness, his knuckles lightly brushing against the bare skin of her collarbone. … Yna forgot what she had been about to say, her hands instinctively curling against the velvet armrests. … “There,” Kai whispered, his dark eyes locking onto hers with unwavering intensity. “Now you look like the queen you write about.”"
 
 **中文理解**：Kai 的表情变得安静而平稳。「紧张很正常，」他低声说，音量刚好只够 Yna 越过录音棚设备的嗡鸣听清。「你花了一辈子创造你能掌控的世界。在这种世界里成为焦点，是另一种怪物。」他伸出手。他以缓慢、克制的轻柔，手指捏住翡翠丝绸在她领口微微堆起的边缘，用熟练的轻巧把它抚平，指节轻轻擦过她锁骨上裸露的皮肤。Yna 忘了自己刚要说什么，双手本能地扣紧天鹅绒扶手。「好了，」Kai 低语，黑眼睛带着不移开的强度锁住她的。「现在你看起来像你写的那个女王了。」
-**关键词**：It's okay to be nervous / a different kind of monster / brushing against the bare skin of her collarbone / Now you look like the queen you write about
+**关键词**：It's okay to be nervous / a different kind of monster / brushing against the bare skin of her collarbone / the queen you write about
 **为什么这样写**：理领口是他第一次「以照顾为名的触碰」——动作全部有职务理由，温度全部没有。女王一句把上一块的玩笑就地转正：她写的女王成了他对她的命名法。快门在他们的静帧上抢跑，替两人把这一秒存档。
 **读者视角提示**：记住「另一种怪物」——他把她对镜头的恐惧翻译成她的母语（怪物），再用一句加冕礼收服它。
 
 > **原句 10:** "Click. Whir. … “Perfect!” Leo called out, peering at his digital display. “Don't move, Yna! Whatever just happened, that's the energy I want!” … Yna drew a breath, abruptly aware of how still the room had become as she pulled her gaze back to the camera lens. “Right. Of course.”"
 
 **中文理解**：咔哒。嗡。「完美！」Leo 一边盯着数码显示屏一边喊。「别动，Yna！不管刚才发生了什么——就是我要的能量！」Yna 深吸一口气，猛然意识到房间已经安静成什么样子，她把视线拉回相机镜头。「好。当然。」
-**关键词**：Click. Whir. / that's the energy I want / abruptly aware of how still the room had become
+**关键词**：Click. Whir. / that's the energy I want / abruptly aware
 **为什么这样写**：摄影师成了新增证人：他不知道刚才发生了什么，但相机知道——「就是我要的能量」是把心动定义为作品的行业黑话。她「猛然意识到房间多静」，是被人围观灼伤的瞬间。
 **读者视角提示**：咔哒声是本章的秒表：从这一声起，他们的每一格胶片都有了证据效力。
 
@@ -112,7 +112,7 @@ modified: "2026-11-18"
 **为什么这样写**：她给自己找的降温借口被叙述者当场没收（不是灯）——物理归因的失败就是心动确诊。与 Kai 的咖啡机故障互为镜像：两人都拿设备当替罪羊。
 **读者视角提示**：记住这对镜像——他的咖啡机、她的灯：设备背锅是他们最早的共同语言。
 
-> **原句 15:** "His back was to the door, the muscles in his neck pulled tight as he stared down at the espresso machine as though the machine had personally betrayed him. … Yna stopped in the doorway. “Are you okay?” … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … Kai didn't turn around. “Perfectly.” … “You appear to be interrogating a coffee machine.” … “I'm considering my options,” Kai said."
+> **原句 15:** "His back was to the door, the muscles in his neck pulled tight as he stared down at the espresso machine as though the machine had personally betrayed him. … Yna stopped in the doorway. “Are you okay?” … Kai didn't turn around. “Perfectly.” … Kai didn't turn around. “Perfectly.” … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … She looked at the untouched, empty espresso cup sitting crookedly in his hand. … “You appear to be interrogating a coffee machine.” … A long, heavy silence stretched across the kitchen. … “I'm considering my options,” Kai said."
 
 **中文理解**：不锈钢操作台边站着的，是 Kai。他背对着门，颈侧的肌肉绷得死紧，低头瞪着那台咖啡机，仿佛机器亲手背叛了他。Yna 在门口停住。「你还好吗？」Kai 没有回头。「好得很。」她看着那只空空如也、歪放在他手里的浓缩咖啡杯。「你看上去在审讯一台咖啡机。」一段漫长而沉重的沉默横过厨房。「我在考虑我的选项，」Kai 说。
 **关键词**：the machine had personally betrayed him / Perfectly. / interrogating a coffee machine / I'm considering my options

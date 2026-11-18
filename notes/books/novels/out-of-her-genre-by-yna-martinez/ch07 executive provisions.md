@@ -42,7 +42,7 @@ modified: "2026-11-18"
 **为什么这样写**：作者给认出瞬间写的全是体征：皱眉半分、二次扫视、镜片后的击中——证据链完整但零台词。Marcus 的沉默是本章的善意：他选择不拆穿，把秘密留给当事人自己处理。
 **读者视角提示**：他笑意放大又立刻收住的半秒，是目前全书最贵的表情管理——他明明可以说「昨晚我见过你」。
 
-> **原句 5:** "Marcus gestured toward the cup with a subtle nod. “Mr. Rhodes asked me to make sure you had the coffee you prefer.” … Yna picked up the mug and took a cautious sip. It was hot, rich, and mixed with the exact ratio of cream and sugar of a perfect Tim Hortons dark roast coffee. … She let out a soft, appreciative hum. I guess he really does remember."
+> **原句 5:** "Marcus gestured toward the cup with a subtle nod. “Mr. Rhodes asked me to make sure you had the coffee you prefer.” … “Thank you, Marcus.” … He gave a brief, formal bow and stepped aside. … Yna picked up the mug and took a cautious sip. It was hot, rich, and mixed with the exact ratio of cream and sugar of a perfect Tim Hortons dark roast coffee. … She let out a soft, appreciative hum. I guess he really does remember."
 
 **中文理解**：Marcus 对着杯子轻轻一点头。「Rhodes 先生特意吩咐，确保您喝到习惯的咖啡。」Yna 捧起马克杯小心地啜了一口。滚烫、浓郁，奶与糖的比例与一杯完美的 Tim Hortons 深烘完全一致。她发出一声轻软的、满足的哼鸣。看来他真的记得。
 **关键词**：the coffee you prefer / took a cautious sip / exact ratio of cream and sugar / I guess he really does remember
@@ -70,7 +70,7 @@ modified: "2026-11-18"
 **为什么这样写**：上一章她拿「资产」当玩笑抛出，本章她主动引用——这个词已被两人共有。media training 是她至今收到最厚的护航配置，她只用一句话签收（我是资产）。Read the terms 是他把私密话题按回纸面的标准动作。
 **读者视角提示**：「毗邻我办公室」是本块真正的头条——商业理由全都成立，但它同时意味着：他给自己批了一个天天见她的位置。
 
-> **原句 9:** "Kai looked down at the contract in front of him. He had been reading the same paragraph for nearly a minute. … Yna was still reading, completely absorbed, one loose strand of hair resting against her cheek. … His patience with himself was beginning to wear thin."
+> **原句 9:** "Kai looked down at the contract in front of him. He had been reading the same paragraph for nearly a minute. … He looked up. … Yna was still reading, completely absorbed, one loose strand of hair resting against her cheek. … His attention stayed there a second too long. … He forced his eyes back to the contract. The paragraph still hadn't changed. … His patience with himself was beginning to wear thin."
 
 **中文理解**：Kai 低头看面前的合同。同一段落他已经读了将近一分钟。他抬起头。Yna 还在读，完全沉浸，一缕散下来的头发贴在脸颊上。他的注意力在那里多停了一秒。他强迫眼睛回到合同上。那段落一个字都没变。他对自己忍耐的库存开始告急。
 **关键词**：reading the same paragraph for nearly a minute / completely absorbed / one loose strand of hair / patience with himself

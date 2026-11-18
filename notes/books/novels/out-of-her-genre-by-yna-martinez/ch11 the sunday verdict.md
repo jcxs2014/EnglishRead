@@ -14,7 +14,7 @@ modified: "2026-11-18"
 
 ## 精读
 
-> **原句 1:** "“His name is Marcus,” Jaemee said, her cheeks turning a delicate pink. “We met a little over a week ago—the night we went to that pub for Yna’s birthday.” … “Yes!” Jaemee laughed. “He came over to our booth with his boss, remember? We ended up talking while you guys were ordering another round of spicy Caesars. Yna, he’s amazing. Smart, ridiculously funny, wears these sharp glasses... he's an executive assistant for a firm downtown.”"
+> **原句 1:** "“His name is Marcus,” Jaemee said, her cheeks turning a delicate pink. “We met a little over a week ago—the night we went to that pub for Yna’s birthday.” … Yna blinked, trying to sift through the hazy, wing-sauce-filled memories of her chaotic 40th birthday. “At the pub? Really?” … “Yes!” Jaemee laughed. “He came over to our booth with his boss, remember? We ended up talking while you guys were ordering another round of spicy Caesars. Yna, he’s amazing. Smart, ridiculously funny, wears these sharp glasses... he's an executive assistant for a firm downtown.”"
 
 **中文理解**：「他叫 Marcus，」Jaemee 说，脸颊泛起娇嫩的粉红。「我们认识一个多星期了——就是为 Yna 庆生去那家 pub 的那晚。」「对！」Jaemee 笑道。「他跟他老板一起走到我们卡座来的，记得吗？你们去点下一轮辣味凯撒的时候我们就聊上了。Yna，他太棒了。聪明、搞笑得离谱、戴一副锐利的眼镜……他是市中心一家公司的行政助理。」
 **关键词**：His name is Marcus / the night we went to that pub / with his boss / an executive assistant for a firm downtown
@@ -35,61 +35,61 @@ modified: "2026-11-18"
 **为什么这样写**：作者把闺蜜聚餐写成完整法庭：证物编号、被告、控方、呈堂——红心收藏在这个司法体系里等于签字画押。她的第一反应不是否认而是恐慌，说明她自己清楚这证据有多硬。
 **读者视角提示**：法庭隐喻是本章的骨架：闺蜜只负责举证，判决由周一的会议桌执行。
 
-> **原句 4:** "“That's my publisher!” Yna hissed, keeping her voice down as her heart hammered against her ribs. “That's Kai Rhodes!” … Jen’s jaw dropped. “Your PUBLISHER?!” … “Yes! He was on the hike because it was a Rhodes Creative Group corporate event!” Yna explained frantically, her hands flying everywhere. “A stranger on the trail offered to take our picture! I didn't ask for it! And I tapped the heart icon by accident because my fingers were sweaty from the trail!”"
+> **原句 4:** "“That's my publisher!” Yna hissed, keeping her voice down as her heart hammered against her ribs. “That's Kai Rhodes!” … Jen’s jaw dropped. “Your PUBLISHER?!” … “Yes! He was on the hike because it was a Rhodes Creative Group corporate event!” Yna explained frantically, her hands flying everywhere. “A stranger on the trail offered to take our picture! I didn't ask for it! And I tapped the heart icon by accident because my fingers were sweaty from the trail!” … Jaemee looked at the photo again, then looked up at Yna with deep, affectionate amusement. “Yna, sweetie... you can lie to yourself all day, but you cannot lie to that camera. Look at his eyes! That man isn't looking at a 'client.' He looks like he's silently calculating how to clear your entire schedule forever.”"
 
-**中文理解**：「那是我的出版人！」Yna 压着嗓子嘶声说，心跳撞着肋骨。「那是 Kai Rhodes！」Jen 的下巴掉下来。「你的出版人？！」「对！他去徒步是因为那是 Rhodes Creative Group 的公司活动！」Yna 手舞足蹈地解释。「路上一个陌生人主动提出帮我们拍照！我没要求！红心是我手汗太多不小心按到的！」
-**关键词**：That's my publisher! / Your PUBLISHER?! / a Rhodes Creative Group corporate event / I tapped the heart icon by accident
+**中文理解**：「那是我的出版人！」Yna 压着嗓子嘶声说，心跳撞着肋骨。「那是 Kai Rhodes！」Jen 的下巴掉下来。「你的出版人？！」「对！他去徒步是因为那是 Rhodes Creative Group 的公司活动！」Yna 手舞足蹈地解释。「路上一个陌生人主动提出帮我们拍照！我没要求！红心是我手汗太多不小心按到的！」Jaemee 又看了看照片，然后带着深深的、宠溺的有趣抬头看 Yna。
+**关键词**：That's my publisher! / her hands flying everywhere / deep, affectionate amusement
 **为什么这样写**：她的三条辩护（职业关系、公司活动、误触）条条属实、连起来却句句撒谎——作者用「全部真话构成的谎言」写她此刻的立场：每一句都经得起事实核查，没有一句经得起眼神核查。
-**读者视角提示**：「手汗误触」是她给自己写的判决书——连她自己都不信，所以才需要说得这么快。
+**读者视角提示**：Jaemee 的沉默端详是判决前的最后一步——证据已经够硬，只差宣判词。
 
-> **原句 5:** "Jaemee looked at the photo again, then looked up at Yna with deep, affectionate amusement. “Yna, sweetie... you can lie to yourself all day, but you cannot lie to that camera. Look at his eyes! That man isn't looking at a 'client.' He looks like he's silently calculating how to clear your entire schedule forever.”"
-
-**中文理解**：Jaemee 又看了看照片，然后带着深深的、宠溺的有趣抬头看 Yna。「Yna，亲爱的……你骗得了自己一整天，可你骗不了那台相机。看他的眼睛！那男人看的根本不是『客户』。他像是在无声地计算怎么把你的余生日程彻底清空。」
-**关键词**：you cannot lie to that camera / deep, affectionate amusement / looking at a 'client.' / clear your entire schedule forever
-**为什么这样写**：判词的核心是物证优于口供：她的嘴在辩护，照片在作证。「清空余生日程」是 Yna 式词汇（日程、计算）的回旋镖——用 Kai 的语言翻译他的眼神，一句话把职业逻辑翻译成爱情逻辑。
-**读者视角提示**：这句判词替读者把 ch09 那张照片的语义彻底宣判：不是构图好，是眼神供认了。
-
-> **原句 6:** "“He is not!” Yna argued, her face burning. “He is an extremely controlled, stoic CEO. His life is calculated down to the minute. We have strict professional boundaries! We're having a cover strategy meeting on Monday morning, and it's going to be one-hundred percent professional!” … Jen and Jaemee looked at each other across the table, both breaking into identical, knowing smirks. … Jaemee picked up her champagne flute, raising it in a toast. … “To Yna's strict professional boundaries,” Jaemee smiled, her eyes twinkling with mischief. “Let's see how long those survive by Friday.”"
+> **原句 5:** "“He is not!” Yna argued, her face burning. “He is an extremely controlled, stoic CEO. His life is calculated down to the minute. We have strict professional boundaries! We're having a cover strategy meeting on Monday morning, and it's going to be one-hundred percent professional!” … Jen and Jaemee looked at each other across the table, both breaking into identical, knowing smirks. … Jaemee picked up her champagne flute, raising it in a toast. … “To Yna's strict professional boundaries,” Jaemee smiled, her eyes twinkling with mischief. “Let's see how long those survive by Friday.”"
 
 **中文理解**：「他不是！」Yna 嘴上争辩，脸上烧得通红。「他是个极度自控、面无表情的 CEO。他的生活按分钟计算。我们有严格的职业边界！周一早上我们要开封面策略会，那将会是一百 professionalism 的会议！」Jen 和 Jaemee 隔着桌子对视，同时咧出两副一模一样的、心知肚明的坏笑。Jaemee 拿起香槟杯，举杯。「敬 Yna 严格的职业边界，」她笑着说，眼里闪着促狭。「看它们能活到星期五吗。」
 **关键词**：an extremely controlled, stoic CEO / strict professional boundaries / identical, knowing smirks / Let's see how long those survive by Friday
 **为什么这样写**：她引以为傲的「按分钟计算」在闺蜜耳朵里是心动的症状而非职业美德——同一份人物说明，两个读者两份读后感。敬酒词把她的防御工事写成了倒计时装置：周五是作者设下的到期日。
 **读者视角提示**：记住「周五」这个期限——闺蜜的玩笑话在本书是预告函。
 
-> **原句 7:** "She wore a crisp navy blazer, a tailored cream blouse, and her hair swept up into an elegant, deliberate twist. She had spent all Sunday evening rehearsing her “Corporate Author” persona in the bathroom mirror. … Rule Number One: No mentioning mountain views. Rule Number Two: No mentioning trail mix. Rule Number Three: Absolute, unflinching professional distance."
+> **原句 6:** "She wore a crisp navy blazer, a tailored cream blouse, and her hair swept up into an elegant, deliberate twist. She had spent all Sunday evening rehearsing her “Corporate Author” persona in the bathroom mirror. … Rule Number One: No mentioning mountain views. Rule Number Two: No mentioning trail mix. Rule Number Three: Absolute, unflinching professional distance."
 
 **中文理解**：她穿一件挺括的深藏青西装外套、裁剪利落的奶油色衬衫，头发盘成一个优雅而刻意的髻。整个周日晚上，她都在浴室镜子前排练她的「企业作者」人格。规则一：不许提山景。规则二：不许提步道混合坚果。规则三：绝对的、不眨眼的职业距离。
 **关键词**：a crisp navy blazer / rehearsing her "Corporate Author" persona / No mentioning mountain views / Absolute, unflinching professional distance
 **为什么这样写**：三条规则把心虚列成了检查清单——越是列得工整，越说明她知道自己的脑子往哪跑。用排练对抗失控是 Yna 的老办法：仪式感是她给自己上的装甲。
 **读者视角提示**：规则三的「不眨眼」一语成谶——今天她先眨眼的方式是一台手机。
 
-> **原句 8:** "She had forgotten one tiny, catastrophic detail. … On Sunday night, while trying to adjust her phone settings, she had accidentally set her recent “Favorites” folder to auto-rotate as her lock screen wallpaper preview. … The moment Yna’s screen illuminated with an incoming calendar alert, the display flashed in high-definition: … The summit photograph. … There was Yna, smiling softly in the mountain sunlight. And there was Kai, standing beside her in his hiking top, looking down at her with a gaze so intensely, unmistakably focused that it felt like an explicit confession broadcast on a five-inch screen."
+> **原句 7:** "She had forgotten one tiny, catastrophic detail. … On Sunday night, while trying to adjust her phone settings, she had accidentally set her recent “Favorites” folder to auto-rotate as her lock screen wallpaper preview. … The moment Yna’s screen illuminated with an incoming calendar alert, the display flashed in high-definition: … The summit photograph. … There was Yna, smiling softly in the mountain sunlight. And there was Kai, standing beside her in his hiking top, looking down at her with a gaze so intensely, unmistakably focused that it felt like an explicit confession broadcast on a five-inch screen."
 
 **中文理解**：她忘了一件微小而灾难性的细节。周日晚上调手机设置的时候，她不小心把最近的「收藏」相册设成了锁屏壁纸预览的自动轮播。就在 Yna 的屏幕被一条日程提醒点亮的那一瞬间，屏幕以高清闪现出——山顶那张照片。照片里，Yna 在山间阳光里温柔地笑着。旁边站着 Kai，穿着徒步上衣，低头看她，那目光专注得毫无歧义，像一句在五寸屏幕上公开播报的告白。
 **关键词**：one tiny, catastrophic detail / auto-rotate as her lock screen wallpaper preview / an incoming calendar alert / The summit photograph. / a five-inch screen
 **为什么这样写**：社死装置的机关写得极工整：相册、轮播、日程提醒——三个无害设置连成一条完整的引信。上一章的「高清告白」在这里获得了物理播放渠道：她的收藏变成了他的场次。
 **读者视角提示**：她的证据库第一次反向泄漏——收藏照片的那一刻起，风险就已经立项，只差爆点。
 
-> **原句 9:** "Kai’s eyes dropped to the phone. … Yna’s gaze followed his—and her soul nearly left her body. … In a movement so fast it defied human physics, Yna slammed her hand down onto the phone, flipping it face-down onto the table with a loud, sharp CLACK that echoed through the quiet room."
+> **原句 8:** "Kai’s eyes dropped to the phone. … He froze. … Yna’s gaze followed his—and her soul nearly left her body. … In a movement so fast it defied human physics, Yna slammed her hand down onto the phone, flipping it face-down onto the table with a loud, sharp CLACK that echoed through the quiet room."
 
 **中文理解**：Kai 的目光落到手机上。他僵住了。Yna 的视线顺着他的看过去——她的灵魂差点当场离体。她以一个快到违反人体物理学的动作，一巴掌把手机拍成面朝下，一声清脆的 CLACK 在安静的会议室里回荡。
 **关键词**：Kai's eyes dropped to the phone. / her soul nearly left her body / it defied human physics / a loud, sharp CLACK
 **为什么这样写**：两个人同步冻结的镜头是本章的静帧高潮：他看见的是她的收藏，她看见的是他看见了。CLACK 是她全年最大声的一句话——所有不敢说的，都由掌心替她砸在了桌上。
 **读者视角提示**：记住这声 CLACK——它是本章唯一的台词，双方都听懂了，双方都装没听懂。
 
-> **原句 10:** "I believe I hired an executive assistant, not a full-time matchmaker. … Marcus: Consider it strategic brand alignment, Mr. Rhodes. The floor is quiet. The food is paid for. Don't be shy, boss. Make a move. … Kai’s jaw tightened. He locked the screen with a sharp flick of his thumb, slid the phone into his pocket, and willed down the faint warmth threatening his collar."
+> **原句 9:** "I believe I hired an executive assistant, not a full-time matchmaker. … Three dots pulsed immediately. … Marcus: Consider it strategic brand alignment, Mr. Rhodes. The floor is quiet. The food is paid for. Don't be shy, boss. Make a move. … Kai’s jaw tightened. He locked the screen with a sharp flick of his thumb, slid the phone into his pocket, and willed down the faint warmth threatening his collar."
 
 **中文理解**：我相信我雇的是一名行政助理，不是一个全职媒人。Marcus：就当是战略品牌协同，Rhodes 先生。这层楼很安静。饭钱我付了。别害羞，老板。行动吧。Kai 的下颌收紧。他一记利落的拇指锁屏，把手机塞进口袋，把那股往领口爬的微温硬生生压了下去。
 **关键词**：not a full-time matchmaker / strategic brand alignment / Don't be shy, boss. Make a move. / the faint warmth
 **为什么这样写**：短信对线是主会场的画外音：Kai 用雇拥合同抗议，Marcus 用品牌术语回敬——同一套公司语言的两个用法，一个筑墙、一个开门。willed down 的微温泄露天机：真正需要压制的不是助理，是自己的领口。
 **读者视角提示**：Marcus 的「Make a move」是本章真正的行动指令——会议桌上所有人都在等它生效。
 
-> **原句 11:** "“We're fine without them,” Kai said smoothly, taking the chair directly across from her. He opened his tablet to a blank document titled Author Profile & Brand Narrative. “A public bio shouldn't read like it was drafted by a corporate committee anyway. It needs to capture the voice behind the manuscript.” … He set his pen down, leaning forward and resting his forearms against the table. The sharp corporate mask he usually wore seemed to soften around the edges. … “So let's start at the beginning,” Kai said, his dark eyes locking onto hers with undivided focus. “Why high fantasy? Why build entirely new worlds from scratch instead of writing what's right in front of you?”"
+> **原句 10:** "“We're fine without them,” Kai said smoothly, taking the chair directly across from her. He opened his tablet to a blank document titled Author Profile & Brand Narrative. “A public bio shouldn't read like it was drafted by a corporate committee anyway. It needs to capture the voice behind the manuscript.” … Yna picked up half of her panini, taking a bite before letting out a soft sigh. “Usually author bios are just three sentences: Yna Martinez lives in a house, drinks too much coffee, and enjoys long walks away from laundry.”"
 
-**中文理解**：「他们不在也没关系，」Kai 顺滑地说，在她正对面落座。他在平板上开出一个空白文档，标题写着作者档案与品牌叙事。「公开的作者简介本来就不该读起来像委员会草拟的。它得抓住手稿背后的那个声音。」他把笔放下，身体前倾，双臂撑在桌上。那副惯常锋利的企业面具边缘似乎变软了。「那就从头讲起吧，」Kai 说，黑眼睛带着不打折的专注锁住她。「为什么是高奇幻？为什么从零开始造全新的世界，而不写就摆在你眼前的故事？」
-**关键词**：Author Profile & Brand Narrative / capture the voice behind the manuscript / soften around the edges / Why high fantasy?
-**为什么这样写**：清场后的会议只剩一个议题：她是谁。「真实」这个选材标准把商业需求与私人坦白接通——问「为什么写奇幻」，问的其实是「为什么躲进奇幻」。他摘半张面具的动作（前倾、手臂撑桌）与提问同步。
-**读者视角提示**：这个问题是全书最正经的私心——他借职务之便，问到了她文件里没有的那一页。
+**中文理解**：「他们不在也没关系，」Kai 顺滑地说，在她正对面落座。他在平板上开出一个空白文档，标题写着作者档案与品牌叙事。「公开的作者简介本来就不该读起来像委员会草拟的。它得抓住手稿背后的那个声音。」Yna 拿起半个帕尼尼，咬了一口才轻轻叹气。「通常作者简介就三句话：Yna Martinez 住在一栋房子里，咖啡喝得太多，喜欢远离洗衣机的长距离散步。」
+**关键词**：Author Profile & Brand Narrative / capture the voice behind the manuscript / The standard template works for standard authors
+**为什么这样写**：清场后的会议只剩一个议题：她是谁。他的开场把商业文档写成人物特稿的邀请——而她的自嘲简介（房子、咖啡、躲家务）正是她一贯的自贬式幽默，先把自己压低再等人反驳。
+**读者视角提示**：记住「抓住手稿背后的声音」——他问的不是资料，是她愿意公开哪一层的自己。
+
+> **原句 11:** "Kai’s mouth quirked into a faint, fleeting smile. “The standard template works for standard authors. You aren't one. The rollout strategy hinges on authenticity. To build that, we need to decide what parts of your life belong to the public, and what parts stay fiercely protected.” … He set his pen down, leaning forward and resting his forearms against the table. The sharp corporate mask he usually wore seemed to soften around the edges. … “So let's start at the beginning,” Kai said, his dark eyes locking onto hers with undivided focus. “Why high fantasy? Why build entirely new worlds from scratch instead of writing what's right in front of you?”"
+
+**中文理解**：「标准模板适合标准作者。你不是。」Kai 的嘴角勾起一个转瞬即逝的淡笑。那副惯常锋利的企业面具边缘似乎变软了。「那就从头讲起吧，」Kai 说，黑眼睛带着不打折的专注锁住她。「为什么是高奇幻？为什么从零开始造全新的世界，而不写就摆在你眼前的故事？」
+**关键词**：The standard template works for standard authors / seemed to soften around the edges / Why high fantasy?
+**为什么这样写**：他摘半张面具的动作（前倾、边缘变软）与提问同步：问「为什么写奇幻」，问的其实是「为什么躲进奇幻」。这是全书最正经的私心——他借职务之便，问到了她文件里没有的那一页。
+**读者视角提示**：这个问题是下午自白段的引信——她的答案会从商业议题一路滑进人生。
 
 > **原句 12:** "“Because after I left my ex-husband, I thought leaving was the hardest part,” Yna admitted softly. “I thought once I was on my own, everything would finally make sense.” … She gave a small, humorless laugh. … “It didn't.”"
 

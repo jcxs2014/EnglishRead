@@ -105,7 +105,7 @@ modified: "2026-11-18"
 **为什么这样写**：内外双轨制是 Kai 世界的宪法条款：友谊有地理边界。Marcus 的道歉沿用商务黑话（判断力临时故障），等于用他的语言体系缴械——这条友谊能活下来，靠的是 Marcus 愿意说他的方言。
 **读者视角提示**：「墙内无友谊」与本章咖啡馆里的「静点」构成对照：他唯一的平等关系在墙外，而他今天一上午都在墙外不想回来。
 
-> **原句 14:** "In the passenger seat, Elizabeth turned toward Yna with a dry, knowing grin. … “Did the scary corporate CEO eat your soul, or did you conquer him?” … “My soul is intact, and the cover reveal is a go.” … Elizabeth nodded in regal approval. “Excellent. The Martinez empire expands.”"
+> **原句 14:** "In the passenger seat, Elizabeth turned toward Yna with a dry, knowing grin. … “Mother.” … Yna gripped the steering wheel, looking over with a laugh. “Yes, daughter?” … “Did the scary corporate CEO eat your soul, or did you conquer him?” … “My soul is intact, and the cover reveal is a go.” … Elizabeth nodded in regal approval. “Excellent. The Martinez empire expands.”"
 
 **中文理解**：副驾驶座上，Elizabeth 带着一脸干巴巴的了然笑意转向 Yna。「母亲。」「怎么了，女儿？」Yna 握着方向盘，笑着看过去。「那个吓人的企业 CEO 吃掉你的灵魂了，还是你把他征服了？」「我的灵魂完好无损，而且书封公开立项了。」Elizabeth 端庄地点头批准。「很好。Martinez 帝国扩张了。」
 **关键词**：Did the scary corporate CEO eat your soul / conquer him / My soul is intact / The Martinez empire expands

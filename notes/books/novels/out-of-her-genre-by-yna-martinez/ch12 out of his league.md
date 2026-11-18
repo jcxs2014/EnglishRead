@@ -49,7 +49,7 @@ modified: "2026-11-18"
 **为什么这样写**：弑父戏的内核是一份教育成果验收：儿子用父亲亲授的教条杀死父亲——暴力在这里是代际遗传的执行案例。「冷钢之镜」完成全书最冷的判决：他在父亲眼里找慈悲，只看见自己的职业化。
 **读者视角提示**：这段是她心事的暗房显影——被塑造成「不该有心」的人，动手越利落，越可悲。
 
-> **原句 6:** "Her fingers froze over the keyboard. She stared at the screen, blinking at the sheer, unhinged mountain of fictional carnage she had just generated in twenty minutes of furious typing. … She held down the Backspace key, watching the gruesome execution of the Council dissolve letter by letter. … “Yeah, okay... I really shouldn't massacre the entire cast before Act Three,” she muttered to herself, slumping back in her desk chair with a sheepish chuckle. “My editor would have an absolute stroke.”"
+> **原句 6:** "Her fingers froze over the keyboard. She stared at the screen, blinking at the sheer, unhinged mountain of fictional carnage she had just generated in twenty minutes of furious typing. … “Aaaah...” Yna groaned, pressing her face into her hands. … She held down the Backspace key, watching the gruesome execution of the Council dissolve letter by letter. … “Yeah, okay... I really shouldn't massacre the entire cast before Act Three,” she muttered to herself, slumping back in her desk chair with a sheepish chuckle. “My editor would have an absolute stroke.”"
 
 **中文理解**：她的手指僵在键盘上方。她瞪着屏幕，对着自己在狂怒的二十分钟里生成的这座毫无理性、丧心病狂的虚构杀戮之山直眨眼。她按住退格键，看着那场血腥的处决一个字母一个字母地消散。「行吧……我真的不该在第三幕之前把全体角色屠了，」她对自己咕哝，瘫回书桌椅里，发出一声不好意思的轻笑。「我的编辑会当场中风的。」
 **关键词**：unhinged mountain of fictional carnage / the Backspace key / dissolve letter by letter / My editor would have an absolute stroke

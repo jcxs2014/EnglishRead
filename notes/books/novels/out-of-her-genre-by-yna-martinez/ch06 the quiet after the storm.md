@@ -14,14 +14,14 @@ modified: "2026-11-18"
 
 ## 精读
 
-> **原句 1:** "She stood at the kitchen counter, reading an email from her ex. Her thumbs flew across the glass as she typed her reply: Pick up the kids after church Saturday. Drop them off at school Monday! Don't be late. … Fine. 6:00 PM. … Yna stared at the screen, her jaw tightening. That was it. No apology, no “how are the kids,” just a blunt time slot like he was scheduling a dentist appointment. She tossed her phone onto the counter with a sharp clack and rubbed her temples, feeling the familiar, dull throb of a tension headache beginning to bloom behind her eyes."
+> **原句 1:** "She stood at the kitchen counter, reading an email from her ex. Her thumbs flew across the glass as she typed her reply: Pick up the kids after church Saturday. Drop them off at school Monday! Don't be late. … The response arrived three minutes later. … Fine. 6:00 PM. … Yna stared at the screen, her jaw tightening. That was it. No apology, no “how are the kids,” just a blunt time slot like he was scheduling a dentist appointment. She tossed her phone onto the counter with a sharp clack and rubbed her temples, feeling the familiar, dull throb of a tension headache beginning to bloom behind her eyes."
 
 **中文理解**：她站在厨房操作台前，读着前夫的邮件，拇指在玻璃上飞快敲出回复：周六教堂后接走孩子。周一送回学校！别迟到。回复三分钟后到达。行。下午六点。Yna 盯着屏幕，下颌绷紧。就这些。没有道歉，没有一句「孩子们好吗」，只有一个生硬的时间段，像在预约牙医。她把手机啪地扣在台面上揉太阳穴，熟悉的闷痛开始在眼球后方扎根。
 **关键词**：reading an email from her ex / Fine. 6:00 PM. / scheduling a dentist appointment / tension headache
 **为什么这样写**：邮件往来的信息量全在「没有」里：没有寒暄、没有道歉、没有孩子。作者用 dentist appointment 给这种合作关系定性——事务性、按次结算。tension headache 是她身体的账本：这段关系的成本以头痛计价。
 **读者视角提示**：「别迟到」是她回复里唯一的情绪词——她要的从来不是他的时间，是最基本的在意。
 
-> **原句 2:** "Elizabeth sat down on the bench beside her mother, adjusting her sunglasses. She paused, looking out at the park before dropping her voice into that familiar, deadpan register. … “You should get a boyfriend.” … Yna blinked, a nervous, baffled smile breaking across her face. “What do you mean? Do I look that lonely?” … Elizabeth nodded her head slowly. “Yup.”"
+> **原句 2:** "Elizabeth sat down on the bench beside her mother, adjusting her sunglasses. She paused, looking out at the park before dropping her voice into that familiar, deadpan register. … “Mother.” … Yna, who was taking a sip of her cold coffee, choked slightly and looked over. “Yes, daughter?” … “You should get a boyfriend.” … Yna blinked, a nervous, baffled smile breaking across her face. “What do you mean? Do I look that lonely?” … Elizabeth nodded her head slowly. “Yup.”"
 
 **中文理解**：Elizabeth 在长椅上挨着母亲坐下，扶正太阳镜。她停了停，望着公园，然后把声音降进那种熟悉的死板腔调。「母亲。」「怎么了，女儿？」正喝冷咖啡的 Yna 轻微呛了一下，回头看她。「你该找个男朋友。」Yna 眨了眨眼，一个紧张而茫然的笑容爬上脸。「你什么意思？我有那么孤独？」Elizabeth 慢慢地点头。「Yup。」
 **关键词**：deadpan register / You should get a boyfriend / Do I look that lonely? / Yup

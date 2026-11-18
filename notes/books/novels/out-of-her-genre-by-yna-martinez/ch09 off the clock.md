@@ -28,7 +28,7 @@ modified: "2026-11-18"
 **为什么这样写**：她眼里的他先卸甲、再见面——armor 与 normal person 的对价关系写得诚实：他平时的样子在她眼里本来就不是「人」，是职位。徒步装是本章的第一层翻译：把 Rhodes 先生翻译回 Kai。
 **读者视角提示**：记住「盔甲」这个意象——本章每一次靠近都是一次卸甲，直到合影里那件彻底穿不住的东西。
 
-> **原句 3:** "Yna walked over, offering a warm smile. “Good morning, Mr. Rhodes. Marcus.” … Beside Marcus, Kai’s jaw muscle flinched. … Standing in the open woods on a Saturday morning, hearing her address him as 'Mr. Rhodes' while comfortably using Marcus's first name hit his ears like a deliberate corporate insult. … “Oh, you should definitely call him Kai,” Marcus declared, stepping forward and slapping Kai on the back so hard that Kai actually stumbled a half-step forward."
+> **原句 3:** "Yna walked over, offering a warm smile. “Good morning, Mr. Rhodes. Marcus.” … Beside Marcus, Kai’s jaw muscle flinched. … Standing in the open woods on a Saturday morning, hearing her address him as 'Mr. Rhodes' while comfortably using Marcus's first name hit his ears like a deliberate corporate insult. … Marcus noticed the tick in Kai's jaw instantly. His grin widened. … “Oh, you should definitely call him Kai,” Marcus declared, stepping forward and slapping Kai on the back so hard that Kai actually stumbled a half-step forward."
 
 **中文理解**：Yna 走过去，给出一个温暖的微笑。「早上好，Rhodes 先生。Marcus。」旁边的 Marcus 站定处，Kai 的下颌肌抽了一下。周六清晨站在露天树林里，听着她端端正正叫他『Rhodes 先生』、却顺口叫 Marcus 的名字，这声音落进他耳朵像一场蓄意的商业侮辱。「哦，你绝对该叫他 Kai，」Marcus 宣布，上前一巴掌拍在 Kai 背上，力道大得让他真真切切踉跄了半步。
 **关键词**：Good morning, Mr. Rhodes. Marcus / Kai's jaw muscle flinched / a deliberate corporate insult / call him Kai
@@ -56,7 +56,7 @@ modified: "2026-11-18"
 **为什么这样写**：她把爬山演成战争片，他把救援演成收据：一句「你很戏剧化」的判决书，加一个极细微的嘴角弧度。作者让他的幽默正式上线——flat, amused fact 是他表达喜欢的全新语法：不安慰、不催促，只陈述她有趣。
 **读者视角提示**：「戏剧化」在此从贬义词变成昵称——这是他学会的第一句 Yna 方言。
 
-> **原句 7:** "He walked back down the trail, closing the distance between them. Without asking, he reached out and adjusted the chest straps on her backpack, pulling them tighter to distribute the weight evenly across her shoulders. His fingers brushed against her jacket, firm and practical. … “It's not a mountain, Yna. It's a trail,” he said, his voice dropping an octave into a low, steady register meant just for her. “Take your time. I'm not going anywhere.” … “Take a breath,” he said, his tone quiet but not unkind. “You don't have to prove anything to me.”"
+> **原句 7:** "He walked back down the trail, closing the distance between them. Without asking, he reached out and adjusted the chest straps on her backpack, pulling them tighter to distribute the weight evenly across her shoulders. His fingers brushed against her jacket, firm and practical. … “It's not a mountain, Yna. It's a trail,” he said, his voice dropping an octave into a low, steady register meant just for her. “Take your time. I'm not going anywhere.” … Yna caught her breath, flushing under his close proximity. “Right. Of course.” … Kai stepped back, giving her space, but he didn't move away. He stood there with his hands loosely at his sides, watching her with that same unreadable expression. … “Take a breath,” he said, his tone quiet but not unkind. “You don't have to prove anything to me.”"
 
 **中文理解**：他沿步道走下来，把两人之间的距离收拢。没问一声，他伸出手，替她收紧背包的胸带，把重量均匀分到两肩。他的手指擦过她的外套，坚实而务实。「这不是山，Yna。是步道，」他说，声音降了一个八度，落进那种只给她一个人的低而稳的音域。「慢慢来。我哪儿也不去。」「呼吸，」他说，语气安静但并非不客气。「你不用向我证明任何事。」
 **关键词**：adjusted the chest straps / his fingers brushed against her jacket / I'm not going anywhere / You don't have to prove anything to me
@@ -70,7 +70,7 @@ modified: "2026-11-18"
 **为什么这样写**：她谢谢的是风景，他失守的是视线——作者把「谁先移开眼」写成权力倒转的瞬间：会议室里从不先移开眼的人，在阳光里先逃了。safer 一词诚实得惊人：他亲口承认她比山谷更难移开视线。
 **读者视角提示**：这场戏的机位说明一切：风景给了他们并肩的理由，地平线给了他藏眼神的地方。
 
-> **原句 9:** "She turned her head toward him, her expression curious. “Do you come up here often?” … Kai leaned against the railing beside her, his shoulder inches from hers. He took a slow sip of his coffee, his eyes tracking a hawk circling somewhere far below. … “I come up here when I need to think,” he said simply. … He took a quiet breath, adjusting his posture. “You deserve a morning like this, Yna. I'm glad you came.” … Yna’s cheeks warmed, a soft blush spreading across her face. “I'm glad I came, too,” she whispered."
+> **原句 9:** "She turned her head toward him, her expression curious. “Do you come up here often?” … Kai leaned against the railing beside her, his shoulder inches from hers. He took a slow sip of his coffee, his eyes tracking a hawk circling somewhere far below. … “I come up here when I need to think,” he said simply. … Yna nodded. “I can see why. It's peaceful.” … He took a quiet breath, adjusting his posture. “You deserve a morning like this, Yna. I'm glad you came.” … Yna’s cheeks warmed, a soft blush spreading across her face. “I'm glad I came, too,” she whispered."
 
 **中文理解**：她转头看他，表情好奇。「你常上来这儿吗？」Kai 靠在旁边的栏杆上，肩膀与她的相距几寸。他慢慢喝了口咖啡，眼睛追着一头在远处盘旋的鹰。「我需要想事情的时候就上来，」他说得简单。他静静吸了口气，调整了一下姿态。「你值得一个这样的早晨，Yna。我很高兴你来了。」Yna 的脸颊热起来，一层薄红铺开。「我也很高兴我来了，」她低声说。
 **关键词**：Do you come up here often? / his shoulder inches from hers / when I need to think / You deserve a morning like this / I'm glad I came, too
@@ -84,7 +84,7 @@ modified: "2026-11-18"
 **为什么这样写**：作者让她在他背光站成圣像时完成宣判：好看早知道，麻烦的是此刻——「不便」是欲情的职场化措辞，把心动写成日程事故。一滴汗没出的对比把体格差补完：他像在散步，她在渡劫。
 **读者视角提示**：「inconvenient（不便）」是本书写心动的签名词汇——它承认感受，拒绝承认失控。
 
-> **原句 11:** "“You have crumbs on your cheek,” Kai said, pointing toward her face. … Yna swiped at her left cheek with the back of her hand, but missed the spot entirely. … “Here, let me,” Kai said softly. … He moved closer, reaching out his hand. His thumb brushed against her cheek, feather-light and careful as he swept the crumb away. His touch lingered for a fraction of a second before he pulled his hand back, restoring his posture with quiet, deliberate composure. … Yna swallowed hard, her heart thudding against her ribs like a trapped bird. “Thanks,” she managed, her voice smaller than usual."
+> **原句 11:** "“You have crumbs on your cheek,” Kai said, pointing toward her face. … Yna swiped at her left cheek with the back of her hand, but missed the spot entirely. … “Here, let me,” Kai said softly. … He moved closer, reaching out his hand. His thumb brushed against her cheek, feather-light and careful as he swept the crumb away. His touch lingered for a fraction of a second before he pulled his hand back, restoring his posture with quiet, deliberate composure. … “There,” he said, turning his focus toward the valley before his silence could linger a second too long. … Yna swallowed hard, her heart thudding against her ribs like a trapped bird. “Thanks,” she managed, her voice smaller than usual."
 
 **中文理解**：「你脸上有面包屑，」Kai 说，指了指她的脸。Yna 用手背去抹左脸颊，完全没抹到点上。「来，我帮你，」Kai 轻声说。他靠近，伸出手。他的拇指擦过她的脸颊，羽毛般轻、小心地扫走面包屑。他的触碰多停了一瞬才收回去，随即以安静的、克制的镇定恢复坐姿。Yna 艰难地咽了一口，心脏撞着肋骨，像一只被困的鸟。「谢了，」她挤出声音，比平时小了一号。
 **关键词**：crumbs on your cheek / missed the spot entirely / feather-light and careful / like a trapped bird

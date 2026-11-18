@@ -49,10 +49,10 @@ modified: "2026-11-18"
 **为什么这样写**：叙述者亲自下场补刀，把商务神话与社交无能焊在同一句里——Kai 的估值体系里没有「请吃饭」这个科目。揉后颈的小动作是他全章唯一一次允许自己懊恼。
 **读者视角提示**：记住这个「被击败」——他的并购能力还在，失效的只是与她的业务无关的一切。
 
-> **原句 6:** "“So, Kai,” Marcus asked casually, leaning against the marble island. “Did you ask her out on an actual date?” … “I'm working on it,” Kai said, his voice flat and controlled—though the firm, white-knuckled grip on the neck of his beer bottle gave him away. … Marcus let out a loud, barking laugh, nearly choking on his drink. “'Working on it'? Kai, you're a CEO. You don't 'work on' things. You execute. You make the call. You sent her home with a 'see you Monday' like she was a junior accountant turning in a quarterly audit!”"
+> **原句 6:** "“So, Kai,” Marcus asked casually, leaning against the marble island. “Did you ask her out on an actual date?” … Kai caught the beer bottle without looking, his eyes fixed on the skillet where garlic, ginger, and sliced vegetables were sizzling in olive oil. The savory aroma filled the quiet kitchen, but his mind was still stuck in that gravel parking lot. … “I'm working on it,” Kai said, his voice flat and controlled—though the firm, white-knuckled grip on the neck of his beer bottle gave him away. … Marcus let out a loud, barking laugh, nearly choking on his drink. “'Working on it'? Kai, you're a CEO. You don't 'work on' things. You execute. You make the call. You sent her home with a 'see you Monday' like she was a junior accountant turning in a quarterly audit!”"
 
 **中文理解**：「那么，Kai，」Marcus 靠在大理石岛台边，随口问。「你约她出去真正约会了吗？」Kai 看都没看就接住了啤酒瓶，眼睛盯着煎锅里在橄榄油里滋滋作响的蒜、姜和蔬菜片。「我在推进这件事，」Kai 说，声音平而可控——尽管他扣在啤酒瓶颈上那圈发白的指节出卖了他。Marcus 爆出一阵响亮的爆笑，差点被酒呛住。「『推进』？Kai，你是 CEO。你不『推进』事情。你执行。你拍板。你送她回家时说的是『周一见』，好像她是个来交季度审计报告的初级会计！」
-**关键词**：Did you ask her out on an actual date / I'm working on it / white-knuckled grip / You execute. You make the call
+**关键词**：an actual date / I'm working on it / white-knuckled grip / You execute. You make the call
 **为什么这样写**：晚餐在煎锅里，心思还堵在砾石停车场。work on it 是他给怯场找的工程术语，Marcus 当场翻译成人类语言：你是执行者，不是推进者。指节发白是本章第二份身体供词，与心不在焉的锅铲凑成一套完整证据。
 **读者视角提示**：「你不推进事情，你执行」——这句管理学的账，后面会有人替他算。
 

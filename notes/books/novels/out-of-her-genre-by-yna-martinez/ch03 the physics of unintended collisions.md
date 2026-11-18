@@ -42,7 +42,7 @@ modified: "2026-11-18"
 **为什么这样写**：Kai 的认人镜头只用一个特征（wild, dark hair）就完成——咖啡店的一面之缘已经存进他的档案。orbit around her energy 把她写成引力源，与 ch02 里那个「唯一能维护机器的人」自成镜像：一个是自己造的机器，一个是别人围着她转的恒星。
 **读者视角提示**：注意他记得她——但还不知道名字。名字要到相撞之后才交换，进度条在按 rom-com 的规矩走。
 
-> **原句 5:** "Kai didn't respond immediately. The bartender set down his whiskey—dark, clear, and unembellished. Kai took a slow sip, enjoying the clean burn in his throat, but his eyes pulled back toward the corner booth like a compass seeking north. … Marcus followed Kai's line of sight, pausing mid-sentence before letting out a low whistle. “Spotted someone interesting, have we?” … “I'm just observing,” Kai replied evenly."
+> **原句 5:** "Kai didn't respond immediately. The bartender set down his whiskey—dark, clear, and unembellished. Kai took a slow sip, enjoying the clean burn in his throat, but his eyes pulled back toward the corner booth like a compass seeking north. … The woman was laughing again—a bright, uninhibited sound that seemed to cut right through the bar's heavy hum. She looked completely at ease in the middle of the noise. … Marcus followed Kai's line of sight, pausing mid-sentence before letting out a low whistle. “Spotted someone interesting, have we?” … “I'm just observing,” Kai replied evenly."
 
 **中文理解**：Kai 没有立刻回应。酒保放下他的威士忌——深色、清澈、不加装饰。他慢慢抿了一口，享受喉咙里干净的灼烧感，但他的眼睛又飘回角落卡座，像一枚寻找北极的罗盘。Marcus 顺着他的视线看过去，话说到一半停住，然后低低吹了声口哨。「发现有趣的人了，是吧？」「我只是在做观察，」Kai 平静地回答。
 **关键词**：compass seeking north / low whistle / I'm just observing

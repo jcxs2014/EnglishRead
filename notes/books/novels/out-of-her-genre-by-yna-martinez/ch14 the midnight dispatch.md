@@ -24,7 +24,7 @@ modified: "2026-11-18"
 > **原句 2:** "He straightened up, stepped to the side cabinet, and retrieved a small white plate. He set it down in front of her with a quiet clatter. On it rested a single, golden, perfectly flaky croissant, still warm enough that a delicate wisp of steam curled from its crust. … “Eat,” he commanded gently, the order laced with quiet warmth. “You can't run an empire on caffeine alone. Even if that empire is just surviving until school pickup.”"
 
 **中文理解**：他直起身，走到侧柜取出一只小白盘，轻轻搁在她面前。盘子里躺着一块金黄的、酥皮完美的羊角包，还温热，脆皮上袅袅升起一缕细细的蒸汽。「吃，」他温柔地下令，命令里掺着安静的暖意。「光靠咖啡因运行不了一个帝国。哪怕这个帝国只是撑到放学接娃。」
-**关键词**：retrieved a small white plate / a delicate wisp of steam curled from its crust / commanded gently / You can't run an empire on caffeine alone
+**关键词**：retrieved a small white plate / a delicate wisp of steam / commanded gently / You can't run an empire on caffeine alone
 **为什么这样写**：他把照顾做成行政流程：取盘、上菜、下令——「吃」是全书他给她的第一道命令式温柔。帝国比喻顺手接住了她「付能清单」式的自嘲（ch01 的 powered by caffeine），两个人用同一套语言互认了。
 **读者视角提示**：记住这块羊角包——他不看手机不看表地陪她吃完，这是他能为她发明的最高规格会议。
 
@@ -80,18 +80,18 @@ modified: "2026-11-18"
 > **原句 10:** "“Found him,” Jaemee whispered, seeing Kai Rhodes at the top of the call log. … Jen hit dial and shoved the buzzing phone straight into Yna’s hand. “Yna, take the phone! Tell the driver you need a ride home!” … Yna, eyes squeezed shut against the spinning room, clumsily lifted the phone to her ear. … “Hello?” Kai’s deep, polished voice came through the speaker. … “Hey taxi?!” Yna slurred into the receiver, leaning heavily against the vinyl booth. “I need a ride. Here’s the address... the wing place on 4th...” … A heavy, suffocating silence fell over the other end of the line."
 
 **中文理解**：「找到了，」Jaemee 压低声音，看见通话记录顶端的 Kai Rhodes。Jen 按下拨号，把嗡嗡震动的手机直接塞进 Yna 手里。「Yna，接电话！告诉司机你需要回家！」Yna 对着旋转的房间紧闭双眼，笨拙地把手机举到耳边。「喂？」Kai 深沉圆润的声音从听筒传来。「喂，出租车？！」她对着话筒大着舌头说，整个人重重靠在乙烯基卡座上。「我要搭车。地址是……4 街那家鸡翅店……」电话那头落下一阵沉重的、令人窒息的沉默。
-**关键词**：seeing Kai Rhodes at the top of the call log / Tell the driver you need a ride home! / Hey taxi?! / the wing place on 4th / A heavy, suffocating silence
+**关键词**：the top of the call log / Tell the driver you need a ride home! / Hey taxi?! / the wing place on 4th / A heavy, suffocating silence
 **为什么这样写**：恶作剧的技术细节全是真材料：通话记录顶端的名字、闺蜜的助推、她的醉话——谎言只需要她自己的记忆配合。那阵窒息的沉默是他全章最长的台词：他听懂了，然后在两秒钟内决定了要不要来。
 **读者视角提示**：记住「4 街鸡翅店」——那是 ch03 的相遇地址，她的醉话准确得像潜意识在指路。
 
-> **原句 11:** "“Hello? Mister Taxi?” Yna frowned, tapping the back of the phone. … “...I'll be there,” Kai said. … “Good! Five stars for you!” Yna cheered, dropping the phone face-down onto the table."
+> **原句 11:** "“Hello? Mister Taxi?” Yna frowned, tapping the back of the phone. … A low breath hitched on the line. … “...I'll be there,” Kai said. … “Good! Five stars for you!” Yna cheered, dropping the phone face-down onto the table."
 
 **中文理解**：「喂？出租车先生？」Yna 皱眉，敲着手机背面。「……我这就到，」Kai 说。「好棒！给你五星好评！」Yna 欢呼着把手机面朝下扣在桌上。Jen 和 Jaemee 相视一笑，笑得得意。「他出发了，」Jaemee 眼里闪着光，压低声音。「拿上外套。我们得在她意识到她的『出租车』开的是豪华欧系轿车之前撤离现场。」
 **关键词**：Mister Taxi / I'll be there / Five stars for you!
 **为什么这样写**：三个字的应答（I'll be there）是他全书的第一次「即刻执行」——不问原因、不谈条款。五星好评把浪漫误订成网约车服务，而闺蜜的撤退令写明了这场戏的性质：他们给他俩清了场。
 **读者视角提示**：记住「五星好评」——她用评分系统表达了信任，浑然不知评分对象是谁；闺蜜的撤离令同步生效，把整个卡座让给了这场误订。
 
-> **原句 12:** "A tall figure stepped inside. Kai was wearing a dark, tailored overcoat over his crisp dress shirt, looking like an absolute titan of corporate authority dropped into a sticky-floored neighborhood pub. His gaze swept the room once before finding the back corner booth. … As they hurried toward the exit, Jen paused, looking back over her shoulder at the striking man striding through the tables. … “Wait...” Jen muttered, her brow furrowing in confusion. “He looks really familiar.”"
+> **原句 12:** "A tall figure stepped inside. Kai was wearing a dark, tailored overcoat over his crisp dress shirt, looking like an absolute titan of corporate authority dropped into a sticky-floored neighborhood pub. His gaze swept the room once before finding the back corner booth. … Jen and Jaemee spotted him immediately. They exchanged a look of pure adrenaline, grabbed their purses, and slid out of the booth. … As they hurried toward the exit, Jen paused, looking back over her shoulder at the striking man striding through the tables. … “Wait...” Jen muttered, her brow furrowing in confusion. “He looks really familiar.”"
 
 **中文理解**：十分钟后，酒馆厚重的木门被推开，放进一股清冽的夜风。一个高挑的身影走了进来。Kai 在合身的深色大衣里穿着笔挺的衬衫，看上去像一位企业权威的绝对巨人，误落进一家地板发黏的社区酒馆。他的目光扫过全场一次，就找到了后排卡座。Jen 和 Jaemee 立刻认出了他。他们交换了一个纯肾上腺素的眼神，抓起手包，从卡座滑了出来。Jen 走到出口时停住，回头望着那个穿过桌子大步走来的出众男人。「等等……」Jen 咕哝，眉头困惑地皱起。「他看起来真的很眼熟。」
 **关键词**：an absolute titan of corporate authority / sticky-floored neighborhood pub / He looks really familiar.
