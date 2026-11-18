@@ -1,0 +1,522 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/ch12 the refuse him vow.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/oubliette-by-l-v-russell/text/ch12_chapter_10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I did not want her to accompany me as she usually does; I possess so little that is truly my own. My time, my very soul ",
+          "ok": true,
+          "pos": 859
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“You came.”",
+          "ok": true,
+          "pos": 1650
+        },
+        {
+          "text": "Oren slips into the soft shadows in silence. One gentle hand lingers at my arm, hesitant, as though I might flee from hi",
+          "ok": true,
+          "pos": 1660
+        },
+        {
+          "text": "“I find there is little for me to do in the mornings at Folkehaven,” I say, leaning into his touch. “Except to be follow",
+          "ok": true,
+          "pos": 1783
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "On the hard wooden pew, beneath a marble gaze and the muted light of stained glass, Oren once again reaches for me. His ",
+          "ok": true,
+          "pos": 2652
+        },
+        {
+          "text": "I do not take my hand back—I cannot, I will not. The mass begins, and soon the air is thick with incense",
+          "ok": true,
+          "pos": 2902
+        },
+        {
+          "text": "“But I am monstrous,” I whisper back",
+          "ok": true,
+          "pos": 3008
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“What if I could not enter?” I ask, needing to know if he will accept the rotting pieces of me. “What then?”",
+          "ok": true,
+          "pos": 3303
+        },
+        {
+          "text": "With a gentle hand, Oren slips off one of my silken gloves, touch lingering on the flecks of black beneath my nails. I h",
+          "ok": true,
+          "pos": 3408
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I would stay as close as we could get together,” he says, tenderly stroking the broken flecks of skin on my fingers. “I",
+          "ok": true,
+          "pos": 3595
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I carve out my mother’s grave just before the sunrise,” I admit. “I cannot come to you covered in gravedirt and the ste",
+          "ok": true,
+          "pos": 4655
+        },
+        {
+          "text": "He does not flinch at the revelation, but takes my chin in his hand, forcing my head up. “Then come at midday, in the ea",
+          "ok": true,
+          "pos": 4785
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Oren’s head snaps to me, bright blue eyes sparkling with a boyish mischief. “Only the dark corners where I can find you.",
+          "ok": true,
+          "pos": 6302
+        },
+        {
+          "text": "It is my turn to blush. Heat blooms at my cheeks, and it is a soothing warmth. I turn away to look at his sister. “It is",
+          "ok": true,
+          "pos": 6421
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“But I am not.” Anne squeezes my arm gently. She smells of rosewater and fresh soap, and she clings to me like she is no",
+          "ok": true,
+          "pos": 6781
+        },
+        {
+          "text": "Her words touch me in ways I’ve never experienced before. First Oren, and now her? They hold promises on their tongues, ",
+          "ok": true,
+          "pos": 6959
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I have not had a friend before, Oren; to now have two feels like a gluttony.” The rain falls harder, and the chill begi",
+          "ok": true,
+          "pos": 8182
+        },
+        {
+          "text": "“I never thought I would find anyone who accepts me as I am",
+          "ok": true,
+          "pos": 8405
+        },
+        {
+          "text": "for what I am, and for that I am eternally grateful.”",
+          "ok": true,
+          "pos": 8464
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“You’re shivering.” Oren shrugs off his brown frock coat and wraps it around my shoulders. It holds his warmth, his smel",
+          "ok": true,
+          "pos": 8517
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Veronica waits, though, sitting at the scrubbed table with a single candle flickering beside her. Her face still has rem",
+          "ok": true,
+          "pos": 9545
+        },
+        {
+          "text": "” she begins, but I cut her off, my voice louder than hers",
+          "ok": true,
+          "pos": 9768
+        },
+        {
+          "text": "“I do not need your permission to leave this house,” I snap",
+          "ok": true,
+          "pos": 9826
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I grab her, my fingers squeezing the thinness of her forearm. I can feel the bones beneath, their brittleness. “Do not w",
+          "ok": true,
+          "pos": 10540
+        },
+        {
+          "text": "I know I leave bruises behind when I shake her free. I can see the pain of it in her eyes, the loathing. The shame. She ",
+          "ok": true,
+          "pos": 10807
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "We stand for a moment in silence, in the dark, in the cold. There is nothing for us to say to each other; we both vie fo",
+          "ok": true,
+          "pos": 10966
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "A soft cry forces me to turn, but it is not the moaning of a ghost. The strange white feral cat waits for me on my bed, ",
+          "ok": true,
+          "pos": 11622
+        }
+      ],
+      "words": 91
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 112,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter 10",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 15,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 27,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2377,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
