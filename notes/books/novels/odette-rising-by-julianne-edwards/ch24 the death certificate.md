@@ -14,7 +14,7 @@ modified: "2026-11-18"
 
 ## 精读
 
-> **原句 1:** "His wife had died at midnight. Yesterday then, he thought. I must remember that for the certificate."
+> **原句 1:** "His wife had died at midnight. Yesterday then, he thought. I must remember that for the death certificate."
 
 **中文理解**：妻子死于午夜。「那么是昨天了」，他想。「我得记住这个，好写进证明。」
 
