@@ -1,0 +1,49 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch01",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch01_paradise.txt",
+ "facts": [
+  {
+   "fact": "Simone 以度假村活动协调员的身份播报欢迎消息。",
+   "anchor": "This is Simone, your events coordinator, speaking.",
+   "start": 0,
+   "end": 50
+  },
+  {
+   "fact": "度假村业主是 Mitch 和 Dianne Jones，Simone 代表他们欢迎小客人。",
+   "anchor": "On behalf of owners Mitch and Dianne Jones",
+   "start": 53,
+   "end": 95
+  },
+  {
+   "fact": "孩子们先入住各自别墅，父母则前往他们自己的私人区域。",
+   "anchor": "settle into your villas while your parents set off for their own private quarters",
+   "start": 318,
+   "end": 399
+  },
+  {
+   "fact": "每天会收到名为 Hypes 的特别消息。",
+   "anchor": "special messages that we call Hypes",
+   "start": 676,
+   "end": 711
+  },
+  {
+   "fact": "Hypes 通过全岛最先进的扩音系统播报。",
+   "anchor": "state-of-the-art loudspeaker system",
+   "start": 774,
+   "end": 809
+  },
+  {
+   "fact": "Hype 介绍的活动只面向来自 Thrill Harbor 的客人。",
+   "anchor": "available only to our guests from Thrill Harbor",
+   "start": 906,
+   "end": 953
+  },
+  {
+   "fact": "Iguana Beach 就在客人别墅以北，现在就有漂流、复古游戏船与滑翔伞等冒险可玩。",
+   "anchor": "In fact, there are several adventures to explore right now at Iguana Beach, just north of the guest villas.",
+   "start": 1120,
+   "end": 1227
+  }
+ ]
+}
