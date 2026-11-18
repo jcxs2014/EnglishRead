@@ -1,0 +1,61 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch26",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch26_paradise.txt",
+ "facts": [
+  {
+   "fact": "回到 villa 区的景象阴森荒芜（碎玻璃、连根拔起的植物）——像 Lily 读的 dystopian 小说，一处人也没有。",
+   "anchor": "The eerie, deserted scene felt like something out of one of those dystopian novels that Lily liked to read.",
+   "start": 1766,
+   "end": 1873
+  },
+  {
+   "fact": "门禁 fob 落在了 Feeding Frenzy 的背包里——敲门无人应；Sam 点醒 Lily\"灾害应急方案\"，推理出疏散点应为 Welcome Center（大而所有人都知道）。",
+   "anchor": "Only to realize it was in his backpack, which he’d accidentally left back at the Feeding Frenzy.",
+   "start": 2333,
+   "end": 2429
+  },
+  {
+   "fact": "礼堂聚满客人（空调失灵、孩子哭、staff 发水与零食）；一位发小风扇的 counselor 认出他们（断电前手机收到过警报）——家人在 green room\"情绪崩溃\"。",
+   "anchor": "“Thank God, you’re okay! Your families have been hysterical.”",
+   "start": 6097,
+   "end": 6158
+  },
+  {
+   "fact": "green room 重逢：爸爸抱着 Sam 手臂发抖说\"以为再也见不到你们\"；三人快速轮流讲完 Area F 全部细节——连出了名爱要\"clarifications\"的爸爸都没打断，因为手里有铁证。",
+   "anchor": "“We thought we’d never see you again,” his father said.",
+   "start": 7822,
+   "end": 7877
+  },
+  {
+   "fact": "Suzie 点破：这就是疏散背后的\"另一个紧急事件\"；Greg 猜可能是孩子们的朋友把消息传出去了；Lily 疑心\"Avery/Max 弄到信号，或 Milo 联系了他爸爸\"。",
+   "anchor": "“This must be the other emergency that’s behind the island evacuation,”",
+   "start": 9073,
+   "end": 9144
+  },
+  {
+   "fact": "Nan 从门口现身（喇叭裤+条纹发带），说\"I'm going to fix everything, just like I always do\"；Elliott 冷冷回刺\"你什么时候开始在乎家人了\"；她透露南岛正在被封锁（sealed off）——没人知道她如何得知。",
+   "anchor": "“It’s me. Nan,” she said. “And don’t you worry. I’m going to fix everything, just like I always do.”",
+   "start": 9967,
+   "end": 10067
+  },
+  {
+   "fact": "走廊里 Lily 提出全章最大胆的猜想：Nan 把我们送来 Paradise、又在一切失控前赶到并自称能\"修好\"——这时间点是不是 sus？Sam 补充她知道\"南岛被封锁\"太反常；三人决定再进去要答案。",
+   "anchor": "“Doesn’t that timing seem sus to you?”",
+   "start": 13496,
+   "end": 13534
+  },
+  {
+   "fact": "Avery Max 浑身是泥杀到——\"We are invincibllllle!\"；Max 报 Milo 平安\"和他爸爸在一起\"；Avery 说\"Milo saved our butts out there\"；Max 还开了自传玩笑《Too Cheeky to Die》。",
+   "anchor": "“He’s fine,” said Max. “He’s with his dad.”",
+   "start": 14916,
+   "end": 14959
+  },
+  {
+   "fact": "Nan 提议孩子们搭她的私人飞机去别处休养（父母\"稍作逼迫\"后同意，还说\"你爸有多难搞你们知道\"）；被问及客人与美洲豹怎么办时，Nan 抛出\"Money talks\"——\"我的钱说什么语言都行\"，还眨眼说\"我跟你一样，也有朋友——在很高的地方\"。",
+   "anchor": "Have you ever heard the phrase, Money talks?",
+   "start": 17808,
+   "end": 17852
+  }
+ ]
+}
