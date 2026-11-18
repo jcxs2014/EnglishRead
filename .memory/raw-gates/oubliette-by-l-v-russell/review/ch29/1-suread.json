@@ -1,0 +1,37 @@
+{
+ "book": "oubliette-by-l-v-russell",
+ "chapter": "ch29",
+ "text": "notes/books/novels/oubliette-by-l-v-russell/text/ch29_epilogue.txt",
+ "facts": [
+  {
+   "fact": "块1（引语自动锚点）",
+   "anchor": "Folkehaven is left to crumble; I do not stop it. The broken",
+   "start": 59,
+   "end": 118
+  },
+  {
+   "fact": "块2（引语自动锚点）",
+   "anchor": "Mold seeps through the walls, thick and black, peeling away",
+   "start": 431,
+   "end": 490
+  },
+  {
+   "fact": "块3（引语自动锚点）",
+   "anchor": "The cat has a black rat in her mouth, its jugular dangling,",
+   "start": 884,
+   "end": 943
+  },
+  {
+   "fact": "块4（引语自动锚点）",
+   "anchor": "When the cat springs into my arms, our shadows entwine and l",
+   "start": 1338,
+   "end": 1398
+  },
+  {
+   "fact": "块5（引语自动锚点）",
+   "anchor": "We leave it behind, forgotten in its decay, its slow death,",
+   "start": 1620,
+   "end": 1679
+  }
+ ]
+}
