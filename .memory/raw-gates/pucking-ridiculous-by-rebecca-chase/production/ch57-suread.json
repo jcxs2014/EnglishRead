@@ -1,0 +1,43 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch57",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch57_chapter_57.txt",
+ "facts": [
+  {
+   "fact": "Bailey 道歉没去比赛——Max 正名：你完美，你是 Bailey Morin",
+   "anchor": "You’re Bailey Morin.",
+   "start": 753,
+   "end": 773
+  },
+  {
+   "fact": "他给 Flora 买了 NHL 转播订阅——电视上看我",
+   "anchor": "I’ve paid for Flora to have a subscription to NHL games.",
+   "start": 1125,
+   "end": 1181
+  },
+  {
+   "fact": "Bailey 借口洗手离开——让爸和 Flora 单独道别",
+   "anchor": "I need to… wash my hands",
+   "start": 1242,
+   "end": 1266
+  },
+  {
+   "fact": "评估两周后；需要童年知情人参与——Clive 从阿根廷拨入",
+   "anchor": "The assessors said I need someone on the call who knew me as a child",
+   "start": 2143,
+   "end": 2211
+  },
+  {
+   "fact": "内心独白：我爱你会一直爱——但说不出，告别时也跨不过那条线",
+   "anchor": "I love you, Max. I’ll always love you. But I can’t say it.",
+   "start": 2472,
+   "end": 2530
+  },
+  {
+   "fact": "结尾：没有男人能和 Max 比——this is it for me",
+   "anchor": "no man will ever compare to Max Morin.",
+   "start": 3032,
+   "end": 3070
+  }
+ ]
+}

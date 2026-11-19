@@ -1,0 +1,55 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch06",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "军犬恐吓失败——那声低笑来自 Max，跟着的少年是 Bailey",
+   "anchor": "The instant deep, throaty laughter makes me blush. Is that Max?",
+   "start": 331,
+   "end": 394
+  },
+  {
+   "fact": "Cookie 见到 Max 直接叛变，Max 跪地跟狗打招呼",
+   "anchor": "Cookie jumps out of my arms and rushes to Max, who drops to his knees to greet him",
+   "start": 556,
+   "end": 638
+  },
+  {
+   "fact": "Max 深夜前来道歉：我今晚是个混蛋",
+   "anchor": "I wanted to apologise. I was a prick tonight.",
+   "start": 1703,
+   "end": 1748
+  },
+  {
+   "fact": "Max 自嘲一晚被 Flora 榨出三次道歉，「那一定是个纪录」",
+   "anchor": "You got three apologies out of me in one evening. That must be a record.",
+   "start": 6781,
+   "end": 6853
+  },
+  {
+   "fact": "Flora 用他自己的台词反杀：把「你以前叫我爸爸」回敬成「叫错名字很恼人，对吧」",
+   "anchor": "It’s annoying when people call you by the wrong name, isn’t it?",
+   "start": 7284,
+   "end": 7347
+  },
+  {
+   "fact": "年龄揭晓：Max 三十六，Flora 二十三，她自曝约会过更老的",
+   "anchor": "I’ve dated a lot older than you then.",
+   "start": 9340,
+   "end": 9377
+  },
+  {
+   "fact": "Max 主动提出介绍队里的整骨医生帮她治头痛，被她以「付不起」挡回",
+   "anchor": "I’ll get you the number of the osteopath who works for the team.",
+   "start": 5797,
+   "end": 5861
+  },
+  {
+   "fact": "章末发现：跟这人斗嘴一晚，头痛竟比任何办法都缓解",
+   "anchor": "joking with this man has done more for easing my headache than anything else I’ve tried this evening",
+   "start": 10049,
+   "end": 10149
+  }
+ ]
+}

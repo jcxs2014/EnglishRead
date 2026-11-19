@@ -1,0 +1,37 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch00",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch00_foreword.txt",
+ "facts": [
+  {
+   "fact": "本书设定在英国冰球圈，球队踢的是英国冰球第二级联赛",
+   "anchor": "features a hockey team that plays in the National Ice Hockey League, the second tier of the British Ice Hockey league",
+   "start": 64,
+   "end": 181
+  },
+  {
+   "fact": "作者声明已尽力贴合真实冰球运动",
+   "anchor": "While every effort has been made to stick true to the sport",
+   "start": 185,
+   "end": 244
+  },
+  {
+   "fact": "体育细节与读者自身经验可能存在小差异",
+   "anchor": "there might be small differences from your own experiences of ice hockey in this fictional romance",
+   "start": 246,
+   "end": 344
+  },
+  {
+   "fact": "Flora 的 ADHD/autism 经历可能有差异，但基于作者与他人的深入研究与亲历",
+   "anchor": "it is based on detailed research and lived experience of myself and others",
+   "start": 486,
+   "end": 560
+  },
+  {
+   "fact": "作者感谢读者阅读 Flora 与 Max 的故事",
+   "anchor": "Thank you for reading Flora and Max’s story.",
+   "start": 564,
+   "end": 608
+  }
+ ]
+}

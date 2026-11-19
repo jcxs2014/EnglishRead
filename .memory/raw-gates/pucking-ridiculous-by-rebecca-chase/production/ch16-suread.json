@@ -1,0 +1,49 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch16",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "Jem 深呼吸后告白，被鼻血打断；全家涌进储藏室起哄打赌",
+   "anchor": "I fancy you, Flora.",
+   "start": 1872,
+   "end": 1891
+  },
+  {
+   "fact": "Flora 拒绝：不能跟你约会——我不喜欢你那样，对不起",
+   "anchor": "I can’t go on a date with you. I don’t like you like that. I’m sorry.",
+   "start": 5679,
+   "end": 5748
+  },
+  {
+   "fact": "Jem 接受但「没法待在你身边」——要搬出去几周",
+   "anchor": "I’m not sure I can be around you right now knowing that you don’t feel the same.",
+   "start": 6148,
+   "end": 6228
+  },
+  {
+   "fact": "她谎称「今早 builder 说房子能住（除淋浴）」好让 Jem 安心让她搬走",
+   "anchor": "I heard from the builders this morning",
+   "start": 6775,
+   "end": 6813
+  },
+  {
+   "fact": "现实：无处可去——Kath 失联、Garett/Ruby 没空房、Mel 没空间、没钱住酒店",
+   "anchor": "I have nowhere to go and no one who can put me up.",
+   "start": 7469,
+   "end": 7519
+  },
+  {
+   "fact": "Garett 看出她快崩，清场疏散并教她「如实跟他说」",
+   "anchor": "Just be honest with him",
+   "start": 5123,
+   "end": 5146
+  },
+  {
+   "fact": "结尾雨中泪：怎么短短时间就错成这样",
+   "anchor": "How could so much go so wrong in such a short amount of time?",
+   "start": 7935,
+   "end": 7996
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch19",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "他靠着她房门睡了一夜，被开门摔在地板上",
+   "anchor": "Max slumps, thudding to the floor",
+   "start": 644,
+   "end": 677
+  },
+  {
+   "fact": "她请求同床躺躺：偏头痛是很孤独的体验——出痛时要有人陪",
+   "anchor": "Migraines are a lonely experience",
+   "start": 1910,
+   "end": 1943
+  },
+  {
+   "fact": "她复盘 Jem 事件，自称「tantrum」＝感官过载来不及 mask",
+   "anchor": "all the sensory stuff overwhelms me, and so I can’t process and mask quickly enough",
+   "start": 3539,
+   "end": 3622
+  },
+  {
+   "fact": "他的核心告白：你的感受都是 valid 的——别再逼自己取悦别人",
+   "anchor": "Please don’t force yourself to be something you’re not to make others happy.",
+   "start": 4231,
+   "end": 4307
+  },
+  {
+   "fact": "他的爸爸课：候诊室里学会别人如何体验生活",
+   "anchor": "I met many people and learned how they experience life",
+   "start": 4585,
+   "end": 4639
+  },
+  {
+   "fact": "Garett 电话查户口：意图、背景、情史",
+   "anchor": "He asked about my intentions, background, and relationship history.",
+   "start": 6028,
+   "end": 6095
+  },
+  {
+   "fact": "钱的真相：除 Bailey 信托基金全被会计卷走；豪宅是给 Bailey 的空间",
+   "anchor": "all of his money was taken by his accountant except what he’d already added to Bailey’s trust fund",
+   "start": 6888,
+   "end": 6986
+  },
+  {
+   "fact": "脚部按压意外过关她的触碰禁令——Max 两者都不是（工作/上床）",
+   "anchor": "I don’t let people touch me unless it’s their job, like Henry",
+   "start": 14472,
+   "end": 14533
+  }
+ ]
+}

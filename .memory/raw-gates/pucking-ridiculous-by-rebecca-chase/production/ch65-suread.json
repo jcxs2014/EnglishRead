@@ -1,0 +1,49 @@
+{
+ "book": "pucking-ridiculous-by-rebecca-chase",
+ "chapter": "ch65",
+ "text": "notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch65_chapter_65.txt",
+ "facts": [
+  {
+   "fact": "她一周没来电话——Bailey 说有事发生但没细说",
+   "anchor": "Flora hasn’t called me in a week.",
+   "start": 310,
+   "end": 343
+  },
+  {
+   "fact": "Nate 的论据：Ted 在那+你没有 Chasers 的签证",
+   "anchor": "You can’t go home because of Els’s husband.",
+   "start": 1845,
+   "end": 1888
+  },
+  {
+   "fact": "Nate 施压：签了咱俩都发财——你欠我的",
+   "anchor": "Just sign the damn contract and make us both rich, okay?",
+   "start": 2311,
+   "end": 2367
+  },
+  {
+   "fact": "Nate 的劝签词：两年而已，爱你就等你",
+   "anchor": "It’s just two years, Max. You can get through two years. If Flora loves you",
+   "start": 2575,
+   "end": 2650
+  },
+  {
+   "fact": "他的恐惧：她没说过 I love you——可能想留退路",
+   "anchor": "she wants to have an out",
+   "start": 2871,
+   "end": 2895
+  },
+  {
+   "fact": "Nate 最毒的一刀：她比你年轻，你给不了什么她就会走",
+   "anchor": "If you can’t give her anything, she’ll move on.",
+   "start": 3094,
+   "end": 3141
+  },
+  {
+   "fact": "结尾：也许该承认——她不会再发消息了",
+   "anchor": "maybe it’s time to admit that she’s not going to send me one.",
+   "start": 3635,
+   "end": 3696
+  }
+ ]
+}

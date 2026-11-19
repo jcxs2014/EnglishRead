@@ -1,0 +1,624 @@
+
+=== ①相对章号：30 行 ===
+ch01 flora caught and must lead the class.md:76 **为什么这样写**：sixty seconds 这个精确计数把社死压缩成一段可回放的录像，now-raging 让头痛与羞耻同步点火；结尾一句七个词独立成段，情绪从喜剧急刹成誓言——第一章在她最狼狈处下钩。
+ch02 max wants his son back.md:27 **为什么这样写**：三级连降（world-class → top UK league 之外 → busboy）用同一段排比完成，自嘲的语速越滚越快。pub every night 与他的 regimented 职业观正面相撞，文化冲突在第
+ch02 max wants his son back.md:91 **读者视角提示**：今晚这堂亲子课就是本章所有线索的汇合点——记住它，下一章的场景已在此报幕。
+ch05 car park men in the dark.md:49 **读者视角提示**：记住这是本章最后一个镜头——下一章先解决的恐怕不是心动，是安全。
+ch08 nine digits only.md:77 **读者视角提示**：记住「今晚比赛」——下一章的地形图已经在画。
+ch09 the number on her arm.md:63 **读者视角提示**：记住这通悬念的层级：火小、人安、心思悬——下一章从短信开始。
+ch13 the nanny proposal.md:77 **读者视角提示**：记住这个「完美方案」——它同时解决一切又制造一切，下一章的冲突已经装填。
+ch15 reason ten and the pantry.md:42 **读者视角提示**：记住「别轻信」这堂课——下一章 Flora 的信任要交出去之前，先经过这道安检。
+ch15 reason ten and the pantry.md:77 **读者视角提示**：记住这间储藏室——下一章从这里开始，三角关系正式成形。
+ch16 the pantry confession.md:56 **读者视角提示**：记住这份「无人可投」清单——下一章唯一的出口早已挂好灯：Reason 11。
+ch25 nailing this dad thing.md:63 **读者视角提示**：记住这三条指令——按摩房是下一章的牌局，规则她已经印好。
+ch26 the knot excuse.md:49 **读者视角提示**：记住这份「封口协议」——它将在下一章被两个人分别违约。
+ch26 the knot excuse.md:83 一场按摩以「knot」借口溃败收场：闹钟救了两人的体面，「不再谈起」的协议墨迹未干——他关门时的那句 naughty girl，已经把下一章的火点好了。
+ch33 the kissing lesson.md:62 **为什么这样写**：awkward salute 是她给所有说不出口的话设计的出口——军礼式的荒诞。道歉方案的伏笔让下一章有了指针：他学会了她的语言，就要用她的语言还债。
+ch35 the family skate.md:56 **读者视角提示**：记住「Nope」——她的否决权预告下一章的接管。
+ch36 i never stopped loving you.md:70 **读者视角提示**：记住 Jem 的这张脸——下一章的冲突已经在上菜。
+ch38 the first real kiss.md:63 **读者视角提示**：记住「always ask me」——下一章她的「请碰我」就是这条法律的第一次执行。
+ch39 he didnt take it back.md:11 - **Tropes 兑现/反转**：approval from the ex 兑现；反转是「Dad 没收回」——上一章的车厢忏悔立刻收到口头回执。
+ch39 he didnt take it back.md:42 **读者视角提示**：记住这场「没改口」——上一章的 Even then，这一章收到续约。
+ch39 he didnt take it back.md:56 **读者视角提示**：记住「伦敦」——下一章的城市名就是他们关系的下一级台阶。
+ch43 strictly vip you understand.md:62 **为什么这样写**：吻的动机自证清白——她把「表演」与「想要」分开。magnificent 承接上一章的 You：她的打分表首次公开。
+ch44 the daily check in.md:56 **读者视角提示**：记住「no eye contact」——下一章的实施方案将围绕它展开。
+ch55 neurodivergence is not a trend.md:70 **读者视角提示**：记住这句「让孩子吃苦」——Ted 的恶至此全部摊牌，下一章就是决战。
+ch59 twenty four and ambushed.md:56 **读者视角提示**：记住这场「伏击」——下一章的对决，已经在生日蜡烛前布好了局。
+ch60 you can be a lot and still be loved.md:63 **读者视角提示**：记住这三个名字的等式——它是下一章一切冲突的引信。
+ch64 the cleo trap.md:63 **读者视角提示**：记住「Cleo」——下一章的鱼，正在咬钩。
+ch64 the cleo trap.md:70 **读者视角提示**：记住「荣誉 Cloud」——下一章抓到 Ted，这张证书就能转正。
+ch65 the darkest hour.md:49 **读者视角提示**：记住「退路」这个词——下一章它会被正面回答。
+ch65 the darkest hour.md:56 **读者视角提示**：记住「she'll move on」——这句毒药将在下一章被现实当众解毒。
+ch65 the darkest hour.md:63 **读者视角提示**：记住这声「她不会再发了」——下一章的开场就会把它整个掀翻。
+
+=== ②绝对断言：159 行 ===
+00_情感节点.md:48 ，Bailey 用一句毯子收尾：这个家第一次有了一个第三方。
+00_概述.md:12 **同一周，Max 从美国降落到小镇冰场。** 前世界级球星被会计卷走几百万，只能在这支英格兰二线球队打一年过渡："A former world-class player playing for a tiny English team th
+00_概述.md:14 **两人在一堂亲子烹饪课上相撞。** Flora 认出他是自己看过片子的「boss」，Bailey 要求她整晚说脏话助兴——第一次见面以一场「谋杀计划书」收尾。真相在随后几天层层出土：她自我怀疑的根源、他缺席七年的缘由（Ted 藏掉了所有信
+00_概述.md:19 而她也第一次说出「跟你在一起，大脑停了」。
+00_概述.md:58 - 转向："“Look at me, Flour.” I study the colours in his cerulean eyes. “From what I can tell, for years you've been led to
+00_金句精选.md:39 **上下文**：ch12 烘焙课上对 Bailey 的第一次完整自我披露。
+00_金句精选.md:40 **为什么重要**：她的「说明书」第一次当众朗读—— Bailey 的接住（立规矩护她）让披露变成了关系。
+00_金句精选.md:61 **为什么重要**：欲望与规则的第一次正面相撞——「就一次」是全书所有亲密条款的谈判起点。
+00_金句精选.md:75 **为什么重要**：全书对「亲密」的最终定义——不是激情，是她的大脑第一次获准下班。
+00_金句精选.md:96 **为什么重要**：她第一次把「放手」与「守住」并行设计——爱不是挽留，是分工。
+ch01 flora caught and must lead the class.md:10 - **情感弧线位置**：开局章：亮相她的神经多样头痛、未确诊的三年长队与讨好型假笑，章末第一次被推出独处舒适区。
+ch01 flora caught and must lead the class.md:12 - **人物弧线**：Flora：用假笑与退避应对世界（fake smile I've perfected）→ 被迫答应主讲，第一次无法退缩。
+ch01 flora caught and must lead the class.md:56 **读者视角提示**：今晚这堂课是她被迫走出这栋房子的唯一理由——记住 run 与 assist 的落差，那就是她章末怒气的来源。
+ch02 max wants his son back.md:56 **读者视角提示**：记住「手机」这个道具——它在本章反复出现，是这个少年与外界之间唯一的门。
+ch03 max and bailey walk in.md:69 **为什么这样写**：孩子手里的武器是「偷听来的证据」——overheard 一词把信任崩塌的场景钉死。直到 April 的倒计时由儿子替父亲说出来，Max 在 ch02 瞒着的日期第一次露面就被用来伤人。
+ch03 max and bailey walk in.md:76 **为什么这样写**：表面是职业假笑对职业威严，内里她已把「谋杀计划书」写到埋尸环节——愤怒的夸张化是 Flora 唯一不用伪装的情绪出口。作者让她用荒诞保住体面，真正的敌意只用一句内心话结算。
+ch04 max drives back to apologise.md:10 - **情感弧线位置**：男主视角的软化章：从提防到自愧（dumbass），再到被训后的执行力——道歉是他重建父子信任的第一次真正让步。
+ch04 max drives back to apologise.md:12 - **人物弧线**：Max：旁听学艺 → 抢答被拒 → 队友式玩笑砸脚 → 接受批评当场掉头；Bailey：第一次主动指挥父亲做事。
+ch04 max drives back to apologise.md:34 **为什么这样写**：sucker punched 把羞耻写成身体记忆；两个 I didn't know 并排，承认自己连儿子的恨都是迟到的情报。NHL 在这里第一次被摆上被告席——他引以为傲的事业成了罪证。
+ch04 max drives back to apologise.md:83 **为什么这样写**：道歉的动机里藏了一个私心（another hour）——让步与贪心同框，父爱才显得真实。少年嘴上 sarcastic、车窗里偷笑，一对父子第一次共用同一套口是心非。
+ch04 max drives back to apologise.md:113 Max 旁听一整晚别人怎么爱他的孩子，被 Flora 一句「时间与欣赏」点破，又被 Bailey 一句「你该道歉」指挥掉头——这一晚他输得彻底，却第一次赢得了儿子的「Wow」。
+ch06 three apologies and a freckle.md:10 - **情感弧线位置**：男女主第一次「只有两个人」的长对话：敌意在笑声里融化，attraction 从单箭头变成互相接招。
+ch06 three apologies and a freckle.md:56 **读者视角提示**：记住「二十三对三十六」与「约会过更老的」——年龄差议题第一次摊牌，用的是她的主动权。
+ch06 three apologies and a freckle.md:62 **为什么这样写**：头痛是她的压力仪表——斗嘴竟是唯一有效的药，这个反常数据泄露真相：她缺的不是休息，是一个能接住她真实语气的人。作者把心动写成症状学。
+ch07 the phone call leak.md:11 - **Tropes 兑现/反转**：miscommunication 式泄密（电话转接）兑现；「救世主缺席」的反转——Bailey 怨的正是 Max 从未出现的救援。
+ch07 the phone call leak.md:12 - **人物弧线**：Max：从硬撑到承认（不会当少年爸、钱要见底）→ 被 Henry 点破盲区 → 排序第一次把 Bailey 放在 Flora 之前。
+ch08 nine digits only.md:11 - **Tropes 兑现/反转**：controlling ex/ fiancé 的镜像（EJ 之于 Mel）反照 Flora 自己的择偶标准；「抄错号码」是三角关系的第一次暗手。
+ch08 nine digits only.md:70 **读者视角提示**：记住「九位数」——Jem 的暗手第一次实际生效，男女主通信被物理切断。
+ch09 the number on her arm.md:25 **中文理解**：进球后他对着 Flora 玩了个自认帅气的 spin——她不喝彩、连笑都没有，他反而咧得更开；多年来第一次，他不只是在打冰球，而是在活它。
+ch10 baklava and maximus x.md:10 - **情感弧线位置**：双线各自触底再回弹：父子线摔进「我恨你」，爱情线借短信第一次夜间通话（文字版）。
+ch11 just check that hes okay.md:27 **为什么这样写**：他把她昨天的嘲讽（pirouettes）捡回来当自嘲弹药——会接梗的人才有资格进入她的频道。bursts free 的失控笑，是她第一次没排练过的真实反应。
+ch11 just check that hes okay.md:28 **读者视角提示**：记住这声没忍住的笑——她的面具第一次从内侧裂开。
+ch11 just check that hes okay.md:49 **读者视角提示**：记住这份「半句恳求」——它是 Max 第一次把软肋交给她保管。
+ch12 bailey sets the rules.md:10 - **情感弧线位置**：信任浇筑章：Bailey 用规则护航 Flora 的舒适区，Flora 交出自我披露，三人在面粉里第一次像一家人。
+ch12 bailey sets the rules.md:12 - **人物弧线**：Bailey：观察者 → 立规者（第一次掌控局面）；Flora：披露者；Max：试探者（学会从背后接近话题）。
+ch12 bailey sets the rules.md:32 **中文理解**：她第一次对人说：我可能有 autism 也有 ADHD——爱惯例和完全属于自己的空间，又容易无聊冲动；爱吵闹的音乐，有时又需要把一切都关掉；别人放的音乐响到她想尖叫，脑袋像要炸开，有时我得拼命压住火气。
+ch13 the nanny proposal.md:48 **为什么这样写**：她的「读人技能」反向出卖了她——她读出 Jem，Max 读出她。can't have you either 把醋意压成认命的酸：不敢追的人只配求别人不要追。三段递进完成男主第一次失守。
+ch14 hell will freeze over.md:10 - **情感弧线位置**：第一次接吻未遂：欲望与防御正面相撞，双方各自道歉——关系被撞出新的透明度。
+ch14 hell will freeze over.md:27 **为什么这样写**：shouldn't 与 pools 的错位写尽她的困境——理智判它危险，神经判它安全。一推一拉的双向动词在同一句里咬合：她的身体第一次公开与嘴唱反调。
+ch14 hell will freeze over.md:35 **读者视角提示**：记住这条铁律的例外条件——「想尝他」是全书她第一次想要「更多」。
+ch14 hell will freeze over.md:83 一堵铁胸、一条接吻铁律、一块赔罪蛋糕——她把提案骂成「地狱结冰」，却把头痛的真相留给了他：跟这个人吵架，是她唯一不紧张的地方。
+ch15 reason ten and the pantry.md:76 **为什么这样写**：他的一切体感（吞咽、红脸、细纹）都在替台词预告：这是告白。blood runs cold 是她的恐慌分辨率——友情与爱情的边界第一次被推到眼前。
+ch17 she asks to move in.md:12 - **人物弧线**：Max：被旧老板的画面与 25 场合同两头夹击，家的变数成了他唯一的好消息。
+ch17 she asks to move in.md:20 **为什么这样写**：他预设的是 wrath，收到的是条件性合作——Bailey 第一次把「想要什么」说出口。I'd like that 的含蓄措辞是少年的最大让步幅度：他答应的不是父亲，是 Flora。
+ch18 hold me for a second.md:9 - **一句话概括**：她湿着进来只求一秒拥抱，他抱她上床、接下保密协议、门外守了一夜；Bailey 暴雨取行李、清晨留一句「毯子够暖吗」——两人的家第一次有了一个第三方。
+ch18 hold me for a second.md:10 - **情感弧线位置**：touch 壁垒第一次有条件开放：她主动索要拥抱——身体的信任跑在语言的信任之前。
+ch18 hold me for a second.md:27 **为什么这样写**：pulling care from me 把拥抱写成抽血——安慰从他的身体里被直接取走。Flour 在此处第一次不带刺：昵称成了毛毯，两个家塌掉的人互相当了三分钟的屋顶。
+ch18 hold me for a second.md:34 **为什么这样写**：认罪与立场同框（我伤了人 / 但我不喜欢他那样）——她连愧疚都带着诚实的棱角。drag the sun down 的夸张是他此刻唯一的度量单位：她的暗，量出来是天文级的。
+ch18 hold me for a second.md:41 **为什么这样写**：报平安与匿踪并行——她要的是「被放心」而非「被找到」。bodyguard 的承诺把她从未说出口的恐惧（怕被劝回、怕被审判）接住了：他不问为什么，先签了字。
+ch18 hold me for a second.md:49 **读者视角提示**：记住这句毯子——这是 Bailey 第一次主动对父亲表达温度。
+ch18 hold me for a second.md:76 一秒钟的拥抱变成一夜的守候：她交出匿名协议，他交出房门口的位置——Bailey 用一句毯子收尾，这个家第一次像三个人凑起来的。
+ch19 you are valid.md:28 **读者视角提示**：记住「孤独的偏头痛」——她第一次把内在经验翻译给别人听。
+ch19 you are valid.md:69 **为什么这样写**：她的 overexplaining 还在跑，他的手已经到位——语言与行动的时差里全是默契。脚是她唯一开放给「专业人士」的部位，他直接应聘成功。
+ch19 you are valid.md:111 一张床、两只脚、一份「你的感受都正当」的判词——她在他这里第一次被签发「做自己许可证」，而他藏在豪宅账本里的牺牲，被她悄悄记进了待揭穿名单。
+ch20 fake nanny fanny.md:27 **为什么这样写**：little sis 三个字是她的入籍文件——Clouds 的血缘之外，她第一次被授予称谓。他的道歉不是认错而是认领：昨晚他也算当事人。
+ch20 fake nanny fanny.md:55 **为什么这样写**：一个缩写梗完成两国的文化对撞——同一个词，一个天真的屁股、一个下流的花园。笑闹声是这栋大房子的第一次满员：她的身份从员工变成能一起疯的人。
+ch21 his fanny if you will.md:10 - **情感弧线位置**：占有欲与分寸感的公开课：他在队友面前第一次为「她」立界，她则在人前收编了他的外号。
+ch21 his fanny if you will.md:21 **读者视角提示**：记住「牛排与热狗」——他对她的价值判断第一次当众念出声。
+ch22 the custody ask.md:10 - **情感弧线位置**：真相交付章：Ted 的罪证清单升级，Bailey 第一次主动求援——信任从借来的变成认领的。
+ch22 the custody ask.md:20 **为什么这样写**：大人的庆幸被孩子听成因果链——离婚的受益者成了受害者，逻辑在他心里拧成死结。省略号前的 stayed together 是他唯一的平行宇宙：那里没有 Ted。
+ch23 the fanny contract.md:10 - **情感弧线位置**：契约章：三个人的家第一次有书面规则；Garett 式的问询换成餐巾纸，信任有了格式。
+ch23 the fanny contract.md:55 **为什么这样写**：数目字第一次在两人之间流动成善意——她的「多」与他的「会想办法」在他那句 I'll make it work 里早已排练。五百镑是他给她的评估基金，不是工资。
+ch23 the fanny contract.md:56 **读者视角提示**：记住「月薪五百」——她离正式评估，第一次有了时间表。
+ch24 jaffa cake rules.md:10 - **情感弧线位置**：欲望与家庭责任的对峙章：身体先燃、理智先撤——她的「刹车」第一次踩在孩子优先上。
+ch24 jaffa cake rules.md:35 **读者视角提示**：记住这声带笑的「没人像你」——她的怪癖第一次被标价为珍品。
+ch24 jaffa cake rules.md:42 **读者视角提示**：记住这脚「孩子优先」的刹车——她的欲望第一次输给了她的良心。
+ch25 nailing this dad thing.md:27 **为什么这样写**：治疗的成效由前妻亲口验收——他花的钱第一次换来正向回报。保鲜盒被外套层层包裹的细节，是儿子「怕弄坏给 Gina 的东西」的放大特写：青春期的心意原来这么重。
+ch25 nailing this dad thing.md:34 **为什么这样写**：封存期第一次有了倒计时——不公平三个字是这桩共谋的解冻函。她的请辞把「真相」的钥匙正式排进日程。
+ch25 nailing this dad thing.md:55 **为什么这样写**：教与被教的职业话题被她当场改写成权力台词——她的双关从不解释，只确认（exactly how I meant it）。按摩课毕业的人第一次亮出「被引导」的偏好。
+ch27 the businesswomen breakfast.md:34 **为什么这样写**：省略号卡在 unusual ways 之前——连审判官都知道这个判决不好出口。childhood 的流水账由霸凌方保存：她的「案底」从未销档。
+ch28 the tangle gift.md:35 **读者视角提示**：记住这次错车——她最怕的「被家人审判」第一次撤销了。
+ch29 the scottish away game.md:35 **读者视角提示**：记住「没勒断发圈」——她的身体档案第一次出现好转记录。
+ch29 the scottish away game.md:41 **为什么这样写**：清点快乐的清单被她自己加塞——「只有两样」说完，第三样自动到账。autumn sunrise 的比喻让冰场的冷第一次有了暖色对标。
+ch29 the scottish away game.md:48 **为什么这样写**：同龄人做对照组——原来「退役恐惧」的解药不是合同，是生活。省略号里的 what 是全书最大的悬空：他的冠军梦第一次没有名词可填。
+ch29 the scottish away game.md:55 **为什么这样写**：传统的迁移是他第一次主动修复——不再等 Bailey 来球场的门票。all alone 的算术在他最得意的一球之后出现：胜利的反面是空看台。
+ch30 max used to rescue cats.md:10 - **情感弧线位置**：观赛是父子和解的暗线：第一次看爸爸打球、第一次叫他 Dad、第一次发现「 reputation 不等于人」。
+ch30 max used to rescue cats.md:20 **为什么这样写**：autism 这个词第一次被她当着 Bailey 面正常使用——术语变成赞美。她的媒人话术全是「先讲原理再讲漂亮」，温柔得像操作手册。
+ch31 the washing machine confession.md:27 **为什么这样写**：一连串问句全部指向「你疼不疼」——她把担心的清单背得滚瓜烂熟。偷偷看比赛的人最先学的全是规则：连判罚术语都到位了。
+ch31 the washing machine confession.md:49 **读者视角提示**：记住这个「You」——她第一次把夸奖完整送达。
+ch31 the washing machine confession.md:62 **为什么这样写**：系统（system）一词第一次出现——她在他体内已经不是客人而是驻留程序。「清出去」的誓言说得越急，卸载越难。
+ch32 the panic in the tea lesson.md:12 - **人物弧线**：Flora：交出 RSD 与十五岁案底 → 身体先说好、脑子先喊停；Max：交出婚姻悔账 → 第一次承认「想给的东西给不了」。
+ch32 the panic in the tea lesson.md:21 **读者视角提示**：记住这通电话——她第一次知道自己的「归属权」已经有人认领。
+ch33 the kissing lesson.md:56 **读者视角提示**：记住「薄荷味」——他按她的规矩刷牙，规矩第一次反向管住了他。
+ch34 the sorry tea.md:9 - **一句话概括**：「对不起茶」按她的配方重做并被打分改进；口误 next time、没收的内裤与「No expectations」的事后协议——本章是她多年来第一次「不 overthinking」的自由时刻。
+ch34 the sorry tea.md:20 **为什么这样写**：道歉被做成饮品——他终于学会用她的语言还债。乱发与扯后颈是他的紧张签名：这个人第一次为措辞失眠。
+ch34 the sorry tea.md:35 **读者视角提示**：记住「没彩排」——他的真心第一次没有脚本。
+ch34 the sorry tea.md:48 **为什么这样写**：高潮的意义被翻译成神经学词汇——不是快乐，是安静。freedom 单独成句落槌：她第一次体验「大脑不上班」的状态。
+ch35 the family skate.md:49 **读者视角提示**：记住「丧亲儿童」这个对象——他的父亲身份第一次有了社区出口。
+ch36 i never stopped loving you.md:9 - **一句话概括**：去烹饪学校的车上，Max 交出全部真相：他试过探视、礼物被 Ted 藏了、信托基金月月存着——「我从没停止爱你，一秒都没有」；惊喜派对上唯一臭脸的是 Jem。
+ch36 i never stopped loving you.md:42 **读者视角提示**：记住「操控型」这个定性——Ted 的画像第一次有了临床名词。
+ch37 the thanksgiving dinner.md:9 - **一句话概括**：感恩节餐桌三连击：Liz 的「搬灌木」双关起哄、Jem 的年龄差宣战、Flora 的「他是我老板」切割——合同四月到期被摆上桌，他第一次想留下却被身无分文按回去。
+ch37 the thanksgiving dinner.md:11 - **Tropes 兑现/反转**：family dinner chaos 兑现；反转是「想留下」的第一次闪念——立刻被自己的账本扑灭。
+ch37 the thanksgiving dinner.md:39 **中文理解**：他第一次认真考虑留下：这家人怪归怪，每个周末都可以这样——不想离开 Bailey，也不想离开她；但留下=近乎身无分文——Bailey 的未来需要钱兜底。
+ch37 the thanksgiving dinner.md:41 **为什么这样写**：两个「不想离开」并列后立刻被账单镇压——他的爱与他的责任抢同一个钱包。consider staying 的「第一次」是倒计时里第一个反向箭头。
+ch37 the thanksgiving dinner.md:42 **读者视角提示**：记住这场天平——留与走的第一次对冲，胜的是钱。
+ch37 the thanksgiving dinner.md:75 感恩节餐桌把所有牌摊开：Bush 双关、年龄差宣战、「他是我老板」的官方否认——四月被公开挂历化，而他人生第一次的「想留下」，被自己的钱包按了回去。
+ch38 the first real kiss.md:9 - **一句话概括**：第一顿感恩节的余温里，Max 给出牙的 Holly 按牙床、交出「你小时候我整夜陪你」的记忆；Kath 牵线、第一次真吻落地——「永远别为开口要而道歉」成了新的家规。
+ch38 the first real kiss.md:12 - **人物弧线**：Bailey：接过照护技能（牙床按摩传承）；Flora：第一次想「孩子」这件事；Max：把「always ask me」写进关系宪法。
+ch38 the first real kiss.md:21 **读者视角提示**：记住「你很完美」——它是对「I was hard work」时代误解的第一次修正案。
+ch38 the first real kiss.md:34 **为什么这样写**：一顿饭被授予终身成就——他缺的不是宴席是「有人为我张罗」。gift 的比喻把感激写成收礼：她的付出第一次被定价为珍贵。
+ch38 the first real kiss.md:39 **中文理解**：他看她像「她有意义」——她想唱歌（虽然从不唱）；看着摇篮里的 Holly，她人生第一次想到「孩子」这个选项；跟他在一起，她开始考虑拥抱真我而非硬合群——也许这就是接近 passion 的路。
+ch38 the first real kiss.md:41 **为什么这样写**：三个「第一次」连开——想唱歌、想孩子、想做自己。作者把 romance 的疗效写成身份的解冻：他不是治愈她，是给她解冻的温度。
+ch38 the first real kiss.md:42 **读者视角提示**：记住这段三连「第一次」——总览里她的成长弧从这里起跳。
+ch38 the first real kiss.md:118 感恩节的两份「第一次」：Bailey 收到「你很完美」的记忆修正案，Flora 收到人生第一个真吻——温柔取代狂风，而「always ask me」立法之后，她的焦虑第一次有了熔断机制。
+ch40 your daughter is a queen.md:12 - **人物弧线**：Flora：第一次有人当面对付她母亲；Max：从观众变辩护人（当着她的面）。
+ch40 your daughter is a queen.md:48 **为什么这样写**：请柬的分量被放在霸凌史的天平上——她第一次把「She bullied me」对母亲说出口。grits her teeth 的细节记录代价：说真话是要咬碎牙的。
+ch41 the girlfriend question.md:12 - **人物弧线**：Max：第一次为开口而胃痛；Flora：change 恐惧被解密（passion 之谜同步破案）。
+ch41 the girlfriend question.md:48 **为什么这样写**：他拆除时间压力——把「关系」的定义权从未来挪到当下。different label 的法务措辞下全是深情：他只要真名，不要婚期。
+ch42 work that stick.md:9 - **一句话概括**：伦敦客场她真的来了——举着「Work that stick, Daddy Max」的手写横幅；他把她当全场唯一观众来打，进球指看台收飞吻：人生最快乐，彻底沦陷。
+ch42 work that stick.md:42 **读者视角提示**：记住「唯一观众」——他后续每次进球都在给这个前提加冕。
+ch42 work that stick.md:74 伦敦之夜的记分牌只有一行：她举着横幅、他把她当唯一观众——进球送飞吻的瞬间，最快乐的男人承认自己彻底完蛋。
+ch43 strictly vip you understand.md:20 **为什么这样写**：绰号是霸凌者的身份证——念出它等于宣读旧案。她的内心反驳句（not the same）夹在对话中间：防御工事里第一次有了反击的钢筋。
+ch43 strictly vip you understand.md:27 **为什么这样写**：加害者的语言洗白术被逐字展览——banter 一词是她童年的毒药别名。校服的灰色是记忆的色温：这段历史从未褪色。
+ch43 strictly vip you understand.md:48 **为什么这样写**：名分第一次当众挂出——借他的名字还自己的债。I hate that I ever did 的后半句把矛头转向自己：她的胜利里带着自我清算。
+ch44 the daily check in.md:9 - **一句话概括**：酒店之夜先签「双向同意条款」： girlfriend 认真性双重确认、她预告每日查岗、他承诺天天接——「no eye contact」成为今晚唯一规则，他调出研究笔记准备新尝试。
+ch44 the daily check in.md:21 **读者视角提示**：记住「双向道」——这是他对她的第一次立法，也是全书关系的宪法条款。
+ch44 the daily check in.md:53 **中文理解**：她给出今晚唯一的雷区：可以——但不能有眼神接触，我做不到；他点头，心里翻出读过的过度/不足刺激研究——想试一种新方式，只求别搞砸我们现有的。
+ch44 the daily check in.md:55 **为什么这样写**：雷区被平静呈交——她的「做不到」第一次不带道歉。他拿文献当兵法：爱她爱到去读论文。
+ch45 icing safeword night.md:9 - **一句话概括**：感官定制夜全套落地：眼罩＋耳机＋软绳绑腕＋安全词 icing＋双敲查岗——她人生第一次与人真正抵达，醒来承认这不只是 obsessed，是混着真感情；秘密（想过每天）先压在 Bailey 之下。
+ch45 icing safeword night.md:46 **中文理解**：她第一次与人抵达那个地方——满脑子的光、压力和解脱：没有分心、没有失望；一种从未体验过的情绪像灯泡啪地亮起：这不只是 obsessed——里面混着躲不掉的真感情。
+ch45 icing safeword night.md:56 **读者视角提示**：记住「内脏级」——她的神经系统第一次为爱背书。
+ch49 go home flora.md:9 - **一句话概括**：父母家的 Boxing Day 派对筹备地狱里，哥哥 Clive 从阿根廷打来视频——第一次道歉、第一次说「回家吧」；她没 unpack 的行李成了最后的信号，把礼物和羞辱一同留在门后，叫车奔向机场。
+ch49 go home flora.md:48 **为什么这样写**：道歉来自最不可能的人——十年的「寻找自我」第一次结出果实。peeks through 的笑很克制：她不敢全信，但收下了。
+ch50 coming home sooner than planned.md:18 **中文理解**：三天应酬、酒宴、吹捧之后，他只想回家找 Bailey 和 Flora——她从 Boxing Day 起偏头痛发作，是十几岁以来第一次三天；光是知道她还好不好这份渴望就 visceral 到让他几天无法思考别的。
+ch50 coming home sooner than planned.md:39 **中文理解**：Cale 带来传言：教练想赛季中签他——Monster Max 可能提前回家；全场欢呼，他却惊恐：他本该还有三个多月陪 Bailey 和 Flora——Bailey 复活节前有第一次学校舞会，他必须去拍照、当骄傲的老爸。
+ch50 coming home sooner than planned.md:42 **读者视角提示**：记住「第一次学校舞会」——这是他不能错过 yet 的父职里程碑。
+ch52 the cheshire cat grin.md:35 **读者视角提示**：记住「给你全世界」——这是他第一次把爱说得这么赤裸。
+ch52 the cheshire cat grin.md:82 跨年夜的捉迷藏把焦虑玩成了定情仪式：他锁门、追捕、在猫窝旧事里说「给你全世界」——她在烟花下被抓到，两人互道新年快乐，倒计时第一次不再是威胁。
+ch53 the stingers call.md:9 - **一句话概括**：Santa Run 出发前，Bailey 早已知情并祝福（还第一次叫他 Dad 护 Flora）；他宣布拒绝球队被她推回；Nate 电话砸来 Stingers 25 场合同——她差点说出 I love you，他却在
+ch53 the stingers call.md:21 **读者视角提示**：记住这记「踢你屁股」——Bailey 第一次以「家人的男人」身份立规矩。
+ch53 the stingers call.md:55 **为什么这样写**：I love y—被截断在半个字母里——时间停止的写法让半句话比整句更响。I have to stay 的三个词，是整章唯一没有犹豫的结论。
+ch53 the stingers call.md:60 **中文理解**：他把球棍形解压玩具塞给她——记得你说过跑步会 stim；没人在意，在意我也收拾他们；她把手塞进他的手心：你和我，最后一次一起面对这些烂事。谢谢 Max。
+ch53 the stingers call.md:63 **读者视角提示**：记住「最后一次一起面对」——他们的每场告别都提前彩排过。
+ch54 fifteen birthdays missed.md:10 - **情感弧线位置**：创伤互展章：两代被控制的女人互相开处方——生日的疤被第一次揭给外人看。
+ch54 fifteen birthdays missed.md:28 **读者视角提示**：记住「马赛克人生」——她在他那里第一次看见高清的自己。
+ch54 fifteen birthdays missed.md:48 **为什么这样写**：她的婚约危机里藏着真正的职业梦想——梦想比未婚夫可靠。Flora 立刻接上烹饪学校的课：她的资源网第一次为朋友转动。
+ch54 fifteen birthdays missed.md:83 生日创伤第一次说出声，Mel 的 EJ 红旗终于被她自己承认——Max 一通校长室电话把两人同时拽回「家人」岗位：她冲出教室的速度，就是这本书给她的答案。
+ch55 neurodivergence is not a trend.md:9 - **一句话概括**：校长室大战：Flora 掐断 tangle 逼问学校支持，Dr Russo 与 deputy head 收网；走廊上 Ted 现身摊牌——「不滚回美国就争监护权让孩子吃苦」，Bailey 站在 Max 身后宣布「Ma
+ch55 neurodivergence is not a trend.md:10 - **情感弧线位置**：守护者全面上岗章：她的 advocacy、他的到场、孩子的选择——三个人第一次并肩作战。
+ch55 neurodivergence is not a trend.md:12 - **人物弧线**：Flora：第一次离 Bailey/Max 独立爆发（passion 的第一站）；Bailey：公开站队；Ted：从阴影走进正面。
+ch55 neurodivergence is not a trend.md:28 **读者视角提示**：记住这句自我介绍——她的「家人身份」第一次正式署名。
+ch55 neurodivergence is not a trend.md:46 **中文理解**：Ted 现身低吼：我是你爸，你唯一的爸；Bailey 直视他：Max 才是我唯一想要的爸——手指握拳发抖，「你说 Max 已经不爱我了」。
+ch55 neurodivergence is not a trend.md:49 **读者视角提示**：记住「唯一的爸」之争——Ted 的「唯一」是户口本上的，Bailey 的「唯一」是心里的。
+ch57 the airport goodbye.md:56 **读者视角提示**：记住这声「Flour」——昵称在此刻是他们唯一的通用语。
+ch60 you can be a lot and still be loved.md:32 **中文理解**：她的控诉全文：你们不懂「不理解世界规则还要硬融」的滋味——压力性头痛是我逼自己像所有人的代价；感官、人群、社会规范总是淹没我，你们从不理解、连试都不试；你们在这儿开心，可我在挣扎。
+ch60 you can be a lot and still be loved.md:34 **为什么这样写**：这是她第一次当众讲自己的神经系统——术语（sensory、overwhelm）与血泪（headaches）同时上桌。I'm struggling 的收束把「我很好」的面具当众烧掉。
+ch60 you can be a lot and still be loved.md:48 **为什么这样写**：断亲令引用了 ch49 的旧案——她的「说到做到」是全书第一次。I deserved it 是母亲原话的回放：受害者被告知她该被欺负。
+ch61 the diagnosis day.md:35 **读者视角提示**：记住「一周两天」——她的 passion 第一次有了工牌。
+ch62 they are ridiculous and i love them.md:9 - **一句话概括**：她鼓起勇气回到 Clouds 群聊道歉——全家秒回暖意、加送带薪假；她第一次向所有人坦白 Max 离开真相与 EJ=Ted 的反转；Amber 透露全家正在想办法让 Max 回来；结尾她宣布养猫并关掉群聊的提醒。
+ch62 they are ridiculous and i love them.md:20 **为什么这样写**：道歉与反道歉对撞——她第一次说出「太吵了」，家人第一次听懂。overwhelming 是她的诊断词第一次当家常话用。
+ch62 they are ridiculous and i love them.md:28 **读者视角提示**：记住「三个人先来」——她的社交节能模式第一次被全家执行。
+ch62 they are ridiculous and i love them.md:48 **为什么这样写**：I love you all 是她全书第一次对群体说爱——对 Max 都说不出口的话，对他们脱口而出。mute 的动作不是疏远，是按自己的节奏保留入口。
+ch63 dont sign it yet.md:35 **读者视角提示**：记住这声「先别签」——Bailey 第一次以「家里男人」的身份给父亲下达指令。
+ch64 the cleo trap.md:20 **为什么这样写**：语音留言的时间压力与他的拖延并置——他宁可违约风险也不肯先斩后奏。Bailey 的传话让 Flora 的「行动」成为他唯一的等待理由。
+ch64 the cleo trap.md:25 **中文理解**：Kath 的自我剖白：跟女儿疏远很久了——她大部分童年跟父亲过，十八岁怀孕离家后再没说过话；孙女比 Flora 还大，她从未见过；愧疚与羞耻压着——但要求她敞开，自己就得先敞开。
+ch65 the darkest hour.md:13 - **叙事手法**：洗手间独自戏（泼水）——全书唯一一场完全无人接住的崩溃。
+ch65 the darkest hour.md:27 **为什么这样写**：最高薪与最小幸福同框报价——他心里的成交价是糖霜与唠叨。洗手间的水声里，梦与家第一次公开打架。
+ch67 im my passion.md:62 **为什么这样写**：父子的称呼在出门前完成最后一次盖章——「不配但有幸」是全书父线的总结算。You too, Flora 一笔把她正式写进告别名单。
+ch68 will you marry me maximus.md:69 **为什么这样写**：Yes, boss 回收 ch25 的调情暗语——从按摩台到求婚台，权力游戏的暗号完成了从欲望到誓言的转译。stadium 的欢呼是他们第一次「公开拥有彼此」。
+
+=== ③年龄数字：298 行 ===
+00_情感节点.md:33 - ** 军犬恐吓开场、三次道歉收尾的深夜斗嘴（ch06）
+00_情感节点.md:104 **叙事概括：** 早餐课撞上校园检察官（「你一直很怪」）；车咖里 Mel 的控制型婚约照出她的择偶清单；Jem 告白灾难推她入夜雨；接吻课四条规则句句都是茶夜案发现场的勘验报告——Dad 口误在结束时落槌。
+00_情感节点.md:180 **叙事概括：** 他要用两赛季合同换她，她用「今晚别决定」替他守住未来；捉迷藏的真烟花、Santa Run 起跑线的三重奏（知情+25 场合同+差点 I love you）——「I love you too」被欢呼吞没。
+00_情感节点.md:192 **叙事概括：** 八岁生日创伤出土、EJ 红旗转深红、校长室危机引爆——机场告别静得像消音：I love you 在脑内循环一万遍，出口只剩「你是我见过最好的男人」。
+00_情感节点.md:204 **叙事概括：** 更衣室的缺席、24 岁生日的双重惊喜、生日派对上的当众断亲（「a lot and still be loved」）——二十四小时后诊断落地，工作邀约与养猫宣言同日签发。
+00_情感节点.md:230 **叙事概括：** 七个月后：应援牌「他真是我爸」、kiss-cam 转向、字母牌闹剧收进「Will you marry me, Maximus」——她的应答自带婚礼方案（小仪式+维加斯，「喂饱两个我」），全场为一对「求关注的内向者」沸腾。
+00_概述.md:21 **关系在规则中升温，在规则中失控。** 餐巾纸合同（Max's Fanny Contract）把同居合法化（ch23）；茶课升级成「就一次」的越界提议被一场 panic 打断（ch32）；她在 ch60 的生日派对上当众断亲、宣告 "My
+00_概述.md:25 **全家设局，骗子落网。** Amber 化名「Cleo」钓了 Ted 一周，车牌钓鱼、五名受害女性的证词、Kath 的一把椅子——
+00_概述.md:34 **七个月后，冰场中央。** Bailey 举牌「他真是我爸」、kiss-cam 转向看台、字母牌拼出「Will you marry me, Maximus?」——她的应答自带婚礼方案：""Yes, and I want a small w
+00_概述.md:42 **二、父亲不是血缘，是「出现」这个动词。** Bailey 的「典型爸爸」字典被 Max 用七年的缺席账单一页页撕掉：
+00_概述.md:59 - 最低点："“Flour, I'm sorry,” he calls after me. But I keep running up the stairs. I hate myself because even though I frea
+00_概述.md:64 - 起点："Bad. I don't know how to be a dad to a teenager. I miss how he was when he was seven, before I moved to Boston and
+00_金句精选.md:10 **中文**：我在心里默问那两个问题——父母问了我一辈子的「你怎么是这样的人」「你到底哪里有问题」——如今它们成了我霸凌自己的武器。
+00_金句精选.md:12 **为什么重要**：全书的心理引擎在此点火——她的所有讨好、头痛与「努力合群」都是这两个问题的利息。
+00_金句精选.md:24 **中文**：糟。我不知道怎么给青春期少年当爸。我想念七岁的他——在我搬去波士顿、Els 带他回英国之前。
+00_金句精选.md:47 **为什么重要**：全书枢纽——把她的三十年「合群教育」一次性正名，也是她此后每一次自我主张的法律依据。
+00_金句精选.md:48 **呼应关系**：与 ①「两个问题」构成正反对位；与 ㉓「a lot and still be loved」是她宣读给自己的判决书。
+00_金句精选.md:80 **中文**：每个月我都往你的信托基金存钱。你十六岁才能动，想改随时改。我要你知道：我从没停止爱你，一秒都没有。我每天都在想你。Ted 说我无权出现在你的生活里——所以离婚程序一开始我就搬来了这儿。
+00_金句精选.md:81 **上下文**：ch36 车厢忏悔，缺席七年的完整供述。
+00_金句精选.md:82 **为什么重要**：父线的封顶石——钱、信、倒计时三条证据链同时呈现。
+00_金句精选.md:104 **呼应关系**：与 ⑰「I love you」构成扣留与放行的时间差；与 ⑬「我会等你」是同一晚的两张车票。
+00_金句精选.md:118 **呼应关系**：与 ①「两个问题」对位；与 ⑥「你的感受正当」由他宣读、由她活出。
+00_金句精选.md:129 **中文**：差一点就签了——但我想起我真正想要的一切都在这儿。我要了一分钟，那时 Els 来电了。我试着打给你，你没接。
+00_金句精选.md:136 **中文**：等你到警局，会有五个女人在做笔录——全被那个「病儿子」的医药费骗过钱。
+00_金句精选.md:138 **为什么重要**：全书最大反派的清算时刻——骗局、威胁、监护权三条线在同一句里终结。
+00_金句精选.md:168 **中文**：可以下周约咖啡吗？一次全员有点多，先你们三个怎么样？这样安排可以吗？
+00_金句精选.md:177 **为什么重要**：Yes, boss 从按摩台的调情暗语升级为誓言——权力游戏最终成为两个人的专属语法。
+00_金句精选.md:182 **中文**：谢谢——过去几小时发生的一切我还在消化。我想我要养一只猫了。
+ch00 foreword.md:13 - **叙事手法**：直接对读者说话的作者前言体：三个平行的让步句（there might be / While every effort）把免责写成了信任建立。
+ch00 foreword.md:27 **为什么这样写**：In the same way 把体育免责句式平移到神经多样性上——同一个句式做两次担保，力度却在第二段反转：体育允许失真，Flora 的经验却有 lived experience 兜底。However 一转，前半句的
+ch00 foreword.md:28 **读者视角提示**：这半页是作者的写作伦理声明——Flora 的头痛、感官过载与自我怀疑都出自真实调研，读到时不必怀疑真实性。
+ch00 foreword.md:50 作者前言把两件事交代清楚：冰球世界是虚构的，Flora 的神经多样性经验是真实的——前者允许失真，后者拒绝猎奇，这是全书预付给读者的信任契约。
+ch01 flora caught and must lead the class.md:32 **中文理解**：她在心里问那两个问题——父母问了她一辈子的「你怎么是这样的人」「你到底哪里有问题」——如今它们成了她自己霸凌自己的武器。
+ch01 flora caught and must lead the class.md:34 **为什么这样写**：两个问句独立成段，像回声一样砸下来；bullied myself with 把父母的语言判成凶器，说明伤害早已内化。这是女主角整条弧线的起点坐标。
+ch01 flora caught and must lead the class.md:39 **中文理解**：Russo 医生告诉她：不走自费通道，孤独症和 ADHD 的评估至少要排三年——短期内她根本没机会搞清楚自己到底是怎么了。
+ch01 flora caught and must lead the class.md:41 **为什么这样写**：一句平铺直叙的陈述句交出公立医疗排队的现实重量，自费、三年、没机会，三个信息没有一个带感叹号，冷静得像账单——这正是她被迫「带着未确诊活下去」的原因。
+ch01 flora caught and must lead the class.md:42 **读者视角提示**：这条三年长队是她一切不确定感的制度背景，后续她对自我认知的摇摆都挂在这上面。
+ch01 flora caught and must lead the class.md:55 **为什么这样写**：这段话把两条线一次接通：她憋了整章的「声音把柄」让她只能点头，而 run the class 三个词把她的身份从助手一次性推上主讲台——被迫出门是喜剧的惩罚，也是剧情的钥匙。
+ch01 flora caught and must lead the class.md:62 **为什么这样写**：slow motion 是灾难片的镜头语言，作者把尴尬拍成物理级事故；fumble 与 accidentally 两个词把祸源钉死在「手比脑子快」，喜剧的引爆全靠这两个词的连锁。
+ch01 flora caught and must lead the class.md:69 **为什么这样写**：crows 定住 Liz 那种不按常理出牌的得意；两位长辈一动一静——Iain 逃、Liz 收——长辈撞破尴尬本该吓跑 Flora，这一家却用自嘲替她卸力。still-gawking 把 Jem 钉在原地，笑点分配给三
+ch02 max wants his son back.md:9 - **一句话概括**：前世界级球星 Max 在英格兰二线球会打这一年短期工，为的是能待在继子 Bailey 身边——章末他借 Henry 的建议敲定今晚的亲子烹饪课，作为重建父子关系的第一步。
+ch02 max wants his son back.md:12 - **人物弧线**：Max：用硬汉姿态盖住输掉的一切（钱、身体、球队级别）→ 面对 Bailey 的耳机与手机，承认自己只有八个月。
+ch02 max wants his son back.md:18 **中文理解**：他无视膝背的疼痛——冰球运动员不退出；哪怕这只是训练、这支球队只是跳板，他也要赢。三个「Push」是他给自己的节拍器。
+ch02 max wants his son back.md:39 **中文理解**：Max 放话要给这帮人看看什么叫 NHL 式训练——他只有一年，要留下印记，回美国还得被签走；Owens 悄声提起年初铺满媒体的新闻：他的会计卷走了他几百万。
+ch02 max wants his son back.md:42 **读者视角提示**：记住「被卷走的几百万」——他拼命背后是具体的财务悬崖，不是单纯的胜负欲。
+ch02 max wants his son back.md:46 **中文理解**：教练让他直呼 Mike，说「你只是暂时在这儿，但只要我在带你就算一家人」；这句话让 Max 又想起八个月后回家、再打两个赛季的计划。
+ch02 max wants his son back.md:53 **中文理解**：教练指向挡板外——前妻站在那儿，Bailey 跟在后面低头看手机；哪怕一脸不情愿，那张十三岁的脸还是让 Max 心头一热。
+ch02 max wants his son back.md:67 **中文理解**：Bailey 不是他亲生的，但整整七年，这个孩子是他的每一天、他的儿子；如今孩子只把他说成「不爱到连探视都不肯的男人」，他有八个月去解释真相、重建关系。
+ch02 max wants his son back.md:70 **读者视角提示**：记住「七年」与「八个月」这组对数——失去的时间越长，剩下的窗口越逼人。
+ch02 max wants his son back.md:83 **为什么这样写**：biological parents 两次落地，把「血缘至上」立成反派的论点——全书正好要用 Max 这位继父把它打掉。祖辈以律师费为筹码，让亲情对立有了具体的权力形状。
+ch02 max wants his son back.md:88 **中文理解**：Henry 说女儿爱做饭，常带她去烹饪学校，今晚正好有亲子课，可女儿闹脾气去不了；Max 一巴掌拍在挡板上当场拍板——Bailey 从前最爱给饼干纸杯蛋糕抹糖霜。Els 叹气泼冷水：「那是他六岁的时候。」
+ch02 max wants his son back.md:97 **为什么这样写**：婚姻失败被一笔带过（职业流动性拆散家庭），真正的落点是 do-over——篮球场边的忏悔浓缩成两个音节的行动宣言。become the dad Bailey needs 把目标定在「他需要什么」而非「我想要什么」，本章
+ch02 max wants his son back.md:127 Max 的美国梦只剩一个窟窿：钱被会计卷走、身体在退化、只剩八个月——他把全部赌注压在「重新成为 Bailey 的爸爸」上，而今晚那堂亲子烹饪课，就是他 do-over 计划的第一枪。
+ch03 max and bailey walk in.md:27 **为什么这样写**：三个短句层层加码，最后 At anything 单独甩出，把否定从「这件事」升级成「整个人」。作者让最了解她的人说出最不懂她的话——伤害的产权清晰了。
+ch03 max and bailey walk in.md:39 **中文理解**：妈妈说基金要到二十五岁才能动，只肯为「重要的事」解锁；Flora 反驳——这就是重要的事，而且哥哥 Clive 当年提前拿过。
+ch03 max and bailey walk in.md:55 **为什么这样写**：两个「不想在这儿」瞬间完成结盟——这是全书第一段不靠血缘、不靠讨好建立的关系。脏话在这里是社交货币：Bailey 用它测试大人，Flora 用它残存真我。
+ch03 max and bailey walk in.md:67 **中文理解**：Bailey 笑容消失，扔下一句「别叫我爸，Max，快点上完这课我好回家打游戏」；Max 叹息「你以前叫我爸爸」；少年摊牌：七岁那年我偷听到你跟妈妈说话——你四月赛季一完就飞回美国打 NHL，那才是你真正爱的。
+ch04 max drives back to apologise.md:25 **中文理解**：他懊悔自己态度差——她几秒就从 Bailey 那里得到的，比他一个月还多，这把他击垮了；再想到 Els 说过 Ted 的事，他放了狠话：查出那家伙对 Bailey 动过什么，就亲手宰了他。
+ch04 max drives back to apologise.md:48 **为什么这样写**：I guess 两个词的犹疑比任何控诉都痛——孩子连「爸爸」这个称呼都要打折出售。harassment 一词揭开 Ted 的手法：用法律威胁把父亲改写成罪犯。
+ch04 max drives back to apologise.md:55 **为什么这样写**：never be friends 的判决书配上 reflection 里的偷笑——嘴与脸分裂，互怼其实是调情。最后 I feel the same 四个词双关：既指爱骂回去，也指喜欢她。
+ch04 max drives back to apologise.md:67 **中文理解**：Flora 把他拽到后屋开训：我才认识这孩子两小时就知道他很酷——随他妈；你再嘴欠一次，每骂一句就把自己和儿子的关系毁一分；你要给的是时间和欣赏，不是刚才那坨东西。
+ch04 max drives back to apologise.md:69 **为什么这样写**：two hours 对比他七年的失职，时间的悬殊就是指控的力度。screwing up 把「骂孩子」量化成慢性拆房——这句训斥其实句句说给她自己的父母听，她只是借 Max 的案子宣判。
+ch04 max drives back to apologise.md:74 **中文理解**：Bailey 出现在门口：「你总把我当七岁，Max」；他看向 Flora，认真道谢——谢谢你替我出头。
+ch04 max drives back to apologise.md:81 **中文理解**：Max 宣布——才九点半，开回学校道歉；心里补一句：这样又能多陪儿子一小时。Bailey 半真半假地问「你居然听我的？」，车窗反光里藏着憋不住的笑。
+ch05 car park men in the dark.md:9 - **一句话概括**：课后深夜，Flora 一边给狗烤饼干一边复盘自己冲 Max 发火的失态；独处时的旧伤发作（缠绳自罚、猫窝回忆），送狗回家路上停车场里出现灰色 4x4 和两个走向她的男人。
+ch05 car park men in the dark.md:39 **中文理解**：十岁的时候，难过她就躲进猫窝——它藏在桌子底下，父母够不到她，没法再逼她改变行为。
+ch05 car park men in the dark.md:41 **为什么这样写**：孩子的避难所不是房间而是猫窝——安全感的尺寸小到只容得下一个十岁的人。behave differently 点破她从小到大的课题：不是做错什么，只是被要求「 behaving 」得像别人。
+ch05 car park men in the dark.md:46 **中文理解**：两个男人继续朝她走来；鸡皮疙瘩爬满她裸露的手臂——今天这个糟透的日子，难道要这样收场？
+ch05 car park men in the dark.md:48 **为什么这样写**：三个短句一级级收紧：距离（keep walking）→身体（goosepimples）→命运提问（结尾句）。全章的私密崩溃被两个陌生人打断，作者用停车场的黑替她挡住视线，只留下声音与脚步。
+ch06 three apologies and a freckle.md:9 - **一句话概括**：停车场的「袭击者」是来道歉的 Max 和打掩护的 Bailey——一晚三次道歉、Flour/Flora 名字攻防、「你以前叫我爸爸」反杀、年龄揭晓，斗嘴一整晚，她的头痛反而轻了。
+ch06 three apologies and a freckle.md:32 **中文理解**：他咧嘴一笑：瞧，一个晚上你从我这里榨出三次道歉——这一定是个纪录。
+ch06 three apologies and a freckle.md:35 **读者视角提示**：记住「三次」这个纪录——后面每次他先低头，都是在新纪录上添笔。
+ch06 three apologies and a freckle.md:98 一场军犬恐吓开场、三次道歉、一次「叫错名字」反杀收尾的深夜斗嘴——Flora 嘴上没赢过，头痛倒是好了：原来她最缺的药，是一个敢接她真话的人。
+ch07 the phone call leak.md:10 - **情感弧线位置**：中场盘点章：财务、父职、暗恋三条线同时报警；结尾他给自己排出优先级——先儿子，后女人。
+ch07 the phone call leak.md:20 **为什么这样写**：一句并列句做完家庭财务审计：孩子优先、自己垫底——父爱用钱的方向写了出来。nothing left 对 healthy 的落差，把「被卷走的几百万」落成安静的现实。
+ch07 the phone call leak.md:25 **中文理解**：经纪人明说：在这儿打一年反而降低被好球队签走的概率；他的职业窗口正在飞速关闭——冰球运动员很少干到四十岁，而他现在从跪姿站起来都会咔咔响。
+ch07 the phone call leak.md:32 **中文理解**：被问及和 Bailey 的近况，他的回答是一个字：糟。他不知道怎么给青春期少年当爸——想念的还是那个七岁的、他搬去波士顿、Els 带孩子回英国之前的小孩。
+ch07 the phone call leak.md:34 **为什么这样写**：独词句 Bad 交白卷，紧接的解释全是时间坐标——他记挂的是停格在七岁的儿子，而眼前站着一个十三岁的陌生人。作者让父爱露馅：他爱的是记忆里的版本。
+ch07 the phone call leak.md:35 **读者视角提示**：记住「想念七岁」这个坦白——他的功课不是恢复旧关系，是认识新的人。
+ch07 the phone call leak.md:46 **中文理解**：Henry 分析：十三岁的孩子本来就不会喜欢太多人；如果 Ted 时期很糟、而他又不知道你一直在尝试联系，他可能正怪你——怪你没有把他从 Ted 手里救出去。
+ch07 the phone call leak.md:53 **中文理解**：Henry 再补一刀：八个月的倒计时恐怕帮倒忙——对 Bailey 来说这段关系注定过期，反正你要走，孩子可能正等着熬过去。
+ch07 the phone call leak.md:55 **为什么这样写**：waiting it out 是全章最重的四个词——孩子不是抗拒，是在「熬」；倒计时反而成了不投入的理由。作者用 Henry 的嘴把男主的战略缺陷拆穿。
+ch07 the phone call leak.md:62 **为什么这样写**：父子谈判以「条件交换」成交——十三岁孩子用嫌弃换坦克，老爸用绅士换情报。awkward 的羞耻感说明孩子已经在替他管理形象，权力关系悄悄倒转。
+ch07 the phone call leak.md:76 **为什么这样写**：两个待办（修 Flora、救父子线）被他亲手排序——先儿子后女人，与 ch02 的 do-over 誓言同源。Bailey 的 looks away 与章末的 hating me 前后夹击：全章的诊察报告在此盖章。
+ch07 the phone call leak.md:104 健身房问诊问出三张病危通知：钱、儿子、暗恋；一通打错的电话又给 Flora 添了新债——Max 重新排好优先级：先止住儿子的恨，再谈别的。
+ch08 nine digits only.md:9 - **一句话概括**：车咖里 Flora 与新友 Mel 互倒心事（控制型婚约、约会创伤、评估费缺口），Clouds 一家随后围桌落座——Jem 追问「陌生人」来电，还把 Max 的号码「抄错」成九位；Liz 递来今晚球赛余票。
+ch08 nine digits only.md:27 **为什么这样写**：三条财务曲线同时下行：房子、信用卡、评估——每个数字都是砝码，压出她「必须快点找到意义」的仓促。a sixth 这个分数把窘迫量化，比「缺钱」诚实得多。
+ch08 nine digits only.md:34 **为什么这样写**：两条证据（问得多、看得勤）拼出一个不敢开口的暗恋者画像；她的 I don't fancy him 既是澄清也是 anxiety——她最怕的就是弄丢这段「家人式」友谊。
+ch08 nine digits only.md:48 **为什么这样写**：robot 与 too emotional 是两个方向的判决——不够冷与太冷都不行，她怎么演都是错。作者用互斥的双指控证明：错的从来不是她的配置，是那台名为「正常」的考卷。
+ch08 nine digits only.md:49 **读者视角提示**：记住这两个绰号——它们是 Flora 面具的出厂原因，也是她后来敢摘的原因。
+ch08 nine digits only.md:62 **为什么这样写**：before me 三个词是 jealousy 的计量单位——他在意的不是她痛不痛，是排名。作者让 Jem 的占有欲以「受伤的朋友」面目出场，边界模糊得恰到好处。
+ch08 nine digits only.md:67 **中文理解**：至于号码为什么没转交——「我抄错了」，他挑眉补一句「我又没打过」，只抄了九个数字，大概漏了两位。
+ch08 nine digits only.md:69 **为什么这样写**：九个数字的「失误」精确得像审计——漏掉两位等于掐断一条线，而 Not that I called it 的辩解又多到可疑。作者不说「嫉妒」，只让抄写员的手替他说话。
+ch08 nine digits only.md:76 **为什么这样写**：余票是命运的顺手推舟——Jem 的九位数字与 Liz 的余票同场竞技，善意与阻挠同框赛跑。赛后留场的细节给重逢铺好物理舞台。
+ch08 nine digits only.md:112 车咖的一下午把三条线拧紧：Mel 的控制型婚约照出 Flora 的择偶清单，Jem 的九位号码剪断通信，Liz 的余票把答案排到今晚——球赛见。
+ch09 the number on her arm.md:18 **中文理解**：故意绊人不算聪明，但他享受看那混蛋倒地；几年前他打架出名，多半是因为教练要他当 enforcer——「Monster Max」。在这儿，他不必再做那个人。
+ch09 the number on her arm.md:48 **为什么这样写**：把求人帮忙讲成成果汇报——她已经被记为「变量」，而非路人。shell 呼应她自己的猫窝与夹层：两个躲过壳的人，正在合伙帮第三个出壳。
+ch10 baklava and maximus x.md:20 **为什么这样写**：险情被三个短句拆成「无事、能干、虚惊」——真正的伤害不在火，在警报停不下来的那段时间里父亲脑内的小剧场。作者先降火情，再抬愧疚。
+ch10 baklava and maximus x.md:27 **为什么这样写**：三个短句构成完整的控诉逻辑链：假装→不在乎→排序——孩子的世界只认行为不认解释。Hockey always comes first 是他把父亲的事业读成了竞争对手。
+ch10 baklava and maximus x.md:39 **中文理解**：情急之下他口不择言：比赛时你照顾不了自己，我给你请保姆——不，改成住家的；话一出口就捂嘴后悔。Bailey 回头的眼神逼得他后退：别把我当七岁小孩，我恨你。
+ch10 baklava and maximus x.md:41 **为什么这样写**：一个错误词引爆三个旧雷（七岁、被安排、被代替）。I hate you 是恐惧的反面说法——他怕的是自己不重要，喊出来却成了恨。作者让父爱的正确意图配错台词。
+ch12 bailey sets the rules.md:27 **为什么这样写**：十三岁孩子的分类学比大人的诊断手册更直接——他不做判断，只做配对。Gina 的入场一石二鸟：既是青春期心事，又为 Flora 的自我披露搭好了台阶。
+ch12 bailey sets the rules.md:60 **中文理解**：Flora 内心评估：Bailey 对「爸爸该什么样」期待本就不高，而 Max 又像瓷器店里的牛一样又推又撬——这两人路还长，她不确定七个月够不够。
+ch13 the nanny proposal.md:67 **中文理解**：她判得干脆：你不是坏——你只是以为八个月能修好一段关系，像练一项新的冰球技术，而不是面对一个真实的人。
+ch13 the nanny proposal.md:70 **读者视角提示**：记住这句「八个月技术论」——他会用整个后半本来证明她错了哪一半、对了哪一半。
+ch13 the nanny proposal.md:105 一晚上她交出三份底账（面具、Jem、洪水），他交出一份接纳书和一个「完美」提案——雇佣 nanny 的名义下，是把两个家的碎掉部分硬拼在一起的冲动。
+ch14 hell will freeze over.md:20 **为什么这样写**：戳胸是吵架，攥手是拦截——两个动作把「拒绝」与「挽留」同时写成身体语言。她的心跳在近处失守：嘴上回绝提案，皮肤先投了票。
+ch14 hell will freeze over.md:34 **为什么这样写**：三条短句像门上的锁链，最后一根（intimacy）才是真锁舌——原来性是她熟练的领域，亲密才是禁区。But 的转折只用了五个词，戒律就碎了。
+ch15 reason ten and the pantry.md:10 - **情感弧线位置**：多线压强章：原生家庭再扣分、Max 加温、Jem 决堤前夜——三条张力同时拉满。
+ch15 reason ten and the pantry.md:12 - **人物弧线**：Flora：钱被第三次驳回 → 学会跟 Max 说头痛 → 被 Jem 叫进暗处；Max：从「理由攻势」升到「照顾指令」。
+ch15 reason ten and the pantry.md:34 **为什么这样写**：medical necessity 在妈妈那里被归类为 waste——一句话完成两次否定：否定病情、否定需求。作者让「为你好」的句式第三次空转。
+ch17 she asks to move in.md:9 - **一句话概括**：Bailey 头一次松口要 Flora 的课，广告费恰好到账，25 场 tryout 的压力同时压来——门铃响起，淋成落汤鸡的红眼圈 Flora 主动求搬进来当 nanny。
+ch17 she asks to move in.md:32 **中文理解**：经纪人来信：谈判全在打硬球，他在考虑一份职业试训合同——只能签二十五场。
+ch17 she asks to move in.md:34 **为什么这样写**：二十五场是给他的期中考试——证值钱还是证过气，一场一场数得清。hardball 一词把 NHL 的冷脸写实：梦想的门票开始按场次收费。
+ch17 she asks to move in.md:35 **读者视角提示**：记住「二十五场」这个刻度——它将与家里的新变量争夺他的心跳。
+ch17 she asks to move in.md:42 **读者视角提示**：记住这个雨夜门框——两个各自塌了家的人，在这扇门里搭伙。
+ch17 she asks to move in.md:69 儿子的曲线答应、账户里的广告费、二十五场的考卷——然后门铃响了：她淋着雨来要那份被他吹过牛的「完美方案」，两人各自塌掉的家，决定拼在一起。
+ch18 hold me for a second.md:18 **中文理解**：她卡壳三次才把需求说完：我不知道……想不了……能不能——他耐心等着，心里拼命猜——抱我一下，就一秒，行吗？
+ch18 hold me for a second.md:46 **中文理解**：Bailey 骑车上学前回头补了一句：希望毯子够暖；他跑远了，Max 连谢谢都没来得及说——一丝柔软爬进心里，顶替了霸占它六年的破碎。
+ch19 you are valid.md:10 - **情感弧线位置**：全书情感主梁：valid 化她的三十年——这是 Max 对她做的最重要的事，也是她对他卸防的开始。
+ch19 you are valid.md:34 **为什么这样写**：三段式判词像手术：定位病灶（被教歪）→宣布无罪（they are）→吊销执照（不配）。它不安慰、只正名——全书对 Flora 三十年「合群教育」的总反诉由一个认识她几周的男人完成。
+ch19 you are valid.md:48 **为什么这样写**：查户口三件套让 Garett 一秒立起「兄长」人设——她的家人在用他们的方式接她。作者用幽默卸掉告白的重量：保密协议原来有背调环节。
+ch19 you are valid.md:56 **读者视角提示**：记住这栋「赎罪的房子」——它马上要装下第三个受伤的人。
+ch20 fake nanny fanny.md:41 **为什么这样写**：两个「异乡人」互相确认频道——热情的 Cloud 家需要翻译，他们俩自带同款解码器。他给她的不是安慰，是控制权：什么时候公开，由你定。
+ch21 his fanny if you will.md:34 **为什么这样写**：她把只有三个人懂的梗当场公开发布——所有权公示以玩笑形式完成。他的否认（not my fanny）越无力，承认越彻底：嘴上撇清，想象入股。
+ch21 his fanny if you will.md:41 **为什么这样写**：最后的解释权在孩子手里——文化梗的裁判居然是十三岁。父亲的懵与全队的笑同框：他终于体会到「叫错名字」的反向滋味。
+ch22 the custody ask.md:25 **中文理解**：她交出猫的故事：父母让她觉得自己「有问题」，甚至把猫送走——Bailey 睁大眼，她赶紧补上「没杀」；他们只是不喜欢她难过时坐在猫篮里、抱着猫跳舞、跟它一起躺地板——正常十岁小孩不这样，猫不是玩具。
+ch22 the custody ask.md:27 **为什么这样写**：猫的处置权是父母权力的最小展示单位——连「难过的姿势」都要审批。孩子的 phew 手势与她的轻描淡写互为镜：两个人的童年都被同一句「不正常」判决过。
+ch22 the custody ask.md:62 **为什么这样写**：一晚的笑闹从恐慌里借来的——她的誓言与判词并列收束：先保安全，再谈和解。deserve 一词把「配不配」的裁决权交还给两个孩子。
+ch22 the custody ask.md:91 披萨桌上的两个交底：Bailey 交出「外婆的因果链」和监护权的恐惧，Flora 交出猫的故事与「家人豁免」法条——迟到者的菠萝披萨，罚的是不会说实话的父亲。
+ch23 the fanny contract.md:11 - **Tropes 兑现/反转**：fake relationship paperwork 兑现；反转是条款里最长的一条写的是猫——她的童年债务由一个十三岁孩子来清算。
+ch23 the fanny contract.md:34 **为什么这样写**：藏信事件第二次被摆上台面——这次有了听众和判官。她的 So tell him 没有任何修饰：真相的传递只有一步，拦着的全是人。
+ch23 the fanny contract.md:62 **为什么这样写**：猫条款是本章最重的一拳——孩子用十三岁的正义替她清算父母欠的债。两条 No 同时出口，说明这对大人都被孩子看穿：他们都在假装这不是家。
+ch23 the fanny contract.md:84 **读者视角提示**：记住这三个词——它们是这对父子线的施工口号。
+ch23 the fanny contract.md:87 披萨桌把三个人的家写进一张餐巾纸：她收下五百月薪与「不许调情」条款，Bailey 用「养猫条款」替她清算童年债务——Gina 突袭拿到号码，Baby steps。
+ch24 jaffa cake rules.md:18 **中文理解**：瑜伽初体验报告：没人告诉我这么难，差点摔四次；他皱着眉补一句——我讨厌自己不擅长的事。
+ch24 jaffa cake rules.md:21 **读者视角提示**：记住这四次摔倒——他学不会的事正在变成他愿意学的事。
+ch24 jaffa cake rules.md:34 **为什么这样写**：同一句「没人像你」，两套翻译系统——她的第一反应仍是防御，第二反应是心动。作者用「听岔再听对」完成她安全感的二次校准。
+ch24 jaffa cake rules.md:46 **中文理解**：她递上第三份礼物：课上做的苏格兰酥饼、到货的正宗威士忌——让你尝尝苏格兰的味道，我在那儿出生，住了人生头六个月。
+ch24 jaffa cake rules.md:49 **读者视角提示**：记住「六个月」这个身世碎片——总览里她的人生拼图又多一块。
+ch24 jaffa cake rules.md:69 **为什么这样写**：Mel 的处境成了她的镜子——「被修剪成对方能忍的形状」正是她三十年在做的事。她拒绝的不是约会，是那台修剪机。
+ch24 jaffa cake rules.md:74 **中文理解**：Bailey 跟妈妈挥手道别，她跟着爷俩进屋，听着他们聊巧克力，心里为「又和我最爱的两个人共度一晚」雀跃。
+ch24 jaffa cake rules.md:76 **为什么这样写**：全章的刹车与火苗，最后落在一句话的坦白——two favourite guys 名单公布。作者把「家」的定义权交给她：不是房子，是这两个人的吵闹。
+ch25 nailing this dad thing.md:21 **读者视角提示**：记住这份「三件套谢词」——Bailey 开始给父亲的行为打分了，而且是正分。
+ch25 nailing this dad thing.md:62 **为什么这样写**：按摩邀约自带三条防护条款——她连越界都先写好边界。keep your shorts on 既是职业规范也是调情指令：一张嘴同时按住欲望与规矩。
+ch25 nailing this dad thing.md:90 一声「No worries」收下儿子的三件套谢词，三周之约点亮真相倒计时——瑜伽垫上互相执法的两人，把按摩房约成了下一张牌桌。
+ch26 the knot excuse.md:20 **为什么这样写**：省略号接省略号——两个人都在用标点打太极拳。他的 In a good way? 是自问也是递梯子：他要的不是夸奖，是许可。
+ch26 the knot excuse.md:27 **为什么这样写**：健身的双关在湿痕的注脚下崩塌成直球——他们轮流把比喻说漏。breathlessly 的三个音节是她递出的下一张牌。
+ch26 the knot excuse.md:28 **读者视角提示**：记住这对「双关攻防」——两个人都在等对方先破功。
+ch26 the knot excuse.md:39 **中文理解**：他狼狈找补：你大概是揉开了一个特别难的硬结，我身体很满意；她面无表情追击：长在你那玩意上的结？他警告 We can't——她眨眼：你已经 can 了；还要不要继续「指导」剩下半场按摩？
+ch26 the knot excuse.md:48 **为什么这样写**：救场铃声救的是两个人的体面——他不动、她不看的默契是最后的防线。「不再谈起」的条款签得越快，说明越想再犯。
+ch26 the knot excuse.md:56 **读者视角提示**：记住这两个 naughty——他已经在用「自己人」的语气记账。
+ch27 the businesswomen breakfast.md:18 **中文理解**：她想做的是抓皮肤、拍手——少年时就被教成「不体面」，至今不敢对 Clouds 说破自己的判断；群聊里十几条消息围着她的头痛团团转，Iain 追着问验光师——她被全家人的「好心意见」榨干了。
+ch27 the businesswomen breakfast.md:20 **为什么这样写**：自我调节的动作清单被社会规训没收——她连「怎么难受」都是借来的姿势。十几个人的关心在她这里等于十几个过滤器同时上线：爱与消耗同源。
+ch29 the scottish away game.md:9 - **一句话概括**：苏格兰客场：热水袋与 custard cream 先温暖更衣室，Mike 的「这里听我的」接管训练哲学；Lennie 的「满的人生」让他自问「六个月后回到什么」——进球的欢呼里他数着孤身回家的日子。
+ch29 the scottish away game.md:11 - **Tropes 兑现/反转**：away game 兑现；反转在「进球≠圆满」——他想要的观众席还没坐上那两个人。
+ch29 the scottish away game.md:46 **中文理解**：Lennie 给他上了一课：爱冰球但不为它活着——疼家人、留时间给爱好、把房子修成 forever home，他的生活是满的；再照镜子：我这一年比哪年都满——可六个月后回美国，回到……什么？
+ch29 the scottish away game.md:83 客场之夜他进了球却输了算术：热水袋、custard cream 与 tangle 战报都在提醒他——真正缺的不是冠军合同，是看台上那两个「我的人」。
+ch30 max used to rescue cats.md:41 **为什么这样写**：记忆不是全景而是拼图——近距离的日常正在帮他把碎片拼回。provide 与 fight 的两个关键词，把他父亲的执念翻译成出身伤：钱是安全感，不是虚荣。
+ch30 max used to rescue cats.md:48 **为什么这样写**：声誉档案与真人当场对质——摔进挡板还大笑的男人击碎了祖辈的传闻。Bailey 亲眼看见的证据比十次解释都硬：孩子的偏见只能被「看见」拆掉。
+ch31 the washing machine confession.md:10 - **情感弧线位置**：同居中期调剂章：调情密度回升、Massage 禁令重申——两个人的试探都在找下一站的站牌。
+ch31 the washing machine confession.md:48 **为什么这样写**：答案只有一个字，他偏偏要逼她说——钓的从来不是答案，是眼神。Very 单字收尾：两个骄傲的人连开心都只肯给最简版。
+ch31 the washing machine confession.md:63 **读者视角提示**：记住「我的系统」——这个比喻会在他的告白里二次运行。
+ch32 the panic in the tea lesson.md:9 - **一句话概括**：Rudders 电话试探出局，两人交换全部恋爱规则（她的十五岁创伤与 RSD、他的婚姻悔账与「不约会」声明）——茶课升级成「就一次」的越界提议，手机通知搅局，她在 panic 中逃离。
+ch32 the panic in the tea lesson.md:11 - **Tropes 兑现/反转**：almost-lovers interrupted 兑现；反转是「就一次」的谈判——两个人都在用规则为心动装离合器。
+ch32 the panic in the tea lesson.md:25 **中文理解**：他凑近一步说：很高兴你是你——认识的人够多了，你是我最爱待在一起的之一；她抗议才住一个月；他说有些友谊要慢慢磨合，有些快得吓人——别多想。
+ch32 the panic in the tea lesson.md:32 **中文理解**：她的规则说明书第一页：十五岁那年爱得太满，被男友当着全校点破，「朋友们」围攻她到无休无止——从此不许自己依恋；再爱一次怕又要 obsessive，没人想要那样。
+ch32 the panic in the tea lesson.md:35 **读者视角提示**：记住「十五岁案底」——她所有 Dating 规则都能回溯到这间教室。
+ch32 the panic in the tea lesson.md:69 **为什么这样写**：他用俱乐部的「家族化配置」证明自己的倒戈——怪不是缺陷，是他选择的生态。两个爹妈的具体细节把小镇人情写成了荣誉勋章。
+ch32 the panic in the tea lesson.md:76 **为什么这样写**：主语在茶与人之间反复漂移——语言的双关成了合法通道。benefit 的商务措辞给欲望打了个合规包装：两个人的胆量共用一个动词。
+ch32 the panic in the tea lesson.md:81 **中文理解**：他在身后道歉，她一路跑上楼——最恨的是自己：都 panic 了还是想要他；说不出哪里不对劲——他嘴上说怪没关系，她知道像她这样就是不行；十五岁的闪回咬着脚跟追进房门。
+ch32 the panic in the tea lesson.md:83 **为什么这样写**：信念的裂缝原样展出——他给的许可证她不敢用：「像我不行」是三十年教出来的铁律。闪回追人的写法让创伤有了速度和牙齿。
+ch32 the panic in the tea lesson.md:111 规则交换夜：她的十五岁案底与 RSD，他的婚姻悔账与不约会声明——茶课的「就一次」提议被一声手机通知打断，她带着十五岁的闪回跑上楼，身后是没送出去的「I'm sorry」。
+ch33 the kissing lesson.md:20 **为什么这样写**：省略号里藏着十三岁的全部羞耻——但需求说得极度清晰（visual）。把抽象的爱意翻译成手的位置图解，正是这孩子的思维方式。
+ch33 the kissing lesson.md:34 **为什么这样写**：课程内容与事故复盘同屏——她教 Gina 的预案，句句都是茶夜案发现场的勘验报告。Shit 两个词是他的结案陈词：原来不是她拒绝我，是我没读懂她。
+ch33 the kissing lesson.md:90 一堂接吻课半是教案半是忏悔：她把那晚 panic 的成因写成四条规则，他逐条对号入座——Dad 口误落槌、装吻被打断、道歉方案上桌。
+ch34 the sorry tea.md:25 **中文理解**：他求打分：视频照做、上次修改全用上——她给满分，他不让糊弄：告诉我怎么改；她耳语两条，他记下：你给了我改进空间，奖励会更甜。
+ch34 the sorry tea.md:28 **读者视角提示**：记住「不许糊弄」——他求批评的样子，就是她等了三十年被接住的样子。
+ch34 the sorry tea.md:55 **为什么这样写**：把选择权完整移交——两条路都铺好，压力归零。额头的吻是全部情欲的落点：他先把她当人，再当别的。
+ch35 the family skate.md:34 **为什么这样写**：猫的挡箭牌一箭双雕——她拒绝的是「注定失去」的模型。他的镜像猜测让台词变成互相测谎：两个人都在用宠物谈自己。
+ch35 the family skate.md:41 **为什么这样写**：清单被他自己的心跳加项——第三个 passion 不许出现在句子里，只能藏在人称里。hand 的乱入暗示欲，heart 的乱入暗示爱：两个字分头潜逃。
+ch35 the family skate.md:53 **中文理解**：感恩节回家？不去——Mike 为他放了两天假，理由是「懂得彼此支持的队伍」；他的节日方案：给大伙做火鸡三明治；她一个词否决：Nope。
+ch35 the family skate.md:62 **为什么这样写**：偏好对表是恋爱的海关申报——两个人交换禁忌清单。list 的存在证明他在做功课：她的一切都值得记档。
+ch35 the family skate.md:76 **为什么这样写**：不约会」三个字全场最贵——她替两个人都免了尴尬。转移目标的战术里全是体贴：她连拒绝都带售后服务。
+ch36 i never stopped loving you.md:13 - **叙事手法**：车厢做忏悔室——黑暗、静止、只有两个人的声音。
+ch36 i never stopped loving you.md:18 **中文理解**：住了近三个月他才想明白：美国老队友只是同事，不是朋友；跟 Henry、Owens、Kris、Rudders 和 Flora 相处后，他才见识了友谊能是什么——他在这里的生活变了，球风也跟着变了。
+ch36 i never stopped loving you.md:20 **为什么这样写**：三个月的距离足以校准两套关系的汇率——他的转会从「牺牲」悄悄改写成「搬家」。reflects 的因果句承认：人松弛了，球也松了。
+ch36 i never stopped loving you.md:25 **中文理解**：真相第一段：你以为我走后不在乎你——但我在乎：我试过探视、几个月一轮地寄礼物寄卡片、能打就打电话；Bailey 看着窗外：可我从没收到过你的消息——车窗倒影里他的眼睛已经湿了。
+ch36 i never stopped loving you.md:27 **为什么这样写**：两条时间线在车厢里对撞——他的「我试过」与孩子的「我没收到」互为证据。glassy eyes 出现在倒影里：孩子连哭都不敢正面来。
+ch36 i never stopped loving you.md:32 **中文理解**：Bailey 的十五岁判决书：我以为是我做错了什么——Ted 说你不爱我、甩掉我正好、冰球比你重要。
+ch36 i never stopped loving you.md:46 **中文理解**：信托基金的真相：每月存钱、十六岁可动、想改随时改——我需要你知道：我从没停止爱你，一秒都没有；我每天都在想你。Ted 说我无权出现在你的生活里——所以离婚程序一开始我就搬来了这儿。
+ch36 i never stopped loving you.md:55 **为什么这样写**：最重的爱用最短的问答完成——Even then 两个词扛住全部历史。孩子的确认清单说明他真的把「被恨」当真了很多年。
+ch36 i never stopped loving you.md:62 **为什么这样写**：孩子的清醒是治疗买来的——十三岁的头说出三十岁的判断。rebuild 的工程学表述：这段关系是被一台一台部件重新装好的。
+ch39 he didnt take it back.md:28 **读者视角提示**：记住「非黑即白」——Ted 线的受害者清单上，其实有四个名字。
+ch39 he didnt take it back.md:41 **为什么这样写**：Dad 在保证书和告别名单里各出现一次——口误升级为习惯。Max 的「等他改口」是六年创伤的条件反射：好事来了先不敢接。
+ch39 he didnt take it back.md:48 **为什么这样写**：成年人把「没改口」当头条播报——六年等待的利息一次性到账。glassy eyes 与 ch36 车窗倒影里的那双遥相呼应：这次不用躲了。
+ch39 he didnt take it back.md:55 **为什么这样写**：命令的外壳包着心意的内核——他把「休息」设计成两个人。compliments of me 的商务措辞延续他的求爱语法：深意走发票。
+ch40 your daughter is a queen.md:10 - **情感弧线位置**：原生家庭线的高潮战：他替她喊出三十年没喊的话——她挂断电话，等于剪断脐带。
+ch40 your daughter is a queen.md:62 **为什么这样写**：三个动作一气呵成：正名（她完美）→ 吊销通话权 → 吊销亲权——把 ch19 的「不配得到真正的你」执行到她母亲头上。他借这场通话完成她对父母说不出的一切。
+ch40 your daughter is a queen.md:95 爱情片教到一半，母亲来电收「婚礼税」——Max 抢过免提当庭宣判：她完美、你不配、别再打扰；她亲手挂断电话，把三十年的脐带剪成了两截。
+ch41 the girlfriend question.md:42 **读者视角提示**：记住「我也 obsessed」——两个怕失控的人发现彼此是同一个病。
+ch41 the girlfriend question.md:46 **中文理解**：他给出全新框架：我不要你按常人反应来——你的想法吞没一切，但它们造就你；听着，我不到五个月就走——别担心未来：这只是把我们正在做的继续下去，换个标签，而且别再假装我们不想要。
+ch42 work that stick.md:34 **为什么这样写**： ache 与 smile 同段赛跑——幸福的下半场永远挂着回程票。handmade 的细节声明：这不是普通应援，是她的手艺。
+ch44 the daily check in.md:32 **中文理解**：他的真话全集：我这辈子没这么诚实过——我要你 obsessed、想我像我想你一样多、渴望我像我是你的全部；她轻声提醒：可我们只有几个月了。
+ch44 the daily check in.md:39 **中文理解**：他的回应把时间清零：就算只剩几个月也一样——没大变化，就是两个人互相 obsessed、像野猫一样搞——没什么可怕的。
+ch46 keep it secret for now.md:13 - **叙事手法**：晨起枕边对话＋回家后沙发续聊——两次「谈判」夹一段短信闹剧。
+ch47 it wont feel like home anymore.md:18 **中文理解**：天天瑜伽之后，身体动起来像多年没有过——他更像冰舞者，而不是四个月前刚到镇上那个伤痕累累、快散架的球员；如今他享受比赛后的灼烧感，酸痛提醒他：我还能打。
+ch47 it wont feel like home anymore.md:25 **中文理解**：Kris 在他耳边喊：现在每支队都要你——经纪人已经约了三支队，圣诞到新年他短暂回国面谈；状态好到离谱，比在 Vipers 时还强。一周后他就飞美国谈下赛季，再回来就能三个月泡在 Flora 和 Bailey 身上。
+ch47 it wont feel like home anymore.md:27 **为什么这样写**：事业的好消息与倒计时的坏消息捆在同一段——三个月的「回来」之前，隔着一周的「离开」。three months immersed in Flora 的量化幸福，反衬分离指针。
+ch48 the patchwork blanket.md:20 **为什么这样写**：报班理由冠冕堂皇、真实目的甜蜜——一家三口合谋。她的抿嘴是幸福被戳穿时的本能反应。
+ch48 the patchwork blanket.md:47 **为什么这样写**：拼布毯把缺席的时间缝成实物——他的愧疚（错过七年）被一针一线补偿。couldn't be there 与 have a part 的对仗：她给的不是原谅，是替代品。
+ch48 the patchwork blanket.md:88 两份圣诞礼物把两个方向钉牢：纯棉球衣上他的名字向未来宣示归属，拼布毯上 Bailey 的旧衣向过去缝合缺席——槲寄生的一吻之后，她终于不再拦自己坠落。
+ch49 go home flora.md:18 **中文理解**：Max 走后几分钟 Ted 就来了——Ted 至今不知道 Bailey 在和 Max 见面，离婚定案之前，这必须保密。
+ch49 go home flora.md:20 **为什么这样写**：几分钟的时间差制造悬疑——两个父亲在同一个屋檐下擦肩。保密条款有了具体用途：护住 Bailey 的安全。
+ch49 go home flora.md:25 **中文理解**：据 Max 说，圣诞那天经纪人反复来电——上一场之后势头起来了：也许能签两个完整赛季；不是梦想球队 Stingers，但足够给他需要的东西。
+ch49 go home flora.md:41 **为什么这样写**：she 的复仇想象不是争吵而是一张纸——诊断书是她的武器。making it all up 的指控是三十年的旧伤，今天仍新鲜。
+ch49 go home flora.md:60 **中文理解**：她挂断视频，把用过的几件东西塞回包——她根本没 unpack；在 Max 家，她醒来两小时就 unpack 了。
+ch49 go home flora.md:62 **为什么这样写**：行李箱是她潜意识的投票——没拆的行李比任何宣言都诚实。两小时的对照把「哪里是家」量化成不可辩驳的证据。
+ch49 go home flora.md:69 **为什么这样写**：结尾是松弛而非悲壮——relief 是她给这段关系的最终判词。房子在视线里缩小，控制了她二十三年的一页终于翻过去。
+ch49 go home flora.md:97 Clive 的一句「你可以走」比任何自救都有效——没拆的行李、两小时就 unpack 的对照，让她的离开不是逃跑，而是终于回家。
+ch50 coming home sooner than planned.md:9 - **一句话概括**：美国谈判三天：球队排队、经纪人画饼，他却只想飞回家照顾偏头痛的 Flora；老队友一句「Vipers 砍了家庭滑冰」让他看清自己要的家的模样，「可能提前回美国」的传言却把他推进更深的恐慌。
+ch50 coming home sooner than planned.md:21 **读者视角提示**：记住「三天偏头痛」——这是她离开父母家后的身体清算。
+ch50 coming home sooner than planned.md:25 **中文理解**：他想当面告诉她父母：你们不配做她父母——她在已经累了一个月的情况下还被迫扮演他们想要的样子，这让他愤怒到不停按颈侧的脉搏。
+ch50 coming home sooner than planned.md:46 **中文理解**：五天没有她都熬不住，两年怎么办？想到这里手心冒汗——也许离开一段时间，她会意识到：不想被一个两年都住异地的人拖累。
+ch50 coming home sooner than planned.md:82 美国给了他「回家」的合同机会，却让他更清楚「家」在英国：三天偏头痛的她、被砍掉的家庭滑冰、错过的舞会——提前回美国的传言，成了最甜的噩耗。
+ch51 no decisions tonight.md:9 - **一句话概括**：跨年夜 Max 带回两赛季合同，却宣布想为她拒绝；她顶住心碎替他叫停——No decisions tonight；两人约定先消化，再用一场「性感捉迷藏」给最怪的一年收尾。
+ch51 no decisions tonight.md:41 **为什么这样写**：她拒绝被爱成「代价」——三个理由全是为他好：后悔、事业、钱。最动人的拒绝往往最理性：她的爱是让他别回头。
+ch51 no decisions tonight.md:53 **中文理解**：她把沉重话题转成游戏：性感捉迷藏是这最怪一年的完美收尾——你数到五十，我去藏；她加码：关灯数到一百，多出的五十用来脱衣服；她要穿上那件球衣、什么都不穿——他要抓到才知道。
+ch51 no decisions tonight.md:56 **读者视角提示**：记住「数到一百」——这是全书最甜的一次倒计时，与之前所有「几个月」的时钟截然相反。
+ch52 the cheshire cat grin.md:56 **读者视角提示**：记住这场「真烟花」——最怪的一年在草地上、以最 them 的方式落幕。
+ch53 the stingers call.md:39 **中文理解**：Nate 的电话把梦砸成现实：Stingers 现在就要你——25 场 PTO，球队还被看好争 Stanley Cup；打得好就能常驻 NHL。This is it, Max。
+ch53 the stingers call.md:41 **为什么这样写**：梦想的报价单一个字没变——ch17 二十五场的考卷，此刻连考试院都换成了他最想的那个。This is it 的三连笃定反衬他的沉默。
+ch53 the stingers call.md:97 Santa Run 起跑线上三件事同时发生：Bailey 的知情与祝福、Stingers 的二十五场合同、她半句 I love you——他压过欢呼回了四个字，而她还没听见。
+ch54 fifteen birthdays missed.md:9 - **一句话概括**：与 Mel 的午餐交换秘密：她交出「八岁生日创伤」（十五年没过生日），Mel 的 EJ 红旗转深红；Max 电话砸来——Bailey 护 Gina 被叫校长室，她扔下午餐冲出教室。
+ch54 fifteen birthdays missed.md:11 - **Tropes 兑现/反转**：birthday trauma 兑现；反转是「十五年没过生日」的原因不是没人爱她，而是父母让她觉得「不配庆祝」。
+ch54 fifteen birthdays missed.md:39 **中文理解**：八岁生日创伤完整出土：那天过度刺激，她绷不住在派对上崩溃——被父亲禁足，独自在房间里哭着结束生日；从此父母再没给她办过生日，她也回避一切生日。
+ch54 fifteen birthdays missed.md:41 **为什么这样写**：十五年的生日空窗源头是一次八岁的崩溃——父母没有安慰，只有惩罚。overstimulated 的临床词汇反衬她的童年：她连症状都被当作品行。
+ch54 fifteen birthdays missed.md:42 **读者视角提示**：记住「八岁生日」——她所有的自我惩罚，都能追到这一天。
+ch54 fifteen birthdays missed.md:53 **中文理解**：Max 的求救电话：Bailey 因保护 Gina 被叫校长室——Els 出差，我还在一小时外；她眼睛里烧起火：谁都不能碰 Bailey 和 Gina。
+ch54 fifteen birthdays missed.md:55 **为什么这样写**：护犊子电话唤醒她的「母亲本能」——被叫校长室的是孩子，冲出去的是她。一小时的时间差让她先到：她的速度是爱的度量。
+ch55 neurodivergence is not a trend.md:34 **为什么这样写**：tangle 断裂是她情绪的物理峰值——解压工具输给了真实的愤怒。not a trend 一句成为她的 advocacy 宣言：三十年被叫「怪」，今天用术语反击。
+ch55 neurodivergence is not a trend.md:42 **读者视角提示**：记住这句「因为 Flora」——她来英国三个月，改变了一个孩子的人生方向。
+ch55 neurodivergence is not a trend.md:62 **为什么这样写**：孩子用五个词完成对 Ted 世界观的反杀——钱买不来他想要的。sing 与 quiver 的并置：骄傲与恐惧在同一句里共存。
+ch55 neurodivergence is not a trend.md:98 校长室里她用「神经多样性不是潮流」打穿了制度，走廊上 Bailey 用「我只要 Max」打碎了 Ted 的钱与血——一场守护战，三个人各自交出了自己的武器。
+ch56 i love you.md:35 **读者视角提示**：记住「懂我的人」——她等了三十年的东西，要走的是这个人。
+ch57 the airport goodbye.md:32 **中文理解**：Bailey 借口洗手退场五分钟——把空间留给爸和 Flora；她顺从地走近 Max，像一个什么都控制不了的机器人，麻木而空洞。
+ch57 the airport goodbye.md:35 **读者视角提示**：记住这五分钟的让场——Bailey 用「洗手」完成了他能给的最后体贴。
+ch58 the locker room distance.md:10 - **情感弧线位置**：缺席者视角章：260 词的短章，装下跨越半个地球的心焦。
+ch58 the locker room distance.md:27 **为什么这样写**：时差被骂成「混蛋」——因为它的每一分钟都在提醒他缺席。like being able to do that for her 的坦白：照护是他的爱好，不是义务。
+ch58 the locker room distance.md:28 **读者视角提示**：记住「今天，对她而言」——一个日期被两个半球撕成两天。
+ch59 twenty four and ambushed.md:9 - **一句话概括**：24 岁生日：他隔着电话听出她的偏头痛、把「做自己」还给她；她强撑着去 Cloud Burst——推开门是惊喜派对，而角落里站着她父母：她祈祷地震或火灾。
+ch59 twenty four and ambushed.md:18 **中文理解**：24 岁生日——Max 走后三周她一直在硬撑，今天格外沉；Els 提供了 Ted 的黑料（整个关系期都在出轨、永远抱着手机），但没有一条能拦住监护权、让 Max 回来。
+ch59 twenty four and ambushed.md:20 **为什么这样写**：生日的重量来自三个未解——Max 的离开、Ted 的威胁、评估的等待。Els 的情报 proving Ted 的劣迹却换不回 Max：法律不讲「他是坏人」，只讲程序。
+ch59 twenty four and ambushed.md:82 24 岁生日双重惊喜：他隔着时差把「做自己」还给她，Clouds 把派对开进烹饪学校——而角落里等着她的是二十年没为她办过生日的父母。
+ch60 you can be a lot and still be loved.md:9 - **一句话概括**：24 岁生日派对上她当众断亲（你叫我难搞、说我活该被霸凌、永不理解）、宣告「a lot and still be loved」——离场时撞见 Mel 的未婚夫 EJ，揭开全书最大反转：EJ 就是 Ted Jackso
+ch60 you can be a lot and still be loved.md:10 - **情感弧线位置**：全书最大爆发点：三十年压抑在一间餐厅清空；原生家庭线与 Mel 线在同一张餐桌上交汇。
+ch60 you can be a lot and still be loved.md:25 **中文理解**：母亲的公开羞辱：Flora 讨厌生日是因为八岁生日闹了场面——从此不许我们庆祝；谢谢邀请 Liz——很高兴不只为了钱才出现在女儿生活里。
+ch60 you can be a lot and still be loved.md:97 生日蜡烛前她烧掉了三十年的面具（You can be a lot and still be loved），停车场里命运递来全书最大反转——Mel 的未婚夫 EJ，正是那个让 Max 被迫离国的 Ted Jackson。
+ch61 the diagnosis day.md:9 - **一句话概括**：诊断日：AuDHD 正式确诊——她等的狂喜没来，来的是「anticlimax 的麻木」；副校长送来一周两天的工作邀约（Gina 与 Bailey 联名推荐），Dr Russo 的处方是「接管自己的故事」；她当场宣布要
+ch61 the diagnosis day.md:10 - **情感弧线位置**：全书的自我接纳日：诊断、职业、治疗、猫——四张证书同天签发。
+ch61 the diagnosis day.md:20 **为什么这样写**：确诊的句式像判决——她要求的重复不是没听清，是三十年的冤案需要宣读两次。making that up 与 trying hard enough 是她母亲的两大罪名，此刻被专业意见当场撤销。
+ch61 the diagnosis day.md:32 **中文理解**：副校长约谈的真实目的浮出：校长室一战后的自我检讨——对神经多样学生要做得更多；邀请她考取 safeguarding 证书后加入，每周两天支持学生。
+ch61 the diagnosis day.md:48 **为什么这样写**：医嘱从安慰转向装备——情绪仪表盘、药物、专科治疗师三件套。她的「治疗体系」终于有了正规编制。
+ch62 they are ridiculous and i love them.md:25 **中文理解**：她提出自己的社交方案：下周咖啡可以——但一次全员太多，先三个人行吗？
+ch62 they are ridiculous and i love them.md:34 **为什么这样写**：真相公开后群聊瞬间变成作战室——「我们的美国佬」的所有权宣言。两条线（监护权+Mel）在一条消息里并轨。
+ch62 they are ridiculous and i love them.md:55 **为什么这样写**：ch61 的「养猫宣言」24 小时内落地执行——她的 ADHD 行动力全面回归。already know which one 的笃定：接纳自己的人，连选择猫都不犹豫。
+ch63 dont sign it yet.md:9 - **一句话概括**：父子视频通话：prom 西装买好（Flora 陪同治了店员）、她确诊后去学校上班——Bailey 却下达关键指令：两年合同先别签，「Flora 在行动，相信我」；结尾他意识到自己参与了儿子的成长。
+ch63 dont sign it yet.md:11 - **Tropes 兑现/反转**：secret plan 兑现；反转是「儿子指挥父亲」——十三岁的情报比经纪人可靠。
+ch63 dont sign it yet.md:13 - **叙事手法**：视频通话的分屏叙事——西装、领带、合同三条线在一次通话里收拢。
+ch63 dont sign it yet.md:32 **中文理解**：他汇报战况：25 场只剩 8 场，Stingers 拟两年长约，等确认电话；Bailey 的指令快过球速：先别签——你可能能回家。
+ch63 dont sign it yet.md:46 **中文理解**：通话剩下的时间都在笑——像他六岁时那样，但更好：他的快乐不再建立在「六岁记忆」上，因为他在参与此刻的 Bailey 成长。
+ch63 dont sign it yet.md:48 **为什么这样写**：ch07 的「想念七岁」在此兑现成反转——他终于活在儿子的现在时。I'm part of who he is growing up 是父线的最终完成句。
+ch63 dont sign it yet.md:49 **读者视角提示**：记住「参与成长」——从缺席者到在场者，他用一年走完了七年。
+ch63 dont sign it yet.md:75 一通视频电话装下全书回旋：西装、领带、确诊、工作、两年合同——Bailey 一句「先别签」+ 敲鼻子，把回家的路指给父亲看。
+ch64 the cleo trap.md:11 - **Tropes 兑现/反转**：sting operation 兑现；反转是「骗子的马甲」——Ted=EJ=Jack Edwards 三名合一。
+ch64 the cleo trap.md:18 **中文理解**：Max 的语音留言摊牌：两年合同已到——他知道几天了，一直在拖，幻想她能找到带他回家的办法；Bailey 让他做对的选择但先跟她谈；今天之内必须答复。
+ch64 the cleo trap.md:34 **为什么这样写**：他从追剧青年自学成半个专家——interoception（内感受盲区）被翻译成家常话。这个知识点回溯 ch34 的「你头痛好了吗」问他为什么问身体。
+ch64 the cleo trap.md:48 **为什么这样写**：家规被扩充成永久居留条款——「不用解释」是对 masking 生涯的终极赦免。forever 一词回收 ch44 的「只有几个月」。
+ch64 the cleo trap.md:53 **中文理解**：Kath 的关键拼图：几个月前那个骗钱的男人——比她小二十五岁、擅长操纵、险些骗走她给「病儿子」的积蓄——当时用的名字是 Jack Edwards。
+ch64 the cleo trap.md:55 **为什么这样写**：ch28 的防骗忠告在此引爆第二层——Jack Edwards 正是 Max 在约会 app 划掉的那个骗子。两个受骗者（Kath 与 Max）互不相识却共享同一个骗子档案。
+ch64 the cleo trap.md:62 **为什么这样写**：钓鱼执法用奶娃当道具——最温馨的画面配最狠的陷阱。三名一档（Ted/EJ/Jack）的诈骗史被证据链串成判决书。
+ch65 the darkest hour.md:18 **中文理解**：她的沉默让他脑补最坏画面：她跟同龄、同人生阶段的人在一起——一个不用飞八小时只为抱她的人。
+ch65 the darkest hour.md:20 **为什么这样写**：醋意被写成航程距离——八小时是他的「不配得感」的物理刻度。他不敢想真相（她在布置陷阱），只能把安静读成告别。
+ch65 the darkest hour.md:21 **读者视角提示**：记住「八小时航程」——这个数字是他对自己的全部估值。
+ch65 the darkest hour.md:39 **中文理解**：Nate 的劝签词软下来：才两年——熬得过；她爱你就会等，夏天还能回去看她。
+ch65 the darkest hour.md:41 **为什么这样写**：两年被说成小数点——却正好落在她最怕的「change」刻度上。summer visit 的饼画给谁看，他心里清楚。
+ch65 the darkest hour.md:53 **中文理解**：Nate 打出最后一张牌：不签就只剩四场——没钱没未来；她比你年轻，你给不了什么她就会走人；他哑声反驳「她不是那种人」——可 Nate 说的正是他每晚失眠的全部恐惧。
+ch66 ted gets arrested.md:9 - **一句话概括**：Ted 踏进肉桂卷陷阱当场被捕：Amber 揭开 Cleo 马甲、车牌钓鱼、五名受害女性的证词与 Kath 的椅子齐发——监护权威胁终结，她给 Els 发消息，然后走向电话：I'm ready to tell him
+ch66 ted gets arrested.md:46 **中文理解**：Kalen 对押人的警官补刀：到警局时——五名受骗女性已经在做笔录，全是被「病儿子」医药费骗走的钱。
+ch66 ted gets arrested.md:48 **为什么这样写**：同一剧本（ sick son ）骗了至少六个人——Mel 是最新的一个。受害者证词的集结让「逮捕」升级成「清算」。
+ch66 ted gets arrested.md:49 **读者视角提示**：记住「五个女人」——Ted 的受害者清单比他的马甲还长。
+ch67 im my passion.md:10 - **情感弧线位置**：全书正章的收束：三条线（爱情/父职/自我）在同一天各自完成封顶。
+ch67 im my passion.md:27 **为什么这样写**：拒签的瞬间是「合同与家」的最终对赌——他选了后者。三个「哭」的排比把异地地狱写成生理档案：他连独处时都在溃堤。
+ch68 will you marry me maximus.md:9 - **一句话概括**：七个月后冰场求婚：Bailey 的应援牌写着「他真是我爸」、Ted 入狱、她在学校为神经多样学生筑起安全区——大屏求婚后全家举字母牌搅局，她以「小婚礼+维加斯」应答：同时喂饱两个我。
+ch68 will you marry me maximus.md:18 **中文理解**：七个月后他的新赛季首战——Kris 解释：Bailey 这是本季第一场，他有权得意——毕竟以前从没有观众。
+ch68 will you marry me maximus.md:20 **为什么这样写**：首战的意义不在比分在观众席——从空看台到满座 Clouds，冰球终于成了家庭事业。支持者的迟到七年，此刻全部到账。
+ch68 will you marry me maximus.md:63 **读者视角提示**：记住「喂饱两个我」——全书自我接纳的终点，是把矛盾活成风格。
+ch68 will you marry me maximus.md:97 七个月后冰场中央：应援牌写着「他真是我爸」，大屏打出求婚词，字母牌闹剧收进 Garett 手里那张「Will you marry me, Maximus」——全场为「求关注的内向者」欢呼，她的两个我都被喂饱了。
+
+=== ⑥场景方位：11 行 ===
+ch04 max drives back to apologise.md:76 **为什么这样写**：孩子选择在门口现身——听的时机由他决定，这本身就是长大的宣言。感谢的对象是 Flora 而不是父亲，错位的感谢完成了这场家庭剧的评分。
+ch06 three apologies and a freckle.md:67 **中文理解**：她向车里的 Bailey 挥手道别，留下嘱托：对你儿子好点，他值得；Max 回应：我会尽力。再见，Flour。
+ch17 she asks to move in.md:10 - **情感弧线位置**：反转点：前四章的「你搬进来」拉锯以她的请求收尾——他要来的和害怕来的，在同一晚到了门口。
+ch17 she asks to move in.md:39 **中文理解**：门铃再响，他拉开门——狂风把人往屋里撞；门口站着淋透的 Flora，火焰红的头发贴在脸上，哭红的眼圈说明一切。她哆嗦着吸气：我没别的地方可去了。我能搬进来、当你的 nanny 吗？
+ch24 jaffa cake rules.md:104 一块 Jaffa Cake 的吃法示范让厨房差点失守，「孩子优先」的刹车踩下后，她交出苏格兰出生彩蛋与职业理想——而门口的 Mel 送来 AuDHD 的说明书和一记婚姻惊警。
+ch25 nailing this dad thing.md:60 **中文理解**：他把脸埋进瑜伽垫哀嚎——楼上她的指令传来：上来吧，穿好短裤、趴到床上，我随时开始。
+ch33 the kissing lesson.md:60 **中文理解**：她敬着别扭的礼倒退出门：谢谢你，Maximus；他盯着门口立誓——我欠她一个道歉，而且我已经知道该怎么还。
+ch36 i never stopped loving you.md:11 - **Tropes 兑现/反转**：hidden letters 兑现；反转是惊喜派对——真相的车里刚哭完，门后全是笑声。
+ch48 the patchwork blanket.md:25 **中文理解**：Kath 朝楼下玻璃栏杆一指：可他在下面朝你挥手呢。
+ch52 the cheshire cat grin.md:25 **中文理解**：他在楼下喊：一百了，准备好了没——Daddy Max 来了。
+ch67 im my passion.md:60 **中文理解**：prom 门口的送行词：我不配当你爸，但我有幸是——你是个了不起的年轻人；少年回身：爱你，爸。也爱你，Flora。
+
+=== ⑤方向施受：37 行 ===
+ch01 flora caught and must lead the class.md:27 **为什么这样写**：两处 perfected 是同词暗扣：课程被她「修到完美」，假笑也被她「练到完美」——她的全部努力都花在伪装正常上。Liz 的善意到她这里成了清单式压力，一个 cutting into 把对话写成入侵。
+ch02 max wants his son back.md:20 **为什么这样写**： stopgap（权宜之计）一词把这份合同定性成过渡，与 don't quit 的职业信条相撞——他瞧不起这支球队，却比谁都拼命。Push 三连从叙述突变成命令句，把内心戏直接写成体能口号。
+ch02 max wants his son back.md:41 **为什么这样写**：他给自己立的每个目标（印记、被签走）背后都拖着同一根暗线——百万被卷走，退役金窟窿等着填。新闻 flooded the press 的措辞把私耻写成公开景观，解释了他在更衣室为何不许自己输。
+ch02 max wants his son back.md:69 **为什么这样写**：my every day 是全书最朴素的父爱定义——不谈血缘，只谈日子。孩子视角的误读（didn't love him enough）与他的倒计时并置，把和解写成一场有截止日期的战役。
+ch05 car park men in the dark.md:25 **中文理解**：她的思绪黏在 Max 身上——性感银狐、粗壮小臂、一圈让她隔着骂架都想摸的胡须；那张欠揍的嘴和冒火的脾气让人整晚没法不看。可他终究是个混蛋。
+ch06 three apologies and a freckle.md:13 - **叙事手法**：斗嘴戏用回合制写——每轮交锋都计分（scored another point），把调情写成有比分的球赛。
+ch06 three apologies and a freckle.md:48 **为什么这样写**：雀斑是他独家的观察席位——他在读她的微表情，读得比她自己还准。wriggles 把心动写成肌肉动作：嘴上否认，身体投票。
+ch06 three apologies and a freckle.md:55 **为什么这样写**：exchange 被明确写成计分比赛——调情有比分，谁先心动谁落后。她的 dated a lot older 是宣言书：把「年上控」当场登记在册，正好接住 ch01 的伏笔。
+ch07 the phone call leak.md:27 **为什么这样写**：window 与 closing 把职业生涯写成物理时限；creak 让倒计时有了声音——身体在替经纪人说实话。
+ch07 the phone call leak.md:41 **为什么这样写**：one-off 的恐惧把单次恶行自动扩写成长期档案——父亲的想象力开始给 Ted 立案。三句话的递进（复述→纠缠→推演）正是焦虑的标准语法。
+ch10 baklava and maximus x.md:55 **为什么这样写**：句序就是心序——问候在前、自责居中、交易垫底。might be my fault 泄露她把课堂当成了责任田；once 的限量报价，是害怕期待被辜负的自我保护。
+ch12 bailey sets the rules.md:34 **为什么这样写**：三组矛盾并列（爱秩序又冲动、爱吵闹又要静音）——她的神经不是「坏掉」，是双声道。作者把自我披露写成清单式独白：像她的人生一样，格式工整，内容爆炸。
+ch16 the pantry confession.md:42 **读者视角提示**：记住「没法待在你身边」——它把「友情破产」写成了物理搬离。
+ch19 you are valid.md:55 **为什么这样写**：小公寓的对比让豪宅从炫富变成补偿——他把亏欠换算成了面积。她的 can't buy his love 不是刻薄，是替他把话说破：孩子要的不是房子。
+ch21 his fanny if you will.md:20 **为什么这样写**：protective 与 possessive 一字之差是他给自己划的线——愤怒必须注册为正当防卫。steak vs hot dog 的比喻把「尊重」写成菜单：爱一个人先从估价开始。
+ch23 the fanny contract.md:25 **中文理解**：监护权底牌亮出：家事法庭顾问已经问询过 Bailey——只要他提过 Ted 干的事，就有理由不让 Ted 见他；Ted 现在不争，但随时会变——他不怕花钱打发，欠一屁股债也要保 Bailey 安全开心。
+ch28 the tangle gift.md:34 **为什么这样写**：道歉的双向错车——两辆赎罪的车迎面相撞，最后谁都不欠谁。Liz 的认错为 Clouds 系统打上「可更新」的补丁：这个家会修正自己。
+ch29 the scottish away game.md:20 **为什么这样写**：英国化从舌尖开始——零食成为归化进度的暗标。父子同款吃法的 「先被抓包」 结构，把家写成互相传染的习惯。
+ch33 the kissing lesson.md:48 **为什么这样写**：hard work 是她的自贬，被他当场改写成投资术语——她的矛盾不再是故障，是特性。author 让回应比告白先行：接受她的说明书比说爱更进一格。
+ch34 the sorry tea.md:27 **为什么这样写**：满分被他当场驳回——他要的不是认可而是迭代。 strive for 把关系写成项目制：连讨好都有版本号。
+ch39 he didnt take it back.md:32 **中文理解**：Els 交出择偶判词：他一直在尽力学习；我们不合适——但我要给儿子找个爸爸；说到底，他需要一个让他做自己、逗他笑、又值得他照顾的人，还需要成熟并理解自己——我们都欠这一课。而按 Bailey 最近的话看：我觉得他找到了那个
+ch40 your daughter is a queen.md:34 **为什么这样写**：她把最私密的规则说成旁白，他抓住每个字——matter 的追问是他在她心里要一个座位号。
+ch40 your daughter is a queen.md:35 **读者视角提示**：记住「我重要吗」——下一句的回答被电话掐断，欠着的话最磨人。
+ch45 icing safeword night.md:48 **为什么这样写**：高潮的验收标准是她自己定的（不分心不失望）——首次全部达标。灯泡的比喻把感情写成物理事件：不由自主，有据可查。
+ch51 no decisions tonight.md:27 **为什么这样写**：悲伤被塞进两人的保留节目里——茶评游戏成了情绪的安全出口。balm（药膏）的比喻把他的笑写成治疗：她的戏剧化在他那里是优点。
+ch52 the cheshire cat grin.md:41 **为什么这样写**：Cheshire Cat 的意象——猫只剩笑，人只剩追捕；月光把追逐拍成童话。drawl 的语速把威胁说成调情。
+ch52 the cheshire cat grin.md:48 **为什么这样写**：规则由他单方面升级——但她的「控诉」毫无怒气：她要的是被追到。conversationally 的闲聊语气把猎手写成了陪跑的恋人。
+ch54 fifteen birthdays missed.md:27 **为什么这样写**：修好的房子反而让她留在他家——归属感先于产权。pixelated 的比喻把爱情写成视力矫正：他不是滤镜，是分辨率。
+ch56 i love you.md:34 **为什么这样写**：understands me 是全书的核心命题落地——她用「被懂」定义爱。brighter 的收尾把他的存在写成光源。
+ch56 i love you.md:55 **为什么这样写**：I love you 单向落地——他不催、不讨、只把她的「对不起」变成禁语。because I'm me 的因果链被他从缺陷改写成魅力源。
+ch59 twenty four and ambushed.md:27 **为什么这样写**：ch54 的生日创伤在短信里兑现——她不是忘了说，是刻意不说。pretend 的动词把回避写成生存策略。
+ch60 you can be a lot and still be loved.md:41 **为什么这样写**：她把自己的神经系统写成产品手册当众发布——「正常」一词被她亲手改判为「神经典型」。I can't be that person anymore 是全书自我改造的验收宣言。
+ch64 the cleo trap.md:98 肉桂卷圆桌上 secret 全部上桌：Kath 的断联旧伤、她的诊断、「We love you for you」的家规——Jack Edwards 马甲被拆穿后，Cleo 陷阱收网在即，Max 只欠一个回家的理由。
+ch65 the darkest hour.md:32 **中文理解**：Nate 撕下客套：签了这该死的合同咱俩都发财——去年这时候你亲口说这是你的梦，我给了你想要的一切，你欠我的。
+ch65 the darkest hour.md:35 **读者视角提示**：记住「你欠我的」——这份人情的账单将在签字桌上到期。
+ch67 im my passion.md:69 **为什么这样写**：露骨的收尾句被他写成领地宣言——全书的 forced proximity 从屋檐战升级到花园战。mine tonight 呼应 ch24 的「You're mine」立法：条款终于全部生效。
+ch68 will you marry me maximus.md:62 **为什么这样写**：答应求婚的同时把婚礼写成神经系统菜单——诊断结果成为生活设计语言。她的「两难」从此是两种幸福。
+
+=== ④亲属身份：75 行 ===
+00_情感节点.md:136 **叙事概括：** 感恩节餐桌把合同与签证摆上桌、Jem 的年龄差宣战；异乡酒店的她被沙发日与爱情片教到一半——母亲来电收「婚礼税」，Max 抢过免提当庭宣判：她完美、你不配、别再打扰。
+ch02 max wants his son back.md:10 - **情感弧线位置**：男主线开局：钱（会计卷款）、身体（膝背旧伤）、级别（二线联赛）三重落差同时砸下，情感主线（夺回儿子）压在这一切之上。
+ch02 max wants his son back.md:55 **为什么这样写**：Bailey 的出场全是防御姿态（拖着步子、手机挡脸、满脸对抗），而 chest lift 一词直接报出父亲的心率——少年的冷与父亲的热在同一拍对撞。
+ch02 max wants his son back.md:62 **为什么这样写**：Monster Max 在这里完成反转——刚才他还护着外号，原来真正的外号是儿子笑出来的这一个。果汁喷鼻的细节把记忆钉在身体反应上，That was a good day 的短句收尾，把甜味压成钝痛。
+ch02 max wants his son back.md:90 **为什么这样写**：Henry 的一句闲谈立刻被 Max 抓住——slam my hand 的高兴是抓到救命稻草的高兴。Els 的 When he was six 一句浇灭幻觉，把孩子真实年龄 vs 父亲记忆里的年龄的错位拍在桌面上。
+ch02 max wants his son back.md:95 **中文理解**：他们的婚姻没能走下去并不意外——他从加州被交易到波士顿，她便听父母的搬回英格兰；但他有一个重来的机会：改变一切，成为 Bailey 需要的那个父亲。
+ch03 max and bailey walk in.md:12 - **人物弧线**：Flora：被母亲的声音打回自我怀疑 → 对 Bailey 秒变温柔 → 对 Max 的评价体系首次失灵。
+ch04 max drives back to apologise.md:27 **为什么这样写**：前半句的败者陈述（couple of seconds vs a month）与后半句的猎杀宣言共用一个主语——父亲的无力与父亲的凶狠来自同一处软肉。作者让自愧与杀意同格出现，protective 才有重量。
+ch06 three apologies and a freckle.md:41 **为什么这样写**：他在说儿子的改名，她听到的是自己被叫 Flour 的旧账——同一种痛，两代人各领一份。她的反杀不是刻薄，是共鸣：用他自己的话告诉他，她懂。
+ch07 the phone call leak.md:9 - **一句话概括**：健身房里 Henry 一边帮 Max 拉伸一边把他的底牌摸清：钱快见底、儿子在怪他没去救、倒计时反成阻碍；给 Flora 打的预约电话却错接到 Jem——头痛的秘密说漏了。
+ch07 the phone call leak.md:21 **读者视角提示**：记住「保儿子、亏自己」这套账——他后面的每个决定都有这条底线压着。
+ch07 the phone call leak.md:28 **读者视角提示**：记住「来英国反而减分」这笔账——他为陪儿子付出的代价，不止是钱。
+ch07 the phone call leak.md:74 **中文理解**：他仓促挂断电话，承认自己又给 Flora 添了新麻烦——该修；走向车边时 Bailey 别开脸；但他先给自己排好了次序：首先，得阻止儿子恨我。
+ch11 just check that hes okay.md:18 **中文理解**：她是在比这更大的宅子里长大的——每月一场父母的盛大派对；无数个周六，她缩在花园尽头的夏日小屋里发抖，用耳机盖过尖笑声，弟弟去攀附权贵，她裹着睡袋等散场。大房子什么都不代表。
+ch11 just check that hes okay.md:34 **为什么这样写**：孩子的期待（excited）与沉默（not talking）同时存在——恨的是父亲，救星是老师。他把这个错位摊开给她看，等于把家务事的账本交了出去。
+ch11 just check that hes okay.md:48 **为什么这样写**：省略号与抿唇写出一个父亲的恐惧成形过程——他把最坏的想象按在句子里，只敢说一半。can't see him talking 承认了信息断供：他能做的只有找一个孩子肯说话的人。
+ch12 bailey sets the rules.md:55 **为什么这样写**：一句「典型」暴露最深的伤：他连刻薄都归档为常规操作——爸爸这个物种在他那里已经定义完毕。读者此刻才看清 Max 真正的对手：不是 Ted，是孩子对「父亲」这个词的字典。
+ch13 the nanny proposal.md:62 **为什么这样写**：婚礼 vs 评估的价目表照出父母的价值排序——体面高于女儿。dickhead with a title 的毒舌把讽刺削到最薄：她早看穿他们的爱按用途定价。
+ch15 reason ten and the pantry.md:27 **为什么这样写**：humiliation 被明码标价成投资品——在妈妈的经济学里，尊严是可兑换货币。作者一句台词写完价值体系：女儿的心理健康排在「体面」之后。
+ch15 reason ten and the pantry.md:39 **中文理解**：Kath 临走忠告：前阵子有男人来骗我给「病儿子」捐钱，估计不会回来，但也说不准——保证安全，别轻信任何人。你对我们很重要，Flora。
+ch17 she asks to move in.md:13 - **叙事手法**：三层声音叠进（儿子楼梯上的grunt、电视里的旧世界、门铃）把决定推到他手里。
+ch17 she asks to move in.md:21 **读者视角提示**：记住这个「曲线答应」——儿子点头的方式，为 Flora 进门铺了第一块砖。
+ch19 you are valid.md:39 **中文理解**：他自嘲出身：别误会，我不是一直当坏爸爸——Bailey 婴儿期老生病，他在候诊室里陪孩子对抗低免疫力时认识了许多人、学到别人是怎么体验生活的；这让他把儿子养得更好，也扛住了前妻焦虑疲惫的日子。
+ch19 you are valid.md:41 **为什么这样写**：他的同理心有产地证明：候诊室——焦虑的父亲在那里被迫学会了倾听。别人的痛苦成了他的教材，也解释了他为何读得懂 Flora 的 masking。
+ch19 you are valid.md:53 **中文理解**：豪宅账本摊开：Bailey 回英国时跟 Ted 和他妈挤在小公寓，外祖父母还在出离婚律师费——他要给儿子足够的空间和一处特别的地方住。她一针见血：你买不来他的爱。
+ch20 fake nanny fanny.md:12 - **人物弧线**：Flora：怕被抛弃 → 被叫「妹妹」→ 和少年一起大笑；Bailey：立规矩的人也主动选了歌单。
+ch21 his fanny if you will.md:18 **中文理解**：队友对她的红发开黄腔，他放话：谁敢靠近她，下一颗冰球打掉你的牙；被笑「占有欲发作」，他纠正——是保护欲。她是个好女人、我儿子的好朋友，她值得牛排，不是脏摊热狗；红发那套说法也只是刻板印象。
+ch22 the custody ask.md:48 **为什么这样写**：孩子不敢跟父亲开口的事，托给了认识两周的保姆——信任的跳跃全在这句 for me 里。他的怕（生气）说明在他心里 Max 仍是需要小心说话的人。
+ch23 the fanny contract.md:27 **为什么这样写**：法律框架先落地，暴力选项（买断）作为后备——父亲的算盘里没有一栏叫「成本」。in a heartbeat 与他退休金的账本连成同一条线：孩子的安全高于一切数字。
+ch23 the fanny contract.md:76 **为什么这样写**：他把「父亲的上场」拆成表情管理（不夸张、不刻薄）与情报收集（一起上课？）——每一步都按 Flora 教的方法来。连计算机课都是新情报：他连儿子选了什么课都不知道。
+ch23 the fanny contract.md:81 **中文理解**：Bailey 从 Gina 桌前回来，整个人带电：她把号码输进我手机了——我有 Gina Russo 的电话号码了！他拍儿子的背，心里想的是抱住他；两个字的总结：婴儿步。
+ch25 nailing this dad thing.md:20 **为什么这样写**：道谢清单全是「小事」——可正是小事证明他记住过儿子的每一句话。他压住 fist pump 换来 No worries 的从容：爸爸的第一份成绩单，得 pretend 不在乎。
+ch25 nailing this dad thing.md:25 **中文理解**：Els 正式致谢：谢谢你付心理咨询的钱——他开始治疗后快乐多了；他看着儿子把外套裹住保鲜盒护得妥帖，心里发光，顺势问离婚进度。
+ch25 nailing this dad thing.md:41 **为什么这样写**：钱与爱的兑换率是他最怕的汇率——他宁可晚说，也不让儿子的和解带着「收买」的嫌疑。一次讲清的策略，是受够了碎片误解的人的方案。
+ch27 the businesswomen breakfast.md:11 - **Tropes 兑现/反转**：mean-girl 的母亲代偿出席；反转是 Amber 的救场——Cloud 的下一代替她挡刀。
+ch27 the businesswomen breakfast.md:25 **中文理解**：审判官入场：黛安娜的女儿？你当年跟我家 Ophelia 是同学——她端详那张严厉眉、紧发髻，用最标准的客套接住：Mrs Morthan-Vermont，你好。听说 Ophelia 订婚了。
+ch27 the businesswomen breakfast.md:27 **为什么这样写**：她的身份被先用「母亲的名字」标注——个人在这位母亲眼里只是附页。紧发髻与严厉眉的特写把「规训」拟人化：校园审判庭的那把椅子，长了腿追到烹饪学校。
+ch27 the businesswomen breakfast.md:28 **读者视角提示**：记住「Diana 的女儿」这个称呼——她的自我从不被叫全名。
+ch27 the businesswomen breakfast.md:32 **中文理解**：旧账当面宣判：你一直很怪——Ophelia 回家都要汇报你的怪行为怪言论；你母亲一直盼你把这些「不寻常的习惯」长没。
+ch27 the businesswomen breakfast.md:39 **中文理解**：补刀两连：你母亲盼你干比烹饪学校大得多的事——可惜你就是爱做梦；临了她咂嘴一问：还没订婚戒指呢？
+ch28 the tangle gift.md:20 **为什么这样写**：便签的全部语气都是「顺手」——越不隆重，越见用心。他把礼物归因于 Bailey（替儿子谢她），把自己的心意藏在 x 里。
+ch29 the scottish away game.md:18 **中文理解**：真相暴露：他爱上了泡进茶里的 custard cream——打死不承认，除了对 Bailey——毕竟先被撞见这么干的是儿子，用的是 Flora 留的点心。
+ch30 max used to rescue cats.md:32 **中文理解**：连不是猫派的老爸都想留下那只猫——Bailey 顺便交出父亲童年档案：他妈总在工作、他爸压根不在；邻居家的猫逃进花园，他就盯着等猫拉屎，然后一路臭着脸抱回家。
+ch30 max used to rescue cats.md:46 **中文理解**：Bailey 目瞪口呆：他居然没加入群殴——外婆说他美国名声可是冰上暴徒；她看着看着 Max 的儿子说：也许他不是别人说的那种人。
+ch30 max used to rescue cats.md:76 一场不署名的观赛把两代人接通：她教 Bailey 用「特殊兴趣」读懂 Gina，Bailey 用一只流浪猫把父亲的童年还给父亲—— reputation 在大笑面前碎了。
+ch32 the panic in the tea lesson.md:60 **中文理解**：他宣布在英期间禁令：我爱冰球也爱自己的成就，但悔恨大把——不想毁掉别人的人生，更不想让儿子以为谁比他重要。所以，在这儿期间，不约会。
+ch33 the kissing lesson.md:11 - **Tropes 兑现/反转**：teaching moment 双重兑现（教儿子也教爸爸）；反转是口误 Dad——和解不需要宣布，它自己漏了馅。
+ch33 the kissing lesson.md:27 **为什么这样写**：一个口误完成全书最重要的和平条约——没谈判、没道歉，舌头先签了字。Max 的 freeze 与 beam 同帧：被儿子叫爸爸的幸福大到让人不敢动。
+ch33 the kissing lesson.md:53 **中文理解**：她小声报到：你闻起来是薄荷味；他答刚刷完牙，笑着下令：安静——我要假装亲我儿子的假保姆了。
+ch35 the family skate.md:21 **读者视角提示**：记住这场「直球考验」——Gina 用三句话替 Bailey 完成了对父亲的重新评估。
+ch35 the family skate.md:27 **为什么这样写**：从「被押着来」到「全装出席」——变化不用台词，用服装预算说明。dare to hope 的谨慎句式是父亲的习惯性自我保护：他连希望都先请示自己。
+ch35 the family skate.md:110 万圣节冰场全员变装说真话：Bailey 拥抱了父亲的世界，她把「我不约会」当众挂出——他签下全书最孤独的续约条款：没有未来，但只要她要就继续。
+ch36 i never stopped loving you.md:28 **读者视角提示**：记住「没收到」这三个字——Ted 藏起来的不是礼物，是一个父亲的全年记录。
+ch38 the first real kiss.md:20 **为什么这样写**：难带」的记忆被他翻译成「最爱的时光」——父亲的记忆滤镜自带柔光。precious 一词既说孩子也说那段无路可退的陪伴。
+ch39 he didnt take it back.md:25 **中文理解**：Els 的鉴定书：信我——他跟八月来时判若两人，像我们初见那会儿；这是好事，他值得快乐：Bailey 总以为他把冰球排在儿子前面，但那件事从来不是非黑即白。
+ch40 your daughter is a queen.md:9 - **一句话概括**：沙发日与爱情片教学法被妈妈电话打断——Ophelia 婚礼邀请逼她赴会，Max 抢过话头对 Macdonald 太太当庭宣判：「你女儿是个 queen，你不配为人父母」。
+ch40 your daughter is a queen.md:49 **读者视角提示**：记住这句当面认领的「被霸凌」——她对母亲不再翻译、不再修饰。
+ch40 your daughter is a queen.md:53 **中文理解**：他抢过免提对 Macdonald 太太宣判：你女儿是个该被加冕的 queen——Flora 猛地抬头看他的脸，那感激让他的心脏擂鼓。
+ch40 your daughter is a queen.md:63 **读者视角提示**：记住这场「代为断亲」——他自己没被母亲爱过，所以最见不得别人被这样爱错。
+ch43 strictly vip you understand.md:32 **中文理解**：婚礼请柬的炫耀式羞辱：三百密友专属、Strictly VIP——你懂的；没有婚戒？工作不堪、独自出现在下等夜店——没朋友没丈夫什么都没有，多丢人。
+ch49 go home flora.md:12 - **人物弧线**：Flora：从「需要有人告诉我可以走」到摔门而出；Clive：从「寻找自我」的混蛋到道歉的哥哥。
+ch49 go home flora.md:34 **为什么这样写**：孩子想用自己最大的资产换父亲留下——这是最笨也最贵的孝心。他复述的「there's a lot」是 Max 给他的安全感，此刻被反向用来救 Max。
+ch54 fifteen birthdays missed.md:32 **中文理解**：Mel 的 EJ 档案更新：黄旗原来都是红旗——领救济金造假她早知道；昨晚手机开着和别的女人的聊天，借口又是「儿子生病要钱」；质问他是否出轨，他笑了。
+ch57 the airport goodbye.md:20 **为什么这样写**：道歉与赦免同框——孩子的愧疚是「缺席」，父亲的赦免是「你是你自己」。Morin 这个姓被正式授予：继承不止是血缘。
+ch57 the airport goodbye.md:41 **为什么这样写**：评估的「童年证人」由哥哥担任——父母被永久除名。她把信任的名单重新画过：Clive 的道歉换来了席位。
+ch58 the locker room distance.md:18 **中文理解**：Henry 的家乡汇报越欢乐他越难过——Rudders 在正念课上放屁被逮、全队赌 Kris 和 Mike 女儿什么时候约会。
+ch60 you can be a lot and still be loved.md:27 **为什么这样写**：母亲把「崩溃」归档成「闹场面」——受害史被施害者重新叙述。not just money 的阴阳怪气：在他们的账本里，女儿的联系都是交易。
+ch60 you can be a lot and still be loved.md:46 **中文理解**：她的断亲令落地：圣诞节说过不再见——说到做到；父亲翻白眼「你是我们生的」；她的判决书三连：你们让我一生觉得做什么都错、把我定性成故意难搞、我被人无休止霸凌时你们说我活该不努力合群。
+ch62 they are ridiculous and i love them.md:41 **为什么这样写**：军师式群管理+悬念投放——「想办法让 Max 回来」是给读者的钩子。她的母亲人格在群里也是治国风。
+ch63 dont sign it yet.md:34 **为什么这样写**：儿子拦下父亲的「终身大事」——他知道的比说的多。might get to return home 的措辞是承诺而非安慰。
+ch63 dont sign it yet.md:42 **读者视角提示**：记住「Trust me, Dad」——儿子的信任是比任何合同都重的签收。
+ch64 the cleo trap.md:9 - **一句话概括**：Cinnamon buns 圆桌：Kath 交出女儿断联的旧伤、全家正名「We love you for you」、诊断宣布被一句「Congratulations or…」接住——关键拼图合拢（Jack Edward
+ch66 ted gets arrested.md:20 **为什么这样写**：陷阱的揭晓词句句带刀——「认错人」是最优雅的亮牌。jail 与 custody 的因果链直接判决：骗子进牢=父亲回家。
+ch67 im my passion.md:55 **为什么这样写**：两百万反衬他此前「负债也要陪儿子」的牺牲——孩子用青春期的清醒替父亲卸下重担。catering college 的志愿呼应 Flora 的职业线：这个家的下一代全是「手艺人」。
+ch67 im my passion.md:98 一盏十分茶揭开全书终局：他拒签梦想、她脱口告白、她反手求他搬家——「我就是我的 passion」，prom 之夜送走 Bailey，两百万信托被少年塞回父亲手里：这个家，今晚全员归位。
+
+合计 610 行候选 / 72 个文件
