@@ -13,10 +13,10 @@ modified: "2026-11-19"
 - **叙事手法**：屏幕考古（视频→采访→时间线断裂）＋设备库的实物对位（褪色标牌=记忆的实体档案）；「时间胶囊」把前文所有口述史落地成可触摸的灰尘。
 
 ## 精读
-> **原句 1:** "I pictured land. A house farther outside town. A workshop big enough that I could disappear into it for hours. A barn and a couple horses. Maybe even cattle, though Dad would probably remind me I complained every summer I worked at Marigold Ranch. Kids running around somewhere they could get dirty without somebody caring. And most importantly, a woman who wouldn’t lose her mind when muddy boots made it through the back door. Sunday dinner was nonnegotiable at Mom’s because she’d probably hunt me down if I ever tried ending that tradition. … Roots deeper than a mortgage and an address."
+> **原句 1:** "I pictured land. A house farther outside town. A workshop big enough that I could disappear into it for hours. A barn and a couple horses. Maybe even cattle, though Dad would probably remind me I complained every summer I worked at Marigold Ranch. Kids running around somewhere they could get dirty without somebody caring. And most importantly, a woman who wouldn’t lose her mind when muddy boots made it through the back door. Sunday dinner was nonnegotiable at Mom’s because she’d probably hunt me down if I ever tried ending that tradition. … Nothing extravagant. Just mine."
 
 **中文理解**：他想象的是土地：城外更远处一座房子、一间能让他躲进去几小时的大工坊、一个谷仓和几匹马、也许还有牛——尽管 Dad 大概率要提醒他每年夏天在 Marigold Ranch 干活时都在抱怨；孩子们跑到哪儿脏到哪儿没人计较；最重要的是一个女人——泥靴踩过后门她不会发疯；周日晚饭在 Mom 家不容谈判；不奢华。只求是我的。比房贷和门牌更深的根。
-**关键词**：I pictured land / disappear into it for hours / muddy boots / Roots deeper than a mortgage
+**关键词**：I pictured land / disappear into it for hours / muddy boots / Nothing extravagant
 **为什么这样写**：男主的欲望清单全部是「物」与「人」的空间关系，直到最后一件才是女人——把爱情写进人生图纸而非临时心动；「不嫌泥靴」的择偶标准与 Carson 的牧场生活一拍即合，读者此刻已完成配对计算；「根」的比喻同时讽刺他的现状：四年没拆的两箱纸盒。
 **读者视角提示**：记住这张图纸——它就是 Carson 已经拥有又被夺走的人生，两人的同频由此而来。
 
