@@ -4,46 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch20_chapter_20_ghosts_in_the_skyline.txt",
  "facts": [
   {
-   "fact": "顶层对峙：Kai 得知 Maya 撮合 Chloe 回来是为了他——语气危险地安静；Maya 说他多年没约会「自从她走后」",
-   "anchor": "Is this why you flew in?",
-   "start": 315,
-   "end": 339
+   "fact": "晚七点顶层 Kai 与姐姐 Maya 争执，Maya 劝他给 Chloe 机会",
+   "anchor": "Maya leaned against the counter opposite him, her arms folded across her chest",
+   "start": 404,
+   "end": 482
   },
   {
-   "fact": "他转身背对城市灯火：不是替走掉的人留座；Maya 点破「她接受研究资助离开那天你就关机了」；他冷答「她回来是因为新城市用完了，这有区别」",
-   "anchor": "She came back because she ran out of new cities.",
-   "start": 2079,
-   "end": 2127
+   "fact": "Kai 背对 Maya 说 Chloe 回来只是空地址，拒绝为旧情松口",
+   "anchor": "She came back to an empty address",
+   "start": 1593,
+   "end": 1626
   },
   {
-   "fact": "Maya 临走叮嘱「她明天会来你办公室——别太残忍」；门合上后他坐在黑沙发边缘攥着酒杯指节发白",
-   "anchor": "coming by your office tomorrow",
-   "start": 2687,
-   "end": 2717
+   "fact": "Kai 指责 Chloe 一遇麻烦就抽身头也不回，如今想重修旧好",
+   "anchor": "She chose her exit the second things became inconvenient.",
+   "start": 2337,
+   "end": 2394
   },
   {
-   "fact": "Marcus 短信：新访谈协议只限创作与叙事问题、Yna 确认明早到司；他闭上眼——Chloe 的微笑被 Yna 的画面取代（下巴颤抖、泪浸衬衫、扛着全世界还对孩子微笑）",
-   "anchor": "coming in tomorrow morning",
-   "start": 3381,
-   "end": 3407
+   "fact": "Marcus 短信说起草新采访协议只问创作叙事，确认 Yna 明早来",
+   "anchor": "Drafted the new media interview protocols.",
+   "start": 3273,
+   "end": 3315
   },
   {
-   "fact": "次日 9:00 她锁好过去、雾散进楼；Teresa 问候个人假如何——「太好了，很需要」",
-   "anchor": "the heavy fog had finally cleared from her chest",
-   "start": 4191,
-   "end": 4239
+   "fact": "读短信后 Kai 脑中 Chloe 期待笑容被 Yna 形象取代",
+   "anchor": "The image of Chloe’s polished, expectant smile dissolved instantly.",
+   "start": 3458,
+   "end": 3525
   },
   {
-   "fact": "玻璃隔断外他的目光本能校准到她：这次不是颤抖的女人——是统率虚构军团、经营混乱帝国、直视他叫过他王子的 Yna",
-   "anchor": "the woman who had looked him dead in the eye and called him a prince.",
-   "start": 5642,
-   "end": 5711
+   "fact": "第二天九点 Yna 出电梯到第40层，神态平静微笑",
+   "anchor": "the elevator chime rang on the 40th floor",
+   "start": 3982,
+   "end": 4023
   },
   {
-   "fact": "Marcus 汇报中断；他咔哒扣上钢笔起身；她隔着玻璃偏头给他一个私人微笑——他的严厉完全投降成一个缓慢真诚的微笑；她门合上后那个微笑在他思绪里挥之不去",
-   "anchor": "A faint furrow appeared between Kai's brows",
-   "start": 5997,
-   "end": 6040
+   "fact": "她停在玻璃隔断外看见他与 Marcus 处理 Q3 预测",
+   "anchor": "She paused just outside the glass partition of Kai’s corner office.",
+   "start": 4677,
+   "end": 4744
+  },
+  {
+   "fact": "【转折】隔玻璃她主动露私密笑，他严厉面具回报真心笑",
+   "anchor": "Yna tilted her head slightly to the right and offered him a soft, private smile.",
+   "start": 5914,
+   "end": 5994
   }
  ]
 }

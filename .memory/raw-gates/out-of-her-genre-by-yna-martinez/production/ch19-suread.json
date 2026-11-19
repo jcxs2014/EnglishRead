@@ -4,70 +4,58 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch19_chapter_19_the_weight_of_the_shield.txt",
  "facts": [
   {
-   "fact": "早场缓冲：Michael 以四年级的「吓人的自信」主张麦片是冷早餐汤；Yna 判决不是汤，洒一滴到地毯就用电牙刷刷纤维",
-   "anchor": "That makes it a cold breakfast soup.",
-   "start": 548,
-   "end": 584
+   "fact": "Michael 拿勺激烈比划坚持麦片是冷早餐汤，Yna 反驳",
+   "anchor": "Michael was aggressively gesticulating with a stainless-steel spoon.",
+   "start": 380,
+   "end": 448
   },
   {
-   "fact": "昨天崩到地板哭湿他衬衫之后，她把车停在路口开不下去——给 Marcus 发短信改个人日、模拟采访推到明天；Marcus 回复会知会 Kai",
-   "anchor": "push the mock interview to tomorrow",
-   "start": 2017,
-   "end": 2052
+   "fact": "Yna 发短信请假推模拟面试后掉头回家，没去面对 Kai",
+   "anchor": "turned around at the intersection, and drove back home.",
+   "start": 2095,
+   "end": 2150
   },
   {
-   "fact": "卧室抽屉：黄铜钥匙打开窄隔层，取出一份法律文件夹——阿尔伯塔法院的官方记录盖着蓝章「控方撤回指控」，黑体印着她自己的名字；她的皮肤冷得不正常",
-   "anchor": "CHARGES WITHDRAWN BY THE CROWN",
+   "fact": "卧室抽屉黄铜钥匙开暗格取出法院记录，蓝章控方撤回指控",
+   "anchor": "CHARGES WITHDRAWN BY THE CROWN.",
    "start": 2671,
-   "end": 2701
+   "end": 2702
   },
   {
-   "fact": "两年前的二月，卡尔加里零下二十二度：她按约付了冬季营全款、前夫 Ronan 反悔不送、把推搡她赶下门廊——孩子们隔着结霜玻璃无声喊 Hi, Mommy",
-   "anchor": "I paid the entire registration fee because you promised you would drive them!",
-   "start": 3870,
-   "end": 3947
+   "fact": "两年前二月卡尔加里 Ronan 双手把她推下台阶摔门，零下22度",
+   "anchor": "planting both hands hard against her shoulders and shoving her backward",
+   "start": 4273,
+   "end": 4344
   },
   {
-   "fact": "二十分钟后警灯刷上雪堆：她配合说明只在等孩子，仍被以袭击罪名逮捕；她说孩子都在屋里看见了、是他推的我",
-   "anchor": "Hands behind your back. You're under arrest for assault.",
-   "start": 5457,
-   "end": 5513
+   "fact": "两名警察先与 Ronan 谈再走向她的车，以袭击罪逮捕",
+   "anchor": "Two officers stepped out, went up to the porch to speak with Ronan",
+   "start": 5036,
+   "end": 5102
   },
   {
-   "fact": "视频开庭：检方要求拘留待保释听证；值班律师低声告诉她「意思是今天回不了家」——她跪到水泥地上无声痛哭",
-   "anchor": "It means you aren't going home today.",
-   "start": 7251,
-   "end": 7288
+   "fact": "视频庭检方申请审前羁押延期，Duty Counsel 说今天不能回家",
+   "anchor": "The Crown is seeking detention pending a bail hearing",
+   "start": 6986,
+   "end": 7039
   },
   {
-   "fact": "第四天终于获批打付费电话：Elizabeth 的声音小得不可思议——奶奶说你进监狱了；她保证是误会马上回家；女儿说午餐时去操场看过弟妹、确认 Michael 戴了手套；挂断前那句「我已经不是小孩了，妈」像刀捅进肋骨",
-   "anchor": "\"I'm already not a kid, Mom,\" Elizabeth whispered.",
-   "start": 9766,
-   "end": 9816
+   "fact": "还押中心搜身冷水澡后换囚服，编号 4829 关 C 区四号",
+   "anchor": "Number 4829",
+   "start": 8584,
+   "end": 8595
   },
   {
-   "fact": "第七天视频出庭：控方同意无现金担保释放、附禁止接触条件；正午办完手续，她拿着透明塑料袋（衣物/证件/一张轻轨票）走进刺眼的冬日阳光",
-   "anchor": "the Crown is consenting to release on a Release Order",
+   "fact": "羁押第三天打对方付费电话给12岁 Elizabeth 追问弟妹下落",
+   "anchor": "How are Michael and Lynne? Have you seen them?",
+   "start": 9370,
+   "end": 9416
+  },
+  {
+   "fact": "【转折】第七天检方同意免现金保释释放，附加不接触条件，数月后指控全撤销",
+   "anchor": "the Crown is consenting to release on a Release Order without cash deposit",
    "start": 10692,
-   "end": 10745
-  },
-  {
-   "fact": "数月后案件抵达法院，控方正式撤回全部指控——文书归档消失；疤痕没有。当下：她折好记录放回抽屉、拧上黄铜钥匙、松手",
-   "anchor": "The paperwork disappeared into a file. The scar didn't.",
-   "start": 13272,
-   "end": 13327
-  },
-  {
-   "fact": "教堂重逢：五岁的 Lynne 撞进她膝盖、七岁的 Michael 慢慢走来抱住脖子攥皱毛衣；Elizabeth 走过来自跪地毯抱住三人；门外 Ronan 头也不回地开车走了",
-   "anchor": "Mommy!",
-   "start": 822,
-   "end": 828
-  },
-  {
-   "fact": "现如今 3 点接娃：三张脸在后视镜里，她脸上铺开一个宽大的、发光的、真诚的微笑——创伤发生了、系统辜负了她，但她活下来并从废墟里建起了生活",
-   "anchor": "Hello, my little monsters",
-   "start": 14566,
-   "end": 14591
+   "end": 10766
   }
  ]
 }

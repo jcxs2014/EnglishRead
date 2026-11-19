@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch01_chapter_1_the_art_of_tactical_survival.txt",
  "facts": [
   {
-   "fact": "Yna 笔下女主用古老魔法与利刃直面暗君；现实中她顶乱发、叼冷 Pop-Tart 在厨房找鞋",
-   "anchor": "fierce heroines faced dark lords with ancient magic, razor-sharp daggers, and terrifying composure",
-   "start": 124,
-   "end": 222
-  },
-  {
-   "fact": "今天 9 月 7 日 Yna 满 40 岁；本该带来平静智慧，实际是咖啡因短缺、三个孩子三向混乱、手稿截稿日压顶",
-   "anchor": "Turning forty on September seventh—which happened to be today—was supposed to bring peace, wisdom, and a settled life.",
+   "fact": "Yna 在 September seventh（当天）满 forty 岁，同日背 dark fantasy 书稿截稿日压力",
+   "anchor": "Turning forty on September seventh—which happened to be today—was supposed",
    "start": 589,
-   "end": 707
+   "end": 663
   },
   {
-   "fact": "三个孩子：Lynne 7 岁想拿果汁盒当早饭；Michael 9 岁找到一只鞋在走廊跳胜利舞；Elizabeth 14 岁淡定煎蛋、是家中主锚",
-   "anchor": "Lynne, seven, was currently trying to negotiate eating a juice box for breakfast.",
+   "fact": "seven 岁 Lynne 早餐只靠果汁盒，nine 岁 Michael 找到一只鞋在走廊跳胜利舞",
+   "anchor": "Lynne, seven, was currently trying to negotiate eating a juice box",
    "start": 917,
-   "end": 998
+   "end": 983
   },
   {
-   "fact": "Elizabeth 以死板官腔递咖啡，警告母亲震动频率威胁房屋结构；Yna 配合接「Yes, daughter?」并感激喝下",
-   "anchor": "You are vibrating at a frequency that threatens structural damage to the house. Please consume the caffeine.",
-   "start": 1685,
-   "end": 1793
+   "fact": "fourteen 岁 Elizabeth 炉边煎蛋，是 Yna 的主要帮手和大女儿",
+   "anchor": "And Elizabeth, fourteen, was standing at the stove, calmly flipping eggs",
+   "start": 1099,
+   "end": 1171
   },
   {
-   "fact": "脊医 Dr. Ron 检查写作马拉松留下的损伤，问拉伸做了没；她还没编完谎就被打断，压背整脊后如释重负",
-   "anchor": "Have you been doing the stretches I told you to do?",
-   "start": 4037,
-   "end": 4088
+   "fact": "全家迟到 nine minutes，她抓钥匙电脑包把孩子赶出门",
+   "anchor": "\"We are nine minutes late!\" Yna announced to the chaos, grabbing her keys",
+   "start": 2074,
+   "end": 2147
   },
   {
-   "fact": "排队时翻手机笔记，看到凌晨两点的开场是主角与 Thaerin 在小村咖啡馆隔着光洁桌子相遇——她自骂这是「她（女主）那个世界」的写法",
-   "anchor": "She had written her protagonist and Thaerin meeting across a polished table in a quaint village café.",
+   "fact": "整脊师 Dr. Ron 拆穿她没做拉伸并扳响复位，感觉高了两英寸约好下周再来",
+   "anchor": "\"Have you been doing the stretches I told you to do?\" asked Dr. Ron",
+   "start": 4036,
+   "end": 4103
+  },
+  {
+   "fact": "Tim Hortons 点 medium dark roast double-double + Boston Cream，坐后角卡座写稿",
+   "anchor": "\"Medium dark roast double-double, please...\"",
+   "start": 7320,
+   "end": 7364
+  },
+  {
+   "fact": "凌晨两点草稿是主角与 Thaerin 乡村咖啡馆隔桌相遇，当场自责",
+   "anchor": "She had written her protagonist and Thaerin meeting across a polished table",
    "start": 5678,
-   "end": 5779
+   "end": 5753
   },
   {
-   "fact": "她删掉咖啡馆开场整段重写：主角第一晚就被丢进陌生世界的阴影森林，又冷又迷向、快被游荡掠食者吃掉时由 Thaerin 找到她",
-   "anchor": "Her protagonist needed to be thrown straight into a hostile, shadowed forest on her very first night in this foreign world—freezing, disoriented, and about to get eaten by roaming predators when Thaerin finds her.",
-   "start": 6097,
-   "end": 6310
-  },
-  {
-   "fact": "排队时她脚打拍子、口中嘶声模仿出鞘；前面持公文包的西装男僵住转身瞪她，她举手机道歉",
-   "anchor": "The businessman directly in front of her—a guy in a crisp coat holding a briefcase—stiffened, spun around, and stared at her like she was actively losing her mind.",
-   "start": 6753,
-   "end": 6916
+   "fact": "【转折】删咖啡馆开场，改为主角首夜被丢进敌意暗影森林、由 Thaerin 找到",
+   "anchor": "She had to strip away the safety nets. Her protagonist needed to be thrown",
+   "start": 6058,
+   "end": 6132
   }
  ]
 }

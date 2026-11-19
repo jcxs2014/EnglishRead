@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch08_chapter_8_forced_proximity.txt",
  "facts": [
   {
-   "fact": "私人办公室全套到位：不晃的桌、护腰的椅；多年来她拥有了完全属于自己的工作区——无手印、无蜡笔、无乐高",
-   "anchor": "For the first time in years, Yna had a workspace that belonged entirely to her.",
-   "start": 287,
-   "end": 366
+   "fact": "Marcus 送咖啡与枫糖可颂，转告封面资料袋定稿、Kai 下午来谈细节",
+   "anchor": "Marcus stepped inside, holding a small silver tray with a fresh cup of coffee",
+   "start": 910,
+   "end": 987
   },
   {
-   "fact": "Kai 进门送新闻稿时把它拿倒了，停半秒又无声转正、用完美职场姿态圆场",
-   "anchor": "he picked it up upside down",
-   "start": 3286,
+   "fact": "Kai 进屋递新闻稿走神拿倒了，随即悄悄转正装作无事",
+   "anchor": "in his sudden loss of focus, he picked it up upside down",
+   "start": 3257,
    "end": 3313
   },
   {
-   "fact": "发布分阶段：社媒预热（角色金句/情绪板/背景碎片）→ 文学大刊独家书封 → 访谈播客平面专题；她 overwhelmed",
-   "anchor": "We've drafted a preliminary timeline.",
-   "start": 4393,
-   "end": 4430
+   "fact": "分阶段发布：社媒预热→大型文学媒体独家公开封面→访谈播客等媒体阶段",
+   "anchor": "the official cover reveal via an exclusive with a major literary outlet.",
+   "start": 4582,
+   "end": 4654
   },
   {
-   "fact": "他降半档声线安抚：慢慢来、不把你扔进深水区——你写书，噪音我们处理",
-   "anchor": "You write the book. We handle the noise. That's the deal.",
-   "start": 5210,
-   "end": 5267
+   "fact": "午餐 Kai 发现三份餐，Marcus 把 Yna 领进会议室坐他身旁，称 Rhodes 吩咐不许跳过午餐",
+   "anchor": "but paused when he noticed three containers on the table instead of two.",
+   "start": 6629,
+   "end": 6701
   },
   {
-   "fact": "Marcus 备三份午餐把她安排到 Kai 身边，谎称是 Rhodes 吩咐；Kai 内心惊恐、递去能切玻璃的眼神",
-   "anchor": "Mr. Rhodes asked me to make sure you didn't skip lunch.",
-   "start": 7331,
-   "end": 7386
+   "fact": "Yna 告诉 Kai 没结婚独自照顾孩子；他为打探私事道歉并称赞她了不起",
+   "anchor": "I'm not married",
+   "start": 9917,
+   "end": 9932
   },
   {
-   "fact": "Kai 问她有没有伴侣支持；她答未婚、独自带三娃（空气变薄）；他自责越界并道歉——独自写黑暗奇幻史诗兼养三孩是非凡成就",
-   "anchor": "I take care of my kids by myself.",
-   "start": 9975,
-   "end": 10008
+   "fact": "Kai 答没妻子、短期不改，透露周末去北边无信号树林徒步",
+   "anchor": "No wife. And no plans to change that anytime soon",
+   "start": 11131,
+   "end": 11180
   },
   {
-   "fact": "他自称不结婚（日程精确到分钟、成功不需伴侣）；她拆穿这是不想被人扰乱条款的说法，他答 Perhaps；爱好是北上徒步——大脑唯一停止算数据的时候",
-   "anchor": "It's the only time my brain actually stops calculating data.",
-   "start": 12230,
-   "end": 12290
+   "fact": "Kai 质问 Marcus；他承认把两人都登记进周六高管户外活动，其他人取消了",
+   "anchor": "I registered you both for Saturday's executive wellness outing.",
+   "start": 14837,
+   "end": 14900
   },
   {
-   "fact": "会议室对质：Marcus 用同段读三分钟回敬、Kai 以「面试失业」回击；日历邀请 Blue Ridge Trail 周六 9:00 两人出席，她回「我周六有空见你们俩」，Marcus 满足低语 Saturday",
-   "anchor": "You spent three minutes trying to read the same paragraph this morning",
-   "start": 15329,
-   "end": 15399
+   "fact": "【转折】收到官方日程（Blue Ridge Trailhead 北停车场、周六 9:00 AM、参加人 Yna 与 Kai），犹豫后确认赴约",
+   "anchor": "Hi Marcus, I'm available. I'll see you both Saturday.",
+   "start": 21723,
+   "end": 21776
   }
  ]
 }

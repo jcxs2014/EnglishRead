@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch05_chapter_5_terms_and_conditions.txt",
  "facts": [
   {
-   "fact": "Kai 柜台点中杯双糖双奶+中杯黑咖，收银员脸红结巴；他望向角落的 Yna 看到入神，直到喊单才回神",
+   "fact": "Kai 点她常喝的 Medium Double-Double + 自己的中杯黑咖，亲手送到她桌上",
    "anchor": "Medium Double-Double and a medium black, please.",
    "start": 118,
    "end": 166
   },
   {
-   "fact": "他把新咖啡送到她桌上；她道谢说早上那杯早就凉了",
-   "anchor": "My coffee had gotten cold earlier",
-   "start": 1374,
-   "end": 1407
-  },
-  {
-   "fact": "她提条件：整个系列留在他的公司，条件是帮他公开书封——和她的脸",
+   "fact": "续约条件：整个系列留下，但须帮她公开书封与她的脸",
    "anchor": "you have to help me finally reveal my cover—and my face.",
    "start": 1718,
    "end": 1774
   },
   {
-   "fact": "他盯着她的笑呼吸一滞，自记「她不记得我」并给自己上紧企业姿态",
-   "anchor": "She doesn't remember me, he reminded himself",
-   "start": 2101,
-   "end": 2145
+   "fact": "解释三年前匿名是为安全；熬过青春期臭脸与果汁盒谈判后决定不再躲在笔名后",
+   "anchor": "But I just turned forty... and somewhere between surviving",
+   "start": 2861,
+   "end": 2919
   },
   {
-   "fact": "她解释三年匿名：四十岁、熬过青春期和果汁盒谈判后决定不再躲在笔名后，脸面公开但拒绝廉价噱头",
-   "anchor": "I want to step into the light and own my success.",
-   "start": 3039,
-   "end": 3088
+   "fact": "Kai 保留策略/新闻稿/媒体露面/封面设计的最终审核签字权",
+   "anchor": "I maintain final review and sign-off on every major milestone",
+   "start": 4039,
+   "end": 4100
   },
   {
-   "fact": "Kai 要所有里程碑的最终审核权并称她为最高优先资产；条款落纸成交——周一早八点对合同，她以三个孩子和每周掰脊椎砍到九点半",
-   "anchor": "Kai countered smoothly",
-   "start": 5605,
-   "end": 5627
+   "fact": "指示 Marcus 当天起草纳入封面公开条件的附录，周一与部门负责人审阅",
+   "anchor": "draft the formal addendum incorporating the cover reveal conditions",
+   "start": 4836,
+   "end": 4903
   },
   {
-   "fact": "牛肉粉商务餐换来 Marcus 道歉——Kai 的规则：墙外平等、墙内无友谊；Yna 那边心跳加速自嘲跟 CEO 说话要意志力",
-   "anchor": "outside these walls, they were equals, but inside the office, the friendship ceased to exist.",
-   "start": 8515,
-   "end": 8608
+   "fact": "先定周一八点整，Yna 以三娃/送学/每周正骨说最早十点，折中 nine-thirty",
+   "anchor": "Nine-thirty,\" Kai countered smoothly, breaking the silence.",
+   "start": 5591,
+   "end": 5650
   },
   {
-   "fact": "Elizabeth 车上问「CEO 吃了你的灵魂还是你征服了他」——答案：灵魂完好、书封公开立项、Martinez 帝国扩张",
-   "anchor": "The Martinez empire expands.",
-   "start": 10150,
-   "end": 10178
+   "fact": "2:00 PM 超市购物（距放学一小时），赶稿忘吃午饭丢三包牛排当晚餐",
+   "anchor": "By 2:00 PM, Yna was pushing a shopping cart down the grocery store aisles",
+   "start": 8966,
+   "end": 9039
+  },
+  {
+   "fact": "【转折】预备苦战的她发现 Kai 步步附和全盘接受，以条款落书面为前提当场成交",
+   "anchor": "If those terms are in writing, we have a deal.",
+   "start": 4753,
+   "end": 4799
   }
  ]
 }

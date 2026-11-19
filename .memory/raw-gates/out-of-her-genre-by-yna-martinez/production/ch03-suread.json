@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch03_chapter_3_the_physics_of_unintended_coll.txt",
  "facts": [
   {
-   "fact": "Yna 边煮意面边与 Jaemee 通电话；两人为她的 40 岁生日策划了几周的鸡翅加酒之夜",
-   "anchor": "They had been planning this night out for weeks—wings and drinks to mark her 40th birthday.",
-   "start": 919,
-   "end": 1010
+   "fact": "拒绝 Michael third night tacos，坚持 spaghetti night",
+   "anchor": "\"No, Michael, we are not having tacos for the third night in a row.",
+   "start": 318,
+   "end": 385
   },
   {
-   "fact": "Elizabeth 被托付看家：自称 14 岁不是军训教官，但答应 I'll keep them alive",
-   "anchor": "I'm fourteen, not a drill sergeant",
-   "start": 3639,
-   "end": 3673
+   "fact": "与 Jaemee 数周前计划 wings and drinks 庆 40th birthday",
+   "anchor": "she said to Jaemee on the phone. They had been planning this night out",
+   "start": 886,
+   "end": 956
   },
   {
-   "fact": "出门前换上森林绿毛衣与黑色牛仔裤，放头发化淡妆；Jaemee 短信催 birthday queen",
-   "anchor": "She pulled on a forest green sweater—simple, cozy, but tailored enough to feel like an actual adult",
-   "start": 4647,
-   "end": 4746
+   "fact": "托付 Elizabeth 看家，她回 I'll keep them alive",
+   "anchor": "I'm trusting you to make sure your brother and sister don't turn the house",
+   "start": 3337,
+   "end": 3411
   },
   {
-   "fact": "Jaemee 举杯敬「四十年最 badass 的妈妈兼作家」，愿下一章比上一章更疯",
-   "anchor": "To forty years of being the most badass mom and author I know.",
-   "start": 6411,
-   "end": 6473
+   "fact": "Marcus 拽 Kai 手肘进鸡翅店，他点 Whiskey Neat",
+   "anchor": "Marcus stepped inside, practically pulling Kai Rhodes by the elbow.",
+   "start": 6714,
+   "end": 6781
   },
   {
-   "fact": "Marcus 下班后把 Kai 拽进鸡翅店；Kai 低声说不想凑热闹，像个走错邮编的人",
-   "anchor": "looking like a man who had accidentally stepped into the wrong zip code.",
-   "start": 7197,
-   "end": 7269
+   "fact": "Yna 点 hot wings + salt and pepper wings + blended margarita",
+   "anchor": "\"I'll have an order of hot wings and salt and pepper wings. And to drink",
+   "start": 5955,
+   "end": 6027
   },
   {
-   "fact": "Kai 认出咖啡店的乱发女人；目光像罗盘找北一样飘回卡座，被 Marcus 抓包后自称只是观察",
-   "anchor": "his eyes pulled back toward the corner booth like a compass seeking north.",
-   "start": 9540,
-   "end": 9614
+   "fact": "Jaemee 搭讪 Marcus，Marcus 提议入座，Kai 坐进 Yna 旁边最后一位",
+   "anchor": "Kai took the final remaining seat—which placed him directly beside Yna.",
+   "start": 17489,
+   "end": 17560
   },
   {
-   "fact": "两人同时起身去洗手间在拐角相撞；Yna 尾骨着地、包撒了一地，Kai 晚半拍没接住",
-   "anchor": "She landed hard on her tailbone with a muffled oomph, her purse slipping from her shoulder",
-   "start": 10424,
-   "end": 10514
+   "fact": "三次插话被断卡死；Yna 笑答 Unstructured is my specialty",
+   "anchor": "\"It's... unstructured,\" Kai admitted softly",
+   "start": 20486,
+   "end": 20529
   },
   {
-   "fact": "Kai 坐到 Yna 身边，社交三次尝试全失败；她一句 Unstructured is my specialty 接管全场，他从此无法移开目光",
-   "anchor": "completely unable to take his eyes off her.",
-   "start": 20942,
-   "end": 20985
+   "fact": "【转折】拐角相撞，Yna 尾骨着地包洒落；Marcus 扶起，Kai 伸手慢半拍道歉",
+   "anchor": "They turned the corner at the same time.",
+   "start": 10203,
+   "end": 10243
   }
  ]
 }

@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch06_chapter_6_the_quiet_after_the_storm.txt",
  "facts": [
   {
-   "fact": "周六早晨 Yna 与前夫邮件约交娃：周六教堂后接走、周一送回学校；他只回 Fine. 6:00 PM.，无一句寒暄，她太阳穴发紧",
-   "anchor": "Fine. 6:00 PM.",
-   "start": 452,
-   "end": 466
+   "fact": "周六晨回邮件前夫：礼拜六教堂后接走、周一送回学校别迟到",
+   "anchor": "Pick up the kids after church Saturday. Drop them off at school Monday!",
+   "start": 319,
+   "end": 390
   },
   {
-   "fact": "泳池与滑板场三连：Lynne 美人鱼大战面条浮条、Michael 炮弹跳后放话不摔断骨随即摔车擦膝、Elizabeth 滑板行云流水",
-   "anchor": "He immediately followed that bold declaration by clipping a concrete curb",
-   "start": 4120,
-   "end": 4193
+   "fact": "前夫三分钟后只回 Fine. 6:00 PM.，无道歉无问孩子，像排牙医预约",
+   "anchor": "The response arrived three minutes later.",
+   "start": 408,
+   "end": 449
   },
   {
-   "fact": "Elizabeth 长椅上以死板腔发起攻势：「你该找个男朋友」；Yna 反问「我有那么孤独？」Elizabeth 慢慢点头 Yup",
-   "anchor": "You should get a boyfriend.",
-   "start": 4626,
-   "end": 4653
+   "fact": "10:00 AM 带三娃游泳：Elizabeth 抗议荧光绿泳衣被要求穿蓝的且必须去",
+   "anchor": "Yna chuckled softly, checking the clock. It was 10:00 AM.",
+   "start": 1226,
+   "end": 1283
   },
   {
-   "fact": "Yna 辩解「多数人只想约会不想结婚，何况我有你们」；Elizabeth 回「找个想结婚的——你写神与暗君，普通人应该简单」",
-   "anchor": "You write books about literal gods and dark lords. A regular human should be easy.",
-   "start": 5248,
-   "end": 5330
+   "fact": "滑板场长椅 Elizabeth 劝找想结婚的男人：你写神与黑领主，找普通人应容易",
+   "anchor": "Then find a man who wants to get married,\" Elizabeth said simply.",
+   "start": 5167,
+   "end": 5232
   },
   {
-   "fact": "Elizabeth 补刀「你总在为别人造世界，也许该试着住进一个」；Yna 走回长椅时默默承认：Elizabeth 说得对，她确实孤独",
-   "anchor": "Maybe you should try living in one for a bit.",
-   "start": 5753,
-   "end": 5798
+   "fact": "4:00 PM 到教会：Lynne/Michael 进儿童事工、Elizabeth 青年事工，礼拜是从不缺席的定锚",
+   "anchor": "By 4:00 PM, they were packed and arriving at church.",
+   "start": 7946,
+   "end": 7998
   },
   {
-   "fact": "教堂里记忆回放：前夫以「我只是保护你」之名渐次侵蚀——批评衣着、盘问朋友、磨掉她的自信；她当年咽下所有红旗，因为笼子也可以像庇护所",
-   "anchor": "even a cage can feel like a sanctuary.",
-   "start": 8952,
-   "end": 8990
+   "fact": "礼拜中回忆：两个男人三个孩子，两次为安全感错觉牺牲理智，独自收场无后援",
+   "anchor": "Two men. Three children. Two separate times she had compromised her sanity",
+   "start": 9132,
+   "end": 9206
   },
   {
-   "fact": "交娃时她站在几步之外、完全避开对视；愤怒有时冲他，更多冲着当年停留太久的自己",
-   "anchor": "mostly at her younger self for staying too long.",
-   "start": 10055,
-   "end": 10103
+   "fact": "散会交娃时退后几步全程避免对视，随后送 Elizabeth 去镇另一头她父亲的家",
+   "anchor": "Yna stayed several paces back from their father.",
+   "start": 9877,
+   "end": 9925
   },
   {
-   "fact": "空屋安静得像博物馆；约会 app 聊天全无下文（多数人只想要 casual）；她独自在韩餐馆吃炸鸡配烧酒，自嘲「我看起来是真的孤独」",
-   "anchor": "I really do look lonely, huh.",
-   "start": 12826,
-   "end": 12855
+   "fact": "【转折】空屋打开几周前下载的交友软件（匹配无果）又关掉，独自韩餐馆炸鸡配 soju 自嘲孤独",
+   "anchor": "opened a dating app she had downloaded a few weeks ago",
+   "start": 11295,
+   "end": 11349
   }
  ]
 }

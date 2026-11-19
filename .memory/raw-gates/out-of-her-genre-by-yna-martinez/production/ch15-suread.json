@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch15_chapter_15_the_dark_prince_protocol.txt",
  "facts": [
   {
-   "fact": "她醒来发现出租车是 Kai 本人——「你不是出租车」；他回敬「我确实高效，但我要的是街道地址，不是五星好评」",
-   "anchor": "summoned as a municipal taxi service",
-   "start": 593,
-   "end": 629
+   "fact": "酒吧醒来发现旁边不是出租车司机，窘迫想坐直",
+   "anchor": "Yna squeaked, her voice an octave higher than usual.",
+   "start": 639,
+   "end": 691
   },
   {
-   "fact": "起身失败甩锅地基「结构性危险」；他扶稳她宣布「你谁都别叫——我送你回家」；她抓着他的大衣袖子像抓救生索",
-   "anchor": "The foundation of this establishment is uneven",
-   "start": 2353,
-   "end": 2399
+   "fact": "她想叫真出租，Kai 抓手臂说送她回家，交钥匙给 Thomas 开回车",
+   "anchor": "Kai interrupted gently, his grip on her arm warm and unyielding.",
+   "start": 2748,
+   "end": 2812
   },
   {
-   "fact": "保密条款：敢告诉办公室任何人就把你写进下一本书当被沼泽九头蛇活吃的小反派——他答「已记录在案」",
-   "anchor": "eaten alive by a swamp hydra",
-   "start": 3410,
-   "end": 3438
+   "fact": "车里她说多数人会叫 Uber 回顶层，他答我不是大多数人",
+   "anchor": "Kai glanced at her in the rearview mirror, his profile silhouetted",
+   "start": 5984,
+   "end": 6050
   },
   {
-   "fact": "车上她担心明早会后悔每一秒；抱怨「大多数人会把我丢在卡座或叫个 Uber 就回顶层公寓」——他只答「我不是大多数人」；两分钟内她睡死",
-   "anchor": "I'm not most people.",
-   "start": 6114,
-   "end": 6134
+   "fact": "到家他从手套箱拿亚麻手帕擦她嘴角，低语她真是一团糟",
+   "anchor": "Kai reached into the glove compartment, retrieved a clean linen handkerchief",
+   "start": 7400,
+   "end": 7476
   },
   {
-   "fact": "他停车看她：无作者盔甲、无妈妈人设、嘴角一点口水；用手帕羽量级轻拭下巴，低语「你是个彻底的灾难，Yna Martinez」——深情浓到自己都被吓到",
-   "anchor": "an affection so deep and unguarded it startled him.",
-   "start": 7693,
-   "end": 7744
+   "fact": "次晨 6:30 闹钟如炮弹，7:15 下楼装火鸡三明治",
+   "anchor": "the alarm on Yna",
+   "start": 7789,
+   "end": 7805
   },
   {
-   "fact": "次晨记忆雪崩：她拽他羊毛大衣翻领把他拉下来、含糊宣布「这是你的奖励」，响亮而明显蓄意地吻上他的唇——「你真是个贴心的王子」随即昏死；他没回吻、只拨开她额发掖好被角；Elizabeth 站在卧室门口手机掏到一半目击全程",
-   "anchor": "planting a loud, unmistakably deliberate kiss straight onto his lips.",
-   "start": 12435,
+   "fact": "14 岁 Elizabeth 进厨房摇头叹气你完全没救了，坐下涂面包",
+   "anchor": "Elizabeth let out a long, heavy sigh, shaking her head.",
+   "start": 8990,
+   "end": 9045
+  },
+  {
+   "fact": "9:00 到 40 楼，Kai 站她桌旁放冰水/两片布洛芬/热姜柠茶",
+   "anchor": "Standing over her desk in an impeccably tailored charcoal suit was Kai Rhodes.",
+   "start": 11011,
+   "end": 11089
+  },
+  {
+   "fact": "【转折】她记起昨夜醉后让 Kai 抱上楼、称我的黑王子并主动吻唇，14 岁 Elizabeth 全程在场",
+   "anchor": "before planting a loud, unmistakably deliberate kiss straight onto his lips.",
+   "start": 12428,
    "end": 12504
-  },
-  {
-   "fact": "次晨厨房 Elizabeth 判词「妈妈你彻底没救了」+黄油刀一挥不解释；送学时她给出最后一个了然的坏笑——「我不知道她知道什么，但我恨它」",
-   "anchor": "Mom... you are completely hopeless.",
-   "start": 9047,
-   "end": 9082
-  },
-  {
-   "fact": "办公室：他送来矿泉水+布洛芬+姜柠茶；她想起一切后自转对墙装死；他憋笑说「吃药吧，Yna」，临走补刀「你的黑暗王子现在离开了」——她趴桌发出穷途尖叫",
-   "anchor": "Your dark prince will leave now.",
-   "start": 13891,
-   "end": 13923
   }
  ]
 }

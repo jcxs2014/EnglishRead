@@ -4,82 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch18_chapter_18_unscripted_vulnerability.txt",
  "facts": [
   {
-   "fact": "编辑 Sarah 验收 ch1-19 印刷稿：围城段落节奏惊人，印刷截稿期无忧；作者自认「最近加了不少班」",
-   "anchor": "\"You're doing incredible work, Ms. Martinez,\" Sarah beamed",
-   "start": 598,
-   "end": 656
+   "fact": "编辑 Sarah 带 ch1-19 打印稿称赞围城节奏，说能赶上印刷期限",
+   "anchor": "The pacing in the siege sequence is breathtaking",
+   "start": 704,
+   "end": 752
   },
   {
-   "fact": "办公室独处时翻手机：父母数月未联系、兄弟姐妹无消息——只有水电账单提醒和燕麦奶特价通知",
-   "anchor": "Just an automated utility bill reminder",
-   "start": 1591,
-   "end": 1630
+   "fact": "Marcus 拿平板给三个封面方案，营销偏日蚀美术偏碎冠",
+   "anchor": "the design team just sent over the preliminary cover treatments",
+   "start": 2980,
+   "end": 3043
   },
   {
-   "fact": "模拟采访开题：批评家说她的写作反映个人生活里挥之不去的孤独——她答「生活确实很孤独，尤其一切崩塌后的头几年，只有我和三个求生的孩子」",
-   "anchor": "Question one",
-   "start": 6321,
-   "end": 6333
+   "fact": "Yna 建议兜帽人物手捧碎冠合并，视觉更强",
+   "anchor": "the hooded figure holding the broken crown—would be much stronger visually",
+   "start": 3822,
+   "end": 3896
   },
   {
-   "fact": "追问直插要害——写作中的浪漫是想填补生活的空洞还是给读者的警告；Kai 下颚锁死、手指把纸捏出褶",
-   "anchor": "Is the romance in your writing an attempt to fill an empty void in your life",
-   "start": 7979,
-   "end": 8055
+   "fact": "Marcus 带她进 Kai 办公室让他扮咄咄逼人记者做模拟采访",
+   "anchor": "You play the aggressive, boundary-pushing journalist",
+   "start": 5238,
+   "end": 5290
   },
   {
-   "fact": "一滴热泪落下：「起初……是的，我曾希望自己能消失进我造的世界——那会比活在这个世界里容易得多」",
-   "anchor": "It would have been so much easier than living in this one.",
-   "start": 8862,
-   "end": 8920
+   "fact": "尖锐私生活问题下她承认想逃进自造世界，一滴泪滑落",
+   "anchor": "A single, hot tear spilled over her lower lid",
+   "start": 8780,
+   "end": 8825
   },
   {
-   "fact": "纸巾盒滑落，Kai 撂下西装裤跪到地毯上接住她的手；她贴上他肩头，多年耗竭孤独与积压的悲恸一阵阵涌出——他把一只手按实她后腰",
+   "fact": "Kai 中止模拟跪在她身边抱住她不让她道歉",
    "anchor": "He dropped to his knees beside her",
    "start": 10360,
    "end": 10394
   },
   {
-   "fact": "Marcus 送咖啡推门看见 CEO 跪地抱着哭泣的 Yna，无言退场锁门；Kai 心口的保护欲彻底压过他自写的每一条职业守则",
-   "anchor": "You don't owe anyone an apology for this.",
-   "start": 11355,
-   "end": 11396
+   "fact": "Kai 命 Marcus 起草指令把私生活/婚史/家庭/感情问题永久禁问",
+   "anchor": "Draft a formal directive to the PR firm",
+   "start": 16469,
+   "end": 16508
   },
   {
-   "fact": "她惊觉哭湿了他的定制衬衫；他指着心口那块深色湿渍给出淡笑——「只是件衬衫。做人类不必道歉。对我而言。」",
-   "anchor": "And you never have to apologize for being human. Not to me.",
-   "start": 13138,
-   "end": 13197
-  },
-  {
-   "fact": "车库送别：他要求到家发短信——「这不是请求」；他站定想：情感依恋曾是另一种负债，而她让他想保护她的冲动大于责任",
-   "anchor": "That's not a request, Ms. Martinez.",
-   "start": 14147,
-   "end": 14182
-  },
-  {
-   "fact": "回办公室他把 PR 问卷捏成团砸进 Marcus 怀里——个人生活/婚姻史/家庭背景/关系状态全部永久禁问；访谈一旦涉及私人生活立即终止",
-   "anchor": "strictly, permanently off-limits",
-   "start": 16703,
-   "end": 16735
-  },
-  {
-   "fact": "夜里淋浴时记忆碎片不请自来：哭到喉咙出血、深夜空路吼进方向盘、手铐冰冷的声响、法槌闷响、被指控未做之事且陌生人先定罪后才听她申辩",
-   "anchor": "The cold, sickening clink of handcuffs.",
-   "start": 19663,
-   "end": 19702
-  },
-  {
-   "fact": "她对黑屋自证「你是好妈妈、有成就的作者、你活下来了」——然后意识到一件从未允许自己考虑的事：活着不等于生活",
-   "anchor": "Survival wasn't the same as living.",
-   "start": 20656,
-   "end": 20691
-  },
-  {
-   "fact": "晚间咖啡馆：Maya 携「惊喜」登场——Chloe 走进门；Kai 全身锁死吐出她的名字；Marcus 目光在两人间往返——灾难几何学合拢：哦，糟了",
-   "anchor": "his fingers lightly brushing the damp fabric",
-   "start": 17219,
-   "end": 17263
+   "fact": "【转折】晚间咖啡馆 Maya 带 Chloe 来——Kai 过去的定义性篇章医生，也是今早和 Yna 分甜甜圈的人，Marcus 暗叫不妙",
+   "anchor": "who had spent her morning sharing laughs and donuts with Yna Martinez",
+   "start": 22917,
+   "end": 22986
   }
  ]
 }

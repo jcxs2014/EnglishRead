@@ -4,52 +4,52 @@
  "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch04_chapter_4_out_of_her_element.txt",
  "facts": [
   {
-   "fact": "Kai 豪宅晨间全按角度归位，但多年来头一次走神想起昨晚酒吧的女人——记得笑声和森林绿毛衣，不记得名字",
-   "anchor": "He remembered her laugh and the forest-green sweater, but not her name.",
-   "start": 991,
-   "end": 1062
-  },
-  {
-   "fact": "Marcus 通知：与 Yna Martinez 的会议定在 11 点，审最新手稿，地点是她喜欢的咖啡馆",
-   "anchor": "Meeting with Yna Martinez confirmed for 11:00 AM.",
+   "fact": "Marcus 通知 Kai：与 Yna Martinez 会面确认 11:00 AM，地点她指定的咖啡馆",
+   "anchor": "Meeting with Yna Martinez confirmed for 11:00 AM",
    "start": 1266,
-   "end": 1315
+   "end": 1314
   },
   {
-   "fact": "Kai 知道这个名字：黑暗奇幻作家、名声混乱、拒绝企业游戏；经纪人数月来催他把人签进更结构化的管理合同",
-   "anchor": "the dark fantasy author who had somehow become a household staple despite her chaotic reputation",
-   "start": 1498,
-   "end": 1594
+   "fact": "Yna 2:00 AM 交 Chapter 14 修改稿，附言先在纸上淌血才肯睡",
+   "anchor": "She sent them over at 2:00 AM, sir. Along with a note",
+   "start": 3322,
+   "end": 3375
   },
   {
-   "fact": "手稿修订凌晨 2 点送达，附言「需要往页面上放血」才能睡；她要求在她的老地方见面，称自己办公室是 hostile territory",
-   "anchor": "needed to bleed onto the page",
-   "start": 3386,
-   "end": 3415
-  },
-  {
-   "fact": "她的书连续 22 周在畅销榜；读者忠诚近乎邪教；Kai 评她「包在混乱里的金矿」；她躲避面对面会议三年",
-   "anchor": "Her books had stayed on the bestseller list for twenty-two consecutive weeks.",
+   "fact": "书连续 twenty-two 周畅销榜，读者忠诚近乎狂热，Kai 视为裹在混乱里的金矿",
+   "anchor": "Her books had stayed on the bestseller list for twenty-two consecutive weeks",
    "start": 4232,
-   "end": 4309
+   "end": 4308
   },
   {
-   "fact": "页边空白全是她的红笔狂草（魔法太多需更多血/让暗君更可怜）；Kai 定性 messy、unprofessional、而 brilliant",
-   "anchor": "make the dark lord more pathetic.",
-   "start": 5061,
-   "end": 5094
+   "fact": "Kai 发问：三年回避面对面，为何现在同意",
+   "anchor": "She's been dodging face-to-face meetings for three years. What changed?",
+   "start": 4498,
+   "end": 4569
   },
   {
-   "fact": "送学路上 Elizabeth 嘲她 vibrating with stress；Yna 纠正「我不是震动，我是管理」；Lynne 讨价还价成功——晚饭吃塔可",
-   "anchor": "I am not vibrating, I am managing",
-   "start": 6273,
-   "end": 6306
+   "fact": "送学时 Lynne 为草莓果汁盒讨价还价，Michael 车道跳舞储备数学课能量",
+   "anchor": "I haven't finished my negotiation for the strawberry juice box!",
+   "start": 5865,
+   "end": 5928
   },
   {
-   "fact": "握手瞬间 Kai 认出：昨晚酒吧的女人=他追签三年的作者；他压住着迷只说 Your work is exceptional",
-   "anchor": "was the exact same woman who had been disrupting his thoughts all morning.",
-   "start": 12099,
-   "end": 12173
+   "fact": "8:45 AM 完成送学（答应 Lynne 晚饭 tacos），回家淋浴化妆换奶油衬衫",
+   "anchor": "She checked her watch. 8:45 AM. School drop-off was done.",
+   "start": 8272,
+   "end": 8329
+  },
+  {
+   "fact": "提前到 Tim Hortons 占窗边角桌赶稿，距 Kai 到达约 ninety 分钟",
+   "anchor": "About ninety minutes left until Kai Rhodes would arrive.",
+   "start": 10047,
+   "end": 10103
+  },
+  {
+   "fact": "【转折】握手瞬间 Kai 认出她是昨晚酒吧森林绿毛衣女子=追签三年的作者，而她未认出他",
+   "anchor": "The woman from last night. The elusive, brilliant dark fantasy author",
+   "start": 11988,
+   "end": 12057
   }
  ]
 }
