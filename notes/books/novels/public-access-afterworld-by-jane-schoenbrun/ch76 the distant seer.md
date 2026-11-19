@@ -20,13 +20,13 @@ modified: "2026-11-19"
 **读者视角提示**：对照 ch52 的 Marshall（also sucks）：两个被造的「孩子」都成了烂续集——本书的父母（创造者）永远不收回成品。
 
 > **原句 2:** "The Distant Seer."
-**中文理解**：遥远的观者。
+**中文理解**：「遥远的观者。」——四代 Fischer 变形的最终形态没有名字，只有功能：一个永远在看的东西。
 **关键词**：The Distant Seer
 **为什么这样写**：命名的终极交付：ch45 的教学（the static called it）在本章由 Bethany 亲眼验证——Fischer 四代变形的最终形态不是人而是「观看」本身。无名的最终状态（「no name accessible」）让本书的命名词典正式关卷：最后一个词条没有名字，只有功能。
 **读者视角提示**：对照 ch45 的 Distant Seer 教义与本章的实体：词与物终于配对—— Bethany 看见它时，它也在看她（ant holes pointing forever inwards）。
 
 > **原句 3:** "He never stops changing."
-**中文理解**：他永远在变。
+**中文理解**：「他永远在变。」——Marty 到 Elliot 到 Fisch 到 Jim，四代换脸、一次 never stops changing。
 **关键词**：never stops changing
 **为什么这样写**：变形的编制学：四代 Fischer（Marty→Elliot→Fisch→Jim）在同一具躯壳里轮流登场——本书的家族史在一段里走完。never stops changing 的判词与 ch34 的「What never stops changing but always remains static?」押同一韵：变的是衣服、不变的是底下那层。Fisch 的「ketchup wafting」细节回收 ch28 的体味线索。
 **读者视角提示**：对照 ch40 的「We're allies!」（Jim 的 Patreon 喊话）与本章的四代变形：Jim 的「盟友论」是他作为「中间代」的自保话术——全族从来只有一条产业链。
