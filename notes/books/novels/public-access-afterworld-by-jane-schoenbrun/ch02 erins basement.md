@@ -46,7 +46,7 @@ modified: "2026-11-19"
 > **原句 6:** "“And shows never have to end,” David tells her. “Unless we want them to. No more cancelations or series finales. We’ll be able to live in our favorite shows for as long or as short as we—”"
 **中文理解**：David 对 Erin 描绘百年后的电视：剧集永不完结，除非你想让它完结；不再有砍剧和终季——我们可以住进最爱的剧集里，想住多久住多久——
 **关键词**：series finales / live in our favorite shows
-**为什么这样写**：这句愿景在半个词的地方被切断（we—），切断它的正是那个吻：未来描述到「永不完结」处，现在闯了进来。少年乌托邦的具体条目（脑芯片、自选主演）是 2009 年流媒体元年的反向想象——"No more cancelations" 是被砍剧一代的创伤白皮书，说给 2026 年的读者听。
+**为什么这样写**：这句愿景在半个词的地方被切断（we—），切断它的正是那个吻：未来描述到「永不完结」处，现在闯了进来。少年乌托邦的具体条目（脑内芯片、纳米机器人）是 2009 年流媒体元年的反向想象——"No more cancelations" 是被砍剧一代的创伤白皮书，说给 2026 年的读者听。
 **读者视角提示**：这是全书题眼的第一次显形：「住进剧集里」不是比喻，是本书即将真实发生的情节机制。留意被打断的这半句话——后面会有剧集替他说完。
 
 > **原句 7:** "The utter obviousness of kissing your best friend on a beanbag in a basement in your shitty hometown on a Friday night near the end of junior year. Everything’s changed now. Analog television is over. Static reigns."
