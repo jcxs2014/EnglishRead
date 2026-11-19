@@ -1,0 +1,349 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch18 golf ball revolution.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch18_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Once you were done putting your way across all eighteen holes at the Turbo Putt, Lubbock’s premier mini golf course and ",
+          "ok": true,
+          "pos": 47
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "According to this final message board, everyone who was truly destined for Public Access Afterworld had a psychic connec",
+          "ok": true,
+          "pos": 4183
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Those people had been nice to Jules. And then, one day, they were gone from the world. Jules had read the news articles ",
+          "ok": true,
+          "pos": 5964
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Then, when the construction workers arrived to dig up the ground, the golf balls would launch their attack, starting the",
+          "ok": true,
+          "pos": 7148
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Jules sold golf balls to a dad and two little boys wearing matching yellow NASCAR tracksuits. The boys stared at Jules’s",
+          "ok": true,
+          "pos": 8554
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Jules had recently bought a pistol from Walmart for the next time those football fucks tried to visit. They kept their g",
+          "ok": true,
+          "pos": 13379
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "At the beginning of the first episode, the football kids would come to the golf course to cause trouble, and the golf ba",
+          "ok": true,
+          "pos": 14249
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "They got lost in it. It felt good, better and more enthralling than any of the drugs they’d taken all day. Once they wer",
+          "ok": true,
+          "pos": 16557
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Evil golf balls. What the fuck were they even thinking? That was some Toy Story bullshit. They felt embarrassed, even mo",
+          "ok": true,
+          "pos": 17325
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "They knew her from the internet. From her old videos on GlobalVill.com back when the girl had been younger and a boy. Th",
+          "ok": true,
+          "pos": 19184
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter 1（Episode Three: Pink Eye）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3515,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
