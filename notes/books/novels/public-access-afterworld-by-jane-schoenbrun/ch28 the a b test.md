@@ -32,7 +32,7 @@ modified: "2026-11-19"
 **为什么这样写**：死亡迁移被写成项目里程碑：cross overnight 的进行时把人的消失写成物流时效（24-36 小时，含延误赔付口吻）。on track to complete her— 的断句被 Fisch 的急躁剪断：她要完成的是什么（crossing？牺牲？），句子永远差最后一块拼图——本书用断句保持恐怖的悬置。Shailene 的自信（we feel confident）与上章的尸体同时在场：KPI 语言的快感中性。
 **读者视角提示**：记住「cross」这个词族：cross over / crossing / the other side of the screen——本书的死亡从不叫死亡，叫换乘。
 
-> **原句 4:** "He should have been bragging today about how he and his team had targeted potential “crooked” subjects based on demographic info and watch history, had served them job postings about entry-level positions in cities with GlobalVill campuses. How they’d hired the applicants who took the bait as content moderators, then triggered their symptoms via a custom algorithm designed to deploy video after video of exactly the sort of material most likely to infect them with Screen Sickness."
+> **原句 4:** "Fisch should have been bragging today about how he and his team had targeted potential “crooked” subjects based on demographic info and watch history, had served them job postings about entry-level positions in cities with GlobalVill campuses. How they’d hired the applicants who took the bait as content moderators, then triggered their symptoms via a custom algorithm designed to deploy video after video of exactly the sort of material most likely to infect them with Screen Sickness."
 **中文理解**：今天他本该在吹嘘：他和团队如何按人口学信息与观看历史锁定「crooked」候选者，向他们推送设有 GlobalVill 园区的城市的入门级岗位招聘；如何把上钩的应聘者雇为内容审核员，再用定制算法逐条投喂最可能让他们感染 Screen Sickness 的素材来触发症状。
 **关键词**：targeted / triggered
 **为什么这样写**：本季最大的谜底一句拆封：Bethany 的整段职业生涯是钓鱼工程的第二段鱼线——招聘广告是饵、审核岗位是钩、队列内容是毒。targeted（定向投放）与 triggered（触发）是广告业的原生动词：本书把广告语法直接用作人体实验语法。读者此刻回读 ch10 的面试、ch12 的队列，全部细节自动变成证词。
