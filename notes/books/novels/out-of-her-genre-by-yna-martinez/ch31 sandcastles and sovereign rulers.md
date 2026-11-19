@@ -24,7 +24,7 @@ modified: "2026-11-18"
 > **原句 2:** "Ten feet away, ten-year-old Michael was locked in high-stakes architectural warfare against the incoming lake wash. … “Kai! The eastern trench is collapsing!” Michael yelled, frantically scooping wet sand with a red plastic shovel. “The water’s going to breach the main gate! We need structural reinforcement!” … Kai calmly pushed the flamingo sunglasses up onto his dark hair, assessing the sand fortress with the exact same sharp precision he once used for multi-million-dollar corporate acquisitions. … “Divert the overflow into a secondary canal on the left, Michael,” Kai called out. “Build up the seawall with the heavier, wet sand from the break line. It’ll hold the foundation.” … Michael beamed, immediately digging the trench with renewed vigor. “Copy that!”"
 
 **中文理解**：「别动，Kai，」Lynne 以至高权威下令，把又一颗莱茵石按进他的指节。「公主在加冕典礼上不许乱动。」「抱歉，陛下，」Kai 毫不停顿地回答，低音里滴着十足的庄重。「我可不想损害皇冠珠宝的完整性。」……「Kai！东壕塌了！」Michael 边吼边用红塑料铲狂舉湿沙。「水要冲破主闸门了！我们需要结构加固！」Kai 平静地把火烈鸟墨镜推上头顶，用他当年评估数百万美元并购案的那副锋利精度评估沙堡。「把溢流引到左边第二条渠，Michael。用破浪线上更重的湿沙垒海堤。能撑住地基。」
-**关键词**：Princesses cannot wiggle / compromise the integrity of the crown jewels / structural reinforcement
+**关键词**：The eastern trench is collapsing! / Build up the seawall / Copy that!
 **为什么这样写**：两场游戏都是 Kai 的职场转写：加冕礼接的是他的合同腔（完整性/条款），沙堡战用的是他的并购语法（结构加固/评估精度）。他不必假装是另一个人——他把全部专业装备带进了游乐场。
 **读者视角提示**：记住「能撑住地基」——这句话对他新建的家庭同样成立。
 
@@ -52,14 +52,14 @@ modified: "2026-11-18"
 > **原句 6:** "Kai let out a low, rich chuckle that vibrated against her knees. He turned his head, resting his cheek against her palm, his dark eyes looking up at her with that unvarnished, breathtaking devotion that still made her pulse skip. … “Let it be ruined,” Kai murmured. … He looked toward the boardwalk, watching the three kids arguing animatedly over waffle cones by the window, before his gaze drifted back to her. … “I spent five years in that quiet glass penthouse thinking silence was the only way to find peace,” Kai said softly, his thumb tracing the curve of her wedding ring. “I was wrong. This is the only place I’ve ever felt at home.”"
 
 **中文理解**：「我在那间安静的玻璃顶层公寓里待了五年，以为寂静是找到和平的唯一途径，」Kai 轻声说，拇指描着她婚戒的弧线。「我错了。这才是我唯一有过家的感觉的地方。」……她俯身抱住他的肩。「好。因为没有退款，Rhodes。你被我们永久扣留了。」「这本就是计划，」他耳语。
-**关键词**：five years in that quiet glass penthouse / This is the only place I’ve ever felt at home. / there are no refunds, Rhodes
+**关键词**：five years in that quiet glass penthouse / This is the only place I’ve ever felt at home.
 **为什么这样写**：他的五年寂静在此正式结案：家的定义从隔音改成喧闹。她的「没有退款」把合同母题用到底——这次合同没有退出条款；他的「这本就是计划」把全书追她的每一步追认为预谋。
 **读者视角提示**：记住「永久扣留」——她当年被婚姻囚住的感觉，如今被他自愿的扣留替换。
 
 > **原句 7:** "The last lingering shadows of old doubts dissolved entirely into the afternoon sun. … Yna leaned down, slipping her arms around his shoulders. “Good. Because there are no refunds, Rhodes. You're permanently stuck with us.” … “That was always the plan,” he whispered. … Kai reached up, cupping the nape of her neck, and pulled her down into a slow, lingering kiss that tasted of sweet tea, sunshine, and absolute certainty."
 
 **中文理解**：「Kai！看！」Michael 胜利的吼声从栈桥台阶传来，他举着一只在暑热里已经开始飞快融化的双球甜筒狂奔回暖沙。「他们有火龙果旋纹口味！」两人带着上气不接下气的笑分开，额头抵着额头，迎着湖畔明亮的风。Kai 握紧她的手，微笑着看噪音、混乱与家人涌回来，把他们团团围住。
-**关键词**：DRAGON-FRUIT SWIRL! / their foreheads resting together / the family rushed back in to meet them
+**关键词**：there are no refunds, Rhodes / That was always the plan," he whispered.
 **为什么这样写**：全书最后一幕的画法：冰淇淋（会融的甜）打断吻（不散的甜），孩子们的声音像潮水回流——他曾经逃离的噪音，如今是他选择的家。额头相抵是两人全部肢体语言的落点。
 **读者视角提示**：记住「涌回来迎接他们」——寂静的敌人最终成了他的归处。
 

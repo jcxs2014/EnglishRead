@@ -73,14 +73,14 @@ modified: "2026-11-18"
 > **原句 9:** "Against her mouth, Kai let out a soft, breathless exhale, his lips parting into a faint, relieved smile. … His arm curved securely around her waist, drawing her flush against his chest, while his other hand slid upward, long fingers tangling into the soft hair at the nape of her neck."
 
 **中文理解**：仿佛地面在她磨旧的皮平底鞋下倾斜，Yna 俯身向前，双手滑上他宽阔的肩。对着她的唇，Kai 漏出一声轻软、上气不接下气的呼气，唇形绽成一丝如释重负的浅笑。他的手臂稳稳环上她的腰，把她贴进胸口，另一只手向上滑，修长的手指插进她颈后柔软的发里。然后，他又吻了她。这一次，深、绵长、毫无保留，扫走每一丝残留的疑虑与没说出口的恐惧。
-**关键词**：a faint, relieved smile / tangling into the soft hair / deep, lingering, and unreserved
+**关键词**：a faint, relieved smile / tangling into the soft hair at the nape of her neck
 **为什么这样写**：他的「如释重负」是全章最真的台词：追了六街区、攒了几周的渴望在第二个吻里卸货。从轻吻到深吻的递进由她的俯身发起——这次先靠近的人是她。
 **读者视角提示**：记住「毫无保留」——克制了一整本书的男人，终于把配额清空。
 
 > **原句 10:** "Then, he kissed her again. … This time, it was deep, lingering, and unreserved, sweeping away every lingering doubt and unspoken fear. The autumn chill evaporated completely, replaced by the solid rhythm of his heartbeat beneath her hands, the warmth of his mouth, and the undeniable truth that neither of them was running anymore."
 
 **中文理解**：秋天的寒意彻底蒸发，取而代之的是她掌下他心跳的沉稳节律、他唇间的温度，以及那个无可否认的事实：两个人都不再逃了。
-**关键词**：the autumn chill evaporated completely / the solid rhythm of his heartbeat / neither of them was running anymore
+**关键词**：This time, it was deep, lingering, and unreserved / the autumn chill evaporated completely / neither of them was running anymore
 **为什么这样写**：收尾三件套（寒意蒸发/心跳入掌/不再逃跑）是全书的总账：物理（温度）、生理（心跳）、叙事（逃跑终止）同时结清。她追逃、他追她、两人追自己——到此全部归位。
 **读者视角提示**：记住「都不再跑了」——从 ch01 的厨房逃亡到此刻的河边驻足，全书的动作线在此收官。
 
