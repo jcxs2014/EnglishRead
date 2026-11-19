@@ -69,7 +69,7 @@ modified: "2026-11-19"
 **为什么这样写**：女巫的「罪名」二审定谳——喜剧装置升级为关系证物；手的三次擦过是「假装意外」的法定豁免期结束；牵手＞接吻的悖论判词（亲密度的重估）是本段最妙的一笔：身体接触的层级被情感重新标价。
 **读者视角提示**：记住「第三次」——她的许可也是渐进式的：一次默许、两次纵容、三次成交。
 
-> **原句 9:** "The old willow came into view at the edge of the original town square. This time, we walked toward it. … Calling it a tree didn’t feel sufficient anymore. Its trunk was wider than both of us could’ve wrapped our arms around, twisted and scarred by more years than anyone seemed able to agree on. … twisted and scarred by more years than anyone seemed able to agree on."
+> **原句 9:** "The old willow came into view at the edge of the original town square. This time, we walked toward it. … Calling it a tree didn’t feel sufficient anymore. Its trunk was wider than both of us could’ve wrapped our arms around, twisted and scarred by more years than anyone seemed able to agree on."
 
 **中文理解**：老柳树出现在老城广场边缘——这一次，他们朝它走去；叫它「一棵树」已经不够了：树干粗得两人合抱也围不拢，扭曲带疤，年纪连镇上人都说不拢；最低的枝条扫向地面再扬起，织成一道随风而动的窄叶帘；「一棵树」三个字已经装不下它——扭曲与疤痕比镇史还难断代。
 **关键词**：walked toward it. / twisted and scarred by more years / Calling it a tree / didn’t feel sufficient anymore
@@ -130,7 +130,7 @@ modified: "2026-11-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| condensation | （杯壁）凝结的水珠 | Rosie traced one finger through the condensation on her glass. |
+| socket | （义肢）接受腔 | “Socket’s been giving me hell since yesterday. Don’t feel like crawling underneath the truck.” |
 | brim | （帽）檐 | He wore faded jeans, a dark T-shirt, and a ball cap pulled low enough that the brim shadowed most of his face. |
 | teased | 取笑，嘲笑（tease 的过去式） | Jax and I had teased Clover mercilessly for believing a tree could remember anything. |
 | old-fashioned | 老式的，旧式的 | There were benches beneath the branches and an old-fashioned lamp nearby that cast warm light over the carvings covering nearly every reachable inch of bark. |
