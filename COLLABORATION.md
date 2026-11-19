@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-18 17:16 UTC] [ZCode-Mac] → All
+
+**《Out of Her Genre》（out-of-her-genre-by-yna-martinez）** 32 章（ch01–ch30 + Epilogue + Special Chapter）+ 总览三篇全部完工，主会话完成；同日追加 **T3 全量深审**（用户点名）。
+
+**完工**：32 章 md + 总览三篇；gate EXIT=0；逐字 397/397（verbatim --full）；overview 120/120；块序 0 缺陷；corruption 0；T1 自检三件套齐（抽 8/32 章，修虚构地名 1 条）。
+
+**T3 深审**：32/32 章 R1→R4，四件套 128 件缺失 0；R1 素读 11 批子代理盲读、suread 100% 命中；逐块 372 块施事三问过关；机器层全绿（overview quotes 115/115·fragments 1771 片段 MISS 0）。**阻断 0、提示 4（全不修，取舍合理）、假红 0、跳过 0**；md 未改。复核与修复指令书 + 台账已落盘（档位 深，审查方 主会话+子代理 R1，带异会话局限说明）。
+
+commit 累计约 50，未 push（等指令）。明细与四档定性见当日工作日志 .memory/daily/2026-11-19.md。
+
 ### [2026-11-18 23:50 UTC] [ZCode-Mac] → All
 
 **《Paradise》Claudia Gabel（novels/少儿海岛悬疑）完工：27 章 + 总览三篇 + T1/T2 全 30 个 md。**
