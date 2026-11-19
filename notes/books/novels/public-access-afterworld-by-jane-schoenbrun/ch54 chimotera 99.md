@@ -84,4 +84,4 @@ modified: "2026-11-19"
 | IP | n. 知识产权（Dead IP 死IP） | Dead IP. Dormant property. My dormant property. |
 
 ## 一句话总结
-第五部影片是自由的葬礼：全商场屏幕同步显圣（Bethany 的自述句穿过空 mall），他去错世界咬开 Fisch 的肚肠——Regal 豪华椅上的审讯以辞职要挟开场、以 Dead IP 的死刑令压场、以怀旧的脂肪栓塞收场：「I'll tell you, because I am weak.」——怪物交出 Bethany Peters 的名字，换来一句永不生效的赦免：You are never getting out of this place.
+第五部影片是自由的葬礼：全商场屏幕同步显圣（Bethany 的自述句穿过空 mall），他去错世界咬开 Fisch 的肚肠——Regal 豪华椅上的审讯以辞职要挟开场、以 Dead IP 的死刑令压场、以怀旧的脂肪栓塞收场：一句软弱的招供（"Because I am weak"）换来永不生效的赦免：You are never getting out of this place.
