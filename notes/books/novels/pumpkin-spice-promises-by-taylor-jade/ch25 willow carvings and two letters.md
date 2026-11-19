@@ -90,7 +90,7 @@ modified: "2026-11-19"
 **为什么这样写**：「被树吞掉的字」与「认得出的 J」同框——时间想抹的，她凭一笔拐弯认了回来；「像被人追着写」的歪字让祖父从照片里走出成少年——树完成了记忆的考古挖掘；本章题眼在此落地：她第一次看见 Pops 的「之前」。
 **读者视角提示**：记住那个歪 J——五十年后有人凭一个字母认出你，就是永恒的本地实现。
 
-> **原句 12:** "Eventually she noticed the small wooden box attached to the inside of the fence. “What’s that?” … “Carving knife.” … She stared at me in surprise. “Willow Creek supplies a weapon?” … “It’s attached to a steel cable.” … “Oh, well. Completely safe then.” … “It wasn’t enough.” … “No,” I agreed, wondering how any amount of time with the person you love is ever enough."
+> **原句 12:** "“It wasn’t enough.” … “No,” I agreed, wondering how any amount of time with the person you love is ever enough. … Eventually she noticed the small wooden box attached to the inside of the fence. “What’s that?” … “Carving knife.” … She stared at me in surprise. “Willow Creek supplies a weapon?” … “It’s attached to a steel cable.” … “Oh, well. Completely safe then.”
 
 **中文理解**：她注意到栏内侧挂着的小木盒：那是什么？刻刀；她惊讶地瞪着他：Willow Creek 还配发凶器？——拴在钢缆上；哦，那当然安全了；她望着树说：不够；他同意——想着和所爱之人在一起的时间，多少才算够。
 **关键词**：supplies a weapon? / attached to a steel cable. / It wasn’t enough. / ever enough
