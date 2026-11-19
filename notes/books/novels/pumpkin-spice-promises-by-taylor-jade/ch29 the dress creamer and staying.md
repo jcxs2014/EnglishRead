@@ -90,7 +90,7 @@ modified: "2026-11-19"
 **为什么这样写**：「展示→舒服」的动词升级是本章最重的一句：身体在爱人面前第一次获得「居住权」；「等那丝迟疑」的负清单（好奇/不适/怜悯）与前文旧剧本呼应，正片没有播。
 **读者视角提示**：记住「舒服」——身体主权从牧场延伸到卧室，全程零观众。
 
-> **原句 12:** "“You don’t have to be careful with me.” … “I know.” His brow furrowed. … There was no speech about how beautiful I was. No promise that he didn’t care. No pretending the leg sitting beside his nightstand wasn’t there. … He still wanted me. … I waited for the flicker of hesitation, that tiny shift I’d learned to recognize in a man’s face when attraction gave way to something else. … “Promise you won’t look at me differently?” … His expression softened. “Carson.” My name was a breathless groan from his lips. “I promise.”"
+> **原句 12:** "I waited for the flicker of hesitation, that tiny shift I’d learned to recognize in a man’s face when attraction gave way to something else. … “You don’t have to be careful with me.” … “I know.” His brow furrowed. … There was no speech about how beautiful I was. No promise that he didn’t care. No pretending the leg sitting beside his nightstand wasn’t there. … He still wanted me. … “Promise you won’t look at me differently?” … His expression softened. “Carson.” My name was a breathless groan from his lips. “I promise.”"
 
 **中文理解**：你不必小心；我知道——他眉头皱起；没有「你真美」的演讲、没有「我不在乎」的保证、没有假装床头柜旁那条腿不存在；他仍然想要她；她仍等着那丝迟疑——那种吸引让位时的微小换脸；别用不一样的眼神看我——答应我；他柔了声：Carson——她的名字是他唇间一声气音——我答应。
 **关键词**：don’t have to be careful with me / No pretending / He still wanted me. / I promise.
