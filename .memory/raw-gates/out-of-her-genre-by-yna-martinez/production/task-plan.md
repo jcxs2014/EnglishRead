@@ -42,7 +42,7 @@
 | 26 | ch26_chapter_26 | 1739 | The Unscripted Title | ded09c705 |
 | 27 | ch27_chapter_27 | 2031 | The Floral Handover | 33f557a37 |
 | 28 | ch28_chapter_28 | 1565 | Pure Fiction | cbe7ba5f5 |
-| 29 | ch29_chapter_29 | 1307 | The Edge of the River | |
-| 30 | ch30_chapter_30 | 1211 | Round Tables and Red Bean Buns | |
-| 31 | ch31_epilogue | 1003 | Epilogue · Sandcastles and Sovereign Rulers | |
-| 32 | ch32_special_chapter | 863 | Special Chapter · Sovereign of Fiction | |
+| 29 | ch29_chapter_29 | 1307 | The Edge of the River | e55926a6b |
+| 30 | ch30_chapter_30 | 1211 | Round Tables and Red Bean Buns | 432c8b064 |
+| 31 | ch31_epilogue | 1003 | Epilogue · Sandcastles and Sovereign Rulers | cede668d1 |
+| 32 | ch32_special_chapter | 863 | Special Chapter · Sovereign of Fiction | cede668d1 |
