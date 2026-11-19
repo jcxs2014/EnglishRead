@@ -23,7 +23,7 @@ modified: "2026-11-19"
 > **原句 2:** "It's her first assessment tomorrow. Today, for her. Fuck. Time changes are a pain in the ass. … Bailey promised he and Gina would support her, but I should be there. I should be looking after Bailey and making Flora feel safe."
 
 **中文理解**：时差让他多熬一天——她那边「今天」就是首次评估；Bailey 和 Gina 会陪她，可他该在场：该照顾 Bailey、该让她安心——不为她需要，只因他喜欢能为她做这些。
-**关键词**: Today, for her / Time changes are a pain in the ass / I should be there / I just like being able to do that for her
+**关键词**: Today, for her / Time changes are a pain in the ass / I should be there / making Flora feel safe
 **为什么这样写**：时差被骂成「混蛋」——因为它的每一分钟都在提醒他缺席。like being able to do that for her 的坦白：照护是他的爱好，不是义务。
 **读者视角提示**：记住「今天，对她而言」——一个日期被两个半球撕成两天。
 

@@ -65,7 +65,7 @@ modified: "2026-11-19"
 > **原句 8:** "“Okay. Oh, and we can’t bring any hookups home,” I say. “Either of us.” I glance at Bailey, pretending this is for his benefit, but it’s really just that I don’t want to watch men who aren’t good enough to be in Flora’s orbit hump her leg in my house."
 
 **中文理解**：他补上双向禁令：谁都不许把约会对象带回家——说是为了 Bailey，真实动机是他不想看任何配不上她的男人在她腿边蹭来蹭去。
-**关键词**：can't bring any hookups home / Either of us / not good enough to be in Flora's orbit
+**关键词**：can't bring any hookups home / Either of us / hump her leg in my house
 **为什么这样写**：条款的表里写满他的私心——orbit（轨道）一词把她放进引力中心：他在签合同，也在圈地。假装的立法者与真实的醋坛共用一支笔。
 **读者视角提示**：记住这条「轨道禁令」——合同最不专业的一条，最诚实。
 
@@ -82,6 +82,9 @@ modified: "2026-11-19"
 **关键词**：gave me her number / Gina Russo's phone number / pat him on the back / Baby steps
 **为什么这样写**：一次搭讪的战果被写成人生里程碑——他用孩子的胜利给自己补课。Baby steps 承认了时间的现实：重建不是跳远，是学步。
 **读者视角提示**：记住这三个词——它们是这对父子线的施工口号。
+
+## 一句话总结
+披萨桌把三个人的家写进一张餐巾纸：她收下五百月薪与「不许调情」条款，Bailey 用「养猫条款」替她清算童年债务——Gina 突袭拿到号码，Baby steps。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

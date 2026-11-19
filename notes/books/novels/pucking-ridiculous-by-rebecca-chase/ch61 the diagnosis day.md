@@ -27,11 +27,6 @@ modified: "2026-11-19"
 **为什么这样写**：明信片是她等待时的护身符——他的字比任何通知都先镇住她的心跳。And I am 三词收束：他把强加给她的评价，她自己签收了。
 **读者视角提示**：记住「So fucking strong」——Max 不在场，但他按下了她的勇气按钮。
 
-**中文理解**：等待结果的视线落在 Max 的明信片上——正面印着「什么都怕，但还是做了」；背面她倒背如流，此刻盯住的一句是：So fucking strong。我确实是。
-**关键词**: Scared of everything, but doing it anyway / So fucking strong / And I am
-**为什么这样写**：明信片是她等待时的护身符——他的字比任何通知都先镇住她的心跳。And I am 三词收束：他把强加给她的评价，她自己签收了。
-**读者视角提示**：记住「So fucking strong」——Max 不在场，但他按下了她的勇气按钮。
-
 > **原句 3:** ""My AuDHD was confirmed by private assessments; the results came in this morning." … "How would you feel about joining us once you've got the right safeguarding and other certificates? We want you to support our neurodivergent students and to ensure we're improving in this area.""
 
 **中文理解**：副校长约谈的真实目的浮出：校长室一战后的自我检讨——对神经多样学生要做得更多；邀请她考取 safeguarding 证书后加入，每周两天支持学生。

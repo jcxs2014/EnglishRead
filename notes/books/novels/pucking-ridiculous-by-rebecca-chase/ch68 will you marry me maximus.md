@@ -23,7 +23,7 @@ modified: "2026-11-19"
 > **原句 2:** ""No really. He's actually my dad.""
 
 **中文理解**：Bailey 的应援牌两行：大字「Come on, Daddy Max」——小字「不骗你，他真是我爸」。
-**关键词**: Come on, Daddy Max / No really. He's actually my dad
+**关键词**: No really. He's actually my dad
 **为什么这样写**：小字是少年的认证章——外号被血缘事实接管。Daddy Max 从队友玩笑到法定身份，全书的外号史在此收官。
 **读者视角提示**：记住这行「他真是我爸」——ch53 的 Dad 口误，如今被写在举牌上公示。
 

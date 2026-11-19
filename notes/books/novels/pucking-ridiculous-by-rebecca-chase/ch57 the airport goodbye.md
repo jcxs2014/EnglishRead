@@ -44,7 +44,7 @@ modified: "2026-11-19"
 > **原句 5:** "I repeat over and over in my head, I love you, Max. I'll always love you. But I can't say it. I can't cross that line even when we're saying goodbye. … Which is pointless, because no man will ever compare to Max Morin."
 
 **中文理解**：她在脑内循环：我爱你 Max、会一直爱——但说不出；连告别时都跨不过那条线；不可能有人像她爱他那样去爱别人——这就是她的终点。而这句比较毫无意义，因为没有男人能和 Max Morin 比。
-**关键词**: over and over in my head / can't cross that line / This is it for me / no man will ever compare
+**关键词**: over and over in my head / can't cross that line / always love you / no man will ever compare
 **为什么这样写**：爱的独白只在颅内播放——她的「不能说」与 ch56 的「说不出」一脉相承：那条线不是不想跨，是恐惧太多。no man will ever compare 是她的私人判词，也是全书爱情线的封顶石。
 **读者视角提示**：记住这串「颅内循环」——总览里她的 I love you，要等到 epilogue 才补上。
 

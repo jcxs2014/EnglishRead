@@ -43,6 +43,8 @@ modified: "2026-11-19"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| hockey team | 冰球队 | features a hockey team that plays in the National Ice Hockey League, the second tier of the British Ice Hockey league. |
+| Thank you | 谢谢（致读者） | Thank you for reading Flora and Max’s story. |
 
 ## 一句话总结
 作者前言把两件事交代清楚：冰球世界是虚构的，Flora 的神经多样性经验是真实的——前者允许失真，后者拒绝猎奇，这是全书预付给读者的信任契约。

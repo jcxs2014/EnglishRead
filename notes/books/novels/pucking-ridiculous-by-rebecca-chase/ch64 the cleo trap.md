@@ -58,7 +58,7 @@ modified: "2026-11-19"
 > **原句 7:** ""Meet Cleo. She's just come into her inheritance and has chatted to Ted, a.k.a. EJ, a.k.a. Jack, for the past week. She's collected all the messages to help prove what he's up to." … "We've evidence of him working, and Kalen spoke to some of the women he's taken money from who are keen to give their statements and evidence to the police.""
 
 **中文理解**：Cleo 陷阱揭幕：Amber 化名「刚继承遗产的 Cleo」钓了 Ted 一周、留下全部证据；Kalen 的黑客朋友查实他在工作——多名受害女性愿意向警方作证，Mel 若也作证即可逮捕。
-**关键词**: Cleo / a.k.a. EJ, a.k.a. Jack / collected all the messages / evidence of him working / get him arrested
+**关键词**: Cleo / a.k.a. EJ, a.k.a. Jack / collected all the messages / evidence of him working
 **为什么这样写**：钓鱼执法用奶娃当道具——最温馨的画面配最狠的陷阱。三名一档（Ted/EJ/Jack）的诈骗史被证据链串成判决书。
 **读者视角提示**：记住「Cleo」——下一章的鱼，正在咬钩。
 
