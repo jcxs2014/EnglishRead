@@ -13,83 +13,83 @@
 
 | 章 | 书内标题 | 词数 | 状态 | commit |
 |---|---|---|---|---|
-| ch01 | Foreword | 1,339 | 试产中 | |
-| ch02 | Ep1 Ch1 | 2,545 | 待写 | |
-| ch03 | Ep1 Ch2 | 2,372 | 待写 | |
-| ch04 | Ep1 Ch3 | 2,301 | 待写 | |
-| ch05 | Ep1 Ch4 | 1,497 | 待写 | |
-| ch06 | Ep1 Ch5 | 2,076 | 待写 | |
-| ch07 | Ep1 Ch6 | 2,575 | 待写 | |
-| ch08 | Ep1 Ch7 | 1,416 | 待写 | |
-| ch09 | Ep1 Ch8 | 581 | 待写 | |
-| ch10 | Ep2 Ch1 | 2,865 | 待写 | |
-| ch11 | Ep2 Ch2 | 1,230 | 待写 | |
-| ch12 | Ep2 Ch3 | 1,659 | 待写 | |
-| ch13 | Ep2 Ch4 | 2,209 | 待写 | |
-| ch14 | Ep2 Ch5 | 1,960 | 待写 | |
-| ch15 | Ep2 Ch6 | 1,419 | 待写 | |
-| ch16 | Ep2 Ch7 | 2,381 | 待写 | |
-| ch17 | Ep2 Ch8 | 763 | 待写 | |
-| ch18 | Ep3 Ch1 | 3,515 | 待写 | |
-| ch19 | Ep3 Ch2 | 2,464 | 待写 | |
-| ch20 | Ep3 Ch3 | 2,106 | 待写 | |
-| ch21 | Ep3 Ch4 | 2,010 | 待写 | |
-| ch22 | Ep3 Ch5 | 899 | 待写 | |
-| ch23 | Ep3 Ch6 | 2,491 | 待写 | |
-| ch24 | Ep3 Ch7 | 789 | 待写 | |
-| ch25 | Ep3 Ch8 | 1,150 | 待写 | |
-| ch26 | Episode Four: Chicago（单件） | 13,278 | 待写 | |
-| ch27 | Ep5 Ch1 | 2,056 | 待写 | |
-| ch28 | Ep5 Ch2 | 2,499 | 待写 | |
-| ch29 | Ep5 Ch3 | 3,130 | 待写 | |
-| ch30 | Ep5 Ch4 | 3,117 | 待写 | |
-| ch31 | Ep5 Ch5 | 2,847 | 待写 | |
-| ch32 | Ep5 Ch6 | 2,296 | 待写 | |
-| ch33 | Ep5 Ch7 | 3,635 | 待写 | |
-| ch34 | [Midseason Hiatus] | 715 | 待写 | |
-| ch35 | Ep6 Ch1 | 3,670 | 待写 | |
-| ch36 | Ep6 Ch2 | 1,516 | 待写 | |
-| ch37 | Ep6 Ch3 | 3,735 | 待写 | |
-| ch38 | Ep6 Ch4 | 2,466 | 待写 | |
-| ch39 | Ep6 Ch5 | 1,432 | 待写 | |
-| ch40 | Ep6 Ch6 | 1,040 | 待写 | |
-| ch41 | Ep7 Ch1 | 1,016 | 待写 | |
-| ch42 | Ep7 Ch2（页码 bleed 避粘连） | 2,677 | 待写 | |
-| ch43 | Ep7 Ch3 | 1,705 | 待写 | |
-| ch44 | Ep7 Ch4 | 1,436 | 待写 | |
-| ch45 | Ep7 Ch5 | 3,389 | 待写 | |
-| ch46 | Ep7 Ch6 | 2,599 | 待写 | |
-| ch47 | Ep7 Ch7 | 1,255 | 待写 | |
-| ch48 | Ep7 Ch8 | 2,771 | 待写 | |
-| ch49 | Ep7 Ch9 | 687 | 待写 | |
-| ch50 | Ep8: Chimotera! (1944) | 2,506 | 待写 | |
-| ch51 | Ep8: The Bride of Chimotera! (1946) | 2,497 | 待写 | |
-| ch52 | Ep8: Son of Chimotera! (1948) | 2,514 | 待写 | |
-| ch53 | Ep8: Chimotera! Meets Abbott and Costello (1949) | 2,026 | 待写 | |
-| ch54 | Ep8: Chimotera! '99 (1999) | 2,150 | 待写 | |
-| ch55 | Ep9: 2:49 a.m. | 1,504 | 待写 | |
-| ch56 | Ep9: 2010 | 3,017 | 待写 | |
-| ch57 | Ep9: 5:31 a.m. | 1,372 | 待写 | |
-| ch58 | Ep9: 2012 | 1,936 | 待写 | |
-| ch59 | Ep9: 8:11 a.m. | 2,397 | 待写 | |
-| ch60 | Ep9: 2018 | 1,022 | 待写 | |
-| ch61 | Ep9: 9:41 a.m.（页码 bleed 避粘连） | 2,328 | 待写 | |
-| ch62 | Ep9: 2026 | 610 | 待写 | |
-| ch63 | Ep9: 11:51 a.m. | 976 | 待写 | |
-| ch64 | Ep9: In the Years to Come… | 716 | 待写 | |
-| ch65 | Ep9 末无标题 coda | 582 | 待写 | |
-| ch66 | Postscript: The Video Store | 2,135 | 待写 | |
-| ch67 | Ep10 Ch1 | 1,767 | 待写 | |
-| ch68 | Ep10 Ch2 | 1,632 | 待写 | |
-| ch69 | Ep10 Ch3 | 1,369 | 待写 | |
-| ch70 | Ep10 Ch4 | 1,635 | 待写 | |
-| ch71 | Ep10 Ch5 | 374 | 待写 | |
-| ch72 | Ep10 Ch6 | 1,478 | 待写 | |
-| ch73 | Ep10 Ch7 | 2,137 | 待写 | |
-| ch74 | Ep10 Ch8 | 1,728 | 待写 | |
-| ch75 | Ep10 Ch9 | 1,034 | 待写 | |
-| ch76 | Ep10 Ch10 | 2,288 | 待写 | |
-| ch77 | Ep10 Ch11 | 2,588 | 待写 | |
-| ch78 | Postscript: Five Years Later | 3,142 | 待写 | |
+| ch01 | Foreword | 1,339 | 完工 | 353094bc0 |
+| ch02 | Ep1 Ch1 | 2,545 | 完工 | e88906b45 |
+| ch03 | Ep1 Ch2 | 2,372 | 完工 | 6d7be25c8 |
+| ch04 | Ep1 Ch3 | 2,301 | 完工 | 4b8e72844 |
+| ch05 | Ep1 Ch4 | 1,497 | 完工 | 60b1e67b8 |
+| ch06 | Ep1 Ch5 | 2,076 | 完工 | 11f10e1c2 |
+| ch07 | Ep1 Ch6 | 2,575 | 完工 | 8220f7413 |
+| ch08 | Ep1 Ch7 | 1,416 | 完工 | 4b8e72844 |
+| ch09 | Ep1 Ch8 | 581 | 完工 | 86fefb03e |
+| ch10 | Ep2 Ch1 | 2,865 | 完工 | 8d46a961b |
+| ch11 | Ep2 Ch2 | 1,230 | 完工 | 7eaa29f47 |
+| ch12 | Ep2 Ch3 | 1,659 | 完工 | 21c9c9776 |
+| ch13 | Ep2 Ch4 | 2,209 | 完工 | 8f467bf83 |
+| ch14 | Ep2 Ch5 | 1,960 | 完工 | 906464fd3 |
+| ch15 | Ep2 Ch6 | 1,419 | 完工 | 906464fd3 |
+| ch16 | Ep2 Ch7 | 2,381 | 完工 | edfe8a02b |
+| ch17 | Ep2 Ch8 | 763 | 完工 | 34f46558f |
+| ch18 | Ep3 Ch1 | 3,515 | 完工 | d921b40a3 |
+| ch19 | Ep3 Ch2 | 2,464 | 完工 | b3aa8d30d |
+| ch20 | Ep3 Ch3 | 2,106 | 完工 | b5d674363 |
+| ch21 | Ep3 Ch4 | 2,010 | 完工 | 79342db0d |
+| ch22 | Ep3 Ch5 | 899 | 完工 | e1e60e63f |
+| ch23 | Ep3 Ch6 | 2,491 | 完工 | e1e60e63f |
+| ch24 | Ep3 Ch7 | 789 | 完工 | 7079aaca8 |
+| ch25 | Ep3 Ch8 | 1,150 | 完工 | 872293837 |
+| ch26 | Episode Four: Chicago（单件） | 13,278 | 完工 | faf34944b |
+| ch27 | Ep5 Ch1 | 2,056 | 完工 | edfe8a02b |
+| ch28 | Ep5 Ch2 | 2,499 | 完工 | d9316f4c8 |
+| ch29 | Ep5 Ch3 | 3,130 | 完工 | 2c9f7dc72 |
+| ch30 | Ep5 Ch4 | 3,117 | 完工 | 14c3dfec2 |
+| ch31 | Ep5 Ch5 | 2,847 | 完工 | 700fdf24f |
+| ch32 | Ep5 Ch6 | 2,296 | 完工 | edfe8a02b |
+| ch33 | Ep5 Ch7 | 3,635 | 完工 | a844b728d |
+| ch34 | [Midseason Hiatus] | 715 | 完工 | 0a8d09a14 |
+| ch35 | Ep6 Ch1 | 3,670 | 完工 | 6b0b6f16b |
+| ch36 | Ep6 Ch2 | 1,516 | 完工 | d28217676 |
+| ch37 | Ep6 Ch3 | 3,735 | 完工 | edfe8a02b |
+| ch38 | Ep6 Ch4 | 2,466 | 完工 | 3965dd478 |
+| ch39 | Ep6 Ch5 | 1,432 | 完工 | 3c6bc944e |
+| ch40 | Ep6 Ch6 | 1,040 | 完工 | 0a8d09a14 |
+| ch41 | Ep7 Ch1 | 1,016 | 完工 | 0a8d09a14 |
+| ch42 | Ep7 Ch2（页码 bleed 避粘连） | 2,677 | 完工 | edfe8a02b |
+| ch43 | Ep7 Ch3 | 1,705 | 完工 | 7e6bc0b52 |
+| ch44 | Ep7 Ch4 | 1,436 | 完工 | a587805d4 |
+| ch45 | Ep7 Ch5 | 3,389 | 完工 | 75ffbec06 |
+| ch46 | Ep7 Ch6 | 2,599 | 完工 | 093e54d48 |
+| ch47 | Ep7 Ch7 | 1,255 | 完工 | af19dae94 |
+| ch48 | Ep7 Ch8 | 2,771 | 完工 | a82d7c7fb |
+| ch49 | Ep7 Ch9 | 687 | 完工 | 15f398d6e |
+| ch50 | Ep8: Chimotera! (1944) | 2,506 | 完工 | 4993adba8 |
+| ch51 | Ep8: The Bride of Chimotera! (1946) | 2,497 | 完工 | 0b87a57bc |
+| ch52 | Ep8: Son of Chimotera! (1948) | 2,514 | 完工 | d3102ad34 |
+| ch53 | Ep8: Chimotera! Meets Abbott and Costello (1949) | 2,026 | 完工 | 17be8e0ad |
+| ch54 | Ep8: Chimotera! '99 (1999) | 2,150 | 完工 | 4993adba8 |
+| ch55 | Ep9: 2:49 a.m. | 1,504 | 完工 | 8a3f4beb4 |
+| ch56 | Ep9: 2010 | 3,017 | 完工 | 6c96e4b41 |
+| ch57 | Ep9: 5:31 a.m. | 1,372 | 完工 | 13371a8a5 |
+| ch58 | Ep9: 2012 | 1,936 | 完工 | e415824fe |
+| ch59 | Ep9: 8:11 a.m. | 2,397 | 完工 | e415824fe |
+| ch60 | Ep9: 2018 | 1,022 | 完工 | a16b0f2c3 |
+| ch61 | Ep9: 9:41 a.m.（页码 bleed 避粘连） | 2,328 | 完工 | e415824fe |
+| ch62 | Ep9: 2026 | 610 | 完工 | e415824fe |
+| ch63 | Ep9: 11:51 a.m. | 976 | 完工 | e415824fe |
+| ch64 | Ep9: In the Years to Come… | 716 | 完工 | 57af82c2e |
+| ch65 | Ep9 末无标题 coda | 582 | 完工 | b03f87624 |
+| ch66 | Postscript: The Video Store | 2,135 | 完工 | b03f87624 |
+| ch67 | Ep10 Ch1 | 1,767 | 完工 | 3a3696d13 |
+| ch68 | Ep10 Ch2 | 1,632 | 完工 | edfe8a02b |
+| ch69 | Ep10 Ch3 | 1,369 | 完工 | 5f18a5e61 |
+| ch70 | Ep10 Ch4 | 1,635 | 完工 | 32daea8a0 |
+| ch71 | Ep10 Ch5 | 374 | 完工 | 855e0c3db |
+| ch72 | Ep10 Ch6 | 1,478 | 完工 | 5b3e5c38b |
+| ch73 | Ep10 Ch7 | 2,137 | 完工 | b03f87624 |
+| ch74 | Ep10 Ch8 | 1,728 | 完工 | b03f87624 |
+| ch75 | Ep10 Ch9 | 1,034 | 完工 | b03f87624 |
+| ch76 | Ep10 Ch10 | 2,288 | 完工 | b03f87624 |
+| ch77 | Ep10 Ch11 | 2,588 | 完工 | 526e383a9 |
+| ch78 | Postscript: Five Years Later | 3,142 | 完工 | edfe8a02b |
 | — | 总览三篇（00_概述 / 00_金句精选 / 00_情感节点） | | 待写 | |
 | — | T1 自检三件套 | | 待跑 | |
