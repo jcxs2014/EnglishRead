@@ -113,7 +113,7 @@ modified: "2026-11-19"
 > **原句 15:** "“I can’t promise what Beau will feel.” That made me look at her. “But I can tell you who he is. Hunter came into our family before we got married.” Her fingers remained around mine. “Beau never treated him like he needed permission to be a man.” … “Because Dad taught them that if somebody needs help, you offer once.” … “Pretty much. Our Dad hates pity.” … Something in my chest loosened. … “He thinks helping someone who doesn’t want help is mostly about making yourself feel useful.” … “What? She knows I won’t judge, we’re in the same boat.” His gaze remained on me. … “Five years.” … “Above knee?” … “Socket issues?” … “Heat sucks, right?” … “Yes, I keep irritating my skin.” It was so nice to talk to someone who understood. … Hunter told me Beau had driven three hours once because one of Hunter’s prosthetic components failed while Clover and Hunter were traveling. Not because Hunter was incapable of figuring it out. Because they needed a ride."
 
 **中文理解**：他没法保证 Beau 会怎么感觉，但能告诉你他是谁：Hunter 婚前就进了这个家，Beau 从没让 Hunter 觉得「做男人还需要谁批准」；需要帮忙就提供一次、被拒就到此为止——我爸讨厌怜悯，帮不想被帮的人多半是为了让自己显得有用——她胸口有什么松了；Hunter 听见了全部：她知道我不评判，我们坐同一条船——五年、膝上、窝口、热天难熬，跟懂的人说话真好；他还作证：Beau 曾开三小时车送零件——不是 Hunter 搞不定，是他们需要有人捎一程。
-**关键词**：I can’t promise what Beau will feel / permission to be a man / you offer once / we’re in the same boat
+**关键词**：what Beau will feel / permission to be a man / offer once / same boat
 **为什么这样写**：证词的诚实结构（不打包票→只作证人）让安慰有了铁的成色；「offer once」的父训与 Hunter 的「同船」并置成两级证人：一个证明他的品格、一个证明他的里程——帮助永远以「被需要」为限。
 **读者视角提示**：记住「提供一次」与「三小时」——前者是家训，后者是执行记录。
 
