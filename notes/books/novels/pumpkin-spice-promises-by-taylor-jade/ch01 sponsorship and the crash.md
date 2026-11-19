@@ -10,7 +10,7 @@ modified: "2026-11-19"
 - **情感弧线位置**：序章＝人生顶点定格：赞助到手、决赛在望、祖孙送别，一切在最高刻度被外力清零，为正文五年后的开场提供创伤底色。
 - **Tropes 兑现/反转**：small-town 万圣节设定兑现（全镇提前一个月挂灯刻南瓜）；反转是命运急转——「Life couldn’t get much better」说完两页即是迎头撞击。
 - **人物弧线**：Carson：从自信张扬的准职业赛手（对 Pops 夸口买全州最好的卡车）到瞬间失去全部掌控的伤者；Pops 与 Meme：以昵称 Sunshine 和两度拥抱完成「家的锚点」功能。
-- **叙事手法**：第一人称＋单句成段的急促节奏；「Not a…」四连否定与章末「overcorrected—fishtailed—swung—straight toward me」四短句对位——一个是愿望的排除法，一个是灾难的推进器。
+- **叙事手法**：第一人称＋单句成段的急促节奏；「Not a…」四连否定与章末撞车段的四个短句动词连击对位——一个是愿望的排除法，一个是灾难的推进器。
 
 ## 精读
 > **原句 1:** "In Willow Creek, September 1st might as well have been a holiday. … Halloween. And yes, I said season. … In Willow Creek, Halloween didn’t last one night. It started on September 1st and didn’t end until November 1st. … By sunrise, hay bales lined the sidewalks, pumpkins crowded every storefront, and orange lights twinkled from every lamppost."
