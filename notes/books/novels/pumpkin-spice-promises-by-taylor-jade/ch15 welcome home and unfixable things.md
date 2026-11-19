@@ -22,17 +22,17 @@ modified: "2026-11-19"
 
 > **原句 2:** "There was an ugly little voice inside me that had learned to speak after the accident. It reminded me that Beau liked the version of Carson he could see. Blonde hair, green eyes, freckles, and jeans that were molded to a round ass. He seemed to love my sarcasm, and volunteered himself to help at the ranch despite working a full-time job. He also liked the fact that I was a former barrel racer because he had watched all my videos, but he didn’t know about removing a prosthetic at night."
 
+**中文理解**：事故后有一个丑陋的小声音学会了我开口：Beau 喜欢的是看得见的那个 Carson——金发绿眼雀斑和包着圆屁股的牛仔裤；他好像真的爱她的毒舌，自愿来帮忙还顶着全职工作；他也喜欢「前绕桶赛手」的身份，毕竟看遍了她的视频——可他不知道：夜里，那条腿是要摘下来的。
+**关键词**：an ugly little voice / the version of Carson he could see / watched all my videos / removing a prosthetic at night
+**为什么这样写**：「丑小声」的拟人化让自我攻击有了音轨——清单越长越具体，越显出她把「被爱资格」押在信息差上；她承认自己的可爱，却把可爱与残障拆成两个不可合并的投标包。
+**读者视角提示**：记住这份清单——它是全书后半程「摊牌时刻」的预挂账单。
+
 > **原句 3:** "Or skin breakdown. … Or phantom pain. … Or the mornings when standing hurt before I even started my day."
 
 **中文理解**：皮肤破损、幻肢痛、以及一天还没开始站着就疼的那些早晨——清单的下半页。
 **关键词**：Or skin breakdown / Or phantom pain / Or the mornings when standing hurt
 **为什么这样写**：三个「Or」短段把病历甩成连珠——长句讲清「信息差」，短句负责体感；被省略的谓语让每一条都像补在全句末尾的耳语。
 **读者视角提示**：记住这下半页——摊牌那天它们会一件件被念出来。
-
-**中文理解**：事故后有一个丑陋的小声音学会了我开口：Beau 喜欢的是看得见的那个 Carson——金发绿眼雀斑和包着圆屁股的牛仔裤；他好像真的爱她的毒舌，自愿来帮忙还顶着全职工作；他也喜欢「前绕桶赛手」的身份，毕竟看遍了她的视频——可他不知道夜里摘义肢、皮肤破损、幻肢痛、以及一天还没开始站着就疼的那些早晨。
-**关键词**：an ugly little voice / the version of Carson he could see / removing a prosthetic at night / Or phantom pain
-**为什么这样写**：「丑小声」的拟人化让自我攻击有了音轨——清单越长越具体，越显出她把「被爱资格」押在信息差上；四个「Or」短段像一叠病历甩在读者面前：她承认自己的可爱，却把可爱与残障拆成两个不可合并的投标包。
-**读者视角提示**：记住这份清单——它是全书后半程「摊牌时刻」的预挂账单。
 
 > **原句 4:** "He didn’t know that some days I sat on the edge of my bed staring at my prosthetic leg because putting it on felt like work before the real work even began. … He didn’t know I worried a husband would eventually become a caretaker. That fear embarrassed me more than the prosthetic ever could. … Unfortunately for me, fear didn’t give a damn what logic knew."
 
