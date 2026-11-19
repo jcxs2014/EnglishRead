@@ -111,14 +111,14 @@ modified: "2026-11-19"
 |---|---|---|
 | signage | 标识，招牌（总称） | I made her remove it; I wasn’t ready to hang any signage when we still had weeks to prepare. |
 | preliminary | 初步的，预备的 | At the top, it read: MARIGOLD RANCH HARVEST FESTIVAL — PRELIMINARY PLAN |
-| grille | （车头的）格栅 | Darlene Pike followed less than a minute later in an SUV decorated with an orange wreath on the front grille. |
+| fixture | （固定）装置，灯具 | He stood on a ladder near the side of the barn checking an exterior fixture. |
 | strapping | 捆绑固定（strap 的动名词） | Jax finished strapping tools into the truck bed while Beau lowered the ladder. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ladder | 梯子 | He stood on a ladder near the side of the barn checking an exterior fixture. |
-| wreath | 花环，花圈 | Darlene Pike followed less than a minute later in an SUV decorated with an orange wreath on the front grille. |
+| clipboard | 写字板，夹板 | I carried my clipboard toward them. |
 | tailgate | 尾挡板 | Jax closed the tailgate. |
 | booth | 摊位，隔间 | June had claimed a spot near the barn for Sugar and Pine, and immediately entered an argument with a local candle maker over booth depth. |
 
