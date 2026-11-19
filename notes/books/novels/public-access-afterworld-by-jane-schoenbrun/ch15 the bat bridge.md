@@ -49,7 +49,7 @@ modified: "2026-11-19"
 **中文理解**：她在桥的角拱附近找到一块空地，瘫坐下来，吞下一把 Tums，蜷成胎儿的姿势。她听着 I-35 上驶过的车流——听起来像海浪：干净、催眠、引人入眠。
 **关键词**：fetal position / waves
 **为什么这样写**：出生姿势（fetal）出现在桥洞——全书的空间诗学在此翻转：最像子宫的地方不在任何家，在高速桥下。海浪三连形容词（clean, lulling, hypnotic）把车流母性化：噪音转为白噪，正是她工作里静电的变奏——她终于睡在「信号」之下而不做噩梦。
-**读者视角提示**：记住这座桥：它同时是 Jules 想去的地方、无家者的居所、Bethany 的第一夜安眠处——三种「消失」共用一个坐标。
+**读者视角提示**：记住这座桥：它同时是无家者的居所、她想起 Jules 消失欲的地方（text/ch15：understood Jules’s desire to disappear）、Bethany 的第一夜安眠处。
 
 > **原句 7:** "At least those cars above her were waves, crashing against the shore and then receding back into the ocean as if the ocean was a body and she was part of it, too. Sleep overtook Bethany, and for the first time since she’d started her job at GlobalVill.com, she didn’t have any nightmares."
 **中文理解**：至少头顶那些车是海浪——拍向岸、又退回海里，仿佛海洋是一个身体，而她也是它的一部分。睡眠接管了 Bethany：入职 GlobalVill 以来，第一次没有噩梦。
