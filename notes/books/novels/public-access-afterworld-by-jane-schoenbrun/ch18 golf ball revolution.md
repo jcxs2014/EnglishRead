@@ -6,7 +6,7 @@ modified: "2026-11-19"
 # 18. Chapter 1（Episode Three: Pink Eye）
 
 ## 本章导航
-- **一句话概括**：第 18 洞底下有条隧道——住在这个迷你高尔夫办公室棚里的 Jules 为 David Sawyer 的终极挑战「Pink Eye TV」编了一部《Golf Ball Revolution》，录完又自判垃圾；而连打三轮的金发女伸手过窗：「I'm Bethany Peters.」
+- **一句话概括**：第 18 洞底下有条隧道——住在这个迷你高尔夫办公室棚里的 Jules 为 David Sawyer 的终极挑战「Pink Eye TV」编了一部《Golf Ball Revolution》，录完又自判垃圾；而那名从高中就认得的金发女客打完十八洞回来伸手过窗：「I'm Bethany Peters.」
 - **情感弧线位置**：第三季的命中时刻。Jules 的孤独工棚终于收到一位真人访客——此前两季的所有匿名信件在此完成人形签收。
 - **Tropes 兑现/反转**：兑现「终极挑战终于降临」；反转「高潮=口述电视剧」——最史诗的挑战最家常；反转「网络教友见面」——不是 David 降临，是 Bethany 现身。
 - **人物弧线**：Jules：游戏信徒、定量用毒者、复仇编剧（四分卫冷开场）；Bethany：从队列里的一张脸到棚窗口的一只手。
@@ -16,7 +16,7 @@ modified: "2026-11-19"
 > **原句 1:** "Once you were done putting your way across all eighteen holes at the Turbo Putt, Lubbock’s premier mini golf course and family fun center, once you navigated past all the sand traps and the rusty lumberjack with the big plastic legs, once you sank your final shot into hole eighteen at the end of the course, your golf ball got gobbled up into an underground tunnel."
 **中文理解**：当你在 Turbo Putt——Lubbock 首屈一指的迷你高尔夫家庭游乐中心——打完全部十八洞，绕过沙坑与那条塑料大腿的锈 lumberjack，把最后一球打进第 18 洞，你的高尔夫球就会被吞进一条地下隧道。
 **关键词**：Turbo Putt / gobbled
-**为什么这样写**：三个 once you 的排比把消费流程写成朝圣路线，终点却不是奖杯而是吞噬（gobbled）——娱乐的出口是地下。名字 Turbo Putt 与 ch16 报警电话里的「Turbo Putt on Arrowhead Drive」对上暗号：第二季的电话线从此落地为场景。lumberjack 装置的荒诞道具感，为 Jules 在其胯下抽大麻的画面预付了场所幽默。
+**为什么这样写**：三个 once you 的排比把消费流程写成朝圣路线，终点却不是奖杯而是吞噬（gobbled）——娱乐的出口是地下。名字 Turbo Putt 在此落地为实体场景：Jules 就住在这座球场的破旧主办公室棚里（"the dilapidated main office shed where Jules Estrada lived and worked"）。lumberjack 装置的荒诞道具感，为 Jules 在其胯下抽大麻的画面预付了场所幽默。
 **读者视角提示**：记住「球从地下回到起点」的循环——它与 Bethany 的「Prison and escape」同构：这本书的地理全是回旋镖。
 
 > **原句 2:** "According to this final message board, everyone who was truly destined for Public Access Afterworld had a psychic connection to at least one specific TV show, even if they’d never actually watched it in real life. Even if it didn’t exist yet. “Narrate an episode of the TV show stuck in your brain, then upload your video,” the post read."
