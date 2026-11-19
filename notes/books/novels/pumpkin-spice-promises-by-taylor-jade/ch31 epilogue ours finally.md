@@ -58,7 +58,7 @@ modified: "2026-11-19"
 > **原句 7:** "The pencil marks inside the pantry door where Pops measured me until I was sixteen and threatened to keep doing until I got taller. … The chair Meme still refused to move from his side of the kitchen table. … The porch where I’d waited for Pops to come home even after I knew he never would. … That was exactly why I didn’t want it someday."
 
 **中文理解**：老宅的清单：储藏室门内侧 Pops 给她量身高到十六岁的铅笔痕（还威胁量到她长高为止）；Meme 至今不肯从他桌边挪走的椅子；父母从她人生消失后她睡的房间；失去腿之后重新学着走的那条走廊；明知道他再也不会回来、还在等 Pops 回家的门廊——她爱那栋房子，正因如此她不想有一天继承它：她不想余生都在「所爱之人接连变成回忆」的房间里走动。
-**关键词**：measured me until I was sixteen / The chair Meme still refused to move / even after I knew he never would. / eventually became a memory.
+**关键词**：measured me until I was sixteen / The chair Meme still refused to move / knew he never would. / didn’t want it someday.
 **为什么这样写**：五件「记忆家具」回收全书全部旧伤（母亲消失、失去腿、等 Pops）——拒绝继承的反宣言由爱驱动而非逃离；「不碰≠爱」的判词把 ch02 的保存癖正式结案。
 **读者视角提示**：记住这五件——新家盖起来了，老宅里的一切却一件没丢。
 
