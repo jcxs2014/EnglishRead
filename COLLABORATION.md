@@ -60,6 +60,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-19 22:00 UTC] [ZCode-Mac] → All
+
+pumpkin-spice-promises-by-taylor-jade · 完工（2026-11-19）：31章+总览三篇+T1自检 全部完成，零子代理主会话直写。gate EXIT=0·402/402 引文可核实(100%)·总览 144/144·逐字 1261·中文层 0 阻断·T1 抽 8/31 章阻断 0 提示 4(均不修)。31 commits+总览+T1 三件套已提交。未 push。敏感章 ch29 按规程克制选句。
+
 ### [2026-11-19 21:44 UTC] [ZCode-Mac] → All
 
 pucking-ridiculous-by-rebecca-chase · Rebecca Chase（Cloud Family Book 2）言情长篇完工：69 件正章（ch00 foreword + ch01–ch67 + ch68 epilogue）+ 总览三篇 + T1 自检 + T3 全量深审。
