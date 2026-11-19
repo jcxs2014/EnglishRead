@@ -53,7 +53,7 @@ modified: "2026-11-19"
 **中文理解**：「我昨晚就该杀了你，」她低声说。然后她伸出手，想把手指缠上 David 的脖子。但她还是太弱，掐不动他，于是她只是躺在那里，任由 David Sawyer 抱着她。
 **关键词**：killed you last night / too weak to strangle
 **为什么这样写**：旧恨的低声版：豆袋椅的记忆刚被翻出（她在他身边睡着的那些夜晚、他的 Toshiba），这句低语就落下来——「昨夜」像给那场扼颈补的账，也像给 PAA 的最后一夜补的账，本书不让它落地。too weak to strangle 的「太弱」让全书最该发生的谋杀因营养不良流产。instead 的「转而」是本段最冷的一个词：她要的清算没执行，先执行的是依赖。
-**读者视角提示**：对照 ch02「Erin's basement」章名的豆袋椅之夜——同一对身体的第二次拥抱：上一次她在掐，这一次她躺着。
+**读者视角提示**：对照 ch38 的豆袋椅之夜（「the threat of being strangled」的旧账）——同一对身体的第二次拥抱：上一次她在掐，这一次她躺着。
 
 > **原句 8:** "So Bethany’s on her own. She grabs onto the rim of the flat-screen for stabilization and then she shuffles herself forward inch by inch, until eventually her body drops down onto the woodchipped floor of David’s surveillance center."
 **中文理解**：所以 Bethany 只能靠自己。她抓住平板屏的边框稳住身体，一寸一寸把自己往前挪，直到身体最终跌落在 David 监控中心铺着木屑的地板上。

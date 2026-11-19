@@ -39,7 +39,7 @@ modified: "2026-11-19"
 **读者视角提示**：对照 ch21 梦里的「They just want to help you remember your name」：她拒绝睡觉=拒绝在梦里再次签收旧名字。咖啡因是她最后的名字保卫战。
 
 > **原句 5:** "“It’s just that you had no shadow,” she said. “Your sister’s got a big shadow under her feet, but you don’t have any shadow at all. In the photo, I mean.”"
-**中文理解**：「只是你当时没有影子，」她说。「你妹妹脚下影子一大团——照片里，你一点影子都没有。」
+**中文理解**：「只是你当时没有影子，」她说。「你姐姐脚下影子一大团——照片里，你一点影子都没有。」
 **关键词**：no shadow / In the photo
 **为什么这样写**：物证选择回归本书的媒介本体：影子是光学真实性的最底层签证——没有影子的人没有「在此处」的资格。In the photo 的补充定语是她的科学严谨（她把指控范围锁死在图像内）。这句轻描淡写的观察完成了全季最漂亮的抓特务程序：不用档案，用光学。
 **读者视角提示**：对照静电人（无脸无肉、由噪声构成）：Kyle 的无影子是同一族谱的实体版——频道的人手，连物理学都懒得掩饰。

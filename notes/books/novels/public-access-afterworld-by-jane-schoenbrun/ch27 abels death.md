@@ -41,7 +41,7 @@ modified: "2026-11-19"
 **中文理解**：「我病了，」Bethany 说。「不好了。心理上，还有身体上。是从那份工作开始的——那个该死的工作——但已经不止于此。我知道你现在恨我，但我需要帮助，Abel。你要是曾经爱过我，就帮帮我——因为我觉得我要死了。」
 **关键词**：Unwell / going to die
 **为什么这样写**：求救词的三重升级：病（sick）→不好（unwell）→死亡预告（going to die）——把前两章不敢说出口的部分一次性透支。that stupid fucking job 的脏话定罪准确得可怕：她的病理学是对的，只是病因的名字她还没学到（不是工作，是频道）。If you ever loved me 的时态陷阱（ever）把爱当成抵押品提取。
-**读者视角提示**：对照 ch21 三次失败的求救：这是她第一次完整说出口——而读者已经知道代价：频道不许她获得人类救援。
+**读者视角提示**：对照 ch21 两次失败的求救（Kyle 未接、妈妈三声转留言）：这是她第一次完整说出口——而读者已经知道代价：频道不许她获得人类救援。
 
 > **原句 6:** "“We’ll figure it out,” Abel told her. “Together. Whatever is happening to you. And whatever this looks like—us, long term: marriage, breaking up, whatever. That doesn’t matter right now. I don’t want you to worry about that. But if you need help, and I believe you when you tell me that you do, I’m here for you. I love you so much, and I want to help you.”"
 **中文理解**：「我们会想办法的，」Abel 对她说。「一起。不管你身上发生了什么。不管我们最后变成什么样——长期看：结婚、分手、随便。那些现在都不重要。我不想让你操心这些。但如果你需要帮助——你说是，我就信——我就在这儿。我非常爱你，我想帮你。」

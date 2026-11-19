@@ -23,7 +23,7 @@ modified: "2026-11-19"
 **中文理解**：「请让我重新成为 Aries 吧，」她与困住自己的这颗心智谈判。「请让我成为电视。」
 **关键词**：negotiate / Please let me be television
 **为什么这样写**：归队的祷词：negotiate（谈判）的对象是自己的心智——自我已被分成「想回去的她」与「不批的它」。Please let me be television 的省略宾语最狠：她不求做人、不求回家，只求成为媒介——本书的愿望史在终章降到了最低点也最纯粹的形态。重复的 Please 是全段唯一的声音。
-**读者视角提示**：对照 ch02 的「人生变成电视剧」：两个愿望隔着三季对齐——David 求成剧、Bethany 求是剧。同一扇门，两种跪法。
+**读者视角提示**：对照 ch02 的「人生变成电视剧」：两个愿望隔着整本书对齐——David 求成剧、Bethany 求是剧。同一扇门，两种跪法。
 
 > **原句 3:** "This is the bottom of the universe. The fidelity down here is so low that it's all scrambles. Everything runs on autopilot so we patients can focus on what really matters."
 **中文理解**：这里是宇宙的最底层。这里的保真度低到只剩雪花。一切都靠自动驾驶运转——好让我们这些病人能专注于真正重要的事。

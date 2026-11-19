@@ -22,13 +22,13 @@ modified: "2026-11-19"
 > **原句 2:** "She felt taken advantage of somehow. David had lied to her, kept this secret for weeks. And now here he was pressuring her to do something she didn’t feel comfortable with, trying to get her to continue being a part of this adventure that she had told him earlier that week had started to make her feel unsafe. It made her angry."
 **中文理解**：她感到被利用了。David 对她撒谎，瞒了几周的秘密。而现在他在这儿逼她做她不舒服的事——想让她继续参与那场「冒险」；而就在本周早些时候，她刚刚告诉过他：那已经让她觉得不安全了。这让她愤怒。
 **关键词**：taken advantage of / unsafe
-**为什么这样写**：愤怒的清算是三笔账：谎言（隐瞒数周）、施压（pressuring）、无视声明（她说过 unsafe）——受害者的申诉状先于施害者的认罪。unsafe 一词第二次出场（ch35 说过一次）：她的边界早已声明，没人签字。taken advantage of 的含糊（somewhat）暴露她的自责倾向：连愤怒都要打折。
+**为什么这样写**：愤怒的清算是三笔账：谎言（隐瞒数周）、施压（pressuring）、无视声明（她说过 unsafe）——受害者的申诉状先于施害者的认罪。unsafe 一词已是第三次出场（ch20/ch23 各一次）：她的边界早已声明，没人签字。taken advantage of 的含糊（somewhat）暴露她的自责倾向：连愤怒都要打折。
 **读者视角提示**：对照 ch06 餐馆夜的 David：同一个男孩的两次「为你」——一次偷带、一次献带。本书的「为你」后面总要跟着「不管你愿不愿意」。
 
 > **原句 3:** "All I want to say is, as your father who loves you and wants the best for you—you and David are going to be on very different life paths. You’ve got so much to look forward to in your future. And he…well, I hope he gets that job at Blockbuster he’s always wanted."
 **中文理解**：「作为爱你的、希望你得到最好的东西的父亲，我只想说一句——你和 David 以后会走上非常不同的人生道路。你的未来有那么多值得期待。而他嘛……我希望他能拿到他一直想要的那份 Blockbuster 的工作。」
 **关键词**：different life paths / Blockbuster
-**为什么这样写**：父爱的语法是分道令：用「路」的隐喻把初恋重新归类为岔道—— LOVE 被翻译成 career risk。Blockbuster 那一刺（讽刺他的人生天花板）暴露父亲的竞争心：他把男孩当对手而非家人。本章先于 ch02 的「Blockbuster 已倒闭」多年——他的祝词连行业都祝错了。
+**为什么这样写**：父爱的语法是分道令：用「路」的隐喻把初恋重新归类为岔道—— LOVE 被翻译成 career risk。Blockbuster 那一刺（讽刺他的人生天花板）暴露父亲的竞争心：他把男孩当对手而非家人。ch02 的旁白早已写下「Blockbuster, before it closed」——他的祝词连行业都祝错了。
 **读者视角提示**：对照 ch26 Elliot 的「You've never been happy here」：两位父亲（Lawrence/Elliot）都用「为你好」预支孩子的离别——本书的父权话术是频道话术的家用版。
 
 > **原句 4:** "“I didn’t break into Jim Davis’s house, okay? I visited him again. We talked more—a few times now. He’s a weirdo, for sure, but he’s not a bad dude, actually. He knows a lot about what’s happening. He showed me the tape, and a bunch of other evidence. He wants to help.”"

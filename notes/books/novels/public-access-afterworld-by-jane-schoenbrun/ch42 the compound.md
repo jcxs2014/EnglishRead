@@ -29,7 +29,7 @@ modified: "2026-11-19"
 **中文理解**：整个行动由约十二座木屋组成。其中大部分根本没有通电。唯一的例外是 David 的监控中心——营地边缘的一座大棚，装着一整队天线。
 **关键词**：a dozen wooden cabins / fleet of antennas
 **为什么这样写**：反高潮的基建报告：邪教总部的配置表（不通电的木屋+一座天线棚）与 fan art 的想象的落差即本段的主题。fleet of antennas 的军事量词给破棚披上舰队制服——本书的穷酸总会借到威风的词。监控中心的独家电力=教团真正的权力地图：电=话语权。
-**读者视角提示**：对照 ch26 的 Conductor（半英里下的电力巨兽）：同一条沙漠电力线，1945 年藏在地下，2024 年架在棚顶——基础设施的变迁就是教义的变迁。
+**读者视角提示**：对照 ch26 的 Conductor（半英里下的电力巨兽）：同一条沙漠电力线，1945 年藏在地下，如今架在棚顶——基础设施的变迁就是教义的变迁。
 
 > **原句 4:** "“There’s no current whatsoever,” Emily said to David as she read Jules’s vitals. “Usually we pick up some electromagnetic activity, even if the subject’s not technically crooked. But there’s nothing here. This one’s a total wash.”"
 **中文理解**：「什么电流都没有，」Emily 读着 Jules 的生命体征对 David 说。「就算受试者算不上真正的 crooked，我们通常也能测到一点电磁活动。但这儿什么都没有。这个完全不行（total wash）。」

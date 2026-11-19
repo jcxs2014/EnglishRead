@@ -16,7 +16,7 @@ modified: "2026-11-19"
 > **原句 1:** "“I’ll see you in the video store,” Jules said, then they swallowed the whole cup down in one gulp. They stared at the screen for a few seconds, looking blank. And then they switched their camera off."
 **中文理解**：「我们视频店见，」Jules 说，然后一口吞下了整杯。他们盯着屏幕看了几秒，眼神放空。然后关掉了摄像机。
 **关键词**：video store / one gulp
-**为什么这样写**：生死时刻的直播只有三个动作：宣布地点、吞下、关机——最省的镜头语言。"see you in the video store" 把目的地交给观众：视频店（后文 Postscript 的场景）在此第一次成为「彼岸」的名字。looking blank 的空白表情拒绝表演痛苦——真实的绝境往往没有配乐。关机（switched their camera off）是全章最残忍的一个动作：直播伦理的最后边界，自愿熄灭。
+**为什么这样写**：生死时刻的直播只有三个动作：宣布地点、吞下、关机——最省的镜头语言。"see you in the video store" 把目的地交给观众：视频店（ch06 已由 Jim 点名「The video store」,后文 Postscript 的场景）在 Jules 的告别里再次成为「彼岸」的名字。looking blank 的空白表情拒绝表演痛苦——真实的绝境往往没有配乐。关机（switched their camera off）是全章最残忍的一个动作：直播伦理的最后边界，自愿熄灭。
 **读者视角提示**：记住「video store 见」这句——它将决定本书最后两幕的地点。Jules 给死亡预约的地址，和 Bethany 即将抢到的地址，是同一个世界的两端。
 
 > **原句 2:** "Jules’s video had been posted just one hour earlier. It had been reported and sent right to her in what had to be record time. Enough time, perhaps, to do something."
