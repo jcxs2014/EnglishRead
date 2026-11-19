@@ -41,7 +41,7 @@ modified: "2026-11-19"
 **为什么这样写**：五个「why」组成的悖论清单是男主的脑内案卷——每一问都是前文伏笔的存档（头巾/仓库/恩惠/马）；力量与瘫痪同存一人，是本章对「创伤幸存者」的精确画像；他自己把这种好奇标注为「危险品种」：想挖到底。
 **读者视角提示**：记住这五个为什么——全书后段就是逐条作答的清单。
 
-> **原句 5:** "That was the dangerous kind of interest. Physical attraction could burn itself out. Curiosity had a habit of digging deeper. … I’d never been heartbroken over it. … The older I got, the more I wondered whether that should bother me. … At least, it hadn’t before."
+> **原句 5:** "I’d never been heartbroken over it. … The older I got, the more I wondered whether that should bother me. It didn’t. At least, it hadn’t before. … That was the dangerous kind of interest. Physical attraction could burn itself out. Curiosity had a habit of digging deeper."
 
 **中文理解**：那才是危险品种的兴趣：肉体吸引会烧尽，好奇心习惯往深处挖；他从没为那些感情心碎过；年纪越大越怀疑这该不该让他不安——至少，以前从没不安过。
 **关键词**：the dangerous kind of interest / burn itself out / digging deeper / it hadn’t before
@@ -138,7 +138,7 @@ modified: "2026-11-19"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| greenhouse? no — use buckle | 皮带扣，奖扣 | You slept with that buckle beside your bed. |
+| buckle | 皮带扣，奖扣 | You slept with that buckle beside your bed. |
 | gloves | 手套（glove 的复数） | Jax dropped his gloves onto the tailgate. |
 | porch | 门廊 | Meme stood on the porch. |
 | pony | 矮马，小马 | A little blonde girl sitting on a pony with a helmet far too big for her head. |
