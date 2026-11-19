@@ -66,4 +66,4 @@ modified: "2026-11-19"
 | hood | n. 引擎盖 | Smoke poured out from the hood in dark and generous plumes. |
 
 ## 一句话总结
-假醒三连测（字母表都能正反背）宣告「无路可退的现实」，静电子以床垫→公路→后座的三连迁移完成首次追捕：Subaru 撞上砖墙、气囊吞人、她拖着 raw dough 的手臂弃车而走——对卡车司机一句 "No, that's not my car"（严格说没撒谎）把 Abel 的求婚、钥匙与失控一并留在路肩：半死的移动体继续往 downtown 跛行。
+假醒三连测（字母表都能正反背）宣告「无路可退的现实」，静电子以床垫→公路→后座的三连迁移完成首次追捕：Subaru 撞上砖墙、气囊吞人、她拖着 raw dough 的手臂弃车而走——对卡车司机一句干脆的 "No,"（严格说没撒谎）把 Abel 的求婚、钥匙与失控一并留在路肩：半死的移动体继续往 downtown 跛行。

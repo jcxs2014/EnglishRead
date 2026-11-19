@@ -54,7 +54,7 @@ modified: "2026-11-19"
 > **原句 7:** "“Have you been having nightmares?” they asked. “Has your body been feeling numb? Have you seen the video store?”"
 "“I don’t have Screen Sickness, JulesPublicAccessAfterworld,” she said. “Because Screen Sickness isn’t real.”"
 **中文理解**：「你最近做噩梦了吗？」他们问。「身体有没有发麻？你见过那家视频店吗？」「我没有屏幕症，JulesPublicAccessAfterworld，」她说。「因为屏幕症根本不存在。」
-**关键词**：symptom / Screen Sickness
+**关键词**：nightmares / numb
 **为什么这样写**：症状问诊与否认的交错剪辑：Jules 按清单收诊（噩梦/麻木/视频店），Bethany 按立场否认（不存在）——两个人第一次使用同一套词汇却说出相反的世界。连名带姓的称呼（JulesPublicAccessAfterworld）是 Bethany 的划界动作：用账号名拒绝把对方当熟人。这组对白是本季的诊断书与拒签书同框。
 **读者视角提示**：记住「video store」第三次被问及——ch16 的预约地点、ch18 的口号，现在成了症状清单的一项：它的存在感正在物理化。
 
