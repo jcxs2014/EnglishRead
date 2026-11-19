@@ -1,0 +1,15 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch01",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch01_foreword.txt",
+ "facts": [
+  {"fact": "故事的真正叙述者是叙述者在 Saint Thomas Youth Rehabilitation Center（州资助的青少年管教机构）的病友；故事在叙述者 17 岁那年的一个夏天、通过一系列晚间口述会传给叙述者。", "anchor": "were relayed to me over a single summer, my seventeenth. These stories, which I’ve attempted to transcribe as faithfully as possible in the pages that follow, were spoken aloud during a series of evening sessions by my friend and fellow patient at the Saint Thomas Youth Rehabilitation Center", "start": 199, "end": 491},
+  {"fact": "讲故事的朋友当时用的名字是 David Sawyer，与故事里一个角色同名；叙述者出于后文将说明的原因，不愿用这个名字称呼对方。", "anchor": "At the time, my friend was going by the name David Sawyer (the same name as one of the characters in their stories). But for reasons that I hope will become clear as you read these words, I prefer not to refer to them using this name.", "start": 579, "end": 813},
+  {"fact": "Saint Thomas 整栋建筑是完美圆形：一个巨大的甜甜圈，中央有一个大露天洞。", "anchor": "The entire structure was perfectly round: a giant donut with a big open hole in the middle.", "start": 1155, "end": 1246},
+  {"fact": "7 月初病人间流传传闻：这位朋友入院前曾精神崩溃并自杀未遂；独特之处在于崩溃原因——他自称脑中卡着一档假电视节目，亟需把它讲出来。", "anchor": "before being admitted, my friend had suffered an emotional breakdown and had attempted suicide. No great surprise there: Most of us had. What was unique in this case was the cause of the break. My friend, rumor had it, claimed there was a fake TV show stuck inside their brain, and that they desperately needed to get it out.", "start": 4417, "end": 4742},
+  {"fact": "病人们开始每晚在熄灯后聚集，听朋友像篝火故事一样逐集口述这档假电视节目。", "anchor": "We began to gather every night after lights-out to listen to my friend’s show, which took the form of discrete “episodes” they spoke out loud to us like campfire stories.", "start": 4827, "end": 4997},
+  {"fact": "节目共有三十集（thirty episodes total），但他们只听到了二十九集（twenty-nine）。", "anchor": "There were thirty episodes total, but we only ever got a chance to hear twenty-nine.", "start": 5419, "end": 5503},
+  {"fact": "离开 Saint Thomas 后，叙述者再也没能找到这位朋友（尽管反复尝试），甚至不确定对方是否还活着。", "anchor": "After my time at Saint Thomas, I was never able to locate my friend again, though I can assure you I’ve tried. Unfortunately, I’m not sure if they’re even still alive.", "start": 5511, "end": 5678},
+  {"fact": "朋友当初坚称节目终将成真：在周日晚上于 HBO 的 Game of Thrones 时段播出，让数百万人观看。", "anchor": "That it would air on Sunday nights, on HBO, in the Game of Thrones time slot. That millions of people would watch it.", "start": 7113, "end": 7230}
+ ]
+}
