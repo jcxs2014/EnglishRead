@@ -1,0 +1,49 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch16",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch16_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "次日班次不到 30 分钟：Jules 回归——蜡感迪士尼公主纸杯里二三十粒白药丸、「我会 video store 见」、一口吞下、盯屏数秒、关机；视频<45 秒自动循环；上传仅 1 小时即被举报直达她队列（record time——也许还来得及做点什么）",
+   "anchor": "I’ll see you in the video store",
+   "start": 468,
+   "end": 499
+  },
+  {
+   "fact": "Douglas 看循环第 7-8 遍判「Tic Tacs——The Tic Tac Challenge 恶搞」；「我们不是视频分析人员，只负责判断是否违反守则」；他眼里闪过 concern（自己也不确定真假）；最终按黄键：「It's a yellow. You bumped it up. It's my problem now.」并让她「别 fixate、你队列落后了」",
+   "anchor": "It’s probably Tic Tacs.",
+   "start": 4546,
+   "end": 4569
+  },
+  {
+   "fact": "Bethany 站大厅中央（颅压如沸、Static on a screen），出声说「No」→无敲门冲入、抢走 Douglas 的公司笔记本（拔磁吸电源线）横穿主楼层如跑卫冲首攻；Douglas 追喊：「You're fired! Clean out your personal belongings and leave the premises immediately because you're very fucking fired!!」",
+   "anchor": "like a running back chasing a first down",
+   "start": 7160,
+   "end": 7200
+  },
+  {
+   "fact": "女厕反锁：Douglas 权限进 backend→Jules 用户页——FULL NAME: Julian Estrada；LOCATION: 460 Arrowhead Drive, Lubbock, Texas 79401；Rusty 拖把落地举手如被劫持；Douglas 从破门改为「de-escalate、one-to-one、team check-in」劝离",
+   "anchor": "FULL NAME: Julian Estrada",
+   "start": 8379,
+   "end": 8404
+  },
+  {
+   "fact": "911 报警：报地址姓名+「正在attempting suicide、吞了几十粒」；dispatcher 问「How many people?」——「Just one」；被两次纠正称谓（they→sir）；接线员确认「The Turbo Putt on Arrowhead Drive?」；她挂断、身体瘫软；Douglas 继续敲门但轻了——「好像他也知道结束了」",
+   "anchor": "It’s an emergency.",
+   "start": 9380,
+   "end": 9398
+  },
+  {
+   "fact": "被护送离职（catwalk、停车场目送）；HR 三次来电「Maybe: GlobalVill HR」拒接→关机；「她做完了她答应自己的那份工作——不是被雇的那份」；「跨过了屏幕与现实之间的屏障，剩下的交给警察」；六百美元存款、只能睡想逃的房子——都是「另一晚的问题」；与晚高峰同向=「第一次与人类 tempo 一致」",
+   "anchor": "She’d crossed the barrier between screen and real life.",
+   "start": 12105,
+   "end": 12160
+  },
+  {
+   "fact": "尾声宣战：随他们打、开除两次也行、告她六百美元、用烂视频 Clockwork Orange 她的眼睛——「但现在他们拦不住我回家睡个好觉」；那栋不是家的房子再凑合一阵",
+   "anchor": "Clockwork Orange her eyes open",
+   "start": 13345,
+   "end": 13375
+  }
+ ]
+}
