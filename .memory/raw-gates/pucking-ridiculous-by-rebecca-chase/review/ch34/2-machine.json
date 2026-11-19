@@ -1,0 +1,325 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch34 the sorry tea.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch34_chapter_34.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I made you an ‘I'm sorry' tea.” His hair is messy, as if he's run his hands through it a couple of times, and I watch a",
+          "ok": true,
+          "pos": 1385
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“What would you rate that one? I followed the video and also made the changes from the last time. How is it?”",
+          "ok": true,
+          "pos": 2591
+        },
+        {
+          "text": "“It's a ten.”",
+          "ok": true,
+          "pos": 2699
+        },
+        {
+          "text": "“Don't bullshit me, Flour. Tell me how to improve.”",
+          "ok": true,
+          "pos": 2710
+        },
+        {
+          "text": "I hesitate before whispering, “One less drop of milk and hotter water.”",
+          "ok": true,
+          "pos": 2759
+        },
+        {
+          "text": "“Noted. You're giving me something to strive for, which will make the reward so much sweeter.”",
+          "ok": true,
+          "pos": 2829
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Ignore me. I worked so hard on the tea that I didn't rehearse what I was going to say.” I like watching this incredible",
+          "ok": true,
+          "pos": 3314
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It's the perfect question. But of course it is—it came from between Max's lips",
+          "ok": true,
+          "pos": 4233
+        },
+        {
+          "text": "I shake my head. My impulse control has left the building. “I want you to watch,” I whisper",
+          "ok": true,
+          "pos": 4311
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "This is the closest I've come to not overthinking in years, and I want to cry with joy. This is freedom",
+          "ok": true,
+          "pos": 8688
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“If you ever want to do that again, I'll be here; text me, grab me, whatever. But if you want to go back to normal and n",
+          "ok": true,
+          "pos": 10422
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I know. They're my reward. I'm going to jerk off with them later.” He starts to pull the door shut behind him. “Goodnig",
+          "ok": true,
+          "pos": 10981
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I don't know what this means for the future, but I need to let myself have this good thing without self-sabotaging it fo",
+          "ok": true,
+          "pos": 11111
+        },
+        {
+          "text": "My head drops onto the bed as I replay every dirty word Max said to me, over and over, until I fall asleep",
+          "ok": true,
+          "pos": 11238
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter Thirty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2224,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

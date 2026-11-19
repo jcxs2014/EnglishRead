@@ -1,0 +1,288 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch22 the custody ask.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch22_chapter_22.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I heard Mum and Grandma talking once. They didn't know I was there. Grandma said she was glad Max focused so much on hoc",
+          "ok": true,
+          "pos": 1190
+        },
+        {
+          "text": "I wouldn't have had to live with Ted",
+          "ok": true,
+          "pos": 1455
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "They made me feel like I couldn't be me, that there was something wrong with me. They even got rid of my cat.\" Bailey's ",
+          "ok": true,
+          "pos": 2687
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“He called me a girl for preferring creative stuff over sports. He'd force me to go to football matches with him and lau",
+          "ok": true,
+          "pos": 3564
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“But he's my real dad, though. I should love him. I even have his last name still: Jackson.\"",
+          "ok": true,
+          "pos": 3870
+        },
+        {
+          "text": "\"You don't have to love people who don't deserve it. Even if they're family.\"",
+          "ok": true,
+          "pos": 3960
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Will you talk to him for me, after dinner, about the custody thing? If I say anything, I'm worried he'll get angry.\"",
+          "ok": true,
+          "pos": 4608
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You're late,\" Bailey says. \"So we ordered you a pineapple pizza with extra pineapple.\"",
+          "ok": true,
+          "pos": 6373
+        },
+        {
+          "text": "\"Whatever you ordered me will be lovely,\" he replies, but his expression says otherwise, even though I can tell he's try",
+          "ok": true,
+          "pos": 6456
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But even as I shake my head, I can't forget the edge of panic in Bailey's voice about the future. I will do anything I c",
+          "ok": true,
+          "pos": 7374
+        },
+        {
+          "text": "Bailey and Max deserve the chance to love each other again",
+          "ok": true,
+          "pos": 7513
+        }
+      ],
+      "words": 42
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter Twenty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1483,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

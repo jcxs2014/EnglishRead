@@ -1,0 +1,433 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch02 max wants his son back.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch02_chapter_2.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "But I ignore it, because hockey players don't quit. And I'm here to win, even if this is just a practice and this team i",
+          "ok": true,
+          "pos": 190
+        },
+        {
+          "text": "Push. Push. Push",
+          "ok": true,
+          "pos": 326
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A former world-class player playing for a tiny English team that isn't even in the Elite Ice Hockey League, the top UK l",
+          "ok": true,
+          "pos": 717
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You're old enough to be my dad.” Rudder smirks, reminding me why I've barely got a couple of years left playing hockey ",
+          "ok": true,
+          "pos": 2594
+        },
+        {
+          "text": "I glare at him. “That's not my nickname, and you know it.”",
+          "ok": true,
+          "pos": 2762
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I need to show you practice, NHL-style,” I grunt. “And I've only got a year with you assholes. I want to make my mark. ",
+          "ok": true,
+          "pos": 1484
+        },
+        {
+          "text": "Owens whispers to me, referring to the stories flooding the press at the start of the year about my accountant running o",
+          "ok": true,
+          "pos": 1684
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Call me Mike. I know this is temporary for you, but for now I'm your coach, and that makes us family,” he says, remindi",
+          "ok": true,
+          "pos": 4751
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He points at my ex-wife standing at the barrier to the rink. Bailey shuffles behind her, phone in his hand. Even with hi",
+          "ok": true,
+          "pos": 6287
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I remember the last time I saw Bailey in the stands of a rink, his little hand gripping a burger as he shouted my name a",
+          "ok": true,
+          "pos": 6755
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He might not be mine biologically, but for seven years he was my every day, my son. Although I know he only sees me as t",
+          "ok": true,
+          "pos": 9300
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Thank you for not telling Bailey that you tried to contact him for all those years,” Els murmurs. I can't get over how ",
+          "ok": true,
+          "pos": 11002
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“They want Bailey to be able to still have Ted in his life and don't want the truth to change Bailey's opinion of him. T",
+          "ok": true,
+          "pos": 11388
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“She loves cooking. Sometimes I take her to children's classes at the local cookery school. There's a parent-child one t",
+          "ok": true,
+          "pos": 14273
+        },
+        {
+          "text": "I slam my hand on the barrier, excited. “The classes are a great idea. Bailey used to love frosting cookies and cupcakes",
+          "ok": true,
+          "pos": 14459
+        },
+        {
+          "text": "Els shakes her head and groans, “When he was six.”",
+          "ok": true,
+          "pos": 14580
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "It's no surprise we didn't last, and she moved back to England at the encouragement of her parents after I was transferr",
+          "ok": true,
+          "pos": 15247
+        },
+        {
+          "text": "But I'm getting a do-over. This is my chance to change everything and become the dad Bailey needs",
+          "ok": true,
+          "pos": 15395
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2996,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": "块数 12 偏离本书常见区间 4–10（本书 68 章中位 7、最高 11（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

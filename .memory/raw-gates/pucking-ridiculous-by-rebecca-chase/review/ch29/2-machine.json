@@ -1,0 +1,266 @@
+{
+  "chapter": 29,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch29 the scottish away game.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch29_chapter_29.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It turns out I do love a custard cream dipped in my tea, not that I'll admit that to anyone but Bailey, who I caught doi",
+          "ok": true,
+          "pos": 307
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But he responded with his favourite line, “You're not in America now, bud. This is my way.” And then he patted me on the",
+          "ok": true,
+          "pos": 944
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Flora: Thank you for the tangle. I've not snapped a hairband today, and it's all because of you. You're the best boss",
+          "ok": true,
+          "pos": 1834
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I breathe for this. Life might be about balance, but as the cold bites at my lungs, I know Bailey and playing hockey are",
+          "ok": true,
+          "pos": 2612
+        },
+        {
+          "text": "And a sassy redhead who looks like an autumn sunrise when she smiles",
+          "ok": true,
+          "pos": 2768
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He loves hockey, but it's not his life. He adores his family, makes time for all his favourite hobbies, and is working h",
+          "ok": true,
+          "pos": 3811
+        },
+        {
+          "text": "Mine is fuller than it's been in years, but in six months, I'll be returning to the States and to",
+          "ok": true,
+          "pos": 4002
+        },
+        {
+          "text": "what",
+          "ok": true,
+          "pos": 4098
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Maybe there's a way of getting them to the rink even if it's not for a game. We had a tradition back home that I could s",
+          "ok": true,
+          "pos": 5247
+        },
+        {
+          "text": "The stands will never be filled with my people, but maybe this will be enough",
+          "ok": true,
+          "pos": 5378
+        },
+        {
+          "text": "I force a smile and high-five my team as I realise that this time next year, I'll be back home, all alone",
+          "ok": true,
+          "pos": 5457
+        }
+      ],
+      "words": 67
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "29. Chapter Twenty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1055,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

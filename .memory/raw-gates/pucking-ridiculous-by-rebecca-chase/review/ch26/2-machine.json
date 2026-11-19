@@ -1,0 +1,286 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch26 the knot excuse.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch26_chapter_26.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Everything okay?” I ask, a zip of heat in my chest at the appreciation in her voice",
+          "ok": true,
+          "pos": 965
+        },
+        {
+          "text": "“Yes,” she replies, clearing her throat. “You're just so",
+          "ok": true,
+          "pos": 1049
+        },
+        {
+          "text": "muscly and",
+          "ok": true,
+          "pos": 1102
+        },
+        {
+          "text": "tight.”",
+          "ok": true,
+          "pos": 1113
+        },
+        {
+          "text": "“In a good way?” I look at her over my shoulder",
+          "ok": true,
+          "pos": 1120
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I've been working hard,” I tell her, my voice husky as I stare at that damp patch. “Really fucking hard.”",
+          "ok": true,
+          "pos": 1347
+        },
+        {
+          "text": "“I can see,” she says breathlessly",
+          "ok": true,
+          "pos": 1449
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You're not going high enough,” I say. If I were a better man, I wouldn't have said that",
+          "ok": true,
+          "pos": 3567
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You must have worked out a really tricky knot and my body loved it.”",
+          "ok": true,
+          "pos": 4729
+        },
+        {
+          "text": "“A knot in your dick?”",
+          "ok": true,
+          "pos": 4797
+        },
+        {
+          "text": "“Flora,” I warn, glancing over my shoulder. “We can't.”",
+          "ok": true,
+          "pos": 4818
+        },
+        {
+          "text": "“You already did.” Her wink is so fucking bratty. “Are you sure you don't want to guide me through the rest of the massa",
+          "ok": true,
+          "pos": 4869
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Saved by the bell. But which one of us did it save",
+          "ok": true,
+          "pos": 5323
+        },
+        {
+          "text": "“Thank you for the yoga and the massage,” I tell her, watching her as I lie on the bed. I'm not getting up until she's o",
+          "ok": true,
+          "pos": 5375
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“That's my girl,” I mutter as she rushes out the door. “My naughty, naughty girl.”",
+          "ok": true,
+          "pos": 5935
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter Twenty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1157,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

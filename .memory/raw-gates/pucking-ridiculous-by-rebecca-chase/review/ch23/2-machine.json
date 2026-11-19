@@ -1,0 +1,389 @@
+{
+  "chapter": 23,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch23 the fanny contract.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch23_chapter_23.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Fuck, I did some of that the first couple of nights he was with me. I was trying to find common ground for us, but I gu",
+          "ok": true,
+          "pos": 2159
+        },
+        {
+          "text": "“I saw you tease him at the cookery school,” she says, reminding me of the night we met, “but you were anxious. You lear",
+          "ok": true,
+          "pos": 2381
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“No fucking way. He’s been interviewed by a family court advisor, and if he’s mentioned any of the things Ted did to him",
+          "ok": true,
+          "pos": 2655
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I tried to, but Ted wouldn’t let me, and I learned recently that he hid the cards and letters I sent to Bailey from him",
+          "ok": true,
+          "pos": 3252
+        },
+        {
+          "text": "“So tell him.”",
+          "ok": true,
+          "pos": 3454
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“So we’ve agreed that you, Flora, will be around the house while I’m at games or training as long as you’re not teaching",
+          "ok": true,
+          "pos": 7036
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You don’t need to repeat it.” I glare down at where she’s written “Max’s Fanny Contract” at the top of the serviette",
+          "ok": true,
+          "pos": 7308
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I’ll pay you five hundred a month. Is that enough for you to save what you need?”",
+          "ok": true,
+          "pos": 8015
+        },
+        {
+          "text": "She nods, her lips twisting. “But that’s too much.”",
+          "ok": true,
+          "pos": 8095
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“You can’t be creepy to Flora or, as you call it, flirting,” Bailey states. Flora blushes as she tucks strands of her ha",
+          "ok": true,
+          "pos": 8223
+        },
+        {
+          "text": "“No—\" Flora and I say at the same time, but he ignores us",
+          "ok": true,
+          "pos": 8381
+        },
+        {
+          "text": "“You should have a cat after what your parents did, and it would teach me responsibility,” Bailey tells her, folding his",
+          "ok": true,
+          "pos": 8438
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Okay. Oh, and we can’t bring any hookups home,” I say. “Either of us.” I glance at Bailey, pretending this is for his b",
+          "ok": true,
+          "pos": 9025
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I school my face into a neutral expression. This is a critical moment, and I must be supportive and not overly enthusias",
+          "ok": true,
+          "pos": 10249
+        },
+        {
+          "text": "“Computer science.”",
+          "ok": true,
+          "pos": 10451
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He grins, practically vibrating. “She gave me her number and told me to message about homework. I have Gina Russo’s phon",
+          "ok": true,
+          "pos": 11976
+        },
+        {
+          "text": "“Nicely done, kid.” I pat him on the back even though what I really want is to hug him",
+          "ok": true,
+          "pos": 12104
+        },
+        {
+          "text": "Baby steps",
+          "ok": true,
+          "pos": 12190
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "23. Chapter Twenty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2364,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

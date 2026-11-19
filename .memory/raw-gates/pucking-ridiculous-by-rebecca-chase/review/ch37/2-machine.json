@@ -1,0 +1,244 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch37 the thanksgiving dinner.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch37_chapter_37.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I wasn't! I was wondering if he was strong enough to help me move that big thicket at the end of the lawn. You've all b",
+          "ok": true,
+          "pos": 849
+        },
+        {
+          "text": "capable.”",
+          "ok": true,
+          "pos": 993
+        },
+        {
+          "text": "“You want Max to help you with your bush?” Ruby asks, earning another high five from her sister",
+          "ok": true,
+          "pos": 1002
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Even if I wanted to share my bedroom with a pig, Judy is fifty. I'm twenty-one.” He turns his glower to me. “And I don'",
+          "ok": true,
+          "pos": 1875
+        },
+        {
+          "text": "“Jem, Max and I aren't dating. He's my boss. I've told you this.”",
+          "ok": true,
+          "pos": 2077
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Thank you. Sadly, my contract and, therefore, my visa run out in April. I have to go home, and my agent thinks a team t",
+          "ok": true,
+          "pos": 3107
+        },
+        {
+          "text": "“Although I'd keep him if I could,” Mike says",
+          "ok": true,
+          "pos": 3252
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "For the first time, I consider staying. Even though this family is bizarre, I'm enjoying my evening, and if I stayed, ev",
+          "ok": true,
+          "pos": 3296
+        },
+        {
+          "text": "But if I stay, I remind myself, I'll be practically penniless. Bailey needs to have a good future, which means I need mo",
+          "ok": true,
+          "pos": 3547
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The group chuckles, and the conversation shifts to Kalen's next bodyguard job",
+          "ok": true,
+          "pos": 4130
+        },
+        {
+          "text": "I push my encroaching sadness away. Like it or not, I can't stay",
+          "ok": true,
+          "pos": 4208
+        }
+      ],
+      "words": 26
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 12
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. Chapter Thirty-Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 824,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

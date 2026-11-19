@@ -1,0 +1,308 @@
+{
+  "chapter": 61,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch61 the diagnosis day.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch61_chapter_61.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"Miss Macdonald. We had a multidisciplinary meeting to discuss the results of your assessments, as I wanted to garner th",
+          "ok": true,
+          "pos": 1007
+        },
+        {
+          "text": "\"Now the⁠—\"\"",
+          "ok": true,
+          "pos": 1205
+        },
+        {
+          "text": "\"Could you repeat that? I'm not sure I heard correctly. I do have autism and ADHD? That's what you said? I have it? I've",
+          "ok": true,
+          "pos": 1248
+        },
+        {
+          "text": "I have autism and ADHD?\"",
+          "ok": true,
+          "pos": 1447
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But the image that stands out the most is a little postcard from Max. On the front it says, \"Scared of everything, but d",
+          "ok": true,
+          "pos": 709
+        },
+        {
+          "text": "I know every word of the back by heart, but the one sentence I focus on as I wait for the results of my assessment is, \"",
+          "ok": true,
+          "pos": 844
+        },
+        {
+          "text": "And I am",
+          "ok": true,
+          "pos": 982
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "\"My AuDHD was confirmed by private assessments; the results came in this morning.\"",
+          "ok": true,
+          "pos": 4128
+        },
+        {
+          "text": "\"How would you feel about joining us once you've got the right safeguarding and other certificates? We want you to suppo",
+          "ok": true,
+          "pos": 4537
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"We have all that, but we're clearly missing a lot. Gina talked highly of your understanding, and Bailey told us you are",
+          "ok": true,
+          "pos": 5012
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"You can learn to measure your moods. I can email you resources to help with that. And medication also helps hyperfocus.",
+          "ok": true,
+          "pos": 8152
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"Good. Flora, you have a lot you can be angry about. You were let down by many people. But eventually you need to own th",
+          "ok": true,
+          "pos": 8414
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"That she has nothing to be embarrassed or ashamed about.\" I pull at my bottom lip.\"",
+          "ok": true,
+          "pos": 8753
+        },
+        {
+          "text": "\"Thank you,\" I say, still processing all that has happened in the last few hours. \"I think I'm going to get a cat.\"",
+          "ok": true,
+          "pos": 8958
+        },
+        {
+          "text": "I have no idea why I announced that, but it's time to embrace myself fully",
+          "ok": true,
+          "pos": 9069
+        }
+      ],
+      "words": 56
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 29,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "61. Chapter Sixty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1815,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

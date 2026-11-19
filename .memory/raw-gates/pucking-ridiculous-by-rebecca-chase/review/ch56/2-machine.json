@@ -1,0 +1,261 @@
+{
+  "chapter": 56,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch56 i love you.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch56_chapter_56.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I stare at the outdoor classroom Bailey walked to. Sadness chokes me. All this time wanting to continue my career in the",
+          "ok": true,
+          "pos": 588
+        },
+        {
+          "text": "\"Hey, Nate. Tell them it's a yes. I'll fly out in a couple of days.\"",
+          "ok": true,
+          "pos": 1189
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"Even if we could get you a visa, you need to stay for Bailey. And you'd hate New York,\" I say, wiping the tears from Fl",
+          "ok": true,
+          "pos": 1575
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "More tears fall as she says with a shaky voice, \"I've finally found someone who understands me, someone who is everythin",
+          "ok": true,
+          "pos": 1916
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"And hey, I can pay for your assessments because I've got money coming in. It'll be my leaving gift. Especially since I'",
+          "ok": true,
+          "pos": 2331
+        },
+        {
+          "text": "She chokes out a laugh. \"'Diddling'? When did you get so British?\"",
+          "ok": true,
+          "pos": 2498
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"You don't need to pay for the assessments. Maybe I don't even have it. I could just be difficult, like my parents say.\"",
+          "ok": true,
+          "pos": 2585
+        },
+        {
+          "text": "\"Never call yourself that. You're incredible. I love who you are, every last part of you.\"",
+          "ok": true,
+          "pos": 2702
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She lowers her eyes. \"I can't say it yet. Not because I don't feel it, but because of change and fear of rejection and b",
+          "ok": true,
+          "pos": 2904
+        },
+        {
+          "text": "\"Don't ever apologise for being you. The way you are brought me closer to Bailey, and ultimately made me fall for you. Y",
+          "ok": true,
+          "pos": 3045
+        }
+      ],
+      "words": 65
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 29,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "56. Chapter Fifty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 632,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

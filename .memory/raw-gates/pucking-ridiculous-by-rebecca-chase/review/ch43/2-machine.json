@@ -1,0 +1,330 @@
+{
+  "chapter": 43,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch43 strictly vip you understand.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch43_chapter_43.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Pencil, darling,” Ophelia says with a smirk, sipping her yellow cocktail",
+          "ok": true,
+          "pos": 2097
+        },
+        {
+          "text": "“You know that's not my name.” You're not the same anxious teenager who hid in the toilets. I glance at the sash Ophelia",
+          "ok": true,
+          "pos": 2338
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Their bullying, which they told me was banter and part of a normal friendship, is as fresh in my mind as if I were still",
+          "ok": true,
+          "pos": 2621
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“It's an exclusive event. We've only invited three hundred of our closest friends. Strictly VIP. You understand.”",
+          "ok": true,
+          "pos": 4005
+        },
+        {
+          "text": "“No wedding ring, Pencil? So you have a hideous job, and you're alone in an odious nightclub. No friends, no husband, no",
+          "ok": true,
+          "pos": 4188
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I've gotten to where I can fight some of my battles, but when faced with these girls who tortured me, I'm nothing",
+          "ok": true,
+          "pos": 4494
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“My boyfriend,” I reply over my shoulder. His eyes widen, and I nod. “My boyfriend, Max Morin. He's an American ice hock",
+          "ok": true,
+          "pos": 5063
+        },
+        {
+          "text": "“I don't believe you,” Ophelia says flatly",
+          "ok": true,
+          "pos": 5219
+        },
+        {
+          "text": "I stare her down, feeling more confident with Max by my side. “I don't care what you believe, Ophelia. I hate that I eve",
+          "ok": true,
+          "pos": 5260
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Thank God, because I'm already obsessed with her. Is your fiancé not obsessed with you, Ophelia? I guess no one could b",
+          "ok": true,
+          "pos": 6230
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I want to kiss you, but not for them. You were magnificent on the ice.\"",
+          "ok": true,
+          "pos": 6703
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Then fucking kiss me, beautiful, before I lose my mind.”",
+          "ok": true,
+          "pos": 7069
+        },
+        {
+          "text": "I lick his lower lip, and he growls before pressing his mouth to mine in a punishing kiss. His hand is on my hip, pulsin",
+          "ok": true,
+          "pos": 7125
+        },
+        {
+          "text": "He pulls his head back slowly, his brow furrowed in curiosity and his eyes dark with desire",
+          "ok": true,
+          "pos": 8247
+        },
+        {
+          "text": "“Please, Max. Come back to the hotel. I need you inside me.”",
+          "ok": true,
+          "pos": 8340
+        }
+      ],
+      "words": 91
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "43. Chapter Forty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1624,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

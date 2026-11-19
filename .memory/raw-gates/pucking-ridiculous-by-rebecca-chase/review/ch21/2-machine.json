@@ -1,0 +1,276 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch21 his fanny if you will.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch21_chapter_21.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“If any of you go near her, I'll make sure my next puck hits you in the teeth.”",
+          "ok": true,
+          "pos": 3131
+        },
+        {
+          "text": "“Whoa, Daddy Max is getting possessive,” Rudders says, chuckling",
+          "ok": true,
+          "pos": 3208
+        },
+        {
+          "text": "“Protective,” I correct. “She's a nice woman and a good friend to my son. She deserves steak, not a hot dog from a dirty",
+          "ok": true,
+          "pos": 3272
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“We call him that because he's the daddy of the team,” Owens explains. “He's always telling us what to do. He reckons he",
+          "ok": true,
+          "pos": 4237
+        },
+        {
+          "text": "Flora's eyes sparkle as they find mine. Her voice drops as she says, “Is that right, Daddy Max?”",
+          "ok": true,
+          "pos": 4396
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I'm Flora, Max's fake nanny. His fanny, if you will.” She bats her eyelashes at me as the others laugh",
+          "ok": true,
+          "pos": 4862
+        },
+        {
+          "text": "“You're not my fanny,” I mutter, but now I'm thinking about her butt under the flare of her dress",
+          "ok": true,
+          "pos": 4963
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“What is happening?” I snarl",
+          "ok": true,
+          "pos": 5406
+        },
+        {
+          "text": "“Fanny doesn't mean what you think,” Bailey hollers back from his seat",
+          "ok": true,
+          "pos": 5434
+        },
+        {
+          "text": "As everyone laughs, I look at Flora. “Go to the pizza place. I'll be there soon.”",
+          "ok": true,
+          "pos": 5503
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She puts her lips close to my ear and whispers, “Okay, Daddy Max. I'm sorry for being naughty. Maybe bring your hockey s",
+          "ok": true,
+          "pos": 5774
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Coach clears his throat, and I glance over at him, then back to Flora",
+          "ok": true,
+          "pos": 5922
+        },
+        {
+          "text": "“You're pucking ridiculous, woman.”",
+          "ok": true,
+          "pos": 5993
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter Twenty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1155,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

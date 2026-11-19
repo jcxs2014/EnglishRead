@@ -1,0 +1,256 @@
+{
+  "chapter": 54,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch54 fifteen birthdays missed.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch54_chapter_54.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“He told me he doesn't want to go, but this is everything he's ever wanted. I can't hold him back from his dreams. But w",
+          "ok": true,
+          "pos": 316
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I couldn't sleep last night. I could have gone back to my house; it's all fixed, but I want my last nights at his, even",
+          "ok": true,
+          "pos": 743
+        },
+        {
+          "text": "before Max, everything was pixelated, and now I see clearly. Life won't look as good without him in it.”",
+          "ok": true,
+          "pos": 890
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I dunno. I'm starting to wonder if the amber flags I'm ignoring are actually red flags. I've mentioned the benefit frau",
+          "ok": true,
+          "pos": 1207
+        },
+        {
+          "text": "“When I confronted him about this woman he was chatting with, asking him if he was cheating, he laughed.”",
+          "ok": true,
+          "pos": 1650
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“On my eighth birthday, my dad grounded me because I freaked out at my party. I was overstimulated because of a number o",
+          "ok": true,
+          "pos": 2679
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“It's my favourite part. It's my dream to help others plan their weddings. That's why I took the advanced photography cl",
+          "ok": true,
+          "pos": 3217
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Bailey's been dragged into the headmaster's office because he was defending Gina from bullies. I'm still an hour away.”",
+          "ok": true,
+          "pos": 3707
+        },
+        {
+          "text": "No one messes with Bailey or Gina",
+          "ok": true,
+          "pos": 3943
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "54. Chapter Fifty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 776,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

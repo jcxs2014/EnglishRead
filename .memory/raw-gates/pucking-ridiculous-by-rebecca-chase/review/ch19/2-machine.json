@@ -1,0 +1,394 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch19 you are valid.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch19_chapter_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Flour,” he says softly, closing his eyes. “I've seen the Canadian Rockies, Niagara Falls, and countless other world-cla",
+          "ok": true,
+          "pos": 774
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Will you",
+          "ok": true,
+          "pos": 1763
+        },
+        {
+          "text": "lie on the bed with me?” I ask, my voice barely above a whisper. “Migraines are a lonely experience, and when I'm coming",
+          "ok": true,
+          "pos": 1772
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Look at me, Flour.” I study the colours in his cerulean eyes. “From what I can tell, for years you've been led to belie",
+          "ok": true,
+          "pos": 3843
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Contrary to popular belief, I wasn't always a bad dad. When Bailey was a baby, he caught a couple of viruses. While sit",
+          "ok": true,
+          "pos": 4258
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Jem sent a thumbs-up emoji. Garett called. Once I answered all his questions, he promised to keep your location a secret",
+          "ok": true,
+          "pos": 5646
+        },
+        {
+          "text": "“What did he ask you?”",
+          "ok": true,
+          "pos": 5801
+        },
+        {
+          "text": "“He asked about my intentions, background, and relationship history.”",
+          "ok": true,
+          "pos": 5822
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“When Bailey moved to England, he lived in a tiny flat with Ted and his mom. Even now, her parents are paying for her di",
+          "ok": true,
+          "pos": 6795
+        },
+        {
+          "text": "“You can't buy his love.”",
+          "ok": true,
+          "pos": 7041
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“So you signed up to do something that could risk everything to be with Bailey?”",
+          "ok": true,
+          "pos": 7615
+        },
+        {
+          "text": "“Yeah. But don't tell him. He shouldn't have that pressure along with everything else.”",
+          "ok": true,
+          "pos": 7694
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "While I'm overexplaining, Max strides to the bed and reaches up under the duvet, grabbing my ankles and tugging so that ",
+          "ok": true,
+          "pos": 13454
+        },
+        {
+          "text": "“Like this?” he asks as he wraps his thick hands around my bare feet and squeezes",
+          "ok": true,
+          "pos": 13591
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Calm turns to heat. I don't let people touch me unless it's their job, like Henry",
+          "ok": true,
+          "pos": 13904
+        },
+        {
+          "text": "or if I'm about to fuck them",
+          "ok": true,
+          "pos": 13984
+        },
+        {
+          "text": "But Max is neither of those",
+          "ok": true,
+          "pos": 14013
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He releases my feet and takes a step back. “See you at the pizza place at five p.m. And if you need a fan, there's one i",
+          "ok": true,
+          "pos": 14042
+        },
+        {
+          "text": "My confusion must show on my face because he adds, “You're looking a little red, sweetheart.”",
+          "ok": true,
+          "pos": 14174
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 19,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2780,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

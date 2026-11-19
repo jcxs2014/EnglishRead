@@ -1,0 +1,244 @@
+{
+  "chapter": 47,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/ch47 it wont feel like home anymore.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pucking-ridiculous-by-rebecca-chase/text/ch47_chapter_47.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "With daily yoga, my body is moving like it hasn't in years. I turn as I skate across the ice. I feel more like an ice da",
+          "ok": true,
+          "pos": 655
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Every team will want you now,” Kris shouts in my ear, reminding me of the call from my agent, who's lined up chats with",
+          "ok": true,
+          "pos": 2169
+        },
+        {
+          "text": "It's one week before I leave for the States for discussions about next season. And then I can return home to spend three",
+          "ok": true,
+          "pos": 2442
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Your reward for the game.” She runs her fingers through my chest hair as I grab a mint from my side table so I can kiss",
+          "ok": true,
+          "pos": 3332
+        },
+        {
+          "text": "I ruffle her hair, and flour falls out like snow. “They didn't just make cocktails.”",
+          "ok": true,
+          "pos": 3608
+        },
+        {
+          "text": "She brushes it off my chest. “Christmas cookies. Can I resume sucking your dick?”",
+          "ok": true,
+          "pos": 3690
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Can we do a different position?” With other women, it's been about instinct, but with Flora, I have to ask and explain,",
+          "ok": true,
+          "pos": 4879
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I kiss her shoulder, and she hums with joy. “Can I sleep here once I've tidied up?”",
+          "ok": true,
+          "pos": 7821
+        },
+        {
+          "text": "“Hell yes. I need you so I can sleep. I won't get a wink when I'm back in the States.”",
+          "ok": true,
+          "pos": 7902
+        },
+        {
+          "text": "I mean for my week away, but pain sticks in my chest, because the more time we're spending together, the more I'm scared",
+          "ok": true,
+          "pos": 7985
+        },
+        {
+          "text": "Only, it won't feel like home anymore",
+          "ok": true,
+          "pos": 8120
+        }
+      ],
+      "words": 73
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "47. Chapter Forty-Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7,
+    "block_range": [
+      2,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1602,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 68 章中位 7、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
