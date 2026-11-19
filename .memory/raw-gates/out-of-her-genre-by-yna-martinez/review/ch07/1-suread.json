@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch07",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch07_chapter_7_executive_provisions.txt",
+ "facts": [
+  {
+   "fact": "Yna 抵达 RCG 前台告知 Teresa 与 Rhodes 先生约 nine-thirty",
+   "anchor": "I have a nine-thirty appointment with Mr. Rhodes.",
+   "start": 1529,
+   "end": 1578
+  },
+  {
+   "fact": "凌晨三点发现 Chapter 16 重大漏洞，脑中回放刺客背叛对白",
+   "anchor": "a massive plot hole she",
+   "start": 625,
+   "end": 648
+  },
+  {
+   "fact": "Marcus 自我介绍是 Rhodes 的行政助理，领 Yna 去办公室",
+   "anchor": "I'm Marcus, Mr. Rhodes's executive assistant,",
+   "start": 2722,
+   "end": 2767
+  },
+  {
+   "fact": "Yna 喝到 Kai 备好的咖啡，奶糖比例与 Tim Hortons 深焙完全一致，确认他记得偏好",
+   "anchor": "the exact ratio of cream and sugar of a perfect Tim Hortons dark roast coffee.",
+   "start": 4997,
+   "end": 5075
+  },
+  {
+   "fact": "Section 4 本层配专属私人办公室，防媒体泄露并便于媒体培训",
+   "anchor": "a dedicated, private office suite allocated specifically for you on this floor.",
+   "start": 6740,
+   "end": 6819
+  },
+  {
+   "fact": "Kai 签约会上同段合同读了近一分钟走神，被 Marcus 偷看",
+   "anchor": "He had been reading the same paragraph for nearly a minute.",
+   "start": 8176,
+   "end": 8235
+  },
+  {
+   "fact": "Yna 触控笔签名亮绿色，续约正式生效",
+   "anchor": "The digital signature flashed bright green on the tablet screen",
+   "start": 9877,
+   "end": 9940
+  },
+  {
+   "fact": "【转折】条款超预期当场签名敲定续约，随后 Kai 第一次直呼 Yna",
+   "anchor": "Yna took the stylus and signed her name across the screen with a fluid flourish.",
+   "start": 9794,
+   "end": 9874
+  }
+ ]
+}

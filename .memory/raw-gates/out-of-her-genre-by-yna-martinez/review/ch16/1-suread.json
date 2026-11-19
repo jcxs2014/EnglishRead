@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch16",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch16_chapter_16_the_co_conspirators.txt",
+ "facts": [
+  {
+   "fact": "Yna 对空房重复 Here's your reward 怀疑自己疯了",
+   "anchor": "Yna whispered to the empty room, her voice trembling with manic disbelief",
+   "start": 485,
+   "end": 558
+  },
+  {
+   "fact": "短信扬言把 Jen/Jaemee 写进 ch18 被沼泽女妖伏击",
+   "anchor": "I am officially writing both of you into Chapter 18",
+   "start": 771,
+   "end": 822
+  },
+  {
+   "fact": "Marcus 端矿泉水说 Rhodes 派他检查她的状况补水",
+   "anchor": "Mr. Rhodes sent me to check on you",
+   "start": 3094,
+   "end": 3128
+  },
+  {
+   "fact": "中午稿子零进展只打出三个词 My Dark Prince",
+   "anchor": "she had managed to type only three words: My Dark Prince",
+   "start": 4307,
+   "end": 4363
+  },
+  {
+   "fact": "电梯口 Marcus 拦她递午餐说是 Kai 让额外点的",
+   "anchor": "Kai asked me to pick up an extra lunch for you",
+   "start": 5562,
+   "end": 5608
+  },
+  {
+   "fact": "Elizabeth 追问为何不算男友，说他很好还像电影人物抱她上楼",
+   "anchor": "Why not? He seemed really nice",
+   "start": 9571,
+   "end": 9601
+  },
+  {
+   "fact": "下午去社区健身房跑 One hour and fifteen minutes 到 1:45 PM",
+   "anchor": "drove to the community gym, laced up her runners",
+   "start": 7144,
+   "end": 7192
+  },
+  {
+   "fact": "【转折】Jaemee 与 Marcus 深夜咖啡馆拼出全部经过，嘴上说不干涉实则启动撮合计划",
+   "anchor": "a co-conspirator whose master plan was already in motion",
+   "start": 15728,
+   "end": 15784
+  }
+ ]
+}

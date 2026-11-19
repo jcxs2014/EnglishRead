@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch20",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch20_chapter_20_ghosts_in_the_skyline.txt",
+ "facts": [
+  {
+   "fact": "晚七点顶层 Kai 与姐姐 Maya 争执，Maya 劝他给 Chloe 机会",
+   "anchor": "Maya leaned against the counter opposite him, her arms folded across her chest",
+   "start": 404,
+   "end": 482
+  },
+  {
+   "fact": "Kai 背对 Maya 说 Chloe 回来只是空地址，拒绝为旧情松口",
+   "anchor": "She came back to an empty address",
+   "start": 1593,
+   "end": 1626
+  },
+  {
+   "fact": "Kai 指责 Chloe 一遇麻烦就抽身头也不回，如今想重修旧好",
+   "anchor": "She chose her exit the second things became inconvenient.",
+   "start": 2337,
+   "end": 2394
+  },
+  {
+   "fact": "Marcus 短信说起草新采访协议只问创作叙事，确认 Yna 明早来",
+   "anchor": "Drafted the new media interview protocols.",
+   "start": 3273,
+   "end": 3315
+  },
+  {
+   "fact": "读短信后 Kai 脑中 Chloe 期待笑容被 Yna 形象取代",
+   "anchor": "The image of Chloe’s polished, expectant smile dissolved instantly.",
+   "start": 3458,
+   "end": 3525
+  },
+  {
+   "fact": "第二天九点 Yna 出电梯到第40层，神态平静微笑",
+   "anchor": "the elevator chime rang on the 40th floor",
+   "start": 3982,
+   "end": 4023
+  },
+  {
+   "fact": "她停在玻璃隔断外看见他与 Marcus 处理 Q3 预测",
+   "anchor": "She paused just outside the glass partition of Kai’s corner office.",
+   "start": 4677,
+   "end": 4744
+  },
+  {
+   "fact": "【转折】隔玻璃她主动露私密笑，他严厉面具回报真心笑",
+   "anchor": "Yna tilted her head slightly to the right and offered him a soft, private smile.",
+   "start": 5914,
+   "end": 5994
+  }
+ ]
+}

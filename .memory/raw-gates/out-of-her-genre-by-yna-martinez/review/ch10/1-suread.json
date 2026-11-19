@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch10",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch10_chapter_10_the_lower_loop.txt",
+ "facts": [
+  {
+   "fact": "Kai 告诉 Yna 约 forty minutes 后回到 trailhead",
+   "anchor": "We'll be back at the trailhead in about forty minutes",
+   "start": 414,
+   "end": 467
+  },
+  {
+   "fact": "Yna 说她两个最小的孩子 seven and nine 岁",
+   "anchor": "Yes, my two youngest are seven and nine",
+   "start": 2304,
+   "end": 2343
+  },
+  {
+   "fact": "Yna 向前走靴子踩 loose gravel 打滑",
+   "anchor": "As she moved forward, her boot caught on a patch of loose gravel",
+   "start": 2411,
+   "end": 2475
+  },
+  {
+   "fact": "Kai 本能伸手扶，Yna 抓住他的手稳住",
+   "anchor": "Without thinking, Kai instinctively reached out. Yna grabbed his hand",
+   "start": 2479,
+   "end": 2548
+  },
+  {
+   "fact": "Kai 说妹妹 Maya 是护士，住在 three hours north",
+   "anchor": "Maya. She's a nurse now. Lives about three hours north of here.",
+   "start": 4277,
+   "end": 4340
+  },
+  {
+   "fact": "Kai 确认 Elizabeth fourteen 岁，说这年纪难管",
+   "anchor": "Fourteen, right? That's a tough age",
+   "start": 3860,
+   "end": 3895
+  },
+  {
+   "fact": "Kai 想邀 Yna 去路边晚餐，最后只说 see you Monday",
+   "anchor": "The invitation to grab a late lunch at the diner down the road",
+   "start": 7171,
+   "end": 7233
+  },
+  {
+   "fact": "【转折】Marcus 揭穿 Kai 从咖啡馆就认出 Yna，一直知情",
+   "anchor": "You recognized her at the cafe, didn't you? You've known the entire time!",
+   "start": 12992,
+   "end": 13065
+  }
+ ]
+}

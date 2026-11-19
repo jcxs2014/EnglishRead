@@ -1,0 +1,658 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/out-of-her-genre-by-yna-martinez/ch08 forced proximity.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch08_chapter_8_forced_proximity.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Kai pointed to the document. “We've drafted a preliminary timeline. The goal is a phased rollout. First, a social media ",
+          "ok": true,
+          "pos": 4255
+        },
+        {
+          "text": "He gestured down the page. “After that, we move into the media phase. Interviews, podcasts, print features. We've alread",
+          "ok": true,
+          "pos": 4545
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Yna stared at the extensive timeline, her throat suddenly feeling dry. “Wow",
+          "ok": true,
+          "pos": 4744
+        },
+        {
+          "text": "this is",
+          "ok": true,
+          "pos": 4822
+        },
+        {
+          "text": "a lot. It's a little overwhelming.”",
+          "ok": true,
+          "pos": 4833
+        },
+        {
+          "text": "Noticing the sudden tension in her posture, Kai paused. His tone softened, dropping half an octave into something steady",
+          "ok": true,
+          "pos": 4867
+        },
+        {
+          "text": "“We'll take it slow,” Kai said firmly. “We're not throwing you into the deep end. You write the book. We handle the nois",
+          "ok": true,
+          "pos": 5003
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Nonsense, Ms. Martinez,” Marcus said smoothly, guiding her by the shoulder toward the chair directly beside Kai. He pla",
+          "ok": true,
+          "pos": 6903
+        },
+        {
+          "text": "Yna looked at Kai, her cheeks flushing slightly as she wondered if he had actually requested that",
+          "ok": true,
+          "pos": 7187
+        },
+        {
+          "text": "Beside her, Kai froze, internally horrified that Marcus was making him sound like an overbearing personal caretaker. He ",
+          "ok": true,
+          "pos": 7286
+        }
+      ],
+      "words": 96
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“So,” Kai began casually. “How is Chapter 16 coming along? The scene with the assassin.”",
+          "ok": true,
+          "pos": 8592
+        },
+        {
+          "text": "Yna looked up, a self-deprecating laugh escaping her lips. “Oh, writer's block hit me like a freight train.”",
+          "ok": true,
+          "pos": 8677
+        },
+        {
+          "text": "Kai studied her silently over his water glass. He noticed the stark difference between the loud, uninhibited Yna who lau",
+          "ok": true,
+          "pos": 8783
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You mentioned earlier that you have children,” Kai said carefully. “If you don't mind me asking",
+          "ok": true,
+          "pos": 9250
+        },
+        {
+          "text": "do you have a partner who supports you through all this?”",
+          "ok": true,
+          "pos": 9346
+        },
+        {
+          "text": "Yna’s hands paused. The air in the room suddenly felt an inch thinner",
+          "ok": true,
+          "pos": 9403
+        },
+        {
+          "text": "Whenever strangers assumed she had a supportive partner waiting at home, Yna felt a familiar, defensive instinct kick in",
+          "ok": true,
+          "pos": 9473
+        },
+        {
+          "text": "“I'm not married,” Yna said quietly, taking a small bite. “I take care of my kids by myself.”",
+          "ok": true,
+          "pos": 9647
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Kai's hand froze",
+          "ok": true,
+          "pos": 9736
+        },
+        {
+          "text": "He hadn't meant to pry, and he certainly hadn't intended to touch an open wound. He saw the subtle shift in her shoulder",
+          "ok": true,
+          "pos": 9753
+        },
+        {
+          "text": "“I",
+          "ok": true,
+          "pos": 22
+        },
+        {
+          "text": "I didn't mean to overstep,” Kai said, his voice dropping into something genuine and quiet. “I apologize. That was insens",
+          "ok": true,
+          "pos": 9932
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He didn't try to cover the awkwardness with a corporate pivot or a joke. He simply sat there, giving her space",
+          "ok": true,
+          "pos": 10062
+        },
+        {
+          "text": "“Raising three children while writing a dark fantasy epic is an extraordinary achievement,” Kai added softly, his tone s",
+          "ok": true,
+          "pos": 10173
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She gestured toward his hands, noticing the bare skin of his left ring finger. “What about you, Mr. Rhodes? Are you marr",
+          "ok": true,
+          "pos": 10499
+        },
+        {
+          "text": "Kai leaned back against his chair, taking a slow sip of water as he considered the question",
+          "ok": true,
+          "pos": 10706
+        },
+        {
+          "text": "“No,” he said simply. “No wife. And no plans to change that anytime soon.”",
+          "ok": true,
+          "pos": 10799
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“My schedule doesn't leave much room for a relationship,” Kai explained calmly. “ Between managing the conglomerate, med",
+          "ok": true,
+          "pos": 10878
+        },
+        {
+          "text": "Yna studied him for a moment, her dark eyes searching his face. “That sounds suspiciously like something someone says wh",
+          "ok": true,
+          "pos": 11189
+        },
+        {
+          "text": "Kai's gaze settled on her, quiet and unreadable",
+          "ok": true,
+          "pos": 11357
+        },
+        {
+          "text": "“Perhaps,” he acknowledged softly",
+          "ok": true,
+          "pos": 11405
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Yna smiled, leaning her chin on her hand. “And what do you do when you aren't guarding those terms?”",
+          "ok": true,
+          "pos": 11438
+        },
+        {
+          "text": "A rare, faint flicker of amusement touched Kai's eyes. “I hike.”",
+          "ok": true,
+          "pos": 11536
+        },
+        {
+          "text": "Yna raised an eyebrow. “You? In a suit?”",
+          "ok": true,
+          "pos": 11598
+        },
+        {
+          "text": "Kai let out a low, dry chuckle. “Not in a suit, no. When I can clear my schedule for a weekend, I head north. No cell re",
+          "ok": true,
+          "pos": 11637
+        }
+      ],
+      "words": 94
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“He is over-extending his authority,” Kai said smoothly to Yna, though he couldn't prevent a subtle twitch in his jaw. “",
+          "ok": true,
+          "pos": 12854
+        },
+        {
+          "text": "if you ever find yourself needing a break from manuscript deadlines and children's shoes, I suppose I wouldn't mind the ",
+          "ok": true,
+          "pos": 12981
+        },
+        {
+          "text": "Yna laughed, the sound warm and bright in the quiet room. “I can carry my own backpack, Mr. Rhodes.”",
+          "ok": true,
+          "pos": 13167
+        },
+        {
+          "text": "Kai’s mouth quirked up into a genuine, unpracticed half-smile. “I don't doubt that for a second.”",
+          "ok": true,
+          "pos": 13266
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Kai stood behind his desk, staring at Marcus with an expression that could freeze boiling water. “She is a client, Marcu",
+          "ok": true,
+          "pos": 14596
+        },
+        {
+          "text": "“You spent three minutes trying to read the same paragraph this morning while she was sitting in front of you, Kai,” Mar",
+          "ok": true,
+          "pos": 14867
+        },
+        {
+          "text": "“I was observing her temperament,” Kai countered, his voice dangerously calm. “Are you actively auditioning for unemploy",
+          "ok": true,
+          "pos": 15060
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "It's just work, she tried to convince herself, suppressing the nervous flutter in her stomach. A standard corporate requ",
+          "ok": true,
+          "pos": 20841
+        },
+        {
+          "text": "With a quiet sigh, she opened the reply box, her fingers hovering hesitantly over the keyboard",
+          "ok": true,
+          "pos": 20993
+        },
+        {
+          "text": "Hi Marcus, I'm available. I'll see you both Saturday",
+          "ok": true,
+          "pos": 21089
+        },
+        {
+          "text": "She hit send before she could talk herself out of it, setting her phone down with a heavy exhale",
+          "ok": true,
+          "pos": 21141
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Marcus looked toward Kai's closed office door, then back at the confirmation on his screen",
+          "ok": true,
+          "pos": 21675
+        },
+        {
+          "text": "A slow, deeply satisfied smile spread across his face",
+          "ok": true,
+          "pos": 21766
+        },
+        {
+          "text": "“Saturday,” he murmured",
+          "ok": true,
+          "pos": 21821
+        },
+        {
+          "text": "He slipped the phone into his pocket",
+          "ok": true,
+          "pos": 21844
+        },
+        {
+          "text": "Somewhere behind that closed door, Kai was probably congratulating himself on maintaining professional boundaries",
+          "ok": true,
+          "pos": 21882
+        },
+        {
+          "text": "Marcus almost laughed",
+          "ok": true,
+          "pos": 21997
+        },
+        {
+          "text": "Saturday was going to be fun",
+          "ok": true,
+          "pos": 22020
+        }
+      ],
+      "words": 63
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 135,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 131,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 137,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 122,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter 8: Forced Proximity",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 12.0,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 53,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3721,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句8",
+        "kw": "No wife. And no plans to change that anytime soon.",
+        "words": 10
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

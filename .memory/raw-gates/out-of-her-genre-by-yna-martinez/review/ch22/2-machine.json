@@ -1,0 +1,817 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/out-of-her-genre-by-yna-martinez/ch22 thermal irregularities.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch22_chapter_22_thermal_irregularities.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He only saw her",
+          "ok": true,
+          "pos": 206
+        },
+        {
+          "text": "He was halfway down the corridor when Yna’s voice cut through the quiet—sharp, dramatic, and entirely unbothered by the ",
+          "ok": true,
+          "pos": 223
+        },
+        {
+          "text": "He stopped. His hand, poised to turn the brass handle of his office door, lingered in mid-air",
+          "ok": true,
+          "pos": 473
+        },
+        {
+          "text": "A slow, quiet warmth flooded his chest, washing away the cold, hollow exhaustion Chloe had left behind. He tilted his he",
+          "ok": true,
+          "pos": 568
+        },
+        {
+          "text": "A faint, genuine smile touched the corner of Kai’s lips",
+          "ok": true,
+          "pos": 981
+        },
+        {
+          "text": "Completely unhinged, he thought with quiet fascination. And entirely magnificent",
+          "ok": true,
+          "pos": 1037
+        }
+      ],
+      "words": 154
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Elizabeth leaned against the hall entryway, arms crossed over her chest, eyeing her mother with the weary suspicion of a",
+          "ok": true,
+          "pos": 1222
+        },
+        {
+          "text": "“Do not come home drunk, Mother,” Elizabeth instructed flatly. “I am not tucking you in, and I am not listening to you r",
+          "ok": true,
+          "pos": 1368
+        },
+        {
+          "text": "“I am having one club soda and listening to a friend vent,” Yna promised, pressing a quick kiss to Elizabeth’s forehead.",
+          "ok": true,
+          "pos": 1535
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“",
+          "ok": true,
+          "pos": 0
+        },
+        {
+          "text": "I told him I missed him!” Chloe wailed into a wad of napkins, her voice thick and slurred. “I literally put my arms arou",
+          "ok": true,
+          "pos": 2298
+        },
+        {
+          "text": "She snatched a fresh shot of tequila from the table and downed it in one ragged gulp",
+          "ok": true,
+          "pos": 2515
+        },
+        {
+          "text": "Yna slid into the booth opposite them, setting her purse down and raising an eyebrow at Jen. “Did I miss an entire seaso",
+          "ok": true,
+          "pos": 2601
+        },
+        {
+          "text": "“Our girl staged an unauthorized ambush,” Jen whispered, patting Chloe’s trembling back with rhythmic maternal sympathy.",
+          "ok": true,
+          "pos": 2752
+        },
+        {
+          "text": "Yna winced, her eyes widening in immediate secondhand horror. “Oh, honey, no. An office ambush? That is a Category Five ",
+          "ok": true,
+          "pos": 2993
+        },
+        {
+          "text": "Chloe looked up, her bloodshot eyes brimming with fresh, dramatic tears. “He’s like an iceberg, Yna! A gorgeous, tailore",
+          "ok": true,
+          "pos": 3211
+        },
+        {
+          "text": "Before Yna could react, Chloe lunged across the vinyl, throwing her arms around Yna’s neck and burying her face into her",
+          "ok": true,
+          "pos": 3420
+        },
+        {
+          "text": "Yna blinked, her motherly instincts kicking in on pure autopilot. She wrapped an arm around Chloe’s shaking shoulders, p",
+          "ok": true,
+          "pos": 3573
+        },
+        {
+          "text": "it’s okay. Deep breaths.”",
+          "ok": true,
+          "pos": 3736
+        },
+        {
+          "text": "“I",
+          "ok": true,
+          "pos": 20
+        },
+        {
+          "text": "I even tried to kiss him!” Chloe choked out, her voice echoing loudly over the pub’s acoustic playlist",
+          "ok": true,
+          "pos": 3765
+        },
+        {
+          "text": "“And he stepped backward! He literally took a tactical retreat to avoid my lips!”",
+          "ok": true,
+          "pos": 3867
+        }
+      ],
+      "words": 292
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Yna winced, her eyes widening in immediate secondhand horror. “Oh, honey, no. An office ambush? That is a Category Five ",
+          "ok": true,
+          "pos": 2993
+        },
+        {
+          "text": "Chloe looked up, her bloodshot eyes brimming with fresh, dramatic tears. “He’s like an iceberg, Yna! A gorgeous, tailore",
+          "ok": true,
+          "pos": 3211
+        },
+        {
+          "text": "Before Yna could react, Chloe lunged across the vinyl, throwing her arms around Yna’s neck and burying her face into her",
+          "ok": true,
+          "pos": 3420
+        },
+        {
+          "text": "Yna blinked, her motherly instincts kicking in on pure autopilot. She wrapped an arm around Chloe’s shaking shoulders, p",
+          "ok": true,
+          "pos": 3573
+        },
+        {
+          "text": "it’s okay. Deep breaths.”",
+          "ok": true,
+          "pos": 3736
+        },
+        {
+          "text": "“I",
+          "ok": true,
+          "pos": 20
+        },
+        {
+          "text": "I even tried to kiss him!” Chloe choked out, her voice echoing loudly over the pub’s acoustic playlist",
+          "ok": true,
+          "pos": 3765
+        },
+        {
+          "text": "“And he stepped backward! He literally took a tactical retreat to avoid my lips!”",
+          "ok": true,
+          "pos": 3867
+        },
+        {
+          "text": "Nearby patrons at the bar turned their heads to stare. Jaemee offered them a bright, apologetic grimace, mouthing, Medic",
+          "ok": true,
+          "pos": 3947
+        },
+        {
+          "text": "“Okay, okay,” Yna hushed gently, rubbing small circles into Chloe’s back. “Listen to me, Chloe. Rejection burns, but you",
+          "ok": true,
+          "pos": 4091
+        },
+        {
+          "text": "“I told her that,” Jen chimed in, resting her chin on her hand. “Did she listen? No. She wanted the dramatic cinematic r",
+          "ok": true,
+          "pos": 4397
+        },
+        {
+          "text": "It took forty-five minutes, three glasses of ice water, and a shared basket of mozzarella sticks to talk Chloe down from",
+          "ok": true,
+          "pos": 4522
+        }
+      ],
+      "words": 282
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Before she could take two steps, Jen and Jaemee moved in tandem, each hooking a tight arm through Yna’s elbows, effectiv",
+          "ok": true,
+          "pos": 5325
+        },
+        {
+          "text": "“Not so fast, Martinez,” Jen purred",
+          "ok": true,
+          "pos": 5470
+        },
+        {
+          "text": "“Hey, dear friend,” Jaemee whispered with a wicked grin. “How are things going with that devastatingly handsome CEO you ",
+          "ok": true,
+          "pos": 5505
+        },
+        {
+          "text": "A furious rush of heat flooded Yna’s cheeks. She tried to yank her arms free, but her friends were locked like iron vice",
+          "ok": true,
+          "pos": 5667
+        },
+        {
+          "text": "“Oh, you two are utterly relentless,” Yna groaned, glaring at the pavement. “It wasn't a real kiss! It was a tequila-ind",
+          "ok": true,
+          "pos": 5789
+        },
+        {
+          "text": "“Answer the question and we'll release you to your children,” Jen demanded, practically bouncing on her heels",
+          "ok": true,
+          "pos": 5954
+        },
+        {
+          "text": "“There is nothing to answer!” Yna protested, waving her free hand. “He is my publisher! He is the textbook definition of",
+          "ok": true,
+          "pos": 6062
+        },
+        {
+          "text": "Jaemee snickered. “And yet, you kissed him.”",
+          "ok": true,
+          "pos": 6286
+        },
+        {
+          "text": "Yna’s shoulders dropped. She stared at the asphalt, her voice shrinking to a tiny, mortified whisper",
+          "ok": true,
+          "pos": 6329
+        },
+        {
+          "text": "“I cried the day before yesterday,” she confessed",
+          "ok": true,
+          "pos": 6430
+        },
+        {
+          "text": "Jen and Jaemee froze. “What?”",
+          "ok": true,
+          "pos": 6479
+        },
+        {
+          "text": "“During our first mock interview,” Yna mumbled, her face turning a deep, vivid scarlet despite having not consumed a sin",
+          "ok": true,
+          "pos": 6507
+        },
+        {
+          "text": "he held me.”",
+          "ok": true,
+          "pos": 6690
+        }
+      ],
+      "words": 242
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Kai Rhodes was a problem",
+          "ok": true,
+          "pos": 8891
+        },
+        {
+          "text": "Yna stared at it until the letters began to blur. It wasn't a character name. It wasn't fantasy lore. It was just him—th",
+          "ok": true,
+          "pos": 8917
+        },
+        {
+          "text": "“You are officially losing your mind, Martinez,” she whispered to the empty room",
+          "ok": true,
+          "pos": 9205
+        },
+        {
+          "text": "Her thumb moved to her phone, opening her photo gallery to the shot from the brand summit. Kai was looking down at her—h",
+          "ok": true,
+          "pos": 9285
+        },
+        {
+          "text": "A hot wave of panic washed through her veins, followed immediately by the realization that she had no business finding t",
+          "ok": true,
+          "pos": 9472
+        },
+        {
+          "text": "“Cold shower,” Yna declared aloud, slamming the phone face-down onto the desk with a sharp clatter. “I need an aggressiv",
+          "ok": true,
+          "pos": 9616
+        }
+      ],
+      "words": 155
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Brrr,” she muttered under her breath, pulling her beige cardigan tighter around her torso. “I may have significantly ov",
+          "ok": true,
+          "pos": 10061
+        },
+        {
+          "text": "She adjusted her laptop bag and began walking down the corridor toward her suite",
+          "ok": true,
+          "pos": 10232
+        },
+        {
+          "text": "As she passed the corner, she caught sight of Kai through the glass",
+          "ok": true,
+          "pos": 10314
+        },
+        {
+          "text": "He was seated behind his massive desk, bathed in the sharp morning sunlight, pen resting lightly between his long finger",
+          "ok": true,
+          "pos": 10383
+        },
+        {
+          "text": "A dark lord in broad daylight, Yna thought",
+          "ok": true,
+          "pos": 10706
+        }
+      ],
+      "words": 116
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I am not sick,” she sniffled, standing in front of the corporate tea organizer. “I am simply chemically recalibrating.”",
+          "ok": true,
+          "pos": 11104
+        },
+        {
+          "text": "She stared blankly at the rows of colorful tea sachets. “Peppermint? Earl Grey? Does chamomile cure hypothermia?”",
+          "ok": true,
+          "pos": 11221
+        },
+        {
+          "text": "She reached for the chamomile box, feeling like a half-melted candle",
+          "ok": true,
+          "pos": 11333
+        },
+        {
+          "text": "A tall, broad shadow fell across the doorway",
+          "ok": true,
+          "pos": 11403
+        },
+        {
+          "text": "“You sound terrible.”",
+          "ok": true,
+          "pos": 11449
+        },
+        {
+          "text": "The low, velvety baritone vibrated right through her spine",
+          "ok": true,
+          "pos": 11469
+        },
+        {
+          "text": "Yna spun around, clutching the box of chamomile tea against her ribs like a medieval buckler",
+          "ok": true,
+          "pos": 11529
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Kai,” he corrected softly, his voice dropping into that quiet, intimate register. “Just call me Kai.”",
+          "ok": true,
+          "pos": 12133
+        },
+        {
+          "text": "He stepped fully into the small kitchenette, leaving Yna suddenly and acutely aware of how little space existed between ",
+          "ok": true,
+          "pos": 12232
+        },
+        {
+          "text": "He reached past her, his forearm brushing lightly against hers as he retrieved a small spoon from the drawer. The casual",
+          "ok": true,
+          "pos": 12472
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Before Yna could step back, his broad, cool palm came to rest flat against her forehead",
+          "ok": true,
+          "pos": 13263
+        },
+        {
+          "text": "Yna’s breath caught in her throat",
+          "ok": true,
+          "pos": 13352
+        },
+        {
+          "text": "Her eyelids fluttered shut for one breathless, agonizing second. His touch was firm, steady, and deliciously cool agains",
+          "ok": true,
+          "pos": 13386
+        },
+        {
+          "text": "“You're warm,” Kai murmured, his brow furrowing as he leaned in a fraction closer",
+          "ok": true,
+          "pos": 13627
+        },
+        {
+          "text": "“It's just",
+          "ok": true,
+          "pos": 13707
+        },
+        {
+          "text": "the cold shower,” Yna managed, her voice trembling slightly under the weight of his proximity. “Thermal shock. It's a kn",
+          "ok": true,
+          "pos": 13719
+        },
+        {
+          "text": "She made a halfhearted attempt to pull back, but Kai’s hand lingered against her temple for another long, deliberate hea",
+          "ok": true,
+          "pos": 13864
+        },
+        {
+          "text": "“A cold shower doesn't cause this kind of heat, Yna,” Kai said quietly, his dark eyes locking onto hers with unwavering ",
+          "ok": true,
+          "pos": 14034
+        }
+      ],
+      "words": 156
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "He rounded the corner, glanced through the open doorway, and stopped dead",
+          "ok": true,
+          "pos": 14273
+        },
+        {
+          "text": "Through the frame, Marcus saw Kai Rhodes standing six inches from Yna Martinez, his hand just leaving her temple, the ai",
+          "ok": true,
+          "pos": 14348
+        },
+        {
+          "text": "Marcus’s eyes blew wide behind his glasses",
+          "ok": true,
+          "pos": 14548
+        },
+        {
+          "text": "He spun on his polished heel so fast his loafers squeaked against the carpet",
+          "ok": true,
+          "pos": 14591
+        },
+        {
+          "text": "Down the hallway, Trina and two junior marketing coordinators were strolling toward the breakroom, chatting about quarte",
+          "ok": true,
+          "pos": 14669
+        },
+        {
+          "text": "Marcus intercepted them like a secret service agent diving onto a dignitary",
+          "ok": true,
+          "pos": 14802
+        },
+        {
+          "text": "“Who wants artisanal single-origin lattes from the street cafe downstairs?!” Marcus announced loudly, his voice pitched ",
+          "ok": true,
+          "pos": 14879
+        },
+        {
+          "text": "Trina blinked. “Marcus? There’s fresh espresso right in the kitchen—”",
+          "ok": true,
+          "pos": 15115
+        },
+        {
+          "text": "“The kitchen is closed!” Marcus insisted frantically, his eyes wild with operational panic. “Total plumbing emergency! B",
+          "ok": true,
+          "pos": 15182
+        }
+      ],
+      "words": 177
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Inside the small room, Yna and Kai stood frozen in the sudden silence, the frantic sound of Marcus’s retreating footstep",
+          "ok": true,
+          "pos": 15407
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 126,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 151,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 121,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 159,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 262,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 216,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter 22: Thermal Irregularities",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 12.0,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 8,
+    "segments": 86,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2564,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 154
+      },
+      {
+        "block": "原句3",
+        "words": 292
+      },
+      {
+        "block": "原句4",
+        "words": 282
+      },
+      {
+        "block": "原句5",
+        "words": 242
+      },
+      {
+        "block": "原句6",
+        "words": 155
+      },
+      {
+        "block": "原句7",
+        "words": 116
+      },
+      {
+        "block": "原句10",
+        "words": 156
+      },
+      {
+        "block": "原句11",
+        "words": 177
+      }
+    ],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句10",
+        "kw": "cool palm came to rest flat against her forehead",
+        "words": 9
+      },
+      {
+        "block": "原句10",
+        "kw": "A cold shower doesn't cause this kind of heat",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

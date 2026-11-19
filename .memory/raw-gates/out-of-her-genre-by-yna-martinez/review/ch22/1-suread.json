@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch22",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch22_chapter_22_thermal_irregularities.txt",
+ "facts": [
+  {
+   "fact": "晚七点 Yna 站前门晃车钥匙准备出门",
+   "anchor": "Yna stood by the front door of her house, jingling her minivan keys.",
+   "start": 1196,
+   "end": 1264
+  },
+  {
+   "fact": "Elizabeth 淡淡告诫别喝醉回家，说不给她掖被角不听独白",
+   "anchor": "Do not come home drunk",
+   "start": 1416,
+   "end": 1438
+  },
+  {
+   "fact": "Yna 承诺只喝一杯苏打水听朋友倾诉不喝玛格丽特",
+   "anchor": "I am having one club soda and listening to a friend vent",
+   "start": 1589,
+   "end": 1645
+  },
+  {
+   "fact": "Chloe 用纸巾捂脸哭诉说告诉前男友想他还抱住被甩开",
+   "anchor": "I told him I missed him!",
+   "start": 2376,
+   "end": 2400
+  },
+  {
+   "fact": "Jen 说 Chloe 下午没打招呼突袭前男友公司",
+   "anchor": "She showed up unannounced at his corporate office this afternoon.",
+   "start": 3020,
+   "end": 3085
+  },
+  {
+   "fact": "Chloe 说前任像冰山，看她像看保险推销员",
+   "anchor": "He’s like an iceberg, Yna! A gorgeous, tailored block of Arctic ice!",
+   "start": 3385,
+   "end": 3453
+  },
+  {
+   "fact": "朋友花四十五分钟三杯冰水一篮奶酪棒才把她劝下悬崖",
+   "anchor": "It took forty-five minutes, three glasses of ice water, and a shared basket",
+   "start": 4661,
+   "end": 4736
+  },
+  {
+   "fact": "【转折】深夜稿纸打出 Kai Rhodes 三词意识到他是真实的他",
+   "anchor": "Kai Rhodes was a problem.",
+   "start": 9212,
+   "end": 9237
+  }
+ ]
+}

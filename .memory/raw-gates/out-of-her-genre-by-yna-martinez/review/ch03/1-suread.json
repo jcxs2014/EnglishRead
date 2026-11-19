@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch03",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch03_chapter_3_the_physics_of_unintended_coll.txt",
+ "facts": [
+  {
+   "fact": "拒绝 Michael third night tacos，坚持 spaghetti night",
+   "anchor": "\"No, Michael, we are not having tacos for the third night in a row.",
+   "start": 318,
+   "end": 385
+  },
+  {
+   "fact": "与 Jaemee 数周前计划 wings and drinks 庆 40th birthday",
+   "anchor": "she said to Jaemee on the phone. They had been planning this night out",
+   "start": 886,
+   "end": 956
+  },
+  {
+   "fact": "托付 Elizabeth 看家，她回 I'll keep them alive",
+   "anchor": "I'm trusting you to make sure your brother and sister don't turn the house",
+   "start": 3337,
+   "end": 3411
+  },
+  {
+   "fact": "Marcus 拽 Kai 手肘进鸡翅店，他点 Whiskey Neat",
+   "anchor": "Marcus stepped inside, practically pulling Kai Rhodes by the elbow.",
+   "start": 6714,
+   "end": 6781
+  },
+  {
+   "fact": "Yna 点 hot wings + salt and pepper wings + blended margarita",
+   "anchor": "\"I'll have an order of hot wings and salt and pepper wings. And to drink",
+   "start": 5955,
+   "end": 6027
+  },
+  {
+   "fact": "Jaemee 搭讪 Marcus，Marcus 提议入座，Kai 坐进 Yna 旁边最后一位",
+   "anchor": "Kai took the final remaining seat—which placed him directly beside Yna.",
+   "start": 17489,
+   "end": 17560
+  },
+  {
+   "fact": "三次插话被断卡死；Yna 笑答 Unstructured is my specialty",
+   "anchor": "\"It's... unstructured,\" Kai admitted softly",
+   "start": 20486,
+   "end": 20529
+  },
+  {
+   "fact": "【转折】拐角相撞，Yna 尾骨着地包洒落；Marcus 扶起，Kai 伸手慢半拍道歉",
+   "anchor": "They turned the corner at the same time.",
+   "start": 10203,
+   "end": 10243
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch11",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch11_chapter_11_the_sunday_verdict.txt",
+ "facts": [
+  {
+   "fact": "手稿写到 Chapter 17，孩子 Monday morning 前在父亲家",
+   "anchor": "her manuscript was sitting at a comfortable Chapter 17",
+   "start": 400,
+   "end": 454
+  },
+  {
+   "fact": "Jaemee 说在和 Marcus 交往，pub 里生日夜认识",
+   "anchor": "His name is Marcus",
+   "start": 1191,
+   "end": 1209
+  },
+  {
+   "fact": "Jen 拿走 Yna 手机要当场改交友资料",
+   "anchor": "Jen reached across the table, grabbing Yna's phone",
+   "start": 4271,
+   "end": 4321
+  },
+  {
+   "fact": "Jen/Jaemee 发现收藏的 Saturday  granite plateau 合照",
+   "anchor": "the photo taken on the sun-drenched granite plateau on Saturday morning",
+   "start": 5905,
+   "end": 5976
+  },
+  {
+   "fact": "Yna 低声承认照片里的男人是出版商 Kai Rhodes",
+   "anchor": "That's my publisher!",
+   "start": 6732,
+   "end": 6752
+  },
+  {
+   "fact": "Monday 8:45 AM 走出 40 层电梯",
+   "anchor": "On Monday morning at 8:45 AM, Yna stepped out of the 40th-floor elevator",
+   "start": 8570,
+   "end": 8642
+  },
+  {
+   "fact": "她把显示合照的手机拍成面朝下",
+   "anchor": "Yna slammed her hand down onto the phone, flipping it face-down",
+   "start": 11381,
+   "end": 11444
+  },
+  {
+   "fact": "【转折】Kai 称她 amazing、应为自己与孩子所建自豪，专业界限开始瓦解",
+   "anchor": "You should be proud of what you've built for yourself and your kids.",
+   "start": 19370,
+   "end": 19438
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch04",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch04_chapter_4_out_of_her_element.txt",
+ "facts": [
+  {
+   "fact": "Marcus 通知 Kai：与 Yna Martinez 会面确认 11:00 AM，地点她指定的咖啡馆",
+   "anchor": "Meeting with Yna Martinez confirmed for 11:00 AM",
+   "start": 1266,
+   "end": 1314
+  },
+  {
+   "fact": "Yna 2:00 AM 交 Chapter 14 修改稿，附言先在纸上淌血才肯睡",
+   "anchor": "She sent them over at 2:00 AM, sir. Along with a note",
+   "start": 3322,
+   "end": 3375
+  },
+  {
+   "fact": "书连续 twenty-two 周畅销榜，读者忠诚近乎狂热，Kai 视为裹在混乱里的金矿",
+   "anchor": "Her books had stayed on the bestseller list for twenty-two consecutive weeks",
+   "start": 4232,
+   "end": 4308
+  },
+  {
+   "fact": "Kai 发问：三年回避面对面，为何现在同意",
+   "anchor": "She's been dodging face-to-face meetings for three years. What changed?",
+   "start": 4498,
+   "end": 4569
+  },
+  {
+   "fact": "送学时 Lynne 为草莓果汁盒讨价还价，Michael 车道跳舞储备数学课能量",
+   "anchor": "I haven't finished my negotiation for the strawberry juice box!",
+   "start": 5865,
+   "end": 5928
+  },
+  {
+   "fact": "8:45 AM 完成送学（答应 Lynne 晚饭 tacos），回家淋浴化妆换奶油衬衫",
+   "anchor": "She checked her watch. 8:45 AM. School drop-off was done.",
+   "start": 8272,
+   "end": 8329
+  },
+  {
+   "fact": "提前到 Tim Hortons 占窗边角桌赶稿，距 Kai 到达约 ninety 分钟",
+   "anchor": "About ninety minutes left until Kai Rhodes would arrive.",
+   "start": 10047,
+   "end": 10103
+  },
+  {
+   "fact": "【转折】握手瞬间 Kai 认出她是昨晚酒吧森林绿毛衣女子=追签三年的作者，而她未认出他",
+   "anchor": "The woman from last night. The elusive, brilliant dark fantasy author",
+   "start": 11988,
+   "end": 12057
+  }
+ ]
+}

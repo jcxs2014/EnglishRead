@@ -1,0 +1,61 @@
+{
+ "book": "out-of-her-genre-by-yna-martinez",
+ "chapter": "ch19",
+ "text": "notes/books/novels/out-of-her-genre-by-yna-martinez/text/ch19_chapter_19_the_weight_of_the_shield.txt",
+ "facts": [
+  {
+   "fact": "Michael 拿勺激烈比划坚持麦片是冷早餐汤，Yna 反驳",
+   "anchor": "Michael was aggressively gesticulating with a stainless-steel spoon.",
+   "start": 380,
+   "end": 448
+  },
+  {
+   "fact": "Yna 发短信请假推模拟面试后掉头回家，没去面对 Kai",
+   "anchor": "turned around at the intersection, and drove back home.",
+   "start": 2095,
+   "end": 2150
+  },
+  {
+   "fact": "卧室抽屉黄铜钥匙开暗格取出法院记录，蓝章控方撤回指控",
+   "anchor": "CHARGES WITHDRAWN BY THE CROWN.",
+   "start": 2671,
+   "end": 2702
+  },
+  {
+   "fact": "两年前二月卡尔加里 Ronan 双手把她推下台阶摔门，零下22度",
+   "anchor": "planting both hands hard against her shoulders and shoving her backward",
+   "start": 4273,
+   "end": 4344
+  },
+  {
+   "fact": "两名警察先与 Ronan 谈再走向她的车，以袭击罪逮捕",
+   "anchor": "Two officers stepped out, went up to the porch to speak with Ronan",
+   "start": 5036,
+   "end": 5102
+  },
+  {
+   "fact": "视频庭检方申请审前羁押延期，Duty Counsel 说今天不能回家",
+   "anchor": "The Crown is seeking detention pending a bail hearing",
+   "start": 6986,
+   "end": 7039
+  },
+  {
+   "fact": "还押中心搜身冷水澡后换囚服，编号 4829 关 C 区四号",
+   "anchor": "Number 4829",
+   "start": 8584,
+   "end": 8595
+  },
+  {
+   "fact": "羁押第三天打对方付费电话给12岁 Elizabeth 追问弟妹下落",
+   "anchor": "How are Michael and Lynne? Have you seen them?",
+   "start": 9370,
+   "end": 9416
+  },
+  {
+   "fact": "【转折】第七天检方同意免现金保释释放，附加不接触条件，数月后指控全撤销",
+   "anchor": "the Crown is consenting to release on a Release Order without cash deposit",
+   "start": 10692,
+   "end": 10766
+  }
+ ]
+}
