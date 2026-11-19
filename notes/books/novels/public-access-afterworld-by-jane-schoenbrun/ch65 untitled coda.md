@@ -33,7 +33,7 @@ modified: "2026-11-19"
 
 > **原句 4:** "Once she had been the boy's imaginary friend, and now he had become hers. He lived inside her head just as she had once lived inside him. And he was still broken. Broken forever."
 **中文理解**：从前她是那个男孩的想象朋友，如今他成了她的。他住在她的脑海里，正如她曾住在他体内。而他依然是碎的。永远碎着。
-**关键词**：switched places / Broken forever
+**关键词**：lived inside her head / Broken forever
 **为什么这样写**：镜像的对调句：imaginary friend 的岗位轮换（她→他）让转型有了物业学的后果——搬家不等于清户。lived inside 的双向居住史把跨性别叙事写成「共享身体」的租约。Broken forever 的重复句让旧我不被治愈只被收纳：本书对「过去」的最终安置方案。
 **读者视角提示**：对照 ch34 的「together and alone」：这组矛盾修辞的终极版本就是本段——她与他同住一个脑袋、各自孤独。带着这对房客进 Episode Ten。
 

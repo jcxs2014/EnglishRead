@@ -33,7 +33,7 @@ modified: "2026-11-19"
 
 > **原句 4:** "The hidden broadcasts nestled under one hundred years of TV history."
 **中文理解**：藏在整整一百年电视史底下的那些隐秘广播。
-**关键词**：shows beneath the shows / hidden broadcasts
+**关键词**：nestled under / hidden broadcasts
 **为什么这样写**：媒介的地质学：百年电视史被分层——上层是播出内容，下层是「被抽取者的呻吟」。nestled 的安放动词让受害者们像矿层里的化石。本段回收 ch45 的教义（燃料→齿轮）与 ch52 的蜡笔论：所有「底下」的东西今晚一起翻面。群像点名（锅铲女/轮椅女孩/Randy/Chloe/Willa/Lucille Ball/Mary Tyler Moore）让「skunked underimage（臭鼬化的底图）」成为本族的新术语。
 **读者视角提示**：对照 ch66 的圆柱景观（constellation）与本章的 underimage：同一批信号的正面与背面——本书终于让「屏幕下的东西」集体出镜。
 

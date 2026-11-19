@@ -47,14 +47,14 @@ modified: "2026-11-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hard-boiled | adj. （侦探）冷硬派的；煮老的 | …the hard-boiled 1960s Los Angeles. A town filthy with crime and shadow. |
+| hard-boiled | adj. （侦探）冷硬派的；煮老的 | Bethany picks her borrowed body up off the sidewalk and looks around hard-boiled 1960s Los Angeles. |
 | hardscrabble | adj. 艰苦的、贫困挣扎的 | He trusts her more than his hardscrabble chief back at the precinct. |
 | tenement | n. 廉租公寓 | …police lights flashing against a nearby tenement building. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| grimace | n. 鬼脸、怪相 | I look to my right at Bichael making a goofy sort of grimace… |
+| surveying | v. 俯瞰、扫视（survey 的现在分词） | She’s the camera above the quarry, surveying the carnage. |
 | squadrons | n. 中队、小队（squadron 的复数） | …unleashing a surprise attack on a squadron of goblins via a three-sixty battle-axe spin… |
 | turbulence | n. 湍流、颠簸 | She centers herself, bracing for turbulence, a lucid dreamer refusing to wake. |
 | filth | n. 污秽 | A town filthy with crime and shadow. |
@@ -63,7 +63,7 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | trust-fall | n. （团建）后倒信任坠落 | Then she trust-falls. |
-| channel | v. 引导、通灵 | …ditch this pesky sentience and channel that glowing light inside me until I become it. |
+| approaching | v. 接近、走近（approach 的现在分词） | Detective Sunday notices the strange woman approaching. |
 | lucid | adj. 清醒的 | It's the first time she's been lucid in… |
 
 ## 一句话总结

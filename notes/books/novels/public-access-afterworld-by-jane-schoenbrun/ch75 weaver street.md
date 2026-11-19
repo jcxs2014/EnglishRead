@@ -42,22 +42,22 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | convulse | v. 抽搐、剧烈抖动 | …all begin to convulse harder, more violently… |
-| stumbling | v. 踉跄、跌跌撞撞（stumble 的现在分词） | She backs slowly into the corner. She waves the kitchen knife limply around in the air. |
-| shoddy | adj. 劣质的、偷工减料的 | This morning's meal is soggy French toast with brown syrup. |
+| hypothesizes | v. 推测、假设（hypothesize 的第三人称单数） | This must be a show that aired in the 1970s that was set in the fifties, Bethany hypothesizes. |
+| inhabiting | v. 附身、栖居于（inhabit 的现在分词） | She doesn’t want to frighten whichever character Willa Fischer is inhabiting right now. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| limply | adv. 无力地、软塌塌地 | She waves the kitchen knife limply around in the air. |
-| jester | n. 弄臣、小丑 | The laugh track laughs. |
+| limply | adv. 无力地、软塌塌地 | She waves her kitchen knife limply around in the air. |
+| applauds | v. 鼓掌、喝彩（applaud 的第三人称单数） | The studio audience applauds. |
 | toppling | v. 翻倒（topple 的现在分词） | …sending it toppling to the ground. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sheath | n. 刀鞘 | …grabs a kitchen knife from a nearby sheath. |
-| pulse | n. 脉搏、节奏 | The camera rushes behind Tullycraft. |
-| mane? Not in ch75—use: glare | v. 怒视 | …the mean lady with pigtails in the fruit shirt muttering and glaring… |
+| sprinkler | n. 洒水器、喷淋装置 | A sprinkler system activates, raining cold water down on Chloe and Willa and all the unconscious others surrounding them. |
+| backwards | adv. 向后、倒退 | …she screams and jumps backwards. |
 
 ## 一句话总结
 Weaver Street 的营救以失败收场：Judith Webb（Willa 的角色）举刀自守、「This is my home」的自我说服只说明了她有多怕真相；穿 gateway 后 Willa 苏醒的第一念是战争败讯（「Joseph is dead. I'm a monster. I'm right where I belong.」）——air-raid 警报、洒水冷雨、static 化蜡漫地：Elliot 的交易簿被她亲手想起。

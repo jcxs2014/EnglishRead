@@ -66,4 +66,4 @@ modified: "2026-11-19"
 | gateway | n. 门户 | …the gateway where Short Stack ends and something else begins… |
 
 ## 一句话总结
-Fischer 四代在 Short Stack 的 gym 里轮流换脸（Marty→Elliot→Fisch→Jim→无眼 cowboy→The Distant Seer），Lil' Angus 的沙漏让 Bethany 见到「血变薄」的宿敌——Orpheus 的「不回头」是本集唯一的军令；红静电吞噬 Short Stack 的五码线到十码线，她把 Lil' Angus 塞进火焰：「I'll see you soon. I've just got one more scene to finish.」
+Fischer 四代在 Short Stack 的 gym 里轮流换脸（Marty→Elliot→Fisch→Jim→无眼 cowboy→The Distant Seer），Lil' Angus 的沙漏让 Bethany 见到「血变薄」的宿敌——Orpheus 的「不回头」是本集唯一的军令；红静电吞噬 Short Stack 的五码线到十码线，她把 Lil' Angus 塞进火焰：「"I'll see you soon," Bethany says. "I've just got one more scene to finish."」

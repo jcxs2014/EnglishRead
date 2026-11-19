@@ -6,10 +6,10 @@ modified: "2026-11-19"
 # 66. Postscript: The Video Store
 
 ## 本章导航
-- **一句话概括**：Postscript：Bethany 走进 Captain Video——三色灯门禁亮红、Davinio 的阴灵边流血边补货、空白带由 Clerk 的眉眼代选——ADULTS ONLY 幕后是矿车轨道，下行途中她看见圆柱里的全部电视史，分辨率与自己一同降解——「And, finally, she arrives.」
+- **一句话概括**：终章：Bethany 走进 Captain Video——三色灯门禁亮红、Davino 的阴灵边流血边补货、空白带由 Clerk 的眉眼代选——ADULTS ONLY 幕后是矿车轨道，下行途中她看见圆柱里的全部电视史，分辨率与自己一同降解——「And, finally, she arrives.」
 - **情感弧线位置**：受试者的报到日：频道内部的全景首览——她的主体性按海拔递减，抵达时只剩一袋爆米花和一盘空白带。
 - **Tropes 兑现/反转**：兑现「死后世界导览」；反转「租赁」——她租的是自己；反转「纪念馆」——电视史被囚成海底景观。
-- **人物弧线**：Bethany：从旅客到馆藏（degrading with the resolution）；Clerk：店员兼海关（Seth Rogen 脸的官僚）；Davinio：被收编的自杀者（The destroyer of worlds 的念白人）。
+- **人物弧线**：Bethany：从旅客到馆藏（degrading with the resolution）；Clerk：店员兼海关（Seth Rogen 脸的官僚）；Davino：头中弹孔未愈的被收编者（The destroyer of worlds 的念白人）。
 - **叙事手法**：镜像文字（!SESAELER WEN）做「门只朝内开」的物理证明；三色灯=三色按钮的阴间复刻；分辨率递减做下行的可视化仪表。
 
 ## 精读
@@ -66,4 +66,4 @@ modified: "2026-11-19"
 | curtain | n. 帷幕、门帘 | …she continues ahead, parting velvet, allowing herself to slip gently through. |
 
 ## 一句话总结
-Postscript 把频道的「售后服务」拍成导览片：三色灯亮红、Davinio 边流血边念「The destroyer of worlds」、空白带由 Clerk 的眉眼代选——ADULTS ONLY 幕后的矿车沿圆柱下行，全部电视史在管壁上发光，而她的分辨率与画面一同降解：Now she becomes part of it——finally, she arrives.
+终章把频道的「售后服务」拍成导览片：三色灯亮红、Davino 边流血边念「The destroyer of worlds」、空白带由 Clerk 的眉眼代选——ADULTS ONLY 幕后的矿车沿圆柱下行，全部电视史在管壁上发光，而她的分辨率与画面一同降解：Now she becomes part of it——finally, she arrives.
