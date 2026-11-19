@@ -44,7 +44,7 @@ modified: "2026-11-19"
 > **原句 5:** "Beau stepped behind me and wrapped both arms around my waist. His chin rested against the side of my head. I looked at his left hand where it crossed my stomach. No ring. Yet. His was still sitting in the little box inside my dresser. … Beau had proposed in May beside the willow without an audience, a photographer, or anything resembling a coordinated plan. … We’d eaten Chinese food on the tailgate while waiting for Jax to come rescue us. Perfect, as far as proposals went."
 
 **中文理解**：Beau 从身后环住她、下巴抵着她的头——她看他不戴着戒指：还没呢。他的那枚还躺在她梳妆台的小盒子里；他五月求婚：柳树下、无观众、无摄影师、毫无计划可言——本来还打算事后带她去吃晚饭；结果卡车打不着火，中国菜在尾板上吃完、边等 Jax 来救援——就求婚而言，完美。
-**关键词**：No ring. Yet. / proposed in May beside the willow / his truck wouldn’t start. / Perfect, as far as proposals went.
+**关键词**：No ring. Yet. / proposed in May beside the willow / rescue us. Perfect, as far as proposals went.
 **为什么这样写**：「Not yet」呼应 ch27 的「willing to wait」——这次是戒指在等她；求婚地点（柳树）、事故（卡车）、 Chinese takeout 全部回收全书物证；「完美」的判词驳回一切仪式焦虑。
 **读者视角提示**：记住「卡车抛针的求婚」——最不完美的时刻被裁定为最完美，是全书婚恋观的定案。
 
@@ -112,13 +112,13 @@ modified: "2026-11-19"
 | annoyingly | 气人地（annoying 的副词） | He was also annoyingly handsome while failing at it. |
 | furniture | 家具 | I looked toward the windows over the sink. From here I could see the pasture rolling toward the barn. |
 | threshold | 门槛 | The shower in our bathroom had no threshold and a built-in bench I had chosen myself. |
-| carton | 纸盒，纸箱 | Meme returned carrying the entire carton of vanilla ice cream, and Beau groaned. |
+| temporary | 临时的 | Last year we’d rented nearly everything. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| walkie-talkie | 对讲机 | Darlene Pike couldn’t be trusted with a walkie-talkie. |
-| fence | 栅栏，围栏 | Along the driveway, one of the maples had gone almost completely red over the last week. Fallen leaves gathered against the porch steps and scattered across the gravel whenever the wind moved through. |
+| walkie-talkie | 对讲机 | I’d learned that success had its own particular kind of chaos. One that sounded like Rosie Malone screaming into a walkie-talkie because someone had parked the kettle corn trailer six feet too far to the left. |
+| windshield | 挡风玻璃 | Sometimes love was Beau scraping ice off my windshield before I left for an early delivery. |
 | porch | 门廊 | Beau unlocked the front door. Our house smelled like new wood, cardboard and the cinnamon candle Meme had insisted every home needed in October. |
 | ring | 戒指 | Mine caught the afternoon light when I lifted my hand. |
 
