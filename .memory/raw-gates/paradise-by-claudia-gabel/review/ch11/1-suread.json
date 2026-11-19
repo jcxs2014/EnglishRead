@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch11",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch11_paradise.txt",
+ "facts": [
+  {
+   "fact": "莉莉冲进别墅祈盼乔丹和萨姆已在等她，但屋里空无一人。",
+   "anchor": "When Lily threw the door open to her villa, she prayed that Jordan and Sam would somehow be there waiting for her return.",
+   "start": 0,
+   "end": 121
+  },
+  {
+   "fact": "莉莉坐到沙发上掩面，反复告诉自己并非懦夫，却仍因丢下所爱之人而内疚。",
+   "anchor": "Lily sat down on the sofa and buried her face in her hands. She told herself that she wasn’t a coward.",
+   "start": 1031,
+   "end": 1133
+  },
+  {
+   "fact": "莉莉拨打父亲手机找萨姆，仍是语音信箱，怀疑风暴影响了信号。",
+   "anchor": "She dialed Sam at her dad’s number. Straight to voicemail again.",
+   "start": 3216,
+   "end": 3280
+  },
+  {
+   "fact": "聊天机器人阿里尔告知莉莉父母的房间号是 Plumeria Lane 202。",
+   "anchor": "Elliott and Olivia Sprague have reservations at two-hundred-and-two Plumeria Lane.",
+   "start": 3956,
+   "end": 4038
+  },
+  {
+   "fact": "莉莉向接线员丽贝卡承认她与表亲乔丹及两名实习生外出后在风暴中走散。",
+   "anchor": "Well, I was out with my cousin Jordan and a couple of junior counselor trainees.",
+   "start": 5243,
+   "end": 5323
+  },
+  {
+   "fact": "莉莉向丽贝卡描述她在禁区附近听到的疑似低吼声，但对方并不相信。",
+   "anchor": "Or maybe it was more of a growl? Yes, a growl, definitely.",
+   "start": 7241,
+   "end": 7299
+  },
+  {
+   "fact": "门开处站着浑身湿透的萨姆和乔丹，二人平安归来，莉莉松了一口气。",
+   "anchor": "Thankfully, the door flew open just then, and in the frame stood two soggy cousins.",
+   "start": 10649,
+   "end": 10732
+  },
+  {
+   "fact": "父亲埃利奥特暂且让步，提议先睡觉，明早再谈今晚行为的后果。",
+   "anchor": "Sleep sounds good to me. Okay, we’ll talk about everything in the morning,",
+   "start": 15787,
+   "end": 15861
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch14",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch14_paradise.txt",
+ "facts": [
+  {
+   "fact": "这是 Simone 播报的岛上活动广告，介绍夏令营主题的各项冒险活动。",
+   "anchor": "This is Simone, here to hype another list of fantastic adventures, so take a break and listen up.",
+   "start": 0,
+   "end": 97
+  },
+  {
+   "fact": "从现在到深夜，工作人员在 Angelfish Inlet 举办夏令营主题活动。",
+   "anchor": "From now until late tonight, our staff is hosting a summer-camp themed event at Angelfish Inlet.",
+   "start": 100,
+   "end": 196
+  },
+  {
+   "fact": "游客可从码头划皮划艇沿 Palmera 运河游览，该运河位于 Thrill Harbor 与 Tranquil Cove 之间。",
+   "anchor": "you can launch off the docks in your very own kayak and paddle down the Palmera Canal, which runs between Thrill Harbor and Tranquil Cove.",
+   "start": 313,
+   "end": 451
+  },
+  {
+   "fact": "场内有富有挑战性的绳索课程，考验敏捷与平衡。",
+   "anchor": "There is a challenging ropes course that will test your agility and balance.",
+   "start": 452,
+   "end": 528
+  },
+  {
+   "fact": "射箭场有友好比赛，获胜者可获得神秘大奖。",
+   "anchor": "At the archery range, there’s a friendly competition where the winner will take home an awesome mystery prize.",
+   "start": 529,
+   "end": 639
+  },
+  {
+   "fact": "Thrill Harbor 的烟花表演今晚九点半在 Iguana Beach 开始。",
+   "anchor": "The breathtaking show starts at nine-thirty p.m. at Iguana Beach.",
+   "start": 914,
+   "end": 979
+  },
+  {
+   "fact": "炎热指数上升，将在下午两点到三点间达到峰值，提醒补水与避暑。",
+   "anchor": "the heat index is on the rise and will peak between two and three p.m.",
+   "start": 1070,
+   "end": 1140
+  }
+ ]
+}

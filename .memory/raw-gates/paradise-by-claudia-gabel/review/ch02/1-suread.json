@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch02",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch02_paradise.txt",
+ "facts": [
+  {
+   "fact": "Lily 第一次玩双人拖伞，开局不顺，吓得尖叫喊“我们要死了”。",
+   "anchor": "It was her first time tandem parasailing, and it wasn’t going well.",
+   "start": 50,
+   "end": 117
+  },
+  {
+   "fact": "表姐 Jordan 胆大敢飞四百英尺高空，Lily 则是求稳、只想活到十四岁的女孩。",
+   "anchor": "She always did insane stuff like fly four hundred feet above the ocean tied to a piece of nylon.",
+   "start": 278,
+   "end": 374
+  },
+  {
+   "fact": "Sam 是 Lily 的双胞胎兄弟，此刻正独自拖伞飞在她们几英尺外。",
+   "anchor": "Sam was Lily’s twin brother. He was flying solo just a few feet away from them, grinning widely",
+   "start": 622,
+   "end": 717
+  },
+  {
+   "fact": "导游介绍：钻石形的天堂岛上有运河，Bliss Bridge 是主通道，东侧 Tranquil Cove 是成人别墅区，西侧 Thrill Harbor 专留给十八岁以下客人。",
+   "anchor": "Bliss Bridge is the major pathway over the canal that winds through our entire diamond-shaped island.",
+   "start": 2454,
+   "end": 2555
+  },
+  {
+   "fact": "这次全部免费的度假是祖母 Penelope 送的圣诞惊喜礼物，Lily 几乎没见过她。",
+   "anchor": "This all-expenses-paid vacation was a surprise Christmas gift from their grandmother, Penelope.",
+   "start": 4475,
+   "end": 4570
+  },
+  {
+   "fact": "上岸后 Lily 蹑手蹑脚弹了 Sam 右耳上方几厘米的头部侧面，报复他激自己去拖伞。",
+   "anchor": "She leaned over, zeroed in, and flicked Sam in the side of the head, a few centimeters above his right ear.",
+   "start": 6856,
+   "end": 6963
+  },
+  {
+   "fact": "海滩闲聊时 Jordan 崩溃透露全家要搬去加拿大温哥华，一回到家就动身。",
+   "anchor": "“No, I’m not okay,” Jordan snapped. “We’re moving. To Vancouver, of all places.”",
+   "start": 11901,
+   "end": 11981
+  },
+  {
+   "fact": "章末三人吐沫握手，正式立下“把这次度假过成有史以来最好一次”的约定。",
+   "anchor": "But he shook, and the pact was officially sealed. Then they all wiped their hands off with the beach towels",
+   "start": 15720,
+   "end": 15827
+  }
+ ]
+}

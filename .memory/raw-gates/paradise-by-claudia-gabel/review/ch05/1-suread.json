@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch05",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch05_paradise.txt",
+ "facts": [
+  {
+   "fact": "乔丹未来一周住的别墅卧室配四柱床、白纱床幔和 400 支纱床单，比亚特兰大老家的两居室公寓高级得多。",
+   "anchor": "Jordan’s space for the next week had a four-post bed with a gauzy white canopy and 400-thread count sheets",
+   "start": 393,
+   "end": 499
+  },
+  {
+   "fact": "一个佩戴“Milo Hernandez, Junior Counselor Trainee（初级辅导员实习生）”胸牌的男孩米洛上门，礼貌地说要给莉莉、乔丹和塞缪尔·斯普雷格三人送高优先级信件。",
+   "anchor": "“Sorry to bother you, but I’m here to deliver some high-priority messages to Lily, Jordan, and Samuel Sprague,” Milo said politely.",
+   "start": 3546,
+   "end": 3677
+  },
+  {
+   "fact": "奶奶 Penny（自称 Nan）的信里写明她已自行订好房，几天后就会来 Paradise 与乔丹和表兄妹们会合。",
+   "anchor": "I took the liberty of making a reservation for myself, and will be joining you and your cousins in a couple of days!",
+   "start": 5739,
+   "end": 5855
+  },
+  {
+   "fact": "乔丹从信中惊悉：父母已擅自替她报名去温哥华读预科学校。",
+   "anchor": "But prep school? Her parents had enrolled her in PREP SCHOOL?",
+   "start": 6209,
+   "end": 6270
+  },
+  {
+   "fact": "班车上健谈的同龄女孩 Mika 自我介绍：从旧金山飞来约 8 小时（体感 12 小时），坐经济舱还转机，行李还被航空公司弄丢了。",
+   "anchor": "We fly across the country from San Francisco—it was like eight hours, but it felt like twelve because we traveled coach",
+   "start": 8690,
+   "end": 8809
+  },
+  {
+   "fact": "乔丹躲在盆栽后偷听到妈妈苏茜说乔丹曾试图离家出走，担心她听到预科学校的事会再次出走。",
+   "anchor": "“I’m not sure we should do this if she isn’t on board. She tried to run away, for God’s sake,” her mom said.",
+   "start": 13866,
+   "end": 13974
+  },
+  {
+   "fact": "苏茜问丈夫是否已把事情告诉 Elliott，格雷格说还没有——Elliott 已经够恨（他们的）妈妈了，不想再给他一个理由。",
+   "anchor": "“No, not yet. He already hates Mom enough. I don’t want to give him another reason.”",
+   "start": 14326,
+   "end": 14410
+  },
+  {
+   "fact": "乔丹本想抓个现行对质，但听到爸爸朝自己走来，撒腿就跑，速度比她在老家的最佳径赛成绩还快。",
+   "anchor": "But the sound of her father’s footsteps coming toward her sent Jordan sprinting away instead, faster than even her best track time back home.",
+   "start": 14893,
+   "end": 15034
+  }
+ ]
+}

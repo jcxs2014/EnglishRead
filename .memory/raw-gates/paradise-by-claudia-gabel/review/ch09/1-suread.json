@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch09",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch09_paradise.txt",
+ "facts": [
+  {
+   "fact": "开头：过去一小时里，Sam 和新朋友们靠 Paradise 白金通行证插到每个水上项目队伍最前面。",
+   "anchor": "he and his new friends had used it to budge to the front of the line of every water ride in Macaw Falls.",
+   "start": 94,
+   "end": 198
+  },
+  {
+   "fact": "中段：一名 Lookout 找到 Max，称其为 Jones 先生，指出他几小时前就错过了报到时间。",
+   "anchor": "“Mr. Jones, you missed check-in hours ago,” he said to Max.",
+   "start": 2313,
+   "end": 2372
+  },
+  {
+   "fact": "揭露：Sam 想起广告，Dianne 与 Mitchell Jones 正是建造这座度假村的夫妇，也是 Avery 和 Max 的父母。",
+   "anchor": "Dianne and Mitchell Jones, repeatedly welcomed guests to Paradise, a special getaway they’d built for families",
+   "start": 3470,
+   "end": 3580
+  },
+  {
+   "fact": "转折：Simone 通过广播宣布暴风雨将至，为安全起见关闭水上乐园和其他游乐设施。",
+   "anchor": "Looks like that storm is upon us, Thrill Seekers! For your safety, we will be closing the water park and other rides",
+   "start": 5946,
+   "end": 6062
+  },
+  {
+   "fact": "关键动作：Max 走员工专用通道，不到五分钟把高尔夫球车开到水上乐园另一处。",
+   "anchor": "Max had found the network of employee-only access roads and used them to drive to another part of the water park",
+   "start": 8962,
+   "end": 9074
+  },
+  {
+   "fact": "中段：Max 带 Sam 与 Avery 来到新型项目 Silverback 面前——位于十五层机械大猩猩体内的坠落式滑道。",
+   "anchor": "“There she is! The Silverback! Thrill Harbor’s newest waterslide!” Max said, gazing up at the towering structure in awe.",
+   "start": 9284,
+   "end": 9404
+  },
+  {
+   "fact": "数字：Max 说 Silverback 下落最高时速接近五十七英里，且全场只有他们三人。",
+   "anchor": "The top speed on the drop is insane. Like almost fifty-seven miles per hour.",
+   "start": 11372,
+   "end": 11448
+  },
+  {
+   "fact": "结尾：Sam 尚未决定，脚下的活板门突然消失，只听得自己的尖叫与 Silverback 的轰鸣将他吞没。",
+   "anchor": "Suddenly the floor beneath him vanished. Then all he could hear was his own screams",
+   "start": 17151,
+   "end": 17234
+  }
+ ]
+}

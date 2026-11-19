@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch27",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch27_paradise.txt",
+ "facts": [
+  {
+   "fact": "开头写 Lily 几小时前还不确定能否活到明天，如今却和家人站在跑道上准备登机。",
+   "anchor": "A few hours ago, Lily hadn’t been sure she’d live to see tomorrow, and now … she was standing on a runway with her family",
+   "start": 0,
+   "end": 121
+  },
+  {
+   "fact": "Nan 揭露目的地是古巴海岸以南的另一家天堂度假村，并称凭关系订到最好的住处。",
+   "anchor": "“So we’re going to another Paradise resort. This one is farther south, off the coast of Cuba. Thanks to my connections, I’ve reserved the best",
+   "start": 1947,
+   "end": 2089
+  },
+  {
+   "fact": "Avery 问客人是否都送往那里，Nan 称大多数都被转送到那里。",
+   "anchor": "“Is that where all the guests are being sent?” Avery asked. “Most of them are being rerouted there,” Nan said.",
+   "start": 2277,
+   "end": 2389
+  },
+  {
+   "fact": "Milo 向 Lily 道谢，感谢她在探险中做他的朋友并激励他勇敢。",
+   "anchor": "For being my friend on this quest",
+   "start": 3734,
+   "end": 3767
+  },
+  {
+   "fact": "Milo 送给 Lily 一颗小小的红宝石，说出自他的旅行收藏、可保平安。",
+   "anchor": "He pulled his hand out of his pocket and opened his fist. There was a small but beautiful ruby sitting in his palm.",
+   "start": 4415,
+   "end": 4530
+  },
+  {
+   "fact": "Milo 说岛南端已正式封锁，大家都安全，包括美洲豹。",
+   "anchor": "that said the southern part of the island is officially sealed off now so thankfully everyone is safe, including the jaguars.",
+   "start": 4973,
+   "end": 5098
+  },
+  {
+   "fact": "Milo 否认曾联系父亲，因信号塔仍瘫痪无法发出消息，令 Lily 怀疑谁封锁了南区。",
+   "anchor": "The cell towers were still down. I couldn’t get a message through",
+   "start": 5632,
+   "end": 5697
+  },
+  {
+   "fact": "结尾飞机颠簸露出 Nan 的黄色文件夹，标注她是天堂公司的天使投资人，令 Lily 震惊并装睡。",
+   "anchor": "A yellow folder with the Paradise logo printed on it and a label at the top that read: Penelope Sprague, Angel Investor.",
+   "start": 10246,
+   "end": 10366
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch15",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch15_paradise.txt",
+ "facts": [
+  {
+   "fact": "这是 Sam 和 Jordan 几小时前谋划好的完美陷阱，只待时机成熟就行动。",
+   "anchor": "It was the perfect trap.",
+   "start": 0,
+   "end": 24
+  },
+  {
+   "fact": "Sam 认为对攻击者不加惩罚就永无安宁，因此决心改变自己。",
+   "anchor": "History had shown Sam that no consequences for an attacker meant no peace for him.",
+   "start": 2880,
+   "end": 2962
+  },
+  {
+   "fact": "Max 在黄色皮划艇上嘲讽 Sam，说脚踏船在运河 Tranquil Cove 一侧。",
+   "anchor": "“I think the paddleboats are on the Tranquil Cove side of the canal, mate,” he said.",
+   "start": 5290,
+   "end": 5374
+  },
+  {
+   "fact": "Avery 承认自己也默许了把 Sam 从 Silverback 滑道推下的事，还反怪 Sam 胆怯。",
+   "anchor": "It wasn’t all his doing. I gave him the thumbs up,” Avery added.",
+   "start": 6203,
+   "end": 6267
+  },
+  {
+   "fact": "导览员 David 用扩音器说前方二十码运河分叉，左边是高难度急流河道。",
+   "anchor": "In twenty yards, the canal splits into two,” David said through his bullhorn.",
+   "start": 8399,
+   "end": 8476
+  },
+  {
+   "fact": "因 Sam 划得吃力，Avery 和 Max 拐进左侧河道后消失，报复计划落空，Sam 反而松了口气。",
+   "anchor": "Avery and Max were out of sight. Jordan was silent. And Sam was relieved.",
+   "start": 10552,
+   "end": 10625
+  },
+  {
+   "fact": "当晚家人在高档餐厅 Sera Blu 吃饭，Sam 本想吃自助披萨缓解报复失败的失落。",
+   "anchor": "Sam had been hoping for an all-you-can-eat pizza buffet to take the edge off his failed revenge plot.",
+   "start": 10738,
+   "end": 10839
+  },
+  {
+   "fact": "Lily 因 Sam 拒绝谈 Nan 的信、不肯分享而伤心，说他只在乎自己并气冲冲离席。",
+   "anchor": "“I just thought you’d be curious, Sam. But it turns out all you care about is yourself.”",
+   "start": 17982,
+   "end": 18070
+  }
+ ]
+}

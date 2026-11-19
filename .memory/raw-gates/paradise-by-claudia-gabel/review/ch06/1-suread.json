@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch06",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch06_paradise.txt",
+ "facts": [
+  {
+   "fact": "莉莉向厨房台面上的 AI 伴侣 Ariel 问时间，Ariel 回答“晚上 8:17”，并指出这是她 15 分钟内第三次问。",
+   "anchor": "“I’m always happy to help you, Lily. It is eight-seventeen p.m. That is the third time you asked in the last fifteen minutes.”",
+   "start": 149,
+   "end": 275
+  },
+  {
+   "fact": "奶奶 Nan 在给莉莉的信里说自己一直“暗中时常关注”她的近况，还夸她正长成聪明有趣的姑娘。",
+   "anchor": "I discreetly check in on you every now and then. It’s plain as day that you’re turning into a smart and interesting young lady!",
+   "start": 3708,
+   "end": 3835
+  },
+  {
+   "fact": "山姆承认偷拿了爸爸的手机（妈妈的没找到）——为的是从新交的高中生朋友那里拿到骑乘设施的“秘密全通证”。",
+   "anchor": "“Well, I couldn’t find hers, so I took Dad’s,” Sam admitted.",
+   "start": 6029,
+   "end": 6089
+  },
+  {
+   "fact": "莉莉把“Nan 将来 Paradise 搞惊喜家庭团聚”的事告诉山姆，他只丢下一句“知道了，再见”就朝门口走去——今晚去 Macaw Falls 夜游。",
+   "anchor": "“Good to know. See ya!” Sam said, heading for the door.",
+   "start": 6880,
+   "end": 6935
+  },
+  {
+   "fact": "山姆再次提醒莉莉：不必靠他和乔丹帮自己“走出内耗”来享受这里——记住两人的约定，Paradise 的体验由你自己决定。",
+   "anchor": "“You don’t need me or Jordan to help you get out of your head for a while and enjoy this place. Remember the pact.",
+   "start": 7637,
+   "end": 7751
+  },
+  {
+   "fact": "米洛自述父母分手后，他跟着当老师、爱旅行的爸爸加入了名为 Wandering Scholars 的沉浸式游学团体（在家上学至少两年）。",
+   "anchor": "After he and my mom split up, the two of us became part of this immersive learning collective called Wandering Scholars.",
+   "start": 11587,
+   "end": 11707
+  },
+  {
+   "fact": "占卜师 Estrella 压低声音警告莉莉和米洛：岛上事情并不像表面那样，好奇心虽可贵但可能招来大麻烦，务必小心。",
+   "anchor": "“Things aren’t what they seem on the island. Your curiosity is admirable, but it could get you in big trouble. Be careful. Both of you,”",
+   "start": 17104,
+   "end": 17240
+  },
+  {
+   "fact": "章末莉莉感叹乔丹说得对——不去尝试就真的会错过。",
+   "anchor": "And Jordan was right, too. You really do miss out when you don’t try.",
+   "start": 19158,
+   "end": 19227
+  }
+ ]
+}

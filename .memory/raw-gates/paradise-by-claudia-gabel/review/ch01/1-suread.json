@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch01",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch01_paradise.txt",
+ "facts": [
+  {
+   "fact": "这是活动协调员 Simone 的广播，她代表岛主 Mitch 和 Dianne Jones 夫妇欢迎各位小客人来到 Paradise 度假村的儿童区。",
+   "anchor": "On behalf of owners Mitch and Dianne Jones, I’d like to welcome all junior guests to your side of the Paradise Resort.",
+   "start": 53,
+   "end": 171
+  },
+  {
+   "fact": "小客人先入住各自别墅，父母则前往他们自己的私密住处。",
+   "anchor": "But first, it’s time for you to settle into your villas while your parents set off for their own private quarters.",
+   "start": 286,
+   "end": 400
+  },
+  {
+   "fact": "广播承诺：父母不在时若有需要，“你的愿望就是我们的命令”。",
+   "anchor": "If you need anything while they’re gone, don’t worry! Your wish is our command throughout your vacation.",
+   "start": 401,
+   "end": 505
+  },
+  {
+   "fact": "度假期间每天会收到名为 Hypes 的特别信息，通过最先进的扩音系统播报。",
+   "anchor": "Each day you’re here, you’ll receive special messages that we call Hypes.",
+   "start": 639,
+   "end": 712
+  },
+  {
+   "fact": "Hypes 用来宣传仅限 Thrill Harbor 客人享用的景点、设施和短途游览，且儿童区全境都能听到。",
+   "anchor": "Hypes are meant to draw your attention to the special attractions, amenities, and excursions available only to our guests from Thrill Harbor.",
+   "start": 813,
+   "end": 954
+  },
+  {
+   "fact": "当下推荐的去处是 guest villas 正北方的 Iguana Beach，那里有多项冒险可以体验。",
+   "anchor": "In fact, there are several adventures to explore right now at Iguana Beach, just north of the guest villas.",
+   "start": 1120,
+   "end": 1227
+  },
+  {
+   "fact": "Iguana Beach 可玩沿海岸滑浮胎、趸船游戏机上的复古电子游戏，还能拖伞看全岛美景。",
+   "anchor": "You can go tubing along the coastline, play vintage video games on the pontoon boat arcade, and go parasailing",
+   "start": 1228,
+   "end": 1338
+  },
+  {
+   "fact": "结尾号召：Paradise 的体验由你自己做主，走出去抓住每一个瞬间。",
+   "anchor": "Your experience in Paradise is up to you, so get out there and seize every moment!",
+   "start": 1388,
+   "end": 1470
+  }
+ ]
+}

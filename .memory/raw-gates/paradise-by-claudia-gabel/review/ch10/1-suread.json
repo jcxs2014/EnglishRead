@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch10",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch10_paradise.txt",
+ "facts": [
+  {
+   "fact": "广播开场宣布风暴已正式移入海面，主持人感叹大自然的威力。",
+   "anchor": "We have good news. The storm has officially moved out to sea! What a show it put on for us, right?",
+   "start": 0,
+   "end": 98
+  },
+  {
+   "fact": "虽风雨已停但仍需遵守安全预防措施，在外的人应搭摆渡车回别墅。",
+   "anchor": "there are still some safety precautions we need to follow. Anyone still out and about should find a shuttle",
+   "start": 179,
+   "end": 286
+  },
+  {
+   "fact": "所有港口设施关闭至次日早晨，以便清洁队夜间清理残骸。",
+   "anchor": "We’re closing all harbor facilities until the morning so cleanup crews can work overnight to remove any debris.",
+   "start": 316,
+   "end": 427
+  },
+  {
+   "fact": "岛上部分地区停电，主要在 Tranquil Cove 一侧。",
+   "anchor": "we do have some power issues on certain parts of the island, mainly on the Tranquil Cove side.",
+   "start": 436,
+   "end": 530
+  },
+  {
+   "fact": "主持人调侃停电让大人可烛光独处，称父母们都安然无恙。",
+   "anchor": "there’s nothing more romantic for grown-ups than being alone with each other by candlelight.",
+   "start": 581,
+   "end": 673
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch07",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch07_paradise.txt",
+ "facts": [
+  {
+   "fact": "开场：Simone 以播报员身份预警，天气系统探测到一场雷暴正逼近岛上区域。",
+   "anchor": "This is your girl, Simone, with an important announcement. Our weather prediction system has picked up a possible thunderstorm closing in on the region.",
+   "start": 0,
+   "end": 152
+  },
+  {
+   "fact": "中段：正密切监测，一旦出现恶劣天气，所有户外区域将临时关闭。",
+   "anchor": "We’re monitoring it closely, and please be advised all outdoor areas will close temporarily if we do experience inclement weather.",
+   "start": 155,
+   "end": 285
+  },
+  {
+   "fact": "中段：劝慰深夜仍在游玩的客人，别让一点下雨的威胁扫了岛上兴致。",
+   "anchor": "If you’re still out there enjoying all the late-night action, don’t let the threat of a little rain dampen your island fun!",
+   "start": 288,
+   "end": 411
+  },
+  {
+   "fact": "中段：以戏谑口吻鼓励大家尽兴玩到筋疲力尽，再回鹅绒枕头上休息。",
+   "anchor": "Drive it like you stole it and then go rest your weary heads on your goose-down pillows when you finally tire yourselves out.",
+   "start": 412,
+   "end": 537
+  },
+  {
+   "fact": "结尾：继续以戏谑口吻鼓励客人冒雨尽兴，把假期玩个痛快。",
+   "anchor": "don’t let the threat of a little rain dampen your island fun! Drive it like you stole it",
+   "start": 350,
+   "end": 438
+  }
+ ]
+}

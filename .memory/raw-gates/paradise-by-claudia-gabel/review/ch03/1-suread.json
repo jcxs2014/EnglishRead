@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch03",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch03_paradise.txt",
+ "facts": [
+  {
+   "fact": "Sam 在室外美食广场一口气点了双层培根芝士堡、特大份薯条、布朗尼圣代、根汁汽水和三盒小熊软糖。",
+   "anchor": "a double bacon cheeseburger with an extra-large side of french fries, a brownie fudge sundae, a root beer, and three boxes of gummy bears",
+   "start": 11,
+   "end": 148
+  },
+  {
+   "fact": "Sam 只有十三岁，却擅长假装日子过得很好，家里没人知道他一直在暗中挣扎。",
+   "anchor": "He might only be thirteen, but Sam was a master at pretending life was fine. No one in his family even knew he’d been struggling.",
+   "start": 1815,
+   "end": 1944
+  },
+  {
+   "fact": "吊床对峙原来是玩笑，男孩 Max 的妹妹 Avery 端着 Sam 的餐过来，坐下宣布收“薯条税”。",
+   "anchor": "Sam looked over Max’s shoulder to see a brown-eyed girl with a pixie cut, holding a tray of what appeared to be Sam’s food.",
+   "start": 3735,
+   "end": 3858
+  },
+  {
+   "fact": "Avery 认出他是 Sam Sprague，其祖母 Penelope Sprague 是科技大亨，还是 Avery 的偶像。",
+   "anchor": "“You’re Sam Sprague. And your grandmother is Penelope Sprague, the tech tycoon. She’s, like, my personal hero,” Avery said.",
+   "start": 6053,
+   "end": 6176
+  },
+  {
+   "fact": "Max 展示 Paradise Platinum Pass，凭它在所有项目可插队，两人约好晚饭后在 Macaw Falls 水上乐园用 AirDrop 传给 Sam。",
+   "anchor": "“A Paradise Platinum Pass,” Max explained. “You get to cut the lines at every attraction, shop, and excursion.",
+   "start": 7512,
+   "end": 7622
+  },
+  {
+   "fact": "晚餐桌上父亲 Elliott 吐露：他在 Sam 这个年纪时父亲去世，此后祖母埋首工作、他们很少见到她。",
+   "anchor": "I was your age when my dad died, and afterward your grandmother just threw herself into her work. We rarely ever saw her.",
+   "start": 14181,
+   "end": 14302
+  },
+  {
+   "fact": "Jordan 因试图离家出走被父母没收手机一个月，Sam 因此借不到手机、只能另想办法。",
+   "anchor": "When Mom and Dad found out what I was planning, they lost it, so no phone for a month.",
+   "start": 16344,
+   "end": 16430
+  },
+  {
+   "fact": "章末 Sam 没接受 Jordan“说实话”的建议，暗自藏了一个要保密才能成功的计划。",
+   "anchor": "One that he’d need to keep to himself if he was going to pull it off.",
+   "start": 16874,
+   "end": 16943
+  }
+ ]
+}

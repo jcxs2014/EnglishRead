@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch16",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch16_paradise.txt",
+ "facts": [
+  {
+   "fact": "开头：一小时后 Lily 站在体育中心屋顶的无边泳池里，身边有一群孩子。",
+   "anchor": "An hour later, Lily was standing in the infinity pool on the rooftop of the sports complex.",
+   "start": 0,
+   "end": 91
+  },
+  {
+   "fact": "Lily 觉得父母只顾亲热，没注意她晚饭时的难过，自己在家里像个外人。",
+   "anchor": "Her parents were now attached at the lips and hadn’t even seemed to notice she’d been upset at dinner.",
+   "start": 418,
+   "end": 520
+  },
+  {
+   "fact": "一名剪短发的女 Lookout 出面制止几个孩子，要求他们删除偷拍 Lily 的视频。",
+   "anchor": "Someone reported you for filming this guest without her permission,” said Choppy Bob.",
+   "start": 2649,
+   "end": 2734
+  },
+  {
+   "fact": "Milo 告诉 Lily，他和 Kurt 因那晚的事被踢出了 Junior Counselor 培训项目。",
+   "anchor": "The managers found out about what we did, so they kicked both of us out of the training program,” Milo said.",
+   "start": 6491,
+   "end": 6599
+  },
+  {
+   "fact": "Milo 趁没人注意塞给 Lily 一张字迹潦草的字条，约她到 Welcome Center 有绝密事相告。",
+   "anchor": "It was a note from Milo, written in typical boy scrawl.",
+   "start": 8169,
+   "end": 8224
+  },
+  {
+   "fact": "Milo 说明妈妈是野生动物保护者，在德州一家大型康复中心工作，他自幼熟悉动物。",
+   "anchor": "my mom is a wildlife conservationist. She works at a big rehabilitation center back in Texas,” he said.",
+   "start": 11656,
+   "end": 11759
+  },
+  {
+   "fact": "Milo 上报后曾被三名穿西装的男子拉进会议室盘问近一小时，怀疑他撞见了不该看到的事。",
+   "anchor": "I was pulled into a conference room. By three men in suits. I have no idea who they were.",
+   "start": 13327,
+   "end": 13416
+  },
+  {
+   "fact": "结尾：两人约好第二天九点在滨海步道尽头碰头找证据，并互问年龄，发现两人都十三岁。",
+   "anchor": "For now, let’s just plan to meet up at the end of the promenade around nine tomorrow, got it?",
+   "start": 17385,
+   "end": 17478
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch17",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch17_paradise.txt",
+ "facts": [
+  {
+   "fact": "开头：Simone 广播宣布有坏消息，烟花表演取消。",
+   "anchor": "I hate to be a buzzkill, but I have some bad news. Our fireworks extravaganza is cancelled due to",
+   "start": 0,
+   "end": 97
+  },
+  {
+   "fact": "烟花取消原因是浮船设备故障，园方致歉并希望尽快重新安排。",
+   "anchor": "an equipment malfunction on the floating barge. We apologize and hope to reschedule the event soon.",
+   "start": 98,
+   "end": 197
+  },
+  {
+   "fact": "安保团队正在追踪岛上的可疑活动。",
+   "anchor": "Also, our security team is tracking some suspicious activity on the island.",
+   "start": 200,
+   "end": 275
+  },
+  {
+   "fact": "广播称这只是小调查，暂不能透露细节，请大家不要恐慌。",
+   "anchor": "While I can’t get into any further details now, I can reassure you that it’s a minor investigation and there’s no cause for alarm.",
+   "start": 276,
+   "end": 406
+  },
+  {
+   "fact": "为配合安保工作，要求所有客人在天黑前返回自己的房间。",
+   "anchor": "in order for security to do their job, we’re asking all guests to return to their rooms before dark",
+   "start": 416,
+   "end": 515
+  },
+  {
+   "fact": "结尾：客人须留在房间直到早晨，Simone 以感谢合作结束广播。",
+   "anchor": "asking all guests to return to their rooms before dark and remain there until morning.",
+   "start": 461,
+   "end": 547
+  }
+ ]
+}

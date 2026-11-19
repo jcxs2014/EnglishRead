@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch08",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch08_paradise.txt",
+ "facts": [
+  {
+   "fact": "开头：Jordan 抵达深夜嘉年华，环顾四周后觉得要在人群中找 Lily 简直遥遥无期。",
+   "anchor": "When Jordan finally arrived at the after-dark carnival, she took one look around and realized it would take FOREVER to find Lily",
+   "start": 0,
+   "end": 128
+  },
+  {
+   "fact": "中段：Jordan 仔细扫视全场，寻找金棕色头发、天真面孔或 Lily 的金属丝边眼镜等特征。",
+   "anchor": "Slowly, Jordan canvassed the area, keeping her eye out for any signs of golden brown hair, an innocent face, or Lily’s wire-rimmed glasses.",
+   "start": 339,
+   "end": 478
+  },
+  {
+   "fact": "困惑：Jordan 怀疑父亲做了什么让全家被发配到温哥华，以及 Nan 如何卷入其中。",
+   "anchor": "What had her dad done to get them shipped off to Vancouver? And how was Nan involved?",
+   "start": 1727,
+   "end": 1812
+  },
+  {
+   "fact": "转折：Lily 身边出现的男孩走近后，Jordan 认出他正是几小时前递给她那封信的人。",
+   "anchor": "The boy followed Lily’s lead, and as he got closer, Jordan realized she’d already met him.",
+   "start": 2870,
+   "end": 2960
+  },
+  {
+   "fact": "中段：Milo 转述 Kurt 的邀请，去 Thrill Harbor 一处地图外的隐秘地点探查。",
+   "anchor": "he’s about to check out this part of Thrill Harbor that’s off the map and he invited me to go along",
+   "start": 5681,
+   "end": 5780
+  },
+  {
+   "fact": "关键地点：Kurt 说那处有在建项目，其中一个叫 Plunge，是从巨大海岸悬崖纵身跳下的自由落体。",
+   "anchor": "One of them is called the Plunge. It’s a free-fall, right off an enormous coastal cliff.",
+   "start": 8994,
+   "end": 9082
+  },
+  {
+   "fact": "数字：Kurt 称 Plunge 落差达五百英尺，为世界之最。",
+   "anchor": "I heard that it was five hundred feet, the biggest in the world.",
+   "start": 14865,
+   "end": 14929
+  },
+  {
+   "fact": "结尾：Jordan 刚把陷在泥里的手电筒抠出来，就看见 Lily 头也不回地拔腿跑开。",
+   "anchor": "Just in time for Jordan to see Lily breaking into a run without looking back.",
+   "start": 18448,
+   "end": 18525
+  }
+ ]
+}

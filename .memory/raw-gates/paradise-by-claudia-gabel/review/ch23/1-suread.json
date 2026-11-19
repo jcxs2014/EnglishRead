@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch23",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch23_paradise.txt",
+ "facts": [
+  {
+   "fact": "萨姆不确定是否真有人喊“快跑”，但他不假思索地照做。",
+   "anchor": "Sam wasn’t sure if someone had really screamed that, or if the voice was just in his head",
+   "start": 9,
+   "end": 98
+  },
+  {
+   "fact": "萨姆冲在最前面，一路奔到电梯口并按下通往主楼层的按钮。",
+   "anchor": "Somehow, he was ahead of the pack, dashing toward the elevator door with blinders on",
+   "start": 162,
+   "end": 246
+  },
+  {
+   "fact": "走廊里再次传来迄今最响亮的咆哮，众人意识到自己深陷险境。",
+   "anchor": "Another roar echoed through the hallway, the loudest he’d heard since everything turned to crap",
+   "start": 524,
+   "end": 619
+  },
+  {
+   "fact": "萨姆用脚撑开楼梯间的门，乔丹打开手电筒带路让大家依次通过。",
+   "anchor": "Jordan flicked on her flashlight as he held the door ajar with his foot so the others could run through",
+   "start": 938,
+   "end": 1041
+  },
+  {
+   "fact": "米洛说F区离度假村太远，那边可能没装警报，暗示这行动是秘密进行的。",
+   "anchor": "Area F is so far away from the resort. They might not have it rigged out here",
+   "start": 2693,
+   "end": 2770
+  },
+  {
+   "fact": "灯光恢复时，一头黑色美洲豹出现在不到一百英尺外，露出锋利的牙齿。",
+   "anchor": "A black jaguar, sleek and muscular, was standing at attention not more than a hundred feet away",
+   "start": 4542,
+   "end": 4637
+  },
+  {
+   "fact": "莉莉教大家同时缓慢后退、避免眼神接触和突然动作，因为奔跑会激发美洲豹的捕食本能。",
+   "anchor": "“We should back away slowly, all at the same time.” Lily said. “No eye contact or sudden movements either.”",
+   "start": 5677,
+   "end": 5784
+  },
+  {
+   "fact": "马克斯手机上的橄榄球计时器闹钟突然大作，引得美洲豹朝他们猛冲过来。",
+   "anchor": "A loud alarm went off and tore through the room like an air-raid siren",
+   "start": 7933,
+   "end": 8003
+  }
+ ]
+}

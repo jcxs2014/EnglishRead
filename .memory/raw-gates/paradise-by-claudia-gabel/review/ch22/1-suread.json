@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch22",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch22_paradise.txt",
+ "facts": [
+  {
+   "fact": "莉莉镇定下来后放下背包，掏出当天早上从别墅顺走的手电筒。",
+   "anchor": "Once Lily caught her breath, she set her backpack down and pulled out a flashlight",
+   "start": 0,
+   "end": 82
+  },
+  {
+   "fact": "手电筒的光照亮了一只悬挂在头顶、张着大嘴的巨型美洲豹标本。",
+   "anchor": "a bright beam of light appeared and illuminated a larger-than-life stuffed jaguar hanging above them",
+   "start": 168,
+   "end": 268
+  },
+  {
+   "fact": "他们似乎位于一个小型竞技场的中层，配有体育场式座席，大小约等于当地歌剧院。",
+   "anchor": "they were at the middle level of a small arena with stadium-style seating",
+   "start": 1422,
+   "end": 1495
+  },
+  {
+   "fact": "竞技场有两层看台，每层约坐一百人，地面上用橙色大字写着“Feeding Frenzy”。",
+   "anchor": "There were two upper decks with seating for about a hundred people each",
+   "start": 3273,
+   "end": 3344
+  },
+  {
+   "fact": "米洛指出若把美洲豹和猎物关进竞技场，观众看到的将不是搏斗而是猎杀。",
+   "anchor": "If you put a jaguar in an arena with its prey, audiences aren’t going to see a fight",
+   "start": 5436,
+   "end": 5520
+  },
+  {
+   "fact": "失踪的乔丹突然出现，拿着莉莉的手电筒，衣服湿透、鞋上还粘着卫生纸。",
+   "anchor": "Jordan was standing there, holding Lily’s flashlight. Her clothes were soaked and a trail of toilet paper was stuck to her shoe",
+   "start": 12484,
+   "end": 12611
+  },
+  {
+   "fact": "乔丹找到的备忘录标有“confidential”，收件方是一个名为“Angel Investors”的组织。",
+   "anchor": "On the top of the memo was the word “confidential” written in bold type. It was addressed to a group called Angel Investors",
+   "start": 13720,
+   "end": 13843
+  },
+  {
+   "fact": "灯闪灭时有人把莉莉拽向电梯，眨眼间走廊尽头美洲豹的滑动门便被撞开。",
+   "anchor": "she would have been standing there moments later, when the sliding doors at the end of the hall shook and flew open",
+   "start": 15175,
+   "end": 15290
+  }
+ ]
+}

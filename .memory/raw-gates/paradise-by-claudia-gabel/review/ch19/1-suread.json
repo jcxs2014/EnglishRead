@@ -1,0 +1,55 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch19",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch19_paradise.txt",
+ "facts": [
+  {
+   "fact": "第二天早晨 Lily 按计划与 Milo 在滨海大道尽头会面，并给他准备了一个惊喜：多了两名帮手。",
+   "anchor": "The next morning, Lily met Milo at the end of the promenade, just like they’d planned.",
+   "start": 0,
+   "end": 86
+  },
+  {
+   "fact": "Milo 强调勘察时要记住有一只很可能受伤受惊的野兽在逃。",
+   "anchor": "the one thing we need to remember while we’re scouting the area is that there’s a wild animal on the loose",
+   "start": 1509,
+   "end": 1615
+  },
+  {
+   "fact": "Milo 推测有动物被当作某秘密工程的试验带到这里后逃脱，管理层为声誉而掩盖。",
+   "anchor": "maybe an animal was brought here as a test. For something they’re building. It got loose.",
+   "start": 3029,
+   "end": 3118
+  },
+  {
+   "fact": "Lily 在树上发现抓痕，Milo 判断这可能来自 Panthera onca，也就是美洲豹。",
+   "anchor": "This could be a jungle cat. Specifically, the Panthera onca species.",
+   "start": 8146,
+   "end": 8214
+  },
+  {
+   "fact": "英国口音的 Jones 先生指责工人运输疏忽导致美洲豹逃跑，并威胁其承担严重后果。",
+   "anchor": "The jaguar escaped because of your carelessness during the transport, and you will face the consequences if something serious happens.",
+   "start": 13280,
+   "end": 13414
+  },
+  {
+   "fact": "Jones 夫人说度假村预订量连续第二个季度下降超过百分之二十五，资金吃紧。",
+   "anchor": "Bookings are down more than twenty-five percent for the second quarter in a row.",
+   "start": 13880,
+   "end": 13960
+  },
+  {
+   "fact": "Milo 低声告诉 Lily，Jones 夫妇是 Paradise 度假村的老板，也是 Avery 和 Max 的父母。",
+   "anchor": "Mr. and Mrs. Jones are the owners of Paradise",
+   "start": 14803,
+   "end": 14848
+  },
+  {
+   "fact": "Lily 以全岛人的安全为由打动 Avery 和 Max，他们答应带大家去看秘密工程。",
+   "anchor": "Because the safety of everyone in Paradise rests on your shoulders right now",
+   "start": 27807,
+   "end": 27883
+  }
+ ]
+}

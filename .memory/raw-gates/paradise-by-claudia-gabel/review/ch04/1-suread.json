@@ -1,0 +1,37 @@
+{
+ "book": "paradise-by-claudia-gabel",
+ "chapter": "ch04",
+ "text": "notes/books/novels/paradise-by-claudia-gabel/text/ch04_paradise.txt",
+ "facts": [
+  {
+   "fact": "本章是 Simone 发出的“晚间版 Hype”播报：先祝客人消化完第一顿美味的家庭晚餐，预告当晚还有一连串精彩活动。",
+   "anchor": "I hope you enjoyed your first mouth-watering family dinner. Once your food has digested, there are a bunch of amazing events tonight",
+   "start": 51,
+   "end": 183
+  },
+  {
+   "fact": "晚上 8 点在 Jones Observatory 举行寻宝比赛，优胜者可赢取丰厚奖品，包括一辆电动自行车和一次全包式重返 Paradise 之旅。",
+   "anchor": "At eight p.m., there’s a scavenger hunt at the Jones Observatory. Winners will take home incredible prizes, including an electric bike",
+   "start": 223,
+   "end": 357
+  },
+  {
+   "fact": "晚上 9 点起，在 Macaw Falls 以东的迷你主题乐园开启夜间狂欢节。",
+   "anchor": "At our mini theme park, just east of Macaw Falls, we’re kicking off an after-dark carnival at nine p.m.",
+   "start": 405,
+   "end": 508
+  },
+  {
+   "fact": "狂欢节上可以骑遍全部 4 台过山车，并和新朋友逛遍全部 20 顶活动帐篷。",
+   "anchor": "Ride all four roller coasters until you’re dizzy. Visit all twenty event tents with your new friends!",
+   "start": 509,
+   "end": 610
+  },
+  {
+   "fact": "15 岁及以上客人可在夏季舞台欣赏 2 小时现场音乐，由排行榜热门 K-pop 乐队 NOVA7 领衔。",
+   "anchor": "For guests ages fifteen and up, the summer stage will have two hours of live music, featuring the chart-topping K-pop band NOVA7.",
+   "start": 613,
+   "end": 742
+  }
+ ]
+}
