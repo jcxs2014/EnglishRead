@@ -110,7 +110,7 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | trying | 尴尬的试（try 的现在分词作形容词），费劲的 | Trying, being the important word. |
-| arrogant | 自负的，傲慢的 | I had been arrogant. |
+| nudge | （用头）轻推，蹭 | Blueberry nudged my shoulder. |
 | reins | 缰绳（rein 的复数） | By the time I stood beside her, my hands were trembling badly enough that I struggled with the reins. |
 | braids | 发辫（braid 的复数） | The little girl couldn’t have been older than seven, with two dark braids. |
 
