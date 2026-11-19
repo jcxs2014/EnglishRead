@@ -42,7 +42,7 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | immaculate | adj. 一尘不染的、完好无损的 | Remarkably, it’s hardly scratched at all (there’s a rough patch that skips during the second chorus of track eight, “Burning Man,” but otherwise this jewel from his youth remains immaculate). |
-| savoring | v. 细品、回味（savor 的现在分词） | He savors the last few verses and choruses of track five, “Graduate,” perhaps his favorite song on the entire CD. |
+| savors | v. 细品、回味（savor 的第三人称单数） | He savors the last few verses and choruses of track five, “Graduate,” perhaps his favorite song on the entire CD. |
 | sequencing | n. 排曲顺序、编排 | What makes a rock album a perfect rock album? No filler, for one. Fourteen bangers, one after another. But it’s more than that—it’s sequencing. |
 
 ### ⭐⭐ 进阶

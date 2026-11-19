@@ -28,7 +28,7 @@ modified: "2026-11-19"
 > **原句 3:** "“Yeah, well, was she? Was she your big bad fabled ‘receiver’?”"
 "“No,” Fisch admitted. “She wasn’t. Her electrical levels weren’t quite high enough. But that doesn’t mean the next one won’t be.”"
 **中文理解**：「呵，那她是吗？她就是你那个吹上天的『receiver』？」「不，」Fisch 承认。「她不是。她的电平不够高。但这不代表下一个不会是。」
-**关键词**：electrical levels / the next one
+**关键词**：receiver / fabled
 **为什么这样写**：兄弟之争的度量衡之争：Jim 用「老太婆故事」（old wives' tale）贬掉 receiver 论，Fisch 用电平表反驳——两种从业者的分歧不在伦理而在方法论。weren't quite high enough 的检定语汇暴露 Erin 的死被记成「样品不达标」——谋杀的验收标准原来是物理量。the next one 的复数化让 156 人失踪案有了一条工业排期。
 **读者视角提示**：对照 ch28 的 A/B 测试：Fisch 的「下一个」由算法批量筛选——兄弟俩的分歧是「手工捕猎 vs 自动化捕猎」，受害者从来没有份额。
 

@@ -33,7 +33,7 @@ modified: "2026-11-19"
 
 > **原句 4:** "Maybe that was all part of some other layer of reality that happened far away in another place. A shared dream after lights-out, once the glow at the center of the donut had dimmed and it was possible for all of us to disappear once again, to escape our confines and become ghosts on the carpet in the basement, together and alone, listening to a fake television show."
 **中文理解**：也许那些根本不存在。也许那是发生在远方他处的另一层现实的一部分：熄灯后的共享梦境——当甜甜圈中央那团光辉转暗，我们得以再度消失，逃出各自的牢笼，成为地下室地毯上的幽灵——在一起，又各自，听一部假的电视节目。
-**关键词**：another layer of reality / together and alone
+**关键词**：other layer of reality / together and alone
 **为什么这样写**：收束句给出本书的宇宙论总纲：layered reality（层叠现实）——ch04 PSA 的「世界底下的世界」与 ch05 Jim 的「特区」在这里获得最温柔的表述。together and alone 的矛盾修辞是全书的情感签名：集体中的隔绝，共享中的无人。「假的电视节目」四字回环 Foreword：这个故事的每一层都既是真的又是假的——这就是本书对「真实」的最终定义。
 **读者视角提示**：带着这四个词（layer/ghost/shared dream/together and alone）进入下半季：接下来的每一集都同时发生在两层。而「the hospital」的真身，将由 ch65 的无标题 coda 亲手揭开。
 
