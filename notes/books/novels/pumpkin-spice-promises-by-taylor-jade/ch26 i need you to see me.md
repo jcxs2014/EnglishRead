@@ -6,7 +6,7 @@ modified: "2026-11-19"
 # 26. Chapter 25
 
 ## 本章导航
-- **一句话概括**：揭示章：Meme 没收她的逞强、逼出「今晚告诉他」；旧剧本全录（careful、躲闪、证明式接受）之后，她在谷仓里褪下牛仔裤与义肢——他的第一反应是生气她带伤走路，然后是那句「I want you. And I want you now」；「Can I touch you?」从好腿问到伤腿，门廊上义肢第一次没有藏进牛仔。
+- **一句话概括**：揭示章：Meme 没收她的逞强、逼出「今晚告诉他」；旧剧本全录（careful、躲闪、证明式接受）之后，她在谷仓里褪下牛仔裤与义肢——他的第一反应是生气她带伤走路，然后是那句「I want you now」；「Can I touch you?」从好腿问到伤腿，门廊上义肢第一次没有藏进牛仔。
 - **情感弧线位置**：全书最高潮：秘密归零、欲望合法化、「幸存离开」与「允许幸福」的恐惧终于被点名。
 - **Tropes 兑现/反转**：the reveal 兑现；反转是「他生气的方式」——愤怒落在她没休息上，落在爱而非缺陷上。
 - **人物弧线**：Carson：从藏到「I need you to see me」；Beau：从等待到「I want you now」；Meme：一句「你已经会幸存离开」拆穿她真正怕的是什么。
@@ -42,7 +42,7 @@ modified: "2026-11-19"
 > **原句 5:** "Maybe because I knew what to do with rejection. I’d survived it before. I knew how to take that particular kind of hurt and tuck it somewhere nobody could see. … Beau staying would require something entirely different from me. … It would require believing him. … That was the part I was terrified of losing—the way his entire expression changed when his eyes found mine across the yard. His attention settled on me completely, as if whatever he’d been thinking about during the drive disappeared the second he saw me. … The thought made me feel sick. … I reached up, but he caught my wrist and rubbed my thumb across a perfectly clean spot near his jaw."
 
 **中文理解**：也许因为她知道怎么处理拒绝：她幸存过，知道把那种疼折好藏进没人看得见的地方；可 Beau 留下需要她完全不同的东西——需要她相信他。；她怕失去的正是这个——他整个神情在目光找到她时的变化：注意力完整地落在她身上，仿佛开车时想的一切在他看到她的瞬间清零；一小时后他会怎么看我——这个念头让她恶心；她伸手想碰，他却捉住她的手腕，拉着她的拇指在他下颌附近一块干干净净的地方蹭了蹭。
-**关键词**：knew what to do with rejection. / tuck it somewhere nobody could see / something entirely different from me. / It would require believing him. / terrified of losing / His attention settled on me completely. / an hour from now. / perfectly clean spot near his jaw
+**关键词**：knew what to do with rejection. / tuck it somewhere nobody could see / It would require believing him. / His attention settled on me completely. / perfectly clean spot near his jaw
 **为什么这样写**：拒绝有操作手册（折好藏好），留下没有——恐惧的不对称性在此说透；「相信他」被写成一项技能缺口：不是不想，是不会。；他的「清零式注视」是她的成瘾物——所以坦白被体验为戒断风险；「干净的下颌」小玩笑把濒死的恐惧按回调情——她的幽默是止痛泵。
 **读者视角提示**：记住「相信是一种技能」——她的学习曲线就是全书后半部的情节。；记住「一小时后」——这个倒计时将贯穿整个谷仓场景。
 
@@ -84,7 +84,7 @@ modified: "2026-11-19"
 **关键词**：far gentler than I ever thought possible. / treated as fragile / cared whether he hurt me / the sob begging to break free
 **为什么这样写**：「易碎品 vs 在乎弄疼」的二分法是全书触碰伦理的定义句——温柔不被误用为距离；问答式触碰（告知→询问→继续）把 consent 做成连续对话。
 **读者视角提示**：记住「在乎弄疼你的人」——这句话值得所有关系抄写一遍。
-> **原句 12:** "“So am I.” He rose enough to bring his face inches from mine. “You keep waiting for me to find something about you that makes me want you less.” His hand moved from my thigh to my hip. “I’m starting to think you’re going to be waiting a long damn time.” … I kissed him. … There was nothing careful about it. … That sound nearly destroyed me, because there was no mistaking it. He wanted me. … For the first time since the accident, I wasn’t waiting for a man to prove that I had been foolish for trusting him with my body. … I was simply being kissed. … And I wanted more. … “He didn’t worship it. He didn’t avoid it. He simply learned me the same way he had been learning everything else. … The way I took my coffee. … The way I worried my nails when I was nervous. … The way I hated asking for help. … All of it belonged to the same woman. … I was simply being kissed. And I wanted more."
+> **原句 12:** “So am I.” He rose enough to bring his face inches from mine. “You keep waiting for me to find something about you that makes me want you less.” His hand moved from my thigh to my hip. “I’m starting to think you’re going to be waiting a long damn time.” … I kissed him. … There was nothing careful about it. … That sound nearly destroyed me, because there was no mistaking it. … He wanted me. … Even now. … Especially now. … I closed my eyes as his hand moved over the bare skin of my thigh, and something inside me cracked open when his fingers passed over the edge of a scar without hesitation. He didn’t worship it. He didn’t avoid it. He simply learned me the same way he had been learning everything else. … The way I took my coffee. … The way I worried my nails when I was nervous. … The way I hated asking for help. … All of it belonged to the same woman. … For the first time since the accident, I wasn’t waiting for a man to prove that I had been foolish for trusting him with my body. … I was simply being kissed. … And I wanted more."
 
 **中文理解**：我也是认真的——他抬起身，脸距她几寸：你一直在等我找到某个让你减分的点——他的手从大腿移到髋——我看你恐怕要等上很长很长他妈的时间；她吻了他，毫无小心可言；他喉咙里那声低响差点毁了她——因为那不会认错：他想要她，现在、尤其现在；事故以来第一次，她没有在等一个男人证明她交出身体的信任是愚蠢的——她只是在被吻；而且她想要更多。；他没有崇拜它，也没有回避它——他只是「学」她，像他一直在学其他一切那样：她喝咖啡的方式、紧张时咬指甲的方式、讨厌求助的方式——全都属于同一个女人；她只是在被吻，而且想要更多。
 **关键词**：waiting a long damn time. / There was nothing careful about it. / I was simply being kissed. / And I wanted more. / He didn’t worship it. / He didn’t avoid it. / learned me the same way / belonged to the same woman
@@ -124,4 +124,4 @@ modified: "2026-11-19"
 | pie | 派，馅饼 | Beau sat beside me eating a slice of Meme’s apple pie. |
 
 ## 一句话总结
-谷仓里她交出了藏五年的身体：旧剧本（careful、证明式接受）被他的「你走了一整天？」式愤怒与「I want you. And I want you now」逐条碾过；触碰从好腿问到疤痕、不崇拜不回避只是学她——门廊上义肢第一次裸露在外，她第一次没有为「我还是我」道歉，向前走的许可证发给了「她变成的这个女人」。
+谷仓里她交出了藏五年的身体：旧剧本（careful、证明式接受）被他的「你走了一整天？」式愤怒与「I want you now」逐条碾过；触碰从好腿问到疤痕、不崇拜不回避只是学她——门廊上义肢第一次裸露在外，她第一次没有为「我还是我」道歉，向前走的许可证发给了「她变成的这个女人」。
