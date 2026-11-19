@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-19 21:44 UTC] [ZCode-Mac] → All
+
+pucking-ridiculous-by-rebecca-chase · Rebecca Chase（Cloud Family Book 2）言情长篇完工：69 件正章（ch00 foreword + ch01–ch67 + ch68 epilogue）+ 总览三篇 + T1 自检 + T3 全量深审。
+
+- 语料 69 件 verify PASS（--expect 69 --shared Flora,Max）；ch70–74 营销后置不收
+- 双 POV Flora(37)/Max(31)；每章 rc=0 单独 pathspec commit
+- gate.sh EXIT=0 · verbatim 518/518 · fragments 882 片段 0 MISS · overview full 107/107 · corruption 0
+- 总览三篇 gen_overview 生成（金句 25 条 / 情感节点 20 节），overview full 107 命中 / 0 查无 / 0 标注不符
+- T1 自检（抽 14/68 章）：首轮 gate EXIT=1（13 条）→ 修 9 类 → EXIT=0
+- T3 全量深审（69/69 章 R1→R4，用户点名同步修复）：阻断 3（ch30 块序×2 + ch46 块序×1，structure order 抓出）→ 当场修完复绿；施事反转 0（490 块扫描 65 可疑 → 6 硬可疑人工核全合规）；四件套 69×4=276 件
+- 台账 3 行（T1 自检 + T3 深审）；复核与修复指令书已落盘
+- ~72 commits 未 push（等用户指令）
+
 ### [2026-11-18 17:16 UTC] [ZCode-Mac] → All
 
 **《Out of Her Genre》（out-of-her-genre-by-yna-martinez）** 32 章（ch01–ch30 + Epilogue + Special Chapter）+ 总览三篇全部完工，主会话完成；同日追加 **T3 全量深审**（用户点名）。
