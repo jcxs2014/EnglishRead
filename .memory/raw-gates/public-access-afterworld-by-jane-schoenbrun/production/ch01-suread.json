@@ -1,0 +1,55 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch01",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch01_foreword.txt",
+ "facts": [
+  {
+   "fact": "旁白者声明：字是她写下的，故事并非她原创——真作者是她的病友",
+   "anchor": "the stories did not originate with me",
+   "start": 76,
+   "end": 113
+  },
+  {
+   "fact": "转述场合：她十七岁那年夏天，州立圣托马斯青少年康复中心（宗教背景浓厚）的病友在一系列晚间口述中讲完这些故事",
+   "anchor": "my friend and fellow patient at the Saint Thomas Youth Rehabilitation Center",
+   "start": 415,
+   "end": 491
+  },
+  {
+   "fact": "病友当时用名 David Sawyer——与其故事中某角色同名；旁白者出于读者读后方知的原因拒绝用此名称呼他们",
+   "anchor": "was going by the name David Sawyer",
+   "start": 602,
+   "end": 636
+  },
+  {
+   "fact": "圣托马斯的建筑本身就是怪异的来源：整座楼浑圆无缝如巨型甜甜圈，走廊弧墙永远向内收拢，处处没有可藏身的角落；中央露天洞场是病人禁区（缺钥匙卡）",
+   "anchor": "There were no angles in the place",
+   "start": 1105,
+   "end": 1138
+  },
+  {
+   "fact": "旁白者断言中心的真实目的不是康复而是驯服：药片+圣经条文、D 级牧羊人派、故意不让人睡好的枕头，看护从患者受苦中取乐",
+   "anchor": "Saint Thomas ran on sadism",
+   "start": 3015,
+   "end": 3041
+  },
+  {
+   "fact": "入院传闻：病友因情绪崩溃+自杀未遂入院，自称脑中卡了一部假电视节目、非把它弄出来不可",
+   "anchor": "a fake TV show stuck inside their brain",
+   "start": 4654,
+   "end": 4693
+  },
+  {
+   "fact": "节目共三十集；熄灯后围坐地毯的一小群病人只听到了二十九集",
+   "anchor": "we only ever got a chance to hear twenty-nine",
+   "start": 5457,
+   "end": 5502
+  },
+  {
+   "fact": "结尾双层反转：病友坚信节目终将在 HBO 周日晚《权力的游戏》档播出；旁白者从不信——「他们不会把周日晚档给我们这种人，他们把我们送进医院、送进地狱」；她把这份抄录称为一场招魂（séance），并 owe 病友一条命",
+   "anchor": "They put us in hospitals. They send us to hell.",
+   "start": 7423,
+   "end": 7470
+  }
+ ]
+}
