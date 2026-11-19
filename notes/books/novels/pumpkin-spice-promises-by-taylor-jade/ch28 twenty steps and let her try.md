@@ -109,7 +109,7 @@ modified: "2026-11-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| mediated | 调解（mediate 的过去式） | By nine that morning, I had already fed Blueberry, checked on the cows, answered fourteen emails, discovered that one of the portable handwashing stations Rosie ordered was leaking, walked the temporary parking field twice, and mediated an argument between two vendors who both believed their booths had been promised the spot closest to the entrance. |
+| trying | 尴尬的试（try 的现在分词作形容词），费劲的 | Trying, being the important word. |
 | arrogant | 自负的，傲慢的 | I had been arrogant. |
 | reins | 缰绳（rein 的复数） | By the time I stood beside her, my hands were trembling badly enough that I struggled with the reins. |
 | braids | 发辫（braid 的复数） | The little girl couldn’t have been older than seven, with two dark braids. |
@@ -117,7 +117,7 @@ modified: "2026-11-19"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cider | 苹果汁 | Meme sat beneath a canopy near the main house with Mom, selling cider tickets from the same galvanized bucket Carson had found in the equipment barn weeks earlier. |
+| arrogant | 自负的，傲慢的 | I had been arrogant. |
 | spreadsheet | 电子表格 | I’d stared at the spreadsheet until the figures blurred. |
 | saddle | 马鞍 | I was standing in the barn staring at my saddle. |
 | arena | （骑术）训练场 | The arena smelled like dirt and leather and the faint sweetness of hay drifting from the barn. |
