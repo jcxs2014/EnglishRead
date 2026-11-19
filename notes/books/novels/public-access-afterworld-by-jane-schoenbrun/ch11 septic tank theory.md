@@ -6,11 +6,11 @@ modified: "2026-11-19"
 # 11. Chapter 2（Episode Two: The Receiver）
 
 ## 本章导航
-- **一句话概括**：偷来的康普茶夜谈：九个月幸存者 Kyle 交出他的化粪池理论（审核员=屎刷工）与电影梦，然后直问 Bethany 是否跨性别、说出已经过世的姐姐——临别托付只有一句：别让他们让你消失。
-- **情感弧线位置**：第二季的第一个盟友场景。Bethany 收到两样东西：一套理解自己工作的词汇，和一份死亡警告（Was 的过去时）。
+- **一句话概括**：偷来的康普茶夜谈：九个月幸存者 Kyle 交出他的化粪池理论（审核员=屎刷工）与电影梦，然后直问 Bethany 是否跨性别、用过去时说出姐姐（"My sister was trans, too."）——临别托付只有一句：别让他们让你消失。
+- **情感弧线位置**：第二季的第一个盟友场景。Bethany 收到两样东西：一套理解自己工作的词汇，和一份生存警告（附一个悬置的过去时）。
 - **Tropes 兑现/反转**：兑现「公司老鸟传帮带」；反转「生存=麻木」——Kyle 靠把刑场当素材库活下来；反转「直问=冒犯」——这一问是全场唯一的尊重。
-- **人物弧线**：Kyle：幸存者、讲述者、失去者（姐姐 Was）；Bethany：第一次被同事看见全部身份，收下警告并开始掂量去留。
-- **叙事手法**：食堂复古布景反衬对话的肮脏；长篇独白（化粪池理论）做职场寓言；一个过去时单词承担全部讣告。
+- **人物弧线**：Kyle：幸存者、讲述者、失去者（那句悬置的 "Was."）；Bethany：第一次被同事看见全部身份，收下警告并开始掂量去留。
+- **叙事手法**：食堂复古布景反衬对话的肮脏；长篇独白（化粪池理论）做职场寓言；一个过去时单词承担全部留白。
 
 ## 精读
 > **原句 1:** "“That’s how they get you in the door,” Kyle said. “They keep it vague and upbeat on the phone, attract people who are so desperate for a gig they don’t think to ask questions, and then wham: They hit you with the atrocity exhibition.”"
@@ -34,7 +34,7 @@ modified: "2026-11-19"
 > **原句 4:** "Was. The word hung in the air. Kyle picked up his glass and mug and walked the dishes over to the sink."
 **中文理解**：「曾」。这个字悬在空气里。Kyle 端起玻璃杯和马克杯，把餐具送去水槽。
 **关键词**：hung in the air / sink
-**为什么这样写**：一个过去时动词独立成句，是全书最小的讣告——语法时态替代死因说明。句子的三段递进（词悬空→端起→走去水槽）用动作写出回避：对话不能继续的地方，家务接管。sink（水槽）与化粪池理论的下水道意象接通——告别发生在离污物最近的地方。
+**为什么这样写**：一个过去时动词独立成句，是全书最小的悬置——语法时态替代一切说明。句子的三段递进（词悬空→端起→走去水槽）用动作写出回避：对话不能继续的地方，家务接管。sink（水槽）与化粪池理论的下水道意象接通——告别发生在离污物最近的地方。
 **读者视角提示**：不要跳过这个字。Kyle 之后所有的电影梦，都要放在这个过去式旁边重读。
 
 > **原句 5:** "“Hey, let me ask you a favor,” Kyle said. “Don’t let them grind you into pea dust, yeah? Don’t let them make you disappear.”"
