@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch01",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch01_prologue.txt",
+  "facts": [
+    {
+      "fact": "Pops 在 Carson 四岁时看她骑自己的母马，说她是天生的赛手",
+      "anchor": "when I was four years old",
+      "start": 1496,
+      "end": 1521
+    },
+    {
+      "fact": "Carson 六岁时骑第一匹马 Whiskey 开始参赛",
+      "anchor": "By six, I was competing on my first horse, Whiskey.",
+      "start": 1649,
+      "end": 1700
+    },
+    {
+      "fact": "Carson 十二岁时经常获胜，在东南部打响名气",
+      "anchor": "By twelve, I was winning regularly and making a name for myself across the Southeast.",
+      "start": 1822,
+      "end": 1907
+    },
+    {
+      "fact": "Blueberry 是 Pops 在 Carson 赢得第一个青年冠军后送给她的礼物",
+      "anchor": "gift to me after I won my first youth championship",
+      "start": 1936,
+      "end": 1986
+    },
+    {
+      "fact": "Carson 把赞助邮件读了三遍才相信，随后又读了第四遍和第五遍",
+      "anchor": "I read the email three times before I finally believed it.",
+      "start": 2293,
+      "end": 2351
+    },
+    {
+      "fact": "Carson 答应 Pops 等自己转正后给他买全乔治亚州最好的卡车",
+      "anchor": "buying you the nicest truck in Georgia",
+      "start": 5953,
+      "end": 5991
+    },
+    {
+      "fact": "Meme 在 Carson 出发前拥抱了她两次",
+      "anchor": "Meme hugged me twice before I climbed",
+      "start": 6663,
+      "end": 6700
+    },
+    {
+      "fact": "那辆红色 Ford F-150 是 Pops 在 Carson 十六岁时买给她的",
+      "anchor": "the red Ford F-150 Pops bought for me when I turned sixteen",
+      "start": 6727,
+      "end": 6786
+    }
+  ]
+}

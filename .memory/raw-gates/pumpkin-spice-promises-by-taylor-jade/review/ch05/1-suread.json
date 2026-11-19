@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch05",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch05_chapter_4.txt",
+  "facts": [
+    {
+      "fact": "Carson 整个下午一直拒绝 Beau 提供的每一项帮助，仿佛接受一次就会背上还不清的债。",
+      "anchor": "She had spent most of the afternoon resisting every offer of help, as though accepting one might result in a debt she could never repay.",
+      "start": 138,
+      "end": 274
+    },
+    {
+      "fact": "Clover 在 Beau 结束通话前问了大约十二个关于 Carson 的问题，他一个都答不上来。",
+      "anchor": "She had asked approximately twelve questions about Carson before I finally ended the call, none of which I’d been able to answer.",
+      "start": 2320,
+      "end": 2449
+    },
+    {
+      "fact": "Carson 说餐馆订了六加仑牛奶，杂货店订了八加仑，其余是镇外的私人配送。",
+      "anchor": "They ordered six gallons. The grocery store ordered eight, but the rest were private deliveries outside town.",
+      "start": 4215,
+      "end": 4324
+    },
+    {
+      "fact": "Beau 告诉 Carson，Rosie 问了他六个关于 Carson 的问题。",
+      "anchor": "Rosie asked six questions about you",
+      "start": 11190,
+      "end": 11225
+    },
+    {
+      "fact": "Carson 要求 Beau 给出 Pops 卡车的真实报价，不要因为认识 Pops 而给的人情价，并说她会付款；Beau 答应第二天早上给估价。",
+      "anchor": "I need the real number, Beau. Not a favor because you knew Pops.",
+      "start": 19609,
+      "end": 19673
+    },
+    {
+      "fact": "Carson 告诉 Beau，她从 Pops 去世后就开始做这些配送。",
+      "anchor": "Since Pops died.",
+      "start": 15324,
+      "end": 15340
+    },
+    {
+      "fact": "Evelyn Rome 质问 Carson 冒雨走了两英里，Carson 只回答她知道。",
+      "anchor": "Two miles.",
+      "start": 18308,
+      "end": 18318
+    },
+    {
+      "fact": "James Rome 曾把十七岁的 Beau 当回事，托付昂贵设备、纠正他而不羞辱他，并付给他超过工作价值的报酬，因为知道 Dad 让 Jax 和 Beau 攒钱上技术学校。",
+      "anchor": "But James Rome had once taken a restless seventeen-year-old boy and treated him like his time mattered. He had trusted me with expensive equipment, corrected me without humiliating me, and paid me more than the work was worth because he knew Dad was making Jax and me save for technical school.",
+      "start": 7906,
+      "end": 8200
+    }
+  ]
+}

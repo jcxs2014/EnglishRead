@@ -1,0 +1,880 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch22 clover dinner and i have one too.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch22_chapter_21.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was two weeks until the festival started. Marigold Ranch stopped looking like a place recovering from neglect and sta",
+          "ok": true,
+          "pos": 26
+        },
+        {
+          "text": "New fence posts replaced the worst of the leaning ones along the south pasture. The old hay wagons sat outside the equip",
+          "ok": true,
+          "pos": 224
+        },
+        {
+          "text": "Everywhere I looked, there was evidence that the ranch was changing",
+          "ok": true,
+          "pos": 717
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I had gone from avoiding Willow Creek unless a delivery required it to knowing which days Clover worked the bakery count",
+          "ok": true,
+          "pos": 835
+        },
+        {
+          "text": "I knew he drank his coffee black if he was working and with cream if we were sitting somewhere long enough for him to en",
+          "ok": true,
+          "pos": 1105
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I knew he always checked the locks on the equipment barn before leaving even though I had never asked",
+          "ok": true,
+          "pos": 1439
+        },
+        {
+          "text": "And I knew, with an increasingly uncomfortable amount of certainty, that I was falling for him",
+          "ok": true,
+          "pos": 1542
+        },
+        {
+          "text": "Tell your cow I expect an apology",
+          "ok": true,
+          "pos": 1717
+        },
+        {
+          "text": "You seem to keep coming back anyway",
+          "ok": true,
+          "pos": 2068
+        },
+        {
+          "text": "Yeah. Funny how that keeps happening",
+          "ok": true,
+          "pos": 2177
+        },
+        {
+          "text": "My stomach tightened, and I locked the phone and turned it face down",
+          "ok": true,
+          "pos": 2215
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Meme noticed",
+          "ok": true,
+          "pos": 2285
+        },
+        {
+          "text": "She sat at the kitchen table clipping coupons she would probably never use, her reading glasses low on her nose",
+          "ok": true,
+          "pos": 2299
+        },
+        {
+          "text": "“Looking happy and then immediately punishing yourself for it.”",
+          "ok": true,
+          "pos": 2491
+        },
+        {
+          "text": "“Are you going to Clover’s tonight?”",
+          "ok": true,
+          "pos": 2716
+        },
+        {
+          "text": "Clover had invited me to her house for dinner three days ago",
+          "ok": true,
+          "pos": 3111
+        },
+        {
+          "text": "Not a Jones family dinner",
+          "ok": true,
+          "pos": 3173
+        },
+        {
+          "text": "Not a festival meeting",
+          "ok": true,
+          "pos": 3200
+        },
+        {
+          "text": "Not some elaborate social obligation",
+          "ok": true,
+          "pos": 3224
+        },
+        {
+          "text": "I had almost said no. Then realized I had no actual reason. And a small part of me was excited to be doing something so ",
+          "ok": true,
+          "pos": 3262
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "And a ceramic snowman sat beside the front door",
+          "ok": true,
+          "pos": 3802
+        },
+        {
+          "text": "I stopped and stifled a giggle at seeing a Christmas decoration two months early",
+          "ok": true,
+          "pos": 3851
+        },
+        {
+          "text": "I knocked and Clover opened the door almost immediately wearing fuzzy socks covered in Christmas trees",
+          "ok": true,
+          "pos": 3933
+        },
+        {
+          "text": "“You need help.”",
+          "ok": true,
+          "pos": 4086
+        },
+        {
+          "text": "“I need joy.”",
+          "ok": true,
+          "pos": 4101
+        },
+        {
+          "text": "“It’s eighty degrees.”",
+          "ok": true,
+          "pos": 4113
+        },
+        {
+          "text": "“Inside it's cold.” She stepped aside, the house smelled like garlic, rosemary, and something roasting",
+          "ok": true,
+          "pos": 4133
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Hey Carson.” He smiled, not hiding his prosthetics like he usually did at the ranch",
+          "ok": true,
+          "pos": 4308
+        },
+        {
+          "text": "He looked more relaxed here than I had ever seen him around town. His shoulders sat lower. His expression was softer",
+          "ok": true,
+          "pos": 4397
+        },
+        {
+          "text": "Nothing hidden",
+          "ok": true,
+          "pos": 4723
+        },
+        {
+          "text": "Just him",
+          "ok": true,
+          "pos": 4739
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Then he reached down and adjusted something near his right knee",
+          "ok": true,
+          "pos": 7579
+        },
+        {
+          "text": "He frowned and mumbled something I couldn’t hear. Clover looked over immediately",
+          "ok": true,
+          "pos": 7701
+        },
+        {
+          "text": "“Socket?”",
+          "ok": true,
+          "pos": 7782
+        },
+        {
+          "text": "“Yeah.”",
+          "ok": true,
+          "pos": 2177
+        },
+        {
+          "text": "“You want the other liner?” She started to stand. “It’s in the bedroom.”",
+          "ok": true,
+          "pos": 7796
+        },
+        {
+          "text": "Hunter touched her wrist. “I’ve got it.”",
+          "ok": true,
+          "pos": 7864
+        },
+        {
+          "text": "Clover sat back down as Hunter rose and walked toward the hallway. I watched him go. Not because of the prosthetic. Beca",
+          "ok": true,
+          "pos": 7902
+        }
+      ],
+      "words": 94
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Does Beau ever act weird around Hunter?”",
+          "ok": true,
+          "pos": 8376
+        },
+        {
+          "text": "Clover frowned. “Weird how?”",
+          "ok": true,
+          "pos": 8416
+        },
+        {
+          "text": "Clover found them for me",
+          "ok": true,
+          "pos": 8538
+        },
+        {
+          "text": "“Because of his prosthetics?” Her brows pulled together",
+          "ok": true,
+          "pos": 8564
+        },
+        {
+          "text": "“No, of course not, he’s not that type of person.”",
+          "ok": true,
+          "pos": 8663
+        },
+        {
+          "text": "“Never?”",
+          "ok": true,
+          "pos": 8780
+        },
+        {
+          "text": "“Why would he?”",
+          "ok": true,
+          "pos": 8787
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I looked down. That question hurt more than reassurance would have",
+          "ok": true,
+          "pos": 8801
+        },
+        {
+          "text": "Why would he",
+          "ok": true,
+          "pos": 8787
+        },
+        {
+          "text": "Because people did",
+          "ok": true,
+          "pos": 8883
+        },
+        {
+          "text": "Because men had",
+          "ok": true,
+          "pos": 8903
+        },
+        {
+          "text": "Because bodies changed how people behaved even when they swore they wouldn’t",
+          "ok": true,
+          "pos": 8920
+        },
+        {
+          "text": "Everyone in this family seemed strangely good at leaving doors open without pushing anyone through. Maybe that was why I",
+          "ok": true,
+          "pos": 9506
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I’m getting us some dessert.”",
+          "ok": true,
+          "pos": 10046
+        },
+        {
+          "text": "“I’m feeling adventurous.” He disappeared into the kitchen. He had given us privacy",
+          "ok": true,
+          "pos": 10118
+        },
+        {
+          "text": "My throat tightened. It was now or never",
+          "ok": true,
+          "pos": 10200
+        },
+        {
+          "text": "“I have one too,” I said. The words were barely audible",
+          "ok": true,
+          "pos": 10242
+        },
+        {
+          "text": "“A prosthetic.”",
+          "ok": true,
+          "pos": 10349
+        },
+        {
+          "text": "“That’s why you asked.”",
+          "ok": true,
+          "pos": 10399
+        },
+        {
+          "text": "I nodded. My pulse started climbing. “I lost my left leg.”",
+          "ok": true,
+          "pos": 10420
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“How long?”",
+          "ok": true,
+          "pos": 10590
+        },
+        {
+          "text": "“Five years.”",
+          "ok": true,
+          "pos": 10600
+        },
+        {
+          "text": "Her face softened and I immediately hated it. “Please don’t.”",
+          "ok": true,
+          "pos": 10612
+        },
+        {
+          "text": "“Look at me like that.”",
+          "ok": true,
+          "pos": 10693
+        },
+        {
+          "text": "I set the glass down. “This is exactly why I don’t tell people.”",
+          "ok": true,
+          "pos": 10776
+        },
+        {
+          "text": "“No. You didn’t do anything.” I rubbed my hands together. “They just",
+          "ok": true,
+          "pos": 10848
+        },
+        {
+          "text": "” I struggled. “People change.”",
+          "ok": true,
+          "pos": 10914
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Was he always like that?”",
+          "ok": true,
+          "pos": 11135
+        },
+        {
+          "text": "Clover thought about it. “No.” That answer surprised me. “He used to hide everything.” Her voice softened. “Long sleeves",
+          "ok": true,
+          "pos": 11160
+        },
+        {
+          "text": "“What changed?”",
+          "ok": true,
+          "pos": 11351
+        },
+        {
+          "text": "“Time.” She shrugged. “And getting tired.”",
+          "ok": true,
+          "pos": 11365
+        },
+        {
+          "text": "“Of making himself uncomfortable so other people could be comfortable.”",
+          "ok": true,
+          "pos": 11419
+        },
+        {
+          "text": "“But he stopped treating those things like secrets.”",
+          "ok": true,
+          "pos": 11762
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“I’ve dated since the accident.”",
+          "ok": true,
+          "pos": 12297
+        },
+        {
+          "text": "“Then eventually, they find out.”",
+          "ok": true,
+          "pos": 12490
+        },
+        {
+          "text": "“Sometimes nothing.” Not every man had been cruel. “Some tried.” I rubbed my thumb against the edge of the glass. “But s",
+          "ok": true,
+          "pos": 12586
+        },
+        {
+          "text": "“They’d get careful.” The word came out bitter. “Like suddenly I couldn’t handle stairs. Or they’d ask if I needed help ",
+          "ok": true,
+          "pos": 12828
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“Exactly, one guy actually told me I was inspiring.”",
+          "ok": true,
+          "pos": 13058
+        },
+        {
+          "text": "“While I was half naked.”",
+          "ok": true,
+          "pos": 13134
+        },
+        {
+          "text": "“Absolutely not.”",
+          "ok": true,
+          "pos": 13158
+        },
+        {
+          "text": "Clover reached across the island. Her hand stopped before touching mine. She waited. Then placed my hand beneath hers",
+          "ok": true,
+          "pos": 13245
+        },
+        {
+          "text": "“I don’t want Beau to look at me differently.” The admission hurt",
+          "ok": true,
+          "pos": 13364
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "“I can’t promise what Beau will feel.” That made me look at her. “But I can tell you who he is. Hunter came into our fam",
+          "ok": true,
+          "pos": 13450
+        },
+        {
+          "text": "“Because Dad taught them that if somebody needs help, you offer once.”",
+          "ok": true,
+          "pos": 14241
+        },
+        {
+          "text": "“Pretty much. Our Dad hates pity.”",
+          "ok": true,
+          "pos": 14320
+        },
+        {
+          "text": "Something in my chest loosened",
+          "ok": true,
+          "pos": 14353
+        },
+        {
+          "text": "“He thinks helping someone who doesn’t want help is mostly about making yourself feel useful.”",
+          "ok": true,
+          "pos": 14403
+        },
+        {
+          "text": "“What? She knows I won’t judge, we’re in the same boat.” His gaze remained on me",
+          "ok": true,
+          "pos": 14692
+        },
+        {
+          "text": "“Five years.”",
+          "ok": true,
+          "pos": 10600
+        },
+        {
+          "text": "“Above knee?”",
+          "ok": true,
+          "pos": 14793
+        },
+        {
+          "text": "“Socket issues?”",
+          "ok": true,
+          "pos": 14824
+        },
+        {
+          "text": "“Heat sucks, right?”",
+          "ok": true,
+          "pos": 14850
+        },
+        {
+          "text": "“Yes, I keep irritating my skin.” It was so nice to talk to someone who understood",
+          "ok": true,
+          "pos": 14869
+        },
+        {
+          "text": "Hunter told me Beau had driven three hours once because one of Hunter’s prosthetic components failed while Clover and Hu",
+          "ok": true,
+          "pos": 14986
+        }
+      ],
+      "words": 173
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 117,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 154,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter Twenty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 1,
+    "segments": 92,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2831,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句15",
+        "words": 173
+      }
+    ],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句2",
+        "kw": "with cream if we were sitting somewhere long enough",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

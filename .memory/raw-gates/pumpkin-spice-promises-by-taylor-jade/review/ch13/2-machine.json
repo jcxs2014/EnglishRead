@@ -1,0 +1,635 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch13 james boots and what it could become.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch13_chapter_12.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I let him believe that. The truth was harder to explain—I liked being here. I’d forgotten just how much",
+          "ok": true,
+          "pos": 1473
+        },
+        {
+          "text": "Not easier; my back already hurt, and I could feel a blister forming near the base of my thumb despite the gloves. But b",
+          "ok": true,
+          "pos": 1918
+        },
+        {
+          "text": "It was progress you could see",
+          "ok": true,
+          "pos": 2132
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The place was alive, yet tired, as if it had weathered one too many storms and severely understaffed. Held together in s",
+          "ok": true,
+          "pos": 3040
+        },
+        {
+          "text": "Two days ago, I’d thought the ranch was falling apart because Carson couldn’t keep up with it. I was wrong. Marigold Ran",
+          "ok": true,
+          "pos": 4336
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I was starting to understand that Carson didn’t run Marigold Ranch from an office",
+          "ok": true,
+          "pos": 3929
+        },
+        {
+          "text": "She ran it by being everywhere",
+          "ok": true,
+          "pos": 4011
+        },
+        {
+          "text": "The woman seemed to know when a cow stopped eating before anyone else did, which gate had started sticking, what feed de",
+          "ok": true,
+          "pos": 4043
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I wanted to know why she could talk about barrel racing with enough confidence to correct me six times, but couldn’t ans",
+          "ok": true,
+          "pos": 5928
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I’d never been heartbroken over it",
+          "ok": true,
+          "pos": 5431
+        },
+        {
+          "text": "The older I got, the more I wondered whether that should bother me. It didn’t. At least, it hadn’t before",
+          "ok": true,
+          "pos": 5557
+        },
+        {
+          "text": "That was the dangerous kind of interest. Physical attraction could burn itself out. Curiosity had a habit of digging dee",
+          "ok": true,
+          "pos": 6441
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Five years later and James’s boots were still beside the door",
+          "ok": true,
+          "pos": 9036
+        },
+        {
+          "text": "Something about that hit differently than the festival equipment had. Those boots were waiting for a man who wasn’t comi",
+          "ok": true,
+          "pos": 9098
+        },
+        {
+          "text": "“Can’t bring myself to move ‘em.” She reached past me and pushed the heavy door open. “He’d haunt me anyway, if I did.”",
+          "ok": true,
+          "pos": 9260
+        },
+        {
+          "text": "“I was married to James Rome for forty-three years. I believe that man would find a way to annoy me from the grave.”",
+          "ok": true,
+          "pos": 9416
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But almost every photograph that looked like family came back to the same three people",
+          "ok": true,
+          "pos": 11242
+        },
+        {
+          "text": "I remembered what Dad had said. James and Evelyn raised her. I hadn’t thought much about what that actually meant",
+          "ok": true,
+          "pos": 11330
+        },
+        {
+          "text": "There was one photograph near the edge of a shelf that made me stop. A young woman held a baby against her chest; she lo",
+          "ok": true,
+          "pos": 11444
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Carson looked just like her when she was little.”",
+          "ok": true,
+          "pos": 11977
+        },
+        {
+          "text": "“Some.” Her voice softened. “Thankfully, she got James’s stubbornness.”",
+          "ok": true,
+          "pos": 12073
+        },
+        {
+          "text": "“And his mouth.”",
+          "ok": true,
+          "pos": 12238
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I found myself noticing those things with her. The quiet ways she cared for people. She didn’t ask Meme whether she need",
+          "ok": true,
+          "pos": 15466
+        },
+        {
+          "text": "Carson had spent so much time insisting she could handle herself that I hadn’t considered how much of her life was spent",
+          "ok": true,
+          "pos": 15950
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Meme told a story about James trying to milk a cow for the first time after they bought the property and ending up kicke",
+          "ok": true,
+          "pos": 16771
+        },
+        {
+          "text": "“He came into the house limping and told me the horse had a personal vendetta.”",
+          "ok": true,
+          "pos": 17325
+        },
+        {
+          "text": "Something changed in Carson’s face. The laugh remained, but so did the sadness. But one didn’t erase the other",
+          "ok": true,
+          "pos": 17403
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "He liked having boys around. Always thought Carson should’ve had brothers",
+          "ok": true,
+          "pos": 18336
+        },
+        {
+          "text": "“He had me.”",
+          "ok": true,
+          "pos": 18431
+        },
+        {
+          "text": "“I know, sweetie.” Meme touched her hand. “He would’ve had twelve of you if the Lord had given him the choice.”",
+          "ok": true,
+          "pos": 18442
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“State youth championship.” She said it casually",
+          "ok": true,
+          "pos": 18946
+        },
+        {
+          "text": "“And most fourteen-year-olds are accomplishing things like surviving algebra.”",
+          "ok": true,
+          "pos": 19107
+        },
+        {
+          "text": "“You slept with that buckle beside your bed.”",
+          "ok": true,
+          "pos": 19362
+        },
+        {
+          "text": "“For three nights.”",
+          "ok": true,
+          "pos": 19412
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I looked toward the pasture again. “Enough land that neighbors aren’t looking through the windows. Maybe a few horses. D",
+          "ok": true,
+          "pos": 22862
+        },
+        {
+          "text": "“Kids, eventually.”",
+          "ok": true,
+          "pos": 23031
+        },
+        {
+          "text": "Silence; she didn’t have a snarky comment for once. Meme and Jax were still discussing something. But Carson went comple",
+          "ok": true,
+          "pos": 23049
+        },
+        {
+          "text": "Carson looked down at her plate. “Sounds nice.”",
+          "ok": true,
+          "pos": 23671
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Carson sat on the hood of the old John Deere tractor we’d uncovered yesterday. Sixteen, maybe seventeen. An orange Marig",
+          "ok": true,
+          "pos": 24217
+        },
+        {
+          "text": "“Hair’s longer now.” I looked at the photograph again, and she rolled her eyes. “You looked happy.”",
+          "ok": true,
+          "pos": 25016
+        },
+        {
+          "text": "“I was.”",
+          "ok": true,
+          "pos": 25267
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Maybe Carson had spent so many years believing everything good belonged to the life she’d had before that she’d stopped ",
+          "ok": true,
+          "pos": 25978
+        },
+        {
+          "text": "Not what it used to look like. What it could become",
+          "ok": true,
+          "pos": 26429
+        },
+        {
+          "text": "And for a reason I couldn’t quite explain, I wanted to be here long enough to see it",
+          "ok": true,
+          "pos": 26482
+        }
+      ],
+      "words": 62
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 44,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4679,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句15",
+        "kw": "everything good belonged to the life she’d had before",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

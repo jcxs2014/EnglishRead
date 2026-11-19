@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch10",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch10_chapter_9.txt",
+  "facts": [
+    {
+      "fact": "Carson told her grandmother Meme she was seventy-three and could claim exhaustion whenever she wanted.",
+      "anchor": "You’re seventy-three. You can claim exhaustion whenever you want.",
+      "start": 2384,
+      "end": 2449
+    },
+    {
+      "fact": "Carson told the town hall meeting that the Harvest Festival had not been held at Marigold Ranch in five years.",
+      "anchor": "The festival hasn’t been at Marigold Ranch in five years,",
+      "start": 10661,
+      "end": 10718
+    },
+    {
+      "fact": "Rosie Malone told Carson that thirty-six vendors were confirmed for the festival.",
+      "anchor": "Thirty-six confirmed.",
+      "start": 13716,
+      "end": 13737
+    },
+    {
+      "fact": "Rosie said the vendor count would be forty-two if they accepted the waitlist.",
+      "anchor": "Forty-two if we accept the waitlist.",
+      "start": 13778,
+      "end": 13814
+    },
+    {
+      "fact": "June Whitaker said that last year she shipped two hundred pumpkin bread boxes.",
+      "anchor": "Last year I shipped two hundred pumpkin bread boxes.",
+      "start": 13007,
+      "end": 13059
+    },
+    {
+      "fact": "Meme told Walter he was seventy years old, but Walter replied that he was sixty-eight.",
+      "anchor": "I’m sixty-eight.",
+      "start": 6216,
+      "end": 6232
+    },
+    {
+      "fact": "Carson asked Meme how they would get Marigold Ranch ready in four weeks.",
+      "anchor": "How will we get it ready in four weeks?",
+      "start": 18902,
+      "end": 18941
+    },
+    {
+      "fact": "Rosie emailed Carson the detailed revenue numbers and admitted it was tasteful pressure.",
+      "anchor": "I emailed you the detailed revenue numbers. No pressure.",
+      "start": 25218,
+      "end": 25274
+    }
+  ]
+}

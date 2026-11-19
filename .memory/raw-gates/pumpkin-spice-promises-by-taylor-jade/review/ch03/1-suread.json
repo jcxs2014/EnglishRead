@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch03",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch03_chapter_2.txt",
+  "facts": [
+    {
+      "fact": "Jax 在 Jones Automotive 车库里趴在一辆 Ford pickup 的引擎盖下修车，车库放着 Bad Omens 的音乐",
+      "anchor": "Jax worked beneath the hood of a Ford pickup",
+      "start": 116,
+      "end": 160
+    },
+    {
+      "fact": "Dad 让年少的 Beau 和 Jax 在车库水泥地上看他重建引擎，当时 Jax eleven、Beau nine",
+      "anchor": "Jax had been eleven. I’d been nine.",
+      "start": 890,
+      "end": 925
+    },
+    {
+      "fact": "Dad 三年前把车库所有权转给 Beau 和 Jax 并宣布退休，结果只待了 four days 就回来了",
+      "anchor": "He lasted four days.",
+      "start": 1315,
+      "end": 1335
+    },
+    {
+      "fact": "Rosie Malone 在黎明前换了酒馆招牌，把地方变成 Spicy Pumpkin Tavern 长达 next two months",
+      "anchor": "Rosie Malone had changed the tavern sign before dawn",
+      "start": 2522,
+      "end": 2574
+    },
+    {
+      "fact": "故事时间是 Present Day — September 1st，全镇前一晚装饰到 well past midnight",
+      "anchor": "Present Day — September 1st",
+      "start": 23,
+      "end": 50
+    },
+    {
+      "fact": "淋湿的金发女人走进车库，告诉 Beau 她的卡车抛锚、手机没电了",
+      "anchor": "My truck broke down",
+      "start": 4804,
+      "end": 4823
+    },
+    {
+      "fact": "女人说卡车停在 Highway Ninety 大约 two miles 外，Beau 质疑她为何冒雨走这么远",
+      "anchor": "Maybe two miles back.",
+      "start": 7838,
+      "end": 7859
+    },
+    {
+      "fact": "Jax 开拖车去拖女人那辆 Black eighty-nine Chevy（square body），Beau 留在办公室给她冲咖啡",
+      "anchor": "Black eighty-nine Chevy. Square body.",
+      "start": 9272,
+      "end": 9309
+    }
+  ]
+}

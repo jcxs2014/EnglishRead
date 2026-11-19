@@ -1,0 +1,704 @@
+{
+  "chapter": 28,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch28 twenty steps and let her try.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch28_chapter_27.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "None of it made us rich, but it did something infinitely more valuable",
+          "ok": true,
+          "pos": 1631
+        },
+        {
+          "text": "It gave us time",
+          "ok": true,
+          "pos": 1703
+        },
+        {
+          "text": "For years, every unexpected ranch expense had felt like somebody reaching into my chest and squeezing",
+          "ok": true,
+          "pos": 1720
+        },
+        {
+          "text": "But for the first time in a long time, I could look at the numbers and imagine repairing something before it completely ",
+          "ok": true,
+          "pos": 2063
+        },
+        {
+          "text": "I could breathe",
+          "ok": true,
+          "pos": 2260
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“The fast one.”",
+          "ok": true,
+          "pos": 5216
+        },
+        {
+          "text": "My stomach tightened",
+          "ok": true,
+          "pos": 5230
+        },
+        {
+          "text": "One of them was of me and Blueberry—I couldn’t have been more than seventeen. Blueberry was coming around the third barr",
+          "ok": true,
+          "pos": 5594
+        },
+        {
+          "text": "“Do you still?”",
+          "ok": true,
+          "pos": 5904
+        },
+        {
+          "text": "My hand stopped against Blueberry’s neck. Children asked things adults had learned not to. Nobody in Willow Creek asked ",
+          "ok": true,
+          "pos": 5918
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "That wasn’t true, I’d ridden after the accident. Only once",
+          "ok": true,
+          "pos": 7016
+        },
+        {
+          "text": "I had been arrogant",
+          "ok": true,
+          "pos": 7362
+        },
+        {
+          "text": "I’d gotten into the saddle, and for approximately thirty seconds, I had felt like myself again",
+          "ok": true,
+          "pos": 7728
+        },
+        {
+          "text": "I lasted less than five minutes",
+          "ok": true,
+          "pos": 8131
+        },
+        {
+          "text": "I stopped trying because I couldn’t survive repeatedly meeting the woman I used to be and losing her again",
+          "ok": true,
+          "pos": 8237
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Then I grabbed them. I’d worn them around the house, at physical therapy, around Meme. But",
+          "ok": true,
+          "pos": 9092
+        },
+        {
+          "text": "wearing them outside was different",
+          "ok": true,
+          "pos": 9182
+        },
+        {
+          "text": "I felt every inch of the look. My bare right leg. The visible prosthetic on my left",
+          "ok": true,
+          "pos": 9514
+        },
+        {
+          "text": "His gaze came back to my face. “Hi, sweetheart.”",
+          "ok": true,
+          "pos": 9604
+        },
+        {
+          "text": "He kissed me. The kiss wasn’t obscene enough to justify how warm my face became afterward",
+          "ok": true,
+          "pos": 9758
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Does the ranch make things harder on your leg?”",
+          "ok": true,
+          "pos": 10474
+        },
+        {
+          "text": "“Yes.”",
+          "ok": true,
+          "pos": 10655
+        },
+        {
+          "text": "“What if Jax and I take a few nights every week and knock out the heavier stuff?”",
+          "ok": true,
+          "pos": 10986
+        },
+        {
+          "text": "“Then what are you trying to do?”",
+          "ok": true,
+          "pos": 11312
+        },
+        {
+          "text": "“Help you keep doing it.”",
+          "ok": true,
+          "pos": 11344
+        },
+        {
+          "text": "“Because I care about you. I’d offer to help if you had two legs and six arms, because you’re still one person trying to",
+          "ok": true,
+          "pos": 11915
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I sat beside Beau. My prosthetic remained completely visible beneath the table",
+          "ok": true,
+          "pos": 12849
+        },
+        {
+          "text": "Margaret noticed, as did Walter, and their eyes lowered for a moment when I first walked inside. Then Margaret hugged me",
+          "ok": true,
+          "pos": 12929
+        },
+        {
+          "text": "That was it",
+          "ok": true,
+          "pos": 13192
+        },
+        {
+          "text": "Nobody stared",
+          "ok": true,
+          "pos": 13205
+        },
+        {
+          "text": "Nobody asked what happened",
+          "ok": true,
+          "pos": 13220
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I didn’t stop because riding was impossible. I stopped because I couldn’t stand knowing exactly how good I used to be",
+          "ok": true,
+          "pos": 14989
+        },
+        {
+          "text": "“Do you miss it?”",
+          "ok": true,
+          "pos": 15146
+        },
+        {
+          "text": "“Yes.”",
+          "ok": true,
+          "pos": 10655
+        },
+        {
+          "text": "“You’re not going to tell me I should try again?”",
+          "ok": true,
+          "pos": 15189
+        },
+        {
+          "text": "“No.”",
+          "ok": true,
+          "pos": 11066
+        },
+        {
+          "text": "His expression was almost amused. “Because you’re a grown woman and Blueberry’s your horse.”",
+          "ok": true,
+          "pos": 15245
+        },
+        {
+          "text": "I closed my eyes. “Yes.” When I opened them, he was still there. “I think I do.”",
+          "ok": true,
+          "pos": 15660
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Okay.”",
+          "ok": true,
+          "pos": 6178
+        },
+        {
+          "text": "Fear moved immediately through me. “That’s all you’re saying?”",
+          "ok": true,
+          "pos": 15743
+        },
+        {
+          "text": "“I have plenty. But none of them matter unless you want them.”",
+          "ok": true,
+          "pos": 15871
+        },
+        {
+          "text": "“What if I get up there and freak out?”",
+          "ok": true,
+          "pos": 15955
+        },
+        {
+          "text": "“Then you get down.”",
+          "ok": true,
+          "pos": 15993
+        },
+        {
+          "text": "“What if I can?”",
+          "ok": true,
+          "pos": 16049
+        },
+        {
+          "text": "Beau smiled. “Guess we’ll find out.”",
+          "ok": true,
+          "pos": 16064
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He carried the mounting block into the arena because I asked him to. He checked the saddle because I asked him to. He he",
+          "ok": true,
+          "pos": 16203
+        },
+        {
+          "text": "By the time I stood beside her, my hands were trembling badly enough that I struggled with the reins",
+          "ok": true,
+          "pos": 16367
+        },
+        {
+          "text": "“No!” The word came out too fast. I swung down almost immediately. My boots hit the dirt awkwardly and I stumbled",
+          "ok": true,
+          "pos": 17533
+        },
+        {
+          "text": "My breathing was ragged as my tears blurred the arena. “I can’t.” Beau said nothing. His silence made me angrier. “I fuc",
+          "ok": true,
+          "pos": 17725
+        }
+      ],
+      "words": 99
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I believe you.”",
+          "ok": true,
+          "pos": 18306
+        },
+        {
+          "text": "Blueberry nudged my shoulder and Beau smiled faintly",
+          "ok": true,
+          "pos": 18321
+        },
+        {
+          "text": "For the first time, getting back on wasn’t something I needed to do to prove I hadn’t lost",
+          "ok": true,
+          "pos": 18462
+        },
+        {
+          "text": "It was simply something I wanted",
+          "ok": true,
+          "pos": 18552
+        },
+        {
+          "text": "“Wait.”",
+          "ok": true,
+          "pos": 18586
+        },
+        {
+          "text": "“Let me try again.” I stood with Blueberry until my breathing slowed. Then I moved the mounting block back into position",
+          "ok": true,
+          "pos": 18631
+        },
+        {
+          "text": "“You ready?”",
+          "ok": true,
+          "pos": 9878
+        },
+        {
+          "text": "“No.”",
+          "ok": true,
+          "pos": 11066
+        },
+        {
+          "text": "His mouth twitched. “Good answer.”",
+          "ok": true,
+          "pos": 18766
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "This time, when I mounted, I didn’t ask myself whether I looked like the girl in the photograph",
+          "ok": true,
+          "pos": 18828
+        },
+        {
+          "text": "Blueberry breathed beneath me",
+          "ok": true,
+          "pos": 19036
+        },
+        {
+          "text": "We made it halfway across the arena before I asked Blueberry to stop",
+          "ok": true,
+          "pos": 19336
+        },
+        {
+          "text": "I sat there beneath the fading October light with tears drying on my cheeks and both hands trembling against the reins",
+          "ok": true,
+          "pos": 19406
+        },
+        {
+          "text": "I hadn’t ridden. Not really. Not the way I once understood the word",
+          "ok": true,
+          "pos": 19526
+        },
+        {
+          "text": "Five years ago, I would’ve considered that nothing. Tonight, it felt enormous",
+          "ok": true,
+          "pos": 19671
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I dismounted carefully. When both feet were secure, I rested my forehead against Blueberry’s neck. She stood patiently w",
+          "ok": true,
+          "pos": 19831
+        },
+        {
+          "text": "Blueberry turned her head and nudged my shoulder. I laughed through the tears and wrapped my arms around her neck",
+          "ok": true,
+          "pos": 19964
+        },
+        {
+          "text": "“I missed you, too.”",
+          "ok": true,
+          "pos": 20079
+        },
+        {
+          "text": "He hadn’t put me on the horse",
+          "ok": true,
+          "pos": 20130
+        },
+        {
+          "text": "He hadn’t convinced me to stay there",
+          "ok": true,
+          "pos": 20160
+        },
+        {
+          "text": "He hadn’t fixed anything",
+          "ok": true,
+          "pos": 20197
+        },
+        {
+          "text": "He had simply been there while I chose to try",
+          "ok": true,
+          "pos": 20222
+        }
+      ],
+      "words": 79
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "28. Chapter 27",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 71,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3586,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句11",
+        "kw": "didn’t ask myself whether I looked like the girl",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

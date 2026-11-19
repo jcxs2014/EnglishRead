@@ -1,0 +1,679 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch11 video archaeology and the time capsule.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch11_chapter_10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I pictured land. A house farther outside town. A workshop big enough that I could disappear into it for hours. A barn an",
+          "ok": true,
+          "pos": 3433
+        },
+        {
+          "text": "Nothing extravagant. Just mine",
+          "ok": true,
+          "pos": 3975
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Carson had looked like she wanted to crawl out of her own skin when Rosie wrote MARIGOLD? on the whiteboard",
+          "ok": true,
+          "pos": 4611
+        },
+        {
+          "text": "The way she braced herself whenever somebody offered help",
+          "ok": true,
+          "pos": 4870
+        },
+        {
+          "text": "The way she looked at the ranch when I’d driven her home, as if every broken fence post was somehow a personal failure",
+          "ok": true,
+          "pos": 4988
+        },
+        {
+          "text": "There had been love there. And guilt. A hell of a lot of guilt",
+          "ok": true,
+          "pos": 5194
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "You came home from that hospital different",
+          "ok": true,
+          "pos": 5551
+        },
+        {
+          "text": "You lost something before him that I never knew how to help you grieve",
+          "ok": true,
+          "pos": 5595
+        },
+        {
+          "text": "James wasn’t the only thing Carson lost five years ago. I already knew that much, and Dad said there had been an acciden",
+          "ok": true,
+          "pos": 5667
+        },
+        {
+          "text": "Instead, I opened Google",
+          "ok": true,
+          "pos": 6346
+        },
+        {
+          "text": "I typed: Carson Rome barrel racing",
+          "ok": true,
+          "pos": 6486
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "YOUTH BARREL FINALS — CARSON ROME & BLUEBERRY — WILLOW CREEK, GA",
+          "ok": true,
+          "pos": 7006
+        },
+        {
+          "text": "Carson didn’t. That was the first thing I noticed. She was completely still, focused on the task at hand",
+          "ok": true,
+          "pos": 7647
+        },
+        {
+          "text": "Blueberry dropped into the turn. Carson moved with her like they weren’t two separate entities, but rather one unit",
+          "ok": true,
+          "pos": 8251
+        },
+        {
+          "text": "For a second, they looked less like a rider and horse and more like one damn animal",
+          "ok": true,
+          "pos": 8367
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He had been younger too. Less gray in his hair. Broader through the shoulders. A cigar pinched between two fingers even ",
+          "ok": true,
+          "pos": 9179
+        },
+        {
+          "text": "“That’s my Sunshine!”",
+          "ok": true,
+          "pos": 9572
+        },
+        {
+          "text": "But the way James said Sunshine wasn’t some random nickname. There was pride in it. The kind a man couldn’t fake if he t",
+          "ok": true,
+          "pos": 9697
+        },
+        {
+          "text": "Dad had undersold her. The whole town had",
+          "ok": true,
+          "pos": 10557
+        },
+        {
+          "text": "She was fucking phenomenal",
+          "ok": true,
+          "pos": 10621
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Well, my Meme’s gonna yell at me.”",
+          "ok": true,
+          "pos": 11556
+        },
+        {
+          "text": "“I want to go pro.”",
+          "ok": true,
+          "pos": 11804
+        },
+        {
+          "text": "She said it without hesitation. No embarrassment. No pretending she didn’t want something badly enough to be hurt if it ",
+          "ok": true,
+          "pos": 11822
+        },
+        {
+          "text": "“That’s always been the goal. Pops says I’m getting ahead of myself, but he also tells everyone I’m gonna be famous, so ",
+          "ok": true,
+          "pos": 11957
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Her eyes brightened. “Oh definitely. Pops needs a truck.”",
+          "ok": true,
+          "pos": 12750
+        },
+        {
+          "text": "“He’ll tell you no.”",
+          "ok": true,
+          "pos": 12834
+        },
+        {
+          "text": "“His truck is older than me. I’m serious. It makes this horrible sound every time he starts it, but he keeps saying it’s",
+          "ok": true,
+          "pos": 12943
+        },
+        {
+          "text": "“When I make enough, I’m buying him a new truck.” Carson looked directly into the camera. “He can complain all he wants.",
+          "ok": true,
+          "pos": 13141
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The next video was dated five years ago. I almost didn’t click it. Carson was twenty. Maybe twenty-one. The arena was la",
+          "ok": true,
+          "pos": 13879
+        },
+        {
+          "text": "Carson looked directly toward the camera. “Try keeping me away.”",
+          "ok": true,
+          "pos": 14837
+        },
+        {
+          "text": "The video ended. There wasn’t another race after it. I scrolled hoping to see more, but there was nothing. That had been",
+          "ok": true,
+          "pos": 14900
+        },
+        {
+          "text": "Exactly when the accident happened",
+          "ok": true,
+          "pos": 15034
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "That was exactly why I didn’t. I cleared the search. Whatever happened belonged to Carson. If she wanted me to know, she",
+          "ok": true,
+          "pos": 15928
+        },
+        {
+          "text": "Maybe help felt too close to admitting she couldn’t keep everything James left behind exactly the way he’d given it to h",
+          "ok": true,
+          "pos": 16660
+        },
+        {
+          "text": "Carson had been doing the second one for five years",
+          "ok": true,
+          "pos": 16972
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "James walked over, wrapped one hand around the post, and shook it. It moved and he made me redo the entire thing. I’d be",
+          "ok": true,
+          "pos": 17480
+        },
+        {
+          "text": "That had been James Rome. The type of man who built things expecting them to outlive him",
+          "ok": true,
+          "pos": 18139
+        },
+        {
+          "text": "The only person who seemed to believe every failing board and overdue bill was proof she’d disappointed him was Carson h",
+          "ok": true,
+          "pos": 18372
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“She said she doesn’t need Carson to agree for us to determine whether two hay wagons are safe.”",
+          "ok": true,
+          "pos": 20003
+        },
+        {
+          "text": "“James taught you enough.”",
+          "ok": true,
+          "pos": 20448
+        },
+        {
+          "text": "Dad walked toward the bays. I looked at the parts sheet again. Going to Marigold Ranch shouldn’t have interested me. And",
+          "ok": true,
+          "pos": 20961
+        },
+        {
+          "text": "It did. All because I was eager to see one person",
+          "ok": true,
+          "pos": 21086
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Then I heard Carson. “No, Earl, we aren’t moving her.”",
+          "ok": true,
+          "pos": 22498
+        },
+        {
+          "text": "“Don’t do that.” There was no anger in her voice. That somehow made it firmer. “If something changes with one of the cal",
+          "ok": true,
+          "pos": 23559
+        },
+        {
+          "text": "Something passed over her face. Utter exhaustion. She rubbed both hands against her jeans. “One thing at a time.”",
+          "ok": true,
+          "pos": 24113
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Slowly, she turned her head toward me. “How do you know that?”",
+          "ok": true,
+          "pos": 26708
+        },
+        {
+          "text": "I probably could’ve lied. Dad could’ve told me. Half the town probably knew. Instead, I shoved my hands into my pockets ",
+          "ok": true,
+          "pos": 26769
+        },
+        {
+          "text": "I rested my forearms against the fence. “My dad undersold you.” She glanced at me. “James undersold you.”",
+          "ok": true,
+          "pos": 27277
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“I thought I had time.”",
+          "ok": true,
+          "pos": 29574
+        },
+        {
+          "text": "Four words. They landed harder than everything I’d watched the night before. I thought about my spare bedroom. The boxes",
+          "ok": true,
+          "pos": 29596
+        },
+        {
+          "text": "“Yeah,” I said quietly. “I think everybody does.”",
+          "ok": true,
+          "pos": 29852
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "The door groaned open. She didn’t look at me. I didn’t offer to help with the other one. Not because she couldn’t use it",
+          "ok": true,
+          "pos": 30786
+        },
+        {
+          "text": "They weren’t just asking Carson to host a festival. They were asking her to open a door she’d kept shut for five years",
+          "ok": true,
+          "pos": 32354
+        },
+        {
+          "text": "They remembered what Marigold Ranch had been. A place that made magic feel real",
+          "ok": true,
+          "pos": 32587
+        }
+      ],
+      "words": 86
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 122,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 54,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5744,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

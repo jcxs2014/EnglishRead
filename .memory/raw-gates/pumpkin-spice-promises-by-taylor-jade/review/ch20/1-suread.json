@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch20",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch20_chapter_19.txt",
+  "facts": [
+    {
+      "fact": "Carson 在医院醒来：头旁有慢而稳的哔声，眼皮像被粘住、嘴干到舌头粘住上颚、胸口有重物压着；他一时不知自己身在何处。",
+      "anchor": "I woke up because something beeped near my head.",
+      "start": 37,
+      "end": 85
+    },
+    {
+      "fact": "Meme 守在床边轻声呼唤 Carson，白发凌乱、双眼通红、一点妆也没化——Carson 说从未见过 Meme 不化妆，这比机器更让他害怕。",
+      "anchor": "White hair in disarray, eyes red",
+      "start": 788,
+      "end": 820
+    },
+    {
+      "fact": "Carson 问起 Blueberry，Meme 捏住他的手说她还活着，并说在宠物医院（Vet hospital），他们觉得她会没事。",
+      "anchor": "Meme squeezed my hand",
+      "start": 1359,
+      "end": 1380
+    },
+    {
+      "fact": "Carson 想动左脚脚趾却什么也没发生，意识到左脚本该在的位置已经空了；他反复尝试，疼痛穿过一条像在又不在的腿。",
+      "anchor": "My brain knew where my left foot should have been",
+      "start": 1950,
+      "end": 1999
+    },
+    {
+      "fact": "Carson 扯开毯子查看：右腿还在、青紫擦伤，左腿却不在了；绷带裹着残余部分，他的脑子拒绝理解，还以为毯子底下藏着什么。",
+      "anchor": "My right leg was there, bruised and scraped, but there",
+      "start": 2841,
+      "end": 2895
+    },
+    {
+      "fact": "Carson 哭着对 Meme 说自己没有两条腿就不能比赛（race），还有期末考试（finals），本该去田纳西（Tennessee）；Meme 哭得更厉害。",
+      "anchor": "race without both legs",
+      "start": 4031,
+      "end": 4053
+    },
+    {
+      "fact": "Pops 推开病房门进来，手里端着两杯咖啡（two coffees），看起来比两天前（two days before）老了；咖啡从手中滑落，一杯摔在地上，棕色液体在白瓷砖上漫开。",
+      "anchor": "Pops stepped inside carrying two coffees",
+      "start": 4939,
+      "end": 4979
+    },
+    {
+      "fact": "Carson 哭求 Pops 修好（Fix it），Pops 抱住他、把脸埋进他头发；生平第一次，Pops 没有说他会把一切修好。",
+      "anchor": "For the first time in my life",
+      "start": 5588,
+      "end": 5617
+    }
+  ]
+}

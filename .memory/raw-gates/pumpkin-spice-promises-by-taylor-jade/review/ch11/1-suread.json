@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch11",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch11_chapter_10.txt",
+  "facts": [
+    {
+      "fact": "Beau said he had lived in his house for almost four years, yet two cardboard boxes still sat in the spare bedroom.",
+      "anchor": "I had lived in my house for almost four years, and there were still two cardboard boxes",
+      "start": 23,
+      "end": 110
+    },
+    {
+      "fact": "Beau noted Rosie would keep the tavern kitchen open twenty minutes late if his dad walked in hungry.",
+      "anchor": "Rosie would keep the tavern kitchen open twenty minutes late if Dad walked in hungry",
+      "start": 2459,
+      "end": 2543
+    },
+    {
+      "fact": "Beau found that one of the first videos of Carson had been uploaded almost eight years ago.",
+      "anchor": "One of the first videos had been uploaded almost eight years ago",
+      "start": 7095,
+      "end": 7159
+    },
+    {
+      "fact": "Beau observed that in the video young Carson looked seventeen, maybe eighteen.",
+      "anchor": "She looked younger. Seventeen, maybe eighteen.",
+      "start": 7530,
+      "end": 7576
+    },
+    {
+      "fact": "Beau watched a Tennessee video in which Carson was nineteen per the description.",
+      "anchor": "She was nineteen, according to the description.",
+      "start": 10490,
+      "end": 10537
+    },
+    {
+      "fact": "Dad told Beau the Rome parts should be here by nine.",
+      "anchor": "Rome parts should be here by nine.",
+      "start": 20224,
+      "end": 20258
+    },
+    {
+      "fact": "Carson instructed Earl to mix electrolytes into the next feeding, a small amount first.",
+      "anchor": "Mix electrolytes into the next feeding. Small amount first.",
+      "start": 24765,
+      "end": 24824
+    },
+    {
+      "fact": "Beau told Dad that Dad had beaten him to the shop three days that week.",
+      "anchor": "You beat me here three days this week.",
+      "start": 19954,
+      "end": 19992
+    }
+  ]
+}

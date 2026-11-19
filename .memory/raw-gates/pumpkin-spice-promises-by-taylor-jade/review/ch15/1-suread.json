@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch15",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch15_chapter_14.txt",
+  "facts": [
+    {
+      "fact": "Carson noted sixteen pumpkins lined the barn though only eight were approved, and Clover would not reveal where the other eight came from.",
+      "anchor": "Sixteen pumpkins lined the barn even though I had only approved eight.",
+      "start": 150,
+      "end": 220
+    },
+    {
+      "fact": "Carson saw the first hay wagon sit outside the equipment barn for the first time in five years, Walter had made a repair list, and Jax complained about every item.",
+      "anchor": "The first hay wagon sat completely outside the equipment barn for the first time in five years, and Walter had already created a repair list.",
+      "start": 366,
+      "end": 507
+    },
+    {
+      "fact": "Rosie marked rough vendor rows with small orange flags across the field.",
+      "anchor": "Rosie had marked rough vendor rows with small orange flags across the field.",
+      "start": 581,
+      "end": 657
+    },
+    {
+      "fact": "Darlene created a handwritten sign reading MARIGOLD IS BACK, and Carson made her remove it.",
+      "anchor": "Darlene had created a handwritten sign reading: MARIGOLD IS BACK",
+      "start": 800,
+      "end": 864
+    },
+    {
+      "fact": "Hunter helped Clover move hay bales even though she insisted she did not need him, silently taking the heavier end.",
+      "anchor": "Hunter helped Clover move hay bales",
+      "start": 1284,
+      "end": 1319
+    },
+    {
+      "fact": "Beau stood on a ladder near the side of the barn checking an exterior fixture.",
+      "anchor": "He stood on a ladder near the side of the barn checking an exterior fixture.",
+      "start": 1984,
+      "end": 2060
+    },
+    {
+      "fact": "Rosie handed Carson a page titled MARIGOLD RANCH HARVEST FESTIVAL PRELIMINARY PLAN, and Carson said announcing it tomorrow would be okay.",
+      "anchor": "She handed me a page. At the top, it read: MARIGOLD RANCH HARVEST FESTIVAL",
+      "start": 6121,
+      "end": 6195
+    },
+    {
+      "fact": "Carson joked that Walter would charge 1987 prices again, recalling the invoice for Pops truck.",
+      "anchor": "1987 prices again",
+      "start": 8804,
+      "end": 8821
+    }
+  ]
+}

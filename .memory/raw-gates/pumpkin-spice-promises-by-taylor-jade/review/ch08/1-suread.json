@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch08",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch08_chapter_7.txt",
+  "facts": [
+    {
+      "fact": "Walter Jones 认出 Carson，断言她是 James 的女孩（You’re James’s girl），随后自我介绍",
+      "anchor": "“You’re James’s girl.”",
+      "start": 1174,
+      "end": 1196
+    },
+    {
+      "fact": "Walter Jones 告诉 Carson，Beau 已经把她的卡车拆开，而且从他到之前就一直在修",
+      "anchor": "Beau’s got your truck torn apart. Been at it since before I got here.",
+      "start": 2018,
+      "end": 2087
+    },
+    {
+      "fact": "Clover Jones 自我介绍是 Beau 的姐妹，并说昨天给 Carson 送了牛奶、很高兴见到她",
+      "anchor": "Clover Jones. Beau’s sister. I delivered your milk yesterday and am so excited to meet you!",
+      "start": 3093,
+      "end": 3184
+    },
+    {
+      "fact": "Walter 提醒 Clover，她认识 Carson 才 thirty seconds（三十秒）",
+      "anchor": "You’ve known her for thirty seconds.",
+      "start": 3728,
+      "end": 3764
+    },
+    {
+      "fact": "Clover 告诉 Carson：September 1st 是南瓜季开始，September 2nd June 就开始用感情勒索拉人加入 Harvest Festival 委员会",
+      "anchor": "September 1st means pumpkin season. September 2nd means she starts emotionally blackmailing people into joining the Harvest Festival committee.",
+      "start": 6945,
+      "end": 7088
+    },
+    {
+      "fact": "Clover 告诉 Carson 丰收节会议七点（seven）在 town hall 开始",
+      "anchor": "I was just going to tell you the meeting starts at seven.",
+      "start": 7388,
+      "end": 7445
+    },
+    {
+      "fact": "Clover 说委员会今晚要讨论把丰收节带回 Marigold Ranch，因为公园今年因 permits 和 last season 的排水问题不达标",
+      "anchor": "They want to talk about bringing it back to Marigold Ranch.",
+      "start": 8558,
+      "end": 8617
+    },
+    {
+      "fact": "MEME 发短信告诉 Carson：Mrs. Whitaker 打电话来说今晚有 Harvest meeting，她们应该去",
+      "anchor": "Mrs. Whitaker called. Harvest meeting tonight. I think we should go.",
+      "start": 10304,
+      "end": 10372
+    }
+  ]
+}

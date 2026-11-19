@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch17",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch17_chapter_16.txt",
+  "facts": [
+    {
+      "fact": "By Friday afternoon, Beau had reread Carson’s last text enough times to qualify as embarrassing—not because it said anything interesting, but because it was exciting.",
+      "anchor": "By Friday afternoon, I had reread Carson’s last text enough times to qualify as embarrassing.",
+      "start": 27,
+      "end": 120
+    },
+    {
+      "fact": "Carson warned Beau that if he shows up before seven, Meme will invite him inside and he will never escape.",
+      "anchor": "If you show up before seven Meme will invite you inside and you will never escape.",
+      "start": 222,
+      "end": 304
+    },
+    {
+      "fact": "Jax, Beau’s older brother, asked whether Beau was taking Carson Rome to the Spicy Pumpkin Tavern for their first date.",
+      "anchor": "You’re taking Carson Rome to the Spicy Pumpkin Tavern for your first date?",
+      "start": 1726,
+      "end": 1800
+    },
+    {
+      "fact": "One part of Carson’s truck was delayed until Monday, and Carson had asked Beau about it exactly twice while acting as if she wasn’t disappointed.",
+      "anchor": "One part had been delayed until Monday, which I hated more than Carson did because she had asked me about it exactly twice",
+      "start": 3861,
+      "end": 3983
+    },
+    {
+      "fact": "Meme had told Beau two days ago to stop calling her Mrs. Rome or Evelyn because Meme was now acceptable.",
+      "anchor": "She’d told me two days ago to stop calling her Mrs. Rome or Evelyn.",
+      "start": 4430,
+      "end": 4497
+    },
+    {
+      "fact": "Meme told Beau to take Carson before she changed her mind, noting that Carson had already been ready for twenty minutes.",
+      "anchor": "She’s been ready for twenty minutes.",
+      "start": 5760,
+      "end": 5796
+    },
+    {
+      "fact": "Rosie told Beau that Jax, his older brother, had already been sitting at the tavern for forty minutes.",
+      "anchor": "He’s been here forty minutes already.",
+      "start": 10664,
+      "end": 10701
+    },
+    {
+      "fact": "Beau and Carson left the tavern nearly two hours after arriving.",
+      "anchor": "We left the tavern nearly two hours after arriving.",
+      "start": 13551,
+      "end": 13602
+    }
+  ]
+}

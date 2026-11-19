@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch14",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch14_chapter_13.txt",
+  "facts": [
+    {
+      "fact": "Carson 在周一早上 seven forty-three 说 yes，答应重新举办丰收节。",
+      "anchor": "I said yes at seven forty-three on Monday morning.",
+      "start": 30,
+      "end": 80
+    },
+    {
+      "fact": "Carson 发出短信后，对方的回复在 twelve seconds later 就到了（Rosie 秒回）。",
+      "anchor": "The response came twelve seconds later.",
+      "start": 2324,
+      "end": 2363
+    },
+    {
+      "fact": "Rosie 通知 Carson 十点（at 10）在她家开会。",
+      "anchor": "Meeting at your place at 10.",
+      "start": 2459,
+      "end": 2487
+    },
+    {
+      "fact": "到 nine thirty，谷仓前出现一张 Carson 自己没摆的折叠桌（镇上人提前布置）。",
+      "anchor": "By nine thirty, a folding table had appeared in front of the barn that I had not put there.",
+      "start": 2815,
+      "end": 2906
+    },
+    {
+      "fact": "九点四十五（nine forty-five），June Whitaker 带着两个面包盒（two bakery boxes）和剪贴板到场。",
+      "anchor": "At nine forty-five, June Whitaker arrived carrying two bakery boxes, a clipboard, and enough determination to frighten any reasonable person.",
+      "start": 2909,
+      "end": 3050
+    },
+    {
+      "fact": "九点五十二（nine fifty-two），Clover 开车赶到，后备箱装满南瓜。",
+      "anchor": "At nine fifty-two, Clover pulled in behind her with the trunk of her car filled with pumpkins.",
+      "start": 3053,
+      "end": 3147
+    },
+    {
+      "fact": "Rosie 十点整（exactly ten）挟着三块海报板（three poster boards）到场。",
+      "anchor": "Rosie arrived at exactly ten with three poster boards tucked beneath one arm.",
+      "start": 4420,
+      "end": 4497
+    },
+    {
+      "fact": "到十点十五（ten fifteen），二十三（twenty-three）人站在 Marigold Ranch 前，Carson 数了两遍确认。",
+      "anchor": "By ten fifteen, twenty-three people stood in front of Marigold Ranch.",
+      "start": 4967,
+      "end": 5036
+    }
+  ]
+}

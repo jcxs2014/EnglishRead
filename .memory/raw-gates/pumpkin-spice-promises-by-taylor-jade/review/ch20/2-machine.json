@@ -1,0 +1,474 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch20 past the morning everything split.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch20_chapter_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I woke up because something beeped near my head. It was a slow, steady, annoying beep that didn’t stop",
+          "ok": true,
+          "pos": 29
+        },
+        {
+          "text": "For several seconds, I didn’t know where I was. Then pain consumed my every thought. Not just one place, but everywhere.",
+          "ok": true,
+          "pos": 297
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I forced my eyes open and her face appeared through a haze. White hair in disarray, eyes red, and not a scrap of makeup ",
+          "ok": true,
+          "pos": 702
+        },
+        {
+          "text": "“Meme?” My voice sounded wrong. Small and broken",
+          "ok": true,
+          "pos": 900
+        },
+        {
+          "text": "“What happened?”",
+          "ok": true,
+          "pos": 1117
+        },
+        {
+          "text": "Nobody answered quickly enough. My heart started racing, I remembered the crash, the truck that hit me, and then it was ",
+          "ok": true,
+          "pos": 1132
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Is Blueberry",
+          "ok": true,
+          "pos": 1263
+        },
+        {
+          "text": "” I couldn’t finish the sentence. Meme squeezed my hand. “She’s alive.”",
+          "ok": true,
+          "pos": 1278
+        },
+        {
+          "text": "“Vet hospital.”",
+          "ok": true,
+          "pos": 1394
+        },
+        {
+          "text": "“They think so.”",
+          "ok": true,
+          "pos": 1433
+        },
+        {
+          "text": "Think",
+          "ok": true,
+          "pos": 1438
+        },
+        {
+          "text": "I closed my eyes as pieces came back from that night. Rain. Headlights. Blueberry screaming. The world turning sideways",
+          "ok": true,
+          "pos": 1455
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Getting coffee.” Meme’s mouth trembled. “He hasn’t left the hospital except to check on Blueberry.”",
+          "ok": true,
+          "pos": 1623
+        },
+        {
+          "text": "That sounded like Pops. I tried moving again. This time something felt wrong. Not pain, but an absence I couldn’t unders",
+          "ok": true,
+          "pos": 1718
+        },
+        {
+          "text": "My brain knew where my left foot should have been. I tried flexing my toes. Nothing happened. I tried again. Pain shot t",
+          "ok": true,
+          "pos": 1843
+        },
+        {
+          "text": "and somehow wasn’t",
+          "ok": true,
+          "pos": 2010
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "My stomach turned. “What happened?” I whispered, afraid to hear the truth I already knew. Meme started crying. I knew th",
+          "ok": true,
+          "pos": 2195
+        },
+        {
+          "text": "“Where’s my leg?”",
+          "ok": true,
+          "pos": 2379
+        },
+        {
+          "text": "Nobody answered. I grabbed the blanket and Meme caught my wrist. “No.”",
+          "ok": true,
+          "pos": 2444
+        },
+        {
+          "text": "“Let go of me!” I ripped the blanket back and the room threatened to cave around me as I looked at my legs, or what was ",
+          "ok": true,
+          "pos": 2543
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Bandaging wrapped around what remained. My mind refused to understand it. It kept searching for the rest. Like maybe som",
+          "ok": true,
+          "pos": 2746
+        },
+        {
+          "text": "“No this isn’t real, I’m dreaming.” My heart monitor started screaming. The nurse said something about breathing. I coul",
+          "ok": true,
+          "pos": 3030
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“No, no, no.” I touched the bandages and instantly regretted it as a searing pain erupted. “I can feel my foot, but it’s",
+          "ok": true,
+          "pos": 3231
+        },
+        {
+          "text": "The nurse spoke softly. “Phantom sensation can⁠—”",
+          "ok": true,
+          "pos": 3377
+        },
+        {
+          "text": "“No, you don’t. My foot hurts, but there is no foot!” I started crying. Not graceful tears. Not quiet tears. Noises brok",
+          "ok": true,
+          "pos": 3455
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I can’t race without both legs.”",
+          "ok": true,
+          "pos": 3796
+        },
+        {
+          "text": "“I have finals.” She cried harder",
+          "ok": true,
+          "pos": 3872
+        },
+        {
+          "text": "“I’m supposed to go to Tennessee.”",
+          "ok": true,
+          "pos": 3905
+        },
+        {
+          "text": "“He’ll know how to fix it.” The second the words left my mouth, something in Meme’s face collapsed. I didn’t understand ",
+          "ok": true,
+          "pos": 4101
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The truck wouldn’t start? Pops. Blueberry had a bad day? Pops. Fence broke? Pops. Mother didn’t show up? Pops sat beside",
+          "ok": true,
+          "pos": 4254
+        },
+        {
+          "text": "something. He would fix it",
+          "ok": true,
+          "pos": 4567
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He looked at me. Then at the blanket pulled away from my body. The coffees slipped from his hands. One hit the floor and",
+          "ok": true,
+          "pos": 4775
+        },
+        {
+          "text": "“Oh, Sunshine.”",
+          "ok": true,
+          "pos": 5009
+        },
+        {
+          "text": "“Fix it.” I asked, but his arms only tightened around me. “Please.” He buried his face against my hair. “Fix it, Pops pl",
+          "ok": true,
+          "pos": 5124
+        },
+        {
+          "text": "For the first time in my life, he didn’t tell me he would",
+          "ok": true,
+          "pos": 5255
+        }
+      ],
+      "words": 86
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 35,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 957,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

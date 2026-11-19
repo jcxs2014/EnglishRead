@@ -1,0 +1,724 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch10 folder numbers and meme tears.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch10_chapter_9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I had survived physical therapy, phantom pain, funerals, overdue mortgage notices, and a dairy cow kicking a gate clean ",
+          "ok": true,
+          "pos": 168
+        },
+        {
+          "text": "But Willow Creek had a way of making a person feel seen even when they desperately wanted to disappear",
+          "ok": true,
+          "pos": 443
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I put on makeup for this.”",
+          "ok": true,
+          "pos": 2395
+        },
+        {
+          "text": "“That’s your argument?”",
+          "ok": true,
+          "pos": 2438
+        },
+        {
+          "text": "“Yes.”",
+          "ok": true,
+          "pos": 2459
+        },
+        {
+          "text": "“Not very strong. You put makeup on every day.”",
+          "ok": true,
+          "pos": 2464
+        },
+        {
+          "text": "“Don’t question me, young lady.” Her hand slipped through my arm as we climbed the town hall steps. The contact was ligh",
+          "ok": true,
+          "pos": 2510
+        },
+        {
+          "text": "For five years, I had assumed I was protecting her by keeping us out of town traditions that reminded us of Pops",
+          "ok": true,
+          "pos": 2754
+        },
+        {
+          "text": "Maybe I had been protecting myself",
+          "ok": true,
+          "pos": 2868
+        },
+        {
+          "text": "Maybe she had been waiting for me",
+          "ok": true,
+          "pos": 2904
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Oh, Evelyn,” she whispered. Meme held onto her longer than I expected. When they finally separated, Margaret said, “I s",
+          "ok": true,
+          "pos": 5207
+        },
+        {
+          "text": "“We both should’ve called.”",
+          "ok": true,
+          "pos": 5345
+        },
+        {
+          "text": "Grief made people promise to stay close. Life made them forget",
+          "ok": true,
+          "pos": 5433
+        },
+        {
+          "text": "“Evie.”",
+          "ok": true,
+          "pos": 5735
+        },
+        {
+          "text": "Meme’s mouth trembled. “Walt.” Her broken voice was somehow worse than his",
+          "ok": true,
+          "pos": 5741
+        },
+        {
+          "text": "Walter released her. “I missed you too.”",
+          "ok": true,
+          "pos": 6034
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Emotional support.”",
+          "ok": true,
+          "pos": 6294
+        },
+        {
+          "text": "I turned the soft bread over to read the label. Pumpkin. “I didn’t ask for emotional support.” Though, it was a welcome ",
+          "ok": true,
+          "pos": 6313
+        },
+        {
+          "text": "Hunter leaned slightly toward me. “It’s easier to accept it.”",
+          "ok": true,
+          "pos": 6554
+        },
+        {
+          "text": "I understood immediately why Clover had been the person to reach Hunter when the rest of Willow Creek apparently hadn’t ",
+          "ok": true,
+          "pos": 6863
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "This was what I had forgotten. Not the pumpkins. Not the lights. The people. Willow Creek never did anything simply. A f",
+          "ok": true,
+          "pos": 8087
+        },
+        {
+          "text": "Pops would have loved this. He would have arrived late. Meme would have complained. He would have sat beside Walter and ",
+          "ok": true,
+          "pos": 8558
+        },
+        {
+          "text": "The empty space beside Walter suddenly looked too large",
+          "ok": true,
+          "pos": 8810
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "By the time it reached me, I already hated it. The amount of money this would generate for the ranch would be life chang",
+          "ok": true,
+          "pos": 11396
+        },
+        {
+          "text": "My eyes slowed. I read the total at the bottom twice. “That isn’t realistic.”",
+          "ok": true,
+          "pos": 11852
+        },
+        {
+          "text": "“For our town festival.”",
+          "ok": true,
+          "pos": 11967
+        },
+        {
+          "text": "June folded her hands on the table. “Attendance has nearly doubled since the last time Marigold hosted.”",
+          "ok": true,
+          "pos": 11990
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“We get visitors from Atlanta, Chattanooga, Birmingham,” Rosie continued. “People drive in for weekends now. The tavern ",
+          "ok": true,
+          "pos": 12179
+        },
+        {
+          "text": "“Last year I shipped two hundred pumpkin bread boxes.”",
+          "ok": true,
+          "pos": 12447
+        },
+        {
+          "text": "Rosie pointed toward the folder. “If Marigold Ranch hosted the main festival events, you’d keep a big portion of the pie",
+          "ok": true,
+          "pos": 12500
+        },
+        {
+          "text": "“Thirty-six confirmed.”",
+          "ok": true,
+          "pos": 13122
+        },
+        {
+          "text": "“Forty-two if we accept the waitlist.”",
+          "ok": true,
+          "pos": 13176
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "June leaned forward. “We can also help with startup costs.”",
+          "ok": true,
+          "pos": 15245
+        },
+        {
+          "text": "“Carson, this town wants to help, we know you’ve been doing your best to run that ranch just how James did. And the year",
+          "ok": true,
+          "pos": 15326
+        },
+        {
+          "text": "The room went quiet. I was speechless. What did I say to that",
+          "ok": true,
+          "pos": 15574
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You miss it.”",
+          "ok": true,
+          "pos": 16722
+        },
+        {
+          "text": "She didn’t pretend not to understand. “Yes.”",
+          "ok": true,
+          "pos": 16735
+        },
+        {
+          "text": "Her thumb moved slowly over my knuckles. “Because you couldn’t.”",
+          "ok": true,
+          "pos": 16800
+        },
+        {
+          "text": "“Come back.”",
+          "ok": true,
+          "pos": 16878
+        },
+        {
+          "text": "“Because I know you.” Her voice remained gentle. “I lost James. You lost James too, but you lost something before him th",
+          "ok": true,
+          "pos": 16955
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“You came home from that hospital different,” she said quietly. “Not bad. Not less. Just hurt in places nobody could see",
+          "ok": true,
+          "pos": 17193
+        },
+        {
+          "text": "“We don’t have to say yes.” Meme squeezed my hand. The relief came too quickly. Then she added, “But maybe we don’t have",
+          "ok": true,
+          "pos": 17693
+        },
+        {
+          "text": "“How will we get it ready in four weeks?”",
+          "ok": true,
+          "pos": 17993
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“The fencing needs work,” he continued. “The wagons probably need rebuilding. Electrical would need inspection. Parking ",
+          "ok": true,
+          "pos": 20156
+        },
+        {
+          "text": "“How much Willow Creek decides this matters.”",
+          "ok": true,
+          "pos": 20547
+        },
+        {
+          "text": "“That sounds suspiciously sentimental.”",
+          "ok": true,
+          "pos": 20602
+        },
+        {
+          "text": "“It is.”",
+          "ok": true,
+          "pos": 20640
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Because if they showed up, I would owe them. Because if they cared, I might care. Because if Marigold Ranch became full ",
+          "ok": true,
+          "pos": 20845
+        },
+        {
+          "text": "Instead, I said, “People make things complicated.”",
+          "ok": true,
+          "pos": 21080
+        },
+        {
+          "text": "Beau considered that as his brows furrowed and he crossed his arms over his chest. “Sometimes, but other times they make",
+          "ok": true,
+          "pos": 21129
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“I forgot how pretty it gets.”",
+          "ok": true,
+          "pos": 22608
+        },
+        {
+          "text": "I looked at Willow Creek through her eyes. Not mine. Not as the place that kept celebrating after Pops died. Not as the ",
+          "ok": true,
+          "pos": 22657
+        },
+        {
+          "text": "Maybe that was what scared me most. Somewhere along the last five years, I had convinced myself I didn’t need any of it",
+          "ok": true,
+          "pos": 22971
+        },
+        {
+          "text": "Tonight was the first time I wondered if that had ever been true",
+          "ok": true,
+          "pos": 23091
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "They looked exactly like what they were",
+          "ok": true,
+          "pos": 23399
+        },
+        {
+          "text": "Family",
+          "ok": true,
+          "pos": 3999
+        },
+        {
+          "text": "Loud",
+          "ok": true,
+          "pos": 16243
+        },
+        {
+          "text": "Complicated",
+          "ok": true,
+          "pos": 21116
+        },
+        {
+          "text": "Present",
+          "ok": true,
+          "pos": 23467
+        },
+        {
+          "text": "“I’ve known Rosie since she was born. Maybe she sounds like me.”",
+          "ok": true,
+          "pos": 23702
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Rosie: I emailed you the detailed revenue numbers. No pressure",
+          "ok": true,
+          "pos": 23958
+        },
+        {
+          "text": "“Okay, some pressure. But tasteful pressure.”",
+          "ok": true,
+          "pos": 24056
+        },
+        {
+          "text": "But by the time we reached the county road, I had already started wondering how many cars the north pasture could hold",
+          "ok": true,
+          "pos": 24393
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 63,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4191,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

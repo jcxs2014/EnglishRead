@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch22",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch22_chapter_21.txt",
+  "facts": [
+    {
+      "fact": "Carson 观察到距离节日开始还有「two weeks」（两周），Marigold Ranch 换掉了南牧场最歪的栅栏柱、修好了腐烂的干草车板，开始像他长大的那个牧场。",
+      "anchor": "It was two weeks until the festival started.",
+      "start": 32,
+      "end": 76
+    },
+    {
+      "fact": "Beau 给 Carson 发短信「Tell your cow I expect an apology.」，并附一张照片：Carson 的一头牛把鼻子伸过栅栏、嘴里叼着 Beau 的工作手套。",
+      "anchor": "One of our cows stood behind the fence with her nose pushed through the boards.",
+      "start": 1840,
+      "end": 1919
+    },
+    {
+      "fact": "Clover 三天前（three days ago）邀请 Carson 去她家吃晚饭，不是 Jones 家族聚餐也不是节日会议，Carson 差点拒绝但最终答应了。",
+      "anchor": "Clover had invited me to her house for dinner three days ago.",
+      "start": 3276,
+      "end": 3337
+    },
+    {
+      "fact": "Carson 登门时 Clover 端出三杯酒（three glasses），Hunter 做了烤鸡配土豆和蔬菜，Clover 贡献了从 Sugar and Pine 拿回加热的面包。",
+      "anchor": "Clover appeared carrying three glasses before he could say anything.",
+      "start": 6149,
+      "end": 6217
+    },
+    {
+      "fact": "晚饭后 Hunter 调整右膝处的假肢接受腔，Clover 问要不要另一个衬垫并起身去卧室拿，Hunter 摸她手腕说自己来（I’ve got it），Clover 没有追问也没有担心。",
+      "anchor": "Then he reached down and adjusted something near his right knee.",
+      "start": 7868,
+      "end": 7932
+    },
+    {
+      "fact": "Carson 向 Clover 坦白自己失去了左腿（I lost my left leg），时间是五年前（Five years），Clover 的视线落到她的牛仔裤和靴子上，说完全不知道。",
+      "anchor": "I lost my left leg.",
+      "start": 10932,
+      "end": 10951
+    },
+    {
+      "fact": "Hunter 告诉 Carson，Beau 曾开车三小时（three hours），只因他们旅行时 Hunter 的一个假肢部件坏了、需要搭车，并非 Hunter 自己解决不了。",
+      "anchor": "Hunter told me Beau had driven three hours once",
+      "start": 15830,
+      "end": 15877
+    },
+    {
+      "fact": "睡前 Beau 连发短信问 Carson 是否上床，Carson 回 Just got in，Beau 说 Good，Carson 道 Goodnight Beau，Beau 回「Night sweetheart, see you tomorrow.」",
+      "anchor": "Night sweetheart, see you tomorrow.",
+      "start": 17353,
+      "end": 17388
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch02",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch02_chapter_1.txt",
+  "facts": [
+    {
+      "fact": "September 1st（Present Day），Carson 把最后一箱牛奶装上 Pops 的卡车并砰地关上尾门，准备送奶。",
+      "anchor": "I loaded the last crate of milk into Pops’s truck and slammed the tailgate shut.",
+      "start": 55,
+      "end": 135
+    },
+    {
+      "fact": "出发前，Carson 在马厩陪 Blueberry 待了 nearly an hour，照例坐在她的隔栏角落里向她抱怨。",
+      "anchor": "Before leaving, I spent nearly an hour in the barn with Blueberry.",
+      "start": 1093,
+      "end": 1159
+    },
+    {
+      "fact": "five years ago 的那场事故后 Carson 在医院和理疗中待了数月，Pops 则在 Georgia 找来最好的马医之一并竭尽全力救活了 Blueberry。",
+      "anchor": "Pops had tracked down one of the best equine vets in Georgia and done everything possible to save her.",
+      "start": 1783,
+      "end": 1885
+    },
+    {
+      "fact": "Carson 花了 months 才让 Blueberry 允许她上鞍而不再恐惧地压低耳朵，两者都带着伤、需要重建信任。",
+      "anchor": "It took months before she let me climb into the saddle without pinning her ears back in fear.",
+      "start": 1967,
+      "end": 2060
+    },
+    {
+      "fact": "Meme 与 Pops 相伴 more than forty years，而 Carson 只有 measly twenty-five；Meme 守寡时 Carson 学着维持 Marigold Ranch。",
+      "anchor": "Forty years was a lifetime compared to my measly twenty-five.",
+      "start": 5972,
+      "end": 6033
+    },
+    {
+      "fact": "镇上 at least three different people 会问 Meme 和 Carson 今年是否把 Harvest Festival 带回 Marigold Ranch，而答案已是 the last five years 的不。",
+      "anchor": "at least three different people would ask if Meme and I planned on bringing the Harvest Festival back to Marigold Ranch this year.",
+      "start": 2638,
+      "end": 2768
+    },
+    {
+      "fact": "Walter Jones 是 Pops 最好的朋友，其儿子们经营 Jones Automotive；修车店离 Carson 约 two miles。",
+      "anchor": "Two miles. Jones Automotive was roughly two miles away.",
+      "start": 11068,
+      "end": 11123
+    },
+    {
+      "fact": "Carson 尝试 A third time 启动 Pops 的卡车仍毫无反应，引擎彻底沉默，她不得不重新想办法。",
+      "anchor": "A third time, just to be sure I wasn’t giving up prematurely. And nothing. Absolutely nothing.",
+      "start": 9777,
+      "end": 9871
+    }
+  ]
+}

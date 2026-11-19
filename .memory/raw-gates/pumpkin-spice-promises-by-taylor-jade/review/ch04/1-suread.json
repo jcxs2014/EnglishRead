@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch04",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch04_chapter_3.txt",
+  "facts": [
+    {
+      "fact": "卡森（Carson）冒雷暴步行两英里（two miles）前往 Jones Automotive，事后称这是个糟糕的主意。",
+      "anchor": "Walking two miles through a thunderstorm had been a terrible idea.",
+      "start": 310,
+      "end": 376
+    },
+    {
+      "fact": "卡森告诉祖母 Meme 她人在 Jones Automotive，Jax 已经去拖那辆抛锚的卡车。",
+      "anchor": "Jones Automotive. Jax went to tow the truck.",
+      "start": 5048,
+      "end": 5092
+    },
+    {
+      "fact": "卡森的手机开机后显示 Meme 打来八通（eight）未接来电、June 打来两通（Two）。",
+      "anchor": "Eight from Meme.",
+      "start": 3495,
+      "end": 3511
+    },
+    {
+      "fact": "Pops 听从 Walter 的建议，雇用 Beau 在 Marigold Ranch 修围栏、清理马厩，好让他和 Jax 少惹麻烦。",
+      "anchor": "Walter thought hard work might keep him and Jax out of trouble, so Pops hired Beau to help repair fencing and clean the stalls.",
+      "start": 7319,
+      "end": 7446
+    },
+    {
+      "fact": "Beau 告诉卡森卡车水泵坏了，正确的水泵要到周四（Thursday）、最迟周五（Friday）才能送到。",
+      "anchor": "I can get one delivered by Thursday, Friday at the latest.",
+      "start": 13254,
+      "end": 13312
+    },
+    {
+      "fact": "Jax 揭弟弟 Beau 在十九岁（nineteen）时吃过一张超速罚单。",
+      "anchor": "He got a speeding ticket when he was nineteen.",
+      "start": 20172,
+      "end": 20218
+    },
+    {
+      "fact": "卡森说待运的牛奶有十二箱（twelve crates），Jax 说零件室有工业冰箱可以存放。",
+      "anchor": "There are twelve crates.",
+      "start": 16945,
+      "end": 16969
+    },
+    {
+      "fact": "Beau 给妹妹 Clover 打电话，让她下班后接走 June 面包店的订奶以及送往面包店的货。",
+      "anchor": "I called Clover. She’ll take June’s order and whatever is going to the bakery.",
+      "start": 18424,
+      "end": 18502
+    }
+  ]
+}

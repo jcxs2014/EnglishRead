@@ -1,0 +1,55 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch06",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch06_chapter_5.txt",
+  "facts": [
+    {
+      "fact": "Clover（Beau 的妹妹）把车半个停在草地上；Dad 每个星期二都抱怨她毁了他的草坪。",
+      "anchor": "despite Dad complaining every Tuesday that she was destroying his lawn",
+      "start": 321,
+      "end": 391
+    },
+    {
+      "fact": "Mom 指责 Dad 吃了三个她原本守着的面包卷。",
+      "anchor": "You ate three.",
+      "start": 881,
+      "end": 895
+    },
+    {
+      "fact": "Jax 不得不听 Mrs. Baker 讲她狗的消化问题讲了十五分钟。",
+      "anchor": "I had to listen to Mrs. Baker explain her dog’s digestive issues for fifteen minutes",
+      "start": 1839,
+      "end": 1923
+    },
+    {
+      "fact": "Clover 二十五岁，是几个孩子里最小的；她端着一篮玉米面包，用肩膀撞了 Beau 一下。",
+      "anchor": "At twenty-five, she was the youngest of us",
+      "start": 2170,
+      "end": 2212
+    },
+    {
+      "fact": "Hunter（Clover 的丈夫）走路时把义肢手臂自然地搭在 Clover 腰间，义肢腿让他的步态略微不稳。",
+      "anchor": "resting his prosthetic arm naturally at Clover’s waist",
+      "start": 3160,
+      "end": 3214
+    },
+    {
+      "fact": "Dad 告诉 Beau 那辆黑色方体皮卡是 James 的——James 在 Carson 出生前买下它，并说要留给「那孩子」（Carson）。",
+      "anchor": "He bought it before Carson was born.",
+      "start": 8468,
+      "end": 8504
+    },
+    {
+      "fact": "Clover 说 Beau 已经提到 Carson 的名字七次。",
+      "anchor": "you’ve mentioned her name seven times",
+      "start": 11548,
+      "end": 11585
+    },
+    {
+      "fact": "Dad 说 James 帮他造了第一辆拖车，为了完工连续熬了两个晚上，一分钱都没收。",
+      "anchor": "Stayed up two nights straight because I couldn’t afford to close the shop long enough to finish it myself",
+      "start": 14896,
+      "end": 15001
+    }
+  ]
+}

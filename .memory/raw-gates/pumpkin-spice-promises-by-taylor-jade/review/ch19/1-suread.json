@@ -1,0 +1,43 @@
+{
+  "book": "pumpkin-spice-promises-by-taylor-jade",
+  "chapter": "ch19",
+  "text": "notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch19_chapter_18.txt",
+  "facts": [
+    {
+      "fact": "卡森坐在软垫检查台上，牛仔裤折放一旁，盯着靠在对面椅子上的假肢；未戴上时它像一件与自己分离的物件。",
+      "anchor": "I sat on the edge of a padded table with my jeans folded beside me and stared at my prosthetic leg resting upright against the chair across from me.",
+      "start": 311,
+      "end": 459
+    },
+    {
+      "fact": "物理治疗师 Hannah 把凳子挪近，检查卡森残肢上受刺激的皮肤，卡森则假装看对面墙上的解剖海报。",
+      "anchor": "My physical therapist, Hannah, rolled her stool closer and examined the irritated skin along my residual limb",
+      "start": 823,
+      "end": 932
+    },
+    {
+      "fact": "卡森向 Hannah 承认，两周前（two weeks ago）曾冒雨步行了几英里（a couple miles）。",
+      "anchor": "I walked a couple miles in the rain two weeks ago.",
+      "start": 1831,
+      "end": 1881
+    },
+    {
+      "fact": "卡森解释步行原因：卡车抛锚（truck broke down），车里放着牛奶且没有手机服务，于是走路。",
+      "anchor": "My truck broke down.",
+      "start": 2004,
+      "end": 2024
+    },
+    {
+      "fact": "Hannah 表示可调整假肢适配，并要求卡森几天内（a few days）减轻负荷、别太逞强。",
+      "anchor": "take it easier for a few days",
+      "start": 4068,
+      "end": 4097
+    },
+    {
+      "fact": "卡森说丰收节（Harvest Festival）不到一个月就到了，二十多人（Twenty-something people）已把他的农场当成社区项目。",
+      "anchor": "Twenty-something people have apparently decided my property is their personal community project.",
+      "start": 4238,
+      "end": 4334
+    }
+  ]
+}

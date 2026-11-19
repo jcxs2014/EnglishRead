@@ -1,0 +1,732 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/ch30 pumpkin roll and i love you.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pumpkin-spice-promises-by-taylor-jade/text/ch30_chapter_29.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Darlene Pike couldn’t be trusted with a walkie-talkie",
+          "ok": true,
+          "pos": 106
+        },
+        {
+          "text": "Rosie Malone considered a schedule a legally binding document until she personally decided to change it",
+          "ok": true,
+          "pos": 160
+        },
+        {
+          "text": "And somewhere between opening weekend and this one, half of Georgia had apparently discovered Marigold Ranch",
+          "ok": true,
+          "pos": 265
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I knew she liked exactly one kind of coffee creamer, and had mocked me for buying it until she’d used nearly half the bo",
+          "ok": true,
+          "pos": 2363
+        },
+        {
+          "text": "I knew she’d left a hair tie on my bathroom counter three days ago",
+          "ok": true,
+          "pos": 2488
+        },
+        {
+          "text": "It was the ordinary stuff",
+          "ok": true,
+          "pos": 3617
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Then why did you buy the good creamer?”",
+          "ok": true,
+          "pos": 3320
+        },
+        {
+          "text": "“For you.”",
+          "ok": true,
+          "pos": 3359
+        },
+        {
+          "text": "The words came out without thought. Carson’s eyes met mine over the rim of the coffee she was still drinking, despite it",
+          "ok": true,
+          "pos": 3368
+        },
+        {
+          "text": "I was beginning to understand that the things Carson found hardest to trust weren’t the big promises",
+          "ok": true,
+          "pos": 3516
+        },
+        {
+          "text": "It was the ordinary stuff",
+          "ok": true,
+          "pos": 3617
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Rosie stood at the top of the slope behind the west pasture with a megaphone. “THIS IS NOT A RACE!” she screamed",
+          "ok": true,
+          "pos": 3911
+        },
+        {
+          "text": "Rosie lowered the megaphone. “It’s absolutely a race,” she told me",
+          "ok": true,
+          "pos": 4105
+        },
+        {
+          "text": "“You know annual implies you’re doing this again.”",
+          "ok": true,
+          "pos": 4307
+        },
+        {
+          "text": "“Don’t remind me.”",
+          "ok": true,
+          "pos": 4355
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Carson folded against me laughing. Her forehead pressed against my chest, shoulders shaking while Darlene yelled somethi",
+          "ok": true,
+          "pos": 6167
+        },
+        {
+          "text": "I kissed the top of her head. I had known I loved her since opening weekend. Somehow, knowing hadn’t made it easier to k",
+          "ok": true,
+          "pos": 6464
+        },
+        {
+          "text": "Carson had spent years protecting herself from needing anyone. I wasn’t going to turn my feelings into another thing she",
+          "ok": true,
+          "pos": 6701
+        },
+        {
+          "text": "So, I simply held her while she laughed",
+          "ok": true,
+          "pos": 6857
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Well, there’s your girlfriend. I’ll let you go.”",
+          "ok": true,
+          "pos": 7847
+        },
+        {
+          "text": "“Your girlfriend?”",
+          "ok": true,
+          "pos": 8023
+        },
+        {
+          "text": "I looked toward the parking lot. Then back at her. “I thought it was pretty obvious.”",
+          "ok": true,
+          "pos": 8040
+        },
+        {
+          "text": "“You’ve never asked me",
+          "ok": true,
+          "pos": 8238
+        },
+        {
+          "text": "”",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Carson Rome.”",
+          "ok": true,
+          "pos": 8517
+        },
+        {
+          "text": "“Oh God.”",
+          "ok": true,
+          "pos": 8530
+        },
+        {
+          "text": "“Would you like to be my girlfriend?”",
+          "ok": true,
+          "pos": 8538
+        },
+        {
+          "text": "She laughed",
+          "ok": true,
+          "pos": 6885
+        },
+        {
+          "text": "“You waited until after sleeping with me to ask.”",
+          "ok": true,
+          "pos": 8779
+        },
+        {
+          "text": "Her smile finally broke free. “Yes.”",
+          "ok": true,
+          "pos": 8855
+        },
+        {
+          "text": "“I’ll be your girlfriend.” She kissed me",
+          "ok": true,
+          "pos": 8900
+        },
+        {
+          "text": "From the other bay, Jax started clapping, and I flipped him off without breaking the kiss",
+          "ok": true,
+          "pos": 8939
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "By the third weekend, Marigold had stopped looking like a ranch hosting a festival and started looking as though the fes",
+          "ok": true,
+          "pos": 9030
+        },
+        {
+          "text": "Iris had moved an entire cart of fall romances from the bookstore and set it beneath one of the oaks with a handwritten ",
+          "ok": true,
+          "pos": 9455
+        },
+        {
+          "text": "Yet the evenings had changed most",
+          "ok": true,
+          "pos": 9816
+        },
+        {
+          "text": "This year, I noticed each shade",
+          "ok": true,
+          "pos": 10181
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The first time I saw her riding without me, I nearly drove into a fence",
+          "ok": true,
+          "pos": 10214
+        },
+        {
+          "text": "Carson sat on Blueberry’s back with no audience, no one to hold her reins, no one there to catch her if she fell",
+          "ok": true,
+          "pos": 10316
+        },
+        {
+          "text": "Just Carson and Blueberry, moving at an easy walk beneath trees dropping yellow leaves across the pasture",
+          "ok": true,
+          "pos": 10429
+        },
+        {
+          "text": "I stopped the truck before she saw me and enjoyed the moment because I knew just how much it meant to her to ride Bluebe",
+          "ok": true,
+          "pos": 10536
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Carson started keeping clothes at my house without acknowledging that she was doing it",
+          "ok": true,
+          "pos": 11513
+        },
+        {
+          "text": "A sweater appeared over the back of my desk chair. Then jeans in the dresser. Then shampoo in the shower",
+          "ok": true,
+          "pos": 11601
+        },
+        {
+          "text": "I didn’t mention any of it, I just bought another pack of hangers so she would have space to bring whatever she wanted",
+          "ok": true,
+          "pos": 11707
+        },
+        {
+          "text": "Nobody announced that Carson belonged in our family, they just started behaving as if she did",
+          "ok": true,
+          "pos": 12320
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Then I saw her now",
+          "ok": true,
+          "pos": 14664
+        },
+        {
+          "text": "She was riding her horse through her ranch and letting everyone see. She lifted one hand and waved at a group of kids",
+          "ok": true,
+          "pos": 14684
+        },
+        {
+          "text": "A little girl near the fence screamed, “I knew she was the fast horse!”",
+          "ok": true,
+          "pos": 14803
+        },
+        {
+          "text": "“James should see this,” Meme whispered",
+          "ok": true,
+          "pos": 15062
+        },
+        {
+          "text": "Dad stared at Carson. “He does",
+          "ok": true,
+          "pos": 15101
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I looked back toward the path. Carson rode beneath the orange lights while leaves drifted around Blueberry’s legs",
+          "ok": true,
+          "pos": 15154
+        },
+        {
+          "text": "I wondered what he’d think if he could see it now. His wife on the porch. His granddaughter on Blueberry. Hundreds of pe",
+          "ok": true,
+          "pos": 15553
+        },
+        {
+          "text": "I had a feeling he’d be insufferable",
+          "ok": true,
+          "pos": 15709
+        },
+        {
+          "text": "I loved her",
+          "ok": true,
+          "pos": 6506
+        },
+        {
+          "text": "God, I loved her",
+          "ok": true,
+          "pos": 15922
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I love you.”",
+          "ok": true,
+          "pos": 16407
+        },
+        {
+          "text": "I kept going before fear could turn the words into something heavier than I meant them to be",
+          "ok": true,
+          "pos": 16419
+        },
+        {
+          "text": "“I’ve loved you for weeks. I didn’t tell you because I didn’t want you thinking you had to say it back. You don’t.”",
+          "ok": true,
+          "pos": 16513
+        },
+        {
+          "text": "She stared at me. Then she laughed softly. “You really don’t know when to shut up.”",
+          "ok": true,
+          "pos": 16733
+        },
+        {
+          "text": "“I love you, too.”",
+          "ok": true,
+          "pos": 16936
+        },
+        {
+          "text": "For all the weeks I’d spent imagining what hearing it might feel like, it felt like something finally settling into plac",
+          "ok": true,
+          "pos": 16953
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Tomorrow we’ll have cleanup. Monday I’d go back to the shop. Carson would have payroll and milk deliveries and a ranch t",
+          "ok": true,
+          "pos": 17728
+        },
+        {
+          "text": "There would be bills",
+          "ok": true,
+          "pos": 17908
+        },
+        {
+          "text": "Broken fences",
+          "ok": true,
+          "pos": 17930
+        },
+        {
+          "text": "Bad days",
+          "ok": true,
+          "pos": 17945
+        },
+        {
+          "text": "Arguments",
+          "ok": true,
+          "pos": 17955
+        },
+        {
+          "text": "There would probably be another festival next year because Rosie had already threatened us with a Christmas market",
+          "ok": true,
+          "pos": 17966
+        },
+        {
+          "text": "Nothing had magically become easy",
+          "ok": true,
+          "pos": 18082
+        },
+        {
+          "text": "It had simply become ours to figure out",
+          "ok": true,
+          "pos": 18117
+        },
+        {
+          "text": "Together",
+          "ok": true,
+          "pos": 18158
+        }
+      ],
+      "words": 81
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 15
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Chapter 29",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 13,
+    "block_range": [
+      6,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 69,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3179,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 30 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
