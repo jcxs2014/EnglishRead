@@ -72,6 +72,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - ch28 致谢页不写精读（用户拍板），text/ 留存。commit ~40 个，未 push（等指令）。
 - 明细见日志 `.memory/daily/2026-11-19.md`；T1 三件套在 `.memory/raw-gates/paradise-by-claudia-gabel/review/`。
 
+**T3 全量深审结论（2026-11-19，异会话）：27/27 章逐章 R1→R4，一章不省，阻断 0。**
+
+- 机器层：gate EXIT=0 · verify_quotes --full 309/309 · overview quotes 40/40 + full 59命中/0拼接/0查无 · fragments 322 MISS 0 · corruption 0。
+- 人判覆盖：27/27 章逐章点名（ch01 至 ch27 全覆盖，未审章 0）；R1 素读 27/27 命中（9 批子代理盲读，R2 后主会话全判）；四件套 27×4=108 件齐。
+- 分档：阻断 0 · 提示 8（措辞/跨章指认精度级）· 假红 0 · 跳过 0；本轮 0 条修复，台账一行（档位 深、审查方 异会话）。
+- 明细：`.memory/raw-gates/paradise-by-claudia-gabel/2026-11-19-复核与修复指令.md`；护栏登记在各章 4-verdict.md「已核实为正确」节。
+
 ### [2026-11-18 18:41 UTC] [ZCode-Mac] → All
 
 **《Odette Rising》Julieanne Edwards（odette-rising-by-julianne-edwards）完工＋T3 全量深审结论**
