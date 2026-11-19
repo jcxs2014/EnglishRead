@@ -46,7 +46,7 @@ modified: "2026-11-19"
 
 > **原句 6:** "“Are you sure it should be me that does this?” Kyle asked his uncle. The boy sounded sleepy. Probably stoned. “It seems sloppy, doesn’t it? I removed myself from the playing field a week ago when we agreed the most effective narrative was me as the latest victim to disappear.”"
 **中文理解**：「确定该我来干吗？」Kyle 问他的叔叔。男孩听起来昏昏欲睡，大概是嗑了。「这不显得很潦草吗？一周前我才按我们商量好的剧本退场——扮成最新一个失踪的受害者。」
-**关键词**：my uncle / latest victim
+**关键词**：uncle / latest victim
 **为什么这样写**：本季最大反转一句完成：化粪池哲学家=老板侄子=嵌入卧底——他的一切「幸存者絮叨」都是剧本台词。sloppy 的职业批评出自刽子手之口：这个家族对「叙事完整性」的要求高于对杀人的迟疑。latest victim 的自指把本书的失踪案底细全部改写：受害者是岗位描述。
 **读者视角提示**：回读 ch11 的化粪池独白与 ch16 的「You're fired」——每一幕都是 Kyle 在演 Bethany。他的眼泪与累都是演技，唯一的真话可能是「我想拍电影」。
 
