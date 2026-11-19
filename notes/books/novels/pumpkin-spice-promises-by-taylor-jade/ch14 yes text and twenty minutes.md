@@ -90,7 +90,7 @@ modified: "2026-11-19"
 **为什么这样写**：经典「接住」桥段被改装成惊悚——她逃的正是「被看穿」，而接住恰恰制造了更多被看穿；「慢半拍」是义肢在狼狈时刻的实话实说，与她的否认管理对撞；一句话内完成恐惧与心动的合流。
 **读者视角提示**：记住「逃→接住」——她想躲开的和他递来的，是同一只手。
 
-> **原句 12:** "Every thought evaporated from my mind as my heart stilled at his palm settling on my side like it belonged there, and my body reacted before my brain had a chance to remember all the reasons it shouldn’t. Heat moved beneath my skin. A breath caught somewhere behind my ribs. For half a second, neither of us moved. Everything around us stilled, like even though the ranch was filled with townspeople, it was just the two of us in it." inches above the place where my jeans concealed the top of my prosthetic socket. … Too close to my truth."
+> **原句 12:** "Every thought evaporated from my mind as my heart stilled at his palm settling on my side like it belonged there, and my body reacted before my brain had a chance to remember all the reasons it shouldn’t. Heat moved beneath my skin. A breath caught somewhere behind my ribs. For half a second, neither of us moved. Everything around us stilled, like even though the ranch was filled with townspeople, it was just the two of us in it."
 
 **中文理解**：所有思绪蒸发——他的手掌落在我腰侧，像本就该在那里；身体先于大脑想起「不该」的所有理由就做出了反应：热意窜过皮肤，一口气卡在肋后；半秒钟里谁都没动，周围的一切静止下来——仿佛牧场挤满了全镇人，里面却只有他们两个；他的拇指停在牛仔裤遮住的义肢窝顶端上方几寸——离我的真相太近。
 **关键词**：like it belonged there / my body reacted / For half a second, neither of us moved / just the two of us in it
