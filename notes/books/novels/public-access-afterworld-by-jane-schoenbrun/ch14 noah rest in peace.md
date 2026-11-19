@@ -19,7 +19,7 @@ modified: "2026-11-19"
 **为什么这样写**：把「追剧」拆成机械原理图：永动机不产出内容，只产出时间——被消耗的时间即被消耗的人生。string you along 的双关（吊胃口/拖着走）让娱乐与驯养共用动词。脚部按摩被写进机械链条的末端零件：亲密劳动也是这台机器的耗材。这是本书对「沉迷」最工程学的一次解剖。
 **读者视角提示**：注意Bethany 不怪剧、怪结构——和 David 怪电视、Jim 怪频道同款修辞：机器没有恶意，只有设计。这套语法后面还会用来解释更大的机器。
 
-> **原句 2:** "That even though the two of them still lived together, still slept in the same bed and called each other boyfriend and girlfriend, in her mind, at least, her almost decade-long relationship was already over."
+> **原句 2:** "That even though the two of them still lived together, still slept in the same bed and called each other boyfriend and girlfriend, in her mind, at least, their almost decade-long relationship was already over."
 **中文理解**：尽管两人还住在一起、还睡同一张床、还互称男女朋友——至少在她心里，这段将近十年的关系已经结束了。
 **关键词**：already over / in her mind
 **为什么这样写**：关系的死亡时间由单方面宣布：in her mind, at least 的限定让「结束」先发生在心理层——身体与称呼还在走完流程。三个 still 的排比堆出僵尸关系的呼吸机：还住、还睡、还叫——全是仪式不是关系。decade-long 的时间量词让分手有了沉没成本的重量。
