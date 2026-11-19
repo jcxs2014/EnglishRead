@@ -137,4 +137,4 @@ modified: "2026-11-19"
 | jaw | 下巴，下颌 | Her lips moved against mine, and I let my thumb slide along her jaw while her hand tightened against my chest. |
 
 ## 一句话总结
-灯亮之夜，她用「Unfortunately」接住他的口误、用「我以为会更疼」接住自己的过去、用先动一寸接住初吻——却在Fear浮起时抽身；他留下、不问、只做记录：「For the record, I'd like to do that again」——而她在车门口把同样的句子还给了他；两周前还勉强撑着的牧场，今晚整个亮了。
+灯亮之夜，她用「Unfortunately」接住他的口误、用「我以为会更疼」接住自己的过去、用先动一寸接住初吻——却在Fear浮起时抽身；他留下、不问、只做记录：「For the record」——而她在车门口用同样句式还了一句；两周前还勉强撑着的牧场，今晚整个亮了。
