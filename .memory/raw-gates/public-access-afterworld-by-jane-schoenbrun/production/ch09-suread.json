@@ -1,0 +1,37 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch09",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch09_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "晨八点：静电底下传来微弱人声循环「Find the receiver. Make it real.」；David 推醒 Erin，两人屏息盯屏",
+   "anchor": "to a faint voice speaking from underneath the static",
+   "start": 69,
+   "end": 121
+  },
+  {
+   "fact": "声音在 fuzz 下略失真，但 David 一听便知——那是「全世界最让他安心的声音」：Erin 本人；Erin 一个眼神确认她也认出：她自己的声音，从 Toshiba 的另一侧讲来",
+   "anchor": "he knew whose voice it was",
+   "start": 1144,
+   "end": 1170
+  },
+  {
+   "fact": "静电重组成形：另一个 Erin 从雪花中探出脸，像被推过 pinscreen；镜像如陷 trance 反复念同一句，随后广播退潮归静（her image gradually receded back into static）",
+   "anchor": "her face now poking through the static",
+   "start": 1749,
+   "end": 1787
+  },
+  {
+   "fact": "David 等足一分钟才按停 VCR、退带、掂在手里不敢置信——第二次 PAA 广播被他录下；他宣布 It's really real、What we just saw…that was impossible；语气里有庆祝",
+   "anchor": "as if he couldn’t believe the VHS was his to hold",
+   "start": 2488,
+   "end": 2537
+  },
+  {
+   "fact": "Erin 无需确认：几周前她已知道这一切真实、且发生在她身上；她耳中残留屏幕里自己声音的回响——像从另一版本现实继承来的坏记忆",
+   "anchor": "She didn’t need such confirmation",
+   "start": 2834,
+   "end": 2867
+  }
+ ]
+}
