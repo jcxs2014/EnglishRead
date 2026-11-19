@@ -20,26 +20,28 @@ modified: "2026-11-19"
 **为什么这样写**：autism 这个词第一次被她当着 Bailey 面正常使用——术语变成赞美。她的媒人话术全是「先讲原理再讲漂亮」，温柔得像操作手册。
 **读者视角提示**：记住「特殊兴趣」这句科普——它同时解释了她自己为什么被 Max 接住。
 
-> **原句 2:** "Bailey looks at me under his dark lashes and smirks. “I call him Max because it winds him up. I like getting a reaction out of him. Does that make me a dick?” … I laugh. “Nah, it makes you a teenager. And to be honest, your dad, of all people, would think it was funny if it wasn't about him.”"
-
-**中文理解**：他睫毛下坏笑着招供：我叫他 Max 就是为了逗他，喜欢看他的反应——这很混蛋吗？她笑答：不，这就是少年；再说你爸这种人，要不是说他自己，估计还觉得挺好玩。
-**关键词**：winds him up / getting a reaction / it makes you a teenager / if it wasn't about him
-**为什么这样写**：恶作剧动机首度解密——「Max」这声叫法不是恨，是钓鱼。她把少年的坏翻译成成长：能开玩笑的关系才有得修。
-**读者视角提示**：记住「逗他=在乎他」这条解码——Bailey 的每个反叛都值得反着读。
-
-> **原句 3:** "“Even Dad was interested in keeping him when we thought he was a stray, and he's not a cat guy.” … “Really?” … Bailey shrugs. “Yeah. But Dad wasn't brought up around animals because his mum was always working, and his dad wasn't around. The neighbour's cats would escape into our garden. He'd watch them, waiting for them to shit on the lawn, and then he'd scoop them up and take them home, all grumpy.”"
+> **原句 2:** " "“Even Dad was interested in keeping him when we thought he was a stray, and he's not a cat guy.” … “Really?” … Bailey shrugs. “Yeah. But Dad wasn't brought up around animals because his mum was always working, and his dad wasn't around. The neighbour's cats would escape into our garden. He'd watch them, waiting for them to shit on the lawn, and then he'd scoop them up and take them home, all grumpy.”""
 
 **中文理解**：连不是猫派的老爸都想留下那只猫——Bailey 顺便交出父亲童年档案：他妈总在工作、他爸压根不在；邻居家的猫逃进花园，他就盯着等猫拉屎，然后一路臭着脸抱回家。
 **关键词**：not a cat guy / his mum was always working / escape into our garden / take them home, all grumpy
 **为什么这样写**：童年考古挖出的不是苦情是反差——铁血 enforcer 的第一份温柔给了逃家猫。grumpy 是他的出厂默认：温柔必须穿着坏脾气的外衣才敢出门。
 **读者视角提示**：记住「等猫拉屎」的少年——他照顾流浪猫的方式，就是他今天照顾人的方式。
 
-> **原句 4:** "I miss those days. I don't remember them fully, but even though Mum and Dad argued and Dad was busy with hockey, we laughed a lot. Being around him more helps me remember.” Bailey's lips twist. “Dad always talked about how important it was to provide for me. Mum said it's because he grew up without much and had to fight to get somewhere."
+
+> **原句 3:** " "I miss those days. I don't remember them fully, but even though Mum and Dad argued and Dad was busy with hockey, we laughed a lot. Being around him more helps me remember.” Bailey's lips twist. “Dad always talked about how important it was to provide for me. Mum said it's because he grew up without much and had to fight to get somewhere.""
 
 **中文理解**：Bailey 的记忆修复进行中：爸妈吵架、爸爸忙训练——但我们那时候笑得很多；多待在他身边帮我记起。他顿了顿：爸爸总说挣钱养我最重要——妈妈说他从小缺钱，只能靠打拼翻身。
 **关键词**：we laughed a lot / helps me remember / provide for me / had to fight to get somewhere
 **为什么这样写**：记忆不是全景而是拼图——近距离的日常正在帮他把碎片拼回。provide 与 fight 的两个关键词，把他父亲的执念翻译成出身伤：钱是安全感，不是虚荣。
 **读者视角提示**：记住「笑得很多」这句证词——它推翻了「Hockey always comes first」的单一叙事。
+
+
+> **原句 4:** " " "Bailey looks at me under his dark lashes and smirks. “I call him Max because it winds him up. I like getting a reaction out of him. Does that make me a dick?” … I laugh. “Nah, it makes you a teenager. And to be honest, your dad, of all people, would think it was funny if it wasn't about him.”"""
+
+**中文理解**：他睫毛下坏笑着招供：我叫他 Max 就是为了逗他，喜欢看他的反应——这很混蛋吗？她笑答：不，这就是少年；再说你爸这种人，要不是说他自己，估计还觉得挺好玩。
+**关键词**：winds him up / getting a reaction / it makes you a teenager / if it wasn't about him
+**为什么这样写**：恶作剧动机首度解密——「Max」这声叫法不是恨，是钓鱼。她把少年的坏翻译成成长：能开玩笑的关系才有得修。
+**读者视角提示**：记住「逗他=在乎他」这条解码——Bailey 的每个反叛都值得反着读。
 
 > **原句 5:** "I can't believe he didn't join the fighting," Bailey says. "Grandma told me he's got a reputation in the States for being aggressive on the ice." … I look over at him, watching him watch Max. "Maybe he's not the person other people say he is.""
 

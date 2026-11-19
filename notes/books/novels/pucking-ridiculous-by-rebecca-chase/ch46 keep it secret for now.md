@@ -41,19 +41,20 @@ modified: "2026-11-19"
 **为什么这样写**：科普布道般的从容语气是她最舒适的领地——终于轮到她当专家。躲人跑步的习惯，把「孤独」重新定义为自我照顾。
 **读者视角提示**：记住「避人跑步」——它解释了 ch01 她为何总在深夜独处。
 
-> **原句 5:** "“Stop distracting me,” I growl. “In terms of our rules, how about when Bailey is around, we don't kiss or touch each other intimately, and we don't share a bed if he's here.”"
-
-**中文理解**：他低吼「别闹」，顺势立规矩：Bailey 在的时候不亲热、不同床。
-**关键词**：when Bailey is around / we don't kiss or touch each other intimately / don't share a bed
-**为什么这样写**：地下关系的操作手册由他提议——把尊重做成可执行条款。in terms of our rules 的措辞表明：规则体系已经成了他们的共同语言。
-**读者视角提示**：记住这套「Bailey 规则」——保密从此有了实施细则。
-
-> **原句 6:** "Max: You were drunk. I was helping her with her contact lens. … “But I don't wear contact lenses,” she says."
+> **原句 5:** " "Max: You were drunk. I was helping her with her contact lens. … “But I don't wear contact lenses,” she says.""
 
 **中文理解**：Rudders 追问昨夜去向，他一本正经回复：你醉了，我帮她戴隐形眼镜；她拆台：我根本不戴隐形。
 **关键词**：You were drunk / helping her with her contact lens / I don't wear contact lenses
 **为什么这样写**：谎言的漏洞明晃晃却没人戳破——共谋的荒唐正是亲密的暗号。她的一句拆台其实是调情：我们连借口都懒得圆。
 **读者视角提示**：记住「隐形眼镜」——这是他们关系里最蹩脚也最甜的谎言。
+
+
+> **原句 6:** " "“Stop distracting me,” I growl. “In terms of our rules, how about when Bailey is around, we don't kiss or touch each other intimately, and we don't share a bed if he's here.”""
+
+**中文理解**：他低吼「别闹」，顺势立规矩：Bailey 在的时候不亲热、不同床。
+**关键词**：when Bailey is around / we don't kiss or touch each other intimately / don't share a bed
+**为什么这样写**：地下关系的操作手册由他提议——把尊重做成可执行条款。in terms of our rules 的措辞表明：规则体系已经成了他们的共同语言。
+**读者视角提示**：记住这套「Bailey 规则」——保密从此有了实施细则。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
