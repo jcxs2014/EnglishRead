@@ -59,7 +59,7 @@ modified: "2026-11-19"
 > **原句 8:** "“Aww. I thought we were watching Wolves of Birmingham tonight…”"
 "“Can we reschedule? Need a night out with friends or I’m going to blow my fucking brains out.”"
 **中文理解**：「噢。我以为我们今晚要一起看《狼群伯明翰》来着……」「改期行吗？得跟朋友出去一晚，不然我要烦到自己爆头了。」
-**关键词**：reschedule / brains out
+**关键词**：Wolves of Birmingham
 **为什么这样写**：短信直引保留双向屏的语感：省略号是他，脏话是她——两种标点就是这段关系的两种神经类型。"blow my brains out" 的夸张是都市口语的修辞超载，但在本书语境里（Jules 的挑战、David 的 156 人）字面义在隔壁房间待命——本书让每个比喻都贴着它的字面邻居。谎言的技术细节在于时机：出门后才发，先斩后奏。
 **读者视角提示**：对照 Kyle 的警告（别让他们让你消失）——Bethany 正在练习消失的第一课：先从别人的日程表上消失。
 

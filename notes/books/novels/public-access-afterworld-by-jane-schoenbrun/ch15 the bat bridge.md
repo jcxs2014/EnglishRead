@@ -35,7 +35,7 @@ modified: "2026-11-19"
 > **原句 4:** "There was no mistaking it now—he was heading right towards her. Bethany’s stomach lurched with fear and tequila as the pale weatherman pushed closer."
 "“The receiver!” he shouted. “Make it real! Make it real!”"
 **中文理解**：毫无疑问——他正径直朝她走来。苍白天气预报员步步逼近，Bethany 的胃里恐惧与 tequila 一齐翻涌。「接收者！」他喊道。「让它成真！让它成真！」
-**关键词**：The receiver / Make it real
+**关键词**：no mistaking / weatherman
 **为什么这样写**：第一季的口号在第二季的酒吧完成了跨季投递：晨间静电里的低语（ch09）现在是本地的现场喊话——音量与介质都换了，内容一字未变。receiver 不带定冠词解释：喊叫不是通知而是指定——鬼魂在给人群里的某个人发门票。胃的双重翻涌（fear and tequila）把超自然惊吓与宿醉反应并列：身体分不清哪种入侵。
 **读者视角提示**：这是 Bethany 第一次听见自己的「职位名称」。她逃了——但逃跑方向（桥下）恰好是她命中注定的位置。
 
