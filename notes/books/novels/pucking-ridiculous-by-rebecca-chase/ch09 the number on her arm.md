@@ -41,7 +41,7 @@ modified: "2026-11-19"
 **为什么这样写**：写号码被拍成仪式——摘发圈（解下她的自我惩罚）、卷袖子（打开信任的皮肤）、咬笔帽（动物性的亲密）。gentle 一词双关：动作要轻，态度要定。
 **读者视角提示**：记住他摘下的那根发圈——他没说破那是自罚，只是先替她解开。
 
-> **原句 5:** "We've chatted a little more because of you. It was nice to see him smile and come out of your shell. I want to make that happen more, and with your help, I can."
+> **原句 5:** "We've chatted a little more because of you. It was nice to see him smile and come out of his shell. I want to make that happen more, and with your help, I can."
 
 **中文理解**：私人烘焙课的缘由被他摊开：因为你，我和 Bailey 多聊了一些；看到他笑、看到他愿意出壳，太好了——我想让这种事常常发生，而你帮我做得到。
 **关键词**：because of you / come out of his shell / with your help
