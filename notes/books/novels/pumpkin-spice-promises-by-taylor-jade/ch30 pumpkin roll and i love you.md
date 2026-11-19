@@ -20,7 +20,7 @@ modified: "2026-11-19"
 **为什么这样写**：三定律开场把节日 comedy 压缩成法条体——Rosie 的「法律效力」由她自己单方修法；规模感（半个州）为告白章的压力背景定调。
 **读者视角提示**：记住「半个佐治亚」——人群的规模正是他告白的赌注。
 
-> **原句 2:** "I knew she’d left a hair tie on my bathroom counter three days ago. … I knew she liked exactly one kind of coffee creamer, and had mocked me for buying it until she’d used nearly half the bottle. … I knew she’d left a hair tie on my bathroom counter three days ago. … It was the ordinary stuff."
+> **原句 2:** "I knew she liked exactly one kind of coffee creamer, and had mocked me for buying it until she’d used nearly half the bottle. … I knew she’d left a hair tie on my bathroom counter three days ago. … It was the ordinary stuff."
 
 **中文理解**：知识清单再升级：她讨厌鸡蛋、嘴上说不饿却偷吃他盘子里的食物、房间冷到常人怕失温才睡得着；只喝一种奶精——嘲笑他买直到用掉半瓶；以及三天前，她把一根发圈留在了他浴室的柜台上——她最难信的不是大承诺，正是这些平凡小事。
 **关键词**：a hair tie on my bathroom counter / mocked me for buying it / nearly half the bottle. / the ordinary stuff.
@@ -116,7 +116,7 @@ modified: "2026-11-19"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | megaphone | 扩音器 | Rosie stood at the top of the slope behind the west pasture with a megaphone. “THIS IS NOT A RACE!” she screamed. |
-| escalated? no — use impossibly | 不可能地，难以置信地 | her fingers curling into my shirt as she drew impossibly close. |
+| impossibly | 不可能地，难以置信地 | her fingers curling into my shirt as she drew impossibly close. |
 | insufferable | 令人难以容忍的，得意到欠揍的 | I had a feeling he’d be insufferable. |
 | disqualification | 取消资格 | shoulders shaking while Darlene yelled something about disqualification. |
 
