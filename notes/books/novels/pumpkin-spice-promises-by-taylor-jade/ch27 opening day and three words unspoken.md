@@ -27,7 +27,7 @@ modified: "2026-11-19"
 **为什么这样写**：秘密知情后的行为准则升级——看见不等于有权管理；「如释重负」的每次重现是他的存在被需要的计时器。
 **读者视角提示**：记住「别叫她坐」——知情者的第一美德是不动用知情。
 
-> **原句 3:** "Clover stood behind the counter wearing an tiny white ghosts while Hunter handled the register beside her. He had shown up, despite his nerves, to support his wife. … Every now and then, a stranger looked too long at his scars or prosthetic arm. … Hunter noticed, but he didn’t leave. … Clover treated him exactly like she always did, which apparently meant ordering him around with enough confidence that he had no choice but to participate. … I’d caught Carson watching them twice."
+> **原句 3:** "Clover stood behind the counter wearing an orange apron covered in tiny white ghosts while Hunter handled the register beside her. He had shown up, despite his nerves, to support his wife. … Every now and then, a stranger looked too long at his scars or prosthetic arm. … Hunter noticed, but he didn’t leave. … Clover treated him exactly like she always did, which apparently meant ordering him around with enough confidence that he had no choice but to participate. … I’d caught Carson watching them twice."
 
 **中文理解**：Hunter 带着紧张来了，为了撑他老婆；时不时有人盯着他的疤痕或义肢看得太久；Hunter 注意到了，但没走；Clover 待他完全如常——也就是自信满满地使唤他，让他别无选择只能参与；他两次撞见 Carson 在看他们。
 **关键词**：despite his nerves / tiny white ghosts / a stranger looked too long / ordering him around
@@ -69,7 +69,7 @@ modified: "2026-11-19"
 **为什么这样写**：五个 loved 覆盖她的五个时态（相遇/巅峰/哀悼/职业/创伤），第六个 loved 指向未来——爱把她的全部时间线打包接收；「最可怕」给了未知的她：爱的赌注押在成长上。
 **读者视角提示**：记住「仍在成为的她」——他的爱包含了她还没长出来的部分。
 
-> **原句 9:** "“You love her.” … “You fucking love her.” … “Say it louder.” I grabbed the extension cord beside me. “I think somebody in Alabama missed it.” … Jax’s grin disappeared. “Saved by the devil.” … “You seem to spend time with that devil.”"
+> **原句 9:** "“You love her.” … “You fucking love her.” … “Say it louder.” I grabbed the extension cord beside me. “I think somebody in Alabama missed it.” … Jax’s grin disappeared. “Saved by the devil.” … “You seem to spend a lot of time with that devil.”"
 
 **中文理解**：你爱上她了；你他妈爱上她了；说大声点——他抓起旁边的电线——Alabama 有人没听见；Rosie 喊 Jax 的名字，他笑容消失：被魔鬼救了；你跟那个魔鬼相处的时间可不少——Jax 竖中指走了。
 **关键词**：You fucking love her. / Say it louder. / Saved by the devil. / time with that devil.
@@ -83,7 +83,7 @@ modified: "2026-11-19"
 **为什么这样写**：他用量身定制的借口执行 Meme 的「offer once」——买吃的不是帮助是默认项；「她选择了坐」的括号补写把选择权还给她，他只是制造了坐下的条件；膝碰手臂的收尾是无言的谢。
 **读者视角提示**：记住「她选择了坐」——帮助的终点是她点头，不是他胜利。
 
-> **原句 11:** "As if we had summoned her, Carson appeared in the doorway. My eyes went to her face first. Then lower. Her prosthetic leaned against the kitchen cabinet beside her. She wore loose shorts now, her residual limb bare, skin still faintly red where the socket had rubbed. … Carson froze. Long enough that I knew forgotten I knew. … Today, she was standing in her kitchen without it because she was uncomfortable. … “liquor in the cider,” I said."
+> **原句 11:** "As if we had summoned her, Carson appeared in the doorway. My eyes went to her face first. Then lower. Her prosthetic leaned against the kitchen cabinet beside her. She wore loose shorts now, her residual limb bare, skin still faintly red where the socket had rubbed. … Carson froze. Long enough that I knew some part of her had forgotten I knew. … Today, she was standing in her kitchen without it because she was uncomfortable. … “liquor in the cider,” I said."
 
 **中文理解**：像被他们召唤来似的，Carson 出现在门口——他的眼睛先看她的脸，再往下：义肢斜靠在厨房橱柜边，她换了宽松短裤、残肢裸露、被接受腔磨过的皮肤还微微泛红；她僵住——僵得够久，他知道她有一部分忘了他已经知道；两夜前给我看这个用了发抖的手和眼泪；今天她站在自家厨房没有戴它，只因不舒服；他张口就是：Rosie 威胁要往苹果汁里掺酒。
 **关键词**：prosthetic leaned against the cabinet. / her residual limb bare / forgotten I knew. / liquor in the cider
@@ -97,7 +97,7 @@ modified: "2026-11-19"
 **为什么这样写**：「我们的」脱口而出=归属感的自发引用；他心里过账（把收入翻译成她念过的账单）而口中只留笑——体贴的分寸是把胜利让给主人。
 **读者视角提示**：记住「Still yours」——产权再一次被确认：他帮忙，不接管。
 
-> **原句 13:** "I laughed. Then crossed the kitchen and kissed the top of her head. Carson caught my wrist She looked up as I leaned down, and her lips met mine. … When she released me, I returned to the festival before I did something considerably less appropriate in Meme’s kitchen."
+> **原句 13:** "I laughed. Then crossed the kitchen and kissed the top of her head. Carson caught my wrist before I could move away. She looked up as I leaned down, and her lips met mine. … When she released me, I returned to the festival before I did something considerably less appropriate in Meme’s kitchen."
 
 **中文理解**：他笑着穿过厨房吻了吻她的发顶；她抓住他的手腕不许走，仰起脸——唇相遇了；她放开他之后，他赶紧回到节场——免得在 Meme 的厨房里做出「格调低得多」的事。
 **关键词**：kissed the top of her head. / caught my wrist / her lips met mine. / considerably less appropriate
@@ -111,7 +111,7 @@ modified: "2026-11-19"
 **为什么这样写**：哀悼在笑声里完成——Pops 的缺席被他的「抱怨传说」填满；「锯没开还吓哭」是祖父神话的荒诞加冕；电话里两人轮流给死者讲笑话：这便是他们学会的共悼语法。
 **读者视角提示**：记住「禁锯一年」——家庭记忆的保存格式从来都是段子。
 
-> **原句 15:** "Apparently, I’d become the kind of man who lay in bed listening to a woman sleep … I could have said it then. … Three words into the darkness while Carson slept twenty miles away. … Maybe that was exactly why I didn’t. … Carson had spent too much of her life without getting any say … When I told her I loved her, I wanted her awake. … More importantly, I wanted her to know there wasn’t a damn thing I expected her to say back."
+> **原句 15:** "Apparently, I’d become the kind of man who lay in bed listening to a woman sleep … I could have said it then. … Three words into the darkness while Carson slept twenty miles away. … Maybe that was exactly why I didn’t. … Carson had spent too much of her life having important things happen without getting any say in them. … When I told her I loved her, I wanted her awake. … More importantly, I wanted her to know there wasn’t a damn thing I expected her to say back."
 
 **中文理解**：显然他变成了那种躺在床上隔着电话听女人睡觉的男人；他本可以那时说出口——对着黑暗、对二十英里外睡着的 Carson 说那三个字；也许正因如此他没说：Carson 人生里太多大事没经她同意就发生了；他说爱她时，要她醒着、要那双绿眼睛看着他；更重要的是，要让她知道——他说完，压根不指望她回任何话。
 **关键词**：listening to a woman sleep / Three words into the darkness / without getting any say / I expected her to say back.
