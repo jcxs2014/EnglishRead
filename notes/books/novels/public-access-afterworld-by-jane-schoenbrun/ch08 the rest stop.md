@@ -6,7 +6,7 @@ modified: "2026-11-19"
 # 08. Chapter 7（Episode One: The Future of Television）
 
 ## 本章导航
-- **一句话概括**：逃离当夜，两人在休息站发生了各自人生第一次性关系——过程与事后的哭泣、指控、Chimotara……不对，是 Chimotera 幻袭（浴室崩溃）层层压来；与此同时，被锁的论坛帖被管理员 Emily 重开置顶。
+- **一句话概括**：逃离当夜，两人在休息站发生各自的第一次性关系；事后的哭泣、指控与 Chimotera 浴室幻袭层层压来，而被锁的论坛帖被管理员 Emily 重开置顶。
 - **情感弧线位置**：第一季谷底后的第一夜。身体靠近、心理离散：Erin 用身体清算 David 的「只会看」，David 第一次发现自己成为被审判方。
 - **Tropes 兑现/反转**：兑现「创伤后亲密」；反转「初夜=成长仪式」——它是二次受害；反转「网络=冷暴力场所」——管理员 Emily 的回帖第一次让网络成为救援。
 - **人物弧线**：David：从失职者到不知所措的陪伴者（想抱不敢碰）；Erin：愤怒→崩溃→「爱与性不同源」的冷静判词，创伤开始内化。
@@ -16,7 +16,7 @@ modified: "2026-11-19"
 > **原句 1:** "“I don’t know,” she said. “And I don’t care. I don’t ever want to think about it again.”"
 "Her tone made David feel a sudden twinge of guilt. There was a bitterness in Erin’s voice, as if somehow she now believed that all of this—not just the events back at Jim’s, but the signal on her television, even Public Access Afterworld itself—was all David’s fault somehow."
 **中文理解**：「我不知道，」她说，「我也不想知道。我永远不想再想这件事。」她的语气让 David 一阵愧疚：那种苦涩仿佛在说，这一切——Jim 的地下室、电视信号、连 Public Access Afterworld 本身——不知怎么全是他的错。
-**关键词**：twinge / bitterness
+**关键词**：twinge / don’t care
 **为什么这样写**：两段连拍完成「罪责转移」的瞬间：先让 Erin 关门（不想再想），再让旁白把责任地图摊开——错位从事件层升到存在层。twinge（刺痛）是生理词， guilt 在 David 身上总是即时的、物理的。all of this—…—all David's fault 的破折号结构像罪状清点：把超自然也算进人际账单，是少女式的全责归档。
 **读者视角提示**：注意「even Public Access Afterworld itself」——连谜团本身也被定罪。这为全书埋下动机反转：David 之后的所有查证，都带着赎罪的性质。
 
@@ -80,4 +80,4 @@ modified: "2026-11-19"
 | megathread | n.（论坛）巨型热帖 | By dawn, David’s previously locked post had become a megathread. |
 
 ## 一句话总结
-休息站之夜把创伤缝进身体：Erin 用童谣召回记忆、用气声清算「只会看」的 David、用一句 "Love and sex don't come from the same place" 立下自己的第一套理论——浴室里的 Chimotera 幻袭宣告怪物已能出海报伤人；而网上，Emily 的三十年前巧合论让锁死的帖子一夜变成 megathread，第一季从双人密室切换到公共频道。
+休息站之夜把创伤缝进身体：Erin 用童谣召回记忆、用气声清算「只会看」的 David、用一句判词（"Love and sex," … "don’t come from the same place."）立下自己的第一套理论——浴室里的 Chimotera 幻袭宣告怪物已能出海报伤人；而网上，Emily 的三十年前巧合论让锁死的帖子一夜变成 megathread，第一季从双人密室切换到公共频道。

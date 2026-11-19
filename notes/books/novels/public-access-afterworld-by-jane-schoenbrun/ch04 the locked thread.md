@@ -65,7 +65,7 @@ modified: "2026-11-19"
 "He felt guilty for abandoning their shared mission, and anxious for Erin’s return from Boston, the city he suspected he’d soon lose her to forever."
 "And then, just as David was ready to give up hope in Public Access Afterworld, a new lead arrived in his inbox."
 **中文理解**：Erin 出发前，David 保证她不在的每一天都盯着静电（「凡是不在 CVS 卖抗过敏药和护脚霜的清醒时刻」）。但她走后他连打开电视的力气都没有，满心愧疚——怕 Boston 从此永远把他心爱的朋友带走。就在他准备放弃之际，收件箱里来了新线索。
-**关键词**：monitor the static / a new lead
+**关键词**：monitor the static / waking moment
 **为什么这样写**：三段连拍构成小型三幕剧：承诺（豪言括号自嘲）→违约（打游戏看碟）→转机（new lead）。"the city he suspected he'd soon lose her to forever" 把 Boston 写成情敌——地理=失恋的具象。章尾钩子仿美剧「下集预告」句式，本集在最低点接进广告。
 **读者视角提示**：收件箱=第二频道的入口。带着「谁会在这个时间点给他写信」的疑问进入下一章——它决定这个夏天是喜剧还是恐怖片。
 
