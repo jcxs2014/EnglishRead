@@ -1,0 +1,322 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch21 static men.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch21_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She’d been driving from city to city for a month now, fixated on some random kid, telling herself that despite everythin",
+          "ok": true,
+          "pos": 1002
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Tonight in that motel parking lot, Bethany pictured herself as one of those quarters at the bottom of the machine. She’d",
+          "ok": true,
+          "pos": 3268
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The static flared in her brain, and now Bethany wondered if someone else somewhere had been watching her free-fall this ",
+          "ok": true,
+          "pos": 3611
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Hi, Mom. It’s Bethany. Just calling to say hi because it’s been a minute and I miss you. Love you.”",
+          "ok": true,
+          "pos": 6354
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She hung up and immediately regretted not being more truthful on the call. Why hadn’t she asked her mom for help? Ego, m",
+          "ok": true,
+          "pos": 6451
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“A filthy Homo sapiens is not worth all-out war with vampires!” the king shouted at his insolent son from atop the thron",
+          "ok": true,
+          "pos": 8030
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“It’s okay,” her mother said as the men carried her out of the house. “They just want to help you remember your name.”",
+          "ok": true,
+          "pos": 9919
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "They were shaped like men, but they weren’t men at all. They didn’t have faces or bodies or flesh. They were made of sta",
+          "ok": true,
+          "pos": 10421
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She was no longer alone in the room. One of the static men from her dream was here with her now, standing at the edge of",
+          "ok": true,
+          "pos": 10896
+        }
+      ],
+      "words": 32
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter 4（Episode Three: Pink Eye）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2010,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
