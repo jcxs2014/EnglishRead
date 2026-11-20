@@ -43,17 +43,17 @@ modified: "2026-11-19"
 **为什么这样写**：勒索的神学化：告密被重新定义为「拯救多元宇宙」——feed（喂）一词把情报工作写成饲养。smooshed（压成一坨）的幼儿动词与宇宙毁灭并置：本集的修辞学就是「大灾难说小孩话」。proper place（该在的位置）是全书最大的谎言名目——所谓 proper place 就是化粪池。
 **读者视角提示**：对照 ch45 的「sequestered 隔离墙」教义：蜡笔论是同一面墙的童书版——Fisch 给怪物讲圣经，给自己人讲 KPI。
 
-> **原句 6:** "“Perhaps this brown you speak of is the natural state of all things," you say. "If it requires intervention to stop it from occurring, perhaps it is natural.""
-**中文理解**：「也许你说的这种棕色才是万物的自然状态，」你说。「如果要阻止它发生就需要干预——那它也许才是自然的。」
-**关键词**：natural state / intervention
-**为什么这样写**：反问的哲学刺：科学家用「自然」反将军——若秩序需要人力维持，则混乱才是本体。这是全书的认识论制高点：所谓「正常世界」也是人为保养的结果。本句让 Wilhelm 成为第二位「问出真问题」的角色（第一位是 Bethany 的「静电没有手臂」）。
-**读者视角提示**：对照 ch45 Rachel 的「Everything was natural」双重用法：怪物的质疑与教义的反讽在同一个词上相遇——本书的 nature 永远有两个版本。
-
-> **原句 7:** "“I'm sorry," Fisch says. "This I can't tell you. There are some things that I'm not allowed to share, for all of our security. But please trust me. What I'm telling you is very real, and I've been shown the kind of proof with my own eyes that would make a true believer out of anyone.""
+> **原句 6:** "“I'm sorry," Fisch says. "This I can't tell you. There are some things that I'm not allowed to share, for all of our security. But please trust me. What I'm telling you is very real, and I've been shown the kind of proof with my own eyes that would make a true believer out of anyone.""
 **中文理解**：「抱歉，」Fisch 说。「这个我不能说。有些东西出于我们大家的安全我不能透露。但请相信我。我说的非常真，我被亲眼看过那种能让任何人变成真信徒的证据。」
 **关键词**：not allowed to share / true believer
 **为什么这样写**：保密的宗教腔：not allowed to share 的公司口吻与 true believer 的教词在同一句里握手——安全话语是新时代的神学。been shown（被展示过）的被动语态暴露他也是被说服的：链条上每个人都是上一环的目击者。这句让 Fisch 的形象第一次有了「上级」的影子——他也只是被喂名的线人。
 **读者视角提示**：对照 ch28 的家族层层转述（父亲→Fisch）：保密是本书权力传递的货币——每一层都说「我看过证据」。带着这句进 Ep9 的档案时间线：你会看到证据的原始出处。
+
+> **原句 7:** "“Perhaps this brown you speak of is the natural state of all things," you say. "If it requires intervention to stop it from occurring, perhaps it is natural.""
+**中文理解**：「也许你说的这种棕色才是万物的自然状态，」你说。「如果要阻止它发生就需要干预——那它也许才是自然的。」
+**关键词**：natural state / intervention
+**为什么这样写**：反问的哲学刺：科学家用「自然」反将军——若秩序需要人力维持，则混乱才是本体。这是全书的认识论制高点：所谓「正常世界」也是人为保养的结果。本句让 Wilhelm 成为第二位「问出真问题」的角色（第一位是 Bethany 的「静电没有手臂」）。
+**读者视角提示**：对照 ch45 Rachel 的「Everything was natural」双重用法：怪物的质疑与教义的反讽在同一个词上相遇——本书的 nature 永远有两个版本。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

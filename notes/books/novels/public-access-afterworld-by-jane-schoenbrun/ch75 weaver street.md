@@ -13,17 +13,17 @@ modified: "2026-11-19"
 - **叙事手法**：情景喜剧的 laugh track 做囚笼笑声；「budget」比喻做世界局限；air-raid 与洒水系统做 PAA 的免疫系统反应。
 
 ## 精读
-> **原句 1:** "It's as though life here on Weaver Street never had the budget necessary for her to venture past her house."
-**中文理解**：仿佛 Weaver Street 上的人生从来没有足够的预算让她走到自家房子以外的地方。
-**关键词**：budget / venture past her house
-**为什么这样写**：布景的财政学：情景喜剧角色的活动半径由「预算」决定——本书的「囚笼」第一次以制作成本命名。venture past her house 的字面意思在剧情里是「出不了门前一步」，在语义上是「活不出剧本」。这句回收 ch10 的「 收视率=预算=自由」公式。
-**读者视角提示**：对照 ch52 的「matchbox houses」与本章的「budget」：PAA 的房子和 Weaver Street 的房子共用同一套建筑预算——两者的居民都是永远走不出布景的演员。
-
-> **原句 2:** "“This is my home," Judith says, as if trying to convince herself it's true. "This is my house.""
+> **原句 1:** "“This is my home," Judith says, as if trying to convince herself it's true. "This is my house.""
 **中文理解**：「这是我的家，」Judith 说，仿佛在努力说服自己这是真的。「这是我的房子。」
 **关键词**：as if trying to convince herself
 **为什么这样写**：自我说服的加倍句：home 与 house 的近义重复不是修辞，是恐惧——她需要说两遍才敢相信。as if trying to convince herself 的旁白戳破表演：角色的第一本能不是攻击入侵者，而是确认自己的房产证。这句话的可怜在于：它对了一遍又一遍，但从来没有生效过。
 **读者视角提示**：对照 ch12 的「That's conjecture」（Douglas）与本章的 Judith：两代「自我说服者」的句式都是「重复到信为止」——本书的被囚者都靠复述活着。
+
+> **原句 2:** "It's as though life here on Weaver Street never had the budget necessary for her to venture past her house."
+**中文理解**：仿佛 Weaver Street 上的人生从来没有足够的预算让她走到自家房子以外的地方。
+**关键词**：budget / venture past her house
+**为什么这样写**：布景的财政学：情景喜剧角色的活动半径由「预算」决定——本书的「囚笼」第一次以制作成本命名。venture past her house 的字面意思在剧情里是「出不了门前一步」，在语义上是「活不出剧本」。这句回收 ch10 的「 收视率=预算=自由」公式。
+**读者视角提示**：对照 ch52 的「matchbox houses」与本章的「budget」：PAA 的房子和 Weaver Street 的房子共用同一套建筑预算——两者的居民都是永远走不出布景的演员。
 
 > **原句 3:** "We lost the war. Joseph is dead."
 **中文理解**：「我们输了那场战争。Joseph 死了。」
