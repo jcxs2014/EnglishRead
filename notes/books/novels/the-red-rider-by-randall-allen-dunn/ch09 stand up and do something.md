@@ -33,7 +33,7 @@ modified: "2026-11-20"
 **中文理解**：她射中他的下爪，痛得他一声哀叫，木托盘哐当落地，他瞪着她愣在原地。……Jareau！Grenault 咆哮。……名叫 Jareau 的狼嘴先着地栽倒，再没动弹——银箭一击毙命。
 **关键词**：lower paw / yelp of pain / Dead from the single silver-tipped wound
 **为什么这样写**：射爪的"技术性击倒"先于死亡呈现——她连杀敌都选了不直接毙命的角度，痛苦与震惊的过程被拉长给读者看；Grenault 连名两声的咆哮夹在中间，丧友之痛先于事实确认抵达；"snout-first" 的倒地姿态是狼形特有的死法，细节冷得像验尸报告。
-**读者视角提示**：加上 Devereaux，Grenault 的"childhood friends" 已折损大半——他的怒火从此有了私仇的燃料。
+**读者视角提示**：加上 Devereaux，Grenault 的"friends since childhood" 已折损大半——他的怒火从此有了私仇的燃料。
 
 > **原句 4:** "You're bound to hit me sooner or later, if you just keep shooting. Why not try one more? … He had been counting. He knew this would be my last bolt."
 

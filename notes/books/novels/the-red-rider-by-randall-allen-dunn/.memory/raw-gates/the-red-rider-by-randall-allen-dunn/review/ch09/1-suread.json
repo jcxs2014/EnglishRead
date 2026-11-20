@@ -1,0 +1,54 @@
+{
+  "chapter": "ch09",
+  "text_file": "text/ch09_9.txt",
+  "facts": [
+    {
+      "fact": "叙述者（Helena）刚在 Denue 夫妇家屋内被 Lycanthru 差点围住，因为 Grenault 教会了狼群不再怕她；她刚从窗户逃生捡回一命，而 Denue 一家正被响动惊醒。",
+      "quote": "The Lycanthru  had  nearly  cornered  me  inside  just  now, simply because Grenault had taught them not to fear me.",
+      "start": 116,
+      "end": 232
+    },
+    {
+      "fact": "回忆：她八岁（狼袭一年后）时，Francois 在 La Maison de Touraine 的宴会上受表彰救命之恩；他至今不知自己如何用银斧一击杀死那匹狼，但知道自己为何冲进来救她；他说英雄不是高大强壮的人，而是站起来去做该做的事——『我只不过站了起来』。",
+      "quote": "I  was  eight  years  old,  a  year  after  the  wolf attack. Francois still didn’t know how he  had  killed the  wolf  with  a  single  blow  of  his  silver  ax,  but  he knew why he had rushed in to save me.\n\n\n“A  hero  isn’t  somebody  who’s  big  and\n\n\nstrong,” he had said. “It’s just somebody who stands up to do what’s got to be done. All I did was stand up.”",
+      "start": 698,
+      "end": 1065
+    },
+    {
+      "fact": "她捣破百叶窗板把狼群注意力引到自己这边，无视 Grenault，开火击毙威胁 Madame Denue 的那匹狼；Grenault 喊出『Devereaux!』，那匹狼倒地，此时她还剩四支弩箭。",
+      "quote": "Ignoring  him,  I fired at the wolf threatening Madame Denue.\n\n\n“Devereaux!”  Grenault  shouted  as  the  wolf\n\n\nslumped to the floor.\n\n\nI had four bolts left.",
+      "start": 2092,
+      "end": 2251
+    },
+    {
+      "fact": "另一匹狼举着木托盘向她逼近，她朝它的前爪下部开火；名叫 Jareau 的狼嘴朝下倒地不动，死于单个银尖伤口。",
+      "quote": "The wolf named Jareau fell snout-first to the\n\n\nfloor and lay still. Dead from the single silver-tipped wound.",
+      "start": 2655,
+      "end": 2765
+    },
+    {
+      "fact": "Grenault 威胁 Helena 说她为自己赢得了一整夜的受苦，并说这些男人与他自幼就是朋友；此前他还对着死去的同伴低吼，说他们本该在他身旁一同统治。",
+      "quote": "“You’ve earned yourself a long night of  suffering,  Helena.  These  men  and  I—we  were friends since childhood.”",
+      "start": 3067,
+      "end": 3182
+    },
+    {
+      "fact": "Grenault 一直在数她的箭数，知道这将是她的最后一支弩箭，便出言激她再射一箭；他从壁炉架上取走一支弩箭当作『纪念品』，随后掷出椅子并消失，退下山坡进入森林。",
+      "quote": "He had been counting. He knew this would\n\n\nbe my last bolt.",
+      "start": 4044,
+      "end": 4103
+    },
+    {
+      "fact": "Madame Denue 声称 Helena 射了六或七匹狼并赶走最后一匹，Helena 沉着声音更正自己只射了三匹。",
+      "quote": "She  shot  six  or  seven  of  them  and chased off the last one.”\n\n\n“I shot three,” I said dully.",
+      "start": 5887,
+      "end": 5985
+    },
+    {
+      "fact": "结尾她清点自身处境：她十六岁、心怀恐惧，只靠威吓与那把只能连射十支弩箭的连发十字弩；她对 Grenault 找不出任何弱点，而他将兑现慢慢杀死她的承诺。",
+      "quote": "I was sixteen, I was frightened, and  I  relied  solely  upon  intimidation  and  my crossbow,  which  could  only  fire  ten  bolts  in succession.",
+      "start": 8391,
+      "end": 8539
+    }
+  ]
+}

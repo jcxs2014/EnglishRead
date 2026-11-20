@@ -1,0 +1,54 @@
+{
+  "chapter": "ch07",
+  "text_file": "text/ch07_7.txt",
+  "facts": [
+    {
+      "fact": "「我」（Helena）正午在秘密地下藏身处醒来，第一次考虑是否就此躲藏不出，随后决意要阻止 Grenault、救出 Madame Leóne。",
+      "quote": "For the first time since I started this  war,  I  considered  remaining  here  in  my  secret underground hideaway.",
+      "start": 85,
+      "end": 200
+    },
+    {
+      "fact": "「我」骑马 Crimson 进镇，远远跟随 Madame Leóne，目送她抱着一包衣服走进 Clothier de Denue——Jacque Denue 父亲开的店。",
+      "quote": "Then  she  stopped at  the Clothier  de  Denue,  the shop owned by Jacque Denue’s father, and stepped inside.",
+      "start": 1706,
+      "end": 1815
+    },
+    {
+      "fact": "「我」在店门前回忆：七岁时 Jacque Denue 把她打得半死，Papa 带她去 Monsieur Denue 店里买裙子，却被 Jacque 的父亲关门拒外；九年前被锁在门外之事至今仍令她刺痛。",
+      "quote": "When  I  was  seven  years  old,  after  Jacque\n\n\nDenue beat me half to death, Papa had taken me to Monsieur  Denue’s store  to  look  for  a  dress.  But Jacque’s  father shut  the  door  on  us",
+      "start": 1875,
+      "end": 2070
+    },
+    {
+      "fact": "店内一名男子对 Madame Leóne 说：Monsieur Denue 夫妇出门去 Verdantes 采购材料、衣服全自己做；Leóne 说再给时间还能再做约一打（another dozen or so），并为错过 Monsieur Denue 致歉。",
+      "quote": "Monsieur  Denue  is  out  at  the Verdantes,  purchasing  material.",
+      "start": 3274,
+      "end": 3341
+    },
+    {
+      "fact": "「我」认出店内那名男子是 Grenault——他比 Madame Leóne 高出两个头（two heads taller）。",
+      "quote": "I  gasped  at  the  sight  of  his  face,  two  heads\n\n\ntaller than Madame Leóne.\n\n\nIt was Grenault.",
+      "start": 3796,
+      "end": 3896
+    },
+    {
+      "fact": "Grenault 对 Helena 说他以前在煤矿干活，如今特意在布店当学徒，因为常有年轻女顾客留下地址，便于他日后月夜上门拜访。",
+      "quote": "But  I  reasoned—working  at  the  mine,  I would  only  meet  other  men.  Here  I  have  constant visits  from  beautiful  young  women,  sometimes bringing small children on the hip.",
+      "start": 7580,
+      "end": 7765
+    },
+    {
+      "fact": "Helena 威胁 Grenault：碰 Madame Leóne 就让他失去一只手；Grenault 反威胁称 Leóne 只要不知道他的私事就暂时安全，并说在她对 Gregor、Thayer、Robillet 做过那些事后，他期待与 Helena 单独见面。",
+      "quote": "After  what  you  did  to  Gregor,  Thayer,  and Robillet,  I  look  forward  to  spending  time  with  you alone.",
+      "start": 9006,
+      "end": 9120
+    },
+    {
+      "fact": "Madame Denue 收下 Leóne 的地址字条、约她明天下午来听答复；Grenault 低声说他今晚要从 Madame Denue 处拿到该地址，「我」随即决定夜里去 Denues 家守候等他。",
+      "quote": "I suppose I’ll have  to  relieve  Madame  Denue  of  that address tonight.”",
+      "start": 10366,
+      "end": 10441
+    }
+  ]
+}
