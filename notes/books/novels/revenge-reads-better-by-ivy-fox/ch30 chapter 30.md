@@ -39,7 +39,7 @@ modified: "2026-11-20"
 > "I wish I knew their whereabouts as easily as they seem to know mine."
 
 **中文理解**：Peyton 人不在 Fairhope，但不代表她没在看着——Max 知道她一个眼线就会把「Milo 在她屋顶待了一下午」汇报回去；「真希望我也像她们知道我那样，知道她们在哪」。
-**关键词**：might not be in Fairhope...isn’t watching / report back / know mine
+**关键词**：might not be in Fairhope / doesn’t mean she isn’t watching / know mine
 **为什么这样写**：监视的不对称——作者把「谁在看谁」写成权力差：Reds 对她了如指掌，她却对她们一无所知；「wish I knew」的无力感是全章保密决定的伏笔：正因被监视，她才必须藏。
 **读者视角提示**：这句「she isn't watching」是全书监视主题的延续——ch22「they know when you sleep」、ch25「Was he watching me」；记住：Peyton 的「不在场」从来不等于「没在场」。
 
