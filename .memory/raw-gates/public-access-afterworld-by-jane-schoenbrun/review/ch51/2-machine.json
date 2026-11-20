@@ -1,0 +1,322 @@
+{
+  "chapter": 51,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch51 bride of chimotera.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch51_the_bride_of_chimotera_1946.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "And yet a melancholy hangs over your rampage. Something is missing. You drink blood like an alcoholic drinks wine. You e",
+          "ok": true,
+          "pos": 1054
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She returns to you. Bless the power of science. But she is no longer Marcela, no longer the freckled innocent from your ",
+          "ok": true,
+          "pos": 1847
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "You were resurrected by a bolt of lightning through a hole in your ceiling. What are the chances of that? And another an",
+          "ok": true,
+          "pos": 3542
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It pales in size and scope to the screen waiting for you in the grand movie palace down the road, but its mobility impre",
+          "ok": true,
+          "pos": 4953
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "You love her immediately. More than you ever loved Marcela. Because Marcela was just black and white. But this girl—she ",
+          "ok": true,
+          "pos": 6407
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "You claw and growl at Erin Morrison, unable to control your passion. You worry you might kill her, and the thought steal",
+          "ok": true,
+          "pos": 7293
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I'm sorry. No. The actress who played Marcela dies in a boating accident before production begins on the next sequel.\"",
+          "ok": true,
+          "pos": 9878
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“She resides at 140 Darwood Place. Hartsdale, New York 10530. How do I know these things? It seems impossible.\"",
+          "ok": true,
+          "pos": 11536
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Because she doesn't actually belong here in my world. So to you she sticks out like a sore thumb, transmits across reali",
+          "ok": true,
+          "pos": 12750
+        }
+      ],
+      "words": 52
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.32
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.39,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.44
+      }
+    }
+  ],
+  "form": {
+    "h1": "51. The Bride of Chimotera! (1946)",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2497,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
