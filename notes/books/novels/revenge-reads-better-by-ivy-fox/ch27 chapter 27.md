@@ -67,12 +67,9 @@ modified: "2026-11-20"
 **读者视角提示**：这句与 ch25 的「Death doesn't rewrite history」同源——它奠定全书对 Reds 之死的态度：不庆祝也不哀悼，只是承认事实。
 
 > **原句 6:** "“Yeah. You.” Her face twists with rage. “Ever since you came back, I’ve lost four friends. Four. You expect me to believe that’s a coincidence?”"
->
->
-> "“You’re a fucking curse on this town,” Delaney shouts after me."
 
-**中文理解**：Delaney 满脸怒容：就是你——你回来后我失去了四个朋友，四个；你指望我相信这是巧合？她冲她喊：你就是这镇的诅咒。
-**关键词**：lost four friends. Four / a coincidence / curse on this town
+**中文理解**：Delaney 满脸怒容：就是你——你回来后我失去了四个朋友，四个；你指望我相信这是巧合？
+**关键词**：lost four friends. Four / a coincidence / Ever since you came back
 **为什么这样写**：悲伤转化为攻击的语法——作者让 Delaney 把「四」重复一次，让数字本身成为指控；「curse（诅咒）」是 Peyton 语系的又一名词化标签：她们不说「我怀疑你」，而是给你下定义。
 **读者视角提示**：记住「curse」——ch01 Max 曾自嘲「hell froze over」，ch13 说同学会「cursed」；现在 Reds 把「诅咒」的帽子扣到她头上，词语的所有权发生转移。
 
@@ -135,7 +132,7 @@ modified: "2026-11-20"
 > "Head held high."
 
 **中文理解**：Jennine 求她别伤害 Peyton，Max 平静答「我不是来算旧账的——报应才是」；转身与 Sienna 并肩走出墓园，头抬得高高的。
-**关键词**：Karma is / not here to settle old scores / Head held high
+**关键词**：Karma is / turn my back on her / Head held high
 **为什么这样写**：从「复仇」到「报应」的姿态转移——作者让 Max 拒绝成为加害者：她不主动出击，只信「karma（因果）」会替她收拾；「Head held high」用三个词完成尊严的重建：被围攻、被诬陷、被求「别伤害」，她仍昂首离开。
 **读者视角提示**：这句「Karma is」是全书主题的最终表态之一——它与 ch10「they didn't win」、ch26「give up Milo」连成她的的成长弧：从抵抗到放手到信任因果；记住它，结局将验证或嘲讽这份信念。
 
