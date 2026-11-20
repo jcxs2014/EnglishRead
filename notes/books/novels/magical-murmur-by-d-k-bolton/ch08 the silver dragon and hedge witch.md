@@ -23,7 +23,7 @@ modified: "2026-11-16"
 **为什么这样写**：门的开合写学院的「人格」，亲切感被 secret dialogue 一词拧成不安；「very ancient advisors」半遮半掩地不点名，把龙穴的悬念留到走廊尽头。
 **读者视角提示**：读者拿到本章地图：两院密谈之后，校长去请教比学院更老的东西——权力链往上又指了一层。
 
-> **原句 2:** "People want answers. Some want the Academy fully opened. Others think it should remain as it is. There are people who believe Gideon should take charge because of his connection to the place, and others who don’t want anyone connected to the Priestess near it…And some would like to see it burn to the ground."
+> **原句 2:** "People want answers. Some want the Academy fully opened. Others think it should remain as it is. There are people who believe Gideon should take charge because of his connection to the place, and others who don’t want anyone connected to the Priestess near it … And some would like to see it burn to the ground."
 **中文理解**：人们想要答案。有人要学院完全开放；有人觉得维持现状就好；有人认为 Gideon 和那地方渊源深、该由他接管；也有人不想让任何跟女祭司沾边的人靠近……还有人盼着干脆把它烧成平地。
 **关键词**：People want answers / burn to the ground
 **为什么这样写**：五派意见排成一条从建设到毁灭的光谱——排比推进到最后一档（burn to the ground）骤然加码；省略号是转述者换气，也是舆情升温的标点。

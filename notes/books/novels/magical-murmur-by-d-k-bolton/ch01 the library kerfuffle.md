@@ -65,7 +65,7 @@ modified: "2026-11-16"
 **为什么这样写**：「zip」把影子写得又快又活，「faintest」又把它压到将见未见的门槛上；「whisper was nearly a shout」用音量的矛盾写恐慌，恰好与开篇「魔法不喊叫」形成对位——魔法没喊，人先喊了。
 **读者视角提示**：这里也第一次给出叙述者的名字（Maeve）——由 Skonk 的惊呼顺口带出，读者在紧张的最高点上才拿到称呼，记得格外牢。
 
-> **原句 8:** "Darkness isn’t inherently evil any more than fire is inherently cruel. You have to remember that intent matters…But what matters most is what you ask the magic to do."
+> **原句 8:** "Darkness isn’t inherently evil any more than fire is inherently cruel. You have to remember that intent matters … But what matters most is what you ask the magic to do."
 **中文理解**：黑暗并不天生邪恶，就像火并不天生残忍。要记住意图才关键，方法在某种程度上也算数——但最要紧的，是你求魔法替你做什么。
 **关键词**：inherently evil / what you ask the magic to do
 **为什么这样写**：fire 类比把「黑暗＝邪恶」的等式拆开，intent→method→what you ask 的三层递进从抽象落到可执行；说话人 Lady Limora 活了几个世纪，这句判词的分量正来自这份阅历——也给 Loretta 的恐惧递了一个台阶。

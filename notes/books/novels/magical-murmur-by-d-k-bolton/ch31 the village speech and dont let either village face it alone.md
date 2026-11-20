@@ -89,7 +89,13 @@ modified: "2026-11-16"
 **为什么这样写**：联防宣言的知识论版本——合并的理由不是感情是资源互补；「It's time we started」呼应银狼的「It's time」句式，两代人的「是时候了」同章共鸣。
 **读者视角提示**：读者拿到第 12 章镜象预言的最终兑现：两村联合从预言变成议程。
 
-> **原句 13:** "For generations, Stonewick and Shadowick had been taught to fear one another.
+> **原句 13:** "“Celeste.”"
+**中文理解**：脑中轰然响起的只有一个名字——Celeste。通往 Stonewick 的路上有影子，女儿此刻就在那个方向；恐惧瞬间有了名字与地址，全章的公共政治在这一格猛地拉回私人线——村子可以重建，女儿只有一个。
+**关键词**：Celeste.
+**为什么这样写**：单词段引爆母线——「通往 Stonewick 的路」让母亲的第一反应是女儿；恐惧有了名字与地址。
+**读者视角提示**：读者在政治章的末尾被拉回私人线：下一章的战场在家的方向。
+
+> **原句 14:** "For generations, Stonewick and Shadowick had been taught to fear one another.
 >
 >
 > Now the shadows were moving toward both.
@@ -101,17 +107,11 @@ modified: "2026-11-16"
 **为什么这样写**：账单时刻的预告——分裂的成本即将以战争形式结算；「both」一词把两村钉上同一份战场。
 **读者视角提示**：读者拿到终章前的总清算预告：几十年的恐惧教育要用一场共同危机来还债。
 
-> **原句 14:** "Because whatever was coming, I wasn’t about to let either village face it alone."
+> **原句 15:** "Because whatever was coming, I wasn’t about to let either village face it alone."
 **中文理解**：因为无论要来的是什么——我绝不让任何一个村子独自面对它。
 **关键词**：either village face it alone
 **为什么这样写**：全书主题句在章尾立碑——「either」把守护范围定为双村；她的身份（Stonewick 校长+Shadowick 血亲姻亲）让这句既是誓言也是资格。
 **读者视角提示**：读者拿到本卷的最终承诺：联合不是策略是立场——最后一章的战斗将以此为纲。
-
-> **原句 15:** "“Celeste.”"
-**中文理解**：脑中轰然响起的只有一个名字——Celeste。通往 Stonewick 的路上有影子，女儿此刻就在那个方向；恐惧瞬间有了名字与地址，全章的公共政治在这一格猛地拉回私人线——村子可以重建，女儿只有一个。
-**关键词**：Celeste.
-**为什么这样写**：单词段引爆母线——「通往 Stonewick 的路」让母亲的第一反应是女儿；恐惧有了名字与地址。
-**读者视角提示**：读者在政治章的末尾被拉回私人线：下一章的战场在家的方向。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

@@ -149,7 +149,21 @@ modified: "2026-11-16"
 **为什么这样写**：寂静写成会蔓延的生物（it spread）——声音的死亡先于威胁现身；手松开的细节把警觉写进身体。
 **读者视角提示**：读者用耳朵读完这一格：之前越热闹，此刻越冷。
 
-> **原句 10:** "The trees grew closer together, and their trunks twisted into strange shapes.
+> **原句 10:** “Keegan stepped in front of me and looked over his shoulder. “We’re getting close to Shadowick, so we need to be mindful.”
+
+> I nodded. “How close?”
+
+> “Close enough that the magic begins to change and things aren’t always as they seem.”
+
+> “I feel like that’s the story of my life.” I glanced at the silver vines, suddenly skeptical of their beauty, and noticed their bells had gone still.
+
+> Had it been a setup?"
+**中文理解**：Keegan 挡到我身前，回头望了一眼。「我们快到 Shadowick 了，得时时留心。」「多近？」「近到魔法开始变化、事物不再总是它们看起来的样子。」「我觉得这就是我人生的写照。」我瞥了眼银色藤蔓，忽然对它们的美起了疑——注意到那些铃铛已经静止。这会是一场安排好的圈套吗？
+**关键词**：things aren’t always as they seem / Had it been a setup?
+**为什么这样写**：警告的措辞是「样子」而非「危险」——表象与真实的分离正式成为边境规则；铃铛静止是美的第一道裂缝。
+**读者视角提示**：读者被教授边境法第一条：在这里，眼睛是最不可信的器官。
+
+> **原句 11:** "The trees grew closer together, and their trunks twisted into strange shapes.
 >
 >
 > Even the air smelled different. The pine and damp earth now mingled with something older, ashier.
@@ -164,7 +178,7 @@ modified: "2026-11-16"
 **为什么这样写**：气味先于画面报警（older, ashier）——嗅觉是本章的边界探测器；肩膀绷紧把危险写到坐骑身上。
 **读者视角提示**：读者从气味认出边境：Shadowick 不需要路牌，灰烬味就是界碑。
 
-> **原句 11:** "Wings made of shadow unfurled, then another pair…
+> **原句 12:** "Wings made of shadow unfurled, then another pair…
 >
 >
 > “Keegan,” I whispered.
@@ -185,7 +199,7 @@ modified: "2026-11-16"
 **为什么这样写**：树—翼兽的幻变一气呵成，识别过程全靠光点；「pinpricks of silver」给影子军团配上星图。
 **读者视角提示**：读者与 Maeve 同步完成再归类：静态的树全是活物——森林从布景变成居民。
 
-> **原句 12:** "The stones bore ancient markings of varying sizes, and I knew better than to try to decipher them.
+> **原句 13:** "The stones bore ancient markings of varying sizes, and I knew better than to try to decipher them.
 >
 >
 > “They’re part of the old boundary,” Keegan said, standing back up.
@@ -200,7 +214,7 @@ modified: "2026-11-16"
 **为什么这样写**：Gideon 的情报落地成实物——界石从传闻变成脚下；「知道不该解读」的自知让古物保持距离感。
 **读者视角提示**：读者拿到实体证据：第 20 章的界石之谜有了第一块化石。
 
-> **原句 13:** “I stepped closer and raised my wand toward the stones, and they suddenly began shifting into a kaleidoscope of colors.
+> **原句 14:** “I stepped closer and raised my wand toward the stones, and they suddenly began shifting into a kaleidoscope of colors.
 
 > “Keegan? What’s going on?”
 
@@ -215,20 +229,6 @@ modified: "2026-11-16"
 **关键词**：a kaleidoscope of colors / I don’t know why it’s reacting
 **为什么这样写**：石与印隔空对答——器物成了两套古老系统的通话界面；「just warm」的轻描淡写与石色的炫目形成温差。
 **读者视角提示**：读者拿到新感应规则：影印会回应旧边界——她的印与这片土地的债有关。
-
-> **原句 14:** “Keegan stepped in front of me and looked over his shoulder. “We’re getting close to Shadowick, so we need to be mindful.”
-
-> I nodded. “How close?”
-
-> “Close enough that the magic begins to change and things aren’t always as they seem.”
-
-> “I feel like that’s the story of my life.” I glanced at the silver vines, suddenly skeptical of their beauty, and noticed their bells had gone still.
-
-> Had it been a setup?"
-**中文理解**：Keegan 挡到我身前，回头望了一眼。「我们快到 Shadowick 了，得时时留心。」「多近？」「近到魔法开始变化、事物不再总是它们看起来的样子。」「我觉得这就是我人生的写照。」我瞥了眼银色藤蔓，忽然对它们的美起了疑——注意到那些铃铛已经静止。这会是一场安排好的圈套吗？
-**关键词**：things aren’t always as they seem / Had it been a setup?
-**为什么这样写**：警告的措辞是「样子」而非「危险」——表象与真实的分离正式成为边境规则；铃铛静止是美的第一道裂缝。
-**读者视角提示**：读者被教授边境法第一条：在这里，眼睛是最不可信的器官。
 
 > **原句 15:** "“I mean you no harm,” she said, dipping her head in a silent vow. “I’ve been waiting.”
 >

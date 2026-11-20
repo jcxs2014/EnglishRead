@@ -74,23 +74,23 @@ modified: "2026-11-16"
 **为什么这样写**：本章最响的喜剧拍——质疑与应答各三词；「With yarn」的重复把荒诞感钉成宣言。
 **读者视角提示**：读者听到全书的价值观在一句对话里完成：被嘲笑的 Medium（媒介）恰恰是答案。
 
-> **原句 10:** "“Listen to me. The threads don’t need to be stronger than the shadows. They need to support each other. Every time one breaks, the others can carry its weight.”"
-**中文理解**：「听我说。线不需要比影子强——它们需要互相支撑。一根断了，其他的能接住它的分量。」
-**关键词**：support each other / carry its weight
-**为什么这样写**：战术与哲学同句——网的韧性来自冗余而非强度；「Magic included」把魔法也编进互助网络。
-**读者视角提示**：读者拿到两村联盟的工程学原理：不比谁强、比谁接得住谁——这正是本章的阵型。
-
-> **原句 11:** "“I need the Academy.”"
+> **原句 10:** "“I need the Academy.”"
 **中文理解**：「我需要学院。」——分工令的最后一件：她的银网需要一个电源，而全城只有 Maeve 能跟学院说上话；三词请求让校长的角色自动就位，也悄悄完成了一次权力交接——Luna 开始点将了。
 **关键词**：I need the Academy
 **为什么这样写**：分工令的最后一件——她的网需要一个电源；三词请求让 Maeve 的角色自动就位。
 **读者视角提示**：读者看到权力交接的细节：Luna 开始点将——校长相的临场试炼已开始。
 
-> **原句 12:** "The shadows struck it and stuck there like flies in a spider’s web."
+> **原句 11:** "The shadows struck it and stuck there like flies in a spider’s web."
 **中文理解**：影子撞上去就被粘住——像蛛网上的苍蝇。
 **关键词**：like flies in a spider’s web
 **为什么这样写**：明喻把毛线网写成天罗地网——「flies」的猎物视角完成攻守易位；影子第一次成了「虫」。
 **读者视角提示**：读者拿到战局的终极反转：猎手与猎物对调——被追了三章的影子终于被「织」住。
+
+> **原句 12:** "“Listen to me. The threads don’t need to be stronger than the shadows. They need to support each other. Every time one breaks, the others can carry its weight.”"
+**中文理解**：「听我说。线不需要比影子强——它们需要互相支撑。一根断了，其他的能接住它的分量。」
+**关键词**：support each other / carry its weight
+**为什么这样写**：战术与哲学同句——网的韧性来自冗余而非强度；「Magic included」把魔法也编进互助网络。
+**读者视角提示**：读者拿到两村联盟的工程学原理：不比谁强、比谁接得住谁——这正是本章的阵型。
 
 > **原句 13:** "She was a yarn puppet master."
 **中文理解**：她是个毛线提线师。
