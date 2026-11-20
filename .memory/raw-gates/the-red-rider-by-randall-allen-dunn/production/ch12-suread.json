@@ -1,0 +1,73 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch12_12.txt",
+ "facts": [
+  {
+   "fact": "终章开局：她被拎在铁匠铺墙上，爪子插在侧腹——像肉铺里挂起的肉",
+   "anchor": "like  a  butcher  hanging meat",
+   "start": 89,
+   "end": 119
+  },
+  {
+   "fact": "她扯下桌边的破布按住伤口，抓过门边挂绳在腰上缠紧——自制绷带止血",
+   "anchor": "coiled it around my waist",
+   "start": 774,
+   "end": 799
+  },
+  {
+   "fact": "Grenault 揭底：Robillet、Tumier、Devereaux、Jareau 是他童年在矿上结交、后来合住一屋的挚友——如今屋空了，因为是她杀的",
+   "anchor": "The house is empty now. Because of you.",
+   "start": 2118,
+   "end": 2157
+  },
+  {
+   "fact": "她假意认输：你赢了，把我交给 Lycanthru 吧——为拖时间与近身",
+   "anchor": "You can take me to the Lycanthru.",
+   "start": 1688,
+   "end": 1726
+  },
+  {
+   "fact": "他左右开弓把她打到头如布偶般耷拉——毒打只为慢慢享用",
+   "anchor": "my head lolled like a rag doll",
+   "start": 5199,
+   "end": 5235
+  },
+  {
+   "fact": "绝境祈祷：主啊，帮我。我一无所有了——求力量救我们脱离这怪物",
+   "anchor": "Lord, help me. I’ve got nothing left.",
+   "start": 6047,
+   "end": 6084
+  },
+  {
+   "fact": "祈祷后抬头：桌上有银烛台（被他忽略），墙上有一支燃烧的火把",
+   "anchor": "looking above the table to see the fiery torch on the wall.",
+   "start": 6454,
+   "end": 6513
+  },
+  {
+   "fact": "她识破花招：他进退站位正是 Francois 教她的姿势——他也虚张声势、用威胁掩饰弱点（一步出火他就躲）",
+   "anchor": "He was bluffing.",
+   "start": 8002,
+   "end": 8018
+  },
+  {
+   "fact": "火燎皮毛声中，苏醒的 Madame Leóne 持草叉现身掷给她",
+   "anchor": "tossing it to me.",
+   "start": 9185,
+   "end": 9202
+  },
+  {
+   "fact": "她把燃烧的 Grenault 用草叉推进炉膛，用炉栅封死——烟从烟囱滚滚而出",
+   "anchor": "sealing him inside.",
+   "start": 9952,
+   "end": 9973
+  },
+  {
+   "fact": "结尾：她活下来了，也变得和他们一样 ruthless——血止住了，这场战争她会亲手终结",
+   "anchor": "I would end this.",
+   "start": 13337,
+   "end": 13354
+  }
+ ]
+}
