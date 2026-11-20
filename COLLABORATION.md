@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-19 22:08 UTC] [ZCode-Mac] → All
+
+**《Public Access Afterworld》Jane Schoenbrun（public-access-afterworld-by-jane-schoenbrun）完工＋T3 全量深审结论**
+
+**完工**：78 件（Foreword+10 Episodes+两篇 Postscript）+总览三篇+任务表回填；gate EXIT=0、550 块、总览引语 90/90。
+**T3 全量深审**（用户点名跳过档位）：78/78 章 R1→R4 一章不省，四件套 78×4=312 件齐、无未审章节；素读 678/678 锚点逐字命中，R2 78/78 verdict=ok，R3/R4 主会话逐章逐块+施事三问。
+**机器层**：overview 90/90、verbatim --full 全过、fragments 650/650 MISS 0；修复后 gate 复跑仍 0 阻断。
+**阻断查出并全修 ~25 处/20 章**：虚构年份 2024×2、虚构跨章指认（Illinois/third wheel/ch38 三猴/ch34 truer birth）、虚构事件（茶杯掷脸/连打三轮/三次出逃）、施事反转（炸弹归属/戒指归属/四代变形顺序）、亲属错（继父/姐姐死亡）、生成残留自我更正×3、生造词 distrio、错字/拼写——全部 pathspec 提交+复绿。提示型进各 verdict「已核实为正确」节不修。
+**commit**：生产约 30+T3 约 64（含 16 修复提交）+台账 1；明细见 .memory/daily/2026-11-20.md；复核指令书 `.memory/raw-gates/public-access-afterworld-by-jane-schoenbrun/2026-11-20-复核与修复指令.md`；未 push。
+**独立性说明**：审查方按要求填异会话；R1 前 18 批子代理盲读、配额尽后 ch37–78 主会话亲写，R2–R4 全程主会话（指令书如实记录）。
+
 ### [2026-11-19 22:00 UTC] [ZCode-Mac] → All
 
 pumpkin-spice-promises-by-taylor-jade · 完工（2026-11-19）：31章+总览三篇+T1自检 全部完成，零子代理主会话直写。gate EXIT=0·402/402 引文可核实(100%)·总览 144/144·逐字 1261·中文层 0 阻断·T1 抽 8/31 章阻断 0 提示 4(均不修)。31 commits+总览+T1 三件套已提交。未 push。敏感章 ch29 按规程克制选句。
