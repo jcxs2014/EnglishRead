@@ -1,0 +1,54 @@
+{
+  "chapter": "ch10",
+  "text_file": "text/ch10_10.txt",
+  "facts": [
+    {
+      "fact": "神父 Father Vestille 告诉 Helena：两天前发生了一起袭击，一名小女孩遇害；她已失踪几天，今早人们在树林里发现了她的残骸（原文 What was left of her）；神父因此必须立刻去处理遗体并会见她的父母。",
+      "quote": "heard  of  an—an attack two nights ago. A little girl. I had to see to the body right away and meet with her parents.”\n\n\n“A little girl?” I repeated, my neck tensing. “She’s been missing for a few days,” he said\n\n\nsolemnly. “They found her early this morning, in the woods. What was left of her",
+      "start": 2253,
+      "end": 2547
+    },
+    {
+      "fact": "Helena 回答「I do」后亲手打开棺盖查看遗体：小尸体大多只剩骨架、有几条肢体缺失、几乎没剩多少肉，那条淡蓝色裙子只剩撕碎的布片；原文写明 The Lycanthru never left much meat。",
+      "quote": "I  do.”  I  opened  the  lid  and\n\n\nfought the nausea building in my throat. Torn shreds of a pale blue dress made a mockery of an innocent child’s life. The small body was mostly skeleton, with a few limbs missing and very little flesh.\n\n\nThe Lycanthru never left much meat",
+      "start": 2634,
+      "end": 2908
+    },
+    {
+      "fact": "Helena 向神父说她需要指引（I need guidance）并报告：她遇到了一只新狼 Grenault，比其他狼更大、更狡猾，昨晚袭击了 Denues 一家；Madame Leóne 昨天到 Denues 的裁缝店卖裙子，Grenault 当时是想夺取 Madame Leóne 的地址，他计划袭击她；神父听后说 Then you must stop him。",
+      "quote": "I  need  guidance.  I’ve encountered a new wolf named Grenault. Bigger and more  cunning  than  the  others.  He  attacked  the Denues last night.”\n\n\nFather Vestille straightened. “The Denues?”\n\n\n“Yes. Madame  Leóne  visited  the  Denues’\n\n\nclothier  yesterday  to  try  to  sell  some  dresses. Grenault  meant to  lay  hold  of  Madame  Leóne’s address. He plans to attack her.”\n\n\nFather  Vestille’s  voice  hardened.  “Then you\n\n\nmust stop him",
+      "start": 4280,
+      "end": 4726
+    },
+    {
+      "fact": "神父嘱咐 Helena 必须保护 Lisette Leóne：若能不取 Grenault 性命而阻止他，就不杀；若不能，就留给 Helena 和上帝。随后神父退后一步，为自己也为 Helena 画十字祝福，说自己无论是否认同她的行事都一直为她祝福，并相信上帝此刻正借着她在保护大家。",
+      "quote": "But—you  must  protect  Lisette Leóne. If you can stop this Grenault without taking his life, then do so. If not—well, I must leave that to you, and to God.”\n\n\nHe took a step back, then made the sign of\n\n\nthe cross over himself—and over me.\n\n\n“You’re blessing me?” I choked.\n\n\n“I  always  bless  you,  Helena,”  he  said.\n\n\n“Whether I agree with your activities or not. I want only  what  is  best  for  you  and  for La  Rue  Sauvage. And  I  believe  the  Lord  is  using  you  right  now,  to protect us all",
+      "start": 6320,
+      "end": 6830
+    },
+    {
+      "fact": "当天下午 Helena 在 Clothier de Denue 对街等候，看到 Madame Leóne 抱着裙子走向店门后上前问好，自称「来支持你」并随她进店——实际上是来护送 Madame Leóne、不让她的地址落入 Grenault 之手，手一直按在弩上以防万一。",
+      "quote": "I  waited  across  the  street  from Clothier  de\n\n\nDenue that afternoon, watching until I saw Madame Leóne march toward the front door. She had a clear bounce  to  her  step  as  she  approached,  cradling  her beautiful dresses.\n\n\nI  strode  toward  her  with  equal  purpose.\n\n\n“Madame Leóne,” I greeted.\n\n\nShe turned, looking delighted. “Helena! What\n\n\na lovely surprise! What are you doing here?”\n\n\n“I—just came by to support you,” I said. “Oh, how wonderful!” she said, hugging me.\n\n\n“Well,  come  on  in,  then,  and  let’s  hope  for  some pleasant news!”\n\n\nShe  threw  her  arm around  me  to escort  me\n\n\ninside.  Though,  in  fact,  I  was  here  to  escort  her.  I didn’t  know  what  I  would  say  to  keep  her  and  her address safe from Grenault, but I kept a hand on my crossbow, if all else failed",
+      "start": 9040,
+      "end": 9857
+    },
+    {
+      "fact": "Helena 扫视店内问 Where's Grenault?；Madame Denue 回答不知道：Grenault 今天自称要处理「某种急事（some sort of emergency situation）」、向店里告了假，明天会回来；Madame Denue 还朝 Helena 眨眼，说他是高个子年轻人、不怪她打听他。",
+      "quote": "Where’s Grenault?” Madame  Leóne  looked  at  me.  “You  know\n\n\nGrenault?”\n\n\n“Yes,” I said. “We … spoke here yesterday.”\n\n\n“Of course, of course. Well, I honestly don’t\n\n\nknow.  He  said  he  had  some  other  business  to  tend to today, some sort of emergency situation. Well, we know about those, don’t we? Anyway, he asked if he could take care of his matter today so we allowed it. He’ll  be  back  tomorrow  if  you  wish  to  see  him again.”  She  winked  at  me.  “He’s  a  tall  young  man, isn’t he? I don’t blame you for asking after him",
+      "start": 12336,
+      "end": 12885
+    },
+    {
+      "fact": "酒馆老板 Gerard Touraine 向 Helena 透露：Grenault 最近几个小时一直在向店里其他桌的陌生人（不是他常来的那伙人）打听谁能帮忙制作弩箭，今天还在镇上四处打听；要求「做得快、量大、能拿到银、有熔银设施」；Touraine 说 He's hunting you, Mademoiselle。Grenault 已把范围缩小到两处——银匠铺 L'atelier de Forgeron de Filliene 和一家铁匠铺（Touraine 说到 L'atelier– 时被 Helena 惊呼补全为 L'atelier de Forgeron de Leóne）；Touraine 确认 He's found you, Mademoiselle。",
+      "quote": "Grenault’s been talking to a bunch of people the last few hours,” Touraine said, keeping  his  head  down.  “Not  his  usual  crowd,  but strangers  at  other  tables,  asking  who  could  help make  crossbow  bolts. Sounds  like  he’s  been  asking around  town  today,  too.”  He  lifted  his  head  and raised his eyebrows slightly.\n\n\nI  shuddered. That  was  why  Grenault  didn’t\n\n\ngo to the clothier today. “Crossbow bolts?”\n\n\nHe gave the slightest nod. “Wanted to know\n\n\nwho  could  make  bolts  quickly,  in  abundance,  and have  access  to  silver  with  a  facility  for  melting  it down.”  He  licked  his  lips.  “He’s  hunting  you, Mademoiselle.”\n\n\nI  swallowed.  Then  clenched  my  jaw.  “And\n\n\nwhat has he found out, to your knowledge?”\n\n\nTouraine  stared  at  the  floor  behind  the\n\n\ncounter,  releasing  a  heavy  sigh.  “He  seems  to  have narrowed  it  down  to  two  places,”  he  said.  “The silversmith, L’atelier  de  Forgeron  de Filliene, and  a blacksmith, L’atelier –.”\n\n\n“L’atelier de Forgeron de Leóne!” I gasped. He  met  my  eyes  with  a  look  of  horror.\n\n\n“Yes,” he said. “He’s found you, Mademoiselle",
+      "start": 15587,
+      "end": 16730
+    },
+    {
+      "fact": "Helena 心想：不——他找到的是 Pierre（No, I thought. He's found Pierre.）；随即转身冲离柜台、推开酒馆大门，吹口哨呼唤 Crimson。",
+      "quote": "No, I thought. He’s found Pierre. I turned and ran from the counter, throwing\n\n\nopen the doors and whistling for Crimson",
+      "start": 16735,
+      "end": 16855
+    }
+  ]
+}

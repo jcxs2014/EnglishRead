@@ -1,0 +1,54 @@
+{
+  "chapter": "ch11",
+  "text_file": "text/ch11_11.txt",
+  "facts": [
+    {
+      "fact": "Helena 俯身在鞍上催马 Crimson 疾驰穿过村庄的石板路，要赶在 Grenault 找到 Pierre 之前到达 L’atelier de Forgeron de Leóne（Leónes 家的铁匠铺）：Grenault 一旦认定 Pierre 一直在为她打造银头弩箭（silver-tipped bolts）就会杀了他，而且会杀掉任何被怀疑的铁匠来切断她的资源——连 Pierre 的父亲也不例外。",
+      "quote": "I  leaned  forward  in  the  saddle  as  Crimson\n\n\npounded through the village’s cobblestone paths. We had  to  reach L’atelier  de  Forgeron  de  Leóne before Grenault found Pierre there. Once he concluded that Pierre  had  been  making  silver-tipped  bolts  for  me, he would kill him. In fact, Grenault would surely kill any  suspected  blacksmith  to  cut  off  my  resources. Even Pierre’s father.",
+      "start": 13,
+      "end": 416
+    },
+    {
+      "fact": "Helena 在门廊翻身下马（Crimson）、持弩冲进店内：Madame Leóne 被逼在角落、背抵着墙；她与桌子之间站着 Grenault——八英尺（eight-foot）高的巨大黑狼，一爪举着一大块金属板，另一爪张开要抓 Madame Leóne 的脸；Helena 大喊 \"Stop!\"。",
+      "quote": "I  curled  my  leg  over  the  saddle  to  slide  off\n\n\nCrimson  as  he  halted  at  the  porch.  I  leaped  to  the ground and stormed inside, crossbow raised. Beyond the heat of the center furnace, Madame Leóne stood in the corner, pressing her back against the wall. The table before her held a tall candle, spindle, and a pile of  fabric,  with  a  half-finished  dress  beside  a completed one.\n\n\nBetween her and the table, Grenault stood at\n\n\nhis full eight-foot height as an enormous black wolf.  He held a large plate of metal in one paw, spreading his other claw wide to slash at Madame Leóne’s face.\n\n\n“Stop!” I cried.",
+      "start": 728,
+      "end": 1356
+    },
+    {
+      "fact": "Helena 向 Grenault 开火：弩箭打在他举起的黑色金属板上发出回响，她眯眼看清那其实是一块板条细而变形的废弃炉栅（furnace grate）；Grenault 报出 \"Nine\"；她再射一箭又被沉重的炉栅轻松挡下，他报 \"Eight\"——Helena 感到他清点她剩余弩箭的倒数像在敲丧钟。",
+      "quote": "I  fired.  He  raised  the  black  metal  plate  and\n\n\nmy bolt struck it with an echoing ring. I squinted to see  it  was  actually  a  discarded  furnace  grate  with thin, misshapen slats.\n\n\n“Nine,” Grenault said.\n\n\nMy  nerves  flared.  I  fired  again.  And  once\n\n\nagain,  he  deflected  it  easily  with  the  heavy  grate. “Eight.”\n\n\nMy blood surged, my breath coming in short\n\n\ngasps. His countdown of my remaining bolts felt like a death knell.",
+      "start": 1479,
+      "end": 1931
+    },
+    {
+      "fact": "Grenault 说出他已逼 Lisette（Madame Leóne）招认的事：她丈夫和儿子在晚饭后（after supper）离家，去镇另一头给一户人家修马掌；Grenault 说他稍后再去收拾他们，眼下要先把这铺子烧成平地——此时店里只有他们三个。",
+      "quote": "They  left  after  supper  to  repair  some horseshoes  for  a  family  across  town. I’ll  tend  to them  later,  after  I  burn  this  place  to  the  ground. Until then, it’s just the three of us.",
+      "start": 2426,
+      "end": 2625
+    },
+    {
+      "fact": "Grenault 威胁 Helena：今晚要把她当战利品（prize）带回 Lycanthru，再把他的 precious ‘Red Rider’ 日复一日、一块一块地慢慢撕碎，直到连她都尖叫着求他们立 Grenault 为新的 Prime。",
+      "quote": "“Tonight  I’ll  take you  back  to  the  Lycanthru  as  my  prize.  Then,  my precious ‘Red Rider,’ we’ll tear you apart slowly. Day by  day,  piece  by  piece.  Until  even  you  scream  for them to make me the new Prime.”",
+      "start": 3336,
+      "end": 3559
+    },
+    {
+      "fact": "Madame Leóne 一声 \"No!\" 抓起两根大织针（knitting needles）扑向 Grenault 背后深深刺入、牙齿外露，喊 \"Run, Helena!\"；Grenault 咆哮着反手把她打飞，她背部撞上一根柱子倒地昏迷。",
+      "quote": "“No!”  Madame  Leóne  shrieked,  seizing  two\n\n\nlarge  knitting  needles  and  lunging  at  his  back.  She stabbed  deep  into  him,  her  teeth  bared  with shocking savagery. “Run, Helena!”\n\n\nGrenault  growled  and  backhanded  her,\n\n\nsending her flying. Her back struck a pillar and she crumpled to the ground, unconscious.",
+      "start": 3562,
+      "end": 3889
+    },
+    {
+      "fact": "Grenault 轻松挡下 Helena 射出的最后一箭并报 \"None.\"；Helena 环顾四周——店里满是 awls、pokers、shears 甚至一把剑，但只有铁和钢、没有银，银缸（silver vat）已冷得无法给任何武器镀银，她认定自己死定了；随后 Grenault 扔掉炉栅让它当啷落地，像端详一只昆虫那样逼近她，从她拳头里夺走弩弓、扯断背带扔到一边。",
+      "quote": "I  waited  for  an  opening,  and  shot  my  final\n\n\nbolt.\n\n\nHe deflected it easily. \"None,” he growled.\n\n\nI  stood  a  few  feet  from  him,  struggling  to\n\n\nsteady  my  breathing.  I  was  surrounded  by  awls, pokers, shears, even a sword. But none of them were silver, only iron and steel. The silver vat had cooled too much to coat a weapon, even if I could reach it.\n\n\nI was dead.\n\n\nHe  tossed  the  furnace  grate  aside,  letting  it\n\n\ncrash onto the floor with an echoing ring. Then he crept  toward  me,  examining  me  like  I  was  an intriguing insect.\n\n\nOr a savory meal.\n\n\nHe seized the crossbow from my fists, easily\n\n\nyanking  the  strap  free  and  tossing  it  aside.",
+      "start": 6172,
+      "end": 6859
+    },
+    {
+      "fact": "终局：Grenault 用粗壮的左爪扼住 Helena 的喉咙、把她提离地面（她拽他的手臂却挣不脱），说 \"Right where we left off\"；Helena 强压本能、任他掐着并把刀刃刺进他的巨臂，但太迟——他的另一爪已切入她的侧身、肋部痛如火烧；他松开她的喉咙、把爪搭在她髋部，把她像挂钩上的一块肉那样悬着；随后他冲向远处的墙把她撞上去、爪陷得更深，最后说 \"It’s over, little Helena.\"。",
+      "quote": "His thick left paw closed around my throat,\n\n\nchoking me as he lifted me off my feet. I tugged at his arm but couldn’t break free.\n\n\n“Right where we left off,” he said.\n\n\nI clenched my teeth. I had no choice but to\n\n\novercome my reflexes and let him choke me while I sank a blade into his giant arm.\n\n\nToo  late.  His  other  claw  cut  into  my  side,\n\n\nsetting my ribs ablaze with pain. I cried out, gasping as he released my throat to rest his paw on my hip. He held me aloft, like a slab of meat on a butcher’s hook, as I grit my teeth.\n\n\nThen he rushed at the far wall, ramming me\n\n\nagainst it. I screamed at the impact, which drove his claws a little deeper. I squeezed my eyes tight against the agony, against the purr of his voice.\n\n\n“It’s over, little Helena.”",
+      "start": 7068,
+      "end": 7837
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-red-rider-by-randall-allen-dunn/ch10 the casket and the blessing.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch10_10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Horrific visions of Grenault holding me aloft, over the heads of the rest of the Lycanthru wolves, jaws snapping up at m",
+          "ok": true,
+          "pos": 33
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I opened the lid and fought the nausea building in my throat. Torn shreds of a pale blue dress made a mockery of an inno",
+          "ok": true,
+          "pos": 2382
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Could still hear the coffin lid echo as I declared to everyone at the funeral mass that this would end",
+          "ok": true,
+          "pos": 3038
+        },
+        {
+          "text": "That I would end it",
+          "ok": true,
+          "pos": 3142
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "You're far more than that. You've been blessed in learning that silver destroys them. That's protected you and made them",
+          "ok": true,
+          "pos": 4623
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I always bless you, Helena,\" he said. \"Whether I agree with your activities or not. I want only what is best for you an",
+          "ok": true,
+          "pos": 5935
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Before David fought Goliath, he was a shepherd. The scriptures say he fought wild animals that tried to steal his sheep,",
+          "ok": true,
+          "pos": 6938
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But—well, I'll tell you. Let me take these from you and I'll pay you for them, whatever you think is reasonable. And I'l",
+          "ok": true,
+          "pos": 9785
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Wanted to know who could make bolts quickly, in abundance, and have access to silver with a facility for melting it down",
+          "ok": true,
+          "pos": 14392
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "No, I thought. He's found Pierre. I turned and ran from the counter, throwing open the doors and whistling for Crimson",
+          "ok": true,
+          "pos": 14980
+        }
+      ],
+      "words": 21
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter 10",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8.5,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2775,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 11 章中位 8、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
