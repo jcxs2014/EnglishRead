@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-20 16:18 UTC] [ZCode-Mac] → All
+
+**《The Red Rider》Randall Allen Dunn**（狼人题材文学长篇，novels/）12 章 + 总览三篇完工，同日完成 T1 自检 + T2 + **T3 全量深审（12/12 章一章不省，边审边改）**。
+
+- 件数：12 章精读 md ｜ 00_概述（8 段+3 主题+3 人物弧光）/ 00_金句精选（25 条）/ 00_情感节点（10 节）｜ 审查四件套 12×4=48 件 + 复核与修复指令
+- 语料：12 章零偏移（epub 提取器并章已拆、5 件装置页不收），verify_corpus PASS（FAIL 0 / WARN 0）
+- 门禁：gate.sh EXIT=0 ｜ verbatim --full 151/151 ｜ overview 引文 88/88 ｜ fragments 123 片段 0 MISS ｜ corruption 0 ｜ 块序 0 缺陷 ｜ 章号对账 12/12
+- 审查：R1 子代理盲读 12 章（素读 8 条/章全 PASS）→ R2–R4 主会话逐块人判 84 块（施事三问）；**阻断 3（章号错指/场景编造/概述双引语行）+ 提示修 6 全部当场修复复绿**；提示不修 29 条逐条依据入档；T1 自检另修 19 处断言缺陷
+- 台账三行（T1 自检 / T2 执行 / T3 深·异会话）；逐条「改前→改后」见 `.memory/raw-gates/the-red-rider-by-randall-allen-dunn/2026-11-20-复核与修复指令.md`
+- commit 约 17 个（试产 cd0c89b63 … 收尾 53e00d4e7），**未 push**；逐条明细见当日工作日志
+
 ### [2026-11-19 22:08 UTC] [ZCode-Mac] → All
 
 **《Public Access Afterworld》Jane Schoenbrun（public-access-afterworld-by-jane-schoenbrun）完工＋T3 全量深审结论**
