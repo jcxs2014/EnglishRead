@@ -1,0 +1,354 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch35 short stack tape.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch35_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was more than a routine for the two of them now. It was a rule—all they ever did together. Every night, they’d sit an",
+          "ok": true,
+          "pos": 702
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But that August, by far the most frequent visitor to Erin’s Toshiba was Erin herself. The doppelganger version who stare",
+          "ok": true,
+          "pos": 1681
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "How was it possible? Erin had no memory of recording the transmissions, and yet there she was on the screen, starring in",
+          "ok": true,
+          "pos": 1975
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Erin preferred being alone. Especially in the mornings. The gymnasium was calm before first period, its empty largeness ",
+          "ok": true,
+          "pos": 3517
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It was like the guidance counselor had somehow known about her secret morning ritual here. How she would hide in this bi",
+          "ok": true,
+          "pos": 4225
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Erin looked at the names written there. “Creepy Moaning Old Woman” had five tallies next to her column, meaning five app",
+          "ok": true,
+          "pos": 5478
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I know,” Erin said. “And I was into it. But I guess it’s just different when it’s",
+          "ok": true,
+          "pos": 9597
+        },
+        {
+          "text": "you, you know? When you’re the person on the screen, staring back at yourself like some kind of harbinger of doom.”",
+          "ok": true,
+          "pos": 9675
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As David lathered her in cheap prosthetics, Erin remembered how no one else in the world could make her feel this way. A",
+          "ok": true,
+          "pos": 17211
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was a tape that Erin had seen once before. She recognized it immediately as the same tape from that night at Jim Davi",
+          "ok": true,
+          "pos": 19839
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "ERIN MORRISON 2/5/83, it had read. And here it was again",
+          "ok": true,
+          "pos": 20144
+        }
+      ],
+      "words": 11
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter 1（Episode Six: Script Girl）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3670,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
