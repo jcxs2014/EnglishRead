@@ -8,9 +8,9 @@ modified: "2026-11-19"
 ## 本章导航
 - **一句话概括**：副驾驶易主（Jules 默默降回后座、顺手给 Douglas 撕了胶带）；Bethany 点单「LSD、蘑菇、大量氯胺酮」——「One last bender. So let's make it count.」；车队驶入沙漠垃圾场，三猴告示牌在废墟中央收束 Episode Seven。
 - **情感弧线位置**：本集的换座仪式：Jules 的感情最终落进后座（cronies 和 hostages 的座位），Bethany 主动走向她最抗拒的使命——用点单的方式。
-- **Tropes 兑现/反转**：兑现「决战前点将」；反转「点单=投降」——她以消费者的姿态接受命运；反转「告示牌重访」——1945 年的口号盖着 2024 年的垃圾。
+- **Tropes 兑现/反转**：兑现「决战前点将」；反转「点单=投降」——她以消费者的姿态接受命运；反转「告示牌重访」——1945 年的口号盖着今天的垃圾。
 - **人物弧线**：Jules：demotion 的沉默接受者（caring 大于 competing）；Bethany：从拒绝者到点单人（用「再来一场」接管方向盘）；Douglas：胶带解除的人质。
-- **叙事手法**：座位图=权力图；点单清单替代誓师词；三猴告示牌与 ch26/ch38 三次出现完成闭环。
+- **叙事手法**：座位图=权力图；点单清单替代誓师词；三猴告示牌与 ch26 的初现隔章呼应完成闭环。
 
 ## 精读
 > **原句 1:** "But no. It wasn't like that at all. At this point, Jules couldn't care less about David's whole stupid Public Access Afterworld game. They just want Bethany to know that she's the one they care about. That they're in this for her."
