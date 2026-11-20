@@ -56,12 +56,12 @@ modified: "2026-11-18"
 **为什么这样写**：他的自白是本章最惊悚的设定：她的一切「罪行」都有观众——恶魔提前到场看完了整场演出；「paint a masterpiece」把她喂马的血腥重述成艺术评论；「your lips as bloodied as mine」的并列把两人在同一句话里配成一对——同款血唇是这场婚姻的定情色。
 **读者视角提示**：记住「他一直在看」——Piceus 的爱从第一天就是 voyeur 式的。这与母亲「被看见」的渴求（ch04 信）对上了：这个家族的怪物全都活在目光里。
 
-> **原句 7:** "“I want to ruin you, Sylvatica.” He etches the words into my mind, his tongue hot at my ear. “To take your waiting hand as you dangle between morality and depravity.” … He smells of the earth after rainfall, of old things, dankness. He smells of sweet rot, and it engulfs me like gravedirt, and I let it."
+> **原句 7:** "“I want to ruin you, Sylvatica.” He etches the words into my mind, his tongue hot at my ear. “To take your waiting hand as you dangle between morality and depravity.”"
 
-**中文理解**：「我要毁掉你，Sylvatica。」他把这句话刻进我的脑子，舌尖烫着我的耳朵。「趁你悬在道德与堕落之间，接住你那只一直在等的手。」 ……他闻起来像雨后的泥土、像旧物、像潮气。他闻起来像甜的腐坏——那气味像坟土一样把我吞没，而我由它吞没。
-**关键词**：I want to ruin you / dangling between morality and depravity / sweet rot / I let it
+**中文理解**：「我要毁掉你，Sylvatica。」他把这句话刻进我的脑子，舌尖烫着我的耳朵。「趁你悬在道德与堕落之间，接住你那只一直在等的手。」——毁灭被说成一种邀约。
+**关键词**：I want to ruin you / dangle between morality and depravity / waiting hand / etches the words into my mind
 **为什么这样写**：「 ruin」的承诺与 ch18 Oren 的「I never could ruin you」是同一词的两种用法：一个拿它当商品，一个拿它当誓言；「dangling between morality and depravity」悬空的位置是她此刻的全部处境——两只手都伸向她，她悬着；「sweet rot」的气味配方接住 ch05 的薰衣草（活人味）与焦炭橡木——Piceus 的味道是第三种：甜的腐坏。
-**读者视角提示**：记住三种味道的对位：Oren 的阳光醋栗（生）、Piceus 的甜腐（死）、母亲的铜与糖（吃）——Rue/Sylvatica 的两世都在这三种味道里挑过。
+**读者视角提示**：气味的三重对位在上一段已铺好——Oren 的阳光醋栗（生）、Piceus 的甜腐（死）、母亲的铜与糖（吃）；此处「ruin」的用法与 ch18 Oren 的「I never could ruin you」正好相反：一个拿它当商品，一个拿它当誓言。
 
 > **原句 8:** "Death consumes me. On hay long turned black, on cracked stone and rotting earth I lie. I go without gentleness, no kind word, as with my birth and so with my ending. There is silence save for the tearing of my flesh, the cords in my throat ravaged so quickly that I cannot cry out. It is an agony, a shearing of my body, and I want to cry out that I do not want this. I do not want this."
 
