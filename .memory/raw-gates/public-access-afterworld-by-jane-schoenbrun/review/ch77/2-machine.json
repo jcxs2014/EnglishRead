@@ -1,0 +1,376 @@
+{
+  "chapter": 77,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch77 the broadcast.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch77_chapter_11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "After so many years stuck in this place, she called to Bethany Peters, and Bethany Peters came to save her. Woke her up ",
+          "ok": true,
+          "pos": 193
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "All that hurt and anger stewing while she was stuck so long in her own vacancy. In that “very special episode” that coul",
+          "ok": true,
+          "pos": 1116
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Technically, physically, Erin hasn’t aged a day since the night of the homecoming dance. She’s still just seventeen year",
+          "ok": true,
+          "pos": 2113
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She shoots him a look like I made you, so fuck off or I’ll unmake you, and Tullycraft gets the message, senses her power",
+          "ok": true,
+          "pos": 6019
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“My name is Bethany Peters,” she tells the camera. “I was born on April nineteenth, 1999, in Harlingen, Texas, and then ",
+          "ok": true,
+          "pos": 9713
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I’m leaving this place now. I’m coming back to your broken little world. And when I get there, everything is going to ch",
+          "ok": true,
+          "pos": 10194
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Bethany smiles big, showing off her gums and teeth to the camera. She smashes her head into the lens, shattering the inv",
+          "ok": true,
+          "pos": 10318
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He roars and reaches his massive arm out, grabs poor Chloe Edmonds from Allen Park, Michigan, between his fingers. The D",
+          "ok": true,
+          "pos": 11995
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She catches a glimmer of Elliot Fischer in there. Father to her children, renowned scientist gifted with both brains and",
+          "ok": true,
+          "pos": 12862
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "And to Willa’s surprise, as she reaches for the red, it reaches back. It’s not just empty light. It’s more like a hand",
+          "ok": true,
+          "pos": 13625
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "And then she’s Erin again. Light and energy, joyriding the airwaves with Willa Fischer and Bethany Peters, rapidly risin",
+          "ok": true,
+          "pos": 14425
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.33
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.35
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 121,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.31
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 166,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.48
+      }
+    }
+  ],
+  "form": {
+    "h1": "77. Chapter 11（Episode Ten: Self-Titled (Public Access Afterworld)）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2588,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": "块数 11 偏离本书常见区间 4–10（本书 77 章中位 7、最高 15（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
