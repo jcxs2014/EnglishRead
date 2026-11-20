@@ -28,7 +28,7 @@ modified: "2026-11-19"
 > **原句 3:** "…has also been linked to the death of her boyfriend Abel McDowell. And that’s in addition to the two employees who lost their lives during the brutal shooting at GlobalVill’s Austin campus late Tuesday. Co-workers say the suspect had been exhibiting unstable behavior in recent months, making frequent public scenes at work. And records just acquired show a history of mental illness dating back to her teenage years when she was briefly institutionalized in a facility for—"
 **中文理解**：……她还与男友 Abel McDowell 之死有关。此外还有周二晚 GlobalVill 奥斯汀校园恶性枪案中丧生的两名员工。同事称嫌疑人近月行为不稳、多次在单位公开闹事。新获取的记录显示她有精神病史，可追溯到少女时代——当时她被短暂收治进一家……
 **关键词**：institutionalized / records just acquired
-**为什么这样写**：官方版本的组装流水线：死讯（男友+员工）→性格证词（unstable behavior）→病史档案（少女收治）——三段拼出「连环杀手」的标准像。records just acquired 的新闻腔暴露档案战的开打：ch28 埋的 Illinois 数据正式上线。句尾的破折号把「哪类机构」悬置——观众自行补完「精神病院」。
+**为什么这样写**：官方版本的组装流水线：死讯（男友+员工）→性格证词（unstable behavior）→病史档案（少女收治）——三段拼出「连环杀手」的标准像。records just acquired 的新闻腔暴露档案战的开打：ch28 的 A/B 档案战正式上线。句尾的破折号把「哪类机构」悬置——观众自行补完「精神病院」。
 **读者视角提示**：对照 ch26 的 Subject 档案：Willa 的「Willa Fischer—Subject」与 Bethany 的「records acquired」是同一份文件的两次投递——本书的档案永远跑在真相前面。
 
 > **原句 4:** "As we mourn the lives lost in this senseless tragedy, my heart goes out to everyone in our GlobalVill community. But most of all to my beloved colleagues and their families. We all just want to live in a world where everyone feels safe, and as the proud CEO of a B Corp, it makes me sick to my stomach that our trust has been so violated by this very troubled…person. I don’t know what else to say."

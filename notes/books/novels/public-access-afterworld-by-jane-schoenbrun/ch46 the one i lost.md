@@ -46,7 +46,7 @@ modified: "2026-11-19"
 > **原句 6:** "“She’s the one I lost,” Rachel says. “And David has his. But there are so many of them. A century of screens, and so many women lost.”"
 **中文理解**：「她是我失去的人，」Rachel 说。「David 也有他的。但这样的人太多了。一整个世纪的屏幕，那么多被弄丢的女人。」
 **关键词**：the one I lost / so many women lost
-**为什么这样写**：私伤与国伤的并表：她的 Willa、David 的 Erin、然后是复数——lost 的名词化让受害者成为库存分类。A century of screens 的账期把 1945 到 2024 的每一台屏幕都算成一台「发放失踪证明」的机器。这句话是全书女性名单的第一份汇总表。
+**为什么这样写**：私伤与国伤的并表：她的 Willa、David 的 Erin、然后是复数——lost 的名词化让受害者成为库存分类。A century of screens 的账期把 1945 至今的每一台屏幕都算成一台「发放失踪证明」的机器。这句话是全书女性名单的第一份汇总表。
 **读者视角提示**：对照 ch13 的「156 people」：数字终于有了性别分布（mostly women）——Rachel 的账本比 FBI 的更诚实。带着这份名单读最后两集：每一个名字都是待还的债。
 
 > **原句 7:** "The real answer is: We don’t know," David says. "Not for sure, at least. We know GlobalVill thinks it’s you. That you’re not just another crooked person for them to trap. They were trying to send you to that place, but then they panicked at the last minute and decided that actually they needed you dead before you ever reached your destination. There’s only one explanation for that—they think you’re dangerous. And I’ve heard something similar from my own sources. They’re confident that you’re the one, but they’ve been wrong before."
