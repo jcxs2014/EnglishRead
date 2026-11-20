@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch11_11.txt",
+ "facts": [
+  {
+   "fact": "她疾驰赶往 Leóne 铁匠铺抢时间——Grenault 一旦认定 Pierre 为她造银箭必杀之（连他父亲也不放过）",
+   "anchor": "before Grenault found Pierre there",
+   "start": 166,
+   "end": 200
+  },
+  {
+   "fact": "店门开着、炉火点着，里面有女人的尖叫——是 Madame Leóne",
+   "anchor": "and someone screamed inside.",
+   "start": 681,
+   "end": 709
+  },
+  {
+   "fact": "Grenault 八英尺黑狼之形，单爪持炉栅把她的箭一一挡下，还口头倒数她的余弹",
+   "anchor": "deflected  it  easily  with  the  heavy  grate",
+   "start": 1760,
+   "end": 1806
+  },
+  {
+   "fact": "Madame Leóne 拔出两根织针刺进狼背，露出惊人的凶狠，喊她快跑",
+   "anchor": "her teeth bared with shocking savagery",
+   "start": 3697,
+   "end": 3738
+  },
+  {
+   "fact": "她被 Grenault 反手拍飞撞柱，昏倒在地",
+   "anchor": "Her back struck a pillar and she crumpled to the ground, unconscious.",
+   "start": 3820,
+   "end": 3889
+  },
+  {
+   "fact": "倒数到零：最后一箭也被炉栅挡下——她彻底弹尽",
+   "anchor": "None,” he growled.",
+   "start": 6258,
+   "end": 6276
+  },
+  {
+   "fact": "他夺走她的弩随手扔掉，厚掌扣喉把她拎离地面——回到 ch05 的扼喉位置",
+   "anchor": "closed around my throat",
+   "start": 7087,
+   "end": 7110
+  },
+  {
+   "fact": "他把她钉上远墙猛撞，爪子随之入肉更深——她听着他喉音的低鸣",
+   "anchor": "ramming me",
+   "start": 7643,
+   "end": 7653
+  },
+  {
+   "fact": "结尾宣判：都结束了，小 Helena——生死悬念留给终章",
+   "anchor": "It’s over, little Helena.",
+   "start": 7811,
+   "end": 7836
+  }
+ ]
+}
