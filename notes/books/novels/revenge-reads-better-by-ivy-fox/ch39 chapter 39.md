@@ -120,7 +120,7 @@ modified: "2026-11-20"
 > **原句 9:** "“Maxine Morgan, you’re under arrest for murder.”"
 
 **中文理解**：Sienna 流泪给她戴上手铐：Maxine Morgan，你因谋杀罪被捕——Max 最后一眼把 Milo 的脸刻进记忆，两人无声交换「我爱你」口型，然后她主动伸出手腕。
-**关键词**：under arrest for murder / I hold out my wrists
+**关键词**：Maxine Morgan / under arrest for murder
 **为什么这样写**：逮捕写成「告别的仪式」——作者让 Max 不挣扎不逃跑，而是「记住他的脸」+「主动伸出手腕」：她接受被捕是对 Sienna 的最后温柔（不让她开枪/不让 Milo 挡枪）；两个「I love you」口型在无声中完成十年来的真正告白。
 **读者视角提示**：这段与 ch29 的「I love you too. I never stopped」完全对称——ch29 是重逢时的告白，ch39 是分别时的诀别；同一句话、两个世界。
 
