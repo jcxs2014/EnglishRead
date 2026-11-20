@@ -68,7 +68,7 @@ modified: "2026-11-20"
 **中文理解**：愿意的话你可以留下来跟我们一起住——但前提是别再追那些狼了。我不能让你把它们引到我们家门口。
 **关键词**：stay here / bringing them to our doorstep
 **为什么这样写**："stay here" 的邀请先给足体面，"But not" 立刻翻转成条件，最后一句才是真正的立场——收留她等于把战场请进家门；Frayne 的恐惧说的全是数学：一个女孩的命，换全家的命，他算不赢。
-**读者视角提示**：这是本书第一种"正确"的懦弱——他不坏，只是算得清；它让 Helena 后面的孤军奋战更无从指责，也更孤独。
+**读者视角提示**：这是本书第一种"正确"的懦弱——他不坏，只是算得清；它让 Helena 后面的孤军奋战更无从指责，也更孤独。她咬着下巴顶回的那句 "Someone has to."，与本章结尾的誓言是同一句话的两次落笔。
 
 > **原句 9:** "I was frightened, too. For myself and for Madame Leóne. But fear was a luxury I couldn't afford. … I had to find a way to destroy Grenault, before he destroyed me."
 

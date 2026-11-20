@@ -1,0 +1,54 @@
+{
+  "chapter": "ch02",
+  "text_file": "text/ch02_2.txt",
+  "facts": [
+    {
+      "fact": "「我」一出酒馆（La Maison）就吹哨唤来 Crimson：Crimson 人立而起，惊得闲汉 Squat 与 Moustache 后退；「我」一脚踩镫、借鞍攀上马背疾驰而去，Grenault 与其余人追出，Grenault 大手抓「我」未果、喊「我」「小姑娘」并追了上来，「我」由此确认 Grenault 身高几乎七英尺。",
+      "quote": "He really was  almost  seven  feet  tall.",
+      "start": 566,
+      "end": 607
+    },
+    {
+      "fact": "月圆之夜 Lycanthru 仍需饮下 Lycanum 才能变身：「我」回头瞥见他们掏出胸袋药瓶开塞，躲进附近树林脱掉衣服，然后以狼形展开追击。",
+      "quote": "They hurried into the shelter of the woods nearby, to discard their clothes before giving chase—as wolves.",
+      "start": 989,
+      "end": 1095
+    },
+    {
+      "fact": "七头狼全部追入树林，距「我」约五十码；月光下每头狼身长都超过六英尺、几乎与马鞍同高，其中黑狼比其余更大、领头冲在最前，正是 Grenault。",
+      "quote": "All  seven  of  the  wolves  had  entered the  woods,  their  agile  forms  darting  between  trees about fifty yards behind. Hints of moonlight poked between the trees, revealing each one to be over six feet long and nearly as tall as my saddle.",
+      "start": 1806,
+      "end": 2052
+    },
+    {
+      "fact": "「我」解下红斗篷系到缰绳上、抬臂让它随意狂舞作诱饵，随后抽脚脱镫喊「Hyah」跃下马、滚到一旁伏地不动；狼群越过山头继续追 Crimson 与飘动的红斗篷，Grenault 冲在最前、其余六头跟随。",
+      "quote": "wolves crested the hill and continued after Crimson and the flapping red cloak. The enormous Grenault charged after him first, the other six following in his wake.",
+      "start": 3035,
+      "end": 3198
+    },
+    {
+      "fact": "「我」用连发弩射出银尖弩箭：第一箭射空，第二箭也落空，第三箭直中那头回头张望之狼的头部、它当场毙命；狼群惊呼「她杀了 Thayer」。",
+      "quote": "“She killed Thayer!” another one growled.",
+      "start": 4297,
+      "end": 4338
+    },
+    {
+      "fact": "「我」又朝逼近的黑影胡乱补射两箭（未修正距离与风），清点后只剩五支弩箭，而狼还有六头。",
+      "quote": "Five bolts, and six of them.",
+      "start": 4266,
+      "end": 4294
+    },
+    {
+      "fact": "Grenault 喝令迟疑的狼群进攻：「杀了她，你们这群蠢货！她只是个女孩，仅此而已」，众狼在其驱使下向前逼近几步，「我」也上前再射。",
+      "quote": "“Kill  her,  you  fools!”  Grenault  growled.",
+      "start": 4588,
+      "end": 4633
+    },
+    {
+      "fact": "「我」又射倒冲得最近的一头狼（狼群惊呼「Gregor」）、再击倒随后扑出的一头（狼群呼「Robillet」），众狼溃散奔逃；「我」追射两箭未中、用光最后一支弩箭，仍举着空弩虚张声势逼近，Grenault 远远打量「我」许久，最终双方各自转身离去、准备来日再战。",
+      "quote": "before we both slowly turned to depart, preparing to battle another day.",
+      "start": 7416,
+      "end": 7488
+    }
+  ]
+}
