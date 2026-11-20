@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch08_8.txt",
+ "facts": [
+  {
+   "fact": "夜里她伏在 Denue 家院外的树上，Crimson 藏在灌木后，正对前门视野",
+   "anchor": "That night I sat perched in a tree beyond the",
+   "start": 12,
+   "end": 57
+  },
+  {
+   "fact": "Jacque 深夜才归、衣着脏乱，还偷了刀\"防身\"——被母亲当场喝问",
+   "anchor": "where did you get that knife?",
+   "start": 1833,
+   "end": 1862
+  },
+  {
+   "fact": "她旁听后修正判断：Denue 夫妇没有教唆儿子的恶行，只是没有拦——罪在 Jacque 本人",
+   "anchor": "They just weren’t stopping it.",
+   "start": 2543,
+   "end": 2573
+  },
+  {
+   "fact": "四头狼夜袭 Denue 家，为首的巨大一头正是 Grenault——等的就是全家入睡",
+   "anchor": "Four wolves, including a gigantic one that",
+   "start": 3018,
+   "end": 3066
+  },
+  {
+   "fact": "她趁狼翻抽屉时潜入，一弩放倒第一头（群狼惊呼 Tumier）",
+   "anchor": "dropped the first one with a single",
+   "start": 3945,
+   "end": 3986
+  },
+  {
+   "fact": "Francois 的口诀派上用场：她进退站位一只脚在后，随时机动",
+   "anchor": "one foot back to maneuver",
+   "start": 4684,
+   "end": 4713
+  },
+  {
+   "fact": "Papa 的声音在脑内响起\"不许犹豫\"——她上前直瞄 Grenault 双眼之间开火",
+   "anchor": "aimed between his eyes.",
+   "start": 6380,
+   "end": 6407
+  },
+  {
+   "fact": "混战中断了的弩带彻底脱开、弩坠地，她砸窗跳屋脱身",
+   "anchor": "tearing free of the damaged strap.",
+   "start": 6888,
+   "end": 6922
+  },
+  {
+   "fact": "结尾：Denue 一家被惊醒纷纷下床——几秒之内他们全会死",
+   "anchor": "They would all be dead in seconds.",
+   "start": 7582,
+   "end": 7616
+  }
+ ]
+}
