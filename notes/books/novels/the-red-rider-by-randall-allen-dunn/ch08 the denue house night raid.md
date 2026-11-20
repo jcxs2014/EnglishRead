@@ -85,7 +85,7 @@ modified: "2026-11-20"
 |---|---|---|
 | perched | 栖在高处 | That night I sat perched in a tree beyond the Denue family’s spacious yard, with a clear view of their front door. |
 | ajar | 半开着 | The front door stood ajar. They had splintered its edge to dig through the inside bar as quietly as possible. |
-| gravelly-gritting | 咬紧（牙关） | “She surprised him, Jareau,” Grenault said, gritting his teeth. |
+| gritting | 咬紧（牙关） | “She surprised him, Jareau,” Grenault said, gritting his teeth. |
 | bravado | 逞强、虚张的胆气 | He saw right through my bravado. But his friends remained unsure. |
 | rumpled | 皱巴巴的 | Finally I saw Jacque Denue himself shuffle toward his door, his tunic rumpled and dirty, his blond hair unkempt, his marching stride arrogant as he cast long shadows on the yard. |
 

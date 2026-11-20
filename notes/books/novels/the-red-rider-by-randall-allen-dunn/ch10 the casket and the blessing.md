@@ -101,7 +101,7 @@ modified: "2026-11-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | solemnly | 庄重地 | “She’s been missing for a few days,” he said solemnly. |
-| crammed-clutching | 紧抓 | I sat upright on my cot, clutching my heart. |
+| clutching | 紧抓、紧抱 | I sat upright on my cot, clutching my heart. |
 | skirmish | 小规模交锋 | Last night’s skirmish had not injured or frightened him. |
 | gloated | 得意洋洋 | If anything, he practically gloated. |
 | abundance | 大量、丰盛 | Wanted to know who could make bolts quickly, in abundance, and have access to silver with a facility for melting it down. |

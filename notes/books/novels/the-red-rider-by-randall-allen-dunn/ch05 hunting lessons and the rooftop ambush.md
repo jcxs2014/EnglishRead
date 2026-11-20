@@ -49,19 +49,19 @@ modified: "2026-11-20"
 **为什么这样写**："iron manacle" 把手写成刑具——不是斗殴，是行刑；"one mighty arm supporting him" 这个细节最吓人：他单手钳住她还有余力撑住全身，力量差被写成了几何关系而非数字。
 **读者视角提示**：她在扣下扳机前默念的是 "No hesitation."——童年那课救了她的出手速度，却救不了武器被夺后的力量悬殊。
 
-> **原句 6:** "“I'm going to squeeze until you suffocate,” he said. “After you pass out, I'll string you up like a piece of meat, to show the Lycanthru how fragile you really are. Then I'll kill you—slowly—in front of the entire order."
-
-**中文理解**：我要一直收紧到你窒息——你昏过去之后，我把你像块肉一样挂起来，让 Lycanthru 全体看看你有多不堪一击。然后在全体面前，慢慢杀死你。
-**关键词**：suffocate / string you up like a piece of meat / slowly
-**为什么这样写**：宣判分三步走，每一步都是仪式设计——窒息、示众、慢杀；"like a piece of meat" 呼应第 3 章小鹿的 "It was meat."，猎人与猎物的位置被 Grenault 一句话对调；"slowly" 是重点：他要的不是她的死，是组织看着她死。
-**读者视角提示**：这是政治杀人——她的死法被设计成 Grenault 的登基典礼，读者由此明白他真正的目标是 Prime 之位。
-
-> **原句 7:** "“You're nothing at all, are you?” he said. “The fearsome ‘Red Rider' is just a frightened little girl. Who's run out of tricks.”"
+> **原句 6:** "“You're nothing at all, are you?” he said. “The fearsome ‘Red Rider' is just a frightened little girl. Who's run out of tricks.”"
 
 **中文理解**：你根本什么都不是，对吧？所谓可怕的"红骑士"，不过是个吓坏了的小姑娘——花样都用光的那种。
 **关键词**：nothing at all / a frightened little girl / run out of tricks
 **为什么这样写**：三连降格——从"什么都不是"到"吓坏的小姑娘"再到"花样用光"，语言暴力与掐喉同步加压；"run out of tricks" 又一次戳中她的真实底牌（箭已尽、弩被夺），嘲讽句句踩在实处。
 **读者视角提示**：注意他说的"花样"用了复数——他记得酒馆那局，记得空弩的虚张声势；这个反派是做功课的。
+
+> **原句 7:** "“I'm going to squeeze until you suffocate,” he said. “After you pass out, I'll string you up like a piece of meat, to show the Lycanthru how fragile you really are. Then I'll kill you—slowly—in front of the entire order."
+
+**中文理解**：我要一直收紧到你窒息——你昏过去之后，我把你像块肉一样挂起来，让 Lycanthru 全体看看你有多不堪一击。然后在全体面前，慢慢杀死你。
+**关键词**：suffocate / string you up like a piece of meat / slowly
+**为什么这样写**：宣判分三步走，每一步都是仪式设计——窒息、示众、慢杀；"like a piece of meat" 呼应第 3 章小鹿的 "It was meat."，猎人与猎物的位置被 Grenault 一句话对调；"slowly" 是重点：他要的不是她的死，是组织看着她死。
+**读者视角提示**：这是政治杀人——她的死法被设计成 Grenault 的登基典礼，读者由此明白他真正的目标是 Prime 之位。
 
 > **原句 8:** "“Just dealing with a troublesome animal,” he said. “Nothing to worry about. I'll handle it.”"
 
