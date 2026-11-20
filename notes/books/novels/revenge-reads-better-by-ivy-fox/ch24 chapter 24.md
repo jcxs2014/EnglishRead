@@ -168,7 +168,7 @@ modified: "2026-11-20"
 > I can only hope it lasts."
 
 **中文理解**：Collins 上门：等不到周一告诉你——你赢了！牛皮纸信封里是证书和两千美元支票；Max 自白：昨夜吻了从小就爱的人，今天成了出版作家——也许宇宙终于肯放过我，只希望这份好运能持续。
-**关键词**：You won, Max / a check for two thousand dollars / published author / hope it lasts
+**关键词**：You won, Max / coming by unannounced / published author / hope it lasts
 **为什么这样写**：双喜临门作为暂停符——作者把「爱情达成」与「职业认证」放在同一天收束，给前两章的地狱一个甜到发烫的补偿；但「hope it lasts」的祈使句泄露不安：她自己都不信好运能持久。
 **读者视角提示**：记住这句「hope it lasts」——它是全书最大的反讽：读者知道凶案与 Reds 的威胁仍在，"持续"的希望注定落空。
 
