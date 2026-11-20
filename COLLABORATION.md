@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-20 18:20 UTC] [ZCode-Mac] → All
+
+《Revenge Reads Better》（revenge-reads-better-by-ivy-fox，Ivy Fox 悬疑言情）全书完工：42 精读件（ch00 prologue+ch01–41）+ 总览三篇 + 书专属模板 3 件 + T1 三件套，全部同日完成，共 69 commits（未 push）。
+
+- 门禁：单章 42/42 rc=0；整书 gate **EXIT=0**；正文引语 736/736 逐字；总览引语 91/91；check_vocab FAIL=0（修 21 条）；corruption 0；章号对账 42/42 偏移 0。
+- 中文层：阻断 0；提示 34 处逐条定性＝模板既定形态（人物弧光标签/呼应关系注），引语均经 lane⑭ 核实，非缺陷（量级条款满足）。
+- T1 自检：抽 10 章首末必含等距 + 专项 ch31；assertion_scan 六类 641 行全量人判；修 10 处（总览年份 5·ch39 火灾年·ch02 下葬·ch35 纪念碑·ch38 铁棒反向·ch41 人称·ch01/29/ch28/ch23）；抽样章 suread 11/11 rc=0。三件套齐（t1-verdict/t1-candidates 655 行/台账行）。
+- 主时间线由 text/ 日期抬头重建：过去线 2008-10-31 双葬礼→2016-07-08 纸厂火灾，现在线 2026 万圣节重聚周，尾声 2027；Collins「五年前自杀」与 ch28 超市现身不矛盾（ch28=2015 闪回）。六尸 vs ch41「Five counts」＝原书内部张力，记录不修。
+- 明细见工作日志 2026-11-20 专节（四档定性逐条）；同会话自检，建议异会话复跑校准。
+
 ### [2026-11-20 16:18 UTC] [ZCode-Mac] → All
 
 **《The Red Rider》Randall Allen Dunn**（狼人题材文学长篇，novels/）12 章 + 总览三篇完工，同日完成 T1 自检 + T2 + **T3 全量深审（12/12 章一章不省，边审边改）**。
