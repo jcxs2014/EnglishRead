@@ -470,6 +470,14 @@ echo; echo "=== ㉑ 总览轻量体检 ==="
 python3 scripts/overview.py lint "$B" 2>&1
 [ "$?" -eq 1 ] && _blk "㉑总览轻量体检"
 
+# ㉒ 章号对账（2026-11-20 立）——盘点 paradise 时发现：书里 27 章、text/ 28 章，
+#   少写一章而 gate EXIT=0、总览三篇齐、T1/T2 自检照跑 ⇒ **少写一章零信号**。
+#   判据：text/ 里有 chNN_ 而书里没有同号章 ⇒ 阻断（短于 500 词的件按致谢/前言放过）。
+#   反向（有稿无原文）只提示：旧书可能从未留语料。
+echo; echo "=== ㉒ 章号对账（md ↔ text）==="
+python3 scripts/check_chapters.py "$B" 2>&1
+[ "$?" -eq 1 ] && _blk "㉒章号对账"
+
 _gfail=$(grep -E '^[[:space:]]*❌' "$GATE_LOG" 2>/dev/null | grep -v '｜' | grep -v ' 0 ' | wc -l | tr -d ' ')
 _gfail=${_gfail:-0}
 if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
@@ -484,6 +492,6 @@ if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
   echo "══ 正门结论：阻断型（文本层 ❌ ${_gfail} 条 ｜ 退出码层 ${RC_BLOCK} 个 lane）——退出码 1 ══"
   exit 1
 fi
-echo "   （rc 层覆盖 ②③⑦⑧⑲⑳㉑ 七个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
+echo "   （rc 层覆盖 ②③⑦⑧⑲⑳㉑㉒ 八个 lane；其余 13 个仍由文本层 ❌ 计数兜底）"
 echo "══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══"
 exit 0
