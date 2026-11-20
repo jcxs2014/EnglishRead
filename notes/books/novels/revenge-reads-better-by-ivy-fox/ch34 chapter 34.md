@@ -23,7 +23,7 @@ modified: "2026-11-20"
 
 **中文理解**：课堂上 Milo 玩她的头发，她口型让他「停」，他口型回「Never」——她认定：我要杀了我男朋友。
 **关键词**：Stop / Never / going to kill my boyfriend
-**为什么这样写**：口型对话的私密甜——作者让「Stop/Never」两个词承担整个秘密恋爱的张力：在 30 个同学眼皮底下只能用唇语；「kill my boyfriend」把宠爱写成假装的凶——甜蜜的反写。
+**为什么这样写**：口型对话的私密甜——作者让「Stop/Never」两个词承担整个秘密恋爱的张力：在满教室同学的眼皮底下只能用唇语；「kill my boyfriend」把宠爱写成假装的凶——甜蜜的反写。
 **读者视角提示**：记住「Never」——它预演章尾的「公开」：在小事上他说 never，在大事（公开）上她也学会说 never。
 
 > **原句 2:** "Although, now that I think about it, I really shouldn’t be surprised that Dylan knows about us. He’s Milo’s best friend, for heaven’s sake."
