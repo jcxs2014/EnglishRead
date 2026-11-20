@@ -40,8 +40,8 @@ modified: "2026-11-20"
 
 **中文理解**：Peyton 最不想让继弟看见真实的自己——知道她如此在意 Milo 怎么看她，让 Max 反胃。
 **关键词**：see her for who she really is / how desperately she cares / makes my stomach turn
-**为什么这样写**：反派的软肋被poised 出来——作者让 Peyton 对 Milo 的在乎成为她唯一的破绽；Max 的「反胃」是因为她看穿：这份「在乎」本质是占有而非爱，与 ch15 的「ghost/competition」连成一条线。
-**读者视角提示**：Peyton 的动机清单又添一条「维护在 Milo 面前的形象」——她的每次施暴都有 imaging 管理的成分。
+**为什么这样写**：反派的软肋被亮出来——作者让 Peyton 对 Milo 的在乎成为她唯一的破绽；Max 的「反胃」是因为她看穿：这份「在乎」本质是占有而非爱，与 ch15 的「ghost/competition」连成一条线。
+**读者视角提示**：Peyton 的动机清单又添一条「维护在 Milo 面前的形象」——她的每次施暴都有形象管理的成分。
 
 > **原句 4:** "A shiver runs down my spine at the thought of who she could be texting, but I do my best not to show it. The Cushmans have always been kind to me. It would break their hearts to learn what their daughter is truly like."
 
@@ -141,7 +141,7 @@ modified: "2026-11-20"
 **中文理解**：清晨他说：因为我因为什么事在想，最后总会绕回你——她因他 voice 里的真诚心跳漏了一拍。
 **关键词**：no matter what’s on my mind / always comes back to you / sincerity
 **为什么这样写**：简单的告白最有重量——作者用「always comes back to you」给 Milo 的爱情观下定义：不是轰烈，是万有引力；「sincerity」是 Max 被击中的真正原因——她太习惯谎言，以至于真诚本身成了奢侈品。
-**读者视角提示**：这句「总是绕回你」与 ch15「It was always him」互为镜像：两个人都承认对方是自己思绪的引力中心。
+**读者视角提示**：这句「总是绕回你」与 ch07「It was always him」互为镜像：两个人都承认对方是自己思绪的引力中心。
 
 > **原句 14:** "“Why is my truck parked at Max’s?”"
 >

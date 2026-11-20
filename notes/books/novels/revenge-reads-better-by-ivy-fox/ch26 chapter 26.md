@@ -123,7 +123,7 @@ modified: "2026-11-20"
 **中文理解**：这从来不完全关于我——是关于 Milo，一直都是；Peyton 受不了他身上有一块永远属于我。
 **关键词**：never really been about me / always been about Milo / will always belong to me
 **为什么这样写**：动机的最终定性——作者让 Max 跳出「受害者视角」，看清自己是棋子：Peyton 的恨源于对 Milo 的占有欲；「a part of him will always belong to me」既是她的信念也是她的软肋。
-**读者视角提示**：这句「always been about Milo」与 ch15 的「It was always him」形成双重回响——Milo 既是她的救赎也是她所有苦难的引信。
+**读者视角提示**：这句「always been about Milo」与 ch07 的「It was always him」形成双重回响——Milo 既是她的救赎也是她所有苦难的引信。
 
 > **原句 11:** "And after what she’s done to Mr. Collins, I can’t even pretend I’m the only person who might get hurt anymore.
 >

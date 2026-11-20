@@ -31,7 +31,7 @@ modified: "2026-11-20"
 **中文理解**：她爬到他那侧床头细看——她的「玩具」全摆在那里、毫无遮掩；她由此想到真正的问题：她一直在眼前的男人身上找十年前的男孩，可真相是，她根本不认识现在的 Milo Fletcher。
 **关键词**：My toys. All of them / on full fucking display / no idea who Milo Fletcher is anymore
 **为什么这样写**：私密物品成为身份陌生的触发器——作者用「抽屉敞开」的尴尬转出全书最清醒的自问：她把「旧人」投射到「新知」身上；「no idea who」是 ROM 甜梦下第一道真实裂缝。
-**读者视角提示**：这句自白是 T1 审查级的关键断言——它与 ch15「It was always him」并存：她既说「一直都是他」，又说「根本不认识他」；两者都是她的真话，这正是她的困境。
+**读者视角提示**：这句自白是 T1 审查级的关键断言——它与 ch23 的「It has always been you」并存：她既说「一直都是你」，又说「根本不认识他」；两者都是她的真话，这正是她的困境。
 
 > **原句 3:** "It’s almost like I don’t want to know. I just… I just want to pretend we’re still us. The same Max and Milo we were before everything went to shit.
 >
@@ -93,7 +93,7 @@ modified: "2026-11-20"
 
 **中文理解**：Sienna 冷冷说：死亡不改写历史；Max 心想：被谋杀不会让一个人奇迹般变好——只会让他们死。
 **关键词**：Death doesn’t rewrite history / magically make someone a better person / just makes them dead
-**为什么这样写**：受害者叙事的去浪漫化——作者让两人各自说出一模一样的冷酷真理：哀悼不该自动洗白逝者；这是全书对「Reds 之死」的态度底座，也是最 erotically  uncomfortable 的道德立场。
+**为什么这样写**：受害者叙事的去浪漫化——作者让两人各自说出一模一样的冷酷真理：哀悼不该自动洗白逝者；这是全书对「Reds 之死」的态度底座，也是最令人不适的道德立场。
 **读者视角提示**：这句断言在 T1 审查时须核对：它与 ch17「I'd rather not...」的 Max 态度一致（她不为霸凌者掉泪），前后自洽。
 
 > **原句 9:** "I should tell her that I saw Amber yesterday. That she forced me into her car and then left me stranded on the side of the road.

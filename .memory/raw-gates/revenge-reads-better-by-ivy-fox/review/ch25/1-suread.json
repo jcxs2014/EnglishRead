@@ -1,0 +1,50 @@
+[
+ {
+  "fact": "周四早晨 Max 醒来发现同床的 Milo 已经离开。",
+  "anchor": "Milo’s gone.",
+  "start": 195,
+  "end": 207
+ },
+ {
+  "fact": "Max 发现床头柜顶层抽屉敞开、自己的玩具全被翻在外面，认定 Milo 动过她的东西。",
+  "anchor": "My toys. All of them.",
+  "start": 868,
+  "end": 889
+ },
+ {
+  "fact": "Max 自省一直拿十年前认识的男孩套如今的 Milo，再过三天她就要回家、而 Milo 会留在 Fairhope。",
+  "anchor": "the boy I knew ten years ago",
+  "start": 1896,
+  "end": 1924
+ },
+ {
+  "fact": "早餐时宾客称赞 Max（Ms. Usher）昨晚的朗读、有人已把买下的书读到三章，这场朗读本为留住 Mrs. Trott 的客人、免得 Alder B&B 被改叫 Murder Inn。",
+  "anchor": "Wonderful reading last night",
+  "start": 3339,
+  "end": 3367
+ },
+ {
+  "fact": "闺蜜 Sienna 转达警长 Chief Neptune 的消息：Reunion Killer 又作案，昔日同学（Red）Amber 昨天遇害、是四天内第四名死者，Max 纠正说已过五天且周二没人被杀。",
+  "anchor": "four victims in as many days",
+  "start": 6155,
+  "end": 6183
+ },
+ {
+  "fact": "Amber 被发现死在路边，有人把她诱到树前、用她自己的车把她夹死在引擎盖与树干之间。",
+  "anchor": "pinned against a tree",
+  "start": 6680,
+  "end": 6701
+ },
+ {
+  "fact": "Chief Neptune 的嫌疑人名单上有 Max 的名字；Sienna 计划借今天 Sydney 的葬礼（她四天前死，父母不愿拖延，Sienna 疑心 Peyton 为周六晚同学会派对催快下葬）抓出会来观战的凶手。",
+  "anchor": "list of possible suspects",
+  "start": 9657,
+  "end": 9682
+ },
+ {
+  "fact": "Sienna 点出她认定的凶手名字：她和 Max 都认识的 Mr. Collins，并断言他今天会出现在葬礼上。",
+  "anchor": "Mr. Collins.",
+  "start": 12278,
+  "end": 12290
+ }
+]
