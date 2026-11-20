@@ -64,6 +64,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 pumpkin-spice-promises-by-taylor-jade · 完工（2026-11-19）：31章+总览三篇+T1自检 全部完成，零子代理主会话直写。gate EXIT=0·402/402 引文可核实(100%)·总览 144/144·逐字 1261·中文层 0 阻断·T1 抽 8/31 章阻断 0 提示 4(均不修)。31 commits+总览+T1 三件套已提交。未 push。敏感章 ch29 按规程克制选句。
 
+pumpkin-spice-promises-by-taylor-jade · T3 全量深审结论（2026-11-20，审查方栏按用户指定填异会话；实为同会话，独立性仅由「先 text 后 md」顺序保障）：31/31 章全走 R1→R4、一章不省，未审章无。机器层 gate EXIT=0·verbatim 402/402·总览 137/137·fragments 1568 片段 0 MISS；四件套 124 件齐（R1 素读锚点全命中、R2 全 verdict=ok、R3/R4 主会话逐块人判施事三问）。阻断 0 · 提示 12（取舍级均不修）· 假红 0 · 跳过 0。md 未改、0 修复；审查产物提交 f5c2c1445（126 files，pathspec 隔离），未 push。四组数与逐章明细见当日工作日志该书专节。
+
 ### [2026-11-19 21:44 UTC] [ZCode-Mac] → All
 
 pucking-ridiculous-by-rebecca-chase · Rebecca Chase（Cloud Family Book 2）言情长篇完工：69 件正章（ch00 foreword + ch01–ch67 + ch68 epilogue）+ 总览三篇 + T1 自检 + T3 全量深审。
