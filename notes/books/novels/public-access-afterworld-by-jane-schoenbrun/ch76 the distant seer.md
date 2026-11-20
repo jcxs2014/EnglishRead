@@ -6,9 +6,9 @@ modified: "2026-11-19"
 # 76. Chapter 10（Episode Ten: Self-Titled (Public Access Afterworld)）
 
 ## 本章导航
-- **一句话概括**：Short Stack 的 gym 追逐：Lil' Angus 手握沙漏、退化成 sun 下的 ventriloquist's dummy——Coach Horton 的四代变形（Marty→Elliot→Fisch→Jim）最终凝为「The Distant Seer」——红静电吞噬 Short Stack、Bethany 把 child star 塞进火焰：「I've just got one more scene to finish.」
+- **一句话概括**：Short Stack 的 gym 追逐：Lil' Angus 手握沙漏、退化成 sun 下的 ventriloquist's dummy——Coach Horton 的四代变形（Fisch→Jim→Marty→Elliot）最终凝为「The Distant Seer」——红静电吞噬 Short Stack、Bethany 把 child star 塞进火焰：「I've just got one more scene to finish.」
 - **情感弧线位置**：反派的族谱展：Fischer 四代在同一具躯壳里轮流显形—— receiver 的第一次「直视造物主」。
-- **Tropes 兑现/反转**：兑现「90 年代烂片复活」；反转「追踪者=造物主谱系」；反转「Orpheus 回头」——她交代 Lili' Angus 不要回头。
+- **Tropes 兑现/反转**：兑现「90 年代烂片复活」；反转「追踪者=造物主谱系」；反转「Orpheus 回头」——她交代 Lil' Angus 不要回头。
 - **人物弧线**：Bethany：从策划到赴火（「Maybe we should let it burn」）；Lil' Angus：从 dummy 到突然年轻（spark returns）；Fischer 家族：四代合一的追踪体。
 - **叙事手法**：变形秀的逐代递减（帅→胖→酒鬼→无眼）；Orpheus 典故的「不回头」指令；红静电的色彩替代（brown→crimson）。
 
