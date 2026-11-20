@@ -96,25 +96,19 @@ modified: "2026-11-20"
 **为什么这样写**：空床底作为身份剥夺的物证——作者让「地毯和空气」取代具体的损失清单：被偷的不是纸，是她十年的自我记录；「splits in two」预示后文「spirit 未碎/heart 碎」的分裂判断。
 **读者视角提示**：记住「even the box」——连容器都消失，说明是有预谋的整包搬走，不是临时起意。
 
-> **原句 9:** "“No?” She cocks a brow. "Not even a party Milo will be at?”
->
->
-> "I’m taking you to a party.” She says it with a smile so wide I finally understand Sienna’s problem with them."
+> **原句 9:** "“No?” She cocks a brow. "Not even a party Milo will be at?”"
 
-**中文理解**：Misty 挑眉：连有 Milo 的派对也不去？——她笑得极宽：我是带你去派对；Max 终于懂了 Sienna 为什么看不惯那种笑。
-**关键词**：Not even a party Milo will be at / a smile so wide / understand Sienna’s problem
-**为什么这样写**：诱饵用「他」下坠——作者让 Misty 精准使用 Max 的软肋（Milo）作敲门砖；「so wide」的笑从接受的善意翻转成操控的假面，Sienna 的警惕此刻得到印证。
-**读者视角提示**：Misty 对 Max 的软肋（Milo/写作）了如指掌——这份「懂」本身就是证据：这不是疏远的朋友该有的情报量。
+**中文理解**：Misty 挑眉：连有 Milo 的派对也不去？——精准点中 Max 的软肋。
+**关键词**：Not even a party / Milo will be at / cocks a brow
+**为什么这样写**：诱饵用「他」下坠——作者让 Misty 精准使用 Max 的软肋（Milo）作敲门砖；一个反问把「不去」变成「不去就是亏」。
+**读者视角提示**：Misty 对 Max 的软肋了如指掌——这份「懂」本身就是证据：疏远的朋友不该有这种情报量。
 
-> **原句 10:** "Something inside me cracks. My best friend didn’t bring me to a party. She delivered me into an ambush.
->
->
-> "Guess who’s here, bitches!” she shouts gleefully, dancing her way toward the bonfire before stealing Brooke’s drink straight out of her hand."
+> **原句 10:** "Something inside me cracks. My best friend didn’t bring me to a party. She delivered me into an ambush."
 
-**中文理解**：林间空地，Reds 全在——Max 体内有什么裂开：最好的朋友不是带她来派对，是把她送进埋伏；Misty 欢叫「你们猜谁来啦」冲向篝火，顺手抢过 Brooke 的杯子。
-**关键词**：delivered me into an ambush / Guess who’s here / stealing Brooke’s drink
-**为什么这样写**：背叛以「礼物」的话术交付——作者让 Misty 用「present（礼物）」「guess who」把受害者当猎物展示；「ambush（埋伏）」一词把派对定性为军事行动。
-**读者视角提示**：记住「ambush」——这是全书对 Reds 行为最准的定性：她们不单挑，只设局。
+**中文理解**：林间空地，Reds 全在——Max 体内有什么裂开：最好的朋友不是带她来派对，是把她送进埋伏。
+**关键词**：Something inside me cracks / didn’t bring me to a party / delivered me into an ambush
+**为什么这样写**：背叛以「礼物」的话术交付——「ambush（埋伏）」把派对定性为军事行动：她以为来的是朋友，实际走进猎手的包围圈。
+**读者视角提示**：记住「ambush」——这是全书对 Reds 最准的定性：她们不单挑，只设局。（Misty 冲向篝火时欢叫「你们猜谁来啦」，把受害者当猎物展示。）
 
 > **原句 11:** "As I struggle under her hold, I catch sight of a red string tied around Kayla’s wrist. My struggles falter the second I see it.
 >
