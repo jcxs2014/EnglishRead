@@ -1,0 +1,327 @@
+{
+  "chapter": 48,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch48 the laundromat.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch48_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Bethany knows that leaving is probably a dumb idea, likely akin to suicide. That just as David warned her, it would only",
+          "ok": true,
+          "pos": 229
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It’s her. She’s doing this. Her “receiver-ness.” Man, she thinks. What an appropriately crummy superpower. She’s gained ",
+          "ok": true,
+          "pos": 3230
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "has also been linked to the death of her boyfriend Abel McDowell. And that’s in addition to the two employees who lost t",
+          "ok": true,
+          "pos": 4181
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "As we mourn the lives lost in this senseless tragedy, my heart goes out to everyone in our GlobalVill community. But mos",
+          "ok": true,
+          "pos": 5523
+        },
+        {
+          "text": "person. I don’t know what else to say",
+          "ok": true,
+          "pos": 5883
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Lily is dead. Sweet Lily who’d reached out to Bethany a decade ago over the internet after watching one of her pre-trans",
+          "ok": true,
+          "pos": 6843
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "No. The actual reason she’s going to play along with David’s mission is because it’s the one option left available to he",
+          "ok": true,
+          "pos": 8335
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Oh my lord,” her mom says. “Honey. Thank god. Are you okay?” Even in crisis, Bethany notes how skillfully her mom manag",
+          "ok": true,
+          "pos": 8802
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I’m not scared,” Bethany tells the phone. \"I want you to know I'm okay. I'm not crazy, and I'm not scared, and I'm not ",
+          "ok": true,
+          "pos": 10701
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "But for now—for a little while longer—it's just Jules and Bethany, lying in the gravel. Broken but together, holding eac",
+          "ok": true,
+          "pos": 15243
+        }
+      ],
+      "words": 21
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.33
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.5
+      }
+    }
+  ],
+  "form": {
+    "h1": "48. Chapter 8（Episode Seven: Detox）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2771,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
