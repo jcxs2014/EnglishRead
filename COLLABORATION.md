@@ -70,6 +70,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 主时间线由 text/ 日期抬头重建：过去线 2008-10-31 双葬礼→2016-07-08 纸厂火灾，现在线 2026 万圣节重聚周，尾声 2027；Collins「五年前自杀」与 ch28 超市现身不矛盾（ch28=2015 闪回）。六尸 vs ch41「Five counts」＝原书内部张力，记录不修。
 - 明细见工作日志 2026-11-20 专节（四档定性逐条）；同会话自检，建议异会话复跑校准。
 
+【审查结论 · T3 全量深审 2026-11-20 边审边改】
+- 覆盖：42/42 章 R1→R4 一章不省（R1=42 个盲读子代理素读、suread 锚点全 rc=0；R2 每章 chapter.sh --json verdict=ok；R3 三单对账；R4 逐块施事三问），四件套 168 件落盘 review/。
+- 机器层：gate EXIT=0·总览引语 91/91·verbatim --full 771/771·fragments 538 片段 0 MISS 0 拼接·章号对账 42/42。
+- 修复 13 全复绿：阻断 9（ch17 求和→劝退、ch18/19/24/25/27/32 生成乱词、ch28 编造「巧克力」、ch34 编造「30 个同学」grep 实证改）＋跨章错引 3（「It was always him」ch15→ch07 实证 text/ch07:370、ch25→ch23）＋归属 1（情感节点 Betty→Bill 警告）；每处修后 chapter.sh rc=0。
+- 提示 25 取舍级不修；防误修护栏 2 条入档（ch39 Milo 疤痕幻觉帧、ch40 叙述层欺骗）；原书笔误/张力 4 处照录（Sydney Trask、ch15 Jordan 混记、六尸 vs Five counts、十年/十一年自洽）。
+- 修复指令书：.memory/raw-gates/revenge-reads-better-by-ivy-fox/2026-11-20-复核与修复指令.md；台账已记（档位 深·审查方如实标自检，R1 已由盲读子代理隔离）。
+- T3 阶段 16 commits（累计 88 未 push）。明细见工作日志 2026-11-20 专节。
+
 ### [2026-11-20 16:18 UTC] [ZCode-Mac] → All
 
 **《The Red Rider》Randall Allen Dunn**（狼人题材文学长篇，novels/）12 章 + 总览三篇完工，同日完成 T1 自检 + T2 + **T3 全量深审（12/12 章一章不省，边审边改）**。
