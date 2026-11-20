@@ -23,10 +23,10 @@ modified: "2026-11-20"
 **为什么这样写**：离开的宣言以「打包日常」发布——作者让「done with」的双关（做完/了断）贯穿全章：done with packing→done with Fairhope→done with the Reds；父亲的不满被一笔带过，因为真正的风暴（Peyton）马上降临。
 **读者视角提示**：记住「nothing left to offer」——它回响 ch28「a small town filled with small-minded people」；Fairhope 从「家园」变为「空壳」是全书空间叙事的终点。
 
-> **原句 2:** "“The last one up checks the door!”"
+> **原句 2:** "“Fucking Kimball locked us out on the roof!”"
 >
 >
-> "“Fucking Kimball locked us out on the roof!”"
+> "“The last one up checks the door!”"
 
 **中文理解**：纸厂告别派对上，Dylan 把屋顶门锁死、众人在上——Kody 喊「最后上来的人去检查门」；「是 Kimball 把我们锁在屋顶上了」。
 **关键词**：last one up / checks the door / locked us out on the roof
@@ -34,13 +34,10 @@ modified: "2026-11-20"
 **读者视角提示**：记住「locked us out on the roof」——它解释了为何 Kody 等人困死屋顶；这不是疏忽，是「被锁死的物理现实」+ 无人监管的纸厂。
 
 > **原句 3:** "Guess I got carried away and lit more than a few."
->
->
-> "“She doesn’t deserve you, Milo. She never has. And if you think I’m just going to stand by and watch her take you away from me, you don’t know me at all.”"
 
-**中文理解**：Peyton 承认纵火「我玩过头点了好几处」，又对 Milo 咆哮：「她不配你——如果你以为我会袖手旁观看她把你夺走，你根本不了解我。」
-**关键词**：got carried away and lit more than a few / doesn’t deserve you / watch her take you away from me
-**为什么这样写**：恶的动机与规模同时揭晓——作者让 Peyton 承认「多点纵火」（不是意外扩大）且把 Milo 视为「被 Max 夺走的财产」：这不是嫉妒，是所有权幻觉；「carried away（玩过头）」的轻描淡写是全书最触目的轻描淡写。
+**中文理解**：Peyton 笑着承认纵火：「我玩过头点了好几处」——轻描淡写的一句话暴露她根本没有意识到屋顶上有人。（随后她才对 Milo 咆哮「她不配你」。）
+**关键词**：Guess I got carried away / lit more than a few
+**为什么这样写**：恶的规模在轻描淡写中揭晓——「carried away（玩过头）」的措辞让纵火听起来像一场闹剧的失误，而非致命的犯罪；这就是自恋者的暴力语法：毁灭永远是「不小心」。
 **读者视角提示**：这段与 ch29「I know you're behind everything」呼应——Peyton 的恶从校园霸凌到纵火杀人是同一个逻辑的极端化：不服从=毁灭。
 
 > **原句 4:** "“Take me away from you?” Milo repeats incredulously. “Don’t you get it?! I’m not yours to take! I never fucking was!""
