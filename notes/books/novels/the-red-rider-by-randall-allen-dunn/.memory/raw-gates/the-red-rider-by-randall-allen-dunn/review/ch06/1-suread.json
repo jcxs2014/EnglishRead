@@ -1,0 +1,54 @@
+{
+  "chapter": "ch06",
+  "text_file": "text/ch06_6.txt",
+  "facts": [
+    {
+      "fact": "噩梦回忆：当年 8 岁、与“我”同龄的金发男孩 Jacque Denue 和他的三个朋友把“我”按在泥地里围殴，其中一击打穿“我”的腹部、陷入裂开的肋骨之间，血从伤口渗出。",
+      "quote": "pinned by Jacque Denue and his three friends,  all  pummeling  my  every  limb.  Until  one  of their  blows  had  punctured  my  gut,  sinking  deep between my cracked ribs.",
+      "start": 236,
+      "end": 410
+    },
+    {
+      "fact": "“我”从噩梦中坐起身，Mama 和 Papa 都没有被惊动，说明这次“我”大概没有尖叫——“我”推测只有梦见狼的夜晚才会尖叫。",
+      "quote": "Mama and Papa had not stirred, so  I  must  not  have  screamed.",
+      "start": 949,
+      "end": 1013
+    },
+    {
+      "fact": "挨打三个月后走路仍会疼，但“我”已不再蹒跚；那天早上“我”踏雪绕到 Francois 的棚屋旁喊他，说想再上一节打架课——院子里有些地方的雪没过“我”的膝盖。",
+      "quote": "It still hurt to walk, after the beating I had taken three months  earlier,  but  I  no  longer  hobbled.",
+      "start": 1861,
+      "end": 1966
+    },
+    {
+      "fact": "Francois 要“我”保证不去找 Jacque 或其他男孩挑起打斗，“我”答应了；他还说“我”要是继续来，就得再想一个更好的说法向“我”父母交代（他能让一个小姑娘帮忙的杂活也就那么多）。",
+      "quote": "Promise me you won’t go after them, starting a fight.",
+      "start": 4345,
+      "end": 4398
+    },
+    {
+      "fact": "打架课：Francois 在桌上摆出石头、大棍和绳子让“我”挑一样当武器，“我”选了石头；他用树枝慢速挥向“我”、移动“我”手里的石头去格挡，还教“我”对方挥拳就用石头砸断他的手指；“我”说不想把他们伤得那么重。",
+      "quote": "Break his fingers.",
+      "start": 7915,
+      "end": 7933
+    },
+    {
+      "fact": "Francois 突然朝“我”扑过来，“我”尖叫着跌坐进雪里；他说这是故意的、就像那些霸凌者想吓唬“我”那样，教“我”不要表现出害怕、不要哭；“我”起身说自己不再哭了。",
+      "quote": "I screamed, falling into the snow on my behind.",
+      "start": 9053,
+      "end": 9100
+    },
+    {
+      "fact": "Papa 提着狩猎火枪突然出现在谷仓门口，问 Helena 到底在帮他做什么杂活；Francois 说 Helena 在帮他砸骚扰马匹的蜗牛，Papa 说了句“冬季蜗牛总是个问题”，随后让 Helena 跟他回家帮 Mama。",
+      "quote": "Helena was hammering a few for me.",
+      "start": 16040,
+      "end": 16074
+    },
+    {
+      "fact": "回到当下：昨晚“我”面对自己遇过的最危险的 Lycanthru Grenault，却吓得屈服，躲在 La Maison de Touraine 对面的屋顶上，没有像对其余被“我”猎杀过的 Lycanthru 那样追击；睡梦反复出现 Grenault 冲过弩箭、掐住“我”的喉咙，把“我”做成献给 Lycanthru 的战利品——若 Grenault 教会其他 Lycanthru 这样看“我”，他们就再也不会怕“我”，那“我”就会死。",
+      "quote": "I let him frighten me into  submission. I had  cowered, hiding from sight on the rooftop across from La Maison de Touraine.",
+      "start": 18665,
+      "end": 18788
+    }
+  ]
+}

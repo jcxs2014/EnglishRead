@@ -47,7 +47,7 @@ modified: "2026-11-20"
 **中文理解**：踢膝盖、踩脚趾，怎么让他倒下就怎么来。然后趁他抱着痛脚的时候，抓起另一根棍子或石头砸他的脸，把他彻底放倒。
 **关键词**：Kick the knees / stomp on the toes / smash his face
 **为什么这样写**：以小博大的全案只有三步——拆下肢、等破绽、补终结，每步都把体格差换算成时间差；"Whatever you can do" 授权不讲武德，孩子们的世界没有规则，Francois 先把这条讲透。
-**读者视角提示**：这套打法她后来原样用在狼身上——第 2 章的雪地伏击正是"让他倒下，再补一箭"的放大版。
+**读者视角提示**：这套以小博大的思路后来被她带上了对狼的战场——第 2 章的月夜围猎里，冲锋的狼一头接一头被她单箭放倒。
 
 > **原句 6:** "Uh, smashing some snails. They've been getting into the barn everywhere, pestering the horses. Helena was hammering a few for me."
 
