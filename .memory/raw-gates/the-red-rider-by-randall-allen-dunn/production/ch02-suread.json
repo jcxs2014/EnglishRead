@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch02_2.txt",
+ "facts": [
+  {
+   "fact": "她出酒馆即吹哨唤 Crimson 上马，Grenault 一伙紧跟着涌出酒馆追击",
+   "anchor": "as Grenault and the others poured out of La Maison",
+   "start": 309,
+   "end": 359
+  },
+  {
+   "fact": "满月之夜狼人仍须喝 Lycanum 药水才能变形，他们躲进树林脱衣灌药——变形有条件、有时间差",
+   "anchor": "they still had to drink their filthy Lycanum to transform",
+   "start": 762,
+   "end": 822
+  },
+  {
+   "fact": "她解下红斗篷系在缰绳上扬起挥舞，用斗篷当诱饵分走狼群注意力",
+   "anchor": "I secured it to the reins and raised my forearm to block it",
+   "start": 2345,
+   "end": 2406
+  },
+  {
+   "fact": "她喊 Hyah 跳马伏地装死，狼群果然越过山头继续追 Crimson 和飘动的红斗篷",
+   "anchor": "as the wolves crested the hill and continued after Crimson and the flapping red cloak",
+   "start": 3026,
+   "end": 3113
+  },
+  {
+   "fact": "首箭射空后她瞄头补枪，一箭命中，第一头狼当场毙命（群狼随即喊出 Thayer 的名字）",
+   "anchor": "I fired straight at his head. He fell dead in an instant.",
+   "start": 3887,
+   "end": 3946
+  },
+  {
+   "fact": "她心里打弹药账：再补两枪后只剩五箭，对六头狼，而且打完必须重新装填",
+   "anchor": "I only had five bolts left before I would have to reload.",
+   "start": 4197,
+   "end": 4263
+  },
+  {
+   "fact": "Grenault 喝令犹豫的部下杀她：她只是个女孩，没什么了不起——头狼用言语压住群体的恐惧",
+   "anchor": "She’s a girl, nothing more",
+   "start": 4637,
+   "end": 4663
+  },
+  {
+   "fact": "追逐收尾一箭打得太急、连皮都没擦到，弩彻底空了",
+   "anchor": "And I had used my last bolt.",
+   "start": 5931,
+   "end": 5959
+  },
+  {
+   "fact": "弹尽后她以空弩虚张声势，Grenault 缓慢退走还反复回望打量——仿佛知道她杀不了他",
+   "anchor": "As if he knew I couldn’t kill him.",
+   "start": 7556,
+   "end": 7590
+  }
+ ]
+}
