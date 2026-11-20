@@ -13,10 +13,10 @@ modified: "2026-11-20"
 - **叙事手法**：蛾的回归（ch32→ch40）完成全书核心意象的闭环；「spit out pills」的无声反抗是全章最短也最重的动作；「Always and forevermore」作为全书最后一句话。
 
 ## 精读
-> **原句 1:** "I spit out the pills I’d been hiding into my palm"
+> **原句 1:** "I guess when you write a book about your own murderous spree, it makes people more curious about the woman behind the stories."
 >
 >
-> "I guess when you write a book about your own murderous spree, it makes people more curious about the woman behind the stories."
+> "I spit out the pills I’d been hiding into my palm"
 
 **中文理解**：她偷偷吐掉药片、扔进玫瑰丛——读者因为「杀人犯作者」的好奇反而让 Dead Girls Don't Lie 冲上畅销榜第一。
 **关键词**：spit out the pills / murderous spree / more curious about the woman behind the stories
