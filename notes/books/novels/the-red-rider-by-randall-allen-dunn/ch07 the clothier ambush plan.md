@@ -18,7 +18,7 @@ modified: "2026-11-20"
 
 **中文理解**：她的脸颊烧起羞愧。她怎么会变得这么怕？她杀过的狼还少吗？
 **关键词**：burned with shame / How had I become so afraid
-**为什么这样写**：自审以问句完成，三个连续问句把羞愧钉在战绩上——恐惧与履历直接对账；"burned" 让羞愧有体温，比"感到"高一级，承认身体已经先她一步示弱。
+**为什么这样写**：自审以问句完成，两个连续问句把羞愧钉在战绩上——恐惧与履历直接对账；"burned" 让羞愧有体温，比"感到"高一级，承认身体已经先她一步示弱。
 **读者视角提示**：这是 ch06 结尾恐惧经济的延续——她把"怕"当成账目来清点，清算的结果是出门。
 
 > **原句 2:** "When I was seven years old, after Jacque Denue beat me half to death, Papa had taken me to Monsieur Denue's store to look for a dress. But Jacque's father shut the door on us, either too ashamed of his son or too frightened of Papa to let us in."

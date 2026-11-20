@@ -1,0 +1,134 @@
+
+=== ①相对章号：11 行 ===
+ch01 confronting grenault at the tavern.md:77 **为什么这样写**：收尾全是预判而非动作——"would follow""could tear" 两个情态动词构成纯推演，真正的厮杀被推到下一章；"march" 写的是做给满店人看的退场姿态，而"谁先动手谁赢"的生死账只有她和读者知道。先
+ch01 confronting grenault at the tavern.md:78 **读者视角提示**：她的退场不是逃，是调虎离山——把狼群从满屋子目击者中间引出去。下一章要解决的就是人数劣势。
+ch02 decoy chase and the first kill.md:57 **读者视角提示**：全章以对手的视角悬念收尾——他看穿了什么？下一章她要带着这个疑问重新武装自己。
+ch03 helena basque and madame leone.md:22 **读者视角提示**：这是上一章"Better to bluff."的延续——她赢的不是火力，是叙事：谁看起来不怕，谁就赢。
+ch03 helena basque and madame leone.md:57 **读者视角提示**：二十二支银箭是 Pierre 的答案——上一章 Grenault 喊"她只是个女孩"，而另一个男孩用整座铺子的材料把她武装成传奇。
+ch05 hunting lessons and the rooftop ambush.md:78 **读者视角提示**：本章从"她给他上课"开始、以"他给她上课"结束——上一章的胜利在这一章被连本带利讨了回去。
+ch07 the clothier ambush plan.md:71 **读者视角提示**：带着空弹药般的诚实上战场——她的优势只剩"我会出现"这一条，悬念全部押在下一章的黑暗里。
+ch08 the denue house night raid.md:13 - **叙事手法**：前半段家庭夜话（烟斗、餐具、骂声）铺垫日常，狼袭的静与快与之对切；结尾一句独立成段，把恐怖留给下一章。
+ch08 the denue house night raid.md:71 **读者视角提示**：她逃出来了，却把必死的战场留给无辜者——她的原则（"No one did."）刚立完就被人质危机打脸，下一章必须买单。
+ch09 stand up and do something.md:29 **读者视角提示**：这拳同时是自我豁免——上一章她逃了，这一章先"制造声响"再救人，恐惧被动作压在了后面。
+ch10 the casket and the blessing.md:78 **读者视角提示**：注意顺序：她先想到的是 Pierre——那个偷偷供她银箭、谎报损耗的少年铁匠；下一章的战场已经写定。
+
+=== ②绝对断言：24 行 ===
+00_金句精选.md:28 **上下文**：ch02 山野追逐，她跳马设饵后的第一次收割。
+00_金句精选.md:60 **为什么重要**：全书的恐惧经济学第一次结账——泪意被记进成本而不是宣泄出来。
+00_金句精选.md:101 **为什么重要**：她的武器库里最先失效的是名声——全书的战争形态在此定型。
+00_金句精选.md:111 **为什么重要**：白天的商铺写成诱捕器，猎物清单第一次摊开在阳光下。
+00_金句精选.md:118 **为什么重要**：带着空弹药般的诚实上战场——唯一确定的是"人在"。
+00_金句精选.md:128 **为什么重要**：全书第一次"不救场"的收尾——原则刚立完就被人质危机打脸。
+ch01 confronting grenault at the tavern.md:12 - **人物弧线**：叙述者用威慑与话术全程控场，但 Lisette 一名让她的恐惧第一次外露；Grenault 则从挑衅升级为公开宣战，宣布"新秩序"。
+ch02 decoy chase and the first kill.md:10 - **情感弧线位置**：第一次正面接战——威慑兑现成战果，但空弩的底牌也被 Grenault 第一次看穿。
+ch02 decoy chase and the first kill.md:28 **为什么这样写**："but" 一转折，把满月传说修正成本书自己的规则——变身不靠月圆，靠药水；"still drawing the vials" 的进行时写出变形的迟滞，狼人不是瞬间成形，这段时间差正是她唯一的逃脱窗口。
+ch02 decoy chase and the first kill.md:42 **为什么这样写**："straight at his head" 点明这是暗夜盲射里唯一可靠的选择——不打身体打轮廓最高的头；"in an instant" 与群狼的哀嚎相接，杀戮的安静与幸存者的嘶喊贴在一行里，战果用敌人的悲鸣来确认。
+ch03 helena basque and madame leone.md:28 **为什么这样写**：两个 "My" 开头的同位语层层加码（退路—据点—堡垒），把一个废弃地窖写成主权的宣示；"think, and plan, and rest" 三个并列动词按轻重排布，休息排在最后——对猎人来说那是最后的需要，不是最先
+ch03 helena basque and madame leone.md:49 **为什么这样写**：全书的叙述者名字借仇人之口揭晓——羞辱本身成了授名仪式；"staring down her nose" 与 "the girl who dresses like a man" 并置，Celia 攻击的正是 Helena
+ch03 helena basque and madame leone.md:50 **读者视角提示**：注意这是读者第一次听到 "Helena"——她的名字在镇上人人会念，却只被用来嘲笑。
+ch04 the nightmare and the musket.md:49 **为什么这样写**：墓穴的比喻让恐惧有了实体，"embrace that darkness" 却把应对写成主动选择——七岁梦里的逃与九岁清晨的迎，在这一句完成交接；"Yes, Papa" 是她人生的第一次应征入伍。
+ch06 francois teaches her to fight.md:21 **为什么这样写**："the same age as me" 是这段的刀锋——欺负她的不是巨人，是同龄孩子，弱小才是她当时唯一的罪名；"beating me to death" 用孩子的夸张修辞，泥水与四肢的清单却写实到底。
+ch06 francois teaches her to fight.md:22 **读者视角提示**：这是她噩梦档案里唯一一桩"人祸"（狼袭那桩在 ch04）——日后她的一切武力，都从这个泥坑里长出来。
+ch06 francois teaches her to fight.md:77 **为什么这样写**：童年课的全部口诀在这里被反向验收——"不许哭""不露怯"她全输了；"frighten me into submission" 用被动语态承认失败，猎手第一次把自己写成被猎的那个。
+ch06 francois teaches her to fight.md:84 **为什么这样写**：结尾把 ch02 "No fear" 的恐惧经济学算到终局——她的武器库（银箭、技巧、名声）里最先失效的是名声；"And then I would be dead." 五个词一句，账算完只剩结论。
+ch07 the clothier ambush plan.md:12 - **人物弧线**：她从"羞于害怕"走到"带着怕跟踪"；Grenault 从威胁升级到当众调戏，猎物的名单第一次摊开在她眼前。
+ch07 the clothier ambush plan.md:70 **为什么这样写**：句子先给结论再坦白无能——"no idea what I would do" 是全书少有的全线坦白，唯一确定的是在场；重复的 "I would be waiting" 把誓言从决心降级为承诺：哪怕没有计划，人也到场。
+ch08 the denue house night raid.md:10 - **情感弧线位置**：守夜伏击反成遭遇战——她第一次面对狼形 Grenault，装备再度报废，人质危机开场。
+ch08 the denue house night raid.md:57 **读者视角提示**：这一枪打空了——但"敢直瞄"本身就是 Francois 那句"你已赢了一半"的兑现：恐惧管理第一次顶住了。
+ch10 the casket and the blessing.md:12 - **人物弧线**：她第一次承认"需要帮助"；Father Vestille 的神学框架（主借她之手）给她的暴力找到安放处；Grenault 的狩猎升级为供应链打击。
+ch12 wolves burn.md:85 **读者视角提示**：全书在这句上合拢——ch05 她第一次说 "I stopped the bleeding" 时还是孩子，此刻她是对狼群宣战的猎人；故事结束，战争开始。
+
+=== ③年龄数字：51 行 ===
+00_情感节点.md:10 **叙事概括：** 十六岁的红斗篷猎手单骑闯进 La Maison de Touraine，在店主低声递来的情报里锁定角落的大个子——Lycanthru 新主 Luc Grenault。对方把死亡威胁讲成对红斗篷的赞美，她当众接下宣战，转身
+00_情感节点.md:46 **叙事概括：** 七岁的梦里，会说话的狼先她一步赶到外婆家，爪如银刀挥出她一生的疤；九岁的清晨，Papa 提枪站在床边，把她从噩梦里领进了打猎的森林。
+00_情感节点.md:82 **叙事概括：** 她忍着九年前被拒之门外的旧创跟进裁缝店，撞见 Grenault 以店员身份收集女性地址、当面品评 Lisette。他扬言今夜偷走地址纸条——她的守夜计划由敌人的台词直接下达。
+00_概述.md:10 **一个童话被倒过来讲。** 小红帽不再是被吃的女孩，而是提着弩的猎人：十六岁的 Helena Basque 脸上有三道狼爪抓出的疤，披着外婆缝的红斗篷，独身猎杀一个叫 Lycanthru 的狼人组织。酒馆一幕立起全书的对峙骨架——店主低声
+00_概述.md:14 **第二天，名字与软肋同时揭晓。** 镇民开始把 "Red Rider" 当传奇仰望，Celia 当街喊出她的真名（ch03）；铁匠铺里，少年 Pierre 偷偷为她淬了二十二支银箭、对父亲谎报损耗；而真正的炸雷在温暖的拥抱里——Pierr
+00_概述.md:18 - **两段童年闪回交代了猎人的出身。** 七岁那年，会说话的狼先她一步赶到外婆家、一爪挥出她的疤（ch04）
+00_概述.md:19 - ；九岁那年，Papa 用泥潭、兔子与小鹿教她"不许犹豫、自己止血"（ch05）
+00_概述.md:33 **火与炉膛。** 自制绷带、假投降、挨完毒打之后，她在祈祷里抬头看见了墙上那支火把；一眼认出 Grenault 的进退站姿正是 Francois 教她的虚张声势（ch12），一把火燎上狼毛，Madame Leóne 掷来草叉，两人把狼王推
+00_金句精选.md:69 **上下文**：ch04 七岁的童话噩梦，毁容的来历现场。
+00_金句精选.md:79 **上下文**：ch05 九岁的狩猎课，她犹豫脱靶之后。
+00_金句精选.md:190 **为什么重要**：狼王的野心之下垫着工友义气——四个名字是一间合租屋的死亡名单。
+ch01 confronting grenault at the tavern.md:9 - **一句话概括**：十六岁的红斗篷猎手单骑闯进酒馆，在店主提示下锁定狼群新主 Luc Grenault，当众接下他的宣战并转身离场。
+ch01 confronting grenault at the tavern.md:26 **中文理解**：几分钟前她骑马穿过鹅卵石街道，红斗篷在冷风里飘；酒馆里传出狂欢声，门廊上两个闲晃的男人她都认得——两个月前头一次进这家店时就见过。
+ch01 confronting grenault at the tavern.md:28 **为什么这样写**：过去完成时 "I had approached" 把镜头倒回几分钟前，制造两拍入场：先给远景（骑马、斗篷、冷风），再给声音（revelry 狂欢声），声音先于画面抵达；"two months ago" 顺手交代了她在镇
+ch01 confronting grenault at the tavern.md:29 **读者视角提示**：这段是"情报"——门廊上的两个人、两个月的时间、店的名字，全在这一段铺完，后面不用再解释地理。
+ch01 confronting grenault at the tavern.md:33 **中文理解**：他们也认得她，也记得兜帽底下不过是个十六岁的金发少女，脸上带着疤；可他们还是像红海分开一样给她让路，挤出一脸勉强的笑。
+ch01 confronting grenault at the tavern.md:35 **为什么这样写**：先摆反差——"imposing hood"（逼人的兜帽）对 "a mere sixteen-year-old girl"（区区十六岁少女），再用出埃及记的 "the Red Sea" 典故写让路：让路的理由不是她的年纪
+ch01 confronting grenault at the tavern.md:36 **读者视角提示**：人人都知道她是少女，人人也都让路——读者此刻该好奇的不是她是谁，而是她两个月前干了什么。
+ch01 confronting grenault at the tavern.md:49 **为什么这样写**：两个明喻连用——"like dead leaves" 写头发的乱与死气，"like someone had tried to cut straight into his skull" 写疤的狠；一个是动物性的脏，一个是
+ch01 confronting grenault at the tavern.md:70 **为什么这样写**：order 一词两义在同一段里复用——前一句是"号令"，后一句是"秩序"，两个 "order" 之间完成了从"抗命"到"改朝换代"的语义滑动；称呼 "Mademoiselle" 从礼数滑成居高临下的标签，礼貌本身就是威
+ch02 decoy chase and the first kill.md:35 **为什么这样写**：三个动作一气呵成（抽镫、跃下、翻滚），最后一个 "lay flat and still" 骤然归零——动与静的落差就是这一计的全部；"continued after" 写出诱饵生效的瞬间，狼群的注意力被红斗篷整团拽走，
+ch02 decoy chase and the first kill.md:56 **为什么这样写**：两个 "slow" 刻意重复——撤退本该是败逃，Grenault 却走得像巡视；"unsettled" 与 "scrutinize" 把威胁从爪牙转移到目光上，最后一句 "As if he knew" 把她的底牌（空弩
+ch03 helena basque and madame leone.md:35 **为什么这样写**：不写"我很丑"，而是逐道描线——"tore""carved""slanted""cut" 四个动词全是暴力的进行态，疤痕像案件现场一样可勘验；工笔越细，那次袭击的现场感越强。
+ch03 helena basque and madame leone.md:36 **读者视角提示**：狼没有吃掉她，只带走了她的脸——这笔账她记了九年，猎狼既是复仇也是自我了断的开端。
+ch03 helena basque and madame leone.md:42 **为什么这样写**：两个类比把猎手的地位抬进公共仪式——士兵与公爵是这座小镇仰望的两样存在；"almost" 一词又把尊崇压回半格：他们敬畏的是传闻里的她，不是眼前这个满脸疤的十六岁少女。
+ch03 helena basque and madame leone.md:64 **读者视角提示**：Grenault 在酒馆只说"一个在镇上见过的漂亮女人"——现在读者知道他瞄准的是 Pierre 的继母，是 Helena 的第二个母亲。
+ch04 the nightmare and the musket.md:9 - **一句话概括**：一场把童话重演成噩梦的梦境——七岁的她被会说话的狼问路、赶去外婆家只见到血衣，狼爪挥脸的剧痛把她踢回九岁的现实：Papa 取出火枪，带她去打猎。
+ch04 the nightmare and the musket.md:13 - **叙事手法**：嵌套闪回（七岁梦境套九岁清晨）；"smooth cheeks / no scars" 作梦境开关；声音先于狼形出现，用听觉制造恐怖。
+ch04 the nightmare and the musket.md:28 **为什么这样写**："already there" 三个词先给结论再补过程，恐怖靠时序差成立——人在跑，狼在等；"bloody nightgown and cap" 只给两件遗物不给尸体，死亡由物件作证，孩子的视角只能处理到这一步。
+ch04 the nightmare and the musket.md:40 **中文理解**：她九岁了，把带疤的脸埋进父亲厚实的衬衫里。天还黑着，但他已穿戴整齐。
+ch04 the nightmare and the musket.md:42 **为什么这样写**：三句完成时间跳跃——"nine years old" 把七岁的梦推回两岁之差的现实，"scarred face" 确认爪痕早已长成，"fully dressed" 是全文最安静的惊悚：父亲彻夜未眠，也在等这声噩梦惊叫。
+ch04 the nightmare and the musket.md:80 七岁的童话噩梦交出了她疤的来历与红斗篷的往事，九岁的清晨以火枪和 "Let's go hunting" 收尾——猎人的身世，在这里完成落笔。
+ch05 hunting lessons and the rooftop ambush.md:9 - **一句话概括**：九岁的狩猎课教会她"不许犹豫、自己止血"，成年后的屋顶狙击却换来 Grenault 徒手扼喉夺弩——镇民的闲话救了她的命，她逃回地堡仍抖着那双手的记忆。
+ch05 hunting lessons and the rooftop ambush.md:21 **为什么这样写**：三条军令全部以 "when I tell you to" 的从句收尾——猎场上不存在她的判断，只有执行；排比递进从脚下到嘴边再到扳机，把"服从"拆成身体的三层纪律。
+ch05 hunting lessons and the rooftop ambush.md:33 **中文理解**：她撕下裙摆、采来叶子按住伤口止血，把棉布条在脚上缠了四圈打结——抬眼时，正撞见 Papa 瞪大的眼睛，随后他嘴角露出了一丝笑意。
+ch05 hunting lessons and the rooftop ambush.md:35 **为什么这样写**："Then bleed." 的冷酷考题在这段里被她当场答完——缠四圈、打结的工序细节让自愈成为可复制的技能而非逞强；"hint of Papa's smile" 只给一丝，铁面教育的认可永远是配给制的。
+ch05 hunting lessons and the rooftop ambush.md:110 狩猎课的三条铁律撑住了她的反应，却挡不住 Grenault 的一只手——镇民的无知救了她，而地堡里的颤抖说明：这一局，是狼赢了。
+ch06 francois teaches her to fight.md:10 - **情感弧线位置**：第二位导师登场——Papa 教纪律，Francois 教搏杀；两条教育在她身上合成完整的猎手。
+ch06 francois teaches her to fight.md:19 **中文理解**：那男孩八岁，与她同岁，金发蓬乱，一边把她往死里打一边笑。她躺在浸透棉裙的泥水坑里爬不起来，被 Jacque Denue 和三个同伙按住，四肢挨着拳头。
+ch07 the clothier ambush plan.md:21 **为什么这样写**：自审以问句完成，两个连续问句把羞愧钉在战绩上——恐惧与履历直接对账；"burned" 让羞愧有体温，比"感到"高一级，承认身体已经先她一步示弱。
+ch07 the clothier ambush plan.md:26 **中文理解**：七岁那年，她被 Jacque Denue 打得半死后，Papa 带她去 Denue 先生的店里想买条裙子；Jacque 的父亲却对他们关上了门——或是为儿子羞愧，或是怕 Papa。
+ch07 the clothier ambush plan.md:28 **为什么这样写**：一句台词式的回忆把裁缝店写成加害方档案——被打的是她，被拒的还是她；"shut the door on us" 的具象动作让排斥有了物件，九年后她再摸到这扇门，指纹都是旧的。
+ch07 the clothier ambush plan.md:33 **中文理解**：她握住门把却没有拧。九年前被锁在门外的刺痛还在——明明 Monsieur Denue 心知儿子的暴行给她留下的伤，却不许她买一条裙子。
+ch09 stand up and do something.md:26 **中文理解**：她找到百叶窗上一块半裂的窗板，戴着手套一拳砸穿——冲击又震碎相邻两块，破出一个小洞，同时把狼群的注意力拽了过来。
+ch09 stand up and do something.md:42 **为什么这样写**：挑衅的话术与冷酷的事实由省略号缝在同一口气里——他劝她"再来一发"的时候，心里已经算清那发不存在；"He had been counting" 四个词拆穿全部从容：狼王在打情报战，不是在赌。
+ch10 the casket and the blessing.md:13 - **叙事手法**：三场景递进（棺木—圣堂—店铺）；葬礼誓言与女孩之死互文；情报以酒馆闲谈的方式投递，收尾一句换主语（found you → found Pierre）。
+ch10 the casket and the blessing.md:49 **为什么这样写**：神学的诚实在这里闪光——他不赦免她的杀戮（"can't condone killing innocent men"），却承诺祝福（"always bless you"），把"立场"与"爱"拆成两件事；"La Rue S
+ch12 wolves burn.md:28 **为什么这样写**：动机在此刻才补完——狼王的野心（Prime）之下垫着工友义气，四个名字是一间合租屋的死亡名单；"Because of you." 五个词把复仇的个人化推到顶点：她杀的不只是爪牙，是他的家人。
+ch12 wolves burn.md:40 **中文理解**：她没能救下 Madame Leóne，还要赔上两个人的命。主啊，帮帮我。我已经一无所有了。
+ch12 wolves burn.md:49 **为什么这样写**：武器清单按"没用—没用—也许有用—有了"的顺序排列，顿悟只占两个词；"Or perhaps had ignored" 的迟疑句最毒——敌人的傲慢是武器的另一半来源；"The torch." 独立成段，全章的重心在一次抬
+ch12 wolves burn.md:71 **读者视角提示**：苏醒的 Lisette 完成了她上次"Run, Helena!"的下半场——两人一递一推，被保护者与保护者的角色在火光里合一。
+
+=== ⑥场景方位：5 行 ===
+00_情感节点.md:106 **叙事概括：** 铁匠铺里 Grenault 以炉栅挡尽十箭、口头倒数 Nine 到 None；Lisette 织针刺狼换来一记反手。她被夺弩、扣喉、钉上远墙——"It's over, little Helena." 全书最低点在终章门口
+00_概述.md:31 **倒数到零的黑夜。** 她抢先冲进铁匠铺，Grenault 却以炉栅挡尽她的箭、口头倒数 Nine 到 None（ch11）；Lisette 用织针刺狼换回一记反手，她被夺弩、扣喉、钉上墙——"It's over, little Hele
+ch03 helena basque and madame leone.md:68 **中文理解**：愿意的话你可以留下来跟我们一起住——但前提是别再追那些狼了。我不能让你把它们引到我们家门口。
+ch05 hunting lessons and the rooftop ambush.md:70 **为什么这样写**：楼下镇民一句玩笑（"是负鼠还是大老鼠？"）逼出即兴表演——他把"她"降格成"动物"既解释了动静又接住了玩笑；"I'll handle it" 语气越轻描淡写，刚才屋顶上的杀意越显得不寒而栗。
+ch11 the countdown to none.md:10 - **情感弧线位置**：全书最低谷——武装、盟友、退路逐一被剥，生死悬念推到终章门口。
+
+=== ⑤方向施受：17 行 ===
+00_概述.md:26 **恐惧经济学清算到她头上。** 其他狼把她当作"超自然的死亡天使"，Grenault 却看穿真相：
+00_金句精选.md:129 **呼应关系**："“A hero isn't somebody who's big and strong," he had said. "It's just somebody who stands up to do what's got 
+ch01 confronting grenault at the tavern.md:42 **为什么这样写**：台词从 "Don't look yet" 开始，让店主和读者共享同一个视觉限制——谁都还没看见，情报只能靠语言拼出来；"cronies"（狐朋狗友）一词把"独狼"改写成团伙作案，一句台词同时完成了悬念递交和世界观声明。
+ch01 confronting grenault at the tavern.md:56 **为什么这样写**：三句死亡威胁全部裹在赞美与假设的语法里——先夸斗篷，再点破颜色的含义，最后用虚拟语气 "If anything bad happened" 把威胁说成假设；"sort out the cloak from the gi
+ch03 helena basque and madame leone.md:21 **为什么这样写**：主语是 "my nerves"——她连恐惧都要下命令管理；"Making it appear" 点破这是表演，"spared his life" 把弹尽的狼狈反写成施舍，心理战从马上一直打到对手的记忆里。
+ch03 helena basque and madame leone.md:56 **为什么这样写**：一句"Anytime."把军火支援说成友情赠予；后半句全是瞒天过海的细节——少年铁匠用伪造的报废记录供养一场他不被允许参战的战争，谎言的熟练程度就是他的忠诚度。
+ch05 hunting lessons and the rooftop ambush.md:49 **为什么这样写**："iron manacle" 把手写成刑具——不是斗殴，是行刑；"one mighty arm supporting him" 这个细节最吓人：他单手钳住她还有余力撑住全身，力量差被写成了几何关系而非数字。
+ch07 the clothier ambush plan.md:35 **为什么这样写**："gripped but didn't turn" 的停顿把心理创伤写成手部特写；"Forbidden" 一词把一次拒售升格为终身禁令——被夺走的不是裙子，是"正常人逛店"的资格。
+ch07 the clothier ambush plan.md:42 **为什么这样写**：狩猎学包装成择业逻辑——"constant visits" 是流量，"addresses" 是猎物清单，一句自白把白天商铺写成诱捕器；"sometimes bringing small children on the 
+ch07 the clothier ambush plan.md:56 **为什么这样写**：以退为进的三段式——先把"知情"设为死刑条件，再用 "secret relationship" 的暧昧措辞把威胁包进调情，最后一句把灭口说成被动语态的"不得不"；三句话完成了绑架式封口。
+ch09 stand up and do something.md:71 **读者视角提示**：本章把"知己知彼"写成了单边透明——接下来她要补的不再是装备，是情报。
+ch10 the casket and the blessing.md:71 **读者视角提示**：她的军火供应链（Pierre 的银料、熔炉、产量）被逐条反写成敌人的采购清单——技术优势开始反噬。
+ch11 the countdown to none.md:63 **为什么这样写**："naked" 把武器写成器官——被缴械即被剥皮；"stand my ground" 与 "the last monstrous face" 连成遗言式的对视，恐惧与尊严在同一次抬头里成交。
+ch12 wolves burn.md:22 **读者视角提示**：他反复言明的处刑方式（ch05 宣判、ch08 提议、此章彩排）把死亡写成了流程表——倒逼她去找流程之外的东西。
+ch12 wolves burn.md:42 **为什么这样写**：祈祷以失败对账开场——先承认亏欠再求力量，信用破产者的贷款申请；"I've got nothing left" 是全书罕见的完整投降书，而它恰恰出现在翻盘前一秒。
+ch12 wolves burn.md:63 **为什么这样写**：低头的闪避与怼火的直击合成一拍——攻防在同一动作里完成，训练的痕迹全在细节里；"raced across his fur" 把火焰写成奔跑的活物，狼的皮毛从铠甲变成燃料。
+ch12 wolves burn.md:70 **为什么这样写**：接力交接写成一镜到底——草叉从抛出到入肉没有一句闲笔；"shoved as hard as I could" 的直白收尾把"尽力"写成字面：没有技巧，没有虚势，只剩力气。
+
+=== ④亲属身份：12 行 ===
+00_情感节点.md:58 **叙事概括：** 狩猎课三连：鞋陷泥潭父亲不帮，兔子面前犹豫脱靶，荆棘割脚只换来一句"那就流血吧"——她撕碎心爱的裙子自行裹伤，再一箭放倒小鹿，回家用钢铁般的声音答母亲："我把血止住了。"
+00_概述.md:21 。父亲最终在"狼来了"之问前让步，把女儿接进了这场战争。
+00_概述.md:58 **Madame Lisette Leóne（Pierre 的继母 / Grenault 的猎物）——
+ch03 helena basque and madame leone.md:9 - **一句话概括**：Helena 藏进战争遗留的地下堡垒养精蓄锐，翌日进城补箭——镇民开始奉她为传奇，Celia 当街嘲讽，Pierre 偷偷为她淬银，而 Pierre 的继母 Madame Leóne 正是 Grenault 瞄准的 
+ch03 helena basque and madame leone.md:110 Helena Basque 之名与毁容来历揭晓，Pierre 以假账供养银箭——而铁匠铺的温暖里藏着本章真正的炸雷：Grenault 瞄准的 Lisette，就是 Pierre 的继母。
+ch06 francois teaches her to fight.md:57 **读者视角提示**：注意 Papa 的神回复 "Winter snails are always a problem."——他信没信不重要，他选择不拆穿，这是父亲式的默契。
+ch06 francois teaches her to fight.md:70 **为什么这样写**：大笑与搂抱把"打架不是答案"的训斥一笔勾销，"My little protector" 是 Papa 对女儿野心的首次授勋——语气里一半是宠溺，一半是他自己没说出口的欣慰。
+ch08 the denue house night raid.md:19 **中文理解**：她甩开那些孩子气的念头。无论这家人是谁、儿子是什么货色，他们都不该死在 Lycanthru 手里。谁都不该。
+ch08 the denue house night raid.md:28 **为什么这样写**：母亲的怒骂三连，从浪费、仪容一路问到凶器，把Jacque 的堕落路径依次点名；"where did you get that knife" 落在赃物上——偷来的刀意味着他已经开始伤人，而不只是挨打的猎手当年的镜像。
+ch09 stand up and do something.md:56 **为什么这样写**：证据链在他眼里重新排序——三具狼尸抵不过一只酒瓶，"常识"的权重碾压了亲眼所见；"You've been drinking" 一句宣判，把妻子的证词连同她撞见的怪物一起扫进醉话的筐里。
+ch11 the countdown to none.md:11 - **Tropes 兑现/反转**：反派装备流兑现（拿普通铁器当银箭克星）；平民勇气反转——温柔继母用织针捅出全书最野的一刀。
+ch11 the countdown to none.md:42 **为什么这样写**：缝纫工具对狼王的"不对称反击"——武器系谱的意外性本身就是宣言：平民的勇气不选兵器；"teeth bared with shocking savagery" 给继母一张完全陌生的脸，温柔角色的暴力瞬间最具冲击力。
+
+合计 120 行候选 / 15 个文件

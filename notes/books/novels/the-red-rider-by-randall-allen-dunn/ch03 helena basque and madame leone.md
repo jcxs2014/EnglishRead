@@ -25,7 +25,7 @@ modified: "2026-11-20"
 
 **中文理解**：能找到这地方是她的运气——一个躲开狼群的安全退路，她在这里思考、谋划、休息，她私人的地下堡垒。
 **关键词**：blessed / retreat / underground fortress
-**为什么这样写**：三个 "My" 开头的同位语层层加码（退路—据点—堡垒），把一个废弃地窖写成主权的宣示；"think, and plan, and rest" 三个并列动词按轻重排布，休息排在最后——对猎人来说那是最后的需要，不是最先的。
+**为什么这样写**：两个 "My" 开头的同位语层层加码（退路—据点—堡垒），把一个废弃地窖写成主权的宣示；"think, and plan, and rest" 三个并列动词按轻重排布，休息排在最后——对猎人来说那是最后的需要，不是最先的。
 **读者视角提示**：战争遗留给她的庇护所，暗示这片土地此前就被入侵过——狼群是新一轮的占领军。
 
 > **原句 3:** "The triple claw marks tore across the center of my face in diagonal lines. The first pink slash started above my left eye and carved below my right. The next one slanted below my left eye and cut across my distorted nose."
@@ -33,13 +33,13 @@ modified: "2026-11-20"
 **中文理解**：三道爪痕斜斜撕过她的脸：第一道从左眼上方划到右眼下方，第二道斜过左眼下方、横贯她变了形的鼻子。
 **关键词**：triple claw marks / slash / distorted nose
 **为什么这样写**：不写"我很丑"，而是逐道描线——"tore""carved""slanted""cut" 四个动词全是暴力的进行态，疤痕像案件现场一样可勘验；工笔越细，那次袭击的现场感越强。
-**读者视角提示**：狼没有吃掉她，只带走了她的脸——这笔账她记了十年，猎狼既是复仇也是自我了断的开端。
+**读者视角提示**：狼没有吃掉她，只带走了她的脸——这笔账她记了九年，猎狼既是复仇也是自我了断的开端。
 
 > **原句 4:** "They all stopped their conversations and gaped, some of them standing taller as I rode past. The way people reacted to soldiers marching to battle, or to the Duke's coach passing through town. As if they almost revered me."
 
 **中文理解**：她骑马经过时，所有人停下交谈、张口结舌，有人还站直了身子——就像人们迎着开赴战场的士兵、或公爵的马车经过镇子，仿佛她近乎受人尊崇。
 **关键词**：gaped / standing taller / revered
-**为什么这样写**：两个类比把猎手的地位抬进公共仪式——士兵与公爵是这座小镇认知里仅有的"值得起立的存在"；"almost" 一词又把尊崇压回半格：他们敬畏的是传闻里的她，不是眼前这个满脸疤的十六岁少女。
+**为什么这样写**：两个类比把猎手的地位抬进公共仪式——士兵与公爵是这座小镇仰望的两样存在；"almost" 一词又把尊崇压回半格：他们敬畏的是传闻里的她，不是眼前这个满脸疤的十六岁少女。
 **读者视角提示**：名字先于本人抵达——镇民望着的其实是"Red Rider"这个符号，符号化的代价要到 Frayne 的怒火里才显现。
 
 > **原句 5:** "“Look, Marie, there she is,” she said, staring down her nose at me. “Helena Basque. The girl who dresses like a man.”"
@@ -60,8 +60,8 @@ modified: "2026-11-20"
 
 **中文理解**：Madame Lisette Leóne——正是 Grenault 声称要下手目标的女人。
 **关键词**：Madame Lisette Leóne / targeting
-**为什么这样写**：两句残段硬切进场景，像侦探小说里当庭亮出的证据——上一章 Lisette 还只是个名字，这一行把她安进了铁匠铺的日常里；姓名与威胁并置， warmth（她把 Helena 抱进怀里）与 danger（狼王惦记着她）在同一人身上交叠。
-**读者视角提示**：Grenault 前一章只说"一个在镇上见过的漂亮女人"——现在读者知道他瞄准的是 Pierre 的继母，是 Helena 的第二个母亲。
+**为什么这样写**：两句残段硬切进场景，像侦探小说里当庭亮出的证据——ch01 里 Lisette 还只是 Devereaux 起哄报出的名字，这一行把她安进了铁匠铺的日常里；姓名与威胁并置， warmth（她把 Helena 抱进怀里）与 danger（狼王惦记着她）在同一人身上交叠。
+**读者视角提示**：Grenault 在酒馆只说"一个在镇上见过的漂亮女人"——现在读者知道他瞄准的是 Pierre 的继母，是 Helena 的第二个母亲。
 
 > **原句 8:** "“You can stay here with us if you like,” he said. “But not if you're going to keep chasing after these wolves. I can't have you bringing them to our doorstep.”"
 

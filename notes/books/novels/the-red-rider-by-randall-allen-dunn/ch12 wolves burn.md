@@ -33,7 +33,7 @@ modified: "2026-11-20"
 **中文理解**：他揪住她的束衣拉到自己胸前，反手扇另一边脸，接着再一拳——直到她的头像布偶一样垂晃。
 **关键词**：backhand / struck me again / like a rag doll
 **为什么这样写**：毒打写成流水线——先固定（拉到胸前）再输出（左右开弓），"until" 引出结果而不写停点，暴力没有句读；"rag doll" 的意象与她怀里空弩的处境互文：彻底的失能。
-**读者视角提示**：他不杀她、只打服她——"You'll have plenty of time to bleed" 的慢食逻辑在此生效，她的生存空间（时间）第一次成为武器。
+**读者视角提示**：他不杀她、只打服她——"You'll have plenty of time to bleed" 的慢食逻辑在此生效，她的生存空间（时间）成了武器。
 
 > **原句 4:** "I had failed Madame Leóne, and I would pay for it with both our lives. Lord, help me. I've got nothing left."
 
@@ -61,13 +61,13 @@ modified: "2026-11-20"
 **中文理解**：他咆哮着张开五爪扑来。她低头避过，把火把猛怼进他胸口——皮肉灼烧的嘶嘶声里，火焰顺着毛皮一路窜开。
 **关键词**：shoved the torch / sizzling flesh / raced across his fur
 **为什么这样写**：低头的闪避与怼火的直击合成一拍——攻防在同一动作里完成，训练的痕迹全在细节里；"raced across his fur" 把火焰写成奔跑的活物，狼的皮毛从铠甲变成燃料。
-**读者视角提示**：这也是第一次有人对 Grenault 造成不可挡的伤——箭可挡、爪可拍，火无法格挡，武器谱的盲区即破局点。
+**读者视角提示**：织针只换来一记反手（ch11），箭可挡、爪可拍，而火无法格挡，武器谱的盲区即破局点。
 
 > **原句 8:** "I seized it, dropping the torch, which Madame Leóne hurried to retrieve from the floor. I drove the pitchfork into Grenault's blazing torso and shoved as hard as I could."
 
 **中文理解**：她一把抓住草叉，扔下火把——Madame Leóne 赶忙俯身拾起。她把草叉捅进燃烧的 Grenault 躯干，用尽全身力气往前推。
 **关键词**：seized it / pitchfork / shoved as hard as I could
-**为什么这样写**：接力交接写成一镜到底——草叉从抛出到入肉没有一句闲笔；"shoved as hard as I could" 的直白收尾是全书第一次把"尽力"写成字面：没有技巧，没有虚势，只剩力气。
+**为什么这样写**：接力交接写成一镜到底——草叉从抛出到入肉没有一句闲笔；"shoved as hard as I could" 的直白收尾把"尽力"写成字面：没有技巧，没有虚势，只剩力气。
 **读者视角提示**：苏醒的 Lisette 完成了她上次"Run, Helena!"的下半场——两人一递一推，被保护者与保护者的角色在火光里合一。
 
 > **原句 9:** "I would survive. I had survived. Against the worst Lycanthru I had yet faced."

@@ -19,14 +19,14 @@ modified: "2026-11-20"
 **中文理解**：那男孩八岁，与她同岁，金发蓬乱，一边把她往死里打一边笑。她躺在浸透棉裙的泥水坑里爬不起来，被 Jacque Denue 和三个同伙按住，四肢挨着拳头。
 **关键词**：the same age as me / beating me to death / pinned
 **为什么这样写**："the same age as me" 是这段的刀锋——欺负她的不是巨人，是同龄孩子，弱小才是她当时唯一的罪名；"beating me to death" 用孩子的夸张修辞，泥水与四肢的清单却写实到底。
-**读者视角提示**：这是她唯一一次"纯粹的受害者"记忆——日后她的一切武力，都从这个泥坑里长出来。
+**读者视角提示**：这是她噩梦档案里唯一一桩"人祸"（狼袭那桩在 ch04）——日后她的一切武力，都从这个泥坑里长出来。
 
 > **原句 2:** "He opened his arms wide and I rushed into them, letting him surround me like a warm grizzly bear with its cub. Then he released me and leaned into my face. "All right, let's have another lesson. A quick one, so you can get out of this cold," he said."
 
 **中文理解**：Francois 张开双臂，她冲进怀里，被他像暖烘烘的灰熊护崽一样围住。随后他松开手凑近她：好，再上一课，快一点，学完赶紧躲开这股冷。
 **关键词**：warm grizzly bear / let's have another lesson / out of this cold
 **为什么这样写**：灰熊的比喻先给温度再给体型——这位巨人导师的威胁感被"护崽"一词化解；"A quick one, so you can get out of this cold" 的关切藏在课程安排里，温柔全部走实不走红。
-**读者视角提示**：Francois 是全书唯一"无条件教她"的大人——Papa 教她纪律有章法，Francois 教她打架却先教她别惹事。
+**读者视角提示**：Francois 教她从不设条件——Papa 教她纪律有章法，Francois 教她打架却先教她别惹事。
 
 > **原句 3:** "Here's a rock, a big stick, and a rope. Stuff you could find to use for a weapon if somebody's bothering you. Weapons are all around you, if you look."
 

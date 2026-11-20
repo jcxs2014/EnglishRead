@@ -33,14 +33,14 @@ modified: "2026-11-20"
 **中文理解**：她仍能听见棺盖的回响——当时她在葬礼弥撒当众宣告：这一切会终结。……由她终结。
 **关键词**：coffin lid echo / funeral mass / I would end it
 **为什么这样写**：记忆用声学细节（棺盖回响）钉进听觉，誓言因此带着混响；省略号后的 "That I would end it." 单句成段，把"会终结"与"我终结"拆成两拍——第一拍是预言，第二拍是责任。
-**读者视角提示**：两个月前的誓言在此刻续约——同样的棺木、同样的教堂，她的战争从复仇升级为护镇。
+**读者视角提示**：那场葬礼弥撒上的誓言在此刻续约——同样的棺木、同样的教堂，她的战争从复仇升级为护镇。
 
 > **原句 4:** "You're far more than that. You've been blessed in learning that silver destroys them. That's protected you and made them fear you."
 
 **中文理解**：你远不止如此。你蒙受祝福，知道了银能毁掉他们——这一点一直护着你，也让他们怕你。
 **关键词**：far more than that / blessed in learning / made them fear you
 **为什么这样写**：神父把武器知识归入"祝福"，把杀戮技转译成恩典语言——在他的框架里，她的弩是圣器的俗形；"far more than that" 直接反驳她自认的"a frightened girl"，信仰在给她记账。
-**读者视角提示**：这句话是对 ch09 结尾全盘自我否定的第一次外部校正——她缺的不是火力，是把自己看回猎人的那双眼。
+**读者视角提示**：这句话是对 ch09 结尾全盘自我否定的外部校正——她缺的不是火力，是把自己看回猎人的那双眼。
 
 > **原句 5:** "“I always bless you, Helena," he said. "Whether I agree with your activities or not. I want only what is best for you and for La Rue Sauvage.""
 
@@ -61,7 +61,7 @@ modified: "2026-11-20"
 **中文理解**：不过——好吧，我直说。这些裙子我全部收下，价钱你说了算，合理就好。我还会尽力劝 Andre 追加订货。
 **关键词**：I'll tell you / pay you for them / convince Andre to order more
 **为什么这样写**：Denue 夫人的让步来得突兀又合理——夜袭的"private matter"成了暗账，买裙是付账的形式；"whatever you think is reasonable" 把定价权整个交出去，商业话术里全是谢罪。
-**读者视角提示**：对比昨日的傲慢（"she helped me in a private matter" 的含糊）——她的恩人身份第一次产生了商业红利，而这份红利来自她打狼的战果。
+**读者视角提示**：对比昨日的傲慢（"she helped me in a private matter" 的含糊）——她的恩人身份这才产生了商业红利，而这份红利来自她打狼的战果。
 
 > **原句 8:** "Wanted to know who could make bolts quickly, in abundance, and have access to silver with a facility for melting it down." He licked his lips. "He's hunting you, Mademoiselle."
 
