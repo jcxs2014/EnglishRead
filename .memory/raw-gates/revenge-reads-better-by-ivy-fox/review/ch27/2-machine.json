@@ -1,0 +1,403 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/ch27 chapter 27.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/text/ch27_chapter_27.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The last funeral I went to was my father’s. I never expected to attend another one after he died",
+          "ok": true,
+          "pos": 20
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I remember him differently.” She keeps scanning the crowd. “I remember a man who hated you and every Fairhope Red for b",
+          "ok": true,
+          "pos": 717
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Maybe we all have a switch inside us, and once someone finally manages to flip it, there’s no turning it off again",
+          "ok": true,
+          "pos": 1213
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "One by one, people approach the grave and toss red roses onto Sydney’s descending coffin",
+          "ok": true,
+          "pos": 2451
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I feel nothing. And maybe that makes me a terrible person. If it does, then so be it",
+          "ok": true,
+          "pos": 3224
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Yeah. You.” Her face twists with rage. “Ever since you came back, I’ve lost four friends. Four. You expect me to believ",
+          "ok": true,
+          "pos": 4594
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“You really do have everyone fooled, don’t you?” She takes a step toward me. “But I know you, Max. I know what you’re ca",
+          "ok": true,
+          "pos": 5636
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“But you weren’t the only one who lost a mother. I lost mine too.” Her voice trembles with anger. “At least you got time",
+          "ok": true,
+          "pos": 6148
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“An albatross around your neck,” she replies before focusing on Sienna. “She’ll drag you down with her too. That’s what ",
+          "ok": true,
+          "pos": 7086
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Maybe watching my best friends die one after another has made me unhinged. Maybe standing over Sydney’s grave while eve",
+          "ok": true,
+          "pos": 7854
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I don’t need luck. You’re not the only one with money now, Max. I have money too. And I’ll spend every last cent of it ",
+          "ok": true,
+          "pos": 8514
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Karma is.”",
+          "ok": true,
+          "pos": 14414
+        }
+      ],
+      "words": 2
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.5
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. Chapter 27",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 13.0,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2683,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 41 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

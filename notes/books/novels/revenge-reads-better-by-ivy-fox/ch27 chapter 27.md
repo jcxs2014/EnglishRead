@@ -100,7 +100,7 @@ modified: "2026-11-20"
 
 **中文理解**：Misty 说 Max 是 Sienna 脖子上的信天翁——会把她一起拖下水，一直拖到她喘不过气——直到她周围一切都跟她一样悲惨。
 **关键词**：albatross around your neck / drag you down / can’t breathe
-**为什么这样写**：「信天翁」典故用于人际关系——作者借《古舟子咏》的意象把 Max 写成「带来厄运的负重」；「can't breathe」回收全书的窒息主题（恐慌发作/被钉在树上/走廊 nMugshots）——Misty 知道她最深的恐惧是「无法呼吸」。
+**为什么这样写**：「信天翁」典故用于人际关系——作者借《古舟子咏》的意象把 Max 写成「带来厄运的负重」；「can't breathe」回收全书的窒息主题（恐慌发作/被钉在树上/mugshots 之灾）——Misty 知道她最深的恐惧是「无法呼吸」。
 **读者视角提示**：Misty 试图离间 Sienna——这是 Reds 的标准战术（ch08 离间 Milo、ch20 离间读者）；记住这种「谁跟你在一起谁倒霉」的叙事，它在结局会被翻转为反证。
 
 > **原句 10:** "“Maybe watching my best friends die one after another has made me unhinged. Maybe standing over Sydney’s grave while everyone pretends this is all just a coincidence has made me fucking unhinged.”"
