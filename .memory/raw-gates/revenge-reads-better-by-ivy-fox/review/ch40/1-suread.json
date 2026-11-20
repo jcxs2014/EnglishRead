@@ -1,0 +1,50 @@
+[
+ {
+  "fact": "时间跳到一年后：Max 已在 Springview 精神病院住了 3 个月，此刻在公共休息室窗边桌旁坐了近 1 小时盼下雨。",
+  "anchor": "One year later",
+  "start": 16,
+  "end": 30
+ },
+ {
+  "fact": "医院作息为早餐 8 点、上午治疗 9 点、午餐正午、晚餐 6 点、10 点熄灯；晚饭前病人们打牌、看电视，一名老妇人的拼图已拼了一个星期。",
+  "anchor": "Breakfast at eight.",
+  "start": 921,
+  "end": 940
+ },
+ {
+  "fact": "护士 Mathews 给 Max 送来药和水让她服药，并告诉她今天有访客要来。",
+  "anchor": "Medication time, Max.",
+  "start": 1585,
+  "end": 1606
+ },
+ {
+  "fact": "Max 的新书《Dead Girls Don’t Lie》上个月出版后一直位居畅销榜第 1 名，书上署笔名 Max Usher；护士 Mathews 请她签名送给自己下周过生日的女儿 Emily。",
+  "anchor": "sitting pretty at number one",
+  "start": 2759,
+  "end": 2787
+ },
+ {
+  "fact": "Lauren 是 Max 在出版方 Neverland Publishing 的负责人且没有甩掉她，其请来的律师谈成「因精神失常不负刑事责任」的认罪协议，使 Max 在万圣节季进的是精神病院而非监狱。",
+  "anchor": "Neverland Publishing",
+  "start": 3085,
+  "end": 3105
+ },
+ {
+  "fact": "护士批准 Max 去花园等访客、限时 10 分钟；她坐到枫树下长椅后把藏在口中的药吐出，扔进最远的玫瑰丛。",
+  "anchor": "I spit out the pills",
+  "start": 6638,
+  "end": 6658
+ },
+ {
+  "fact": "访客 Milo 来到花园坐到 Max 身边；Milo 是 Max 的恋人（说她是他的女孩），Max 打量他时想到自己半生都想把手指穿过他的乱发。",
+  "anchor": "the sound of Milo’s voice",
+  "start": 6851,
+  "end": 6876
+ },
+ {
+  "fact": "Milo 说他永远会来见 Max 但进不了医院陪她，劝她为了他好好吃药；Max 答应却撒了谎，两人互道「Max and Milo, always and forevermore」。",
+  "anchor": "I’ll always come for you.",
+  "start": 7108,
+  "end": 7133
+ }
+]
