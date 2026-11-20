@@ -59,12 +59,12 @@ modified: "2026-11-19"
 **中文理解**：当然，有代价。静电索要的代价。一种这套系统必须烧的燃料。 bargain 的这一部分相当简单，甚至可以说诗意。静电需要人。某些体内装着能让新系统齿轮顺畅转动之物的特定的人。而 Bethany……就是你。像你这样的人。所谓 crooked——体内携带着燃料的人，他们的整套装屏系统就烧这种燃料运转。
 **关键词**：A fuel / the so-called crooked
 **为什么这样写**：条约的付款方式在此亮出：人不是受害者，是燃料——poetic even 的自嘲让恐怖取得修辞豁免。gears turning smoothly 的机械隐喻把「被选中」重写成「被装填」。And Bethany, well…it was you 的当面点名将八十年的神话降落到一张轮椅对面的椅子上：教义的最后一行是收件人姓名。
-**读者视角提示**：对照 ch19 的「receiver 候选」与 ch28 的「crooked subject」：燃料论让三季的悬念合并成一条供应链——从 Lost Alamos 的 Conductor 到 GlobalVill 的队列，烧的始终是同一类人。
+**读者视角提示**：对照 ch19 的「receiver 候选」与 ch28 的「crooked subject」：燃料论让三季的悬念合并成一条供应链——从 Los Alamos 的 Conductor 到 GlobalVill 的队列，烧的始终是同一类人。
 
 > **原句 9:** "My father always called it simply ‘the septic tank.’ A place to put all that we must keep below."
 **中文理解**：我父亲一直只叫它「化粪池」。一个把我们必须压在下面的东西都放进去的地方。
 **关键词**：the septic tank / keep below
-**为什么这样写**：神话的除魅句：八十年的宏大系统在父亲的嘴里只有下水道的一个别称——学者式的清醒是全书的解毒剂。keep below 的介词短语回收全书「下面/表面」的空间学：Chicag 项目=化粪工程。命名的降格同时是道德的招认：给地狱起个水管工的名字，就算参与了。
+**为什么这样写**：神话的除魅句：八十年的宏大系统在父亲的嘴里只有下水道的一个别称——学者式的清醒是全书的解毒剂。keep below 的介词短语回收全书「下面/表面」的空间学：Chicago 项目=化粪工程。命名的降格同时是道德的招认：给地狱起个水管工的名字，就算参与了。
 **读者视角提示**：对照 ch11 Kyle 的化粪池理论：少年的「疯话」与幸存者的家传口供逐字押韵—— Kyle 一直是对的，只是没人告诉他他为什么对。
 
 > **原句 10:** "My father believed these disturbances were evidence of the system’s natural instability," Rachel says. "Small expressions of strain from those trapped. But a brief glitch on a decommissioned analog feed, a misplaced name in the end credits of an old TV show, these are mere blips, pebbles hurled at a Great Wall, far too inconsequential to cause any real damage."
