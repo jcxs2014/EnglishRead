@@ -75,7 +75,7 @@ modified: "2026-11-20"
 > "The other over mine."
 
 **中文理解**：满屋狼藉——旧台灯碎在地上、抽屉全被翻空；她走向餐桌上的合影，血冷了：照片上两个粗黑 X——一个划在母亲脸上，一个划在她自己脸上。
-**关键词**：yard sale lamp / two thick black Xs / One over my mother’s face
+**关键词**：bought years ago at a yard sale / two thick black Xs / One over my mother’s face
 **为什么这样写**：私人物品的亵渎逐个落点——作者先写廉价台灯（母亲的遗物）再写合影上的 X：双重打击把「砸家」升级为「抹除血缘」；两个 X 独立成行，是每个都值一行的判决。
 **读者视角提示**：母亲照片是 Max 最软的痛点（ch02 的「想不起她的笑」）——把 X 画在母亲脸上，是精准打击她的创伤核心。
 
