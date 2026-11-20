@@ -62,40 +62,40 @@ modified: "2026-11-15"
 **为什么这样写**：父亲的形象用职业而非身份来立——chemist 这个词让「理性主义」有了实感。而「实验药膏养大的女儿」悄悄预告了本章真正的底牌：这位父亲最后的实验对象不会止于药草。
 **读者视角提示**：记住父亲的信条「For every problem, there is a solution」——它既是救了女主人命的仁心，也是把女儿送进虎穴的冷逻辑。同一句话的两面性会在全书反复兑现。
 
-> **原句 8:** "The leaders of each territory had complied with my father’s plan to orchestrate the outcome of the Harvest. It’s not as if they truly wanted to send their daughters off to marry the Vampyr King. My father offered them a potential solution to more than one problem."
-
-**中文理解**： 各领地首领都配合了她父亲操纵 Harvest 结果的计划——反正没人真心想把女儿送去嫁给吸血鬼王。父亲给他们的，是一个能一次解决不止一个难题的方案。
-**关键词**：complied with my father’s plan / orchestrate the outcome / more than one problem
-**为什么这样写**：一场跨国阴谋被写成「顺手解决众人难题」的生意：不是胁迫，是各取所需。作者的笔法刻意去掉悲情——让读者意识到整个大陆的成年男性统治者都默许用一个女孩做饵，这才是真正的恐怖。
-**读者视角提示**：「more than one problem」是钩子——对领地们是送走较差的候选者换保护，对父亲则是把女儿送进王庭。下一句马上拆开这个包裹。
-
-> **原句 9:** "Instead of sending their best, brightest, and most beautiful, they would send slightly less desirable candidates. Those offered as Tribute would be instructed to intentionally flail or fail any tests bestowed upon them, making me appear the obvious choice."
-
-**中文理解**： 各领地不送最优秀最漂亮的女儿，改送「稍逊一筹」的候选者；被献为 Tribute 的女子会得到指示——在每一场测试里故意出丑或失败，好让 Esiree 显得是顺理成章的选择。
-**关键词**：less desirable candidates / intentionally flail or fail / the obvious choice
-**为什么这样写**：阴谋的机制用两个对置写尽：领地降级候选人 vs 陪选者集体演砸。「obvious choice」这个词组最扎眼——一场精心导演的戏，目标恰是让所有人心服口服地相信它没有导演。
-**读者视角提示**：这是全书机关的核心图纸：Esiree 的「当选」从制度上看会无懈可击。但「故意失败」需要所有陪选者配合——人多的阴谋就有走音的风险，后文的变数多半从这条缝里钻出来。
-
-> **原句 10:** "“They couldn’t care less if they have to kill a human queen.” I throw my hands up in exasperation. “They’ll just Harvest another. It’s been well over a hundred years, and still, none of us knows exactly what happened to Queen Kesna. I don’t believe a word of what the Vampyr say on the matter.”"
+> **原句 8:** "“They couldn’t care less if they have to kill a human queen.” I throw my hands up in exasperation. “They’ll just Harvest another. It’s been well over a hundred years, and still, none of us knows exactly what happened to Queen Kesna. I don’t believe a word of what the Vampyr say on the matter.”"
 
 **中文理解**： 她的恐惧在酒桌上爆发：吸血鬼根本不在乎杀一个人类王后——杀了再 Harvest 一个就是。一百多年过去，没人知道当年的 Kesna 王后到底遭遇了什么，而 Vampyr 对此事的说辞她一个字都不信。
 **关键词**：kill a human queen / Queen Kesna / don’t believe a word
 **为什么这样写**：作者把全书最大的悬案（Kesna 之死）放进女主的酒话而非史官的记录——由「局外人」之口说出，反而衬出 Vampyr 版历史的不可信。她在恐惧里仍保持分析：不信说辞≠知道真相，这是卧底该有的头脑。
 **读者视角提示**：Kesna 在 ch01 是男主的旧伤之名，在 ch02 是女主的死亡寓言——同一名字两侧受敌。记住「百年无答案」：这个谜底大概率压到全书后期才揭晓。
 
-> **原句 11:** "King Istvan had been among the first to succumb, yet he refused to relinquish his crown or his kin. Instead, he chose a darker path, turning his entire lineage and suspending them in a hollow eternity. They say he ruled with an iron fist, but his true madness only bloomed when the Rabids tore Queen Valeria from his side. Henceforth, his reign became a fever of vengeance and bloodlust, a corrupted, unsustainable nightmare that only ended when Vastion took his father’s life."
+> **原句 9:** "The leaders of each territory had complied with my father’s plan to orchestrate the outcome of the Harvest. It’s not as if they truly wanted to send their daughters off to marry the Vampyr King. My father offered them a potential solution to more than one problem."
 
-**中文理解**： 史载：Istvan 王是最早染上血疫的人之一，却拒绝交出王冠与亲族——他选了更黑的路，把整个王族转化成吸血鬼、悬进空洞的永恒。据说他以铁腕治国，而真正的疯狂在 Rabids 撕走王后 Valeria 之后才全面开花：此后他的统治沦为复仇与嗜血的狂热，一场腐坏而不可持续的噩梦——直到 Vastion 亲手弑父才终结。
-**关键词**：turning his entire lineage / Queen Valeria / took his father’s life
-**为什么这样写**：一段宫廷秘史完成三件事：给「血疫起源」立传、给 Vastion 的弑父立动机、给「爱与疯狂」立公式——Istvan 的崩溃始于丧妻，与 ch01 里 Vastion 丧妻开篇形成镜像。作者让女主深夜读史，读者与女主同步补课。
-**读者视角提示**：这段史是男主的「原罪背景板」：弑父者、终结噩梦者、也是被母亲之死与王朝血脉定型的人。女主此刻读史是为了「找怪物的弱点」，但她读到的其实是一个和自己一样被强权逻辑碾过的人。
+**中文理解**： 各领地首领都配合了她父亲操纵 Harvest 结果的计划——反正没人真心想把女儿送去嫁给吸血鬼王。父亲给他们的，是一个能一次解决不止一个难题的方案。
+**关键词**：complied with my father’s plan / orchestrate the outcome / more than one problem
+**为什么这样写**：一场跨国阴谋被写成「顺手解决众人难题」的生意：不是胁迫，是各取所需。作者的笔法刻意去掉悲情——让读者意识到整个大陆的成年男性统治者都默许用一个女孩做饵，这才是真正的恐怖。
+**读者视角提示**：「more than one problem」是钩子——对领地们是送走较差的候选者换保护，对父亲则是把女儿送进王庭。下一句马上拆开这个包裹。
 
-> **原句 12:** "The Watch were scattered about the outskirts of the village, their torches like promises of protection in the gathering dark. Only territories that participated in the Harvest were granted protection, and now that we had declared our allegiance to the King, he dispersed his silent sentinels. But payment would come."
+> **原句 10:** "Instead of sending their best, brightest, and most beautiful, they would send slightly less desirable candidates. Those offered as Tribute would be instructed to intentionally flail or fail any tests bestowed upon them, making me appear the obvious choice."
+
+**中文理解**： 各领地不送最优秀最漂亮的女儿，改送「稍逊一筹」的候选者；被献为 Tribute 的女子会得到指示——在每一场测试里故意出丑或失败，好让 Esiree 显得是顺理成章的选择。
+**关键词**：less desirable candidates / intentionally flail or fail / the obvious choice
+**为什么这样写**：阴谋的机制用两个对置写尽：领地降级候选人 vs 陪选者集体演砸。「obvious choice」这个词组最扎眼——一场精心导演的戏，目标恰是让所有人心服口服地相信它没有导演。
+**读者视角提示**：这是全书机关的核心图纸：Esiree 的「当选」从制度上看会无懈可击。但「故意失败」需要所有陪选者配合——人多的阴谋就有走音的风险，后文的变数多半从这条缝里钻出来。
+
+> **原句 11:** "The Watch were scattered about the outskirts of the village, their torches like promises of protection in the gathering dark. Only territories that participated in the Harvest were granted protection, and now that we had declared our allegiance to the King, he dispersed his silent sentinels. But payment would come."
 
 **中文理解**： 归途上 Watch 哨兵散布在村外，火把像黑暗中许诺的保护——只有参加 Harvest 的领地才配得到保护；Leto 已宣布效忠国王，哨兵随之进驻。但报酬即将到来。
 **关键词**：promises of protection / silent sentinels / payment would come
 **为什么这样写**：全章在纵酒、密谋、血泪回忆之后，用一支火把队收尾——保护是有账单的。torches like promises 的比喻把「安全感」写成债主递来的契约：Leto 交出女儿，换来的每一分安宁都要付息。
 **读者视角提示**：章末的冷句是全书权力结构的缩影：没有免费的庇护，只有延迟的账单。带着这个认知进 ch01 的王庭线，两边的交易感完全对称。
+
+> **原句 12:** "King Istvan had been among the first to succumb, yet he refused to relinquish his crown or his kin. Instead, he chose a darker path, turning his entire lineage and suspending them in a hollow eternity. They say he ruled with an iron fist, but his true madness only bloomed when the Rabids tore Queen Valeria from his side. Henceforth, his reign became a fever of vengeance and bloodlust, a corrupted, unsustainable nightmare that only ended when Vastion took his father’s life."
+
+**中文理解**： 史载：Istvan 王是最早染上血疫的人之一，却拒绝交出王冠与亲族——他选了更黑的路，把整个王族转化成吸血鬼、悬进空洞的永恒。据说他以铁腕治国，而真正的疯狂在 Rabids 撕走王后 Valeria 之后才全面开花：此后他的统治沦为复仇与嗜血的狂热，一场腐坏而不可持续的噩梦——直到 Vastion 亲手弑父才终结。
+**关键词**：turning his entire lineage / Queen Valeria / took his father’s life
+**为什么这样写**：一段宫廷秘史完成三件事：给「血疫起源」立传、给 Vastion 的弑父立动机、给「爱与疯狂」立公式——Istvan 的崩溃始于丧妻，与 ch01 里 Vastion 丧妻开篇形成镜像。作者让女主深夜读史，读者与女主同步补课。
+**读者视角提示**：这段史是男主的「原罪背景板」：弑父者、终结噩梦者、也是被母亲之死与王朝血脉定型的人。女主此刻读史是为了「找怪物的弱点」，但她读到的其实是一个和自己一样被强权逻辑碾过的人。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

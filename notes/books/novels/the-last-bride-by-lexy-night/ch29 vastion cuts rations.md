@@ -76,10 +76,10 @@ modified: "2026-11-15"
 **为什么这样写**：作者写尽统治的两难：**真相是受誓约保护的情报**（知情者以死担保），因此只能公布坏消息；而「虚假的承诺」在政治上比坏消息更危险——这正是 ch22 她提出的「普查」用途的反面。
 **读者视角提示**：**关键**：注意「在确信武器能持续之前不公布」——**这让 ch26 的失败成为不能公开的秘密**，直接导致民怨累积。武器的失败与配给的加码互为因果。
 
-> **原句 10:** "But this was a necessary decision for our long-term survival. One might think that including news of the Parcaetes’ weapon alongside this announcement might quell some of the outrage, but those who were already aware of it were sworn, under penalty of death, to refrain from sharing any information. Worse than news of additional rations were false promises that paid no dividends."
+> **原句 10:** "Guards were instructed to confine any insurrectionists to the prison cells. They would still be provided their rations, like all citizens, and given time to reconcile their emotions with civility. If released, there would be eyes on them still."
 
 **中文理解**：卫兵受命把叛乱者关进牢房——但仍给他们配给（如所有公民一样），并给时间让情绪与文明和解；若释放则仍有人监视；「我曾希望我们这许多年的苦难能在臣民中灌进某种智慧——或许是他们凡人的教育未曾给予的」；「杀我、停止配给、以暴力手段索取更多捐献，都不会改变我们的结局；**在许多方面，我们与人类一样脆弱**。」
-**关键词**：But this was a necessary / But this was a necessary / But this was a necessary / But this was a necessary
+**关键词**：confine any insurrectionists / prison cells / reconcile their emotions with civility / still be provided their rations
 **为什么这样写**：作者用「仍然给配给」这一细节写出一个有尊严的暴政：他不杀、不饿他们，只关起来给时间。这与 ch13 的「沉降去杂质」同属一整套「不彻底毁灭」的技术——**连镇压都带着节制**，正是本书对 Vampire 文明的定义。
 **读者视角提示**：**关键**：最后一句「我们与人类一样脆弱」是 ch27「我们会饿死」的延伸：此刻的共灭不是推演，是现状。
 
@@ -97,10 +97,10 @@ modified: "2026-11-15"
 **为什么这样写**：**全书最有力的一次回环**：ch01 那个为 Adria 哭红双眼、把头抵在王后手上的侍女，如今替王策划一场政治演出。而 Laila 的不情愿是关键细节——**她仍在照顾 Adria 的记忆**：她不愿让新的王后重蹈旧路。
 **读者视角提示**：**关键**：ch01 的 Lailanor、ch14–ch16 的 Lailanor（敌意）、ch19 的「三个孩子」、ch29 的策划者——同一个人的四次出场构成一条完整的暗线。
 
-> **原句 13:** "Laila had helped me plan everything, and there was one thing in particular that I was being meticulous about. I entrusted her to bring my vision to life."
+> **原句 13:** "People sipped slowly at their cups to make their disappointment obvious. A few dramatic guests would tip their cup upside down, as if waiting for more to drip out before setting them down loudly on the table and making their exit."
 
 **中文理解**：人们放慢啜饮以让失望变得明显；有些戏剧化的客人**把杯子倒扣**、像在等更多滴出来，然后重重放下、离席；不止一次他必须捏紧 Esiree 的手，因为他感到**她表面之下的愤怒在冒泡**——「如果她说任何煽动他们的话，后果将是灾难性的」——**王后变成了那个必须被约束的人，因为她的愤怒是真实的**。
-**关键词**：Laila had helped me plan / Laila had helped me plan / Laila had helped me plan / Laila had helped me plan
+**关键词**：sipped slowly at their cups / tip their cup upside down / waiting for more to drip out / making their exit
 **为什么这样写**：作者用「倒扣杯子」这个动作写尽失望的形状（那是一记无声的抗议），并让王第一次成为**约束她的人**——两人的位置在政治场景里也调转了：他捏着她的手，因为她的愤怒比在场任何人都真实。
 **读者视角提示**：**全书最关键的一次身份调转**：ch22 她命令他留下；ch29 他必须阻止她开口。掌权与在野的边界，此刻在两个人之间。
 
