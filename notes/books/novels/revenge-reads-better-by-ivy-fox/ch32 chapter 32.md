@@ -144,13 +144,10 @@ modified: "2026-11-20"
 **读者视角提示**：记住「it scares me sometimes」——她终于承认爱里有恐惧，这与 ch14「爱会毁人」的创伤正面相逢：她说爱，也说了怕。
 
 > **原句 11:** "“I don’t want to be your first. I want to be your only. I want to be the only man that can touch you,” he says"
->
->
-> "“I’ve loved you forever. I’ll love you forever. There’s no one else for me but you. You’re my girl.”"
 
-**中文理解**：他说「我不想做你的第一个，我要做你的唯一——唯一能碰你的男人」；「我永远爱你，将来也永远爱你，除你之外没有别人，你是我的女孩。」
-**关键词**：be your only / the only man that can touch you / There’s no one else for me but you
-**为什么这样写**：占有欲的温柔版本——作者让「only（唯一）」替代「first（第一）」：这是 Milo 价值观的核心——他要的不是「先到」，是「独占」；「I've loved you forever / I'll love you forever」的时态双句，把爱与时间焊死。
+**中文理解**：他说「我不想做你的第一个，我要做你的唯一——唯一能碰你的男人」。（稍后他还说：「我永远爱你，除你之外没有别人，你是我的女孩。」）
+**关键词**：be your only / the only man that can touch you / don’t want to be your first
+**为什么这样写**：占有欲的温柔版本——作者让「only（唯一）」替代「first（第一）」：这是 Milo 价值观的核心——他要的不是「先到」，是「独占」；这句「be your only」把他的爱与排他性焊在一起。
 **读者视角提示**：这句「your only」与 ch19「one friendly face」、ch26「all of me」连成 Milo 的专属语汇——他要的是全部、唯一、永远，从不打折扣。
 
 > **原句 12:** "“Don’t just believe in me, Max. Believe in us. Okay?”
