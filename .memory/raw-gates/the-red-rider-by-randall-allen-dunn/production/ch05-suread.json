@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch05_5.txt",
+ "facts": [
+  {
+   "fact": "狩猎课上鞋子陷进泥潭，Papa 拒不相助——今天他不是爸爸，是师父",
+   "anchor": "We’re not here to find slippers, Helena.",
+   "start": 1696,
+   "end": 1736
+  },
+  {
+   "fact": "兔子面前犹豫脱靶，Papa 的核心课：把恐惧推开就射，狼不会等你决定",
+   "anchor": "You can’t be afraid to shoot.",
+   "start": 3789,
+   "end": 3818
+  },
+  {
+   "fact": "脚被荆棘割伤求妈妈包扎，Papa 只说\"那就流血吧\"——她当场撕碎心爱的裙子自行裹伤",
+   "anchor": "Then bleed.",
+   "start": 5817,
+   "end": 5828
+  },
+  {
+   "fact": "射中小鹿后她注视它挣扎咽气，随即把怜悯全部推到一边——它只是肉",
+   "anchor": "I watched it with wonder and pity.",
+   "start": 7598,
+   "end": 7637
+  },
+  {
+   "fact": "回家后 Mama 惊问拖鞋与裙子，她用钢铁般的声音只答一句：我把血止住了",
+   "anchor": "in a voice of steel",
+   "start": 8781,
+   "end": 8800
+  },
+  {
+   "fact": "屋顶狙击 Grenault 未中，他徒手跃墙扼喉、夺弩掷飞——她第一次被人完全压制",
+   "anchor": "fist closed around my throat like an iron manacle",
+   "start": 11452,
+   "end": 11501
+  },
+  {
+   "fact": "Grenault 宣判处置方案：勒昏后当肉挂起示众，再当着全体狼众的面慢慢杀，自立 Prime",
+   "anchor": "Then I’ll kill you—slowly—in front of the entire order.",
+   "start": 12616,
+   "end": 12671
+  },
+  {
+   "fact": "镇民在楼下搭腔（\"是负鼠还是大老鼠？\"），Grenault 顺势改口\"不过是只麻烦的动物\"，松手放走她",
+   "anchor": "troublesome  animal",
+   "start": 13017,
+   "end": 13036
+  },
+  {
+   "fact": "逃回地下堡垒吹熄蜡烛，她仍因 Grenault 那双手的力道而颤抖——胜利者其实被吓破了胆",
+   "anchor": "still trembling at the memory of Grenault’s grip.",
+   "start": 16176,
+   "end": 16225
+  }
+ ]
+}
