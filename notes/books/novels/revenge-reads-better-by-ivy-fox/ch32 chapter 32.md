@@ -96,7 +96,7 @@ modified: "2026-11-20"
 **中文理解**：停在手上的小黄蛾，Milo 说「那不是蝴蝶，是蛾」；她平静地答「我知道」——明知道是蛾，仍赞叹它的美（她随后说「只因为名字不同就该少被爱吗」）。
 **关键词**：not a butterfly / It’s a moth / I know
 **为什么这样写**：名字与价值的分离——作者借「蛾」把全书的污名主题收进一个自然意象：蝴蝶被歌颂，蛾被驱赶，可她明知它是蛾仍赞叹它的美；「I know」的平静是对所有标签（slut/trash/home-wrecker）的温柔反击。
-**读者视角提示**：记住这只蛾——它是 Max 的自画像：被误认、被轻视、却自有美感；这个意象会让随后的「I love you」格外有力：他爱的是「蛾」本身，不是iole 他想象中的蝶。
+**读者视角提示**：记住这只蛾——它是 Max 的自画像：被误认、被轻视、却自有美感；这个意象会让随后的「I love you」格外有力：他爱的是「蛾」本身，不是他想象中的蝶。
 
 > **原句 8:** "“Most people just swat them away without even bothering to look and see the beauty in them.”
 >
