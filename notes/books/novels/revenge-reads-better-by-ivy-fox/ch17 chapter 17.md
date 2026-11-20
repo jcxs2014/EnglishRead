@@ -33,7 +33,7 @@ modified: "2026-11-20"
 > There's no way I'm leaving Fairhope now. Not until this book is finished."
 
 **中文理解**：Misty 发来两条求和短信要约单独吃午饭——她删掉、拉黑；现在绝不可能离开 Fairhope，至少等书写完。
-**关键词**：block her number / Not until this book is finished / Not happening
+**关键词**：block her number / Not until this book is finished / for good measure
 **为什么这样写**：封口执行与创作执念同框——作者让「留下」的理由从面对创伤滑向完成作品；Misty 的短信（承接 ch13 的封口任务）被删，等于她单方面撕毁对方的和解剧本。
 **读者视角提示**：她拉黑的不是一个朋友，是一份警告——这份警告接下来会以尸体形式重投。
 
