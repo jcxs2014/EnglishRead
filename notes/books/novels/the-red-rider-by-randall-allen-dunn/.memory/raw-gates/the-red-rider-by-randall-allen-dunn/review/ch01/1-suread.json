@@ -1,0 +1,54 @@
+{
+  "chapter": "ch01",
+  "text_file": "text/ch01_1.txt",
+  "facts": [
+    {
+      "fact": "她骑马穿过石板街来到酒馆 La Maison de Touraine，红色兜帽斗篷在冷风中飘动；门口游荡的两个男人，她两个月前（two months ago）头一回进店时就已认得。",
+      "quote": "I  had  approached La  Maison  de  Touraine on\n\n\nhorseback a few minutes earlier, clomping across the cobblestone  streets,  my  red  hooded  cloak  wafting behind me in the chill wind. I could hear the revelry inside La  Maison,  beyond  the  two  men  loitering  on the  front  stoop.  I  recognized  them  both  from  the first night I had entered the tavern two months ago.",
+      "start": 145,
+      "end": 522
+    },
+    {
+      "fact": "门口两个守门人认出了她，也记得兜帽下她只是个十六岁（sixteen-year-old）的金发少女、脸上有疤；两人仍像分开红海一样为她让路。",
+      "quote": "They recognized  me  as  well.  They  also  remembered  that, beneath  the  imposing  hood,  I  was  a  mere  sixteen-year-old  girl  with  blonde  hair  and  a  scarred  face. Nevertheless,  they  parted  for  me  like  the  Red  Sea",
+      "start": 814,
+      "end": 1048
+    },
+    {
+      "fact": "酒馆老板 Gerard Touraine 低声提醒她：角落里有个大个子似乎是「他们」一伙，整晚都在和同伙谈论最近的狼袭，另外几人多半也是一伙的。",
+      "quote": "there’s a big man in the corner who seems to be one of  them. He’s  been  talking  about  the  recent  wolf attacks  all  night  with  his  cronies  there.  I  assume they’re part of it, too, but he must be one, don’t you think?",
+      "start": 2519,
+      "end": 2747
+    },
+    {
+      "fact": "那桌的领头人格勒诺（Grenault）双手交叠放在桌上、依然含笑，点破她就是人称「The Red Rider」的那一位。",
+      "quote": "The  leader—Grenault—folded  his  hands  on\n\n\nthe  table,  still  smiling.  “You  must  be  the  one  they call ‘The Red Rider.’”",
+      "start": 5836,
+      "end": 5965
+    },
+    {
+      "fact": "领头人自报姓名 Luc Grenault、宣称即将成为新任 Prime；她判断他远比多数 Lycanthru 更有野心也更危险，当面质问现任 Prime 是否知道他打算取而代之。他答称 Lycanthru 已变得怯懦、连一个脸带疤的小姑娘都怕，该换领袖了，并放话：一旦把她「死了或半死」（dead or barely alive）地交给教团，Lycanthru 就会乐于追随他和朋友们的「新秩序」。",
+      "quote": "I am Luc Grenault. Soon to become the new Prime.”\n\n\nI inhaled slowly. He was far more ambitious\n\n\nthan  most  Lycanthru.  Making  him  far  more dangerous. “Does the current Prime know you plan to replace him?”\n\n\n“The Lycanthru have grown timid,” he said,\n\n\nhis  eyes  blazing.  “When  our  order becomes frightened  of  a  little  scar-faced girl,  it’s  time  for  a change in leadership.”\n\n\n“How  fortunate  for  them  that  you’ve\n\n\nvolunteered to take over. If you live long enough.”\n\n\n“No  need  to  fret  about  my  welfare,\n\n\nMademoiselle.  And  the  Lycanthru  will  be  all  too eager to follow me and my friends in the new order, once I deliver you to them, dead or barely alive.”",
+      "start": 6356,
+      "end": 7047
+    },
+    {
+      "fact": "她把披风撩开，露出挂在腰间的连发弩（repeating crossbow）；Grenault 的同伙们纷纷后缩——他们知道她的每支弩箭都镀了银，哪怕一丝银也会在几秒（within seconds）内杀死人形或狼形的他们。",
+      "quote": "“We don’t all need them,” I said, pushing my\n\n\ncloak  away  from  the  repeating  crossbow  strapped across my tunic to hang at my hip.\n\n\nThe  other  men  recoiled.  They  knew  that\n\n\neach  of  my  bolts  had  been  tipped  with  silver.  And that  even  a  trace  of  silver  would  kill  them—in human or wolf form—within seconds.",
+      "start": 7158,
+      "end": 7491
+    },
+    {
+      "fact": "Grenault 的同伙 Devereaux 当众点出他渴望的是「Lisette」；她血液发冷追问是谁，Grenault 只说是镇上常见的一位漂亮女人、与她无关，又暗示「若你在意她，她的味道会更甜」；她强稳呼吸与发颤的拳头，先警告他「离她远点」，再厉声警告他远离 La Rue Sauvage 的所有人。",
+      "quote": "“Yeah,”  Devereaux  chimed  in  again.  “For\n\n\nLisette.”\n\n\nMy blood chilled. “Who?”\n\n\nGrenault paused, narrowing his eyes on me a\n\n\nmoment. “A  handsome  woman  I’ve  seen  about town. Nothing to concern you, Mademoiselle.”\n\n\nI  felt  my  cheek  twinge.  My  skin  bristling.\n\n\n“You stay away from her.”\n\n\nHe  lifted  his  chin,  looking  amused. “Is  she\n\n\nimportant  to  you,  Mademoiselle?  That  would  make her taste even sweeter.”\n\n\nI  fought  to  keep  my  breathing  steady.  To\n\n\nkeep my fists from trembling. “You stay away from everyone in La Rue Sauvage!”",
+      "start": 9917,
+      "end": 10484
+    },
+    {
+      "fact": "她与 Grenault 对视片刻后转身走出双开门；她料定他们会追出来、由 Grenault 领头，而且他们确有可能在她射出一箭之前把她撕碎——而她没有多少时间了。",
+      "quote": "I  held  his  gaze  a  moment  longer  before\n\n\nturning to march out the double doors. They would follow  me,  with  Grenault  leading  the  way. Trusting they  could  tear  me  to  shreds  before  I  fired  off  a shot. Which they could.\n\n\nI didn’t have much time.",
+      "start": 10778,
+      "end": 11043
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": "ch04",
+  "text_file": "text/ch04_4.txt",
+  "facts": [
+    {
+      "fact": "一个声音再次向她发问“Where are you going, little girl?”——这是她一路上反复听到的同一个声音；她回头望进黑暗的树林，什么也没看到。她摸了摸自己光滑无疤的脸颊，意识到自己又变回了七岁。",
+      "quote": "Where are you going, little girl?",
+      "start": 12,
+      "end": 45
+    },
+    {
+      "fact": "一只用后腿站立、长着蓝灰色眼睛的大黑狼拦住她的去路，还开口问她行色匆匆要去哪里；她结巴着回答自己正去外婆（Grand’Mere）家、叫它别缠着她；她疑心那也许不是狼，只是一个长得像狼的人。",
+      "quote": "Perhaps it wasn’t a wolf, only a man who looked like a wolf.",
+      "start": 1487,
+      "end": 1547
+    },
+    {
+      "fact": "狼问她外婆是不是就住在附近、说自己不愿她走到不安全的树林深处；她回答：外婆家就在山脊那边。",
+      "quote": "“She lives—just over the ridge.”",
+      "start": 1774,
+      "end": 1806
+    },
+    {
+      "fact": "狼朝她倾过身来说“See you soon”，随即一言不发地闪身消失在森林里；她盯着他，浑身发抖。",
+      "quote": "He craned toward me. “See you soon.”\n\n\nI stared at him, shaking. He darted aside and\n\n\ndisappeared into the forest without a word.",
+      "start": 1992,
+      "end": 2122
+    },
+    {
+      "fact": "她想起外婆，跑出森林、越过草地，冲进外婆家：狼已抢在她前面到达——就在她的小腿跑过森林的工夫——此刻正踩在外婆床上、围着她的床垫打转，爪扒她染血的睡衣和睡帽；外婆已经死了。",
+      "quote": "The  wolf  was  already  there,  on  top  of\n\n\nGrand’Mere’s bed. While my little legs raced through the forest, it had loped ahead of me and now circled across her mattress, pawing at her bloody nightgown and cap.\n\n\nGrand’Mere was dead.",
+      "start": 2745,
+      "end": 2981
+    },
+    {
+      "fact": "她把篮子朝狼掷去，砸中它的口鼻，葡萄、面包和蜂蜜散落一地；狼咯咯笑着凑近，抬起爪子——爪尖在窗光里像银刀般闪亮——朝她的脸抓来。",
+      "quote": "I  hurled  my  basket,  which  bounced  off  its\n\n\nsnout,  scattering  grapes  and  bread  and  honey everywhere. The wolf chortled, then drew closer and raised  its  paw.  Its  claws glinted  like  silver  knives  in the window’s sunlight. It swiped at my face and the entire world turned into a fiery red agony.",
+      "start": 3199,
+      "end": 3512
+    },
+    {
+      "fact": "她尖叫出声——原来是 Papa（父亲）在漆黑的卧室里摇醒她：“Helena, wake up. You’re having another nightmare.”——她当时九岁，脸上有疤。",
+      "quote": "“Helena,  wake  up.  You’re  having  another\n\n\nnightmare.”",
+      "start": 3605,
+      "end": 3663
+    },
+    {
+      "fact": "Papa 伸手从墙边取下火枪（musket），说他宁愿她待在家里，但如果她要去，就得立刻穿好衣服；最后他（巨大的影子）点了点头，说“Very well, then”和“Let’s go hunting.”（去打猎吧）。",
+      "quote": "His darkened  hand retrieved his musket from where he had rested it against the wall. “I’d  rather  you  stay  home,”  he  said.  “But  if you’re coming, get dressed. Now.”\n\n\nMy bedroom suddenly felt as black and cold\n\n\nas  a  tomb.  I  had  to  embrace  that  darkness,  or  I would forever cower from it. “Yes, Papa,” I said.\n\n\nThe giant shadow nodded once. “Very well,\n\n\nthen,” he said. “Let’s go hunting.”",
+      "start": 4812,
+      "end": 5221
+    }
+  ]
+}

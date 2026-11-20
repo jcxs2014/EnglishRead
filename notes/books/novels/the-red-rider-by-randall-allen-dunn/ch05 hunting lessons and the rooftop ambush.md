@@ -33,7 +33,7 @@ modified: "2026-11-20"
 **中文理解**：她撕下裙摆、采来叶子按住伤口止血，把棉布条在脚上缠了四圈打结——抬眼时，正撞见 Papa 瞪大的眼睛，随后他嘴角露出了一丝笑意。
 **关键词**：eyes bulge / wrapped the cotton strip / hint of Papa's smile
 **为什么这样写**："Then bleed." 的冷酷考题在这段里被她当场答完——缠四圈、打结的工序细节让自愈成为可复制的技能而非逞强；"hint of Papa's smile" 只给一丝，铁面教育的认可永远是配给制的。
-**读者视角提示**：她毁掉的是"最爱的裙子"——成年礼的代价从来不是伤口，是自己动手撕掉娇惯的部分。
+**读者视角提示**：她毁掉的是"最爱的裙子"——成年礼的代价从来不是伤口，是自己动手撕掉娇惯的部分。回到家 Mama 惊问裙子与拖鞋，她的回答只有一句 "I stopped the bleeding."——这句话将在终章成为她的战争格言。
 
 > **原句 4:** "We rushed at the carcass. The fawn struggled for its final breaths. I watched it with wonder and pity."
 
@@ -60,7 +60,7 @@ modified: "2026-11-20"
 
 **中文理解**：我要一直收紧到你窒息——你昏过去之后，我把你像块肉一样挂起来，让 Lycanthru 全体看看你有多不堪一击。然后在全体面前，慢慢杀死你。
 **关键词**：suffocate / string you up like a piece of meat / slowly
-**为什么这样写**：宣判分三步走，每一步都是仪式设计——窒息、示众、慢杀；"like a piece of meat" 呼应第 3 章小鹿的 "It was meat."，猎人与猎物的位置被 Grenault 一句话对调；"slowly" 是重点：他要的不是她的死，是组织看着她死。
+**为什么这样写**：宣判分三步走，每一步都是仪式设计——窒息、示众、慢杀；"like a piece of meat" 呼应本章狩猎课闪回里那句 "It was meat."，猎人与猎物的位置被 Grenault 一句话对调；"slowly" 是重点：他要的不是她的死，是组织看着她死。
 **读者视角提示**：这是政治杀人——她的死法被设计成 Grenault 的登基典礼，读者由此明白他真正的目标是 Prime 之位。
 
 > **原句 8:** "“Just dealing with a troublesome animal,” he said. “Nothing to worry about. I'll handle it.”"

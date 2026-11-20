@@ -1,0 +1,54 @@
+{
+  "chapter": "ch05",
+  "text_file": "text/ch05_5.txt",
+  "facts": [
+    {
+      "fact": "打猎出发：Helena 带着 Papa 战争时用过的那把十字弓（crossbow）紧跟 Papa 的脚步穿过森林；Papa 持着他的火枪（musket），两匹马 Royale 和 Crimson 被拴在身后远处的树干上。",
+      "quote": "I carried the crossbow he had used during the war, while Papa held his musket. We had tied Royale and  Crimson  to  a  tree  trunk  far  behind  us",
+      "start": 132,
+      "end": 279
+    },
+    {
+      "fact": "Helena 的脚陷进泥坑、拖鞋陷落找不到；她喊 Papa 帮忙，Papa 拒绝并说「我们不是来找拖鞋的，Helena」，命她找到就带上、找不到就丢下并跟上；她最后决定丢下拖鞋，拾起十字弓追上 Papa。",
+      "quote": "“We’re not here to find slippers, Helena.”",
+      "start": 1695,
+      "end": 1737
+    },
+    {
+      "fact": "Papa 下令射击兔子时 Helena 迟疑未开火，Papa 连声催令（Shoot, Helena! / Helena, now! / Shoot!），兔子竖起耳朵后跳逃；她追着开火、弩箭击中挡路的石头，兔子逃进树林消失；Papa 训诫她「你——不能——犹豫」，并说犹豫就得挨饿、必须把恐惧推开。",
+      "quote": "“You—cannot—\n\n\nhesitate,” he said.",
+      "start": 3572,
+      "end": 3606
+    },
+    {
+      "fact": "Helena 脚踩带刺的树枝摔倒，脚底正中被刺划破流血；她提出要 Mama 来包扎，Papa 拒绝（“Mama’s not here. Dress it yourself.”），还说想让 Mama 包扎就把她送回家；她想到若被送回去、Papa 以后就再不会带她打猎，于是从最爱的白棉裙下摆撕下一条布，采叶压住伤口止血，把棉布条在脚上缠了四圈（four times）后系紧，Papa 眼里露出笑意。",
+      "quote": "“Mama’s not here.\n\n\nDress it yourself.”",
+      "start": 5612,
+      "end": 5651
+    },
+    {
+      "fact": "Papa 发现一头踱入视野、低头啃食灌木嫩叶的小鹿（fawn），举手示意她准备；他低声下令「Now」，她立即开火，弩箭击中鹿颈、小鹿倒地；Papa 夸「Well done, Helena」；她看守鹿尸、Papa 去牵马，回来后两人把鹿尸捆在 Royale 的鞍后拖回家。",
+      "quote": "My bolt struck\n\n\nthe deer’s neck, bringing it down in a heap.",
+      "start": 7448,
+      "end": 7509
+    },
+    {
+      "fact": "一小时后（an hour later）到家，Papa 骄傲地告诉 Mama「Bagged a young deer, her first day hunting」（第一天打猎就猎到一头小鹿）；Mama 从门廊座位跳起来，追问她另一只拖鞋哪去了、裙子怎么弄坏了；她以钢铁般的声音回答「I stopped the bleeding」（我把血止住了）。",
+      "quote": "When we arrived home an hour later, I could\n\n\nhear the pride in his voice as he told Mama what I had  done.  “Bagged  a  young  deer,  her  first  day hunting,” he said.",
+      "start": 8164,
+      "end": 8333
+    },
+    {
+      "fact": "现在时间线：Helena 藏在 La Maison de Touraine 对街箍桶铺 Focult le Tonnelier 的屋顶上等 Grenault 出门；Grenault 猛地推开酒馆门、三大步走到街心张望（身高七英尺 / seven-foot），抬头与她四目相对；她拉弩射击，他跃向一旁躲开，弩箭在鹅卵石上弹开。",
+      "quote": "He leaped aside, letting my bolt bounce off a\n\n\ncobblestone.",
+      "start": 10359,
+      "end": 10419
+    },
+    {
+      "fact": "Grenault 眨眼间跃上墙壁直扑屋顶，把 Helena 拽倒、扯下她肩上的十字弓甩过屋脊，随后掐住她的喉咙；他说她用那把十字弓轻易杀过 Gregor、Thayer 和 Robillet，扬言要掐到她窒息、把她像肉一样吊起来示众、当着全团（the entire order）的面慢慢杀她、并宣布自己为新 Prime（the new Prime）；楼下有人喊话，他松开手、留话「Another evening, sweet child」，下楼后对众人谎称「它跑了……我很快会杀了它」（It got away... I’ll kill it soon enough）。",
+      "quote": "Then I’ll kill you—slowly—in front of the entire order. And declare myself the new Prime.",
+      "start": 12616,
+      "end": 12705
+    }
+  ]
+}
