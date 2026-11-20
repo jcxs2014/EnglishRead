@@ -26,7 +26,7 @@ modified: "2026-11-20"
 > **原句 2:** "For a moment, the years fall away. Milo and I used to come here whenever we needed to escape the mayhem of our lives."
 
 **中文理解**：站在旧果园里，岁月瞬间剥落——她和 Milo 从前每当需要逃离生活的混乱，就会来这里；毯子铺在树下躺几小时，现实暂时追不上来。
-**关键词**：the years fall away / escape the mayhem / our sanctuary
+**关键词**：the years fall away / escape the mayhem / Milo and I used to come here
 **为什么这样写**：避难所作为感情的存档处——作者让空间承载记忆：果园没被士绅化吞掉，像两人的过去也没被时间摧毁；「fall away」写回忆的物理性：十年像外衣一样滑落。
 **读者视角提示**：果园与湖畔（ch19）是 ROM 线的两处圣地——记住它们的地理：它们将在结局处重新出现。
 
