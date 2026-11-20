@@ -14,7 +14,16 @@ modified: "2026-11-15"
 
 ## 精读
 
-> **原句 1:** "My head lifts in his direction as I raise a hand to trace the line of where his jaw should be. “I love you.” The words are simple and true and complete."
+> **原句 1:** "His body tenses. “You know we cannot, my flower. Not yet.”"
+> "“I know.” Regret colors my voice. “My father needs me still. Just a little longer.”"
+> "“We have all the time in the world,” he says, his voice a low rumble I swear I feel. “Plus, I can wait a few more years. I’d wait forever for you”"
+
+**中文理解**：他的身体绷紧：「你知道我们不能，我的花。还不到时候。」「我知道。」她的声音染上悔意：「父亲还需要我。再等一点点。」——「我们有的是时间，」他说，声音低沉得她发誓自己摸得到，「何况我可以再等几年。为你等到永远」
+**关键词**：My father needs me still / Not yet / I’d wait forever for you
+**为什么这样写**：这一段是「拒绝史」的翻案现场——她不是拒绝，是延期；父亲作为「留下的理由」第一次出现在正史里，把 ch08 的「她说 no」补全成「她说 not yet」；原文句尾缺句号的「for you”，」像一句没写完的誓词，急切到标点都省了。
+**读者视角提示**：对照 ch08「She said no. Firmly.」——同一段历史，两个视角各有残缺：他记得的是拒绝，她想起的是延期；他们各自拿着半张地图，这也是两人至今没对齐时间线的原因。
+
+> **原句 2:** "My head lifts in his direction as I raise a hand to trace the line of where his jaw should be. “I love you.” The words are simple and true and complete."
 > "I imagine his eyes darkening further, pupils expanding until only a thin ring of brown remains. “Say it again.”"
 > "“I love you, Aakanksh,” I repeat, using his full name, the one he’s shared only with me. “I will always love you.”"
 > "He shifts to capture my hand in the ghost of his, and I go along with the ruse as he turns it to press a kiss against my palm. “And I you, my flower. Beyond death and time. Beyond the end of all things.”"
@@ -23,15 +32,6 @@ modified: "2026-11-15"
 **关键词**：the one he’s shared only with me / Beyond death and time / my flower
 **为什么这样写**：记忆里的告白用「命名的独占」定级——全名是她专属的通行证，与凡间的 Ash 形成登记差；誓言的三连 beyond 把婚约写成超越物理的合同，比任何凡间婚礼的誓词都长。
 **读者视角提示**：这是「Aakanksh」这个名字第一次经由她的口出现（本章是记忆，她「想起」了它）——对照 ch12 他只给了 Ash：名字的交付从来是分级的；她的记忆正在把合同原件一件件找回来。
-
-> **原句 2:** "His body tenses. “You know we cannot, my flower. Not yet.”"
-> "“I know.” Regret colors my voice. “My father needs me still. Just a little longer.”"
-> "“We have all the time in the world,” he says, his voice a low rumble I swear I feel. “Plus, I can wait a few more years. I’d wait forever for you”"
-
-**中文理解**：他的身体绷紧：「你知道我们不能，我的花。还不到时候。」「我知道。」她的声音染上悔意：「父亲还需要我。再等一点点。」——「我们有的是时间，」他说，声音低沉得她发誓自己摸得到，「何况我可以再等几年。为你等到永远」
-**关键词**：My father needs me still / Not yet / I’d wait forever for you
-**为什么这样写**：这一段是「拒绝史」的翻案现场——她不是拒绝，是延期；父亲作为「留下的理由」第一次出现在正史里，把 ch08 的「她说 no」补全成「她说 not yet」；原文句尾缺句号的「for you”，」像一句没写完的誓词，急切到标点都省了。
-**读者视角提示**：对照 ch08「She said no. Firmly.」——同一段历史，两个视角各有残缺：他记得的是拒绝，她想起的是延期；他们各自拿着半张地图，这也是两人至今没对齐时间线的原因。
 
 > **原句 3:** "“Then go,” I say, though the words taste like ash on my tongue. “You’ve stayed longer than usual already.”"
 > "He crosses the room in three long strides, his hands hovering over my waist. I wish to feel him so badly. “Come with me,” he urges, not for the first time. “Leave this place. These people fear what they don’t understand. They will burn you for your knowledge of herbs and healing.”"

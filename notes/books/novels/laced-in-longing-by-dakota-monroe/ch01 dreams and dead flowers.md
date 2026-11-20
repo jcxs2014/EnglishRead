@@ -70,19 +70,19 @@ modified: "2026-11-15"
 **为什么这样写**：拒绝的真实理由不肯出口，谎话却先跟自己报备——作者用「自知的谎」展示她的社交算法：诚实太贵，说谎的成本她算得起；一件食堂级的小事写透了「人际接触等于耗电」的设定。
 **读者视角提示**：注意谎话的受益人是她自己（"benefits me"），不是怕尴尬——与前一句「不怪寄养家庭」同源：她把所有疏离都记账在自己身上，谎话只是省电模式。
 
-> **原句 9:** "Vertical lines across my wrists where I tried and failed. Horizontal lines along my thighs where I succeeded in a different kind of release. Discolored marks sparkle like constellations, scattered across my ribs where burns sunk into the sensitive skin."
-
-**中文理解**：手腕上是竖的线——试过、没成功；大腿上是横的线——用另一种方式「成功」了；肋骨上散着烧伤留下的斑痕，像星座。
-**关键词**：Vertical lines / different kind of release / like constellations
-**为什么这样写**：三组疤用三种几何、三种结果对仗着写，全程不出现那个词；「另一种释放」把自残写成压力阀，而「像星座」的美化笔触暴露了她看待自己的方式——连伤疤都被她归档成收藏品。
-**读者视角提示**：本章内容最重的一段；"succeeded in a different kind of release" 是反讽写法，作者始终把「释放」和「压力」连在一起说，读的时候不要把它从语境里摘出来。
-
-> **原句 10:** "Crystals. Not the healing kind that wellness influencers peddle, promising to balance chakras or attract love or whatever. Mine serve no purpose beyond their existence. They are perfect in their uselessness."
+> **原句 9:** "Crystals. Not the healing kind that wellness influencers peddle, promising to balance chakras or attract love or whatever. Mine serve no purpose beyond their existence. They are perfect in their uselessness."
 
 **中文理解**：她的水晶收藏不是养生博主兜售的那种「平衡脉轮、招来爱情」——它们除了「存在」没有任何用途，完美地无用，什么都不想要、什么都不要求。
 **关键词**：wellness influencers / serve no purpose / perfect in their uselessness
 **为什么这样写**：「完美的无用」其实是她的择友标准——水晶不会要求她表演正常，这正是所有人类（包括好意的同事）做不到的事；一段收藏品清单，本质是孤独的购物清单。
 **读者视角提示**：「无用」在本书是褒义词——后面凡是「无用而美」的东西都会被她偏向；留意她的收藏清单（水晶）和收到的东西（干花）正在慢慢变成同一类。
+
+> **原句 10:** "Vertical lines across my wrists where I tried and failed. Horizontal lines along my thighs where I succeeded in a different kind of release. Discolored marks sparkle like constellations, scattered across my ribs where burns sunk into the sensitive skin."
+
+**中文理解**：手腕上是竖的线——试过、没成功；大腿上是横的线——用另一种方式「成功」了；肋骨上散着烧伤留下的斑痕，像星座。
+**关键词**：Vertical lines / different kind of release / like constellations
+**为什么这样写**：三组疤用三种几何、三种结果对仗着写，全程不出现那个词；「另一种释放」把自残写成压力阀，而「像星座」的美化笔触暴露了她看待自己的方式——连伤疤都被她归档成收藏品。
+**读者视角提示**：本章内容最重的一段；"succeeded in a different kind of release" 是反讽写法，作者始终把「释放」和「压力」连在一起说，读的时候不要把它从语境里摘出来。
 
 > **原句 11:** "Sleep beckons, and I know what waits for me there. I should resist. Force myself to stay awake, to avoid whatever strange connection has formed between my dreams and the flowers that appear at their abrupt end."
 

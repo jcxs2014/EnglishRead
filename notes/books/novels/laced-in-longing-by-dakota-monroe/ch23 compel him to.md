@@ -28,19 +28,19 @@ modified: "2026-11-15"
 **为什么这样写**：需要被量化成三项指标（存在/声音/重量），像一份成瘾诊断；「haunting my own existence」把 ch18 的失明危机接回个体层：不是世界看不见她，是没了他的世界重新看不见她。
 **读者视角提示**：对照 ch01「a presence lurks just beyond my perception」——开篇时闹鬼的是梦，现在闹鬼的是她本人：位置互换完成，她终于长成了「他那种存在」的一半。
 
-> **原句 3:** "“I was wrong.” Wow, how revolutionary. “I was wrong, and I knew it the moment you left. I’ve been glued to this floor for days like a coward instead of just admitting how sorry I am.” Deep breath. “I made a decision for the both of us in my panic because I thought I knew best. That was stupid, I know…not once in my life have I ever known what was best about anything. And yet I took that choice away from you to keep it for myself, because I decided you were better off without me.”"
-
-**中文理解**：「我错了。」哇，多有革命性。「我错了，你一走我就知道了。这几天我像懦夫一样黏在地板上，不肯承认我有多抱歉。」深呼吸。「我在慌乱里替我们俩做了决定，因为我以为自己最懂。这很蠢——我一辈子就没懂过什么事。可我还是把选择权从你手里夺走、留给自己，因为我认定你没有我会更好。」
-**关键词**：I knew it the moment you left / I took that choice away / better off without me
-**为什么这样写**：道歉书的三段式（认错→认懦→认夺）——最后一刀捅在她自己的罪状核心：ch21 的放逐在她自己的语言里被重新定性为「剥夺选择权」；「better off without me」这句她念了一辈子的咒语第一次被标注为「决定」而不是事实。
-**读者视角提示**：对照 ch21「It's what you are, nonetheless」与本章——她终于把「为我好」的算法从他的手里也收了回来：没有人有权替她决定，包括她自己；这一句是两人关系重启的法理基础。
-
-> **原句 4:** "Please is new. I’ve never begged for anything in my life, except to be free of it. But I’m begging now, the word torn from deep inside my soul, and fucking hell, he still doesn’t appear!"
+> **原句 3:** "Please is new. I’ve never begged for anything in my life, except to be free of it. But I’m begging now, the word torn from deep inside my soul, and fucking hell, he still doesn’t appear!"
 
 **中文理解**：「请」是新的。她这辈子从没乞求过任何东西——除了乞求解脱。但现在她在乞求，这个词从灵魂深处撕出来——而见鬼，他还是没出现！
 **关键词**：Please is new / except to be free of it / torn from deep inside my soul
 **为什么这样写**：「please」这个词的历史只有一条记录（求死）——第二次使用就是求他回来：一个词的两条用例丈量出她整个人生的转向；作者让乞求失败，是为了把「他守约」的痛苦再夯实一层。
 **读者视角提示**：对照 ch19 她的主动召唤（那是有底气的「轮到我要」）与本章——同一动作在不同处境下的重量差；这次失败不是爱情失败，是「通道」失败——下一章她会去找办法。
+
+> **原句 4:** "“I was wrong.” Wow, how revolutionary. “I was wrong, and I knew it the moment you left. I’ve been glued to this floor for days like a coward instead of just admitting how sorry I am.” Deep breath. “I made a decision for the both of us in my panic because I thought I knew best. That was stupid, I know…not once in my life have I ever known what was best about anything. And yet I took that choice away from you to keep it for myself, because I decided you were better off without me.”"
+
+**中文理解**：「我错了。」哇，多有革命性。「我错了，你一走我就知道了。这几天我像懦夫一样黏在地板上，不肯承认我有多抱歉。」深呼吸。「我在慌乱里替我们俩做了决定，因为我以为自己最懂。这很蠢——我一辈子就没懂过什么事。可我还是把选择权从你手里夺走、留给自己，因为我认定你没有我会更好。」
+**关键词**：I knew it the moment you left / I took that choice away / better off without me
+**为什么这样写**：道歉书的三段式（认错→认懦→认夺）——最后一刀捅在她自己的罪状核心：ch21 的放逐在她自己的语言里被重新定性为「剥夺选择权」；「better off without me」这句她念了一辈子的咒语第一次被标注为「决定」而不是事实。
+**读者视角提示**：对照 ch21「It's what you are, nonetheless」与本章——她终于把「为我好」的算法从他的手里也收了回来：没有人有权替她决定，包括她自己；这一句是两人关系重启的法理基础。
 
 > **原句 5:** "And wait, I do. Minutes pass, stretching into hours until the sun dips below the horizon. Eventually, I’m swallowed by darkness, and only the faint glow of street lamps provides any reprieve. Still, I wait. Not moving or turning on the light. Occasionally, I’ll speak his name with the hope that he’ll finally answer, but he never does."
 

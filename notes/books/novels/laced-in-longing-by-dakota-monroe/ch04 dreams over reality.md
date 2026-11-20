@@ -43,20 +43,20 @@ modified: "2026-11-15"
 **为什么这样写**：答应的算法被摊开成四行——不是想社交，是三笔成本核算：没去过酒吧、发薪日、以及「独自喝酒的观感」；最重的一笔写在最后——她怕的不是人，是被人看见她的孤独。
 **读者视角提示**：「illusory fullness」顺手补了她的经济档案：发薪日的饱满是幻觉，账单是现实——她的快乐和她的存款共用同一条曲线；记住这个「怕被看见」，本章后面「真话漏口」的羞耻感同源。
 
-> **原句 5:** "I shake my head. “No one.” The truth slips out before I dress it up in something more palatable. “Foster care,” I add, as if that explains everything."
+> **原句 5:** "The alcohol won’t settle fast enough. I drain half my drink in one go, savoring the burn that travels down my throat and blooms in my chest. Maybe if I get drunk enough, I’ll stop feeling like I’m performing humanity rather than experiencing it."
+
+**中文理解**：酒精降得不够快——她一口气灌下半杯，让那道灼烧顺喉而下、在胸口炸开。也许喝得够多，就能停掉那种「在扮演人类而不是在活着」的感觉。
+**关键词**：drain half my drink / the burn / performing humanity
+**为什么这样写**：「performing humanity」是全章的题眼——把人类身份写成剧目，喝酒是卸妆；「burn/blooms」的爽感措辞暴露她对失控的瘾：她要的不是醉，是「扮演」这出戏的暂时停演。
+**读者视角提示**：对照 ch01 的「伪装成人类的疲惫」（她原话是 performance I have no talent for）——「扮演人类」不是本章新发明，是她的长期状态；酒只是今天唯一的道具。
+
+> **原句 6:** "I shake my head. “No one.” The truth slips out before I dress it up in something more palatable. “Foster care,” I add, as if that explains everything."
 > "Another painful pause, this one filled with the kind of pity I’ve spent my life avoiding."
 
 **中文理解**：被再问及家人，她摇头：「没有人。」真话先于修饰漏了出口，她补一句「寄养长大的」，好像这四个字能解释一切。桌面又是一阵疼痛的静默——这次盛满她躲了一辈子的那种怜悯。
 **关键词**：No one / Foster care / the kind of pity
 **为什么这样写**：连续两问（「No.」「No one.」）的升级是设计好的失守曲线：先答错语气，再答错内容；「dress it up」这个词组把她惯常的谎言工程摆上台面——真话不是她不会说，是来不及包装。
 **读者视角提示**：这是她第一次对活人交代身世——第 2 章里她对医生报的全是假数据。换来的是「疼的静默」：她此后会更用力地说谎；注意 Tyler 拿 IT 话题解围的动作，桌子上的善意都是分工好的。
-
-> **原句 6:** "The alcohol won’t settle fast enough. I drain half my drink in one go, savoring the burn that travels down my throat and blooms in my chest. Maybe if I get drunk enough, I’ll stop feeling like I’m performing humanity rather than experiencing it."
-
-**中文理解**：酒精降得不够快——她一口气灌下半杯，让那道灼烧顺喉而下、在胸口炸开。也许喝得够多，就能停掉那种「在扮演人类而不是在活着」的感觉。
-**关键词**：drain half my drink / the burn / performing humanity
-**为什么这样写**：「performing humanity」是全章的题眼——把人类身份写成剧目，喝酒是卸妆；「burn/blooms」的爽感措辞暴露她对失控的瘾：她要的不是醉，是「扮演」这出戏的暂时停演。
-**读者视角提示**：对照 ch01 的「伪装成人类的疲惫」（她原话是 performance I have no talent for）——「扮演人类」不是本章新发明，是她的长期状态；酒只是今天唯一的道具。
 
 > **原句 7:** "But as my second drink arrives, something shifts in my gut. A heaviness, like a stone sinking through water, embeds in my stomach. The lime suddenly tastes cloying, too tart against the back of my throat."
 

@@ -37,14 +37,28 @@ modified: "2026-11-15"
 **为什么这样写**：神格自述采用「菜单体」——先报菜名（谁渴望）、再报味道（甜、养人），最后一句急转把「她」从菜单上划掉；全书书名的 Laced in Longing 在此拿到主人：渴望本身成了有牙口的存在，而他对她绝食。
 **读者视角提示**：「Never hers」是本章最需要记住的三个词——他的深情不用形容词、用饮食禁忌来表达；后面任何「他靠她过活」的怀疑，都被这半句提前否决。
 
-> **原句 4:** "Each time she has tried to end this life—lifting blade to wrist, swallowing pills by the handful, stepping toward one-way destinations with deadened eyes—I have taken her longing in the moment before. Not to feed or sustain myself, but to drain enough of her despair that the urge of self-destruction fades."
+> **原句 4:** "But before we Dark Gods could claim our promised companions, something happened. The Bright Gods claim it was an accident. The souls meant for us were sent to mortal wombs instead, condemned to cycles of death and rebirth until they choose, of their own free will, to join us in the Otherworld."
+
+**中文理解**：但在他们六位黑暗之神去认领各自的应许伴侣之前，出事了。光明之神说是意外——本该属于他们的灵魂被投进了凡人的子宫，被判入生死循环，直到她们出于自由意志选择加入 Otherworld。
+**关键词**：promised companions / an accident / of their own free will
+**为什么这样写**：神界官僚的「事故」两个字被他原样引用——引号里的讥诮说明他不信：一个 despise 他们本性的阵营，独独在关键环节出错；「free will」条款则是全书悬念的总阀门——她的「选择」既是爱的通关文牒，也是他不能碰的红线。
+**读者视角提示**：记住这个设定结构：他不是在等她「爱上他」，是在等她「自愿回家」——这两个命题的难度完全不同；Vorin（暴食神）已经完成回收，六分之一进度条已走。
+
+> **原句 5:** "Maven sees me draped in white silk that obscures my features, though I feel nothing on my face. To me, everything appears normal. I see her perfectly—every pore and eyelash, every minute shift of expression."
+
+**中文理解**：Maven 看见他覆着白丝——遮住五官，可他自己脸上什么都没感觉；对他而言一切正常：他看得清她——每个毛孔、每根睫毛、每次最细微的表情变化。
+**关键词**：draped in white silk / I feel nothing / every pore and eyelash
+**为什么这样写**：白纱谜底揭晓却不对称——「遮蔽」只存在于她的视觉里，是他的保护性显形；单向透明（他看见全部、她看见布）把两人关系的全部信息差织进一件「衣服」里，她以为的悬念在他那边从头就不存在。
+**读者视角提示**：回想 ch03「veil worn backward」——「反着戴的面纱」这个比喻原来精确到物理：纱在他那边不存在；每一条她的「看不清」，都是他的「看得清」的镜像。
+
+> **原句 6:** "Each time she has tried to end this life—lifting blade to wrist, swallowing pills by the handful, stepping toward one-way destinations with deadened eyes—I have taken her longing in the moment before. Not to feed or sustain myself, but to drain enough of her despair that the urge of self-destruction fades."
 
 **中文理解**：每一次她试图结束此生——举刀向腕、一把把吞药、目光已死地走向不归之地——他都在前一刻取走她的渴望：不是为进食，而是抽掉足够的绝望，让自毁的冲动自己熄灭。
 **关键词**：in the moment before / Not to feed / the urge of self-destruction fades
 **为什么这样写**：全章的雷管在此引爆——ch02「第三次自杀未遂」、ch01 的「试过但失败」，此刻全部拿到新解：不是她失败，是他拦截；「Not to feed」三个词斩断读者刚建立的功利怀疑：他对她的干预是倒贴的。
 **读者视角提示**：这一段同时改写了她的自传——「我没有勇气完成」是假记忆；她的病识、她的自我鄙夷，全部建立在一场善意的篡改上。作者把「被爱与知情权」的对立第一次摆上桌。
 
-> **原句 5:** "She believes, I think, that she simply lacks the courage to complete these acts. That some part of her clings to life despite its endless cruelties."
+> **原句 7:** "She believes, I think, that she simply lacks the courage to complete these acts. That some part of her clings to life despite its endless cruelties."
 > "I let her believe this. It is kinder than the truth."
 
 **中文理解**：她想，「我大概只是缺那种狠劲」——是身体里某一部分还在贪恋这条无尽残忍的命。他任由她这么相信。这比真相仁慈。
@@ -52,26 +66,12 @@ modified: "2026-11-15"
 **为什么这样写**：短短两段完成一次伦理压秤：善意（让她活）与诚实（告诉她你被干涉过）不可兼得——他选了前者；「kinder than the truth」五个词是全书道德灰区的第一块碑，此后他每个「为你好」都要回到这里称重。
 **读者视角提示**：注意他的自我评估只有「kinder」没有「right」——作者没让他赢下辩论，只让他赢了选择；这层不安会一直留在你和 Maven 之间。
 
-> **原句 6:** "But before we Dark Gods could claim our promised companions, something happened. The Bright Gods claim it was an accident. The souls meant for us were sent to mortal wombs instead, condemned to cycles of death and rebirth until they choose, of their own free will, to join us in the Otherworld."
-
-**中文理解**：但在他们六位黑暗之神去认领各自的应许伴侣之前，出事了。光明之神说是意外——本该属于他们的灵魂被投进了凡人的子宫，被判入生死循环，直到她们出于自由意志选择加入 Otherworld。
-**关键词**：promised companions / an accident / of their own free will
-**为什么这样写**：神界官僚的「事故」两个字被他原样引用——引号里的讥诮说明他不信：一个 despise 他们本性的阵营，独独在关键环节出错；「free will」条款则是全书悬念的总阀门——她的「选择」既是爱的通关文牒，也是他不能碰的红线。
-**读者视角提示**：记住这个设定结构：他不是在等她「爱上他」，是在等她「自愿回家」——这两个命题的难度完全不同；Vorin（暴食神）已经完成回收，六分之一进度条已走。
-
-> **原句 7:** "This Maven—Maven Talmay, twenty-seven years old, resident of nine cities in eight years, survivor of foster homes and countless rejections—is the dimmest iteration yet. A soul so wounded by its continuous exile that it has forgotten how to recognize joy."
+> **原句 8:** "This Maven—Maven Talmay, twenty-seven years old, resident of nine cities in eight years, survivor of foster homes and countless rejections—is the dimmest iteration yet. A soul so wounded by its continuous exile that it has forgotten how to recognize joy."
 
 **中文理解**：这一世的 Maven——Maven Talmay，27 岁，八年九城的居民，寄养家庭与无数次拒绝的幸存者——是历世最暗的一版：一个被连续流放伤透、忘了怎么认出快乐的灵魂。
 **关键词**：Maven Talmay / the dimmest iteration yet / forgotten how to recognize joy
 **为什么这样写**：神口中的简历与 ch01 的自述完全同轴（九城八寄养），但评价体系反转——她自己写「问题在我」，他写「流放之伤」；「dimmest yet」为全书设了进度基线：她只会更亮，不会更暗。
 **读者视角提示**：这里完成了一次视角交接：从本章起，她的自我叙事不再拥有独家解释权——读者手里同时握着两个版本的 Maven；往后每一段自我攻击都值得先问一句「他不同意」。
-
-> **原句 8:** "Maven sees me draped in white silk that obscures my features, though I feel nothing on my face. To me, everything appears normal. I see her perfectly—every pore and eyelash, every minute shift of expression."
-
-**中文理解**：Maven 看见他覆着白丝——遮住五官，可他自己脸上什么都没感觉；对他而言一切正常：他看得清她——每个毛孔、每根睫毛、每次最细微的表情变化。
-**关键词**：draped in white silk / I feel nothing / every pore and eyelash
-**为什么这样写**：白纱谜底揭晓却不对称——「遮蔽」只存在于她的视觉里，是他的保护性显形；单向透明（他看见全部、她看见布）把两人关系的全部信息差织进一件「衣服」里，她以为的悬念在他那边从头就不存在。
-**读者视角提示**：回想 ch03「veil worn backward」——「反着戴的面纱」这个比喻原来精确到物理：纱在他那边不存在；每一条她的「看不清」，都是他的「看得清」的镜像。
 
 > **原句 9:** "For the first time in this mortal lifetime, hope unfurls in me. Fragile, but there."
 > "This time will be different."
