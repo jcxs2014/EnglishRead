@@ -31,17 +31,17 @@ modified: "2026-11-17"
 **为什么这样写**：照片墙先立起一个「幸福模板」，再让一句 eight-word 的否定把它和水槽里的尸体隔开——作者用排除法教读者识别受害者与目标：两户人家长得太像了（都是「幸福的四口之家」），凶手的选单逻辑因此浮出水面：他杀的是身份，不是长相。
 **读者视角提示**：本书的核心猎场从这一刻具象化：两对夫妻、两栋房、一堵墙的照片。往后每引入一个新家庭，都自动归入这张「幸福模板」名单——名单就是猎区。
 
-> **原句 4:** "He was at least six-foot-three, towering over Alex, his hands on his hips as he glared down at her. … “Tell me what the fuck’s going on. Right now.”"
-**中文理解**：他至少六英尺三，居高临下罩着 Alex，双手叉腰瞪着她。……「告诉我到底他妈的怎么回事。现在就说。」
-**关键词**：six-foot-three / towering over Alex / Right now
-**为什么这样写**：作者的镜头先给身高差再给命令句——身体压迫先行，语言压阵；Right now 两个词的急迫感与他的块头配套：这是一个习惯了「说一遍就被服从」的人。Alex 的回应将决定本章的权力走向。
-**读者视角提示**：Grant 的威逼公式=身量+命令。记住他这个姿态：往后他每次挡在信息前面，都是这个站法。他也因此成为本章唯一的「非警方阻碍源」——凶手不在场，阻碍全来自受害者亲友团。
-
-> **原句 5:** “I had to tell him something,” she said. … “So you told him there’s a fucking killer running around Dunning?” … She shrugged, seeming desperate to melt into the wall and disappear altogether.
+> **原句 4:** “I had to tell him something,” she said. … “So you told him there’s a fucking killer running around Dunning?” … She shrugged, seeming desperate to melt into the wall and disappear altogether.
 **中文理解**：「我得跟他说点什么，」她说。……「所以你就告诉他有个操蛋的杀手在 Dunning 乱窜？」……她耸耸肩，恨不得化进墙里彻底消失。
 **关键词**：had to tell him something / killer running around Dunning / melt into the wall
 **为什么这样写**：三段对话完成一次「泄密现场」的速写：借口（I had to）、后果（killer）、逃避（shrug）——Lacey 的失误不是职业能力，是抗压力：她用最坏的方式填补沉默。melt into the wall 把她的羞怯写成物理愿望，Alex 的质问因此收住了分量。
 **读者视角提示**：泄密的后果在后面会显形：Grant 一伙现在「知道有杀手」，他们的自保动作（聚集、拦路、不让人走）都由此而来。Lacey 的软肋=压不住场子——这个判断决定了 Alex 之后如何使用她。
+
+> **原句 5:** "He was at least six-foot-three, towering over Alex, his hands on his hips as he glared down at her. … “Tell me what the fuck’s going on. Right now.”"
+**中文理解**：他至少六英尺三，居高临下罩着 Alex，双手叉腰瞪着她。……「告诉我到底他妈的怎么回事。现在就说。」
+**关键词**：six-foot-three / towering over Alex / Right now
+**为什么这样写**：作者的镜头先给身高差再给命令句——身体压迫先行，语言压阵；Right now 两个词的急迫感与他的块头配套：这是一个习惯了「说一遍就被服从」的人。Alex 的回应将决定本章的权力走向。
+**读者视角提示**：Grant 的威逼公式=身量+命令。记住他这个姿态：往后他每次挡在信息前面，都是这个站法。他也因此成为本章唯一的「非警方阻碍源」——凶手不在场，阻碍全来自受害者亲友团。
 
 > **原句 6:** "That had to be Scott Cook, the man she’d spoken to on the phone, and seeing him now—shattered by the news—made her regret her decision to talk to him about it over the phone even more."
 **中文理解**：那一定是 Scott Cook，电话里那个男人；此刻亲眼看到他被消息击碎的样子，她更加后悔在电话里对他讲了那件事。
