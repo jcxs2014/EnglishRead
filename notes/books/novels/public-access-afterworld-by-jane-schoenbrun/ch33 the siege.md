@@ -6,7 +6,7 @@ modified: "2026-11-19"
 # 33. Chapter 7（Episode Five: A/B）
 
 ## 本章导航
-- **一句话概括**：HQ 围城：Fisch 摘下侄子的戏（「The A/B test is over——你是 B 组」）改演招募传教，茶杯掷脸引来狙击网；Bethany 用 CEO 回忆录当诱饵、搭同事桌下的炸弹爆炸滚下楼梯——芥末豌豆罐砸落处枪响，倒下的却是 Kyle：Jules 与 David Sawyer 逆天登场，「我找你很久了」。
+- **一句话概括**：HQ 围城：Fisch 摘下侄子的戏（「The A/B test is over——你是 B 组」）改演招募传教；Bethany 用 CEO 回忆录当诱饵引来狙击网——Shailene 的人在主层各张共享桌下布的遥控炸药把同事桌炸上天（"went up like a car bomb"），滚下楼梯的她被 Kyle 用芥末豌豆罐击倒夺枪；枪响处倒下的却是 Kyle（脑浆渗入豆粒潮汐）：Jules 与 David Sawyer 逆天登场，「I've been looking for you for a very long time」。
 - **情感弧线位置**：A/B 测试的公开宣判与当场作废：B 组拒绝签字，测试方动用火力——而频道真正的「第一读者」（David）进场收表。
 - **Tropes 兑现/反转**：兑现「孤胆英雄闯总部」；反转「英雄=猎物」——她的 action movie 幻觉被狙击网纠正；反转「处决枪声」——那一枪打死的是刽子手。
 - **人物弧线**：Fisch：招安失败即弃局（跑得比谁都快）；Kyle：戏服被叔叔亲手扒下（「You can drop the act」）；David：两季传说中的现身=仪式的主持人到场。
@@ -90,4 +90,4 @@ modified: "2026-11-19"
 | marbles | n. 弹珠（marble 的复数） | Glass shattered hard against her as hundreds of wasabi peas spilled like marbles across the floor. |
 
 ## 一句话总结
-A/B 测试在 K 会议室外被火力终结：Fisch 摘下侄子的戏服招安（「你是 B 组」「你属于 below」），Bethany 用他的回忆录挡他的狙击、搭同事桌下的炸弹滚出大楼——芥末豌豆罐砸落处的枪响来自 Jules 与 David Sawyer：频道的第一读者进场收表，「你要帮我找回一个我很久以前失去的人」。
+A/B 测试在 K 会议室外被火力终结：Fisch 摘下侄子的戏服招安（「你是 B 组」「你属于 below」），Bethany 用他的回忆录挡他的狙击、在 Shailene 之人布下的桌底遥控炸药炸响时滚下楼梯——被芥末豌豆罐击倒后，枪响倒下的是 Kyle，收走旧枪的是 Jules：频道的第一读者进场收表，「你要帮我找回一个我很久以前失去的人」。
