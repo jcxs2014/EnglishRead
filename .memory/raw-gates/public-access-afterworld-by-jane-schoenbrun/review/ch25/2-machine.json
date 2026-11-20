@@ -1,0 +1,214 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch25 i heard a rumor.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch25_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Bethany had been a brick smashing through the window of their boring-ass life. When she’d been around these past couple ",
+          "ok": true,
+          "pos": 1369
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It sounded awful, like a dentist office drill, like those football kids were pelting every inch of the shed with rocks, ",
+          "ok": true,
+          "pos": 4251
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "They felt the men in ski masks grab at their feet and try to pull them back through. Jules screamed and struggled, but i",
+          "ok": true,
+          "pos": 5214
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He slowly removed his ski mask, and Jules’s eyes went wide as they realized that in fact it hadn’t been the football kid",
+          "ok": true,
+          "pos": 6079
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I heard a rumor you’ve been looking for me,” David Sawyer told them, and Jules Estrada stopped struggling",
+          "ok": true,
+          "pos": 6319
+        }
+      ],
+      "words": 18
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.32
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.71
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter 8（Episode Three: Pink Eye）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1150,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
