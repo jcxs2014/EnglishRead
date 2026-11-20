@@ -144,7 +144,7 @@ modified: "2026-11-20"
 > “The worst,” he says softly, lowering his head until our lips are so close, all it would take is for me to lean in and—"
 
 **中文理解**：他说「我现在真的非常想吻你」，目光落到她唇上；她耳语「那会是个糟糕透顶的主意」——全身神经却在发麻；他柔声接「糟到极点」，低头到两人嘴唇只差她倾身一寸——
-**关键词**：really want to kiss you / a terrible idea / all it would take is for me to lean in
+**关键词**：really want to kiss you / a terrible idea / for me to lean in
 **为什么这样写**：合意以「共同认领糟糕」完成——作者让两人用同一组形容词（terrible/the worst）确认同一个欲望；破折号是作者的刹车片：真正的打断者下一秒才登场。
 **读者视角提示**：这是「almost」的教科书写法——记住这一寸：它与 ch07 的拇指停唇、ch15 的车内吻构成递进序列。
 
