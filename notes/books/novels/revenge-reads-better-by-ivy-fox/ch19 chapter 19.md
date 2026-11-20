@@ -105,7 +105,7 @@ modified: "2026-11-20"
 **中文理解**：Max 自白：没想到回 Fairhope 会感觉这么好——那个给她无数躲藏理由的地方，反而提醒她怎么去生活；目标、归属、那个人，全在这里找回了——讽刺的是，得回到这里才能找齐。
 **关键词**：remind me how to live it / My purpose. My people. My person. / ironic
 **为什么这样写**：全书情感主题的凝练——作者用三个名词短语给她的收获命名：purpose（写作）/people（Sienna）/person（Milo）；「ironic」承认命运的嘲弄：解药藏在你最想逃离的地方。
-**读者视角提示**：这是 ROM 线的ameter式自白——她终于承认「那个人」是她生活的组成部分，与 ch14 的埋葬决定形成完整闭环。
+**读者视角提示**：这是 ROM 线的命名式自白——她终于承认「那个人」是她生活的组成部分，与 ch14 的埋葬决定形成完整闭环。
 
 > **原句 11:** "And right where he always used to sit, at the end of the dock, sits Milo.
 >

@@ -25,7 +25,7 @@ modified: "2026-11-20"
 **中文理解**：Misty 主动认错：她说得对，我最近是个糟糕的朋友——啦啦队训练加上祖母 24 小时盯着我，我没多少空闲，但那是我的问题，不是你们的，我该更用心。
 **关键词**：been a bad friend / on my case twenty-four seven / made more of an effort
 **为什么这样写**：认错的速度太快、措辞太圆——作者让「genuinely remorseful」成为悬置判断：她是真愧疚还是排练过？「on my case」把祖母控制写成日常借口，ch12 里她「做点什么」的动机在此有了回声。
-**读者视角提示**：Misty 的道歉与 ch18 的「sleepover」是同一套剧本的两幕——认错铺垫索取，留意她下一步要什么。
+**读者视角提示**：Misty 的道歉与本章的「sleepover」是同一套剧本的两幕——认错铺垫索取，留意她下一步要什么。
 
 > **原句 3:** "“Isn’t it gorgeous?” Misty squeals, no longer looking quite so guilty about blowing us off these past few months. “Best sweet sixteen present ever.”"
 >
@@ -84,7 +84,7 @@ modified: "2026-11-20"
 
 **中文理解**：Sienna 看着窗外说：这样的世界谁笑得出来？孩子被忽视、挨饿、被虐待——没什么可笑的，至少在我的世界里没有；Max 为朋友心疼，也为她吐露的这一小片真相。
 **关键词**：neglected, starved, and abused / nothing to smile about / the sliver of truth
-**为什么这样写**：「笑容」议题被 Sienna ersonal 化——作者让她的反笑 bukan 性格怪癖，而是创伤性认知（她自己就是被忽视的孩子）；「sliver of truth」是自养孤儿递给朋友的极少量真相，她是守门人也是受害者。
+**为什么这样写**：「笑容」议题被 Sienna 个人化——作者让她的反笑不是性格怪癖，而是创伤性认知（她自己就是被忽视的孩子）；「sliver of truth」是自养孤儿递给朋友的极少量真相，她是守门人也是受害者。
 **读者视角提示**：记住「neglected, starved, and abused」三个词——它们大概率是 Sienna 童年（母亲吸毒、祖父母年迈）的写真；她的 FBI 之梦与这里的世界观同源。
 
 > **原句 9:** "“Why don’t we have a sleepover tonight? You know, like old times?”
