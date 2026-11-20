@@ -102,7 +102,7 @@ modified: "2026-11-20"
 **中文理解**：Peyton 也该今晚死——Max 承认；她偷听得知 Peyton 要穿旧啦啦队服、去她妈家取——但她先到了那一步。
 **关键词**：supposed to die tonight / cheerleading uniform / got there first
 **为什么这样写**：Peyton 的火是「巧合」还是「安排」——作者让「化学药品+烟头」的杀人计划在此揭晓：Max 用 Crashing Echoes 里写过的可燃化学品（黑市买、PA 寄）处理了制服，等 Peyton 穿上、再点火——「She tried to kill me too」的反面：她也试过杀 Peyton。
-**读者视角提示**：这段揭示 ch33/37 两个「火」事件的真相：2013 年纸厂火灾（Peyton 烧 Kody）与 2026 年守夜仪式的制服起火（Max 烧 Peyton）——纵火在两代人之间形成镜像；T1 审查时核对时间线（2013 火灾 vs 2016 大火 vs 2026 化学品）。
+**读者视角提示**：这段揭示 ch33/37 两个「火」事件的真相：2016 年 7 月纸厂火灾（Peyton 纵火烧死 Kody 等五人）与 2026 年守夜仪式的制服起火（Max 烧 Peyton）——纵火在两代人之间形成镜像；年份以 text/ 日期抬头为准（ch38=2016-07-08）。
 
 > **原句 8:** "“A confession disguised as a manuscript.”"
 >
