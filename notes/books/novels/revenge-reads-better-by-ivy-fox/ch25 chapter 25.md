@@ -134,23 +134,11 @@ modified: "2026-11-20"
 **为什么这样写**：FBI 侧写成为剧情引擎——作者用「前排座位」的比喻把凶手的心理具象化：他不只是杀，还要「观看」；这解释了为什么必须去葬礼——抓凶手的唯一机会是扮演诱饵。
 **读者视角提示**：这个「凶手会重返现场」的设定，把 Sydney 葬礼变成全书的决战舞台——记住它，接下来的章节会在这里收网。
 
-> **原句 12:** "“You keep saying he.”"
->
->
-> "“You know him too.”"
->
->
-> "My pulse kicks up."
->
->
-> "“Who?” I whisper nervously. “Who do you think will be there?”"
->
->
-> "Sienna doesn’t so much as blink as she utters his name. “Mr. Collins.”"
+> **原句 12:** "Sienna doesn’t so much as blink as she utters his name. “Mr. Collins.”"
 
-**中文理解**：Max 注意到她一直说「他」——你早就知道是谁？Sienna 点头：你也认识他；Max 脉搏加速追问是谁，Sienna 眼睛都不眨地吐出名字：Mr. Collins。
-**关键词**：You keep saying he / You know him too / Mr. Collins
-**为什么这样写**：点名作为 cliffhanger——作者用「you keep saying he」的细察把推理的最后一环交给读者，再由 Sienna 的「不眨眼」宣告确定性；从「伯乐老师」到「连环杀手」的翻转，把全书前半建立的信任结构瞬间拆毁。
+**中文理解**：Max 注意到 Sienna 一直用「他」、逼问凶手是谁，Sienna 说「你也认识他」——此刻她眼睛都不眨地吐出那个名字：Mr. Collins。
+**关键词**：so much as blink / utters his name / Mr. Collins
+**为什么这样写**：点名作为 cliffhanger——作者用「不眨眼」宣告 Sienna 的确定性，把一个轻轻的名字压成全书的转折重锤；从「伯乐老师」到「连环杀手」的翻转，把前半部建立的信任结构瞬间拆毁。
 **读者视角提示**：这是全书最大的反转——但注意：Sienna 的「know him too」是关键：Collins 是 Max 的老师，也是她 ch18-24 反复出现的关键人物；他「重新写作」（ch16）的动机、他对 Max 故事的异常关注，此刻全部改写为嫌疑。T1 审查时需核对这条指认的取证是否充分。
 
 ## 本章词汇
