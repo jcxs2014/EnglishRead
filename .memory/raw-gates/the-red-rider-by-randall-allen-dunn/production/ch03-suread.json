@@ -1,0 +1,55 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch03_3.txt",
+ "facts": [
+  {
+   "fact": "她强令自己松弛、背对 Grenault 慢步离场，演出一副\"饶你一命\"的从容——绝不能让他知道箭已打光",
+   "anchor": "I couldn’t let him know I had run out of bolts",
+   "start": 226,
+   "end": 272
+  },
+  {
+   "fact": "藏身处是战争遗留的地下长屋（曾庇护士兵与家眷），她自称\"我的私人地下堡垒\"",
+   "anchor": "My own private underground fortress",
+   "start": 1789,
+   "end": 1826
+  },
+  {
+   "fact": "毁容来历：三道爪痕斜贯面部——自狼袭击那天起她的丑陋无处可逃",
+   "anchor": "From the day that wolf attacked me, my ugliness had been inescapable",
+   "start": 2954,
+   "end": 3026
+  },
+  {
+   "fact": "叙述者姓名揭晓：Celia Verdante 当街嘲讽她——Helena Basque，穿男装的姑娘",
+   "anchor": "Helena Basque. The girl who dresses like a man.",
+   "start": 4328,
+   "end": 4375
+  },
+  {
+   "fact": "Pierre 偷偷为她淬了 22 支银箭，并对父亲谎称报废了金属银料——他不能让她付钱也不求回报",
+   "anchor": "Twenty-two this time.",
+   "start": 7785,
+   "end": 7806
+  },
+  {
+   "fact": "关键揭示：Pierre 的继母 Madame Lisette Leóne，正是 Grenault 声称要下手的目标",
+   "anchor": "Madame Lisette Leóne. The woman Grenault said he was targeting.",
+   "start": 8725,
+   "end": 8794
+  },
+  {
+   "fact": "Pierre 之父 Frayne 下逐客令：可以留下，但别再把狼引到我们家门口",
+   "anchor": "I can’t have you bringing them to our doorstep.",
+   "start": 14953,
+   "end": 15000
+  },
+  {
+   "fact": "结尾立誓：恐惧是她付不起的奢侈品，必须抢在 Grenault 毁掉她之前毁掉 Grenault",
+   "anchor": "I had to find a way to destroy Grenault, before he destroyed me.",
+   "start": 16039,
+   "end": 16113
+  }
+ ]
+}
