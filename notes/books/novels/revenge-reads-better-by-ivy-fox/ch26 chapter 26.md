@@ -24,15 +24,9 @@ modified: "2026-11-20"
 **读者视角提示**：Peyton 的「Extra Credit/走好不送」说明她提前知道——她是这场陷害的编剧，这声嘲讽是谢幕词。
 
 > **原句 2:** "“It has come to the school board’s attention that you and a teacher at this school may have engaged in an inappropriate relationship.”"
->
->
-> "It’s me. Me and Mr. Collins. On my front porch."
->
->
-> "I’m wearing the shorts and tank top I had on Sunday morning, his arms tight around me."
 
-**中文理解**：校长说校董会收到举报，她与老师有「不当关系」；照片上的确是她——和 Collins 在她家门廊，穿着周日的短裤背心，他的手臂紧紧环着她。
-**关键词**：inappropriate relationship / On my front porch / shorts and tank top
+**中文理解**：校长说校董会收到举报，她与老师有「不当关系」——一张照片就把善意拥抱改写成丑闻。
+**关键词**：school board’s attention / inappropriate relationship / a teacher at this school
 **为什么这样写**：构图的杀伤力在于「没有语境」——作者让照片的视觉事实（半裸+拥抱+独居）自动完成定罪：它没说谎，只是不说全部真相；这是全书的物证陷阱。
 **读者视角提示**：这张照片是 ch24 获奖那天的拥抱——同一个善意的瞬间，被镜头改写成丑闻；记住「拍摄者」的视角，它是全书监视主题的顶点。
 
@@ -160,19 +154,12 @@ modified: "2026-11-20"
 **为什么这样写**：监视者公开列队——作者用「firing squad（行刑队）」把 Reds 的站姿军事化：她们不动手，只「观看」，而观看本身就是处决；「victory lap」把 Max 的痛苦变成她们的奖杯。
 **读者视角提示**：这个画面是全书最冷的权力展示——与 ch11 的「toast/brunch 检阅」呼应：Reds 不需要出手，她们只要在场、在看，就足以摧毁一个人。
 
-> **原句 13:** "Me: I’m sorry."
->
->
-> "Before he has a chance to respond, I block his number."
->
->
-> "There. It’s done."
->
->
-> "She’s won."
+> **原句 13:** "Before he has a chance to respond, I block his number."
 
-**中文理解**：她给 Milo 发「对不起」，趁他没回复立刻拉黑；关上窗帘——完成了，她赢了。
-**关键词**：I’m sorry / block his number / She’s won
+**中文理解**：她给 Milo 发「对不起」，趁他还没来得及回复，立刻拉黑了他的号码——亲手关上唯一的光。
+**关键词**：Before he has a chance to respond / block his number
+**为什么这样写**：拉黑作为分手的全部动作——作者用一个极其日常的手指动作承载最痛的告别：她不给解释、不给回应机会，因为一犹豫就做不到；「before he has a chance」把她的决绝与恐惧同时按下。
+**读者视角提示**：记住这个「拉黑」——它是 ROM 线最低点的物证，与 ch07 的「Maybe I'll feel differently」呼应；结局必须交代它如何被推翻或加深。
 **为什么这样写**：四句短句做终章判决——作者让「拉黑」这个极其日常的动作承载分手全部重量；「She's won」用第三人称把自己从身体里抽离：她承认 Peyton 的胜利，也把自己判出局。
 **读者视角提示**：记住这个「I'm sorry + 拉黑」——它是 ROM 线的最低点，与 ch07 的「Maybe I'll feel differently」呼应；结局必须给出这个决定如何被推翻或加深。
 
