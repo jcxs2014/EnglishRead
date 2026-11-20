@@ -40,7 +40,7 @@ modified: "2026-11-20"
 **中文理解**：她抬手直瞄狼头，一箭命中，那狼当场毙命——群狼中随即响起一声嘶哑的狼嚎呼喊：Thayer！
 **关键词**：straight at his head / in an instant / guttural
 **为什么这样写**："straight at his head" 点明这是暗夜盲射里唯一可靠的选择——不打身体打轮廓最高的头；"in an instant" 与群狼的哀嚎相接，杀戮的安静与幸存者的嘶喊贴在一行里，战果用敌人的悲鸣来确认。
-**读者视角提示**：此刻的账面是 "Five bolts, and six of them."——五箭对六狼，每一箭都必须是收割而不是试探，这就是她后来越射越急的原因。
+**读者视角提示**：此刻的账面是 "Five bolts, and six of them."——五箭对六狼，每一箭都必须是收割而不是试探，这就是她后来越射越急的原因。紧接着 "Gregor!" 与 "Robillet …" 两声哀嚎相继响起，群狼的胆气被一箭一箭射穿。
 
 > **原句 5:** "I might have enough time to reload before he realized my predicament and rushed down the hill to devour me. Or I might not. Better to bluff."
 
