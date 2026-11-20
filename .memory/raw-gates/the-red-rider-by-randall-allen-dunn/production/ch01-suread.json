@@ -1,0 +1,55 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch01_1.txt",
+ "facts": [
+  {
+   "fact": "两名守门汉子认出红斗篷少女后让路问好，其中矮个的还半鞠躬称她 Mademoiselle——她两个月内已在此立威",
+   "anchor": "Nevertheless,  they  parted  for  me  like  the  Red  Sea",
+   "start": 991,
+   "end": 1048
+  },
+  {
+   "fact": "店主 Touraine 低声提醒：角落里的大个子疑似狼人，整晚都在和同伙谈论近来的狼袭",
+   "anchor": "there’s a big man in the corner who seems to be one of",
+   "start": 2519,
+   "end": 2573
+  },
+  {
+   "fact": "叙述者主动走到那人桌前对峙，来人自报家门 Luc Grenault，自称即将成为狼群组织 Lycanthru 的新首领 Prime",
+   "anchor": "I am Luc Grenault. Soon to become the new Prime.",
+   "start": 6356,
+   "end": 6404
+  },
+  {
+   "fact": "Grenault 脸上的疤来历：被人用碎玻璃划脸，他随后永久解决了对方——他以此为荣",
+   "anchor": "He decided to settle it by scraping  a  broken  glass  across  my  face.",
+   "start": 5277,
+   "end": 5349
+  },
+  {
+   "fact": "Grenault 逐个介绍同伙：Thayer Gillette 是警局副手，Gregor Verona 是医生 Renoire 的学徒，其余人在煤矿做工、合住一屋",
+   "anchor": "Thayer  is  a  police  deputy",
+   "start": 7824,
+   "end": 7853
+  },
+  {
+   "fact": "Grenault 公开宣告意图：把红斗篷少女死着或半死地交给 Lycanthru，好让组织追随他的新秩序",
+   "anchor": "once I deliver you to them, dead or barely alive.",
+   "start": 6997,
+   "end": 7046
+  },
+  {
+   "fact": "同伙 Devereaux 起哄说 Grenault 只惦记一个女人，名字 Lisette 一出口叙述者血液发冷，追问是谁",
+   "anchor": "My blood chilled",
+   "start": 9976,
+   "end": 9992
+  },
+  {
+   "fact": "叙述者强稳呼吸喝令 Grenault 离 La Rue Sauvage 街所有人远点，随后转身出门——她清楚他们会跟上她，时间不多了",
+   "anchor": "You stay away from everyone in La Rue Sauvage!",
+   "start": 10437,
+   "end": 10483
+  }
+ ]
+}
