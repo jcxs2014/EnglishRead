@@ -1,0 +1,67 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch66",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch66_chap66.txt",
+ "facts": [
+  {
+   "fact": "Bethany 进 Captain Video、门铃两响、Seth Rogen 样店员",
+   "anchor": "The bell above the front entrance dings twice",
+   "start": 0,
+   "end": 45
+  },
+  {
+   "fact": "记忆像 Wikipedia plot summary（不像亲历）",
+   "anchor": "less something she actually lived through and more like a Wikipedia plot summary",
+   "start": 1324,
+   "end": 1404
+  },
+  {
+   "fact": "门上倒写 cryptic text、三色灯绿灭红亮",
+   "anchor": "One green, one yellow, one red. The green light shuts off at the dinging sound, and the red light immediately turns on.",
+   "start": 2306,
+   "end": 2425
+  },
+  {
+   "fact": "Davino 死鬼补货、喃喃 The receiver/the future of television、弹孔流血",
+   "anchor": "The receiver…The receiver…The future of television,",
+   "start": 3226,
+   "end": 3277
+  },
+  {
+   "fact": "所有 VHS 盒全空白、店员用表情 backseat drive 她选择",
+   "anchor": "All of the boxes are blank.",
+   "start": 4588,
+   "end": 4615
+  },
+  {
+   "fact": "ADULTS ONLY 天鹅绒帘、三色灯黄灭绿亮、docility 驱动她跟随",
+   "anchor": "so she tucks her VHS case into the waistband of her jeans",
+   "start": 7205,
+   "end": 7262
+  },
+  {
+   "fact": "矿车轨道通向地下洞穴；她带 popcorn 和空白带坐进去",
+   "anchor": "a minecart parked a few feet ahead of her",
+   "start": 8196,
+   "end": 8237
+  },
+  {
+   "fact": "巨型透明 cylinder 里的全部电视史",
+   "anchor": "Inside the cylinder is television. All of television history",
+   "start": 10306,
+   "end": 10366
+  },
+  {
+   "fact": "下行中分辨率降解 4K→pixelation、她自己也 fading",
+   "anchor": "The resolution keeps degrading the farther down Bethany travels",
+   "start": 11465,
+   "end": 11528
+  },
+  {
+   "fact": "吃 stale popcorn、确认 VHS 带在腰间、And finally she arrives",
+   "anchor": "And, finally, she arrives.",
+   "start": 12646,
+   "end": 12672
+  }
+ ]
+}
