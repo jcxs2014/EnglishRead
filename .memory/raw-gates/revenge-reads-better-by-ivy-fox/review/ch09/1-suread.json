@@ -1,0 +1,50 @@
+[
+ {
+  "fact": "周日早晨「我」在卧室与好友 Cathie 通电话，得知老同学 Jordan 死了——Jordan 曾霸凌「我」、并非朋友——「我」转述她从卧室阳台滑落坠地、被维多利亚宅玫瑰园铁栅栏尖刺穿腹、园丁清晨发现尸体，而全镇筹备数月的重聚周并未因一条人命叫停。",
+  "anchor": "Cathie asks on the line",
+  "start": 50,
+  "end": 73
+ },
+ {
+  "fact": "「我」告诉 Cathie 前夜找回写作灵感、一口气写出了三章，因此决定暂不回家；Cathie 觉得同学死了聚会照开很诡异、叮嘱「我」小心，随后敲门打断通话，因为「我」不想错过第一场重聚活动。",
+  "anchor": "a whopping three chapters",
+  "start": 1572,
+  "end": 1597
+ },
+ {
+  "fact": "B&B 老板娘 Mrs. Trott 上门问「我」要不要换到其他楼层的空房（Jordan 生前就住「我」隔壁，出事后已有几位客人退房离开），「我」婉拒并说自己住得很舒适。",
+  "anchor": "we have some rooms available",
+  "start": 3551,
+  "end": 3579
+ },
+ {
+  "fact": "「我」下楼到后花园参加女士早午餐会：白色大帐篷下摆着至少一打圆桌，十月的户外 Fairhope 高中熟面孔们喝着含羞草酒、对「我」窃窃私语，「我」想起几小时前还有一位宾客被装进尸袋抬走。",
+  "anchor": "at least a dozen round tables",
+  "start": 5407,
+  "end": 5436
+ },
+ {
+  "fact": "老同学兼好友 Sienna（FBI 探员）来到「我」身边，先确认「我」没逃回 D.C.，再两秒喝干一杯含羞草酒，还拿 Jordan 之死开涮、说「我」和她当年同样恨她。",
+  "anchor": "Sienna appears from behind",
+  "start": 6522,
+  "end": 6548
+ },
+ {
+  "fact": "Sienna 说这顿饭后要进城找 Fairhope 警长 Chief Eli，问验尸官会判 Jordan 意外死亡还是另有隐情；她断言 Jordan 太自恋不会跳楼、怀疑是被人推下，还提到 Jordan 得罪人太多、想她死的名单很长，「我」和她未必排得进前五。",
+  "anchor": "talk to Chief Eli after this",
+  "start": 8102,
+  "end": 8130
+ },
+ {
+  "fact": "Sienna 请「我」以作家身份推理案情，「我」猜 Jordan 是烟民、偷溜抽烟失足；Sienna 随即亮出疑点——有客人昨夜听见 Jordan 与人争吵——「我」承认争吵的是自己（深夜打字、放音乐、摔了门），并推测 Jordan 吃了 Ambien 助眠，Sienna 听完仍不像百分之百信服。",
+  "anchor": "guests heard her arguing with",
+  "start": 10200,
+  "end": 10229
+ },
+ {
+  "fact": "Sienna 指出若 Jordan 只是滑落应近乎直坠、实际却远远撞上玫瑰园铁栅栏，物理上说不通，因此疑心她是被人推下、聚会宾客中可能藏着一个凶手；「我」闻言夺过她的含羞草酒猛喝一口压惊。",
+  "anchor": "The physics of it all",
+  "start": 12239,
+  "end": 12260
+ }
+]

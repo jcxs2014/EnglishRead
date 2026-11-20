@@ -1,0 +1,295 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/ch11 chapter 11.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/text/ch11_chapter_11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "However, all her sarcasm vanishes when her gaze shifts over the rim of her glass, landing on the real guests of honor—Th",
+          "ok": true,
+          "pos": 843
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Sydney's locker was next to Sienna's all four years of high school, which meant Sienna spent those same years finding na",
+          "ok": true,
+          "pos": 2064
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "No. Out of the two of them, there was only one person vicious enough to put that much time and effort into tormenting my",
+          "ok": true,
+          "pos": 3417
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Whatever you say, babe.” Sydney gives her another once-over. “But this,” she says, drawing a wide circle in the air arou",
+          "ok": true,
+          "pos": 8909
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "That's what I thought.” Sydney's gaze drags over her again, a cruel smile returning to her lips. “Cow",
+          "ok": true,
+          "pos": 10091
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "If I thought that the Reds would have matured with time, that they would have rectified their toxic ways, then I was dea",
+          "ok": true,
+          "pos": 11453
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I open my mouth to agree, but the words die on my tongue as Delaney, Misty, and the queen bee herself, Peyton, walk into",
+          "ok": true,
+          "pos": 11827
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She's right. After all, isn't that one of the reasons I came to Fairhope in the first place? To show them that they didn",
+          "ok": true,
+          "pos": 13256
+        }
+      ],
+      "words": 64
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter 11",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 13.0,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2494,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 41 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
