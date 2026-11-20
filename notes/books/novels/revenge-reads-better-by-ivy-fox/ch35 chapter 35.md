@@ -10,7 +10,7 @@ modified: "2026-11-20"
 - **情感弧线位置**：全书核心谜底章——「那一夜」的真相（纵火+掩盖+和解金）第一次进入公共领域；ROM 线的终极恐惧同时引爆（她怀疑 Milo 是凶手）。
 - **Tropes 兑现/反转**：兑现「真相公开化」与「凶手在人群中看戏」的侧写；反转是双重动机的竞争——Sienna 的「钱」与 Max 的「revenge（Milo）」；Kayla 的「求杀」把嫌疑人变成「求死者」。
 - **人物弧线**：Kayla 的「活着的痛苦」与求生不得；Jennine 式母亲的另一面（Betty 追女儿）；Max 的侦探本能觉醒（用自己写书的方法推凶手）；Milo 的「旁观不干预」成为最大疑点。
-- **叙事手法**：纪念碑（五名一生日一死亡日）与六死者名单的「错位并置」引出「这不是两场悲剧」；Kayla 的崩溃作为「不可靠证人+真相载体」双重功能；章尾以「作家推凶」的 meta 手法给出答案。
+- **叙事手法**：纪念碑（五个名字、五个生日、同一个死亡日期）与六死者名单的「错位并置」引出「这不是两场悲剧」；Kayla 的崩溃作为「不可靠证人+真相载体」双重功能；章尾以「作家推凶」的 meta 手法给出答案。
 
 ## 精读
 > **原句 1:** "Every time my disfigured fingers brush against the scars on my cheek and neck. Every time I remember the heat, the smoke, and the screams that have haunted me for the past decade."

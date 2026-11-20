@@ -21,7 +21,7 @@ modified: "2026-11-20"
 **中文理解**：读者握着签名书赞不绝口；而 Max 的目光第一百次越过人群找 Milo——他还在，只看他一眼，满屋子人就退成背景。
 **关键词**：incredible, Ms. Usher / Milo is still there / fades into the background
 **为什么这样写**：公众成功的测量仪是「他还在不在」——作者把职业高光与私人锚点并置：她可以面对满场读者，但真正的安定来自门框边那一个人。
-**读者视角提示**：这段重复了 ch21 登台时的「room falls away」——Milols 的存在感是她的镇静剂，这个结构已在全书出现三次。
+**读者视角提示**：这段重复了 ch21 登台时的「room falls away」——Milo 的存在感是她的镇静剂，这个结构已在全书出现三次。
 
 > **原句 2:** "“You did great, Max. Really,” Jalen praises.
 >

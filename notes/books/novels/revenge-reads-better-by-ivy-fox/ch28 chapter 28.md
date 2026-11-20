@@ -102,7 +102,7 @@ modified: "2026-11-20"
 >
 > "“Because whenever your dad brought your mom home after one of her binges, she could never remember where she’d been or who she’d been with. And you swore you’d never put yourself in that position."
 
-**中文理解**：屋顶上 Milo 的声音没变——温暖、顺滑，熟悉到疼；他追问她为什么突然喝酒：「你不喝酒的——因为你恨失控」；他替她说出真相：每次父亲把母亲从酗酒中带回家，她都不记得自己去了哪、跟了谁——她发誓绝不让自己在那种状态里。
+**中文理解**：屋顶上 Milo 的声音没变——温暖、顺滑，熟悉到疼；他追问她为什么突然喝酒：「你不喝酒的——因为你恨失控」；他替她说出真相：每次父亲把狂欢 binge 后的母亲带回家，她都不记得自己去了哪、跟了谁——她发誓绝不让自己在那种状态里。
 **关键词**：Familiar enough to hurt / hate not being in control / never put yourself in that position
 **为什么这样写**：被「懂得」刺穿——作者让 Milo 用她从不示人的动机做追问：他知道的不是「她不喝酒」，而是「为什么」；这份懂得既是爱也是刑具：她最怕被人看透的地方，他一眼看到底。
 **读者视角提示**：这段是 ROM 线的「knowledge」巅峰——ch25 她说「我不认识 Milo」，这里证明他认识她远胜她以为的；记住这个反差。
