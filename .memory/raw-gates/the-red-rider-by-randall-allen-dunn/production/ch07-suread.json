@@ -1,0 +1,55 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch07_7.txt",
+ "facts": [
+  {
+   "fact": "开战以来她头一次动了躲进地堡不出去的念头——随即为这份恐惧羞愧",
+   "anchor": "For the first time since I started this war",
+   "start": 85,
+   "end": 129
+  },
+  {
+   "fact": "自我动员落点：她必须救下 Madame Leóne",
+   "anchor": "I had to save Madame Leóne.",
+   "start": 765,
+   "end": 792
+  },
+  {
+   "fact": "跟踪 Madame Leóne 进了裁缝店——Jacque Denue 之父的店，九年前他们父女曾被它关门拒卖",
+   "anchor": "the shop owned by Jacque Denue’s father",
+   "start": 1755,
+   "end": 1794
+  },
+  {
+   "fact": "Grenault 自曝狩猎法：在煤矿只能遇到男人，裁缝店常有漂亮女人留地址——方便月夜上门",
+   "anchor": "under  the  light  of  the moon",
+   "start": 7922,
+   "end": 7953
+  },
+  {
+   "fact": "他当着她的面品评 Lisette 的名字像歌剧，还悬想咬下去时她会唱得多甜",
+   "anchor": "I wonder how sweet she’ll sing when I bite into her.",
+   "start": 8295,
+   "end": 8347
+  },
+  {
+   "fact": "灭口威胁：若她把狼群秘密告诉 Madame Leóne，他只好让流言止步于这间屋子",
+   "anchor": "That might force me to stop any such rumors from leaving this room.",
+   "start": 8665,
+   "end": 8732
+  },
+  {
+   "fact": "Madame Denue 把 Lisette 的地址纸条收进衣袋，Grenault 声称今晚就把纸条偷到手",
+   "anchor": "I suppose I’ll have to relieve Madame Denue of that address tonight.",
+   "start": 10366,
+   "end": 10440
+  },
+  {
+   "fact": "结尾：她料定他今晚会去 Denue 家，虽然不知道黑暗里怎么打——但她会等着",
+   "anchor": "And I would be waiting.",
+   "start": 10824,
+   "end": 10847
+  }
+ ]
+}
