@@ -1,0 +1,67 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch10_10.txt",
+ "facts": [
+  {
+   "fact": "噩梦重现：Grenault 把她举在狼群头顶戏耍，最后才松手扔下去",
+   "anchor": "I had woken from nightmares. Horrific",
+   "start": 13,
+   "end": 55
+  },
+  {
+   "fact": "她溜进圣马太堂后门找 Father Vestille——近来开始帮她出主意的人",
+   "anchor": "snuck through the back door of la Chapelle",
+   "start": 1127,
+   "end": 1169
+  },
+  {
+   "fact": "又一名小女孩遇害：失踪几天，清晨在林子里找到残骸",
+   "anchor": "What was left of her.",
+   "start": 2527,
+   "end": 2548
+  },
+  {
+   "fact": "她坚持开棺直面尸体：撕碎的蓝裙、近乎骷髅的小身体——提醒自己为何而战",
+   "anchor": "Torn shreds of a pale blue dress made a mockery of an innocent child’s life.",
+   "start": 2711,
+   "end": 2787
+  },
+  {
+   "fact": "回忆：两个月前她曾在葬礼弥撒上当众起誓，这一切将由她终结",
+   "anchor": "That I would end it.",
+   "start": 3470,
+   "end": 3490
+  },
+  {
+   "fact": "Father Vestille 亮明立场：不管她做什么，他一直为她祝福——相信主正借她保护众人",
+   "anchor": "the Lord is using you right now",
+   "start": 6773,
+   "end": 6810
+  },
+  {
+   "fact": "神父讲大卫与歌利亚：大卫放羊时先斗过狮和熊——Grenault 再强也仍是狼",
+   "anchor": "he fought wild animals that tried to steal his sheep",
+   "start": 7778,
+   "end": 7832
+  },
+  {
+   "fact": "她陪护 Lisette 卖裙成功：Denue 夫人自掏腰包全买，还说 Basque 小姐的朋友一律优待",
+   "anchor": "any friend of Mademoiselle Basque garners special treatment",
+   "start": 11443,
+   "end": 11508
+  },
+  {
+   "fact": "Touraine 情报：Grenault 满城打听能大量快速制弩箭、有银料熔化设施的人——他是在猎她",
+   "anchor": "access  to  silver",
+   "start": 16126,
+   "end": 16144
+  },
+  {
+   "fact": "收尾惊雷：范围缩到两间作坊，其一正是 Leóne 铁匠铺——他找到的不是她，是 Pierre",
+   "anchor": "He’s found Pierre.",
+   "start": 16750,
+   "end": 16768
+  }
+ ]
+}
