@@ -47,16 +47,10 @@ modified: "2026-11-20"
 **为什么这样写**：人不是财产的宣言——作者让 Milo 用「yours to take」的物权语言反驳 Peyton 的占有逻辑：她把他当成「先拥有的财产」，他把自己定义为「从来不在她名下」；这句话与 ch26「It's about Milo」形成唯一同频的否认。
 **读者视角提示**：这句「I'm not yours to take」是全书性别/权力议题的核心——它与 ch20「burned my notebooks」对照：Reds 把人和物都当成可烧毁的所有物。
 
-> **原句 5:** "“The boiler room!”"
->
->
-> "“Oops,” Peyton laughs. "Guess I got carried away and lit more than a few.""
->
->
-> "All color drains from his face as he lifts his sights to the roof."
+> **原句 5:** "“Shit,” he breathes, shooting a terrified look toward the far end of the building. “The boiler room!” All color drains from his face as he lifts his sights to the roof."
 
-**中文理解**：火势失控——Milo 惊觉「锅炉房！」；Peyton 笑着说「玩过头点了好几处」；他抬头看屋顶，血色全失——上面还有人。
-**关键词**：The boiler room / lit more than a few / All color drains from his face
+**中文理解**：火势失控——Milo 面色全失看向屋顶：「锅炉房！」——他意识到上面还有人（Kody 等人被锁在屋顶）。
+**关键词**：The boiler room / terrified look / All color drains from his face
 **为什么这样写**：真相的「上面有人」时刻——作者让「锅炉房」一词（ch28 开头有人警告过「别进去」）成为致命线索：火从多点同时烧起，锅炉房是引信；Milo 抬头的瞬间是全书最惊悚的画面切换：他意识到他最好的朋友们在屋顶上等死。
 **读者视角提示**：Peyton 的「Oops」证明她不知道屋顶有人——她的恶是「自恋者的漫不经心」而非「精心策划的谋杀」；这决定了结局中她的罪责定性。
 
