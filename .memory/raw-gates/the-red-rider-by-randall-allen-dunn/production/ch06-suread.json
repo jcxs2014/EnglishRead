@@ -1,0 +1,67 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch06_6.txt",
+ "facts": [
+  {
+   "fact": "八岁噩梦：她被同龄男孩 Jacque Denue 和三个同伙按进泥里围殴，肋裂见血",
+   "anchor": "pinned by Jacque Denue and his three friends",
+   "start": 236,
+   "end": 280
+  },
+  {
+   "fact": "梦醒后她生平第一次在做噩梦后微笑——明天就能见到 Francois",
+   "anchor": "Because the very next morning",
+   "start": 1702,
+   "end": 1731
+  },
+  {
+   "fact": "Francois 的武器课开门见山：石头、棍子、绳子——武器到处都是，看你找不找",
+   "anchor": "Here’s a rock, a big stick, and a rope.",
+   "start": 5695,
+   "end": 5734
+  },
+  {
+   "fact": "不许哭课：一旦露怯打就输了一半；不显害怕、让人摸不透怎么吓你，就赢了一半",
+   "anchor": "you’ve won half the fight.",
+   "start": 9640,
+   "end": 9670
+  },
+  {
+   "fact": "以小博大术：踢膝盖、踩脚趾、让他挥空耗力，再趁他抱脚时补棍砸脸",
+   "anchor": "Kick the knees, stomp on the toes.",
+   "start": 11141,
+   "end": 11181
+  },
+  {
+   "fact": "Papa 抓包，Francois 谎称她在砸蜗牛，Papa 干巴巴接一句\"冬天的蜗牛总是个问题\"",
+   "anchor": "Winter snails are always a problem.",
+   "start": 16228,
+   "end": 16267
+  },
+  {
+   "fact": "她质问 Papa：狼抢你的猎物你开不开枪？——Papa 沉默后承认会",
+   "anchor": "You hunt for food.",
+   "start": 17027,
+   "end": 17045
+  },
+  {
+   "fact": "她宣布\"一起去打猎我会保护你\"，Papa 大笑着搂住她：我的小保护神",
+   "anchor": "My little protector!",
+   "start": 17787,
+   "end": 17809
+  },
+  {
+   "fact": "现实反思：昨晚她没准备好对付 Grenault，被他吓到屈从、趴在屋顶不敢追",
+   "anchor": "I let him frighten me into submission.",
+   "start": 18665,
+   "end": 18704
+  },
+  {
+   "fact": "结尾算术：别的狼把她当死亡天使，Grenault 却看穿她是有限的技能加有限的资源——一旦群体不再怕她，她就死定了",
+   "anchor": "they would stop fearing me altogether.",
+   "start": 19603,
+   "end": 19645
+  }
+ ]
+}
