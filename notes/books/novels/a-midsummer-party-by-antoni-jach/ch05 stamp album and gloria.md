@@ -49,7 +49,21 @@ modified: "2026-11-17"
 **为什么这样写**：图书馆的「考古」挖到主人的青春——护照是身份证件的极端形式：私人记忆由官方印章盖章；「the young Xavier」与今晚五十岁的主人对位，澳大利亚之行给走廊照片墙补上了时间戳。
 **读者视角提示**：与 ch03 Miranda 的证词（Xavier 在澳洲当过侍者）对上账。物品替主人自传——本书的图书馆是个会说漏嘴的档案馆。
 
-> **原句 6:** "Your present for my first wedding was terrible. Who would give a frypan?
+> **原句 6:** "The television closest to me was showing Mon Oncle, a film I have always admired – and not the least because of its perfect marriage between sound and colour. I became so engrossed that I wasn’t aware of someone standing beside me until she tapped me on the shoulder."
+
+**中文理解**：离他近的电视在放《我的叔叔》（Mon Oncle）——他一直钦佩的电影，尤其因为声与色的完美联姻；他看得太入迷，直到有人拍他肩膀，才发现身边站着人。
+**关键词**：Mon Oncle、perfect marriage between sound and colour、engrossed、tapped me on the shoulder
+**为什么这样写**：用「声与色的婚姻」给一部电影证婚——派对里唯一的屏幕爱情；「engrossed」到被拍肩才醒，说明图书馆的静延伸到了人群中央：他随时能被非人的东西带走。
+**读者视角提示**：拍肩的正是 Gloria——旧情以「打断」的方式登场。与 ch01 Katy 婚纱落泪、ch03 Miranda 显影并列：每个故人都有自己的入场方式。
+
+> **原句 7:** "I turned to see Gloria, as radiant as ever in a pink designer dress. We embraced warmly, and she asked if I was still coming to her wedding on the following Saturday in Venice."
+
+**中文理解**：他转身看见 Gloria——一袭粉色设计师裙装，一如既往光彩照人；两人热情拥抱，她问他下周六是否仍会去威尼斯参加她的婚礼。
+**关键词**：as radiant as ever、a pink designer dress、embraced warmly、the following Saturday in Venice
+**为什么这样写**：「as radiant as ever」把二十年压缩成一个形容词的现在时——她始终是光源；粉色裙装与「婚礼」一词同框，新娘的先遣队已经抵达派对。拥抱的「warmly」是她对前男友的礼貌温度，紧跟着的问句才是正事。
+**读者视角提示**：这是 Gloria 的 ch01 之后首次正面出场（ch01 里只活在 Katy 的叙述里）——亲眼验证 Katy 的「power and control」诊断。她开口第一件事：确认婚礼出席率。
+
+> **原句 8:** "Your present for my first wedding was terrible. Who would give a frypan?
 >
 >
 > In my defence, it’s practical."
@@ -58,20 +72,6 @@ modified: "2026-11-17"
 **关键词**：present、my first wedding、a frypan、practical
 **为什么这样写**：婚礼礼物的旧账一句结清——煎锅是「过日子」的信物，出自旧情人之手格外刻薄；他只答「practical」两个词，把浪漫责任的追问接成家务辩论，旧情人的默契全在这一来一回的错位里。
 **读者视角提示**：他参加过她全部两场婚礼——这层关系比「前男友」深。记住欠着的第二场婚礼礼物：威尼斯之前，它随时会被再次提起。
-
-> **原句 7:** "The television closest to me was showing Mon Oncle, a film I have always admired – and not the least because of its perfect marriage between sound and colour. I became so engrossed that I wasn’t aware of someone standing beside me until she tapped me on the shoulder."
-
-**中文理解**：离他近的电视在放《我的叔叔》（Mon Oncle）——他一直钦佩的电影，尤其因为声与色的完美联姻；他看得太入迷，直到有人拍他肩膀，才发现身边站着人。
-**关键词**：Mon Oncle、perfect marriage between sound and colour、engrossed、tapped me on the shoulder
-**为什么这样写**：用「声与色的婚姻」给一部电影证婚——派对里唯一的屏幕爱情；「engrossed」到被拍肩才醒，说明图书馆的静延伸到了人群中央：他随时能被非人的东西带走。
-**读者视角提示**：拍肩的正是 Gloria——旧情以「打断」的方式登场。与 ch01 Katy 婚纱落泪、ch03 Miranda 显影并列：每个故人都有自己的入场方式。
-
-> **原句 8:** "I turned to see Gloria, as radiant as ever in a pink designer dress. We embraced warmly, and she asked if I was still coming to her wedding on the following Saturday in Venice."
-
-**中文理解**：他转身看见 Gloria——一袭粉色设计师裙装，一如既往光彩照人；两人热情拥抱，她问他下周六是否仍会去威尼斯参加她的婚礼。
-**关键词**：as radiant as ever、a pink designer dress、embraced warmly、the following Saturday in Venice
-**为什么这样写**：「as radiant as ever」把二十年压缩成一个形容词的现在时——她始终是光源；粉色裙装与「婚礼」一词同框，新娘的先遣队已经抵达派对。拥抱的「warmly」是她对前男友的礼貌温度，紧跟着的问句才是正事。
-**读者视角提示**：这是 Gloria 的 ch01 之后首次正面出场（ch01 里只活在 Katy 的叙述里）——亲眼验证 Katy 的「power and control」诊断。她开口第一件事：确认婚礼出席率。
 
 ## 本章词汇
 

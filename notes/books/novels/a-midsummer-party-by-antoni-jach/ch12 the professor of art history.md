@@ -87,15 +87,12 @@ modified: "2026-11-17"
 **为什么这样写**：两个研究方向互为镜像（depth↔flatness），句法完全对称——这句绕口令式的概括是全章最聪明的一句，也最像逃避：把一生的摇摆压缩成一次修辞转身。叙述者的「genuinely interesting」被无视——大师不接受学生的掌声。
 **读者视角提示**：与电影 La Jetée（静态图像拼出时间流动）同构：平面与纵深、静止与叙事，本章的最后一块落在这对概念上。
 
-> **原句 11:** "I am dying. I have been given three months to live. There is no reprieve.
->
->
-> My beloved wife died a year ago, and now I am next in line to go, but I am unready to go"
+> **原句 11:** "I have more time for those who risk more by making things – whether it’s a poem, a painting, a song, a sculpture, a concerto. I have more time for those who get their hands dirty by creating and by failing – for every artist has to fail, is bound to fail as the price of progressing. I respect those who put their work up there to be judged, even if it is found to be wanting"
 
-**中文理解**：散场前的秘密，他只肯告诉陌生人：「我要死了。医生说还剩三个月。没有缓刑。」停顿后补完：「我爱妻子一年前走了，现在轮到我——但我还没准备好。」
-**关键词**：I am dying、three months to live、There is no reprieve、My beloved wife died a year ago、I am unready to go
-**为什么这样写**：战场的硝烟里掉出一封遗书——「no reprieve」的法律词汇把死亡写成刑期，三个月是写作的 deadline 而非生命的；「next in line」把夫妻写成排队离场的人。暴怒与脆弱在同一人身上完成换幕。
-**读者视角提示**：回看他的全部咆哮：那不是傲慢，是倒计时里的恐惧——「唯一的心愿是写完那本书」。记住这三个月：它给本章所有恶意一个共同的病因。
+**中文理解**：叙述者的信条：「我更敬重那些动手造东西的人——诗、画、歌、雕塑、协奏曲；那些把双手弄脏、在创造中失败的人——每个艺术家都必须失败，失败是进步的代价。我尊敬那些把作品摆出来任人评判的人，哪怕被评得一文不值。」
+**关键词**：those who risk more by making things、get their hands dirty、creating and by failing、every artist has to fail、the price of progressing、to be judged
+**为什么这样写**：以「失败权」反制「阐释权」——三次「I have more time for those who」排比立誓；「hands dirty」与教授的烛下军团对位：一个在画室，一个在书房。这段是全书的作者宣言，借一场争吵说出。
+**读者视角提示**：与 ch08 的「fitted you into the series」、ch05 的「published as a joke」串读——叙述者一路都在为「敢于失败」作证。记住这句：总览层的价值观锚点。
 
 > **原句 12:** "Critics make the artist, not the other way round. There would be no Rembrandt as Rembrandt without the legion of art historians who toiled away by candlelight, forsaking sleep, to let the ignorant world know that he was one of the greatest painters of all time.
 >
@@ -107,12 +104,15 @@ modified: "2026-11-17"
 **为什么这样写**：造神论把批评置于创作之上——「legion」与「candlelight」给学术生涯镀上军旅与修道的双重光晕；「wordless paintings」一语双关：画无言，所以需要他的声音——这正是一个从不画画的人能想到的最高地位。
 **读者视角提示**：对照叙述者的信条（下一块）：创造者与评判者之争，是本章真正的辩题。记住「军团」——他自认是 Legion 的一员，也是它的指挥官。
 
-> **原句 13:** "I have more time for those who risk more by making things – whether it’s a poem, a painting, a song, a sculpture, a concerto. I have more time for those who get their hands dirty by creating and by failing – for every artist has to fail, is bound to fail as the price of progressing. I respect those who put their work up there to be judged, even if it is found to be wanting"
+> **原句 13:** "I am dying. I have been given three months to live. There is no reprieve.
+>
+>
+> My beloved wife died a year ago, and now I am next in line to go, but I am unready to go"
 
-**中文理解**：叙述者的信条：「我更敬重那些动手造东西的人——诗、画、歌、雕塑、协奏曲；那些把双手弄脏、在创造中失败的人——每个艺术家都必须失败，失败是进步的代价。我尊敬那些把作品摆出来任人评判的人，哪怕被评得一文不值。」
-**关键词**：those who risk more by making things、get their hands dirty、creating and by failing、every artist has to fail、the price of progressing、to be judged
-**为什么这样写**：以「失败权」反制「阐释权」——三次「I have more time for those who」排比立誓；「hands dirty」与教授的烛下军团对位：一个在画室，一个在书房。这段是全书的作者宣言，借一场争吵说出。
-**读者视角提示**：与 ch08 的「fitted you into the series」、ch05 的「published as a joke」串读——叙述者一路都在为「敢于失败」作证。记住这句：总览层的价值观锚点。
+**中文理解**：散场前的秘密，他只肯告诉陌生人：「我要死了。医生说还剩三个月。没有缓刑。」停顿后补完：「我爱妻子一年前走了，现在轮到我——但我还没准备好。」
+**关键词**：I am dying、three months to live、There is no reprieve、My beloved wife died a year ago、I am unready to go
+**为什么这样写**：战场的硝烟里掉出一封遗书——「no reprieve」的法律词汇把死亡写成刑期，三个月是写作的 deadline 而非生命的；「next in line」把夫妻写成排队离场的人。暴怒与脆弱在同一人身上完成换幕。
+**读者视角提示**：回看他的全部咆哮：那不是傲慢，是倒计时里的恐惧——「唯一的心愿是写完那本书」。记住这三个月：它给本章所有恶意一个共同的病因。
 
 > **原句 14:** "A pair of strong hands covered my eyes, and a familiar feminine voice said, Guess who?
 >
