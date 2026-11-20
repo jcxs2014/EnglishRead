@@ -26,7 +26,7 @@ modified: "2026-11-20"
 > **原句 2:** "Huh. I don't think I've ever seen Milo angry. He's usually so… chipper. It's almost annoying how well-adjusted and happy he is. Still, something has set him off because he looks like he's about to napalm his front lawn."
 
 **中文理解**：她从没见过 Milo 生气——他一贯阳光得让人嫉妒；可此刻他愤怒得像要把自家草坪烧成灰。
-**关键词**：never seen Milo angry / chipper / napalm his front lawn
+**关键词**：ever seen Milo angry / chipper / napalm his front lawn
 **为什么这样写**：用 Max 的视角先立「乖孩子」的刻度再把它折断——反差越大，说明伤害越深；「napalm」的夸张修辞让愤怒有了可量化的画面，也从她口中确认：能激怒他的是大事。
 **读者视角提示**：Milo 的坏脾气开关只有一个——本章将揭示它与母亲直接相关；记住他「从不生气」的底噪，后面每次失控都有回声。
 
