@@ -93,7 +93,7 @@ modified: "2026-11-20"
 > "Sometimes when words don't work," Delaney says with a smile, slow and ugly just like Peyton's, "actions do." A chill crawls across my skin at the sinister glint in her eyes."
 
 **中文理解**：Delaney 一把将她推撞进储物柜，金属闷响；她笑得又慢又丑，宣示「讲道理没用的时候，就动手」——那眼神里的凶光让 Max 皮肤爬上寒意。
-**关键词**：slam against the lockers / when words don't work… actions do / sinister glint
+**关键词**：slam against the lockers / slow and ugly / actions do
 **为什么这样写**：暴力被赋予理论依据——「actions do」是教团教义的一行摘要；作者让施暴者自己出声解释，比任何旁白都冷；「slow and ugly」的笑容给恶做了视觉签名。
 **读者视角提示**：储物柜的「metallic bang」是本章的音效记忆点——这种「声音+疼痛」的组合后面会以更重的版本回来。
 
