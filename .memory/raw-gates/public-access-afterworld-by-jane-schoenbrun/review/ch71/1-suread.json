@@ -1,0 +1,37 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch71",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch71_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "房间窗户是假的：白天戴墨镜的笑太阳、夜里睡帽月亮吐 Z",
+   "anchor": "a big grinning sun wearing sunglasses",
+   "start": 377,
+   "end": 414
+  },
+  {
+   "fact": "从没下雨下雪、没有四季、只有 day/night 二选项循环",
+   "anchor": "There’s no spring, summer, autumn, or winter in Public Access Afterworld.",
+   "start": 746,
+   "end": 819
+  },
+  {
+   "fact": "认识论雪崩：How do I know this is wrong? / How long have I been here?",
+   "anchor": "Questions beget more questions.",
+   "start": 1222,
+   "end": 1253
+  },
+  {
+   "fact": "crimson 碎片像从另一部更亮的剧传来：magic powers/blow it up/make CEO pay",
+   "anchor": "The fragments beam to me as if they’re coming from some other, realer TV show.",
+   "start": 1612,
+   "end": 1690
+  },
+  {
+   "fact": "quarter 落进机器底部；no freedom, Prison and escape",
+   "anchor": "There’s no such thing as freedom. Not for people like me.",
+   "start": 1872,
+   "end": 1929
+  }
+ ]
+}
