@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch04_4.txt",
+ "facts": [
+  {
+   "fact": "梦境开关：她摸到光滑无疤的脸颊——回到七岁那年",
+   "anchor": "I touched my smooth cheeks.  They held  no",
+   "start": 218,
+   "end": 260
+  },
+  {
+   "fact": "旅途一路跟随的那个声音再次响起（Where are you going, little girl?）",
+   "anchor": "The same voice I had heard throughout my journey.",
+   "start": 163,
+   "end": 215
+  },
+  {
+   "fact": "怪物是一条蓝灰眼睛的黑狼，用后腿直立、还对着她笑——能开口问路的狼",
+   "anchor": "standing on its hind legs, and—smiling",
+   "start": 1274,
+   "end": 1312
+  },
+  {
+   "fact": "她如实回答狼的问话：要去外婆家——狼随即说外婆住得近、路上不安全",
+   "anchor": "going to my Grand’Mere’s house",
+   "start": 1557,
+   "end": 1587
+  },
+  {
+   "fact": "她拼命奔跑，狼却先一步到了：正伏在外婆床上抓挠带血的睡衣——外婆已死",
+   "anchor": "The wolf was already there, on top of",
+   "start": 2745,
+   "end": 2789
+  },
+  {
+   "fact": "她掷篮反抗，狼爪如银刀在窗前阳光里闪光，挥向她的脸——世界烧成一片红色剧痛",
+   "anchor": "Its claws glinted like silver knives in the window’s sunlight.",
+   "start": 3372,
+   "end": 3439
+  },
+  {
+   "fact": "Papa 从黑暗中摇醒九岁的她：又做噩梦了——狼袭场景全是梦境重演",
+   "anchor": "wake up. You’re having another nightmare.",
+   "start": 3615,
+   "end": 3662
+  },
+  {
+   "fact": "红斗篷是被 Papa 收起的（外婆亲手做的），为的是出门不惹人注意",
+   "anchor": "the red one Grand’Mere had made for me",
+   "start": 4505,
+   "end": 4545
+  },
+  {
+   "fact": "结尾：Papa 取出火枪带她出门——回答只有一句，我们去打猎",
+   "anchor": "Let’s go hunting.",
+   "start": 5203,
+   "end": 5220
+  }
+ ]
+}
