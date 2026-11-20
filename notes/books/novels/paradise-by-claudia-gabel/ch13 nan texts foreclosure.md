@@ -37,35 +37,35 @@ modified: "2026-11-18"
 **为什么这样写**："complicated"是大人的万能挡箭牌——作者用两个引号里的话（说出的与没说出的）拼出亲子沟通的断层：孩子要的是原因，大人给的是边界；声调成为唯一的真话。
 **读者视角提示**：注意这句与 Nan 短信的对照——妈妈嘴上"复杂"，短信里全是简单的数字（ foreclosure）。"复杂"是羞耻的礼貌写法。
 
-> **原句 5:** Then the nail technician came back and handed Jordan the polish she’d selected. She looked down at the bottle and saw the name printed on the top. Burn It Down. Well, that couldn’t be more accurate.
-**中文理解**：技师取来 Jordan 选的甲油，瓶身上印着名字——Burn It Down（烧个精光）。Jordan 心想：这名字不能再贴切了。
-**关键词**：Burn It Down / couldn’t be more accurate
-**为什么这样写**：命运道具登场——作者用一瓶指甲油给 Jordan 的怒气贴上商标，把"烧毁现状"的冲动藏在化妆品的货架上；瓶名与心境的互文是本章最漂亮的一笔黑色幽默。
-**读者视角提示**：记住"Burn It Down"——它既是本章 Jordan 的心理状态，也几乎可以当全书后半的剧透：这个家被烧掉重来的部分，比一瓶指甲油多得多。
-
-> **原句 6:** It took a minute for Jordan to realize that MIL stood for mother-in-law, but once she saw what her dad said, it was clear that Nan had entered the chat.
+> **原句 5:** It took a minute for Jordan to realize that MIL stood for mother-in-law, but once she saw what her dad said, it was clear that Nan had entered the chat.
 **中文理解**：Jordan 花了一分钟才反应过来 MIL=婆婆（mother-in-law）——看清爸爸发的消息后，她明白了：Nan 进群了。
 **关键词**：MIL / mother-in-law / entered the chat
 **为什么这样写**：网络用语"entered the chat"被作者放进旁白——家庭群聊的戏剧感借梗成型；缩略语 MIL 的解码过程模拟了读者的推理节奏，秘密的身份从"缩写"开始逐层揭开。
 **读者视角提示**：这是 Nan 首次以"群内参与者"而非"缺席者"出现——她的操纵全部通过短信完成。留意她每条消息的动词（called / handle / setting up）：全是"我安排"句式。
 
-> **原句 7:** Greg / MIL: Just got back from the bank. Barely avoided foreclosure. If this is the only way forward, S and I are in agreement.
+> **原句 6:** Greg / MIL: Just got back from the bank. Barely avoided foreclosure. If this is the only way forward, S and I are in agreement.
 **中文理解**：Greg 发给 Nan：刚从银行回来，勉强躲过止赎；"如果这是唯一的路，S（Suzie）和我都同意。"
 **关键词**：Barely avoided foreclosure / the only way forward / in agreement
 **为什么这样写**：全书最大谜底以最公文化的方式落地——"止赎"二字让前文所有伏笔（backs are up against the wall、whose fault、complicated）瞬间换算成房贷与欠款；"S and I"的缩写则保留了短信的偷窥质感，读者像 Jordan 一样在读别人的账单。
 **读者视角提示**：把这条与 Elliott 的沉默连线——"He already hates Mom enough"的另一层含义浮出：Nan 救的是 Greg 家，用的可能是让 Elliott 更恨她的方式。救援从来不免费。
 
-> **原句 8:** MIL / Greg: Ok. Will handle J’s school, too. Only the best for her.
+> **原句 7:** MIL / Greg: Ok. Will handle J’s school, too. Only the best for her.
 **中文理解**：Nan 回复：好，Jordan 的学校我也来安排——"给她最好的。"
 **关键词**：Will handle J’s school / Only the best for her
 **为什么这样写**："J's school"四个字符确认了预科学校的真正出资人与决策者——Jordan 的被搬家、被择校，从头到尾是 Nan 的工程；"Only the best for her"的慈爱口吻与"从未问过她"的事实同框，把"为你好"的暴力写得最轻也最重。
 **读者视角提示**：对照 Nan 给三个孩子的信（"seize every moment"式祝福）——她的爱一贯以"直接安排人生"为形式。Jordan 现在拿到了这个模式的内部账本。
 
-> **原句 9:** “Jordan Felicia Sprague. Give me that NOW.” Jordan was caught in her mother’s angry glare.
+> **原句 8:** “Jordan Felicia Sprague. Give me that NOW.” Jordan was caught in her mother’s angry glare.
 **中文理解**：妈妈报出全名抓现行："Jordan Felicia Sprague。马上给我。"——她撞进母亲盛怒的瞪视。
 **关键词**：Jordan Felicia Sprague / Give me that NOW / angry glare
 **为什么这样写**：全名连中名一起喊出，是家规执法的最高级别——作者用"重名警报"替代任何怒吼，让惩罚的正式感先于内容抵达；被抓的瞬间正好卡在真相读完之后，偷窥的爽与代价同帧结算。
 **读者视角提示**：记住中名 Felicia——她是这条家族链上又一个被略写的女性名字，而她的故事正是妈妈要"tonight"才讲的。
+
+> **原句 9:** Then the nail technician came back and handed Jordan the polish she’d selected. She looked down at the bottle and saw the name printed on the top. Burn It Down. Well, that couldn’t be more accurate.
+**中文理解**：技师取来 Jordan 选的甲油，瓶身上印着名字——Burn It Down（烧个精光）。Jordan 心想：这名字不能再贴切了。
+**关键词**：Burn It Down / couldn’t be more accurate
+**为什么这样写**：命运道具登场——作者用一瓶指甲油给 Jordan 的怒气贴上商标，把"烧毁现状"的冲动藏在化妆品的货架上；瓶名与心境的互文是本章最漂亮的一笔黑色幽默。
+**读者视角提示**：记住"Burn It Down"——它既是本章 Jordan 的心理状态，也几乎可以当全书后半的剧透：这个家被烧掉重来的部分，比一瓶指甲油多得多。
 
 > **原句 10:** I won’t tell your father about this until we get back to Atlanta. But consider your phone privileges revoked for another month.
 **中文理解**：妈妈的处置：这事回去 Atlanta 前不会告诉你爸——但你的手机特权，再冻结一个月。

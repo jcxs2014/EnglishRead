@@ -37,29 +37,29 @@ modified: "2026-11-18"
 **为什么这样写**：一句孤零零的推论短句，是全章最冷的钩子——作者把 Sam 的怀疑缩成一行悬念，让"能干出什么"保持完全开放：从取消假期到更黑暗的可能，想象力全权交给读者。
 **读者视角提示**：把这句与 Elliott 的"she hasn't earned one"连读——父子俩各自独立得出了对 Nan 的不信任。能同时吓住成人与孩子的过去，分量一定不轻。
 
-> **原句 5:** “Ok. I heard something scary during the storm,” Lily said. “That’s why I ran off.” “What?” said Sam. “It was sounded like a growl,” Lily said.
+> **原句 5:** The cousins now had a curfew and had to be back in their room by 8 p.m. If they followed this rule the next two nights, their parents would consider lifting the curfew. Otherwise, they would have to move in with them in Tranquil Cove.
+**中文理解**：后果清单落地：三人晚 8 点宵禁，连守两晚才可能解除；否则就搬去 Tranquil Cove 和父母同住。
+**关键词**：curfew / 8 p.m. / move in with them
+**为什么这样写**：惩罚的阶梯设计成"服刑换自由"——两晚守规可赎身，否则升格为同住监视；作者用一张细则表展示大人世界的博弈规则，也让"8 p.m."成为全书的行动红线：孩子们的一切夜戏从此都要与宵禁赛跑。
+**读者视角提示**：记下这组数字：8 点宵禁、两晚试用期——下一幕任何夜间行动都在踩这条线。而"搬去 Tranquil Cove"正是 Elliott 想要的结局，惩罚表里藏着他的私心。
+
+> **原句 6:** “Ok. I heard something scary during the storm,” Lily said. “That’s why I ran off.” “What?” said Sam. “It was sounded like a growl,” Lily said.
 **中文理解**：Lily 终于交出逃跑的理由："风暴里我听到可怕的东西，所以才跑了"——像一声 growl。
 **关键词**：something scary / ran off / a growl
 **为什么这样写**：真相的定价权回到出逃者手里——作者让 Lily 用一句"听到怪物"同时解释逃跑、报信两个"罪名"；而原句" It was sounded like"的语病恰好是惊魂未定的语言化石：她说话时神经还没接好。
 **读者视角提示**：这是 growl 第一次进入三人组的正式讨论——此前它只在 Rebecca 的系统里被归档为天气。注意 Jordan 的反应（下一块的"A growl? Please."）：证词的置信度由社交地位决定，不由音量决定。
 
-> **原句 6:** Lily wasn’t a good liar. When she made something up, her cheeks turned bright red. Lily’s skin hadn’t changed a bit just then, Sam noticed, so maybe she was being honest.
+> **原句 7:** Lily wasn’t a good liar. When she made something up, her cheeks turned bright red. Lily’s skin hadn’t changed a bit just then, Sam noticed, so maybe she was being honest.
 **中文理解**：Lily 不会撒谎——编话时脸颊会红；Sam 注意到她这次肤色一点没变，所以她说的可能是真的。
 **关键词**：wasn’t a good liar / cheeks turned bright red / maybe she was being honest
 **为什么这样写**：作者给三人组装了一套生理测谎仪——十几年的共同生活成了辨伪仪器，比 Rebecca 的系统准得多；"maybe"的保留态度也真实：双胞胎之间的相信永远带折扣，尤其对方刚"背叛"过。
 **读者视角提示**：记住"脸颊变红"这个设定——它是 Lily 的性格指纹，也是后文判断她哪些话可深信的标尺。她这次没红脸，怪物证词的成色因此上升一格。
 
-> **原句 7:** “I know what I heard. Some kind of animal, or person in distress, or I don’t know. It just doesn’t belong here.”
+> **原句 8:** “I know what I heard. Some kind of animal, or person in distress, or I don’t know. It just doesn’t belong here.”
 **中文理解**：Lily 咬死证词："我清楚自己听到了什么——某种动物，或者求救的人，我不知道。它不属于这里。"
 **关键词**：I know what I heard / person in distress / doesn’t belong here
 **为什么这样写**："animal or person in distress"这个含糊区间比任何具体指控都瘆人——作者让 Lily 连敌意的来源都认不出，把怪物问题保持在"无法命名"的状态；"doesn't belong here"与 ch11 的判词合流：她自己已经从"吓坏的逃兵"变成"唯一坚持的人"。
 **读者视角提示**：这句是 Lily 人物弧的转折点——被骂"编故事"仍不改口。她此前的每次坚持都靠清单和理智，这次只有耳朵和胆量。
-
-> **原句 8:** The cousins now had a curfew and had to be back in their room by 8 p.m. If they followed this rule the next two nights, their parents would consider lifting the curfew. Otherwise, they would have to move in with them in Tranquil Cove.
-**中文理解**：后果清单落地：三人晚 8 点宵禁，连守两晚才可能解除；否则就搬去 Tranquil Cove 和父母同住。
-**关键词**：curfew / 8 p.m. / move in with them
-**为什么这样写**：惩罚的阶梯设计成"服刑换自由"——两晚守规可赎身，否则升格为同住监视；作者用一张细则表展示大人世界的博弈规则，也让"8 p.m."成为全书的行动红线：孩子们的一切夜戏从此都要与宵禁赛跑。
-**读者视角提示**：记下这组数字：8 点宵禁、两晚试用期——下一幕任何夜间行动都在踩这条线。而"搬去 Tranquil Cove"正是 Elliott 想要的结局，惩罚表里藏着他的私心。
 
 > **原句 9:** Something happened to Sam at that moment, and he wasn’t at Thrill Harbor with Jordan anymore, basking in the warmth of the sun. He was alone, outside his school, with the Joker.
 **中文理解**：瞥见 Avery 和 Max 的瞬间，Sam 人还在阳光下的 promenade，魂已经回到学校门外——独自一人，和 Joker 在一起。
