@@ -52,7 +52,7 @@ modified: "2026-11-20"
 > "No. I can’t tell her the truth. Not yet."
 
 **中文理解**：Cathie 读完最新章节短信：我知道这是恐怖小说，但我从没见过你写得这么黑暗——我很担心，打电话给我；Max 盯着手机想：如果她知道有多少内容来自真实经历会怎么想？——不，现在不能告诉她真相。
-**关键词**：never read anything this dark / Should I be worried / can’t tell her the truth
+**关键词**：never read anything this dark / supposed to be a horror novel / can’t tell her the truth
 **为什么这样写**：小说与现实的互文被「读者反应」点破——作者借 Cathie 的直觉（「太黑了」）把 Max 的创作状态暴露给她自己：她写的不是虚构，是记录；「not yet」的拖延是她最后的逃避。
 **读者视角提示**：记住「Dead Girls Don't Lie 越来越黑」——它是 Max 心理状态的晴雨表，也是 ch29「real revenge vs fictional」的回声；结局时这本书的收尾会是她心理的收尾。
 
@@ -62,7 +62,7 @@ modified: "2026-11-20"
 > What the fuck is she doing here?
 >
 >
-> She doesn’t move. Doesn’t even pretend to look away when she realizes I’ve spotted me. She just stands there, staring at me as if waiting for something."
+> She doesn’t move. Doesn’t even pretend to look away when she realizes I’ve spotted her. She just stands there, staring at me as if waiting for something."
 
 **中文理解**：Peyton 站在停车场正中，直盯着她的窗户——她来干什么？被发现后连假装移开视线都没有，就那么站着，像在等什么。
 **关键词**：middle of the parking lot / staring straight at my window / as if waiting for something
