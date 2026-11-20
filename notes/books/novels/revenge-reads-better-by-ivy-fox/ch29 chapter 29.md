@@ -142,12 +142,9 @@ modified: "2026-11-20"
 >
 >
 > "“I know.”"
->
->
-> " Jesus Christ. This is what they did to me."
 
-**中文理解**：Milo 喊停后她承认：我有一部分想那么做——想把那东西捅进去让一切停止；他只说「我知道」；她清醒过来：天哪，这就是他们对我做过的事。
-**关键词**：A part of me wanted to do it / make all of this stop / This is what they did to me
+**中文理解**：Milo 喊停后她承认：我有一部分想那么做——想把那东西捅进去让一切停止；他只说「我知道」，不评判地接住。（她随后才顿悟：天哪，这就是他们对我做过的事。）
+**关键词**：A part of me wanted to do it / make all of this stop / I know
 **为什么这样写**：暴力的遗传被当场认出——作者让她说出「a part of me」的诚实：复仇的冲动是真的；「This is what they did to me」的顿悟把「受害者变加害者」的机制点破：她差点复制 Reds 的剧本；Milo 的「I know」是不评判的接住。
 **读者视角提示**：这句「这就是他们对我做的事」是全书主题的最深处——记住它，它是理解 Max 为何最终可能选择「不杀」的钥匙。
 
