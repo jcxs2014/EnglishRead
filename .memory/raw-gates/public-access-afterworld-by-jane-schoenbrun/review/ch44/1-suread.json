@@ -1,0 +1,55 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch44",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch44_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "四人连夜开车次日下午到 safe house；Douglas 被胶带封嘴",
+   "anchor": "Eventually David takes some duct tape from the glove compartment and orders Jules to tape their hostage’s mouth shut.",
+   "start": 184,
+   "end": 301
+  },
+  {
+   "fact": "Bethany 睡大部分路程、梦话「The cobwebs…No. Stop it. That's not my name.」",
+   "anchor": "“The cobwebs,” she mumbles. Jules catches stray bits of sleep talk. “No. Stop it. That’s not my name.”",
+   "start": 1043,
+   "end": 1145
+  },
+  {
+   "fact": "过德州-新墨西哥边界半小时后 Bethany 醒；认出 David、Jules、Douglas",
+   "anchor": "Bethany finally wakes up about a half hour after they cross the Texas–New Mexico border.",
+   "start": 1153,
+   "end": 1241
+  },
+  {
+   "fact": "Bethany 自称感觉「像劫持了一家科技公司然后被爆头」",
+   "anchor": "“Like I held a tech company hostage and then got shot in the head.”",
+   "start": 2491,
+   "end": 2558
+  },
+  {
+   "fact": "David 说太远回不了营地、今晚借住朋友处；Bethany 问「Am I your prisoner?」他不答",
+   "anchor": "“Am I your prisoner?” she asks David in the rearview mirror.",
+   "start": 3342,
+   "end": 3402
+  },
+  {
+   "fact": "粉色牧场 tech-free zone（无 Wi-Fi/手机/电器）；Patricia 接待并说 Bethany 要谈的是她奶奶",
+   "anchor": "“Welcome to the ranch,” he says. “This is a tech-free zone. No Wi-Fi, no cell service, no electronics of any kind for miles. You’ll be able to detox here.”",
+   "start": 4062,
+   "end": 4217
+  },
+  {
+   "fact": "Patricia 与 David 给 Bethany 包扎、镊取玻璃、给药；坐轮椅的老人 Rachel 出场",
+   "anchor": "This is my grandmother,” Patricia says as she parks the wheelchair in the doorway so that the old woman is facing Bethany. “Her name is Rachel.”",
+   "start": 7058,
+   "end": 7202
+  },
+  {
+   "fact": "Rachel 打量 Bethany「So this is her…Our receiver, perhaps? After waiting so long?」",
+   "anchor": "“So this is her, yes? The girl you’ve been excited about? Our receiver, perhaps? After waiting so long?”",
+   "start": 7470,
+   "end": 7574
+  }
+ ]
+}
