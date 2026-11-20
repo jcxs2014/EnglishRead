@@ -1,0 +1,462 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/ch13 chapter 13.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/revenge-reads-better-by-ivy-fox/text/ch13_chapter_13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "\"Especially you, Max. I wasn't even sure you'd gotten the invitation. You sure didn't make it easy to find you.\" Misty w",
+          "ok": true,
+          "pos": 1536
+        }
+      ],
+      "words": 104
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Misty knew I was Max Usher before I ever set foot in Fairhope",
+          "ok": true,
+          "pos": 2671
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Because of her, there was a time when I didn't feel safe even in my own home",
+          "ok": true,
+          "pos": 5147
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I wait for my chest to tighten. For my breathing to turn shallow. For my surroundings to start closing in on me. But not",
+          "ok": true,
+          "pos": 6946
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Good to hear. And Paul? Is he doing all right? With all the new construction going on in Fairhope, he must be doing well",
+          "ok": true,
+          "pos": 8924
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“What can I say? Whatever gets the job done,” Peyton admits with a calculating little laugh. “The town will benefit from",
+          "ok": true,
+          "pos": 14359
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Can't argue with that. After all, they got away with murder back in high school. What's a little fraud and extortion?” ",
+          "ok": true,
+          "pos": 16080
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I can't exactly blame her for not being able to finish her thought. Betty and Bill already lost one child. I can only im",
+          "ok": true,
+          "pos": 17828
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“If you want to stay, fine. With Jordan being clumsy enough to fall to her death, there's at least one room free in this",
+          "ok": true,
+          "pos": 23420
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I underestimated her. Don't worry. She won't be a problem",
+          "ok": true,
+          "pos": 25059
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I push my way through and find Sydney on the ground while Sienna gives her mouth-to-mouth and chest compressions. Sydney",
+          "ok": true,
+          "pos": 26719
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "You might be right. Remember how Sydney always had an EpiPen with her during lunch back in school?” Mikayla asks. “Has a",
+          "ok": true,
+          "pos": 27194
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "My brows furrow when I see Delaney and Amber walking back to the tent instead of running",
+          "ok": true,
+          "pos": 27754
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "As if on cue, Sienna stops her compressions to check Sydney's pulse. Her shoulders sag as she places Sydney's arm back o",
+          "ok": true,
+          "pos": 28117
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.43,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.71
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter 13",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 13.0,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 1,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5264,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 41 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句1",
+        "words": 104
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
