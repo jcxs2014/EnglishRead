@@ -1,0 +1,327 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/ch37 the repaired tape.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch37_chapter_3.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Yeah, I’m sorry. I knew you would tell me not to if I told you what I was planning, but I went back to Troy a few times",
+          "ok": true,
+          "pos": 228
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She felt taken advantage of somehow. David had lied to her, kept this secret for weeks. And now here he was pressuring h",
+          "ok": true,
+          "pos": 2590
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "All I want to say is, as your father who loves you and wants the best for you—you and David are going to be on very diff",
+          "ok": true,
+          "pos": 4909
+        },
+        {
+          "text": "well, I hope he gets that job at Blockbuster he’s always wanted",
+          "ok": true,
+          "pos": 5107
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I didn’t break into Jim Davis’s house, okay? I visited him again. We talked more—a few times now. He’s a weirdo, for su",
+          "ok": true,
+          "pos": 7451
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The broadcasts. They’re psychic transmissions, disturbances between realities. Between this world and all the other worl",
+          "ok": true,
+          "pos": 8808
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She realized that David was more than just a phantom limb connected to her body: He was an internal organ. If he went aw",
+          "ok": true,
+          "pos": 10904
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Jim has interviewed a lot of them: the special ones, like you. The people I heard talk about it said they were gone for ",
+          "ok": true,
+          "pos": 14371
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The cold open, in which that handsome seventies actor who played Lil’ Angus’s dad broke the fourth wall and personally i",
+          "ok": true,
+          "pos": 15941
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She slept lightly, and even in her deepest moments of unconsciousness, she could still sense her mother’s warmth in the ",
+          "ok": true,
+          "pos": 19627
+        }
+      ],
+      "words": 70
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. Chapter 3（Episode Six: Script Girl）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3735,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 77 章中位 7、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
