@@ -118,26 +118,11 @@ modified: "2026-11-20"
 **读者视角提示**：这段是 meta 层的终极翻转：整本我们读的书（Revenge Reads Better）就是 Dead Girls Don't Lie 的手稿——T1 审查时核对：这本书的「章节内容」与「Max 的犯罪记忆」是否一一对应。
 
 > **原句 9:** "“Maxine Morgan, you’re under arrest for murder.”"
->
->
-> "I look at Milo one last time, taking in every detail of his face, desperate to commit it all to memory."
->
->
-> "I love you," he mouths.
->
->
-> "I love you, too."
->
->
-> "Then I draw in a shaky breath and rise to my feet, turning toward Sienna."
->
->
-> "I hold out my wrists."
 
-**中文理解**：Sienna 流泪给她戴上手铐：Maxine Morgan，你因谋杀罪被捕；Max 最后看一眼 Milo 的脸——他口型说「我爱你」，她口型回应「我也爱你」——然后起身、伸出手腕。
-**关键词**：under arrest for murder / commit it all to memory / I hold out my wrists
-**为什么这样写**：逮捕写成「告别的仪式」——作者让 Max 不挣扎不逃跑，而是「记住他的脸」+「主动伸出手腕」：她接受被捕是对 Sienna 的最后温柔（不让她开枪/不让 Milo 挡枪）；两个「I love you」的口型在无声中完成十年来的真正告白。
-**读者视角提示**：这段与 ch29 的「I love you too. I never stopped」完全对称——ch29 是重逢时的重逢语，ch39 是分别时的诀别语；同一句话、两个世界。
+**中文理解**：Sienna 流泪给她戴上手铐：Maxine Morgan，你因谋杀罪被捕——Max 最后一眼把 Milo 的脸刻进记忆，两人无声交换「我爱你」口型，然后她主动伸出手腕。
+**关键词**：under arrest for murder / I hold out my wrists
+**为什么这样写**：逮捕写成「告别的仪式」——作者让 Max 不挣扎不逃跑，而是「记住他的脸」+「主动伸出手腕」：她接受被捕是对 Sienna 的最后温柔（不让她开枪/不让 Milo 挡枪）；两个「I love you」口型在无声中完成十年来的真正告白。
+**读者视角提示**：这段与 ch29 的「I love you too. I never stopped」完全对称——ch29 是重逢时的告白，ch39 是分别时的诀别；同一句话、两个世界。
 
 > **原句 10:** "“Did it feel good?”"
 >
