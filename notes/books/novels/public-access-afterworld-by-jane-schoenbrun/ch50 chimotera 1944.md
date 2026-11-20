@@ -29,7 +29,7 @@ modified: "2026-11-19"
 **中文理解**：你的童年……大概是快乐的吧。关于童年的可用信息不多。它作为一个事实存在，却落在真实经验之外——好像发生在别人身上。好像一次更真实的出生发生在很久以后。就在九十分钟前，logo 亮起天际的那一刻。
 **关键词**：a truer birth / outside the margins
 **为什么这样写**：记忆的产权纠纷：童年是「事实」不是「经验」——被放映的存在比被活过的存在更真。truer birth 的说法让转生有了出生证明的升级版：第二人生才是正本。outside the margins 的排版隐喻把前史写成页边注——本集的叙事学：被记住的只有被放映的。
-**读者视角提示**：对照 ch34 的「as if a truer birth」式表述？——不，对照的是 Bethany 的「Bethany 诞生自螺旋」：两位主角都把「真我」的出生日定在灾难里。转生是本书共同的出生方式。
+**读者视角提示**：对照 ch46 的「Bethany 诞生自螺旋」：怪物与主角都把「真我」的出生日定在灾难里（ch34 无此表述，已校正）。转生是本书共同的出生方式。
 
 > **原句 4:** "But the radio was turned off, so how was such a thing possible? And how could you have two memories at once? There was no voice from the radio. And yet there had been one."
 **中文理解**：可收音机是关着的，这种事怎么可能？你怎么会同时拥有两份记忆？收音机里没有声音。但它确实有过。
