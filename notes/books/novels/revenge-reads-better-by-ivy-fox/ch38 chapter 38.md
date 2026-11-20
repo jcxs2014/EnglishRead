@@ -8,7 +8,7 @@ modified: "2026-11-20"
 ## 本章导航
 - **一句话概括**：2016 年 7 月 8 日——Milo/Max 打包离开 Fairhope、Dylan 组织纸厂告别派对；Peyton 带 Reds 追来纵火「逼他们出来」，火势失控、屋顶上的 Kody 等人被困；Milo 冲进火场救人，Max 坚持「你去哪我去哪」跟进去——爆炸把她炸飞、左侧全身严重烧伤；Milo 手指勾着她的「撑住」，黑暗吞没一切——「那一夜」完整呈现。
 - **情感弧线位置**：全书叙事的时空折叠点——这一夜就是 Prologue/CH1-41 中反复闪回的「那一夜」：Kody 死亡、Kayla 目睹、Max 毁容、Milo 幸存；所有前章的谜底（疤/围巾/PTSD/讣告红问号）在此合拢。
-- **Tropes 兑现/反转**：兑现「告别的火灾」与「Peyton 的最终暴行」；反转是「火不是意外也不是蓄意谋杀」而是自恋者的任性——她说「it's just a little fire」，但屋顶有人。
+- **Tropes 兑现/反转**：兑现「告别的火灾」与「Peyton 的最终暴行」；反转是「火不是意外也不是蓄意谋杀」而是自恋者的任性——她说「It’s a little fire」，但屋顶有人。
 - **人物弧线**：Milo 的「Where you go, I go」承诺被自己打破（「Not this time, sweetheart」——他第一次把她推开是为了救她）；Peyton 的恶从操盘降为「失控的任性」——她甚至没意识到屋顶有人。
 - **叙事手法**：章内时间（傍晚→午夜→爆炸）与全书的「十年后」叙事线在此对折；「I'm burning」的感官碎片用第一人称写作法呈现创伤；章尾「silence/darkness」的段落递进是全书的「暂停键」。
 
@@ -119,8 +119,8 @@ modified: "2026-11-20"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| condemned | 报废的、禁止使用的 | That shit's condemned. There's still old industrial crap in there. |
-| coronorary | 心脏病发作（give Chief Neptune a coronary） | enough teenagers...to give Chief Neptune a coronary. |
+| spreading | 蔓延、扩展 | an orange glow spreading through the broken panes |
+| coronary | 心脏病发作（气出心脏病） | enough teenagers wandering around with beer bottles in their hands to give Chief Neptune a coronary. |
 | bore | 钻孔、冲（孔洞） | before a deafening blast tears through the air. |
 
 ### ⭐ 常用

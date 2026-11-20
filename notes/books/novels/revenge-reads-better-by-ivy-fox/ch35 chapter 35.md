@@ -180,20 +180,20 @@ modified: "2026-11-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | disfigured | 毁容的、变形的 | Every time my disfigured fingers brush against the scars on my cheek and neck. |
-| lunatic | 疯子、狂人 | There’s some raging lunatic out there killing our classmates? |
+| suspicion | 猜疑、怀疑 | I know how easily suspicion can turn into certainty when people start looking for reasons to believe the worst about you. |
 | settlements | 和解金 | those settlements could come under scrutiny |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| distraught | 心烦意乱的、几乎发狂的 | I’m about to think of something witty to say, but the moment he strips down... (此处取相近语) |
+| statement | 陈述、说法 | Before I can add anything to her statement, a sharp screech from the microphone cuts through the murmuring crowd. |
 | hysterical | 歇斯底里的 | a hysterical laugh escaping her own lips as tears continue streaming down her face. |
-| manhandle | 粗暴对待 | That’s hardly a crime, Deputy. (对照 Andre 拖人) |
+| manhandle | 粗暴对待 | That’s hardly a crime, Deputy. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vigil | 守夜 | See you at tonight's vigil, Max. |
+| vigil | 守夜 | tonight’s vigil is definitely one I would’ve loved to add to that list |
 | out of my misery | 解脱（put me out of my misery） | "Just kill me. Put me out of my misery." |
 
 ## 一句话总结

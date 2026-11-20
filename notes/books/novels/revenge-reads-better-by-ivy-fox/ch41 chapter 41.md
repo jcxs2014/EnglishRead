@@ -23,10 +23,10 @@ modified: "2026-11-20"
 **为什么这样写**：全书罪行的「最终定罪」——作者用罪名清单把 ch35 的「钱动机」理论正式兑现：Peyton 纵火→骗和解金→建政治资本→杀知情者→嫁祸 Max；「grift on a lie she created herself」点出她从受害者到加害者的身份欺骗。
 **读者视角提示**：Peyton 的「双重罪」（谋杀+诈骗）解释了 ch35 Sienna 提出的两个动机（revenge + money）为何同时成立——两者不是二选一，是同一人的两面。
 
-> **原句 2:** "“Milo’s dead, Doctor. He’s been dead for almost eleven years now. He was one of the five teenagers who died in the Crowley Mill fire.”"
+> **原句 2:** "“She’s talking to Milo.”"
 >
 >
-> "“She’s talking to Milo.”"
+> "“Milo’s dead, Doctor. He’s been dead for almost eleven years now. He was one of the five teenagers who died in the Crowley Mill fire.”"
 
 **中文理解**：Sienna 告诉医生全书最大的终极揭示：Milo 已经死了——死了快十一年，是纸厂火灾五个死者之一；而 Max 不是在自言自语——她在跟 Milo 说话。
 **关键词**：Milo’s dead / almost eleven years / Crowley Mill fire / She’s talking to Milo
@@ -63,16 +63,16 @@ modified: "2026-11-20"
 **为什么这样写**：全书的最后一句——作者用这句话为整个故事定性：这不是一个 HEA（Happily Ever After）故事，它是一个非凡的悲剧爱情故事；「The End」紧接其后，不给续篇、不给转机、不给读者任何补救——这就是结局。
 **读者视角提示**：全书最后一句话——T1 审查时核对：这句话是否在总览三篇的金句精选中被收录；它是全书的最终主题句，与 Prologue 的「hell froze over」形成首尾闭环。
 
-> **原句 6:** "This man has blood on his hands."
+> **原句 6:** "I don’t know who Elias is, or what he’s doing at Springview, but the look in his eyes sets every last one of my alarm bells ringing."
 >
 >
-> "Elias. Blackwater Falls."
+> "This man has blood on his hands."
 >
 >
 > "I commit both to memory, making a mental note to look them up later."
 
 **中文理解**：停车场邂逅一个可疑男人 Elias（来自 Blackwater Falls）——Sienna 的直觉：手上沾着血；她记住名字准备日后查。
-**关键词**：Elias / Blackwater Falls / blood on his hands
+**关键词**：who Elias is / blood on his hands / commit both to memory
 **为什么这样写**：续集伏笔——作者让 Sienna 的直觉指向一个新角色：这是为 Sienna 的独立故事《The Devil in You》（ch46 mentions 中预告）埋下的种子；「Blackwater Falls」是下一本书的世界。
 **读者视角提示**：这个「Elias」与本故事无关——它是续集的彩蛋；T1 审查时标注：非本卷伏笔，不应在总览中做过度解读。
 

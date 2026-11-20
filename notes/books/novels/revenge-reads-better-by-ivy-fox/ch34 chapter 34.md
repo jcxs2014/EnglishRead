@@ -174,14 +174,14 @@ modified: "2026-11-20"
 |---|---|---|
 | uncanny | 超常的、异乎寻常的 | Sienna has an uncanny ability to piece things together. |
 | unfurls | 展开、舒展 | Relief unfurls through my chest. |
-| detriment | 损害（in one's detriment） | Blunt to a fault, even to your own detriment. |
+| reluctantly | 不情愿地 | When the bell rings we reluctantly let go of each other’s hands and return to pretending we’re nothing more than two classmates who barely know each other. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | lips / mouths | 口型（mouthed a word） | "Stop," I mouth. "Never," he mouths back. |
-| scare them away | 吓跑（某人） | Or worse, that I'd scare you away. |
-| dictate | 支配、决定 | Peyton will dictate every part of your relationship. |
+| scare him away | 吓跑（某人） | Do you honestly think his stepsister and her little red army could scare him away? |
+| dictate | 支配、决定 | You’re letting Peyton dictate every part of your relationship |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

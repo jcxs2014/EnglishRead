@@ -211,7 +211,7 @@ modified: "2026-11-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | pitchfork | 干草叉 | A decorative pitchfork leans against a tree trunk, half-hidden in shadow. |
-| scream | 尖叫 | Do it! I want to hear you fucking scream. |
+| scream | 尖叫 | Scream like I screamed when you bitches stole my life’s work and burned it to ash. |
 
 ## 一句话总结
 Sienna 追凶去了波士顿，Max 追爱却追进焚稿旧地——她被 Delaney 拖进树林、差点用草叉变成「别人写好的凶手」，Milo 一声喝止、一句「他们没拿走一切」把她拉回来；「I love you」终于说齐，而她要的「after」，要等一切落定后才能验证。

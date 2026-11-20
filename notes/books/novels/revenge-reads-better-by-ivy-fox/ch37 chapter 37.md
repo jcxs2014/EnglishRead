@@ -133,15 +133,15 @@ modified: "2026-11-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | persona non grata | 不受欢迎的人 | the Fairhope rumor mill has once again decided that I’m persona non grata. |
-| allege / alleged | 指称（未证实） | someone contacted the university claiming that the short story... was plagiarized. |
-| disfigured | 毁容的、畸形的 | Every time my disfigured fingers brush against the scars on my cheek and neck. |
+| innocence | 清白、无罪 | perhaps Chief Neptune has finally done something useful for a change and is on the verge of proving my innocence. |
+| possibility | 可能性 | how I’m supposed to feel about the possibility that the man I love might be responsible for all these murders |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| gutters/gutter rat | 阴沟老鼠（骂出身） | forget what a gutter rat you really are |
+| gutters/gutter rat | 阴沟老鼠（骂出身） | instead of being the poor little gutter rat who dared to fall in love with the wrong boy |
 | fawning | 奉承、献殷勤 | surrounded by a small crowd of admirers, all laughing and fawning over her |
-| surgical | 精准的（外科手术般的） | Nothing and no one could ever change that. (相近语) |
+| reassuring | 令人安心的 | She steps closer and places a hand on my shoulder, giving it a reassuring squeeze. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

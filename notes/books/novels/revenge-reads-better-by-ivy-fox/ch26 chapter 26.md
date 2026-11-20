@@ -160,8 +160,18 @@ modified: "2026-11-20"
 **关键词**：Before he has a chance to respond / block his number
 **为什么这样写**：拉黑作为分手的全部动作——作者用一个极其日常的手指动作承载最痛的告别：她不给解释、不给回应机会，因为一犹豫就做不到；「before he has a chance」把她的决绝与恐惧同时按下。
 **读者视角提示**：记住这个「拉黑」——它是 ROM 线最低点的物证，与 ch07 的「Maybe I'll feel differently」呼应；结局必须交代它如何被推翻或加深。
-**为什么这样写**：四句短句做终章判决——作者让「拉黑」这个极其日常的动作承载分手全部重量；「She's won」用第三人称把自己从身体里抽离：她承认 Peyton 的胜利，也把自己判出局。
-**读者视角提示**：记住这个「I'm sorry + 拉黑」——它是 ROM 线的最低点，与 ch07 的「Maybe I'll feel differently」呼应；结局必须给出这个决定如何被推翻或加深。
+> **原句 14:** "Then I let the curtain fall back into place and turn away from the window, pressing a hand over my mouth to muffle the sob that finally breaks free."
+>
+>
+> "There. It’s done."
+>
+>
+> "She’s won."
+
+**中文理解**：拉黑之后她拉上窗帘、捂住嘴压住终于决堤的呜咽——「好了。结束了。」「她赢了。」
+**关键词**：muffle the sob / There. It’s done. / She’s won
+**为什么这样写**：终章判决用第三人称落地——作者让「She's won」的主语不是 Peyton 的名字而是「她」：Max 把自己从身体里抽离出来、宣判自己的败局；压住的呜咽是她唯一被允许的崩溃，因为它发生在无人看见的窗帘后面。
+**读者视角提示**：记住这个「She's won」——它与本章「有人看着我们」的监控感闭环：全程被观看的人，最后只在无人看见处崩溃；结局会检验这场「胜利」的代价。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -182,7 +192,7 @@ modified: "2026-11-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | good riddance | 走得好、总算摆脱 | "See you around, Extra Credit," she singsongs. "Good riddance." |
-| payoff | 报应、回报（这里是 payback 报复） | This is payback for not following her rules. |
+| payback | 报复、报应 | This is payback for not following her rules. |
 
 ## 一句话总结
 一张构构好的照片、一瓶栽赃的药、一个母亲成瘾的亡魂——Peyton 把 Collins 和她父亲都变成武器；Max 终于看清这场戏只为 Milo 而演，于是用一句「对不起」和一个拉黑，亲手把唯一的光关在了窗外。

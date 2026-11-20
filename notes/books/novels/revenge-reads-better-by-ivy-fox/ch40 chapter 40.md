@@ -67,7 +67,7 @@ modified: "2026-11-20"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| foreovermore | 直到永远（古体/诗意用法） | "Always and forevermore." |
+| forevermore | 直到永远（古体/诗意用法） | "Always and forevermore." |
 | psychiatric hospital | 精神病院 | The common room at Springview Psychiatric Hospital |
 | grounds | 场地、庭院（复数） | winding pathways, wooden benches, and flower beds scattered across the grounds |
 

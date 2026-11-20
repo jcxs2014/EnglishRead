@@ -184,22 +184,22 @@ modified: "2026-11-20"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disassociate | 解离（心理分离） | A confession disguised as a manuscript. (叙事概念，非原文单词) |
+| tenderness | 温柔、柔情 | Just that same impossible tenderness as he looks at me, his fingers still wrapped around mine. |
 | irrevocably | 不可逆转地 | All it means is that I lost my way. Truly and irrevocably. |
 | complicit | 共谋的、同谋的 | she was just as complicit as the others. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vigil | 守夜（此处为追悼仪式） | And then there was the vigil. |
-| sanity | 神志、理智 | I lost my own sanity in the process. |
-| interrogation | 审讯（背景概念） | Chief Neptune has also been informed of the allegations. |
+| vigil | 守夜（此处为追悼仪式） | Then there was the vigil. |
+| sanity | 神志、理智 | I lost myself, Sienna. Lost my own sanity in the process. |
+| manuscript | 手稿 | And then I found your manuscript on your laptop. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | razor blade | 剃刀刀片 | slit her wrists with a razor blade |
-| crutch word | 口头禅、习惯用词 | Sometimes they're what we call crutch words. |
+| paramedics | 急救医护人员 | Peyton is lying on the ground, surrounded by paramedics. |
 
 ## 一句话总结
 全书的终极反转在此落地：Reunion Killer 就是 Max 自己——解离中的她把十年创伤变成了一场逐个清算的死刑执行，而唯一的目击者和逮捕者是她的挚友 Sienna；手稿即招供书、粉丝即读者、逮捕即最后的温柔——「I'm glad it's you」。

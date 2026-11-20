@@ -16,9 +16,6 @@ modified: "2026-11-20"
 > **原句 1:** ""Especially you, Max. I wasn't even sure you'd gotten the invitation. You sure didn't make it easy to find you." Misty waits for me to add something, but when I refuse to give her anything, she continues, "There was just no trace of Maxine Morgan anywhere. It was the craziest thing. Good thing I remembered Kayla's mom mentioning that you'd gotten into Columbia. Since that was my only lead, I made some calls and, luckily, managed to get in touch with one of your old professors who knew you were signed with Neverland Publishing." Her smile brightens. "Max Usher, huh? The name suits you.""
 
 **中文理解**：Misty 炫技式自曝追查链：全城找不到 Maxine Morgan 的痕迹，靠 Kayla 妈一句「进了 Columbia」一路挖到她的老教授、再挖到 Neverland 出版社——「Max Usher，这名字真配你」。
-
-
-**中文理解**：Misty 炫技式自曝追查链：全城找不到 Maxine Morgan 的痕迹，靠 Kayla 妈一句「进了 Columbia」一路挖到她的老教授、再挖到 Neverland 出版社——「Max Usher，这名字真配你」。
 **关键词**：no trace of Maxine Morgan / my only lead / Max Usher, huh
 **为什么这样写**：炫耀式坦白是权力表演——作者让 Misty 把「人肉」过程当社交货币花出去，潜台词是「你的藏匿对我无效」；最后那句对笔名的赞美是刀尖上的糖。
 **读者视角提示**：她知道笔名却没说出去——记住这个「独吞的秘密」，它是本章最大的未解题。
