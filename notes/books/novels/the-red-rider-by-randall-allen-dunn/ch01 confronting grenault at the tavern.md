@@ -63,14 +63,21 @@ modified: "2026-11-20"
 **为什么这样写**：三句全是"知道"层面的知识陈述，不写任何打斗——用武器设定的确定性替代动作场面；破折号插入 "in human or wolf form" 一笔带过变身设定，银箭对两种形态通杀，威慑才算闭环。"recoiled" 的群体反应又与 Grenault 的不退形成对照。
 **读者视角提示**：全书的核心规则在这里立住：银箭秒杀、对人狼两态有效——她敢单枪匹马来，靠的是装备与准头，不是人数。
 
-> **原句 8:** "“Unlike the rest of the Lycanthru, I don’t take orders from a little girl. This is a new order, Mademoiselle. You’re dealing with me now.”"
+> **原句 8:** "He lifted his chin, looking amused. “Is she important to you, Mademoiselle? That would make her taste even sweeter.”"
+
+**中文理解**：他扬起下巴，一副被逗乐的样子——她对你很重要吗，小姐？那会让她的味道尝起来更甜。
+**关键词**：lifted his chin / important to you / taste even sweeter
+**为什么这样写**：把"重要的人"折算成"更甜的味道"，捕食者用自己的价值语言接住她的失态；"looking amused" 与她此刻血液发冷的体感拉开温差——她的软肋在这一问里被明码标价。
+**读者视角提示**：这是 Lisette 第二次被提起——同伙起哄报出名字在先，Grenault 的反问说明他已经嗅到她与 Lisette 的关联；第 3 章揭示的伏笔（Lisette 是 Pierre 的继母）从这里开始埋。
+
+> **原句 9:** "“Unlike the rest of the Lycanthru, I don’t take orders from a little girl. This is a new order, Mademoiselle. You’re dealing with me now.”"
 
 **中文理解**：跟 Lycanthru 其他人不一样，我不听一个小丫头号令。这是新秩序，小姐。你现在要对付的是我。
 **关键词**：take orders / a new order / dealing with
 **为什么这样写**：order 一词两义在同一段里复用——前一句是"号令"，后一句是"秩序"，两个 "order" 之间完成了从"抗命"到"改朝换代"的语义滑动；称呼 "Mademoiselle" 从礼数滑成居高临下的标签，礼貌本身就是威胁的一部分。
-**读者视角提示**：他先承认 "Unlike the rest"——组织里其他人还怕她。新主的第一条政纲就是废掉她的威慑，这句话比动手更狠。
+**读者视角提示**：他先承认 "Unlike the rest"——组织里其他人还怕她。新主的第一条政纲就是废掉她的威慑，这句话比动手更狠。同一张桌上他已自报家门（"I am Luc Grenault. Soon to become the new Prime."）并放话把她 "dead or barely alive" 交给 Lycanthru——本块是这份野心的政纲部分。
 
-> **原句 9:** "I held his gaze a moment longer before turning to march out the double doors. They would follow me, with Grenault leading the way. Trusting they could tear me to shreds before I fired off a shot."
+> **原句 10:** "I held his gaze a moment longer before turning to march out the double doors. They would follow me, with Grenault leading the way. Trusting they could tear me to shreds before I fired off a shot."
 
 **中文理解**：她又盯了他一会儿，才转身大步走出双开门。他们会跟上来的，Grenault 领头，赌的是能在她射出第一箭之前把她撕成碎片。
 **关键词**：held his gaze / march out / tear me to shreds
