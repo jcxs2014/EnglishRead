@@ -19,7 +19,7 @@ modified: "2026-11-20"
 > "But here we are. At Sydney’s grand farewell."
 
 **中文理解**：她上一次参加的葬礼是父亲的——从没想过还会再来一次，更没想到是 Red 的「盛大告别仪式」。
-**关键词**：last funeral...my father’s / Sydney’s grand farewell / here we are
+**关键词**：The last funeral I went to / my father’s / Sydney’s grand farewell
 **为什么这样写**：葬礼作为回乡的残酷循环——作者用「父亲的葬礼」起笔，把眼前的死亡接入她的创伤谱系；「grand farewell（盛大告别）」的讽刺措辞点出这场葬礼的表演性：Reds 连死都要排场。
 **读者视角提示**：记住这场葬礼的空前规模——它是全书社会面的高峰：整个 Fairhope 都在场，而凶手「应在场却缺席」。
 
@@ -39,7 +39,7 @@ modified: "2026-11-20"
 > **原句 3:** "Maybe we all have a switch inside us, and once someone finally manages to flip it, there’s no turning it off again."
 
 **中文理解**：也许我们体内都有一个开关——一旦有人把它拨开，就再也关不回去了。
-**关键词**：a switch inside us / once someone flips it / no turning it off
+**关键词**：a switch inside us / once someone finally manages / no turning it off
 **为什么这样写**：全书暴力心理学的凝练——作者用「开关」的机械隐喻解释「好人变凶手」：不是选择，是失控；「someone（有人）」的含糊主语暗示：触发开关的另有其人——这与 Peyton 的操盘暗线呼应。
 **读者视角提示**：记住「switch」这个意象——它在结局处会被验证：谁拨动了谁？Max 自己的开关是否也被拨开过？
 
