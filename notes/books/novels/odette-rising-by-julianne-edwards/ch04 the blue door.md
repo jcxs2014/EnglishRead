@@ -34,17 +34,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：这是父亲的第二次「身份揭穿」：诗人在工厂，伤者在巴黎。留意 Merry 描述时「像扛煤一样」的态度——对仆人而言，处理主人的血肉也是活计，这个视角本身就是一层社会讽刺。
 
-> **原句 3:** "“Me and Madame Dendron. We put him on the table, and she inspected him. His arms and legs and that. He cried out a lot. She went, ‘Shhh, shhh.’ I was sent to get his nightshirt, blankets, and then she cut off his clothes. She took off his breeches and all.”"
-
-**中文理解**：「我和 Dendron 太太。我们把他抬上桌子，她来检查——胳膊、腿什么的。他一直惨叫。她只『嘘、嘘』。我被打发去拿睡衣和毯子，然后她剪掉他的衣服，连裤子都脱了。」
-
-**关键词**：inspected him / He cried out a lot / ‘Shhh, shhh.’ / cut off his clothes
-
-**为什么这样写**：一场重伤救治被写成流水账，每个动作都是分工：谁抬、谁检查、谁跑腿。最有分量的是那声『Shhh, shhh』——主人惨叫，管家嘘声，权力关系比伤势更刺眼。Dendron 在这里显露的能力（剪衣、处理、调度）与她日后对 Odette 的态度同源：这个家实际由她运转，而主人家的秘密她全部经手。
-
-**读者视角提示**：把「Dendron 早就知道」钉进你的记忆清单：报丧的是她、处理血案的也是她。Odette 要撬开这个家的真相，第一个把手搭在门把上的就是这位管家。
-
-> **原句 4:** "If she had been asked to choose a color that represented him, she would have said brown. But that was before. Before the office, the drawings, the women in the photos, and now this. Whatever this was."
+> **原句 3:** "If she had been asked to choose a color that represented him, she would have said brown. But that was before. Before the office, the drawings, the women in the photos, and now this. Whatever this was."
 
 **中文理解**：如果有人要她选一种颜色代表父亲，她会说棕色。但那是之前。办公室、画、相片里的女人们，以及现在这件事之前。不管它是什么。
 
@@ -53,6 +43,16 @@ modified: "2026-11-18"
 **为什么这样写**：用颜色给父亲建档，是她在「无法谈论他」的处境里发明的私人语法；brown——泥土、旧物、无个性——正是她所认识的那个父亲的全部。然后 But that was before 一句折断时间轴，三连 before 排出证据清单。「Whatever this was」是本章的认知姿态：她连给血案命名的语言都没有。
 
 **读者视角提示**：留意作者的「档案法」叙事：父亲的形象由一桩桩物证（颜色、画、相片、蓝门）拼出。你手里的拼图和 Odette 一样多——这小说就是让你陪她一起拼。
+
+> **原句 4:** "“Me and Madame Dendron. We put him on the table, and she inspected him. His arms and legs and that. He cried out a lot. She went, ‘Shhh, shhh.’ I was sent to get his nightshirt, blankets, and then she cut off his clothes. She took off his breeches and all.”"
+
+**中文理解**：「我和 Dendron 太太。我们把他抬上桌子，她来检查——胳膊、腿什么的。他一直惨叫。她只『嘘、嘘』。我被打发去拿睡衣和毯子，然后她剪掉他的衣服，连裤子都脱了。」
+
+**关键词**：inspected him / He cried out a lot / ‘Shhh, shhh.’ / cut off his clothes
+
+**为什么这样写**：一场重伤救治被写成流水账，每个动作都是分工：谁抬、谁检查、谁跑腿。最有分量的是那声『Shhh, shhh』——主人惨叫，管家嘘声，权力关系比伤势更刺眼。Dendron 在这里显露的能力（剪衣、处理、调度）与她日后对 Odette 的态度同源：这个家实际由她运转，而主人家的秘密她全部经手。
+
+**读者视角提示**：把「Dendron 早就知道」钉进你的记忆清单：报丧的是她、处理血案的也是她。Odette 要撬开这个家的真相，第一个把手搭在门把上的就是这位管家。
 
 > **原句 5:** "A dead mother, dead father, secrets and lies. Yes, others found her grotesque and limited, but she did not deserve this, to be kept in the dark. Surely, there was someone who might shake her free from this life before she was quietly smothered by it?"
 

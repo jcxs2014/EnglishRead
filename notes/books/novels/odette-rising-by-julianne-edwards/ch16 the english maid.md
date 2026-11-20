@@ -74,17 +74,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：注意「as I have said to you before」——ch10 的「We are well regarded」原是同一篇讲稿的试讲。她的体面哲学是一贯的，这次只是加上了对象。
 
-> **原句 7:** "“Mademoiselle, that really is not acceptable. We cannot have Jews taking tea in this house; you must not have them on an equal social footing. You have made a mistake.”"
-
-**中文理解**：「小姐，这实在不行。我们不能让犹太人在这个宅子里喝茶；您绝不能与他们平起平坐。您犯了个错误。」
-
-**关键词**：not acceptable / Jews taking tea in this house / equal social footing / You have made a mistake
-
-**为什么这样写**：图穷匕见：包装纸撕掉，偏见裸奔——not acceptable 三个词被她转手掷回（本章开头正是这个词描画 Odette）。equal social footing 是反犹的精确语法：不是排斥存在，是禁止对等。You have made a mistake 的教师口吻把歧视升格为纠错——仆人训主人， hierarchie 短暂倒挂，只因仇恨给了她底气。
-
-**读者视角提示**：这段话请带着批判距离读：作者让 Dendron 的逻辑自我暴露（从 standards 到种族），不另加评论——十九世纪法国的真实空气，1900 年 Dreyfus 案余波，全在这几句里。
-
-> **原句 8:** "She had read about antisemitism in the papers, she knew about the military man, Dreyfus, whom many said had been convicted of treason because he was Jewish. Through his treatment, France had revealed a black heart and now, here it was, in her own house."
+> **原句 7:** "She had read about antisemitism in the papers, she knew about the military man, Dreyfus, whom many said had been convicted of treason because he was Jewish. Through his treatment, France had revealed a black heart and now, here it was, in her own house."
 
 **中文理解**：她在报上读过关于反犹的报道，知道那位军人 Dreyfus——许多人都说他因为犹太人身份被定了叛国罪。经由对他的处置，法国露出了一颗黑心，而现在，这颗黑心就在她自己家里。
 
@@ -93,6 +83,16 @@ modified: "2026-11-18"
 **为什么这样写**：私宅与国族在同一段完成对接：Dreyfus 冤案（1894 年定罪的现实背景）把「黑心」从比喻升格为史料——她读报的积累（ch09 就在啃 Le Figaro）在此兑换成判断力。in her own house 的落地让宏大历史有了具体的门牌号：歧视不是报纸上的远方，是她的客厅。作者不让她发表宏论，只让她完成「识别」——识别本身就是立场。
 
 **读者视角提示**：记住她对 Feld 一家的态度公式：「I neither knew, nor cared」——无知与冷漠在她这里被中性化（不歧视的前提是不提问）。而管家的问题是主动的恨。两者的差距就是本章的道德刻度。
+
+> **原句 8:** "“Mademoiselle, that really is not acceptable. We cannot have Jews taking tea in this house; you must not have them on an equal social footing. You have made a mistake.”"
+
+**中文理解**：「小姐，这实在不行。我们不能让犹太人在这个宅子里喝茶；您绝不能与他们平起平坐。您犯了个错误。」
+
+**关键词**：not acceptable / Jews taking tea in this house / equal social footing / You have made a mistake
+
+**为什么这样写**：图穷匕见：包装纸撕掉，偏见裸奔——not acceptable 三个词被她转手掷回（本章开头正是这个词描画 Odette）。equal social footing 是反犹的精确语法：不是排斥存在，是禁止对等。You have made a mistake 的教师口吻把歧视升格为纠错——仆人训主人， hierarchie 短暂倒挂，只因仇恨给了她底气。
+
+**读者视角提示**：这段话请带着批判距离读：作者让 Dendron 的逻辑自我暴露（从 standards 到种族），不另加评论——十九世纪法国的真实空气，1900 年 Dreyfus 案余波，全在这几句里。
 
 > **原句 9:** "“But then, they were all ashamed of you, weren’t they? Even Madame Huré. She was most ashamed of all. Poor woman, what she had to do, the lie she had to live. If it hadn’t been for those oysters, she would have continued to spend her days in intolerable torment. If she hadn’t been taken so suddenly, the charade forced upon her would have killed her in the end. You would have killed her.”"
 

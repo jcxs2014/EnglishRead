@@ -44,17 +44,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：把「空白墙纸」当作 Arielle 线的引题：接下来关于画的每一句问答，都是在给这方空白写说明。
 
-> **原句 4:** "Oh my, thought Odette, what a fool I am. She has sold the painting. It must have been worth a lot, but not as much as it would have cost her to part with it. How does a young widow find money? What happens to women like Arielle when their husbands die?"
-
-**中文理解**：天哪，她想，我多蠢。她把画卖了。那画一定值不少钱，但仍不及「割舍它」要她付出的代价。一个年轻寡妇从哪儿弄到钱？像 Arielle 这样的女人，丈夫死后怎么办？
-
-**关键词**：She has sold the painting / not as much as it would have cost / a young widow find money / when their husbands die
-
-**为什么这样写**： Odette 的推理两段式：先破谎言（sold），再算代价——卖价高不过「割爱之痛」，说明她卖的不是余钱，是最后的余粮。第二问（widows 怎么办）把私人窘境翻成社会问题：没有收入权的女人，守寡即断粮。这一章于是有了一个无意的平行：厂里的女工与客厅里的寡妇，同属「无人兜底」的名单。
-
-**读者视角提示**：留意她此刻的洞察没有出口——她发现了 Arielle 的困境，却被请求「别谈」。看见而不被允许帮忙，是她日后要学会突破的第二种围墙。
-
-> **原句 5:** "It’s a good question, she thought, what do I feel like? She couldn’t know if her soft, hot skin was the same or different from that of other women. Did everyone have dimples on their belly and thighs, and creases like smiles below their knees?"
+> **原句 4:** "It’s a good question, she thought, what do I feel like? She couldn’t know if her soft, hot skin was the same or different from that of other women. Did everyone have dimples on their belly and thighs, and creases like smiles below their knees?"
 
 **中文理解**：这个问题问得好，她想：我摸起来是什么手感？她无从知晓自己温软发热的皮肤，与别的女人是相同还是不同。是不是人人肚腹和大腿上都有窝窝，膝弯下都有一道道像笑纹的褶？
 
@@ -64,7 +54,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：这是身体暗线（疤/夜抚/尺码）的新阶段：从「接受」走向「好奇」。谁第一个不带评判地碰她（字面意义），谁就能回答这道题。
 
-> **原句 6:** "Even if he’d been taken shockingly young, he had left behind a home with a center, and this little family seemed to have love in their hearts. What a legacy, she thought. What an end to aspire to."
+> **原句 5:** "Even if he’d been taken shockingly young, he had left behind a home with a center, and this little family seemed to have love in their hearts. What a legacy, she thought. What an end to aspire to."
 
 **中文理解**：即便他被夺走得如此突然、如此年轻，他留下了一个「有重心」的家，这一家人心里像是装着爱。多么了不得的遗产，她想。多么值得向往的结局。
 
@@ -73,6 +63,16 @@ modified: "2026-11-18"
 **为什么这样写**：她用自己的家庭做对照组，给「好死亡」立了标准：留下的不是钱，是 center——一个仍然围着他旋转的家。legacy 与 end 的并列把「死亡」改写成期末考试：人这一生最后交出的成绩单。这是她对父亲遗产的间接宣判：Huré 家有资产无 center。她此刻的向往，将变成她后半程的行动纲领——成为一个有 center 的人。
 
 **读者视角提示**：记住「有重心的家」这个愿景清单第一项。她后来建厂、交友、收留 Merry，全都在朝这个 end 走。
+
+> **原句 6:** "Oh my, thought Odette, what a fool I am. She has sold the painting. It must have been worth a lot, but not as much as it would have cost her to part with it. How does a young widow find money? What happens to women like Arielle when their husbands die?"
+
+**中文理解**：天哪，她想，我多蠢。她把画卖了。那画一定值不少钱，但仍不及「割舍它」要她付出的代价。一个年轻寡妇从哪儿弄到钱？像 Arielle 这样的女人，丈夫死后怎么办？
+
+**关键词**：She has sold the painting / not as much as it would have cost / a young widow find money / when their husbands die
+
+**为什么这样写**： Odette 的推理两段式：先破谎言（sold），再算代价——卖价高不过「割爱之痛」，说明她卖的不是余钱，是最后的余粮。第二问（widows 怎么办）把私人窘境翻成社会问题：没有收入权的女人，守寡即断粮。这一章于是有了一个无意的平行：厂里的女工与客厅里的寡妇，同属「无人兜底」的名单。
+
+**读者视角提示**：留意她此刻的洞察没有出口——她发现了 Arielle 的困境，却被请求「别谈」。看见而不被允许帮忙，是她日后要学会突破的第二种围墙。
 
 > **原句 7:** "She was reeling from the news that Saint-Germain connected the three new people in her life. She had imagined the world to be overwhelmingly vast, but perhaps it was smaller than she knew. She was unsure if that was a good or bad thing, but she had a feeling she would soon find out."
 

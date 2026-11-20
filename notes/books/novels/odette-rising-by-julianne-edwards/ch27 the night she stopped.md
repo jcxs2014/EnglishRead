@@ -44,17 +44,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：对照 ch25 那道「到嘴角」的蛇纹袜：她的腿上绣着咬人的蛇——如今同样的线条画上脸。两种「从眉到嘴角」，一绣一劈。
 
-> **原句 4:** "This wounded creature panting before her, stripped of her fire, had never seemed more real."
-
-**中文理解**：这只受伤的生灵在她面前喘息着，火焰被剥了个干净——她从未显得如此真实。
-
-**关键词**：wounded creature / stripped of her fire / panting / never seemed more real
-
-**为什么这样写**：Berthe 的神性第一次被剥夺成「生物性」：creature 取代 goddess，panting 取代 strut。stripped of her fire 与 ch11 的 firebird 互文：火被抢走了，剩下的是体温与呼吸。real 一词是全章的哲学落点：完美的人是符号，受伤的人才是人——Odette 此刻爱上的不是传奇，是同类。作者让「祛魅」成为亲密的前置条件。
-
-**读者视角提示**：对照 ch14 的 Arielle「所见即所是」与 Berthe 的「所是即神话」：这一夜两人终于站在同一平面。 Odette 的仰望结束了，平等开始了。
-
-> **原句 5:** "She felt a whisper of excitement stir as she looked, and pushed it quickly, desperately away. This was not like her cuts."
+> **原句 4:** "She felt a whisper of excitement stir as she looked, and pushed it quickly, desperately away. This was not like her cuts."
 
 **中文理解**：她看着看着，感到一丝熟悉的兴奋轻轻抬头——她赶紧、几乎是绝望地把它按了回去。这跟她的刀口不一样。
 
@@ -63,6 +53,16 @@ modified: "2026-11-18"
 **为什么这样写**：最诚实也最难堪的一笔：她承认自己在他人的血里闻见了「同类」的气息——十年的切割史在她体内装了一个危险的雷达。desperately 的自搏力度说明这反射多深。This was not like her cuts 的界线声明是她今晚第一次为「她与 Berthe」划清道德边界：别人的痛不是我的止痛剂。作者让羞耻与自觉同框——她没有假装没有，她选择了不跟进。
 
 **读者视角提示**：这是止刀之夜的前置引擎：她必须先承认那个反射存在，才能拒绝执行它。诚实是这次戒断的第一剂药。
+
+> **原句 5:** "This wounded creature panting before her, stripped of her fire, had never seemed more real."
+
+**中文理解**：这只受伤的生灵在她面前喘息着，火焰被剥了个干净——她从未显得如此真实。
+
+**关键词**：wounded creature / stripped of her fire / panting / never seemed more real
+
+**为什么这样写**：Berthe 的神性第一次被剥夺成「生物性」：creature 取代 goddess，panting 取代 strut。stripped of her fire 与 ch11 的 firebird 互文：火被抢走了，剩下的是体温与呼吸。real 一词是全章的哲学落点：完美的人是符号，受伤的人才是人——Odette 此刻爱上的不是传奇，是同类。作者让「祛魅」成为亲密的前置条件。
+
+**读者视角提示**：对照 ch14 的 Arielle「所见即所是」与 Berthe 的「所是即神话」：这一夜两人终于站在同一平面。 Odette 的仰望结束了，平等开始了。
 
 > **原句 6:** "For years the cutting had been vital, as if her body was mediating between her and her life. If she no longer had this, she did not have enough. But tonight, it seemed she could not, just could not."
 
@@ -74,17 +74,7 @@ modified: "2026-11-18"
 
 **读者视角提示**：对照 ch15「hand it back」的顿悟：那次是认知级（羞耻是别人给的），这次是生理级（刀不灵了）——戒断从来需要两次点火。
 
-> **原句 7:** "She trembled as she wrapped her blade back in its cloth and put the bottle away—the first time since the cutting had begun so many years before that she had done that."
-
-**中文理解**：她抖着手把刀片裹回布里、把瓶子收起——自许多年前开割以来，这是第一次。
-
-**关键词**：trembled / wrapped her blade back in its cloth / put the bottle away / the first time
-
-**为什么这样写**：历史性的收场只给一个长句：仪式的每一环（裹、收）都带着戒断的颤抖。the first time 的分量全压在句尾——十年 routines 的第一次中断。作者不写胜利感、不写轻松，只写抖：戒瘾的起点从来不是快感，是空。这个「空」就是下一阶段（真正的生活）的入场资格。
-
-**读者视角提示**：记住这个「第一次」：它比任何宣言都可靠。她的疗愈档案从此多了这一行——刀，归鞘。
-
-> **原句 8:** "The blood in that red room had changed something in her. The iron smell of hatred and Berthe’s pain were too much."
+> **原句 7:** "The blood in that red room had changed something in her. The iron smell of hatred and Berthe’s pain were too much."
 
 **中文理解**：那间红屋里的血，改变了她体内的某种东西。恨的铁锈味，和 Berthe 的痛，太多了。
 
@@ -93,6 +83,16 @@ modified: "2026-11-18"
 **为什么这样写**：本章的因果句：改变的主体是「血」（他人的血），介质是「气味」（iron=铁锈=暴力与经血的双重联想）。hatred 的定性是她的判读：这不是仇杀的激情，是恨意的工艺活——那道从眉到嘴的直线是「工整的恨」。too much 的额度论呼应 mediating 段：她的止痛系统第一次超载爆仓。作者让嗅觉完成心理转折——身体比头脑先痊愈。
 
 **读者视角提示**：对照 ch27 的铁味与 ch17 的铁红能量（iron-red raw one）：铁在她的语言里始终是血的合金——这一次，别人的血终于比自己的更重。
+
+> **原句 8:** "She trembled as she wrapped her blade back in its cloth and put the bottle away—the first time since the cutting had begun so many years before that she had done that."
+
+**中文理解**：她抖着手把刀片裹回布里、把瓶子收起——自许多年前开割以来，这是第一次。
+
+**关键词**：trembled / wrapped her blade back in its cloth / put the bottle away / the first time
+
+**为什么这样写**：历史性的收场只给一个长句：仪式的每一环（裹、收）都带着戒断的颤抖。the first time 的分量全压在句尾——十年 routines 的第一次中断。作者不写胜利感、不写轻松，只写抖：戒瘾的起点从来不是快感，是空。这个「空」就是下一阶段（真正的生活）的入场资格。
+
+**读者视角提示**：记住这个「第一次」：它比任何宣言都可靠。她的疗愈档案从此多了这一行——刀，归鞘。
 
 ## 本章词汇
 
