@@ -29,7 +29,7 @@ modified: "2026-11-19"
 **中文理解**：「David，」她说。声音很平静。「没事的。我现在懂了。我并不是真的在这里。我从来都不是。」
 **关键词**：I get it now / I never was
 **为什么这样写**：离场者的和解词只有三句：平静是本段最恐怖的声学——恐惧被领悟替换。I never was 的存在论否认完成全书题眼的最后一次校准：她不是「将要」成为虚构，她从来就是。对 David 说话的温柔让他的追逐注定失败：她已过了需要被救的那个自己。
-**读者视角提示**：对照 ch19 Bethany 的「I'm not really here」？——不，对照的是 ch07 Erin 的「I'm not sure they're even still alive」：母亲式句式在两代 receiver 身上复用。记住「I get it now」：频道的传授以「领悟」为完成态。
+**读者视角提示**：对照 ch38 的 Erin（「You want to be me」审判后走向 home）：她在两章里连说两次「我从来都不是」——先是对 David 说他想成为她，再是对自己说「I never was」。记住「I get it now」：频道的传授以「领悟」为完成态。
 
 > **原句 4:** "He heard a little bell ring. Erin looked over her shoulder as the door to the video store burst open behind her. The wind changed directions and grew fierce, like a cosmic vacuum cleaner powered all the way up."
 **中文理解**：他听见小铃铛响。Erin 回头——视频店的门在她身后炸开。风向变了，猛烈起来，像一台功率开到底的宇宙吸尘器。
