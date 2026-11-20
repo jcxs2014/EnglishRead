@@ -1,0 +1,61 @@
+{
+ "book": "public-access-afterworld-by-jane-schoenbrun",
+ "chapter": "ch50",
+ "text": "notes/books/novels/public-access-afterworld-by-jane-schoenbrun/text/ch50_chimotera_1944.txt",
+ "facts": [
+  {
+   "fact": "生命从 logo 开始：黑白水塔/弦乐/timpani；你叫 Wilhelm，曾是男人",
+   "anchor": "A black-and-white water tower illuminates stars in a black-and-white sky.",
+   "start": 113,
+   "end": 186
+  },
+  {
+   "fact": "事故→变成怪物→被村民火烧→less than ninety minutes 一生结束",
+   "anchor": "The whole thing took a lifetime. And yet it was over in less than ninety minutes.",
+   "start": 950,
+   "end": 1031
+  },
+  {
+   "fact": "童年记忆模糊；初恋 Marcela 在 Harvard Square 河边野餐（芥末籽滴到裙上）",
+   "anchor": "Mustard seed dripping from her chin down to her summer dress.",
+   "start": 2269,
+   "end": 2330
+  },
+  {
+   "fact": "Marcela 父亲最后通牒：放弃研究或禁止婚事",
+   "anchor": "Either give up your research and return to Cambridge, or he would forbid a union between you and his daughter.",
+   "start": 3877,
+   "end": 3987
+  },
+  {
+   "fact": "记忆分叉：黑白版=滑倒；彩色版=收音机声音『Find a screen, Wilhelm』导致滑倒",
+   "anchor": "“Find a screen,” it said. “Find a screen, Wilhelm.”",
+   "start": 4769,
+   "end": 4820
+  },
+  {
+   "fact": "蝙蝠咬伤感染→变成半人半蝙蝠 Chimotera、杀死 Marcela 父亲、撕碎 Marcela、被烧死",
+   "anchor": "You were horrific. A monster. No longer Wilhelm.",
+   "start": 5617,
+   "end": 5665
+  },
+  {
+   "fact": "彩色复醒：空村、收音机合唱 Find a screen、Grand Paramount 电影院空场",
+   "anchor": "There’s that voice again. The voice that beamed through the radio from a deeper, more vivid reality.",
+   "start": 8377,
+   "end": 8477
+  },
+  {
+   "fact": "银幕上出现 RadioShack 副总裁 Fisch（无声片+title cards）；给『免费样品』重启人生，代价是结束后再来见他",
+   "anchor": "Let’s call this one a free sample",
+   "start": 13881,
+   "end": 13914
+  },
+  {
+   "fact": "Fisch 以『再见 Marcela/娶她』诱惑；Wilhelm 问 price；要求 Talkies 发明后再会",
+   "anchor": "Talkies should be invented by then, so we won’t need these stupid title cards to speak.",
+   "start": 14030,
+   "end": 14117
+  }
+ ]
+}
