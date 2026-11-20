@@ -1,0 +1,61 @@
+{
+ "book": "the-red-rider-by-randall-allen-dunn",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-red-rider-by-randall-allen-dunn/text/ch09_9.txt",
+ "facts": [
+  {
+   "fact": "Francois 英雄定义揭晓（银斧一击杀狼救她的往事）：英雄不是又高又壮，是站出来把该做的事做了",
+   "anchor": "somebody who stands up to do what’s got to be done",
+   "start": 989,
+   "end": 1039
+  },
+  {
+   "fact": "她破窗而入的第一枪不射 Grenault，先放倒威胁 Madame Denue 的 Devereaux",
+   "anchor": "I fired at the wolf threatening Madame Denue.",
+   "start": 2108,
+   "end": 2153
+  },
+  {
+   "fact": "第二枪射 Jareau 下爪，银箭一击毙命——Grenault 的挚友尽折",
+   "anchor": "Dead from the single silver-tipped wound.",
+   "start": 2724,
+   "end": 2765
+  },
+  {
+   "fact": "对峙中 Grenault 精确数着她连发的弩箭，知道这就是最后一支",
+   "anchor": "He had been counting.",
+   "start": 4044,
+   "end": 4065
+  },
+  {
+   "fact": "Grenault 从壁炉上拔走她的一支箭作\"纪念品\"，当面撤退——他能随时回来",
+   "anchor": "I’ll just take this as a souvenir.",
+   "start": 4656,
+   "end": 4690
+  },
+  {
+   "fact": "Madame Denue 惊魂未定，坚称狼\"站起来了还会说话\"（她此前喝过酒）",
+   "anchor": "I swear to you it stood!",
+   "start": 5653,
+   "end": 5677
+  },
+  {
+   "fact": "Monsieur Denue 拒信会说话的狼，把妻子的证词归因于杯中之物",
+   "anchor": "You’ve been drinking, Marguerite.",
+   "start": 6263,
+   "end": 6296
+  },
+  {
+   "fact": "致命疏漏：她骑马追出去才发现忘了装填——手指发抖补装银箭",
+   "anchor": "I had forgotten to reload.",
+   "start": 7627,
+   "end": 7657
+  },
+  {
+   "fact": "结尾自评：她说不出他一条弱点，他手里却攥着她全部弱点（十六岁、靠威慑、连发只有十箭）",
+   "anchor": "he knew every one of mine.",
+   "start": 8797,
+   "end": 8826
+  }
+ ]
+}
