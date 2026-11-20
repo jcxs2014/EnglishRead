@@ -95,24 +95,21 @@ modified: "2026-11-20"
 > "“She laughed!” Kayla repeats, a hysterical laugh escaping her own lips as tears continue streaming down her face. “But she’s not laughing now, is she? I hope she’s burning in hell with the rest of them!”"
 
 **中文理解**：Kayla 忏悔核心：Peyton 杀了她哥哥、她就站在那里看着；她对 Andre 喊：你妹妹 Amber 也在场——Peyton 烧毁一切时她在笑；「她现在笑不出来了，我希望她和他们一起在地狱里烧」。
-**关键词**：killed my brother / I stood there and watched / She laughed while Peyton burned the whole thing down
+**关键词**：She killed him, and I just watched / I stood there and watched / burning in hell with the rest of them
 **为什么这样写**：谜底的三重交付——作者借 Kayla 之口一次性给出：凶手（Peyton）、方式（纵火）、 victim（Kody）、目击者（Kayla/Amber/Max）、反应（笑）；「burning in hell」与 ch33 Peyton 的「I'm taking you down with me」互为镜像：两人都在等对方下地狱。
 **读者视角提示**：这是全书真相的正式公布——T1 审查时核对：纵火细节（怎么烧、为什么）是否在 ch36-41 有后续展开；Kayla 的「I watched」是她十年毒瘾的心理根源。
 
 > **原句 9:** "“Back the fuck off. Unless you want to be in cuffs next.” His eyes narrow as he leans toward me. "Go on. Give me a fucking reason.""
 
 **中文理解**：Andre 拖走妹妹时被 Max 喝止，他凶相毕露：滚开——除非你也想戴手铐；凑近低声：来啊，给我一个理由。
-**关键词**：in cuffs next / Give me a fucking reason / twisted into an ugly snarl
+**关键词**：in cuffs next / Give me a fucking reason / His eyes narrow
 **为什么这样写**：执法者的私人化——作者让 Andre（ch10 泄露档案的人、Amber 之兄）用职权威胁 Max：警察不是保护她，是 Reds 家族的自卫工具；「give me a reason」是把执法权变成私刑邀请。
 **读者视角提示**：Andre 的敌意有两层：妹妹死了（恨 Max）+ 档案泄露案发（怕被查）；记住他——他是「制度性敌意」的具象，也是能栽赃 Max 的现成执法通道。
 
 > **原句 10:** "Fairhope hasn’t changed. It still remembers the girl I used to be. I’m beginning to think someone wants to punish me for surviving her."
->
->
-> "Ah… there’s nothing quite like returning to your hometown to discover half the people hate you and the other half think you’re a murderer."
 
 **中文理解**：Fairhope 没变——它还记得「从前的那个她」，她开始怀疑有人想惩罚「活下来的她」；回乡的收获：一半人恨你，另一半觉得你是凶手。
-**关键词**：remembers the girl I used to be / punish me for surviving her / half the people hate you and the other half think you’re a murderer
+**关键词**：remembers the girl I used to be / punish me for surviving her / Fairhope hasn’t changed
 **为什么这样写**：幸存者的双重惩罚——作者让 Max 点出全书的社会机制：她不仅要背负「旧我」的污名，还要为「活下来」被惩罚（凶手/她都活着，而 Reds 死了）；「half and half」的算术把小镇人群二分。
 **读者视角提示**：这句「punish me for surviving」与 Kayla 的「为什么我还活着」形成镜像——一个想死而活着的、一个想活而差点死的；记住这个对称。
 
@@ -156,9 +153,13 @@ modified: "2026-11-20"
 >
 >
 > "Before I can raise my hand to catch his attention, he turns and walks away, disappearing into the darkness."
->
->
-> "The person nobody would ever see coming."
+
+**中文理解**：Milo 远远看着骚乱，脸色难读；她还没抬手唤他，他就转身走进黑暗。
+**关键词**：face impossible to read / turns and walks away / disappearing into the darkness
+**为什么这样写**：「不干预」作为最大疑点——Kayla 指认 Max 时他就在人群里，却没有像过去那样出面维护她；他的沉默与她 ch34 的公开宣言形成对照：公开之后，他的每一次「不在场」都被她重新读解。
+**读者视角提示**：记住这个 oak 树影下的旁观者剪影——它与 ch26「窗帘后的 Milo」呼应：他总是出现又消失，他的十年经历至今是叙事空白。
+
+> **原句 15:** "The person nobody would ever see coming."
 >
 >
 > "The person I’d trust with my life."
@@ -169,9 +170,9 @@ modified: "2026-11-20"
 >
 > "Milo."
 
-**中文理解**：Milo 远远看着骚乱，脸色难读；她还没抬手唤他，他就转身走进黑暗；而 Max 的作家本能给出全书终极怀疑：如果这是我的书，凶手就是那个「永远没人料到、我以性命相托、爱了一辈子」的人——Milo。
-**关键词**：face impossible to read / he turns and walks away, disappearing into the darkness / nobody would ever see coming / I’d trust with my life / Milo.
-**为什么这样写**：双重反转的终章炸弹——作者让「作家推凶法」（她自己的职业）指向她最不可能怀疑的人：前 34 章所有「他守护她」的细节（送她回家/挡球/救场/救人）全部可以被重读为「凶手在监控猎物」；单字「Milo.」独立成段，是全书最大的一声闷雷。
+**中文理解**：她的作家本能给出全书终极怀疑：如果这是我的书，凶手就是那个「永远没人料到、我以性命相托、爱了一辈子」的人——Milo。
+**关键词**：nobody would ever see coming / I’d trust with my life / loved for as long as I can remember / Milo.
+**为什么这样写**：双重反转的终章炸弹——作者让「作家推凶法」（她自己的职业）指向她最不可能怀疑的人：前 35 章所有「他守护她」的细节（送她回家/挡球/救场/救人）全部可以被重读为「凶手在监控猎物」；单字「Milo.」独立成段，是全书最大的一声闷雷。
 **读者视角提示**：这是全书最后 7 章的驱动问题——T1 审查时核对：结局如何回答「Milo 是不是凶手」；「trust with my life」与 ch29「trust me」、ch25「I'd trust with my life」的信任链在此断裂重组。
 
 ## 本章词汇
