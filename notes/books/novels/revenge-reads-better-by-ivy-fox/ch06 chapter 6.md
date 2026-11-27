@@ -13,14 +13,7 @@ modified: "2026-11-20"
 - **叙事手法**：字母表=命运装置（姓氏顺序决定相遇）；社会地图（Reds/jocks/学霸/freaks）给全书角色定坐标系；「It isn't a request. It's an order」三词收束权力关系。
 
 ## 精读
-> **原句 1:** "The Reds have already formed their little cult under Peyton's command. The jocks have found their kingdom on the football field, where Milo wears the crown as their new star quarterback. The overachievers orbit around Sienna as if she were their North Star. And then there are the freaks. The outcasts, the afterthoughts. People like me. The ones who exist somewhere on the fringe of it all, close enough to watch but never quite close enough to belong."
-
-**中文理解**：新生年级的权力地图一页画完：Reds 在 Peyton 手下成了小教团，jocks 的王座上是四分卫 Milo，学霸们围着北极星 Sienna 公转——然后是 freaks：像她这样在边缘观看、永远不够格入场的局外人。
-**关键词**：little cult / new star quarterback / North Star
-**为什么这样写**：作者用天文与王国的隐喻给学生社会分层——每个阵营一个字头，为全书 forty 章的人际冲突预装坐标；Milo 与 Sienna 各占一极，而 Max 的位置只有「watch」，这决定她所有关系的观测者视角。
-**读者视角提示**：记住这张地图的四个方位——后面每次人物互动都是在这张图上画线，谁越过边界谁就有事。
-
-> **原句 2:** "Sienna is not heartless. She's just the kind of person who lets logic rule rather than emotion. The kind of person who color-codes her notes, raises the class average without trying, and somehow turns every assignment into a competition she fully intends to win.
+> **原句 1:** "Sienna is not heartless. She's just the kind of person who lets logic rule rather than emotion. The kind of person who color-codes her notes, raises the class average without trying, and somehow turns every assignment into a competition she fully intends to win.
 >
 >
 > Type A to her core, Sienna is highly driven and painfully competitive. A perfectionist to a T. And yes, maybe sometimes that comes off as being a little cold."
@@ -29,6 +22,13 @@ modified: "2026-11-20"
 **关键词**：lets logic rule rather than emotion / Type A to her core / perfectionist to a T
 **为什么这样写**：Max 替好友写辩护状，条款具体到彩色笔记——用行为证据反驳外号，正是 Sienna 式的思维；「comes off as」一语承认误解的合理性，辩护才显得诚实。
 **读者视角提示**：这套「逻辑优先」人设将在悬案里变成超能力：她是全场唯一会把证据做成表格的人。
+
+> **原句 2:** "The Reds have already formed their little cult under Peyton's command. The jocks have found their kingdom on the football field, where Milo wears the crown as their new star quarterback. The overachievers orbit around Sienna as if she were their North Star. And then there are the freaks. The outcasts, the afterthoughts. People like me. The ones who exist somewhere on the fringe of it all, close enough to watch but never quite close enough to belong."
+
+**中文理解**：新生年级的权力地图一页画完：Reds 在 Peyton 手下成了小教团，jocks 的王座上是四分卫 Milo，学霸们围着北极星 Sienna 公转——然后是 freaks：像她这样在边缘观看、永远不够格入场的局外人。
+**关键词**：little cult / new star quarterback / North Star
+**为什么这样写**：作者用天文与王国的隐喻给学生社会分层——每个阵营一个字头，为全书 forty 章的人际冲突预装坐标；Milo 与 Sienna 各占一极，而 Max 的位置只有「watch」，这决定她所有关系的观测者视角。
+**读者视角提示**：记住这张地图的四个方位——后面每次人物互动都是在这张图上画线，谁越过边界谁就有事。
 
 > **原句 3:** "“Sorry, Misty. Rules are rules.” He shrugs, not looking one bit apologetic. “Besides, if I could pick anyone, I'd still choose Max. She's always my pick.” He winks at me."
 

@@ -23,47 +23,7 @@ modified: "2026-11-20"
 **为什么这样写**：全书罪行的「最终定罪」——作者用罪名清单把 ch35 的「钱动机」理论正式兑现：Peyton 纵火→骗和解金→建政治资本→杀知情者→嫁祸 Max；「grift on a lie she created herself」点出她从受害者到加害者的身份欺骗。
 **读者视角提示**：Peyton 的「双重罪」（谋杀+诈骗）解释了 ch35 Sienna 提出的两个动机（revenge + money）为何同时成立——两者不是二选一，是同一人的两面。
 
-> **原句 2:** "“She’s talking to Milo.”"
->
->
-> "“Milo’s dead, Doctor. He’s been dead for almost eleven years now. He was one of the five teenagers who died in the Crowley Mill fire.”"
-
-**中文理解**：Sienna 告诉医生全书最大的终极揭示：Milo 已经死了——死了快十一年，是纸厂火灾五个死者之一；而 Max 不是在自言自语——她在跟 Milo 说话。
-**关键词**：Milo’s dead / almost eleven years / Crowley Mill fire / She’s talking to Milo
-**为什么这样写**：终极揭示放在尾声——作者让读者在 ch38 的爆炸后（「Max 被炸飞」）一直不知道 Milo 也死了；这段揭示回收 ch38 结尾「Hold on. For me」——他撑着陪她到失去意识，然后在医院等她活下来后心跳停止。
-**读者视角提示**：这是全书的终极反转——读者在 ch38 只看到「Max 被炸飞严重烧伤」，没被告知 Milo 之死；从 Prologue 到 ch40 的所有 ROM 甜景，在回想中全部变为「她与死者的对话」。
-
-> **原句 3:** "The only reason her entire body wasn’t burned to a crisp is because Milo pushed her away from the worst of the blast."
->
->
-> "“Milo wasn’t so lucky.”"
-
-**中文理解**：Milo 把她推离爆炸最严重的地方——所以她没被烧成灰；「Milo 没那么幸运。」
-**关键词**：pushed her away from the worst / burned to a crisp / Milo wasn’t so lucky
-**为什么这样写**：救人的代价——作者让「他把她推出去=他留在爆炸中心」的物理逻辑自然展开：她的疤（脸颊/脖子/手指）是他「推」的结果，他的死也是；「wasn't so lucky」是 Sienna 用最冷静的措辞说最残忍的事实。
-**读者视角提示**：这段回收 ch38 爆炸场景——从 Sienna 旁观者视角重新描述那一刻：她「看到他被扔到空中→爬过草地→抓住她的手→说 hold on」；这些细节 Max 不知道（她当时已失去意识）。
-
-> **原句 4:** "The moment Milo heard Max was going to be okay, his heart stopped beating."
->
->
-> "He’d become exactly what he’d always promised to be. The person who saved her when she couldn’t save herself."
-
-**中文理解**：医院里——Milo 撑了很久，听到 Max 活下来了，心跳停止；他最终成为了他一直承诺要成为的人——她无法自救时救她的人。
-**关键词**：heard Max was going to be okay / heart stopped / what he’d always promised to be
-**为什么这样写**：死亡的原因为「听到她安全」——作者让 Milo 的死因不是伤重而是「放下」：他撑着全是因为她还没脱离危险；一旦确认她安全，「他不需要再撑了」；「what he'd always promised to be」回收 ch04 的「knight in shining armor」、ch08 的「save you」、ch36 的「build a life with his daughter」。
-**读者视角提示**：这段是 Milo 死因的最终定案——T1 审查时核对：ch38 的爆炸场景是否与此处的「医院死亡」描述一致（爆炸→送医→撑→听到→停）。
-
-> **原句 5:** "“Not all love stories end with a happily ever after, Doctor. Doesn’t mean they’re any less extraordinary.”"
->
->
-> "The End"
-
-**中文理解**：Sienna 对医生说：不是所有爱情故事都有圆满结局——但那不代表它们不非凡。
-**关键词**：Not all love stories / happily ever after / any less extraordinary
-**为什么这样写**：全书的最后一句——作者用这句话为整个故事定性：这不是一个 HEA（Happily Ever After）故事，它是一个非凡的悲剧爱情故事；「The End」紧接其后，不给续篇、不给转机、不给读者任何补救——这就是结局。
-**读者视角提示**：全书最后一句话——T1 审查时核对：这句话是否在总览三篇的金句精选中被收录；它是全书的最终主题句，与 Prologue 的「hell froze over」形成首尾闭环。
-
-> **原句 6:** "I don’t know who Elias is, or what he’s doing at Springview, but the look in his eyes sets every last one of my alarm bells ringing."
+> **原句 2:** "I don’t know who Elias is, or what he’s doing at Springview, but the look in his eyes sets every last one of my alarm bells ringing."
 >
 >
 > "This man has blood on his hands."
@@ -99,3 +59,43 @@ modified: "2026-11-20"
 
 ## 一句话总结
 尾声以 Sienna 视角揭出全书最后的底牌：Peyton 为纵火+诈骗被捕，Max 在精神病院里跟一个死了十一年的 Milo 说话——而 Sienna 对医生说：不是所有爱情都有圆满结局，但那不代表它们不非凡。
+> **原句 3:** "“She’s talking to Milo.”"
+>
+>
+> "“Milo’s dead, Doctor. He’s been dead for almost eleven years now. He was one of the five teenagers who died in the Crowley Mill fire.”"
+
+**中文理解**：Sienna 告诉医生全书最大的终极揭示：Milo 已经死了——死了快十一年，是纸厂火灾五个死者之一；而 Max 不是在自言自语——她在跟 Milo 说话。
+**关键词**：Milo’s dead / almost eleven years / Crowley Mill fire / She’s talking to Milo
+**为什么这样写**：终极揭示放在尾声——作者让读者在 ch38 的爆炸后（「Max 被炸飞」）一直不知道 Milo 也死了；这段揭示回收 ch38 结尾「Hold on. For me」——他撑着陪她到失去意识，然后在医院等她活下来后心跳停止。
+**读者视角提示**：这是全书的终极反转——读者在 ch38 只看到「Max 被炸飞严重烧伤」，没被告知 Milo 之死；从 Prologue 到 ch40 的所有 ROM 甜景，在回想中全部变为「她与死者的对话」。
+
+> **原句 4:** "The only reason her entire body wasn’t burned to a crisp is because Milo pushed her away from the worst of the blast."
+>
+>
+> "“Milo wasn’t so lucky.”"
+
+**中文理解**：Milo 把她推离爆炸最严重的地方——所以她没被烧成灰；「Milo 没那么幸运。」
+**关键词**：pushed her away from the worst / burned to a crisp / Milo wasn’t so lucky
+**为什么这样写**：救人的代价——作者让「他把她推出去=他留在爆炸中心」的物理逻辑自然展开：她的疤（脸颊/脖子/手指）是他「推」的结果，他的死也是；「wasn't so lucky」是 Sienna 用最冷静的措辞说最残忍的事实。
+**读者视角提示**：这段回收 ch38 爆炸场景——从 Sienna 旁观者视角重新描述那一刻：她「看到他被扔到空中→爬过草地→抓住她的手→说 hold on」；这些细节 Max 不知道（她当时已失去意识）。
+
+> **原句 5:** "The moment Milo heard Max was going to be okay, his heart stopped beating."
+>
+>
+> "He’d become exactly what he’d always promised to be. The person who saved her when she couldn’t save herself."
+
+**中文理解**：医院里——Milo 撑了很久，听到 Max 活下来了，心跳停止；他最终成为了他一直承诺要成为的人——她无法自救时救她的人。
+**关键词**：heard Max was going to be okay / heart stopped / what he’d always promised to be
+**为什么这样写**：死亡的原因为「听到她安全」——作者让 Milo 的死因不是伤重而是「放下」：他撑着全是因为她还没脱离危险；一旦确认她安全，「他不需要再撑了」；「what he'd always promised to be」回收 ch04 的「knight in shining armor」、ch08 的「save you」、ch36 的「build a life with his daughter」。
+**读者视角提示**：这段是 Milo 死因的最终定案——T1 审查时核对：ch38 的爆炸场景是否与此处的「医院死亡」描述一致（爆炸→送医→撑→听到→停）。
+
+> **原句 6:** "“Not all love stories end with a happily ever after, Doctor. Doesn’t mean they’re any less extraordinary.”"
+>
+>
+> "The End"
+
+**中文理解**：Sienna 对医生说：不是所有爱情故事都有圆满结局——但那不代表它们不非凡。
+**关键词**：Not all love stories / happily ever after / any less extraordinary
+**为什么这样写**：全书的最后一句——作者用这句话为整个故事定性：这不是一个 HEA（Happily Ever After）故事，它是一个非凡的悲剧爱情故事；「The End」紧接其后，不给续篇、不给转机、不给读者任何补救——这就是结局。
+**读者视角提示**：全书最后一句话——T1 审查时核对：这句话是否在总览三篇的金句精选中被收录；它是全书的最终主题句，与 Prologue 的「hell froze over」形成首尾闭环。
+
