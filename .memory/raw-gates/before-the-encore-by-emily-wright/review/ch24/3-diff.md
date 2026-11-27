@@ -1,3 +1,0 @@
-# ch24 R3 对账（R1 vs md）
-R1 10 条：茧居/Leo Moon ✓（原句1）square/power couple ✓（原句2）格莱美落选 ✓（原句3）Ruby 短信 ✓（原句4）their way ✓（原句5）fuck them/歌本 ✓（原句6）Fuck Off Madison Moore ✓（原句6）Frank/Kam/termination ✓（原句7）Malcolm/回形针/诽谤案 ✓（原句8）详述/assault ✓（原句9）警告/就算赔/deserve/发送 ✓（原句10）。
-编：无。错：无——施事抽查：Leo Moon=Bonnie 解读 Madison ✓（L17）；didn't get nominated=Scarlett 电话转达 ✓（L101）；I did it their way=Bonnie ✓（L131）；Well, fuck them!=Bonnie ✓（L149）；Fuck Off Madison Moore=Bonnie 旧作 ✓（L164）；That's what you pay me for=Bailey ✓（ch21 交叉）；I am terminating=通知文本（Bonnie 署名发出）✓；paperclip=Malcolm ✓（L233）；Even if I have to pay him=Bonnie ✓（L320）；I'm Bonnie fucking Bloom=Bonnie ✓（L332）。

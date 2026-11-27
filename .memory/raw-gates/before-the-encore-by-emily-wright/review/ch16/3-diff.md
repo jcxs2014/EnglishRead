@@ -1,3 +1,0 @@
-# ch16 R3 对账（R1 vs md）
-R1 12 条：车道/城堡恶龙 ✓（原句1）Volvo/护理史 ✓（原句2）六个月/good day ✓（原句3/4）联系 Madison ✓（原句5）社媒/Olivia ✓（原句6——wait，md ch16 块序：1 车道 2 没动 3 护理史 4 大门/石卡喉 5 good day 6 six months 7 gruff voice 8 Uber 9 tagged 10 sharks 11 Olivia wants 12 Prius/hug 13 Mel/Eldrich-Grech 14 music room/Nora 15 唱歌/浴室 16 after party/never miss 17 妈妈抱/take care 18 车内吻——R1 12 条全部覆盖 ✓。
-编：无。错：无——施事抽查：gruff voice=Madison ✓（L77）；I'll get an Uber=Madison ✓（L122）；“Nora,” she breathed=妈妈 ✓（L233）；It's a pleasure=Madison ✓（L245）；Have you heard my girl sing=妈妈 ✓（L278）；I never miss a show=妈妈 ✓（L353）；I'll take care of her=Madison ✓（L329）；Are you coming in?=Bonnie ✓（L395）。

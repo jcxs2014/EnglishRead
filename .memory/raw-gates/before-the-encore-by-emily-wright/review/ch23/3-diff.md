@@ -1,3 +1,0 @@
-# ch23 R3 对账（R1 vs md）
-R1 11 条：strap 夜 ✓（原句1/2）Say it/reflections ✓（原句3/4）loaded gun/housewarming ✓（原句5/6）计划 dread ✓（原句7）歌本两段 ✓（原句8/9/10）Ghost 之问 ✓（原句11）What a bitch/no ✓（原句11）爱之清单 ✓（原句12）more like you/lawyer/deserve better ✓（原句12/13）陪看妈妈 ✓（原句13）。
-编：无。错：无——施事抽查：promise=Madison ✓（L47）；Say it=Madison ✓（L128）；I'm yours=Bonnie ✓（L131）；housewarming=Madison ✓（L191）；冰沙机=Bonnie ✓（L194）；Release the album=Madison ✓（L209）；Be my lightning=歌本草稿 ✓（L272）；Of course it's about you=Madison ✓（L290）；Who's a ghost to you?=Madison ✓（L341）；Olivia 叙述=Bonnie ✓（L374）；What a bitch=Madison ✓（L377）；I'll tell Roberto no=Madison ✓（L413）；I do deserve better=Bonnie ✓（L464）；陪去提议=Bonnie ✓（L470）。
