@@ -9,6 +9,7 @@ metadata:
 
 > 本文件 = **记忆索引**（不存规则正文）。规则正文在 `docs/rules/`，书级编排在 `docs/新书启动模板.md`，重构进度在 `docs/rules/PLAN.md`。
 > 新会话读取顺序：system-reminder → `docs/rules/创建卡.md`（要写章时）→ 本文件（查历史）。
+> **换会话/接续工作先读 `.memory/handoff.md`**（当前状态 + 检查器坑位 + 未决项 + 用户偏好），本文件查历史细节。
 
 ## 核心规则文档
 
