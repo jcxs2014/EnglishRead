@@ -51,12 +51,15 @@ python3 scripts/structure.py order "<书目录>"     # 块序
 python3 scripts/check_rules_health.py            # 规则库自检（改文档后必跑）
 ```
 
-## 6. `.memory/raw-gates/` 现状（别急着删）
+## 6. `.memory/raw-gates/` 现状（2026-11-27 精简后）
 
-- 规模：**23,297 文件 / 145 MB**，其中 `*/review/` 占 **16,048 文件 / 73 MB**（T1–T3 的素读、机器日志、判定表）。
-- 2026-11-27 跑过 `scripts/prune_raw_gates.py --apply`：按「每本书只留最新一次」策略删了 18 个文件（策略已基本出清，剩下的都不合规约）。
-- **没有批量删 review/**：其中 **24 本**（如 `harbour-of-hungry-ghosts`、`life-out-of-order`、`homesick`）的 review 路径被 `docs/实测档案/` 与台账正文引用，删了当场断链。
-- 若将来要压体积，正确顺序是：先改引用 → 再按「每本书只留最新一轮」删 → 留一份 manifest。不要先删。
+- 规模：**约 15,400 文件 / 48 MB**（精简前 23,297 / 145 MB）。
+- 2026-11-27 做了两件事：
+  1. `prune_raw_gates.py --apply`：按「每本书只留最新一次」删 18 个过期件（策略已出清）。
+  2. **删 7,948 个可再生中间件**（`2-machine.json/.txt/.err`、`3-diff.md`、`t1-candidates.txt`、`ev.txt`、`.DS_Store`），**47 MB**；保留 **`4-verdict.md`（人写的判定）** 与 **`1-suread.json`（R1 素读事实）**。
+- 清单：`docs/实测档案/AN_2026-11-27_raw-gates精简清单.md`（逐书删/留统计 + 取证命令）。
+- 取证：删掉的东西仍在 git 历史，`git show <删除前提交>:<路径>` 可取回。
+- **不要再按「书名目录」批量删**：文档与台账引用的是保留件（39 本书 / 95 处），删保留件会当场断链。
 
 ## 7. 换会话后第一件事
 
